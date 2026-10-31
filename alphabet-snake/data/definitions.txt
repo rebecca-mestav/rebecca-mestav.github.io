@@ -53897,8 +53897,10 @@ HEFTS	(noun, form of heft) the property of being large in mass\n(verb, form of h
 HEFTY	(adjective) (of a person) possessing physical strength and weight; rugged and powerful
 HEGARI	(noun) Sudanese sorghums having white seeds; one variety grown in southwestern United States
 HEGARIS	(noun, form of hegari) Sudanese sorghums having white seeds; one variety grown in southwestern United States
+HEGEMON	(noun) a person, group or nation that has power or control over others
 HEGEMONIC	Leading; controlling; ruling; predominant. "Princelike and hegemonical." Fotherby.
 HEGEMONIES	(noun, form of hegemony) the dominance or leadership of one social group or nation over others
+HEGEMONS	(noun, form of hegemon) a person, group or nation that has power or control over others
 HEGEMONY	(noun) the dominance or leadership of one social group or nation over others
 HEGIRA	(noun) the flight of Muhammad from Mecca to Medina in 622 which marked the beginning of the Muslim era; the Muslim calendar begins in that year
 HEGIRAS	(noun, form of hegira) the flight of Muhammad from Mecca to Medina in 622 which marked the beginning of the Muslim era; the Muslim calendar begins in that year
@@ -78389,7 +78391,6 @@ NOYADE	A drowning of many persons at once, -- a method of execution practiced at
 NOYADES	(form of noyade) A drowning of many persons at once, -- a method of execution practiced at Nantes in France during the Reign of Terror, by Jean Baptiste Carrier.
 NOZZLE	(noun) a projecting spout from which a fluid is discharged
 NOZZLES	(noun, form of nozzle) a projecting spout from which a fluid is discharged
-NTH	(adjective) last or greatest in an indefinitely large series
 NUANCE	(noun) a subtle difference in meaning or opinion or attitude
 NUANCED	(form of nuance) A shade of difference; a delicate gradation.
 NUANCES	(noun, form of nuance) a subtle difference in meaning or opinion or attitude
