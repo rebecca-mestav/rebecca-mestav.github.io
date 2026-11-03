@@ -54216,6 +54216,8 @@ HENDECASYLLABLE	A metrical line of eleven syllables. J. Warton.
 HENDECASYLLABLES	(form of hendecasyllable) A metrical line of eleven syllables. J. Warton.
 HENDIADYS	(noun) use of two conjoined nouns instead of a noun and modifier
 HENDIADYSES	(noun, form of hendiadys) use of two conjoined nouns instead of a noun and modifier
+HENGE	(noun) a prehistoric monument of a circular bank and ditch, often with a ring of standing stones or timber posts inside, like Stonehenge
+HENGES	(noun, form of henge) a prehistoric monument of a circular bank and ditch, often with a ring of standing stones or timber posts inside, like Stonehenge
 HENHOUSE	(noun) a farm building for housing poultry
 HENHOUSES	(noun, form of henhouse) a farm building for housing poultry
 HENIQUEN	A Mexican name for the Sisal hemp (Agave rigida, var. Sisalana); also, its fiber. [Written also heniequen.]
