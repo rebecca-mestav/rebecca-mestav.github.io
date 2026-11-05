@@ -295,6 +295,8 @@ ABORTIFACIENT	(noun) a drug (or other chemical agent) that causes abortion\n(adj
 ABORTIFACIENTS	(noun, form of abortifacient) a drug (or other chemical agent) that causes abortion
 ABORTING	(verb, form of abort) terminate before completion
 ABORTION	(noun) termination of pregnancy
+ABORTIONIST	(noun) a person (who should be a doctor) who terminates pregnancies
+ABORTIONISTS	(noun, form of abortionist) a person (who should be a doctor) who terminates pregnancies
 ABORTIONS	(noun, form of abortion) termination of pregnancy
 ABORTIVE	(adjective) failing to accomplish an intended result
 ABORTIVELY	(adverb) in an unfruitful manner
@@ -585,6 +587,8 @@ ACADEMIES	(noun, form of academy) a secondary school (usually private)
 ACADEMISM	(noun) orthodoxy of a scholastic variety
 ACADEMISMS	(noun, form of academism) orthodoxy of a scholastic variety
 ACADEMY	(noun) a secondary school (usually private)
+ACAI	(noun) the small, dark purple berry of a South American palm tree, eaten as a fruit and used in juices and smoothie bowls
+ACAIS	(noun, form of acai) the small, dark purple berry of a South American palm tree, eaten as a fruit and used in juices and smoothie bowls
 ACAJOU	(a) The cashew tree; also, its fruit. See Cashew. (b) The mahogany tree; also, its timber.
 ACAJOUS	(form of acajou) (a) The cashew tree; also, its fruit. See Cashew. (b) The mahogany tree; also, its timber.
 ACALEPH	One of the Acalephæ.
@@ -10041,6 +10045,10 @@ BEDABBLE	To dabble; to sprinkle or wet. Shak.
 BEDABBLED	(form of bedabble) To dabble; to sprinkle or wet. Shak.
 BEDABBLES	(form of bedabble) To dabble; to sprinkle or wet. Shak.
 BEDABBLING	(form of bedabble) To dabble; to sprinkle or wet. Shak.
+BEDAMN	(verb) wish harm upon; invoke evil upon
+BEDAMNED	(verb, form of bedamn) wish harm upon; invoke evil upon
+BEDAMNING	(verb, form of bedamn) wish harm upon; invoke evil upon
+BEDAMNS	(verb, form of bedamn) wish harm upon; invoke evil upon
 BEDAUB	(verb) spread or daub (a surface)
 BEDAUBED	(verb, form of bedaub) spread or daub (a surface)\n(adjective) ornamented in a vulgar or showy fashion
 BEDAUBING	(verb, form of bedaub) spread or daub (a surface)
@@ -12902,6 +12910,7 @@ BOLLIX	(verb) make a mess of, destroy or ruin
 BOLLIXED	(verb, form of bollix) make a mess of, destroy or ruin
 BOLLIXES	(verb, form of bollix) make a mess of, destroy or ruin
 BOLLIXING	(verb, form of bollix) make a mess of, destroy or ruin
+BOLLOCKS	(noun, form of bollock) one of the two male reproductive glands that produce spermatozoa and secrete androgens\n(verb) make a mess of, destroy or ruin
 BOLLS	(noun, form of boll) the rounded seed-bearing capsule of a cotton or flax plant
 BOLLWORM	(noun) any of various moth caterpillars that destroy cotton bolls
 BOLLWORMS	(noun, form of bollworm) any of various moth caterpillars that destroy cotton bolls
@@ -17366,6 +17375,8 @@ CARPER	(noun) someone who constantly criticizes in a petty way
 CARPERS	(noun, form of carper) someone who constantly criticizes in a petty way
 CARPET	(noun) floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)\n(verb) form a carpet-like cover (over)
 CARPETBAG	(noun) traveling bag made of carpet; widely used in 19th century\n(adjective) following the practices or characteristic of carpetbaggers
+CARPETBAGGER	(noun) an outsider who seeks power or success presumptuously
+CARPETBAGGERS	(noun, form of carpetbagger) an outsider who seeks power or success presumptuously
 CARPETBAGGING	(adjective) presumptuously seeking success or a position in a new locality
 CARPETBAGS	(noun, form of carpetbag) traveling bag made of carpet; widely used in 19th century
 CARPETED	(verb, form of carpet) form a carpet-like cover (over)\n(adjective) covered with or as if with carpeting or with carpeting as specified; often used in combination
@@ -26650,11 +26661,14 @@ CRAPED	(verb, form of crape) cover or drape with crape
 CRAPES	(noun, form of crape) small very thin pancake\n(verb, form of crape) cover or drape with crape
 CRAPING	(verb, form of crape) cover or drape with crape
 CRAPPED	(verb, form of crap) have a bowel movement
+CRAPPER	(noun) a plumbing fixture for defecation and urination
+CRAPPERS	(noun, form of crapper) a plumbing fixture for defecation and urination
 CRAPPIE	(noun) small sunfishes of the genus Pomoxis of central United States rivers
 CRAPPIER	(form of crappie) A kind of fresh-water bass of the genus Pomoxys, found in the rivers of the Southern United States and Mississippi valley. There are several species. [Written also croppie.]
 CRAPPIES	(noun, form of crappie) small sunfishes of the genus Pomoxis of central United States rivers
 CRAPPIEST	(form of crappie) A kind of fresh-water bass of the genus Pomoxys, found in the rivers of the Southern United States and Mississippi valley. There are several species. [Written also croppie.]
 CRAPPING	(verb, form of crap) have a bowel movement
+CRAPPY	(adjective) very bad
 CRAPS	(noun) expressions used when when two dice are thrown and both come up showing one spot\n(verb, form of crap) have a bowel movement
 CRAPSHOOT	(noun) a risky and uncertain venture
 CRAPSHOOTER	(noun) a gambler who plays the game of craps
@@ -37112,6 +37126,8 @@ ECZEMATOUS	Pertaining to eczema; having the characteristic of eczema.
 EDACIOUS	(adjective) devouring or craving food in great quantities
 EDACITIES	(noun, form of edacity) excessive desire to eat
 EDACITY	(noun) excessive desire to eat
+EDAM	(noun) a mild, pale yellow Dutch cheese, usually shaped into a ball and coated in red wax
+EDAMS	(noun, form of edam) a mild, pale yellow Dutch cheese, usually shaped into a ball and coated in red wax
 EDDIED	(verb, form of eddy) flow in a circular current, of liquids
 EDDIES	(noun, form of eddy) founder of Christian Science in 1866 (1821-1910)\n(verb, form of eddy) flow in a circular current, of liquids
 EDDO	(noun) edible starchy tuberous root of taro plants
@@ -42894,7 +42910,9 @@ FANLIKE	(adjective) resembling a fan
 FANNED	(verb, form of fan) strike out (a batter), (of a pitcher)\n(adjective) especially spread in a fan shape
 FANNER	1. One who fans. Jer. li. 2. 2. A fan wheel; a fan blower. See under Fan.
 FANNERS	(form of fanner) 1. One who fans. Jer. li. 2. 2. A fan wheel; a fan blower. See under Fan.
+FANNIES	(noun, form of fanny) the fleshy part of the human body that you sit on
 FANNING	(verb, form of fan) strike out (a batter), (of a pitcher)
+FANNY	(noun) the fleshy part of the human body that you sit on
 FANON	A term applied to various articles, as: (a) A peculiar striped scarf worn by the pope at mass, and by eastern bishops. (b) A maniple. [Written also fannel, phanon, etc.]
 FANONS	(form of fanon) A term applied to various articles, as: (a) A peculiar striped scarf worn by the pope at mass, and by eastern bishops. (b) A maniple. [Written also fannel, phanon, etc.]
 FANS	(noun, form of fan) a device for creating a current of air by movement of a surface or surfaces\n(verb, form of fan) strike out (a batter), (of a pitcher)
@@ -43812,7 +43830,9 @@ FESTOONERY	(noun) flower chains suspended in curves between points as a decorati
 FESTOONING	(verb, form of festoon) decorate with strings of flowers
 FESTOONS	(noun, form of festoon) a curtain of fabric draped and bound at intervals to form graceful curves\n(verb, form of festoon) decorate with strings of flowers
 FET	(noun) a transistor in which most current flows in a channel whose effective resistance can be controlled by a transverse electric field
+FETA	(noun) a white, crumbly, salty cheese made from sheep's or goat's milk, originally from Greece
 FETAL	(adjective) of or relating to a fetus
+FETAS	(noun, form of feta) a white, crumbly, salty cheese made from sheep's or goat's milk, originally from Greece
 FETATION	The formation of a fetus in the womb; pregnancy.
 FETATIONS	(form of fetation) The formation of a fetus in the womb; pregnancy.
 FETCH	(noun) the action of fetching\n(verb) go or come after and bring or take back
@@ -45859,7 +45879,9 @@ FOODSTUFF	(noun) (usually plural) consumer goods sold by a grocer
 FOODSTUFFS	(noun, form of foodstuff) (usually plural) consumer goods sold by a grocer
 FOOL	(noun) a person who lacks good judgment\n(verb) make a fool or dupe of
 FOOLED	(verb, form of fool) make a fool or dupe of
+FOOLER	(noun) a person or thing that fools or tricks someone
 FOOLERIES	(noun, form of foolery) foolish or senseless behavior
+FOOLERS	(noun, form of fooler) a person or thing that fools or tricks someone
 FOOLERY	(noun) foolish or senseless behavior
 FOOLFISH	(a) The orange filefish. See Filefish. (b) The winter flounder. See Flounder.
 FOOLFISHES	(form of foolfish) (a) The orange filefish. See Filefish. (b) The winter flounder. See Flounder.
@@ -64520,6 +64542,7 @@ KLYSTRONS	(noun, form of klystron) an electron tube used to generate or amplify 
 KNACK	(noun) a special way of doing something
 KNACKED	(form of knack) 1. To crack; to make a sharp, abrupt noise to chink. [Obs. or Prov. Eng.] Bp. Hall. 2. To speak affectedly. [Prov. Eng.] Halliwell. 1. A petty contrivance; a toy; a plaything; a knickknack. A knack, a toy, a trick, a baby's cap. Shak. 2. A readiness in performance; aptness at doing something; skill; facility; dexterity. The fellow . . . has not the knack with his shears. B. Jonson. The dean was famous in his time, And had a kind of knack at rhyme. Swift. 3. Something performed, or to be done, requiring aptness and dexterity; a trick; a device. "The knacks of japers." Chaucer. For how should equal colors do the knack ! Pope.
 KNACKER	(noun) someone who buys old buildings or ships and breaks them up to recover the materials in them
+KNACKERED	(adjective) very tired
 KNACKERS	(noun, form of knacker) someone who buys old buildings or ships and breaks them up to recover the materials in them
 KNACKING	(form of knack) 1. To crack; to make a sharp, abrupt noise to chink. [Obs. or Prov. Eng.] Bp. Hall. 2. To speak affectedly. [Prov. Eng.] Halliwell. 1. A petty contrivance; a toy; a plaything; a knickknack. A knack, a toy, a trick, a baby's cap. Shak. 2. A readiness in performance; aptness at doing something; skill; facility; dexterity. The fellow . . . has not the knack with his shears. B. Jonson. The dean was famous in his time, And had a kind of knack at rhyme. Swift. 3. Something performed, or to be done, requiring aptness and dexterity; a trick; a device. "The knacks of japers." Chaucer. For how should equal colors do the knack ! Pope.
 KNACKS	(noun, form of knack) a special way of doing something
@@ -68189,8 +68212,11 @@ LOOMS	(noun, form of loom) a textile machine for weaving yarn into a textile\n(v
 LOON	(noun) a worthless lazy fellow
 LOONEY	(noun) someone deranged and possibly dangerous
 LOONEYS	(noun, form of looney) someone deranged and possibly dangerous
+LOONIER	(adjective, form of loony) informal or slang terms for mentally irregular
 LOONIES	(noun, form of loonie) the basic unit of money in Canada
+LOONIEST	(adjective, form of loony) informal or slang terms for mentally irregular
 LOONS	(noun, form of loon) a worthless lazy fellow
+LOONY	(noun) someone deranged and possibly dangerous\n(adjective) informal or slang terms for mentally irregular
 LOOP	(noun) fastener consisting of a metal ring for lining a small hole to permit the attachment of cords or lines\n(verb) move in loops
 LOOPED	(verb, form of loop) move in loops
 LOOPER	(noun) small hairless caterpillar having legs on only its front and rear segments; mostly larvae of moths of the family Geometridae
@@ -78620,6 +78646,8 @@ NUTGRASS	(noun) a widely distributed perennial sedge having small edible nutlike
 NUTGRASSES	(noun, form of nutgrass) a widely distributed perennial sedge having small edible nutlike tubers
 NUTHATCH	(noun) any of various small short-tailed songbirds with strong feet and a sharp beak that feed on small nuts and insects
 NUTHATCHES	(noun, form of nuthatch) any of various small short-tailed songbirds with strong feet and a sharp beak that feed on small nuts and insects
+NUTHOUSE	(noun) pejorative terms for an insane asylum
+NUTHOUSES	(noun, form of nuthouse) pejorative terms for an insane asylum
 NUTLET	(noun) a small nut
 NUTLETS	(noun, form of nutlet) a small nut
 NUTLIKE	(adjective) having the flavor of nuts
@@ -82651,6 +82679,8 @@ PALAVERS	(noun, form of palaver) flattery intended to persuade\n(verb, form of p
 PALE	(noun) a wooden strip forming part of a fence\n(verb) turn pale, as if in fear
 PALEA	1. (Bot.) (a) The interior chaff or husk of grasses. (b) One of the chaffy scales or bractlets growing on the receptacle of many compound flowers, as the Coreopsis, the sunflower, etc. 2. (Zoöl.) A pendulous process of the skin on the throat of a bird, as in the turkey; a dewlap.
 PALED	(verb, form of pale) turn pale, as if in fear
+PALEFACE	(noun) (slang) a derogatory term for a white person (supposedly used by North American Indians)
+PALEFACES	(noun, form of paleface) (slang) a derogatory term for a white person (supposedly used by North American Indians)
 PALELY	(adverb) in a manner lacking interest or vitality
 PALENESS	(noun) unnatural lack of color in the skin (as from bruising or sickness or emotional distress)
 PALENESSES	(noun, form of paleness) unnatural lack of color in the skin (as from bruising or sickness or emotional distress)
@@ -87157,6 +87187,10 @@ PISMIRES	(noun, form of pismire) social insect living in organized colonies; cha
 PISOLITE	A variety of calcite, or calcium carbonate, consisting of aggregated globular concretions about the size of a pea; -- called also peastone, peagrit. Note: Oölite is similar in structure, but the concretions are as small as the roe of a fish.
 PISOLITES	(form of pisolite) A variety of calcite, or calcium carbonate, consisting of aggregated globular concretions about the size of a pea; -- called also peastone, peagrit. Note: Oölite is similar in structure, but the concretions are as small as the roe of a fish.
 PISOLITIC	Composed of, containing, or resembling, pisolite.
+PISS	(noun) liquid excretory product\n(verb) eliminate urine
+PISSED	(verb, form of piss) eliminate urine\n(adjective) aroused to impatience or anger
+PISSES	(noun, form of piss) liquid excretory product\n(verb, form of piss) eliminate urine
+PISSING	(noun) informal terms for urination\n(verb, form of piss) eliminate urine
 PISTACHE	The anacardiaceous tree Pistacia vera, which yields the pistachio nut; also, the nut itself and the flavoring extract prepared from it.
 PISTACHES	(form of pistache) The anacardiaceous tree Pistacia vera, which yields the pistachio nut; also, the nut itself and the flavoring extract prepared from it.
 PISTACHIO	(noun) small tree of southern Europe and Asia Minor bearing small hard-shelled nuts
@@ -109553,6 +109587,8 @@ SPALLED	(form of spall) The shoulder. [Obs.] Spenser. A chip or fragment, especi
 SPALLER	(form of spall) The shoulder. [Obs.] Spenser. A chip or fragment, especially a chip of stone as struck off the block by the hammer, having at least one feather-edge. 1. (Mining) To break into small pieces, as ore, for the purpose of separating from rock. Pryce. 2. (Masonry) To reduce, as irregular blocks of stone, to an approximately level surface by hammering. To give off spalls, or wedge-shaped chips; -- said of stone, as when badly set, with the weight thrown too much on the outer surface.
 SPALLING	(form of spall) The shoulder. [Obs.] Spenser. A chip or fragment, especially a chip of stone as struck off the block by the hammer, having at least one feather-edge. 1. (Mining) To break into small pieces, as ore, for the purpose of separating from rock. Pryce. 2. (Masonry) To reduce, as irregular blocks of stone, to an approximately level surface by hammering. To give off spalls, or wedge-shaped chips; -- said of stone, as when badly set, with the weight thrown too much on the outer surface.
 SPALLS	(noun, form of spall) a fragment broken off from the edge or face of stone or ore and having at least one thin edge
+SPALPEEN	A scamp; an Irish term for a good-for-nothing fellow; -- often used in good-humored contempt or ridicule. [Colloq.]
+SPALPEENS	(form of spalpeen) A scamp; an Irish term for a good-for-nothing fellow; -- often used in good-humored contempt or ridicule. [Colloq.]
 SPAN	(noun) the complete duration of something\n(verb) to cover or extend over an area or time period; ,
 SPANCEL	A rope used for tying or hobbling the legs of a horse or cow. [Prov. Eng. & Local, U.S.] Grose. To tie or hobble with a spancel. [Prov. Eng. & Local, U.S.] Malone.
 SPANCELED	(form of spancel) A rope used for tying or hobbling the legs of a horse or cow. [Prov. Eng. & Local, U.S.] Grose. To tie or hobble with a spancel. [Prov. Eng. & Local, U.S.] Malone.
@@ -113419,6 +113455,7 @@ SUBHEAD	(noun) a heading of a subdivision of a text
 SUBHEADING	(noun) a heading of a subdivision of a text
 SUBHEADINGS	(noun, form of subheading) a heading of a subdivision of a text
 SUBHEADS	(noun, form of subhead) a heading of a subdivision of a text
+SUBHUMAN	(adjective) less than human or not worthy of a human being
 SUBINDEX	A number or mark placed opposite the lower part of a letter or symbol to distinguish the symbol; thus, a0, b1, c2, xn, have 0, 1, 2, and n as subindices.
 SUBINDEXES	(form of subindex) A number or mark placed opposite the lower part of a letter or symbol to distinguish the symbol; thus, a0, b1, c2, xn, have 0, 1, 2, and n as subindices.
 SUBINFEUDATION	(a) The granting of lands by inferior lords to their dependents, to be held by themselves by feudal tenure. Craig. (b) Subordinate tenancy; undertenancy. The widow is immediate tenant to the heir, by a kind of subinfeudation, or undertenancy. Blackstone.
@@ -119306,6 +119343,7 @@ TISSUE	(noun) part of an organism consisting of an aggregate of cells having a s
 TISSUED	(verb, form of tissue) create a piece of cloth by interlacing strands of fabric, such as wool or cotton
 TISSUES	(noun, form of tissue) part of an organism consisting of an aggregate of cells having a similar structure and function\n(verb, form of tissue) create a piece of cloth by interlacing strands of fabric, such as wool or cotton
 TISSUING	(verb, form of tissue) create a piece of cloth by interlacing strands of fabric, such as wool or cotton
+TIT	(noun) any of various small songbirds, such as the blue tit or great tit; a titmouse
 TITAN	(noun) a person of exceptional importance and reputation
 TITANATE	A salt of titanic acid.
 TITANATES	(form of titanate) A salt of titanic acid.
@@ -119372,6 +119410,7 @@ TITRATOR	(noun) an apparatus for performing a titration
 TITRATORS	(noun, form of titrator) an apparatus for performing a titration
 TITRE	(noun) the concentration of a solution as determined by titration
 TITRES	(noun, form of titre) the concentration of a solution as determined by titration
+TITS	(noun, form of tit) any of various small songbirds, such as the blue tit or great tit; a titmouse
 TITTER	(noun) a nervous restrained laugh\n(verb) laugh nervously
 TITTERED	(verb, form of titter) laugh nervously
 TITTERER	(noun) a person who laughs nervously
@@ -128681,6 +128720,7 @@ WAGONS	(noun, form of wagon) any of various kinds of wheeled vehicles drawn by a
 WAGS	(noun, form of wag) a witty amusing person who makes jokes\n(verb, form of wag) move from side to side
 WAGTAIL	(noun) Old World bird having a very long tail that jerks up and down as it walks
 WAGTAILS	(noun, form of wagtail) Old World bird having a very long tail that jerks up and down as it walks
+WAGYU	(noun) a Japanese breed of beef cattle, or the richly marbled beef that comes from it
 WAHOO	(noun) upright deciduous plant with crimson pods and seeds; the eastern United States from New York to Florida and Texas
 WAHOOS	(noun, form of wahoo) upright deciduous plant with crimson pods and seeds; the eastern United States from New York to Florida and Texas
 WAIF	(noun) a homeless child especially one forsaken or orphaned
