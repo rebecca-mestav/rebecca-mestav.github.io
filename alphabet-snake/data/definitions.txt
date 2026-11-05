@@ -27826,7 +27826,6 @@ CULVERINS	(noun, form of culverin) a heavy cannon with a long barrel used in the
 CULVERS	(form of culver) A dove. "Culver in the falcon's fist." Spenser. A culverin. Falcon and culver on each tower Stood prompt their deadly hail to shower. Sir W. Scott.
 CULVERT	(noun) a transverse and totally enclosed drain under a road or railway
 CULVERTS	(noun, form of culvert) a transverse and totally enclosed drain under a road or railway
-CUM	(noun) the thick white fluid containing spermatozoa that is ejaculated by the male genital tract
 CUMBER	(verb) hold back
 CUMBERED	(verb, form of cumber) hold back
 CUMBERER	(form of cumber) To rest upon as a troublesome or useless weight or load; to be burdensome or oppressive to; to hinder or embarrass in attaining an object, to obstruct or occupy uselessly; to embarrass; to trouble. Why asks he what avails him not in fight, And would but cumber and retard his flight Dryden. Martha was cumbered about much serving. Luke x. 40. Cut it down; why cumbereth it the ground Luke xiii. 7. The multiplying variety of arguments, especially frivolous ones, . . . but cumbers the memory. Locke. Trouble; embarrassment; distress. [Obs.] [Written also comber.] A place of much distraction and cumber. Sir H. Wotton. Sage counsel in cumber. Sir W. Scott.
@@ -108416,6 +108415,8 @@ SNOTS	(noun, form of snot) a person regarded as arrogant and annoying
 SNOTTIER	(adjective, form of snotty) (used colloquially) overly conceited or arrogant; -Laurent Le Sage
 SNOTTIEST	(adjective, form of snotty) (used colloquially) overly conceited or arrogant; -Laurent Le Sage
 SNOTTILY	(form of snotty) Foul with snot; hence, mean; dirty. -- Snort"ti*ly, adb. -- Snot"ti*ness, n.
+SNOTTINESS	(noun) the quality of being snotty; conceit or arrogance
+SNOTTINESSES	(noun, form of snottiness) the quality of being snotty; conceit or arrogance
 SNOTTY	(adjective) (used colloquially) overly conceited or arrogant; -Laurent Le Sage
 SNOUT	(noun) a long projecting or anterior elongation of an animal's head; especially the nose
 SNOUTED	(form of snout) 1. The long, projecting nose of a beast, as of swine. 2. The nose of a man; -- in contempt. Hudibras. 3. The nozzle of a pipe, hose, etc. 4. (Zoöl.) (a) The anterior prolongation of the head of a gastropod; -- called also rostrum. (b) The anterior prolongation of the head of weevils and allied beetles. Snout beetle (Zoöl.), any one of many species of beetles having an elongated snout and belonging to the tribe Rhynchophora; a weevil. -- Snout moth (Zoöl.), any pyralid moth. See Pyralid. To furnish with a nozzle or point.
