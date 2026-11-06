@@ -19411,10 +19411,12 @@ CHEWINKS	(noun, form of chewink) common towhee of eastern North America
 CHEWS	(noun, form of chew) a wad of something chewable as tobacco\n(verb, form of chew) chew (food); to bite and grind with the teeth
 CHEWY	(adjective) requiring much chewing
 CHI	(noun) the circulating life energy that in Chinese philosophy is thought to be inherent in all things; in traditional Chinese medicine the balance of negative and positive forms in the body is believed to be essential for good health
+CHIA	(noun) a Mexican plant of the mint family, or its small black or white seeds, eaten for their nutrition and used in drinks and puddings
 CHIAROSCURIST	A painter who cares for and studies light and shade rather than color.
 CHIAROSCURISTS	(form of chiaroscurist) A painter who cares for and studies light and shade rather than color.
 CHIAROSCURO	(noun) a monochrome picture made by using several different shades of the same color
 CHIAROSCUROS	(noun, form of chiaroscuro) a monochrome picture made by using several different shades of the same color
+CHIAS	(noun, form of chia) a Mexican plant of the mint family, or its small black or white seeds, eaten for their nutrition and used in drinks and puddings
 CHIASM	(noun) an intersection or crossing of two tracts in the form of the letter X
 CHIASMA	(noun) an intersection or crossing of two tracts in the form of the letter X
 CHIASMAL	(adjective) of or relating to a chiasm
@@ -37471,6 +37473,8 @@ EIDOLONS	(form of eidolon) An image or representation; a form; a phantom; an app
 EIDOS	(noun) (anthropology) the distinctive expression of the cognitive or intellectual character of a culture or a social group
 EIGENVALUE	(noun) (mathematics) any number such that a given square matrix minus that number times the identity matrix has a zero determinant
 EIGENVALUES	(noun, form of eigenvalue) (mathematics) any number such that a given square matrix minus that number times the identity matrix has a zero determinant
+EIGENVECTOR	(noun) a nonzero vector that a linear transformation only stretches or shrinks, by a factor called its eigenvalue, without changing its direction
+EIGENVECTORS	(noun, form of eigenvector) a nonzero vector that a linear transformation only stretches or shrinks, by a factor called its eigenvalue, without changing its direction
 EIGHT	(noun) the cardinal number that is the sum of seven and one\n(adjective) being one more than seven
 EIGHTEEN	(noun) the cardinal number that is the sum of seventeen and one\n(adjective) being one more than seventeen
 EIGHTEENS	(noun, form of eighteen) the cardinal number that is the sum of seventeen and one
@@ -116636,6 +116640,8 @@ TARMACADAM	(noun) a paving material of tar and broken stone; mixed in a factory 
 TARMACADAMS	(noun, form of tarmacadam) a paving material of tar and broken stone; mixed in a factory and shaped during paving
 TARMACS	(noun, form of tarmac) a paving material of tar and broken stone; mixed in a factory and shaped during paving\n(verb, form of tarmac) surface with macadam
 TARN	(noun) a mountain lake (especially one formed by glaciers)
+TARNATION	(noun) damnation; used in exclamations of surprise or annoyance, as in `what in tarnation?'
+TARNATIONS	(noun, form of tarnation) damnation; used in exclamations of surprise or annoyance, as in `what in tarnation?'
 TARNISH	(noun) discoloration of metal surface caused by oxidation\n(verb) make dirty or spotty, as by exposure to air; also used metaphorically
 TARNISHED	(verb, form of tarnish) make dirty or spotty, as by exposure to air; also used metaphorically
 TARNISHES	(noun, form of tarnish) discoloration of metal surface caused by oxidation\n(verb, form of tarnish) make dirty or spotty, as by exposure to air; also used metaphorically
