@@ -1,0 +1,405 @@
+ZABAIONE	(substantivo) preparação à base de gemas de ovos, açúcar e álcool (vinho, champanhe, etc)
+ZABELE	(substantivo) o mesmo que jaó.
+ZABUMBA	(substantivo) chapéu alto e grande\n(verbo) segunda pessoa do imperativo afirmativo do verbo zabumbar
+ZABUMBAMOS	(verbo) primeira pessoa do plural do pretérito perfeito do indicativo do verbo zabumbar
+ZABUMBAR	(verbo) atordoar
+ZABUMBARA	(verbo) terceira pessoa do singular do pretérito mais-que-perfeito do indicativo do verbo zabumbar
+ZABUMBARAM	(verbo) terceira pessoa do plural do pretérito mais-que-perfeito do indicativo do verbo zabumbar
+ZABUMBARDES	(verbo) infinitivo pessoal da segunda pessoa do plural do verbo zabumbar
+ZABUMBAREM	(verbo) infinitivo pessoal da terceira pessoa do plural do verbo zabumbar
+ZABUMBARES	(verbo) infinitivo pessoal da segunda pessoa do singular do verbo zabumbar
+ZABUMBARIA	(verbo) terceira pessoa do singular do futuro do pretérito do indicativo do verbo zabumbar
+ZABUMBARMOS	(verbo) infinitivo pessoal da primeira pessoa do plural do verbo zabumbar
+ZABUMBASSE	(verbo) terceira pessoa do singular do pretérito do conjuntivo/subjuntivo do verbo zabumbar
+ZABUMBAVA	(verbo) terceira pessoa do singular do pretérito imperfeito do indicativo do verbo zabumbar
+ZABUMBE	(verbo) terceira pessoa do singular do presente do conjuntivo/subjuntivo do verbo zabumbar
+ZABUMBEIRO	(substantivo) tocador de zabumba, também chamada de bombo ou de bumbo
+ZABUMBEIS	(verbo) segunda pessoa do plural do imperativo negativo do verbo zabumbar
+ZABUMBEM	(verbo) terceira pessoa do plural do imperativo afirmativo do verbo zabumbar
+ZABUMBEMOS	(verbo) primeira pessoa do plural do imperativo afirmativo do verbo zabumbar
+ZABUMBES	(verbo) segunda pessoa do singular do imperativo negativo do verbo zabumbar
+ZABURRO	(adjetivo) diz-se de uma variedade de milho indiano\n(substantivo) milho grosso que se semeia basto e se corta verde para alimento de animais
+ZACA	(substantivo) o mesmo que zaco
+ZACONIO	(substantivo) dialeto grego moderno falado em vilarejos na região leste do Peloponeso
+ZAFIMEIRO	(adjetivo) ardiloso, esperto, velhaco\n(substantivo) pessoa zafimeira
+ZAGA	(substantivo) conjunto militar que situa-se na retaguarda de uma tropa
+ZAGAIA	(substantivo) o mesmo que azagaia
+ZAGAIAR	(verbo) arremessar zagaias
+ZAGAIAS	(substantivo) plural de zagaia
+ZAGAL	(substantivo) pastor
+ZAGALA	(substantivo, forma de zagal) pastor
+ZAGRE	(substantivo) erupção úmida na pele da cabeça das crianças que mamam, com pústulas e crostas
+ZAGREBINO	(adjetivo) relativo à cidade de Zagrebe, Croácia\n(substantivo) indivíduo nascido na cidade de Zagrebe, Croácia
+ZAGUEIRO	(substantivo) jogador basicamente encarregado da defesa
+ZAGUNCHAR	(verbo) ferir com zaguncho
+ZAINE	(substantivo) sétima letra do alfabeto hebraico (ז), correspondente ao Z latino
+ZAINO	(adjetivo) cavalo de pelo castanho uniforme\n(substantivo) homem velhaco
+ZAIRENSE	(adjetivo) relativo ao Zaire
+ZAMBA	(adjetivo) forma feminina de zambo, que cambaleia, que tem as pernas tortas, ou cruza os pés ao caminhar\n(substantivo) dança e música da Argentina
+ZAMBEMBE	(adjetivo) mambembe
+ZAMBETA	(adjetivo) que tem as pernas tortas\n(substantivo) quem tem as pernas tortas
+ZAMBI	(substantivo) divindade na umbanda
+ZAMBIANO	(adjetivo) de ou relativo à Zâmbia\n(substantivo) habitante ou natural da Zâmbia
+ZAMBIENSE	(adjetivo) relativo à República da Zâmbia\n(substantivo) natural ou habitante da República da Zâmbia
+ZAMBO	(adjetivo) que tem o caminhar torto, que tem as pernas tortas e roça um pé com outro ao andar
+ZAMBOA	(substantivo) fruto (hesperídio) da zamboeira, espécie de cidra muito insípida
+ZAMBRA	(substantivo) música ou dança mourisca da península Ibérica
+ZAMBRO	(adjetivo) que tem as pernas tortas
+ZAMBUJALENSE	(adjetivo) relativo ou pertencente a Zambujal
+ZAMBUJEIRENSE	(adjetivo) relativo ou pertencente a Zambujeira
+ZAMBUJEIRO	(substantivo) oliveira brava
+ZAMBUJO	(substantivo) oliveira brava, (Olea europaea)
+ZAMBULHADA	(substantivo) queda na água; tombo com ruído; qualquer queda
+ZAMBULHO	(substantivo) zambujo, oliveira brava, (Olea europaea)
+ZAMBURRADA	(substantivo) queda na água; tombo com ruído; qualquer queda
+ZAMORANO	(adjetivo) de ou relativo a Zamora, Espanha\n(substantivo) natural da Zamora, Espanha
+ZANGA	(substantivo) irritação, raiva
+ZANGADO	(adjetivo) de relações cortadas
+ZANGALHAO	(substantivo) o mesmo que zangaralhão
+ZANGAO	(substantivo) macho da abelha
+ZANGAOS	(substantivo, forma de zangão) macho da abelha\n(substantivo, forma de zângão) macho da abelha
+ZANGAR	(verbo) causar zanga a
+ZANGARALHAO	(substantivo) pessoa alta e desajeitada
+ZANGARILHAR	(verbo) andar para trás e para diante, passar e voltar a passar
+ZANGARREAR	(verbo) tocar viola à maneira chula, marcando ritmo sempre do mesmo modo e com os mesmos acordes em rasgado. Cf. E. Vieira, Diccion. Mus.
+ZANGARREIO	(substantivo) ato de zangarrear
+ZANGOES	(substantivo, forma de zangão) macho da abelha
+ZANOIO	(adjetivo) vesgo\n(substantivo) vesgo
+ZANZANDO	(verbo, forma de zanzar) andar sem destino
+ZANZAR	(verbo) andar sem destino
+ZANZAVA	(verbo, forma de zanzar) andar sem destino
+ZANZEAR	(verbo) deslocar-se sem um lugar de destino definido
+ZANZIBARITA	(adjetivo) de ou relativo a Zanzibar\n(substantivo) habitante ou natural de Zanzibar
+ZANZOU	(verbo, forma de zanzar) andar sem destino
+ZAPAR	(verbo) alternar entre canais de uma televisão de modo consecutivo
+ZAPEAMENTO	(substantivo) ato de zapear
+ZAPEAR	(verbo) alternar entre canais de uma televisão de modo rápido e consecutivo, pulando de um para outro, com o controle remoto, para evitar assistir os intervalos comerciais: zapear os melhores canais
+ZAPOTECA	(adjetivo) pertencente ao povo do mesmo nome, no atual México\n(substantivo) povo mesoamericano de cultura e língua própria
+ZAPPING	(substantivo) ver zapeamento
+ZARABATANA	(substantivo) tipo de buzina ou porta-voz
+ZARABATANAS	(substantivo) plural de zarabatana
+ZARABETO	(adjetivo) tátaro, pessoa que tem dificuldade no falar
+ZARACOTEIA	(substantivo) o mesmo que zaragatoa
+ZARAFULHAR	(verbo) criar confusão, enredar, embrulhar um assunto para que não seja compreendido
+ZARAGALHA	(substantivo) palavras insubstanciais e ociosas
+ZARAGALHADA	(substantivo) barulho, desordem, confusão
+ZARAGALHEIRO	(adjetivo) que tem desordem, desarranjado
+ZARAGATA	(substantivo) desordem, confusão, briga
+ZARAGATOA	(substantivo) material absorvente, preso a uma haste, que serve para coletar materiais para exame (através de absorção e atrito), aplicar medicamentos ou limpar cavidades e ferimentos
+ZARAGATOADELA	(substantivo) ato de zaragatoar
+ZARAGATOAR	(verbo) pincelar com zaragatoa
+ZARALHO	(adjetivo) mulher destituída de personalidade ou desmazelada
+ZARAMALHA	(substantivo) trapaçaria, embuste, enredo, zaramalhada
+ZARAMALHADA	(substantivo) desordem, conjunto de objetos revoltos
+ZARAMALHEIRO	(adjetivo) que tudo enreda, que faz do simples complexo
+ZARAMELO	(adjetivo) gago, tátaro
+ZARANGUILHAR	(verbo) complicar, confundir, obstruir algo, desarrumar
+ZARANZA	(substantivo) capim do gênero Anthenantia lanata, (conhecido também como Leptocoryphium lanatum)\n(adjetivo) imprudente, despropositado, precipitado
+ZARANZAR	(verbo) não ter consistência, atuar sem atenção
+ZARCAO	(substantivo) tetróxido de chumbo (Pb₃O₄), pó vermelho insolúvel em água e em ácidos
+ZARELHAR	(verbo) intrometer-se em tudo; intrigar
+ZARGUNCHADA	(substantivo) ato de zargunchar
+ZARGUNCHAR	(verbo) bater com zarguncho
+ZAROLHA	(substantivo) roupa mal enxuta
+ZAROLHO	(adjetivo) que desvia os olhos em diferente direção, vesgo
+ZARPAR	(verbo) levantar ferro
+ZAVAR	(verbo) morder raivosamente, com frenesi
+ZAZAKI	(substantivo) língua falada pelo povo zaza, habitante do leste da Turquia
+ZAZAO	(substantivo) uma das línguas das Ilhas Salomão
+ZAZO	(substantivo) o grão-sacerdote entre os japoneses
+ZEBRA	(substantivo) mamífero semelhante ao cavalo que se distingue pelo fato de ter listras pretas ou marrom escuras alternadas com brancas
+ZEBRAL	(adjetivo) dizia-se de uma pedra que servia de peso que equivalia a uma arroba
+ZEBRAR	(verbo) listrar, dando a aparência de pele de zebra
+ZEBRASNO	(substantivo) filhote de uma zebra com um jumento
+ZEBRINA	(substantivo) pancada de neve ou chuva acompanhada de vento forte
+ZEBRO	(substantivo) cavalo selvagem
+ZEBROIDE	(adjetivo) semelhante à zebra\n(substantivo) fruto híbrido do cruzamento de qualquer uma das espécies de zebra com um outro equídeo (asinino ou equino), em geral infértil, usado na pecuária de alguns países tropicais por manter a docilidade do ancestral domesticado e a resistência e imunidade da zebra
+ZEBROIDES	(adjetivo) plural de zebroide\n(substantivo) plural de zebroide
+ZEBU	(substantivo) nome vulgar do Bos indicus, gado bovino originário da Índia que se diferencia dos bovinos europeus principalmente pela presença de uma corcova ou cupim sobre o dorso; também chamado de boi de giba; inclui as raças nelore, gir, guzerá, tabapuã, sindi, cangaiã e indubrasil
+ZEBUINO	(adjetivo) relativo a, da natureza de, ou próprio do zebu
+ZEDENSE	(adjetivo) relativo ou pertencente a Zedes
+ZEFAROVICHITA	(substantivo) vavelita
+ZEFIRO	(substantivo) vento que sopra do ocidente
+ZELADOR	(adjetivo) que zela\n(substantivo) funcionário encarregado da zeladoria, de cuidar de um edifício
+ZELADORA	(substantivo) aquela que zela; pessoa encarregada da conservação, manutenção e segurança de um espaço
+ZELADORIA	(substantivo) ato ou efeito de zelar; cuidado, atenção e responsabilidade pela conservação e manutenção de algo
+ZELAM	(verbo, forma de zelar) tomar conta de
+ZELANDES	(adjetivo) de ou relativo à Zelândia, região da Holanda\n(substantivo) habitante ou natural da Zelândia
+ZELAR	(verbo) tomar conta de
+ZELAÇAO	(substantivo) ato de zelar
+ZELO	(substantivo) dedicação ardente, afeição íntima, desvelo, cuidado, interesse
+ZELOSAMENTE	(advérbio) de modo zeloso
+ZELOSO	(adjetivo) que tem zelo\n(substantivo) aquele que tem zelo
+ZELOTA	(adjetivo) que demonstra excesso de zelo\n(substantivo) membro de um partido nacionalista judeu, que na época de Jesus se opunha à ocupação da Judeia pelo Império Romano
+ZELOTE	(adjetivo) que finge ter zelo\n(substantivo) membro de um partido nacionalista judeu, que na época de Jesus se opunha à ocupação da Judeia pelo Império Romano
+ZEMSTVO	(substantivo) sistema de administração, na forma de conselhos locais, criado em 1864 pelo tsar Alexandre II
+ZEN	(adjetivo) relativo, pertencente a, ou próprio do zen-budismo\n(substantivo) variação japonesa do budismo cuja prática consiste, essencialmente, na meditação e autodisciplina
+ZENITALMENTE	(advérbio) de forma zenital
+ZENITE	(substantivo) posição mais alta da trajetória de um corpo celeste, do ponto de vista de um observador na Terra.
+ZENONICO	(adjetivo) relativo ao zenonismo
+ZENZEM	(substantivo) árvore de grande porte existente em São Tomé cujas folhas são usadas para fins medicinais
+ZEPELIM	(substantivo) grande dirigível (de até 245 metros) de armação metálica e sustentação aérea por balões de gás
+ZEPTOMETRO	(substantivo) unidade de medida equivalente a 10⁻²¹ m
+ZERADO	(adjetivo) sem crédito ou importância monetária alguma
+ZERAR	(verbo) tornar zero
+ZERBADA	(substantivo) vento com chuva forte
+ZERESIMO	(adjetivo) refere-se àquele que ocupa a posição zero em uma série; o que vem antes do primeiro\n(substantivo) documento comprovativo emitido pela urna eletrônica antes do início da votação numa seção eleitoral
+ZERIBANDA	(substantivo) sarabanda
+ZERO	(numeral) cardinalidade do conjunto vazio, o número de elementos de um conjunto que não tem elementos\n(substantivo) o número zero:
+ZEROS	(numeral, forma de zero) cardinalidade do conjunto vazio, o número de elementos de um conjunto que não tem elementos
+ZERVADA	(substantivo) vento com chuva forte
+ZERZULHO	(substantivo) dinheiro
+ZETA	(substantivo) sexta letra do alfabeto grego (Ζ, ζ)
+ZETACISMO	(substantivo) pronúncia viciosa do Z ou do S
+ZETETICO	(adjetivo) que examina, que investiga, que mantém uma posição intelectualmente inquisitiva
+ZETTAMETRO	(substantivo) unidade de medida equivalente a um sextilhão de metros.
+ZETTATESLA	(substantivo) unidade de medida equivalente a um sextilhão de teslas
+ZEUGMA	(substantivo) figura de linguagem, por vezes considerada um tipo de elipse, que consiste na omissão de um ou mais elementos de uma oração, já expressos anteriormente (por exemplo, na frase Ana foi à festa de saia e eu de calça, em que se omite a oração ir à festa)
+ZEUGMATICO	(adjetivo) relativo a zeugma
+ZEUGO	(substantivo) na Grécia antiga, instrumento musical constituído de duas flautas unidas
+ZEZERENSE	(adjetivo) relativo ou pertencente a Santa Marinha do Zêzere
+ZEZINHA	(substantivo) externalidade da genitália feminil
+ZHUANG	(substantivo) língua falada principalmente pelos Zhuang, que pertence ao subgrupo tai da família das línguas tai-kadai
+ZIBELINA	(adjetivo) relativo à marta zibelina\n(substantivo) espécie de carnívoro da família dos mustelídeos (Martes zibellina), nativa das regiões frias do norte da Europa e da Ásia principalmente no território da Sibéria na atual Federação Russa, de pelagem marrom-escura, longa e sedosa, bastante valiosa, e tamanho pequeno (com a cauda, medindo cerca de 45 centímetros de comprimento)
+ZIBREIRENSE	(adjetivo) relativo ou pertencente a Zibreira
+ZICA	(substantivo) doença causada pelo vírus da zica, transmitido ao homem pela picada do mosquito Aedes aegypti
+ZICADO	(adjetivo) que apresenta defeito; que tem avaria ou desgaste mecânico, eletrônico, ou em sua superfície que torne seu uso problemático ou desgostoso
+ZICHA	(substantivo) campo de cultivo, leira estreita e comprida
+ZICHAR	(verbo) seringar, sair a pressão um líquido
+ZICHEIRA	(substantivo) diarreia
+ZICHO	(substantivo) ato de zichar
+ZIGOMA	(substantivo) osso da bochecha
+ZIGOMORFO	(adjetivo) que possui simetria bilateral
+ZIGOTACTISMO	(substantivo) tactismo referente à atração que ocorre entre dois elementos da reprodução nos vegetais
+ZIGOTATISMO	(substantivo) vide zigotactismo
+ZIGOTO	(substantivo) célula formada pela fusão dos gametas masculino e feminino, e que dará origem, por diferenciação e embriogênese, ao novo ser da espécie
+ZIGUEZAGUE	(substantivo) uma linha ou progressão caracterizada por curvas fechadas para um lado e para outro
+ZIGUEZAGUEAR	(verbo) fazer ziguezagues
+ZIGUEZIGUE	(substantivo) certo brinquedo infantil que faz um barulho parecido ao da cigarra
+ZIGUIZIRA	(substantivo) qualquer doença ou mal-estar que não se sabe o nome
+ZIGURATE	(substantivo) templo babilônio antigo com plataformas que, sucessivamente recuadas, formam uma construção piramidal
+ZIGURATO	(substantivo) o mesmo que zigurate
+ZIKA	(substantivo) zica (vírus que se transmite ao homem pela picada dos mosquitos do gênero Aedes )
+ZILHAO	(numeral) grande quantidade, grande número\n(substantivo) pseudonumeral multiplicativo que descreve um grande número indeterminado de algo
+ZIMBABUANO	(adjetivo) de ou relativo ao Zimbábue\n(substantivo) habitante ou natural do Zimbábue
+ZIMBABUEANO	(adjetivo) de ou relativo ao Zimbábue\n(substantivo) habitante ou natural do Zimbábue
+ZIMBABUENSE	(adjetivo) relativo ao Zimbábue
+ZIMBABWENSE	(adjetivo) de ou relativo ao Zimbabwe, país da África\n(substantivo) habitante ou natural do Zimbabwe
+ZIMBABWIANO	(adjetivo) de ou relativo à Zimbabué\n(substantivo) habitante ou natural da Zimbabué
+ZIMBORIO	(substantivo) remate ou cobertura que, por fora e com formato circular ou octogonal, encerra as cúpulas de grandes edifícios, como igrejas
+ZIMBRADA	(substantivo) ato de zimbrar
+ZIMBRADURA	(substantivo) ato de zimbrar
+ZIMBRAR	(verbo) açoitar; vergastar
+ZIMBREIRO	(substantivo) o mesmo que zimbro (nome científico: Juniperus phoenicea L.)
+ZIMBRINADA	(substantivo) chuva com vento
+ZIMBRO	(substantivo) planta da família das pináceas, comum no norte de Portugal, também chamado genebreiro
+ZIMOTERAPIA	(substantivo) método de tratar doenças pelo uso de fermentos
+ZINABRE	(substantivo) camada verde de carbonato de cobre que se forma nos objetos de cobre expostos ao ar e à umidade
+ZINCAGEM	(substantivo) ato de zincar
+ZINCAR	(verbo) revestir de zinco
+ZINCO	(substantivo) elemento químico de símbolo Zn, possui o número atômico 30 e massa atômica relativa 65,409 u; é um metal encontrado em minerais como a blenda, zincita, esmitsonita e calamina; é utilizado principalmente no revestimento (galvanização) de outros metais como o aço e o ferro e, em ligas, como o latão, bronze e ligas especiais para soldas
+ZINCOGRAFAR	(verbo) gravar ou imprimir em lâminas de zinco
+ZINCOGRAVAR	(verbo) o mesmo que zincografar
+ZINGA	(substantivo) vara comprida utilizada por canoeiros para vencer as correntes
+ZINGAR	(verbo) manejar a zinga
+ZINGAREAR	(verbo) vadiar
+ZINGARELHO	(substantivo) qualquer objeto, geralmente complexo, desconhecido, bizarro ou que não funciona bem
+ZINGRAR	(verbo) motejar de
+ZINGRAÇAO	(substantivo) ato de zingrar
+ZINGUERREAR	(verbo) emitir um som particular, como coisa que se mova num eixo muito frouxo
+ZINIR	(verbo) gerar zinido
+ZINNWALDITA	(substantivo) É um mineral composto de potássio, lítio, ferro, silício e alumínio (K₂(Fe⁺²₂,Li₂Al₂)(Si₆Al₂O₂₀)(F,OH)₄). É um membro muito raro do grupo dos filossilicatos, de cor marrom esverdeado, amarelo ou violeta pálido e translúcido. É obtida associada com outros minerais como o quartzo, a apatita e o feldspato.
+ZINZA	(substantivo) língua banta falada pelos zinzas da Tanzânia na margem sul do lago Vitória
+ZINZILULAR	(verbo) chilrear (a andorinha)
+ZIPAM	(verbo) terceira pessoa do plural do presente do modo indicativo do verbo zipar
+ZIPAMOS	(verbo) primeira pessoa do plural do presente do modo indicativo do verbo zipar
+ZIPAR	(verbo) comprimir arquivos digitais no computador utilizando programas compactadores ou extensão nativa em sistemas operacionais como o Windows, inicialmente em formato .zip (ZIP) e depois em outras extensões, com o objetivo de diminuir o uso de memória ou de facilitar a transmissão de dados pela internet ou em outros meios, sobretudo na época em que disquetes eram o formato comum de portabilidade de informações como textos, imagens, pastas de arquivos, etc.
+ZIPAS	(verbo) segunda pessoa do singular do presente indicativo do verbo zipar
+ZIPE	(substantivo) variante de zíper: item de fechamento de roupas como calças, xortes e vestidos ou objetos como bolsas e malas
+ZIPER	(substantivo) acabamento de fechamento de calças, xortes e vestidos
+ZIPO	(verbo) primeira pessoa do singular do presente indicativo do verbo zipar
+ZIQUIZIRA	(substantivo) o mesmo que ziguizira
+ZIRBOADA	(substantivo) vento com chuva forte
+ZIRCONIO	(substantivo) elemento químico de símbolo Zr, possui o número atómico 40 e massa atómica relativa 91,224 u; é um metal de transição branco acinzentado e brilhante; não é encontrado livre na natureza, mas, em associação com outros minerais; sua principal fonte é o silicato de zircónio (zircão); suas aplicações vão desde a adição em ligas metálicas, até o revestimento de reatores nucleares e imãs supercondutores
+ZIRIGUIDUM	(substantivo) festa de carnaval
+ZIRRAR	(verbo) fazer zirra-zirra
+ZITOGALA	(substantivo) mistura de leite com cerveja, usada por certos povos
+ZIZIAR	(verbo) cantar (a cigarra)
+ZLOTI	(substantivo) unidade monetária pertencente a Polônia
+ZLOTY	(substantivo) zlóti
+ZOAR	(verbo) zumbir (inseto, por exemplo)
+ZOAÇAO	(substantivo) brincadeira, palhaçada, gozação
+ZOAÇOES	(substantivo, forma de zoação) brincadeira, palhaçada, gozação
+ZODIACAL	(adjetivo) relativo ao zodíaco
+ZODIACO	(substantivo) zona da esfera celeste onde se acham os doze signos que o Sol parece percorrer num ano
+ZOEIA	(substantivo) célula de zoóide de colônias de briozoários.
+ZOEIRA	(substantivo) zoar prolongado, zumbido
+ZOGA	(substantivo) pau de urze com a raiz, torga
+ZOGADA	(substantivo) pancada dada com zoga
+ZOIAO	(adjetivo) pessoa que quer ter muito mais do que consegue consumir\n(substantivo) pessoa a olhar algo com interesse em busca de sabê-lo, conhecê-lo
+ZOICO	(adjetivo) relativo aos animais, à vida animal\n(substantivo) vide zoico
+ZOILO	(substantivo) mau crítico; crítico invejoso
+ZOIRA	(adjetivo) medoso\n(substantivo) diarreia
+ZOIRAR	(verbo) ter diarreia, defecar por si
+ZOLA	(substantivo) o ato de mamar
+ZOLANIANO	(adjetivo) do escritor francês Émile Zola (1840-1902)
+ZOLI	(substantivo) Lanius senator, pássaro da família dos Laniídeos, comum em Portugal, tem plumagem branca, com coloração avermelhada na cabeça e mais escura no dorso, cauda comprida e bico curvo
+ZOMBA	(substantivo) troça
+ZOMBADOR	(adjetivo) que zomba\n(substantivo) aquele que zomba
+ZOMBAM	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAMOS	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBANDO	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAR	(verbo) debochar, fazer zombaria de
+ZOMBARA	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBARAM	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBARAO	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAREI	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAREM	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAREMOS	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBARIA	(substantivo) escárnio, mofa, debique
+ZOMBARIAM	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBARIAS	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBARMOS	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBASSE	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAVA	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBAVAM	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBE	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBEI	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBEM	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBETEAR	(verbo) o mesmo que zombar
+ZOMBETEIRA	(adjetivo, forma de zombeteiro) em que há zombaria; que revela galhofa, troça, ironia ou escárnio
+ZOMBETEIRAMENTE	(advérbio) de forma zombeteira
+ZOMBETEIRO	(adjetivo) em que há zombaria; que revela galhofa, troça, ironia ou escárnio\n(substantivo) aquele que zombeteia, faz zombarias; zombador
+ZOMBIE	(substantivo) ver zumbi
+ZOMBO	(verbo, forma de zombar) debochar, fazer zombaria de
+ZOMBOU	(verbo, forma de zombar) debochar, fazer zombaria de
+ZONA	(substantivo) porção de uma superfície esférica, determinada por dois planos paralelos que a cortam
+ZONAMENTO	(substantivo) ato de zonar
+ZONAR	(verbo) dividir em zonas
+ZONAS	(substantivo) plural de zona
+ZONCA	(substantivo) idioma sino-tibetano falado no Butão (código de língua ISO 639-3: dzo)
+ZONCHADURA	(substantivo) ato de zonchar
+ZONCHAR	(verbo) operar uma bomba manual através do zoncho
+ZONCHO	(adjetivo) a falar da pessoa que é pequena e grossa\n(substantivo) castanha cozida sem pelar, mamota; batata cozida com a pele
+ZONEAMENTO	(substantivo) ato de zonear
+ZONOFONE	(substantivo) toca-discos
+ZONZEAR	(verbo) ficar zonzo
+ZONZONAR	(verbo) soar monotonamente, como o zom-zom da viola
+ZOO	(substantivo) zoológico, jardim zoológico.
+ZOOFARMACOGNOSIA	(substantivo) conhecimento médico mostrado por animais ao automedicarem-se com determinadas plantas ou substâncias segundo a doença que sofrerem
+ZOOFILIA	(substantivo) ato de manter relações sexuais com animais
+ZOOFOBIA	(substantivo) fobia de animais
+ZOOGEOGRAFIA	(substantivo) ciência que estuda a distribuição geográfica das espécies animais
+ZOOGEOGRAFO	(substantivo) pessoa especialista em zoogeografia
+ZOOGRAFAR	(verbo) descrever ou desenhar (animais)
+ZOOLAGNIA	(substantivo) atração sexual por animais
+ZOOLITO	(substantivo) qualquer fóssil de origem animal
+ZOOLOGIA	(substantivo) ciência biológica que estuda os animais
+ZOOLOGICA	(adjetivo, forma de zoológico) relativo ou pertencente à zoologia
+ZOOLOGICAMENTE	(advérbio) de modo zoológico
+ZOOLOGICO	(adjetivo) relativo ou pertencente à zoologia\n(substantivo) forma reduzida de "jardim zoológico"; zoo
+ZOOLOGO	(substantivo) especialista em zoologia
+ZOOM	(substantivo) zum
+ZOOMORFIA	(substantivo) ramo da zoologia que estuda as formas externas dos animais
+ZOOMORFICO	(adjetivo) relativo a ou próprio da zoomorfia
+ZOOMORFISMO	(substantivo) culto religioso que representa divindades na forma de animais
+ZOOMORFISTA	(substantivo) aquele que pratica ou apresenta zoomorfismo
+ZOOMORFIZAÇAO	(substantivo) tendência a ver características animais em humanos
+ZOOMORFO	(adjetivo) que apresenta forma de animal
+ZOONIMIA	(substantivo) estudo dos nomes dos animais
+ZOONOMIA	(substantivo) fisiologia animal
+ZOONOMICO	(adjetivo) relativo a ou próprio da zoonomia
+ZOONOSE	(substantivo) toda doença que, tendo sua origem em uma espécie de animal (tanto doméstico quando silvestre), quer como hospedeiro quer como doente, é transmitida ao ser humano
+ZOONOSES	(substantivo) plural de zoonose
+ZOONOSOLOGIA	(substantivo) estudo das doenças dos animais
+ZOOPRAXIOSCOPIO	(substantivo) aparelho inventado em 1833 para projetar imagens: é constituído por um disco de vidro no qual se dispõem as imagens pela ordem pela qual foram obtidas; este disco gira diante de um dispositivo de visão, cujas ranhuras giram em sentido contrário, e que projeta as imagens numa tela
+ZOOTACTICO	(substantivo) referente à zootaxia
+ZOOTECNIA	(substantivo) ciência que trata da criação comercial de animais, domesticados ou silvestres, versando sobre todos os aspectos da atividade desde a nutrição, aperfeiçoamento genético, trato e manejo em todas as etapas de vida, buscando ainda o bem estar animal e prevenção de zoonoses, objetivando maximizar sua produtividade e lucratividade
+ZOOTECNIAS	(substantivo) plural de zootecnia
+ZOOTECNICO	(adjetivo) relativo a ou próprio da zootecnia\n(substantivo) especialista em zootecnia
+ZOOTERAPIA	(substantivo) terapia com animais
+ZOOTROPIA	(substantivo) uso do zootrópio
+ZOOTROPIO	(substantivo) dispositivo que consiste em um cilindro perfurado que possui diversas imagens em seu interior e que, ao ser girado rapidamente, gera a ilusão de movimento quando observado pelas fendas
+ZOOXANTELA	(substantivo) espécime das zooxantelas, grupo de pirrófitos que vivem em simbiose no interior de vários animais, como, por exemplo, nos corais.
+ZOPO	(adjetivo) que se move, que caminha com dificuldade, trôpego
+ZORBA	(substantivo) cueca
+ZORNAR	(verbo) emitir o som caraterístico o burro ou a burra, zurrar
+ZORO	(adjetivo) dos zorós\n(substantivo) indivíduo do povo indígena tupi-guarani que habita a região de Aripuanã, Mato Grosso, Brasil
+ZOROASTRIANO	(adjetivo) relativo a Zoroastro ou ao zoroastrianismo\n(substantivo) seguidor do zoroastrianismo
+ZOROASTRISMO	(substantivo) religião monoteísta fundada na antiga Pérsia pelo profeta Zaratustra, com a crença no paraíso, na ressurreição, no juízo final e na vinda de um messias; influenciou o judaísmo, o cristianismo e o islamismo
+ZORRA	(substantivo) ausência de ordem\n(adjetivo) feminino de zorrão
+ZORRAGAR	(verbo) açoitar, golpear
+ZORRAO	(adjetivo) diz-se da pessoa que se finge de boba sem o ser\n(substantivo) indivíduo indolente
+ZORRAS	(adjetivo) feminino plural de zorrão
+ZORREGAR	(verbo) açoitar, golpear, zorragar
+ZORRO	(adjetivo) que anda ou atua vagarosamente, lento\n(substantivo) canídeo selvagem da América do Sul (Lycalopex gymnocercus)
+ZORROES	(adjetivo) plural de zorrão\n(substantivo) plural de zorrão (indolente)
+ZORTAR	(verbo) sair; ir-se embora
+ZOSCADOIRO	(substantivo) pau que serve para atiçar as brasas
+ZOSCAR	(verbo) remexer nas brasas ou no lume com um pau para avivá-lo
+ZOTE	(adjetivo) idiota; pateta; parvo; estúpido; ignorante\n(substantivo) idiota; pateta; parvo; estúpido; ignorante
+ZOTISMO	(substantivo) estado ou condição de zote
+ZOUPAO	(adjetivo) aquele ou aquela que tem pouca habilidade sobretudo no caminhar, que sói tropeçar
+ZOUPAR	(verbo) manotear, dar manotaços, golpear a outro
+ZOUPEIRA	(substantivo) mulher gorda e desajeitada
+ZOUPEIRAO	(adjetivo) que possui maus costumes, que não se porta de maneira adequada\n(substantivo) indivíduo que se comporta mal
+ZOUPEIRO	(adjetivo) zopo
+ZOUPEIRONA	(substantivo) mulher mal comportada
+ZOUPO	(substantivo) o mesmo que zopo
+ZOUPUDO	(adjetivo) pesado, pouco ágil, grosso
+ZOURA	(substantivo) o mesmo que diarreia
+ZOURAR	(verbo) ter diarreia
+ZUAQUE	(substantivo) nádegas, ânus
+ZUATE	(substantivo) cu, nádegas, ânus
+ZUCA	(adjetivo) diz-se de pessoa parva, amalucada\n(substantivo) o mesmo que brasuca, brasileiro
+ZUCAR	(verbo) bater, soar
+ZUELAR	(verbo) falar
+ZUIR	(verbo) fazer ruído
+ZULIVRE	(interjeição) expressa imprecação para que Deus poupe e guarde para que mal determinado não acometa
+ZULO	(adjetivo) o mesmo que zulu, que é nativo ou pertencente a um povo banto da Africa do Sul\n(substantivo) o mesmo que zulu, nativo ou pertencente a um povo banto da Africa do Sul
+ZULU	(adjetivo) pertencente ou relativo ao povo zulu, povo africano de origem bantu que habita sobretudo os países da África meridional\n(substantivo) língua bantu falada na África do Sul
+ZUM	(substantivo) zumbido
+ZUMBAIAR	(verbo) fazer zumbaias a; lisonjear; bajular
+ZUMBAIEIRO	(substantivo) diz-se daquele que faz zumbaias
+ZUMBAR	(verbo) o mesmo que zumbir; fazer zum-zum; fazer ruído
+ZUMBI	(substantivo) fantasma que vagueia pelas noites escuras; neste sentido, o mesmo que cazumbi
+ZUMBIDO	(substantivo) ruído que fazem os insetos alados ao voarem
+ZUMBIR	(verbo) emitir um sussurro
+ZUMBIS	(substantivo, forma de zumbi) fantasma que vagueia pelas noites escuras; neste sentido, o mesmo que cazumbi
+ZUMBIU	(verbo, forma de zumbir) emitir um sussurro
+ZUMBRAR	(verbo) fazer corcova, curvar, encurvar, dobrar, vergar
+ZUME	(substantivo) efeito de aproximação ou afastamento de uma imagem
+ZUNA	(substantivo) velocidade, pressa
+ZUNGAO	(substantivo) gaita de cana ou de madeira usada para zumbir
+ZUNGAR	(verbo) zumbir
+ZUNGE	(substantivo) o mesmo que bicho-de-pé (Tunga penetrans)
+ZUNGUEIRA	(substantivo) mulher que percorre as ruas vendendo produtos diversos dentro de uma bacia que leva na cabeça
+ZUNI	(substantivo) tribo nativa norte-americana, e um dos chamados povos pueblo, a maioria deles vivendo no povoado de Zuni Pueblo, no oeste do estado do Novo México
+ZUNIA	(substantivo) aversão, antipatia
+ZUNIDO	(substantivo) o mesmo que zumbido
+ZUNIMENTO	(substantivo) ato de zunir
+ZUNIR	(verbo) produzir zunido
+ZUNZUM	(substantivo) zumbido
+ZUNZUNAR	(verbo) fazer zun-zum; rumorejar
+ZUPAR	(verbo) dar golpes, marradas, bater
+ZURBADA	(substantivo) vento com chuva forte
+ZURETA	(adjetivo) diz-se da pessoa que age como louca ou de modo desvairado e ilógico\n(substantivo) indivíduo adoidado, amalucado
+ZURETAS	(adjetivo) plural de zureta\n(substantivo) plural de zureta
+ZURIQUENHO	(adjetivo) de ou relativo a Zurique\n(substantivo) habitante ou natural de Zurique
+ZURIQUENSE	(adjetivo) de ou relativo a Zurique
+ZURNAR	(verbo) zurrar, produzir som de chamada o burro
+ZURRA	(substantivo) água no lagar de azeite quando se moem as azeitonas
+ZURRADA	(substantivo) o mesmo que zurro, voz do burro
+ZURRADO	(adjetivo) que está lixado ou sujo
+ZURRAM	(verbo, forma de zurrar) produzir som (muares como o burro, a mula, o jumento e o jegue)
+ZURRANDO	(verbo, forma de zurrar) produzir som (muares como o burro, a mula, o jumento e o jegue)
+ZURRAPA	(substantivo) vinho de má qualidade ou estragado
+ZURRAR	(verbo) produzir som (muares como o burro, a mula, o jumento e o jegue)
+ZURRARIA	(substantivo) conjunto de zurros emitidos ao mesmo tempo
+ZURRO	(substantivo) som emitido pelo burro
+ZURUO	(adjetivo) aturdido; atordoado; confuso das ideias; alheio
+ZURVANADA	(substantivo) vento com chuva forte
+ZURZA	(substantivo) ato de zurzir
+ZURZIDELA	(substantivo) ato ou efeito de zurzir de leve ou uma vez
+ZURZIDURA	(substantivo) ato de zurzir
+ZURZIR	(verbo) maltratar, espancar

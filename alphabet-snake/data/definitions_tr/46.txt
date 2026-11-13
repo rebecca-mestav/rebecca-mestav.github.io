@@ -1,0 +1,2362 @@
+FAAL	(sıfat) çok çalışan, çalışkan, canlı, hareketli, aktif
+FAALE	(ad) failler
+FAALİYET	(ad) canlılık, hareket
+FAALİYETE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLER	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERDE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERDEN	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİ	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİN	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNDE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNDEN	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNİ	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNİN	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNİZ	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETLERİNİZİ	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETTE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETİ	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETİN	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETİNE	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETİNİ	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FAALİYETİNİN	(ad, faaliyet sözcüğünün çekimi) canlılık, hareket
+FABL	(ad) ahlâki bir ders vermek maksadıyla, daha çok insan dışı varlıklar (hayvanlar,bitkiler) arasında geçtiği tasavvuf edilen olayları ele alan alegorik ve genellikle manzum masal, hikâye, öykünce
+FABRİKA	(ad) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKACI	(ad) fabrika sahibi veya fabrika işleten kişi, fabrikatör
+FABRİKACILIK	(ad) fabrikacının yaptığı iş, fabrikatörlük
+FABRİKADA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKADAN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALAR	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARDA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARDAN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARIN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARINA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARINDA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARINDAN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARINI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKALARININ	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAM	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAMDA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAMI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAMIZ	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAMIZDA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAMIZI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAMIZIN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKANI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKANIN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKANIZ	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASINA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASINDA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASINDAN	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASINI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASININ	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKASYON	(sıfat) fabrikada yapılarak tüketime hazır duruma getirilen (madde)
+FABRİKATÖR	(ad) fabrikacı
+FABRİKATÖRLÜK	(ad) fabrikacılık
+FABRİKAYA	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FABRİKAYI	(ad, fabrika sözcüğünün çekimi) İşlenmemiş veya yarı işlenmiş maddelerin makine, araç vb. ile işlenerek tüketime hazır duruma getirildiği sanayi kuruluşu.
+FACTORİNG	(ad) alacaklandırma
+FACİA	(ad) Çok üzüntü veren, acıklı olay.
+FACİADAN	(ad, facia sözcüğünün çekimi) Çok üzüntü veren, acıklı olay.
+FACİALAŞMA	(ad) facialaşmak durumu
+FACİALAŞMAK	(eylem) facia durumuna gelmek
+FACİALAŞTIRMA	(ad) facialaştırmak işi
+FACİALAŞTIRMAK	(eylem) facia durumuna getirmek
+FACİALI	(sıfat) Faciası olan, facia gibi karşılanan.
+FACİANIN	(ad, facia sözcüğünün çekimi) Çok üzüntü veren, acıklı olay.
+FACİASI	(ad, facia sözcüğünün çekimi) Çok üzüntü veren, acıklı olay.
+FACİASINDAN	(ad, facia sözcüğünün çekimi) Çok üzüntü veren, acıklı olay.
+FACİAYA	(ad, facia sözcüğünün çekimi) Çok üzüntü veren, acıklı olay.
+FACİAYI	(ad, facia sözcüğünün çekimi) Çok üzüntü veren, acıklı olay.
+FACİR	(ad) alenen günah işleyen, zinaya düşkün kişi
+FACİRE	(sıfat) Fenâ huylu, günahkâr; sefih; rezil
+FAGOSİT	(ad) yutar hücre
+FAGOSİTOZ	(ad) fagositin solid partikülleri yakalayıp yutması ve sitoplazmasında oluşturduğu fagosom adı verilen boşluğa hapsederek eritme (sindirme) çabası, hücre yutarlığı
+FAGOT	(ad) tahtadan parçaları uç uca takılı, uzun bir boru biçiminde, perdeli, nefesli bir çalgı
+FAHAMETLİ	(sıfat) Osmanlı Devleti'nde sadrazamlara, Mısır hidivi ve yabancı prenslere verilen unvan.
+FAHR	(ad) kendisiyle övünülen, iftihaf sebebi
+FAHRENHAYT	(ad) erimekte olan buzun sıcaklığını 32 °C, kaynar suyun buhar sıcaklığını 212 °C'de gösterebilecek biçimde derecelenmiş bulunan bir termometre türü
+FAHRİ	(sıfat) onursal
+FAHRİYE	(ad) divan edebiyatında şairlerin kendi özelliklerinden övünerek söz ettikleri manzume veya manzumenin bir bölümü
+FAHTE	(ad) klasik Türk müziğinde daha çok ilâhi, beste ve özellikle peşrev formlarında kullanılan, yirmi zamanlı ve on iki vuruşlu bir büyük usul
+FAHUR	(sıfat) çok övünen, çok böbürlenen
+FAHİM	(sıfat) anlayışlı, büyük, ulu, çok kuvvetli, itibar ve nüfuz sahibi
+FAHİMANE	(ad) fahim olana yakışacak tarzda, büyüklük göstererek, ulu, şerefli
+FAHİR	(sıfat) Övünülecek (kimse veya şey), övünme vesîlesi olan.
+FAHİŞ	(sıfat) ölçüyü aşan, aşırı, fazla
+FAHİŞE	(ad) hayat kadını
+FAHİŞEDEN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELER	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERDEN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERE	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERİ	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERİN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERİNDEN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERİNE	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERİNİ	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELERİNİN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞELİK	(ad) hayat kadınlığı, orospuluk
+FAHİŞELİĞİ	(ad, fahişelik sözcüğünün çekimi) hayat kadınlığı, orospuluk
+FAHİŞEM	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞEN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞENİ	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞENİN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞESİ	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞESİNE	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞESİNİ	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞESİNİN	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞEYE	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAHİŞEYİ	(ad, fahişe sözcüğünün çekimi) hayat kadını
+FAK	(ad) tuzak, kapan
+FAKA	(ad) fakirlik, yoksulluk, ihtiyar
+FAKAT	(bağlaç) ama, ancak, lâkin
+FAKBADİ	(ad) fuckbuddy kavramının farklı yazılışı
+FAKFON	(ad) Bakır, nikel ve çinkodan oluşan gümüş görünümünde bir alaşım.\n(sıfat) Bu alaşımdan yapılmış.
+FAKI	(ad) eskiden Anadolu'da köy imamına ve öğretmen gibi okumuş insanlara verilen ad, ünvan
+FAKILIK	(ad) hocalık
+FAKINDA	(ad, fakı sözcüğünün çekimi) eskiden Anadolu'da köy imamına ve öğretmen gibi okumuş insanlara verilen ad, ünvan
+FAKIR	(ad) fakir
+FAKOLİZ	(ad) ileri derecede miyopluk hallerinde göz billurunu çıkarma ameliyatı
+FAKOMETRE	(ad) Gözlük camının diyoptrisini okumaya yarayan alet
+FAKR	(ad) yoksulluk, fukaralık
+FAKS	(ad) Telefon hattı üzerinden elektrik sinyalleri aracılığıyla yazılı veri ileten makine, belgegeçer
+FAKSI	(ad, faks sözcüğünün çekimi) Telefon hattı üzerinden elektrik sinyalleri aracılığıyla yazılı veri ileten makine, belgegeçer
+FAKSLAMA	(ad) Fakslama, belgegeçerleme işi
+FAKSLAMAK	(eylem) Belgeçerlemek, belgeçer ile göndermek
+FAKSLAR	(ad, faks sözcüğünün çekimi) Telefon hattı üzerinden elektrik sinyalleri aracılığıyla yazılı veri ileten makine, belgegeçer\n(eylem, fakslamak sözcüğünün çekimi) Belgeçerlemek, belgeçer ile göndermek
+FAKSİMİLE	(ad) tıpkıbasım
+FAKTÖR	(ad) etmen
+FAKTÖRLER	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRLERDEN	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRLERE	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRLERİ	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRLERİN	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRLERİNİ	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRÜ	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRÜN	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRÜNE	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRÜNÜ	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRÜNÜN	(ad, faktör sözcüğünün çekimi) etmen
+FAKTÖRİYEL	(ad) matematikte, sağına ünlem işareti konulmuş sayıya verilen isim
+FAKTİTİF	(ad) ettirgen fiil
+FAKÜLTE	(ad) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTEDE	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTELERİ	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTELİ	(ad) fakülte öğrencisi olan kişi
+FAKÜLTESİ	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTESİNDE	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTESİNDEN	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTESİNE	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTESİNİ	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTESİNİN	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTEYE	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKÜLTEYİ	(ad, fakülte sözcüğünün çekimi) Bir üniversitenin, öğrenim alanı veya uzmanlık konusu bakımından ayrılmış kollarından her biri; medrese
+FAKİH	(ad) Fıkıh (din, şeriat) alimi; zeki, anlayışlı kimse, fıkıh bilgini, İslam hukukçusu.
+FAKİR	(ad) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş\n(sıfat) geçimini güçlükle sağlayan, yoksul
+FAKİRANE	(sıfat) Fakire yakışır şekilde.
+FAKİRCE	(zarf) fakire benzer bir biçimde\n(sıfat) yoksul
+FAKİRDEN	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRE	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRHANE	(ad) alçak gönüllülük göstermek için kendi evinden bahsederken kullanılan söz
+FAKİRLER	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRLERDEN	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRLERE	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRLERİ	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRLERİN	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRLEŞME	(ad) yoksullaşma
+FAKİRLEŞMEK	(eylem) yoksullaşmak
+FAKİRLEŞTİRME	(ad) yoksullaştırma
+FAKİRLEŞTİRMEK	(eylem) yoksullaştırmak
+FAKİRLİK	(ad) yoksulluk
+FAKİRLİKTE	(ad, fakirlik sözcüğünün çekimi) yoksulluk
+FAKİRLİKTEN	(ad, fakirlik sözcüğünün çekimi) yoksulluk
+FAKİRLİĞE	(ad, fakirlik sözcüğünün çekimi) yoksulluk
+FAKİRLİĞİ	(ad, fakirlik sözcüğünün çekimi) yoksulluk
+FAKİRLİĞİN	(ad, fakirlik sözcüğünün çekimi) yoksulluk
+FAKİRİ	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRİM	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRİN	(ad, fakir sözcüğünün çekimi) Hindistan'da yokluğa, eziyete kendini alıştırmış derviş
+FAKİRİZM	(ad) Hint felsefesinde, insan vücûdu (nefsi) bütün kötülüklerin kaynağı sayıldığından, bedene eziyeti ruhun kurtuluşu ve mutluluğu için gerekli gören çilekeşlik, Hint dervişliği
+FAL	(ad) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALA	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALAFEL	(ad) nohut köftesi veya bakla ezmesinin çeşitli baharatlarla karıştırılarak yağda kızartılmasıyla yapılan, daha çok ara sıcak olarak tüketilmeye uygun, Orta Doğu kökenli bir yemek.
+FALAFELCİ	(ad) Falafel yapıp satan kimse.
+FALAKA	(ad) ayakları sıkıştırıp tutmak için kullanılan, ortasına halka şeklinde ip geçirilmiş kalınca bir sopa ile tabanlara vurmaya yarayan bir değnekten yapılmış dayak âleti, ceza olarak çıplak ayak tabanlarına vurmakta kullanılan, ayakları uygun bir durumda sıkıştırıp tutan, kalınca bir sopa ile bunun iki ucuna bağlı bir ipi olan cezalandırma aracı
+FALAKACI	(ad) Yeniçeri ağasının veya sekban başının suçluları cezalandırmak için yanında bulundurduğu falakayı taşıyan acemi oğlanlara verilen ad.
+FALAKALI	(sıfat) Falakası olan.
+FALAKASIZ	(sıfat) Falakası olmayan.
+FALAN	(zamir) söylenmesi istenmeyen veya gerekli görülmeyen bir özel adın yerini tutan kelime, filan\n(ad) cümlede belirtilen nesne veya nesnelerden sonra gelerek "ve benzerleri" anlamında kullanılan bir söz
+FALANCA	(sıfat) Falan
+FALANGA	(ad) Ağır eşyanın taşınması veya kaldırılması için kullanılan uzun ve kalın sırık, palanga.
+FALANINCI	(sıfat) Söylenmesi gerekli görülmeyen sıra sayısı yerine kullanılır, filânıncı
+FALANJ	(ad) eski Yunanlılarda, özellikle Makedonya yayalarının çekirdeğini oluşturan mızraklı alay
+FALANJİST	(ad) İspanya'da falanj üyesi
+FALANİ	(ad) Bazı ülkelerde yarı askeri, siyasi kuruluşlara verilen ad
+FALCI	(ad) Fala bakmayı kendine geçim yolu yapan kimse; bakıcı, bakımcı.
+FALCILAR	(ad, falcı sözcüğünün çekimi) Fala bakmayı kendine geçim yolu yapan kimse; bakıcı, bakımcı.
+FALCILIK	(ad) Falcının yaptığı iş; bakıcılık, bakımcılık, Taoizm.
+FALCININ	(ad, falcı sözcüğünün çekimi) Fala bakmayı kendine geçim yolu yapan kimse; bakıcı, bakımcı.
+FALCISI	(ad, falcı sözcüğünün çekimi) Fala bakmayı kendine geçim yolu yapan kimse; bakıcı, bakımcı.
+FALCIYA	(ad, falcı sözcüğünün çekimi) Fala bakmayı kendine geçim yolu yapan kimse; bakıcı, bakımcı.
+FALCIYI	(ad, falcı sözcüğünün çekimi) Fala bakmayı kendine geçim yolu yapan kimse; bakıcı, bakımcı.
+FALEZ	(ad) yalı yar
+FALI	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALIM	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALIMA	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALIMDA	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALIMI	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALIN	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALINA	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALINDA	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALINI	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALINIZA	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALLAR	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALLARI	(ad, fal sözcüğünün çekimi) Geleceği öğrenmek, şans ve kısmeti anlamak amacıyla oyun kâğıdı, kahve telvesi, el ayası vb.ne bakarak anlam çıkarma; bakı.
+FALLUS	(ad) erkeklik organı
+FALNAME	(ad) Fala bakmanın inceliklerini ve yorumlama yöntemlerini anlatan kitap.
+FALSO	(ad) Yanlış davranış.
+FALSOLU	(sıfat) yanlış, hatalı, kusurlu
+FALSOSUZ	(sıfat) Hatasız, kusursuz
+FALYA	(ad) Ağızından dolan eski toplardaki ağız oyunun konulup ateşlendiği delik
+FALYANOS	(ad) Yunus balığının iri bir türü
+FALYONOS	(ad) Yunus cinsinden memeli büyük bir balık
+FALÇATA	(ad) maket bıçağı
+FALÇETE	(ad) Eğri kunduracı bıçağı
+FALİHAYIR	(ad) İyiye yorulur olgu.
+FAMİLYA	(ad) aile
+FAMİLYASI	(ad, familya sözcüğünün çekimi) aile
+FAMİLYASINDAN	(ad, familya sözcüğünün çekimi) aile
+FAN	(ad) havalandırma aracı, pervane, pervane kanadı
+FANATİK	(sıfat) bağnaz
+FANATİKLİK	(ad) İnsanın bir din, düşünce, parti uğrunda aşırılıklara kapılması hâli.
+FANATİZM	(ad) yüksek sempati ve sevginin bir marka, kurum ya da topluma mal olmuş birey üzerinde yoğunlaşmasına
+FANFAN	(sıfat) Dişleri dökülmüş gibi, konuşması pek anlaşılmayan (kimse), böyle söylenilen (söz)
+FANFAR	(ad) Birbiri ardına sıralanmış sinyal karakteristikli tonlar
+FANFİN	(ad) Anlaşılmayan yabancı bir dille konuşmak anlamında kullanılan fanfin etmek deyiminde geçer
+FANGRİ	(ad) Mercan türünden bir balık
+FANI	(ad, fan sözcüğünün çekimi) havalandırma aracı, pervane, pervane kanadı
+FANLAR	(ad, fan sözcüğünün çekimi) havalandırma aracı, pervane, pervane kanadı
+FANTA	(ad) Dağ isketesi denilen mavi ve yeşil renkli ufak bir kuş
+FANTASMA	(ad) Gerçekte olmadığı hâlde var gibi görünen şey
+FANTASTİK	(sıfat) hayalî\n(ad) 18. yüzyıldan başlayarak Fransa'da gelişen bir edebî tür.
+FANTAZYA	(ad) Arap atlılarının bayram günlerinde yaptıkları gösteri, atlı gösteri
+FANTEZİ	(ad) Sonsuz, sınırsız hayal; fantazya.\n(sıfat) Süslü ve türü değişik olan
+FANTEZİDEN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLER	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERDEN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERE	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİM	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİMİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİNDE	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİNDEN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİNE	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİNİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİLERİNİN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİM	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİMİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİNİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİNİN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİST	(sıfat) Fantezi meraklısı, fanteziye düşkün
+FANTEZİSİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİSİNE	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİSİNİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİSİNİN	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİYE	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTEZİYİ	(ad, fantezi sözcüğünün çekimi) Sonsuz, sınırsız hayal; fantazya.
+FANTOM	(ad) hayalet
+FANTOMLAR	(ad, fantom sözcüğünün çekimi) hayalet
+FANTİ	(ad) İskambilde oğlan, bacak veya vale adlarıyla bilinen kâğıt.
+FANUS	(ad) Süslü, ayaklı fener
+FANUSLU	(sıfat) Fanusu olan
+FANYA	(ad) Gözlü bir balık ağına iri gözlü ikinci bir ağ eklendiğinde, bu ikinci ağa verilen ad
+FANYOL	(ad) Bakırdan yapılmış bariton veya tenor ses veren çalgı
+FANİ	(ad) ölümlü, gelip geçici, sonlu, sonu gelen ve yok olan\n(sıfat) Ölümlü.
+FANİLA	(ad) Genellikle ince pamuk ipliğinden dokunmuş, ten üzerine giyilen iç çamaşırı; atlet.
+FANİLER	(ad, fani sözcüğünün çekimi) ölümlü, gelip geçici, sonlu, sonu gelen ve yok olan\n(sıfat, fâni sözcüğünün çekimi) Ölümlü.
+FANİLERİN	(ad, fani sözcüğünün çekimi) ölümlü, gelip geçici, sonlu, sonu gelen ve yok olan\n(sıfat, fâni sözcüğünün çekimi) Ölümlü.
+FANİLİK	(ad) ölümlülük
+FAR	(ad) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARA	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARAZA	(zarf) diyelim ki
+FARAZİYAT	(ad) Varsayımlar.
+FARAZİYE	(ad) Gerçekliği deneyle kesinleşmemiş var sayılan fikir
+FARAŞ	(ad) Toplanan süprüntüleri alıp atmak için kullanılan teneke veya plastikten yapılmış bir tür kürek.
+FARBA	(ad) Fırfır, farbala
+FARBALA	(ad) Fırfır
+FARE	(ad) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREDEN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREDİŞİ	(ad) Bir iğne veya boncuk oyası türü
+FAREKULAĞI	(ad) Çuha çiçeğigillerden, tohumu kuş yemi olarak kullanılan bitkilerin cins adı; bağırsak otu, sıçankulağı
+FAREKUYRUĞU	(ad) tahta işlemeciliğinde veya ahşap doğramada, kilit yeri açmakta kullanılan ince, dar testere
+FARELER	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERDE	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERDEN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERE	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERİN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERİNDEN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERİNE	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERİNİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARELERİNİN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREM	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREMİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREMİZ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARENJİT	(ad) boğazın şişip iltihaplanmasıyla ortaya çıkan hastalık, yutak iltihabı
+FARENİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARENİN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARENİZ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARESİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARESİNDEN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARESİNE	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARESİNİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARESİNİN	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREYE	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FAREYİ	(ad, fare sözcüğünün çekimi) Sıçangillerden, küçük vücutlu, kemirgen, memeli hayvan, (Mus).
+FARFARA	(sıfat) ağzında sır tutamayacak derecede çok konuşan
+FARFARACI	(ad) Gürültücü, şamatacı kimse
+FARFARACILIK	(ad) Farfaracı olma durumu
+FARFARALIK	(ad) farfara olma durumu
+FARI	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARIMA	(ad) Farımak işi
+FARIMAK	(eylem) Yorulmak
+FARIN	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARINI	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARK	(ad) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKA	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKI	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKIM	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKIMA	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKIMDA	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKIMIZ	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKIN	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKINA	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKINDA	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKINDALIK	(ad) farkında olma durumu
+FARKINDALIĞA	(ad, farkındalık sözcüğünün çekimi) farkında olma durumu
+FARKINDALIĞI	(ad, farkındalık sözcüğünün çekimi) farkında olma durumu
+FARKINDALIĞIN	(ad, farkındalık sözcüğünün çekimi) farkında olma durumu
+FARKINDALIĞINI	(ad, farkındalık sözcüğünün çekimi) farkında olma durumu
+FARKINDAN	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKINI	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKININ	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKINIZ	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKLAR	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKLARDAN	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKLARI	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKLARINI	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARKLI	(sıfat) Aralarında fark bulunan; değişik, ayrımlı, daha bir, alternatif
+FARKLICA	(sıfat) Biraz farklı
+FARKLILAŞMA	(ad) Farklılaşmak işi, ayrımlaşma
+FARKLILAŞMAK	(eylem) ayrımlılaşmak
+FARKLILAŞTIRMAK	(eylem) Farklıduruma getirmek
+FARKLILIK	(ad) farklı olma durumu, ayrımlılık, başkalık
+FARKLILIKLAR	(ad, farklılık sözcüğünün çekimi) farklı olma durumu, ayrımlılık, başkalık
+FARKLILIĞI	(ad, farklılık sözcüğünün çekimi) farklı olma durumu, ayrımlılık, başkalık
+FARKSIZ	(sıfat) farkı olmayan
+FARKSIZLAŞMA	(ad) Farksızlaşmak işi
+FARKTAN	(ad, fark sözcüğünün çekimi) Bir kimse veya nesnenin bir başkasıyla karıştırılmamasını sağlayan ayrılık, benzer şeyleri birbirinden ayıran özellik; ayırt, ayrım.
+FARLAR	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARLARI	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARLARIN	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARLARINI	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARLARINIZI	(ad, far sözcüğünün çekimi) taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği
+FARMAKODİNAMİ	(ad) Hasta veya normal organizmalar üzerinde, ilaçların etkisini deneysel olarak inceleyen, araştıran bilim
+FARMAKODİNAMİK	(ad) İlaçların etki gücü
+FARMAKOFOBİ	(ad) ilaçlardan korkma
+FARMAKOGNOZİ	(ad) İlâçların doğada bulundukları durumda incelenmesi
+FARMAKOLOG	(ad) İlaçların ve diğer maddelerin insanlar ve hayvanların organları, dokuları, yaşam zamanları üzerindeki etkilerini araştıran, yeni ve geliştirilmiş tıbbi ilaçlar yapan kişi
+FARMAKOLOJİ	(ad) İlaçların etkisini ve kullanılışını inceleyen bilim dalı; ilaç bilimi
+FARMAKOLOJİK	(sıfat) İlaç bilimi ile ilgili
+FARMAKOPE	(ad) İlaç üretiminde kullanılan etkin ve yardımcı maddelerin nitel ve nicel çözümleme yöntemlerinin yer aldığı, yasal ve bilimsel olarak uyulması gereken ulusal ve uluslararası kuralları ve yöntemleri içeren resmî kitap.
+FARMASON	(ad) Mason\n(sıfat) Dinsiz, imansız
+FARMASONLUK	(ad) Masonluk
+FAROZ	(ad) Trabzon'un merkez ilçesinde deniz kenarında bir semt adı olup, Yunanca "deniz feneri" anlamına gelmektedir.
+FARS	(ad) Güldürü
+FART	(ad) aşırılık, fazlalık
+FARZ	(ad) yapmak zorunda kalınan şey, boyun borcu\n(sıfat) yapmak zorunda kalınan
+FARZI	(ad, farz sözcüğünün çekimi) yapmak zorunda kalınan şey, boyun borcu
+FARÇALAMAK	(eylem) (Ankara ağzı) Şımarmak
+FARİK	(ad) ayırıcı
+FARİKA	(ad) ayırmaç
+FARİL	(ad) Balık ağlarının alt ve üst yanlarına geçirilen keçi kılından yapılmış ip
+FARİN	(ad) nişasta
+FARİNKS	(ad) Yutak.
+FARİSİ	(ad) Farsça\n(sıfat) farsa ait olan ,farsa ilgili; yani perslerle ilgili olan
+FARİZA	(ad) Tanrı buyruğu
+FARİĞ	(sıfat) vazgeçmiş, çekilmiş
+FASARYA	(sıfat) Boş, anlamsız söz.
+FASET	(ad) geometrik şekilli nesne ve eşyaların düz yüzeylerine verilen ad
+FASETA	(ad) Elmasın oyulmuş yüzlerinden herbiri.
+FASIK	(ad) fesat peşinde olan kişi
+FASIKLI	(sıfat) fâsığın olması durumu
+FASIKLIK	(ad) İslâm: fâsık olma durumu
+FASIKSIZ	(sıfat) fâsığın olmaması durumu
+FASIKÇA	(zarf) bir fâsıktan beklenecek şekilde
+FASIL	(ad) bölüm
+FASILA	(ad) aralık
+FASILALI	(sıfat) aralı, aralıklı
+FASILASIZ	(sıfat) Kesintisiz, biteviye
+FASKA	(ad) Kundak çocuklarının beline, zıbının üzerinden sarılan geniş sargı
+FASLETME	(ad) Fasletmek işi
+FASLETMEK	(eylem) Ayırmak, bölmek
+FASON	(ad) Biçim, kesim
+FASONE	(ad) Çizgili, yünlü kumaş
+FASSAL	(sıfat) İftira atan, gerçek olmayan isnatlarda bulunan, dedikoducu, çekiştiren (kimse).
+FASSALLIK	(ad) Fassal olma durumu
+FASULYE	(ad) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYEDEN	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYELER	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYELERDEN	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYELERİ	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYELERİN	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYELERİNİ	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYEM	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYENİN	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYESİ	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYEYE	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASULYEYİ	(ad, fasulye sözcüğünün çekimi) Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FASİH	(sıfat) açık
+FASİKÜL	(ad) Ansiklopedilerin, büyük kitapların ayrı kapaklar içinde satışa çıkarılan bir ya da birkaç formalık bölümü
+FASİLE	(ad) Familya
+FASİT	(sıfat) Kötü, bozuk
+FATALİST	(sıfat) yazgıcı.
+FATALİTE	(ad) Alınyazısı, kader
+FATALİZM	(ad) Kadercilik, yazgıcılık
+FATURA	(ad) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURADA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURADAN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALAMAK	(eylem) Bir malın faturasınıdüzenlemek
+FATURALANDIRMA	(eylem, faturalandırmak sözcüğünün çekimi) Faturalama işini yapmak.
+FATURALANDIRMAK	(eylem) Faturalama işini yapmak.
+FATURALAR	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.\n(eylem, faturalamak sözcüğünün çekimi) Bir malın faturasınıdüzenlemek
+FATURALARA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARDAN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARIM	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARIMI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARIMIZ	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARIMIZI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARIN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARINA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARINDAN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARINI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARININ	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALARINIZI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURALI	(sıfat) Faturası olan
+FATURAM	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURAMA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURAMI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURAMIZ	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURAN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURANI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURANIN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURANIZ	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURANIZI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASINA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASINDA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASINDAN	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASINI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASININ	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURASIZ	(sıfat) Faturası olmayan
+FATURAYA	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATURAYI	(ad, fatura sözcüğünün çekimi) Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası.
+FATÜL	(ad) Güneş üzerindeki lekelerin çevresinde zamanla görülen parlaklık, leke, benek
+FATİHA	(ad) Kur'an'ın ilk suresi
+FATİHANE	(zarf) fatih gibi, fatihe benzercesine
+FAUL	(ad) Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket.
+FAULLÜ	(sıfat) Faulü olan, faul yapan
+FAULSÜZ	(sıfat) Faulü olmayan, faul yapmayan
+FAUNA	(ad) Belli bir bölgede yetişen hayvanların tümü, hayvan varlığı
+FAVA	(ad) İçine limon, şeker ve zeytinyağında pembeleştirilmiş soğan koyularak suda haşlanan bakla tanelerinin püre kıvamına getirilmesiyle yapılan ezme.
+FAVORİ	(ad) Yüzün iki yanında, saçın devamı olarak bırakılan sakal demeti, duluk, faul\n(sıfat) Gözde olan, en çok beğenilen
+FAVORİLER	(ad, favori sözcüğünün çekimi) Yüzün iki yanında, saçın devamı olarak bırakılan sakal demeti, duluk, faul
+FAY	(ad) Yer kabuğunu oluşturan kayaçların bir yüzey boyunca kırılması ve oluşan iki parçanın birbirine göre nispî olarak yer değiştirmesi
+FAYANS	(ad) duvarları kaplayıp süslemek için kullanılan, bir yüzü sırlı ve türlü desenlerle bezenmiş, çini
+FAYANSLAR	(ad, fayans sözcüğünün çekimi) duvarları kaplayıp süslemek için kullanılan, bir yüzü sırlı ve türlü desenlerle bezenmiş, çini
+FAYANSÇI	(ad) Fayans döşeyen veya satan kimse
+FAYANSÇILIK	(ad) Fayansçının işi veya mesleği
+FAYDA	(ad) yarar
+FAYDACI	(ad) Faydası olan, fayda sağlayan, fayda gözeten kimse
+FAYDACIL	(sıfat) Yararcıl
+FAYDACILIK	(ad) yararcılık
+FAYDALANACAK	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANACAKSIN	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANACAĞIM	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANACAĞIZ	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANDI	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANDIK	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANDILAR	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANDIM	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANDIN	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANDIRMAK	(eylem) Yararlandırmak.
+FAYDALANILMAK	(eylem) yararlanılmak
+FAYDALANIR	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANIYOR	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANIYORLAR	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANIYORSUN	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANIYORSUNUZ	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANIYORUM	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANIYORUZ	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANMA	(ad) yararlanma
+FAYDALANMAK	(eylem) yararlanmak
+FAYDALANMAM	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALANMASI	(ad, faydalanma sözcüğünün çekimi) yararlanma
+FAYDALANMASINA	(ad, faydalanma sözcüğünün çekimi) yararlanma
+FAYDALANMASINI	(ad, faydalanma sözcüğünün çekimi) yararlanma
+FAYDALANMAYA	(ad, faydalanma sözcüğünün çekimi) yararlanma
+FAYDALANMAYI	(ad, faydalanma sözcüğünün çekimi) yararlanma
+FAYDALANMIŞ	(eylem, faydalanmak sözcüğünün çekimi) yararlanmak
+FAYDALAR	(ad, fayda sözcüğünün çekimi) yarar
+FAYDALARI	(ad, fayda sözcüğünün çekimi) yarar
+FAYDALARINA	(ad, fayda sözcüğünün çekimi) yarar
+FAYDALARINDAN	(ad, fayda sözcüğünün çekimi) yarar
+FAYDALARINI	(ad, fayda sözcüğünün çekimi) yarar
+FAYDALARININ	(ad, fayda sözcüğünün çekimi) yarar
+FAYDALI	(ad) faydası olan kişi\n(sıfat) faydası olan
+FAYDALILIK	(ad) yararlılık
+FAYDAM	(ad, fayda sözcüğünün çekimi) yarar
+FAYDAMIZ	(ad, fayda sözcüğünün çekimi) yarar
+FAYDAN	(ad, fay sözcüğünün çekimi) Yer kabuğunu oluşturan kayaçların bir yüzey boyunca kırılması ve oluşan iki parçanın birbirine göre nispî olarak yer değiştirmesi
+FAYDANIZ	(ad, fayda sözcüğünün çekimi) yarar
+FAYDASI	(ad, fayda sözcüğünün çekimi) yarar
+FAYDASINA	(ad, fayda sözcüğünün çekimi) yarar
+FAYDASINI	(ad, fayda sözcüğünün çekimi) yarar
+FAYDASININ	(ad, fayda sözcüğünün çekimi) yarar
+FAYDASIZ	(sıfat) yararsız
+FAYDASIZLIK	(ad) Faydasız olma durumu
+FAYDAYI	(ad, fayda sözcüğünün çekimi) yarar
+FAYI	(ad, fay sözcüğünün çekimi) Yer kabuğunu oluşturan kayaçların bir yüzey boyunca kırılması ve oluşan iki parçanın birbirine göre nispî olarak yer değiştirmesi
+FAYRAP	(ad) İstim kazanının buhar oluşturacak biçimde yanması durumu.\n(ünlem) Gemilerde ateşçiye ateşi harlandırmak için verilen komut.
+FAYSAL	(ad) Kesin karar, hüküm
+FAYTON	(ad) tek körüklü, dört tekerlekli, genellikle çift atlı binek arabası
+FAYTONCU	(ad) Fayton süren kimse
+FAYTONCULUK	(ad) Faytoncunun işi
+FAYTONU	(ad, fayton sözcüğünün çekimi) tek körüklü, dört tekerlekli, genellikle çift atlı binek arabası
+FAZ	(ad) bir dalganın referansa göre durumu, elektrik geriliminde evre
+FAZIL	(sıfat) Faziletli, erdemli (kimse)
+FAZLA	(zarf) gereksiz, yersiz bir biçimde\n(sıfat) gereğinden, alışılmıştan çok, aşırı olan, ziyade
+FAZLACA	(zarf) gereğinden biraz daha çok olarak, bir hayli, çokça
+FAZLALAŞMA	(ad) Fazlalaşmak işi.
+FAZLALAŞMAK	(eylem) çoğalmak
+FAZLALAŞTI	(eylem, fazlalaşmak sözcüğünün çekimi) çoğalmak
+FAZLALAŞTIRMA	(ad) çoğaltma
+FAZLALAŞTIRMAK	(eylem) çoğaltmak
+FAZLALIK	(ad) lüzumsuz olma hali, tespit edilen miktarı aşan
+FAZLALIKLAR	(ad, fazlalık sözcüğünün çekimi) lüzumsuz olma hali, tespit edilen miktarı aşan
+FAZLALIĞI	(ad, fazlalık sözcüğünün çekimi) lüzumsuz olma hali, tespit edilen miktarı aşan
+FAZLASIYLA	(zarf) olağandan, gerekenden çok, pek çok, ziyadesiyle
+FAZMOFOBİ	(ad) hayaletlerden korkma
+FAZİLET	(ad) erdem
+FAZİLETKAR	(ad) erdemli.
+FAZİLETLİ	(sıfat) erdemli, efdal
+FAZİLETPERVER	(sıfat) Fazilet sever, fazilet sahibi
+FAZİLETSİZ	(sıfat) Erdemsiz
+FAZİLETSİZLİK	(ad) Faziletsiz olma durumu
+FAZİLETİ	(ad, fazilet sözcüğünün çekimi) erdem
+FAÇA	(ad) iskambil destesinin en altındaki kâğıt
+FAÇALI	(sıfat) havalı, gösterişli olan
+FAÇETA	(ad) elmasın yontulmuş yüzlerinden her biri
+FAÇETALI	(sıfat) Üzerinde façetaları bulunan
+FAÇETASIZ	(sıfat) Üzerinde façetaları bulunmayan
+FAÇUNA	(ad) halatın örselenecek yerine tel veya sicimle yapılan sargı
+FAÇUNALIK	(ad) façuna yapmakta kullanılan tel veya sicim
+FAĞFUR	(ad) Çin işi, iyi porselenden yapılmış kase, tabak v.b. porselen eşya
+FAĞFURİ	(sıfat) Fağfurdan, çini porseleninden yapılmış.
+FAİDE	(ad) bkz. fayda
+FAİK	(sıfat) üstün, yüksek
+FAİKIYAT	(ad) üstünlük, yükseklik
+FAİKİYET	(ad) üstünlük
+FAİL	(ad) özne\n(sıfat) eden, yapan, işleyen, işi işleyen, fiili gerçekleştiren
+FAİLE	(ad, fail sözcüğünün çekimi) özne
+FAİLLER	(ad, fail sözcüğünün çekimi) özne
+FAİLLERİ	(ad, fail sözcüğünün çekimi) özne
+FAİLLERİN	(ad, fail sözcüğünün çekimi) özne
+FAİLLERİNİ	(ad, fail sözcüğünün çekimi) özne
+FAİLİ	(ad, fail sözcüğünün çekimi) özne
+FAİLİMEÇHUL	(sıfat) Kimin yaptığı belli olmayan veya bilinmeyen
+FAİLİMİZ	(ad, fail sözcüğünün çekimi) özne
+FAİLİN	(ad, fail sözcüğünün çekimi) özne
+FAİLİNİ	(ad, fail sözcüğünün çekimi) özne
+FAİLİNİN	(ad, fail sözcüğünün çekimi) özne
+FAİZ	(ad) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAİZCİ	(ad) Faizle para veren kimse
+FAİZCİLİK	(ad) tefecilik
+FAİZE	(ad, faiz sözcüğünün çekimi) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAİZLENDİRME	(ad) faizlendirmek işi
+FAİZLENDİRMEK	(eylem) Parayıfaize verip işletmek, çoğaltmak, nemalandırmak
+FAİZLER	(ad, faiz sözcüğünün çekimi) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAİZLERİ	(ad, faiz sözcüğünün çekimi) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAİZLİ	(sıfat) Faizi olan, faizle işlem gören (para için).
+FAİZSİZ	(sıfat) Faizi olmayan, faizle işlem görmeyen (para için).
+FAİZİ	(ad, faiz sözcüğünün çekimi) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAİZİN	(ad, faiz sözcüğünün çekimi) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAİZİNİ	(ad, faiz sözcüğünün çekimi) işletmek için bir yere ödünç verilen paraya karşılık alınan kâr, ürem, nema
+FAŞ	(ad) açık, meydana ortaya dökülmüş
+FAŞETMEK	(eylem) (gizliyi) açığa vurmak, duyurmak, ortaya dökmek, dile vermek
+FAŞOLMAK	(eylem) Belli olmak, açıklanmak, ortaya çıkmak
+FAŞİNG	(ad) Almanlarda Hristiyanlık inancına göre belli günlerde düzenlenen şenlik ve eğlenceler
+FAŞİST	(ad) Faşizm yanlısı olan (kimse, görüş vb.)
+FAŞİSTLER	(ad, faşist sözcüğünün çekimi) Faşizm yanlısı olan (kimse, görüş vb.)
+FAŞİSTLEŞME	(ad) Faşistleşmek durumu
+FAŞİSTLEŞMEK	(eylem) Faşist duruma gelmek
+FAŞİSTLEŞTİRMEK	(eylem) Faşistleşmesini sağlamak
+FAŞİSTLİK	(ad) Faşizm
+FAŞİSTİ	(ad, faşist sözcüğünün çekimi) Faşizm yanlısı olan (kimse, görüş vb.)
+FAŞİZAN	(sıfat) Faşist eğilimli
+FAŞİZM	(ad) İtalya'da 1922-1943 yılları arasında etkinliğini sürdüren, meslek kuruluşlarına dayanan, devlet sınırlarını genişletmeyi amaçlayan, yetkinin, tek partinin elinde toplandığı düzen.
+FAŞİZMİ	(ad, faşizm sözcüğünün çekimi) İtalya'da 1922-1943 yılları arasında etkinliğini sürdüren, meslek kuruluşlarına dayanan, devlet sınırlarını genişletmeyi amaçlayan, yetkinin, tek partinin elinde toplandığı düzen.
+FEBRİFOBİ	(ad) yüksek ateşten korkma
+FECAAT	(ad) çok acıklı, yürekler acısı durum
+FECAYİ	(ad) Acıklı haller, musibetler, belalar
+FECRİKAZİP	(ad) tan yerinde gün doğmadan beliren, sonradan kaybolan geçici aydınlık, yalancı tan, geçici tan
+FECRİSADIK	(ad) Tan yerinde gün doğuncaya kadar süren kesiksiz aydınlık
+FECİ	(sıfat) çok acıklı
+FECİR	(ad) tan, şafak
+FEDA	(ad) bir amaç uğrunda değer veya varlıktan vazgeçme, uğruna verme
+FEDAKAR	(sıfat) Başkalarının menfaati için veya devlet uğrunda kendi menfaatlerini feda eden, özverili.
+FEDAKARANE	(ad) canını feda edercesine
+FEDAKARCA	(sıfat) Özverili
+FEDAKARLIK	(ad) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIKLAR	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIKLARDA	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIKLARI	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIKLARIN	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIKTA	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIKTAN	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIĞA	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIĞI	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIĞIN	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAKARLIĞINI	(ad, fedakârlık sözcüğünün çekimi) Bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için karşılık beklemeden kendi yararlarından vazgeçme
+FEDAİ	(ad) bir ülkü uğruna tehlikeli işlere girişerek canını esirgemeyen kimse, serdengeçti
+FEDAİCE	(zarf) Fedaî gibi, fedaî olarak
+FEDAİLER	(ad, fedai sözcüğünün çekimi) bir ülkü uğruna tehlikeli işlere girişerek canını esirgemeyen kimse, serdengeçti
+FEDAİLERİ	(ad, fedai sözcüğünün çekimi) bir ülkü uğruna tehlikeli işlere girişerek canını esirgemeyen kimse, serdengeçti
+FEDAİLİK	(ad) Fedaice davranış, serdengeçtilik
+FEDAİSİ	(ad, fedai sözcüğünün çekimi) bir ülkü uğruna tehlikeli işlere girişerek canını esirgemeyen kimse, serdengeçti
+FEDAİYİ	(ad, fedai sözcüğünün çekimi) bir ülkü uğruna tehlikeli işlere girişerek canını esirgemeyen kimse, serdengeçti
+FEDERAL	(sıfat) federasyon durumunda birleşmiş olan
+FEDERALLEŞME	(ad) Federalleşmek durumu
+FEDERALLEŞMEK	(eylem) Federal duruma gelmek
+FEDERALİST	(sıfat) Federalizme bağlı olan
+FEDERASYON	(ad) Aynı alandaki çeşitli kuruluşları bir arada toplayan dayanışma birliği
+FEDERASYONA	(ad, federasyon sözcüğünün çekimi) Aynı alandaki çeşitli kuruluşları bir arada toplayan dayanışma birliği
+FEDERASYONDAN	(ad, federasyon sözcüğünün çekimi) Aynı alandaki çeşitli kuruluşları bir arada toplayan dayanışma birliği
+FEDERASYONU	(ad, federasyon sözcüğünün çekimi) Aynı alandaki çeşitli kuruluşları bir arada toplayan dayanışma birliği
+FEDERASYONUN	(ad, federasyon sözcüğünün çekimi) Aynı alandaki çeşitli kuruluşları bir arada toplayan dayanışma birliği
+FEDERATİF	(ad) Federasyon sistemine uygun, federalizme bağlı olan
+FEDERE	(sıfat) Bir federasyona bağlı olan\n(ad) Bir konfederasyonun üyesi
+FEDİK	(ad) (Düziçi ağzı) Yeni pişmiş bulgur.
+FEDİNG	(ad) Radyoda bir sesin gürlüğünün zaman zaman azalması veya büsbütün yok olması durumu
+FEERİ	(ad) kahramanları;cinler,periler,melekler,ruhlar,cadılar olan ve tamamen hayali bir vakaya dayanan dram veya opera
+FEFHEM	(ad) Anlayışlı, kolay anlayan, anlama
+FEHAMET	(ad) Büyüklük, ululuk
+FEHAMETLU	(sıfat) Büyüklük, ululuk gösteren (kimse)
+FEHME	(ad) (C: Fuhem-Fuhum) Kömür.
+FEHMETMEK	(eylem) anlamak,kavramak
+FEHMİ	(ad) anlayışa,zekâya ait anlayışlı
+FEHVA	(ad) anlam
+FEHVASINCA	(zarf) Uyarınca, sözü gereğince
+FEHİM	(ad) anlama, kavrama
+FEK	(ad) bozma, feshetme, kesme, ayırma, koparma
+FEKAL	(ad) İnsan gübresi
+FEKÜL	(ad) Patates gibi kimi bitkilerin yumrularında bulunan nişasta
+FEL	(ad) görüngü
+FELAH	(ad) Kurtuluş, selamet, bahtiyarlık, onma.
+FELAK	(ad) Sabah aydınlığı
+FELAKET	(ad) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl\n(sıfat) çok kötü
+FELAKETE	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETLER	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETLERDEN	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETLERE	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETLERİ	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETLERİN	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETLİ	(sıfat) felaket getiren
+FELAKETTE	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETTEN	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETZEDE	(ad) Felakete uğramış kimse
+FELAKETİ	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETİM	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETİN	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETİNDEN	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETİNE	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETİNİ	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELAKETİNİN	(ad, felaket sözcüğünün çekimi) Büyük sıkıntı, üzüntü ve zarara yol açan hadise veya hâl
+FELCİ	(ad, felç sözcüğünün çekimi) inme
+FELDMAREŞAL	(ad) Almanya ve bazı batı ülkelerinde en yüksek askeri rütbe
+FELDSPAT	(ad) Potasyumlu, sodyumlu ve kalsiyumlu olmak üzere üçe ayrılan en önemli silikatlı mineral grubu.
+FELEFEŞ	(ad) Önemsenmeyen iş.
+FELEK	(ad) baht.
+FELEKTEN	(ad, felek sözcüğünün çekimi) baht.
+FELEKZEDE	(ad) feleğin kahrına uğramış,talihsiz
+FELEKİYAT	(ad) gök bilimi
+FELEĞİN	(ad, felek sözcüğünün çekimi) baht.
+FELEĞİNİ	(ad, felek sözcüğünün çekimi) baht.
+FELFELE	(ad) Birden çok ailenin kurduğu ortak kır sofrası
+FELFELEK	(ad) Küçük bir kelebek türü
+FELFELLEMEK	(eylem) yorulmak,hızını kaybetmek
+FELLAH	(ad) çiftçi
+FELLER	(ad, fel sözcüğünün çekimi) görüngü
+FELSEFE	(ad) varlık ve düşünmeyi oluşturan ilkeler, gerçeklik ve nedenselliğin araştırılması, düşünbilim
+FELSEFECİ	(ad) maddenin, bilginin kapsamı ve kaynağı, insanın dünyadaki yeri ve rolü, iyi doğru ve güzelin ne olduğu alanlarında inceleme ve araştırma yapan, düşünce üretebilen kişi, feylozof, filozof
+FELSEFECİLİK	(ad) Felsefeci olma durumu
+FELSEFEDE	(ad, felsefe sözcüğünün çekimi) varlık ve düşünmeyi oluşturan ilkeler, gerçeklik ve nedenselliğin araştırılması, düşünbilim
+FELSEFELER	(ad) Felsefenin çoğulu
+FELSEFEYİ	(ad, felsefe sözcüğünün çekimi) varlık ve düşünmeyi oluşturan ilkeler, gerçeklik ve nedenselliğin araştırılması, düşünbilim
+FELSEFİ	(ad) felsefe ile ilgili
+FELÇ	(ad) inme
+FELÇLİ	(sıfat) vücudunun tamamı ya da bir kısmı felç sebebiyle istenildiği gibi hareket edemeyen, inmeli
+FELİKS	(ad) Palmiye yaprağına benzeyen, park ve bahçelerde süs için kullanılan iri gövdeli bir bitki (Phoenix canariersis)
+FEMUR	(ad) uyluk kemiği
+FEMİNAZİ	(ad) feminizmi savunan kişi\n(sıfat) feminizmi savunan
+FEMİNEN	(sıfat) Kadınsı
+FEMİNİST	(ad) feminizm yanlısı (kimse, görüş)\n(sıfat) feminizm yanlısı
+FEMİNİSTLER	(ad, feminist sözcüğünün çekimi) feminizm yanlısı (kimse, görüş)
+FEMİNİSTLERİN	(ad, feminist sözcüğünün çekimi) feminizm yanlısı (kimse, görüş)
+FEMİNİSTİM	(ad, feminist sözcüğünün çekimi) feminizm yanlısı (kimse, görüş)
+FEMİNİZM	(ad) Toplumda kadının haklarını çoğaltma, erkeğinkiler düzeyine çıkarma, eşitlik sağlama amacını güden düşünce akımı; kadın hareketi.
+FEMİNİZMİN	(ad, feminizm sözcüğünün çekimi) Toplumda kadının haklarını çoğaltma, erkeğinkiler düzeyine çıkarma, eşitlik sağlama amacını güden düşünce akımı; kadın hareketi.
+FEN	(ad) Fizik, kimya, matematik ve biyolojiden elde edilen verileri iş ve yapım alanında uygulama, teknik.
+FENA	(sıfat) kötü\n(zarf) çok
+FENALAŞMA	(ad) Fenalaşmak işi
+FENALAŞMAK	(eylem) kötü bir duruma girmek
+FENALAŞTIRMA	(ad) Fenalaştırmak işi durumu
+FENALAŞTIRMAK	(eylem) Fenalaşmasına sebep olmak, fena duruma getirmek
+FENALIK	(ad) kötülük
+FENASI	(sıfat, fena sözcüğünün çekimi) kötü
+FENCİ	(ad) Fenle uğraşan kimse.
+FENDİ	(ad, fent sözcüğünün çekimi) Düzen, hile
+FENER	(ad) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERCİ	(sıfat) fener yapan veya satan kişi
+FENERDE	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERE	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLER	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLERDEN	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLERİ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLERİN	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLERİNİ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLERİNİZİ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERLİ	(sıfat) feneri olan fener taşıyan
+FENERSİZ	(sıfat) feneri olmaya fenersiz
+FENERİ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİM	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİMİ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİMİZ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİN	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİNDE	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİNDEN	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİNE	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİNİ	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENERİNİN	(ad, fener sözcüğünün çekimi) Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+FENLENME	(ad) Fenlenmek işi veya durumu
+FENLENMEK	(eylem) Yaşına göre bilmemesi gereken şeyleri öğrenmiş olmak.
+FENNİ	(sıfat) Fenle ilgili
+FENOL	(ad) Boyacılıkta, plastik maddelerin ve kimi ilaçların yapımında kullanılan, çoğunlukla maden kömürünün katranından çıkarılan benzinin oksijenli türevi
+FENOLOJİ	(ad) Çiçek açma, üreme, göç gibi iklime ve çevre koşullarına bağlı, periyodik biyolojik olayların incelenmesi ve kaydı
+FENOLOJİK	(sıfat) Belirti bilimsel
+FENOMEN	(ad) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENAL	(sıfat) Şaşılacak, olağanüstü
+FENOMENE	(ad, fenomen sözcüğünün çekimi) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENLER	(ad, fenomen sözcüğünün çekimi) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENLERİ	(ad, fenomen sözcüğünün çekimi) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENOLOJİ	(ad) görüngü bilimi
+FENOMENOLOJİK	(sıfat) Görüngü bilimsel
+FENOMENİ	(ad, fenomen sözcüğünün çekimi) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENİN	(ad, fenomen sözcüğünün çekimi) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENİNİ	(ad, fenomen sözcüğünün çekimi) Herhangi bir özelliğiyle dikkat çeken, kitleleri etkileme gücü olan kimse veya nesne.
+FENOMENİZM	(ad) Görüngücülük
+FENOTİP	(ad) Ekolojik koşulların etkisi altında meydana gelen ve sadece dış görünüm bakımından değişmiş bulunan türler
+FENT	(ad) Düzen, hile
+FENİK	(sıfat) Alman para birimi
+FEODAL	(sıfat) derebeylikle ilgili
+FEODALLİK	(ad) Derebeylik, derebeyi olma durumu
+FEODALİTE	(ad) Derebeylik
+FEODALİZM	(ad) Derebeylik sistemi
+FER	(ad) parlaklık, aydınlık
+FERACE	(ad) Kadınların sokakta giydikleri, mantoya benzer, arkası bol, yakasız, çoğu kez eteklere kadar uzayan üst giysisi.
+FERACELİ	(sıfat) Ferace giymiş olan; feracesi olan.
+FERACELİK	(ad) Ferace yapmaya elverişli (kumaş)
+FERAGAT	(ad) el çekme
+FERAGATLİ	(sıfat) Vazgeçebilen, özveride bulunabilen, özveri gösterebilen
+FERAH	(ad) kalp, gönül, iç vb.nin sıkıntısız, tasasız olma durumu\n(sıfat) bol, geniş
+FERAHFEZA	(ad) Klasik Türk müziğinde, yegâh perdesinde karar kılan makamlardan biri.
+FERAHLADI	(eylem, ferahlamak sözcüğünün çekimi) Bir yerin geniş rahat ve iç açıcı duruma gelmesi, ferahlanmak.
+FERAHLADIM	(eylem, ferahlamak sözcüğünün çekimi) Bir yerin geniş rahat ve iç açıcı duruma gelmesi, ferahlanmak.
+FERAHLAMA	(ad) Ferah duruma gelme
+FERAHLAMAK	(eylem) Bir yerin geniş rahat ve iç açıcı duruma gelmesi, ferahlanmak.
+FERAHLANDIRMAK	(eylem) Ferahlamasısağlanmak
+FERAHLANMAK	(eylem) ferahlamak.
+FERAHLATICI	(sıfat) ferahlık veren,rahatlatan
+FERAHLATIR	(eylem, ferahlatmak sözcüğünün çekimi) Ferah duruma getirmek, rahatlatmak
+FERAHLATMAK	(eylem) Ferah duruma getirmek, rahatlatmak\n(sıfat) ferah hale getirmek
+FERAHLIK	(ad) ferah olma durumu, genişlik, gönül açıklığı
+FERAHLIĞI	(ad, ferahlık sözcüğünün çekimi) ferah olma durumu, genişlik, gönül açıklığı
+FERAHNAK	(ad) Klasik Türk müziğinde bir birleşik makam.
+FERAHNÜMA	(ad) Klasik Türk müziğinde bir makam
+FERAHİ	(ad) Bolluk, genişlik
+FERASETLİ	(sıfat) anlayışlı
+FERASETSİZ	(sıfat) anlayışsız
+FERASETSİZLİK	(ad) Ferasetsiz olma durumu
+FERAĞ	(ad) Bir işten vazgeçme, çekilme, el çekme, terk etme.
+FERDA	(ad) Erte, yarın
+FERDASI	(sıfat) ertesi
+FERDE	(ad) küçük denk, top
+FERDENFERDA	(zarf) Tek tek
+FERDİ	(sıfat) fertle ilgili, bireysel
+FERDİYETÇİ	(sıfat) bireyci
+FERDİYETÇİLİK	(ad) bireycilik
+FERET	(ad) sansargiller ailesinden, gelinciklerle ve kokarcalarla akraba, küçük etçil memeli
+FERETİKO	(ad) Hint keneviri (kendir) ipinden el tezgahında dokunan bir bez türüdür. Özellikle Rize'de dokunan bir tür olduğundan "Rize bezi" diye de bilinir.
+FERFECİR	(ad) ferfecir göneş doğmadan önceki ışık ilk ışık hayatın başlaması anlamınada gelir
+FERFORJE	(ad) kapılara, pencerelere veya evlerin iç bölümlerine süsleme amacıyla yapılıp takılan dövme demir
+FERHANE	(ad) Birden çok mağazası bulunan eski hanların tipinde, avlulu geniş bina, büyük han veya kervansaray
+FERLİ	(sıfat) Parlak (göz, ışık)
+FERMA	(ad) köpeğin avı gözetlemesi
+FERMAN	(ad) Emir
+FERMANA	(ad) entarinin üzerine giyilen kolsuz kadın elbisesi
+FERMANI	(ad, ferman sözcüğünün çekimi) Emir
+FERMANIM	(ad, ferman sözcüğünün çekimi) Emir
+FERMANIMI	(ad, ferman sözcüğünün çekimi) Emir
+FERMANIN	(ad, ferman sözcüğünün çekimi) Emir
+FERMANINI	(ad, ferman sözcüğünün çekimi) Emir
+FERMANLARINI	(ad, ferman sözcüğünün çekimi) Emir
+FERMANTASYON	(ad) bir maddenin bakteriler, mantarlar ve diğer mikroorganizmalar aracılığıyla, genellikle ısı vererek mayalanması işlemi, mayalanma
+FERMEJÜP	(ad) çıtçıt
+FERMENE	(ad) Türlü nakışlarla işlemeli, önü kavuşmayan, yeleğe benzeyen bir giysi
+FERMENECİ	(ad) Fermene yapan veya satan kimse
+FERMENELİ	(sıfat) Fermenesi olan
+FERMENT	(ad) maya
+FERMUAR	(ad) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARA	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARI	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARIM	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARIMI	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARIN	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARINA	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARINI	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMUARLAR	(ad, fermuar sözcüğünün çekimi) Giysi, çanta vb. yerlerde kullanılan, karşılıklı dişler ve bunların üzerinde yürüyen kapatıcıdan oluşan düzenek.
+FERMİYON	(ad) Parçacık fiziğinde Fermi-Dirac istatistiğine uyan buçuklu spine sahip parçacık.
+FERMİYUM	(ad) Atom numarası 100 olan bir kimyasal element
+FERNEZ	(ad) Sünger toplamak için kullanılan makineli dalma aracı
+FEROMON	(ad) Alan belirlenmesi, topluluk içinde hiyerarşik düzenin sağlanması ve üreme döneminde eşlerin birbirini bulması gibi durumlarda etkili olan, "dış hormon" olarak da adlandırılabilen kimyasallar
+FEROMONLAR	(ad, feromon sözcüğünün çekimi) Alan belirlenmesi, topluluk içinde hiyerarşik düzenin sağlanması ve üreme döneminde eşlerin birbirini bulması gibi durumlarda etkili olan, "dış hormon" olarak da adlandırılabilen kimyasallar
+FERRİT	(ad) 910 °C dereceye dek dengede kalabilen ve bileşiminde, en çok % 0 .025 karbon bulunabilen, ö. o. k. kristal yapılı demir karbon katı çözeltisi
+FERSAH	(ad) 12000 adıma veya 4 saatlik yola denk geldiği kabul edilen, eski ölçü birimi
+FERSAHLIK	(ad) Arası herhangi bir fersah olan
+FERSAN	(ad) Kır sansarı.
+FERSUDE	(sıfat) Eskimiş, yıpranmış, aşınmış.
+FERSİZ	(sıfat) donuk, cansız (göz, ışık, yüz)
+FERSİZLEŞME	(ad) Fersizleşmek işi veya durumu
+FERSİZLEŞMEK	(eylem) Fersiz duruma gelmek, donuklaşmak
+FERSİZLİK	(ad) Fersiz olma durumu
+FERT	(ad) birey
+FERTİK	(ad) Kaçma, uzaklaşma, sıvışma
+FERTİKLEMEK	(eylem) sıvışmak
+FERYAT	(ad) Haykırış, çığlık
+FERYATLAR	(ad, feryat sözcüğünün çekimi) Haykırış, çığlık
+FERZ	(ad) Satranç oyununda vezir
+FERÇ	(ad) dişi canlılarda üreme organının dış bölümü, vulva
+FERİ	(sıfat) Ayrıntılarla ilgili, ayrıntı niteliğinde olan
+FERİBOT	(ad) arabalı vapur
+FERİBOTA	(ad, feribot sözcüğünün çekimi) arabalı vapur
+FERİBOTTA	(ad, feribot sözcüğünün çekimi) arabalı vapur
+FERİBOTTAN	(ad, feribot sözcüğünün çekimi) arabalı vapur
+FERİBOTU	(ad, feribot sözcüğünün çekimi) arabalı vapur
+FERİBOTUN	(ad, feribot sözcüğünün çekimi) arabalı vapur
+FERİBOTUNA	(ad, feribot sözcüğünün çekimi) arabalı vapur
+FERİH	(sıfat) Çok sevinçli, neşeli
+FERİK	(ad) (Havza ağzı) kümes hayvanlarının civcivlikten çıkmış yavrusu
+FERİKLİK	(ad) Tümgenerallik veya korgenerallik
+FERİŞTAH	(sıfat) En iyi, en üstün.
+FERİŞTE	(ad) melek
+FES	(ad) şapka yerine kullanılan, kalın çuhadan yapılmış, tepesinde püskülü olan, kırmızı renkte silindir biçiminde başlık
+FESAHAT	(ad) dini doğru
+FESAT	(ad) bozukluk\n(sıfat) Herhangi bir konuda iyimser olmayan, kötü yorumlayan kişi.
+FESATLIK	(ad) arabozanlık
+FESATÇI	(sıfat) arabozan
+FESATÇILIK	(ad) Arabozanlık
+FESHEDİLMEK	(eylem) Kapatılmak, dağıtılmak, faaliyetten men edilmek
+FESHETME	(eylem, feshetmek sözcüğünün çekimi) bozmak
+FESHETMEK	(eylem) bozmak
+FESHETTİ	(eylem, feshetmek sözcüğünün çekimi) bozmak
+FESHOLUNMAK	(eylem) bir topluluğun, kuruluşun varlığı son bulmak, dağılmak
+FESLEĞEN	(ad) Ballıbabagillerden, Akdeniz ülkelerinde yetişen, yaprakları güzel kokulu, beyaz veya pembe çiçekli, bir yıllık ve otsu bir süs bitkisi, (Ocimum basilicum).
+FESTFUT	(ad) Ayaküstü atıştırma, fast food
+FESTİVAL	(ad) şenlik
+FESÜBHANALLAH	(ünlem) süphanallah
+FETANETLİ	(sıfat) zihni açık anlayışlı
+FETENE	(ad) Toz toprak karışımını siyanür ile altın hale getirme işlemi.
+FETHA	(ad) üstün
+FETHEDECEK	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHEDECEĞİM	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHEDECEĞİZ	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHEDER	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHEDİYOR	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHET	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETME	(ad) Fethetmek işi
+FETHETMEK	(eylem) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETMEYE	(ad, fethetme sözcüğünün çekimi) Fethetmek işi\n(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETMEYİ	(ad, fethetme sözcüğünün çekimi) Fethetmek işi
+FETHETMİŞ	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETTİ	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETTİK	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETTİLER	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETTİM	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHETTİN	(eylem, fethetmek sözcüğünün çekimi) bir yeri veya ülkeyi savaşarak almak, ülke açmak
+FETHULLAH	(ad) Allah'ın kişinin kalbini fethetmesi anlamında söz.
+FETHİ	(ad) İşini bırakıp Suriye sınırına gelen bir Yörüğün, yaşadığı sıkıntılar sonucu "Beyinci" olarak bilinen motor ustasına gitmek zorunda kalması
+FETK	(ad) apansızın adam öldürme
+FETRET	(ad) İki peygamber veya padişah arasında peygambersiz veya padişahsız geçen süre
+FETTAN	(sıfat) fitneli, karıştırıcı.
+FETTANCA	(sıfat) Fettan gibi
+FETTANE	(sıfat) Cilveli, gönül alıcı (kadın)
+FETTANLAŞMA	(ad) Fettanlaşmak işi
+FETTANLIK	(ad) Fettan olma durumu
+FETVA	(ad) İslam hukuku ile ilgili bir sorunun dinî hukuk kurallarına göre çözümünü açıklayan, şeyhülislam veya müftü tarafından bildirilen görüş ve bunu resmileştiren belge.
+FETVACI	(ad) Fetva veren kimse
+FETVACILIK	(ad) Fetvacı olma durumu
+FETVAHANE	(ad) Müftünün makamı
+FETÜS	(ad) dölüt
+FETÜSÜ	(ad, fetüs sözcüğünün çekimi) dölüt
+FETİH	(ad) Bir şehir veya ülkeyi savaşarak alma.
+FETİHLER	(ad, fetih sözcüğünün çekimi) Bir şehir veya ülkeyi savaşarak alma.
+FETİHNAME	(ad) Bir yerin alındığını müjdelemek için hükümdarların yabancı devlet adamları, şehzadeler, valiler vb.ne yazdıkları resmî mektup.
+FETİL	(ad) (Sivas, Havza ağzı) Taze yemek için yapılan kalın yufka ekmeği
+FETİŞ	(ad) put
+FETİŞİ	(ad, fetiş sözcüğünün çekimi) put
+FETİŞİM	(ad, fetiş sözcüğünün çekimi) put
+FETİŞİN	(ad, fetiş sözcüğünün çekimi) put
+FETİŞİST	(ad) Tapıncakçı
+FETİŞİSTİ	(ad, fetişist sözcüğünün çekimi) Tapıncakçı
+FETİŞİZM	(ad) İlkel toplumlarda doğaüstü bir güç ve etkisi olduğuna inanılan canlı veya cansız nesnelere tapınma.
+FEVAİT	(ad) (Fevt. C.): Fevt olmuş şeyler,
+FEVERAN	(ad) fışkırma, kaynama
+FEVK	(ad) üst
+FEVKALADE	(sıfat) olağanüstü
+FEVKALBEŞER	(sıfat) İnsanüstü
+FEVKİNDE	(ad) Üst. Üst taraf. Yüksek derece. Yukarı.
+FEVRİ	(sıfat) Birdenbire, düşünmeden yapan
+FEVRİLİK	(ad) Fevri olma durumu
+FEVT	(ad) elden çıkma, yitme
+FEVVARE	(ad) Fıskiye
+FEVZ	(ad) gariplik,zafer,üstünlük;selâmet,kurtuluş
+FEVZİ	(ad, fevz sözcüğünün çekimi) gariplik,zafer,üstünlük;selâmet,kurtuluş
+FEVÇ	(ad) insan kalabalığı
+FEYEZAN	(ad) taşkın, sel
+FEYFA	(ad) kurak çöl
+FEYLESOF	(ad) felsefeci, filozof
+FEYLOSOFLUK	(ad) Filozofluk
+FEYYAZ	(sıfat) Çok verimli, gür
+FEYZALMAK	(eylem) Etkilenmek, olgunlaşmak, ders almak.
+FEYZULLAH	(ad) bereket Allah'tan gelir
+FEYİZ	(ad) Verimlilik, gürlük, ongunluk, bereket.
+FEYİZLENMEK	(eylem) Feyzalıp aydınlanmak, istifade etmek
+FEYİZLİ	(sıfat) bol
+FEZA	(ad) gök, uzay
+FEZAHAT	(ad) rezalet, alçaklık, edepsizlik
+FEZLEKE	(ad) Özet, hülasa
+FIKARA	(sıfat) fikirsiz
+FIKDAN	(ad) yokluk
+FIKHEN	(zarf) Fıkha göre
+FIKHİ	(sıfat) Fıkha ait
+FIKIH	(ad) bir şeyi, gereği gibi, iyice anlayıp bilme
+FIKIRDAK	(ad) Cilveli, oynak (kadın)
+FIKIRDAKLIK	(ad) Fıkırdak olma durumu
+FIKIRDAMA	(ad) Fıkırdamak işi
+FIKIRDAMAK	(eylem) Fıkır fıkır kaynamak
+FIKIRDATMAK	(eylem) Fıkır fıkır kaynatmak
+FIKIRDAŞMAK	(eylem) Oynakça davranışlarda bulunmak
+FIKIRTI	(ad) Kaynayan suyun çıkardığı ses
+FIKRA	(ad) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRACI	(ad) fıkra anlatan kimse
+FIKRACILIK	(ad) köşe yazarlığı
+FIKRALAR	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRALARI	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRAM	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRAMA	(ad) fıkramak işi, fışlama
+FIKRAMAK	(eylem) herhangi bir sulu yiyecek mayalanarak, ekşimek,bozulmak
+FIKRANIN	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRASI	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRASINA	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRASINI	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FIKRAYI	(ad, fıkra sözcüğünün çekimi) Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik.
+FILDIR	(sıfat) Çabuk, hızlı, telaşlı
+FINDIK	(ad) huşgillerden, kuzey yarım kürenin ılık yerlerinde ve yurdumuzun daha çok Doğu Karadeniz bölgesinde yetişen, boyu 6-7 m, yaygın tepeli bir ağaççık ve fındık ağaççığın sert bir kabuk içinde bulunan yağlı, nişastalı ürünü
+FINDIKKIRAN	(ad) Fındık,ceviz gibi sert kabuklu yemişlerin kabuğunu kırmaya yarayan alet
+FINDIKLAR	(ad, fındık sözcüğünün çekimi) huşgillerden, kuzey yarım kürenin ılık yerlerinde ve yurdumuzun daha çok Doğu Karadeniz bölgesinde yetişen, boyu 6-7 m, yaygın tepeli bir ağaççık ve fındık ağaççığın sert bir kabuk içinde bulunan yağlı, nişastalı ürünü
+FINDIKLIK	(ad) Fındık ağaçları çok olan yer, fındık korusu.
+FINDIKÇI	(ad) Fındık satan ve yetiştiren kimse
+FINDIKÇILIK	(ad) Fındık yetiştirme veya satma işi
+FINDIKİ	(ad) Fındıkkabuğu rengi
+FINDIĞI	(ad, fındık sözcüğünün çekimi) huşgillerden, kuzey yarım kürenin ılık yerlerinde ve yurdumuzun daha çok Doğu Karadeniz bölgesinde yetişen, boyu 6-7 m, yaygın tepeli bir ağaççık ve fındık ağaççığın sert bir kabuk içinde bulunan yağlı, nişastalı ürünü
+FIR	(zarf) Fırıl fırıl
+FIRANSA	(ad) Pırasa
+FIRDOLAYI	(zarf) çepeçevre
+FIRDÖNDÜ	(ad) Biri döndüğünde ötekinin de dönmesini engellemek için uç uca getirilerek serbest bir eksenle bağlanmış çift halka.
+FIRFILAK	(ad) İri fındık tanesinin içinin delinip o delikten ip geçirilerek yapılan bir tür oyuncak
+FIRFIR	(ad) Elbise,perde gibi şeylerin kenarına dikilen büzgülü süs.
+FIRFIRLAR	(ad, fırfır sözcüğünün çekimi) Elbise,perde gibi şeylerin kenarına dikilen büzgülü süs.
+FIRFIRLI	(sıfat) Fırfırı olan
+FIRILDAK	(ad) rüzgarla dönen tekerlek biçiminde çocuk oyuncağı
+FIRILDAKÇI	(ad) Fırıldak yapan ve satan kimse
+FIRILDANMAK	(eylem) fırıl fırıl,ecle telaşla dönmek
+FIRILDATMAK	(eylem) Fırıl fırıl çevirmek
+FIRIN	(ad) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINA	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINCI	(ad) ticari bir fırın, lokanta veya pastanelerde gerekli işlerin hepsini veya bir kısmını yaparak ekmek, kek, pasta veya börek gibi fırında pişirilen yiyecek maddeleri imal eden kişi, fırın işleten kişi
+FIRINCILAR	(ad, fırıncı sözcüğünün çekimi) ticari bir fırın, lokanta veya pastanelerde gerekli işlerin hepsini veya bir kısmını yaparak ekmek, kek, pasta veya börek gibi fırında pişirilen yiyecek maddeleri imal eden kişi, fırın işleten kişi
+FIRINCILIK	(ad) fırın işletme işi
+FIRINDA	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINDAN	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINI	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINIM	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINIMI	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINIMIZ	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRININ	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRININA	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRININDA	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRININDAN	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRININI	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINININ	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINLAMA	(ad) Fırınlamak eylemi.
+FIRINLAMAK	(eylem) Fırında pişirmek.
+FIRINLANMAK	(eylem) Fırına konulmak veya fırında kurutulmak
+FIRINLAR	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak\n(eylem, fırınlamak sözcüğünün çekimi) Fırında pişirmek.
+FIRINLARA	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINLARI	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINLARIN	(ad, fırın sözcüğünün çekimi) içinde genellikle odun yanan, her yanda aynı derecede ısı oluşturarak ekmek, pasta vb. pişirmeye yarayan, tavanı tonoz biçiminde, önünde tek açıklık bulunan ocak
+FIRINLATMAK	(eylem) Fırınlamak işini yaptırmak
+FIRINLATTIRMAK	(eylem) fırınlatma işini yaptırmak
+FIRINLI	(sıfat) Fırınlanmış
+FIRINLIK	(ad) Fırında pişirilmeye hazır yemek
+FIRKA	(ad) insan topluluğu
+FIRKACI	(ad) Parti üyesi
+FIRKACILIK	(ad) Particilik
+FIRKATA	(ad) Eskiden üç direkli bir tür gemiye verilen ad
+FIRKATEYN	(ad) Üç direkli, bir tür yelkenli veya savaş gemisi.; firkate
+FIRLA	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLADI	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLADILAR	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLADIM	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLADIN	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLAK	(ad) fırlamış gibi,duran çıkık
+FIRLAMA	(ad) fırlamak işi
+FIRLAMAK	(eylem) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLAMALAR	(ad, fırlama sözcüğünün çekimi) fırlamak işi
+FIRLAMIŞ	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLAR	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLAT	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATACAK	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATACAKLAR	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATACAKSIN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATACAĞIM	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATACAĞIZ	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATAN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATILIR	(eylem, fırlatılmak sözcüğünün çekimi) Fırlatmak işi yapılmak
+FIRLATILMAK	(eylem) Fırlatmak işi yapılmak
+FIRLATIR	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIRIM	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIRIZ	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIRLAR	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIRSIN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIYOR	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIYORLAR	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIYORSUN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIYORUM	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIYORUZ	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATIŞ	(ad) Fırlatmak işi veya biçimi
+FIRLATIŞI	(ad, fırlatış sözcüğünün çekimi) Fırlatmak işi veya biçimi
+FIRLATMA	(ad) Fırlatma işi
+FIRLATMADIM	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATMADIN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATMAK	(eylem) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATMAYI	(ad, fırlatma sözcüğünün çekimi) Fırlatma işi
+FIRLATMIŞ	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATSIN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTI	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTIK	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTILAR	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTIM	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTIN	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTINIZ	(eylem, fırlatmak sözcüğünün çekimi) hızla atmak, bulunduğu yerden dışarı atmak
+FIRLATTIRMAK	(eylem) fırlatma işini yaptırmak
+FIRLAYACAK	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLAYAN	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLAYIŞ	(ad) Fırlamak eylemi ya da biçimi.
+FIRLIYOR	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRLIYORLAR	(eylem, fırlamak sözcüğünün çekimi) hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak
+FIRSAT	(ad) herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+FIRSATA	(ad, fırsat sözcüğünün çekimi) herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+FIRSATI	(ad, fırsat sözcüğünün çekimi) herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+FIRSATLAR	(ad, fırsat sözcüğünün çekimi) herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+FIRSATÇI	(sıfat) Duruma göre davranan, içinde bulunduğu şartları değerlendirmeyi bilen (kimse)
+FIRSATÇILIK	(ad) Fırsatçı olma durumu
+FIRSIZ	(ad) (Düziçi ağzı) hırsız
+FIRT	(ad) bir yudumluk içki
+FIRTINA	(ad) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINADA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINADAN	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALAR	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARDA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARDAN	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARI	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARIN	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARINA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARINDAN	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARINI	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALARININ	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINALI	(sıfat) çok rüzgârlı
+FIRTINANIN	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINASI	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINASINA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINASINDA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINASINDAN	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINASINI	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINASININ	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINAYA	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTINAYI	(ad, fırtına sözcüğünün çekimi) rüzgâr çizelgesinde hızı 34-40 deniz mili olan ve deniz kuvveti 8 ile gösterilen, yağmur ve kasırga getiren çok güçlü rüzgâr ve bu rüzgârın denizde veya kum çöllerinde meydana getirdiği dalgalanma
+FIRTLAMAK	(eylem) Herşeye karışmak.
+FIRTTIRMA	(ad) Fırttırmak işi veya durumu
+FIRTTIRMAK	(eylem) aklını kaybetmeki,çıldırmak
+FIRÇA	(ad) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇACI	(ad) Fırca yapan ve satan kimse
+FIRÇACILIK	(ad) Fırça veya fırçaya benzer şeylerin yapımı ve satımı.
+FIRÇALA	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALADI	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALADIM	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALADIN	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALAMA	(ad) Fırçalamak işi
+FIRÇALAMADIM	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALAMAK	(eylem) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALAMAM	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALAMAYA	(ad, fırçalama sözcüğünün çekimi) Fırçalamak işi
+FIRÇALAMAYI	(ad, fırçalama sözcüğünün çekimi) Fırçalamak işi
+FIRÇALANMAK	(eylem) Fırça ile ovulmak,temizlenmek.
+FIRÇALAR	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.\n(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALARI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇALARIM	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.\n(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALARINI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇALATMAK	(eylem) Fırçalamak işini yaptırmak
+FIRÇALAYACAK	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALAYACAĞIM	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALI	(sıfat) Fırçası olan
+FIRÇALIK	(ad) Fırçaların muhafaza edildiği kap
+FIRÇALIYOR	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALIYORSUN	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇALIYORUM	(eylem, fırçalamak sözcüğünün çekimi) Fırça ile tozunu almak veya fırça ile boya v.b sürmek
+FIRÇAM	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇAMI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇAN	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇANI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇANIN	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇASI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇASINA	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇASINDAN	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇASINI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇASININ	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇAYA	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FIRÇAYI	(ad, fırça sözcüğünün çekimi) Bir şeyin tozunu, kirini gidermekte veya bir şeye boya, cila sürmekte kullanılan, bir araya getirilerek bağlanmış kıl vb.nden yapılan araç.
+FISFISLAMAK	(eylem) Koku, ilaç vb. sıvıları püskürtmek.
+FISFISLANMA	(ad) Fısfıslanmak işi veya durumu
+FISFISLANMAK	(eylem) Koku, ilâç vb sıvılar püskürtülmek
+FISILDADI	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDADIM	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDADIN	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDAMA	(ad) Fısıldamak işi.
+FISILDAMAK	(eylem) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDAMAYI	(ad, fısıldama sözcüğünün çekimi) Fısıldamak işi.
+FISILDAMIŞ	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDANMAK	(eylem) Fısıltıhâlinde söylenmek
+FISILDAR	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDARIM	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDAYACAK	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDAYACAĞIM	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDAŞMAK	(eylem) fısıltı halinde şöyleşmek
+FISILDIYOR	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDIYORLAR	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDIYORSUN	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDIYORSUNUZ	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDIYORUM	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILDIYORUZ	(eylem, fısıldamak sözcüğünün çekimi) başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+FISILTI	(ad) fılsıldarken çıkan ve zorlukla duuylanhafif ses.
+FISILTILAR	(ad, fısıltı sözcüğünün çekimi) fılsıldarken çıkan ve zorlukla duuylanhafif ses.
+FISIRTI	(ad) Fısıltı
+FISK	(ad) ahlakça kötü,dince günah sayılan şeyleri adet edinme,ahlaksızlık,uygunsuz yollara sapma;ALLAH'a isyan etme
+FISKİYE	(ad) Havuzda suyu yukarıya doğru, türlü biçimlerde fışkırtan gereç, fevvare, fışkırık
+FISKİYELER	(ad) Fıskiyenin çoğulu
+FISKİYELİ	(ad) fıskiyesi olan kişi\n(sıfat) fıskiyesi olan
+FISKİYESİZ	(ad) fıskiyesi olmayan kişi\n(sıfat) fıskiyesi olmayan
+FISKİYEYİ	(ad, fıskiye sözcüğünün çekimi) Havuzda suyu yukarıya doğru, türlü biçimlerde fışkırtan gereç, fevvare, fışkırık
+FISLAMA	(ad) Fıslamak işi
+FISLAMAK	(eylem) birinin kulağına gizli ve alçak sesli söylemek.
+FISLANMA	(ad) Fıslanmak işi
+FISLANMAK	(eylem) Fıslamak işi yapılmak
+FISLAŞMAK	(eylem) gizli ve alçak sesle şöyleşmek,kulak kulağa konuşmak.
+FISTIK	(ad) botanik bakımdan birbiriyle ilgisi olmayan çeşitli bitkilerin çerez olarak yenen meyvelerine verilen ad.
+FISTIKLAMAK	(eylem) Kışkırtma amacıyla araya nifak sokmak
+FISTIKLAR	(ad, fıstık sözcüğünün çekimi) botanik bakımdan birbiriyle ilgisi olmayan çeşitli bitkilerin çerez olarak yenen meyvelerine verilen ad.\n(eylem, fıstıklamak sözcüğünün çekimi) Kışkırtma amacıyla araya nifak sokmak
+FISTIKLIK	(ad) fıstık ağaçları dikilmiş yer veya fıstık bahçesi.
+FISTIKÇI	(ad) fıstık yetiştiren veya satan kimse.
+FISTIKÇILIK	(ad) Fıstık yetiştirme işi
+FISTIKİ	(ad) Şam fıstığının içinin yeşil.
+FISTIĞI	(ad, fıstık sözcüğünün çekimi) botanik bakımdan birbiriyle ilgisi olmayan çeşitli bitkilerin çerez olarak yenen meyvelerine verilen ad.
+FITA	(ad) Peştamal, önlük.
+FITIK	(ad) iç organlardan bir parçanın daha çok bağırsak bölümünün karın çeperlerini geçip deri altında ur gibi bir şişkinlik yapması, kavlıç, yarımlık
+FITIKLI	(sıfat) Fıtığı olan, kavlıç
+FITIĞI	(ad, fıtık sözcüğünün çekimi) iç organlardan bir parçanın daha çok bağırsak bölümünün karın çeperlerini geçip deri altında ur gibi bir şişkinlik yapması, kavlıç, yarımlık
+FITRAT	(ad) yaradılış, hilkat, karakter, huy
+FITRATEN	(zarf) yaradılıştan
+FITRİ	(sıfat) doğuştan
+FITRİYE	(ad) Doğuştancılık
+FITTIRMAK	(eylem) Bkz fırttırmak
+FIÇI	(ad) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap\n(sıfat) Bir fıçının alabildiği ölçü.
+FIÇICI	(ad) Fıçı yapan veya satan kimse
+FIÇICILIK	(ad) Fıçı yapıp satma işi
+FIÇIDA	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇIDAN	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇILAMAK	(eylem) Fıçıya koymak.
+FIÇILAR	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap\n(eylem, fıçılamak sözcüğünün çekimi) Fıçıya koymak.
+FIÇILARA	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇILARI	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇILARIN	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇILARINI	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇININ	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇISI	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇISINA	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇISINDA	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇISINI	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇISININ	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇIYA	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIÇIYI	(ad, fıçı sözcüğünün çekimi) Bir araya getirilerek çemberlerle tutturulmuş ensiz tahtalardan yapılan, yuvarlak, karnı şişkin ve altı üstü düz kap
+FIŞILDAMA	(ad) Fışır fışır ses çıkarma.
+FIŞILDAMAK	(eylem) Fışır fışır ses çıkarmak
+FIŞILTI	(ad) Fışırdama sesi
+FIŞIRDAMA	(ad) Fışırdamak sesi
+FIŞIRDAMAK	(eylem) fışır fışır diye ses çıkarmak.
+FIŞIRDATMAK	(eylem) Fışır fışır ses çıkartmak
+FIŞIRTI	(ad) Fışırdama sesi
+FIŞKI	(ad) Atgillerin taze dışkısı.
+FIŞKILAMA	(ad) Fışkılamak işi
+FIŞKILAMAK	(eylem) toprağı fışkıyla gübrelemek.
+FIŞKILI	(ad) fışkısı olan.
+FIŞKILIK	(ad) taze gübrenin birikirildiği yer
+FIŞKIN	(ad) ana sap geliştikten sonra bir bitkinin dibinden sapla kökün birleştiği yerden çıkan sürüngenlerin hepsi.
+FIŞKIRACAK	(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRDAK	(sıfat) Sıvıları fışkırtmaya yarayan araç
+FIŞKIRDI	(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRIK	(ad) fıskiye
+FIŞKIRIR	(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRIYOR	(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRIYORDU	(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRIŞ	(ad) Fışkırmak işi veya biçimi
+FIŞKIRMA	(ad) Fışkırmak işi
+FIŞKIRMAK	(eylem) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRMASI	(ad, fışkırma sözcüğünün çekimi) Fışkırmak işi
+FIŞKIRMASINI	(ad, fışkırma sözcüğünün çekimi) Fışkırmak işi
+FIŞKIRMAYA	(ad, fışkırma sözcüğünün çekimi) Fışkırmak işi\n(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRMIŞ	(eylem, fışkırmak sözcüğünün çekimi) Bir yerden bol olarak birdenbire ve hızla çıkıvermek.
+FIŞKIRTI	(ad) fışırdama sesi.
+FIŞKIRTICI	(ad) belli hızla hareket eden bir akışkan yardımıyla, başka bir akışkanın boşalmasını sağlayan alet, ejektörlü pompa, ejektör
+FIŞKIRTILMA	(ad) Fışkırtılmak işi
+FIŞKIRTILMAK	(eylem) Fışkırmasısağlanmak
+FIŞKIRTIR	(eylem, fışkırtmak sözcüğünün çekimi) fışkırmasını sağlamak
+FIŞKIRTIYOR	(eylem, fışkırtmak sözcüğünün çekimi) fışkırmasını sağlamak
+FIŞKIRTMA	(ad) Fışkırtmak işi
+FIŞKIRTMAK	(eylem) fışkırmasını sağlamak
+FIŞKIRTTI	(eylem, fışkırtmak sözcüğünün çekimi) fışkırmasını sağlamak
+FIŞLAMA	(ad) Fışlamak işi
+FIŞLAMAK	(eylem) Fıkramak
+FLAM	(ad) Emniyet kilidi
+FLAMA	(ad) işaret olarak veya çeşitli amaçlarla kullanılan küçük bayrak
+FLAMACI	(ad) Flâma kullanarak anlaşmayı sağlayan kimse
+FLAMALAR	(ad, flama sözcüğünün çekimi) işaret olarak veya çeşitli amaçlarla kullanılan küçük bayrak
+FLAMALARI	(ad, flama sözcüğünün çekimi) işaret olarak veya çeşitli amaçlarla kullanılan küçük bayrak
+FLAMAN	(ad) Ampulün içinde ısınıp ışık veren sıcağa dayanıklı bakır tel kablo
+FLAMANGİLLER	(ad) Kuşlar sınıfının leyleksiler takımına bağlı flâmanlar alt takımının bir familyası
+FLAMANLAR	(ad) Kuşlar sınıfının, leyleksiler takımının bir alt takımı
+FLAMASI	(ad, flama sözcüğünün çekimi) işaret olarak veya çeşitli amaçlarla kullanılan küçük bayrak
+FLAMAYI	(ad, flama sözcüğünün çekimi) işaret olarak veya çeşitli amaçlarla kullanılan küçük bayrak
+FLAMBAJ	(ad) Boyun, kesite oranla belli bir sınırı aşması halinde (narinlik) eksenel basınç etkisi altındaki çubuklarda görülen eğilme.
+FLAMBE	(ad) Aleve tutarak pişirme yöntemi
+FLAMİNGO	(ad) Leyleksilerden, tüyleri beyaz, pembe, kanatlarının ucu kara, bir kuş türü; Flaman kuşu,(Phoenicopterus ruber)
+FLAMİNGOGİLLER	(ad) Flamingolar takımının bir familyası
+FLAMİNGOLAR	(ad) Kuşlar sınıfının bir takımı
+FLANDRA	(ad) Genellikle ince bezden yapılmış, uçkurluk bölümü dar, kurdele biçiminde bayrak
+FLANEL	(ad) Keten ve yünden dokunan kumaş
+FLAUNER	(ad) Aylak
+FLAVTA	(ad) Flüt
+FLAŞ	(ad) Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı.\n(sıfat) İletişimde üstünlüğü, önceliği olan önemli haber.
+FLAŞI	(ad, flaş sözcüğünün çekimi) Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı.
+FLAŞIN	(ad, flaş sözcüğünün çekimi) Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı.
+FLAŞLAR	(ad, flaş sözcüğünün çekimi) Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı.
+FLAŞLARI	(ad, flaş sözcüğünün çekimi) Fotoğraf çekiminde ışık yeterli olmadığında bir görüntüyü net almak için kullanılan çok kısa süreli ve güçlü parıltı.
+FLAŞÖR	(ad) dörtlü
+FLEBİT	(ad) Toplardamarlarda iç zar iltihabı
+FLEGMON	(ad) deri altındaki veya organlar arasındaki katılgan dokunun iltihaplanması
+FLEOL	(ad) Buğdaygillerden, küçük bir çayır otu (Pheleum pratense)
+FLEROVYUM	(ad) atom numarası 114 olan bir kimyasal element
+FLOK	(ad) Yelkenli gemilerde civadra ile pruva direği arasındaki üç köşe yelken.
+FLOR	(ad) Atom numarası 9 olan bir kimyasal element. atom ağırlığı 19, yoğunluğu 1,265 olan, kokusu ozonu andıran, kahverengimsi sarı renkte, halojenler grubunun ilk elementidir. (simgesi F)
+FLORA	(ad) bitki örtüsü
+FLORESAN	(ad) Uyarılmış bir sistemden, temel hâldeki bir sisteme geçiş sırasında yayılan ışık
+FLORESANS	(ad) Bir madde üzerine düşen ışınların, ışık verildiği sürece, çoğunlukla farklı dalga boyunda ışınlara dönüşerek geri ışıması olayı
+FLORIŞI	(ad) Bazı cisimlerin aldıkları ışığı, boyu daha uzun ışık ışınımlarına dönüştürmesi özelliği
+FLORIŞIL	(ad) Florışı özelliği gösteren, floresan
+FLORYA	(ad) İspinozgiller familyasından bir kuş türü
+FLORÜR	(ad) Florun başka bir elementle verdiği ikili birleşik
+FLORİ	(ad) Altın para
+FLORİN	(ad) Hollanda para birimi, gulden
+FLORİT	(ad) Çeşitli renkleri olan, kalsiyum florür (CaF₂) birleşiminde bir mineral
+FLOTASYON	(ad) üretilecek cevherin su sevme (hidrofilik) ve su sevmeme (hidrofobik) özelliklerini kullanarak sıvı içerisinde kabarcık oluşturarak suda yüzmesi veya batması ile diğer malzemelerden ayrılmasını sağlayan bir zenginleştirme yöntemi, yüzdürme yöntemi
+FLOŞ	(ad) Selülozdan yapılan parlak, bükümsüz iplik
+FLOŞU	(ad, floş sözcüğünün çekimi) Selülozdan yapılan parlak, bükümsüz iplik
+FLU	(sıfat) Tam olarak belli olmayan
+FLURCUN	(ad) kocabaş
+FLURYA	(ad) Ispinozgillerden, tüyleri yeşilimsi, ağaçlık ve fundalıklarda yaşayan, güzel ötüşlü bir kuş, yelve (Chloris chloris)
+FLÖRE	(ad) dürtücü kılıç
+FLÖRT	(ad) kadınla erkek arasındaki yakın ilişki
+FLÜT	(ad) Metalden yapılan, içi boş ve üzerinde deliklerle farklı notalarda ses çıkartan bir çalgı.
+FLÜTLER	(ad, flüt sözcüğünün çekimi) Metalden yapılan, içi boş ve üzerinde deliklerle farklı notalarda ses çıkartan bir çalgı.
+FLÜTÇÜ	(ad) Flüt çalan kimse
+FLÜTÜ	(ad, flüt sözcüğünün çekimi) Metalden yapılan, içi boş ve üzerinde deliklerle farklı notalarda ses çıkartan bir çalgı.
+FLİT	(ad) Sinek, sivrisinek gibi böcekleri öldürmek için püskürtülen ilâç
+FLİTLEME	(ad) Flitlemek işi
+FLİTLEMEK	(eylem) Flit vb kullanarak bir yere ilâç püskürtmek
+FOB	(ad) Alıcı ile satıcı arasında kararlaştırılan bir fiyatın, malın satıcı tarafından belli bir limanda gemi üzerinde teslimi şartıyla biçilmiş olduğunu gösteren bir kısaltma
+FOBOFOBİ	(ad) korkmaktan korkma
+FOBİ	(ad) Herhangi bir nesne veya durum karşısında duyulan nedenli ya da nedensiz aşırı korku ya da kaygı
+FOBİLER	(ad, fobi sözcüğünün çekimi) Herhangi bir nesne veya durum karşısında duyulan nedenli ya da nedensiz aşırı korku ya da kaygı
+FOBİM	(ad, fobi sözcüğünün çekimi) Herhangi bir nesne veya durum karşısında duyulan nedenli ya da nedensiz aşırı korku ya da kaygı
+FOBİSİ	(ad, fobi sözcüğünün çekimi) Herhangi bir nesne veya durum karşısında duyulan nedenli ya da nedensiz aşırı korku ya da kaygı
+FODLA	(ad) Çoğunlukla imaretlerde yoksullara verilen kepekli undan yapılmış pideye benzer bir ekmek türü.
+FODLACI	(ad) Evlere fodla dağıtan kimse
+FODLACILIK	(ad) Fodlacı olma durumu
+FODRA	(ad) Düz ve dik durması için elbisenin bazı yerlerine kumaşla astar arasına konulan sert ve kolalı bez
+FODUL	(sıfat) Üstünlük taslayan, kibirlenen
+FODULCA	(sıfat) Fodul gibi
+FODULLUK	(ad) Üstünlük taslama durumu, fodulca davranış
+FOK	(ad) etçiller takımının fokgiller familyasından, 1–2 m boyunda, postu değerli, memeli deniz hayvanı, ayı balığı
+FOKGİLLER	(ad) etçillerin alt takımı köpeğimsilerin bir familyası
+FOKLAR	(ad, fok sözcüğünün çekimi) etçiller takımının fokgiller familyasından, 1–2 m boyunda, postu değerli, memeli deniz hayvanı, ayı balığı
+FOKLARA	(ad, fok sözcüğünün çekimi) etçiller takımının fokgiller familyasından, 1–2 m boyunda, postu değerli, memeli deniz hayvanı, ayı balığı
+FOKLARI	(ad, fok sözcüğünün çekimi) etçiller takımının fokgiller familyasından, 1–2 m boyunda, postu değerli, memeli deniz hayvanı, ayı balığı
+FOKLARIN	(ad, fok sözcüğünün çekimi) etçiller takımının fokgiller familyasından, 1–2 m boyunda, postu değerli, memeli deniz hayvanı, ayı balığı
+FOKSTROT	(ad) Dört tempolu bir dans.
+FOKURDAK	(sıfat) fokurdama özelliği olan
+FOKURDAMA	(ad) fokurdamak işi
+FOKURDAMAK	(eylem) fokur fokur ses çıkararak kaynamak
+FOKURDATMAK	(eylem) fokurdamasını sağlamak
+FOKURTU	(ad) sıvıların fokurdama sırasında çıkardığı sesin adı
+FOKUS	(ad) dak
+FOL	(ad) Tavuğun istenen yere yumurtlaması için o yere konan yumurta ya da yumurtaya benzeyen şey
+FOLKLOR	(ad) Halk bilimi
+FOLKLORCU	(ad) halk bilimci
+FOLKLORCULUK	(ad) Folklorcunun işi veya mesleği
+FOLKLORİK	(sıfat) Halk bilimi ile ilgili
+FOLKLORİST	(ad) Folklorcu
+FOLLUK	(ad) Tavukların yumurtlaması için hazırlanmış yer.
+FOLYO	(ad) folyo kâğıdı
+FOLYOYU	(ad, folyo sözcüğünün çekimi) folyo kâğıdı
+FOLİKÜL	(ad) , her biri bağımsız dişi organı taşıyan ve boyuna yarılarak açılan kuru meyve.
+FON	(ad) bir kumaşın alt dokusu
+FONA	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONDA	(ad) geminin demir attığı yer\n(ünlem) denizcilikte demir atma komutu
+FONDAN	(ad) İçinde likör, tatlı veya hoş kokulu maddeler bulunan, ağızda kolayca eriyen bir tür şekerleme
+FONDÖTEN	(ad) Pürüzsüz göstermek veya renk vermek için cilde sürülen, yarı sıvı veya boyalı krem; düzgün
+FONDİP	(zarf) Sonuna kadar, bir solukta, bir dikişte
+FONEM	(ad) ses birimi
+FONEMİK	(ad) fonemleri inceleyen bilim dalı
+FONETİK	(ad) ses bilgisi\n(sıfat) sesçil
+FONETİKÇİ	(ad) ses bilgisi ile uğraşan, ses bilgisi uzmanı
+FONKSİYON	(ad) işlev.
+FONKSİYONALİST	(ad) fonksiyonalizmden yana olan kişi
+FONKSİYONALİZM	(ad) işlevcilik
+FONKSİYONEL	(sıfat) işlevsel
+FONKSİYONLAR	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARI	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARIM	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARIMI	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARIN	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARINA	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARINDA	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARINI	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONLARININ	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONU	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONUN	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONKSİYONUNU	(ad, fonksiyon sözcüğünün çekimi) işlev.
+FONLAR	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARA	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARI	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARIN	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARINA	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARINDAN	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARINI	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONLARININ	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONOGRAF	(ad) Thomas Alva Edison'nın ses kaydı alet
+FONOGRAFİ	(ad) seslerin gerektikçe tekrarlanmasını sağlamak için, bunların titreşimlerini, madde üzerine iz olarak geçirme yöntemi
+FONOGRAM	(ad) bir sesi ya da ses dizimini belirten yazılı biçim
+FONOJENİK	(sıfat) Sesi radyo veya fonografa uygun olan (kimse)
+FONOLOG	(ad) ses bilimci
+FONOLOJİ	(ad) ses bilimi, ses bilgisi
+FONOLOJİK	(sıfat) ses bilimsel
+FONOLİT	(ad) sesli taş
+FONOTELGRAF	(ad) Telefonla iletilen telgraf
+FONT	(ad) dökme demir
+FONTU	(ad, font sözcüğünün çekimi) dökme demir
+FONU	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUM	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUMA	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUMU	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUMUZ	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUMUZU	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUN	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUNA	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUNDA	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUNDAN	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUNU	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONUNUN	(ad, fon sözcüğünün çekimi) bir kumaşın alt dokusu
+FONİYATRİ	(ad) sesi ve ses bozukluklarını inceleyen tıp dalı
+FOR	(sıfat) güçlü, sağlam
+FORA	(ad) Yelken açtırma, mayna karşıtı.\n(ünlem) yelkenleri açtırmak için verilen komut
+FORKLİFT	(ad) kaldırmaç
+FORM	(ad) biçim.
+FORMA	(ad) Biçim, şekil.
+FORMALAR	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMALARI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMALARINI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMALDEHİT	(ad) CH2O formülüne sahip bir organik bileşiktir, doymuş aldehitlerin ilk üyesi olan, renksiz, keskin ve yakıcı kokulu, mukozaları aşırı tahriş eden, kolayca alevlenen bir gaz
+FORMALIK	(sıfat) forma yapmak için ayrılmış, forma yapmaya uygun
+FORMALİST	(ad) Biçimci, formaliteci, şekilci
+FORMALİTE	(ad) Yerine getirilmesi kanunca zorunlu kılınan işlem
+FORMALİTECİ	(sıfat) özellikle resmî işlerde, usullere tüzüklere sıkı sıkıya bağlanıp, işlerin yürümesini güçleştiren
+FORMALİTELER	(ad, formalite sözcüğünün çekimi) Yerine getirilmesi kanunca zorunlu kılınan işlem
+FORMALİTEYİ	(ad, formalite sözcüğünün çekimi) Yerine getirilmesi kanunca zorunlu kılınan işlem
+FORMALİZM	(ad) Biçimcilik
+FORMAM	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMAMI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMAN	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMANI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMASI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMASINI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMASININ	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMASYON	(ad) biçimlenme
+FORMASYONU	(ad, formasyon sözcüğünün çekimi) biçimlenme
+FORMAT	(ad) biçim
+FORMATA	(ad, format sözcüğünün çekimi) biçim
+FORMATI	(ad, format sözcüğünün çekimi) biçim
+FORMATINDA	(ad, format sözcüğünün çekimi) biçim
+FORMATLAMA	(ad) biçimlendirme
+FORMATLAMAK	(eylem) bilgisayarda bir disketi zararlıögelerden temizlemek
+FORMATLI	(sıfat) bilgisayarda kullanılabilir duruma getirilmiş
+FORMATTA	(ad, format sözcüğünün çekimi) biçim
+FORMAYI	(ad, forma sözcüğünün çekimi) Biçim, şekil.
+FORMDA	(ad, form sözcüğünün çekimi) biçim.
+FORMDAN	(ad, form sözcüğünün çekimi) biçim.
+FORMEL	(sıfat) biçimsel
+FORMELLİK	(ad) biçimsellik
+FORMEN	(ad) ustabaşı
+FORMLAR	(ad, form sözcüğünün çekimi) biçim.
+FORMLARA	(ad, form sözcüğünün çekimi) biçim.
+FORMLARDA	(ad, form sözcüğünün çekimi) biçim.
+FORMLARDAN	(ad, form sözcüğünün çekimi) biçim.
+FORMLARI	(ad, form sözcüğünün çekimi) biçim.
+FORMLARIN	(ad, form sözcüğünün çekimi) biçim.
+FORMLARINA	(ad, form sözcüğünün çekimi) biçim.
+FORMLARINDA	(ad, form sözcüğünün çekimi) biçim.
+FORMLARINDAN	(ad, form sözcüğünün çekimi) biçim.
+FORMLARINI	(ad, form sözcüğünün çekimi) biçim.
+FORMLARININ	(ad, form sözcüğünün çekimi) biçim.
+FORMLARINIZI	(ad, form sözcüğünün çekimi) biçim.
+FORMOL	(ad) formaldehitin %40'lık sulu çözeltisi
+FORMOLLEMEK	(eylem) Formolün veya gaz halindeki formaldehitin etkisine uğratmak.
+FORMOLOJİ	(ad) Nesne biçimlerine göre sınıflandırma metodu.
+FORMU	(ad, form sözcüğünün çekimi) biçim.
+FORMUM	(ad, form sözcüğünün çekimi) biçim.
+FORMUMA	(ad, form sözcüğünün çekimi) biçim.
+FORMUMDA	(ad, form sözcüğünün çekimi) biçim.
+FORMUMU	(ad, form sözcüğünün çekimi) biçim.
+FORMUMUN	(ad, form sözcüğünün çekimi) biçim.
+FORMUN	(ad, form sözcüğünün çekimi) biçim.
+FORMUNA	(ad, form sözcüğünün çekimi) biçim.
+FORMUNDA	(ad, form sözcüğünün çekimi) biçim.
+FORMUNDAN	(ad, form sözcüğünün çekimi) biçim.
+FORMUNU	(ad, form sözcüğünün çekimi) biçim.
+FORMUNUN	(ad, form sözcüğünün çekimi) biçim.
+FORMUNUZ	(ad, form sözcüğünün çekimi) biçim.
+FORMUNUZU	(ad, form sözcüğünün çekimi) biçim.
+FORMÜL	(ad) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLDEN	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLE	(sıfat) "Bir düşünceye bir anlatım biçimi vermek" anlamında kullanılan formüle etmek birleşik fiilinde geçen bir söz
+FORMÜLER	(ad) Formül dergisi
+FORMÜLLER	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLLERİ	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLLERİNİ	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLLEŞME	(ad) Formülleşmek işi
+FORMÜLLEŞMEK	(eylem) Formül haline gelmek, kısa ve özlü hale gelmek.
+FORMÜLLEŞTİRME	(ad) formülleştirmek işi
+FORMÜLLEŞTİRMEK	(eylem) formül durumuna getirmek
+FORMÜLÜ	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLÜM	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLÜMÜ	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLÜN	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLÜNE	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLÜNÜ	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMÜLÜNÜN	(ad, formül sözcüğünün çekimi) genel bir olguyu, bir kuralı veya ilkeyi açıklayan simgeler takımı
+FORMİKA	(ad) fenol formol reçinesi emdirilmiş ince selüloz levhaların birkaç tabaka üst üste konup yüksek sıcaklık ve basınç altında preslenmesiyle elde edilen, darbelere dayanıklı kaplama malzemesi
+FORMİYAT	(ad) Formik asitten türeyen HCOO- anyonu ve bu anyonun tuzları için kullanılan genel terim
+FOROZ	(ad) Bir ağ atmada çıkarılan balık miktarı
+FORS	(ad) devlet başkanının bulunduğu yerlere, amirallerin çalıştıkları kuruluşlara veya gemilere, generallerin garnizonlarına ve bu düzeydeki görevlilerin arabalarına çekilen üç veya dört köşeli bayrak
+FORSA	(ad) gemilerde kürek çeken tutsak veya hüküm giymiş kişi
+FORSEPS	(ad) Güç doğumlarda çocuğun başını tutup dışarı çekmeye yarayan alet
+FORSLU	(sıfat) üzerine fors çekilmiş (gemi, otomobil).
+FORSMAJÖR	(ad) Zorlayıcı sebep
+FORT	(ad) Kalabalık toplu taşıma araçlarında, başkalarına sürtünme, penisini bir başkasına sürttürme eylemi.
+FORTE	(zarf) Parçanın kuvvetli çalınacağını ifade eden bir terim
+FORTEPİANO	(zarf) önce güçlü daha sonra hafif bir biçimde (çalınmak)
+FORTLAMAK	(eylem) fortçuluk.
+FORTUM	(ad) (Düziçi ağzı) hortum
+FORTÇU	(ad) Toplu taşıma araçlarında kalabalıktan yararlanarak başkalarına sürtünen, sarkıntılık eden (kimse).
+FORTÇULUK	(ad) Fortçunun yaptığı iş.
+FORTİSSİMO	(zarf) Bazı bölümler çok güçlü bir biçimde (çalınmak)
+FORUM	(ad) Eski Romalılar zamanında, Roma'da ve diğer şehirlerde kamu işlerini konuşmak için halkın toplandığı alan.
+FORUMU	(ad, forum sözcüğünün çekimi) Eski Romalılar zamanında, Roma'da ve diğer şehirlerde kamu işlerini konuşmak için halkın toplandığı alan.
+FORVET	(ad) Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORVETİ	(ad, forvet sözcüğünün çekimi) Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORZA	(ad) güç, efor, kudret
+FORİNT	(ad) Macar para birimi
+FOS	(sıfat) çürük, kof, temelsiz
+FOSEPTİK	(ad) Kanalizasyon bulunmayan yerlerde, pis suları içinde toplamak üzere yapılan sızdırmaz çukur
+FOSFAT	(ad) fosforik asidin tuzu veya esteri
+FOSFATLAMAK	(eylem) Bir madeni parçanın yüzeyine koruyucu bir fosfat tabakası çekmek.
+FOSFATLI	(sıfat) İçinde fosfat olan
+FOSFATSIZ	(sıfat) İçinde fosfat olmayan
+FOSFATURİ	(ad) Sidik yoluyla normalden fazla fosfat çıkarılması.
+FOSFOR	(ad) atom numarası 15 olan bir kimyasal element
+FOSFORIŞI	(ad) Bazı cisimlerin veya canlı varlıkların normal sıcaklığında hissedilir bir artış olmadan, karanlıkta ışık verme özelliği
+FOSFORIŞIL	(sıfat) Fosforışı özelliği olan
+FOSFORLU	(sıfat) fosfor taşıyan, bileşiminde fosfor bulunan
+FOSFOROSKOP	(ad) Katı, sıvı ve gaz halindeki bir cismin fosfor ışınını tespit etmeğe ve şiddetini ölçmeye yarayan aygıt
+FOSFORSUZ	(sıfat) Fosforu olmayan
+FOSFORİK	(sıfat) İçinde fosfor molekülü bulunan
+FOSFORİT	(ad) Bileşiminde fosfor bulunan mineraller grubu
+FOSFİN	(ad) Fosforlu hidrojendeki hidrojenin yerine, tamamen veya kısmen karbonlu köklerin geçmesiyle türeyen bileşikler grubuna verilen ad
+FOSGEN	(ad) karbonmonoksit ile klordan meydana gelen boğucu bir gaz
+FOSLAMA	(ad) foslamak işi
+FOSLAMAK	(eylem) Yapılan işin sonucunda üzücü bir durumla karşılaşmak.
+FOSLATMA	(ad) Foslatmak işi
+FOSLATMAK	(eylem) Birini, yanlışını veya hilesini meydana çıkararak bozmak.
+FOSSEPTİK	(ad) Lâğım çukuru
+FOSURDAMA	(ad) Fosurdamak işi
+FOSURDAMAK	(eylem) Solurken ağızdan ses çıkarmak
+FOSURDATMAK	(eylem) Tütün, sigara vb ni duman çıkararak
+FOSURTU	(ad) Sigarayı fosur fosur içerken çıkan ses
+FOSİL	(ad) Geçmiş yer bilimi zamanlarına ilişkin hayvanların ve bitkilerin, yer kabuğu kayaçları içindeki kalıntıları veya izleri.
+FOSİLBİLİM	(ad) paleontoloji
+FOSİLLER	(ad, fosil sözcüğünün çekimi) Geçmiş yer bilimi zamanlarına ilişkin hayvanların ve bitkilerin, yer kabuğu kayaçları içindeki kalıntıları veya izleri.
+FOSİLLEŞME	(ad) Fosilleşmek durumu, taşıllaşma
+FOSİLLEŞMEK	(eylem) fosil haline gelmek.
+FOSİLLİ	(sıfat) İçinde fosil bulunan
+FOSİLİ	(ad, fosil sözcüğünün çekimi) Geçmiş yer bilimi zamanlarına ilişkin hayvanların ve bitkilerin, yer kabuğu kayaçları içindeki kalıntıları veya izleri.
+FOTA	(ad) İçinde şarap yapılan bir çeşit fıçı
+FOTO	(ad) ışık
+FOTOAKIM	(ad) Fotoelektrik olayından elde edilen akım
+FOTOELEKTRON	(ad) Işıleksicik
+FOTOELEKTRİK	(sıfat) Işığın etkisiyle elektrik üretme, yaratma
+FOTOFOBİ	(ad) ışıktan korkma
+FOTOFİNİŞ	(ad) Bir yarışta, yarışanların varış anını tespit eden araç
+FOTOJEN	(sıfat) Işık yaratan, doğuran
+FOTOJENİK	(sıfat) Işığın bazı cisimler üzerine yaptığı kimyasal etki ile ilgili veya bu etkileri yaratma özelliği taşıyan
+FOTOKOPİ	(ad) bir yazı, kitap veya biçimin fotoğraf yoluyla kopyasını çıkarma yöntemi.
+FOTOKOPİLER	(ad, fotokopi sözcüğünün çekimi) bir yazı, kitap veya biçimin fotoğraf yoluyla kopyasını çıkarma yöntemi.
+FOTOKOPİLERİ	(ad, fotokopi sözcüğünün çekimi) bir yazı, kitap veya biçimin fotoğraf yoluyla kopyasını çıkarma yöntemi.
+FOTOKOPİLERİNİ	(ad, fotokopi sözcüğünün çekimi) bir yazı, kitap veya biçimin fotoğraf yoluyla kopyasını çıkarma yöntemi.
+FOTOKOPİSİ	(ad, fotokopi sözcüğünün çekimi) bir yazı, kitap veya biçimin fotoğraf yoluyla kopyasını çıkarma yöntemi.
+FOTOKOPİSİNİ	(ad, fotokopi sözcüğünün çekimi) bir yazı, kitap veya biçimin fotoğraf yoluyla kopyasını çıkarma yöntemi.
+FOTOKİMYA	(ad) Işık etkisiyle oluşan kimyasal tepkimeleri inceleyen bilim
+FOTOKİNEZİ	(ad) Bazı hayvanları karanlıkta ışık, çok aydınlıkta ise karanlık aramaya iteleyen dürtü
+FOTOLAR	(ad, foto sözcüğünün çekimi) ışık
+FOTOLİTOGRAFİ	(ad) Taş, maden üzerindeki örneklerin, ışığa duyarlı tabakalar üzerinde fotoğraf veya kopya yoluyla çıkarılmasında kullanılan baskı tekniği
+FOTOLİZ	(ad) Işıkla, özellikle morötesi ışınlarla sağlanan kimyasal ayrıştırma
+FOTOMEKANİK	(sıfat) Fotoğraftan baskı klişesi elde etmek için uygulanan her türlü yöntem
+FOTOMETRE	(ad) ışıkölçer
+FOTOMETRİ	(ad) elektromanyetik spektrum'un sadece görünür bölgesi için radyant enerji ölçümü ile ilgili alanın adı, ışık ölçümü
+FOTOMODEL	(ad) Değişik gayeler için kullanılan fotoğraflar ve daha çok reklam fotoğrafları için modellik yapan kimse.
+FOTOMONTAJ	(ad) Bir konu üzerindeki eksik kısımları tamamlamak veya daha çok konuyu bir araya toplamak üzere bir kaç fotoğrafın birleştirilmesi
+FOTOMORFOZ	(ad) Canlı varlıkların gelişimi üzerinde ışığın yaptığı etki
+FOTON	(ad) fizik biliminde elektromanyetik alanın kuantumu, ışığın temel "birimi" ve tüm elektromanyetik ışınların kalıbı olan ve kuantum alan teorisine göre hareket eden[2] parçacık
+FOTONLAR	(ad, foton sözcüğünün çekimi) fizik biliminde elektromanyetik alanın kuantumu, ışığın temel "birimi" ve tüm elektromanyetik ışınların kalıbı olan ve kuantum alan teorisine göre hareket eden[2] parçacık
+FOTONU	(ad, foton sözcüğünün çekimi) fizik biliminde elektromanyetik alanın kuantumu, ışığın temel "birimi" ve tüm elektromanyetik ışınların kalıbı olan ve kuantum alan teorisine göre hareket eden[2] parçacık
+FOTOPERİYODİZM	(ad) Bitkilerin gün uzunluğuna bağlı olarak gösterdikleri tepki
+FOTOPSİ	(ad) Sağlam veya hasta gözde ışık olmadığı halde ışık görme şeklinde beliren rahatsızlık
+FOTOROBOT	(ad) şahitlerin verdikleri bilgilere dayanılarak ressamlarca çizilen,bir kimsenin bulunmasına yarayan yüz resmi
+FOTOROMAN	(ad) Bir metinle bir dizi fotoğraftan oluşan hikâye veya roman.
+FOTOSEL	(ad) Işıkgözü
+FOTOSENTEZ	(ad) Bitkilerin ve diğer organizmaların enerji olarak ışığı kullanarak karbondioksit ve suyu, karbonhidrat ve oksijene çevirmesi işlemi
+FOTOSERAMİK	(ad) fotoğraf tekniğiyle porseleri üzerinde yapılan süsleme
+FOTOSFER	(ad) Işık yuvarı
+FOTOSKOP	(ad) Merceklerin uyumundaki değişiklikleri, onların yüzeylerindeki yansımalarla gözlemeye yarayan alet
+FOTOTAKSİ	(ad) Işığa cevap olarak hareket etme, ışığa doğru yönelme hareketi, ışığa göçüm
+FOTOTAKTİZM	(ad) ışığa göçüm
+FOTOTEK	(ad) Fotoğraf belgeliği
+FOTOTERAPİ	(ad) Işık kullanılarak yapılan tedavi
+FOTOTROPİZM	(ad) Işığa doğrulum
+FOTOYU	(ad, foto sözcüğünün çekimi) ışık
+FOTOĞRAF	(ad) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFHANE	(ad) Fotoğrafçının çalıştığı, fotoğraf çekilen veya fotoğraf makinesi satılan yer.
+FOTOĞRAFI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIM	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIMA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIMI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIMIN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIMIZ	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIMIZI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIMIZIN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFIN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFINA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFINDA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFINDAN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFINI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFININ	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFINIZ	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFINIZI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLA	(eylem, fotoğraflamak sözcüğünün çekimi) Fotoğrafla tespit etmek, fotoğrafını çekmek, görüntülemek.
+FOTOĞRAFLAMAK	(eylem) Fotoğrafla tespit etmek, fotoğrafını çekmek, görüntülemek.
+FOTOĞRAFLAR	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.\n(eylem, fotoğraflamak sözcüğünün çekimi) Fotoğrafla tespit etmek, fotoğrafını çekmek, görüntülemek.
+FOTOĞRAFLARA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARDA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARDAN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARDI	(eylem, fotoğraflamak sözcüğünün çekimi) Fotoğrafla tespit etmek, fotoğrafını çekmek, görüntülemek.
+FOTOĞRAFLARI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIM	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.\n(eylem, fotoğraflamak sözcüğünün çekimi) Fotoğrafla tespit etmek, fotoğrafını çekmek, görüntülemek.
+FOTOĞRAFLARIMA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIMDAN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIMI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIMIN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIMIZ	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIMIZI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARIN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARINA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARINDA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARINDAN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARINI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARININ	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARINIZ	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFLARINIZI	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFTA	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFTAN	(ad, fotoğraf sözcüğünün çekimi) Çeşitli araç ve malzeme kullanarak görüntüyü özel bir yüzey üzerinde sabitleme.
+FOTOĞRAFÇI	(ad) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇIDAN	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇILAR	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇILARA	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇILARDAN	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇILARI	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇILARIN	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇILIK	(ad) Fotoğrafçının yaptığı iş
+FOTOĞRAFÇILIĞA	(ad, fotoğrafçılık sözcüğünün çekimi) Fotoğrafçının yaptığı iş
+FOTOĞRAFÇILIĞI	(ad, fotoğrafçılık sözcüğünün çekimi) Fotoğrafçının yaptığı iş
+FOTOĞRAFÇILIĞIN	(ad, fotoğrafçılık sözcüğünün çekimi) Fotoğrafçının yaptığı iş
+FOTOĞRAFÇIM	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇIMIZ	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇININ	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇISI	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇIYA	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOĞRAFÇIYI	(ad, fotoğrafçı sözcüğünün çekimi) Fotoğraf çeken veya basan kimse
+FOTOŞİMİ	(ad) Fotokimya
+FOYA	(ad) Parıltısını artırmak için elmas taşlarının altlarına konan ince metal yaprak
+FOŞA	(ad) Trabzon yöresinde yetiştirilen ince kabuklu, yuvarlak bir fındık çeşidi
+FOŞURDAMA	(ad) Foşurdamak işi
+FOŞURDAMAK	(eylem) Foşur foşur ses çıkarmak
+FOŞURDATMAK	(eylem) Suyun foşurdamasına yol açmak
+FRAGMAN	(ad) Tanıtma filmi.
+FRAGMANI	(ad, fragman sözcüğünün çekimi) Tanıtma filmi.
+FRAGMANINI	(ad, fragman sözcüğünün çekimi) Tanıtma filmi.
+FRAGMANLAR	(ad, fragman sözcüğünün çekimi) Tanıtma filmi.
+FRAGMANLARI	(ad, fragman sözcüğünün çekimi) Tanıtma filmi.
+FRAK	(ad) Resmi törenlerde giyilen uzun etekli, eteğinin arkası beline kadar yırtmaçlı, siyah, resmi erkek ceketi ve takımı
+FRAKLI	(sıfat) Frakı olan
+FRAKSİYON	(ad) bir siyasi partinin politikasını parlamentoda, yerel yönetimlerde, çeşitli kuruluşlarda yürütmek için teşkilatlanmış grup, bölüntü, bölüngü
+FRAKSİYONU	(ad, fraksiyon sözcüğünün çekimi) bir siyasi partinin politikasını parlamentoda, yerel yönetimlerde, çeşitli kuruluşlarda yürütmek için teşkilatlanmış grup, bölüntü, bölüngü
+FRAMBUAZ	(ad) ahududu
+FRANCALA	(ad) İyi nitelikli undan yapılan ince uzun ekmek.
+FRANCALALIK	(ad) Francala yapmaya uygun olan (un).
+FRANGI	(ad, frank sözcüğünün çekimi) Fransız para birimi
+FRANK	(ad) Fransız para birimi
+FRANKLIK	(ad) Frank değerinde
+FRANKOFOBİ	(ad) Fransa, insanları ve kültüründen korkma
+FRANSİYUM	(ad) Atom numarası 87 olan bir kimyasal element
+FRAPAN	(ad) Göz alıcı, göze çarpıcı, alımlı olan.
+FRAPANLAŞMAK	(eylem) Frapan duruma gelmek.
+FRAPANLIK	(ad) gözalıcılık
+FRAPE	(ad) Buzlu veya dondurulmuş olarak sunulan içki, meşrubat
+FREKANSÖLÇER	(ad) Sıklıkölçer.
+FREN	(ad) Makinenin, herhangi bir taşıtın hızını kesmeye veya onu durdurmaya yarayan mekanizma.
+FRENCİ	(ad) Tren yolu dönemecinde yol boyundaki frenlere kumanda eden görevli.
+FRENDE	(ad, fren sözcüğünün çekimi) Makinenin, herhangi bir taşıtın hızını kesmeye veya onu durdurmaya yarayan mekanizma.
+FRENGİ	(ad) Genellikle cinsel birleşmelerle bulaşan, sağaltılmazsa inme, körlük, delilik gibi sonuçlara kadar varan, döle de geçerek vücutça ve akılca sakat bir soyun yetişmesine neden olan sayrılık
+FRENGİLİ	(ad) Frengi sayrılığına tutulmuş olan.
+FRENLEME	(eylem, frenlemek sözcüğünün çekimi) bir taşıtın, mekanizmanın hareketini fren yardımıyla yavaşlatmak veya durdurmak
+FRENLEMEK	(eylem) bir taşıtın, mekanizmanın hareketini fren yardımıyla yavaşlatmak veya durdurmak
+FRENLENME	(ad) Frenlenmek işi
+FRENLENMEK	(eylem) Frenlenmek eylemi yapılmak.
+FRENLER	(ad, fren sözcüğünün çekimi) Makinenin, herhangi bir taşıtın hızını kesmeye veya onu durdurmaya yarayan mekanizma.\n(eylem, frenlemek sözcüğünün çekimi) bir taşıtın, mekanizmanın hareketini fren yardımıyla yavaşlatmak veya durdurmak
+FRENLERİM	(eylem, frenlemek sözcüğünün çekimi) bir taşıtın, mekanizmanın hareketini fren yardımıyla yavaşlatmak veya durdurmak
+FRENLEYİCİ	(ad) Kimi organların çalışmasını engelleyen.
+FRENOLOJİ	(ad) Karakterin kafatasındaki şişliklerden analiz edilebileceğini iddia eden sahte bilim
+FRENOLOJİK	(sıfat) Frenoloji ile ilgili
+FRENİ	(ad, fren sözcüğünün çekimi) Makinenin, herhangi bir taşıtın hızını kesmeye veya onu durdurmaya yarayan mekanizma.
+FRER	(ad) Erkek kardeş anlamında papazlar için kullanılan bir söz
+FRESK	(ad) Yaş duvar sıvası üzerine kireç suyunda eritilmiş madenî boyalarla resim yapma yöntemi
+FREZE	(ad) frezeleme işinde kullanılan takım tezgâhı
+FREZECİ	(ad) Teknik resme ya da modele uygun her çeşit parçayı freze tezgâhında yapabilen işçi.
+FREZECİLİK	(ad) Frezeci olma durumu
+FREZELEME	(ad) frezelemek eylemi
+FREZELEMEK	(eylem) bir parçayı freze tezgâhında işlemek
+FREZYA	(ad) Süsengiller familyasından yirmi kadar süs bitkisi türünü içeren cins.
+FRUKO	(ad) açık arabada dolaşan toplum polisi
+FRUKTOZ	(ad) Tatlı meyvelerde ve balda bulunan, C₆H₁₂O₆ kapalı formülüne sahip heksoz sınıfından bir şeker, meyve şekeri
+FRİBORD	(ad) Bir geminin su yüzünden yukarıda kalan bölümü.
+FRİGO	(ad) Dondurulmuş krema.
+FRİGORİFİK	(ad) Soğutmalı
+FRİJİDER	(ad) Buzdolabı, soğutucu
+FRİJİDİTE	(ad) Cinsel soğukluk
+FRİJİT	(ad) Soğuk, cinsellikten tat almayan (kadın).
+FRİKSİYON	(ad) Ovma, ovuşturma
+FRİKİK	(ad) serbest vuruş.
+FRİKİĞİ	(ad, frikik sözcüğünün çekimi) serbest vuruş.
+FRİSA	(ad) Kurutulmuş ringa balığı
+FRİTÖZ	(ad) Patates, balık vb. kızartmaya yarayan özel elektrikli kap
+FRİZ	(ad) tavandan inerek sahnenin üst kısmını, sahne boyunca kaplayan kısa, dar perde
+FRİZBİ	(ad) Genellikle esnek ve dayanıklı plastikten yapılan, kenarları kıvrık, el ile kolay kavranabilen, fırlatılarak oynanan bir araç.
+FRİZBİYİ	(ad, frizbi sözcüğünün çekimi) Genellikle esnek ve dayanıklı plastikten yapılan, kenarları kıvrık, el ile kolay kavranabilen, fırlatılarak oynanan bir araç.
+FRİŞKA	(ad) Yelkeni dolduramayacak kadar hafif rüzgâr
+FUAR	(ad) belli zamanlarda belli yerlerde ticari metayı tanıtmak ve satmak için kurulan büyük pazar
+FUARCI	(ad) Fuar düzenleyen kimse.
+FUARCILIK	(ad) Fuar düzenleme işi
+FUARI	(ad, fuar sözcüğünün çekimi) belli zamanlarda belli yerlerde ticari metayı tanıtmak ve satmak için kurulan büyük pazar
+FUAYE	(ad) Tiyatro salonlarında, perde arasında oyuncuların ve seyircilerin dinlenmesi için ayrılan yer, dinlenmelik.
+FUHUŞ	(ad) İçinde bulunulan toplumun kurallarına uymayan bir biçimde bir veya birkaç kişiyle para karşılığında cinsel ilişkide bulunma
+FUHUŞU	(ad, fuhuş sözcüğünün çekimi) İçinde bulunulan toplumun kurallarına uymayan bir biçimde bir veya birkaç kişiyle para karşılığında cinsel ilişkide bulunma
+FUJER	(ad) eğrelti otu
+FUKARA	(ad) derviş\n(sıfat) yoksul, fakir
+FUKARALIK	(ad) Yoksulluk, fakirlik
+FUKUSGİLLER	(ad) Su yosunlarından, gelgitli denizlerin kayalıklara yakın yerlerinde yetişen esmer bir yosun.
+FUKUSLAR	(ad) Su yosunlarından, gelgitli denizlerin kayalıklara yakın yerlerinde yetişen esmer bir yosun
+FUL	(ad) Taşkırangillerden; Kuzey Amerika, Doğu Asya ve Güney Avrupa’da yetmiş kadar türü yetişen, kokulu, beyaz çiçekli ağaççık.
+FULAR	(ad) genellikle boyna bağlanan, bir tür ince ipek kumaş
+FULARI	(ad, fular sözcüğünün çekimi) genellikle boyna bağlanan, bir tür ince ipek kumaş
+FULE	(ad) Adım aralığı
+FULLE	(eylem, fullemek sözcüğünün çekimi) Bütün soruları doğru yapmak.
+FULLEMEK	(eylem) Bütün soruları doğru yapmak.
+FULLER	(ad, ful sözcüğünün çekimi) Taşkırangillerden; Kuzey Amerika, Doğu Asya ve Güney Avrupa’da yetmiş kadar türü yetişen, kokulu, beyaz çiçekli ağaççık.\n(eylem, fullemek sözcüğünün çekimi) Bütün soruları doğru yapmak.
+FULTAYM	(ad) tümgün (full time)
+FULTAYMCI	(ad) Tam gün çalışan (kimse)
+FULTAYMLI	(sıfat) Tam gün çalışmayı kabul eden (kimse)
+FULYA	(ad) Nergisgillerden, soğan köklü bir bitki
+FUNDA	(ad) süpürge otu
+FUNDAGİLLER	(ad) Fundalar takımından, bayağı funda veya süpürge çalısı, azelya, yaban mersini, koca yemiş gibi çoğu her zaman yeşil birçok çalı ve ağaççığı içine alan bir bitki familyası
+FUNDALAR	(ad) Fundagillerle birlikte bunlara benzeyen daha başka familyaları da içinde toplayan bir bitki takımı
+FUNDALIK	(ad) Fundayla kaplanmış yer.
+FUNDALIKTA	(ad, fundalık sözcüğünün çekimi) Fundayla kaplanmış yer.
+FUNDAMENTALİST	(ad) Kökten dinci
+FUNDAMENTALİZM	(ad) Bir dinin öğretilerine katı, derinden bağlılık. Dinî metinleri yorumlamadan birebir çevirilerine sadık kalmaya çalışma, kökten dincilik.
+FUNGUSİT	(ad) Mantar üzerinde öldürücü etki yapan madde, etmen ve kimyasallar
+FUNYA	(ad) Top ateşlemeye yarar kapsül
+FURAZA	(ad) (Esası: Farzâ) Meselâ, öyle sayalım ki, farzedelim ki, ola ki, tutalım ki.
+FURGON	(ad) Yolcu katarlarına eklenen eşya vagonu
+FURYA	(ad) Olağandan çok fazla bulunma durumu
+FURİ	(ad) Tulûat tiyatrosunda alkış
+FUT	(ad) 30,480 cm'ye eşit olan İngiliz uzunluk ölçü birimi
+FUTA	(ad) Dar, uzun ve hafif bir yarış kayığı; kik.
+FUTBOL	(ad) topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım arasında oynanan top oyunu, ayak topu
+FUTBOLA	(ad, futbol sözcüğünün çekimi) topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım arasında oynanan top oyunu, ayak topu
+FUTBOLCU	(ad) ayak topu oynayan kimse
+FUTBOLCULAR	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLCULARA	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLCULARI	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLCULARIN	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLCULUK	(ad) Futbolcu olma durumu
+FUTBOLCUNUN	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLCUSU	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLCUYU	(ad, futbolcu sözcüğünün çekimi) ayak topu oynayan kimse
+FUTBOLDA	(ad, futbol sözcüğünün çekimi) topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım arasında oynanan top oyunu, ayak topu
+FUTBOLU	(ad, futbol sözcüğünün çekimi) topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım arasında oynanan top oyunu, ayak topu
+FUTSAL	(ad) salon futbolu
+FUZULİ	(sıfat) Yersiz, gereksiz
+FUŞKİ	(ad) Koyun dışkısı
+FÖN	(ad) Sıcak, kuru ve sert esen bir tür rüzgâr.
+FÖTR	(ad) şapka, çanta, çiçek ve başka süs eşyası yapmak için kullanılan ince ve yumuşak keçe, aba\n(sıfat) fötr yapılmış
+FÖTUS	(ad) Embriyonun gelişimini büyük ölçüde tamamladığı, bütün organ taslaklarının oluştuğu üçüncü aydan doğuma kadarki durumu
+FÖTÖR	(ad) şapka,çanta,çiçek,veya başka süs eşyayı yapmak için kullanılan ince ve yumuşak keçe
+FÖY	(ad) Kısa bilgileri içeren belge
+FÜCCETEN	(zarf) ansızın (ölmek)
+FÜCUR	(ad) Fitne
+FÜG	(ad) Çok sesli müzikte bir beste
+FÜME	(ad) duman rengi\n(sıfat) duman renkte olan
+FÜMEROL	(ad) Etkin olmayan dönemlerde, yanardağların ağzından yayılan gaz
+FÜNYE	(ad) Patlayıcı maddeyi patlatmaya yarayan fişek ya da düzenek
+FÜNYELER	(ad, fünye sözcüğünün çekimi) Patlayıcı maddeyi patlatmaya yarayan fişek ya da düzenek
+FÜNYEYİ	(ad, fünye sözcüğünün çekimi) Patlayıcı maddeyi patlatmaya yarayan fişek ya da düzenek
+FÜNİKÜLER	(ad) Engebeli arazilerde, dağlarda kablo yardımıyla çekilen raylı sistem
+FÜRBÜZ	(ad) (halk dili) pürmüz
+FÜRU	(ad) ayrıntılar
+FÜRUMAYE	(ad) Sütü bozuk, mayası bozuk, soysuz
+FÜRÜ	(ad) (Feri'. C.) Bir kökten ayrılmış kısımlar. Dallar. Budaklar.
+FÜSUNKAR	(sıfat) büyülü
+FÜSÜRDE	(ad) bir şeyin dolması anlamını taşıyan kelime, eski Türkçe
+FÜTUHATÇI	(ad) Fütuhat yapan
+FÜTUR	(ad) bezginlik, umutsuzluk, usanç
+FÜTURSUZ	(sıfat) Çekinmez, umursamaz
+FÜTURSUZCA	(zarf) Önemsemeyerek, aldırmayarak
+FÜTURSUZLUK	(ad) Fütursuz olma durumu
+FÜTÜROLOG	(ad) Gelecek bilimci
+FÜTÜROLOJİ	(ad) gelecek bilimi
+FÜTÜROLOJİK	(sıfat) Gelecek bilimsel
+FÜTÜRİST	(ad) Gelecekçi
+FÜTÜRİSTLİK	(ad) fütürizm
+FÜTÜRİZM	(ad) İtalya'da 20. yüzyılın başlarında orataya çıkmış bir sanat akımıdır, fütüristlik, gelecekçilik
+FÜTÜVVET	(ad) Dinî ve mesleki birlik, esnaf teşkilatı.
+FÜZE	(ad) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZEATAR	(ad) ıI Dünya Savaşından bu yana otomatik mermiler atan bazı silâhlara verilen ad
+FÜZELER	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERDEN	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERE	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERİ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERİMİZ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERİMİZİ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERİN	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERİNİ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZELERİNİN	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZEMİZ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZEN	(ad) Resim çizerken kullanılan kalem, kömür kalem.
+FÜZESAVAR	(ad) Saldırı nitelikli füzeleri etkisiz duruma getirmek amacıyla üretilen savunma sistemi
+FÜZESİ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZESİNİ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZESİNİN	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZEYE	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZEYİ	(ad, füze sözcüğünün çekimi) Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm
+FÜZYOMETRE	(ad) Erime ısısını ölçmeye yarayan cihaz
+FÜZYON	(ad) Birleşme, kaynaşma
+FÜZYONU	(ad, füzyon sözcüğünün çekimi) Birleşme, kaynaşma
+FİBER	(ad) Sıkıştırılmış bitki liflerinden yapılmış mukavva ya da tahta
+FİBERGLAS	(ad) Plastik maddelerden, özellikle polyesterden parçalar yapımında kullanılan sağlamlaştırma maddesi
+FİBERTUS	(ad) Bulutların sirüs ve kümülüs gruplarına milletler arası sınıflamada verilen genel ad
+FİBERİN	(ad) Kan ve lenf serumunda bulunan albüminli bir madde.
+FİBROZ	(ad) Bir doku ya da organın hasarı nedeniyle, onarım ya da tepki sonucunda bağ dokusu (fibröz doku) oluşması.
+FİBRİL	(ad) kas, kemik, sinir ve epitel dokusu hücrelerinin uzantılarına verilen ad
+FİBRİN	(ad) Kan ve lenf serumunda bulunan albüminli bir madde
+FİBRİNOJEN	(ad) Pıhtılaşma sırasında fibrine dönüşen bir kan proteini
+FİBULA	(ad) Ataş prensibiyle çalışan, bir elbisenin farklı kesimlerini birbirine iliştiren, tutturan bir çeşit kopça.
+FİCA	(ad) Kıbrıs'ta yaşayan Türkiye vatandaşı
+FİDAN	(ad) Yeni yetişen ağaç veya ağaççık.
+FİDANCIK	(ad) küçük fidan
+FİDANI	(ad, fidan sözcüğünün çekimi) Yeni yetişen ağaç veya ağaççık.
+FİDANLAR	(ad, fidan sözcüğünün çekimi) Yeni yetişen ağaç veya ağaççık.
+FİDANLARI	(ad, fidan sözcüğünün çekimi) Yeni yetişen ağaç veya ağaççık.
+FİDANLIK	(ad) Fidan yetiştirilen yer, dikmelik
+FİDDİRE	(sıfat) Oynak, hoppa, hafif kız ya da kadın.
+FİDE	(ad) Tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze veya körpe çiçek.
+FİDECİ	(ad) Fide yetiştirip satan kimse
+FİDECİLİK	(ad) Fide yetiştirip satma işi
+FİDELEME	(ad) Fidelemek işi
+FİDELEMEK	(eylem) Fidan dikmek
+FİDELİK	(sıfat) Fide yetiştirilen yer
+FİDEİZM	(ad) İnancılık, imaniye
+FİDYE	(ad) esiri veya herhangi bir kişiyi içine düştüğü durumdan kurtarmak için verilen mal veya para
+FİDYEYİ	(ad, fidye sözcüğünün çekimi) esiri veya herhangi bir kişiyi içine düştüğü durumdan kurtarmak için verilen mal veya para
+FİFRE	(ad) Yanlamasına çalınan, 6 deliği olan, tahtadan bir tür flüt
+FİFİ	(ad) Küçük köpek.
+FİGAN	(ad) Bağırarak ağlama, inleme
+FİGEN	(ad) Atıcı
+FİGÜR	(ad) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRAN	(ad) Genellikle tiyatro ve sinemada, konuşması olmayan ya da konuşması çok az olan rollere çıkan kimse
+FİGÜRANLAR	(ad, figüran sözcüğünün çekimi) Genellikle tiyatro ve sinemada, konuşması olmayan ya da konuşması çok az olan rollere çıkan kimse
+FİGÜRANLIK	(ad) Figüran olarak çalışma
+FİGÜRASYON	(ad) biçimleme
+FİGÜRATİF	(sıfat) Dış gerçeği somut biçimde yansıtan, içinde insan, hayvan ve doğa ögeleri bulunan; betili
+FİGÜRE	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLER	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERE	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERİ	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERİMİ	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERİN	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERİNDEN	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERİNE	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLERİNİ	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRLÜ	(sıfat) Figürü olan
+FİGÜRÜ	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRÜM	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRÜN	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRÜNE	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRÜNÜ	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİGÜRÜNÜN	(ad, figür sözcüğünün çekimi) Resim ve heykel sanatlarında varlıkların biçimi; beti.
+FİHRİST	(ad) bir kitabın başına veya sonuna konan ve o kitapta bulunan konu ve maddeleri alfabe sırasına göre gösteren cetvel, içindekiler.
+FİHRİSTLEME	(ad) Fihristlemek işi
+FİHRİSTLEMEK	(eylem) Fihriste geçirmek
+FİHRİSTİ	(ad, fihrist sözcüğünün çekimi) bir kitabın başına veya sonuna konan ve o kitapta bulunan konu ve maddeleri alfabe sırasına göre gösteren cetvel, içindekiler.
+FİKRE	(ad, fikir sözcüğünün çekimi) düşün
+FİKREN	(zarf) Düşünce yoluyla, düşünerek, zihnen
+FİKRİ	(sıfat) fikirle alakalı
+FİKRİM	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİMDEN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİME	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİMİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİMİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİMİZ	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİMİZİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİMİZİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNDE	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNDEN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNE	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNİZ	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNİZE	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNİZİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİNİZİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKRİSABİT	(ad) Saplantı
+FİKRİYAT	(ad) Düşünceler
+FİKSTÜR	(ad) Yarışma veya karşılaşmaların zamanını ve sırasını belirleyen çizelge
+FİKSİYON	(ad) imge
+FİKTİF	(ad) gerçek olmayan, kurmaca
+FİKİR	(ad) düşün
+FİKİRDE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRDEN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRDEŞ	(sıfat) Aynı düşüncede olan, aynı düşünceyi savunan.
+FİKİRLER	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERDE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERDEN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİM	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMDEN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİME	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMİZ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMİZE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMİZİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİMİZİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNDE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNDEN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNİZ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNİZE	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNİZİ	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLERİNİZİN	(ad, fikir sözcüğünün çekimi) düşün
+FİKİRLİ	(sıfat) Herhangi bir konu üzerinde düşüncesi olan, akıllı, düşünceli
+FİKİRLİLİK	(ad) Fikirli olma durumu
+FİKİRSİZ	(sıfat) Herhangi bir konu üzerinde düşünemeyen, görüşü olmayan, düşüncesiz
+FİKİRSİZLİK	(ad) Fikirsiz olma durumu, düşüncesizlik
+FİL	(ad) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLAMAN	(ad) Elektrik ampullerinden akım geçtiğinde, akkor duruma gelen ince iletken tel
+FİLAMENT	(ad) Erkek organın başçığını (anter) taşıyan sap.
+FİLAN	(zamir) falan
+FİLANCA	(sıfat) (Diyarbakır ağzı) filan kimse
+FİLANINCI	(sıfat) falanıncı
+FİLANTROP	(sıfat) İnsansever, insanların iyiliği için çalışan (kimse)
+FİLAR	(ad) Hafif bir terlik
+FİLARMONİ	(ad) Güçlü müzik sevgisi
+FİLARMONİK	(sıfat) Müziği seven (kimse)
+FİLARİZ	(ad) Keten dövmeye yarayan tokmak.
+FİLARİZLEME	(ad) Filarizlemek işi
+FİLARİZLEMEK	(eylem) Keteni döverek tel durumuna getirmek.
+FİLATELİ	(ad) pulculuk, pul koleksiyonculuğu
+FİLATELİST	(ad) Pulcu, pul koleksiyoncusu
+FİLAYAĞI	(ad) Eski yığma taş yapılarda kullanılan çok yüksek ve kalın kâgir destek elemanı (ayak).
+FİLBAHAR	(ad) Taşkırangillerden, ilkbaharda beyaz ve güzel kokulu çiçekler açan, park ve bahçelerde süs bitkisi olarak yetiştirilen ağaççık, akasma, filbahri (Philadelphus)
+FİLBAHRİ	(ad) Taşkırangillerden, ilkbaharda beyaz ve güzel kokulu çiçekler açan, park ve bahçelerde süs bitkisi olarak yetiştirilen ağaççık
+FİLDEKOZ	(ad) Bir çeşit pamuk ipliği
+FİLDEN	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLDİŞİ	(ad) fil dişinin donuk beyaz rengi, balköpüğü\n(sıfat) fildişi renkte olan
+FİLDİŞİNDEN	(ad, fildişi sözcüğünün çekimi) fil dişinin donuk beyaz rengi, balköpüğü
+FİLE	(ad) yün, pamuk vb ipliklerden düğümlerle oluşmuş ağ
+FİLEMAFOBİ	(ad) öpmekten ya da öpüşmekten korkma
+FİLENK	(ad) Ağır cisimleri bir yerden bir yere kaydırmak ve özellikle deniz teknelerini karaya çekmek için bunların altına sürülen yuvarlak ağaç
+FİLET	(ad) Derinliği aynı olan sığ su alanı
+FİLETO	(ad) Dananın bel omurları ile bunların üzerindeki kas gruplarının tümünü içeren kemikli et
+FİLETOSU	(ad, fileto sözcüğünün çekimi) Dananın bel omurları ile bunların üzerindeki kas gruplarının tümünü içeren kemikli et
+FİLEYİ	(ad, file sözcüğünün çekimi) yün, pamuk vb ipliklerden düğümlerle oluşmuş ağ
+FİLGÖZÜ	(ad) Hamam kubbelerindeki, aydınlatmayı sağlayan cam pencere.
+FİLGİLLER	(ad) Memeliler sınıfının hortumlular takımının bir familyası
+FİLHAKİKA	(zarf) doğrusu, gerçekten, hakikaten
+FİLKULAĞI	(ad) Yılan yastığıgillerden ana yurdu tropikal Amerika olan, kökü yumrulu bir süs bitkisi (Caladium)
+FİLLER	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLLERDEN	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLLERE	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLLERİ	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLLERİN	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLLERİNİN	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLM	(ad) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMCİ	(ad) Sinemacı
+FİLMCİLİK	(ad) Sinemacılık
+FİLMDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMDEN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLME	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLER	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERDEN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİM	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİMDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİMDEN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİMİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİMİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİMİZ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNDEN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNİZ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNİZE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLERİNİZİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMLEŞTİRMEK	(eylem) Film durumuna getirmek, filmleştirmek işi
+FİLMOGRAFİ	(ad) Bir yönetmen veya oyuncunun yönettiği, yazdığı veya oynadığı bütün filmlerin listesi.
+FİLMİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİM	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMDEN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİME	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİZ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİZDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİZE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİZİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİMİZİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNDEN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNİZ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNİZDE	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNİZİ	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLMİNİZİN	(ad, film sözcüğünün çekimi) camlara yapıştırılarak içerinin görünmesini engelleyen bir tür ince yaprak
+FİLO	(ad) bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü
+FİLOFOBİ	(ad) Sevmekten, aşık olmaktan korkma
+FİLOJENEZ	(ad) Soy oluş
+FİLOKSERA	(ad) asma biti, bağ böceği
+FİLOLAR	(ad, filo sözcüğünün çekimi) bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü
+FİLOLOG	(ad) Eski ve bugünkü dillerin kaynağını, mahiyetini, yapısını ve diller arasındaki münasebetlerini inceleyen, yabancı deyimleri ve sözcükleri tespit ederek araştırma yapan kişi; dil bilimci.
+FİLOLOJİ	(ad) dili ve yazılı belgeleri dil ve tarih açısından inceleme, dillerin yapısını, tarihsel gelişimini ve birbirleri ile ilişkilerini inceleyen bilim dalı
+FİLOLOJİK	(sıfat) filoloji ile ilgili, dil bilimsel
+FİLOTİLLA	(ad) Torpidolardan oluşan filo, küçük gemiler topluluğu
+FİLOYU	(ad, filo sözcüğünün çekimi) bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü
+FİLOZ	(ad) balıkçıların ağları su yüzünde tutmak için kullandıkları kabak veya mantardan yapılmış ağ şamandırası
+FİLOZOF	(ad) felsefe ile uğraşan ve felsefenin gelişmesine katkıda bulunan kişi, felsefeci, feylesof
+FİLOZOFLAR	(ad, filozof sözcüğünün çekimi) felsefe ile uğraşan ve felsefenin gelişmesine katkıda bulunan kişi, felsefeci, feylesof
+FİLOZOFLAŞMA	(ad) Filozoflaşmak işi veya durumu
+FİLOZOFLAŞMAK	(eylem) Filozof özelliği kazanmak
+FİLOZOFLUK	(ad) Filozof olma durumu
+FİLOZOFU	(ad, filozof sözcüğünün çekimi) felsefe ile uğraşan ve felsefenin gelişmesine katkıda bulunan kişi, felsefeci, feylesof
+FİLOZOFÇA	(sıfat) Filozofa yaraşır biçimde (olan)
+FİLOZOFİK	(sıfat) felsefe ile ilgili, felsefeye dayanan
+FİLPAYE	(ad) Filayağı
+FİLTRE	(ad) süzgeç
+FİLTREDEN	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRELEME	(ad) filtrelemek işi
+FİLTRELER	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRELERİ	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRELERİNİ	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRELİ	(sıfat) filtre takılmış olan
+FİLTRESİ	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRESİNDEN	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRESİNE	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRESİNİ	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTRESİZ	(sıfat) filtre takılmamış olan
+FİLTREYE	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLTREYİ	(ad, filtre sözcüğünün çekimi) süzgeç
+FİLUM	(ad) Canlıların bölümlenmesinde, dalların bir araya gelmesiyle oluşan birlik, şube
+FİLVAKİ	(zarf) gerçekte, gerçekten, her ne kadar, vâkıâ
+FİLİ	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLİGRAN	(ad) suyolu.
+FİLİK	(ad) Tiftik keçisi.
+FİLİKA	(ad) cankurtaran sandalı
+FİLİKACI	(ad) Filikalara bakmakla görevli kimse
+FİLİKADA	(ad, filika sözcüğünün çekimi) cankurtaran sandalı
+FİLİKALAR	(ad, filika sözcüğünün çekimi) cankurtaran sandalı
+FİLİKALARA	(ad, filika sözcüğünün çekimi) cankurtaran sandalı
+FİLİKALARI	(ad, filika sözcüğünün çekimi) cankurtaran sandalı
+FİLİKAYA	(ad, filika sözcüğünün çekimi) cankurtaran sandalı
+FİLİKAYI	(ad, filika sözcüğünün çekimi) cankurtaran sandalı
+FİLİM	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLİMDE	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLİMİ	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLİN	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLİNTA	(ad) Namlusu kısa, kurşun atan bir tür küçük tüfek.\n(sıfat) Güzel, yakışıklı
+FİLİNİ	(ad, fil sözcüğünün çekimi) filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+FİLİSKİN	(ad) Yerden 2-3 karış yükseklikte, çok yıllık ve otsu bir bitki
+FİLİTRELEME	(ad) filitre yapma
+FİLİZ	(ad) Tohumdan veya tomurcuktan çıkan körpe ve küçük dal; sürgün, ışkın, eşkin, cımbar, çıvgın, şıvgın
+FİLİZCİK	(ad) küçük sürgün
+FİLİZKIRAN	(ad) Mayıs ayında ağaçların filizlendiği mevsimde esen bir fırtına
+FİLİZLEMEK	(eylem) Bitkilerin gereğinden çok olan filizlerini kırmak
+FİLİZLENDİ	(eylem, filizlenmek sözcüğünün çekimi) filiz vermek
+FİLİZLENME	(ad) Filizlenmek işi.
+FİLİZLENMEK	(eylem) filiz vermek
+FİLİZLENMİŞ	(eylem, filizlenmek sözcüğünün çekimi) filiz vermek
+FİLİZLENİR	(eylem, filizlenmek sözcüğünün çekimi) filiz vermek
+FİLİZLENİYOR	(eylem, filizlenmek sözcüğünün çekimi) filiz vermek
+FİLİZLER	(ad, filiz sözcüğünün çekimi) Tohumdan veya tomurcuktan çıkan körpe ve küçük dal; sürgün, ışkın, eşkin, cımbar, çıvgın, şıvgın\n(eylem, filizlemek sözcüğünün çekimi) Bitkilerin gereğinden çok olan filizlerini kırmak
+FİLİZLİ	(sıfat) filizi olan
+FİLİZİ	(ad) sürgün yeşili
+FİNAL	(ad) Bir işin sonu
+FİNALDE	(ad, final sözcüğünün çekimi) Bir işin sonu
+FİNALİST	(ad) Son yarışmaya kalan sporcu veya takım
+FİNALİSTLER	(ad, finalist sözcüğünün çekimi) Son yarışmaya kalan sporcu veya takım
+FİNALİSTİ	(ad, finalist sözcüğünün çekimi) Son yarışmaya kalan sporcu veya takım
+FİNALİZM	(ad) erekçilik
+FİNANS	(ad) para, mal
+FİNANSAL	(sıfat) Mali.
+FİNANSE	(sıfat) Akçalanmak anlamındaki finanse edilmek, akçalamak anlamındaki finanse etmek birleşik fiillerinde geçen bir söz
+FİNANSI	(ad, finans sözcüğünün çekimi) para, mal
+FİNANSMAN	(ad) Bir girişime işleyebilmesi, gelişebilmesi için gereken para ve krediyi sağlama işi
+FİNCAN	(ad) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANA	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANCI	(ad) Porselen veya cam eşya satan kimse
+FİNCANDA	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANDAN	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANI	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANIM	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANIMI	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANIN	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANINA	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANINDA	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANINI	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANININ	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANLAR	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANLARI	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANLARINI	(ad, fincan sözcüğünün çekimi) Çay, kahve vb. sıcak şeyler içmekte kullanılan, genellikle kulplu, porselen veya camdan yapılmış küçük kap.
+FİNCANLIK	(sıfat) Miktarı herhangi bir fincan kadar olan
+FİNGİRDEK	(sıfat) Aşırı derecede oynak ve kırıtkan, cilveli (kadın)
+FİNGİRDEMEK	(eylem) Dikkati çekecek kadar kırıtkan, oynak davranmak
+FİNGİRDEŞME	(ad) Fingirdeşmek işi
+FİNGİRDEŞMEK	(eylem) Birbiriyle fingirdeşmek
+FİNK	(ad) Hiçbir şeye aldırmadan gönlünce gezip eğlenmek anlamına gelen "fink atmak" deyiminde geçer
+FİNO	(ad) çok tüylü küçük köpek türü
+FİNİŞ	(ad) Varış, bitiş.
+FİNİŞE	(ad, finiş sözcüğünün çekimi) Varış, bitiş.
+FİRAK	(ad) Ayrılış, ayrılık
+FİRAKIYYE	(ad) Ayrılık şiiri.
+FİRAKLI	(sıfat) Üzüntülü, dokunaklı, içe işleyen
+FİRAR	(ad) kişi tarafından bir varlığa verilen desteğin çekilmesi veya tamamıyla bırakılması
+FİRARI	(ad, firar sözcüğünün çekimi) kişi tarafından bir varlığa verilen desteğin çekilmesi veya tamamıyla bırakılması
+FİRARİ	(ad) kaçak
+FİRARİLER	(ad, firari sözcüğünün çekimi) kaçak
+FİRARİYİ	(ad, firari sözcüğünün çekimi) kaçak
+FİRAVUN	(ad) iskambil kâğıtlarıyla oynanan bir oyun türü
+FİRAVUNA	(ad, firavun sözcüğünün çekimi) iskambil kâğıtlarıyla oynanan bir oyun türü
+FİRAVUNLAR	(ad, firavun sözcüğünün çekimi) iskambil kâğıtlarıyla oynanan bir oyun türü
+FİRAVUNLARIN	(ad, firavun sözcüğünün çekimi) iskambil kâğıtlarıyla oynanan bir oyun türü
+FİRAVUNLAŞMA	(ad) Firavunlaşmak işi
+FİRAVUNLAŞMAK	(eylem) Kötü, acımasız bir insan olmak
+FİRAVUNLUK	(ad) Firavun olma durumu
+FİRAVUNU	(ad, firavun sözcüğünün çekimi) iskambil kâğıtlarıyla oynanan bir oyun türü
+FİRAVUNUN	(ad, firavun sözcüğünün çekimi) iskambil kâğıtlarıyla oynanan bir oyun türü
+FİRAZ	(ad) (Denizli ağzı) horoz
+FİRE	(ad) ağırlık yitimi\n(sıfat) eksik, noksan
+FİREK	(ad) Domatesin olmamışı, yeşili.
+FİREZ	(ad) Ekin
+FİRFİRİ	(ad) Parlak kızıl renk
+FİRKA	(ad) inek pisliğini temizleme aleti
+FİRKAT	(ad) Ayrılış, ayrılık
+FİRKATE	(ad) Buharlı gemilerin icadından önce Osmanlıların savaşlarda gözetleme, karakol, haberleşme, büyük gemileri çekme gibi işlerde kullandıkları, 10-17 çift kürekle veya yelkenle hareket eden, bir ambarlı, uzun, dar, süratli tekne.
+FİRKETE	(ad) Kadınların saçlarını tutturmak için kullandıkları U biçimindeki naylon veya telden saç tokası
+FİRKETELEME	(ad) Firketelemek işi
+FİRKETELEMEK	(eylem) Firkete ile tutturmak
+FİRMA	(ad) şirket
+FİRMADA	(ad, firma sözcüğünün çekimi) şirket
+FİRMADAN	(ad, firma sözcüğünün çekimi) şirket
+FİRMALAR	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARA	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARDAN	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARI	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARIN	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARINA	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARINDAN	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARINI	(ad, firma sözcüğünün çekimi) şirket
+FİRMALARININ	(ad, firma sözcüğünün çekimi) şirket
+FİRMAM	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMA	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMDA	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMI	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMIN	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMIZ	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMIZA	(ad, firma sözcüğünün çekimi) şirket
+FİRMAMIZIN	(ad, firma sözcüğünün çekimi) şirket
+FİRMAN	(ad, firma sözcüğünün çekimi) şirket
+FİRMANI	(ad, firma sözcüğünün çekimi) şirket
+FİRMANIN	(ad, firma sözcüğünün çekimi) şirket
+FİRMANIZ	(ad, firma sözcüğünün çekimi) şirket
+FİRMANIZIN	(ad, firma sözcüğünün çekimi) şirket
+FİRMASI	(ad, firma sözcüğünün çekimi) şirket
+FİRMASINA	(ad, firma sözcüğünün çekimi) şirket
+FİRMASINDA	(ad, firma sözcüğünün çekimi) şirket
+FİRMASINDAN	(ad, firma sözcüğünün çekimi) şirket
+FİRMASINI	(ad, firma sözcüğünün çekimi) şirket
+FİRMASININ	(ad, firma sözcüğünün çekimi) şirket
+FİRMAYA	(ad, firma sözcüğünün çekimi) şirket
+FİRMAYI	(ad, firma sözcüğünün çekimi) şirket
+FİRUZE	(ad) Küpe ve yüzük taşı gibi süslemede kullanılan, mavi renkli, saydam olmayan hidratlı doğal alüminyum ve fosfattan oluşan değerli bir mineral.
+FİRİK	(ad) (Düziçi ağzı) Olgunlaşmaya başlayan tahıl
+FİSEBİLİLLAH	(zarf) Hiçbir karşılık beklemeden
+FİSKAL	(sıfat) Hazineye ilişkin
+FİSKE	(ad) parmak uçlarıyla yapılan hafif vuruş\n(sıfat) iki parmak ucu ile tutulabilen miktarda olan
+FİSKELEME	(ad) Fiskelemek işi
+FİSKELEMEK	(eylem) Fiske vurmak
+FİSKET	(ad) Gemici düdüğü
+FİSKOS	(ad) başkalarının duyamayacağı biçimde gizli ve alçak sesle konuşma, fısıldamak
+FİSTAN	(ad) Tek parça kadın giysisi
+FİSTANLI	(sıfat) Fistan giymiş
+FİSTANLIK	(sıfat) Fistan yapmaya elverişli
+FİSTANSIZ	(sıfat) Fistan giymemiş
+FİSTO	(ad) Elde veya makinede işlenmiş süslü şerit.\n(sıfat) Bu kumaştan yapılmış.
+FİSTOLU	(sıfat) Üzerine fisto dikilmiş olan
+FİSTÜL	(ad) anüs etrafında fistül dediğimiz kalın bağırsak ile cilt arasında oluşmuş açıklıklara, akarca
+FİT	(ad) Birini başkasına karşı kışkırtma.\n(sıfat) Uygun vücut ölçülerine sahip olan kimse.
+FİTLEME	(ad) Fitlemek işi
+FİTLEMEK	(eylem) Kışkırtmak
+FİTLENME	(ad) Fitlenmek işi
+FİTLENMEK	(eylem) Biri başkasına karşıkışkırtılmak
+FİTNE	(ad) karışıklık, kargaşa
+FİTNECİ	(sıfat) Fitne çıkaran, karıştırıcı, ara bozucu
+FİTNECİLİK	(ad) Fitneci olma durumu
+FİTNELEME	(ad) Fitnelemek işi
+FİTNELEMEK	(eylem) Çekiştirmek, yermek, gammazlamak, kovlamak
+FİTNELİK	(ad) Karıştırma,ara bozma,çekiştirme;ara bozuculuk,fesatlık.
+FİTOCOĞRAFYA	(ad) Bitki coğrafyası
+FİTOMORFOLOJİ	(ad) bitki morfolojisi
+FİTOPATOLOJİ	(ad) bitki hastalıklarını inceleyen bilim dalı
+FİTOPATOLOJİK	(sıfat) Fitopatoloji ile ilgili
+FİTOTERAPİ	(ad) bitkisel tedavi
+FİTOTOMİ	(ad) bitki anatomisi
+FİTRE	(ad) Ramazan ayının sonunda gücü yeten Müslümanın ödemekle yükümlü olduğu sadaka
+FİTÇİ	(sıfat) insanlarla iletişiminde fit sokan, kışkırtan, ara bozan
+FİTÇİLİK	(ad) Kışkırtıcılık, ara bozuculuk, kovculuk
+FİTİ	(ad, fit sözcüğünün çekimi) Birini başkasına karşı kışkırtma.
+FİTİL	(ad) lambada, kandilde ve mumda yağın, çakmakta benzinin yanmasını sağlayan, türlü biçimlerde bükülmüş veya dokunmuş pamuktan yapılan genellikle yağ çekici madde
+FİTİLCİ	(sıfat) Fitil yapan veya satan kimse
+FİTİLLEME	(ad) Fitillemek işi
+FİTİLLEMEK	(eylem) Fişek, dinamit gibi patlayıcımaddelerin fitilini ateşlemek
+FİTİLLENMEK	(eylem) Fitil takılmak
+FİTİLLER	(ad, fitil sözcüğünün çekimi) lambada, kandilde ve mumda yağın, çakmakta benzinin yanmasını sağlayan, türlü biçimlerde bükülmüş veya dokunmuş pamuktan yapılan genellikle yağ çekici madde\n(eylem, fitillemek sözcüğünün çekimi) Fişek, dinamit gibi patlayıcımaddelerin fitilini ateşlemek
+FİTİLLİ	(sıfat) Fitili olan veya fitille ateşlenen
+FİTİLSİZ	(sıfat) Fitili olmayan
+FİTİLİ	(ad, fitil sözcüğünün çekimi) lambada, kandilde ve mumda yağın, çakmakta benzinin yanmasını sağlayan, türlü biçimlerde bükülmüş veya dokunmuş pamuktan yapılan genellikle yağ çekici madde
+FİTİN	(ad) Fitik asidin C6H6[OPO(OH)2]6, bir tuzu olan, fosforu tek mideliler tarafından değerlendirilemeyen organik bir bileşik
+FİTİZYOLOJİ	(ad) Verem hastalığını inceleyen tıp dalı
+FİYAKA	(ad) gösteriş, çalım, afi, caka
+FİYAKACI	(ad) gösterişçi, cakacı, caka satan kimse, fiyaka yapan (kimse)
+FİYAKALI	(sıfat) gösterişli
+FİYASKO	(ad) Bir girişimde gülünç ve başarısız sonuç
+FİYASKOYU	(ad, fiyasko sözcüğünün çekimi) Bir girişimde gülünç ve başarısız sonuç
+FİYAT	(ad) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATIM	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATIMI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATIMIZ	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATIMIZI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATIN	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATINA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATINDA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATINDAN	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATINI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATININ	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATINIZ	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATINIZI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLANDIRMA	(ad) fiyatlandırmak işi
+FİYATLANDIRMAK	(eylem) fiyatını belirtmek, fiyat tespit etmek
+FİYATLANMAK	(eylem) bir şeyin fiyatı yükselmek, pahalılaşmak
+FİYATLAR	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARDA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARDAN	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARIMIZ	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARIN	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARINA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARINDA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARINDAN	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARINI	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLARININ	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATLI	(sıfat) Fiyatı olan.
+FİYATTA	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYATTAN	(ad, fiyat sözcüğünün çekimi) Alım veya satımda bir şeyin para karşılığındaki değeri; eder, paha
+FİYONK	(ad) Kelebek biçiminde bağlanmış kurdele
+FİYONKLAR	(ad, fiyonk sözcüğünün çekimi) Kelebek biçiminde bağlanmış kurdele
+FİYORT	(ad) Norveç, İskoçya ve Kuzey Amerika kıyılarında buzulların oluşturdukları dik yamaçlı, derin eski buzul koyaklarının aşağı kesimlerinin deniz altında kalmasıyla oluşan körfez.
+FİYU	(ad) ördekgiller familyasından bir ördek türü
+FİZYOKRAT	(sıfat) XVIII. yüzyılda ortaya çıkan, tarım emeğinin üretici emek olduğunu ve yalnızca bu emeğin değeri yarattığını ileri süren ekonomi görüşünü savunan, fizyokratlık yanlısı
+FİZYOKRATLIK	(ad) Tarım emeğinin üretici emek olduğunu ve yalnızca bu emeğin, değeri yarattığını ileri süren XVIIIyüzyıl ekonomi görüşü
+FİZYOLOG	(ad) İnsan vücudu ile ilgili problemlerin çözüme kavuşturulması amacıyla vücudun normal ve anormal şartlar karşısındaki fizyolojik etkileşimini ve biyolojik faaliyetlerini inceleyen kişi; fizyolojist.
+FİZYOLOJİ	(ad) canlıların hücre, doku ve organlarının görevlerini ve bu görevlerin nasıl yerine geldiklerini inceleyen bilim dalı, işleybilim
+FİZYOLOJİK	(sıfat) Fizyoloji ile ilgili, vücutla ilgili
+FİZYOLOJİST	(ad) Fizyoloji bilgini, fizyolog
+FİZYONOMİ	(ad) Yüz çizgilerinin genel durumundan çıkan anlam
+FİZYONOMİST	(ad) İnsanların yüz çizgilerinden karekterleri ile ilgili ipuçları çıkaran kimse.
+FİZYOTERAPİ	(ad) fizik tedavi
+FİZYOTERAPİST	(ad) Kırık, burkulma, çıkık, felç, dolaşım sorunları vb. sinir hastalıklarında hastanın fizik tedavisiyle ilgilenen sağlıkçı; fizik tedavi uygulayıcısı.
+FİZYOTERAPİSTİ	(ad, fizyoterapist sözcüğünün çekimi) Kırık, burkulma, çıkık, felç, dolaşım sorunları vb. sinir hastalıklarında hastanın fizik tedavisiyle ilgilenen sağlıkçı; fizik tedavi uygulayıcısı.
+FİZİBİLİTE	(ad) Yapılabilirlik
+FİZİK	(ad) maddenin kimyevî yapısındaki değişiklikler dışında genel veya geçici yasalara bağlı, deneysel olarak araştırılabilen, ölçülebilen, matematiksel olarak tanımlanabilen madde ve enerji ile uğraşan bilim dalı
+FİZİKOKİMYA	(ad) Kimyasal olayları fiziksel yöntemlerle çözümleyen, fizik ve kimya konularını kapsayan bilim
+FİZİKSEL	(sıfat) fizikle ilgili olan, fiziki
+FİZİKSELLİK	(ad) fiziksel olma durumu
+FİZİKTE	(ad, fizik sözcüğünün çekimi) maddenin kimyevî yapısındaki değişiklikler dışında genel veya geçici yasalara bağlı, deneysel olarak araştırılabilen, ölçülebilen, matematiksel olarak tanımlanabilen madde ve enerji ile uğraşan bilim dalı
+FİZİKÇE	(zarf) Fizik bakımından
+FİZİKÇİ	(ad) fizik olaylarını araştıran ve uygulamada ortaya çıkan problemlere fizik kanunlarını uygulayıp, fizik alanında araştırmaları yürüten kişi
+FİZİKÇİLER	(ad, fizikçi sözcüğünün çekimi) fizik olaylarını araştıran ve uygulamada ortaya çıkan problemlere fizik kanunlarını uygulayıp, fizik alanında araştırmaları yürüten kişi
+FİZİĞİ	(ad, fizik sözcüğünün çekimi) maddenin kimyevî yapısındaki değişiklikler dışında genel veya geçici yasalara bağlı, deneysel olarak araştırılabilen, ölçülebilen, matematiksel olarak tanımlanabilen madde ve enerji ile uğraşan bilim dalı
+FİĞ	(sıfat) Baklagillerden, hayvan yemi olarak yetiştirilen bir bitki
+FİİL	(ad) davranış, iş
+FİİLDEN	(ad, fiil sözcüğünün çekimi) davranış, iş
+FİİLEN	(zarf) gerçekten
+FİİLLER	(ad, fiil sözcüğünün çekimi) davranış, iş
+FİİLLERİ	(ad, fiil sözcüğünün çekimi) davranış, iş
+FİİLİ	(sıfat) eylemli, edimsel, gerçekten yapılan
+FİİLİMSİ	(ad) fiilden türetilen, olumsuzu yapılabilen mastar, sıfat-fiil, zarf-fiil vb. türleri bulunan ad
+FİİLİN	(ad, fiil sözcüğünün çekimi) davranış, iş
+FİİLİNİ	(ad, fiil sözcüğünün çekimi) davranış, iş
+FİİLİNİN	(ad, fiil sözcüğünün çekimi) davranış, iş
+FİİLİYAT	(ad) Iş olarak yapılanlar, edim, edimler, işler, gerçekleştirilen işler
+FİŞ	(ad) Prizden elektrik akımı almaya yarayan araç.
+FİŞE	(ad) Bazı mobilya kilitlerinin içinde bulunan, birbirinin benzeri fakat farklı ölçüdeki uçları yaylı kilit elemanı
+FİŞEK	(ad) tüfek, tabanca vb. hafif ateşli silahlardan atılmak için sürülen ve içinde barut bulunan bir kovan ile bu kovanın ucuna yerleştirilmiş mermiden oluşan cephane
+FİŞEKHANE	(ad) Fişek yapılan yer
+FİŞEKLER	(ad, fişek sözcüğünün çekimi) tüfek, tabanca vb. hafif ateşli silahlardan atılmak için sürülen ve içinde barut bulunan bir kovan ile bu kovanın ucuna yerleştirilmiş mermiden oluşan cephane
+FİŞEKLİ	(sıfat) İçinde fişek bulunan
+FİŞEKLİK	(ad) Üzerine tüfek, tabanca fişekleri geçirilip bele asılan veya omuzdan bele doğru çapraz geçirilen kemer, kargılık
+FİŞEKSİZ	(sıfat) İçinde fişeği bulunmayan
+FİŞEKÇİ	(ad) Fişek yapan veya satan kimse
+FİŞEKÇİLİK	(ad) Fişekçi olma durumu
+FİŞEĞİ	(ad, fişek sözcüğünün çekimi) tüfek, tabanca vb. hafif ateşli silahlardan atılmak için sürülen ve içinde barut bulunan bir kovan ile bu kovanın ucuna yerleştirilmiş mermiden oluşan cephane
+FİŞKA	(ad) Çipo tırnağını kaldırıp asmak için geminin kenarında bulunan sabit veya hareketli demir askı
+FİŞKELE	(ad) salyangoz
+FİŞLEME	(ad) Fişlemek işi
+FİŞLEMEK	(eylem) Fişüzerine yazmak
+FİŞLENME	(ad) Fişlenmek işi
+FİŞLENMEK	(eylem) Fişe geçirilmek, fişe yazılmak
+FİŞLER	(ad, fiş sözcüğünün çekimi) Prizden elektrik akımı almaya yarayan araç.\n(eylem, fişlemek sözcüğünün çekimi) Fişüzerine yazmak
+FİŞLİ	(sıfat) Fişe yazılmış olan
+FİŞLİK	(sıfat) Fiş koymaya yarar yer veya kutu
+FİŞİ	(ad, fiş sözcüğünün çekimi) Prizden elektrik akımı almaya yarayan araç.

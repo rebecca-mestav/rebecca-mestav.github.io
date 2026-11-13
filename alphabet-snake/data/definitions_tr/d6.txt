@@ -1,0 +1,1938 @@
+ÖBEK	(ad) çarpım işlemi altında kapalı kalıp her öğesinin evriğini içeren, birim işlerli öğeler kümesi
+ÖBEKLENME	(ad) Öbeklenmek durumu veya biçimi
+ÖBEKLENMEK	(eylem) Öbek durumuna gelmek, öbek öbek olmak
+ÖBEKLEŞME	(ad) Öbekleşmek durumu
+ÖBEKLEŞMEK	(eylem) Bir grup oluşturmak, öbek durumunu almak
+ÖBEKSİ	(ad) Üzerinde bir ikili işlem bulunan küme. Simgesi : E kümesi üzerindeki ikili işlem T ile gösteriliyorsa, (E, T) sıralı ikilisi.
+ÖBEĞİ	(ad, öbek sözcüğünün çekimi) çarpım işlemi altında kapalı kalıp her öğesinin evriğini içeren, birim işlerli öğeler kümesi
+ÖBÜR	(sıfat) diğer, öteki
+ÖBÜRKÜ	(zamir) öbürü
+ÖBÜRLERİ	(ad) öbürü kelimesinin yalın hâlinin çoğulu
+ÖBÜRLERİNDE	(ad) öbürü kelimesinin bulunma hâlinin çoğulu
+ÖBÜRLERİNDEN	(ad) öbürü kelimesinin çıkma hâlinin çoğulu
+ÖBÜRLERİNE	(ad) öbürü kelimesinin yönelme hâlinin çoğulu
+ÖBÜRLERİNİ	(ad) öbürü kelimesinin belirtme hâlinin çoğulu
+ÖBÜRLERİNİN	(ad) öbürü kelimesinin tamlayanının çoğulu
+ÖBÜRÜ	(ad) öteki, öbür kişi veya şey
+ÖBÜRÜNDE	(ad) öbürü kelimesinin bulunma hâli
+ÖBÜRÜNDEN	(ad) öbürü kelimesinin çıkma hâli
+ÖBÜRÜNE	(ad) öbürü kelimesinin yönelme hâli
+ÖBÜRÜNÜ	(ad) öbürü kelimesinin belirtme hâli
+ÖBÜRÜNÜN	(ad) öbürü kelimesinin tamlayanı
+ÖCBELEMEK	(eylem) (Sivas ağzı) Israr etmek, üstüne düşmek
+ÖCÜ	(ad) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖCÜLER	(ad, öcü sözcüğünün çekimi) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖCÜMÜ	(ad, öcü sözcüğünün çekimi) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖCÜMÜZÜ	(ad, öcü sözcüğünün çekimi) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖCÜNÜ	(ad, öcü sözcüğünün çekimi) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖCÜNÜZÜ	(ad, öcü sözcüğünün çekimi) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖCÜYÜ	(ad, öcü sözcüğünün çekimi) küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı
+ÖDE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEDİYSE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEK	(sıfat) (Afyonkarahisar, Isparta, Burdur, Denizli, Aydın, İzmir, Manisa, Balıkesir, Çanakkale, Bursa ağzı) (Kütahya, Eskişehir, Bolu, Sakarya, Zonguldak, Kastamonu, Çankırı, Çorum, Sinop, Samsun ağzı) (Havza ağzı) ödlek, korkak
+ÖDEM	(ad) dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+ÖDEMATÖZ	(ad) Ödemden ileri gelen.
+ÖDEME	(ad) ödemek işi, tediye
+ÖDEMEDE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEDİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEDİK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEDİLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEDİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEDİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEDİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEK	(eylem) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELER	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERDE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERDEN	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİM	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİMİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİN	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİNDE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİNE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİNİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİNİN	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELERİNİZİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMELİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELİLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELİSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELİSİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELİYDİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELİYİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMELİYİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEM	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye\n(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEME	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEMELİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEMİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEMİZ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEMİZE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEMİZİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEMİŞ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEMİŞSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMENE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMENİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMENİZ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMENİZE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMENİZİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMESİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMESİNDEN	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMESİNE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMESİNİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMESİNİN	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEYE	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye\n(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYECEK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYECEKLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYECEKSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYECEKSİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYECEĞİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYECEĞİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYİ	(ad, ödeme sözcüğünün çekimi) ödemek işi, tediye
+ÖDEMEYİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEYİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZDİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZDİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZLERSE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSEK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSEM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSEN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSENİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMEZSİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMLİ	(sıfat) Ödemi olan
+ÖDEMİ	(ad, ödem sözcüğünün çekimi) dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+ÖDEMİYOR	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİYORDU	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİYORLAR	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİYORSUN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİYORSUNUZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİYORUM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİYORUZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞSİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞTİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞTİK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞTİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEMİŞTİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDENCE	(ad) zarar karşılığı ödenen para
+ÖDENEK	(ad) bir iş için ayrılan belli para, tahsisat
+ÖDENEKLER	(ad, ödenek sözcüğünün çekimi) bir iş için ayrılan belli para, tahsisat
+ÖDENEKSİZLİK	(ad) Ödeneksiz olma durumu
+ÖDENEĞİ	(ad, ödenek sözcüğünün çekimi) bir iş için ayrılan belli para, tahsisat
+ÖDENME	(ad) ödenmek işi
+ÖDENMEK	(eylem) Ödemek eylemine konu olmak.
+ÖDENMEZ	(sıfat) Ödenemeyecek kadar, ödenmeyecek biçimde
+ÖDENTİ	(ad) aidat
+ÖDENİR	(eylem, ödenmek sözcüğünün çekimi) Ödemek eylemine konu olmak.
+ÖDENİŞ	(ad) Ödenmek eylemi ya da biçimi.
+ÖDER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERDİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERDİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERDİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERLERSE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSEK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSEM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSEN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSENİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERSİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDERİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESE	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESEK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESELER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESEM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESEN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESENİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESEYDİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDESİNLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDETME	(ad) Ödetmek işi
+ÖDETTİRMEK	(eylem) ödeme işini yaptırmak
+ÖDEV	(ad) yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış, vazife, vecibe
+ÖDEVDE	(ad, ödev sözcüğünün çekimi) yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış, vazife, vecibe
+ÖDEVE	(ad, ödev sözcüğünün çekimi) yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış, vazife, vecibe
+ÖDEVLENDİRME	(ad) Ödevlendirmek işi veya durumu
+ÖDEVLENDİRMEK	(eylem) Birine ödev vermek
+ÖDEVLENDİRİLME	(ad) Ödevlendirilmek işi veya durumu
+ÖDEVLENDİRİLMEK	(eylem) Ödevlendirmek işine konu olmak
+ÖDEVLER	(ad, ödev sözcüğünün çekimi) yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış, vazife, vecibe
+ÖDEVLİ	(sıfat) ödev yüklenmiş olan, vazifeli
+ÖDEVİ	(ad, ödev sözcüğünün çekimi) yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış, vazife, vecibe
+ÖDEYECEK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKLER	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKMİŞ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKSİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKSİNİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKTİ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKTİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEKTİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEĞİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYECEĞİZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYELİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYESİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYEYİM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYİN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDEYİŞ	(ad) ödeme işi
+ÖDEŞME	(ad) Ödeşmek işi
+ÖDKESESİ	(ad) Karaciğere yapışık, armut biçiminde, öd salgılayan küçük organ.
+ÖDLEK	(sıfat) korkak, tabansız, yüreksiz
+ÖDYOMETRE	(ad) Kimyasal tepkimelerde gazların oylum değişmelerini ölçmeye yarayan aygıt
+ÖDÜL	(ad) iyiliğe karşılık olarak verilen armağan, mükâfat
+ÖDÜLDE	(ad, ödül sözcüğünün çekimi) iyiliğe karşılık olarak verilen armağan, mükâfat
+ÖDÜLLENDİRME	(ad) Ödüllendirmek işi.
+ÖDÜLLENDİRMEK	(eylem) Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak.
+ÖDÜLLENDİRMEYİ	(ad, ödüllendirme sözcüğünün çekimi) Ödüllendirmek işi.
+ÖDÜLLENDİRİLMEK	(eylem) Ödüllendirme işine konu olmak.
+ÖDÜLLENDİRİLİR	(eylem, ödüllendirilmek sözcüğünün çekimi) Ödüllendirme işine konu olmak.
+ÖDÜLLENDİRİR	(eylem, ödüllendirmek sözcüğünün çekimi) Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak.
+ÖDÜLLER	(ad, ödül sözcüğünün çekimi) iyiliğe karşılık olarak verilen armağan, mükâfat
+ÖDÜLSÜZ	(sıfat) ödül alamamış olan
+ÖDÜLÜ	(ad, ödül sözcüğünün çekimi) iyiliğe karşılık olarak verilen armağan, mükâfat
+ÖDÜN	(ad) uzlaşmaya varabilmek için hak, istek veya savların bir bölümünden, karşı taraf yararına vazgeçme
+ÖDÜNCÜ	(ad) Ödün veren, tavizci
+ÖDÜNLEME	(ad) Ödünlemek işi, taviz
+ÖDÜNLER	(ad, ödün sözcüğünün çekimi) uzlaşmaya varabilmek için hak, istek veya savların bir bölümünden, karşı taraf yararına vazgeçme
+ÖDÜNSÜZLÜK	(ad) Ödünsüz olma durumu
+ÖDÜNÇ	(ad) ileride geri verilmek veya alınmak şartıyla alınan veya verilen şey
+ÖDÜNÇLEME	(ad) Ödünçlemek işi; ariyet, istiare.
+ÖDÜNÇLEMEK	(eylem) ödünç olarak almak
+ÖDÜNÇLEŞME	(ad) Ödünç olarak alınmış ariyet
+ÖDÜNÜ	(ad, ödün sözcüğünün çekimi) uzlaşmaya varabilmek için hak, istek veya savların bir bölümünden, karşı taraf yararına vazgeçme
+ÖDÜYOR	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORDU	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORDUK	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORDUM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORDUN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORLAR	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORLARSA	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORMUŞ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORSA	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORSAM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORSAN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORSUN	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORSUNUZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORUM	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDÜYORUZ	(eylem, ödemek sözcüğünün çekimi) alış veriş ilişkisinde, borcu alacaklıya vermek, tediye etmek
+ÖDİKOTLAR	(ad) iki çenekliler
+ÖFELEMEK	(eylem) Bir şeyi avuç içinde ezerek ufalamak.
+ÖFKE	(ad) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEDEN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKELEN	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENDİ	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENDİM	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENDİN	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENECEK	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENME	(ad) Öfkelenmek işi
+ÖFKELENMEK	(eylem) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENMEYE	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENMİŞ	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENMİŞTİ	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENMİŞTİM	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENİR	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENİRDİ	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENİRİM	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENİYOR	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENİYORSUN	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELENİYORUM	(eylem, öfkelenmek sözcüğünün çekimi) öfkeli duruma düşmek; kızmak, cinlenmek, hiddetlenmek.
+ÖFKELERİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKELERİNİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKELİ	(sıfat) Öfkelenmiş olan; cinli, hiddetli, pürhiddet.\n(zarf) Öfkelenmiş, kızgın, hiddetli bir biçimde; pürhiddet
+ÖFKEM	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEMDEN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEME	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEMİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEMİN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEMİZ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEMİZİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENDEN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENE	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENİN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENİZ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENİZE	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKENİZİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKESİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKESİNDEN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKESİNE	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKESİNİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKESİNİN	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKESİZ	(sıfat) çabuk öfkenmeyen
+ÖFKESİZLİK	(ad) Öfkesiz olma durumu
+ÖFKEYE	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFKEYİ	(ad, öfke sözcüğünün çekimi) engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+ÖFORİ	(ad) İçki, uyuşturucu, sigara gibi özdeklerin içinde bulunan kimyasalların neden olduğu coşkuya verilen ad.
+ÖFORİZAN	(ad) Öfori yaratan madde.
+ÖGE	(ad) bir bütünü oluşturan, bütünden ayrıştırıldığında da kendi başına anlam taşıyan parça, unsur, uzuv
+ÖGLENA	(ad) tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli
+ÖGLENAGİLLER	(ad) Örnek hayvanı öglena olan kamçılı bir hücreliler sınıfı
+ÖGONİK	(ad) Bazı bakteri kültürlerinin hızla çoğalması.
+ÖHÖ	(ünlem) bir kişinin kendi varlığını belli etmek, söylenen bir şey üzerine dikkati çekmek, birine takılmak veya biriyle eğlenmek gibi amaçlarla, öksürür gibi yaparak çıkardığı ses
+ÖJENİK	(ad) İnsan türünün soyaçekim yoluyla ıslahına çalışma
+ÖKARYOT	(ad) hücrelerinde bir çekirdek ve başka organeller içeren bir canlılar grubu olup bilimsel sınıflandırmada arkeler ve bakterilerle beraber tüm canlıları kapsayan üç ana gruptan bir organizma
+ÖKARYOTLAR	(ad) hücrelerinin yapısından dolayı bir arada gruplandırılmış bir canlılar grubu
+ÖKE	(ad) dâhi.
+ÖKELİK	(ad) Öke olma durumu
+ÖKEM	(ad) muhakeme
+ÖKENME	(ad) (Düziçi ağzı) Öykünme
+ÖKENMEG	(eylem) öykünmek, bir kişinin konuşmasını taklit etmek
+ÖKENMEK	(eylem) (Adana, Gaziantep, Düziçi, Kayseri, Hatay ağzı) Birinin yaptıklarını, söylediklerini yineleyerek alay etmek, yansılamak, öykünmek.
+ÖKLEM	(ad) kavram, mefhum
+ÖKLEME	(ad) Küçük işletmelerde, hayvanların yere çakılan bir kazığa uzun bir iple bağlanarak belirli bir daire içerisinde otlamalarına izin verilen ve bu alandaki yem tamamen otlandıktan sonra kazığın yeri değiştirilmek suretiyle devam edilen bir otlatma sistemi
+ÖKLEMEK	(eylem) Hayvanı kaçmaması için bir yere bağlamak.
+ÖKMEN	(sıfat) bilge, hakim
+ÖKSE	(ad) ökse otu saplarından veya çobanpüskülü kabuklarından çıkarılan yapışkan macun.
+ÖKSELEME	(ad) Ökselemek işi veya durumu
+ÖKSELEMEK	(eylem) Ökse ile yakalamak
+ÖKSEME	(ad) Özlemek, göreceği gelmek, istemek
+ÖKSEMEK	(eylem) Özlemek
+ÖKSÜ	(ad) Yarı yanmış odun.
+ÖKSÜR	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRDÜ	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRDÜM	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRME	(ad) Öksürmek işi
+ÖKSÜRMEK	(eylem) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRMEYE	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRTME	(ad) Öksürtmek işi
+ÖKSÜRTÜCÜ	(sıfat) Öksürten, öksürüğe yol açan
+ÖKSÜRÜK	(ad) ciğerlerdeki havanın, solunum organlarının kasılması ve zorlanmasıylı ağızdan gürültü ile çıkması
+ÖKSÜRÜKLÜ	(sıfat) öksürüğü olan, sürekli öksüren
+ÖKSÜRÜN	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRÜR	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRÜYOR	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRÜYORDU	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRÜYORSUN	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRÜYORUM	(eylem, öksürmek sözcüğünün çekimi) solunum yolları zarlarının rahatsızlığı sebebiyle akciğerlerdeki havayı birdenbire ve gürültülü bir sesle dışarı vermek.
+ÖKSÜRÜĞE	(ad, öksürük sözcüğünün çekimi) ciğerlerdeki havanın, solunum organlarının kasılması ve zorlanmasıylı ağızdan gürültü ile çıkması
+ÖKSÜRÜĞÜ	(ad, öksürük sözcüğünün çekimi) ciğerlerdeki havanın, solunum organlarının kasılması ve zorlanmasıylı ağızdan gürültü ile çıkması
+ÖKSÜRÜŞ	(ad) Öksürmek eylemi ya da biçimi.
+ÖKSÜZ	(ad) anası veya hem anası hem babası ölmüş olan, yetim çocuk\n(sıfat) anası veya hem anası hem babası ölmüş olan (çocuk), yetim
+ÖKSÜZDOYURAN	(sıfat) Çok büyük bardak, çanak ve bunların içindeki yiyecek ve içecek
+ÖKSÜZLER	(ad, öksüz sözcüğünün çekimi) anası veya hem anası hem babası ölmüş olan, yetim çocuk
+ÖKSÜZLÜK	(ad) Öksüz olma durumu
+ÖKSÜZSEVİNDİREN	(sıfat) Değeri az, cicili bicili şeyler için söylenir
+ÖKÇE	(ad) ayakkabı altının topuğa rastlayan yüksek bölümü, topuk
+ÖKÇECİ	(ad) Ayakkabılar için ökçe yapan veya satan kimse
+ÖKÇELİ	(sıfat) Ökçesi olan veya ökçesi yüksek olan; topuklu.
+ÖKÇESİZ	(sıfat) Ökçesi olmayan (ayakkabı)
+ÖKÇEÇENE	(ad) Boru anahtarının kola bağlı olan, setleri dışa dönük, hareketsiz çenesi.
+ÖKÜMEN	(ad) Yeryüzünde insanlar tarafından yerleşilmiş veya yerleşilmeye müsait, insan yaşamının devam edebileceği alanlar.
+ÖKÜZ	(ad) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZBURNU	(ad) Serçegillerden, gagası uzun ve çok kalın, eti yenir bir kuş
+ÖKÜZDEN	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZDİLİ	(ad) Sığırdili
+ÖKÜZE	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZGÖZÜ	(ad) papatyagiller, sarı renkte, papatyayı andırır bir çiçek ve onun bitkisi, sığırgözü, mastı çiçeği, arnika
+ÖKÜZKAKAN	(ad) Afrika öküzlerinin üzerinde görülen bir tür kuş.
+ÖKÜZLER	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZLERİ	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZLERİN	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZLÜK	(ad) Budalalık, sersemlik
+ÖKÜZÜ	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZÜM	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖKÜZÜN	(ad, öküz sözcüğünün çekimi) Çift sürmekte, kağnı çekmekte kullanılan, etinden yararlanılan, iğdiş edilmiş erkek sığır.
+ÖLDÜ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜLERSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜNÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜR	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜLERSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜNÜZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜYSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜYSEM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRDÜYSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKMİŞ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKMİŞSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKSENİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKSİNİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKTİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKTİK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKTİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKTİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEKTİNİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEĞİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRECEĞİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRELİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRESİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRESİYE	(zarf) Öldürürcesine
+ÖLDÜREYİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRME	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİNİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİYSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİYSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEDİYSENİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEK	(eylem) aşırı yormak
+ÖLDÜRMELİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİSİNİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİYDİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİYDİK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİYDİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİYDİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİYİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMELİYİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEME	(ad) öldürmemek işi.
+ÖLDÜRMEMELİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMELİSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMELİYDİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMELİYİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMESİ	(ad, öldürmeme sözcüğünün çekimi) öldürmemek işi.
+ÖLDÜRMEMEYİ	(ad, öldürmeme sözcüğünün çekimi) öldürmemek işi.
+ÖLDÜRMEMİŞ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMİŞLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMİŞSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMİŞTİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEMİŞTİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESEM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESEYDİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESEYDİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESEYDİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMESİNLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEKLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEKSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEKSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEKSİNİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEKTİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEKTİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEĞİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYECEĞİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYELİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYEYİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEYİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZDİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZDİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZDİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZLERSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSEK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSEM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSENİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMEZSİNİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYOR	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYORDU	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYORLAR	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYORSUN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYORSUNUZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYORUM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜYORUZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞSÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞSÜNÜZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞTÜ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞTÜK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞTÜM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞTÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞÜM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRMÜŞÜZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSELER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSENİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEYDİ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEYDİK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEYDİM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSEYDİN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRSÜNLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRTME	(ad) Öldürmek işi
+ÖLDÜRTMEK	(eylem) Öldürmek işini yaptırmak
+ÖLDÜRTMEYİ	(ad, öldürtme sözcüğünün çekimi) Öldürmek işi
+ÖLDÜRTÜR	(eylem, öldürtmek sözcüğünün çekimi) Öldürmek işini yaptırmak
+ÖLDÜRÜCÜ	(sıfat) Öldüren, ölüme sebep olan, ölüme yol açan
+ÖLDÜRÜCÜLÜK	(ad) Öldürücü olma durumu
+ÖLDÜRÜLME	(eylem, öldürülmek sözcüğünün çekimi) Öldürmek işine konu olmak
+ÖLDÜRÜLMEK	(eylem) Öldürmek işine konu olmak
+ÖLDÜRÜLÜR	(eylem, öldürülmek sözcüğünün çekimi) Öldürmek işine konu olmak
+ÖLDÜRÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜR	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRDÜ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRDÜK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRDÜM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRDÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRDÜNÜZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRLER	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRLERSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRMÜŞ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSE	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSEK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSEM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSEN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSENİZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSÜN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRSÜNÜZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRÜM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜRÜZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYOR	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORDU	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORDUK	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORDUM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORDUN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORDUNUZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORLAR	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORMUŞ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORMUŞSUN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORSA	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORSUN	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORSUNUZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORUM	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜYORUZ	(eylem, öldürmek sözcüğünün çekimi) aşırı yormak
+ÖLDÜRÜŞ	(ad) Öldürmek işi veya biçimi
+ÖLDÜYSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜYSEM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLDÜYSEN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKMİŞ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKMİŞSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKMİŞİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKMİŞİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKSEK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKSEM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKSEN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKSİNİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKTİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKTİK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKTİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKTİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEKTİNİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEĞİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLECEĞİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLELİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLEN	(sıfat) ölmek üzere olan
+ÖLESİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLESİYE	(zarf) Ölecek kadar
+ÖLET	(ad) kıran
+ÖLEYAZMA	(ad) Öleyazmak işi veya durumu.
+ÖLEYAZMAK	(eylem) Az kalsın ölmek, ölme tehlikesi atlatmak.
+ÖLEYİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLEZ	(ad) fani\n(sıfat) ölümlü
+ÖLEŞMEK	(eylem) paylaşmak
+ÖLGER	(ad) özdeyiş, vecize
+ÖLGÜN	(sıfat) Dirliği, canlılığı, tazeliği kalmamış, pörsümüş, solmuş
+ÖLGÜNLÜK	(ad) Ölgün olma durumu
+ÖLME	(ad) ölmek hâli
+ÖLMEDEN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEDİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİLERSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİNİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİYSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEDİYSEN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEK	(eylem) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELERİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMELERİNE	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMELERİNİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMELERİNİN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMELİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİSİNİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİYDİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİYDİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİYDİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİYİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMELİYİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEM	(ad, ölme sözcüğünün çekimi) ölmek hâli\n(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMDEN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEME	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEMELİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMELİSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMELİYDİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMELİYİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEMİN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEMİZ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEMİZE	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEMİZİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEMİŞ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMİŞLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMİŞSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMİŞSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMİŞTİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEMİŞİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENDEN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENE	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENİN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENİZ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENİZE	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMENİZİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMESE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMESEYDİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMESİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMESİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMESİNDEN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMESİNE	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMESİNİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMESİNİN	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEYE	(ad, ölme sözcüğünün çekimi) ölmek hâli\n(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEKLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEKSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEKSİNİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEKTİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEĞİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYECEĞİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYEN	(sıfat) ölmek üzere olmayan
+ÖLMEYEYİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYİ	(ad, ölme sözcüğünün çekimi) ölmek hâli
+ÖLMEYİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEYİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZ	(sıfat) kalıcı olan, ölümsüz
+ÖLMEZDİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZLEŞTİRME	(ad) Ölmezleştirmek işi
+ÖLMEZLEŞTİRMEK	(eylem) Ölümsüzleştirmek
+ÖLMEZLİK	(ad) Ölmez olma durumu, ölümsüzlük
+ÖLMEZOĞLU	(ad) Çok dayanıklı şey
+ÖLMEZSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZSEK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZSEM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZSEN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZSİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMEZSİNİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜYOR	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜYORDU	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜYORLAR	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜYORSUN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜYORUM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜYORUZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞ	(sıfat) ölen, ölü olan
+ÖLMÜŞLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞLERSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞLÜK	(ad) Ölmüş olma durumu
+ÖLMÜŞSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞSÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞSÜNÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞTÜ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞTÜK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞTÜM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞTÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞTÜNÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞÜM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLMÜŞÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSELER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSENİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEYDİ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEYDİK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEYDİM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSEYDİN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLSÜNLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÇ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇECEK	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇECEĞİM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇECEĞİZ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇEK	(ad) birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü\n(sıfat) bu ölçü miktarında olan
+ÖLÇEKLEME	(ad) Ölçeklemek işi.
+ÖLÇEKLER	(ad) Ölçeğin çoğulu
+ÖLÇEKLİ	(sıfat) ölçek farkıyla aynen bütünü veren geometrik şekil veya eleman, mikyaslı
+ÖLÇEKSİZ	(sıfat) Ölçeği olmayan
+ÖLÇEKSİZLİK	(ad) Ölçeksiz olma durumu
+ÖLÇELİM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇER	(ad) tutum, yeti, yetenek ve becerileri ölçmek üzere başvurulan ve ölçünlenmiş edimli ya da sözlü sınarlardan oluşan ölçme aracı
+ÖLÇERLER	(ad, ölçer sözcüğünün çekimi) tutum, yeti, yetenek ve becerileri ölçmek üzere başvurulan ve ölçünlenmiş edimli ya da sözlü sınarlardan oluşan ölçme aracı\n(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇERME	(ad) Ölçermek işi veya durumu
+ÖLÇERMEK	(eylem) Sönmekte olan ateşi, lambayı canlandırmak
+ÖLÇERSİN	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇERSİNİZ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇERİ	(ad, ölçer sözcüğünün çekimi) tutum, yeti, yetenek ve becerileri ölçmek üzere başvurulan ve ölçünlenmiş edimli ya da sözlü sınarlardan oluşan ölçme aracı
+ÖLÇERİM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇERİZ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇEYİM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇEĞİ	(ad, ölçek sözcüğünün çekimi) birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü
+ÖLÇME	(ad) ölçmek işi
+ÖLÇMEK	(eylem) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇMELİYİM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇMEM	(ad, ölçme sözcüğünün çekimi) ölçmek işi\n(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇMEMİZ	(ad, ölçme sözcüğünün çekimi) ölçmek işi
+ÖLÇMENİN	(ad, ölçme sözcüğünün çekimi) ölçmek işi
+ÖLÇMESİ	(ad, ölçme sözcüğünün çekimi) ölçmek işi
+ÖLÇMEYE	(ad, ölçme sözcüğünün çekimi) ölçmek işi\n(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇMEYİ	(ad, ölçme sözcüğünün çekimi) ölçmek işi
+ÖLÇTÜ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇTÜK	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇTÜLER	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇTÜM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇTÜN	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇTÜRME	(ad) Ölçtürmek işi.
+ÖLÇTÜRMEK	(eylem) Ölçmek işini yaptırmak
+ÖLÇÜ	(ad) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜCÜ	(ad) Ölçme işini yapan kimse
+ÖLÇÜCÜLÜK	(ad) Ölçücü olma durumu
+ÖLÇÜDE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜDEN	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLEBİLMEK	(eylem) ölçülme ihtimali veya imkânı bulunmak
+ÖLÇÜLEBİLİR	(sıfat) ölçme işine konu olabilir fiziksel büyüklük
+ÖLÇÜLENDİRME	(ad) Ölçülendirmek işi
+ÖLÇÜLENDİRMEK	(eylem) Ölçme işlemlerini bir düzlem üzerine aktarmak
+ÖLÇÜLER	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERDE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİM	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİMDE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİMİ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİN	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİNDE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİNE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLERİNİ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜLME	(ad) ölçülmek işi
+ÖLÇÜLMEK	(eylem) ölçmek işine konu olmak
+ÖLÇÜLÜ	(zarf) dikkatli, düşünerek\n(sıfat) ölçüsü alınmış, ölçülmüş
+ÖLÇÜLÜLÜK	(ad) ölçülü, dengeli olma durumu, ılım
+ÖLÇÜLÜR	(eylem, ölçülmek sözcüğünün çekimi) ölçmek işine konu olmak
+ÖLÇÜM	(ad) ölçmek işi
+ÖLÇÜME	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜMLEME	(ad) Değerlendirme, değer biçme
+ÖLÇÜMLER	(ad, ölçüm sözcüğünün çekimi) ölçmek işi
+ÖLÇÜMLÜ	(ad) Metrik
+ÖLÇÜMÜ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan\n(ad, ölçüm sözcüğünün çekimi) ölçmek işi
+ÖLÇÜN	(sıfat) standart
+ÖLÇÜNLEŞME	(ad) standartlaşma
+ÖLÇÜNLÜ	(sıfat) Standart
+ÖLÇÜNME	(ad) Ölçünmek işi veya durumu
+ÖLÇÜNMEK	(eylem) Bir şeyi uzun uzun düşünüp hesaplamak, teemmül etmek
+ÖLÇÜNÜ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜNÜN	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜSÜ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜSÜNDE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜSÜNE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜSÜNÜ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜSÜZ	(sıfat) Ölçülmemiş, ölçüsü alınmamış olan.\n(zarf) yerli yersiz.
+ÖLÇÜSÜZLÜK	(ad) Ölçüsüz olma durumu
+ÖLÇÜT	(ad) bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter
+ÖLÇÜTSÜZLÜK	(ad) Ölçütsüz olma durumu
+ÖLÇÜTÜ	(ad, ölçüt sözcüğünün çekimi) bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter
+ÖLÇÜYE	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜYOR	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYORDUM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYORLAR	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYORSUN	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYORSUNUZ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYORUM	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYORUZ	(eylem, ölçmek sözcüğünün çekimi) en, boy, oylum, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek
+ÖLÇÜYÜ	(ad, ölçü sözcüğünün çekimi) Bir niceliği, o nicelik için kabul edilmiş birimlerden birine göre oranlayarak değerlendirme; endaze, mizan
+ÖLÇÜŞ	(ad) Ölçmek işi veya biçimi
+ÖLÇÜŞME	(ad) Ölçüşmek işi
+ÖLÇÜŞMEK	(eylem) (biriyle) Yan yana gelerek boy bakımından ölçülmek
+ÖLÇÜŞTÜRME	(ad) Ölçüştürmek işi veya durumu
+ÖLÇÜŞTÜRMEK	(eylem) Ölçüşmek işini yaptırmak
+ÖLÜ	(sıfat) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı\n(ad) ölmüş insan; cenaze, müteveffa, mevta, meyit
+ÖLÜCÜ	(sıfat) Ölülere cinsel istek duyan.\n(ad) (mecaz) Bir malı ederinden ucuza, yok pahasına almak isteyen kişi.
+ÖLÜDEN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜDOĞA	(ad) Konusu, cansız varlıklar veya nesneler olup doğal kavramlar üzerine çizilen resim, natürmort
+ÖLÜHANE	(ad) Hastanelerde meyitlerin saklandığı yer, bina; morg.
+ÖLÜK	(sıfat) canlılığı azalmış, hâlsiz
+ÖLÜKUYRUĞU	(ad) akrep
+ÖLÜLER	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERDE	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERDEN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERE	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİMİZ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİMİZİ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİMİZİN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİNİ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİNİN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLERİNİZİ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜLÜK	(ad) Cansız kalma durumu, cansızlık
+ÖLÜM	(ad) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.\n(ünlem) ölmesi istenen canlı için kullanılan söz
+ÖLÜMCÜL	(sıfat) ölümle sona erme ihtimali olan veya ölümle sona eren
+ÖLÜMDE	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı\n(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMDEN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı\n(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜME	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı\n(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMERİ	(ad) Bir ülkü uğruna tehlikeli işlere girişerek canını esirgemeyen kimse
+ÖLÜMLER	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERDE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERDEN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİNDE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİNDEN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİNE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİNİ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLERİNİN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMLÜ	(ad) insan\n(sıfat) gelip geçici, kalımsız, fâni
+ÖLÜMLÜK	(ad) Bazı kimselerin, öldüklerinde cenazelerinin kaldırılmasına harcanmak için biriktirdikleri para
+ÖLÜMLÜLER	(ad, ölümlü sözcüğünün çekimi) insan
+ÖLÜMLÜLÜK	(ad) ölümlü olma durumu, kalımsızlık, fânilik, fena, ölüm oranı
+ÖLÜMSEK	(sıfat) Ölümcül
+ÖLÜMSÜ	(ad) Ölümü andıran, ölüm durumuna yakışan.
+ÖLÜMSÜZ	(sıfat) hiçbir zaman ölmeyecek olan, ebedî, layemut
+ÖLÜMSÜZLEŞME	(ad) ölümsüzleşmek işi
+ÖLÜMSÜZLEŞMEK	(eylem) ölümsüz olmak, ölümsüz duruma gelmek, bengileşmek, ebedîleşmek
+ÖLÜMSÜZLEŞTİRME	(ad) Ölümsüzleştirmek işi
+ÖLÜMSÜZLEŞTİRMEK	(eylem) ölümsüz duruma getirmek, ölmezleştirmek, ebedîleştirmek
+ÖLÜMSÜZLÜK	(ad) Ölümsüz olma durumu, ölmezlik
+ÖLÜMSÜZLÜĞÜ	(ad, ölümsüzlük sözcüğünün çekimi) Ölümsüz olma durumu, ölmezlik
+ÖLÜMÜ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı\n(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜM	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜMDEN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜME	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜMÜ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜMÜN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜMÜZ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜMÜZE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜMÜZÜ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı\n(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNDE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNDEN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNÜ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNÜN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNÜZ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNÜZE	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNÜZÜ	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜNÜZÜN	(ad, ölüm sözcüğünün çekimi) Bir insan hayatının tam ve kesin olarak sona ermesi; ahiret yolculuğu, son, ebedî uyku, son yolculuk, emrihak, irtihal, memat,mevt, vefat.
+ÖLÜMÜZ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.\n(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜNME	(ad) Ölünmek işi veya durumu
+ÖLÜNMEK	(eylem) Herhangi biri ölmek
+ÖLÜNÜ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜNÜN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜNÜR	(eylem, ölünmek sözcüğünün çekimi) Herhangi biri ölmek
+ÖLÜR	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRDÜ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRDÜK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRDÜM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRDÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRDÜNÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRLER	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRLERSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRMÜŞ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSE	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSEK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSEM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSEN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSENİZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSÜN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRSÜNÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRÜM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜRÜZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜSÜ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜSÜNDEN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜSÜNE	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜSÜNÜ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜSÜNÜN	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜYE	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜYOR	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORDU	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORDUK	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORDUM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORDUN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORDUNUZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORLAR	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORMUŞ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORMUŞSUN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORMUŞUM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORSA	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORSAN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORSUN	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORSUNUZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORUM	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYORUZ	(eylem, ölmek sözcüğünün çekimi) Yaşamsal fonksiyonların durması, hayatın bitmesi.
+ÖLÜYÜ	(sıfat, ölü sözcüğünün çekimi) hayatı sona ermiş olan, artık yaşamıyor olan, diri karşıtı
+ÖLÜZGE	(ad) Rüzgar
+ÖLÜŞ	(ad) Ölme durumu.
+ÖLÜŞÜ	(ad, ölüş sözcüğünün çekimi) Ölme durumu.
+ÖMRE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜBİLLAH	(zarf) Şimdiye değin, hiçbir vakit.
+ÖMRÜHAYAT	(ad) Geçirilen, yaşanılan bütün ömür boyu
+ÖMRÜM	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMDE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMDEN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMÜ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMÜN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMÜZ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMÜZDE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMÜZÜ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜMÜZÜN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNCE	(zarf) Ömrü boyunca, yaşadığı süre içinde
+ÖMRÜNDE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNDEN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNÜ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNÜN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNÜZ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNÜZDE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNÜZÜ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMRÜNÜZÜN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMÜR	(ad) yaşam
+ÖMÜRDE	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMÜRLER	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMÜRLERİ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMÜRLERİNİ	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMÜRLERİNİN	(ad, ömür sözcüğünün çekimi) yaşam
+ÖMÜRLÜ	(sıfat) ömrü uzun olan
+ÖMÜRSÜZ	(sıfat) Ömrü kısa olan
+ÖNALAN	(ad) Kullanıcının gerçek zamanlı etkileştiği uygulama; öteki bütün pencerelerin önünde bulunan uygulama penceresi.
+ÖNAYAK	(sıfat) Bir işte öncü, işi yürüten (kimse)
+ÖNBELLEK	(ad) Merkez birimin gereksinimi olabilecek düşük kapasiteli bellek.
+ÖNBİLİCİLİK	(ad) Bir olayın gerçekleşeceğini önceden bilme, kehanet, kahinlik.
+ÖNBİLİM	(ad) bir fenomenin bilim sayılabilmesi için bilimsel yöntemler geliştirilmeden önceki felsefi disiplinleri ifade etmekte kullanı
+ÖNCE	(zarf) ilk olarak, başlangıçta, sonra karşıtı
+ÖNCECİLİK	(ad) Bir şeyi başkalarından önce yapma işi, inisiyatif.
+ÖNCEDEN	(zarf) başlarken, başlangıçta, daha önce, evvelce
+ÖNCEK	(ad) iş önlüğü
+ÖNCEKİ	(sıfat) önce olan, evvelki, mukaddem, sabık
+ÖNCEL	(ad) Bir görevde, meslekte kendinden önce yerini tutmuş olan kimse
+ÖNCELEME	(ad) öncelemek işi, lanse
+ÖNCELEMEK	(eylem) Bir şeyi önceden yapmak, geri bırakmamak, öne almak, takdim etmek
+ÖNCELERİ	(zarf) Önceki zamanda, başlangıçta
+ÖNCELİK	(ad) bir şeyin öbüründen önce olması durumu, takaddüm
+ÖNCELİKLE	(zarf) Öne alınarak, daha önce olarak
+ÖNCELİKLER	(ad, öncelik sözcüğünün çekimi) bir şeyin öbüründen önce olması durumu, takaddüm
+ÖNCELİKLİ	(sıfat) Önceliği olan
+ÖNCELİĞİ	(ad, öncelik sözcüğünün çekimi) bir şeyin öbüründen önce olması durumu, takaddüm
+ÖNCESİZ	(sıfat) zamanda başlangıcı olmayan, ezeli
+ÖNCESİZLİK	(ad) öncesi olmama durumu
+ÖNCÜ	(ad) önde gidip haber ulaştıran kimse\n(sıfat) önden gelen, önde olan, artçı karşıtı
+ÖNCÜL	(ad) bir bilimsel çalışmada işe koyulurken, araştırmaya konu edilmeksizin doğru sayılan önerme\n(sıfat) önde giden, önde olan, artçıl karşıtı
+ÖNCÜLER	(ad, öncü sözcüğünün çekimi) önde gidip haber ulaştıran kimse
+ÖNCÜLÜK	(ad) öncü olma durumu
+ÖNDELİK	(ad) ticari bir işlemde taraflar arasında yapılan sözleşmeden doğan borcun bir kısmının, alacaklıya çeşitli sebeplerle kararlaştırılan ödeme tarihinden önce ödenmesi, avans
+ÖNDER	(ad) gücü, ünü ve toplumsal yeri dolayısıyla belli zaman ve durumlar içinde ilişkili bulunduğu küme veya toplumun tutum, davranış ve etkinliklerini değiştirip yönetme yeteneğini gösteren kimse.
+ÖNDERLER	(ad, önder sözcüğünün çekimi) gücü, ünü ve toplumsal yeri dolayısıyla belli zaman ve durumlar içinde ilişkili bulunduğu küme veya toplumun tutum, davranış ve etkinliklerini değiştirip yönetme yeteneğini gösteren kimse.
+ÖNDERLİK	(ad) önder olma durumu veya öndere yakışır davranış, öncülük, liderlik
+ÖNDERLİĞİ	(ad, önderlik sözcüğünün çekimi) önder olma durumu veya öndere yakışır davranış, öncülük, liderlik
+ÖNDERİ	(ad, önder sözcüğünün çekimi) gücü, ünü ve toplumsal yeri dolayısıyla belli zaman ve durumlar içinde ilişkili bulunduğu küme veya toplumun tutum, davranış ve etkinliklerini değiştirip yönetme yeteneğini gösteren kimse.
+ÖNDEYİ	(ad) tahmin, önsezi
+ÖNDEÇ	(ad) (Afyonkarahisar ağzı) mübaşir.
+ÖNDÜÇ	(sıfat) (Sivas, Düziçi ağzı) Ödünç
+ÖNE	(zarf) önce, ilkönce
+ÖNEL	(ad) Bir işin tamamlanması için tanınan ek süre,
+ÖNEM	(ad) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMDE	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEME	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMLERİ	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMLİ	(sıfat) önemi olan, mühim, ehemmiyetli
+ÖNEMLİCE	(sıfat) Önemli sayılabilecek kadar
+ÖNEMLİLEŞTİRME	(ad) önemlileştirmek işi
+ÖNEMLİLEŞTİRTMEK	(eylem) önemlileştirme işini yaptırmak
+ÖNEMLİLİK	(ad) önemli durumu, ehemmiyetlilik, mühimlik
+ÖNEMSEME	(ad) önemsemek işi
+ÖNEMSEMEK	(eylem) önemli saymak, önem vermek, mühimsemek
+ÖNEMSEMEYİ	(ad, önemseme sözcüğünün çekimi) önemsemek işi
+ÖNEMSENME	(ad) Önemsenmek işi
+ÖNEMSENMEK	(eylem) Önem verilmek, üzerinde durulmak
+ÖNEMSENİŞ	(ad) Önemsenmek işi veya biçimi
+ÖNEMSER	(eylem, önemsemek sözcüğünün çekimi) önemli saymak, önem vermek, mühimsemek
+ÖNEMSEYİŞ	(ad) Önemsemek işi veya biçimi
+ÖNEMSİZ	(sıfat) önemi olmayan
+ÖNEMSİZCE	(sıfat) Önemli sayılmayacak kadar
+ÖNEMSİZLEŞTİRME	(ad) önemsizleştirmek işi
+ÖNEMSİZLEŞTİRMEK	(eylem) önemsizleştirme işini yapmak
+ÖNEMSİZLEŞTİRTMEK	(eylem) önemsizleştirme işini yaptırmak
+ÖNEMSİZLİK	(ad) önemsiz olma durumu, ehemmiyetsizlik
+ÖNEMİ	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİM	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİMİZ	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİN	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİNDEN	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİNE	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİNİ	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEMİNİN	(ad, önem sözcüğünün çekimi) bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet
+ÖNEN	(ad) adalet, hak
+ÖNERGE	(ad) Meclis, kongre vb. resmî bir toplantıda, herhangi bir konu veya sorunla ilgili olarak bir öneride bulunmak için üyelerden biri veya birçoğu tarafından başkanlığa verilen, oya konularak karar verilmesi istenen yazılı kâğıt
+ÖNERGEYİ	(ad, önerge sözcüğünün çekimi) Meclis, kongre vb. resmî bir toplantıda, herhangi bir konu veya sorunla ilgili olarak bir öneride bulunmak için üyelerden biri veya birçoğu tarafından başkanlığa verilen, oya konularak karar verilmesi istenen yazılı kâğıt
+ÖNERME	(ad) önermek işi
+ÖNERMEK	(eylem) tavsiye etmek
+ÖNERMEYİ	(ad, önerme sözcüğünün çekimi) önermek işi
+ÖNERTİ	(ad) Koşullu bir önermenin koşulu anlatan ön bölümü, önbileşen.
+ÖNERİ	(ad) Bir sorunu çözmek üzere öne sürülen görüş, düşünce; teklif
+ÖNERİLER	(ad, öneri sözcüğünün çekimi) Bir sorunu çözmek üzere öne sürülen görüş, düşünce; teklif
+ÖNERİLME	(ad) önerilmek işi
+ÖNERİLMEK	(eylem) önerilme işine olmak
+ÖNERİLİR	(eylem, önerilmek sözcüğünün çekimi) önerilme işine olmak
+ÖNERİR	(eylem, önermek sözcüğünün çekimi) tavsiye etmek
+ÖNERİYİ	(ad, öneri sözcüğünün çekimi) Bir sorunu çözmek üzere öne sürülen görüş, düşünce; teklif
+ÖNERİŞ	(ad) önermek işi
+ÖNEYLEM	(ad) tercih
+ÖNEZE	(ad) Avcının av beklemek için taş yığınlarından yaptığı pusu, evsin.
+ÖNGE	(ad) engel, mâni
+ÖNGÖRME	(ad) Öngörmek işi
+ÖNGÖRMEK	(eylem) Ilerisi için kararlaştırmak, göz önünde tutmak, derpiş etmek
+ÖNGÖRÜ	(ad) Bir işin ilerisini kestirme veya bir işin nasıl bir yol alacağını önceden anlayabilme ve ona göre davranma
+ÖNGÖRÜLER	(ad, öngörü sözcüğünün çekimi) Bir işin ilerisini kestirme veya bir işin nasıl bir yol alacağını önceden anlayabilme ve ona göre davranma
+ÖNGÖRÜLME	(ad) Öngörülmek işi veya durumu
+ÖNGÖRÜLMEK	(eylem) İlerisi için kararlaştırılmak, göz önünde tutulmak
+ÖNGÖRÜLÜ	(sıfat) Bir işin ileride nasıl olacağını kestirerek ona göre davranan, öngörüsü olan.
+ÖNGÖRÜR	(eylem, öngörmek sözcüğünün çekimi) Ilerisi için kararlaştırmak, göz önünde tutmak, derpiş etmek
+ÖNGÖRÜYÜ	(ad, öngörü sözcüğünün çekimi) Bir işin ilerisini kestirme veya bir işin nasıl bir yol alacağını önceden anlayabilme ve ona göre davranma
+ÖNGÜ	(ad) inat
+ÖNGÜN	(ad) Bir önceki gün
+ÖNKOL	(ad) kolun dirsekle bilek arasındaki bölümü
+ÖNLEM	(ad) kötü veya yanlış bir şeyi önleyecek yol, tedbir
+ÖNLEME	(ad) Önlemek işi
+ÖNLEMEK	(eylem) bir şeyin olmasına veya yapılmasına engel olmak
+ÖNLEMEYİ	(ad, önleme sözcüğünün çekimi) Önlemek işi
+ÖNLEMLER	(ad, önlem sözcüğünün çekimi) kötü veya yanlış bir şeyi önleyecek yol, tedbir
+ÖNLEMİ	(ad, önlem sözcüğünün çekimi) kötü veya yanlış bir şeyi önleyecek yol, tedbir
+ÖNLENDİ	(eylem, önlenmek sözcüğünün çekimi) önleme işi yapılmak.
+ÖNLENME	(ad) Önlenmek işi
+ÖNLENMEK	(eylem) önleme işi yapılmak.
+ÖNLENMİŞ	(eylem, önlenmek sözcüğünün çekimi) önleme işi yapılmak.
+ÖNLENİŞ	(ad) Önlenmek işi veya biçimi
+ÖNLER	(eylem, önlemek sözcüğünün çekimi) bir şeyin olmasına veya yapılmasına engel olmak
+ÖNLEYİCİ	(sıfat) önlemek veya engel olmak amacıyla yapılmış
+ÖNLEYİCİLİK	(ad) Önleyici olma durumu
+ÖNLEYİŞ	(ad) Önlemek işi veya biçimi
+ÖNLEÇ	(ad) Araçların bir yerden bir yere geçmesini önlemek için konulan parmaklık biçimindeki engel
+ÖNLÜK	(ad) herhangi bir iş genellikle de yemek yaparken giysi kirlenmesin diye giyilen, boyundan askılı ve bele bağlanan örtü, iş önlüğü
+ÖNLÜKLER	(ad, önlük sözcüğünün çekimi) herhangi bir iş genellikle de yemek yaparken giysi kirlenmesin diye giyilen, boyundan askılı ve bele bağlanan örtü, iş önlüğü
+ÖNLÜKLÜ	(sıfat) Önlük giymiş olan
+ÖNLÜKLÜK	(sıfat) Önlük yapmaya elverişi (kumaş)
+ÖNLÜĞÜ	(ad, önlük sözcüğünün çekimi) herhangi bir iş genellikle de yemek yaparken giysi kirlenmesin diye giyilen, boyundan askılı ve bele bağlanan örtü, iş önlüğü
+ÖNMAYMUN	(ad) Lemurları, lorisleri, galagoları ve tarsiyerleri kapsayan, çoğunluğu noktürnal ilkel primat grubunun üyelerinden her biri.
+ÖNOLOJİ	(ad) Şaraplarla ilgilenen bilim dalı
+ÖNSEL	(sıfat) Hiçbir denemeye dayanmayan ve akıl yordamıyla bulunup ortaya konan.
+ÖNSELLİK	(ad) önsel olma durumu
+ÖNSEZİ	(ad) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLER	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERE	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİ	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİM	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİME	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİN	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİNDEN	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİNE	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİLERİNİ	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİM	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİSİ	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSEZİYE	(ad, önsezi sözcüğünün çekimi) hiçbir belirti yokken bir şeyin olacağını sezme, içe doğma, hissikablelvuku, altıncı duygu, altıncı his
+ÖNSUÇLU	(sıfat) Geçmişte işlenmiş, mahkemece ispatlanıp cezalandırılmış olan suça sahip olan
+ÖNSÜZ	(sıfat) Önü, başlangıcı olmayan.
+ÖNTEST	(ad) Denenmesi istenen şeyin önceden değerlendirilmesi, ölçülmesi
+ÖNYARGI	(ad) Bir birey ya da grup hakkındaki önceden edinilen, yeni bilginin ortaya çıkması halinde bile değişmeye direnç gösteren düşüncelerin benimsenmesi.
+ÖNYARGILAR	(ad, önyargı sözcüğünün çekimi) Bir birey ya da grup hakkındaki önceden edinilen, yeni bilginin ortaya çıkması halinde bile değişmeye direnç gösteren düşüncelerin benimsenmesi.
+ÖNYARGIYI	(ad, önyargı sözcüğünün çekimi) Bir birey ya da grup hakkındaki önceden edinilen, yeni bilginin ortaya çıkması halinde bile değişmeye direnç gösteren düşüncelerin benimsenmesi.
+ÖNYÜKLEYİCİ	(ad) Bilgisayar açıldığında, işletim sisteminin açılma işlemini başlatan küçük yazılım.
+ÖNÖRGÜ	(ad) sanatçının, gereken şekil ve süslerle doldurarak eseri meydana getirmek üzere saptadığı çatı.
+ÖNÜ	(ad) çocukları korkutmak amacıyla söylenen hayali yaratık, umacı, cin, peri
+ÖNÜNDEN	(zarf) ...-den biraz önce
+ÖNÜRDEŞ	(ad) rakip
+ÖNÜRDEŞME	(ad) rekabet
+ÖNÜRME	(ad) ilerleme, gelişme, terakki
+ÖNÜRMEK	(eylem) ilerlemek, gelişmek
+ÖNÜT	(ad) üstat
+ÖPECEKSİN	(eylem, öpmek sözcüğünün çekimi) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPECEĞİM	(eylem, öpmek sözcüğünün çekimi) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPEN	(eylem, öpmek sözcüğünün çekimi) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPER	(eylem, öpmek sözcüğünün çekimi) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPME	(ad) öpmek işi
+ÖPMEK	(eylem) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPMEME	(ad) öpmemek işi
+ÖPMEYİ	(ad, öpme sözcüğünün çekimi) öpmek işi
+ÖPTÜRME	(ad) Öptürmek işi
+ÖPTÜRMEK	(eylem) Öpmek işini yaptırmak veya öpmesine izin vermek
+ÖPÜCÜK	(ad) öpme, öpüş
+ÖPÜCÜKLER	(ad, öpücük sözcüğünün çekimi) öpme, öpüş
+ÖPÜCÜĞÜ	(ad, öpücük sözcüğünün çekimi) öpme, öpüş
+ÖPÜLME	(ad) Öpülmek işi
+ÖPÜLMEK	(eylem) Öpmek işine konu olmak
+ÖPÜN	(eylem, öpmek sözcüğünün çekimi) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPÜYORUM	(eylem, öpmek sözcüğünün çekimi) sevgi saygı bağlılık teşekkür belirtmek ereğiyle dudakları bir kimseye ya da şeye değdirmek
+ÖPÜŞ	(ad) öpmek işi veya biçimi
+ÖPÜŞME	(ad) Öpüşmek işi
+ÖPÜŞMEK	(eylem) Birbirini öpmek
+ÖPÜŞMELER	(ad, öpüşme sözcüğünün çekimi) Öpüşmek işi
+ÖPÜŞMEYİ	(ad, öpüşme sözcüğünün çekimi) Öpüşmek işi
+ÖPÜŞÜR	(eylem, öpüşmek sözcüğünün çekimi) Birbirini öpmek
+ÖPÜŞÜYORUM	(eylem, öpüşmek sözcüğünün çekimi) Birbirini öpmek
+ÖRCİN	(ad) İp merdiven
+ÖRDEK	(ad) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKBAŞI	(ad) Yeşille lacivert arası renk.\n(sıfat) Bu renkte olan.
+ÖRDEKGAGASI	(ad) Açık turuncu renk.\n(sıfat) Bu renkte olan.
+ÖRDEKGİLLER	(ad) kazsılar takımından, sulak alanlarda yaşayan kuşları içeren bir kuş familyası
+ÖRDEKLER	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKLERDEN	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKLERE	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKLERİ	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKLERİN	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKLERİNİ	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEKTEN	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEĞE	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEĞİ	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEĞİM	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEĞİN	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖRDEĞİNİ	(ad, ördek sözcüğünün çekimi) Perde ayaklılardan, evcil ve yabani türleri bulunan su kuşu, (Anas)
+ÖREK	(ad) Duvar
+ÖREKE	(ad) Yün, pamuk, keten eğirirken kullanılan bir ucu çatal değnek.
+ÖRELEMEK	(eylem) Dolambaçlı, anlamsız ve yersiz konuşmak
+ÖREN	(ad) Ait olduğu eski uygarlık hakkında fikir edinmemizi sağlayan kültür ve tabiat kalıntılarından oluşan alan.
+ÖRER	(eylem, örmek sözcüğünün çekimi) iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak
+ÖRF	(ad) anane, gelenek
+ÖRFİ	(sıfat) Örfle ilgili
+ÖRGE	(ad) motif
+ÖRGEN	(ad) organ.
+ÖRGENSEL	(ad) organik.
+ÖRGÜ	(ad) Örme işi veya biçimi.\n(sıfat) Örülerek yapılan; örme
+ÖRGÜCÜ	(ad) Örgü örüp satan kimse.
+ÖRGÜLEMEK	(eylem) örgü durumuna getirmek
+ÖRGÜLER	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.\n(eylem, örgülemek sözcüğünün çekimi) örgü durumuna getirmek
+ÖRGÜLERE	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜLERİ	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜLERİN	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜLERİNİ	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜLÜ	(sıfat) Örgüsü olan, örgü biçiminde bulunan
+ÖRGÜN	(sıfat) Bir işi gerçekleştirmek amacıyla türlü ve düzenli görevler yapan organlardan oluşan.
+ÖRGÜSÜ	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜSÜNÜ	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜSÜNÜN	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜSÜZ	(sıfat) Örgüsü olmayan
+ÖRGÜT	(ad) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTE	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLEME	(ad) Kişileri bir araya getirerek bir amaç için çalışmasını sağlamak.
+ÖRGÜTLEMEK	(eylem) Belli bir işin gereği gibi görülebilmesi için örgüt kurmak, teşkilâtlandırmak
+ÖRGÜTLENDİRİLMEK	(eylem) Örgütlendirmek işi yapılmak, teşkilâtlandırılmak
+ÖRGÜTLENME	(ad) Örgütlenmek işi, teşkilatlanma
+ÖRGÜTLENMEK	(eylem) Örgütlemek işine konu olmak, teşkilâtlanmak
+ÖRGÜTLER	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat\n(eylem, örgütlemek sözcüğünün çekimi) Belli bir işin gereği gibi görülebilmesi için örgüt kurmak, teşkilâtlandırmak
+ÖRGÜTLERE	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLERİ	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLERİN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLERİNDEN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLERİNE	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLERİNİ	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLERİNİN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTLÜ	(sıfat) Örgütlenmiş olan, teşkilatlı
+ÖRGÜTSEL	(sıfat) Örgütle ilgili
+ÖRGÜTSÜZ	(sıfat) Örgütlenmiş olmayan, teşkilatsız
+ÖRGÜTSÜZLÜK	(ad) Herhangi bir örgütlenmenin bulunmaması durumu
+ÖRGÜTTE	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTTEN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÇÜLÜK	(ad) Örgüt kurma işi, teşkilâtçılık
+ÖRGÜTÜ	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜMÜZ	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜMÜZÜN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜNDE	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜNDEN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜNE	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜNÜ	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜNÜN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜTÜNÜZÜN	(ad, örgüt sözcüğünün çekimi) Ortak bir amaç veya işi gerçekleştirmek için bir araya gelmiş kurumların veya kişilerin oluşturduğu birlik; teşekkül, teşkilat
+ÖRGÜYE	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRGÜYÜ	(ad, örgü sözcüğünün çekimi) Örme işi veya biçimi.
+ÖRK	(ad) hayvanları bağlamaya yarayan kalın ip, örük
+ÖRKLEME	(ad) Örklemek işi veya durumu
+ÖRKÜNMEK	(eylem) Taklit etmek
+ÖRME	(ad) örmek işi\n(sıfat) örülerek yapılan
+ÖRMEK	(eylem) iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak
+ÖRMEYİ	(ad, örme sözcüğünün çekimi) örmek işi
+ÖRNEK	(ad) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.\n(sıfat) En iyi biçimde olan.
+ÖRNEKLEM	(ad) bir araştırmada bütünü anlamak için bütünden seçilen araştırma tekniklerinin uygulanacağı grup
+ÖRNEKLEME	(ad) örneklemek işi
+ÖRNEKLEMEK	(eylem) Örnek vermek
+ÖRNEKLENDİRME	(ad) Örneklendirmek işi veya durumu
+ÖRNEKLENDİRMEK	(eylem) Örneklerle göstermek, örneklerle açıklamak
+ÖRNEKLENME	(ad) Örneklenmek işi veya durumu
+ÖRNEKLENMEK	(eylem) Örnek verilmek
+ÖRNEKLER	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.\n(eylem, örneklemek sözcüğünün çekimi) Örnek vermek
+ÖRNEKLERDE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERDEN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİMİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİMİZİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİNDE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİNDEN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİNE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİNİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLERİNİN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKLİ	(sıfat) örnek olduğu hâlde
+ÖRNEKLİK	(sıfat) örnek olarak ayrılmış bulunan, numunelik
+ÖRNEKSEME	(ad) örneksemek işi
+ÖRNEKSEMEK	(eylem) örnek olarak almak
+ÖRNEKSİZ	(sıfat) örnek olmadığı hâlde
+ÖRNEKTE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKTEN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEKÇELEME	(ad) Bir olgu ya da bir süreci ayırıcı özelliklerine dayanarak soyut bir kalıp içinde biçimlendirme.
+ÖRNEĞE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİM	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİMİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİMİZ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİN	(edat) mesela, söz gelişi
+ÖRNEĞİNDE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİNDEN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİNE	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİNİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİNİN	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİNİZ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRNEĞİNİZİ	(ad, örnek sözcüğünün çekimi) İncelemek veya denemek üzere insan ve hayvan vücudunun, bitkinin veya nesnenin herhangi bir yerinden alınan doku parçası.
+ÖRS	(ad) biçimleri yapılacak işe göre değişen, üzerinde maden dövülen, çelik yüzeyli, demir araç
+ÖRSELEME	(ad) Örselemek işi
+ÖRSELEMEK	(eylem) Yıpratmak, eskitmek, hırpalamak, zedelemek
+ÖRSELENME	(ad) Örselenmek işi
+ÖRSELENMEK	(eylem) örseleme işine konu olmak
+ÖRSELENİŞ	(ad) Örselenmek işi veya biçimi
+ÖRSELETMEK	(eylem) örseleme işini yaptırmak
+ÖRSELEYİŞ	(ad) Örselemek işi veya biçimi
+ÖRSÇÜ	(ad) Örs yapan veya satan kimse
+ÖRSÜN	(ad) (Havza ağzı) Hamur tahtasını kazımaya yarayan araç.
+ÖRT	(eylem, örtmek sözcüğünün çekimi) korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak
+ÖRTBAS	(ad) "Bir durumun, bir olayın duyulmamasını, yayılmamasını sağlayan önlemler almak" anlamındaki örtbas etmek ve "bir durum, bir olay duyulmamak, yayılmamak" anlamındaki örtbas olmak deyimlerinde geçer
+ÖRTBASI	(ad, örtbas sözcüğünün çekimi) "Bir durumun, bir olayın duyulmamasını, yayılmamasını sağlayan önlemler almak" anlamındaki örtbas etmek ve "bir durum, bir olay duyulmamak, yayılmamak" anlamındaki örtbas olmak deyimlerinde geçer
+ÖRTENEK	(ad) Hayvanların vücudunu örten deri, kıl, tüy, pul vb. dokuların bütünü.
+ÖRTER	(eylem, örtmek sözcüğünün çekimi) korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak
+ÖRTLEK	(ad) Korkak (Dodurga *Bozüyük -Bilecik, Sarıkavak -Eskişehir, *Çarşamba -Samsun, *Fatsa, *Ünye, Kuz *Akkuş, Bayadı -Ordu, *Görele, Küçüklü *Bulancak -Giresun, Çanıllı *Ayaş -Ankara *Mut köyleri -İçel)
+ÖRTME	(ad) başörtüsü
+ÖRTMECE	(ad) söylenmesi kaba, çirkin veya sakıncalı görülen nesnelerin, kavramların, başka kelimelerle daha uygun ve edepli bir biçimde anlatılması, edebikelam
+ÖRTMEK	(eylem) korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak
+ÖRTMEM	(ad, örtme sözcüğünün çekimi) başörtüsü
+ÖRTMEME	(ad) örtmemek işi
+ÖRTMEN	(ad, örtme sözcüğünün çekimi) başörtüsü
+ÖRTMESİ	(ad, örtme sözcüğünün çekimi) başörtüsü
+ÖRTMEYE	(ad, örtme sözcüğünün çekimi) başörtüsü
+ÖRTMEYİ	(ad, örtme sözcüğünün çekimi) başörtüsü
+ÖRTTÜRMEK	(eylem) Örtmek işini yaptırmak
+ÖRTÜ	(ad) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜK	(sıfat) Örtülü, kapalı
+ÖRTÜLER	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜLERİ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜLERİN	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜLERİNİ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜLME	(ad) örtülmek işi
+ÖRTÜLMEK	(eylem) Örtme işine konu olmak
+ÖRTÜLÜ	(zarf) açıklama yapmadan, belli belirsiz bir biçimde, müphem\n(sıfat) örtülmüş olan
+ÖRTÜM	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜMÜ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜN	(eylem, örtmek sözcüğünün çekimi) korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak\n(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜNME	(ad) örtünmek işi
+ÖRTÜNMEK	(eylem) Kendi üzerine bir şey örtmek:
+ÖRTÜNMEME	(ad) örtünmemek işi
+ÖRTÜNÇ	(sıfat) müphem
+ÖRTÜNÜ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜNÜN	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet\n(eylem, örtünmek sözcüğünün çekimi) Kendi üzerine bir şey örtmek:
+ÖRTÜSÜ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜSÜNDE	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜSÜNDEN	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜSÜNE	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜSÜNÜ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜSÜNÜN	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜSÜZ	(sıfat) örtüsü olmayan;örtülmemiş olan
+ÖRTÜYE	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜYÜ	(ad, örtü sözcüğünün çekimi) Örtmek için kullanılan şey; destar, kuvertür, vualet
+ÖRTÜŞ	(ad) Örtmek işi veya biçimi
+ÖRTÜŞME	(ad) Örtüşmek durumu veya biçimi
+ÖRTÜŞMEK	(eylem) Aynı noktalarda ve düzlemlerde kesişmek
+ÖRTÜŞÜM	(ad) Dalga işlevlerinin birer kesimleri ile birbirlerini örtecek biçimde üst üste gelmesi.
+ÖRÜ	(ad) Örme işi.
+ÖRÜCÜ	(ad) Örme işi yapan kimse
+ÖRÜCÜLÜK	(ad) Örücünün yaptığı iş
+ÖRÜK	(ad) örülmüş olan yer
+ÖRÜKLEME	(ad) Örüklemek işi veya durumu
+ÖRÜKLEMEK	(eylem) Örklemek
+ÖRÜKLÜ	(ad) örüklenmiş bulunan
+ÖRÜLME	(ad) Örülmek işi
+ÖRÜLMEK	(eylem) örme işi yapılmak
+ÖRÜLÜ	(sıfat) örülmüş olan
+ÖRÜLÜŞ	(ad) örülmek fiili veya tarzı
+ÖRÜM	(ad) Sürünün gece veya sabaha karşı otlaması
+ÖRÜMCE	(ad) örümcek
+ÖRÜMCEK	(ad) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEKLENME	(ad) Örümceklenmek işi
+ÖRÜMCEKLENMEK	(eylem) (bir yer) Örümcek ağlarıyla dolmak
+ÖRÜMCEKLER	(ad) Örümceğin çoğulu
+ÖRÜMCEKLERDEN	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEKLERE	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEKLERİ	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)\n(ad, örümcekler sözcüğünün çekimi) Örümceğin çoğulu
+ÖRÜMCEKLERİN	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEKLİ	(ad) Bakımsız
+ÖRÜMCEKSİ	(sıfat) Örümcek ağı gibi ince ve seyrek dokulu olan
+ÖRÜMCEKTEN	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEĞE	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEĞİ	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEĞİM	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEĞİMSİLER	(ad) Karada yaşayan akrepler, örümcekler, keneler ve uyuz böceklerini içine alan, dört çift ayaklı eklem bacaklılar sınıfı
+ÖRÜMCEĞİN	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜMCEĞİNİN	(ad, örümcek sözcüğünün çekimi) Örümcekler takımından, ince bir ağ örerek küçük böcekleri avlayan eklemli bir hayvan; örümce (Araneae)
+ÖRÜN	(ad) (Samsun ağzı) Sürünün gece otlaması.
+ÖRÜNTÜ	(ad) Olay veya nesnelerin düzenli bir biçimde birbirini takip ederek gelişmesi.
+ÖRÜNTÜLER	(ad, örüntü sözcüğünün çekimi) Olay veya nesnelerin düzenli bir biçimde birbirini takip ederek gelişmesi.
+ÖRÜNTÜLERİ	(ad, örüntü sözcüğünün çekimi) Olay veya nesnelerin düzenli bir biçimde birbirini takip ederek gelişmesi.
+ÖRÜT	(ad) (Kayseri ağzı) Sürünün gece otlaması.
+ÖRÜŞ	(ad) Örmek işi veya biçimi
+ÖSTAKİ	(ad) östaki borusu.
+ÖSTROJEN	(ad) Omurgalılarda östrus oluşturan bir grup steroit hormon
+ÖTANAZİ	(ad) ölme hakkı
+ÖTE	(ad) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.\n(sıfat) Bulunulan yere göre karşı yanda olan.
+ÖTEBERİ	(ad) önemsiz, ufak tefek şeyler
+ÖTECEK	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTEDE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEDEN	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEKİ	(zamir) diğeri, öbürü\n(sıfat) sözü edilen veya benzer iki nesneden önem ve konum bakımından uzakta olan
+ÖTEKİLEŞMEK	(eylem) ötekileşme işini yapmak
+ÖTEKİLEŞTİRMEK	(eylem) ötekileştirme işini yapmak
+ÖTEKİSİ	(zamir) Ötede bulunan, diğeri, başkası
+ÖTELEME	(ad) Ötelemek] işi.
+ÖTELEMEK	(eylem) Bir cismi kendi yerinden başka bir yöne sürüklememek.
+ÖTELENME	(ad) Ötelenmek işi.
+ÖTELER	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.\n(eylem, ötelemek sözcüğünün çekimi) Bir cismi kendi yerinden başka bir yöne sürüklememek.
+ÖTELERE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEMDE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEMİZDE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEN	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTENDE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEPÜ	(ad) meme
+ÖTER	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTERSE	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTERİM	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTESİ	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTESİN	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTESİNDE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTESİNDEN	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTESİNE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTESİNİ	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTESİNİN	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEYDİ	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTEYDİK	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTEYE	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEYİ	(ad, öte sözcüğünün çekimi) Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey.
+ÖTEYİM	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTLEĞEN	(ad) ötleğengillerden, kızıla çalan sarı, boz renkli ötücü kuş, akgerdanlı ötleğen
+ÖTLEĞENGİLLER	(ad) ötücü kuşlar takımının bir familyası
+ÖTLEĞİ	(ad) Bir cins kartal
+ÖTME	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMEDİ	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMEK	(eylem) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMEYE	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMEYECEK	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMEZ	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMEZSE	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMÜYOR	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTMÜŞ	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTRE	(ad) Arap alfabesinde üzerine geldiği ünlünün -ü ya da -u ile birlikte okunmasını sağlayan işaret. ُ
+ÖTROFİKASYON	(ad) Bir su kaynağında bitki besin tuzlarının artışına bağlı olarak sucul bitkilerin aşırı çoğalmasıyla şekillenen kirlilik.
+ÖTSÜN	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTTÜ	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTTÜN	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTTÜRMEK	(eylem) Ötmesini sağlamak veya ses çıkartmak
+ÖTÜCÜ	(sıfat) güzel öten, ötüşü güzel olan
+ÖTÜCÜLÜK	(ad) Ötücü olma durumu
+ÖTÜMLÜ	(sıfat) tonlu.
+ÖTÜMLÜLEŞME	(ad) ötümlüleşmek işi
+ÖTÜMLÜLÜK	(ad) Ötümlü olma durumu
+ÖTÜMSÜZ	(ad) tonsuz.
+ÖTÜMSÜZLEŞME	(ad) Ötümsüzleşmek işi veya durumu
+ÖTÜMSÜZLEŞMEK	(eylem) Ötümsüz duruma gelmek
+ÖTÜMSÜZLÜK	(ad) Ötümsüz olma durumu
+ÖTÜRME	(ad) Ötürmek işi veya durumu
+ÖTÜRMEK	(eylem) ishal olmak.
+ÖTÜRÜ	(ad) Bir şeyden dolayı, bir şey yüzünden.
+ÖTÜRÜK	(ad) ishal
+ÖTÜRÜKLÜ	(sıfat) Ishalli, amel olmuş (insan veya hayvan)
+ÖTÜYOR	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTÜYORDU	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTÜYORLAR	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTÜYORSUN	(eylem, ötmek sözcüğünün çekimi) kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+ÖTÜŞ	(ad) Ötme işi.
+ÖTÜŞME	(ad) Ötüşmek işi
+ÖTÜŞMEK	(eylem) Birlikte veya karşılıklı ötmek
+ÖTÜŞÜ	(ad, ötüş sözcüğünün çekimi) Ötme işi.
+ÖVEN	(eylem, övmek sözcüğünün çekimi) birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena etmek, yermek karşıtı
+ÖVER	(eylem, övmek sözcüğünün çekimi) birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena etmek, yermek karşıtı
+ÖVEYANA	(ad) ısırdığı zaman çok acıtan, ince, karıncaya benzeyen bir böcek
+ÖVEÇ	(ad) İki üç yaşındaki erkek koyun.
+ÖVGÜ	(ad) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜCÜ	(ad) birini veya bir şeyi öven kimse, övücü
+ÖVGÜCÜLÜK	(ad) Övgücü olma durumu
+ÖVGÜLER	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLERE	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLERİ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLERİMİ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLERİN	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLERİNİ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLERİNİZ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜLÜ	(ad) Övgü niteliği taşıyan.
+ÖVGÜSÜ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜSÜNÜ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜYE	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVGÜYÜ	(ad, övgü sözcüğünün çekimi) birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye
+ÖVME	(ad) Övmek eylemi
+ÖVMEK	(eylem) birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena etmek, yermek karşıtı
+ÖVMEYE	(ad, övme sözcüğünün çekimi) Övmek eylemi
+ÖVMEYİ	(ad, övme sözcüğünün çekimi) Övmek eylemi
+ÖVRET	(ad) Kadın,eş
+ÖVÜCÜ	(ad) birini veya bir şeyi öven kimse, övgücü\n(sıfat) övgücü
+ÖVÜCÜLÜK	(ad) Övücü olma durumu
+ÖVÜLME	(ad) Övülmek işi
+ÖVÜLMEK	(eylem) Övmek işine konu olmak
+ÖVÜLMEYE	(ad, övülme sözcüğünün çekimi) Övülmek işi
+ÖVÜLÜŞ	(ad) Övülmek işi veya biçimi
+ÖVÜN	(eylem, övünmek sözcüğünün çekimi) bir niteliği sebebiyle kendini yücelmiş sayarak bundan abartmalı bir biçimde söz etmek, iftihar etmek
+ÖVÜNCE	(ad) övünç kaynağı.
+ÖVÜNDÜRÜCÜ	(ad) Övünmeye sebep olan, övünmeyi sağlayan
+ÖVÜNDÜRÜCÜLÜK	(ad) Övündürücü olma durumu
+ÖVÜNEK	(ad) Övünülecek şey, övünç kaynağı veya sebebi
+ÖVÜNGEN	(sıfat) çok övünen, farfara
+ÖVÜNGENLİK	(ad) Çok övünme durumu
+ÖVÜNME	(ad) övünmek eylemi, kıvanç
+ÖVÜNMEK	(eylem) bir niteliği sebebiyle kendini yücelmiş sayarak bundan abartmalı bir biçimde söz etmek, iftihar etmek
+ÖVÜNMEYİ	(ad, övünme sözcüğünün çekimi) övünmek eylemi, kıvanç
+ÖVÜNTÜ	(ad) Övünülecek tutum veya davranış
+ÖVÜNÇ	(ad) övünme, kıvanç, iftihar
+ÖVÜNÜR	(sıfat) övünmek eylemin durum ortacı
+ÖVÜŞ	(ad) Övmek eylemi ya da biçimi.
+ÖYKÜ	(ad) Ayrıntılarıyla anlatılan olay.
+ÖYKÜCÜ	(ad) hikâyeci
+ÖYKÜCÜK	(ad) eğitimsel ve öğretimsel amaçlarla, ilginç tarihsel kişi, olay ve çağlardan söz eden küçük öykü türü, hikâyecik
+ÖYKÜCÜLÜK	(ad) hikâyecilik
+ÖYKÜDE	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜDEN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLEME	(ad) Tahkiye
+ÖYKÜLEMEK	(eylem) Tahkiye etmek
+ÖYKÜLER	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.\n(eylem, öykülemek sözcüğünün çekimi) Tahkiye etmek
+ÖYKÜLERDEN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLERE	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLERİ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLERİN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLERİNDEN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLERİNE	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLERİNİ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜLEŞTİRMEK	(eylem) Öykü durumuna getirmek
+ÖYKÜM	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜMÜ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜMÜZ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜMÜZÜN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.\n(eylem, öykünmek sözcüğünün çekimi) birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+ÖYKÜNCE	(ad) fabl
+ÖYKÜNME	(ad) Öykünmek işi, taklit
+ÖYKÜNMECİ	(ad) Öykünen, benzemeye çalışan, taklitçi kimse
+ÖYKÜNMECİLİK	(ad) Öykünmeci olma durumu
+ÖYKÜNMEK	(eylem) birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+ÖYKÜNTÜ	(ad) Sanatta başka bir sanatçının üslubunun veya yöntemlerinin kullanılması, pastiş, benzek
+ÖYKÜNÜ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜNÜCÜ	(ad) Birinin yaptığı gibi yapan, birine ya da bir şeye benzemeye çalışan.
+ÖYKÜNÜCÜLÜK	(ad) öykünücü olma durumu, özenticilik, taklitçilik
+ÖYKÜNÜM	(ad) Belli bir bilgisayar için yazılmış izlencelerle başka bir bilgisayarı kullanma olanağı sağlayan teknik. Bir bilgisayar dizgesinin, sanki başka bir bilgisayar dizgesine öykünerek, onun için hazırlanmış veri ve izlencelerle, değişik sürede de olsa, özdeş sonuçlar vermesini sağlayan teknik
+ÖYKÜNÜN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.\n(eylem, öykünmek sözcüğünün çekimi) birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+ÖYKÜNÜZ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜNÜZÜ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜSÜ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜSÜNDE	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜSÜNDEN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜSÜNE	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜSÜNÜ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜSÜNÜN	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜYE	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYKÜYÜ	(ad, öykü sözcüğünün çekimi) Ayrıntılarıyla anlatılan olay.
+ÖYLE	(zarf) o yolda, o biçimde, o tarzda\n(sıfat) onun gibi olan, ona benzer
+ÖYLECE	(zarf) O biçimde, tam öyle
+ÖYLELİKLE	(zarf) O yoldan, o biçimde, sonunda, öylece
+ÖYLEMESİNE	(zarf) Öylesine
+ÖYLESİ	(sıfat) Ona benzer, onun gibisi
+ÖYLESİNE	(zarf) Aşırı bir biçimde, fazla, o kadar çok, o derece; öylemesine, usulden.
+ÖYLEYSE	(zarf) o hâlde
+ÖZALINTI	(ad) Bir kimsenin kendi yapıtlarından, söyleminden yaptığı alıntı.
+ÖZARINMA	(ad) Sularda organik kirlenmenin mineralleşmesiyle sonuçlanan biyolojik arınma.
+ÖZAĞIRLIK	(ad) özgül ağırlık
+ÖZAŞI	(ad) Gelişmekte olan enfeksiyonu yaratan mikrobun kültüründen elde edilen aşı.
+ÖZBESLENEN	(sıfat) besinini bağımsız olarak sağlayan, inorganik azot, azotlu madde ve CO2'den protein ve karbonhidratların sentezini yapabilen (bitki), kendi beslek, ototrof
+ÖZBEÖZ	(sıfat) gerçek, öz
+ÖZCESİ	(zarf) Sözün özü, özet olarak, kısacası, sözün kısası.
+ÖZDEK	(ad) duyularla algılanabilen, bölünebilen, ağırlığı olan nesne, madde
+ÖZDEKSEL	(sıfat) özdekle ilgili, tinsel karşıtı, maddi
+ÖZDEKÇİ	(sıfat) materyalist, maddeci
+ÖZDEKÇİLİK	(ad) her şeyin maddeden oluştuğunu ve bilinç de dahil olmak üzere bütün görüngülerin maddi etkileşimler sonucu oluştuğunu öne süren, a priori olan hiçbir metafiziksel kavramı kabul etmeyen felsefe kuramı materyalizm
+ÖZDEN	(ad) Timüs\n(sıfat) Özle, öz varlıkla, gerçekle ilgili.
+ÖZDENLİK	(ad) Özden olma durumu
+ÖZDEVİNİM	(ad) otomasyon
+ÖZDEYİŞ	(ad) Bir düşünceyi, bir duyguyu, bir ilkeyi kısa ve kesin bir biçimde anlatan, genellikle kim tarafından söylendiği bilinen özlü söz; vecize, ülger, kelamıkibar, aforizm, aforizma
+ÖZDEYİŞLER	(ad, özdeyiş sözcüğünün çekimi) Bir düşünceyi, bir duyguyu, bir ilkeyi kısa ve kesin bir biçimde anlatan, genellikle kim tarafından söylendiği bilinen özlü söz; vecize, ülger, kelamıkibar, aforizm, aforizma
+ÖZDEYİŞİ	(ad, özdeyiş sözcüğünün çekimi) Bir düşünceyi, bir duyguyu, bir ilkeyi kısa ve kesin bir biçimde anlatan, genellikle kim tarafından söylendiği bilinen özlü söz; vecize, ülger, kelamıkibar, aforizm, aforizma
+ÖZDEŞ	(sıfat) Her türlü nitelik bakımından eşit olan, ayırt edilmeyecek kadar benzer olan, aynı.
+ÖZDEŞLEME	(ad) Özdeşlemek işi
+ÖZDEŞLEMEK	(eylem) Özdeş duruma getirmek.
+ÖZDEŞLEŞME	(ad) Özdeşleşmek işi.
+ÖZDEŞLEŞMEK	(eylem) Özdeş duruma gelmek
+ÖZDEŞLEŞTİRME	(ad) Özdeşleştirmek işi.
+ÖZDEŞLEŞTİRMEK	(eylem) Özdeş duruma getirmek
+ÖZDEŞLİK	(ad) aynılık.
+ÖZDEŞTİRME	(ad) Özdeştirmek işi veya durumu
+ÖZDEŞTİRMEK	(eylem) Başka birinin ve bir grubun ölçülerini, beklentilerini benimsemek
+ÖZDİRENÇ	(ad) bir özdeğin birim niceliğinde görülen direnç
+ÖZE	(ad) Bir türde ya da bireyde bulunan, aynı cinsten başka hiçbir türde ya da bireyde rastlanılmayan
+ÖZEK	(ad) bir şeyin çevreden aynı uzaklıkta olan yeri, özek
+ÖZEL	(sıfat) Yalnız bir kişiye, bir şeye ait veya ilişkin olan.
+ÖZELADBİLİM	(ad) özel adları, özellikle kişi adlarını konu edinen bilim, onomastik
+ÖZELEMEK	(eylem) (Sivas ağzı) Yoğurdu karıştırarak ezmek
+ÖZELLEŞME	(ad) Özelleşmek işi
+ÖZELLEŞMEK	(eylem) Özel bir duruma gelmek
+ÖZELLEŞTİRME	(ad) özelleştirmek işi
+ÖZELLEŞTİRMEK	(eylem) bir şeyi özel duruma getirmek veya özel olarak kullanmak
+ÖZELLEŞTİRİLMEK	(eylem) bir şeyi kendine has hale getirmek
+ÖZELLEŞTİRİLMİŞ	(eylem, özelleştirilmek sözcüğünün çekimi) bir şeyi kendine has hale getirmek
+ÖZELLİK	(ad) Bir şeyin benzerlerinden veya başka şeylerden ayrılmasını sağlayan nitelik; hususiyet, hasiyet, hassa, mahsusluk, özgülük, spesiyalite
+ÖZELLİKLE	(zarf) Özel olarak, her şeyden önce.
+ÖZELLİKLER	(ad, özellik sözcüğünün çekimi) Bir şeyin benzerlerinden veya başka şeylerden ayrılmasını sağlayan nitelik; hususiyet, hasiyet, hassa, mahsusluk, özgülük, spesiyalite
+ÖZELLİKLİ	(sıfat) bir türün, bir olayın karakteristik yönünü veren, spesifik
+ÖZELLİĞİ	(ad, özellik sözcüğünün çekimi) Bir şeyin benzerlerinden veya başka şeylerden ayrılmasını sağlayan nitelik; hususiyet, hasiyet, hassa, mahsusluk, özgülük, spesiyalite
+ÖZELİK	(ad) herhangi bir durumu gösterebilme yeteneği
+ÖZEME	(ad) Özemek işi veya durumu
+ÖZEMEK	(eylem) Yoğurt, pekmez gibi koyu şeyleri suyla inceltmek, sulandırmak
+ÖZEN	(ad) işin elden geldiğince iyi olmasına çabalama, özenme, itina, ihtimam
+ÖZENDİRME	(ad) Özendirmek durumu, işi, teşvik
+ÖZENDİRMEK	(eylem) özenmesini sağlamak, teşvik etmek
+ÖZENGEN	(sıfat) amatör
+ÖZENGENLİK	(ad) özengen olma durumu, amatörlük
+ÖZENLE	(zarf) titizlik göstererek
+ÖZENLİ	(sıfat) özen gösterilerek yapılan, itinalı
+ÖZENMEK	(eylem) Beğendiği şeye benzemeye çalışmak, o şeyi yapmak için çaba göstermek
+ÖZENSİZ	(sıfat) özen gösterilmeyen, itinasız
+ÖZENSİZLİK	(ad) Özensiz olma durumu, itinasızlık
+ÖZENTİ	(ad) Benzemeye çalışmak
+ÖZENTİCİ	(ad) Birine veya bir şeye benzemeye çalışan
+ÖZENTİCİLİK	(ad) Özentici olma durumu
+ÖZENTİLER	(ad, özenti sözcüğünün çekimi) Benzemeye çalışmak
+ÖZENTİLİ	(sıfat) Özenti ile yapılan
+ÖZENTİSİZ	(sıfat) Özenti olmadan yapılan, özenti gösterilmeden yapılan, özenmeden yapılan
+ÖZENÇ	(ad) İstek
+ÖZENİ	(ad) Özenme işi
+ÖZENİLMEK	(eylem) Bir şeye özenti duyulmak.
+ÖZENİŞ	(ad) Özenmek eylemi ya da biçimi.
+ÖZER	(eylem, özemek sözcüğünün çekimi) Yoğurt, pekmez gibi koyu şeyleri suyla inceltmek, sulandırmak
+ÖZERK	(sıfat) Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş)
+ÖZERKLEŞME	(ad) Özerkleşmek işi veya durumu
+ÖZERKLEŞMEK	(eylem) Özerk duruma gelmek
+ÖZERKLEŞTİRME	(ad) Özerkleştirmek işi veya durumu
+ÖZERKLEŞTİRMEK	(eylem) Özerk duruma getirmek, özerklik vermek
+ÖZERKLİK	(ad) bir topluluğun, bir kuruluşun ayrı bir yasaya bağlı olarak kendi kendini yönetme, hakkı muhtariyet, muhtariyet, otonomi
+ÖZET	(ad) bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz, hülasa, fezleke, ekspoze.
+ÖZETLEME	(ad) Özetlemek işi
+ÖZETLEMEK	(eylem) yazı veya sözü daha az sözle, daha kısa bir biçimde anlatmak, özünü vermek, kısaltmak, hulâsa etmek
+ÖZETLENME	(ad) Özetlenmek işi
+ÖZETLENMEK	(eylem) Özet durumuna getirilmek, hulâsa edilmek
+ÖZETLER	(ad, özet sözcüğünün çekimi) bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz, hülasa, fezleke, ekspoze.\n(eylem, özetlemek sözcüğünün çekimi) yazı veya sözü daha az sözle, daha kısa bir biçimde anlatmak, özünü vermek, kısaltmak, hulâsa etmek
+ÖZETİ	(ad, özet sözcüğünün çekimi) bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz, hülasa, fezleke, ekspoze.
+ÖZEZER	(ad) Aşağılanmaktan, kendisine eziyet edilmesinden, ruhsal ya da fiziksel acı verilmesinden hoşlanan.
+ÖZEZERLİK	(ad) Fiziksel acı veya aşağılatıcı davranışlarla doyuma ulaşma biçiminde beliren cinsel sapkınlık.
+ÖZEĞİTİM	(ad) bir kişinin belli bir alanda kendini yetiştirmesi.
+ÖZGE	(sıfat) başka
+ÖZGECİ	(ad) Kişisel yarar gözetmeksizin başkasına yararlı olmaya çalışan (kimse)
+ÖZGECİL	(sıfat) Özgeci tutumu olan
+ÖZGECİLİK	(ad) Özgeci olma durumu
+ÖZGEÇMİŞ	(ad) bir kişinin kendisinin anlattığı yaşamı
+ÖZGEÇMİŞİ	(ad, özgeçmiş sözcüğünün çekimi) bir kişinin kendisinin anlattığı yaşamı
+ÖZGÖREV	(ad) Bir kimseye verilen görev
+ÖZGÜ	(sıfat) Birine, bir şeye ait olan.
+ÖZGÜDÜM	(ad) Devinebilen bir aracın, bir sürücü işe karışmadan verilen komuta bağlı kalarak kendi kendini yönetmesi.
+ÖZGÜDÜMLÜ	(sıfat) Kendi kendine devinebilen ve kendi kendini yöneten
+ÖZGÜL	(sıfat) bir türle ilgili, bir türe ilişkin
+ÖZGÜLEME	(ad) Özgülemek işi
+ÖZGÜLEMEK	(eylem) bir şey veya bir yeri birine, bir şeye ayırmak, vermek, hasretmek, tahsis etmek
+ÖZGÜLEYİŞ	(ad) bir nesneyi başka bir nesneye özgü kılma
+ÖZGÜLLÜK	(ad) Özgül olma durumu.
+ÖZGÜLÜK	(ad) özgü olma durumu, özellik
+ÖZGÜN	(sıfat) Bir buluş sonucu olan, nitelikleri bakımından benzerlerinden ayrı ve üstün olan.
+ÖZGÜNLEŞME	(ad) Özgünleşmek işi
+ÖZGÜNLEŞMEK	(eylem) Özgün duruma gelmek
+ÖZGÜNLEŞTİRME	(ad) Özgünleştirmek işi
+ÖZGÜNLEŞTİRMEK	(eylem) Özgün duruma getirmek.
+ÖZGÜNLÜK	(ad) Özgün olma durumu
+ÖZGÜNLÜĞÜ	(ad, özgünlük sözcüğünün çekimi) Özgün olma durumu
+ÖZGÜR	(sıfat) Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan.
+ÖZGÜRCE	(zarf) özgür bir biçimde.
+ÖZGÜRCESİNE	(zarf) özgürce
+ÖZGÜRLEŞME	(eylem, özgürleşmek sözcüğünün çekimi) Özgür duruma gelmek
+ÖZGÜRLEŞMEK	(eylem) Özgür duruma gelmek
+ÖZGÜRLEŞMİŞ	(eylem, özgürleşmek sözcüğünün çekimi) Özgür duruma gelmek
+ÖZGÜRLEŞTİRECEK	(eylem, özgürleştirmek sözcüğünün çekimi) Özgür duruma getirmek, özgür hâle gelmesini sağlamak
+ÖZGÜRLEŞTİRME	(eylem, özgürleştirmek sözcüğünün çekimi) Özgür duruma getirmek, özgür hâle gelmesini sağlamak
+ÖZGÜRLEŞTİRMEK	(eylem) Özgür duruma getirmek, özgür hâle gelmesini sağlamak
+ÖZGÜRLEŞTİRİR	(eylem, özgürleştirmek sözcüğünün çekimi) Özgür duruma getirmek, özgür hâle gelmesini sağlamak
+ÖZGÜRLEŞTİRİYOR	(eylem, özgürleştirmek sözcüğünün çekimi) Özgür duruma getirmek, özgür hâle gelmesini sağlamak
+ÖZGÜRLÜK	(ad) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLER	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERDEN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERİ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERİMİZİ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERİN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERİNE	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERİNİ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKLERİNİN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKTEN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜKÇÜ	(ad) Özgürlük yanlısı
+ÖZGÜRLÜKÇÜLÜK	(ad) Özgürlükçü olma durumu
+ÖZGÜRLÜĞE	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜM	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMDEN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜME	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜZ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜZDEN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜZE	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜZÜ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜMÜZÜN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNDEN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNE	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNÜ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNÜN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNÜZ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNÜZE	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNÜZÜ	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜRLÜĞÜNÜZÜN	(ad, özgürlük sözcüğünün çekimi) herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik
+ÖZGÜÇ	(ad) bilinen koşullara göre gerçekleşen ya da gizli kalan üretim ve satış gücü
+ÖZKIYIM	(ad) Bir kimsenin toplumsal ve ruhsal nedenlerin etkisi ile kendi yaşamına son vermesi, intihar
+ÖZKÜTLE	(ad) yoğunluk
+ÖZLE	(eylem, özlemek sözcüğünün çekimi) Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+ÖZLEM	(ad) bir kişiyi veya bir şeyi görme, kavuşma isteği, özlenti, hasret, tahassür
+ÖZLEME	(ad) Özlemek işi, iştiyak
+ÖZLEMEK	(eylem) Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+ÖZLEMEYİ	(ad, özleme sözcüğünün çekimi) Özlemek işi, iştiyak
+ÖZLEMLİ	(sıfat) Özlemi olan, özleyen, hasretli
+ÖZLEMİ	(ad, özlem sözcüğünün çekimi) bir kişiyi veya bir şeyi görme, kavuşma isteği, özlenti, hasret, tahassür
+ÖZLEMİM	(ad, özlem sözcüğünün çekimi) bir kişiyi veya bir şeyi görme, kavuşma isteği, özlenti, hasret, tahassür
+ÖZLEMİMİ	(ad, özlem sözcüğünün çekimi) bir kişiyi veya bir şeyi görme, kavuşma isteği, özlenti, hasret, tahassür
+ÖZLEMİN	(ad, özlem sözcüğünün çekimi) bir kişiyi veya bir şeyi görme, kavuşma isteği, özlenti, hasret, tahassür
+ÖZLEMİNİ	(ad, özlem sözcüğünün çekimi) bir kişiyi veya bir şeyi görme, kavuşma isteği, özlenti, hasret, tahassür
+ÖZLENME	(ad) Özlenmek işi
+ÖZLENMEK	(eylem) Özlemek işine konu olmak
+ÖZLENTİ	(ad) özlem
+ÖZLENTİLİ	(sıfat) Özlem taşıyan, özlem dolu
+ÖZLER	(eylem, özlemek sözcüğünün çekimi) Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+ÖZLETME	(ad) Özletmek işi
+ÖZLETMEK	(eylem) Özlemesine yol açmak
+ÖZLEYECEKSİN	(eylem, özlemek sözcüğünün çekimi) Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+ÖZLEYECEĞİM	(eylem, özlemek sözcüğünün çekimi) Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+ÖZLEYİŞ	(ad) Özlemek işi veya biçimi
+ÖZLEŞME	(ad) Özleşmek işi, arılaşma
+ÖZLEŞMEK	(eylem) Öz durumuna veya özlü bir duruma gelmek, arılaşmak
+ÖZLEŞTİRME	(ad) Özleştirmek işi, arılaştırma
+ÖZLEŞTİRMECİ	(ad) Özleştirmeden yana olan kimse, pürist.
+ÖZLEŞTİRMECİLİK	(ad) Bir dili yabancı ögelerden arıtarak arı, katışıksız bir duruma getirme ve kendi imkânlarıyla geliştirmeyi amaçlayan çalışma
+ÖZLEŞTİRMEK	(eylem) Öz durumuna getirmek, özlü durum kazandırmak, arılaştırmak
+ÖZLÜ	(sıfat) Özü olan, öz bölümü çokça olan
+ÖZLÜK	(ad) bir şeyin hâli, mahiyeti
+ÖZNE	(ad) cümlede bildirilen işi yapan, yüklemin bildirdiği durumu üzerine alan kimse veya şey, fail, süje
+ÖZNEL	(sıfat) özneye ilişkin olan, öznede oluşan, nesnelerin gerçeğine değil, ferdin düşünce ve duygularına dayanan, sübjektif
+ÖZNELCİ	(ad) Öznelcilik yanlısı, öznelciliği benimseyen ve savunan (kimse), sübjektivist
+ÖZNELCİLİK	(ad) Bütün bilgilerin özneye ilişkin ve değer yargılarının bireysel, öznel olduğunu ileri süren öğreti.
+ÖZNELLİK	(ad) bir yargının kişiye bağlı olarak değer biçilmesi için söylenmekte
+ÖZSEL	(sıfat) Öz ile ilgili
+ÖZSEN	(ad) Uygun, yerinde, yakışık alan.
+ÖZSEVER	(sıfat) Kendi benliğine bağlanan, hayran olan (kimse), narsist
+ÖZSEVERLİK	(ad) Kişinin kendi bedensel ve ruhsal benliğine karşı duyduğu hayranlık ve bağlılık, narsisizm
+ÖZSÜZ	(sıfat) Özü olmayan, öz bölümü çokça olmayan
+ÖZVEREN	(sıfat) Özverili.
+ÖZVERİ	(ad) bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için kendi yararlarından vazgeçme, fedakârlık
+ÖZVERİDE	(ad, özveri sözcüğünün çekimi) bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için kendi yararlarından vazgeçme, fedakârlık
+ÖZVERİLİ	(sıfat) Özveri ile davranan, özverisi olan.
+ÖZVERİLİLİK	(ad) Özverili olma durumu.
+ÖZVERİYİ	(ad, özveri sözcüğünün çekimi) bir amaç uğruna ya da gerçekleştirilmesi istenen herhangi bir şey için kendi yararlarından vazgeçme, fedakârlık
+ÖZYİNELEME	(ad) Bir yordamın kendini çağırabilme özelliği.
+ÖZÇEKİM	(ad) Genellikle cep telefonu kamerası ile kişinin çektiği kendi fotoğrafı.
+ÖZÜMLEME	(ad) özümlemek işi, yapım, temessül, temsil, asimilasyon, anabolizma, yadımlama karşıtı
+ÖZÜMLEMEK	(eylem) canlı varlıklar, dışarıdan aldıkları besinleri, değişikliğe uğratarak yeni bir birleşimle, organizmanın gereksinme duyduğu maddeler durumuna getirmek; temsil etmek
+ÖZÜMLENME	(ad) (besin için) Özümlemek işi
+ÖZÜMLENMEK	(eylem) Özümlemek işine konu olmak
+ÖZÜMSEME	(eylem, özümsemek sözcüğünün çekimi) özümlemek
+ÖZÜMSEMEK	(eylem) özümlemek
+ÖZÜMSENME	(ad) Özümsenmek işi veya durumu
+ÖZÜMSENMEK	(eylem) Özümlenmek
+ÖZÜN	(ad) düzen
+ÖZÜNLÜ	(sıfat) bir şeyin aslında ya da gerçeğinde olan, ilinekle ilgili olmayıp özde bulunan, deruni, zatî
+ÖZÜNÜ	(ad, özün sözcüğünün çekimi) düzen
+ÖZÜR	(ad) bir kusurun hoş görülmesini gerektiren sebep, bir suçun elde olmadan yapıldığını ileri sürme, mazeret
+ÖZÜRLER	(ad, özür sözcüğünün çekimi) bir kusurun hoş görülmesini gerektiren sebep, bir suçun elde olmadan yapıldığını ileri sürme, mazeret
+ÖZÜRLÜ	(sıfat) Özrü olan
+ÖZÜRSÜZ	(zarf) Özrü olmayan
+ÖZÜRÜ	(ad, özür sözcüğünün çekimi) bir kusurun hoş görülmesini gerektiren sebep, bir suçun elde olmadan yapıldığını ileri sürme, mazeret
+ÖZÜT	(ad) Herhangi bir maddenin, alkol, eter gibi bir eriticiyle ayrılmış ya da başka bir yolla elde edilmiş özü, hulasa
+ÖZÜTLEME	(ad) katı veya sıvı halde bulunan bir bileşenin uygun bir çözücü kullanılarak karışmış olduğu diğer katı veya sıvı bileşenlerden ayrılma işlemi
+ÖZÜTSEL	(sıfat) Özütleme yoluyla elde edilmiş
+ÖZÜTÜ	(ad, özüt sözcüğünün çekimi) Herhangi bir maddenin, alkol, eter gibi bir eriticiyle ayrılmış ya da başka bir yolla elde edilmiş özü, hulasa
+ÖÇBE	(sıfat) Geveze, çok konuşan
+ÖÇLENME	(ad) Öçlenmek işi veya durumu
+ÖÇLENMEK	(eylem) Öç beslemek, öç ile dolu duruma gelmek, hınç beslemek, kin duymak
+ÖÇLÜ	(sıfat) kin ve intikam dolu, öç alma isteğinde olan
+ÖÇÜRMEK	(eylem) söndürmek
+ÖĞE	(ad) kimyasal çözümlerle ayrıştırılamayan ya da bireşim yoluyla elde edilemeyen özdek
+ÖĞELER	(ad, öğe sözcüğünün çekimi) kimyasal çözümlerle ayrıştırılamayan ya da bireşim yoluyla elde edilemeyen özdek
+ÖĞEÇ	(ad) İki yaşına girmiş koyun.
+ÖĞLE	(ad) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLEDEN	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLEN	(ad) öğle
+ÖĞLENCİ	(ad) ikili öğretim yapan okullarda öğleden sonra ders gören öğrenci, sabahçı karşıtı
+ÖĞLENDE	(zarf) Öğle vakti
+ÖĞLENDEN	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLENE	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLENLER	(ad, öğlen sözcüğünün çekimi) öğle
+ÖĞLENİ	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.\n(ad, öğlen sözcüğünün çekimi) öğle
+ÖĞLENİN	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLEYE	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLEYİ	(ad, öğle sözcüğünün çekimi) Güneşin gökyüzünde en yüksek noktada bulunduğu sabahla ikindi arasındaki zaman dilimi; gün ortası, öğlen, öğle vakti, nısfınnehar, zeval.
+ÖĞLEYİN	(zarf) öğle vakti
+ÖĞLEÜSTÜ	(zarf) Öğleye yakın bir zamanda
+ÖĞLEÜZERİ	(zarf) öğleüstü
+ÖĞRE	(ad) (Balıkesir ağzı) Eğitim
+ÖĞREK	(ad) Bir aygırın koruması altındaki kısrak sürüsü.
+ÖĞREN	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENCE	(ad) öğrenmek amacıyla benzerini yapma, simülasyon
+ÖĞRENCELİK	(ad) Öğrenme amacıyla ilk yapılan iş
+ÖĞRENCİ	(ad) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİDE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLER	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERDE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİM	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİME	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİZ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİZDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİZE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİZİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİMİZİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİZ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİZDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİZE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİZİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLERİNİZİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİLİK	(ad) öğrenci olma durumu, talebelik
+ÖĞRENCİM	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİMDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİME	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİMİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİMİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİMİZ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİMİZİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİMİZİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİNE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİNİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİNİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİNİZ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİNİZİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİSİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİSİNDEN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİSİNE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİSİNİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİSİNİN	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİYE	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENCİYİ	(ad, öğrenci sözcüğünün çekimi) Öğrenim görmek amacıyla ders alan kimse.
+ÖĞRENECEKSİN	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENECEKSİNİZ	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENECEĞİM	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENECEĞİZ	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENEN	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENME	(ad) öğrenmek işi
+ÖĞRENMEDE	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi
+ÖĞRENMEK	(eylem) bilgi edinmek, bellemek
+ÖĞRENMELERİ	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi
+ÖĞRENMELİK	(ad) Bir öğrenciye öğrenimini yapması veya bir kimsenin bilgi ve görgüsünü artırması için bir kuruluşça verilen para, burs
+ÖĞRENMELİYİM	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENMEM	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi\n(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENMEMEK	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENMENİN	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi
+ÖĞRENMESİ	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi
+ÖĞRENMEYE	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi
+ÖĞRENMEYİ	(ad, öğrenme sözcüğünün çekimi) öğrenmek işi
+ÖĞRENMİYOR	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENSEK	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENİK	(eylem) öğrenmiş
+ÖĞRENİLEN	(sıfat) birileri tarafından öğrenilmiş olan
+ÖĞRENİLME	(ad) öğrenilmek işi
+ÖĞRENİLMEK	(eylem) öğrenmek işi yapılmak
+ÖĞRENİLMEYEN	(sıfat) birileri tarafından öğrenilmiş olmayan
+ÖĞRENİLİR	(eylem, öğrenilmek sözcüğünün çekimi) öğrenmek işi yapılmak
+ÖĞRENİM	(ad) herhangi bir meslek, sanat veya iş için gerekli bilgi, beceri ve alışkanlıkların elde edilmesi amacıyla yapılan çalışma, tahsil, eğitim
+ÖĞRENİMLİ	(sıfat) Öğrenim görmüş, okumuş, tahsilli
+ÖĞRENİMİ	(ad, öğrenim sözcüğünün çekimi) herhangi bir meslek, sanat veya iş için gerekli bilgi, beceri ve alışkanlıkların elde edilmesi amacıyla yapılan çalışma, tahsil, eğitim
+ÖĞRENİN	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENİR	(eylem, öğrenmek sözcüğünün çekimi) bilgi edinmek, bellemek
+ÖĞRENİŞ	(ad) Öğrenmek işi veya biçimi
+ÖĞRET	(eylem, öğretmek sözcüğünün çekimi) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETECEKSİNİZ	(eylem, öğretmek sözcüğünün çekimi) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETECEĞİZ	(eylem, öğretmek sözcüğünün çekimi) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETME	(ad) öğretmek işi, tedris
+ÖĞRETMEDEN	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEK	(eylem) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETMELERİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEM	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEME	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEMİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEMİZ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEN	(ad) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENDEN	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris\n(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENE	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris\n(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENEVİ	(ad) Öğretmenlerin barınma, yemek, eğlence vb. gereksinimlerini karşılamak üzere yapılmış bina.
+ÖĞRETMENLER	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERDEN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERE	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİM	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİMDEN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİMİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİMİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİMİZ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİMİZDEN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİNDEN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİNE	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİNİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİNİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLERİNİZ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENLİK	(ad) öğretmenin görevi
+ÖĞRETMENLİĞİ	(ad, öğretmenlik sözcüğünün çekimi) öğretmenin görevi
+ÖĞRETMENİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris\n(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİM	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMDEN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİME	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMİZ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMİZE	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMİZİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİMİZİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİN	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris\n(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNDEN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNE	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNİZ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNİZE	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNİZİ	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİNİZİN	(ad, öğretmen sözcüğünün çekimi) mesleği bilgi öğretmek olan kişi.
+ÖĞRETMENİZ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMENİZİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMESİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMESİNE	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMESİNİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEYE	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMEYİ	(ad, öğretme sözcüğünün çekimi) öğretmek işi, tedris
+ÖĞRETMİYOR	(eylem, öğretmek sözcüğünün çekimi) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETİ	(ad) bilimde, felsefede bir görüşü bir sistem içinde belli bir anlayışa, düşünceye dayalı olarak oluşturan ilke ve dogmalar bütünü
+ÖĞRETİCİ	(sıfat) Öğretme, yetiştirme ve açıklama niteliğinde olan.
+ÖĞRETİCİLİK	(ad) öğretici olma durumu
+ÖĞRETİLER	(ad, öğreti sözcüğünün çekimi) bilimde, felsefede bir görüşü bir sistem içinde belli bir anlayışa, düşünceye dayalı olarak oluşturan ilke ve dogmalar bütünü
+ÖĞRETİLME	(ad) öğretilmek işi
+ÖĞRETİLMEK	(eylem) Öğretmek işi yapılmak
+ÖĞRETİLİR	(eylem, öğretilmek sözcüğünün çekimi) Öğretmek işi yapılmak
+ÖĞRETİM	(ad) belli bir amaca göre gereken bilgileri verme işi, tedris, tedrisat, talim
+ÖĞRETİME	(ad, öğretim sözcüğünün çekimi) belli bir amaca göre gereken bilgileri verme işi, tedris, tedrisat, talim
+ÖĞRETİMİ	(ad, öğretim sözcüğünün çekimi) belli bir amaca göre gereken bilgileri verme işi, tedris, tedrisat, talim
+ÖĞRETİN	(eylem, öğretmek sözcüğünün çekimi) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETİR	(eylem, öğretmek sözcüğünün çekimi) bir kişiye bir konuda bilgi ve beceri kazandırmak
+ÖĞRETİŞ	(ad) Öğretmek işi veya biçimi
+ÖĞÜDE	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜDÜ	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜDÜM	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜDÜMÜ	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜDÜN	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜDÜNE	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜDÜNÜ	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜN	(ad) kere, kez, defa
+ÖĞÜNDE	(ad, öğün sözcüğünün çekimi) kere, kez, defa
+ÖĞÜNLER	(ad, öğün sözcüğünün çekimi) kere, kez, defa
+ÖĞÜNÜ	(ad, öğün sözcüğünün çekimi) kere, kez, defa
+ÖĞÜR	(ad) akran\n(sıfat) öğrenmiş, alışmış
+ÖĞÜRLEŞME	(ad) Öğürleşmek işi
+ÖĞÜRLEŞMEK	(eylem) Öğür olmak, birbirine alışmak, istinas etmek
+ÖĞÜRLÜK	(ad) Öğür olma durumu, istinas
+ÖĞÜRME	(eylem, öğürmek sözcüğünün çekimi) Kusarken veya kusacak gibi olurken öğürtü sesi çıkarmak
+ÖĞÜRMEK	(eylem) Kusarken veya kusacak gibi olurken öğürtü sesi çıkarmak
+ÖĞÜRTLEME	(ad) Öğürtlemek işi veya durumu
+ÖĞÜRTLEMEK	(eylem) Ayırmak, ayıklamak, seçmek, temizlemek
+ÖĞÜRTME	(ad) Öğürtmek işi veya biçimi
+ÖĞÜRTÜ	(ad) Öğürmek işi
+ÖĞÜRTÜCÜ	(sıfat) Öğürten
+ÖĞÜRÜŞ	(ad) Öğürmek işi veya biçimi
+ÖĞÜT	(ad) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜTLEME	(ad) öğütlemek işi, nasihat
+ÖĞÜTLEMEK	(eylem) birine bir şeyi yapmasını ya da yapmamasını salık vermek, tavsiye etmek
+ÖĞÜTLER	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl\n(eylem, öğütlemek sözcüğünün çekimi) birine bir şeyi yapmasını ya da yapmamasını salık vermek, tavsiye etmek
+ÖĞÜTLERİ	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜTLERİN	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜTLERİNİ	(ad, öğüt sözcüğünün çekimi) bir kişiye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat, akıl
+ÖĞÜTLÜK	(ad) Kendisinden bir ahlâk dersi çıkarılan kısa hikâye.
+ÖĞÜTME	(ad) öğütmek işi
+ÖĞÜTMEK	(eylem) tane durumundaki nesneleri bir araçla ezerek un durumuna getirmek
+ÖĞÜTÇÜ	(ad) Öğüt veren kimse, nasihatçi
+ÖĞÜTÇÜLÜK	(ad) Öğütçü olma durumu
+ÖĞÜTÜCÜ	(sıfat) Öğütme özelliği olan
+ÖĞÜTÜLME	(ad) öğütülmek işi
+ÖĞÜTÜLMEK	(eylem) öğütme işine konu olmak
+ÖĞÜTÜLÜŞ	(ad) Öğütülme işi.
+ÖĞÜTÜR	(eylem, öğütmek sözcüğünün çekimi) tane durumundaki nesneleri bir araçla ezerek un durumuna getirmek
+ÖĞÜTÜŞ	(ad) Öğütmek işi veya biçimi
+ÖŞÜR	(ad) Ondalık
+ÖŞÜRCÜ	(ad) Öşür alan, toplayan görevli
