@@ -37,7 +37,12 @@ async function signIn(googleToken, phoneToken) {
   if (phoneToken) body.idToken = phoneToken;
   const reply = await fetch('https://identitytoolkit.googleapis.com/v1/accounts:signInWithIdp?key=' + KEY,
     {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify(body)});
-  return {ok: reply.ok, data: await reply.json()};
+  const data = await reply.json();
+  // Firebase answers some refusals (like FEDERATED_USER_ID_ALREADY_LINKED)
+  // with a 200 and an errorMessage instead of an ID token.
+  const ok = reply.ok && !data.errorMessage && !data.needConfirmation && !!data.idToken;
+  const message = String(data.errorMessage || (data.error && data.error.message) || '');
+  return {ok, message, data};
 }
 
 async function done(answer) {
@@ -51,7 +56,7 @@ async function done(answer) {
     }
     let result = await signIn(answer.credential, phoneToken);
     let reply = {kind: 'linked', email: ''};
-    if (!result.ok && String(result.data.error && result.data.error.message).startsWith('FEDERATED_USER_ID_ALREADY_LINKED')) {
+    if (!result.ok && (result.message.startsWith('FEDERATED_USER_ID_ALREADY_LINKED') || result.data.needConfirmation)) {
       // This Google account already has a player: the phone becomes it.
       result = await signIn(answer.credential, null);
       reply = {kind: 'switch', refresh: result.data.refreshToken, email: ''};
