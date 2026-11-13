@@ -1,0 +1,82 @@
+XANTHATE	(noun) a salt or ester of xanthic acid
+XANTHATES	(noun, form of xanthate) a salt or ester of xanthic acid
+XANTHIC	1. Tending toward a yellow color, or to one of those colors, green being excepted, in which yellow is a constituent, as scarlet, orange, etc. 2. (Chem.) (a) Possessing, imparting, or producing a yellow color; as, xanthic acid. (b) Of or pertaining to xanthic acid, or its compounds; xanthogenic. (c) Of or pertaining to xanthin. Xanthic acid (Chem.), a heavy, astringent, colorless oil, C2H5O.CS.SH, having a pungent odor. It is produced by leading carbon disulphide into a hot alcoholic solution of potassium hydroxide. So called from the yellow color of many of its salts. Called also xanthogenic acid. -- Xanthic colors (Bot.), those colors (of flowers) having some tinge of yellow; -- opposed to cyanic colors. See under Cyanic.
+XANTHIN	1. (Physiol. Chem.) A crystalline nitrogenous body closely related to both uric acid and hypoxanthin, present in muscle tissue, and occasionally found in the urine and in some urinary calculi. It is also present in guano. So called from the yellow color of certain of its salts (nitrates). 2. (Chem.) A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder. [Formerly written also xanthein.] 3. (Chem.) One of the gaseous or volatile decomposition products of the xanthates, and probably identical with carbon disulphide. [Obs.] A white microcrystalline nitrogenous compound, C5H4O2N4, present in muscle tissue, in the liver, spleen, pancreas, and other organs, and also in urine (in small quantities) and some urinary calculi, and in the juices of certain plants; -- so called because it leaves a yellow residue when evaporated to dryness with nitric acid. Xanthine is closely related to uric acid.
+XANTHINE	(noun) crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine
+XANTHINES	(noun, form of xanthine) crystalline oxidation product of the metabolism of nucleoproteins; precursor of uric acid; found in many organs and in urine
+XANTHINS	(form of xanthin) 1. (Physiol. Chem.) A crystalline nitrogenous body closely related to both uric acid and hypoxanthin, present in muscle tissue, and occasionally found in the urine and in some urinary calculi. It is also present in guano. So called from the yellow color of certain of its salts (nitrates). 2. (Chem.) A yellow insoluble coloring matter extracted from yellow flowers; specifically, the coloring matter of madder. [Formerly written also xanthein.] 3. (Chem.) One of the gaseous or volatile decomposition products of the xanthates, and probably identical with carbon disulphide. [Obs.] A white microcrystalline nitrogenous compound, C5H4O2N4, present in muscle tissue, in the liver, spleen, pancreas, and other organs, and also in urine (in small quantities) and some urinary calculi, and in the juices of certain plants; -- so called because it leaves a yellow residue when evaporated to dryness with nitric acid. Xanthine is closely related to uric acid.
+XANTHOMA	(noun) a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism
+XANTHOMAS	(noun, form of xanthoma) a skin problem marked by the development (on the eyelids and neck and back) of irregular yellow nodules; sometimes attributable to disturbances of cholesterol metabolism
+XANTHOPHYLL	(noun) yellow carotenoid pigments in plants and animal fats and egg yolks
+XANTHOPHYLLS	(noun, form of xanthophyll) yellow carotenoid pigments in plants and animal fats and egg yolks
+XANTHOUS	(adjective) of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk
+XEBEC	A small three-masted vessel, with projecting bow stern and convex decks, used in the Mediterranean for transporting merchandise, etc. It carries large square sails, or both. Xebecs were formerly armed and used by corsairs.
+XEBECS	(form of xebec) A small three-masted vessel, with projecting bow stern and convex decks, used in the Mediterranean for transporting merchandise, etc. It carries large square sails, or both. Xebecs were formerly armed and used by corsairs.
+XENOGAMIES	(form of xenogamy) Cross fertilization.
+XENOGAMY	Cross fertilization.
+XENOGENEIC	(adjective) denoting or relating to cells or tissues from individuals belonging to different species
+XENOGRAFT	(noun) tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species
+XENOGRAFTS	(noun, form of xenograft) tissue from an animal of one species used as a temporary graft (as in cases of severe burns) on an individual of another species
+XENOLITH	(noun) (geology) a piece of rock of different origin from the igneous rock in which it is embedded
+XENOLITHS	(noun, form of xenolith) (geology) a piece of rock of different origin from the igneous rock in which it is embedded
+XENON	(noun) a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts
+XENONS	(noun, form of xenon) a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts
+XENOPHOBIA	(noun) a fear of foreigners or strangers
+XENOPHOBIAS	(noun, form of xenophobia) a fear of foreigners or strangers
+XENOPHOBIC	(adjective) suffering from xenophobia; having abnormal fear or hatred of the strange or foreign
+XERIC	(adjective) being deficient in moisture
+XEROGRAPHIC	(adjective) of or relating to xerography
+XEROGRAPHIES	(noun, form of xerography) forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas
+XEROGRAPHY	(noun) forming an image by the action of light on a specially coated charged plate; the latent image is developed with powders that adhere only to electrically charged areas
+XEROPHILE	(noun) plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte
+XEROPHILOUS	Drought-loving; able withstand the absence or lack of moisture. Plants which are peculiarly adapted to dry climates are termed by De Candolle xerophilous. Goodale.
+XEROPHTHALMIA	(noun) abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A
+XEROPHTHALMIAS	(noun, form of xerophthalmia) abnormal dryness of the conjunctiva and cornea of the eyes; may be due to a systemic deficiency of vitamin A
+XEROPHYTE	(noun) plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte
+XEROPHYTES	(noun, form of xerophyte) plant adapted for life with a limited supply of water; compare hydrophyte and mesophyte
+XEROPHYTIC	(adjective) adapted to a xeric (or dry) environment
+XERORADIOGRAPHIES	(noun, form of xeroradiography) radiography using X-rays and xerographic (rather than roentgenographic) techniques
+XERORADIOGRAPHY	(noun) radiography using X-rays and xerographic (rather than roentgenographic) techniques
+XEROX	(noun) a copy made by a xerographic printer\n(verb) reproduce by xerography
+XEROXED	(verb, form of xerox) reproduce by xerography
+XEROXES	(noun, form of xerox) a copy made by a xerographic printer\n(verb, form of xerox) reproduce by xerography
+XEROXING	(verb, form of xerox) reproduce by xerography
+XIPHISTERNUM	(a) The posterior segment, or extremity, of the sternum; -- sometimes called metasternum, ensiform cartilage, ensiform process, or xiphoid process. (b) The xiphiplastron. -- Xiph"i*ster"nal a.
+XIPHOID	(a) Like a sword; ensiform. (b) Of or pertaining to the xiphoid process; xiphoidian.
+XIPHOIDS	(form of xiphoid) (a) Like a sword; ensiform. (b) Of or pertaining to the xiphoid process; xiphoidian.
+XIS	(noun, form of xi) the cardinal number that is the sum of ten and one
+XYLAN	A gummy substance of the pentosan class, present in woody tissue, and yielding xylose on hydrolysis; wood gum.
+XYLANS	(form of xylan) A gummy substance of the pentosan class, present in woody tissue, and yielding xylose on hydrolysis; wood gum.
+XYLEM	(noun) the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels
+XYLEMS	(noun, form of xylem) the woody part of plants: the supporting and water-conducting tissue, consisting primarily of tracheids and vessels
+XYLENE	(noun) a colorless flammable volatile liquid hydrocarbon used as a solvent
+XYLENES	(noun, form of xylene) a colorless flammable volatile liquid hydrocarbon used as a solvent
+XYLIDINE	Any one of six metameric hydrocarbons, (CH3)2.C6H3.NH2, resembling aniline, and related to xylene. They are liquids, or easily fusible crystalline substances, of which three are derived from metaxylene, two from orthoxylene, and one from paraxylene. They are called the amido xylenes. Note: The xylidine of commerce, used in making certain dyes, consists chiefly of the derivatives of paraxylene and metaxylene.
+XYLIDINES	(form of xylidine) Any one of six metameric hydrocarbons, (CH3)2.C6H3.NH2, resembling aniline, and related to xylene. They are liquids, or easily fusible crystalline substances, of which three are derived from metaxylene, two from orthoxylene, and one from paraxylene. They are called the amido xylenes. Note: The xylidine of commerce, used in making certain dyes, consists chiefly of the derivatives of paraxylene and metaxylene.
+XYLOGRAPH	An engraving on wood, or the impression from such an engraving; a print by xylography.
+XYLOGRAPHER	One who practices xylography.
+XYLOGRAPHERS	(form of xylographer) One who practices xylography.
+XYLOGRAPHIC	Of or pertaining to xylography, or wood engraving.
+XYLOGRAPHICAL	Of or pertaining to xylography, or wood engraving.
+XYLOGRAPHIES	(form of xylography) 1. The art of engraving on wood. 2. The art of making prints from the natural grain of wood. Knight. 3. A method pf printing in colors upon wood for purposes of house decoration. Ure.
+XYLOGRAPHS	(form of xylograph) An engraving on wood, or the impression from such an engraving; a print by xylography.
+XYLOGRAPHY	1. The art of engraving on wood. 2. The art of making prints from the natural grain of wood. Knight. 3. A method pf printing in colors upon wood for purposes of house decoration. Ure.
+XYLOID	Resembling wood; having the nature of wood.
+XYLOL	(noun) a colorless flammable volatile liquid hydrocarbon used as a solvent
+XYLOLS	(noun, form of xylol) a colorless flammable volatile liquid hydrocarbon used as a solvent
+XYLOPHAGOUS	(a) Eating, boring in, or destroying, wood; -- said especially of certain insect larvæ, crustaceans, and mollusks. (b) Of or pertaining to the genus Xylophaga.
+XYLOPHONE	(noun) a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets
+XYLOPHONES	(noun, form of xylophone) a percussion instrument with wooden bars tuned to produce a chromatic scale and with resonators; played with small mallets
+XYLOPHONIST	(noun) someone who plays a xylophone
+XYLOPHONISTS	(noun, form of xylophonist) someone who plays a xylophone
+XYLOSE	(noun) a sugar extracted from wood or straw; used in foods for diabetics
+XYLOSES	(noun, form of xylose) a sugar extracted from wood or straw; used in foods for diabetics
+XYLOTOMIES	(form of xylotomy) Art of preparing sections (transverse, tangential, or radial) of wood, esp. by means of a microtome, for microscopic examination.
+XYLOTOMY	Art of preparing sections (transverse, tangential, or radial) of wood, esp. by means of a microtome, for microscopic examination.
+XYLYL	Any one of three metameric radicals which are characteristic respectively of the three xylenes.
+XYLYLS	(form of xylyl) Any one of three metameric radicals which are characteristic respectively of the three xylenes.
+XYST	A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.
+XYSTER	An instrument for scraping bone.
+XYSTERS	(form of xyster) An instrument for scraping bone.
+XYSTS	(form of xyst) A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.
+XYSTUS	A long and open portico, for athletic exercises, as wrestling, running, etc., for use in winter or in stormy weather.

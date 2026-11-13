@@ -97,6 +97,20 @@ body {
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Alphabet Snake">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<style>
+/* Nothing on the page scrolls or bounces, so a downward swipe in the game
+   can't set off the browser's pull-to-refresh (DuckDuckGo and Safari on iPhone
+   have one, as does Chrome on Android). */
+html, body { overscroll-behavior: none; touch-action: none; }
+body { position: fixed; inset: 0; overflow: hidden; }
+</style>
+<script>
+// A swipe anywhere on the page (the game, or a box laid over it) never scrolls
+// the page, which is what pull-to-refresh needs.
+document.addEventListener('touchmove', function (e) {
+  if (e.cancelable) e.preventDefault();
+}, {passive: false});
+</script>
 <script>
 // Every sound the game makes goes through the page's audio contexts, which
 // keep playing while the tab is in the background (the game itself stops
@@ -139,7 +153,7 @@ body {
 
 		<script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":false,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":18650776,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4,"serviceWorker":"index.service.worker.js"};
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":false,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":18651816,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4,"serviceWorker":"index.service.worker.js"};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
 
