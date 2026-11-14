@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1794620809|7956984';
+const CACHE_VERSION = '1794674308|5262670';
 /** @type {string} */
 const CACHE_PREFIX = 'Alphabet Snake-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
