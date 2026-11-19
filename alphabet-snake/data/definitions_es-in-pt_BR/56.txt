@@ -1,0 +1,2068 @@
+VACA	(substantivo) vaca: feminino de boi
+VACACION	(substantivo) feriado: dia de descanso, instituído pelo poder civil ou religioso, em que são suspensas as atividades públicas e particulares (também: férias)
+VACACIONES	(substantivo) folga: descanso; período sem trabalho (também: férias)
+VACADA	(substantivo) rebanho: conjunto de animais em geral de gado lanígero (normalmente guardados por um pastor)
+VACAN	(forma de vacar) (verbo) carecer: estar necessitado, ter falta
+VACANTE	(adjetivo) vago: (vaga, lugar, cadeira) desocupado\n(substantivo) abertura: orifício (também: início)
+VACANTES	(forma de vacante) (adjetivo) vago: (vaga, lugar, cadeira) desocupado
+VACAR	(verbo) carecer: estar necessitado, ter falta
+VACIA	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIABA	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIABAMOS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIABAN	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIABAS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIAD	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIAMOS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIAN	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIAR	(verbo) esvaziar: descarregar o conteúdo de algo
+VACIARA	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARAMOS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARAN	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARAS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARE	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIAREMOS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARIA	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARIAS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIARON	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIAS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIASTE	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIE	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIEDAD	(substantivo) vaciedad se traduz como ⟪vácuo|VACUO⟫
+VACIEMOS	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIEN	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACIES	(forma de vaciar) (verbo) esvaziar: descarregar o conteúdo de algo
+VACILA	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILABA	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILABAN	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILACION	(substantivo) vacilação: ato ou efeito de vacilar (também: insegurança)
+VACILACIONES	(forma de vacilacion) (substantivo) vacilação: ato ou efeito de vacilar (também: insegurança)
+VACILADA	(substantivo) partido: conjunto de pessoas que seguem as mesmas ideias, especialmente em política (também: mordaça, asco)
+VACILAIS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILAMOS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILAN	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILANTE	(adjetivo) precário: de pouca estabilidade ou duração
+VACILANTES	(forma de vacilante) (adjetivo) precário: de pouca estabilidade ou duração
+VACILAR	(verbo) hesitar: estar indeciso
+VACILARA	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARAN	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARAS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARE	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILAREMOS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARIA	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARIAN	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARIAS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILARON	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILAS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILASTE	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILE	(substantivo) piada: pequena história, normalmente ficcional, com final engraçado (também: brincadeira, brinca)
+VACILEIS	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILEN	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILES	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILO	(forma de vacilar) (verbo) hesitar: estar indeciso
+VACILON	(substantivo) curinga: carta de baralho que pode assumir qualquer valor em alguns jogos (também: piadista)
+VACIO	(adjetivo) vazio: que não contém nada; que não está com seu conteúdo habitual\n(substantivo) lugar onde não existe matéria
+VACIOS	(forma de vacio) (adjetivo) vazio: que não contém nada; que não está com seu conteúdo habitual
+VACO	(adjetivo) vago: (vaga, lugar, cadeira) desocupado\n(substantivo) bula: documento papal sobre um determinado tema (também: macho)
+VACUA	(forma de vacuo) (adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: vazio)
+VACUNA	(substantivo) vacina: preparação usada como inoculação preventiva para dar imunidade contra uma doença específica e que usualmente emprega uma forma enfraquecida do agente patogênico
+VACUNACION	(substantivo) vacinação: ato ou efeito de vacinar
+VACUNACIONES	(forma de vacunacion) (substantivo) vacinação: ato ou efeito de vacinar
+VACUNAMOS	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNAN	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNAR	(verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNARA	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNARE	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNAREMOS	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNARON	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNAS	(forma de vacuna) (substantivo) vacina: preparação usada como inoculação preventiva para dar imunidade contra uma doença específica e que...
+VACUNASTE	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNE	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNEMOS	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNEN	(forma de vacunar) (verbo) vacinar: introduzir uma vacina no organismo de (também: vaccinar)
+VACUNO	(adjetivo) bovino: próprio do ou relativo ao boi
+VACUNOS	(forma de vacuno) (adjetivo) bovino: próprio do ou relativo ao boi
+VACUO	(adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: vazio)\n(substantivo) brecha: furo, falha
+VACUOLA	(substantivo) vacúolo: nome comum a um tipo de estrutura celular contida no citoplasma das células (bastante numerosa nas vegetais), de forma esférica ou ovalar, cujo conteúdo fluido pode ser de armazenamento de nutrientes ou de excreção, regulatório da quantidade de água absorvida por osmose, acúmulo de gorduras nas...
+VACUOLAS	(forma de vacuola) (substantivo) vacúolo: nome comum a um tipo de estrutura celular contida no citoplasma das células (bastante numerosa...
+VACUOS	(forma de vacuo) (adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: vazio)
+VADEMECUM	(substantivo) vade-mécum: livro, geralmente de formato pequeno ou resumido, usado para consulta frequente acerca de determinada ciência, técnica, arte, etc., de fácil uso e transporte
+VADO	(substantivo) vau: lugar num rio (ou lago ou mar) raso por onde se pode atravessar
+VADOS	(forma de vado) (substantivo) vau: lugar num rio (ou lago ou mar) raso por onde se pode atravessar
+VAGA	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGABA	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGABAMOS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGABAN	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGABAS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGABUNDA	(forma de vagabundo) (adjetivo) vagabundo se traduz como ⟪vagabundo⟫
+VAGABUNDAS	(forma de vagabundo) (adjetivo) vagabundo se traduz como ⟪vagabundo⟫
+VAGABUNDEA	(forma de vagabundear) (verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro
+VAGABUNDEABA	(forma de vagabundear) (verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro
+VAGABUNDEAN	(forma de vagabundear) (verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro
+VAGABUNDEAR	(verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro
+VAGABUNDEAS	(forma de vagabundear) (verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro
+VAGABUNDEE	(forma de vagabundear) (verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro
+VAGABUNDO	(adjetivo) vagabundo se traduz como ⟪vagabundo⟫\n(substantivo) mendigo: pobre
+VAGABUNDOS	(forma de vagabundo) (adjetivo) vagabundo se traduz como ⟪vagabundo⟫
+VAGAMOS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGAN	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGANCIA	(substantivo) preguiça: falta de vontade de realizar atividades
+VAGAR	(verbo) zanzar: andar sem destino (também: vagabundear)
+VAGARA	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGARAN	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGARAS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGARE	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGAREMOS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGARIA	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGARON	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGAS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGASTE	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGIDO	(substantivo) grito: voz, aguda e elevada, de modo que se possa ouvir ao longe
+VAGINA	(substantivo) vagina se traduz como vagina:
+VAGINAL	(adjetivo) vaginal: relativo à vagina
+VAGINALES	(forma de vaginal) (adjetivo) vaginal: relativo à vagina
+VAGINAS	(forma de vagina) (substantivo) vagina se traduz como vagina:
+VAGO	(adjetivo) vago: sem um sentido bem definido
+VAGON	(substantivo) vagão: carro de trem (também: carruagem)
+VAGONES	(forma de vagon) (substantivo) vagão: carro de trem (também: carruagem)
+VAGOS	(forma de vago) (adjetivo) vago: sem um sentido bem definido
+VAGUADA	(substantivo) talvegue: linha mais ou menos sinuosa no fundo de um vale, pela qual se dirigem águas correntes
+VAGUE	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGUEMOS	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGUEN	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAGUERIA	(substantivo) preguiça: falta de vontade de realizar atividades
+VAGUES	(forma de vagar) (verbo) zanzar: andar sem destino (também: vagabundear)
+VAHEAR	(verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+VAHIDO	(substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam; tontura rotatória
+VAHIDOS	(forma de vahido) (substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam;...
+VAHO	(substantivo) vapor que sai dos corpos
+VAHOS	(forma de vaho) (substantivo) vapor que sai dos corpos
+VAINA	(substantivo) vaina se traduz como vagem vegetal
+VAINAS	(forma de vaina) (substantivo) vaina se traduz como vagem vegetal
+VAINILLA	(substantivo) baunilha: essência adocicada e aromática obtida dos frutos da orquídea Vanilla planifolia
+VAINILLAS	(forma de vainilla) (substantivo) baunilha: essência adocicada e aromática obtida dos frutos da orquídea Vanilla planifolia
+VAIS	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VAIVEN	(substantivo) flutuação: ato ou efeito de flutuar (também: ondulação)
+VAIVENES	(forma de vaiven) (substantivo) flutuação: ato ou efeito de flutuar (também: ondulação)
+VAJILLA	(substantivo) loiça: produto de cerâmica para uso doméstico especialmente para o serviço de mesa e de cozinha
+VAJILLAS	(forma de vajilla) (substantivo) loiça: produto de cerâmica para uso doméstico especialmente para o serviço de mesa e de cozinha
+VAL	(substantivo) val se traduz como ⟪val⟫
+VALACO	(substantivo) arromeno: uma das línguas oficiais da República da Macedónia, da família das línguas itálicas e falada em algumas regiões dos Bálcãs pelos arromenos
+VALACOS	(forma de valaco) (substantivo) arromeno: uma das línguas oficiais da República da Macedónia, da família das línguas itálicas e falada em...
+VALDRA	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDRAN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDRAS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDRE	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDREMOS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDRIA	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDRIAN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALDRIAS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALE	(interjeição) adeus: chau/xau!
+VALEDERO	(adjetivo) válido: justo; correto; bem fundado
+VALEDOR	(substantivo) protetor: aquele ou aquilo que protege (também: defensor)
+VALEIS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALEMOS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALEN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALENTIA	(substantivo) braveza: coragem, valentia (também: coragem)
+VALER	(verbo) conseguir: obter (também: gerenciar)
+VALERIANA	(substantivo) valeriana: planta da família das valerianáceas
+VALEROSA	(forma de valeroso) (adjetivo) bravo: bom, valoroso, importante (geralmente usado como ironia) (também: corajoso)
+VALEROSAMENTE	(advérbio) valorosamente: de modo valoroso
+VALEROSAS	(forma de valeroso) (adjetivo) bravo: bom, valoroso, importante (geralmente usado como ironia) (também: corajoso)
+VALEROSO	(adjetivo) bravo: bom, valoroso, importante (geralmente usado como ironia) (também: corajoso)
+VALEROSOS	(forma de valeroso) (adjetivo) bravo: bom, valoroso, importante (geralmente usado como ironia) (também: corajoso)
+VALERSE	(verbo) usar: a partir do sinônimo (“utilizar”) (também: utilizar)
+VALES	(forma de val) (substantivo) val se traduz como ⟪val⟫
+VALET	(substantivo) valete: num baralho convencional, carta identificada pela letra J (do inglês Jack) e que habitualmente vale mais do que as cartas numeradas, mas menos do que o rei e a dama (também: jack, soquete)
+VALETUDINARIO	(adjetivo) valetudinario se traduz como valetudinário
+VALGA	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALGAN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALGAS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALGASE	(forma de valerse) (verbo) usar: a partir do sinônimo (“utilizar”) (também: utilizar)
+VALIA	(substantivo) fação: grupo de indivíduos partidários de uma mesma causa em oposição à de outros grupos; na modernidade, o termo passou a designar cada grupo antagónico que disputa a supremacia política (também: facção)
+VALIAMOS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIAN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIAS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIDA	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDACION	(substantivo) validação: ato ou efeito de validar; validamento
+VALIDACIONES	(forma de validacion) (substantivo) validação: ato ou efeito de validar; validamento
+VALIDAD	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDAMOS	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDAN	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDAR	(verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDARA	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDARIA	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDARON	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDAS	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDE	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDEN	(forma de validar) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDEZ	(substantivo) validade: qualidade de ser válido (também: validez)
+VALIDO	(adjetivo) válido: justo; correto; bem fundado
+VALIDOS	(forma de valido) (adjetivo) válido: justo; correto; bem fundado
+VALIENTE	(adjetivo) bravo: intenso (também: valente, corajoso)
+VALIENTEMENTE	(advérbio) valentemente: de forma valente
+VALIENTES	(forma de valiente) (adjetivo) bravo: intenso (também: valente, corajoso)
+VALIERA	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIERAN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIERAS	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIERON	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIESE	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIESEN	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIJA	(substantivo) mala: espécie de caixa para o transporte de roupa e outros objetos em viagem
+VALIJAS	(forma de valija) (substantivo) mala: espécie de caixa para o transporte de roupa e outros objetos em viagem
+VALINA	(substantivo) valina se traduz como valina
+VALIO	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALIOSA	(forma de valioso) (adjetivo) valioso: que tem grande valor
+VALIOSAMENTE	(advérbio) valiosamente: de modo valioso
+VALIOSAS	(forma de valioso) (adjetivo) valioso: que tem grande valor
+VALIOSO	(adjetivo) valioso: que tem grande valor
+VALIOSOS	(forma de valioso) (adjetivo) valioso: que tem grande valor
+VALISTE	(forma de valer) (verbo) conseguir: obter (também: gerenciar)
+VALLA	(substantivo) cerca: construção feita de materiais diversos (usualmente madeira ou ferro) que serve para cercar uma área
+VALLADA	(forma de vallado) (substantivo) cerca: construção feita de materiais diversos (usualmente madeira ou ferro) que serve para cercar uma área
+VALLADAR	(substantivo) cerca: construção feita de materiais diversos (usualmente madeira ou ferro) que serve para cercar uma área
+VALLADO	(substantivo) cerca: construção feita de materiais diversos (usualmente madeira ou ferro) que serve para cercar uma área
+VALLADOS	(forma de vallado) (substantivo) cerca: construção feita de materiais diversos (usualmente madeira ou ferro) que serve para cercar uma área
+VALLAMOS	(forma de vallar) (verbo) valar: limitar, defender com muro, com valo
+VALLAN	(forma de vallar) (verbo) valar: limitar, defender com muro, com valo
+VALLAR	(verbo) valar: limitar, defender com muro, com valo
+VALLAS	(forma de valla) (substantivo) cerca: construção feita de materiais diversos (usualmente madeira ou ferro) que serve para cercar uma área
+VALLASE	(forma de vallar) (verbo) valar: limitar, defender com muro, com valo
+VALLE	(substantivo) vale: planície entre duas montanhas ou colinas
+VALLES	(forma de vallar) (verbo) valar: limitar, defender com muro, com valo
+VALLICO	(substantivo) joio: olmo (U. glabra, U. minor)
+VALLO	(forma de vallar) (verbo) valar: limitar, defender com muro, com valo
+VALON	(adjetivo) valão: um dos idiomas falados na Bélgica\n(substantivo) valão: um dos idiomas falados na Bélgica
+VALONES	(forma de valon) (adjetivo) valão: um dos idiomas falados na Bélgica
+VALOR	(substantivo) valor: qualidade que distingue algo em comparação aos seus iguais; medida da importância de algo
+VALORA	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORABA	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORABAMOS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORABAN	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORABAS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORACION	(substantivo) valoração: ato de valorar (também: avaliação)
+VALORACIONES	(forma de valoracion) (substantivo) valoração: ato de valorar (também: avaliação)
+VALORAIS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORAMOS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORAN	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORAR	(verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARA	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARAN	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARAS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARE	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORAREMOS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARIA	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARIAN	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARIAS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORARON	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORAS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORASE	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORASTE	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORATIVAMENTE	(advérbio) valorativamente: de forma valorativa
+VALORE	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALOREMOS	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALOREN	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALORES	(forma de valor) (substantivo) valor: qualidade que distingue algo em comparação aos seus iguais; medida da importância de algo
+VALORIZA	(forma de valorizar) (verbo) valorizar: dar valor a, ou aumentar o valor de (também: avaliar)
+VALORIZACION	(substantivo) valorização: ato ou efeito de valorizar(-se)
+VALORIZADA	(forma de valorizado) (adjetivo) valorizado: que se valorizou
+VALORIZADO	(adjetivo) valorizado: que se valorizou
+VALORIZAR	(verbo) valorizar: dar valor a, ou aumentar o valor de (também: avaliar)
+VALORO	(forma de valorar) (verbo) apreciar: dar preço a; estimar (também: entender)
+VALQUIRIA	(substantivo) valquíria: deidade feminina menor mitológica nórdica que elegia os mais heróicos guerreiros mortos em batalha e os conduzia ao salão dos mortos, chamado de valhala
+VALS	(substantivo) valsa: música de dança derivada do Ländler de compasso ternário
+VALSA	(forma de valsar) (verbo) valsar: dançar valsa
+VALSAMOS	(forma de valsar) (verbo) valsar: dançar valsa
+VALSAR	(verbo) valsar: dançar valsa
+VALSAS	(forma de valsar) (verbo) valsar: dançar valsa
+VALSE	(substantivo) valsa: alternância frenética ou constante de coisas ou pessoas
+VALSES	(substantivo) plural de valse: valsa
+VALUA	(forma de valuar) (verbo) avaliar: determinar o valor de
+VALUACION	(substantivo) avaliação: estabelecimento do valor de algo, cálculo
+VALUACIONES	(forma de valuacion) (substantivo) avaliação: estabelecimento do valor de algo, cálculo
+VALUAR	(verbo) avaliar: determinar o valor de
+VALUO	(forma de valuar) (verbo) avaliar: determinar o valor de
+VALVA	(substantivo) certo instrumento cirúrgico
+VALVAS	(forma de valva) (substantivo) certo instrumento cirúrgico
+VALVULA	(substantivo) valvula se traduz como válvula^
+VALVULAS	(forma de valvula) (substantivo) valvula se traduz como válvula^
+VAMONOS	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VAMOS	(verbo) primeira pessoa do plural do indicativo presente do verbo ir\n(interjeição) vamos se traduz como vamos!
+VAMPIRO	(substantivo) vampiro: ser mitológico reanimado dos mortos que se alimenta de sangue humano
+VAMPIROS	(forma de vampiro) (substantivo) vampiro: ser mitológico reanimado dos mortos que se alimenta de sangue humano
+VAN	(verbo) flexão do verbo ir
+VANA	(forma de vano) (substantivo) olhal: o espaço vazio entre arcadas ou pilares de pontes, viadutos, aquedutos, etc.
+VANADIO	(substantivo) vanádio: elemento químico de símbolo V, possui o número atômico 23 e massa atômica relativa 50,941; é encontrado muito disperso na natureza, principalmente, nos minérios patronita e carnotita; é utilizado como catalisador na indústria química, para produção de ácido sulfúrico; também é utilizado em ligas...
+VANAGLORIA	(substantivo) vanglória: convicção sobre qualidades ou merecimentos de si próprio, nem sempre baseado na realidade
+VANAGLORIABA	(forma de vanagloriarse) (verbo) vanagloriarse se traduz como tufar-se
+VANAGLORIAN	(forma de vanagloriarse) (verbo) vanagloriarse se traduz como tufar-se
+VANAGLORIARSE	(verbo) vanagloriarse se traduz como tufar-se
+VANAGLORIAS	(forma de vanagloriarse) (verbo) vanagloriarse se traduz como tufar-se
+VANAGLORIE	(forma de vanagloriarse) (verbo) vanagloriarse se traduz como tufar-se
+VANAGLORIES	(forma de vanagloriarse) (verbo) vanagloriarse se traduz como tufar-se
+VANAMENTE	(advérbio) vaidosamente: de modo vaidoso (também: vãmente)
+VANAS	(forma de vano) (substantivo) olhal: o espaço vazio entre arcadas ou pilares de pontes, viadutos, aquedutos, etc.
+VANDALISMO	(substantivo) vandalismo: destruição intencional de propriedades e bens alheios; defraudação
+VANDALO	(substantivo) capanga: valentão assalariado, guarda-costas (também: bandido, facínora)
+VANDALOS	(forma de vandalo) (substantivo) capanga: valentão assalariado, guarda-costas (também: bandido, facínora)
+VANGUARDIA	(substantivo) vanguarda: a parte do exército que vai na frente do resto das tropas
+VANGUARDIAS	(forma de vanguardia) (substantivo) vanguarda: a parte do exército que vai na frente do resto das tropas
+VANIDAD	(substantivo) vaidade: orgulho
+VANIDADES	(forma de vanidad) (substantivo) vaidade: orgulho
+VANIDOSA	(forma de vanidoso) (adjetivo) vaidoso: aquele que possui vaidade
+VANIDOSAMENTE	(advérbio) vaidosamente: de modo vaidoso
+VANIDOSAS	(forma de vanidoso) (adjetivo) vaidoso: aquele que possui vaidade
+VANIDOSO	(adjetivo) vaidoso: aquele que possui vaidade
+VANIDOSOS	(forma de vanidoso) (adjetivo) vaidoso: aquele que possui vaidade
+VANILLA	(substantivo) baunilha: essência adocicada e aromática obtida dos frutos da orquídea Vanilla planifolia
+VANO	(substantivo) olhal: o espaço vazio entre arcadas ou pilares de pontes, viadutos, aquedutos, etc.
+VANOS	(forma de vano) (substantivo) olhal: o espaço vazio entre arcadas ou pilares de pontes, viadutos, aquedutos, etc.
+VANUATUENSE	(adjetivo) vanuatuense: habitante ou natural de Vanuatu\n(substantivo) vanuatuense: habitante ou natural de Vanuatu
+VAPOR	(substantivo) vapor: exalação gasosa
+VAPORES	(forma de vapor) (substantivo) vapor: exalação gasosa
+VAPORICE	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZA	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZADOR	(substantivo) vaporizador se traduz como vaporizador
+VAPORIZAMOS	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZAN	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZAR	(verbo) vaporizar: o mesmo que evaporar
+VAPORIZARA	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZARE	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZARIA	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZARON	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPORIZO	(forma de vaporizar) (verbo) vaporizar: o mesmo que evaporar
+VAPULEA	(forma de vapulear) (verbo) bater: golpear um cunho; cunhar (também: vapular)
+VAPULEAR	(verbo) bater: golpear um cunho; cunhar (também: vapular)
+VAPULEARON	(forma de vapulear) (verbo) bater: golpear um cunho; cunhar (também: vapular)
+VAPULEASTE	(forma de vapulear) (verbo) bater: golpear um cunho; cunhar (também: vapular)
+VAPULEEN	(forma de vapulear) (verbo) bater: golpear um cunho; cunhar (também: vapular)
+VAQUERO	(substantivo) vaqueiro: pessoa que tem como profissão cuidar de rebanhos de bois (também: boiadeiro, boieiro)
+VAQUEROS	(forma de vaquero) (substantivo) vaqueiro: pessoa que tem como profissão cuidar de rebanhos de bois (também: boiadeiro, boieiro)
+VAQUILLA	(substantivo) novilha: vaca que ainda não pariu, vitela
+VAQUILLAS	(forma de vaquilla) (substantivo) novilha: vaca que ainda não pariu, vitela
+VAQUITA	(substantivo) cetáceo marinho do hemisfério norte, espécie de toninha do Golfo da Califórnia, (Phocoena sinus)
+VARA	(substantivo) poste: grande e alongado cilindro de madeira, cimento ou outro material e que é usado para sustentar fios elétricos, lâmpadas, etc (também: vara, verga)
+VARADA	(substantivo) varada se traduz como ⟪aterramento⟫
+VARAL	(substantivo) varal, grande vara usada em andores
+VARAMOS	(forma de varar) (verbo) abandonar: renunciar, largar, abrir mão, desistir
+VARAN	(forma de varar) (verbo) abandonar: renunciar, largar, abrir mão, desistir
+VARAPALO	(substantivo) golpe: pancada, choque (físico ou moral) (também: revés)
+VARAR	(verbo) abandonar: renunciar, largar, abrir mão, desistir
+VARARON	(forma de varar) (verbo) abandonar: renunciar, largar, abrir mão, desistir
+VARAS	(forma de vara) (substantivo) poste: grande e alongado cilindro de madeira, cimento ou outro material e que é usado para sustentar fios...
+VARE	(forma de varar) (verbo) abandonar: renunciar, largar, abrir mão, desistir
+VARES	(forma de varar) (verbo) abandonar: renunciar, largar, abrir mão, desistir
+VARI	(substantivo) vari se traduz como gaviao-cinzento
+VARIA	(forma de variar) (verbo) variar: alterar
+VARIABA	(forma de variar) (verbo) variar: alterar
+VARIABAN	(forma de variar) (verbo) variar: alterar
+VARIABILIDAD	(substantivo) variabilidade: qualidade do que é variável
+VARIABLE	(adjetivo) variável: elemento de um programa que armazena valores\n(substantivo) variável: elemento de um programa que armazena valores
+VARIABLES	(forma de variable) (adjetivo) variável: elemento de um programa que armazena valores
+VARIADA	(adjetivo) feminino de variado
+VARIADAS	(adjetivo) feminino plural de variado
+VARIADO	(adjetivo) diverso: diferente, variado, que há diversidade
+VARIADOS	(adjetivo) plural de variado
+VARIAMOS	(forma de variar) (verbo) variar: alterar
+VARIAN	(forma de variar) (verbo) variar: alterar
+VARIANTE	(substantivo) variante: um de dois ou mais indivíduos, objetos ou entidades que exibem diferenças geralmente ligeiras
+VARIANTES	(forma de variante) (substantivo) variante: um de dois ou mais indivíduos, objetos ou entidades que exibem diferenças geralmente ligeiras
+VARIAR	(verbo) variar: alterar
+VARIARA	(forma de variar) (verbo) variar: alterar
+VARIARIA	(forma de variar) (verbo) variar: alterar
+VARIAS	(forma de variar) (verbo) variar: alterar
+VARICELA	(substantivo) varicela: doença febril e infecto-contagiosa
+VARIE	(forma de variar) (verbo) variar: alterar
+VARIEDAD	(substantivo) variedade: diferença; diversidade; inconstância; variação
+VARIEGADO	(adjetivo) variegado: que apresenta variadas tonalidades de cores
+VARIEN	(forma de variar) (verbo) variar: alterar
+VARIETAL	(adjetivo) varietal: diz-se do vinho feito exclusivamente, ou em maior quantidade, de uma única variedade de uva
+VARILLA	(substantivo) varilla se traduz como varinha
+VARILLAJE	(substantivo) lincagem: conexão ou relação entre coisas ou ideias
+VARILLAS	(forma de varilla) (substantivo) varilla se traduz como varinha
+VARIOPINTA	(forma de variopinto) (adjetivo) diverso: diferente, variado, que há diversidade (também: eclético)
+VARIOPINTO	(adjetivo) diverso: diferente, variado, que há diversidade (também: eclético)
+VARIOPINTOS	(forma de variopinto) (adjetivo) diverso: diferente, variado, que há diversidade (também: eclético)
+VARIOS	(adjetivo) varios se traduz como ⟪vários|VARIOS⟫
+VARIS	(forma de vari) (substantivo) vari se traduz como gaviao-cinzento
+VARITA	(substantivo) varita se traduz como varinha
+VARIZ	(substantivo) variz: dilatação ou tortuosidade de veias do corpo humano
+VARON	(substantivo) varão: indivíduo do sexo masculino: (também: homem)
+VARONES	(forma de varon) (substantivo) varão: indivíduo do sexo masculino: (também: homem)
+VARONIL	(adjetivo) varonil: de aspecto forte, masculino, enérgico
+VARONILES	(forma de varonil) (adjetivo) varonil: de aspecto forte, masculino, enérgico
+VARONILMENTE	(advérbio) varonilmente: de modo varonil
+VAS	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VASALLA	(forma de vasallo) (substantivo) vassalo: na Idade Média, o servo da terra submetido a autoridade absoluta de um suserano
+VASALLO	(substantivo) vassalo: na Idade Média, o servo da terra submetido a autoridade absoluta de um suserano
+VASALLOS	(forma de vasallo) (substantivo) vassalo: na Idade Média, o servo da terra submetido a autoridade absoluta de um suserano
+VASCA	(forma de vasco) (substantivo) natural ou habitante do País Basco
+VASCAS	(forma de vasco) (substantivo) natural ou habitante do País Basco
+VASCO	(substantivo) natural ou habitante do País Basco
+VASCOS	(forma de vasco) (substantivo) natural ou habitante do País Basco
+VASCULAR	(adjetivo) vascular: relativo aos vasos (especialmente aos vasos sanguíneos)
+VASCULARES	(forma de vascular) (adjetivo) vascular: relativo aos vasos (especialmente aos vasos sanguíneos)
+VASECTOMIA	(substantivo) vasectomia: excisão do vaso deferente ou de uma parte dele para induzir a esterilidade no homem
+VASECTOMIAS	(forma de vasectomia) (substantivo) vasectomia: excisão do vaso deferente ou de uma parte dele para induzir a esterilidade no homem
+VASELINA	(substantivo) vaselina: parafina líquida oleaginosa, límpida, incolor, não fluorescente, inodora quando fria, insípida
+VASIJA	(substantivo) vasilha: recipiente de uso doméstico usado para acondicionar alimentos
+VASIJAS	(forma de vasija) (substantivo) vasilha: recipiente de uso doméstico usado para acondicionar alimentos
+VASO	(substantivo) vaso se traduz como vaso^
+VASOS	(forma de vaso) (substantivo) vaso se traduz como vaso^
+VASTA	(forma de vasto) (adjetivo) vasto: de grande extensão
+VASTAGO	(substantivo) caule: a parte aérea do eixo principal das plantas superiores, ligada à raiz, e da qual se desenvolvem os ramos e as folhas
+VASTAGOS	(forma de vastago) (substantivo) caule: a parte aérea do eixo principal das plantas superiores, ligada à raiz, e da qual se desenvolvem os...
+VASTAS	(forma de vasto) (adjetivo) vasto: de grande extensão
+VASTEDAD	(substantivo) extensão: ato ou efeito de estender-se (também: espessura, largura)
+VASTO	(adjetivo) vasto: de grande extensão
+VASTOS	(forma de vasto) (adjetivo) vasto: de grande extensão
+VATE	(substantivo) vate: poeta, trovador
+VATER	(substantivo) privada: latrina, vaso sanitário (também: vaso sanitário)
+VATICINA	(forma de vaticinar) (verbo) vaticinar: profetizar, prognosticar:
+VATICINABA	(forma de vaticinar) (verbo) vaticinar: profetizar, prognosticar:
+VATICINADOR	(adjetivo) vaticinador: pessoa que vaticina, que prediz, que prognostica: que prevê
+VATICINAR	(verbo) vaticinar: profetizar, prognosticar:
+VATICINIO	(substantivo) predição: vaticínio
+VATICINIOS	(forma de vaticinio) (substantivo) predição: vaticínio
+VATICINO	(forma de vaticinar) (verbo) vaticinar: profetizar, prognosticar:
+VATIO	(substantivo) watt: ver vátio (unidade do Sistema Internacional de Unidades utilizada para potência)
+VATIOS	(forma de vatio) (substantivo) watt: ver vátio (unidade do Sistema Internacional de Unidades utilizada para potência)
+VATO	(substantivo) varão: indivíduo do sexo masculino: (também: tipo, gajo)
+VATOS	(forma de vato) (substantivo) varão: indivíduo do sexo masculino: (também: tipo, gajo)
+VAYA	(substantivo) piada: pequena história, normalmente ficcional, com final engraçado (também: brincadeira, brinca)
+VAYAMONOS	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VAYAMOS	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VAYAN	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VAYANSE	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VAYASE	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VEA	(forma de ver) (substantivo) visão, sentido dos olhos
+VEAIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEAMONOS	(forma de verse) (verbo) flexão do verbo versar
+VEAMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEAN	(forma de ver) (substantivo) visão, sentido dos olhos
+VEANSE	(forma de verse) (verbo) flexão do verbo versar
+VEAS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEASE	(forma de verse) (verbo) flexão do verbo versar
+VECERO	(substantivo) mecenas: plural de mecenas
+VECINA	(forma de vecino) (adjetivo) vizinho: morador, habitante
+VECINAL	(adjetivo) local: lugar; localidade; sítio
+VECINALES	(forma de vecinal) (adjetivo) local: lugar; localidade; sítio
+VECINAS	(forma de vecino) (adjetivo) vizinho: morador, habitante
+VECINDAD	(substantivo) vizinhança: qualidade do que é vizinho
+VECINDADES	(forma de vecindad) (substantivo) vizinhança: qualidade do que é vizinho
+VECINDARIO	(substantivo) vizinhança: pessoas ou seres vizinhos
+VECINDARIOS	(forma de vecindario) (substantivo) vizinhança: pessoas ou seres vizinhos
+VECINO	(adjetivo) vizinho: morador, habitante
+VECINOS	(forma de vecino) (adjetivo) vizinho: morador, habitante
+VECTOR	(substantivo) vetor: qualquer ser vivo que transmite doenças; meio de transporte de doenças
+VECTORES	(forma de vector) (substantivo) vetor: qualquer ser vivo que transmite doenças; meio de transporte de doenças
+VECTORIAL	(adjetivo) vectorial: vide vetorial
+VECTORIALES	(forma de vectorial) (adjetivo) vectorial: vide vetorial
+VED	(forma de ver) (substantivo) visão, sentido dos olhos
+VEDA	(substantivo) proibição: vedação
+VEDAD	(forma de vedar) (verbo) vedar: proibir; impedir; embaraçar (também: proibir, impedir)
+VEDADA	(forma de vedado) (adjetivo) vedado se traduz como ⟪vedado⟫
+VEDADAS	(forma de vedado) (adjetivo) vedado se traduz como ⟪vedado⟫
+VEDADO	(adjetivo) vedado se traduz como ⟪vedado⟫
+VEDADOS	(forma de vedado) (adjetivo) vedado se traduz como ⟪vedado⟫
+VEDAR	(verbo) vedar: proibir; impedir; embaraçar (também: proibir, impedir)
+VEDAS	(forma de veda) (substantivo) proibição: vedação
+VEDE	(forma de vedar) (verbo) vedar: proibir; impedir; embaraçar (também: proibir, impedir)
+VEDISMO	(substantivo) vedismo: o primeiro dos três períodos da religião indiana, baseado na mitologia e no ritualismo dos Vedas
+VEDO	(forma de vedar) (verbo) vedar: proibir; impedir; embaraçar (também: proibir, impedir)
+VEEDOR	(adjetivo) vedor: por extensão de substantivo 4 acima, o instrumento para a busca de nascentes consistente numa verga em forma de forcada, ou numas varinhas de cobre\n(substantivo) vedor: por extensão de substantivo 4 acima, o instrumento para a busca de nascentes consistente numa verga em forma de forcada, ou numas varinhas de cobre
+VEGA	(substantivo) veiga: terrenos imediatos a um rio, várzea
+VEGANISMO	(substantivo) veganismo: filosofia baseada nos direitos animais, que concebe estes como sujeitos de direitos, não objetos de direitos; por conseguinte, evita todo e qualquer tipo de uso ou exploração animal, seja no vestuário (couro, camurça, lã, etc), entretenimento (rodeio, vaquejada, etc), alimentação (carne, ovos,...
+VEGANO	(substantivo) vegano: adepto do veganismo
+VEGAS	(forma de vega) (substantivo) veiga: terrenos imediatos a um rio, várzea
+VEGETACION	(substantivo) vegetação: os vegetais
+VEGETACIONES	(forma de vegetacion) (substantivo) vegetação: os vegetais
+VEGETAL	(substantivo) vegetal: planta (ser vivo)
+VEGETALES	(forma de vegetal) (substantivo) vegetal: planta (ser vivo)
+VEGETARIANA	(forma de vegetariano) (substantivo) herbívoro: que se alimenta de ervas ou de vegetais
+VEGETARIANAS	(forma de vegetariano) (substantivo) herbívoro: que se alimenta de ervas ou de vegetais
+VEGETARIANISMO	(substantivo) vegetarianismo: regime alimentar baseado unicamente no uso de vegetais
+VEGETARIANO	(substantivo) herbívoro: que se alimenta de ervas ou de vegetais
+VEGETARIANOS	(forma de vegetariano) (substantivo) herbívoro: que se alimenta de ervas ou de vegetais
+VEGUER	(substantivo) pároco: encarregado de uma paróquia
+VEHEMENCIA	(substantivo) veemência: qualidade ou estado de veemente
+VEHICULO	(substantivo) veículo: qualquer tipo de meio de transporte (também: automóvel)
+VEHICULOS	(forma de vehiculo) (substantivo) veículo: qualquer tipo de meio de transporte (também: automóvel)
+VEIA	(forma de ver) (substantivo) visão, sentido dos olhos
+VEIAIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEIAMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEIAN	(forma de ver) (substantivo) visão, sentido dos olhos
+VEIAS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEINTE	(numeral) vinte: número equivalente a dezenove mais um; cardinalidade de um conjunto que contenha duas dezenas de elementos distintos; representado pelo símbolo 20 (algarismos arábicos) ou XX (algarismos romanos)\n(substantivo) vinte: número equivalente a dezenove mais um; cardinalidade de um conjunto que contenha duas dezenas de elementos distintos; representado pelo símbolo 20 (algarismos arábicos) ou XX (algarismos romanos)
+VEINTEAVA	(forma de veinteavo) (adjetivo) vigésimo: cada um dos bilhetes de um dado número na loteria
+VEINTEAVO	(adjetivo) vigésimo: cada um dos bilhetes de um dado número na loteria\n(substantivo) vigésimo: cada um dos bilhetes de um dado número na loteria (também: vigésima)
+VEINTENA	(substantivo) pontuação: número de pontos atribuídos em teste ou jogo: (também: placar, vintena)
+VEINTENAS	(forma de veintena) (substantivo) pontuação: número de pontos atribuídos em teste ou jogo: (também: placar, vintena)
+VEINTENO	(adjetivo) vigésimo: a pessoa ou coisa que está logo após o décimo nono numa série\n(substantivo) vigésimo: a pessoa ou coisa que está logo após o décimo nono numa série (também: vigésima)
+VEINTES	(forma de veinte) (numeral) vinte: número equivalente a dezenove mais um; cardinalidade de um conjunto que contenha duas dezenas de...
+VEINTICINCO	(numeral) veinticinco se traduz como vinte e cinco\n(substantivo) veinticinco se traduz como vinte e cinco
+VEINTICUATRO	(numeral) veinticuatro se traduz como vinte e quatro
+VEINTIDOS	(numeral) veintidos se traduz como vinte e dois, vinte e duas
+VEINTINUEVE	(numeral) veintinueve se traduz como vinte e nove
+VEINTIOCHO	(numeral) veintiocho se traduz como vinte e oito\n(substantivo) veintiocho se traduz como vinte e oito
+VEINTISEIS	(numeral) veintiseis se traduz como vinte e seis
+VEINTISIETE	(numeral) veintisiete se traduz como vinte e sete
+VEINTITRES	(numeral) veintitres se traduz como vinte e três
+VEINTIUN	(numeral) veintiun se traduz como vinte e um
+VEINTIUNA	(numeral) veintiuna se traduz como vinte e uma
+VEINTIUNO	(numeral) vinte e um: vigésimo primeiro dia dum mês\n(substantivo) vinte e um: vigésimo primeiro dia dum mês
+VEIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEISALGIA	(substantivo) veisalgia se traduz como veisalgia
+VEJA	(forma de vejar) (verbo) molestar: incomodar (também: incomodar, assediar)
+VEJACION	(substantivo) vejacion se traduz como vexação
+VEJACIONES	(forma de vejacion) (substantivo) vejacion se traduz como vexação
+VEJADOR	(adjetivo) vexatório: que causa vexame; humilhante; constrangedor (também: vexante)
+VEJAMEN	(substantivo) vejamen se traduz como ⟪sátira|SATIRA⟫
+VEJAR	(verbo) molestar: incomodar (também: incomodar, assediar)
+VEJES	(forma de vejar) (verbo) molestar: incomodar (também: incomodar, assediar)
+VEJEZ	(substantivo) velhice, fase da vida que vem depois da maturidade:
+VEJIGA	(substantivo) bexiga: órgão do sistema excretor que armazena urina
+VEJIGAS	(forma de vejiga) (substantivo) bexiga: órgão do sistema excretor que armazena urina
+VEJO	(forma de vejar) (verbo) molestar: incomodar (também: incomodar, assediar)
+VELA	(substantivo) vela: peça de brim ou lona que, presa às vergas de um mastro ou ao próprio mastro da embarcação, impele esta com a ajuda do vento\n(verbo) terceira pessoa do singular do presente do indicativo do verbo velar: velar
+VELABA	(forma de velar) (adjetivo) velar: passar sem dormir
+VELABAN	(forma de velar) (adjetivo) velar: passar sem dormir
+VELAD	(forma de velar) (adjetivo) velar: passar sem dormir
+VELADA	(substantivo) noite: trevas, escuridão, período de provação e sofrimento (também: anoitecer, anoutecer)
+VELADOR	(substantivo) candelabro: castiçal para muitas velas
+VELADORAS	(forma de velador) (substantivo) candelabro: castiçal para muitas velas
+VELADORES	(forma de velador) (substantivo) candelabro: castiçal para muitas velas
+VELAMEN	(substantivo) velame: conjunto de velas de uma embarcação
+VELAMOS	(forma de velar) (adjetivo) velar: passar sem dormir
+VELAN	(forma de velar) (adjetivo) velar: passar sem dormir
+VELAR	(adjetivo) velar: passar sem dormir\n(verbo) velar: passar sem dormir
+VELARA	(forma de velar) (adjetivo) velar: passar sem dormir
+VELARAN	(forma de velar) (adjetivo) velar: passar sem dormir
+VELARAS	(forma de velar) (adjetivo) velar: passar sem dormir
+VELARE	(forma de velar) (adjetivo) velar: passar sem dormir
+VELAREMOS	(forma de velar) (adjetivo) velar: passar sem dormir
+VELARIA	(forma de velar) (adjetivo) velar: passar sem dormir
+VELARON	(forma de velar) (adjetivo) velar: passar sem dormir
+VELATORIO	(substantivo) velório: algo sem valor
+VELATORIOS	(forma de velatorio) (substantivo) velório: algo sem valor
+VELCRO	(substantivo) velcro: fecho de tecido aderente
+VELE	(forma de velar) (adjetivo) velar: passar sem dormir
+VELEIDAD	(substantivo) veleidade: devaneio
+VELEIDADES	(forma de veleidad) (substantivo) veleidade: devaneio
+VELEJAR	(verbo) velejar: navegar à vela (também: vellejar)
+VELEMOS	(forma de velar) (adjetivo) velar: passar sem dormir
+VELEN	(forma de velar) (adjetivo) velar: passar sem dormir
+VELERO	(substantivo) veleiro: diz-se daquilo que se move à vela; movido pelo vento\n(adjetivo) veleiro: diz-se daquilo que se move à vela; movido pelo vento
+VELEROS	(forma de velero) (substantivo) veleiro: diz-se daquilo que se move à vela; movido pelo vento
+VELES	(forma de velar) (adjetivo) velar: passar sem dormir
+VELETA	(substantivo) ventoinha: instrumento que indica a procedência do vento, formado por uma placa metálica ligeira que gira sobre um eixo (também: cata-vento)
+VELETAS	(forma de veleta) (substantivo) ventoinha: instrumento que indica a procedência do vento, formado por uma placa metálica ligeira que gira...
+VELIS	(substantivo) mala: espécie de caixa para o transporte de roupa e outros objetos em viagem
+VELIZ	(substantivo) mala: espécie de caixa para o transporte de roupa e outros objetos em viagem
+VELLO	(substantivo) pelo: filamento, composto em grande parte de ceratina, que cresce na pele de alguns animais e dos humanos (também: penugem)
+VELLON	(substantivo) bilhão: qualquer moeda de ouro, prata, liga ou título ('proporção que entra numa liga') muito baixo
+VELLOS	(forma de vello) (substantivo) pelo: filamento, composto em grande parte de ceratina, que cresce na pele de alguns animais e dos humanos...
+VELLOSA	(forma de velloso) (adjetivo) peludo: que tem o corpo coberto de pelos
+VELLOSAS	(forma de velloso) (adjetivo) peludo: que tem o corpo coberto de pelos
+VELLOSO	(adjetivo) peludo: que tem o corpo coberto de pelos
+VELLUDA	(forma de velludo) (substantivo) velludo se traduz como ⟪feltro⟫
+VELLUDAS	(forma de velludo) (substantivo) velludo se traduz como ⟪feltro⟫
+VELLUDO	(substantivo) velludo se traduz como ⟪feltro⟫\n(adjetivo) peludo: que tem muitos pelos
+VELLUDOS	(forma de velludo) (substantivo) velludo se traduz como ⟪feltro⟫
+VELO	(substantivo) manto: veste feminina, larga, comprida e sem mangas, usado por cima do vestido, que pode cobrir inclusive a cabeça, cingida pela cintura (também: véu)
+VELOCES	(forma de veloz) (adjetivo) veloz: rápido
+VELOCIDAD	(substantivo) velocidade: razão entre um deslocamento de um corpo ou ponto material e o tempo levado para efetuar esse deslocamento (também: rapidez)
+VELOCIDADES	(forma de velocidad) (substantivo) velocidade: razão entre um deslocamento de um corpo ou ponto material e o tempo levado para efetuar esse...
+VELOCIMETRO	(substantivo) velocímetro: aparelho que mede ou mostra a velocidade de um veículo
+VELOCIMETROS	(forma de velocimetro) (substantivo) velocímetro: aparelho que mede ou mostra a velocidade de um veículo
+VELORIO	(substantivo) esteira: rasto espumante deixado por embarcação na água ao se deslocar (também: velório)
+VELORIOS	(forma de velorio) (substantivo) esteira: rasto espumante deixado por embarcação na água ao se deslocar (também: velório)
+VELOS	(forma de velo) (substantivo) manto: veste feminina, larga, comprida e sem mangas, usado por cima do vestido, que pode cobrir inclusive...
+VELOZ	(adjetivo) veloz: rápido
+VELOZMENTE	(advérbio) velozmente: com rapidez, de forma veloz, apressadamente
+VEMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENA	(substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao coração; geralmente, conduz sangue pobre em oxigênio; a exceção é a veia pulmonar, que conduz sangue rico em oxigênio
+VENADO	(substantivo) veado: animal ruminante pertencente a alguma das espécies da família dos cervídeos (também: cervo)
+VENADOS	(forma de venado) (substantivo) veado: animal ruminante pertencente a alguma das espécies da família dos cervídeos (também: cervo)
+VENAL	(adjetivo) venal: que se pode vender
+VENALES	(forma de venal) (adjetivo) venal: que se pode vender
+VENAS	(forma de vena) (substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao...
+VENATICO	(adjetivo) doido: louco, maluco, pirado (também: louco, irado)
+VENCE	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCED	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCEDOR	(adjetivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:\n(substantivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+VENCEDORA	(forma de vencedor) (adjetivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+VENCEDORAS	(forma de vencedor) (adjetivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+VENCEDORES	(forma de vencedor) (adjetivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+VENCEIS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCEJO	(substantivo) andorinhão: ave semelhante a uma andorinha, de tamanho maior, negra, com muita habilidade no voo, nunca pousa no chão, da família Apodidae
+VENCEJOS	(forma de vencejo) (substantivo) andorinhão: ave semelhante a uma andorinha, de tamanho maior, negra, com muita habilidade no voo, nunca...
+VENCEMOS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCEN	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCER	(verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERA	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERAN	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERAS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERE	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCEREIS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCEREMOS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERIA	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERIAMOS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERIAN	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCERIAS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCES	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCI	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIA	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIAN	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIDA	(substantivo) vitória: ato ou efeito de vencer
+VENCIERA	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIERAMOS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIERAN	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIERAS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIERON	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIESE	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIMIENTO	(substantivo) derrota: ato de ser vencido (também: colapso)
+VENCIMIENTOS	(forma de vencimiento) (substantivo) derrota: ato de ser vencido (também: colapso)
+VENCIMOS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCIO	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCISTE	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENCISTEIS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENDA	(substantivo) atadura: tira longa de gaze que serve para curativos
+VENDABA	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDABAN	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAD	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAIS	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAJE	(substantivo) atadura: tira longa de gaze que serve para curativos (também: molho)
+VENDAJES	(forma de vendaje) (substantivo) atadura: tira longa de gaze que serve para curativos (também: molho)
+VENDAMOS	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAN	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAR	(verbo) cobrir machucado com curativo
+VENDARA	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDARAN	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDARE	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAREMOS	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDARIA	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDARON	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAS	(forma de venda) (substantivo) atadura: tira longa de gaze que serve para curativos
+VENDASTE	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDAVAL	(substantivo) vendaval: vento forte, com grande poder de destruição, que pode atingir os 150km/h
+VENDE	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDED	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDEDOR	(adjetivo) comerciante: vendedor (também: vendedor)\n(substantivo) comerciante: vendedor (também: vendedor)
+VENDEDORA	(forma de vendedor) (adjetivo) comerciante: vendedor (também: vendedor)
+VENDEDORAS	(forma de vendedor) (adjetivo) comerciante: vendedor (também: vendedor)
+VENDEDORES	(forma de vendedor) (adjetivo) comerciante: vendedor (também: vendedor)
+VENDEIS	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDEMOS	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDEN	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDEPATRIAS	(substantivo) traidor: que atraiçoa
+VENDER	(verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERA	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERAN	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERAS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERE	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDEREIS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDEREMOS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERIA	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERIAMOS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERIAN	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDERIAS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDES	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDETTA	(substantivo) vingança: ato de vingar
+VENDI	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIA	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIAMOS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIAN	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIAS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIDA	(forma de vendido) (substantivo) vendido: cedido por certo preço
+VENDIDAS	(forma de vendido) (substantivo) vendido: cedido por certo preço
+VENDIDO	(substantivo) vendido: cedido por certo preço
+VENDIDOS	(forma de vendido) (substantivo) vendido: cedido por certo preço
+VENDIERA	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIERAMOS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIERAN	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIERAS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIERON	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIESE	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIESEMOS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIESEN	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIESES	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIMIA	(substantivo) vindima: colheita de uva
+VENDIMOS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDIO	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDISTE	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDISTEIS	(forma de vender) (verbo) vender: trocar algo (por exemplo, produtos e/ou ativos) por dinheiro com alguém (também: ceder, colocar)
+VENDO	(forma de vendar) (verbo) cobrir machucado com curativo
+VENDRA	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRAN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRAS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRE	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDREIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDREMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRIA	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRIAIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRIAMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRIAN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDRIAS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENDUTERO	(substantivo) comerciante: aquele que trabalha em assuntos relacionados ao comércio
+VENENIFERO	(adjetivo) venenoso: que possui veneno
+VENENO	(substantivo) veneno: tóxico, peçonha
+VENENOS	(forma de veneno) (substantivo) veneno: tóxico, peçonha
+VENENOSA	(forma de venenoso) (adjetivo) venenoso: mal-intencionado
+VENENOSAMENTE	(advérbio) venenosamente: de modo venenoso
+VENENOSAS	(forma de venenoso) (adjetivo) venenoso: mal-intencionado
+VENENOSO	(adjetivo) venenoso: mal-intencionado
+VENENOSOS	(forma de venenoso) (adjetivo) venenoso: mal-intencionado
+VENERA	(verbo) flexão do verbo venerar
+VENERABLE	(adjetivo) venerável: que é, ou pode ser, objeto de veneração
+VENERABLES	(forma de venerable) (adjetivo) venerável: que é, ou pode ser, objeto de veneração
+VENERANDO	(adjetivo) venerável: que é, ou pode ser, objeto de veneração
+VENERAS	(forma de venera) (verbo) flexão do verbo venerar
+VENEREA	(adjetivo) feminino de venéreo: venéreo
+VENEREAS	(adjetivo) feminino plural de venéreo: venéreo
+VENEREO	(adjetivo) venéreo: referente à sexualidade
+VENERO	(substantivo) primavera: estação do ano que se segue ao inverno e antecede o verão; a primeira estação no hemisfério norte, iniciando-se em março, no equinócio vernal (também: fonte, mola)
+VENETO	(substantivo) vêneto: língua falada nessa região
+VENEZOLANA	(forma de venezolano) (adjetivo) venezuelano: da Venezuela
+VENEZOLANAS	(forma de venezolano) (adjetivo) venezuelano: da Venezuela
+VENEZOLANISMO	(substantivo) venezolanismo: palavra ou modo de falar próprios dos venezuelanos
+VENEZOLANO	(adjetivo) venezuelano: da Venezuela\n(substantivo) venezuelano: da Venezuela
+VENEZOLANOS	(forma de venezolano) (adjetivo) venezuelano: da Venezuela
+VENGA	(interjeição) uau: exprime espanto ou surpresa
+VENGABA	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGAD	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGADOR	(adjetivo) vingador: pessoa vingadora
+VENGADORA	(forma de vengador) (adjetivo) vingador: pessoa vingadora
+VENGADORAS	(forma de vengador) (adjetivo) vingador: pessoa vingadora
+VENGADORES	(forma de vengador) (adjetivo) vingador: pessoa vingadora
+VENGAIS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGAMOS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGAN	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGANZA	(substantivo) vingança: castigo
+VENGANZAS	(forma de venganza) (substantivo) vingança: castigo
+VENGAR	(verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARA	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARAN	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARAS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARE	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGAREMOS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARIA	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARIAN	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARIAS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGARON	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGAS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGASE	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGASTE	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGO	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGUE	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGUEIS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGUEMOS	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGUEN	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENGUES	(forma de vengar) (verbo) vingar: tomar satisfação de alguém; realizar uma vingança: (também: revidar)
+VENI	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENIA	(substantivo) vênia: desculpa, perdão, indulgência
+VENIAIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENIAL	(adjetivo) venial: diz-se do pecado que não é muito grave e pode ser facilmente perdoado
+VENIALES	(forma de venial) (adjetivo) venial: diz-se do pecado que não é muito grave e pode ser facilmente perdoado
+VENIAMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENIAN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENIAS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENID	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENIDA	(substantivo) chegada: o ato de chegar
+VENIDERA	(forma de venidero) (adjetivo) iminente: que pode acontecer a qualquer momento
+VENIDERAS	(forma de venidero) (adjetivo) iminente: que pode acontecer a qualquer momento
+VENIDERO	(adjetivo) iminente: que pode acontecer a qualquer momento
+VENIDEROS	(forma de venidero) (adjetivo) iminente: que pode acontecer a qualquer momento
+VENIMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENIR	(verbo) vir: transportar-se para o local onde está o interlocutor
+VENIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VENOSA	(forma de venoso) (adjetivo) venoso: que tem veias
+VENOSAS	(forma de venoso) (adjetivo) venoso: que tem veias
+VENOSO	(adjetivo) venoso: que tem veias
+VENOSOS	(forma de venoso) (adjetivo) venoso: que tem veias
+VENTA	(substantivo) venda: ato ou efeito de vender
+VENTAJA	(substantivo) lucro: benefício conquistado de alguma situação ou tarefa
+VENTAJAS	(forma de ventaja) (substantivo) lucro: benefício conquistado de alguma situação ou tarefa
+VENTAJISMO	(substantivo) ressentimento: sentimento de desprazer ou indignação em relação a algum ato ou comentário insultuoso ou injurioso (também: nervo, bile)
+VENTAJISTA	(adjetivo) oportunista: aquele que aproveita as oportunidades, por vezes sem ética
+VENTAJOSA	(forma de ventajoso) (adjetivo) vantajoso: que traz ou que produz vantagem
+VENTAJOSAS	(forma de ventajoso) (adjetivo) vantajoso: que traz ou que produz vantagem
+VENTAJOSO	(adjetivo) vantajoso: que traz ou que produz vantagem
+VENTAJOSOS	(forma de ventajoso) (adjetivo) vantajoso: que traz ou que produz vantagem
+VENTALLE	(substantivo) ventoinha: instrumento ventilador formado por uma hélice que gira enclausurada em um suporte junto ao objeto a ser resfriado ou que dá vazão a ar quente em direção ao exterior (também: ventilador, leque)
+VENTANA	(substantivo) janela: buraco na parede, geralmente retangular, feito para permitir a entrada de luz e ar
+VENTANAS	(forma de ventana) (substantivo) janela: buraco na parede, geralmente retangular, feito para permitir a entrada de luz e ar
+VENTANILLA	(substantivo) ventanilla se traduz como ⟪postigo⟫
+VENTANILLAS	(forma de ventanilla) (substantivo) ventanilla se traduz como ⟪postigo⟫
+VENTAR	(verbo) soprar: fazer vento com a boca ou com fole; ventar (também: estourar, espocar)
+VENTAS	(forma de venta) (substantivo) venda: ato ou efeito de vender
+VENTEAR	(verbo) soprar: fazer vento com a boca ou com fole; ventar (também: estourar, espocar)
+VENTILA	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILABA	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILACION	(substantivo) ventilação: ato ou efeito de ventilar
+VENTILACIONES	(forma de ventilacion) (substantivo) ventilação: ato ou efeito de ventilar
+VENTILADOR	(substantivo) ventilador: eletrodoméstico usado para gerar uma corrente de ar, para refrescar um ambiente de um lado e depois de outro
+VENTILADORES	(forma de ventilador) (substantivo) ventilador: eletrodoméstico usado para gerar uma corrente de ar, para refrescar um ambiente de um lado e...
+VENTILAMOS	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILAN	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILAR	(verbo) ventilar: expor ao vento
+VENTILARA	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILARE	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILAREMOS	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILARON	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILAS	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILE	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILEMOS	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILEN	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILES	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTILO	(forma de ventilar) (verbo) ventilar: expor ao vento
+VENTISCA	(substantivo) nevasca: tempestade de neve
+VENTISCAS	(forma de ventisca) (substantivo) nevasca: tempestade de neve
+VENTISQUERO	(substantivo) tempestade: estado climático caracterizado por ventos fortes e, muitas vezes, acompanhado por chuva, granizo, relâmpagos e trovões (também: tormenta, intempérie)
+VENTOLERA	(substantivo) lufada, rajada breve de vento
+VENTOSAS	(forma de ventoso) (substantivo) ventoso: terceiro mês do inverno do Calendário Revolucionário Francês
+VENTOSEAR	(verbo) peidar: soltar gases pelo ânus
+VENTOSIDAD	(substantivo) flatulência: acumulação de gases no estômago e nos intestinos
+VENTOSIDADES	(forma de ventosidad) (substantivo) flatulência: acumulação de gases no estômago e nos intestinos
+VENTOSO	(substantivo) ventoso: terceiro mês do inverno do Calendário Revolucionário Francês
+VENTOSOS	(forma de ventoso) (substantivo) ventoso: terceiro mês do inverno do Calendário Revolucionário Francês
+VENTRAL	(adjetivo) ventral se traduz como ventral
+VENTRALES	(forma de ventral) (adjetivo) ventral se traduz como ventral
+VENTRILOCUA	(forma de ventrilocuo) (adjetivo) ventríloquo: pessoa capaz de articular e de ser entendida sem mexer os lábios, e de modificar de tal maneira...
+VENTRILOCUO	(adjetivo) ventríloquo: pessoa capaz de articular e de ser entendida sem mexer os lábios, e de modificar de tal maneira sua voz que ela parece não vir deles\n(substantivo) ventríloquo: pessoa capaz de articular e de ser entendida sem mexer os lábios, e de modificar de tal maneira sua voz que ela parece não vir deles
+VENTRILOCUOS	(forma de ventrilocuo) (adjetivo) ventríloquo: pessoa capaz de articular e de ser entendida sem mexer os lábios, e de modificar de tal maneira...
+VENTURA	(substantivo) ventura: felicidade
+VENTURAS	(forma de ventura) (substantivo) ventura: felicidade
+VENTUROSA	(forma de venturoso) (adjetivo) venturoso: que tem ventura; ditoso
+VENTUROSO	(adjetivo) venturoso: que tem ventura; ditoso
+VENTUROSOS	(forma de venturoso) (adjetivo) venturoso: que tem ventura; ditoso
+VENUSINA	(adjetivo) feminino de venusino: venusino, venusiano\n(substantivo) feminino de venusino: venusino, venusiano
+VENUSINAS	(adjetivo) feminino plural de venusino: venusino, venusiano\n(substantivo) feminino plural de venusino: venusino, venusiano
+VENUSINO	(adjetivo) venusiano: natural ou habitante do planeta Vênus (também: venusino)\n(substantivo) venusiano: natural ou habitante do planeta Vênus (também: venusino)
+VENUSINOS	(adjetivo) plural de venusino: venusino, venusiano\n(substantivo) plural de venusino: venusino, venusiano
+VENZA	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENZAMOS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENZAN	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENZAS	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VENZO	(forma de vencer) (verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir
+VEO	(forma de ver) (substantivo) visão, sentido dos olhos
+VEOS	(forma de verse) (verbo) flexão do verbo versar
+VER	(substantivo) visão, sentido dos olhos\n(verbo) ver: perceber seres e objetos através da visão, valendo-se da luz emitida ou refletida por ele (também: enxergar:)
+VERA	(substantivo) cara: parte anterior da cabeça, desde a testa ao queixo; rosto (também: lado, flanco)
+VERACES	(forma de veraz) (adjetivo) veraz: que diz a verdade; em que há verdade; verídico
+VERACIDAD	(substantivo) veracidade: qualidade do que é verdadeiro; representação da verdade
+VERAN	(forma de ver) (substantivo) visão, sentido dos olhos
+VERANADA	(substantivo) verão: estação do ano posterior à primavera e que antecede o outono; a segunda estação no hemisfério norte, iniciando-se em junho, no solstício
+VERANIEGA	(forma de veraniego) (adjetivo) próprio do verão, estival
+VERANIEGAS	(forma de veraniego) (adjetivo) próprio do verão, estival
+VERANIEGO	(adjetivo) próprio do verão, estival
+VERANIEGOS	(forma de veraniego) (adjetivo) próprio do verão, estival
+VERANO	(substantivo) verão: estação do ano posterior à primavera e que antecede o outono; a segunda estação no hemisfério norte, iniciando-se em junho, no solstício
+VERANOS	(forma de verano) (substantivo) verão: estação do ano posterior à primavera e que antecede o outono; a segunda estação no hemisfério...
+VERAS	(substantivo) verdade: conhecimento, ideia ou proposição que está de acordo com o real (também: realidade)
+VERAZ	(adjetivo) veraz: que diz a verdade; em que há verdade; verídico
+VERAZMENTE	(advérbio) credivelmente: de modo credível
+VERBAL	(adjetivo) verbal, relacionado a palavras
+VERBALES	(forma de verbal) (adjetivo) verbal, relacionado a palavras
+VERBALMENTE	(advérbio) verbalmente: de maneira verbal; utilizando palavras ou a fala
+VERBENA	(substantivo) orgevão: planta da espécie Verbena officinalis, medicinal, verberão (também: orjavão, urgebão)
+VERBENAS	(forma de verbena) (substantivo) orgevão: planta da espécie Verbena officinalis, medicinal, verberão (também: orjavão, urgebão)
+VERBIGRACIA	(substantivo) exemplo: descrição de um caso particular que ilustra e facilita o entendimento de uma regra geral (também: por exemplo)\n(advérbio) exemplo: descrição de um caso particular que ilustra e facilita o entendimento de uma regra geral (também: por exemplo)
+VERBO	(substantivo) verbo: vocábulo que exprime o modo de atividade ou estado que apresentam as pessoas, animais ou coisas de que se fala; em português, os verbos no infinitivo têm as terminações ar, er ou ir (sejam exemplos rezar, compreender, partir)
+VERBORRAGICO	(adjetivo) verboso: que fala muito
+VERBOS	(forma de verbo) (substantivo) verbo: vocábulo que exprime o modo de atividade ou estado que apresentam as pessoas, animais ou coisas de...
+VERBOSAMENTE	(advérbio) palavrosamente: de modo palavroso
+VERBOSIDAD	(substantivo) verbosidade: qualidade de verboso
+VERBOSO	(adjetivo) verboso: que fala muito
+VERDAD	(substantivo) verdade: conhecimento, ideia ou proposição que está de acordo com o real\n(interjeição) verdade: conhecimento, ideia ou proposição que está de acordo com o real
+VERDADERA	(forma de verdadero) (adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERDADERAMENTE	(advérbio) verazmente: de forma veraz
+VERDADERAS	(forma de verdadero) (adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERDADERO	(adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERDADEROS	(forma de verdadero) (adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERDADES	(forma de verdad) (substantivo) verdade: conhecimento, ideia ou proposição que está de acordo com o real
+VERDE	(adjetivo) verde: da cor do espectro visível entre o amarelo e o azul\n(substantivo) verde: da cor do espectro visível entre o amarelo e o azul
+VERDERON	(substantivo) verdelhão: pássaro de plumagem verde-amarela da família dos Fringilídeos, (Carduelis chloris) (também: verdilhão)
+VERDERONES	(forma de verderon) (substantivo) verdelhão: pássaro de plumagem verde-amarela da família dos Fringilídeos, (Carduelis chloris) (também:...
+VERDES	(adjetivo) plural de verde: verde\n(substantivo) plural de verde: verde
+VERDETE	(substantivo) azinhavre: cor de tom verde claro; o tom azul esverdeado claro (também: zinabre)
+VERDOLAGA	(substantivo) beldroega: planta da família das Portulacáceas cujas folhas são comestíveis (também: portulaca)
+VERDOR	(substantivo) verdura: a cor verde dos vegetais; verdor da vegetação
+VERDOSA	(forma de verdoso) (adjetivo) esverdeado: de cor verde ou de tonalidade semelhante à cor verde
+VERDOSAS	(forma de verdoso) (adjetivo) esverdeado: de cor verde ou de tonalidade semelhante à cor verde
+VERDOSO	(adjetivo) esverdeado: de cor verde ou de tonalidade semelhante à cor verde
+VERDOSOS	(forma de verdoso) (adjetivo) esverdeado: de cor verde ou de tonalidade semelhante à cor verde
+VERDUGO	(substantivo) verdugo: carrasco
+VERDUGOS	(forma de verdugo) (substantivo) verdugo: carrasco
+VERDULERO	(substantivo) quitandeiro: pequeno comerciante de frutas e verduras, em uma quitanda
+VERDULEROS	(forma de verdulero) (substantivo) quitandeiro: pequeno comerciante de frutas e verduras, em uma quitanda
+VERDURA	(substantivo) verdura: a cor verde dos vegetais; verdor da vegetação
+VERDURAS	(forma de verdura) (substantivo) verdura: a cor verde dos vegetais; verdor da vegetação
+VERDUSCO	(adjetivo) esverdeado: de cor verde ou de tonalidade semelhante à cor verde
+VERE	(forma de ver) (substantivo) visão, sentido dos olhos
+VERECUNDO	(adjetivo) vergonhoso: quem tem timidez
+VEREDA	(substantivo) calçada: parte da rua destinada aos pedestres (também: rua)
+VEREDAS	(forma de vereda) (substantivo) calçada: parte da rua destinada aos pedestres (também: rua)
+VEREDICTO	(substantivo) veredicto: decisão proferida por um júri sobre matéria submetida ao seu julgamento
+VEREDICTOS	(forma de veredicto) (substantivo) veredicto: decisão proferida por um júri sobre matéria submetida ao seu julgamento
+VEREIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEREMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VERGA	(substantivo) verga: pau longo que iça e abre a vela nos navios
+VERGAJAZO	(substantivo) chicote: instrumento para bater, principalmente em animais de carga ou montaria, constituído de uma corda ligada a um cabo mais rígido (também: açoite)
+VERGAJO	(substantivo) parvo: pessoa ingênua, fácil de enganar; tolo (também: caralho, otário)
+VERGAJOS	(forma de vergajo) (substantivo) parvo: pessoa ingênua, fácil de enganar; tolo (também: caralho, otário)
+VERGAS	(substantivo) plural de verga: verga
+VERGEL	(substantivo) vergel: jardim, lugar de cultivo com árvores
+VERGELES	(forma de vergel) (substantivo) vergel: jardim, lugar de cultivo com árvores
+VERGONZANTE	(adjetivo) vergonhoso: quem tem pudor, o que é sentido como obsceno
+VERGONZANTES	(forma de vergonzante) (adjetivo) vergonhoso: quem tem pudor, o que é sentido como obsceno
+VERGONZOSA	(forma de vergonzoso) (adjetivo) vergonhoso: o que nasce da desonra ou é provocado por ela, indigno
+VERGONZOSAMENTE	(advérbio) vergonhosamente: de modo vergonhoso
+VERGONZOSAS	(forma de vergonzoso) (adjetivo) vergonhoso: o que nasce da desonra ou é provocado por ela, indigno
+VERGONZOSO	(adjetivo) vergonhoso: o que nasce da desonra ou é provocado por ela, indigno
+VERGONZOSOS	(forma de vergonzoso) (adjetivo) vergonhoso: o que nasce da desonra ou é provocado por ela, indigno
+VERGUENZA	(substantivo) vergonha: confusão que se apodera do nosso espírito pelo receio de desonra
+VERGUERA	(substantivo) salgueiro: árvore ou arbusto do gênero Salix
+VERIA	(forma de ver) (substantivo) visão, sentido dos olhos
+VERIAIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VERIAMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VERIAN	(forma de ver) (substantivo) visão, sentido dos olhos
+VERIAS	(forma de ver) (substantivo) visão, sentido dos olhos
+VERIDICA	(forma de veridico) (adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERIDICAS	(forma de veridico) (adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERIDICO	(adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERIDICOS	(forma de veridico) (adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERIFICA	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICABA	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICABAMOS	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICABAN	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICACION	(substantivo) verificação: ação ou ato de verificar
+VERIFICACIONES	(forma de verificacion) (substantivo) verificação: ação ou ato de verificar
+VERIFICAD	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICAMOS	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICAN	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICAR	(verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICARA	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICARAN	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICARAS	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICARE	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICAREMOS	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICARIA	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICARON	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICAS	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICASTE	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFICO	(adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VERIFIQUE	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFIQUEMOS	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFIQUEN	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIFIQUES	(forma de verificar) (verbo) verificar: provar ou investigar a verdade de; constatar
+VERIJA	(substantivo) virilha: região próxima dos órgãos sexuais
+VERINGO	(adjetivo) nu: despido, em pelo, sem roupas
+VERJA	(substantivo) reixa, grade de janela
+VERJAS	(forma de verja) (substantivo) reixa, grade de janela
+VERME	(substantivo) verme: larva de inseto
+VERMICIDA	(adjetivo) vermicida se traduz como vermicida
+VERMICULITA	(substantivo) vermiculita: mineral composto principalmente de ferro, alumínio e cálcio; é formado por silicatos inalteráveis em água, fato que possibilita a sua ampla utilização na construção civil como isolante térmico, acústico e na produção de tijolos; sua composição química aproximada é (MgFe,Al)₃(Al,Si)₄O₁₀(OH)₂.4H₂O
+VERMINOSO	(adjetivo) verminoso: infestado com vermes
+VERMU	(substantivo) vermute: bebida alcoólica à base de vinho, com adição de flores ou ervas aromáticas.
+VERNACULA	(forma de vernaculo) (adjetivo) nativo: natural
+VERNACULAS	(forma de vernaculo) (adjetivo) nativo: natural
+VERNACULO	(adjetivo) nativo: natural
+VERO	(adjetivo) genuíno: real, verdadeiro (também: correto, verdadeiro)
+VEROS	(forma de ver) (substantivo) visão, sentido dos olhos
+VEROSIMIL	(adjetivo) verossímil: aquilo que é coerente o suficiente para se passar por verdadeiro ou que se pode acreditar
+VEROSIMILES	(forma de verosimil) (adjetivo) verossímil: aquilo que é coerente o suficiente para se passar por verdadeiro ou que se pode acreditar
+VEROSIMILITUD	(substantivo) autenticidade: qualidade de autêntico
+VEROSIMILMENTE	(advérbio) plausivelmente: de forma plausível
+VERRACO	(substantivo) berrão: porco que não está castrado, verrasco
+VERRACOS	(forma de verraco) (substantivo) berrão: porco que não está castrado, verrasco
+VERRIONDEZ	(substantivo) verriondez: cio da porca
+VERRUGA	(substantivo) verruga: pequena elevação na pele
+VERRUGAS	(forma de verruga) (substantivo) verruga: pequena elevação na pele
+VERSABA	(forma de versar) (verbo) dirigir: comunicar-se com (também: concernir, adereçar)
+VERSADA	(forma de versado) (adjetivo) versado: diz-se de pessoa muito experiente em determinado assunto
+VERSADAS	(forma de versado) (adjetivo) versado: diz-se de pessoa muito experiente em determinado assunto
+VERSADO	(adjetivo) versado: diz-se de pessoa muito experiente em determinado assunto
+VERSADOS	(forma de versado) (adjetivo) versado: diz-se de pessoa muito experiente em determinado assunto
+VERSAL	(adjetivo) versal: letra maiúscula
+VERSALITA	(substantivo) versalete: letra cuja forma é de maiúscula, mas o tamanho é de minúscula
+VERSAR	(verbo) dirigir: comunicar-se com (também: concernir, adereçar)
+VERSARA	(forma de versar) (verbo) dirigir: comunicar-se com (também: concernir, adereçar)
+VERSATIL	(adjetivo) versátil: que é capaz de se virar com facilidade
+VERSATILES	(forma de versatil) (adjetivo) versátil: que é capaz de se virar com facilidade
+VERSE	(verbo) flexão do verbo versar
+VERSEAR	(verbo) mentir: enganar (também: jazer)
+VERSEN	(forma de versar) (verbo) dirigir: comunicar-se com (também: concernir, adereçar)
+VERSICULO	(substantivo) versiculo se traduz como versículo ²
+VERSICULOS	(forma de versiculo) (substantivo) versiculo se traduz como versículo ²
+VERSIFICAR	(verbo) versificar: transformar em versos algo que está em prosa
+VERSION	(substantivo) versão: tradução (também: tradução)
+VERSIONAR	(verbo) cobrir: pôr cobertura em (também: encobrir, mirar)
+VERSIONES	(forma de versionar) (verbo) cobrir: pôr cobertura em (também: encobrir, mirar)
+VERSO	(substantivo) verso: uma linha de um poema
+VERSOS	(forma de verso) (substantivo) verso: uma linha de um poema
+VERSUS	(preposição) versus: contra
+VERTE	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTEBRA	(substantivo) vértebra: cada um dos ossos que compõem a coluna vertebral dos vertebrados
+VERTEBRADA	(forma de vertebrado) (adjetivo) vertebrado: espécime dos vertebrados
+VERTEBRADAS	(forma de vertebrado) (adjetivo) vertebrado: espécime dos vertebrados
+VERTEBRADO	(adjetivo) vertebrado: espécime dos vertebrados\n(substantivo) vertebrado: espécime dos vertebrados
+VERTEBRADOS	(forma de vertebrado) (adjetivo) vertebrado: espécime dos vertebrados
+VERTEBRAR	(verbo) apoiar: dar apoio a; aprovar (também: dar suporte)
+VERTEBRAS	(forma de vertebrar) (verbo) apoiar: dar apoio a; aprovar (também: dar suporte)
+VERTED	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTEMOS	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTER	(verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTERA	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTERAN	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTERE	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTERIA	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTI	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTIA	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTIAMOS	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTIAN	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTICAL	(adjetivo) vertical: que segue a direção da gravidade, tal como o fio-de-prumo
+VERTICALES	(forma de vertical) (adjetivo) vertical: que segue a direção da gravidade, tal como o fio-de-prumo
+VERTICALMENTE	(advérbio) verticalmente: de forma vertical
+VERTICE	(substantivo) vértice: elemento ao qual se ligam as arestas; geralmente representado por um ponto
+VERTICES	(forma de vertice) (substantivo) vértice: elemento ao qual se ligam as arestas; geralmente representado por um ponto
+VERTIENTE	(substantivo) talude: plano inclinado que limita um aterro; rampa
+VERTIENTES	(forma de vertiente) (substantivo) talude: plano inclinado que limita um aterro; rampa
+VERTIERA	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTIERON	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTIGINOSA	(forma de vertiginoso) (adjetivo) vertiginoso: que causa vertigens
+VERTIGINOSAMENTE	(advérbio) vertiginosamente: de modo vertiginoso
+VERTIGINOSAS	(forma de vertiginoso) (adjetivo) vertiginoso: que causa vertigens
+VERTIGINOSO	(adjetivo) vertiginoso: que causa vertigens
+VERTIGINOSOS	(forma de vertiginoso) (adjetivo) vertiginoso: que causa vertigens
+VERTIGO	(substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam; tontura rotatória
+VERTIGOS	(forma de vertigo) (substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam;...
+VERTIMOS	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTIO	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VERTISTE	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VES	(forma de ver) (substantivo) visão, sentido dos olhos
+VESANIA	(substantivo) vesânia: designação genérica das diversas espécies de alienação mental; loucura
+VESANICO	(adjetivo) fulminante: que lança raios ou coriscos (também: furioso)
+VESICULA	(substantivo) vesícula: pequena bexiga de paredes delgadas, geralmente preenchida por líquido
+VESICULAS	(forma de vesicula) (substantivo) vesícula: pequena bexiga de paredes delgadas, geralmente preenchida por líquido
+VESPA	(substantivo) lambreta: o mesmo que amêijoa (Phacoides pectinatus) (também: motoneta)
+VESPAS	(forma de vespa) (substantivo) lambreta: o mesmo que amêijoa (Phacoides pectinatus) (também: motoneta)
+VESPERO	(substantivo) vespero se traduz como ⟪anoitecer⟫, ⟪anoutecer⟫, ⟪noite⟫
+VESPERTINA	(forma de vespertino) (adjetivo) vespertino: jornal que se publica à tarde
+VESPERTINAS	(forma de vespertino) (adjetivo) vespertino: jornal que se publica à tarde
+VESPERTINO	(adjetivo) vespertino: jornal que se publica à tarde\n(substantivo) vespertino: jornal que se publica à tarde
+VESPERTINOS	(forma de vespertino) (adjetivo) vespertino: jornal que se publica à tarde
+VESTI	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIA	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIAMOS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIAN	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIAS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIBULO	(substantivo) vestíbulo: área que leva à principal entrada ou ao interior de uma casa ou edifício
+VESTIBULOS	(forma de vestibulo) (substantivo) vestíbulo: área que leva à principal entrada ou ao interior de uma casa ou edifício
+VESTID	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIDA	(forma de vestido) (adjetivo) vestido: vestimenta, veste
+VESTIDAS	(forma de vestido) (adjetivo) vestido: vestimenta, veste
+VESTIDO	(adjetivo) vestido: vestimenta, veste\n(substantivo) vestido: vestimenta, veste
+VESTIDOS	(forma de vestido) (adjetivo) vestido: vestimenta, veste
+VESTIDURA	(substantivo) vestuário: conjunto de peças de roupa usadas por uma pessoa (também: roupa)
+VESTIDURAS	(forma de vestidura) (substantivo) vestuário: conjunto de peças de roupa usadas por uma pessoa (também: roupa)
+VESTIGLO	(substantivo) monstro: animal enorme, de aspecto espantoso
+VESTIMENTA	(substantivo) vestimenta: veste, roupa
+VESTIMENTAS	(forma de vestimenta) (substantivo) vestimenta: veste, roupa
+VESTIMOS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIR	(verbo) vestir: cobrir com roupa
+VESTIRA	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRAN	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRAS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRE	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIREMOS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRIA	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRIAMOS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRIAN	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIRIAS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTIS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTISTE	(forma de vestir) (verbo) vestir: cobrir com roupa
+VESTUARIO	(substantivo) vestuário: conjunto de peças de roupa usadas por uma pessoa
+VESTUARIOS	(forma de vestuario) (substantivo) vestuário: conjunto de peças de roupa usadas por uma pessoa
+VETA	(substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao coração; geralmente, conduz sangue pobre em oxigênio; a exceção é a veia pulmonar, que conduz sangue rico em oxigênio
+VETAS	(forma de veta) (substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao...
+VETE	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VETERANO	(adjetivo) veterano: soldado que já serviu em campos de batalha\n(substantivo) veterano: soldado que já serviu em campos de batalha
+VETERANOS	(forma de veterano) (adjetivo) veterano: soldado que já serviu em campos de batalha
+VETERINARIA	(substantivo) veterinária: ciência que estuda, previne e trata doenças de animais, especialmente os domésticos e de produção
+VETERINARIAS	(forma de veterinaria) (substantivo) veterinária: ciência que estuda, previne e trata doenças de animais, especialmente os domésticos e de...
+VETERINARIO	(adjetivo) veterinário: especialista em veterinária\n(substantivo) veterinário: especialista em veterinária
+VETERINARIOS	(forma de veterinario) (adjetivo) veterinário: especialista em veterinária
+VETO	(substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETOS	(forma de veto) (substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETUSTA	(forma de vetusto) (adjetivo) velho: erado, idoso (também: antigo, idoso)
+VETUSTAS	(forma de vetusto) (adjetivo) velho: erado, idoso (também: antigo, idoso)
+VETUSTO	(adjetivo) velho: erado, idoso (também: antigo, idoso)
+VEXILOLOGIA	(substantivo) vexilologia: estudo das bandeiras, estandartes, insígnias e das suas simbologias, usos e convenções
+VEZ	(substantivo) vez: turno
+VEZO	(substantivo) vezo: costume, hábito (principalmente ruim)
+VIA	(substantivo) via: versão de documentos ou notas
+VIABILIDAD	(substantivo) viabilidade: possibilidade de ser viável
+VIABLE	(adjetivo) viável: que apresenta condições ou características que permitam sustentar a condição de ser vivente duradouramente
+VIABLES	(forma de viable) (adjetivo) viável: que apresenta condições ou características que permitam sustentar a condição de ser vivente...
+VIADUCTO	(substantivo) viaduto: tipo ponte que se ergue sobre leito seco (como ruas, estradas, vias férreas, etc.) ou sobre o leito de pequenos cursos d'água, com o objetivo de interligar partes de depressão do terreno ou simplesmente ligar a outra via sobre a qual é erguido com o objetivo de contornar ou facultar o tráfego,...
+VIADUCTOS	(forma de viaducto) (substantivo) viaduto: tipo ponte que se ergue sobre leito seco (como ruas, estradas, vias férreas, etc.) ou sobre o...
+VIAJA	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJABA	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJABAIS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJABAMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJABAN	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJABAS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAD	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAIS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAN	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAR	(verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARA	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARAMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARAN	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARAS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARE	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAREIS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAREMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARIA	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARIAMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARIAN	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARIAS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJARON	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJAS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJASE	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJASEMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJASEN	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJASTE	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJASTEIS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJE	(substantivo) jornada: caminho ou viagem, mesmo que passe de um dia (também: viagem)
+VIAJEIS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJEMOS	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJEN	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJERA	(forma de viajero) (substantivo) viajante: indivíduo que viaja
+VIAJERAS	(forma de viajero) (substantivo) viajante: indivíduo que viaja
+VIAJERO	(substantivo) viajante: indivíduo que viaja
+VIAJEROS	(forma de viajero) (substantivo) viajante: indivíduo que viaja
+VIAJES	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIAJO	(forma de viajar) (verbo) viajar: ir de um lugar para outro, geralmente distante
+VIANDA	(substantivo) comida: alimento; sustento; refeição (também: alimento)
+VIANDAS	(forma de vianda) (substantivo) comida: alimento; sustento; refeição (também: alimento)
+VIATICO	(substantivo) renda: rendimento de uma propriedade (também: permissão)
+VIATICOS	(forma de viatico) (substantivo) renda: rendimento de uma propriedade (também: permissão)
+VIBORA	(substantivo) víbora: cobra venenosa do Velho Mundo
+VIBORAS	(forma de vibora) (substantivo) víbora: cobra venenosa do Velho Mundo
+VIBRA	(substantivo) vibração: empolgação
+VIBRABA	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRABAN	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRACION	(substantivo) vibração: oscilação
+VIBRACIONES	(forma de vibracion) (substantivo) vibração: oscilação
+VIBRADOR	(substantivo) vibrador: dispositivo vibratório para estimulação sexual
+VIBRADORA	(forma de vibrador) (substantivo) vibrador: dispositivo vibratório para estimulação sexual
+VIBRADORAS	(forma de vibrador) (substantivo) vibrador: dispositivo vibratório para estimulação sexual
+VIBRADORES	(forma de vibrador) (substantivo) vibrador: dispositivo vibratório para estimulação sexual
+VIBRAN	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRANTE	(adjetivo) vibrante: que vibra\n(substantivo) vibrante: que vibra
+VIBRANTEMENTE	(advérbio) vibrantemente: de forma vibrante
+VIBRANTES	(forma de vibrante) (adjetivo) vibrante: que vibra
+VIBRAR	(verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRARA	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRARAN	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRARE	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRARON	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRAS	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRASE	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRE	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBREN	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRO	(forma de vibrar) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VICARIO	(substantivo) pároco: encarregado de uma paróquia
+VICE	(substantivo) vice: indica aquele que substitui o principal (por exemplo em vice-presidente, vice-reitor, etc)
+VICEPRESIDENTA	(forma de vicepresidente) (substantivo) vicepresidente se traduz como vice-presidente
+VICEPRESIDENTE	(substantivo) vicepresidente se traduz como vice-presidente
+VICEPRESIDENTES	(forma de vicepresidente) (substantivo) vicepresidente se traduz como vice-presidente
+VICEVERSA	(advérbio) viceversa se traduz como vice-versa
+VICIAR	(verbo) viciar: corromper; deteriorar; adulterar; falsificar
+VICIARSE	(verbo) viciarse se traduz como viciar-se
+VICIO	(substantivo) vício: tendência habitual para certo mal
+VICIOS	(forma de vicio) (substantivo) vício: tendência habitual para certo mal
+VICIOSA	(forma de vicioso) (adjetivo) depravado: corrupto, estragado, malvado, perverso (também: dissoluto)
+VICIOSAMENTE	(advérbio) viciadamente: de modo viciado (também: viciosamente)
+VICIOSAS	(forma de vicioso) (adjetivo) depravado: corrupto, estragado, malvado, perverso (também: dissoluto)
+VICIOSO	(adjetivo) depravado: corrupto, estragado, malvado, perverso (também: dissoluto)
+VICIOSOS	(forma de vicioso) (adjetivo) depravado: corrupto, estragado, malvado, perverso (também: dissoluto)
+VICISITUD	(substantivo) mudança: feriado, descanso (também: vicissitude, muda)
+VICISITUDES	(forma de vicisitud) (substantivo) mudança: feriado, descanso (também: vicissitude, muda)
+VICTIMA	(substantivo) vítima: pessoa que é sacrificada aos interesses de outrem
+VICTIMAR	(verbo) vitimar: provocar a morte de; tirar a vida de
+VICTIMARIO	(substantivo) assassino: indivíduo que com ações ou omissões retira a vida a seres viventes que possuam capacidade de demonstrar afeto, ou destrói indiscriminadamente a fauna e a flora de uma região (também: assassina, homicida)
+VICTIMARIOS	(forma de victimario) (substantivo) assassino: indivíduo que com ações ou omissões retira a vida a seres viventes que possuam capacidade de...
+VICTIMAS	(forma de victimar) (verbo) vitimar: provocar a morte de; tirar a vida de
+VICTIMIZA	(forma de victimizar) (verbo) vitimar: oferecer (pessoa ou animal) em sacrifício
+VICTIMIZAR	(verbo) vitimar: oferecer (pessoa ou animal) em sacrifício
+VICTIMIZARAN	(forma de victimizar) (verbo) vitimar: oferecer (pessoa ou animal) em sacrifício
+VICTIMIZASTE	(forma de victimizar) (verbo) vitimar: oferecer (pessoa ou animal) em sacrifício
+VICTIMIZO	(forma de victimizar) (verbo) vitimar: oferecer (pessoa ou animal) em sacrifício
+VICTORIA	(substantivo) vitória: ato ou efeito de vencer
+VICTORIAS	(forma de victoria) (substantivo) vitória: ato ou efeito de vencer
+VICTORIOSA	(forma de victorioso) (adjetivo) vitorioso: que triunfou
+VICTORIOSAMENTE	(advérbio) vitoriosamente: de um modo vitorioso
+VICTORIOSAS	(forma de victorioso) (adjetivo) vitorioso: que triunfou
+VICTORIOSO	(adjetivo) vitorioso: que triunfou
+VICTORIOSOS	(forma de victorioso) (adjetivo) vitorioso: que triunfou
+VICUÑA	(substantivo) vicuña se traduz como ⟪vicunha⟫
+VID	(substantivo) vinha: plantação de videiras
+VIDA	(substantivo) vida: propriedade que caracteriza os organismos cuja existência evolui do nascimento até a morte
+VIDAS	(forma de vida) (substantivo) vida: propriedade que caracteriza os organismos cuja existência evolui do nascimento até a morte
+VIDENTE	(substantivo) clarividente: pessoa que supostamente tem o poder de prever o futuro (também: vidente)
+VIDENTES	(forma de vidente) (substantivo) clarividente: pessoa que supostamente tem o poder de prever o futuro (também: vidente)
+VIDEOCASETE	(substantivo) videoteipe: fita de material plástico, bastante fina, que tem uma cobertura de partículas magnéticas, normalmente usada para o registro de imagens televisivas ao passar por aparelho em que as partículas são ordenadas
+VIDEOGRAFA	(forma de videografo) (substantivo) videografo se traduz como videógrafo
+VIDEOGRAFO	(substantivo) videografo se traduz como videógrafo
+VIDEOJUEGO	(substantivo) videojogo: jogo eletrônico com o qual o jogador interage, normalmente, através de um monitor ou televisão
+VIDEOJUEGOS	(forma de videojuego) (substantivo) videojogo: jogo eletrônico com o qual o jogador interage, normalmente, através de um monitor ou televisão
+VIDES	(forma de vid) (substantivo) vinha: plantação de videiras
+VIDRIERA	(substantivo) mostruário: móvel ou lugar em que se expõem mercadorias ao público; mostrador; vitrina (também: vitral)
+VIDRIERAS	(forma de vidriera) (substantivo) mostruário: móvel ou lugar em que se expõem mercadorias ao público; mostrador; vitrina (também: vitral)
+VIDRIO	(substantivo) vidro: substância transparente e quebradiça, feita através de um processo de fusão de determinadas areias a altas temperaturas, que se molda no formato desejado
+VIDRIOS	(forma de vidrio) (substantivo) vidro: substância transparente e quebradiça, feita através de um processo de fusão de determinadas areias...
+VIDRIOSA	(forma de vidrioso) (adjetivo) frágil: quebradiço
+VIDRIOSO	(adjetivo) frágil: quebradiço
+VIDRIOSOS	(forma de vidrioso) (adjetivo) frágil: quebradiço
+VIEIRA	(substantivo) vieira: molusco lamelibrânquio bivalve comestível, Pectem maximus
+VIEJA	(substantivo) velha: a morte
+VIEJAS	(forma de vieja) (substantivo) velha: a morte
+VIENE	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VIENEN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VIENES	(verbo) segunda pessoa singular informal (tú) do indicativo presente do verbo venir: vir
+VIENESA	(substantivo) salsicha: alimento preparado com carne picada metida em tripas
+VIENESAS	(forma de vienes) (verbo) segunda pessoa singular informal (tú) do indicativo presente do verbo venir: vir
+VIENESES	(forma de vienes) (verbo) segunda pessoa singular informal (tú) do indicativo presente do verbo venir: vir
+VIENTE	(forma de ventar) (verbo) soprar: fazer vento com a boca ou com fole; ventar (também: estourar, espocar)
+VIENTO	(substantivo) vento: o ar atmosférico em movimento natural (também: sopro)
+VIENTOS	(forma de viento) (substantivo) vento: o ar atmosférico em movimento natural (também: sopro)
+VIENTRE	(substantivo) barriga: cavidade do tronco dos animais, que fica entre o tórax e a bacia e contém o estômago e os intestinos, entre outros órgãos; ventre (também: ventre)
+VIENTRES	(forma de vientre) (substantivo) barriga: cavidade do tronco dos animais, que fica entre o tórax e a bacia e contém o estômago e os...
+VIERA	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERAIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERAMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERAN	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERAS	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERE	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERES	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERNES	(substantivo) viernes se traduz como sexta-feira
+VIERON	(forma de ver) (substantivo) visão, sentido dos olhos
+VIERTA	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VIERTAN	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VIERTAS	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VIERTEN	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VIERTES	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VIERTO	(forma de verter) (verbo) derramar: deixar correr para fora; verter; espalhar; entornar; despejar; virar
+VIESE	(forma de ver) (substantivo) visão, sentido dos olhos
+VIESEIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VIESEMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VIESEN	(forma de ver) (substantivo) visão, sentido dos olhos
+VIESES	(forma de ver) (substantivo) visão, sentido dos olhos
+VIETNAMITA	(adjetivo) vietnamita: natural do Vietnã (Vietname)\n(substantivo) vietnamita: natural do Vietnã (Vietname)
+VIETNAMITAS	(forma de vietnamita) (adjetivo) vietnamita: natural do Vietnã (Vietname)
+VIGA	(substantivo) madeira: conjunto de tábuas e outros materiais extraídos de materiais arbóreos
+VIGAS	(forma de viga) (substantivo) madeira: conjunto de tábuas e outros materiais extraídos de materiais arbóreos
+VIGENCIA	(substantivo) validade: qualidade de ser válido
+VIGENTE	(adjetivo) vigente: que vige; que está em vigor (também: vigorante, válido)
+VIGENTES	(forma de vigente) (adjetivo) vigente: que vige; que está em vigor (também: vigorante, válido)
+VIGESIMA	(forma de vigesimo) (numeral) vigésimo: ordem de um elemento que ocupe em um conjunto a posição equivalente ao número vinte
+VIGESIMO	(numeral) vigésimo: ordem de um elemento que ocupe em um conjunto a posição equivalente ao número vinte
+VIGESIMOCTAVO	(numeral) vigesimoctavo se traduz como vigésimo oitavo
+VIGESIMOCUARTO	(numeral) vigesimocuarto se traduz como vigésimo quarto
+VIGESIMONOVENO	(numeral) vigesimonoveno se traduz como vigésimo nono
+VIGESIMOPRIMERO	(numeral) vigesimoprimero se traduz como vigésimo primeiro, vigésimo-primeiro
+VIGESIMOQUINTA	(forma de vigesimoquinto) (numeral) vigesimoquinto se traduz como vigésimo quinto
+VIGESIMOQUINTO	(numeral) vigesimoquinto se traduz como vigésimo quinto
+VIGESIMOSEGUNDO	(numeral) vigesimosegundo se traduz como vigésimo segundo
+VIGESIMOSEPTIMO	(numeral) vigesimoseptimo se traduz como vigésimo sétimo
+VIGESIMOSEXTO	(numeral) vigesimosexto se traduz como vigésimo sexto
+VIGESIMOTERCERO	(numeral) vigesimotercero se traduz como vigésimo terceiro
+VIGIA	(substantivo) vigia se traduz como ⟪recife⟫
+VIGILA	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILABA	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILABAMOS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILABAN	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILABAS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAD	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAIS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAMOS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAN	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILANCIA	(substantivo) vigilância: ato ou efeito de estar vigilante
+VIGILANCIAS	(forma de vigilancia) (substantivo) vigilância: ato ou efeito de estar vigilante
+VIGILANTE	(adjetivo) aguçado: alerta; que presta atenção (também: desperto, vigilante)
+VIGILANTEMENTE	(advérbio) vigilantemente: de forma vigilante
+VIGILANTES	(forma de vigilante) (adjetivo) aguçado: alerta; que presta atenção (também: desperto, vigilante)
+VIGILAR	(verbo) vigilar se traduz como vigilar
+VIGILARA	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARAMOS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARAN	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARAS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARE	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAREIS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAREMOS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARIA	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARIAMOS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARIAN	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARIAS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILARON	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILAS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILASE	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILASEN	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILASES	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILASTE	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILE	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILEIS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILEMOS	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILEN	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILES	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGILIA	(substantivo) vigilância: o fato de prestar atenção
+VIGILIAS	(forma de vigilia) (substantivo) vigilância: o fato de prestar atenção
+VIGILO	(forma de vigilar) (verbo) vigilar se traduz como vigilar
+VIGOR	(substantivo) vigor: grande energia; saúde física
+VIGOREXIA	(substantivo) vigorexia: doença relacionada a distorção da imagem que leva seu portador a buscar cada vez mais intensamente o ganho de massa muscular, fazendo uso de esteroides anabolizantes e em excesso causa danosos efeitos colaterais
+VIGOROSA	(forma de vigoroso) (adjetivo) vigoroso: que tem ou demonstra vigor ou robustez; enérgico:
+VIGOROSAMENTE	(advérbio) vigorosamente: de maneira vigorosa (também: pujantemente)
+VIGOROSAS	(forma de vigoroso) (adjetivo) vigoroso: que tem ou demonstra vigor ou robustez; enérgico:
+VIGOROSO	(adjetivo) vigoroso: que tem ou demonstra vigor ou robustez; enérgico:
+VIGOROSOS	(forma de vigoroso) (adjetivo) vigoroso: que tem ou demonstra vigor ou robustez; enérgico:
+VIHUELA	(substantivo) vihuela se traduz como vihuela
+VIKINGA	(forma de vikingo) (adjetivo) vikingo se traduz como vikingue
+VIKINGAS	(forma de vikingo) (adjetivo) vikingo se traduz como vikingue
+VIKINGO	(adjetivo) vikingo se traduz como vikingue\n(substantivo) viquingue: cada pessoa dos viquingues, grupo humano escandinavo, do norte da Europa, conhecidos navegadores e guerreiros, dos fins do século VIII a princípios do século XII, percorreram a Europa
+VIKINGOS	(forma de vikingo) (adjetivo) vikingo se traduz como vikingue
+VIL	(adjetivo) vil: desprezível
+VILES	(forma de vil) (adjetivo) vil: desprezível
+VILEZA	(substantivo) vileza: baixeza
+VILEZAS	(forma de vileza) (substantivo) vileza: baixeza
+VILIPENDIA	(forma de vilipendiar) (verbo) vilipendiar: desprezar, repelir
+VILIPENDIAR	(verbo) vilipendiar: desprezar, repelir
+VILLA	(substantivo) vila: povoação de tamanho intermédio entre aldeia e cidade (também: favela)
+VILLANCICO	(substantivo) villancico se traduz como villancete
+VILLANCICOS	(forma de villancico) (substantivo) villancico se traduz como villancete
+VILLANIA	(substantivo) vileza: baixeza
+VILLANIAS	(forma de villania) (substantivo) vileza: baixeza
+VILLANO	(substantivo) vilão: a personagem malvada, geralmente um antagonista ou o bandido, em um livro, filme, novela, telenovela ou outra qualquer ficção (também: villão)
+VILLANOS	(forma de villano) (substantivo) vilão: a personagem malvada, geralmente um antagonista ou o bandido, em um livro, filme, novela,...
+VILLAS	(forma de villa) (substantivo) vila: povoação de tamanho intermédio entre aldeia e cidade (também: favela)
+VILMENTE	(advérbio) viciosamente: de forma viciosa (também: cruelmente)
+VIMOS	(forma de ver) (substantivo) visão, sentido dos olhos
+VINAGRE	(substantivo) vinagre: produto de fermentação acética do vinho e outras substâncias alcoólicas
+VINAGRERA	(substantivo) vinagrera se traduz como ⟪galheteiro⟫
+VINAGRETA	(substantivo) molho para salada
+VINCHA	(substantivo) tiara: ornamento em forma de semicírculo usado na cabeça
+VINCHAS	(forma de vincha) (substantivo) tiara: ornamento em forma de semicírculo usado na cabeça
+VINCHUCA	(substantivo) barbeiro: besouro hematófago da subfamilia triatominae que se alimenta de sangue de vertebrados incluindo humanos, e que é conhecido por ser transmissor da doença de Chagas (também: chupança)
+VINCULA	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULABA	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULABAN	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULACION	(substantivo) vinculação: ato ou efeito de vincular
+VINCULACIONES	(forma de vinculacion) (substantivo) vinculação: ato ou efeito de vincular
+VINCULAMOS	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULAN	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULANTE	(adjetivo) compulsório: obrigatório
+VINCULANTES	(forma de vinculante) (adjetivo) compulsório: obrigatório
+VINCULAR	(verbo) ligar: misturar intimamente; reunir; vincular
+VINCULARA	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULARAN	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULARE	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULAREMOS	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULARIA	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULARON	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULAS	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULASTE	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULE	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULEN	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULES	(forma de vincular) (verbo) ligar: misturar intimamente; reunir; vincular
+VINCULO	(substantivo) vínculo: ligação, referência
+VINCULOS	(forma de vinculo) (substantivo) vínculo: ligação, referência
+VINDICAN	(forma de vindicar) (verbo) justificar: desculpar
+VINDICAR	(verbo) justificar: desculpar
+VINDICATIVO	(adjetivo) vingativo: que persegue a vingança, quem trata de devolver o mal, pelo mal que lhe fizeram
+VINDICO	(forma de vindicar) (verbo) justificar: desculpar
+VINE	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIENTE	(adjetivo) conjunto: próximo (também: próximo, seguinte)
+VINIERA	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIERAIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIERAMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIERAN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIERAS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIERE	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIERON	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIESE	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIESEIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIESEMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIESEN	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIESES	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINIMOS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINISTE	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINISTEIS	(forma de venir) (verbo) vir: transportar-se para o local onde está o interlocutor
+VINO	(substantivo) vinho: bebida fermentada feita da uva
+VINOS	(forma de vino) (substantivo) vinho: bebida fermentada feita da uva
+VIO	(forma de ver) (substantivo) visão, sentido dos olhos
+VIOLA	(substantivo) viola: instrumento musical de corda semelhante ao violino levemente maior e afinado uma quinta abaixo
+VIOLABA	(forma de violar) (verbo) violar: violentar
+VIOLABAMOS	(forma de violar) (verbo) violar: violentar
+VIOLABAN	(forma de violar) (verbo) violar: violentar
+VIOLABAS	(forma de violar) (verbo) violar: violentar
+VIOLACION	(substantivo) violação: não cumprimento da lei, desrespeito à lei; infração
+VIOLACIONES	(forma de violacion) (substantivo) violação: não cumprimento da lei, desrespeito à lei; infração
+VIOLADA	(forma de violado) (adjetivo) violeta: cor do espectro visível, situada entre o azul e o invisível ultravioleta, que lembra, por exemplo,...
+VIOLADAS	(forma de violado) (adjetivo) violeta: cor do espectro visível, situada entre o azul e o invisível ultravioleta, que lembra, por exemplo,...
+VIOLADO	(adjetivo) violeta: cor do espectro visível, situada entre o azul e o invisível ultravioleta, que lembra, por exemplo, a cor da flor da violeta ou da ametista
+VIOLADOS	(forma de violado) (adjetivo) violeta: cor do espectro visível, situada entre o azul e o invisível ultravioleta, que lembra, por exemplo,...
+VIOLAIS	(forma de violar) (verbo) violar: violentar
+VIOLAMOS	(forma de violar) (verbo) violar: violentar
+VIOLAN	(forma de violar) (verbo) violar: violentar
+VIOLAR	(verbo) violar: violentar
+VIOLARA	(forma de violar) (verbo) violar: violentar
+VIOLARAN	(forma de violar) (verbo) violar: violentar
+VIOLARAS	(forma de violar) (verbo) violar: violentar
+VIOLARE	(forma de violar) (verbo) violar: violentar
+VIOLAREMOS	(forma de violar) (verbo) violar: violentar
+VIOLARIA	(forma de violar) (verbo) violar: violentar
+VIOLARIAMOS	(forma de violar) (verbo) violar: violentar
+VIOLARIAN	(forma de violar) (verbo) violar: violentar
+VIOLARIAS	(forma de violar) (verbo) violar: violentar
+VIOLARON	(forma de violar) (verbo) violar: violentar
+VIOLAS	(substantivo) plural de viola: viola
+VIOLASE	(forma de violar) (verbo) violar: violentar
+VIOLASEN	(forma de violar) (verbo) violar: violentar
+VIOLASTE	(forma de violar) (verbo) violar: violentar
+VIOLASTEIS	(forma de violar) (verbo) violar: violentar
+VIOLE	(forma de violar) (verbo) violar: violentar
+VIOLEMOS	(forma de violar) (verbo) violar: violentar
+VIOLEN	(forma de violar) (verbo) violar: violentar
+VIOLENCIA	(substantivo) violência: o ato ou efeito de ser violento
+VIOLENCIAS	(forma de violencia) (substantivo) violência: o ato ou efeito de ser violento
+VIOLENTA	(forma de violento) (adjetivo) violento: exercido com força
+VIOLENTADA	(forma de violentado) (adjetivo) violentado: que sofreu violência; que foi agredido física, moral ou sexualmente
+VIOLENTADO	(adjetivo) violentado: que sofreu violência; que foi agredido física, moral ou sexualmente
+VIOLENTAS	(forma de violento) (adjetivo) violento: exercido com força
+VIOLENTISTA	(adjetivo) violentista se traduz como ⟪subversivo⟫
+VIOLENTO	(adjetivo) violento: exercido com força
+VIOLENTOS	(forma de violento) (adjetivo) violento: exercido com força
+VIOLES	(forma de violar) (verbo) violar: violentar
+VIOLETA	(adjetivo) violeta: designação comum às plantas do gênero Viola ou à flor dessas plantas (também: viola, roxo)\n(substantivo) violeta: designação comum às plantas do gênero Viola ou à flor dessas plantas (também: viola, roxo)
+VIOLETAS	(forma de violeta) (adjetivo) violeta: designação comum às plantas do gênero Viola ou à flor dessas plantas (também: viola, roxo)
+VIOLIN	(substantivo) violino: instrumento musical de quatro cordas tocado com arco
+VIOLINES	(forma de violin) (substantivo) violino: instrumento musical de quatro cordas tocado com arco
+VIOLINISTA	(substantivo) violinista: pessoa que toca violino
+VIOLINISTAS	(forma de violinista) (substantivo) violinista: pessoa que toca violino
+VIOLO	(forma de ver) (substantivo) visão, sentido dos olhos
+VIOLONCELLO	(substantivo) violoncelo: grande instrumento musical da família das cordas, afinado em uma oitava mais grave do que a viola e uma oitava mais agudo que o contrabaixo
+VIOLONCELO	(substantivo) violoncelo: grande instrumento musical da família das cordas, afinado em uma oitava mais grave do que a viola e uma oitava mais agudo que o contrabaixo
+VIOLONCELOS	(substantivo) plural de violoncelo: violoncelo
+VIOLONCHELO	(substantivo) violoncelo: grande instrumento musical da família das cordas, afinado em uma oitava mais grave do que a viola e uma oitava mais agudo que o contrabaixo
+VIOLONCHELOS	(forma de violonchelo) (substantivo) violoncelo: grande instrumento musical da família das cordas, afinado em uma oitava mais grave do que a...
+VIRA	(verbo) terceira pessoa do singular do presente do indicativo do verbo virar: virar
+VIRABA	(forma de virar) (verbo) virar: dirigir
+VIRAD	(forma de virar) (verbo) virar: dirigir
+VIRADA	(substantivo) giro: movimento, tráfego comercial (também: girada)
+VIRAGO	(substantivo) virago se traduz como virago
+VIRAJE	(substantivo) mudança: o ato de trocar ou mudar
+VIRAJES	(forma de viraje) (substantivo) mudança: o ato de trocar ou mudar
+VIRAL	(adjetivo) vírico: pertinente a vírus
+VIRALES	(forma de viral) (adjetivo) vírico: pertinente a vírus
+VIRAMOS	(forma de virar) (verbo) virar: dirigir
+VIRAN	(forma de virar) (verbo) virar: dirigir
+VIRAR	(verbo) virar: dirigir
+VIRARA	(forma de virar) (verbo) virar: dirigir
+VIRARE	(forma de virar) (verbo) virar: dirigir
+VIRAREMOS	(forma de virar) (verbo) virar: dirigir
+VIRARIA	(forma de virar) (verbo) virar: dirigir
+VIRARON	(forma de virar) (verbo) virar: dirigir
+VIRAS	(forma de vira) (verbo) terceira pessoa do singular do presente do indicativo do verbo virar: virar
+VIRASTE	(forma de virar) (verbo) virar: dirigir
+VIRE	(forma de virar) (verbo) virar: dirigir
+VIREMOS	(forma de virar) (verbo) virar: dirigir
+VIREN	(forma de virar) (verbo) virar: dirigir
+VIRES	(forma de virar) (verbo) virar: dirigir
+VIRGEN	(adjetivo) virgem: pessoa que ainda não teve relações sexuais\n(substantivo) virgem: pessoa que ainda não teve relações sexuais
+VIRGENES	(forma de virgen) (adjetivo) virgem: pessoa que ainda não teve relações sexuais
+VIRGINIDAD	(substantivo) virgindade: estado do que está intacto
+VIRGINIDADES	(forma de virginidad) (substantivo) virgindade: estado do que está intacto
+VIRGULILLA	(substantivo) marca gráfica, especialmente a usada na escrita, que consiste em um traço pequeno adicionado a uma letra, que indica mudança na pronúncia
+VIRICA	(forma de virico) (adjetivo) vírico: pertinente a vírus
+VIRICAS	(forma de virico) (adjetivo) vírico: pertinente a vírus
+VIRICO	(adjetivo) vírico: pertinente a vírus
+VIRIL	(adjetivo) viril: relativo ou próprio de homem
+VIRILES	(forma de viril) (adjetivo) viril: relativo ou próprio de homem
+VIRILMENTE	(advérbio) virilmente: de forma viril (também: varonilmente)
+VIRINGO	(adjetivo) nu: despido, em pelo, sem roupas (também: pelado)
+VIRO	(forma de virar) (verbo) virar: dirigir
+VIROLOGIA	(substantivo) virologia: estudo dos vírus
+VIROSIS	(substantivo) virose: doença causa por vírus
+VIROTE	(substantivo) virote: haste quadrada que era a peça principal da balestilha, instrumento náutico (também: rolo)
+VIRREINATO	(substantivo) governo: administração
+VIRREY	(substantivo) virrey se traduz como vice-rei
+VIRREYES	(forma de virrey) (substantivo) virrey se traduz como vice-rei
+VIRTUAL	(adjetivo) virtual: diz-se de algo que se tem como certo
+VIRTUALES	(forma de virtual) (adjetivo) virtual: diz-se de algo que se tem como certo
+VIRTUD	(substantivo) virtude: capacidade que tem algo de produzir um certo efeito
+VIRTUDES	(forma de virtud) (substantivo) virtude: capacidade que tem algo de produzir um certo efeito
+VIRTUOSA	(adjetivo) feminino de virtuoso: virtuoso
+VIRTUOSAMENTE	(advérbio) virtuosamente: de um modo virtuoso
+VIRTUOSAS	(adjetivo) feminino plural de virtuoso: virtuoso
+VIRTUOSO	(adjetivo) virtuoso: cheio de virtude
+VIRTUOSOS	(adjetivo) plural de virtuoso: virtuoso
+VIRUELA	(substantivo) varíola: doença contagiosa aguda (oficialmente declarada extinta do planeta na década de 1970), de origem viral, caracterizada por febre, dor no corpo, vômitos e lesões cutâneas
+VIRUELAS	(forma de viruela) (substantivo) varíola: doença contagiosa aguda (oficialmente declarada extinta do planeta na década de 1970), de origem...
+VIRULENCIA	(substantivo) virulência: qualidade ou estado do que é virulento
+VIRULENTA	(forma de virulento) (adjetivo) virulento: que tem vírus
+VIRULENTAS	(forma de virulento) (adjetivo) virulento: que tem vírus
+VIRULENTO	(adjetivo) virulento: que tem vírus
+VIRULENTOS	(forma de virulento) (adjetivo) virulento: que tem vírus
+VIRUS	(substantivo) virus se traduz como vírus:
+VIRUTA	(substantivo) massa: preparado constituído basicamente por trigo, usado na fabricação do pão, macarrão e tortas salgadas
+VIRUTAS	(forma de viruta) (substantivo) massa: preparado constituído basicamente por trigo, usado na fabricação do pão, macarrão e tortas salgadas
+VISA	(substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISADO	(substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISADOS	(forma de visado) (substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISAS	(forma de visa) (substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISCERAL	(adjetivo) visceral: relativo ou pertencente às vísceras
+VISCERALES	(forma de visceral) (adjetivo) visceral: relativo ou pertencente às vísceras
+VISCOSA	(substantivo) viscose: fibra artificial celulósica
+VISCOSAS	(forma de viscoso) (adjetivo) viscoso: que tem uma consistência grossa e pegajosa entre o sólido e o líquido
+VISCOSO	(adjetivo) viscoso: que tem uma consistência grossa e pegajosa entre o sólido e o líquido
+VISCOSOS	(forma de viscoso) (adjetivo) viscoso: que tem uma consistência grossa e pegajosa entre o sólido e o líquido
+VISIBLE	(adjetivo) visível; que se pode ver
+VISIBLES	(forma de visible) (adjetivo) visível; que se pode ver
+VISIGODO	(adjetivo) visigodo: pessoa pertencente ao povo antedito\n(substantivo) visigodo: pessoa pertencente ao povo antedito
+VISIGODOS	(forma de visigodo) (adjetivo) visigodo: pessoa pertencente ao povo antedito
+VISIGOTICO	(adjetivo) visigotico se traduz como visigótico
+VISION	(substantivo) visão: percepção
+VISITA	(substantivo) visita: ato de visitar (ida a algum lugar com o fim de encontrar alguém, conhecer esse lugar ou realizar algum tipo de inspeção ou exame)
+VISITABA	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITABAMOS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITABAN	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITABAS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITAD	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITADOR	(substantivo) visitante: pessoa que visita
+VISITADORA	(substantivo) seringa: objeto dotado de um compartimento vazio e uma agulha, utilizado para inserir substâncias na epiderme humana
+VISITADORAS	(forma de visitador) (substantivo) visitante: pessoa que visita
+VISITADORES	(forma de visitador) (substantivo) visitante: pessoa que visita
+VISITAIS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITAMOS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITAN	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITANTE	(substantivo) visitante: pessoa que visita
+VISITANTES	(substantivo) companhia: o ato de acompanhar (também: empresa, visita)
+VISITAR	(verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade, polidez, negócios, curiosidade, etc.
+VISITARA	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARAIS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARAMOS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARAN	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARAS	(verbo) segunda pessoa do singular do pretérito imperfeito do conjuntivo/subjuntivo do verbo visitar: verbo
+VISITARE	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITAREIS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITAREMOS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARIA	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARIAMOS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARIAN	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARIAS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITARON	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITAS	(forma de visita) (substantivo) visita: ato de visitar (ida a algum lugar com o fim de encontrar alguém, conhecer esse lugar ou realizar...
+VISITASE	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITASEN	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITASES	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITASTE	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITASTEIS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITE	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITEIS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITEMOS	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITEN	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITES	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITO	(forma de visitar) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISLUMBRA	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRABA	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRAMOS	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRAN	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRAR	(verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRARAS	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRARON	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRAS	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRE	(substantivo) vislumbre: parecença\n(verbo) flexão do verbo vislumbrar: lobrigar, vislumbrar
+VISLUMBRES	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISLUMBRO	(forma de vislumbrar) (verbo) vislumbrar: ver pouco; enxergar parcialmente ou com dificuldade (também: lobrigar)
+VISO	(substantivo) jeito: aparência (também: aparência, aparecimento)
+VISOS	(forma de viso) (substantivo) jeito: aparência (também: aparência, aparecimento)
+VISPERA	(substantivo) véspera: num passado recente; num tempo anterior a determinado acontecimento
+VISTA	(substantivo) vista: panorama
+VISTAIS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTAMOS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTAN	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTAZO	(substantivo) jeito: aparência
+VISTAZOS	(forma de vistazo) (substantivo) jeito: aparência
+VISTE	(forma de ver) (substantivo) visão, sentido dos olhos
+VISTEIS	(forma de ver) (substantivo) visão, sentido dos olhos
+VISTEN	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTES	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIERA	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIERAMOS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIERAN	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIERAS	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIERON	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIESE	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTIO	(forma de vestir) (verbo) vestir: cobrir com roupa
+VISTO	(adjetivo) explícito: explicado em detalhes, sem deixar dúvidas (também: claro)
+VISTOS	(forma de visto) (adjetivo) explícito: explicado em detalhes, sem deixar dúvidas (também: claro)
+VISTOSA	(forma de vistoso) (adjetivo) vistoso: agradável à vista
+VISTOSAMENTE	(advérbio) vistosamente: de forma vistosa
+VISTOSAS	(forma de vistoso) (adjetivo) vistoso: agradável à vista
+VISTOSO	(adjetivo) vistoso: agradável à vista
+VISTOSOS	(forma de vistoso) (adjetivo) vistoso: agradável à vista
+VISUAL	(adjetivo) visual: relativo à visão
+VISUALES	(forma de visual) (adjetivo) visual: relativo à visão
+VISUALMENTE	(advérbio) visualmente: de forma visual
+VITAL	(adjetivo) vital: relativo à vida
+VITALES	(forma de vital) (adjetivo) vital: relativo à vida
+VITALICIA	(forma de vitalicio) (adjetivo) vitalício: para a vida toda
+VITALICIO	(adjetivo) vitalício: para a vida toda\n(substantivo) vitalício: para a vida toda
+VITALICIOS	(forma de vitalicio) (adjetivo) vitalício: para a vida toda
+VITALIDAD	(substantivo) vitalidade: vigor físico ou mental
+VITALISMO	(substantivo) vitalismo: doutrina formada por cientistas europeus especialmente de meados do século XVIII a XIX que defendia que os fenômenos inerentes à vida seriam causados por um impulso vital imaterial diferente das forças físicas ou fisioquímicas conhecidas
+VITALISTA	(adjetivo) vitalista se traduz como vitalista
+VITAMINA	(substantivo) vitamina: composto orgânico com papel essencial na regulação do funcionamento das células em todo o organismo
+VITAMINAS	(forma de vitamina) (substantivo) vitamina: composto orgânico com papel essencial na regulação do funcionamento das células em todo o...
+VITANDO	(adjetivo) mau: duro; difícil; funesto; irrequieto (também: odioso, ruim)
+VITILIGO	(substantivo) vitiligo: afecção cutânea que causa a perda da pigmentação em áreas que podem ter bordas escurecidas
+VITOLA	(substantivo) vitola se traduz como vitola
+VITOLAS	(forma de vitola) (substantivo) vitola se traduz como vitola
+VITOREA	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREABA	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREABAN	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREAMOS	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREAN	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREAR	(verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREARAN	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREARON	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREEMOS	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREEN	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITOREO	(forma de vitorear) (verbo) aclamar: saudar (com aplausos) (também: aplaudir)
+VITRAL	(substantivo) vitral: janela com pinturas sobre o vidro
+VITRALES	(forma de vitral) (substantivo) vitral: janela com pinturas sobre o vidro
+VITRINA	(substantivo) vitrina se traduz como ⟪mostrador⟫, vitrina
+VITRINAS	(forma de vitrina) (substantivo) vitrina se traduz como ⟪mostrador⟫, vitrina
+VITRIOLICO	(adjetivo) vitriólico: ácido
+VITRIOLO	(substantivo) vitríolo: o mesmo que sulfato
+VITRO	(substantivo) vitral: janela com pinturas sobre o vidro
+VITUPERACION	(substantivo) vitupério: ato ou efeito de vituperar
+VITUPERAR	(verbo) censurar: criticar (também: criticar)
+VITUPERIO	(substantivo) vitupério: ultraje, insulto, injúria, afronta, ofensa, agravo
+VIUDA	(substantivo) viúva: mulher a quem morreu o marido e não voltou a casar; feminino de viúvo
+VIUDAS	(forma de viudo) (adjetivo) viúvo: homem a quem morreu a esposa e não voltou a casar
+VIUDO	(adjetivo) viúvo: homem a quem morreu a esposa e não voltou a casar\n(substantivo) viúvo: homem a quem morreu a esposa e não voltou a casar
+VIUDOS	(forma de viudo) (adjetivo) viúvo: homem a quem morreu a esposa e não voltou a casar
+VIVACES	(forma de vivaz) (adjetivo) vivaz: vigoroso
+VIVAIS	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVAMENTE	(advérbio) vivamente: de modo vivo
+VIVAMOS	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVAN	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVAR	(verbo) vivar se traduz como ⟪aplaudir⟫\n(substantivo) madrigueira: buraco onde se ocultam os animais, toca (também: toca, covil)
+VIVARACHA	(forma de vivaracho) (adjetivo) vivaz: ativo
+VIVARACHO	(adjetivo) vivaz: ativo
+VIVARACHOS	(forma de vivaracho) (adjetivo) vivaz: ativo
+VIVAZ	(adjetivo) vivaz: vigoroso
+VIVE	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVEMOS	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVEN	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVENCIA	(substantivo) vivência: experiência
+VIVENCIAR	(verbo) vivenciar: (experienciar) (também: experienciar)
+VIVENCIAS	(forma de vivencia) (substantivo) vivência: experiência
+VIVERES	(substantivo) alimento: provimentos destinados ao consumo e satisfação de necessidades fisiológicas de um indivíduo (P.e., pensão alimentícia) (também: comida)
+VIVERO	(substantivo) fraldário: local destinado à troca de fraldas de crianças (também: berçário)
+VIVEROS	(forma de vivero) (substantivo) fraldário: local destinado à troca de fraldas de crianças (também: berçário)
+VIVES	(forma de vivar) (verbo) vivar se traduz como ⟪aplaudir⟫
+VIVEZA	(substantivo) vitalidade: vigor físico ou mental
+VIVI	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIA	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIAIS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIAMOS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIAN	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIAS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVID	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIDA	(forma de vivido) (adjetivo) vivido: aquele que tem vigor, vida ou vivacidade
+VIVIDAS	(forma de vivido) (adjetivo) vivido: aquele que tem vigor, vida ou vivacidade
+VIVIDO	(adjetivo) vivido: aquele que tem vigor, vida ou vivacidade
+VIVIDOS	(forma de vivido) (adjetivo) vivido: aquele que tem vigor, vida ou vivacidade
+VIVIENDA	(substantivo) casa: construção que serve de moradia
+VIVIENDAS	(forma de vivienda) (substantivo) casa: construção que serve de moradia
+VIVIENTE	(adjetivo) vivente: ser vivo\n(substantivo) vivente: ser vivo
+VIVIENTES	(forma de viviente) (adjetivo) vivente: ser vivo
+VIVIERA	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIERAIS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIERAMOS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIERAN	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIERAS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIERON	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIESE	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIESEMOS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIESEN	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIESES	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIFICAR	(verbo) vivificar se traduz como vivificar
+VIVIFICO	(adjetivo) vivaz: ativo (também: vivente)
+VIVIMOS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIO	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIR	(verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)\n(substantivo) morar: habitar, viver, ter estabelecido residência (também: vivir)
+VIVIRA	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRAN	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRAS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRE	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIREIS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIREMOS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRIA	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRIAIS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRIAMOS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRIAN	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIRIAS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVIS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVISTE	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVISTEIS	(forma de vivir) (verbo) morar: habitar, viver, ter estabelecido residência (também: vivir, viver)
+VIVO	(adjetivo) vivo: criatura viva, dotada de vida\n(substantivo) vivo: criatura viva, dotada de vida
+VIVOS	(adjetivo) plural de vivo: vivo
+VIZCACHA	(substantivo) vizcacha se traduz como viscacha
+VIZCONDE	(substantivo) visconde: título de nobreza imediatamente inferior ao de conde
+VIZCONDES	(forma de vizconde) (substantivo) visconde: título de nobreza imediatamente inferior ao de conde
+VIÑETA	(substantivo) viñeta se traduz como tira cômica
+VIÑETAS	(forma de viñeta) (substantivo) viñeta se traduz como tira cômica
+VOCABLO	(substantivo) palavra: menor unidade semântica de um idioma, proferida de modo falado, escrito ou gestual e capaz de transmitir por si só uma ideia isolada, constituída por elementos formadores como raiz (semantema), radical, tema e afixo (prefixo e sufixo), sendo formada em processos como derivação, composição e... (também: vocábulo, termo)
+VOCABLOS	(forma de vocablo) (substantivo) palavra: menor unidade semântica de um idioma, proferida de modo falado, escrito ou gestual e capaz de...
+VOCABULARIO	(substantivo) vocabulário: qualquer conjunto de palavras
+VOCACION	(substantivo) vocação: tendência, inclinação
+VOCACIONES	(forma de vocacion) (substantivo) vocação: tendência, inclinação
+VOCAL	(adjetivo) vocal se traduz como ⟪vocal⟫\n(substantivo) vogal: fonema produzido sem a obstrução da passagem do ar
+VOCALES	(forma de vocal) (adjetivo) vocal se traduz como ⟪vocal⟫
+VOCATIVO	(substantivo) vocativo: forma linguística usada para chamamento ou interpelação ao interlocutor no discurso direto, expressando-se por meio do apelativo, ou, em certas línguas, da flexão casual
+VOCERA	(forma de vocero) (substantivo) porta-voz: pessoa que fala em lugar ou em nome de outra
+VOCERIO	(substantivo) pocema: gritaria, alvoroço
+VOCERO	(substantivo) porta-voz: pessoa que fala em lugar ou em nome de outra
+VOCEROS	(forma de vocero) (substantivo) porta-voz: pessoa que fala em lugar ou em nome de outra
+VOCES	(forma de voz) (substantivo) voz: som produzido pelas cordas vocais
+VOCHO	(substantivo) besouro: designação comum a todos os insetos coleópteros, que perfazem cerca de 400.000 mil espécies descritas (40% dos artrópodes descritos e 25% de todas as espécies animais conhecidas), se diferenciam de todos os demais insetos pelo endurecimento do primeiro par de asas (élitros); habitam todas os...
+VOCIFERA	(forma de vociferar) (verbo) vociferar: falar em alta voz; gritar, bradar
+VOCIFERABA	(forma de vociferar) (verbo) vociferar: falar em alta voz; gritar, bradar
+VOCIFERAN	(forma de vociferar) (verbo) vociferar: falar em alta voz; gritar, bradar
+VOCIFERANTE	(adjetivo) alto: ilustrado, soberbo, importante, caro, difícil (também: barulhento, estrepitante)
+VOCIFERAR	(verbo) vociferar: falar em alta voz; gritar, bradar
+VOCIFERO	(forma de vociferar) (verbo) vociferar: falar em alta voz; gritar, bradar
+VOCINGLERIA	(substantivo) falatório: ato ou efeito de falar demais; tagarelice
+VODKA	(substantivo) vodka: aguardente de cereais, incolor, de forte graduação alcoólica, originária da Europa Oriental.
+VOIVODATO	(substantivo) voivodato se traduz como voivodia
+VOLA	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLABA	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLABAMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLABAN	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLABAS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLAD	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLADA	(forma de volado) (adjetivo) grogue: tonto e/ou desnorteado, por efeito de drogas ou forte medicação, podendo ter perdido a noção correta...
+VOLADAS	(forma de volado) (adjetivo) grogue: tonto e/ou desnorteado, por efeito de drogas ou forte medicação, podendo ter perdido a noção correta...
+VOLADIZO	(substantivo) voladizo se traduz como em balanço
+VOLADO	(adjetivo) grogue: tonto e/ou desnorteado, por efeito de drogas ou forte medicação, podendo ter perdido a noção correta da realidade\n(substantivo) coisa: qualquer objeto inanimado; em sentido filosófico, coisa é tudo aquilo subsistente por si mesmo; a filosofia kantiana afirma ser uma coisa aquilo que existe independentemente do espírito; no sentido usual, como para o Direito, coisa é tudo aquilo que, percebido pelos sentidos, pode apresentar...
+VOLADOR	(substantivo) foguete: veículo propelido pela descarga intensa, na parte traseira, de gases liberados pela combustão de algum combustível (também: rúcula)
+VOLADORA	(forma de volador) (substantivo) foguete: veículo propelido pela descarga intensa, na parte traseira, de gases liberados pela combustão de...
+VOLADORAS	(forma de volador) (substantivo) foguete: veículo propelido pela descarga intensa, na parte traseira, de gases liberados pela combustão de...
+VOLADORES	(forma de volador) (substantivo) foguete: veículo propelido pela descarga intensa, na parte traseira, de gases liberados pela combustão de...
+VOLADOS	(forma de volado) (adjetivo) grogue: tonto e/ou desnorteado, por efeito de drogas ou forte medicação, podendo ter perdido a noção correta...
+VOLAIS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLAMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLANDERO	(adjetivo) volandero se traduz como desembalado, ⟪livre⟫, ⟪gratuito⟫
+VOLANTE	(substantivo) volante: roda de direção dos automóveis
+VOLANTES	(forma de volante) (substantivo) volante: roda de direção dos automóveis
+VOLANTIN	(substantivo) papagaio: brinquedo consistente de varetas de bambu cobertas de papel fino e que se empina através de uma linha, permanecendo no ar
+VOLAPUK	(substantivo) volapuque: língua construída criada pelo padre alemão Johann Martin Schleyer, entre 1879 e 1880
+VOLAR	(verbo) voar: sustentar-se ou mover-se no ar
+VOLARA	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARAMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARAN	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARAS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARE	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLAREIS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLAREMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARIA	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARIAMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARIAN	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARIAS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLARON	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLASE	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLASEMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLASEN	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLASTE	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLASTEIS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLATERIA	(substantivo) volateria se traduz como ave doméstica, ave de capoeira, ave de corte, carne de ave
+VOLATIL	(adjetivo) volátil: que tem facilidade em voar
+VOLATILES	(forma de volatil) (adjetivo) volátil: que tem facilidade em voar
+VOLATILIZAR	(verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILIZAS	(forma de volatilizar) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILIZO	(forma de volatilizar) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLCABA	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCABAN	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCAMOS	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCAN	(substantivo) vulcão: estrutura geológica pela qual são expelidas substâncias (geralmente magma) presentes no interior da Terra
+VOLCANES	(forma de volcan) (substantivo) vulcão: estrutura geológica pela qual são expelidas substâncias (geralmente magma) presentes no interior...
+VOLCANICA	(forma de volcanico) (adjetivo) vulcânico: relativo a vulcão (também: ígneo)
+VOLCANICAS	(forma de volcanico) (adjetivo) vulcânico: relativo a vulcão (também: ígneo)
+VOLCANICO	(adjetivo) vulcânico: relativo a vulcão (também: ígneo)
+VOLCANICOS	(forma de volcanico) (adjetivo) vulcânico: relativo a vulcão (também: ígneo)
+VOLCAR	(verbo) transtornar: causar transtorno a
+VOLCARA	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCARAN	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCARE	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCAREMOS	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCARIA	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCARON	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCASTE	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLCO	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLE	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLEA	(substantivo) vólei: : forma regressiva de voleibol
+VOLEIBOL	(substantivo) voleibol: desporto coletivo, praticado em quadra fechada dividida ao meio por uma rede, e cujo objetivo é não deixar a bola cair no chão
+VOLEMOS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLEO	(substantivo) vólei: devolução da bola antes que ela toque no chão
+VOLEY	(substantivo) vólei: : forma regressiva de voleibol (também: voleibol, vôlei)
+VOLFRAMIO	(substantivo) tungstênio: elemento químico de símbolo W, também conhecido como wolfrâmio, possui o número atômico 74 e massa atômica relativa 183,84 u; é um metal de transição, branco acinzentado brilhante; é encontrado em minerais como a wolframita, a scheelita e tungstita; devido a sua extrema dureza e elevado ponto de...
+VOLIBOL	(substantivo) vólei: : forma regressiva de voleibol (também: voleibol, vôlei)
+VOLICION	(substantivo) volição: desejo, vontade
+VOLITIVO	(adjetivo) volitivo: relativo à vontade
+VOLO	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VOLOVAN	(substantivo) volovã: espécie de empada feita de massa folhada, preenchida com um recheio cremoso que pode conter carne, ave, camarão, legumes, cogumelos, etc.
+VOLQUE	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLQUEMOS	(forma de volcar) (verbo) transtornar: causar transtorno a
+VOLTAJE	(substantivo) voltagem: diferença de potencial elétrico entre dois pontos medida em volts
+VOLTAJES	(forma de voltaje) (substantivo) voltagem: diferença de potencial elétrico entre dois pontos medida em volts
+VOLTEA	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEABA	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEABAN	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEABAS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEAMOS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEAN	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEAR	(verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARA	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARAN	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARAS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARE	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEAREMOS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARIA	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARIAN	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARIAS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEARON	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEAS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEASTE	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEE	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEEMOS	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEEN	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEES	(forma de voltear) (verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar (também: virar, embrulhar)
+VOLTEO	(substantivo) giro: volta (também: girada)
+VOLTEOS	(forma de volteo) (substantivo) giro: volta (também: girada)
+VOLTERETA	(substantivo) voltarete: variante surgida no século dezoito, e popularizada em Portugal e suas colônias no século dezenove, do jogo de cartas tresilho.
+VOLTERETAS	(forma de voltereta) (substantivo) voltarete: variante surgida no século dezoito, e popularizada em Portugal e suas colônias no século...
+VOLTIO	(substantivo) vóltio: unidade de medida de voltagem (também: volt)
+VOLTIOS	(forma de voltio) (substantivo) vóltio: unidade de medida de voltagem (também: volt)
+VOLUBILIDAD	(substantivo) volubilidade: qualidade do que é volúvel
+VOLUBLE	(adjetivo) volúvel: diz-se das hastes que se enrolam espiralmente em volta dos corpos vizinhos
+VOLUBLES	(forma de voluble) (adjetivo) volúvel: diz-se das hastes que se enrolam espiralmente em volta dos corpos vizinhos
+VOLUMEN	(substantivo) volume: quantidade de espaço ocupada por um corpo
+VOLUMENES	(forma de volumen) (substantivo) volume: quantidade de espaço ocupada por um corpo
+VOLUMETRICO	(adjetivo) volumétrico: relativo ao volume
+VOLUMINOSA	(forma de voluminoso) (adjetivo) volumoso: forte
+VOLUMINOSAS	(forma de voluminoso) (adjetivo) volumoso: forte
+VOLUMINOSO	(adjetivo) volumoso: forte
+VOLUMINOSOS	(forma de voluminoso) (adjetivo) volumoso: forte
+VOLUNTAD	(substantivo) vontade: desejo
+VOLUNTADES	(forma de voluntad) (substantivo) vontade: desejo
+VOLUNTARIA	(forma de voluntario) (adjetivo) voluntário: alguém que faz algo de maneira voluntária
+VOLUNTARIAMENTE	(advérbio) voluntariamente: de maneira voluntária
+VOLUNTARIAS	(forma de voluntario) (adjetivo) voluntário: alguém que faz algo de maneira voluntária
+VOLUNTARIO	(adjetivo) voluntário: alguém que faz algo de maneira voluntária\n(substantivo) voluntário: alguém que faz algo de maneira voluntária
+VOLUNTARIOS	(forma de voluntario) (adjetivo) voluntário: alguém que faz algo de maneira voluntária
+VOLUNTARIOSAMENTE	(advérbio) voluntariosamente: de modo voluntarioso
+VOLUNTARISMO	(substantivo) voluntarismo: doutrina que concede primazia à vontade sobre a razão e a reflexão
+VOLUPTUOSA	(forma de voluptuoso) (adjetivo) voluptuoso: que aprecia ou procura os prazeres dos sentidos, sobretudo sexuais, ou que a eles se entrega;...
+VOLUPTUOSAMENTE	(advérbio) voluptuosamente: de forma voluptuosa
+VOLUPTUOSAS	(forma de voluptuoso) (adjetivo) voluptuoso: que aprecia ou procura os prazeres dos sentidos, sobretudo sexuais, ou que a eles se entrega;...
+VOLUPTUOSIDAD	(substantivo) voluptuosidade: o mesmo que volúpia; sensualidade
+VOLUPTUOSIDADES	(forma de voluptuosidad) (substantivo) voluptuosidade: o mesmo que volúpia; sensualidade
+VOLUPTUOSO	(adjetivo) voluptuoso: que aprecia ou procura os prazeres dos sentidos, sobretudo sexuais, ou que a eles se entrega; lascivo, libidinoso, sensual
+VOLUPTUOSOS	(forma de voluptuoso) (adjetivo) voluptuoso: que aprecia ou procura os prazeres dos sentidos, sobretudo sexuais, ou que a eles se entrega;...
+VOLVAIS	(forma de volver) (verbo) virar: dar a volta
+VOLVAMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVE	(forma de volver) (verbo) virar: dar a volta
+VOLVED	(forma de volver) (verbo) virar: dar a volta
+VOLVEIS	(forma de volver) (verbo) virar: dar a volta
+VOLVEMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVER	(verbo) virar: dar a volta
+VOLVERA	(forma de volver) (verbo) virar: dar a volta
+VOLVERAN	(forma de volver) (verbo) virar: dar a volta
+VOLVERAS	(forma de volver) (verbo) virar: dar a volta
+VOLVERE	(forma de volver) (verbo) virar: dar a volta
+VOLVEREIS	(forma de volver) (verbo) virar: dar a volta
+VOLVEREMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVERIA	(forma de volver) (verbo) virar: dar a volta
+VOLVERIAIS	(forma de volver) (verbo) virar: dar a volta
+VOLVERIAMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVERIAN	(forma de volver) (verbo) virar: dar a volta
+VOLVERIAS	(forma de volver) (verbo) virar: dar a volta
+VOLVES	(forma de volver) (verbo) virar: dar a volta
+VOLVI	(forma de volver) (verbo) virar: dar a volta
+VOLVIA	(forma de volver) (verbo) virar: dar a volta
+VOLVIAIS	(forma de volver) (verbo) virar: dar a volta
+VOLVIAMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVIAN	(forma de volver) (verbo) virar: dar a volta
+VOLVIAS	(forma de volver) (verbo) virar: dar a volta
+VOLVIERA	(forma de volver) (verbo) virar: dar a volta
+VOLVIERAIS	(forma de volver) (verbo) virar: dar a volta
+VOLVIERAMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVIERAN	(forma de volver) (verbo) virar: dar a volta
+VOLVIERAS	(forma de volver) (verbo) virar: dar a volta
+VOLVIERON	(forma de volver) (verbo) virar: dar a volta
+VOLVIESE	(forma de volver) (verbo) virar: dar a volta
+VOLVIESEIS	(forma de volver) (verbo) virar: dar a volta
+VOLVIESEMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVIESEN	(forma de volver) (verbo) virar: dar a volta
+VOLVIESES	(forma de volver) (verbo) virar: dar a volta
+VOLVIMOS	(forma de volver) (verbo) virar: dar a volta
+VOLVIO	(forma de volver) (verbo) virar: dar a volta
+VOLVISTE	(forma de volver) (verbo) virar: dar a volta
+VOLVISTEIS	(forma de volver) (verbo) virar: dar a volta
+VOMER	(substantivo) vómer: osso chato e delgado que separa as duas fossas nasais (também: vômer)
+VOMITA	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITABA	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITABAMOS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITABAN	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITABAS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITAIS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITAMOS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITAN	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITAR	(verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARA	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARAN	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARAS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARE	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITAREMOS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARIA	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARIAN	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARIAS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITARON	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITAS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITASE	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITASTE	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITE	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITEMOS	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITEN	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITES	(forma de vomitar) (verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITIVA	(forma de vomitivo) (adjetivo) repugnante: asqueroso, nojento
+VOMITIVAS	(forma de vomitivo) (adjetivo) repugnante: asqueroso, nojento
+VOMITIVO	(adjetivo) repugnante: asqueroso, nojento
+VOMITO	(substantivo) vômito: ação de vomitar
+VOMITOS	(forma de vomito) (substantivo) vômito: ação de vomitar
+VORACIDAD	(substantivo) voracidad se traduz como voracidade
+VORAGINE	(substantivo) efeito: estado permanente provocado por uma ação; consequência, resultado
+VORAZ	(adjetivo) ganancioso: que tem ganância; que é ambicioso; que cobiça
+VORTEX	(substantivo) vórtice: movimento intenso de forma espiralada numa região limitada de um fluido (também: turbilhão, redemoinho)
+VORTICE	(substantivo) vórtice: movimento forte e giratório; remoinho, turbilhão, voragem
+VORTICES	(forma de vortice) (substantivo) vórtice: movimento forte e giratório; remoinho, turbilhão, voragem
+VOS	(pronome) vós, pronome pessoal da segunda pessoa do singular:
+VOSEO	(substantivo) o uso do pronome vos (vós) no singular no lugar de tú em alguns dialetos do idioma espanhol
+VOSOTRAS	(pronome) vós: usado para indicar as pessoas a quem se fala (também: você, tu)
+VOSOTROS	(pronome) vós: usado para indicar as pessoas a quem se fala
+VOTA	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTABA	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTABAMOS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTABAN	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTABAS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTACION	(substantivo) votação: ato ou efeito de votar
+VOTACIONES	(forma de votacion) (substantivo) votação: ato ou efeito de votar
+VOTAD	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTADA	(substantivo) voto: a ação de votar
+VOTADAS	(forma de votado) (adjetivo) votado: que recebeu votos
+VOTADO	(adjetivo) votado: que recebeu votos
+VOTADOS	(forma de votado) (adjetivo) votado: que recebeu votos
+VOTAIS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTAMOS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTAN	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTANTE	(substantivo) eleitor: aquele que tem o direito de votar numa eleição
+VOTANTES	(forma de votante) (substantivo) eleitor: aquele que tem o direito de votar numa eleição
+VOTAR	(verbo) votar: aprovar ou eleger por meio de voto
+VOTARA	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARAMOS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARAN	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARAS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARE	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTAREIS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTAREMOS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARIA	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARIAIS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARIAMOS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARIAN	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARIAS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTARON	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTAS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTASE	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTASEN	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTASTE	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTASTEIS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTE	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTEIS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTEMOS	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTEN	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTES	(forma de votar) (verbo) votar: aprovar ou eleger por meio de voto
+VOTIVA	(forma de votivo) (adjetivo) votivo: que se refere a voto
+VOTIVAS	(forma de votivo) (adjetivo) votivo: que se refere a voto
+VOTIVO	(adjetivo) votivo: que se refere a voto
+VOTO	(substantivo) voto: promessa
+VOTOS	(forma de voto) (substantivo) voto: promessa
+VOY	(forma de irse) (verbo) fugir: retirar-se (também: ir-se)
+VOZ	(substantivo) voz: som produzido pelas cordas vocais
+VUDU	(substantivo) vodu: tradição religiosa teísta-animista baseada nos ancestrais, que tem as suas raízes primárias entre os povos Ewe-Fon da África Ocidental, no Benin
+VUDUS	(forma de vudu) (substantivo) vodu: tradição religiosa teísta-animista baseada nos ancestrais, que tem as suas raízes primárias entre...
+VUELA	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VUELAN	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VUELAS	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VUELCA	(forma de volcar) (verbo) transtornar: causar transtorno a
+VUELCAN	(forma de volcar) (verbo) transtornar: causar transtorno a
+VUELCAS	(forma de volcar) (verbo) transtornar: causar transtorno a
+VUELCO	(substantivo) volta: o ato de se virar (também: giro, torneio)
+VUELCOS	(forma de vuelco) (substantivo) volta: o ato de se virar (também: giro, torneio)
+VUELE	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VUELEN	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VUELES	(forma de volar) (verbo) voar: sustentar-se ou mover-se no ar
+VUELO	(substantivo) fuga: ato ou efeito de escapar, fugir (também: voo)
+VUELOS	(forma de vuelo) (substantivo) fuga: ato ou efeito de escapar, fugir (também: voo)
+VUELQUE	(forma de volcar) (verbo) transtornar: causar transtorno a
+VUELQUEN	(forma de volcar) (verbo) transtornar: causar transtorno a
+VUELQUES	(forma de volcar) (verbo) transtornar: causar transtorno a
+VUELTA	(substantivo) volta: o ato de se virar
+VUELTAS	(forma de vuelta) (substantivo) volta: o ato de se virar
+VUELTERO	(adjetivo) indeciso: não decidido, não resolvido
+VUELTO	(adjetivo) voltado: destinado
+VUELTOS	(forma de vuelto) (adjetivo) voltado: destinado
+VUELVA	(forma de volver) (verbo) virar: dar a volta
+VUELVAN	(forma de volver) (verbo) virar: dar a volta
+VUELVAS	(forma de volver) (verbo) virar: dar a volta
+VUELVE	(forma de volver) (verbo) virar: dar a volta
+VUELVEN	(forma de volver) (verbo) virar: dar a volta
+VUELVES	(forma de volver) (verbo) virar: dar a volta
+VUELVO	(forma de volver) (verbo) virar: dar a volta
+VUESTRA	(forma de vuestro) (pronome) teu: Pronome substantivo
+VUESTRO	(pronome) teu: Pronome substantivo
+VUESTROS	(forma de vuestro) (pronome) teu: Pronome substantivo
+VULCANISMO	(substantivo) vulcanismo se traduz como volcanismo
+VULGAR	(adjetivo) vulgar se traduz como vulgar¹
+VULGARES	(forma de vulgar) (adjetivo) vulgar se traduz como vulgar¹
+VULGARIDAD	(substantivo) vulgaridade: qualidade do que é vulgar
+VULGARIDADES	(forma de vulgaridad) (substantivo) vulgaridade: qualidade do que é vulgar
+VULGARIZAR	(verbo) vulgarizar: (figuradamente)
+VULGARMENTE	(advérbio) generalizadamente: de modo generalizado (também: geralmente, ordinariamente)
+VULNERA	(forma de vulnerar) (verbo) infringir: quebrantar, postergar, transgredir, violar (também: vulnerar)
+VULNERABILIDAD	(substantivo) vulnerabilidade: Característica de quem está vulnerável
+VULNERABILIDADES	(forma de vulnerabilidad) (substantivo) vulnerabilidade: Característica de quem está vulnerável
+VULNERABLE	(adjetivo) vulnerável: que se encontra susceptível ou fragilizado numa determinada circunstância
+VULNERABLES	(forma de vulnerable) (adjetivo) vulnerável: que se encontra susceptível ou fragilizado numa determinada circunstância
+VULNERACION	(substantivo) violação: não cumprimento da lei, desrespeito à lei; infração
+VULNERAN	(forma de vulnerar) (verbo) infringir: quebrantar, postergar, transgredir, violar (também: vulnerar)
+VULNERAR	(verbo) infringir: quebrantar, postergar, transgredir, violar (também: vulnerar)
+VULNERO	(forma de vulnerar) (verbo) infringir: quebrantar, postergar, transgredir, violar (também: vulnerar)
+VULTO	(substantivo) vulto: figura mal distinta
+VULVA	(substantivo) vulva: parte externa do aparelho genital feminino que protege a vagina; é formada pelos grandes lábios, pequenos lábios, clitóris, orifício vaginal e uretral
+VULVAS	(forma de vulva) (substantivo) vulva: parte externa do aparelho genital feminino que protege a vagina; é formada pelos grandes lábios,...

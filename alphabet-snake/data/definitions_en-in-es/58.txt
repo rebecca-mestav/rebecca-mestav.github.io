@@ -1,0 +1,30 @@
+XANTHIN	(sustantivo) xantina: Sustancia estimulante amarillenta que se encuentra en algunas plantas y en la orina.
+XANTHINE	(sustantivo) xantina: Sustancia estimulante amarillenta que se encuentra en algunas plantas y en la orina.
+XANTHINES	(forma de xanthine) (sustantivo) xantina: Sustancia estimulante amarillenta que se encuentra en algunas plantas y en la orina.
+XANTHINS	(forma de xanthin) (sustantivo) xantina: Sustancia estimulante amarillenta que se encuentra en algunas plantas y en la orina.
+XENOGRAFT	(sustantivo) xenoinjerto: Injerto de tejido procedente de un donante de una especie diferente a la del receptor
+XENOGRAFTS	(forma de xenograft) (sustantivo) xenoinjerto: Injerto de tejido procedente de un donante de una especie diferente a la del receptor
+XENON	(sustantivo) xenón: Es un elemento químico de la tabla periódica cuyo símbolo es Xe y su número atómico el 54. Gas noble inodoro, muy pesado, incoloro, el xenón está presente en la atmósfera terrestre sólo en trazas y fue parte del primer compuesto de gas noble sintetizado.
+XENONS	(forma de xenon) (sustantivo) xenón: Es un elemento químico de la tabla periódica cuyo símbolo es Xe y su número atómico el 54. Gas...
+XENOPHOBIA	(sustantivo) xenofobia: Prejuicios con recelo, odio, fobia y rechazo contra los extranjeros, o, en general, contra los grupos étnicos diferentes, o contra personas cuya fisionomía social y cultural se desconoce.
+XENOPHOBIAS	(forma de xenophobia) (sustantivo) xenofobia: Prejuicios con recelo, odio, fobia y rechazo contra los extranjeros, o, en general, contra los...
+XENOPHOBIC	(adjetivo) xenófobo: Que tiene prejuicios con recelo u odio o fobia o rechazo contra los extranjeros, o, en general, contra los grupos étnicos diferentes, o contra personas cuya fisionomía social y cultural se desconoce. (también: xenofóbico)
+XEROGRAPHIC	(adjetivo) xerográfico: Que pertenece o concierne a la xerografía.
+XEROPHTHALMIA	(sustantivo) xeroftalmía: Enfermedad de los ojos caracterizada por la sequedad persistente de la conjuntiva y opacidad de la córnea.
+XEROPHTHALMIAS	(forma de xerophthalmia) (sustantivo) xeroftalmía: Enfermedad de los ojos caracterizada por la sequedad persistente de la conjuntiva y opacidad...
+XEROX	(sustantivo) xerocopia: Reproducción fotográfica obtenida mediante xerografía.\n(verbo) xerocopiar: Hacer una reproducción fotográfica empleando xerografía. (también: xerografiar)
+XEROXED	(forma de xerox) (sustantivo) xerocopia: Reproducción fotográfica obtenida mediante xerografía.
+XEROXES	(forma de xerox) (sustantivo) xerocopia: Reproducción fotográfica obtenida mediante xerografía.
+XEROXING	(forma de xerox) (sustantivo) xerocopia: Reproducción fotográfica obtenida mediante xerografía.
+XIPHISTERNUM	(sustantivo) xifoides: Elemento mas pequeño del esternón, que se encuentra en su extremo inferior, compuesto de cartílago y hueso.
+XIPHOID	(adjetivo) xifoideo: Propio o relacionado con el xifoides.
+XIPHOIDS	(forma de xiphoid) (adjetivo) xifoideo: Propio o relacionado con el xifoides.
+XYLEM	(sustantivo) xilema: Tejido especializado en la conducción de agua y minerales desde la raíz al resto de la planta.
+XYLEMS	(forma de xylem) (sustantivo) xilema: Tejido especializado en la conducción de agua y minerales desde la raíz al resto de la planta.
+XYLOPHAGOUS	(adjetivo) xilófago: Que se alimenta de madera, como ciertos insectos, en especial las termitas o la carcoma
+XYLOPHONE	(sustantivo) xilófono: Instrumento musical hecho de piezas de madera cortadas a cierto tamaño, para que al pegarles con un pequeño martillo o paleta suenen a diferentes tonos.
+XYLOPHONES	(forma de xylophone) (sustantivo) xilófono: Instrumento musical hecho de piezas de madera cortadas a cierto tamaño, para que al pegarles con...
+XYLOPHONIST	(sustantivo) xilofonista: Persona que toca el xilófono
+XYLOPHONISTS	(forma de xylophonist) (sustantivo) xilofonista: Persona que toca el xilófono
+XYLOSE	(sustantivo) xilosa: Carbohidrato incoloro, de fórmula química C₅H₁₀O₅, obtenido de la madera por acción del ácido sulfúrico
+XYLOSES	(forma de xylose) (sustantivo) xilosa: Carbohidrato incoloro, de fórmula química C₅H₁₀O₅, obtenido de la madera por acción del ácido...

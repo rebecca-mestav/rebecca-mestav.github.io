@@ -1,0 +1,1318 @@
+WAD	(名詞) wadの訳: 札束
+WADDED	(wadの変化形) (名詞) wadの訳: 札束
+WADDING	(wadの変化形) (名詞) wadの訳: 札束
+WADDINGS	(wadの変化形) (名詞) wadの訳: 札束
+WADER	(名詞) 水中を歩いて渡る人
+WADS	(wadの変化形) (名詞) wadの訳: 札束
+WAE	(名詞) waeの訳: 悲痛, 悲哀
+WAES	(waeの変化形) (名詞) waeの訳: 悲痛, 悲哀
+WAG	(動詞) 降る: （ふる）〔からだの一部ヲ〕体の一部を関節などを中心に前後・左右または上下に動かす。 (ほかに: 揺する)\n(名詞) wagの訳: 振ること
+WAGE	(名詞) wageの訳: ⟪給料|きゅうりょう⟫, ⟪賃金|ちんぎん⟫\n(動詞) wageの訳: ⟪行う|おこなう⟫
+WAGED	(動詞) "wage" の過去形・過去分詞形: ⟪給料|きゅうりょう⟫, ⟪賃金|ちんぎん⟫
+WAGER	(名詞) wagerの訳: 賭け, 賭け金\n(動詞) 賭ける: （かける）議題に上げる。 (ほかに: 請け合う)
+WAGERED	(動詞) wagerの過去形・過去分詞: 賭け, 賭け金
+WAGERING	(wagerの変化形) (名詞) wagerの訳: 賭け, 賭け金
+WAGERS	(名詞) wagerの複数形: 賭け, 賭け金\n(動詞) wagerの直説法現在第三人称単数形: 賭け, 賭け金
+WAGES	(名詞) "wage" の複数形: ⟪給料|きゅうりょう⟫, ⟪賃金|ちんぎん⟫\n(動詞) "wage" の三人称単数現在形: ⟪給料|きゅうりょう⟫, ⟪賃金|ちんぎん⟫
+WAGGED	(動詞) wagの過去形・過去分詞: 降る: （ふる）〔からだの一部ヲ〕体の一部を関節などを中心に前後・左右または上下に動かす。 (ほかに: 揺する)
+WAGGER	(wagの変化形) (動詞) 降る: （ふる）〔からだの一部ヲ〕体の一部を関節などを中心に前後・左右または上下に動かす。 (ほかに: 揺する)
+WAGGING	(動詞) wagの現在分詞: 降る: （ふる）〔からだの一部ヲ〕体の一部を関節などを中心に前後・左右または上下に動かす。 (ほかに: 揺する)\n(名詞) waggingの訳: 振ること
+WAGGLE	(動詞) たゆたう: 揺れ動く。漂う。
+WAGGLED	(waggleの変化形) (動詞) たゆたう: 揺れ動く。漂う。
+WAGGLES	(waggleの変化形) (動詞) たゆたう: 揺れ動く。漂う。
+WAGGLING	(waggleの変化形) (動詞) たゆたう: 揺れ動く。漂う。
+WAGING	(動詞) wageの動名詞又は現在分詞: ⟪給料|きゅうりょう⟫, ⟪賃金|ちんぎん⟫
+WAGON	(名詞) wagonの訳: 搬器
+WAGONED	(wagonの変化形) (名詞) wagonの訳: 搬器
+WAGONING	(wagonの変化形) (名詞) wagonの訳: 搬器
+WAGONS	(wagonの変化形) (名詞) wagonの訳: 搬器
+WAGS	(名詞) wagの複数形: 降る: （ふる）〔からだの一部ヲ〕体の一部を関節などを中心に前後・左右または上下に動かす。 (ほかに: 揺する)\n(動詞) wagの直説法現在第三人称単数形: 降る: （ふる）〔からだの一部ヲ〕体の一部を関節などを中心に前後・左右または上下に動かす。 (ほかに: 揺する)
+WAGTAIL	(名詞) wagtailの訳: 鶺鴒
+WAGTAILS	(名詞) wagtailの複数形: 鶺鴒
+WAIF	(名詞) 浮浪児: 保護者がおらず、一定の住居もなくさまよい暮らす子供。
+WAIFED	(waifの変化形) (名詞) 浮浪児: 保護者がおらず、一定の住居もなくさまよい暮らす子供。
+WAIFING	(waifの変化形) (名詞) 浮浪児: 保護者がおらず、一定の住居もなくさまよい暮らす子供。
+WAIFS	(名詞) waifの複数形: 浮浪児: 保護者がおらず、一定の住居もなくさまよい暮らす子供。
+WAIL	(名詞) wailの訳: 泣き声\n(動詞) wailの訳: ⟪泣き叫ぶ|なきさけぶ⟫, 嘆く
+WAILED	(動詞) wailの過去形・過去分詞: 泣き声
+WAILING	(名詞) wailingの訳: 泣き叫ぶ声\n(動詞) wailの現在分詞: 泣き声
+WAILS	(名詞) wailの複数形: 泣き声\n(動詞) wailの直説法現在第三人称単数形: 泣き声
+WAINS	(名詞) wainの複数形。
+WAIST	(名詞) ウエスト。腰。
+WAISTED	(waistの変化形) (名詞) ウエスト。腰。
+WAISTING	(waistの変化形) (名詞) ウエスト。腰。
+WAISTS	(waistの変化形) (名詞) ウエスト。腰。
+WAIT	(動詞) waitの訳: 延期する\n(名詞) waitの訳: 待つこと
+WAITED	(動詞) waitの過去形・過去分詞: 延期する
+WAITER	(名詞) 誰か又は何かを待っている人。
+WAITERS	(名詞) waiterの複数形: 誰か又は何かを待っている人。
+WAITING	(名詞) 待機: 機会や命令などがあることに備えて待つこと。\n(動詞) waitの現在分詞: 延期する
+WAITINGS	(名詞) waitingの複数形: 待機: 機会や命令などがあることに備えて待つこと。
+WAITRESS	(名詞) waitressの訳: 女性の給仕, ウェイトレス\n(動詞) ウェイトレスとして働く。
+WAITRESSED	(動詞) waitressの過去形・過去分詞: 女性の給仕, ウェイトレス
+WAITRESSES	(名詞) waitressの複数形: 女性の給仕, ウェイトレス\n(動詞) waitressの直説法現在第三人称単数形: 女性の給仕, ウェイトレス
+WAITRESSING	(動詞) waitressの動名詞又は現在分詞: 女性の給仕, ウェイトレス
+WAITS	(名詞) "wait" の複数形: 延期する\n(動詞) "wait" の三人称単数現在形: 延期する
+WAIVE	(動詞) 放棄する: 自分の権利や資格を行使せずに棄てること。
+WAIVED	(動詞) waiveの過去形・過去分詞: 放棄する: 自分の権利や資格を行使せずに棄てること。
+WAIVER	(名詞) waiverの訳: 権利放棄\n(動詞) waiverの訳: 放棄する
+WAIVERS	(名詞) waiverの複数形: 権利放棄\n(動詞) waiverの直説法現在第三人称単数形: 権利放棄
+WAIVES	(名詞) waiveの複数形: 放棄する: 自分の権利や資格を行使せずに棄てること。\n(動詞) waiveの直説法現在第三人称単数形: 放棄する: 自分の権利や資格を行使せずに棄てること。
+WAIVING	(動詞) waiveの現在分詞: 放棄する: 自分の権利や資格を行使せずに棄てること。
+WAKE	(動詞) wakeの訳: 目が覚める\n(名詞) wakeの訳: 徹夜
+WAKED	(wakeの変化形) (動詞) wakeの訳: 目が覚める
+WAKEFUL	(形容詞) wakefulの訳: 眠れない
+WAKEFULLY	(wakefulの変化形) (形容詞) wakefulの訳: 眠れない
+WAKEFULNESS	(名詞) wakefulnessの訳: 不眠
+WAKEFULNESSES	(wakefulnessの変化形) (名詞) wakefulnessの訳: 不眠
+WAKES	(wakeの変化形) (動詞) wakeの訳: 目が覚める
+WAKING	(wakeの変化形) (動詞) wakeの訳: 目が覚める
+WALK	(動詞) 歩く: （あるく）左右いずれかの足を地につけながら、片足ずつ前方に出して移動する。\n(名詞) walkの訳: ⟪歩行|ほこう⟫
+WALKED	(動詞) "walk" の過去形・過去分詞形: 歩く: （あるく）左右いずれかの足を地につけながら、片足ずつ前方に出して移動する。
+WALKER	(名詞) walkerの訳: 歩く人, 歩行者
+WALKERS	(walkerの変化形) (名詞) walkerの訳: 歩く人, 歩行者
+WALKING	(形容詞) walkingの訳: 歩行用の\n(名詞) 歩行: 歩くこと。
+WALKINGS	(walkの変化形) (動詞) 歩く: （あるく）左右いずれかの足を地につけながら、片足ずつ前方に出して移動する。
+WALKS	(名詞) "walk" の複数形: 歩く: （あるく）左右いずれかの足を地につけながら、片足ずつ前方に出して移動する。\n(動詞) "walk" の三人称単数現在形: 歩く: （あるく）左右いずれかの足を地につけながら、片足ずつ前方に出して移動する。
+WALKWAY	(名詞) 歩道: 人が歩くために区切られた部分。
+WALKWAYS	(walkwayの変化形) (名詞) 歩道: 人が歩くために区切られた部分。
+WALL	(名詞) 壁、壁に類似の構造。\n(動詞) 壁で囲う、仕切る。壁を作る。
+WALLABIES	(wallabyの変化形) (名詞) wallabyの訳: ワラビー
+WALLABY	(名詞) wallabyの訳: ワラビー
+WALLAROO	(名詞) ワラルー: フクロネズミ目カンガルー科に属する中形の動物の総称。大形のものをカンガルー。小形のものをワラビーという。
+WALLAROOS	(wallarooの変化形) (名詞) ワラルー: フクロネズミ目カンガルー科に属する中形の動物の総称。大形のものをカンガルー。小形のものをワラビーという。
+WALLED	(形容詞) walledの訳: 壁のある, 壁に囲われた\n(動詞) wallの過去形・過去分詞: 壁、壁に類似の構造。
+WALLET	(名詞) 札入れ: お札（紙幣）を入れる財布。紙入れ。 (ほかに: 財布)
+WALLETS	(名詞) walletの複数形: 札入れ: お札（紙幣）を入れる財布。紙入れ。 (ほかに: 財布)
+WALLING	(wallの変化形) (名詞) 壁、壁に類似の構造。
+WALLPAPER	(名詞) 壁紙: （かべがみ）壁面の保護・装飾などを目的に壁面に貼り付ける紙。\n(動詞) wallpaperの訳: 壁紙を張る
+WALLPAPERED	(動詞) wallpaperの過去形・過去分詞: 壁紙: （かべがみ）壁面の保護・装飾などを目的に壁面に貼り付ける紙。\n(形容詞) 壁紙が張られた。
+WALLPAPERING	(動詞) wallpaperの現在分詞: 壁紙: （かべがみ）壁面の保護・装飾などを目的に壁面に貼り付ける紙。
+WALLPAPERS	(名詞) wallpaperの複数形: 壁紙: （かべがみ）壁面の保護・装飾などを目的に壁面に貼り付ける紙。\n(動詞) wallpaperの直説法現在第三人称単数形: 壁紙: （かべがみ）壁面の保護・装飾などを目的に壁面に貼り付ける紙。
+WALLS	(名詞) wallの複数形: 壁、壁に類似の構造。\n(動詞) wallの直説法現在第三人称単数形: 壁、壁に類似の構造。
+WALNUT	(名詞) walnutの訳: 胡桃\n(形容詞) walnutの訳: 胡桃色の
+WALNUTS	(名詞) walnutの複数形: 胡桃
+WALRUS	(名詞) walrusの訳: セイウチ
+WALRUSES	(walrusの変化形) (名詞) walrusの訳: セイウチ
+WALTZ	(名詞) ワルツ: 三拍子の軽快な舞曲。円舞曲。またそれに合わせて踊るダンス。\n(動詞) waltzの訳: ワルツを踊る
+WALTZED	(動詞) waltzの過去形・過去分詞: ワルツ: 三拍子の軽快な舞曲。円舞曲。またそれに合わせて踊るダンス。
+WALTZES	(名詞) waltzの複数形: ワルツ: 三拍子の軽快な舞曲。円舞曲。またそれに合わせて踊るダンス。\n(動詞) waltzの直説法現在第三人称単数形: ワルツ: 三拍子の軽快な舞曲。円舞曲。またそれに合わせて踊るダンス。
+WALTZING	(waltzの変化形) (名詞) ワルツ: 三拍子の軽快な舞曲。円舞曲。またそれに合わせて踊るダンス。
+WAMBLE	(名詞) wambleの訳: 悪心
+WAMBLED	(wambleの変化形) (名詞) wambleの訳: 悪心
+WAMBLES	(wambleの変化形) (名詞) wambleの訳: 悪心
+WAMBLING	(wambleの変化形) (名詞) wambleの訳: 悪心
+WAN	(形容詞) wanの訳: 病的な, 病弱な, 青白い, 青ざめた
+WAND	(名詞) wandの訳: つえ, 杖
+WANDER	(動詞) wanderの訳: ⟪ぶらつく⟫, 徘徊する\n(名詞) 散歩: 目的なくぶらぶらと歩くこと。軽い運動や気分転換などを目的として戸外をゆったり歩くこと。 (ほかに: 散策)
+WANDERED	(動詞) "wander" の過去形・過去分詞形: ⟪ぶらつく⟫, 徘徊する
+WANDERER	(名詞) ながれ: さすらい人。通常は遊女を言う。 (ほかに: たびがらす)
+WANDERERS	(wandererの変化形) (名詞) ながれ: さすらい人。通常は遊女を言う。 (ほかに: たびがらす)
+WANDERING	(形容詞) wanderingの訳: さすらいの, 放浪の\n(名詞) さすらい: 故郷を離れ、他郷をさまようこと。流浪。 (ほかに: 放浪)
+WANDERINGS	(名詞) wanderingの複数形: さすらいの, 放浪の
+WANDEROO	(名詞) ハヌマンラングール
+WANDEROOS	(wanderooの変化形) (名詞) ハヌマンラングール
+WANDERS	(名詞) "wander" の複数形: ⟪ぶらつく⟫, 徘徊する\n(動詞) "wander" の現在第三人称単数形。
+WANDS	(wandの変化形) (名詞) wandの訳: つえ, 杖
+WANE	(名詞) 衰え: 衰えること。衰微。衰退。衰弱。 (ほかに: 衰退)\n(動詞) 衰える。弱まる。
+WANED	(動詞) "wane" の過去形・過去分詞: 衰え: 衰えること。衰微。衰退。衰弱。 (ほかに: 衰退)
+WANES	(名詞) waneの複数形: 衰え: 衰えること。衰微。衰退。衰弱。 (ほかに: 衰退)\n(動詞) waneの直説法現在第三人称単数形: 衰え: 衰えること。衰微。衰退。衰弱。 (ほかに: 衰退)
+WANGLE	(動詞) wangleの訳: 詐取
+WANGLED	(wangleの変化形) (動詞) wangleの訳: 詐取
+WANGLES	(wangleの変化形) (動詞) wangleの訳: 詐取
+WANGLING	(wangleの変化形) (動詞) wangleの訳: 詐取
+WANING	(動詞) "wane" の動名詞又は現在分詞: 衰え: 衰えること。衰微。衰退。衰弱。 (ほかに: 衰退)
+WANION	(名詞) wanionの訳: 意趣返し
+WANIONS	(wanionの変化形) (名詞) wanionの訳: 意趣返し
+WANNED	(wanの変化形) (形容詞) wanの訳: 病的な, 病弱な, 青白い, 青ざめた
+WANNER	(wanの変化形) (形容詞) wanの訳: 病的な, 病弱な, 青白い, 青ざめた
+WANNEST	(wanの変化形) (形容詞) wanの訳: 病的な, 病弱な, 青白い, 青ざめた
+WANNING	(wanの変化形) (形容詞) wanの訳: 病的な, 病弱な, 青白い, 青ざめた
+WANS	(wanの変化形) (形容詞) wanの訳: 病的な, 病弱な, 青白い, 青ざめた
+WANT	(動詞) wantの訳: ～が欲しい\n(名詞) wantの訳: 欲望
+WANTED	(動詞) wantの過去形・過去分詞: ～が欲しい\n(形容詞) wantedの訳: 欲している
+WANTING	(動詞) wantの現在分詞: ～が欲しい\n(形容詞) wantingの訳: ⟪足りない|たりない⟫
+WANTON	(形容詞) wantonの訳: 不貞な, 淫らな, ふしだらな\n(名詞) 甘やかされた人。
+WANTONED	(動詞) wantonの過去形・過去分詞: 不貞な, 淫らな, ふしだらな
+WANTONER	(wantonの変化形) (形容詞) wantonの訳: 不貞な, 淫らな, ふしだらな
+WANTONING	(wantonの変化形) (形容詞) wantonの訳: 不貞な, 淫らな, ふしだらな
+WANTONLY	(副詞) wantonlyの訳: 理不尽に, 気紛れに
+WANTONNESS	(名詞) wantonnessの訳: 気紛れ, 浮気
+WANTONNESSES	(名詞) wantonnessの複数形: 気紛れ, 浮気
+WANTONS	(名詞) wantonの複数形: 不貞な, 淫らな, ふしだらな\n(動詞) wantonの直説法現在第三人称単数形: 不貞な, 淫らな, ふしだらな
+WANTS	(名詞) "want" の複数形: ～が欲しい\n(動詞) "want" の三人称単数現在形: ～が欲しい
+WAPS	(名詞) wapの複数形。\n(動詞) wapの直説法現在第三人称単数形。
+WAR	(名詞) 戦争: 武力の行使を伴った国家間の争い。\n(動詞) warの訳: 葛藤する
+WARBLE	(動詞) 〜を声を震わせて歌う。\n(名詞) warbleの訳: 震え声
+WARBLED	(動詞) warbleの過去形・過去分詞: 〜を声を震わせて歌う。
+WARBLES	(名詞) warbleの複数形: 〜を声を震わせて歌う。\n(動詞) warbleの直説法現在第三人称単数形: 〜を声を震わせて歌う。
+WARBLING	(動詞) warbleの現在分詞: 〜を声を震わせて歌う。\n(名詞) warblingの訳: ⟪囀り|さえずり⟫
+WARD	(名詞) 監督: 他者の行為について監視し、目的に沿うよう行為者に対して直接に指揮命令すること。その人や部署。 (ほかに: 保護)\n(動詞) wardの訳: ⟪守る|まもる⟫, 保護する
+WARDED	(動詞) wardの過去形・過去分詞: 監督: 他者の行為について監視し、目的に沿うよう行為者に対して直接に指揮命令すること。その人や部署。 (ほかに: 保護)\n(形容詞) wardedの訳: 突起のある
+WARDING	(動詞) wardの現在分詞: 監督: 他者の行為について監視し、目的に沿うよう行為者に対して直接に指揮命令すること。その人や部署。 (ほかに: 保護)\n(名詞) wardingの訳: 溝
+WARDROBE	(名詞) ワードローブ: 洋服箪笥。衣装箱。 (ほかに: 洋服だんす)
+WARDROBES	(wardrobeの変化形) (名詞) ワードローブ: 洋服箪笥。衣装箱。 (ほかに: 洋服だんす)
+WARDS	(名詞) wardの複数形: 監督: 他者の行為について監視し、目的に沿うよう行為者に対して直接に指揮命令すること。その人や部署。 (ほかに: 保護)\n(動詞) wardの直説法現在第三人称単数形: 監督: 他者の行為について監視し、目的に沿うよう行為者に対して直接に指揮命令すること。その人や部署。 (ほかに: 保護)
+WARE	(形容詞) wareの訳: 認識している\n(名詞) 器物: 器具。道具。
+WARED	(動詞) wareの過去形・過去分詞: 認識している
+WAREHOUSE	(名詞) 倉庫: 物品を保管・貯蔵する建物。 (ほかに: 貯蔵所)\n(動詞) warehouseの訳: 倉庫に入れる
+WAREHOUSED	(動詞) "warehouse" の過去形・過去分詞: 倉庫: 物品を保管・貯蔵する建物。 (ほかに: 貯蔵所)
+WAREHOUSES	(名詞) "warehouse" の複数形: 倉庫: 物品を保管・貯蔵する建物。 (ほかに: 貯蔵所)\n(動詞) "warehouse" の現在第三人称単数形。
+WAREHOUSING	(動詞) "warehouse" の動名詞又は現在分詞: 倉庫: 物品を保管・貯蔵する建物。 (ほかに: 貯蔵所)
+WARES	(名詞) wareの複数形: 認識している\n(動詞) wareの現在第三人称単数形。
+WARFARE	(名詞) 戦争行為。戦闘。闘争。\n(動詞) 軍隊生活を過ごす。
+WARFARES	(名詞) warfareの複数形: 戦争行為。戦闘。闘争。\n(動詞) warfareの直説法現在第三人称単数形: 戦争行為。戦闘。闘争。
+WARFARIN	(名詞) warfarinの訳: ワルファリン
+WARFARINS	(warfarinの変化形) (名詞) warfarinの訳: ワルファリン
+WARHORSE	(名詞) warhorseの訳: 軍馬
+WARHORSES	(warhorseの変化形) (名詞) warhorseの訳: 軍馬
+WARIER	(形容詞) waryの比較級: 用心深い: 十分に気を付けているさま。 (ほかに: 慎重な)
+WARIEST	(形容詞) waryの最上級: 用心深い: 十分に気を付けているさま。 (ほかに: 慎重な)
+WARILY	(副詞) warilyの訳: 用心深く
+WARINESS	(名詞) warinessの訳: 用心深さ
+WARINESSES	(warinessの変化形) (名詞) warinessの訳: 用心深さ
+WARING	(動詞) "ware" の動名詞又は現在分詞: 認識している
+WARLIKE	(形容詞) warlikeの訳: 好戦的な
+WARM	(形容詞) 暖かい。温かい。\n(動詞) 温まる: （あたたまる）温度が適度に上がる。あたたかくなる。 (ほかに: 暖まる)
+WARMED	(動詞) "warm" の過去形・過去分詞: 暖かい。温かい。
+WARMER	(形容詞) "warm" の比較級: 暖かい。温かい。\n(名詞) warmerの訳: 温める器具
+WARMERS	(名詞) "warmer" の複数形: "warm" の比較級: 暖かい。温かい。
+WARMEST	(形容詞) "warm" の最上級: 暖かい。温かい。
+WARMING	(動詞) "warm" の動名詞又は現在分詞: 暖かい。温かい。
+WARMLY	(副詞) warmlyの訳: 暖かく
+WARMNESS	(名詞) warmnessの訳: ⟪暖かさ|あたたかさ⟫, 温かみ, ⟪温もり|ぬくもり⟫
+WARMNESSES	(名詞) "warmness" の複数形: ⟪暖かさ|あたたかさ⟫, 温かみ, ⟪温もり|ぬくもり⟫
+WARMS	(動詞) "warm" の現在第三人称単数形。
+WARMTH	(名詞) 温もり: 温かみ。 (ほかに: 暖かさ, 暖かみ)
+WARMTHS	(名詞) warmthの複数形: 温もり: 温かみ。 (ほかに: 暖かさ, 暖かみ)
+WARN	(動詞) 注意する: 発生したり巻き込まれたりしないよう用心すること。警戒すること。 (ほかに: 警告する)
+WARNED	(動詞) "warn" の過去形・過去分詞形: 注意する: 発生したり巻き込まれたりしないよう用心すること。警戒すること。 (ほかに: 警告する)
+WARNING	(動詞) warnの現在分詞: 注意する、警告する。\n(名詞) 警報: 用心をうながすためのしらせ。 (ほかに: 警告)
+WARNINGS	(warnの変化形) (動詞) 注意する: 発生したり巻き込まれたりしないよう用心すること。警戒すること。 (ほかに: 警告する)
+WARNS	(動詞) "warn" の三人称単数現在形: 注意する: 発生したり巻き込まれたりしないよう用心すること。警戒すること。 (ほかに: 警告する)
+WARP	(名詞) 反り。歪み。\n(動詞) 曲げる。反らせる。撓ませる。
+WARPED	(形容詞) 曲がった。反った。歪んだ。\n(動詞) warpの過去形・過去分詞: 反り。歪み。
+WARPING	(動詞) warpの現在分詞: 反り。歪み。\n(名詞) warpingの訳: 整経
+WARPS	(動詞) warpの直説法現在第三人称単数形: 反り。歪み。\n(名詞) warpの複数形: 反り。歪み。
+WARRANT	(名詞) 許可。認可。\n(動詞) 保証する: 物の性能・品質又は人の能力について、期待していた水準に達しなかった又は逆に損害を発生させた場合に、期待との乖離を補う又は損害を回復させることを約束すること。担保。
+WARRANTED	(動詞) warrantの過去形・過去分詞: 許可。認可。\n(形容詞) warrantedの訳: 保証された
+WARRANTEE	(名詞) warranteeの訳: 被保証人
+WARRANTEES	(名詞) warranteeの複数形: 被保証人
+WARRANTIES	(名詞) "warranty" の複数形: 保証:...\n(動詞) "warranty" の三人称単数現在形: 保証:...
+WARRANTING	(warrantの変化形) (名詞) 許可。認可。
+WARRANTOR	(名詞) 保証人: ある人のした債務等に責任を負う人。
+WARRANTORS	(名詞) warrantorの複数形: 保証人: ある人のした債務等に責任を負う人。
+WARRANTS	(名詞) warrantの複数形: 許可。認可。\n(動詞) warrantの直説法現在第三人称単数形: 許可。認可。
+WARRANTY	(名詞) 保証: 物の性能・品質又は人の能力について、期待していた水準に達しなかった又は逆に損害を発生させた場合に、期待との乖離を補う又は損害を回復させることを約束すること。担保。\n(動詞) warrantyの訳: 保証する
+WARRED	(動詞) "war" の過去形・過去分詞: 戦争: 武力の行使を伴った国家間の争い。
+WARRING	(動詞) "war" の動名詞又は現在分詞: 戦争: 武力の行使を伴った国家間の争い。\n(形容詞) 戦争中の。戦乱の。戦争の絶えない。
+WARRIOR	(名詞) 戦士: 戦場で戦う兵士。または戦うことを業とするもの。 (ほかに: 兵士)
+WARRIORS	(名詞) warriorの複数形: 戦士: 戦場で戦う兵士。または戦うことを業とするもの。 (ほかに: 兵士)
+WARS	(名詞) "war" の複数形: 戦争: 武力の行使を伴った国家間の争い。\n(動詞) "war" の現在第三人称単数形。
+WARSHIP	(名詞) 軍艦: 軍隊で使用する艦船の総称。
+WARSHIPS	(名詞) warshipの複数形: 軍艦: 軍隊で使用する艦船の総称。
+WART	(名詞) wartの訳: 疣
+WARTHOG	(名詞) warthogの訳: 疣猪
+WARTHOGS	(名詞) warthogの複数形: 疣猪
+WARTIME	(名詞) 戦時: 戦争をしている時期。
+WARTIMES	(名詞) wartimeの複数形: 戦時: 戦争をしている時期。
+WARTS	(wartの変化形) (名詞) wartの訳: 疣
+WARY	(形容詞) 用心深い: 十分に気を付けているさま。 (ほかに: 慎重な)
+WASABI	(名詞) わさび: 2をすりおろした香辛料。淡緑色で独特の香りと辛味がある。さび。
+WASABIS	(wasabiの変化形) (名詞) わさび: 2をすりおろした香辛料。淡緑色で独特の香りと辛味がある。さび。
+WASH	(動詞) washの訳: ～を洗う, 洗濯する\n(名詞) washの訳: 水洗い, 洗濯, 洗浄
+WASHABLE	(形容詞) 洗える。洗濯のきく。\n(名詞) washableの訳: 洗濯のきく物
+WASHABLES	(名詞) washableの複数形: 洗える。洗濯のきく。
+WASHBOWL	(名詞) washbowlの訳: 洗面台
+WASHBOWLS	(名詞) washbowlの複数形: 洗面台
+WASHCLOTH	(名詞) 浴用タオル。手拭い。
+WASHCLOTHS	(名詞) washclothの複数形: 浴用タオル。手拭い。
+WASHED	(動詞) washの過去形・過去分詞: ～を洗う, 洗濯する
+WASHER	(名詞) 洗濯機: 洗濯をするための機械。特に電気洗濯機の略称。 (ほかに: 食洗機, 洗鉱機)\n(動詞) washerの訳: はめて洗う
+WASHERMAN	(名詞) 洗濯屋: 依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。
+WASHERMEN	(washermanの変化形) (名詞) 洗濯屋: 依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。
+WASHERS	(washerの変化形) (名詞) 洗濯機: 洗濯をするための機械。特に電気洗濯機の略称。 (ほかに: 食洗機, 洗鉱機)
+WASHERWOMAN	(名詞) washerwomanの訳: 洗濯女
+WASHERWOMEN	(washerwomanの変化形) (名詞) washerwomanの訳: 洗濯女
+WASHES	(名詞) washの複数形: ～を洗う, 洗濯する\n(動詞) washの現在第三人称単数形。
+WASHING	(動詞) （washの現在分詞形）洗っている: ～を洗う、洗濯する。\n(名詞) 洗濯: 衣類などの汚れを落とすこと。ランドリー。 (ほかに: 洗濯物)
+WASHINGS	(washの変化形) (動詞) washの訳: ～を洗う, 洗濯する
+WASHROOM	(名詞) トイレ: 便所。 (ほかに: 便所, トイレット)
+WASHROOMS	(washroomの変化形) (名詞) トイレ: 便所。 (ほかに: 便所, トイレット)
+WASP	(名詞) waspの訳: ⟪スズメバチ|すずめばち⟫
+WASPS	(waspの変化形) (名詞) waspの訳: ⟪スズメバチ|すずめばち⟫
+WASTE	(名詞) 無駄: （むだ）役に立たない、効果の無い又は不要に贅沢な様子やもの。 (ほかに: 浪費)\n(形容詞) wasteの訳: 廃物の
+WASTEBASKET	(名詞) wastebasketの訳: ⟪ごみばこ⟫
+WASTEBASKETS	(wastebasketの変化形) (名詞) wastebasketの訳: ⟪ごみばこ⟫
+WASTED	(動詞) wasteの過去形・過去分詞: 無駄、浪費。\n(形容詞) 無駄に終わった。
+WASTEFUL	(形容詞) 浪費する: 無駄に使うこと。 (ほかに: 浪費勝ちの)
+WASTEFULLY	(副詞) wastefullyの訳: 無駄に
+WASTEFULNESS	(名詞) 浪費: 無駄に使うこと。 (ほかに: 無駄, 無駄の多さ)
+WASTEFULNESSES	(名詞) "wastefulness" の複数形: 浪費: 無駄に使うこと。 (ほかに: 無駄, 無駄の多さ)
+WASTELAND	(名詞) wastelandの訳: 不毛の地
+WASTELANDS	(wastelandの変化形) (名詞) wastelandの訳: 不毛の地
+WASTES	(名詞) "waste" の複数形: 無駄: （むだ）役に立たない、効果の無い又は不要に贅沢な様子やもの。 (ほかに: 浪費)\n(動詞) "waste" の現在第三人称単数形。
+WASTEWATER	(名詞) 廃水: 使用して不用となり廃棄される水。
+WASTEWATERS	(名詞) wastewaterの複数形: 廃水: 使用して不用となり廃棄される水。
+WASTING	(動詞) "waste" の動名詞又は現在分詞: 無駄: （むだ）役に立たない、効果の無い又は不要に贅沢な様子やもの。 (ほかに: 浪費)
+WATCH	(名詞) 腕時計、懐中時計。持ち運びの出来る時計。\n(動詞) 見る: （みる）【見る・視る】目を使って、物の形や色を知る。視覚によって対象をとらえる。注意して見る。注視する。観察する。
+WATCHDOG	(名詞) watchdogの訳: ⟪番犬|ばんけん⟫
+WATCHDOGGED	(watchdogの変化形) (名詞) watchdogの訳: ⟪番犬|ばんけん⟫
+WATCHDOGGING	(watchdogの変化形) (名詞) watchdogの訳: ⟪番犬|ばんけん⟫
+WATCHDOGS	(watchdogの変化形) (名詞) watchdogの訳: ⟪番犬|ばんけん⟫
+WATCHED	(動詞) watchの過去形・過去分詞: 腕時計、懐中時計。持ち運びの出来る時計。
+WATCHER	(名詞) 監視人: 監視をする人。監視者。 (ほかに: 番人, 見張り)
+WATCHERS	(名詞) watcherの複数形: 監視人: 監視をする人。監視者。 (ほかに: 番人, 見張り)
+WATCHES	(名詞) watchの複数形: 腕時計、懐中時計。持ち運びの出来る時計。\n(動詞) watchの直説法現在第三人称単数形: 腕時計、懐中時計。持ち運びの出来る時計。
+WATCHFUL	(形容詞) watchfulの訳: 用心深い
+WATCHFULLY	(副詞) watchfullyの訳: 用心深く
+WATCHFULNESS	(名詞) watchfulnessの訳: 用心深さ
+WATCHFULNESSES	(watchfulnessの変化形) (名詞) watchfulnessの訳: 用心深さ
+WATCHING	(動詞) watchの動名詞又は現在分詞: 腕時計、懐中時計。持ち運びの出来る時計。\n(名詞) 観察: 物事の状態を注意して見ること。 (ほかに: 監視)
+WATCHMAN	(名詞) ガードマン: 警備員。見張り。 (ほかに: 警備員, 夜警)
+WATCHMEN	(名詞) watchmanの複数形: ガードマン: 警備員。見張り。 (ほかに: 警備員, 夜警)
+WATCHTOWER	(名詞) watchtowerの訳: 望楼
+WATCHTOWERS	(名詞) watchtowerの複数形: 望楼
+WATCHWORD	(名詞) モットー: 普段から心掛けている、行動の方針や目標。また、それを表した標語や座右の銘など。 (ほかに: 標語, スローガン)
+WATCHWORDS	(名詞) watchwordの複数形: モットー: 普段から心掛けている、行動の方針や目標。また、それを表した標語や座右の銘など。 (ほかに: 標語, スローガン)
+WATER	(名詞) 水: （みず）語義1のうち、混合物がほとんどなく温度の低いもの。\n(動詞) waterの訳: 水をまく
+WATERBORNE	(形容詞) waterborneの訳: 水上輸送の
+WATERCOURSE	(名詞) 水流。水路。運河。
+WATERCOURSES	(名詞) watercourseの複数形: 水流。水路。運河。
+WATERCRAFT	(名詞) 水上競技での操船技術。
+WATERCRAFTS	(名詞) watercraftの複数形: 水上競技での操船技術。
+WATERED	(動詞) "water" の過去形・過去分詞形: 水: （みず）語義1のうち、混合物がほとんどなく温度の低いもの。
+WATERFALL	(名詞) 滝: （たき）河川の途中が崖になっていて、水が落ちているところ。
+WATERFALLS	(waterfallの変化形) (名詞) 滝: （たき）河川の途中が崖になっていて、水が落ちているところ。
+WATERFOWL	(名詞) waterfowlの訳: ⟪みずとり⟫
+WATERFOWLER	(waterfowlの変化形) (名詞) waterfowlの訳: ⟪みずとり⟫
+WATERFOWLING	(waterfowlの変化形) (名詞) waterfowlの訳: ⟪みずとり⟫
+WATERFOWLS	(waterfowlの変化形) (名詞) waterfowlの訳: ⟪みずとり⟫
+WATERIER	(形容詞) "watery" の比較級: 水の
+WATERIEST	(形容詞) "watery" の最上級: 水の
+WATERILY	(wateryの変化形) (形容詞) wateryの訳: 水の
+WATERING	(動詞) "water" の動名詞形又は現在分詞形: 水: （みず）語義1のうち、混合物がほとんどなく温度の低いもの。
+WATERINGS	(waterの変化形) (名詞) 水: （みず）語義1のうち、混合物がほとんどなく温度の低いもの。
+WATERLINE	(名詞) 喫水線: 水上に浮かんでいる船舶の船体が水面と接している線。
+WATERLINES	(waterlineの変化形) (名詞) 喫水線: 水上に浮かんでいる船舶の船体が水面と接している線。
+WATERMELON	(名詞) 西瓜: ウリ科のつる性一年草。食用で、アフリカの西南部を原産とする。(花:夏の季語, 実:秋の季語)
+WATERMELONS	(名詞) watermelonの複数形: 西瓜: ウリ科のつる性一年草。食用で、アフリカの西南部を原産とする。(花:夏の季語, 実:秋の季語)
+WATERPROOF	(形容詞) waterproofの訳: 防水の\n(動詞) 防水する: 水の流入を防ぐこと。
+WATERPROOFED	(形容詞) 防水仕様にされた。\n(動詞) waterproof の過去形又は過去分詞形: 防水の。
+WATERPROOFER	(waterproofの変化形) (形容詞) waterproofの訳: 防水の
+WATERPROOFING	(動詞) waterproof の動名詞又は現在分詞: 防水の。\n(名詞) 防水: 水の流入を防ぐこと。
+WATERPROOFINGS	(名詞) waterproofingの複数形: 防水。
+WATERPROOFS	(名詞) waterproofの複数形: 防水の。\n(動詞) waterproof の直説法三人称単数現在形: 防水の。
+WATERS	(名詞) waterの複数形: 水: （みず）語義1のうち、混合物がほとんどなく温度の低いもの。\n(動詞) waterの直説法現在第三人称単数形: 水: （みず）語義1のうち、混合物がほとんどなく温度の低いもの。
+WATERSIDE	(名詞) 水辺: （連歌・俳諧）水に関連する言葉。\n(形容詞) watersideの訳: 水辺の
+WATERSIDES	(名詞) watersideの複数形: 水辺: （連歌・俳諧）水に関連する言葉。
+WATERWAY	(名詞) 運河: 船舶の航行などのための人工の川。 (ほかに: 水路, 航路)
+WATERWAYS	(waterwayの変化形) (名詞) 運河: 船舶の航行などのための人工の川。 (ほかに: 水路, 航路)
+WATERWEED	(名詞) も: 主に水中において、光合成をし生育する植物。
+WATERWEEDS	(waterweedの変化形) (名詞) も: 主に水中において、光合成をし生育する植物。
+WATERWHEEL	(名詞) 水車: 水力によって回転する円状の装置。
+WATERWHEELS	(waterwheelの変化形) (名詞) 水車: 水力によって回転する円状の装置。
+WATERWORKS	(名詞) 浄水場: 水を浄化して上水道に供給する施設。
+WATERY	(形容詞) wateryの訳: 水の
+WATS	(名詞) watの複数形。
+WATT	(名詞) wattの訳: ワット
+WATTER	(wattの変化形) (名詞) wattの訳: ワット
+WATTEST	(wattの変化形) (名詞) wattの訳: ワット
+WATTMETER	(名詞) 電力計: 電力を測定する計器。
+WATTMETERS	(wattmeterの変化形) (名詞) 電力計: 電力を測定する計器。
+WATTS	(名詞) wattの複数形: ワット
+WAVE	(名詞) waveの訳: 波\n(動詞) waveの訳: ⟪波立つ|なみだつ⟫
+WAVED	(動詞) "wave" の過去形・過去分詞形: 波
+WAVELENGTH	(名詞) 波長: 波の山と山、または谷と谷との間の距離。
+WAVELENGTHS	(名詞) wavelengthの複数形: 波長: 波の山と山、または谷と谷との間の距離。
+WAVELET	(名詞) 小波: 小さな波。さざなみ。 (ほかに: 細波)
+WAVELETS	(名詞) waveletの複数形: 小波: 小さな波。さざなみ。 (ほかに: 細波)
+WAVER	(動詞) waverの訳: 揺れる\n(名詞) waverの訳: 揺れ, ぐらつき
+WAVERED	(動詞) waverの過去形・過去分詞: 揺れる
+WAVERING	(形容詞) waveringの訳: 揺れる\n(名詞) waveringの訳: ⟪ためらい⟫
+WAVERS	(動詞) waverの直説法現在第三人称単数形: 揺れる\n(名詞) waverの複数形: 揺れる
+WAVES	(名詞) "wave" の複数形: 波\n(動詞) "wave" の現在第三人称単数形。
+WAVIER	(形容詞) "wavy" の比較級: 波打つ: 波が立って寄せる。波がうねる。
+WAVIES	(wavyの変化形) (形容詞) 波打つ: 波が立って寄せる。波がうねる。
+WAVIEST	(形容詞) "wavy" の最上級: 波打つ: 波が立って寄せる。波がうねる。
+WAVILY	(wavyの変化形) (形容詞) 波打つ: 波が立って寄せる。波がうねる。
+WAVING	(動詞) "wave" の動名詞又は現在分詞: 波
+WAVY	(形容詞) 波打つ: 波が立って寄せる。波がうねる。\n(名詞) waveyの異表記・別形
+WAX	(名詞) 蝋: (ロウ)融点の高い油脂状の物質。多くの場合、室温では軟らかく滑らかな固体で、水の沸点 (100℃) より低い融点を持ち、気体はよく燃焼する。 (ほかに: 蜜蝋)\n(形容詞) waxの訳: 蝋の, 蝋製の
+WAXED	(動詞) "wax" の過去形・過去分詞: 蝋: (ロウ)融点の高い油脂状の物質。多くの場合、室温では軟らかく滑らかな固体で、水の沸点 (100℃) より低い融点を持ち、気体はよく燃焼する。 (ほかに:...\n(形容詞) ワックスがけした。
+WAXEN	(動詞) "wax"(増大する) の過去分詞。\n(形容詞) waxenの訳: 成長した
+WAXER	(waxの変化形) (名詞) 蝋: (ロウ)融点の高い油脂状の物質。多くの場合、室温では軟らかく滑らかな固体で、水の沸点 (100℃) より低い融点を持ち、気体はよく燃焼する。 (ほかに: 蜜蝋)
+WAXES	(名詞) waxの複数形: 蝋: (ロウ)融点の高い油脂状の物質。多くの場合、室温では軟らかく滑らかな固体で、水の沸点 (100℃) より低い融点を持ち、気体はよく燃焼する。 (ほかに:...\n(動詞) waxの現在第三人称単数形。
+WAXING	(動詞) "wax" の動名詞又は現在分詞: 蝋: (ロウ)融点の高い油脂状の物質。多くの場合、室温では軟らかく滑らかな固体で、水の沸点 (100℃) より低い融点を持ち、気体はよく燃焼する。 (ほかに:...\n(名詞) waxingの訳: 蝋を塗ること, ワックスがけ
+WAXINGS	(名詞) waxingの複数形: "wax" の動名詞又は現在分詞。
+WAY	(名詞) 道。通路。交通路。\n(感動詞) wayの訳: いやありうる
+WAYFARER	(名詞) たびびと: （たびびと / 稀:たびと、たびゅうど / 漢文:りょじん）旅をしている人。旅の途中の人。 (ほかに: たびと, 旅人)
+WAYFARERS	(wayfarerの変化形) (名詞) たびびと: （たびびと / 稀:たびと、たびゅうど / 漢文:りょじん）旅をしている人。旅の途中の人。 (ほかに: たびと, 旅人)
+WAYSIDE	(名詞) みちばた: 道の端の辺り。 (ほかに: 路頭, 路辺)
+WAYSIDES	(waysideの変化形) (名詞) みちばた: 道の端の辺り。 (ほかに: 路頭, 路辺)
+WEAK	(形容詞) 弱い。強度が不足している。
+WEAKEN	(動詞) 弱まる: 勢力や程度などが次第に弱くなる。
+WEAKENED	(形容詞) weakenedの訳: 弱体化した\n(動詞) weakenの過去形・過去分詞: 弱まる: 勢力や程度などが次第に弱くなる。
+WEAKENING	(動詞) "weaken" の動名詞又は現在分詞: 弱まる: 勢力や程度などが次第に弱くなる。\n(名詞) 衰え。衰弱。弱体化。
+WEAKENS	(動詞) "weaken" の現在第三人称単数形。
+WEAKER	(形容詞) "weak" の比較級: 弱い。強度が不足している。
+WEAKEST	(形容詞) "weak" の最上級: 弱い。強度が不足している。
+WEAKLIER	(形容詞) weaklyの比較級: 弱い。弱弱しい。
+WEAKLIEST	(形容詞) weaklyの最上級: 弱い。弱弱しい。
+WEAKLY	(形容詞) 弱い。弱弱しい。\n(副詞) 弱く。弱弱しく。
+WEAKNESS	(名詞) 弱さ: 弱いこと。また、その程度。 (ほかに: 無力)
+WEAKNESSES	(名詞) weaknessの複数形: 弱さ: 弱いこと。また、その程度。 (ほかに: 無力)
+WEAL	(名詞) 幸福、繁栄。[10世紀より]\n(動詞) みみず腫れを作る。
+WEALS	(名詞) wealの複数形: 幸福、繁栄。[10世紀より]\n(動詞) wealの直説法現在第三人称単数形: 幸福、繁栄。[10世紀より]
+WEALTH	(名詞) 富: （とみ）財産。 (ほかに: 豊富さ, 豊穣)
+WEALTHIER	(形容詞) "wealthy" の比較級: 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの)
+WEALTHIEST	(形容詞) "wealthy" の最上級: 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの)
+WEALTHS	(wealthの変化形) (名詞) 富: （とみ）財産。 (ほかに: 豊富さ, 豊穣)
+WEALTHY	(形容詞) 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの)\n(名詞) wealthyの訳: 富裕層
+WEAN	(動詞) weanの訳: 離乳させる
+WEANED	(動詞) "wean" の過去形・過去分詞形: 離乳させる
+WEANER	(weanの変化形) (動詞) weanの訳: 離乳させる
+WEANING	(動詞) "wean" の動名詞形又は現在分詞形: 離乳させる
+WEANS	(動詞) "wean" の三人称単数現在形: 離乳させる
+WEAPON	(名詞) 武器: 戦闘に用いる道具。 (ほかに: 兵器, 凶器)\n(動詞) weaponの訳: 武装する
+WEAPONED	(形容詞) weaponedの訳: 武装した\n(動詞) weaponの過去形・過去分詞: 武器: 戦闘に用いる道具。 (ほかに: 兵器, 凶器)
+WEAPONING	(動詞) weaponの動名詞又は現在分詞: 武器: 戦闘に用いる道具。 (ほかに: 兵器, 凶器)
+WEAPONS	(名詞) weaponの複数形: 武器、兵器、凶器。\n(動詞) weaponの直説法現在第三人称単数形: 武器: 戦闘に用いる道具。 (ほかに: 兵器, 凶器)
+WEAR	(名詞) wearの訳: ⟪着用|ちゃくよう⟫\n(動詞) 身に着けている。着ている。（帽子、かつらなどを）被っている。（靴などを）履いている。（めがねを）かける。（マスクを）する。（香水などを）つける。
+WEARABLE	(形容詞) 身に着けられる。身体に装着できる。着用できる。\n(名詞) 衣服: 防寒、制汗、日除け、害虫除け又は裸体を隠す目的等で身につける主に布でできている製品。
+WEARABLES	(wearableの変化形) (形容詞) 身に着けられる。身体に装着できる。着用できる。
+WEARIED	(動詞) wearyの過去形・過去分詞: 疲れた、人を疲れさせる。
+WEARIER	(形容詞) "weary" の比較級: 疲れた、人を疲れさせる。\n(名詞) wearyする人。
+WEARIES	(動詞) wearyの現在第三人称単数形。
+WEARIEST	(形容詞) "weary" の最上級: 疲れた、人を疲れさせる。
+WEARILY	(副詞) wearilyの訳: 疲れて
+WEARINESS	(名詞) 倦怠: 心身が疲れてだるいこと。 (ほかに: 疲労困憊)
+WEARINESSES	(wearinessの変化形) (名詞) 倦怠: 心身が疲れてだるいこと。 (ほかに: 疲労困憊)
+WEARING	(動詞) wearの現在分詞: ⟪着用|ちゃくよう⟫\n(形容詞) wearingの訳: 着るための
+WEARINGLY	(wearの変化形) (名詞) wearの訳: ⟪着用|ちゃくよう⟫
+WEARS	(動詞) wearの三人称単数現在形: ⟪着用|ちゃくよう⟫\n(名詞) wearの複数形: ⟪着用|ちゃくよう⟫
+WEARY	(形容詞) 疲れた、人を疲れさせる。\n(動詞) 疲れる: （つかれる）長期にわたる使用のために痛む。
+WEARYING	(動詞) "weary" の動名詞又は現在分詞: 疲れた、人を疲れさせる。
+WEASEL	(名詞) weaselの訳: ⟪イイズナ|いいずな⟫\n(動詞) 奪う: （うばう）人の権利などを失わせる。また権限などを剝奪する。
+WEASELED	(weaselの変化形) (名詞) weaselの訳: ⟪イイズナ|いいずな⟫
+WEASELING	(weaselの変化形) (名詞) weaselの訳: ⟪イイズナ|いいずな⟫
+WEASELLED	(weaselの変化形) (名詞) weaselの訳: ⟪イイズナ|いいずな⟫
+WEASELLING	(weaselの変化形) (名詞) weaselの訳: ⟪イイズナ|いいずな⟫
+WEASELLY	(weaselの変化形) (名詞) weaselの訳: ⟪イイズナ|いいずな⟫
+WEASELS	(名詞) weaselの複数形: イイズナ\n(動詞) "weasel" の三人称単数現在形: ⟪イイズナ|いいずな⟫
+WEATHER	(名詞) 天候: 天気と気候の間の短期的な大気の状態 (ほかに: 天気, 気象)\n(動詞) weatherの訳: 外気にさらす
+WEATHERED	(動詞) "weather" の過去形・過去分詞: 天候: 天気と気候の間の短期的な大気の状態 (ほかに: 天気, 気象)
+WEATHERING	(名詞) 風化。風化作用。\n(動詞) weatherの動名詞又は現在分詞: 天候: 天気と気候の間の短期的な大気の状態 (ほかに: 天気, 気象)
+WEATHERINGS	(名詞) weatheringの複数形: 風化。風化作用。
+WEATHERS	(名詞) "weather" の複数形: 天候: 天気と気候の間の短期的な大気の状態 (ほかに: 天気, 気象)\n(動詞) "weather" の現在第三人称単数形。
+WEAVE	(動詞) weaveの訳: ～を編む\n(名詞) weaveの訳: 編み方, 織り方
+WEAVED	(動詞) "weave" の過去形・過去分詞: ～を編む
+WEAVER	(名詞) 機織り。織工。
+WEAVERBIRD	(名詞) weaverbirdの訳: ⟪はたおりどり⟫
+WEAVERBIRDS	(weaverbirdの変化形) (名詞) weaverbirdの訳: ⟪はたおりどり⟫
+WEAVERS	(名詞) weaverの複数形: 機織り。織工。
+WEAVES	(名詞) "weave" の複数形: ～を編む\n(動詞) "weave" の現在第三人称単数形。
+WEAVING	(名詞) 製織: 織物を製造すること。\n(動詞) weaveの動名詞又は現在分詞: ～を編む
+WEB	(名詞) webの訳: 蜘蛛の巣\n(動詞) 蜘蛛の巣を張る。
+WEBBED	(形容詞) webbedの訳: 水搔きのある\n(動詞) webの過去形・過去分詞: 蜘蛛の巣
+WEBBING	(動詞) "web" の動名詞又は現在分詞: 蜘蛛の巣
+WEBBINGS	(webの変化形) (名詞) webの訳: 蜘蛛の巣
+WEBER	(名詞) ウェーバ: 磁束の単位。（国際単位系;SI）。記号は㏝。
+WEBERS	(weberの変化形) (名詞) ウェーバ: 磁束の単位。（国際単位系;SI）。記号は㏝。
+WEBS	(名詞) webの複数形: 蜘蛛の巣\n(動詞) webの直説法現在第三人称単数形: 蜘蛛の巣
+WED	(動詞) wedの訳: 結婚させる
+WEDDED	(形容詞) 結婚の: 夫婦になること。\n(動詞) wedの過去形・過去分詞: 結婚させる
+WEDDING	(動詞) wedの現在分詞: 結婚させる\n(名詞) 婚礼: 結婚の儀式。 (ほかに: 結婚式)
+WEDDINGS	(名詞) weddingの複数形: wedの現在分詞。\n(動詞) weddingの直説法現在第三人称単数形: wedの現在分詞。
+WEDGE	(名詞) wedgeの訳: ⟪楔|くさび⟫\n(動詞) くさびで留める、
+WEDGED	(wedgeの変化形) (名詞) wedgeの訳: ⟪楔|くさび⟫
+WEDGES	(wedgeの変化形) (名詞) wedgeの訳: ⟪楔|くさび⟫
+WEDGING	(wedgeの変化形) (名詞) wedgeの訳: ⟪楔|くさび⟫
+WEDLOCK	(名詞) 婚姻。結婚生活。
+WEDLOCKS	(名詞) wedlockの複数形: 婚姻。結婚生活。
+WEDS	(動詞) wedの直説法現在第三人称単数形: 結婚させる
+WEE	(形容詞) 小さい: (抽象的な状態などが) わずかである。 (ほかに: ちっちゃな)\n(名詞) 短い時間。短い距離。
+WEED	(名詞) weedの訳: 雑草\n(動詞) (他動詞) 〔ある場所から〕雑草を抜く。除草する。
+WEEDED	(動詞) weedの過去形・過去分詞: 雑草
+WEEDING	(動詞) weedの現在分詞: 雑草\n(名詞) weedingの訳: 除草
+WEEDS	(名詞) weedの複数形: 雑草\n(動詞) weedの直説法現在第三人称単数形: 雑草
+WEEK	(名詞) 週、週間。７日間で構成される周期。
+WEEKDAY	(名詞) 平日: 日曜日・祝祭日以外の日。
+WEEKDAYS	(名詞) weekdayの複数形: 平日: 日曜日・祝祭日以外の日。
+WEEKEND	(名詞) weekendの訳: 週末\n(形容詞) weekendの訳: 週末の
+WEEKENDED	(weekendの変化形) (名詞) weekendの訳: 週末
+WEEKENDING	(weekendの変化形) (名詞) weekendの訳: 週末
+WEEKENDS	(weekendの変化形) (名詞) weekendの訳: 週末
+WEEKLIES	(名詞) weeklyの複数形: 毎週, 週1度
+WEEKLY	(副詞) weeklyの訳: 毎週, 週1度\n(形容詞) weeklyの訳: 毎週の, 週1度の, 週刊の
+WEEKS	(名詞) weekの複数形: 週、週間。７日間で構成される周期。
+WEENIE	(名詞) weenieの訳: ウィニー
+WEENIES	(weenieの変化形) (名詞) weenieの訳: ウィニー
+WEEP	(動詞) weepの訳: 泣く, すすり泣く, 歔欷する
+WEEPING	(動詞) "weep" の過去形・過去分詞形: 泣く, すすり泣く, 歔欷する
+WEEPINGS	(weepの変化形) (動詞) weepの訳: 泣く, すすり泣く, 歔欷する
+WEEPS	(動詞) weepの直説法現在第三人称単数形: 泣く, すすり泣く, 歔欷する
+WEER	(weeの変化形) (形容詞) 小さい: (抽象的な状態などが) わずかである。 (ほかに: ちっちゃな)
+WEES	(weeの変化形) (形容詞) 小さい: (抽象的な状態などが) わずかである。 (ほかに: ちっちゃな)
+WEEST	(weeの変化形) (形容詞) 小さい: (抽象的な状態などが) わずかである。 (ほかに: ちっちゃな)
+WEETED	(動詞) weetの過去形・過去分詞。
+WEETING	(動詞) weetの現在分詞。
+WEETS	(動詞) weetの直説法現在第三人称単数形。
+WEEVIL	(名詞) weevilの訳: 象虫, ゾウムシ
+WEEVILLY	(weevilの変化形) (名詞) weevilの訳: 象虫, ゾウムシ
+WEEVILS	(weevilの変化形) (名詞) weevilの訳: 象虫, ゾウムシ
+WEIGH	(動詞) weighの訳: 重さを量る
+WEIGHED	(動詞) weighの過去形・過去分詞: 重さを量る
+WEIGHING	(動詞) weighの動名詞又は現在分詞: 重さを量る\n(名詞) weighingの訳: 計量
+WEIGHS	(動詞) weighの直説法現在第三人称単数形: 重さを量る
+WEIGHT	(名詞) weightの訳: 重さ, ⟪体重|たいじゅう⟫\n(動詞) weightの訳: 重くする
+WEIGHTED	(動詞) "weight" の過去形・過去分詞形: 重さ, ⟪体重|たいじゅう⟫
+WEIGHTER	(weightの変化形) (名詞) weightの訳: 重さ, ⟪体重|たいじゅう⟫
+WEIGHTIER	(形容詞) "weighty" の比較級: 重い: （おもい）下に向けて引かれる力が強いもののさま。重量が大きい。質量が大きい。
+WEIGHTIEST	(形容詞) "weighty" の最上級: 重い: （おもい）下に向けて引かれる力が強いもののさま。重量が大きい。質量が大きい。
+WEIGHTING	(動詞) "weight" の動名詞形又は現在分詞形: 重さ, ⟪体重|たいじゅう⟫
+WEIGHTLESS	(形容詞) weightlessの訳: 重さのない
+WEIGHTLESSLY	(weightlessの変化形) (形容詞) weightlessの訳: 重さのない
+WEIGHTLESSNESS	(名詞) 無重量: 重量がないこと。重力や慣性力の和が零ベクトルにきわめて近いこと。無重力。
+WEIGHTLESSNESSES	(weightlessnessの変化形) (名詞) 無重量: 重量がないこと。重力や慣性力の和が零ベクトルにきわめて近いこと。無重力。
+WEIGHTLIFTER	(名詞) weightlifterの訳: 重量挙げ選手
+WEIGHTLIFTERS	(weightlifterの変化形) (名詞) weightlifterの訳: 重量挙げ選手
+WEIGHTLIFTING	(名詞) バーベルを持ち上げるトレーニング。
+WEIGHTLIFTINGS	(weightliftingの変化形) (名詞) バーベルを持ち上げるトレーニング。
+WEIGHTS	(名詞) "weight" の複数形: 重さ, ⟪体重|たいじゅう⟫\n(動詞) "weight" の三人称単数現在形: 重さ, ⟪体重|たいじゅう⟫
+WEIGHTY	(形容詞) 重い: （おもい）下に向けて引かれる力が強いもののさま。重量が大きい。質量が大きい。
+WEIRD	(形容詞) weirdの訳: 不思議な\n(動詞) 奇妙な気にさせる。
+WEIRDER	(形容詞) weirdの比較級: 不思議な\n(名詞) weirdする人。
+WEIRDEST	(形容詞) weirdの最上級: 不思議な
+WEIRDS	(名詞) weirdの複数形: 不思議な\n(動詞) weirdの現在第三人称単数形。
+WELCHER	(名詞) 賭博で取り次いだ掛け金を持ち逃げする人、ノミ屋。
+WELCHERS	(名詞) "welcher" の複数形: 賭博で取り次いだ掛け金を持ち逃げする人、ノミ屋。
+WELCOME	(動詞) welcomeの訳: 歓迎する, 歓待する\n(感動詞) ようこそ、いらっしゃいませ。
+WELCOMED	(形容詞) welcomedの訳: 歓迎される\n(動詞) welcomeの過去形・過去分詞: 歓迎する, 歓待する
+WELCOMER	(welcomeの変化形) (動詞) welcomeの訳: 歓迎する, 歓待する
+WELCOMERS	(welcomeの変化形) (動詞) welcomeの訳: 歓迎する, 歓待する
+WELCOMES	(名詞) welcomeの複数形: 歓迎する, 歓待する\n(動詞) welcomeの現在第三人称単数形。
+WELCOMING	(形容詞) 歓迎する。友好的な。\n(動詞) welcomeの動名詞又は現在分詞: 歓迎する, 歓待する
+WELD	(名詞) ホザキモクセイソウ。\n(動詞) 一つにまとめる、団結させる。
+WELDED	(動詞) weldの過去形・過去分詞: ホザキモクセイソウ。
+WELDER	(名詞) welderの訳: 溶接工
+WELDERS	(welderの変化形) (名詞) welderの訳: 溶接工
+WELDING	(動詞) weldの現在分詞: ホザキモクセイソウ。\n(名詞) 溶接: 二つ以上の部材の接合部を溶かして継ぎ合わせること。
+WELDS	(名詞) weldの複数形: ホザキモクセイソウ。\n(動詞) weldの直説法現在第三人称単数形: ホザキモクセイソウ。
+WELFARE	(名詞) welfareの訳: 健康, ⟪幸福|こうふく⟫, 繁栄, 成功
+WELFARES	(welfareの変化形) (名詞) welfareの訳: 健康, ⟪幸福|こうふく⟫, 繁栄, 成功
+WELL	(副詞) wellの訳: 上手に\n(形容詞) wellの訳: 健康な
+WELLED	(動詞) wellの過去形・過去分詞: 上手に
+WELLHEAD	(名詞) みなもと: （みなもと）川の水の流れ出る所。
+WELLHEADS	(wellheadの変化形) (名詞) みなもと: （みなもと）川の水の流れ出る所。
+WELLING	(動詞) wellの動名詞又は現在分詞: 上手に\n(名詞) 込み上げること、湧き上がること。
+WELLS	(名詞) "well" の複数形: 上手に\n(動詞) "well" の三人称単数現在形: 上手に
+WENCH	(名詞) wenchの訳: 田舎娘
+WENCHED	(動詞) wenchの過去形・過去分詞: 田舎娘
+WENCHES	(名詞) wenchの複数形: 田舎娘\n(動詞) wenchの直説法現在第三人称単数形: 田舎娘
+WENCHING	(動詞) wenchの現在分詞: 田舎娘
+WENS	(名詞) wenの複数形。
+WENT	(動詞) goの過去形
+WEPT	(動詞) weepの過去形・過去分詞: 泣く, すすり泣く, 歔欷する
+WERE	(動詞) be の直説法過去形で、2人称もしくは複数。～であった。～だった。
+WEREWOLF	(名詞) (神話) 満月の夜に狼または狼の特徴を持った人間に変身する人間。狼男。
+WEREWOLVES	(werewolfの変化形) (名詞) (神話) 満月の夜に狼または狼の特徴を持った人間に変身する人間。狼男。
+WEST	(名詞) 西: にし。北から反時計回りに90度回転した方向。おおまかに太陽の沈む方角。\n(形容詞) westの訳: 西の
+WESTER	(westの変化形) (名詞) 西: にし。北から反時計回りに90度回転した方向。おおまかに太陽の沈む方角。
+WESTERLIES	(westerlyの変化形) (形容詞) westerlyの訳: 西寄りの
+WESTERLY	(形容詞) westerlyの訳: 西寄りの\n(副詞) westerlyの訳: 西へ
+WESTERN	(形容詞) westernの訳: 西の\n(名詞) 西部劇: 北アメリカ西部を開拓する時代を背景としてつくられた映画や劇。ウェスタン。
+WESTERNER	(名詞) westernerの訳: 西部出身者
+WESTERNERS	(名詞) westernerの複数形: 西部出身者
+WESTERNMOST	(形容詞) westernmostの訳: 西端の
+WESTERNS	(westernの変化形) (形容詞) westernの訳: 西の
+WESTERS	(westの変化形) (名詞) 西: にし。北から反時計回りに90度回転した方向。おおまかに太陽の沈む方角。
+WESTS	(westの変化形) (名詞) 西: にし。北から反時計回りに90度回転した方向。おおまかに太陽の沈む方角。
+WESTWARD	(副詞) westwardの訳: 西に, 西方へ\n(形容詞) westwardの訳: 西への
+WESTWARDS	(副詞) 西方に: 西の方角。 (ほかに: 西へ, 西方から)\n(形容詞) westwardsの訳: 西への, 西方からの
+WET	(形容詞) 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。\n(名詞) 湿り気: 湿った空気。ものや空気中の水分。 (ほかに: 湿気)
+WETHER	(名詞) wetherの訳: 去勢した雄羊\n(動詞) 雄羊を去勢する。
+WETHERS	(名詞) wetherの複数形: 去勢した雄羊\n(動詞) wetherの直説法現在第三人称単数形: 去勢した雄羊
+WETLAND	(名詞) wetlandの訳: 湿地帯
+WETLANDS	(名詞) wetlandの複数形: 湿地帯
+WETLY	(wetの変化形) (形容詞) 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。
+WETS	(名詞) "wet" の複数形: 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。\n(動詞) "wet" の現在第三人称単数形。
+WETTED	(動詞) wetの過去形・過去分詞: 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。
+WETTER	(形容詞) wetの比較級: 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。\n(名詞) wetterの訳: wetする人
+WETTERS	(名詞) "wetter" の複数形: wetの比較級: 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。
+WETTEST	(形容詞) "wet" の最上級: 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。
+WETTING	(動詞) "wet" の動名詞又は現在分詞: 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。
+WETTINGS	(wetの変化形) (形容詞) 濡れた、湿った、湿潤の、乾いていない、水気のある、水が流れている。
+WHALE	(名詞) whaleの訳: ⟪鯨|くじら⟫\n(動詞) whaleの訳: 捕鯨する
+WHALEBONE	(名詞) whaleboneの訳: 鯨鬚
+WHALEBONES	(名詞) whaleboneの複数形: 鯨鬚
+WHALED	(動詞) whaleの過去形・過去分詞: ⟪鯨|くじら⟫
+WHALES	(名詞) "whale" の複数形: ⟪鯨|くじら⟫\n(動詞) "whale" の現在第三人称単数形。
+WHALING	(動詞) "whale" の動名詞又は現在分詞: ⟪鯨|くじら⟫
+WHALINGS	(whaleの変化形) (名詞) whaleの訳: ⟪鯨|くじら⟫
+WHARF	(名詞) 埠頭: 港湾内に突き出た構築物で、船舶をつけて旅客の乗降や貨物の積み降ろしを行う所。
+WHARFED	(wharfの変化形) (名詞) 埠頭: 港湾内に突き出た構築物で、船舶をつけて旅客の乗降や貨物の積み降ろしを行う所。
+WHARFING	(wharfの変化形) (名詞) 埠頭: 港湾内に突き出た構築物で、船舶をつけて旅客の乗降や貨物の積み降ろしを行う所。
+WHARFS	(wharfの変化形) (名詞) 埠頭: 港湾内に突き出た構築物で、船舶をつけて旅客の乗降や貨物の積み降ろしを行う所。
+WHARVES	(wharfの変化形) (名詞) 埠頭: 港湾内に突き出た構築物で、船舶をつけて旅客の乗降や貨物の積み降ろしを行う所。
+WHAT	(代名詞) whatの訳: 何が\n(副詞) whatの訳: どれほど, どれだけ
+WHATCHAMACALLIT	(名詞) 何とかというものやこと、何か、あれ。
+WHATCHAMACALLITS	(名詞) whatchamacallitの複数形: 何とかというものやこと、何か、あれ。
+WHATEVER	(代名詞) ～であるすべてのこと。\n(形容詞) whateverの訳: どんな～でも, なんでも良い
+WHATS	(名詞) whatの複数形: 何が
+WHEAT	(名詞) wheatの訳: 小麦\n(形容詞) wheatの訳: 小麦色の
+WHEATS	(名詞) wheatの複数形: 小麦
+WHEEDLE	(動詞) wheedleの訳: 御世辞を言う, 機嫌をとる
+WHEEDLED	(動詞) wheedleの過去形・過去分詞: 御世辞を言う, 機嫌をとる
+WHEEDLES	(動詞) wheedleの直説法現在第三人称単数形: 御世辞を言う, 機嫌をとる\n(名詞) wheedleの複数形: 御世辞を言う, 機嫌をとる
+WHEEDLING	(動詞) wheedleの現在分詞: 御世辞を言う, 機嫌をとる\n(形容詞) wheedlingの訳: 甘言の
+WHEEL	(名詞) 車輪。輪。\n(動詞) 押す: （おす）前の方向に力を加えたり、動かしたりする。
+WHEELBARROW	(名詞) 運搬用の一輪手押し車。猫車。
+WHEELBARROWED	(wheelbarrowの変化形) (名詞) 運搬用の一輪手押し車。猫車。
+WHEELBARROWING	(wheelbarrowの変化形) (名詞) 運搬用の一輪手押し車。猫車。
+WHEELBARROWS	(名詞) "wheelbarrow" の複数形: 運搬用の一輪手押し車。猫車。
+WHEELCHAIR	(名詞) 車椅子: 歩行が困難な人が用いる、車のついた椅子。手押しや電動などで移動する。
+WHEELCHAIRS	(wheelchairの変化形) (名詞) 車椅子: 歩行が困難な人が用いる、車のついた椅子。手押しや電動などで移動する。
+WHEELED	(動詞) wheelの過去形・過去分詞: 車輪。輪。\n(形容詞) wheeledの訳: 車輪の付いた
+WHEELING	(動詞) wheelの現在分詞: 車輪。輪。\n(名詞) wheelingの訳: 回転, 輪転
+WHEELINGS	(名詞) wheelingの複数形: wheelの現在分詞: 車輪。輪。
+WHEELS	(名詞) wheelの複数形: 車輪。輪。\n(動詞) wheelの直説法現在第三人称単数形: 車輪。輪。
+WHEELWRIGHT	(名詞) wheelwrightの訳: 車大工
+WHEELWRIGHTS	(名詞) wheelwrightの複数形: 車大工
+WHEN	(副詞) いつ: いつつ。順番に数えるときに使う。\n(接続詞) whenの訳: ～したとき
+WHENCE	(副詞) whenceの訳: どこから？
+WHENEVER	(副詞) （関係副詞）～するときはいつでも。
+WHENS	(名詞) whenの複数形: いつ: いつつ。順番に数えるときに使う。
+WHERE	(副詞) whereの訳: どこに, どこへ\n(接続詞) ～するところに
+WHEREABOUTS	(名詞) 人や物の位置。居場所。ありか。
+WHEREFORE	(名詞) 意図: 何かをしようと考えている事柄。
+WHEREFORES	(名詞) whereforeの複数形: 意図。
+WHEREVER	(副詞) whereverの訳: 一体どこに？\n(接続詞) whereverの訳: どこでも
+WHET	(動詞) whetの訳: 研ぐ\n(名詞) 研磨: 墨などをすること。こすること（参考：『角川新字源』改訂新版） 。
+WHETHER	(接続詞) whetherの訳: ～かどうか
+WHETS	(動詞) whetの直説法現在第三人称単数形: 研ぐ\n(名詞) whetの複数形: 研ぐ
+WHETSTONE	(名詞) 砥石: 刃物などを研いだり磨いたりする石。
+WHETSTONES	(名詞) whetstoneの複数形: 砥石: 刃物などを研いだり磨いたりする石。
+WHETTED	(動詞) whetの過去形・過去分詞: 研ぐ
+WHETTING	(動詞) whetの現在分詞: 研ぐ\n(名詞) 研磨: 墨などをすること。こすること（参考：『角川新字源』改訂新版） 。
+WHEY	(名詞) 乳清: チーズを作る際に生じた凝固物を取り除いた残りの水溶液。 (ほかに: 乳漿)
+WHEYS	(wheyの変化形) (名詞) 乳清: チーズを作る際に生じた凝固物を取り除いた残りの水溶液。 (ほかに: 乳漿)
+WHICH	(代名詞) whichの訳: ⟪どちら⟫
+WHICHEVER	(代名詞) どれでも。どちらでも。
+WHILE	(名詞) 期間。時間。あいだ。\n(接続詞) 同時に、～をしている間に。
+WHILED	(動詞) whileの過去形・過去分詞: 期間。時間。あいだ。
+WHILES	(動詞) "while" の三人称単数現在形: 期間。時間。あいだ。
+WHILING	(動詞) whileの動名詞又は現在分詞: 期間。時間。あいだ。
+WHILST	(接続詞) ～すると同時に（=while）
+WHIM	(名詞) 気紛れ: （きまぐれ）その時々で変わりやすく、予測が困難なこと。 (ほかに: 出来心)
+WHIMS	(名詞) whimの複数形: 気紛れ: （きまぐれ）その時々で変わりやすく、予測が困難なこと。 (ほかに: 出来心)
+WHIMSEY	(名詞) whimsyの異表記・別形
+WHIMSEYS	(whimseyの変化形) (名詞) whimsyの異表記・別形
+WHIMSICAL	(形容詞) whimsicalの訳: 気まぐれな
+WHIMSIED	(whimsyの変化形) (名詞) whimsyの訳: 気まぐれ
+WHIMSIES	(whimsyの変化形) (名詞) whimsyの訳: 気まぐれ
+WHIMSY	(名詞) whimsyの訳: 気まぐれ
+WHIP	(名詞) whipの訳: 鞭\n(動詞) whipの訳: 鞭などで打つ
+WHIPPED	(動詞) "whip" の過去形・過去分詞: 鞭
+WHIPPING	(動詞) "whip" の動名詞又は現在分詞: 鞭
+WHIPPINGS	(whipの変化形) (名詞) whipの訳: 鞭
+WHIPS	(名詞) "whip" の複数形: 鞭\n(動詞) "whip" の現在第三人称単数形。
+WHIRL	(動詞) 渦巻く: 渦のようになって回る。 (ほかに: 旋回する, 回転する)\n(名詞) whirlの訳: ⟪旋回|せんかい⟫, 回転
+WHIRLED	(動詞) whirlの過去形・過去分詞: 渦巻く: 渦のようになって回る。 (ほかに: 旋回する, 回転する)
+WHIRLING	(動詞) whirlの現在分詞: 渦巻く: 渦のようになって回る。 (ほかに: 旋回する, 回転する)\n(名詞) whirlingの訳: ⟪旋回|せんかい⟫, 回転
+WHIRLPOOL	(名詞) whirlpoolの訳: 渦, 渦巻き\n(動詞) 渦巻きのように回転する。
+WHIRLPOOLS	(名詞) whirlpoolの複数形: 渦, 渦巻き\n(動詞) whirlpoolの直説法現在第三人称単数形: 渦, 渦巻き
+WHIRLS	(動詞) whirlの直説法現在第三人称単数形: 渦巻く: 渦のようになって回る。 (ほかに: 旋回する, 回転する)\n(名詞) whirlの複数形: 渦巻く: 渦のようになって回る。 (ほかに: 旋回する, 回転する)
+WHIRLWIND	(名詞) whirlwindの訳: 旋風\n(形容詞) whirlwindの訳: 性急な, 大急ぎの
+WHIRLWINDS	(名詞) whirlwindの複数形: 旋風
+WHIRLY	(形容詞) whirlyの訳: ⟪渦巻く|うずまく⟫\n(名詞) 南極の雪の旋風。
+WHIRLYBIRD	(名詞) ヘリコプター: 回転翼機（回転翼航空機）の主たる一つ。エンジン動力で機体上部の回転翼（メインローター）を水平方向に回転させ、これによって発生した揚力を利用して、上下および前後左右に自在飛行する航空機。空中停止（ホバリング）ができるのも際立った特徴で、これを活かした運用は特に多い。反面、固定翼機（固定翼航空機）に比べて飛行速度に限界があるが、これは、ヘリコプターが持つ、揚力の非対称性や対衝撃波の脆弱性が原因である。
+WHIRLYBIRDS	(名詞) whirlybirdの複数形: ヘリコプター:...
+WHISK	(名詞) さっと動くこと、素早い動き。\n(動詞) whiskの訳: さっと払う, ⟪払い除ける|はらいのける⟫
+WHISKED	(動詞) whiskの過去形・過去分詞: さっと動くこと、素早い動き。
+WHISKERS	(名詞) ひげ: 人間の体毛のうち、主として男性の顔に生えるものの総称。生える場所により以下のように書き分ける。
+WHISKEY	(名詞) ウィスキー: 発芽させた穀類および水を原料として糖化させて、発酵させたアルコール含有物を蒸留したもの。
+WHISKEYS	(名詞) whiskeyの複数形: ウィスキー: 発芽させた穀類および水を原料として糖化させて、発酵させたアルコール含有物を蒸留したもの。
+WHISKIES	(名詞) whiskyの複数形: ウィスキー: 発芽させた穀類および水を原料として糖化させて、発酵させたアルコール含有物を蒸留したもの。
+WHISKING	(whiskの変化形) (名詞) さっと動くこと、素早い動き。
+WHISKS	(名詞) whiskの複数形: さっと動くこと、素早い動き。\n(動詞) whiskの直説法現在第三人称単数形: さっと動くこと、素早い動き。
+WHISKY	(名詞) ウィスキー: 発芽させた穀類および水を原料として糖化させて、発酵させたアルコール含有物を蒸留したもの。
+WHISPER	(名詞) whisperの訳: ⟪囁き|ささやき⟫\n(動詞) whisperの訳: ⟪囁く|ささやく⟫
+WHISPERED	(動詞) whisperの過去形・過去分詞: ⟪囁き|ささやき⟫
+WHISPERING	(動詞) whisperの動名詞又は現在分詞: ⟪囁き|ささやき⟫\n(形容詞) whisperingの訳: 囁くような
+WHISPERINGS	(名詞) whisperingの複数形: whisperの動名詞又は現在分詞。
+WHISPERS	(名詞) whisperの複数形: ⟪囁き|ささやき⟫\n(動詞) whisperの現在第三人称単数形。
+WHISTLE	(名詞) 笛: （ふえ）合図のために息を吹き込んで音を出す道具。呼び子、ホイッスルなど。 (ほかに: 呼子, ホイッスル)\n(動詞) whistleの訳: 笛を吹く
+WHISTLED	(動詞) whistleの過去形・過去分詞: 笛: （ふえ）合図のために息を吹き込んで音を出す道具。呼び子、ホイッスルなど。 (ほかに: 呼子, ホイッスル)
+WHISTLES	(名詞) whistleの複数形: 笛: （ふえ）合図のために息を吹き込んで音を出す道具。呼び子、ホイッスルなど。 (ほかに: 呼子, ホイッスル)\n(動詞) whistleの現在第三人称単数形。
+WHISTLING	(動詞) "whistle" の動名詞又は現在分詞: 笛: （ふえ）合図のために息を吹き込んで音を出す道具。呼び子、ホイッスルなど。 (ほかに: 呼子, ホイッスル)
+WHISTLINGS	(whistleの変化形) (名詞) 笛: （ふえ）合図のために息を吹き込んで音を出す道具。呼び子、ホイッスルなど。 (ほかに: 呼子, ホイッスル)
+WHITE	(名詞) 白: (しろ) 色の名。 (ほかに: 白色)\n(形容詞) whiteの訳: 白い
+WHITEBAIT	(名詞) シラス: あゆ、うなぎなどの稚魚の通称。
+WHITEBAITS	(名詞) whitebaitの複数形: シラス: あゆ、うなぎなどの稚魚の通称。
+WHITED	(whiteの変化形) (名詞) 白: (しろ) 色の名。 (ほかに: 白色)
+WHITEN	(動詞) whitenの訳: 白くする, 漂白する
+WHITENED	(動詞) "whiten" の過去形・過去分詞: 白くする, 漂白する
+WHITENESS	(名詞) whitenessの訳: 白さ
+WHITENESSES	(名詞) whitenessの複数形: 白さ
+WHITENING	(動詞) "whiten" の動名詞又は現在分詞: 白くする, 漂白する
+WHITENINGS	(whitenの変化形) (動詞) whitenの訳: 白くする, 漂白する
+WHITENS	(動詞) "whiten" の現在第三人称単数形。
+WHITER	(形容詞) "white" の比較級形: 白: (しろ) 色の名。 (ほかに: 白色)
+WHITES	(名詞) "white" の複数形: 白: (しろ) 色の名。 (ほかに: 白色)
+WHITESMITH	(名詞) whitesmithの訳: ブリキ屋
+WHITESMITHS	(whitesmithの変化形) (名詞) whitesmithの訳: ブリキ屋
+WHITEST	(形容詞) "white" の最上級形: 白: (しろ) 色の名。 (ほかに: 白色)
+WHITHER	(副詞) （疑問副詞）どこへ。どこに。
+WHITING	(名詞) whitingの訳: きす
+WHITINGS	(whiteの変化形) (名詞) 白: (しろ) 色の名。 (ほかに: 白色)
+WHITISH	(形容詞) whitishの訳: 白っぽい
+WHITLOW	(名詞) 瘭疽: 手足の指の化膿性炎症の総称。
+WHITLOWS	(whitlowの変化形) (名詞) 瘭疽: 手足の指の化膿性炎症の総称。
+WHITTLE	(名詞) ポケットナイフ。\n(動詞) whittleの訳: ナイフで削る
+WHITTLED	(動詞) whittleの過去形・過去分詞: ポケットナイフ。
+WHITTLES	(動詞) whittleの直説法現在第三人称単数形: ポケットナイフ。\n(名詞) whittleの複数形: ポケットナイフ。
+WHITTLING	(動詞) whittleの現在分詞: ポケットナイフ。\n(名詞) whittlingの訳: 削り屑
+WHITTLINGS	(名詞) whittlingの複数形: whittleの現在分詞。
+WHO	(代名詞) whoの訳: 誰\n(名詞) whoの訳: ⟪人物|じんぶつ⟫
+WHODUNIT	(名詞) 推理小説、ミステリー。特に真犯人を探し出すもの。
+WHODUNITS	(名詞) whodunitの複数形: 推理小説、ミステリー。特に真犯人を探し出すもの。
+WHOEVER	(代名詞) whoeverの訳: whoの強意, いったい誰が
+WHOLE	(形容詞) wholeの訳: 全ての, 全体の, 全部の\n(副詞) wholeの訳: 全てにおいて, 全体を
+WHOLENESS	(名詞) 全部揃っていること、無傷であること、完全。
+WHOLENESSES	(名詞) wholenessの複数形: 全部揃っていること、無傷であること、完全。
+WHOLES	(wholeの変化形) (形容詞) wholeの訳: 全ての, 全体の, 全部の
+WHOLESALE	(名詞) 卸売: （おろしうり）製造元や輸入業者から商品を大量に仕入れ、小売業者に売り渡すこと。\n(形容詞) wholesaleの訳: 卸売の
+WHOLESALED	(動詞) wholesaleの過去形・過去分詞: 卸売: （おろしうり）製造元や輸入業者から商品を大量に仕入れ、小売業者に売り渡すこと。
+WHOLESALER	(名詞) wholesalerの訳: 卸売業者
+WHOLESALERS	(名詞) wholesalerの複数形: 卸売業者
+WHOLESALES	(名詞) wholesaleの複数形: 卸売: （おろしうり）製造元や輸入業者から商品を大量に仕入れ、小売業者に売り渡すこと。\n(動詞) wholesaleの直説法現在第三人称単数形: 卸売: （おろしうり）製造元や輸入業者から商品を大量に仕入れ、小売業者に売り渡すこと。
+WHOLESALING	(動詞) wholesaleの現在分詞: 卸売: （おろしうり）製造元や輸入業者から商品を大量に仕入れ、小売業者に売り渡すこと。
+WHOLESOME	(形容詞) 健康的な: 健康であるさま、健康に良いさま。 (ほかに: 健康に良い)
+WHOLESOMELY	(副詞) 健全に: 物事が正常に機能してしっかりした状態であること。そのさま。
+WHOLESOMENESS	(名詞) 健全: 物事が正常に機能してしっかりした状態であること。そのさま。
+WHOLESOMENESSES	(名詞) wholesomenessの複数形: 健全: 物事が正常に機能してしっかりした状態であること。そのさま。
+WHOLLY	(副詞) すっかり: ある状態に完全になる様子。 (ほかに: 完全に)
+WHOM	(代名詞) whomの訳: 誰を, 誰に
+WHOP	(動詞) 叩き付ける: 強く投げ付ける。 (ほかに: 叩きのめす)\n(名詞) whopの訳: 強打, 殴打
+WHOPPED	(動詞) whopの過去形・過去分詞: 叩き付ける: 強く投げ付ける。 (ほかに: 叩きのめす)
+WHOPPER	(名詞) whopperの訳: 巨大なもの
+WHOPPERS	(名詞) whopperの複数形: 巨大なもの
+WHOPPING	(形容詞) とてつもなく大きい、巨大な。\n(副詞) whoppingの訳: とてつもなく
+WHOPS	(動詞) whopの直説法現在第三人称単数形: 叩き付ける: 強く投げ付ける。 (ほかに: 叩きのめす)\n(名詞) whopの複数形: 叩き付ける: 強く投げ付ける。 (ほかに: 叩きのめす)
+WHOREDOMS	(名詞) whoredomの複数形。
+WHOSE	(代名詞) （関係代名詞所有格）（その人の）～が…するところの。
+WHOSOEVER	(代名詞) whoeverの強意。
+WHY	(副詞) whyの訳: ⟪何故|なにゆえ⟫, ⟪どうして⟫\n(名詞) 理由: ある事象の原因を論理づけたもの。
+WHYS	(whyの変化形) (副詞) whyの訳: ⟪何故|なにゆえ⟫, ⟪どうして⟫
+WICK	(名詞) wickの訳: 芯\n(動詞) wickの訳: 吸い出す
+WICKED	(形容詞) 邪悪な。邪な。不道徳な。悪意のある。\n(副詞) とても。非常に。
+WICKEDER	(形容詞) wickedの比較級: 邪悪な。邪な。不道徳な。悪意のある。
+WICKEDEST	(形容詞) wickedの最上級: 邪悪な。邪な。不道徳な。悪意のある。
+WICKEDLY	(副詞) 邪悪に。意地悪く。
+WICKEDNESS	(名詞) 邪悪さ。意地悪さ。
+WICKEDNESSES	(名詞) wickednessの複数形: 邪悪さ。意地悪さ。
+WICKER	(名詞) wickerの訳: 小枝\n(形容詞) wickerの訳: 枝編み細工の
+WICKERS	(wickerの変化形) (名詞) wickerの訳: 小枝
+WICKERWORK	(名詞) wickerworkの訳: 枝編み細工
+WICKERWORKS	(wickerworkの変化形) (名詞) wickerworkの訳: 枝編み細工
+WICKET	(名詞) wicketの訳: 改札口
+WICKETS	(wicketの変化形) (名詞) wicketの訳: 改札口
+WICKING	(動詞) wickの現在分詞: 芯\n(名詞) wickingの訳: 芯材
+WICKINGS	(名詞) wickingの複数形: wickの現在分詞: 芯
+WICKS	(名詞) wickの複数形: 芯\n(動詞) wickの直説法現在第三人称単数形: 芯
+WIDE	(形容詞) wideの訳: 幅の広い\n(副詞) 広範囲に: 範囲が広いこと。また、広い範囲。
+WIDELY	(副詞) widelyの訳: ⟪広く|ひろく⟫
+WIDEN	(動詞) 広げる: 幅・面積・範囲などを広くする。
+WIDENED	(動詞) widenの過去形・過去分詞: 広げる: 幅・面積・範囲などを広くする。
+WIDENER	(widenの変化形) (動詞) 広げる: 幅・面積・範囲などを広くする。
+WIDENING	(動詞) "widen" の動名詞又は現在分詞: 広げる: 幅・面積・範囲などを広くする。
+WIDENS	(動詞) widenの現在第三人称単数形。
+WIDER	(形容詞) "wide" の比較級形: 幅の広い
+WIDES	(wideの変化形) (形容詞) wideの訳: 幅の広い
+WIDESPREAD	(形容詞) 広範囲にわたる
+WIDEST	(形容詞) "wide" の最上級形: 幅の広い
+WIDOW	(名詞) 未亡人: 夫と死別して再婚していない女性。 (ほかに: 寡婦, やもめ)\n(動詞) 未亡人にする。（受身形で）夫が命を落とす。
+WIDOWED	(形容詞) 配偶者と死別した。\n(動詞) widowの過去形・過去分詞: 未亡人: 夫と死別して再婚していない女性。 (ほかに: 寡婦, やもめ)
+WIDOWER	(名詞) 鰥夫: 妻を失った男性。または、妻のいない男性。 (ほかに: 鰥, 男寡)
+WIDOWERS	(widowerの変化形) (名詞) 鰥夫: 妻を失った男性。または、妻のいない男性。 (ほかに: 鰥, 男寡)
+WIDOWHOOD	(名詞) widowhoodの訳: 寡暮らし
+WIDOWHOODS	(widowhoodの変化形) (名詞) widowhoodの訳: 寡暮らし
+WIDOWING	(動詞) widowの動名詞又は現在分詞: 未亡人: 夫と死別して再婚していない女性。 (ほかに: 寡婦, やもめ)
+WIDOWS	(名詞) widowの複数形: 未亡人: 夫と死別して再婚していない女性。 (ほかに: 寡婦, やもめ)\n(動詞) widowの現在第三人称単数形。
+WIDTH	(名詞) widthの訳: 広いこと
+WIDTHS	(名詞) "width" の複数形: 広いこと
+WIELD	(動詞) wieldの訳: ⟪つかいこなす⟫
+WIELDED	(動詞) wieldの過去形・過去分詞: ⟪つかいこなす⟫
+WIELDIER	(形容詞) "wieldy" の比較級: 扱いやすい
+WIELDIEST	(形容詞) "wieldy" の最上級: 扱いやすい
+WIELDING	(動詞) wieldの動名詞又は現在分詞: ⟪つかいこなす⟫
+WIELDS	(動詞) wieldの現在第三人称単数形。
+WIELDY	(形容詞) wieldyの訳: 扱いやすい
+WIFE	(名詞) 妻: （つま）男から見て、女の配偶者。(文章語または謙譲語)
+WIFED	(wifeの変化形) (名詞) 妻: （つま）男から見て、女の配偶者。(文章語または謙譲語)
+WIFELIER	(形容詞) wifelyの比較級: 妻らしい。妻にふさわしい。
+WIFELIEST	(形容詞) wifelyの最上級: 妻らしい。妻にふさわしい。
+WIFELY	(形容詞) 妻らしい。妻にふさわしい。
+WIFES	(wifeの変化形) (名詞) 妻: （つま）男から見て、女の配偶者。(文章語または謙譲語)
+WIFING	(wifeの変化形) (名詞) 妻: （つま）男から見て、女の配偶者。(文章語または謙譲語)
+WIG	(名詞) かつら: 頭髪を模して造られた頭部に装着する装身具。別名、かずら、ウィッグ。\n(動詞) かつらを付ける。
+WIGGED	(動詞) wigの過去形・過去分詞: かつら: 頭髪を模して造られた頭部に装着する装身具。別名、かずら、ウィッグ。
+WIGGLE	(動詞) 小刻みに動かす。\n(名詞) wiggleの訳: 小刻みな動き
+WIGGLED	(動詞) wiggleの過去形・過去分詞: 小刻みに動かす。
+WIGGLES	(wiggleの変化形) (動詞) 小刻みに動かす。
+WIGGLING	(動詞) wiggleの現在分詞: 小刻みに動かす。\n(名詞) wigglingの訳: 小刻みな動き
+WIGS	(名詞) wigの複数形: かつら: 頭髪を模して造られた頭部に装着する装身具。別名、かずら、ウィッグ。
+WIGWAM	(名詞) ウィグワム、 アメリカインディアン部族の伝統的なドーム型の住居。\n(動詞) 布などをウィグアム（ドーム）状の骨組みの上に広げて乾かす。
+WIGWAMS	(名詞) wigwamの複数形: ウィグワム、 アメリカインディアン部族の伝統的なドーム型の住居。\n(動詞) wigwamの現在第三人称単数形。
+WILD	(形容詞) wildの訳: 野生の, 未開拓の\n(副詞) wildの訳: でたらめに
+WILDCAT	(名詞) wildcatの訳: ⟪山猫|やまねこ⟫, ⟪野良猫|のらねこ⟫\n(形容詞) wildcatの訳: 無謀な, 不健全な, 非合法の, 無認可の
+WILDCATS	(名詞) "wildcat" の複数形: ⟪山猫|やまねこ⟫, ⟪野良猫|のらねこ⟫\n(動詞) "wildcat" の現在第三人称単数形。
+WILDEBEEST	(名詞) wildebeestの訳: ヌー
+WILDEBEESTS	(wildebeestの変化形) (名詞) wildebeestの訳: ヌー
+WILDER	(形容詞) "wild" の比較級: 野生の, 未開拓の\n(名詞) wildする人。
+WILDERED	(動詞) "wilder" の過去形・過去分詞: "wild" の比較級。
+WILDERING	(動詞) "wilder" の動名詞又は現在分詞: "wild" の比較級。
+WILDERNESS	(名詞) 原野。荒野。
+WILDERNESSES	(wildernessの変化形) (名詞) 原野。荒野。
+WILDERS	(名詞) "wilder" の複数形: "wild" の比較級。\n(動詞) "wilder" の現在第三人称単数形。
+WILDEST	(形容詞) "wild" の最上級: 野生の, 未開拓の
+WILDFIRE	(名詞) wildfireの訳: 山火, ⟪山火事|やまかじ⟫
+WILDFIRES	(wildfireの変化形) (名詞) wildfireの訳: 山火, ⟪山火事|やまかじ⟫
+WILDING	(動詞) "wild" の動名詞又は現在分詞: 野生の, 未開拓の\n(形容詞) wildingの訳: 野生の
+WILDINGS	(名詞) "wilding" の複数形: "wild" の動名詞又は現在分詞: 野生の, 未開拓の
+WILDLIFE	(名詞) 野生生物: 自然の中で人為的な手が加えられずに生育、生息する動植物の総称。
+WILDS	(名詞) "wild" の複数形: 野生の, 未開拓の\n(動詞) "wild" の現在第三人称単数形。
+WILFUL	(形容詞) 故意の。意図的な。
+WILIER	(形容詞) wilyの比較級: 狡賢い, 狡猾な
+WILIEST	(形容詞) wilyの最上級: 狡賢い, 狡猾な
+WILILY	(副詞) wililyの訳: 狡賢く, 狡猾に
+WILINESS	(名詞) wilinessの訳: 狡賢さ, 狡猾さ
+WILINESSES	(名詞) wilinessの複数形: 狡賢さ, 狡猾さ
+WILL	(動詞) willの訳: -だろう\n(名詞) willの訳: 意志, 意思
+WILLED	(動詞) "will" の過去形・過去分詞形: -だろう
+WILLFUL	(形容詞) 故意の。意図的な。
+WILLING	(動詞) willの現在分詞: -だろう\n(形容詞) willingの訳: ⟪すすんで⟫, 自発的に, 喜んで～する
+WILLINGER	(willの変化形) (動詞) willの訳: -だろう
+WILLINGEST	(willの変化形) (動詞) willの訳: -だろう
+WILLINGLY	(副詞) すすんで: 自ら積極的に物事を行うさま。 (ほかに: 自発的に)
+WILLINGNESS	(名詞) 進んでやろうとする気持ち、意欲。
+WILLINGNESSES	(名詞) willingnessの複数形: 進んでやろうとする気持ち、意欲。
+WILLOW	(名詞) willowの訳: 柳\n(動詞) 開繊機にかける。
+WILLOWED	(動詞) willowの過去形・過去分詞: 柳\n(形容詞) 柳でいっぱいの。
+WILLOWING	(動詞) willowの動名詞又は現在分詞: 柳
+WILLOWS	(名詞) willowの複数形: 柳\n(動詞) willowの直説法現在第三人称単数形: 柳
+WILLS	(名詞) "will" の複数形: -だろう\n(動詞) "will" の三人称単数現在形: -だろう
+WILT	(動詞) will の二人称単数現在形。主語が thou のときに用いられる。
+WILTED	(wiltの変化形) (動詞) will の二人称単数現在形。主語が thou のときに用いられる。
+WILTING	(wiltの変化形) (動詞) will の二人称単数現在形。主語が thou のときに用いられる。
+WILTS	(wiltの変化形) (動詞) will の二人称単数現在形。主語が thou のときに用いられる。
+WILY	(形容詞) wilyの訳: 狡賢い, 狡猾な
+WIN	(名詞) winの訳: ⟪勝利|しょうり⟫, 勝ち\n(動詞) 勝つ: （かつ）優劣を判定する局面で、優勢であることを決定づける。まかす。勝利する。 (ほかに: 勝利する)
+WINCE	(名詞) 顔を顰めること、怯み、たじろぎ。\n(動詞) winceの訳: 顔を顰める, ⟪怯む|ひるむ⟫, 尻込みする
+WINCED	(動詞) winceの過去形・過去分詞: 顔を顰めること、怯み、たじろぎ。
+WINCES	(名詞) winceの複数形: 顔を顰めること、怯み、たじろぎ。\n(動詞) winceの直説法現在第三人称単数形: 顔を顰めること、怯み、たじろぎ。
+WINCH	(名詞) ウインチ: 円筒形のドラムを回転させてロープなどを巻き取り、物を上げ下げする機械。\n(動詞) ウインチで巻き上げる。
+WINCHED	(動詞) winchの過去形・過去分詞: ウインチ: 円筒形のドラムを回転させてロープなどを巻き取り、物を上げ下げする機械。
+WINCHER	(winchの変化形) (名詞) ウインチ: 円筒形のドラムを回転させてロープなどを巻き取り、物を上げ下げする機械。
+WINCHES	(名詞) winchの複数形: ウインチ: 円筒形のドラムを回転させてロープなどを巻き取り、物を上げ下げする機械。\n(動詞) winchの直説法現在第三人称単数形: ウインチ: 円筒形のドラムを回転させてロープなどを巻き取り、物を上げ下げする機械。
+WINCHING	(winchの変化形) (名詞) ウインチ: 円筒形のドラムを回転させてロープなどを巻き取り、物を上げ下げする機械。
+WINCING	(動詞) winceの現在分詞: 顔を顰めること、怯み、たじろぎ。\n(名詞) 顔を顰めること、しかめっ面。
+WIND	(名詞) 風: （かぜ）空気の流れ。\n(動詞) windの訳: 風を起こす
+WINDED	(動詞) "wind" の過去形・過去分詞形: 風: （かぜ）空気の流れ。
+WINDIER	(形容詞) "windy" の比較級: 風が吹く, 風の強い
+WINDIEST	(形容詞) "windy" の最上級: 風が吹く, 風の強い
+WINDING	(動詞) "wind"（巻く）の現在分詞形。\n(名詞) windingの訳: 巻いたもの
+WINDINGS	(windの変化形) (名詞) 風: （かぜ）空気の流れ。
+WINDMILL	(名詞) 風車: 羽根車に風を受けて回転し、風力から動力を得るための装置。
+WINDMILLED	(windmillの変化形) (名詞) 風車: 羽根車に風を受けて回転し、風力から動力を得るための装置。
+WINDMILLING	(windmillの変化形) (名詞) 風車: 羽根車に風を受けて回転し、風力から動力を得るための装置。
+WINDMILLS	(windmillの変化形) (名詞) 風車: 羽根車に風を受けて回転し、風力から動力を得るための装置。
+WINDOW	(名詞) 窓: まど、明かり取りや換気の目的で建物の壁に開けた穴。
+WINDOWING	(windowの変化形) (名詞) 窓: まど、明かり取りや換気の目的で建物の壁に開けた穴。
+WINDOWS	(名詞) windowの複数形: 窓: まど、明かり取りや換気の目的で建物の壁に開けた穴。
+WINDPIPE	(名詞) 気管: 肺を持つ脊椎動物の呼吸器である管状の気道の一部で咽頭から気管支までの部分。
+WINDPIPES	(名詞) windpipeの複数形: 気管: 肺を持つ脊椎動物の呼吸器である管状の気道の一部で咽頭から気管支までの部分。
+WINDS	(名詞) "wind" の複数形: 風: （かぜ）空気の流れ。\n(動詞) "wind" の三人称単数現在形: 風: （かぜ）空気の流れ。
+WINDSHIELD	(名詞) 風防、（自動車などの）フロントグラス。
+WINDSHIELDS	(名詞) "windshield" の複数形: 風防、（自動車などの）フロントグラス。
+WINDY	(形容詞) windyの訳: 風が吹く, 風の強い
+WINE	(名詞) ワイン: 葡萄を原料とした醸造酒。ビールとともに世界中で飲まれる最も人気のある酒類のひとつ。葡萄酒。日本の酒税法上は果実酒に含まれる。 (ほかに: 葡萄酒)\n(動詞) （～を）ワインで楽しむ。
+WINED	(動詞) "wine" の過去形・過去分詞: ワイン: 葡萄を原料とした醸造酒。ビールとともに世界中で飲まれる最も人気のある酒類のひとつ。葡萄酒。日本の酒税法上は果実酒に含まれる。 (ほかに: 葡萄酒)
+WINEMAKING	(名詞) winemakingの訳: ワイン醸造
+WINEMAKINGS	(winemakingの変化形) (名詞) winemakingの訳: ワイン醸造
+WINEPRESS	(名詞) winepressの訳: ワイン圧搾機
+WINEPRESSES	(名詞) winepressの複数形: ワイン圧搾機。
+WINES	(名詞) "wine" の複数形: ワイン: 葡萄を原料とした醸造酒。ビールとともに世界中で飲まれる最も人気のある酒類のひとつ。葡萄酒。日本の酒税法上は果実酒に含まれる。 (ほかに: 葡萄酒)\n(動詞) "wine" の現在第三人称単数形。
+WING	(名詞) 翼。羽。翅。\n(動詞) wingの訳: 翼を付ける
+WINGED	(形容詞) wingedの訳: 翼のある\n(動詞) wingの過去形・過去分詞: 翼。羽。翅。
+WINGEDLY	(wingの変化形) (名詞) 翼。羽。翅。
+WINGING	(動詞) "wing" の動名詞又は現在分詞: 翼。羽。翅。
+WINGS	(名詞) "wing" の複数形: 翼。羽。翅。\n(動詞) "wing" の現在第三人称単数形。
+WINING	(動詞) "wine" の動名詞又は現在分詞: ワイン: 葡萄を原料とした醸造酒。ビールとともに世界中で飲まれる最も人気のある酒類のひとつ。葡萄酒。日本の酒税法上は果実酒に含まれる。 (ほかに: 葡萄酒)
+WINK	(動詞) winkの訳: 目を閉じる\n(名詞) winkの訳: ウインク, 目配せ
+WINKED	(動詞) winkの過去形・過去分詞: 目を閉じる
+WINKING	(winkの変化形) (動詞) winkの訳: 目を閉じる
+WINKLE	(名詞) winkleの訳: タマキビ\n(動詞) winkleの訳: 探り出す
+WINKLED	(動詞) winkleの過去形・過去分詞: タマキビ
+WINKLES	(名詞) winkleの複数形: タマキビ\n(動詞) winkleの直説法現在第三人称単数形: タマキビ
+WINKLING	(動詞) winkleの現在分詞: タマキビ
+WINKS	(名詞) winkの複数形: 目を閉じる\n(動詞) winkの直説法現在第三人称単数形: 目を閉じる
+WINNED	(winの変化形) (名詞) winの訳: ⟪勝利|しょうり⟫, 勝ち
+WINNER	(名詞) 勝者: 勝負などにおいて勝利を収めた者。勝利者。 (ほかに: 勝利者)
+WINNERS	(名詞) winnerの複数形: 勝者: 勝負などにおいて勝利を収めた者。勝利者。 (ほかに: 勝利者)
+WINNING	(動詞) winの動名詞・現在分詞: 勝利、勝ち。\n(形容詞) winningの訳: 勝った, 勝利の
+WINNINGS	(名詞) "winning" の複数形: winの動名詞・現在分詞: 勝利、勝ち。
+WINNOW	(動詞) winnowの訳: ⟪吹き飛ばす|ふきとばす⟫\n(名詞) 籾殻を選別する道具。
+WINNOWED	(動詞) winnowの過去形・過去分詞: ⟪吹き飛ばす|ふきとばす⟫
+WINNOWING	(名詞) 籾殻を吹き分けること。\n(動詞) winnowの現在分詞: ⟪吹き飛ばす|ふきとばす⟫
+WINNOWS	(動詞) winnowの直説法現在第三人称単数形: ⟪吹き飛ばす|ふきとばす⟫\n(名詞) winnowの複数形: 吹き飛ばす。
+WINS	(名詞) "win" の複数形: ⟪勝利|しょうり⟫, 勝ち\n(動詞) "win" の現在第三人称単数形。
+WINTER	(名詞) 冬季: 冬の季節。天候が寒い期間。 (ほかに: 冬)\n(動詞) winterの訳: 冬を過ごす
+WINTERED	(動詞) winterの過去形・過去分詞: 冬季: 冬の季節。天候が寒い期間。 (ほかに: 冬)
+WINTERER	(winterの変化形) (名詞) 冬季: 冬の季節。天候が寒い期間。 (ほかに: 冬)
+WINTERIER	(形容詞) winteryの比較級: wintryの異綴り。
+WINTERIEST	(形容詞) winteryの最上級: wintryの異綴り。
+WINTERING	(動詞) winterの現在分詞: 冬季: 冬の季節。天候が寒い期間。 (ほかに: 冬)\n(名詞) 越冬: 冬を越すこと。
+WINTERS	(名詞) winterの複数形: 冬季: 冬の季節。天候が寒い期間。 (ほかに: 冬)\n(動詞) winterの直説法現在第三人称単数形: 冬季: 冬の季節。天候が寒い期間。 (ほかに: 冬)
+WINTERY	(形容詞) wintryの異綴り。
+WINTRIER	(形容詞) wintryの比較級: 冬の: 季節（四季）の一つ。秋の次、春の前。
+WINTRIEST	(形容詞) wintryの最上級: 冬の: 季節（四季）の一つ。秋の次、春の前。
+WINTRILY	(wintryの変化形) (形容詞) 冬の: 季節（四季）の一つ。秋の次、春の前。
+WINTRY	(形容詞) 冬の: 季節（四季）の一つ。秋の次、春の前。
+WIPE	(動詞) wipeの訳: 拭く, 拭う\n(名詞) wipeの訳: 拭くこと, 拭うこと
+WIPED	(動詞) "wipe" の過去形・過去分詞: 拭く, 拭う
+WIPER	(名詞) wiperの訳: 拭くもの
+WIPERS	(wiperの変化形) (名詞) wiperの訳: 拭くもの
+WIPES	(名詞) "wipe" の複数形: 拭く, 拭う\n(動詞) "wipe" の現在第三人称単数形。
+WIPING	(動詞) "wipe" の動名詞又は現在分詞: 拭く, 拭う
+WIRE	(名詞) 針金。電線。電話線。\n(動詞) wireの訳: 針金で縛る
+WIRED	(wireの変化形) (名詞) 針金。電線。電話線。
+WIRELESS	(形容詞) wirelessの訳: ワイヤレス, 無線
+WIRELESSED	(wirelessの変化形) (形容詞) wirelessの訳: ワイヤレス, 無線
+WIRELESSES	(wirelessの変化形) (形容詞) wirelessの訳: ワイヤレス, 無線
+WIRELESSING	(wirelessの変化形) (形容詞) wirelessの訳: ワイヤレス, 無線
+WIRES	(名詞) wireの複数形: 針金。電線。電話線。\n(動詞) wireの直説法現在第三人称単数形: 針金。電線。電話線。
+WIRING	(wireの変化形) (名詞) 針金。電線。電話線。
+WIRINGS	(wireの変化形) (名詞) 針金。電線。電話線。
+WISDOM	(名詞) wisdomの訳: 知恵, 賢明さ, 賢いこと
+WISDOMS	(名詞) wisdomの複数形: 知恵, 賢明さ, 賢いこと
+WISE	(形容詞) 敏い: （さとい）理解が速く、的確である。 (ほかに: 賢い, 賢明な)\n(動詞) wiseの訳: 賢くなる
+WISER	(形容詞) "wise" の比較級形: 敏い: （さとい）理解が速く、的確である。 (ほかに: 賢い, 賢明な)
+WISES	(wiseの変化形) (形容詞) 敏い: （さとい）理解が速く、的確である。 (ほかに: 賢い, 賢明な)
+WISEST	(形容詞) "wise" の最上級形: 敏い: （さとい）理解が速く、的確である。 (ほかに: 賢い, 賢明な)
+WISH	(動詞) 願う、（that）・・・だったらいいと思う。\n(名詞) wishの訳: 願い, 望み, 願望, 希望
+WISHBONE	(名詞) wishboneの訳: 叉骨
+WISHBONES	(wishboneの変化形) (名詞) wishboneの訳: 叉骨
+WISHED	(動詞) wishの過去形・過去分詞: 願う、（that）・・・だったらいいと思う。
+WISHES	(名詞) wishの複数形: 願う、（that）・・・だったらいいと思う。\n(動詞) wishの直説法現在第三人称単数形: 願う、（that）・・・だったらいいと思う。
+WISHFUL	(形容詞) wishfulの訳: 希望に満ちた
+WISHING	(動詞) wishの動名詞又は現在分詞: 願う、（that）・・・だったらいいと思う。\n(名詞) 願望: 願い望むこと。 (ほかに: 願い)
+WIST	(動詞) witの過去形、過去分詞: 知力, ⟪知性|ちせい⟫, ⟪理性|りせい⟫, 分別
+WISTED	(wistの変化形) (動詞) witの過去形、過去分詞。
+WISTERIA	(名詞) wisteriaの訳: ふじ
+WISTERIAS	(wisteriaの変化形) (名詞) wisteriaの訳: ふじ
+WISTING	(wistの変化形) (動詞) witの過去形、過去分詞。
+WISTS	(wistの変化形) (動詞) witの過去形、過去分詞。
+WIT	(名詞) witの訳: 知力, ⟪知性|ちせい⟫, ⟪理性|りせい⟫, 分別\n(動詞) witの訳: 知る, 知っている
+WITCH	(名詞) 魔女。ウィッチクラフト(witchcraft)を使う女性。\n(動詞) witchの訳: 水脈を探す
+WITCHCRAFT	(名詞) 魔女の行う所業、すなわち魔法や超自然的な力により何かに影響を与え、あるいは何かを予知する能力。ウィッチクラフト。
+WITCHCRAFTS	(witchcraftの変化形) (名詞) 魔女の行う所業、すなわち魔法や超自然的な力により何かに影響を与え、あるいは何かを予知する能力。ウィッチクラフト。
+WITCHED	(動詞) "witch" の過去形・過去分詞: 魔女。ウィッチクラフト(witchcraft)を使う女性。
+WITCHES	(名詞) "witch" の複数形: 魔女。ウィッチクラフト(witchcraft)を使う女性。\n(動詞) "witch" の現在第三人称単数形。
+WITCHING	(動詞) "witch" の動名詞又は現在分詞: 魔女。ウィッチクラフト(witchcraft)を使う女性。
+WITCHINGS	(witchの変化形) (名詞) 魔女。ウィッチクラフト(witchcraft)を使う女性。
+WITE	(動詞) "wit" の現在複数形。
+WITED	(witの変化形) (名詞) witの訳: 知力, ⟪知性|ちせい⟫, ⟪理性|りせい⟫, 分別
+WITES	(witの変化形) (名詞) witの訳: 知力, ⟪知性|ちせい⟫, ⟪理性|りせい⟫, 分別
+WITH	(前置詞) withの訳: ～とともに, ～と一緒に
+WITHDRAW	(動詞) 引っ込める。視線をそらす。カーテンを引く。
+WITHDRAWAL	(名詞) withdrawalの訳: 引き出し
+WITHDRAWALS	(名詞) withdrawalの複数形: 引き出し
+WITHDRAWING	(動詞) withdrawの動名詞又は現在分詞: 引っ込める。視線をそらす。カーテンを引く。\n(名詞) 引っ込めること、撤退、撤回。
+WITHDRAWN	(形容詞) 内気な、内向的な、引っ込み思案の。\n(動詞) withdrawの過去分詞: 引っ込める。視線をそらす。カーテンを引く。
+WITHDRAWS	(動詞) withdrawの直説法現在第三人称単数形: 引っ込める。視線をそらす。カーテンを引く。
+WITHDREW	(動詞) withdrawの過去形: 引っ込める。視線をそらす。カーテンを引く。
+WITHED	(withの変化形) (前置詞) withの訳: ～とともに, ～と一緒に
+WITHER	(副詞) witherの訳: ～に対して\n(動詞) 枯れる: （才能・能力などが）なくなる。枯渇する。 (ほかに: 萎れる)
+WITHERED	(形容詞) witheredの訳: 干からびた\n(動詞) witherの過去形・過去分詞: ～に対して
+WITHERER	(witherの変化形) (副詞) witherの訳: ～に対して
+WITHERING	(動詞) "wither" の動名詞又は現在分詞: ～に対して\n(名詞) 枯死。枯れること。
+WITHERS	(動詞) "wither" の現在第三人称単数形。
+WITHHELD	(withholdの変化形) (動詞) （許可・情報などを）与えるのを差し控える。保留する。
+WITHHOLD	(動詞) （許可・情報などを）与えるのを差し控える。保留する。
+WITHHOLDING	(withholdの変化形) (動詞) （許可・情報などを）与えるのを差し控える。保留する。
+WITHHOLDS	(動詞) withholdの直説法現在第三人称単数形: （許可・情報などを）与えるのを差し控える。保留する。
+WITHIN	(前置詞) ～の内側・内部に。～以内で。\n(副詞) 内側で。内部で。
+WITHING	(withの変化形) (前置詞) withの訳: ～とともに, ～と一緒に
+WITHINS	(withinの変化形) (前置詞) ～の内側・内部に。～以内で。
+WITHOUT	(前置詞) withoutの訳: ～無しで, ～を持たずに, ～なく, が欠けて
+WITHOUTS	(withoutの変化形) (前置詞) withoutの訳: ～無しで, ～を持たずに, ～なく, が欠けて
+WITHSTAND	(動詞) 耐える: 【耐、堪、仔、任】 外部からの力や刺激に負けずに持ち堪える。 (ほかに: 持ち堪える, 抵抗する)
+WITHSTANDING	(動詞) withstandの現在分詞: 耐える: 【耐、堪、仔、任】 外部からの力や刺激に負けずに持ち堪える。 (ほかに: 持ち堪える, 抵抗する)
+WITHSTANDS	(動詞) withstandの直説法現在第三人称単数形: 耐える: 【耐、堪、仔、任】 外部からの力や刺激に負けずに持ち堪える。 (ほかに: 持ち堪える, 抵抗する)
+WITHSTOOD	(動詞) withstandの過去形・過去分詞: 耐える: 【耐、堪、仔、任】 外部からの力や刺激に負けずに持ち堪える。 (ほかに: 持ち堪える, 抵抗する)
+WITNESS	(名詞) 目撃者: 出来事などをその場で実際に見た人。\n(動詞) witnessの訳: 目撃する
+WITNESSED	(動詞) witnessの過去形・過去分詞: 目撃者: 出来事などをその場で実際に見た人。
+WITNESSES	(名詞) witnessの複数形: 目撃者: 出来事などをその場で実際に見た人。\n(動詞) witnessの直説法現在第三人称単数形: 目撃者: 出来事などをその場で実際に見た人。
+WITNESSING	(動詞) witnessの動名詞又は現在分詞: 目撃者: 出来事などをその場で実際に見た人。\n(名詞) 証言: 裁判などで証人が供述すること。
+WITS	(名詞) "wit" の複数形: 知力, ⟪知性|ちせい⟫, ⟪理性|りせい⟫, 分別
+WITTING	(動詞) "wit" の動名詞又は現在分詞: 知力, ⟪知性|ちせい⟫, ⟪理性|りせい⟫, 分別
+WIVES	(名詞) wifeの複数形: 妻: （つま）男から見て、女の配偶者。(文章語または謙譲語)
+WIZARD	(名詞) wizardの訳: 魔法使い
+WIZARDRIES	(名詞) wizardryの複数形: 魔法: 神秘的な力により、普通の方法では不可能なことを行う術。 (ほかに: 魔術)
+WIZARDRY	(名詞) 魔法: 神秘的な力により、普通の方法では不可能なことを行う術。 (ほかに: 魔術)
+WIZARDS	(wizardの変化形) (名詞) wizardの訳: 魔法使い
+WOBBLE	(名詞) 揺れ。ぐらつき。\n(動詞) 揺れる。ぐらぐらする。がたがたする。
+WOBBLED	(動詞) wobbleの過去形・過去分詞: 揺れ。ぐらつき。
+WOBBLER	(名詞) よろよろする物。ぐらぐらする物。
+WOBBLERS	(名詞) wobblerの複数形: よろよろする物。ぐらぐらする物。
+WOBBLES	(名詞) wobbleの複数形: 揺れ。ぐらつき。\n(動詞) wobbleの直説法現在第三人称単数形: 揺れ。ぐらつき。
+WOBBLIES	(名詞) wobblyの複数形: ぐらぐらする。がたがたする。不安定な。
+WOBBLING	(動詞) wobbleの現在分詞: 揺れ。ぐらつき。\n(名詞) ぐらつき。ぶれ。
+WOBBLY	(形容詞) ぐらぐらする。がたがたする。不安定な。\n(名詞) Wobblyの異綴。
+WOK	(名詞) 中華鍋: 中華料理を調理する際に使用する浅い半球形で通常は一本の柄がついた鍋。\n(動詞) 中華鍋を使って料理を作る。
+WOKE	(wakeの変化形) (動詞) wakeの訳: 目が覚める
+WOKEN	(wakeの変化形) (動詞) wakeの訳: 目が覚める
+WOKS	(wokの変化形) (名詞) 中華鍋: 中華料理を調理する際に使用する浅い半球形で通常は一本の柄がついた鍋。
+WOLF	(名詞) wolfの訳: 狼\n(動詞) ～をむさぼる、がつがつ食べる。
+WOLFBERRIES	(wolfberryの変化形) (名詞) wolfberryの訳: 枸杞
+WOLFBERRY	(名詞) wolfberryの訳: 枸杞
+WOLFED	(動詞) "wolf" の過去形・過去分詞: 狼
+WOLFER	(wolfの変化形) (名詞) wolfの訳: 狼
+WOLFFISH	(名詞) wolffishの訳: ⟪はまぎぎ⟫
+WOLFFISHES	(wolffishの変化形) (名詞) wolffishの訳: ⟪はまぎぎ⟫
+WOLFING	(動詞) "wolf" の動名詞又は現在分詞: 狼
+WOLFRAM	(名詞) 鉄マンガン重石。
+WOLFRAMITE	(名詞) 鉄マンガン重石。
+WOLFRAMITES	(名詞) wolframiteの複数形: 鉄マンガン重石。
+WOLFRAMS	(wolframの変化形) (名詞) 鉄マンガン重石。
+WOLFS	(動詞) "wolf" の現在第三人称単数形。
+WOLFSBANE	(名詞) トリカブト: キンポウゲ目トリカブト属に属する多年草の総称。学名は Aconitum。秋、被り物の鳥兜に似た形状の、深紫色の花を多数開く。全草に毒性の極めて強いアコニチン系アルカロイドを含む。塊根を乾燥させたものは、漢方では烏頭または附子と称し、鎮痛作用や虚脱を治す作用があることから、神経痛・リウマチ・下痢などの治療に用いられる。かぶとぎく。かぶとばな。
+WOLFSBANES	(wolfsbaneの変化形) (名詞) トリカブト: キンポウゲ目トリカブト属に属する多年草の総称。学名は...
+WOLVERINE	(名詞) wolverineの訳: ⟪クズリ|くずり⟫
+WOLVERINES	(名詞) wolverineの複数形: ⟪クズリ|くずり⟫
+WOLVES	(名詞) "wolf" の複数形: 狼
+WOMAN	(名詞) 女性: （古風）女の人。 (ほかに: 女)
+WOMANED	(womanの変化形) (名詞) 女性: （古風）女の人。 (ほかに: 女)
+WOMANING	(womanの変化形) (名詞) 女性: （古風）女の人。 (ほかに: 女)
+WOMANISE	(動詞) womanizeの異綴。
+WOMANISED	(動詞) womaniseの過去形・過去分詞: womanizeの異綴。
+WOMANISES	(動詞) womaniseの直説法現在第三人称単数形: womanizeの異綴。
+WOMANISH	(名詞) womanishの訳: ⟪男女|だんじょ⟫, ⟪おとこおんな⟫
+WOMANISHLY	(womanishの変化形) (名詞) womanishの訳: ⟪男女|だんじょ⟫, ⟪おとこおんな⟫
+WOMANISING	(動詞) womaniseの現在分詞: womanizeの異綴。
+WOMANIZE	(動詞) womanizeの訳: 女遊びをする
+WOMANIZED	(動詞) womanizeの過去形・過去分詞: 女遊びをする
+WOMANIZER	(名詞) 女遊びをする男、女垂らし。
+WOMANIZERS	(名詞) womanizerの複数形: 女遊びをする男、女垂らし。
+WOMANIZES	(動詞) womanizeの直説法現在第三人称単数形: 女遊びをする
+WOMANIZING	(動詞) womanizeの現在分詞: 女遊びをする
+WOMANLIER	(形容詞) "womanly" の比較級: 女らしい: （おんならしい）いかにも女性特有の性質を持っているさま。
+WOMANLIEST	(形容詞) "womanly" の最上級: 女らしい: （おんならしい）いかにも女性特有の性質を持っているさま。
+WOMANLINESS	(名詞) womanlinessの訳: ⟪女らしさ|おんならしさ⟫
+WOMANLINESSES	(名詞) "womanliness" の複数形: ⟪女らしさ|おんならしさ⟫
+WOMANLY	(形容詞) 女らしい: （おんならしい）いかにも女性特有の性質を持っているさま。
+WOMANS	(womanの変化形) (名詞) 女性: （古風）女の人。 (ほかに: 女)
+WOMB	(名詞) 子宮: 単孔類を除く哺乳類のメスが持つ生殖器の1つ。膣の奥にあり、妊娠時に体内で胎児を育てる場所。
+WOMBAT	(名詞) wombatの訳: ウォンバット
+WOMBATS	(wombatの変化形) (名詞) wombatの訳: ウォンバット
+WOMBED	(wombの変化形) (名詞) 子宮: 単孔類を除く哺乳類のメスが持つ生殖器の1つ。膣の奥にあり、妊娠時に体内で胎児を育てる場所。
+WOMBS	(名詞) wombの複数形: 子宮: 単孔類を除く哺乳類のメスが持つ生殖器の1つ。膣の奥にあり、妊娠時に体内で胎児を育てる場所。
+WOMEN	(名詞) womanの複数形: 女性: （古風）女の人。 (ほかに: 女)
+WON	(動詞) win の過去形・過去分詞: 勝利、勝ち。
+WONDER	(動詞) wonderの訳: 不思議に思う\n(名詞) wonderの訳: 驚き
+WONDERED	(動詞) "wonder" の過去形・過去分詞形: 不思議に思う
+WONDERFUL	(形容詞) wonderfulの訳: ⟪すばらしい⟫, 素敵な
+WONDERFULLY	(副詞) wonderfullyの訳: すばらしく, 驚くほど, 見事に
+WONDERING	(動詞) "wonder" の動名詞形又は現在分詞形: 不思議に思う
+WONDERLAND	(名詞) wonderlandの訳: 不思議な国, おとぎの国
+WONDERLANDS	(wonderlandの変化形) (名詞) wonderlandの訳: 不思議な国, おとぎの国
+WONDERS	(名詞) "wonder" の複数形: 不思議に思う\n(動詞) "wonder" の三人称単数現在形: 不思議に思う
+WONDROUS	(形容詞) wondrousの訳: 驚くべき, 不思議な\n(副詞) wondrousの訳: 驚くほど, 素晴らしく
+WONDROUSLY	(副詞) wondrouslyの訳: 驚くほど, 素晴らしく
+WONNED	(winの変化形) (名詞) winの訳: ⟪勝利|しょうり⟫, 勝ち
+WONNER	(winの変化形) (名詞) winの訳: ⟪勝利|しょうり⟫, 勝ち
+WONNING	(winの変化形) (名詞) winの訳: ⟪勝利|しょうり⟫, 勝ち
+WONS	(winの変化形) (名詞) winの訳: ⟪勝利|しょうり⟫, 勝ち
+WONT	(形容詞) 〜するのが常である、〜し慣れた。
+WONTED	(形容詞) いつもの: 常に。しょっちゅう。 (ほかに: 慣れた)\n(動詞) wontの過去形・過去分詞: 〜するのが常である、〜し慣れた。
+WONTEDLY	(wontedの変化形) (形容詞) いつもの: 常に。しょっちゅう。 (ほかに: 慣れた)
+WONTING	(動詞) wontの現在分詞: 〜するのが常である、〜し慣れた。
+WONTON	(名詞) 雲呑: 小麦粉を薄く伸ばした四角い皮に豚肉の挽肉、みじん切りのネギやニラを混ぜ調味したものを包んで茹で、スープに入れた料理。
+WONTONS	(名詞) wontonの複数形: 雲呑: 小麦粉を薄く伸ばした四角い皮に豚肉の挽肉、みじん切りのネギやニラを混ぜ調味したものを包んで茹で、スープに入れた料理。
+WONTS	(動詞) wontの直説法現在第三人称単数形: 〜するのが常である、〜し慣れた。\n(名詞) wontの複数形: 〜するのが常である、〜し慣れた。
+WOO	(動詞) （名声・支持などを）得ようと努める。\n(感動詞) wooの訳: ヤッホー
+WOOD	(名詞) 木。樹木。\n(形容詞) woodの訳: 木造の
+WOODED	(動詞) "wood" の過去形・過去分詞形: 木。樹木。
+WOODEN	(形容詞) 木製の。木でできた。
+WOODENER	(woodenの変化形) (形容詞) 木製の。木でできた。
+WOODENEST	(woodenの変化形) (形容詞) 木製の。木でできた。
+WOODIER	(形容詞) "woody" の比較級: 草本ではない
+WOODIES	(woodyの変化形) (形容詞) woodyの訳: 草本ではない
+WOODIEST	(形容詞) "woody" の最上級: 草本ではない
+WOODING	(動詞) "wood" の動名詞又は現在分詞: 木。樹木。
+WOODLAND	(形容詞) 森林地帯にある、森林地帯に生息する。\n(名詞) woodlandの訳: 森林地帯
+WOODLANDS	(名詞) woodlandの複数形: 森林地帯にある、森林地帯に生息する。
+WOODPECKER	(名詞) woodpeckerの訳: 啄木鳥
+WOODPECKERS	(名詞) woodpeckerの複数形: 啄木鳥
+WOODS	(名詞) woodの複数形: 木。樹木。\n(動詞) woodの三人称単数現在形: 木。樹木。
+WOODWORKER	(名詞) 指物師: 指物を作る工匠。
+WOODWORKERS	(woodworkerの変化形) (名詞) 指物師: 指物を作る工匠。
+WOODWORM	(名詞) woodwormの訳: ⟪木食い虫|きくいむし⟫
+WOODWORMS	(woodwormの変化形) (名詞) woodwormの訳: ⟪木食い虫|きくいむし⟫
+WOODY	(形容詞) woodyの訳: 草本ではない\n(名詞) レトロな木製の外観のステーションワゴン。カリフォルニア南部のサーフィン文化と結びついていることが多い。
+WOOED	(動詞) wooの過去形・過去分詞: （名声・支持などを）得ようと努める。
+WOOER	(名詞) wooerの訳: 求婚者
+WOOERS	(名詞) wooerの複数形: 求婚者
+WOOF	(名詞) たてよこ: 縦糸と横糸。 (ほかに: たてぬき)
+WOOFED	(woofの変化形) (名詞) たてよこ: 縦糸と横糸。 (ほかに: たてぬき)
+WOOFING	(woofの変化形) (名詞) たてよこ: 縦糸と横糸。 (ほかに: たてぬき)
+WOOFS	(woofの変化形) (名詞) たてよこ: 縦糸と横糸。 (ほかに: たてぬき)
+WOOING	(wooの変化形) (動詞) （名声・支持などを）得ようと努める。
+WOOL	(名詞) 羊毛: 羊の毛。ウール。
+WOOLEN	(名詞) 製絨: 毛織物を製造すること。
+WOOLENS	(woolenの変化形) (名詞) 製絨: 毛織物を製造すること。
+WOOLER	(woolの変化形) (名詞) 羊毛: 羊の毛。ウール。
+WOOLLED	(woolの変化形) (名詞) 羊毛: 羊の毛。ウール。
+WOOLLIER	(woollyの変化形) (名詞) しろくも: 白い雲。しらくも。白雲^(（はくうん）)。 (ほかに: 白雲, しらくも)
+WOOLLIES	(woollyの変化形) (名詞) しろくも: 白い雲。しらくも。白雲^(（はくうん）)。 (ほかに: 白雲, しらくも)
+WOOLLIEST	(woollyの変化形) (名詞) しろくも: 白い雲。しらくも。白雲^(（はくうん）)。 (ほかに: 白雲, しらくも)
+WOOLLILY	(woollyの変化形) (名詞) しろくも: 白い雲。しらくも。白雲^(（はくうん）)。 (ほかに: 白雲, しらくも)
+WOOLLY	(名詞) しろくも: 白い雲。しらくも。白雲^(（はくうん）)。 (ほかに: 白雲, しらくも)
+WOOLS	(名詞) woolの複数形: 羊毛: 羊の毛。ウール。
+WOOS	(動詞) wooの直説法現在第三人称単数形: （名声・支持などを）得ようと努める。\n(名詞) woosの訳: ⟪弱虫|よわむし⟫
+WORD	(名詞) 言葉: （ことば）人間のある一定の集団において一定の意味を持つ音声・文字表現の体系。言語。 (ほかに: 単語)\n(動詞) wordの訳: ⟪使う|つかう⟫, ⟪しゃべる⟫, 書く
+WORDED	(動詞) "word" の過去形・過去分詞: 言葉: （ことば）人間のある一定の集団において一定の意味を持つ音声・文字表現の体系。言語。 (ほかに: 単語)
+WORDIER	(形容詞) "wordy" の比較級: 言葉数の多い
+WORDIEST	(形容詞) "wordy" の最上級: 言葉数の多い
+WORDINESS	(名詞) 余計な言葉（特に堅い語句）が多くてくどい文や言い回し。または、そういった表現を書いたり話したりすること。
+WORDINESSES	(wordinessの変化形) (名詞) 余計な言葉（特に堅い語句）が多くてくどい文や言い回し。または、そういった表現を書いたり話したりすること。
+WORDING	(動詞) "word" の動名詞又は現在分詞: 言葉: （ことば）人間のある一定の集団において一定の意味を持つ音声・文字表現の体系。言語。 (ほかに: 単語)
+WORDINGS	(wordの変化形) (名詞) 言葉: （ことば）人間のある一定の集団において一定の意味を持つ音声・文字表現の体系。言語。 (ほかに: 単語)
+WORDLESS	(形容詞) wordlessの訳: 黙っている
+WORDS	(名詞) "word" の複数形: 言葉: （ことば）人間のある一定の集団において一定の意味を持つ音声・文字表現の体系。言語。 (ほかに: 単語)
+WORDSMITH	(名詞) wordsmithの訳: ⟪推敲|すいこう⟫
+WORDSMITHS	(wordsmithの変化形) (名詞) wordsmithの訳: ⟪推敲|すいこう⟫
+WORDY	(形容詞) wordyの訳: 言葉数の多い
+WORE	(動詞) wearの過去形: ⟪着用|ちゃくよう⟫
+WORK	(名詞) 作業: 体や頭脳を使い、一定の手順に従って仕事をすること。また、その仕事。 (ほかに: 仕事, 職業)\n(動詞) workの訳: 仕事をする, 作業する, 勉強する
+WORKADAY	(形容詞) 日常の: 常日頃よく行われること。平生。普段。 (ほかに: ありふれた)
+WORKDAY	(名詞) 平日: （ひらび、とも）縁日などの特別な行事のない日。 (ほかに: 就業日)\n(形容詞) workdayの訳: 日常の, ⟪ありふれた⟫
+WORKDAYS	(名詞) workdayの複数形: 平日: （ひらび、とも）縁日などの特別な行事のない日。 (ほかに: 就業日)
+WORKED	(動詞) "work" の過去形・過去分詞: 作業: 体や頭脳を使い、一定の手順に従って仕事をすること。また、その仕事。 (ほかに: 仕事, 職業)
+WORKER	(名詞) 働く人。労働者。雇用者。→類義語: labor, employee
+WORKERS	(名詞) workerの複数形: 働く人。労働者。雇用者。→類義語: labor, employee
+WORKFORCE	(名詞) 労働力: 物を生産したり役務を提供したりするために使われる知力や体力。
+WORKFORCES	(workforceの変化形) (名詞) 労働力: 物を生産したり役務を提供したりするために使われる知力や体力。
+WORKING	(動詞) workの現在分詞: 仕事、職業、作業、勉強、研究。\n(名詞) workingの訳: ⟪働き|はたらき⟫, 活動, ワーキング
+WORKINGS	(名詞) workingの複数形: 働き、活動、ワーキング。
+WORKMAN	(名詞) 労働者: 労働を供給して、対価として賃金を受ける者のこと。
+WORKMEN	(名詞) workmanの複数形: 労働者: 労働を供給して、対価として賃金を受ける者のこと。
+WORKOUT	(名詞) 運動: 健康や趣味のために体を動かすこと。スポーツ。
+WORKOUTS	(workoutの変化形) (名詞) 運動: 健康や趣味のために体を動かすこと。スポーツ。
+WORKPLACE	(名詞) 職場。仕事場。
+WORKPLACES	(名詞) workplaceの複数形: 職場。仕事場。
+WORKROOM	(名詞) workroomの訳: 仕事部屋, 作業室
+WORKROOMS	(名詞) workroomの複数形: 仕事部屋, 作業室
+WORKS	(名詞) "work" の複数形: 作業: 体や頭脳を使い、一定の手順に従って仕事をすること。また、その仕事。 (ほかに: 仕事, 職業)\n(動詞) "work" の現在第三人称単数形。
+WORKSHOP	(名詞) 仕事場。作業場。\n(動詞) 俳優とリハーサルし、草案の修正・成果の批評をする脚本家を手伝う。
+WORKSHOPS	(名詞) workshopの複数形: 仕事場。作業場。\n(動詞) workshopの直説法現在第三人称単数形: 仕事場。作業場。
+WORKSTATION	(名詞) ワークステーション。
+WORKSTATIONS	(名詞) workstationの複数形: ワークステーション。
+WORKWOMAN	(名詞) workwomanの訳: 労働者
+WORLD	(名詞) 世界: 地球上のあらゆる場所を含んだ土地、空間。\n(形容詞) worldの訳: 世界的な
+WORLDLIER	(形容詞) "worldly" の比較級形: 現世の, この世の
+WORLDLIEST	(形容詞) "worldly" の最上級形: 現世の, この世の
+WORLDLINESS	(名詞) worldlinessの訳: ⟪世俗|せぞく⟫, 世知
+WORLDLINESSES	(名詞) worldlinessの複数形: ⟪世俗|せぞく⟫, 世知
+WORLDLY	(形容詞) worldlyの訳: 現世の, この世の\n(副詞) worldlyの訳: 現世に, 現世で
+WORLDS	(worldの変化形) (名詞) 世界: 地球上のあらゆる場所を含んだ土地、空間。
+WORLDWIDE	(形容詞) worldwideの訳: 世界的な\n(副詞) 世界的に: 物事が多くの国に関係したり世界じゅうに及ぶ規模であったりする様。国際的。
+WORM	(名詞) wormの訳: 蠕虫\n(動詞) 這うように進む。
+WORMED	(wormの変化形) (名詞) wormの訳: 蠕虫
+WORMER	(wormの変化形) (名詞) wormの訳: 蠕虫
+WORMIER	(形容詞) wormyの比較級: 虫のような
+WORMIEST	(形容詞) wormyの最上級: 虫のような
+WORMING	(wormの変化形) (名詞) wormの訳: 蠕虫
+WORMS	(wormの変化形) (名詞) wormの訳: 蠕虫
+WORMY	(形容詞) wormyの訳: 虫のような
+WORN	(動詞) wearの過去分詞: ⟪着用|ちゃくよう⟫\n(形容詞) ぼろぼろになった。
+WORRIED	(動詞) worryの過去形・過去分詞: 心配する: （しんぱいする）良くない事などが起こらないかと気に掛ける。\n(形容詞) worriedの訳: 心配している
+WORRIES	(動詞) worryの三人称単数現在形: 心配する: （しんぱいする）良くない事などが起こらないかと気に掛ける。\n(名詞) worryの複数形: 心配する: （しんぱいする）良くない事などが起こらないかと気に掛ける。
+WORRY	(動詞) 心配する: （しんぱいする）良くない事などが起こらないかと気に掛ける。\n(名詞) worryの訳: 心配
+WORRYING	(動詞) worryの現在分詞: 心配する: （しんぱいする）良くない事などが起こらないかと気に掛ける。\n(名詞) 心配させる行為。
+WORSE	(形容詞) （badの比較級）より悪い。より劣る。\n(副詞) （badlyの比較級）より悪く。より劣って。
+WORSEN	(動詞) worsenの訳: 悪化させる, 悪くする
+WORSENED	(動詞) worsenの過去形・過去分詞: 悪化させる, 悪くする
+WORSENING	(動詞) worsenの動名詞又は現在分詞: 悪化させる, 悪くする\n(名詞) worseningの訳: 悪化
+WORSENS	(動詞) worsenの直説法現在第三人称単数形: 悪化させる, 悪くする
+WORSER	(worseの変化形) (形容詞) （badの比較級）より悪い。より劣る。
+WORSES	(worseの変化形) (形容詞) （badの比較級）より悪い。より劣る。
+WORSHIP	(名詞) 崇拝: 心から敬うこと。\n(動詞) worshipの訳: 崇拝する
+WORSHIPED	(動詞) worshipの過去形・過去分詞: 崇拝: 心から敬うこと。
+WORSHIPER	(名詞) worshipperの異形。
+WORSHIPERS	(名詞) worshiperの複数形: worshipperの異形。
+WORSHIPING	(動詞) worshipの動名詞又は現在分詞: 崇拝: 心から敬うこと。\n(名詞) worshippingの異形。
+WORSHIPPED	(動詞) worshipの過去形・過去分詞: 崇拝: 心から敬うこと。
+WORSHIPPER	(名詞) worshipperの訳: 礼拝者
+WORSHIPPERS	(名詞) worshipperの複数形: 礼拝者
+WORSHIPPING	(動詞) worshipの動名詞又は現在分詞: 崇拝: 心から敬うこと。\n(名詞) 賛美: 賛美と同義。 (ほかに: 崇拝, 礼拝)
+WORSHIPS	(名詞) "worship" の複数形: 崇拝: 心から敬うこと。\n(動詞) "worship" の現在第三人称単数形。
+WORST	(形容詞) badの最上級: 悪い\n(副詞) badlyの最上級: 悪く
+WORSTED	(動詞) "worst" の過去形・過去分詞: badの最上級: 悪い
+WORSTEDS	(worstの変化形) (形容詞) badの最上級。
+WORSTING	(動詞) worstの動名詞又は現在分詞: badの最上級: 悪い
+WORSTS	(名詞) "worst" の複数形: badの最上級: 悪い\n(動詞) "worst" の現在第三人称単数形。
+WORTH	(形容詞) ～の価値がある。\n(名詞) 価値: ある人にとって、ある物又はサービスに付帯する、重要さの程度を他の物又はサービスの重要さと比較又は関係づけた概念。値打ち。 (ほかに: 有用さ)
+WORTHED	(動詞) "worth" の過去形・過去分詞: ～の価値がある。
+WORTHIER	(形容詞) worthyの比較級: 価値がある
+WORTHIES	(名詞) worthyの複数形: 価値がある\n(動詞) worthyの直説法現在第三人称単数形: 価値がある
+WORTHIEST	(形容詞) worthyの最上級: 価値がある
+WORTHILY	(副詞) 立派に。ふさわしく。
+WORTHINESS	(名詞) 価値。立派さ。
+WORTHINESSES	(名詞) worthinessの複数形: 価値。立派さ。
+WORTHING	(動詞) "worth" の動名詞又は現在分詞: ～の価値がある。
+WORTHLESS	(形容詞) つまらない: くだらない。しょうもない。大したことのない。取るに足らない。 (ほかに: 価値の無い, くだらない)
+WORTHLESSLY	(副詞) worthlesslyの訳: 無価値で, 役に立たずに
+WORTHLESSNESS	(名詞) 無価値、軽賤、無意味、無用、役に立たない性質
+WORTHLESSNESSES	(worthlessnessの変化形) (名詞) 無価値、軽賤、無意味、無用、役に立たない性質
+WORTHS	(名詞) "worth" の複数形: ～の価値がある。\n(動詞) "worth" の現在第三人称単数形。
+WORTHWHILE	(形容詞) やりがいのある、時間をかける価値のある
+WORTHY	(形容詞) worthyの訳: 価値がある\n(名詞) worthyの訳: 名士, ⟪御偉方|おえらがた⟫, 御仁
+WOST	(動詞) （主にスコットランド）"wit" の現在第二人称単数形。
+WOT	(動詞) "wit" の現在第一人称単数形。
+WOTS	(wotの変化形) (動詞) "wit" の現在第一人称単数形。
+WOTTED	(wotの変化形) (動詞) "wit" の現在第一人称単数形。
+WOTTING	(wotの変化形) (動詞) "wit" の現在第一人称単数形。
+WOULD	(動詞) （仮定法）仮定・条件に対して単純帰結を作る。
+WOULDEST	(wouldの変化形) (動詞) （仮定法）仮定・条件に対して単純帰結を作る。
+WOUND	(名詞) 傷: きず。皮膚や物の破けたり裂けたりしている部分。 (ほかに: 怪我, 傷害)\n(動詞) woundの訳: 傷つける
+WOUNDED	(動詞) "wound" の過去形・過去分詞形: 傷: きず。皮膚や物の破けたり裂けたりしている部分。 (ほかに: 怪我, 傷害)
+WOUNDING	(動詞) "wound" の動名詞又は現在分詞: 傷: きず。皮膚や物の破けたり裂けたりしている部分。 (ほかに: 怪我, 傷害)
+WOUNDS	(名詞) "wound" の複数形: 傷: きず。皮膚や物の破けたり裂けたりしている部分。 (ほかに: 怪我, 傷害)\n(動詞) "wound" の三人称単数現在形: 傷: きず。皮膚や物の破けたり裂けたりしている部分。 (ほかに: 怪我, 傷害)
+WOVE	(動詞) weaveの過去形: ～を編む
+WOVEN	(形容詞) wovenの訳: 織った\n(名詞) wovenの訳: 織物
+WOVENS	(名詞) wovenの複数形: 織った
+WOW	(感動詞) wowの訳: ⟪喜び|よろこび⟫\n(名詞) wowの訳: 大成功
+WOWED	(wowの変化形) (感動詞) wowの訳: ⟪喜び|よろこび⟫
+WOWING	(wowの変化形) (感動詞) wowの訳: ⟪喜び|よろこび⟫
+WOWS	(wowの変化形) (感動詞) wowの訳: ⟪喜び|よろこび⟫
+WRANGLE	(名詞) 論戦: 異なる意見を持つ人々が議論を戦わせること。
+WRANGLED	(wrangleの変化形) (名詞) 論戦: 異なる意見を持つ人々が議論を戦わせること。
+WRANGLES	(wrangleの変化形) (名詞) 論戦: 異なる意見を持つ人々が議論を戦わせること。
+WRANGLING	(wrangleの変化形) (名詞) 論戦: 異なる意見を持つ人々が議論を戦わせること。
+WRAP	(動詞) 包む。くるむ。\n(名詞) wrapの訳: 体を覆うもの
+WRAPPED	(動詞) wrapの過去形・過去分詞: 包む。くるむ。\n(形容詞) wrappedの訳: 包まれた, 包装された
+WRAPPER	(名詞) 包装・梱包する人。
+WRAPPERS	(名詞) wrapperの複数形: 包装・梱包する人。
+WRAPPING	(名詞) 包装材料。包装紙。\n(動詞) wrapの現在分詞: 包む。くるむ。
+WRAPPINGS	(名詞) wrappingの複数形: 包装材料。包装紙。
+WRAPS	(名詞) wrapの複数形: 包む。くるむ。\n(動詞) wrapの直説法現在第三人称単数形: 包む。くるむ。
+WRATH	(名詞) 激怒: 激しく怒ること。 (ほかに: 憤怒)\n(形容詞) wrathの訳: 激怒した
+WRATHED	(動詞) wrathの過去形・過去分詞: 激怒: 激しく怒ること。 (ほかに: 憤怒)
+WRATHFUL	(形容詞) wrathfulの訳: 激怒した
+WRATHFULLY	(副詞) wrathfullyの訳: 激怒して
+WRATHING	(動詞) wrathの現在分詞: 激怒: 激しく怒ること。 (ほかに: 憤怒)
+WRATHS	(名詞) wrathの複数形: 激怒: 激しく怒ること。 (ほかに: 憤怒)\n(動詞) wrathの直説法現在第三人称単数形: 激怒: 激しく怒ること。 (ほかに: 憤怒)
+WREATH	(名詞) 花輪: 生花や造花を綴って環状にしたもの。レイや冠など。 (ほかに: リース)\n(動詞) wreathの訳: 囲む
+WREATHE	(動詞) wreatheの訳: あむ
+WREATHED	(wreatheの変化形) (動詞) wreatheの訳: あむ
+WREATHES	(wreatheの変化形) (動詞) wreatheの訳: あむ
+WREATHING	(wreatheの変化形) (動詞) wreatheの訳: あむ
+WREATHS	(名詞) wreathの複数形: 花輪: 生花や造花を綴って環状にしたもの。レイや冠など。 (ほかに: リース)\n(動詞) wreathの直説法現在第三人称単数形: 花輪: 生花や造花を綴って環状にしたもの。レイや冠など。 (ほかに: リース)
+WRECK	(名詞) ひどく壊れたもの。\n(動詞) 壊す、破壊する、めちゃめちゃにする。
+WRECKAGE	(名詞) 残骸: 跡形も無く壊れた状態で残っている物。
+WRECKAGES	(名詞) wreckageの複数形: 残骸: 跡形も無く壊れた状態で残っている物。
+WRECKED	(形容詞) 難破した。大破した。\n(動詞) wreckの過去形・過去分詞: ひどく壊れたもの。
+WRECKING	(動詞) wreckの現在分詞: ひどく壊れたもの。\n(名詞) wreckingの訳: 破壊, 難破
+WRECKINGS	(名詞) wreckingの複数形: wreckの現在分詞。
+WRECKS	(名詞) wreckの複数形: ひどく壊れたもの。\n(動詞) wreckの直説法現在第三人称単数形: ひどく壊れたもの。
+WREN	(名詞) wrenの訳: ⟪ミソサザイ|みそさざい⟫
+WRENCH	(名詞) 捻り。捻り。[16世紀より]\n(動詞) 捻る。捻る。[13世紀より]
+WRENCHED	(動詞) wrenchの過去形・過去分詞: 捻り。捻り。[16世紀より]
+WRENCHES	(名詞) wrenchの複数形: 捻り。捻り。[16世紀より]\n(動詞) wrenchの直説法現在第三人称単数形: 捻り。捻り。[16世紀より]
+WRENCHING	(動詞) wrenchの現在分詞: 捻り。捻り。[16世紀より]\n(名詞) 捻り。捻り。
+WRENS	(名詞) wrenの複数形: ⟪ミソサザイ|みそさざい⟫
+WREST	(動詞) wrestの訳: 激しく捩じる\n(名詞) wrestの訳: 捻じり
+WRESTED	(動詞) wrestの過去形・過去分詞: 激しく捩じる
+WRESTING	(動詞) wrestの現在分詞: 激しく捩じる
+WRESTLE	(動詞) 奮闘する: 力の限り闘ったり努力したりすること。 (ほかに: 格闘する)
+WRESTLED	(動詞) "wrestle" の過去形・過去分詞: 奮闘する: 力の限り闘ったり努力したりすること。 (ほかに: 格闘する)
+WRESTLER	(名詞) レスラー、レスリング選手
+WRESTLERS	(wrestlerの変化形) (名詞) レスラー、レスリング選手
+WRESTLES	(動詞) "wrestle" の現在第三人称単数形。
+WRESTLING	(名詞) レスリング: ヨーロッパが発祥で徒手で組み合い、投げるなどで相手を倒すことを主眼とする格闘技の一種。\n(動詞) wrestleの現在分詞: 格闘する、奮闘する。
+WRESTLINGS	(wrestleの変化形) (動詞) 奮闘する: 力の限り闘ったり努力したりすること。 (ほかに: 格闘する)
+WRESTS	(動詞) wrestの直説法現在第三人称単数形: 激しく捩じる\n(名詞) wrestの複数形: 激しく捩じる
+WRETCH	(名詞) wretchの訳: 不幸な人, 不運な人
+WRETCHED	(形容詞) 哀れな。不幸な。かわいそうな。
+WRETCHEDER	(形容詞) wretchedの比較級: 哀れな。不幸な。かわいそうな。
+WRETCHEDEST	(形容詞) wretchedの最上級: 哀れな。不幸な。かわいそうな。
+WRETCHEDLY	(副詞) 哀れに。惨めに。
+WRETCHEDNESS	(名詞) 悲惨: 痛ましい様子。 (ほかに: 哀れさ, 惨めさ)
+WRETCHEDNESSES	(名詞) wretchednessの複数形: 悲惨: 痛ましい様子。 (ほかに: 哀れさ, 惨めさ)
+WRETCHES	(名詞) wretchの複数形: 不幸な人, 不運な人
+WRIED	(動詞) wryの過去形・過去分詞: ⟪ねじる⟫, ⟪よじる⟫
+WRIER	(wryの変化形) (動詞) wryの訳: ⟪ねじる⟫, ⟪よじる⟫
+WRIES	(動詞) wryの直説法現在第三人称単数形: ⟪ねじる⟫, ⟪よじる⟫
+WRIEST	(wryの変化形) (動詞) wryの訳: ⟪ねじる⟫, ⟪よじる⟫
+WRIGGLE	(動詞) 体をくねらせる。\n(名詞) モゾモゾとした動き。蠕動。
+WRIGGLED	(動詞) wriggleの過去形・過去分詞: 体をくねらせる。
+WRIGGLES	(動詞) wriggleの直説法現在第三人称単数形: 体をくねらせる。\n(名詞) wriggleの複数形: 体をくねらせる。
+WRIGGLING	(動詞) wriggleの動名詞又は現在分詞: 体をくねらせる。\n(名詞) 体をくねらせること。
+WRIGHT	(名詞) wrightの訳: ⟪職人|しょくにん⟫
+WRIGHTS	(wrightの変化形) (名詞) wrightの訳: ⟪職人|しょくにん⟫
+WRING	(動詞) wringの訳: 絞る
+WRINGED	(wringの変化形) (動詞) wringの訳: 絞る
+WRINGING	(動詞) "wring" の動名詞又は現在分詞: 絞る
+WRINGS	(動詞) "wring" の現在第三人称単数形。
+WRINKLE	(名詞) 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。\n(動詞) wrinkleの訳: 皺を作る
+WRINKLED	(形容詞) しわくちゃの: （薄いものや表面が）皺だらけであること。また、そのさま。 (ほかに: 皺の寄った)\n(動詞) wrinkleの過去形・過去分詞: 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。
+WRINKLES	(名詞) wrinkleの複数形: 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。\n(動詞) wrinkleの直説法現在第三人称単数形: 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。
+WRINKLIER	(形容詞) wrinklyの比較級: 皺の寄った。皺になりやすい。
+WRINKLIEST	(形容詞) wrinklyの最上級: 皺の寄った。皺になりやすい。
+WRINKLING	(wrinkleの変化形) (名詞) 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。
+WRINKLY	(形容詞) 皺の寄った。皺になりやすい。\n(名詞) wrinklyの訳: ⟪老人|ろうじん⟫
+WRIST	(名詞) wristの訳: 手首
+WRISTS	(名詞) wristの複数形: 手首
+WRISTWATCH	(名詞) 腕時計: （うでどけい）ベルトで手首に巻き、携帯することができる時計。
+WRISTWATCHES	(名詞) wristwatchの複数形: 腕時計: （うでどけい）ベルトで手首に巻き、携帯することができる時計。
+WRITE	(動詞) 書く: （かく）（書く）文章を記す。
+WRITER	(名詞) writerの訳: ⟪作者|さくしゃ⟫
+WRITERLY	(writerの変化形) (名詞) writerの訳: ⟪作者|さくしゃ⟫
+WRITERS	(writerの変化形) (名詞) writerの訳: ⟪作者|さくしゃ⟫
+WRITES	(動詞) writeの直説法現在第三人称単数形: 書く: （かく）（書く）文章を記す。
+WRITING	(動詞) writeの現在分詞: 書く: （かく）（書く）文章を記す。\n(名詞) writingの訳: 書くこと
+WRITINGS	(名詞) writingの複数形: writeの現在分詞: 書く: （かく）（書く）文章を記す。
+WRITTEN	(形容詞) 文書の: 文字で情報を書き記したもの。 (ほかに: 書かれた)\n(動詞) writeの過去分詞: 書く: （かく）（書く）文章を記す。
+WRONG	(形容詞) wrongの訳: 悪い\n(副詞) wrongの訳: 誤って
+WRONGDOER	(名詞) wrongdoerの訳: 悪事を働く者, 犯罪者
+WRONGDOERS	(名詞) wrongdoerの複数形: 悪事を働く者, 犯罪者
+WRONGDOING	(名詞) wrongdoingの訳: ⟪悪事|あくじ⟫, ⟪非行|ひこう⟫, 犯罪
+WRONGDOINGS	(名詞) wrongdoingの複数形: ⟪悪事|あくじ⟫, ⟪非行|ひこう⟫, 犯罪
+WRONGED	(動詞) wrongの過去形・過去分詞: 悪い
+WRONGER	(形容詞) "wrong" の比較級: 悪い\n(名詞) wrongする人。
+WRONGERS	(名詞) "wronger" の複数形: "wrong" の比較級: 悪い
+WRONGEST	(形容詞) "wrong" の最上級: 悪い
+WRONGFUL	(形容詞) 不当な: 道理に合わないこと。妥当でないこと。公正でないこと。 (ほかに: 不正な)
+WRONGFULLY	(副詞) 不当に: 道理に合わないこと。妥当でないこと。公正でないこと。 (ほかに: 不正に)
+WRONGFULNESS	(名詞) "wrongful" の名詞形。
+WRONGFULNESSES	(名詞) "wrongfulness" の複数形: "wrongful" の名詞形。
+WRONGING	(動詞) "wrong" の動名詞又は現在分詞: 悪い
+WRONGLY	(副詞) 不当に: 道理に合わないこと。妥当でないこと。公正でないこと。 (ほかに: 不正に)
+WRONGNESS	(名詞) 過誤: 仕損じ。過ち。誤り。
+WRONGNESSES	(名詞) wrongnessの複数形: 過誤: 仕損じ。過ち。誤り。
+WRONGS	(名詞) wrongの複数形: 悪い\n(動詞) wrongの現在第三人称単数形。
+WROTE	(動詞) write の過去形: 書く
+WROTH	(形容詞) wrothの訳: 激怒した
+WROUGHT	(形容詞) 作り出された。（鉄などが）打ち出された（wrought iron:錬鉄）。
+WRUNG	(動詞) "wring" の過去形・過去分詞形: 絞る
+WRY	(動詞) wryの訳: ⟪ねじる⟫, ⟪よじる⟫\n(形容詞) wryの訳: 曲がった
+WRYER	(形容詞) "wry" の比較級形: ⟪ねじる⟫, ⟪よじる⟫\n(名詞) wryerの訳: wryする人
+WRYEST	(形容詞) "wry" の最上級形: ⟪ねじる⟫, ⟪よじる⟫
+WRYING	(動詞) wryの動名詞又は現在分詞: ⟪ねじる⟫, ⟪よじる⟫
+WYN	(名詞) wynnの異綴。
+WYNS	(wynの変化形) (名詞) wynnの異綴。
+WYVERN	(名詞) wyvernの訳: ワイバーン
+WYVERNS	(wyvernの変化形) (名詞) wyvernの訳: ワイバーン

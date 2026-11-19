@@ -1,0 +1,356 @@
+QUAL	(代名詞) cualの廃用。
+QUANDO	(副詞) cuandoの廃用。\n(接続詞) cuandoの廃用。
+QUARK	(名詞) quarkの訳: クォーク
+QUE	(接続詞) queの訳: ということ\n(代名詞) queの訳: 何, ⟪どんな⟫
+QUEBRABA	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRABAN	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRACHO	(名詞) 赤系統の木材やタンニンを得られる特定の南米産高木。
+QUEBRADA	(名詞) 峡谷: 切り立った崖などに挟まれた狭い谷。キャニオン。 (ほかに: 氷塊, 渓谷)
+QUEBRADAS	(quebradoの変化形) (名詞) 分数: 分の数。秒数の60分の1。
+QUEBRADIZA	(quebradizoの変化形) (形容詞) もろい: （組織などが崩れるさまが）あっけない。はかない。
+QUEBRADIZAS	(quebradizoの変化形) (形容詞) もろい: （組織などが崩れるさまが）あっけない。はかない。
+QUEBRADIZO	(形容詞) もろい: （組織などが崩れるさまが）あっけない。はかない。
+QUEBRADIZOS	(quebradizoの変化形) (形容詞) もろい: （組織などが崩れるさまが）あっけない。はかない。
+QUEBRADO	(名詞) 分数: 分の数。秒数の60分の1。
+QUEBRADURA	(名詞) 一杯一杯: 一杯ごと。一杯ずつ。 (ほかに: 間断, 休憩)
+QUEBRAMOS	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRANTA	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTADA	(quebrantadoの変化形) (形容詞) quebrantadoの訳: 壊れた, 割れた, 故障した
+QUEBRANTADAS	(quebrantadoの変化形) (形容詞) quebrantadoの訳: 壊れた, 割れた, 故障した
+QUEBRANTADO	(形容詞) quebrantadoの訳: 壊れた, 割れた, 故障した
+QUEBRANTADOS	(quebrantadoの変化形) (形容詞) quebrantadoの訳: 壊れた, 割れた, 故障した
+QUEBRANTAIS	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTAMIENTO	(名詞) 違反: （いはん）規則や法令に背くこと。 (ほかに: 違約)
+QUEBRANTAMOS	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTAN	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTAR	(動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTARA	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTARAN	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTARAS	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTARE	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTAREMOS	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTARIA	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTARON	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTAS	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTASTE	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTE	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTEN	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTES	(quebrantarの変化形) (動詞) おる: 力を加えて曲げる、切断する。 (ほかに: こわれる, こわす)
+QUEBRANTO	(名詞) 一杯一杯: 一杯ごと。一杯ずつ。 (ほかに: 間断, 休憩)
+QUEBRANTOS	(quebrantoの変化形) (名詞) 一杯一杯: 一杯ごと。一杯ずつ。 (ほかに: 間断, 休憩)
+QUEBRAR	(動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARA	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARAMOS	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARAN	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARAS	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARE	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRAREMOS	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARIA	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARIAN	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRARON	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRASE	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRASTE	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRE	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBREMOS	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUEBRO	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUECHUA	(名詞) ケチュア語: ケチュア語族に属し、南米ボリビア、ペルー、エクアドル、チリ北部、コロンビア南部などで使用され、ボリビアとペルーでは公用語のひとつとなっている言語。過去にはインカ帝国において公用語であった。 (ほかに: ケチュア)
+QUEDABA	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDABAIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDABAMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDABAN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDABAS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAD	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDADA	(名詞) 会議: （サ変）複数の人が集まって、特定の題目について行う話し合い。またはその場所、時間。単に相談をするだけでなく、正式、公式なニュアンスが含まれる。 (ほかに: ふれあい, 総会)
+QUEDADAS	(quedadaの変化形) (名詞) 会議: （サ変）複数の人が集まって、特定の題目について行う話し合い。またはその場所、時間。単に相談をするだけでなく、正式、公式なニュアンスが含まれる。 (ほかに: ふれあい, 総会)
+QUEDAIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAOS	(quedarseの変化形) (動詞) のこる: 決められた距離や時間の一部が余る。 (ほかに: うれのこる, いきのこる)
+QUEDAR	(動詞) 位置する: （いちする）その場所にある。
+QUEDARA	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARAIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARAMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARAN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARAS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARE	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAREIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAREMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDAREN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARIA	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARIAIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARIAMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARIAN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARIAS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARON	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDARSE	(動詞) のこる: 決められた距離や時間の一部が余る。 (ほかに: うれのこる, いきのこる)
+QUEDAS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASE	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASEIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASEMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASEN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASES	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASTE	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDASTEIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDATE	(quedarseの変化形) (動詞) のこる: 決められた距離や時間の一部が余る。 (ほかに: うれのこる, いきのこる)
+QUEDE	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDEIS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDEMONOS	(quedarseの変化形) (動詞) のこる: 決められた距離や時間の一部が余る。 (ほかに: うれのこる, いきのこる)
+QUEDEMOS	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDEN	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDENSE	(quedarseの変化形) (動詞) のこる: 決められた距離や時間の一部が余る。 (ほかに: うれのこる, いきのこる)
+QUEDES	(quedarの変化形) (動詞) 位置する: （いちする）その場所にある。
+QUEDESE	(quedarseの変化形) (動詞) のこる: 決められた距離や時間の一部が余る。 (ほかに: うれのこる, いきのこる)
+QUEER	(形容詞) queerの訳: クィア
+QUEHACER	(名詞) 事務: オフィスの机の上で行う仕事 (ほかに: 二人三脚, しごと)
+QUEHACERES	(quehacerの変化形) (名詞) 事務: オフィスの机の上で行う仕事 (ほかに: 二人三脚, しごと)
+QUEJA	(名詞) 不満: 満足していないこと及びその感情の表明、不平。
+QUEJAOS	(quejarseの変化形) (動詞) うめく: 嘆息する。溜息をつく。 (ほかに: うなる)
+QUEJARSE	(動詞) うめく: 嘆息する。溜息をつく。 (ほかに: うなる)
+QUEJAS	(quejaの変化形) (名詞) 不満: 満足していないこと及びその感情の表明、不平。
+QUEJATE	(quejarseの変化形) (動詞) うめく: 嘆息する。溜息をつく。 (ほかに: うなる)
+QUEJENSE	(quejarseの変化形) (動詞) うめく: 嘆息する。溜息をつく。 (ほかに: うなる)
+QUEJESE	(quejarseの変化形) (動詞) うめく: 嘆息する。溜息をつく。 (ほかに: うなる)
+QUEJO	(名詞) あご: 人間をはじめとする動物の口の上下にある、口を開閉する部分。
+QUELONIO	(名詞) 亀: （かめ）爬虫類の一種で、甲羅を有する。 (ほかに: かめ, うみがめ)
+QUELTEHUE	(名詞) queltehueの訳: ナンベイゲリ
+QUEMA	(名詞) ひ: 物が燃えるときに出る光や熱。 (ほかに: くび, 聖火)
+QUEMABA	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMABAMOS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMABAN	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMABAS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMAD	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMADA	(名詞) 焼け焦げ: 焼けたり燃えたりして焦げること。また、その跡。 (ほかに: 焼死, やけど)
+QUEMADURA	(名詞) やけど: 高温で皮膚が損傷すること。またその痕。化学物質や放射線、強い光線などによる損傷のこともいう。
+QUEMADURAS	(quemaduraの変化形) (名詞) やけど: 高温で皮膚が損傷すること。またその痕。化学物質や放射線、強い光線などによる損傷のこともいう。
+QUEMAIS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMAMOS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMAN	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMAOS	(quemarseの変化形) (動詞) やく: あるものに火をつけて燃やす。燃焼させる。 (ほかに: もえる, 燃やす)
+QUEMAR	(動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く\n(名詞) 焼け焦げ: 焼けたり燃えたりして焦げること。また、その跡。 (ほかに: 焼死, やけど)
+QUEMARA	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARAMOS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARAN	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARAS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARE	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMAREIS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMAREMOS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARIA	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARIAMOS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARIAN	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARIAS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARON	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMARSE	(動詞) やく: あるものに火をつけて燃やす。燃焼させる。 (ほかに: もえる, 燃やす)
+QUEMAS	(quemaの変化形) (名詞) ひ: 物が燃えるときに出る光や熱。 (ほかに: くび, 聖火)
+QUEMASE	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMASEN	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMASTE	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMASTEIS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMATE	(quemarseの変化形) (動詞) やく: あるものに火をつけて燃やす。燃焼させる。 (ほかに: もえる, 燃やす)
+QUEME	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMEIS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMEMOS	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMEN	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMENSE	(quemarseの変化形) (動詞) やく: あるものに火をつけて燃やす。燃焼させる。 (ほかに: もえる, 燃やす)
+QUEMES	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEMO	(quemarの変化形) (動詞) quemarの訳: ⟪もえる⟫, やく, ⟪燃やす|もやす⟫, 焼く
+QUEPA	(caberの変化形) (動詞) はまる: （耽る）夢中になる。
+QUEPAMOS	(caberの変化形) (動詞) はまる: （耽る）夢中になる。
+QUEPAN	(caberの変化形) (動詞) はまる: （耽る）夢中になる。
+QUEPAS	(caberの変化形) (動詞) はまる: （耽る）夢中になる。
+QUEPIS	(名詞) quepisの訳: ケピ帽
+QUEPO	(caberの変化形) (動詞) はまる: （耽る）夢中になる。
+QUEQUE	(名詞) ケーキ: 洋菓子の一種で小麦粉、油脂類、卵、砂糖、牛乳、香料等を混ぜ合わせた生地をオーブンで焼いたスポンジケーキ、バターケーキ、パイ生地等を土台に各種のクリーム、果物、ムース、ババロア、チョコレート等を乗せたもの等の生菓子の総称 (ほかに: 金銭)
+QUERAIS	(動詞) quererの命令法禁止非公式第二人称複数形: 望む。欲する。願う。
+QUERAMOS	(動詞) quererの命令法第一人称複数形: 望む。欲する。願う。
+QUERAS	(quererの変化形) (動詞) 望む。欲する。願う。
+QUERATINA	(名詞) ケラチン: 毛、爪、うろこなどの角質層を形成する、蛋白質のひとつ。
+QUERE	(quererの変化形) (動詞) 望む。欲する。願う。
+QUEREIS	(動詞) querer の直説法現在第二人称複数形: 望む。欲する。願う。
+QUERELLA	(名詞) 訴訟: 嘆願すること。言い訳すること。 (ほかに: 裁判)
+QUERELLANTE	(名詞) 原告: 民事訴訟において、訴えを起こした側の当事者のこと。
+QUERELLANTES	(querellanteの変化形) (名詞) 原告: 民事訴訟において、訴えを起こした側の当事者のこと。
+QUERELLARSE	(動詞) うったえる: 他人の理解などを強く期待して、苦しみなどを言い知らせる。
+QUERELLAS	(querellaの変化形) (名詞) 訴訟: 嘆願すること。言い訳すること。 (ほかに: 裁判)
+QUERELLE	(querellarseの変化形) (動詞) うったえる: 他人の理解などを強く期待して、苦しみなどを言い知らせる。
+QUEREMOS	(動詞) querer の直説法現在第一人称複数形: 望む。欲する。願う。
+QUERENCIA	(名詞) すき: （「すきで」の形で）思うまま。自由意志。かって。
+QUERENDON	(名詞) おんな: (なんじ 古典)汝。 (ほかに: 愛人, こいびと)
+QUERER	(動詞) 望む。欲する。願う。\n(名詞) 愛。愛情。
+QUERES	(quererの変化形) (動詞) 望む。欲する。願う。
+QUERIA	(動詞) querer の直説法不完了過去第一・第三人称単数形: 望む。欲する。願う。
+QUERIAIS	(動詞) quererの直説法不完了過去非公式第二人称複数形: 望む。欲する。願う。
+QUERIAMOS	(動詞) querer の直説法不完了過去第一人称複数形: 望む。欲する。願う。
+QUERIAN	(動詞) quererの直説法不完了過去公式第二人称複数形: 望む。欲する。願う。
+QUERIAS	(動詞) quererの直説法不完了過去非公式第二人称単数形: 望む。欲する。願う。
+QUERIDA	(名詞) 蜂蜜: 《流通》 語義1の蜂蜜をそのまま利用する天然甘味料。
+QUERIDAS	(queridoの変化形) (形容詞) queridoの訳: ⟪いとしい⟫, ⟪いとおしい⟫, ⟪なつかしい⟫, 拝啓
+QUERIDO	(形容詞) queridoの訳: ⟪いとしい⟫, ⟪いとおしい⟫, ⟪なつかしい⟫, 拝啓\n(名詞) 愛人: 愛する人。恋人。 (ほかに: 彼女, こいびと)
+QUERIDOS	(queridoの変化形) (形容詞) queridoの訳: ⟪いとしい⟫, ⟪いとおしい⟫, ⟪なつかしい⟫, 拝啓
+QUERIENDO	(動詞) quererの現在分詞: 望む。欲する。願う。
+QUEROSENO	(名詞) 灯油: 灯火に使用される油。
+QUERRA	(動詞) quererの直説法未来公式第二人称単数形: 望む。欲する。願う。
+QUERRAN	(動詞) quererの直説法未来公式第二人称複数形: 望む。欲する。願う。
+QUERRAS	(動詞) quererの直説法未来非公式第二人称単数形: 望む。欲する。願う。
+QUERRE	(動詞) quererの直説法未来第一人称単数形: 望む。欲する。願う。
+QUERREIS	(動詞) quererの直説法未来非公式第二人称複数形: 望む。欲する。願う。
+QUERREMOS	(動詞) quererの直説法未来第一人称複数形: 望む。欲する。願う。
+QUERRIA	(動詞) quererの過去未来・可能法第一人称単数形: 望む。欲する。願う。
+QUERRIAIS	(動詞) querer過去未来・可能法非公式第二人称複数形: 望む。欲する。願う。
+QUERRIAMOS	(動詞) querer過去未来・可能法第一人称複数形: 望む。欲する。願う。
+QUERRIAN	(動詞) quererの過去未来・可能法公式第二人称複数形: 望む。欲する。願う。
+QUERRIAS	(動詞) querer過去未来・可能法非公式第二人称単数形: 望む。欲する。願う。
+QUERUBIN	(名詞) 智天使: キリスト教などのある学派における、天使の階層の一つ。又はその階層に属する天使。ケルブ、ケルビム。
+QUERUBINES	(querubinの変化形) (名詞) 智天使: キリスト教などのある学派における、天使の階層の一つ。又はその階層に属する天使。ケルブ、ケルビム。
+QUESILLO	(名詞) quesilloの訳: クォーク
+QUESO	(名詞) チーズ: 乳製品の一つ。凝固、発酵などの加工をしてつくられる。
+QUESOS	(quesoの変化形) (名詞) チーズ: 乳製品の一つ。凝固、発酵などの加工をしてつくられる。
+QUEVEDOS	(名詞) quevedosの訳: 鼻メガネ
+QUICHE	(名詞) quicheの訳: キチェ語
+QUICHES	(quicheの変化形) (名詞) quicheの訳: キチェ語
+QUICIO	(名詞) ヒンジ: 蝶番。 (ほかに: 蝶番)
+QUID	(名詞) 要綱: 要をなす事柄をまとめたもの。 (ほかに: 主旨, 剣山)
+QUIDAM	(名詞) ゼロ: 零。無を表す数。正でも負でもない数。
+QUIEBRA	(名詞) 谿谷: 谷。「谿」は「渓」の異体字で、「たに」「たにがわ」の意。 (ほかに: 渓谷)
+QUIEBRAN	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUIEBRAS	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUIEBRE	(名詞) 破断: 金属などの材料に亀裂などが生じ、千切れること。
+QUIEBREN	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUIEBRES	(quebrarの変化形) (動詞) こわす: (壊す・毀す)砕いたり破ったりする (ほかに: おる, こわれる)
+QUIEN	(代名詞) だれ: （人称代名詞不定称）どの人。この世のどの人。
+QUIENES	(代名詞) だれ: （人称代名詞不定称）どの人。この世のどの人。
+QUIERA	(動詞) quererの命令法公式第二人称単数形: 望む。欲する。願う。
+QUIERAN	(動詞) quererの命令法公式第二人称複数形: 望む。欲する。願う。
+QUIERAS	(動詞) quererの命令法禁止非公式第二人称単数形: 望む。欲する。願う。
+QUIERE	(動詞) querer の直説法現在第三人称単数形: 望む。欲する。願う。
+QUIEREN	(動詞) querer の直説法現在第三人称複数形: 望む。欲する。願う。
+QUIERES	(動詞) quererの直説法現在非公式第二人称単数形: 望む。欲する。願う。
+QUIERO	(動詞) querer の直説法現在第一人称単数形: 望む。欲する。願う。
+QUIESCENCIA	(名詞) 静止: 動かず止まっている事。
+QUIETA	(quietoの変化形) (形容詞) quietoの訳: 静かな
+QUIETAS	(quietoの変化形) (形容詞) quietoの訳: 静かな
+QUIETE	(名詞) 一杯一杯: 一杯ごと。一杯ずつ。 (ほかに: 間断, 休憩)
+QUIETISMO	(名詞) quietismoの訳: ⟪静止|じっと⟫, ⟪静寂|しじま⟫, 静謐
+QUIETO	(形容詞) quietoの訳: 静かな\n(動詞) quietarの直説法現在第一人称単数形。
+QUIETOS	(quietoの変化形) (形容詞) quietoの訳: 静かな
+QUIETUD	(名詞) 静けさ: 静かであること。また、その程度。 (ほかに: 平穏)
+QUIJADA	(名詞) あご: 人間をはじめとする動物の口の上下にある、口を開閉する部分。
+QUIJADAS	(quijadaの変化形) (名詞) あご: 人間をはじめとする動物の口の上下にある、口を開閉する部分。
+QUIJOTE	(名詞) チャンピオン: 戦士、闘士、選手。 (ほかに: 優勝者, 王者)
+QUIJOTES	(quijoteの変化形) (名詞) チャンピオン: 戦士、闘士、選手。 (ほかに: 優勝者, 王者)
+QUILATE	(名詞) 品位: （ひんい）鉱石の中に含まれているの金属の割合。
+QUILATES	(quilateの変化形) (名詞) 品位: （ひんい）鉱石の中に含まれているの金属の割合。
+QUILLA	(名詞) キール: 船底を貫通する部材。竜骨。
+QUILLAS	(quillaの変化形) (名詞) キール: 船底を貫通する部材。竜骨。
+QUILOGRAMO	(名詞) キログラム: 質量の単位。国際単位系における基本単位で、「国際キログラム原器の質量」と定義されていた。しばしば、キロと略して用いられる。
+QUILOMBO	(名詞) quilomboの訳: 売春宿
+QUILOMBOS	(quilomboの変化形) (名詞) quilomboの訳: 売春宿
+QUILOMETRO	(名詞) kilómetroの異綴。
+QUILOMETROS	(名詞) quilómetroの複数形: kilómetroの異綴。
+QUILTRO	(名詞) 雑犬: 雑種の犬。 (ほかに: 雑種, ハーフ)
+QUIMA	(名詞) えだ: 植物の幹から分かれ出た部分 (ほかに: 樹枝, 分家)
+QUIMBOMBO	(名詞) オクラ: アオイ科トロロアオイ属に属する多年草の一種またはその果実。学名: Abelmoschus esculentus。 (ほかに: アメリカネリ)
+QUIMICA	(名詞) 化学: 物質の性質や反応を研究する自然科学の一分野。
+QUIMICAS	(形容詞) químicoの女性複数形\n(名詞) químicaの複数形: 化学: 物質の性質や反応を研究する自然科学の一分野。
+QUIMICO	(名詞) 化学者: 化学を研究する科学者。ケミスト。\n(形容詞) quimicoの訳: 化学の
+QUIMICOS	(形容詞) químicoの男性複数形\n(名詞) químicoの複数形: 化学者: 化学を研究する科学者。ケミスト。
+QUIMIOTAXIA	(名詞) quimiotaxiaの訳: 走化性
+QUINA	(名詞) quinaの訳: キニーネ
+QUINCE	(数詞) 十五: 15、とおあまりいつつ。十に五を足した数。もしくは三に五を乗じた数。
+QUINCEAVA	(quinceavoの変化形) (名詞) 十五度: 回数が十五であること。十五回。とおあまりいつたび。
+QUINCEAVO	(名詞) 十五度: 回数が十五であること。十五回。とおあまりいつたび。
+QUINCEAÑERAS	(quinceañeroの変化形) (名詞) 十代: 十歳から十九歳までの年齢。
+QUINCEAÑERO	(名詞) 十代: 十歳から十九歳までの年齢。
+QUINCEAÑEROS	(quinceañeroの変化形) (名詞) 十代: 十歳から十九歳までの年齢。
+QUINCENA	(名詞) 時代: 進行中の時間区分である現在。 (ほかに: 三寒四温, 老後)
+QUINCENAS	(quincenaの変化形) (名詞) 時代: 進行中の時間区分である現在。 (ほかに: 三寒四温, 老後)
+QUINCUAGESIMA	(quincuagesimoの変化形) (数詞) quincuagesimoの訳: 五番目十番目
+QUINCUAGESIMO	(数詞) quincuagesimoの訳: 五番目十番目
+QUINGENTESIMO	(数詞) quingentesimoの訳: 第五百\n(名詞) quingentesimoの訳: 第五百
+QUINIENTOS	(数詞) 五百: 100の五倍。500。
+QUININA	(名詞) キニーネ: キナの樹皮から精製される無色で結晶のアルカロイド。苦味があり健胃剤、解熱剤などに使用され、マラリアの治療薬。
+QUINOTO	(名詞) quinotoの訳: ⟪キンカン|きんかん⟫
+QUINOTOS	(quinotoの変化形) (名詞) quinotoの訳: ⟪キンカン|きんかん⟫
+QUINQUENAL	(形容詞) quinquenalの訳: 五年毎の
+QUINQUENALES	(形容詞) quinquenalの複数形: 五年毎の
+QUINQUI	(名詞) quinquiの訳: 詐欺師
+QUINTA	(名詞) quintaの訳: 第五
+QUINTANA	(名詞) quintanaの訳: ⟪農家|のうか⟫
+QUINTAS	(quintaの変化形) (名詞) quintaの訳: 第五
+QUINTILLIZAS	(quintillizoの変化形) (名詞) いつつご: 同じ日に同じ両親から生まれた五人の子供。 (ほかに: 五生児)
+QUINTILLIZO	(名詞) いつつご: 同じ日に同じ両親から生まれた五人の子供。 (ほかに: 五生児)
+QUINTILLIZOS	(quintillizoの変化形) (名詞) いつつご: 同じ日に同じ両親から生まれた五人の子供。 (ほかに: 五生児)
+QUINTO	(形容詞) 五番目の。第五の。\n(名詞) quintoの訳: 五分の一
+QUINTOS	(形容詞) quintoの男性複数形。\n(名詞) quintoの複数形: 五番目の。第五の。
+QUINTUPLE	(形容詞) 五倍の。五重の。
+QUINTUPLO	(形容詞) 五倍の。五重の。
+QUIOSCO	(名詞) quioscoの訳: キヨスク, コンビニエンスストア, 売店
+QUIOSCOS	(quioscoの変化形) (名詞) quioscoの訳: キヨスク, コンビニエンスストア, 売店
+QUIQUIRIQUI	(名詞) コケコッコ: （にわとり）（とり）鶏肉の略称。
+QUIRALIDAD	(名詞) quiralidadの訳: キラリティー
+QUIROMANCIA	(名詞) 手相占い: 語義1の占いを行う人。手相見。 (ほかに: 手相)
+QUIROMANTICA	(quiromanticoの変化形) (名詞) 手相見: 手相占いを行う人。 (ほかに: 手相占い)
+QUIROMANTICO	(名詞) 手相見: 手相占いを行う人。 (ほかに: 手相占い)
+QUIRQUINCHO	(名詞) quirquinchoの訳: アルマジロ
+QUISCO	(名詞) サボテン: ナデシコ目サボテン科に属する植物の総称。
+QUISE	(動詞) querer の直説法完了過去第一人称単数形: 望む。欲する。願う。
+QUISICOSA	(名詞) quisicosaの訳: ⟪ふるい⟫
+QUISIERA	(動詞) quererの接続法過去第一人称単数形: 望む。欲する。願う。
+QUISIERAIS	(動詞) quererの接続法過去非公式第二人称複数形: 望む。欲する。願う。
+QUISIERAMOS	(動詞) quererの接続法過去第一人称複数形: 望む。欲する。願う。
+QUISIERAN	(動詞) quererの接続法過去公式第二人称複数形: 望む。欲する。願う。
+QUISIERAS	(動詞) quererの接続法過去非公式第二人称単数形: 望む。欲する。願う。
+QUISIERE	(動詞) quererの接続法未来第一人称単数形: 望む。欲する。願う。
+QUISIEREMOS	(動詞) quererの接続法未来第一人称複数形: 望む。欲する。願う。
+QUISIEREN	(動詞) quererの接続法未来公式第二人称複数形: 望む。欲する。願う。
+QUISIERES	(動詞) quererの接続法未来非公式第二人称単数形: 望む。欲する。願う。
+QUISIERON	(動詞) querer の直説法完了過去第三人称複数形: 望む。欲する。願う。
+QUISIESE	(動詞) quererの接続法過去第一人称単数形: 望む。欲する。願う。
+QUISIESEMOS	(動詞) quererの接続法過去第一人称複数形: 望む。欲する。願う。
+QUISIESEN	(動詞) quererの接続法過去公式第二人称複数形: 望む。欲する。願う。
+QUISIESES	(動詞) quererの接続法過去非公式第二人称単数形: 望む。欲する。願う。
+QUISIMOS	(動詞) quererの直説法完了過去第一人称複数形: 望む。欲する。願う。
+QUISISTE	(動詞) quererの直説法完了過去非公式第二人称単数形: 望む。欲する。願う。
+QUISISTEIS	(動詞) quererの直説法完了過去非公式第二人称複数形: 望む。欲する。願う。
+QUISO	(動詞) quererの直説法完了過去公式第二人称単数形: 望む。欲する。願う。
+QUISQUILLOSA	(quisquillosoの変化形) (形容詞) おこりっぽい: すぐに怒る性質・性格だ。
+QUISQUILLOSAS	(quisquillosoの変化形) (形容詞) おこりっぽい: すぐに怒る性質・性格だ。
+QUISQUILLOSO	(形容詞) おこりっぽい: すぐに怒る性質・性格だ。
+QUISQUILLOSOS	(quisquillosoの変化形) (形容詞) おこりっぽい: すぐに怒る性質・性格だ。
+QUITABA	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITABAMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITABAN	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITABAS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAD	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAIS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAMIEDOS	(名詞) ガードレール: 転落防止のために道路脇に設置されたり、事故防止のために車道と歩道の間に設置されたりする金属製の柵。
+QUITAMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAN	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAR	(名詞) 廃止: 何かをもらうこと。頂戴すること。\n(動詞) quitarの訳: ⟪とりのぞく⟫
+QUITARA	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARAMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARAN	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARAS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARE	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAREIS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAREMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARIA	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARIAMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARIAN	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARIAS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITARON	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITAS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITASE	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITASEMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITASEN	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITASES	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITASTE	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITASTEIS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITE	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITEIS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITEMOS	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITEN	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITES	(quitarの変化形) (名詞) 廃止: 何かをもらうこと。頂戴すること。
+QUITO	(形容詞) 自由: 他のものから拘束・支配を受けないで、そのもののあるがままにあること。きまま。
+QUIZA	(副詞) 多分。恐らく。
+QUIZAS	(副詞) 多分。恐らく。
+QUORUM	(名詞) 定数: 決まっている運命。 (ほかに: 定足数)

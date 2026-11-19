@@ -1,0 +1,1911 @@
+FABRICA	(ad) üretimevi: fabrika. (ayrıca: fabrika)
+FABRICAM	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAMOS	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICANDO	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICANTE	(ad) imalatçı: imalat yapan kişi (ayrıca: üretici)
+FABRICAR	(eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICARA	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICARAM	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICARAO	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAREI	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAREM	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAREMOS	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICARIA	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICARMOS	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAS	(ad) çoğul çekimi: fábrica
+FABRICASSE	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICASSEM	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAVA	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAVAM	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAVAMOS	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRICAÇAO	(ad) imal: ham maddeyi işleyip mal üretme
+FABRICAÇOES	(ad) çoğul çekimi: fabricação
+FABRICOU	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRIQUE	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRIQUEI	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRIQUEM	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABRIQUEMOS	(fabricar sözcüğünün çekimi) (eylem) örmek: duvar yapmak veya onarmak (ayrıca: inşa etmek)
+FABULA	(ad) fabula kelimesinin karşılığı: ⟪fabl|FABL⟫
+FABULOSA	(fabuloso sözcüğünün çekimi) (sıfat) harika: olağanüstü (ayrıca: ulu)
+FABULOSAS	(fabuloso sözcüğünün çekimi) (sıfat) harika: olağanüstü (ayrıca: ulu)
+FABULOSO	(sıfat) harika: olağanüstü (ayrıca: ulu)
+FABULOSOS	(fabuloso sözcüğünün çekimi) (sıfat) harika: olağanüstü (ayrıca: ulu)
+FACA	(ad) faca kelimesinin karşılığı: ⟪bıçak|BIÇAK⟫
+FACADA	(ad) hakaret: onur kırma, onura dokunma
+FACAS	(ad) çoğul çekimi: faca
+FACCIOSO	(sıfat) faccioso kelimesinin karşılığı: ⟪asi|ASİ⟫
+FACE	(ad) face kelimesinin karşılığı: ⟪yanak|YANAK⟫
+FACECIA	(ad) facecia kelimesinin karşılığı: ⟪şaka|ŞAKA⟫
+FACEIRO	(sıfat) şık: güzel, modaya uygun giyinmiş olan (ayrıca: zarif)
+FACEIS	(facil sözcüğünün çekimi) (sıfat) kolay: sıkıntı çekmeden, yorulmadan yapılabilen, emeksiz, zahmetsiz, güç ve zor karşıtı
+FACES	(face sözcüğünün çekimi) (ad) face kelimesinin karşılığı: ⟪yanak|YANAK⟫
+FACETA	(ad) façeta: elmasın yontulmuş yüzlerinden her biri (ayrıca: faset)
+FACETAS	(faceta sözcüğünün çekimi) (ad) façeta: elmasın yontulmuş yüzlerinden her biri (ayrıca: faset)
+FACETO	(sıfat) nükteli: nükte ile süslenmiş, nüktesi olan, esprili
+FACHO	(ad) meşale: ucunda, alev çıkararak yanıcı bir madde bulunan, aydınlatmaya yarayan değnek (ayrıca: el feneri)
+FACHOS	(facho sözcüğünün çekimi) (ad) meşale: ucunda, alev çıkararak yanıcı bir madde bulunan, aydınlatmaya yarayan değnek (ayrıca: el feneri)
+FACIL	(sıfat) kolay: sıkıntı çekmeden, yorulmadan yapılabilen, emeksiz, zahmetsiz, güç ve zor karşıtı
+FACILIDADE	(ad) kolaylık: kolay olma durumu (ayrıca: sefa, kolay)
+FACILIMO	(facil sözcüğünün çekimi) (sıfat) kolay: sıkıntı çekmeden, yorulmadan yapılabilen, emeksiz, zahmetsiz, güç ve zor karşıtı
+FACILITA	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITADO	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAM	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAMOS	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITANDO	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAR	(eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITARA	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITARAM	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITARAO	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAREI	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAREM	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAREMOS	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITARIA	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITARIAM	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITARMOS	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITASSE	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAVA	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITAVAM	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITE	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITEI	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITEM	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITEMOS	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITO	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILITOU	(facilitar sözcüğünün çekimi) (eylem) yol: Uyulan ilke. (ayrıca: yardım etmek)
+FACILMENTE	(zarf) kolayca: Sıkıntı çekmeden; kolay, kolay kolay, asan
+FACINHO	(facil sözcüğünün çekimi) (sıfat) kolay: sıkıntı çekmeden, yorulmadan yapılabilen, emeksiz, zahmetsiz, güç ve zor karşıtı
+FACINORA	(sıfat) suçlu: suç işlemiş, suç olan, kabahatli, mücrim\n(ad) adi suçlu: basit suçları işleyen kimse (ayrıca: mücrim, suikastçı)
+FACTICIO	(sıfat) sahte: (mecaz) yapmacık (ayrıca: yapay, yapma)
+FACTO	(ad) olgu: yapılan iş, gözlenebilen bir olay (ayrıca: hakikat)
+FACTOR	(ad) etken: etki eden şey, faktör (ayrıca: faktör, etmen)
+FACTOS	(ad) çoğul çekimi: facto
+FACTUAL	(sıfat) somut: madde üzerinde niteliği veya fiziksel eylemi olabilen
+FACULDADE	(ad) yeti: insanda bulunan, bir şey yapabilme yeteneği, meleke (ayrıca: fakülte, his)
+FACULDADES	(ad) çoğul çekimi: faculdade
+FACULTAR	(eylem) sağlamak: elde etmek, sahip olmak (ayrıca: beslemek, karşılamak)
+FACÇAO	(ad) facçao kelimesinin karşılığı: ⟪nifak|NİFAK⟫
+FACÇOES	(ad) çoğul çekimi: facção
+FADA	(ad) peri: çok güzel, alımlı, becerikli kadın
+FADAS	(fada sözcüğünün çekimi) (ad) peri: çok güzel, alımlı, becerikli kadın
+FADIGA	(ad) yorgunluk: çalışma vb. sebeplerle bireyin ruh ve beden etkinlikleri açısından verimlilik düzeyinin azalması, bitaplık
+FADIGAR	(eylem) yormak: yorgun duruma getirmek. (ayrıca: yorulmak)
+FADIGAS	(fadiga sözcüğünün çekimi) (ad) yorgunluk: çalışma vb. sebeplerle bireyin ruh ve beden etkinlikleri açısından verimlilik düzeyinin azalması,...
+FADO	(ad) kader: ezelî takdir (ayrıca: yazgı, takdir)
+FADOS	(ad) çoğul çekimi: fado
+FAGACEAS	(ad) fagaceas kelimesinin karşılığı: ⟪kayıngiller|KAYINGİLLER⟫
+FAGOCITAR	(eylem) soğurmak: Soğurma yoluyla bir gazı içine almak; massetmek, absorbe etmek (ayrıca: absorbe etmek)
+FAGOCITO	(ad) fagocito kelimesinin karşılığı: ⟪fagosit|FAGOSİT⟫
+FAGOCITOSE	(ad) fagositoz: fagositin solid partikülleri yakalayıp yutması ve sitoplazmasında oluşturduğu fagosom adı verilen boşluğa hapsederek eritme (sindirme) çabası, hücre yutarlığı
+FAGOTE	(ad) fagote kelimesinin karşılığı: ⟪fagot|FAGOT⟫
+FAGOTES	(fagote sözcüğünün çekimi) (ad) fagote kelimesinin karşılığı: ⟪fagot|FAGOT⟫
+FAGUEIRO	(sıfat) fagueiro kelimesinin karşılığı: arkadaş canlısı
+FAGULHA	(ad) kıvılcım: (mecaz) harekete geçiren etken
+FAGULHAR	(eylem) parlamak: (mecaz) Ortaya çıkmak
+FAGULHAS	(fagulhar sözcüğünün çekimi) (eylem) parlamak: (mecaz) Ortaya çıkmak
+FAIANÇA	(ad) çini: fayans (ayrıca: fayans)
+FAIAR	(eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FAIAS	(ad) çoğul çekimi: faia
+FAINA	(ad) görev: Resmî iş; vazife. (ayrıca: vazife, ödev)
+FAISAO	(ad) faisao kelimesinin karşılığı: ⟪sülün|SÜLÜN⟫
+FAISCA	(ad) kıvılcım: (mecaz) harekete geçiren etken
+FAISCAM	(faiscar sözcüğünün çekimi) (eylem) parlamak: Bir ışık kaynağından gelen ışınları yansıtmak; delepmek.
+FAISCANDO	(faiscar sözcüğünün çekimi) (eylem) parlamak: Bir ışık kaynağından gelen ışınları yansıtmak; delepmek.
+FAISCAR	(eylem) parlamak: Bir ışık kaynağından gelen ışınları yansıtmak; delepmek.
+FAISCAS	(ad) çoğul çekimi: faísca
+FAIXA	(ad) şerit: Dar, uzun dokuma veya kumaş parçası. (ayrıca: bando, bant)
+FAJUTO	(sıfat) sahte: (mecaz) yapmacık (ayrıca: yanlış)
+FAKE	(sıfat) sahte: gerçek olmayan, yalancı
+FALA	(ad) fala kelimesinin karşılığı: ⟪laf|LAF⟫, ⟪söz|SÖZ⟫
+FALACIA	(ad) falacia kelimesinin karşılığı: ⟪safsata|SAFSATA⟫
+FALADAS	(falado sözcüğünün çekimi) (sıfat) ağızcıl: ağızla ilgili olan, ağızsıl, oral (ayrıca: ağızlı)
+FALADO	(sıfat) ağızcıl: ağızla ilgili olan, ağızsıl, oral (ayrıca: ağızlı)
+FALAM	(eylem) falar sözcüğünün üçüncü çoğul şahıs şimdiki zaman bildirme kipi çekimi
+FALAMOS	(eylem) falar sözcüğünün çekimi: ##birinci çoğul şahıs şimdiki zaman bildirme kipi ##(Brezilya) birinci çoğul şahıs tamamlanmış geçmiş zaman bildirme kipi
+FALANDO	(eylem) falar sözcüğünün gerund çekimi: konuşmak
+FALANGE	(ad) falange kelimesinin karşılığı: ⟪falanj|FALANJ⟫
+FALANGES	(ad) çoğul çekimi: falange
+FALANTE	(ad) falante kelimesinin karşılığı: ⟪hoparlör|HOPARLÖR⟫
+FALAR	(eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARA	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARAM	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARAO	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARAS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAREI	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAREIS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAREM	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAREMOS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARES	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARIA	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARIAM	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARIAS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALARMOS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALASSE	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALASSEM	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALASSEMOS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALASSES	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALASTE	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALASTES	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAVA	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAVAM	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAVAMOS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALAVAS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALCAO	(ad) doğan: bayağı doğan (ayrıca: gökdoğan, şahin)
+FALCATRUA	(ad) dolandırıcılık: dolandırıcı olma hâli
+FALCOES	(ad) çoğul çekimi: falcão
+FALDA	(ad) adım: yürümek için yapılan ayak atışlarının her biri (ayrıca: ayak, fit)
+FALE	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALECE	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECEM	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECENDO	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECER	(eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECERA	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECERAM	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECEREM	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECESSE	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECEU	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECI	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALECIDO	(ad) ölü: ölmüş insan; cenaze, müteveffa, mevta, meyit
+FALECIMENTO	(ad) ecel: yaşamın sonu, ölüm zamanı (ayrıca: ölüm, mevt)
+FALEI	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALEM	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALEMOS	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALENA	(ad) falena kelimesinin karşılığı: ⟪güve|GÜVE⟫
+FALENCIA	(ad) iflas: (mecaz) değerden düşme
+FALES	(falar sözcüğünün çekimi) (eylem) konuşmak: düşüncesini herhangi bir vasıtayla anlatmak
+FALEÇA	(falecer sözcüğünün çekimi) (eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+FALHA	(ad) hata: yanılgı, yanlış (ayrıca: kusur)
+FALHAM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAMOS	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHANDO	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAR	(eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARA	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARAM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARAO	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAREI	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAREM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAREMOS	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARES	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARIA	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARIAM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARIAMOS	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHARMOS	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAS	(falha sözcüğünün çekimi) (ad) hata: yanılgı, yanlış (ayrıca: kusur)
+FALHASSE	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHASSEM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHASSEMOS	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHASTE	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAVA	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHAVAM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHE	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHEI	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHEM	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHEMOS	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHES	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALHO	(sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+FALHOS	(falho sözcüğünün çekimi) (sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+FALHOU	(falhar sözcüğünün çekimi) (eylem) falhar kelimesinin karşılığı: sınıfta bırakmak
+FALICO	(sıfat) falico kelimesinin karşılığı: fallik
+FALO	(eylem) falar sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi
+FALOU	(ünlem) falou kelimesinin karşılığı: güle güle
+FALSA	(falso sözcüğünün çekimi) (sıfat) yanlış: hatalı bir biçimde
+FALSAR	(eylem) falsar kelimesinin karşılığı: ihanet etmek, ele vermek
+FALSAS	(falso sözcüğünün çekimi) (sıfat) yanlış: hatalı bir biçimde
+FALSIANE	(ad) zat: kişi. (ayrıca: kişi, şahıs)
+FALSIDADES	(ad) çoğul çekimi: falsidade
+FALSIFICADA	(falsificado sözcüğünün çekimi) (sıfat) sahte: (mecaz) yapmacık
+FALSIFICADO	(sıfat) sahte: (mecaz) yapmacık
+FALSO	(sıfat) yanlış: hatalı bir biçimde
+FALTA	(ad) falta kelimesinin karşılığı: gıyap, ⟪absans|ABSANS⟫
+FALTADO	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAMOS	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTANDO	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAR	(eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek. (ayrıca: ıskalamak, kaçırmak)
+FALTARA	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTARAM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTARAO	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAREI	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAREM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAREMOS	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTARIA	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTARIAM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTARIAMOS	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTARMOS	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAS	(ad) çoğul çekimi: falta
+FALTASSE	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTASSEM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTASTE	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAVA	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAVAM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTAVAMOS	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTE	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTEI	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTEM	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTES	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALTOU	(faltar sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+FALUS	(ad) fallus: erkeklik organı (ayrıca: fallos)
+FAMA	(ad) fama kelimesinin karşılığı: ⟪nam|NAM⟫, ün, ⟪şöhret|ŞÖHRET⟫
+FAMIGERADO	(sıfat) adsal: adla ilgili, ad niteliğinde olan (ayrıca: tanınmış, meşhur)
+FAMILIA	(ad) aile: Evlilik ve kan bağına dayanan, karı, koca, çocuklar, kardeşler arasındaki ilişkilerin oluşturduğu toplum içindeki en küçük birlik; ev, familya.
+FAMILIAR	(sıfat) familiar kelimesinin karşılığı: ⟪aşina|AŞİNA⟫, ⟪tanıdık|TANIDIK⟫\n(ad) familiar kelimesinin karşılığı: ⟪akraba|AKRABA⟫, ⟪hısım|HISIM⟫
+FAMILIARES	(ad) çoğul çekimi: familiar
+FAMILIARIDADE	(ad) familiaridade kelimesinin karşılığı: ⟪ahbaplık|AHBAPLIK⟫
+FAMILIAS	(ad) çoğul çekimi: familia
+FAMOSA	(famoso sözcüğünün çekimi) (sıfat) tanınmış: ünlü (ayrıca: adlı sanlı, ünlü)
+FAMOSAS	(ad) çoğul çekimi: famosa
+FAMOSO	(sıfat) tanınmış: ünlü (ayrıca: adlı sanlı, ünlü)
+FAMOSOS	(ad) çoğul çekimi: famoso
+FANATICO	(sıfat) bağnaz: düşünceye, inanışa aşırı ölçüde bağlanıp ondan başka bir düşünce ve inanışı kabul etmeyen kimse
+FANATISMO	(ad) fanatismo kelimesinin karşılığı: ⟪fanatiklik|FANATİKLİK⟫
+FANFARRONA	(fanfarronar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+FANFARRONADA	(ad) gösteriş: görkem, şatafat
+FANFARRONANDO	(fanfarronar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+FANFARRONAR	(eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+FANTASIA	(ad) fantasia kelimesinin karşılığı: ⟪kostüm|KOSTÜM⟫
+FANTASIADO	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAM	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAMOS	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIANDO	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAR	(eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIARAM	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAREM	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIARIA	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIARMOS	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAS	(fantasia sözcüğünün çekimi) (ad) fantasia kelimesinin karşılığı: ⟪kostüm|KOSTÜM⟫
+FANTASIASSE	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAVA	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAVAM	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIAVAMOS	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIE	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIEI	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIEM	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIES	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIO	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASIOU	(fantasiar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+FANTASMA	(ad) hayalet: Gerçekte var olmadığı hâlde bazen görüldüğü sanılan peri, hortlak vb. görüntüler; görüntü, fantom. (ayrıca: görüntü)
+FANTASMAGORICA	(fantasmagorico sözcüğünün çekimi) (sıfat) düşüncel: yalnız düşünce ile kavranabilen
+FANTASMAGORICO	(sıfat) düşüncel: yalnız düşünce ile kavranabilen
+FANTASTICA	(fantastico sözcüğünün çekimi) (sıfat) fantastik: hayalî
+FANTASTICAS	(fantastico sözcüğünün çekimi) (sıfat) fantastik: hayalî
+FANTASTICO	(sıfat) fantastik: hayalî
+FANTASTICOS	(fantastico sözcüğünün çekimi) (sıfat) fantastik: hayalî
+FANTOCHE	(ad) fantoche kelimesinin karşılığı: ⟪kukla|KUKLA⟫
+FANTOCHES	(ad) çoğul çekimi: fantoche
+FARA	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FARAO	(ad) firavun: Eski Mısır hükümdarlarına verilen unvan
+FARDA	(ad) üniforma: Aynı işi yapanların giydikleri, tüzükle belirtilmiş, bir örnek giysi
+FARDO	(ad) demet: Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi.
+FAREIS	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FARELO	(ad) kepek: un elendikten sonra, elek üstünde kalan kabuk kırıntıları
+FARELOS	(ad) çoğul çekimi: farelo
+FARINGE	(ad) farinks: Yutak. (ayrıca: yutak)
+FARINGITE	(ad) faringite kelimesinin karşılığı: yutak iltihabı
+FARINHA	(ad) farinha kelimesinin karşılığı: un
+FARISEUS	(ad) çoğul çekimi: fariseu
+FARMACEUTICO	(ad) eczacı: Eczacılık fakültesinden mezun olarak eczacılık mesleğini yapmaya hak kazanmış kimse.
+FARMACIA	(ad) eczane: İlaçların hazırlandığı veya hazır ilaçların satıldığı yer.
+FARMACIAS	(ad) çoğul çekimi: farmácia
+FARMACOLOGIA	(ad) farmakoloji: İlaçların etkisini ve kullanılışını inceleyen bilim dalı; ilaç bilimi (ayrıca: eczabilim, ilaç bilimi)
+FARMACOLOGICA	(farmacologico sözcüğünün çekimi) (sıfat) farmakolojik: İlaç bilimi ile ilgili
+FARMACOLOGICAS	(farmacologico sözcüğünün çekimi) (sıfat) farmakolojik: İlaç bilimi ile ilgili
+FARMACOLOGICO	(sıfat) farmakolojik: İlaç bilimi ile ilgili
+FARMACOLOGICOS	(farmacologico sözcüğünün çekimi) (sıfat) farmakolojik: İlaç bilimi ile ilgili
+FARNEL	(ad) farnel kelimesinin karşılığı: ⟪piknik|PİKNİK⟫, ara öğün
+FAROES	(ad) faroes kelimesinin karşılığı: faroece, faroe dili
+FAROESTES	(ad) çoğul çekimi: faroeste
+FAROLEIRO	(sıfat) gururlu: kasıntılı (ayrıca: fiyakalı)
+FARPA	(ad) kıymık: Çok küçük ve sivri tahta, demir veya kemik parçası.
+FARRAS	(ad) çoğul çekimi: farra
+FARTADO	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTAM	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTAMOS	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTANDO	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTAR	(eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTARA	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTARAM	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTARAO	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTAREM	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTAVA	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTEI	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTO	(sıfat) iyi: sağlıklı, sıhhatli (ayrıca: bereketli, bol)
+FARTOS	(farto sözcüğünün çekimi) (sıfat) iyi: sağlıklı, sıhhatli (ayrıca: bereketli, bol)
+FARTOU	(fartar sözcüğünün çekimi) (eylem) yorulmak: Bir sebebe bağlanılmak, yorumlanmak. (ayrıca: yormak)
+FARTURA	(ad) fartura kelimesinin karşılığı: ⟪şatafat|ŞATAFAT⟫
+FASCICULO	(ad) demet: Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi.
+FASCINAÇOES	(ad) çoğul çekimi: fascinação
+FASCINIO	(ad) şaşkınlık: şaşkın olma durumu, şaşkınca davranış (ayrıca: hayret)
+FASCINIOS	(fascinio sözcüğünün çekimi) (ad) şaşkınlık: şaşkın olma durumu, şaşkınca davranış (ayrıca: hayret)
+FASCISMO	(ad) fascismo kelimesinin karşılığı: ⟪faşizm|FAŞİZM⟫
+FASCISTAS	(ad) çoğul çekimi: fascista
+FASE	(ad) safha: evre (ayrıca: faz, evre)
+FASES	(ad) çoğul çekimi: fase
+FASTIDIOSO	(sıfat) sıkıcı: iç sıkan, can sıkan, tedirgin eden
+FASTIO	(ad) sıkıntı: Bulunmama durumu.
+FATAL	(sıfat) ölümcül: can çekişen
+FATALIDADE	(ad) kader: ezelî takdir (ayrıca: yazgı, takdir)
+FATALISMO	(ad) fatalismo kelimesinin karşılığı: ⟪fatalizm|FATALİZM⟫
+FATIA	(ad) dilim: Bir bütünden kesilmiş veya ayrılmış ince, yassı parça
+FATIAS	(ad) çoğul çekimi: fatia
+FATIDICO	(sıfat) ölümcül: can çekişen (ayrıca: acıklı, trajik)
+FATIGADO	(sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+FATIGANTE	(sıfat) yorucu: yoran şey, yorgunluğa yol açan
+FATO	(ad) fato kelimesinin karşılığı: ⟪olgu|OLGU⟫
+FATOR	(ad) fator kelimesinin karşılığı: ⟪öğe|ÖĞE⟫, ⟪bölen|BÖLEN⟫
+FATORES	(ad) çoğul çekimi: fator
+FATORIAL	(ad) fatorial kelimesinin karşılığı: ⟪faktöriyel|FAKTÖRİYEL⟫
+FATOS	(ad) çoğul çekimi: fato
+FATUO	(sıfat) salak: giyinişinden, konuşma ve davranışlarından seviyesiz, dengesiz ve saf olduğu anlaşılan. (ayrıca: dingil)
+FATURA	(ad) fatura: Satılan bir malın cinsini, miktarını ve fiyatını bildirmek için satıcının alıcıya verdiği hesap pusulası. (ayrıca: kanun teklifi, senet)
+FATURADO	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAM	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAMOS	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURANDO	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAR	(eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek, eylemek)
+FATURARA	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURARAM	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAREMOS	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURARIA	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURARMOS	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAS	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAVA	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAVAM	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURAVEIS	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURE	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATUREI	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATURO	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FATUROU	(faturar sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan (ayrıca: etmek,...
+FAULHA	(ad) kıvılcım: (mecaz) harekete geçiren etken
+FAUNA	(ad) fauna kelimesinin karşılığı: ⟪cemaat|CEMAAT⟫, ⟪kütle|KÜTLE⟫, ⟪kalabalık|KALABALIK⟫, ⟪izdiham|İZDİHAM⟫
+FAUSTA	(fausto sözcüğünün çekimi) (ad) gösteriş: görkem, şatafat
+FAUSTO	(ad) gösteriş: görkem, şatafat
+FAUSTOSO	(sıfat) cafcaflı: gösterişli, fazla şık, şatafatlı
+FAVELA	(ad) Brezilya'da gecekondu mahallesinin eşdeğeri.
+FAVO	(ad) favo kelimesinin karşılığı: ⟪petek|PETEK⟫, bal peteği, ⟪gümeç|GÜMEÇ⟫
+FAVOR	(ad) favor kelimesinin karşılığı: ⟪hizmet|HİZMET⟫
+FAVORAVEL	(sıfat) destekleyici: bir şeyin dik durmasını sağlayan.
+FAVORECE	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECEM	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECEMOS	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECENDO	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECER	(eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECERA	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECERAM	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECEREM	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECERIA	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECERMOS	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECESSE	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECEU	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECI	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECIA	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECIAM	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVORECIDO	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVOREÇA	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVOREÇAM	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAVOREÇO	(favorecer sözcüğünün çekimi) (eylem) beslemek: Maddi yardım yapmak. (ayrıca: kayırmak, korumak)
+FAXINEIRO	(ad) temizlikçi: Temizlik işini yapan kimse. (ayrıca: hademe)
+FAZ	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZEI	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZEM	(eylem) fazer sözcüğünün üçüncü çoğul şahıs şimdiki zaman bildirme kipi çekimi: yapmak
+FAZEMOS	(eylem) fazer sözcüğünün birinci çoğul şahıs şimdiki zaman bildirme kipi çekimi: yapmak
+FAZENDA	(ad) çiftlik: tarım yapılan, hayvan yetiştirilen, çalışanlarının da oturması için evler bulunan geniş toprak parçası
+FAZENDARIO	(sıfat) maddi: maddeden oluşan
+FAZENDAS	(ad) çoğul çekimi: fazenda
+FAZENDEIRA	(fazendeiro sözcüğünün çekimi) (ad) çiftçi: kendi geçimine yönelik olarak çeşitli tarım ve hayvancılık ürünleri üreten bir çiftliği idare eden kişi;...
+FAZENDEIRO	(ad) çiftçi: kendi geçimine yönelik olarak çeşitli tarım ve hayvancılık ürünleri üreten bir çiftliği idare eden kişi; dikici, ekinci, rençber
+FAZENDO	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZER	(eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZERDES	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZERES	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZERMOS	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAZIA	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAÇAIS	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAÇAM	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FAÇANHA	(ad) eylem: bir durumu değiştirme ve daha ileriye götürme yönünde etkide bulunma çabası (ayrıca: başarı, iş)
+FAÇANHAS	(façanha sözcüğünün çekimi) (ad) eylem: bir durumu değiştirme ve daha ileriye götürme yönünde etkide bulunma çabası (ayrıca: başarı, iş)
+FAÇAO	(ad) façao kelimesinin karşılığı: ⟪nifak|NİFAK⟫
+FAÇO	(eylem) fazer sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi: yapmak
+FEBRE	(ad) ateş: Patlayıcı silahların atılması. (ayrıca: humma)
+FECHADO	(sıfat) kapalı: Kapalı tribün
+FECHADURA	(ad) kilit: anahtar, düğme gibi takılıp çıkarılabilen bir parça yardımıyla çalışan kapatma aleti
+FECHAI	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAMENTO	(ad) fechamento kelimesinin karşılığı: ⟪darlaşma|DARLAŞMA⟫, ⟪kapanıklık|KAPANIKLIK⟫
+FECHAMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHANDO	(eylem) fechar sözcüğünün gerund çekimi: kapatmak
+FECHAR	(eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARA	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARAM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARAO	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAREI	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAREM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAREMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARES	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARIA	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARIAM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARIAMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHARMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHASSE	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHASSEM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHASSEMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHASTE	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAVA	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAVAM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHAVAMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHE	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHEI	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHEM	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHEMOS	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHES	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECHO	(ad) fecho kelimesinin karşılığı: ⟪kapanıklık|KAPANIKLIK⟫
+FECHOU	(fechar sözcüğünün çekimi) (eylem) fechar kelimesinin karşılığı: kapatmak
+FECULA	(ad) fecula kelimesinin karşılığı: ⟪nişasta|NİŞASTA⟫
+FECUNDA	(fecundar sözcüğünün çekimi) (eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FECUNDADO	(fecundar sözcüğünün çekimi) (eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FECUNDAR	(eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FECUNDAS	(fecundar sözcüğünün çekimi) (eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FECUNDAVAM	(fecundar sözcüğünün çekimi) (eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FECUNDAÇAO	(ad) fecundaçao kelimesinin karşılığı: ⟪döllenme|DÖLLENME⟫
+FECUNDEI	(fecundar sözcüğünün çekimi) (eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FECUNDO	(sıfat) üretken: üretme gücü olan, çok üreten (ayrıca: bulgusal, verimli)
+FECUNDOU	(fecundar sözcüğünün çekimi) (eylem) üretmek: oluşturmak, yaratmak, meydana getirmek
+FEDER	(eylem) kokmak: (mecaz) kokusu gelmek
+FEDERAIS	(federal sözcüğünün çekimi) (sıfat) federal: federasyon durumunda birleşmiş olan
+FEDERAL	(sıfat) federal: federasyon durumunda birleşmiş olan
+FEDERALISMO	(ad) federalismo kelimesinin karşılığı: federalizm
+FEDERATIVA	(federativo sözcüğünün çekimi) (sıfat) federal: federasyon durumunda birleşmiş olan
+FEDERATIVO	(sıfat) federal: federasyon durumunda birleşmiş olan
+FEDERAÇAO	(ad) federasyon: Dış politika ve savunma alanında dayanışma amacıyla birden fazla devletin bir birlik devleti içinde birleşmesi.
+FEDERAÇOES	(ad) çoğul çekimi: federação
+FEDIDO	(feder sözcüğünün çekimi) (eylem) kokmak: (mecaz) kokusu gelmek
+FEDINCHAR	(eylem) fedinchar kelimesinin karşılığı: ⟪inlemek|İNLEMEK⟫
+FEEDBACK	(ad) dönüt: geri bildirim, geri besleme (ayrıca: geri bildirim, geri besleme)
+FEERICO	(sıfat) yabancı: başka bir milletten olan, başka devlet uyruğunda olan, bigâne, ecnebî
+FEIA	(feio sözcüğünün çekimi) (sıfat) çirkin: hoş olmayan, yakışık almayan (davranış veya söz)
+FEIAS	(feio sözcüğünün çekimi) (sıfat) çirkin: hoş olmayan, yakışık almayan (davranış veya söz)
+FEIJAO	(ad) fasulye: Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+FEIJAOZINHO	(feijao sözcüğünün çekimi) (ad) fasulye: Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus...
+FEIJOADA	(ad) feijoada kelimesinin karşılığı: ⟪iltibas|İLTİBAS⟫, ⟪karışıklık|KARIŞIKLIK⟫, ⟪pislik|PİSLİK⟫
+FEIJOES	(ad) çoğul çekimi: feijão
+FEIJOEZINHOS	(feijao sözcüğünün çekimi) (ad) fasulye: Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus...
+FEINHO	(feio sözcüğünün çekimi) (sıfat) çirkin: hoş olmayan, yakışık almayan (davranış veya söz)
+FEIO	(sıfat) çirkin: hoş olmayan, yakışık almayan (davranış veya söz)
+FEIOS	(ad) çoğul çekimi: feio
+FEIRA	(ad) çarşı: Dükkânların bulunduğu alışveriş yeri; pasaj (ayrıca: market)
+FEIRAS	(ad) çoğul çekimi: feira
+FEITAS	(feito sözcüğünün çekimi) (sıfat) feito kelimesinin karşılığı: ⟪yapılı|YAPILI⟫
+FEITICEIRA	(ad) feiticeira kelimesinin karşılığı: ⟪cadı|CADI⟫, ⟪büyücü|BÜYÜCÜ⟫, ⟪sihirbaz|SİHİRBAZ⟫
+FEITICEIRO	(ad) feiticeiro kelimesinin karşılığı: ⟪sihirbaz|SİHİRBAZ⟫
+FEITIO	(ad) form: biçim. (ayrıca: biçim, forma)
+FEITIÇARIA	(ad) cadılık: cadının yaptığı iş, bağıcılık, efsunculuk, afsunculuk, sihirbazlık, büyücülük
+FEITIÇO	(sıfat) feitiço kelimesinin karşılığı: ⟪yanlış|YANLIŞ⟫, ⟪sahte|SAHTE⟫\n(ad) cadılık: cadının yaptığı iş, bağıcılık, efsunculuk, afsunculuk, sihirbazlık, büyücülük
+FEITO	(sıfat) feito kelimesinin karşılığı: ⟪yapılı|YAPILI⟫\n(ad) edim: Yapılmış, gerçekleşmiş iş, amel, fiil (ayrıca: iş, hareket)
+FEITOR	(ad) feitor kelimesinin karşılığı: ⟪kamarot|KAMAROT⟫
+FEITORES	(feitor sözcüğünün çekimi) (ad) feitor kelimesinin karşılığı: ⟪kamarot|KAMAROT⟫
+FEITOS	(ad) çoğul çekimi: feito
+FEIXE	(ad) feixe kelimesinin karşılığı: ⟪ışın|IŞIN⟫, şua
+FEIXES	(ad) çoğul çekimi: feixe
+FEIÇAO	(ad) form: biçim. (ayrıca: heykel, şekil)
+FEL	(ad) safra: sıkıntı, tedirginlik, rahatsızlık veren kimse veya şey (ayrıca: öd)
+FELICIDADE	(ad) felicidade kelimesinin karşılığı: ⟪mutluluk|MUTLULUK⟫
+FELICIDADES	(ad) çoğul çekimi: felicidad
+FELICITA	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITADO	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITAM	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITAMOS	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITANDO	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITAR	(eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITARAM	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITARAO	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITARIA	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITAS	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITAVA	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITAÇAO	(ad) tebrik: tebrik kartı
+FELICITAÇOES	(ad) çoğul çekimi: felicitação
+FELICITE	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITEI	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITEM	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITO	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELICITOU	(felicitar sözcüğünün çekimi) (eylem) kutlamak: Mutlu bir olaya sevinildiğini söz, yazı veya armağanla anlatmak; kutlulamak, tebrik etmek
+FELINO	(ad) felino kelimesinin karşılığı: ⟪kedi|KEDİ⟫, ⟪enik|ENİK⟫, ⟪göcen|GÖCEN⟫, bissiru
+FELIZ	(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: neşeli, memnun)
+FELIZARDA	(felizardo sözcüğünün çekimi) (sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)
+FELIZARDO	(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)
+FELIZMENTE	(zarf) felizmente kelimesinin karşılığı: neyse ki, allah'tan, çok şükür, iyi ki
+FELONIA	(ad) felonia kelimesinin karşılığı: ⟪hıyanet|HIYANET⟫
+FELPA	(ad) mizan: tartı, ölçü aleti (ayrıca: skala, pul)
+FELPUDO	(sıfat) pofuduk: Yumuşak ve hafif olan ve sevimli
+FELTRO	(ad) keçe: yere serilen halı, kilim gibi yünlü döşemelik (ayrıca: fötr)
+FEMEA	(ad) dişi: Erkeği tarafından döllenecek şekilde oluşmuş canlı (ayrıca: kadın, bayan)
+FEMEEIRO	(ad) karıcı: karıya, kadına, kıza düşkün kimse, çapkın.
+FEMENTIDO	(sıfat) haince: kötü niyetli
+FEMEO	(sıfat) dişi: Erkeği tarafından döllenecek şekilde oluşmuş canlı
+FEMINIL	(sıfat) kadınsı: kadına özgü olan, kadına yaraşır
+FEMININA	(feminino sözcüğünün çekimi) (sıfat) feminino kelimesinin karşılığı: ⟪dişil|DİŞİL⟫
+FEMININAS	(feminino sözcüğünün çekimi) (sıfat) feminino kelimesinin karşılığı: ⟪dişil|DİŞİL⟫
+FEMININO	(sıfat) feminino kelimesinin karşılığı: ⟪dişil|DİŞİL⟫
+FEMININOS	(feminino sözcüğünün çekimi) (sıfat) feminino kelimesinin karşılığı: ⟪dişil|DİŞİL⟫
+FEMINISMO	(ad) feminizm: Toplumda kadının haklarını çoğaltma, erkeğinkiler düzeyine çıkarma, eşitlik sağlama amacını güden düşünce akımı; kadın hareketi.
+FEMINISTA	(sıfat) feminist: feminizm yanlısı (kimse, görüş)\n(ad) feminist: feminizm yanlısı (kimse, görüş)
+FEMUR	(ad) femur kelimesinin karşılığı: ⟪femur|FEMUR⟫
+FENDA	(ad) çatırtı: Çatırdama sesi. (ayrıca: yarık)
+FENDAS	(fender sözcüğünün çekimi) (eylem) çatlamak: parçaları ayrılıp dağılmayacak biçimde yarılmak
+FENDENDO	(fender sözcüğünün çekimi) (eylem) çatlamak: parçaları ayrılıp dağılmayacak biçimde yarılmak
+FENDER	(eylem) çatlamak: parçaları ayrılıp dağılmayacak biçimde yarılmak
+FENDI	(fender sözcüğünün çekimi) (eylem) çatlamak: parçaları ayrılıp dağılmayacak biçimde yarılmak
+FENECE	(fenecer sözcüğünün çekimi) (eylem) bitmek: Tükenmek, kalmamak (ayrıca: bitirmek)
+FENECER	(eylem) bitmek: Tükenmek, kalmamak (ayrıca: bitirmek)
+FENECO	(ad) feneco kelimesinin karşılığı: çöl tilkisi
+FENESTRA	(ad) pencere: Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve, cam, panjur, perde gibi eklentilerle daha kullanışlı bir duruma getirilen açıklık.
+FENIX	(ad) fenix kelimesinin karşılığı: feniks
+FENO	(ad) feno kelimesinin karşılığı: ⟪saman|SAMAN⟫
+FENOL	(ad) fenol kelimesinin karşılığı: ⟪fenol|FENOL⟫
+FENOMENO	(ad) fenomeno kelimesinin karşılığı: ⟪fenomen|FENOMEN⟫
+FENOMENOLOGIA	(ad) fenomenologia kelimesinin karşılığı: görüngübilim
+FENOMENOS	(ad) çoğul çekimi: fenómeno
+FERAS	(ad) çoğul çekimi: fera
+FERE	(ferir sözcüğünün çekimi) (eylem) incinmek: Birinin herhangi bir davranışı yüzünden üzüntü duymak, gücenmek, kırılmak (ayrıca: acıtmak, yara...
+FERETRO	(ad) tabut: Ölünün içine konulduğu sandık biçiminde araç; sal, ölü salı, dört kollu, imamkayığı.
+FERI	(ferir sözcüğünün çekimi) (eylem) incinmek: Birinin herhangi bir davranışı yüzünden üzüntü duymak, gücenmek, kırılmak (ayrıca: acıtmak, yara...
+FERIA	(ad) fayda: yarar (ayrıca: kâr, avantaj)
+FERIADO	(ad) tatil: okul, meclis, adliye gibi kuruluşların çalışmasını durdurduğu veya kapalı bulunduğu dönem (ayrıca: izin)
+FERIADOS	(ad) çoğul çekimi: feriado
+FERIAS	(ad) izin: bir kişiye çalıştığı yerce verilen tatil
+FERIDA	(ad) hasar: herhangi bir olayın yol açtığı kırılma, dökülme, yıkılma gibi zarar
+FERIDAS	(ad) çoğul çekimi: ferida
+FERIDO	(sıfat) yaralı: dertli. (ayrıca: yaralanan)
+FERIDOS	(ad) çoğul çekimi: ferido
+FERIMENTO	(ad) hasar: herhangi bir olayın yol açtığı kırılma, dökülme, yıkılma gibi zarar
+FERIMOS	(ferir sözcüğünün çekimi) (eylem) incinmek: Birinin herhangi bir davranışı yüzünden üzüntü duymak, gücenmek, kırılmak (ayrıca: acıtmak, yara...
+FERINDO	(ferir sözcüğünün çekimi) (eylem) incinmek: Birinin herhangi bir davranışı yüzünden üzüntü duymak, gücenmek, kırılmak (ayrıca: acıtmak, yara...
+FERIR	(eylem) incinmek: Birinin herhangi bir davranışı yüzünden üzüntü duymak, gücenmek, kırılmak (ayrıca: acıtmak, yara açmak)
+FERMENTA	(fermentar sözcüğünün çekimi) (eylem) fermentar kelimesinin karşılığı: ⟪mayalanmak|MAYALANMAK⟫
+FERMENTAM	(fermentar sözcüğünün çekimi) (eylem) fermentar kelimesinin karşılığı: ⟪mayalanmak|MAYALANMAK⟫
+FERMENTANDO	(fermentar sözcüğünün çekimi) (eylem) fermentar kelimesinin karşılığı: ⟪mayalanmak|MAYALANMAK⟫
+FERMENTAR	(eylem) fermentar kelimesinin karşılığı: ⟪mayalanmak|MAYALANMAK⟫
+FERMENTARAM	(fermentar sözcüğünün çekimi) (eylem) fermentar kelimesinin karşılığı: ⟪mayalanmak|MAYALANMAK⟫
+FERMENTAÇAO	(ad) mayalanma: organik maddelerin bazı mikroorganizmalarca salgılanan enzimler etkisiyle uğradığı değişiklik, tahammür, fermantasyon
+FERMENTAÇOES	(ad) çoğul çekimi: fermentação
+FERMENTO	(ad) fermento kelimesinin karşılığı: ⟪maya|MAYA⟫
+FERMENTOS	(ad) çoğul çekimi: fermento
+FERMENTOU	(fermentar sözcüğünün çekimi) (eylem) fermentar kelimesinin karşılığı: ⟪mayalanmak|MAYALANMAK⟫
+FERMIAO	(ad) fermiyon: Parçacık fiziğinde Fermi-Dirac istatistiğine uyan buçuklu spine sahip parçacık.
+FERMIO	(ad) fermiyum: Atom numarası 100 olan bir kimyasal element
+FERMION	(ad) fermiyon: Parçacık fiziğinde Fermi-Dirac istatistiğine uyan buçuklu spine sahip parçacık.
+FEROES	(ad) feroes kelimesinin karşılığı: faroece, faroe dili
+FEROICO	(ad) feroico kelimesinin karşılığı: faroece, faroe dili
+FEROZ	(sıfat) vahşi: yabani, barbar, yırtıcı (ayrıca: yabani)
+FEROZES	(feroz sözcüğünün çekimi) (sıfat) vahşi: yabani, barbar, yırtıcı (ayrıca: yabani)
+FERRADO	(sıfat) pabuçlu: ayağında pabucu olan (at)
+FERRADURA	(ad) ferradura kelimesinin karşılığı: ⟪nal|NAL⟫
+FERRAGEM	(ad) ferragem kelimesinin karşılığı: ⟪donanım|DONANIM⟫
+FERRAM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAMENTA	(ad) ferramenta kelimesinin karşılığı: ⟪araç|ARAÇ⟫
+FERRAMENTAS	(ad) çoğul çekimi: ferramenta
+FERRAMOS	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRANDO	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAR	(eylem) sikmek: cinsel ilişkide bulunmak
+FERRARA	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRARAM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAREI	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAREM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRARIAM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRARMOS	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAS	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRASSE	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRASSEM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAVA	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRAVAM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRE	(eylem) ferrar sözcüğünün çekimi:
+FERREA	(ferreo sözcüğünün çekimi) (sıfat) demir: bu elementten yapılmış
+FERREI	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERREIRO	(ad) ferreiro kelimesinin karşılığı: ⟪demirci|DEMİRCİ⟫
+FERREM	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERREMOS	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERREO	(sıfat) demir: bu elementten yapılmış
+FERRES	(ferrar sözcüğünün çekimi) (eylem) sikmek: cinsel ilişkide bulunmak
+FERRO	(ad) demir: bu elementten yapılmış
+FERROADA	(ad) ferroada kelimesinin karşılığı: ⟪şut|ŞUT⟫, ⟪saçma|SAÇMA⟫
+FERROAR	(eylem) ısırmak: rüzgâr sert esmek, keskin bir biçimde etkilemek (ayrıca: sokmak)
+FERROLHO	(ad) cıvata: birbirine bağlanmak istenen parçaların üzerine delik açıl arak ucuna somun takıl arak sıkıştırılan bir bağlantı elemanı (ayrıca: sürme, sürgü)
+FERROLHOS	(ferrolho sözcüğünün çekimi) (ad) cıvata: birbirine bağlanmak istenen parçaların üzerine delik açıl arak ucuna somun takıl arak sıkıştırılan bir...
+FERROS	(ad) çoğul çekimi: ferro
+FERROVIA	(ad) ferrovia kelimesinin karşılığı: ⟪demiryolu|DEMİRYOLU⟫
+FERROVIAS	(ad) çoğul çekimi: ferrovia
+FERRUGENS	(ad) çoğul çekimi: ferrugem
+FERRUGENTO	(sıfat) paslı: Hastalık dolayısıyla beyaz tabakayla kaplanmış dil (ayrıca: paslanmış)
+FERTILIDADE	(ad) fertilidade kelimesinin karşılığı: doğurganlık
+FERTILIZANTE	(ad) gübre: Verimini artırmak için toprağa dökülen her türlü hayvan dışkısı, kimyasal veya bitkisel madde.
+FERTILIZAÇAO	(ad) döllenme: tozlaşma
+FERULA	(ad) ferula kelimesinin karşılığı: ⟪atel|ATEL⟫
+FERVA	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVAM	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVE	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVEM	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVEMOS	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVENDO	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVER	(eylem) kaynatmak: Belli etmeden almak.
+FERVERA	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVERAM	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVEREI	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVEREM	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVEREMOS	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVERIA	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVERIAM	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVERMOS	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVESSE	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVEU	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVI	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVIA	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVIAM	(ferver sözcüğünün çekimi) (eylem) kaynatmak: Belli etmeden almak.
+FERVILHA	(fervilhar sözcüğünün çekimi) (eylem) fervilhar kelimesinin karşılığı: ⟪kaynatmak|KAYNATMAK⟫
+FERVILHAM	(fervilhar sözcüğünün çekimi) (eylem) fervilhar kelimesinin karşılığı: ⟪kaynatmak|KAYNATMAK⟫
+FERVILHANDO	(fervilhar sözcüğünün çekimi) (eylem) fervilhar kelimesinin karşılığı: ⟪kaynatmak|KAYNATMAK⟫
+FERVILHAR	(eylem) fervilhar kelimesinin karşılığı: ⟪kaynatmak|KAYNATMAK⟫
+FERVILHAVA	(fervilhar sözcüğünün çekimi) (eylem) fervilhar kelimesinin karşılığı: ⟪kaynatmak|KAYNATMAK⟫
+FERVILHAVAM	(fervilhar sözcüğünün çekimi) (eylem) fervilhar kelimesinin karşılığı: ⟪kaynatmak|KAYNATMAK⟫
+FERVO	(ad) ısı: fiziksel olaya dayalı, belirli bir ölçü üzerine kurulmuş olan sıcaklık ve soğukluk derecesi (ayrıca: çıban)
+FES	(ad) çoğul çekimi: fé
+FESTA	(ad) bayram: sosyal etkinlik
+FESTANÇA	(ad) kutlama: Kutlamak işi.
+FESTANÇAS	(festança sözcüğünün çekimi) (ad) kutlama: Kutlamak işi.
+FESTAS	(festa sözcüğünün çekimi) (ad) bayram: sosyal etkinlik
+FESTEJO	(ad) kutlama: Kutlama için yapılan tören.
+FESTEJOS	(ad) çoğul çekimi: festejo
+FESTIM	(ad) ziyafet: Eğlenmek veya bir olayı kutlamak amacıyla birçok kimsenin bir araya gelerek yedikleri yemek; şölen, toy
+FESTINS	(ad) çoğul çekimi: festim
+FESTIVAIS	(ad) çoğul çekimi: festival
+FESTIVAL	(ad) festival: şenlik
+FESTIVIDADE	(ad) kutlama: Kutlama için yapılan tören.
+FESTIVIDADES	(ad) çoğul çekimi: festividade
+FETICHE	(ad) put: Bazı ilkel toplumlarda doğaüstü güç ve etkisi olduğuna inanılan canlı veya cansız nesne (ayrıca: fetiş)
+FETICHES	(ad) çoğul çekimi: fetiche
+FETICHISMO	(ad) fetichismo kelimesinin karşılığı: ⟪fetişizm|FETİŞİZM⟫
+FETO	(ad) feto kelimesinin karşılığı: ⟪dölüt|DÖLÜT⟫
+FEUDAL	(sıfat) feudal kelimesinin karşılığı: ⟪feodal|FEODAL⟫
+FEUDALISMO	(ad) feudalismo kelimesinin karşılığı: ⟪feodalizm|FEODALİZM⟫
+FEUDATARIO	(sıfat) feodal: derebeylikle ilgili
+FEUDOS	(ad) çoğul çekimi: feudo
+FEVEREIRO	(ad) şubat: artık yıllarda yirmi dokuz, diğer aylarda ise yirmi sekiz gün çeken yılın ikinci ayı; gücük, gücük ay, küçük ay (ayrıca: kücü, gücük ay)
+FEZ	(ad) fez kelimesinin karşılığı: ⟪fes|FES⟫
+FEZES	(ad) çoğul çekimi: fezes
+FIACRE	(ad) fiacre kelimesinin karşılığı: ⟪araba|ARABA⟫
+FIADOR	(ad) fiador kelimesinin karşılığı: ⟪sponsor|SPONSOR⟫, ⟪destekleyici|DESTEKLEYİCİ⟫
+FIAM	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIAMBRE	(ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+FIANDO	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIAR	(eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIARIA	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIAS	(ad) çoğul çekimi: fía
+FIAVA	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIAVEIS	(fiavel sözcüğünün çekimi) (sıfat) sika: güvenilir, itimada şayan bir râvî (ayrıca: güvenli)
+FIAVEL	(sıfat) sika: güvenilir, itimada şayan bir râvî (ayrıca: güvenli)
+FIBRA	(ad) lif: tel
+FIBRAS	(ad) çoğul çekimi: fibra
+FICA	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICADO	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAI	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAIS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICANDO	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAR	(eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARA	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARAM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARAO	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARAS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARDES	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAREI	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAREIS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAREM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAREMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARES	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARIAM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARIAMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARIAS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARIEIS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICARMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICASSE	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICASSEM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICASSEMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICASSES	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICASTE	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICASTES	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAVA	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAVAM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAVAMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICAVAS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICHA	(ad) dosya: bu gibi belgelerin toplandığı kartondan kap (ayrıca: plak, törpü)
+FICHADO	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHAMOS	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHANDO	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHAR	(eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHARAM	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHAREMOS	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHARMOS	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHAS	(ficha sözcüğünün çekimi) (ad) dosya: bu gibi belgelerin toplandığı kartondan kap (ayrıca: plak, törpü)
+FICHASSE	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHEI	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHEIRO	(ad) dosya: bu gibi belgelerin toplandığı kartondan kap (ayrıca: törpü, eğe)
+FICHEM	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICHOU	(fichar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: kaydetmek, başvuru yapmak)
+FICO	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICOU	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FICÇAO	(ad) ficçao kelimesinin karşılığı: ⟪kurgu|KURGU⟫, ⟪kurmaca|KURMACA⟫
+FIDALGO	(ad) efendi: Buyruğu yürüyen, sözü geçen kimse. (ayrıca: beyefendi, centilmen)
+FIDEBEQUE	(ad) fidebeque kelimesinin karşılığı: ⟪dönüt|DÖNÜT⟫, geri bildirim, geri besleme
+FIDEDIGNO	(sıfat) sika: güvenilir, itimada şayan (ayrıca: güvenli)
+FIDELIDADE	(ad) sadakat: İçten bağlılık. (ayrıca: sadık)
+FIDELIZAÇAO	(ad) vefa: sevgiyi sürdürme, sevgi bağlılığı
+FIDIBEQUE	(ad) fidibeque kelimesinin karşılığı: ⟪dönüt|DÖNÜT⟫, geri bildirim, geri besleme
+FIDUCIA	(ad) itimat: emniyet, güven, güvenç (ayrıca: umut, güven)
+FIE	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIEIRA	(ad) test: bir kişinin, bir topluluğun doğal veya sonradan kazanılmış yeteneklerini, bilgi ve becerilerini ölçmeye ve anlamaya yarayan sınama (ayrıca: inceleme, sınav)
+FIEIS	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIEL	(sıfat) fiel kelimesinin karşılığı: ⟪gerçek|GERÇEK⟫, ⟪hakiki|HAKİKİ⟫, ⟪düzgün|DÜZGÜN⟫, ⟪sika|SİKA⟫\n(ad) inanan: inanca sahip olan kimse
+FIES	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIGADO	(ad) karaciğer: Karın boşluğunun sağ üst bölgesinde bulunan, öd salgılayan, şeker depolayan, iri, açık kahverengi organ.
+FIGO	(ad) figo kelimesinin karşılığı: ⟪incir|İNCİR⟫
+FIGOS	(ad) çoğul çekimi: figo
+FIGUEIRA	(ad) figueira kelimesinin karşılığı: ⟪incir|İNCİR⟫
+FIGURA	(ad) şekil: biçim, form (ayrıca: heykel)
+FIGURADA	(figurado sözcüğünün çekimi) (sıfat) mecazi: Mecazla ilgili, mecaz niteliğinde olan. (ayrıca: mecazî)
+FIGURADO	(sıfat) mecazi: Mecazla ilgili, mecaz niteliğinde olan. (ayrıca: mecazî)
+FIGURAM	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURAMOS	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURANDO	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURAR	(eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURARA	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURAS	(figura sözcüğünün çekimi) (ad) şekil: biçim, form (ayrıca: heykel)
+FIGURATIVA	(figurativo sözcüğünün çekimi) (sıfat) mecazi: Mecazla ilgili, mecaz niteliğinde olan. (ayrıca: mecazî)
+FIGURATIVO	(sıfat) mecazi: Mecazla ilgili, mecaz niteliğinde olan. (ayrıca: mecazî)
+FIGURAVA	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGUREI	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURES	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIGURINHA	(ad) figurinha kelimesinin karşılığı: resim kartı
+FIGURINO	(ad) kostüm: Sinema ve tiyatroda rol gereği giyilen kıyafetlerin genel adı.
+FIGUROU	(figurar sözcüğünün çekimi) (eylem) okşamak: (mecaz) hafifçe dövmek (ayrıca: benzemek)
+FIJIANA	(fijiano sözcüğünün çekimi) (ad) fijiano kelimesinin karşılığı: fiji dili
+FIJIANO	(ad) fijiano kelimesinin karşılığı: fiji dili
+FIJIANOS	(fijiano sözcüğünün çekimi) (ad) fijiano kelimesinin karşılığı: fiji dili
+FILA	(ad) fila kelimesinin karşılığı: ⟪kuyruk|KUYRUK⟫
+FILAO	(ad) filao kelimesinin karşılığı: ⟪damar|DAMAR⟫, ⟪toplardamar|TOPLARDAMAR⟫
+FILAUCIA	(ad) filaucia kelimesinin karşılığı: ⟪bencillik|BENCİLLİK⟫
+FILEIRA	(ad) sıra: Bir şeye ayrılan, uygun görülen veya rastlayan zaman. (ayrıca: dosya, törpü)
+FILHA	(ad) filha kelimesinin karşılığı: ⟪kız|KIZ⟫
+FILHAS	(ad) çoğul çekimi: filha
+FILHO	(ad) oğul: aile, primatlar
+FILHOS	(ad) çoğul çekimi: filho
+FILHOTE	(ad) enik: (Havza ağzı). kedi, köpek yavrusu.
+FILHOTES	(ad) çoğul çekimi: filhote
+FILIAR	(eylem) filiar kelimesinin karşılığı: yakadan geçirmek, ⟪benimsenmek|BENİMSENMEK⟫, ⟪takınmak|TAKINMAK⟫, evlat edinmek
+FILIARAM	(filiar sözcüğünün çekimi) (eylem) filiar kelimesinin karşılığı: yakadan geçirmek, ⟪benimsenmek|BENİMSENMEK⟫, ⟪takınmak|TAKINMAK⟫, evlat edinmek
+FILIAÇAO	(ad) filiaçao kelimesinin karşılığı: ⟪benimseme|BENİMSEME⟫
+FILIEI	(filiar sözcüğünün çekimi) (eylem) filiar kelimesinin karşılığı: yakadan geçirmek, ⟪benimsenmek|BENİMSENMEK⟫, ⟪takınmak|TAKINMAK⟫, evlat edinmek
+FILIGRANA	(ad) telkârî: Tel durumundaki gümüşü, altını örerek veya bir şey üzerine kakarak yapılan iş
+FILIO	(filiar sözcüğünün çekimi) (eylem) filiar kelimesinin karşılığı: yakadan geçirmek, ⟪benimsenmek|BENİMSENMEK⟫, ⟪takınmak|TAKINMAK⟫, evlat edinmek
+FILIOU	(filiar sözcüğünün çekimi) (eylem) filiar kelimesinin karşılığı: yakadan geçirmek, ⟪benimsenmek|BENİMSENMEK⟫, ⟪takınmak|TAKINMAK⟫, evlat edinmek
+FILIPINAS	(ad) çoğul çekimi: filipina
+FILIPINOS	(ad) çoğul çekimi: filipino
+FILMA	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMADO	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAGENS	(ad) çoğul çekimi: filmagem
+FILMAM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMANDO	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAR	(eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARA	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARAM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARAO	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAREI	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAREM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAREMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARIA	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARIAM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARIAMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMARMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMASSE	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMASSEM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMASSEMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMASTE	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAVA	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAVAM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMAVAMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILME	(ad) filme kelimesinin karşılığı: ⟪film|FİLM⟫
+FILMEI	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMEM	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMEMOS	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMES	(filme sözcüğünün çekimi) (ad) filme kelimesinin karşılığı: ⟪film|FİLM⟫
+FILMO	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILMOGRAFIA	(ad) filmografi: Bir yönetmen veya oyuncunun yönettiği, yazdığı veya oynadığı bütün filmlerin listesi.
+FILMOU	(filmar sözcüğünün çekimi) (eylem) filmar kelimesinin karşılığı: film çekmek
+FILO	(ad) filo kelimesinin karşılığı: ⟪şube|ŞUBE⟫
+FILOLOGIA	(ad) dilcilik: Dil konusunda araştırma yapma işi (ayrıca: filoloji, dil bilimi)
+FILOLOGO	(ad) filolog: Eski ve bugünkü dillerin kaynağını, mahiyetini, yapısını ve diller arasındaki münasebetlerini inceleyen, yabancı deyimleri ve sözcükleri tespit ederek araştırma yapan kişi; dil bilimci.
+FILOSOFA	(ad) filozof: felsefe ile uğraşan ve felsefenin gelişmesine katkıda bulunan kişi, felsefeci, feylesof (ayrıca: felsefeci)
+FILOSOFIA	(ad) filosofia kelimesinin karşılığı: ⟪felsefe|FELSEFE⟫, ⟪düşünbilim|DÜŞÜNBİLİM⟫
+FILOSOFICA	(filosofico sözcüğünün çekimi) (sıfat) filozofik: felsefe ile ilgili, felsefeye dayanan
+FILOSOFICAS	(filosofico sözcüğünün çekimi) (sıfat) filozofik: felsefe ile ilgili, felsefeye dayanan
+FILOSOFICO	(sıfat) filozofik: felsefe ile ilgili, felsefeye dayanan
+FILOSOFICOS	(filosofico sözcüğünün çekimi) (sıfat) filozofik: felsefe ile ilgili, felsefeye dayanan
+FILOSOFO	(ad) filozof: felsefe ile uğraşan ve felsefenin gelişmesine katkıda bulunan kişi, felsefeci, feylesof (ayrıca: felsefeci, feylesof)
+FILOSOFOS	(ad) çoğul çekimi: filósofo
+FILOXERA	(ad) filoxera kelimesinin karşılığı: asma biti
+FILTRAGEM	(ad) filtreleme: filtrelemek işi
+FILTRO	(ad) filtro kelimesinin karşılığı: ⟪mekanizma|MEKANİZMA⟫, ⟪işleyiş|İŞLEYİŞ⟫, ⟪cihaz|CİHAZ⟫, ⟪aygıt|AYGIT⟫
+FIM	(ad) son: arkadan gelen
+FIMBRIA	(ad) fimbria kelimesinin karşılığı: ⟪kenar|KENAR⟫, ⟪kıyı|KIYI⟫
+FINADA	(finado sözcüğünün çekimi) (sıfat) ölü: ölmüş insan; cenaze, müteveffa, mevta, meyit (ayrıca: geç, ölmüş)
+FINADO	(sıfat) ölü: ölmüş insan; cenaze, müteveffa, mevta, meyit (ayrıca: geç, ölmüş)\n(ad) ölü: Hayatı sona ermiş olan
+FINADOS	(finado sözcüğünün çekimi) (sıfat) ölü: ölmüş insan; cenaze, müteveffa, mevta, meyit (ayrıca: geç, ölmüş)
+FINAIS	(ad) çoğul çekimi: final
+FINAL	(ad) son: arkadan gelen
+FINALIDADE	(ad) erek: amaç (ayrıca: gol, gaye)
+FINALIZA	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZADA	(finalizado sözcüğünün çekimi) (sıfat) yapılma: yapılmış
+FINALIZADAS	(finalizado sözcüğünün çekimi) (sıfat) yapılma: yapılmış
+FINALIZADO	(sıfat) yapılma: yapılmış
+FINALIZADOS	(finalizado sözcüğünün çekimi) (sıfat) yapılma: yapılmış
+FINALIZAM	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAMOS	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZANDO	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAR	(eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZARA	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZARAM	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAREI	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAREM	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAREMOS	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZARMOS	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZASSE	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAVA	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZAÇAO	(ad) bitme: bitmek işi, finiş (ayrıca: bitim)
+FINALIZE	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZEI	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZEM	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZEMOS	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZO	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALIZOU	(finalizar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak. (ayrıca: bitmek)
+FINALMENTE	(zarf) nihayetinde: sonunda (ayrıca: sonunda)
+FINANCEIRO	(sıfat) maddi: mal, para, varlıkla ilgili olan
+FINANCIAL	(sıfat) maddi: mal, para, varlıkla ilgili olan
+FINANÇA	(ad) finans: para, mal
+FINANÇAS	(ad) finans: para, mal (ayrıca: maliye)
+FINAR	(eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINAS	(finar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINDA	(findo sözcüğünün çekimi) (sıfat) yapılma: yapılmış
+FINDAM	(findar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINDANDO	(findar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINDAR	(eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINDARA	(findar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINDARAM	(findar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINDE	(ad) finde kelimesinin karşılığı: hafta sonu
+FINDO	(sıfat) yapılma: yapılmış
+FINDOS	(findo sözcüğünün çekimi) (sıfat) yapılma: yapılmış
+FINDOU	(findar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINE	(finar sözcüğünün çekimi) (eylem) bitmek: Sona ermek, tamamlanmak: (ayrıca: bitirmek)
+FINEZA	(ad) incelik: ince davranış gösterme, zarafet, nezaket
+FINEZAS	(ad) çoğul çekimi: fineza
+FINGIA	(fingir sözcüğünün çekimi) (eylem) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: taslamak, inandırmak)
+FINGIAM	(fingir sözcüğünün çekimi) (eylem) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: taslamak, inandırmak)
+FINGIDA	(fingido sözcüğünün çekimi) (sıfat) sahte: gerçek olmayan, yalancı (ayrıca: yanlış)
+FINGIDAS	(fingido sözcüğünün çekimi) (sıfat) sahte: gerçek olmayan, yalancı (ayrıca: yanlış)
+FINGIDO	(sıfat) sahte: gerçek olmayan, yalancı (ayrıca: yanlış)
+FINGIDOS	(fingido sözcüğünün çekimi) (sıfat) sahte: gerçek olmayan, yalancı (ayrıca: yanlış)
+FINGIMENTO	(ad) fingimento kelimesinin karşılığı: ⟪aldanış|ALDANIŞ⟫
+FINGIMENTOS	(ad) çoğul çekimi: fingimento
+FINGINDO	(fingir sözcüğünün çekimi) (eylem) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: taslamak, inandırmak)
+FINGIR	(eylem) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: taslamak, inandırmak)
+FINGIRAM	(fingir sözcüğünün çekimi) (eylem) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: taslamak, inandırmak)
+FINITA	(finito sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan. (ayrıca: sonlu)
+FINITAS	(finito sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan. (ayrıca: sonlu)
+FINITO	(sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan. (ayrıca: sonlu)
+FINITOS	(finito sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan. (ayrıca: sonlu)
+FINLANDES	(ad) finlandes kelimesinin karşılığı: fince
+FINLANDESAS	(ad) çoğul çekimi: finlandesa
+FINO	(sıfat) ince: (mecaz) iyiden iyiye, enikonu, ayrıntılı (ayrıca: yufka, arık)
+FINORIO	(sıfat) açıkgöz: Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen kimse. (ayrıca: kurnaz)
+FINOS	(fino sözcüğünün çekimi) (sıfat) ince: (mecaz) iyiden iyiye, enikonu, ayrıntılı (ayrıca: yufka, arık)
+FINS	(fim sözcüğünün çekimi) (ad) son: arkadan gelen
+FINURA	(ad) finura kelimesinin karşılığı: ⟪incelik|İNCELİK⟫
+FIO	(ad) ip: ipek, keten, naylon, pamuk, yün v.s. dokuma maddelerinin uzun, ince liflerinden her biri veya bu liflerin birlikte bükülmüş ve çekilmiş hâli, iplik, urgan (ayrıca: bağcık, iplik)
+FIORDE	(ad) fiorde kelimesinin karşılığı: ⟪fiyort|FİYORT⟫
+FIOS	(ad) çoğul çekimi: fio
+FIOU	(fiar sözcüğünün çekimi) (eylem) fiar kelimesinin karşılığı: ⟪güvenmek|GÜVENMEK⟫
+FIOZINHO	(fio sözcüğünün çekimi) (ad) ip: ipek, keten, naylon, pamuk, yün v.s. dokuma maddelerinin uzun, ince liflerinden her biri veya bu liflerin...
+FIQUE	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FIQUEI	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FIQUEIS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FIQUEM	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FIQUEMOS	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FIQUES	(ficar sözcüğünün çekimi) (eylem) düşmek: yazmak, kaydetmek (ayrıca: elde etmek, ele geçirmek)
+FIRMA	(ad) ortaklık: iki veya daha çok kişinin iş yaparak kazanç elde etmek için birleşmeleri, şirket (ayrıca: kumpanya, bölük)
+FIRMAM	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAMENTO	(ad) gökyüzü: Atmosferin gözle görünen bölümü; hava
+FIRMAMOS	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMANDO	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAR	(eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMARA	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMARAM	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAREI	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAREM	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAREMOS	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMARIA	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMARMOS	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAS	(ad) çoğul çekimi: firma
+FIRMASSEM	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMAVA	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRME	(sıfat) pek: sağlam, dayanıklı
+FIRMEI	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMEM	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMEMENTE	(zarf) sıkıca: sıkı bir biçimde
+FIRMEMOS	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMES	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMEZA	(ad) metanet: Metin olma, dayanma, dayanıklılık, sağlamlık.
+FIRMO	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FIRMOU	(firmar sözcüğünün çekimi) (eylem) imzalamak: Bir yazı veya belgeye imzasını yazmak, imza atmak; akdetmek. (ayrıca: kol çekmek)
+FISCAL	(ad) fiscal kelimesinin karşılığı: ⟪denetçi|DENETÇİ⟫
+FISCALIZA	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZAM	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZANDO	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZAR	(eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZASSE	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZAVA	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZAÇAO	(ad) fiscalizaçao kelimesinin karşılığı: ⟪doğrulama|DOĞRULAMA⟫
+FISCALIZE	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISCALIZO	(fiscalizar sözcüğünün çekimi) (eylem) kontrol etmek: kontrolünü ele almak
+FISGA	(ad) fisga kelimesinin karşılığı: ⟪sapan|SAPAN⟫
+FISIBILIDADE	(ad) yapılabilirlik: yapılabilirlik
+FISICA	(ad) fizik: maddenin kimyevî yapısındaki değişiklikler dışında genel veya geçici yasalara bağlı, deneysel olarak araştırılabilen, ölçülebilen, matematiksel olarak tanımlanabilen madde ve enerji ile uğraşan bilim dalı
+FISICAMENTE	(zarf) bedence: beden bakımından
+FISICAS	(ad) çoğul çekimi: física
+FISICO	(sıfat) fisico kelimesinin karşılığı: ⟪fiziksel|FİZİKSEL⟫, ⟪maddi|MADDİ⟫\n(ad) fizikçi: fizik olaylarını araştıran ve uygulamada ortaya çıkan problemlere fizik kanunlarını uygulayıp, fizik alanında araştırmaları yürüten kişi
+FISICOS	(fisico sözcüğünün çekimi) (sıfat) fisico kelimesinin karşılığı: ⟪fiziksel|FİZİKSEL⟫, ⟪maddi|MADDİ⟫
+FISIOLOGIA	(ad) fizyoloji: canlıların hücre, doku ve organlarının görevlerini ve bu görevlerin nasıl yerine geldiklerini inceleyen bilim dalı, işleybilim
+FISIOLOGISTA	(ad) fizyolog: İnsan vücudu ile ilgili problemlerin çözüme kavuşturulması amacıyla vücudun normal ve anormal şartlar karşısındaki fizyolojik etkileşimini ve biyolojik faaliyetlerini inceleyen kişi; fizyolojist.
+FISIOLOGO	(ad) fizyolog: İnsan vücudu ile ilgili problemlerin çözüme kavuşturulması amacıyla vücudun normal ve anormal şartlar karşısındaki fizyolojik etkileşimini ve biyolojik faaliyetlerini inceleyen kişi; fizyolojist.
+FISIONOMIA	(ad) beniz: yüz (ayrıca: didar, safha)
+FISIOTERAPIA	(ad) fisioterapia kelimesinin karşılığı: fizik tedavi, ⟪fizyoterapi|FİZYOTERAPİ⟫
+FISSURA	(ad) yarık: yarılarak açılmış yer, geniş çatlak
+FITA	(ad) kurdele: Geniş ipekli şerit (ayrıca: bando, bant)
+FITAS	(ad) çoğul çekimi: fita
+FIVELA	(ad) fivela kelimesinin karşılığı: ⟪toka|TOKA⟫
+FIVELAS	(fivela sözcüğünün çekimi) (ad) fivela kelimesinin karşılığı: ⟪toka|TOKA⟫
+FIXADA	(fixado sözcüğünün çekimi) (sıfat) sabit: değişmeyen, hep aynı kalan, önceden ayarlanmış (ayrıca: değişmez)
+FIXADO	(sıfat) sabit: değişmeyen, hep aynı kalan, önceden ayarlanmış (ayrıca: değişmez)
+FIXAM	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAMOS	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXANDO	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAR	(eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine yaklaştırmak (ayrıca: tamir etmek, onarmak)
+FIXARA	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXARAM	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXARAO	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAREI	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAREM	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAREMOS	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXARIA	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXARMOS	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAS	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXASSE	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXASSEM	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAVA	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAVAM	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXAÇAO	(ad) tamir: tamirat, onarma, onarım
+FIXAÇOES	(ad) çoğul çekimi: fixação
+FIXEI	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXEM	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXEMOS	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXES	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIXO	(sıfat) sabit: değişmeyen, hep aynı kalan, önceden ayarlanmış (ayrıca: değişmez)
+FIXOU	(fixar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FIZ	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FIZEMOS	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FIZERA	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FIZERAM	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FIZESTE	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FIZESTES	(fazer sözcüğünün çekimi) (eylem) yapmak: "Her görevi ayrım gözetmeden aynı titizlikle yapmak başarının sırrıdır." - Çetin Altan
+FLA	(ad) fla kelimesinin karşılığı: ⟪tart|TART⟫
+FLACIDA	(flacido sözcüğünün çekimi) (sıfat) flacido kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+FLACIDAS	(flacido sözcüğünün çekimi) (sıfat) flacido kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+FLACIDO	(sıfat) flacido kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+FLACIDOS	(flacido sözcüğünün çekimi) (sıfat) flacido kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+FLACO	(sıfat) eneze: cılız, zayıf, güçsüz
+FLAGELO	(ad) flagelo kelimesinin karşılığı: ⟪kamçı|KAMÇI⟫, ⟪kırbaç|KIRBAÇ⟫
+FLAGRADO	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRAM	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRAMOS	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRANDO	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRANTE	(sıfat) flagrante kelimesinin karşılığı: ⟪apaçık|APAÇIK⟫
+FLAGRAR	(eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca: parlamak, yakmak)
+FLAGRARAM	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRAREM	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRAS	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRASSE	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRAVA	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGRE	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGREI	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAGROU	(flagrar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek (ayrıca:...
+FLAMA	(ad) yalın: alev, yalım (ayrıca: alev, yalım)
+FLAMAS	(flama sözcüğünün çekimi) (ad) yalın: alev, yalım (ayrıca: alev, yalım)
+FLAMBOYANT	(ad) flamboyant kelimesinin karşılığı: ateş ağacı
+FLAMEJA	(flamejar sözcüğünün çekimi) (eylem) parlamak: (mecaz) Ortaya çıkmak
+FLAMEJAM	(flamejar sözcüğünün çekimi) (eylem) parlamak: (mecaz) Ortaya çıkmak
+FLAMEJANDO	(flamejar sözcüğünün çekimi) (eylem) parlamak: (mecaz) Ortaya çıkmak
+FLAMEJAR	(eylem) parlamak: (mecaz) Ortaya çıkmak
+FLAMEJAS	(flamejar sözcüğünün çekimi) (eylem) parlamak: (mecaz) Ortaya çıkmak
+FLAMEJOU	(flamejar sözcüğünün çekimi) (eylem) parlamak: (mecaz) Ortaya çıkmak
+FLAMINGO	(ad) flamingo kelimesinin karşılığı: ⟪flamingo|FLAMİNGO⟫, flamankuşu
+FLAMULA	(ad) flamula kelimesinin karşılığı: ⟪flama|FLAMA⟫
+FLANCO	(ad) kenar: yan (ayrıca: taraf, cihet)
+FLANCOS	(ad) çoğul çekimi: flanco
+FLANELA	(ad) pazen: pazenden yapılmış olan
+FLAT	(sıfat) flat kelimesinin karşılığı: ⟪yassı|YASSI⟫, tabak gibi, ⟪düz|DÜZ⟫\n(ad) bemolleşme: Bir sesin titreşim sıklığının düşmesiyle yoğunluğunun azalması. (ayrıca: apartman, düz)
+FLATULENCIA	(ad) flatulencia kelimesinin karşılığı: osuruk
+FLAUTA	(ad) hortum: lastikten yapılmış ince ve uzun boru (ayrıca: boru, pipo)
+FLECHA	(ad) flecha kelimesinin karşılığı: ok
+FLECHAS	(ad) çoğul çekimi: flecha
+FLECHE	(ad) fleche kelimesinin karşılığı: ⟪ışıltı|IŞILTI⟫
+FLEROVIO	(ad) flerovyum: atom numarası 114 olan bir kimyasal element
+FLERTA	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTADO	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAM	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAMOS	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTANDO	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAR	(eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTARAM	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAREI	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAREM	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTARIA	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTASSE	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAVA	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAVAM	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTAVAMOS	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTE	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTEI	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTEM	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTES	(ad) çoğul çekimi: flerte
+FLERTO	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLERTOU	(flertar sözcüğünün çekimi) (eylem) flertar kelimesinin karşılığı: flört etmek
+FLETE	(ad) düz: düz rakı (ayrıca: apartman, bemol)
+FLETIR	(eylem) bükmek: sertçe çevirmek.
+FLEUMA	(ad) balgam: solunum organlarının salgıladığı, ağızdan dışarı atılan sümüksü madde
+FLEUMATICO	(sıfat) ağırkanlı: ağırcanlı
+FLEX	(sıfat) flex kelimesinin karşılığı: ⟪biseksüel|BİSEKSÜEL⟫
+FLEXAO	(ad) flexao kelimesinin karşılığı: ⟪çekim|ÇEKİM⟫
+FLEXIBILIDADE	(ad) flexibilidade kelimesinin karşılığı: ⟪esneklik|ESNEKLİK⟫
+FLEXIONA	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONAM	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONANDO	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONAR	(eylem) bükmek: sertçe çevirmek.
+FLEXIONE	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONEI	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONEM	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONO	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIONOU	(flexionar sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek.
+FLEXIVEL	(sıfat) esnek: Değişik yorumlara elverişli.
+FLIBUSTEIRO	(ad) korsan: gemilere saldıran deniz haydudu, deniz hırsızı
+FLOR	(ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+FLORADA	(ad) çiçek: Süblimleşme veya çiçeksime yoluyla elde edilen toz. (ayrıca: bahar)
+FLORAR	(eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FLORAÇAO	(ad) çiçek: Süblimleşme veya çiçeksime yoluyla elde edilen toz. (ayrıca: bahar)
+FLORES	(ad) flor sözcüğünün çoğul çekimi: çiçek
+FLORESTA	(ad) orman: Ağaçlarla örtülü geniş alan.
+FLORETE	(ad) dilim: Bir bütünden kesilmiş veya ayrılmış ince, yassı parça
+FLORETES	(ad) çoğul çekimi: florete
+FLOREZINHAS	(flor sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+FLORISTA	(ad) çiçekçi: Çiçek yetiştiren, satan veya yapma çiçek işiyle uğraşan kimse.
+FLORO	(florar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FLORZINHA	(flor sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+FLUENCIA	(ad) fluencia kelimesinin karşılığı: ⟪akıcılık|AKICILIK⟫
+FLUENTE	(sıfat) akıcı: kolay anlaşılabilen, okunabilen, anlamca açık, selis
+FLUIDEZ	(ad) seyelan: Akma, akıntı (ayrıca: akım, akın)
+FLUIDO	(ad) akışkan: akış özellikleri gözlenebilen sıvı ya da gaz evresindeki özdek, seyyal
+FLUIDOS	(ad) çoğul çekimi: fluido
+FLUIR	(eylem) işletmek: işlemesini sağlamak, çalıştırmak (ayrıca: koşmak)
+FLUOR	(ad) flor: Atom numarası 9 olan bir kimyasal element. atom ağırlığı 19, yoğunluğu 1,265 olan, kokusu ozonu andıran, kahverengimsi sarı renkte, halojenler grubunun ilk elementidir. (simgesi F)
+FLUORESCENCIA	(ad) fluorescencia kelimesinin karşılığı: ⟪floresans|FLORESANS⟫
+FLUORETO	(ad) fluoreto kelimesinin karşılığı: ⟪florür|FLORÜR⟫
+FLUTUADOR	(ad) şamandıra: Kapama düzenini sağlayan, metal veya plastikten yapılmış, suda yüzen top.
+FLUTUAÇAO	(ad) flutuaçao kelimesinin karşılığı: ⟪bocalama|BOCALAMA⟫
+FLUTUAÇOES	(ad) çoğul çekimi: flutuação
+FLUXO	(ad) akım: hareket. (ayrıca: akın, akış)
+FLUXOS	(ad) çoğul çekimi: fluxo
+FOBIA	(ad) fobi: Herhangi bir nesne veya durum karşısında duyulan nedenli ya da nedensiz aşırı korku ya da kaygı
+FOCA	(ad) foca kelimesinin karşılığı: fok balığı
+FOCAS	(ad) çoğul çekimi: foca
+FOCINHO	(ad) burun: Alınla üst dudak arasında bulunan, çıkıntılı, iki delikli koklama ve solunum organı; koku alma organı:
+FOCO	(ad) erek: amaç (ayrıca: amaç, objektif)
+FODAS	(ad) çoğul çekimi: foda
+FOFINHO	(fofo sözcüğünün çekimi) (sıfat) yumuşak: kolay çiğnenen, kolay kesilen (ayrıca: pofuduk, pes)
+FOFO	(sıfat) yumuşak: kolay çiğnenen, kolay kesilen (ayrıca: pofuduk, pes)
+FOFOCA	(ad) fofoca kelimesinin karşılığı: ⟪dedikodu|DEDİKODU⟫
+FOFOCAR	(eylem) fofocar kelimesinin karşılığı: laf etmek
+FOFOQUEIRA	(fofoqueiro sözcüğünün çekimi) (sıfat) dedikodulu: dedikodusu olan (ayrıca: dedikoducu)
+FOFOQUEIRAS	(fofoqueiro sözcüğünün çekimi) (sıfat) dedikodulu: dedikodusu olan (ayrıca: dedikoducu)
+FOFOQUEIRO	(sıfat) dedikodulu: dedikodusu olan (ayrıca: dedikoducu)
+FOFOQUEIROS	(fofoqueiro sözcüğünün çekimi) (sıfat) dedikodulu: dedikodusu olan (ayrıca: dedikoducu)
+FOFOS	(fofo sözcüğünün çekimi) (sıfat) yumuşak: kolay çiğnenen, kolay kesilen (ayrıca: pofuduk, pes)
+FOGAO	(ad) ateş: Patlayıcı silahların atılması. (ayrıca: yangın)
+FOGAOZINHO	(fogao sözcüğünün çekimi) (ad) ateş: Patlayıcı silahların atılması. (ayrıca: yangın)
+FOGE	(fugir sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FOGEM	(fugir sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FOGES	(fugir sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FOGO	(ad) ateş: Yanıcı cisimlerin tutuşmasıyla beliren ısı ve ışık; od, nâr.
+FOGOSO	(sıfat) coşkulu: coşkusu olan; coşkun, hararetli.
+FOGUETE	(ad) füze: Bir yanıcı ve bir yakıcı maddenin sürekli olarak yanmasından doğan itiş gücü ile hareket eden düzenek, güdüm (ayrıca: roket)
+FOGUETES	(ad) çoğul çekimi: foguete
+FOGUINHO	(fogo sözcüğünün çekimi) (ad) ateş: Yanıcı cisimlerin tutuşmasıyla beliren ısı ve ışık; od, nâr.
+FOI	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FOICE	(ad) foice kelimesinin karşılığı: ⟪tırpan|TIRPAN⟫
+FOJO	(ad) mağara: bir yamaca veya kaya içine doğru uzanan, barınak olarak kullanılabilen yer kovuğu, in
+FOLDER	(ad) folder kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫
+FOLE	(ad) körük: ateşi canlandırmak için kullanılan araç
+FOLECA	(ad) kar tanesi: Yeterli bir boyuta ulaşan tek bir buz kristali.
+FOLECAR	(eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+FOLEGO	(ad) folego kelimesinin karşılığı: ⟪nefes|NEFES⟫
+FOLGA	(ad) duruş: durmak işi.
+FOLGADO	(sıfat) serseri: (mecaz) amaçsız (ayrıca: bol, gevşek)
+FOLGAM	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGAMOS	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGANDO	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGAR	(eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGASSE	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGAZAO	(ad) folgazao kelimesinin karşılığı: ⟪karıcı|KARICI⟫
+FOLGOU	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGUE	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLGUEI	(folgar sözcüğünün çekimi) (eylem) dinlenme: dinlenmek işi; istirahat. (ayrıca: dayamak, gevşemek)
+FOLHA	(ad) yaprak: Bitkilerde solunum, karbon özümlenmesi, terleme vb. olayların oluştuğu, çoğu klorofilli, yeşil ve türlü biçimdeki bölümler. (ayrıca: plaka)
+FOLHAS	(ad) çoğul çekimi: folha
+FOLHECA	(ad) kar tanesi: Yeterli bir boyuta ulaşan tek bir buz kristali.
+FOLHETO	(ad) folheto kelimesinin karşılığı: brosür
+FOLHINHA	(ad) folhinha kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫
+FOLIAO	(sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şen)
+FOLIOES	(foliao sözcüğünün çekimi) (sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şen)
+FOME	(ad) açlık: (mecaz) aşırı istek içinde bulunma
+FOMENTO	(ad) açınım: açınma işi, inkişaf (ayrıca: inkişaf, açınma)
+FOMES	(ad) çoğul çekimi: fome
+FOMOS	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FONAÇAO	(ad) sesleme: Seslemek işi veya durumu.
+FONE	(ad) fone kelimesinin karşılığı: ⟪kulaklık|KULAKLIK⟫
+FONEMA	(ad) fonema kelimesinin karşılığı: ⟪fonem|FONEM⟫
+FONEMAS	(ad) çoğul çekimi: fonema
+FONETICA	(ad) fonetica kelimesinin karşılığı: ses bilgisi, ⟪fonetik|FONETİK⟫
+FONOGRAFO	(ad) fonografo kelimesinin karşılığı: ⟪fonograf|FONOGRAF⟫
+FONOLOGIA	(ad) fonologia kelimesinin karşılığı: ses bilimi
+FONOLOGO	(ad) fonologo kelimesinin karşılığı: ⟪fonolog|FONOLOG⟫, ses bilimci
+FONTE	(ad) kaynak: İki metal veya yapay parçayı ısıl yolla birleştirme yöntemi, kaynaştırıp yapıştırma işi. (ayrıca: çeşme)
+FOR	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FORA	(zarf) fora kelimesinin karşılığı: ⟪hariç|HARİÇ⟫, ⟪dışarı|DIŞARI⟫\n(edat) başka: ayrıca, üstelik, bir yana anlamlarında -den başka şeklinde kullanılan söz
+FORAM	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FORAS	(fora sözcüğünün çekimi) (zarf) fora kelimesinin karşılığı: ⟪hariç|HARİÇ⟫, ⟪dışarı|DIŞARI⟫
+FORASTEIRO	(sıfat) yabancı: başka bir milletten olan, başka devlet uyruğunda olan kişi (ayrıca: bigâne)\n(ad) yabancı: başka bir milletten olan, başka devlet uyruğunda olan kişi
+FORCA	(ad) forca kelimesinin karşılığı: ⟪darağacı|DARAĞACI⟫
+FORCADO	(ad) dirgen: (Havza ağzı) Genellikle harmanda sapları yaymaya yarayan demirden, çatallı bir tarım aracı, diren. (ayrıca: yaba)
+FORCE	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORCEI	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORCEM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORCEMOS	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORCEPS	(ad) pens: Kıskaç biçiminde iğne.
+FORCES	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORDES	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FOREM	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FORES	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FORMA	(ad) form: biçim. (ayrıca: biçim, forma)
+FORMADOR	(ad) öğretmen: mesleği bilgi öğretmek olan kişi.
+FORMAIS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAL	(sıfat) biçimsel: biçime dayanan, biçimle ilgili, şekle ait, şekli, formel (ayrıca: kurallı)
+FORMAM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMANDAS	(ad) çoğul çekimi: formanda
+FORMANDOS	(ad) çoğul çekimi: formando
+FORMAR	(eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek, şekillendirmek)
+FORMARA	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMARAM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMARAO	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAREI	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAREM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAREMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMARIA	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMARIAM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMARIAMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMARMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAS	(forma sözcüğünün çekimi) (ad) form: biçim. (ayrıca: biçim, forma)
+FORMASSE	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMASSEM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMASSEMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMASTE	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMATO	(ad) format: biçim (ayrıca: boyut)
+FORMATOS	(ad) çoğul çekimi: formato
+FORMATURA	(ad) mezuniyet: okulu bitirme (ayrıca: mezuniyet töreni)
+FORMAVA	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAVAM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAVAMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMAÇAO	(ad) organizasyon: organizasyon (ayrıca: kuruluş)
+FORMEI	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMEM	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMEMOS	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMIDAVEL	(sıfat) felaket: hayrete düşürücü, şaşırtıcı (ayrıca: ulu)
+FORMIGA	(ad) formiga kelimesinin karşılığı: ⟪karınca|KARINCA⟫
+FORMIGAS	(ad) çoğul çekimi: formiga
+FORMO	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMOS	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FORMOSA	(formoso sözcüğünün çekimi) (sıfat) güzel: hoşa giden, beğenilen, iyi, doğru bir şekilde
+FORMOSAS	(formoso sözcüğünün çekimi) (sıfat) güzel: hoşa giden, beğenilen, iyi, doğru bir şekilde
+FORMOSO	(sıfat) güzel: hoşa giden, beğenilen, iyi, doğru bir şekilde
+FORMOSOS	(formoso sözcüğünün çekimi) (sıfat) güzel: hoşa giden, beğenilen, iyi, doğru bir şekilde
+FORMOU	(formar sözcüğünün çekimi) (eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek,...
+FORMULA	(ad) formula kelimesinin karşılığı: ⟪formül|FORMÜL⟫
+FORMULADO	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULAM	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULAMOS	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULANDO	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULAR	(sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)\n(eylem) formular kelimesinin karşılığı: formüle etmek
+FORMULARAM	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULAREI	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULAREMOS	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULARIO	(ad) form: biçim. (ayrıca: biçim, forma)
+FORMULAS	(ad) çoğul çekimi: fórmula
+FORMULAÇAO	(ad) formulaçao kelimesinin karşılığı: formüle etme
+FORMULE	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULEI	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULO	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORMULOU	(formular sözcüğünün çekimi) (sıfat) kurallı: kuralı olan, kurala uygun olan, kaideli, kıyasî (ayrıca: biçimsel)
+FORNALHA	(ad) ocak: mutfak eşyası (ayrıca: fırın, yüksek fırın)
+FORNECE	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECEM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECEMOS	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECENDO	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECER	(eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca: beslemek, sağlamak)
+FORNECERA	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECERAM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECERAO	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECEREI	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECEREM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECEREMOS	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECERIA	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECERIAM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECERMOS	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECESSE	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECESSEM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECEU	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECI	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECIA	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECIAM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNECIAMOS	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNEÇA	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNEÇAM	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNEÇAMOS	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNEÇO	(fornecer sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek. (ayrıca:...
+FORNO	(ad) fırın: elektrik, tüp gaz ve doğal gazla çalışan, yiyecekleri pişirmeye veya ısıtmaya yarayan alet
+FORNOS	(ad) çoğul çekimi: forno
+FORO	(ad) forum: Tartışma alanı.
+FOROS	(ad) çoğul çekimi: foro
+FORQUEAR	(eylem) çatallanmak: Çatal gibi ikiye ayrılmak
+FORQUILHA	(ad) forquilha kelimesinin karşılığı: ⟪yaba|YABA⟫, ⟪dirgen|DİRGEN⟫
+FORQUILHAR	(eylem) forquilhar kelimesinin karşılığı: ⟪çatallanmak|ÇATALLANMAK⟫
+FORQUILHAS	(forquilha sözcüğünün çekimi) (ad) forquilha kelimesinin karşılığı: ⟪yaba|YABA⟫, ⟪dirgen|DİRGEN⟫
+FORRADO	(sıfat) forrado kelimesinin karşılığı: üstü kapalı
+FORRAGEM	(ad) yem: birini aldatabilmek için hazırlanmış düzen, kullanılan kimse veya şey
+FORRAM	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRAMOS	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRANDO	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRAR	(eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRARAM	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRAVA	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRE	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORREI	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORREM	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORRO	(ad) forro kelimesinin karşılığı: ⟪astar|ASTAR⟫\n(sıfat) bağımsız: bağımlı olmayan (ayrıca: bedava, özgür)
+FORROS	(forro sözcüğünün çekimi) (ad) forro kelimesinin karşılığı: ⟪astar|ASTAR⟫
+FORROU	(forrar sözcüğünün çekimi) (eylem) forrar kelimesinin karşılığı: ⟪örtmek|ÖRTMEK⟫
+FORTALECE	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECEM	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECEMOS	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECENDO	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECER	(eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECERA	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECERAM	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECERAO	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECEREM	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECEREMOS	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECERIA	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECERMOS	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECESSE	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECESSEM	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECEU	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECI	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECIA	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECIDO	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALECIMENTO	(ad) güçlendirme: güçlendirmek işi
+FORTALEZA	(ad) fortaleza kelimesinin karşılığı: ⟪hisar|HİSAR⟫
+FORTALEZAS	(ad) çoğul çekimi: fortaleza
+FORTALEÇA	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALEÇAM	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTALEÇO	(fortalecer sözcüğünün çekimi) (eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+FORTE	(ad) kuvvet: Dayanıklılık, tahammül, mukāvemet: (ayrıca: güç)\n(sıfat) yavuz: güçlü (ayrıca: metin, kuvvetli)
+FORTES	(ad) çoğul çekimi: forte
+FORTIFICA	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFICAMOS	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFICANDO	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFICAR	(eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFICARAM	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFICOU	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFIQUE	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTIFIQUEM	(fortificar sözcüğünün çekimi) (eylem) pekiştirmek: sağlamlaştırmak. (ayrıca: sağlamlaştırmak, güçlendirilmek)
+FORTUITA	(fortuito sözcüğünün çekimi) (sıfat) kazara: istemeyerek (ayrıca: rastlantısal, tesadüfî)
+FORTUITO	(sıfat) kazara: istemeyerek (ayrıca: rastlantısal, tesadüfî)
+FORTUNA	(ad) baht: şans
+FORTUNAS	(ad) çoğul çekimi: fortuna
+FORUM	(ad) forum kelimesinin karşılığı: ⟪forum|FORUM⟫
+FORUNS	(ad) çoğul çekimi: fórum
+FORÇA	(ad) kuvvet: Zor, şiddet, cebir (ayrıca: güç, zor)
+FORÇADA	(forçado sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+FORÇADAMENTE	(zarf) zorla: istemeyerek, isteksiz olarak, zoraki
+FORÇADAS	(forçado sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+FORÇADO	(sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+FORÇAM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAMOS	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇANDO	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAR	(eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARA	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARAM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARAO	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAREI	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAREM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAREMOS	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARIA	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARIAM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARIAMOS	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇARMOS	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAS	(ad) çoğul çekimi: força
+FORÇASSE	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇASSEM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇASSEMOS	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇASTE	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAVA	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇAVAM	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇO	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORÇOSAMENTE	(zarf) zorla: istemeyerek, isteksiz olarak, zoraki
+FORÇOU	(forçar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FOSFATO	(ad) fosfato kelimesinin karşılığı: ⟪fosfat|FOSFAT⟫
+FOSFINA	(ad) fosfina kelimesinin karşılığı: fosfamin, ⟪fosfin|FOSFİN⟫
+FOSFORESCENTE	(sıfat) fosforışıl: Fosforışı özelliği olan
+FOSFORESCENTES	(fosforescente sözcüğünün çekimi) (sıfat) fosforışıl: Fosforışı özelliği olan
+FOSFORO	(ad) fosfor: atom numarası 15 olan bir kimyasal element (ayrıca: kibrit)
+FOSFOROS	(ad) çoğul çekimi: fósforo
+FOSSA	(ad) göz: boşluk, delik (ayrıca: delik, çukur)
+FOSSEIS	(ad) çoğul çekimi: fóssil
+FOSSIL	(ad) fossil kelimesinin karşılığı: ⟪fosil|FOSİL⟫
+FOSSO	(ad) fosso kelimesinin karşılığı: ⟪hendek|HENDEK⟫
+FOSTE	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FOSTES	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FOTO	(ad) fotoğraf: görünüm.
+FOTOCOPIA	(ad) tıpkıçekim: fotokopi (ayrıca: fotokopi)
+FOTOGENICO	(sıfat) fotogenico kelimesinin karşılığı: ⟪fotojenik|FOTOJENİK⟫
+FOTOGRAFA	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFADO	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAM	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAMOS	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFANDO	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAR	(eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFARA	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFARAM	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAREI	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAREM	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAREMOS	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFARIA	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFARMOS	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAS	(ad) çoğul çekimi: fotógrafa
+FOTOGRAFASSE	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFASSEM	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAVA	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAVAM	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFAVAMOS	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFE	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFEI	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFEM	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTOGRAFIA	(ad) fotoğrafçılık: Fotoğrafçının yaptığı iş (ayrıca: fotoğraf)
+FOTOGRAFIAS	(ad) çoğul çekimi: fotografia
+FOTOGRAFO	(ad) fotoğrafçı: Fotoğraf çeken veya basan kimse
+FOTOGRAFOS	(ad) çoğul çekimi: fotógrafo
+FOTOGRAFOU	(fotografar sözcüğünün çekimi) (eylem) fotografar kelimesinin karşılığı: ateş etmek
+FOTON	(ad) foton kelimesinin karşılığı: ⟪foton|FOTON⟫
+FOTOS	(foto sözcüğünün çekimi) (ad) fotoğraf: görünüm.
+FOTOSSINTESE	(ad) fotosentez: Bitkilerin ve diğer organizmaların enerji olarak ışığı kullanarak karbondioksit ve suyu, karbonhidrat ve oksijene çevirmesi işlemi
+FOUCE	(ad) fouce kelimesinin karşılığı: ⟪orak|ORAK⟫
+FOXTROTE	(ad) foxtrote kelimesinin karşılığı: ⟪fokstrot|FOKSTROT⟫
+FRACA	(fraco sözcüğünün çekimi) (sıfat) güçsüz: gücü olmayan, âciz (ayrıca: argın, baygın)
+FRACASSA	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAM	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAMOS	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSANDO	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAR	(eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSARA	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSARAM	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSARAO	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAREI	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAREM	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAREMOS	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSARIA	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSARMOS	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSASSE	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSASSEM	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSASSEMOS	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSAVA	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSE	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSEI	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSEM	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSEMOS	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACASSO	(ad) fracasso kelimesinin karşılığı: ⟪başarısızlık|BAŞARISIZLIK⟫
+FRACASSOS	(ad) çoğul çekimi: fracasso
+FRACASSOU	(fracassar sözcüğünün çekimi) (eylem) fracassar kelimesinin karşılığı: sınıfta bırakmak
+FRACO	(sıfat) güçsüz: gücü olmayan, âciz (ayrıca: argın, baygın)
+FRADES	(ad) çoğul çekimi: frade
+FRAGA	(ad) fraga kelimesinin karşılığı: ⟪uçurum|UÇURUM⟫
+FRAGATA	(ad) fırkateyn: Üç direkli, bir tür yelkenli veya savaş gemisi.; firkate (ayrıca: firkate)
+FRAGILIDADES	(ad) çoğul çekimi: fragilidade
+FRAGMENTO	(ad) fragmento kelimesinin karşılığı: ⟪çırpı|ÇIRPI⟫, ⟪klip|KLİP⟫
+FRAGMENTOS	(ad) çoğul çekimi: fragmento
+FRAGOR	(ad) fragor kelimesinin karşılığı: ⟪bumba|BUMBA⟫, ⟪seren|SEREN⟫
+FRAGRANCIA	(ad) parfüm: güzel koku
+FRAGRANTE	(sıfat) aromalı: hoş kokulu, aromatik (ayrıca: aromatik, hoş kokulu)
+FRAGUA	(ad) ocak: mutfak eşyası (ayrıca: fırın, yüksek fırın)
+FRAGULHO	(ad) lahana: Kat kat elbise giymiş kimse.
+FRAJOLA	(sıfat) şık: güzel, zarif, modaya uygun (ayrıca: bakımlı)
+FRALDAS	(ad) çoğul çekimi: fralda
+FRAMBOESA	(ad) ahududu: gülgillerden, dikenli bitki (Rubus idaeus) ve bu bitkinin benzeyen, kırmızı renkli, sulu ve kokulu yemişi, ağaç çileği, frambuaz (ayrıca: ağaç çileği, frambuaz)
+FRAMBOESAS	(ad) çoğul çekimi: framboesa
+FRAMBOESEIRA	(ad) framboeseira kelimesinin karşılığı: ⟪ahududu|AHUDUDU⟫
+FRAME	(ad) kasnak: enli çember (ayrıca: çerçeve, dördül)
+FRANCAMENTE	(zarf) açıkça: gizli bir yönü kalmaksızın, kolay anlaşılır bir biçimde, alenen, aşikâre
+FRANCES	(ad) frances kelimesinin karşılığı: fransızca
+FRANCESES	(ad) çoğul çekimi: francês
+FRANCIO	(ad) fransiyum: Aktinyum'dan elde edilen, atom numarası 87, atom ağırlığı 223 olan radyoaktif element
+FRANCO	(sıfat) bonkör: iyi yürekli, iyi kalpli (ayrıca: cömert, liberal)
+FRANGALHOS	(ad) çoğul çekimi: frangalho
+FRANGAS	(ad) çoğul çekimi: franga
+FRANGO	(ad) frango kelimesinin karşılığı: ⟪tavuk|TAVUK⟫
+FRANJA	(ad) kâkül: alna düşen kısa kesilmiş saç, perçem (ayrıca: püskül)
+FRANZINO	(sıfat) ince: hafif, gücü az. (ayrıca: yufka, arık)
+FRAQUEJA	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJADO	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJAM	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJAMOS	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJANDO	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJAR	(eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJARAM	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJARMOS	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJE	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJEI	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJEM	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEJO	(ad) zayıflama: zayıflamak işi
+FRAQUEJOU	(fraquejar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+FRAQUEZA	(ad) fraqueza kelimesinin karşılığı: ⟪zaaf|ZAAF⟫
+FRASCO	(ad) şişe: İçerisine sıvı konulan, cam veya plastikten yapılmış, dar ağızlı uzun kap
+FRASE	(ad) cümlecik: küçük cümle, tümcecik (ayrıca: deyim)
+FRASES	(frase sözcüğünün çekimi) (ad) cümlecik: küçük cümle, tümcecik (ayrıca: deyim)
+FRATERNIDADE	(ad) birlik: Belli bir topluluğun yararlarını korumak için kurulmuş dernek. (ayrıca: kardeşlik)
+FRATRICIDA	(ad) fratricida kelimesinin karşılığı: dost ateşi
+FRATRICIDAS	(fratricida sözcüğünün çekimi) (ad) fratricida kelimesinin karşılığı: dost ateşi
+FRATRICIDIO	(ad) fratricidio kelimesinin karşılığı: dost ateşi
+FRATURA	(ad) kırık: kırıntı.
+FRATURADO	(sıfat) kırık: kırılmış olan; münkesir. (ayrıca: sakat, bozuk)
+FRATURANDO	(fraturar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRATURAR	(eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRATURARAM	(fraturar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRATURAS	(ad) çoğul çekimi: fratura
+FRATURE	(fraturar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRATUREI	(fraturar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRATURO	(fraturar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRATUROU	(fraturar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+FRAUDA	(eylem) fraudar sözcüğünün çekimi: ##üçüncü tekil şahıs şimdiki zaman bildirme kipi ##ikinci tekil şahıs emir kipi
+FRAUDAM	(eylem) fraudar sözcüğünün üçüncü çoğul şahıs şimdiki zaman bildirme kipi çekimi
+FRAUDAMOS	(eylem) fraudar sözcüğünün çekimi: ##birinci çoğul şahıs şimdiki zaman bildirme kipi ##(Brezilya) birinci çoğul şahıs tamamlanmış geçmiş zaman bildirme kipi
+FRAUDANDO	(eylem) fraudar sözcüğünün gerund çekimi: dolandırmak
+FRAUDAR	(eylem) dolandırmak: bir kimseyi aldatarak kişisel çıkar sağlamak
+FRAUDAS	(eylem) fraudar sözcüğünün ikinci tekil şahıs şimdiki zaman bildirme kipi çekimi
+FRAUDE	(ad) fraude kelimesinin karşılığı: ⟪dolandırıcılık|DOLANDIRICILIK⟫
+FRAUDEI	(fraudar sözcüğünün çekimi) (eylem) dolandırmak: bir kimseyi aldatarak kişisel çıkar sağlamak
+FRAUDOU	(fraudar sözcüğünün çekimi) (eylem) dolandırmak: bir kimseyi aldatarak kişisel çıkar sağlamak
+FRAUDULENTA	(fraudulento sözcüğünün çekimi) (sıfat) sahte: (mecaz) yapmacık
+FRAUDULENTAS	(fraudulento sözcüğünün çekimi) (sıfat) sahte: (mecaz) yapmacık
+FRAUDULENTO	(sıfat) sahte: (mecaz) yapmacık
+FRAUDULENTOS	(fraudulento sözcüğünün çekimi) (sıfat) sahte: (mecaz) yapmacık
+FRAÇAO	(ad) fraçao kelimesinin karşılığı: ⟪fraksiyon|FRAKSİYON⟫, ⟪kesir|KESİR⟫
+FREADO	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREANDO	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREAR	(eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREARA	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREARIA	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREASSE	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREAVA	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FRECHA	(ad) frecha kelimesinin karşılığı: ok
+FREEI	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREGUES	(ad) müşteri: hizmet, mal v.s. alan ve karşılığında ücret ödeyen kişi, alıcı
+FREGUESIA	(ad) freguesia kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, ⟪semt|SEMT⟫, ⟪bölge|BÖLGE⟫, vasi edinilen
+FREIA	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREIAM	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREIE	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREIO	(ad) freio kelimesinin karşılığı: ⟪fren|FREN⟫
+FREIOS	(ad) çoğul çekimi: freio
+FREIRA	(ad) freira kelimesinin karşılığı: patlamış mısır, patlayan mısır
+FREIRAS	(ad) çoğul çekimi: freira
+FREIXO	(sıfat) freixo kelimesinin karşılığı: ⟪dişbudak|DİŞBUDAK⟫
+FREMENTE	(sıfat) titrek: titreyen, lerzan
+FRENESI	(ad) kıyın: zor (ayrıca: zor)
+FRENTE	(ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı (ayrıca: ön)
+FREOU	(frear sözcüğünün çekimi) (eylem) frear kelimesinin karşılığı: ⟪alıkoymak|ALIKOYMAK⟫, ⟪oyalamak|OYALAMAK⟫
+FREQUENCIA	(ad) sıklık: birim zamandaki titreşim sayısı (ayrıca: frekans)
+FREQUENTA	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAM	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAMOS	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTANDO	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAR	(eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTARA	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTARAM	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTARAO	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAREM	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTARIA	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTARMOS	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTASSE	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTASSEM	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAVA	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAVAM	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTAVAMOS	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTE	(sıfat) frequente kelimesinin karşılığı: ⟪denemek|DENEMEK⟫
+FREQUENTEI	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTEM	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTEMENTE	(zarf) frequentemente kelimesinin karşılığı: sık sık, çoğu kez
+FREQUENTEMOS	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTES	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTO	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FREQUENTOU	(frequentar sözcüğünün çekimi) (eylem) gezmek: herhangi bir biçimde gezinmek (ayrıca: katılmak, ziyaret etmek)
+FRESCAR	(eylem) frescar kelimesinin karşılığı: ⟪aksatmak|AKSATMAK⟫, rahatsız etmek, ⟪uğraştırmak|UĞRAŞTIRMAK⟫
+FRESCAS	(frescar sözcüğünün çekimi) (eylem) frescar kelimesinin karşılığı: ⟪aksatmak|AKSATMAK⟫, rahatsız etmek, ⟪uğraştırmak|UĞRAŞTIRMAK⟫
+FRESCO	(sıfat) fresco kelimesinin karşılığı: ⟪taptaze|TAPTAZE⟫, ⟪körpe|KÖRPE⟫\n(ad) yemiş: meyve (ayrıca: meyve)
+FRESCOR	(ad) tazelik: taze olma durumu, körpelik, taravet
+FRESCURA	(ad) frescura kelimesinin karşılığı: ⟪tazelik|TAZELİK⟫
+FRESCURAS	(ad) çoğul çekimi: frescura
+FRESTA	(ad) çatlak: Herhangi bir yerde uzunluğuna olan açıklık; çatlaklık (ayrıca: yarık, aralık)
+FRETA	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETADO	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETAMOS	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETANDO	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETAR	(eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETARAM	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETARIA	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETE	(ad) kargo: yük taşıyan uçak veya gemi
+FRETEI	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRETES	(ad) çoğul çekimi: frete
+FRETOU	(fretar sözcüğünün çekimi) (eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+FRIAMENTE	(zarf) soğuk: İlgisiz, sevimsiz bir biçimde veya memnuniyetsizliğini belli ederek.
+FRIAS	(frio sözcüğünün çekimi) (sıfat) soğuk: Üşütecek derecede ısısı olan.
+FRICCIONA	(friccionar sözcüğünün çekimi) (eylem) friccionar kelimesinin karşılığı: ⟪ovmak|OVMAK⟫
+FRICCIONANDO	(friccionar sözcüğünün çekimi) (eylem) friccionar kelimesinin karşılığı: ⟪ovmak|OVMAK⟫
+FRICCIONAR	(eylem) friccionar kelimesinin karşılığı: ⟪ovmak|OVMAK⟫
+FRICCIONE	(friccionar sözcüğünün çekimi) (eylem) friccionar kelimesinin karşılığı: ⟪ovmak|OVMAK⟫
+FRICOTE	(ad) ağlama: ağlamak işi.
+FRICÇAO	(ad) sürtünme: Sürtünmek işi
+FRIEZA	(ad) soğukluk: soğuk, sevimsiz ve ilgisiz davranış, ilgisizlik
+FRIGIDA	(frigido sözcüğünün çekimi) (sıfat) frigido kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+FRIGIDAS	(frigido sözcüğünün çekimi) (sıfat) frigido kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+FRIGIDEIRA	(ad) frigideira kelimesinin karşılığı: ⟪tava|TAVA⟫
+FRIGIDO	(sıfat) frigido kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+FRIGIDOS	(frigido sözcüğünün çekimi) (sıfat) frigido kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+FRIGIR	(eylem) frigir kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRIGORIFICO	(ad) buzdolabı: yiyecek, içecek vb.ni soğuk olarak saklamaya yarayan, motorla çalışan dolap, soğutucu
+FRIGORIFICOS	(ad) çoğul çekimi: frigorífico
+FRINCHA	(ad) çatırtı: Çatırdama sesi. (ayrıca: yarık)
+FRIO	(sıfat) soğuk: Üşütecek derecede ısısı olan.
+FRIORENTA	(friorento sözcüğünün çekimi) (sıfat) friorento kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+FRIORENTO	(sıfat) friorento kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+FRIOS	(ad) çoğul çekimi: frio
+FRISANDO	(frisar sözcüğünün çekimi) (eylem) kıvırmak: saptırmak, çevirmek (ayrıca: bükmek)
+FRISAR	(eylem) kıvırmak: saptırmak, çevirmek (ayrıca: bükmek)
+FRISEI	(frisar sözcüğünün çekimi) (eylem) kıvırmak: saptırmak, çevirmek (ayrıca: bükmek)
+FRISO	(ad) friso kelimesinin karşılığı: ⟪friz|FRİZ⟫
+FRISOU	(frisar sözcüğünün çekimi) (eylem) kıvırmak: saptırmak, çevirmek (ayrıca: bükmek)
+FRITA	(ad) frita kelimesinin karşılığı: ⟪tava|TAVA⟫, ⟪kızartma|KIZARTMA⟫
+FRITADO	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAMOS	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITANDO	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAR	(eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITARA	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITARAM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITARAO	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAREI	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAREM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAREMOS	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITARIA	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITARIAM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITARMOS	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITASSEM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAVA	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITAVAM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITE	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITEI	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITEM	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITES	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRITO	(sıfat) kebap: kavrulmuş, kızarmış
+FRITOS	(ad) çoğul çekimi: frito
+FRITOU	(fritar sözcüğünün çekimi) (eylem) fritar kelimesinin karşılığı: ⟪kızartmak|KIZARTMAK⟫
+FRIVOLO	(sıfat) hoppa: yaşına uymayan davranışlarda bulunan
+FRIZER	(ad) frizer kelimesinin karşılığı: ⟪buzluk|BUZLUK⟫
+FRONHA	(ad) beniz: yüz (ayrıca: didar, safha)
+FRONHAS	(fronha sözcüğünün çekimi) (ad) beniz: yüz (ayrıca: didar, safha)
+FRONTAL	(sıfat) ileri: Amaca doğru durmadan yürü anlamında kullanılan bir seslenme sözü (ayrıca: ön)
+FRONTARIA	(ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı (ayrıca: ön)
+FRONTE	(ad) alın: bazı şeylerin önü, ön yüzü
+FRONTEIRA	(ad) sınır: coğrafya, politika
+FRONTEIRAS	(ad) fronteira sözcüğünün çoğul çekimi
+FRONTEIRO	(sıfat) fronteiro kelimesinin karşılığı: ön
+FROTA	(ad) filo: bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü
+FROTAS	(ad) çoğul çekimi: frota
+FROUMA	(ad) kepek: başın derisindeoluşan küçük, beyaz pulcuklar
+FROUXA	(frouxo sözcüğünün çekimi) (sıfat) serseri: (mecaz) amaçsız (ayrıca: bol, gevşek)
+FROUXO	(sıfat) serseri: (mecaz) amaçsız (ayrıca: bol, gevşek)
+FRUGAL	(sıfat) frugal kelimesinin karşılığı: ⟪iktisadi|İKTİSADİ⟫
+FRUGALIDADE	(ad) frugalidade kelimesinin karşılığı: ⟪tasarruf|TASARRUF⟫
+FRUIR	(eylem) eğlenmek: oyalanmak
+FRUIÇAO	(ad) gerçekleşme: gerçekleşmek işi, tahakkuk
+FRUSTRA	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRAM	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRAMOS	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRANDO	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRAR	(eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRARA	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRARAM	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRAREM	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRARIA	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRAVA	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRAÇAO	(ad) frustraçao kelimesinin karşılığı: ⟪bıkkınlık|BIKKINLIK⟫
+FRUSTRE	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTREI	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTRO	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUSTROU	(frustrar sözcüğünün çekimi) (eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)
+FRUTA	(ad) meyve: (mecaz) kâr; mahsul, ürün; netice, sonuç (ayrıca: yemiş)
+FRUTAS	(ad) çoğul çekimi: fruta
+FRUTINHA	(fruta sözcüğünün çekimi) (ad) meyve: (mecaz) kâr; mahsul, ürün; netice, sonuç (ayrıca: yemiş)
+FRUTO	(ad) meyve: (mecaz) kâr; mahsul, ürün; netice, sonuç (ayrıca: yemiş)
+FRUTOS	(ad) çoğul çekimi: fruto
+FRUTOSE	(ad) fruktoz: Tatlı meyvelerde ve balda bulunan, C₆H₁₂O₆ kapalı formülüne sahip heksoz sınıfından bir şeker, meyve şekeri
+FUA	(ad) fua kelimesinin karşılığı: ⟪kepek|KEPEK⟫
+FUGA	(ad) kaçma: kaçmak işi (ayrıca: uçuş, uçma)
+FUGI	(fugir sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FUGIR	(eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FUGIRAM	(fugir sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FUGIU	(fugir sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak. (ayrıca: tüymek, seğirtmek)
+FUI	(ser sözcüğünün çekimi) (ad) yaratık: yaratılmış canlı varlık, mahluk
+FUINHA	(ad) gelincik: arpacık, çıban, yılancık vb.
+FULANOS	(ad) çoğul çekimi: fulano
+FULCRAL	(sıfat) merkezî: merkezde olan, merkezi oluşturan (ayrıca: anahtar)
+FULEIRO	(sıfat) faydasız: yararsız (ayrıca: vasat, değersiz)
+FULERENO	(ad) fulereno kelimesinin karşılığı: fulleren
+FULGIDO	(sıfat) nurlu: (mecaz) saygı uyandıran (ayrıca: ışıl)
+FULGIR	(eylem) fulgir kelimesinin karşılığı: yanıp sönmek
+FULGURA	(fulgurar sözcüğünün çekimi) (eylem) fulgurar kelimesinin karşılığı: yanıp sönmek
+FULGURAR	(eylem) fulgurar kelimesinin karşılığı: yanıp sönmek
+FULIGEM	(ad) fuligem kelimesinin karşılığı: is, ⟪kurum|KURUM⟫
+FULL	(zarf) tamamen: bütün olarak, büsbütün (ayrıca: katiyetle, mutlak)
+FULMINANTE	(sıfat) kızgın: (mecaz) kızmış olan, öfkeli, mütehevvir
+FULMINANTES	(fulminante sözcüğünün çekimi) (sıfat) kızgın: (mecaz) kızmış olan, öfkeli, mütehevvir
+FULVO	(sıfat) fulvo kelimesinin karşılığı: bal rengi
+FUMADOR	(ad) sigara tiryakisi: Sigaraya aşırı düşkün olan kimse
+FUMAM	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMANDO	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMANTE	(ad) sigara tiryakisi: Sigaraya aşırı düşkün olan kimse
+FUMAR	(eylem) tütmek: duman veya buhar çıkarmak
+FUMARA	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMARAM	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMARAO	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAREI	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAREM	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAREMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMARES	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMARIAMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMARMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMASSE	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMASSEM	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMASSEMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMASTE	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAVA	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAVAM	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAVAMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAVAS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMAÇA	(ad) duman: Bir maddenin yanması ile çıkan ve içinde katı zerrelerle buğu bulunan değişik renklerde gaz; tütün.
+FUMAÇAS	(ad) çoğul çekimi: fumaça
+FUMEGANDO	(fumegar sözcüğünün çekimi) (eylem) tütmek: iyi veya kötü kokmak
+FUMEGANTE	(sıfat) dumanlı: dumanı olan, duman çıkaran
+FUMEGAR	(eylem) tütmek: iyi veya kötü kokmak
+FUMEI	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMEM	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMEMOS	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMES	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUMIGADO	(fumigar sözcüğünün çekimi) (eylem) fumigar kelimesinin karşılığı: ⟪tütmek|TÜTMEK⟫
+FUMIGANDO	(fumigar sözcüğünün çekimi) (eylem) fumigar kelimesinin karşılığı: ⟪tütmek|TÜTMEK⟫
+FUMIGAR	(eylem) fumigar kelimesinin karşılığı: ⟪tütmek|TÜTMEK⟫
+FUMO	(ad) duman: Bir maddenin yanması ile çıkan ve içinde katı zerrelerle buğu bulunan değişik renklerde gaz; tütün.
+FUMOU	(fumar sözcüğünün çekimi) (eylem) tütmek: duman veya buhar çıkarmak
+FUNCIONA	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONADO	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAIS	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAL	(sıfat) funcional kelimesinin karşılığı: ⟪işlevsel|İŞLEVSEL⟫
+FUNCIONALIDADE	(ad) işlevsellik: işlevsel olma durumu
+FUNCIONALISMO	(ad) funcionalismo kelimesinin karşılığı: ⟪fonksiyonalizm|FONKSİYONALİZM⟫
+FUNCIONAM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAMENTO	(ad) operasyon: işkence. (ayrıca: harekât, işlem)
+FUNCIONAMOS	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONANDO	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAR	(eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONARA	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONARAM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONARAO	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAREM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAREMOS	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONARIA	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONARIAM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONARIO	(ad) çalışan: çalışma işini yapan kişi (ayrıca: hizmetli, eleman)
+FUNCIONARMOS	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONASSEM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAVA	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAVAM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONAVAMOS	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONE	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONEI	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONEM	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONO	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNCIONOU	(funcionar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+FUNDA	(ad) funda kelimesinin karşılığı: ⟪katapult|KATAPULT⟫, ⟪mancınık|MANCINIK⟫, ⟪sapan|SAPAN⟫
+FUNDADORAS	(ad) çoğul çekimi: fundadora
+FUNDADORES	(ad) çoğul çekimi: fundador
+FUNDAMENTADA	(fundamentado sözcüğünün çekimi) (sıfat) tabanlı: tabanı olan (ayrıca: tabansız, bazlı)
+FUNDAMENTADO	(sıfat) tabanlı: tabanı olan (ayrıca: tabansız, bazlı)
+FUNDAMENTAL	(sıfat) asal: esasla ilgili, asıl ve temel olanla ilgili, esasi (ayrıca: temel)
+FUNDAMENTALISMO	(ad) fundamentalismo kelimesinin karşılığı: köktendincilik
+FUNDAMENTO	(ad) fundamento kelimesinin karşılığı: ⟪vakıf|VAKIF⟫, ⟪fondöten|FONDÖTEN⟫
+FUNDAS	(funda sözcüğünün çekimi) (ad) funda kelimesinin karşılığı: ⟪katapult|KATAPULT⟫, ⟪mancınık|MANCINIK⟫, ⟪sapan|SAPAN⟫
+FUNDAÇAO	(ad) fundaçao kelimesinin karşılığı: ⟪vakıf|VAKIF⟫, ⟪fondöten|FONDÖTEN⟫
+FUNDAÇOES	(ad) çoğul çekimi: fundação
+FUNDIARIO	(sıfat) kırsal: kır ile ilgili
+FUNDIBULARIO	(ad) fundibulario kelimesinin karşılığı: sapancı
+FUNDIDOR	(ad) fundidor kelimesinin karşılığı: ⟪dökümcü|DÖKÜMCÜ⟫
+FUNDIDORA	(fundidor sözcüğünün çekimi) (ad) fundidor kelimesinin karşılığı: ⟪dökümcü|DÖKÜMCÜ⟫
+FUNDIDORES	(ad) çoğul çekimi: fundidor
+FUNDO	(ad) dip: dikili duran bir şeyin yerle birleştiği nokta ve çevresi veya bir şeyin yanı başı (ayrıca: alt, pasif)
+FUNDOS	(ad) fundos kelimesinin karşılığı: arka oda
+FUNDURA	(ad) derinlik: (mecaz) En duyarlı nokta.
+FUNERAL	(sıfat) ağırbaşlı: (mecaz) gösterişli (ayrıca: mahzun, vakur)
+FUNESTO	(sıfat) ölümcül: can çekişen
+FUNGADO	(fungar sözcüğünün çekimi) (eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNGAM	(fungar sözcüğünün çekimi) (eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNGANDO	(fungar sözcüğünün çekimi) (eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNGAR	(eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNGAVA	(fungar sözcüğünün çekimi) (eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNGICIDA	(ad) fungicida kelimesinin karşılığı: ⟪fungusit|FUNGUSİT⟫
+FUNGO	(ad) fungo kelimesinin karşılığı: ⟪mantarlar|MANTARLAR⟫
+FUNGOS	(ad) çoğul çekimi: fungo
+FUNGOU	(fungar sözcüğünün çekimi) (eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNGUE	(fungar sözcüğünün çekimi) (eylem) ahlamak: iç çekmek, ah etmek, ah çeker gibi ses çıkarmak
+FUNIL	(ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNILEIRO	(ad) bakırcı: Bakır ve diğer hafif metallerden kazanlar, oluklar ve kaporta gibi eşyalaraı yapan, tesis edip onaran kişi.
+FUNIS	(funil sözcüğünün çekimi) (ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNÇAO	(ad) funçao kelimesinin karşılığı: ⟪fonksiyon|FONKSİYON⟫
+FUNÇOES	(ad) çoğul çekimi: função
+FURACAO	(ad) furacao kelimesinin karşılığı: kasirga
+FURADAS	(ad) çoğul çekimi: furada
+FURADEIRA	(ad) burgu: tıpa çekmeye yarayan, ucu sivri ve helis biçiminde demir alet, tirbuşon (ayrıca: matkap)
+FURAM	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURAMOS	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURANDO	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURAR	(eylem) delmek: (mecaz) incitmek, kırmak
+FURARA	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURARAM	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURAREI	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURAREM	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURARIA	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURARMOS	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURASSE	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURASSEM	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURAVA	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURAVAM	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURDUNCIO	(ad) karışıklık: karışık olma durumu, keşmekeş, keşmekeşlik, teşevvüş (ayrıca: bozukluk)
+FURE	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FUREI	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FUREM	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURIA	(ad) gayz: öfke, hınç
+FURIAS	(ad) çoğul çekimi: fúria
+FURICO	(ad) makat: Minderli alçak sedir. (ayrıca: anüs, göt)
+FURNA	(ad) furna kelimesinin karşılığı: ⟪mağara|MAĞARA⟫
+FURO	(ad) göz: boşluk, delik (ayrıca: delik, çukur)
+FUROR	(ad) kıyın: zor (ayrıca: zor)
+FUROU	(furar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+FURRECA	(sıfat) değersiz: değeri olmayan veya değeri çok az olan, önemsiz, kıymetsiz, naçiz (ayrıca: naçiz, önemsiz)
+FURTAM	(furtar sözcüğünün çekimi) (eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FURTANDO	(furtar sözcüğünün çekimi) (eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FURTAR	(eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FURTARAS	(furtar sözcüğünün çekimi) (eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FURTEI	(furtar sözcüğünün çekimi) (eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FURTIVA	(furtivo sözcüğünün çekimi) (sıfat) furtivo kelimesinin karşılığı: gizli kapaklı
+FURTIVAS	(furtivo sözcüğünün çekimi) (sıfat) furtivo kelimesinin karşılığı: gizli kapaklı
+FURTIVO	(sıfat) furtivo kelimesinin karşılığı: gizli kapaklı
+FURTIVOS	(furtivo sözcüğünün çekimi) (sıfat) furtivo kelimesinin karşılığı: gizli kapaklı
+FURTO	(ad) hırsızlık: çalma, arakçılık, sirkat (ayrıca: çalma, arakçılık)
+FURTOS	(ad) çoğul çekimi: furto
+FURTOU	(furtar sözcüğünün çekimi) (eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: aşırmak, kaldırmak)
+FURUNCHO	(ad) furuncho kelimesinin karşılığı: ⟪çıban|ÇIBAN⟫
+FURUNCULO	(ad) furunculo kelimesinin karşılığı: ⟪çıban|ÇIBAN⟫
+FUSAO	(ad) kaynaşma: kaynaşmak işi, füzyon
+FUSCO	(sıfat) karanlık: Üzüntü, sıkıntı, perişanlık. (ayrıca: arap)
+FUSIVEL	(ad) kesici: Stoper. (ayrıca: sigorta, fiş)
+FUSO	(ad) fuso kelimesinin karşılığı: iğ
+FUSTE	(ad) sap: erkek (ayrıca: kol, gövde)
+FUTEBOL	(ad) futbol: topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım arasında oynanan top oyunu, ayak topu
+FUTEBOLISTA	(ad) futebolista kelimesinin karşılığı: ⟪futbolcu|FUTBOLCU⟫
+FUTEBOLISTAS	(ad) çoğul çekimi: futebolista
+FUTEBOLISTICA	(sıfat) futebolístico sözcüğünün dişil tekil çekimi: futbol ile ilgili olan
+FUTEBOLISTICO	(sıfat) futbol ile ilgili olan
+FUTIBA	(ad) futiba kelimesinin karşılığı: ayak topu
+FUTICAR	(eylem) delmek: (mecaz) incitmek, kırmak (ayrıca: sik, tükürmek)
+FUTIL	(sıfat) faydasız: yararsız (ayrıca: anlamsız)
+FUTRICAGEM	(ad) hıyanet: kutsal sayılan şeylere el uzatma, kötülük etme veya karşı davranma, hıyanetlik, hainlik
+FUTRICAR	(eylem) futricar kelimesinin karşılığı: laf etmek
+FUTURA	(futuro sözcüğünün çekimi) (ad) futuro kelimesinin karşılığı: gelecek zaman
+FUTURAR	(eylem) öngörmek: Ilerisi için kararlaştırmak, göz önünde tutmak, derpiş etmek (ayrıca: tahmin etmek)
+FUTURAS	(futurar sözcüğünün çekimi) (eylem) öngörmek: Ilerisi için kararlaştırmak, göz önünde tutmak, derpiş etmek (ayrıca: tahmin etmek)
+FUTURES	(futurar sözcüğünün çekimi) (eylem) öngörmek: Ilerisi için kararlaştırmak, göz önünde tutmak, derpiş etmek (ayrıca: tahmin etmek)
+FUTURISMO	(ad) futurismo kelimesinin karşılığı: ⟪fütürizm|FÜTÜRİZM⟫
+FUTURO	(ad) futuro kelimesinin karşılığı: gelecek zaman
+FUTUROLOGIA	(ad) futurologia kelimesinin karşılığı: gelecek bilimi
+FUTUROS	(futuro sözcüğünün çekimi) (ad) futuro kelimesinin karşılığı: gelecek zaman
+FUXICANDO	(fuxicar sözcüğünün çekimi) (eylem) fuxicar kelimesinin karşılığı: laf etmek
+FUXICAR	(eylem) fuxicar kelimesinin karşılığı: laf etmek
+FUXICO	(ad) fuxico kelimesinin karşılığı: ⟪laf|LAF⟫, ⟪dedikodu|DEDİKODU⟫
+FUZARCA	(ad) karışıklık: karışık olma durumu, keşmekeş, keşmekeşlik, teşevvüş (ayrıca: iltibas, bozukluk)
+FUZIL	(ad) fuzil kelimesinin karşılığı: ⟪tüfek|TÜFEK⟫
+FUZILA	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILADO	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILAM	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILAMENTO	(ad) fuzilamento kelimesinin karşılığı: yaylım ateşi
+FUZILAMOS	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILANDO	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILAR	(eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILARA	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILARAM	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILARAO	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILAREI	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILAREM	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILAREMOS	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILARIA	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILARIAM	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILASSEM	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILE	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILEI	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILEM	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILO	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZILOU	(fuzilar sözcüğünün çekimi) (eylem) fuzilar kelimesinin karşılığı: ateş etmek
+FUZUE	(ad) telaş: şaşkınlıktan doğan karışıklık, kargaşa
+FUÇA	(ad) beniz: yüz (ayrıca: didar, safha)

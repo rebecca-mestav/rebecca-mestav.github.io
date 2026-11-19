@@ -1,0 +1,900 @@
+NABABO	(sustantivo) nabab: Virrey o gobernador provincial en el imperio Mogol.
+NABO	(sustantivo) nabo: (Brassica rapa) Planta herbácea, bienal, cultivada por su raíz bulbosa o por sus hojas para uso en gastronomía. Muestra tallo recto, de hasta 80 cm de altura, hojas enteras, oblongas, verdes, con el margen liso, pecioladas, y flores amarillas, tetrámeras, terminales. Pertenece a la misma especie...\n(adjetivo) nabo: (Brassica rapa) Planta herbácea, bienal, cultivada por su raíz bulbosa o por sus hojas para uso en gastronomía. Muestra tallo recto, de hasta 80 cm de altura, hojas enteras, oblongas, verdes, con el margen liso, pecioladas, y flores amarillas, tetrámeras, terminales. Pertenece a la misma especie...
+NACAR	(sustantivo) nácar: Sustancia formada de cal carbonatada, materia orgánica y agua, dura, de color blanco plateado y brillante, que forma lo interior de varias conchas, sobre todo de la madreperla (molusco).
+NACARAR	(verbo) nacarar: Hacer que algo adquiera tonos o aspecto de nácar.
+NACIONAIS	(forma de nacional) (adjetivo) nacional: Perteneciente o relativo a una nación.
+NACIONAL	(adjetivo) nacional: Perteneciente o relativo a una nación.
+NACIONALIDADE	(sustantivo) nacionalidad: Estado propio de la persona nacida o naturalizada en una nación.
+NACIONALIDADES	(sustantivo) Forma del plural de nacionalidade: "nacionalidades": Nacionalidad
+NACIONALISMO	(sustantivo) nacionalismo: Ideología y movimiento político que pone a la nación (usualmente definida en términos culturales o étnicos) como única entidad con derecho para constituir e identificar una comunidad política independiente.
+NACIONALISTA	(adjetivo) nacionalista: Propio o relacionado con el nacionalismo.
+NACIONALISTAS	(forma de nacionalista) (adjetivo) nacionalista: Propio o relacionado con el nacionalismo.
+NACIONALISTICAMENTE	(adverbio) nacionalisticamente se traduce como nacionalistamente
+NACIONALIZADO	(forma de nacionalizar) (verbo) nacionalizar: Hacer, por parte de un país, que un deportista adquiera esa determinada nacionalidad para...
+NACIONALIZANDO	(forma de nacionalizar) (verbo) nacionalizar: Hacer, por parte de un país, que un deportista adquiera esa determinada nacionalidad para...
+NACIONALIZAR	(verbo) nacionalizar: Hacer, por parte de un país, que un deportista adquiera esa determinada nacionalidad para representarles en las competiciones internacionales que participen.
+NACIONALIZOU	(forma de nacionalizar) (verbo) nacionalizar: Hacer, por parte de un país, que un deportista adquiera esa determinada nacionalidad para...
+NACIONALMENTE	(adverbio) nacionalmente: Según la índole o costumbre de una nación.
+NACO	(sustantivo) pedazo: Parte o porción separada de un todo. (también: porción, cacho)
+NADA	(pronombre) nada: Ninguna cosa.\n(adverbio) nada: Ninguna cosa.
+NADADEIRA	(sustantivo) aleta: Cada uno de los miembros aplanados que usan los vertebrados acuáticos para la locomoción.
+NADADO	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADADOR	(adjetivo) nadador se traduce como nadador₁\n(sustantivo) nadador se traduce como nadador₂
+NADADORA	(forma de nadador) (adjetivo) nadador se traduce como nadador₁
+NADADORAS	(forma de nadador) (adjetivo) nadador se traduce como nadador₁
+NADADORES	(forma de nadador) (adjetivo) nadador se traduce como nadador₁
+NADAM	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAMOS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADANDO	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADANTE	(adjetivo) nadante: Variante de nadador.
+NADAR	(verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio fluido.
+NADARA	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADARAM	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADARAO	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAREI	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAREM	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAREMOS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADARIAM	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADARIAMOS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADARMOS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADASSE	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAVA	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAVAM	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADAVAMOS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADE	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADEGA	(sustantivo) nalga: Cada una del par de partes carnosas ubicadas por debajo de la columna vertebral y antes de los muslos. (también: glúteo)
+NADEGAS	(sustantivo) nadegas se traduce como ⟪nalgas⟫
+NADEI	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADEM	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADEMOS	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NADICA	(pronombre) nada: Ninguna cosa.
+NADIR	(sustantivo) nadir: En un sistema de coordenadas esféricas, dirección natural hacia abajo respecto desde donde está situado el observador, que es la opuesta al cénit.
+NADO	(sustantivo) natación: Acción o efecto de nadar
+NADOU	(forma de nadar) (verbo) nadar: Desplazarse en el agua u otro líquido por los propios medios, impulsándose por desplazamiento del medio...
+NAFTA	(sustantivo) nafta: Derivado del petróleo, mezclado con diversos líquidos combustibles, que se emplea en diversos tipos de motores, en particular vehículos.
+NAFTALENO	(sustantivo) naftalina: Hidrocarburo sólido y blanco, muy usado como antiséptico y desinfectante, también para proteger la ropa contra las polillas.
+NAFTALINA	(sustantivo) naftalina: Hidrocarburo sólido y blanco, muy usado como antiséptico y desinfectante, también para proteger la ropa contra las polillas.
+NAIF	(adjetivo) naif: De estilo deliberadamente simple e ingenuo. (también: naíf)
+NAIFA	(sustantivo) cuchillo: Utensilio cortante formado por un mango y una hoja con filo, generalmente de metal.
+NAILON	(sustantivo) nailon: Polímero sintético de poliamida, empleada en la confección de textiles como sustituto de la seda y en otras manufacturas. (también: nylon, nilón)
+NAIPE	(sustantivo) naipe: Cada una de las cartulinas oblongas y marcadas por un lado con una figura y una inscripción que especifica su valor, que se emplean para ciertos juegos de azar o habilidad
+NAIPES	(forma de naipe) (sustantivo) naipe: Cada una de las cartulinas oblongas y marcadas por un lado con una figura y una inscripción que...
+NAJA	(sustantivo) naja se traduce como naja
+NALGA	(sustantivo) nalga: Corte de la parte interna del muslo vacuno.
+NAMORADA	(sustantivo) novio: Persona que está en trance de contraer matrimonio o acaba de hacerlo. (también: novia)
+NAMORADAS	(forma de namorado) (sustantivo) amigo: Que da o recibe un afecto desinteresado (amistad), especialmente si no se basa en lazos de...
+NAMORADO	(sustantivo) amigo: Que da o recibe un afecto desinteresado (amistad), especialmente si no se basa en lazos de parentesco. (también: aliado, aliada)
+NAMORADOS	(sustantivo) pareja: Conjunto de dos entidades o individuos que entre sí mantienen correlación, complementariedad o semejanza.
+NAMORAM	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORANDO	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORAR	(verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORAREI	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORAREMOS	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORARIAM	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORARIAMOS	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORAS	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORASSEM	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORASSEMOS	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORAVAM	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMORAVAMOS	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMOREI	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NAMOROU	(forma de namorar) (verbo) pololear: Estar en una relación sentimental más o menos estable y formal con alguno. (también: cortejar)
+NANAR	(verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con un estado de consciencia reducido. (también: adormecer)
+NANAS	(forma de nanar) (verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con...
+NANOBIOTECNOLOGIA	(sustantivo) nanobiotecnologia se traduce como nanobiotecnología
+NANOSSEGUNDO	(sustantivo) nanosegundo: Unidad de medida de tiempo del Sistema Internacional de Unidades, equivalente a la milmillonésima parte de un segundo, ó 10⁻⁹ segundos.
+NANOTECNOLOGIA	(sustantivo) nanotecnología: Disciplina de la ciencia que estudia la tecnología del control y manipulación de materiales a nivel de los nanómetros.
+NANOU	(forma de nanar) (verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con...
+NAO	(adverbio) nao se traduce como no\n(interjección) Negativo, no o nop.
+NAPOLEONICO	(adjetivo) napoleonico se traduce como napoleónico
+NAPOLITANO	(sustantivo) napolitano: Lengua romance hablada en Nápoles.
+NARCEJA	(sustantivo) agachadiza: (Gallinago gallinago) Ave limícola ampliamente distribuida en Eurasia, África y América, de pico largo, delgado y recto, sus ojos están en la parte alta a ambos lados de la cabeza.
+NARCISISMO	(sustantivo) narcisismo: Complacimiento exagerado acerca de galanura de la imagen y de las capacidades de la propia persona.
+NARCISISTICAMENTE	(adverbio) narcisisticamente se traduce como narcisistamente
+NARCISO	(sustantivo) narciso: Hombre narcisista.
+NARCISOS	(forma de narciso) (sustantivo) narciso: Hombre narcisista.
+NARCOLEPSIA	(sustantivo) narcolepsia: Trastorno del sueño caracterizado por la presencia de accesos de somnolencia irresistible durante el día.
+NARCOTICO	(adjetivo) estupefaciente: Dicho de las sustancias medicinales que provocan sueño o estupor y que, en la mayoría de los casos, hacen perder la sensibilidad al dolor.\n(sustantivo) narcótico: Que tiene la capacidad de producir narcosis. (también: somnífero, soporífero)
+NARCOTRAFICANTE	(adjetivo) narcotraficante: Persona que trafica ilegalmente con psicotrópicos o estupefacientes.\n(sustantivo) narcotraficante: Persona que trafica ilegalmente con psicotrópicos o estupefacientes.
+NARCOTRAFICANTES	(forma de narcotraficante) (adjetivo) narcotraficante: Persona que trafica ilegalmente con psicotrópicos o estupefacientes.
+NARCOTRAFICO	(sustantivo) narcotráfico: Delito consistente en promover, favorecer o facilitar el consumo ilegal de drogas estupefacientes, psicotrópicas o de cualquier otro tipo.
+NARDO	(sustantivo) nardo: Aceite esencial preparado con el extracto de la raíz o rizoma del nardo, de suavísimo olor. Se usa en rituales.
+NAREBA	(sustantivo) nariz: Órgano de la cara del ser humano utilizado para oler y respirar.
+NARGUILE	(sustantivo) narguile: Especie de pipa que se emplea para fumar, por lo general tabaco especial de distintos sabores, cannabis o hachís en el que el humo pasa a través de agua antes de ser aspirado y que usa un quemador de carbón. (también: narguilé, narguila)
+NARINA	(sustantivo) narina: Cada uno de los dos orificios anteriores de las fosas nasales que les sirven de comunicación con el exterior para la entrada y salida de gases, situados en la base o superficie inferior de la nariz en la mayoría de los vertebrados
+NARIZ	(sustantivo) nariz: Órgano de la cara del ser humano utilizado para oler y respirar.
+NARIZES	(forma de nariz) (sustantivo) nariz: Órgano de la cara del ser humano utilizado para oler y respirar.
+NARRA	(forma de narrar) (verbo) narrar: Contar una historia
+NARRADOR	(sustantivo) narrador: Que narra.
+NARRADORA	(forma de narrador) (sustantivo) narrador: Que narra.
+NARRAM	(forma de narrar) (verbo) narrar: Contar una historia
+NARRAMOS	(forma de narrar) (verbo) narrar: Contar una historia
+NARRANDO	(forma de narrar) (verbo) narrar: Contar una historia
+NARRAR	(verbo) narrar: Contar una historia
+NARRARA	(forma de narrar) (verbo) narrar: Contar una historia
+NARRARAM	(forma de narrar) (verbo) narrar: Contar una historia
+NARRAREI	(forma de narrar) (verbo) narrar: Contar una historia
+NARRATIVA	(sustantivo) narrativa: La acción o facultad de narrar.
+NARRATIVAMENTE	(adverbio) narrativamente se traduce como narrativamente
+NARRAVA	(forma de narrar) (verbo) narrar: Contar una historia
+NARRAVAM	(forma de narrar) (verbo) narrar: Contar una historia
+NARRAÇAO	(sustantivo) narración: Cuento o novela.
+NARRE	(forma de narrar) (verbo) narrar: Contar una historia
+NARREI	(forma de narrar) (verbo) narrar: Contar una historia
+NARROU	(forma de narrar) (verbo) narrar: Contar una historia
+NARTEX	(sustantivo) nártex: En una basílica paleocristiana, pórtico reservado a los catecúmenos (no bautizados) y a algunos penitentes. Usado también en la basílica románica.
+NARVAL	(sustantivo) narval: (Monodon monoceros) Cetáceo odontoceto que habita en el Ártico. El macho se caracteriza por tener un colmillo muy largo, rectilíneo pero arrollado en espiral, que puede llegar a medir dos metros.
+NASAL	(adjetivo) nasal: Relacionado con la nariz o propio de ella.\n(sustantivo) nasal: Relacionado con la nariz o propio de ella.
+NASALIZAÇAO	(sustantivo) nasalización: Proceso de articular de manera nasal un sonido lingüístico que normalmente no se produce emtiendo parte del aire por la nariz.
+NASALMENTE	(adverbio) nasalmente se traduce como nasalmente
+NASCE	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCEM	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCEMOS	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCENDO	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCENTE	(sustantivo) este: Grafía alternativa de este\n(adjetivo) este: Grafía alternativa de este
+NASCER	(verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCERA	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCERAO	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCEREI	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCEREM	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCERES	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCERIA	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCERIAM	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCERMOS	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCES	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCESSE	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCESSEM	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCESSEMOS	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCESTE	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCESTES	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCEU	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCI	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCIA	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCIAM	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASCIDO	(adjetivo) nacido: Que salió de su madre o de un huevo (los ovíparos).\n(sustantivo) nacido: Que salió de su madre o de un huevo (los ovíparos).
+NASCIDOS	(forma de nascido) (adjetivo) nacido: Que salió de su madre o de un huevo (los ovíparos).
+NASCIMENTO	(sustantivo) nacimiento: Acción y efecto de nacer
+NASCIMENTOS	(forma de nascimento) (sustantivo) nacimiento: Acción y efecto de nacer
+NASOFARINGE	(sustantivo) nasofaringe: Parte superior de la faringe, por encima del velo del paladar y detrás de las fosas nasales.
+NASÇA	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASÇAM	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NASÇO	(forma de nascer) (verbo) nacer: Formarse o salir una cosa desde el interior de otra.
+NATA	(sustantivo) nata: Capa cremosa que se forma encima de la leche, ya sea por dejarla en reposo o por hervirla y luego dejarla enfriar.
+NATAIS	(forma de natal) (adjetivo) nativo: Que es originario del lugar referenciado. (también: vernáculo, aborigen)
+NATAL	(adjetivo) nativo: Que es originario del lugar referenciado. (también: vernáculo, aborigen)
+NATALICIA	(forma de natalicio) (adjetivo) natalicio: Que pertenece o concierne al día del nacimiento de una persona, aplicándose frecuentemente a las...
+NATALICIAS	(forma de natalicio) (adjetivo) natalicio: Que pertenece o concierne al día del nacimiento de una persona, aplicándose frecuentemente a las...
+NATALICIO	(adjetivo) natalicio: Que pertenece o concierne al día del nacimiento de una persona, aplicándose frecuentemente a las fiestas y regocijos que se hacen en conmemoración. (también: navideño)
+NATALINA	(forma de natalino) (adjetivo) navideño: Propio de la navidad, o relacionado con esta fiesta.
+NATALINAS	(forma de natalino) (adjetivo) navideño: Propio de la navidad, o relacionado con esta fiesta.
+NATALINO	(adjetivo) navideño: Propio de la navidad, o relacionado con esta fiesta.
+NATALINOS	(forma de natalino) (adjetivo) navideño: Propio de la navidad, o relacionado con esta fiesta.
+NATAS	(forma de nata) (sustantivo) nata: Capa cremosa que se forma encima de la leche, ya sea por dejarla en reposo o por hervirla y luego...
+NATAÇAO	(sustantivo) natación: Acción o efecto de nadar
+NATIVA	(forma de nativo) (adjetivo) nativo: Que es originario del lugar referenciado.
+NATIVAMENTE	(adverbio) nativamente se traduce como nativamente
+NATIVISMO	(sustantivo) nativismo: Innatismo.
+NATIVO	(adjetivo) nativo: Que es originario del lugar referenciado.
+NATO	(adjetivo) innato: Que existe en la persona desde el nacimiento.
+NATURA	(sustantivo) índole: Condición e inclinación natural propia de cada individuo. (también: naturaleza)
+NATURAIS	(forma de natural) (adjetivo) natural: Que se asemeja a lo hecho por la naturaleza.
+NATURAL	(adjetivo) natural: Que se asemeja a lo hecho por la naturaleza.
+NATURALIDADE	(sustantivo) naturalidad: Cualidad de natural.
+NATURALISTA	(sustantivo) naturalista: Col. Por similitud a los anteriores, persona que le gusta la naturaleza y se dedica a su estudio aunque no a un nivel científico.
+NATURALISTICAMENTE	(adverbio) naturalisticamente se traduce como naturalísticamente
+NATURALMENTE	(adverbio) naturalmente: De un modo natural.
+NATUREZA	(sustantivo) naturaleza: El sistema de todo lo natural, es decir, todo aquello no creado por el hombre. (también: género, especie)
+NATURISMO	(sustantivo) naturismo: Práctica del desnudo en común, con fines terapéuticos, recreativos, culturales o educacionales.
+NATURISTA	(adjetivo) natural: Que se asemeja a lo hecho por la naturaleza.
+NATURISTAS	(forma de naturista) (adjetivo) natural: Que se asemeja a lo hecho por la naturaleza.
+NAU	(sustantivo) carraca: Antiguo navío de transporte de hasta dos mil toneladas, de la era de descubrimientos, inventado por los italianos.
+NAUATLE	(sustantivo) náhuatl: Una macro-lengua o conjunto de dialectos hablados por diversos pueblos mesoamericanos, y que fue la lengua de los antiguos imperios tolteca y azteca. Actualmente está integrado por diversas lenguas habladas en México y El Salvador.
+NAUFRAGA	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGADO	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGAM	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGAMOS	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGANDO	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGAR	(verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGARAM	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGASSE	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGIO	(sustantivo) pecio: Resto de un buque inutilizado o naufragado. (también: naufragio)
+NAUFRAGO	(adjetivo) náufrago: Víctima de un naufragio, que lucha por salvarse o que se ha salvado cuando se hunde una nave.
+NAUFRAGOU	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGUE	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUFRAGUEI	(forma de naufragar) (verbo) naufragar: Hundirse o irse a pique una nave.
+NAUM	(adverbio) nop: No.
+NAURUANO	(sustantivo) nauruano: Persona originaria o habitante de Nauru.
+NAUS	(forma de nau) (sustantivo) carraca: Antiguo navío de transporte de hasta dos mil toneladas, de la era de descubrimientos, inventado...
+NAUSEA	(sustantivo) náusea: Deseo o ganas de vomitar. (también: asco)
+NAUSEABUNDO	(adjetivo) ascoso: Que produce asco, que da asco. (también: asqueante)
+NAUTICA	(sustantivo) náutica: Ciencia y arte de conducir vehículos acuáticos.
+NAUTICAS	(forma de nautica) (sustantivo) náutica: Ciencia y arte de conducir vehículos acuáticos.
+NAUTICO	(adjetivo) náutico: Que pertenece o concierne a navegación.
+NAUTICOS	(forma de nautico) (adjetivo) náutico: Que pertenece o concierne a navegación.
+NAVAJO	(sustantivo) navajo se traduce como ⟪navajo⟫
+NAVAL	(adjetivo) naval: Relativo a la navegación.
+NAVALHA	(sustantivo) navaja: Cuchillo de filo agudo que tiene una forma peculiar y que se utiliza en afeitar el pelo de la cara u otras partes del cuerpo.
+NAVALHADA	(sustantivo) barra: Signo gráfico oblicuo: /. Se usa como elemento para escribir rutas a archivos o urls. (también: barra oblicua, slash)
+NAVALHEIRA	(sustantivo) navaja: Cuchillo de filo agudo que tiene una forma peculiar y que se utiliza en afeitar el pelo de la cara u otras partes del cuerpo. (también: nécora)
+NAVE	(sustantivo) nave: Espacio delimitado por una hilera de arcos o pilares dentro de una construcción de gran porte.
+NAVEGA	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGABILIDADE	(sustantivo) navegabilidade se traduce como navegabilidad
+NAVEGADOR	(sustantivo) navegador: Marino, hombre de mar que se destaca por sus viajes marítimos.
+NAVEGAM	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAMOS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGANDO	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGANTE	(adjetivo) navegante: Que navega.
+NAVEGANTES	(forma de navegante) (adjetivo) navegante: Que navega.
+NAVEGAR	(verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGARA	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGARAM	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGARAO	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAREI	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAREM	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAREMOS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGARIA	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGARMOS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGASSE	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGASSEM	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAVA	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAVAM	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAVAMOS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAVEIS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGAVEL	(adjetivo) navegavel se traduce como navegable
+NAVEGAÇAO	(sustantivo) navegación: Acción o efecto de navegar
+NAVEGAÇOES	(forma de navegaçao) (sustantivo) navegación: Acción o efecto de navegar
+NAVEGO	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGOU	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGUE	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGUEI	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGUEM	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVEGUEMOS	(forma de navegar) (verbo) arrumbar: Establecer un rumbo para la navegación. (también: navegar)
+NAVETA	(sustantivo) lanzadera: Utensilio en forma de canoa, donde va colocado un carrete de hilo, que se usa para tramar o tejer.
+NAVIO	(sustantivo) barco: Vaso₁ de madera, hierro u otra materia, que flota y que, impulsado y dirigido por un artificio adecuado, puede transportar por el agua personas o cosas. (también: nave, buque)\n(adjetivo) barco: Vaso₁ de madera, hierro u otra materia, que flota y que, impulsado y dirigido por un artificio adecuado, puede transportar por el agua personas o cosas.
+NAZI	(adjetivo) detestable: Pésimo, execrable o aborrecible. (también: xenófobo, xenofóbico)
+NAZISMO	(sustantivo) nazismo: Doctrina del partido político que dirigía Adolf Hitler, Partido Nacionalsocialista Obrero Alemán, en la Alemania nazi, entre 1933 y 1945; en la cual se defendía el nacionalismo expansionista alemán, basándose en la superioridad de la raza aria o germánica y en el antisemitismo.
+NAZISTA	(adjetivo) detestable: Pésimo, execrable o aborrecible. (también: xenófobo, xenofóbico)
+NAZISTAS	(forma de nazista) (adjetivo) detestable: Pésimo, execrable o aborrecible. (también: xenófobo, xenofóbico)
+NAÇAO	(sustantivo) nación: Comunidad de personas que comparten un legado cultural, étnico o histórico.
+NAÇOES	(forma de naçao) (sustantivo) nación: Comunidad de personas que comparten un legado cultural, étnico o histórico.
+NDENGUE	(sustantivo) niño: Ser humano de corta edad, en especial el que no ha llegado a la pubertad (también: chamo, chavea)
+NEANDERTAL	(adjetivo) neandertal: (Homo neanderthalensis) es una especie extinta perteneciente a la familia Hominidae del orden de los primates. Habitó en el Centro y Sur de Europa, Próximo y Medio Oriente y en Asia occidental desde hace unos 230 000 años hasta su extinción hace unos 35 000 años. Su nombre común y científico deriva...\n(sustantivo) neandertal: (Homo neanderthalensis) es una especie extinta perteneciente a la familia Hominidae del orden de los primates. Habitó en el Centro y Sur de Europa, Próximo y Medio Oriente y en Asia occidental desde hace unos 230 000 años hasta su extinción hace unos 35 000 años. Su nombre común y científico deriva...
+NEANDERTALENSE	(adjetivo) neandertal: (Homo neanderthalensis) es una especie extinta perteneciente a la familia Hominidae del orden de los primates. Habitó en el Centro y Sur de Europa, Próximo y Medio Oriente y en Asia occidental desde hace unos 230 000 años hasta su extinción hace unos 35 000 años. Su nombre común y científico deriva...
+NEBLINA	(sustantivo) niebla: Concentración de pequeñas gotas de agua a nivel del suelo que reduce de forma importante la visibilidad. (también: neblina, camanchaca)
+NEBLINAR	(verbo) garuar: Llover fina y ligeramente. (también: lloviznar)
+NEBLINAS	(forma de neblinar) (verbo) garuar: Llover fina y ligeramente. (también: lloviznar)
+NEBULA	(sustantivo) niebla: Concentración de pequeñas gotas de agua a nivel del suelo que reduce de forma importante la visibilidad. (también: humo, calima)
+NEBULOSAMENTE	(adverbio) nebulosamente se traduce como nebulosamente
+NEBULOSO	(adjetivo) nublado: Que está cubierto de nubes. (también: nuboso, cubierto)
+NEBULOSOS	(forma de nebuloso) (adjetivo) nublado: Que está cubierto de nubes. (también: nuboso, cubierto)
+NECA	(pronombre) nada: Ninguna cosa.\n(sustantivo) pene: Órgano eréctil que presenta el macho de los vertebrados, homólogo del clítoris femenino, en el que desembocan los conductos del tracto genitourinario. En algunos animales se retrae en la ingle, y sólo se extiende durante la excreción y la cópula; en el ser humano no es retráctil. Está compuesto en... (también: verga, polla)
+NECESSARIO	(adjetivo) necesario: Que es indispensable, que se necesita para realizar una tarea.
+NECESSARIOS	(forma de necessario) (adjetivo) necesario: Que es indispensable, que se necesita para realizar una tarea.
+NECESSIDADE	(sustantivo) necesidad: Calidad de necesario.
+NECESSIDADES	(sustantivo) Forma del plural de necessidade: Necesidad
+NECESSITA	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITADA	(forma de necessitado) (adjetivo) necesitado: Que está carente de lo necesario; que tiene necesidad.
+NECESSITADAS	(forma de necessitado) (adjetivo) necesitado: Que está carente de lo necesario; que tiene necesidad.
+NECESSITADO	(adjetivo) necesitado: Que está carente de lo necesario; que tiene necesidad.
+NECESSITADOS	(forma de necessitado) (adjetivo) necesitado: Que está carente de lo necesario; que tiene necesidad.
+NECESSITAIS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITANDO	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAR	(verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARA	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARAM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARAO	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAREI	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAREM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAREMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARES	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARIA	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARIAM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARIAMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITARMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITASSE	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITASSEM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITASSEMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAVA	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAVAM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITAVAMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITE	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITEI	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITEM	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITEMOS	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITES	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITO	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECESSITOU	(forma de necessitar) (verbo) necesitar: Tener necesidad de algo. (también: requerir)
+NECORA	(sustantivo) necora se traduce como nécora
+NECROFAGO	(adjetivo) necrofago se traduce como necrófago
+NECROFILIA	(sustantivo) necrofilia: Parafilia caracterizada por una atracción sexual hacia los cadáveres.
+NECROFOBIA	(sustantivo) necrofobia: Miedo irracional y enfermizo a la muerte, a los muertos y a todo lo relacionado con ellos.
+NECROLOGIA	(sustantivo) necrología: Lista o noticia de muertos.
+NECROMANCIA	(sustantivo) nigromancia: Práctica de adivinación mediante la invocación a los muertos. (también: necromancia)
+NECROMANTE	(sustantivo) nigromante: Persona que practica la nigromancia (adivinación consultando a los muertos y, por extensión, magia negra).
+NECROMANTES	(forma de necromante) (sustantivo) nigromante: Persona que practica la nigromancia (adivinación consultando a los muertos y, por extensión,...
+NECROPSIA	(sustantivo) necropsia: Necroscopia.
+NECROSE	(sustantivo) necrosis: Muerte patológica de un conjunto de células o de cualquier tejido del organismo, provocada por un agente nocivo que ha provocado una lesión tan grave que no se puede reparar o curar como por ejemplo el aporte insuficiente de sangre al tejido o isquemia o un traumatismo. Una vez producida es...
+NECROTERIO	(sustantivo) morgue: depósito de cadáveres
+NECTAR	(sustantivo) néctar: Licor para el delicado paladar de los dioses.
+NECTARINA	(sustantivo) nectarina: Variedad del melocotón. Tiene la piel lisa y sin pelusa. El árbol se llama el nectarino.
+NEERLANDES	(adjetivo) holandés: Variedad del idioma neerlandés hablada en Holanda. (también: neerlandés)\n(sustantivo) holandés: Variedad del idioma neerlandés hablada en Holanda. (también: neerlandés)
+NEFANDO	(adjetivo) nefando: Infame, horrible.
+NEFASTA	(forma de nefasto) (adjetivo) nefasto: Dicho de una persona: Desgraciado, ruin, detestable, miserable.
+NEFASTO	(adjetivo) nefasto: Dicho de una persona: Desgraciado, ruin, detestable, miserable.
+NEFASTOS	(forma de nefasto) (adjetivo) nefasto: Dicho de una persona: Desgraciado, ruin, detestable, miserable.
+NEFRIDEO	(sustantivo) nefrideo se traduce como nefridio
+NEFROLOGIA	(sustantivo) nefrología: Rama de la medicina que se ocupa de las enfermedades del riñón, y de su funcionamiento.
+NEFROLOGO	(sustantivo) nefrólogo: Médico que se especializa en el diagnóstico y tratamiento de las enfermedades del riñón.
+NEGA	(sustantivo) rechazo: Acción o efecto de rechazar.
+NEGACIONISMO	(sustantivo) negacionismo: Condición o carácter de negacionista.
+NEGACIONISTA	(adjetivo) desmentidor: Persona o cosa que desmiente.
+NEGAI	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAIS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAMOS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGANDO	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAR	(verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARA	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARAM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARAO	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARAS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAREI	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAREM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAREMOS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARIAM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARIAMOS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGARMOS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGASSE	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGASSEM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGASSEMOS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGASTE	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGASTES	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGATIVA	(sustantivo) negación: Voces que se usan para negar.
+NEGATIVAMENTE	(adverbio) negativamente: Con negación.
+NEGATIVO	(adjetivo) negativo se traduce como ⟪negativo⟫\n(sustantivo) negativo se traduce como ⟪negativo⟫
+NEGATOSCOPIO	(sustantivo) negatoscopio: Dispositivo que permite ver las radiografías a través de un sistema de iluminación por transparencia del negativo colocado ante un vidrio esmerilado.
+NEGAVA	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAVAM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGAÇA	(sustantivo) carnada: Añagaza. (también: cebo, anzuelo)
+NEGAÇAO	(sustantivo) negación: Acción o efecto de negar o de negarse
+NEGLIGENCIA	(sustantivo) negligencia: Descuido, carencia de cuidado.
+NEGLIGENCIADO	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIAM	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIAMOS	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIANDO	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIAR	(verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIARAM	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIAREI	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIARIA	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIASSE	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIE	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIEI	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIO	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENCIOU	(forma de negligenciar) (verbo) descuidar: Perder durante un lapso de tiempo la atención sobre algo a lo que se le debiera dar.
+NEGLIGENTE	(adjetivo) desatento: Mal educado, poco amable o descortés.
+NEGLIGENTEMENTE	(adverbio) negligentemente: Que tiene negligencia.
+NEGLIGIVEL	(adjetivo) negligivel se traduce como ⟪insignificante⟫
+NEGO	(sustantivo) amante: Persona que ama. (también: querido, tinieblo)
+NEGOCEIA	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIA	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIADO	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIADOR	(sustantivo) negociador: Que pertenece o concierne a la negociación
+NEGOCIAL	(adjetivo) negocial se traduce como negocial
+NEGOCIALMENTE	(adverbio) negocialmente se traduce como negocialmente
+NEGOCIAM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAMOS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIANDO	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIANTE	(sustantivo) tendero: Propietario o dependiente de una tienda de comestibles.
+NEGOCIAR	(verbo) negociar: Hacer negocio.
+NEGOCIARA	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIARAM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIARAO	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAREI	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAREM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAREMOS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIARIA	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIARIAM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIARIAMOS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIARMOS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIASSE	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIASSEM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAVA	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAVAM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAVAMOS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAVEIS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIAÇAO	(sustantivo) negociación: Acción y efecto de negociar.
+NEGOCIAÇOES	(forma de negociaçao) (sustantivo) negociación: Acción y efecto de negociar.
+NEGOCIE	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIEI	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIEM	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIEMOS	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOCIO	(sustantivo) negocio: Local en que se comercia.
+NEGOCIOS	(forma de negocio) (sustantivo) negocio: Local en que se comercia.
+NEGOCIOU	(forma de negociar) (verbo) negociar: Hacer negocio.
+NEGOU	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGRA	(sustantivo) contusión: Lesión en el cuerpo, ocasionada por golpe u otras razones, que no causa herida exterior.
+NEGRADA	(sustantivo) negrada se traduce como negrada
+NEGRAMENTE	(adverbio) negramente se traduce como negramente
+NEGRAS	(forma de negra) (sustantivo) contusión: Lesión en el cuerpo, ocasionada por golpe u otras razones, que no causa herida exterior.
+NEGREIRA	(sustantivo) negrero: Por extensión, dicho de un patrono, que es abusivo y se aprovecha de sus empleados. (también: esclavista, negrera)
+NEGRITO	(sustantivo) negrita: Variante de un tipo gráfico, de trazo más grueso y enfático, usado para destacar un segmento del texto.
+NEGRITUDE	(sustantivo) negrura: Condición o carácter de negro. (también: negregura)
+NEGRO	(adjetivo) negro: Tratamiento de cariño hacia una persona muy cercana y querida.\n(sustantivo) negro: Tratamiento de cariño hacia una persona muy cercana y querida.
+NEGROS	(forma de negro) (adjetivo) negro: Tratamiento de cariño hacia una persona muy cercana y querida.
+NEGRUME	(sustantivo) tiniebla: Ausencia de luz. (también: oscuridad)
+NEGRURA	(sustantivo) negrura: Condición o carácter de negro. (también: negregura)
+NEGUE	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGUEI	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGUEM	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGUEMOS	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEGUES	(forma de negar) (verbo) negar: Decir no, respondiendo a una pregunta.
+NEM	(adverbio) nem se traduce como ni siquiera\n(conjunción) nem se traduce como nem no
+NEMESE	(sustantivo) némesis: Castigo severo con el fin de restablecer la justicia.
+NENE	(sustantivo) bebé: Variante de bebé.
+NENEM	(sustantivo) mamila: Implemento en forma de pezón que se pone en la mamadera, tetero o biberón para facilitar la succión del líquido. (también: bebé, bebe)
+NENETS	(adjetivo) nenets se traduce como nénets, nenezo\n(sustantivo) nenets se traduce como nénets, nenezos, nenezo
+NENHUM	(adjetivo) ninguno: Ni una sola de las cosas o personas indicadas por el sustantivo al que reemplaza.\n(pronombre) ninguno: Ni una sola de las cosas o personas indicadas por el sustantivo al que reemplaza.
+NENHUMA	(pronombre) ninguno: Ni una sola de las cosas o personas indicadas por el sustantivo al que reemplaza.
+NENHURES	(adverbio) nenhures se traduce como a ninguna parte, a ningún lugar, a ningún lado
+NENUFAR	(sustantivo) nenúfar: (Nymphaea) Planta acuática de la familia de las ninfeáceas, con rizoma largo, nudoso y feculento; hojas enteras, casi redondas, de pecíolo central y tan largo que, saliendo del rizoma, llega a la superficie del agua, donde flota la hoja; flores blancas, terminales y solitarias, y fruto globoso,...
+NEOCLASSICISMO	(sustantivo) neoclassicismo se traduce como neoclasicismo
+NEOCOLONIALISMO	(sustantivo) neocolonialismo: Práctica geopolítica llevada a cabo por un Estado cuyo objetivo es la restauración de la hegemonía colonialista sobre otro Estado que formalmente es independiente, mediante la utilización de métodos indirectos como el control del mercado, imposiciones culturales o la globalización.
+NEODIMIO	(sustantivo) neodimio: Elemento químico de la tabla periódica cuyo símbolo es Nd y su número atómico es 60. A la temperatura ambiente, se encuentra en estado sólido. Es parte del grupo de los lantánidos. Fue descubierto en 1885 por el químico austríaco Carl Auer von Welsbach.
+NEOFITO	(adjetivo) neófito: Dicho de una persona, recientemente incorporada a una actividad, agrupación o colectividad
+NEOLATIM	(sustantivo) neolatín: Variedad del latín, prácticamente idéntica al latín medieval en cuanto a la gramática aunque muy innovadora respecto del léxico, usada para la comunicación científica luego del Renacimiento (también: nuevo latín, latín moderno)
+NEOLIBERAL	(adjetivo) neoliberal se traduce como neoliberal
+NEOLIBERALISMO	(sustantivo) neoliberalismo: Variante moderna del liberalismo, que enfatiza la necesidad de desregular la actividad económica como requisito imprescindible del progreso social y económico.
+NEOLOGISMO	(sustantivo) neologismo: Locución, giro o palabra creada recientemente para definir algo que no tenía término en el lenguaje actual o de la época tratada.
+NEOMENIA	(sustantivo) neomenia se traduce como neomenia
+NEON	(sustantivo) neón: El neón es un elemento químico de número atómico 10 y símbolo Ne. Es un gas noble, incoloro, prácticamente inerte, presente en trazas en el aire, pero muy abundante en el universo, que proporciona un tono azulado característico a la luz de las llamas de los fogones en las que se emplea.
+NEONIO	(sustantivo) neón: El neón es un elemento químico de número atómico 10 y símbolo Ne. Es un gas noble, incoloro, prácticamente inerte, presente en trazas en el aire, pero muy abundante en el universo, que proporciona un tono azulado característico a la luz de las llamas de los fogones en las que se emplea.
+NEOPLASIA	(sustantivo) neoplasia se traduce como neoplasia
+NEOPLATONISMO	(sustantivo) neoplatonismo se traduce como neoplatonismo
+NEOTROPICAL	(adjetivo) neotropical se traduce como neotropical
+NEPALENSE	(adjetivo) nepalés: Originario, relativo a, o propio de Nepal.
+NEPERIANO	(adjetivo) neperiano se traduce como neperiano, nepera
+NEPOTISMO	(sustantivo) nepotismo: Tendencia que se basa en favorecer a familiares, amigos o personas de la misma ideología dentro de la administración pública por parte de quien ejerce el poder.
+NEPTUNIO	(sustantivo) neptunio: Elemento químico de la tabla periódica cuyo símbolo es Np y su número atómico es 93. Pertenece al grupo de los actínidos.
+NERVO	(sustantivo) nervio: Cada uno de los haces de fibras que forman una red en las alas de los insectos, y que les dan su rigidez.
+NERVOS	(forma de nervo) (sustantivo) nervio: Cada uno de los haces de fibras que forman una red en las alas de los insectos, y que les dan su...
+NERVOSA	(forma de nervoso) (adjetivo) nervioso: Concerniente a los nervios.
+NERVOSAMENTE	(adverbio) nerviosamente: Con vigor, energía y actividad.
+NERVOSISMO	(sustantivo) nerviosismo: Estado de nervios y excitación.
+NERVOSO	(adjetivo) nervioso: Concerniente a los nervios.
+NERVURA	(sustantivo) vena: Vaso sanguíneo que transporta la sangre desde las extremidades y pulmones hacia el corazón.
+NESCIAMENTE	(adverbio) nesciamente se traduce como neciamente
+NESCIDADE	(sustantivo) tontería: Condición de tonto. (también: sandez, idiotez)
+NESCIO	(adjetivo) ignorante: Falto de conocimiento, inteligencia, madurez, o educación. (también: mostrenco, tonto)\n(sustantivo) soplagaitas: Falto de inteligencia o entendimiento
+NESGA	(sustantivo) bajo: De mala calidad.
+NESPERA	(sustantivo) níspero: (Mespilus germanicus) Árbol frutal de la familia de las rosáceas, originario de Asia Menor, cuyo fruto se consume en gastronomía.
+NESPEREIRA	(sustantivo) níspero: (Mespilus germanicus) Árbol frutal de la familia de las rosáceas, originario de Asia Menor, cuyo fruto se consume en gastronomía.
+NESTORIANISMO	(sustantivo) nestorianismo: Doctrina que considera a Cristo radicalmente separado en dos personas, una humana y una divina, completas ambas de modo tal que conforman dos entes independientes.
+NET	(sustantivo) red: Malla cosa que fue creada para unir o sostener algo.
+NETA	(sustantivo) neta se traduce como ⟪nieta⟫
+NETO	(sustantivo) nieto: Descendiente directo en la segunda generación
+NETOS	(forma de neto) (sustantivo) nieto: Descendiente directo en la segunda generación
+NETUNIANO	(adjetivo) neptuniano: Originario, relativo a, o propio de el planeta Neptuno.
+NETUNIO	(sustantivo) neptunio: Elemento químico de la tabla periódica cuyo símbolo es Np y su número atómico es 93. Pertenece al grupo de los actínidos.
+NEURA	(sustantivo) fastidio: Enfado, cansancio, hastío, repugnancia. (también: irritación, cabreo)
+NEURAIS	(forma de neural) (adjetivo) neural se traduce como neural
+NEURAL	(adjetivo) neural se traduce como neural
+NEURALGIA	(sustantivo) neuralgia: Dolor que se produce espontáneamente o debido a un movimiento específico, que irradia por el camino que sigue un nervio específico y sus ramificaciones. Sus causas suelen ser una compresión de ese nervio, un traumatismo con reacción inflamatoria del nervio, irritación química y otras. El caso más...
+NEURASTENIA	(sustantivo) neurastenia: Trastorno neurótico caracterizado por un cansancio excesivo, inestabilidad emocional y tristeza recurrente.
+NEURASTENICO	(adjetivo) neurasténico: Perteneciente o relativo a la neurastenia.
+NEUROCIRURGIA	(sustantivo) neurocirugía: Cirugía especializada al cerebro.
+NEUROCIRURGIAO	(sustantivo) neurocirujano: Profesional dedicado a la neurocirugía.
+NEURODIVERSIDADE	(sustantivo) neurodiversidad: Variabilidad de configuraciones del cerebro, en particular con relación al autismo.
+NEUROLOGIA	(sustantivo) neurología: Parte de la medicina que estudia los trastornos y enfermedades del sistema nervioso.
+NEUROLOGICAMENTE	(adverbio) neurologicamente se traduce como neurológicamente
+NEUROLOGICO	(adjetivo) neurológico: Que pertenece o concierne a la neurología.
+NEURONAL	(adjetivo) neuronal: Que pertenece o concierne a la neuronal.
+NEURONALMENTE	(adverbio) neuronalmente se traduce como neuronalmente
+NEURONIO	(sustantivo) neurona: Célula completa del sistema nervioso con su soma, o cuerpo principal, y sus prolongaciones, el axón y las dendritas.
+NEUROPATIA	(sustantivo) neuropatía: Enfermedad del sistema nervioso, que ataca a uno o más nervios, por lo cual puede ser generalizada o localizada.
+NEUROQUIMICAMENTE	(adverbio) neuroquimicamente se traduce como neuroquímicamente
+NEUROSE	(sustantivo) neurosis: Conjunto de trastornos sensoriales y motores causados por enfermedades del sistema nervioso.
+NEUROSES	(forma de neurose) (sustantivo) neurosis: Conjunto de trastornos sensoriales y motores causados por enfermedades del sistema nervioso.
+NEUROTICAMENTE	(adverbio) neuroticamente se traduce como neuróticamente
+NEUTRA	(forma de neutro) (adjetivo) neutro: Que no resalta, no provoca o no tiene rasgos decisivos que lo permitan asociar con algún estado o...
+NEUTRALIDADE	(sustantivo) neutralidad: Condición o carácter de neutral.
+NEUTRALIZA	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZADO	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZAM	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZAMOS	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZANDO	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZAR	(verbo) neutralizar se traduce como neutralizar
+NEUTRALIZARA	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZARAM	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZAREM	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZAREMOS	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZARIA	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZARMOS	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZAÇAO	(sustantivo) neutralización: Acción o efecto de neutralizar o de neutralizarse.
+NEUTRALIZE	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZEI	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZEM	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZO	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALIZOU	(forma de neutralizar) (verbo) neutralizar se traduce como neutralizar
+NEUTRALMENTE	(adverbio) neutralmente se traduce como neutralmente
+NEUTRINO	(sustantivo) neutrino: Partícula subatómica clasificada como un leptón, tiene una masa extremadamente pequeña pero diferente de cero y no tiene carga eléctrica, Solo interactua con otras partículas con la interacción débil y la interaccíon gravitacional, características que lo hacen muy difícil de detectar.
+NEUTRINOS	(forma de neutrino) (sustantivo) neutrino: Partícula subatómica clasificada como un leptón, tiene una masa extremadamente pequeña pero...
+NEUTRO	(adjetivo) neutro: Que no resalta, no provoca o no tiene rasgos decisivos que lo permitan asociar con algún estado o actitud en particular.
+NEUTRON	(sustantivo) neutrón: Partícula subatómica sin carga eléctrica. Es uno de los principales componentes del núcleo atómico.
+NEVADA	(sustantivo) nevada: Acción de nevar.
+NEVADO	(adjetivo) nevado: Cubierto de nieve. (también: nevoso)
+NEVAM	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVANDO	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVAR	(verbo) nevar: Caer nieve del cielo.
+NEVARA	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVARIA	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVASCA	(sustantivo) ventisca: Viento frío y fuerte acompañado de nieve y pequeños fragmentos de hielo
+NEVASSE	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVAVA	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVE	(sustantivo) nieve: Precipitación atmosférica constituida por hielo cristalizado.
+NEVISCAR	(verbo) neviscar: Caer nevisca (nieve fina, de poco grosor, menuda) o nevar ligeramente.
+NEVO	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVOA	(sustantivo) niebla: Concentración de pequeñas gotas de agua a nivel del suelo que reduce de forma importante la visibilidad.
+NEVOAS	(forma de nevoa) (sustantivo) niebla: Concentración de pequeñas gotas de agua a nivel del suelo que reduce de forma importante la...
+NEVOEIRO	(sustantivo) brumazón: Aumentativo de bruma.
+NEVOU	(forma de nevar) (verbo) nevar: Caer nieve del cielo.
+NEVRALGIA	(sustantivo) neuralgia: Dolor que se produce espontáneamente o debido a un movimiento específico, que irradia por el camino que sigue un nervio específico y sus ramificaciones. Sus causas suelen ser una compresión de ese nervio, un traumatismo con reacción inflamatoria del nervio, irritación química y otras. El caso más...
+NEVRALGICAMENTE	(adverbio) nevralgicamente se traduce como neurálgicamente
+NEVRALGICO	(adjetivo) neurálgico: Que pertenece o concierne a la neuralgia.
+NEXO	(sustantivo) nexo: Dícese del elemento lingüístico que sirve para relacionar un término con otro, como las conjunciones y las preposiciones.
+NHACA	(sustantivo) soberano: Moneda de oro del Reino Unido con valor facial de una libra esterlina, pero que en la práctica se usa como bullion.
+NHAMA	(sustantivo) carne: Músculos de los animales, considerados como alimento.
+NHANDUTI	(sustantivo) ñandutí: Tela muy fina que imita el aspecto de una telaraña.
+NHEENGATU	(sustantivo) nheengatu se traduce como ñe'engatu, nheengatu, nhengatu, lengua general de la Amazonía
+NHENHENHEM	(sustantivo) gimoteo: Acción o efecto de gimotear. (también: llorica)
+NHOCA	(sustantivo) serpiente: (Serpentes, sin. Ophidia) Cualquiera de varios miles de especies de reptiles diápsidos, muy característicos por la carencia de patas y la forma alargada del cuerpo, recubierto de escamas de colores que van de los muy vivos a los crípticos. Se desplazan mediante ondulaciones laterales del cuerpo, y... (también: culebra)
+NHOQUE	(sustantivo) ñoqui: Alimento típico de la cocina italiana, consistente en pequeños bollos de masa de papa, harina y huevo, que se hierven ligeramente y se sirven en salsa.
+NICA	(sustantivo) pendejada: Grupo de pendejos. (también: ápice, minucia)
+NICABE	(sustantivo) nicab: Velo que cubre todo el cuerpo y el rostro excepto los ojos, usado por algunas mujeres musulmanas como parte de su hiyab.
+NICHO	(sustantivo) nicho: Cualquier concavidad formada para colocar una cosa, como en los cementerios o bóvedas un cadáver. (también: hornacina)
+NICK	(sustantivo) mote: Lema que llevaban como empresa los antiguos caballeros en las justas y torneos. (también: mella, apodo)
+NICLES	(pronombre) nada: Ninguna cosa.
+NICOTINA	(sustantivo) nicotina: (C₁₀H₁₄N₂) Alcaloide encontrado comúnmente en la planta del tabaco, de olor acre. En pequeñas dosis es un estimulante adictivo, en grandes dosis es tóxico y es utilizado a menudo en insecticidas. (también: f)
+NICTAÇAO	(sustantivo) pestañeo: Acción de cerrar rápidamente ambos ojos y volverlos a abrir. (también: parpadeo)
+NICTOFOBIA	(sustantivo) nictofobia: Miedo irracional y enfermizo a la noche. (también: noctifobia)
+NIDIFICAM	(forma de nidificar) (verbo) nidificar se traduce como nidificar
+NIDIFICAR	(verbo) nidificar se traduce como nidificar
+NIGERIANO	(adjetivo) nigeriano: Se dice de algo que proviene o tiene relación con Nigeria
+NIGROMANCIA	(sustantivo) nigromancia: Práctica de adivinación mediante la invocación a los muertos. (también: necromancia)
+NIGROMANTE	(sustantivo) nigromante: Persona que practica la nigromancia (adivinación consultando a los muertos y, por extensión, magia negra).
+NIHONIO	(sustantivo) nihonio: Elemento sintético de la tabla periódica cuyo símbolo es Nh y su número atómico es 113.
+NIILISMO	(sustantivo) niilismo se traduce como niilismo
+NIMIAMENTE	(adverbio) nimiamente: Con demasía o exceso.
+NINANDO	(forma de ninar) (verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con...
+NINAR	(verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con un estado de consciencia reducido. (también: adormecer)
+NINAS	(forma de ninar) (verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con...
+NINFA	(sustantivo) ninfa: Deidad femenina fabulosa que suele vivir en espacios naturales: ríos, aguas, bosques, selvas o montes. Son de una belleza extraordinaria, tienen la voz dulce y por lo general suelen vivir en compañía de sus hermanas.
+NINFAS	(forma de ninfa) (sustantivo) ninfa: Deidad femenina fabulosa que suele vivir en espacios naturales: ríos, aguas, bosques, selvas o...
+NINFOMANA	(sustantivo) ninfómana: Mujer afectada por una intensificación disfuncional del deseo de gratificación sexual.
+NINFOMANIA	(sustantivo) ninfomanía: Deseo violento e insaciable en la mujer de realizar el coito.
+NINFOMANIACA	(sustantivo) ninfómana: Mujer afectada por una intensificación disfuncional del deseo de gratificación sexual.
+NINGUEM	(pronombre) Nadie o ninguno.\n(sustantivo) Nadie, don nadie, pelagallos o pelagatos.
+NINHADA	(sustantivo) lecho: Lugar de descanso o reposo de algo o alguien. (también: cama, detritus)
+NINHARIA	(sustantivo) pendejada: Grupo de pendejos. (también: ápice, minucia)
+NINHO	(sustantivo) nido: Lecho construido por aves para incubar sus huevos y criar a los polluelos.
+NINJA	(sustantivo) ninja: Mercenario entrenado especialmente en formas no ortodoxas de hacer la guerra, en las que se incluía el asesinato, espionaje, sabotaje, reconocimiento y guerra de guerrillas, con el afán de desestabilizar al ejército enemigo, obtener información vital de la posición de sus tropas o lograr una...
+NINJAS	(forma de ninja) (sustantivo) ninja: Mercenario entrenado especialmente en formas no ortodoxas de hacer la guerra, en las que se incluía...
+NINOU	(forma de ninar) (verbo) dormir: Permanecer en un estado de reposo del cuerpo sin que se presenten movimientos físicos voluntarios y con...
+NIOBIO	(sustantivo) niobio: Es un elemento químico de número atómico 41 situado en el grupo 5 de la tabla periódica de los elementos. Se simboliza como Nb. Es un metal de transición dúctil, gris, blando y poco abundante. Se encuentra en el mineral niobita y se utiliza en aleaciones. Se emplea principalmente aleado en aceros,...
+NIPLE	(sustantivo) pezón: Botoncito que sobresale en los pechos o tetas de las hembras, por donde los hijos chupan la leche. (también: teta, niple)
+NIQUEL	(sustantivo) níquel: El níquel es un elemento químico de número atómico 28 y símbolo Ni situado en el grupo 10 de la tabla periódica de los elementos. Es un metal de transición de color blanco plateado, conductor de la electricidad y del calor, es dúctil y maleable por lo que se puede laminar, pulir y forjar...
+NIQUELINA	(sustantivo) niquelina se traduce como níquelina, cuproníquel
+NITIDAMENTE	(adverbio) nítidamente: De un modo nítido, con nitidez o claridad.
+NITIDEZ	(sustantivo) definición: La acción y efecto de especificar, decidir, clarificar, definir.
+NITIDO	(adjetivo) claro: Nítido, preciso.
+NITRICO	(adjetivo) nítrico: Se dice del compuesto oxigenado del nitrógeno pentavalente.
+NITROGENIO	(sustantivo) nitrógeno: Elemento químico de número atómico 7, con símbolo N, también llamado ázoe —antiguamente se usó también Az como símbolo del nitrógeno— y que en condiciones normales forma un gas diatómico (nitrógeno diatómico o molecular) que constituye del orden del 78% del aire atmosférico.
+NIVEIS	(forma de nivel) (sustantivo) nivel: Instrumento que permite averiguar si hay igualdad o diferencia de altura entre dos puntos, pudiendo...
+NIVEL	(sustantivo) nivel: Instrumento que permite averiguar si hay igualdad o diferencia de altura entre dos puntos, pudiendo en algunos casos medir el de inclinación. (también: pichel)
+NIVELA	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELADAMENTE	(adverbio) niveladamente se traduce como niveladamente
+NIVELADO	(adjetivo) nivelado: Participio de nivelar o de nivelarse.
+NIVELAMOS	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELANDO	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELAR	(verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELARA	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELARAM	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELE	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELEM	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVELOU	(forma de nivelar) (verbo) nivelar: Hacer que dos cosas queden a la misma altura.
+NIVOSO	(sustantivo) nivoso: Cuarto mes del calendario republicano francés, coincidente con el periodo comprendido entre el 21 de diciembre y el 19 de enero.
+NOBELIO	(sustantivo) nobelio: Elemento químico de la tabla periódica cuyo símbolo es No y su número atómico es 102. Pertenece al grupo de los actínidos.
+NOBILIARIO	(sustantivo) genealogía: Estudio y seguimiento de la ascendencia y descendencia de una persona o familia. También se llama así al documento que registra dicho estudio, generalmente expresado como árbol genealógico. Asimismo la genealogía es una de las Ciencias Auxiliares de la Historia.
+NOBRE	(adjetivo) Aristocrático, hidalgo o noble.\n(sustantivo) Aristócrata, hidalgo o noble.
+NOBRES	(forma de nobre) (adjetivo) Aristocrático, hidalgo o noble.
+NOBREZA	(sustantivo) nobleza: Calidad o cualidad de noble.
+NOCA	(sustantivo) nudillo: Parte dorsal de las articulaciones de los dedos
+NOCAUTE	(sustantivo) nocaute se traduce como ⟪pibón|PIBON⟫\n(adjetivo) inconsciente: Que no tiene consciencia de las cosas que hace o lo que significan éstas.
+NOCIVA	(adjetivo) Forma del femenino de nocivo: Nocivo.
+NOCIVO	(adjetivo) nocivo: Que hace daño o perjudica.
+NOCIVOS	(adjetivo) Forma del plural de nocivo: Nocivo.
+NOCTAMBULAR	(verbo) noctambular se traduce como noctambular
+NOCTIVAGO	(adjetivo) nocturno: Que pertenece o concierne a la noche.
+NODOA	(sustantivo) mancha: Marca que queda en una superficie al derramar alguna sustancia que tiña.
+NODULO	(sustantivo) nódulo: Tumor nudoso de poco volumen
+NOGUEIRA	(sustantivo) nogal: (Juglans regia) Árbol caducifolio y dioico de la familia de las juglandáceas cuyo fruto es la nuez. Alcanza los 35 metros de altura; posee grandes hojas pinadas. (también: noguera)
+NOGUEIRAS	(forma de nogueira) (sustantivo) nogal: (Juglans regia) Árbol caducifolio y dioico de la familia de las juglandáceas cuyo fruto es la nuez....
+NOIA	(adjetivo) furioso: Lleno de ira o furia. (también: loco, orate)\n(sustantivo) abanto: (Neophron percnopterus) Ave rapaz parecida al buitre pero de menor tamaño, de color blanco sucio, con las remeras negras y la cola en forma de cuña. Se alimenta de animales en estado de descomposición, vive en África septentrional y pasa el verano en Europa. (también: lerdo)
+NOITADA	(sustantivo) noche: Tiempo o clima que hace durante ese momento. Hacer buena o mala noche
+NOITE	(sustantivo) noche: Tiempo entre dos días que coincide con el momento durante el cual el sol no da su luz
+NOITES	(forma de noite) (sustantivo) noche: Tiempo entre dos días que coincide con el momento durante el cual el sol no da su luz
+NOITIBO	(sustantivo) chotacabras: (Caprimulginae, Eurostopodinae) Ave nocturna de mediano tamaño con las alas largas y puntiagudas, patas cortas y pico muy corto aunque muy amplio, que anida en el suelo. Su suave plumaje está coloreado para camuflarse entre la hojarasca del suelo.
+NOIVA	(sustantivo) novio: Persona que está comprometida a contraer matrimonio. (también: novia)
+NOIVINHA	(sustantivo) noivinha se traduce como viudita blanca común, monjita blanca
+NOIVO	(sustantivo) novio: Persona que está comprometida a contraer matrimonio.
+NOJENTA	(forma de nojento) (adjetivo) repugnante: Que produce repugnancia o aversión. (también: ascoso, asqueante)
+NOJENTO	(adjetivo) repugnante: Que produce repugnancia o aversión. (también: ascoso, asqueante)\n(sustantivo) chancho: (Sus scrofa domesticus) Animal mamífero, artiodáctilo, de cuerpo robusto y piel gruesa, domesticado desde la Antigüedad para aprovechar su carne y su cuero. Es una variedad de la misma especie que en su forma salvaje se conoce como jabalí. (también: cochino, gorrino)
+NOJO	(sustantivo) asco: Esta misma reacción física provocada por la presencia o imaginación de algo repugnante. (también: asca)
+NOMADE	(adjetivo) nómada: Aquél que está constantemente desplazándose de un lugar a otro, sin rumbo ni domicilio fijo.\n(sustantivo) nómada: Aquél que está constantemente desplazándose de un lugar a otro, sin rumbo ni domicilio fijo.
+NOMADISMO	(sustantivo) nomadismo se traduce como nomadismo
+NOME	(sustantivo) nombre: En general, palabra que designa una entidad o condición.
+NOMEAMOS	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEANDO	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEAR	(verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEARA	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEARAM	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEARAO	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEAREI	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEAREM	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEAREMOS	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEARIA	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEARIAM	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEARMOS	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEASSE	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEASSEM	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEAVA	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEAÇAO	(sustantivo) nominación: Acción o efecto de nominar.
+NOMEEI	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEEMOS	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEIA	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEIAM	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEIE	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEIEM	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMEIO	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMENCLATURA	(sustantivo) nomenclatura: Repertorio estructurado de términos propios de una disciplina específica, organizado conforme a reglas normalizadas de conceptualización.
+NOMEOU	(forma de nomear) (verbo) designar: Señalar o destinar una persona o cosa para determinado fin.
+NOMES	(forma de nome) (sustantivo) nombre: En general, palabra que designa una entidad o condición.
+NOMINA	(forma de nominar) (verbo) nominar: Dar nombre a un ser o a un lugar.
+NOMINADO	(forma de nominar) (verbo) nominar: Dar nombre a un ser o a un lugar.
+NOMINAIS	(forma de nominal) (adjetivo) nominal: Que tiene el nombre de una cosa, pero le falta la realidad de ella en todo o en parte.
+NOMINAL	(adjetivo) nominal: Que tiene el nombre de una cosa, pero le falta la realidad de ella en todo o en parte.
+NOMINAR	(verbo) nominar: Dar nombre a un ser o a un lugar.
+NOMINATIVO	(sustantivo) nominativo: Uno de los casos gramaticales para el sintagma nominal, donde generalmente se marca el sujeto de un verbo, en oposición al objeto del verbo u otros de los argumentos del verbo.\n(adjetivo) nominativo: Uno de los casos gramaticales para el sintagma nominal, donde generalmente se marca el sujeto de un verbo, en oposición al objeto del verbo u otros de los argumentos del verbo.
+NOMINOU	(forma de nominar) (verbo) nominar: Dar nombre a un ser o a un lugar.
+NONA	(sustantivo) monja: Religiosa sujeta a una de las órdenes aprobadas por la Iglesia, que ha hecho votos de pobreza, castidad y obediencia.
+NONAEDRO	(sustantivo) nonaedro se traduce como eneaedro, nonaedro
+NONAGESIMO	(numeral) nonagésimo: Dícese de cada una de la noventa partes iguales en que se divide una cosa
+NONINGENTESIMO	(numeral) noningentésimo: La persona o cosa que está luego después del octingentésimo nonagésimo noveno en una serie y antes del noningentésimo primero.\n(sustantivo) noningentésimo: La persona o cosa que está luego después del octingentésimo nonagésimo noveno en una serie y antes del noningentésimo primero.
+NONO	(numeral) nono: Abuelo.
+NORA	(sustantivo) noria: Máquina que extrae agua de una fuente de agua mediante cangilones. Si la fuente es un curso, utiliza energía hidráulica, y si es un pozo, utiliza tracción animal. (también: nuera)
+NORAS	(forma de nora) (sustantivo) noria: Máquina que extrae agua de una fuente de agua mediante cangilones. Si la fuente es un curso,...
+NORDESTE	(sustantivo) nordeste: Punto del horizonte ubicado entre el norte y el este, a igual distancia de ambos, es decir, a 45 grados de cada uno.
+NORDICO	(adjetivo) nórdico: Propio de, relativo a o natural del norte.
+NORMA	(sustantivo) norma: Conjunto de criterios que conforman el lenguajes estándar.
+NORMAL	(adjetivo) normal: Conforme a lo que es común, usual.\n(sustantivo) normal: Conforme a lo que es común, usual.
+NORMALIDADE	(sustantivo) normalidad: Dícese cuando algo sigue la norma, es decir, lo que es mayoritario en cualquier aspecto referido.
+NORMALIZA	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZADO	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZAM	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZAMOS	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZANDO	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZAR	(verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las cualidades exóticas o poco comunes.
+NORMALIZARA	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZARAM	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZAÇAO	(sustantivo) normalizaçao se traduce como normalización
+NORMALIZE	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZEM	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALIZOU	(forma de normalizar) (verbo) normalizar: Hacer que algo se encuentre dentro de lo considerado normal por el sujeto, limar todas las...
+NORMALMENTE	(adverbio) normalmente: Frecuente, de modo habitual o regular
+NORMAS	(forma de norma) (sustantivo) norma: Conjunto de criterios que conforman el lenguajes estándar.
+NORMATIVAMENTE	(adverbio) normativamente se traduce como normativamente
+NORMATIVO	(adjetivo) normativo: Que dicta las normas
+NORTE	(sustantivo) norte: Que está al norte.\n(adjetivo) norte: Que está al norte.
+NORTISTA	(adjetivo) boreal: Propio o relacionado con el norte.
+NORTISTAS	(forma de nortista) (adjetivo) boreal: Propio o relacionado con el norte.
+NORUEGUES	(adjetivo) noruego: Persona que es originaria de Noruega.\n(sustantivo) noruego: Persona que es originaria de Noruega.
+NORUEGUESA	(forma de noruegues) (adjetivo) noruego: Persona que es originaria de Noruega.
+NORUEGUESAS	(forma de noruegues) (adjetivo) noruego: Persona que es originaria de Noruega.
+NORUEGUESES	(forma de noruegues) (adjetivo) noruego: Persona que es originaria de Noruega.
+NOS	(pronombre) nosotros: Nominativo y dativo del pronombre personal masculino para la primera persona del plural. (también: nosotras)
+NOSOLOGICAMENTE	(adverbio) nosologicamente se traduce como nosológicamente
+NOSOLOGICO	(adjetivo) nosológico: Que pertenece o concierne a la nosología.
+NOSSA	(adjetivo) Forma del femenino singular de nosso: Nuestro.\n(interjección) nossa se traduce como ¡Dios mío!, ¡Ay caramba!, ¡Señor!
+NOSSAS	(forma de nosso) (adjetivo) nuestro: Relativo a la primera persona plural, lo que nos pertenece o poseemos.
+NOSSO	(adjetivo) nuestro: Relativo a la primera persona plural, lo que nos pertenece o poseemos.
+NOSSOS	(sustantivo) tipo: Elemento real o ideal que representa una clase o categoría. (también: especie, querido)
+NOSTALGIA	(sustantivo) nostalgia: Sentimiento que se produce al echar de menos los buenos momentos del pasado. Se puede estar nostálgico o tener nostalgia de algo o de alguien.
+NOTA	(sustantivo) nota: Texto breve con cualquier clase de información.
+NOTADA	(forma de notado) (adjetivo) notado: Participio de notar.
+NOTADAMENTE	(adverbio) notablemente: De un modo notable (digno de notarse), superior, famoso o muy visible; poco común.
+NOTADO	(adjetivo) notado: Participio de notar.
+NOTAM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTANDO	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAR	(verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARA	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARAM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARAO	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARAS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAREI	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAREM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAREMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARES	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARIA	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARIALMENTE	(adverbio) notarialmente se traduce como notarialmente
+NOTARIAM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARIAMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTARIO	(sustantivo) notario se traduce como ⟪notario⟫
+NOTARMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAS	(forma de nota) (sustantivo) nota: Texto breve con cualquier clase de información.
+NOTASSE	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTASSEM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTASSEMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTASTE	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAVA	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAVAM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAVAMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAVEIS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTAVEL	(adjetivo) notable: En algunos países, calificación académica. (también: curioso)\n(sustantivo) notable: En algunos países, calificación académica.
+NOTAÇAO	(sustantivo) notación: Sistema de símbolos gráficos empleado para expresar temas especializados, por ejemplo en las ciencias, la música, el ajedrez, etc.
+NOTAÇOES	(forma de notaçao) (sustantivo) notación: Sistema de símbolos gráficos empleado para expresar temas especializados, por ejemplo en las...
+NOTE	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTEI	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTEM	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTEMOS	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTES	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTICIA	(sustantivo) noticia: Comunicación de un suceso reciente.
+NOTICIADO	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIAIS	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIAM	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIAMOS	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIANDO	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIAR	(verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIARAM	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIAREM	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIAREMOS	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIARIO	(sustantivo) albricias: Regalo que se da a quien trae una buena noticia. (también: noticia)
+NOTICIAS	(sustantivo) albricias: Regalo que se da a quien trae una buena noticia. (también: noticia)
+NOTICIE	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTICIOSAMENTE	(adverbio) noticiosamente se traduce como noticiosamente
+NOTICIOU	(forma de noticiar) (verbo) anunciar: Dar noticia o aviso, hacer pública una información.
+NOTIFICA	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICAM	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICAMOS	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICANDO	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICAR	(verbo) notificar se traduce como notificar
+NOTIFICARA	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICARAM	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICARAO	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICAREI	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICAREM	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICAREMOS	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICARIA	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICARMOS	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICO	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFICOU	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFIQUE	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFIQUEI	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTIFIQUEM	(forma de notificar) (verbo) notificar se traduce como notificar
+NOTORIAMENTE	(adverbio) notoriamente se traduce como notoriamente
+NOTORIEDADE	(sustantivo) notoriedad: Condición o carácter de notorio.
+NOTORIO	(adjetivo) famoso: Lo que es visible e indudable. (también: notorio)
+NOTOU	(forma de notar) (verbo) advertir: Dirigir la atención u observar, reparar en algo. (también: abanderar, observar)
+NOTURNA	(forma de noturno) (adjetivo) nocturno: Pequeña composición musical de carácter melancólico y dulce. (también: noctámbulo, trasnochador)
+NOTURNAMENTE	(adverbio) nocturnamente: A noche, de noche o durante la noche.
+NOTURNO	(adjetivo) nocturno: Pequeña composición musical de carácter melancólico y dulce. (también: noctámbulo, trasnochador)\n(sustantivo) nocturno: Pequeña composición musical de carácter melancólico y dulce.
+NOUGAT	(sustantivo) turrón: Beneficio o renta que se cobra de un plan social.
+NOVA	(sustantivo) nova: Estrella que se vuelve extremadamente brillante para unos pocos días por una explosión termonuclear en la superficie.
+NOVAMENTE	(adverbio) nuevamente: Otra vez.
+NOVAS	(forma de nova) (sustantivo) nova: Estrella que se vuelve extremadamente brillante para unos pocos días por una explosión termonuclear...
+NOVATA	(forma de novato) (sustantivo) novato: Que se inicia o carece de experiencia en una disciplina, profesión o actividad.
+NOVATAS	(forma de novato) (sustantivo) novato: Que se inicia o carece de experiencia en una disciplina, profesión o actividad.
+NOVATO	(sustantivo) novato: Que se inicia o carece de experiencia en una disciplina, profesión o actividad.
+NOVATOS	(forma de novato) (sustantivo) novato: Que se inicia o carece de experiencia en una disciplina, profesión o actividad.
+NOVE	(numeral) nueve: Ocho y uno.
+NOVECENTAS	(numeral) novecentas se traduce como novecientas
+NOVECENTOS	(numeral) novecientos: Nombre del número 900.\n(sustantivo) novecientos: Nombre del número 900.
+NOVELA	(sustantivo) novela: Obra literaria que consiste en una narración de ficción, extensa, más larga que el cuento o los relatos breves, y que cuenta con un argumento elaborado referido a personajes, hechos y pasiones del alma.
+NOVELAR	(verbo) novelar se traduce como novelar₁
+NOVELAS	(sustantivo) Forma del plural de novela: novela\n(verbo) Segunda persona del singular (tu) del presente de indicativo de novelar: Novelar₁.
+NOVELEIRA	(forma de noveleiro) (sustantivo) chisme: Rumor o noticia que se propaga con maledicencia o picardía. (también: murmuración, chismería)
+NOVELEIRO	(sustantivo) chisme: Rumor o noticia que se propaga con maledicencia o picardía. (también: murmuración, chismería)
+NOVELESCO	(adjetivo) novelesco: Puramente ficticio.
+NOVELISTA	(sustantivo) folletinista: Escritor de folletines. (también: novelista)
+NOVELISTAS	(forma de novelista) (sustantivo) folletinista: Escritor de folletines. (también: novelista)
+NOVELO	(verbo) Primera persona del singular (eu) del presente de indicativo de novelar: Novelar₁.
+NOVELOS	(forma de novelo) (verbo) Primera persona del singular (eu) del presente de indicativo de novelar: Novelar₁.
+NOVEMBRO	(sustantivo) noviembre: Undécimo mes del año en el calendario gregoriano, entre octubre y diciembre. Dura treinta días.
+NOVENA	(sustantivo) novena: Período de oración ofrecido durante nueve días consecutivos, para alguna celebración, solemnidad o petición.
+NOVENAS	(forma de novena) (sustantivo) novena: Período de oración ofrecido durante nueve días consecutivos, para alguna celebración, solemnidad o...
+NOVENTA	(numeral) noventa: Nueve veces diez.
+NOVES	(forma de nove) (numeral) nueve: Ocho y uno.
+NOVIDADE	(sustantivo) novedad: Transformación ocasionada en algo.
+NOVIDADES	(sustantivo) Forma del plural de novidade: Novedad.
+NOVILHO	(sustantivo) becerro: Cría macho de la vaca. (también: ternero, ballenato)
+NOVILHOS	(forma de novilho) (sustantivo) becerro: Cría macho de la vaca. (también: ternero, ballenato)
+NOVISSIMO	(forma de novo) (adjetivo) nuevo: Que tiene poco tiempo de existencia.
+NOVIÇO	(adjetivo) inexperto: Persona que carece de experiencia en cierta faceta de su vida. (también: imperito)
+NOVO	(adjetivo) nuevo: Que tiene poco tiempo de existencia.
+NOVOS	(forma de novo) (adjetivo) nuevo: Que tiene poco tiempo de existencia.
+NOZ	(sustantivo) nuez: Tipo de fruto seco indehiscente, dotado de un pericarpo duro, por lo general unilocular y monospermo.
+NOÇAO	(sustantivo) noción: Idea o conocimiento que se tiene sobre algo.
+NUANCE	(sustantivo) matiz: Gradación de un color.
+NUANCES	(forma de nuance) (sustantivo) matiz: Gradación de un color.
+NUBIL	(adjetivo) casadero: Que tiene edad de casarse. (también: núbil)
+NUBLADA	(forma de nublado) (adjetivo) nublado: Que está cubierto de nubes. (también: nuboso)
+NUBLADAS	(forma de nublado) (adjetivo) nublado: Que está cubierto de nubes. (también: nuboso)
+NUBLADO	(adjetivo) nublado: Que está cubierto de nubes. (también: nuboso)\n(sustantivo) nublado: Que está cubierto de nubes.
+NUBLADOS	(forma de nublado) (adjetivo) nublado: Que está cubierto de nubes. (también: nuboso)
+NUCA	(sustantivo) nuca: Parte superior y posterior del cuello donde este se une con la cabeza
+NUCLEAR	(adjetivo) nuclear: Propio o relativo al núcleo.
+NUCLEARES	(forma de nuclear) (adjetivo) nuclear: Propio o relativo al núcleo.
+NUCLEARMENTE	(adverbio) nuclearmente se traduce como nuclearmente
+NUCLEO	(sustantivo) núcleo: Lo que está en el medio de algo, parte central o medular.
+NUCLEOTIDEO	(sustantivo) nucleótido: Compuesto orgánico que es la unidad fundamental de los ácidos nucleicos, formado por una base, un azúcar y un fosfato.
+NUDE	(adjetivo) pelado: Desprovisto de ropa. (también: desnudo, calato)\n(sustantivo) pelado: Desprovisto de ropa. (también: desnudo)
+NUDEZ	(sustantivo) desnudez: Cualidad de desnudo.
+NUDISMO	(sustantivo) nudismo: Doctrina y práctica de las personas que sostienen que exponer el cuerpo totalmente desnudo y prescindir de la ropa es bueno para el equilibrio físico y moral.
+NUDISTA	(adjetivo) nudista: Perteneciente o relativo al nudismo
+NUDISTAS	(forma de nudista) (adjetivo) nudista: Perteneciente o relativo al nudismo
+NUDOFOBIA	(sustantivo) nudofobia: Miedo irracional y enfermizo a la desnudez
+NUGA	(sustantivo) bagatela: Cosa de poco valor o importancia.
+NULA	(forma de nulo) (adjetivo) nulo: Inexistente, que no ocurre.
+NULAMENTE	(adverbio) nulamente se traduce como nulamente
+NULIDADE	(sustantivo) nulidad: Calidad o cualidad de nulo.
+NULIFICA	(forma de nulificar) (verbo) anular: Volver nulo un acto, norma, acuerdo, tratado o contrario; dejarlo sin efecto o sin validez.
+NULIFICAR	(verbo) anular: Volver nulo un acto, norma, acuerdo, tratado o contrario; dejarlo sin efecto o sin validez.
+NULO	(adjetivo) nulo: Inexistente, que no ocurre.
+NUM	(adverbio) num se traduce como no
+NUMERA	(forma de numerar) (verbo) numerar: Expresar una magnitud numéricamente.
+NUMERAIS	(forma de numerar) (verbo) numerar: Expresar una magnitud numéricamente.
+NUMERAL	(adjetivo) numeral: Variable cualitativa denotada por una cifra usada con fines ordinales.\n(sustantivo) numeral: Variable cualitativa denotada por una cifra usada con fines ordinales.
+NUMERAM	(forma de numerar) (verbo) numerar: Expresar una magnitud numéricamente.
+NUMERANDO	(forma de numerar) (verbo) numerar: Expresar una magnitud numéricamente.
+NUMERAR	(verbo) numerar: Expresar una magnitud numéricamente.
+NUMERARIO	(sustantivo) efectivo: Personal de una unidad administrativa o militar. (también: encaje)\n(adjetivo) efectivo: Personal de una unidad administrativa o militar.
+NUMERAÇAO	(sustantivo) numeración: Acción y efecto de numerar
+NUMERE	(forma de numerar) (verbo) numerar: Expresar una magnitud numéricamente.
+NUMERICA	(forma de numerico) (adjetivo) numérico: Que esta compuesto por un número o que representa un número.
+NUMERICAMENTE	(adverbio) numericamente se traduce como numéricamente
+NUMERICAS	(forma de numerico) (adjetivo) numérico: Que esta compuesto por un número o que representa un número.
+NUMERICO	(adjetivo) numérico: Que esta compuesto por un número o que representa un número.
+NUMERICOS	(forma de numerico) (adjetivo) numérico: Que esta compuesto por un número o que representa un número.
+NUMERO	(sustantivo) número: Conjunto de signos con que se representa tal cantidad.
+NUMEROLOGIA	(sustantivo) numerologia se traduce como ⟪numerología|NUMEROLOGIA⟫
+NUMEROLOGICAMENTE	(adverbio) numerologicamente se traduce como numerológicamente
+NUMEROSAMENTE	(adverbio) numerosamente se traduce como numerosamente
+NUMEROSAS	(forma de numeroso) (adjetivo) copioso: Que es abundante, o existe en cantidad. (también: numeroso)
+NUMEROSO	(adjetivo) copioso: Que es abundante, o existe en cantidad. (también: numeroso)
+NUMEROSOS	(forma de numeroso) (adjetivo) copioso: Que es abundante, o existe en cantidad. (también: numeroso)
+NUMEROU	(forma de numerar) (verbo) numerar: Expresar una magnitud numéricamente.
+NUMISMATICA	(sustantivo) numismática: Ciencia que trata del conocimiento de las monedas y medallas, principalmente de las antiguas.
+NUNCA	(adverbio) jamás: En ninguna oportunidad, momento u ocasión. (también: nunca)
+NUPCIAIS	(forma de nupcial) (adjetivo) nupcial: Perteneciente o relativo a las bodas (o a los matrimonios).
+NUPCIAL	(adjetivo) nupcial: Perteneciente o relativo a las bodas (o a los matrimonios).
+NUPCIAS	(sustantivo) matrimonio: Rito o sacramento por el cual las personas se unen en matrimonio₁ de acuerdo a las prescripciones de su fe. (también: boda, nupcias)
+NUTO	(sustantivo) voluntad: Intención, deseo o decisión de una persona. (también: testamento)
+NUTRIA	(sustantivo) nutria: (Myocastor coypus) Coipo. (también: coipo)
+NUTRICIONAL	(adjetivo) nutricional: Perteneciente o relacionado con la nutrición.
+NUTRICIONALMENTE	(adverbio) nutricionalmente se traduce como nutricionalmente
+NUTRIDO	(adjetivo) sustentado: Participio de sustentar. (también: sostenido)
+NUTRIENTE	(sustantivo) nutriente: Que da fuerza física o moral.
+NUTRIENTES	(forma de nutriente) (sustantivo) nutriente: Que da fuerza física o moral.
+NUTRIGENOMICAMENTE	(adverbio) nutrigenomicamente se traduce como nutrigenómicamente
+NUTRIR	(verbo) nutrir: Servir a un organismo las sustancias que necesita para realizar sus funciones.
+NUTRITIVAMENTE	(adverbio) nutritivamente: De un modo nutritivo o referente a la nutrición.
+NUTRITIVO	(adjetivo) nutritivo: Capaz de nutrir. (también: alimenticio)
+NUTRIÇAO	(sustantivo) nutrición: Acción o efecto de nutrir o de nutrirse. Proceso biológico por el que un organismo asimila los alimentos para su crecimiento o sustento, reparando sus fuerzas y salud.
+NUVEM	(sustantivo) nube: Vapor de agua suspendido en la atmósfera, cuya condensación se precipita como lluvia, granizo o nieve.
+NUVENS	(forma de nuvem) (sustantivo) nube: Vapor de agua suspendido en la atmósfera, cuya condensación se precipita como lluvia, granizo o...
+NYLON	(sustantivo) nylon se traduce como ⟪nailon⟫, nylon, nilón

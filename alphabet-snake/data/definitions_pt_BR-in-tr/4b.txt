@@ -1,0 +1,9 @@
+KAFKAESCO	(sıfat) kafkaesco kelimesinin karşılığı: kafkaci
+KAMIKAZE	(ad) kamikaze kelimesinin karşılığı: ⟪kamikaze|KAMİKAZE⟫
+KARATE	(ad) karate kelimesinin karşılığı: ⟪karate|KARATE⟫
+KETCHUP	(ad) ketçap: temel maddesi baharat katılmış domates olan İngiliz sosu
+KIBUTZ	(ad) kibutz: İsrail'de ortaklaşa kullanılan yerleşim bölgelerine verilen ad
+KIKONGO	(ad) kikongo kelimesinin karşılığı: kongo dili
+KIMONO	(ad) kimono: Japonların önden çapraz olarak kavuşan uzun ve geniş kollu ulusal giysisi
+KIMONOS	(kimono sözcüğünün çekimi) (ad) kimono: Japonların önden çapraz olarak kavuşan uzun ve geniş kollu ulusal giysisi
+KURU	(ad) kuru: esrar.

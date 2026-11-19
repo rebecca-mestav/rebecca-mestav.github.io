@@ -1,0 +1,557 @@
+HABIL	(形容詞) 器用: 細かい作業などを上手く熟す様子。 (ほかに: 上手, かしこい)
+HABILIDADE	(名詞) 技術: 個人や小集団の技巧的な能力 (ほかに: 能力)
+HABILIDOSA	(habilidosoの変化形) (形容詞) うまい: 【巧い・上手い・巧妙い】 能力が優れる。巧みである。上手だ。
+HABILIDOSO	(形容詞) うまい: 【巧い・上手い・巧妙い】 能力が優れる。巧みである。上手だ。
+HABILITA	(habilitarの変化形) (動詞) 支給: 金銭や物品などを払い渡すこと。 (ほかに: がえんずる)
+HABILITAR	(動詞) 支給: 金銭や物品などを払い渡すこと。 (ほかに: がえんずる)
+HABILITAÇAO	(名詞) 資格: （すがた）（整った）みなり、風采。容姿。
+HABILITAÇOES	(habilitaçaoの変化形) (名詞) 資格: （すがた）（整った）みなり、風采。容姿。
+HABILITE	(habilitarの変化形) (動詞) 支給: 金銭や物品などを払い渡すこと。 (ほかに: がえんずる)
+HABILITEI	(habilitarの変化形) (動詞) 支給: 金銭や物品などを払い渡すこと。 (ほかに: がえんずる)
+HABILITO	(habilitarの変化形) (動詞) 支給: 金銭や物品などを払い渡すこと。 (ほかに: がえんずる)
+HABILITOU	(habilitarの変化形) (動詞) 支給: 金銭や物品などを払い渡すこと。 (ほかに: がえんずる)
+HABITA	(動詞) habitarの直説法現在第三人称単数形: 住む。
+HABITADO	(動詞) habitarの過去分詞男性単数形: 住む。
+HABITAM	(動詞) habitarの直説法現在第三人称複数形: 住む。
+HABITAMOS	(動詞) habitarの直説法現在第一人称複数形: 住む。
+HABITANDO	(動詞) habitarの現在分詞: 住む。
+HABITANTE	(名詞) 住民: その一定の地域に住んでいる人。
+HABITANTES	(名詞) habitanteの複数形: 住民: その一定の地域に住んでいる人。
+HABITAR	(動詞) 住む: （すむ）（打消しや反語の形で）解決する。得心する。申し訳ない気持ちがなくなる。
+HABITARA	(動詞) habitarの直説法過去完了第一人称単数形: 住む。
+HABITARAM	(動詞) habitarの直説法完全過去第三人称複数形: 住む。
+HABITARAO	(動詞) habitarの直説法未来第三人称複数形: 住む。
+HABITAREI	(動詞) habitarの直説法未来第一人称単数形: 住む。
+HABITAREM	(動詞) habitarの人称不定詞第三人称複数形: 住む。
+HABITAS	(動詞) habitarの直説法現在第二人称単数形: 住む。
+HABITASSE	(動詞) habitarの接続法過去第一人称単数形: 住む。
+HABITAT	(名詞) 生息地。生育地。
+HABITAVA	(動詞) habitarの直説法不完全過去第一人称単数形: 住む。
+HABITAVAM	(動詞) habitarの直説法不完全過去第三人称複数形: 住む。
+HABITAVEIS	(形容詞) habitávelの複数形: 居住に適した\n(動詞) habitarの直説法不完全過去第二人称複数形: 住む。
+HABITAVEL	(形容詞) habitavelの訳: 居住に適した
+HABITAÇAO	(名詞) くらし: 生活。生計。
+HABITE	(動詞) habitarの接続法現在第一人称単数形: 住む。
+HABITEM	(動詞) habitarの接続法現在第三人称複数形: 住む。
+HABITO	(動詞) habitarの直説法現在第一人称単数形: 住む。
+HABITOS	(habitoの変化形) (動詞) habitarの直説法現在第一人称単数形: 住む。
+HABITOU	(動詞) habitarの直説法完全過去第三人称単数形: 住む。
+HABITUA	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUADO	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUAIS	(形容詞) habitualの複数形: 習慣的な。いつもの。\n(動詞) habituarの直説法現在第二人称複数形: 慣れる
+HABITUAL	(形容詞) 習慣的な。いつもの。
+HABITUALMENTE	(副詞) 習慣的に。いつも。
+HABITUAM	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUAMOS	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUANDO	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUAR	(動詞) habituarの訳: 慣れる
+HABITUARA	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUARAM	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUAREI	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUAREM	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUARIA	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUARMOS	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUE	(動詞) habituarの接続法現在第一人称単数形。
+HABITUEI	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUEM	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HABITUES	(動詞) habituarの接続法現在第二人称単数形。
+HABITUO	(動詞) habituarの直説法現在第一人称単数形: 慣れる
+HABITUOU	(habituarの変化形) (動詞) habituarの訳: 慣れる
+HACHURAR	(動詞) かえす: 【返す】反対の状態にする。
+HACKER	(名詞) ハッカー: （本来の意味）コンピュータに熱中し、技術に精通している人（コンピュータおたくは含まれない）。
+HADOQUE	(名詞) こだら: タラ目タラ科コダラ属に属する魚の一種。学名:Melanogrammus aeglefinus。
+HAFNIO	(名詞) ハフニウム: 原子番号 72、元素記号 Hf の金属元素。原子量178.5。化学的性質はジルコニウムに類似。単体は、常温常圧では灰色の固体。高温で酸素、水素、窒素、ハロゲンと反応する。
+HAICAI	(名詞) 俳句: 日本の短詩形文芸形式の一つ。近世に発達した俳諧から近代になって分岐した。五・七・五のモーラから成る日本語の定型詩であり、世界最短の定型詩とされる。
+HAIKU	(名詞) haikuの訳: 俳句
+HAJA	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAJAM	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HALIBUTE	(名詞) おひょう: カレイ目カレイ科オヒョウ属に属する魚の総称。学名:Hippoglossus。
+HALIOTE	(名詞) あわび: （あわび）貝の一種、詳細は「あわび」参照。
+HALITOSE	(名詞) 口臭: 口から出る悪臭。
+HALL	(名詞) hallの訳: ロビー, 休息所
+HALO	(名詞) haloの訳: かさ
+HALOGENAR	(動詞) ハロゲン化する。
+HALOGENIO	(名詞) halogénioの異綴。
+HALOGENO	(動詞) halogenarの直説法現在第一人称単数形: ハロゲン化する。
+HALTERE	(名詞) haltereの訳: ダンベル
+HALTERES	(名詞) haltereの複数形: ダンベル
+HALTEROFILISMO	(名詞) halterofilismoの訳: 重量挙げ
+HALUX	(名詞) 拇趾: 足の親指。 (ほかに: 足の親指, 第一趾)
+HAMBURGER	(名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。
+HAMBURGUER	(名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。
+HAMBURGUES	(名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。 (ほかに: ハンバーグステーキ)
+HAMBURGUESA	(hamburguesの変化形) (名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。 (ほかに: ハンバーグステーキ)
+HAMBURGUESAS	(hamburguesの変化形) (名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。 (ほかに: ハンバーグステーキ)
+HAMSTER	(名詞) hamsterの訳: ハムスター
+HANDEBOL	(名詞) ハンドボール: スポーツ、球技の一つ。一チーム七人ずつのチームで競技する。ボールを手だけで操って敵陣のゴールへ運び、最終的な得点を競う競技。
+HANGAR	(名詞) hangarの訳: 格納庫
+HANSENIASE	(名詞) hanseniaseの訳: 癩病, ハンセン病
+HANTAVIRUS	(名詞) hantavirusの訳: 腎症候性出血熱
+HAO	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HARAS	(名詞) 種牡馬: 種付けのために用いられる、牡の馬。
+HARMONIA	(名詞) harmoniaの訳: 和声
+HARMONICA	(名詞) ハーモニカ: フリーリードを使った、小さな楽器。\n(形容詞) harmónicoの女性形。
+HARPA	(名詞) ハープ: 西洋音楽で使われる弦楽器。高さ2mほどの大型の楽器で、弦を指で弾くことで音を出す。略記号Hrp。
+HARPAS	(harpaの変化形) (名詞) ハープ: 西洋音楽で使われる弦楽器。高さ2mほどの大型の楽器で、弦を指で弾くことで音を出す。略記号Hrp。
+HARPIA	(名詞) harpiaの訳: ハルピュイア, オウギワシ
+HARPIAS	(harpiaの変化形) (名詞) harpiaの訳: ハルピュイア, オウギワシ
+HARPISTA	(名詞) ハーピスト: ペダルハープの演奏家。
+HAS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HASHI	(名詞) はし: 古代、土器や埴輪を製作する職人を土師といい、「はにし」が音変化しはし, はじ, はぜと呼ばれるようになり、現代の日本の地名や姓にその名を残している。
+HASHTAG	(名詞) hashtagの訳: ハッシュタグ
+HASSIO	(名詞) ハッシウム: 原子番号 108、元素記号 Hs の元素。安定同位体は存在しない。
+HASTA	(名詞) hastaの訳: やり
+HASTE	(名詞) 棹: （さお）三味線の同から上の、弦を張った長い部分。転じて、三味線。
+HAURIR	(動詞) 伸張: 伸ばして広げること。また、伸びて広がること。
+HAUSSA	(名詞) ハウサ語: ナイジェリア北部からニジェール南部にかけて居住するハウサ族が用いるアフロ・アジア語族チャド諸語に属する言語。ナイジェリアにおける多数派であるため、同国及び周辺諸国の共通語として用いられる。言語コード ISO 639-2:hau。 (ほかに: ハウサ人)
+HAUÇA	(形容詞) ハウサ語: ナイジェリア北部からニジェール南部にかけて居住するハウサ族が用いるアフロ・アジア語族チャド諸語に属する言語。ナイジェリアにおける多数派であるため、同国及び周辺諸国の共通語として用いられる。言語コード ISO 639-2:hau。\n(名詞) ハウサ語: ナイジェリア北部からニジェール南部にかけて居住するハウサ族が用いるアフロ・アジア語族チャド諸語に属する言語。ナイジェリアにおける多数派であるため、同国及び周辺諸国の共通語として用いられる。言語コード ISO 639-2:hau。 (ほかに: ハウサ人)
+HAVAIANO	(名詞) havaianoの訳: ハワイ語
+HAVEIS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVEMOS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVENDO	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVER	(動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVERA	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVERAO	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVEREI	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVEREMOS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVERIA	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVERIAM	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVERIAMOS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVERIAS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVIA	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVIAM	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVIAMOS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVIAS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVIDO	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HAVIEIS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HEBDOMADARIO	(名詞) 週間: （名詞の前に付いて）週の、一週間の。 (ほかに: 週刊)
+HEBRAICO	(名詞) ヘブライ人: ヘブライ語を母語とする民族。ヘブル人。 (ほかに: ヘブライ語)
+HEBREIA	(名詞) ヘブライ人: ヘブライ語を母語とする民族。ヘブル人。
+HEBREU	(名詞) ユダヤ人: ユダヤ教を信仰する信者。ユダヤ教徒。 (ほかに: ヘブライ語, ヘブライ人)
+HEBREUS	(hebreuの変化形) (名詞) ユダヤ人: ユダヤ教を信仰する信者。ユダヤ教徒。 (ほかに: ヘブライ語, ヘブライ人)
+HECATOMBE	(名詞) 殺戮: 一度にたくさんの人を残忍な方法で殺すこと。 (ほかに: 虐殺, 惨殺)
+HECTARE	(名詞) ヘクタール: メートル法における面積の単位。記号は ha, また新聞等では㌶とも表記される。1ha=100a=10,000㎡で、100m四方の正方形の面積となる。主に農地面積を表すのに用い、1haはおおよそ1町に等しく、農業のみで平均的1世帯の家計を支える場合の標準的面積とされる。
+HECTOMETRO	(名詞) hectometroの訳: ヘクトメートル
+HEDONISMO	(名詞) 快楽主義: 快楽を得ることを人生の最大の目的とし、道徳はそれを実現するための手段でしかないとする立場。
+HEGEMONIA	(名詞) hegemoniaの訳: ヘゲモニー
+HEIS	(動詞) haverの直説法現在第二人称複数形: ある
+HELIANTO	(名詞) ひぐるま: ひまわりの別名。夏の季語。 (ほかに: ひまわり)
+HELICE	(名詞) 螺旋: （ねじ）ぜんまい。また、それを巻く装置。 (ほかに: プロペラ)
+HELICOPTERO	(名詞) helicopteroの訳: ヘリコプター
+HELICOPTEROS	(名詞) helicópteroの複数形: ヘリコプター
+HELIO	(名詞) ヘリウム: 原子番号 2、元素記号 He の非金属元素。原子量4.003。希ガス。単体は、常温常圧では単原子分子の無色・無臭の気体。沸点は−268.93℃で、全元素中で最低。
+HELIOSFERA	(名詞) 太陽圏: 太陽風の届く範囲。
+HELIOTROPIO	(名詞) ひぐるま: ひまわりの別名。夏の季語。 (ほかに: ひまわり)
+HELIPORTO	(名詞) ヘリポート: ヘリコプターが発着する飛行場。
+HEMACIA	(名詞) 赤血球: 脊椎動物などの血液に含まれる有形成分のひとつ。赤い色素ヘモグロビンを有し、主に酸素の運搬にかかわる。
+HEMACIAS	(hemaciaの変化形) (名詞) 赤血球: 脊椎動物などの血液に含まれる有形成分のひとつ。赤い色素ヘモグロビンを有し、主に酸素の運搬にかかわる。
+HEMATITA	(名詞) hematitaの訳: 赤鉄鉱
+HEMATOLOGIA	(名詞) 血液学: 血液の成分などについて研究する内科学の一つ。
+HEMEROTECA	(名詞) 位置: （ちい）身分の程度。集団における位置、位。 (ほかに: 分限, 場所)
+HEMICICLO	(名詞) 半円形: 円を半分にした形状。半円の形状。 (ほかに: 分度器, 半円)
+HEMIPLEGIA	(名詞) hemiplegiaの訳: 片麻痺
+HEMIPTERO	(名詞) hemipteroの訳: 半翅類
+HEMISFERIO	(名詞) 半球: （地理）地球を等分した場合の一方の地表。
+HEMODIALISE	(名詞) hemodialiseの訳: ダイアライザー
+HEMOFILIA	(名詞) 血友病: 遺伝的に血液凝固因子が欠乏し、出血しやすく、出血がなかなか止まらない疾患。ヘモフィリア。
+HEMOGLOBINA	(名詞) ヘモグロビン: ヘム（色素）とグロビン（たんぱく質）が結合した色素たんぱく質。赤血球の中に含まれる。
+HEMOLISE	(名詞) 溶血: 細菌や衝撃などにより、赤血球が破壊されること。
+HEMORRAGIA	(名詞) 出血: 血管から血液の全成分、特に赤血球が出る現象。
+HEMORRAGIAS	(hemorragiaの変化形) (名詞) 出血: 血管から血液の全成分、特に赤血球が出る現象。
+HEMORROIDA	(名詞) 痔: 肛門周辺に生じた疾患の総称。痔疾。
+HEMORROIDAS	(名詞) hemorroidasの訳: 痔
+HEMOS	(動詞) haverの直説法現在第一人称複数形: ある
+HENTAI	(名詞) hentaiの訳: エロアニメ, エロ漫画
+HEPATICA	(名詞) hepaticaの訳: 三角草
+HEPATICO	(形容詞) hepaticoの訳: 肝臓色の
+HEPATITE	(名詞) 肝炎: ウイルス・薬物・輸血などによって起こる肝臓の炎症。
+HEPTAGONO	(名詞) 七角形: 多角形の一つ。7個の頂点と7本の辺をもつ。
+HERALDICA	(名詞) heraldicaの訳: 紋章学
+HERANÇA	(名詞) 遺産: 死んだ人が遺した財産。 (ほかに: 相続, 継承)
+HERBIVORO	(名詞) ベジタリアン: 菜食主義者。 (ほかに: 菜食主義者, 草食)
+HERDA	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDADO	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAM	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAMOS	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDANDO	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAR	(動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDARA	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDARAM	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDARAO	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAREI	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAREM	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAREMOS	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDARIA	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDARIAM	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDASSE	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDASSEM	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDASTE	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDAVA	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDE	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDEI	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDEIRO	(名詞) herdeiroの訳: 相続人
+HERDEM	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDES	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HERDOU	(herdarの変化形) (動詞) つぐ: （嗣ぐ、継ぐ）家、財産を引きつぐ。 (ほかに: 受継ぐ)
+HEREDITARIEDADE	(名詞) hereditariedadeの訳: ⟪遺伝|いでん⟫
+HEREGE	(形容詞) heregeの訳: 異端の\n(名詞) 異端者: 異端とされる宗教、思想を信仰または主張する者。
+HERESIA	(名詞) heresiaの訳: 異端
+HERESIAS	(名詞) heresiaの複数形: 異端
+HERETICA	(形容詞) heréticoの女性形: 異端の
+HERETICAS	(形容詞) heréticoの女性複数形。
+HERETICO	(形容詞) hereticoの訳: 異端の
+HERETICOS	(形容詞) heréticoの男性複数形。
+HERNIA	(名詞) herniaの訳: ヘルニア
+HEROI	(名詞) 英雄。ヒーロー。
+HEROICA	(形容詞) heróicoの女性形: 英雄的な
+HEROICAMENTE	(副詞) heroicamenteの訳: 英雄的に
+HEROICO	(形容詞) heroicoの訳: 英雄的な
+HEROINA	(名詞) heroinaの訳: ヘロイン
+HEROISMO	(名詞) 英雄的行為。英雄主義。ヒロイズム。
+HERPES	(名詞) ヘルペス: 皮膚に小さな水疱が複数集まってできる状態。疱疹。単純疱疹。
+HERPETOLOGIA	(名詞) herpetologiaの訳: 爬虫両棲類学
+HERVA	(名詞) ハーブ: 香草。
+HERVAS	(hervaの変化形) (名詞) ハーブ: 香草。
+HESITA	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITADO	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAM	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAMOS	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITANDO	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAR	(動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARA	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARAM	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARAO	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAREI	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAREM	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAREMOS	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARIA	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARIAM	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARIAMOS	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITARMOS	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAS	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITASSE	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAVA	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAVAM	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITAÇAO	(名詞) 躊躇: 決心がつかず、迷うこと。 (ほかに: ためらい, ヘジテーション)
+HESITE	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITEI	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITEM	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITES	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITO	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HESITOU	(hesitarの変化形) (動詞) ためらう: 決心がつかずにぐずぐずする。 (ほかに: 躊躇する)
+HETERO	(形容詞) ストレート: （いせいあいもの）異性に恋愛の感情を持ち、性的な指向を持つ者。 (ほかに: 率直)
+HETEROFONIA	(名詞) heterofoniaの訳: ヘテロフォニー
+HETEROSSEXUAIS	(heterossexualの変化形) (形容詞) ストレート: （いせいあいもの）異性に恋愛の感情を持ち、性的な指向を持つ者。 (ほかに: 率直)
+HETEROSSEXUAL	(形容詞) ストレート: （いせいあいもの）異性に恋愛の感情を持ち、性的な指向を持つ者。 (ほかに: 率直)
+HETEROSSEXUALIDADE	(名詞) 異性愛: 異性に性的指向があること。
+HEURISTICA	(名詞) heuristicaの訳: ヒューリスティクス
+HEXADECIMAIS	(hexadecimalの変化形) (名詞) 十六進法: 十六を底として、十六の累乗で桁を進める記数法。十六種類の数字として、0から9までの十個のアラビア数字と、AからFまでの六個のラテン文字を通常用いる。十をA、十五をF、十六を10、十六分の一を0.1と表す。
+HEXADECIMAL	(名詞) 十六進法: 十六を底として、十六の累乗で桁を進める記数法。十六種類の数字として、0から9までの十個のアラビア数字と、AからFまでの六個のラテン文字を通常用いる。十をA、十五をF、十六を10、十六分の一を0.1と表す。
+HEXAEDRO	(名詞) 六面体: 六つの平面図形で囲まれた立体。
+HEXAGONAIS	(形容詞) hexagonalの複数形: 六角形の: いずれも同一直線上にない6つの線分により構成される閉じた図形。 6個の頂点と6本の辺をもつ。
+HEXAGONAL	(形容詞) 六角形の: いずれも同一直線上にない6つの線分により構成される閉じた図形。 6個の頂点と6本の辺をもつ。
+HEXAGONO	(名詞) 六角形: いずれも同一直線上にない6つの線分により構成される閉じた図形。 6個の頂点と6本の辺をもつ。
+HEXAMETRO	(名詞) hexametroの訳: ヘクサメトロス
+HIBERNA	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNADO	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNAL	(形容詞) 冬の: 季節（四季）の一つ。秋の次、春の前。
+HIBERNAM	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNANDO	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNAR	(動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNARAM	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNAVAM	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNAÇAO	(名詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNEI	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNOU	(hibernarの変化形) (動詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBRIDA	(hibridarの変化形) (動詞) かける: 交配させる。
+HIBRIDAR	(動詞) かける: 交配させる。
+HIBRIDAS	(hibridarの変化形) (動詞) かける: 交配させる。
+HIBRIDO	(名詞) ハイブリッド: 合成物、混成物。 (ほかに: 混血, 雑種)
+HIBRIDOS	(hibridoの変化形) (名詞) ハイブリッド: 合成物、混成物。 (ほかに: 混血, 雑種)
+HIDRANGEA	(名詞) hidrangeaの訳: ⟪アジサイ|あじさい⟫
+HIDROCARBONETO	(名詞) hidrocarbonetoの訳: 炭化水素
+HIDRODINAMICA	(名詞) 流体力学: 流体の挙動を扱う力学。 (ほかに: 水力学)
+HIDROFOBIA	(名詞) 狂犬病: 狂犬病ウイルスによる人獣共通の感染症。発病すると、唾液の過剰分泌や食欲不振、不眠などの症状を呈する。また、風や光などの刺激に過敏に反応し、特に水を見たり飲んだりすると喉の筋肉が痙攣する。発病した場合の致死率はほぼ100パーセント。 (ほかに: 恐水病)
+HIDROGENIO	(名詞) 水素: 2つの水素原子で構成される分子。化学式はH₂。常温常圧では無色無臭の気体で、非常に燃えやすいなどの特徴がある。
+HIDROLOGIA	(名詞) 水文学: 陸上の湖沼、河川、地下水などの水に関することを水の循環の視点から研究する学問。
+HIDROMEL	(名詞) hidromelの訳: 蜂蜜酒
+HIDROVIA	(名詞) 運河: 船舶の航行などのための人工の川。
+HIDROVIAS	(hidroviaの変化形) (名詞) 運河: 船舶の航行などのための人工の川。
+HIDROXICLOROQUINA	(名詞) hidroxicloroquinaの訳: ヒドロキシクロロキン
+HIENA	(名詞) hienaの訳: ハイエナ
+HIERARQUIA	(名詞) hierarquiaの訳: 長者
+HIERARQUIAS	(hierarquiaの変化形) (名詞) hierarquiaの訳: 長者
+HIEROGLIFO	(名詞) hieroglifoの訳: 象形文字
+HIEROGLIFOS	(hieroglifoの変化形) (名詞) hieroglifoの訳: 象形文字
+HIFA	(名詞) 菌糸: 菌類の本体をなす糸状の細胞または細胞の列。
+HIFEN	(名詞) ハイフン: 「-」の記号、連字符、連読符。
+HIGIENE	(名詞) 衛生: 身の回りを清潔にすることで健康を保ち、病気にかからなくすること。
+HIGIENIZAÇAO	(名詞) 清掃: 空気などが爽やかで清々しい様。 (ほかに: 衛生, 洗濯)
+HIGROMETRO	(名詞) 湿度計: 湿度を測定する機器。
+HIGROSCOPIA	(名詞) higroscopiaの訳: 吸湿性
+HIMEN	(名詞) 処女膜: 女性器腟開口部にある膜。
+HINDI	(名詞) hindiの訳: ヒンディー語
+HINDUISMO	(名詞) hinduismoの訳: ヒンドゥー教
+HINO	(名詞) 聖歌: 神に捧げる、神聖な火。
+HIPERBOLE	(名詞) hiperboleの訳: ⟪双曲線|そうきょくせん⟫
+HIPERCALCEMIA	(名詞) hipercalcemiaの訳: 高カルシウム血症
+HIPERCALEMIA	(名詞) hipercalemiaの訳: 高カリウム血症
+HIPERLIGAÇAO	(名詞) リンク: あるウェブページから他の文書にアクセスするために、宛先のURLをページ中に埋め込むこと。またそのURL。ハイパーリンク。 (ほかに: 連結, きずな)
+HIPERMETROPIA	(名詞) hipermetropiaの訳: ⟪遠視|えんし⟫
+HIPERNATREMIA	(名詞) hipernatremiaの訳: 高ナトリウム血症
+HIPERONIMO	(名詞) hiperonimoの訳: 上位語
+HIPERTERMIA	(名詞) 熱中症: 暑熱がもたらす、頭痛や目眩、意識障害などの症状。
+HIPERTIREOIDISMO	(名詞) hipertireoidismoの訳: 甲状腺機能亢進症
+HIPERTROFIA	(名詞) 肥大: 細胞・組織・臓器などの体積が大きくなること。
+HIPERVENTILAÇAO	(名詞) hiperventilaçaoの訳: 過換気症候群
+HIPNOSE	(名詞) 催眠。催眠状態。
+HIPNOTICO	(形容詞) 催眠の。催眠状態の。
+HIPNOTISMO	(名詞) hipnotismoの訳: 催眠術
+HIPNOTIZA	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZAM	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZAMOS	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZANDO	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZAR	(動詞) 催眠術をかける。
+HIPNOTIZARAM	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZAREI	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZARIA	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZASSE	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZAVA	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZE	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZEI	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZO	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPNOTIZOU	(hipnotizarの変化形) (動詞) 催眠術をかける。
+HIPOCALCEMIA	(名詞) hipocalcemiaの訳: 低カルシウム血症
+HIPOCALEMIA	(名詞) hipocalemiaの訳: 低カリウム血症
+HIPOCAMPO	(名詞) hipocampoの訳: 海馬
+HIPOCONDRIA	(名詞) hipocondriaの訳: ヒポコンデリー
+HIPOCORISTICO	(名詞) hipocoristicoの訳: ⟪愛称|あいしょう⟫
+HIPOCRISIA	(名詞) hipocrisiaの訳: 偽善
+HIPOCRISIAS	(hipocrisiaの変化形) (名詞) hipocrisiaの訳: 偽善
+HIPOGLOSSO	(名詞) hipoglossoの訳: ⟪おひょう⟫
+HIPONATREMIA	(名詞) hiponatremiaの訳: 低ナトリウム血症
+HIPONIMO	(名詞) hiponimoの訳: 下位語
+HIPOPOTAMA	(hipopotamoの変化形) (名詞) hipopotamoの訳: 河馬, カバ
+HIPOPOTAMO	(名詞) hipopotamoの訳: 河馬, カバ
+HIPOPOTAMOS	(hipopotamoの変化形) (名詞) hipopotamoの訳: 河馬, カバ
+HIPOSTASE	(名詞) hipostaseの訳: 位格
+HIPOTECA	(名詞) 抵当: 不動産を、その占有を債権者から移転することなく、債権者への保証にあてること。 (ほかに: 担保, 抵当権)
+HIPOTENUSA	(名詞) 斜辺: 直角三角形の直角に相対する辺。
+HIPOTERMIA	(名詞) 低体温症: 恒温動物の深部体温が、正常な生体活動の維持に必要な水準を下回ったときに生じる様々な症状の総称。ヒトでは、直腸温が35°C以下に低下した場合に低体温症と診断される。
+HIPOTESE	(名詞) hipoteseの訳: ⟪仮説|かせつ⟫
+HIPOTESES	(hipoteseの変化形) (名詞) hipoteseの訳: ⟪仮説|かせつ⟫
+HIRSUTO	(形容詞) hirsutoの訳: 毛深い, 毛むくじゃらの
+HIRTO	(形容詞) hirtoの訳: 硬い, 堅い
+HISTOLOGIA	(名詞) 組織学: 生物の組織の構成や機能、発生、分化などを研究対象とする学問。
+HISTORIA	(名詞) históriaの廃用。
+HISTORIAS	(名詞) historiaの複数形: históriaの廃用。
+HISTORICA	(historicoの変化形) (形容詞) historicoの訳: 歴史的な
+HISTORICO	(形容詞) historicoの訳: 歴史的な\n(名詞) 歴史: この世界に存在するある事物・物事について、時間の経過と共に変化してゆくそれらが今までに変化してきたその過程。または、その中での出来事。ある事物・物事の、今に至るまでの過程、変化の跡。経歴。来歴。
+HIT	(名詞) ヒット: 非常に成功すること。売れること。また、成功したものや売れたもの。
+HITAR	(動詞) つぐ: （襲ぐ）うけつぐ。世襲する。 (ほかに: 継ぐ, 継承する)
+HITE	(hitarの変化形) (動詞) つぐ: （襲ぐ）うけつぐ。世襲する。 (ほかに: 継ぐ, 継承する)
+HITITA	(名詞) hititaの訳: ヒッタイト語
+HITS	(hitの変化形) (名詞) ヒット: 非常に成功すること。売れること。また、成功したものや売れたもの。
+HOBBY	(名詞) 趣味: このみ、センス、嗜好。
+HOJE	(副詞) 今日: 今過ごしているその日、この日。本日。明日の前日。
+HOJES	(hojeの変化形) (副詞) 今日: 今過ごしているその日、この日。本日。明日の前日。
+HOL	(名詞) holの訳: ⟪廊下|ろうか⟫
+HOLANDES	(名詞) holandesの訳: オランダ語, オランダ人
+HOLANDESES	(holandesの変化形) (名詞) holandesの訳: オランダ語, オランダ人
+HOLMIO	(名詞) ホルミウム: 原子番号 67、元素記号 Ho の金属元素。ランタノイド。原子量164.9。単体は、常温常圧では銀白色の固体。
+HOLOCAUSTO	(名詞) 虐殺: 残虐な方法によって殺害すること。 (ほかに: 鏖殺, みなごろし)
+HOLOCAUSTOS	(holocaustoの変化形) (名詞) 虐殺: 残虐な方法によって殺害すること。 (ほかに: 鏖殺, みなごろし)
+HOLOGRAFIA	(名詞) holografiaの訳: ホログラフィー
+HOMBRIDADE	(名詞) hombridadeの訳: ⟪誠実|せいじつ⟫
+HOMEM	(名詞) ひと: （指示語や形容詞などと共に形式名詞的に、あるいは複合語で）人間。多くは大人の人間で、少年期の人間を指すこともあるが乳幼児には用いない。 (ほかに: 人間, 人類)
+HOMENAGEADO	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEAMOS	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEANDO	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEAR	(動詞) 崇敬: 崇め、敬う。
+HOMENAGEARA	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEARAM	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEARAO	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEAREM	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEAREMOS	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEAVA	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEAVAM	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEIA	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEIAM	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEIE	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENAGEM	(名詞) オマージュ: 敬意。尊敬。
+HOMENAGEOU	(homenagearの変化形) (動詞) 崇敬: 崇め、敬う。
+HOMENS	(homemの変化形) (名詞) ひと: （指示語や形容詞などと共に形式名詞的に、あるいは複合語で）人間。多くは大人の人間で、少年期の人間を指すこともあるが乳幼児には用いない。 (ほかに: 人間, 人類)
+HOMENZINHO	(homemの変化形) (名詞) ひと: （指示語や形容詞などと共に形式名詞的に、あるいは複合語で）人間。多くは大人の人間で、少年期の人間を指すこともあるが乳幼児には用いない。 (ほかに: 人間, 人類)
+HOMENZINHOS	(homemの変化形) (名詞) ひと: （指示語や形容詞などと共に形式名詞的に、あるいは複合語で）人間。多くは大人の人間で、少年期の人間を指すこともあるが乳幼児には用いない。 (ほかに: 人間, 人類)
+HOMEOPATIA	(名詞) homeopatiaの訳: ホメオパシー
+HOMEOSTASE	(名詞) ホメオスタシス: 恒常性。 (ほかに: 恒常性)
+HOMICIDA	(名詞) 殺人犯: 人を殺害することで成立する犯罪。また、その犯人。
+HOMICIDAS	(名詞) homicidaの複数形: 殺人犯: 人を殺害することで成立する犯罪。また、その犯人。
+HOMICIDIO	(名詞) 殺人: 自らの行為を原因として、他人が死ぬ可能性があることを認識し、かつ、その結果の発生について認容し、その行為を実行すること、及び、その結果として他人が死にいたること。
+HOMICIDIOS	(名詞) homicídioの複数形: 殺人:...
+HOMINIDEO	(名詞) hominideoの訳: ヒト科
+HOMOAFETIVO	(形容詞) 同性愛者: 同性に恋愛の感情を持ち、性的な指向を持つ者。ホモ。
+HOMOFOBIA	(名詞) ホモフォビア: 同性愛者に否定的な感情を抱くこと。
+HOMOFONIA	(名詞) homofoniaの訳: ホモフォニー
+HOMOFONO	(名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMOLOGAÇAO	(名詞) 追認: 意思表示に瑕疵があるなどの理由で取り消すことができる又は確定していない法律行為について、取消権を有するものが、事実を認めることにより、当該法律行為を取り消すことができなくなり確定すること。 (ほかに: 確認)
+HOMOLOGIA	(名詞) 相同: たがいに同じであること。同形同大であること。
+HOMONIMA	(名詞) 同名異人: 名前は同じだが、別の人。 (ほかに: 同姓同名)
+HOMONIMO	(名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMONIMOS	(homonimoの変化形) (名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMOSSEXUAIS	(homossexualの変化形) (形容詞) homossexualの訳: 同性愛者
+HOMOSSEXUAL	(形容詞) homossexualの訳: 同性愛者\n(名詞) homossexualの訳: ゲイ
+HOMOSSEXUALIDADE	(名詞) homossexualidadeの訳: 同性愛
+HONESTA	(形容詞) honestoの女性形: 正直な: 正直に。率直に。 (ほかに: 誠実な)
+HONESTAMENTE	(副詞) 正直: 正直に。率直に。
+HONESTAS	(honestoの変化形) (形容詞) 正直な: 正直に。率直に。 (ほかに: 誠実な)
+HONESTIDADE	(名詞) 誠実: 聖なる祝祭日。また、日曜日。
+HONESTO	(形容詞) 正直な: 正直に。率直に。 (ほかに: 誠実な)
+HONESTOS	(honestoの変化形) (形容詞) 正直な: 正直に。率直に。 (ほかに: 誠実な)
+HONRA	(名詞) honraの訳: ⟪名誉|めいよ⟫
+HONRAI	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAMOS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRANDO	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAR	(動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARA	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARAM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARAO	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARAS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAREI	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAREM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAREMOS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARIAM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARIAS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRARMOS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAS	(honraの変化形) (名詞) honraの訳: ⟪名誉|めいよ⟫
+HONRASSE	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRASSEM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAVA	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAVAM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAVAMOS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRAVEIS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRE	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONREI	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONREM	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONREMOS	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HONRO	(動詞) honrarの直説法現在第一人称単数形: 敬う、尊敬する。
+HONROU	(honrarの変化形) (動詞) 敬う: 人や神仏を、価値が高いと見なして礼を尽くす。 (ほかに: 尊敬する)
+HOQUEI	(名詞) フィールドホッケー: スポーツ、球技の一つ。一チーム11人ずつのチームが芝生の上で硬球を先端の折れ曲がったスティックで打ち合いながら競技し、敵陣のゴールにいれることで得点をし、最終的な得点を競う競技。 (ほかに: アイスホッケー, ホッケー)
+HORA	(名詞) 時間: 4. 時間（語義1 の意）の単位 (ほかに: 時, 時刻)
+HORARIA	(形容詞) horárioの女性形: 時刻表: 交通機関などの発着時刻を記した表。また、それらをまとめて記載した冊子。 (ほかに: 予定表, スケジュール)
+HORARIAS	(形容詞) horárioの女性複数形。
+HORARIO	(名詞) 時刻表: 交通機関などの発着時刻を記した表。また、それらをまとめて記載した冊子。 (ほかに: 予定表, スケジュール)\n(形容詞) horarioの訳: 時間の
+HORARIOS	(名詞) horárioの複数形: 時刻表: 交通機関などの発着時刻を記した表。また、それらをまとめて記載した冊子。 (ほかに: 予定表, スケジュール)\n(形容詞) horárioの男性複数形。
+HORAS	(horaの変化形) (名詞) 時間: 4. 時間（語義1 の意）の単位 (ほかに: 時, 時刻)
+HORDA	(名詞) 雲霞: (うんか, くもかすみ) 雲と霞。
+HORIZONTAL	(形容詞) horizontalの訳: 水平な, 横方向の
+HORIZONTE	(名詞) 地平線。水平線。
+HORIZONTES	(名詞) horizonteの複数形: 地平線。水平線。
+HORMONIO	(名詞) ホルモン: 内分泌腺で生成されて血液中に分泌され、それぞれの器官の機能を促進したり、抑制したりする化学物質。
+HOROSCOPO	(名詞) horoscopoの訳: ホロスコープ, ⟪星占い|ほしうらない⟫
+HORRIPILANTE	(形容詞) 気持ち悪い: 視覚的、感覚的に悪いまたは変な感じがする。 (ほかに: 気味悪い)
+HORRIVEL	(形容詞) horrivelの訳: 恐ろしい
+HORROR	(名詞) 恐怖: 恐れること。はなはだしく不安を感じること。
+HORRORES	(副詞) たくさん: 数多く。いっぱい。\n(名詞) horrorの複数形: 恐怖: 恐れること。はなはだしく不安を感じること。
+HORROROSO	(形容詞) こわい: 危険が降りかかりそうでいやだ。
+HORTALIÇA	(名詞) 菜蔬: 野菜。 (ほかに: 野菜)
+HORTELA	(名詞) hortelaの訳: ⟪鋳造|ちゅうぞう⟫, ミント, 薄荷, ⟪若緑|わかみどり⟫
+HORTENSIA	(名詞) hortensiaの訳: ⟪あじさい⟫
+HOSPEDA	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDADO	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAGEM	(名詞) hospedagemの訳: 宿泊
+HOSPEDAM	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAMOS	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDANDO	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAR	(動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDARA	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDARAM	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDARAO	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAREI	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAREM	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAREMOS	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDARIAS	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDARMOS	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDASSE	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAVA	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDAVAM	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDE	(名詞) hospedeの訳: ⟪客|まろうど⟫
+HOSPEDEI	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDEIRO	(名詞) hospedeiroの訳: ホストコンピュータ
+HOSPEDEIROS	(hospedeiroの変化形) (名詞) hospedeiroの訳: ホストコンピュータ
+HOSPEDEM	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDES	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDO	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPEDOU	(hospedarの変化形) (動詞) 宿泊: 自宅以外で寝ること。泊まること。 (ほかに: 保管, すくう)
+HOSPICIO	(名詞) ホスピス: 癌の末期患者に対し、単なる延命治療ではなく、身体的、精神的な苦痛を軽減しながら患者の末期を平穏にすごせるような治療をする施設やその活動。
+HOSPITAL	(名詞) 病院: 医師又は歯科医師が、公衆又は特定多数人のため医業又は歯科医業を行う場所であつて、二十人以上の患者を入院させるための施設を有するもの。（医療法第一条の五）
+HOSPITALIDADE	(名詞) 御馳走: 特別に食事などをふるまうこと。来客へ食事をもてなすこと。また、食事などをふるまわれたり、もてなされたりすること。
+HOSPITALIZAÇAO	(名詞) 入院: （にゅういん）病気や怪我の治療のためにある期間病院に入ること。
+HOST	(名詞) hostの訳: ホストコンピュータ
+HOSTE	(名詞) hosteの訳: ホストコンピュータ, ⟪陸軍|りくぐん⟫, ⟪軍隊|ぐんたい⟫
+HOSTES	(hosteの変化形) (名詞) hosteの訳: ホストコンピュータ, ⟪陸軍|りくぐん⟫, ⟪軍隊|ぐんたい⟫
+HOSTESS	(hostの変化形) (名詞) hostの訳: ホストコンピュータ
+HOSTIA	(名詞) hostiaの訳: ホストコンピュータ
+HOSTIL	(形容詞) 敵対する: 相手を敵として憎み、はむかうこと。 (ほかに: 敵対的な, 敵意のある)
+HOSTILMENTE	(副詞) hostilmenteの訳: 敵意を持って
+HOTEIS	(hotelの変化形) (名詞) ホテル:...
+HOTEL	(名詞) ホテル: 有償の宿泊設備で、他の客と隔絶した部屋及び宿泊に関連するサービスが提供されるもの。特に近代的な洋式の構造及び設備を主とするものをいい、一般に施錠のできるドアで出入りし、畳敷きではなく、ベッドが備え付けられており、浴室又はシャワー室及び便所が備え付けられている。
+HOTELZINHO	(hotelの変化形) (名詞) ホテル:...
+HOUVE	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVERA	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVERAM	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVERMOS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVESSE	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVESSEIS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVESSEM	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVESSEMOS	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HOUVESSES	(haverの変化形) (動詞) ある: （「つつある」の形で）実現しようとしている、または継続中であるという意を表す。
+HUBRIS	(名詞) hubrisの訳: ヒュブリス
+HULHA	(名詞) 石炭: 古代の植物が完全に腐敗分解する前に地中に埋もれ、そこで長い期間地熱や地圧を受けて炭化したことにより生成した可燃性の岩石。燃料として用いるほか、製鉄においてはコークスが重要な役割を担う。 (ほかに: 製炭, 煤炭)
+HUMANAS	(humanoの変化形) (形容詞) humanoの訳: 人間の, 人間的な
+HUMANIDADE	(名詞) 人類: 他の生物と区別される人間の全体。
+HUMANISMO	(名詞) ヒューマニズム: （じんぶんしゅぎ）ルネサンス期のイタリアで起きた精神運動。カトリック教会の精神的束縛や教会の権威から脱し、ギリシャ・ローマの古典を研究から普遍的な教養を身につけ、人間性を再興しようという運動。
+HUMANITARIO	(形容詞) humanitarioの訳: 人道主義的な\n(名詞) 人道主義者: 人道主義の立場をとりそれを主張する者。
+HUMANO	(形容詞) humanoの訳: 人間の, 人間的な\n(名詞) humanoの訳: ⟪人類|じんるい⟫
+HUMANOS	(humanoの変化形) (形容詞) humanoの訳: 人間の, 人間的な
+HUMEDECER	(動詞) しめす: 湿り気を与える、湿らす。
+HUMIDADE	(名詞) humidadeの訳: ⟪湿度|しつど⟫
+HUMIDAS	(形容詞) húmidoの女性複数形。
+HUMIDIFICAR	(動詞) しめす: 水にぬらして火を消す。
+HUMIDO	(形容詞) úmidoの異綴。
+HUMILDADE	(名詞) 謙虚: 控えめで、素直なさま。 (ほかに: 謙遜, 卑下)
+HUMILDE	(形容詞) 謙虚な: 控えめで、素直なさま。 (ほかに: 謙遜した, 控えめな)
+HUMILDEMENTE	(副詞) 謙虚に: 控えめで、素直なさま。 (ほかに: 謙遜して)
+HUMILDES	(形容詞) humildeの複数形: 謙虚な: 控えめで、素直なさま。 (ほかに: 謙遜した, 控えめな)
+HUMILHA	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAM	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAMOS	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHANDO	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAR	(動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHARA	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHARAM	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAREI	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAREM	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHARES	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHARIA	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHARMOS	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHASSE	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAVA	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAVAM	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHAÇAO	(名詞) 屈辱: 屈服させられ辱めを受けること、侮辱されること。 (ほかに: 侮辱)
+HUMILHE	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHEI	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHEM	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHES	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHO	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMILHOU	(humilharの変化形) (動詞) humilharの訳: 侮辱する, 屈辱を与える, 屈服させる
+HUMO	(名詞) humoの訳: 腐植土
+HUMOR	(名詞) 空気: 雰囲気。気分。 (ほかに: 法, 雰囲気)
+HUMORES	(humorの変化形) (名詞) 空気: 雰囲気。気分。 (ほかに: 法, 雰囲気)
+HUMORISTICO	(名詞) humoristicoの訳: ⟪才人|さいじん⟫, 才子, 才覚
+HUMUS	(名詞) humoの異綴。
+HUNGARO	(名詞) ハンガリー人: ハンガリー国籍の人。ハンガリー国民。 (ほかに: ハンガリー語)
+HUSSARDO	(名詞) 驃騎兵: 身軽な装備の騎兵。軽騎兵。驃騎。
+HUSSARDOS	(hussardoの変化形) (名詞) 驃騎兵: 身軽な装備の騎兵。軽騎兵。驃騎。
+HYPOTHESE	(名詞) hipóteseの廃用。

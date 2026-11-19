@@ -1,0 +1,899 @@
+VACANCIES	(名詞) vacancyの複数形: 空席: 座席空いていること。また、その座席。 (ほかに: 空位, 欠員)
+VACANCY	(名詞) 空席: 座席空いていること。また、その座席。 (ほかに: 空位, 欠員)
+VACANT	(形容詞) 空の: （そら）何も見たり教えてもらったりせず、当人の記憶だけに頼る状態。 (ほかに: 空虚な, 中身のない)
+VACATE	(動詞) 空ける: (空ける) (ほかに: 空にする)
+VACATED	(動詞) vacateの過去形・過去分詞: 空ける: (空ける) (ほかに: 空にする)
+VACATES	(動詞) vacateの直説法現在第三人称単数形: 空ける: (空ける) (ほかに: 空にする)
+VACATING	(動詞) vacateの現在分詞: 空ける: (空ける) (ほかに: 空にする)
+VACATION	(名詞) バカンス: 長い休暇。バケーション。 (ほかに: 休暇)\n(動詞) vacationの訳: 休暇を取る
+VACATIONED	(動詞) vacationの過去形・過去分詞: バカンス: 長い休暇。バケーション。 (ほかに: 休暇)
+VACATIONING	(動詞) vacationの動名詞又は現在分詞: バカンス: 長い休暇。バケーション。 (ほかに: 休暇)
+VACATIONS	(名詞) vacationの複数形: バカンス: 長い休暇。バケーション。 (ほかに: 休暇)\n(動詞) vacationの現在第三人称単数形。
+VACCINAL	(形容詞) ワクチンの: 感染症の予防を目的に用いられる毒性を弱めた、または無くした病原体から作られた抗原。
+VACCINATE	(動詞) ワクチン接種をする
+VACCINATED	(動詞) vaccinateの過去形・過去分詞: ワクチン接種をする\n(形容詞) ワクチン接種済みの。
+VACCINATES	(動詞) vaccinateの直説法現在第三人称単数形: ワクチン接種をする
+VACCINATING	(動詞) vaccinateの現在分詞: ワクチン接種をする
+VACCINATION	(名詞) 予防接種: 感染症を予防するために免疫をつける目的でワクチンを投与すること。
+VACCINATIONS	(vaccinationの変化形) (名詞) 予防接種: 感染症を予防するために免疫をつける目的でワクチンを投与すること。
+VACCINE	(名詞) ワクチン: 感染症の予防を目的に用いられる毒性を弱めた、または無くした病原体から作られた抗原。
+VACCINES	(名詞) vaccineの複数形: ワクチン: 感染症の予防を目的に用いられる毒性を弱めた、または無くした病原体から作られた抗原。
+VACILLATE	(動詞) ぐらつく: 考えなどが定まらず動揺する。 (ほかに: 揺れる, 振動する)
+VACILLATED	(動詞) vacillateの過去形・過去分詞: ぐらつく: 考えなどが定まらず動揺する。 (ほかに: 揺れる, 振動する)
+VACILLATES	(動詞) vacillateの直説法現在第三人称単数形: ぐらつく: 考えなどが定まらず動揺する。 (ほかに: 揺れる, 振動する)
+VACILLATING	(vacillateの変化形) (動詞) ぐらつく: 考えなどが定まらず動揺する。 (ほかに: 揺れる, 振動する)
+VACILLATINGLY	(vacillateの変化形) (動詞) ぐらつく: 考えなどが定まらず動揺する。 (ほかに: 揺れる, 振動する)
+VACILLATION	(名詞) vacillationの訳: 動揺, 優柔不断
+VACILLATIONS	(名詞) vacillationの複数形: 動揺, 優柔不断
+VACUA	(名詞) vacuumの複数形: 真空: 気体が全く存在しない状態。
+VACUITIES	(名詞) vacuityの複数形: 空: （から）何もないこと。 (ほかに: 空虚)
+VACUITY	(名詞) 空: （から）何もないこと。 (ほかに: 空虚)
+VACUOLE	(名詞) 液胞: 細胞内にあり、膜に包まれ細胞液で満たされた部分。
+VACUOLES	(名詞) vacuoleの複数形: 液胞: 細胞内にあり、膜に包まれ細胞液で満たされた部分。
+VACUOUS	(形容詞) 空の: （そら）何も見たり教えてもらったりせず、当人の記憶だけに頼る状態。 (ほかに: 空虚な)
+VACUOUSNESS	(名詞) vacuousnessの訳: 空虚さ, 無意味さ
+VACUOUSNESSES	(vacuousnessの変化形) (名詞) vacuousnessの訳: 空虚さ, 無意味さ
+VACUUM	(名詞) 真空: 気体が全く存在しない状態。\n(動詞) 電気掃除機をかける。
+VACUUMED	(動詞) vacuumの過去形・過去分詞: 真空: 気体が全く存在しない状態。\n(形容詞) 電気掃除機をかけた。
+VACUUMING	(動詞) vacuumの動名詞又は現在分詞: 真空: 気体が全く存在しない状態。\n(名詞) vacuumingの訳: 真空化
+VACUUMS	(名詞) vacuumの複数形: 真空: 気体が全く存在しない状態。\n(動詞) vacuumの現在第三人称単数形。
+VAGABOND	(名詞) ながれ: さすらい人。通常は遊女を言う。 (ほかに: たびがらす)
+VAGABONDED	(vagabondの変化形) (名詞) ながれ: さすらい人。通常は遊女を言う。 (ほかに: たびがらす)
+VAGABONDING	(vagabondの変化形) (名詞) ながれ: さすらい人。通常は遊女を言う。 (ほかに: たびがらす)
+VAGABONDS	(vagabondの変化形) (名詞) ながれ: さすらい人。通常は遊女を言う。 (ほかに: たびがらす)
+VAGINA	(名詞) 膣: 動物の雌性生殖器の一つ。子宮から体外に通じる管。
+VAGINAE	(名詞) vaginaの複数形: 膣: 動物の雌性生殖器の一つ。子宮から体外に通じる管。
+VAGINAL	(形容詞) 膣の: 動物の雌性生殖器の一つ。子宮から体外に通じる管。
+VAGINALLY	(vaginalの変化形) (形容詞) 膣の: 動物の雌性生殖器の一つ。子宮から体外に通じる管。
+VAGINAS	(名詞) vaginaの複数形: 膣: 動物の雌性生殖器の一つ。子宮から体外に通じる管。
+VAGINITIS	(名詞) 膣炎: 細菌感染などが原因で生じる膣の炎症。
+VAGINITISES	(名詞) vaginitisの複数形: 膣炎: 細菌感染などが原因で生じる膣の炎症。
+VAGUE	(形容詞) vagueの訳: 漠然とした, 曖昧な\n(名詞) 漠然とした広がり。
+VAGUELY	(副詞) 漠然と。曖昧に。
+VAGUENESS	(名詞) vaguenessの訳: 曖昧さ, 不明瞭さ
+VAGUENESSES	(名詞) vaguenessの複数形: 曖昧さ, 不明瞭さ
+VAGUER	(形容詞) vagueの比較級: 漠然とした, 曖昧な
+VAGUEST	(形容詞) vagueの最上級: 漠然とした, 曖昧な
+VAIN	(形容詞) vainの訳: 虚栄心の
+VAINER	(形容詞) "vain" の比較級: 虚栄心の
+VAINEST	(形容詞) "vain" の最上級: 虚栄心の
+VAINGLORIES	(名詞) vaingloryの複数形: 強い自惚れ。虚飾。\n(動詞) vaingloryの直説法現在第三人称単数形: 強い自惚れ。虚飾。
+VAINGLORIOUS	(形容詞) vaingloriousの訳: 虚栄心の強い
+VAINGLORIOUSLY	(vaingloriousの変化形) (形容詞) vaingloriousの訳: 虚栄心の強い
+VAINGLORY	(名詞) 強い自惚れ。虚飾。\n(動詞) vaingloryの訳: 誇張する
+VAINNESS	(名詞) 無駄: （むだ）役に立たない、効果の無い又は不要に贅沢な様子やもの。
+VAINNESSES	(vainnessの変化形) (名詞) 無駄: （むだ）役に立たない、効果の無い又は不要に贅沢な様子やもの。
+VAIR	(名詞) リスの一種の毛皮を敷き詰めた白と灰色のまだら模様の布地。中世の王侯貴族が衣服の裏地や縁取りに用いた。ベア、ヴェア、ベール。
+VAIRS	(vairの変化形) (名詞) リスの一種の毛皮を敷き詰めた白と灰色のまだら模様の布地。中世の王侯貴族が衣服の裏地や縁取りに用いた。ベア、ヴェア、ベール。
+VALEDICTION	(名詞) valedictionの訳: 別れの言葉, 送別の辞
+VALEDICTIONS	(名詞) "valediction" の複数形: 別れの言葉, 送別の辞
+VALERIAN	(名詞) valerianの訳: セイヨウカノコソウ, 西洋鹿の子草, 西洋鹿子草, ヴァレリアン
+VALERIANS	(valerianの変化形) (名詞) valerianの訳: セイヨウカノコソウ, 西洋鹿の子草, 西洋鹿子草, ヴァレリアン
+VALGUS	(形容詞) valgusの訳: 外反膝の
+VALGUSES	(valgusの変化形) (形容詞) valgusの訳: 外反膝の
+VALIANT	(形容詞) valiantの訳: 勇敢な, 思い切った
+VALIANTS	(valiantの変化形) (形容詞) valiantの訳: 勇敢な, 思い切った
+VALID	(形容詞) まともな: まじめであること。誠実であること。ちゃんとしていること。普通。 (ほかに: しっかりした, ちゃんとした)
+VALIDATE	(動詞) 認可する。法的に有効にする。
+VALIDATED	(validateの変化形) (動詞) 認可する。法的に有効にする。
+VALIDATES	(動詞) validateの直説法現在第三人称単数形: 認可する。法的に有効にする。
+VALIDATING	(動詞) validateの現在分詞: 認可する。法的に有効にする。
+VALIDATION	(名詞) 確認。批准。検証。実証。
+VALIDATIONS	(名詞) validationの複数形: 確認。批准。検証。実証。
+VALIDITIES	(名詞) validityの複数形: 有効性。妥当性。効力。
+VALIDITY	(名詞) 有効性。妥当性。効力。
+VALIDLY	(副詞) 有効に。妥当に。
+VALINE	(名詞) バリン。アミノ酸の一つ。三文字表記 Val、一文字表記 V。
+VALINES	(valineの変化形) (名詞) バリン。アミノ酸の一つ。三文字表記 Val、一文字表記 V。
+VALLEY	(名詞) 谷: （たに）両側を高地とし、それに垂直に低地が長く続く地形。
+VALLEYS	(valleyの変化形) (名詞) 谷: （たに）両側を高地とし、それに垂直に低地が長く続く地形。
+VALOR	(名詞) 価値: ある人にとって、ある物又はサービスに付帯する、重要さの程度を他の物又はサービスの重要さと比較又は関係づけた概念。値打ち。
+VALORS	(valorの変化形) (名詞) 価値: ある人にとって、ある物又はサービスに付帯する、重要さの程度を他の物又はサービスの重要さと比較又は関係づけた概念。値打ち。
+VALUABLE	(形容詞) 価値の有る。有意味な。貴重な。\n(名詞) 貴重品: 大切な物品。重要な物品。
+VALUABLES	(名詞) valuableの複数形: 価値の有る。有意味な。貴重な。
+VALUATION	(名詞) 査定: 物事を調査して金額・量・等を評価・判定すること。 (ほかに: 評価, 見積もり)
+VALUATIONS	(名詞) valuationの複数形: 査定: 物事を調査して金額・量・等を評価・判定すること。 (ほかに: 評価, 見積もり)
+VALUE	(名詞) 値。価値。\n(動詞) 見積もる。評価する。
+VALUED	(形容詞) 高く評価された。\n(動詞) "value" の過去形・過去分詞: 値。価値。
+VALUELESS	(形容詞) 価値の無い。無価値な。
+VALUES	(名詞) valueの複数形: 値。価値。\n(動詞) valueの直説法現在第三人称単数形: 値。価値。
+VALUING	(動詞) "value" の動名詞又は現在分詞: 値。価値。
+VALVE	(名詞) バルブ。弁。\n(動詞) valveの訳: 弁で調整する
+VALVED	(形容詞) バルブのある。弁のある。\n(動詞) valveの過去形・過去分詞: バルブ。弁。
+VALVES	(名詞) valveの複数形: バルブ。弁。\n(動詞) valveの直説法現在第三人称単数形: バルブ。弁。
+VALVING	(動詞) valveの現在分詞: バルブ。弁。
+VAMPIRE	(名詞) 人間の血を食料とするという化け物。吸血鬼。
+VAMPIRES	(名詞) vampireの複数形: 人間の血を食料とするという化け物。吸血鬼。
+VAN	(名詞) ヴァン。車両の種類。
+VANADIUM	(名詞) vanadiumの訳: バナジウム
+VANADIUMS	(vanadiumの変化形) (名詞) vanadiumの訳: バナジウム
+VANDAL	(名詞) あらし: （接尾辞的に）荒らすこと又は人。特に窃盗を伴うもの。
+VANDALISE	(動詞) 意味無く、他人の財産を破壊する。
+VANDALISED	(動詞) （主に英）"vandalise" の過去形又は過去分詞。
+VANDALISES	(動詞) （主に英）"vandalise" の現在第三人称単数形。
+VANDALISING	(動詞) （主に英）"vandalise" の動名詞又は現在分詞。
+VANDALISM	(名詞) 他人や公共の財産を、必要もないのに破壊すること。文化や芸術の破壊。
+VANDALISMS	(vandalismの変化形) (名詞) 他人や公共の財産を、必要もないのに破壊すること。文化や芸術の破壊。
+VANDALIZE	(動詞) 意味無く、他人の財産を破壊する。
+VANDALIZED	(動詞) （主に米）"vandalize" の過去形又は過去分詞。
+VANDALIZES	(動詞) （主に米）"vandalize" の現在第三人称単数形。
+VANDALIZING	(動詞) （主に米）"vandalize" の動名詞又は現在分詞。
+VANDALS	(vandalの変化形) (名詞) あらし: （接尾辞的に）荒らすこと又は人。特に窃盗を伴うもの。
+VANGUARD	(名詞) 前衛: 軍隊の前方で障害の除去、偵察、警戒などを行う部隊。 (ほかに: 先兵, 先陣)
+VANGUARDS	(名詞) vanguardの複数形: 前衛: 軍隊の前方で障害の除去、偵察、警戒などを行う部隊。 (ほかに: 先兵, 先陣)
+VANILLA	(名詞) バニラ: ラン目バニラ属の植物。学名:Vanilla planifolia。
+VANILLAS	(vanillaの変化形) (名詞) バニラ: ラン目バニラ属の植物。学名:Vanilla planifolia。
+VANISH	(動詞) vanishの訳: 消える
+VANISHED	(動詞) vanishの過去形・過去分詞: 消える
+VANISHES	(動詞) vanishの直説法現在第三人称単数形: 消える
+VANISHING	(形容詞) vanishingの訳: 消えゆく, 減少する\n(動詞) vanishの動名詞又は現在分詞: 消える
+VANITIED	(vanityの変化形) (名詞) vanityの訳: ⟪空虚|くうきょ⟫, 無価値, ⟪虚しさ|むなしさ⟫
+VANITIES	(名詞) vanityの複数形: ⟪空虚|くうきょ⟫, 無価値, ⟪虚しさ|むなしさ⟫
+VANITY	(名詞) vanityの訳: ⟪空虚|くうきょ⟫, 無価値, ⟪虚しさ|むなしさ⟫
+VANNED	(vanの変化形) (名詞) ヴァン。車両の種類。
+VANQUISH	(動詞) vanquishの訳: 征服する
+VANQUISHED	(形容詞) vanquishedの訳: 敗れた\n(動詞) vanquishの過去形・過去分詞: 征服する
+VANQUISHER	(名詞) 勝者。征服者。
+VANQUISHERS	(名詞) vanquisherの複数形: 勝者。征服者。
+VANQUISHES	(動詞) vanquishの直説法現在第三人称単数形: 征服する
+VANQUISHING	(動詞) vanquishの現在分詞: 征服する
+VANS	(vanの変化形) (名詞) ヴァン。車両の種類。
+VAPID	(形容詞) 退屈な。つまらない。
+VAPOR	(名詞) (米語) vapour の米国綴り。
+VAPORIZATION	(名詞) 気化。蒸発。
+VAPORIZATIONS	(名詞) vaporizationの複数形: 気化。蒸発。
+VAPORIZE	(動詞) 気化する。気化させる。蒸発する。蒸発させる。
+VAPORIZED	(動詞) vaporizeの過去形・過去分詞: 気化する。気化させる。蒸発する。蒸発させる。
+VAPORIZER	(名詞) 気化器。噴霧器。
+VAPORIZERS	(名詞) vaporizerの複数形: 気化器。噴霧器。
+VAPORIZES	(動詞) vaporizeの直説法現在第三人称単数形: 気化する。気化させる。蒸発する。蒸発させる。
+VAPORIZING	(動詞) vaporizeの現在分詞: 気化する。気化させる。蒸発する。蒸発させる。
+VAPOUR	(名詞) 蒸気: 液体が蒸発又は固体が昇華して気体となった状態のもの。水の蒸気が圧倒的に多いので、水蒸気の事を蒸気と略する場合もある。 (ほかに: 霧, 靄)
+VARIABILITIES	(variabilityの変化形) (名詞) 可変: 他の状態に変わりうること。また、変えうること。
+VARIABILITY	(名詞) 可変: 他の状態に変わりうること。また、変えうること。
+VARIABLE	(名詞) 変数: ある関係や範囲内で様々な値をとり変化する数や量。\n(形容詞) variableの訳: 変えられる
+VARIABLENESS	(名詞) 可変: 他の状態に変わりうること。また、変えうること。
+VARIABLENESSES	(variablenessの変化形) (名詞) 可変: 他の状態に変わりうること。また、変えうること。
+VARIABLES	(名詞) "variable" の複数形: 変数: ある関係や範囲内で様々な値をとり変化する数や量。
+VARIANCE	(名詞) varianceの訳: ⟪分散|ぶんさん⟫
+VARIANCES	(varianceの変化形) (名詞) varianceの訳: ⟪分散|ぶんさん⟫
+VARIANT	(形容詞) 異形の。ことなる。\n(名詞) variantの訳: 異形
+VARIANTS	(名詞) variantの複数形: 異形の。ことなる。
+VARIATION	(名詞) 変動: 状態が、動き、変わること。 (ほかに: 変化)
+VARIATIONS	(variationの変化形) (名詞) 変動: 状態が、動き、変わること。 (ほかに: 変化)
+VARICELLA	(名詞) 水痘: ウイルスによる急性の感染症。主に小児が感染する。赤い発疹ができ、その中に液体がたまる。水疱瘡とも言う。
+VARICELLAS	(varicellaの変化形) (名詞) 水痘: ウイルスによる急性の感染症。主に小児が感染する。赤い発疹ができ、その中に液体がたまる。水疱瘡とも言う。
+VARICOLORED	(形容詞) varicoloredの訳: 色とりどりの
+VARIED	(動詞) varyの過去形・過去分詞: 変わる。変化する。\n(形容詞) variedの訳: 変化に富んだ
+VARIEDLY	(varyの変化形) (動詞) 変わる。変化する。
+VARIEGATE	(動詞) ～に変化をつける。\n(形容詞) まだらの: 違った色が所々に混じっていたり、色に濃淡があること。そのもの。その色。ぶち。
+VARIEGATED	(動詞) variegateの過去形・過去分詞: ～に変化をつける。\n(形容詞) 多色の: 色が多いこと。たくさんの色。さまざまな色。色の種類の数多い事。多くの色。 (ほかに: 多彩な, まだらの)
+VARIEGATES	(動詞) "variegate" の現在第三人称単数形。
+VARIEGATING	(動詞) variegateの動名詞又は現在分詞: ～に変化をつける。
+VARIER	(名詞) varierの訳: 変化する人
+VARIERS	(名詞) varierの複数形: 変化する人
+VARIES	(動詞) "vary" の現在第三人称単数形。
+VARIETIES	(varietyの変化形) (名詞) 変化に富むこと。多様性。バラエティ。相違。
+VARIETY	(名詞) 変化に富むこと。多様性。バラエティ。相違。
+VARIOLA	(名詞) 天然痘: 19世紀まで、全世界で猛威を振るったウイルス性の感染症。発症すると全身に発疹して高率で死亡し、治っても痘痕が残った。1977年のソマリア人の患者を最後に自然界から消滅した。痘瘡。
+VARIOLAS	(variolaの変化形) (名詞) 天然痘: 19世紀まで、全世界で猛威を振るったウイルス性の感染症。発症すると全身に発疹して高率で死亡し、治っても痘痕が残った。1977年のソマリア人の患者を最後に自然界から消滅した。痘瘡。
+VARIOUS	(形容詞) 変化に富む。いろいろな。多様な。
+VARIOUSLY	(副詞) 様様に: 色色、さまざま。
+VARNA	(名詞) 《ヒンズー教》 ヴァルナ。
+VARNAS	(varnaの変化形) (名詞) 《ヒンズー教》 ヴァルナ。
+VARNISH	(名詞) ニス: （わにす）樹脂を溶媒に溶かした、材料の表面の保護に用いる塗料。 (ほかに: ワニス)\n(動詞) varnishの訳: ニスを塗る
+VARNISHED	(動詞) varnishの過去形・過去分詞: ニス: （わにす）樹脂を溶媒に溶かした、材料の表面の保護に用いる塗料。 (ほかに: ワニス)\n(形容詞) ニスで塗られた。
+VARNISHES	(名詞) varnishの複数形: ニス: （わにす）樹脂を溶媒に溶かした、材料の表面の保護に用いる塗料。 (ほかに: ワニス)\n(動詞) varnishの直説法現在第三人称単数形: ニス: （わにす）樹脂を溶媒に溶かした、材料の表面の保護に用いる塗料。 (ほかに: ワニス)
+VARNISHING	(動詞) varnishの現在分詞: ニス: （わにす）樹脂を溶媒に溶かした、材料の表面の保護に用いる塗料。 (ほかに: ワニス)\n(名詞) ニスを塗ること。
+VARY	(動詞) 変わる。変化する。
+VARYING	(動詞) "vary" の動名詞又は現在分詞: 変わる。変化する。
+VARYINGLY	(varyの変化形) (動詞) 変わる。変化する。
+VASCULAR	(形容詞) 導管の。維管束の。
+VASE	(名詞) 花瓶: 花を生かす（活かす）ための、壺形や筒形の瓶や壺。銅製、陶磁製、ガラス製、金属製など様々な種類がある。
+VASES	(vaseの変化形) (名詞) 花瓶: 花を生かす（活かす）ための、壺形や筒形の瓶や壺。銅製、陶磁製、ガラス製、金属製など様々な種類がある。
+VASSAL	(名詞) vassalの訳: 従属者\n(形容詞) 臣下の: 君主に服従し、仕える者。 (ほかに: 封臣の, 家臣の)
+VASSALS	(名詞) vassalの複数形: 従属者\n(動詞) vassalの直説法現在第三人称単数形: 従属者
+VAST	(形容詞) 広大な: 広くて大きいこと。 (ほかに: 非常に広い)\n(名詞) vastの訳: 広大な土地
+VASTER	(形容詞) "vast" の比較級: 広大な: 広くて大きいこと。 (ほかに: 非常に広い)
+VASTEST	(形容詞) "vast" の最上級: 広大な: 広くて大きいこと。 (ほかに: 非常に広い)
+VASTLY	(副詞) 広大に: 広くて大きいこと。 (ほかに: 膨大に, 莫大に)
+VASTNESS	(名詞) vastnessの訳: 広大さ, 膨大さ
+VASTNESSES	(名詞) "vastness" の複数形: 広大さ, 膨大さ
+VASTS	(名詞) "vast" の複数形: 広大な: 広くて大きいこと。 (ほかに: 非常に広い)
+VAT	(名詞) vatの訳: 大桶, 染料タンク\n(動詞) vatの訳: 大桶に入れる
+VATICINAL	(形容詞) vaticinalの訳: 予言的な
+VATICINATE	(動詞) 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+VATICINATED	(動詞) vaticinateの過去形・過去分詞: 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+VATICINATES	(動詞) vaticinateの直説法現在第三人称単数形: 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+VATICINATING	(動詞) vaticinateの現在分詞: 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+VATICINATION	(名詞) 予言: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+VATICINATIONS	(名詞) vaticinationの複数形: 予言: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+VATICINATOR	(名詞) 予言者: 予言をする者、また、その能力がある者。
+VATICINATORS	(名詞) vaticinatorの複数形: 予言者: 予言をする者、また、その能力がある者。
+VATS	(名詞) "vat" の複数形: 大桶, 染料タンク\n(動詞) "vat" の現在第三人称単数形。
+VATTED	(動詞) "vat" の過去形・過去分詞: 大桶, 染料タンク
+VATTING	(動詞) "vat" の動名詞又は現在分詞: 大桶, 染料タンク
+VAULT	(動詞) 跳ぶ: （とぶ）離れたところに不連続に移動する。急に移動する。\n(名詞) アーチ状の屋根。丸天井。
+VAULTED	(形容詞) vaultedの訳: アーチ形の\n(動詞) vaultの過去形・過去分詞: 跳ぶ。
+VAULTING	(動詞) "vault" の動名詞又は現在分詞: 跳ぶ: （とぶ）離れたところに不連続に移動する。急に移動する。
+VAULTINGLY	(vaultの変化形) (動詞) 跳ぶ: （とぶ）離れたところに不連続に移動する。急に移動する。
+VAULTINGS	(vaultの変化形) (動詞) 跳ぶ: （とぶ）離れたところに不連続に移動する。急に移動する。
+VAULTS	(名詞) "vault" の複数形: 跳ぶ: （とぶ）離れたところに不連続に移動する。急に移動する。\n(動詞) "vault" の現在第三人称単数形。
+VEAL	(名詞) 子牛肉: 「仔牛肉」を参照。 (ほかに: ヴィール, ヴォー)
+VEALED	(vealの変化形) (名詞) 子牛肉: 「仔牛肉」を参照。 (ほかに: ヴィール, ヴォー)
+VEALER	(vealの変化形) (名詞) 子牛肉: 「仔牛肉」を参照。 (ほかに: ヴィール, ヴォー)
+VEALING	(vealの変化形) (名詞) 子牛肉: 「仔牛肉」を参照。 (ほかに: ヴィール, ヴォー)
+VEALS	(vealの変化形) (名詞) 子牛肉: 「仔牛肉」を参照。 (ほかに: ヴィール, ヴォー)
+VECTOR	(名詞) vectorの訳: ベクトル, ベクター
+VECTORED	(vectorの変化形) (名詞) vectorの訳: ベクトル, ベクター
+VECTORING	(vectorの変化形) (名詞) vectorの訳: ベクトル, ベクター
+VECTORS	(vectorの変化形) (名詞) vectorの訳: ベクトル, ベクター
+VEER	(名詞) 転換: 物事の傾向や方針を別の方向に変えること。また、変わること。\n(動詞) veerの訳: 進路が変わる
+VEERED	(動詞) veerの過去形・過去分詞: 転換: 物事の傾向や方針を別の方向に変えること。また、変わること。
+VEERING	(動詞) veerの現在分詞: 転換: 物事の傾向や方針を別の方向に変えること。また、変わること。\n(名詞) veeringの訳: 方向転換
+VEERINGLY	(veerの変化形) (名詞) 転換: 物事の傾向や方針を別の方向に変えること。また、変わること。
+VEERS	(名詞) veerの複数形: 転換: 物事の傾向や方針を別の方向に変えること。また、変わること。\n(動詞) veerの直説法現在第三人称単数形: 転換: 物事の傾向や方針を別の方向に変えること。また、変わること。
+VEGETABLE	(名詞) vegetableの訳: 植物一般\n(形容詞) 植物の: 一般的に草や木など根があり、固定して生活している生物。 (ほかに: 植物に関する)
+VEGETABLES	(名詞) vegetableの複数形: 植物一般
+VEGETARIAN	(名詞) 菜食主義者。ベジタリアン。\n(形容詞) 菜食主義の。草食の。
+VEGETARIANISM	(名詞) 菜食主義: 肉を避けて植物性の食品を中心とする食事が良いとする考え方。
+VEGETARIANISMS	(vegetarianismの変化形) (名詞) 菜食主義: 肉を避けて植物性の食品を中心とする食事が良いとする考え方。
+VEGETARIANS	(名詞) "vegetarian" の複数形: 菜食主義者。ベジタリアン。
+VEGETATION	(名詞) 植物: 一般的に草や木など根があり、固定して生活している生物。 (ほかに: くさき)
+VEGETATIONS	(vegetationの変化形) (名詞) 植物: 一般的に草や木など根があり、固定して生活している生物。 (ほかに: くさき)
+VEHEMENCE	(名詞) vehemenceの訳: 猛烈さ, 苛烈さ
+VEHEMENCES	(名詞) vehemenceの複数形: 猛烈さ, 苛烈さ
+VEHEMENT	(形容詞) vehementの訳: 熱狂的な
+VEHEMENTLY	(副詞) vehementlyの訳: 熱狂的に
+VEHICLE	(名詞) 乗り物: （のりもの）人や物を乗せて運ぶ道具や機器の総称。ビークル。 (ほかに: 車両)
+VEHICLES	(vehicleの変化形) (名詞) 乗り物: （のりもの）人や物を乗せて運ぶ道具や機器の総称。ビークル。 (ほかに: 車両)
+VEIL	(名詞) ベール: 女性が頭部を隠す布。\n(動詞) veilの訳: ベールで覆う
+VEILED	(形容詞) ベールで被われた。隠された。\n(動詞) veilの過去形・過去分詞: ベール: 女性が頭部を隠す布。
+VEILEDLY	(veilの変化形) (名詞) ベール: 女性が頭部を隠す布。
+VEILER	(veilの変化形) (名詞) ベール: 女性が頭部を隠す布。
+VEILING	(動詞) veilの現在分詞: ベール: 女性が頭部を隠す布。\n(名詞) ベールで覆うこと。
+VEILINGS	(名詞) veilingの複数形: veilの現在分詞: ベール: 女性が頭部を隠す布。
+VEILS	(名詞) veilの複数形: ベール: 女性が頭部を隠す布。\n(動詞) veilの直説法現在第三人称単数形: ベール: 女性が頭部を隠す布。
+VEIN	(名詞) 静脈: 血管のうち、血液を心臓に戻すために使われるもの。
+VEINED	(veinの変化形) (名詞) 静脈: 血管のうち、血液を心臓に戻すために使われるもの。
+VEINER	(veinの変化形) (名詞) 静脈: 血管のうち、血液を心臓に戻すために使われるもの。
+VEINING	(veinの変化形) (名詞) 静脈: 血管のうち、血液を心臓に戻すために使われるもの。
+VEINS	(名詞) "vein" の複数形: 静脈: 血管のうち、血液を心臓に戻すために使われるもの。
+VELOCITIES	(名詞) velocityの複数形: 速度: 速さとその方向を合わせたベクトル。 (ほかに: 速さ)
+VELOCITY	(名詞) 速度: 速さとその方向を合わせたベクトル。 (ほかに: 速さ)
+VELVET	(名詞) velvetの訳: ベルベット, ビロード\n(形容詞) velvetの訳: ベルベットの, ビロードの
+VELVETED	(velvetの変化形) (名詞) velvetの訳: ベルベット, ビロード
+VELVETS	(velvetの変化形) (名詞) velvetの訳: ベルベット, ビロード
+VELVETY	(形容詞) ベルベットのような、滑らかな、肌触りの良い、口当たりの良い
+VENATION	(名詞) 葉脈: 葉に分布し、水分や養分が通る細い筋。
+VENATIONS	(venationの変化形) (名詞) 葉脈: 葉に分布し、水分や養分が通る細い筋。
+VEND	(動詞) 売却する: 物品や不動産、事業などを売り払うこと。 (ほかに: 販売する)
+VENDED	(動詞) "vend" の過去形・過去分詞: 売却する: 物品や不動産、事業などを売り払うこと。 (ほかに: 販売する)
+VENDER	(名詞) vendorの旧綴り。
+VENDERS	(venderの変化形) (名詞) vendorの旧綴り。
+VENDING	(動詞) "vend" の動名詞又は現在分詞: 売却する: 物品や不動産、事業などを売り払うこと。 (ほかに: 販売する)
+VENDOR	(名詞) 売る人。行商人。
+VENDORS	(vendorの変化形) (名詞) 売る人。行商人。
+VENDS	(動詞) "vend" の現在第三人称単数形。
+VENDUE	(名詞) 競売: 複数の買い手を競わせ、ある時点までに最も売り手に有利な金額を提示した者が、買う権利を得る方法。 (ほかに: 公売)
+VENDUES	(名詞) vendueの複数形: 競売: 複数の買い手を競わせ、ある時点までに最も売り手に有利な金額を提示した者が、買う権利を得る方法。 (ほかに: 公売)
+VENEER	(名詞) veneerの訳: ⟪化粧板|けわいいた⟫\n(動詞) 化粧張りを施す。
+VENEERED	(動詞) veneerの過去形・過去分詞: ⟪化粧板|けわいいた⟫
+VENEERER	(veneerの変化形) (名詞) veneerの訳: ⟪化粧板|けわいいた⟫
+VENEERING	(動詞) veneerの現在分詞: ⟪化粧板|けわいいた⟫\n(名詞) veneeringの訳: 化粧張り
+VENEERINGS	(名詞) veneeringの複数形: veneerの現在分詞: ⟪化粧板|けわいいた⟫
+VENEERS	(名詞) veneerの複数形: ⟪化粧板|けわいいた⟫\n(動詞) veneerの直説法現在第三人称単数形: ⟪化粧板|けわいいた⟫
+VENERABLE	(形容詞) 崇敬されるべき、敬うべき\n(名詞) 崇敬されるべき人物、敬うべき人物。
+VENERATE	(動詞) 尊敬する: その人の品格や行為などを崇いとして認め、重く扱う。 (ほかに: 敬う, 崇敬する)
+VENERATED	(動詞) "venerate" の過去形・過去分詞: 尊敬する: その人の品格や行為などを崇いとして認め、重く扱う。 (ほかに: 敬う, 崇敬する)
+VENERATES	(動詞) "venerate" の現在第三人称単数形。
+VENERATING	(動詞) "venerate" の動名詞又は現在分詞: 尊敬する: その人の品格や行為などを崇いとして認め、重く扱う。 (ほかに: 敬う, 崇敬する)
+VENERATION	(名詞) 尊敬: その人の品格や行為などを崇いとして認め、重く扱うこと。敬うこと。すぐれた人に敬意や尊崇の念を感じること。またそのような感情。 (ほかに: 崇敬)
+VENERATIONS	(名詞) venerationの複数形: 尊敬: その人の品格や行為などを崇いとして認め、重く扱うこと。敬うこと。すぐれた人に敬意や尊崇の念を感じること。またそのような感情。 (ほかに: 崇敬)
+VENEREAL	(形容詞) 性交により感染する。
+VENGEANCE	(名詞) 仕返し: （しかえし）何かをされたことに対してやり返すこと。報復、復讐すること。 (ほかに: 復讐, 報復)
+VENGEANCES	(名詞) vengeanceの複数形: 仕返し: （しかえし）何かをされたことに対してやり返すこと。報復、復讐すること。 (ほかに: 復讐, 報復)
+VENGEFUL	(形容詞) 復讐心に燃えた。
+VENGEFULLY	(副詞) 復讐心に燃えて。
+VENGEFULNESS	(名詞) vengefulnessの訳: 復讐心
+VENGEFULNESSES	(vengefulnessの変化形) (名詞) vengefulnessの訳: 復讐心
+VENISON	(名詞) 鹿肉: 鹿の肉。
+VENISONS	(名詞) "venison" の複数形: 鹿肉: 鹿の肉。
+VENOM	(名詞) 毒液: 毒が含まれる液体。\n(動詞) venomの訳: 毒を入れる
+VENOMED	(動詞) "venom" の過去形・過去分詞: 毒液: 毒が含まれる液体。
+VENOMER	(venomの変化形) (名詞) 毒液: 毒が含まれる液体。
+VENOMING	(動詞) venomの動名詞又は現在分詞: 毒液: 毒が含まれる液体。
+VENOMOUS	(形容詞) 有毒な: 何かしらの毒性があること。 (ほかに: 毒腺を持つ)
+VENOMOUSLY	(副詞) venomouslyの訳: 悪意に満ちて
+VENOMS	(名詞) venomの複数形: 毒液: 毒が含まれる液体。\n(動詞) venomの現在第三人称単数形。
+VENT	(名詞) 排気口: 排気するために、装置につけられている穴。 (ほかに: はけ口, 通気口)\n(動詞) ventの訳: 穴をあける, を放出する, 発散する
+VENTED	(動詞) "vent" の過去形・過去分詞: 排気口: 排気するために、装置につけられている穴。 (ほかに: はけ口, 通気口)
+VENTILATE	(動詞) 換気する: 外気を取り入れたりして空気を入れ換えること。
+VENTILATED	(動詞) ventilateの過去形・過去分詞: 換気する: 外気を取り入れたりして空気を入れ換えること。
+VENTILATES	(動詞) ventilateの直説法現在第三人称単数形: 換気する: 外気を取り入れたりして空気を入れ換えること。
+VENTILATING	(動詞) ventilateの現在分詞: 換気する: 外気を取り入れたりして空気を入れ換えること。
+VENTILATION	(名詞) 通気: 外部の空気と内部の空気を流通させること。 (ほかに: 換気)
+VENTILATIONS	(名詞) ventilationの複数形: 通気: 外部の空気と内部の空気を流通させること。 (ほかに: 換気)
+VENTILATOR	(名詞) ventilatorの訳: 呼吸器
+VENTILATORS	(ventilatorの変化形) (名詞) ventilatorの訳: 呼吸器
+VENTING	(動詞) "vent" の動名詞又は現在分詞: 排気口: 排気するために、装置につけられている穴。 (ほかに: はけ口, 通気口)
+VENTRICLE	(名詞) ventricleの訳: 心室
+VENTRICLES	(名詞) ventricleの複数形: 心室
+VENTRILOQUIAL	(形容詞) ventriloquialの訳: 腹話術の
+VENTRILOQUIALLY	(副詞) 腹話術で、腹話術を使って。
+VENTRILOQUIES	(名詞) "ventriloquy" の複数形: 腹話術: 唇など発声器官を働かせることなく音声を発して、聴者に音声が話者以外から発せたれたように錯覚させる技術及びその技術を用いた芸能。
+VENTRILOQUISM	(名詞) 腹話術: 唇など発声器官を働かせることなく音声を発して、聴者に音声が話者以外から発せたれたように錯覚させる技術及びその技術を用いた芸能。
+VENTRILOQUISMS	(名詞) "ventriloquism" の複数形: 腹話術: 唇など発声器官を働かせることなく音声を発して、聴者に音声が話者以外から発せたれたように錯覚させる技術及びその技術を用いた芸能。
+VENTRILOQUIST	(名詞) ventriloquistの訳: 腹話術師
+VENTRILOQUISTS	(名詞) "ventriloquist" の複数形: 腹話術師
+VENTRILOQUY	(名詞) 腹話術: 唇など発声器官を働かせることなく音声を発して、聴者に音声が話者以外から発せたれたように錯覚させる技術及びその技術を用いた芸能。
+VENTS	(名詞) "vent" の複数形: 排気口: 排気するために、装置につけられている穴。 (ほかに: はけ口, 通気口)\n(動詞) "vent" の現在第三人称単数形。
+VENTURE	(名詞) ventureの訳: 冒険的企て, 冒険的な事業, 投機\n(動詞) ventureの訳: 危険を冒す
+VENTURED	(動詞) ventureの過去形・過去分詞: 冒険的企て, 冒険的な事業, 投機
+VENTURES	(名詞) ventureの複数形: 冒険的企て, 冒険的な事業, 投機\n(動詞) ventureの直説法現在第三人称単数形: 冒険的企て, 冒険的な事業, 投機
+VENTURESOME	(形容詞) venturesomeの訳: 冒険好きな, 大胆な
+VENTURESOMELY	(副詞) venturesomelyの訳: 冒険的に, 大胆に
+VENTURING	(動詞) ventureの現在分詞: 冒険的企て, 冒険的な事業, 投機\n(名詞) 危険を冒すこと。
+VENTUROUS	(形容詞) venturousの訳: 冒険的な, 冒険好きな, 大胆な
+VENTUROUSLY	(venturousの変化形) (形容詞) venturousの訳: 冒険的な, 冒険好きな, 大胆な
+VENUE	(名詞) venueの訳: 開催地
+VENUES	(名詞) "venue" の複数形: 開催地
+VERACIOUS	(形容詞) 正直な: 本当のところ。率直に言って。 (ほかに: 誠実な)
+VERACITIES	(名詞) veracityの複数形: 正直さ
+VERACITY	(名詞) veracityの訳: 正直さ
+VERANDA	(名詞) verandaの訳: ベランダ
+VERANDAED	(verandaの変化形) (名詞) verandaの訳: ベランダ
+VERANDAH	(名詞) veranda（ベランダ）の異形。
+VERANDAHS	(名詞) "verandah" の複数形: veranda（ベランダ）の異形。
+VERANDAS	(名詞) "veranda" の複数形: ベランダ
+VERB	(名詞) verbの訳: 動詞
+VERBAL	(形容詞) verbalの訳: 言葉の, 言語による\n(名詞) verbalの訳: 準動詞
+VERBALISM	(名詞) verbalismの訳: ⟪言辞|げんじ⟫
+VERBALISMS	(verbalismの変化形) (名詞) verbalismの訳: ⟪言辞|げんじ⟫
+VERBALIZE	(動詞) 言語化: （それまで言葉による表現・説明がされて来なかったもの、あるいはできなかったものを）言葉で表現する。
+VERBALIZED	(verbalizeの変化形) (動詞) 言語化: （それまで言葉による表現・説明がされて来なかったもの、あるいはできなかったものを）言葉で表現する。
+VERBALIZES	(verbalizeの変化形) (動詞) 言語化: （それまで言葉による表現・説明がされて来なかったもの、あるいはできなかったものを）言葉で表現する。
+VERBALIZING	(verbalizeの変化形) (動詞) 言語化: （それまで言葉による表現・説明がされて来なかったもの、あるいはできなかったものを）言葉で表現する。
+VERBALLY	(副詞) 言葉で。口頭で。
+VERBALS	(verbalの変化形) (形容詞) verbalの訳: 言葉の, 言語による
+VERBIAGE	(名詞) 言辞: 言葉遣い。物言い。
+VERBIAGES	(verbiageの変化形) (名詞) 言辞: 言葉遣い。物言い。
+VERBOSE	(形容詞) 言葉数が多い。冗長な。
+VERBOSELY	(副詞) 冗長に。くどくどと。
+VERBOSENESS	(名詞) verbosenessの訳: 冗長性
+VERBOSENESSES	(verbosenessの変化形) (名詞) verbosenessの訳: 冗長性
+VERBOSITIES	(名詞) verbosityの複数形: 言葉数が多いこと。冗長。
+VERBOSITY	(名詞) 言葉数が多いこと。冗長。
+VERBS	(verbの変化形) (名詞) verbの訳: 動詞
+VERDICT	(名詞) 評決: 裁判において、判決を合議により決めること。特に陪審によるものを意味する。 (ほかに: 答申)
+VERDICTS	(名詞) verdictの複数形: 評決: 裁判において、判決を合議により決めること。特に陪審によるものを意味する。 (ほかに: 答申)
+VERDIGRIS	(名詞) verdigrisの訳: ⟪緑青|ろくしょう⟫\n(動詞) verdigrisの訳: 緑青で覆う
+VERDIGRISES	(名詞) verdigrisの複数形: ⟪緑青|ろくしょう⟫\n(動詞) verdigrisの直説法現在第三人称単数形: ⟪緑青|ろくしょう⟫
+VERGE	(名詞) 路肩: 道路の端に位置する地帯。 (ほかに: みちかた)
+VERGED	(vergeの変化形) (名詞) 路肩: 道路の端に位置する地帯。 (ほかに: みちかた)
+VERGES	(vergeの変化形) (名詞) 路肩: 道路の端に位置する地帯。 (ほかに: みちかた)
+VERGING	(vergeの変化形) (名詞) 路肩: 道路の端に位置する地帯。 (ほかに: みちかた)
+VERIER	(veryの変化形) (副詞) veryの訳: ⟪とても⟫, ⟪大変|たいへん⟫
+VERIEST	(veryの変化形) (副詞) veryの訳: ⟪とても⟫, ⟪大変|たいへん⟫
+VERIFIABLE	(形容詞) verifiableの訳: 証明できる, 確認できる
+VERIFICATION	(名詞) 証明。検証。確認。
+VERIFICATIONS	(名詞) verificationの複数形: 証明。検証。確認。
+VERIFIED	(動詞) "verify" の過去形・過去分詞: ～が真実であることを証明する。\n(形容詞) （肯定的に）検証済みの、確認済みの。.
+VERIFIES	(動詞) verifyの直説法現在第三人称単数形: ～が真実であることを証明する。
+VERIFY	(動詞) ～が真実であることを証明する。
+VERIFYING	(動詞) verifyの現在分詞: ～が真実であることを証明する。
+VERITABLE	(形容詞) veritableの訳: 本当の, 真実の
+VERITAS	(名詞) 真理: 正しいと認められた事実や法則。
+VERITIES	(名詞) verityの複数形: 真理: 正しいと認められた事実や法則。 (ほかに: 真実)
+VERITY	(名詞) 真理: 正しいと認められた事実や法則。 (ほかに: 真実)
+VERMES	(名詞) vermisの複数形: 小脳虫部
+VERMILION	(名詞) vermilionの訳: バーミリオン, 朱色\n(形容詞) vermilionの訳: 朱色の
+VERMILIONS	(名詞) vermilionの複数形: バーミリオン, 朱色\n(動詞) vermilionの直説法現在第三人称単数形: バーミリオン, 朱色
+VERMILLION	(名詞) vermilionの異綴。\n(形容詞) vermilionの異綴。
+VERMIN	(名詞) 害虫。害獣。
+VERMINOUS	(形容詞) verminousの訳: 害虫の集った
+VERMIS	(名詞) vermisの訳: 小脳虫部
+VERNACULAR	(名詞) 地方語。方言。\n(形容詞) （言語が）その土地固有の。
+VERNACULARS	(名詞) vernacularの複数形: 地方語。方言。
+VERNAL	(形容詞) 春の: （はる 立春をもって新年とした習慣から）新年。正月。 (ほかに: 春に現れる)
+VERNALLY	(vernalの変化形) (形容詞) 春の: （はる 立春をもって新年とした習慣から）新年。正月。 (ほかに: 春に現れる)
+VERSATILE	(形容詞) 多才な: 多くの方面の才能を有していること。 (ほかに: 多芸の)
+VERSATILELY	(versatileの変化形) (形容詞) 多才な: 多くの方面の才能を有していること。 (ほかに: 多芸の)
+VERSE	(名詞) verseの訳: ⟪韻文|いんぶん⟫\n(動詞) 詩情をこめ話す。
+VERSED	(動詞) "verse" の過去形・過去分詞: ⟪韻文|いんぶん⟫\n(形容詞) versedの訳: 習熟した
+VERSES	(名詞) "verse" の複数形: ⟪韻文|いんぶん⟫\n(動詞) "verse" の現在第三人称単数形。
+VERSIFICATION	(名詞) 作詩。作詩法。
+VERSIFICATIONS	(名詞) versificationの複数形: 作詩。作詩法。
+VERSIFIED	(動詞) versifyの過去形・過去分詞: 作詩する
+VERSIFIER	(名詞) versifierの訳: 韻文詩人
+VERSIFIERS	(versifierの変化形) (名詞) versifierの訳: 韻文詩人
+VERSIFIES	(動詞) versifyの直説法現在第三人称単数形: 作詩する
+VERSIFY	(動詞) versifyの訳: 作詩する
+VERSIFYING	(versifyの変化形) (動詞) versifyの訳: 作詩する
+VERSING	(動詞) "verse" の動名詞又は現在分詞: ⟪韻文|いんぶん⟫
+VERSION	(名詞) 版。変化形。バージョン。
+VERSIONS	(versionの変化形) (名詞) 版。変化形。バージョン。
+VERSO	(名詞) 書物の左ページ、裏面。
+VERSOS	(versoの変化形) (名詞) 書物の左ページ、裏面。
+VERST	(名詞) 露里: ロシアの長さの単位。ベルスタ。約1067メートル。
+VERSTES	(verstの変化形) (名詞) 露里: ロシアの長さの単位。ベルスタ。約1067メートル。
+VERSTS	(verstの変化形) (名詞) 露里: ロシアの長さの単位。ベルスタ。約1067メートル。
+VERSUS	(前置詞) versusの訳: …対
+VERT	(名詞) 緑: （みどり）植物の若葉などにみられる色。絵の具では青と黄をまぜて得られる。光の三原色の一つ、 (ほかに: 緑色)\n(形容詞) vertの訳: 緑の, 緑色の
+VERTEBRA	(名詞) 椎骨: 脊柱を形成する個個の骨。 (ほかに: 脊椎骨)
+VERTEBRAE	(名詞) vertebraの複数形: 椎骨: 脊柱を形成する個個の骨。 (ほかに: 脊椎骨)
+VERTEBRAL	(形容詞) 脊椎骨の、脊椎骨からなる。\n(名詞) vertebralの訳: 脊椎の部分
+VERTEBRAS	(名詞) vertebraの複数形: 椎骨: 脊柱を形成する個個の骨。 (ほかに: 脊椎骨)
+VERTEBRATE	(形容詞) vertebrateの訳: 脊椎のある, 脊柱のある\n(名詞) 脊椎動物: 動物の分類の一つで、脊椎を有することで特徴付けられ、脊索動物門中の亜門を構成する。
+VERTEBRATES	(名詞) vertebrateの複数形: 脊椎のある, 脊柱のある
+VERTEX	(名詞) 頂点: 多角形の二本の辺の交点。 (ほかに: 頂, 頂上)
+VERTEXES	(名詞) vertexの複数形: 頂点: 多角形の二本の辺の交点。 (ほかに: 頂, 頂上)
+VERTICAL	(名詞) verticalの訳: ⟪頂点|ちょうてん⟫\n(形容詞) verticalの訳: 垂直の, 直立の, 縦方向の
+VERTICALLY	(副詞) verticallyの訳: 垂直に, 直立して, 縦方向に
+VERTICALS	(名詞) "vertical" の複数形: ⟪頂点|ちょうてん⟫
+VERTICES	(名詞) vertexの複数形: 頂、頂上、頂点。
+VERTIGINES	(vertigoの変化形) (名詞) vertigoの訳: ⟪目眩|めまい⟫
+VERTIGO	(名詞) vertigoの訳: ⟪目眩|めまい⟫
+VERTIGOES	(名詞) vertigoの複数形: ⟪目眩|めまい⟫
+VERTIGOS	(名詞) vertigoの複数形: ⟪目眩|めまい⟫
+VERTS	(vertの変化形) (名詞) 緑: （みどり）植物の若葉などにみられる色。絵の具では青と黄をまぜて得られる。光の三原色の一つ、 (ほかに: 緑色)
+VERY	(副詞) veryの訳: ⟪とても⟫, ⟪大変|たいへん⟫\n(形容詞) veryの訳: 真実の, 実の, 現実の, 本当の
+VESICLE	(名詞) vesicleの訳: 水疱
+VESICLES	(vesicleの変化形) (名詞) vesicleの訳: 水疱
+VESPER	(名詞) vesperの訳: 晩禱
+VESPERS	(名詞) vespersの訳: 晩課
+VESPERTINE	(形容詞) vespertineの訳: 夕方の, 夕方に起こる
+VESPID	(形容詞) スズメバチ科の\n(名詞) vespidの訳: スズメバチ科
+VESPIDS	(vespidの変化形) (形容詞) スズメバチ科の
+VESSEL	(名詞) 船。特に大型の船舶を指すことが多い。海商関係で主に使用される。ship,boatに比べ改まった表現。
+VESSELED	(vesselの変化形) (名詞) 船。特に大型の船舶を指すことが多い。海商関係で主に使用される。ship,boatに比べ改まった表現。
+VESSELS	(名詞) vesselの複数形: 船。特に大型の船舶を指すことが多い。海商関係で主に使用される。ship,boatに比べ改まった表現。
+VESTED	(名詞) vestedの訳: 既得
+VESTIBULE	(名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 前庭)
+VESTIBULED	(vestibuleの変化形) (名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 前庭)
+VESTIBULES	(vestibuleの変化形) (名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 前庭)
+VESTIGE	(名詞) vestigeの訳: 残痕, ⟪おもかげ⟫
+VESTIGES	(vestigeの変化形) (名詞) vestigeの訳: 残痕, ⟪おもかげ⟫
+VESTMENT	(名詞) 式服: 儀式の際に着用するための衣服。礼服。
+VESTMENTS	(名詞) vestmentの複数形: 式服: 儀式の際に着用するための衣服。礼服。
+VESUVIANITE	(名詞) vesuvianiteの訳: ベスブ石
+VESUVIANITES	(名詞) vesuvianiteの複数形: ベスブ石
+VET	(名詞) 獣医: 獣医師の略。\n(動詞) 動物を診察する。
+VETERAN	(名詞) veteranの訳: 経験豊富な人, ベテラン\n(形容詞) veteranの訳: 経験豊富な
+VETERANS	(名詞) "veteran" の複数形: 経験豊富な人, ベテラン
+VETERINARIAN	(名詞) 獣医: 獣医師の略。
+VETERINARIANS	(名詞) "veterinarian" の複数形: 獣医: 獣医師の略。
+VETERINARIES	(名詞) "veterinary" の複数形: 獣医の, 獣医学の
+VETERINARY	(形容詞) veterinaryの訳: 獣医の, 獣医学の\n(名詞) 獣医: 獣医師の略。
+VETIVER	(名詞) vetiverの訳: ベチベルソウ
+VETIVERS	(名詞) vetiverの複数形: ベチベルソウ
+VETO	(名詞) 拒否: 決議や決定を否むこと。\n(動詞) 拒む。断る。拒否する。
+VETOED	(動詞) "veto" の過去形・過去分詞: 拒否: 決議や決定を否むこと。
+VETOER	(vetoの変化形) (名詞) 拒否: 決議や決定を否むこと。
+VETOES	(名詞) "veto" の複数形: 拒否: 決議や決定を否むこと。\n(動詞) "veto" の現在第三人称単数形。
+VETOING	(動詞) "veto" の動名詞又は現在分詞: 拒否: 決議や決定を否むこと。
+VETS	(名詞) "vet" の複数形: 獣医: 獣医師の略。\n(動詞) "vet" の現在第三人称単数形。
+VETTED	(動詞) "vet" の過去形・過去分詞: 獣医: 獣医師の略。
+VETTING	(動詞) "vet" の動名詞又は現在分詞: 獣医: 獣医師の略。
+VEX	(動詞) vexの訳: 邪魔をする
+VEXATION	(名詞) いらいらさせること。
+VEXATIONS	(名詞) vexationの複数形: いらいらさせること。
+VEXATIOUS	(形容詞) 腹立たしい: 癪に障る。怒りを感じる様。
+VEXED	(形容詞) いらいらした。困った。面倒な。\n(動詞) vexの過去形・過去分詞: 邪魔をする
+VEXEDLY	(副詞) vexedlyの訳: いらいらして
+VEXES	(動詞) vexの直説法現在第三人称単数形: 邪魔をする
+VEXING	(動詞) vexの動名詞又は現在分詞: 邪魔をする\n(名詞) いらいらさせること。
+VIA	(前置詞) ～を経由して。～を通って。
+VIABLE	(形容詞) viableの訳: 生存可能な
+VIBRATION	(名詞) 振盪: 激しく揺れ動くこと。振り動かすこと。 (ほかに: 振動)
+VIBRATIONS	(名詞) vibrationの複数形: 振動、振盪。
+VICAR	(名詞) vicarの訳: ⟪牧師|ぼくし⟫
+VICARLY	(vicarの変化形) (名詞) vicarの訳: ⟪牧師|ぼくし⟫
+VICARS	(vicarの変化形) (名詞) vicarの訳: ⟪牧師|ぼくし⟫
+VICE	(名詞) 悪い行い。悪徳。悪行。\n(形容詞) 副の。代理の。
+VICENARY	(形容詞) vicenaryの訳: 20個一組の\n(名詞) vicenaryの訳: 二十進法
+VICENNIAL	(形容詞) 20年に1回の。\n(名詞) vicennialの訳: 20周年
+VICEROY	(名詞) （文字通りには「副王」）国王領などの現地に派遣される代官。
+VICEROYS	(viceroyの変化形) (名詞) （文字通りには「副王」）国王領などの現地に派遣される代官。
+VICES	(viceの変化形) (名詞) 悪い行い。悪徳。悪行。
+VICINAL	(形容詞) 近所の。近隣の。隣接の。
+VICING	(viceの変化形) (名詞) 悪い行い。悪徳。悪行。
+VICINITIES	(名詞) vicinityの複数形: 近傍、近接する又は近接していること。
+VICINITY	(名詞) 近傍、近接する又は近接していること。
+VICIOUS	(形容詞) 意地悪な: 性質、意地が悪いこと。また、そのようなさま。 (ほかに: 悪意のある, 邪悪な)
+VICIOUSLY	(副詞) 意地悪に: 性質、意地が悪いこと。また、そのようなさま。 (ほかに: 悪意を持って, 悪質に)
+VICTIM	(名詞) 犠牲: 災難などによって死んだり負傷したりすること。 (ほかに: 生贄)
+VICTIMS	(名詞) "victim" の複数形: 犠牲: 災難などによって死んだり負傷したりすること。 (ほかに: 生贄)
+VICTOR	(名詞) 戦勝者。勝者。征服者。
+VICTORIA	(名詞) victoriaの訳: ヴィクトリア
+VICTORIAS	(名詞) victoriaの複数形: ヴィクトリア
+VICTORIES	(名詞) "victory" の複数形: 勝利: 相手に勝つこと。勝利。
+VICTORIOUS	(形容詞) 勝った。勝利を得た。
+VICTORIOUSLY	(副詞) 勝って。勝利を得て。
+VICTORS	(名詞) victorの複数形: 戦勝者。勝者。征服者。
+VICTORY	(名詞) 勝利: 相手に勝つこと。勝利。
+VIDEO	(名詞) テレビ: （てれびじょんほうそう）静止し、又は移動する事物の瞬間的影像及びこれに伴う音声その他の音響を送る放送をいい、文字、図形その他の影像又は信号を併せ送るものを含む。 (ほかに: テレビ番組, 映画)\n(動詞) videoの訳: 録画する
+VIDEOS	(videoの変化形) (名詞) テレビ: （てれびじょんほうそう）静止し、又は移動する事物の瞬間的影像及びこれに伴う音声その他の音響を送る放送をいい、文字、図形その他の影像又は信号を併せ送るものを含む。 (ほかに: テレビ番組, 映画)
+VIDEOTAPE	(名詞) ビデオテープ: 映像、音声の電気信号を記録する磁気テープ。\n(動詞) テープに録画する。
+VIDEOTAPED	(動詞) videotapeの過去形・過去分詞: ビデオテープ: 映像、音声の電気信号を記録する磁気テープ。\n(形容詞) ビデオに録画された。
+VIDEOTAPES	(名詞) videotapeの複数形: ビデオテープ: 映像、音声の電気信号を記録する磁気テープ。\n(動詞) videotapeの直説法現在第三人称単数形: ビデオテープ: 映像、音声の電気信号を記録する磁気テープ。
+VIDEOTAPING	(動詞) videotapeの現在分詞: ビデオテープ: 映像、音声の電気信号を記録する磁気テープ。\n(名詞) ビデオテープへの録画。
+VIE	(動詞) 競う: 互いに勝つため負けないように張り合う。競争する。 (ほかに: 争う)
+VIED	(動詞) "vie" の過去形・過去分詞: 競う: 互いに勝つため負けないように張り合う。競争する。 (ほかに: 争う)
+VIES	(動詞) "vie" の現在第三人称単数形。
+VIEW	(名詞) viewの訳: 眺め, ⟪風景|ふうけい⟫, ⟪景色|けしき⟫\n(動詞) 見る: （みる）（補助動詞）ためしにおこなう。軽い気持ちでする。挑む気持ちでやる。
+VIEWABLE	(形容詞) 見ることのできる
+VIEWED	(動詞) viewの過去形・過去分詞: 眺め, ⟪風景|ふうけい⟫, ⟪景色|けしき⟫\n(形容詞) viewedの訳: 見なされる
+VIEWER	(名詞) 見物人: 見物する人。
+VIEWERS	(名詞) viewerの複数形: 見物人: 見物する人。
+VIEWFINDER	(名詞) viewfinderの訳: ファインダー
+VIEWFINDERS	(viewfinderの変化形) (名詞) viewfinderの訳: ファインダー
+VIEWING	(動詞) viewの動名詞又は現在分詞: 眺め, ⟪風景|ふうけい⟫, ⟪景色|けしき⟫\n(名詞) 鑑賞: ある芸術作品を見て、その良さを味わう事。 (ほかに: 見ること)
+VIEWINGS	(名詞) viewingの複数形: viewの動名詞又は現在分詞。
+VIEWPOINT	(名詞) 観点: 物事を見る立場。 (ほかに: 見解)
+VIEWPOINTS	(viewpointの変化形) (名詞) 観点: 物事を見る立場。 (ほかに: 見解)
+VIEWS	(名詞) viewの複数形: 眺め, ⟪風景|ふうけい⟫, ⟪景色|けしき⟫\n(動詞) viewの直説法現在第三人称単数形: 眺め, ⟪風景|ふうけい⟫, ⟪景色|けしき⟫
+VIGESIMAL	(形容詞) vigesimalの訳: 二十進法の\n(名詞) vigesimalの訳: 二十進法
+VIGIL	(名詞) 徹夜: 一晩寝ないで朝を迎えること。
+VIGILANCE	(名詞) 用心。警戒。
+VIGILANCES	(名詞) vigilanceの複数形: 用心。警戒。
+VIGILANT	(形容詞) 油断がない。警戒を怠らない。
+VIGILANTE	(名詞) 自警団員: 自警団に所属する人。
+VIGILANTES	(名詞) vigilanteの複数形: 自警団員: 自警団に所属する人。
+VIGILANTLY	(副詞) vigilantlyの訳: 警戒して
+VIGILS	(名詞) vigilの複数形: 徹夜: 一晩寝ないで朝を迎えること。
+VIGOR	(名詞) 元気: 厳かで強いこと。また、そのようなさま。\n(形容詞) vigorの訳: 強烈な
+VIGOROSO	(名詞) ビゴローソ: 力強く。\n(副詞) vigorosoの訳: ビゴローソで
+VIGOROUS	(形容詞) 活発な。精力的な。元気いっぱいの。
+VIGOROUSLY	(副詞) 元気に: 活力にあふれる。エネルギッシュな。体力が充溢した。（相撲などで）調子がいい。 (ほかに: 精力的に, 懸命に)
+VIGORS	(名詞) vigorの複数形: 元気: 厳かで強いこと。また、そのようなさま。
+VIGOUR	(名詞) vigorの異形。
+VIGOURS	(名詞) vigourの複数形: vigorの異形。
+VILE	(形容詞) vileの訳: 卑劣な, 堕落した, 不道徳な
+VILENESS	(名詞) vilenessの訳: 卑劣さ, 不快さ, 忌まわしさ
+VILENESSES	(名詞) vilenessの複数形: 卑劣さ, 不快さ, 忌まわしさ
+VILER	(形容詞) vileの比較級: 卑劣な, 堕落した, 不道徳な
+VILEST	(形容詞) vileの最上級: 卑劣な, 堕落した, 不道徳な
+VILIFICATION	(名詞) 中傷: 根拠の無い言葉を発して、他人の名誉を傷付けること。根拠も無く悪く言うこと。 (ほかに: 悪口)
+VILIFICATIONS	(名詞) vilificationの複数形: 中傷: 根拠の無い言葉を発して、他人の名誉を傷付けること。根拠も無く悪く言うこと。 (ほかに: 悪口)
+VILIFIED	(動詞) vilifyの過去形・過去分詞: 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 悪口を言う, 貶す)
+VILIFIES	(動詞) vilifyの直説法現在第三人称単数形: 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 悪口を言う, 貶す)
+VILIFY	(動詞) 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 悪口を言う, 貶す)
+VILIFYING	(動詞) vilifyの現在分詞: 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 悪口を言う, 貶す)\n(名詞) 悪口を言うこと、中傷。
+VILLA	(名詞) villaの訳: ⟪別荘|べっそう⟫, 屋敷, 大邸宅
+VILLAGE	(名詞) 村: （むら）小規模の集落。 (ほかに: 村落)
+VILLAGER	(名詞) 村人: 村に住む住民。 (ほかに: 村民)
+VILLAGERS	(名詞) villagerの複数形: 村人: 村に住む住民。 (ほかに: 村民)
+VILLAGES	(villageの変化形) (名詞) 村: （むら）小規模の集落。 (ほかに: 村落)
+VILLAIN	(名詞) 悪人: 悪いことをする人のこと。 (ほかに: 悪党, 犯罪者)
+VILLAINIES	(名詞) villainyの複数形: 極悪: 極めて悪く、悪逆であること。
+VILLAINS	(名詞) villainの複数形: 悪人: 悪いことをする人のこと。 (ほかに: 悪党, 犯罪者)\n(動詞) villainの現在第三人称単数形。
+VILLAINY	(名詞) 極悪: 極めて悪く、悪逆であること。
+VILLAS	(名詞) villaの複数形: ⟪別荘|べっそう⟫, 屋敷, 大邸宅
+VILLEIN	(名詞) villeinの訳: 農奴
+VILLEINS	(名詞) villeinの複数形: 農奴
+VIM	(名詞) 精力: 物事を成し遂げる活力。 (ほかに: 活気)
+VIMS	(vimの変化形) (名詞) 精力: 物事を成し遂げる活力。 (ほかに: 活気)
+VINCIBLE	(形容詞) vincibleの訳: 倒せる, ⟪弱い|よわい⟫
+VINDICATE	(動詞) 汚名を晴らす、名誉を回復する。
+VINDICATED	(動詞) vindicateの過去形・過去分詞: 汚名を晴らす、名誉を回復する。\n(形容詞) 正しさが立証された。
+VINDICATES	(動詞) vindicateの直説法現在第三人称単数形: 汚名を晴らす、名誉を回復する。
+VINDICATING	(動詞) vindicateの現在分詞: 汚名を晴らす、名誉を回復する。
+VINDICATION	(名詞) 弁明: (旧字体:辯明)言い訳すること、または、その言い訳の言辞。 (ほかに: 申し開き, 正当性の主張)
+VINDICATIONS	(名詞) vindicationの複数形: 弁明: (旧字体:辯明)言い訳すること、または、その言い訳の言辞。 (ほかに: 申し開き, 正当性の主張)
+VINDICATOR	(名詞) vindicatorの訳: 立証者, 擁護する人
+VINDICATORS	(名詞) vindicatorの複数形: 立証者, 擁護する人
+VINE	(名詞) 蔓: （つる）植物の茎。細長く柔軟で他の物に巻きつく。
+VINEGAR	(名詞) 酢。各種の酢。\n(動詞) 酢で味をつける。酢に漬ける。酢でしめる。
+VINEGARED	(形容詞) 酢で味付けした、酢漬けの。\n(動詞) vinegarの過去形・過去分詞: 酢。各種の酢。
+VINEGARS	(名詞) vinegarの複数形: 酢。各種の酢。\n(動詞) vinegarの直説法現在第三人称単数形: 酢。各種の酢。
+VINES	(vineの変化形) (名詞) 蔓: （つる）植物の茎。細長く柔軟で他の物に巻きつく。
+VINEYARD	(名詞) 葡萄園: 葡萄を栽培する農園。
+VINEYARDS	(名詞) vineyardの複数形: 葡萄園: 葡萄を栽培する農園。
+VINING	(vineの変化形) (名詞) 蔓: （つる）植物の茎。細長く柔軟で他の物に巻きつく。
+VINTAGE	(名詞) ある特定のブドウの収穫期。または収穫高。\n(形容詞) vintageの訳: 由緒ある
+VINTAGES	(vintageの変化形) (名詞) ある特定のブドウの収穫期。または収穫高。
+VINYL	(名詞) ビニル、ビニール。ビニル基。ビニル樹脂、ビニル繊維。
+VINYLS	(vinylの変化形) (名詞) ビニル、ビニール。ビニル基。ビニル樹脂、ビニル繊維。
+VIOL	(名詞) violの訳: バイオル\n(動詞) バイオルを演奏する。
+VIOLA	(名詞) ヴィオラ。ヴァイオリンよりも少し大型の弦楽器。
+VIOLABLE	(形容詞) 侵すことができる。
+VIOLAS	(violaの変化形) (名詞) ヴィオラ。ヴァイオリンよりも少し大型の弦楽器。
+VIOLATE	(動詞) (規則を) 破る。(規則に) 違う。違反する。
+VIOLATED	(動詞) "violate" の過去形・過去分詞形: (規則を) 破る。(規則に) 違う。違反する。
+VIOLATER	(violateの変化形) (動詞) (規則を) 破る。(規則に) 違う。違反する。
+VIOLATES	(動詞) "violate" の三人称単数現在形: (規則を) 破る。(規則に) 違う。違反する。
+VIOLATING	(動詞) "violate" の動名詞形又は現在分詞形: (規則を) 破る。(規則に) 違う。違反する。
+VIOLATION	(名詞) violationの訳: 違反, 侵害, 妨害
+VIOLATIONS	(名詞) "violation" の複数形: 違反, 侵害, 妨害
+VIOLATOR	(名詞) violatorの訳: 違反者, 侵害者
+VIOLATORS	(violatorの変化形) (名詞) violatorの訳: 違反者, 侵害者
+VIOLENCE	(名詞) violenceの訳: 猛威\n(動詞) violenceの訳: 暴力を振るう
+VIOLENCES	(名詞) violenceの複数形: 猛威\n(動詞) violenceの直説法現在第三人称単数形: 猛威
+VIOLENT	(形容詞) violentの訳: 激しい, 猛烈な
+VIOLENTLY	(副詞) 暴力的に: 乱暴かつ凶暴で力で物事を解決するさま
+VIOLET	(名詞) violetの訳: ⟪菫|すみれ⟫\n(形容詞) violetの訳: すみれ色の
+VIOLETS	(名詞) violetの複数形: ⟪菫|すみれ⟫
+VIOLIN	(名詞) violinの訳: ヴァイオリン
+VIOLINIST	(名詞) ヴァイオリニスト
+VIOLINISTS	(violinistの変化形) (名詞) ヴァイオリニスト
+VIOLINS	(violinの変化形) (名詞) violinの訳: ヴァイオリン
+VIOLIST	(名詞) violistの訳: バイオリスト
+VIOLISTS	(violistの変化形) (名詞) violistの訳: バイオリスト
+VIOLONCELLO	(名詞) violoncelloの訳: チェロ
+VIOLONCELLOS	(violoncelloの変化形) (名詞) violoncelloの訳: チェロ
+VIOLS	(名詞) violの複数形: バイオル\n(動詞) violの直説法現在第三人称単数形: バイオル
+VIPER	(名詞) 毒蛇。毒蛇一般。
+VIPERS	(名詞) "viper" の複数形: 毒蛇。毒蛇一般。
+VIRAGO	(名詞) 口やかましい女
+VIRAGOES	(viragoの変化形) (名詞) 口やかましい女
+VIRAGOS	(viragoの変化形) (名詞) 口やかましい女
+VIRAL	(形容詞) ウイルスの。ウイルス性の。ウイルスを介した。
+VIRGIN	(名詞) virginの訳: 未経験者\n(形容詞) virginの訳: 未使用の
+VIRGINAL	(形容詞) virginalの訳: 未使用の, 汚れのない\n(名詞) virginalの訳: バージナル
+VIRGINALLY	(virginalの変化形) (形容詞) virginalの訳: 未使用の, 汚れのない
+VIRGINALS	(virginalの変化形) (形容詞) virginalの訳: 未使用の, 汚れのない
+VIRGINITIES	(virginityの変化形) (名詞) virginityの訳: 童貞
+VIRGINITY	(名詞) virginityの訳: 童貞
+VIRGINS	(名詞) virginの複数形: 未経験者
+VIROLOGIES	(virologyの変化形) (名詞) ウイルス学: ウイルスについて研究する学問。
+VIROLOGIST	(名詞) ウイルス学者: ウイルス学を研究する科学者。
+VIROLOGISTS	(virologistの変化形) (名詞) ウイルス学者: ウイルス学を研究する科学者。
+VIROLOGY	(名詞) ウイルス学: ウイルスについて研究する学問。
+VIRTUAL	(形容詞) 事実上の: 実際そのような状態であること。
+VIRTUALLY	(副詞) virtuallyの訳: 実質的には
+VIRTUE	(名詞) （薬などの）効力。効能。[13世紀より]
+VIRTUES	(名詞) virtueの複数形: （薬などの）効力。効能。[13世紀より]
+VIRTUOSITIES	(名詞) virtuosityの複数形: 技巧。妙技。
+VIRTUOSITY	(名詞) 技巧。妙技。
+VIRTUOUS	(形容詞) 徳の高い。高潔な。
+VIRTUOUSNESS	(名詞) 有徳。高潔。
+VIRTUOUSNESSES	(名詞) virtuousnessの複数形: 有徳。高潔。
+VIRUS	(名詞) virusの訳: 毒, 特に動物毒
+VIRUSES	(名詞) "virus" の複数形: 毒, 特に動物毒
+VIS	(名詞) visの訳: ⟪力|ちから⟫\n(形容詞) visualの短縮。
+VISA	(名詞) 査証: 入国査証。ビザ。 (ほかに: ビザ)
+VISAED	(visaの変化形) (名詞) 査証: 入国査証。ビザ。 (ほかに: ビザ)
+VISAING	(visaの変化形) (名詞) 査証: 入国査証。ビザ。 (ほかに: ビザ)
+VISAS	(名詞) visaの複数形: 査証: 入国査証。ビザ。 (ほかに: ビザ)\n(動詞) visaの三人称単数現在形: 査証: 入国査証。ビザ。 (ほかに: ビザ)
+VISCERA	(名詞) 臓器: 体の内部にある諸器官。内臓。 (ほかに: 内臓)
+VISCID	(形容詞) ねばねばする。粘着性の。
+VISCIDITIES	(名詞) viscidityの複数形: 粘着性: 粘り付く性質。
+VISCIDITY	(名詞) 粘着性: 粘り付く性質。
+VISCOSE	(名詞) viscoseの訳: ビスコース
+VISCOSES	(viscoseの変化形) (名詞) viscoseの訳: ビスコース
+VISCOSITIES	(名詞) viscosityの複数形: 粘着性: 粘り付く性質。
+VISCOSITY	(名詞) 粘着性: 粘り付く性質。
+VISCOUNT	(名詞) viscountの訳: ⟪子爵|ししゃく⟫
+VISCOUNTS	(名詞) "viscount" の複数形: ⟪子爵|ししゃく⟫
+VISCOUS	(形容詞) ねばねばする: 粘り気があり物によく付くさま。
+VISCOUSLY	(viscousの変化形) (形容詞) ねばねばする: 粘り気があり物によく付くさま。
+VISCUS	(名詞) 臓器: 体の内部にある諸器官。内臓。 (ほかに: 内臓)
+VISED	(visの変化形) (名詞) visの訳: ⟪力|ちから⟫
+VISELIKE	(形容詞) がっちりした、しっかり締め付けた。
+VISIBILITIES	(名詞) visibilityの複数形: 目に見えること、可視、有形。
+VISIBILITY	(名詞) 目に見えること、可視、有形。
+VISIBLE	(形容詞) 可視の: 目に見えること。 (ほかに: 目に見える, 視界に入る)
+VISIBLY	(副詞) はっきり: 他との区別が容易につく。目に見えて明らかに判別できる。 (ほかに: 目に見えて, 明らかに)
+VISING	(visの変化形) (名詞) visの訳: ⟪力|ちから⟫
+VISION	(名詞) 視覚: 可視光の刺激を受けて生じる感覚。 (ほかに: 視力)\n(動詞) visionの訳: 幻想する
+VISIONED	(動詞) "vision" の過去形・過去分詞: 視覚: 可視光の刺激を受けて生じる感覚。 (ほかに: 視力)
+VISIONING	(動詞) "vision" の動名詞又は現在分詞: 視覚: 可視光の刺激を受けて生じる感覚。 (ほかに: 視力)
+VISIONS	(名詞) visionの複数形: 視覚: 可視光の刺激を受けて生じる感覚。 (ほかに: 視力)\n(動詞) visionの直説法現在第三人称単数形: 視覚: 可視光の刺激を受けて生じる感覚。 (ほかに: 視力)
+VISIT	(動詞) 訪れる: （おとずれる）ある場所へ行く、来る。訪問する。来訪する。\n(名詞) visitの訳: 訪問
+VISITED	(動詞) "visit" の過去形・過去分詞形: 訪れる: （おとずれる）ある場所へ行く、来る。訪問する。来訪する。
+VISITING	(動詞) visitの動名詞又は現在分詞: 訪れる: （おとずれる）ある場所へ行く、来る。訪問する。来訪する。\n(名詞) 訪問: 人を訪ねること。ビジット。
+VISITOR	(名詞) 訪問者: 来訪してきた人。来訪者。
+VISITORS	(名詞) visitor の複数形: 訪問者: 来訪してきた人。来訪者。
+VISITS	(動詞) "visit" の三人称単数現在形: 訪れる: （おとずれる）ある場所へ行く、来る。訪問する。来訪する。
+VISTA	(名詞) vistaの訳: 展望, 眺望
+VISTAED	(vistaの変化形) (名詞) vistaの訳: 展望, 眺望
+VISTAS	(vistaの変化形) (名詞) vistaの訳: 展望, 眺望
+VISUAL	(名詞) 視認: 目で視て確認すること。 (ほかに: 視感)\n(動詞) 視認: 目で視て確認すること。
+VISUALIZATION	(名詞) 視覚化: 抽象的なことを目で見てわかるように示すこと。 (ほかに: 可視化, 描出)
+VISUALIZATIONS	(visualizationの変化形) (名詞) 視覚化: 抽象的なことを目で見てわかるように示すこと。 (ほかに: 可視化, 描出)
+VISUALIZE	(動詞) 思い描く: 情景を心の中で想像する。 (ほかに: 視覚化する)
+VISUALIZED	(visualizeの変化形) (動詞) 思い描く: 情景を心の中で想像する。 (ほかに: 視覚化する)
+VISUALIZES	(visualizeの変化形) (動詞) 思い描く: 情景を心の中で想像する。 (ほかに: 視覚化する)
+VISUALIZING	(visualizeの変化形) (動詞) 思い描く: 情景を心の中で想像する。 (ほかに: 視覚化する)
+VISUALS	(visualの変化形) (名詞) 視認: 目で視て確認すること。 (ほかに: 視感)
+VITAL	(形容詞) 生に関する。生命に関する。
+VITALITIES	(名詞) vitalityの複数形: 生命力: 生きる力。
+VITALITY	(名詞) 生命力: 生きる力。
+VITAMIN	(名詞) ビタミン: 生物の成長に必要な栄養素の内、脂質、炭水化物、蛋白質、アミノ酸などを除く有機化合物の総称。
+VITAMINS	(名詞) vitaminの複数形: ビタミン
+VITRIOL	(名詞) 硫酸: 三酸化硫黄を水と反応させて得られる粘性のある酸性の液体。化学式H₂SO₄で表される。酸化力・脱水作用が強く、触れると火傷を起こす。
+VITRIOLED	(vitriolの変化形) (名詞) 硫酸: 三酸化硫黄を水と反応させて得られる粘性のある酸性の液体。化学式H₂SO₄で表される。酸化力・脱水作用が強く、触れると火傷を起こす。
+VITRIOLING	(vitriolの変化形) (名詞) 硫酸: 三酸化硫黄を水と反応させて得られる粘性のある酸性の液体。化学式H₂SO₄で表される。酸化力・脱水作用が強く、触れると火傷を起こす。
+VITRIOLLED	(vitriolの変化形) (名詞) 硫酸: 三酸化硫黄を水と反応させて得られる粘性のある酸性の液体。化学式H₂SO₄で表される。酸化力・脱水作用が強く、触れると火傷を起こす。
+VITRIOLLING	(vitriolの変化形) (名詞) 硫酸: 三酸化硫黄を水と反応させて得られる粘性のある酸性の液体。化学式H₂SO₄で表される。酸化力・脱水作用が強く、触れると火傷を起こす。
+VITRIOLS	(vitriolの変化形) (名詞) 硫酸: 三酸化硫黄を水と反応させて得られる粘性のある酸性の液体。化学式H₂SO₄で表される。酸化力・脱水作用が強く、触れると火傷を起こす。
+VITUPERATE	(動詞) vituperateの訳: 悪罵
+VITUPERATED	(vituperateの変化形) (動詞) vituperateの訳: 悪罵
+VITUPERATES	(vituperateの変化形) (動詞) vituperateの訳: 悪罵
+VITUPERATING	(vituperateの変化形) (動詞) vituperateの訳: 悪罵
+VIVACIOUS	(形容詞) 活発な。陽気な。生き生きとした。
+VIVACIOUSLY	(副詞) 活発に。生き生きと。
+VIVACITIES	(名詞) vivacityの複数形: 活発。快活。陽気。
+VIVACITY	(名詞) 活発。快活。陽気。
+VIVARIA	(名詞) vivariumの複数形: 生態動物園
+VIVARIUM	(名詞) vivariumの訳: 生態動物園
+VIVARIUMS	(名詞) vivariumの複数形: 生態動物園
+VIVID	(形容詞) vividの訳: 活気のある
+VIVIDER	(vividの変化形) (形容詞) vividの訳: 活気のある
+VIVIDEST	(vividの変化形) (形容詞) vividの訳: 活気のある
+VIVIDLY	(副詞) vividlyの訳: 活き活きして, 活力あふれて
+VIVIDNESS	(名詞) 鮮やかさ。鮮明さ。
+VIVIDNESSES	(名詞) vividnessの複数形: 鮮やかさ。鮮明さ。
+VIVIPAROUS	(形容詞) 胎生の: （たいせい）母胎内で孵化した動物が保護被包に包まれない状態で生まれること。
+VOCABLE	(名詞) 語: （ゴ）言葉。\n(形容詞) vocableの訳: 発音可能な
+VOCABLES	(名詞) vocableの複数形: 語: （ゴ）言葉。
+VOCABULARIES	(vocabularyの変化形) (名詞) 語彙: 個人の話者、言語共同体、作品、分野などによって使われる単語の集合全体。
+VOCABULARY	(名詞) 語彙: 個人の話者、言語共同体、作品、分野などによって使われる単語の集合全体。
+VOCAL	(形容詞) 声の: （こえ）人の口や喉といった器官から、主に言葉を構成する目的で発せられる音。 (ほかに: 音声の)
+VOCALIC	(形容詞) vocalicの訳: 母音の
+VOCALICS	(vocalicの変化形) (形容詞) vocalicの訳: 母音の
+VOCALISE	(動詞) vocalizeの異綴。\n(名詞) vocaliseの訳: 母音唱法
+VOCALISED	(動詞) vocaliseの過去形・過去分詞: vocalizeの異綴。
+VOCALISES	(動詞) vocaliseの直説法現在第三人称単数形: vocalizeの異綴。
+VOCALISING	(動詞) vocaliseの現在分詞: vocalizeの異綴。
+VOCALIST	(名詞) （ポピュラー音楽の）歌手。ボーカリスト。
+VOCALISTS	(名詞) vocalistの複数形: （ポピュラー音楽の）歌手。ボーカリスト。
+VOCALIZATION	(名詞) vocalizationの訳: 声に出すこと, ⟪発声|はっせい⟫
+VOCALIZATIONS	(名詞) vocalizationの複数形: 声に出すこと, ⟪発声|はっせい⟫
+VOCALIZE	(動詞) 声に出す。言葉で表す。
+VOCALIZED	(動詞) vocalizeの過去形・過去分詞: 声に出す。言葉で表す。
+VOCALIZER	(名詞) vocalizerの訳: 声に出す人
+VOCALIZERS	(名詞) vocalizerの複数形: 声に出す人
+VOCALIZES	(vocalizeの変化形) (動詞) 声に出す。言葉で表す。
+VOCALIZING	(vocalizeの変化形) (動詞) 声に出す。言葉で表す。
+VOCALS	(vocalの変化形) (形容詞) 声の: （こえ）人の口や喉といった器官から、主に言葉を構成する目的で発せられる音。 (ほかに: 音声の)
+VOCATION	(名詞) 天職。適職。
+VOCATIONAL	(形容詞) vocationalの訳: 職業の
+VOCATIONS	(名詞) vocationの複数形: 天職。適職。
+VOCATIVE	(形容詞) vocativeの訳: 呼び掛けの\n(名詞) 呼格: 主に印欧語における格の一つで、呼びかけのときに用いる。多くは主格に一致。
+VOCATIVELY	(vocativeの変化形) (形容詞) vocativeの訳: 呼び掛けの
+VOCATIVES	(名詞) vocativeの複数形: 呼び掛けの
+VOGUE	(名詞) 人気: （ニンキ）多くの人に好まれていること。 (ほかに: 流行)
+VOGUED	(vogueの変化形) (名詞) 人気: （ニンキ）多くの人に好まれていること。 (ほかに: 流行)
+VOGUEING	(vogueの変化形) (名詞) 人気: （ニンキ）多くの人に好まれていること。 (ほかに: 流行)
+VOGUER	(vogueの変化形) (名詞) 人気: （ニンキ）多くの人に好まれていること。 (ほかに: 流行)
+VOGUES	(vogueの変化形) (名詞) 人気: （ニンキ）多くの人に好まれていること。 (ほかに: 流行)
+VOGUING	(vogueの変化形) (名詞) 人気: （ニンキ）多くの人に好まれていること。 (ほかに: 流行)
+VOICE	(名詞) 音声: （おんせい、古:おんじょう）人間が発する音のうち、言語として発しているもの。声に同じ。 (ほかに: 声)\n(動詞) voiceの訳: ～と声に出す, 言葉にする, 発言する
+VOICED	(動詞) "voice" の過去形・過去分詞: 音声: （おんせい、古:おんじょう）人間が発する音のうち、言語として発しているもの。声に同じ。 (ほかに: 声)
+VOICELESS	(形容詞) 無言の。沈黙の。
+VOICELESSLY	(voicelessの変化形) (形容詞) 無言の。沈黙の。
+VOICEPRINT	(名詞) 声紋: 声を周波数で分析する装置により縞模様の図表にしたもの。
+VOICEPRINTS	(名詞) voiceprintの複数形: 声紋。
+VOICES	(名詞) voice の複数形: 音声: （おんせい、古:おんじょう）人間が発する音のうち、言語として発しているもの。声に同じ。 (ほかに: 声)
+VOICING	(動詞) "voice" の動名詞又は現在分詞: 音声: （おんせい、古:おんじょう）人間が発する音のうち、言語として発しているもの。声に同じ。 (ほかに: 声)
+VOID	(形容詞) 中身のない。空っぽの。\n(名詞) 真空。虚空。
+VOIDED	(動詞) voidの過去形・過去分詞: 中身のない。空っぽの。\n(形容詞) 中央が切り取られた。
+VOIDER	(voidの変化形) (形容詞) 中身のない。空っぽの。
+VOIDERS	(voidの変化形) (形容詞) 中身のない。空っぽの。
+VOIDING	(動詞) voidの現在分詞: 中身のない。空っぽの。\n(名詞) voidingの訳: 排尿
+VOIDS	(名詞) voidの複数形: 中身のない。空っぽの。\n(動詞) voidの直説法現在第三人称単数形: 中身のない。空っぽの。
+VOLATILE	(形容詞) 揮発性の: 常温で液体が揮発しやすい性質。\n(名詞) volatileの訳: 揮発性物質
+VOLATILES	(volatileの変化形) (形容詞) 揮発性の: 常温で液体が揮発しやすい性質。
+VOLATILITIES	(名詞) volatilityの複数形: 揮発性: 常温で液体が揮発しやすい性質。
+VOLATILITY	(名詞) 揮発性: 常温で液体が揮発しやすい性質。
+VOLATILIZATION	(名詞) 揮発: 物事を始めること。また、物事が始まること。
+VOLATILIZATIONS	(名詞) volatilizationの複数形: 揮発: 物事を始めること。また、物事が始まること。
+VOLATILIZE	(動詞) 揮発する。揮発させる。
+VOLATILIZED	(動詞) volatilizeの過去形・過去分詞: 揮発する。揮発させる。
+VOLATILIZES	(動詞) volatilizeの直説法現在第三人称単数形: 揮発する。揮発させる。
+VOLATILIZING	(動詞) volatilizeの現在分詞: 揮発する。揮発させる。
+VOLCANIC	(形容詞) 火山の。火山性の。\n(名詞) volcanicの訳: 火成岩
+VOLCANICS	(名詞) volcanicの複数形: 火山の。火山性の。
+VOLCANO	(名詞) volcanoの訳: ⟪火山|かざん⟫
+VOLCANOES	(名詞) "volcano" の複数形: ⟪火山|かざん⟫
+VOLCANOLOGIES	(volcanologyの変化形) (名詞) 火山学: 火山の現象などを科学的に研究する学問。地球科学の一種。
+VOLCANOLOGY	(名詞) 火山学: 火山の現象などを科学的に研究する学問。地球科学の一種。
+VOLCANOS	(名詞) "volcano" の複数形: ⟪火山|かざん⟫
+VOLITION	(名詞) 意志。意欲。決断。
+VOLITIONS	(名詞) volitionの複数形: 意志。意欲。決断。
+VOLLEY	(名詞) volleyの訳: 一斉射撃, 斉射\n(動詞) volleyの訳: 斉射する
+VOLLEYBALL	(名詞) バレーボール: 1チーム6人ないし9人で高いネットを隔ててボールを地面に落とさずに手で打ち合うスポーツ。
+VOLLEYBALLS	(volleyballの変化形) (名詞) バレーボール: 1チーム6人ないし9人で高いネットを隔ててボールを地面に落とさずに手で打ち合うスポーツ。
+VOLLEYED	(動詞) "volley" の過去形・過去分詞: 一斉射撃, 斉射
+VOLLEYER	(volleyの変化形) (名詞) volleyの訳: 一斉射撃, 斉射
+VOLLEYING	(動詞) "volley" の動名詞又は現在分詞: 一斉射撃, 斉射
+VOLLEYS	(名詞) "volley" の複数形: 一斉射撃, 斉射\n(動詞) "volley" の現在第三人称単数形。
+VOLPLANE	(名詞) 滑空: 鳥などが羽を広げたまま空を滑るように飛行すること。\n(動詞) volplaneの訳: 滑空する
+VOLPLANED	(動詞) volplaneの過去形・過去分詞: 滑空: 鳥などが羽を広げたまま空を滑るように飛行すること。
+VOLPLANES	(名詞) volplaneの複数形: 滑空: 鳥などが羽を広げたまま空を滑るように飛行すること。\n(動詞) volplaneの直説法現在第三人称単数形: 滑空: 鳥などが羽を広げたまま空を滑るように飛行すること。
+VOLPLANING	(動詞) volplaneの現在分詞: 滑空: 鳥などが羽を広げたまま空を滑るように飛行すること。
+VOLT	(名詞) voltの訳: ボルト
+VOLTAGE	(名詞) 電圧: ある2点間の電位差。また、任意の基準点に対するある点の電位。単位 V (ボルト)。
+VOLTAGES	(名詞) voltageの複数形: 電圧: ある2点間の電位差。また、任意の基準点に対するある点の電位。単位 V (ボルト)。
+VOLTES	(voltの変化形) (名詞) voltの訳: ボルト
+VOLTMETER	(名詞) 電圧計: 電圧を計るための計器。
+VOLTMETERS	(名詞) voltmeterの複数形: 電圧計: 電圧を計るための計器。
+VOLTS	(voltの変化形) (名詞) voltの訳: ボルト
+VOLUME	(名詞) 体積: ある立体図形が三次元空間に占める量。 (ほかに: 容積)
+VOLUMES	(名詞) volume の複数形: 体積: ある立体図形が三次元空間に占める量。 (ほかに: 容積)
+VOLUMING	(volumeの変化形) (名詞) 体積: ある立体図形が三次元空間に占める量。 (ほかに: 容積)
+VOLUNTARIES	(voluntaryの変化形) (形容詞) 任意の: 特定の選び方によらずに選ぶこと。自由に選ぶこと。また自由に選んだおのおのすべて。 (ほかに: 自発的な)
+VOLUNTARILY	(副詞) voluntarilyの訳: 自発的に
+VOLUNTARY	(形容詞) 任意の: 特定の選び方によらずに選ぶこと。自由に選ぶこと。また自由に選んだおのおのすべて。 (ほかに: 自発的な)
+VOLUNTEER	(名詞) ボランティア: 篤志奉仕家。: 自分の意思で社会事業などの奉仕活動をする人。 (ほかに: 有志)\n(動詞) volunteerの訳: 志願する
+VOLUNTEERED	(動詞) volunteerの過去形・過去分詞: ボランティア: 篤志奉仕家。: 自分の意思で社会事業などの奉仕活動をする人。 (ほかに: 有志)
+VOLUNTEERING	(動詞) "volunteer" の動名詞又は現在分詞: ボランティア: 篤志奉仕家。: 自分の意思で社会事業などの奉仕活動をする人。 (ほかに: 有志)
+VOLUNTEERS	(名詞) volunteerの複数形: ボランティア: 篤志奉仕家。: 自分の意思で社会事業などの奉仕活動をする人。 (ほかに: 有志)\n(動詞) volunteerの三人称単数現在形: ボランティア: 篤志奉仕家。: 自分の意思で社会事業などの奉仕活動をする人。 (ほかに: 有志)
+VOLUPTUOUS	(形容詞) voluptuousの訳: 快い, 心地よい
+VOLUPTUOUSLY	(副詞) voluptuouslyの訳: 官能的に, セクシーに
+VOLUPTUOUSNESS	(名詞) 快さ: （よさ）よいこと。また、その程度。
+VOLUPTUOUSNESSES	(名詞) voluptuousnessの複数形: 快さ: （よさ）よいこと。また、その程度。
+VOLVAS	(名詞) volvaの複数形。
+VOMIT	(動詞) 吐く: （はく）口の中や体内にあるものを、口から外に出す。\n(名詞) vomitの訳: 嘔吐物, ⟪反吐|はんと⟫
+VOMITED	(動詞) "vomit" の過去形・過去分詞: 吐く: （はく）口の中や体内にあるものを、口から外に出す。
+VOMITING	(動詞) "vomit" の動名詞又は現在分詞: 吐く: （はく）口の中や体内にあるものを、口から外に出す。\n(名詞) 嘔吐: 食べた物を吐くこと。
+VOMITO	(名詞) vomitoの訳: 黒色嘔吐
+VOMITOS	(名詞) vomitoの複数形: 黒色嘔吐
+VOMITS	(動詞) "vomit" の現在第三人称単数形。
+VORACIOUS	(形容詞) voraciousの訳: 食欲旺盛な
+VORACIOUSLY	(副詞) voraciouslyの訳: 食欲旺盛に
+VORACITIES	(名詞) voracityの複数形: 暴食: 過度に食べ物を食べること。
+VORACITY	(名詞) 暴食: 過度に食べ物を食べること。
+VORTEX	(名詞) vortexの訳: 渦
+VORTEXES	(vortexの変化形) (名詞) vortexの訳: 渦
+VORTICES	(vortexの変化形) (名詞) vortexの訳: 渦
+VOTARIES	(votaryの変化形) (名詞) 信徒: ある宗教を信奉する者。信仰の徒。
+VOTARY	(名詞) 信徒: ある宗教を信奉する者。信仰の徒。
+VOTE	(名詞) voteの訳: ⟪投票|とうひょう⟫\n(動詞) 投票する。(for)
+VOTED	(動詞) voteの過去形・過去分詞: ⟪投票|とうひょう⟫
+VOTER	(名詞) 有権者: 権利（特に選挙権）を有する人。 (ほかに: 投票者)
+VOTERS	(名詞) voterの複数形: 有権者: 権利（特に選挙権）を有する人。 (ほかに: 投票者)
+VOTES	(名詞) voteの複数形: ⟪投票|とうひょう⟫\n(動詞) voteの直説法現在第三人称単数形: ⟪投票|とうひょう⟫
+VOTING	(動詞) voteの現在分詞: ⟪投票|とうひょう⟫\n(名詞) votingの訳: ⟪投票|とうひょう⟫
+VOW	(動詞) 誓う。誓約する。\n(名詞) 誓い。誓約。
+VOWED	(動詞) "vow" の過去形・過去分詞: 誓う。誓約する。
+VOWEL	(名詞) 母音: 声帯の振動によって生じた声が舌や気門によって閉鎖されたり摩擦されることなく、舌や口唇の形により調音される音声。日本語の母音はあ、い、う、え、おの五種類。
+VOWELS	(名詞) vowelの複数形: 母音: 声帯の振動によって生じた声が舌や気門によって閉鎖されたり摩擦されることなく、舌や口唇の形により調音される音声。日本語の母音はあ、い、う、え、おの五種類。
+VOWING	(動詞) "vow" の動名詞又は現在分詞: 誓う。誓約する。
+VOWS	(名詞) "vow" の複数形: 誓う。誓約する。\n(動詞) "vow" の現在第三人称単数形。
+VOYAGE	(名詞) 航海。船旅。\n(動詞) 航海する。航行する。
+VOYAGED	(動詞) voyageの過去形・過去分詞: 航海。船旅。
+VOYAGER	(名詞) 航海者、世界を旅する者。
+VOYAGERS	(名詞) "voyager" の複数形: 航海者、世界を旅する者。
+VOYAGES	(名詞) voyageの複数形: 航海。船旅。\n(動詞) voyageの直説法現在第三人称単数形: 航海。船旅。
+VOYAGEUR	(名詞) voyageurの訳: 運び屋
+VOYAGEURS	(名詞) voyageurの複数形: 運び屋
+VOYAGING	(動詞) voyageの現在分詞: 航海。船旅。\n(名詞) 航海: 船舶で海を渡ること。
+VOYEUR	(名詞) 出歯亀: 覗き見をすること。また、覗き見の常習者。 (ほかに: 覗き魔)
+VOYEURISM	(名詞) voyeurismの訳: 窃視症
+VOYEURISMS	(名詞) "voyeurism" の複数形: 窃視症
+VOYEURS	(名詞) "voyeur" の複数形: 出歯亀: 覗き見をすること。また、覗き見の常習者。 (ほかに: 覗き魔)
+VULCANOLOGIES	(vulcanologyの変化形) (名詞) 火山学: 火山の現象などを科学的に研究する学問。地球科学の一種。
+VULCANOLOGY	(名詞) 火山学: 火山の現象などを科学的に研究する学問。地球科学の一種。
+VULGAR	(形容詞) 世間一般の、世俗の、俗用されている。
+VULGARER	(形容詞) vulgarの比較級: 世間一般の、世俗の、俗用されている。
+VULGAREST	(形容詞) "vulgar" の最上級: 世間一般の、世俗の、俗用されている。
+VULGARISE	(動詞) vulgarizeの異綴。
+VULGARISED	(動詞) vulgariseの過去形・過去分詞: vulgarizeの異綴。
+VULGARISES	(動詞) vulgariseの直説法現在第三人称単数形: vulgarizeの異綴。
+VULGARISING	(動詞) vulgariseの現在分詞: vulgarizeの異綴。\n(形容詞) vulgarisingの訳: 低俗にする
+VULGARISM	(名詞) 卑語: 卑しい言葉。下品な印象を与え、人前で使うことが避けられる語。性的な内容にかかわるものが多い。
+VULGARISMS	(vulgarismの変化形) (名詞) 卑語: 卑しい言葉。下品な印象を与え、人前で使うことが避けられる語。性的な内容にかかわるものが多い。
+VULGARITIES	(名詞) vulgarityの複数形: 下品。粗野。
+VULGARITY	(名詞) 下品。粗野。
+VULGARIZE	(動詞) 俗化させる。大衆化させる。普及させる。
+VULGARIZED	(動詞) vulgarizeの過去形・過去分詞: 俗化させる。大衆化させる。普及させる。
+VULGARIZER	(名詞) vulgarizerの訳: 俗化させる人
+VULGARIZERS	(名詞) vulgarizerの複数形: 俗化させる人
+VULGARIZES	(動詞) vulgarizeの直説法現在第三人称単数形: 俗化させる。大衆化させる。普及させる。
+VULGARIZING	(動詞) vulgarizeの現在分詞: 俗化させる。大衆化させる。普及させる。\n(形容詞) vulgarizingの訳: 低俗にする
+VULGARLY	(副詞) 下品に。低俗に。
+VULGARS	(vulgarの変化形) (形容詞) 世間一般の、世俗の、俗用されている。
+VULNERABILITIES	(名詞) vulnerabilityの複数形: 脆弱性。弱さ。傷つきやすさ。
+VULNERABILITY	(名詞) 脆弱性。弱さ。傷つきやすさ。
+VULNERABLE	(形容詞) （何かの悪影響に対して）弱い。脆い。脆弱な。攻撃や危害を受けやすい。
+VULPINE	(形容詞) vulpineの訳: 狐のような\n(名詞) vulpineの訳: キツネ族
+VULTURE	(名詞) vultureの訳: ⟪ハゲタカ|はげたか⟫, ⟪ハゲワシ|はげわし⟫, コンドル
+VULTURES	(名詞) vultureの複数形: ⟪ハゲタカ|はげたか⟫, ⟪ハゲワシ|はげわし⟫, コンドル
+VULVA	(名詞) 外陰部: 女性の生殖器のうち、体の外に出ている部分。 (ほかに: 陰門)
+VULVAE	(名詞) vulvaの複数形: 外陰部: 女性の生殖器のうち、体の外に出ている部分。 (ほかに: 陰門)
+VULVAS	(名詞) vulvaの複数形: 外陰部: 女性の生殖器のうち、体の外に出ている部分。 (ほかに: 陰門)
+VYING	(動詞) vieの現在分詞: 競う、争う。
+VYINGLY	(vieの変化形) (動詞) 競う: 互いに勝つため負けないように張り合う。競争する。 (ほかに: 争う)

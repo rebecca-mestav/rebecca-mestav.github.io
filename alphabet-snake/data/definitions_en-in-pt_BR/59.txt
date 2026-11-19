@@ -1,0 +1,120 @@
+YACHT	(substantivo) iate: veleiro de pequena lotação, com dois mastros, movido a vela, motor ou sistema misto
+YACHTED	(forma de yacht) (substantivo) iate: veleiro de pequena lotação, com dois mastros, movido a vela, motor ou sistema misto
+YACHTING	(substantivo) vela: desporto náutico praticado em embarcações a vela¹
+YACHTINGS	(forma de yacht) (substantivo) iate: veleiro de pequena lotação, com dois mastros, movido a vela, motor ou sistema misto
+YACHTS	(forma de yacht) (substantivo) iate: veleiro de pequena lotação, com dois mastros, movido a vela, motor ou sistema misto
+YACHTSMAN	(substantivo) iatista: pessoa que navega em iate
+YACHTSMEN	(forma de yachtsman) (substantivo) iatista: pessoa que navega em iate
+YAHOO	(interjeição) exclamação de alegria\n(substantivo) yahoo se traduz como pessoa abrutalhada, ⟪rude⟫
+YAHOOS	(forma de yahoo) (interjeição) exclamação de alegria
+YAK	(substantivo) yak se traduz como ⟪iaque⟫
+YAKKED	(forma de yak) (substantivo) yak se traduz como ⟪iaque⟫
+YAKKER	(forma de yak) (substantivo) yak se traduz como ⟪iaque⟫
+YAKKING	(forma de yak) (substantivo) yak se traduz como ⟪iaque⟫
+YAKS	(forma de yak) (substantivo) yak se traduz como ⟪iaque⟫
+YAM	(substantivo) yam se traduz como ⟪inhame⟫
+YAMS	(forma de yam) (substantivo) yam se traduz como ⟪inhame⟫
+YANK	(substantivo) yank se traduz como ⟪puxão|PUXAO⟫\n(verbo) arrancar: obter com esforço; obter com astúcia (também: puxar)
+YANKED	(forma de yank) (substantivo) yank se traduz como ⟪puxão|PUXAO⟫
+YANKING	(forma de yank) (substantivo) yank se traduz como ⟪puxão|PUXAO⟫
+YANKS	(forma de yank) (substantivo) yank se traduz como ⟪puxão|PUXAO⟫
+YAPPER	(adjetivo) yapper se traduz como falastrão
+YARD	(substantivo) quintal: espaço aberto adjunto a uma casa (também: jarda, cercado)
+YARDED	(forma de yard) (substantivo) quintal: espaço aberto adjunto a uma casa (também: jarda, cercado)
+YARDING	(forma de yard) (substantivo) quintal: espaço aberto adjunto a uma casa (também: jarda, cercado)
+YARDS	(forma de yard) (substantivo) quintal: espaço aberto adjunto a uma casa (também: jarda, cercado)
+YARE	(adjetivo) ágil: ligeiro, pronto, veloz (também: rápido)
+YARER	(forma de yare) (adjetivo) ágil: ligeiro, pronto, veloz (também: rápido)
+YAREST	(forma de yare) (adjetivo) ágil: ligeiro, pronto, veloz (também: rápido)
+YARROW	(substantivo) yarrow se traduz como ⟪milefólio|MILEFOLIO⟫
+YARROWS	(forma de yarrow) (substantivo) yarrow se traduz como ⟪milefólio|MILEFOLIO⟫
+YAWN	(substantivo) yawn se traduz como ⟪bocejo⟫\n(verbo) bocejar: fazer bocejos; abrir a boca de forma involuntária, quando se tem sono ou fome ou quando se está aborrecido:
+YAWNED	(forma de yawn) (substantivo) yawn se traduz como ⟪bocejo⟫
+YAWNER	(substantivo) bocejador: pessoa boceijadora
+YAWNERS	(forma de yawner) (substantivo) bocejador: pessoa boceijadora
+YAWNING	(forma de yawn) (substantivo) yawn se traduz como ⟪bocejo⟫
+YAWNS	(forma de yawn) (substantivo) yawn se traduz como ⟪bocejo⟫
+YEAH	(advérbio) yeah se traduz como ⟪sim⟫\n(interjeição) yeah se traduz como expressa contentamento, ⟪alegria⟫, ⟪concordância|CONCORDANCIA⟫, etc
+YEAR	(substantivo) ano, espaço de tempo correspondente à revolução da Terra em torno do Sol que equivale a 365 dias, 6 horas, 13 minutos e 53 segundos
+YEARN	(verbo) ansiar: desejar ardentemente
+YEARNED	(forma de yearn) (verbo) ansiar: desejar ardentemente
+YEARNING	(substantivo) apetite: desejo, vontade (também: saudade)
+YEARNINGS	(forma de yearn) (verbo) ansiar: desejar ardentemente
+YEARNS	(forma de yearn) (verbo) ansiar: desejar ardentemente
+YEAST	(substantivo) levedura: nome genérico de certos fungos, agentes de fermentação que respiram, quer aeróbia, quer anaerobiamente (também: fermento)
+YEASTED	(forma de yeast) (substantivo) levedura: nome genérico de certos fungos, agentes de fermentação que respiram, quer aeróbia, quer...
+YEASTING	(forma de yeast) (substantivo) levedura: nome genérico de certos fungos, agentes de fermentação que respiram, quer aeróbia, quer...
+YEASTS	(forma de yeast) (substantivo) levedura: nome genérico de certos fungos, agentes de fermentação que respiram, quer aeróbia, quer...
+YELL	(substantivo) yell se traduz como ⟪grito⟫\n(verbo) gritar: pedir ou reclamar em voz alta:
+YELLED	(forma de yell) (substantivo) yell se traduz como ⟪grito⟫
+YELLING	(forma de yell) (substantivo) yell se traduz como ⟪grito⟫
+YELLOW	(adjetivo) yellow se traduz como ⟪amarelo⟫\n(substantivo) yellow se traduz como ⟪amarelo⟫
+YELLOWED	(forma de yellow) (adjetivo) yellow se traduz como ⟪amarelo⟫
+YELLOWER	(forma de yellow) (adjetivo) yellow se traduz como ⟪amarelo⟫
+YELLOWEST	(forma de yellow) (adjetivo) yellow se traduz como ⟪amarelo⟫
+YELLOWING	(forma de yellow) (adjetivo) yellow se traduz como ⟪amarelo⟫
+YELLOWISH	(adjetivo) amarelado: de cor amarela ou de tonalidade semelhante à cor amarela
+YELLOWLY	(forma de yellow) (adjetivo) yellow se traduz como ⟪amarelo⟫
+YELLOWS	(forma de yellow) (adjetivo) yellow se traduz como ⟪amarelo⟫
+YELLS	(forma de yell) (substantivo) yell se traduz como ⟪grito⟫
+YEN	(substantivo) yen se traduz como ⟪iene⟫
+YENNED	(forma de yen) (substantivo) yen se traduz como ⟪iene⟫
+YENNING	(forma de yen) (substantivo) yen se traduz como ⟪iene⟫
+YENS	(forma de yen) (substantivo) yen se traduz como ⟪iene⟫
+YES	(advérbio) sim: ato de aceitar\n(interjeição) sim: ato de aceitar
+YESES	(forma de yes) (advérbio) sim: ato de aceitar
+YESSED	(forma de yes) (advérbio) sim: ato de aceitar
+YESSING	(forma de yes) (advérbio) sim: ato de aceitar
+YESTER	(adjetivo) hesterno: de ontem
+YESTERDAY	(advérbio) ontem: no dia anterior ao de hoje
+YESTERDAYS	(forma de yesterday) (advérbio) ontem: no dia anterior ao de hoje
+YESTERN	(adjetivo) hesterno: de ontem
+YET	(advérbio) yet se traduz como ⟪ainda⟫\n(conjunção) yet se traduz como ⟪mas⟫, ⟪contudo⟫, ⟪todavia⟫
+YEW	(substantivo) teixo: árvore conífera de lento crescimento, às vezes de tamanho arbustivo, da espécie Taxus baccata
+YEWS	(forma de yew) (substantivo) teixo: árvore conífera de lento crescimento, às vezes de tamanho arbustivo, da espécie Taxus baccata
+YIELD	(substantivo) efeito: estado permanente provocado por uma ação; consequência, resultado (também: resultado, retorno)
+YIELDED	(forma de yield) (substantivo) efeito: estado permanente provocado por uma ação; consequência, resultado (também: resultado, retorno)
+YIELDING	(forma de yield) (substantivo) efeito: estado permanente provocado por uma ação; consequência, resultado (também: resultado, retorno)
+YIELDS	(forma de yield) (substantivo) efeito: estado permanente provocado por uma ação; consequência, resultado (também: resultado, retorno)
+YOGA	(substantivo) yoga se traduz como ⟪ioga⟫
+YOGAS	(forma de yoga) (substantivo) yoga se traduz como ⟪ioga⟫
+YOGHOURT	(substantivo) iogurte: forma de leite espessa, branca, levemente ácida e muito nutritiva, cuja lactose foi transformada em ácido láctico, por fermentação bacteriana
+YOGHOURTS	(forma de yoghourt) (substantivo) iogurte: forma de leite espessa, branca, levemente ácida e muito nutritiva, cuja lactose foi transformada...
+YOGHURT	(substantivo) iogurte: forma de leite espessa, branca, levemente ácida e muito nutritiva, cuja lactose foi transformada em ácido láctico, por fermentação bacteriana
+YOGHURTS	(forma de yoghurt) (substantivo) iogurte: forma de leite espessa, branca, levemente ácida e muito nutritiva, cuja lactose foi transformada...
+YOGI	(substantivo) yogi se traduz como ⟪iogue⟫
+YOGIN	(forma de yogi) (substantivo) yogi se traduz como ⟪iogue⟫
+YOGIS	(forma de yogi) (substantivo) yogi se traduz como ⟪iogue⟫
+YOGURT	(substantivo) iogurte: forma de leite espessa, branca, levemente ácida e muito nutritiva, cuja lactose foi transformada em ácido láctico, por fermentação bacteriana
+YOGURTS	(forma de yogurt) (substantivo) iogurte: forma de leite espessa, branca, levemente ácida e muito nutritiva, cuja lactose foi transformada...
+YOKE	(substantivo) yoke se traduz como ⟪jugo⟫
+YOKED	(forma de yoke) (substantivo) yoke se traduz como ⟪jugo⟫
+YOKES	(forma de yoke) (substantivo) yoke se traduz como ⟪jugo⟫
+YOKING	(forma de yoke) (substantivo) yoke se traduz como ⟪jugo⟫
+YOLK	(substantivo) a gema do ovo
+YOLKED	(forma de yolk) (substantivo) a gema do ovo
+YOLKS	(forma de yolk) (substantivo) a gema do ovo
+YORE	(substantivo) antigamente: em tempo anterior ao atual; dantes (também: outrora)
+YORES	(forma de yore) (substantivo) antigamente: em tempo anterior ao atual; dantes (também: outrora)
+YOU	(pronome) caso nominativo da segunda pessoa do singular, tu, você
+YOUNG	(adjetivo) novo: (no plural) as novas pessoas (também: jovem)
+YOUNGEST	(forma de young) (adjetivo) novo: (no plural) as novas pessoas (também: jovem)
+YOUNGS	(forma de young) (adjetivo) novo: (no plural) as novas pessoas (também: jovem)
+YOUNGSTER	(substantivo) criança: menino ou menina (também: jovem)
+YOUNGSTERS	(forma de youngster) (substantivo) criança: menino ou menina (também: jovem)
+YOUR	(pronome) teu: Pronome adjetivo (também: seu, sua)
+YOURS	(pronome) seu: de posse da terceira pessoa (dele, dela, deles, delas) (também: seus)
+YOURSELF	(pronome) pronome reflexivo da segunda pessoa do singular
+YOUTH	(substantivo) juventude: os jovens, considerados como uma unidade ou um todo
+YOUTHS	(forma de youth) (substantivo) juventude: os jovens, considerados como uma unidade ou um todo
+YTTERBIUM	(substantivo) itérbio: elemento químico de símbolo Yb, possui o número atômico 70 e massa atômica relativa 173,04 u; é um metal de transição interna (lantanídeo) de cor branco prateado; é obtido de minerais como a gadolinita, euxenita e a monazita; é utilizado em aparelhos de raio-x portáteis e em ligas metálicas para...
+YTTERBIUMS	(forma de ytterbium) (substantivo) itérbio: elemento químico de símbolo Yb, possui o número atômico 70 e massa atômica relativa 173,04 u; é...
+YTTRIUM	(substantivo) ítrio: elemento químico de símbolo Y, possui o número atômico 39 e massa atômica relativa 88,905 u; é um metal de transição, encontrado sólido na temperatura ambiente; é obtido associado às terras raras devido à origem geoquímica comum; é utilizado na fabricação de ligas, vidros óticos, cerâmicas e,...
+YTTRIUMS	(forma de yttrium) (substantivo) ítrio: elemento químico de símbolo Y, possui o número atômico 39 e massa atômica relativa 88,905 u; é um...
+YUCK	(interjeição) yuck se traduz como ⟪eco⟫, ⟪eca⟫
+YUCKED	(forma de yuck) (interjeição) yuck se traduz como ⟪eco⟫, ⟪eca⟫
+YUCKING	(forma de yuck) (interjeição) yuck se traduz como ⟪eco⟫, ⟪eca⟫
+YUCKS	(forma de yuck) (interjeição) yuck se traduz como ⟪eco⟫, ⟪eca⟫
+YUMMIER	(forma de yummy) (adjetivo) delicioso: agradável; aprazível; excelente; saboroso
+YUMMIEST	(forma de yummy) (adjetivo) delicioso: agradável; aprazível; excelente; saboroso
+YUMMY	(adjetivo) delicioso: agradável; aprazível; excelente; saboroso

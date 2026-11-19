@@ -1,0 +1,2382 @@
+FABLE	(名詞) fableの訳: ⟪寓話|ぐうわ⟫
+FABLES	(名詞) "fable" の複数形: ⟪寓話|ぐうわ⟫\n(動詞) "fable" の現在第三人称単数形。
+FABLING	(fableの変化形) (名詞) fableの訳: ⟪寓話|ぐうわ⟫
+FABRIC	(名詞) 織物: （おりもの）糸など繊維状のものを縦横に組み合わせきれ・ぬのなどを作ること。また、作ったもの、特に、それで仕立てた衣服。 (ほかに: 生地)
+FABRICANT	(名詞) 製作者。製造業者。
+FABRICANTS	(名詞) fabricantの複数形: 製作者。製造業者。
+FABRICATE	(動詞) 捏ち上げる。偽造する。
+FABRICATED	(動詞) fabricateの過去形・過去分詞: 捏ち上げる。偽造する。\n(形容詞) fabricatedの訳: 組み立てた
+FABRICATES	(動詞) fabricateの直説法現在第三人称単数形: 捏ち上げる。偽造する。
+FABRICATING	(動詞) fabricateの現在分詞: 捏ち上げる。偽造する。
+FABRICATION	(名詞) fabricationの訳: 偽造, 捏ち上げ
+FABRICATIONS	(名詞) fabricationの複数形: 偽造, 捏ち上げ
+FABRICS	(名詞) fabricの複数形: 織物: （おりもの）糸など繊維状のものを縦横に組み合わせきれ・ぬのなどを作ること。また、作ったもの、特に、それで仕立てた衣服。 (ほかに: 生地)
+FABULOUS	(形容詞) fabulousの訳: 寓話の, 寓話に関する
+FACADE	(名詞) （建物の）正面。ファサード。
+FACADES	(名詞) facadeの複数形: （建物の）正面。ファサード。
+FACE	(名詞) 顔: （かお）人や多くの動物の頭部において前面にあり、目、鼻、口のある部位。\n(動詞) faceの訳: ～の方を向く
+FACED	(動詞) "face" の過去形・過去分詞形: 顔: （かお）人や多くの動物の頭部において前面にあり、目、鼻、口のある部位。
+FACELESS	(形容詞) 無名の: 名前が無いこと。未だ命名されていないこと。
+FACES	(名詞) face の複数形: 顔: （かお）人や多くの動物の頭部において前面にあり、目、鼻、口のある部位。
+FACETIOUS	(形容詞) 滑稽な、おどけた。(特に、軽薄もしくは場違いなユーモアである様子を示す)
+FACETIOUSLY	(副詞) facetiouslyの訳: 滑稽に
+FACILE	(形容詞) 容易な、たやすく得られる。
+FACILELY	(facileの変化形) (形容詞) 容易な、たやすく得られる。
+FACILITATE	(動詞) 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 容易にする, 促す)
+FACILITATED	(動詞) facilitateの過去形・過去分詞: 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 容易にする, 促す)
+FACILITATES	(動詞) facilitateの直説法現在第三人称単数形: 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 容易にする, 促す)
+FACILITATING	(動詞) facilitateの現在分詞: 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 容易にする, 促す)
+FACILITIES	(名詞) "facility" の複数形: 施設: 建築物などを拵え、設けること。また、その建築物など。 (ほかに: 設備, 機関)
+FACILITY	(名詞) 施設: 建築物などを拵え、設けること。また、その建築物など。 (ほかに: 設備, 機関)
+FACING	(動詞) "face" の動名詞形又は現在分詞形: 顔: （かお）人や多くの動物の頭部において前面にあり、目、鼻、口のある部位。
+FACINGS	(faceの変化形) (名詞) 顔: （かお）人や多くの動物の頭部において前面にあり、目、鼻、口のある部位。
+FACT	(名詞) factの訳: ⟪犯行|はんこう⟫\n(感動詞) factの訳: 実は
+FACTION	(名詞) factionの訳: 派閥
+FACTIONS	(factionの変化形) (名詞) factionの訳: 派閥
+FACTOR	(名詞) factorの訳: ⟪要因|よういん⟫, ⟪要素|ようそ⟫\n(動詞) 代理人を務める。
+FACTORED	(動詞) "factor" の過去形・過去分詞形: ⟪要因|よういん⟫, ⟪要素|ようそ⟫
+FACTORIAL	(名詞) factorialの訳: 階乗
+FACTORIALS	(factorialの変化形) (名詞) factorialの訳: 階乗
+FACTORIES	(factoryの変化形) (名詞) 工場。工廠。製造所。
+FACTORING	(動詞) "factor" の動名詞形又は現在分詞形: ⟪要因|よういん⟫, ⟪要素|ようそ⟫\n(名詞) ファクタリング、債権回収代行業。
+FACTORIZATION	(名詞) factorizationの訳: 因数分解
+FACTORIZATIONS	(名詞) factorizationの複数形: 因数分解
+FACTORIZE	(動詞) （主に米）因数分解する。素因数分解する。
+FACTORIZED	(動詞) "factorize" の過去形・過去分詞形: （主に米）因数分解する。素因数分解する。
+FACTORIZES	(動詞) "factorize" の三人称単数現在形: （主に米）因数分解する。素因数分解する。
+FACTORIZING	(動詞) "factorize" の動名詞形又は現在分詞形: （主に米）因数分解する。素因数分解する。
+FACTORS	(名詞) "factor" の複数形: ⟪要因|よういん⟫, ⟪要素|ようそ⟫\n(動詞) "factor" の三人称単数現在形: ⟪要因|よういん⟫, ⟪要素|ようそ⟫
+FACTORY	(名詞) 工場。工廠。製造所。
+FACTS	(名詞) "fact" の複数形: ⟪犯行|はんこう⟫
+FACTUAL	(形容詞) 事実の。事実に基づく。
+FACTUALITIES	(名詞) factualityの複数形: 事実性
+FACTUALITY	(名詞) factualityの訳: 事実性
+FACTUALLY	(副詞) 事実上。事実に基づいて。
+FACTUALNESS	(名詞) factualnessの訳: 事実性
+FACTUALNESSES	(factualnessの変化形) (名詞) factualnessの訳: 事実性
+FACULTIES	(名詞) facultyの複数形: 能力, ⟪技能|ぎのう⟫
+FACULTY	(名詞) facultyの訳: 能力, ⟪技能|ぎのう⟫
+FADE	(名詞) fadeの訳: フェード\n(動詞) かすかになる。か弱くなる。弱まる。
+FADED	(動詞) "fade" の過去形・過去分詞形: フェード
+FADER	(名詞) faderの訳: 減衰器
+FADERS	(名詞) faderの複数形: 減衰器
+FADES	(名詞) fadeの複数形: フェード\n(動詞) fadeの直説法現在第三人称単数形: フェード
+FADING	(動詞) "fade" の動名詞形又は現在分詞形: フェード
+FADINGS	(fadeの変化形) (名詞) fadeの訳: フェード
+FAIL	(動詞) failの訳: ～に失敗する, 落ちる, 落第する\n(名詞) 失敗: うまくいかなかったこと。やりそこなうこと。しくじること。 (ほかに: 落第)
+FAILED	(動詞) failの過去形・過去分詞: ～に失敗する, 落ちる, 落第する\n(形容詞) failedの訳: 失敗した
+FAILING	(動詞) failの現在分詞: ～に失敗する、落ちる、落第する。\n(名詞) failingの訳: ⟪弱点|じゃくてん⟫, 欠点
+FAILINGLY	(failの変化形) (動詞) failの訳: ～に失敗する, 落ちる, 落第する
+FAILINGS	(名詞) failingの複数形: failの現在分詞: ～に失敗する、落ちる、落第する。
+FAILS	(動詞) failの直説法現在第三人称単数形: ～に失敗する, 落ちる, 落第する\n(名詞) failの複数形: ～に失敗する, 落ちる, 落第する
+FAILURE	(名詞) 失敗: うまくいかなかったこと。やりそこなうこと。しくじること。 (ほかに: 失敗作)
+FAILURES	(名詞) failureの複数形: 失敗: うまくいかなかったこと。やりそこなうこと。しくじること。 (ほかに: 失敗作)
+FAINT	(形容詞) 微かな。弱弱しい。\n(名詞) 気絶。失神。
+FAINTED	(動詞) faintの過去形・過去分詞: 微かな。弱弱しい。
+FAINTER	(faintの変化形) (形容詞) 微かな。弱弱しい。
+FAINTEST	(形容詞) faintの最上級: 微かな。弱弱しい。
+FAINTHEARTED	(形容詞) 臆病な: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 弱気な, 小心な)
+FAINTHEARTEDLY	(副詞) 臆病に。弱気に。小心に。
+FAINTING	(動詞) faintの現在分詞: 微かな。弱弱しい。\n(名詞) 失神: 急激な恐怖や外部からの攻撃などにより、一時的に意識を失うこと。
+FAINTLY	(副詞) 微かに。弱弱しく。
+FAINTNESS	(名詞) 微かなこと。弱々しさ。
+FAINTNESSES	(名詞) faintnessの複数形: 微かなこと。弱々しさ。
+FAINTS	(名詞) faintの複数形: 微かな。弱弱しい。\n(動詞) faintの直説法現在第三人称単数形: 微かな。弱弱しい。
+FAIR	(形容詞) fairの訳: 美しい\n(名詞) fairの訳: 公正さ
+FAIRED	(動詞) "fair" の過去形・過去分詞形: 美しい
+FAIRER	(形容詞) "fair" の比較級形: 美しい\n(名詞) fairする人。
+FAIREST	(形容詞) "fair" の最上級形: 美しい
+FAIRIES	(fairyの変化形) (名詞) fairyの訳: 妖精
+FAIRING	(動詞) "fair" の動名詞形又は現在分詞形: 美しい
+FAIRINGS	(fairの変化形) (形容詞) fairの訳: 美しい
+FAIRLY	(副詞) 公正に: 公平で、かつ正しいこと。
+FAIRNESS	(名詞) 公平。公正。
+FAIRNESSES	(名詞) fairnessの複数形: 公平。公正。
+FAIRS	(名詞) "fair" の複数形: 美しい\n(動詞) "fair" の三人称単数現在形: 美しい
+FAIRY	(名詞) fairyの訳: 妖精
+FAITH	(名詞) faithの訳: ⟪信頼|しんらい⟫, ⟪信用|しんよう⟫
+FAITHFUL	(形容詞) faithfulの訳: 忠実な, 誠実な\n(名詞) faithfulの訳: 熱心な支持者
+FAITHFULLY	(副詞) faithfullyの訳: 忠実に, 正確に, ⟪そのまま⟫, 貞淑に
+FAITHFULNESS	(名詞) 忠実。忠誠。貞節。
+FAITHFULNESSES	(名詞) faithfulnessの複数形: 忠実。忠誠。貞節。
+FAITHFULS	(faithfulの変化形) (形容詞) faithfulの訳: 忠実な, 誠実な
+FAITHING	(faithの変化形) (名詞) faithの訳: ⟪信頼|しんらい⟫, ⟪信用|しんよう⟫
+FAITHS	(名詞) faithの複数形: ⟪信頼|しんらい⟫, ⟪信用|しんよう⟫
+FAKE	(名詞) 偽物。贋作。\n(形容詞) 偽の。いかさまの。欺騙的な。
+FAKED	(動詞) "fake" の過去形・過去分詞形: 偽物。贋作。
+FAKEER	(fakeの変化形) (名詞) 偽物。贋作。
+FAKEERS	(fakeの変化形) (名詞) 偽物。贋作。
+FAKER	(形容詞) "fake" の比較級形: 偽物。贋作。\n(名詞) fakeする人。
+FAKERIES	(名詞) fakeryの複数形: ⟪いんちき⟫, 偽装, ⟪詐称|さしょう⟫
+FAKERS	(名詞) "faker" の複数形: "fake" の比較級形。
+FAKERY	(名詞) fakeryの訳: ⟪いんちき⟫, 偽装, ⟪詐称|さしょう⟫
+FAKES	(名詞) "fake" の複数形: 偽物。贋作。\n(動詞) "fake" の三人称単数現在形: 偽物。贋作。
+FAKING	(動詞) "fake" の動名詞形又は現在分詞形: 偽物。贋作。
+FALCHION	(名詞) つるぎ: 武器として使われる、両刃がついている刃物。
+FALCHIONS	(falchionの変化形) (名詞) つるぎ: 武器として使われる、両刃がついている刃物。
+FALCON	(名詞) 隼。鷹。\n(動詞) falconの訳: 鷹狩をする
+FALCONRIES	(falconryの変化形) (名詞) falconryの訳: 鷹狩り
+FALCONRY	(名詞) falconryの訳: 鷹狩り
+FALCONS	(名詞) "falcon" の複数形: 隼。鷹。\n(動詞) "falcon" の三人称単数現在形: 隼。鷹。
+FALL	(動詞) fallの訳: 落ちる\n(名詞) fallの訳: ⟪落下|らっか⟫, 下降, 低落, 墜落
+FALLACIES	(名詞) fallacyの複数形: 誤った考え。誤信。
+FALLACIOUS	(形容詞) 誤った。虚偽の。
+FALLACIOUSLY	(fallaciousの変化形) (形容詞) 誤った。虚偽の。
+FALLACY	(名詞) 誤った考え。誤信。
+FALLEN	(動詞) fallの過去分詞: 落ちる\n(形容詞) fallenの訳: 落ちた
+FALLIBILITIES	(名詞) fallibilityの複数形: 誤りを免れられない性質。
+FALLIBILITY	(名詞) 誤りを免れられない性質。
+FALLIBLE	(形容詞) 誤りを犯しやすい。当てにならない。
+FALLIBLY	(副詞) falliblyの訳: 誤りやすく
+FALLING	(動詞) fallの動名詞又は現在分詞: 落ちる\n(形容詞) 落ちる: （おちる）程度が低くなる。また比較して程度が低い。 (ほかに: 落下する, 墜落する)
+FALLOW	(名詞) 休閑地: 休閑している土地。\n(形容詞) （土地が）休閑中の。耕作していない。
+FALLOWED	(動詞) fallowの過去形・過去分詞: 休閑地: 休閑している土地。\n(形容詞) fallowedの訳: 休閑中の
+FALLOWING	(動詞) fallowの現在分詞: 休閑地: 休閑している土地。\n(名詞) fallowingの訳: 休閑期
+FALLOWS	(名詞) fallowの複数形: 休閑地: 休閑している土地。\n(動詞) fallowの直説法現在第三人称単数形: 休閑地: 休閑している土地。
+FALLS	(名詞) "fall" の複数形: 落ちる\n(動詞) "fall" の三人称単数現在形: 落ちる
+FALSE	(形容詞) falseの訳: 正しくない\n(副詞) falseの訳: 裏切って
+FALSEHOOD	(名詞) falsehoodの訳: 嘘
+FALSEHOODS	(falsehoodの変化形) (名詞) falsehoodの訳: 嘘
+FALSELY	(副詞) falselyの訳: 誤って
+FALSER	(falseの変化形) (形容詞) falseの訳: 正しくない
+FALSEST	(falseの変化形) (形容詞) falseの訳: 正しくない
+FALSIFIABLE	(形容詞) falsifiableの訳: 反証可能な
+FALSIFICATION	(名詞) 偽造: 本物と信じさせようとして、他の材料を用いて、ある物に似せた物を造ること。偽物を製造すること。 (ほかに: 変造, 改竄)
+FALSIFICATIONS	(名詞) falsificationの複数形: 偽造: 本物と信じさせようとして、他の材料を用いて、ある物に似せた物を造ること。偽物を製造すること。 (ほかに: 変造, 改竄)
+FALSIFIED	(形容詞) falsifiedの訳: 偽造された\n(動詞) falsifyの過去形・過去分詞: 改竄する: 不当に利益を得るために、文面を故意に変えること。 (ほかに: 偽造する, 変造する)
+FALSIFIER	(名詞) falsifierの訳: 偽造する人, 改竄する人
+FALSIFIERS	(名詞) falsifierの複数形: 偽造する人, 改竄する人
+FALSIFIES	(動詞) falsifyの直説法現在第三人称単数形: 改竄する: 不当に利益を得るために、文面を故意に変えること。 (ほかに: 偽造する, 変造する)
+FALSIFY	(動詞) 改竄する: 不当に利益を得るために、文面を故意に変えること。 (ほかに: 偽造する, 変造する)
+FALSIFYING	(動詞) falsifyの現在分詞: 改竄する: 不当に利益を得るために、文面を故意に変えること。 (ほかに: 偽造する, 変造する)\n(名詞) 改竄: 不当に利益を得るために、文面を故意に変えること。 (ほかに: 偽造, 変造)
+FALSITIES	(名詞) falsityの複数形: 嘘
+FALSITY	(名詞) falsityの訳: 嘘
+FALTER	(名詞) falterの訳: よろめき\n(動詞) ふらつく: 当てもなく歩き回る。 (ほかに: よろめく)
+FALTERED	(動詞) falterの過去形・過去分詞: よろめき
+FALTERER	(falterの変化形) (名詞) falterの訳: よろめき
+FALTERING	(形容詞) falteringの訳: よろめいた\n(動詞) falterの現在分詞: よろめき
+FALTERS	(動詞) falterの直説法現在第三人称単数形: よろめき\n(名詞) falterの複数形: よろめき
+FAME	(名詞) fameの訳: 評判\n(動詞) fameの訳: 有名にする
+FAMED	(形容詞) 有名な: ある世界において広く知られていること。
+FAMES	(動詞) fameの三人称単数現在形: 評判
+FAMILIAL	(形容詞) 親族の: 親子関係及び婚姻関係の組み合わせにより関係付けられる人の集団。親戚。親属。 (ほかに: 家族の)
+FAMILIAR	(形容詞) 親しい。親密な。\n(名詞) familiarの訳: 親友
+FAMILIARITIES	(名詞) "familiarity" の複数形: 熟知: ある物事について詳しく知ること。
+FAMILIARITY	(名詞) 熟知: ある物事について詳しく知ること。
+FAMILIARIZE	(動詞) familiarizeの訳: 親ませる
+FAMILIARIZED	(動詞) "familiarize" の過去形・過去分詞形: 親ませる
+FAMILIARIZES	(動詞) "familiarize" の三人称単数現在形: 親ませる
+FAMILIARIZING	(動詞) "familiarize" の動名詞形又は現在分詞形: 親ませる
+FAMILIARLY	(副詞) 親しく。馴れ馴れしく。
+FAMILIARS	(familiarの変化形) (形容詞) 親しい。親密な。
+FAMILIES	(名詞) familyの複数形: 家族。一家。
+FAMILY	(名詞) 家族。一家。\n(形容詞) 家族の。親族の。
+FAMINE	(名詞) 飢饉: 物が不足すること。
+FAMINES	(名詞) famineの複数形: 飢饉: 物が不足すること。
+FAMING	(動詞) "fame" の動名詞形又は現在分詞形: 評判
+FAMOUS	(形容詞) 良い面で有名な、名高い、著名な
+FAMOUSLY	(副詞) famouslyの訳: 名高く
+FAMULI	(名詞) famulusの複数形: ⟪付き添い|つきそい⟫
+FAMULUS	(名詞) famulusの訳: ⟪付き添い|つきそい⟫
+FAN	(名詞) 扇: 手で振って風を起こす道具。 (ほかに: 団扇)\n(動詞) fanの訳: 扇ぐ, 風を送る
+FANCIED	(動詞) "fancy" の過去形・過去分詞形: 想像, ⟪空想|くうそう⟫
+FANCIER	(形容詞) "fancy" の比較級形: 想像, ⟪空想|くうそう⟫\n(名詞) fancyする人。
+FANCIERS	(名詞) "fancier" の複数形: "fancy" の比較級形。
+FANCIES	(名詞) "fancy" の複数形: 想像, ⟪空想|くうそう⟫\n(動詞) "fancy" の三人称単数現在形: 想像, ⟪空想|くうそう⟫
+FANCIEST	(形容詞) "fancy" の最上級形: 想像, ⟪空想|くうそう⟫
+FANCILY	(fancyの変化形) (名詞) fancyの訳: 想像, ⟪空想|くうそう⟫
+FANCY	(名詞) fancyの訳: 想像, ⟪空想|くうそう⟫\n(形容詞) 装飾の施された。
+FANCYING	(動詞) "fancy" の動名詞形又は現在分詞形: 想像, ⟪空想|くうそう⟫
+FANDOM	(名詞) スポーツや活動、特定の作品や人物などに対するファン、その集団。
+FANDOMS	(名詞) fandomの複数形: スポーツや活動、特定の作品や人物などに対するファン、その集団。
+FANES	(fanの変化形) (名詞) 扇: 手で振って風を起こす道具。 (ほかに: 団扇)
+FANG	(名詞) fangの訳: きば, 毒牙
+FANGS	(fangの変化形) (名詞) fangの訳: きば, 毒牙
+FANNED	(fanの変化形) (名詞) 扇: 手で振って風を起こす道具。 (ほかに: 団扇)
+FANNING	(fanの変化形) (名詞) 扇: 手で振って風を起こす道具。 (ほかに: 団扇)
+FANS	(fanの変化形) (名詞) 扇: 手で振って風を起こす道具。 (ほかに: 団扇)
+FANTASIED	(形容詞) 架空の。想像上の。\n(動詞) fantasyの過去形・過去分詞: （汎用的）ファンタジー。夢物語。幻想。空想。
+FANTASIES	(名詞) fantasyの複数形: （汎用的）ファンタジー。夢物語。幻想。空想。\n(動詞) fantasyの直説法現在第三人称単数形: （汎用的）ファンタジー。夢物語。幻想。空想。
+FANTASTIC	(形容詞) 素晴らしい: （すばらしい）（連用形で副詞的に）程度がはなはだしい様子。 (ほかに: 素敵な)
+FANTASTICS	(fantasticの変化形) (形容詞) 素晴らしい: （すばらしい）（連用形で副詞的に）程度がはなはだしい様子。 (ほかに: 素敵な)
+FANTASY	(名詞) （汎用的）ファンタジー。夢物語。幻想。空想。\n(動詞) 空想する: 現実からかけ離れたことをあれこれ想像すること。ファンシー。
+FANTASYING	(動詞) fantasyの現在分詞: （汎用的）ファンタジー。夢物語。幻想。空想。
+FAR	(形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)\n(副詞) farの訳: 隔絶して, 遠くに, 遠方に, はるかに
+FARAD	(名詞) ファラド: （物理）静電容量の単位（国際単位系;SI）。記号はF。
+FARADS	(faradの変化形) (名詞) ファラド: （物理）静電容量の単位（国際単位系;SI）。記号はF。
+FARAWAY	(形容詞) 遠方の: 遠くの場所。 (ほかに: 遠く離れた)
+FARCE	(名詞) 笑劇。道化芝居。茶番劇。\n(動詞) farceの訳: 詰め物をする
+FARCED	(動詞) farceの過去形・過去分詞: 笑劇。道化芝居。茶番劇。
+FARCER	(farceの変化形) (名詞) 笑劇。道化芝居。茶番劇。
+FARCES	(名詞) farceの複数形: 笑劇。道化芝居。茶番劇。\n(動詞) farceの直説法現在第三人称単数形: 笑劇。道化芝居。茶番劇。
+FARCICAL	(形容詞) 馬鹿げた。滑稽な。茶番じみた。笑劇の。
+FARCING	(名詞) farcingの訳: 味付け肉\n(動詞) farceの現在分詞: 笑劇。道化芝居。茶番劇。
+FARE	(名詞) fareの訳: ⟪運賃|うんちん⟫\n(動詞) fareの訳: ～となる
+FARED	(動詞) fareの過去形・過去分詞: ⟪運賃|うんちん⟫
+FARER	(farの変化形) (形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)
+FARES	(名詞) "fare" の複数形: ⟪運賃|うんちん⟫\n(動詞) "fare" の現在第三人称単数形。
+FAREWELL	(名詞) farewellの訳: 別れの挨拶, 送別会\n(形容詞) farewellの訳: 別れの, 送別の
+FAREWELLED	(動詞) farewellの過去形・過去分詞: 別れの挨拶, 送別会
+FAREWELLING	(動詞) farewellの現在分詞: 別れの挨拶, 送別会
+FAREWELLS	(名詞) farewellの複数形: 別れの挨拶, 送別会\n(動詞) farewellの直説法現在第三人称単数形: 別れの挨拶, 送別会
+FARINA	(名詞) 小麦粉: （こむぎこ）小麦を挽いて精製する粉。これを加工しうどんやパン等になる。 (ほかに: 穀粉)
+FARINAS	(名詞) farinaの複数形: 小麦粉: （こむぎこ）小麦を挽いて精製する粉。これを加工しうどんやパン等になる。 (ほかに: 穀粉)
+FARING	(動詞) "fare" の動名詞又は現在分詞: ⟪運賃|うんちん⟫
+FARM	(名詞) 農場: 農業をするところ。\n(動詞) farmの訳: 農場で働く
+FARMED	(動詞) "farm" の過去形・過去分詞形: 農場: 農業をするところ。
+FARMER	(名詞) 農夫: （時代がかった表現）農業をする人。農民、百姓。 (ほかに: 農場主, 農場経営者)
+FARMERS	(名詞) "farmer" の複数形: 農夫: （時代がかった表現）農業をする人。農民、百姓。 (ほかに: 農場主, 農場経営者)
+FARMHOUSE	(名詞) （農場内の）家屋。農家。
+FARMHOUSES	(名詞) farmhouseの複数形: （農場内の）家屋。農家。
+FARMING	(動詞) to farm の現在分詞: 農場。\n(名詞) 農業、飼育、養殖。
+FARMINGS	(farmの変化形) (名詞) 農場: 農業をするところ。
+FARMLAND	(名詞) 耕地: 耕作をする土地。 (ほかに: 農地)
+FARMLANDS	(名詞) farmlandの複数形: 耕地: 耕作をする土地。 (ほかに: 農地)
+FARMS	(名詞) "farm" の複数形: 農場: 農業をするところ。\n(動詞) "farm" の三人称単数現在形: 農場: 農業をするところ。
+FARMSTEAD	(名詞) 農場: 農業をするところ。
+FARMSTEADS	(名詞) farmsteadの複数形: 農場: 農業をするところ。
+FARMYARD	(名詞) farmyardの訳: 農家の庭
+FARMYARDS	(名詞) farmyardの複数形: 農家の庭
+FARNESS	(名詞) 遠いこと。遠方。
+FARNESSES	(名詞) farnessの複数形: 遠いこと。遠方。
+FARRAGO	(名詞) 寄せ集め: まとまりの無い集まり。由来が異なる複数の部分から構成される個体。キメラ。 (ほかに: ごた混ぜ)
+FARRAGOES	(名詞) farragoの複数形: 寄せ集め: まとまりの無い集まり。由来が異なる複数の部分から構成される個体。キメラ。 (ほかに: ごた混ぜ)
+FARRIER	(名詞) farrierの訳: 蹄鉄工, 蹄鉄師, 装蹄師
+FARRIERS	(farrierの変化形) (名詞) farrierの訳: 蹄鉄工, 蹄鉄師, 装蹄師
+FARSIGHTEDNESS	(名詞) 遠視: 遠方から眼内に入った平行光線が、調節力を働かせていないときに、網膜の後方に焦点を結ぶ状態。特に近くのものがはっきり見えにくい。遠目、遠視眼。
+FARSIGHTEDNESSES	(farsightednessの変化形) (名詞) 遠視: 遠方から眼内に入った平行光線が、調節力を働かせていないときに、網膜の後方に焦点を結ぶ状態。特に近くのものがはっきり見えにくい。遠目、遠視眼。
+FART	(名詞) おなら。屁。\n(動詞) fartの訳: 屁をこく
+FARTED	(fartの変化形) (名詞) おなら。屁。
+FARTHER	(形容詞) "far" の比較級形: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)\n(副詞) "far" の比較級形: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)
+FARTHEST	(形容詞) "far" の最上級形: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)\n(副詞) "far" の最上級形: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)
+FARTING	(fartの変化形) (名詞) おなら。屁。
+FARTS	(fartの変化形) (名詞) おなら。屁。
+FASCINATE	(動詞) fascinateの訳: 魅了する
+FASCINATED	(形容詞) fascinatedの訳: 魅了された\n(動詞) fascinateの過去形・過去分詞: 魅了する。
+FASCINATES	(動詞) "fascinate" の三人称単数現在形: 魅了する
+FASCINATING	(形容詞) fascinatingの訳: 魅力的な\n(動詞) fascinateの現在分詞: 魅了する。
+FASCINATION	(名詞) fascinationの訳: ⟪魅力|みりょく⟫
+FASCINATIONS	(fascinationの変化形) (名詞) fascinationの訳: ⟪魅力|みりょく⟫
+FASCINE	(名詞) fascineの訳: 粗朶
+FASCINES	(fascineの変化形) (名詞) fascineの訳: 粗朶
+FASCISM	(名詞) ファシズム: 第一次世界大戦後、イタリアで興った政治理念。自由主義や共産主義に反対し、独裁的な政治体制、対外的な侵略政策を主張する。
+FASCISMS	(名詞) fascismの複数形: ファシズム。
+FASHION	(名詞) ファッション: 方法、形式。 (ほかに: 流行, はやり)\n(動詞) fashionの訳: ⟪作り上げる|つくりあげる⟫
+FASHIONABLE	(形容詞) 流行の: 物事が一時的に社会に広まること。 (ほかに: はやりの)\n(名詞) fashionableの訳: 上級社会の人, 流行を追う人
+FASHIONABLES	(名詞) fashionableの複数形: 流行の: 物事が一時的に社会に広まること。 (ほかに: はやりの)
+FASHIONABLY	(副詞) fashionablyの訳: 流行を追って
+FASHIONED	(動詞) fashionの過去形・過去分詞: ファッション: 方法、形式。 (ほかに: 流行, はやり)\n(形容詞) fashionedの訳: 作った
+FASHIONING	(動詞) fashionの現在分詞: ファッション: 方法、形式。 (ほかに: 流行, はやり)\n(名詞) fashioningの訳: 製作, ⟪作成|さくせい⟫
+FASHIONS	(名詞) fashionの複数形: ファッション: 方法、形式。 (ほかに: 流行, はやり)\n(動詞) fashionの直説法現在第三人称単数形: ファッション: 方法、形式。 (ほかに: 流行, はやり)
+FAST	(形容詞) fastの訳: ⟪速い|はやい⟫\n(副詞) 速く。急速に。すぐに。素早く。
+FASTBALL	(名詞) 速球: 高速で飛ぶ球。主に球技におけるそれ。
+FASTBALLS	(fastballの変化形) (名詞) 速球: 高速で飛ぶ球。主に球技におけるそれ。
+FASTED	(動詞) fastの過去形・過去分詞: ⟪速い|はやい⟫
+FASTEN	(動詞) しっかり固定する。結びつける。つなぐ。留める。取り付ける。締結する。ボタンをかける。錠で締める。錠を掛ける。釘で打ちつける。ひもを結ぶ。ベルトを締める。縛り付ける。紙で封をする。戸締りをする。歯を噛み締める。爪を立てる。
+FASTENED	(動詞) fastenの過去形・過去分詞: しっかり固定する。結びつける。つなぐ。留める。取り付ける。締結する。ボタンをかける。錠で締める。錠を掛ける。釘で打ちつける。ひもを結ぶ。ベルトを締める。縛り付け...
+FASTENER	(名詞) fastenerの訳: ⟪留め具|とめぐ⟫, ファスナー
+FASTENERS	(名詞) fastenerの複数形: ⟪留め具|とめぐ⟫, ファスナー
+FASTENING	(動詞) "fasten" の動名詞形又は現在分詞形: しっかり固定する。結びつける。つなぐ。留める。取り付ける。締結する。ボタンをかける。錠で締める。錠を掛ける。釘で打ちつける。ひもを結ぶ。ベルトを締める。縛り付け...
+FASTENINGS	(fastenの変化形) (動詞) しっかり固定する。結びつける。つなぐ。留める。取り付ける。締結する。ボタンをかける。錠で締める。錠を掛ける。釘で打ちつける。ひもを結ぶ。ベルトを締める。縛り付ける。紙で封をする。戸締りをする。歯を噛み締める。爪を立てる。
+FASTENS	(動詞) fastenの直説法現在第三人称単数形: しっかり固定する。結びつける。つなぐ。留める。取り付ける。締結する。ボタンをかける。錠で締める。錠を掛ける。釘で打ちつける。ひもを結ぶ。ベルトを締める。縛り付け...
+FASTER	(形容詞) "fast" の比較級形: ⟪速い|はやい⟫\n(名詞) fasterの訳: 断食する人
+FASTEST	(形容詞) "fast" の最上級形: ⟪速い|はやい⟫
+FASTIDIOUS	(形容詞) 潔癖症の: (比喩、語義1より) 不正や汚職を嫌い、道徳的な清潔さを過度に求める人。 (ほかに: 几帳面な)
+FASTIDIOUSLY	(副詞) fastidiouslyの訳: 几帳面に
+FASTING	(動詞) fastの動名詞又は現在分詞: ⟪速い|はやい⟫\n(名詞) 断食。絶食。
+FASTINGS	(名詞) fastingの複数形: fastの動名詞又は現在分詞: ⟪速い|はやい⟫
+FASTNESS	(名詞) 迅速: 動きが速いこと。 (ほかに: 速さ)
+FASTNESSES	(名詞) fastnessの複数形: 迅速: 動きが速いこと。 (ほかに: 速さ)
+FASTS	(名詞) fastの複数形: ⟪速い|はやい⟫\n(動詞) fastの直説法現在第三人称単数形: ⟪速い|はやい⟫
+FAT	(形容詞) fatの訳: 太った\n(名詞) 油: 常温で液体又は、固体であっても比較的低温で液化する物質あるいはゲル状の物質で、その組成の多くが有機化合物のものであり、水と容易に混合しないもの。用字としては、液化したものに"油"、固形化しているものに"脂"を用いる。 (ほかに: 脂肪, 脂身)
+FATAL	(形容詞) fatalの訳: 決定的な, 運命を決する
+FATALISM	(名詞) 諦観: 俗世に対する欲望を断ち、超然とすること。 (ほかに: 運命論)
+FATALISMS	(名詞) fatalismの複数形: 諦観: 俗世に対する欲望を断ち、超然とすること。 (ほかに: 運命論)
+FATALIST	(名詞) fatalistの訳: 運命論者, 宿命論者
+FATALISTIC	(形容詞) fatalisticの訳: 運命論の, 諦観した
+FATALISTS	(名詞) fatalistの複数形: 運命論者, 宿命論者
+FATALITIES	(fatalityの変化形) (名詞) fatalityの訳: ⟪運命|うんめい⟫, ⟪宿命|しゅくめい⟫
+FATALITY	(名詞) fatalityの訳: ⟪運命|うんめい⟫, ⟪宿命|しゅくめい⟫
+FATALLY	(副詞) fatallyの訳: 致命的に
+FATE	(名詞) fateの訳: 凶運, 嫌な運命, ⟪宿命|しゅくめい⟫\n(動詞) 運命づける。凶運を強いる。悲惨な目に遭わせる。
+FATED	(形容詞) 宿命的な、運命づけられた\n(動詞) fateの過去形・過去分詞: 凶運, 嫌な運命, ⟪宿命|しゅくめい⟫
+FATEFUL	(形容詞) 重大な: 程度や性質などが非常に重要な様子。 (ほかに: 運命を決する)
+FATES	(名詞) fateの複数形: 凶運, 嫌な運命, ⟪宿命|しゅくめい⟫\n(動詞) fateの直説法現在第三人称単数形: 凶運, 嫌な運命, ⟪宿命|しゅくめい⟫
+FATHEAD	(名詞) 愚人: 愚かな人。 (ほかに: おろかもの, 愚者)
+FATHEADS	(fatheadの変化形) (名詞) 愚人: 愚かな人。 (ほかに: おろかもの, 愚者)
+FATHER	(名詞) 父: （ちち）おとこおや。男性である親。\n(動詞) 父親になる。種付けする。
+FATHERED	(動詞) fatherの過去形・過去分詞: 父: （ちち）おとこおや。男性である親。
+FATHERHOOD	(名詞) 父性: 父親としての性質。 (ほかに: 父であること, 父の資格)
+FATHERHOODS	(fatherhoodの変化形) (名詞) 父性: 父親としての性質。 (ほかに: 父であること, 父の資格)
+FATHERING	(動詞) fatherの動名詞又は現在分詞: 父: （ちち）おとこおや。男性である親。
+FATHERLAND	(名詞) 祖国。母国。
+FATHERLANDS	(名詞) fatherlandの複数形: 祖国。母国。
+FATHERLESS	(形容詞) fatherlessの訳: 父のない
+FATHERLY	(形容詞) fatherlyの訳: 父親のような, 父親らしい
+FATHERS	(名詞) fatherの複数形: 父: （ちち）おとこおや。男性である親。\n(動詞) fatherの直説法現在第三人称単数形: 父: （ちち）おとこおや。男性である親。
+FATHOM	(名詞) fathomの訳: ファゾム, 尋\n(動詞) fathomの訳: 水深を測る
+FATHOMED	(動詞) fathomの過去形・過去分詞: ファゾム, 尋
+FATHOMING	(動詞) fathomの現在分詞: ファゾム, 尋
+FATHOMS	(名詞) fathomの複数形: ファゾム, 尋\n(動詞) fathomの直説法現在第三人称単数形: ファゾム, 尋
+FATIGUE	(名詞) 疲れ。疲労。\n(動詞) 疲れさせる。疲労させる。
+FATIGUED	(形容詞) 疲れた。疲労した。\n(動詞) fatigueの過去形・過去分詞: 疲れ。疲労。
+FATIGUES	(名詞) fatigueの複数形: 疲れ。疲労。\n(動詞) fatigueの直説法現在第三人称単数形: 疲れ。疲労。
+FATIGUING	(動詞) fatigueの現在分詞: 疲れ。疲労。
+FATING	(動詞) fateの現在分詞: 凶運, 嫌な運命, ⟪宿命|しゅくめい⟫
+FATNESS	(名詞) 肥満: 肥え太ること。 (ほかに: 肥沃)
+FATNESSES	(名詞) fatnessの複数形: 肥満: 肥え太ること。 (ほかに: 肥沃)
+FATS	(動詞) "fat" の三人称単数現在形: 太った
+FATTED	(動詞) fatの過去形・過去分詞: 太った\n(形容詞) fattedの訳: 太らされた
+FATTEN	(動詞) fattenの訳: 太らせる
+FATTENED	(動詞) fattenの過去形・過去分詞: 太らせる
+FATTENING	(形容詞) fatteningの訳: 太らせる, 肥満のもとの\n(名詞) fatteningの訳: 太らせること
+FATTENS	(動詞) fattenの直説法現在第三人称単数形: 太らせる
+FATTER	(形容詞) "fat" の比較級形: 太った
+FATTEST	(形容詞) "fat" の最上級形: 太った
+FATTIER	(形容詞) fattyの比較級: 脂肪を含む, 脂肪分の多い
+FATTIES	(名詞) fattyの複数形: 脂肪を含む, 脂肪分の多い
+FATTIEST	(形容詞) fattyの最上級: 脂肪を含む, 脂肪分の多い
+FATTILY	(fattyの変化形) (形容詞) fattyの訳: 脂肪を含む, 脂肪分の多い
+FATTING	(動詞) fatの動名詞又は現在分詞: 太った
+FATTY	(形容詞) fattyの訳: 脂肪を含む, 脂肪分の多い\n(名詞) マリファナタバコ。
+FATWA	(名詞) fatwaの訳: ファトワー
+FATWAS	(fatwaの変化形) (名詞) fatwaの訳: ファトワー
+FAUCET	(名詞) （水道や樽の）蛇口。栓。コック。
+FAUCETS	(名詞) faucetの複数形: （水道や樽の）蛇口。栓。コック。
+FAULT	(名詞) 欠点。欠陥。短所。\n(動詞) 粗を探す。責める。非難する。
+FAULTED	(動詞) faultの過去形・過去分詞: 欠点。欠陥。短所。
+FAULTIER	(形容詞) faultyの比較級: 不完全な: 欠けたり違っていたりして完全でないこと。また、その様。 (ほかに: 欠点のある, 欠陥のある)
+FAULTIEST	(形容詞) faultyの最上級: 不完全な: 欠けたり違っていたりして完全でないこと。また、その様。 (ほかに: 欠点のある, 欠陥のある)
+FAULTINESS	(名詞) faultinessの訳: 不完全さ
+FAULTINESSES	(名詞) faultinessの複数形: 不完全さ
+FAULTING	(動詞) faultの現在分詞: 欠点。欠陥。短所。\n(名詞) 断層: 何らかの力が加わって出来る地層のずれ。
+FAULTLESS	(形容詞) 欠点のない。完全な。完璧な。
+FAULTLESSLY	(副詞) 完璧に: 欠点が全くないこと。完全。パーフェクト。
+FAULTS	(名詞) faultの複数形: 欠点。欠陥。短所。\n(動詞) faultの直説法現在第三人称単数形: 欠点。欠陥。短所。
+FAULTY	(形容詞) 不完全な: 欠けたり違っていたりして完全でないこと。また、その様。 (ほかに: 欠点のある, 欠陥のある)
+FAUNA	(名詞) faunaの訳: 動物群
+FAUNAE	(名詞) faunaの複数形: 動物群。
+FAUNAS	(名詞) faunaの複数形: 動物群。
+FAVAS	(名詞) favaの複数形。
+FAVOR	(名詞) 支持: ある人物や物事や思想などに同感し、後援すること。\n(動詞) favorの訳: 支持する
+FAVORABLE	(形容詞) 承諾の: 他人の依頼や意見、要求、希望などを、受け入れること。 (ほかに: 好意的な)
+FAVORABLY	(副詞) favorablyの訳: 好意的に
+FAVORED	(形容詞) favouredの異綴。\n(動詞) favorの過去形・過去分詞: 支持: ある人物や物事や思想などに同感し、後援すること。
+FAVORING	(動詞) "favor" の動名詞形又は現在分詞形: 支持: ある人物や物事や思想などに同感し、後援すること。
+FAVORITE	(形容詞) favoriteの訳: お気に入りの\n(名詞) favoriteの訳: お気に入り
+FAVORITES	(favoriteの変化形) (形容詞) favoriteの訳: お気に入りの
+FAVORITISM	(名詞) 贔屓: 自分の気に入った者を特別扱いして、力を添えたり優遇したりすること。扱いに不公平に差をつけて、愛情を注ぐこと。
+FAVORITISMS	(favoritismの変化形) (名詞) 贔屓: 自分の気に入った者を特別扱いして、力を添えたり優遇したりすること。扱いに不公平に差をつけて、愛情を注ぐこと。
+FAVORS	(名詞) "favor" の複数形: 支持: ある人物や物事や思想などに同感し、後援すること。\n(動詞) "favor" の三人称単数現在形: 支持: ある人物や物事や思想などに同感し、後援すること。
+FAVOUR	(名詞) 好意: 親切心。善意。厚情。 (ほかに: 親切)\n(動詞) favourの訳: 支持する, 賛成する, 支援する
+FAVOURED	(形容詞) favouredの訳: 優遇された, 恵まれている\n(動詞) favourの過去形・過去分詞: 好意: 親切心。善意。厚情。 (ほかに: 親切)
+FAVOURING	(動詞) "favour" の動名詞形又は現在分詞形: 好意: 親切心。善意。厚情。 (ほかに: 親切)
+FAVOURS	(名詞) "favour" の複数形: 好意: 親切心。善意。厚情。 (ほかに: 親切)\n(動詞) "favour" の三人称単数現在形: 好意: 親切心。善意。厚情。 (ほかに: 親切)
+FAWN	(名詞) fawnの訳: 子鹿\n(形容詞) fawnの訳: 淡黄褐色の
+FAWNED	(動詞) fawnの過去形・過去分詞: 子鹿
+FAWNING	(fawnの変化形) (名詞) fawnの訳: 子鹿
+FAWNS	(名詞) fawnの複数形: 子鹿\n(動詞) fawnの直説法現在第三人称単数形: 子鹿
+FAZE	(動詞) fazeの訳: 動揺させる, 困惑させる
+FAZED	(動詞) fazeの過去形・過去分詞: 動揺させる, 困惑させる
+FAZES	(動詞) fazeの直説法現在第三人称単数形: 動揺させる, 困惑させる
+FAZING	(動詞) fazeの現在分詞: 動揺させる, 困惑させる
+FEAR	(名詞) 恐れ: 恐れること。恐怖。 (ほかに: 恐怖)\n(動詞) fearの訳: ⟪恐れる|おそれる⟫
+FEARED	(形容詞) fearedの訳: 恐れた, 心配した\n(動詞) fearの過去形・過去分詞: 恐れ: 恐れること。恐怖。 (ほかに: 恐怖)
+FEARFUL	(形容詞) fearfulの訳: 恐ろしい
+FEARFULLER	(fearfulの変化形) (形容詞) fearfulの訳: 恐ろしい
+FEARFULLEST	(fearfulの変化形) (形容詞) fearfulの訳: 恐ろしい
+FEARFULLY	(副詞) fearfullyの訳: 恐る恐る
+FEARING	(動詞) fearの動名詞又は現在分詞: 恐れ: 恐れること。恐怖。 (ほかに: 恐怖)\n(形容詞) 恐れる: （恐れる、惧れる）悪いことが起こるのではないかと心配する。危惧する。
+FEARLESS	(形容詞) fearlessの訳: 大胆な
+FEARLESSLY	(副詞) fearlesslyの訳: 恐れずに
+FEARLESSNESS	(名詞) 勇気: 恐怖、不安、躊躇、あるいは恥ずかしいなどと感じることに対して、恐れることなく積極的に立ち向かう、あるいはそれらを敢えて行う強い意思。
+FEARLESSNESSES	(fearlessnessの変化形) (名詞) 勇気: 恐怖、不安、躊躇、あるいは恥ずかしいなどと感じることに対して、恐れることなく積極的に立ち向かう、あるいはそれらを敢えて行う強い意思。
+FEARS	(名詞) fearの複数形: 恐れ: 恐れること。恐怖。 (ほかに: 恐怖)\n(動詞) fearの直説法現在第三人称単数形: 恐れ: 恐れること。恐怖。 (ほかに: 恐怖)
+FEARSOME	(形容詞) 凄まじい: （すさまじい）（限定的）程度が甚だしく、恐怖を感じさせる。凄惨だ。 (ほかに: 恐ろしい)
+FEARSOMELY	(副詞) fearsomelyの訳: 恐ろしく
+FEAST	(名詞) 宴会: 祝い事に際して、飲食をともにし懇親を深める会合。特に酒席である場合を言う。 (ほかに: 祝宴)\n(動詞) feastの訳: 御馳走になる
+FEASTED	(動詞) feastの過去形・過去分詞: 宴会: 祝い事に際して、飲食をともにし懇親を深める会合。特に酒席である場合を言う。 (ほかに: 祝宴)
+FEASTING	(動詞) feastの現在分詞: 宴会: 祝い事に際して、飲食をともにし懇親を深める会合。特に酒席である場合を言う。 (ほかに: 祝宴)\n(名詞) 宴会: 祝い事に際して、飲食をともにし懇親を深める会合。特に酒席である場合を言う。 (ほかに: 祝宴)
+FEASTS	(名詞) feastの複数形: 宴会: 祝い事に際して、飲食をともにし懇親を深める会合。特に酒席である場合を言う。 (ほかに: 祝宴)\n(動詞) feastの直説法現在第三人称単数形: 宴会: 祝い事に際して、飲食をともにし懇親を深める会合。特に酒席である場合を言う。 (ほかに: 祝宴)
+FEAT	(名詞) 手柄: 功名。功績。 (ほかに: 偉業, 業績)
+FEATER	(featの変化形) (名詞) 手柄: 功名。功績。 (ほかに: 偉業, 業績)
+FEATEST	(featの変化形) (名詞) 手柄: 功名。功績。 (ほかに: 偉業, 業績)
+FEATHER	(名詞) 羽: （は、はね）鳥類の体表を覆う構造物。体表とは硬質の軸上のもので接続しており、その軸に軟質の毛状のものが密生している。鳥類においては、前肢のものが発達しており、飛行のための不可欠な器官となっている。羽根。 (ほかに: 羽毛)\n(動詞) 羽毛で覆う。羽毛で飾る。
+FEATHERED	(形容詞) 羽のある。羽の生えた。\n(動詞) featherの過去形・過去分詞: 羽:...
+FEATHERING	(動詞) "feather" の動名詞又は現在分詞: 羽:...
+FEATHERINGS	(featherの変化形) (名詞) 羽: （は、はね）鳥類の体表を覆う構造物。体表とは硬質の軸上のもので接続しており、その軸に軟質の毛状のものが密生している。鳥類においては、前肢のものが発達しており、飛行のための不可欠な器官となっている。羽根。 (ほかに: 羽毛)
+FEATHERS	(名詞) "feather" の複数形: 羽:...\n(動詞) "feather" の現在第三人称単数形。
+FEATS	(名詞) featの複数形: 手柄: 功名。功績。 (ほかに: 偉業, 業績)\n(動詞) featの三人称単数現在形: 手柄: 功名。功績。 (ほかに: 偉業, 業績)
+FEATURE	(名詞) 特徴: ある物と他の物を比べたとき目立つ点。 (ほかに: 部位)\n(動詞) 重要な役割を果たす。を特徴とする。
+FEATURED	(形容詞) featuredの訳: 特集された, 呼び物の\n(動詞) featureの過去形・過去分詞: 特徴: ある物と他の物を比べたとき目立つ点。 (ほかに: 部位)
+FEATURELESS	(形容詞) featurelessの訳: 特色のない
+FEATURES	(名詞) featureの複数形: 特徴: ある物と他の物を比べたとき目立つ点。 (ほかに: 部位)\n(動詞) featureの直説法現在第三人称単数形: 特徴: ある物と他の物を比べたとき目立つ点。 (ほかに: 部位)
+FEATURING	(動詞) featureの現在分詞: 特徴: ある物と他の物を比べたとき目立つ点。 (ほかに: 部位)
+FEBRIFUGE	(名詞) 消熱剤: 高まった体温を下げる効能のある薬剤。
+FEBRIFUGES	(febrifugeの変化形) (名詞) 消熱剤: 高まった体温を下げる効能のある薬剤。
+FEBRILE	(形容詞) 熱病の: 高熱を発症する疾病の総称。 (ほかに: 熱のある, 発熱の)
+FECES	(名詞) 糞便: 肛門から排出される物。大便。糞。 (ほかに: 大便)
+FECUND	(形容詞) 肥えた。肥沃な。多産の。
+FECUNDATE	(動詞) 肥沃にする。多産にする。
+FECUNDATED	(動詞) fecundateの過去形・過去分詞: 肥沃にする。多産にする。
+FECUNDATES	(動詞) fecundateの直説法現在第三人称単数形: 肥沃にする。多産にする。
+FECUNDATING	(動詞) fecundateの現在分詞: 肥沃にする。多産にする。
+FECUNDATION	(名詞) 受精: 卵細胞(卵)と精細胞の染色体が合体すること。
+FECUNDATIONS	(名詞) fecundationの複数形: 受精: 卵細胞(卵)と精細胞の染色体が合体すること。
+FECUNDITIES	(名詞) fecundityの複数形: 繁殖力
+FECUNDITY	(名詞) fecundityの訳: 繁殖力
+FED	(動詞) feedの過去形・過去分詞: 食べ物や餌を与える。\n(名詞) fedの訳: 連邦政府
+FEDERAL	(形容詞) federalの訳: 連邦政府の
+FEDERALS	(federalの変化形) (形容詞) federalの訳: 連邦政府の
+FEDERATION	(名詞) 連邦: 複数の州や国が単一の主権の下に結合して形成する国家。
+FEDERATIONS	(名詞) federationの複数形: 連邦: 複数の州や国が単一の主権の下に結合して形成する国家。
+FEDS	(feedの変化形) (動詞) 食べ物や餌を与える。
+FEE	(名詞) 料金、費用。職業的サービスに対する金銭的支払いのこと。\n(動詞) feeの訳: 料金を支払う
+FEEBLE	(形容詞) （物理的に）弱い。弱弱しい。
+FEEBLER	(形容詞) "feeble" の比較級形: （物理的に）弱い。弱弱しい。
+FEEBLEST	(形容詞) "feeble" の最上級形: （物理的に）弱い。弱弱しい。
+FEED	(動詞) 食べ物や餌を与える。\n(名詞) 餌: （えさ）動物にあたえる食糧、食事。飼料。え。
+FEEDER	(名詞) 飼育者。食料供給者（または国）。
+FEEDERS	(feederの変化形) (名詞) 飼育者。食料供給者（または国）。
+FEEDING	(動詞) feedの動名詞又は現在分詞: 食べ物や餌を与える。\n(名詞) 餌を与えること。
+FEEDS	(名詞) "feed" の複数形: 食べ物や餌を与える。\n(動詞) "feed" の三人称単数現在形: 食べ物や餌を与える。
+FEEING	(動詞) "fee" の動名詞形又は現在分詞形: 料金、費用。職業的サービスに対する金銭的支払いのこと。
+FEEL	(動詞) 感じる: 物事に対して心の中にある感情や気持ちを表す。\n(名詞) feelの訳: 感触
+FEELER	(名詞) 触手: 下等な動物の主に口の近くにある触覚器。
+FEELERS	(feelerの変化形) (名詞) 触手: 下等な動物の主に口の近くにある触覚器。
+FEELING	(名詞) 気持ち: 身体に感じる快・不快の感覚。 (ほかに: 感情)\n(形容詞) 感情のこもった
+FEELINGLY	(副詞) feelinglyの訳: 感情をこめて
+FEELINGS	(名詞) feeling の複数形: 気持ち: 身体に感じる快・不快の感覚。 (ほかに: 感情)
+FEELS	(名詞) feel の複数形: 感じる: 物事に対して心の中にある感情や気持ちを表す。\n(動詞) feelの三人称単数現在形: 感じる: 物事に対して心の中にある感情や気持ちを表す。
+FEES	(名詞) fee の複数形: 料金、費用。職業的サービスに対する金銭的支払いのこと。
+FEET	(名詞) footの複数形: 足: （あし）物の下の部分。
+FEIGN	(動詞) 装う、～のふりをする。
+FEIGNED	(形容詞) feignedの訳: 偽りの, 見せかけの\n(動詞) feignの過去形・過去分詞: 装う、～のふりをする。
+FEIGNING	(動詞) feignの動名詞形又は現在分詞形: 装う、～のふりをする。\n(名詞) 振り: （ふり）（振り） 振ること。 (ほかに: 装うこと)
+FEIGNS	(動詞) "feign" の三人称単数現在形: 装う、～のふりをする。
+FEIJOA	(名詞) feijoaの訳: フェイジョア
+FEIJOAS	(feijoaの変化形) (名詞) feijoaの訳: フェイジョア
+FEINT	(名詞) 陽動: 自分が目的とすることから相手の注意を他へそらすため、別の行動を目立つようにすること。\n(動詞) フェイントをかける。
+FEINTED	(動詞) feintの過去形・過去分詞: 陽動: 自分が目的とすることから相手の注意を他へそらすため、別の行動を目立つようにすること。
+FEINTING	(動詞) feintの現在分詞: 陽動: 自分が目的とすることから相手の注意を他へそらすため、別の行動を目立つようにすること。
+FEINTS	(名詞) feintの複数形: 陽動: 自分が目的とすることから相手の注意を他へそらすため、別の行動を目立つようにすること。\n(動詞) feintの直説法現在第三人称単数形: 陽動: 自分が目的とすることから相手の注意を他へそらすため、別の行動を目立つようにすること。
+FELDSPAR	(名詞) 長石: 複数の鉱物種を総称する鉱物グループであり、アルカリ金属およびアルカリ土類金属などのアルミノケイ酸塩を主成分とする三次元構造のテクトケイ酸塩の一種。地殻中に普遍的に存在する鉱物で、もっとも存在量が多く、ほとんどの岩石（火成岩、変成岩、堆積岩）に含まれる造岩鉱物である。陶磁器、肥料、ガラスなどの原料となる。
+FELDSPARS	(feldsparの変化形) (名詞) 長石:...
+FELICITATE	(動詞) 祝賀する: めでたい事として祝うこと。 (ほかに: 祝う)
+FELICITATED	(動詞) felicitateの過去形・過去分詞: 祝賀する: めでたい事として祝うこと。 (ほかに: 祝う)
+FELICITATES	(動詞) felicitateの直説法現在第三人称単数形: 祝賀する: めでたい事として祝うこと。 (ほかに: 祝う)
+FELICITATING	(動詞) felicitateの現在分詞: 祝賀する: めでたい事として祝うこと。 (ほかに: 祝う)
+FELICITATION	(名詞) felicitationの訳: 祝賀
+FELICITATIONS	(名詞) felicitationの複数形: 祝賀\n(感動詞) felicitationsの訳: ⟪おめでとう⟫
+FELICITIES	(felicityの変化形) (名詞) felicityの訳: ⟪幸福|こうふく⟫, 至福
+FELICITOUS	(形容詞) 適切な: ぴったりとあてはまること。よく適合すること。 (ほかに: 巧みな)
+FELICITY	(名詞) felicityの訳: ⟪幸福|こうふく⟫, 至福
+FELID	(名詞) ネコ科: 哺乳綱獣亜綱ローラシア獣上目ネコ目ネコ亜目の下位に分類される哺乳類の1科（一タクソン、一分類群）。
+FELIDS	(felidの変化形) (名詞) ネコ科: 哺乳綱獣亜綱ローラシア獣上目ネコ目ネコ亜目の下位に分類される哺乳類の1科（一タクソン、一分類群）。
+FELINE	(形容詞) felineの訳: ネコ科の\n(名詞) felineの訳: ネコ科の動物
+FELINELY	(felineの変化形) (形容詞) felineの訳: ネコ科の
+FELINES	(名詞) felineの複数形: ネコ科の
+FELL	(動詞) fellの訳: 切り倒す\n(名詞) キルトの一部、腰からプリーツを縫い付けた部分まで。
+FELLATED	(動詞) fellateの過去形・過去分詞。
+FELLATES	(動詞) fellateの直説法現在第三人称単数形。
+FELLATING	(動詞) fellateの現在分詞。
+FELLATIO	(名詞) fellatioの訳: フェラチオ
+FELLATION	(名詞) fellatioの異形。
+FELLATIONS	(名詞) fellationの複数形: fellatioの異形。
+FELLATIOS	(名詞) fellatioの複数形: フェラチオ
+FELLED	(動詞) fell（木を切り倒す）の過去形・過去分詞形。
+FELLER	(形容詞) "fell" の比較級形: 切り倒す\n(名詞) fellする人。
+FELLERS	(名詞) "feller" の複数形: "fell" の比較級形: 切り倒す
+FELLEST	(形容詞) "fell" の最上級形: 切り倒す
+FELLING	(動詞) "fell" の動名詞形又は現在分詞形: 切り倒す
+FELLOW	(名詞) fellowの訳: 下賎の者\n(形容詞) 同輩の。同じ釜の飯を食った。
+FELLOWED	(動詞) fellowの過去形・過去分詞: 下賎の者
+FELLOWING	(動詞) fellowの動名詞又は現在分詞: 下賎の者
+FELLOWS	(名詞) fellowの複数形: 下賎の者\n(動詞) fellowの現在第三人称単数形。
+FELLOWSHIP	(名詞) fellowshipの訳: 仲間意識
+FELLOWSHIPED	(fellowshipの変化形) (名詞) fellowshipの訳: 仲間意識
+FELLOWSHIPING	(fellowshipの変化形) (名詞) fellowshipの訳: 仲間意識
+FELLOWSHIPPED	(fellowshipの変化形) (名詞) fellowshipの訳: 仲間意識
+FELLOWSHIPPING	(fellowshipの変化形) (名詞) fellowshipの訳: 仲間意識
+FELLOWSHIPS	(名詞) fellowshipの複数形: 仲間意識
+FELLS	(名詞) "fell" の複数形: 切り倒す\n(動詞) "fell" の三人称単数現在形: 切り倒す
+FELON	(名詞) felonの訳: 瘭疽
+FELONIES	(felonyの変化形) (名詞) 重罪: 重い罪。重科。
+FELONS	(felonの変化形) (名詞) felonの訳: 瘭疽
+FELONY	(名詞) 重罪: 重い罪。重科。
+FELT	(名詞) 毛氈: 獣毛を加工して織物のようにした布。主に敷物に用いる。 (ほかに: フェルト)\n(動詞) feelの過去形・過去分詞: 感じる: 物事に対して心の中にある感情や気持ちを表す。
+FELTED	(feltの変化形) (名詞) 毛氈: 獣毛を加工して織物のようにした布。主に敷物に用いる。 (ほかに: フェルト)
+FELTING	(feltの変化形) (名詞) 毛氈: 獣毛を加工して織物のようにした布。主に敷物に用いる。 (ほかに: フェルト)
+FELTINGS	(feltの変化形) (名詞) 毛氈: 獣毛を加工して織物のようにした布。主に敷物に用いる。 (ほかに: フェルト)
+FELTS	(feltの変化形) (名詞) 毛氈: 獣毛を加工して織物のようにした布。主に敷物に用いる。 (ほかに: フェルト)
+FEMALE	(形容詞) femaleの訳: 雌の, 女の\n(名詞) 雌: （めす）性別において、卵や胎児を産む能力を有しているもの。 (ほかに: 女)
+FEMALES	(名詞) femaleの複数形: 雌の, 女の
+FEMININE	(形容詞) 女らしい。女性的な。\n(名詞) 女性: ある言語において名詞や形容詞における文法上の性の一つ。生物的な女性・雌性と関連するものが多いが、必ずしもそうではない。
+FEMININELY	(副詞) femininelyの訳: 女性らしく
+FEMININENESS	(名詞) femininenessの訳: 女性らしさ
+FEMININENESSES	(名詞) femininenessの複数形: 女性らしさ
+FEMININES	(名詞) feminineの複数形: 女らしい。女性的な。
+FEMININITIES	(名詞) femininityの複数形: 女性らしさ
+FEMININITY	(名詞) femininityの訳: 女性らしさ
+FEMINISM	(名詞) フェミニズム。男女同権主義。
+FEMINISMS	(名詞) feminismの複数形: フェミニズム。男女同権主義。
+FEMME	(名詞) 女性: （古風）女の人。 (ほかに: 妻)
+FEMMES	(femmeの変化形) (名詞) 女性: （古風）女の人。 (ほかに: 妻)
+FEMORA	(femurの変化形) (名詞) 大腿骨: 股から膝の間を構成する骨。
+FEMUR	(名詞) 大腿骨: 股から膝の間を構成する骨。
+FEMURS	(femurの変化形) (名詞) 大腿骨: 股から膝の間を構成する骨。
+FENCE	(名詞) fenceの訳: ⟪垣根|かきね⟫\n(動詞) fenceの訳: 囲いをする
+FENCED	(動詞) fenceの過去形・過去分詞: ⟪垣根|かきね⟫\n(形容詞) フェンスで囲まれた。
+FENCER	(名詞) フェンサー: フェンシングの選手。
+FENCERS	(fencerの変化形) (名詞) フェンサー: フェンシングの選手。
+FENCES	(名詞) fenceの複数形: ⟪垣根|かきね⟫\n(動詞) fenceの直説法現在第三人称単数形: ⟪垣根|かきね⟫
+FENCING	(動詞) fenceの現在分詞: ⟪垣根|かきね⟫\n(名詞) fencingの訳: フェンシング
+FENCINGS	(名詞) fencingの複数形: fenceの現在分詞: ⟪垣根|かきね⟫
+FEND	(動詞) fendの訳: 遣り繰りする, 生活する\n(名詞) fendの訳: ⟪敵|かたき⟫, 悪魔
+FENDED	(動詞) fendの過去形・過去分詞: 遣り繰りする, 生活する
+FENDING	(動詞) fendの現在分詞: 遣り繰りする, 生活する
+FENDS	(動詞) fendの直説法現在第三人称単数形: 遣り繰りする, 生活する
+FENNEC	(名詞) フェネック: ネコ目イヌ科キツネ属に属する食肉類の一種。学名:Vulpes zerda。別名、フェネックギツネ。
+FENNECS	(fennecの変化形) (名詞) フェネック: ネコ目イヌ科キツネ属に属する食肉類の一種。学名:Vulpes zerda。別名、フェネックギツネ。
+FENNEL	(名詞) （植物）茴香。フェンネル。
+FENNELS	(名詞) fennelの複数形: （植物）茴香。フェンネル。
+FENUGREEK	(名詞) fenugreekの訳: コロハ
+FENUGREEKS	(名詞) fenugreekの複数形: コロハ
+FERAL	(形容詞) feralの訳: ⟪野生|やせい⟫
+FERIA	(名詞) 平日: （ひらび、とも）縁日などの特別な行事のない日。
+FERIAE	(feriaの変化形) (名詞) 平日: （ひらび、とも）縁日などの特別な行事のない日。
+FERIAS	(名詞) feriaの複数形: 平日: （ひらび、とも）縁日などの特別な行事のない日。
+FERMENT	(動詞) fermentの訳: 発酵する\n(名詞) fermentの訳: 酵母, ⟪酵素|こうそ⟫
+FERMENTATION	(名詞) fermentationの訳: 発酵
+FERMENTATIONS	(名詞) fermentationの複数形: 発酵
+FERMENTED	(動詞) fermentの過去形・過去分詞: 発酵する\n(形容詞) fermentedの訳: 発酵した
+FERMENTER	(名詞) fermenterの訳: 発酵槽
+FERMENTING	(動詞) fermentの現在分詞: 発酵する
+FERMENTS	(名詞) fermentの複数形: 発酵する\n(動詞) fermentの直説法現在第三人称単数形: 発酵する
+FERMI	(名詞) フェムトメートル。10⁻¹⁵ m
+FERMION	(名詞) fermionの訳: フェルミ粒子
+FERMIONS	(名詞) fermionの複数形: フェルミ粒子
+FERMIS	(名詞) fermiの複数形: フェムトメートル。10⁻¹⁵ m
+FERMIUM	(名詞) フェルミウム: 原子番号 100、元素記号 Fm の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では固体。
+FERMIUMS	(fermiumの変化形) (名詞) フェルミウム: 原子番号 100、元素記号 Fm の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では固体。
+FERN	(名詞) fernの訳: シダ
+FERNS	(fernの変化形) (名詞) fernの訳: シダ
+FEROCIOUS	(形容詞) 獰猛な。残忍な。凶暴な。
+FEROCIOUSLY	(副詞) 獰猛に。残忍に。凶暴に。
+FEROCITIES	(名詞) ferocityの複数形: 獰猛さ, 残忍さ, 凶暴さ
+FEROCITY	(名詞) ferocityの訳: 獰猛さ, 残忍さ, 凶暴さ
+FERRET	(名詞) ferretの訳: フェレット
+FERRETED	(ferretの変化形) (名詞) ferretの訳: フェレット
+FERRETING	(ferretの変化形) (名詞) ferretの訳: フェレット
+FERRETS	(ferretの変化形) (名詞) ferretの訳: フェレット
+FERRIC	(形容詞) 鉄の: （比喩）強固なもの
+FERRIED	(動詞) ferryの過去形・過去分詞: フェリー: 旅客や貨物の輸送に用いられる船舶。フェリーボート。 (ほかに: 渡し船)
+FERRIES	(名詞) ferryの複数形: フェリー: 旅客や貨物の輸送に用いられる船舶。フェリーボート。 (ほかに: 渡し船)\n(動詞) ferryの直説法現在第三人称単数形: フェリー: 旅客や貨物の輸送に用いられる船舶。フェリーボート。 (ほかに: 渡し船)
+FERRIMAGNETISM	(名詞) ferrimagnetismの訳: フェリ磁性
+FERRIMAGNETISMS	(ferrimagnetismの変化形) (名詞) ferrimagnetismの訳: フェリ磁性
+FERROCONCRETE	(名詞) 鉄筋コンクリート: 鉄筋と組み合わせて補強されたコンクリートのこと。
+FERROCONCRETES	(ferroconcreteの変化形) (名詞) 鉄筋コンクリート: 鉄筋と組み合わせて補強されたコンクリートのこと。
+FERROMAGNETIC	(形容詞) ferromagneticの訳: 強磁性の
+FERROMAGNETISM	(名詞) ferromagnetismの訳: 強磁性
+FERROMAGNETISMS	(名詞) ferromagnetismの複数形: 強磁性
+FERRY	(名詞) フェリー: 旅客や貨物の輸送に用いられる船舶。フェリーボート。 (ほかに: 渡し船)\n(動詞) ferryの訳: 船で渡す
+FERRYBOAT	(名詞) フェリー: 旅客や貨物の輸送に用いられる船舶。フェリーボート。 (ほかに: 渡し舟)
+FERRYBOATS	(名詞) ferryboatの複数形: フェリー、渡し舟。
+FERRYING	(動詞) ferryの現在分詞: フェリー: 旅客や貨物の輸送に用いられる船舶。フェリーボート。 (ほかに: 渡し船)
+FERRYMAN	(名詞) 船頭: 船を漕ぐことを生業とする者。かこ。
+FERRYMEN	(名詞) ferrymanの複数形: 船頭。
+FERTILE	(形容詞) fertileの訳: 肥えた, 肥沃な
+FERTILITIES	(名詞) fertilityの複数形: 肥沃, ⟪多産|たさん⟫, 生産力
+FERTILITY	(名詞) fertilityの訳: 肥沃, ⟪多産|たさん⟫, 生産力
+FERTILIZABLE	(形容詞) fertilizableの訳: 肥沃にできる
+FERTILIZATION	(名詞) 受精: 卵細胞(卵)と精細胞の染色体が合体すること。 (ほかに: 受粉)
+FERTILIZATIONS	(名詞) fertilizationの複数形: 受精: 卵細胞(卵)と精細胞の染色体が合体すること。 (ほかに: 受粉)
+FERTILIZE	(動詞) fertilizeの訳: 受精する, 受粉する
+FERTILIZED	(動詞) fertilizeの過去形・過去分詞: 受精する, 受粉する
+FERTILIZER	(名詞) 肥料: 植物の生育を助けるため、土壌などに施す物質。 (ほかに: 化学肥料)
+FERTILIZERS	(fertilizerの変化形) (名詞) 肥料: 植物の生育を助けるため、土壌などに施す物質。 (ほかに: 化学肥料)
+FERTILIZES	(動詞) fertilizeの直説法現在第三人称単数形: 受精する, 受粉する
+FERTILIZING	(動詞) fertilizeの現在分詞: 受精する, 受粉する
+FERVENT	(形容詞) 熱心な: ある物事に懸命に打ち込む様子。 (ほかに: 熱烈な)
+FERVENTLY	(副詞) ferventlyの訳: 熱心に, 熱烈に
+FERVID	(形容詞) fervidの訳: 熱烈な
+FESS	(名詞) 横帯、中帯。フェス：シールドの中央を左右の端までわたる帯状の模様の一種。fesse とも綴る。\n(動詞) fessの訳: 白状する
+FESSED	(動詞) fess の単純過去形
+FESSES	(名詞) fess の複数形: 横帯、中帯。フェス：シールドの中央を左右の端までわたる帯状の模様の一種。fesse とも綴る。\n(動詞) fess の直説法現在三人称単数形: 横帯、中帯。フェス：シールドの中央を左右の端までわたる帯状の模様の一種。fesse とも綴る。
+FESSING	(動詞) fess の現在分詞形: 横帯、中帯。フェス：シールドの中央を左右の端までわたる帯状の模様の一種。fesse とも綴る。
+FESTAL	(形容詞) 祝祭の: 祝いと祭り。 (ほかに: 祭日の)
+FESTER	(名詞) 化膿。潰瘍。\n(動詞) 膿む。化膿する。
+FESTERED	(動詞) festerの過去形・過去分詞: 化膿。潰瘍。
+FESTERING	(動詞) festerの現在分詞: 化膿。潰瘍。\n(名詞) 化膿。腐敗。悪化。
+FESTERS	(動詞) festerの直説法現在第三人称単数形: 化膿。潰瘍。\n(名詞) festerの複数形: 化膿。潰瘍。
+FESTIVAL	(形容詞) festivalの訳: 祝祭の, 祭日の\n(名詞) 祝祭日: 祝日および祭日。 (ほかに: 祭り)
+FESTIVALS	(名詞) festivalの複数形: 祝祭の, 祭日の
+FESTIVE	(形容詞) 愉快な: 楽しくて心地良い様。 (ほかに: 楽しい)
+FESTIVELY	(副詞) 陽気に: 明るく賑やかなさま。
+FESTIVITIES	(名詞) festivityの複数形: 祝いの行事, 祝祭
+FESTIVITY	(名詞) festivityの訳: 祝いの行事, 祝祭
+FETA	(名詞) fetaの訳: フェタチーズ
+FETAL	(形容詞) 胎児の: （発生学）胎生の動物の母体の中で、胚が器官原基の分化が完了してから出産するまでの、成長中の子。
+FETAS	(名詞) fetaの複数形: フェタチーズ
+FETCH	(動詞) fetchの訳: 取って来る, 連れて来る\n(名詞) 取って来ること、連れて来ること。
+FETCHED	(動詞) fetchの過去形・過去分詞: 取って来る, 連れて来る
+FETCHES	(動詞) fetchの直説法現在第三人称単数形: 取って来る, 連れて来る\n(名詞) fetchの複数形: 取って来る, 連れて来る
+FETCHING	(形容詞) fetchingの訳: 魅力的な\n(動詞) fetchの現在分詞: 取って来る, 連れて来る
+FETICIDE	(名詞) 堕胎: 胎児を自然分娩する前に人工的に胎児の生命活動を止めさせ体外に排出すること。
+FETICIDES	(feticideの変化形) (名詞) 堕胎: 胎児を自然分娩する前に人工的に胎児の生命活動を止めさせ体外に排出すること。
+FETISHISM	(名詞) フェティシズム: 異性の持ち物や体の一部などに執着し性的欲望を感じること。フロイトが論じた。拝物性愛。
+FETISHISMS	(fetishismの変化形) (名詞) フェティシズム: 異性の持ち物や体の一部などに執着し性的欲望を感じること。フロイトが論じた。拝物性愛。
+FETOR	(名詞) 悪臭: 不快なにおい。
+FETORS	(fetorの変化形) (名詞) 悪臭: 不快なにおい。
+FETTER	(名詞) 足枷: 自由を束縛するもの。足手纏い。\n(動詞) fetterの訳: 足枷をはめる
+FETTERED	(fetterの変化形) (名詞) 足枷: 自由を束縛するもの。足手纏い。
+FETTERING	(fetterの変化形) (名詞) 足枷: 自由を束縛するもの。足手纏い。
+FETTERS	(名詞) fetterの複数形: 足枷: 自由を束縛するもの。足手纏い。\n(動詞) fetterの直説法現在第三人称単数形: 足枷: 自由を束縛するもの。足手纏い。
+FETUS	(名詞) 胎児: （発生学）胎生の動物の母体の中で、胚が器官原基の分化が完了してから出産するまでの、成長中の子。
+FETUSES	(名詞) fetusの複数形: 胎児: （発生学）胎生の動物の母体の中で、胚が器官原基の分化が完了してから出産するまでの、成長中の子。
+FEUD	(名詞) 確執: お互いに自説を強く主張し合い、一歩も譲らないこと。また、そこから発生する不和や争い。\n(動詞) feudの訳: ⟪争う|あらそう⟫
+FEUDAL	(形容詞) 封建制度の: 西欧中世に典型的な社会制度であるフューダリズムの訳語。土地と軍事的な奉仕を媒介とした教皇・皇帝・国王・領主と、家臣の間の契約に基づく緩やかな主従関係により形成される分権的社会制度。 (ほかに: 封建時代の)
+FEUDALISM	(名詞) 封建制度: 西欧中世に典型的な社会制度であるフューダリズムの訳語。土地と軍事的な奉仕を媒介とした教皇・皇帝・国王・領主と、家臣の間の契約に基づく緩やかな主従関係により形成される分権的社会制度。 (ほかに: 封建主義)
+FEUDALISMS	(名詞) feudalismの複数形: 封建制度:...
+FEUDALISTIC	(形容詞) feudalisticの訳: 封建的な
+FEUDED	(動詞) feudの過去形・過去分詞: 確執: お互いに自説を強く主張し合い、一歩も譲らないこと。また、そこから発生する不和や争い。
+FEUDING	(動詞) feudの動名詞又は現在分詞: 確執: お互いに自説を強く主張し合い、一歩も譲らないこと。また、そこから発生する不和や争い。\n(名詞) feudingの訳: 内紛, ⟪内輪揉め|うちわもめ⟫
+FEUDS	(名詞) feudの複数形: 確執: お互いに自説を強く主張し合い、一歩も譲らないこと。また、そこから発生する不和や争い。\n(動詞) feudの直説法現在第三人称単数形: 確執: お互いに自説を強く主張し合い、一歩も譲らないこと。また、そこから発生する不和や争い。
+FEVER	(名詞) 熱: 体温。特に、平熱よりも高い状態。 (ほかに: 高熱)\n(動詞) feverの訳: 発熱する
+FEVERED	(形容詞) feveredの訳: 熱のある\n(動詞) feverの過去形・過去分詞: 熱: 体温。特に、平熱よりも高い状態。 (ほかに: 高熱)
+FEVERFEW	(名詞) feverfewの訳: 夏白菊
+FEVERFEWS	(feverfewの変化形) (名詞) feverfewの訳: 夏白菊
+FEVERING	(動詞) feverの動名詞又は現在分詞: 熱: 体温。特に、平熱よりも高い状態。 (ほかに: 高熱)
+FEVERISH	(形容詞) feverishの訳: 熱のある
+FEVERISHLY	(副詞) feverishlyの訳: 熱狂して
+FEVERS	(名詞) feverの複数形: 熱: 体温。特に、平熱よりも高い状態。 (ほかに: 高熱)\n(動詞) feverの直説法現在第三人称単数形: 熱: 体温。特に、平熱よりも高い状態。 (ほかに: 高熱)
+FEW	(形容詞) （可算のものについて）わずかの。ほとんど～ない。全然ないわけではないがきわめて少数であること。\n(名詞) ごく少数のもの又は人。
+FEWER	(形容詞) "few" の比較級: （可算のものについて）わずかの。ほとんど～ない。全然ないわけではないがきわめて少数であること。
+FEWEST	(形容詞) "few" の最上級: （可算のものについて）わずかの。ほとんど～ない。全然ないわけではないがきわめて少数であること。
+FIANCE	(名詞) 婚約者: 結婚の約束をした相手。 (ほかに: フィアンセ)
+FIANCEE	(名詞) 婚約者: 結婚の約束をした相手。 (ほかに: フィアンセ)
+FIANCEES	(fianceeの変化形) (名詞) 婚約者: 結婚の約束をした相手。 (ほかに: フィアンセ)
+FIANCES	(fianceの変化形) (名詞) 婚約者: 結婚の約束をした相手。 (ほかに: フィアンセ)
+FIBBER	(名詞) fibberの訳: 嘘吐き
+FIBBERS	(名詞) fibberの複数形: 嘘吐き
+FIBER	(名詞) 生地: 織物。布地。
+FIBERGLASS	(名詞) fibreglassの異綴。\n(動詞) fibreglassの異綴。
+FIBERGLASSES	(名詞) fiberglassの複数形: fibreglassの異綴。\n(動詞) fiberglassの直説法現在第三人称単数形: fibreglassの異綴。
+FIBERS	(名詞) fiberの複数形: 生地: 織物。布地。
+FIBRE	(名詞) ファイバー: 繊維、繊維質。 (ほかに: 繊維, 食物繊維)
+FIBREGLASS	(名詞) 繊維ガラス。グラスファイバー。\n(動詞) 繊維ガラスを用いる。
+FIBREGLASSES	(名詞) fibreglassの複数形: 繊維ガラス。グラスファイバー。\n(動詞) fibreglassの直説法現在第三人称単数形: 繊維ガラス。グラスファイバー。
+FIBRES	(名詞) fibreの複数形: ファイバー: 繊維、繊維質。 (ほかに: 繊維, 食物繊維)
+FIBROBLAST	(名詞) 線維芽細胞。結合組織由来の細胞。コラーゲンなどの線維を産生する。
+FIBROBLASTS	(fibroblastの変化形) (名詞) 線維芽細胞。結合組織由来の細胞。コラーゲンなどの線維を産生する。
+FIBROSIS	(名詞) fibrosisの訳: 線維症
+FIBULA	(名詞) 腓骨: 下腿の外側にある骨。
+FIBULAE	(fibulaの変化形) (名詞) 腓骨: 下腿の外側にある骨。
+FIBULAS	(fibulaの変化形) (名詞) 腓骨: 下腿の外側にある骨。
+FICKLE	(形容詞) fickleの訳: 気紛れな, 移り気な\n(動詞) 騙す: 他人に自分の思い通りの行動をさせるために、本性を隠したり、うそをつくなどして誤認させる。 (ほかに: 御世辞を言う)
+FICKLENESS	(名詞) 移り気。不安定。
+FICKLENESSES	(名詞) ficklenessの複数形: 移り気。不安定。
+FICKLER	(形容詞) fickleの比較級: 気紛れな, 移り気な
+FICKLEST	(形容詞) fickleの最上級: 気紛れな, 移り気な
+FICTION	(名詞) フィクション: 想像による小説、作り話。 (ほかに: 創作)
+FICTIONAL	(形容詞) 架空の、フィクションの。
+FICTIONALISE	(動詞) fictionalizeの異綴。
+FICTIONALISED	(動詞) fictionaliseの過去形・過去分詞: fictionalizeの異綴。
+FICTIONALISES	(動詞) fictionaliseの直説法現在第三人称単数形: fictionalizeの異綴。
+FICTIONALISING	(動詞) fictionaliseの現在分詞: fictionalizeの異綴。
+FICTIONALIZATION	(名詞) fictionalizationの訳: 小説化, 映画化
+FICTIONALIZATIONS	(名詞) fictionalizationの複数形: 小説化, 映画化
+FICTIONALIZE	(動詞) 脚色する: 小説や実在の事件などに基づき、芝居や映画などの脚本をつくる。 (ほかに: 虚構化する)
+FICTIONALIZED	(動詞) fictionalizeの過去形・過去分詞: 脚色する: 小説や実在の事件などに基づき、芝居や映画などの脚本をつくる。 (ほかに: 虚構化する)
+FICTIONALIZES	(動詞) fictionalizeの直説法現在第三人称単数形: 脚色する: 小説や実在の事件などに基づき、芝居や映画などの脚本をつくる。 (ほかに: 虚構化する)
+FICTIONALIZING	(動詞) fictionalizeの現在分詞: 脚色する: 小説や実在の事件などに基づき、芝居や映画などの脚本をつくる。 (ほかに: 虚構化する)
+FICTIONALLY	(fictionalの変化形) (形容詞) 架空の、フィクションの。
+FICTIONS	(名詞) fictionの複数形: フィクション: 想像による小説、作り話。 (ほかに: 創作)
+FICTITIOUS	(名詞) 架空: 根拠のないこと。事実に基づかず、想像によってつくること。
+FIDDLE	(名詞) フィドル。バイオリン。\n(動詞) ぶらぶら過ごす。
+FIDDLED	(動詞) fiddleの過去形・過去分詞: フィドル。バイオリン。
+FIDDLER	(名詞) フィドル奏者。バイオリニスト。
+FIDDLERS	(名詞) fiddlerの複数形: フィドル奏者。バイオリニスト。
+FIDDLES	(名詞) fiddleの複数形: フィドル。バイオリン。\n(動詞) fiddleの直説法現在第三人称単数形: フィドル。バイオリン。
+FIDDLING	(動詞) fiddleの現在分詞: フィドル。バイオリン。\n(名詞) フィドルの演奏。
+FIDELITIES	(名詞) fidelityの複数形: 忠誠。忠実。
+FIDELITY	(名詞) 忠誠。忠実。
+FIDGET	(動詞) そわそわする: 態度・気持ちなどが落ち着かないさま。 (ほかに: いらいらする, もぞもぞ動く)\n(名詞) そわそわすること。
+FIDGETED	(動詞) fidgetの過去形・過去分詞: そわそわする: 態度・気持ちなどが落ち着かないさま。 (ほかに: いらいらする, もぞもぞ動く)
+FIDGETER	(fidgetの変化形) (動詞) そわそわする: 態度・気持ちなどが落ち着かないさま。 (ほかに: いらいらする, もぞもぞ動く)
+FIDGETING	(動詞) fidgetの現在分詞: そわそわする: 態度・気持ちなどが落ち着かないさま。 (ほかに: いらいらする, もぞもぞ動く)\n(名詞) そわそわする動作。
+FIDGETS	(名詞) fidgetの複数形: そわそわする: 態度・気持ちなどが落ち着かないさま。 (ほかに: いらいらする, もぞもぞ動く)\n(動詞) fidgetの直説法現在第三人称単数形: そわそわする: 態度・気持ちなどが落ち着かないさま。 (ほかに: いらいらする, もぞもぞ動く)
+FIDGETY	(形容詞) そわそわする、落ち着きのない。
+FIELD	(名詞) 野原: 一面に草などの生えた広い平地。\n(動詞) ～に出場させる。
+FIELDED	(動詞) fieldの過去形・過去分詞: 野原: 一面に草などの生えた広い平地。
+FIELDER	(名詞) 野手: 守備する側の選手。内野手、外野手がある。
+FIELDERS	(fielderの変化形) (名詞) 野手: 守備する側の選手。内野手、外野手がある。
+FIELDING	(動詞) "field" の動名詞形又は現在分詞形: 野原: 一面に草などの生えた広い平地。
+FIELDS	(名詞) "field" の複数形: 野原: 一面に草などの生えた広い平地。\n(動詞) "field" の三人称単数現在形: 野原: 一面に草などの生えた広い平地。
+FIEND	(名詞) fiendの訳: 悪魔, 悪霊\n(動詞) fiendの訳: ⟪欲しがる|ほしがる⟫
+FIENDISH	(形容詞) fiendishの訳: 悪魔のような, 残忍な, 冷酷な
+FIENDISHLY	(副詞) fiendishlyの訳: 悪魔のように, 残忍に
+FIENDS	(名詞) fiendの複数形: 悪魔, 悪霊\n(動詞) fiendの直説法現在第三人称単数形: 悪魔, 悪霊
+FIERCE	(形容詞) fierceの訳: 荒々しい, 野蛮な
+FIERCELY	(副詞) fiercelyの訳: 荒々しく, 野蛮に
+FIERCENESS	(名詞) 獰猛さ。激しさ。
+FIERCENESSES	(名詞) fiercenessの複数形: 獰猛さ。激しさ。
+FIERCER	(形容詞) "fierce" の比較級: 荒々しい, 野蛮な
+FIERCEST	(形容詞) "fierce" の最上級: 荒々しい, 野蛮な
+FIERIER	(形容詞) fieryの比較級: 火の。火のような。
+FIERIEST	(形容詞) fieryの最上級: 火の。火のような。
+FIERY	(形容詞) 火の。火のような。
+FIESTA	(名詞) パーティー: （登山・探検などの）仲間。 (ほかに: 祝祭, 祭)\n(動詞) fiestaの訳: 参加する
+FIESTAS	(名詞) fiestaの複数形: パーティー: （登山・探検などの）仲間。 (ほかに: 祝祭, 祭)\n(動詞) fiestaの三人称単数現在形: パーティー: （登山・探検などの）仲間。 (ほかに: 祝祭, 祭)
+FIFE	(名詞) fifeの訳: ファイフ, 横笛
+FIFED	(fifeの変化形) (名詞) fifeの訳: ファイフ, 横笛
+FIFES	(fifeの変化形) (名詞) fifeの訳: ファイフ, 横笛
+FIFING	(fifeの変化形) (名詞) fifeの訳: ファイフ, 横笛
+FIFTEEN	(名詞) fifteenの訳: 十五\n(形容詞) fifteenの訳: 十五の
+FIFTEENS	(fifteenの変化形) (名詞) fifteenの訳: 十五
+FIFTEENTH	(形容詞) fifteenthの訳: 第15の, 15番目の\n(名詞) 第15番目の人又は物
+FIFTEENTHS	(fifteenthの変化形) (形容詞) fifteenthの訳: 第15の, 15番目の
+FIFTH	(形容詞) 第五の: 序列が五番目であること。五番目の。 (ほかに: 五番目の)\n(名詞) 第五番目の人又は物。
+FIFTHLY	(副詞) 五番目に。第五に。
+FIFTHS	(名詞) fifthの複数形: 第五の: 序列が五番目であること。五番目の。 (ほかに: 五番目の)
+FIFTIES	(名詞) fiftiesの訳: 五十代
+FIFTIETH	(形容詞) fiftiethの訳: 第50の, 50番目の\n(名詞) 第50番目の人又は物
+FIFTIETHS	(fiftiethの変化形) (形容詞) fiftiethの訳: 第50の, 50番目の
+FIFTY	(数詞) fiftyの訳: 五十\n(形容詞) fiftyの訳: 五十の
+FIG	(名詞) figの訳: ⟪いちじく⟫
+FIGGED	(figの変化形) (名詞) figの訳: ⟪いちじく⟫
+FIGGING	(figの変化形) (名詞) figの訳: ⟪いちじく⟫
+FIGHT	(動詞) 戦う: 武力などを用いて相手を屈服させようとする。 (ほかに: 闘う)\n(名詞) fightの訳: ⟪戦い|たたかい⟫, ⟪戦闘|せんとう⟫
+FIGHTER	(名詞) 戦士: 主義や信念などを持って戦う人のこと。 (ほかに: 闘士, 武人)
+FIGHTERS	(名詞) fighterの複数形: 戦士: 主義や信念などを持って戦う人のこと。 (ほかに: 闘士, 武人)
+FIGHTING	(動詞) fight の現在分詞: 戦う、闘う。\n(名詞) 闘争: 闘い争うこと。 (ほかに: 戦い, 闘い)
+FIGHTINGS	(fightの変化形) (動詞) 戦う: 武力などを用いて相手を屈服させようとする。 (ほかに: 闘う)
+FIGHTS	(動詞) "fight"の三人称単数現在形: 戦う、闘う。\n(名詞) "fight"の複数形: 戦う: 武力などを用いて相手を屈服させようとする。 (ほかに: 闘う)
+FIGS	(名詞) figの複数形: ⟪いちじく⟫
+FIGURE	(名詞) figureの訳: ⟪形|かたち⟫, 姿, ⟪外形|がいけい⟫, 体型\n(動詞) figureの訳: 想像する
+FIGURED	(動詞) "figure" の過去形・過去分詞形: ⟪形|かたち⟫, 姿, ⟪外形|がいけい⟫, 体型
+FIGURES	(名詞) "figure" の複数形: ⟪形|かたち⟫, 姿, ⟪外形|がいけい⟫, 体型\n(動詞) "figure" の三人称単数現在形: ⟪形|かたち⟫, 姿, ⟪外形|がいけい⟫, 体型
+FIGURING	(動詞) "figure" の動名詞形又は現在分詞形: ⟪形|かたち⟫, 姿, ⟪外形|がいけい⟫, 体型
+FILAMENT	(名詞) filamentの訳: 繊維
+FILAMENTS	(名詞) filamentの複数形: 繊維
+FILATURE	(名詞) filatureの訳: 製糸
+FILATURES	(filatureの変化形) (名詞) filatureの訳: 製糸
+FILE	(名詞) 文書: 文字で情報を書き記したもの。 (ほかに: 綴じ込み, 書類)\n(動詞) 文書を役所に預ける。
+FILED	(動詞) fileの過去形・過去分詞形: 文書: 文字で情報を書き記したもの。 (ほかに: 綴じ込み, 書類)
+FILES	(名詞) fileの複数形: 綴じ込み、文書、書類。\n(動詞) fileの三人称単数現在形: 文書: 文字で情報を書き記したもの。 (ほかに: 綴じ込み, 書類)
+FILIAL	(形容詞) 子としての。子供に相応な。
+FILIATION	(名詞) filiationの訳: 親子関係
+FILIATIONS	(名詞) filiationの複数形: 親子関係
+FILIBUSTER	(名詞) （長時間の演説などによる）議事妨害。法案通過の妨害。フィリバスター。\n(動詞) 〜の法案通過を妨害する。
+FILIBUSTERED	(動詞) filibusterの過去形・過去分詞: （長時間の演説などによる）議事妨害。法案通過の妨害。フィリバスター。
+FILIBUSTERING	(動詞) filibusterの動名詞又は現在分詞: （長時間の演説などによる）議事妨害。法案通過の妨害。フィリバスター。
+FILIBUSTERS	(名詞) filibusterの複数形: （長時間の演説などによる）議事妨害。法案通過の妨害。フィリバスター。\n(動詞) filibusterの直説法第三人称現在単数形: （長時間の演説などによる）議事妨害。法案通過の妨害。フィリバスター。
+FILING	(名詞) 鑢で削ったものの屑。\n(動詞) fileの動名詞形又は現在分詞形: 文書: 文字で情報を書き記したもの。 (ほかに: 綴じ込み, 書類)
+FILINGS	(名詞) filingの複数形: 鑢で削ったものの屑。
+FILL	(動詞) 満たす。いっぱいにする。\n(名詞) 十分な量。思う存分の量。腹いっぱい。
+FILLED	(形容詞) （withを伴って）一杯に詰まった。\n(動詞) fillの過去形・過去分詞: 満たす。いっぱいにする。
+FILLET	(名詞) filletの訳: ヘッドバンド\n(動詞) 切り身にする。おろす。
+FILLETED	(動詞) filletの過去形・過去分詞形: ヘッドバンド
+FILLETING	(動詞) filletの動名詞形又は現在分詞形: ヘッドバンド
+FILLETS	(名詞) filletの複数形: ヘッドバンド。\n(動詞) filletの三人称単数現在形: ヘッドバンド
+FILLIES	(名詞) fillyの複数形: 雌の子馬
+FILLING	(動詞) fillの動名詞又は現在分詞: 満たす。いっぱいにする。\n(名詞) 詰め物: 輸送の時に梱包した中の物品が破損、磨耗しないようにすきまに詰めるもの。緩衝材。
+FILLINGS	(名詞) fillingの複数形: fillの動名詞又は現在分詞。
+FILLS	(名詞) "fill" の複数形: 満たす。いっぱいにする。\n(動詞) "fill" の三人称単数現在形: 満たす。いっぱいにする。
+FILLY	(名詞) fillyの訳: 雌の子馬
+FILM	(名詞) filmの訳: 薄膜\n(動詞) filmの訳: ～を撮影する
+FILMED	(動詞) filmの過去形・過去分詞: 薄膜\n(形容詞) 薄膜で覆われた。
+FILMER	(filmの変化形) (名詞) filmの訳: 薄膜
+FILMIER	(filmyの変化形) (名詞) 薄雲: （うすぐも）沈香の一種。香りは薄く軽い。 (ほかに: うすぐも, 淡雲)
+FILMIEST	(filmyの変化形) (名詞) 薄雲: （うすぐも）沈香の一種。香りは薄く軽い。 (ほかに: うすぐも, 淡雲)
+FILMILY	(filmyの変化形) (名詞) 薄雲: （うすぐも）沈香の一種。香りは薄く軽い。 (ほかに: うすぐも, 淡雲)
+FILMING	(名詞) 撮影: 写真や映画を撮ること。\n(動詞) filmの現在分詞: 薄膜
+FILMS	(名詞) filmの複数形: 薄膜\n(動詞) filmの直説法現在第三人称単数形: 薄膜
+FILMY	(名詞) 薄雲: （うすぐも）沈香の一種。香りは薄く軽い。 (ほかに: うすぐも, 淡雲)
+FILTER	(名詞) 濾過材。フィルター。\n(動詞) 濾過する。濾して取り除く。
+FILTERED	(形容詞) フィルターのある。\n(動詞) filterの過去形・過去分詞: 濾過材。フィルター。
+FILTERER	(filterの変化形) (名詞) 濾過材。フィルター。
+FILTERING	(動詞) filterの現在分詞: 濾過材。フィルター。\n(名詞) フィルタリング。選別。
+FILTERS	(名詞) filterの複数形: 濾過材。フィルター。\n(動詞) filterの直説法現在第三人称単数形: 濾過材。フィルター。
+FILTH	(名詞) 汚物: 汚れて汚い物。 (ほかに: 不潔なもの)
+FILTHIER	(形容詞) "filthy" の比較級形: 汚い: （きたない）汚れている。濁っている。不潔である。 (ほかに: 汚れた, 不潔な)
+FILTHIEST	(形容詞) "filthy" の最上級形: 汚い: （きたない）汚れている。濁っている。不潔である。 (ほかに: 汚れた, 不潔な)
+FILTHS	(filthの変化形) (名詞) 汚物: 汚れて汚い物。 (ほかに: 不潔なもの)
+FILTHY	(形容詞) 汚い: （きたない）汚れている。濁っている。不潔である。 (ほかに: 汚れた, 不潔な)
+FILTRATE	(動詞) 濾過する: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。\n(名詞) filtrateの訳: 濾過水
+FILTRATED	(動詞) filtrateの過去形: 濾過する: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。
+FILTRATES	(動詞) filtrateの三人称単数現在形: 濾過する: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。\n(名詞) filtrateの複数形: 濾過する: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。
+FILTRATING	(動詞) filtrateの現在分詞形: 濾過する: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。
+FILTRATION	(名詞) 濾過: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。
+FILTRATIONS	(名詞) filtrationの複数形: 濾過: 液体や気体を多孔質に通し、固体の粒子を取り除くこと。
+FIN	(名詞) finの訳: ⟪鰭|うるか⟫
+FINAL	(形容詞) finalの訳: 終わりの, 最後の\n(名詞) 決勝: 最終的な勝負を決めること。また、その戦い。優勝者を決める試合。ファイナル。
+FINALE	(名詞) 終曲: 組曲や大規模な音楽作品の最後の曲。フィナーレ。終楽章。 (ほかに: フィナーレ, 終楽章)
+FINALES	(名詞) finaleの複数形: 終曲: 組曲や大規模な音楽作品の最後の曲。フィナーレ。終楽章。 (ほかに: フィナーレ, 終楽章)
+FINALIST	(名詞) finalistの訳: 決勝出場者
+FINALISTS	(finalistの変化形) (名詞) finalistの訳: 決勝出場者
+FINALITIES	(finalityの変化形) (名詞) finalityの訳: 最終的なこと
+FINALITY	(名詞) finalityの訳: 最終的なこと
+FINALIZE	(動詞) 仕上げる: 最終の段階で手を入れる。
+FINALIZED	(動詞) finalizeの過去形・過去分詞: 仕上げる: 最終の段階で手を入れる。
+FINALIZES	(動詞) finalizeの直説法現在第三人称単数形: 仕上げる: 最終の段階で手を入れる。
+FINALIZING	(動詞) finalizeの動名詞形は現在分詞: 仕上げる: 最終の段階で手を入れる。
+FINALLY	(副詞) 結局。ついに。やっと。
+FINALS	(名詞) 決勝: 最終的な勝負を決めること。また、その戦い。優勝者を決める試合。ファイナル。
+FINANCE	(名詞) 財政: 国家や地方公共団体がその維持、活動のために営む経済行動。 (ほかに: 財務)\n(動詞) financeの訳: 融資する
+FINANCED	(動詞) "finance" の過去形・過去分詞形: 財政: 国家や地方公共団体がその維持、活動のために営む経済行動。 (ほかに: 財務)
+FINANCES	(名詞) "finance" の複数形: 財政: 国家や地方公共団体がその維持、活動のために営む経済行動。 (ほかに: 財務)\n(動詞) "finance" の三人称単数現在形: 財政: 国家や地方公共団体がその維持、活動のために営む経済行動。 (ほかに: 財務)
+FINANCIAL	(形容詞) financialの訳: 財政の
+FINANCIALLY	(副詞) financiallyの訳: 財政上
+FINANCING	(動詞) "finance" の動名詞形又は現在分詞形: 財政: 国家や地方公共団体がその維持、活動のために営む経済行動。 (ほかに: 財務)
+FINANCINGS	(financeの変化形) (名詞) 財政: 国家や地方公共団体がその維持、活動のために営む経済行動。 (ほかに: 財務)
+FIND	(動詞) 見つける: （みつける）見慣れる。 (ほかに: 発見する)\n(名詞) findの訳: ⟪発見|はっけん⟫
+FINDER	(名詞) finderの訳: 発見者
+FINDERS	(名詞) finderの複数形: 発見者
+FINDING	(名詞) findingの訳: 見つけた物\n(動詞) findの現在分詞: 見つける: （みつける）見慣れる。 (ほかに: 発見する)
+FINDS	(動詞) findの直説法第三人称単数形: 見つける、発見する\n(名詞) findの複数形: 見つける: （みつける）見慣れる。 (ほかに: 発見する)
+FINE	(形容詞) fineの訳: ⟪すばらしい⟫, 素敵な\n(副詞) fineの訳: 了解して
+FINED	(動詞) "fine" の過去形・過去分詞形: ⟪すばらしい⟫, 素敵な
+FINER	(形容詞) "fine" の比較級形: ⟪すばらしい⟫, 素敵な\n(名詞) fineする人。
+FINES	(名詞) "fine" の複数形: ⟪すばらしい⟫, 素敵な\n(動詞) "fine" の三人称単数現在形: ⟪すばらしい⟫, 素敵な
+FINESSE	(名詞) finesseの訳: 計策
+FINESSED	(finesseの変化形) (名詞) finesseの訳: 計策
+FINESSES	(finesseの変化形) (名詞) finesseの訳: 計策
+FINESSING	(finesseの変化形) (名詞) finesseの訳: 計策
+FINEST	(形容詞) "fine" の最上級形: ⟪すばらしい⟫, 素敵な
+FINGER	(名詞) 指、特に thumb 以外の指。\n(動詞) いじる: 指先などで触れたり撫で回したりする。 (ほかに: 指で触る)
+FINGERED	(動詞) fingerの過去形・過去分詞: 指、特に thumb 以外の指。\n(形容詞) fingeredの訳: 指が〜の
+FINGERING	(動詞) "finger" の動名詞形又は現在分詞形: 指、特に thumb 以外の指。
+FINGERINGS	(fingerの変化形) (名詞) 指、特に thumb 以外の指。
+FINGERNAIL	(名詞) fingernailの訳: 手の爪
+FINGERNAILS	(名詞) fingernailの複数形: 手の爪
+FINGERPRINT	(名詞) 指紋: 指先の皮膚にある汗腺の開口部が隆起した線（隆線）によりできる紋様。またはこの隆線の形作るパターンが物体の表面に付着した跡。人それぞれに異なり、かつ、一生そのパターンが変わらないという特徴から、犯罪捜査や本人の同定に用いられる。\n(動詞) 指紋を採取する。
+FINGERPRINTED	(動詞) "fingerprint" の過去形・過去分詞形: 指紋:...
+FINGERPRINTING	(動詞) "fingerprint" の動名詞形又は現在分詞形: 指紋:...
+FINGERPRINTINGS	(fingerprintの変化形) (名詞) 指紋:...
+FINGERPRINTS	(名詞) "fingerprint" の複数形: 指紋:...\n(動詞) "fingerprint" の三人称単数現在形: 指紋:...
+FINGERS	(名詞) "finger" の複数形: 指、特に thumb 以外の指。\n(動詞) "finger" の三人称単数現在形: 指、特に thumb 以外の指。
+FINGERTIP	(名詞) 指先: 手足の指の先端。\n(動詞) fingertipの訳: 指先で動かす
+FINGERTIPS	(名詞) fingertipの複数形: 指先: 手足の指の先端。\n(動詞) fingertipの三人称単数現在形: 指先: 手足の指の先端。
+FINING	(動詞) "fine" の動名詞形又は現在分詞形: ⟪すばらしい⟫, 素敵な
+FININGS	(fineの変化形) (形容詞) fineの訳: ⟪すばらしい⟫, 素敵な
+FINISH	(動詞) finishの訳: ⟪終える|おえる⟫, 完成させる\n(名詞) finishの訳: ⟪最後|さいご⟫
+FINISHED	(形容詞) 完成した。仕上がった。\n(動詞) finishの過去形・過去分詞: ⟪終える|おえる⟫, 完成させる
+FINISHES	(名詞) "finish" の複数形: ⟪終える|おえる⟫, 完成させる\n(動詞) "finish" の三人称単数現在形: ⟪終える|おえる⟫, 完成させる
+FINISHING	(動詞) "finish" の動名詞形又は現在分詞形: ⟪終える|おえる⟫, 完成させる
+FINITE	(形容詞) finiteの訳: 終わりの有る, 有限の, 限られた
+FINITES	(finiteの変化形) (形容詞) finiteの訳: 終わりの有る, 有限の, 限られた
+FINNED	(finの変化形) (名詞) finの訳: ⟪鰭|うるか⟫
+FINNING	(finの変化形) (名詞) finの訳: ⟪鰭|うるか⟫
+FINS	(finの変化形) (名詞) finの訳: ⟪鰭|うるか⟫
+FIORD	(名詞) fiordの訳: 峡江, 峡湾, フィヨルド
+FIORDS	(fiordの変化形) (名詞) fiordの訳: 峡江, 峡湾, フィヨルド
+FIR	(名詞) もみ: マツ科モミ属に属する常緑樹。学名: Abies firma。別名、もみのき。
+FIRE	(名詞) 火: ひ。物が燃えるときに出る炎や熱。 (ほかに: 炎, 火炎)\n(動詞) : ～に火をつける。
+FIREARM	(名詞) 銃器: 火器のうち、一人で携帯できる小銃や機関銃などの総称。 (ほかに: 火器)
+FIREARMS	(名詞) firearmの複数形: 銃器: 火器のうち、一人で携帯できる小銃や機関銃などの総称。 (ほかに: 火器)
+FIREBRAND	(名詞) firebrandの訳: 扇動者
+FIREBRANDS	(名詞) firebrandの複数形: 扇動者
+FIRECRACKER	(名詞) 爆竹: 竹や紙の筒に火薬を詰め、点火して鳴らすもの。
+FIRECRACKERS	(firecrackerの変化形) (名詞) 爆竹: 竹や紙の筒に火薬を詰め、点火して鳴らすもの。
+FIRED	(形容詞) firedの訳: 解雇された\n(動詞) fireの過去形・過去分詞: 火: ひ。物が燃えるときに出る炎や熱。 (ほかに: 炎, 火炎)
+FIREFIGHTER	(名詞) 消防士: 消防業務において火災現場で火災の鎮火や人命救助を執行することを専らとする官吏。
+FIREFIGHTERS	(firefighterの変化形) (名詞) 消防士: 消防業務において火災現場で火災の鎮火や人命救助を執行することを専らとする官吏。
+FIREFLIES	(名詞) fireflyの複数形: 蛍
+FIREFLY	(名詞) fireflyの訳: 蛍
+FIREMAN	(名詞) firemanの訳: 消防士
+FIREMEN	(名詞) "fireman" の複数形: 消防士
+FIREPLACE	(名詞) 暖炉: 火を焚いて室内を暖めるための炉。 (ほかに: 炉, かまど)
+FIREPLACED	(fireplaceの変化形) (名詞) 暖炉: 火を焚いて室内を暖めるための炉。 (ほかに: 炉, かまど)
+FIREPLACES	(名詞) fireplaceの複数形: 暖炉: 火を焚いて室内を暖めるための炉。 (ほかに: 炉, かまど)
+FIREPROOF	(形容詞) fireproofの訳: 耐火性の\n(動詞) fireproofの訳: 耐火性にする
+FIREPROOFED	(動詞) "fireproof" の過去形・過去分詞形: 耐火性の
+FIREPROOFING	(動詞) "fireproof" の動名詞形又は現在分詞形: 耐火性の
+FIREPROOFS	(動詞) "fireproof" の三人称単数現在形: 耐火性の
+FIRES	(名詞) "fire" の複数形: 火: ひ。物が燃えるときに出る炎や熱。 (ほかに: 炎, 火炎)\n(動詞) "fire" の三人称単数現在形: 火: ひ。物が燃えるときに出る炎や熱。 (ほかに: 炎, 火炎)
+FIRESIDE	(名詞) firesideの訳: 囲炉裏端, 炉端\n(形容詞) firesideの訳: 炉端の
+FIRESIDES	(firesideの変化形) (名詞) firesideの訳: 囲炉裏端, 炉端
+FIRESTORM	(名詞) 火災旋風: 大規模な火災が発生することで起こる竜巻のような旋風。
+FIRESTORMS	(firestormの変化形) (名詞) 火災旋風: 大規模な火災が発生することで起こる竜巻のような旋風。
+FIREWEED	(名詞) fireweedの訳: ヤナギラン
+FIREWEEDS	(名詞) fireweedの複数形: ヤナギラン
+FIREWOOD	(名詞) 薪: かまどなどで、主として調理のための燃料にする木。 (ほかに: 焚き木)
+FIREWOODS	(名詞) firewoodの複数形: 薪: かまどなどで、主として調理のための燃料にする木。 (ほかに: 焚き木)
+FIREWORK	(名詞) 花火: （はなび）種々の火薬と金属の粉末を混ぜて包み、または固めたもの。火を付け、燃焼・破裂時の色、形状、音などを愉しむ。 (ほかに: 花火大会)
+FIREWORKS	(名詞) 花火: （はなび）種々の火薬と金属の粉末を混ぜて包み、または固めたもの。火を付け、燃焼・破裂時の色、形状、音などを愉しむ。 (ほかに: 花火大会)
+FIRING	(名詞) firingの訳: 焼成\n(動詞) fireの動名詞又は現在分詞: 火: ひ。物が燃えるときに出る炎や熱。 (ほかに: 炎, 火炎)
+FIRINGS	(名詞) firingの複数形: 焼成
+FIRM	(名詞) firmの訳: 事業会社, 商会\n(形容詞) firmの訳: 堅い, 身の締まった
+FIRMAMENT	(名詞) firmamentの訳: 大空, ⟪天空|てんくう⟫
+FIRMAMENTS	(名詞) firmamentの複数形: 大空, ⟪天空|てんくう⟫
+FIRMANS	(名詞) firmanの複数形。
+FIRMED	(動詞) firmの過去形・過去分詞: 事業会社, 商会
+FIRMER	(形容詞) "firm" の比較級形: 事業会社, 商会\n(名詞) firmする人。
+FIRMEST	(形容詞) "firm" の最上級形: 事業会社, 商会
+FIRMING	(形容詞) firmingの訳: ⟪引き締める|ひきしめる⟫\n(動詞) firmの動名詞又は現在分詞: 事業会社, 商会
+FIRMLY	(副詞) firmlyの訳: 堅く, 断固として
+FIRMNESS	(名詞) firmnessの訳: 堅さ, 堅固さ, 揺るぎ無さ
+FIRMNESSES	(名詞) firmnessの複数形: 堅さ, 堅固さ, 揺るぎ無さ
+FIRMS	(名詞) firmの複数形: 事業会社, 商会\n(動詞) firmの直説法現在第三人称単数形: 事業会社, 商会
+FIRMWARE	(名詞) firmwareの訳: ファームウェア
+FIRMWARES	(firmwareの変化形) (名詞) firmwareの訳: ファームウェア
+FIRS	(firの変化形) (名詞) もみ: マツ科モミ属に属する常緑樹。学名: Abies firma。別名、もみのき。
+FIRST	(形容詞) firstの訳: 第一の, 一番の, 最初の, 始めの\n(副詞) まず: 最初に。第一に。 (ほかに: 始めに, 最初に)
+FIRSTHAND	(形容詞) 直の: 間にものが介在していない様、直接。 (ほかに: 直接聞いた)
+FIRSTLY	(副詞) 最初に。初めに。まず第一に。
+FIRSTS	(名詞) firstの複数形: 第一の, 一番の, 最初の, 始めの
+FISCAL	(形容詞) fiscalの訳: 会計の, 国庫の, 財務の\n(名詞) fiscalの訳: 収入印紙
+FISCALS	(名詞) fiscalの複数形: 会計の, 国庫の, 財務の
+FISH	(名詞) 魚: 【魚】 《動物》うお。魚類。脊椎動物の一分野で、水中で生活し一般にえら呼吸をする。\n(動詞) fishの訳: 魚を釣る
+FISHBONE	(名詞) fishboneの訳: 魚の骨
+FISHBONES	(名詞) fishboneの複数形: 魚の骨
+FISHBOWL	(名詞) fishbowlの訳: 金魚鉢, 金魚玉
+FISHBOWLS	(fishbowlの変化形) (名詞) fishbowlの訳: 金魚鉢, 金魚玉
+FISHED	(動詞) "fish" の過去形・過去分詞形: 魚: 【魚】 《動物》うお。魚類。脊椎動物の一分野で、水中で生活し一般にえら呼吸をする。
+FISHER	(名詞) 漁師。漁夫。
+FISHERIES	(名詞) fisheryの複数形: 水産業: 産業又は職業のひとつであり、主に、海、川、湖などにおいて、食料となる水産物の漁獲又は採取、養殖などを行う。 (ほかに: 漁業)
+FISHERMAN	(名詞) 漁師。漁夫。
+FISHERMEN	(名詞) fishermanの複数形: 漁師。漁夫。
+FISHERS	(名詞) fisherの複数形: 漁師。漁夫。
+FISHERY	(名詞) 水産業: 産業又は職業のひとつであり、主に、海、川、湖などにおいて、食料となる水産物の漁獲又は採取、養殖などを行う。 (ほかに: 漁業)
+FISHES	(名詞) fishの複数形: 魚: 【魚】 《動物》うお。魚類。脊椎動物の一分野で、水中で生活し一般にえら呼吸をする。\n(動詞) fishの直説法現在第三人称単数形: 魚: 【魚】 《動物》うお。魚類。脊椎動物の一分野で、水中で生活し一般にえら呼吸をする。
+FISHIER	(形容詞) fishyの比較級: 魚の
+FISHIEST	(形容詞) fishyの最上級: 魚の
+FISHING	(動詞) fishの現在分詞及び動名詞: 魚: 【魚】 《動物》うお。魚類。脊椎動物の一分野で、水中で生活し一般にえら呼吸をする。\n(名詞) fishingの訳: 魚釣り
+FISHINGS	(名詞) fishingの複数形: fishの現在分詞及び動名詞。
+FISHMONGER	(名詞) さかなや: 海産物を売る店。海産物を売る人。
+FISHMONGERS	(fishmongerの変化形) (名詞) さかなや: 海産物を売る店。海産物を売る人。
+FISHNET	(名詞) 魚網: 魚を獲るための網。漁網。
+FISHNETS	(名詞) fishnetの複数形: 魚網: 魚を獲るための網。漁網。
+FISHPOND	(名詞) fishpondの訳: 養魚池
+FISHPONDS	(名詞) fishpondの複数形: 養魚池
+FISHY	(形容詞) fishyの訳: 魚の
+FISSURE	(名詞) 裂け目: （さけめ）線状に裂けた部分。 (ほかに: 割れ目, 亀裂)\n(動詞) 割れ目が生じる。
+FISSURED	(動詞) fissureの過去形・過去分詞: 裂け目: （さけめ）線状に裂けた部分。 (ほかに: 割れ目, 亀裂)\n(形容詞) fissuredの訳: ひびの入った, 亀裂の入った
+FISSURES	(名詞) fissureの複数形: 裂け目: （さけめ）線状に裂けた部分。 (ほかに: 割れ目, 亀裂)\n(動詞) fissureの直説法現在第三人称単数形: 裂け目: （さけめ）線状に裂けた部分。 (ほかに: 割れ目, 亀裂)
+FISSURING	(動詞) fissureの現在分詞: 裂け目: （さけめ）線状に裂けた部分。 (ほかに: 割れ目, 亀裂)\n(名詞) fissuringの訳: 裂溝
+FIST	(名詞) 握り拳: （にぎりこぶし）固く握った手。 (ほかに: 拳骨)\n(動詞) ～を拳骨で殴る。
+FISTED	(形容詞) fistedの訳: ～な拳の\n(動詞) fistの過去形・過去分詞: 握り拳: （にぎりこぶし）固く握った手。 (ほかに: 拳骨)
+FISTFUL	(名詞) 一摑み。一握り。少量。
+FISTFULS	(名詞) fistfulの複数形: 一摑み。一握り。少量。
+FISTING	(動詞) fistの現在分詞: 握り拳: （にぎりこぶし）固く握った手。 (ほかに: 拳骨)
+FISTS	(名詞) fistの複数形: 握り拳: （にぎりこぶし）固く握った手。 (ほかに: 拳骨)\n(動詞) fistの直説法現在第三人称単数形: 握り拳: （にぎりこぶし）固く握った手。 (ほかに: 拳骨)
+FISTULA	(名詞) fistulaの訳: 瘻管
+FISTULAE	(fistulaの変化形) (名詞) fistulaの訳: 瘻管
+FISTULAS	(fistulaの変化形) (名詞) fistulaの訳: 瘻管
+FIT	(名詞) 服などの合い具合。\n(形容詞) 相応な。適当な。相応しい。適した。
+FITFUL	(形容詞) 発作的な。断続的な。気紛れな。
+FITFULLY	(副詞) 発作的に。断続的に。
+FITNESS	(名詞) フィットネス: （けんこう）身体や精神が、良好な状態であること。 (ほかに: 健康)
+FITNESSES	(名詞) fitnessの複数形: フィットネス: （けんこう）身体や精神が、良好な状態であること。 (ほかに: 健康)
+FITS	(名詞) "fit" の複数形: 服などの合い具合。\n(動詞) "fit" の三人称単数現在形: 服などの合い具合。
+FITTED	(動詞) "fit" の過去形・過去分詞形: 服などの合い具合。
+FITTER	(形容詞) "fit" の比較級形: 服などの合い具合。\n(名詞) fitterの訳: fitする人
+FITTERS	(名詞) "fitter" の複数形: "fit" の比較級形。
+FITTEST	(形容詞) "fit" の最上級形: 服などの合い具合。
+FITTING	(動詞) "fit" の動名詞形又は現在分詞形: 服などの合い具合。\n(形容詞) 適した。適切な。相応しい。合っている。
+FITTINGS	(名詞) 造作: （ぞうさ、ぞうさく）造ること。
+FIVE	(数詞) 五: 5。四より一多い数。\n(形容詞) fiveの訳: 5の
+FIVER	(fiveの変化形) (数詞) 五: 5。四より一多い数。
+FIVERS	(fiveの変化形) (数詞) 五: 5。四より一多い数。
+FIX	(動詞) 固定する。取り付ける。据える。固着する。定着させる。つける。\n(名詞) 苦境。窮地。困った立場。板ばさみ。
+FIXATE	(動詞) fixateの訳: 凝視
+FIXATED	(fixateの変化形) (動詞) fixateの訳: 凝視
+FIXATES	(fixateの変化形) (動詞) fixateの訳: 凝視
+FIXATING	(fixateの変化形) (動詞) fixateの訳: 凝視
+FIXATION	(名詞) fixationの訳: 凝視
+FIXATIONS	(fixationの変化形) (名詞) fixationの訳: 凝視
+FIXED	(動詞) fixの過去形・過去分詞: 固定する。取り付ける。据える。固着する。定着させる。つける。\n(形容詞) fixedの訳: 固定された, 安定した, 確定した, 不動の
+FIXEDLY	(副詞) fixedlyの訳: 固定して
+FIXES	(fixの変化形) (動詞) 固定する。取り付ける。据える。固着する。定着させる。つける。
+FIXING	(動詞) "fix" の動名詞形又は現在分詞形: 固定する。取り付ける。据える。固着する。定着させる。つける。
+FIXTURES	(名詞) 造作: （ぞうさく）建物の内部の天井を張ったり、棚をつけたりして、家の内部を作ること。
+FJORD	(名詞) fjordの訳: 峡江, 峡湾, フィヨルド
+FJORDS	(fjordの変化形) (名詞) fjordの訳: 峡江, 峡湾, フィヨルド
+FLABBERGASTED	(動詞) 吃驚: 驚くこと。 (ほかに: おどろく, 喫驚)
+FLABBIER	(形容詞) flabbyの比較級: 贅肉の付いた。弛んだ。締まりのない。
+FLABBIEST	(形容詞) flabbyの最上級: 贅肉の付いた。弛んだ。締まりのない。
+FLABBY	(形容詞) 贅肉の付いた。弛んだ。締まりのない。
+FLAG	(名詞) flagの訳: 旗\n(動詞) flagの訳: 旗を立てる
+FLAGGED	(動詞) "flag" の過去形・過去分詞形: 旗
+FLAGGER	(flagの変化形) (名詞) flagの訳: 旗
+FLAGGING	(動詞) "flag" の動名詞形又は現在分詞形: 旗
+FLAGGINGLY	(flagの変化形) (名詞) flagの訳: 旗
+FLAGGINGS	(flagの変化形) (名詞) flagの訳: 旗
+FLAGON	(名詞) flagonの訳: 大瓶
+FLAGONS	(名詞) flagonの複数形: 大瓶
+FLAGPOLE	(名詞) flagpoleの訳: ⟪旗竿|はたざお⟫
+FLAGPOLES	(flagpoleの変化形) (名詞) flagpoleの訳: ⟪旗竿|はたざお⟫
+FLAGRANCIES	(flagrancyの変化形) (名詞) 悪声: 良くない噂。悪評。悪名。 (ほかに: 悪評, 悪名)
+FLAGRANCY	(名詞) 悪声: 良くない噂。悪評。悪名。 (ほかに: 悪評, 悪名)
+FLAGRANT	(形容詞) flagrantの訳: 目に余る, 破廉恥な
+FLAGS	(名詞) "flag" の複数形: 旗\n(動詞) "flag" の三人称単数現在形: 旗
+FLAGSHIP	(名詞) flagshipの訳: 旗艦
+FLAGSHIPS	(名詞) flagshipの複数形: 旗艦
+FLAGSTAFF	(名詞) flagstaffの訳: ⟪旗竿|はたざお⟫
+FLAGSTAFFS	(名詞) flagstaffの複数形: ⟪旗竿|はたざお⟫
+FLAGSTAVES	(名詞) flagstaffの複数形: ⟪旗竿|はたざお⟫
+FLAGSTONE	(名詞) flagstoneの訳: 板石, ⟪敷石|しきいし⟫
+FLAGSTONES	(名詞) flagstoneの複数形: 板石, ⟪敷石|しきいし⟫
+FLAKE	(名詞) flakeの訳: フレーク
+FLAKED	(flakeの変化形) (名詞) flakeの訳: フレーク
+FLAKER	(flakeの変化形) (名詞) flakeの訳: フレーク
+FLAKES	(flakeの変化形) (名詞) flakeの訳: フレーク
+FLAKIER	(flakyの変化形) (形容詞) flakyの訳: 頼りない
+FLAKIEST	(flakyの変化形) (形容詞) flakyの訳: 頼りない
+FLAKILY	(flakyの変化形) (形容詞) flakyの訳: 頼りない
+FLAKING	(flakeの変化形) (名詞) flakeの訳: フレーク
+FLAKY	(形容詞) flakyの訳: 頼りない
+FLAMBEAU	(名詞) 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。
+FLAMBEAUS	(名詞) flambeauの複数形: 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。
+FLAMBEAUX	(名詞) flambeauの複数形: 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。
+FLAMBEED	(動詞) flambeeの過去形・過去分詞。
+FLAMBEING	(動詞) flambeの現在分詞。
+FLAME	(名詞) flameの訳: ⟪炎|ほむら⟫\n(動詞) 燃え上がる: （もえあがる）燃えて炎が高く上がる。
+FLAMED	(動詞) flameの過去形・過去分詞: ⟪炎|ほむら⟫\n(形容詞) flamedの訳: 直火で焼いた
+FLAMEPROOF	(形容詞) flameproofの訳: 耐炎性の
+FLAMEPROOFER	(flameproofの変化形) (形容詞) flameproofの訳: 耐炎性の
+FLAMES	(名詞) "flame" の複数形: ⟪炎|ほむら⟫\n(動詞) "flame" の三人称単数現在形: ⟪炎|ほむら⟫
+FLAMETHROWER	(名詞) 火炎放射器: 液体燃料を圧縮空気で放射、噴霧することで点火し人間や物体を殺傷、焼却して攻撃する兵器。
+FLAMETHROWERS	(flamethrowerの変化形) (名詞) 火炎放射器: 液体燃料を圧縮空気で放射、噴霧することで点火し人間や物体を殺傷、焼却して攻撃する兵器。
+FLAMING	(形容詞) flamingの訳: 燃えている\n(動詞) "flame" の動名詞又は現在分詞: ⟪炎|ほむら⟫
+FLAMINGO	(名詞) flamingoの訳: フラミンゴ
+FLAMINGOES	(flamingoの変化形) (名詞) flamingoの訳: フラミンゴ
+FLAMINGOS	(flamingoの変化形) (名詞) flamingoの訳: フラミンゴ
+FLAMMABLE	(形容詞) flammableの訳: 燃えやすい
+FLAMMABLES	(flammableの変化形) (形容詞) flammableの訳: 燃えやすい
+FLANK	(動詞) 側面を攻撃する。\n(名詞) 脇腹。横腹。
+FLANKED	(動詞) flankの過去形・過去分詞: 側面を攻撃する。
+FLANKER	(名詞) flankerの訳: 長者
+FLANKERS	(flankerの変化形) (名詞) flankerの訳: 長者
+FLANKING	(動詞) flankの現在分詞: 側面を攻撃する。
+FLANKS	(動詞) flankの直説法現在第三人称単数形: 側面を攻撃する。\n(名詞) flankの複数形: 側面を攻撃する。
+FLANNEL	(名詞) フランネル: 平織りまたは綾織りの、軽く縮圧して起毛した厚手の毛織物。本ネル。ネル。
+FLANNELING	(flannelの変化形) (名詞) フランネル: 平織りまたは綾織りの、軽く縮圧して起毛した厚手の毛織物。本ネル。ネル。
+FLANNELLED	(flannelの変化形) (名詞) フランネル: 平織りまたは綾織りの、軽く縮圧して起毛した厚手の毛織物。本ネル。ネル。
+FLANNELLING	(flannelの変化形) (名詞) フランネル: 平織りまたは綾織りの、軽く縮圧して起毛した厚手の毛織物。本ネル。ネル。
+FLANNELLY	(flannelの変化形) (名詞) フランネル: 平織りまたは綾織りの、軽く縮圧して起毛した厚手の毛織物。本ネル。ネル。
+FLANNELS	(flannelの変化形) (名詞) フランネル: 平織りまたは綾織りの、軽く縮圧して起毛した厚手の毛織物。本ネル。ネル。
+FLAP	(名詞) flapの訳: ⟪はおと⟫
+FLAPPED	(flapの変化形) (名詞) flapの訳: ⟪はおと⟫
+FLAPPING	(形容詞) 羽ばたく；ぱたぱたとはためく\n(名詞) 羽ばたく事；はためく事。
+FLAPS	(flapの変化形) (名詞) flapの訳: ⟪はおと⟫
+FLARE	(名詞) flareの訳: 閃光\n(動詞) 燃え上がらせる。
+FLARED	(動詞) flareの過去形・過去分詞: 閃光
+FLARES	(名詞) flareの複数形: 閃光\n(動詞) flareの直説法現在第三人称単数形: 閃光
+FLARING	(動詞) flareの現在分詞: 閃光\n(名詞) flaringの訳: 口広げ加工
+FLASH	(動詞) flashの訳: ぱっと照らす\n(名詞) 煌めき。閃光。
+FLASHED	(動詞) flashの過去形・過去分詞: ぱっと照らす
+FLASHES	(名詞) flashの複数形: ぱっと照らす\n(動詞) flashの直説法現在第三人称単数形: ぱっと照らす
+FLASHGUN	(名詞) フラッシュガン。
+FLASHGUNS	(名詞) flashgunの複数形: フラッシュガン。
+FLASHIER	(形容詞) flashyの比較級: 派手な。華美な。けばけばしい。
+FLASHIEST	(形容詞) flashyの最上級: 派手な。華美な。けばけばしい。
+FLASHING	(名詞) flashingの訳: 閃光\n(動詞) flashの現在分詞: ぱっと照らす
+FLASHINGS	(名詞) flashingの複数形: 閃光
+FLASHLIGHT	(名詞) 懐中電灯: 携帯用の小型電灯。\n(動詞) 懐中電灯で照らす。
+FLASHLIGHTS	(名詞) flashlightの複数形: 懐中電灯: 携帯用の小型電灯。\n(動詞) flashlightの直説法現在第三人称単数形: 懐中電灯: 携帯用の小型電灯。
+FLASHY	(形容詞) 派手な。華美な。けばけばしい。
+FLASK	(名詞) フラスコ: 主にガラスでできた、首が長く胴部が膨らんだ実験器具。
+FLASKS	(flaskの変化形) (名詞) フラスコ: 主にガラスでできた、首が長く胴部が膨らんだ実験器具。
+FLAT	(形容詞) 平らな。平坦な。水平な。\n(副詞) 平らに。水平に。
+FLATFISH	(名詞) カレイ: カレイ科の魚の総称。
+FLATFISHES	(flatfishの変化形) (名詞) カレイ: カレイ科の魚の総称。
+FLATIRON	(名詞) アイロン: 熱した金属(鉄)の部分を当てて衣服の皺を伸ばし、その形を整える道具。
+FLATIRONS	(flatironの変化形) (名詞) アイロン: 熱した金属(鉄)の部分を当てて衣服の皺を伸ばし、その形を整える道具。
+FLATLY	(副詞) 平らに。平坦に。水平に。
+FLATMATE	(名詞) flatmateの訳: 同居人, ルームメイト, 部屋っ子
+FLATMATES	(flatmateの変化形) (名詞) flatmateの訳: 同居人, ルームメイト, 部屋っ子
+FLATNESS	(名詞) 平らなこと。平坦。
+FLATNESSES	(名詞) flatnessの複数形: 平らなこと。平坦。
+FLATS	(名詞) flatの複数形: 平らな。平坦な。水平な。\n(動詞) flatの直説法現在第三人称単数形: 平らな。平坦な。水平な。
+FLATTED	(動詞) flatの過去形・過去分詞: 平らな。平坦な。水平な。
+FLATTEN	(動詞) 平らにする。平たくする。ならす。まっすぐにする。ぺしゃんこにする。扁平にする。平坦にする。伸ばす；平らになる。
+FLATTENED	(動詞) "flatten" の過去形・過去分詞形: 平らにする。平たくする。ならす。まっすぐにする。ぺしゃんこにする。扁平にする。平坦にする。伸ばす；平らになる。
+FLATTENER	(flattenの変化形) (動詞) 平らにする。平たくする。ならす。まっすぐにする。ぺしゃんこにする。扁平にする。平坦にする。伸ばす；平らになる。
+FLATTENING	(動詞) "flatten" の動名詞形又は現在分詞形: 平らにする。平たくする。ならす。まっすぐにする。ぺしゃんこにする。扁平にする。平坦にする。伸ばす；平らになる。\n(名詞) 平坦化。（高低差の）フラット化。平らにすること。
+FLATTENS	(動詞) "flatten" の三人称単数現在形: 平らにする。平たくする。ならす。まっすぐにする。ぺしゃんこにする。扁平にする。平坦にする。伸ばす；平らになる。
+FLATTER	(形容詞) flatの比較級: 平らな。平坦な。水平な。\n(動詞) 御世辞を言う。諂う。
+FLATTERED	(形容詞) 嬉しく思う。光栄に思う。\n(動詞) flatterの過去形・過去分詞: flatの比較級: 平らな。平坦な。水平な。
+FLATTERER	(名詞) おべっか使い。茶坊主。諂媚者。御世辞の上手い人。
+FLATTERERS	(名詞) flattererの複数形: おべっか使い。茶坊主。諂媚者。御世辞の上手い人。
+FLATTERIES	(名詞) flatteryの複数形: 御世辞。諂い。おべっか。
+FLATTERING	(形容詞) 御世辞の。喜ばせる。\n(動詞) flatterの現在分詞: flatの比較級: 平らな。平坦な。水平な。
+FLATTERS	(名詞) flatterの複数形: flatの比較級: 平らな。平坦な。水平な。\n(動詞) flatterの直説法現在第三人称単数形: flatの比較級: 平らな。平坦な。水平な。
+FLATTERY	(名詞) 御世辞。諂い。おべっか。
+FLATTEST	(形容詞) flatの最上級: 平らな。平坦な。水平な。
+FLATULENCE	(名詞) 鼓腸: 腸内にガスがたまり、腹部が膨満する疾患。
+FLATULENCES	(名詞) flatulenceの複数形: 鼓腸: 腸内にガスがたまり、腹部が膨満する疾患。
+FLATULENT	(形容詞) flatulentの訳: 鼓腸性の
+FLATWORM	(名詞) flatwormの訳: 扁形動物
+FLATWORMS	(名詞) flatwormの複数形: 扁形動物
+FLAUNT	(動詞) ひけらかす: （才能や腕前を）得意になって見せびらかす。 (ほかに: 見せびらかす, 誇示する)
+FLAUNTED	(動詞) flauntの過去形・過去分詞: ひけらかす: （才能や腕前を）得意になって見せびらかす。 (ほかに: 見せびらかす, 誇示する)
+FLAUNTER	(flauntの変化形) (動詞) ひけらかす: （才能や腕前を）得意になって見せびらかす。 (ほかに: 見せびらかす, 誇示する)
+FLAUNTING	(動詞) flauntの現在分詞: ひけらかす: （才能や腕前を）得意になって見せびらかす。 (ほかに: 見せびらかす, 誇示する)\n(形容詞) 見せびらかしている、ひけらかしている、誇示している。
+FLAUNTS	(動詞) flauntの直説法現在第三人称単数形: ひけらかす: （才能や腕前を）得意になって見せびらかす。 (ほかに: 見せびらかす, 誇示する)\n(名詞) flauntの複数形: ひけらかす: （才能や腕前を）得意になって見せびらかす。 (ほかに: 見せびらかす, 誇示する)
+FLAUTIST	(名詞) フルーティスト: フルートの演奏家。
+FLAUTISTS	(flautistの変化形) (名詞) フルーティスト: フルートの演奏家。
+FLAVOR	(名詞) flavorの訳: 味, ⟪風味|ふうみ⟫\n(動詞) ～に風味をつける。
+FLAVORED	(形容詞) flavouredの異綴。\n(動詞) flavorの過去形・過去分詞: 味, ⟪風味|ふうみ⟫
+FLAVORING	(名詞) 香辛料。調味料。\n(動詞) flavorの動名詞又は現在分詞: 味, ⟪風味|ふうみ⟫
+FLAVORINGS	(名詞) flavoringの複数形: 香辛料。調味料。
+FLAVORLESS	(形容詞) flavorlessの訳: 風味の無い
+FLAVORS	(名詞) flavorの複数形: 味, ⟪風味|ふうみ⟫\n(動詞) flavorの直説法現在第三人称単数形: 味, ⟪風味|ふうみ⟫
+FLAVOUR	(名詞) flavourの訳: 味, ⟪風味|ふうみ⟫\n(動詞) 〜に風味をつける。
+FLAVOURED	(形容詞) 風味付けされた。\n(動詞) flavorの過去形・過去分詞: 味, ⟪風味|ふうみ⟫
+FLAVOURING	(名詞) flavoringの英国式綴り。\n(動詞) flavorの動名詞又は現在分詞: 味, ⟪風味|ふうみ⟫
+FLAVOURS	(名詞) flavourの複数形: 味, ⟪風味|ふうみ⟫\n(動詞) flavourの直説法現在第三人称単数形: 味, ⟪風味|ふうみ⟫
+FLAW	(名詞) ひび。傷。\n(動詞) 傷を付ける。だめにする。
+FLAWED	(形容詞) 傷のある。欠点のある。\n(動詞) flawの過去形・過去分詞: ひび。傷。
+FLAWING	(動詞) flawの現在分詞: ひび。傷。
+FLAWLESS	(形容詞) 欠点のない。完璧な。
+FLAWS	(名詞) flawの複数形: ひび。傷。\n(動詞) flawの直説法現在第三人称単数形: ひび。傷。
+FLAX	(名詞) flaxの訳: 亜麻
+FLAXEN	(形容詞) flaxenの訳: 亜麻製の
+FLAXES	(名詞) flaxの複数形: 亜麻
+FLEA	(名詞) fleaの訳: ノミ
+FLEAS	(名詞) fleaの複数形: ノミ
+FLED	(動詞) fleeの過去形・過去分詞: 逃げる、逃れる、逃亡する。
+FLEDGLING	(形容詞) fledglingの訳: 未熟な, 経験のない\n(名詞) fledglingの訳: ⟪雛鳥|ひなどり⟫
+FLEDGLINGS	(fledglingの変化形) (形容詞) fledglingの訳: 未熟な, 経験のない
+FLEE	(動詞) 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 逃れる, 逃亡する)
+FLEEING	(動詞) fleeの動名詞又は現在分詞: 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 逃れる, 逃亡する)\n(名詞) 逃走: 逃げること。 (ほかに: 逃亡)
+FLEES	(動詞) "flee" の三人称単数現在形: 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 逃れる, 逃亡する)
+FLEET	(名詞) fleetの訳: ⟪艦隊|かんたい⟫\n(動詞) fleetの訳: 速く動く
+FLEETED	(動詞) fleetの過去形・過去分詞: ⟪艦隊|かんたい⟫
+FLEETER	(fleetの変化形) (名詞) fleetの訳: ⟪艦隊|かんたい⟫
+FLEETEST	(fleetの変化形) (名詞) fleetの訳: ⟪艦隊|かんたい⟫
+FLEETING	(形容詞) 儚い: 長く続かない。もろく、かぼそい。 (ほかに: 一瞬の, 束の間の)\n(動詞) fleetの現在分詞: ⟪艦隊|かんたい⟫
+FLEETNESS	(名詞) fleetnessの訳: 素早さ
+FLEETNESSES	(名詞) fleetnessの複数形: 素早さ
+FLEETS	(名詞) fleetの複数形: 艦隊。\n(動詞) fleetの直説法現在第三人称単数形: ⟪艦隊|かんたい⟫
+FLESH	(名詞) fleshの訳: ⟪果肉|かにく⟫\n(動詞) fleshの訳: ⟪突き刺す|つきさす⟫
+FLESHED	(動詞) "flesh" の過去形・過去分詞形: ⟪果肉|かにく⟫
+FLESHES	(動詞) "flesh" の三人称単数現在形: ⟪果肉|かにく⟫
+FLESHIER	(形容詞) fleshyの比較級: 肉付きのよい, 肥えた
+FLESHIEST	(形容詞) fleshyの最上級: 肉付きのよい, 肥えた
+FLESHING	(動詞) "flesh" の動名詞形又は現在分詞形: ⟪果肉|かにく⟫
+FLESHY	(形容詞) fleshyの訳: 肉付きのよい, 肥えた
+FLETCHER	(名詞) fletcherの訳: フレッチャー
+FLETCHERS	(fletcherの変化形) (名詞) fletcherの訳: フレッチャー
+FLEW	(動詞) flyの過去形: 蝿。または広く飛行能力をもつ虫。
+FLEX	(名詞) flexの訳: 柔軟さ\n(動詞) flexの訳: ⟪曲げる|まげる⟫
+FLEXED	(動詞) flexの過去形・過去分詞: 柔軟さ
+FLEXES	(動詞) flexの直接法現在第三人称単数形。\n(名詞) flexの複数形: 柔軟さ
+FLEXIBILITIES	(名詞) flexibilityの複数形: 曲げやすいこと、柔軟性。
+FLEXIBILITY	(名詞) 曲げやすいこと、柔軟性。
+FLEXIBLE	(形容詞) flexibleの訳: 曲げやすい, しなやかな\n(名詞) 曲げやすい素材。
+FLEXIBLY	(副詞) 曲げやすく。柔軟に。
+FLEXING	(動詞) flexの現在分詞: 柔軟さ\n(名詞) 屈曲。（筋肉の）収縮。
+FLEXOR	(名詞) 屈筋: 脊椎動物で関節を屈曲させる働きをする筋肉。
+FLEXORS	(名詞) flexorの複数形: 屈筋: 脊椎動物で関節を屈曲させる働きをする筋肉。
+FLIED	(flyの変化形) (名詞) 蝿。または広く飛行能力をもつ虫。
+FLIES	(名詞) fly の複数形: 蝿。または広く飛行能力をもつ虫。\n(動詞) fly の直説法三人称単数現在形: 蝿。または広く飛行能力をもつ虫。
+FLIEST	(flyの変化形) (名詞) 蝿。または広く飛行能力をもつ虫。
+FLIGHT	(名詞) 飛行: （ひこう）空を飛ぶこと。 (ほかに: 飛ぶこと)
+FLIGHTED	(flightの変化形) (名詞) 飛行: （ひこう）空を飛ぶこと。 (ほかに: 飛ぶこと)
+FLIGHTING	(flightの変化形) (名詞) 飛行: （ひこう）空を飛ぶこと。 (ほかに: 飛ぶこと)
+FLIGHTS	(flightの変化形) (名詞) 飛行: （ひこう）空を飛ぶこと。 (ほかに: 飛ぶこと)
+FLIMSIER	(flimsyの変化形) (形容詞) 脆い: （もろい）（組織などが崩れるさまが）あっけない。はかない。 (ほかに: 壊れやすい, 頑丈でない)
+FLIMSIES	(名詞) "flimsy" の複数形: 脆い: （もろい）（組織などが崩れるさまが）あっけない。はかない。 (ほかに: 壊れやすい, 頑丈でない)
+FLIMSIEST	(flimsyの変化形) (形容詞) 脆い: （もろい）（組織などが崩れるさまが）あっけない。はかない。 (ほかに: 壊れやすい, 頑丈でない)
+FLIMSILY	(副詞) 脆弱に: 脆く弱いこと。また、そのさま。 (ほかに: 脆く, 薄弱に)
+FLIMSY	(形容詞) 脆い: （もろい）（組織などが崩れるさまが）あっけない。はかない。 (ほかに: 壊れやすい, 頑丈でない)\n(名詞) 複写用の薄葉紙。
+FLING	(動詞) なげる: 手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+FLINGING	(flingの変化形) (動詞) なげる: 手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+FLINGS	(flingの変化形) (動詞) なげる: 手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+FLINT	(名詞) flintの訳: 燧石, 火打ち石
+FLINTED	(動詞) "flint" の過去形・過去分詞: 燧石, 火打ち石
+FLINTING	(動詞) "flint" の動名詞又は現在分詞: 燧石, 火打ち石
+FLINTS	(名詞) "flint" の複数形: 燧石, 火打ち石\n(動詞) "flint" の現在第三人称単数形。
+FLIP	(名詞) flipの訳: 弾くこと\n(動詞) flipの訳: 反転させる
+FLIPPANCIES	(名詞) flippancyの複数形: 不真面目: 真面目でないこと。また、そのようなさま。 (ほかに: 軽薄, 軽率)
+FLIPPANCY	(名詞) 不真面目: 真面目でないこと。また、そのようなさま。 (ほかに: 軽薄, 軽率)
+FLIPPANT	(形容詞) 軽薄な: 心が上滑りして、誠実な様子が見えないこと。 (ほかに: 軽率な, 不真面目な)
+FLIPPED	(動詞) flipの過去形・過去分詞: 弾くこと
+FLIPPEST	(flipの変化形) (名詞) flipの訳: 弾くこと
+FLIPPING	(flipの変化形) (名詞) flipの訳: 弾くこと
+FLIPS	(名詞) flipの複数形: 弾くこと\n(動詞) flipの直説法現在第三人称単数形: 弾くこと
+FLIRT	(名詞) ひょいと投げること。\n(動詞) ひょいと投げる。[16世紀より]
+FLIRTATION	(名詞) flirtationの訳: 浮気
+FLIRTATIONS	(名詞) flirtationの複数形: 浮気
+FLIRTATIOUS	(形容詞) flirtatiousの訳: 浮気な, 浮ついた, 軽薄な
+FLIRTATIOUSLY	(副詞) flirtatiouslyの訳: 軽薄に
+FLIRTED	(動詞) flirtの過去形・過去分詞: ひょいと投げること。
+FLIRTER	(flirtの変化形) (名詞) ひょいと投げること。
+FLIRTING	(動詞) flirtの現在分詞: ひょいと投げること。\n(名詞) flirtingの訳: いちゃつき
+FLIRTS	(名詞) flirtの複数形: ひょいと投げること。\n(動詞) flirtの直説法現在第三人称単数形: ひょいと投げること。
+FLOAT	(動詞) 浮かぶ: 奥から表面に現れ出る。水中から水面に移動する。 (ほかに: 浮く)\n(名詞) floatの訳: 浮くもの, 浮遊物
+FLOATED	(動詞) floatの過去形・過去分詞: 浮かぶ: 奥から表面に現れ出る。水中から水面に移動する。 (ほかに: 浮く)
+FLOATING	(floatの変化形) (動詞) 浮かぶ: 奥から表面に現れ出る。水中から水面に移動する。 (ほかに: 浮く)
+FLOATS	(名詞) floatの複数形: 浮かぶ: 奥から表面に現れ出る。水中から水面に移動する。 (ほかに: 浮く)\n(動詞) floatの直説法現在第三人称単数形: 浮かぶ: 奥から表面に現れ出る。水中から水面に移動する。 (ほかに: 浮く)
+FLOCK	(名詞) flockの訳: 群れ\n(動詞) 集まる: （人などが）集合する。 (ほかに: 群がる)
+FLOCKED	(動詞) "flock" の過去形・過去分詞形: 群れ
+FLOCKING	(動詞) "flock" の動名詞形又は現在分詞形: 群れ
+FLOCKS	(名詞) "flock" の複数形: 群れ\n(動詞) "flock" の三人称単数現在形: 群れ
+FLOOD	(名詞) 洪水: （比喩的）大量に押し寄せる物や人\n(動詞) 氾濫する: 河川などが増水し、その水が溢れ広がること。 (ほかに: 溢れ出す)
+FLOODED	(形容詞) floodedの訳: 浸水した, 水浸しの\n(動詞) floodの過去形・過去分詞: 洪水: （比喩的）大量に押し寄せる物や人
+FLOODGATE	(名詞) 水門: 貯水池や河川、用水路などで水の流出や流入を調節するために設置される門。
+FLOODGATES	(名詞) floodgateの複数形: 水門: 貯水池や河川、用水路などで水の流出や流入を調節するために設置される門。
+FLOODING	(動詞) "flood" の動名詞形又は現在分詞形: 洪水: （比喩的）大量に押し寄せる物や人
+FLOODLIGHT	(動詞) 投光: 光を何かに当てること。
+FLOODLIGHTED	(floodlightの変化形) (動詞) 投光: 光を何かに当てること。
+FLOODLIGHTING	(名詞) 投光: 光を何かに当てること。
+FLOODLIGHTS	(floodlightの変化形) (動詞) 投光: 光を何かに当てること。
+FLOODLIT	(floodlightの変化形) (動詞) 投光: 光を何かに当てること。
+FLOODS	(名詞) "flood" の複数形: 洪水: （比喩的）大量に押し寄せる物や人\n(動詞) "flood" の三人称単数現在形: 洪水: （比喩的）大量に押し寄せる物や人
+FLOOR	(名詞) 床: （ゆか）建物の底面。\n(動詞) floorの訳: 床を張る
+FLOORBOARD	(名詞) 床板: 床に張られた板。\n(動詞) アクセルペダルを踏み込む。
+FLOORBOARDS	(名詞) floorboardの複数形: 床板: 床に張られた板。\n(動詞) floorboardの直説法現在第三人称単数形: 床板: 床に張られた板。
+FLOORED	(動詞) "floor" の過去形・過去分詞形: 床: （ゆか）建物の底面。
+FLOORING	(動詞) floorの動名詞形又は現在分詞形: 床: （ゆか）建物の底面。\n(名詞) 床: （ゆか）建物の底面。
+FLOORINGS	(名詞) "flooring" の複数形: floorの動名詞形又は現在分詞形: 床: （ゆか）建物の底面。
+FLOORS	(名詞) floorの複数形: 床: （ゆか）建物の底面。\n(動詞) floorの直説法現在第三人称単数形: 床: （ゆか）建物の底面。
+FLOP	(名詞) flopの訳: ⟪爆死|ばくし⟫\n(動詞) flopの訳: ⟪爆死|ばくし⟫
+FLOPPED	(flopの変化形) (名詞) flopの訳: ⟪爆死|ばくし⟫
+FLOPPER	(flopの変化形) (名詞) flopの訳: ⟪爆死|ばくし⟫
+FLOPPIER	(形容詞) floppyの比較級: 柔らかい、だらりと垂れ下がった。
+FLOPPIES	(名詞) floppyの複数形: 柔らかい、だらりと垂れ下がった。
+FLOPPIEST	(形容詞) floppyの最上級: 柔らかい、だらりと垂れ下がった。
+FLOPPILY	(floppyの変化形) (形容詞) 柔らかい、だらりと垂れ下がった。
+FLOPPING	(flopの変化形) (名詞) flopの訳: ⟪爆死|ばくし⟫
+FLOPPY	(形容詞) 柔らかい、だらりと垂れ下がった。\n(名詞) フロッピーディスク。
+FLOPS	(flopの変化形) (名詞) flopの訳: ⟪爆死|ばくし⟫
+FLORA	(名詞) floraの訳: 植物相
+FLORAE	(floraの変化形) (名詞) floraの訳: 植物相
+FLORAL	(形容詞) floralの訳: 花の, 花のような\n(名詞) 花柄: 一つまたは複数の花をあしらった模様。 (ほかに: 花模様)
+FLORALS	(名詞) floralの複数形: 花の, 花のような
+FLORAS	(名詞) floraの複数形: 植物相
+FLORET	(名詞) floretの訳: 小さい花
+FLORETS	(名詞) floretの複数形: 小さい花
+FLOUNDER	(名詞) flounderの訳: ⟪ヒラメ|ひらめ⟫
+FLOUNDERED	(flounderの変化形) (名詞) flounderの訳: ⟪ヒラメ|ひらめ⟫
+FLOUNDERING	(flounderの変化形) (名詞) flounderの訳: ⟪ヒラメ|ひらめ⟫
+FLOUNDERS	(flounderの変化形) (名詞) flounderの訳: ⟪ヒラメ|ひらめ⟫
+FLOUR	(名詞) 穀物を挽いて作る粉、特に、小麦を挽いたもの。小麦粉。\n(動詞) 小麦粉をまぶす。
+FLOURED	(動詞) flourの過去形・過去分詞: 穀物を挽いて作る粉、特に、小麦を挽いたもの。小麦粉。
+FLOURING	(動詞) flourの動名詞又は現在分詞: 穀物を挽いて作る粉、特に、小麦を挽いたもの。小麦粉。
+FLOURISH	(動詞) 栄える。繁栄する。繁茂する。\n(名詞) flourishの訳: 振り回すこと
+FLOURISHED	(動詞) flourishの過去形・過去分詞: 栄える。繁栄する。繁茂する。
+FLOURISHES	(動詞) flourishの直説法現在第三人称単数形: 栄える。繁栄する。繁茂する。\n(名詞) flourishの複数形: 栄える。繁栄する。繁茂する。
+FLOURISHING	(形容詞) flourishingの訳: 繁栄する, 繁茂する, 盛況な, 盛大な\n(動詞) flourishの現在分詞: 栄える。繁栄する。繁茂する。
+FLOURS	(名詞) flourの複数形: 穀物を挽いて作る粉、特に、小麦を挽いたもの。小麦粉。\n(動詞) flourの現在第三人称単数形。
+FLOUT	(動詞) （規則などを）無視する。従わない。\n(名詞) 軽蔑。侮辱。
+FLOUTED	(動詞) floutの過去形・過去分詞: （規則などを）無視する。従わない。
+FLOUTING	(動詞) floutの現在分詞: （規則などを）無視する。従わない。\n(名詞) 無視: 相手にしないこと。連絡や声掛け、指示などを放置し対応しないこと。ないがしろにすること。
+FLOUTS	(動詞) floutの直説法現在第三人称単数形: （規則などを）無視する。従わない。\n(名詞) floutの複数形: （規則などを）無視する。従わない。
+FLOW	(動詞) 流れる。流動する。注ぐ。血液が循環する。電気が通る；流す。\n(名詞) 流れ。流れるもの。流れるように動くもの。
+FLOWED	(動詞) "flow" の過去形・過去分詞形: 流れる。流動する。注ぐ。血液が循環する。電気が通る；流す。
+FLOWER	(名詞) 花: （はな）種子植物が成長し、茎の先や枝につける生殖器官。 (ほかに: 草花)\n(動詞) flowerの訳: 花をつける, 開花する
+FLOWERED	(形容詞) floweredの訳: 花柄の\n(動詞) flowerの過去形・過去分詞: 花、草花。
+FLOWERIER	(floweryの変化形) (形容詞) floweryの訳: 花の香りの
+FLOWERIEST	(floweryの変化形) (形容詞) floweryの訳: 花の香りの
+FLOWERILY	(floweryの変化形) (形容詞) floweryの訳: 花の香りの
+FLOWERING	(形容詞) floweringの訳: 花の咲く\n(名詞) floweringの訳: ⟪開花|かいか⟫
+FLOWERPOT	(名詞) 植木鉢: 植物を栽培または展示するために植える鉢。
+FLOWERPOTS	(名詞) flowerpotの複数形: 植木鉢: 植物を栽培または展示するために植える鉢。
+FLOWERS	(名詞) "flower" の複数形: 花: （はな）種子植物が成長し、茎の先や枝につける生殖器官。 (ほかに: 草花)\n(動詞) "flower" の三人称単数現在形: 花: （はな）種子植物が成長し、茎の先や枝につける生殖器官。 (ほかに: 草花)
+FLOWERY	(形容詞) floweryの訳: 花の香りの
+FLOWING	(動詞) flowの動名詞又は現在分詞: 流れる。流動する。注ぐ。血液が循環する。電気が通る；流す。\n(名詞) flowingの訳: 流れ
+FLOWN	(動詞) flyの過去分詞: 蝿。または広く飛行能力をもつ虫。
+FLOWS	(名詞) "flow" の複数形: 流れる。流動する。注ぐ。血液が循環する。電気が通る；流す。\n(動詞) "flow" の三人称単数現在形: 流れる。流動する。注ぐ。血液が循環する。電気が通る；流す。
+FLU	(名詞) インフル: インフルエンザ、あるいはインフルエンザウイルスの略記。新聞紙面やテレビ字幕等、文字数の制限がある場合に用いられる。 (ほかに: 感染)
+FLUCTUANT	(形容詞) 動揺する: （どうようする）揺れ動く。 (ほかに: 変動する)
+FLUCTUATE	(動詞) 上下する: （じょうげする）上下に動くこと、動かせること。 (ほかに: 変動する)
+FLUCTUATED	(動詞) fluctuateの過去形・過去分詞: 上下する: （じょうげする）上下に動くこと、動かせること。 (ほかに: 変動する)
+FLUCTUATES	(動詞) fluctuateの直説法現在第三人称単数形: 上下する: （じょうげする）上下に動くこと、動かせること。 (ほかに: 変動する)
+FLUCTUATING	(動詞) fluctuateの現在分詞: 上下する: （じょうげする）上下に動くこと、動かせること。 (ほかに: 変動する)\n(形容詞) 上下する: （じょうげする）上下に動くこと、動かせること。 (ほかに: 変動する, 流動的な)
+FLUCTUATION	(名詞) fluctuationの訳: ⟪波動|はどう⟫
+FLUCTUATIONS	(名詞) fluctuationの複数形: ⟪波動|はどう⟫
+FLUE	(名詞) flueの訳: 煙道, 煙管
+FLUED	(flueの変化形) (名詞) flueの訳: 煙道, 煙管
+FLUENCIES	(fluencyの変化形) (名詞) fluencyの訳: 流暢さ
+FLUENCY	(名詞) fluencyの訳: 流暢さ
+FLUENT	(形容詞) 流暢な: すらすらと流れるように伸びやかなこと。
+FLUENTLY	(副詞) fluentlyの訳: 流暢に
+FLUES	(名詞) flueの複数形: 煙道, 煙管
+FLUGELHORN	(名詞) フリューゲルホルン。
+FLUGELHORNS	(名詞) flugelhornの複数形: フリューゲルホルン。
+FLUID	(名詞) 流体: 液体と気体の総称。\n(形容詞) 流動する: 常に移り変わること。 (ほかに: 流体の)
+FLUIDITIES	(名詞) fluidityの複数形: 流動性
+FLUIDITY	(名詞) fluidityの訳: 流動性
+FLUIDIZE	(動詞) fluidizeの訳: 流動化する, 流体にする
+FLUIDIZED	(動詞) fluidizeの過去形・過去分詞: 流動化する, 流体にする\n(形容詞) fluidizedの訳: 流動化した
+FLUIDIZER	(fluidizeの変化形) (動詞) fluidizeの訳: 流動化する, 流体にする
+FLUIDIZES	(動詞) fluidizeの直説法現在第三人称単数形: 流動化する, 流体にする
+FLUIDIZING	(動詞) fluidizeの現在分詞: 流動化する, 流体にする
+FLUIDLY	(fluidの変化形) (名詞) 流体: 液体と気体の総称。
+FLUIDS	(fluidの変化形) (名詞) 流体: 液体と気体の総称。
+FLUNG	(flingの変化形) (動詞) なげる: 手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+FLUNK	(動詞) 試験に失敗する。落第する。
+FLUNKED	(動詞) flunkの過去形・過去分詞: 試験に失敗する。落第する。
+FLUNKER	(flunkの変化形) (動詞) 試験に失敗する。落第する。
+FLUNKING	(動詞) flunkの現在分詞: 試験に失敗する。落第する。
+FLUNKS	(動詞) flunkの直説法現在第三人称単数形: 試験に失敗する。落第する。
+FLUOR	(名詞) 蛍石: フッ化カルシウムを主成分とするもろい鉱物。加熱により蛍光する。
+FLUORESCENCE	(名詞) fluorescenceの訳: 蛍光, 蛍光性
+FLUORESCENCES	(名詞) fluorescenceの複数形: 蛍光, 蛍光性
+FLUORESCENT	(形容詞) fluorescentの訳: 蛍光を発する, 蛍光性の\n(名詞) 蛍光灯: 蛍光を用いた照明の一種。特に、ガラス管に封入された低圧水銀蒸気の発する紫外線を、蛍光塗料で可視光線に変換する蛍光管を指す。白熱電球よりもエネルギー効率が良い。
+FLUORESCENTS	(名詞) fluorescentの複数形: 蛍光を発する, 蛍光性の
+FLUORIDE	(名詞) fluorideの訳: 弗化物, フッ化物
+FLUORIDES	(fluorideの変化形) (名詞) fluorideの訳: 弗化物, フッ化物
+FLUORINE	(名詞) fluorineの訳: 弗素
+FLUORINES	(fluorineの変化形) (名詞) fluorineの訳: 弗素
+FLUORS	(名詞) fluorの複数形: 蛍石: フッ化カルシウムを主成分とするもろい鉱物。加熱により蛍光する。
+FLUS	(fluの変化形) (名詞) インフル: インフルエンザ、あるいはインフルエンザウイルスの略記。新聞紙面やテレビ字幕等、文字数の制限がある場合に用いられる。 (ほかに: 感染)
+FLUTE	(名詞) フルート: リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。\n(動詞) フルートを吹く。
+FLUTED	(動詞) "flute" の過去形・過去分詞形: フルート: リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。
+FLUTES	(名詞) "flute" の複数形: フルート: リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。\n(動詞) "flute" の三人称単数現在形: フルート: リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。
+FLUTING	(動詞) "flute" の動名詞形又は現在分詞形: フルート: リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。
+FLUTINGS	(fluteの変化形) (名詞) フルート: リードのない、多くのキーを備えた横笛タイプの木管楽器の一種。
+FLUTTER	(動詞) 旗めく: （はためく）鳴り響く。轟く。\n(名詞) flutterの訳: 旗めき, 羽ばたき
+FLUTTERED	(動詞) flutterの過去形・過去分詞: 旗めく: （はためく）鳴り響く。轟く。\n(形容詞) flutteredの訳: 動揺した, 混乱した
+FLUTTERING	(flutterの変化形) (動詞) 旗めく: （はためく）鳴り響く。轟く。
+FLUTTERS	(名詞) flutterの複数形: 旗めく。\n(動詞) flutterの直説法現在第三人称単数形: 旗めく: （はためく）鳴り響く。轟く。
+FLUVIAL	(形容詞) fluvialの訳: 川の
+FLUXION	(名詞) fluxionの訳: 導関数
+FLUXIONS	(fluxionの変化形) (名詞) fluxionの訳: 導関数
+FLY	(名詞) 蝿。または広く飛行能力をもつ虫。\n(動詞) flyの訳: 空を飛ぶ
+FLYER	(名詞) 鳥や昆虫として飛ぶもの。
+FLYERS	(名詞) flyerの複数形: 鳥や昆虫として飛ぶもの。
+FLYING	(形容詞) 飛ぶ: （とぶ）空中を動く。 (ほかに: 飛行の)\n(動詞) flyの動名詞又は現在分詞: 蝿。または広く飛行能力をもつ虫。
+FLYINGS	(名詞) flyingの複数形: 飛ぶ: （とぶ）空中を動く。 (ほかに: 飛行の)
+FLYLEAF	(名詞) flyleafの訳: 遊び紙
+FLYLEAVES	(flyleafの変化形) (名詞) flyleafの訳: 遊び紙
+FOAL	(名詞) 子馬: 小型の馬。\n(動詞) foalの訳: 子馬を産む
+FOALED	(動詞) "foal" の過去形・過去分詞: 子馬: 小型の馬。
+FOALING	(動詞) "foal" の動名詞又は現在分詞: 子馬: 小型の馬。\n(名詞) 馬が出産すること、馬の出産。
+FOALS	(名詞) "foal" の複数形: 子馬: 小型の馬。\n(動詞) "foal" の現在第三人称単数形。
+FOAM	(名詞) 層状になった細かい泡。\n(動詞) foamの訳: ⟪泡立つ|あわだつ⟫
+FOAMED	(動詞) foamの過去形・過去分詞: 層状になった細かい泡。
+FOAMER	(foamの変化形) (名詞) 層状になった細かい泡。
+FOAMIER	(形容詞) foamyの比較級: ⟪泡立つ|あわだつ⟫, 泡だらけの
+FOAMIEST	(形容詞) foamyの最上級: ⟪泡立つ|あわだつ⟫, 泡だらけの
+FOAMILY	(foamyの変化形) (形容詞) foamyの訳: ⟪泡立つ|あわだつ⟫, 泡だらけの
+FOAMING	(動詞) "foam" の動名詞又は現在分詞: 層状になった細かい泡。
+FOAMS	(名詞) "foam" の複数形: 層状になった細かい泡。\n(動詞) "foam" の現在第三人称単数形。
+FOAMY	(形容詞) foamyの訳: ⟪泡立つ|あわだつ⟫, 泡だらけの\n(名詞) foamieの異綴。
+FOCAL	(形容詞) focalの訳: 焦点の
+FOCI	(名詞) focusの複数形: 焦点: 人々の注意や関心が集まるところ。
+FOCUS	(名詞) 焦点: 人々の注意や関心が集まるところ。\n(動詞) focusの訳: 焦点が合う
+FOCUSED	(動詞) "focus" の過去形・過去分詞形: 焦点: 人々の注意や関心が集まるところ。
+FOCUSER	(focusの変化形) (名詞) 焦点: 人々の注意や関心が集まるところ。
+FOCUSES	(名詞) "focus" の複数形: 焦点: 人々の注意や関心が集まるところ。\n(動詞) "focus" の三人称単数現在形: 焦点: 人々の注意や関心が集まるところ。
+FOCUSING	(動詞) "focus" の動名詞形又は現在分詞形: 焦点: 人々の注意や関心が集まるところ。
+FODDER	(名詞) fodderの訳: 飼料, ⟪飼い葉|かいば⟫\n(動詞) 飼い葉を与える。
+FODDERED	(動詞) fodderの過去形・過去分詞: 飼料, ⟪飼い葉|かいば⟫
+FODDERING	(動詞) fodderの現在分詞: 飼料, ⟪飼い葉|かいば⟫\n(名詞) 飼い葉を与えること。
+FODDERS	(名詞) fodderの複数形: 飼料, ⟪飼い葉|かいば⟫\n(動詞) fodderの直説法現在第三人称単数形: 飼料, ⟪飼い葉|かいば⟫
+FOE	(名詞) 敵: 敵対する相手。敵。
+FOES	(名詞) "foe" の複数形: 敵: 敵対する相手。敵。
+FOG	(名詞) 濃霧: 濃い霧。こぎり。 (ほかに: 霧, 靄)\n(動詞) fogの訳: 霧で覆う
+FOGGED	(動詞) "fog" の過去形・過去分詞形: 濃霧: 濃い霧。こぎり。 (ほかに: 霧, 靄)
+FOGGER	(名詞) foggerの訳: ⟪きりふき⟫, 霧吹き器, 噴霧器
+FOGGERS	(foggerの変化形) (名詞) foggerの訳: ⟪きりふき⟫, 霧吹き器, 噴霧器
+FOGGIER	(形容詞) foggyの比較級: 霧のかかった, ぼんやりした
+FOGGIEST	(形容詞) foggyの最上級: 霧のかかった, ぼんやりした
+FOGGING	(動詞) "fog" の動名詞形又は現在分詞形: 濃霧: 濃い霧。こぎり。 (ほかに: 霧, 靄)
+FOGGY	(形容詞) foggyの訳: 霧のかかった, ぼんやりした
+FOGHORN	(名詞) 霧笛: 海上で濃霧の際、航行安全のため船舶や灯台などが鳴らす汽笛。\n(動詞) foghornの訳: 霧笛を鳴らす
+FOGHORNS	(名詞) foghornの複数形: 霧笛: 海上で濃霧の際、航行安全のため船舶や灯台などが鳴らす汽笛。\n(動詞) foghornの直説法現在第三人称単数形: 霧笛: 海上で濃霧の際、航行安全のため船舶や灯台などが鳴らす汽笛。
+FOGS	(名詞) "fog" の複数形: 濃霧: 濃い霧。こぎり。 (ほかに: 霧, 靄)\n(動詞) "fog" の三人称単数現在形: 濃霧: 濃い霧。こぎり。 (ほかに: 霧, 靄)
+FOIL	(名詞) foilの訳: 金属の薄片\n(動詞) foilの訳: 箔を着せる
+FOILED	(動詞) foilの過去形・過去分詞: 金属の薄片\n(形容詞) foiledの訳: 葉飾りのある
+FOILING	(foilの変化形) (名詞) foilの訳: 金属の薄片
+FOILS	(名詞) foilの複数形: 金属の薄片\n(動詞) foilの直説法現在第三人称単数形: 金属の薄片
+FOIN	(名詞) foinの訳: 胸白貂
+FOINED	(動詞) foinの過去形又は過去分詞形: 胸白貂。
+FOINING	(動詞) foinの動名詞又は現在分詞形: 胸白貂。
+FOINS	(名詞) foinの複数形: 胸白貂。\n(動詞) foinの直説法第三人称単数現在形: 胸白貂。
+FOLATE	(名詞) 葉酸: 肝臓や緑色野菜に含まれるビタミンB複合体の一つ。
+FOLATES	(folateの変化形) (名詞) 葉酸: 肝臓や緑色野菜に含まれるビタミンB複合体の一つ。
+FOLD	(動詞) foldの訳: 折り畳む, ⟪折り重ねる|おりかさねる⟫\n(名詞) foldの訳: 折り畳むこと
+FOLDED	(動詞) foldの過去形・過去分詞: 折り畳む, ⟪折り重ねる|おりかさねる⟫
+FOLDING	(foldの変化形) (動詞) foldの訳: 折り畳む, ⟪折り重ねる|おりかさねる⟫
+FOLDS	(名詞) foldの複数形: 折り畳む, ⟪折り重ねる|おりかさねる⟫\n(動詞) foldの直説法現在第三人称単数形: 折り畳む, ⟪折り重ねる|おりかさねる⟫
+FOLIAGE	(名詞) 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。 (ほかに: 群葉)
+FOLIAGES	(名詞) foliageの複数形: 葉、群葉。
+FOLIOSE	(形容詞) folioseの訳: 葉の多い
+FOLK	(名詞) folkの訳: フォーク
+FOLKLORE	(名詞) 民間伝承。フォークロア。
+FOLKLORES	(名詞) folkloreの複数形: 民間伝承。フォークロア。
+FOLLICLE	(名詞) 卵胞: 卵巣皮質にある卵細胞、卵胞上皮細胞からなる組織。
+FOLLICLES	(follicleの変化形) (名詞) 卵胞: 卵巣皮質にある卵細胞、卵胞上皮細胞からなる組織。
+FOLLIES	(名詞) "folly" の複数形: 愚劣: 愚かで能力などが劣っていること。また、そのようなさま。 (ほかに: 愚かさ)
+FOLLOW	(動詞) followの訳: 付いて行く
+FOLLOWED	(動詞) followの過去形・過去分詞: 付いて行く
+FOLLOWER	(名詞) 支持者: ある主義主張や政策、芸術活動などに賛同し、その人や団体を支持する人。
+FOLLOWING	(動詞) followの過去形・過去分詞: 付いて行く\n(形容詞) 以下の。以下に示す。次の。次に示す。下記の。下記に示す。
+FOLLOWINGS	(名詞) followingの複数形: followの過去形・過去分詞。
+FOLLOWS	(動詞) followの直説法現在第三人称単数形: 付いて行く
+FOLLY	(名詞) 愚劣: 愚かで能力などが劣っていること。また、そのようなさま。 (ほかに: 愚かさ)
+FOMITE	(名詞) fomiteの訳: 媒介物
+FOMITES	(名詞) fomiteの複数形: 媒介物
+FOND	(形容詞) fondの訳: 愛情のある\n(名詞) レース織りの背景デザインのひとつ。
+FONDED	(fondの変化形) (形容詞) fondの訳: 愛情のある
+FONDER	(形容詞) fondの比較級: 愛情のある
+FONDEST	(形容詞) fondの最上級: 愛情のある
+FONDING	(fondの変化形) (形容詞) fondの訳: 愛情のある
+FONDNESS	(名詞) 好み。愛好。愛情。溺愛。
+FONDNESSES	(名詞) fondnessの複数形: 好み。愛好。愛情。溺愛。
+FONDS	(名詞) fondの複数形: 愛情のある
+FONS	(名詞) fonの複数形。\n(動詞) fonの直説法現在第三人称単数形。
+FOOD	(名詞) 食物: 食べる物。食べ物。 (ほかに: 食べ物, 食料)
+FOODS	(名詞) foodの複数形: 食物: 食べる物。食べ物。 (ほかに: 食べ物, 食料)
+FOODSTUFF	(名詞) 食品: 人が食用とする品物。 (ほかに: 食糧, 食材)
+FOODSTUFFS	(名詞) foodstuffの複数形: 食品: 人が食用とする品物。 (ほかに: 食糧, 食材)
+FOOL	(名詞) foolの訳: ⟪愚か者|おろかもの⟫\n(形容詞) foolの訳: ばかげた
+FOOLED	(動詞) foolの過去形・過去分詞: ⟪愚か者|おろかもの⟫
+FOOLER	(形容詞) "fool" の比較級形: ⟪愚か者|おろかもの⟫
+FOOLERS	(foolerの変化形) (形容詞) "fool" の比較級形。
+FOOLHARDIER	(形容詞) foolhardyの比較級: 無謀な。無茶な。無鉄砲な。
+FOOLHARDIEST	(形容詞) foolhardyの最上級: 無謀な。無茶な。無鉄砲な。
+FOOLHARDINESS	(名詞) 無謀。無鉄砲。
+FOOLHARDINESSES	(名詞) foolhardinessの複数形: 無謀。無鉄砲。
+FOOLHARDY	(形容詞) 無謀な。無茶な。無鉄砲な。
+FOOLING	(動詞) foolの動名詞又は現在分詞: ⟪愚か者|おろかもの⟫\n(名詞) foolingの訳: ふざけること
+FOOLISH	(形容詞) ばかな: （主に「ばかをみる」の形で）損、不遇。
+FOOLISHER	(形容詞) "foolish" の比較級: ばかな: （主に「ばかをみる」の形で）損、不遇。
+FOOLISHEST	(形容詞) "foolish" の最上級: ばかな: （主に「ばかをみる」の形で）損、不遇。
+FOOLISHLY	(副詞) foolishlyの訳: 愚かに
+FOOLISHNESS	(名詞) foolishnessの訳: 愚かさ
+FOOLISHNESSES	(名詞) "foolishness" の複数形: 愚かさ
+FOOLS	(名詞) foolの複数形: ⟪愚か者|おろかもの⟫\n(動詞) foolの直説法現在第三人称単数形: ⟪愚か者|おろかもの⟫
+FOOT	(名詞) 足: （あし）物の下の部分。\n(動詞) footの訳: ～を足で蹴る
+FOOTAGE	(名詞) フィート長。フィート数
+FOOTAGES	(footageの変化形) (名詞) フィート長。フィート数
+FOOTBALL	(名詞) フットボール。単に「フットボール」とする場合、その地域において最も人気のあるフットボール競技をあらわす。
+FOOTBALLER	(名詞) フットボール選手、サッカー選手
+FOOTBALLERS	(footballerの変化形) (名詞) フットボール選手、サッカー選手
+FOOTBALLS	(名詞) footballの複数形: フットボール。単に「フットボール」とする場合、その地域において最も人気のあるフットボール競技をあらわす。
+FOOTBATH	(名詞) footbathの訳: 足を洗う行為
+FOOTBATHS	(名詞) footbathの複数形: 足を洗う行為。
+FOOTBRIDGE	(名詞) 歩道橋: 車道の上に架けられ、歩行者が渡れるようになっている橋。
+FOOTBRIDGES	(footbridgeの変化形) (名詞) 歩道橋: 車道の上に架けられ、歩行者が渡れるようになっている橋。
+FOOTED	(動詞) "foot" の過去形・過去分詞形: 足: （あし）物の下の部分。
+FOOTFALL	(名詞) footfallの訳: 足音
+FOOTFALLS	(footfallの変化形) (名詞) footfallの訳: 足音
+FOOTHOLD	(名詞) footholdの訳: 足場
+FOOTHOLDS	(footholdの変化形) (名詞) footholdの訳: 足場
+FOOTIER	(footyの変化形) (名詞) footyの訳: オーストラリアンフットボール
+FOOTIES	(footyの変化形) (名詞) footyの訳: オーストラリアンフットボール
+FOOTIEST	(footyの変化形) (名詞) footyの訳: オーストラリアンフットボール
+FOOTING	(名詞) footingの訳: 足場\n(動詞) footの現在分詞: 足。
+FOOTINGS	(footの変化形) (名詞) 足: （あし）物の下の部分。
+FOOTNOTE	(名詞) 脚注: 書籍などで、本文より下にある場所に、注などを記載すること。\n(動詞) footnoteの訳: 脚注を付ける
+FOOTNOTED	(動詞) "footnote" の過去形・過去分詞形: 脚注: 書籍などで、本文より下にある場所に、注などを記載すること。
+FOOTNOTES	(名詞) "footnote" の複数形: 脚注: 書籍などで、本文より下にある場所に、注などを記載すること。\n(動詞) "footnote" の三人称単数現在形: 脚注: 書籍などで、本文より下にある場所に、注などを記載すること。
+FOOTNOTING	(動詞) "footnote" の動名詞形又は現在分詞形: 脚注: 書籍などで、本文より下にある場所に、注などを記載すること。
+FOOTPATH	(名詞) 小道: (ショウドウ, こみち)細く狭い道。
+FOOTPATHS	(footpathの変化形) (名詞) 小道: (ショウドウ, こみち)細く狭い道。
+FOOTPRINT	(名詞) 足跡。あしあと。
+FOOTPRINTS	(名詞) "footprint" の複数形: 足跡。あしあと。
+FOOTS	(動詞) "foot" の三人称単数現在形: 足: （あし）物の下の部分。
+FOOTSTEP	(名詞) 足どり: （あしどり）歩行の足付き。
+FOOTSTEPS	(名詞) "footstep" の複数形: 足どり: （あしどり）歩行の足付き。
+FOOTSTOOL	(名詞) footstoolの訳: 足載せ台
+FOOTSTOOLS	(名詞) footstoolの複数形: 足載せ台
+FOOTWEAR	(名詞) 履き物: はきものを参照。
+FOOTY	(名詞) footyの訳: オーストラリアンフットボール
+FOR	(接続詞) 故に: （それゆえ）前の事柄が後の事柄の理由となることを表す。それだから。 (ほかに: なぜならば)\n(前置詞) forの訳: ～へ, ～に向けて
+FORAGE	(名詞) 飼料: （しりょう、かいりょう）家畜に与える食物。 (ほかに: 飼い葉)\n(動詞) forageの訳: 探す, ⟪漁る|すなどる⟫
+FORAGED	(動詞) forageの過去形・過去分詞: 飼料: （しりょう、かいりょう）家畜に与える食物。 (ほかに: 飼い葉)
+FORAGES	(名詞) forageの複数形: 飼料: （しりょう、かいりょう）家畜に与える食物。 (ほかに: 飼い葉)\n(動詞) forageの直説法現在第三人称単数形: 飼料: （しりょう、かいりょう）家畜に与える食物。 (ほかに: 飼い葉)
+FORAGING	(動詞) forageの現在分詞: 飼料: （しりょう、かいりょう）家畜に与える食物。 (ほかに: 飼い葉)\n(名詞) foragingの訳: 狩猟採集
+FORAMEN	(名詞) 孔: (あな) くぼんだ所。穴ぼこ。鼻や耳の穴、陰門についてもいう。
+FORAMENS	(名詞) foramenの複数形: 孔: (あな) くぼんだ所。穴ぼこ。鼻や耳の穴、陰門についてもいう。
+FORAMINA	(名詞) foramenの複数形: 孔: (あな) くぼんだ所。穴ぼこ。鼻や耳の穴、陰門についてもいう。
+FORBAD	(動詞) forbidの過去形: 禁じる、禁止する。
+FORBADE	(動詞) forbidの過去形: 禁じる、禁止する。
+FORBEAR	(動詞) 差し控える: （さしひかえる）しようと思っていた事をやめる。\n(名詞) forbearの訳: ⟪先祖|せんぞ⟫
+FORBEARANCE	(名詞) 自制: 自分の感情や欲望を自身で抑制すること。我慢すること。 (ほかに: 忍耐, 寛容)
+FORBEARANCES	(名詞) forbearanceの複数形: 自制: 自分の感情や欲望を自身で抑制すること。我慢すること。 (ほかに: 忍耐, 寛容)
+FORBEARING	(動詞) forbearの現在分詞: 差し控える。\n(形容詞) forbearingの訳: 寛大な
+FORBEARS	(名詞) "forbear" の複数形: 差し控える: （さしひかえる）しようと思っていた事をやめる。\n(動詞) "forbear" の三人称単数現在形: 差し控える: （さしひかえる）しようと思っていた事をやめる。
+FORBID	(動詞) 禁じる: 禁止する。 (ほかに: 禁止する)
+FORBIDDEN	(動詞) forbidの過去分詞: 禁じる: 禁止する。 (ほかに: 禁止する)\n(形容詞) 禁断の: ある行為や行動を禁止して断つこと。またあるものの入手や場所への立ち入りなどを禁じること。禁制。 (ほかに: 禁じられた)
+FORBIDDING	(動詞) forbidの現在分詞: 禁じる、禁止する。\n(形容詞) 怖い。不気味な。険しい。
+FORBIDS	(動詞) "forbid" の三人称単数現在形: 禁じる: 禁止する。 (ほかに: 禁止する)
+FORBORE	(動詞) forbearの過去形: 差し控える。
+FORBORNE	(動詞) forbearの過去分詞: 差し控える。
+FORCE	(名詞) forceの訳: ⟪力|ちから⟫\n(動詞) 強制する: （きょうせいする）力を用いて他者を無理に従わせる。 (ほかに: 強いる)
+FORCED	(動詞) "force" の過去形・過去分詞形: ⟪力|ちから⟫\n(形容詞) 強制された。押し付けの。
+FORCEDLY	(forceの変化形) (名詞) forceの訳: ⟪力|ちから⟫
+FORCEFUL	(形容詞) 力強い。強力な。
+FORCEFULLY	(副詞) forcefullyの訳: 力強く
+FORCEFULNESS	(名詞) forcefulnessの訳: 力強さ
+FORCEFULNESSES	(名詞) forcefulnessの複数形: 力強さ
+FORCEMEAT	(名詞) forcemeatの訳: 味付け肉
+FORCEMEATS	(名詞) forcemeatの複数形: 味付け肉
+FORCEPS	(名詞) 鉗子: 物を挟んだり牽引したりするのに使用する、主に外科手術で使われる器具。
+FORCES	(名詞) "force" の複数形: ⟪力|ちから⟫\n(動詞) "force" の三人称単数現在形: ⟪力|ちから⟫
+FORCIBLE	(形容詞) 力づくの。強制的な。
+FORCIBLY	(副詞) 力づくで。強制的に。
+FORCING	(動詞) "force" の動名詞形又は現在分詞形: ⟪力|ちから⟫
+FORD	(名詞) fordの訳: ⟪浅瀬|あさせ⟫\n(動詞) fordの訳: 浅瀬を渡る
+FORDED	(動詞) fordの過去形・過去分詞: ⟪浅瀬|あさせ⟫
+FORDING	(動詞) "ford" の動名詞形又は現在分詞形: ⟪浅瀬|あさせ⟫
+FORDS	(名詞) fordの複数形: ⟪浅瀬|あさせ⟫\n(動詞) fordの直説法現在第三人称単数形: ⟪浅瀬|あさせ⟫
+FORE	(動詞) （古風）"fare" の過去形。
+FOREARM	(名詞) 前腕: 腕のうち、肘と手首との間の部分。
+FOREARMED	(forearmの変化形) (名詞) 前腕: 腕のうち、肘と手首との間の部分。
+FOREARMING	(forearmの変化形) (名詞) 前腕: 腕のうち、肘と手首との間の部分。
+FOREARMS	(forearmの変化形) (名詞) 前腕: 腕のうち、肘と手首との間の部分。
+FOREBEAR	(名詞) 祖先: ある生物の個体の、既に亡くなった数世代以前の血縁者全般のこと。 (ほかに: 先祖)
+FOREBEARS	(forebearの変化形) (名詞) 祖先: ある生物の個体の、既に亡くなった数世代以前の血縁者全般のこと。 (ほかに: 先祖)
+FOREBODE	(動詞) forebodeの訳: 前兆となる
+FOREBODED	(動詞) "forebode" の過去形・過去分詞形: 前兆となる
+FOREBODES	(動詞) "forebode" の三人称単数現在形: 前兆となる
+FOREBODING	(動詞) forebodeの現在分詞: 前兆となる。\n(名詞) forebodingの訳: 不吉な予感
+FOREBODINGS	(名詞) forebodingの複数形: forebodeの現在分詞: 前兆となる。
+FOREBRAIN	(名詞) 前脳: 脊椎動物の個体が発生する際、神経管の先端にできる膨らみの最前部。
+FOREBRAINS	(forebrainの変化形) (名詞) 前脳: 脊椎動物の個体が発生する際、神経管の先端にできる膨らみの最前部。
+FORECAST	(動詞) forecastの訳: 予報する\n(名詞) forecastの訳: ⟪予報|よほう⟫
+FORECASTED	(動詞) "forecast" の過去形・過去分詞形: 予報する
+FORECASTING	(動詞) "forecast" の動名詞形又は現在分詞形: 予報する
+FORECASTS	(名詞) "forecast" の複数形: 予報する\n(動詞) "forecast" の三人称単数現在形: 予報する
+FOREFATHER	(名詞) 先祖。祖先。
+FOREFATHERS	(名詞) forefatherの複数形: 先祖。祖先。
+FOREFINGER	(名詞) forefingerの訳: 人差し指
+FOREFINGERS	(名詞) forefingerの複数形: 人差し指
+FOREGROUND	(名詞) 前景: 観客に近い方に置かれた舞台装置。\n(動詞) 前面に押し出す。
+FOREGROUNDED	(動詞) foregroundの過去形・過去分詞: 前景: 観客に近い方に置かれた舞台装置。
+FOREGROUNDING	(動詞) foregroundの現在分詞: 前景: 観客に近い方に置かれた舞台装置。
+FOREGROUNDS	(名詞) foregroundの複数形: 前景: 観客に近い方に置かれた舞台装置。\n(動詞) foregroundの直説法現在第三人称単数形: 前景: 観客に近い方に置かれた舞台装置。
+FOREHEAD	(名詞) 額: 人間や動物の顔の上側の部分で、目または眉毛の上から髪の生え際ぐらいまでの範囲。おでこ。前額部。
+FOREHEADS	(名詞) forehead の複数形: 額: 人間や動物の顔の上側の部分で、目または眉毛の上から髪の生え際ぐらいまでの範囲。おでこ。前額部。
+FOREIGN	(形容詞) 外国の: 自分の国ではない、よその国。異国。異邦。外つ国、海外。
+FOREIGNER	(名詞) 外国人: 居住または滞在している国家の国籍又は市民権を有しない者。
+FOREIGNERS	(名詞) "foreigner" の複数形: 外国人: 居住または滞在している国家の国籍又は市民権を有しない者。
+FOREKNEW	(動詞) foreknowの過去形: 予知する: これから起こる物事を前もって知ること。
+FOREKNOW	(動詞) 予知する: これから起こる物事を前もって知ること。
+FOREKNOWING	(名詞) 予知: これから起こる物事を前もって知ること。\n(動詞) foreknowの現在分詞: 予知する: これから起こる物事を前もって知ること。
+FOREKNOWLEDGE	(名詞) 予知。先見。
+FOREKNOWLEDGES	(名詞) foreknowledgeの複数形: 予知。先見。
+FOREKNOWN	(動詞) foreknowの過去分詞: 予知する: これから起こる物事を前もって知ること。\n(形容詞) foreknownの訳: 予知された
+FOREKNOWS	(動詞) foreknowの直説法現在第三人称単数形: 予知する: これから起こる物事を前もって知ること。
+FORELOCK	(名詞) 前髪: 額上部の髪。\n(動詞) 割り栓で固定する。
+FORELOCKED	(動詞) forelockの過去形・過去分詞: 前髪: 額上部の髪。\n(形容詞) forelockedの訳: 前髪のある
+FORELOCKING	(動詞) forelockの現在分詞: 前髪: 額上部の髪。
+FORELOCKS	(名詞) forelockの複数形: 前髪。\n(動詞) forelockの直説法現在第三人称単数形: 前髪: 額上部の髪。
+FOREMOST	(形容詞) foremostの訳: 主要な\n(副詞) foremostの訳: 真っ先に
+FORENAME	(名詞) （姓に対する）名。下の名前。
+FORENAMES	(名詞) forenameの複数形: （姓に対する）名。下の名前。
+FORENOON	(名詞) 夜明けから正午まで、午前中。\n(副詞) 午前中に: 午前の間。
+FORENOONS	(名詞) forenoonの複数形: 夜明けから正午まで、午前中。
+FOREORDAIN	(動詞) foreordainの訳: 運命付ける
+FOREORDAINED	(形容詞) 前もって決められた。\n(動詞) foreordainの過去形・過去分詞: 運命付ける
+FOREORDAINING	(動詞) foreordainの現在分詞: 運命付ける
+FOREORDAINS	(動詞) foreordainの直説法現在第三人称単数形: 運命付ける
+FOREPART	(名詞) 前部: 前の部分。 (ほかに: 初期)
+FOREPARTS	(名詞) forepartの複数形: 前部: 前の部分。 (ほかに: 初期)
+FORES	(foreの変化形) (動詞) （古風）"fare" の過去形。
+FORESAW	(動詞) foreseeの過去形: 予知する。
+FORESEE	(動詞) 予知する: これから起こる物事を前もって知ること。
+FORESEEING	(動詞) "foresee" の動名詞又は現在分詞: 予知する: これから起こる物事を前もって知ること。\n(名詞) 予知。予見。
+FORESEEN	(動詞) foreseeの過去分詞: 予知する。
+FORESEES	(動詞) "foresee" の三人称単数現在形: 予知する: これから起こる物事を前もって知ること。
+FORESHADOW	(動詞) 前兆となる。予示する。
+FORESHADOWED	(動詞) foreshadowの過去形・過去分詞: 前兆となる。予示する。
+FORESHADOWER	(foreshadowの変化形) (動詞) 前兆となる。予示する。
+FORESHADOWING	(foreshadowの変化形) (動詞) 前兆となる。予示する。
+FORESHADOWS	(動詞) foreshadowの直説法現在第三人称単数形: 前兆となる。予示する。
+FORESHOWED	(動詞) foreshowの過去形。
+FORESHOWING	(動詞) foreshowの現在分詞。\n(名詞) 予言。予告。
+FORESHOWN	(動詞) foreshowの過去分詞。
+FORESHOWS	(名詞) foreshowの複数形。\n(動詞) foreshowの直説法現在第三人称単数形。
+FORESIGHT	(名詞) 先見の明。洞察力。
+FORESIGHTS	(foresightの変化形) (名詞) 先見の明。洞察力。
+FORESKIN	(名詞) 包皮: 陰茎の亀頭の部分や陰核を覆う皮膚。 (ほかに: 陰茎包皮)
+FORESKINS	(名詞) foreskinの複数形: 包皮: 陰茎の亀頭の部分や陰核を覆う皮膚。 (ほかに: 陰茎包皮)
+FOREST	(名詞) 山林: 地目のひとつで、立ち木が多い山地。 (ほかに: 森, 森林)\n(動詞) 植林する。森林を建設する。
+FORESTALL	(動詞) 何かをあらかじめ阻止、阻害する。先手を打つ。未然に防ぐ。
+FORESTALLED	(動詞) "forestall" の過去形・過去分詞形: 何かをあらかじめ阻止、阻害する。先手を打つ。未然に防ぐ。
+FORESTALLING	(動詞) "forestall" の動名詞形又は現在分詞形: 何かをあらかじめ阻止、阻害する。先手を打つ。未然に防ぐ。
+FORESTALLS	(動詞) "forestall" の三人称単数現在形: 何かをあらかじめ阻止、阻害する。先手を打つ。未然に防ぐ。
+FORESTED	(形容詞) 樹木に覆われた。\n(動詞) forestの過去形・過去分詞: 山林: 地目のひとつで、立ち木が多い山地。 (ほかに: 森, 森林)
+FORESTER	(名詞) 林業に従事する人。林務官。森林管理官。
+FORESTERS	(名詞) forester の複数形: 林業に従事する人。林務官。森林管理官。
+FORESTING	(動詞) forestの動名詞又は現在分詞: 山林: 地目のひとつで、立ち木が多い山地。 (ほかに: 森, 森林)
+FORESTRIES	(名詞) "forestry" の複数形: 林業: 森林を育成・管理し、主として樹木を伐採し売却することにより成立する産業、第一次産業に分類される。 (ほかに: 営林事業)
+FORESTRY	(名詞) 林業: 森林を育成・管理し、主として樹木を伐採し売却することにより成立する産業、第一次産業に分類される。 (ほかに: 営林事業)
+FORESTS	(名詞) forestの複数形: 山林: 地目のひとつで、立ち木が多い山地。 (ほかに: 森, 森林)\n(動詞) forestの直説法現在第三人称単数形: 山林: 地目のひとつで、立ち木が多い山地。 (ほかに: 森, 森林)
+FORETELL	(動詞) 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+FORETELLING	(動詞) foretellの現在分詞: 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。\n(名詞) 予言: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+FORETELLS	(動詞) foretellの直説法現在第三人称単数形: 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+FORETHOUGHT	(名詞) forethoughtの訳: 考慮\n(形容詞) 事前に考慮した。
+FORETHOUGHTFUL	(形容詞) 深慮のある。慎重な。
+FORETHOUGHTFULLY	(副詞) forethoughtfullyの訳: 思慮深く
+FORETHOUGHTS	(名詞) forethoughtの複数形: 考慮
+FORETOLD	(動詞) foretellの過去形・過去分詞: 予言する: （よげん）神秘的な洞察力により、未来の事象をあらかじめ言明すること。また、科学的・論理的な推測により未来を予測して言うこと。
+FOREVER	(副詞) 永久: （えいきゅう）ある時点から限りなく続くこと。 (ほかに: 永遠に, 絶えず)\n(名詞) foreverの訳: 永遠, 長い間
+FOREVERS	(foreverの変化形) (副詞) 永久: （えいきゅう）ある時点から限りなく続くこと。 (ほかに: 永遠に, 絶えず)
+FOREWARN	(動詞) 前以て警告する。
+FOREWARNED	(動詞) forewarnの過去形・過去分詞: 前以て警告する。
+FOREWARNING	(動詞) forewarnの現在分詞: 前以て警告する。\n(名詞) 事前の警告。前兆。
+FOREWARNS	(動詞) forewarnの直説法現在第三人称単数形: 前以て警告する。
+FOREWORD	(名詞) 序文: 書物の本文に入る前にその趣旨などを記した文章。前書き。端書き。
+FOREWORDS	(名詞) forewordの複数形: 序文: 書物の本文に入る前にその趣旨などを記した文章。前書き。端書き。
+FORFEIT	(名詞) forfeitの訳: 剝奪, 没収\n(動詞) forfeitの訳: を剝奪される, 失う
+FORFEITED	(動詞) forfeitの過去形・過去分詞: 剝奪, 没収
+FORFEITER	(forfeitの変化形) (名詞) forfeitの訳: 剝奪, 没収
+FORFEITERS	(forfeitの変化形) (名詞) forfeitの訳: 剝奪, 没収
+FORFEITING	(動詞) forfeitの動名詞又は現在分詞: 剝奪, 没収\n(名詞) フォーフェイティング。
+FORFEITS	(名詞) forfeitの複数形: 剝奪, 没収\n(動詞) forfeitの直説法現在第三人称単数形: 剝奪, 没収
+FORFEITURE	(名詞) ながれ: 預けた物を期限切れで質屋に没収される事
+FORFEITURES	(forfeitureの変化形) (名詞) ながれ: 預けた物を期限切れで質屋に没収される事
+FORGAVE	(動詞) forgiveの過去形: 容す。受け容れる。寛容にふるまう。
+FORGE	(名詞) forgeの訳: 炉\n(動詞) forgeの訳: ⟪鍛える|きたえる⟫, 鍛造する
+FORGED	(動詞) "forge" の過去形・過去分詞: 炉
+FORGER	(名詞) forgerの訳: 偽造者
+FORGERIES	(名詞) forgeryの複数形: 偽造。捏造。
+FORGERS	(名詞) forgerの複数形: 偽造者
+FORGERY	(名詞) 偽造。捏造。
+FORGES	(名詞) forgeの複数形: 炉\n(動詞) forgeの直説法現在第三人称単数形: 炉
+FORGET	(動詞) 失念する: （仏教）正念を忘れること。 (ほかに: ～を忘れる)
+FORGETFUL	(形容詞) 忘れっぽい: （わすれっぽい）忘れやすい。
+FORGETFULNESS	(名詞) 健忘症: 一般的に物忘れが多いこと。
+FORGETFULNESSES	(名詞) forgetfulnessの複数形: 健忘症: 一般的に物忘れが多いこと。
+FORGETS	(動詞) "forget" の三人称単数現在形: 失念する: （仏教）正念を忘れること。 (ほかに: ～を忘れる)
+FORGETTABLE	(形容詞) 忘れられがちな。
+FORGETTING	(動詞) "forget" の動名詞形又は現在分詞形: 失念する: （仏教）正念を忘れること。 (ほかに: ～を忘れる)
+FORGING	(動詞) "forge" の動名詞又は現在分詞: 炉
+FORGINGS	(forgeの変化形) (名詞) forgeの訳: 炉
+FORGIVABLE	(形容詞) 許される。大目に見られる。
+FORGIVE	(動詞) 容す。受け容れる。寛容にふるまう。
+FORGIVEN	(動詞) forgiveの過去分詞: 容す。受け容れる。寛容にふるまう。
+FORGIVENESS	(名詞) forgivenessの訳: 許し
+FORGIVENESSES	(名詞) forgivenessの複数形: 許し
+FORGIVES	(動詞) "forgive" の三人称単数現在形: 容す。受け容れる。寛容にふるまう。
+FORGIVING	(形容詞) 寛容な: 他者の罪や落ち度、異論などを、寛い心で受け容れる。\n(動詞) forgiveの現在分詞: 容す。受け容れる。寛容にふるまう。
+FORGOT	(動詞) forgetの過去形・過去分詞: 失念する: （仏教）正念を忘れること。 (ほかに: ～を忘れる)
+FORGOTTEN	(形容詞) forgottenの訳: 失われた, 忘れられた\n(名詞) 忘れられたもの。
+FORK	(名詞) フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。\n(動詞) forkの訳: 分岐する
+FORKED	(形容詞) forkedの訳: 分岐した, 二又の\n(動詞) "fork" の過去形・過去分詞: フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。
+FORKEDLY	(forkの変化形) (名詞) フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。
+FORKER	(forkの変化形) (名詞) フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。
+FORKING	(動詞) forkの動名詞・現在分詞: フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。\n(名詞) 分岐点: 道路などが分岐する場所。 (ほかに: 分岐)
+FORKLIFT	(名詞) フォークリフト: 車体前面に突き出たフォーク形の腕を差し込み荷物の積み下ろしや運搬を行う荷役自動車。
+FORKLIFTS	(forkliftの変化形) (名詞) フォークリフト: 車体前面に突き出たフォーク形の腕を差し込み荷物の積み下ろしや運搬を行う荷役自動車。
+FORKS	(名詞) "fork"の複数形: フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。\n(動詞) "fork" の過去形・過去分詞: フォーク: 食べ物を刺すために使う、数本のとがった部分のある道具。
+FORLORN	(形容詞) 見捨てられた。寂れた。\n(名詞) forlornの訳: 決死的行動
+FORLORNER	(形容詞) forlornの比較級: 見捨てられた。寂れた。
+FORLORNEST	(形容詞) forlornの最上級: 見捨てられた。寂れた。
+FORLORNLY	(副詞) 見捨てられて。寂れて。
+FORLORNNESS	(名詞) forlornnessの訳: 寂しさ
+FORLORNNESSES	(名詞) forlornnessの複数形: 寂しさ
+FORM	(名詞) 形: （かたち）視覚により、他と識別できる状態、外観。 (ほかに: 形状, 格好)\n(動詞) formの訳: 形式を成す, 体系付ける
+FORMAL	(形容詞) 公式の: 正式のもの。公に定められた方式・形式。またそれらに則って行われる表向きの儀式や物事・行事などやその対象物。公なもの。 (ほかに: 正式の)\n(名詞) 正式なパーティー
+FORMALDEHYDE	(名詞) ホルムアルデヒド。
+FORMALDEHYDES	(名詞) formaldehydeの複数形: ホルムアルデヒド。
+FORMALIN	(名詞) ホルマリン: ホルムアルデヒドを約40パーセント含む水溶液。防腐剤、消毒液などに利用される。
+FORMALINS	(名詞) formalinの複数形: ホルマリン: ホルムアルデヒドを約40パーセント含む水溶液。防腐剤、消毒液などに利用される。
+FORMALISE	(動詞) formalizeの異綴
+FORMALISED	(動詞) formaliseの過去形・過去分詞: formalizeの異綴
+FORMALISES	(動詞) formaliseの直説法現在第三人称単数形: formalizeの異綴
+FORMALISING	(動詞) formaliseの現在分詞: formalizeの異綴
+FORMALITIES	(名詞) formalityの複数形: 形式、形式的であること。
+FORMALITY	(名詞) 形式、形式的であること。
+FORMALIZE	(動詞) 正式なものとする
+FORMALIZED	(動詞) formalizeの過去形・過去分詞: 正式なものとする
+FORMALIZER	(formalizeの変化形) (動詞) 正式なものとする
+FORMALIZES	(動詞) formalizeの直説法現在第三人称単数形: 正式なものとする
+FORMALIZING	(動詞) formalizeの現在分詞: 正式なものとする
+FORMALLY	(副詞) 公式に: 正式のもの。公に定められた方式・形式。またそれらに則って行われる表向きの儀式や物事・行事などやその対象物。公なもの。 (ほかに: 正式に)
+FORMALS	(名詞) formalの複数形: 公式の: 正式のもの。公に定められた方式・形式。またそれらに則って行われる表向きの儀式や物事・行事などやその対象物。公なもの。 (ほかに: 正式の)
+FORMAT	(名詞) 形式。形態。体裁。\n(動詞) formatの訳: 体裁を整える
+FORMATE	(名詞) 蟻酸のエステル、塩\n(動詞) 飛行機が編隊を組んで飛行する
+FORMATES	(名詞) formateの複数形: 蟻酸のエステル、塩\n(動詞) formateの直説法現在第三人称単数形: 蟻酸のエステル、塩
+FORMATION	(名詞) 成立: 物事がまとまりを持ち、発生すること。 (ほかに: 形成, 発達)
+FORMATIONS	(名詞) formationの複数形: 成立: 物事がまとまりを持ち、発生すること。 (ほかに: 形成, 発達)
+FORMATS	(名詞) formatの複数形: 形式。形態。体裁。\n(動詞) formatの直説法現在第三人称単数形: 形式。形態。体裁。
+FORMATTED	(formatの変化形) (名詞) 形式。形態。体裁。
+FORMATTER	(formatの変化形) (名詞) 形式。形態。体裁。
+FORMATTING	(名詞) フォーマッティング。\n(動詞) formatの現在分詞: 形式。形態。体裁。
+FORMED	(動詞) formの過去形・過去分詞: 形: （かたち）視覚により、他と識別できる状態、外観。 (ほかに: 形状, 格好)
+FORMER	(形容詞) 前の: （まえ、さき）時間の呼称。ある時点に対して、早い方向、即ち過去となる時点。 (ほかに: 以前の)\n(名詞) formerの訳: 形成者, 作成者
+FORMERLY	(副詞) 昔: （むかし）現在より以前の一時期において。 (ほかに: 以前, かつて)
+FORMERS	(名詞) former の複数形: 前の: （まえ、さき）時間の呼称。ある時点に対して、早い方向、即ち過去となる時点。 (ほかに: 以前の)
+FORMES	(名詞) formeの複数形。
+FORMIDABLE	(形容詞) formidableの訳: 恐ろしい, 恐怖を催す
+FORMING	(動詞) formの動名詞又は現在分詞: 形: （かたち）視覚により、他と識別できる状態、外観。 (ほかに: 形状, 格好)\n(名詞) 成形: 形をつくること。形ができること。
+FORMLESS	(形容詞) 明確な、あるいは一定の形を持たない；無形の
+FORMS	(名詞) form の複数形: 形: （かたち）視覚により、他と識別できる状態、外観。 (ほかに: 形状, 格好)
+FORMULA	(名詞) 公式: 数や式の間で成り立つ関係や計算法則などを、記号で表した式。 (ほかに: 式)
+FORMULAE	(名詞) formulaの複数形: 公式: 数や式の間で成り立つ関係や計算法則などを、記号で表した式。 (ほかに: 式)
+FORMULAS	(名詞) formulaの複数形: 公式: 数や式の間で成り立つ関係や計算法則などを、記号で表した式。 (ほかに: 式)
+FORMULATE	(動詞) 考案する。案出する。構築する。（計画などを）作成する。表現する。
+FORMULATED	(動詞) formulateの過去形・過去分詞: 考案する。案出する。構築する。（計画などを）作成する。表現する。
+FORMULATES	(動詞) formulateの直説法現在第三人称単数形: 考案する。案出する。構築する。（計画などを）作成する。表現する。
+FORMULATING	(動詞) formulateの現在分詞: 考案する。案出する。構築する。（計画などを）作成する。表現する。
+FORMULATION	(名詞) formulationの訳: 定式化
+FORMULATIONS	(名詞) formulationの複数形: 定式化
+FORNICATE	(形容詞) fornicateの訳: アーチ形の, 円蓋のような
+FORNICATED	(動詞) fornicateの過去形・過去分詞: アーチ形の, 円蓋のような\n(形容詞) fornicatedの訳: アーチ形の
+FORNICATES	(動詞) fornicateの直説法現在第三人称単数形: アーチ形の, 円蓋のような
+FORNICATING	(動詞) fornicateの現在分詞: アーチ形の, 円蓋のような
+FORNICATION	(名詞) 姦淫: 男女が不道徳な関係になる。
+FORNICATIONS	(名詞) fornicationの複数形: 姦淫: 男女が不道徳な関係になる。
+FORNICATORS	(名詞) fornicatorの複数形。
+FORNICES	(名詞) fornixの複数形: 円蓋
+FORNIX	(名詞) fornixの訳: 円蓋
+FORSAKE	(動詞) forsakeの訳: 放棄する, 捨てる
+FORSAKEN	(形容詞) forsakenの訳: 見捨てられた\n(動詞) forsakeの過去分詞形: 放棄する, 捨てる
+FORSAKES	(動詞) "forsake" の三人称単数現在形: 放棄する, 捨てる
+FORSAKING	(動詞) "forsake" の動名詞形又は現在分詞形: 放棄する, 捨てる
+FORSOOK	(動詞) forsakeの過去形: 放棄する, 捨てる
+FORT	(名詞) fortの訳: 要塞, 堡塁
+FORTES	(名詞) forteの複数形
+FORTH	(副詞) forthの訳: 前へ
+FORTHCOMING	(形容詞) forthcomingの訳: 来るべき, 今度の\n(名詞) forthcomingの訳: 現れること
+FORTHRIGHT	(形容詞) forthrightの訳: 率直な, 単刀直入の, 忌憚ない
+FORTHRIGHTNESS	(名詞) forthrightnessの訳: 率直さ
+FORTHRIGHTNESSES	(forthrightnessの変化形) (名詞) forthrightnessの訳: 率直さ
+FORTHRIGHTS	(forthrightの変化形) (形容詞) forthrightの訳: 率直な, 単刀直入の, 忌憚ない
+FORTHWITH	(副詞) 直ぐに: （すぐに）時間をおかずに。極めて短い時間のうちに。ただちに。
+FORTIES	(名詞) 四十代: 四十歳から四十九歳までの年齢。
+FORTIETH	(形容詞) fortiethの訳: 第40の, 40番目の\n(名詞) 第40番目の人又は物
+FORTIETHS	(fortiethの変化形) (形容詞) fortiethの訳: 第40の, 40番目の
+FORTIFICATION	(名詞) 要塞: 外敵から防御するために、国境・海岸など戦略的に重要な場所に作った建造物、軍事施設。とりで。 (ほかに: 砦)
+FORTIFICATIONS	(名詞) fortificationの複数形: 要塞: 外敵から防御するために、国境・海岸など戦略的に重要な場所に作った建造物、軍事施設。とりで。 (ほかに: 砦)
+FORTIFIED	(動詞) "fortify" の過去形・過去分詞形: 要塞を築く, 防御を固める
+FORTIFIER	(名詞) fortifierの訳: 築城家
+FORTIFIERS	(fortifierの変化形) (名詞) fortifierの訳: 築城家
+FORTIFIES	(動詞) fortifyの直説法現在第三人称単数形: 要塞を築く, 防御を固める
+FORTIFY	(動詞) fortifyの訳: 要塞を築く, 防御を固める
+FORTIFYING	(動詞) "fortify" の動名詞形又は現在分詞形: 要塞を築く, 防御を固める
+FORTITUDE	(名詞) 忍耐: 苦しみ・辛さ・怒りなどを我慢すること。 (ほかに: 不屈の精神)
+FORTITUDES	(fortitudeの変化形) (名詞) 忍耐: 苦しみ・辛さ・怒りなどを我慢すること。 (ほかに: 不屈の精神)
+FORTNIGHT	(名詞) fortnightの訳: 14日間, 2週間\n(副詞) fortnightの訳: 14日後
+FORTNIGHTLIES	(fortnightlyの変化形) (形容詞) 2週間に1回の。
+FORTNIGHTLY	(形容詞) 2週間に1回の。\n(副詞) fortnightlyの訳: 2週間に1回
+FORTNIGHTS	(名詞) fortnightの複数形: 14日間, 2週間
+FORTRESS	(名詞) 要塞: 外敵から防御するために、国境・海岸など戦略的に重要な場所に作った建造物、軍事施設。とりで。 (ほかに: 要塞都市)
+FORTRESSED	(fortressの変化形) (名詞) 要塞: 外敵から防御するために、国境・海岸など戦略的に重要な場所に作った建造物、軍事施設。とりで。 (ほかに: 要塞都市)
+FORTRESSES	(名詞) fortressの複数形: 要塞: 外敵から防御するために、国境・海岸など戦略的に重要な場所に作った建造物、軍事施設。とりで。 (ほかに: 要塞都市)
+FORTRESSING	(fortressの変化形) (名詞) 要塞: 外敵から防御するために、国境・海岸など戦略的に重要な場所に作った建造物、軍事施設。とりで。 (ほかに: 要塞都市)
+FORTS	(名詞) "fort" の複数形: 要塞, 堡塁
+FORTUITOUS	(形容詞) 思いがけない: （おもいがけない）予想していない出来事に出会うさま。 (ほかに: 偶然の)
+FORTUITOUSLY	(副詞) fortuitouslyの訳: ⟪偶然|ぐうぜん⟫, 思いがけず
+FORTUITOUSNESS	(名詞) fortuitousnessの訳: 偶然性
+FORTUITOUSNESSES	(fortuitousnessの変化形) (名詞) fortuitousnessの訳: 偶然性
+FORTUNATE	(形容詞) 幸運な: 運が良いこと。幸せであること。
+FORTUNATELY	(副詞) fortunatelyの訳: 幸運にも
+FORTUNE	(名詞) fortuneの訳: 富, ⟪財産|ざいさん⟫
+FORTUNED	(fortuneの変化形) (名詞) fortuneの訳: 富, ⟪財産|ざいさん⟫
+FORTUNES	(名詞) "fortune" の複数形: 富, ⟪財産|ざいさん⟫
+FORTUNETELLING	(名詞) fortune-tellingの異綴。
+FORTUNETELLINGS	(fortunetellingの変化形) (名詞) fortune-tellingの異綴。
+FORTUNING	(fortuneの変化形) (名詞) fortuneの訳: 富, ⟪財産|ざいさん⟫
+FORTY	(数詞) 四十: 40。数の一つ。四の十倍。また、2×2×2×5 の積。卌。\n(形容詞) fortyの訳: 四十の
+FORWARD	(形容詞) forwardの訳: 前に, 前方の位置の\n(副詞) forwardの訳: 前に, 前方に
+FORWARDED	(動詞) forwardの過去形・過去分詞: 前に, 前方の位置の
+FORWARDER	(forwardの変化形) (形容詞) forwardの訳: 前に, 前方の位置の
+FORWARDERS	(forwardの変化形) (形容詞) forwardの訳: 前に, 前方の位置の
+FORWARDEST	(forwardの変化形) (形容詞) forwardの訳: 前に, 前方の位置の
+FORWARDING	(動詞) forwardの動名詞又は現在分詞: 前に, 前方の位置の\n(名詞) 転送: 送られてきたものを、さらに別の場所に送ること。 (ほかに: 発送, 送付)
+FORWARDS	(副詞) forwardsの訳: 前方に\n(動詞) forwardの直説法現在第三人称単数形: 前に, 前方の位置の
+FOSSA	(名詞) fossaの訳: 窩
+FOSSAE	(fossaの変化形) (名詞) fossaの訳: 窩
+FOSSAS	(fossaの変化形) (名詞) fossaの訳: 窩
+FOSSE	(名詞) 溝: （みぞ）水などを流す目的で、地面などを線状に掘ったもの。 (ほかに: 側溝)
+FOSSES	(fosseの変化形) (名詞) 溝: （みぞ）水などを流す目的で、地面などを線状に掘ったもの。 (ほかに: 側溝)
+FOSSIL	(名詞) fossilの訳: 化石
+FOSSILS	(名詞) fossilの複数形: 化石。
+FOSTER	(形容詞) 里親の、里子の、里子の養育に関する\n(名詞) fosterの訳: 保護すること
+FOSTERED	(動詞) fosterの過去形: 里親の、里子の、里子の養育に関する
+FOSTERER	(fosterの変化形) (形容詞) 里親の、里子の、里子の養育に関する
+FOSTERERS	(fosterの変化形) (形容詞) 里親の、里子の、里子の養育に関する
+FOSTERING	(動詞) fosterの現在分詞形: 里親の、里子の、里子の養育に関する
+FOSTERS	(名詞) fosterの複数形: 里親の、里子の、里子の養育に関する\n(動詞) fosterの三人称単数現在形: 里親の、里子の、里子の養育に関する
+FOUGHT	(動詞) fightの過去形・過去分詞: 戦う、闘う。
+FOUGHTEN	(動詞) （古風）fightの過去分詞: 戦う、闘う。
+FOUL	(形容詞) 汚い。不潔な。\n(動詞) 汚す。汚染する。
+FOULED	(動詞) foulの過去形・過去分詞: 汚い。不潔な。
+FOULER	(foulの変化形) (形容詞) 汚い。不潔な。
+FOULEST	(形容詞) foulの最上級: 汚い。不潔な。
+FOULING	(動詞) foulの現在分詞: 汚い。不潔な。\n(名詞) foulingの訳: 付着物
+FOULLY	(副詞) 不快に。不正に。下品に。
+FOULS	(名詞) foulの複数形: 汚い。不潔な。\n(動詞) foulの直説法現在第三人称単数形: 汚い。不潔な。
+FOUND	(動詞) foundの訳: 基礎を固める, 根拠を立てる
+FOUNDATION	(名詞) foundationの訳: ⟪創立|そうりつ⟫, ⟪設立|せつりつ⟫
+FOUNDATIONS	(名詞) foundationの複数形: ⟪創立|そうりつ⟫, ⟪設立|せつりつ⟫
+FOUNDED	(動詞) foundの過去形・過去分詞: 基礎を固める, 根拠を立てる\n(形容詞) foundedの訳: 根拠を有する
+FOUNDER	(名詞) founderの訳: 創設者, ⟪設立者|せつりつしゃ⟫, 建設者, 開祖\n(動詞) founderの訳: 失敗する
+FOUNDERED	(動詞) "founder" の過去形・過去分詞形: 創設者, ⟪設立者|せつりつしゃ⟫, 建設者, 開祖
+FOUNDERING	(動詞) "founder" の動名詞形又は現在分詞形: 創設者, ⟪設立者|せつりつしゃ⟫, 建設者, 開祖
+FOUNDERS	(名詞) "founder" の複数形: 創設者, ⟪設立者|せつりつしゃ⟫, 建設者, 開祖\n(動詞) "founder" の三人称単数現在形: 創設者, ⟪設立者|せつりつしゃ⟫, 建設者, 開祖
+FOUNDING	(名詞) 設立: 組織や機関などを新しく作ること。 (ほかに: 創立)\n(形容詞) foundingの訳: 創立の, 設立の
+FOUNDLING	(名詞) 捨て子。拾い子。
+FOUNDLINGS	(名詞) foundlingの複数形: 捨て子。拾い子。
+FOUNDS	(動詞) "found" の三人称単数現在形: 基礎を固める, 根拠を立てる
+FOUNTAIN	(名詞) fountainの訳: 泉\n(動詞) 泉のように流れる、泉のように湧き出る
+FOUNTAINED	(動詞) fountainの過去形・過去分詞: 泉
+FOUNTAINHEAD	(名詞) 水源: 奥深く荘厳であること。また、そのさま。
+FOUNTAINHEADS	(fountainheadの変化形) (名詞) 水源: 奥深く荘厳であること。また、そのさま。
+FOUNTAINING	(動詞) fountainの動名詞又は現在分詞: 泉
+FOUNTAINS	(名詞) fountainの複数形: 泉\n(動詞) fountainの直説法現在第三人称単数形: 泉
+FOUR	(数詞) fourの訳: 四\n(形容詞) fourの訳: 4の
+FOURS	(fourの変化形) (数詞) fourの訳: 四
+FOURTEEN	(名詞) fourteenの訳: 十四\n(形容詞) fourteenの訳: 十四の
+FOURTEENER	(fourteenの変化形) (名詞) fourteenの訳: 十四
+FOURTEENS	(fourteenの変化形) (名詞) fourteenの訳: 十四
+FOURTEENTH	(形容詞) fourteenthの訳: 第14の, 14番目の\n(名詞) 第14番目の人又は物
+FOURTEENTHS	(fourteenthの変化形) (形容詞) fourteenthの訳: 第14の, 14番目の
+FOURTH	(形容詞) 第四の: 序列が四番目であること。四番目の。 (ほかに: 四番目の)\n(名詞) 第四番目の人又は物
+FOURTHLY	(副詞) fourthlyの訳: 4番目に
+FOURTHS	(fourthの変化形) (形容詞) 第四の: 序列が四番目であること。四番目の。 (ほかに: 四番目の)
+FOWL	(名詞) fowlの訳: 鳥\n(動詞) 野鳥狩りをする。
+FOWLED	(動詞) fowlの過去形・過去分詞: 鳥
+FOWLING	(動詞) "fowl" の動名詞形又は現在分詞形: 鳥
+FOWLS	(名詞) "fowl" の複数形: 鳥\n(動詞) "fowl" の三人称単数現在形: 鳥
+FOX	(名詞) 狐。狐の仲間。\n(動詞) foxの訳: 人をだます
+FOXED	(動詞) "fox" の過去形・過去分詞形: 狐。狐の仲間。
+FOXES	(名詞) "fox" の複数形: 狐。狐の仲間。\n(動詞) "fox" の三人称単数現在形: 狐。狐の仲間。
+FOXHUNT	(名詞) 狐狩り: イギリスやアメリカで行われている団体猟でイギリスでは貴族をはじめとする紳士のスポーツであり、派手な狩猟服を着用した騎馬の集団がフォックスハウンドを追い立てて狐をかみ殺させること。\n(動詞) foxhuntの訳: 狐を狩る
+FOXHUNTED	(動詞) foxhuntの過去形・過去分詞: 狐狩り:...
+FOXHUNTING	(動詞) foxhuntの現在分詞: 狐狩り:...
+FOXHUNTS	(名詞) foxhuntの複数形: 狐狩り。\n(動詞) foxhuntの直説法現在第三人称単数形: 狐狩り:...
+FOXING	(動詞) "fox" の動名詞形又は現在分詞形: 狐。狐の仲間。
+FOXTAIL	(名詞) foxtailの訳: エノコログサ, 雀の鉄砲
+FOXTAILS	(foxtailの変化形) (名詞) foxtailの訳: エノコログサ, 雀の鉄砲
+FOYER	(名詞) 玄関: 建物や住居の正式、あるいは主要な入り。
+FOYERS	(foyerの変化形) (名詞) 玄関: 建物や住居の正式、あるいは主要な入り。
+FRACAS	(名詞) 喧嘩騒ぎ。騒動。
+FRACASES	(名詞) fracasの複数形: 喧嘩騒ぎ。騒動。
+FRACTION	(名詞) fractionの訳: ⟪部分|ぶぶん⟫\n(動詞) ばらばらにする、ばらばらになる。
+FRACTIONED	(fractionの変化形) (名詞) fractionの訳: ⟪部分|ぶぶん⟫
+FRACTIONING	(動詞) fractionの現在分詞: ⟪部分|ぶぶん⟫
+FRACTIONS	(名詞) fractionの複数形: ⟪部分|ぶぶん⟫\n(動詞) fractionの直説法現在第三人称単数形: ⟪部分|ぶぶん⟫
+FRACTURE	(名詞) 骨折: 骨が変形、破壊を起こす外傷であり、構造の連続性が部分的に、または完全に絶たれた状態のこと。（前者は通常、ひびが入ったなどと言う。）\n(動詞) fractureの訳: 骨折する
+FRACTURED	(形容詞) fracturedの訳: 破壊された, 亀裂の入った\n(動詞) fractureの過去形・過去分詞: 骨折: 骨が変形、破壊を起こす外傷であり、構造の連続性が部分的に、または完全に絶たれた状態のこと。（前者は通常、ひびが入ったなどと言う。）
+FRACTURES	(動詞) fractureの直説法現在第三人称単数形: 骨折: 骨が変形、破壊を起こす外傷であり、構造の連続性が部分的に、または完全に絶たれた状態のこと。（前者は通常、ひびが入ったなどと言う。）\n(名詞) fractureの複数形: 骨折: 骨が変形、破壊を起こす外傷であり、構造の連続性が部分的に、または完全に絶たれた状態のこと。（前者は通常、ひびが入ったなどと言う。）
+FRACTURING	(動詞) fractureの動名詞又は現在分詞: 骨折: 骨が変形、破壊を起こす外傷であり、構造の連続性が部分的に、または完全に絶たれた状態のこと。（前者は通常、ひびが入ったなどと言う。）\n(名詞) fracturingの訳: 破砕, 割裂
+FRAGILE	(形容詞) 壊れやすい。脆い。
+FRAGILITIES	(名詞) fragilityの複数形: 壊れやすさ。虚弱。
+FRAGILITY	(名詞) 壊れやすさ。虚弱。
+FRAGMENT	(名詞) fragmentの訳: 破片, 欠片\n(動詞) fragmentの訳: 砕ける
+FRAGMENTARY	(形容詞) 断片的な。破片の。
+FRAGMENTED	(動詞) "fragment" の過去形・過去分詞形: 破片, 欠片
+FRAGMENTING	(動詞) "fragment" の動名詞形又は現在分詞形: 破片, 欠片
+FRAGMENTS	(名詞) "fragment" の複数形: 破片, 欠片\n(動詞) "fragment" の三人称単数現在形: 破片, 欠片
+FRAGRANCE	(名詞) 香り。芳香。\n(動詞) fragranceの訳: 香りを加える
+FRAGRANCES	(名詞) fragranceの複数形: 香り。芳香。\n(動詞) fragranceの直説法現在第三人称単数形: 香り。芳香。
+FRAGRANT	(形容詞) 香りの良い。芳しい。
+FRAGRANTLY	(fragrantの変化形) (形容詞) 香りの良い。芳しい。
+FRAIL	(形容詞) 弱い: 苦手だ。下手だ。 (ほかに: 虚弱な)\n(名詞) frailの訳: いぐさの籠
+FRAILER	(形容詞) frailの比較級: 弱い: 苦手だ。下手だ。 (ほかに: 虚弱な)
+FRAILEST	(形容詞) frailの最上級: 弱い: 苦手だ。下手だ。 (ほかに: 虚弱な)
+FRAILS	(名詞) frailの複数形: 弱い: 苦手だ。下手だ。 (ほかに: 虚弱な)\n(動詞) frailの直説法現在第三人称単数形: 弱い: 苦手だ。下手だ。 (ほかに: 虚弱な)
+FRAME	(動詞) frameの訳: 合わせる\n(名詞) 枠。額縁。フレーム。
+FRAMED	(動詞) frameの過去形・過去分詞: 合わせる
+FRAMES	(名詞) frameの複数形: 合わせる\n(動詞) frameの直説法現在第三人称単数形: 合わせる
+FRAMEWORK	(名詞) （建物などの）骨組み。枠組み。
+FRAMEWORKS	(名詞) frameworkの複数形: （建物などの）骨組み。枠組み。
+FRAMING	(動詞) frameの現在分詞: 合わせる\n(名詞) framingの訳: 枠空け
+FRAMINGS	(名詞) framingの複数形: frameの現在分詞: 合わせる
+FRANCHISE	(名詞) franchiseの訳: 選挙権, 参政権\n(動詞) フランチャイズを与える。
+FRANCHISED	(動詞) franchiseの過去形・過去分詞: 選挙権, 参政権
+FRANCHISEES	(名詞) franchiseeの複数形。
+FRANCHISER	(名詞) 営業権を賦与する者。フランチャイザー。
+FRANCHISES	(名詞) franchiseの複数形: 選挙権, 参政権\n(動詞) franchiseの直説法現在第三人称単数形: 選挙権, 参政権
+FRANCHISING	(動詞) franchiseの動名詞又は現在分詞: 選挙権, 参政権
+FRANCIUM	(名詞) フランシウム: 原子番号 87、元素記号 Fr の金属元素。安定同位体を持たないアルカリ金属。単体は、常温常圧では銀白色の固体と推定されている。
+FRANCIUMS	(名詞) franciumの複数形: フランシウム。
+FRANK	(形容詞) 率直な。ずけずけとものを言う。\n(動詞) （郵便）無料で郵送する。
+FRANKED	(動詞) "frank" の過去形・過去分詞形: 率直な。ずけずけとものを言う。
+FRANKER	(形容詞) "frank" の比較級形: 率直な。ずけずけとものを言う。\n(名詞) frankする人。
+FRANKEST	(形容詞) "frank" の最上級形: 率直な。ずけずけとものを言う。
+FRANKFURT	(名詞) フランクフルトソーセージ。
+FRANKFURTER	(名詞) フランクフルトソーセージ。
+FRANKFURTERS	(名詞) frankfurterの複数形: フランクフルトソーセージ。
+FRANKFURTS	(名詞) frankfurtの複数形: フランクフルトソーセージ。
+FRANKINCENSE	(名詞) 乳香: カンラン科に属する常緑高木。また、その樹液からつくられる香料。
+FRANKINCENSES	(frankincenseの変化形) (名詞) 乳香: カンラン科に属する常緑高木。また、その樹液からつくられる香料。
+FRANKING	(動詞) "frank" の動名詞形又は現在分詞形: 率直な。ずけずけとものを言う。
+FRANKLIN	(名詞) franklinの訳: フランクリン
+FRANKLINS	(franklinの変化形) (名詞) franklinの訳: フランクリン
+FRANKLY	(副詞) franklyの訳: 率直に
+FRANKNESS	(名詞) franknessの訳: 率直さ
+FRANKNESSES	(名詞) franknessの複数形: 率直さ
+FRANKS	(名詞) "frank" の複数形: 率直な。ずけずけとものを言う。\n(動詞) "frank" の三人称単数現在形: 率直な。ずけずけとものを言う。
+FRANTIC	(形容詞) けたたましい: 騒がしい。慌ただしい。
+FRATERNAL	(形容詞) 兄弟の。兄弟方の。
+FRATERNITIES	(fraternityの変化形) (名詞) 友愛。兄弟間の愛。
+FRATERNITY	(名詞) 友愛。兄弟間の愛。
+FRATRICIDAL	(形容詞) 兄弟殺しの。姉妹殺しの。
+FRATRICIDE	(名詞) fratricideの訳: 兄弟殺し, 姉妹殺し
+FRATRICIDES	(名詞) fratricideの複数形: 兄弟殺し, 姉妹殺し
+FRAUD	(名詞) fraudの訳: 詐欺, 詐欺行為
+FRAUDS	(名詞) fraudの複数形: 詐欺, 詐欺行為
+FRAUDULENCE	(名詞) fraudulenceの訳: 詐欺行為, 不正
+FRAUDULENCES	(fraudulenceの変化形) (名詞) fraudulenceの訳: 詐欺行為, 不正
+FRAUDULENT	(形容詞) fraudulentの訳: 詐欺の, 詐欺をする
+FRAUDULENTLY	(副詞) 不正に: 法的、倫理的に正しくない様。 (ほかに: 騙して)
+FRAZZLE	(動詞) frazzleの訳: ⟪つかれる⟫, 疲労
+FRAZZLED	(frazzleの変化形) (動詞) frazzleの訳: ⟪つかれる⟫, 疲労
+FRAZZLES	(frazzleの変化形) (動詞) frazzleの訳: ⟪つかれる⟫, 疲労
+FRAZZLING	(frazzleの変化形) (動詞) frazzleの訳: ⟪つかれる⟫, 疲労
+FREAK	(名詞) 奇人: 恐ろしい鬼。化け物。 (ほかに: 変人)\n(形容詞) freakの訳: 奇妙な, 異常な, 珍しい
+FREAKED	(freakの変化形) (名詞) 奇人: 恐ろしい鬼。化け物。 (ほかに: 変人)
+FREAKING	(freakの変化形) (名詞) 奇人: 恐ろしい鬼。化け物。 (ほかに: 変人)
+FREAKS	(freakの変化形) (名詞) 奇人: 恐ろしい鬼。化け物。 (ほかに: 変人)
+FRECKLE	(名詞) そばかす: そばかす。雀卵斑。\n(動詞) そばかす・染みを生じさせる。
+FRECKLED	(形容詞) そばかすのある。染みのある。\n(動詞) freckleの過去形・過去分詞: そばかす: そばかす。雀卵斑。
+FRECKLES	(名詞) freckleの複数形: そばかす: そばかす。雀卵斑。\n(動詞) freckleの直説法現在第三人称単数形: そばかす: そばかす。雀卵斑。
+FRECKLING	(動詞) freckleの現在分詞: そばかす: そばかす。雀卵斑。\n(名詞) そばかすの発生。
+FREE	(形容詞) 自由な、自由に～できる。\n(副詞) freeの訳: 無料で
+FREEBIE	(名詞) 無料の物。景品。
+FREEBIES	(名詞) freebieの複数形: 無料の物。景品。
+FREEBOOTER	(名詞) 略奪者。海賊。
+FREEBOOTERS	(名詞) "freebooter" の複数形: 略奪者。海賊。
+FREED	(動詞) freeの過去形・過去分詞: 自由な、自由に～できる。
+FREEDOM	(名詞) 自由。解放されていること。縛られないこと。
+FREEDOMS	(名詞) "freedom" の複数形: 自由。解放されていること。縛られないこと。
+FREEING	(動詞) "free" の動名詞形又は現在分詞形: 自由な、自由に～できる。
+FREELY	(副詞) 自由に: 自由である状態。きままだ。 (ほかに: 勝手に)
+FREER	(形容詞) "free" の比較級形: 自由な、自由に～できる。\n(名詞) freeする人。
+FREERS	(名詞) "freer" の複数形: "free" の比較級形: 自由な、自由に～できる。
+FREES	(動詞) "free" の三人称単数現在形: 自由な、自由に～できる。
+FREEST	(形容詞) "free" の最上級形: 自由な、自由に～できる。
+FREESTYLE	(名詞) 自由形: 競泳で、どの泳法で泳いでもよい種目。通常はクロールで行われる。 (ほかに: フリースタイル)
+FREESTYLES	(freestyleの変化形) (名詞) 自由形: 競泳で、どの泳法で泳いでもよい種目。通常はクロールで行われる。 (ほかに: フリースタイル)
+FREEWAY	(名詞) 高速道路: 自動車が高速で安全に移動するために作られた道路。
+FREEWAYS	(名詞) freewayの複数形: 高速道路: 自動車が高速で安全に移動するために作られた道路。
+FREEZE	(動詞) freezeの訳: ⟪凍る|こおる⟫\n(名詞) freezeの訳: 厳寒期
+FREEZER	(名詞) 冷凍庫。フリーザー。
+FREEZERS	(名詞) freezerの複数形: 冷凍庫。フリーザー。
+FREEZES	(動詞) "freeze" の三人称単数現在形: ⟪凍る|こおる⟫
+FREEZING	(形容詞) freezingの訳: 氷点下の, 氷点に近い\n(名詞) 氷結: 寒さなどで液体の物質が凍りつくこと。凍結。 (ほかに: 凍結)
+FREEZINGLY	(freezeの変化形) (動詞) freezeの訳: ⟪凍る|こおる⟫
+FREIGHT	(名詞) freightの訳: 貨物輸送\n(動詞) 輸送する: 乗り物で人や物資を運ぶこと。
+FREIGHTED	(動詞) "freight" の過去分詞形: 貨物輸送
+FREIGHTING	(動詞) freightの動名詞又は現在分詞: 貨物輸送
+FREIGHTS	(動詞) "freight" の三人称単数現在形: 貨物輸送
+FRENCHIFIED	(frenchifyの変化形) (動詞) frenchifyの訳: フランス化する, フランス風にする
+FRENCHIFIES	(frenchifyの変化形) (動詞) frenchifyの訳: フランス化する, フランス風にする
+FRENCHIFY	(動詞) frenchifyの訳: フランス化する, フランス風にする
+FRENCHIFYING	(frenchifyの変化形) (動詞) frenchifyの訳: フランス化する, フランス風にする
+FRENETIC	(形容詞) 熱狂した。狂乱した。\n(名詞) freneticの訳: 熱狂者
+FRENETICS	(名詞) freneticの複数形: 熱狂した。狂乱した。
+FRENZIED	(形容詞) frenziedの訳: 熱狂した, 狂乱した\n(動詞) frenzyの過去形・過去分詞: 逆上: 激しい怒りなどによってかっとなり、興奮したり取り乱したりすること。 (ほかに: 熱狂, 狂乱)
+FRENZIES	(名詞) frenzyの複数形: 逆上: 激しい怒りなどによってかっとなり、興奮したり取り乱したりすること。 (ほかに: 熱狂, 狂乱)\n(動詞) frenzyの直説法現在第三人称単数形: 逆上: 激しい怒りなどによってかっとなり、興奮したり取り乱したりすること。 (ほかに: 熱狂, 狂乱)
+FRENZILY	(frenzyの変化形) (名詞) 逆上: 激しい怒りなどによってかっとなり、興奮したり取り乱したりすること。 (ほかに: 熱狂, 狂乱)
+FRENZY	(名詞) 逆上: 激しい怒りなどによってかっとなり、興奮したり取り乱したりすること。 (ほかに: 熱狂, 狂乱)\n(動詞) frenzyの訳: 逆上させる, 狂乱させる
+FRENZYING	(動詞) frenzyの現在分詞: 逆上: 激しい怒りなどによってかっとなり、興奮したり取り乱したりすること。 (ほかに: 熱狂, 狂乱)
+FREQUENCIES	(frequencyの変化形) (名詞) 頻発: ある物事が頻繁に発生すること。
+FREQUENCY	(名詞) 頻発: ある物事が頻繁に発生すること。
+FREQUENT	(形容詞) frequentの訳: 頻繁な\n(動詞) frequentの訳: 頻繁に訪れる
+FREQUENTATION	(名詞) frequentationの訳: 頻繁な訪問
+FREQUENTATIONS	(名詞) "frequentation" の複数形: 頻繁な訪問
+FREQUENTATIVE	(形容詞) 反復の。反復相の。\n(名詞) frequentativeの訳: 反復相
+FREQUENTATIVES	(名詞) frequentativeの複数形: 反復の。反復相の。
+FREQUENTED	(動詞) frequentの過去形・過去分詞: 頻繁な
+FREQUENTER	(名詞) よく訪れる人。常連。\n(形容詞) frequentの比較級: 頻繁な
+FREQUENTERS	(名詞) frequenterの複数形: よく訪れる人。常連。
+FREQUENTEST	(frequentの変化形) (形容詞) frequentの訳: 頻繁な
+FREQUENTING	(動詞) frequentの動名詞又は現在分詞: 頻繁な
+FREQUENTLY	(副詞) 屡。しょっちゅう。よく。頻繁に。
+FREQUENTS	(動詞) frequentの直説法現在第三人称単数形: 頻繁な
+FRESCO	(名詞) frescoの訳: 壁画
+FRESCOED	(frescoの変化形) (名詞) frescoの訳: 壁画
+FRESCOER	(frescoの変化形) (名詞) frescoの訳: 壁画
+FRESCOES	(frescoの変化形) (名詞) frescoの訳: 壁画
+FRESCOING	(frescoの変化形) (名詞) frescoの訳: 壁画
+FRESCOS	(frescoの変化形) (名詞) frescoの訳: 壁画
+FRESH	(形容詞) freshの訳: ⟪新しい|あたらしい⟫
+FRESHED	(freshの変化形) (形容詞) freshの訳: ⟪新しい|あたらしい⟫
+FRESHEN	(動詞) freshenの訳: 新鮮にする
+FRESHENED	(動詞) freshenの過去形・過去分詞: 新鮮にする
+FRESHENER	(名詞) freshenerの訳: 新鮮なもの
+FRESHENERS	(名詞) freshenerの複数形: 新鮮なもの。
+FRESHENING	(動詞) freshenの動名詞又は現在分詞: 新鮮にする\n(名詞) 新鮮にすること。
+FRESHENS	(動詞) freshenの直説法現在第三人称単数形: 新鮮にする
+FRESHER	(形容詞) "fresh"の比較級: ⟪新しい|あたらしい⟫\n(名詞) 新入生: 新しく学校などに入学した生徒、学生、児童、園児。
+FRESHES	(freshの変化形) (形容詞) freshの訳: ⟪新しい|あたらしい⟫
+FRESHEST	(形容詞) "fresh" の最上級: ⟪新しい|あたらしい⟫
+FRESHING	(freshの変化形) (形容詞) freshの訳: ⟪新しい|あたらしい⟫
+FRESHLY	(副詞) freshlyの訳: 新たに
+FRESHMAN	(名詞) 新入生: 新しく学校などに入学した生徒、学生、児童、園児。
+FRESHMEN	(名詞) freshmanの複数形: 新入生: 新しく学校などに入学した生徒、学生、児童、園児。
+FRESHNESS	(名詞) freshnessの訳: 新鮮さ
+FRESHNESSES	(名詞) freshnessの複数形: 新鮮さ
+FRESHWATER	(形容詞) 淡水の: 塩分をほとんど含まない水。
+FRESHWATERS	(freshwaterの変化形) (形容詞) 淡水の: 塩分をほとんど含まない水。
+FRET	(名詞) 焦燥: いらいらして焦ること。
+FRETFULNESS	(名詞) 焦燥: いらいらして焦ること。
+FRETFULNESSES	(fretfulnessの変化形) (名詞) 焦燥: いらいらして焦ること。
+FRETS	(fretの変化形) (名詞) 焦燥: いらいらして焦ること。
+FRETTED	(fretの変化形) (名詞) 焦燥: いらいらして焦ること。
+FRETTING	(fretの変化形) (名詞) 焦燥: いらいらして焦ること。
+FRICATIVE	(形容詞) 摩擦による。摩擦音の。\n(名詞) 摩擦音: 肺から口腔を通る息が調音器官のどこかで狭められることで出る音。
+FRICATIVES	(名詞) fricativeの複数形: 摩擦による。摩擦音の。
+FRICTION	(名詞) 摩擦: 物と物が擦れること。
+FRICTIONS	(frictionの変化形) (名詞) 摩擦: 物と物が擦れること。
+FRIDGE	(名詞) 冷蔵庫: 低温で、食品等を保管することを目的とした器具。過去には、氷を充填することにより、その目的を果たすものもあったが、現在では、ほぼ電力を利用するもののみとなっており、電気冷蔵庫と同義である。一般には、0℃以上でものを凍らせないものを言い、0℃以下にするものを冷凍庫と言う。
+FRIDGES	(名詞) "fridge" の複数形: 冷蔵庫:...
+FRIED	(形容詞) フライの: 衣を付けて揚げた料理。\n(動詞) fryの過去形・過去分詞: 熱い油で調理する。
+FRIEND	(名詞) 友人: 友達。朋友。 (ほかに: 友達)\n(動詞) 友人として振舞う。
+FRIENDED	(動詞) "friend" の過去形・過去分詞形: 友人: 友達。朋友。 (ほかに: 友達)
+FRIENDING	(動詞) "friend" の動名詞形又は現在分詞形: 友人: 友達。朋友。 (ほかに: 友達)
+FRIENDLIER	(friendlyの変化形) (形容詞) 友好的な。好意を抱いている。親しい。
+FRIENDLIES	(名詞) friendlyの複数形: 友好的な。好意を抱いている。親しい。
+FRIENDLIEST	(friendlyの変化形) (形容詞) 友好的な。好意を抱いている。親しい。
+FRIENDLILY	(副詞) 友好的に: 友好であるさま。 (ほかに: 親しげに)
+FRIENDLINESS	(名詞) 親しいこと、親密であること、友好。
+FRIENDLINESSES	(friendlinessの変化形) (名詞) 親しいこと、親密であること、友好。
+FRIENDLY	(形容詞) 友好的な。好意を抱いている。親しい。\n(副詞) 友好的に。親しく。
+FRIENDS	(名詞) "friend" の複数形: 友人: 友達。朋友。 (ほかに: 友達)
+FRIENDSHIP	(名詞) 友情: 友達のよしみ。友人間の情愛。
+FRIENDSHIPS	(friendshipの変化形) (名詞) 友情: 友達のよしみ。友人間の情愛。
+FRIES	(名詞) "fry" の複数形: 熱い油で（何かを）調理する。\n(動詞) "fry" の三人称単数現在形: 熱い油で（何かを）調理する。
+FRIGATE	(名詞) フリゲート: 18世紀から19世紀にかけては警戒、護衛などにあたった軽快な帆船の軍艦。
+FRIGATES	(frigateの変化形) (名詞) フリゲート: 18世紀から19世紀にかけては警戒、護衛などにあたった軽快な帆船の軍艦。
+FRIGHT	(名詞) 恐怖: 恐れること。はなはだしく不安を感じること。 (ほかに: 驚愕)\n(動詞) frightの訳: 恐怖させる, 怯えさせる
+FRIGHTED	(動詞) frightの過去形・過去分詞: 恐怖: 恐れること。はなはだしく不安を感じること。 (ほかに: 驚愕)
+FRIGHTEN	(動詞) 脅かす: 脅す。恐れさせる。 (ほかに: 怖がらせる, ぞっとさせる)
+FRIGHTENED	(形容詞) 怖がった。怯えた。\n(動詞) frighten の過去形又は過去分詞形: 怖がらせる、ぞっとさせる、脅かす。
+FRIGHTENING	(形容詞) 恐ろしい。ぎょっとするような。\n(動詞) frightenの動名詞又は現在分詞: 脅かす: 脅す。恐れさせる。 (ほかに: 怖がらせる, ぞっとさせる)
+FRIGHTENINGLY	(副詞) 恐ろしいほど。ぎょっとするほど。
+FRIGHTENS	(動詞) "frighten" の三人称単数現在形: 脅かす: 脅す。恐れさせる。 (ほかに: 怖がらせる, ぞっとさせる)
+FRIGHTFUL	(形容詞) 恐ろしい。ぞっとするような。
+FRIGHTFULLY	(副詞) frightfullyの訳: 恐ろしく
+FRIGHTING	(動詞) "fright" の動名詞形又は現在分詞形: 恐怖: 恐れること。はなはだしく不安を感じること。 (ほかに: 驚愕)
+FRIGHTS	(名詞) "fright" の複数形: 恐怖: 恐れること。はなはだしく不安を感じること。 (ほかに: 驚愕)\n(動詞) "fright" の三人称単数現在形: 恐怖: 恐れること。はなはだしく不安を感じること。 (ほかに: 驚愕)
+FRIGID	(形容詞) frigidの訳: 極寒の
+FRIGIDITIES	(名詞) frigidityの複数形: 寒冷
+FRIGIDITY	(名詞) frigidityの訳: 寒冷
+FRILL	(名詞) frillの訳: フリル, ひだ飾り\n(動詞) フリルを付ける。
+FRILLED	(形容詞) フリルの付いた。\n(動詞) frillの過去形・過去分詞: フリル, ひだ飾り
+FRILLER	(frillの変化形) (名詞) frillの訳: フリル, ひだ飾り
+FRILLING	(動詞) frillの現在分詞: フリル, ひだ飾り\n(名詞) frillingの訳: フリル
+FRILLS	(名詞) frillの複数形: フリル, ひだ飾り\n(動詞) frillの直説法現在第三人称単数形: フリル, ひだ飾り
+FRILLY	(形容詞) フリルの付いた。
+FRINGE	(名詞) fringeの訳: ふさべり, ⟪縁飾り|ふちかざり⟫\n(形容詞) 二次的な。非主流派の。
+FRINGED	(形容詞) fringedの訳: 縁のある\n(動詞) fringeの過去形・過去分詞: ふさべり, ⟪縁飾り|ふちかざり⟫
+FRINGES	(名詞) fringeの複数形: ふさべり, ⟪縁飾り|ふちかざり⟫\n(動詞) fringeの直説法現在第三人称単数形: ふさべり, ⟪縁飾り|ふちかざり⟫
+FRINGING	(fringeの変化形) (名詞) fringeの訳: ふさべり, ⟪縁飾り|ふちかざり⟫
+FRISK	(名詞) friskの訳: 跳ね回ること\n(動詞) friskの訳: ⟪跳ね回る|はねまわる⟫
+FRISKED	(動詞) friskの過去形・過去分詞: 跳ね回ること
+FRISKER	(名詞) friskerの訳: 跳ね回る人
+FRISKERS	(名詞) friskerの複数形: 跳ね回る人
+FRISKIER	(形容詞) friskyの比較級: 元気な, 陽気な, 活発な
+FRISKIEST	(形容詞) friskyの最上級: 元気な, 陽気な, 活発な
+FRISKING	(friskの変化形) (名詞) friskの訳: 跳ね回ること
+FRISKS	(動詞) friskの直説法現在第三人称単数形: 跳ね回ること\n(名詞) friskの複数形: 跳ね回ること
+FRISKY	(形容詞) friskyの訳: 元気な, 陽気な, 活発な
+FRISSON	(名詞) （恐怖・興奮などによる）身震い。戦慄。スリル。
+FRISSONS	(名詞) frissonの複数形: （恐怖・興奮などによる）身震い。戦慄。スリル。
+FRIVOLITIES	(名詞) frivolityの複数形: 軽薄な言動
+FRIVOLITY	(名詞) frivolityの訳: 軽薄な言動
+FRIVOLOUS	(形容詞) 不真面目な: 真面目でないこと。また、そのようなさま。 (ほかに: 軽薄な, 無為な)
+FRIVOLOUSLY	(副詞) frivolouslyの訳: 軽薄に, 不真面目に
+FRIVOLOUSNESS	(名詞) 不真面目: 真面目でないこと。また、そのようなさま。 (ほかに: 軽薄)
+FRIVOLOUSNESSES	(名詞) frivolousnessの複数形: 不真面目: 真面目でないこと。また、そのようなさま。 (ほかに: 軽薄)
+FRIZZ	(名詞) frizzの訳: ⟪くせげ⟫, ⟪くせっけ⟫, ⟪ちぢれげ⟫, ⟪ちぢれけ⟫
+FRIZZED	(frizzの変化形) (名詞) frizzの訳: ⟪くせげ⟫, ⟪くせっけ⟫, ⟪ちぢれげ⟫, ⟪ちぢれけ⟫
+FRIZZER	(frizzの変化形) (名詞) frizzの訳: ⟪くせげ⟫, ⟪くせっけ⟫, ⟪ちぢれげ⟫, ⟪ちぢれけ⟫
+FRIZZES	(frizzの変化形) (名詞) frizzの訳: ⟪くせげ⟫, ⟪くせっけ⟫, ⟪ちぢれげ⟫, ⟪ちぢれけ⟫
+FRIZZIER	(frizzyの変化形) (名詞) くせげ: 癖のある毛。真っ直ぐに伸びず、縮れたり巻いたりする毛。癖っ毛。 (ほかに: くせっけ, ちぢれげ)
+FRIZZIEST	(frizzyの変化形) (名詞) くせげ: 癖のある毛。真っ直ぐに伸びず、縮れたり巻いたりする毛。癖っ毛。 (ほかに: くせっけ, ちぢれげ)
+FRIZZILY	(frizzyの変化形) (名詞) くせげ: 癖のある毛。真っ直ぐに伸びず、縮れたり巻いたりする毛。癖っ毛。 (ほかに: くせっけ, ちぢれげ)
+FRIZZING	(frizzの変化形) (名詞) frizzの訳: ⟪くせげ⟫, ⟪くせっけ⟫, ⟪ちぢれげ⟫, ⟪ちぢれけ⟫
+FRIZZLED	(名詞) frizzledの訳: ⟪くせげ⟫, ⟪くせっけ⟫, ⟪ちぢれげ⟫, ⟪ちぢれけ⟫
+FRIZZY	(名詞) くせげ: 癖のある毛。真っ直ぐに伸びず、縮れたり巻いたりする毛。癖っ毛。 (ほかに: くせっけ, ちぢれげ)
+FRO	(前置詞) 「from」に同じ。
+FROES	(froの変化形) (前置詞) 「from」に同じ。
+FROG	(名詞) 蛙: （えび）節足動物、甲殻類、軟甲綱、十脚目のうち、ヤドカリとカニを除いた種の総称。
+FROGGED	(frogの変化形) (名詞) 蛙: （えび）節足動物、甲殻類、軟甲綱、十脚目のうち、ヤドカリとカニを除いた種の総称。
+FROGGING	(frogの変化形) (名詞) 蛙: （えび）節足動物、甲殻類、軟甲綱、十脚目のうち、ヤドカリとカニを除いた種の総称。
+FROGS	(frogの変化形) (名詞) 蛙: （えび）節足動物、甲殻類、軟甲綱、十脚目のうち、ヤドカリとカニを除いた種の総称。
+FROLIC	(形容詞) 陽気な、楽しい。[1530年台より]\n(動詞) frolicの訳: ⟪はしゃぐ⟫, 陽気に騒ぐ
+FROLICKED	(動詞) frolicの過去形・過去分詞: 陽気な、楽しい。[1530年台より]
+FROLICKING	(frolicの変化形) (形容詞) 陽気な、楽しい。[1530年台より]
+FROLICS	(名詞) frolicの複数形: 陽気な、楽しい。[1530年台より]\n(動詞) frolicの直説法現在第三人称単数形: 陽気な、楽しい。[1530年台より]
+FROLICSOME	(形容詞) frolicsomeの訳: 陽気な, はしゃいだ
+FROM	(前置詞) fromの訳: ～から, ～から
+FRONT	(名詞) 前部: 前の部分。 (ほかに: 前, 表)\n(形容詞) frontの訳: 前の, 正面の
+FRONTAGE	(名詞) frontageの訳: ⟪正面|しょうめん⟫
+FRONTAGES	(名詞) frontageの複数形: ⟪正面|しょうめん⟫
+FRONTED	(frontの変化形) (名詞) 前部: 前の部分。 (ほかに: 前, 表)
+FRONTER	(frontの変化形) (名詞) 前部: 前の部分。 (ほかに: 前, 表)
+FRONTES	(frontの変化形) (名詞) 前部: 前の部分。 (ほかに: 前, 表)
+FRONTIER	(名詞) 辺境。フロンティア。\n(形容詞) 国境の。国境にある。
+FRONTIERS	(名詞) frontierの複数形: 辺境。フロンティア。
+FRONTING	(frontの変化形) (名詞) 前部: 前の部分。 (ほかに: 前, 表)
+FRONTISPIECE	(名詞) 戸: （と）片開きの扉。 (ほかに: とびら)
+FRONTISPIECES	(frontispieceの変化形) (名詞) 戸: （と）片開きの扉。 (ほかに: とびら)
+FRONTS	(名詞) frontの複数形: 前部: 前の部分。 (ほかに: 前, 表)\n(動詞) frontの直説法現在第三人称単数形: 前部: 前の部分。 (ほかに: 前, 表)
+FRORE	(動詞) freezeの過去形: ⟪凍る|こおる⟫
+FROST	(名詞) 霜: 物体の表面が冷やされ、空気中の水蒸気が凝結し、氷の結晶として堆積したもの。なお、地面の露が凍えたもので、踏むとさくさく鳴るものを霜柱というが、現象としては別のものである。\n(動詞) frostの訳: 霜で覆われる
+FROSTBITE	(名詞) 凍傷: 低温のために体の組織に生じる傷害。重度のものでは組織の壊死を伴う。\n(動詞) frostbiteの訳: 霜で傷付ける
+FROSTBITES	(名詞) frostbiteの複数形: 凍傷: 低温のために体の組織に生じる傷害。重度のものでは組織の壊死を伴う。\n(動詞) frostbiteの直説法現在第三人称単数形: 凍傷: 低温のために体の組織に生じる傷害。重度のものでは組織の壊死を伴う。
+FROSTBITING	(動詞) frostbiteの現在分詞: 凍傷: 低温のために体の組織に生じる傷害。重度のものでは組織の壊死を伴う。
+FROSTBITTEN	(形容詞) frostbittenの訳: 凍傷になった\n(動詞) frostbiteの過去分詞: 凍傷: 低温のために体の組織に生じる傷害。重度のものでは組織の壊死を伴う。
+FROSTED	(形容詞) frostedの訳: 霜で覆われた\n(動詞) frostの過去形・過去分詞: 霜:...
+FROSTEDS	(frostの変化形) (名詞) 霜: 物体の表面が冷やされ、空気中の水蒸気が凝結し、氷の結晶として堆積したもの。なお、地面の露が凍えたもので、踏むとさくさく鳴るものを霜柱というが、現象としては別のものである。
+FROSTIER	(形容詞) frostyの比較級: 凍るように寒い
+FROSTIEST	(形容詞) frostyの最上級: 凍るように寒い
+FROSTING	(名詞) アイシング: ケーキの表面などに使う砂糖に卵白を加えて練ったもの。 (ほかに: 糖衣)\n(動詞) frostの動名詞又は現在分詞: 霜:...
+FROSTINGS	(名詞) frostingの複数形: アイシング: ケーキの表面などに使う砂糖に卵白を加えて練ったもの。 (ほかに: 糖衣)
+FROSTS	(名詞) frostの複数形: 霜:...\n(動詞) frostの三人称単数現在形: 霜:...
+FROSTY	(形容詞) 凍るように寒い
+FROTH	(名詞) frothの訳: ⟪泡|あぶく⟫, ⟪あぶく⟫\n(動詞) frothの訳: ⟪泡立てる|あわだてる⟫
+FROTHED	(動詞) frothの過去形・過去分詞: ⟪泡|あぶく⟫, ⟪あぶく⟫
+FROTHIER	(形容詞) frothyの比較級: 泡立つ: 泡が出来る。
+FROTHIEST	(形容詞) frothyの最上級: 泡立つ: 泡が出来る。
+FROTHING	(frothの変化形) (名詞) frothの訳: ⟪泡|あぶく⟫, ⟪あぶく⟫
+FROTHS	(名詞) frothの複数形: ⟪泡|あぶく⟫, ⟪あぶく⟫\n(動詞) frothの直説法現在第三人称単数形: ⟪泡|あぶく⟫, ⟪あぶく⟫
+FROTHY	(形容詞) 泡立つ: 泡が出来る。
+FROW	(名詞) frowの訳: 女性\n(形容詞) 脆い: （もろい）壊れやすい。破壊される余地がある。小さなことで変形したり、損傷したりする。 (ほかに: 壊れやすい, 砕けやすい)
+FROWN	(名詞) 顰めっ面: 眉間にしわをよせ、機嫌が悪そうな顔つき。\n(動詞) frownの訳: 眉を顰める, 顔を顰める
+FROWNED	(動詞) frownの過去形・過去分詞: 顰めっ面: 眉間にしわをよせ、機嫌が悪そうな顔つき。
+FROWNER	(frownの変化形) (名詞) 顰めっ面: 眉間にしわをよせ、機嫌が悪そうな顔つき。
+FROWNING	(動詞) frownの現在分詞: 顰めっ面: 眉間にしわをよせ、機嫌が悪そうな顔つき。\n(名詞) 眉を顰めること。
+FROWNS	(名詞) frownの複数形: 顰めっ面: 眉間にしわをよせ、機嫌が悪そうな顔つき。\n(動詞) frownの直説法現在第三人称単数形: 顰めっ面: 眉間にしわをよせ、機嫌が悪そうな顔つき。
+FROWS	(名詞) frowの複数形: 女性
+FROWSIER	(frowsyの変化形) (形容詞) frowsyの訳: ⟪かびくさい⟫
+FROWSIEST	(frowsyの変化形) (形容詞) frowsyの訳: ⟪かびくさい⟫
+FROWSY	(形容詞) frowsyの訳: ⟪かびくさい⟫
+FROWZIER	(frowzyの変化形) (形容詞) frowzyの訳: ⟪かびくさい⟫
+FROWZIEST	(frowzyの変化形) (形容詞) frowzyの訳: ⟪かびくさい⟫
+FROWZILY	(frowzyの変化形) (形容詞) frowzyの訳: ⟪かびくさい⟫
+FROWZY	(形容詞) frowzyの訳: ⟪かびくさい⟫
+FROZE	(動詞) "freeze" の過去形: ⟪凍る|こおる⟫
+FROZEN	(動詞) freeze の過去分詞: 凍る。\n(形容詞) 凍った、凍えるように寒い、凍結した、氷結した。
+FROZENLY	(freezeの変化形) (動詞) freezeの訳: ⟪凍る|こおる⟫
+FRUCTOSE	(名詞) フルクトース: 六つの炭素をもつ単糖類。天然のものは果糖と呼ばれる。 (ほかに: 果糖)
+FRUCTOSES	(名詞) fructoseの複数形: フルクトース: 六つの炭素をもつ単糖類。天然のものは果糖と呼ばれる。 (ほかに: 果糖)
+FRUGAL	(形容詞) 質素な。つましい。倹約する。
+FRUGALITIES	(名詞) frugalityの複数形: 質素。倹約。
+FRUGALITY	(名詞) 質素。倹約。
+FRUIT	(名詞) fruitの訳: 果物, ⟪果実|かじつ⟫\n(動詞) fruitの訳: 実を結ぶ
+FRUITED	(動詞) "fruit" の過去形・過去分詞形: 果物, ⟪果実|かじつ⟫
+FRUITERER	(名詞) くだものや: 果物を売る店。果物を売る人。水菓子屋。
+FRUITERERS	(fruitererの変化形) (名詞) くだものや: 果物を売る店。果物を売る人。水菓子屋。
+FRUITFUL	(形容詞) 豊作をもたらす、肥沃な
+FRUITFULLER	(fruitfulの変化形) (形容詞) 豊作をもたらす、肥沃な
+FRUITFULLEST	(fruitfulの変化形) (形容詞) 豊作をもたらす、肥沃な
+FRUITFULLY	(副詞) fruitfullyの訳: 有益に, 実り多く
+FRUITFULNESS	(名詞) fruitfulnessの訳: 有益なこと, 実り多いこと
+FRUITFULNESSES	(fruitfulnessの変化形) (名詞) fruitfulnessの訳: 有益なこと, 実り多いこと
+FRUITIER	(形容詞) "fruity" の比較級: 果物のような、果物の味がする。
+FRUITIEST	(形容詞) "fruity" の最上級: 果物のような、果物の味がする。
+FRUITILY	(fruityの変化形) (形容詞) 果物のような、果物の味がする。
+FRUITING	(動詞) "fruit" の動名詞形又は現在分詞形: 果物, ⟪果実|かじつ⟫
+FRUITION	(名詞) fruitionの訳: ⟪達成|たっせい⟫, 実現, ⟪成就|じょうじゅ⟫
+FRUITIONS	(名詞) fruitionの複数形: ⟪達成|たっせい⟫, 実現, ⟪成就|じょうじゅ⟫
+FRUITLESS	(形容詞) 無益な、成果のあがらない
+FRUITLESSLY	(副詞) fruitlesslyの訳: 実を結ばずに
+FRUITLESSNESS	(名詞) 不毛: (比喩的) 成果を産み出せないこと。
+FRUITLESSNESSES	(fruitlessnessの変化形) (名詞) 不毛: (比喩的) 成果を産み出せないこと。
+FRUITS	(名詞) fruit の複数形: 果物、果実。\n(動詞) fruit の直説法現在第三人称現在形: 果物、果実。
+FRUITY	(形容詞) 果物のような、果物の味がする。
+FRUSTRATE	(動詞) 阻む。阻止する。失敗させる。
+FRUSTRATED	(形容詞) 欲求不満の: 何らかの障害により欲求の満たされない状態。\n(動詞) frustrateの過去形・過去分詞: 阻む。阻止する。失敗させる。
+FRUSTRATES	(動詞) "frustrate" の三人称単数現在形: 阻む。阻止する。失敗させる。
+FRUSTRATING	(動詞) "frustrate" の動名詞形又は現在分詞形: 阻む。阻止する。失敗させる。
+FRUSTRATION	(名詞) フラストレーション、欲求不満、いらだち。
+FRUSTRATIONS	(名詞) "frustration" の複数形: フラストレーション、欲求不満、いらだち。
+FRY	(動詞) 熱い油で（何かを）調理する。\n(名詞) フライドポテト。
+FRYING	(動詞) fryの動名詞又は現在分詞: 熱い油で（何かを）調理する。\n(名詞) fryingの訳: 揚げること, 炒めること, フライ
+FRYPAN	(名詞) フライパン: 食品を焼いたり炒めたりする際に用いる、柄のついた浅く平たい鍋。
+FRYPANS	(名詞) frypanの複数形: フライパン: 食品を焼いたり炒めたりする際に用いる、柄のついた浅く平たい鍋。
+FUDDLE	(動詞) fuddleの訳: 酔わせる\n(名詞) fuddleの訳: 泥酔状態
+FUDDLED	(動詞) "fuddle" の過去形・過去分詞形: 酔わせる
+FUDDLES	(名詞) "fuddle" の複数形: 酔わせる\n(動詞) "fuddle" の三人称単数現在形: 酔わせる
+FUDDLING	(動詞) "fuddle" の動名詞形又は現在分詞形: 酔わせる
+FUDGE	(名詞) fudgeの訳: ファッジ
+FUDGED	(fudgeの変化形) (名詞) fudgeの訳: ファッジ
+FUDGES	(fudgeの変化形) (名詞) fudgeの訳: ファッジ
+FUDGING	(fudgeの変化形) (名詞) fudgeの訳: ファッジ
+FUEL	(名詞) 燃料: 光・熱・動力などを得るため燃焼させる材料。\n(動詞) 燃料を供給する。
+FUELED	(動詞) fuelの過去形・過去分詞: 燃料: 光・熱・動力などを得るため燃焼させる材料。
+FUELING	(動詞) fuelの動名詞又は現在分詞: 燃料: 光・熱・動力などを得るため燃焼させる材料。\n(名詞) fuelingの訳: 燃料注入
+FUELLED	(動詞) fuelの過去形・過去分詞: 燃料: 光・熱・動力などを得るため燃焼させる材料。
+FUELLER	(fuelの変化形) (名詞) 燃料: 光・熱・動力などを得るため燃焼させる材料。
+FUELLING	(動詞) fuelの動名詞又は現在分詞: 燃料: 光・熱・動力などを得るため燃焼させる材料。\n(名詞) fuelingの異綴。
+FUELS	(名詞) fuelの複数形: 燃料: 光・熱・動力などを得るため燃焼させる材料。\n(動詞) fuelの直説法現在第三人称単数形: 燃料: 光・熱・動力などを得るため燃焼させる材料。
+FUGACIOUS	(形容詞) 儚い: 長く続かない。もろく、かぼそい。 (ほかに: 早く散る)
+FUGITIVE	(名詞) 脱走者: 脱走する者。 (ほかに: 逃亡者)\n(形容詞) fugitiveの訳: 逃亡した, 脱走した
+FUGITIVES	(名詞) fugitiveの複数形: 脱走者: 脱走する者。 (ほかに: 逃亡者)
+FUGU	(名詞) fuguの訳: 河豚
+FUGUE	(名詞) fugueの訳: フーガ, 遁走曲
+FUGUED	(fugueの変化形) (名詞) fugueの訳: フーガ, 遁走曲
+FUGUES	(fugueの変化形) (名詞) fugueの訳: フーガ, 遁走曲
+FUGUING	(fugueの変化形) (名詞) fugueの訳: フーガ, 遁走曲
+FUGUS	(fuguの変化形) (名詞) fuguの訳: 河豚
+FULFIL	(動詞) fulfillの別形。
+FULFILL	(動詞) 果たす: （復讐などを）遂げる。
+FULFILLED	(動詞) fulfil/fulfillの過去形又は過去分詞形: 果たす。\n(形容詞) fulfilledの訳: 満たされた, 充足した
+FULFILLING	(動詞) fulfil/fulfill の直説法三人称単数現在形: 果たす。\n(形容詞) fulfillingの訳: 満足のいく
+FULFILLMENT	(名詞) fulfillmentの訳: ⟪達成|たっせい⟫
+FULFILLMENTS	(fulfillmentの変化形) (名詞) fulfillmentの訳: ⟪達成|たっせい⟫
+FULFILLS	(fulfillの変化形) (動詞) 果たす: （復讐などを）遂げる。
+FULFILS	(動詞) "fulfil" の三人称単数現在形: fulfillの別形。
+FULGURANT	(形容詞) 電光のように閃く。
+FULGURATE	(動詞) 電光のように閃く。
+FULGURATED	(動詞) fulgurateの過去形・過去分詞: 電光のように閃く。
+FULGURATES	(動詞) fulgurateの直説法現在第三人称単数形: 電光のように閃く。
+FULGURATING	(動詞) fulgurateの現在分詞: 電光のように閃く。
+FULL	(形容詞) fullの訳: 十分な, 満ち足りた\n(動詞) 織物の編み目を密にする。
+FULLED	(動詞) fullの過去形・過去分詞: 十分な, 満ち足りた
+FULLER	(形容詞) "full" の比較級形: 十分な, 満ち足りた\n(名詞) fullする人。
+FULLERED	(fullの変化形) (形容詞) fullの訳: 十分な, 満ち足りた
+FULLERING	(fullの変化形) (形容詞) fullの訳: 十分な, 満ち足りた
+FULLERS	(名詞) "fuller" の複数形: "full" の比較級形: 十分な, 満ち足りた
+FULLEST	(形容詞) "full" の最上級形: 十分な, 満ち足りた
+FULLING	(動詞) "full" の動名詞形又は現在分詞形: 十分な, 満ち足りた
+FULLNESS	(名詞) 充足: （他動詞的）十分に充たすこと。 (ほかに: 十分, 完全)
+FULLNESSES	(fullnessの変化形) (名詞) 充足: （他動詞的）十分に充たすこと。 (ほかに: 十分, 完全)
+FULLS	(動詞) "full" の三人称単数現在形: 十分な, 満ち足りた
+FULLY	(副詞) fullyの訳: 完全に
+FULMINANT	(形容詞) fulminantの訳: 爆鳴性の
+FULMINATE	(動詞) 激しく非難する。\n(名詞) fulminateの訳: 雷酸塩
+FULMINATED	(動詞) fulminateの過去形・過去分詞: 激しく非難する。
+FULMINATES	(名詞) fulminateの複数形: 激しく非難する。\n(動詞) fulminateの直説法現在第三人称単数形: 激しく非難する。
+FULMINATING	(動詞) fulminateの現在分詞: 激しく非難する。\n(形容詞) fulminatingの訳: 爆鳴性の
+FULMINE	(動詞) fulmineの訳: 雷が落ちる
+FULMINED	(fulmineの変化形) (動詞) fulmineの訳: 雷が落ちる
+FULMINES	(fulmineの変化形) (動詞) fulmineの訳: 雷が落ちる
+FULMINING	(fulmineの変化形) (動詞) fulmineの訳: 雷が落ちる
+FUMIGATE	(動詞) fumigateの訳: 燻蒸消毒する
+FUMIGATED	(動詞) "fumigate" の過去形・過去分詞形: 燻蒸消毒する
+FUMIGATES	(動詞) "fumigate" の三人称単数現在形: 燻蒸消毒する
+FUMIGATING	(動詞) "fumigate" の動名詞形又は現在分詞形: 燻蒸消毒する
+FUN	(名詞) funの訳: ⟪娯楽|ごらく⟫, 楽しみ\n(形容詞) 面白い: （おもしろい）続けたり、見聞きしたりしたいと思うさま。興味を引かれる。
+FUNCTION	(名詞) 機能。作用。\n(動詞) 作用する。動く。; 機能する。
+FUNCTIONAL	(形容詞) functionalの訳: 機能的な, 機能性の, 実用的な\n(名詞) functionalの訳: 汎関数
+FUNCTIONED	(動詞) functionの過去形・過去分詞: 機能。作用。
+FUNCTIONING	(動詞) "function" の動名詞形又は現在分詞形: 機能。作用。
+FUNCTIONS	(名詞) "function" の複数形: 機能。作用。\n(動詞) "function" の三人称単数現在形: 機能。作用。
+FUND	(名詞) 資金。資金源。基金。基本金。出資金。募金。財源。費用。金。\n(動詞) 資金を出す。投じる。つぎ込む。提供する。
+FUNDAMENTAL	(形容詞) fundamentalの訳: 基本的な, 根本的な, 初歩的な\n(名詞) 基本、根本、原則。ファンダメンタル。
+FUNDAMENTALISM	(名詞) 原理主義: 経典などを忠実に解釈、実践すること。 (ほかに: 根本主義)
+FUNDAMENTALISMS	(fundamentalismの変化形) (名詞) 原理主義: 経典などを忠実に解釈、実践すること。 (ほかに: 根本主義)
+FUNDAMENTALLY	(副詞) そもそも: 根本的に、最初から、元々、一体、大体。 (ほかに: 根本的に, 基本的に)
+FUNDAMENTALS	(名詞) "fundamental" の複数形: 基本的な, 根本的な, 初歩的な
+FUNDED	(動詞) "fund" の過去形・過去分詞形: 資金。資金源。基金。基本金。出資金。募金。財源。費用。金。
+FUNDI	(fundusの変化形) (名詞) 基底部、特に以下のものを言う。
+FUNDING	(動詞) "fund" の動名詞形又は現在分詞形: 資金。資金源。基金。基本金。出資金。募金。財源。費用。金。
+FUNDRAISING	(名詞) 募金、ファンドレイジング、主に民間非営利団体の資金集め。
+FUNDS	(名詞) "fund" の複数形: 資金。資金源。基金。基本金。出資金。募金。財源。費用。金。\n(動詞) "fund" の三人称単数現在形: 資金。資金源。基金。基本金。出資金。募金。財源。費用。金。
+FUNDUS	(名詞) 基底部、特に以下のものを言う。
+FUNERAL	(名詞) 葬儀: 死者を葬る儀式。 (ほかに: 葬式)\n(形容詞) funeralの訳: 葬儀の, 葬式の
+FUNERALS	(名詞) "funeral" の複数形: 葬儀: 死者を葬る儀式。 (ほかに: 葬式)
+FUNERARY	(形容詞) 葬儀の: 死者を葬る儀式。 (ほかに: 埋葬の)
+FUNEREAL	(形容詞) 葬式の、葬式にふさわしい。
+FUNEREALLY	(funerealの変化形) (形容詞) 葬式の、葬式にふさわしい。
+FUNGI	(名詞) fungusの複数形: 菌類に属する生物、茸、黴など。
+FUNGIBLES	(名詞) fungiblesの訳: 代替物
+FUNGICIDAL	(形容詞) fungicidalの訳: 殺菌の, 殺菌性の\n(名詞) fungicidalの訳: 殺菌剤
+FUNGICIDE	(名詞) 殺菌剤: 殺菌に使用する薬剤。
+FUNGICIDES	(名詞) fungicideの複数形: 殺菌剤: 殺菌に使用する薬剤。
+FUNGUS	(名詞) 菌類に属する生物、茸、黴など。
+FUNGUSES	(名詞) fungusの複数形: 菌類に属する生物、茸、黴など。
+FUNNED	(funの変化形) (名詞) funの訳: ⟪娯楽|ごらく⟫, 楽しみ
+FUNNEL	(名詞) funnelの訳: 漏斗, じょうご\n(動詞) じょうご状にする。
+FUNNELED	(動詞) funnelの過去形・過去分詞: 漏斗, じょうご
+FUNNELING	(動詞) funnelの現在分詞: 漏斗, じょうご
+FUNNELLED	(動詞) funnelの過去形・過去分詞: 漏斗, じょうご
+FUNNELLING	(動詞) funnelの現在分詞: 漏斗, じょうご
+FUNNELS	(名詞) funnelの複数形: 漏斗, じょうご\n(動詞) funnelの直説法現在第三人称単数形: 漏斗, じょうご
+FUNNER	(funの変化形) (名詞) funの訳: ⟪娯楽|ごらく⟫, 楽しみ
+FUNNEST	(funの変化形) (名詞) funの訳: ⟪娯楽|ごらく⟫, 楽しみ
+FUNNIER	(形容詞) "funny" の比較級: ⟪おかしい⟫, 滑稽な
+FUNNIES	(名詞) "funny" の複数形: ⟪おかしい⟫, 滑稽な
+FUNNIEST	(形容詞) "funny" の最上級: ⟪おかしい⟫, 滑稽な
+FUNNING	(funの変化形) (名詞) funの訳: ⟪娯楽|ごらく⟫, 楽しみ
+FUNNY	(形容詞) funnyの訳: ⟪おかしい⟫, 滑稽な\n(名詞) 冗談: 相手を笑わせるための、ふざけた内容の話。
+FUNS	(funの変化形) (名詞) funの訳: ⟪娯楽|ごらく⟫, 楽しみ
+FUR	(名詞) 毛皮: 哺乳類の体毛がついたままの皮膚を鞣したもの。ファー。\n(動詞) furの訳: 毛皮を付ける
+FURAN	(名詞) furanの訳: ⟪フラン|ふらん⟫
+FURANS	(名詞) furanの複数形: ⟪フラン|ふらん⟫
+FURCULA	(名詞) (鳥類学, 骨格) 叉骨。暢思骨。
+FURCULAE	(furculaの変化形) (名詞) (鳥類学, 骨格) 叉骨。暢思骨。
+FURIES	(名詞) furyの複数形: 激しい怒り
+FURIOSO	(副詞) furiosoの訳: フリオーソの
+FURIOUS	(形容詞) furiousの訳: 激怒した
+FURIOUSLY	(副詞) furiouslyの訳: 激怒して
+FURL	(動詞) furlの訳: ⟪たたむ⟫
+FURLED	(furlの変化形) (動詞) furlの訳: ⟪たたむ⟫
+FURLER	(furlの変化形) (動詞) furlの訳: ⟪たたむ⟫
+FURLING	(furlの変化形) (動詞) furlの訳: ⟪たたむ⟫
+FURLS	(furlの変化形) (動詞) furlの訳: ⟪たたむ⟫
+FURNACE	(名詞) 炉。窯。\n(動詞) furnaceの訳: 炉で熱する
+FURNACED	(furnaceの変化形) (名詞) 炉。窯。
+FURNACES	(名詞) furnaceの複数形: 炉。窯。\n(動詞) furnaceの直説法現在第三人称単数形: 炉。窯。
+FURNACING	(動詞) furnaceの現在分詞: 炉。窯。
+FURNISH	(動詞) ～を備え付ける。
+FURNISHED	(動詞) furnishの過去形・過去分詞: ～を備え付ける。\n(形容詞) furnishedの訳: 在庫のある
+FURNISHES	(動詞) furnishの直説法現在第三人称単数形: ～を備え付ける。
+FURNISHING	(動詞) furnishの動名詞又は現在分詞: ～を備え付ける。\n(名詞) furnishingの訳: ⟪供給|きょうきゅう⟫
+FURNISHINGS	(名詞) furnishingの複数形: furnishの動名詞又は現在分詞: ～を備え付ける。
+FURNITURE	(名詞) 家具。什器。
+FURNITURES	(名詞) furnitureの複数形: 家具。什器。
+FUROR	(名詞) furorの訳: 熱狂的流行
+FURORE	(名詞) furoreの訳: 熱狂的流行
+FURORES	(名詞) furoreの複数形: 熱狂的流行
+FURORS	(名詞) furorの複数形: 熱狂的流行
+FURRIER	(furryの変化形) (形容詞) furryの訳: 毛皮のある
+FURRIERS	(furryの変化形) (形容詞) furryの訳: 毛皮のある
+FURRIEST	(furryの変化形) (形容詞) furryの訳: 毛皮のある
+FURRILY	(furryの変化形) (形容詞) furryの訳: 毛皮のある
+FURROW	(名詞) furrowの訳: 畔溝\n(動詞) 耕す。溝を掘る。
+FURROWED	(動詞) furrowの過去形・過去分詞: 畔溝
+FURROWER	(furrowの変化形) (名詞) furrowの訳: 畔溝
+FURROWING	(furrowの変化形) (名詞) furrowの訳: 畔溝
+FURROWS	(名詞) furrowの複数形: 畔溝\n(動詞) furrowの直説法現在第三人称単数形: 畔溝
+FURRY	(形容詞) furryの訳: 毛皮のある\n(名詞) furryの訳: ケモナー
+FURS	(名詞) furの複数形: 毛皮: 哺乳類の体毛がついたままの皮膚を鞣したもの。ファー。\n(動詞) furの直説法現在第三人称単数形: 毛皮: 哺乳類の体毛がついたままの皮膚を鞣したもの。ファー。
+FURTHER	(形容詞) "far"の比較級。より距離が遠い、より程度が激しい: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)\n(副詞) "far"の比較級。より距離が遠く: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)
+FURTHERED	(動詞) furtherの過去形・過去分詞: "far"の比較級。より距離が遠い、より程度が激しい。
+FURTHERER	(furtherの変化形) (形容詞) "far"の比較級。より距離が遠い、より程度が激しい。
+FURTHERERS	(furtherの変化形) (形容詞) "far"の比較級。より距離が遠い、より程度が激しい。
+FURTHERING	(動詞) furtherの動名詞又は現在分詞: "far"の比較級。より距離が遠い、より程度が激しい: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)\n(名詞) 拡大: 規模・範囲を広げて大きくすること。また、広がって大きくなること。 (ほかに: 促進)
+FURTHERMORE	(副詞) （重要なことを付け加える時）その上。おまけに。
+FURTHERS	(動詞) furtherの直説法現在第三人称単数形: "far"の比較級。より距離が遠い、より程度が激しい。
+FURTHEST	(形容詞) "far" の最上級形: 遠い: （とおい）時間が離れている。 (ほかに: 遠くの, 遠方の)
+FURUNCLE	(名詞) 出来物: （できもの）皮膚が腫れ上がり、膿が溜まった部分。御出来。 (ほかに: おでき, できもの)
+FURUNCLES	(furuncleの変化形) (名詞) 出来物: （できもの）皮膚が腫れ上がり、膿が溜まった部分。御出来。 (ほかに: おでき, できもの)
+FURY	(名詞) furyの訳: 激しい怒り
+FURZE	(名詞) furzeの訳: ハリエニシダ
+FURZES	(名詞) furzeの複数形: ハリエニシダ
+FURZIER	(furzyの変化形) (形容詞) ハリエニシダの生えている。
+FURZIEST	(furzyの変化形) (形容詞) ハリエニシダの生えている。
+FURZY	(形容詞) ハリエニシダの生えている。
+FUSE	(名詞) fuseの訳: 導火線
+FUSED	(fuseの変化形) (名詞) fuseの訳: 導火線
+FUSELAGE	(名詞) 機体: 航空機の翼とエンジンを除く胴体部分。 (ほかに: 胴体)
+FUSELAGES	(fuselageの変化形) (名詞) 機体: 航空機の翼とエンジンを除く胴体部分。 (ほかに: 胴体)
+FUSES	(fuseの変化形) (名詞) fuseの訳: 導火線
+FUSIL	(名詞) fusilの訳: 細長い菱形
+FUSILE	(名詞) fusilの異綴り。
+FUSILS	(名詞) fusilの複数形: 細長い菱形
+FUSING	(fuseの変化形) (名詞) fuseの訳: 導火線
+FUSION	(名詞) 融合。混合。統合。
+FUSIONS	(名詞) fusionの複数形: 融合。混合。統合。
+FUSS	(名詞) 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。 (ほかに: 大騒ぎ)\n(動詞) fussの訳: 大騒ぎする, ⟪くよくよする|くよくよ⟫
+FUSSED	(fussの変化形) (名詞) 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。 (ほかに: 大騒ぎ)
+FUSSER	(fussの変化形) (名詞) 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。 (ほかに: 大騒ぎ)
+FUSSES	(名詞) fussの複数形: 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。 (ほかに: 大騒ぎ)\n(動詞) fussの直説法現在第三人称単数形: 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。 (ほかに: 大騒ぎ)
+FUSSIER	(形容詞) fussyの比較級: うるさい: （嫌厭い）説教、諫言などが幾度も繰り返されてわずらわしい。くどい。手続きなどが煩雑である。 (ほかに: 拘る)
+FUSSIEST	(形容詞) fussyの最上級: うるさい: （嫌厭い）説教、諫言などが幾度も繰り返されてわずらわしい。くどい。手続きなどが煩雑である。 (ほかに: 拘る)
+FUSSING	(fussの変化形) (名詞) 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。 (ほかに: 大騒ぎ)
+FUSSY	(形容詞) うるさい: （嫌厭い）説教、諫言などが幾度も繰り返されてわずらわしい。くどい。手続きなどが煩雑である。 (ほかに: 拘る)
+FUTILE	(形容詞) futileの訳: 無駄な, 効果のない, 下らない
+FUTILITIES	(名詞) futilityの複数形: 無益: 利益がないこと。役に立たないこと。 (ほかに: 無価値)
+FUTILITY	(名詞) 無益: 利益がないこと。役に立たないこと。 (ほかに: 無価値)
+FUTON	(名詞) futonの訳: ⟪布団|ふとん⟫
+FUTONS	(futonの変化形) (名詞) futonの訳: ⟪布団|ふとん⟫
+FUTURE	(名詞) 未来: これから先の時。現在より以後のこと。 (ほかに: 将来)\n(形容詞) futureの訳: 未来の
+FUTURES	(名詞) "future" の複数形: 未来: これから先の時。現在より以後のこと。 (ほかに: 将来)
+FUTURITIES	(名詞) futurityの複数形: 未来: これから先の時。現在より以後のこと。 (ほかに: 後世)
+FUTURITY	(名詞) 未来: これから先の時。現在より以後のこと。 (ほかに: 後世)
+FUTUROLOGIES	(futurologyの変化形) (名詞) 未来についての研究。未来学。
+FUTUROLOGY	(名詞) 未来についての研究。未来学。
+FUZZ	(名詞) fuzzの訳: ⟪綿毛|わたげ⟫, けば\n(動詞) fuzzの訳: けばだたせる, ぼやかす
+FUZZED	(動詞) "fuzz" の過去形・過去分詞形: ⟪綿毛|わたげ⟫, けば
+FUZZES	(名詞) "fuzz" の複数形: ⟪綿毛|わたげ⟫, けば\n(動詞) "fuzz" の三人称単数現在形: ⟪綿毛|わたげ⟫, けば
+FUZZING	(動詞) "fuzz" の動名詞形又は現在分詞形: ⟪綿毛|わたげ⟫, けば\n(名詞) fuzzingの訳: ファジング

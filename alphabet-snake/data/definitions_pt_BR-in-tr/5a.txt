@@ -1,0 +1,70 @@
+ZAGAL	(ad) çoban: (mecaz), çıban
+ZAGALA	(zagal sözcüğünün çekimi) (ad) çoban: (mecaz), çıban
+ZAGUEIRO	(ad) zagueiro kelimesinin karşılığı: ⟪sırt|SIRT⟫, ⟪geri|GERİ⟫, savunma oyuncusu, ⟪arka|ARKA⟫
+ZANGA	(ad) gayz: öfke, hınç (ayrıca: öfke, garaz)
+ZANGADO	(sıfat) kızgın: eş arayan (hayvan)
+ZANGAO	(ad) zangao kelimesinin karşılığı: erkek arı
+ZANGAOS	(ad) çoğul çekimi: zangão
+ZANGOES	(ad) çoğul çekimi: zangão
+ZANZANDO	(zanzar sözcüğünün çekimi) (eylem) dolaşmak: gezmek, gezinmek
+ZANZAR	(eylem) dolaşmak: gezmek, gezinmek
+ZANZAVA	(zanzar sözcüğünün çekimi) (eylem) dolaşmak: gezmek, gezinmek
+ZANZOU	(zanzar sözcüğünün çekimi) (eylem) dolaşmak: gezmek, gezinmek
+ZARABATANAS	(ad) çoğul çekimi: zarabatana
+ZARAGATA	(ad) dalaş: kavga, gürültülü bağrışıp çağrışma (ayrıca: kavga, dil dalaşı)
+ZAROLHO	(sıfat) acip: tuhaf, garip, acayip (ayrıca: acayip, bigâne)
+ZARPAR	(eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+ZEBRA	(ad) zebra: Tek parmaklılardan, ata benzeyen, derisi çizgili, Afrika'da yaşayan memeli hayvan; (Equus zebra).
+ZEBU	(ad) zebu kelimesinin karşılığı: ⟪zebu|ZEBU⟫
+ZELADOR	(ad) kapıcı: Apartman, site vb. yerlerde bekçilik, temizlik, alışveriş gibi işlerle görevli kimse.
+ZELO	(ad) heves: istek, eğilim, arzu, şevk (ayrıca: hırs, şevk)
+ZELOSAMENTE	(zarf) appassionato: coşkun bir biçimde, affettuoso
+ZELOSO	(sıfat) haset: kıskanç. (ayrıca: kıskanç)
+ZEN	(ad) zen kelimesinin karşılığı: ⟪felsefe|FELSEFE⟫\n(sıfat) dinç: canlı, zinde bir biçimde (ayrıca: huzurlu, sakin)
+ZENITE	(ad) zenite kelimesinin karşılığı: ⟪cunda|CUNDA⟫, ⟪doruk|DORUK⟫, ⟪tepe|TEPE⟫, ⟪zirve|ZİRVE⟫
+ZERAR	(eylem) vurmak: Kadeh tokuşturmak.
+ZERESIMO	(sıfat) sıfırıncı: birinciden öncesine karşılık gelen bir pozisyon
+ZERO	(sayı) zero kelimesinin karşılığı: ⟪sıfır|SIFIR⟫
+ZEROS	(zero sözcüğünün çekimi) (sayı) zero kelimesinin karşılığı: ⟪sıfır|SIFIR⟫
+ZIBELINA	(ad) samur: sansargiller (Mustelidae) familyasından kürk ticaretinde postu en değerli sayılan Rusya'nın kuzeyindeki soğuk ve çok geniş Sibirya bölgesinde yaşyan memeli türü (ayrıca: su samuru)
+ZICA	(ad) sıkıntı: sorun. (ayrıca: mesele, sorun)
+ZIGOTO	(ad) zigot: Erkek ve dişi gametin birleşmesiyle oluşan döllenmiş hücre.
+ZIGURATE	(ad) zigurate kelimesinin karşılığı: ziggurat
+ZIMBORIO	(ad) kubbe: Yarım küre biçiminde olan ve yapıyı örten dam.
+ZIMBREIRO	(ad) ardıç: Servigillerden, güzel kokulu, yapraklarını kışın da dökmeyen, yuvarlak kara yemişleri ilaç olarak kullanılan bir ağaç (Juniperus)
+ZIMBRO	(ad) zimbro kelimesinin karşılığı: ⟪ardıç|ARDIÇ⟫
+ZINCO	(ad) çinko: Atom numarası 30 olan bir kimyasal element
+ZIPER	(ad) ziper kelimesinin karşılığı: ⟪fermuar|FERMUAR⟫
+ZOAR	(eylem) vızıldamak: (mecaz) Hafif sesle ve bezdirici biçimde yakınmak, sızlanmak (ayrıca: cızırdamak, cızıldamak)
+ZOAÇAO	(ad) zoaçao kelimesinin karşılığı: ⟪alay|ALAY⟫
+ZOAÇOES	(zoaçao sözcüğünün çekimi) (ad) zoaçao kelimesinin karşılığı: ⟪alay|ALAY⟫
+ZODIACO	(ad) zodiaco kelimesinin karşılığı: zodyak
+ZOEIRA	(ad) gürültü: Aralarında uyum bulunmayan düzensiz seslerin bütünü; patırtı, şamata
+ZOIAO	(sıfat) obur: gereğinden çok yemek yiyen, doymak bilmeyen (kişi) (ayrıca: açgözlü, hırslı)
+ZOMBARIA	(ad) zombaria kelimesinin karşılığı: ⟪alay|ALAY⟫
+ZOMBARIAS	(ad) çoğul çekimi: zombaria
+ZOMBIE	(ad) zombi: hortlak
+ZONA	(ad) zona kelimesinin karşılığı: ⟪mıntıka|MINTIKA⟫, ⟪bölge|BÖLGE⟫
+ZONCA	(ad) zonca kelimesinin karşılığı: dzongka
+ZOOFILIA	(ad) zoofili: Hayvanlarla cinsel ilişkiye girme işi.
+ZOOLOGIA	(ad) zooloji: hayvan bilimi (ayrıca: hayvan bilimi)
+ZOOLOGICA	(zoologico sözcüğünün çekimi) (ad) zoologico kelimesinin karşılığı: hayvanat bahçesi
+ZOOLOGICO	(ad) zoologico kelimesinin karşılığı: hayvanat bahçesi
+ZOOLOGO	(ad) zoolog: hayvan bilimci (ayrıca: hayvan bilimci)
+ZOONOSE	(ad) zoonose kelimesinin karşılığı: zoonoz
+ZOROASTRISMO	(ad) zoroastrismo kelimesinin karşılığı: zerdüştlük
+ZORRA	(ad) mal: argo, kaba konuşma: fahişe (ayrıca: fahişe, sermaye)
+ZORRAS	(ad) çoğul çekimi: zorra
+ZORRO	(ad) zorro kelimesinin karşılığı: ⟪tilki|TİLKİ⟫
+ZUMBI	(ad) zombi: hortlak
+ZUMBIDO	(ad) zumbido kelimesinin karşılığı: erkek arı
+ZUMBIR	(eylem) vızıldamak: (mecaz) Hafif sesle ve bezdirici biçimde yakınmak, sızlanmak (ayrıca: cızırdamak, cızıldamak)
+ZUMBIS	(ad) çoğul çekimi: zumbi
+ZUMBIU	(zumbir sözcüğünün çekimi) (eylem) vızıldamak: (mecaz) Hafif sesle ve bezdirici biçimde yakınmak, sızlanmak (ayrıca: cızırdamak, cızıldamak)
+ZUNIR	(eylem) cızıldamak: Cızırdamak (ayrıca: cızırdamak, vızıldamak)
+ZUNZUM	(ad) laf: söz, lakırtı (ayrıca: söylenti, rivayet)
+ZURETA	(sıfat) zureta kelimesinin karşılığı: ⟪huysuz|HUYSUZ⟫
+ZURRAM	(zurrar sözcüğünün çekimi) (eylem) zurrar kelimesinin karşılığı: ⟪anırmak|ANIRMAK⟫
+ZURRANDO	(zurrar sözcüğünün çekimi) (eylem) zurrar kelimesinin karşılığı: ⟪anırmak|ANIRMAK⟫
+ZURRAR	(eylem) zurrar kelimesinin karşılığı: ⟪anırmak|ANIRMAK⟫
+ZURZIR	(eylem) vurmak: Kalp atmak, çarpmak. (ayrıca: berelemek)

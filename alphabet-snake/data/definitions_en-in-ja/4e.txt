@@ -1,0 +1,923 @@
+NADA	(代名詞) nadaの訳: 何も〜ない
+NADAS	(nadaの変化形) (代名詞) nadaの訳: 何も〜ない
+NADIR	(名詞) nadirの訳: 天底
+NADIRS	(nadirの変化形) (名詞) nadirの訳: 天底
+NAIF	(形容詞) 素朴な。無邪気な。うぶな。\n(名詞) naifの訳: 無邪気な人
+NAIFS	(名詞) naifの複数形: 素朴な。無邪気な。うぶな。
+NAIL	(名詞) nailの訳: 爪\n(動詞) 釘で打ちつける。
+NAILED	(動詞) nailの過去形・過去分詞: 爪\n(形容詞) nailedの訳: 〜の爪をした
+NAILING	(動詞) "nail" の動名詞形又は現在分詞形: 爪
+NAILS	(名詞) nailの複数形: 爪\n(動詞) nailの直説法現在第三人称単数形: 爪
+NAIVE	(形容詞) 世間知らずな: 経験不足または見聞が狭く、世間の事情をあまり知らないこと。また、そのような人。 (ほかに: 無思慮な)
+NAIVELY	(副詞) naivelyの訳: 単純に
+NAIVER	(naiveの変化形) (形容詞) 世間知らずな: 経験不足または見聞が狭く、世間の事情をあまり知らないこと。また、そのような人。 (ほかに: 無思慮な)
+NAIVES	(naifの変化形) (形容詞) 素朴な。無邪気な。うぶな。
+NAIVEST	(naiveの変化形) (形容詞) 世間知らずな: 経験不足または見聞が狭く、世間の事情をあまり知らないこと。また、そのような人。 (ほかに: 無思慮な)
+NAIVETE	(名詞) naïvetéの異綴。
+NAIVETES	(naiveteの変化形) (名詞) naïvetéの異綴。
+NAIVETIES	(名詞) naivetyの複数形: naïvetéの異綴。
+NAIVETY	(名詞) naïvetéの異綴。
+NAKED	(形容詞) 裸の: 衣服等を身に着けない身体の様。\n(動詞) nake の過去形・過去分詞。
+NAKEDER	(nakedの変化形) (形容詞) 裸の: 衣服等を身に着けない身体の様。
+NAKEDEST	(nakedの変化形) (形容詞) 裸の: 衣服等を身に着けない身体の様。
+NAKEDNESS	(名詞) 裸体: 何も着ていない裸の体。裸身 (ほかに: 裸であること)
+NAKEDNESSES	(nakednessの変化形) (名詞) 裸体: 何も着ていない裸の体。裸身 (ほかに: 裸であること)
+NAME	(名詞) 名前: その物又は事を他の事物と区別するため、言語を用い、概念を代表して標識としたもの。\n(動詞) nameの訳: ～に名付ける
+NAMED	(動詞) "name" の過去形・過去分詞形: 名前: その物又は事を他の事物と区別するため、言語を用い、概念を代表して標識としたもの。
+NAMELESS	(形容詞) 名前が付けられていない、名前を付与されていない、未だ命名されていない。
+NAMELY	(副詞) 特に: （他の場合とは全く異なり、専らその事のためだけ）殊更に（扱う様）。特別に。 (ほかに: とりわけ)
+NAMES	(名詞) "name" の複数形: 名前: その物又は事を他の事物と区別するため、言語を用い、概念を代表して標識としたもの。\n(動詞) "name" の三人称単数現在形: 名前: その物又は事を他の事物と区別するため、言語を用い、概念を代表して標識としたもの。
+NAMESAKE	(名詞) 同名異人: 名前は同じだが、別の人。 (ほかに: 同姓同名)
+NAMESAKES	(namesakeの変化形) (名詞) 同名異人: 名前は同じだが、別の人。 (ほかに: 同姓同名)
+NAMING	(名詞) 命名。ネーミング。\n(動詞) "name" の動名詞又は現在分詞: 名前: その物又は事を他の事物と区別するため、言語を用い、概念を代表して標識としたもの。
+NANOMETER	(名詞) ナノメートル: 国際単位系の長さの単位。記号は「nm」。1ナノメートルは10⁻⁹メートル。ナノメーター。
+NANOMETERS	(nanometerの変化形) (名詞) ナノメートル: 国際単位系の長さの単位。記号は「nm」。1ナノメートルは10⁻⁹メートル。ナノメーター。
+NANOSECOND	(名詞) ナノ秒: 10億分の1秒。
+NANOSECONDS	(nanosecondの変化形) (名詞) ナノ秒: 10億分の1秒。
+NAP	(名詞) ひるね: 昼間に寝る。 (ほかに: 午睡)\n(動詞) ひるね: 昼間に寝る。 (ほかに: 午睡)
+NAPALM	(名詞) napalmの訳: ナパーム\n(動詞) ナパーム弾で攻撃する
+NAPALMS	(動詞) "napalm" の三人称単数現在形: ナパーム
+NAPE	(名詞) 項。襟首。\n(動詞) ナパーム弾で砲撃する。
+NAPERIES	(名詞) naperyの複数形: 食卓用布類
+NAPERY	(名詞) naperyの訳: 食卓用布類
+NAPES	(名詞) napeの複数形: 項。襟首。\n(動詞) napeの直説法現在第三人称単数形: 項。襟首。
+NAPHTHA	(名詞) ナフサ: 原油を分留して得られる揮発性の高い液体。まだ精製されていないガソリン。主に石油化学工業の原料とされる。粗製ガソリン。
+NAPHTHAS	(naphthaの変化形) (名詞) ナフサ: 原油を分留して得られる揮発性の高い液体。まだ精製されていないガソリン。主に石油化学工業の原料とされる。粗製ガソリン。
+NAPKIN	(名詞) ナプキン: 食事用の布巾。
+NAPKINS	(名詞) napkinの複数形: ナプキン。
+NAPOLEON	(名詞) napoleonの訳: ミルフィーユ
+NAPOLEONS	(napoleonの変化形) (名詞) napoleonの訳: ミルフィーユ
+NAPPED	(napの変化形) (名詞) ひるね: 昼間に寝る。 (ほかに: 午睡)
+NAPPING	(napの変化形) (名詞) ひるね: 昼間に寝る。 (ほかに: 午睡)
+NAPS	(napの変化形) (名詞) ひるね: 昼間に寝る。 (ほかに: 午睡)
+NARCOSIS	(名詞) 昏睡: 意識を完全に失い、覚醒しない状態のこと。人事不省。
+NARCOTIC	(名詞) narcoticの訳: 麻酔薬, 睡眠薬\n(形容詞) 麻薬の: 各国において取り扱いに法令の規制を要する、語義1のものの一部に近似の作用を生ずる薬物を加えたもの。 (ほかに: 麻酔性の)
+NARCOTICS	(名詞) narcoticの複数形: 麻酔薬, 睡眠薬
+NARES	(narisの変化形) (名詞) 鼻孔: 鼻腔の出入り口。顔面側が外鼻孔、喉側が後鼻孔。
+NARIS	(名詞) 鼻孔: 鼻腔の出入り口。顔面側が外鼻孔、喉側が後鼻孔。
+NARRATE	(動詞) narrateの訳: ⟪述べる|のべる⟫, 物語る
+NARRATED	(動詞) narrateの過去形・過去分詞: ⟪述べる|のべる⟫, 物語る
+NARRATER	(narrateの変化形) (動詞) narrateの訳: ⟪述べる|のべる⟫, 物語る
+NARRATES	(動詞) narrateの直説法現在第三人称単数形: ⟪述べる|のべる⟫, 物語る
+NARRATING	(動詞) "narrate" の動名詞形又は現在分詞形: ⟪述べる|のべる⟫, 物語る
+NARRATION	(名詞) ナレーション: テレビ放送などで場面の解説などの部分。 (ほかに: 叙述)
+NARRATIONS	(narrationの変化形) (名詞) ナレーション: テレビ放送などで場面の解説などの部分。 (ほかに: 叙述)
+NARRATIVE	(形容詞) narrativeの訳: 物語の\n(名詞) 物語: （ものがたり）あるまとまった内容の話や、古くから語り伝えられた話。又はそれを話す事。
+NARRATIVES	(narrativeの変化形) (形容詞) narrativeの訳: 物語の
+NARRATOR	(名詞) 語り手: 話をする人。話し手。 (ほかに: ナレーター)
+NARRATORS	(narratorの変化形) (名詞) 語り手: 話をする人。話し手。 (ほかに: ナレーター)
+NARROW	(形容詞) 幅が狭い。細い。狭隘な。\n(動詞) 狭まる: 狭くなる。詰まる。
+NARROWED	(動詞) "narrow" の過去形・過去分詞形: 幅が狭い。細い。狭隘な。
+NARROWER	(形容詞) "narrow" の比較級形: 幅が狭い。細い。狭隘な。\n(名詞) narrowerの訳: 狭めるもの
+NARROWEST	(形容詞) "narrow" の最上級形: 幅が狭い。細い。狭隘な。
+NARROWING	(動詞) "narrow" の動名詞形又は現在分詞形: 幅が狭い。細い。狭隘な。
+NARROWLY	(副詞) narrowlyの訳: 幅が狭く
+NARROWNESS	(名詞) 狭いこと。狭さ。偏狭。狭量。
+NARROWNESSES	(名詞) narrownessの複数形: 狭いこと。狭さ。偏狭。狭量。
+NARROWS	(名詞) "narrow" の複数形: 幅が狭い。細い。狭隘な。\n(動詞) "narrow" の三人称単数現在形: 幅が狭い。細い。狭隘な。
+NARWHAL	(名詞) narwhalの訳: イッカク
+NARWHALS	(narwhalの変化形) (名詞) narwhalの訳: イッカク
+NASAL	(形容詞) nasalの訳: 鼻の\n(名詞) 鼻音: 口を閉じ、呼気を鼻腔に通して出す有声の子音。
+NASALS	(nasalの変化形) (形容詞) nasalの訳: 鼻の
+NASTIER	(形容詞) nastyの比較級: 汚い。不潔な。[14世紀より]
+NASTIES	(名詞) nastyの複数形: 汚い。不潔な。[14世紀より]
+NASTIEST	(形容詞) nastyの最上級: 汚い。不潔な。[14世紀より]
+NASTILY	(副詞) 意地悪く。不快に。卑劣に。
+NASTINESS	(名詞) 意地の悪さ。悪意。
+NASTINESSES	(名詞) nastinessの複数形: 意地の悪さ。悪意。
+NASTURTIUM	(名詞) nasturtiumの訳: 金蓮花, キンレンカ, 凌霄葉蓮, ノウゼンハレン
+NASTURTIUMS	(nasturtiumの変化形) (名詞) nasturtiumの訳: 金蓮花, キンレンカ, 凌霄葉蓮, ノウゼンハレン
+NASTY	(形容詞) 汚い。不潔な。[14世紀より]\n(名詞) 下品なもの。厄介なもの。
+NATAL	(形容詞) 出生の: 生まれた境遇や場所。 (ほかに: 誕生に関する)
+NATALITIES	(名詞) natalityの複数形: 出生率: 人口に対する出生数の割合。
+NATALITY	(名詞) 出生率: 人口に対する出生数の割合。
+NATATION	(名詞) 水泳: 人間が、主に娯楽又はスポーツとして、水中を泳ぐこと。 (ほかに: 遊泳, 水練)
+NATATIONS	(natationの変化形) (名詞) 水泳: 人間が、主に娯楽又はスポーツとして、水中を泳ぐこと。 (ほかに: 遊泳, 水練)
+NATATORIA	(名詞) natatoriumの複数形: 屋内プール
+NATATORIUM	(名詞) natatoriumの訳: 屋内プール
+NATATORIUMS	(名詞) natatoriumの複数形: 屋内プール
+NATION	(名詞) 国家: くに。一定の土地とそこに住む人間からなり、排他的な統治権を有する政治的共同体のこと。
+NATIONAL	(形容詞) 国家の: くに。一定の土地とそこに住む人間からなり、排他的な統治権を有する政治的共同体のこと。\n(名詞) nationalの訳: 一国民
+NATIONALISE	(動詞) nationalizeの異綴。
+NATIONALISED	(動詞) nationaliseの過去形・過去分詞: nationalizeの異綴。
+NATIONALISES	(動詞) nationaliseの直説法現在第三人称単数形: nationalizeの異綴。
+NATIONALISING	(動詞) nationaliseの現在分詞: nationalizeの異綴。
+NATIONALISM	(名詞) ナショナリズム、愛国心、ある国の他の国民と幸福を共有しようとする思想及びそれに基づく行動。
+NATIONALISMS	(名詞) "nationalism" の複数形: ナショナリズム、愛国心、ある国の他の国民と幸福を共有しようとする思想及びそれに基づく行動。
+NATIONALIST	(名詞) nationalistの訳: 民族主義者\n(形容詞) nationalistの訳: 民族主義の
+NATIONALISTIC	(形容詞) nationalisticの訳: 国家主義の
+NATIONALISTS	(nationalistの変化形) (名詞) nationalistの訳: 民族主義者
+NATIONALITIES	(名詞) nationalityの複数形: ⟪国籍|こくせき⟫
+NATIONALITY	(名詞) nationalityの訳: ⟪国籍|こくせき⟫
+NATIONALIZATION	(名詞) nationalisationの米国式及びオクスフォード式綴り。
+NATIONALIZATIONS	(名詞) nationalizationの複数形: nationalisationの米国式及びオクスフォード式綴り。
+NATIONALIZE	(動詞) 独立国家とする。
+NATIONALIZED	(動詞) nationalizeの過去形・過去分詞: 独立国家とする。
+NATIONALIZER	(名詞) nationalizerの訳: 国有化する人
+NATIONALIZES	(動詞) nationalizeの直説法現在第三人称単数形: 独立国家とする。
+NATIONALIZING	(動詞) nationalizeの現在分詞: 独立国家とする。
+NATIONALS	(名詞) nationalの複数形: 国家の: くに。一定の土地とそこに住む人間からなり、排他的な統治権を有する政治的共同体のこと。
+NATIONS	(名詞) nationの複数形: 国家: くに。一定の土地とそこに住む人間からなり、排他的な統治権を有する政治的共同体のこと。
+NATIONWIDE	(形容詞) nationwideの訳: 全国的な\n(副詞) nationwideの訳: 全国的に
+NATIVE	(形容詞) 出身の: その土地や身分の生まれ、または育ちであること。 (ほかに: 生まれた)\n(名詞) nativeの訳: 出身者
+NATIVES	(名詞) native の複数形: 出身の: その土地や身分の生まれ、または育ちであること。 (ほかに: 生まれた)
+NATRIUM	(名詞) ナトリウム: 原子番号 11。元素記号 Na の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。ソディウム。
+NATRIUMS	(natriumの変化形) (名詞) ナトリウム: 原子番号 11。元素記号 Na の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。ソディウム。
+NATURAL	(形容詞) 自然の、手が入っていない、天然の、自生の。\n(名詞) 適任者、はまり役。天才。
+NATURALISE	(動詞) naturaliseの訳: 自然化する
+NATURALISED	(動詞) naturaliseの過去形・過去分詞: 自然化する
+NATURALISES	(動詞) naturaliseの直説法現在第三人称単数形: 自然化する
+NATURALISING	(動詞) naturaliseの動名詞又は現在分詞: 自然化する
+NATURALIST	(名詞) naturalistの訳: 博物学者
+NATURALISTS	(naturalistの変化形) (名詞) naturalistの訳: 博物学者
+NATURALIZATION	(名詞) naturalizationの訳: 帰化, 国籍の付与
+NATURALIZATIONS	(名詞) "naturalization" の複数形: 帰化, 国籍の付与
+NATURALIZE	(動詞) naturalizeの訳: 自然化する
+NATURALIZED	(動詞) naturalizeの過去形・過去分詞: 自然化する
+NATURALIZES	(動詞) naturalizeの直説法現在第三人称単数形: 自然化する
+NATURALIZING	(動詞) naturalizeの動名詞又は現在分詞: 自然化する
+NATURALLY	(副詞) naturallyの訳: 自然に, 天然に
+NATURALNESS	(名詞) 自然さ。自然らしさ。
+NATURALNESSES	(名詞) naturalnessの複数形: 自然さ。自然らしさ。
+NATURALS	(naturalの変化形) (形容詞) 自然の、手が入っていない、天然の、自生の。
+NATURE	(名詞) 性質。本質。種類。
+NATURED	(動詞) "nurture" の過去形・過去分詞形: 育てる
+NATURES	(natureの変化形) (名詞) 性質。本質。種類。
+NAUGHT	(名詞) 何もないこと。無。非存在。
+NAUGHTIER	(naughtyの変化形) (形容詞) いたずらな: 淫らなこと。また、淫らなさま。特に、子供に対して行う猥褻行為。 (ほかに: 腕白な, 行儀が悪い)
+NAUGHTIEST	(naughtyの変化形) (形容詞) いたずらな: 淫らなこと。また、淫らなさま。特に、子供に対して行う猥褻行為。 (ほかに: 腕白な, 行儀が悪い)
+NAUGHTILY	(副詞) naughtilyの訳: 腕白に, 行儀悪く
+NAUGHTINESS	(名詞) naughtinessの訳: ⟪腕白|わんぱく⟫, ⟪下品|げひん⟫
+NAUGHTINESSES	(名詞) naughtinessの複数形: ⟪腕白|わんぱく⟫, ⟪下品|げひん⟫
+NAUGHTS	(naughtの変化形) (名詞) 何もないこと。無。非存在。
+NAUGHTY	(形容詞) いたずらな: 淫らなこと。また、淫らなさま。特に、子供に対して行う猥褻行為。 (ほかに: 腕白な, 行儀が悪い)
+NAUSEA	(名詞) 吐き気。気持ち悪さ。
+NAUSEAS	(名詞) nauseaの複数形: 吐き気。気持ち悪さ。
+NAUTICAL	(形容詞) 航海の: 船舶で海を渡ること。
+NAUTILI	(nautilusの変化形) (名詞) nautilusの訳: 鸚鵡
+NAUTILUS	(名詞) nautilusの訳: 鸚鵡
+NAUTILUSES	(nautilusの変化形) (名詞) nautilusの訳: 鸚鵡
+NAVAL	(形容詞) 海軍の: 海上、海中での作戦・戦闘を目的とした軍隊。
+NAVALLY	(navalの変化形) (形容詞) 海軍の: 海上、海中での作戦・戦闘を目的とした軍隊。
+NAVE	(名詞) 身廊: 聖堂中央入り口から祭壇までの細長い広間の部分。
+NAVEL	(名詞) 臍: （へそ）物の表面の中央にある小さな突起、陥没した部分。
+NAVELS	(navelの変化形) (名詞) 臍: （へそ）物の表面の中央にある小さな突起、陥没した部分。
+NAVES	(名詞) naveの複数形: 身廊: 聖堂中央入り口から祭壇までの細長い広間の部分。
+NAVICULAR	(名詞) navicularの訳: 舟状骨
+NAVICULARS	(navicularの変化形) (名詞) navicularの訳: 舟状骨
+NAVIES	(名詞) navyの複数形: 海軍: 海上、海中での作戦・戦闘を目的とした軍隊。
+NAVIGABLE	(形容詞) navigableの訳: 航行可能な
+NAVIGATE	(動詞) 操縦する。操舵する。
+NAVIGATED	(動詞) navigateの過去形・過去分詞: 操縦する。操舵する。
+NAVIGATES	(動詞) navigateの直説法現在第三人称単数形: 操縦する。操舵する。
+NAVIGATING	(動詞) navigateの現在分詞: 操縦する。操舵する。
+NAVIGATION	(名詞) 航海術。航法。
+NAVIGATIONS	(名詞) navigationの複数形: 航海術。航法。
+NAVIGATOR	(名詞) 航海士。航法士。
+NAVIGATORS	(名詞) navigatorの複数形: 航海士。航法士。
+NAVY	(名詞) 海軍: 海上、海中での作戦・戦闘を目的とした軍隊。\n(形容詞) ネイビーブルーの、濃紺の。
+NAY	(接続詞) ～というよりむしろ。直前の表現より強い表現を導く。\n(名詞) nayの訳: 反対票
+NAYS	(名詞) "nay" の複数形: ～というよりむしろ。直前の表現より強い表現を導く。
+NEAR	(前置詞) nearの訳: …の近くに\n(副詞) nearの訳: ⟪近く|ちかく⟫
+NEARBY	(形容詞) nearbyの訳: 近くの\n(副詞) nearbyの訳: 近くに
+NEARED	(動詞) "near" の過去形・過去分詞形: …の近くに
+NEARER	(形容詞) "near" の比較級形: …の近くに
+NEAREST	(形容詞) "near" の最上級形: …の近くに
+NEARING	(動詞) "near" の動名詞形又は現在分詞形: …の近くに
+NEARLIER	(nearlyの変化形) (副詞) ほとんど: 完全にではないが、それに近い程度に。 (ほかに: 惜しいことに)
+NEARLIEST	(nearlyの変化形) (副詞) ほとんど: 完全にではないが、それに近い程度に。 (ほかに: 惜しいことに)
+NEARLY	(副詞) ほとんど: 完全にではないが、それに近い程度に。 (ほかに: 惜しいことに)
+NEARNESS	(名詞) 近いこと。近接。
+NEARNESSES	(名詞) nearnessの複数形: 近いこと。近接。
+NEARS	(動詞) "near" の三人称単数現在形: …の近くに
+NEARSIGHTEDNESS	(形容詞) ちかい: 近眼である。\n(名詞) 近眼: 「近視」に同じ。 (ほかに: 近視, 近視眼)
+NEARSIGHTEDNESSES	(nearsightednessの変化形) (形容詞) ちかい: 近眼である。
+NEAT	(形容詞) 整った。整頓された。\n(名詞) 人工知能による解法は簡潔、明瞭で証明可能なレベルの正確性を持つものであるべきとする立場。そのような研究者。
+NEATER	(形容詞) neatの比較級: 整った。整頓された。
+NEATEST	(形容詞) neatの最上級: 整った。整頓された。
+NEATLY	(副詞) きちんと。こぎれいに。手際よく。適切に。
+NEATNESS	(名詞) こぎれいさ。整然。手際のよさ。適切。
+NEATNESSES	(名詞) neatnessの複数形: こぎれいさ。整然。手際のよさ。適切。
+NEATS	(名詞) neatの複数形: 整った。整頓された。
+NEBULA	(名詞) nebulaの訳: ⟪星雲|せいうん⟫
+NEBULAE	(名詞) nebulaの複数形: ⟪星雲|せいうん⟫
+NEBULAR	(形容詞) nebularの訳: 星雲の
+NEBULAS	(名詞) nebulaの複数形: ⟪星雲|せいうん⟫
+NEBULIZATION	(名詞) 噴霧: 液体に圧力を加え、霧状にして噴射すること。
+NEBULIZATIONS	(nebulizationの変化形) (名詞) 噴霧: 液体に圧力を加え、霧状にして噴射すること。
+NEBULIZE	(動詞) 噴霧: 液体に圧力を加え、霧状にして噴射する。
+NEBULIZED	(nebulizeの変化形) (動詞) 噴霧: 液体に圧力を加え、霧状にして噴射する。
+NEBULIZER	(名詞) きりふき: 液体に圧力を加え、霧状にして吹き付ける器具。 (ほかに: 霧吹き器, 噴霧器)
+NEBULIZERS	(nebulizerの変化形) (名詞) きりふき: 液体に圧力を加え、霧状にして吹き付ける器具。 (ほかに: 霧吹き器, 噴霧器)
+NEBULIZES	(nebulizeの変化形) (動詞) 噴霧: 液体に圧力を加え、霧状にして噴射する。
+NEBULIZING	(nebulizeの変化形) (動詞) 噴霧: 液体に圧力を加え、霧状にして噴射する。
+NEBULOSE	(形容詞) nebuloseの訳: 雲のような
+NEBULOSITIES	(名詞) nebulosityの複数形: 星雲状の物
+NEBULOSITY	(名詞) nebulosityの訳: 星雲状の物
+NEBULOUS	(形容詞) nebulousの訳: 曇っている, 雲のような
+NECESSARIES	(necessaryの変化形) (形容詞) 必要な: なくてはならないもの。
+NECESSARILY	(副詞) 必ず。必ずしも。
+NECESSARY	(形容詞) 必要な: なくてはならないもの。
+NECESSITATE	(動詞) ～を必要とする。
+NECESSITATED	(動詞) "necessitate" の過去形・過去分詞: ～を必要とする。
+NECESSITATES	(動詞) necessitateの直説法現在第三人称単数形: ～を必要とする。
+NECESSITATING	(動詞) "necessitate" の動名詞又は現在分詞: ～を必要とする。
+NECESSITIES	(名詞) necessityの複数形: 必要性: そのものがどれだけ必要なものかの程度。 (ほかに: 必要)
+NECESSITY	(名詞) 必要性: そのものがどれだけ必要なものかの程度。 (ほかに: 必要)
+NECK	(名詞) 首。頸部。\n(動詞) neckの訳: 絞殺する
+NECKED	(neckの変化形) (名詞) 首。頸部。
+NECKERCHIEF	(名詞) ネッカチーフ: 保温や装飾のため首のあたりに巻く薄い方形の布。
+NECKERCHIEFS	(名詞) neckerchiefの複数形: ネッカチーフ: 保温や装飾のため首のあたりに巻く薄い方形の布。
+NECKERCHIEVES	(名詞) neckerchiefの複数形: ネッカチーフ: 保温や装飾のため首のあたりに巻く薄い方形の布。
+NECKING	(neckの変化形) (名詞) 首。頸部。
+NECKINGS	(neckの変化形) (名詞) 首。頸部。
+NECKLACE	(名詞) necklaceの訳: ネックレス, 首飾り\n(動詞) ガソリンのついたタイヤを首に掛けて処刑する。
+NECKLACES	(名詞) necklaceの複数形: ネックレス, 首飾り\n(動詞) necklaceの直説法現在第三人称単数形: ネックレス, 首飾り
+NECKS	(名詞) neckの複数形: 首。頸部。\n(動詞) neckの直説法現在第三人称単数形: 首。頸部。
+NECKTIE	(名詞) ネクタイ: 首の回りに装飾として巻く布。
+NECKTIES	(名詞) necktieの複数形: ネクタイ: 首の回りに装飾として巻く布。
+NECKWEAR	(名詞) neckwearの訳: 襟巻き
+NECROPHILIA	(名詞) 死体愛好症、ネクロフィリア。
+NECROPHILIAS	(necrophiliaの変化形) (名詞) 死体愛好症、ネクロフィリア。
+NECROPSIED	(necropsyの変化形) (名詞) 検屍: 捜査機関などが死因などを解明するために、死体を調べること。検視。 (ほかに: 検死)
+NECROPSIES	(necropsyの変化形) (名詞) 検屍: 捜査機関などが死因などを解明するために、死体を調べること。検視。 (ほかに: 検死)
+NECROPSY	(名詞) 検屍: 捜査機関などが死因などを解明するために、死体を調べること。検視。 (ほかに: 検死)
+NECROPSYING	(necropsyの変化形) (名詞) 検屍: 捜査機関などが死因などを解明するために、死体を調べること。検視。 (ほかに: 検死)
+NECROSE	(動詞) 壊死する: 生体の組織の一部分が死ぬこと。
+NECROSED	(動詞) necroseの過去形・過去分詞: 壊死する: 生体の組織の一部分が死ぬこと。
+NECROSES	(名詞) necrosisの複数形: 壊死: 生体の組織の一部分が死ぬこと。\n(動詞) necroseの直説法現在第三人称単数形: 壊死する: 生体の組織の一部分が死ぬこと。
+NECROSING	(動詞) necroseの現在分詞: 壊死する: 生体の組織の一部分が死ぬこと。
+NECROSIS	(名詞) 壊死: 生体の組織の一部分が死ぬこと。
+NECROTIC	(形容詞) necroticの訳: 壊死の
+NECTAR	(名詞) nectarの訳: 花蜜, 花の蜜
+NECTARINE	(名詞) nectarineの訳: ネクタリン, ⟪椿桃|つばいもも⟫\n(形容詞) nectarineの訳: 甘美な, 蜜のような
+NECTARINES	(名詞) nectarineの複数形: ネクタリン、椿桃。
+NECTARS	(nectarの変化形) (名詞) nectarの訳: 花蜜, 花の蜜
+NEED	(名詞) ニーズ: 必要、要求、需要。 (ほかに: 必要, 必要性)\n(動詞) …を必要とする、…を要する。
+NEEDED	(動詞) needの過去形・過去分詞: ニーズ: 必要、要求、需要。 (ほかに: 必要, 必要性)\n(形容詞) neededの訳: 必要とされる
+NEEDIER	(形容詞) needyの比較級: 貧しい: （まずしい）収入がすくなく生活が厳しい。お金がない。貧乏だ。 (ほかに: 貧乏な, 困窮した)
+NEEDIEST	(形容詞) needyの最上級: 貧しい: （まずしい）収入がすくなく生活が厳しい。お金がない。貧乏だ。 (ほかに: 貧乏な, 困窮した)
+NEEDING	(動詞) "need" の動名詞又は現在分詞: ニーズ: 必要、要求、需要。 (ほかに: 必要, 必要性)\n(名詞) 必要: なくてはならないもの。
+NEEDLE	(名詞) needleの訳: 針\n(動詞) needleの訳: ～に針を刺す
+NEEDLED	(動詞) "needle" の過去形・過去分詞形: 針
+NEEDLEFISH	(名詞) ガーフィッシュ: ダツ目ダツ科ベローネ属に属する魚の一種。学名:Belone belone。
+NEEDLEFISHES	(needlefishの変化形) (名詞) ガーフィッシュ: ダツ目ダツ科ベローネ属に属する魚の一種。学名:Belone belone。
+NEEDLES	(名詞) "needle" の複数形: 針\n(動詞) "needle" の三人称単数現在形: 針
+NEEDLEWORK	(名詞) needleworkの訳: ⟪針仕事|はりしごと⟫
+NEEDLEWORKS	(needleworkの変化形) (名詞) needleworkの訳: ⟪針仕事|はりしごと⟫
+NEEDLING	(動詞) "needle" の動名詞形又は現在分詞形: 針
+NEEDS	(副詞) needsの訳: ⟪どうしても⟫\n(名詞) needの複数形: ニーズ: 必要、要求、需要。 (ほかに: 必要, 必要性)
+NEEDY	(形容詞) 貧しい: （まずしい）収入がすくなく生活が厳しい。お金がない。貧乏だ。 (ほかに: 貧乏な, 困窮した)
+NEFARIOUS	(形容詞) 言語道断の: 言葉で言い表せないほど酷いこと。もってのほか。論外。 (ほかに: 極悪非道な)
+NEGATE	(動詞) 否む。否定する。
+NEGATED	(動詞) negateの過去形・過去分詞: 否む。否定する。
+NEGATES	(動詞) negateの直説法現在第三人称単数形: 否む。否定する。
+NEGATING	(動詞) negateの現在分詞: 否む。否定する。
+NEGATION	(名詞) 否定。否認。
+NEGATIONS	(名詞) negationの複数形: 否定。否認。
+NEGATIVE	(形容詞) negativeの訳: 否定的な\n(名詞) ネガ、ネガ･フィルム。
+NEGATIVED	(negativeの変化形) (形容詞) negativeの訳: 否定的な
+NEGATIVES	(名詞) negativeの複数形: 否定的な\n(動詞) negativeの直説法現在第三人称単数形: 否定的な
+NEGATIVING	(negativeの変化形) (形容詞) negativeの訳: 否定的な
+NEGLECT	(動詞) 怠る。し忘れる。\n(名詞) 怠慢: しなければならないことを怠けること。
+NEGLECTED	(動詞) "neglect" の過去形・過去分詞形: 怠る。し忘れる。\n(形容詞) 無視されている。置き去りにされている。日の当たらない。気付かれない。
+NEGLECTFUL	(形容詞) 不注意な: 注意が足りないこと。注意を怠ること。 (ほかに: 怠慢な)
+NEGLECTFULLY	(副詞) 不注意に: 注意が足りないこと。注意を怠ること。 (ほかに: 怠慢に)
+NEGLECTFULNESS	(名詞) 怠慢: しなければならないことを怠けること。 (ほかに: 不注意)
+NEGLECTFULNESSES	(名詞) neglectfulnessの複数形: 怠慢: しなければならないことを怠けること。 (ほかに: 不注意)
+NEGLECTING	(動詞) neglectの動名詞又は現在分詞: 怠る。し忘れる。
+NEGLECTS	(動詞) neglectの直説法現在第三人称単数形: 怠る。し忘れる。
+NEGLIGEE	(名詞) négligéeの異形。
+NEGLIGEES	(名詞) negligeeの複数形: négligéeの異形。
+NEGLIGENCE	(名詞) negligenceの訳: 怠慢, 不注意, 無頓着
+NEGLIGENCES	(negligenceの変化形) (名詞) negligenceの訳: 怠慢, 不注意, 無頓着
+NEGLIGENT	(形容詞) 不注意な: 注意が足りないこと。注意を怠ること。 (ほかに: 怠慢な)
+NEGLIGENTLY	(副詞) 無頓着に: 物事に拘らないこと。少しも気にしないこと。ノンシャラン。 (ほかに: 怠慢に, 不注意に)
+NEGLIGIBLE	(形容詞) 無視して良い、些細な、どうでもいい、取るに足らない。
+NEGOTIABLE	(形容詞) 交渉の余地のある
+NEGOTIATE	(動詞) 交渉する (about, for, on, over)。対話により、合意を形成する。
+NEGOTIATED	(動詞) negotiateの過去形・過去分詞: 交渉する (about, for, on, over)。対話により、合意を形成する。
+NEGOTIATES	(動詞) negotiateの直説法現在第三人称単数形: 交渉する (about, for, on, over)。対話により、合意を形成する。
+NEGOTIATING	(動詞) negotiateの動名詞又は現在分詞: 交渉する (about, for, on, over)。対話により、合意を形成する。
+NEGOTIATION	(名詞) 交渉: ある問題について相手と合意を得ることを目指して話し合うこと。 (ほかに: 折衝)
+NEGOTIATIONS	(名詞) negotiationの複数形: 交渉: ある問題について相手と合意を得ることを目指して話し合うこと。 (ほかに: 折衝)
+NEGOTIATOR	(名詞) negotiatorの訳: 交渉者
+NEGOTIATORS	(名詞) negotiatorの複数形: 交渉者
+NEIGHBOR	(名詞) neighbourの異綴。\n(動詞) neighbourの異綴。
+NEIGHBORED	(動詞) "neighbor" の過去形・過去分詞形: neighbourの異綴。
+NEIGHBORHOOD	(名詞) 近所。近隣。付近。
+NEIGHBORHOODS	(名詞) neighborhoodの複数形: 近所。近隣。付近。
+NEIGHBORING	(形容詞) 近隣の。隣接する。\n(動詞) neighborの動名詞又は現在分詞: neighbourの異綴。
+NEIGHBORS	(名詞) "neighbor" の複数形: neighbourの異綴。\n(動詞) "neighbor" の三人称単数現在形: neighbourの異綴。
+NEIGHBOUR	(名詞) 隣人: 周囲にいる人。\n(動詞) neighbourの訳: ～に隣接する
+NEIGHBOURED	(動詞) "neighbour" の過去形・過去分詞形: 隣人: 周囲にいる人。
+NEIGHBOURING	(動詞) neighbourの動名詞又は現在分詞: 隣人: 周囲にいる人。\n(形容詞) 近所の: 自宅周辺の家庭やそこに住んでいる家族。
+NEIGHBOURS	(名詞) "neighbour" の複数形: 隣人: 周囲にいる人。\n(動詞) "neighbour" の三人称単数現在形: 隣人: 周囲にいる人。
+NEITHER	(代名詞) neitherの訳: どちらも, ～でない\n(接続詞) いずれも～でない。・・・もまた～でない。
+NEMATOCYST	(名詞) 刺胞: 刺胞動物の表皮にある刺細胞のなかにある器官。螺旋状に納められた針があり、外部からの刺激により飛び出し、相手に刺さる。
+NEMATOCYSTS	(名詞) nematocystの複数形: 刺胞。
+NEMESES	(nemesisの変化形) (名詞) ネメシス: ニュクスの娘とされる有翼の女神。人間の無礼による神の憤りを天罰を擬人化した存在。 (ほかに: 報復)
+NEMESIS	(名詞) ネメシス: ニュクスの娘とされる有翼の女神。人間の無礼による神の憤りを天罰を擬人化した存在。 (ほかに: 報復)
+NEODYMIUM	(名詞) neodymiumの訳: ネオジム
+NEODYMIUMS	(neodymiumの変化形) (名詞) neodymiumの訳: ネオジム
+NEOLOGISM	(名詞) 新語: 時代に応じて、過去には無かった単語が全く新しく創り出されたり、外国語の一部が取り入れられて創造された単語。
+NEOLOGISMS	(neologismの変化形) (名詞) 新語: 時代に応じて、過去には無かった単語が全く新しく創り出されたり、外国語の一部が取り入れられて創造された単語。
+NEON	(名詞) ネオン: 非金属元素の一種で、希ガス。単体は常温常圧で無色無臭の気体。原子番号 10、元素記号はNe。
+NEONS	(neonの変化形) (名詞) ネオン: 非金属元素の一種で、希ガス。単体は常温常圧で無色無臭の気体。原子番号 10、元素記号はNe。
+NEPHEW	(名詞) 甥: （おい）兄弟姉妹の息子。
+NEPHEWS	(nephewの変化形) (名詞) 甥: （おい）兄弟姉妹の息子。
+NEPHROLOGIES	(nephrologyの変化形) (名詞) nephrologyの訳: 腎臓学
+NEPHROLOGY	(名詞) nephrologyの訳: 腎臓学
+NEPTUNIUM	(名詞) neptuniumの訳: ネプツニウム
+NEPTUNIUMS	(neptuniumの変化形) (名詞) neptuniumの訳: ネプツニウム
+NERD	(名詞) 知的だが内向的な人。
+NERDS	(名詞) nerdの複数形: 知的だが内向的な人。
+NERVE	(名詞) 神経: 生体における運動や知覚などの情報伝達を担う組織。\n(動詞) nerveの訳: 励ます, 勇気付ける
+NERVED	(動詞) "nerve" の過去形・過去分詞形: 神経: 生体における運動や知覚などの情報伝達を担う組織。
+NERVES	(名詞) "nerve" の複数形: 神経: 生体における運動や知覚などの情報伝達を担う組織。
+NERVING	(動詞) "nerve" の動名詞形又は現在分詞形: 神経: 生体における運動や知覚などの情報伝達を担う組織。
+NERVOUS	(形容詞) nervousの訳: 神経質な
+NERVOUSNESS	(名詞) nervousnessの訳: 神経質, ⟪緊張|きんちょう⟫
+NERVOUSNESSES	(名詞) nervousnessの複数形: 神経質, ⟪緊張|きんちょう⟫
+NEST	(名詞) 巣。住処。\n(動詞) nestの訳: 巣を作る
+NESTED	(nestの変化形) (名詞) 巣。住処。
+NESTING	(nestの変化形) (名詞) 巣。住処。
+NESTLING	(名詞) 孩子: 嬰児、幼子。 (ほかに: 嬰児, 孩児)
+NESTS	(名詞) nestの複数形: 巣。住処。\n(動詞) nestの直説法現在第三人称単数形: 巣。住処。
+NET	(名詞) ネット: ネットワークの略。 (ほかに: 網)\n(動詞) netの訳: 網で捕まえる, 捕捉する, 捕獲する, 獲得する
+NETHER	(形容詞) 下の: 【カ】 それよりも下層にある部分。
+NETHERMOST	(形容詞) "nether" の最上級形: 下の: 【カ】 それよりも下層にある部分。
+NETS	(名詞) "net" の複数形: ネット: ネットワークの略。 (ほかに: 網)\n(動詞) "net" の三人称単数現在形: ネット: ネットワークの略。 (ほかに: 網)
+NETTED	(動詞) netの過去形・過去分詞: ネット: ネットワークの略。 (ほかに: 網)
+NETTING	(動詞) "net" の動名詞形又は現在分詞形: ネット: ネットワークの略。 (ほかに: 網)
+NETTINGS	(netの変化形) (名詞) ネット: ネットワークの略。 (ほかに: 網)
+NETTLE	(名詞) (Urtica) イラクサ科イラクサ属の草の総称。刺草。蕁麻。\n(動詞) いらいらさせる。
+NETTLED	(動詞) "nettle" の過去形・過去分詞形: (Urtica) イラクサ科イラクサ属の草の総称。刺草。蕁麻。
+NETTLES	(名詞) "nettle" の複数形: (Urtica) イラクサ科イラクサ属の草の総称。刺草。蕁麻。\n(動詞) "nettle" の三人称単数現在形: (Urtica) イラクサ科イラクサ属の草の総称。刺草。蕁麻。
+NETTLING	(動詞) "nettle" の動名詞形又は現在分詞形: (Urtica) イラクサ科イラクサ属の草の総称。刺草。蕁麻。
+NETWORK	(名詞) 網細工。網製品。\n(動詞) networkの訳: 人脈を作る
+NETWORKED	(動詞) networkの過去形・過去分詞: 網細工。網製品。\n(形容詞) ネットワーク化された。
+NETWORKING	(動詞) networkの現在分詞: 網細工。網製品。\n(名詞) ネットワークの利用。
+NETWORKS	(名詞) networkの複数形: 網細工。網製品。\n(動詞) networkの直説法現在第三人称単数形: 網細工。網製品。
+NEURASTHENIA	(名詞) 神経衰弱: 過労や緊張などにより神経が過敏になる症状。疲労感・不眠・頭痛などの自覚症状を伴う。
+NEURASTHENIAS	(neurastheniaの変化形) (名詞) 神経衰弱: 過労や緊張などにより神経が過敏になる症状。疲労感・不眠・頭痛などの自覚症状を伴う。
+NEUROANATOMIES	(名詞) neuroanatomyの複数形: 神経解剖学: 解剖学において神経を扱う分野。
+NEUROANATOMY	(名詞) 神経解剖学: 解剖学において神経を扱う分野。
+NEUROLEPTIC	(名詞) 抗精神病薬、統合失調症治療薬、神経遮断薬。\n(形容詞) 神経遮断作用のある、抗精神病作用のある。
+NEUROLEPTICS	(neurolepticの変化形) (名詞) 抗精神病薬、統合失調症治療薬、神経遮断薬。
+NEUROLOGICAL	(形容詞) 神経学の: 脳や神経の構造や機能などについて研究する内科学の一つ。別名、神経内科学。
+NEUROLOGICALLY	(neurologicalの変化形) (形容詞) 神経学の: 脳や神経の構造や機能などについて研究する内科学の一つ。別名、神経内科学。
+NEUROLOGIES	(neurologyの変化形) (名詞) 神経学: 脳や神経の構造や機能などについて研究する内科学の一つ。別名、神経内科学。
+NEUROLOGIST	(名詞) 神経科医: 神経科を専門とする医師。 (ほかに: 神経学者)
+NEUROLOGISTS	(名詞) neurologistの複数形: 神経科医: 神経科を専門とする医師。 (ほかに: 神経学者)
+NEUROLOGY	(名詞) 神経学: 脳や神経の構造や機能などについて研究する内科学の一つ。別名、神経内科学。
+NEURON	(名詞) 神経細胞: 神経組織を構成する基本的な細胞、ニューロン。 (ほかに: 神経単位, ニューロン)
+NEURONES	(neuronの変化形) (名詞) 神経細胞: 神経組織を構成する基本的な細胞、ニューロン。 (ほかに: 神経単位, ニューロン)
+NEURONS	(neuronの変化形) (名詞) 神経細胞: 神経組織を構成する基本的な細胞、ニューロン。 (ほかに: 神経単位, ニューロン)
+NEUROPTERAN	(名詞) 脈翅類: 脈翅目に分類される昆虫の総称。
+NEUROPTERANS	(neuropteranの変化形) (名詞) 脈翅類: 脈翅目に分類される昆虫の総称。
+NEUROSCIENCE	(名詞) 神経科学: 神経系について研究する学問。
+NEUROSCIENCES	(neuroscienceの変化形) (名詞) 神経科学: 神経系について研究する学問。
+NEUROTIC	(形容動詞) 神経質: 神経が過敏な性質であること。
+NEUROTICISM	(名詞) 神経質: 神経が過敏な性質であること。
+NEUROTICISMS	(neuroticismの変化形) (名詞) 神経質: 神経が過敏な性質であること。
+NEUROTICS	(neuroticの変化形) (形容動詞) 神経質: 神経が過敏な性質であること。
+NEUROTOXIN	(名詞) neurotoxinの訳: 神経毒
+NEUROTOXINS	(名詞) neurotoxinの複数形: 神経毒
+NEUTER	(形容詞) neuterの訳: 中立の\n(名詞) neuterの訳: 去勢動物
+NEUTERED	(動詞) neuterの過去形・過去分詞: 中立の
+NEUTERING	(動詞) neuterの現在分詞: 中立の\n(名詞) neuteringの訳: 去勢手術
+NEUTERS	(名詞) neuterの複数形: 中立の\n(動詞) neuterの直説法現在第三人称単数形: 中立の
+NEUTRAL	(形容詞) 中立の。不偏の。
+NEUTRALISM	(名詞) neutralismの訳: 中立主義
+NEUTRALISMS	(名詞) neutralismの複数形: 中立主義
+NEUTRALITIES	(名詞) neutralityの複数形: 中立: どちらにも味方せず、またどちらにも敵対しないこと。 (ほかに: 不偏)
+NEUTRALITY	(名詞) 中立: どちらにも味方せず、またどちらにも敵対しないこと。 (ほかに: 不偏)
+NEUTRALIZATION	(名詞) neutralizationの訳: 相殺\n(動詞) neutralizationの訳: ⟪中和|ちゅうわ⟫
+NEUTRALIZATIONS	(neutralizationの変化形) (名詞) neutralizationの訳: 相殺
+NEUTRALIZE	(動詞) neutralizeの訳: 中和する
+NEUTRALIZED	(neutralizeの変化形) (動詞) neutralizeの訳: 中和する
+NEUTRALIZES	(neutralizeの変化形) (動詞) neutralizeの訳: 中和する
+NEUTRALIZING	(neutralizeの変化形) (動詞) neutralizeの訳: 中和する
+NEUTRALS	(neutralの変化形) (形容詞) 中立の。不偏の。
+NEUTRINO	(名詞) neutrinoの訳: ニュートリノ
+NEUTRINOS	(名詞) neutrinoの複数形: ニュートリノ
+NEUTRON	(名詞) 中性子: 電荷を有さないバリオンの一種。陽子とともに原子核を構成している。約15分でベータ崩壊を起こし陽子となる。
+NEUTRONS	(名詞) neutronの複数形: 中性子: 電荷を有さないバリオンの一種。陽子とともに原子核を構成している。約15分でベータ崩壊を起こし陽子となる。
+NEVER	(副詞) 決して～でない。
+NEVERMORE	(副詞) 二度と～しない
+NEVERTHELESS	(副詞) ～にもかかわらず
+NEW	(形容詞) 新しい: 存在して、又は、ある状態になってから、時間があまり経過していない。 (ほかに: おニューの)\n(副詞) newの訳: 新しく
+NEWBORN	(形容詞) 生まれたばかりの、新生の。\n(名詞) 新生児: 生まれたばかりの赤ん坊（生後28日未満）。
+NEWBORNS	(名詞) newbornの複数形: 生まれたばかりの、新生の。
+NEWCOMER	(名詞) newcomerの訳: 新しく来た人
+NEWCOMERS	(名詞) "newcomer" の複数形: 新しく来た人
+NEWER	(形容詞) "new" の比較級: 新しい: 存在して、又は、ある状態になってから、時間があまり経過していない。 (ほかに: おニューの)
+NEWEST	(動詞) "new" の過去形・過去分詞: 新しい: 存在して、又は、ある状態になってから、時間があまり経過していない。 (ほかに: おニューの)
+NEWLY	(副詞) newlyの訳: 新たに
+NEWNESS	(名詞) 新しさ: 新しいこと。また、その程度。
+NEWNESSES	(名詞) newnessの複数形: 新しさ: 新しいこと。また、その程度。
+NEWS	(名詞) ニュース: 新しい出来事や情報を知らせること。その内容。報道。 (ほかに: 報道)
+NEWSCASTER	(名詞) ニュースキャスター。
+NEWSCASTERS	(名詞) newscasterの複数形: ニュースキャスター。
+NEWSLETTER	(名詞) ニュースレター、社報。
+NEWSLETTERS	(名詞) newsletterの複数形: ニュースレター、社報。
+NEWSPAPER	(名詞) 新聞: （しんぶんし）(しんぶんし) 社会の出来事を広く知らせるために発行される刊行物。新聞。
+NEWSPAPERED	(newspaperの変化形) (名詞) 新聞: （しんぶんし）(しんぶんし) 社会の出来事を広く知らせるために発行される刊行物。新聞。
+NEWSPAPERS	(名詞) newspaperの複数形: 新聞: （しんぶんし）(しんぶんし) 社会の出来事を広く知らせるために発行される刊行物。新聞。
+NEWT	(名詞) newtの訳: ⟪いもり⟫
+NEWTS	(newtの変化形) (名詞) newtの訳: ⟪いもり⟫
+NEXT	(形容詞) nextの訳: 次の\n(副詞) 次に: （つぎに）それから。それに続き。
+NEXUS	(名詞) 連結: 繋いで、ひと続きにすること。あるいは、そのような状態。
+NEXUSES	(nexusの変化形) (名詞) 連結: 繋いで、ひと続きにすること。あるいは、そのような状態。
+NIBBLE	(名詞) nibbleの訳: ひと齧り\n(動詞) nibbleの訳: 少しずつ齧る
+NIBBLED	(動詞) nibbleの過去形・過去分詞: ひと齧り
+NIBBLES	(名詞) nibbleの複数形: ひと齧り\n(動詞) nibbleの直説法現在第三人称単数形: ひと齧り
+NIBBLING	(nibbleの変化形) (名詞) nibbleの訳: ひと齧り
+NICE	(形容詞) 良い: （よい）すばらしい、すぐれている。 (ほかに: 素敵な)
+NICELY	(副詞) nicelyの訳: 良く, 上手く
+NICENESS	(名詞) nicenessの訳: 心地よさ
+NICENESSES	(nicenessの変化形) (名詞) nicenessの訳: 心地よさ
+NICER	(形容詞) "nice" の比較級形: 良い: （よい）すばらしい、すぐれている。 (ほかに: 素敵な)
+NICEST	(形容詞) "nice" の最上級形: 良い: （よい）すばらしい、すぐれている。 (ほかに: 素敵な)
+NICHE	(名詞) ニッチ。壁龕。\n(動詞) nicheの訳: 壁龕に収める
+NICHES	(名詞) nicheの複数形: ニッチ。壁龕。\n(動詞) nicheの直説法現在第三人称単数形: ニッチ。壁龕。
+NICHING	(動詞) nicheの現在分詞: ニッチ。壁龕。
+NICKEL	(名詞) nickelの訳: ニッケル
+NICKELED	(nickelの変化形) (名詞) nickelの訳: ニッケル
+NICKELING	(nickelの変化形) (名詞) nickelの訳: ニッケル
+NICKELLED	(nickelの変化形) (名詞) nickelの訳: ニッケル
+NICKELLING	(nickelの変化形) (名詞) nickelの訳: ニッケル
+NICKELS	(nickelの変化形) (名詞) nickelの訳: ニッケル
+NICKNAME	(名詞) ニックネーム: 愛称。あだ名。 (ほかに: あだ名, 愛称)\n(動詞) ～とあだ名をつける。
+NICKNAMED	(形容詞) ニックネームのある。\n(動詞) nicknameの過去形・過去分詞: ニックネーム: 愛称。あだ名。 (ほかに: あだ名, 愛称)
+NICKNAMER	(nicknameの変化形) (名詞) ニックネーム: 愛称。あだ名。 (ほかに: あだ名, 愛称)
+NICKNAMES	(名詞) "nickname" の複数形: ニックネーム: 愛称。あだ名。 (ほかに: あだ名, 愛称)\n(動詞) "nickname" の現在第三人称単数形。
+NICKNAMING	(動詞) nicknameの動名詞又は現在分詞: ニックネーム: 愛称。あだ名。 (ほかに: あだ名, 愛称)
+NICOTINE	(名詞) ニコチン: タバコの葉に含まれるアルカロイド。揮発性、水溶性で無色または淡い黄色の油のような液体。猛毒。
+NICOTINES	(名詞) nicotineの複数形: ニコチン: タバコの葉に含まれるアルカロイド。揮発性、水溶性で無色または淡い黄色の油のような液体。猛毒。
+NIDES	(名詞) nideの複数形。
+NIDI	(名詞) nidusの複数形: 巣: (す) 鳥や獣や虫が卵を産み、あるいは子を育てる所。
+NIDIFICATION	(名詞) nidificationの訳: 営巣
+NIDIFICATIONS	(名詞) nidificationの複数形: 営巣
+NIDUS	(名詞) 巣: (す) 鳥や獣や虫が卵を産み、あるいは子を育てる所。
+NIDUSES	(名詞) nidusの複数形: 巣: (す) 鳥や獣や虫が卵を産み、あるいは子を育てる所。
+NIECE	(名詞) 姪: （めい）兄弟姉妹の娘。
+NIECES	(名詞) nieceの複数形: 姪。
+NIGGARD	(形容詞) けちな。しみったれの。\n(名詞) けち。しみったれ。
+NIGGARDED	(動詞) niggardの過去形・過去分詞: けちな。しみったれの。
+NIGGARDING	(動詞) niggardの現在分詞: けちな。しみったれの。
+NIGGARDLY	(形容詞) けちな。しみったれの。\n(副詞) niggardlyの訳: けちけちして
+NIGGARDS	(名詞) niggardの複数形: けちな。しみったれの。\n(動詞) niggardの直説法現在第三人称単数形: けちな。しみったれの。
+NIGHT	(名詞) 夜: （よる）1日のうちで、地球自身の陰になるため、太陽を見ることができない時間。一般には、日没から日出までをいう。 (ほかに: 晩)\n(形容詞) 夜の。晩の。
+NIGHTCLOTHES	(名詞) 寝衣: 寝る際に着る衣服。寝間着。
+NIGHTCLUB	(名詞) ナイトクラブ: 夜間に営業し、ダンス、ショー、演奏などをする高級な飲食店。\n(動詞) （娯楽目的で）ナイトクラブへ行く。
+NIGHTCLUBS	(名詞) nightclubの複数形: ナイトクラブ: 夜間に営業し、ダンス、ショー、演奏などをする高級な飲食店。\n(動詞) nightclubの直説法現在第三人称単数形: ナイトクラブ: 夜間に営業し、ダンス、ショー、演奏などをする高級な飲食店。
+NIGHTDRESS	(名詞) 寝間着: 就寝する際に着用する衣服。寝衣。
+NIGHTDRESSES	(名詞) nightdressの複数形: 寝間着: 就寝する際に着用する衣服。寝衣。
+NIGHTFALL	(名詞) nightfallの訳: 日暮れ, 夕暮れ
+NIGHTFALLS	(名詞) nightfallの複数形: 日暮れ, 夕暮れ
+NIGHTGOWN	(名詞) ナイトガウン: 夜間、室内で寝巻きの上から羽織る部屋着。 (ほかに: ネグリジェ)
+NIGHTGOWNS	(名詞) nightgownの複数形: ナイトガウン: 夜間、室内で寝巻きの上から羽織る部屋着。 (ほかに: ネグリジェ)
+NIGHTHAWK	(名詞) (イギリス, 地域) ヨーロッパヨタカ
+NIGHTHAWKS	(nighthawkの変化形) (名詞) (イギリス, 地域) ヨーロッパヨタカ
+NIGHTINGALE	(名詞) サヨナキドリ、ナイチンゲール。
+NIGHTINGALES	(名詞) nightingaleの複数形: サヨナキドリ、ナイチンゲール。
+NIGHTLY	(形容詞) nightlyの訳: 夜の\n(副詞) 毎夜: 毎晩。夜な夜な。夜毎。 (ほかに: 毎晩, 夜毎)
+NIGHTMARE	(名詞) 悪夢: 恐ろしい夢。そのなかで恐怖感を味わうようなこわい夢。
+NIGHTMARES	(名詞) nightmareの複数形: 悪夢: 恐ろしい夢。そのなかで恐怖感を味わうようなこわい夢。
+NIGHTMARISH	(形容詞) nightmarishの訳: 悪夢のような
+NIGHTS	(名詞) night の複数形: 夜: （よる）1日のうちで、地球自身の陰になるため、太陽を見ることができない時間。一般には、日没から日出までをいう。 (ほかに: 晩)
+NIHILISM	(名詞) 虚無主義。ニヒリズム。
+NIHILISMS	(名詞) nihilismの複数形: 虚無主義。ニヒリズム。
+NIL	(名詞) 無: （ム）無駄。無意義。 (ほかに: 零)
+NILS	(nilの変化形) (名詞) 無: （ム）無駄。無意義。 (ほかに: 零)
+NIMBI	(nimbusの変化形) (名詞) nimbusの訳: 後光, 光暈, ハーロー
+NIMBLE	(形容詞) 素早い。機敏な。軽快な。
+NIMBLENESS	(名詞) 素早さ。敏捷さ。
+NIMBLENESSES	(名詞) nimblenessの複数形: 素早さ。敏捷さ。
+NIMBLER	(形容詞) nimbleの比較級: 素早い。機敏な。軽快な。
+NIMBLEST	(形容詞) nimbleの最上級: 素早い。機敏な。軽快な。
+NIMBLY	(副詞) 素早く。機敏に。軽快に。鋭敏に。
+NIMBUS	(名詞) nimbusの訳: 後光, 光暈, ハーロー
+NIMBUSED	(nimbusの変化形) (名詞) nimbusの訳: 後光, 光暈, ハーロー
+NIMBUSES	(nimbusの変化形) (名詞) nimbusの訳: 後光, 光暈, ハーロー
+NINCOMPOOPS	(名詞) "nincompoop" の複数形
+NINE	(数詞) 九: 9。三の二乗。八の次の数。助数詞が続く場合や小数部ではきゅうと読むことが多いが、「く」と読む例外もある。ナイン。 (ほかに: 9)\n(名詞) nineの訳: 9
+NINES	(名詞) nineの複数形: 九、9。
+NINETEEN	(名詞) nineteenの訳: 十九\n(形容詞) nineteenの訳: 十九の
+NINETEENS	(nineteenの変化形) (名詞) nineteenの訳: 十九
+NINETEENTH	(形容詞) nineteenthの訳: 第19の, 19番目の\n(名詞) 第19番目の人又は物
+NINETEENTHS	(nineteenthの変化形) (形容詞) nineteenthの訳: 第19の, 19番目の
+NINETIES	(名詞) 九十代: 九十歳から九十九歳にまでの年齢。
+NINETIETH	(形容詞) ninetiethの訳: 第90の, 90番目の\n(名詞) 第90番目の人又は物
+NINETIETHS	(ninetiethの変化形) (形容詞) ninetiethの訳: 第90の, 90番目の
+NINETY	(数詞) ninetyの訳: ⟪九十|きゅうじゅう⟫\n(形容詞) ninetyの訳: 九十の
+NINJA	(名詞) 忍者: 《日本史、軍事》 忍術を使って密偵・諜報・謀略・後方攪乱・暗殺などを行う者。忍術使い。忍びの者。忍び。くノ一（女性の忍者）。源平時代以後の日本で発祥し、戦国時代には各家に雇用されて陰に日向に活躍をした。特に甲賀と伊賀を本拠とした忍者集団（甲賀者と伊賀者）が有名。当時、各地ではそれぞれに固有の名称で呼ばれていた。
+NINJAS	(ninjaの変化形) (名詞) 忍者: 《日本史、軍事》...
+NINTH	(形容詞) ninthの訳: 第九の, 九番目の\n(名詞) 第九番目の人又は物
+NINTHLY	(副詞) ninthlyの訳: 9番目に
+NINTHS	(名詞) ninth の複数形: 第九の, 九番目の
+NIOBIUM	(名詞) ニオブ: 原子番号 41、元素記号 Nb の金属元素。単体は、常温常圧では灰白色の固体。ニオビウム。コロンビウム。
+NIOBIUMS	(名詞) niobiumの複数形: ニオブ: 原子番号 41、元素記号 Nb の金属元素。単体は、常温常圧では灰白色の固体。ニオビウム。コロンビウム。
+NIP	(動詞) つむ: 指先で挟んで持つ。 (ほかに: かむ, つねる)
+NIPPED	(nipの変化形) (動詞) つむ: 指先で挟んで持つ。 (ほかに: かむ, つねる)
+NIPPING	(nipの変化形) (動詞) つむ: 指先で挟んで持つ。 (ほかに: かむ, つねる)
+NIPPLE	(名詞) 乳頭: 乳房の先。乳首。 (ほかに: 乳首)
+NIPPLED	(nippleの変化形) (名詞) 乳頭: 乳房の先。乳首。 (ほかに: 乳首)
+NIPPLES	(名詞) nippleの複数形: 乳頭: 乳房の先。乳首。 (ほかに: 乳首)
+NIPS	(nipの変化形) (動詞) つむ: 指先で挟んで持つ。 (ほかに: かむ, つねる)
+NITPICK	(動詞) nitpickの訳: シラミを取る
+NITPICKED	(nitpickの変化形) (動詞) nitpickの訳: シラミを取る
+NITPICKING	(nitpickの変化形) (動詞) nitpickの訳: シラミを取る
+NITPICKS	(nitpickの変化形) (動詞) nitpickの訳: シラミを取る
+NITRIC	(形容詞) 窒素の: 2つの窒素原子で構成された分子。化学式はN₂。常温常圧で無色無臭の気体で、大気中に最も多量に含まれる。
+NITROGEN	(名詞) 窒素: 2つの窒素原子で構成された分子。化学式はN₂。常温常圧で無色無臭の気体で、大気中に最も多量に含まれる。
+NITROGENS	(名詞) "nitrogen"（窒素原子） の複数形。
+NITROGLYCERINE	(名詞) ニトログリセリン。
+NITROGLYCERINES	(nitroglycerineの変化形) (名詞) ニトログリセリン。
+NITWIT	(名詞) 愚人: 愚かな人。 (ほかに: おろかもの, 愚者)
+NITWITS	(nitwitの変化形) (名詞) 愚人: 愚かな人。 (ほかに: おろかもの, 愚者)
+NIX	(名詞) 無: （ム）無駄。無意義。\n(動詞) 拒否する。禁止する。
+NIXED	(動詞) nixの過去形・過去分詞: 無: （ム）無駄。無意義。
+NIXES	(動詞) nixの直説法現在第三人称単数形: 無: （ム）無駄。無意義。\n(名詞) nixの複数形: 無: （ム）無駄。無意義。
+NIXING	(動詞) nixの現在分詞: 無: （ム）無駄。無意義。
+NOBELIUM	(名詞) ノーベリウム: 原子番号 102、元素記号 No の元素。アクチノイドに属する放射性元素。
+NOBELIUMS	(nobeliumの変化形) (名詞) ノーベリウム: 原子番号 102、元素記号 No の元素。アクチノイドに属する放射性元素。
+NOBILITIES	(名詞) "nobility" の複数形: 貴族階級
+NOBILITY	(名詞) nobilityの訳: 貴族階級
+NOBLE	(名詞) nobleの訳: ⟪貴族|きぞく⟫\n(形容詞) nobleの訳: 崇高な, 上品な, 公正な, 立派な
+NOBLEMAN	(名詞) noblemanの訳: ⟪貴族|きぞく⟫, 華族
+NOBLEMEN	(名詞) noblemanの複数形: ⟪貴族|きぞく⟫, 華族
+NOBLENESS	(名詞) 高貴。高潔。気高さ。
+NOBLENESSES	(名詞) noblenessの複数形: 高貴。高潔。気高さ。
+NOBLER	(形容詞) "noble" の比較級: ⟪貴族|きぞく⟫
+NOBLES	(名詞) "noble" の複数形: ⟪貴族|きぞく⟫
+NOBLESSE	(名詞) 高貴であること。
+NOBLESSES	(noblesseの変化形) (名詞) 高貴であること。
+NOBLEST	(形容詞) "noble" の最上級: ⟪貴族|きぞく⟫
+NOBLEWOMAN	(名詞) 貴婦人: 身分の高い婦人。 (ほかに: 貴族の女性)
+NOBLEWOMEN	(名詞) noblewomanの複数形: 貴婦人: 身分の高い婦人。 (ほかに: 貴族の女性)
+NOBLY	(副詞) noblyの訳: 気高く
+NOBODIES	(名詞) nobodyの複数形: 無名の人。何の特徴もない人。一般人。
+NOBODY	(名詞) 無名の人。何の特徴もない人。一般人。
+NOCK	(名詞) わけ: 摘示した事実を根拠として、こうなるはずだという強い推測を表す。また、必然的に導かれることを示す。 (ほかに: はず)
+NOCKED	(nockの変化形) (名詞) わけ: 摘示した事実を根拠として、こうなるはずだという強い推測を表す。また、必然的に導かれることを示す。 (ほかに: はず)
+NOCKING	(nockの変化形) (名詞) わけ: 摘示した事実を根拠として、こうなるはずだという強い推測を表す。また、必然的に導かれることを示す。 (ほかに: はず)
+NOCKS	(nockの変化形) (名詞) わけ: 摘示した事実を根拠として、こうなるはずだという強い推測を表す。また、必然的に導かれることを示す。 (ほかに: はず)
+NOCTURN	(名詞) 宵課: （しょうか）樵夫の家。樵居。 (ほかに: 夜課)
+NOCTURNAL	(形容詞) 夜行性の: 動物が主に夜間に摂食などの活動をする性質。 (ほかに: 夜に開く)
+NOCTURNALLY	(副詞) nocturnallyの訳: 夜に
+NOCTURNE	(名詞) nocturneの訳: 夜景画
+NOCTURNES	(名詞) nocturneの複数形: 夜景画
+NOCTURNS	(名詞) nocturnの複数形: 宵課: （しょうか）樵夫の家。樵居。 (ほかに: 夜課)
+NOCUOUS	(形容詞) 有害な: 害のあること、害をもたらすこと。そういうものやその様子。
+NOCUOUSLY	(nocuousの変化形) (形容詞) 有害な: 害のあること、害をもたらすこと。そういうものやその様子。
+NOD	(動詞) 頷く: 賛成、同意、肯定などを表すため、頭を縦方向に振る。\n(名詞) nodの訳: 頷き
+NODDED	(動詞) nodの過去形・過去分詞: 頷く: 賛成、同意、肯定などを表すため、頭を縦方向に振る。
+NODDING	(動詞) nodの動名詞又は現在分詞: 頷く: 賛成、同意、肯定などを表すため、頭を縦方向に振る。\n(名詞) noddingの訳: 頷き
+NODE	(名詞) nodeの訳: 瘤, ⟪膨れ|ふくれ⟫
+NODES	(名詞) nodeの複数形: 瘤, ⟪膨れ|ふくれ⟫
+NODS	(名詞) nodの複数形: 頷く: 賛成、同意、肯定などを表すため、頭を縦方向に振る。\n(動詞) nodの直説法現在第三人称単数形: 頷く: 賛成、同意、肯定などを表すため、頭を縦方向に振る。
+NODULE	(名詞) noduleの訳: 結節
+NODULES	(noduleの変化形) (名詞) noduleの訳: 結節
+NOISE	(名詞) 騒音: うるさく不快な音。 (ほかに: 音, 物音)\n(動詞) noiseの訳: 音を立てる
+NOISED	(動詞) noiseの過去形・過去分詞: 騒音: うるさく不快な音。 (ほかに: 音, 物音)
+NOISELESS	(形容詞) noiselessの訳: 音を立てない
+NOISELESSLY	(副詞) noiselesslyの訳: 音を立てずに, 静かに
+NOISES	(名詞) noiseの複数形: 騒音: うるさく不快な音。 (ほかに: 音, 物音)\n(動詞) noiseの直説法現在第三人称単数形: 騒音: うるさく不快な音。 (ほかに: 音, 物音)
+NOISIER	(形容詞) noisyの比較級: ⟪うるさい⟫, ⟪やかましい⟫
+NOISIEST	(形容詞) noisyの最上級: ⟪うるさい⟫, ⟪やかましい⟫
+NOISILY	(副詞) noisilyの訳: 音を立てて, やかましく
+NOISING	(動詞) noiseの現在分詞: 騒音: うるさく不快な音。 (ほかに: 音, 物音)
+NOISY	(形容詞) noisyの訳: ⟪うるさい⟫, ⟪やかましい⟫
+NOMA	(名詞) ノーマ: （みずがん）痲疹や腸チフスなどに罹患して酷く衰弱している小児の口腔に起こる壊疽性口内炎。ノーマ。
+NOMAS	(nomaの変化形) (名詞) ノーマ: （みずがん）痲疹や腸チフスなどに罹患して酷く衰弱している小児の口腔に起こる壊疽性口内炎。ノーマ。
+NOMINAL	(形容詞) 名前の。名前に関する。\n(名詞) nominalの訳: 名詞句
+NOMINALLY	(副詞) nominallyの訳: 名目上は
+NOMINALS	(名詞) nominalの複数形: 名前の。名前に関する。
+NOMINATE	(動詞) 指名する、ノミネートする。
+NOMINATED	(動詞) "nominate" の過去形・過去分詞形: 指名する、ノミネートする。
+NOMINATES	(動詞) nominateの直説法現在第三人称単数形: 指名する、ノミネートする。
+NOMINATING	(動詞) nominateの現在分詞: 指名する、ノミネートする。
+NOMINATION	(名詞) nominationの訳: ⟪指名|しめい⟫, 指名権
+NOMINATIONS	(名詞) nominationの複数形: ⟪指名|しめい⟫, 指名権
+NOMINATIVE	(形容詞) nominativeの訳: 主格の, 主語の\n(名詞) 主格: 文中において動詞の表す動作を行うもの、または作用・性質を働かせているものをあらわす格。日本語では格助詞「が」または「は」「の」をつけて表す（例. 「私は駅へ行く」という文において「私は」がそれにあたる）。口語や古典日本語では体言がそのまま主格を表すことがある（例. 「きょう月曜日だよな」「吾十有五にして学に志す」という文において「きょう」「吾」がそれにあたる）。 (ほかに: 主語)
+NOMINATIVES	(名詞) nominativeの複数形: 主格の, 主語の
+NOMINEE	(名詞) 指名される人、指名されたひと、被推薦者。
+NOMINEES	(名詞) "nominee" の複数形: 指名される人、指名されたひと、被推薦者。
+NONACCEPTANCE	(名詞) 応否: 承諾するか、または承諾しないか。
+NONACCEPTANCES	(nonacceptanceの変化形) (名詞) 応否: 承諾するか、または承諾しないか。
+NONAGENARIAN	(形容詞) nonagenarianの訳: 90歳代の\n(名詞) nonagenarianの訳: 90歳代の人
+NONAGENARIANS	(nonagenarianの変化形) (形容詞) nonagenarianの訳: 90歳代の
+NONAGON	(名詞) 九角形: 多角形の一つ。9個の頂点と9個の辺をもつ。
+NONAGONS	(名詞) nonagonの複数形: 九角形: 多角形の一つ。9個の頂点と9個の辺をもつ。
+NONCHALANCE	(名詞) 無関心。ノンシャランス。
+NONCHALANCES	(名詞) nonchalanceの複数形: 無関心。ノンシャランス。
+NONCHALANTLY	(副詞) のほほん: 呑気に。漫然と。無頓着に。
+NONE	(代名詞) noneの訳: 誰も～ない\n(副詞) (「none the 比較級」の形で、多くは成句的に訳す)～にもかかわらずすこしも〜でない。(=no 比較級 than)
+NONES	(名詞) ノーナエ: ローマ暦で大の月（3月、5月、7月、10月）の第7日、その他の月の第5日。
+NONETHELESS	(副詞) にもかかわらず。
+NONFATAL	(形容詞) 死に至らない。死亡者を出さない。
+NONFLAMMABLE	(形容詞) 不燃性の: 燃えにくい性質。
+NONFULFILLMENT	(名詞) 不履行: しなければならない約束や契約を行わないこと。
+NONFULFILLMENTS	(nonfulfillmentの変化形) (名詞) 不履行: しなければならない約束や契約を行わないこと。
+NONILLION	(数詞) nonillionの訳: 100穣\n(形容詞) nonillionの訳: 100穣 の
+NONILLIONS	(nonillionの変化形) (数詞) nonillionの訳: 100穣
+NONMETAL	(名詞) 非金属: 金属としての性質を持たない物質。
+NONMETALS	(名詞) nonmetalの複数形: 非金属: 金属としての性質を持たない物質。
+NONMIGRATORY	(名詞) 留鳥: 一年中特定の地域に生息し、季節による移動をしない鳥。
+NONNEGATIVE	(形容詞) non-negativeの異形。\n(名詞) nonnegativeの訳: 非負数
+NONPLUS	(名詞) 当惑、困惑、途方に暮れること。\n(動詞) 当惑させる。困惑させる。途方に暮れさせる。
+NONPLUSED	(動詞) nonplusの過去形・過去分詞: 当惑、困惑、途方に暮れること。
+NONPLUSES	(名詞) nonplusの複数形: 当惑、困惑、途方に暮れること。\n(動詞) nonplusの直説法現在第三人称単数形: 当惑、困惑、途方に暮れること。
+NONPLUSING	(動詞) nonplusの現在分詞: 当惑、困惑、途方に暮れること。
+NONPLUSSED	(形容詞) nonplussedの訳: 当惑した, 困惑した, 途方に暮れた\n(動詞) nonplusの過去形・過去分詞: 当惑、困惑、途方に暮れること。
+NONPLUSSES	(動詞) nonplusの直説法現在第三人称単数形: 当惑、困惑、途方に暮れること。
+NONPLUSSING	(動詞) nonplusの現在分詞: 当惑、困惑、途方に暮れること。
+NONPOISONOUS	(形容詞) 無毒の: 毒が無いこと。
+NONPOLITICAL	(形容詞) nonpoliticalの訳: 非政治的な
+NONPRODUCTIVE	(名詞) 不毛: (比喩的) 成果を産み出せないこと。
+NONPROFIT	(形容詞) nonprofitの訳: 非営利の\n(名詞) 非営利団体: 非営利で活動する団体。
+NONPROFITS	(nonprofitの変化形) (形容詞) nonprofitの訳: 非営利の
+NONSENSE	(名詞) nonsenseの訳: 無意味な言葉, ナンセンス\n(動詞) nonsenseの訳: 無意味にする, だめにする
+NONSENSES	(名詞) nonsenseの複数形: 無意味な言葉, ナンセンス\n(動詞) nonsenseの直説法現在第三人称単数形: 無意味な言葉, ナンセンス
+NONSENSICAL	(形容詞) 無意味な: 意味の無いこと。役に立たず、つまらないこと。くだらないこと。また、そのさま。 (ほかに: ばかげた)
+NONSENSICALLY	(nonsensicalの変化形) (形容詞) 無意味な: 意味の無いこと。役に立たず、つまらないこと。くだらないこと。また、そのさま。 (ほかに: ばかげた)
+NONSUIT	(名詞) nonsuitの訳: 訴訟の却下\n(動詞) 訴訟を却下する。
+NONSUITED	(動詞) nonsuitの過去形・過去分詞: 訴訟の却下
+NONSUITING	(動詞) nonsuitの現在分詞: 訴訟の却下
+NONSUITS	(名詞) nonsuitの複数形: 訴訟の却下\n(動詞) nonsuitの直説法現在第三人称単数形: 訴訟の却下
+NONSYLLABIC	(形容詞) nonsyllabicの訳: 音節ではない
+NONTOXIC	(形容詞) 無毒の: 毒が無いこと。 (ほかに: 毒の無い)\n(名詞) nontoxicの訳: 無毒の物
+NONVERBAL	(形容詞) 言葉によらない。
+NOODLE	(名詞) noodleの訳: ⟪麺類|めんるい⟫, ヌードル\n(動詞) 軽率な振る舞いをする、時間を無駄にする。
+NOODLED	(動詞) noodleの過去形・過去分詞: ⟪麺類|めんるい⟫, ヌードル
+NOODLES	(名詞) noodleの複数形: ⟪麺類|めんるい⟫, ヌードル\n(動詞) noodleの直説法現在第三人称単数形: ⟪麺類|めんるい⟫, ヌードル
+NOODLING	(noodleの変化形) (名詞) noodleの訳: ⟪麺類|めんるい⟫, ヌードル
+NOOK	(名詞) 部屋などの隅の方
+NOOKS	(名詞) nookの複数形: 部屋などの隅の方
+NOON	(名詞) 正午: 昼の十二時（0時）。午の刻の中間。 (ほかに: 昼)\n(動詞) 昼まで寝たりくつろいだりする事。
+NOONING	(動詞) noonの動名詞又は現在分詞: 正午: 昼の十二時（0時）。午の刻の中間。 (ほかに: 昼)
+NOONINGS	(nooningの変化形) (動詞) noonの動名詞又は現在分詞。
+NOONS	(名詞) noonの複数形: 正午: 昼の十二時（0時）。午の刻の中間。 (ほかに: 昼)\n(動詞) noonの直説法現在第三人称単数形: 正午: 昼の十二時（0時）。午の刻の中間。 (ほかに: 昼)
+NOOSE	(名詞) nooseの訳: 輪縄\n(動詞) 輪縄で結び付ける、罠にかける。
+NOOSED	(動詞) nooseの過去形・過去分詞: 輪縄\n(形容詞) noosedの訳: 輪のある
+NOOSER	(nooseの変化形) (名詞) nooseの訳: 輪縄
+NOOSES	(名詞) nooseの複数形: 輪縄\n(動詞) nooseの直説法現在第三人称単数形: 輪縄
+NOOSING	(動詞) nooseの現在分詞: 輪縄
+NOPE	(感動詞) nopeの訳: ⟪いいえ⟫
+NOR	(接続詞) （neither A nor B の形で）AでもBでもない。
+NORADRENALINE	(名詞) (神経伝達物質) ノルアドレナリン
+NORADRENALINES	(noradrenalineの変化形) (名詞) (神経伝達物質) ノルアドレナリン
+NOREPINEPHRINE	(名詞) （神経伝達物質、ホルモン）ノルアドレナリン。ノルエピネフリン。
+NOREPINEPHRINES	(norepinephrineの変化形) (名詞) （神経伝達物質、ホルモン）ノルアドレナリン。ノルエピネフリン。
+NORM	(名詞) （通常、the normという形で）規。標準。典型。\n(動詞) （ベクトル空間などに）ノルムを定義する。
+NORMAL	(形容詞) 正常な。規則正しい。標準的な。
+NORMALCIES	(名詞) normalcyの複数形: ⟪正常|せいじょう⟫, 常態
+NORMALCY	(名詞) normalcyの訳: ⟪正常|せいじょう⟫, 常態
+NORMALISE	(動詞) normalizeの異綴。
+NORMALISED	(動詞) normaliseの過去形・過去分詞: normalizeの異綴。
+NORMALISES	(動詞) normaliseの直説法現在第三人称単数形: normalizeの異綴。
+NORMALISING	(動詞) normaliseの現在分詞: normalizeの異綴。
+NORMALITIES	(名詞) normalityの複数形: ⟪正常|せいじょう⟫, 常態
+NORMALITY	(名詞) normalityの訳: ⟪正常|せいじょう⟫, 常態
+NORMALIZATION	(名詞) 正常化。正規化。
+NORMALIZATIONS	(名詞) normalizationの複数形: 正常化。正規化。
+NORMALIZE	(動詞) 正常にする。常態にする。
+NORMALIZED	(動詞) normalizeの過去形・過去分詞: 正常にする。常態にする。
+NORMALIZER	(名詞) 正常にする物・人。
+NORMALIZERS	(名詞) normalizerの複数形: 正常にする物・人。
+NORMALIZES	(動詞) normalizeの直説法現在第三人称単数形: 正常にする。常態にする。
+NORMALIZING	(動詞) normalizeの現在分詞: 正常にする。常態にする。\n(形容詞) 正常化する。正規化する。
+NORMALLY	(副詞) 普通は。通常は。
+NORMALS	(normalの変化形) (形容詞) 正常な。規則正しい。標準的な。
+NORMATIVE	(形容詞) 規範的な。基準の。標準の。
+NORMED	(形容詞) ノルムが定義された。\n(動詞) normの過去形・過去分詞: （通常、the normという形で）規。標準。典型。
+NORMS	(名詞) normの複数形: （通常、the normという形で）規。標準。典型。\n(動詞) normの直説法現在第三人称単数形: （通常、the normという形で）規。標準。典型。
+NORTH	(名詞) northの訳: 北\n(形容詞) northの訳: 北の
+NORTHEAST	(名詞) 北東: 北と東の中間の方位。\n(形容詞) northeastの訳: 北東の
+NORTHEASTER	(名詞) northeasterの訳: 北東の強風
+NORTHEASTERLY	(形容詞) northeasterlyの訳: 北東への
+NORTHEASTERN	(形容詞) 北東の: 北と東の中間の方位。
+NORTHEASTERS	(northeastの変化形) (名詞) 北東: 北と東の中間の方位。
+NORTHEASTS	(northeastの変化形) (名詞) 北東: 北と東の中間の方位。
+NORTHEASTWARD	(形容詞) 北東の: 北と東の中間の方位。\n(副詞) northeastwardの訳: 北東へ
+NORTHEASTWARDS	(northeastwardの変化形) (形容詞) 北東の: 北と東の中間の方位。
+NORTHER	(名詞) きたかぜ: 北から吹いてくる風。 (ほかに: 北風, 朔風)
+NORTHERLIES	(northerlyの変化形) (名詞) 北風: 北から吹いてくる風。
+NORTHERLY	(名詞) 北風: 北から吹いてくる風。\n(形容詞) northerlyの訳: 北寄りの
+NORTHERN	(形容詞) 北の。北方の。北部の。\n(名詞) northernの訳: 北部の住民
+NORTHERNER	(名詞) northernerの訳: 北部の人
+NORTHERNERS	(名詞) northernerの複数形: 北部の人
+NORTHERNMOST	(形容詞) 最北の: 最も北に位置すること。
+NORTHERNS	(名詞) northernの複数形: 北の。北方の。北部の。
+NORTHERS	(northerの変化形) (名詞) きたかぜ: 北から吹いてくる風。 (ほかに: 北風, 朔風)
+NORTHS	(northの変化形) (名詞) northの訳: 北
+NORTHWARD	(名詞) northwardの訳: 北方\n(形容詞) 北へ向かう。北向きの。
+NORTHWARDS	(副詞) northwardsの訳: 北へ
+NORTHWEST	(名詞) northwestの訳: ⟪北西|ほくせい⟫\n(形容詞) northwestの訳: 北西の
+NORTHWESTER	(名詞) northwesterの訳: 北西の強風
+NORTHWESTERLY	(形容詞) northwesterlyの訳: 北西への
+NORTHWESTERN	(形容詞) 北西の: 北と西の中間の方位。
+NORTHWESTERS	(northwestの変化形) (名詞) northwestの訳: ⟪北西|ほくせい⟫
+NORTHWESTS	(名詞) northwestの複数形: ⟪北西|ほくせい⟫
+NORTHWESTWARD	(形容詞) 北西の: 北と西の中間の方位。\n(副詞) northwestwardの訳: 北西へ
+NORTHWESTWARDS	(northwestwardの変化形) (形容詞) 北西の: 北と西の中間の方位。
+NOSE	(名詞) 鼻。鼻に関する各種の生理現象を含む。\n(動詞) 進行方向を選んで慎重に動く。
+NOSEBLEED	(名詞) はなぢ: 鼻孔からの出血。鼻出血。
+NOSEBLEEDS	(nosebleedの変化形) (名詞) はなぢ: 鼻孔からの出血。鼻出血。
+NOSED	(動詞) noseの過去形・過去分詞: 鼻。鼻に関する各種の生理現象を含む。
+NOSES	(名詞) noseの複数形: 鼻。鼻に関する各種の生理現象を含む。\n(動詞) noseの直説法現在第三人称単数形: 鼻。鼻に関する各種の生理現象を含む。
+NOSING	(動詞) noseの動名詞又は現在分詞: 鼻。鼻に関する各種の生理現象を含む。
+NOSINGS	(noseの変化形) (名詞) 鼻。鼻に関する各種の生理現象を含む。
+NOSTRIL	(名詞) 鼻孔: 鼻腔の出入り口。顔面側が外鼻孔、喉側が後鼻孔。
+NOSTRILS	(名詞) nostrilの複数形: 鼻孔: 鼻腔の出入り口。顔面側が外鼻孔、喉側が後鼻孔。
+NOT	(副詞) 動詞を修飾し、その意味を打ち消す。--ではない。--しない。省略されて n't の形になり、動詞や助動詞と結合することも多い。\n(接続詞) 最初の語が正しく、次の語がそうでないことを示す。
+NOTABLE	(形容詞) notableの訳: 注目に値する\n(名詞) 有名人: 社会的に名前が知られた人。著名人。 (ほかに: 名士)
+NOTABLES	(名詞) notableの複数形: 注目に値する
+NOTABLY	(副詞) 特に: （他の場合とは全く異なり、専らその事のためだけ）殊更に（扱う様）。特別に。 (ほかに: とりわけ)
+NOTATION	(名詞) notationの訳: ⟪表記|ひょうき⟫, 記譜
+NOTATIONS	(名詞) notationの複数形: ⟪表記|ひょうき⟫, 記譜
+NOTCH	(名詞) notchの訳: ノッチ
+NOTCHED	(notchの変化形) (名詞) notchの訳: ノッチ
+NOTCHER	(notchの変化形) (名詞) notchの訳: ノッチ
+NOTCHES	(notchの変化形) (名詞) notchの訳: ノッチ
+NOTCHING	(notchの変化形) (名詞) notchの訳: ノッチ
+NOTE	(名詞) メモ: あることを忘れないように書き留めておくこと。また書き留めたもの。覚え書き。メモランダム。 (ほかに: 覚え書き)\n(動詞) 表記する。書き表す。
+NOTEBOOK	(名詞) 帳面: 文章などの書き込みをするための、白紙などを製本したもの。ノートブック。 (ほかに: ノート)
+NOTEBOOKS	(notebookの変化形) (名詞) 帳面: 文章などの書き込みをするための、白紙などを製本したもの。ノートブック。 (ほかに: ノート)
+NOTED	(形容詞) 有名な: ある世界において広く知られていること。\n(動詞) noteの過去形・過去分詞: メモ: あることを忘れないように書き留めておくこと。また書き留めたもの。覚え書き。メモランダム。 (ほかに: 覚え書き)
+NOTEDLY	(noteの変化形) (名詞) メモ: あることを忘れないように書き留めておくこと。また書き留めたもの。覚え書き。メモランダム。 (ほかに: 覚え書き)
+NOTES	(名詞) note の複数形: メモ: あることを忘れないように書き留めておくこと。また書き留めたもの。覚え書き。メモランダム。 (ほかに: 覚え書き)\n(動詞) noteの三人称単数現在形: メモ: あることを忘れないように書き留めておくこと。また書き留めたもの。覚え書き。メモランダム。 (ほかに: 覚え書き)
+NOTEWORTHILY	(noteworthyの変化形) (形容詞) noteworthyの訳: 注目に値する, 目立った, 顕著な
+NOTEWORTHY	(形容詞) noteworthyの訳: 注目に値する, 目立った, 顕著な\n(名詞) 注目に値する人。
+NOTHING	(代名詞) nothingの訳: 何も～無い\n(副詞) 少しも～でない。
+NOTHINGNESS	(名詞) 無: （ム）存在の対立概念。何もない状態。不存在。哲学や宗教において根本的なテーマとなる。類似の概念に「空」がある。 (ほかに: 空虚)
+NOTHINGNESSES	(nothingnessの変化形) (名詞) 無: （ム）存在の対立概念。何もない状態。不存在。哲学や宗教において根本的なテーマとなる。類似の概念に「空」がある。 (ほかに: 空虚)
+NOTHINGS	(名詞) nothingの複数形: 何も～無い
+NOTICE	(名詞) 注意: 意識を集中すること。よく観察すること。 (ほかに: 注目)\n(動詞) 察知する: あることを推し測って知ること。 (ほかに: 気づく, 気が付く)
+NOTICEABLE	(形容詞) noticeableの訳: 目立った, 著しい, 際立っている
+NOTICEABLY	(副詞) noticeablyの訳: 際立って
+NOTICED	(動詞) noticeの過去形・過去分詞: 注意: 意識を集中すること。よく観察すること。 (ほかに: 注目)\n(形容詞) 注目されている。認知されている。目立つ。日の当たる。気付かれている。
+NOTICES	(名詞) noticeの複数形: 注意: 意識を集中すること。よく観察すること。 (ほかに: 注目)\n(動詞) noticeの直説法現在第三人称単数形: 注意: 意識を集中すること。よく観察すること。 (ほかに: 注目)
+NOTICING	(動詞) noticeの動名詞又は現在分詞: 注意: 意識を集中すること。よく観察すること。 (ほかに: 注目)\n(名詞) noticingの訳: 気付き
+NOTIFIABLE	(形容詞) notifiableの訳: 通知すべき
+NOTIFICATION	(名詞) notificationの訳: ⟪通知|つうち⟫, ⟪通告|つうこく⟫, ⟪告知|こくち⟫
+NOTIFICATIONS	(名詞) notificationの複数形: ⟪通知|つうち⟫, ⟪通告|つうこく⟫, ⟪告知|こくち⟫
+NOTIFIED	(動詞) "notify" の過去形・過去分詞: 知らせる
+NOTIFIER	(名詞) 通知者。通告者。公表者。
+NOTIFIES	(動詞) notifyの直説法現在第三人称単数形: 知らせる
+NOTIFY	(動詞) notifyの訳: 知らせる
+NOTIFYING	(動詞) "notify" の動名詞又は現在分詞: 知らせる
+NOTING	(動詞) "note" の動名詞形又は現在分詞形: メモ: あることを忘れないように書き留めておくこと。また書き留めたもの。覚え書き。メモランダム。 (ほかに: 覚え書き)
+NOTION	(名詞) 観念。概念。
+NOTIONS	(名詞) notionの複数形: 観念。概念。
+NOTOCHORD	(名詞) 脊索: 動物（脊椎動物、原索動物）の背部にある棒状の支持器官。幼生のころに消滅するものと生涯持つものがある。
+NOTOCHORDAL	(名詞) notochordalの訳: 脊索の
+NOTOCHORDS	(名詞) notochordの複数形: 脊索: 動物（脊椎動物、原索動物）の背部にある棒状の支持器官。幼生のころに消滅するものと生涯持つものがある。
+NOTORIETIES	(notorietyの変化形) (名詞) 悪名: （あくめい / あくみょう）悪い評判。良くない噂。 (ほかに: 悪評, 悪い評判)
+NOTORIETY	(名詞) 悪名: （あくめい / あくみょう）悪い評判。良くない噂。 (ほかに: 悪評, 悪い評判)
+NOTORIOUS	(形容詞) 悪い面で有名な。悪名高い。
+NOTORIOUSLY	(副詞) notoriouslyの訳: 悪名高く
+NOTTURNO	(名詞) notturnoの訳: ノクターン, 夜想曲
+NOTUM	(名詞) notumの訳: 胸背板
+NOTWITHSTANDING	(副詞) にもかかわらず、それでも。\n(接続詞) にもかかわらず。
+NOUGAT	(名詞) nougatの訳: ヌガー
+NOUGATS	(名詞) nougatの複数形: ヌガー
+NOUN	(名詞) 実詞、古い印欧語系の品詞分類で名詞及び形容詞の総称、曲用（declension）する品詞。
+NOUNS	(名詞) "noun" の複数形: 実詞、古い印欧語系の品詞分類で名詞及び形容詞の総称、曲用（declension）する品詞。
+NOURISH	(動詞) 養う: 療養する。養生する。 (ほかに: 育てる)
+NOURISHED	(動詞) "nourish" の過去形・過去分詞形: 養う: 療養する。養生する。 (ほかに: 育てる)
+NOURISHES	(動詞) "nourish" の三人称単数現在形: 養う: 療養する。養生する。 (ほかに: 育てる)
+NOURISHING	(形容詞) nourishingの訳: 栄養のある\n(動詞) nourishの現在分詞: 養う: 療養する。養生する。 (ほかに: 育てる)
+NOURISHMENT	(名詞) 栄養: 生物が生命を維持し活動するのに必要な成分などを体外から取り入れる働き。また、その成分。 (ほかに: 食物, 滋養)
+NOURISHMENTS	(名詞) nourishmentの複数形: 栄養: 生物が生命を維持し活動するのに必要な成分などを体外から取り入れる働き。また、その成分。 (ほかに: 食物, 滋養)
+NOVA	(名詞) 新星: 恒星（白色矮星）の表面に一時的に強い爆発が起こり、それまでの光度の数百倍から数百万倍も増光する現象及びそのような現象が見られる星。
+NOVAE	(名詞) novaの複数形: 新星: 恒星（白色矮星）の表面に一時的に強い爆発が起こり、それまでの光度の数百倍から数百万倍も増光する現象及びそのような現象が見られる星。
+NOVAS	(novaの変化形) (名詞) 新星: 恒星（白色矮星）の表面に一時的に強い爆発が起こり、それまでの光度の数百倍から数百万倍も増光する現象及びそのような現象が見られる星。
+NOVATION	(名詞) 更改: 当事者や給付等の債務の内容を変更すること。またその契約。
+NOVATIONS	(novationの変化形) (名詞) 更改: 当事者や給付等の債務の内容を変更すること。またその契約。
+NOVEL	(形容詞) novelの訳: 斬新な\n(名詞) novelの訳: ⟪小説|しょうせつ⟫
+NOVELISE	(動詞) 現実の事件を基に小説を書く。
+NOVELISED	(動詞) noveliseの過去形・過去分詞: 現実の事件を基に小説を書く。
+NOVELISES	(動詞) noveliseの直説法現在第三人称単数形: 現実の事件を基に小説を書く。
+NOVELISING	(動詞) noveliseの現在分詞: 現実の事件を基に小説を書く。
+NOVELIST	(名詞) 小説家: 小説を書く人。また、それを生業とする人。
+NOVELISTS	(novelistの変化形) (名詞) 小説家: 小説を書く人。また、それを生業とする人。
+NOVELIZATION	(名詞) 現実の事件を基に小説を書くこと。
+NOVELIZATIONS	(名詞) "novelization" の複数形: 現実の事件を基に小説を書くこと。
+NOVELIZE	(動詞) 現実の事件を基に小説を書く。
+NOVELIZED	(動詞) novelizeの過去形・過去分詞: 現実の事件を基に小説を書く。
+NOVELIZES	(動詞) novelizeの直説法現在第三人称単数形: 現実の事件を基に小説を書く。
+NOVELIZING	(動詞) novelizeの現在分詞: 現実の事件を基に小説を書く。
+NOVELLA	(名詞) 短編小説: 内容が短い形式の小説。
+NOVELLAS	(名詞) novellaの複数形: 短編小説: 内容が短い形式の小説。
+NOVELLE	(名詞) novellaの複数形: 短編小説: 内容が短い形式の小説。
+NOVELLY	(novelの変化形) (形容詞) novelの訳: 斬新な
+NOVELS	(名詞) novelの複数形: 斬新な
+NOVELTIES	(名詞) noveltyの複数形: 斬新さ
+NOVELTY	(名詞) noveltyの訳: 斬新さ
+NOVICE	(名詞) 初心者、新人、ノービス。[14世紀より]
+NOVICES	(名詞) noviceの複数形: 初心者、新人、ノービス。[14世紀より]
+NOW	(副詞) nowの訳: 今, 現在\n(名詞) nowの訳: 今, 現在
+NOWADAYS	(副詞) 近頃は。最近では。昨今。
+NOWHERE	(副詞) （存在しないこと）どこにも～ない。\n(形容詞) つまらない: 甲斐がない。無益だ。ばかばかしい。 (ほかに: 無価値な, 意味のない)
+NOWHERES	(名詞) nowhereの複数形: （存在しないこと）どこにも～ない。
+NOWS	(名詞) "now" の複数形: 今, 現在
+NOWT	(代名詞) 無。何も無い。\n(名詞) nowtの訳: 無
+NOWTS	(nowtの変化形) (代名詞) 無。何も無い。
+NOXIOUS	(形容詞) noxiousの訳: 有害な, 有毒な
+NOXIOUSNESS	(名詞) noxiousnessの訳: 有害さ, 有毒性
+NOXIOUSNESSES	(名詞) noxiousnessの複数形: 有害さ, 有毒性
+NOZZLE	(名詞) （ホースなどの）ノズル。噴射口。
+NOZZLES	(名詞) nozzleの複数形: （ホースなどの）ノズル。噴射口。
+NUCLEAR	(形容詞) 核となる。最小単位の。
+NUCLEI	(名詞) nucleusの複数形: ものの中心にあって周囲と組成の異なる部分、核、核心。
+NUCLEOLAR	(形容詞) 核小体（仁）の、核小体（仁）に関する。
+NUCLEOLI	(名詞) nucleolusの複数形: 核小体。仁。
+NUCLEOLUS	(名詞) 核小体。仁。
+NUCLEOTIDE	(名詞) ヌクレオチド: ヌクレオシドの糖の部分に燐酸が結合したもの。
+NUCLEOTIDES	(名詞) nucleotideの複数形: ヌクレオチド: ヌクレオシドの糖の部分に燐酸が結合したもの。
+NUCLEUS	(名詞) ものの中心にあって周囲と組成の異なる部分、核、核心。
+NUCLEUSES	(nucleusの変化形) (名詞) ものの中心にあって周囲と組成の異なる部分、核、核心。
+NUDE	(名詞) はだか: 服を着ていない状態、裸体。
+NUDELY	(nudeの変化形) (名詞) はだか: 服を着ていない状態、裸体。
+NUDER	(nudeの変化形) (名詞) はだか: 服を着ていない状態、裸体。
+NUDES	(nudeの変化形) (名詞) はだか: 服を着ていない状態、裸体。
+NUDEST	(nudeの変化形) (名詞) はだか: 服を着ていない状態、裸体。
+NUDIBRANCH	(名詞) nudibranchの訳: ⟪うみうし⟫
+NUDIBRANCHS	(nudibranchの変化形) (名詞) nudibranchの訳: ⟪うみうし⟫
+NUDITIES	(名詞) nudityの複数形: 裸: 服を着ていない状態、裸体。 (ほかに: 裸体)
+NUDITY	(名詞) 裸: 服を着ていない状態、裸体。 (ほかに: 裸体)
+NUISANCE	(名詞) nuisanceの訳: 迷惑な行為
+NUISANCES	(名詞) nuisanceの複数形: 迷惑な行為
+NULL	(名詞) 無価値: 価値がないこと。何の利益も生み出さないこと。 (ほかに: 不存在)\n(形容詞) nullの訳: 法的に無効な
+NULLIFICATION	(名詞) 取り消し。無効化。
+NULLIFICATIONS	(名詞) nullificationの複数形: 取り消し。無効化。
+NULLIFIED	(動詞) nullifyの過去形・過去分詞: 取り消す, 無効にする\n(形容詞) nullifiedの訳: 無効にされた
+NULLIFIES	(動詞) nullifyの直説法現在第三人称単数形: 取り消す, 無効にする
+NULLIFY	(動詞) nullifyの訳: 取り消す, 無効にする
+NULLIFYING	(動詞) nullifyの現在分詞: 取り消す, 無効にする
+NULLING	(nullの変化形) (名詞) 無価値: 価値がないこと。何の利益も生み出さないこと。 (ほかに: 不存在)
+NULLS	(nullの変化形) (名詞) 無価値: 価値がないこと。何の利益も生み出さないこと。 (ほかに: 不存在)
+NUMB	(形容詞) numbの訳: かじかんだ\n(動詞) 〔しばしば受け身で〕 かじかませる。痺れさせる。
+NUMBED	(numbの変化形) (形容詞) numbの訳: かじかんだ
+NUMBER	(名詞) 数: （スウ）人や物の数に由来する文法範疇で、名詞・代名詞、動詞などの語形変化によって表されるもの。単数、複数、双数、三数、四数などの総称。 (ほかに: 数値, 番号)\n(動詞) numberの訳: ⟪数える|かぞえる⟫
+NUMBERED	(動詞) numberの過去形・過去分詞: 数: （スウ）人や物の数に由来する文法範疇で、名詞・代名詞、動詞などの語形変化によって表されるもの。単数、複数、双数、三数、四数などの総称。 (ほかに:...
+NUMBERING	(動詞) "number" の動名詞形又は現在分詞形: 数: （スウ）人や物の数に由来する文法範疇で、名詞・代名詞、動詞などの語形変化によって表されるもの。単数、複数、双数、三数、四数などの総称。 (ほかに:...
+NUMBERS	(名詞) number の複数形: 数: （スウ）人や物の数に由来する文法範疇で、名詞・代名詞、動詞などの語形変化によって表されるもの。単数、複数、双数、三数、四数などの総称。 (ほかに:...
+NUMBEST	(numbの変化形) (形容詞) numbの訳: かじかんだ
+NUMBING	(numbの変化形) (形容詞) numbの訳: かじかんだ
+NUMBS	(numbの変化形) (形容詞) numbの訳: かじかんだ
+NUMERAL	(名詞) 数字。また、それで構成された数。\n(形容詞) 数字の: 数を表す文字、記号。
+NUMERALS	(名詞) numeralの複数形: 数字。また、それで構成された数。
+NUMERATE	(動詞) よむ: 【読む】数を数える。測定する。
+NUMERATED	(numerateの変化形) (動詞) よむ: 【読む】数を数える。測定する。
+NUMERATES	(numerateの変化形) (動詞) よむ: 【読む】数を数える。測定する。
+NUMERATING	(numerateの変化形) (動詞) よむ: 【読む】数を数える。測定する。
+NUMERATOR	(名詞) numeratorの訳: ⟪分子|ぶんし⟫
+NUMERATORS	(名詞) numeratorの複数形: 分子。
+NUMERIC	(名詞) numericの訳: テンキー
+NUMERICAL	(形容詞) 数: （スウ）人や物の数に由来する文法範疇で、名詞・代名詞、動詞などの語形変化によって表されるもの。単数、複数、双数、三数、四数などの総称。 (ほかに: 数値の)
+NUMERICS	(numericの変化形) (名詞) numericの訳: テンキー
+NUMEROUS	(形容詞) 多数の: 数が多いこと。 (ほかに: 数多くの)
+NUMEROUSLY	(numerousの変化形) (形容詞) 多数の: 数が多いこと。 (ほかに: 数多くの)
+NUN	(名詞) 尼僧: 女性の出家した仏教徒。比丘尼。尼。
+NUNS	(nunの変化形) (名詞) 尼僧: 女性の出家した仏教徒。比丘尼。尼。
+NUPTIAL	(形容詞) 結婚・婚姻に関する。\n(名詞) 結婚式: 結婚する夫婦が執り行う儀式。
+NUPTIALS	(名詞) 結婚式。[16世紀中期より]
+NURSE	(名詞) nurseの訳: 看護師, 看護人, その呼称\n(動詞) 看護する: 傷病人の手当や世話をすること。 (ほかに: 介抱する)
+NURSED	(動詞) nurseの過去形・過去分詞: 看護師, 看護人, その呼称
+NURSES	(名詞) "nurse" の複数形: 看護師, 看護人, その呼称\n(動詞) "nurse" の三人称単数現在形: 看護師, 看護人, その呼称
+NURSING	(形容詞) nursingの訳: 母乳を与える\n(名詞) nursingの訳: 授乳
+NURSINGS	(名詞) nursingの複数形: 母乳を与える
+NURTURE	(動詞) nurtureの訳: 育てる\n(名詞) nurtureの訳: 養育, 育成, ⟪しつけ⟫
+NURTURED	(nurtureの変化形) (動詞) nurtureの訳: 育てる
+NURTURER	(nurtureの変化形) (動詞) nurtureの訳: 育てる
+NURTURES	(名詞) "nurture" の複数形: 育てる\n(動詞) "nurture" の三人称単数現在形: 育てる
+NURTURING	(nurtureの変化形) (動詞) nurtureの訳: 育てる
+NUT	(名詞) 木の実。ナッツ。\n(動詞) nutの訳: 木の実を拾う
+NUTCRACKER	(名詞) nutcrackerの訳: くるみ割り
+NUTCRACKERS	(nutcrackerの変化形) (名詞) nutcrackerの訳: くるみ割り
+NUTHATCH	(名詞) nuthatchの訳: ⟪ごじゅうから⟫, ⟪ゴジュウカラ|ごじゅうから⟫
+NUTHATCHES	(nuthatchの変化形) (名詞) nuthatchの訳: ⟪ごじゅうから⟫, ⟪ゴジュウカラ|ごじゅうから⟫
+NUTMEG	(名詞) nutmegの訳: きんたま, ニクズク, ナツメグ
+NUTMEGS	(nutmegの変化形) (名詞) nutmegの訳: きんたま, ニクズク, ナツメグ
+NUTRIA	(名詞) nutriaの訳: ヌートリア
+NUTRIAS	(nutriaの変化形) (名詞) nutriaの訳: ヌートリア
+NUTRITION	(名詞) 栄養: 生物が生命を維持し活動するのに必要な成分などを体外から取り入れる働き。また、その成分。
+NUTRITIONIST	(名詞) 栄養士: 食事管理などを行う職業。現在の日本では、栄養士法に基づいて栄養士の名を用いて栄養指導などを行う資格を有する者。
+NUTRITIONISTS	(nutritionistの変化形) (名詞) 栄養士: 食事管理などを行う職業。現在の日本では、栄養士法に基づいて栄養士の名を用いて栄養指導などを行う資格を有する者。
+NUTRITIONS	(nutritionの変化形) (名詞) 栄養: 生物が生命を維持し活動するのに必要な成分などを体外から取り入れる働き。また、その成分。
+NUTS	(名詞) nutの複数形: 木の実。ナッツ。
+NUTSHELL	(名詞) nutshellの訳: 木の実の殻
+NUTSHELLS	(nutshellの変化形) (名詞) nutshellの訳: 木の実の殻
+NUTTED	(nutの変化形) (名詞) 木の実。ナッツ。
+NUTTING	(nutの変化形) (名詞) 木の実。ナッツ。
+NUTTINGS	(nutの変化形) (名詞) 木の実。ナッツ。
+NYLON	(名詞) ナイロン: ポリアミドの合成重合体（合成繊維）。熱に弱い。元は商標名。
+NYMPH	(名詞) ニンフ。ニュンペー。
+NYMPHS	(名詞) nymphの複数形: ニンフ。ニュンペー。
+NYSTAGMUS	(名詞) 眼振: 眼球振盪。 (ほかに: 眼球振盪)
+NYSTAGMUSES	(nystagmusの変化形) (名詞) 眼振: 眼球振盪。 (ほかに: 眼球振盪)

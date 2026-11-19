@@ -1,0 +1,2371 @@
+TAB	(ad) tab kelimesinin karşılığı: ⟪sekme|SEKME⟫
+TABBED	(tab sözcüğünün çekimi) (ad) tab kelimesinin karşılığı: ⟪sekme|SEKME⟫
+TABBING	(tab sözcüğünün çekimi) (ad) tab kelimesinin karşılığı: ⟪sekme|SEKME⟫
+TABBOULEHS	(ad) çoğul çekimi: tabbouleh
+TABLE	(ad) çizelge: Birbiriyle ilgili verilerin toplu ve düzenli sunulduğu listeler.
+TABLEAU	(ad) tablo: Birbiriyle olan ilgilerine göre düzenlenerek yazılmış şeylerin hepsi.
+TABLEAUS	(tableau sözcüğünün çekimi) (ad) tablo: Birbiriyle olan ilgilerine göre düzenlenerek yazılmış şeylerin hepsi.
+TABLEAUX	(tableau sözcüğünün çekimi) (ad) tablo: Birbiriyle olan ilgilerine göre düzenlenerek yazılmış şeylerin hepsi.
+TABLECLOTHS	(ad) çoğul çekimi: tablecloth
+TABLED	(table sözcüğünün çekimi) (ad) çizelge: Birbiriyle ilgili verilerin toplu ve düzenli sunulduğu listeler.
+TABLELAND	(ad) yayla: akarsularla derin bir şekilde yarılmış, parçalanmış, üzerinde düzlüklerin belirgin olarak bulunduğu, deniz yüzeyinden yüksek yeryüzü parçası
+TABLELANDS	(ad) çoğul çekimi: tableland
+TABLES	(ad) table sözcüğünün çoğul çekimi: çizelge
+TABLESPOON	(ad) tablespoon kelimesinin karşılığı: yemek kaşığı
+TABLESPOONFULS	(ad) çoğul çekimi: tablespoonful
+TABLESPOONS	(ad) çoğul çekimi: tablespoon
+TABLET	(ad) tablet: Eski medeniyetlerden kalma, pişmiş veya güneşte kurutulmuş kilden yapılmış, üzerinde çivi yazısı ile metin yazılı belge:
+TABLETED	(tablet sözcüğünün çekimi) (ad) tablet: Eski medeniyetlerden kalma, pişmiş veya güneşte kurutulmuş kilden yapılmış, üzerinde çivi yazısı ile metin...
+TABLETING	(tablet sözcüğünün çekimi) (ad) tablet: Eski medeniyetlerden kalma, pişmiş veya güneşte kurutulmuş kilden yapılmış, üzerinde çivi yazısı ile metin...
+TABLETOP	(ad) tabletop kelimesinin karşılığı: ⟪masaüstü|MASAÜSTÜ⟫
+TABLETOPS	(ad) çoğul çekimi: tabletop
+TABLETS	(ad) çoğul çekimi: tablet
+TABLETTED	(tablet sözcüğünün çekimi) (ad) tablet: Eski medeniyetlerden kalma, pişmiş veya güneşte kurutulmuş kilden yapılmış, üzerinde çivi yazısı ile metin...
+TABLETTING	(tablet sözcüğünün çekimi) (ad) tablet: Eski medeniyetlerden kalma, pişmiş veya güneşte kurutulmuş kilden yapılmış, üzerinde çivi yazısı ile metin...
+TABLEWARE	(ad) servis: Yemekte gerekli olan tabak, çatal, bıçak, kaşık, peçete vb. şeylerin tümü
+TABLEWARES	(tableware sözcüğünün çekimi) (ad) servis: Yemekte gerekli olan tabak, çatal, bıçak, kaşık, peçete vb. şeylerin tümü
+TABLING	(table sözcüğünün çekimi) (ad) çizelge: Birbiriyle ilgili verilerin toplu ve düzenli sunulduğu listeler.
+TABLOIDS	(ad) çoğul çekimi: tabloid
+TABOO	(sıfat) tabu: Kutsal sayılan bazı insanlara, hayvanlara, nesnelere dokunulmasını, kullanılmasını yasaklayan, aksi yapıldığında zararı dokunacağı düşünülen dinî inanç
+TABOOED	(taboo sözcüğünün çekimi) (sıfat) tabu: Kutsal sayılan bazı insanlara, hayvanlara, nesnelere dokunulmasını, kullanılmasını yasaklayan, aksi...
+TABOOING	(taboo sözcüğünün çekimi) (sıfat) tabu: Kutsal sayılan bazı insanlara, hayvanlara, nesnelere dokunulmasını, kullanılmasını yasaklayan, aksi...
+TABOOS	(ad) çoğul çekimi: taboo
+TABORERS	(ad) çoğul çekimi: taborer
+TABORS	(ad) çoğul çekimi: tabor
+TABS	(tab sözcüğünün çekimi) (ad) tab kelimesinin karşılığı: ⟪sekme|SEKME⟫
+TABULATE	(eylem) tablo haline getirmek
+TABULATED	(tabulate sözcüğünün çekimi) (eylem) tablo haline getirmek
+TABULATES	(ad) çoğul çekimi: tabulate
+TABULATING	(tabulate sözcüğünün çekimi) (eylem) tablo haline getirmek
+TABULATIONS	(ad) çoğul çekimi: tabulation
+TABULATORS	(ad) çoğul çekimi: tabulator
+TACHOMETER	(ad) tachometer kelimesinin karşılığı: devir saati
+TACHOMETERS	(ad) çoğul çekimi: tachometer
+TACIT	(sıfat) tacit kelimesinin karşılığı: sözsüz anlaşılan, sözsüz anlatılan
+TACITURNITIES	(taciturnity sözcüğünün çekimi) (ad) sessizlik: ortalıkta gürültü olmama durumu, sükût, sessiz olma durumu (ayrıca: suskunluk)
+TACITURNITY	(ad) sessizlik: ortalıkta gürültü olmama durumu, sükût, sessiz olma durumu (ayrıca: suskunluk)
+TACKERS	(ad) çoğul çekimi: tacker
+TACKLE	(eylem) tackle kelimesinin karşılığı: üstesinden gelmek
+TACKLED	(tackle sözcüğünün çekimi) (eylem) tackle kelimesinin karşılığı: üstesinden gelmek
+TACKLERS	(ad) çoğul çekimi: tackler
+TACKLES	(tackle sözcüğünün çekimi) (eylem) tackle kelimesinin karşılığı: üstesinden gelmek
+TACKLING	(tackle sözcüğünün çekimi) (eylem) tackle kelimesinin karşılığı: üstesinden gelmek
+TACKLINGS	(tackle sözcüğünün çekimi) (eylem) tackle kelimesinin karşılığı: üstesinden gelmek
+TACKS	(ad) çoğul çekimi: tack
+TACTIC	(ad) taktik: İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü. (ayrıca: yönlem)
+TACTICIANS	(ad) çoğul çekimi: tactician
+TACTICS	(ad) tactics kelimesinin karşılığı: düzen bilgisi
+TAD	(zarf) tad kelimesinin karşılığı: az miktarda, ⟪birazcık|BİRAZCIK⟫, ⟪azıcık|AZICIK⟫
+TADPOLE	(ad) tadpole kelimesinin karşılığı: ⟪iribaş|İRİBAŞ⟫
+TADPOLES	(ad) çoğul çekimi: tadpole
+TADS	(ad) tad sözcüğünün çoğul çekimi: az miktarda; birazcık; azıcık
+TAELS	(ad) çoğul çekimi: tael
+TAFFETA	(sıfat) tafta: Bir tür sert, ipekli kumaş.
+TAFFETAS	(taffeta sözcüğünün çekimi) (sıfat) tafta: Bir tür sert, ipekli kumaş.
+TAFFRAILS	(ad) çoğul çekimi: taffrail
+TAG	(ad) eklenti: bir şeye eklenmiş olan, ek durumunda bulunan parça
+TAGGED	(tag sözcüğünün çekimi) (ad) eklenti: bir şeye eklenmiş olan, ek durumunda bulunan parça
+TAGGERS	(ad) çoğul çekimi: tagger
+TAGGING	(tag sözcüğünün çekimi) (ad) eklenti: bir şeye eklenmiş olan, ek durumunda bulunan parça
+TAGS	(ad) (eklentiler) (tag): eklenti\n(eylem) tag sözcüğünün çoğul çekimi: eklenti
+TAHINI	(ad) tahin: Susam tohumlarının kavrulup öğütülmesiyle yapılan koyu kıvamlı, yağlı yiyecek.
+TAHINIS	(tahini sözcüğünün çekimi) (ad) tahin: Susam tohumlarının kavrulup öğütülmesiyle yapılan koyu kıvamlı, yağlı yiyecek.
+TAIL	(ad) kuyruk: hayvanların çoğunda gövdenin sonunda bulunan, omurganın uzantısı olan uzun ve esnek organ
+TAILBACKS	(ad) çoğul çekimi: tailback
+TAILCOATS	(ad) çoğul çekimi: tailcoat
+TAILED	(tail sözcüğünün çekimi) (ad) kuyruk: hayvanların çoğunda gövdenin sonunda bulunan, omurganın uzantısı olan uzun ve esnek organ
+TAILER	(tail sözcüğünün çekimi) (ad) kuyruk: hayvanların çoğunda gövdenin sonunda bulunan, omurganın uzantısı olan uzun ve esnek organ
+TAILGATERS	(ad) çoğul çekimi: tailgater
+TAILGATES	(ad) çoğul çekimi: tailgate
+TAILING	(tail sözcüğünün çekimi) (ad) kuyruk: hayvanların çoğunda gövdenin sonunda bulunan, omurganın uzantısı olan uzun ve esnek organ
+TAILINGS	(ad) çoğul çekimi: tailing
+TAILLIGHTS	(ad) çoğul çekimi: taillight
+TAILOR	(ad) terzi: siparişe göre giysi üretmek için; her tür kumaşı biçme, prova yapma, dikme, süsleme, ütüleme ve müşteriye sunma bilgi ve becerisine sahip nitelikli kişi ve giysi dikilen yer, terzinin dükkânı.
+TAILORED	(tailor sözcüğünün çekimi) (ad) terzi: siparişe göre giysi üretmek için; her tür kumaşı biçme, prova yapma, dikme, süsleme, ütüleme ve müşteriye...
+TAILORING	(tailor sözcüğünün çekimi) (ad) terzi: siparişe göre giysi üretmek için; her tür kumaşı biçme, prova yapma, dikme, süsleme, ütüleme ve müşteriye...
+TAILORINGS	(tailor sözcüğünün çekimi) (ad) terzi: siparişe göre giysi üretmek için; her tür kumaşı biçme, prova yapma, dikme, süsleme, ütüleme ve müşteriye...
+TAILORS	(ad) çoğul çekimi: tailor
+TAILPIPES	(ad) çoğul çekimi: tailpipe
+TAILRACES	(ad) çoğul çekimi: tailrace
+TAILS	(ad) tail sözcüğünün çoğul çekimi: kuyruk.\n(eylem) tail sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kuyruk.
+TAILSPINS	(ad) çoğul çekimi: tailspin
+TAILWINDS	(ad) çoğul çekimi: tailwind
+TAINTS	(ad) çoğul çekimi: taint
+TAIPANS	(ad) çoğul çekimi: taipan
+TAKE	(eylem) almak: Satın almak (ayrıca: tutmak, kabul etmek)\n(ad) kazanç: satılan bir mal, yapılan iş veya harcanan emek karşılığında elde edilen para, getiri, temettü (ayrıca: kâr)
+TAKEDOWNS	(ad) çoğul çekimi: takedown
+TAKEN	(eylem) take sözcüğünün geçmiş zaman ortaç çekimi: almak, tutmak, kabul etmek, götürmek
+TAKEOFF	(ad) takeoff kelimesinin karşılığı: yerden havalanma, ⟪kalkış|KALKIŞ⟫
+TAKEOFFS	(ad) çoğul çekimi: takeoff
+TAKEOUTS	(ad) çoğul çekimi: takeout
+TAKEOVER	(ad) devir: sürekli ve düzenli değişme, çevrim
+TAKEOVERS	(ad) çoğul çekimi: takeover
+TAKERS	(ad) çoğul çekimi: taker
+TAKES	(take sözcüğünün çekimi) (eylem) almak: Satın almak (ayrıca: tutmak, kabul etmek)
+TAKING	(ad) taking kelimesinin karşılığı: ⟪alma|ALMA⟫
+TAKINGLY	(take sözcüğünün çekimi) (eylem) almak: Satın almak (ayrıca: tutmak, kabul etmek)
+TAKINGS	(ad) çoğul çekimi: taking
+TALAPOINS	(ad) çoğul çekimi: talapoin
+TALAS	(ad) çoğul çekimi: tala
+TALC	(ad) talk: genellikle açık yeşil, toz durumundayken yağlı bir görünümde, özgül ağırlığı 2,7, sertliği 1 olan, hidratlı doğal magnezyum
+TALCED	(talc sözcüğünün çekimi) (ad) talk: genellikle açık yeşil, toz durumundayken yağlı bir görünümde, özgül ağırlığı 2,7, sertliği 1 olan, hidratlı...
+TALCING	(talc sözcüğünün çekimi) (ad) talk: genellikle açık yeşil, toz durumundayken yağlı bir görünümde, özgül ağırlığı 2,7, sertliği 1 olan, hidratlı...
+TALCKED	(talc sözcüğünün çekimi) (ad) talk: genellikle açık yeşil, toz durumundayken yağlı bir görünümde, özgül ağırlığı 2,7, sertliği 1 olan, hidratlı...
+TALCKING	(talc sözcüğünün çekimi) (ad) talk: genellikle açık yeşil, toz durumundayken yağlı bir görünümde, özgül ağırlığı 2,7, sertliği 1 olan, hidratlı...
+TALCS	(talc sözcüğünün çekimi) (ad) talk: genellikle açık yeşil, toz durumundayken yağlı bir görünümde, özgül ağırlığı 2,7, sertliği 1 olan, hidratlı...
+TALE	(ad) efsane: eski çağlardan beri söylenegelen, olağanüstü varlıkları, olayları konu edinen hayalî hikâye, söylence
+TALEBEARER	(sıfat) dedikoducu: çok dedikodu yapan, kovcu, gıybetçi, dillek (ayrıca: gammaz)
+TALEBEARERS	(talebearer sözcüğünün çekimi) (sıfat) dedikoducu: çok dedikodu yapan, kovcu, gıybetçi, dillek (ayrıca: gammaz)
+TALENT	(ad) hüner: beceri, marifet, kabiliyet (ayrıca: kabiliyet, marifet)
+TALENTS	(talent sözcüğünün çekimi) (ad) hüner: beceri, marifet, kabiliyet (ayrıca: kabiliyet, marifet)
+TALER	(tale sözcüğünün çekimi) (ad) efsane: eski çağlardan beri söylenegelen, olağanüstü varlıkları, olayları konu edinen hayalî hikâye, söylence
+TALES	(ad) tale sözcüğünün çoğul çekimi: efsane
+TALIPOTS	(ad) çoğul çekimi: talipot
+TALISMAN	(ad) talisman kelimesinin karşılığı: ⟪tılsım|TILSIM⟫
+TALISMANS	(talisman sözcüğünün çekimi) (ad) talisman kelimesinin karşılığı: ⟪tılsım|TILSIM⟫
+TALK	(ad) talk kelimesinin karşılığı: ⟪konuşma|KONUŞMA⟫\n(eylem) konuşmak: bir konuda karşılıklı söz etmek, sohbet etmek
+TALKED	(eylem) talk sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: konuşma
+TALKERS	(ad) çoğul çekimi: talker
+TALKIES	(ad) çoğul çekimi: talkie
+TALKING	(ad) konuşma: dinleyicilere bilim, sanat, edebiyat vb. konularda bilgi vermek için yapılan söyleşi, konferans
+TALKINGS	(talk sözcüğünün çekimi) (ad) talk kelimesinin karşılığı: ⟪konuşma|KONUŞMA⟫
+TALKS	(ad) talk sözcüğünün çoğul çekimi: konuşma\n(eylem) talk sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: konuşma
+TALL	(sıfat) boylu: Boyu benzerlerinden uzun olan. (ayrıca: uzun, yüksek)
+TALLAISIM	(ad) tallit sözcüğünün çoğul çekimi
+TALLBOYS	(ad) çoğul çekimi: tallboy
+TALLER	(tall sözcüğünün çekimi) (sıfat) boylu: Boyu benzerlerinden uzun olan. (ayrıca: uzun, yüksek)
+TALLEST	(tall sözcüğünün çekimi) (sıfat) boylu: Boyu benzerlerinden uzun olan. (ayrıca: uzun, yüksek)
+TALLIED	(tally sözcüğünün çekimi) (ad) çentik: basım sırasında basım aletinin diyaframını belirli bir açıklığa getirecek düzeni işletmek için filmin...
+TALLIERS	(ad) çoğul çekimi: tallier
+TALLIES	(ad) tallies kelimesinin karşılığı: çeteleler, ⟪çentikler|ÇENTİKLER⟫
+TALLITOTH	(ad) tallit sözcüğünün çoğul çekimi
+TALLY	(ad) çentik: basım sırasında basım aletinin diyaframını belirli bir açıklığa getirecek düzeni işletmek için filmin kenarına yapılan çukurluk (ayrıca: çetele)\n(eylem) tally kelimesinin karşılığı: çetelesini tutmak
+TALLYING	(tally sözcüğünün çekimi) (ad) çentik: basım sırasında basım aletinin diyaframını belirli bir açıklığa getirecek düzeni işletmek için filmin...
+TALUKS	(ad) çoğul çekimi: taluk
+TALUSES	(ad) çoğul çekimi: talus
+TAMANDUAS	(ad) çoğul çekimi: tamandua
+TAMARACKS	(ad) çoğul çekimi: tamarack
+TAMARINS	(ad) çoğul çekimi: tamarin
+TAMARISKS	(ad) çoğul çekimi: tamarisk
+TAMBALA	(ad) tambala kelimesinin karşılığı: ⟪tombala|TOMBALA⟫
+TAMBALAS	(tambala sözcüğünün çekimi) (ad) tambala kelimesinin karşılığı: ⟪tombala|TOMBALA⟫
+TAMBOURINE	(ad) tef: zilli bir kasnağa geçirilmiş kursak zarından oluşan çalgı, def
+TAMBOURINES	(tambourine sözcüğünün çekimi) (ad) tef: zilli bir kasnağa geçirilmiş kursak zarından oluşan çalgı, def
+TAME	(sıfat) tame kelimesinin karşılığı: ⟪ehlî|EHLİ⟫, ⟪evcil|EVCİL⟫
+TAMED	(tame sözcüğünün çekimi) (sıfat) tame kelimesinin karşılığı: ⟪ehlî|EHLİ⟫, ⟪evcil|EVCİL⟫
+TAMER	(tame sözcüğünün çekimi) (sıfat) tame kelimesinin karşılığı: ⟪ehlî|EHLİ⟫, ⟪evcil|EVCİL⟫
+TAMERS	(ad) çoğul çekimi: tamer
+TAMES	(tame sözcüğünün çekimi) (sıfat) tame kelimesinin karşılığı: ⟪ehlî|EHLİ⟫, ⟪evcil|EVCİL⟫
+TAMEST	(tame sözcüğünün çekimi) (sıfat) tame kelimesinin karşılığı: ⟪ehlî|EHLİ⟫, ⟪evcil|EVCİL⟫
+TAMING	(tame sözcüğünün çekimi) (sıfat) tame kelimesinin karşılığı: ⟪ehlî|EHLİ⟫, ⟪evcil|EVCİL⟫
+TAMMIES	(ad) çoğul çekimi: tammy
+TAMPERERS	(ad) çoğul çekimi: tamperer
+TAMPERS	(ad) çoğul çekimi: tamper
+TAN	(eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek, terbiye etmek
+TANAGERS	(ad) çoğul çekimi: tanager
+TANDOOR	(ad) tandoor kelimesinin karşılığı: ⟪tandır|TANDIR⟫
+TANGELOS	(ad) çoğul çekimi: tangelo
+TANGENT	(ad) tanjant: Başka bir çizgiye, eğriye ya da yüzeye dokunan, fakat onu kesmeyen çizgi, eğri ya da yüzey (ayrıca: teğet)
+TANGENTS	(ad) çoğul çekimi: tangent
+TANGERINE	(ad) tangerine kelimesinin karşılığı: ⟪mandalina|MANDALİNA⟫
+TANGERINES	(ad) çoğul çekimi: tangerine
+TANGIBLE	(sıfat) tangible kelimesinin karşılığı: ⟪somut|SOMUT⟫, elle tutulur
+TANGIBLES	(ad) çoğul çekimi: tangible
+TANGLES	(ad) çoğul çekimi: tangle
+TANGO	(ad) tango kelimesinin karşılığı: ⟪tango|TANGO⟫
+TANGOED	(tango sözcüğünün çekimi) (ad) tango kelimesinin karşılığı: ⟪tango|TANGO⟫
+TANGOING	(tango sözcüğünün çekimi) (ad) tango kelimesinin karşılığı: ⟪tango|TANGO⟫
+TANGOS	(tango sözcüğünün çekimi) (ad) tango kelimesinin karşılığı: ⟪tango|TANGO⟫
+TANGRAMS	(ad) çoğul çekimi: tangram
+TANGS	(ad) çoğul çekimi: tang
+TANISTS	(ad) çoğul çekimi: tanist
+TANK	(ad) tank: Paletler üzerinde hareket eden, bir namlu aracılığıyla özel ve etkisi yüksek toplar ateşleyen ve bir ekip tarafından hareket ettirilen motorlu savaş taşıtı
+TANKARD	(ad) arjantin: Büyük bira bardağı.
+TANKARDS	(ad) çoğul çekimi: tankard
+TANKED	(tank sözcüğünün çekimi) (ad) tank: Paletler üzerinde hareket eden, bir namlu aracılığıyla özel ve etkisi yüksek toplar ateşleyen ve bir ekip...
+TANKER	(ad) tanker: Petrol, benzin gibi akaryakıt ürünleriyle, sanayi ile ilgili yağ, şarap vb. sıvı maddeleri taşıyan gemi veya kamyon.
+TANKERS	(tanker sözcüğünün çekimi) (ad) tanker: Petrol, benzin gibi akaryakıt ürünleriyle, sanayi ile ilgili yağ, şarap vb. sıvı maddeleri taşıyan gemi...
+TANKFULS	(ad) çoğul çekimi: tankful
+TANKING	(tank sözcüğünün çekimi) (ad) tank: Paletler üzerinde hareket eden, bir namlu aracılığıyla özel ve etkisi yüksek toplar ateşleyen ve bir ekip...
+TANKS	(ad) tank sözcüğünün çoğul çekimi: tank
+TANNED	(tan sözcüğünün çekimi) (eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek,...
+TANNER	(tan sözcüğünün çekimi) (eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek,...
+TANNERS	(ad) çoğul çekimi: tanner
+TANNEST	(tan sözcüğünün çekimi) (eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek,...
+TANNING	(tan sözcüğünün çekimi) (eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek,...
+TANNINGS	(tan sözcüğünün çekimi) (eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek,...
+TANS	(tan sözcüğünün çekimi) (eylem) tabaklamak: hayvan postlarını kullanılabilecek duruma getirmek amacıyla değişik kimyasal maddelerle işlemek,...
+TANSIES	(ad) çoğul çekimi: tansy
+TANTALATES	(ad) çoğul çekimi: tantalate
+TANTALITES	(ad) çoğul çekimi: tantalite
+TANTALIZERS	(ad) çoğul çekimi: tantalizer
+TANTALUM	(ad) tantalum kelimesinin karşılığı: ⟪tantal|TANTAL⟫
+TANTALUMS	(tantalum sözcüğünün çekimi) (ad) tantalum kelimesinin karşılığı: ⟪tantal|TANTAL⟫
+TANTALUSES	(ad) çoğul çekimi: tantaluses
+TANTRUM	(ad) tantrum kelimesinin karşılığı: öfke nöbeti, bağırıp çağırma, aksilik yapma, huysuzluk etme
+TANTRUMS	(ad) çoğul çekimi: tantrum
+TAOS	(ad) çoğul çekimi: tao
+TAP	(ad) tap kelimesinin karşılığı: ⟪çeşme|ÇEŞME⟫, ⟪musluk|MUSLUK⟫
+TAPED	(eylem) tape sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+TAPELINES	(ad) çoğul çekimi: tapeline
+TAPER	(ad) sivri uçlu mum\n(eylem) sonuna doğru incelmek veya daralmak; sivrilmek
+TAPERED	(taper sözcüğünün çekimi) (ad) sivri uçlu mum
+TAPERER	(taper sözcüğünün çekimi) (ad) sivri uçlu mum
+TAPERING	(taper sözcüğünün çekimi) (ad) sivri uçlu mum
+TAPERS	(ad) taper sözcüğünün çoğul çekimi: sivri uçlu mum
+TAPES	(ad) tape sözcüğünün çoğul çekimi\n(eylem) tape sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+TAPESTRIES	(ad) çoğul çekimi: tapestry
+TAPESTRY	(ad) tapestry kelimesinin karşılığı: duvar halısı
+TAPESTRYING	(tapestry sözcüğünün çekimi) (ad) tapestry kelimesinin karşılığı: duvar halısı
+TAPEWORM	(ad) tapeworm kelimesinin karşılığı: bağırsak kurdu, ⟪şerit|ŞERİT⟫, ⟪abdestbozan|ABDESTBOZAN⟫
+TAPEWORMS	(ad) çoğul çekimi: tapeworm
+TAPIOCA	(ad) tapioca kelimesinin karşılığı: ⟪tapyoka|TAPYOKA⟫
+TAPIOCAS	(tapioca sözcüğünün çekimi) (ad) tapioca kelimesinin karşılığı: ⟪tapyoka|TAPYOKA⟫
+TAPPED	(eylem) tap sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çeşme, musluk
+TAPPERS	(ad) çoğul çekimi: tapper
+TAPPING	(tap sözcüğünün çekimi) (ad) tap kelimesinin karşılığı: ⟪çeşme|ÇEŞME⟫, ⟪musluk|MUSLUK⟫
+TAPPINGS	(tap sözcüğünün çekimi) (ad) tap kelimesinin karşılığı: ⟪çeşme|ÇEŞME⟫, ⟪musluk|MUSLUK⟫
+TAPROOMS	(ad) çoğul çekimi: taproom
+TAPROOT	(ad) taproot kelimesinin karşılığı: ana kök
+TAPROOTS	(ad) çoğul çekimi: taproot
+TAPS	(ad) tap sözcüğünün çoğul çekimi: çeşme, musluk\n(eylem) tap sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: çeşme, musluk
+TAR	(ad) katran: Organik maddelerden kuru damıtma yoluyla elde edilen, sıvı yağ kıvamında, kara renkte, ağır, is kokulu, suda erimeyen bir madde.
+TARADIDDLE	(ad) taradiddle kelimesinin karşılığı: küçük yalan
+TARADIDDLES	(taradiddle sözcüğünün çekimi) (ad) taradiddle kelimesinin karşılığı: küçük yalan
+TARANTELLAS	(ad) çoğul çekimi: tarantella
+TARANTULAS	(ad) çoğul çekimi: tarantula
+TARE	(ad) tare kelimesinin karşılığı: ⟪dara|DARA⟫
+TARED	(tar sözcüğünün çekimi) (ad) katran: Organik maddelerden kuru damıtma yoluyla elde edilen, sıvı yağ kıvamında, kara renkte, ağır, is kokulu,...
+TARES	(tare sözcüğünün çekimi) (ad) tare kelimesinin karşılığı: ⟪dara|DARA⟫
+TARGET	(ad) hedef: (mecaz) yapılması tasarlanan iş, amaç
+TARGETED	(eylem) target sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hedef
+TARGETING	(target sözcüğünün çekimi) (ad) hedef: (mecaz) yapılması tasarlanan iş, amaç
+TARGETS	(ad) target sözcüğünün çoğul çekimi: hedef\n(eylem) target sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: hedef
+TARIFFS	(ad) çoğul çekimi: tariff
+TARING	(tar sözcüğünün çekimi) (ad) katran: Organik maddelerden kuru damıtma yoluyla elde edilen, sıvı yağ kıvamında, kara renkte, ağır, is kokulu,...
+TARLATANS	(ad) çoğul çekimi: tarlatan
+TARNISHES	(ad) çoğul çekimi: tarnish
+TARNS	(ad) çoğul çekimi: tarn
+TAROT	(ad) tarot kelimesinin karşılığı: tarot
+TAROTS	(tarot sözcüğünün çekimi) (ad) tarot kelimesinin karşılığı: tarot
+TARPAULINS	(ad) çoğul çekimi: tarpaulin
+TARRED	(tar sözcüğünün çekimi) (ad) katran: Organik maddelerden kuru damıtma yoluyla elde edilen, sıvı yağ kıvamında, kara renkte, ağır, is kokulu,...
+TARRIANCES	(ad) çoğul çekimi: tarriance
+TARRIED	(tarry sözcüğünün çekimi) (sıfat) tarry kelimesinin karşılığı: ⟪katranlı|KATRANLI⟫
+TARRIES	(ad) çoğul çekimi: tarry
+TARRIEST	(tarry sözcüğünün çekimi) (sıfat) tarry kelimesinin karşılığı: ⟪katranlı|KATRANLI⟫
+TARRING	(tar sözcüğünün çekimi) (ad) katran: Organik maddelerden kuru damıtma yoluyla elde edilen, sıvı yağ kıvamında, kara renkte, ağır, is kokulu,...
+TARRY	(sıfat) tarry kelimesinin karşılığı: ⟪katranlı|KATRANLI⟫\n(eylem) oyalamak: belirli bir süre birinin dikkat ve ilgisini başka bir şey üzerine çekmek, meşgul etmek
+TARRYING	(tarry sözcüğünün çekimi) (sıfat) tarry kelimesinin karşılığı: ⟪katranlı|KATRANLI⟫
+TARS	(ad) çoğul çekimi: tar
+TARSALS	(ad) çoğul çekimi: tarsal
+TART	(ad) tart kelimesinin karşılığı: ⟪tart|TART⟫
+TARTAN	(ad) tartan kelimesinin karşılığı: ⟪tartan|TARTAN⟫
+TARTANS	(ad) çoğul çekimi: tartan
+TARTED	(tart sözcüğünün çekimi) (ad) tart kelimesinin karşılığı: ⟪tart|TART⟫
+TARTER	(tart sözcüğünün çekimi) (ad) tart kelimesinin karşılığı: ⟪tart|TART⟫
+TARTEST	(tart sözcüğünün çekimi) (ad) tart kelimesinin karşılığı: ⟪tart|TART⟫
+TARTING	(tart sözcüğünün çekimi) (ad) tart kelimesinin karşılığı: ⟪tart|TART⟫
+TARTNESSES	(ad) çoğul çekimi: tartness
+TARTRATES	(ad) çoğul çekimi: tartrate
+TARTS	(ad) çoğul çekimi: tart
+TARTUFFES	(ad) çoğul çekimi: tartuffe
+TASK	(ad) görev: Bir nesne veya bir kimsenin yaptığı iş.
+TASKED	(task sözcüğünün çekimi) (ad) görev: Bir nesne veya bir kimsenin yaptığı iş.
+TASKING	(task sözcüğünün çekimi) (ad) görev: Bir nesne veya bir kimsenin yaptığı iş.
+TASKMISTRESSES	(ad) çoğul çekimi: taskmistress
+TASKS	(ad) etkinlik: bir işletmenin, bir kurumun belli bir alandaki eylemi, faaliyet, aktivite
+TASSEL	(ad) püskül: bir ucundan kimi şeylere süs olarak takılan, diğer ucu serbest saçak biçimindeki iplik demeti\n(eylem) Bir püskül veya çiçek ortaya koymak.
+TASSELING	(tassel sözcüğünün çekimi) (ad) püskül: bir ucundan kimi şeylere süs olarak takılan, diğer ucu serbest saçak biçimindeki iplik demeti
+TASSELLING	(tassel sözcüğünün çekimi) (ad) püskül: bir ucundan kimi şeylere süs olarak takılan, diğer ucu serbest saçak biçimindeki iplik demeti
+TASSELS	(ad) tassel sözcüğünün çoğul çekimi: püskül
+TASTE	(ad) tat: canlıların besinlerdeki uçucu olmayan bileşikleri damak, boğaz ve dil yüzeyindeki mukoza noktaları aracılığıyla algıladığı duyum
+TASTED	(eylem) taste sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: tat
+TASTELESS	(sıfat) tatsız: tadı iyi olmayan, lezzetsiz (ayrıca: yavan, saman gibi)
+TASTELESSNESS	(ad) tatsızlık: Tatsız olma durumu (ayrıca: lezzetsizlik)
+TASTELESSNESSES	(tastelessness sözcüğünün çekimi) (ad) tatsızlık: Tatsız olma durumu (ayrıca: lezzetsizlik)
+TASTES	(ad) çoğul çekimi: taste
+TASTING	(eylem) taste sözcüğünün şimdiki zaman ortaç ve gerund çekimi: tat
+TATERS	(ad) çoğul çekimi: tater
+TATS	(ad) çoğul çekimi: tat
+TATTERDEMALIONS	(ad) çoğul çekimi: tatterdemalion
+TATTERS	(ad) çoğul çekimi: tatter
+TATTIES	(ad) çoğul çekimi: tattie
+TATTLERS	(ad) çoğul çekimi: tattler
+TATTOOS	(ad) çoğul çekimi: tattoo
+TAUGHT	(eylem) teach sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: öğretmek
+TAUNTED	(eylem) taunt sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+TAUNTERS	(ad) çoğul çekimi: taunter
+TAUNTS	(ad) çoğul çekimi: taunt
+TAURINES	(ad) çoğul çekimi: taurine
+TAUTOLOGIES	(ad) çoğul çekimi: tautology
+TAUTOLOGY	(ad) tautology kelimesinin karşılığı: eşsöz
+TAVERN	(ad) tavern kelimesinin karşılığı: ⟪taverna|TAVERNA⟫
+TAVERNS	(ad) çoğul çekimi: tavern
+TAWNIER	(tawny sözcüğünün çekimi) (sıfat) tawny kelimesinin karşılığı: bal rengi
+TAWNIES	(tawny sözcüğünün çekimi) (sıfat) tawny kelimesinin karşılığı: bal rengi
+TAWNIEST	(tawny sözcüğünün çekimi) (sıfat) tawny kelimesinin karşılığı: bal rengi
+TAWNILY	(tawny sözcüğünün çekimi) (sıfat) tawny kelimesinin karşılığı: bal rengi
+TAWNY	(sıfat) tawny kelimesinin karşılığı: bal rengi
+TAWS	(ad) çoğul çekimi: taw
+TAX	(ad) tax kelimesinin karşılığı: ⟪vergi|VERGİ⟫
+TAXA	(ad) taxon sözcüğünün çoğul çekimi: bir ya da birden fazla organizmanın oluşturduğu kitlenin oluşturduğu birime taksonomistler...
+TAXED	(tax sözcüğünün çekimi) (ad) tax kelimesinin karşılığı: ⟪vergi|VERGİ⟫
+TAXES	(tax sözcüğünün çekimi) (ad) tax kelimesinin karşılığı: ⟪vergi|VERGİ⟫
+TAXI	(ad) taksi: belirli bir ücret karşılığı yolcu taşıyan, taksimetresi olan otomobil
+TAXICABS	(ad) çoğul çekimi: taxicab
+TAXIED	(taxi sözcüğünün çekimi) (ad) taksi: belirli bir ücret karşılığı yolcu taşıyan, taksimetresi olan otomobil
+TAXIES	(taxi sözcüğünün çekimi) (ad) taksi: belirli bir ücret karşılığı yolcu taşıyan, taksimetresi olan otomobil
+TAXIING	(taxi sözcüğünün çekimi) (ad) taksi: belirli bir ücret karşılığı yolcu taşıyan, taksimetresi olan otomobil
+TAXIMETER	(ad) taksimetre: Taksilerde ödenecek ücreti gösteren sayaç
+TAXIMETERS	(ad) çoğul çekimi: taximeter
+TAXING	(tax sözcüğünün çekimi) (ad) tax kelimesinin karşılığı: ⟪vergi|VERGİ⟫
+TAXIWAYS	(ad) çoğul çekimi: taxiway
+TAXON	(ad) bir ya da birden fazla organizmanın oluşturduğu kitlenin oluşturduğu birime taksonomistler tarafından verilen ad.
+TAXONOMIC	(ad) taxonomic kelimesinin karşılığı: sınıflamacı
+TAXONOMIES	(ad) çoğul çekimi: taxonomy
+TAXONOMY	(ad) taxonomy kelimesinin karşılığı: ⟪sınıflama|SINIFLAMA⟫
+TAXONS	(taxon sözcüğünün çekimi) (ad) bir ya da birden fazla organizmanın oluşturduğu kitlenin oluşturduğu birime taksonomistler tarafından verilen ad.
+TAXPAYERS	(ad) çoğul çekimi: taxpayer
+TAXYING	(taxi sözcüğünün çekimi) (ad) taksi: belirli bir ücret karşılığı yolcu taşıyan, taksimetresi olan otomobil
+TCHOTCHKES	(ad) çoğul çekimi: tchotchke
+TEA	(ad) çay: Çeşitli bitkilerin yaprak veya çiçeklerinin demlenmesiyle elde edilen bir içecek türü.,
+TEABERRIES	(ad) çoğul çekimi: teaberry
+TEACH	(eylem) öğretmek: bir kişiye bir konuda bilgi ve beceri kazandırmak
+TEACHABLE	(sıfat) teachable kelimesinin karşılığı: öğretilebilir
+TEACHER	(ad) öğretmen: mesleği bilgi öğretmek olan kişi.
+TEACHERLY	(teacher sözcüğünün çekimi) (ad) öğretmen: mesleği bilgi öğretmek olan kişi.
+TEACHERS	(ad) teacher sözcüğünün çoğul çekimi: öğretmen
+TEACHES	(ad) çoğul çekimi: teach
+TEACHING	(ad) tedrisat: Öğretim (ayrıca: öğretim, tedris)
+TEACHINGS	(ad) çoğul çekimi: teaching
+TEACUPS	(ad) çoğul çekimi: teacup
+TEAHOUSE	(ad) ocak: mutfak eşyası
+TEAHOUSES	(teahouse sözcüğünün çekimi) (ad) ocak: mutfak eşyası
+TEAKETTLES	(ad) çoğul çekimi: teakettle
+TEAL	(ad) Yeşilimtrak koyu bir tür mavi, petrol yeşili; ördekbaşı rengi.
+TEALS	(teal sözcüğünün çekimi) (ad) Yeşilimtrak koyu bir tür mavi, petrol yeşili; ördekbaşı rengi.
+TEAM	(ad) takım: birlikte oynayan, kazanmak için birlikte çalışan sporcu topluluğu
+TEAMED	(team sözcüğünün çekimi) (ad) takım: birlikte oynayan, kazanmak için birlikte çalışan sporcu topluluğu
+TEAMING	(team sözcüğünün çekimi) (ad) takım: birlikte oynayan, kazanmak için birlikte çalışan sporcu topluluğu
+TEAMMATES	(ad) çoğul çekimi: teammate
+TEAMS	(ad) teams kelimesinin karşılığı: ⟪takımlar|TAKIMLAR⟫
+TEAMSTERS	(ad) çoğul çekimi: teamster
+TEAPOT	(ad) çaydanlık: mutfak eşyası
+TEAPOTS	(ad) teapot sözcüğünün çoğul çekimi: çaydanlık
+TEAR	(ad) tear kelimesinin karşılığı: ⟪gözyaşı|GÖZYAŞI⟫, ⟪cıngı|CINGI⟫\n(eylem) parçalamak: birliği bozmak amacıyla bölmek (ayrıca: yırtmak)
+TEARAWAYS	(ad) çoğul çekimi: tearaway
+TEARDROP	(ad) teardrop kelimesinin karşılığı: gözyaşı damlası
+TEARDROPS	(ad) teardrop sözcüğünün çoğul çekimi: gözyaşı damlası
+TEARED	(eylem) tear sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: gözyaşı, cıngı
+TEARFUL	(sıfat) tearful kelimesinin karşılığı: gözyaşları içinde
+TEARIER	(teary sözcüğünün çekimi) (sıfat) teary kelimesinin karşılığı: sulu gözlü
+TEARIEST	(teary sözcüğünün çekimi) (sıfat) teary kelimesinin karşılığı: sulu gözlü
+TEARILY	(teary sözcüğünün çekimi) (sıfat) teary kelimesinin karşılığı: sulu gözlü
+TEARING	(tear sözcüğünün çekimi) (ad) tear kelimesinin karşılığı: ⟪gözyaşı|GÖZYAŞI⟫, ⟪cıngı|CINGI⟫
+TEARJERKERS	(ad) çoğul çekimi: tearjerker
+TEARS	(ad) tear sözcüğünün çoğul çekimi: gözyaşı, cıngı
+TEARY	(sıfat) teary kelimesinin karşılığı: sulu gözlü
+TEAS	(ad) çoğul çekimi: tea
+TEASELS	(ad) çoğul çekimi: teasel
+TEASER	(ad) alaycı; birilerine takılmayı seven kimse
+TEASERS	(ad) çoğul çekimi: teaser
+TEASES	(ad) çoğul çekimi: tease
+TEASPOON	(ad) teaspoon kelimesinin karşılığı: çay kaşığı
+TEASPOONFULS	(ad) çoğul çekimi: teaspoonful
+TEASPOONS	(ad) çoğul çekimi: teaspoon
+TEATS	(ad) çoğul çekimi: teat
+TEAZLES	(ad) çoğul çekimi: teazle
+TECHIES	(ad) çoğul çekimi: techie
+TECHNETIUM	(ad) technetium kelimesinin karşılığı: ⟪teknetyum|TEKNETYUM⟫
+TECHNETIUMS	(technetium sözcüğünün çekimi) (ad) technetium kelimesinin karşılığı: ⟪teknetyum|TEKNETYUM⟫
+TECHNICAL	(sıfat) teknik: teknik uygulamaya dayanan, bu uygulamaya ilişkin
+TECHNICALITIES	(ad) çoğul çekimi: technicality
+TECHNICALS	(ad) çoğul çekimi: technical
+TECHNICIANS	(ad) çoğul çekimi: technician
+TECHNIQUE	(ad) teknik: bilim, meslek veya sanat dalında kullanılan yöntemlerin hepsi (ayrıca: mühendislik)\n(sıfat) teknik: bilim, meslek veya sanat dalında kullanılan yöntemlerin hepsi
+TECHNIQUES	(ad) technique sözcüğünün çoğul çekimi: mühendislik, teknik
+TECHNOCRACIES	(ad) technocracy sözcüğünün çoğul çekimi: teknokrasi
+TECHNOCRACY	(ad) teknokrasi: Sanayi, ekonomi ve devlet yönetiminin politikacılar değil, uzmanlar, teknisyenler ve teknokratlar tarafından yönetilmesine dayanan sistem.
+TECHNOCRATS	(ad) çoğul çekimi: technocrat
+TECHNOLOGIES	(ad) technology sözcüğünün çoğul çekimi: teknoloji
+TECHNOLOGISTS	(ad) çoğul çekimi: technologist
+TECHNOLOGY	(ad) teknoloji: bir sanayi dalı ile ilgili yapım yöntemlerini, kullanılan araç, gereç ve aletleri, bunların kullanım biçimlerini kapsayan uygulama bilgisi
+TECHNOPHOBES	(ad) çoğul çekimi: technophobe
+TECHNOPHOBIAS	(ad) çoğul çekimi: technophobia
+TEDDIES	(ad) çoğul çekimi: teddy
+TEDDY	(ad) teddy bear (oyuncak ayı) sözcüğünün yaygın kısaltılmış hali.
+TEDIOUS	(sıfat) sıkıcı: iç sıkan, can sıkan, tedirgin eden
+TEDIUM	(ad) sıkıntı: Bir bozukluğun, karışıklığın sebep olduğu etkili ve sürekli ruhsal huzursuzluk; ağırlık, karanlık, kasavet, mihnet.
+TEDIUMS	(tedium sözcüğünün çekimi) (ad) sıkıntı: Bir bozukluğun, karışıklığın sebep olduğu etkili ve sürekli ruhsal huzursuzluk; ağırlık, karanlık,...
+TEE	(ad) tee kelimesinin karşılığı: te
+TEED	(tee sözcüğünün çekimi) (ad) tee kelimesinin karşılığı: te
+TEEING	(tee sözcüğünün çekimi) (ad) tee kelimesinin karşılığı: te
+TEEMING	(sıfat) içi canlı varlıklarla dolu; dolup taşan; kalabalık
+TEEN	(sıfat) genç: Gençlikteki özelliklerini koruyan; dinç.
+TEENAGER	(ad) 13 ile 19 yaş arasında olan (kişi), genç.
+TEENAGERS	(teenager sözcüğünün çekimi) (ad) 13 ile 19 yaş arasında olan (kişi), genç.
+TEENER	(teen sözcüğünün çekimi) (sıfat) genç: Gençlikteki özelliklerini koruyan; dinç.
+TEENS	(ad) çoğul çekimi: teen
+TEEPEES	(ad) çoğul çekimi: teepee
+TEES	(ad) tees kelimesinin karşılığı: hayvan dışkısı
+TEETER	(eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sendelemek, bocalamak)
+TEETERBOARDS	(ad) çoğul çekimi: teeterboard
+TEETERED	(teeter sözcüğünün çekimi) (eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sendelemek, bocalamak)
+TEETERING	(teeter sözcüğünün çekimi) (eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sendelemek, bocalamak)
+TEETERS	(teeter sözcüğünün çekimi) (eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sendelemek, bocalamak)
+TEETH	(ad) tooth sözcüğünün çoğul çekimi: diş
+TEETHER	(teeth sözcüğünün çekimi) (ad) tooth sözcüğünün çoğul çekimi: diş
+TEETOTALLERS	(ad) çoğul çekimi: teetotaller
+TEETOTUM	(ad) topaç: Çevresine ip sarılıp birden bırakılarak veya kamçı ile vurularak döndürülen koni biçiminde ucu sivri oyuncak (ayrıca: fırdöndü)
+TEETOTUMS	(teetotum sözcüğünün çekimi) (ad) topaç: Çevresine ip sarılıp birden bırakılarak veya kamçı ile vurularak döndürülen koni biçiminde ucu sivri...
+TEFFS	(ad) çoğul çekimi: teff
+TEGMENTUM	(ad) orta beynin önde kalan kısmı
+TEGS	(ad) çoğul çekimi: teg
+TEGUMENTS	(ad) çoğul çekimi: tegument
+TEKTITES	(ad) çoğul çekimi: tektite
+TELECASTERS	(ad) çoğul çekimi: telecaster
+TELECASTS	(ad) çoğul çekimi: telecast
+TELECOMMUNICATION	(ad) telecommunication kelimesinin karşılığı: ⟪telekomünikasyon|TELEKOMÜNİKASYON⟫, uziletişim
+TELECOMMUNICATIONS	(ad) çoğul çekimi: telecommunication
+TELECONFERENCES	(ad) çoğul çekimi: teleconference
+TELEGRAMS	(ad) çoğul çekimi: telegram
+TELEGRAPH	(ad) telgraf: iki merkez arasında, kararlaştırılmış işaretlerin yardımıyla yazılı haberlerin veya belgelerin iletimini sağlayan telekomünikasyon düzeni
+TELEGRAPHED	(telegraph sözcüğünün çekimi) (ad) telgraf: iki merkez arasında, kararlaştırılmış işaretlerin yardımıyla yazılı haberlerin veya belgelerin iletimini...
+TELEGRAPHERS	(ad) çoğul çekimi: telegrapher
+TELEGRAPHING	(telegraph sözcüğünün çekimi) (ad) telgraf: iki merkez arasında, kararlaştırılmış işaretlerin yardımıyla yazılı haberlerin veya belgelerin iletimini...
+TELEGRAPHISTS	(ad) çoğul çekimi: telegraphist
+TELEGRAPHS	(telegraph sözcüğünün çekimi) (ad) telgraf: iki merkez arasında, kararlaştırılmış işaretlerin yardımıyla yazılı haberlerin veya belgelerin iletimini...
+TELEMETRIES	(ad) telemetries kelimesinin karşılığı: telemetriler
+TELEMETRY	(ad) telemetry kelimesinin karşılığı: ⟪telemetri|TELEMETRİ⟫
+TELEOLOGIES	(ad) çoğul çekimi: teleology
+TELEOLOGY	(ad) teleology kelimesinin karşılığı: ⟪teleoloji|TELEOLOJİ⟫, erek bilimi
+TELEPATHIC	(sıfat) telepathic kelimesinin karşılığı: ⟪telepatik|TELEPATİK⟫
+TELEPATHIES	(telepathy sözcüğünün çekimi) (ad) telepathy kelimesinin karşılığı: ⟪telepati|TELEPATİ⟫
+TELEPATHY	(ad) telepathy kelimesinin karşılığı: ⟪telepati|TELEPATİ⟫
+TELEPHONE	(ad) telefon: Birbirinden uzakta bulunan kişilerin konuşmasını sağlayan aygıt.\n(eylem) aramak: Birini veya bir şeyi bulmaya çalışmak. (ayrıca: telefon etmek)
+TELEPHONED	(telephone sözcüğünün çekimi) (ad) telefon: Birbirinden uzakta bulunan kişilerin konuşmasını sağlayan aygıt.
+TELEPHONERS	(ad) çoğul çekimi: telephoner
+TELEPHONES	(ad) telephone sözcüğünün çoğul çekimi: telefon
+TELEPHONING	(telephone sözcüğünün çekimi) (ad) telefon: Birbirinden uzakta bulunan kişilerin konuşmasını sağlayan aygıt.
+TELEPHOTOS	(ad) çoğul çekimi: telephoto
+TELEPORTATIONS	(ad) çoğul çekimi: teleportation
+TELEPORTS	(ad) çoğul çekimi: teleport
+TELEPRINTERS	(ad) çoğul çekimi: teleprinter
+TELESCOPE	(ad) teleskop: Sonsuzdaki bir nesnenin gerçek görüntüsünü, içbükey bir aynadan yapılmış merceğinin odak düzleminde veren ve gök bilimiyle ilgili gözlemlerde kullanılan optik aygıt.
+TELESCOPED	(telescope sözcüğünün çekimi) (ad) teleskop: Sonsuzdaki bir nesnenin gerçek görüntüsünü, içbükey bir aynadan yapılmış merceğinin odak düzleminde...
+TELESCOPES	(ad) telescope sözcüğünün çoğul çekimi: teleskop\n(eylem) telescope sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: teleskop
+TELESCOPING	(telescope sözcüğünün çekimi) (ad) teleskop: Sonsuzdaki bir nesnenin gerçek görüntüsünü, içbükey bir aynadan yapılmış merceğinin odak düzleminde...
+TELETYPEWRITERS	(ad) çoğul çekimi: teletypewriter
+TELEVANGELISTS	(ad) çoğul çekimi: televangelist
+TELEVISION	(ad) televizyon: kendisine ulaşan elektrik sinyallerini tekrar görüntü ve sese çevirerek yayınlayan alıcı cihaz
+TELEVISIONS	(ad) çoğul çekimi: television
+TELEX	(ad) teleks: Telsiz ve telem araçlarına uzaktan haber yazdırma düzeni.
+TELEXED	(telex sözcüğünün çekimi) (ad) teleks: Telsiz ve telem araçlarına uzaktan haber yazdırma düzeni.
+TELEXES	(telex sözcüğünün çekimi) (ad) teleks: Telsiz ve telem araçlarına uzaktan haber yazdırma düzeni.
+TELEXING	(telex sözcüğünün çekimi) (ad) teleks: Telsiz ve telem araçlarına uzaktan haber yazdırma düzeni.
+TELL	(eylem) söylemek: bir düşünceyi ileri sürmek, ortaya atmak\n(ad) tell kelimesinin karşılığı: söylenen şey
+TELLERS	(ad) çoğul çekimi: teller
+TELLIES	(ad) çoğul çekimi: telly
+TELLING	(eylem) tell sözcüğünün şimdiki zaman ortaç ve gerund çekimi: söylemek
+TELLS	(eylem) tell sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: söylemek\n(ad) çoğul çekimi: tell
+TELLTALE	(ad) muhbir: yasa dışı olan bir durumu yetkili makamlara bildiren kişi, eleverici, ihbarcı
+TELLTALES	(ad) çoğul çekimi: telltale
+TELLURIDES	(ad) çoğul çekimi: telluride
+TELLURIUM	(ad) tellür: } atom numarası 52 atom ağırlığı 127,60, yoğunluğu 6,24 olan, 450 °C'de eriyen, mavimtırak beyaz renkte bir element (simgesi Te)
+TELLURIUMS	(tellurium sözcüğünün çekimi) (ad) tellür: } atom numarası 52 atom ağırlığı 127,60, yoğunluğu 6,24 olan, 450 °C'de eriyen, mavimtırak beyaz renkte...
+TELLY	(ad) televizyon: kendisine ulaşan elektrik sinyallerini tekrar görüntü ve sese çevirerek yayınlayan alıcı cihaz
+TELLYS	(ad) çoğul çekimi: telly
+TELOMERES	(ad) çoğul çekimi: telomere
+TELOPHASES	(ad) çoğul çekimi: telophase
+TELSONS	(ad) çoğul çekimi: telson
+TEMBLORS	(ad) çoğul çekimi: temblor
+TEMERITIES	(ad) çoğul çekimi: temerity
+TEMPER	(ad) temper kelimesinin karşılığı: ⟪huy|HUY⟫, ruh hali
+TEMPERAMENT	(ad) huy: alışkanlık
+TEMPERAMENTS	(ad) çoğul çekimi: temperament
+TEMPERANCES	(ad) çoğul çekimi: temperance
+TEMPERAS	(ad) çoğul çekimi: tempera
+TEMPERATURE	(ad) sıcaklık: sıcak olan şeyin durumu, etkisi veya sıcak olan in niteliği, hararet
+TEMPERATURES	(ad) çoğul çekimi: temperature
+TEMPERED	(temper sözcüğünün çekimi) (ad) temper kelimesinin karşılığı: ⟪huy|HUY⟫, ruh hali
+TEMPERING	(temper sözcüğünün çekimi) (ad) temper kelimesinin karşılığı: ⟪huy|HUY⟫, ruh hali
+TEMPERS	(ad) çoğul çekimi: temper
+TEMPEST	(ad) fırtına: (mecaz) zıt fikir veya durumların meydana getirdiği karışıklık, sıkıntı
+TEMPESTED	(tempest sözcüğünün çekimi) (ad) fırtına: (mecaz) zıt fikir veya durumların meydana getirdiği karışıklık, sıkıntı
+TEMPESTING	(tempest sözcüğünün çekimi) (ad) fırtına: (mecaz) zıt fikir veya durumların meydana getirdiği karışıklık, sıkıntı
+TEMPESTS	(ad) çoğul çekimi: tempest
+TEMPI	(tempo sözcüğünün çekimi) (ad) tempo: bir müzik parçasındaki bölümlerin hızı
+TEMPLATE	(ad) template kelimesinin karşılığı: ⟪şablon|ŞABLON⟫
+TEMPLATES	(ad) template sözcüğünün çoğul çekimi: şablon
+TEMPLE	(ad) temple kelimesinin karşılığı: ⟪şakak|ŞAKAK⟫
+TEMPLES	(ad) temple sözcüğünün çoğul çekimi: şakak
+TEMPO	(ad) tempo: bir müzik parçasındaki bölümlerin hızı
+TEMPORAL	(sıfat) temporal kelimesinin karşılığı: zamana ait, zamansal
+TEMPORALITIES	(ad) çoğul çekimi: temporality
+TEMPORALS	(temporal sözcüğünün çekimi) (sıfat) temporal kelimesinin karşılığı: zamana ait, zamansal
+TEMPORARIES	(ad) çoğul çekimi: temporary
+TEMPORARY	(sıfat) geçici: çok sürmeyen
+TEMPORIZERS	(ad) çoğul çekimi: temporizer
+TEMPOS	(tempo sözcüğünün çekimi) (ad) tempo: bir müzik parçasındaki bölümlerin hızı
+TEMPT	(eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+TEMPTATIONS	(ad) çoğul çekimi: temptation
+TEMPTED	(tempt sözcüğünün çekimi) (eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+TEMPTERS	(ad) çoğul çekimi: tempter
+TEMPTING	(tempt sözcüğünün çekimi) (eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+TEMPTRESSES	(ad) çoğul çekimi: temptress
+TEMPTS	(tempt sözcüğünün çekimi) (eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+TEN	(sayı) on: dokuzdan sonra, on birden evvel gelen sayı
+TENACES	(ad) çoğul çekimi: tenace
+TENACITIES	(tenacity sözcüğünün çekimi) (ad) tenacity kelimesinin karşılığı: ⟪azim|AZİM⟫
+TENACITY	(ad) tenacity kelimesinin karşılığı: ⟪azim|AZİM⟫
+TENANCIES	(ad) çoğul çekimi: tenancy
+TENANT	(ad) sahip: herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir şekilde dilediği gibi kullanabilen kişi, iye, malik
+TENANTED	(tenant sözcüğünün çekimi) (ad) sahip: herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir şekilde dilediği gibi kullanabilen kişi, iye,...
+TENANTING	(tenant sözcüğünün çekimi) (ad) sahip: herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir şekilde dilediği gibi kullanabilen kişi, iye,...
+TENANTS	(tenant sözcüğünün çekimi) (ad) sahip: herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir şekilde dilediği gibi kullanabilen kişi, iye,...
+TENCH	(ad) tench kelimesinin karşılığı: kadife balığı
+TENCHES	(tench sözcüğünün çekimi) (ad) tench kelimesinin karşılığı: kadife balığı
+TENDENCIES	(ad) tendency sözcüğünün çoğul çekimi: eğilim
+TENDENCY	(ad) eğilim: bir şeyi sevmeye, istemeye veya yapmaya içten yönelme, meyil, temayül
+TENDENTIOUS	(sıfat) tendentious kelimesinin karşılığı: ⟪yanlı|YANLI⟫, ⟪taraflı|TARAFLI⟫, ⟪maksatlı|MAKSATLI⟫
+TENDER	(ad) tender kelimesinin karşılığı: ⟪tender|TENDER⟫\n(sıfat) tender kelimesinin karşılığı: ⟪koruyucu|KORUYUCU⟫
+TENDERED	(tender sözcüğünün çekimi) (ad) tender kelimesinin karşılığı: ⟪tender|TENDER⟫
+TENDERER	(tender sözcüğünün çekimi) (ad) tender kelimesinin karşılığı: ⟪tender|TENDER⟫
+TENDEREST	(tender sözcüğünün çekimi) (ad) tender kelimesinin karşılığı: ⟪tender|TENDER⟫
+TENDERFEET	(ad) çoğul çekimi: tenderfoot
+TENDERING	(tender sözcüğünün çekimi) (ad) tender kelimesinin karşılığı: ⟪tender|TENDER⟫
+TENDERIZERS	(ad) çoğul çekimi: tenderizer
+TENDERLOINS	(ad) çoğul çekimi: tenderloin
+TENDERNESSES	(ad) çoğul çekimi: tenderness
+TENDERS	(ad) çoğul çekimi: tender
+TENDON	(ad) kiriş: kasların uçlarında [bulunmak|bulunan]], kasları kemiklere ve başka organlara bağlayan beyazımsı kordon, tendon (ayrıca: tendon)
+TENDONS	(ad) çoğul çekimi: tendon
+TENDRIL	(ad) asma filizi; bitkinin destek için etrafındaki nesnelere tutunmasını sağlayan filizi
+TENDRILS	(ad) çoğul çekimi: tendril
+TENEMENTS	(ad) çoğul çekimi: tenement
+TENET	(ad) itikat: inanç (ayrıca: inanç)
+TENETS	(ad) tenet sözcüğünün çoğul çekimi: inanç, itikat
+TENNERS	(ad) çoğul çekimi: tenner
+TENNIS	(ad) alan topu: Tenis. (ayrıca: tenis)
+TENNISES	(tennis sözcüğünün çekimi) (ad) alan topu: Tenis. (ayrıca: tenis)
+TENONS	(ad) çoğul çekimi: tenon
+TENOR	(ad) tenor kelimesinin karşılığı: söylem biçemi
+TENORS	(ad) çoğul çekimi: tenor
+TENPINS	(ad) çoğul çekimi: tenpin
+TENRECS	(ad) çoğul çekimi: tenrec
+TENS	(ad) çoğul çekimi: ten
+TENSE	(sıfat) tense kelimesinin karşılığı: ⟪gergin|GERGİN⟫\n(ad) zaman: Bir işe ayrılmış veya bir iş için alışılmış saatler; vakit.
+TENSED	(tense sözcüğünün çekimi) (sıfat) tense kelimesinin karşılığı: ⟪gergin|GERGİN⟫
+TENSENESS	(ad) tenseness kelimesinin karşılığı: ⟪gerginlik|GERGİNLİK⟫
+TENSENESSES	(tenseness sözcüğünün çekimi) (ad) tenseness kelimesinin karşılığı: ⟪gerginlik|GERGİNLİK⟫
+TENSER	(tense sözcüğünün çekimi) (sıfat) tense kelimesinin karşılığı: ⟪gergin|GERGİN⟫
+TENSES	(ad) çoğul çekimi: tense
+TENSEST	(tense sözcüğünün çekimi) (sıfat) tense kelimesinin karşılığı: ⟪gergin|GERGİN⟫
+TENSING	(tense sözcüğünün çekimi) (sıfat) tense kelimesinin karşılığı: ⟪gergin|GERGİN⟫
+TENSIOMETERS	(ad) çoğul çekimi: tensiometer
+TENSION	(ad) gerilim: gerginlik, tansiyon (ayrıca: tansiyon, gerilme)
+TENSIONER	(tension sözcüğünün çekimi) (ad) gerilim: gerginlik, tansiyon (ayrıca: tansiyon, gerilme)
+TENSIONING	(tension sözcüğünün çekimi) (ad) gerilim: gerginlik, tansiyon (ayrıca: tansiyon, gerilme)
+TENSIONS	(tension sözcüğünün çekimi) (ad) gerilim: gerginlik, tansiyon (ayrıca: tansiyon, gerilme)
+TENSOR	(ad) tensor kelimesinin karşılığı: tensör
+TENSORS	(ad) çoğul çekimi: tensor
+TENT	(ad) çadır: Gölgelik olarak kullanılan tente veya şemsiye.
+TENTACLE	(ad) tentacle kelimesinin karşılığı: ⟪dokunaç|DOKUNAÇ⟫
+TENTACLES	(ad) çoğul çekimi: tentacle
+TENTED	(tent sözcüğünün çekimi) (ad) çadır: Gölgelik olarak kullanılan tente veya şemsiye.
+TENTERHOOKS	(ad) çoğul çekimi: tenterhook
+TENTERS	(ad) çoğul çekimi: tenter
+TENTH	(sıfat) onuncu: on sayısının sıra sıfatı, sırada dokuzuncudan sonra gelen
+TENTHS	(ad) çoğul çekimi: tenth
+TENTING	(tent sözcüğünün çekimi) (ad) çadır: Gölgelik olarak kullanılan tente veya şemsiye.
+TENTS	(ad) çoğul çekimi: tent
+TENUOUS	(sıfat) ince: tiz. (ayrıca: çok zayıf)
+TEPEES	(ad) çoğul çekimi: tepee
+TEPID	(ad) tepid kelimesinin karşılığı: ⟪ılık|ILIK⟫
+TERAPHIM	(ad) çoğul çekimi: teraph
+TERATOGEN	(ad) teratogen kelimesinin karşılığı: teratojen
+TERATOGENIC	(ad) teratojenik: Kusurlu organ veya doku oluşmasına sebep olan, fetüs'te oluşum bozukluğu yaratan.
+TERATOGENS	(ad) çoğul çekimi: teratogen
+TERATOMAS	(ad) çoğul çekimi: teratoma
+TERBIUM	(ad) terbium kelimesinin karşılığı: ⟪terbiyum|TERBİYUM⟫
+TERBIUMS	(terbium sözcüğünün çekimi) (ad) terbium kelimesinin karşılığı: ⟪terbiyum|TERBİYUM⟫
+TERCELETS	(ad) çoğul çekimi: tercelet
+TERCELS	(ad) çoğul çekimi: tercel
+TERCENTENNIALS	(ad) çoğul çekimi: tercentennial
+TERCES	(ad) çoğul çekimi: terce
+TEREPHTHALATES	(ad) çoğul çekimi: terephthalate
+TERM	(ad) terim: bir bilim, sanat, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan kelime
+TERMAGANTS	(ad) çoğul çekimi: termagant
+TERMED	(term sözcüğünün çekimi) (ad) terim: bir bilim, sanat, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan kelime
+TERMINAL	(ad) terminal kelimesinin karşılığı: duralga
+TERMINALS	(ad) çoğul çekimi: terminal
+TERMINATED	(eylem) terminate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+TERMINATION	(ad) termination kelimesinin karşılığı: çekim eki
+TERMINATIONS	(ad) çoğul çekimi: termination
+TERMINATIVE	(ad) terminative kelimesinin karşılığı: varış durumu
+TERMINATIVELY	(terminative sözcüğünün çekimi) (ad) terminative kelimesinin karşılığı: varış durumu
+TERMINATOR	(ad) terminatör: öldüren
+TERMINATORS	(ad) çoğul çekimi: terminator
+TERMING	(term sözcüğünün çekimi) (ad) terim: bir bilim, sanat, meslek dalıyla veya bir konu ile ilgili özel ve belirli bir kavramı karşılayan kelime
+TERMINOLOGIES	(ad) çoğul çekimi: terminology
+TERMINOLOGY	(ad) terimbilim: Belirli bir meslek, bilim ya da uygulama alanında sözlü va yazılı iletişimde kullanılan kavramları inceleyen bilim dalı. (ayrıca: terminoloji, terimbilgisi)
+TERMINUSES	(ad) çoğul çekimi: terminus
+TERMITE	(ad) termite kelimesinin karşılığı: ⟪akkarınca|AKKARINCA⟫, ⟪termit|TERMİT⟫, ⟪divik|DİVİK⟫
+TERMITES	(termite sözcüğünün çekimi) (ad) termite kelimesinin karşılığı: ⟪akkarınca|AKKARINCA⟫, ⟪termit|TERMİT⟫, ⟪divik|DİVİK⟫
+TERMS	(ad) terms kelimesinin karşılığı: ⟪terimler|TERİMLER⟫
+TERNS	(ad) çoğul çekimi: tern
+TERPENES	(ad) çoğul çekimi: terpene
+TERRA	(ad) Ay'ın nispeten yüksek albedosu olan pürüzlü yaylası veya dağlık bölgesi.
+TERRACE	(ad) teras: eğimli arazilerde ziraat amacıyla oluşturulmuş düz alanlardan, basamaklardan herbiri
+TERRACED	(terrace sözcüğünün çekimi) (ad) teras: eğimli arazilerde ziraat amacıyla oluşturulmuş düz alanlardan, basamaklardan herbiri
+TERRACES	(ad) çoğul çekimi: terrace
+TERRACING	(terrace sözcüğünün çekimi) (ad) teras: eğimli arazilerde ziraat amacıyla oluşturulmuş düz alanlardan, basamaklardan herbiri
+TERRAIN	(ad) terrain kelimesinin karşılığı: ⟪arazi|ARAZİ⟫
+TERRAINS	(terrain sözcüğünün çekimi) (ad) terrain kelimesinin karşılığı: ⟪arazi|ARAZİ⟫
+TERRAPINS	(ad) çoğul çekimi: terrapin
+TERRESTRIALS	(ad) çoğul çekimi: terrestrial
+TERRIBLE	(sıfat) korkunç: çok korkulu, korku veren, dehşete düşüren, müthiş
+TERRIER	(ad) terrier kelimesinin karşılığı: teriyer
+TERRIERS	(terrier sözcüğünün çekimi) (ad) terrier kelimesinin karşılığı: teriyer
+TERRINES	(ad) çoğul çekimi: terrine
+TERRITORIES	(ad) çoğul çekimi: territory
+TERROR	(ad) terror kelimesinin karşılığı: korkutucu olay
+TERRORISM	(ad) terrorism kelimesinin karşılığı: ⟪terörizm|TERÖRİZM⟫
+TERRORISMS	(terrorism sözcüğünün çekimi) (ad) terrorism kelimesinin karşılığı: ⟪terörizm|TERÖRİZM⟫
+TERRORIST	(ad) terörist: Kurulu düzene karşı silahlı faaliyetlerde bulunarak, halk içinde karışıklık çıkarmak için çalışan kişi
+TERRORISTS	(ad) çoğul çekimi: terrorist
+TERRORS	(ad) terror sözcüğünün çoğul çekimi: korkutucu olay
+TERTIANS	(ad) çoğul çekimi: tertian
+TERTIARIES	(tertiary sözcüğünün çekimi) (ad) tertiary kelimesinin karşılığı: ⟪tersiyer|TERSİYER⟫
+TERTIARY	(ad) tertiary kelimesinin karşılığı: ⟪tersiyer|TERSİYER⟫
+TESSERACTS	(ad) çoğul çekimi: tesseract
+TEST	(ad) test: bir kişinin, bir topluluğun doğal veya sonradan kazanılmış yeteneklerini, bilgi ve becerilerini ölçmeye ve anlamaya yarayan sınama (ayrıca: sınavtest)
+TESTED	(test sözcüğünün çekimi) (ad) test: bir kişinin, bir topluluğun doğal veya sonradan kazanılmış yeteneklerini, bilgi ve becerilerini ölçmeye ve...
+TESTEE	(ad) testee kelimesinin karşılığı: sınanan
+TESTEES	(ad) çoğul çekimi: testee
+TESTERS	(ad) çoğul çekimi: tester
+TESTICLE	(ad) testicle kelimesinin karşılığı: er bezi, ⟪husye|HUSYE⟫, ⟪haya|HAYA⟫, taşak
+TESTICLES	(ad) çoğul çekimi: testicle
+TESTIFIERS	(ad) çoğul çekimi: testifier
+TESTIMONIALS	(ad) çoğul çekimi: testimonial
+TESTIMONIES	(ad) çoğul çekimi: testimony
+TESTIMONY	(ad) tanıklık: Tanık olma durumu veya tanığın yaptığı iş, şahitlik (ayrıca: şahitlik)
+TESTING	(ad) test: bir kişinin, bir topluluğun doğal veya sonradan kazanılmış yeteneklerini, bilgi ve becerilerini ölçmeye ve anlamaya yarayan sınama
+TESTS	(ad) test sözcüğünün çoğul çekimi: test, sınavtest\n(eylem) test sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: test, sınavtest
+TETANUS	(ad) tetanus kelimesinin karşılığı: ⟪tetanos|TETANOS⟫
+TETANUSES	(tetanus sözcüğünün çekimi) (ad) tetanus kelimesinin karşılığı: ⟪tetanos|TETANOS⟫
+TETHERED	(sıfat) tethered kelimesinin karşılığı: ⟪bağlı|BAĞLI⟫, ipe bağlı, ⟪bağlanmış|BAĞLANMIŞ⟫
+TETRACHLORIDES	(ad) çoğul çekimi: tetrachloride
+TETRAGONS	(ad) çoğul çekimi: tetragon
+TETRAHEDRA	(tetrahedron sözcüğünün çekimi) (ad) tetrahedron kelimesinin karşılığı: dört yüzlü
+TETRAHEDRON	(ad) tetrahedron kelimesinin karşılığı: dört yüzlü
+TETRAHEDRONS	(ad) çoğul çekimi: tetrahedron
+TETRALOGIES	(ad) çoğul çekimi: tetralogy
+TETRAPODS	(ad) çoğul çekimi: tetrapod
+TETRAS	(ad) çoğul çekimi: tetra
+TETROXIDES	(ad) çoğul çekimi: tetroxide
+TETTERS	(ad) çoğul çekimi: tetter
+TEXT	(ad) metin: bir yazıyı biçim, anlatım ve noktalama özellikleriyle oluşturan kelimelerin bütünü, tekst
+TEXTBOOK	(ad) textbook kelimesinin karşılığı: ders kitabı
+TEXTBOOKS	(ad) çoğul çekimi: textbook
+TEXTILE	(ad) dokuma: tekstil
+TEXTILES	(textile sözcüğünün çekimi) (ad) dokuma: tekstil
+TEXTS	(ad) çoğul çekimi: text
+TEXTUALLY	(zarf) textually kelimesinin karşılığı: düzyazı gibi, metinsel, ⟪tokuş|TOKUŞ⟫
+TEXTURE	(ad) doku: bir bütünün yapısı ve özelliği tekstil endüstrisinde doku
+TEXTURES	(texture sözcüğünün çekimi) (ad) doku: bir bütünün yapısı ve özelliği tekstil endüstrisinde doku
+TEXTURING	(texture sözcüğünün çekimi) (ad) doku: bir bütünün yapısı ve özelliği tekstil endüstrisinde doku
+THALASSEMIAS	(ad) çoğul çekimi: thalassemia
+THALLIUM	(ad) thallium kelimesinin karşılığı: ⟪talyum|TALYUM⟫
+THALLIUMS	(thallium sözcüğünün çekimi) (ad) thallium kelimesinin karşılığı: ⟪talyum|TALYUM⟫
+THALLOPHYTES	(ad) çoğul çekimi: thallophyte
+THAN	(edat) iki şey arasında karşılaştırma yaparken kullanılır; -dan
+THANE	(ad) kral tarafından toprak sahibi yapılan ve soylular ile sıradan vatandaşlar arasında yer alan kimse.
+THANES	(ad) çoğul çekimi: thane
+THANK	(eylem) thank kelimesinin karşılığı: teşekkür etmek
+THANKED	(eylem) thank sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: teşekkür etmek
+THANKER	(thank sözcüğünün çekimi) (eylem) thank kelimesinin karşılığı: teşekkür etmek
+THANKING	(eylem) thank sözcüğünün şimdiki zaman ortaç ve gerund çekimi: teşekkür etmek
+THANKS	(ünlem) thanks kelimesinin karşılığı: ⟪teşekkürler|TEŞEKKÜRLER⟫\n(ad) teşekkür: teşekkürname
+THANKSGIVINGS	(ad) çoğul çekimi: thanksgiving
+THAT	(zamir) daha önceden bahsi geçmiş bir şeyden bahsederken kullanılır.\n(bağlaç) birbiriyle ilişkili cümleleri bağlamakta kullanılır.
+THATCHERS	(ad) çoğul çekimi: thatcher
+THAWS	(ad) çoğul çekimi: thaw
+THE	(edat) daha önce bahsi geçmiş veya görülmüş, yaşanmış bir şeyin herkesçe bilindiğini belirtir. Örneğin bana "bana bir elma ver" yerine, "bana elmayı ver" gibi. Hangi elmadan bahsedildiği herkesçe malumdur ("a" ve "an" ile karşılaştırınız)
+THEATER	(ad) tiyatro: drama, komedi, vodvil v.s. edebiyat türlerinin oynandığı yer
+THEATERS	(ad) theater sözcüğünün çoğul çekimi: tiyatro
+THEATRE	(ad) tiyatro: drama, komedi, vodvil v.s. edebiyat türlerinin oynandığı yer
+THEATRES	(ad) çoğul çekimi: theatre
+THEATRICALS	(ad) çoğul çekimi: theatrical
+THEE	(zamir) thee kelimesinin karşılığı: ⟪seni|SENİ⟫
+THEFT	(ad) hırsızlık: çalma, arakçılık, sirkat (ayrıca: çalma, arakçılık)
+THEFTS	(ad) çoğul çekimi: theft
+THEIR	(zamir) onların. 3. çoğul şahıslar için iyelik zamiri, onların ...-sı
+THEIRS	(zamir) onlara ait olan, onlarınki, onlarınkiler
+THEISM	(ad) teizm: Kâinat’ı yaratan ve sürekli olarak işleyişine müdahale eden tanrı veya tanrıların varlığına duyulan inanç (ayrıca: tanrıcılık)
+THEISMS	(ad) çoğul çekimi: theism
+THEIST	(ad) tanrıcı: Kâinat'ı yaratan ve yöneten bir veya birçok tanrının varlığına inanan kimse, teist]
+THEISTS	(ad) çoğul çekimi: theist
+THEM	(zamir) onlar: (kişi adılı): o zamirinin çoğulu (ayrıca: onları, onlara)\n(sıfat) them kelimesinin karşılığı: şu
+THEMATIC	(sıfat) tematik: Bir tema etrafında oluşan
+THEMATICS	(thematic sözcüğünün çekimi) (sıfat) tematik: Bir tema etrafında oluşan
+THEME	(ad) tema: Asıl konu, temel motif; ana konu.
+THEMED	(theme sözcüğünün çekimi) (ad) tema: Asıl konu, temel motif; ana konu.
+THEMES	(ad) çoğul çekimi: theme
+THEMING	(theme sözcüğünün çekimi) (ad) tema: Asıl konu, temel motif; ana konu.
+THEMSELVES	(zamir) (3. çoğul şahıs için: kendi, kendileri, kendilerine, kendilerinde, kendilerinden)
+THEN	(zarf) then kelimesinin karşılığı: -sa/-se, bu durumda, bu hâlde
+THENARS	(ad) çoğul çekimi: thenar
+THENCE	(zarf) böylece: tam böyle, bu biçimde
+THENS	(then sözcüğünün çekimi) (zarf) then kelimesinin karşılığı: -sa/-se, bu durumda, bu hâlde
+THEOCRACIES	(ad) çoğul çekimi: theocracy
+THEOCRACY	(ad) teokrasi: Siyasi iktidarın, Tanrı'nın temsilcileri olduklarına inanılan din adamlarının elinde bulunduğu toplumsal, siyasi düzen
+THEOCRATIC	(sıfat) theocratic kelimesinin karşılığı: ⟪teokratik|TEOKRATİK⟫
+THEOCRATS	(ad) çoğul çekimi: theocrat
+THEODICIES	(theodicy sözcüğünün çekimi) (ad) theodicy kelimesinin karşılığı: ⟪teodise|TEODİSE⟫
+THEODICY	(ad) theodicy kelimesinin karşılığı: ⟪teodise|TEODİSE⟫
+THEODOLITE	(ad) teodolit: topoğrafyada gerek yatay gerek düşey açıların ölçülmesine yarayan alet
+THEODOLITES	(ad) çoğul çekimi: theodolite
+THEOLOGIAN	(ad) ilahiyatçı: tanrı bilimci, teolog (ayrıca: tanrı bilimci, teolog)
+THEOLOGIANS	(ad) çoğul çekimi: theologian
+THEOLOGIES	(theology sözcüğünün çekimi) (ad) theology kelimesinin karşılığı: ⟪teoloji|TEOLOJİ⟫
+THEOLOGUES	(ad) çoğul çekimi: theologue
+THEOLOGY	(ad) theology kelimesinin karşılığı: ⟪teoloji|TEOLOJİ⟫
+THEOPHANIES	(ad) çoğul çekimi: theophany
+THEORBOS	(ad) çoğul çekimi: theorbo
+THEOREM	(ad) theorem kelimesinin karşılığı: ⟪teorem|TEOREM⟫
+THEOREMS	(ad) çoğul çekimi: theorem
+THEORETIC	(sıfat) kuramsal: Kuramla ilgili, kuram durumunda bulunan, kuram niteliğinde olan, uygulamalı karşıtı; nazarî, teorik.
+THEORETICAL	(sıfat) kuramsal: Kuramla ilgili, kuram durumunda bulunan, kuram niteliğinde olan, uygulamalı karşıtı; nazarî, teorik.
+THEORETICIAN	(ad) kuramcı: kuram ortaya koyan kişi, kurama bağlı olan kişi, teorisyen (ayrıca: teorisyen)
+THEORETICIANS	(ad) çoğul çekimi: theoretician
+THEORIES	(ad) theory sözcüğünün çoğul çekimi: kuram, nazariye, teori
+THEORIST	(ad) kuramcı: kuram ortaya koyan kişi, kurama bağlı olan kişi, teorisyen (ayrıca: teorisyen)
+THEORISTS	(ad) çoğul çekimi: theorist
+THEORY	(ad) kuram: istemli biçimde düzenlenmiş birçok olayı açıklayan ve bir bilime temel olan kurallar, yasalar bütünü, nazariye, teori (ayrıca: nazariye, teori)
+THEOSOPHIES	(theosophy sözcüğünün çekimi) (ad) teozofi: Kaynağını Hint mistisizminin insan ile kâinat ve Tanrı arasındaki ilişkileri açıklayan bakış açısından...
+THEOSOPHIST	(ad) teozof: teozofi konusunda derin bilgi sahibi olan kimse
+THEOSOPHISTS	(ad) çoğul çekimi: theosophist
+THEOSOPHY	(ad) teozofi: Kaynağını Hint mistisizminin insan ile kâinat ve Tanrı arasındaki ilişkileri açıklayan bakış açısından almış, bir yandan okült, diğer yandan da Doğu ananeleri üzerine kurulmuş ve ezoterik bilgilerden faydalanan felsefi sistem.
+THERAPEUTIC	(ad) therapeutic kelimesinin karşılığı: tedavi edici
+THERAPIES	(ad) çoğul çekimi: therapy
+THERAPIST	(ad) terapist: tedavici
+THERAPISTS	(ad) çoğul çekimi: therapist
+THERAPY	(ad) therapy kelimesinin karşılığı: ⟪terapi|TERAPİ⟫
+THERE	(ad) there kelimesinin karşılığı: bulunmakta, ⟪var|VAR⟫, ⟪mevcut|MEVCUT⟫\n(ünlem) birinin dikkatini çekmek için kullanılır; hey, kimse yok mu vs.
+THEREFOR	(zarf) therefor kelimesinin karşılığı: bunun için
+THEREFORE	(zarf) binaenaleyh: dolayısıyla (ayrıca: bu nedenle, bu sebeple)
+THEREMINS	(ad) çoğul çekimi: theremin
+THERES	(there sözcüğünün çekimi) (ad) there kelimesinin karşılığı: bulunmakta, ⟪var|VAR⟫, ⟪mevcut|MEVCUT⟫
+THERMAL	(sıfat) thermal kelimesinin karşılığı: ⟪termal|TERMAL⟫
+THERMALS	(ad) çoğul çekimi: thermal
+THERMIC	(sıfat) thermic kelimesinin karşılığı: ısıl, ⟪termik|TERMİK⟫
+THERMIONS	(ad) çoğul çekimi: thermion
+THERMISTORS	(ad) çoğul çekimi: thermistor
+THERMOCOUPLE	(ad) thermocouple kelimesinin karşılığı: sıcaklık sensörü
+THERMOCOUPLES	(thermocouple sözcüğünün çekimi) (ad) thermocouple kelimesinin karşılığı: sıcaklık sensörü
+THERMODYNAMICS	(ad) ısıldevimbilim: enerji, ısı, iş, entropi ve ekserji gibi fiziksel kavramlarla ilgilenen bilim dalı, termodinamik (ayrıca: termodinamik)
+THERMOMETER	(ad) thermometer kelimesinin karşılığı: ⟪termometre|TERMOMETRE⟫
+THERMOMETERS	(ad) çoğul çekimi: thermometer
+THERMONUCLEAR	(ad) thermonuclear kelimesinin karşılığı: termonükleer bomba\n(sıfat) thermonuclear kelimesinin karşılığı: ⟪termonükleer|TERMONÜKLEER⟫
+THERMOPILES	(ad) çoğul çekimi: thermopile
+THERMOPLASTIC	(ad) thermoplastic kelimesinin karşılığı: termoplastik
+THERMOPLASTICS	(thermoplastic sözcüğünün çekimi) (ad) thermoplastic kelimesinin karşılığı: termoplastik
+THERMOSTABLE	(ad) thermostable kelimesinin karşılığı: ısıya dayanıklı
+THERMOSTAT	(ad) thermostat kelimesinin karşılığı: ⟪termostat|TERMOSTAT⟫
+THERMOSTATED	(thermostat sözcüğünün çekimi) (ad) thermostat kelimesinin karşılığı: ⟪termostat|TERMOSTAT⟫
+THERMOSTATING	(thermostat sözcüğünün çekimi) (ad) thermostat kelimesinin karşılığı: ⟪termostat|TERMOSTAT⟫
+THERMOSTATS	(thermostat sözcüğünün çekimi) (ad) thermostat kelimesinin karşılığı: ⟪termostat|TERMOSTAT⟫
+THERMOSTATTED	(thermostat sözcüğünün çekimi) (ad) thermostat kelimesinin karşılığı: ⟪termostat|TERMOSTAT⟫
+THERMOSTATTING	(thermostat sözcüğünün çekimi) (ad) thermostat kelimesinin karşılığı: ⟪termostat|TERMOSTAT⟫
+THERMOTROPISMS	(ad) çoğul çekimi: thermotropism
+THERMS	(ad) çoğul çekimi: therm
+THESAURI	(ad) çoğul çekimi: thesaurus
+THESAURUS	(ad) thesaurus kelimesinin karşılığı: kavram dizini
+THESAURUSES	(ad) çoğul çekimi: thesaurus
+THESE	(zamir) (işaret adılı): this adılının çoğulu, bunlar.\n(sıfat) this sıfatının çoğulu, bu. (Türkçe'de bu sıfatı hem tekil, hem çoğul varlıklar için kullanılır.)
+THESES	(ad) çoğul çekimi: thesis
+THESIS	(ad) thesis kelimesinin karşılığı: ⟪tez|TEZ⟫
+THESPIANS	(ad) çoğul çekimi: thespian
+THEURGISTS	(ad) çoğul çekimi: theurgist
+THEWS	(ad) çoğul çekimi: thew
+THEY	(zamir) onlar: (kişi adılı): o zamirinin çoğulu
+THIAMINE	(ad) thiamine kelimesinin karşılığı: tiyamin
+THIAMINES	(ad) thiamine sözcüğünün çoğul çekimi: tiyamin
+THICK	(sıfat) thick kelimesinin karşılığı: ⟪kalın|KALIN⟫
+THICKEN	(eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek (ayrıca: kalınlaştırmak, teksif etmek)
+THICKENED	(thicken sözcüğünün çekimi) (eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek (ayrıca: kalınlaştırmak, teksif etmek)
+THICKENING	(ad) koyulaştırma: koyulaştırmak işi
+THICKENINGS	(thicken sözcüğünün çekimi) (eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek (ayrıca: kalınlaştırmak, teksif etmek)
+THICKENS	(thicken sözcüğünün çekimi) (eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek (ayrıca: kalınlaştırmak, teksif etmek)
+THICKER	(thick sözcüğünün çekimi) (sıfat) thick kelimesinin karşılığı: ⟪kalın|KALIN⟫
+THICKEST	(thick sözcüğünün çekimi) (sıfat) thick kelimesinin karşılığı: ⟪kalın|KALIN⟫
+THICKET	(ad) thicket kelimesinin karşılığı: sık ağaçlık, sık çalılık
+THICKETED	(thicket sözcüğünün çekimi) (ad) thicket kelimesinin karşılığı: sık ağaçlık, sık çalılık
+THICKETS	(ad) çoğul çekimi: thicket
+THICKISH	(sıfat) thickish kelimesinin karşılığı: ⟪kıvamlı|KIVAMLI⟫
+THICKNESS	(ad) kalınlık: Cisimlerde uzunluk ve genişlik dışında üçüncü boyut.
+THICKNESSES	(ad) çoğul çekimi: thickness
+THICKS	(thick sözcüğünün çekimi) (sıfat) thick kelimesinin karşılığı: ⟪kalın|KALIN⟫
+THIEF	(ad) hırsız: başkasının malını çalan kimse, uğru (ayrıca: uğru)
+THIEVE	(eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: hırsızlık etmek, aşırmak)
+THIEVED	(thieve sözcüğünün çekimi) (eylem) çalmak: başkasının malını gizlice almak, hırsızlık etmek, aşırmak (ayrıca: hırsızlık etmek, aşırmak)
+THIEVES	(thief sözcüğünün çekimi) (ad) hırsız: başkasının malını çalan kimse, uğru (ayrıca: uğru)
+THIEVING	(ad) thieving kelimesinin karşılığı: ⟪çalma|ÇALMA⟫
+THIGH	(ad) but: İnsan vücudunun kalça ile diz arasındaki bölümü; uyluk. (ayrıca: uyluk)
+THIGHED	(thigh sözcüğünün çekimi) (ad) but: İnsan vücudunun kalça ile diz arasındaki bölümü; uyluk. (ayrıca: uyluk)
+THIGHS	(ad) çoğul çekimi: thigh
+THIMBLE	(ad) kefne: çuvaldız veya kalın iğne ile iş işleyen kişinin eline geçirdiği demirli kayış, yüksük (ayrıca: yüksük)
+THIMBLEBERRIES	(ad) çoğul çekimi: thimbleberry
+THIMBLEFULS	(ad) çoğul çekimi: thimbleful
+THIMBLERIGS	(ad) çoğul çekimi: thimblerig
+THIMBLES	(ad) çoğul çekimi: thimble
+THIN	(sıfat) ince: tiz.
+THINE	(zamir) thine kelimesinin karşılığı: seninki
+THING	(ad) nesne: fiziksel nesne, şey veya nesne, belirli bir kütlesi ve hacmi olan her türlü cansız varlık, fiziksel cisim, veya fiziksel obje (ayrıca: cisim)
+THINGAMABOBS	(ad) çoğul çekimi: thingamabob
+THINGAMAJIGS	(ad) çoğul çekimi: thingamajig
+THINK	(eylem) düşünmek: aklından geçirmek, göz önüne getirmek
+THINKER	(ad) düşünür: genel sorunlar üzerine yeni ve kendine özgü düşünceleri olan kimse, düşünücü, mütefekkir
+THINKERS	(ad) çoğul çekimi: thinker
+THINKING	(ad) tefekkür: düşünme, düşünüş (ayrıca: düşünme, addetme)
+THINKINGLY	(think sözcüğünün çekimi) (eylem) düşünmek: aklından geçirmek, göz önüne getirmek
+THINKINGS	(think sözcüğünün çekimi) (eylem) düşünmek: aklından geçirmek, göz önüne getirmek
+THINKS	(ad) çoğul çekimi: think
+THINNED	(thin sözcüğünün çekimi) (sıfat) ince: tiz.
+THINNER	(thin sözcüğünün çekimi) (sıfat) ince: tiz.
+THINNERS	(ad) çoğul çekimi: thinner
+THINNESS	(ad) thinness kelimesinin karşılığı: ⟪incelik|İNCELİK⟫
+THINNESSES	(thinness sözcüğünün çekimi) (ad) thinness kelimesinin karşılığı: ⟪incelik|İNCELİK⟫
+THINNEST	(thin sözcüğünün çekimi) (sıfat) ince: tiz.
+THINNING	(thin sözcüğünün çekimi) (sıfat) ince: tiz.
+THINS	(ad) çoğul çekimi: thin
+THIRD	(sıfat) üçüncü: üç sayısının sıra ön adı, sırada ikinciden sonra gelen
+THIRDS	(ad) çoğul çekimi: third
+THIRLS	(ad) çoğul çekimi: thirl
+THIRST	(ad) thirst kelimesinin karşılığı: ⟪susuzluk|SUSUZLUK⟫\n(eylem) susamak: su içme gereksinimi duymak. (ayrıca: susuz olmak)
+THIRSTED	(thirst sözcüğünün çekimi) (ad) thirst kelimesinin karşılığı: ⟪susuzluk|SUSUZLUK⟫
+THIRSTIER	(thirsty sözcüğünün çekimi) (sıfat) susuz: Suyu olmayan, suyu bulunmayan. (ayrıca: susamış)
+THIRSTIEST	(thirsty sözcüğünün çekimi) (sıfat) susuz: Suyu olmayan, suyu bulunmayan. (ayrıca: susamış)
+THIRSTING	(thirst sözcüğünün çekimi) (ad) thirst kelimesinin karşılığı: ⟪susuzluk|SUSUZLUK⟫
+THIRSTS	(ad) thirst sözcüğünün çoğul çekimi: susuzluk
+THIRSTY	(sıfat) susuz: Suyu olmayan, suyu bulunmayan. (ayrıca: susamış)
+THIRTEEN	(sayı) thirteen kelimesinin karşılığı: on üç
+THIRTEENS	(ad) çoğul çekimi: thirteen
+THIRTEENTH	(sıfat) thirteenth kelimesinin karşılığı: on üçüncü
+THIRTEENTHS	(ad) çoğul çekimi: thirteenth
+THIRTIES	(ad) çoğul çekimi: thirty
+THIRTIETH	(sıfat) otuzuncu: otuz sayısının sıra sıfatı; sırada yirmi dokuzuncudan sonra gelen
+THIRTIETHS	(ad) çoğul çekimi: thirtieth
+THIRTY	(sayı) thirty kelimesinin karşılığı: ⟪otuz|OTUZ⟫
+THIS	(zamir) this kelimesinin karşılığı: : bu
+THISTLE	(ad) deve dikeni: bileşikgillerden, yaprakları dikenli, yol ve tarla kenarlarında yetişen, 30–100 cm yükseklikte, 1-2 yıllık, çeşitli türleri içine alan otsu bir kır bitkisi; kangal, karayandık, meryemana dikeni, peygamber dikeni, sütlü kengel, genger (Silybum marianum).
+THISTLES	(ad) çoğul çekimi: thistle
+THITHER	(zarf) orada: işaret edilen görece olarak uzak yerde (ayrıca: oraya)
+THO	(edat) (eski) the'nın çoğul hali.\n(zamir) tho kelimesinin karşılığı: ⟪onlar|ONLAR⟫
+THOLES	(ad) çoğul çekimi: thole
+THONGS	(ad) çoğul çekimi: thong
+THORACES	(ad) çoğul çekimi: thorax
+THORAX	(ad) thorax kelimesinin karşılığı: göğüs kafesi, ⟪toraks|TORAKS⟫
+THORAXES	(thorax sözcüğünün çekimi) (ad) thorax kelimesinin karşılığı: göğüs kafesi, ⟪toraks|TORAKS⟫
+THORIUM	(ad) thorium kelimesinin karşılığı: ⟪toryum|TORYUM⟫
+THORIUMS	(thorium sözcüğünün çekimi) (ad) thorium kelimesinin karşılığı: ⟪toryum|TORYUM⟫
+THORN	(ad) thorn kelimesinin karşılığı: ⟪diken|DİKEN⟫
+THORNED	(thorn sözcüğünün çekimi) (ad) thorn kelimesinin karşılığı: ⟪diken|DİKEN⟫
+THORNIER	(thorny sözcüğünün çekimi) (sıfat) iğneli: iğne ile tutturulmuş, iğnelenmiş
+THORNIEST	(thorny sözcüğünün çekimi) (sıfat) iğneli: iğne ile tutturulmuş, iğnelenmiş
+THORNILY	(thorny sözcüğünün çekimi) (sıfat) iğneli: iğne ile tutturulmuş, iğnelenmiş
+THORNING	(thorn sözcüğünün çekimi) (ad) thorn kelimesinin karşılığı: ⟪diken|DİKEN⟫
+THORNS	(ad) çoğul çekimi: thorn
+THORNY	(sıfat) iğneli: iğne ile tutturulmuş, iğnelenmiş
+THOROUGHBREDS	(ad) çoğul çekimi: thoroughbred
+THOROUGHFARES	(ad) çoğul çekimi: thoroughfare
+THOROUGHLY	(zarf) derinlemesine: ayrıntılı olarak, derinliğine, uzun (ayrıca: adamakıllı)
+THOROUGHWORTS	(ad) çoğul çekimi: thoroughwort
+THORPES	(ad) çoğul çekimi: thorpe
+THOSE	(zamir) şunlar: (işaret adılı): şu zamirinin çoğulu (ayrıca: : onlar)\n(sıfat) that sıfatının çoğulu, şu. (Türkçe'de şu sıfatı hem tekil, hem çoğul varlıklar için kullanılır.)
+THOU	(zamir) sen: (kişi adılı): ikinci tekil şahısı gösteren söz
+THOUED	(thou sözcüğünün çekimi) (zamir) sen: (kişi adılı): ikinci tekil şahısı gösteren söz
+THOUGH	(bağlaç) rağmen: karşın\n(zarf) Belirli bir faktörün ilk önce söylenen ifadeyi kısıtladığını belirtmek için kullanılır; rağmen.
+THOUGHT	(ad) thought kelimesinin karşılığı: ⟪düşünce|DÜŞÜNCE⟫, ⟪fikir|FİKİR⟫\n(zarf) thought kelimesinin karşılığı: az miktarda, ⟪biraz|BİRAZ⟫
+THOUGHTFUL	(sıfat) düşünceli: düşüncesi olan
+THOUGHTS	(ad) thought sözcüğünün çoğul çekimi: düşünce, fikir
+THOUING	(thou sözcüğünün çekimi) (zamir) sen: (kişi adılı): ikinci tekil şahısı gösteren söz
+THOUS	(ad) çoğul çekimi: thou
+THOUSAND	(sayı) bin: dokuzyüzdoksandokuzdan sonra gelen sayı, on kere yüz, 1000
+THOUSANDS	(ad) çoğul çekimi: thousand
+THOUSANDTH	(sıfat) bininci: bin sayısının sıra sıfatı, sırada dokuz yüz doksan dokuzuncudan sonra gelen
+THOUSANDTHS	(ad) çoğul çekimi: thousandth
+THRALL	(ad) esaret; başkasının kontrolü altında olma
+THRALLDOMS	(ad) çoğul çekimi: thralldom
+THRALLED	(thrall sözcüğünün çekimi) (ad) esaret; başkasının kontrolü altında olma
+THRALLING	(thrall sözcüğünün çekimi) (ad) esaret; başkasının kontrolü altında olma
+THRALLS	(ad) çoğul çekimi: thrall
+THRASHERS	(ad) çoğul çekimi: thrasher
+THRASHES	(ad) çoğul çekimi: thrash
+THRASHING	(ad) thrashing kelimesinin karşılığı: ⟪dayak|DAYAK⟫
+THREAD	(ad) ip: ipek, keten, naylon, pamuk, yün v.s. dokuma maddelerinin uzun, ince liflerinden her biri veya bu liflerin birlikte bükülmüş ve çekilmiş hâli, iplik, urgan (ayrıca: bağcık)
+THREADBARE	(sıfat) threadbare kelimesinin karşılığı: eski püskü, yırtık pırtık
+THREADED	(thread sözcüğünün çekimi) (ad) ip: ipek, keten, naylon, pamuk, yün v.s. dokuma maddelerinin uzun, ince liflerinden her biri veya bu liflerin...
+THREADERS	(ad) çoğul çekimi: threader
+THREADING	(thread sözcüğünün çekimi) (ad) ip: ipek, keten, naylon, pamuk, yün v.s. dokuma maddelerinin uzun, ince liflerinden her biri veya bu liflerin...
+THREADS	(ad) thread sözcüğünün çoğul çekimi: ip, bağcık
+THREADWORMS	(ad) çoğul çekimi: threadworm
+THREAT	(ad) tehdit: gözdağı, korkutma, yıldırma
+THREATED	(threat sözcüğünün çekimi) (ad) tehdit: gözdağı, korkutma, yıldırma
+THREATEN	(eylem) threaten kelimesinin karşılığı: tehdit etmek
+THREATENED	(eylem) threaten sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: tehdit etmek
+THREATENING	(threaten sözcüğünün çekimi) (eylem) threaten kelimesinin karşılığı: tehdit etmek
+THREATENS	(threaten sözcüğünün çekimi) (eylem) threaten kelimesinin karşılığı: tehdit etmek
+THREATING	(threat sözcüğünün çekimi) (ad) tehdit: gözdağı, korkutma, yıldırma
+THREATS	(ad) threat sözcüğünün çoğul çekimi: tehdit
+THREE	(sayı) üç: ikiden büyük ve bir küçüğü arasında bir sayma sayısı bulunmayan tek asal sayı
+THREES	(ad) çoğul çekimi: three
+THREESOME	(ad) threesome kelimesinin karşılığı: ⟪üçlü|ÜÇLÜ⟫
+THREESOMES	(ad) threesome sözcüğünün çoğul çekimi: üçlü
+THRESH	(eylem) harmanlamak: (gemi) Az bir dümen açısıyla büyük bir eğri çizerek yürümek (ayrıca: harman çevirmek)
+THRESHED	(thresh sözcüğünün çekimi) (eylem) harmanlamak: (gemi) Az bir dümen açısıyla büyük bir eğri çizerek yürümek (ayrıca: harman çevirmek)
+THRESHES	(thresh sözcüğünün çekimi) (eylem) harmanlamak: (gemi) Az bir dümen açısıyla büyük bir eğri çizerek yürümek (ayrıca: harman çevirmek)
+THRESHING	(thresh sözcüğünün çekimi) (eylem) harmanlamak: (gemi) Az bir dümen açısıyla büyük bir eğri çizerek yürümek (ayrıca: harman çevirmek)
+THRESHOLD	(ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+THRESHOLDS	(ad) çoğul çekimi: threshold
+THREW	(throw sözcüğünün çekimi) (eylem) throw kelimesinin karşılığı: ⟪atmak|ATMAK⟫, ⟪fırlatmak|FIRLATMAK⟫
+THRIFT	(ad) thrift kelimesinin karşılığı: ⟪tutumluluk|TUTUMLULUK⟫, azla yetinme
+THRIFTS	(thrift sözcüğünün çekimi) (ad) thrift kelimesinin karşılığı: ⟪tutumluluk|TUTUMLULUK⟫, azla yetinme
+THRILLS	(ad) çoğul çekimi: thrill
+THRIVE	(eylem) büyümek: genişlemek (ayrıca: gelişmek, serpilmek)
+THRIVED	(thrive sözcüğünün çekimi) (eylem) büyümek: genişlemek (ayrıca: gelişmek, serpilmek)
+THRIVEN	(thrive sözcüğünün çekimi) (eylem) büyümek: genişlemek (ayrıca: gelişmek, serpilmek)
+THRIVERS	(ad) çoğul çekimi: thriver
+THRIVES	(eylem) thrive sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: büyümek, gelişmek, serpilmek
+THRIVING	(thrive sözcüğünün çekimi) (eylem) büyümek: genişlemek (ayrıca: gelişmek, serpilmek)
+THROAT	(ad) boğaz: Boynun ön bölümü ve bu bölümü oluşturan organlar; imik, kursak, ümük.
+THROATS	(ad) throat sözcüğünün çoğul çekimi: boğaz
+THROB	(eylem) çarpmak: varlığına inanılan bir gücün öfkesine uğramak
+THROBBED	(throb sözcüğünün çekimi) (eylem) çarpmak: varlığına inanılan bir gücün öfkesine uğramak
+THROBBER	(throb sözcüğünün çekimi) (eylem) çarpmak: varlığına inanılan bir gücün öfkesine uğramak
+THROBBING	(throb sözcüğünün çekimi) (eylem) çarpmak: varlığına inanılan bir gücün öfkesine uğramak
+THROBS	(ad) çoğul çekimi: throb
+THROES	(ad) sancı: iç organlarda batar veya saplanır gibi duyulan, nöbetlerle azalıp çoğalan ağrı (ayrıca: sızı)
+THROMBI	(ad) çoğul çekimi: thrombus
+THROMBOCYTES	(ad) çoğul çekimi: thrombocyte
+THRONE	(ad) throne kelimesinin karşılığı: ⟪taht|TAHT⟫
+THRONED	(throne sözcüğünün çekimi) (ad) throne kelimesinin karşılığı: ⟪taht|TAHT⟫
+THRONES	(ad) çoğul çekimi: throne
+THRONG	(ad) kalabalık: Çok sayıda insanın bir araya gelmesiyle oluşan insan topluluğu; kalaba, yoğunluk. (ayrıca: sürü, kitle)
+THRONGED	(throng sözcüğünün çekimi) (ad) kalabalık: Çok sayıda insanın bir araya gelmesiyle oluşan insan topluluğu; kalaba, yoğunluk. (ayrıca: sürü, kitle)
+THRONGING	(throng sözcüğünün çekimi) (ad) kalabalık: Çok sayıda insanın bir araya gelmesiyle oluşan insan topluluğu; kalaba, yoğunluk. (ayrıca: sürü, kitle)
+THRONGS	(ad) çoğul çekimi: throng
+THRONING	(throne sözcüğünün çekimi) (ad) throne kelimesinin karşılığı: ⟪taht|TAHT⟫
+THROTTLE	(ad) throttle kelimesinin karşılığı: gaz pedalı
+THROTTLED	(throttle sözcüğünün çekimi) (ad) throttle kelimesinin karşılığı: gaz pedalı
+THROTTLERS	(ad) çoğul çekimi: throttler
+THROTTLES	(ad) çoğul çekimi: throttle
+THROTTLING	(throttle sözcüğünün çekimi) (ad) throttle kelimesinin karşılığı: gaz pedalı
+THROUGH	(edat) through kelimesinin karşılığı: ⟪arasından|ARASINDAN⟫, ⟪içinden|İÇİNDEN⟫\n(sıfat) son durağa kadar süren veya geçerli (toplu taşım aracı vb.)
+THROUGHOUT	(zarf) throughout kelimesinin karşılığı: baştan başa
+THROUGHPUTS	(ad) çoğul çekimi: throughput
+THROVE	(thrive sözcüğünün çekimi) (eylem) büyümek: genişlemek (ayrıca: gelişmek, serpilmek)
+THROW	(eylem) throw kelimesinin karşılığı: ⟪atmak|ATMAK⟫, ⟪fırlatmak|FIRLATMAK⟫\n(ad) throw kelimesinin karşılığı: ⟪atma|ATMA⟫
+THROWBACKS	(ad) çoğul çekimi: throwback
+THROWER	(ad) thrower kelimesinin karşılığı: ⟪atıcı|ATICI⟫
+THROWERS	(ad) çoğul çekimi: thrower
+THROWING	(ad) throwing kelimesinin karşılığı: ⟪atma|ATMA⟫
+THROWN	(throw sözcüğünün çekimi) (eylem) throw kelimesinin karşılığı: ⟪atmak|ATMAK⟫, ⟪fırlatmak|FIRLATMAK⟫
+THROWS	(ad) çoğul çekimi: throw
+THRUMS	(ad) çoğul çekimi: thrum
+THRUSH	(ad) kandidiyaz: herhangi bir mantar enfeksiyonu için kullanılan genel ad, kandidoz (ayrıca: kandidoz)
+THRUSHES	(ad) çoğul çekimi: thrush
+THRUSTERS	(ad) çoğul çekimi: thruster
+THRUSTS	(ad) çoğul çekimi: thrust
+THRUWAYS	(ad) çoğul çekimi: thruway
+THUDS	(ad) çoğul çekimi: thud
+THUG	(ad) haydut: silâhlı soygun yapan kimse, eşkıya, şaki (ayrıca: eşkıya)
+THUGS	(ad) çoğul çekimi: thug
+THULIUM	(ad) thulium kelimesinin karşılığı: ⟪tulyum|TULYUM⟫
+THULIUMS	(thulium sözcüğünün çekimi) (ad) thulium kelimesinin karşılığı: ⟪tulyum|TULYUM⟫
+THUMB	(ad) thumb kelimesinin karşılığı: ⟪başparmak|BAŞPARMAK⟫
+THUMBED	(thumb sözcüğünün çekimi) (ad) thumb kelimesinin karşılığı: ⟪başparmak|BAŞPARMAK⟫
+THUMBING	(thumb sözcüğünün çekimi) (ad) thumb kelimesinin karşılığı: ⟪başparmak|BAŞPARMAK⟫
+THUMBNAIL	(ad) thumbnail kelimesinin karşılığı: küçük resim
+THUMBNAILS	(ad) çoğul çekimi: thumbnail
+THUMBPRINTS	(ad) çoğul çekimi: thumbprint
+THUMBS	(ad) thumb sözcüğünün çoğul çekimi: başparmak\n(eylem) thumb sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: başparmak
+THUMBSCREWS	(ad) çoğul çekimi: thumbscrew
+THUMBTACKS	(ad) çoğul çekimi: thumbtack
+THUMP	(eylem) yumruklamak: Yumrukla vurmak. (ayrıca: yumruk atmak)
+THUMPED	(thump sözcüğünün çekimi) (eylem) yumruklamak: Yumrukla vurmak. (ayrıca: yumruk atmak)
+THUMPERS	(ad) çoğul çekimi: thumper
+THUMPING	(thump sözcüğünün çekimi) (eylem) yumruklamak: Yumrukla vurmak. (ayrıca: yumruk atmak)
+THUMPS	(ad) çoğul çekimi: thump
+THUNDER	(ad) thunder kelimesinin karşılığı: gök gürültüsü\n(eylem) gümbürdemek: (insan için) Ölmek, gümleyip gitmek.
+THUNDERBIRDS	(ad) çoğul çekimi: thunderbird
+THUNDERBOLT	(ad) yıldırım: gök gürültüsü ve şimşekle görülen, hava ile yer arasındaki elektrik boşalması
+THUNDERBOLTS	(ad) çoğul çekimi: thunderbolt
+THUNDERCLAPS	(ad) çoğul çekimi: thunderclap
+THUNDERED	(thunder sözcüğünün çekimi) (ad) thunder kelimesinin karşılığı: gök gürültüsü
+THUNDERERS	(ad) çoğul çekimi: thunderer
+THUNDERHEADS	(ad) çoğul çekimi: thunderhead
+THUNDERING	(thunder sözcüğünün çekimi) (ad) thunder kelimesinin karşılığı: gök gürültüsü
+THUNDERINGLY	(thunder sözcüğünün çekimi) (ad) thunder kelimesinin karşılığı: gök gürültüsü
+THUNDERS	(ad) çoğul çekimi: thunder
+THUNDERSHOWERS	(ad) çoğul çekimi: thundershower
+THUNDERSTONES	(ad) çoğul çekimi: thunderstone
+THUNDERSTORMS	(ad) çoğul çekimi: thunderstorm
+THUNKS	(ad) çoğul çekimi: thunk
+THURIBLES	(ad) çoğul çekimi: thurible
+THURIFERS	(ad) çoğul çekimi: thurifer
+THUS	(zarf) bunun sonucu olarak, böylece, böylelikle
+THWACKS	(ad) çoğul çekimi: thwack
+THWART	(eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: kösteklemek, karşı gelmek)
+THWARTED	(eylem) thwart fiilinin basit geçmiş zaman kipi.
+THWARTING	(thwart sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: kösteklemek, karşı gelmek)
+THWARTS	(ad) çoğul çekimi: thwart
+THY	(zamir) thy kelimesinin karşılığı: ⟪senin|SENİN⟫
+THYLACINES	(ad) çoğul çekimi: thylacine
+THYME	(ad) thyme kelimesinin karşılığı: ⟪kekik|KEKİK⟫
+THYMES	(thyme sözcüğünün çekimi) (ad) thyme kelimesinin karşılığı: ⟪kekik|KEKİK⟫
+THYMUSES	(ad) çoğul çekimi: thymus
+THYROIDS	(ad) çoğul çekimi: thyroid
+TICKERS	(ad) ticker sözcüğünün çoğul çekimi
+TICKET	(ad) bilet: Para ile alınan ve konser, sinema, tiyatro, müze, spor müsabakası vb. eğlence yerlerine girme, ulaşım araçlarına binme veya bir talih oyununa katılma imkânını veren belge.
+TICKETED	(ticket sözcüğünün çekimi) (ad) bilet: Para ile alınan ve konser, sinema, tiyatro, müze, spor müsabakası vb. eğlence yerlerine girme, ulaşım...
+TICKETING	(ticket sözcüğünün çekimi) (ad) bilet: Para ile alınan ve konser, sinema, tiyatro, müze, spor müsabakası vb. eğlence yerlerine girme, ulaşım...
+TICKETS	(ad) ticket sözcüğünün çoğul çekimi: bilet
+TICKLED	(eylem) tickle sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+TICKLERS	(ad) çoğul çekimi: tickler
+TICKLES	(ad) çoğul çekimi: tickle
+TICKLING	(eylem) tickle sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+TICKS	(ad) tick sözcüğünün çoğul çekimi\n(eylem) tick sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+TICKTOCKS	(ad) çoğul çekimi: ticktock
+TIDBITS	(ad) çoğul çekimi: tidbit
+TIDDLYWINKS	(ad) çoğul çekimi: tiddlywink
+TIDE	(ad) gelgit: Boşuna gidip gelme. (ayrıca: med cezir)
+TIDED	(tide sözcüğünün çekimi) (ad) gelgit: Boşuna gidip gelme. (ayrıca: med cezir)
+TIDELANDS	(ad) çoğul çekimi: tideland
+TIDES	(ad) çoğul çekimi: tide
+TIDING	(tide sözcüğünün çekimi) (ad) gelgit: Boşuna gidip gelme. (ayrıca: med cezir)
+TIDINGS	(ad) haber: bir olay, bir olgu üzerine edinilen bilgi (ayrıca: havadis, mesaj)
+TIE	(eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine yaklaştırmak
+TIEBACKS	(ad) çoğul çekimi: tieback
+TIEBREAKERS	(ad) çoğul çekimi: tiebreaker
+TIED	(tie sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+TIEING	(tie sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+TIERCELS	(ad) çoğul çekimi: tiercel
+TIERCES	(ad) çoğul çekimi: tierce
+TIES	(ad) tie sözcüğünün çoğul çekimi: bağlamak\n(eylem) tie sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bağlamak
+TIFF	(ad) atışma, ufak kavga, tartışma, yakın arkadaş veya sevgililer arasında önemsiz sebepten çıkan tartışma.
+TIFFED	(tiff sözcüğünün çekimi) (ad) atışma, ufak kavga, tartışma, yakın arkadaş veya sevgililer arasında önemsiz sebepten çıkan tartışma.
+TIFFING	(tiff sözcüğünün çekimi) (ad) atışma, ufak kavga, tartışma, yakın arkadaş veya sevgililer arasında önemsiz sebepten çıkan tartışma.
+TIFFINS	(ad) çoğul çekimi: tiffin
+TIFFS	(ad) çoğul çekimi: tiff
+TIGER	(ad) kaplan: kedigillerden, enine siyah çizgili, koyu sarı postu olan, Asya'da yaşayan çevik ve yırtıcı hayvan
+TIGERS	(ad) tiger sözcüğünün çoğul çekimi: kaplan
+TIGHT	(sıfat) tight kelimesinin karşılığı: ⟪gergin|GERGİN⟫\n(ad) tayt, dar ve sıkı giysi
+TIGHTEN	(eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek
+TIGHTENED	(tighten sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek
+TIGHTENERS	(ad) çoğul çekimi: tightener
+TIGHTENING	(eylem) tighten sözcüğünün şimdiki zaman ortaç ve gerund çekimi: germek
+TIGHTENS	(tighten sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek
+TIGHTER	(tight sözcüğünün çekimi) (sıfat) tight kelimesinin karşılığı: ⟪gergin|GERGİN⟫
+TIGHTEST	(tight sözcüğünün çekimi) (sıfat) tight kelimesinin karşılığı: ⟪gergin|GERGİN⟫
+TIGHTLY	(zarf) sıkıca: sıkı bir biçimde
+TIGHTROPES	(ad) çoğul çekimi: tightrope
+TIGHTS	(ad) tayt: Sıkı, gergin, dar; sızmaz, su geçirmez bir kumaştan yapılmış şort giysi
+TIGONS	(ad) çoğul çekimi: tigon
+TIKES	(ad) çoğul çekimi: tike
+TILDE	(ad) tilde kelimesinin karşılığı: ⟪genizsileşme|GENİZSİLEŞME⟫
+TILDES	(ad) çoğul çekimi: tilde
+TILE	(eylem) döşemek: Bir tabanı, tahta, karo, mermer vb. yapı gereçleriyle kaplamak.
+TILED	(tile sözcüğünün çekimi) (eylem) döşemek: Bir tabanı, tahta, karo, mermer vb. yapı gereçleriyle kaplamak.
+TILERS	(ad) çoğul çekimi: tiler
+TILES	(ad) tile sözcüğünün çoğul çekimi: döşemek
+TILING	(tile sözcüğünün çekimi) (eylem) döşemek: Bir tabanı, tahta, karo, mermer vb. yapı gereçleriyle kaplamak.
+TILINGS	(tile sözcüğünün çekimi) (eylem) döşemek: Bir tabanı, tahta, karo, mermer vb. yapı gereçleriyle kaplamak.
+TILL	(ad) till kelimesinin karşılığı: yazar kasa\n(edat) till kelimesinin karşılığı: -e kadar
+TILLAGE	(ad) tillage kelimesinin karşılığı: sürülmüş toprak
+TILLAGES	(tillage sözcüğünün çekimi) (ad) tillage kelimesinin karşılığı: sürülmüş toprak
+TILLED	(till sözcüğünün çekimi) (ad) till kelimesinin karşılığı: yazar kasa
+TILLERS	(ad) çoğul çekimi: tiller
+TILLING	(till sözcüğünün çekimi) (ad) till kelimesinin karşılığı: yazar kasa
+TILLS	(ad) çoğul çekimi: till
+TILT	(ad) tilt kelimesinin karşılığı: ⟪eğmek|EĞMEK⟫, yan yatırmak, yana yatırmak
+TILTED	(tilt sözcüğünün çekimi) (ad) tilt kelimesinin karşılığı: ⟪eğmek|EĞMEK⟫, yan yatırmak, yana yatırmak
+TILTING	(tilt sözcüğünün çekimi) (ad) tilt kelimesinin karşılığı: ⟪eğmek|EĞMEK⟫, yan yatırmak, yana yatırmak
+TILTS	(tilt sözcüğünün çekimi) (ad) tilt kelimesinin karşılığı: ⟪eğmek|EĞMEK⟫, yan yatırmak, yana yatırmak
+TIMBER	(ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca: ahşap)
+TIMBERLANDS	(ad) çoğul çekimi: timberland
+TIMBERS	(ad) çoğul çekimi: timber
+TIMBRE	(ad) tını: türlü müzik araçlarının verdiği sesleri birbirinden ayırt etmeyi sağlayan ses özelliği
+TIMBRELS	(ad) çoğul çekimi: timbrel
+TIMBRES	(timbre sözcüğünün çekimi) (ad) tını: türlü müzik araçlarının verdiği sesleri birbirinden ayırt etmeyi sağlayan ses özelliği
+TIME	(ad) kez: bazı sayı sıfatlarıyla birlikte kullanılarak bir olayın ve olgunun her bir tekrarlanışını bildiren söz, defa, kere, sefer (ayrıca: defa, kere)
+TIMED	(eylem) time sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: defa, kere, kez, sefer, yol\n(sıfat) zamanlı: Zamanı olan
+TIMEKEEPERS	(ad) çoğul çekimi: timekeeper
+TIMELESS	(ad) timeless kelimesinin karşılığı: ⟪geniş|GENİŞ⟫
+TIMELINE	(ad) timeline kelimesinin karşılığı: zaman çizelgesi
+TIMELINES	(ad) çoğul çekimi: timeline
+TIMEPIECES	(ad) çoğul çekimi: timepiece
+TIMER	(ad) kronometre: Zamanı hassas bir şekilde ölçmeye yarayan saat, süreölçer (ayrıca: zamanlayıcı, sayaç)
+TIMERS	(ad) çoğul çekimi: timer
+TIMES	(ad) time sözcüğünün çoğul çekimi: defa, kere, kez, sefer, yol\n(edat) times kelimesinin karşılığı: ⟪çarpı|ÇARPI⟫, ⟪kere|KERE⟫
+TIMESERVERS	(ad) çoğul çekimi: timeserver
+TIMETABLES	(ad) çoğul çekimi: timetable
+TIMID	(sıfat) timid kelimesinin karşılığı: ⟪cesaretsiz|CESARETSİZ⟫
+TIMIDER	(timid sözcüğünün çekimi) (sıfat) timid kelimesinin karşılığı: ⟪cesaretsiz|CESARETSİZ⟫
+TIMIDEST	(timid sözcüğünün çekimi) (sıfat) timid kelimesinin karşılığı: ⟪cesaretsiz|CESARETSİZ⟫
+TIMIDLY	(zarf) timidly kelimesinin karşılığı: korkarak, ürkerek, çekinerek, ürkek şekilde
+TIMING	(ad) timing kelimesinin karşılığı: ⟪zamanlama|ZAMANLAMA⟫\n(eylem) time sözcüğünün şimdiki zaman ortaç ve gerund çekimi: defa, kere, kez, sefer, yol
+TIMINGS	(ad) timing sözcüğünün çoğul çekimi: zamanlama
+TIMOROUS	(sıfat) timorous kelimesinin karşılığı: ⟪ürkek|ÜRKEK⟫, ⟪korkak|KORKAK⟫, ⟪çekingen|ÇEKİNGEN⟫, ⟪utangaç|UTANGAÇ⟫
+TIMOROUSNESS	(ad) timorousness kelimesinin karşılığı: ⟪ürkeklik|ÜRKEKLİK⟫
+TIMOROUSNESSES	(timorousness sözcüğünün çekimi) (ad) timorousness kelimesinin karşılığı: ⟪ürkeklik|ÜRKEKLİK⟫
+TIMPANISTS	(ad) çoğul çekimi: timpanist
+TIN	(ad) tin kelimesinin karşılığı: konserve tenekesi
+TINCTURE	(ad) tincture kelimesinin karşılığı: ⟪tentür|TENTÜR⟫
+TINCTURED	(tincture sözcüğünün çekimi) (ad) tincture kelimesinin karşılığı: ⟪tentür|TENTÜR⟫
+TINCTURES	(ad) çoğul çekimi: tincture
+TINCTURING	(tincture sözcüğünün çekimi) (ad) tincture kelimesinin karşılığı: ⟪tentür|TENTÜR⟫
+TINED	(tin sözcüğünün çekimi) (ad) tin kelimesinin karşılığı: konserve tenekesi
+TINES	(ad) çoğul çekimi: tine
+TINFOIL	(ad) tinfoil kelimesinin karşılığı: alüminyum folyo
+TINFOILS	(tinfoil sözcüğünün çekimi) (ad) tinfoil kelimesinin karşılığı: alüminyum folyo
+TINGES	(ad) çoğul çekimi: tinge
+TINGLE	(eylem) uyuşmak: soğuk, basınç vb. yüzünden vücudun bir yerinde, duygu ve hareket geçici olarak azalmak (ayrıca: karıncalanmak)
+TINGLED	(tingle sözcüğünün çekimi) (eylem) uyuşmak: soğuk, basınç vb. yüzünden vücudun bir yerinde, duygu ve hareket geçici olarak azalmak (ayrıca:...
+TINGLER	(tingle sözcüğünün çekimi) (eylem) uyuşmak: soğuk, basınç vb. yüzünden vücudun bir yerinde, duygu ve hareket geçici olarak azalmak (ayrıca:...
+TINGLES	(ad) çoğul çekimi: tingle
+TINGLING	(tingle sözcüğünün çekimi) (eylem) uyuşmak: soğuk, basınç vb. yüzünden vücudun bir yerinde, duygu ve hareket geçici olarak azalmak (ayrıca:...
+TINGS	(ad) ting sözcüğünün çoğul çekimi\n(eylem) ting sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+TINIER	(tiny sözcüğünün çekimi) (sıfat) ufak: (mecaz) Önemsiz, çok az.
+TINIEST	(tiny sözcüğünün çekimi) (sıfat) ufak: (mecaz) Önemsiz, çok az.
+TINILY	(tiny sözcüğünün çekimi) (sıfat) ufak: (mecaz) Önemsiz, çok az.
+TINING	(tin sözcüğünün çekimi) (ad) tin kelimesinin karşılığı: konserve tenekesi
+TINKERERS	(ad) çoğul çekimi: tinkerer
+TINKERS	(ad) çoğul çekimi: tinker
+TINKLES	(ad) çoğul çekimi: tinkle
+TINKLINGS	(ad) çoğul çekimi: tinkling
+TINNED	(tin sözcüğünün çekimi) (ad) tin kelimesinin karşılığı: konserve tenekesi
+TINNING	(tin sözcüğünün çekimi) (ad) tin kelimesinin karşılığı: konserve tenekesi
+TINNITUSES	(ad) çoğul çekimi: tinnitus
+TINS	(tin sözcüğünün çekimi) (ad) tin kelimesinin karşılığı: konserve tenekesi
+TINSMITHS	(ad) çoğul çekimi: tinsmith
+TINTERS	(ad) çoğul çekimi: tinter
+TINTINNABULATIONS	(ad) çoğul çekimi: tintinnabulation
+TINTS	(ad) çoğul çekimi: tint
+TINTYPES	(ad) çoğul çekimi: tintype
+TINY	(sıfat) ufak: (mecaz) Önemsiz, çok az.
+TIP	(ad) tavsiye: bir şeyin, bir kimsenin iyi, işe yarar olduğunu ilgili kişiye söyleme, referans (ayrıca: tiyo)
+TIPCAT	(ad) tipcat kelimesinin karşılığı: çelik-çomak, çelikçomak
+TIPCATS	(tipcat sözcüğünün çekimi) (ad) tipcat kelimesinin karşılığı: çelik-çomak, çelikçomak
+TIPPED	(eylem) tip sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: tavsiye, tiyo
+TIPPERS	(ad) çoğul çekimi: tipper
+TIPPING	(eylem) tip sözcüğünün şimdiki zaman ortaç ve gerund çekimi: tavsiye, tiyo
+TIPPLE	(eylem) içici olmak; akşamcı olmak; içkiye düşkün olmak; içki alışkanlığı olmak\n(ad) içki: alkol içeren her türlü içecek, alkollü içecek
+TIPPLED	(tipple sözcüğünün çekimi) (eylem) içici olmak; akşamcı olmak; içkiye düşkün olmak; içki alışkanlığı olmak
+TIPPLERS	(ad) çoğul çekimi: tippler
+TIPPLES	(ad) çoğul çekimi: tipple
+TIPPLING	(tipple sözcüğünün çekimi) (eylem) içici olmak; akşamcı olmak; içkiye düşkün olmak; içki alışkanlığı olmak
+TIPS	(ad) tip sözcüğünün çoğul çekimi: tavsiye, tiyo
+TIPSIER	(tipsy sözcüğünün çekimi) (sıfat) içkili: içki içmiş olarak (ayrıca: hafif sarhoş, çakırkeyif)
+TIPSIEST	(tipsy sözcüğünün çekimi) (sıfat) içkili: içki içmiş olarak (ayrıca: hafif sarhoş, çakırkeyif)
+TIPSTERS	(ad) çoğul çekimi: tipster
+TIPSY	(sıfat) içkili: içki içmiş olarak (ayrıca: hafif sarhoş, çakırkeyif)
+TIPTOPS	(ad) çoğul çekimi: tiptop
+TIRADES	(ad) çoğul çekimi: tirade
+TIRE	(ad) tire kelimesinin karşılığı: ⟪çember|ÇEMBER⟫\n(sıfat) tire kelimesinin karşılığı: ⟪lastik|LASTİK⟫
+TIRED	(sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+TIREDER	(tire sözcüğünün çekimi) (ad) tire kelimesinin karşılığı: ⟪çember|ÇEMBER⟫
+TIREDEST	(tire sözcüğünün çekimi) (ad) tire kelimesinin karşılığı: ⟪çember|ÇEMBER⟫
+TIRES	(tire sözcüğünün çekimi) (ad) tire kelimesinin karşılığı: ⟪çember|ÇEMBER⟫
+TIRING	(eylem) tire sözcüğünün şimdiki zaman ortaç ve gerund çekimi: çember\n(sıfat) yorucu: yoran şey, yorgunluğa yol açan
+TIS	(ad) çoğul çekimi: ti
+TISSUE	(ad) doku: vücudun veya organın yapı unsurlarından birini oluşturan hücreler bütünü
+TISSUED	(tissue sözcüğünün çekimi) (ad) doku: vücudun veya organın yapı unsurlarından birini oluşturan hücreler bütünü
+TISSUES	(ad) çoğul çekimi: tissue
+TISSUING	(tissue sözcüğünün çekimi) (ad) doku: vücudun veya organın yapı unsurlarından birini oluşturan hücreler bütünü
+TIT	(ad) tit kelimesinin karşılığı: ⟪baştankara|BAŞTANKARA⟫
+TITAN	(ad) titan kelimesinin karşılığı: ⟪titan|TİTAN⟫
+TITANATES	(ad) çoğul çekimi: titanate
+TITANS	(titan sözcüğünün çekimi) (ad) titan kelimesinin karşılığı: ⟪titan|TİTAN⟫
+TITBITS	(ad) çoğul çekimi: titbit
+TITERS	(ad) çoğul çekimi: titer
+TITHES	(ad) çoğul çekimi: tithe
+TITHINGS	(ad) çoğul çekimi: tithing
+TITILLATE	(eylem) titillate kelimesinin karşılığı: zevk uyandırmak, zevk vermek, zevkini okşamak, zevke getirmek
+TITILLATED	(titillate sözcüğünün çekimi) (eylem) titillate kelimesinin karşılığı: zevk uyandırmak, zevk vermek, zevkini okşamak, zevke getirmek
+TITILLATES	(titillate sözcüğünün çekimi) (eylem) titillate kelimesinin karşılığı: zevk uyandırmak, zevk vermek, zevkini okşamak, zevke getirmek
+TITILLATING	(titillate sözcüğünün çekimi) (eylem) titillate kelimesinin karşılığı: zevk uyandırmak, zevk vermek, zevkini okşamak, zevke getirmek
+TITLE	(ad) başlık: Tablaların veya iş parçalarının düzgün kalmasını sağlamak amacı ile baş taraflarına takılan parça. (ayrıca: isim [kitap, yazı)
+TITLED	(title sözcüğünün çekimi) (ad) başlık: Tablaların veya iş parçalarının düzgün kalmasını sağlamak amacı ile baş taraflarına takılan parça....
+TITLES	(ad) title sözcüğünün çoğul çekimi: başlık, isim [kitap, yazı, resim vs.]
+TITLING	(title sözcüğünün çekimi) (ad) başlık: Tablaların veya iş parçalarının düzgün kalmasını sağlamak amacı ile baş taraflarına takılan parça....
+TITMICE	(ad) çoğul çekimi: titmouse
+TITRATE	(eylem) titrate kelimesinin karşılığı: titre etmek
+TITRATED	(titrate sözcüğünün çekimi) (eylem) titrate kelimesinin karşılığı: titre etmek
+TITRATES	(titrate sözcüğünün çekimi) (eylem) titrate kelimesinin karşılığı: titre etmek
+TITRATING	(titrate sözcüğünün çekimi) (eylem) titrate kelimesinin karşılığı: titre etmek
+TITRATION	(ad) titration kelimesinin karşılığı: titrasyon
+TITRATIONS	(ad) çoğul çekimi: titration
+TITRATORS	(ad) çoğul çekimi: titrator
+TITS	(ad) çoğul çekimi: tit
+TITTERS	(ad) çoğul çekimi: titter
+TITTLES	(ad) çoğul çekimi: tittle
+TIZZIES	(ad) çoğul çekimi: tizzy
+TMESIS	(ad) Bir sözcüğün arasına başka bir sözcüğün eklenmesi, sözcük aralama
+TOAD	(ad) toad kelimesinin karşılığı: kara kurbağası
+TOADFLAXES	(ad) çoğul çekimi: toadflax
+TOADIES	(ad) çoğul çekimi: toady
+TOADS	(ad) çoğul çekimi: toad
+TOADSTOOLS	(ad) çoğul çekimi: toadstool
+TOASTERS	(ad) çoğul çekimi: toaster
+TOASTMASTERS	(ad) çoğul çekimi: toastmaster
+TOBACCO	(ad) tütün: Patlıcangillerden, birleşiminde nikotin bulunan otsu bir bitki, (Nicotiana tabacum).
+TOBACCOES	(tobacco sözcüğünün çekimi) (ad) tütün: Patlıcangillerden, birleşiminde nikotin bulunan otsu bir bitki, (Nicotiana tabacum).
+TOBACCONISTS	(ad) çoğul çekimi: tobacconist
+TOBACCOS	(tobacco sözcüğünün çekimi) (ad) tütün: Patlıcangillerden, birleşiminde nikotin bulunan otsu bir bitki, (Nicotiana tabacum).
+TOBOGGANERS	(ad) çoğul çekimi: tobogganer
+TOCCATAS	(ad) çoğul çekimi: toccata
+TOCOPHEROLS	(ad) çoğul çekimi: tocopherol
+TODAY	(zarf) bugün: İçinde bulunulan çağ, zaman.\n(ad) bugün: İçinde bulunulan çağ, zaman.
+TODAYS	(today sözcüğünün çekimi) (zarf) bugün: İçinde bulunulan çağ, zaman.
+TODDIES	(ad) çoğul çekimi: toddy
+TODDLER	(ad) Yeni yürümeye başlayan çocuk, çöçe.
+TODDLERS	(ad) çoğul çekimi: toddler
+TOE	(ad) toe kelimesinin karşılığı: ayak parmağı
+TOECAPS	(ad) çoğul çekimi: toecap
+TOED	(toe sözcüğünün çekimi) (ad) toe kelimesinin karşılığı: ayak parmağı
+TOEHOLDS	(ad) çoğul çekimi: toehold
+TOEING	(toe sözcüğünün çekimi) (ad) toe kelimesinin karşılığı: ayak parmağı
+TOELESS	(sıfat) toeless kelimesinin karşılığı: parmaksız
+TOENAILS	(ad) çoğul çekimi: toenail
+TOES	(ad) toe sözcüğünün çoğul çekimi: ayak parmağı
+TOFFEE	(ad) şekerleme: toz şekerin içine meyve özleri konduktan sonra kaynatılmasıyla yapılan her türlü şeker, tatlı
+TOFFEES	(toffee sözcüğünün çekimi) (ad) şekerleme: toz şekerin içine meyve özleri konduktan sonra kaynatılmasıyla yapılan her türlü şeker, tatlı
+TOFFS	(ad) çoğul çekimi: toff
+TOFTS	(ad) çoğul çekimi: toft
+TOFUS	(ad) çoğul çekimi: tofu
+TOGETHER	(zarf) birlikte: Beraberlik veya vasıta ilişkisi kuran ve -le birlikte biçiminde kullanılan bir söz. (ayrıca: beraber, bir arada)
+TOGETHERNESS	(ad) birliktelik: birlikte olma durumu, beraberlik
+TOGETHERNESSES	(togetherness sözcüğünün çekimi) (ad) birliktelik: birlikte olma durumu, beraberlik
+TOGGLES	(ad) çoğul çekimi: toggle
+TOGS	(ad) tog sözcüğünün çoğul çekimi\n(eylem) tog sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+TOIL	(ad) uğraş: insanın yaptığı veya eğlendiği iş veya meslek, iş güç, meşguliyet (ayrıca: zor iş, meşakkat)
+TOILED	(toil sözcüğünün çekimi) (ad) uğraş: insanın yaptığı veya eğlendiği iş veya meslek, iş güç, meşguliyet (ayrıca: zor iş, meşakkat)
+TOILER	(ad) çalışan: çalışma işini yapan kişi
+TOILERS	(toiler sözcüğünün çekimi) (ad) çalışan: çalışma işini yapan kişi
+TOILES	(toil sözcüğünün çekimi) (ad) uğraş: insanın yaptığı veya eğlendiği iş veya meslek, iş güç, meşguliyet (ayrıca: zor iş, meşakkat)
+TOILET	(ad) tuvalet: okul, hastane, bar gibi toplu olarak bulunulan yerlerde tuvalet kabinlerini, pisuvarları ve lavaboları barındıran umumi oda
+TOILETED	(toilet sözcüğünün çekimi) (ad) tuvalet: okul, hastane, bar gibi toplu olarak bulunulan yerlerde tuvalet kabinlerini, pisuvarları ve lavaboları...
+TOILETING	(toilet sözcüğünün çekimi) (ad) tuvalet: okul, hastane, bar gibi toplu olarak bulunulan yerlerde tuvalet kabinlerini, pisuvarları ve lavaboları...
+TOILETRIES	(ad) çoğul çekimi: toiletry
+TOILETS	(ad) çoğul çekimi: toilet
+TOILING	(toil sözcüğünün çekimi) (ad) uğraş: insanın yaptığı veya eğlendiği iş veya meslek, iş güç, meşguliyet (ayrıca: zor iş, meşakkat)
+TOILS	(ad) çoğul çekimi: toil
+TOKEN	(ad) token kelimesinin karşılığı: ⟪jeton|JETON⟫
+TOKENING	(token sözcüğünün çekimi) (ad) token kelimesinin karşılığı: ⟪jeton|JETON⟫
+TOKENS	(ad) token sözcüğünün çoğul çekimi: jeton
+TOKES	(ad) çoğul çekimi: toke
+TOLD	(eylem) tell sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: söylemek
+TOLERANCE	(ad) tolerance kelimesinin karşılığı: ⟪tolerans|TOLERANS⟫
+TOLERANCES	(ad) çoğul çekimi: tolerance
+TOLERANT	(sıfat) hoşgörülü: hoşgörüsü olan, hoşgörüyle davranan, müsamahalı, toleranslı (ayrıca: müsamahalı, toleranslı)
+TOLERANTLY	(zarf) anlayışlı: hoşgörülü bir biçimde
+TOLERATE	(eylem) tolerate kelimesinin karşılığı: tolere etmek
+TOLERATED	(tolerate sözcüğünün çekimi) (eylem) tolerate kelimesinin karşılığı: tolere etmek
+TOLERATES	(eylem) tolerate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: tolere etmek
+TOLERATING	(tolerate sözcüğünün çekimi) (eylem) tolerate kelimesinin karşılığı: tolere etmek
+TOLERATION	(ad) hoşgörü: her şeyi anlayışla karşılayarak olabildiği kadar hoş görme durumu, müsamaha, tolerans (ayrıca: müsamaha)
+TOLERATIONS	(toleration sözcüğünün çekimi) (ad) hoşgörü: her şeyi anlayışla karşılayarak olabildiği kadar hoş görme durumu, müsamaha, tolerans (ayrıca: müsamaha)
+TOLL	(ad) ücret: kiralanan veya satın alınan bir şey için ödenen para, ödeyiş (ayrıca: geçiş ücreti)
+TOLLBARS	(ad) çoğul çekimi: tollbar
+TOLLBOOTH	(ad) tollbooth kelimesinin karşılığı: otoyol gişesi
+TOLLBOOTHS	(tollbooth sözcüğünün çekimi) (ad) tollbooth kelimesinin karşılığı: otoyol gişesi
+TOLLED	(eylem) toll sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ücret; geçiş ücreti
+TOLLGATES	(ad) çoğul çekimi: tollgate
+TOLLING	(toll sözcüğünün çekimi) (ad) ücret: kiralanan veya satın alınan bir şey için ödenen para, ödeyiş (ayrıca: geçiş ücreti)
+TOLLS	(ad) toll sözcüğünün çoğul çekimi: ücret; geçiş ücreti\n(eylem) toll sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ücret; geçiş ücreti
+TOM	(ad) tom kelimesinin karşılığı: baba hindi
+TOMATO	(ad) domates: Bu bitkinin yenilen kırmızı veya yeşil ürünü.
+TOMATOES	(ad) tomato sözcüğünün çoğul çekimi: domates
+TOMB	(ad) mezar: Ölünün gömüldüğü yer. (ayrıca: kabir, sin)
+TOMBED	(tomb sözcüğünün çekimi) (ad) mezar: Ölünün gömüldüğü yer. (ayrıca: kabir, sin)
+TOMBING	(tomb sözcüğünün çekimi) (ad) mezar: Ölünün gömüldüğü yer. (ayrıca: kabir, sin)
+TOMBS	(ad) çoğul çekimi: tomb
+TOMBSTONES	(ad) çoğul çekimi: tombstone
+TOMCATS	(ad) çoğul çekimi: tomcat
+TOMFOOLS	(ad) çoğul çekimi: tomfool
+TOMMED	(tom sözcüğünün çekimi) (ad) tom kelimesinin karşılığı: baba hindi
+TOMMING	(tom sözcüğünün çekimi) (ad) tom kelimesinin karşılığı: baba hindi
+TOMORROW	(zarf) yarın: bugünden sonra gelecek ilk gün içinde
+TOMORROWS	(ad) çoğul çekimi: tomorrow
+TOMS	(ad) tom sözcüğünün çoğul çekimi: baba hindi
+TON	(ad) ton kelimesinin karşılığı: ⟪ton|TON⟫
+TONE	(ad) ton: insan veya çalgı sesinin yükseklik, alçaklık derecesi (ayrıca: ses perdesi, titrem)
+TONED	(tone sözcüğünün çekimi) (ad) ton: insan veya çalgı sesinin yükseklik, alçaklık derecesi (ayrıca: ses perdesi, titrem)
+TONES	(ad) çoğul çekimi: tone
+TONG	(ad) tong kelimesinin karşılığı: ⟪maşa|MAŞA⟫, ⟪kıskaç|KISKAÇ⟫
+TONGED	(tong sözcüğünün çekimi) (ad) tong kelimesinin karşılığı: ⟪maşa|MAŞA⟫, ⟪kıskaç|KISKAÇ⟫
+TONGER	(tong sözcüğünün çekimi) (ad) tong kelimesinin karşılığı: ⟪maşa|MAŞA⟫, ⟪kıskaç|KISKAÇ⟫
+TONGING	(tong sözcüğünün çekimi) (ad) tong kelimesinin karşılığı: ⟪maşa|MAŞA⟫, ⟪kıskaç|KISKAÇ⟫
+TONGS	(ad) çoğul çekimi: tong
+TONGUE	(ad) dil: ağız boşluğunda tatmaya, yutkunmaya, sesleri boğumlamaya yarayan etli, hareketli, uzun organ, tat alma organı
+TONGUED	(tongue sözcüğünün çekimi) (ad) dil: ağız boşluğunda tatmaya, yutkunmaya, sesleri boğumlamaya yarayan etli, hareketli, uzun organ, tat alma organı
+TONGUES	(ad) tongue sözcüğünün çoğul çekimi: dil\n(eylem) tongue sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dil
+TONGUING	(tongue sözcüğünün çekimi) (ad) dil: ağız boşluğunda tatmaya, yutkunmaya, sesleri boğumlamaya yarayan etli, hareketli, uzun organ, tat alma organı
+TONIC	(ad) tonic kelimesinin karşılığı: ⟪tonik|TONİK⟫
+TONICS	(tonic sözcüğünün çekimi) (ad) tonic kelimesinin karşılığı: ⟪tonik|TONİK⟫
+TONING	(tone sözcüğünün çekimi) (ad) ton: insan veya çalgı sesinin yükseklik, alçaklık derecesi (ayrıca: ses perdesi, titrem)
+TONOMETERS	(ad) çoğul çekimi: tonometer
+TONSIL	(ad) tonsil kelimesinin karşılığı: ⟪badem|BADEM⟫
+TONSILS	(ad) çoğul çekimi: tonsil
+TONSORIAL	(sıfat) berber ile alakalı
+TOO	(zarf) dahi: da, de
+TOOK	(eylem) take sözcüğünün basit geçmiş zaman çekimi: almak, tutmak, kabul etmek, götürmek
+TOOL	(ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne.\n(eylem) alet ile işlemek, aletle işlemek
+TOOLED	(eylem) tool sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: alet
+TOOLER	(tool sözcüğünün çekimi) (ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne.
+TOOLING	(tool sözcüğünün çekimi) (ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne.
+TOOLINGS	(tool sözcüğünün çekimi) (ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne.
+TOOLMAKERS	(ad) çoğul çekimi: toolmaker
+TOOLS	(ad) tools kelimesinin karşılığı: ⟪aletler|ALETLER⟫
+TOONS	(ad) çoğul çekimi: toon
+TOOTH	(ad) diş: sarımsak dilimi, karanfil v.s.'de dişe benzetilen tane
+TOOTHACHE	(ad) toothache kelimesinin karşılığı: diş ağrısı
+TOOTHACHES	(ad) çoğul çekimi: toothache
+TOOTHBRUSH	(ad) toothbrush kelimesinin karşılığı: diş fırçası
+TOOTHBRUSHES	(ad) toothbrush sözcüğünün çoğul çekimi: diş fırçası
+TOOTHBRUSHING	(toothbrush sözcüğünün çekimi) (ad) toothbrush kelimesinin karşılığı: diş fırçası
+TOOTHLESS	(sıfat) dişsiz: Dişi olmayan
+TOOTHPASTE	(ad) diş macunu: Dişleri temizlemede, genellikle diş fırçasına sürülerek kullanılan macun.
+TOOTHPASTES	(ad) toothpaste sözcüğünün çoğul çekimi: diş macunu
+TOOTHPICK	(ad) kürdan: dişleri temizlemek için kullanılan küçük çubuk, diş çöpü
+TOOTHPICKS	(ad) çoğul çekimi: toothpick
+TOOTHS	(tooth sözcüğünün çekimi) (ad) diş: sarımsak dilimi, karanfil v.s.'de dişe benzetilen tane
+TOOTLES	(ad) çoğul çekimi: tootle
+TOOTS	(ad) çoğul çekimi: toot
+TOP	(ad) üst: Bir şeyin yukarı, göğe doğru olan yanı.
+TOPCOATS	(ad) çoğul çekimi: topcoat
+TOPGALLANT	(ad) topgallant kelimesinin karşılığı: ⟪babafingo|BABAFİNGO⟫
+TOPGALLANTS	(topgallant sözcüğünün çekimi) (ad) topgallant kelimesinin karşılığı: ⟪babafingo|BABAFİNGO⟫
+TOPIC	(ad) konu: konuşmada, yazıda, eserde ele alınan düşünce, olay veya durum, bap, mevzu, süje
+TOPICAL	(sıfat) topical kelimesinin karşılığı: ⟪güncel|GÜNCEL⟫
+TOPICS	(ad) çoğul çekimi: topic
+TOPKNOTS	(ad) çoğul çekimi: topknot
+TOPOGRAPHER	(ad) topoğraf: topoğrafya uzmanı
+TOPOGRAPHERS	(ad) çoğul çekimi: topographer
+TOPOGRAPHIC	(ad) topographic kelimesinin karşılığı: yerbetimsel
+TOPOGRAPHIES	(topography sözcüğünün çekimi) (ad) topoğrafya: Yer yüzeyinin özelliklerini kâğıt üzerinde çizerek gösterme işi. (ayrıca: yerbetim)
+TOPOGRAPHY	(ad) topoğrafya: Yer yüzeyinin özelliklerini kâğıt üzerinde çizerek gösterme işi. (ayrıca: yerbetim)
+TOPOLOGICAL	(sıfat) topolojik: Topoloji ile ilgili olan
+TOPOLOGIES	(topology sözcüğünün çekimi) (ad) topology kelimesinin karşılığı: ilinge, ⟪topoloji|TOPOLOJİ⟫
+TOPOLOGY	(ad) topology kelimesinin karşılığı: ilinge, ⟪topoloji|TOPOLOJİ⟫
+TOPONYM	(ad) yer adı olan sözcük
+TOPONYMS	(ad) çoğul çekimi: toponym
+TOPPED	(top sözcüğünün çekimi) (ad) üst: Bir şeyin yukarı, göğe doğru olan yanı.
+TOPPING	(top sözcüğünün çekimi) (ad) üst: Bir şeyin yukarı, göğe doğru olan yanı.
+TOPPINGS	(ad) çoğul çekimi: topping
+TOPPLE	(eylem) devirmek: (mecaz) bir yana eğmek (ayrıca: yıkmak, devrilmek)
+TOPPLED	(topple sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek (ayrıca: yıkmak, devrilmek)
+TOPPLES	(ad) çoğul çekimi: topple
+TOPPLING	(topple sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek (ayrıca: yıkmak, devrilmek)
+TOPS	(ad) top sözcüğünün çoğul çekimi: üst
+TOPSAILS	(ad) çoğul çekimi: topsail
+TOPSIDES	(ad) çoğul çekimi: topside
+TOPSOILS	(ad) çoğul çekimi: topsoil
+TOPSPINS	(ad) çoğul çekimi: topspin
+TORC	(ad) Demir çağı zamanında Avrupa'da boyna takılan halka
+TORCH	(ad) torch kelimesinin karşılığı: el feneri
+TORCHBEARERS	(ad) çoğul çekimi: torchbearer
+TORCHED	(torch sözcüğünün çekimi) (ad) torch kelimesinin karşılığı: el feneri
+TORCHES	(torch sözcüğünün çekimi) (ad) torch kelimesinin karşılığı: el feneri
+TORCHING	(torch sözcüğünün çekimi) (ad) torch kelimesinin karşılığı: el feneri
+TORCHLIGHTS	(ad) çoğul çekimi: torchlight
+TORCS	(ad) çoğul çekimi: torc
+TORE	(eylem) tear fiilinin geçmiş zaman hali
+TORES	(tear sözcüğünün çekimi) (ad) tear kelimesinin karşılığı: ⟪gözyaşı|GÖZYAŞI⟫, ⟪cıngı|CINGI⟫
+TORI	(torus sözcüğünün çekimi) (ad) torus kelimesinin karşılığı: ⟪simit|SİMİT⟫
+TORIES	(ad) çoğul çekimi: tory
+TORMENT	(ad) eziyet: sıkıntı veya güçlük (ayrıca: azap)
+TORMENTED	(torment sözcüğünün çekimi) (ad) eziyet: sıkıntı veya güçlük (ayrıca: azap)
+TORMENTING	(torment sözcüğünün çekimi) (ad) eziyet: sıkıntı veya güçlük (ayrıca: azap)
+TORMENTOR	(ad) tormentor kelimesinin karşılığı: eziyetçi
+TORMENTORS	(ad) çoğul çekimi: tormentor
+TORMENTS	(ad) çoğul çekimi: torment
+TORN	(sıfat) torn kelimesinin karşılığı: ⟪yırtılmış|YIRTILMIŞ⟫
+TORNADO	(ad) hortum: lastikten yapılmış ince ve uzun boru
+TORNADOES	(ad) çoğul çekimi: tornado
+TORNADOS	(ad) çoğul çekimi: tornado
+TOROIDS	(ad) çoğul çekimi: toroid
+TORPEDO	(ad) torpedo kelimesinin karşılığı: ⟪torpido|TORPİDO⟫
+TORPEDOED	(torpedo sözcüğünün çekimi) (ad) torpedo kelimesinin karşılığı: ⟪torpido|TORPİDO⟫
+TORPEDOES	(torpedo sözcüğünün çekimi) (ad) torpedo kelimesinin karşılığı: ⟪torpido|TORPİDO⟫
+TORPEDOING	(torpedo sözcüğünün çekimi) (ad) torpedo kelimesinin karşılığı: ⟪torpido|TORPİDO⟫
+TORPEDOS	(torpedo sözcüğünün çekimi) (ad) torpedo kelimesinin karşılığı: ⟪torpido|TORPİDO⟫
+TORRENT	(ad) sel, taşkınca akan su
+TORRENTS	(torrent sözcüğünün çekimi) (ad) sel, taşkınca akan su
+TORS	(ad) çoğul çekimi: tor
+TORSI	(ad) çoğul çekimi: torso
+TORSO	(ad) gövde: Hayvanlarda baş, ayak ve kuyruktan geri kalan bölüm.
+TORSOS	(torso sözcüğünün çekimi) (ad) gövde: Hayvanlarda baş, ayak ve kuyruktan geri kalan bölüm.
+TORTOISE	(ad) tortoise kelimesinin karşılığı: ⟪kaplumbağa|KAPLUMBAĞA⟫, ⟪tosbağa|TOSBAĞA⟫
+TORTOISES	(ad) çoğul çekimi: tortoise
+TORTOISESHELL	(ad) tortoiseshell kelimesinin karşılığı: kaplumbağa kabuğu
+TORTOISESHELLS	(tortoiseshell sözcüğünün çekimi) (ad) tortoiseshell kelimesinin karşılığı: kaplumbağa kabuğu
+TORTURE	(ad) işkence: Bir kimseye fiziksel veya manevi olarak yapılan aşırı eziyet. (ayrıca: azap)\n(eylem) torture kelimesinin karşılığı: işkence etmek
+TORTURED	(torture sözcüğünün çekimi) (ad) işkence: Bir kimseye fiziksel veya manevi olarak yapılan aşırı eziyet. (ayrıca: azap)
+TORTURERS	(ad) çoğul çekimi: torturer
+TORTURES	(torture sözcüğünün çekimi) (ad) işkence: Bir kimseye fiziksel veya manevi olarak yapılan aşırı eziyet. (ayrıca: azap)
+TORTURING	(ad) işkence: Aşırı gerginlik, sıkıntılı durum. (ayrıca: işkence etme)\n(eylem) torture sözcüğünün şimdiki zaman ortaç ve gerund çekimi: azap, işkence
+TORUS	(ad) torus kelimesinin karşılığı: ⟪simit|SİMİT⟫
+TOSS	(ad) toss kelimesinin karşılığı: ad çekme
+TOSSED	(toss sözcüğünün çekimi) (ad) toss kelimesinin karşılığı: ad çekme
+TOSSERS	(ad) çoğul çekimi: tosser
+TOSSES	(ad) çoğul çekimi: toss
+TOSSING	(toss sözcüğünün çekimi) (ad) toss kelimesinin karşılığı: ad çekme
+TOSSPOTS	(ad) çoğul çekimi: tosspot
+TOTAL	(ad) mecmu: toplam (ayrıca: toplam, yekûn)
+TOTALED	(total sözcüğünün çekimi) (ad) mecmu: toplam (ayrıca: toplam, yekûn)
+TOTALING	(total sözcüğünün çekimi) (ad) mecmu: toplam (ayrıca: toplam, yekûn)
+TOTALITARIAN	(sıfat) totaliter: Demokratik hak ve özgürlüklerin baskı altında tutulduğu, bütün yetkilerin bir elde veya küçük bir yönetici grubunun elinde toplandığı demokratik olmayan, bütüncül
+TOTALITARIANS	(totalitarian sözcüğünün çekimi) (sıfat) totaliter: Demokratik hak ve özgürlüklerin baskı altında tutulduğu, bütün yetkilerin bir elde veya küçük bir...
+TOTALITIES	(ad) çoğul çekimi: totality
+TOTALLED	(total sözcüğünün çekimi) (ad) mecmu: toplam (ayrıca: toplam, yekûn)
+TOTALLING	(total sözcüğünün çekimi) (ad) mecmu: toplam (ayrıca: toplam, yekûn)
+TOTALLY	(zarf) büsbütün: iyiden iyiye, iyice, tamamen, tamamıyla, temelli, bütün bütün (ayrıca: bütün bütün, tamamen)
+TOTALS	(ad) çoğul çekimi: total
+TOTE	(eylem) taşımak: katlanmak, üstlenmek, yüklenmek, çekmek\n(ad) kadınların kullandığı büyük taşıma çantası
+TOTED	(tote sözcüğünün çekimi) (eylem) taşımak: katlanmak, üstlenmek, yüklenmek, çekmek
+TOTEM	(ad) totem: İlkel toplumlarda topluluğun ondan türediği sanılan ve kutsal sayılan hayvan, ağaç, rüzgâr vb. herhangi bir doğal nesne; ongun, put, sanem
+TOTEMISM	(ad) totemizm: Bir toteme duyulan itikada dayanan toplumsal kuruluş ve din uygulama şekli.
+TOTEMISMS	(totemism sözcüğünün çekimi) (ad) totemizm: Bir toteme duyulan itikada dayanan toplumsal kuruluş ve din uygulama şekli.
+TOTEMS	(totem sözcüğünün çekimi) (ad) totem: İlkel toplumlarda topluluğun ondan türediği sanılan ve kutsal sayılan hayvan, ağaç, rüzgâr vb. herhangi bir...
+TOTES	(zarf) totes kelimesinin karşılığı: ⟪tamamen|TAMAMEN⟫, ⟪toplamda|TOPLAMDA⟫
+TOTING	(tote sözcüğünün çekimi) (eylem) taşımak: katlanmak, üstlenmek, yüklenmek, çekmek
+TOTS	(ad) çoğul çekimi: tot
+TOTTER	(eylem) totter kelimesinin karşılığı: ⟪tartılmak|TARTILMAK⟫
+TOTTERED	(totter sözcüğünün çekimi) (eylem) totter kelimesinin karşılığı: ⟪tartılmak|TARTILMAK⟫
+TOTTERERS	(ad) çoğul çekimi: totterer
+TOTTERING	(totter sözcüğünün çekimi) (eylem) totter kelimesinin karşılığı: ⟪tartılmak|TARTILMAK⟫
+TOTTERS	(totter sözcüğünün çekimi) (eylem) totter kelimesinin karşılığı: ⟪tartılmak|TARTILMAK⟫
+TOUCH	(ad) touch kelimesinin karşılığı: ⟪temas|TEMAS⟫\n(eylem) değmek: aralık kalmayıncaya kadar birbirine yaklaşmak, dokunmak, temas etmek (ayrıca: dokunmak, ellemek)
+TOUCHBACKS	(ad) çoğul çekimi: touchback
+TOUCHDOWNS	(ad) çoğul çekimi: touchdown
+TOUCHED	(eylem) touch sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: temas
+TOUCHES	(touch sözcüğünün çekimi) (ad) touch kelimesinin karşılığı: ⟪temas|TEMAS⟫
+TOUCHHOLES	(ad) çoğul çekimi: touchhole
+TOUCHIER	(touchy sözcüğünün çekimi) (sıfat) touchy kelimesinin karşılığı: ⟪alıngan|ALINGAN⟫
+TOUCHIEST	(touchy sözcüğünün çekimi) (sıfat) touchy kelimesinin karşılığı: ⟪alıngan|ALINGAN⟫
+TOUCHING	(sıfat) dokunaklı: etkili, insanın içine işleyen, müessir, patetik
+TOUCHSTONE	(ad) touchstone kelimesinin karşılığı: mihenk taşı
+TOUCHSTONES	(ad) çoğul çekimi: touchstone
+TOUCHY	(sıfat) touchy kelimesinin karşılığı: ⟪alıngan|ALINGAN⟫
+TOUGH	(sıfat) tough kelimesinin karşılığı: ⟪sert|SERT⟫
+TOUGHED	(tough sözcüğünün çekimi) (sıfat) tough kelimesinin karşılığı: ⟪sert|SERT⟫
+TOUGHER	(tough sözcüğünün çekimi) (sıfat) tough kelimesinin karşılığı: ⟪sert|SERT⟫
+TOUGHEST	(tough sözcüğünün çekimi) (sıfat) tough kelimesinin karşılığı: ⟪sert|SERT⟫
+TOUGHING	(tough sözcüğünün çekimi) (sıfat) tough kelimesinin karşılığı: ⟪sert|SERT⟫
+TOUGHNESS	(ad) müşkül: güç, zor, çetin
+TOUGHNESSES	(toughness sözcüğünün çekimi) (ad) müşkül: güç, zor, çetin
+TOUGHS	(ad) çoğul çekimi: tough
+TOUPEES	(ad) çoğul çekimi: toupee
+TOUR	(ad) tur: başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat
+TOURED	(tour sözcüğünün çekimi) (ad) tur: başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat
+TOURING	(tour sözcüğünün çekimi) (ad) tur: başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat
+TOURISM	(ad) turizm: Bir ülkeye veya bir bölgeye turist çekmek için alınan ekonomik, kültürel, teknik önlemlerin, yapılan çalışmaların tümü
+TOURISMS	(ad) tourism sözcüğünün çoğul çekimi: turizm
+TOURIST	(ad) turist: Dinlenme, eğlenme, görme, tanıma vb. amaçlarla geziye çıkan kimse, gezgin, gezmen, seyyah
+TOURISTS	(ad) tourist sözcüğünün çoğul çekimi: turist
+TOURMALINES	(ad) çoğul çekimi: tourmaline
+TOURNAMENTS	(ad) çoğul çekimi: tournament
+TOURS	(ad) turlar (tour): tur\n(eylem) tours kelimesinin karşılığı: ⟪turlar|TURLAR⟫
+TOUSLE	(eylem) tousle kelimesinin karşılığı: saçı dağıtmak, saçı bozmak, saçı karıştırmak
+TOUSLED	(tousle sözcüğünün çekimi) (eylem) tousle kelimesinin karşılığı: saçı dağıtmak, saçı bozmak, saçı karıştırmak
+TOUSLES	(tousle sözcüğünün çekimi) (eylem) tousle kelimesinin karşılığı: saçı dağıtmak, saçı bozmak, saçı karıştırmak
+TOUSLING	(tousle sözcüğünün çekimi) (eylem) tousle kelimesinin karşılığı: saçı dağıtmak, saçı bozmak, saçı karıştırmak
+TOUT	(ad) tout kelimesinin karşılığı: tüyocu\n(eylem) tout kelimesinin karşılığı: reklamını yapmak, ⟪övmek|ÖVMEK⟫, ⟪methetmek|METHETMEK⟫
+TOUTED	(tout sözcüğünün çekimi) (ad) tout kelimesinin karşılığı: tüyocu
+TOUTING	(tout sözcüğünün çekimi) (ad) tout kelimesinin karşılığı: tüyocu
+TOUTS	(tout sözcüğünün çekimi) (ad) tout kelimesinin karşılığı: tüyocu
+TOVARICHES	(ad) çoğul çekimi: tovariche
+TOWARD	(sıfat) gelecek: zaman bakımından ileride olması, gerçekleşmesi beklenen, müstakbel
+TOWBOATS	(ad) çoğul çekimi: towboat
+TOWEL	(ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELED	(towel sözcüğünün çekimi) (ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELING	(towel sözcüğünün çekimi) (ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELINGS	(towel sözcüğünün çekimi) (ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELLED	(towel sözcüğünün çekimi) (ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELLING	(towel sözcüğünün çekimi) (ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELLINGS	(towel sözcüğünün çekimi) (ad) havlu: Vücudun çeşitli yerlerinin kurulanmasına yarayan dokuma bez.
+TOWELS	(ad) towel sözcüğünün çoğul çekimi: havlu
+TOWER	(ad) kule: Çoğunlukla kare veya silindir biçimindeki yüksek yapı.
+TOWERED	(tower sözcüğünün çekimi) (ad) kule: Çoğunlukla kare veya silindir biçimindeki yüksek yapı.
+TOWERING	(tower sözcüğünün çekimi) (ad) kule: Çoğunlukla kare veya silindir biçimindeki yüksek yapı.
+TOWERINGLY	(tower sözcüğünün çekimi) (ad) kule: Çoğunlukla kare veya silindir biçimindeki yüksek yapı.
+TOWERS	(ad) tower sözcüğünün çoğul çekimi: kule
+TOWLINES	(ad) çoğul çekimi: towline
+TOWN	(ad) town kelimesinin karşılığı: ⟪kasaba|KASABA⟫
+TOWNHOUSES	(ad) çoğul çekimi: townhouse
+TOWNIES	(ad) çoğul çekimi: townie
+TOWNS	(ad) town sözcüğünün çoğul çekimi: kasaba
+TOWNSHIPS	(ad) çoğul çekimi: township
+TOWPATHS	(ad) çoğul çekimi: towpath
+TOWROPES	(ad) çoğul çekimi: towrope
+TOWS	(ad) çoğul çekimi: tow
+TOXEMIAS	(ad) çoğul çekimi: toxemia
+TOXIC	(sıfat) toxic kelimesinin karşılığı: ⟪toksik|TOKSİK⟫
+TOXICITIES	(ad) çoğul çekimi: toxicity
+TOXICITY	(ad) toxicity kelimesinin karşılığı: ⟪toksisite|TOKSİSİTE⟫
+TOXICOLOGIES	(ad) toxicology sözcüğünün çoğul çekimi: toksikoloji
+TOXICOLOGISTS	(ad) çoğul çekimi: toxicologist
+TOXICOLOGY	(ad) toksikoloji: zehirle, onların organizmaya olan etkileriyle ve zehirlerin belirlenmesiyle uğraşan bilim dalı, ağıbilim
+TOXICS	(toxic sözcüğünün çekimi) (sıfat) toxic kelimesinin karşılığı: ⟪toksik|TOKSİK⟫
+TOXIN	(ad) toksin: Canlı organizmalarda görülen zehir
+TOXINES	(toxin sözcüğünün çekimi) (ad) toksin: Canlı organizmalarda görülen zehir
+TOXINS	(ad) çoğul çekimi: toxin
+TOXOIDS	(ad) çoğul çekimi: toxoid
+TOXOPHILITES	(ad) çoğul çekimi: toxophilite
+TOY	(ad) oyuncak: oyun aracı (ayrıca: oyun aracı, oynayacak)
+TOYED	(toy sözcüğünün çekimi) (ad) oyuncak: oyun aracı (ayrıca: oyun aracı, oynayacak)
+TOYING	(toy sözcüğünün çekimi) (ad) oyuncak: oyun aracı (ayrıca: oyun aracı, oynayacak)
+TOYS	(ad) toy sözcüğünün çoğul çekimi: oyun aracı, oyuncak, oynayacak
+TRACE	(ad) trace kelimesinin karşılığı: ⟪eser|ESER⟫
+TRACED	(trace sözcüğünün çekimi) (ad) trace kelimesinin karşılığı: ⟪eser|ESER⟫
+TRACERS	(ad) çoğul çekimi: tracer
+TRACES	(trace sözcüğünün çekimi) (ad) trace kelimesinin karşılığı: ⟪eser|ESER⟫
+TRACHEA	(ad) trachea kelimesinin karşılığı: soluk borusu, ⟪trakea|TRAKEA⟫, nefes borusu
+TRACHEAE	(trachea sözcüğünün çekimi) (ad) trachea kelimesinin karşılığı: soluk borusu, ⟪trakea|TRAKEA⟫, nefes borusu
+TRACHEAS	(trachea sözcüğünün çekimi) (ad) trachea kelimesinin karşılığı: soluk borusu, ⟪trakea|TRAKEA⟫, nefes borusu
+TRACHEOPHYTES	(ad) çoğul çekimi: tracheophyte
+TRACHYTES	(ad) çoğul çekimi: trachyte
+TRACING	(eylem) trace sözcüğünün şimdiki zaman ortaç ve gerund çekimi: eser
+TRACINGS	(ad) çoğul çekimi: tracing
+TRACK	(ad) iz: Bir şeyin geçtiği veya önce bulunduğu yerde bıraktığı belirti. (ayrıca: rota)
+TRACKBALLS	(ad) çoğul çekimi: trackball
+TRACKED	(eylem) track sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: rota, iz
+TRACKER	(ad) izleyici: İzleme işini yapan kişi; seyirci. (ayrıca: takipçi, izci)
+TRACKERS	(ad) çoğul çekimi: tracker
+TRACKING	(eylem) track sözcüğünün şimdiki zaman ortaç ve gerund çekimi: rota, iz
+TRACKINGS	(track sözcüğünün çekimi) (ad) iz: Bir şeyin geçtiği veya önce bulunduğu yerde bıraktığı belirti. (ayrıca: rota)
+TRACKS	(ad) çoğul çekimi: track\n(eylem) track sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: rota, iz
+TRACT	(ad) tract kelimesinin karşılığı: ⟪risale|RİSALE⟫, ⟪broşür|BROŞÜR⟫
+TRACTABLE	(ad) uslu: akıllı, zeki (ayrıca: söz dinler, uysal)
+TRACTATES	(ad) çoğul çekimi: tractate
+TRACTION	(ad) çekim: herhangi bir cismin başka bir cismi kendine doğru çekme kuvveti, cazibe, traksiyon
+TRACTIONS	(traction sözcüğünün çekimi) (ad) çekim: herhangi bir cismin başka bir cismi kendine doğru çekme kuvveti, cazibe, traksiyon
+TRACTOR	(ad) traktör: Arkasına römork takılabilen, çift sürmek, yük taşımak vb. işlerde kullanılan motorlu iş makinesi.
+TRACTORS	(ad) çoğul çekimi: tractor
+TRACTS	(tract sözcüğünün çekimi) (ad) tract kelimesinin karşılığı: ⟪risale|RİSALE⟫, ⟪broşür|BROŞÜR⟫
+TRADE	(ad) ticaret: ürün, mal vb. alım satımı, mal alıp kârını üstüne koyarak satma\n(eylem) trade kelimesinin karşılığı: ticaret yapmak
+TRADED	(eylem) trade sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ticaret
+TRADEMARK	(ad) ayırmaç: bir şeyi benzerlerinden ayırt etmeye yarayan durum veya öge, farika (ayrıca: tescilli marka, alametifarika)
+TRADEMARKED	(trademark sözcüğünün çekimi) (ad) ayırmaç: bir şeyi benzerlerinden ayırt etmeye yarayan durum veya öge, farika (ayrıca: tescilli marka,...
+TRADEMARKING	(trademark sözcüğünün çekimi) (ad) ayırmaç: bir şeyi benzerlerinden ayırt etmeye yarayan durum veya öge, farika (ayrıca: tescilli marka,...
+TRADEMARKS	(ad) çoğul çekimi: trademark
+TRADES	(trade sözcüğünün çekimi) (ad) ticaret: ürün, mal vb. alım satımı, mal alıp kârını üstüne koyarak satma
+TRADING	(trade sözcüğünün çekimi) (ad) ticaret: ürün, mal vb. alım satımı, mal alıp kârını üstüne koyarak satma
+TRADITION	(ad) tradition kelimesinin karşılığı: ⟪gelenek|GELENEK⟫, ⟪anane|ANANE⟫, ⟪tradisyon|TRADİSYON⟫
+TRADITIONAL	(sıfat) geleneksel: Geleneğe dayanan, gelenekle ilgili olan; anadan görme, gelenekli, ananevi, tradisyonel. (ayrıca: ananevi, tradisyonel)
+TRADITIONALISM	(ad) gelenekçilik: toplumsal kurumları ve inançları daha çok geçmişten süregeldikleri için benimseyen, saygın tutan, destekleyen, yeni kültür ögelerine daha az değer veren tutum veya öğreti, ananecilik
+TRADITIONALISMS	(traditionalism sözcüğünün çekimi) (ad) gelenekçilik: toplumsal kurumları ve inançları daha çok geçmişten süregeldikleri için benimseyen, saygın tutan,...
+TRADITIONALIST	(ad) gelenekçi: geleneklere bağlı kimse, ananeci
+TRADITIONALISTS	(ad) çoğul çekimi: traditionalist
+TRADITIONS	(tradition sözcüğünün çekimi) (ad) tradition kelimesinin karşılığı: ⟪gelenek|GELENEK⟫, ⟪anane|ANANE⟫, ⟪tradisyon|TRADİSYON⟫
+TRADUCERS	(ad) çoğul çekimi: traducer
+TRAFFIC	(ad) trafik: Ulaşım yollarının yayalar ve her türlü taşıt tarafından kullanılması; gidiş geliş, seyrüsefer.
+TRAFFICKED	(traffic sözcüğünün çekimi) (ad) trafik: Ulaşım yollarının yayalar ve her türlü taşıt tarafından kullanılması; gidiş geliş, seyrüsefer.
+TRAFFICKERS	(ad) çoğul çekimi: trafficker
+TRAFFICKING	(traffic sözcüğünün çekimi) (ad) trafik: Ulaşım yollarının yayalar ve her türlü taşıt tarafından kullanılması; gidiş geliş, seyrüsefer.
+TRAFFICS	(ad) çoğul çekimi: traffic
+TRAGEDIANS	(ad) çoğul çekimi: tragedian
+TRAGEDIES	(ad) çoğul çekimi: tragedy
+TRAGEDY	(ad) trajedi: Konusunu efsanelerden veya tarihsel olaylardan alan, acıklı sonuçlarla bağlanan bir tür tiyatro eseri. (ayrıca: ağlatı)
+TRAGIC	(sıfat) tragic kelimesinin karşılığı: ⟪trajik|TRAJİK⟫
+TRAGICOMIC	(sıfat) tragicomic kelimesinin karşılığı: ⟪trajikomik|TRAJİKOMİK⟫
+TRAGICS	(tragic sözcüğünün çekimi) (sıfat) tragic kelimesinin karşılığı: ⟪trajik|TRAJİK⟫
+TRAIL	(ad) trail kelimesinin karşılığı: iz
+TRAILBLAZER	(ad) öncü; bir şeyi ilk yapan veya bir yeri ilk keşfeden, çığır açan kimse
+TRAILBLAZERS	(trailblazer sözcüğünün çekimi) (ad) öncü; bir şeyi ilk yapan veya bir yeri ilk keşfeden, çığır açan kimse
+TRAILED	(trail sözcüğünün çekimi) (ad) trail kelimesinin karşılığı: iz
+TRAILER	(ad) fragman: Tanıtma filmi. (ayrıca: tanıtım filmi)
+TRAILERED	(trailer sözcüğünün çekimi) (ad) fragman: Tanıtma filmi. (ayrıca: tanıtım filmi)
+TRAILERING	(trailer sözcüğünün çekimi) (ad) fragman: Tanıtma filmi. (ayrıca: tanıtım filmi)
+TRAILERS	(ad) çoğul çekimi: trailer
+TRAILING	(trail sözcüğünün çekimi) (ad) trail kelimesinin karşılığı: iz
+TRAILS	(trail sözcüğünün çekimi) (ad) trail kelimesinin karşılığı: iz
+TRAIN	(ad) tren: Demir yolunda yolcu ve yük taşımakta kullanılan, bir veya birkaç lokomotif tarafından çekilen vagonlar dizisi; katar, şimendifer.
+TRAINED	(train sözcüğünün çekimi) (ad) tren: Demir yolunda yolcu ve yük taşımakta kullanılan, bir veya birkaç lokomotif tarafından çekilen vagonlar...
+TRAINEES	(ad) çoğul çekimi: trainee
+TRAINER	(ad) çalıştırıcı: spor dalında, sporcuyu eğiten, yetiştiren ve çalıştıran kişi, antrenör, koç (ayrıca: antrenör, koç)
+TRAINERS	(ad) çoğul çekimi: trainer
+TRAINING	(ad) idman: alıştırma (ayrıca: antrenman, alıştırma)
+TRAININGS	(train sözcüğünün çekimi) (ad) tren: Demir yolunda yolcu ve yük taşımakta kullanılan, bir veya birkaç lokomotif tarafından çekilen vagonlar...
+TRAINLOADS	(ad) çoğul çekimi: trainload
+TRAINS	(ad) train sözcüğünün çoğul çekimi: tren
+TRAIPSES	(ad) çoğul çekimi: traipse
+TRAIT	(ad) trait kelimesinin karşılığı: ⟪boyut|BOYUT⟫
+TRAITOR	(ad) hain: zarar vermekten, üzmekten veya kötülük yapmaktan hoşlanan (kişi) (ayrıca: vatan haini)\n(eylem) traitor kelimesinin karşılığı: ihanet etmek, ⟪aldatmak|ALDATMAK⟫, ⟪dolandırmak|DOLANDIRMAK⟫
+TRAITOROUS	(sıfat) traitorous kelimesinin karşılığı: ⟪haince|HAİNCE⟫
+TRAITORS	(ad) çoğul çekimi: traitor
+TRAITS	(ad) trait sözcüğünün çoğul çekimi: boyut
+TRAJECTORIES	(ad) çoğul çekimi: trajectory
+TRAJECTORY	(ad) yörünge: bir gök cisminin hareketi süresince izlediği yol, mahrek
+TRAM	(ad) tram kelimesinin karşılığı: ⟪tramvay|TRAMVAY⟫
+TRAMLINE	(ad) tramline kelimesinin karşılığı: tramvay yolu, tramvay hattı
+TRAMLINES	(tramline sözcüğünün çekimi) (ad) tramline kelimesinin karşılığı: tramvay yolu, tramvay hattı
+TRAMMED	(tram sözcüğünün çekimi) (ad) tram kelimesinin karşılığı: ⟪tramvay|TRAMVAY⟫
+TRAMMELS	(ad) çoğul çekimi: trammel
+TRAMMING	(tram sözcüğünün çekimi) (ad) tram kelimesinin karşılığı: ⟪tramvay|TRAMVAY⟫
+TRAMP	(sıfat) tramp kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+TRAMPED	(tramp sözcüğünün çekimi) (sıfat) tramp kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+TRAMPERS	(ad) çoğul çekimi: tramper
+TRAMPING	(tramp sözcüğünün çekimi) (sıfat) tramp kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+TRAMPLERS	(ad) çoğul çekimi: trampler
+TRAMPOLINE	(ad) trampoline kelimesinin karşılığı: trambolin
+TRAMPOLINES	(trampoline sözcüğünün çekimi) (ad) trampoline kelimesinin karşılığı: trambolin
+TRAMPS	(ad) çoğul çekimi: tramp
+TRAMS	(ad) çoğul çekimi: tram
+TRAMWAY	(ad) tramway kelimesinin karşılığı: ⟪tramvay|TRAMVAY⟫
+TRAMWAYS	(tramway sözcüğünün çekimi) (ad) tramway kelimesinin karşılığı: ⟪tramvay|TRAMVAY⟫
+TRANQUIL	(ad) sakin: Kolayca sinirlenmeyen; sinirsiz.
+TRANQUILER	(tranquil sözcüğünün çekimi) (ad) sakin: Kolayca sinirlenmeyen; sinirsiz.
+TRANQUILEST	(tranquil sözcüğünün çekimi) (ad) sakin: Kolayca sinirlenmeyen; sinirsiz.
+TRANQUILIZERS	(ad) çoğul çekimi: tranquilizer
+TRANQUILLER	(tranquil sözcüğünün çekimi) (ad) sakin: Kolayca sinirlenmeyen; sinirsiz.
+TRANQUILLEST	(tranquil sözcüğünün çekimi) (ad) sakin: Kolayca sinirlenmeyen; sinirsiz.
+TRANQUILLITIES	(tranquillity sözcüğünün çekimi) (ad) huzur: Dirlik, baş dinçliği, gönül rahatlığı.
+TRANQUILLITY	(ad) huzur: Dirlik, baş dinçliği, gönül rahatlığı.
+TRANQUILLIZERS	(ad) çoğul çekimi: tranquillizer
+TRANSACTORS	(ad) çoğul çekimi: transactor
+TRANSAMINASES	(ad) çoğul çekimi: transaminase
+TRANSATLANTIC	(ad) transatlantik: Atlantik Okyanusu'nu aşarak Avrupa ve Amerika arasında çalışan gemi.
+TRANSCENDENTAL	(sıfat) transcendental kelimesinin karşılığı: ⟪aşkın|AŞKIN⟫
+TRANSCENDENTALISTS	(ad) çoğul çekimi: transcendentalist
+TRANSCRIBERS	(ad) çoğul çekimi: transcriber
+TRANSCRIPTION	(ad) transcription kelimesinin karşılığı: çevri yazı
+TRANSCRIPTIONS	(transcription sözcüğünün çekimi) (ad) transcription kelimesinin karşılığı: çevri yazı
+TRANSCRIPTS	(ad) çoğul çekimi: transcript
+TRANSDERMAL	(ad) transdermal kelimesinin karşılığı: transdermal
+TRANSDUCERS	(ad) çoğul çekimi: transducer
+TRANSDUCTION	(ad) transdüksiyon: Bir mikroorganizmadan diğerine bir bakteriyofaj ya da virüs aracılığı ile gen aktarılması.
+TRANSDUCTIONS	(transduction sözcüğünün çekimi) (ad) transdüksiyon: Bir mikroorganizmadan diğerine bir bakteriyofaj ya da virüs aracılığı ile gen aktarılması.
+TRANSECTS	(ad) çoğul çekimi: transect
+TRANSFER	(ad) transfer: bir şeyi bir yerden alıp başka bir yere götürme (ayrıca: aktarım)
+TRANSFERASES	(ad) çoğul çekimi: transferase
+TRANSFEREES	(ad) çoğul çekimi: transferee
+TRANSFERENCE	(ad) aktarım: psikoterapide hastanın terapiste ruhsal yapısı üzerinde etkili olmuş deneyim ve ilişkilerini aktarması
+TRANSFERENCES	(transference sözcüğünün çekimi) (ad) aktarım: psikoterapide hastanın terapiste ruhsal yapısı üzerinde etkili olmuş deneyim ve ilişkilerini aktarması
+TRANSFERRED	(transfer sözcüğünün çekimi) (ad) transfer: bir şeyi bir yerden alıp başka bir yere götürme (ayrıca: aktarım)
+TRANSFERRING	(transfer sözcüğünün çekimi) (ad) transfer: bir şeyi bir yerden alıp başka bir yere götürme (ayrıca: aktarım)
+TRANSFERS	(ad) çoğul çekimi: transfer
+TRANSFIGURATIONS	(ad) çoğul çekimi: transfiguration
+TRANSFIXIONS	(ad) çoğul çekimi: transfixion
+TRANSFORM	(ad) dönüşme: dönüşmek işi, tahavvül
+TRANSFORMATION	(ad) dönüşüm: olduğundan başka bir biçime girme, başka bir durum alma, şekil değiştirme, tahavvül, inkılap, transformasyon
+TRANSFORMATIONS	(transformation sözcüğünün çekimi) (ad) dönüşüm: olduğundan başka bir biçime girme, başka bir durum alma, şekil değiştirme, tahavvül, inkılap,...
+TRANSFORMED	(transform sözcüğünün çekimi) (ad) dönüşme: dönüşmek işi, tahavvül
+TRANSFORMER	(ad) transformer kelimesinin karşılığı: ⟪dönüştürücü|DÖNÜŞTÜRÜCÜ⟫
+TRANSFORMERS	(ad) çoğul çekimi: transformer
+TRANSFORMING	(transform sözcüğünün çekimi) (ad) dönüşme: dönüşmek işi, tahavvül
+TRANSFORMS	(ad) çoğul çekimi: transform
+TRANSFUSION	(ad) transfusion kelimesinin karşılığı: ⟪transfüzyon|TRANSFÜZYON⟫
+TRANSFUSIONS	(transfusion sözcüğünün çekimi) (ad) transfusion kelimesinin karşılığı: ⟪transfüzyon|TRANSFÜZYON⟫
+TRANSGRESS	(eylem) transgress kelimesinin karşılığı: günah işlemek
+TRANSGRESSED	(transgress sözcüğünün çekimi) (eylem) transgress kelimesinin karşılığı: günah işlemek
+TRANSGRESSES	(transgress sözcüğünün çekimi) (eylem) transgress kelimesinin karşılığı: günah işlemek
+TRANSGRESSING	(transgress sözcüğünün çekimi) (eylem) transgress kelimesinin karşılığı: günah işlemek
+TRANSGRESSOR	(ad) fasık: alenen suç işleyen âkil ve baliğ kişi
+TRANSGRESSORS	(ad) çoğul çekimi: transgressor
+TRANSIENTS	(ad) çoğul çekimi: transient
+TRANSISTOR	(ad) transistor kelimesinin karşılığı: ⟪transistör|TRANSİSTÖR⟫
+TRANSISTORS	(transistor sözcüğünün çekimi) (ad) transistor kelimesinin karşılığı: ⟪transistör|TRANSİSTÖR⟫
+TRANSIT	(ad) transit kelimesinin karşılığı: ⟪transit|TRANSİT⟫
+TRANSITED	(transit sözcüğünün çekimi) (ad) transit kelimesinin karşılığı: ⟪transit|TRANSİT⟫
+TRANSITING	(transit sözcüğünün çekimi) (ad) transit kelimesinin karşılığı: ⟪transit|TRANSİT⟫
+TRANSITION	(ad) transition kelimesinin karşılığı: ⟪geçiş|GEÇİŞ⟫
+TRANSITIONS	(ad) transition sözcüğünün çoğul çekimi: geçiş
+TRANSITIVE	(sıfat) transitive kelimesinin karşılığı: ⟪geçişli|GEÇİŞLİ⟫, ⟪müteaddi|MÜTEADDİ⟫
+TRANSITIVITIES	(transitivity sözcüğünün çekimi) (ad) geçişlilik: matematik'te, geçişlilik kelimesi en az üç farklı anlamı taşıyabilir
+TRANSITIVITY	(ad) geçişlilik: matematik'te, geçişlilik kelimesi en az üç farklı anlamı taşıyabilir
+TRANSITS	(ad) çoğul çekimi: transit
+TRANSLATE	(eylem) tercüme etmek: tercüme etme işi (ayrıca: çevirmek)
+TRANSLATED	(eylem) translate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: tercüme etmek, çevirmek
+TRANSLATES	(translate sözcüğünün çekimi) (eylem) tercüme etmek: tercüme etme işi (ayrıca: çevirmek)
+TRANSLATING	(ad) tercüme etme: tercüme etme (ayrıca: tercüme etmeme)
+TRANSLATION	(ad) çeviri: Bir dilden başka bir dile çevrilmiş yazı veya kitap; tercüme
+TRANSLATIONS	(ad) translation sözcüğünün çoğul çekimi: çeviri
+TRANSLATIVE	(ad) translative kelimesinin karşılığı: ⟪aktarıcı|AKTARICI⟫
+TRANSLATOR	(ad) çevirmen: Konuşmayı bir dilden başka bir dile çeviren kimse; çevirici, dilmaç, tercüman, dragoman.
+TRANSLATORS	(ad) çoğul çekimi: translator
+TRANSLITERATION	(ad) transliteration kelimesinin karşılığı: harf çevirisi
+TRANSLITERATIONS	(ad) çoğul çekimi: transliteration
+TRANSLOCATES	(ad) çoğul çekimi: translocate
+TRANSLOCATION	(ad) translocation kelimesinin karşılığı: ⟪translokasyon|TRANSLOKASYON⟫
+TRANSLOCATIONS	(translocation sözcüğünün çekimi) (ad) translocation kelimesinin karşılığı: ⟪translokasyon|TRANSLOKASYON⟫
+TRANSLUCENT	(ad) translucent kelimesinin karşılığı: yarı saydam
+TRANSMISSION	(ad) transmission kelimesinin karşılığı: ⟪transmisyon|TRANSMİSYON⟫
+TRANSMISSIONS	(transmission sözcüğünün çekimi) (ad) transmission kelimesinin karşılığı: ⟪transmisyon|TRANSMİSYON⟫
+TRANSMIT	(ad) iletmek: Götürmek, ulaştırmak, nakletmek, geçirmek.
+TRANSMITS	(transmit sözcüğünün çekimi) (ad) iletmek: Götürmek, ulaştırmak, nakletmek, geçirmek.
+TRANSMITTALS	(ad) çoğul çekimi: transmittal
+TRANSMITTANCES	(ad) çoğul çekimi: transmittance
+TRANSMITTED	(transmit sözcüğünün çekimi) (ad) iletmek: Götürmek, ulaştırmak, nakletmek, geçirmek.
+TRANSMITTER	(ad) verici: Veren, verme yanlısı olan kimse.
+TRANSMITTERS	(ad) çoğul çekimi: transmitter
+TRANSMITTING	(transmit sözcüğünün çekimi) (ad) iletmek: Götürmek, ulaştırmak, nakletmek, geçirmek.
+TRANSMUTATION	(ad) transmutation kelimesinin karşılığı: işlev değişimi
+TRANSMUTATIONS	(transmutation sözcüğünün çekimi) (ad) transmutation kelimesinin karşılığı: işlev değişimi
+TRANSOMS	(ad) çoğul çekimi: transom
+TRANSPARENCIES	(ad) çoğul çekimi: transparency
+TRANSPARENT	(ad) saydam: sayısal ortamda hazırlanmış, yansıtım aygıtında kullanılmaya özgü pozitif görüntü, slayt, diyapozitif (ayrıca: transparan)
+TRANSPLANTATIONS	(ad) çoğul çekimi: transplantation
+TRANSPLANTS	(ad) çoğul çekimi: transplant
+TRANSPONDERS	(ad) çoğul çekimi: transponder
+TRANSPORT	(ad) nakliyecilik: taşımacılık (ayrıca: taşımacılık)
+TRANSPORTATION	(ad) nakil: bir yerden alıp başka bir yere iletme, aktarma, taşıma, geçirme, aktarım, iletim
+TRANSPORTATIONS	(transportation sözcüğünün çekimi) (ad) nakil: bir yerden alıp başka bir yere iletme, aktarma, taşıma, geçirme, aktarım, iletim
+TRANSPORTED	(eylem) transport sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: nakliyecilik, taşımacılık
+TRANSPORTER	(ad) transporter kelimesinin karşılığı: ⟪taşıyıcı|TAŞIYICI⟫
+TRANSPORTERS	(ad) çoğul çekimi: transporter
+TRANSPORTING	(ad) transporting kelimesinin karşılığı: ⟪nakletme|NAKLETME⟫
+TRANSPORTS	(transport sözcüğünün çekimi) (ad) nakliyecilik: taşımacılık (ayrıca: taşımacılık)
+TRANSSEXUALS	(ad) çoğul çekimi: transsexual
+TRANSUBSTANTIATIONS	(ad) çoğul çekimi: transubstantiation
+TRANSUDATES	(ad) çoğul çekimi: transudate
+TRANSUDATIONS	(ad) çoğul çekimi: transudation
+TRANSVERSALS	(ad) çoğul çekimi: transversal
+TRANSVESTITE	(ad) travesti: Kadın gibi giyinip süslenen eş cinsel.
+TRANSVESTITES	(ad) çoğul çekimi: transvestite
+TRAP	(ad) tuzak: kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek, ağ (ayrıca: hendek)
+TRAPDOORS	(ad) çoğul çekimi: trapdoor
+TRAPES	(trap sözcüğünün çekimi) (ad) tuzak: kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek, ağ (ayrıca: hendek)
+TRAPESED	(trap sözcüğünün çekimi) (ad) tuzak: kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek, ağ (ayrıca: hendek)
+TRAPESES	(trap sözcüğünün çekimi) (ad) tuzak: kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek, ağ (ayrıca: hendek)
+TRAPESING	(trap sözcüğünün çekimi) (ad) tuzak: kuş veya yaban hayvanlarını yakalamaya yarayan araç veya düzenek, ağ (ayrıca: hendek)
+TRAPEZE	(ad) trapeze kelimesinin karşılığı: ⟪trapez|TRAPEZ⟫
+TRAPEZES	(trapeze sözcüğünün çekimi) (ad) trapeze kelimesinin karşılığı: ⟪trapez|TRAPEZ⟫
+TRAPEZIA	(trapezium sözcüğünün çekimi) (ad) yamuk: yalnız iki kenarı paralel olan dörtgen
+TRAPEZIUM	(ad) yamuk: yalnız iki kenarı paralel olan dörtgen
+TRAPEZOHEDRONS	(ad) çoğul çekimi: trapezohedron
+TRAPEZOIDS	(ad) çoğul çekimi: trapezoid
+TRAPPED	(eylem) trap sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hendek, tuzak
+TRAPPERS	(ad) çoğul çekimi: trapper
+TRAPPING	(eylem) trap sözcüğünün şimdiki zaman ortaç ve gerund çekimi: hendek, tuzak
+TRAPPINGS	(ad) çoğul çekimi: trapping
+TRAPS	(ad) trap sözcüğünün çoğul çekimi: hendek, tuzak
+TRASH	(ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+TRASHED	(eylem) trash sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çöp
+TRASHES	(ad) çoğul çekimi: trash
+TRASHING	(trash sözcüğünün çekimi) (ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+TRAUMATIC	(sıfat) traumatic kelimesinin karşılığı: travmatik
+TRAVEL	(ad) travel kelimesinin karşılığı: ⟪gezi|GEZİ⟫, ⟪seyahat|SEYAHAT⟫\n(eylem) gezinmek: eğlenmek, vakit geçirmek için gezmek, dolaşmak (ayrıca: seyahat etmek)
+TRAVELED	(eylem) (ABD) (travel): gezi, seyahat
+TRAVELERS	(ad) traveler sözcüğünün çoğul çekimi
+TRAVELING	(travel sözcüğünün çekimi) (ad) travel kelimesinin karşılığı: ⟪gezi|GEZİ⟫, ⟪seyahat|SEYAHAT⟫
+TRAVELLED	(eylem) (Birleşik Krallık) (travel): gezi, seyahat
+TRAVELLERS	(ad) çoğul çekimi: traveller
+TRAVELLING	(travel sözcüğünün çekimi) (ad) travel kelimesinin karşılığı: ⟪gezi|GEZİ⟫, ⟪seyahat|SEYAHAT⟫
+TRAVELOGS	(ad) çoğul çekimi: travelog
+TRAVELOGUES	(ad) çoğul çekimi: travelogue
+TRAVELS	(ad) çoğul çekimi: travel\n(eylem) travel sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: gezi, seyahat
+TRAVERSALS	(ad) çoğul çekimi: traversal
+TRAVERTINES	(ad) çoğul çekimi: travertine
+TRAVESTIES	(ad) çoğul çekimi: travesty
+TRAWL	(ad) trol: Teknelerle suyun dibinde sürüklenerek çekilen, huni biçiminde geniş ağızlı balık ağı\n(eylem) trolle balık avlamak; ağ ile balık tutmak
+TRAWLED	(trawl sözcüğünün çekimi) (ad) trol: Teknelerle suyun dibinde sürüklenerek çekilen, huni biçiminde geniş ağızlı balık ağı
+TRAWLER	(ad) alamana: balık avlamakta veya odun taşımakta kullanılan büyük kayık
+TRAWLERS	(trawler sözcüğünün çekimi) (ad) alamana: balık avlamakta veya odun taşımakta kullanılan büyük kayık
+TRAWLING	(trawl sözcüğünün çekimi) (ad) trol: Teknelerle suyun dibinde sürüklenerek çekilen, huni biçiminde geniş ağızlı balık ağı
+TRAWLS	(trawl sözcüğünün çekimi) (ad) trol: Teknelerle suyun dibinde sürüklenerek çekilen, huni biçiminde geniş ağızlı balık ağı
+TRAY	(ad) tray kelimesinin karşılığı: ⟪tepsi|TEPSİ⟫
+TRAYS	(ad) çoğul çekimi: tray
+TREACHERIES	(ad) çoğul çekimi: treachery
+TREACHEROUS	(sıfat) haince: kötü niyetli
+TREACHERY	(ad) treachery kelimesinin karşılığı: ⟪hıyanet|HIYANET⟫
+TREACLE	(ad) treacle kelimesinin karşılığı: şeker pekmezi, ⟪melas|MELAS⟫
+TREACLES	(treacle sözcüğünün çekimi) (ad) treacle kelimesinin karşılığı: şeker pekmezi, ⟪melas|MELAS⟫
+TREAD	(eylem) tread kelimesinin karşılığı: ⟪adımlamak|ADIMLAMAK⟫
+TREADED	(tread sözcüğünün çekimi) (eylem) tread kelimesinin karşılığı: ⟪adımlamak|ADIMLAMAK⟫
+TREADING	(tread sözcüğünün çekimi) (eylem) tread kelimesinin karşılığı: ⟪adımlamak|ADIMLAMAK⟫
+TREADLES	(ad) çoğul çekimi: treadle
+TREADMILLS	(ad) çoğul çekimi: treadmill
+TREADS	(ad) çoğul çekimi: tread
+TREASON	(ad) treason kelimesinin karşılığı: ⟪ihanet|İHANET⟫, ⟪hainlik|HAİNLİK⟫, ⟪hıyanet|HIYANET⟫
+TREASONS	(ad) çoğul çekimi: treason
+TREASURE	(ad) define: Toprak altına gömülerek saklanmış para veya değerli şeyler; gömü, hazine (ayrıca: hazine)
+TREASURED	(treasure sözcüğünün çekimi) (ad) define: Toprak altına gömülerek saklanmış para veya değerli şeyler; gömü, hazine (ayrıca: hazine)
+TREASURES	(ad) çoğul çekimi: treasure
+TREASURIES	(ad) çoğul çekimi: treasury
+TREASURING	(treasure sözcüğünün çekimi) (ad) define: Toprak altına gömülerek saklanmış para veya değerli şeyler; gömü, hazine (ayrıca: hazine)
+TREASURY	(ad) treasury kelimesinin karşılığı: devlet hazinesi
+TREAT	(eylem) treat kelimesinin karşılığı: muamele etmek
+TREATED	(eylem) treat sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: muamele etmek
+TREATIES	(ad) çoğul çekimi: treaty
+TREATING	(eylem) treat sözcüğünün şimdiki zaman ortaç ve gerund çekimi: muamele etmek
+TREATISES	(ad) çoğul çekimi: treatise
+TREATMENT	(ad) tedavi: çeşitli yöntemlerle hastalığı iyi etme, iyileştirme, sağaltım, sağaltma, terapi
+TREATMENTS	(ad) treatment sözcüğünün çoğul çekimi: tedavi
+TREATS	(ad) treat sözcüğünün çoğul çekimi: muamele etmek\n(eylem) treat sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: muamele etmek
+TREBLES	(ad) çoğul çekimi: treble
+TREBUCHET	(ad) mancınık: Top yapımının bilinmediği çağlarda, kale kuşatmalarında, ağır taş gülle fırlatmakta kullanılan basit bir savaş aracı
+TREBUCHETS	(ad) çoğul çekimi: trebuchet
+TREE	(eylem) tree kelimesinin karşılığı: ağaca tırmandırmak
+TREED	(tree sözcüğünün çekimi) (eylem) tree kelimesinin karşılığı: ağaca tırmandırmak
+TREEING	(tree sözcüğünün çekimi) (eylem) tree kelimesinin karşılığı: ağaca tırmandırmak
+TREELIKE	(sıfat) ağaçsıl: ağaçla ilgili olan, ağaç türünden olan
+TREENAIL	(ad) treenail kelimesinin karşılığı: ağaç çivi
+TREENAILS	(treenail sözcüğünün çekimi) (ad) treenail kelimesinin karşılığı: ağaç çivi
+TREES	(ad) tree sözcüğünün çoğul çekimi: ağaca tırmandırmak
+TREETOPS	(ad) çoğul çekimi: treetop
+TRELLIS	(ad) çardak: Asma vb. bitkilerin dallarını sardırmak için direklerle yapılmış yer.\n(eylem) (Bitkileri) ispalya üzerine çekmek
+TRELLISED	(trellis sözcüğünün çekimi) (ad) çardak: Asma vb. bitkilerin dallarını sardırmak için direklerle yapılmış yer.
+TRELLISES	(trellis sözcüğünün çekimi) (ad) çardak: Asma vb. bitkilerin dallarını sardırmak için direklerle yapılmış yer.
+TRELLISING	(trellis sözcüğünün çekimi) (ad) çardak: Asma vb. bitkilerin dallarını sardırmak için direklerle yapılmış yer.
+TREMATODES	(ad) çoğul çekimi: trematode
+TREMBLE	(eylem) titremek: Kasların hızlı ve küçük kasılmalarla sarsılması. (ayrıca: titreşmek)
+TREMBLED	(tremble sözcüğünün çekimi) (eylem) titremek: Kasların hızlı ve küçük kasılmalarla sarsılması. (ayrıca: titreşmek)
+TREMBLES	(tremble sözcüğünün çekimi) (eylem) titremek: Kasların hızlı ve küçük kasılmalarla sarsılması. (ayrıca: titreşmek)
+TREMBLING	(ad) trembling kelimesinin karşılığı: ⟪titreme|TİTREME⟫\n(sıfat) trembling kelimesinin karşılığı: ⟪titrek|TİTREK⟫
+TREMORS	(ad) çoğul çekimi: tremor
+TREMULOUS	(sıfat) tremulous kelimesinin karşılığı: ⟪titrek|TİTREK⟫
+TRENCH	(ad) trench kelimesinin karşılığı: ⟪siper|SİPER⟫
+TRENCHANCIES	(ad) çoğul çekimi: trenchancy
+TRENCHED	(trench sözcüğünün çekimi) (ad) trench kelimesinin karşılığı: ⟪siper|SİPER⟫
+TRENCHERS	(ad) çoğul çekimi: trencher
+TRENCHES	(ad) trench sözcüğünün çoğul çekimi: siper
+TRENCHING	(trench sözcüğünün çekimi) (ad) trench kelimesinin karşılığı: ⟪siper|SİPER⟫
+TREND	(ad) eğilim: belirli bir siyasi görüşe veya düşünceye yakın olma durumu, tandans
+TRENDED	(trend sözcüğünün çekimi) (ad) eğilim: belirli bir siyasi görüşe veya düşünceye yakın olma durumu, tandans
+TRENDING	(trend sözcüğünün çekimi) (ad) eğilim: belirli bir siyasi görüşe veya düşünceye yakın olma durumu, tandans
+TRENDS	(ad) çoğul çekimi: trend
+TREPANGS	(ad) çoğul çekimi: trepang
+TREPANS	(ad) çoğul çekimi: trepan
+TREPHINATIONS	(ad) çoğul çekimi: trephination
+TREPHINES	(ad) çoğul çekimi: trephine
+TREPIDATIONS	(ad) çoğul çekimi: trepidation
+TRESPASSERS	(ad) çoğul çekimi: trespasser
+TRESPASSES	(ad) çoğul çekimi: trespass
+TRESSELS	(ad) çoğul çekimi: tressel
+TRESSURES	(ad) çoğul çekimi: tressure
+TRESTLES	(ad) çoğul çekimi: trestle
+TREYS	(ad) çoğul çekimi: trey
+TRIAD	(ad) triad kelimesinin karşılığı: üçlü grup, ⟪topluluk|TOPLULUK⟫
+TRIADS	(ad) çoğul çekimi: triad
+TRIAGE	(ad) triyaj: acil servislerde ve savaşta tıbbî müdahale için yoğun bakım üniteleri gibi sıkıntı olan yerlere kimin girebileceğine karar veren belirleme sistemi.
+TRIAGES	(triage sözcüğünün çekimi) (ad) triyaj: acil servislerde ve savaşta tıbbî müdahale için yoğun bakım üniteleri gibi sıkıntı olan yerlere kimin...
+TRIAL	(ad) deneme: denemek işi, sınama
+TRIALS	(ad) trial sözcüğünün çoğul çekimi: deneme\n(eylem) trial sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: deneme
+TRIANGLE	(ad) üçgen: üç kenarı olan geometrik şekil (ayrıca: müselles)
+TRIANGLES	(triangle sözcüğünün çekimi) (ad) üçgen: üç kenarı olan geometrik şekil (ayrıca: müselles)
+TRIBADES	(ad) çoğul çekimi: tribade
+TRIBE	(ad) tribe kelimesinin karşılığı: ⟪aşiret|AŞİRET⟫, ⟪oymak|OYMAK⟫
+TRIBES	(ad) çoğul çekimi: tribe
+TRIBRACHS	(ad) çoğul çekimi: tribrach
+TRIBUNALS	(ad) çoğul çekimi: tribunal
+TRIBUTARIES	(ad) çoğul çekimi: tributary
+TRIBUTES	(ad) çoğul çekimi: tribute
+TRICES	(ad) çoğul çekimi: trice
+TRICHOMES	(ad) çoğul çekimi: trichome
+TRICK	(ad) trick kelimesinin karşılığı: ⟪dümen|DÜMEN⟫\n(eylem) trick kelimesinin karşılığı: ⟪kandırmak|KANDIRMAK⟫
+TRICKED	(eylem) trick sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dümen
+TRICKIER	(tricky sözcüğünün çekimi) (sıfat) tricky kelimesinin karşılığı: ⟪dedikodulu|DEDİKODULU⟫
+TRICKIEST	(tricky sözcüğünün çekimi) (sıfat) tricky kelimesinin karşılığı: ⟪dedikodulu|DEDİKODULU⟫
+TRICKING	(trick sözcüğünün çekimi) (ad) trick kelimesinin karşılığı: ⟪dümen|DÜMEN⟫
+TRICKLE	(eylem) damlamak; damla damla akmak; sızmak
+TRICKLED	(trickle sözcüğünün çekimi) (eylem) damlamak; damla damla akmak; sızmak
+TRICKLES	(trickle sözcüğünün çekimi) (eylem) damlamak; damla damla akmak; sızmak
+TRICKLING	(trickle sözcüğünün çekimi) (eylem) damlamak; damla damla akmak; sızmak
+TRICKLY	(trick sözcüğünün çekimi) (ad) trick kelimesinin karşılığı: ⟪dümen|DÜMEN⟫
+TRICKS	(ad) trick sözcüğünün çoğul çekimi: dümen
+TRICKSTERS	(ad) çoğul çekimi: trickster
+TRICKY	(sıfat) tricky kelimesinin karşılığı: ⟪dedikodulu|DEDİKODULU⟫
+TRICOLORS	(ad) çoğul çekimi: tricolor
+TRICORNS	(ad) çoğul çekimi: tricorn
+TRIED	(eylem) try sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çalışmak, denemek
+TRIES	(ad) try sözcüğünün çoğul çekimi: çalışmak, denemek\n(eylem) try sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: çalışmak, denemek
+TRIFLERS	(ad) çoğul çekimi: trifler
+TRIFLES	(ad) çoğul çekimi: trifle
+TRIFURCATIONS	(ad) çoğul çekimi: trifurcation
+TRIGGER	(sıfat) tetik: ateşli silahlarda ateşlemeyi sağlamak için çekilen küçük parça
+TRIGGERED	(trigger sözcüğünün çekimi) (sıfat) tetik: ateşli silahlarda ateşlemeyi sağlamak için çekilen küçük parça
+TRIGGERFISHES	(ad) çoğul çekimi: triggerfish
+TRIGGERING	(trigger sözcüğünün çekimi) (sıfat) tetik: ateşli silahlarda ateşlemeyi sağlamak için çekilen küçük parça
+TRIGGERS	(ad) çoğul çekimi: trigger
+TRIGLYCERIDES	(ad) çoğul çekimi: triglyceride
+TRIGONOMETRIC	(sıfat) trigonometrik: Trigonometri ile ilgili
+TRIGONOMETRICAL	(sıfat) trigonometrik: Trigonometri ile ilgili
+TRIGONOMETRICALLY	(trigonometrical sözcüğünün çekimi) (sıfat) trigonometrik: Trigonometri ile ilgili
+TRIGONOMETRIES	(ad) trigonometry sözcüğünün çoğul çekimi: trigonometri
+TRIGONOMETRY	(ad) trigonometri: Üçgenleri hesaplamayı konu edinen matematik kolu, müsellesat
+TRIGONS	(ad) çoğul çekimi: trigon
+TRIGRAPH	(ad) üç harfli küme
+TRIGRAPHS	(trigraph sözcüğünün çekimi) (ad) üç harfli küme
+TRIKES	(ad) çoğul çekimi: trike
+TRILITERALS	(ad) çoğul çekimi: triliteral
+TRILL	(ad) trill kelimesinin karşılığı: akıcı ünsüz
+TRILLED	(ad) trilled kelimesinin karşılığı: ⟪titrek|TİTREK⟫
+TRILLER	(trill sözcüğünün çekimi) (ad) trill kelimesinin karşılığı: akıcı ünsüz
+TRILLING	(trill sözcüğünün çekimi) (ad) trill kelimesinin karşılığı: akıcı ünsüz
+TRILLION	(ad) İngiliz sistemine göre 18 sıfırlı, Amerikan ve Fransız sistemine göre 12 sıfırlı sayı, trilyon.
+TRILLIONS	(trillion sözcüğünün çekimi) (ad) İngiliz sistemine göre 18 sıfırlı, Amerikan ve Fransız sistemine göre 12 sıfırlı sayı, trilyon.
+TRILLIUMS	(ad) çoğul çekimi: trillium
+TRILLS	(ad) çoğul çekimi: trill
+TRIM	(eylem) trim kelimesinin karşılığı: ⟪kırkmak|KIRKMAK⟫\n(sıfat) trim kelimesinin karşılığı: ⟪biçimli|BİÇİMLİ⟫
+TRIMERS	(ad) çoğul çekimi: trimer
+TRIMESTERS	(ad) çoğul çekimi: trimester
+TRIMMED	(trim sözcüğünün çekimi) (eylem) trim kelimesinin karşılığı: ⟪kırkmak|KIRKMAK⟫
+TRIMMER	(trim sözcüğünün çekimi) (eylem) trim kelimesinin karşılığı: ⟪kırkmak|KIRKMAK⟫
+TRIMMERS	(ad) çoğul çekimi: trimmer
+TRIMMEST	(trim sözcüğünün çekimi) (eylem) trim kelimesinin karşılığı: ⟪kırkmak|KIRKMAK⟫
+TRIMMING	(trim sözcüğünün çekimi) (eylem) trim kelimesinin karşılığı: ⟪kırkmak|KIRKMAK⟫
+TRIMMINGS	(ad) çoğul çekimi: trimming
+TRIMS	(ad) çoğul çekimi: trim
+TRINES	(ad) çoğul çekimi: trine
+TRINITROTOLUENES	(ad) çoğul çekimi: trinitrotoluene
+TRINKETS	(ad) çoğul çekimi: trinket
+TRINOMIALS	(ad) çoğul çekimi: trinomial
+TRIOXIDES	(ad) çoğul çekimi: trioxide
+TRIP	(ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: gezi, yolculuk)
+TRIPE	(ad) tripe kelimesinin karşılığı: ⟪işkembe|İŞKEMBE⟫
+TRIPES	(tripe sözcüğünün çekimi) (ad) tripe kelimesinin karşılığı: ⟪işkembe|İŞKEMBE⟫
+TRIPHTHONGS	(ad) çoğul çekimi: triphthong
+TRIPLET	(ad) triplet kelimesinin karşılığı: ⟪üçlü|ÜÇLÜ⟫
+TRIPLETS	(triplet sözcüğünün çekimi) (ad) triplet kelimesinin karşılığı: ⟪üçlü|ÜÇLÜ⟫
+TRIPLEX	(ad) üçlü, üç parçadan oluşan.
+TRIPLEXES	(triplex sözcüğünün çekimi) (ad) üçlü, üç parçadan oluşan.
+TRIPLICATE	(ad) triplicate kelimesinin karşılığı: üç tekrar
+TRIPLICATED	(triplicate sözcüğünün çekimi) (ad) triplicate kelimesinin karşılığı: üç tekrar
+TRIPLICATES	(ad) çoğul çekimi: triplicate
+TRIPLICATING	(triplicate sözcüğünün çekimi) (ad) triplicate kelimesinin karşılığı: üç tekrar
+TRIPLICATION	(ad) üçleme: Bir oyuncunun aynı karşılaşmada üç sayı yapması durumu.
+TRIPLICATIONS	(triplication sözcüğünün çekimi) (ad) üçleme: Bir oyuncunun aynı karşılaşmada üç sayı yapması durumu.
+TRIPODS	(ad) çoğul çekimi: tripod
+TRIPOSES	(ad) çoğul çekimi: tripos
+TRIPPED	(trip sözcüğünün çekimi) (ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: gezi, yolculuk)
+TRIPPERS	(ad) çoğul çekimi: tripper
+TRIPPING	(eylem) trip sözcüğünün şimdiki zaman ortaç ve gerund çekimi: gezi, seyahat, yolculuk
+TRIPPINGS	(trip sözcüğünün çekimi) (ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: gezi, yolculuk)
+TRIPS	(ad) trip sözcüğünün çoğul çekimi: gezi, seyahat, yolculuk\n(eylem) trip sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: gezi, seyahat, yolculuk
+TRIPTYCHS	(ad) çoğul çekimi: triptych
+TRIREMES	(ad) çoğul çekimi: trireme
+TRISECTIONS	(ad) çoğul çekimi: trisection
+TRISYLLABIC	(sıfat) trisyllabic kelimesinin karşılığı: üç heceli\n(ad) üç heceden oluşan sözcük
+TRITE	(sıfat) banal: sıradan
+TRITER	(trite sözcüğünün çekimi) (sıfat) banal: sıradan
+TRITEST	(trite sözcüğünün çekimi) (sıfat) banal: sıradan
+TRITICALES	(ad) çoğul çekimi: triticale
+TRITURATE	(ad) karışım: çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey, kokteyl
+TRITURATED	(triturate sözcüğünün çekimi) (ad) karışım: çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey, kokteyl
+TRITURATES	(triturate sözcüğünün çekimi) (ad) karışım: çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey, kokteyl
+TRITURATING	(triturate sözcüğünün çekimi) (ad) karışım: çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey, kokteyl
+TRIUMPH	(ad) zafer: bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı
+TRIUMPHANT	(sıfat) galip: bir yarışma, karşılaşma, çatışma vb. sonunda yenen, üstün gelen, başarı kazanan, yenen (ayrıca: muzaffer, zafer kazanmış)
+TRIUMPHANTLY	(zarf) triumphantly kelimesinin karşılığı: muzafferce, ⟪muzafferane|MUZAFFERANE⟫
+TRIUMPHED	(triumph sözcüğünün çekimi) (ad) zafer: bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı
+TRIUMPHING	(triumph sözcüğünün çekimi) (ad) zafer: bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı
+TRIUMPHS	(ad) çoğul çekimi: triumph\n(eylem) triumph sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: zafer
+TRIUMVIRATES	(ad) çoğul çekimi: triumvirate
+TRIUMVIRS	(ad) çoğul çekimi: triumvir
+TRIVETS	(ad) çoğul çekimi: trivet
+TRIVIA	(ad) önemli olmayan (veya "trivial") maddeler
+TRIVIAL	(sıfat) trivial kelimesinin karşılığı: kıçı kırık
+TRIVIALITIES	(ad) çoğul çekimi: triviality
+TROCARS	(ad) çoğul çekimi: trocar
+TROCHANTERS	(ad) çoğul çekimi: trochanter
+TROCHEES	(ad) çoğul çekimi: trochee
+TROD	(tread sözcüğünün çekimi) (eylem) tread kelimesinin karşılığı: ⟪adımlamak|ADIMLAMAK⟫
+TRODDEN	(tread sözcüğünün çekimi) (eylem) tread kelimesinin karşılığı: ⟪adımlamak|ADIMLAMAK⟫
+TROLL	(ad) trol: İnsanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışan, alaycı söylemlerle hakaret eden veya böyle söylemlerle kişilere dolaylı olarak rahatsızlık veren kişi
+TROLLED	(troll sözcüğünün çekimi) (ad) trol: İnsanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışan, alaycı söylemlerle hakaret...
+TROLLERS	(ad) çoğul çekimi: troller
+TROLLIES	(ad) çoğul çekimi: trolly
+TROLLING	(troll sözcüğünün çekimi) (ad) trol: İnsanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışan, alaycı söylemlerle hakaret...
+TROLLINGS	(troll sözcüğünün çekimi) (ad) trol: İnsanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışan, alaycı söylemlerle hakaret...
+TROLLOPS	(ad) çoğul çekimi: trollop
+TROLLS	(troll sözcüğünün çekimi) (ad) trol: İnsanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışan, alaycı söylemlerle hakaret...
+TROMBONE	(ad) trombon: Sürgü kolunun hareketiyle değişik yükseklikte seslerin elde edildiği nefesli çalgı
+TROMBONES	(trombone sözcüğünün çekimi) (ad) trombon: Sürgü kolunun hareketiyle değişik yükseklikte seslerin elde edildiği nefesli çalgı
+TROMBONISTS	(ad) çoğul çekimi: trombonist
+TROMMELS	(ad) çoğul çekimi: trommel
+TROOPERS	(ad) çoğul çekimi: trooper
+TROOPS	(ad) birlik: Belli bir topluluğun yararlarını korumak için kurulmuş dernek. (ayrıca: asker)
+TROOPSHIPS	(ad) çoğul çekimi: troopship
+TROPE	(ad) trope kelimesinin karşılığı: değişmece
+TROPES	(trope sözcüğünün çekimi) (ad) trope kelimesinin karşılığı: değişmece
+TROPHIES	(ad) trophy sözcüğünün çoğul çekimi\n(eylem) trophy sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+TROPHOBLAST	(ad) trofoblast: Memelilerde embriyo gelişmesi sırasında teşekkül eden, başlangıçta iki tabaka hâlinde olan, tek tek hücrelerden meydana gelmiş sitotrofoblast denilen iç tabaka ile çok çekirdekli sinsityum durumundaki hücrelerden meydana gelmiş sinsityotrofoblast denilen dış tabakadan oluşmuş blastosistin dış hücre...
+TROPHOBLASTS	(trophoblast sözcüğünün çekimi) (ad) trofoblast: Memelilerde embriyo gelişmesi sırasında teşekkül eden, başlangıçta iki tabaka hâlinde olan, tek tek...
+TROPIC	(sıfat) tropic kelimesinin karşılığı: ⟪tropik|TROPİK⟫
+TROPICAL	(sıfat) tropikal: Tropika ile ilgili, Ekvator'un kuzey ve güneyindeki 23°27’ enlemleri arasında kalan bölge ile ilgili.
+TROPICS	(ad) çoğul çekimi: tropic
+TROPOPAUSES	(ad) çoğul çekimi: tropopause
+TROPOSPHERE	(ad) alt hava yuvarı, troposfer
+TROPOSPHERES	(ad) çoğul çekimi: troposphere
+TROT	(eylem) trot kelimesinin karşılığı: hızlı yürümek
+TROTH	(ad) bağlılık: birine karşı, sevgi, saygı ile yakınlık duyma ve gösterme, sadakat (ayrıca: sadakat)
+TROTHED	(troth sözcüğünün çekimi) (ad) bağlılık: birine karşı, sevgi, saygı ile yakınlık duyma ve gösterme, sadakat (ayrıca: sadakat)
+TROTHING	(troth sözcüğünün çekimi) (ad) bağlılık: birine karşı, sevgi, saygı ile yakınlık duyma ve gösterme, sadakat (ayrıca: sadakat)
+TROTHS	(troth sözcüğünün çekimi) (ad) bağlılık: birine karşı, sevgi, saygı ile yakınlık duyma ve gösterme, sadakat (ayrıca: sadakat)
+TROTLINES	(ad) çoğul çekimi: trotline
+TROTS	(trot sözcüğünün çekimi) (eylem) trot kelimesinin karşılığı: hızlı yürümek
+TROTTED	(trot sözcüğünün çekimi) (eylem) trot kelimesinin karşılığı: hızlı yürümek
+TROTTING	(trot sözcüğünün çekimi) (eylem) trot kelimesinin karşılığı: hızlı yürümek
+TROUBADOUR	(ad) troubadour kelimesinin karşılığı: halk ozanı, saz şairi, halk şairi, ⟪âşık|AŞIK⟫
+TROUBADOURS	(troubadour sözcüğünün çekimi) (ad) troubadour kelimesinin karşılığı: halk ozanı, saz şairi, halk şairi, ⟪âşık|AŞIK⟫
+TROUBLE	(ad) sorun: (mecaz) sıkıntı veren durum, dert (ayrıca: dert)
+TROUBLED	(trouble sözcüğünün çekimi) (ad) sorun: (mecaz) sıkıntı veren durum, dert (ayrıca: dert)
+TROUBLEMAKERS	(ad) çoğul çekimi: troublemaker
+TROUBLES	(trouble sözcüğünün çekimi) (ad) sorun: (mecaz) sıkıntı veren durum, dert (ayrıca: dert)
+TROUBLING	(trouble sözcüğünün çekimi) (ad) sorun: (mecaz) sıkıntı veren durum, dert (ayrıca: dert)
+TROUGH	(ad) oluk: yağmur sularını damların kenarlarına toplayıp akıtan yatay konumlu, genellikle çinko vb. boru (ayrıca: yalak)
+TROUGHS	(ad) çoğul çekimi: trough
+TROUNCE	(eylem) dövmek: Tokat, yumruk, tekme vurarak canını acıtmak. (ayrıca: dayak atmak)
+TROUNCED	(trounce sözcüğünün çekimi) (eylem) dövmek: Tokat, yumruk, tekme vurarak canını acıtmak. (ayrıca: dayak atmak)
+TROUNCER	(trounce sözcüğünün çekimi) (eylem) dövmek: Tokat, yumruk, tekme vurarak canını acıtmak. (ayrıca: dayak atmak)
+TROUNCES	(trounce sözcüğünün çekimi) (eylem) dövmek: Tokat, yumruk, tekme vurarak canını acıtmak. (ayrıca: dayak atmak)
+TROUNCING	(trounce sözcüğünün çekimi) (eylem) dövmek: Tokat, yumruk, tekme vurarak canını acıtmak. (ayrıca: dayak atmak)
+TROUPE	(ad) troupe kelimesinin karşılığı: oyuncu grubu, tiyatro topluluğu, dans grubu
+TROUPED	(troupe sözcüğünün çekimi) (ad) troupe kelimesinin karşılığı: oyuncu grubu, tiyatro topluluğu, dans grubu
+TROUPERS	(ad) çoğul çekimi: trouper
+TROUPES	(troupe sözcüğünün çekimi) (ad) troupe kelimesinin karşılığı: oyuncu grubu, tiyatro topluluğu, dans grubu
+TROUPING	(troupe sözcüğünün çekimi) (ad) troupe kelimesinin karşılığı: oyuncu grubu, tiyatro topluluğu, dans grubu
+TROUSERS	(ad) pantolon: bel seviyesinden bileklere kadar uzanan iki bacak için ayrı bölümleri olan elbise
+TROUSSEAUS	(ad) çoğul çekimi: trousseau
+TROUT	(ad) trout kelimesinin karşılığı: ⟪alabalık|ALABALIK⟫
+TROUTS	(trout sözcüğünün çekimi) (ad) trout kelimesinin karşılığı: ⟪alabalık|ALABALIK⟫
+TROVES	(ad) çoğul çekimi: trove
+TROWELS	(ad) çoğul çekimi: trowel
+TRUANT	(ad) okuldan kaçağı; okuldan kaçan kimse; okulu asan kimse
+TRUANTED	(truant sözcüğünün çekimi) (ad) okuldan kaçağı; okuldan kaçan kimse; okulu asan kimse
+TRUANTING	(truant sözcüğünün çekimi) (ad) okuldan kaçağı; okuldan kaçan kimse; okulu asan kimse
+TRUANTS	(truant sözcüğünün çekimi) (ad) okuldan kaçağı; okuldan kaçan kimse; okulu asan kimse
+TRUCE	(ad) ateşkes: savaşan iki kuvvetin karşılıklı olarak savaşı durdurması, bırakışma, mütareke
+TRUCED	(truce sözcüğünün çekimi) (ad) ateşkes: savaşan iki kuvvetin karşılıklı olarak savaşı durdurması, bırakışma, mütareke
+TRUCES	(ad) çoğul çekimi: truce
+TRUCING	(truce sözcüğünün çekimi) (ad) ateşkes: savaşan iki kuvvetin karşılıklı olarak savaşı durdurması, bırakışma, mütareke
+TRUCK	(ad) kamyon: Ağır yük taşımak için kullanılan büyük taşıt
+TRUCKED	(truck sözcüğünün çekimi) (ad) kamyon: Ağır yük taşımak için kullanılan büyük taşıt
+TRUCKERS	(ad) çoğul çekimi: trucker
+TRUCKING	(truck sözcüğünün çekimi) (ad) kamyon: Ağır yük taşımak için kullanılan büyük taşıt
+TRUCKINGS	(truck sözcüğünün çekimi) (ad) kamyon: Ağır yük taşımak için kullanılan büyük taşıt
+TRUCKS	(ad) truck sözcüğünün çoğul çekimi: kamyon\n(eylem) truck sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kamyon
+TRUDGE	(eylem) yorgun argın yürümek; bitkinlikten yavaş ve ağır adımlarla yürümek
+TRUDGED	(trudge sözcüğünün çekimi) (eylem) yorgun argın yürümek; bitkinlikten yavaş ve ağır adımlarla yürümek
+TRUDGES	(trudge sözcüğünün çekimi) (eylem) yorgun argın yürümek; bitkinlikten yavaş ve ağır adımlarla yürümek
+TRUDGING	(trudge sözcüğünün çekimi) (eylem) yorgun argın yürümek; bitkinlikten yavaş ve ağır adımlarla yürümek
+TRUE	(ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat\n(eylem) true kelimesinin karşılığı: ⟪düzeltmek|DÜZELTMEK⟫
+TRUED	(true sözcüğünün çekimi) (ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat
+TRUEING	(true sözcüğünün çekimi) (ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat
+TRUER	(true sözcüğünün çekimi) (ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat
+TRUES	(true sözcüğünün çekimi) (ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat
+TRUEST	(true sözcüğünün çekimi) (ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat
+TRUFFLES	(ad) çoğul çekimi: truffle
+TRUGS	(ad) çoğul çekimi: trug
+TRUING	(true sözcüğünün çekimi) (ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat
+TRULLS	(ad) çoğul çekimi: trull
+TRULY	(zarf) hakikat: doğrusu, gerçekten, hakikaten
+TRUMP	(ad) trump kelimesinin karşılığı: ⟪koz|KOZ⟫\n(eylem) trump kelimesinin karşılığı: baskın çıkmak
+TRUMPED	(trump sözcüğünün çekimi) (ad) trump kelimesinin karşılığı: ⟪koz|KOZ⟫
+TRUMPET	(ad) trompet: ağızlık ve kendi üstüne kıvrılmış silindir bir borudan oluşan nefesli çalgı
+TRUMPETED	(trumpet sözcüğünün çekimi) (ad) trompet: ağızlık ve kendi üstüne kıvrılmış silindir bir borudan oluşan nefesli çalgı
+TRUMPETER	(ad) trumpeter kelimesinin karşılığı: ⟪agami|AGAMİ⟫, borazan kuşu
+TRUMPETERS	(trumpeter sözcüğünün çekimi) (ad) trumpeter kelimesinin karşılığı: ⟪agami|AGAMİ⟫, borazan kuşu
+TRUMPETING	(trumpet sözcüğünün çekimi) (ad) trompet: ağızlık ve kendi üstüne kıvrılmış silindir bir borudan oluşan nefesli çalgı
+TRUMPETS	(ad) çoğul çekimi: trumpet
+TRUMPING	(trump sözcüğünün çekimi) (ad) trump kelimesinin karşılığı: ⟪koz|KOZ⟫
+TRUMPS	(ad) çoğul çekimi: trump
+TRUNDLE	(ad) trundle kelimesinin karşılığı: ⟪yuvarlanmak|YUVARLANMAK⟫, ⟪dönmek|DÖNMEK⟫
+TRUNDLED	(trundle sözcüğünün çekimi) (ad) trundle kelimesinin karşılığı: ⟪yuvarlanmak|YUVARLANMAK⟫, ⟪dönmek|DÖNMEK⟫
+TRUNDLER	(trundle sözcüğünün çekimi) (ad) trundle kelimesinin karşılığı: ⟪yuvarlanmak|YUVARLANMAK⟫, ⟪dönmek|DÖNMEK⟫
+TRUNDLES	(ad) çoğul çekimi: trundle
+TRUNDLING	(trundle sözcüğünün çekimi) (ad) trundle kelimesinin karşılığı: ⟪yuvarlanmak|YUVARLANMAK⟫, ⟪dönmek|DÖNMEK⟫
+TRUNK	(ad) sap: iplik, tire, ibrişim vb. şeylerde iğneye geçirilen bir dikişlik iplik (ayrıca: kütük, trank)
+TRUNKS	(ad) trunk sözcüğünün çoğul çekimi: sap, kütük, trank\n(eylem) trunk sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: sap, kütük, trank
+TRUNNIONS	(ad) çoğul çekimi: trunnion
+TRUSSES	(ad) çoğul çekimi: truss
+TRUST	(eylem) güvenmek: güven duymak, güveni olmak, itimat etmek
+TRUSTED	(eylem) trust sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: güvenmek\n(sıfat) güvenilir: güven duygusu veren, güvenilen, itimatlı
+TRUSTEES	(ad) çoğul çekimi: trustee
+TRUSTEESHIPS	(ad) çoğul çekimi: trusteeship
+TRUSTING	(trust sözcüğünün çekimi) (eylem) güvenmek: güven duymak, güveni olmak, itimat etmek
+TRUSTORS	(ad) çoğul çekimi: trustor
+TRUSTS	(ad) trust sözcüğünün çoğul çekimi: güvenmek\n(eylem) trust sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: güvenmek
+TRUSTWORTHILY	(trustworthy sözcüğünün çekimi) (sıfat) sika: güvenilir, itimada şayan bir râvî
+TRUSTWORTHY	(sıfat) sika: güvenilir, itimada şayan bir râvî
+TRUTH	(ad) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat (ayrıca: doğru, hakikat)
+TRUTHS	(ad) truth sözcüğünün çoğul çekimi: doğru, gerçek, hakikat
+TRY	(eylem) try kelimesinin karşılığı: ⟪çalışmak|ÇALIŞMAK⟫, ⟪denemek|DENEMEK⟫\n(ad) girişim: girişilen, toplu ve uyumlu çaba gerektiren iş, proje
+TRYING	(eylem) try sözcüğünün şimdiki zaman ortaç ve gerund çekimi: çalışmak, denemek
+TRYINGLY	(try sözcüğünün çekimi) (eylem) try kelimesinin karşılığı: ⟪çalışmak|ÇALIŞMAK⟫, ⟪denemek|DENEMEK⟫
+TRYSTS	(ad) çoğul çekimi: tryst
+TUATARAS	(ad) çoğul çekimi: tuatara
+TUB	(ad) küvet: İçine su doldurulup yıkanmaya elverişli tekne; banyo küveti. (ayrıca: leğen, tekne)
+TUBA	(ad) tuba kelimesinin karşılığı: ⟪tuba|TUBA⟫
+TUBAE	(ad) çoğul çekimi: tuba
+TUBAS	(tuba sözcüğünün çekimi) (ad) tuba kelimesinin karşılığı: ⟪tuba|TUBA⟫
+TUBBED	(tub sözcüğünün çekimi) (ad) küvet: İçine su doldurulup yıkanmaya elverişli tekne; banyo küveti. (ayrıca: leğen, tekne)
+TUBBER	(tub sözcüğünün çekimi) (ad) küvet: İçine su doldurulup yıkanmaya elverişli tekne; banyo küveti. (ayrıca: leğen, tekne)
+TUBE	(ad) uzun, içi boş silindir; tüp
+TUBED	(tube sözcüğünün çekimi) (ad) uzun, içi boş silindir; tüp
+TUBER	(ad) tuber kelimesinin karşılığı: ⟪yumru|YUMRU⟫
+TUBERCULOSES	(ad) tuberculosis sözcüğünün çoğul çekimi: verem, tüberküloz
+TUBERCULOSIS	(ad) verem: Herhangi bir organa ve en çok akciğerlere yerleşen Koch basilinin yol açtığı ateşli ve bulaşıcı bir hastalık; ince ağrı, ince hastalık, tüberküloz. (ayrıca: tüberküloz)
+TUBEROSE	(ad) tuberose kelimesinin karşılığı: ⟪sümbülteber|SÜMBÜLTEBER⟫
+TUBEROSES	(ad) çoğul çekimi: tuberose
+TUBERS	(ad) çoğul çekimi: tuber
+TUBES	(ad) tube sözcüğünün çoğul çekimi: uzun, içi boş silindir; tüp
+TUBFULS	(ad) çoğul çekimi: tubful
+TUBING	(tube sözcüğünün çekimi) (ad) uzun, içi boş silindir; tüp
+TUBINGS	(tube sözcüğünün çekimi) (ad) uzun, içi boş silindir; tüp
+TUBS	(ad) tub sözcüğünün çoğul çekimi: küvet; leğen; tekne.\n(eylem) tub sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: küvet; leğen; tekne.
+TUCK	(eylem) Bir şeyi diğerinin içine tıkmak, sokmak
+TUCKED	(tuck sözcüğünün çekimi) (eylem) Bir şeyi diğerinin içine tıkmak, sokmak
+TUCKER	(ad) tucker kelimesinin karşılığı: ⟪yormak|YORMAK⟫, ⟪tüketmek|TÜKETMEK⟫
+TUCKERED	(tucker sözcüğünün çekimi) (ad) tucker kelimesinin karşılığı: ⟪yormak|YORMAK⟫, ⟪tüketmek|TÜKETMEK⟫
+TUCKERING	(tucker sözcüğünün çekimi) (ad) tucker kelimesinin karşılığı: ⟪yormak|YORMAK⟫, ⟪tüketmek|TÜKETMEK⟫
+TUCKERS	(ad) çoğul çekimi: tucker
+TUCKING	(tuck sözcüğünün çekimi) (eylem) Bir şeyi diğerinin içine tıkmak, sokmak
+TUCKS	(ad) çoğul çekimi: tuck
+TUFTS	(ad) çoğul çekimi: tuft
+TUGBOAT	(ad) tugboat kelimesinin karşılığı: ⟪römorkör|RÖMORKÖR⟫
+TUGBOATS	(ad) çoğul çekimi: tugboat
+TUGRIK	(ad) tugrik: Moğolistan'ın para birimi.
+TUGRIKS	(ad) tugrik sözcüğünün çoğul çekimi: tugrik
+TUGS	(ad) çoğul çekimi: tug
+TUITION	(ad) tuition kelimesinin karşılığı: okul ücreti, okul harcı
+TUITIONS	(ad) çoğul çekimi: tuition
+TULIP	(ad) tulip kelimesinin karşılığı: ⟪lale|LALE⟫
+TULIPS	(ad) çoğul çekimi: tulip
+TULLES	(ad) çoğul çekimi: tulle
+TUMBLERS	(ad) çoğul çekimi: tumbler
+TUMBLEWEEDS	(ad) çoğul çekimi: tumbleweed
+TUMBRELS	(ad) çoğul çekimi: tumbrel
+TUMBRILS	(ad) çoğul çekimi: tumbril
+TUMESCENCES	(ad) çoğul çekimi: tumescence
+TUMMIES	(tummy sözcüğünün çekimi) (ad) tummy kelimesinin karşılığı: göbüş
+TUMMY	(ad) tummy kelimesinin karşılığı: göbüş
+TUMOR	(ad) tümör: Vücuttaki herhangi bir dokunun anormal büyümesi; ur, şiş, yumru, dert
+TUMORS	(ad) çoğul çekimi: tumor
+TUMOUR	(ad) tümör: Vücuttaki herhangi bir dokunun anormal büyümesi; ur, şiş, yumru, dert (ayrıca: ur)
+TUMOURS	(ad) çoğul çekimi: tumour
+TUMPS	(ad) çoğul çekimi: tump
+TUMULTS	(ad) çoğul çekimi: tumult
+TUMULUSES	(ad) çoğul çekimi: tumulus
+TUNA	(ad) tuna kelimesinin karşılığı: ⟪orkinos|ORKİNOS⟫, ⟪torik|TORİK⟫
+TUNAS	(tuna sözcüğünün çekimi) (ad) tuna kelimesinin karşılığı: ⟪orkinos|ORKİNOS⟫, ⟪torik|TORİK⟫
+TUNDRA	(ad) tundra kelimesinin karşılığı: ⟪tundra|TUNDRA⟫
+TUNDRAS	(ad) çoğul çekimi: tundra
+TUNE	(ad) ezgi: Bir müzik parçasında baştan sona kadar belirli yerlerde tekrarlanan ses dizisi. (ayrıca: nâme)
+TUNED	(eylem) tune sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ezgi, nâme
+TUNES	(ad) tune sözcüğünün çoğul çekimi: ezgi, nâme\n(eylem) tune sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ezgi, nâme
+TUNGS	(ad) çoğul çekimi: tung
+TUNGSTEN	(ad) volfram: atom sayısı 74, atom ağırlığı 183,85 olan, 19,3 yoğunluğunda, sert ve ancak 3482 °C'de ergiyen bir element, tungsten (ayrıca: tungsten)
+TUNGSTENS	(tungsten sözcüğünün çekimi) (ad) volfram: atom sayısı 74, atom ağırlığı 183,85 olan, 19,3 yoğunluğunda, sert ve ancak 3482 °C'de ergiyen bir...
+TUNIC	(ad) tunic kelimesinin karşılığı: ⟪tunik|TUNİK⟫
+TUNICATES	(ad) çoğul çekimi: tunicate
+TUNICLES	(ad) çoğul çekimi: tunicle
+TUNICS	(ad) çoğul çekimi: tunic
+TUNING	(tune sözcüğünün çekimi) (ad) ezgi: Bir müzik parçasında baştan sona kadar belirli yerlerde tekrarlanan ses dizisi. (ayrıca: nâme)
+TUNNEL	(ad) tünel: Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında, genellikle dağların içinde açılan yol
+TUNNELED	(tunnel sözcüğünün çekimi) (ad) tünel: Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında,...
+TUNNELER	(tunnel sözcüğünün çekimi) (ad) tünel: Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında,...
+TUNNELING	(tunnel sözcüğünün çekimi) (ad) tünel: Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında,...
+TUNNELLED	(tunnel sözcüğünün çekimi) (ad) tünel: Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında,...
+TUNNELLING	(tunnel sözcüğünün çekimi) (ad) tünel: Motorlu taşıt, metro, demir yolu ulaşımı, su taşıma vb. farklı amaçlara yönelik olarak yer altında,...
+TUNNELS	(ad) tunnel sözcüğünün çoğul çekimi: tünel
+TUNNIES	(ad) çoğul çekimi: tunny
+TUNNY	(ad) orkinos: ton balığı
+TUNS	(ad) çoğul çekimi: tun
+TUP	(ad) koç: damızlık erkek koyun
+TUPPED	(tup sözcüğünün çekimi) (ad) koç: damızlık erkek koyun
+TUPPENCES	(ad) çoğul çekimi: tuppence
+TUPPING	(tup sözcüğünün çekimi) (ad) koç: damızlık erkek koyun
+TUPS	(ad) çoğul çekimi: tup
+TURBAN	(ad) türban: İnce kumaştan yapılmış, başı sıkıca kavrayan bir tür başörtüsü.
+TURBANNED	(turban sözcüğünün çekimi) (ad) türban: İnce kumaştan yapılmış, başı sıkıca kavrayan bir tür başörtüsü.
+TURBANS	(turban sözcüğünün çekimi) (ad) türban: İnce kumaştan yapılmış, başı sıkıca kavrayan bir tür başörtüsü.
+TURBIDITIES	(turbidity sözcüğünün çekimi) (ad) turbidity kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+TURBIDITY	(ad) turbidity kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+TURBINALS	(ad) çoğul çekimi: turbinal
+TURBOFANS	(ad) çoğul çekimi: turbofan
+TURBOJETS	(ad) çoğul çekimi: turbojet
+TURBOPROPS	(ad) çoğul çekimi: turboprop
+TURBOT	(ad) turbot kelimesinin karşılığı: kalkan balığı
+TURBOTS	(turbot sözcüğünün çekimi) (ad) turbot kelimesinin karşılığı: kalkan balığı
+TURBULENCE	(ad) turbulence kelimesinin karşılığı: ⟪burgaç|BURGAÇ⟫, ⟪türbülans|TÜRBÜLANS⟫
+TURBULENCES	(ad) çoğul çekimi: turbulence
+TURF	(ad) turf kelimesinin karşılığı: ⟪çim|ÇİM⟫, ⟪çimen|ÇİMEN⟫, ⟪çimenlik|ÇİMENLİK⟫
+TURFED	(turf sözcüğünün çekimi) (ad) turf kelimesinin karşılığı: ⟪çim|ÇİM⟫, ⟪çimen|ÇİMEN⟫, ⟪çimenlik|ÇİMENLİK⟫
+TURFING	(turf sözcüğünün çekimi) (ad) turf kelimesinin karşılığı: ⟪çim|ÇİM⟫, ⟪çimen|ÇİMEN⟫, ⟪çimenlik|ÇİMENLİK⟫
+TURFS	(ad) çoğul çekimi: turf
+TURKEY	(ad) turkey kelimesinin karşılığı: ⟪hindi|HİNDİ⟫
+TURKEYS	(ad) turkey sözcüğünün çoğul çekimi: hindi
+TURMERIC	(ad) turmeric kelimesinin karşılığı: ⟪zerdeçal|ZERDEÇAL⟫
+TURMERICS	(ad) turmeric sözcüğünün çoğul çekimi: zerdeçal
+TURMOIL	(ad) kargaşa: kışkırtma ve karışıklık yoluyla toplumda ortaya çıkan düzen bozukluğu, anarşi (ayrıca: karışıklık, hengame)
+TURMOILED	(turmoil sözcüğünün çekimi) (ad) kargaşa: kışkırtma ve karışıklık yoluyla toplumda ortaya çıkan düzen bozukluğu, anarşi (ayrıca: karışıklık,...
+TURMOILING	(turmoil sözcüğünün çekimi) (ad) kargaşa: kışkırtma ve karışıklık yoluyla toplumda ortaya çıkan düzen bozukluğu, anarşi (ayrıca: karışıklık,...
+TURMOILS	(turmoil sözcüğünün çekimi) (ad) kargaşa: kışkırtma ve karışıklık yoluyla toplumda ortaya çıkan düzen bozukluğu, anarşi (ayrıca: karışıklık,...
+TURN	(eylem) dönmek: durumdan duruma geçmek, değişmek, olduğundan daha değişik bir durum almak, benzemek
+TURNABOUTS	(ad) çoğul çekimi: turnabout
+TURNAROUND	(ad) turnaround kelimesinin karşılığı: geri dönme, geri dönüm
+TURNAROUNDS	(turnaround sözcüğünün çekimi) (ad) turnaround kelimesinin karşılığı: geri dönme, geri dönüm
+TURNBUCKLES	(ad) çoğul çekimi: turnbuckle
+TURNCOATS	(ad) çoğul çekimi: turncoat
+TURNED	(eylem) turn sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dönmek.
+TURNER	(ad) turner kelimesinin karşılığı: ⟪tornacı|TORNACI⟫
+TURNERS	(ad) çoğul çekimi: turner
+TURNING	(sıfat) dönme: Biçimi değişmeyen bir şeklin ekseni çevresindeki hareketi.
+TURNINGS	(ad) çoğul çekimi: turning
+TURNIP	(ad) şalgam: Turpgillerden, yumru köklü bir bitki (Brassica rapa).
+TURNIPS	(ad) çoğul çekimi: turnip
+TURNKEYS	(ad) çoğul çekimi: turnkey
+TURNOFFS	(ad) çoğul çekimi: turnoff
+TURNOUTS	(ad) çoğul çekimi: turnout
+TURNOVER	(ad) turnover kelimesinin karşılığı: açık ciro
+TURNOVERS	(ad) çoğul çekimi: turnover
+TURNPIKES	(ad) çoğul çekimi: turnpike
+TURNS	(ad) turn sözcüğünün çoğul çekimi: dönmek.
+TURNSTILE	(ad) turnstile kelimesinin karşılığı: dönme dolap
+TURNSTILES	(ad) çoğul çekimi: turnstile
+TURNTABLES	(ad) çoğul çekimi: turntable
+TURNUPS	(ad) çoğul çekimi: turnup
+TURPENTINE	(ad) turpentine kelimesinin karşılığı: ⟪terebentin|TEREBENTİN⟫, ⟪terementi|TEREMENTİ⟫
+TURPENTINED	(turpentine sözcüğünün çekimi) (ad) turpentine kelimesinin karşılığı: ⟪terebentin|TEREBENTİN⟫, ⟪terementi|TEREMENTİ⟫
+TURPENTINES	(turpentine sözcüğünün çekimi) (ad) turpentine kelimesinin karşılığı: ⟪terebentin|TEREBENTİN⟫, ⟪terementi|TEREMENTİ⟫
+TURPENTINING	(turpentine sözcüğünün çekimi) (ad) turpentine kelimesinin karşılığı: ⟪terebentin|TEREBENTİN⟫, ⟪terementi|TEREMENTİ⟫
+TURQUOISE	(ad) turkuvaz: Yeşil ile mavi arası bir renk. (ayrıca: firuze, turkuaz)\n(sıfat) turkuvaz: Yeşil ile mavi arası bir renk.
+TURQUOISES	(turquoise sözcüğünün çekimi) (ad) turkuvaz: Yeşil ile mavi arası bir renk. (ayrıca: firuze, turkuaz)
+TURRETS	(ad) çoğul çekimi: turret
+TURTLE	(ad) turtle kelimesinin karşılığı: ⟪kaplumbağa|KAPLUMBAĞA⟫, ⟪tosbağa|TOSBAĞA⟫
+TURTLEBACKS	(ad) çoğul çekimi: turtleback
+TURTLED	(turtle sözcüğünün çekimi) (ad) turtle kelimesinin karşılığı: ⟪kaplumbağa|KAPLUMBAĞA⟫, ⟪tosbağa|TOSBAĞA⟫
+TURTLEDOVES	(ad) çoğul çekimi: turtledove
+TURTLENECKS	(ad) çoğul çekimi: turtleneck
+TURTLES	(ad) turtles kelimesinin karşılığı: ⟪kaplumbağalar|KAPLUMBAĞALAR⟫
+TURTLING	(turtle sözcüğünün çekimi) (ad) turtle kelimesinin karşılığı: ⟪kaplumbağa|KAPLUMBAĞA⟫, ⟪tosbağa|TOSBAĞA⟫
+TURTLINGS	(turtle sözcüğünün çekimi) (ad) turtle kelimesinin karşılığı: ⟪kaplumbağa|KAPLUMBAĞA⟫, ⟪tosbağa|TOSBAĞA⟫
+TURVES	(turf sözcüğünün çekimi) (ad) turf kelimesinin karşılığı: ⟪çim|ÇİM⟫, ⟪çimen|ÇİMEN⟫, ⟪çimenlik|ÇİMENLİK⟫
+TUSHES	(ad) çoğul çekimi: tush
+TUSKS	(ad) çoğul çekimi: tusk
+TUSSLES	(ad) çoğul çekimi: tussle
+TUSSOCKS	(ad) çoğul çekimi: tussock
+TUTEES	(ad) çoğul çekimi: tutee
+TUTORIAL	(ad) eğitmen: eğitim işiyle uğraşan kimse
+TUTORIALS	(tutorial sözcüğünün çekimi) (ad) eğitmen: eğitim işiyle uğraşan kimse
+TUTORS	(ad) çoğul çekimi: tutor
+TUTORSHIPS	(ad) çoğul çekimi: tutorship
+TUTU	(ad) tutu kelimesinin karşılığı: dans eteği
+TUTUS	(tutu sözcüğünün çekimi) (ad) tutu kelimesinin karşılığı: dans eteği
+TUXEDOES	(ad) çoğul çekimi: tuxedo
+TUXES	(ad) çoğul çekimi: tux
+TWADDLERS	(ad) çoğul çekimi: twaddler
+TWAIN	(sıfat) twain kelimesinin karşılığı: ⟪iki|İKİ⟫
+TWAINS	(twain sözcüğünün çekimi) (sıfat) twain kelimesinin karşılığı: ⟪iki|İKİ⟫
+TWEAK	(ad) tweak kelimesinin karşılığı: ⟪çimdik|ÇİMDİK⟫, ⟪çimdikleme|ÇİMDİKLEME⟫\n(eylem) tweak kelimesinin karşılığı: ⟪çimdiklemek|ÇİMDİKLEMEK⟫
+TWEAKED	(tweak sözcüğünün çekimi) (ad) tweak kelimesinin karşılığı: ⟪çimdik|ÇİMDİK⟫, ⟪çimdikleme|ÇİMDİKLEME⟫
+TWEAKING	(tweak sözcüğünün çekimi) (ad) tweak kelimesinin karşılığı: ⟪çimdik|ÇİMDİK⟫, ⟪çimdikleme|ÇİMDİKLEME⟫
+TWEAKS	(ad) çoğul çekimi: tweak
+TWEED	(ad) tüvit: Taranmış yünden yapılan, çoğu iki renkte, tekstilde kullanılan bir kumaş türü. (ayrıca: iskoç kumaşı)
+TWEEDS	(ad) çoğul çekimi: tweed
+TWEET	(ad) tweet kelimesinin karşılığı: kuş sesi\n(eylem) ötmek: kuş veya böceklerin değişik tonda ses çıkarmaları, sır etmek
+TWEETED	(eylem) tweet sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kuş sesi
+TWEETERS	(ad) çoğul çekimi: tweeter
+TWEETING	(tweet sözcüğünün çekimi) (ad) tweet kelimesinin karşılığı: kuş sesi
+TWEETS	(tweet sözcüğünün çekimi) (ad) tweet kelimesinin karşılığı: kuş sesi
+TWEEZE	(eylem) tweeze kelimesinin karşılığı: cımbızla almak, cımbızla yolmak
+TWEEZED	(tweeze sözcüğünün çekimi) (eylem) tweeze kelimesinin karşılığı: cımbızla almak, cımbızla yolmak
+TWEEZES	(tweeze sözcüğünün çekimi) (eylem) tweeze kelimesinin karşılığı: cımbızla almak, cımbızla yolmak
+TWEEZING	(tweeze sözcüğünün çekimi) (eylem) tweeze kelimesinin karşılığı: cımbızla almak, cımbızla yolmak
+TWELFTH	(sıfat) twelfth kelimesinin karşılığı: on ikinci
+TWELFTHS	(ad) çoğul çekimi: twelfth
+TWELVE	(sayı) twelve kelimesinin karşılığı: on iki
+TWELVEMONTHS	(ad) çoğul çekimi: twelvemonth
+TWELVEMOS	(ad) çoğul çekimi: twelvemo
+TWELVES	(ad) çoğul çekimi: twelve
+TWENTIES	(ad) çoğul çekimi: twenty
+TWENTIETH	(sıfat) yirminci: 20.
+TWENTIETHS	(ad) çoğul çekimi: twentieth
+TWENTY	(sayı) yirmi: on dokuzdan sonra gelen sayı
+TWERPS	(ad) çoğul çekimi: twerp
+TWIG	(ad) twig kelimesinin karşılığı: ince dal
+TWIGGED	(twig sözcüğünün çekimi) (ad) twig kelimesinin karşılığı: ince dal
+TWIGGING	(twig sözcüğünün çekimi) (ad) twig kelimesinin karşılığı: ince dal
+TWIGS	(ad) çoğul çekimi: twig
+TWILIGHT	(ad) twilight kelimesinin karşılığı: alaca karanlık
+TWILIGHTS	(ad) çoğul çekimi: twilight
+TWIN	(ad) ikiz: İkisi bir arada doğan (çocuk)
+TWINE	(eylem) twine kelimesinin karşılığı: ⟪örmek|ÖRMEK⟫\n(ad) twine kelimesinin karşılığı: ⟪bağcık|BAĞCIK⟫
+TWINED	(twine sözcüğünün çekimi) (eylem) twine kelimesinin karşılığı: ⟪örmek|ÖRMEK⟫
+TWINER	(twin sözcüğünün çekimi) (ad) ikiz: İkisi bir arada doğan (çocuk)
+TWINERS	(twin sözcüğünün çekimi) (ad) ikiz: İkisi bir arada doğan (çocuk)
+TWINES	(ad) çoğul çekimi: twine
+TWINGES	(ad) çoğul çekimi: twinge
+TWINING	(twine sözcüğünün çekimi) (eylem) twine kelimesinin karşılığı: ⟪örmek|ÖRMEK⟫
+TWINJETS	(ad) çoğul çekimi: twinjet
+TWINKLES	(ad) çoğul çekimi: twinkle
+TWINNED	(twin sözcüğünün çekimi) (ad) ikiz: İkisi bir arada doğan (çocuk)
+TWINNING	(twin sözcüğünün çekimi) (ad) ikiz: İkisi bir arada doğan (çocuk)
+TWINNINGS	(ad) çoğul çekimi: twinning
+TWINS	(ad) twins kelimesinin karşılığı: kadın göğüsleri
+TWIRLERS	(ad) çoğul çekimi: twirler
+TWIRLS	(ad) çoğul çekimi: twirl
+TWIST	(eylem) bükmek: sertçe çevirmek. (ayrıca: birşeyi burmak)
+TWISTED	(twist sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek. (ayrıca: birşeyi burmak)
+TWISTERS	(ad) çoğul çekimi: twister
+TWISTING	(ad) twisting kelimesinin karşılığı: ⟪bükme|BÜKME⟫
+TWISTINGS	(twist sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek. (ayrıca: birşeyi burmak)
+TWISTS	(twist sözcüğünün çekimi) (eylem) bükmek: sertçe çevirmek. (ayrıca: birşeyi burmak)
+TWITCHERS	(ad) çoğul çekimi: twitcher
+TWITCHES	(ad) çoğul çekimi: twitch
+TWITTERS	(ad) çoğul çekimi: twitter
+TWO	(sayı) iki: en küçük ve tek çift sayı olan asal sayı
+TWOFERS	(ad) çoğul çekimi: twofer
+TWOPENCE	(ad) twopence kelimesinin karşılığı: iki peni
+TWOPENCES	(ad) çoğul çekimi: twopence
+TWOS	(ad) çoğul çekimi: two
+TWOSOMES	(ad) çoğul çekimi: twosome
+TYCOON	(ad) bir iş veya sanayii sektöründeki güçlü ve etkili iş insanı
+TYCOONS	(ad) tycoon sözcüğünün çoğul çekimi: bir iş veya sanayii sektöründeki güçlü ve etkili iş insanı
+TYES	(ad) çoğul çekimi: tye
+TYING	(eylem) tie sözcüğünün şimdiki zaman ortaç ve gerund çekimi: bağlamak
+TYKE	(ad) tyke kelimesinin karşılığı: ⟪yaramaz|YARAMAZ⟫, afacan çocuk
+TYKES	(ad) çoğul çekimi: tyke
+TYMPANA	(tympanum sözcüğünün çekimi) (ad) tympanum kelimesinin karşılığı: kulak davulu
+TYMPANUM	(ad) tympanum kelimesinin karşılığı: kulak davulu
+TYMPANUMS	(tympanum sözcüğünün çekimi) (ad) tympanum kelimesinin karşılığı: kulak davulu
+TYPE	(ad) karakter: bir bireyin kendine özgü yapısı, onu başkalarından ayıran temel belirti ve bireyin davranış biçimlerini belirleyen, üstün ana özellik (ayrıca: yazıtipi)
+TYPECASTS	(ad) çoğul çekimi: typecast
+TYPED	(eylem) type sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: karakter, yazıtipi
+TYPEFACES	(ad) çoğul çekimi: typeface
+TYPES	(ad) type sözcüğünün çoğul çekimi: karakter, yazıtipi
+TYPESCRIPT	(ad) typescript kelimesinin karşılığı: daktilo yazısı
+TYPESCRIPTS	(ad) typescripts kelimesinin karşılığı: daktilo yazıları
+TYPESETTER	(ad) dizgici: Basımevinde dizgi işiyle uğraşan kimse; mürettip, dizmen, mürettip.
+TYPESETTERS	(ad) çoğul çekimi: typesetter
+TYPEWRITER	(ad) daktilo: yazı makinesi (ayrıca: daktilo makinesi, yazı makinesi)
+TYPEWRITERS	(ad) çoğul çekimi: typewriter
+TYPHOON	(ad) typhoon kelimesinin karşılığı: ⟪tayfun|TAYFUN⟫
+TYPHOONS	(ad) çoğul çekimi: typhoon
+TYPHUS	(ad) tifüs: Bitle geçen, ortalama 15 gün süren, vücutta pembe lekelerle beliren, ateşli ve tehlikeli bir hastalık, lekeli humma
+TYPHUSES	(ad) typhus sözcüğünün çoğul çekimi: tifüs
+TYPIFICATIONS	(ad) çoğul çekimi: typification
+TYPING	(type sözcüğünün çekimi) (ad) karakter: bir bireyin kendine özgü yapısı, onu başkalarından ayıran temel belirti ve bireyin davranış biçimlerini...
+TYPIST	(ad) daktilograf: Yazı makinesi ile yazı yazan kimse; daktilo
+TYPISTS	(ad) çoğul çekimi: typist
+TYPOGRAPHERS	(ad) çoğul çekimi: typographer
+TYPOGRAPHICAL	(sıfat) typographical kelimesinin karşılığı: tipografik
+TYPOGRAPHICALLY	(zarf) typographically kelimesinin karşılığı: tipografik olarak
+TYPOGRAPHIES	(typography sözcüğünün çekimi) (ad) tipografya: tipografi (ayrıca: tipografi, basım)
+TYPOGRAPHY	(ad) tipografya: tipografi (ayrıca: tipografi, basım)
+TYPOLOGIES	(typology sözcüğünün çekimi) (ad) typology kelimesinin karşılığı: tiplendirme
+TYPOLOGY	(ad) typology kelimesinin karşılığı: tiplendirme
+TYRANNIES	(ad) çoğul çekimi: tyranny
+TYRANT	(ad) tyrant kelimesinin karşılığı: ⟪tiran|TİRAN⟫
+TYRANTS	(ad) çoğul çekimi: tyrant
+TYRE	(sıfat) tyre kelimesinin karşılığı: ⟪lastik|LASTİK⟫\n(ad) tyre kelimesinin karşılığı: ⟪lastik|LASTİK⟫
+TYRED	(tyre sözcüğünün çekimi) (sıfat) tyre kelimesinin karşılığı: ⟪lastik|LASTİK⟫
+TYRES	(ad) çoğul çekimi: tyre
+TYRING	(tyre sözcüğünün çekimi) (sıfat) tyre kelimesinin karşılığı: ⟪lastik|LASTİK⟫
+TYROS	(ad) çoğul çekimi: tyro

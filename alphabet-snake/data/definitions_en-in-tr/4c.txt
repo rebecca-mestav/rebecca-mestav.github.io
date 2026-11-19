@@ -1,0 +1,1447 @@
+LABARUMS	(ad) çoğul çekimi: labarum
+LABEL	(ad) etiket: Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek için üzerlerine konulan küçük kâğıt.
+LABELED	(label sözcüğünün çekimi) (ad) etiket: Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek...
+LABELING	(ad) labeling kelimesinin karşılığı: ⟪etiketleme|ETİKETLEME⟫
+LABELLED	(label sözcüğünün çekimi) (ad) etiket: Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek...
+LABELLER	(label sözcüğünün çekimi) (ad) etiket: Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek...
+LABELLING	(label sözcüğünün çekimi) (ad) etiket: Bir malın tür, miktar, fiyat vb. nitelikleri veya kitap, defter vb. şeylerin kime ait olduğunu belirtmek...
+LABELS	(ad) label sözcüğünün çoğul çekimi: etiket
+LABIA	(ad) çoğul çekimi: labium
+LABIAL	(ad) labial kelimesinin karşılığı: ⟪dudaksıl|DUDAKSIL⟫
+LABIALIZATION	(ad) labialization kelimesinin karşılığı: dudaksıllaşma
+LABIALIZATIONS	(labialization sözcüğünün çekimi) (ad) labialization kelimesinin karşılığı: dudaksıllaşma
+LABIALS	(ad) çoğul çekimi: labial
+LABILE	(ad) kararsız: kararı olmayan, karar vermekte güçlük çeken, bir kararda durmayan; duruksun, mütereddit
+LABORATORIES	(ad) çoğul çekimi: laboratory
+LABORATORY	(ad) laboratuvar: Ayrıştırma, birleştirme yoluyla bir sonuca ulaşmak veya teşhis koymak için çeşitli araçlar kullanılarak tıp, eczacılık, fizik, kimya gibi bilim dallarıyla ilgili araştırmaların, deneylerin yapıldığı özel donanımlı yer, deneylik
+LABORERS	(ad) çoğul çekimi: laborer
+LABORS	(ad) çoğul çekimi: labor
+LABOUR	(ad) labour kelimesinin karşılığı: ⟪emek|EMEK⟫, iş
+LABOURED	(labour sözcüğünün çekimi) (ad) labour kelimesinin karşılığı: ⟪emek|EMEK⟫, iş
+LABOURER	(ad) çalışan: çalışma işini yapan kişi
+LABOURERS	(ad) çoğul çekimi: labourer
+LABOURING	(labour sözcüğünün çekimi) (ad) labour kelimesinin karşılığı: ⟪emek|EMEK⟫, iş
+LABOURS	(labour sözcüğünün çekimi) (ad) labour kelimesinin karşılığı: ⟪emek|EMEK⟫, iş
+LABRADORITES	(ad) çoğul çekimi: labradorite
+LABRADORS	(ad) çoğul çekimi: labrador
+LABRETS	(ad) çoğul çekimi: labret
+LABS	(ad) çoğul çekimi: lab
+LABURNUMS	(ad) çoğul çekimi: laburnum
+LABYRINTH	(ad) labirent: çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı
+LABYRINTHS	(ad) çoğul çekimi: labyrinth
+LACE	(ad) dantel: Her türlü iplikle örülen veya bir kumaşın kenarına işlenen türlü biçimde ince ve ağ görünümünde örgü, tentene
+LACED	(lace sözcüğünün çekimi) (ad) dantel: Her türlü iplikle örülen veya bir kumaşın kenarına işlenen türlü biçimde ince ve ağ görünümünde örgü,...
+LACERATE	(eylem) kesmek: (mecaz) birini yermek, kötülemek (ayrıca: parçalamak, yırtmak)
+LACERATED	(lacerate sözcüğünün çekimi) (eylem) kesmek: (mecaz) birini yermek, kötülemek (ayrıca: parçalamak, yırtmak)
+LACERATES	(lacerate sözcüğünün çekimi) (eylem) kesmek: (mecaz) birini yermek, kötülemek (ayrıca: parçalamak, yırtmak)
+LACERATING	(lacerate sözcüğünün çekimi) (eylem) kesmek: (mecaz) birini yermek, kötülemek (ayrıca: parçalamak, yırtmak)
+LACERATIONS	(ad) çoğul çekimi: laceration
+LACES	(ad) lace sözcüğünün çoğul çekimi: dantel\n(eylem) lace sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dantel
+LACEWINGS	(ad) çoğul çekimi: lacewing
+LACIER	(sıfat) lacy sözcüğünün karşılaştırma derecesi çekimi
+LACING	(lace sözcüğünün çekimi) (ad) dantel: Her türlü iplikle örülen veya bir kumaşın kenarına işlenen türlü biçimde ince ve ağ görünümünde örgü,...
+LACINGS	(lace sözcüğünün çekimi) (ad) dantel: Her türlü iplikle örülen veya bir kumaşın kenarına işlenen türlü biçimde ince ve ağ görünümünde örgü,...
+LACKERS	(ad) çoğul çekimi: lacker
+LACKEYS	(ad) çoğul çekimi: lackey
+LACKLUSTER	(sıfat) sönük: parlaklığı, hızı az veya azalmış olan, etkisiz, zayıf (ayrıca: cansız, donuk)
+LACKLUSTERS	(lackluster sözcüğünün çekimi) (sıfat) sönük: parlaklığı, hızı az veya azalmış olan, etkisiz, zayıf (ayrıca: cansız, donuk)
+LACKS	(ad) çoğul çekimi: lack
+LACONIC	(sıfat) kısa ve öz; özlü; veciz
+LACQUERS	(ad) çoğul çekimi: lacquer
+LACROSSE	(ad) lakros: Her oyuncunun ufak ve sert plastikten yapılmış topu taşıyabilecekleri ve ucunda bir ağ olan sopalarla (crosse) oynadığı, amacı topu karşı takımın kalesine sokmak olan bir takım sporu.
+LACROSSES	(lacrosse sözcüğünün çekimi) (ad) lakros: Her oyuncunun ufak ve sert plastikten yapılmış topu taşıyabilecekleri ve ucunda bir ağ olan sopalarla...
+LACTAMS	(ad) çoğul çekimi: lactam
+LACTASES	(ad) çoğul çekimi: lactase
+LACTATES	(ad) çoğul çekimi: lactate
+LACTATION	(ad) laktasyon: memeli hayvanlarda doğumla birlikte meme bezlerinden süt salgılanmaya başlanması ve bu süt salgılamasının belirli bir süre devam etmesi
+LACTATIONS	(ad) çoğul çekimi: lactation
+LACTONES	(ad) çoğul çekimi: lactone
+LACTOSE	(ad) laktoz: Sütte bulunan ve sütün buharlaşması ile kristal hâlde toplanan bir disakkarit, süt şekeri (C12H22O11) (ayrıca: süt şekeri)
+LACTOSES	(lactose sözcüğünün çekimi) (ad) laktoz: Sütte bulunan ve sütün buharlaşması ile kristal hâlde toplanan bir disakkarit, süt şekeri (C12H22O11)...
+LACUNAS	(ad) çoğul çekimi: lacuna
+LAD	(ad) oğlan ya da delikanlı
+LADDER	(ad) ladder kelimesinin karşılığı: ⟪merdiven|MERDİVEN⟫
+LADDERED	(ladder sözcüğünün çekimi) (ad) ladder kelimesinin karşılığı: ⟪merdiven|MERDİVEN⟫
+LADDERING	(ladder sözcüğünün çekimi) (ad) ladder kelimesinin karşılığı: ⟪merdiven|MERDİVEN⟫
+LADDERS	(ad) ladder sözcüğünün çoğul çekimi: merdiven
+LADER	(lad sözcüğünün çekimi) (ad) oğlan ya da delikanlı
+LADIES	(ad) lady sözcüğünün çoğul çekimi: bayan, hanım
+LADINGS	(ad) çoğul çekimi: lading
+LADLE	(ad) kepçe: saplı çembere geçirilmiş olan, balık veya kelebek tutmada kullanılan ağ; atrap.\n(eylem) ladle kelimesinin karşılığı: kepçeyle koymak, kepçeyle doldurmak, kepçeyle boşaltmak
+LADLED	(ladle sözcüğünün çekimi) (ad) kepçe: saplı çembere geçirilmiş olan, balık veya kelebek tutmada kullanılan ağ; atrap.
+LADLER	(ladle sözcüğünün çekimi) (ad) kepçe: saplı çembere geçirilmiş olan, balık veya kelebek tutmada kullanılan ağ; atrap.
+LADLES	(ad) çoğul çekimi: ladle
+LADLING	(ladle sözcüğünün çekimi) (ad) kepçe: saplı çembere geçirilmiş olan, balık veya kelebek tutmada kullanılan ağ; atrap.
+LADS	(ad) çoğul çekimi: lad
+LADY	(ad) bayan: Kadınlara bir seslenme sözü. (ayrıca: hanım)
+LADYBIRD	(ad) uçuç böceği: uğur böceği (ayrıca: uğur böceği, gelin böceği)
+LADYBIRDS	(ad) çoğul çekimi: ladybird
+LADYBUG	(ad) uçuç böceği: uğur böceği (ayrıca: uğur böceği, gelin böceği)
+LADYBUGS	(ladybug sözcüğünün çekimi) (ad) uçuç böceği: uğur böceği (ayrıca: uğur böceği, gelin böceği)
+LADYFINGER	(ad) ladyfinger kelimesinin karşılığı: hanım parmağı, kadın parmağı
+LADYFINGERS	(ad) çoğul çekimi: ladyfinger
+LADYLOVE	(ad) aşık olunan kadın; sevgili;
+LADYLOVES	(ladylove sözcüğünün çekimi) (ad) aşık olunan kadın; sevgili;
+LADYSHIPS	(ad) çoğul çekimi: ladyship
+LAG	(ad) lag kelimesinin karşılığı: ilerletici benzetme
+LAGERS	(ad) çoğul çekimi: lager
+LAGGARDS	(ad) çoğul çekimi: laggard
+LAGGED	(lag sözcüğünün çekimi) (ad) lag kelimesinin karşılığı: ilerletici benzetme
+LAGGING	(lag sözcüğünün çekimi) (ad) lag kelimesinin karşılığı: ilerletici benzetme
+LAGGINGS	(lag sözcüğünün çekimi) (ad) lag kelimesinin karşılığı: ilerletici benzetme
+LAGNIAPPES	(ad) çoğul çekimi: lagniappe
+LAGOMORPHS	(ad) çoğul çekimi: lagomorph
+LAGOONS	(ad) çoğul çekimi: lagoon
+LAGS	(ad) çoğul çekimi: lag
+LAHARS	(ad) çoğul çekimi: lahar
+LAIC	(ad) ilim: bilim
+LAICS	(ad) çoğul çekimi: laic
+LAIN	(lie sözcüğünün çekimi) (ad) yalan: doğru olmayan, gerçeğe uymayan söz, kaşkariko, kıtır, hilaf, şorolop
+LAIRDS	(ad) çoğul çekimi: laird
+LAIRS	(ad) çoğul çekimi: lair
+LAKE	(ad) göl: coğrafya, jeoloji
+LAKED	(lake sözcüğünün çekimi) (ad) göl: coğrafya, jeoloji
+LAKERS	(ad) çoğul çekimi: laker
+LAKES	(ad) lake sözcüğünün çoğul çekimi: göl
+LAKING	(lake sözcüğünün çekimi) (ad) göl: coğrafya, jeoloji
+LAMB	(ad) kuzu: yavru.
+LAMBAST	(ad) lambast kelimesinin karşılığı: ⟪eleştirmek|ELEŞTİRMEK⟫, ⟪azarlamak|AZARLAMAK⟫
+LAMBASTS	(lambast sözcüğünün çekimi) (ad) lambast kelimesinin karşılığı: ⟪eleştirmek|ELEŞTİRMEK⟫, ⟪azarlamak|AZARLAMAK⟫
+LAMBED	(lamb sözcüğünün çekimi) (ad) kuzu: yavru.
+LAMBER	(lamb sözcüğünün çekimi) (ad) kuzu: yavru.
+LAMBING	(lamb sözcüğünün çekimi) (ad) kuzu: yavru.
+LAMBKIN	(ad) kuzu: yavru.
+LAMBKINS	(ad) çoğul çekimi: lambkin
+LAMBS	(ad) lamb sözcüğünün çoğul çekimi: kuzu
+LAME	(sıfat) lame kelimesinin karşılığı: ⟪çolak|ÇOLAK⟫, ⟪topal|TOPAL⟫, ⟪geyik|GEYİK⟫
+LAMED	(lame sözcüğünün çekimi) (sıfat) lame kelimesinin karşılığı: ⟪çolak|ÇOLAK⟫, ⟪topal|TOPAL⟫, ⟪geyik|GEYİK⟫
+LAMELLA	(ad) lamel: Mikroskop kullanımında zaman zaman lamların üstüne kapatılan, camdan, küçük, dört köşeli bir parça
+LAMELLAE	(lamella sözcüğünün çekimi) (ad) lamel: Mikroskop kullanımında zaman zaman lamların üstüne kapatılan, camdan, küçük, dört köşeli bir parça
+LAMELLAS	(ad) çoğul çekimi: lamella
+LAMENESS	(ad) lameness kelimesinin karşılığı: ⟪aksaklık|AKSAKLIK⟫
+LAMENESSES	(lameness sözcüğünün çekimi) (ad) lameness kelimesinin karşılığı: ⟪aksaklık|AKSAKLIK⟫
+LAMENT	(ad) ağıt: öletin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi\n(eylem) lament kelimesinin karşılığı: yas tutmak
+LAMENTED	(lament sözcüğünün çekimi) (ad) ağıt: öletin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi
+LAMENTEDLY	(lament sözcüğünün çekimi) (ad) ağıt: öletin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi
+LAMENTING	(lament sözcüğünün çekimi) (ad) ağıt: öletin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi
+LAMENTS	(ad) çoğul çekimi: lament
+LAMER	(lame sözcüğünün çekimi) (sıfat) lame kelimesinin karşılığı: ⟪çolak|ÇOLAK⟫, ⟪topal|TOPAL⟫, ⟪geyik|GEYİK⟫
+LAMES	(lame sözcüğünün çekimi) (sıfat) lame kelimesinin karşılığı: ⟪çolak|ÇOLAK⟫, ⟪topal|TOPAL⟫, ⟪geyik|GEYİK⟫
+LAMEST	(lame sözcüğünün çekimi) (sıfat) lame kelimesinin karşılığı: ⟪çolak|ÇOLAK⟫, ⟪topal|TOPAL⟫, ⟪geyik|GEYİK⟫
+LAMINAL	(ad) dil palası seslemesi
+LAMINATES	(ad) çoğul çekimi: laminate
+LAMING	(lame sözcüğünün çekimi) (sıfat) lame kelimesinin karşılığı: ⟪çolak|ÇOLAK⟫, ⟪topal|TOPAL⟫, ⟪geyik|GEYİK⟫
+LAMMERGEYERS	(ad) çoğul çekimi: lammergeyer
+LAMP	(ad) lamp kelimesinin karşılığı: ⟪lamba|LAMBA⟫
+LAMPED	(lamp sözcüğünün çekimi) (ad) lamp kelimesinin karşılığı: ⟪lamba|LAMBA⟫
+LAMPLIGHTERS	(ad) çoğul çekimi: lamplighter
+LAMPOON	(eylem) lampoon kelimesinin karşılığı: ⟪hicvetmek|HİCVETMEK⟫, ⟪taşlamak|TAŞLAMAK⟫, ⟪yermek|YERMEK⟫\n(ad) taşlama: Birisini küçük düşürme, iğneleme, alay etme veya onunla eğlenme amacıyla söz söyleme sanatı; tariz. (ayrıca: hiciv, yergi)
+LAMPOONED	(lampoon sözcüğünün çekimi) (eylem) lampoon kelimesinin karşılığı: ⟪hicvetmek|HİCVETMEK⟫, ⟪taşlamak|TAŞLAMAK⟫, ⟪yermek|YERMEK⟫
+LAMPOONING	(lampoon sözcüğünün çekimi) (eylem) lampoon kelimesinin karşılığı: ⟪hicvetmek|HİCVETMEK⟫, ⟪taşlamak|TAŞLAMAK⟫, ⟪yermek|YERMEK⟫
+LAMPOONS	(ad) çoğul çekimi: lampoon
+LAMPS	(ad) lamp sözcüğünün çoğul çekimi: lamba\n(eylem) lamp sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: lamba
+LANCE	(ad) lance kelimesinin karşılığı: ⟪zıpkın|ZIPKIN⟫
+LANCED	(lance sözcüğünün çekimi) (ad) lance kelimesinin karşılığı: ⟪zıpkın|ZIPKIN⟫
+LANCES	(lance sözcüğünün çekimi) (ad) lance kelimesinin karşılığı: ⟪zıpkın|ZIPKIN⟫
+LANCETS	(ad) çoğul çekimi: lancet
+LANCING	(lance sözcüğünün çekimi) (ad) lance kelimesinin karşılığı: ⟪zıpkın|ZIPKIN⟫
+LAND	(eylem) inmek: uzamak, ulaşmak
+LANDAULETS	(ad) çoğul çekimi: landaulet
+LANDED	(land sözcüğünün çekimi) (eylem) inmek: uzamak, ulaşmak
+LANDER	(ad) lander kelimesinin karşılığı: kanunsuz mülteci
+LANDERS	(ad) landers kelimesinin karşılığı: iniş araçları
+LANDFALLS	(ad) çoğul çekimi: landfall
+LANDFILLS	(ad) çoğul çekimi: landfill
+LANDHOLDERS	(ad) çoğul çekimi: landholder
+LANDING	(eylem) landing kelimesinin karşılığı: ⟪çıkarma|ÇIKARMA⟫
+LANDINGS	(ad) landing sözcüğünün çoğul çekimi: çıkarma
+LANDLINE	(ad) landline kelimesinin karşılığı: sabit hat, karasal hat
+LANDLINES	(ad) çoğul çekimi: landline
+LANDLORDS	(ad) çoğul çekimi: landlord
+LANDLUBBERS	(ad) çoğul çekimi: landlubber
+LANDMARKS	(ad) çoğul çekimi: landmark
+LANDMASSES	(ad) çoğul çekimi: landmass
+LANDMEN	(ad) çoğul çekimi: landman
+LANDS	(ad) land sözcüğünün çoğul çekimi: inmek
+LANDSCAPES	(ad) landscape sözcüğünün çoğul çekimi
+LANDSCAPISTS	(ad) çoğul çekimi: landscapist
+LANDSKIPS	(ad) çoğul çekimi: landskip
+LANDSLIPS	(ad) çoğul çekimi: landslip
+LANE	(ad) şerit: Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri. (ayrıca: kulvar)
+LANELY	(lane sözcüğünün çekimi) (ad) şerit: Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri. (ayrıca: kulvar)
+LANES	(ad) çoğul çekimi: lane
+LANGUAGE	(ad) dil: insanların düşündüklerini ve duyduklarını bildirmek için kelimelerle veya işaretlerle yaptıkları anlaşma
+LANGUAGES	(ad) language sözcüğünün çoğul çekimi: dil\n(eylem) language sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dil
+LANGUID	(sıfat) cansız: canlı olmayan (varlık), camit (ayrıca: durgun, halsiz)
+LANGUISH	(eylem) gevşemek: (mecaz) yumuşamak, yatışmak, sakinleşmek (ayrıca: cansızlaşmak, durgunlaşmak)
+LANGUISHED	(languish sözcüğünün çekimi) (eylem) gevşemek: (mecaz) yumuşamak, yatışmak, sakinleşmek (ayrıca: cansızlaşmak, durgunlaşmak)
+LANGUISHES	(languish sözcüğünün çekimi) (eylem) gevşemek: (mecaz) yumuşamak, yatışmak, sakinleşmek (ayrıca: cansızlaşmak, durgunlaşmak)
+LANGUISHING	(languish sözcüğünün çekimi) (eylem) gevşemek: (mecaz) yumuşamak, yatışmak, sakinleşmek (ayrıca: cansızlaşmak, durgunlaşmak)
+LANNERS	(ad) çoğul çekimi: lanner
+LANTERNS	(ad) lantern sözcüğünün çoğul çekimi
+LANTHANIDE	(ad) lantanit: Birbirine çok yakın kimyasal özellikler gösteren, atom numarası 57-71 arasında olan, seyrek bulunan elementlerin genel adı
+LANTHANIDES	(ad) çoğul çekimi: lanthanide
+LANTHANUM	(ad) lanthanum kelimesinin karşılığı: ⟪lantan|LANTAN⟫
+LANTHANUMS	(lanthanum sözcüğünün çekimi) (ad) lanthanum kelimesinin karşılığı: ⟪lantan|LANTAN⟫
+LANTHORNS	(ad) çoğul çekimi: lanthorn
+LAP	(ad) kucak; etek; oturan kimsenin dizlerini örten elbise kısmı.
+LAPAROSCOPES	(ad) çoğul çekimi: laparoscope
+LAPDOGS	(ad) çoğul çekimi: lapdog
+LAPEL	(ad) lapel kelimesinin karşılığı: ⟪klapa|KLAPA⟫, ceket yakası
+LAPELED	(lapel sözcüğünün çekimi) (ad) lapel kelimesinin karşılığı: ⟪klapa|KLAPA⟫, ceket yakası
+LAPELS	(ad) çoğul çekimi: lapel
+LAPPED	(lap sözcüğünün çekimi) (ad) kucak; etek; oturan kimsenin dizlerini örten elbise kısmı.
+LAPPING	(lap sözcüğünün çekimi) (ad) kucak; etek; oturan kimsenin dizlerini örten elbise kısmı.
+LAPS	(lap sözcüğünün çekimi) (ad) kucak; etek; oturan kimsenin dizlerini örten elbise kısmı.
+LAPSE	(ad) yanılgı: yanılma durumu (ayrıca: kısa süreli, geçici hata)
+LAPSED	(lapse sözcüğünün çekimi) (ad) yanılgı: yanılma durumu (ayrıca: kısa süreli, geçici hata)
+LAPSER	(lapse sözcüğünün çekimi) (ad) yanılgı: yanılma durumu (ayrıca: kısa süreli, geçici hata)
+LAPSES	(ad) çoğul çekimi: lapse
+LAPSING	(lapse sözcüğünün çekimi) (ad) yanılgı: yanılma durumu (ayrıca: kısa süreli, geçici hata)
+LAPTOP	(ad) dizüstü bilgisayar: Bilgisayarın her türlü donanımı ile küçültülerek taşınabilir duruma getirilmiş biçimi; dizüstü, laptop.
+LAPTOPS	(ad) çoğul çekimi: laptop
+LAPWING	(ad) lapwing kelimesinin karşılığı: kız kuşu
+LAPWINGS	(ad) çoğul çekimi: lapwing
+LARCENERS	(ad) çoğul çekimi: larcener
+LARCENIES	(ad) çoğul çekimi: larceny
+LARCENISTS	(ad) çoğul çekimi: larcenist
+LARCHES	(ad) çoğul çekimi: larch
+LARD	(ad) içyağı: geviş getiren hayvanların karın boşluğunda iç organlarını saran kalın yağ, şahım (ayrıca: şahım)
+LARDED	(lard sözcüğünün çekimi) (ad) içyağı: geviş getiren hayvanların karın boşluğunda iç organlarını saran kalın yağ, şahım (ayrıca: şahım)
+LARDER	(ad) kiler: yiyecek, içecek ve erzakın saklandığı oda; ambar veya dolap (ayrıca: erzak dolabı, ambar)
+LARDERS	(ad) çoğul çekimi: larder
+LARDING	(lard sözcüğünün çekimi) (ad) içyağı: geviş getiren hayvanların karın boşluğunda iç organlarını saran kalın yağ, şahım (ayrıca: şahım)
+LARDS	(lard sözcüğünün çekimi) (ad) içyağı: geviş getiren hayvanların karın boşluğunda iç organlarını saran kalın yağ, şahım (ayrıca: şahım)
+LARGE	(sıfat) büyük: (mecaz) Makam, rütbe, derece bakımından daha üst olan kimse.
+LARGES	(large sözcüğünün çekimi) (sıfat) büyük: (mecaz) Makam, rütbe, derece bakımından daha üst olan kimse.
+LARGEST	(large sözcüğünün çekimi) (sıfat) büyük: (mecaz) Makam, rütbe, derece bakımından daha üst olan kimse.
+LARGISH	(sıfat) büyücek: Biraz büyük, büyüğe yakın.
+LARIATS	(ad) çoğul çekimi: lariat
+LARKS	(ad) çoğul çekimi: lark
+LARRIKINS	(ad) çoğul çekimi: larrikin
+LARVA	(ad) larva kelimesinin karşılığı: ⟪larva|LARVA⟫
+LARVAE	(larva sözcüğünün çekimi) (ad) larva kelimesinin karşılığı: ⟪larva|LARVA⟫
+LARVAS	(larva sözcüğünün çekimi) (ad) larva kelimesinin karşılığı: ⟪larva|LARVA⟫
+LARYNGEAL	(ad) laryngeal kelimesinin karşılığı: gırtlak ünsüzü
+LARYNGEALS	(ad) çoğul çekimi: laryngeal
+LARYNGES	(larynx sözcüğünün çekimi) (ad) gırtlak: Boynun ön soluk borusunun üst kısmında yer alan bir solunum ve ses organı, ümük, imik, hançere, larinks,...
+LARYNGITIS	(ad) laryngitis kelimesinin karşılığı: laranjit
+LARYNGITISES	(laryngitis sözcüğünün çekimi) (ad) laryngitis kelimesinin karşılığı: laranjit
+LARYNX	(ad) gırtlak: Boynun ön soluk borusunun üst kısmında yer alan bir solunum ve ses organı, ümük, imik, hançere, larinks, ümük. (ayrıca: larinks)
+LARYNXES	(larynx sözcüğünün çekimi) (ad) gırtlak: Boynun ön soluk borusunun üst kısmında yer alan bir solunum ve ses organı, ümük, imik, hançere, larinks,...
+LASAGNA	(ad) lazanya: Bir çeşit İtalyan makarnası
+LASAGNAS	(ad) çoğul çekimi: lasagna
+LASCARS	(ad) çoğul çekimi: lascar
+LASCIVIOUS	(zarf) lascivious kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+LASCIVIOUSNESS	(ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LASCIVIOUSNESSES	(lasciviousness sözcüğünün çekimi) (ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LASER	(ad) Çok güçlü pırıltılar oluşturan, değişik alanlarda kullanılan ışık kaynağı, lazer.
+LASERS	(ad) laser sözcüğünün çoğul çekimi: Çok güçlü pırıltılar oluşturan, değişik alanlarda kullanılan ışık kaynağı, lazer.
+LASHES	(ad) çoğul çekimi: lash
+LASHINGS	(ad) çoğul çekimi: lashing
+LASSES	(ad) çoğul çekimi: lass
+LASSIES	(ad) çoğul çekimi: lassie
+LASSITUDE	(ad) lassitude kelimesinin karşılığı: ⟪yorgunluk|YORGUNLUK⟫, ⟪bitkinlik|BİTKİNLİK⟫, ⟪halsizlik|HALSİZLİK⟫
+LASSITUDES	(lassitude sözcüğünün çekimi) (ad) lassitude kelimesinin karşılığı: ⟪yorgunluk|YORGUNLUK⟫, ⟪bitkinlik|BİTKİNLİK⟫, ⟪halsizlik|HALSİZLİK⟫
+LASSOS	(ad) çoğul çekimi: lasso
+LAST	(ad) sonuncu kişi veya şey, bir şeyin dibi, sonu.\n(zarf) son defa: daha sonra hiç yapılmamış olan (ayrıca: en son, son olarak)
+LASTED	(last sözcüğünün çekimi) (ad) sonuncu kişi veya şey, bir şeyin dibi, sonu.
+LASTER	(last sözcüğünün çekimi) (ad) sonuncu kişi veya şey, bir şeyin dibi, sonu.
+LASTERS	(ad) çoğul çekimi: laster
+LASTING	(sıfat) daim: sürekli, sonsuz
+LASTINGS	(last sözcüğünün çekimi) (ad) sonuncu kişi veya şey, bir şeyin dibi, sonu.
+LASTS	(ad) lasts kelimesinin karşılığı: ⟪sonlar|SONLAR⟫, ⟪sonuncular|SONUNCULAR⟫\n(eylem) to last fiilinin 3. tekil şahıs geniş zamanı
+LATCH	(ad) latch kelimesinin karşılığı: ⟪mandal|MANDAL⟫, ⟪sürgü|SÜRGÜ⟫\n(eylem) latch kelimesinin karşılığı: ⟪mandallamak|MANDALLAMAK⟫
+LATCHED	(eylem) latch sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: mandal, sürgü
+LATCHES	(ad) latch sözcüğünün çoğul çekimi: mandal, sürgü\n(eylem) latch sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: mandal, sürgü
+LATCHETS	(ad) çoğul çekimi: latchet
+LATCHING	(eylem) latch sözcüğünün şimdiki zaman ortaç ve gerund çekimi: mandal, sürgü
+LATCHKEYS	(ad) çoğul çekimi: latchkey
+LATE	(sıfat) olması gerekenden veya beklenilenden sonra gerçekleşen, geç.
+LATEENS	(ad) çoğul çekimi: lateen
+LATENCIES	(ad) çoğul çekimi: latency
+LATER	(zarf) later kelimesinin karşılığı: daha sonra\n(ünlem) (ABD ağzı) daha sonra görüşürüz, görüşmek üzere.
+LATERAL	(ad) lateral kelimesinin karşılığı: yan ünsüz\n(sıfat) lateral kelimesinin karşılığı: [[sızıcı]}]
+LATERALED	(lateral sözcüğünün çekimi) (ad) lateral kelimesinin karşılığı: yan ünsüz
+LATERALING	(lateral sözcüğünün çekimi) (ad) lateral kelimesinin karşılığı: yan ünsüz
+LATERALS	(ad) çoğul çekimi: lateral
+LATERITES	(ad) çoğul çekimi: laterite
+LATEX	(ad) lateks: Papatya, sütleğen vb. bitkilerin genellikle süt görünüşünde olan öz suyu.
+LATEXES	(ad) çoğul çekimi: latex
+LATHE	(ad) torna: Ağaç veya metal eşyaya yuvarlak bir biçim vermek için kullanılan çarklı tezgâh.
+LATHER	(ad) lather kelimesinin karşılığı: sabun köpüğü
+LATHERED	(lather sözcüğünün çekimi) (ad) lather kelimesinin karşılığı: sabun köpüğü
+LATHERER	(lather sözcüğünün çekimi) (ad) lather kelimesinin karşılığı: sabun köpüğü
+LATHERING	(lather sözcüğünün çekimi) (ad) lather kelimesinin karşılığı: sabun köpüğü
+LATHERS	(lather sözcüğünün çekimi) (ad) lather kelimesinin karşılığı: sabun köpüğü
+LATHES	(ad) çoğul çekimi: lathe
+LATHS	(ad) çoğul çekimi: lath
+LATICES	(latex sözcüğünün çekimi) (ad) lateks: Papatya, sütleğen vb. bitkilerin genellikle süt görünüşünde olan öz suyu.
+LATITUDE	(ad) enlem: yer yuvarlağı üzerinde herhangi bir noktadan geçen paralel ile Ekvator arasındaki yay parçasının açısal değeri, arz derecesi
+LATITUDES	(latitude sözcüğünün çekimi) (ad) enlem: yer yuvarlağı üzerinde herhangi bir noktadan geçen paralel ile Ekvator arasındaki yay parçasının açısal...
+LATKES	(ad) çoğul çekimi: latke
+LATRINES	(ad) çoğul çekimi: latrine
+LATS	(ad) çoğul çekimi: lat
+LATTICE	(sıfat) örgü: Öğecik ya da özdeciklerin düzenli dizilişinden oluşan iki ya da üç boyutlu geometrik yapı.
+LATTICES	(ad) çoğul çekimi: lattice
+LAUDS	(ad) çoğul çekimi: laud
+LAUGH	(eylem) laugh kelimesinin karşılığı: ⟪gülmek|GÜLMEK⟫
+LAUGHED	(eylem) laugh sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: gülmek.
+LAUGHERS	(ad) çoğul çekimi: laugher
+LAUGHING	(eylem) laugh sözcüğünün şimdiki zaman ortaç ve gerund çekimi: gülmek.
+LAUGHINGS	(laugh sözcüğünün çekimi) (eylem) laugh kelimesinin karşılığı: ⟪gülmek|GÜLMEK⟫
+LAUGHINGSTOCKS	(ad) çoğul çekimi: laughingstock
+LAUGHS	(ad) laugh sözcüğünün çoğul çekimi: gülmek.\n(eylem) laugh sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: gülmek.
+LAUGHTER	(ad) gülme: gülmek işi
+LAUGHTERS	(laughter sözcüğünün çekimi) (ad) gülme: gülmek işi
+LAUNCHERS	(ad) çoğul çekimi: launcher
+LAUNCHES	(ad) çoğul çekimi: launch
+LAUNCHING	(ad) launching kelimesinin karşılığı: ⟪başlatma|BAŞLATMA⟫\n(eylem) launch sözcüğünün şimdiki zaman ortaç çekimi
+LAUNCHPADS	(ad) çoğul çekimi: launchpad
+LAUNDERETTES	(ad) çoğul çekimi: launderette
+LAUNDERS	(ad) çoğul çekimi: launder
+LAUNDRIES	(ad) çoğul çekimi: laundry
+LAUNDRY	(ad) çamaşır: Kirli eşyaları yıkama işi.
+LAUNDRYMEN	(ad) çoğul çekimi: laundryman
+LAUREATES	(ad) çoğul çekimi: laureate
+LAUREL	(ad) laurel kelimesinin karşılığı: ⟪defne|DEFNE⟫
+LAURELING	(laurel sözcüğünün çekimi) (ad) laurel kelimesinin karşılığı: ⟪defne|DEFNE⟫
+LAURELLING	(laurel sözcüğünün çekimi) (ad) laurel kelimesinin karşılığı: ⟪defne|DEFNE⟫
+LAURELS	(ad) çoğul çekimi: laurel
+LAVA	(ad) lav: Yanardağların püskürmesi ile yeryüzüne çıkan, planemonun derinliklerinden gelen, soğuyunca katılaşan erimiş, kızgın maddeler
+LAVAS	(lava sözcüğünün çekimi) (ad) lav: Yanardağların püskürmesi ile yeryüzüne çıkan, planemonun derinliklerinden gelen, soğuyunca katılaşan erimiş,...
+LAVATORIES	(lavatory sözcüğünün çekimi) (ad) hela: Tuvalet. (ayrıca: tuvalet)
+LAVATORY	(ad) hela: Tuvalet. (ayrıca: tuvalet)
+LAVE	(eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVED	(lave sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVENDER	(ad) lavanta: lavanta çiçeğinden yapılan ispirtolu esans
+LAVENDERED	(lavender sözcüğünün çekimi) (ad) lavanta: lavanta çiçeğinden yapılan ispirtolu esans
+LAVENDERING	(lavender sözcüğünün çekimi) (ad) lavanta: lavanta çiçeğinden yapılan ispirtolu esans
+LAVENDERS	(ad) çoğul çekimi: lavender
+LAVEROCKS	(ad) çoğul çekimi: laverock
+LAVES	(lave sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVING	(lave sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVISH	(eylem) lavish kelimesinin karşılığı: hesapsızca harcamak\n(sıfat) lavish kelimesinin karşılığı: ⟪savurgan|SAVURGAN⟫
+LAVISHED	(lavish sözcüğünün çekimi) (eylem) lavish kelimesinin karşılığı: hesapsızca harcamak
+LAVISHER	(lavish sözcüğünün çekimi) (eylem) lavish kelimesinin karşılığı: hesapsızca harcamak
+LAVISHERS	(lavish sözcüğünün çekimi) (eylem) lavish kelimesinin karşılığı: hesapsızca harcamak
+LAVISHES	(lavish sözcüğünün çekimi) (eylem) lavish kelimesinin karşılığı: hesapsızca harcamak
+LAVISHEST	(lavish sözcüğünün çekimi) (eylem) lavish kelimesinin karşılığı: hesapsızca harcamak
+LAVISHING	(lavish sözcüğünün çekimi) (eylem) lavish kelimesinin karşılığı: hesapsızca harcamak
+LAVISHLY	(zarf) lavishly kelimesinin karşılığı: fazlasıyla cömertçe, ⟪savurganca|SAVURGANCA⟫
+LAW	(ad) yasa: Devletin yasama organları tarafından konulan ve uyulması gereken kurallar bütünü; kanun (ayrıca: kanun)
+LAWBREAKER	(ad) adi suçlu: basit suçları işleyen kimse
+LAWBREAKERS	(lawbreaker sözcüğünün çekimi) (ad) adi suçlu: basit suçları işleyen kimse
+LAWED	(law sözcüğünün çekimi) (ad) yasa: Devletin yasama organları tarafından konulan ve uyulması gereken kurallar bütünü; kanun (ayrıca: kanun)
+LAWFUL	(sıfat) yasal: yasanın, dinin ve kamu vicdanının doğru bulduğu, yasalara uygun, kanuni, meşru, legal (ayrıca: kanuni, meşru)
+LAWFULLY	(zarf) kanunen: yasa gereğince, yasal olarak
+LAWINGS	(ad) çoğul çekimi: lawing
+LAWLESS	(sıfat) lawless kelimesinin karşılığı: kanun dışı
+LAWMAKERS	(ad) çoğul çekimi: lawmaker
+LAWN	(ad) çim: yeşilliği bol olan yer (ayrıca: çimen)
+LAWNS	(ad) çoğul çekimi: lawn
+LAWRENCIUM	(ad) lorentiyum: Atom numarası 103 olan bir kimyasal element
+LAWRENCIUMS	(lawrencium sözcüğünün çekimi) (ad) lorentiyum: Atom numarası 103 olan bir kimyasal element
+LAWS	(ad) law sözcüğünün çoğul çekimi: kanun, yasa
+LAWSUIT	(ad) dava: "Erkekler, davalarını hanımlar kadar hararetle müdafaa edememişlerdir." - Hüseyin Cahit Yalçın
+LAWSUITS	(ad) çoğul çekimi: lawsuit
+LAWYER	(ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LAWYERED	(lawyer sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LAWYERING	(lawyer sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LAWYERS	(ad) lawyer sözcüğünün çoğul çekimi: avukat\n(eylem) lawyer sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: avukat
+LAX	(ad) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LAXATIVE	(ad) laxative kelimesinin karşılığı: laksatif
+LAXATIVES	(ad) çoğul çekimi: laxative
+LAXER	(lax sözcüğünün çekimi) (ad) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LAXEST	(lax sözcüğünün çekimi) (ad) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LAXITIES	(ad) çoğul çekimi: laxity
+LAYABOUTS	(ad) çoğul çekimi: layabout
+LAYER	(ad) kat: Bir yüzey üzerine az veya çok kalın bir biçimde, düzgün olarak yayılmış bulunan şey. (ayrıca: tabaka, katman)
+LAYERED	(ad) layered kelimesinin karşılığı: ⟪katmanlı|KATMANLI⟫
+LAYERING	(layer sözcüğünün çekimi) (ad) kat: Bir yüzey üzerine az veya çok kalın bir biçimde, düzgün olarak yayılmış bulunan şey. (ayrıca: tabaka, katman)
+LAYERINGS	(layer sözcüğünün çekimi) (ad) kat: Bir yüzey üzerine az veya çok kalın bir biçimde, düzgün olarak yayılmış bulunan şey. (ayrıca: tabaka, katman)
+LAYERS	(ad) layer sözcüğünün çoğul çekimi: tabaka, kat, katman
+LAYOFF	(ad) layoff kelimesinin karşılığı: açığa alma
+LAYOFFS	(ad) çoğul çekimi: layoff
+LAYOUT	(ad) düzen: Soyut ve somut nesnelerin bir sıraya, bir hedefe, bir amaca göre sıralanmış hâli.
+LAYOUTS	(ad) çoğul çekimi: layout
+LAYPERSON	(ad) o meslekten olmayan kimse; konunun uzmanı olmayan sıradan insan, uzman dışı biri.
+LAYPERSONS	(layperson sözcüğünün çekimi) (ad) o meslekten olmayan kimse; konunun uzmanı olmayan sıradan insan, uzman dışı biri.
+LAYS	(ad) çoğul çekimi: lay
+LAZARETTES	(ad) çoğul çekimi: lazarette
+LAZARETTOS	(ad) çoğul çekimi: lazaretto
+LAZARS	(ad) çoğul çekimi: lazar
+LAZES	(ad) çoğul çekimi: laze
+LAZIED	(lazy sözcüğünün çekimi) (sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca:...
+LAZIER	(lazy sözcüğünün çekimi) (sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca:...
+LAZIES	(lazy sözcüğünün çekimi) (sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca:...
+LAZIEST	(lazy sözcüğünün çekimi) (sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca:...
+LAZINESS	(ad) tembellik: tembelce davranış, atalet
+LAZINESSES	(ad) laziness sözcüğünün çoğul çekimi: tembellik
+LAZY	(sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca: üşengeç, üşengen)
+LAZYING	(lazy sözcüğünün çekimi) (sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca:...
+LEACHES	(ad) leach sözcüğünün çoğul çekimi
+LEAD	(ad) lead kelimesinin karşılığı: ⟪kurşun|KURŞUN⟫\n(eylem) yönetmek: birinin bir konudaki etkinliğine, çalışmasına yön vermek, birini yönlendirmek
+LEADED	(lead sözcüğünün çekimi) (ad) lead kelimesinin karşılığı: ⟪kurşun|KURŞUN⟫
+LEADER	(ad) lider: Bir partinin veya bir kuruluşun en üst düzeyde yönetimiyle görevli kimse
+LEADERSHIP	(ad) önderlik: önder olma durumu veya öndere yakışır davranış, öncülük, liderlik (ayrıca: liderlik)
+LEADERSHIPS	(leadership sözcüğünün çekimi) (ad) önderlik: önder olma durumu veya öndere yakışır davranış, öncülük, liderlik (ayrıca: liderlik)
+LEADING	(eylem) lead sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kurşun
+LEADINGS	(lead sözcüğünün çekimi) (ad) lead kelimesinin karşılığı: ⟪kurşun|KURŞUN⟫
+LEADS	(ad) çoğul çekimi: lead
+LEAF	(ad) yaprak: Bitkilerde solunum, karbon özümlenmesi, terleme vb. olayların oluştuğu, çoğu klorofilli, yeşil ve türlü biçimdeki bölümler.
+LEAFED	(leaf sözcüğünün çekimi) (ad) yaprak: Bitkilerde solunum, karbon özümlenmesi, terleme vb. olayların oluştuğu, çoğu klorofilli, yeşil ve türlü...
+LEAFHOPPERS	(ad) çoğul çekimi: leafhopper
+LEAFING	(leaf sözcüğünün çekimi) (ad) yaprak: Bitkilerde solunum, karbon özümlenmesi, terleme vb. olayların oluştuğu, çoğu klorofilli, yeşil ve türlü...
+LEAFLET	(ad) leaflet kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫, ⟪yapracık|YAPRACIK⟫
+LEAFLETED	(leaflet sözcüğünün çekimi) (ad) leaflet kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫, ⟪yapracık|YAPRACIK⟫
+LEAFLETING	(leaflet sözcüğünün çekimi) (ad) leaflet kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫, ⟪yapracık|YAPRACIK⟫
+LEAFLETS	(ad) çoğul çekimi: leaflet
+LEAFLETTED	(leaflet sözcüğünün çekimi) (ad) leaflet kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫, ⟪yapracık|YAPRACIK⟫
+LEAFLETTING	(leaflet sözcüğünün çekimi) (ad) leaflet kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫, ⟪yapracık|YAPRACIK⟫
+LEAFS	(ad) çoğul çekimi: leaf
+LEAGUE	(ad) league kelimesinin karşılığı: ⟪lig|LİG⟫
+LEAGUED	(league sözcüğünün çekimi) (ad) league kelimesinin karşılığı: ⟪lig|LİG⟫
+LEAGUES	(ad) çoğul çekimi: league
+LEAGUING	(league sözcüğünün çekimi) (ad) league kelimesinin karşılığı: ⟪lig|LİG⟫
+LEAK	(eylem) sızmak: gizli tutulan haber, sır gibi şeyler duyulmak, yayılmak (ayrıca: sızdırmak)
+LEAKAGES	(ad) çoğul çekimi: leakage
+LEAKED	(eylem) leak sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sızdırmak, sızmak
+LEAKERS	(ad) çoğul çekimi: leaker
+LEAKING	(leak sözcüğünün çekimi) (eylem) sızmak: gizli tutulan haber, sır gibi şeyler duyulmak, yayılmak (ayrıca: sızdırmak)
+LEAKS	(ad) çoğul çekimi: leak
+LEAN	(eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫\n(sıfat) lean kelimesinin karşılığı: ⟪cılız|CILIZ⟫
+LEANED	(lean sözcüğünün çekimi) (eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫
+LEANER	(lean sözcüğünün çekimi) (eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫
+LEANERS	(lean sözcüğünün çekimi) (eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫
+LEANEST	(lean sözcüğünün çekimi) (eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫
+LEANING	(eylem) lean sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yaslanmak, dayanmak, abanmak
+LEANINGS	(lean sözcüğünün çekimi) (eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫
+LEANS	(ad) çoğul çekimi: lean
+LEANT	(lean sözcüğünün çekimi) (eylem) lean kelimesinin karşılığı: ⟪yaslanmak|YASLANMAK⟫, ⟪dayanmak|DAYANMAK⟫, ⟪abanmak|ABANMAK⟫
+LEAP	(ad) leap kelimesinin karşılığı: ⟪sıçrayış|SIÇRAYIŞ⟫
+LEAPED	(eylem) leap sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sıçrayış
+LEAPFROGS	(ad) çoğul çekimi: leapfrog
+LEAPING	(leap sözcüğünün çekimi) (ad) leap kelimesinin karşılığı: ⟪sıçrayış|SIÇRAYIŞ⟫
+LEAPS	(ad) çoğul çekimi: leap
+LEAPT	(leap sözcüğünün çekimi) (ad) leap kelimesinin karşılığı: ⟪sıçrayış|SIÇRAYIŞ⟫
+LEARN	(eylem) öğrenmek: yetenek, beceri kazanmak
+LEARNED	(sıfat) okumuş: okuyarak bilgisini genişletmiş, öğrenim görmüş (kişi) (ayrıca: allame, bilgili)
+LEARNEDNESS	(ad) learnedness kelimesinin karşılığı: ⟪allamelik|ALLAMELİK⟫
+LEARNEDNESSES	(learnedness sözcüğünün çekimi) (ad) learnedness kelimesinin karşılığı: ⟪allamelik|ALLAMELİK⟫
+LEARNER	(ad) learner kelimesinin karşılığı: öğrenici
+LEARNERS	(ad) çoğul çekimi: learner
+LEARNING	(ad) öğrenme: öğrenmek işi
+LEARNINGS	(learn sözcüğünün çekimi) (eylem) öğrenmek: yetenek, beceri kazanmak
+LEARNS	(learn sözcüğünün çekimi) (eylem) öğrenmek: yetenek, beceri kazanmak
+LEARNT	(learn sözcüğünün çekimi) (eylem) öğrenmek: yetenek, beceri kazanmak
+LEAS	(ad) çoğul çekimi: lea
+LEASE	(eylem) lease kelimesinin karşılığı: ⟪kiralamak|KİRALAMAK⟫, kiraya vermek\n(ad) kira: konutun, mülkün veya taşıt gibi herhangi bir şeyin belli bir bedel karşılığında, süre için sahibi tarafından başkasına verilmesi (ayrıca: kira kontratı, kira sözleşmesi)
+LEASED	(lease sözcüğünün çekimi) (eylem) lease kelimesinin karşılığı: ⟪kiralamak|KİRALAMAK⟫, kiraya vermek
+LEASEHOLD	(ad) leasehold kelimesinin karşılığı: kiralanmış mal, kirada yer
+LEASEHOLDERS	(ad) çoğul çekimi: leaseholder
+LEASEHOLDS	(ad) çoğul çekimi: leasehold
+LEASES	(lease sözcüğünün çekimi) (eylem) lease kelimesinin karşılığı: ⟪kiralamak|KİRALAMAK⟫, kiraya vermek
+LEASHES	(ad) leash sözcüğünün çoğul çekimi
+LEASING	(ad) kiralama: Kiralamak işi
+LEASINGS	(ad) leasing sözcüğünün çoğul çekimi: kiralama
+LEAST	(sıfat) least kelimesinin karşılığı: en yavaş\n(zarf) en az derece
+LEASTS	(least sözcüğünün çekimi) (sıfat) least kelimesinin karşılığı: en yavaş
+LEATHER	(ad) deri: İnsan ve hayvan vücudunu kaplayan tüy, kıl veya pulla kaplı tabaka.\n(sıfat) deri: İnsan ve hayvan vücudunu kaplayan tüy, kıl veya pulla kaplı tabaka.
+LEATHERBACKS	(ad) çoğul çekimi: leatherback
+LEATHERED	(leather sözcüğünün çekimi) (ad) deri: İnsan ve hayvan vücudunu kaplayan tüy, kıl veya pulla kaplı tabaka.
+LEATHERING	(leather sözcüğünün çekimi) (ad) deri: İnsan ve hayvan vücudunu kaplayan tüy, kıl veya pulla kaplı tabaka.
+LEATHERS	(ad) çoğul çekimi: leather
+LEAVE	(eylem) bırakmak: Kötü bir durumda terk etmek.
+LEAVED	(leave sözcüğünün çekimi) (eylem) bırakmak: Kötü bir durumda terk etmek.
+LEAVENS	(ad) çoğul çekimi: leaven
+LEAVES	(ad) leaf sözcüğünün çoğul çekimi: yaprak\n(eylem) leave sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bırakmak
+LEAVING	(eylem) leave sözcüğünün şimdiki zaman ortaç ve gerund çekimi: bırakmak
+LEAVINGS	(leave sözcüğünün çekimi) (eylem) bırakmak: Kötü bir durumda terk etmek.
+LECHERS	(ad) çoğul çekimi: lecher
+LECTINS	(ad) çoğul çekimi: lectin
+LECTIONS	(ad) çoğul çekimi: lection
+LECTORS	(ad) çoğul çekimi: lector
+LECTURE	(ad) ders: ders bilgisi aktarımı için ayrılan süre
+LECTURED	(lecture sözcüğünün çekimi) (ad) ders: ders bilgisi aktarımı için ayrılan süre
+LECTURERS	(ad) çoğul çekimi: lecturer
+LECTURES	(ad) lecture sözcüğünün çoğul çekimi: ders
+LECTURING	(lecture sözcüğünün çekimi) (ad) ders: ders bilgisi aktarımı için ayrılan süre
+LED	(lead sözcüğünün çekimi) (ad) lead kelimesinin karşılığı: ⟪kurşun|KURŞUN⟫
+LEDGERS	(ad) çoğul çekimi: ledger
+LEDGES	(ad) çoğul çekimi: ledge
+LEECH	(ad) sülük: sülüklerden, tatlı sularda yaşayan, vücudunda yirmi iki sindirim kesesi olduğu için bir kezde ağırlığının sekiz katı kan emebilen, halk arasında bazı kan hastalıklarının tedavisinde yararlanılan hayvan\n(eylem) sülükle kan almak
+LEECHED	(leech sözcüğünün çekimi) (ad) sülük: sülüklerden, tatlı sularda yaşayan, vücudunda yirmi iki sindirim kesesi olduğu için bir kezde ağırlığının...
+LEECHES	(ad) çoğul çekimi: leech
+LEECHING	(leech sözcüğünün çekimi) (ad) sülük: sülüklerden, tatlı sularda yaşayan, vücudunda yirmi iki sindirim kesesi olduğu için bir kezde ağırlığının...
+LEEK	(ad) pırasa: Zambakgillerden, sapından ve yapraklarından yararlanılan, çok yıllık bir kış sebzesi (Allium porrum).
+LEEKS	(ad) çoğul çekimi: leek
+LEERS	(ad) çoğul çekimi: leer
+LEETS	(ad) çoğul çekimi: leet
+LEEWARD	(ad) leeward kelimesinin karşılığı: ⟪boca|BOCA⟫
+LEEWARDS	(leeward sözcüğünün çekimi) (ad) leeward kelimesinin karşılığı: ⟪boca|BOCA⟫
+LEEWAYS	(ad) çoğul çekimi: leeway
+LEFT	(sıfat) sol: vücutta kalbin bulunduğu tarafta olan, sağ karşıtı
+LEFTER	(leave sözcüğünün çekimi) (eylem) bırakmak: Kötü bir durumda terk etmek.
+LEFTEST	(leave sözcüğünün çekimi) (eylem) bırakmak: Kötü bir durumda terk etmek.
+LEFTIES	(ad) çoğul çekimi: lefty
+LEFTISTS	(ad) çoğul çekimi: leftist
+LEFTOVER	(ad) leftover kelimesinin karşılığı: artık yemek
+LEFTOVERS	(ad) çoğul çekimi: leftover
+LEFTS	(ad) çoğul çekimi: left
+LEG	(ad) bacak: Hayvanlarda yürümeye veya atlamaya yarayan organ.
+LEGACIES	(ad) legacy sözcüğünün çoğul çekimi: miras
+LEGACY	(ad) miras: Birine, ölen bir yakınından kalan mal mülk, para veya servet; kalıt, bırakıt, tereke.
+LEGAL	(sıfat) yasal: yasanın, dinin ve kamu vicdanının doğru bulduğu, yasalara uygun, kanuni, meşru, legal (ayrıca: kanuni, meşru)
+LEGALISMS	(ad) çoğul çekimi: legalism
+LEGALISTS	(ad) çoğul çekimi: legalist
+LEGALITIES	(ad) çoğul çekimi: legality
+LEGALITY	(ad) legality kelimesinin karşılığı: yasallık
+LEGALIZE	(eylem) yasallaştırmak: Yasal duruma getirmek. (ayrıca: meşrulaştırmak)
+LEGALIZED	(legalize sözcüğünün çekimi) (eylem) yasallaştırmak: Yasal duruma getirmek. (ayrıca: meşrulaştırmak)
+LEGALIZER	(legalize sözcüğünün çekimi) (eylem) yasallaştırmak: Yasal duruma getirmek. (ayrıca: meşrulaştırmak)
+LEGALIZES	(legalize sözcüğünün çekimi) (eylem) yasallaştırmak: Yasal duruma getirmek. (ayrıca: meşrulaştırmak)
+LEGALIZING	(legalize sözcüğünün çekimi) (eylem) yasallaştırmak: Yasal duruma getirmek. (ayrıca: meşrulaştırmak)
+LEGALLY	(zarf) kanunen: yasa gereğince, yasal olarak
+LEGALS	(legal sözcüğünün çekimi) (sıfat) yasal: yasanın, dinin ve kamu vicdanının doğru bulduğu, yasalara uygun, kanuni, meşru, legal (ayrıca: kanuni,...
+LEGATIONS	(ad) çoğul çekimi: legation
+LEGATORS	(ad) çoğul çekimi: legator
+LEGEND	(ad) efsane: eski çağlardan beri söylenegelen, olağanüstü varlıkları, olayları konu edinen hayalî hikâye, söylence
+LEGENDARILY	(legendary sözcüğünün çekimi) (sıfat) efsanevi: efsanelerde geçen, kendisi için efsaneler düzülen veya efsaneyi andırır nitelikte olan, menkıbevi...
+LEGENDARY	(sıfat) efsanevi: efsanelerde geçen, kendisi için efsaneler düzülen veya efsaneyi andırır nitelikte olan, menkıbevi (ayrıca: menkıbevi)
+LEGENDS	(ad) legend sözcüğünün çoğul çekimi: efsane
+LEGERDEMAIN	(ad) legerdemain kelimesinin karşılığı: el çabukluğu, el marifeti
+LEGERDEMAINS	(legerdemain sözcüğünün çekimi) (ad) legerdemain kelimesinin karşılığı: el çabukluğu, el marifeti
+LEGES	(leg sözcüğünün çekimi) (ad) bacak: Hayvanlarda yürümeye veya atlamaya yarayan organ.
+LEGGINGS	(ad) çoğul çekimi: legging
+LEGIBILITIES	(legibility sözcüğünün çekimi) (ad) legibility kelimesinin karşılığı: okunabilirlik
+LEGIBILITY	(ad) legibility kelimesinin karşılığı: okunabilirlik
+LEGIBLE	(sıfat) okunaklı: (yazı için) Açık ve düzgün harflerle yazılmış, kolaylıkla okunabilen
+LEGIONARIES	(legionary sözcüğünün çekimi) (ad) legionary kelimesinin karşılığı: paralı asker
+LEGIONARY	(ad) legionary kelimesinin karşılığı: paralı asker
+LEGIONNAIRES	(ad) çoğul çekimi: legionnaire
+LEGIONS	(ad) çoğul çekimi: legion
+LEGISLATIVE	(sıfat) legislative kelimesinin karşılığı: kanun koyucu
+LEGISLATIVES	(legislative sözcüğünün çekimi) (sıfat) legislative kelimesinin karşılığı: kanun koyucu
+LEGISLATOR	(ad) legislator kelimesinin karşılığı: yasa koyucu
+LEGISLATORS	(ad) çoğul çekimi: legislator
+LEGISLATURE	(ad) legislature kelimesinin karşılığı: yasama organı, yasama meclisi
+LEGISLATURES	(ad) çoğul çekimi: legislature
+LEGITIMACIES	(legitimacy sözcüğünün çekimi) (ad) haklılık: Haklı olma durumu
+LEGITIMACY	(ad) haklılık: Haklı olma durumu
+LEGLESS	(sıfat) ayaksız: ayağı olmayan
+LEGS	(ad) leg sözcüğünün çoğul çekimi: bacak
+LEGUMES	(ad) legume sözcüğünün çoğul çekimi
+LEIS	(ad) çoğul çekimi: lei
+LEISTERS	(ad) çoğul çekimi: leister
+LEITMOTIFS	(ad) çoğul çekimi: leitmotif
+LEKS	(ad) çoğul çekimi: lek
+LEMANS	(ad) çoğul çekimi: leman
+LEMMAS	(ad) çoğul çekimi: lemma
+LEMMATA	(ad) çoğul çekimi: lemma
+LEMNISCATE	(ad) lemniscate kelimesinin karşılığı: sonsuzluk işareti
+LEMNISCATES	(ad) çoğul çekimi: lemniscate
+LEMON	(ad) limon: Turunçgillerden, 3-5 metre yüksekliğinde, kışın yapraklarını dökmeyen, beyaz çiçekli bir ağaç (Citrus limonum).
+LEMONADE	(ad) limonata: Su, şeker ve limon suyundan yapılan, soğuk tüketilen, gazsız içecek
+LEMONADES	(lemonade sözcüğünün çekimi) (ad) limonata: Su, şeker ve limon suyundan yapılan, soğuk tüketilen, gazsız içecek
+LEMONS	(ad) lemon sözcüğünün çoğul çekimi: limon
+LEMURS	(ad) çoğul çekimi: lemur
+LEND	(eylem) lend kelimesinin karşılığı: borç vermek
+LENDERS	(ad) çoğul çekimi: lender
+LENDING	(lend sözcüğünün çekimi) (eylem) lend kelimesinin karşılığı: borç vermek
+LENDS	(lend sözcüğünün çekimi) (eylem) lend kelimesinin karşılığı: borç vermek
+LENGTH	(ad) süre: bir olayın başı ile sonu arasında geçen zaman parçası, zaman aralığı, zaman bölümü, müddet
+LENGTHEN	(eylem) uzatmak: süreyi artırmak, temdit etmek
+LENGTHENED	(lengthen sözcüğünün çekimi) (eylem) uzatmak: süreyi artırmak, temdit etmek
+LENGTHENER	(lengthen sözcüğünün çekimi) (eylem) uzatmak: süreyi artırmak, temdit etmek
+LENGTHENING	(ad) uzatma: uzatmak işi.
+LENGTHENS	(lengthen sözcüğünün çekimi) (eylem) uzatmak: süreyi artırmak, temdit etmek
+LENGTHS	(ad) çoğul çekimi: length
+LENIENT	(sıfat) hoşgörülü: hoşgörüsü olan, hoşgörüyle davranan, müsamahalı, toleranslı (ayrıca: müsamahakâr, müşfik)
+LENS	(ad) lens kelimesinin karşılığı: ⟪mercek|MERCEK⟫, lens
+LENSED	(lens sözcüğünün çekimi) (ad) lens kelimesinin karşılığı: ⟪mercek|MERCEK⟫, lens
+LENSES	(ad) çoğul çekimi: lens
+LENSING	(lens sözcüğünün çekimi) (ad) lens kelimesinin karşılığı: ⟪mercek|MERCEK⟫, lens
+LENT	(lend sözcüğünün çekimi) (eylem) lend kelimesinin karşılığı: borç vermek
+LENTIL	(ad) mercimek: baklagillerden, beyaz çiçekli bir tarım bitkisi ve mercimek bitkisinin, besin değeri yüksek, ufak, yeşil veya kahverenkli, yuvarlak ve yassıca tohumu
+LENTILS	(ad) çoğul çekimi: lentil
+LEONES	(ad) çoğul çekimi: leone
+LEOPARD	(ad) leopard kelimesinin karşılığı: ⟪pars|PARS⟫, ⟪leopar|LEOPAR⟫, ⟪panter|PANTER⟫, ⟪pelenk|PELENK⟫
+LEOPARDS	(ad) çoğul çekimi: leopard
+LEOTARDS	(ad) çoğul çekimi: leotard
+LEPERS	(ad) çoğul çekimi: leper
+LEPIDOPTERISTS	(ad) çoğul çekimi: lepidopterist
+LEPROSIES	(ad) çoğul çekimi: leprosy
+LEPROSY	(ad) cüzzam: Hansen basilinin neden olduğu bulaşıcı bir deri hastalığı, miskin hastalığı
+LEPTA	(ad) çoğul çekimi: lepton
+LEPTON	(ad) lepton kelimesinin karşılığı: ⟪lepton|LEPTON⟫
+LEPTONS	(lepton sözcüğünün çekimi) (ad) lepton kelimesinin karşılığı: ⟪lepton|LEPTON⟫
+LESBIAN	(ad) lesbian kelimesinin karşılığı: ⟪lezbiyen|LEZBİYEN⟫\n(sıfat) Kadınlara cinsel, duygusal ve romantik ilgi duyan (kadın).
+LESBIANISM	(ad) lesbianism kelimesinin karşılığı: ⟪lezbiyenlik|LEZBİYENLİK⟫
+LESBIANISMS	(ad) lesbianism sözcüğünün çoğul çekimi: lezbiyenlik
+LESBIANS	(ad) çoğul çekimi: lesbian
+LESION	(ad) lezyon: doku ya da organ bozukluğu ya da hasarı
+LESIONED	(lesion sözcüğünün çekimi) (ad) lezyon: doku ya da organ bozukluğu ya da hasarı
+LESIONS	(ad) çoğul çekimi: lesion
+LESS	(sıfat) less kelimesinin karşılığı: daha az
+LESSEES	(ad) çoğul çekimi: lessee
+LESSEN	(eylem) azalmak: etkisini yitirmek, hafiflemek
+LESSENED	(lessen sözcüğünün çekimi) (eylem) azalmak: etkisini yitirmek, hafiflemek
+LESSENING	(lessen sözcüğünün çekimi) (eylem) azalmak: etkisini yitirmek, hafiflemek
+LESSENS	(lessen sözcüğünün çekimi) (eylem) azalmak: etkisini yitirmek, hafiflemek
+LESSON	(ad) ders: ders bilgisi aktarımı için ayrılan süre
+LESSONED	(lesson sözcüğünün çekimi) (ad) ders: ders bilgisi aktarımı için ayrılan süre
+LESSONING	(lesson sözcüğünün çekimi) (ad) ders: ders bilgisi aktarımı için ayrılan süre
+LESSONS	(ad) lesson sözcüğünün çoğul çekimi: ders
+LESSORS	(ad) çoğul çekimi: lessor
+LET	(eylem) birinin bir şey yapmasına izin vermek, bırakmak (engellememek).\n(ad) kiralanmış oda veya ev.
+LETHE	(ad) lethe kelimesinin karşılığı: ⟪unutma|UNUTMA⟫
+LETHES	(lethe sözcüğünün çekimi) (ad) lethe kelimesinin karşılığı: ⟪unutma|UNUTMA⟫
+LETS	(let sözcüğünün çekimi) (eylem) birinin bir şey yapmasına izin vermek, bırakmak (engellememek).
+LETTER	(ad) harf: dil bilimi, yazı
+LETTERED	(letter sözcüğünün çekimi) (ad) harf: dil bilimi, yazı
+LETTERHEAD	(ad) letterhead kelimesinin karşılığı: ⟪antet|ANTET⟫
+LETTERHEADS	(ad) çoğul çekimi: letterhead
+LETTERING	(letter sözcüğünün çekimi) (ad) harf: dil bilimi, yazı
+LETTERINGS	(ad) çoğul çekimi: lettering
+LETTERPRESSES	(ad) çoğul çekimi: letterpress
+LETTERS	(ad) letter sözcüğünün çoğul çekimi: harf
+LETTING	(let sözcüğünün çekimi) (eylem) birinin bir şey yapmasına izin vermek, bırakmak (engellememek).
+LETTUCE	(ad) lettuce kelimesinin karşılığı: kıvırcık salata
+LETTUCES	(ad) lettuce sözcüğünün çoğul çekimi: kıvırcık salata
+LEUKAEMIA	(ad) lösemi: kan hücrelerinin özellikle de akyuvarların normalin üzerinde çoğalması ile kendini gösteren bir kanser türü, kan kanseri (ayrıca: kan kanseri)
+LEUKAEMIAS	(leukaemia sözcüğünün çekimi) (ad) lösemi: kan hücrelerinin özellikle de akyuvarların normalin üzerinde çoğalması ile kendini gösteren bir kanser...
+LEUKEMIA	(ad) lösemi: kan hücrelerinin özellikle de akyuvarların normalin üzerinde çoğalması ile kendini gösteren bir kanser türü, kan kanseri (ayrıca: kan kanseri)
+LEUKEMIAS	(leukemia sözcüğünün çekimi) (ad) lösemi: kan hücrelerinin özellikle de akyuvarların normalin üzerinde çoğalması ile kendini gösteren bir kanser...
+LEUKOCYTE	(ad) akyuvar: kan, lenf vb. vücut sıvılarında bulunan çekirdekli, yuvarlak hücre, lökosit
+LEUKOCYTES	(ad) çoğul çekimi: leukocyte
+LEVEES	(ad) çoğul çekimi: levee
+LEVEL	(ad) düzey: bir nesnenin, bir kimsenin başka nesnelere veya kimselere göre olan değer ve yücelik derecesi, seviye
+LEVELED	(level sözcüğünün çekimi) (ad) düzey: bir nesnenin, bir kimsenin başka nesnelere veya kimselere göre olan değer ve yücelik derecesi, seviye
+LEVELHEADED	(sıfat) levelheaded kelimesinin karşılığı: aklı başında
+LEVELING	(level sözcüğünün çekimi) (ad) düzey: bir nesnenin, bir kimsenin başka nesnelere veya kimselere göre olan değer ve yücelik derecesi, seviye
+LEVELLED	(level sözcüğünün çekimi) (ad) düzey: bir nesnenin, bir kimsenin başka nesnelere veya kimselere göre olan değer ve yücelik derecesi, seviye
+LEVELLERS	(ad) çoğul çekimi: leveller
+LEVELLING	(ad) levelling kelimesinin karşılığı: düzeylenme
+LEVELS	(ad) level sözcüğünün çoğul çekimi: düzey
+LEVER	(ad) lever kelimesinin karşılığı: ⟪kanırtmaç|KANIRTMAÇ⟫
+LEVERAGE	(ad) Avantaj elde etmek için kullanılan kaldıraç etkisi.\n(eylem) leverage kelimesinin karşılığı: birini kullanmak, nüfus etmek
+LEVERAGED	(leverage sözcüğünün çekimi) (ad) Avantaj elde etmek için kullanılan kaldıraç etkisi.
+LEVERAGES	(ad) leverage sözcüğünün çoğul çekimi: Avantaj elde etmek için kullanılan kaldıraç etkisi.\n(eylem) leverage sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: Avantaj elde etmek için kullanılan kaldıraç etkisi.
+LEVERAGING	(leverage sözcüğünün çekimi) (ad) Avantaj elde etmek için kullanılan kaldıraç etkisi.
+LEVERED	(lever sözcüğünün çekimi) (ad) lever kelimesinin karşılığı: ⟪kanırtmaç|KANIRTMAÇ⟫
+LEVERETS	(ad) çoğul çekimi: leveret
+LEVERING	(lever sözcüğünün çekimi) (ad) lever kelimesinin karşılığı: ⟪kanırtmaç|KANIRTMAÇ⟫
+LEVERS	(lever sözcüğünün çekimi) (ad) lever kelimesinin karşılığı: ⟪kanırtmaç|KANIRTMAÇ⟫
+LEVIATHANS	(ad) çoğul çekimi: leviathan
+LEVIED	(levy sözcüğünün çekimi) (ad) icra: borçlunun alacaklıya karşı yapmak veya ödemekle yükümlü bulunduğu bir şeyi adli bir kuruluş aracılığıyla...
+LEVIES	(levy sözcüğünün çekimi) (ad) icra: borçlunun alacaklıya karşı yapmak veya ödemekle yükümlü bulunduğu bir şeyi adli bir kuruluş aracılığıyla...
+LEVIRATE	(ad) levirate kelimesinin karşılığı: ⟪levirat|LEVİRAT⟫
+LEVIRATES	(levirate sözcüğünün çekimi) (ad) levirate kelimesinin karşılığı: ⟪levirat|LEVİRAT⟫
+LEVITATE	(eylem) levitate kelimesinin karşılığı: havaya kaldırmak
+LEVITATED	(levitate sözcüğünün çekimi) (eylem) levitate kelimesinin karşılığı: havaya kaldırmak
+LEVITATES	(levitate sözcüğünün çekimi) (eylem) levitate kelimesinin karşılığı: havaya kaldırmak
+LEVITATING	(levitate sözcüğünün çekimi) (eylem) levitate kelimesinin karşılığı: havaya kaldırmak
+LEVITATIONS	(ad) çoğul çekimi: levitation
+LEVITIES	(levity sözcüğünün çekimi) (ad) hafiflik: (mecaz) ferahlık (ayrıca: yeğnilik)
+LEVITY	(ad) hafiflik: (mecaz) ferahlık (ayrıca: yeğnilik)
+LEVY	(ad) icra: borçlunun alacaklıya karşı yapmak veya ödemekle yükümlü bulunduğu bir şeyi adli bir kuruluş aracılığıyla yerine getirme (ayrıca: haciz)
+LEVYING	(levy sözcüğünün çekimi) (ad) icra: borçlunun alacaklıya karşı yapmak veya ödemekle yükümlü bulunduğu bir şeyi adli bir kuruluş aracılığıyla...
+LEXEME	(ad) lexeme kelimesinin karşılığı: sözlük birim
+LEXEMES	(ad) çoğul çekimi: lexeme
+LEXICAL	(ad) lexical kelimesinin karşılığı: sözlüksel
+LEXICALISATION	(ad) lexicalisation kelimesinin karşılığı: sözlükselleşme
+LEXICALISATIONS	(lexicalisation sözcüğünün çekimi) (ad) lexicalisation kelimesinin karşılığı: sözlükselleşme
+LEXICALIZING	(ad) lexicalizing kelimesinin karşılığı: sözcükleşme
+LEXICOGRAPHER	(ad) lexicographer kelimesinin karşılığı: sözlükbilimci
+LEXICOGRAPHERS	(ad) çoğul çekimi: lexicographer
+LEXICOGRAPHIES	(lexicography sözcüğünün çekimi) (ad) lexicography kelimesinin karşılığı: sözlükbilgisi
+LEXICOGRAPHY	(ad) lexicography kelimesinin karşılığı: sözlükbilgisi
+LEXICOLOGIES	(lexicology sözcüğünün çekimi) (ad) lexicology kelimesinin karşılığı: sözcük bilgisi
+LEXICOLOGY	(ad) lexicology kelimesinin karşılığı: sözcük bilgisi
+LEXICON	(ad) sözlük: Bir dilin bütün zamanlarda veya belli bir çağda kullanılmış kelimelerini, kelime gruplarını deyim ve atasözlerini genellikle alfabe sırasına göre alarak sözcük türünü, okunuşunu, yabancı kökenliyse hangi dilden geldiğini, kullanım alanlarını gösterip tanımlarını yapan, varsa başka dillerdeki...
+LEXICONS	(ad) çoğul çekimi: lexicon
+LEXIS	(ad) lexis kelimesinin karşılığı: sözcük düzlemi
+LEYS	(ad) ley sözcüğünün çoğul çekimi
+LIABILITIES	(ad) çoğul çekimi: liability
+LIABILITY	(ad) sorum: mesuliyet, sorumluluk (ayrıca: yüküm)
+LIAISON	(ad) liaison kelimesinin karşılığı: geçiş sesleri
+LIAISONS	(liaison sözcüğünün çekimi) (ad) liaison kelimesinin karşılığı: geçiş sesleri
+LIAR	(ad) yalan: yalancı kişi (ayrıca: yalancı)
+LIARDS	(ad) çoğul çekimi: liard
+LIARS	(ad) çoğul çekimi: liar
+LIBBERS	(ad) çoğul çekimi: libber
+LIBELERS	(ad) çoğul çekimi: libeler
+LIBELS	(ad) çoğul çekimi: libel
+LIBERAL	(sıfat) liberal: serbest ekonomiden yana olan kimse, liberalist
+LIBERALISM	(ad) liberalism kelimesinin karşılığı: ⟪liberalizm|LİBERALİZM⟫
+LIBERALISMS	(liberalism sözcüğünün çekimi) (ad) liberalism kelimesinin karşılığı: ⟪liberalizm|LİBERALİZM⟫
+LIBERALS	(ad) çoğul çekimi: liberal
+LIBERATE	(eylem) liberate kelimesinin karşılığı: serbest bırakmak, ⟪özgürleştirmek|ÖZGÜRLEŞTİRMEK⟫
+LIBERATED	(liberate sözcüğünün çekimi) (eylem) liberate kelimesinin karşılığı: serbest bırakmak, ⟪özgürleştirmek|ÖZGÜRLEŞTİRMEK⟫
+LIBERATES	(ad) çoğul çekimi: liberate
+LIBERATING	(liberate sözcüğünün çekimi) (eylem) liberate kelimesinin karşılığı: serbest bırakmak, ⟪özgürleştirmek|ÖZGÜRLEŞTİRMEK⟫
+LIBERATORS	(ad) çoğul çekimi: liberator
+LIBERTARIANS	(ad) çoğul çekimi: libertarian
+LIBERTIES	(ad) liberty sözcüğünün çoğul çekimi: özgürlük, serbestlik, serbestî
+LIBERTINE	(zarf) libertine kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+LIBERTINES	(ad) çoğul çekimi: libertine
+LIBERTY	(ad) özgürlük: her türlü dış etkiden bağımsız olarak insanın kendi iradesine, kendi düşüncesine dayanarak karar vermesi durumu, hürriyet (ayrıca: serbestlik, serbestî)
+LIBIDO	(ad) libido: İnsan davranışlarının temelini oluşturduğu söylenen cinsel içgüdü
+LIBIDOS	(ad) çoğul çekimi: libido
+LIBRAE	(ad) çoğul çekimi: libra
+LIBRARIAN	(ad) kütüphaneci: Kütüphanelerde işlerin yürütülmesini sağlayan, kütüphanecilik öğrenimi görmüş kimse; kitaplık bilimci, bibliyotekçi
+LIBRARIANS	(ad) librarian sözcüğünün çoğul çekimi: kütüphaneci
+LIBRARIANSHIP	(ad) kütüphanecilik: kitaplık görevlisinin işi; bibliyotekçilik.
+LIBRARIANSHIPS	(librarianship sözcüğünün çekimi) (ad) kütüphanecilik: kitaplık görevlisinin işi; bibliyotekçilik.
+LIBRARIES	(ad) library (kütüphane) sözcüğünün çoğulu; kütüphaneler.
+LIBRARY	(ad) kütüphane: kitaplık
+LIBRAS	(ad) çoğul çekimi: libra
+LIBRATIONS	(ad) çoğul çekimi: libration
+LIBRETTISTS	(ad) çoğul çekimi: librettist
+LIBRETTOS	(ad) çoğul çekimi: libretto
+LICE	(louse sözcüğünün çekimi) (ad) bit: Yarım kanatlılar alt takımına giren, insan ve memeli hayvanların vücudunda asalak olarak yaşayan böcek....
+LICENCE	(ad) licence kelimesinin karşılığı: ⟪lisans|LİSANS⟫
+LICENCED	(licence sözcüğünün çekimi) (ad) licence kelimesinin karşılığı: ⟪lisans|LİSANS⟫
+LICENCEES	(licence sözcüğünün çekimi) (ad) licence kelimesinin karşılığı: ⟪lisans|LİSANS⟫
+LICENCES	(ad) licence sözcüğünün çoğul çekimi: lisans\n(eylem) licence sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: lisans
+LICENCING	(licence sözcüğünün çekimi) (ad) licence kelimesinin karşılığı: ⟪lisans|LİSANS⟫
+LICENSE	(ad) belgeleme: bir çalışma için gerekli belgeleri arama ve sağlama, belgelere dayandırma, dokümantasyon
+LICENSED	(sıfat) lisanslı: Lisansı olan
+LICENSEES	(ad) çoğul çekimi: licensee
+LICENSES	(ad) çoğul çekimi: license
+LICENSING	(license sözcüğünün çekimi) (ad) belgeleme: bir çalışma için gerekli belgeleri arama ve sağlama, belgelere dayandırma, dokümantasyon
+LICENTIATES	(ad) çoğul çekimi: licentiate
+LICENTIOUSNESS	(ad) fasıklık: fâsık olma hâli
+LICENTIOUSNESSES	(licentiousness sözcüğünün çekimi) (ad) fasıklık: fâsık olma hâli
+LICK	(eylem) yalamak: Sıyırarak, dokunarak geçmek.
+LICKED	(sıfat) licked kelimesinin karşılığı: ⟪yalanmış|YALANMIŞ⟫\n(eylem) lick eyleminin basit geçmiş zaman veya geçmiş zaman sıfat - fiile (-miş'li geçmiş zaman) göre çekimi.
+LICKERS	(ad) çoğul çekimi: licker
+LICKING	(eylem) licking kelimesinin karşılığı: ⟪yalıyor|YALIYOR⟫
+LICKINGS	(lick sözcüğünün çekimi) (eylem) yalamak: Sıyırarak, dokunarak geçmek.
+LICKS	(eylem) lick eyleminin geniş zamana göre o(he, she, it) zamiri için çekimi.
+LID	(ad) kapak: Her türlü kabın üstünü örtmeye veya bir deliği kapamaya yarayan nesne:
+LIDDING	(lid sözcüğünün çekimi) (ad) kapak: Her türlü kabın üstünü örtmeye veya bir deliği kapamaya yarayan nesne:
+LIDOS	(ad) çoğul çekimi: lido
+LIDS	(ad) lid sözcüğünün çoğul çekimi: kapak
+LIE	(ad) yalan: doğru olmayan, gerçeğe uymayan söz, kaşkariko, kıtır, hilaf, şorolop\n(eylem) uzanmak: Bir yere yetişmek, ulaşmak.
+LIED	(lie sözcüğünün çekimi) (ad) yalan: doğru olmayan, gerçeğe uymayan söz, kaşkariko, kıtır, hilaf, şorolop
+LIEDER	(lie sözcüğünün çekimi) (ad) yalan: doğru olmayan, gerçeğe uymayan söz, kaşkariko, kıtır, hilaf, şorolop
+LIES	(ad) lie sözcüğünün çoğul çekimi: yalan\n(eylem) lie sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yalan
+LIEU	(ad) lieu kelimesinin karşılığı: ⟪yerine|YERİNE⟫, bedel olarak
+LIEUS	(lieu sözcüğünün çekimi) (ad) lieu kelimesinin karşılığı: ⟪yerine|YERİNE⟫, bedel olarak
+LIEUTENANCIES	(ad) çoğul çekimi: lieutenancy
+LIEUTENANT	(ad) teğmen: Orduda rütbesi asteğmenle üsteğmen arasında olan, takım komutanlığı yapan subay, mülazım] (ayrıca: üsteğmen, asteğmen)
+LIEUTENANTS	(lieutenant sözcüğünün çekimi) (ad) teğmen: Orduda rütbesi asteğmenle üsteğmen arasında olan, takım komutanlığı yapan subay, mülazım] (ayrıca:...
+LIFE	(ad) hayat: fizyoloji: doğumla ölüm arasında yaşanan süre (ayrıca: ömür, yaşam)\n(ünlem) life kelimesinin karşılığı: can feda
+LIFEBOAT	(ad) lifeboat kelimesinin karşılığı: cankurtaran sandalı, ⟪filika|FİLİKA⟫
+LIFEBOATS	(ad) çoğul çekimi: lifeboat
+LIFEGUARD	(ad) cankurtaran: havuz veya plajda yüzme bilmeyenleri uyaran tehlikeden koruyan ve onları boğulma durumlarında kurtaran insan
+LIFEGUARDS	(ad) lifeguard sözcüğünün çoğul çekimi: cankurtaran
+LIFELESSNESS	(ad) cansızlık: hareketsizlik
+LIFELESSNESSES	(lifelessness sözcüğünün çekimi) (ad) cansızlık: hareketsizlik
+LIFELINE	(ad) lifeline kelimesinin karşılığı: hayat çizgisi
+LIFELINES	(ad) çoğul çekimi: lifeline
+LIFERS	(ad) çoğul çekimi: lifer
+LIFESTYLE	(ad) hayat: fizyoloji: doğumla ölüm arasında yaşanan süre
+LIFESTYLES	(ad) lifestyle sözcüğünün çoğul çekimi: hayat
+LIFETIME	(ad) ömür: yaşam
+LIFETIMES	(ad) çoğul çekimi: lifetime
+LIFT	(ad) lift kelimesinin karşılığı: ⟪asansör|ASANSÖR⟫
+LIFTED	(lift sözcüğünün çekimi) (ad) lift kelimesinin karşılığı: ⟪asansör|ASANSÖR⟫
+LIFTERS	(ad) çoğul çekimi: lifter
+LIFTING	(eylem) lift sözcüğünün şimdiki zaman ortaç ve gerund çekimi: asansör
+LIFTS	(ad) çoğul çekimi: lift
+LIGAMENT	(ad) ligament: kemikleri diğer kemiklere bağlayan fibröz bağ doku, bağ
+LIGAMENTS	(ligament sözcüğünün çekimi) (ad) ligament: kemikleri diğer kemiklere bağlayan fibröz bağ doku, bağ
+LIGANDS	(ad) çoğul çekimi: ligand
+LIGATURE	(ad) ligature kelimesinin karşılığı: birleştirmeli yazım
+LIGATURED	(ligature sözcüğünün çekimi) (ad) ligature kelimesinin karşılığı: birleştirmeli yazım
+LIGATURES	(ligature sözcüğünün çekimi) (ad) ligature kelimesinin karşılığı: birleştirmeli yazım
+LIGATURING	(ligature sözcüğünün çekimi) (ad) ligature kelimesinin karşılığı: birleştirmeli yazım
+LIGERS	(ad) çoğul çekimi: liger
+LIGHT	(ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫\n(sıfat) light kelimesinin karşılığı: ⟪açık|AÇIK⟫
+LIGHTBULBS	(ad) çoğul çekimi: lightbulb
+LIGHTED	(light sözcüğünün çekimi) (ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫
+LIGHTENED	(sıfat) aydınlık: bir yeri aydınlatan güç, ışık
+LIGHTERS	(ad) çoğul çekimi: lighter
+LIGHTEST	(light sözcüğünün çekimi) (ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫
+LIGHTHOUSES	(ad) çoğul çekimi: lighthouse
+LIGHTING	(ad) fener: Saydam bir maddeden yapılmış veya böyle bir madde ile donatılmış, içinde ışık kaynağı bulunan aydınlatma aracı.
+LIGHTINGS	(light sözcüğünün çekimi) (ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫
+LIGHTLY	(zarf) hafifçe: hafif olarak, hafif biçimde, belli belirsiz
+LIGHTNESS	(ad) lightness kelimesinin karşılığı: ⟪açıklık|AÇIKLIK⟫
+LIGHTNESSES	(lightness sözcüğünün çekimi) (ad) lightness kelimesinin karşılığı: ⟪açıklık|AÇIKLIK⟫
+LIGHTNING	(ad) yıldırım: gök gürültüsü ve şimşekle görülen, hava ile yer arasındaki elektrik boşalması
+LIGHTNINGED	(lightning sözcüğünün çekimi) (ad) yıldırım: gök gürültüsü ve şimşekle görülen, hava ile yer arasındaki elektrik boşalması
+LIGHTNINGS	(ad) çoğul çekimi: lightning
+LIGHTS	(ad) light sözcüğünün çoğul çekimi: ışık
+LIGHTSHIPS	(ad) çoğul çekimi: lightship
+LIGHTWEIGHT	(ad) lightweight kelimesinin karşılığı: hafif sıklet\n(sıfat) lightweight kelimesinin karşılığı: yeğnice
+LIGHTWEIGHTS	(ad) çoğul çekimi: lightweight
+LIGNIN	(ad) lignin: bitkide kök ve gövdenin sert ve odunsu yapısını oluşturan madde, lignen, odunlaşma
+LIGNINS	(lignin sözcüğünün çekimi) (ad) lignin: bitkide kök ve gövdenin sert ve odunsu yapısını oluşturan madde, lignen, odunlaşma
+LIGNITE	(ad) lignite kelimesinin karşılığı: ⟪linyit|LİNYİT⟫
+LIGNITES	(lignite sözcüğünün çekimi) (ad) lignite kelimesinin karşılığı: ⟪linyit|LİNYİT⟫
+LIGULES	(ad) çoğul çekimi: ligule
+LIKE	(eylem) like kelimesinin karşılığı: ⟪beğenmek|BEĞENMEK⟫\n(edat) gibi: Bazı sıfat-fiil eki almış kelimelerden sonra geldiğinde karşılaştırmaya dayanan denklik ve eşitlik bağlantısı kuran bir söz.
+LIKED	(eylem) like sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: beğenmek
+LIKELIER	(likely sözcüğünün çekimi) (zarf) likely kelimesinin karşılığı: ⟪muhtemelen|MUHTEMELEN⟫
+LIKELIEST	(likely sözcüğünün çekimi) (zarf) likely kelimesinin karşılığı: ⟪muhtemelen|MUHTEMELEN⟫
+LIKELIHOODS	(ad) likelihood sözcüğünün çoğul çekimi
+LIKELY	(zarf) likely kelimesinin karşılığı: ⟪muhtemelen|MUHTEMELEN⟫\n(sıfat) muhtemel: gerçekleşmesi de gerçekleşmemesi de ihtimal dâhilinde olan, beklenen, beklenir, umulur, olası, olasılı, mümkün
+LIKENESSES	(ad) çoğul çekimi: likeness
+LIKER	(like sözcüğünün çekimi) (eylem) like kelimesinin karşılığı: ⟪beğenmek|BEĞENMEK⟫
+LIKES	(like sözcüğünün çekimi) (eylem) like kelimesinin karşılığı: ⟪beğenmek|BEĞENMEK⟫
+LIKEST	(like sözcüğünün çekimi) (eylem) like kelimesinin karşılığı: ⟪beğenmek|BEĞENMEK⟫
+LIKEWISE	(zarf) likewise kelimesinin karşılığı: ⟪hakeza|HAKEZA⟫
+LIKING	(ad) beğenme: beğenmek işi
+LIKINGS	(ad) çoğul çekimi: liking
+LILAC	(ad) leylak: Zeytingillerden, yaprakları karşılıklı bir ağaççık (Syringa vulgaris)
+LILACS	(lilac sözcüğünün çekimi) (ad) leylak: Zeytingillerden, yaprakları karşılıklı bir ağaççık (Syringa vulgaris)
+LILIES	(ad) çoğul çekimi: lily
+LILTS	(ad) çoğul çekimi: lilt
+LILY	(ad) lily kelimesinin karşılığı: ⟪zambak|ZAMBAK⟫
+LIMB	(ad) uzuv: üye (ayrıca: üye)
+LIMBERS	(ad) çoğul çekimi: limber
+LIMBI	(ad) çoğul çekimi: limbus
+LIMBING	(limb sözcüğünün çekimi) (ad) uzuv: üye (ayrıca: üye)
+LIMBS	(ad) çoğul çekimi: limb
+LIME	(ad) küçük, yeşil, keskin bir limon; misket limonu
+LIMED	(lime sözcüğünün çekimi) (ad) küçük, yeşil, keskin bir limon; misket limonu
+LIMEKILNS	(ad) çoğul çekimi: limekiln
+LIMERICKS	(ad) çoğul çekimi: limerick
+LIMES	(lime sözcüğünün çekimi) (ad) küçük, yeşil, keskin bir limon; misket limonu
+LIMESTONE	(ad) limestone kelimesinin karşılığı: kireç taşı
+LIMESTONES	(ad) limestone sözcüğünün çoğul çekimi: kireç taşı
+LIMEYS	(ad) çoğul çekimi: Limey
+LIMING	(lime sözcüğünün çekimi) (ad) küçük, yeşil, keskin bir limon; misket limonu
+LIMIT	(ad) sınır: Değişken bir büyüklüğün istenildiği kadar yaklaşabildiği durağan büyüklük. (ayrıca: limit, uç)
+LIMITATION	(ad) limitation kelimesinin karşılığı: ⟪sınırlama|SINIRLAMA⟫
+LIMITATIONS	(ad) limitation sözcüğünün çoğul çekimi: sınırlama
+LIMITED	(sıfat) limited kelimesinin karşılığı: ⟪limitet|LİMİTET⟫, ⟪sınırlı|SINIRLI⟫
+LIMITEDS	(limit sözcüğünün çekimi) (ad) sınır: Değişken bir büyüklüğün istenildiği kadar yaklaşabildiği durağan büyüklük. (ayrıca: limit, uç)
+LIMITES	(limit sözcüğünün çekimi) (ad) sınır: Değişken bir büyüklüğün istenildiği kadar yaklaşabildiği durağan büyüklük. (ayrıca: limit, uç)
+LIMITING	(eylem) limit sözcüğünün şimdiki zaman ortaç ve gerund çekimi: limit, sınır, uç
+LIMITLESS	(sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+LIMITLESSLY	(limitless sözcüğünün çekimi) (sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+LIMITS	(ad) çoğul çekimi: limit
+LIMN	(eylem) resmetmek: iz yapmak, işlemek, nakşetmek (ayrıca: resimlemek, betimlemek)
+LIMNED	(limn sözcüğünün çekimi) (eylem) resmetmek: iz yapmak, işlemek, nakşetmek (ayrıca: resimlemek, betimlemek)
+LIMNERS	(ad) çoğul çekimi: limner
+LIMNING	(limn sözcüğünün çekimi) (eylem) resmetmek: iz yapmak, işlemek, nakşetmek (ayrıca: resimlemek, betimlemek)
+LIMNOLOGIES	(ad) limnology sözcüğünün çoğul çekimi: göl bilimi
+LIMNOLOGY	(ad) limnology kelimesinin karşılığı: göl bilimi
+LIMNS	(limn sözcüğünün çekimi) (eylem) resmetmek: iz yapmak, işlemek, nakşetmek (ayrıca: resimlemek, betimlemek)
+LIMP	(sıfat) limp kelimesinin karşılığı: ⟪tembel|TEMBEL⟫\n(eylem) topallamak: Bacağındaki sakatlık sebebiyle seker gibi veya iki adımda, bir yana eğilerek yürümek
+LIMPED	(limp sözcüğünün çekimi) (sıfat) limp kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+LIMPER	(limp sözcüğünün çekimi) (sıfat) limp kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+LIMPERS	(limp sözcüğünün çekimi) (sıfat) limp kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+LIMPEST	(limp sözcüğünün çekimi) (sıfat) limp kelimesinin karşılığı: ⟪tembel|TEMBEL⟫
+LIMPET	(ad) limpet kelimesinin karşılığı: çin şapkası
+LIMPETS	(ad) çoğul çekimi: limpet
+LIMPID	(sıfat) berrak: duru, temiz, aydınlık, açık (ayrıca: duru, şeffaf)
+LIMPING	(ad) limping kelimesinin karşılığı: ⟪aksama|AKSAMA⟫
+LIMPS	(ad) çoğul çekimi: limp
+LINACS	(ad) çoğul çekimi: linac
+LINCHPINS	(ad) çoğul çekimi: linchpin
+LINDEN	(ad) ıhlamur: Ihlamurgillerden, kerestesi beğenilen, büyük bir gölge ağacı, (Tilia).
+LINDENS	(ad) çoğul çekimi: linden
+LINE	(ad) çizgi: çizilmek veya çeşitli yollarla oluşmuş iz; çizi, hat, tahril
+LINEAGES	(ad) çoğul çekimi: lineage
+LINEAMENTS	(ad) çoğul çekimi: lineament
+LINEAR	(sıfat) lineer: çizgilerle ilgili olan, doğrusal (ayrıca: çizgisel)
+LINEARITIES	(linearity sözcüğünün çekimi) (ad) linearity kelimesinin karşılığı: çizgisellik
+LINEARITY	(ad) linearity kelimesinin karşılığı: çizgisellik
+LINED	(line sözcüğünün çekimi) (ad) çizgi: çizilmek veya çeşitli yollarla oluşmuş iz; çizi, hat, tahril
+LINEN	(ad) linen kelimesinin karşılığı: ⟪keten|KETEN⟫
+LINENS	(ad) çoğul çekimi: linen
+LINERS	(ad) çoğul çekimi: liner
+LINES	(ad) lines kelimesinin karşılığı: ⟪çizgiler|ÇİZGİLER⟫
+LINESMAN	(ad) linesman kelimesinin karşılığı: yan hakem
+LINESMEN	(linesman sözcüğünün çekimi) (ad) linesman kelimesinin karşılığı: yan hakem
+LINGER	(eylem) linger kelimesinin karşılığı: ⟪olunmak|OLUNMAK⟫
+LINGERED	(linger sözcüğünün çekimi) (eylem) linger kelimesinin karşılığı: ⟪olunmak|OLUNMAK⟫
+LINGERING	(linger sözcüğünün çekimi) (eylem) linger kelimesinin karşılığı: ⟪olunmak|OLUNMAK⟫
+LINGERS	(linger sözcüğünün çekimi) (eylem) linger kelimesinin karşılığı: ⟪olunmak|OLUNMAK⟫
+LINGO	(ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz dağarcığı, jargon
+LINGOES	(lingo sözcüğünün çekimi) (ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz...
+LINGONBERRIES	(ad) çoğul çekimi: lingonberry
+LINGONBERRY	(ad) lingonberry kelimesinin karşılığı: ⟪kekreyemiş|KEKREYEMİŞ⟫
+LINGS	(ad) çoğul çekimi: ling
+LINGUAE	(ad) lingua sözcüğünün çoğul çekimi
+LINGUALS	(ad) çoğul çekimi: lingual
+LINGUIST	(ad) linguist kelimesinin karşılığı: dilbilimci
+LINGUISTIC	(sıfat) linguistic kelimesinin karşılığı: dilbilimsel
+LINGUISTICAL	(sıfat) linguistical kelimesinin karşılığı: ⟪dilsel|DİLSEL⟫
+LINGUISTICS	(ad) linguistics kelimesinin karşılığı: dil bilimi
+LINGUISTS	(ad) çoğul çekimi: linguist
+LINIMENTS	(ad) çoğul çekimi: liniment
+LINING	(ad) astar: Duyarkatın tabana sağlamca yapışmasını sağlamak amacıyla tabana çekilen yapışkan kat.
+LININGS	(ad) çoğul çekimi: lining
+LINK	(ad) bağlantı: iki veya daha çok şeyin birbiriyle bağlı bulunması; ilişki, irtibat, bağlanak (ayrıca: bağ, ilişim)
+LINKAGES	(ad) çoğul çekimi: linkage
+LINKED	(eylem) link sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bağ, bağlantı, ilişim
+LINKER	(link sözcüğünün çekimi) (ad) bağlantı: iki veya daha çok şeyin birbiriyle bağlı bulunması; ilişki, irtibat, bağlanak (ayrıca: bağ, ilişim)
+LINKING	(ad) linking kelimesinin karşılığı: geçiş sesleri
+LINKS	(link sözcüğünün çekimi) (ad) bağlantı: iki veya daha çok şeyin birbiriyle bağlı bulunması; ilişki, irtibat, bağlanak (ayrıca: bağ, ilişim)
+LINNET	(ad) linnet kelimesinin karşılığı: keten kuşu
+LINNETS	(linnet sözcüğünün çekimi) (ad) linnet kelimesinin karşılığı: keten kuşu
+LINOLEATES	(ad) çoğul çekimi: linoleate
+LINOLEUM	(ad) linoleum kelimesinin karşılığı: ⟪linolyum|LİNOLYUM⟫
+LINOLEUMS	(ad) linoleum sözcüğünün çoğul çekimi: linolyum
+LINTEL	(ad) boyunduruk: Kapı veya pencere vb. açıklıkların üzerine konulan ağaç, taş veya beton kiriş; lento
+LINTELS	(ad) çoğul çekimi: lintel
+LION	(ad) aslan: Kedigillerden, Afrika'da ve Asya'da yaşayan, kısa, yuvarlak başlı, kısık boyunlu, yuvarlak kulaklı, kaslı, derin göğüslü, devetüyü, gri, koyu kahverengi veya sarımsı kırmızı renkli kürkü olan, yırtıcı, erkekleri yeleli, kuyruğunun ucu püsküllü, güçlü bir tür memeli; arslan, (Panthera leo) (ayrıca: arslan)
+LIONESS	(ad) lioness kelimesinin karşılığı: dişi aslan
+LIONESSES	(lioness sözcüğünün çekimi) (ad) lioness kelimesinin karşılığı: dişi aslan
+LIONS	(ad) lion sözcüğünün çoğul çekimi: aslan, arslan
+LIP	(ad) dudak: (mecaz) ağız
+LIPASES	(ad) çoğul çekimi: lipase
+LIPIDS	(ad) çoğul çekimi: lipid
+LIPOPHILIC	(ad) lipophilic kelimesinin karşılığı: lipofilik
+LIPOPROTEINS	(ad) çoğul çekimi: lipoprotein
+LIPOSOMES	(ad) çoğul çekimi: liposome
+LIPPER	(lip sözcüğünün çekimi) (ad) dudak: (mecaz) ağız
+LIPPING	(lip sözcüğünün çekimi) (ad) dudak: (mecaz) ağız
+LIPS	(ad) lips kelimesinin karşılığı: ⟪dudaklar|DUDAKLAR⟫
+LIPSTICK	(ad) lipstick kelimesinin karşılığı: ⟪ruj|RUJ⟫
+LIPSTICKED	(lipstick sözcüğünün çekimi) (ad) lipstick kelimesinin karşılığı: ⟪ruj|RUJ⟫
+LIPSTICKS	(lipstick sözcüğünün çekimi) (ad) lipstick kelimesinin karşılığı: ⟪ruj|RUJ⟫
+LIQUEFACTION	(ad) liquefaction kelimesinin karşılığı: ⟪sıvılaştırma|SIVILAŞTIRMA⟫
+LIQUEFACTIONS	(liquefaction sözcüğünün çekimi) (ad) liquefaction kelimesinin karşılığı: ⟪sıvılaştırma|SIVILAŞTIRMA⟫
+LIQUEUR	(ad) likör: meyve, alkol, esans karışımıyla yapılan şekerli içki
+LIQUEURS	(liqueur sözcüğünün çekimi) (ad) likör: meyve, alkol, esans karışımıyla yapılan şekerli içki
+LIQUID	(ad) liquid kelimesinin karşılığı: akıcı ünsüz, akıcı sessiz\n(sıfat) akışkan: akış özellikleri gözlenebilen sıvı ya da gaz evresindeki özdek, seyyal
+LIQUIDATION	(ad) liquidation kelimesinin karşılığı: ⟪tasfiye|TASFİYE⟫
+LIQUIDATIONS	(liquidation sözcüğünün çekimi) (ad) liquidation kelimesinin karşılığı: ⟪tasfiye|TASFİYE⟫
+LIQUIDATORS	(ad) çoğul çekimi: liquidator
+LIQUIDITIES	(liquidity sözcüğünün çekimi) (ad) likidite: Bir varlığın hızlı ve kolay bir biçimde nakde çevrilebilme derecesi.
+LIQUIDITY	(ad) likidite: Bir varlığın hızlı ve kolay bir biçimde nakde çevrilebilme derecesi.
+LIQUIDS	(ad) çoğul çekimi: liquid
+LIQUOR	(ad) rakı: Üzüm, incir, erik vb. meyvelerin alkolle mayalanarak damıtılmasıyla elde edilen içki; aslansütü, imamsuyu, dilaversuyu.
+LIQUORED	(liquor sözcüğünün çekimi) (ad) rakı: Üzüm, incir, erik vb. meyvelerin alkolle mayalanarak damıtılmasıyla elde edilen içki; aslansütü, imamsuyu,...
+LIQUORING	(liquor sözcüğünün çekimi) (ad) rakı: Üzüm, incir, erik vb. meyvelerin alkolle mayalanarak damıtılmasıyla elde edilen içki; aslansütü, imamsuyu,...
+LIQUORS	(ad) çoğul çekimi: liquor
+LIRA	(ad) lira: yüz kuruş değerinde Türk para birimi, teklik, Türk lirası
+LIRAS	(lira sözcüğünün çekimi) (ad) lira: yüz kuruş değerinde Türk para birimi, teklik, Türk lirası
+LIRE	(lira sözcüğünün çekimi) (ad) lira: yüz kuruş değerinde Türk para birimi, teklik, Türk lirası
+LISPING	(ad) lisping kelimesinin karşılığı: ⟪peltekleşme|PELTEKLEŞME⟫
+LISPS	(ad) çoğul çekimi: lisp
+LIST	(ad) list kelimesinin karşılığı: ⟪liste|LİSTE⟫
+LISTED	(list sözcüğünün çekimi) (ad) list kelimesinin karşılığı: ⟪liste|LİSTE⟫
+LISTEN	(eylem) dinlemek: işitmek için kulak vermek
+LISTENED	(eylem) listen sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dinlemek
+LISTENER	(ad) dinleyici: Söylenen veya çalınan bir şeyi dinleyen kimse
+LISTENERS	(ad) çoğul çekimi: listener
+LISTENING	(ad) listening kelimesinin karşılığı: ⟪dinleme|DİNLEME⟫
+LISTENS	(ad) çoğul çekimi: listen
+LISTERS	(ad) çoğul çekimi: lister
+LISTING	(list sözcüğünün çekimi) (ad) list kelimesinin karşılığı: ⟪liste|LİSTE⟫
+LISTINGS	(ad) çoğul çekimi: listing
+LISTS	(ad) lists kelimesinin karşılığı: ⟪listeler|LİSTELER⟫
+LIT	(light sözcüğünün çekimi) (ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫
+LITAI	(light sözcüğünün çekimi) (ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫
+LITER	(ad) litre: 1000 santimetreküpe denk gelen metrik hacim ölçüsü birimi
+LITERACIES	(literacy sözcüğünün çekimi) (ad) okuryazarlık: okuryazar olma hâli
+LITERACY	(ad) okuryazarlık: okuryazar olma hâli
+LITERAL	(sıfat) literal kelimesinin karşılığı: kelimesi kelimesine
+LITERALISTS	(ad) çoğul çekimi: literalist
+LITERALLY	(zarf) resmen: Kesinlikle, açıkça, kesin olarak (ayrıca: harfiyen)
+LITERALS	(ad) çoğul çekimi: literal
+LITERARILY	(literary sözcüğünün çekimi) (sıfat) edebî: edebiyata ilişkin, edebiyatla alakalı (ayrıca: yazınsal)
+LITERARY	(sıfat) edebî: edebiyata ilişkin, edebiyatla alakalı (ayrıca: yazınsal)
+LITERATE	(ad) okuryazar: Okuması yazması olan, öğrenim görmüş kimse\n(sıfat) okuryazar: Okuması yazması olan, öğrenim görmüş kimse
+LITERATELY	(literate sözcüğünün çekimi) (ad) okuryazar: Okuması yazması olan, öğrenim görmüş kimse
+LITERATES	(literate sözcüğünün çekimi) (ad) okuryazar: Okuması yazması olan, öğrenim görmüş kimse
+LITERATURE	(ad) literature kelimesinin karşılığı: ⟪edebiyat|EDEBİYAT⟫, ⟪yazın|YAZIN⟫, ⟪literatür|LİTERATÜR⟫
+LITERATURES	(ad) çoğul çekimi: literature
+LITERS	(ad) liter sözcüğünün çoğul çekimi: litre
+LITHIUM	(ad) lityum: Atom numarası 3, atom ağırlığı 6,94, yoğunluğu 0,55 olan, 180°C de eriyen, gümüş parlaklığında, bilinen en hafif element Kısaltması Li
+LITHIUMS	(lithium sözcüğünün çekimi) (ad) lityum: Atom numarası 3, atom ağırlığı 6,94, yoğunluğu 0,55 olan, 180°C de eriyen, gümüş parlaklığında, bilinen en...
+LITHOGRAPHIES	(lithography sözcüğünün çekimi) (ad) lithography kelimesinin karşılığı: ⟪litografya|LİTOGRAFYA⟫, taş basması
+LITHOGRAPHS	(ad) çoğul çekimi: lithograph
+LITHOGRAPHY	(ad) lithography kelimesinin karşılığı: ⟪litografya|LİTOGRAFYA⟫, taş basması
+LITHOLOGIES	(ad) çoğul çekimi: lithology
+LITHOSPHERE	(ad) lithosphere kelimesinin karşılığı: ⟪litosfer|LİTOSFER⟫, ⟪taşküre|TAŞKÜRE⟫
+LITHOSPHERES	(lithosphere sözcüğünün çekimi) (ad) lithosphere kelimesinin karşılığı: ⟪litosfer|LİTOSFER⟫, ⟪taşküre|TAŞKÜRE⟫
+LITHOTOMIES	(ad) çoğul çekimi: lithotomy
+LITIGANTS	(ad) çoğul çekimi: litigant
+LITIGATION	(ad) litigation kelimesinin karşılığı: dava açma, dava etme
+LITIGATIONS	(ad) litigation sözcüğünün çoğul çekimi: dava açma; dava etme
+LITIGATORS	(ad) çoğul çekimi: litigator
+LITMUS	(ad) litmus kelimesinin karşılığı: ⟪turnusol|TURNUSOL⟫
+LITMUSES	(litmus sözcüğünün çekimi) (ad) litmus kelimesinin karşılığı: ⟪turnusol|TURNUSOL⟫
+LITOTES	(ad) litotes kelimesinin karşılığı: arıksayış
+LITRE	(ad) litre: 1000 santimetreküpe denk gelen metrik hacim ölçüsü birimi
+LITRES	(litre sözcüğünün çekimi) (ad) litre: 1000 santimetreküpe denk gelen metrik hacim ölçüsü birimi
+LITS	(light sözcüğünün çekimi) (ad) light kelimesinin karşılığı: ⟪ışık|IŞIK⟫
+LITTER	(ad) paket, şişe, teneke gibi kullanılıp atılmış nesnelerden oluşmuş öbek, çöp.
+LITTERBUGS	(ad) çoğul çekimi: litterbug
+LITTERED	(litter sözcüğünün çekimi) (ad) paket, şişe, teneke gibi kullanılıp atılmış nesnelerden oluşmuş öbek, çöp.
+LITTERING	(litter sözcüğünün çekimi) (ad) paket, şişe, teneke gibi kullanılıp atılmış nesnelerden oluşmuş öbek, çöp.
+LITTERS	(ad) çoğul çekimi: litter
+LITTLE	(ad) little kelimesinin karşılığı: ⟪küçük|KÜÇÜK⟫\n(sıfat) birkaç: çok olmayan, az, az sayıda
+LITTLES	(little sözcüğünün çekimi) (ad) little kelimesinin karşılığı: ⟪küçük|KÜÇÜK⟫
+LITTLEST	(little sözcüğünün çekimi) (ad) little kelimesinin karşılığı: ⟪küçük|KÜÇÜK⟫
+LITTORALS	(ad) çoğul çekimi: littoral
+LIVE	(eylem) live kelimesinin karşılığı: hayatta kalmak\n(sıfat) canlı: canlı (yayın)
+LIVED	(eylem) live sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hayatta kalmak
+LIVELIER	(lively sözcüğünün çekimi) (zarf) animato: canlı bir biçimde
+LIVELIEST	(lively sözcüğünün çekimi) (zarf) animato: canlı bir biçimde
+LIVELIHOOD	(ad) livelihood kelimesinin karşılığı: ⟪geçim|GEÇİM⟫, ⟪maişet|MAİŞET⟫
+LIVELIHOODS	(ad) çoğul çekimi: livelihood
+LIVELINESS	(ad) canlılık: (mecaz) neşeli, hareketli olma durumu (ayrıca: dirilik, fer)
+LIVELINESSES	(liveliness sözcüğünün çekimi) (ad) canlılık: (mecaz) neşeli, hareketli olma durumu (ayrıca: dirilik, fer)
+LIVELY	(zarf) animato: canlı bir biçimde
+LIVER	(ad) karaciğer: Karın boşluğunun sağ üst bölgesinde bulunan, öd salgılayan, şeker depolayan, iri, açık kahverengi organ.
+LIVERIES	(ad) çoğul çekimi: livery
+LIVERS	(ad) çoğul çekimi: liver
+LIVERWORTS	(ad) çoğul çekimi: liverwort
+LIVES	(ad) life sözcüğünün çoğul çekimi: hayat, ömür, yaşam, can
+LIVESTOCK	(ad) hayvancılık: Ürünleriyle ve güçleriyle insanlara yararlı evcil hayvanların bakımı, beslenmesi, üretimi ve yetiştirilmesini kapsayan iş dalı. (ayrıca: mal, malcılık)
+LIVESTOCKS	(livestock sözcüğünün çekimi) (ad) hayvancılık: Ürünleriyle ve güçleriyle insanlara yararlı evcil hayvanların bakımı, beslenmesi, üretimi ve...
+LIVING	(ad) yaşam: Doğumla ölüm arasında yaşanan süre; dirim, ömür, hayat.\n(sıfat) canlı: Hareketli, hayat dolu, dinamik bir biçimde. (ayrıca: yaşayan)
+LIVINGS	(ad) çoğul çekimi: living
+LIZARD	(ad) kertenkele: Uzun vücutlu, sivri kuyruklu, çevik, böcekçil, organ yenilemesi özelliği ile bilinen, küçük sürüngen hayvan; elöpen, (Lacertus).
+LIZARDS	(ad) lizard sözcüğünün çoğul çekimi: kertenkele
+LLAMA	(ad) llama kelimesinin karşılığı: ⟪lama|LAMA⟫
+LLAMAS	(ad) çoğul çekimi: llama
+LOAD	(ad) load kelimesinin karşılığı: ⟪yük|YÜK⟫\n(eylem) yüklemek: bir yere, taşınması için belli ağırlıkta eşya veya araç gereç koymak
+LOADED	(eylem) load sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yük
+LOADER	(ad) yükleyici: Ağır yükleri kaldırma, taşıma veya yükleme işinde kullanılan araç (ayrıca: loder)
+LOADERS	(ad) çoğul çekimi: loader
+LOADING	(ad) loading kelimesinin karşılığı: ⟪yükleme|YÜKLEME⟫, ⟪tahmil|TAHMİL⟫
+LOADINGS	(ad) çoğul çekimi: loading
+LOADS	(ad) load sözcüğünün çoğul çekimi: yük\n(eylem) load sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yük
+LOADSTARS	(ad) çoğul çekimi: loadstar
+LOADSTONE	(ad) mıknatıs: Demiri ve daha başka bazı metalleri çeken demir oksit.
+LOADSTONES	(ad) çoğul çekimi: loadstone
+LOAFERS	(ad) çoğul çekimi: loafer
+LOAFS	(ad) çoğul çekimi: loaf
+LOAN	(ad) ödünç: ileride geri verilmek veya alınmak şartıyla alınan veya verilen şey
+LOANED	(loan sözcüğünün çekimi) (ad) ödünç: ileride geri verilmek veya alınmak şartıyla alınan veya verilen şey
+LOANING	(loan sözcüğünün çekimi) (ad) ödünç: ileride geri verilmek veya alınmak şartıyla alınan veya verilen şey
+LOANINGS	(loan sözcüğünün çekimi) (ad) ödünç: ileride geri verilmek veya alınmak şartıyla alınan veya verilen şey
+LOANS	(ad) çoğul çekimi: loan
+LOANWORDS	(ad) çoğul çekimi: loanword
+LOATHE	(eylem) iğrenmek: aşağılık, bayağı bulmak, hoşlanmamak, nefret etmek
+LOATHED	(loathe sözcüğünün çekimi) (eylem) iğrenmek: aşağılık, bayağı bulmak, hoşlanmamak, nefret etmek
+LOATHES	(loathe sözcüğünün çekimi) (eylem) iğrenmek: aşağılık, bayağı bulmak, hoşlanmamak, nefret etmek
+LOATHING	(ad) nefret: Bir kimsenin kötülüğünü, mutsuzluğunu istemeye yönelik duygu. (ayrıca: hiç sevmeme)
+LOATHINGS	(loathe sözcüğünün çekimi) (eylem) iğrenmek: aşağılık, bayağı bulmak, hoşlanmamak, nefret etmek
+LOAVES	(ad) loaf sözcüğünün çoğul çekimi
+LOB	(ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBBED	(lob sözcüğünün çekimi) (ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBBER	(lob sözcüğünün çekimi) (ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBBIED	(lobby sözcüğünün çekimi) (ad) lobi: Otel, tiyatro gibi yerlerde girişe yakın geniş yer
+LOBBIES	(ad) lobby sözcüğünün çoğul çekimi: lobi
+LOBBING	(lob sözcüğünün çekimi) (ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBBY	(ad) lobi: Otel, tiyatro gibi yerlerde girişe yakın geniş yer
+LOBBYER	(lobby sözcüğünün çekimi) (ad) lobi: Otel, tiyatro gibi yerlerde girişe yakın geniş yer
+LOBBYING	(lobby sözcüğünün çekimi) (ad) lobi: Otel, tiyatro gibi yerlerde girişe yakın geniş yer
+LOBBYISTS	(ad) çoğul çekimi: lobbyist
+LOBED	(lob sözcüğünün çekimi) (ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBOTOMIES	(lobotomy sözcüğünün çekimi) (ad) lobotomy kelimesinin karşılığı: lobotomi
+LOBOTOMY	(ad) lobotomy kelimesinin karşılığı: lobotomi
+LOBS	(lob sözcüğünün çekimi) (ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBSTER	(ad) lobster kelimesinin karşılığı: ⟪ıstakoz|ISTAKOZ⟫
+LOBSTERED	(lobster sözcüğünün çekimi) (ad) lobster kelimesinin karşılığı: ⟪ıstakoz|ISTAKOZ⟫
+LOBSTERING	(lobster sözcüğünün çekimi) (ad) lobster kelimesinin karşılığı: ⟪ıstakoz|ISTAKOZ⟫
+LOBSTERMEN	(ad) çoğul çekimi: lobsterman
+LOBSTERS	(ad) lobster sözcüğünün çoğul çekimi: ıstakoz
+LOBULES	(ad) çoğul çekimi: lobule
+LOCAL	(sıfat) local kelimesinin karşılığı: ⟪lokal|LOKAL⟫, ⟪yerel|YEREL⟫, ⟪yöresel|YÖRESEL⟫
+LOCALES	(ad) çoğul çekimi: locale
+LOCALISM	(ad) localism kelimesinin karşılığı: yöresel dilce
+LOCALISMS	(localism sözcüğünün çekimi) (ad) localism kelimesinin karşılığı: yöresel dilce
+LOCALITIES	(ad) çoğul çekimi: locality
+LOCALIZATION	(ad) localization kelimesinin karşılığı: ⟪lokalizasyon|LOKALİZASYON⟫, yerini saptama, yerini tayin etme
+LOCALIZATIONS	(ad) çoğul çekimi: localization
+LOCALS	(ad) çoğul çekimi: local
+LOCATES	(eylem) locate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+LOCATION	(ad) uzam: Bir nesnenin uzayda kapladığı yer.
+LOCATIONS	(location sözcüğünün çekimi) (ad) uzam: Bir nesnenin uzayda kapladığı yer.
+LOCATIVE	(ad) locative kelimesinin karşılığı: bulunma durumu, bulunma hâli, ⟪lokatif|LOKATİF⟫, kalma durumu
+LOCATIVES	(locative sözcüğünün çekimi) (ad) locative kelimesinin karşılığı: bulunma durumu, bulunma hâli, ⟪lokatif|LOKATİF⟫, kalma durumu
+LOCATORS	(ad) çoğul çekimi: locator
+LOCI	(locus sözcüğünün çekimi) (ad) locus kelimesinin karşılığı: ⟪çıkak|ÇIKAK⟫
+LOCK	(ad) kilit: anahtar, düğme gibi takılıp çıkarılabilen bir parça yardımıyla çalışan kapatma aleti
+LOCKDOWNS	(ad) çoğul çekimi: lockdown
+LOCKED	(eylem) lock sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kilit
+LOCKER	(ad) dolap: genellikle tahtadan yapılmış, bölme veya çekmelerine eşya konulan kapaklı mobilya
+LOCKERS	(ad) çoğul çekimi: locker
+LOCKET	(ad) madalyon: İçine küçücük resim, saç teli gibi şeyler konulan, boyna zincirle asılan, genellikle değerli metalden yapılmış, türlü biçimde süs eşyası
+LOCKETS	(ad) çoğul çekimi: locket
+LOCKING	(eylem) lock sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kilit
+LOCKOUT	(ad) lokavt: İş kapatımı, iş bıraktırımı (ayrıca: iş bıraktırma)
+LOCKOUTS	(ad) çoğul çekimi: lockout
+LOCKS	(ad) lock sözcüğünün çoğul çekimi: kilit
+LOCKSMITH	(ad) çilingir: anahtarcı
+LOCKSMITHING	(locksmith sözcüğünün çekimi) (ad) çilingir: anahtarcı
+LOCKSMITHS	(ad) locksmith sözcüğünün çoğul çekimi: çilingir
+LOCKUPS	(ad) çoğul çekimi: lockup
+LOCOMOTIVE	(ad) lokomotif: tren vagonlarını çeken, tekerlekli, buharlı, elektrikli, termik motoru veya sıkıştırılmış havalı makine, çekit
+LOCOMOTIVES	(ad) çoğul çekimi: locomotive
+LOCOS	(ad) çoğul çekimi: loco
+LOCUMS	(ad) çoğul çekimi: locum
+LOCUS	(ad) locus kelimesinin karşılığı: ⟪çıkak|ÇIKAK⟫
+LOCUST	(ad) locust kelimesinin karşılığı: göçmen çekirge
+LOCUSTS	(ad) çoğul çekimi: locust
+LOCUTION	(ad) locution kelimesinin karşılığı: düzsöz
+LOCUTIONS	(locution sözcüğünün çekimi) (ad) locution kelimesinin karşılığı: düzsöz
+LODES	(ad) çoğul çekimi: lode
+LODESTARS	(ad) çoğul çekimi: lodestar
+LODESTONES	(ad) çoğul çekimi: lodestone
+LODGE	(eylem) sunmak: Konuğa bir şey ikram etmek; tutmak. (ayrıca: arzetmek, vermek)\n(ad) lodge kelimesinin karşılığı: bahçıvan kulübesi
+LODGED	(sıfat) Bir yere yapışmış olan.
+LODGERS	(ad) çoğul çekimi: lodger
+LODGES	(lodge sözcüğünün çekimi) (eylem) sunmak: Konuğa bir şey ikram etmek; tutmak. (ayrıca: arzetmek, vermek)
+LODGING	(lodge sözcüğünün çekimi) (eylem) sunmak: Konuğa bir şey ikram etmek; tutmak. (ayrıca: arzetmek, vermek)
+LODGINGS	(ad) çoğul çekimi: lodging
+LODGMENTS	(ad) çoğul çekimi: lodgment
+LOESS	(ad) loess kelimesinin karşılığı: ⟪lös|LÖS⟫
+LOESSES	(ad) loess sözcüğünün çoğul çekimi: lös
+LOFT	(ad) loft kelimesinin karşılığı: tavanarası, çatı katı
+LOFTED	(loft sözcüğünün çekimi) (ad) loft kelimesinin karşılığı: tavanarası, çatı katı
+LOFTIER	(lofty sözcüğünün çekimi) (sıfat) yüksek: Toplum içinde para, ün vb. bakımından üstünlüğü olan. (ayrıca: ulvi, yüce)
+LOFTIEST	(lofty sözcüğünün çekimi) (sıfat) yüksek: Toplum içinde para, ün vb. bakımından üstünlüğü olan. (ayrıca: ulvi, yüce)
+LOFTINESS	(ad) loftiness kelimesinin karşılığı: ⟪yücelik|YÜCELİK⟫
+LOFTINESSES	(loftiness sözcüğünün çekimi) (ad) loftiness kelimesinin karşılığı: ⟪yücelik|YÜCELİK⟫
+LOFTING	(loft sözcüğünün çekimi) (ad) loft kelimesinin karşılığı: tavanarası, çatı katı
+LOFTS	(loft sözcüğünün çekimi) (ad) loft kelimesinin karşılığı: tavanarası, çatı katı
+LOFTY	(sıfat) yüksek: Toplum içinde para, ün vb. bakımından üstünlüğü olan. (ayrıca: ulvi, yüce)
+LOG	(ad) log kelimesinin karşılığı: ⟪günlük|GÜNLÜK⟫\n(eylem) log kelimesinin karşılığı: günlüklemek
+LOGANS	(ad) çoğul çekimi: logan
+LOGARITHM	(ad) logaritma: Bir üssel eşitlikte taban ve sonuç belirliyken üssün bulunması yolu.
+LOGARITHMS	(ad) çoğul çekimi: logarithm
+LOGBOOK	(ad) logbook kelimesinin karşılığı: seyir defteri, gemi jurnali, ⟪kütük|KÜTÜK⟫
+LOGBOOKS	(ad) çoğul çekimi: logbook
+LOGGED	(log sözcüğünün çekimi) (ad) log kelimesinin karşılığı: ⟪günlük|GÜNLÜK⟫
+LOGGERHEADS	(ad) çoğul çekimi: loggerhead
+LOGGERS	(ad) çoğul çekimi: logger
+LOGGIAS	(ad) çoğul çekimi: loggia
+LOGGING	(log sözcüğünün çekimi) (ad) log kelimesinin karşılığı: ⟪günlük|GÜNLÜK⟫
+LOGGINGS	(log sözcüğünün çekimi) (ad) log kelimesinin karşılığı: ⟪günlük|GÜNLÜK⟫
+LOGIC	(ad) logic kelimesinin karşılığı: ⟪mantık|MANTIK⟫
+LOGICAL	(sıfat) logical kelimesinin karşılığı: ⟪mantıklı|MANTIKLI⟫
+LOGICS	(ad) çoğul çekimi: logic
+LOGISTICS	(ad) lojistik: ürün, hizmet ve insan gibi kaynakların, ihtiyaç duyulan yerde ve istenen zamanda temin edilmesi için bir araç olarak tanımlama
+LOGJAMS	(ad) çoğul çekimi: logjam
+LOGO	(ad) imlek: bir kurum veya kuruluşun kendine seçtiği, bazı ticaret eşyası üzerine konulan, o eşyayı üreten veya satanı tanıtan resim, harf vb. özel işaret, logo
+LOGOGRAM	(ad) resim yazı belirtkesi
+LOGOGRAMS	(ad) çoğul çekimi: logogram
+LOGOGRIPHS	(ad) çoğul çekimi: logogriph
+LOGROLLINGS	(ad) çoğul çekimi: logrolling
+LOGS	(log sözcüğünün çekimi) (ad) log kelimesinin karşılığı: ⟪günlük|GÜNLÜK⟫
+LOIN	(ad) loin kelimesinin karşılığı: ⟪kaşık|KAŞIK⟫
+LOINCLOTHS	(ad) çoğul çekimi: loincloth
+LOINS	(ad) çoğul çekimi: loin
+LOITER	(eylem) oyalanmak; aylak aylak gezinmek; başıboş dolanmak
+LOITERED	(loiter sözcüğünün çekimi) (eylem) oyalanmak; aylak aylak gezinmek; başıboş dolanmak
+LOITERERS	(ad) çoğul çekimi: loiterer
+LOITERING	(loiter sözcüğünün çekimi) (eylem) oyalanmak; aylak aylak gezinmek; başıboş dolanmak
+LOITERS	(ad) çoğul çekimi: loiter
+LOLLIES	(ad) çoğul çekimi: lolly
+LOLLIPOPS	(ad) çoğul çekimi: lollipop
+LONELIER	(lonely sözcüğünün çekimi) (sıfat) yalnız: toplumsal ilişkilerden yoksun veya yoksun bırakılan kişi (ayrıca: eşi, dostu olmayan)
+LONELIEST	(lonely sözcüğünün çekimi) (sıfat) yalnız: toplumsal ilişkilerden yoksun veya yoksun bırakılan kişi (ayrıca: eşi, dostu olmayan)
+LONELILY	(lonely sözcüğünün çekimi) (sıfat) yalnız: toplumsal ilişkilerden yoksun veya yoksun bırakılan kişi (ayrıca: eşi, dostu olmayan)
+LONELINESS	(ad) yalnızlık: Yalnız olma durumu, kimsesizlik
+LONELINESSES	(ad) loneliness sözcüğünün çoğul çekimi: yalnızlık
+LONELY	(sıfat) yalnız: toplumsal ilişkilerden yoksun veya yoksun bırakılan kişi (ayrıca: eşi, dostu olmayan)
+LONERS	(ad) çoğul çekimi: loner
+LONESOME	(sıfat) (ABD ağzı) tek başına veya kendini yalnız hisseden
+LONESOMELY	(lonesome sözcüğünün çekimi) (sıfat) (ABD ağzı) tek başına veya kendini yalnız hisseden
+LONESOMES	(ad) çoğul çekimi: lonesome
+LONG	(zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫\n(eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek. (ayrıca: arzulamak)
+LONGANS	(ad) çoğul çekimi: longan
+LONGBOATS	(ad) çoğul çekimi: longboat
+LONGBOWS	(ad) çoğul çekimi: longbow
+LONGED	(long sözcüğünün çekimi) (zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONGER	(long sözcüğünün çekimi) (zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONGERS	(long sözcüğünün çekimi) (zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONGES	(long sözcüğünün çekimi) (zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONGEST	(long sözcüğünün çekimi) (zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONGEVITIES	(longevity sözcüğünün çekimi) (ad) longevity kelimesinin karşılığı: uzun ömürlülük
+LONGEVITY	(ad) longevity kelimesinin karşılığı: uzun ömürlülük
+LONGHORNS	(ad) çoğul çekimi: longhorn
+LONGING	(eylem) long sözcüğünün şimdiki zaman ortaç ve gerund çekimi: uzun
+LONGINGS	(ad) çoğul çekimi: longing
+LONGITUDE	(ad) boylam: Yeryüzündeki herhangi bir noktanın meridyen çemberiyle başlangıç olarak alınan Greenwich Gözlemevi'nin meridyen çemberi arasındaki açı değeri; tul, tul derecesi, meridyen
+LONGITUDES	(ad) longitude sözcüğünün çoğul çekimi: boylam
+LONGS	(long sözcüğünün çekimi) (zarf) long kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONGSPURS	(ad) çoğul çekimi: longspur
+LOOK	(ad) göz: Bakış, görüş (ayrıca: nazar)\n(eylem) bakmak: anlamak, farkına varmak
+LOOKED	(eylem) look sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: göz, nazar
+LOOKING	(eylem) look sözcüğünün şimdiki zaman ortaç ve gerund çekimi: göz, nazar
+LOOKOUT	(ad) lookout kelimesinin karşılığı: ⟪direkçi|DİREKÇİ⟫
+LOOKOUTS	(ad) çoğul çekimi: lookout
+LOOKS	(ad) look sözcüğünün çoğul çekimi: göz, nazar
+LOOKUPS	(ad) çoğul çekimi: lookup
+LOOM	(ad) loom kelimesinin karşılığı: dokuma tezgahı\n(eylem) karaltı gibi büyük ve tehlikeli şekilde görünmek
+LOOMED	(loom sözcüğünün çekimi) (ad) loom kelimesinin karşılığı: dokuma tezgahı
+LOOMING	(eylem) loom sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dokuma tezgahı
+LOOMS	(ad) çoğul çekimi: loom
+LOON	(ad) haylaz: çalışma gücü varken çalışmayan, aylaklık eden, yaramaz (ayrıca: hödük)
+LOONIES	(ad) çoğul çekimi: loonie
+LOONS	(ad) çoğul çekimi: loon
+LOOP	(ad) loop kelimesinin karşılığı: ⟪döngü|DÖNGÜ⟫
+LOOPED	(eylem) loop sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: döngü
+LOOPHOLE	(ad) loophole kelimesinin karşılığı: ⟪barbakan|BARBAKAN⟫, gözetleme deliği, mazgal deliği
+LOOPHOLES	(ad) çoğul çekimi: loophole
+LOOPHOLING	(loophole sözcüğünün çekimi) (ad) loophole kelimesinin karşılığı: ⟪barbakan|BARBAKAN⟫, gözetleme deliği, mazgal deliği
+LOOPING	(ad) döngü: belli bir sayıda, ya da bir sonlandırıcıya ulaşana kadar yinelenen, bir dizi bilgisayar buyruğu
+LOOPS	(ad) loop sözcüğünün çoğul çekimi: döngü\n(eylem) loop sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: döngü
+LOOS	(ad) çoğul çekimi: loo
+LOOSE	(sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LOOSED	(loose sözcüğünün çekimi) (sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LOOSELY	(zarf) loosely kelimesinin karşılığı: genel hatlarıyla
+LOOSENESS	(ad) looseness kelimesinin karşılığı: ⟪gevşeklik|GEVŞEKLİK⟫
+LOOSENESSES	(looseness sözcüğünün çekimi) (ad) looseness kelimesinin karşılığı: ⟪gevşeklik|GEVŞEKLİK⟫
+LOOSER	(loose sözcüğünün çekimi) (sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LOOSES	(loos sözcüğünün çekimi) (ad) çoğul çekimi: loo
+LOOSEST	(loose sözcüğünün çekimi) (sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LOOSESTRIFES	(ad) çoğul çekimi: loosestrife
+LOOSING	(loose sözcüğünün çekimi) (sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LOOTERS	(ad) çoğul çekimi: looter
+LOPS	(ad) çoğul çekimi: lop
+LORD	(ad) lord kelimesinin karşılığı: ⟪efendi|EFENDİ⟫, ⟪reis|REİS⟫, ⟪baş|BAŞ⟫, ⟪erk|ERK⟫
+LORDED	(lord sözcüğünün çekimi) (ad) lord kelimesinin karşılığı: ⟪efendi|EFENDİ⟫, ⟪reis|REİS⟫, ⟪baş|BAŞ⟫, ⟪erk|ERK⟫
+LORDING	(lord sözcüğünün çekimi) (ad) lord kelimesinin karşılığı: ⟪efendi|EFENDİ⟫, ⟪reis|REİS⟫, ⟪baş|BAŞ⟫, ⟪erk|ERK⟫
+LORDINGS	(ad) çoğul çekimi: lording
+LORDS	(ad) çoğul çekimi: lord
+LORDSHIPS	(ad) çoğul çekimi: lordship
+LORIES	(ad) çoğul çekimi: lori
+LORIKEETS	(ad) çoğul çekimi: lorikeet
+LORIMERS	(ad) çoğul çekimi: lorimer
+LORINERS	(ad) çoğul çekimi: loriner
+LORRIES	(ad) lorry sözcüğünün çoğul çekimi: kamyon
+LORRY	(ad) lorry kelimesinin karşılığı: ⟪kamyon|KAMYON⟫
+LOSE	(ad) lose kelimesinin karşılığı: ⟪şan|ŞAN⟫, ün, ⟪şöhret|ŞÖHRET⟫
+LOSER	(ad) loser kelimesinin karşılığı: başarısız kimse, kaybeden kimse, ⟪ezik|EZİK⟫
+LOSERS	(ad) çoğul çekimi: loser
+LOSES	(eylem) lose sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: şan, ün, şöhret
+LOSING	(ad) losing kelimesinin karşılığı: ⟪kaybolma|KAYBOLMA⟫
+LOSINGS	(ad) çoğul çekimi: losing
+LOSS	(ad) kayıp: kaybedilen şey
+LOSSES	(ad) loss sözcüğünün çoğul çekimi: kayıp
+LOST	(sıfat) lost kelimesinin karşılığı: ⟪yitme|YİTME⟫, ⟪yitim|YİTİM⟫, ⟪kayıp|KAYIP⟫
+LOT	(ad) lot kelimesinin karşılığı: ad çekme, ⟪kura|KURA⟫, ⟪arsa|ARSA⟫
+LOTHARIOS	(ad) çoğul çekimi: lothario
+LOTION	(ad) losyon: Cilt ve saç bakımında kullanılan alkollü ya da alkolsüz, kokulu sıvı
+LOTIONS	(ad) çoğul çekimi: lotion
+LOTS	(lot sözcüğünün çekimi) (ad) lot kelimesinin karşılığı: ad çekme, ⟪kura|KURA⟫, ⟪arsa|ARSA⟫
+LOTTED	(lot sözcüğünün çekimi) (ad) lot kelimesinin karşılığı: ad çekme, ⟪kura|KURA⟫, ⟪arsa|ARSA⟫
+LOTTERIES	(ad) çoğul çekimi: lottery
+LOTTERY	(ad) piyango: Beklenmedik olay veya durum. (ayrıca: loto, lotarya)
+LOTTING	(lot sözcüğünün çekimi) (ad) lot kelimesinin karşılığı: ad çekme, ⟪kura|KURA⟫, ⟪arsa|ARSA⟫
+LOUD	(sıfat) loud kelimesinin karşılığı: ⟪yüksek|YÜKSEK⟫
+LOUDER	(loud sözcüğünün çekimi) (sıfat) loud kelimesinin karşılığı: ⟪yüksek|YÜKSEK⟫
+LOUDEST	(loud sözcüğünün çekimi) (sıfat) loud kelimesinin karşılığı: ⟪yüksek|YÜKSEK⟫
+LOUDLIER	(loudly sözcüğünün çekimi) (zarf) loudly kelimesinin karşılığı: sesli sesli, seslice
+LOUDLIEST	(loudly sözcüğünün çekimi) (zarf) loudly kelimesinin karşılığı: sesli sesli, seslice
+LOUDLY	(zarf) loudly kelimesinin karşılığı: sesli sesli, seslice
+LOUDMOUTH	(ad) boşboğaz: Saklanması gereken şeyleri söyleyiveren, sır saklayamayan. (ayrıca: geveze)
+LOUDMOUTHS	(loudmouth sözcüğünün çekimi) (ad) boşboğaz: Saklanması gereken şeyleri söyleyiveren, sır saklayamayan. (ayrıca: geveze)
+LOUDNESS	(ad) loudness kelimesinin karşılığı: ses yüksekliği
+LOUDNESSES	(loudness sözcüğünün çekimi) (ad) loudness kelimesinin karşılığı: ses yüksekliği
+LOUDSPEAKER	(ad) hoparlör: Elektrik akımı değişimlerini ses titreşimlerine çeviren alet, sesyayar.
+LOUDSPEAKERS	(ad) çoğul çekimi: loudspeaker
+LOUNGERS	(ad) çoğul çekimi: lounger
+LOUNGES	(ad) çoğul çekimi: lounge
+LOUSE	(ad) bit: Yarım kanatlılar alt takımına giren, insan ve memeli hayvanların vücudunda asalak olarak yaşayan böcek. (ayrıca: kehle)
+LOUSED	(louse sözcüğünün çekimi) (ad) bit: Yarım kanatlılar alt takımına giren, insan ve memeli hayvanların vücudunda asalak olarak yaşayan böcek....
+LOUSES	(ad) çoğul çekimi: louse
+LOUSING	(louse sözcüğünün çekimi) (ad) bit: Yarım kanatlılar alt takımına giren, insan ve memeli hayvanların vücudunda asalak olarak yaşayan böcek....
+LOUTISH	(sıfat) kaba: Terbiyeye, inceliğe aykırı, çirkin, kötü olan. (ayrıca: hoyrat, hödük)
+LOUTISHLY	(loutish sözcüğünün çekimi) (sıfat) kaba: Terbiyeye, inceliğe aykırı, çirkin, kötü olan. (ayrıca: hoyrat, hödük)
+LOUTS	(ad) çoğul çekimi: lout
+LOUVERS	(ad) çoğul çekimi: louver
+LOUVRES	(ad) çoğul çekimi: louvre
+LOVE	(ad) sevgi: insanı bir şeye veya bir kişiye karşı yakın ilgi ve bağlılık göstermeye yönelten duygu, aşk (ayrıca: aşk)\n(eylem) sevmek: Birine sevgiyle bağlanmak; gönül vermek.
+LOVEBIRDS	(ad) çoğul çekimi: lovebird
+LOVED	(eylem) love sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: aşk, sevgi
+LOVELIES	(ad) çoğul çekimi: lovely
+LOVELINESSES	(ad) çoğul çekimi: loveliness
+LOVER	(ad) âşık: Bir kimseye veya bir şeye karşı aşırı sevgi ve bağlılık duyan, vurgun, tutkun kimse. (ayrıca: vurgun)
+LOVERS	(ad) lover sözcüğünün çoğul çekimi: âşık, vurgun
+LOVES	(ad) love sözcüğünün çoğul çekimi: aşk, sevgi\n(eylem) love sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: aşk, sevgi
+LOVING	(eylem) love sözcüğünün şimdiki zaman ortaç ve gerund çekimi: aşk, sevgi
+LOW	(sıfat) low kelimesinin karşılığı: ⟪düşük|DÜŞÜK⟫
+LOWBALLS	(ad) çoğul çekimi: lowball
+LOWBOYS	(ad) çoğul çekimi: lowboy
+LOWBROWS	(ad) çoğul çekimi: lowbrow
+LOWED	(low sözcüğünün çekimi) (sıfat) low kelimesinin karşılığı: ⟪düşük|DÜŞÜK⟫
+LOWER	(sıfat) low sözcüğünün karşılaştırma derecesi çekimi: düşük\n(zarf) low sözcüğünün karşılaştırma derecesi çekimi: düşük
+LOWERED	(eylem) lower sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: düşürmek, indirmek, alçaltmak
+LOWERING	(eylem) lower sözcüğünün şimdiki zaman ortaç ve gerund çekimi: düşürmek, indirmek, alçaltmak
+LOWERS	(eylem) lower sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: düşürmek, indirmek, alçaltmak
+LOWES	(low sözcüğünün çekimi) (sıfat) low kelimesinin karşılığı: ⟪düşük|DÜŞÜK⟫
+LOWING	(low sözcüğünün çekimi) (sıfat) low kelimesinin karşılığı: ⟪düşük|DÜŞÜK⟫
+LOWINGS	(low sözcüğünün çekimi) (sıfat) low kelimesinin karşılığı: ⟪düşük|DÜŞÜK⟫
+LOWLANDERS	(ad) çoğul çekimi: lowlander
+LOWLANDS	(ad) çoğul çekimi: lowland
+LOWLIFE	(ad) serseri: tutarsız, beğenilmeyen davranışları olan (ayrıca: ayak takımı)
+LOWLIFES	(ad) çoğul çekimi: lowlife
+LOWLINESS	(ad) lowliness kelimesinin karşılığı: ⟪alçaklık|ALÇAKLIK⟫, ⟪denaet|DENAET⟫, ⟪pespayelik|PESPAYELİK⟫
+LOWLINESSES	(lowliness sözcüğünün çekimi) (ad) lowliness kelimesinin karşılığı: ⟪alçaklık|ALÇAKLIK⟫, ⟪denaet|DENAET⟫, ⟪pespayelik|PESPAYELİK⟫
+LOWS	(ad) çoğul çekimi: low
+LOYAL	(sıfat) loyal kelimesinin karşılığı: ⟪sadık|SADIK⟫
+LOYALER	(loyal sözcüğünün çekimi) (sıfat) loyal kelimesinin karşılığı: ⟪sadık|SADIK⟫
+LOYALEST	(loyal sözcüğünün çekimi) (sıfat) loyal kelimesinin karşılığı: ⟪sadık|SADIK⟫
+LOYALISTS	(ad) çoğul çekimi: loyalist
+LOYALTIES	(ad) loyalty sözcüğünün çoğul çekimi: sadakat
+LOYALTY	(ad) sadakat: Sağlam, güçlü dostluk.
+LOZENGE	(ad) lozenge kelimesinin karşılığı: ⟪pastil|PASTİL⟫
+LOZENGES	(ad) çoğul çekimi: lozenge
+LUBE	(ad) kayganlaştırıcı: cinsel aktivite esnasında sürtünmeyi ve dolayısıyla sürtünmeden kaynaklanan tahrişi azaltmak ve kayganlığı artırmak için özel olarak formüle edilmiş, jel kıvamında bir ürün; kayganlaştırıcı jel.
+LUBES	(lube sözcüğünün çekimi) (ad) kayganlaştırıcı: cinsel aktivite esnasında sürtünmeyi ve dolayısıyla sürtünmeden kaynaklanan tahrişi azaltmak ve...
+LUBRICANT	(ad) lubricant kelimesinin karşılığı: ⟪kaydırıcı|KAYDIRICI⟫
+LUBRICANTS	(ad) çoğul çekimi: lubricant
+LUBRICATE	(eylem) lubricate kelimesinin karşılığı: kayganlaştırmak
+LUBRICATED	(lubricate sözcüğünün çekimi) (eylem) lubricate kelimesinin karşılığı: kayganlaştırmak
+LUBRICATES	(lubricate sözcüğünün çekimi) (eylem) lubricate kelimesinin karşılığı: kayganlaştırmak
+LUBRICATING	(lubricate sözcüğünün çekimi) (eylem) lubricate kelimesinin karşılığı: kayganlaştırmak
+LUBRICATIONS	(ad) çoğul çekimi: lubrication
+LUBRICATORS	(ad) çoğul çekimi: lubricator
+LUBRICITIES	(ad) çoğul çekimi: lubricity
+LUCERNE	(ad) lucerne kelimesinin karşılığı: ⟪yonca|YONCA⟫
+LUCERNES	(lucerne sözcüğünün çekimi) (ad) lucerne kelimesinin karşılığı: ⟪yonca|YONCA⟫
+LUCID	(sıfat) lucid kelimesinin karşılığı: aklı başında
+LUCIFER	(sıfat) şeytan: Kötü düşünceli, kötü niyetli kimse.
+LUCIFERINS	(ad) çoğul çekimi: luciferin
+LUCIFERS	(ad) çoğul çekimi: lucifer
+LUCK	(ad) luck kelimesinin karşılığı: ⟪şans|ŞANS⟫
+LUCKED	(luck sözcüğünün çekimi) (ad) luck kelimesinin karşılığı: ⟪şans|ŞANS⟫
+LUCKIER	(lucky sözcüğünün çekimi) (sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: ongun, mesut)
+LUCKIES	(lucky sözcüğünün çekimi) (sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: ongun, mesut)
+LUCKIEST	(lucky sözcüğünün çekimi) (sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: ongun, mesut)
+LUCKINESS	(ad) luckiness kelimesinin karşılığı: ⟪saadetlilik|SAADETLİLİK⟫
+LUCKINESSES	(luckiness sözcüğünün çekimi) (ad) luckiness kelimesinin karşılığı: ⟪saadetlilik|SAADETLİLİK⟫
+LUCKING	(luck sözcüğünün çekimi) (ad) luck kelimesinin karşılığı: ⟪şans|ŞANS⟫
+LUCKS	(ad) çoğul çekimi: luck
+LUCKY	(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: ongun, mesut)
+LUCRATIVE	(sıfat) kazançlı: kazanç getiren, kazanç sağlayan
+LUDICROUS	(sıfat) gülünç: Alayı üzerine çeken, eğlence konusu olan, güldürücü, tuhaf, komik (ayrıca: mantıksız, absürt)
+LUFFS	(ad) çoğul çekimi: luff
+LUGES	(ad) çoğul çekimi: luge
+LUGGAGE	(ad) bagaj: Yolcunun beraberinde götürdüğü giyim vb. eşya.
+LUGGAGES	(luggage sözcüğünün çekimi) (ad) bagaj: Yolcunun beraberinde götürdüğü giyim vb. eşya.
+LUGGERS	(ad) çoğul çekimi: lugger
+LUGS	(ad) çoğul çekimi: lug
+LUGSAILS	(ad) çoğul çekimi: lugsail
+LUKEWARM	(sıfat) lukewarm kelimesinin karşılığı: ⟪ılık|ILIK⟫
+LULLABIED	(eylem) lullaby sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ninni
+LULLABIES	(ad) lullaby sözcüğünün çoğul çekimi: ninni\n(eylem) lullaby sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ninni
+LULLABY	(ad) ninni: Çocuğun uyumasının sağlanması ya da ağlamasının durması için, sade bir dille ve hece ölçüsüne göre ezgili olarak söylenen türkü\n(eylem) lullaby kelimesinin karşılığı: ninni söylemek
+LULLABYING	(eylem) lullaby sözcüğünün şimdiki zaman ortaç ve gerund çekimi: ninni
+LULLS	(ad) çoğul çekimi: lull
+LUMBER	(ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca: ahşap)
+LUMBERED	(lumber sözcüğünün çekimi) (ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca:...
+LUMBERING	(lumber sözcüğünün çekimi) (ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca:...
+LUMBERJACK	(ad) doğramacı: ahşap doğrama yapan kişi
+LUMBERJACKS	(ad) çoğul çekimi: lumberjack
+LUMBERS	(lumber sözcüğünün çekimi) (ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca:...
+LUMINA	(ad) çoğul çekimi: lumen
+LUMINARIES	(ad) çoğul çekimi: luminary
+LUMINESCENCE	(ad) luminescence kelimesinin karşılığı: ⟪ışıldama|IŞILDAMA⟫
+LUMINESCENCES	(ad) çoğul çekimi: luminescence
+LUMINESCENT	(ad) luminescent kelimesinin karşılığı: ışıldayan
+LUMINOUS	(ad) aydınlık: bir yeri aydınlatan güç, ışık (ayrıca: parlak, ışıldayan)
+LUMINOUSLY	(luminous sözcüğünün çekimi) (ad) aydınlık: bir yeri aydınlatan güç, ışık (ayrıca: parlak, ışıldayan)
+LUMP	(ad) topak: yuvarlak biçimde olan nesne, toparlak
+LUMPED	(lump sözcüğünün çekimi) (ad) topak: yuvarlak biçimde olan nesne, toparlak
+LUMPERS	(ad) çoğul çekimi: lumper
+LUMPING	(lump sözcüğünün çekimi) (ad) topak: yuvarlak biçimde olan nesne, toparlak
+LUMPS	(ad) çoğul çekimi: lump
+LUNACIES	(ad) çoğul çekimi: lunacy
+LUNACY	(ad) lunacy kelimesinin karşılığı: ⟪delilik|DELİLİK⟫, ⟪çılgınlık|ÇILGINLIK⟫
+LUNATICS	(ad) çoğul çekimi: lunatic
+LUNATIONS	(ad) çoğul çekimi: lunation
+LUNCH	(ad) lunch kelimesinin karşılığı: öğle yemeği
+LUNCHED	(lunch sözcüğünün çekimi) (ad) lunch kelimesinin karşılığı: öğle yemeği
+LUNCHES	(ad) lunch sözcüğünün çoğul çekimi: öğle yemeği
+LUNCHING	(lunch sözcüğünün çekimi) (ad) lunch kelimesinin karşılığı: öğle yemeği
+LUNCHTIMES	(ad) çoğul çekimi: lunchtime
+LUNG	(ad) akciğer: Göğüs kafesinin içinde yer alan, sağlı sollu iki parçadan oluşan solunum organı.
+LUNGE	(eylem) saldırmak: Geminin, kalkmak için yelken açıp başını gideceği yola çevirmesi. (ayrıca: hamle yapmak, atılmak)
+LUNGED	(lunge sözcüğünün çekimi) (eylem) saldırmak: Geminin, kalkmak için yelken açıp başını gideceği yola çevirmesi. (ayrıca: hamle yapmak, atılmak)
+LUNGEES	(lunge sözcüğünün çekimi) (eylem) saldırmak: Geminin, kalkmak için yelken açıp başını gideceği yola çevirmesi. (ayrıca: hamle yapmak, atılmak)
+LUNGERS	(ad) çoğul çekimi: lunger
+LUNGES	(ad) çoğul çekimi: lunge
+LUNGING	(lunge sözcüğünün çekimi) (eylem) saldırmak: Geminin, kalkmak için yelken açıp başını gideceği yola çevirmesi. (ayrıca: hamle yapmak, atılmak)
+LUNGIS	(ad) çoğul çekimi: lungi
+LUNGS	(ad) lungs kelimesinin karşılığı: ⟪akciğerler|AKCİĞERLER⟫
+LUNGWORMS	(ad) çoğul çekimi: lungworm
+LUNKHEADS	(ad) çoğul çekimi: lunkhead
+LUPINE	(ad) lupine kelimesinin karşılığı: acı bakla
+LUPINES	(ad) çoğul çekimi: lupine
+LURCH	(eylem) sallanmak: vaktini boş ve yararsız işlerle uğraşarak geçirmek, oyalanmak, savsaklanmak (ayrıca: yalpalamak, sendelemek)
+LURCHED	(lurch sözcüğünün çekimi) (eylem) sallanmak: vaktini boş ve yararsız işlerle uğraşarak geçirmek, oyalanmak, savsaklanmak (ayrıca: yalpalamak,...
+LURCHES	(ad) çoğul çekimi: lurch
+LURCHING	(lurch sözcüğünün çekimi) (eylem) sallanmak: vaktini boş ve yararsız işlerle uğraşarak geçirmek, oyalanmak, savsaklanmak (ayrıca: yalpalamak,...
+LURED	(eylem) lure sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+LURES	(ad) lure sözcüğünün çoğul çekimi\n(eylem) lure sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+LURING	(eylem) lure sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+LURK	(eylem) gizlenmek: gizlenilmek, gizli tutulmak (ayrıca: pusuya yatmak, pusuda beklemek)
+LURKED	(eylem) lurk sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: pusuya yatmak; pusuda beklemek; gizlenmek
+LURKERS	(ad) çoğul çekimi: lurker
+LURKING	(eylem) lurk sözcüğünün şimdiki zaman ortaç ve gerund çekimi: pusuya yatmak; pusuda beklemek; gizlenmek\n(ad) : gizlenme, pusuya yatma (lurk): pusuya yatmak; pusuda beklemek; gizlenmek
+LURKS	(ad) lurk sözcüğünün çoğul çekimi: pusuya yatmak; pusuda beklemek; gizlenmek\n(eylem) lurk sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: pusuya yatmak; pusuda beklemek; gizlenmek
+LUST	(ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LUSTED	(lust sözcüğünün çekimi) (ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LUSTERS	(ad) çoğul çekimi: luster
+LUSTING	(lust sözcüğünün çekimi) (ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LUSTRA	(lustre sözcüğünün çekimi) (ad) lustre kelimesinin karşılığı: ⟪fer|FER⟫
+LUSTRE	(ad) lustre kelimesinin karşılığı: ⟪fer|FER⟫
+LUSTRED	(lustre sözcüğünün çekimi) (ad) lustre kelimesinin karşılığı: ⟪fer|FER⟫
+LUSTRES	(lustre sözcüğünün çekimi) (ad) lustre kelimesinin karşılığı: ⟪fer|FER⟫
+LUSTS	(lust sözcüğünün çekimi) (ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LUTANISTS	(ad) çoğul çekimi: lutanist
+LUTE	(eylem) bağlama: bağlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi\n(ad) lute kelimesinin karşılığı: ⟪lavta|LAVTA⟫
+LUTED	(lute sözcüğünün çekimi) (eylem) bağlama: bağlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi
+LUTENISTS	(ad) çoğul çekimi: lutenist
+LUTES	(ad) çoğul çekimi: lute
+LUTETIUM	(ad) lütesyum: Atom numarası 71, atom ağırlığı 175 olan, iterbiyumun çözüşmesiyle oluşan, renksiz tuzlar veren, henüz uygulama alanı olmayan çok ender bulunan bir element
+LUTETIUMS	(lutetium sözcüğünün çekimi) (ad) lütesyum: Atom numarası 71, atom ağırlığı 175 olan, iterbiyumun çözüşmesiyle oluşan, renksiz tuzlar veren, henüz...
+LUTISTS	(ad) çoğul çekimi: lutist
+LUX	(ad) lüks: Lx sembolüyle gösterilen aydınlatma birimi (m² başına 1 lümenlik aydınlığa eşittir) (ayrıca: ışık birimi)
+LUXES	(lux sözcüğünün çekimi) (ad) lüks: Lx sembolüyle gösterilen aydınlatma birimi (m² başına 1 lümenlik aydınlığa eşittir) (ayrıca: ışık birimi)
+LUXURIES	(ad) çoğul çekimi: luxury
+LUXURY	(ad) luxury kelimesinin karşılığı: ⟪şatafat|ŞATAFAT⟫, ⟪görkem|GÖRKEM⟫
+LYCANTHROPES	(ad) çoğul çekimi: lycanthrope
+LYCANTHROPIES	(lycanthropy sözcüğünün çekimi) (ad) lycanthropy kelimesinin karşılığı: likantropi
+LYCANTHROPY	(ad) lycanthropy kelimesinin karşılığı: likantropi
+LYCEUMS	(ad) çoğul çekimi: lyceum
+LYCHEE	(ad) lychee kelimesinin karşılığı: liçi
+LYCHEES	(ad) çoğul çekimi: lychee
+LYCOPODIUMS	(ad) çoğul çekimi: lycopodium
+LYE	(ad) lye kelimesinin karşılığı: ⟪baz|BAZ⟫
+LYES	(lye sözcüğünün çekimi) (ad) lye kelimesinin karşılığı: ⟪baz|BAZ⟫
+LYING	(lie sözcüğünün çekimi) (ad) yalan: doğru olmayan, gerçeğe uymayan söz, kaşkariko, kıtır, hilaf, şorolop
+LYINGS	(lie sözcüğünün çekimi) (ad) yalan: doğru olmayan, gerçeğe uymayan söz, kaşkariko, kıtır, hilaf, şorolop
+LYMPH	(ad) lenf: damarlarda dolaşan kanla, doku ögeleri arasında aracı görevi yapan, kan plazması ve lenfositten oluşan saydam, sarı renkte sıvı, ak kan, akkan, lenfa (ayrıca: ak kan, akkan)
+LYMPHATICS	(ad) çoğul çekimi: lymphatic
+LYMPHOBLASTS	(ad) çoğul çekimi: lymphoblast
+LYMPHOCYTE	(ad) lymphocyte kelimesinin karşılığı: ⟪lenfosit|LENFOSİT⟫
+LYMPHOCYTES	(ad) lymphocyte sözcüğünün çoğul çekimi: lenfosit
+LYMPHOMAS	(ad) çoğul çekimi: lymphoma
+LYMPHS	(lymph sözcüğünün çekimi) (ad) lenf: damarlarda dolaşan kanla, doku ögeleri arasında aracı görevi yapan, kan plazması ve lenfositten oluşan...
+LYNCH	(eylem) suçlu olduğu düşünülen birini yargılamaksızın öldürmek, linç etmek (genellikle kalabalık tarafından ve asarak)
+LYNCHED	(lynch sözcüğünün çekimi) (eylem) suçlu olduğu düşünülen birini yargılamaksızın öldürmek, linç etmek (genellikle kalabalık tarafından ve asarak)
+LYNCHERS	(ad) çoğul çekimi: lyncher
+LYNCHES	(lynch sözcüğünün çekimi) (eylem) suçlu olduğu düşünülen birini yargılamaksızın öldürmek, linç etmek (genellikle kalabalık tarafından ve asarak)
+LYNCHING	(lynch sözcüğünün çekimi) (eylem) suçlu olduğu düşünülen birini yargılamaksızın öldürmek, linç etmek (genellikle kalabalık tarafından ve asarak)
+LYNCHINGS	(ad) çoğul çekimi: lynching
+LYNCHPINS	(ad) çoğul çekimi: lynchpin
+LYNX	(ad) lynx kelimesinin karşılığı: ⟪vaşak|VAŞAK⟫
+LYNXES	(lynx sözcüğünün çekimi) (ad) lynx kelimesinin karşılığı: ⟪vaşak|VAŞAK⟫
+LYRE	(ad) lir: Kaynağı mitolojik çağlara dayanan kirişli bir çalgı
+LYRES	(lyre sözcüğünün çekimi) (ad) lir: Kaynağı mitolojik çağlara dayanan kirişli bir çalgı
+LYRIC	(sıfat) lyric kelimesinin karşılığı: ⟪lirik|LİRİK⟫
+LYRICS	(ad) lyric sözcüğünün çoğul çekimi: lirik
+LYSINE	(ad) lysine kelimesinin karşılığı: lizin
+LYSINES	(lysine sözcüğünün çekimi) (ad) lysine kelimesinin karşılığı: lizin
+LYSOSOMES	(ad) çoğul çekimi: lysosome
+LYSOZYMES	(ad) çoğul çekimi: lysozyme

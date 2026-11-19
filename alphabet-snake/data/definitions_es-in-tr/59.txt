@@ -1,0 +1,87 @@
+YACE	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACEMOS	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACEN	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACER	(eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACERA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACERAN	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACERAS	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACERE	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACERIA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACES	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACI	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACIA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACIAN	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACIAS	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACIERA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACIERON	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YACIJA	(ad) döşek: Yatağın yumuşak kısmı (ayrıca: yatak)
+YACIMIENTO	(ad) yacimiento kelimesinin karşılığı: ⟪depozit|DEPOZİT⟫, ⟪pey|PEY⟫
+YACIMIENTOS	(yacimiento sözcüğünün çekimi) (ad) yacimiento kelimesinin karşılığı: ⟪depozit|DEPOZİT⟫, ⟪pey|PEY⟫
+YACIO	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAGA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAGAN	(eylem) yacer sözcüğünün çekimi:
+YAGO	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAGUANE	(ad) kokarca: etoburlardan, orta boyda, kendini korumak için düşmanına kötü kokulu sıvı fışkırtan, ince, uzun bir kürk hayvanı (Mustela putorius)
+YAGUAR	(ad) jaguar: Kedigillerden, parsa benzeyen, Orta ve Güney Amerika'da yaşayan, postu iri benekli memeli türü. (Panthera onca veya Felis onca)
+YAGUARETE	(ad) jaguar: Kedigillerden, parsa benzeyen, Orta ve Güney Amerika'da yaşayan, postu iri benekli memeli türü. (Panthera onca veya Felis onca)
+YARDA	(ad) yarda: 91,4 santimetrelik İngiliz uzunluk ölçüsü birimi (ayrıca: seren, avlu)
+YARDAS	(yarda sözcüğünün çekimi) (ad) yarda: 91,4 santimetrelik İngiliz uzunluk ölçüsü birimi (ayrıca: seren, avlu)
+YATAGAN	(ad) yatağan: Namlusu kavisli, iki yanı da kesici, bir tür uzun savaş bıçağı
+YATE	(ad) yat: Kalkan, zırh vb. korunma aracı.\n(eylem) yat: Kalkan, zırh vb. korunma aracı.
+YATES	(yate sözcüğünün çekimi) (ad) yat: Kalkan, zırh vb. korunma aracı.
+YAYA	(ad) moruk: Yaşlı kimse. (ayrıca: nine)
+YAYAS	(yaya sözcüğünün çekimi) (ad) moruk: Yaşlı kimse. (ayrıca: nine)
+YAYO	(ad) ababa: annenin babası, ağababa, büyükbaba, dede
+YAZ	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAZCA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAZCAS	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAZCO	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAZGA	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YAZGO	(yacer sözcüğünün çekimi) (eylem) yatmak: düz duruma gelmek, düzleşmek (ayrıca: düşmek, konulmak)
+YEGUA	(ad) at: atgillerden (equidae), binme, yük çekme, taşıma v.s. hizmetlerde kullanılan, tek tırnaklı hayvan
+YEGUAS	(yegua sözcüğünün çekimi) (ad) at: atgillerden (equidae), binme, yük çekme, taşıma v.s. hizmetlerde kullanılan, tek tırnaklı hayvan
+YELI	(ad) jöle: et suyunun soğuduktan sonra gevşek, esnek bir kıvam almış hâli (ayrıca: marmelat, pelte)
+YELMO	(ad) yelmo kelimesinin karşılığı: ⟪kask|KASK⟫
+YELMOS	(yelmo sözcüğünün çekimi) (ad) yelmo kelimesinin karşılığı: ⟪kask|KASK⟫
+YEMA	(ad) yema kelimesinin karşılığı: yumurta sarısı
+YEMAS	(ad) çoğul çekimi: yema
+YEN	(ad) yen kelimesinin karşılığı: ⟪ustura|USTURA⟫, ⟪yülgü|YÜLGÜ⟫
+YENES	(yen sözcüğünün çekimi) (ad) yen kelimesinin karşılığı: ⟪ustura|USTURA⟫, ⟪yülgü|YÜLGÜ⟫
+YERBA	(ad) yerba kelimesinin karşılığı: ⟪çimen|ÇİMEN⟫, ot
+YERBAS	(yerba sözcüğünün çekimi) (ad) yerba kelimesinin karşılığı: ⟪çimen|ÇİMEN⟫, ot
+YERGUE	(erguir sözcüğünün çekimi) (eylem) kaldırmak: yukarı doğru hareket ettirmek
+YERGUEN	(erguir sözcüğünün çekimi) (eylem) kaldırmak: yukarı doğru hareket ettirmek
+YERMO	(sıfat) aslık: kısır olan (kadın veya dişi hayvan), akam
+YERMOS	(yermo sözcüğünün çekimi) (sıfat) aslık: kısır olan (kadın veya dişi hayvan), akam
+YERO	(ad) yero kelimesinin karşılığı: ⟪burçak|BURÇAK⟫
+YERRAN	(errar sözcüğünün çekimi) (eylem) kaçırmak: Birini veya bir şeyi göstermemek. (ayrıca: ıskalamak, özlemek)
+YERRAS	(errar sözcüğünün çekimi) (eylem) kaçırmak: Birini veya bir şeyi göstermemek. (ayrıca: ıskalamak, özlemek)
+YERRE	(errar sözcüğünün çekimi) (eylem) kaçırmak: Birini veya bir şeyi göstermemek. (ayrıca: ıskalamak, özlemek)
+YERRO	(ad) yanılgı: yanlışı doğru veya doğruyu yanlış sanma, hata (ayrıca: yanlış, galat)
+YERROS	(yerro sözcüğünün çekimi) (ad) yanılgı: yanlışı doğru veya doğruyu yanlış sanma, hata (ayrıca: yanlış, galat)
+YERTO	(sıfat) yerto kelimesinin karşılığı: ⟪çetin|ÇETİN⟫, ⟪bükülmez|BÜKÜLMEZ⟫
+YESERO	(ad) alçıcı: Tavan ve duvarların alçı ile kaplanmasında çalışan işçi.
+YESEROS	(yesero sözcüğünün çekimi) (ad) alçıcı: Tavan ve duvarların alçı ile kaplanmasında çalışan işçi.
+YESO	(ad) alçı: alçı taşının pişirilip toz durumuna getirilmesinden elde edilerek yapılarda, sanatta, mimarlıkta ve dişçilikte kullanılan madde
+YESOS	(yeso sözcüğünün çekimi) (ad) alçı: alçı taşının pişirilip toz durumuna getirilmesinden elde edilerek yapılarda, sanatta, mimarlıkta ve...
+YETA	(sıfat) uğursuz: kendinde uğursuzluk bulunan, yomsuz, kadersiz, meymenetsiz, menhus, musibet, meşum (ayrıca: talihsiz, saadetsiz)
+YETATORE	(sıfat) saadetsiz: bedbaht, mutsuz (ayrıca: talihsiz, uğursuz)
+YETI	(ad) yeti: Himalaya Dağları'nda yaşadığı iddia edilen primat benzeri bir yaratık, kocaayak
+YEYO	(ad) baygınlık: duyumların durması, kan dolaşımının ve solunum görevlerinin duraklaması, vücudun kımıldamaması gibi fizyolojik aksamalarla beliren kendinden geçme durumu
+YIHAD	(ad) yihad kelimesinin karşılığı: cihad
+YIN	(ad) cin: kot.
+YODO	(ad) iyot: Atom numarası 53, atom ağırlığı 126,92 olan, tabiatta, deniz suyunda sodyum iyodür durumunda rastlanılan, bazı deniz bitkilerinde de çokça birikmiş olarak bulunan, mavimtırak esmer renkte katı bir element (simgesi I).
+YODURO	(ad) iyodür: iyotun bir element veya bir kökle verdiği bileşik
+YOGA	(ad) yoga kelimesinin karşılığı: ⟪yoga|YOGA⟫
+YOGUR	(ad) yoğurt: Maya katılarak koyulaştırılmış beyaz, kıvamlı bir süt ürünü.
+YOGURES	(yogur sözcüğünün çekimi) (ad) yoğurt: Maya katılarak koyulaştırılmış beyaz, kıvamlı bir süt ürünü.
+YOQUEY	(ad) yoquey kelimesinin karşılığı: ⟪jokey|JOKEY⟫
+YUCA	(sıfat) müşkül: güç, zor, çetin olan (ayrıca: güç, zor)
+YUDO	(ad) judo: jiujitsudan gelişmiş, silahsız olarak , tutmalara, fırlatmalara, hareketsiz bırakmalara dayanan Japon kökenli dövüş sporu
+YUGO	(ad) tasma: Bazı hayvanların boynuna takılan, bu hayvanları bir yere bağlamaya, çekip götürmeye yarayan kemer biçiminde bağ. (ayrıca: yaka)
+YUGOS	(yugo sözcüğünün çekimi) (ad) tasma: Bazı hayvanların boynuna takılan, bu hayvanları bir yere bağlamaya, çekip götürmeye yarayan kemer biçiminde...
+YUGULARES	(ad) çoğul çekimi: yugular
+YUNQUE	(ad) örs: biçimleri yapılacak işe göre değişen, üzerinde maden dövülen, çelik yüzeyli, demir araç
+YUNQUES	(yunque sözcüğünün çekimi) (ad) örs: biçimleri yapılacak işe göre değişen, üzerinde maden dövülen, çelik yüzeyli, demir araç
+YUTA	(ad) sakçı: Polis. (ayrıca: polis, kınçal)
+YUTE	(ad) jüt: Ihlamurgillerden, Hindistan ve Bangladeş'te yetişen, ip ve çuval yapımında kullanılan, liflerinden yararlanılan bir bitki (Corchorus capsularis).

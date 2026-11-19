@@ -1,0 +1,1730 @@
+EACH	(pronome) cada: indica, individualizando, um elemento de um grupo ou conjunto:
+EAGER	(adjetivo) ansioso: muito desejoso de; ávido (também: ávido)
+EAGERER	(forma de eager) (adjetivo) ansioso: muito desejoso de; ávido (também: ávido)
+EAGEREST	(forma de eager) (adjetivo) ansioso: muito desejoso de; ávido (também: ávido)
+EAGERNESS	(substantivo) apetite: desejo, vontade (também: arela)
+EAGERNESSES	(forma de eagerness) (substantivo) apetite: desejo, vontade (também: arela)
+EAGERS	(forma de eager) (adjetivo) ansioso: muito desejoso de; ávido (também: ávido)
+EAGLE	(substantivo) águia: ave de rapina, diurna, de grande porte
+EAGLES	(forma de eagle) (substantivo) águia: ave de rapina, diurna, de grande porte
+EAR	(adjetivo) ear se traduz como coclear\n(substantivo) orelha: parte exterior do ouvido; por extensão ouvido (também: ouvido)
+EARDRUM	(substantivo) tímpano: membrana bastante fina e semitransparente do ouvido médio,na porção terminal do conduto audítivo, separando o ouvido externo do ouvido médio
+EARDRUMS	(forma de eardrum) (substantivo) tímpano: membrana bastante fina e semitransparente do ouvido médio,na porção terminal do conduto...
+EARL	(substantivo) conde: título nobiliárquico que em Portugal é inferior ao de marquês e superior ao de visconde
+EARLINESS	(substantivo) precocidade: propriedade do que é precoce, prematuro; prematuridade
+EARLINESSES	(forma de earliness) (substantivo) precocidade: propriedade do que é precoce, prematuro; prematuridade
+EARLS	(forma de earl) (substantivo) conde: título nobiliárquico que em Portugal é inferior ao de marquês e superior ao de visconde
+EARLY	(adjetivo) cedo: antes da hora desejada ou costumeira, prematuramente\n(advérbio) cedo: antes da hora desejada ou costumeira, prematuramente
+EARN	(verbo) ganhar: adquirir
+EARNED	(verbo) passado simples earn: ganhar
+EARNEST	(adjetivo) encarecido: feito com zelo, empenho; valorizado (também: insistente)
+EARNESTLY	(advérbio) compenetradamente: de forma compenetrada
+EARNESTNESS	(substantivo) seriedade: qualidade ou característica daquilo que é sério, importante, grave
+EARNESTNESSES	(forma de earnestness) (substantivo) seriedade: qualidade ou característica daquilo que é sério, importante, grave
+EARNESTS	(forma de earnest) (adjetivo) encarecido: feito com zelo, empenho; valorizado (também: insistente)
+EARNING	(verbo) gerúndio de earn: ganhar
+EARNS	(verbo) terceira pessoa do singular de earn: ganhar
+EARPHONE	(substantivo) fone de ouvido
+EARPHONES	(forma de earphone) (substantivo) fone de ouvido
+EARRING	(substantivo) brinco: adorno usado na orelha, podendo ser perfurante ou de pressão
+EARRINGS	(forma de earring) (substantivo) brinco: adorno usado na orelha, podendo ser perfurante ou de pressão
+EARS	(forma de ear) (adjetivo) ear se traduz como coclear
+EARTH	(substantivo) terra: solo composto formado por partículas minerais e substratos orgânicos
+EARTHED	(forma de earth) (substantivo) terra: solo composto formado por partículas minerais e substratos orgânicos
+EARTHIER	(forma de earthy) (adjetivo) earthy se traduz como ⟪terroso⟫
+EARTHIEST	(forma de earthy) (adjetivo) earthy se traduz como ⟪terroso⟫
+EARTHILY	(forma de earthy) (adjetivo) earthy se traduz como ⟪terroso⟫
+EARTHING	(forma de earth) (substantivo) terra: solo composto formado por partículas minerais e substratos orgânicos
+EARTHLIER	(forma de earthly) (adjetivo) earthly se traduz como ⟪mundano⟫
+EARTHLIEST	(forma de earthly) (adjetivo) earthly se traduz como ⟪mundano⟫
+EARTHLING	(substantivo) terrestre: natural ou habitante do planeta Terra
+EARTHLINGS	(forma de earthling) (substantivo) terrestre: natural ou habitante do planeta Terra
+EARTHLY	(adjetivo) earthly se traduz como ⟪mundano⟫\n(advérbio) terrenamente: de forma terrena
+EARTHQUAKE	(substantivo) terremoto: nome comum dado ao tremor de terra de graus diversos de magnitude medidos em algumas escalas de progressão geométrica na gradação, provocado por causas naturais tais como a acomodação do solo, choque entre placas tectônicas (por subducção, deslocamento e outros movimentos geológicos), erupção... (também: terramoto)
+EARTHQUAKES	(forma de earthquake) (substantivo) terremoto: nome comum dado ao tremor de terra de graus diversos de magnitude medidos em algumas escalas...
+EARTHS	(forma de earth) (substantivo) terra: solo composto formado por partículas minerais e substratos orgânicos
+EARTHWORM	(substantivo) earthworm se traduz como ⟪minhoca⟫
+EARTHWORMS	(forma de earthworm) (substantivo) earthworm se traduz como ⟪minhoca⟫
+EARTHY	(adjetivo) earthy se traduz como ⟪terroso⟫
+EARWAX	(substantivo) cera de ouvido
+EARWAXES	(forma de earwax) (substantivo) cera de ouvido
+EASE	(substantivo) facilidade: destreza, habilidade
+EASED	(forma de ease) (substantivo) facilidade: destreza, habilidade
+EASEL	(substantivo) cavalete: armação triangular para sustentáculo de objetos a uma certa altura
+EASELS	(forma de easel) (substantivo) cavalete: armação triangular para sustentáculo de objetos a uma certa altura
+EASES	(forma de ease) (substantivo) facilidade: destreza, habilidade
+EASIER	(forma de easy) (adjetivo) fácil: leviano, que se deixa conquistar sem dificuldade
+EASIES	(forma de easy) (adjetivo) fácil: leviano, que se deixa conquistar sem dificuldade
+EASIEST	(forma de easy) (adjetivo) fácil: leviano, que se deixa conquistar sem dificuldade
+EASINESS	(substantivo) easiness se traduz como ⟪facilidade⟫
+EASINESSES	(forma de easiness) (substantivo) easiness se traduz como ⟪facilidade⟫
+EASING	(forma de ease) (substantivo) facilidade: destreza, habilidade
+EAST	(substantivo) leste: um dos pontos cardeais, oposto ao oeste, equivalente ao lado direito (também: este)
+EASTERN	(adjetivo) oriental: que diz respeito ao Oriente (também: do leste)
+EASTERNER	(forma de eastern) (adjetivo) oriental: que diz respeito ao Oriente (também: do leste)
+EASTERNERS	(forma de eastern) (adjetivo) oriental: que diz respeito ao Oriente (também: do leste)
+EASTS	(forma de east) (substantivo) leste: um dos pontos cardeais, oposto ao oeste, equivalente ao lado direito (também: este)
+EASY	(adjetivo) fácil: leviano, que se deixa conquistar sem dificuldade
+EAT	(verbo) comer: consumir como alimento
+EATABLE	(adjetivo) comível: que se pode comer; comestível, edível
+EATABLES	(forma de eatable) (adjetivo) comível: que se pode comer; comestível, edível
+EATEN	(verbo) passadoparticípio do verbo eat: comer
+EATER	(substantivo) eater se traduz como comedor
+EATERS	(forma de eater) (substantivo) eater se traduz como comedor
+EATING	(verbo) gerúndio do verbo eat: comer
+EATINGS	(forma de eat) (verbo) comer: consumir como alimento
+EATS	(substantivo) comida: alimento; sustento; refeição\n(verbo) terceira pessoa do plural do presente do verbo eat: comer
+EAVES	(substantivo) aba: qualquer prolongamento de telhado além da prumada das paredes
+EBONIES	(forma de ebony) (substantivo) ébano: indivíduo com tom de pele bem escura
+EBONY	(substantivo) ébano: indivíduo com tom de pele bem escura
+ECCENTRIC	(adjetivo) excêntrico: indivíduo incomum, esquisito
+ECCENTRICITIES	(forma de eccentricity) (substantivo) excentricidade: qualidade daquele ou daquilo que é excêntrico
+ECCENTRICITY	(substantivo) excentricidade: qualidade daquele ou daquilo que é excêntrico
+ECCENTRICS	(forma de eccentric) (adjetivo) excêntrico: indivíduo incomum, esquisito
+ECCHYMOSES	(forma de ecchymosis) (substantivo) equimose: extravasamento de sangue provocado por uma ruptura de vasos sanguíneos
+ECCHYMOSIS	(substantivo) equimose: extravasamento de sangue provocado por uma ruptura de vasos sanguíneos
+ECCLESIASTIC	(adjetivo) eclesiástico: sacerdote, padre, clérigo ou ministro
+ECCLESIASTICALLY	(advérbio) eclesiasticamente: de modo eclesiástico
+ECCLESIASTICS	(forma de ecclesiastic) (adjetivo) eclesiástico: sacerdote, padre, clérigo ou ministro
+ECDYSES	(forma de ecdysis) (substantivo) ecdise: mudança de pele ou exoesqueleto que ocorre periodicamente com certos insetos e crustáceos
+ECDYSIS	(substantivo) ecdise: mudança de pele ou exoesqueleto que ocorre periodicamente com certos insetos e crustáceos
+ECHELON	(substantivo) echelon se traduz como ⟪escalão|ESCALAO⟫
+ECHELONED	(forma de echelon) (substantivo) echelon se traduz como ⟪escalão|ESCALAO⟫
+ECHELONING	(forma de echelon) (substantivo) echelon se traduz como ⟪escalão|ESCALAO⟫
+ECHELONS	(forma de echelon) (substantivo) echelon se traduz como ⟪escalão|ESCALAO⟫
+ECHIDNA	(substantivo) echidna se traduz como ⟪equidna⟫
+ECHIDNAE	(forma de echidna) (substantivo) echidna se traduz como ⟪equidna⟫
+ECHIDNAS	(forma de echidna) (substantivo) echidna se traduz como ⟪equidna⟫
+ECHO	(substantivo) echo se traduz como ⟪eco⟫\n(verbo) ecoar: repetir
+ECHOED	(forma de echo) (substantivo) echo se traduz como ⟪eco⟫
+ECHOES	(forma de echo) (substantivo) echo se traduz como ⟪eco⟫
+ECHOING	(forma de echo) (substantivo) echo se traduz como ⟪eco⟫
+ECHOLALIA	(substantivo) ecolalia: distúrbio do desenvolvimento da fala caracterizado pela repetição de palavras ou frases ditas na TV ou por outras pessoas
+ECHOLALIAS	(forma de echolalia) (substantivo) ecolalia: distúrbio do desenvolvimento da fala caracterizado pela repetição de palavras ou frases ditas...
+ECHOS	(forma de echo) (substantivo) echo se traduz como ⟪eco⟫
+ECLAMPSIA	(substantivo) eclampsia: afecção grave que ocorre geralmente no final da gravidez, caracterizada por convulsões associadas à hipertensão arterial
+ECLAMPSIAS	(forma de eclampsia) (substantivo) eclampsia: afecção grave que ocorre geralmente no final da gravidez, caracterizada por convulsões...
+ECLECTIC	(adjetivo) eclectic se traduz como ⟪eclético|ECLETICO⟫
+ECLECTICISM	(substantivo) ecletismo: liberdade ou hábito de preferir o que se julga melhor em ciência, arte, literatura ou política, sem que se siga exclusivamente sistema algum
+ECLECTICISMS	(forma de eclecticism) (substantivo) ecletismo: liberdade ou hábito de preferir o que se julga melhor em ciência, arte, literatura ou...
+ECLECTICS	(forma de eclectic) (adjetivo) eclectic se traduz como ⟪eclético|ECLETICO⟫
+ECLIPSE	(substantivo) eclipse: fenômeno natural que consiste em um corpo celeste fazer sombra em outro; os tipos mais comuns são o eclipse lunar e o eclipse solar\n(verbo) eclipsar, causar um eclipse
+ECLIPSED	(adjetivo) eclipsado: diz-se das palavras de certos idiomas (como o gaélico escocês) que têm adicionada uma letra em seu início, modificando a pronúncia da primeira sílaba
+ECLIPSES	(forma de eclipse) (substantivo) eclipse: fenômeno natural que consiste em um corpo celeste fazer sombra em outro; os tipos mais comuns...
+ECLIPSING	(forma de eclipse) (substantivo) eclipse: fenômeno natural que consiste em um corpo celeste fazer sombra em outro; os tipos mais comuns...
+ECLIPTIC	(substantivo) eclíptica: plano da órbita da Terra ao redor do Sol, ou a órbita descrita neste plano
+ECLIPTICS	(forma de ecliptic) (substantivo) eclíptica: plano da órbita da Terra ao redor do Sol, ou a órbita descrita neste plano
+ECLOGUE	(substantivo) écloga: poesia pastoril, bucólica
+ECLOGUES	(forma de eclogue) (substantivo) écloga: poesia pastoril, bucólica
+ECOLOGICALLY	(advérbio) ecologicamente: de maneira ecológica
+ECOLOGIES	(forma de ecology) (substantivo) ecologia: parte da biologia que estuda das relações entre os seres vivos e o meio ambiente
+ECOLOGY	(substantivo) ecologia: parte da biologia que estuda das relações entre os seres vivos e o meio ambiente
+ECONOMETRICS	(substantivo) econometria: ramo da economia que aplica métodos estatísticos ao estudo empírico de teorias e relações econômicas
+ECONOMIC	(adjetivo) económico: relativo à economia (também: econômico)
+ECONOMICALLY	(advérbio) economicamente: de modo econômico
+ECONOMICS	(substantivo) economics se traduz como ⟪economia⟫
+ECONOMIES	(substantivo) plural de economy: económico/econômico, frugal
+ECONOMIST	(substantivo) economista: pessoa graduada em economia ou dedicada a essa área
+ECONOMISTS	(forma de economist) (substantivo) economista: pessoa graduada em economia ou dedicada a essa área
+ECONOMIZE	(verbo) economize se traduz como ⟪economizar⟫
+ECONOMIZED	(forma de economize) (verbo) economize se traduz como ⟪economizar⟫
+ECONOMIZES	(forma de economize) (verbo) economize se traduz como ⟪economizar⟫
+ECONOMIZING	(forma de economize) (verbo) economize se traduz como ⟪economizar⟫
+ECONOMY	(adjetivo) economy se traduz como económico/econômico, ⟪frugal⟫\n(substantivo) economia, poupança, contenção nos gastos
+ECOSYSTEM	(substantivo) ecosystem se traduz como ⟪ecossistema⟫
+ECOSYSTEMS	(forma de ecosystem) (substantivo) ecosystem se traduz como ⟪ecossistema⟫
+ECSTASIES	(forma de ecstasy) (substantivo) êxtase: estado, causado em geral por alegria, prática religiosa, ou outra emoção forte, em que o...
+ECSTASY	(substantivo) êxtase: estado, causado em geral por alegria, prática religiosa, ou outra emoção forte, em que o indivíduo se sente transportado para fora de si próprio, elevado a realidades que ultrapassam o sensível
+ECSTATIC	(adjetivo) extático: que está em êxtase, podendo ser frequente
+ECSTATICALLY	(advérbio) extasiadamente: com êxtase
+ECSTATICS	(forma de ecstatic) (adjetivo) extático: que está em êxtase, podendo ser frequente
+ECTOPLASM	(substantivo) ectoplasma: camada externa do bioplasma; citoplasma extracelular
+ECTOPLASMS	(forma de ectoplasm) (substantivo) ectoplasma: camada externa do bioplasma; citoplasma extracelular
+ECUMENICAL	(adjetivo) ecuménico: que aspira a reunir e unir diferentes tendências religiosas (também: ecumênico)
+ECUMENICALLY	(advérbio) ecumenicamente: de modo ecuménico
+ECUMENISM	(substantivo) ecumenismo: união religiosa
+ECUMENISMS	(forma de ecumenism) (substantivo) ecumenismo: união religiosa
+ECZEMA	(substantivo) eczema: denominação genérica das inflamações da pele, especialmente as que apresentam vesículas
+ECZEMAS	(forma de eczema) (substantivo) eczema: denominação genérica das inflamações da pele, especialmente as que apresentam vesículas
+EDEMA	(substantivo) edema: acúmulo anormal de líquido no espaço intersticial devido ao desequilíbrio entre a pressão hidrostática e oncótica
+EDEMAS	(forma de edema) (substantivo) edema: acúmulo anormal de líquido no espaço intersticial devido ao desequilíbrio entre a pressão...
+EDEMATA	(forma de edema) (substantivo) edema: acúmulo anormal de líquido no espaço intersticial devido ao desequilíbrio entre a pressão...
+EDGE	(substantivo) aresta: elemento de um polígono ou poliedro, intersecção entre dois planos (também: lado)\n(verbo) mover um objeto lentamente e cuidadosamente numa determinada direção
+EDGED	(forma de edge) (substantivo) aresta: elemento de um polígono ou poliedro, intersecção entre dois planos (também: lado)
+EDGES	(forma de edge) (substantivo) aresta: elemento de um polígono ou poliedro, intersecção entre dois planos (também: lado)
+EDGINESS	(substantivo) ansiedade: angústia
+EDGINESSES	(forma de edginess) (substantivo) ansiedade: angústia
+EDGING	(forma de edge) (substantivo) aresta: elemento de um polígono ou poliedro, intersecção entre dois planos (também: lado)
+EDGINGS	(forma de edge) (substantivo) aresta: elemento de um polígono ou poliedro, intersecção entre dois planos (também: lado)
+EDIBILITIES	(forma de edibility) (substantivo) comestibilidade: qualidade do que é comestível
+EDIBILITY	(substantivo) comestibilidade: qualidade do que é comestível
+EDIBLE	(adjetivo) edível: o que se pode comer; comestível, comível
+EDIBLENESS	(substantivo) comestibilidade: qualidade do que é comestível
+EDIBLENESSES	(forma de edibleness) (substantivo) comestibilidade: qualidade do que é comestível
+EDIBLES	(forma de edible) (adjetivo) edível: o que se pode comer; comestível, comível
+EDIFICATION	(substantivo) edificação: prédio, construção
+EDIFICATIONS	(forma de edification) (substantivo) edificação: prédio, construção
+EDIFICE	(substantivo) edifício: construção de alguma importância, como objetivo de servir à atividades humanas
+EDIFICES	(forma de edifice) (substantivo) edifício: construção de alguma importância, como objetivo de servir à atividades humanas
+EDIFYING	(adjetivo) edificante: instrutivo
+EDIT	(verbo) editar: preparar um texto para ser publicado, definindo-o com base em critérios científicos
+EDITED	(forma de edit) (verbo) editar: preparar um texto para ser publicado, definindo-o com base em critérios científicos
+EDITING	(forma de edit) (verbo) editar: preparar um texto para ser publicado, definindo-o com base em critérios científicos
+EDITION	(substantivo) edição: seleção de quais informações ou partes de um texto, filme, foto ou som serão publicadas
+EDITIONS	(forma de edition) (substantivo) edição: seleção de quais informações ou partes de um texto, filme, foto ou som serão publicadas
+EDITOR	(substantivo) editor: proprietário ou responsável por casa editorial:
+EDITORIALLY	(advérbio) editorialmente: de forma editorial
+EDITORS	(forma de editor) (substantivo) editor: proprietário ou responsável por casa editorial:
+EDITS	(forma de edit) (verbo) editar: preparar um texto para ser publicado, definindo-o com base em critérios científicos
+EDUCABLE	(adjetivo) educável: que se pode educar
+EDUCABLES	(forma de educable) (adjetivo) educável: que se pode educar
+EDUCATE	(verbo) educar: ministrar educação a
+EDUCATED	(forma de educate) (verbo) educar: ministrar educação a
+EDUCATES	(forma de educate) (verbo) educar: ministrar educação a
+EDUCATING	(substantivo) ensino: educação
+EDUCATION	(substantivo) educação: a ação ou o processo de dar ou receber conhecimentos gerais, de modo a desenvolver o poder de raciocínio e julgamento e, geralmente, preparar intelectualmente a si mesmo ou aos outros para a vida adulta
+EDUCATIONS	(forma de education) (substantivo) educação: a ação ou o processo de dar ou receber conhecimentos gerais, de modo a desenvolver o poder de...
+EDUCATIVE	(adjetivo) educativo: relativo à educação
+EEL	(substantivo) eel se traduz como ⟪enguia⟫
+EELS	(forma de eel) (substantivo) eel se traduz como ⟪enguia⟫
+EERIE	(adjetivo) estranho; que inspira medo, especialmente de forma sombria ou misteriosa
+EERIER	(forma de eerie) (adjetivo) estranho; que inspira medo, especialmente de forma sombria ou misteriosa
+EERIEST	(forma de eerie) (adjetivo) estranho; que inspira medo, especialmente de forma sombria ou misteriosa
+EFFECT	(substantivo) effect se traduz como ⟪efeito⟫\n(verbo) efetuar: fazer, realizar
+EFFECTED	(forma de effect) (substantivo) effect se traduz como ⟪efeito⟫
+EFFECTING	(forma de effect) (substantivo) effect se traduz como ⟪efeito⟫
+EFFECTIVE	(adjetivo) efetivo: eficaz
+EFFECTIVENESS	(substantivo) eficácia: capacidade de produzir o efeito desejado (também: efetividade)
+EFFECTIVENESSES	(forma de effectiveness) (substantivo) eficácia: capacidade de produzir o efeito desejado (também: efetividade)
+EFFECTIVES	(forma de effective) (adjetivo) efetivo: eficaz
+EFFECTS	(forma de effect) (substantivo) effect se traduz como ⟪efeito⟫
+EFFEMINATE	(verbo) efeminar: perder ou fazer perder as características tradicionalmente consideradas masculinas ou adotar outras geralmente associadas ao sexo feminino
+EFFEMINATES	(forma de effeminate) (verbo) efeminar: perder ou fazer perder as características tradicionalmente consideradas masculinas ou adotar outras...
+EFFERVESCENCE	(substantivo) effervescence se traduz como ⟪efervescência|EFERVESCENCIA⟫
+EFFERVESCENCES	(forma de effervescence) (substantivo) effervescence se traduz como ⟪efervescência|EFERVESCENCIA⟫
+EFFERVESCENT	(adjetivo) efervescente: que apresenta efervescência
+EFFERVESCENTLY	(forma de effervescent) (adjetivo) efervescente: que apresenta efervescência
+EFFICACIES	(forma de efficacy) (substantivo) eficácia: capacidade de produzir o efeito desejado
+EFFICACIOUS	(adjetivo) eficaz: que produz o seu efeito
+EFFICACIOUSLY	(advérbio) eficazmente: de modo eficaz
+EFFICACY	(substantivo) eficácia: capacidade de produzir o efeito desejado
+EFFICIENCIES	(forma de efficiency) (substantivo) efficiency se traduz como ⟪eficiência|EFICIENCIA⟫
+EFFICIENCY	(substantivo) efficiency se traduz como ⟪eficiência|EFICIENCIA⟫
+EFFICIENT	(adjetivo) eficiente: que atinge seu objetivo ou meta no melhor tempo e com maior qualidade possível
+EFFICIENTLY	(advérbio) eficientemente: de modo eficiente
+EFFIGIES	(forma de effigy) (substantivo) efígie: representação de uma pessoa
+EFFIGY	(substantivo) efígie: representação de uma pessoa
+EFFLUENT	(adjetivo) effluent se traduz como ⟪efluente⟫\n(substantivo) effluent se traduz como ⟪efluente⟫
+EFFLUENTS	(forma de effluent) (adjetivo) effluent se traduz como ⟪efluente⟫
+EFFORT	(substantivo) esforço: o fato de exercer seus poderes físicos ou mentais
+EFFORTFUL	(adjetivo) esforçado: que exige muita força
+EFFORTS	(forma de effort) (substantivo) esforço: o fato de exercer seus poderes físicos ou mentais
+EFFRONTERIES	(forma de effrontery) (substantivo) descaração: aquele que age de forma insolente, atrevida, desrespeitosa
+EFFRONTERY	(substantivo) descaração: aquele que age de forma insolente, atrevida, desrespeitosa
+EFFUSIVELY	(advérbio) efusivamente: de modo efusivo
+EGAD	(interjeição) por Deus! por certo!
+EGADS	(forma de egad) (interjeição) por Deus! por certo!
+EGALITARIAN	(adjetivo) egalitarian se traduz como ⟪igualitário|IGUALITARIO⟫\n(substantivo) partidário do igualitarismo; igualitário
+EGALITARIANISM	(substantivo) igualitarismo: sistema político e filosófico que prega a igualdade entre todos
+EGALITARIANISMS	(forma de egalitarianism) (substantivo) igualitarismo: sistema político e filosófico que prega a igualdade entre todos
+EGALITARIANS	(forma de egalitarian) (adjetivo) egalitarian se traduz como ⟪igualitário|IGUALITARIO⟫
+EGG	(substantivo) ovo: célula reprodutora feminina dos animais, macrogameta
+EGGED	(forma de egg) (substantivo) ovo: célula reprodutora feminina dos animais, macrogameta
+EGGING	(forma de egg) (substantivo) ovo: célula reprodutora feminina dos animais, macrogameta
+EGGPLANT	(substantivo) eggplant se traduz como ⟪berinjela⟫, ⟪beringela⟫
+EGGPLANTS	(forma de eggplant) (substantivo) eggplant se traduz como ⟪berinjela⟫, ⟪beringela⟫
+EGGS	(forma de egg) (substantivo) ovo: célula reprodutora feminina dos animais, macrogameta
+EGGSHELL	(substantivo) eggshell se traduz como casca de ovo
+EGGSHELLS	(forma de eggshell) (substantivo) eggshell se traduz como casca de ovo
+EGO	(substantivo) ego se traduz como ⟪ego⟫
+EGOISM	(substantivo) egoísmo: atitude ética ou social que parte da suposição que toda ação ou pensamento é a defesa dos próprios interesses
+EGOISMS	(forma de egoism) (substantivo) egoísmo: atitude ética ou social que parte da suposição que toda ação ou pensamento é a defesa dos...
+EGOIST	(substantivo) egoísta: aquele que demonstra egoísmo
+EGOISTIC	(adjetivo) egoistic se traduz como ⟪egoísta|EGOISTA⟫
+EGOISTS	(forma de egoist) (substantivo) egoísta: aquele que demonstra egoísmo
+EGOMANIA	(substantivo) egomania se traduz como ⟪egomania⟫
+EGOMANIAC	(substantivo) egomaniac se traduz como ⟪ególatra|EGOLATRA⟫
+EGOMANIACS	(forma de egomaniac) (substantivo) egomaniac se traduz como ⟪ególatra|EGOLATRA⟫
+EGOMANIAS	(forma de egomania) (substantivo) egomania se traduz como ⟪egomania⟫
+EGOS	(forma de ego) (substantivo) ego se traduz como ⟪ego⟫
+EGOTISM	(substantivo) egotism se traduz como ⟪egotismo⟫
+EGOTISMS	(forma de egotism) (substantivo) egotism se traduz como ⟪egotismo⟫
+EGOTISTIC	(adjetivo) egotistic se traduz como ⟪egoístico|EGOISTICO⟫
+EGOTISTICAL	(adjetivo) egotistical se traduz como ⟪egoístico|EGOISTICO⟫
+EGREGIOUSLY	(advérbio) egregiamente: de forma egrégia
+EIDETIC	(adjetivo) eidetic se traduz como ⟪eidético|EIDETICO⟫
+EIDOS	(substantivo) eidos se traduz como ⟪forma⟫, ⟪ideia⟫
+EIGENVALUE	(substantivo) eigenvalue se traduz como valor próprio, raiz característica
+EIGENVALUES	(forma de eigenvalue) (substantivo) eigenvalue se traduz como valor próprio, raiz característica
+EIGHT	(numeral) oito: número equivalente a sete mais um; cardinalidade de um conjunto que contenha oito elementos distintos, representado pelo símbolo 8 (algarismos arábicos) ou VIII (algarismos romanos)
+EIGHTEEN	(numeral) dezoito: número equivalente a dezessete mais um; cardinalidade de um conjunto que contenha dezoito elementos distintos; representado pelo símbolo 18 (algarismos arábicos) ou XVIII (algarismos romanos)
+EIGHTEENS	(forma de eighteen) (numeral) dezoito: número equivalente a dezessete mais um; cardinalidade de um conjunto que contenha dezoito elementos...
+EIGHTEENTH	(numeral) eighteenth se traduz como décimo oitavo
+EIGHTEENTHS	(forma de eighteenth) (numeral) eighteenth se traduz como décimo oitavo
+EIGHTH	(numeral) oitavo: ordem de um elemento em um conjunto, que ocupe a posição equivalente ao número oito
+EIGHTHS	(forma de eighth) (numeral) oitavo: ordem de um elemento em um conjunto, que ocupe a posição equivalente ao número oito
+EIGHTIETH	(numeral) octogésimo: numeral ordinal correspondente ao número 80
+EIGHTIETHS	(forma de eightieth) (numeral) octogésimo: numeral ordinal correspondente ao número 80
+EIGHTS	(forma de eight) (numeral) oito: número equivalente a sete mais um; cardinalidade de um conjunto que contenha oito elementos distintos,...
+EIGHTY	(numeral) oitenta: número equivalente a oito dezenas; cardinalidade de um conjunto que contenha oito dezenas de elementos distintos; representado pelo símbolo 80 (algarismos arábicos) ou LXXX (algarismos romanos)
+EINSTEINIUM	(substantivo) einsteinium se traduz como ⟪einstênio|EINSTENIO⟫
+EINSTEINIUMS	(forma de einsteinium) (substantivo) einsteinium se traduz como ⟪einstênio|EINSTENIO⟫
+EITHER	(adjetivo) either se traduz como ⟪cada⟫, cada um, ⟪ambos⟫\n(advérbio) either se traduz como ⟪também|TAMBEM⟫
+EJACULATION	(substantivo) ejaculation se traduz como ⟪ejaculação|EJACULAÇAO⟫
+EJACULATIONS	(forma de ejaculation) (substantivo) ejaculation se traduz como ⟪ejaculação|EJACULAÇAO⟫
+EJECT	(verbo) ejetar: lançar com força para fora, expulsar (também: expulsar)
+EJECTED	(forma de eject) (verbo) ejetar: lançar com força para fora, expulsar (também: expulsar)
+EJECTING	(forma de eject) (verbo) ejetar: lançar com força para fora, expulsar (também: expulsar)
+EJECTS	(forma de eject) (verbo) ejetar: lançar com força para fora, expulsar (também: expulsar)
+ELABORATE	(verbo) elaborar: criar usando ingredientes mais simples (também: argumentar)
+ELABORATED	(forma de elaborate) (verbo) elaborar: criar usando ingredientes mais simples (também: argumentar)
+ELABORATELY	(advérbio) elaboradamente: de forma elaborada
+ELABORATES	(forma de elaborate) (verbo) elaborar: criar usando ingredientes mais simples (também: argumentar)
+ELABORATING	(forma de elaborate) (verbo) elaborar: criar usando ingredientes mais simples (também: argumentar)
+ELASTIC	(adjetivo) elástico: tira estreita e elástica em formato de argola feita de borracha\n(substantivo) elástico: tira estreita e elástica em formato de argola feita de borracha
+ELASTICALLY	(advérbio) elasticamente: de forma elástica
+ELASTICITIES	(forma de elasticity) (substantivo) elasticidade: propriedade de uma substância que a permite de mudar de tamanho, volume ou forma em razão...
+ELASTICITY	(substantivo) elasticidade: propriedade de uma substância que a permite de mudar de tamanho, volume ou forma em razão direta à força que efetua tal mudança e a voltar à sua forma original assim que essa força é retirada
+ELASTICS	(forma de elastic) (adjetivo) elástico: tira estreita e elástica em formato de argola feita de borracha
+ELASTOMER	(substantivo) elastômero: material elástico mole e flexível
+ELASTOMERS	(forma de elastomer) (substantivo) elastômero: material elástico mole e flexível
+ELATION	(substantivo) exaltação: entusiasmo (também: euforia)
+ELATIONS	(forma de elation) (substantivo) exaltação: entusiasmo (também: euforia)
+ELATIVE	(adjetivo) elative se traduz como ⟪elativo⟫\n(substantivo) elative se traduz como ⟪elativo⟫
+ELATIVES	(forma de elative) (adjetivo) elative se traduz como ⟪elativo⟫
+ELBOW	(substantivo) cotovelo: ângulo saliente na articulação do braço com o antebraço
+ELBOWED	(forma de elbow) (substantivo) cotovelo: ângulo saliente na articulação do braço com o antebraço
+ELBOWING	(forma de elbow) (substantivo) cotovelo: ângulo saliente na articulação do braço com o antebraço
+ELBOWS	(forma de elbow) (substantivo) cotovelo: ângulo saliente na articulação do braço com o antebraço
+ELDER	(adjetivo) o mais velho
+ELDERLIES	(forma de elderly) (adjetivo) idoso: diz-se de pessoa velha, de idade avançada
+ELDERLY	(adjetivo) idoso: diz-se de pessoa velha, de idade avançada
+ELDERS	(forma de elder) (adjetivo) o mais velho
+ELDEST	(substantivo) o filho mais velho
+ELECAMPANE	(substantivo) elecampane se traduz como erva-campeira
+ELECAMPANES	(forma de elecampane) (substantivo) elecampane se traduz como erva-campeira
+ELECT	(adjetivo) elect se traduz como ⟪eleito⟫\n(verbo) eleger: escolher por meio de votos
+ELECTED	(forma de elect) (adjetivo) elect se traduz como ⟪eleito⟫
+ELECTING	(forma de elect) (adjetivo) elect se traduz como ⟪eleito⟫
+ELECTION	(substantivo) eleição: processo de escolha dos dirigentes de um país ou instituição através do voto de seus cidadãos ou membros; pleito
+ELECTIONS	(forma de election) (substantivo) eleição: processo de escolha dos dirigentes de um país ou instituição através do voto de seus cidadãos ou...
+ELECTIVELY	(advérbio) eletivamente: de forma eletiva
+ELECTOR	(substantivo) eleitor: aquele que tem o direito de votar numa eleição
+ELECTORAL	(adjetivo) eleitoral: relativo a eleição, a eleitor ou ao direito de eleger
+ELECTORATE	(substantivo) eleitorado: conjunto de eleitores em certa área
+ELECTORATES	(forma de electorate) (substantivo) eleitorado: conjunto de eleitores em certa área
+ELECTORS	(forma de elector) (substantivo) eleitor: aquele que tem o direito de votar numa eleição
+ELECTRIC	(adjetivo) electric se traduz como elétrico:\n(substantivo) electric se traduz como carro elétrico
+ELECTRICAL	(adjetivo) elétrico: relativo à forma de energia em que a sua ação consiste numa manifestação entre forças de atração e de repulsão, que se refere à eletricidade
+ELECTRICIAN	(substantivo) eletricista: pessoa que trabalha em aparelhos domésticos
+ELECTRICIANS	(forma de electrician) (substantivo) eletricista: pessoa que trabalha em aparelhos domésticos
+ELECTRICITIES	(forma de electricity) (substantivo) eletricidade: designação dos fenômenos originados por cargas elétricas estáticas ou em movimento
+ELECTRICITY	(substantivo) eletricidade: designação dos fenômenos originados por cargas elétricas estáticas ou em movimento
+ELECTRICS	(forma de electric) (adjetivo) electric se traduz como elétrico:
+ELECTRIFIED	(forma de electrify) (verbo) electrify se traduz como ⟪eletrificar⟫
+ELECTRIFIES	(forma de electrify) (verbo) electrify se traduz como ⟪eletrificar⟫
+ELECTRIFY	(verbo) electrify se traduz como ⟪eletrificar⟫
+ELECTRIFYING	(adjetivo) eletrizante: que eletriza
+ELECTROCARDIOGRAM	(substantivo) eletrocardiograma: exame médico na área de cardiologia onde é feito o registro da variação dos potenciais elétricos gerados pela atividade elétrica do coração
+ELECTROCARDIOGRAMS	(forma de electrocardiogram) (substantivo) eletrocardiograma: exame médico na área de cardiologia onde é feito o registro da variação dos potenciais...
+ELECTROCHEMISTRIES	(forma de electrochemistry) (substantivo) eletroquímica: ramo da química que estuda os aspectos eletrônicos e elétricos das reações químicas
+ELECTROCHEMISTRY	(substantivo) eletroquímica: ramo da química que estuda os aspectos eletrônicos e elétricos das reações químicas
+ELECTROCUTE	(verbo) eletrocutar: matar por ação de uma descarga elétrica
+ELECTROCUTED	(forma de electrocute) (verbo) eletrocutar: matar por ação de uma descarga elétrica
+ELECTROCUTES	(forma de electrocute) (verbo) eletrocutar: matar por ação de uma descarga elétrica
+ELECTROCUTING	(forma de electrocute) (verbo) eletrocutar: matar por ação de uma descarga elétrica
+ELECTROENCEPHALOGRAM	(substantivo) eletroencefalograma: curva registrada pelo eletrence­faló­grafo
+ELECTROENCEPHALOGRAMS	(forma de electroencephalogram) (substantivo) eletroencefalograma: curva registrada pelo eletrence­faló­grafo
+ELECTROLYSIS	(substantivo) eletrólise: processo que separa os elementos químicos de um composto através do uso da eletricidade
+ELECTROLYTE	(substantivo) electrólito: substância que é submetida à eletrólise
+ELECTROLYTES	(forma de electrolyte) (substantivo) electrólito: substância que é submetida à eletrólise
+ELECTROLYTICALLY	(advérbio) eletroliticamente: de modo eletrolítico
+ELECTRON	(substantivo) elétron: partícula subatômica com carga negativa de 1,609x10⁻¹⁹ C (coulombs)
+ELECTRONEGATIVE	(adjetivo) eletronegativo: que contém eletricidade negativa; que tende a migrar para o polo positivo durante a eletrólise
+ELECTRONEGATIVITIES	(forma de electronegativity) (substantivo) eletronegatividade: propriedade de alguns átomos em atrair elétrons e formar íons negativos
+ELECTRONEGATIVITY	(substantivo) eletronegatividade: propriedade de alguns átomos em atrair elétrons e formar íons negativos
+ELECTRONIC	(adjetivo) eletrônico: relativo à eletrônica
+ELECTRONICALLY	(advérbio) eletronicamente: de modo eletrónico
+ELECTRONICS	(substantivo) electronics se traduz como ⟪eletrônica|ELETRONICA⟫, ⟪eletrónica|ELETRONICA⟫
+ELECTRONS	(forma de electron) (substantivo) elétron: partícula subatômica com carga negativa de 1,609x10⁻¹⁹ C (coulombs)
+ELECTROPOSITIVE	(adjetivo) eletropositivo: que tem carga elétrica positiva
+ELECTROSHOCK	(substantivo) eletrochoque: tratamento psiquiátrico que consiste em aplicar choques elétricos no crânio do paciente
+ELECTROSHOCKS	(forma de electroshock) (substantivo) eletrochoque: tratamento psiquiátrico que consiste em aplicar choques elétricos no crânio do paciente
+ELECTROSTATICALLY	(advérbio) eletrostaticamente: de modo eletrostático
+ELECTS	(forma de elect) (adjetivo) elect se traduz como ⟪eleito⟫
+ELEGANCE	(substantivo) elegância: forma de se vestir e agir agradável a quem vê
+ELEGANCES	(forma de elegance) (substantivo) elegância: forma de se vestir e agir agradável a quem vê
+ELEGANT	(adjetivo) elegant se traduz como ⟪elegante⟫
+ELEGANTLY	(advérbio) elegantemente: de modo elegante
+ELEGIACALLY	(advérbio) elegiacamente: de forma elegíaca
+ELEGIES	(forma de elegy) (substantivo) elegia: composição poética em que se lamenta a morte de alguém ou qualquer outro assunto triste; poema...
+ELEGY	(substantivo) elegia: composição poética em que se lamenta a morte de alguém ou qualquer outro assunto triste; poema lírico ou melancólico
+ELEMENT	(substantivo) elemento: ser, animal (também: componente:)
+ELEMENTARILY	(advérbio) elementarmente: de forma elementar
+ELEMENTARY	(adjetivo) elementar: básico, simples, rudimentar
+ELEPHANT	(substantivo) elefante: grande mamífero quadrúpede de pele grossa da família dos elefantídeos
+ELEPHANTIASIS	(substantivo) elefantíase: doença crónica/crônica caracterizada por um crescimento anormal de uma parte do corpo, geralmente pernas, órgãos genitais externos e face, provocado pela obstrução do sistema linfático que, por sua vez, se deve a uma infecção parasitária
+ELEPHANTS	(substantivo) plural de elephant (elefante)
+ELEVATE	(verbo) elevar: fazer subir
+ELEVATED	(forma de elevate) (verbo) elevar: fazer subir
+ELEVATEDS	(forma de elevate) (verbo) elevar: fazer subir
+ELEVATES	(forma de elevate) (verbo) elevar: fazer subir
+ELEVATING	(forma de elevate) (verbo) elevar: fazer subir
+ELEVATION	(substantivo) elevação: aumento
+ELEVATIONS	(forma de elevation) (substantivo) elevação: aumento
+ELEVATOR	(substantivo) elevador: aquilo ou quem eleva
+ELEVATORS	(forma de elevator) (substantivo) elevador: aquilo ou quem eleva
+ELEVEN	(numeral) onze: número equivalente a dez mais um; cardinalidade de um conjunto que contenha onze elementos distintos; representado pelo símbolo 11 (algarismos arábicos) ou XI (algarismos romanos)\n(substantivo) equipe com onze jogadores, geralmente de críquete ou futebol
+ELEVENS	(forma de eleven) (numeral) onze: número equivalente a dez mais um; cardinalidade de um conjunto que contenha onze elementos distintos;...
+ELEVENTH	(substantivo) eleventh se traduz como décimo primeiro
+ELEVENTHS	(forma de eleventh) (substantivo) eleventh se traduz como décimo primeiro
+ELF	(substantivo) elf se traduz como ⟪elfo⟫
+ELICIT	(verbo) levantar: erguer-se do assento em sinal de cortesia e respeito (também: obter, conseguir:)
+ELICITATION	(substantivo) elicitation se traduz como ⟪levantamento⟫
+ELICITATIONS	(forma de elicitation) (substantivo) elicitation se traduz como ⟪levantamento⟫
+ELICITED	(forma de elicit) (verbo) levantar: erguer-se do assento em sinal de cortesia e respeito (também: obter, conseguir:)
+ELICITING	(forma de elicit) (verbo) levantar: erguer-se do assento em sinal de cortesia e respeito (também: obter, conseguir:)
+ELICITS	(forma de elicit) (verbo) levantar: erguer-se do assento em sinal de cortesia e respeito (também: obter, conseguir:)
+ELIDE	(verbo) elidir: ato de elisão, excluir, omitir
+ELIDED	(forma de elide) (verbo) elidir: ato de elisão, excluir, omitir
+ELIDES	(forma de elide) (verbo) elidir: ato de elisão, excluir, omitir
+ELIDING	(forma de elide) (verbo) elidir: ato de elisão, excluir, omitir
+ELIGIBLE	(adjetivo) eligible se traduz como ⟪elegível|ELEGIVEL⟫
+ELIGIBLES	(forma de eligible) (adjetivo) eligible se traduz como ⟪elegível|ELEGIVEL⟫
+ELIMINATE	(verbo) eliminar: suprimir, fazer sair, excluir
+ELIMINATED	(forma de eliminate) (verbo) eliminar: suprimir, fazer sair, excluir
+ELIMINATES	(forma de eliminate) (verbo) eliminar: suprimir, fazer sair, excluir
+ELIMINATING	(forma de eliminate) (verbo) eliminar: suprimir, fazer sair, excluir
+ELIMINATION	(substantivo) eliminação: ato de eliminar
+ELIMINATIONS	(forma de elimination) (substantivo) eliminação: ato de eliminar
+ELISION	(substantivo) elisão: modificação fonética em que se elimina o final vocálico de uma palavra fundindo com a palavra subsequente; por exemplo: d'água (de água) (também: omissão)
+ELISIONS	(forma de elision) (substantivo) elisão: modificação fonética em que se elimina o final vocálico de uma palavra fundindo com a palavra...
+ELITISM	(substantivo) elitismo: sistema social que favorece as elites
+ELITISMS	(forma de elitism) (substantivo) elitismo: sistema social que favorece as elites
+ELIXIR	(substantivo) elixir: preparado farmacêutico composto de várias substâncias dissolvidas em álcool
+ELIXIRS	(forma de elixir) (substantivo) elixir: preparado farmacêutico composto de várias substâncias dissolvidas em álcool
+ELK	(substantivo) alce: mamífero artiodáctilo da família dos cervídeos (Alces alces), que ocorre nas regiões frias ao norte do hemisfério norte; de pelagem escura, ponta do focinho larga e arqueada e grande galhada espalmada, com numerosas pontas, presente somente nos machos [É o maior dos cervídeos, alcançando até 3 m de...
+ELKS	(forma de elk) (substantivo) alce: mamífero artiodáctilo da família dos cervídeos (Alces alces), que ocorre nas regiões frias ao norte...
+ELLIPSE	(substantivo) elipse: figura geométrica formada num plano que corta um cone de revolução de maneira oblíqua à geratriz deste cone
+ELLIPSES	(forma de ellipsis) (substantivo) reticências: série de três pontos (…) que, num texto, indicam interrupção do pensamento (por ficar, em...
+ELLIPSIS	(substantivo) reticências: série de três pontos (…) que, num texto, indicam interrupção do pensamento (por ficar, em regra, facilmente subentendido o que não foi dito), ou omissão intencional de coisa que se devia ou podia dizer, mas apenas se sugere, ou que, em certos casos, indica insinuação, segunda intenção, emoção
+ELLIPTICAL	(adjetivo) elíptico: com a forma de uma elipse
+ELLIPTICALLY	(advérbio) elipticamente: de modo elíptico
+ELLIPTICALS	(forma de elliptical) (adjetivo) elíptico: com a forma de uma elipse
+ELM	(substantivo) olmo: nome genérico de árvores de várias espécies do gênero Ulmus L., família Ulmaceae; são grandes árvores nativas na Europa (sobretudo Ulmus minor, nativo da Península Ibérica), alcançando os 30 metros de altura (também: ulmo)
+ELMS	(forma de elm) (substantivo) olmo: nome genérico de árvores de várias espécies do gênero Ulmus L., família Ulmaceae; são grandes...
+ELOCUTION	(substantivo) elocution se traduz como ⟪elocução|ELOCUÇAO⟫
+ELOCUTIONS	(forma de elocution) (substantivo) elocution se traduz como ⟪elocução|ELOCUÇAO⟫
+ELOPE	(verbo) fugir: retirar-se
+ELOPED	(forma de elope) (verbo) fugir: retirar-se
+ELOPES	(forma de elope) (verbo) fugir: retirar-se
+ELOPING	(forma de elope) (verbo) fugir: retirar-se
+ELOQUENCE	(substantivo) eloquência: capacidade de persuadir através da palavra
+ELOQUENCES	(forma de eloquence) (substantivo) eloquência: capacidade de persuadir através da palavra
+ELOQUENT	(adjetivo) eloquente: convincente
+ELSE	(adjetivo) else se traduz como ⟪outro⟫\n(advérbio) em vez de
+ELSEWHERE	(advérbio) alhures: noutro lugar
+ELUCIDATE	(verbo) explicar: fazer compreender uma coisa desenvolvendo-a ao pormenor
+ELUCIDATED	(forma de elucidate) (verbo) explicar: fazer compreender uma coisa desenvolvendo-a ao pormenor
+ELUCIDATES	(forma de elucidate) (verbo) explicar: fazer compreender uma coisa desenvolvendo-a ao pormenor
+ELUCIDATING	(forma de elucidate) (verbo) explicar: fazer compreender uma coisa desenvolvendo-a ao pormenor
+ELUCIDATIVE	(adjetivo) elucidative se traduz como ⟪elucidativo⟫
+ELUDE	(verbo) eludir: escapar de algo
+ELUDED	(forma de elude) (verbo) eludir: escapar de algo
+ELUDER	(forma de elude) (verbo) eludir: escapar de algo
+ELUDES	(forma de elude) (verbo) eludir: escapar de algo
+ELUDING	(forma de elude) (verbo) eludir: escapar de algo
+ELUSIVELY	(advérbio) esquivamente: de forma esquiva
+EMANCIPATE	(verbo) emancipar: tornar(-se) independente; libertar(-se)
+EMANCIPATED	(forma de emancipate) (verbo) emancipar: tornar(-se) independente; libertar(-se)
+EMANCIPATES	(forma de emancipate) (verbo) emancipar: tornar(-se) independente; libertar(-se)
+EMANCIPATING	(forma de emancipate) (verbo) emancipar: tornar(-se) independente; libertar(-se)
+EMARGINATE	(adjetivo) emarginate se traduz como emarginado
+EMBARGO	(substantivo) embargo se traduz como ⟪embargo⟫\n(verbo) embargar: impedir
+EMBARGOED	(forma de embargo) (substantivo) embargo se traduz como ⟪embargo⟫
+EMBARGOES	(forma de embargo) (substantivo) embargo se traduz como ⟪embargo⟫
+EMBARGOING	(forma de embargo) (substantivo) embargo se traduz como ⟪embargo⟫
+EMBARRASSED	(adjetivo) envergonhado: cheio de vergonha
+EMBARRASSINGLY	(advérbio) embaraçosamente: de forma embaraçosa (também: confrangedoramente, constrangedoramente)
+EMBARRASSMENT	(substantivo) embarrassment se traduz como ⟪vergonha⟫
+EMBARRASSMENTS	(forma de embarrassment) (substantivo) embarrassment se traduz como ⟪vergonha⟫
+EMBASSIES	(forma de embassy) (substantivo) embaixada: representação diplomática de uma nação em outro país
+EMBASSY	(substantivo) embaixada: representação diplomática de uma nação em outro país
+EMBEDDED	(adjetivo) embebido: cercado e preso com força (também: incrustado, embutido)
+EMBER	(substantivo) ember se traduz como ⟪brasa⟫
+EMBERS	(forma de ember) (substantivo) ember se traduz como ⟪brasa⟫
+EMBEZZLEMENT	(substantivo) estelionato: fraude de quem cede, vende ou obriga uma coisa, ocultando que esta já estava cedida, vendida ou obrigada a outrem (também: peculato, desfalque)
+EMBEZZLEMENTS	(forma de embezzlement) (substantivo) estelionato: fraude de quem cede, vende ou obriga uma coisa, ocultando que esta já estava cedida, vendida...
+EMBLEMATICALLY	(advérbio) emblematicamente: de modo emblemático
+EMBOLISM	(substantivo) embolism se traduz como ⟪embolia⟫
+EMBOLISMS	(forma de embolism) (substantivo) embolism se traduz como ⟪embolia⟫
+EMBRACE	(substantivo) abraço: gesto de afeto no qual uma pessoa contorna com seus braços a outra pessoa, animal, objeto, etc., como forma de manifestar carinho, amizade, apoio, conforto, etc. (também: amplexo)\n(verbo) embrace se traduz como ⟪abraçar⟫
+EMBRACED	(verbo) passado simples e particípio do verbo embrace: abraço, amplexo
+EMBRACES	(substantivo) plural de embrace: abraço, amplexo\n(verbo) terceira pessoa do singular do verbo embrace: abraço, amplexo
+EMBRACING	(verbo) gerúndio do verbo embrace: abraço, amplexo
+EMBROIDERIES	(forma de embroidery) (substantivo) embroidery se traduz como ⟪bordado⟫
+EMBROIDERY	(substantivo) embroidery se traduz como ⟪bordado⟫
+EMBRYO	(substantivo) embryo se traduz como ⟪embrião|EMBRIAO⟫
+EMBRYOLOGICALLY	(advérbio) embriologicamente: de modo embriológico
+EMBRYOS	(forma de embryo) (substantivo) embryo se traduz como ⟪embrião|EMBRIAO⟫
+EMEND	(verbo) emendar: corrigir, melhorar
+EMENDED	(forma de emend) (verbo) emendar: corrigir, melhorar
+EMENDING	(forma de emend) (verbo) emendar: corrigir, melhorar
+EMENDS	(forma de emend) (verbo) emendar: corrigir, melhorar
+EMERALD	(substantivo) esmeralda: pedra preciosa translúcida normalmente de cor verde
+EMERALDS	(forma de emerald) (substantivo) esmeralda: pedra preciosa translúcida normalmente de cor verde
+EMERGED	(adjetivo) emerso: diz-se daquilo que emergiu (também: surgido)
+EMERGENT	(adjetivo) emergent se traduz como ⟪emergente⟫
+EMERGENTS	(forma de emergent) (adjetivo) emergent se traduz como ⟪emergente⟫
+EMERIES	(forma de emery) (substantivo) esmeril: tipo de pedra constituída principalmente por coríndon, utilizada para polir
+EMERY	(substantivo) esmeril: tipo de pedra constituída principalmente por coríndon, utilizada para polir
+EMIGRANT	(substantivo) emigrante: quem emigra; emigrado; quem se muda da sua pátria para outra, de forma definitiva
+EMIGRANTS	(forma de emigrant) (substantivo) emigrante: quem emigra; emigrado; quem se muda da sua pátria para outra, de forma definitiva
+EMIGRATION	(substantivo) emigração: o ato ou efeito de emigrar; movimentação de uma localidade pra outra
+EMIGRATIONS	(forma de emigration) (substantivo) emigração: o ato ou efeito de emigrar; movimentação de uma localidade pra outra
+EMIGRE	(substantivo) emigrante: quem emigra; emigrado; quem se muda da sua pátria para outra, de forma definitiva
+EMIGRES	(substantivo) plural de emigre: emigrante
+EMINENCE	(substantivo) eminência: aquele que tem destaque moralmente, de intelecto ou socialmente
+EMINENCES	(forma de eminence) (substantivo) eminência: aquele que tem destaque moralmente, de intelecto ou socialmente
+EMINENT	(adjetivo) eminent se traduz como ⟪eminente⟫
+EMISSARIES	(forma de emissary) (substantivo) emissário: aquele que é mandado em uma missão
+EMISSARY	(substantivo) emissário: aquele que é mandado em uma missão
+EMISSION	(substantivo) emissão: ato ou efeito de emitir
+EMISSIONS	(forma de emission) (substantivo) emissão: ato ou efeito de emitir
+EMIT	(verbo) emitir: expedir
+EMITS	(forma de emit) (verbo) emitir: expedir
+EMITTED	(forma de emit) (verbo) emitir: expedir
+EMITTER	(substantivo) emissor: numa comunicação, aquele que enuncia uma mensagem a ser recebida por um receptor; difusor
+EMITTERS	(forma de emitter) (substantivo) emissor: numa comunicação, aquele que enuncia uma mensagem a ser recebida por um receptor; difusor
+EMITTING	(forma de emit) (verbo) emitir: expedir
+EMOLUMENT	(substantivo) emolumento: gratificação
+EMOLUMENTS	(forma de emolument) (substantivo) emolumento: gratificação
+EMOTION	(substantivo) emoção: agitação dos sentimentos
+EMOTIONAL	(adjetivo) emocionado: que se emociona com facilidade, impulsivamente (também: emocional, emotivo)
+EMOTIONALLY	(advérbio) emocionadamente: de modo emocionado
+EMOTIONS	(forma de emotion) (substantivo) emoção: agitação dos sentimentos
+EMOTIVE	(adjetivo) emotivo: que se emociona facilmente
+EMOTIVELY	(advérbio) emotivamente: de forma emotiva
+EMPATHIC	(adjetivo) empático: relativo à empatia
+EMPATHIES	(forma de empathy) (substantivo) empatia: comunhão positiva pela qual um sujeito se identifica com outro
+EMPATHY	(substantivo) empatia: comunhão positiva pela qual um sujeito se identifica com outro
+EMPEROR	(substantivo) imperador: título dado a soberanos que tinham por vassalos reis ou grandes príncipes
+EMPERORS	(forma de emperor) (substantivo) imperador: título dado a soberanos que tinham por vassalos reis ou grandes príncipes
+EMPHASES	(forma de emphasis) (substantivo) ênfase: o ato de dar destaque a algo ao se exprimir
+EMPHASIS	(substantivo) ênfase: o ato de dar destaque a algo ao se exprimir
+EMPHASISES	(forma de emphasis) (substantivo) ênfase: o ato de dar destaque a algo ao se exprimir
+EMPHATIC	(adjetivo) enfático: em que há ênfase
+EMPHATICALLY	(advérbio) enfaticamente: de modo enfático; com ênfase
+EMPHYSEMA	(substantivo) enfisema: doença pulmonar obstrutiva crônica caracterizada pela dilatação excessiva dos alvéolos pulmonares, o que causa a perda de capacidade respiratória e uma oxigenação insuficiente
+EMPHYSEMAS	(forma de emphysema) (substantivo) enfisema: doença pulmonar obstrutiva crônica caracterizada pela dilatação excessiva dos alvéolos...
+EMPIRE	(substantivo) império: estado governado por um imperador ou uma imperatriz
+EMPIRES	(forma de empire) (substantivo) império: estado governado por um imperador ou uma imperatriz
+EMPIRIC	(adjetivo) empiric se traduz como ⟪empírico|EMPIRICO⟫\n(substantivo) empiric se traduz como ⟪empírico|EMPIRICO⟫
+EMPIRICAL	(adjetivo) empirical se traduz como ⟪empírico|EMPIRICO⟫
+EMPIRICALLY	(advérbio) empiricamente: de modo empírico
+EMPIRICISM	(substantivo) empirismo: medicina que se orienta pela experiência, com desprezo por qualquer metodologia científica
+EMPIRICISMS	(forma de empiricism) (substantivo) empirismo: medicina que se orienta pela experiência, com desprezo por qualquer metodologia científica
+EMPIRICIST	(substantivo) empirista: aquele que segue o empirismo
+EMPIRICISTS	(forma de empiricist) (substantivo) empirista: aquele que segue o empirismo
+EMPIRICS	(forma de empiric) (adjetivo) empiric se traduz como ⟪empírico|EMPIRICO⟫
+EMPLOY	(verbo) empregar: contratar os serviços de alguém; dar emprego a; ter ou manter a seu serviço
+EMPLOYABLE	(adjetivo) empregável: que se consegue empregar
+EMPLOYABLES	(forma de employable) (adjetivo) empregável: que se consegue empregar
+EMPLOYED	(forma de employ) (verbo) empregar: contratar os serviços de alguém; dar emprego a; ter ou manter a seu serviço
+EMPLOYEE	(substantivo) empregado: aquele que exerce um emprego
+EMPLOYEES	(forma de employee) (substantivo) empregado: aquele que exerce um emprego
+EMPLOYER	(substantivo) empregador: pessoa física ou jurídica que contrata alguém para lhe prestar serviço como empregado
+EMPLOYERS	(forma de employer) (substantivo) empregador: pessoa física ou jurídica que contrata alguém para lhe prestar serviço como empregado
+EMPLOYES	(forma de employ) (verbo) empregar: contratar os serviços de alguém; dar emprego a; ter ou manter a seu serviço
+EMPLOYING	(forma de employ) (verbo) empregar: contratar os serviços de alguém; dar emprego a; ter ou manter a seu serviço
+EMPLOYS	(forma de employ) (verbo) empregar: contratar os serviços de alguém; dar emprego a; ter ou manter a seu serviço
+EMPOWER	(verbo) empoderar: dar poder
+EMPOWERED	(forma de empower) (verbo) empoderar: dar poder
+EMPOWERING	(forma de empower) (verbo) empoderar: dar poder
+EMPOWERMENT	(substantivo) empowerment se traduz como empoderamento
+EMPOWERMENTS	(substantivo) plural de empowerment: empoderamento
+EMPOWERS	(forma de empower) (verbo) empoderar: dar poder
+EMPTIED	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMPTIER	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMPTIERS	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMPTIES	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMPTIEST	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMPTILY	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMPTY	(adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫\n(verbo) desocupar: sair; liberar ou vagar algo que estava ocupado (também: esvaziar)
+EMPTYING	(forma de empty) (adjetivo) empty se traduz como ⟪vazio⟫, ⟪vácuo|VACUO⟫
+EMU	(substantivo) emu se traduz como ⟪emu⟫
+EMULATE	(verbo) emular: disputar preferências a
+EMULATED	(forma de emulate) (verbo) emular: disputar preferências a
+EMULATES	(forma de emulate) (verbo) emular: disputar preferências a
+EMULATING	(forma de emulate) (verbo) emular: disputar preferências a
+EMULATION	(substantivo) emulação: sentimento que incute a tentar igualar-se a outrem ou superá-lo em mérito
+EMULATIONS	(forma de emulation) (substantivo) emulação: sentimento que incute a tentar igualar-se a outrem ou superá-lo em mérito
+EMULSION	(substantivo) emulsão: dispersão coloidal de um líquido em outro imiscível
+EMULSIONS	(forma de emulsion) (substantivo) emulsão: dispersão coloidal de um líquido em outro imiscível
+EMUS	(forma de emu) (substantivo) emu se traduz como ⟪emu⟫
+ENABLE	(verbo) possibilitar: tornar possível; proporcionar (também: habilitar)
+ENABLED	(forma de enable) (verbo) possibilitar: tornar possível; proporcionar (também: habilitar)
+ENABLER	(forma de enable) (verbo) possibilitar: tornar possível; proporcionar (também: habilitar)
+ENABLES	(forma de enable) (verbo) possibilitar: tornar possível; proporcionar (também: habilitar)
+ENABLING	(forma de enable) (verbo) possibilitar: tornar possível; proporcionar (também: habilitar)
+ENACTMENT	(substantivo) enactment se traduz como ⟪encenação|ENCENAÇAO⟫
+ENACTMENTS	(forma de enactment) (substantivo) enactment se traduz como ⟪encenação|ENCENAÇAO⟫
+ENAMEL	(substantivo) esmalte: camada vítrea que se aplica sobre objetos de metal, de porcelana, etc\n(verbo) esmaltar: aplicar o esmalte a
+ENAMELED	(forma de enamel) (substantivo) esmalte: camada vítrea que se aplica sobre objetos de metal, de porcelana, etc
+ENAMELING	(forma de enamel) (substantivo) esmalte: camada vítrea que se aplica sobre objetos de metal, de porcelana, etc
+ENAMELLED	(forma de enamel) (substantivo) esmalte: camada vítrea que se aplica sobre objetos de metal, de porcelana, etc
+ENAMELLING	(forma de enamel) (substantivo) esmalte: camada vítrea que se aplica sobre objetos de metal, de porcelana, etc
+ENAMELS	(forma de enamel) (substantivo) esmalte: camada vítrea que se aplica sobre objetos de metal, de porcelana, etc
+ENANTIOMORPH	(substantivo) imagem espelhada de um objeto
+ENANTIOMORPHOUS	(adjetivo) enantiomorfo: diz-se de um par de elementos que são opostamente simétricos (como um par de luvas, por exemplo)
+ENANTIOMORPHS	(forma de enantiomorph) (substantivo) imagem espelhada de um objeto
+ENCAPSULATE	(verbo) encapsulate se traduz como encapsular
+ENCAPSULATED	(forma de encapsulate) (verbo) encapsulate se traduz como encapsular
+ENCAPSULATES	(verbo) terceira pessoa do singular do presente simples de encapsulate: encapsular.
+ENCAPSULATING	(forma de encapsulate) (verbo) encapsulate se traduz como encapsular
+ENCAPSULATION	(substantivo) encapsulamento: ato de encapsular, colocar algo dentro de uma cápsula
+ENCAPSULATIONS	(forma de encapsulation) (substantivo) encapsulamento: ato de encapsular, colocar algo dentro de uma cápsula
+ENCEPHALOPATHIES	(forma de encephalopathy) (substantivo) encefalopatia: nome genérico para doenças do encéfalo
+ENCEPHALOPATHY	(substantivo) encefalopatia: nome genérico para doenças do encéfalo
+ENCHANT	(verbo) enchant se traduz como ⟪encantar⟫
+ENCHANTED	(forma de enchant) (verbo) enchant se traduz como ⟪encantar⟫
+ENCHANTING	(forma de enchant) (verbo) enchant se traduz como ⟪encantar⟫
+ENCHANTINGLY	(advérbio) encantatoriamente: de forma encantatória
+ENCHANTMENT	(substantivo) encantamento: palavra, fórmula ou frase a que se atribui o poder mágico de mudar o comportamento de alguém ou causar algum efeito físico no mundo
+ENCHANTMENTS	(forma de enchantment) (substantivo) encantamento: palavra, fórmula ou frase a que se atribui o poder mágico de mudar o comportamento de...
+ENCHANTS	(forma de enchant) (verbo) enchant se traduz como ⟪encantar⟫
+ENCIPHER	(verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCIPHERED	(forma de encipher) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCIPHERING	(forma de encipher) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCIPHERS	(forma de encipher) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCIRCLE	(verbo) cingir: cercar; rodear
+ENCIRCLED	(forma de encircle) (verbo) cingir: cercar; rodear
+ENCIRCLES	(forma de encircle) (verbo) cingir: cercar; rodear
+ENCIRCLING	(forma de encircle) (verbo) cingir: cercar; rodear
+ENCLOSURE	(substantivo) invólucro: envoltório, algo que serve para envolver
+ENCLOSURES	(forma de enclosure) (substantivo) invólucro: envoltório, algo que serve para envolver
+ENCODE	(verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCODED	(forma de encode) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCODES	(forma de encode) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;
+ENCODING	(substantivo) codificação: ação de codificar
+ENCOMIASTIC	(adjetivo) encomiástico: elogioso
+ENCOMPASS	(verbo) compreender: incluir (também: abarcar, englobar)
+ENCOMPASSED	(forma de encompass) (verbo) compreender: incluir (também: abarcar, englobar)
+ENCOMPASSES	(forma de encompass) (verbo) compreender: incluir (também: abarcar, englobar)
+ENCOMPASSING	(forma de encompass) (verbo) compreender: incluir (também: abarcar, englobar)
+ENCORE	(interjeição) bis: repetição ou pequena extensão de apresentação artística\n(substantivo) bis: repetição ou pequena extensão de apresentação artística
+ENCORED	(forma de encore) (interjeição) bis: repetição ou pequena extensão de apresentação artística
+ENCORES	(forma de encore) (interjeição) bis: repetição ou pequena extensão de apresentação artística
+ENCORING	(forma de encore) (interjeição) bis: repetição ou pequena extensão de apresentação artística
+ENCOURAGE	(verbo) incentivar: influenciar ou mover alguém a querer fazer algo ou tomar determinada atitude; estimular; motivar
+ENCOURAGED	(forma de encourage) (verbo) incentivar: influenciar ou mover alguém a querer fazer algo ou tomar determinada atitude; estimular; motivar
+ENCOURAGEMENT	(substantivo) encouragement se traduz como ⟪encorajamento⟫
+ENCOURAGEMENTS	(forma de encouragement) (substantivo) encouragement se traduz como ⟪encorajamento⟫
+ENCOURAGES	(forma de encourage) (verbo) incentivar: influenciar ou mover alguém a querer fazer algo ou tomar determinada atitude; estimular; motivar
+ENCOURAGING	(forma de encourage) (verbo) incentivar: influenciar ou mover alguém a querer fazer algo ou tomar determinada atitude; estimular; motivar
+ENCOURAGINGLY	(advérbio) encorajadoramente: de forma encorajadora (também: animadoramente)
+ENCRUST	(verbo) incrustar: formar uma crosta ou camada de proteção em
+ENCRUSTED	(forma de encrust) (verbo) incrustar: formar uma crosta ou camada de proteção em
+ENCRUSTING	(forma de encrust) (verbo) incrustar: formar uma crosta ou camada de proteção em
+ENCRUSTS	(forma de encrust) (verbo) incrustar: formar uma crosta ou camada de proteção em
+ENCRYPT	(verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem; (também: encriptar, criptografar)
+ENCRYPTED	(forma de encrypt) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;...
+ENCRYPTING	(substantivo) encriptagem: o mesmo que encriptação
+ENCRYPTION	(substantivo) encryption se traduz como ⟪encriptação|ENCRIPTAÇAO⟫
+ENCRYPTIONS	(forma de encryption) (substantivo) encryption se traduz como ⟪encriptação|ENCRIPTAÇAO⟫
+ENCRYPTS	(forma de encrypt) (verbo) cifrar: substituir os sinais representantes de uma informação de forma a torná-la ininteligível para outrem;...
+ENCYCLOPAEDIA	(substantivo) enciclopédia: obra que reúne todos os conhecimentos humanos ou apenas um domínio deles e os expõe de maneira ordenada, metódica, seguindo um critério de apresentação alfabético ou temático
+ENCYCLOPAEDIAS	(forma de encyclopaedia) (substantivo) enciclopédia: obra que reúne todos os conhecimentos humanos ou apenas um domínio deles e os expõe de...
+ENCYCLOPEDIA	(substantivo) enciclopédia: obra que reúne todos os conhecimentos humanos ou apenas um domínio deles e os expõe de maneira ordenada, metódica, seguindo um critério de apresentação alfabético ou temático
+ENCYCLOPEDIAS	(forma de encyclopedia) (substantivo) enciclopédia: obra que reúne todos os conhecimentos humanos ou apenas um domínio deles e os expõe de...
+ENCYCLOPEDICALLY	(advérbio) enciclopedicamente: de forma enciclopédica
+END	(substantivo) fim: extremidade
+ENDANGER	(verbo) perigar: estar em perigo
+ENDANGERED	(forma de endanger) (verbo) perigar: estar em perigo
+ENDANGERING	(forma de endanger) (verbo) perigar: estar em perigo
+ENDANGERS	(forma de endanger) (verbo) perigar: estar em perigo
+ENDEAVOR	(verbo) procurar: esforçar-se para executar algo
+ENDEAVORED	(forma de endeavor) (verbo) procurar: esforçar-se para executar algo
+ENDEAVORING	(forma de endeavor) (verbo) procurar: esforçar-se para executar algo
+ENDEAVORS	(forma de endeavor) (verbo) procurar: esforçar-se para executar algo
+ENDEAVOUR	(substantivo) endeavour se traduz como ⟪esforço⟫, ⟪empenho⟫\n(verbo) tentar: experimentar
+ENDEAVOURED	(forma de endeavour) (substantivo) endeavour se traduz como ⟪esforço⟫, ⟪empenho⟫
+ENDEAVOURING	(forma de endeavour) (substantivo) endeavour se traduz como ⟪esforço⟫, ⟪empenho⟫
+ENDEAVOURS	(verbo) terceira pessoa do singular do presente do indicativo de endeavour: esforço, empenho
+ENDED	(forma de end) (substantivo) fim: extremidade
+ENDEMIC	(adjetivo) endemic se traduz como ⟪endêmico|ENDEMICO⟫\n(substantivo) endemia: doença espacialmente localizada, temporalmente ilimitada, habitualmente presente entre os membros de uma população
+ENDEMICALLY	(advérbio) endemicamente: de forma endémica
+ENDEMICS	(forma de endemic) (adjetivo) endemic se traduz como ⟪endêmico|ENDEMICO⟫
+ENDING	(substantivo) final: vídeo exibido quando se zera um videojogo que mostra um desfecho de enredo de uma história contextuada durante o mesmo relativo ao personagem com que se jogou
+ENDINGS	(forma de end) (substantivo) fim: extremidade
+ENDIVE	(substantivo) chicória: nome vulgar de plantas herbáceas da família das Compostas, como a chicória-do-café, chicória-brava, chicória-crespa, etc (também: endívia)
+ENDIVES	(forma de endive) (substantivo) chicória: nome vulgar de plantas herbáceas da família das Compostas, como a chicória-do-café,...
+ENDLESSLY	(advérbio) infinitamente: eternamente, sem fim, para sempre (também: infindavelmente, interminavelmente)
+ENDOCARDIA	(forma de endocardium) (substantivo) endocárdio: camada interna do coração da qual fazem parte as válvulas cardíacas mitral e tricúspede
+ENDOCARDITIS	(substantivo) endocardite: inflamação do endocárdio
+ENDOCARDITISES	(forma de endocarditis) (substantivo) endocardite: inflamação do endocárdio
+ENDOCARDIUM	(substantivo) endocárdio: camada interna do coração da qual fazem parte as válvulas cardíacas mitral e tricúspede
+ENDOCARP	(substantivo) endocarpo: fina película difícilmente visível, que fica entre a polpa e as sementes de um fruto
+ENDOCARPS	(forma de endocarp) (substantivo) endocarpo: fina película difícilmente visível, que fica entre a polpa e as sementes de um fruto
+ENDOCRINOLOGIES	(forma de endocrinology) (substantivo) endocrinologia: especialidade médica que se dedica ao estudo e à análise das glândulas; análise detalhada...
+ENDOCRINOLOGY	(substantivo) endocrinologia: especialidade médica que se dedica ao estudo e à análise das glândulas; análise detalhada das glândulas de secreção interna, de suas doenças e de suas funções
+ENDOGENOUS	(adjetivo) endógeno: diz-se de uma causa interna; o mesmo que endogênico
+ENDOGENOUSLY	(advérbio) endogenamente: de modo endógeno
+ENDOMETRIA	(forma de endometrium) (substantivo) endométrio: membrana mucosa que reveste a parede do útero que permite ao embrião aderir à parede do útero...
+ENDOMETRIUM	(substantivo) endométrio: membrana mucosa que reveste a parede do útero que permite ao embrião aderir à parede do útero (nidação) e que nos primeiros meses de gravidez forma a placenta
+ENDORSE	(verbo) endossar: solidarizar-se com; apoiar, auxiliar, defender
+ENDORSED	(forma de endorse) (verbo) endossar: solidarizar-se com; apoiar, auxiliar, defender
+ENDORSEES	(forma de endorse) (verbo) endossar: solidarizar-se com; apoiar, auxiliar, defender
+ENDORSEMENT	(substantivo) endorsement se traduz como ⟪endosso⟫
+ENDORSEMENTS	(forma de endorsement) (substantivo) endorsement se traduz como ⟪endosso⟫
+ENDORSES	(forma de endorse) (verbo) endossar: solidarizar-se com; apoiar, auxiliar, defender
+ENDORSING	(forma de endorse) (verbo) endossar: solidarizar-se com; apoiar, auxiliar, defender
+ENDOSCOPIC	(adjetivo) endoscópico: relativo à endoscopia
+ENDOSCOPIES	(forma de endoscopy) (substantivo) endoscopia: especialidade médica que se ocupa de obter imagens médicas diagnósticas utilizando-se de um...
+ENDOSCOPY	(substantivo) endoscopia: especialidade médica que se ocupa de obter imagens médicas diagnósticas utilizando-se de um endoscópio
+ENDOWMENT	(substantivo) endowment se traduz como ⟪dotação|DOTAÇAO⟫
+ENDOWMENTS	(forma de endowment) (substantivo) endowment se traduz como ⟪dotação|DOTAÇAO⟫
+ENDPOINT	(substantivo) marca da rescisão ou conclusão
+ENDPOINTS	(forma de endpoint) (substantivo) marca da rescisão ou conclusão
+ENDS	(forma de end) (substantivo) fim: extremidade
+ENDURE	(verbo) aguentar: sustentar ou suportar peso, carga, trabalho, ou situação difícil
+ENDURED	(forma de endure) (verbo) aguentar: sustentar ou suportar peso, carga, trabalho, ou situação difícil
+ENDURES	(forma de endure) (verbo) aguentar: sustentar ou suportar peso, carga, trabalho, ou situação difícil
+ENDURING	(forma de endure) (verbo) aguentar: sustentar ou suportar peso, carga, trabalho, ou situação difícil
+ENEMIES	(forma de enemy) (adjetivo) inimigo: tropa das forças armadas adversas
+ENEMY	(adjetivo) inimigo: tropa das forças armadas adversas\n(substantivo) inimigo: tropa das forças armadas adversas
+ENERGETIC	(adjetivo) energetic se traduz como ⟪enérgico|ENERGICO⟫, ⟪energético|ENERGETICO⟫\n(substantivo) energetic se traduz como ⟪energético|ENERGETICO⟫
+ENERGETICALLY	(advérbio) energeticamente: de modo energético (também: energicamente)
+ENERGIES	(forma de energy) (substantivo) energia: energia elétrica (também: vigor, disposição:)
+ENERGIZE	(verbo) energizar: tornar enérgico, ativo, movimentado
+ENERGIZED	(forma de energize) (verbo) energizar: tornar enérgico, ativo, movimentado
+ENERGIZES	(forma de energize) (verbo) energizar: tornar enérgico, ativo, movimentado
+ENERGIZING	(forma de energize) (verbo) energizar: tornar enérgico, ativo, movimentado
+ENERGY	(substantivo) energia: energia elétrica (também: vigor, disposição:)
+ENFORCE	(verbo) fazer entrar em vigor, fazer cumprir
+ENFORCED	(forma de enforce) (verbo) fazer entrar em vigor, fazer cumprir
+ENFORCES	(forma de enforce) (verbo) fazer entrar em vigor, fazer cumprir
+ENFORCING	(forma de enforce) (verbo) fazer entrar em vigor, fazer cumprir
+ENGAGE	(verbo) prender: pegar a atenção de uma pessoa (também: comprometer)
+ENGAGED	(forma de engage) (verbo) prender: pegar a atenção de uma pessoa (também: comprometer)
+ENGAGEMENT	(substantivo) engagement se traduz como ⟪compromisso⟫
+ENGAGEMENTS	(substantivo) plural de engagement: compromisso
+ENGAGES	(forma de engage) (verbo) prender: pegar a atenção de uma pessoa (também: comprometer)
+ENGAGING	(forma de engage) (verbo) prender: pegar a atenção de uma pessoa (também: comprometer)
+ENGINE	(substantivo) motor: dispositivo que converte outras formas de energia em energia mecânica, de forma a impelir movimento a uma máquina ou veículo
+ENGINED	(forma de engine) (substantivo) motor: dispositivo que converte outras formas de energia em energia mecânica, de forma a impelir...
+ENGINEER	(substantivo) engenheiro: pessoa habilitada por diploma oficial a desempenhar trabalhos de Engenharia
+ENGINEERED	(forma de engineer) (substantivo) engenheiro: pessoa habilitada por diploma oficial a desempenhar trabalhos de Engenharia
+ENGINEERING	(substantivo) engineering se traduz como ⟪engenharia⟫
+ENGINEERINGS	(forma de engineer) (substantivo) engenheiro: pessoa habilitada por diploma oficial a desempenhar trabalhos de Engenharia
+ENGINEERS	(forma de engineer) (substantivo) engenheiro: pessoa habilitada por diploma oficial a desempenhar trabalhos de Engenharia
+ENGINES	(forma de engine) (substantivo) motor: dispositivo que converte outras formas de energia em energia mecânica, de forma a impelir...
+ENGINING	(forma de engine) (substantivo) motor: dispositivo que converte outras formas de energia em energia mecânica, de forma a impelir...
+ENGRAVING	(substantivo) gravura: estampa; imagem; figura
+ENHANCE	(verbo) melhorar: tornar melhor, aperfeiçoar (também: aprimorar)
+ENHANCED	(forma de enhance) (verbo) melhorar: tornar melhor, aperfeiçoar (também: aprimorar)
+ENHANCEMENT	(substantivo) melhoria: aumento na qualidade (também: aprimoramento)
+ENHANCEMENTS	(forma de enhancement) (substantivo) melhoria: aumento na qualidade (também: aprimoramento)
+ENHANCES	(forma de enhance) (verbo) melhorar: tornar melhor, aperfeiçoar (também: aprimorar)
+ENHANCING	(forma de enhance) (verbo) melhorar: tornar melhor, aperfeiçoar (também: aprimorar)
+ENIGMATICALLY	(advérbio) enigmaticamente: de forma enigmática
+ENJOY	(verbo) gostar: desfrutar, aproveitar
+ENJOYED	(verbo) passado simples do verbo enjoy
+ENJOYING	(verbo) gerúndio do verbo enjoy
+ENJOYS	(verbo) terceira pessoa do singular do verbo enjoy
+ENLACE	(verbo) entrelaçar: confundir
+ENLACED	(forma de enlace) (verbo) entrelaçar: confundir
+ENLACES	(forma de enlace) (verbo) entrelaçar: confundir
+ENLACING	(forma de enlace) (verbo) entrelaçar: confundir
+ENLARGE	(verbo) ampliar: tornar maior, aumentar
+ENLARGED	(forma de enlarge) (verbo) ampliar: tornar maior, aumentar
+ENLARGEMENT	(substantivo) alargamento: ato de alargar
+ENLARGEMENTS	(forma de enlargement) (substantivo) alargamento: ato de alargar
+ENLARGES	(forma de enlarge) (verbo) ampliar: tornar maior, aumentar
+ENLARGING	(forma de enlarge) (verbo) ampliar: tornar maior, aumentar
+ENMITIES	(forma de enmity) (substantivo) inimizade: falta de amizade; ódio, indisposição, malquerença
+ENMITY	(substantivo) inimizade: falta de amizade; ódio, indisposição, malquerença
+ENORMOUS	(adjetivo) enorme: muito grande; extraordinário
+ENORMOUSLY	(advérbio) enormemente: extremamente
+ENOUGH	(advérbio) enough se traduz como ⟪suficientemente⟫, ⟪adequadamente⟫\n(substantivo) enough se traduz como o bastante, o suficiente
+ENOUGHS	(forma de enough) (advérbio) enough se traduz como ⟪suficientemente⟫, ⟪adequadamente⟫
+ENQUIRIES	(forma de enquiry) (substantivo) inquérito: ato de inquirir
+ENQUIRING	(adjetivo) inquisitivo: relativo a inquirição, a inquisição
+ENQUIRY	(substantivo) inquérito: ato de inquirir
+ENRAGE	(verbo) enfurecer: tornar furioso
+ENRAGED	(forma de enrage) (verbo) enfurecer: tornar furioso
+ENRAGES	(forma de enrage) (verbo) enfurecer: tornar furioso
+ENRAGING	(forma de enrage) (verbo) enfurecer: tornar furioso
+ENRAPTURE	(verbo) enrapture se traduz como ⟪enlevar⟫
+ENRAPTURED	(forma de enrapture) (verbo) enrapture se traduz como ⟪enlevar⟫
+ENRAPTURES	(forma de enrapture) (verbo) enrapture se traduz como ⟪enlevar⟫
+ENRAPTURING	(forma de enrapture) (verbo) enrapture se traduz como ⟪enlevar⟫
+ENROL	(verbo) enrol se traduz como matricular-se, inscrever-se
+ENROLL	(verbo) enroll se traduz como registrar-se, inscrever-se, matricular-se
+ENROLLED	(forma de enrol) (verbo) enrol se traduz como matricular-se, inscrever-se
+ENROLLING	(forma de enrol) (verbo) enrol se traduz como matricular-se, inscrever-se
+ENROLLS	(forma de enroll) (verbo) enroll se traduz como registrar-se, inscrever-se, matricular-se
+ENROLS	(forma de enrol) (verbo) enrol se traduz como matricular-se, inscrever-se
+ENSEMBLE	(substantivo) um grupo de coisas distintas, que compõem uma entidade maior
+ENSEMBLES	(forma de ensemble) (substantivo) um grupo de coisas distintas, que compõem uma entidade maior
+ENSIGN	(substantivo) alferes: oficial subalterno do exército e força aérea, o menos graduado (também: tenente de corveta, insígnia)
+ENSIGNS	(forma de ensign) (substantivo) alferes: oficial subalterno do exército e força aérea, o menos graduado (também: tenente de corveta,...
+ENSLAVE	(verbo) escravizar: tornar escravo
+ENSLAVED	(forma de enslave) (verbo) escravizar: tornar escravo
+ENSLAVEMENT	(substantivo) escravidão: estado de sujeição tal como a de um escravo
+ENSLAVEMENTS	(forma de enslavement) (substantivo) escravidão: estado de sujeição tal como a de um escravo
+ENSLAVER	(substantivo) escravizador: alguém que escraviza
+ENSLAVERS	(forma de enslaver) (substantivo) escravizador: alguém que escraviza
+ENSLAVES	(forma de enslave) (verbo) escravizar: tornar escravo
+ENSLAVING	(forma de enslave) (verbo) escravizar: tornar escravo
+ENSURE	(verbo) garantir: afiançar
+ENSURED	(forma de ensure) (verbo) garantir: afiançar
+ENSURES	(forma de ensure) (verbo) garantir: afiançar
+ENSURING	(forma de ensure) (verbo) garantir: afiançar
+ENTANGLE	(verbo) emaranhar: enredar
+ENTANGLED	(forma de entangle) (verbo) emaranhar: enredar
+ENTANGLES	(forma de entangle) (verbo) emaranhar: enredar
+ENTANGLING	(forma de entangle) (verbo) emaranhar: enredar
+ENTELECHIES	(forma de entelechy) (substantivo) entelechy se traduz como entelequia
+ENTELECHY	(substantivo) entelechy se traduz como entelequia
+ENTER	(substantivo) a tecla enter, presente em teclados de computadores\n(verbo) entrar, ir para dentro de algum lugar
+ENTERED	(forma de enter) (substantivo) a tecla enter, presente em teclados de computadores
+ENTERING	(forma de enter) (substantivo) a tecla enter, presente em teclados de computadores
+ENTERPRISE	(substantivo) enterprise se traduz como ⟪empreendimento⟫
+ENTERPRISES	(forma de enterprise) (substantivo) enterprise se traduz como ⟪empreendimento⟫
+ENTERS	(forma de enter) (substantivo) a tecla enter, presente em teclados de computadores
+ENTERTAIN	(verbo) entreter: divertir alguém; proporcionar entretenimento
+ENTERTAINED	(forma de entertain) (verbo) entreter: divertir alguém; proporcionar entretenimento
+ENTERTAINER	(substantivo) animador: aquele que trabalha com desenhos animados (animação) (também: artista)
+ENTERTAINERS	(forma de entertainer) (substantivo) animador: aquele que trabalha com desenhos animados (animação) (também: artista)
+ENTERTAINING	(adjetivo) divertido: distraído
+ENTERTAINMENT	(substantivo) diversão: divertimento, o ato de se divertir (também: entretenimento)
+ENTERTAINMENTS	(forma de entertainment) (substantivo) diversão: divertimento, o ato de se divertir (também: entretenimento)
+ENTERTAINS	(forma de entertain) (verbo) entreter: divertir alguém; proporcionar entretenimento
+ENTHALPIES	(forma de enthalpy) (substantivo) entalpia: grandeza física que busca medir a totalidade de energia atrelada a um sistema termodinâmico,...
+ENTHALPY	(substantivo) entalpia: grandeza física que busca medir a totalidade de energia atrelada a um sistema termodinâmico, incluso energia armazenada em interações com a vizinhança; é particularmente útil no estudo de transformações a pressão constante, situação na qual a variação de entalpia iguala-se à energia recebida pelo...
+ENTHRONE	(verbo) enthrone se traduz como ⟪entronar⟫
+ENTHRONED	(forma de enthrone) (verbo) enthrone se traduz como ⟪entronar⟫
+ENTHRONES	(forma de enthrone) (verbo) enthrone se traduz como ⟪entronar⟫
+ENTHRONING	(forma de enthrone) (verbo) enthrone se traduz como ⟪entronar⟫
+ENTHUSIASM	(substantivo) entusiasmo: veemência, vigor
+ENTHUSIASMS	(forma de enthusiasm) (substantivo) entusiasmo: veemência, vigor
+ENTHUSIAST	(adjetivo) entusiasta: quem se dedica vivamente a alguma coisa, ou por ela se exalta, se toma de arrebatamento, se entusiasma\n(substantivo) entusiasta: quem se dedica vivamente a alguma coisa, ou por ela se exalta, se toma de arrebatamento, se entusiasma
+ENTHUSIASTIC	(adjetivo) entusiástico: entusiasmado, com veemência, vigor
+ENTHUSIASTICALLY	(advérbio) entusiasticamente: de forma entusiástica, com entusiasmo (também: empolgadamente, entusiasmadamente)
+ENTHUSIASTS	(forma de enthusiast) (adjetivo) entusiasta: quem se dedica vivamente a alguma coisa, ou por ela se exalta, se toma de arrebatamento, se...
+ENTICINGLY	(advérbio) aliciantemente: de forma aliciante
+ENTIRE	(adjetivo) inteiro: diz-se de número que não possui parte fracionária
+ENTIRELY	(advérbio) inteiramente: na totalidade, integralmente, completamente: (também: completamente, totalmente)
+ENTIRES	(forma de entire) (adjetivo) inteiro: diz-se de número que não possui parte fracionária
+ENTITIES	(forma de entity) (substantivo) entidade: ente; ser; indivíduo distinto e independente
+ENTITLE	(verbo) intitular: dar título a uma pessoa ou objeto
+ENTITLED	(adjetivo) beneficiário: aquele que recebe determinado benefício (também: beneficiária, beneficiário efetivo)
+ENTITLES	(forma de entitle) (verbo) intitular: dar título a uma pessoa ou objeto
+ENTITLING	(forma de entitle) (verbo) intitular: dar título a uma pessoa ou objeto
+ENTITY	(substantivo) entidade: ente; ser; indivíduo distinto e independente
+ENTOMOLOGIES	(forma de entomology) (substantivo) entomologia: parte da zoologia que estuda os insetos
+ENTOMOLOGIST	(substantivo) entomólogo: aquele que estuda a entomologia, ou seja, os insetos. (também: entomologista)
+ENTOMOLOGISTS	(forma de entomologist) (substantivo) entomólogo: aquele que estuda a entomologia, ou seja, os insetos. (também: entomologista)
+ENTOMOLOGY	(substantivo) entomologia: parte da zoologia que estuda os insetos
+ENTOURAGE	(substantivo) grupo de profissionais que assessora uma pessoa muito importante
+ENTOURAGES	(forma de entourage) (substantivo) grupo de profissionais que assessora uma pessoa muito importante
+ENTRANCE	(substantivo) entrada: lugar onde se entra; porta; portão (também: porta)
+ENTRANCED	(forma de entrance) (substantivo) entrada: lugar onde se entra; porta; portão (também: porta)
+ENTRANCES	(forma de entrance) (substantivo) entrada: lugar onde se entra; porta; portão (também: porta)
+ENTRANCING	(forma de entrance) (substantivo) entrada: lugar onde se entra; porta; portão (também: porta)
+ENTRANT	(substantivo) entrant se traduz como ⟪participante⟫
+ENTRANTS	(forma de entrant) (substantivo) entrant se traduz como ⟪participante⟫
+ENTREPRENEUR	(substantivo) empresário: aquele que dirige uma empresa ou a administra
+ENTREPRENEURS	(forma de entrepreneur) (substantivo) empresário: aquele que dirige uma empresa ou a administra
+ENTRIES	(forma de entry) (substantivo) entrada: ato de entrar; admissão
+ENTROPIES	(forma de entropy) (substantivo) entropy se traduz como ⟪entropia⟫
+ENTROPY	(substantivo) entropy se traduz como ⟪entropia⟫
+ENTRUST	(verbo) confiar: ter confiança
+ENTRUSTED	(forma de entrust) (verbo) confiar: ter confiança
+ENTRUSTING	(forma de entrust) (verbo) confiar: ter confiança
+ENTRUSTS	(forma de entrust) (verbo) confiar: ter confiança
+ENTRY	(substantivo) entrada: ato de entrar; admissão
+ENUNCIATE	(verbo) enunciar: exprimir
+ENUNCIATED	(forma de enunciate) (verbo) enunciar: exprimir
+ENUNCIATES	(forma de enunciate) (verbo) enunciar: exprimir
+ENUNCIATING	(forma de enunciate) (verbo) enunciar: exprimir
+ENUNCIATION	(substantivo) enunciation se traduz como ⟪enunciação|ENUNCIAÇAO⟫
+ENUNCIATIONS	(forma de enunciation) (substantivo) enunciation se traduz como ⟪enunciação|ENUNCIAÇAO⟫
+ENVELOPE	(substantivo) envelope se traduz como ⟪envelope⟫
+ENVELOPES	(forma de envelope) (substantivo) envelope se traduz como ⟪envelope⟫
+ENVIABLY	(advérbio) invejavelmente: de forma invejável
+ENVIED	(forma de envy) (substantivo) envy se traduz como ⟪inveja⟫, ⟪invídia|INVIDIA⟫
+ENVIES	(forma de envy) (substantivo) envy se traduz como ⟪inveja⟫, ⟪invídia|INVIDIA⟫
+ENVIOUS	(adjetivo) envious se traduz como ⟪invejoso⟫
+ENVIOUSLY	(advérbio) invejosamente: de modo invejoso
+ENVIRON	(verbo) circundar: cercar (também: rodear)
+ENVIRONED	(forma de environ) (verbo) circundar: cercar (também: rodear)
+ENVIRONING	(forma de environ) (verbo) circundar: cercar (também: rodear)
+ENVIRONMENT	(substantivo) ambiente: tudo aquilo que envolve os seres vivos ou as coisas
+ENVIRONMENTAL	(adjetivo) ambiental: relativo ao ambiente
+ENVIRONMENTALIST	(substantivo) ambientalista: aquele que faz do estudo e/ou defesa do meio ambiente a sua profissão
+ENVIRONMENTALISTS	(forma de environmentalist) (substantivo) ambientalista: aquele que faz do estudo e/ou defesa do meio ambiente a sua profissão
+ENVIRONMENTALLY	(advérbio) ambientalmente: de modo ambiental
+ENVIRONMENTS	(forma de environment) (substantivo) ambiente: tudo aquilo que envolve os seres vivos ou as coisas
+ENVIRONS	(forma de environ) (verbo) circundar: cercar (também: rodear)
+ENVOY	(substantivo) enviado: pessoa credenciada (embaixador, delegado, etc.), mandada em missão diplomática ou não (também: mensageiro)
+ENVOYS	(forma de envoy) (substantivo) enviado: pessoa credenciada (embaixador, delegado, etc.), mandada em missão diplomática ou não (também:...
+ENVY	(substantivo) envy se traduz como ⟪inveja⟫, ⟪invídia|INVIDIA⟫\n(verbo) invejar: cobiçar ardentemente (aquilo que pertence a outrem)
+ENVYING	(forma de envy) (substantivo) envy se traduz como ⟪inveja⟫, ⟪invídia|INVIDIA⟫
+ENZYME	(substantivo) enzima: proteína que atua como catalisador
+ENZYMES	(forma de enzyme) (substantivo) enzima: proteína que atua como catalisador
+EON	(substantivo) éon: eternidade, período de tempo não mensurável
+EONS	(forma de eon) (substantivo) éon: eternidade, período de tempo não mensurável
+EPARCHIES	(forma de eparchy) (substantivo) eparchy se traduz como ⟪eparquia⟫
+EPARCHY	(substantivo) eparchy se traduz como ⟪eparquia⟫
+EPENDYMA	(substantivo) epêndima: membrana que reveste o canal interno da medula espinhal e os ventrículos cerebrais
+EPENDYMAS	(forma de ependyma) (substantivo) epêndima: membrana que reveste o canal interno da medula espinhal e os ventrículos cerebrais
+EPENTHESES	(forma de epenthesis) (substantivo) epêntese: metaplasmo que consiste na adição de um ou mais fonemas no interior de uma palavra (por...
+EPENTHESIS	(substantivo) epêntese: metaplasmo que consiste na adição de um ou mais fonemas no interior de uma palavra (por exemplo, do latim foedus > feo > feio; do espanhol cangrejo > caranguejo)
+EPEXEGESIS	(substantivo) epexegesis se traduz como ⟪epexegese⟫
+EPHEDRINE	(substantivo) efedrina; alcalóide encontrado em algumas espécies de arbustos Ephedra (ou preparado sinteticamente), usado como droga simpatomimética (que estimula o sistema nervoso simpático)
+EPHEDRINES	(forma de ephedrine) (substantivo) efedrina; alcalóide encontrado em algumas espécies de arbustos Ephedra (ou preparado sinteticamente),...
+EPHEMERAL	(adjetivo) ephemeral se traduz como ⟪efémero|EFEMERO⟫
+EPHEMERALLY	(advérbio) efemeramente: de modo efémero
+EPHEMERALS	(forma de ephemeral) (adjetivo) ephemeral se traduz como ⟪efémero|EFEMERO⟫
+EPIC	(substantivo) épico: poema que narra a história dos heróis (também: epopeia)\n(adjetivo) épico: poema que narra a história dos heróis
+EPICALLY	(advérbio) epicamente: de modo épico
+EPICARP	(substantivo) epicarpo: camada mais externa do pericarpo a qual corresponde à epiderme da página exterior ou inferior da(s) folha(s) carpelar(es)
+EPICARPS	(forma de epicarp) (substantivo) epicarpo: camada mais externa do pericarpo a qual corresponde à epiderme da página exterior ou inferior...
+EPICENTER	(substantivo) epicentro: ponto na superfície da Terra diretamente acima do foco ou hipocentro de um terramoto/terremoto, normalmente sendo o local afetado com maior intensidade
+EPICENTERS	(forma de epicenter) (substantivo) epicentro: ponto na superfície da Terra diretamente acima do foco ou hipocentro de um...
+EPICS	(forma de epic) (substantivo) épico: poema que narra a história dos heróis (também: epopeia)
+EPICUREANISM	(substantivo) epicureanism se traduz como ⟪epicurismo⟫
+EPICUREANISMS	(forma de epicureanism) (substantivo) epicureanism se traduz como ⟪epicurismo⟫
+EPIDEMIC	(substantivo) epidemia: ocorrência repentina de muitos casos de uma doença
+EPIDEMICALLY	(advérbio) epidemicamente: de modo epidémico
+EPIDEMICS	(forma de epidemic) (substantivo) epidemia: ocorrência repentina de muitos casos de uma doença
+EPIDEMIOLOGICALLY	(advérbio) epidemiologicamente: de modo epidemiológico
+EPIDERMIS	(substantivo) epiderme: conjunto de células que cobre a derme e que com ela forma a pele
+EPIDERMISES	(forma de epidermis) (substantivo) epiderme: conjunto de células que cobre a derme e que com ela forma a pele
+EPIDIDYMIDES	(forma de epididymis) (substantivo) epidídimo: pequeno ducto que coleta e armazena os espermatozoides produzidos pelo testículo; localiza-se...
+EPIDIDYMIS	(substantivo) epidídimo: pequeno ducto que coleta e armazena os espermatozoides produzidos pelo testículo; localiza-se atrás do testículo, no saco escrotal, e desemboca na base do ducto deferente
+EPIGEAL	(adjetivo) epígeo: situado acima do solo
+EPIGENESIS	(substantivo) epigênese: mudanças ocorridas no conteúdo mineral da rocha após sua formação, causadas por fatores externos como a penetração por intrusão
+EPIGEOUS	(adjetivo) epigeous se traduz como ⟪epígeo|EPIGEO⟫
+EPIGRAPH	(substantivo) epígrafe: citação no começo de um livro ou de um capítulo
+EPIGRAPHER	(forma de epigraph) (substantivo) epígrafe: citação no começo de um livro ou de um capítulo
+EPIGRAPHICALLY	(advérbio) epigraficamente: de modo epigráfico
+EPIGRAPHS	(forma de epigraph) (substantivo) epígrafe: citação no começo de um livro ou de um capítulo
+EPILATION	(substantivo) epilação: perda ou remoção de cabelos ou pelos, qualquer que seja a causa ou motivo
+EPILATIONS	(forma de epilation) (substantivo) epilação: perda ou remoção de cabelos ou pelos, qualquer que seja a causa ou motivo
+EPILOGUE	(substantivo) epílogo: o último ato ou cena de uma peça
+EPILOGUED	(forma de epilogue) (substantivo) epílogo: o último ato ou cena de uma peça
+EPILOGUES	(forma de epilogue) (substantivo) epílogo: o último ato ou cena de uma peça
+EPILOGUING	(forma de epilogue) (substantivo) epílogo: o último ato ou cena de uma peça
+EPINEPHRINE	(substantivo) adrenalina: hormônio derivado da tirosina, secretado pelas glândulas supra-renais; sua fórmula química é C₉H₁₃O₃N
+EPINEPHRINES	(forma de epinephrine) (substantivo) adrenalina: hormônio derivado da tirosina, secretado pelas glândulas supra-renais; sua fórmula química é...
+EPIPHANIES	(forma de epiphany) (substantivo) epifania: aparição ou manifestação, em especial de alguma divindade
+EPIPHANY	(substantivo) epifania: aparição ou manifestação, em especial de alguma divindade
+EPIPHYTICALLY	(advérbio) epifiticamente: de forma epifítica
+EPISCOPAL	(adjetivo) episcopal: relativo ao bispo
+EPISODE	(substantivo) episódio: incidente ou série de eventos que ocorre numa história mais longa
+EPISODES	(forma de episode) (substantivo) episódio: incidente ou série de eventos que ocorre numa história mais longa
+EPISODICALLY	(advérbio) episodicamente: de modo episódico
+EPISTAXIS	(substantivo) epistaxe: sangramento proveniente do interior do nariz; hemorragia nasal
+EPISTEMIC	(adjetivo) epistêmico: relativo ou próprio da episteme e da epistemologia
+EPISTEMOLOGICAL	(adjetivo) epistemológico: relativo à epistemologia
+EPISTEMOLOGIES	(forma de epistemology) (substantivo) epistemologia: teoria do conhecimento; estudo que visa explicar a origem, justificação e fundamentação do...
+EPISTEMOLOGIST	(substantivo) epistemologist se traduz como epistemólogo
+EPISTEMOLOGISTS	(forma de epistemologist) (substantivo) epistemologist se traduz como epistemólogo
+EPISTEMOLOGY	(substantivo) epistemologia: teoria do conhecimento; estudo que visa explicar a origem, justificação e fundamentação do conhecimento
+EPISTLE	(substantivo) epístola: composição poética, em forma de carta (também: carta)
+EPISTLES	(forma de epistle) (substantivo) epístola: composição poética, em forma de carta (também: carta)
+EPISTOLARIES	(forma de epistolary) (adjetivo) epistolar: próprio da epístola ou do gênero literário cuja forma é a carta
+EPISTOLARY	(adjetivo) epistolar: próprio da epístola ou do gênero literário cuja forma é a carta
+EPITHELIAL	(adjetivo) epitelial: relativo ao epitélio
+EPITHET	(substantivo) epithet se traduz como ⟪epíteto|EPITETO⟫
+EPITHETS	(forma de epithet) (substantivo) epithet se traduz como ⟪epíteto|EPITETO⟫
+EPITOME	(substantivo) epitome se traduz como ⟪epítome|EPITOME⟫
+EPITOMES	(forma de epitome) (substantivo) epitome se traduz como ⟪epítome|EPITOME⟫
+EPOCH	(substantivo) época: momento da história marcado por um acontecimento importante
+EPOCHS	(forma de epoch) (substantivo) época: momento da história marcado por um acontecimento importante
+EPOXIES	(forma de epoxy) (substantivo) epóxi: plástico termofixo que se endurece quando se mistura com um agente catalisador ou endurecedor
+EPOXY	(substantivo) epóxi: plástico termofixo que se endurece quando se mistura com um agente catalisador ou endurecedor
+EPOXYED	(forma de epoxy) (substantivo) epóxi: plástico termofixo que se endurece quando se mistura com um agente catalisador ou endurecedor
+EPOXYING	(forma de epoxy) (substantivo) epóxi: plástico termofixo que se endurece quando se mistura com um agente catalisador ou endurecedor
+EQUAL	(adjetivo) idêntico: igual a (também: igual)\n(substantivo) pessoa ou coisa igual a outros
+EQUALED	(forma de equal) (adjetivo) idêntico: igual a (também: igual)
+EQUALING	(forma de equal) (adjetivo) idêntico: igual a (também: igual)
+EQUALITARIAN	(substantivo) partidário do igualitarismo; igualitário
+EQUALITARIANISM	(substantivo) igualitarismo: sistema político e filosófico que prega a igualdade entre todos
+EQUALITARIANISMS	(forma de equalitarianism) (substantivo) igualitarismo: sistema político e filosófico que prega a igualdade entre todos
+EQUALITARIANS	(forma de equalitarian) (substantivo) partidário do igualitarismo; igualitário
+EQUALITIES	(forma de equality) (substantivo) igualdade: qualidade do que é igual
+EQUALITY	(substantivo) igualdade: qualidade do que é igual
+EQUALLED	(forma de equal) (adjetivo) idêntico: igual a (também: igual)
+EQUALLING	(forma de equal) (adjetivo) idêntico: igual a (também: igual)
+EQUALLY	(advérbio) igualmente: de maneira semelhante, igual
+EQUALS	(substantivo) forma plural de equal:\n(verbo) terceira pessoa do singular do presente do indicativo do verbo equal:
+EQUANIMITIES	(forma de equanimity) (substantivo) equanimity se traduz como ⟪equanimidade⟫
+EQUANIMITY	(substantivo) equanimity se traduz como ⟪equanimidade⟫
+EQUATION	(substantivo) equação: igualdade entre duas expressões matemáticas que se verifica para determinados valores das variáveis
+EQUATIONS	(forma de equation) (substantivo) equação: igualdade entre duas expressões matemáticas que se verifica para determinados valores das...
+EQUATOR	(substantivo) equador: círculo máximo da esfera terrestre, dividindo-a perpendicularmente ao eixo de rotação e equidistante dos polos , parte dos círculos máximos que formam o horizonte verdadeiro do homem no pólo, projetado na esfera celeste
+EQUATORIAL	(adjetivo) equatorial se traduz como ⟪equatorial⟫
+EQUATORS	(forma de equator) (substantivo) equador: círculo máximo da esfera terrestre, dividindo-a perpendicularmente ao eixo de rotação e...
+EQUESTRIAN	(adjetivo) equestrian se traduz como ⟪equestre⟫, ⟪hípico|HIPICO⟫
+EQUESTRIANS	(forma de equestrian) (adjetivo) equestrian se traduz como ⟪equestre⟫, ⟪hípico|HIPICO⟫
+EQUIDISTANTLY	(advérbio) equidistantemente: de forma equidistante
+EQUILIBRATE	(verbo) equilibrar: estabelecer, manter ou restabelecer o equilíbrio:
+EQUILIBRATED	(verbo) particípio passado do verbo equilibrate: equilibrar
+EQUILIBRATES	(forma de equilibrate) (verbo) equilibrar: estabelecer, manter ou restabelecer o equilíbrio:
+EQUILIBRATING	(forma de equilibrate) (verbo) equilibrar: estabelecer, manter ou restabelecer o equilíbrio:
+EQUILIBRIA	(forma de equilibrium) (substantivo) equilíbrio: o estado de descanso ou estabilidade devido à ação igual de forças opostas
+EQUILIBRIUM	(substantivo) equilíbrio: o estado de descanso ou estabilidade devido à ação igual de forças opostas
+EQUILIBRIUMS	(forma de equilibrium) (substantivo) equilíbrio: o estado de descanso ou estabilidade devido à ação igual de forças opostas
+EQUINE	(adjetivo) equine se traduz como ⟪equino⟫
+EQUINELY	(forma de equine) (adjetivo) equine se traduz como ⟪equino⟫
+EQUINES	(forma de equine) (adjetivo) equine se traduz como ⟪equino⟫
+EQUINOX	(substantivo) equinócio: momento em que o Sol se encontra na vertical sobre o equador fazendo que os dias sejam iguais às noites em toda a Terra
+EQUINOXES	(forma de equinox) (substantivo) equinócio: momento em que o Sol se encontra na vertical sobre o equador fazendo que os dias sejam iguais...
+EQUIPMENT	(substantivo) equipment se traduz como ⟪equipamento⟫
+EQUIPMENTS	(forma de equipment) (substantivo) equipment se traduz como ⟪equipamento⟫
+EQUITATION	(substantivo) equitação: técnica ou exercício de andar a cavalo
+EQUITATIONS	(forma de equitation) (substantivo) equitação: técnica ou exercício de andar a cavalo
+EQUIVALENCE	(substantivo) equivalência: qualidade daquilo que é equivalente
+EQUIVALENCES	(forma de equivalence) (substantivo) equivalência: qualidade daquilo que é equivalente
+EQUIVALENT	(adjetivo) equivalente: igual em valor, medida, força, efeito, significado etc
+EQUIVALENTLY	(advérbio) equivalentemente: de forma equivalente
+EQUIVALENTS	(forma de equivalent) (adjetivo) equivalente: igual em valor, medida, força, efeito, significado etc
+EQUIVOCALLY	(advérbio) equivocamente: de forma equívoca
+EQUIVOCATION	(substantivo) quiproquó: equívoco de palavras
+EQUIVOCATIONS	(forma de equivocation) (substantivo) quiproquó: equívoco de palavras
+ERA	(substantivo) era, período indeterminado de tempo, geralmente superior a um ano
+ERADICATION	(substantivo) eradication se traduz como ⟪erradicação|ERRADICAÇAO⟫
+ERADICATIONS	(forma de eradication) (substantivo) eradication se traduz como ⟪erradicação|ERRADICAÇAO⟫
+ERAS	(substantivo) forma plural de era: (eras)
+ERASABLE	(adjetivo) apagável: que se consegue apagar
+ERASE	(verbo) apagar: fazer desaparecer (raspando, etc.)
+ERASED	(forma de erase) (verbo) apagar: fazer desaparecer (raspando, etc.)
+ERASER	(substantivo) borracha: artigo feito de látex usado para apagar escritos em papel feitos com grafite
+ERASERS	(forma de eraser) (substantivo) borracha: artigo feito de látex usado para apagar escritos em papel feitos com grafite
+ERASES	(forma de erase) (verbo) apagar: fazer desaparecer (raspando, etc.)
+ERASING	(forma de erase) (verbo) apagar: fazer desaparecer (raspando, etc.)
+ERASURE	(substantivo) apagamento: ação de fazer cessar, desaparecer, eliminar algo (ou alguém) (também: exclusão)
+ERASURES	(forma de erasure) (substantivo) apagamento: ação de fazer cessar, desaparecer, eliminar algo (ou alguém) (também: exclusão)
+ERBIUM	(substantivo) érbio: elemento químico de símbolo Er, possui o número atômico 68 e massa atômica relativa 167,259 u; é um metal de transição interna (lantanídeo) de cor branco prateado; é obtido de minerais euxenita e a areia monazítica; é empregado como aditivo para ligas metálicas, no desenvolvimento de novos lasers e...
+ERBIUMS	(forma de erbium) (substantivo) érbio: elemento químico de símbolo Er, possui o número atômico 68 e massa atômica relativa 167,259 u; é...
+ERECTION	(substantivo) ereção: aumento de volume, comprimento e turgidez do pênis, que ocorre quando os corpos cavernosos são inundados por uma grande quantidade de sangue
+ERECTIONS	(forma de erection) (substantivo) ereção: aumento de volume, comprimento e turgidez do pênis, que ocorre quando os corpos cavernosos são...
+ERGONOMIC	(adjetivo) ergonómico ^((português europeu)) ou ergonômico ^((português do Brasil))
+ERGONOMICS	(substantivo) ergonomics se traduz como ⟪ergonomia⟫
+ERMINE	(substantivo) arminho: carnívoro mustelídeo de pequeno porte cujo nome científico é (Mustela erminea); pertence ao grupo das doninhas
+ERMINES	(forma de ermine) (substantivo) arminho: carnívoro mustelídeo de pequeno porte cujo nome científico é (Mustela erminea); pertence ao...
+ERODE	(verbo) erodir: ser afetado por erosão
+ERODED	(forma de erode) (verbo) erodir: ser afetado por erosão
+ERODES	(forma de erode) (verbo) erodir: ser afetado por erosão
+ERODING	(forma de erode) (verbo) erodir: ser afetado por erosão
+EROSION	(substantivo) erosion se traduz como ⟪erosão|EROSAO⟫
+EROSIONS	(forma de erosion) (substantivo) erosion se traduz como ⟪erosão|EROSAO⟫
+EROTICISM	(substantivo) erotismo: qualidade de erótico
+EROTICISMS	(forma de eroticism) (substantivo) erotismo: qualidade de erótico
+EROTICIZED	(adjetivo) erotizado: que foi feito ou tornou-se erótico, sexual, pornográfico
+ERR	(interjeição) errado, engano, engano o seu\n(verbo) errar: equivocar-se
+ERRAND	(substantivo) encargo: cargo
+ERRANDS	(forma de errand) (substantivo) encargo: cargo
+ERRANT	(adjetivo) errant se traduz como ⟪errante⟫
+ERRANTLY	(forma de errant) (adjetivo) errant se traduz como ⟪errante⟫
+ERRANTS	(forma de errant) (adjetivo) errant se traduz como ⟪errante⟫
+ERRATICALLY	(advérbio) erraticamente: de forma errática
+ERRED	(forma de err) (interjeição) errado, engano, engano o seu
+ERRING	(forma de err) (interjeição) errado, engano, engano o seu
+ERRONEOUS	(adjetivo) errôneo: que contém erro
+ERRONEOUSLY	(advérbio) erroneamente: de modo erróneo
+ERROR	(substantivo) error se traduz como ⟪erro⟫\n(verbo) errar: deixar de ter em atenção e/ou de importunar
+ERRORS	(forma de error) (substantivo) error se traduz como ⟪erro⟫
+ERRS	(forma de err) (interjeição) errado, engano, engano o seu
+ERUDITION	(substantivo) erudition se traduz como ⟪erudição|ERUDIÇAO⟫
+ERUDITIONS	(forma de erudition) (substantivo) erudition se traduz como ⟪erudição|ERUDIÇAO⟫
+ERUPTION	(substantivo) erupção: o ato de algo sair com força e repentinamente de dentro de outra coisa
+ERUPTIONS	(forma de eruption) (substantivo) erupção: o ato de algo sair com força e repentinamente de dentro de outra coisa
+ERYSIPELAS	(substantivo) erisipela: infecção cutânea que afeta a humanos, causada geralmente por bactérias de tipo streptococcus do grupo A e aureus
+ERYSIPELASES	(forma de erysipelas) (substantivo) erisipela: infecção cutânea que afeta a humanos, causada geralmente por bactérias de tipo streptococcus...
+ERYTHROCYTE	(substantivo) hemácia: célula vermelha, presente no sangue, responsável pelo transporte de oxigênio para as células (também: eritrócito)
+ERYTHROCYTES	(forma de erythrocyte) (substantivo) hemácia: célula vermelha, presente no sangue, responsável pelo transporte de oxigênio para as células...
+ESCALATOR	(substantivo) escalator se traduz como escada rolante
+ESCALATORS	(forma de escalator) (substantivo) escalator se traduz como escada rolante
+ESCAPE	(substantivo) e ato de [escapar] ou fugir\n(verbo) escapar: fugir de confinamento, ganhar ou reaver a liberdade
+ESCAPED	(adjetivo) fugitivo: que evita convivência; esquivo\n(verbo) passado simples e particípio do verbo escape: e ato de [escapar] ou fugir
+ESCAPES	(substantivo) plural de escape: e ato de [escapar] ou fugir\n(verbo) terceira pessoa do singular do verbo escape: e ato de [escapar] ou fugir
+ESCAPING	(verbo) gerúndio do verbo escape: e ato de [escapar] ou fugir
+ESCAPISM	(substantivo) escapismo: por metonímia, esse desvio ou digressão mental de defesa
+ESCAPISMS	(forma de escapism) (substantivo) escapismo: por metonímia, esse desvio ou digressão mental de defesa
+ESCHAR	(substantivo) crosta: superfície dura resultante da primária cicatrização de um ferimento, sendo constituída principalmente por sangue coagulado e plasma sanguíneo
+ESCHARS	(forma de eschar) (substantivo) crosta: superfície dura resultante da primária cicatrização de um ferimento, sendo constituída...
+ESCHATOLOGICALLY	(advérbio) escatologicamente: de modo escatológico
+ESCHEW	(verbo) renegar: abandonar uma religião para seguir outra; descrer
+ESCHEWED	(forma de eschew) (verbo) renegar: abandonar uma religião para seguir outra; descrer
+ESCHEWING	(forma de eschew) (verbo) renegar: abandonar uma religião para seguir outra; descrer
+ESCHEWS	(forma de eschew) (verbo) renegar: abandonar uma religião para seguir outra; descrer
+ESCORT	(verbo) escort se traduz como ⟪escoltar⟫\n(substantivo) acompanhante: indivíduo que pratica a prostituição
+ESCORTED	(forma de escort) (verbo) escort se traduz como ⟪escoltar⟫
+ESCORTING	(forma de escort) (verbo) escort se traduz como ⟪escoltar⟫
+ESCORTS	(forma de escort) (verbo) escort se traduz como ⟪escoltar⟫
+ESCROW	(substantivo) fideicomisso: estipulação testamentária onde o testador constitui uma pessoa como legatário ou herdeiro, mas impõe que, uma vez verificada certa condição, deverá transmitir a outra pessoa, por ele indicada, o legado ou a herança; substituição, fideicomissória
+ESCROWED	(forma de escrow) (substantivo) fideicomisso: estipulação testamentária onde o testador constitui uma pessoa como legatário ou herdeiro,...
+ESCROWING	(forma de escrow) (substantivo) fideicomisso: estipulação testamentária onde o testador constitui uma pessoa como legatário ou herdeiro,...
+ESCROWS	(forma de escrow) (substantivo) fideicomisso: estipulação testamentária onde o testador constitui uma pessoa como legatário ou herdeiro,...
+ESCUTCHEON	(substantivo) escudo: brasão, insígnia que identifica uma família, uma facção
+ESCUTCHEONS	(forma de escutcheon) (substantivo) escudo: brasão, insígnia que identifica uma família, uma facção
+ESOTERIC	(adjetivo) esotérico: diz-se daquilo que é compreendido por apenas uns poucos escolhidos
+ESOTERICALLY	(advérbio) esotericamente: de maneira esotérica
+ESPECIALLY	(advérbio) especialmente: particularmente
+ESPIONAGE	(substantivo) espionagem: ato de espionar
+ESPIONAGES	(forma de espionage) (substantivo) espionagem: ato de espionar
+ESPOUSAL	(substantivo) esponsal: ajuste para celebrar-se núpcias ou o contrato para tal
+ESPOUSALS	(forma de espousal) (substantivo) esponsal: ajuste para celebrar-se núpcias ou o contrato para tal
+ESPRESSO	(substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café
+ESPRESSOS	(forma de espresso) (substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café
+ESS	(substantivo) ess se traduz como ⟪esse⟫
+ESSAY	(substantivo) ensaio: obra literária em que se analisam ideias profundamente meditadas\n(verbo) ensaiar: tentar, experimentar (também: tentar)
+ESSAYED	(forma de essay) (substantivo) ensaio: obra literária em que se analisam ideias profundamente meditadas
+ESSAYING	(forma de essay) (substantivo) ensaio: obra literária em que se analisam ideias profundamente meditadas
+ESSAYIST	(substantivo) ensaísta: pessoa que escreve ensaios
+ESSAYISTS	(forma de essayist) (substantivo) ensaísta: pessoa que escreve ensaios
+ESSAYS	(forma de essay) (substantivo) ensaio: obra literária em que se analisam ideias profundamente meditadas
+ESSENCE	(substantivo) essência: ideia principal
+ESSENCES	(forma de essence) (substantivo) essência: ideia principal
+ESSENTIAL	(adjetivo) essencial: relativo à essência, ao fundamental\n(substantivo) essencial: relativo à essência, ao fundamental
+ESSENTIALLY	(advérbio) essencialmente: na essência (também: em essência)
+ESSENTIALS	(forma de essential) (adjetivo) essencial: relativo à essência, ao fundamental
+ESTABLISHMENT	(substantivo) estabelecimento: ação ou resultado de estabelecer
+ESTABLISHMENTS	(forma de establishment) (substantivo) estabelecimento: ação ou resultado de estabelecer
+ESTIMATE	(substantivo) estimativa: avaliação ou cálculo aproximado de algo; estima, estimação (também: cálculo)
+ESTIMATED	(forma de estimate) (substantivo) estimativa: avaliação ou cálculo aproximado de algo; estima, estimação (também: cálculo)
+ESTIMATES	(forma de estimate) (substantivo) estimativa: avaliação ou cálculo aproximado de algo; estima, estimação (também: cálculo)
+ESTIMATING	(forma de estimate) (substantivo) estimativa: avaliação ou cálculo aproximado de algo; estima, estimação (também: cálculo)
+ESTROGEN	(substantivo) estrógeno: qualquer hormônio natural ou sintético de um grupo química e funcionalmente semelhante ao estradiol
+ESTROGENS	(forma de estrogen) (substantivo) estrógeno: qualquer hormônio natural ou sintético de um grupo química e funcionalmente semelhante ao...
+ESTRUS	(substantivo) cio: período de maior apetite sexual e fertilidade de certos animais
+ESTRUSES	(forma de estrus) (substantivo) cio: período de maior apetite sexual e fertilidade de certos animais
+ESTUARIES	(forma de estuary) (substantivo) estuário: sinuosidade ou baía, formada por um rio, perto do mar, e na qual se confunde a água salgada com...
+ESTUARINE	(adjetivo) estuarino: relativo a estuário
+ESTUARY	(substantivo) estuário: sinuosidade ou baía, formada por um rio, perto do mar, e na qual se confunde a água salgada com a doce
+ETERNAL	(adjetivo) eterno: que tem duração indefinida
+ETERNALS	(forma de eternal) (adjetivo) eterno: que tem duração indefinida
+ETERNITIES	(forma de eternity) (substantivo) eternidade: duração sem princípio nem fim
+ETERNITY	(substantivo) eternidade: duração sem princípio nem fim
+ETHANOL	(substantivo) ethanol se traduz como ⟪etanol⟫
+ETHANOLS	(forma de ethanol) (substantivo) ethanol se traduz como ⟪etanol⟫
+ETHER	(substantivo) éter: espaço celeste, universo, líquido hipotético de sustentação celestial
+ETHEREAL	(adjetivo) etéreo: imaterial ou de uma materialidade quintessenciada
+ETHEREALLY	(advérbio) etereamente: de forma etérea
+ETHERS	(forma de ether) (substantivo) éter: espaço celeste, universo, líquido hipotético de sustentação celestial
+ETHICAL	(adjetivo) ético: relativo à ética ou à moral
+ETHICALLY	(advérbio) eticamente: de forma ética
+ETHICALS	(forma de ethical) (adjetivo) ético: relativo à ética ou à moral
+ETHICS	(substantivo) ethics se traduz como ⟪ética|ETICA⟫
+ETHNIC	(adjetivo) étnico: pertencente ou relativo a uma etnia
+ETHNICALLY	(advérbio) etnicamente: de modo étnico
+ETHNICS	(forma de ethnic) (adjetivo) étnico: pertencente ou relativo a uma etnia
+ETHNOCENTRISM	(substantivo) ethnocentrism se traduz como ⟪etnocentrismo⟫
+ETHNOCENTRISMS	(forma de ethnocentrism) (substantivo) ethnocentrism se traduz como ⟪etnocentrismo⟫
+ETHNOGRAPHICALLY	(advérbio) etnograficamente: de modo etnográfico
+ETHNOLOGIES	(forma de ethnology) (substantivo) ethnology se traduz como ⟪etnologia⟫
+ETHNOLOGY	(substantivo) ethnology se traduz como ⟪etnologia⟫
+ETHOLOGIES	(forma de ethology) (substantivo) etologia: disciplina que estuda o comportamento animal
+ETHOLOGY	(substantivo) etologia: disciplina que estuda o comportamento animal
+ETHOS	(substantivo) etos: os valores e ideologias de um movimento cultural
+ETHOSES	(forma de ethos) (substantivo) etos: os valores e ideologias de um movimento cultural
+ETHYLENE	(substantivo) ethylene se traduz como ⟪etileno⟫
+ETHYLENES	(forma de ethylene) (substantivo) ethylene se traduz como ⟪etileno⟫
+ETIOLOGIES	(forma de etiology) (substantivo) etiologia: estudo sobre as causas ou origens
+ETIOLOGY	(substantivo) etiologia: estudo sobre as causas ou origens
+ETIQUETTE	(substantivo) etiqueta: conjunto de normas e regras usadas na sociedade; boas maneiras
+ETIQUETTES	(forma de etiquette) (substantivo) etiqueta: conjunto de normas e regras usadas na sociedade; boas maneiras
+ETYMOLOGICAL	(adjetivo) etimológico: relativo à etimologia
+ETYMOLOGICALLY	(advérbio) etimologicamente: de modo etimológico
+ETYMOLOGIES	(substantivo) plural de etymology: etimologia, estudo da origem e evolução das palavras
+ETYMOLOGY	(substantivo) etimologia, estudo da origem e evolução das palavras
+EUCALYPTI	(forma de eucalyptus) (substantivo) eucalipto: designação dada a várias espécies vegetais do gênero Eucalyptus
+EUCALYPTUS	(substantivo) eucalipto: designação dada a várias espécies vegetais do gênero Eucalyptus
+EUCALYPTUSES	(forma de eucalyptus) (substantivo) eucalipto: designação dada a várias espécies vegetais do gênero Eucalyptus
+EUGENICS	(substantivo) eugenia: ciência que estuda as condições mais propícias à reprodução e melhoramento da raça humana (também: eugenismo, eugénica)
+EUKARYOTE	(substantivo) eucarionte: ser vivo cujas células possuem núcleo celular organizado, provido de carioteca
+EUKARYOTES	(forma de eukaryote) (substantivo) eucarionte: ser vivo cujas células possuem núcleo celular organizado, provido de carioteca
+EULOGIES	(forma de eulogy) (substantivo) eulogy se traduz como ⟪elogio⟫
+EULOGISE	(verbo) elogiar: fazer elogio; gabar; aplaudir; exaltar
+EULOGISED	(forma de eulogise) (verbo) elogiar: fazer elogio; gabar; aplaudir; exaltar
+EULOGISES	(forma de eulogise) (verbo) elogiar: fazer elogio; gabar; aplaudir; exaltar
+EULOGISING	(forma de eulogise) (verbo) elogiar: fazer elogio; gabar; aplaudir; exaltar
+EULOGY	(substantivo) eulogy se traduz como ⟪elogio⟫
+EUNUCH	(substantivo) eunuco: diz-se de homem castrado
+EUNUCHS	(forma de eunuch) (substantivo) eunuco: diz-se de homem castrado
+EUPHEMISM	(substantivo) eufemismo: figura de linguagem que consiste em usar termos mais agradáveis para expressar uma ideia inadequada, grosseira ou que seja tabuísmo
+EUPHEMISMS	(forma de euphemism) (substantivo) eufemismo: figura de linguagem que consiste em usar termos mais agradáveis para expressar uma ideia...
+EUPHEMISTIC	(adjetivo) euphemistic se traduz como ⟪eufemístico|EUFEMISTICO⟫
+EUPHONIES	(forma de euphony) (substantivo) eufonia: som agradável
+EUPHONY	(substantivo) eufonia: som agradável
+EUPHORIA	(substantivo) euforia: estado emocional de excitação plena
+EUPHORIAS	(forma de euphoria) (substantivo) euforia: estado emocional de excitação plena
+EUROPIUM	(substantivo) europium se traduz como ⟪európio|EUROPIO⟫
+EUROPIUMS	(forma de europium) (substantivo) europium se traduz como ⟪európio|EUROPIO⟫
+EUTHANASIA	(substantivo) eutanásia: procedimento que antecipa a morte de um paciente incurável para abreviar o sofrimento e a dor
+EUTHANASIAS	(forma de euthanasia) (substantivo) eutanásia: procedimento que antecipa a morte de um paciente incurável para abreviar o sofrimento e a dor
+EUTROPHICATION	(substantivo) eutrofização: fenômeno causado pelo excesso de nutrientes (nitratos, fosfatos e matéria orgânica) num corpo o que leva à proliferação excessiva de algas, que, ao entrarem em decomposição, levam ao aumento descontrolado do número de micro-organismos decompositores aeróbios que acabam por diminuir drasticamente a...
+EUTROPHICATIONS	(forma de eutrophication) (substantivo) eutrofização: fenômeno causado pelo excesso de nutrientes (nitratos, fosfatos e matéria orgânica) num...
+EVACUATE	(verbo) evacuar: sair de
+EVACUATED	(forma de evacuate) (verbo) evacuar: sair de
+EVACUATES	(forma de evacuate) (verbo) evacuar: sair de
+EVACUATING	(forma de evacuate) (verbo) evacuar: sair de
+EVADE	(verbo) evade se traduz como matar aula
+EVADED	(forma de evade) (verbo) evade se traduz como matar aula
+EVADER	(forma de evade) (verbo) evade se traduz como matar aula
+EVADES	(forma de evade) (verbo) evade se traduz como matar aula
+EVADING	(forma de evade) (verbo) evade se traduz como matar aula
+EVALUATION	(substantivo) avaliação: estabelecimento do valor de algo, cálculo
+EVALUATIONS	(forma de evaluation) (substantivo) avaliação: estabelecimento do valor de algo, cálculo
+EVANGELICALLY	(advérbio) evangelicamente: de forma evangélica
+EVAPORATE	(verbo) evaporar: converter um líquido em vapor
+EVAPORATED	(forma de evaporate) (verbo) evaporar: converter um líquido em vapor
+EVAPORATES	(forma de evaporate) (verbo) evaporar: converter um líquido em vapor
+EVAPORATING	(forma de evaporate) (verbo) evaporar: converter um líquido em vapor
+EVASION	(substantivo) evasion se traduz como ⟪evasão|EVASAO⟫, ⟪subterfúgio|SUBTERFUGIO⟫
+EVASIONS	(forma de evasion) (substantivo) evasion se traduz como ⟪evasão|EVASAO⟫, ⟪subterfúgio|SUBTERFUGIO⟫
+EVASIVELY	(advérbio) evasivamente: de forma evasiva
+EVEN	(adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície\n(advérbio) even se traduz como até mesmo
+EVENED	(forma de even) (adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície
+EVENER	(forma de even) (adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície
+EVENERS	(forma de even) (adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície
+EVENEST	(forma de even) (adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície
+EVENING	(substantivo) noite: período do dia entre as dezoito horas e a meia-noite\n(interjeição) variação de good evening
+EVENINGS	(forma de even) (adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície
+EVENLY	(advérbio) imparcialmente: de modo imparcial (também: justamente)
+EVENS	(forma de even) (adjetivo) plano: superfície plana, onde quaisquer dois pontos podem ser ligados por uma reta que pertence à superfície
+EVENT	(substantivo) evento: acontecimento
+EVENTS	(substantivo) plural de event: evento
+EVENTUALITIES	(forma de eventuality) (substantivo) eventualidade: caraterística de acontecimento futuro incerto
+EVENTUALITY	(substantivo) eventualidade: caraterística de acontecimento futuro incerto
+EVENTUALLY	(advérbio) consequentemente, finalmente, no final das contas
+EVER	(advérbio) a qualquer momento
+EVERLASTING	(adjetivo) everlasting se traduz como ⟪perpétuo|PERPETUO⟫, ⟪eterno⟫, ⟪interminável|INTERMINAVEL⟫
+EVERLASTINGS	(forma de everlasting) (adjetivo) everlasting se traduz como ⟪perpétuo|PERPETUO⟫, ⟪eterno⟫, ⟪interminável|INTERMINAVEL⟫
+EVERY	(adjetivo) todo: qualquer
+EVERYBODY	(pronome) Todos, todo o mundo, todas as pessoas
+EVERYDAY	(adjetivo) quotidiano: que é diário, que acontece todos os dias (também: corriqueiro)
+EVERYONE	(pronome) todos: o conjunto dos membros ou participantes de algo
+EVERYTHING	(pronome) tudo: aquilo que é mais essencial
+EVICT	(verbo) desalojar: expelir de um posto
+EVICTED	(forma de evict) (verbo) desalojar: expelir de um posto
+EVICTING	(forma de evict) (verbo) desalojar: expelir de um posto
+EVICTS	(forma de evict) (verbo) desalojar: expelir de um posto
+EVIDENCE	(substantivo) evidence se traduz como ⟪evidência|EVIDENCIA⟫\n(verbo) evidenciar: tornar evidente; demonstrar
+EVIDENCED	(forma de evidence) (substantivo) evidence se traduz como ⟪evidência|EVIDENCIA⟫
+EVIDENCES	(forma de evidence) (substantivo) evidence se traduz como ⟪evidência|EVIDENCIA⟫
+EVIDENCING	(forma de evidence) (substantivo) evidence se traduz como ⟪evidência|EVIDENCIA⟫
+EVIDENT	(adjetivo) evidente: que está à vista; que é claro, certo, incontestável
+EVIDENTLY	(advérbio) evidenciadamente: de modo evidenciado
+EVIL	(adjetivo) malvado: o diabo (Obs.: inicial por vezes maiúscula) (também: mal)\n(substantivo) evil se traduz como o mal
+EVILDOER	(substantivo) malfeitor: aquele que comete crimes ou atos condenáveis (também: vilão:)
+EVILDOERS	(forma de evildoer) (substantivo) malfeitor: aquele que comete crimes ou atos condenáveis (também: vilão:)
+EVILER	(forma de evil) (adjetivo) malvado: o diabo (Obs.: inicial por vezes maiúscula) (também: mal)
+EVILEST	(forma de evil) (adjetivo) malvado: o diabo (Obs.: inicial por vezes maiúscula) (também: mal)
+EVILLER	(forma de evil) (adjetivo) malvado: o diabo (Obs.: inicial por vezes maiúscula) (também: mal)
+EVILLEST	(forma de evil) (adjetivo) malvado: o diabo (Obs.: inicial por vezes maiúscula) (também: mal)
+EVILS	(forma de evil) (adjetivo) malvado: o diabo (Obs.: inicial por vezes maiúscula) (também: mal)
+EVITE	(verbo) evitar: fazer com que algo não ocorra; impedir
+EVITED	(verbo) passado simples e particípio do verbo evite: evitar
+EVITES	(verbo) terceira pessoa do singular do verbo evite: evitar
+EVITING	(verbo) gerúndio do verbo evite: evitar
+EVOCATIVELY	(advérbio) evocativamente: de modo evocativo
+EVOKE	(verbo) evocar: chamar (uma entidade sobrenatural)
+EVOKED	(forma de evoke) (verbo) evocar: chamar (uma entidade sobrenatural)
+EVOKER	(forma de evoke) (verbo) evocar: chamar (uma entidade sobrenatural)
+EVOKES	(forma de evoke) (verbo) evocar: chamar (uma entidade sobrenatural)
+EVOKING	(forma de evoke) (verbo) evocar: chamar (uma entidade sobrenatural)
+EVOLUTION	(substantivo) evolução: teoria científica segundo a qual toda a diversidade da vida na Terra pode ser explicada pela evolução²
+EVOLUTIONARILY	(advérbio) evolutivamente: de modo evolutivo (também: evolucionariamente)
+EVOLUTIONARY	(adjetivo) evolutivo: que diz respeito à teoria da evolução, ao processo natural de adaptações e formação de novas espécies
+EVOLUTIONS	(forma de evolution) (substantivo) evolução: teoria científica segundo a qual toda a diversidade da vida na Terra pode ser explicada pela...
+EVOLVE	(verbo) evoluir: evolucionar
+EVOLVED	(forma de evolve) (verbo) evoluir: evolucionar
+EVOLVER	(forma de evolve) (verbo) evoluir: evolucionar
+EVOLVES	(forma de evolve) (verbo) evoluir: evolucionar
+EVOLVING	(forma de evolve) (verbo) evoluir: evolucionar
+EWE	(substantivo) ovelha, fêmea do carneiro
+EWES	(forma de ewe) (substantivo) ovelha, fêmea do carneiro
+EXACT	(adjetivo) exact se traduz como ⟪exato⟫\n(verbo) exigir: requerer, reclamar em virtude de um direito
+EXACTED	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXACTER	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXACTERS	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXACTEST	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXACTING	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXACTINGLY	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXACTITUDE	(substantivo) exactitude se traduz como exatitude
+EXACTITUDES	(forma de exactitude) (substantivo) exactitude se traduz como exatitude
+EXACTLY	(advérbio) exactly se traduz como ⟪exatamente⟫
+EXACTS	(forma de exact) (adjetivo) exact se traduz como ⟪exato⟫
+EXAGGERATE	(verbo) agigantar: exagerar
+EXAGGERATED	(forma de exaggerate) (verbo) agigantar: exagerar
+EXAGGERATEDLY	(advérbio) exageradamente: de modo exagerado
+EXAGGERATES	(forma de exaggerate) (verbo) agigantar: exagerar
+EXAGGERATING	(forma de exaggerate) (verbo) agigantar: exagerar
+EXAGGERATION	(substantivo) exagero: excesso, abuso
+EXAGGERATIONS	(forma de exaggeration) (substantivo) exagero: excesso, abuso
+EXALT	(verbo) exaltar: celebrar
+EXALTED	(forma de exalt) (verbo) exaltar: celebrar
+EXALTEDLY	(advérbio) exaltedly se traduz como ⟪exaltadamente⟫
+EXALTING	(forma de exalt) (verbo) exaltar: celebrar
+EXALTS	(forma de exalt) (verbo) exaltar: celebrar
+EXAM	(substantivo) prova: exame, teste
+EXAMINABLE	(adjetivo) examinável: que se pode examinar
+EXAMINATION	(substantivo) exame: o ato de examinar
+EXAMINATIONS	(substantivo) plural de examination: exame
+EXAMINER	(substantivo) examinador: pessoa que elabora uma prova, avaliação ou exame
+EXAMINERS	(forma de examiner) (substantivo) examinador: pessoa que elabora uma prova, avaliação ou exame
+EXAMPLE	(substantivo) example se traduz como ⟪exemplo⟫
+EXAMPLED	(forma de example) (substantivo) example se traduz como ⟪exemplo⟫
+EXAMPLES	(forma de example) (substantivo) example se traduz como ⟪exemplo⟫
+EXAMPLING	(forma de example) (substantivo) example se traduz como ⟪exemplo⟫
+EXAMS	(forma de exam) (substantivo) prova: exame, teste
+EXASPERATE	(verbo) exasperar: irritar
+EXASPERATED	(forma de exasperate) (verbo) exasperar: irritar
+EXASPERATES	(forma de exasperate) (verbo) exasperar: irritar
+EXASPERATING	(forma de exasperate) (verbo) exasperar: irritar
+EXASPERATINGLY	(advérbio) exasperantemente: de modo exasperante
+EXASPERATION	(substantivo) irritação: o ato de fazer com que um órgão ou parte do corpo fique em uma condição de sensibilidade ou excitação anormal (também: exasperação, exacerbação)
+EXASPERATIONS	(forma de exasperation) (substantivo) irritação: o ato de fazer com que um órgão ou parte do corpo fique em uma condição de sensibilidade ou...
+EXCAVATE	(verbo) escavar: fazer (um buraco, túnel) pela remoção de material
+EXCAVATED	(forma de excavate) (verbo) escavar: fazer (um buraco, túnel) pela remoção de material
+EXCAVATES	(forma de excavate) (verbo) escavar: fazer (um buraco, túnel) pela remoção de material
+EXCAVATING	(forma de excavate) (verbo) escavar: fazer (um buraco, túnel) pela remoção de material
+EXCAVATION	(substantivo) escavação: ato ou efeito de escavar
+EXCAVATIONS	(forma de excavation) (substantivo) escavação: ato ou efeito de escavar
+EXCAVATOR	(substantivo) excavator se traduz como ⟪escavadeira⟫
+EXCAVATORS	(forma de excavator) (substantivo) excavator se traduz como ⟪escavadeira⟫
+EXCEED	(verbo) exceder: ultrapassar
+EXCEEDED	(forma de exceed) (verbo) exceder: ultrapassar
+EXCEEDING	(forma de exceed) (verbo) exceder: ultrapassar
+EXCEEDS	(forma de exceed) (verbo) exceder: ultrapassar
+EXCEL	(verbo) exceler: distinguir-se
+EXCELLED	(forma de excel) (verbo) exceler: distinguir-se
+EXCELLENCE	(substantivo) excelência: característica do que é excelente, que é excepcional
+EXCELLENCES	(forma de excellence) (substantivo) excelência: característica do que é excelente, que é excepcional
+EXCELLENT	(adjetivo) excelente: que excele, que é muito bom
+EXCELLENTLY	(advérbio) excelentemente: de modo excelente (também: eximiamente)
+EXCELLING	(forma de excel) (verbo) exceler: distinguir-se
+EXCELS	(forma de excel) (verbo) exceler: distinguir-se
+EXCEPT	(preposição) exceto: com exclusão de; afora, salvo, menos
+EXCEPTED	(forma de except) (preposição) exceto: com exclusão de; afora, salvo, menos
+EXCEPTING	(forma de except) (preposição) exceto: com exclusão de; afora, salvo, menos
+EXCEPTION	(substantivo) exceção: desvio da regra geral (comum)
+EXCEPTIONAL	(adjetivo) singular: extravagante, excêntrico, fora do comum (também: excecional, excepcional)
+EXCEPTIONALLY	(advérbio) excecionalmente: de modo excecional
+EXCEPTIONS	(forma de exception) (substantivo) exceção: desvio da regra geral (comum)
+EXCEPTS	(forma de except) (preposição) exceto: com exclusão de; afora, salvo, menos
+EXCERPT	(substantivo) excerpt se traduz como ⟪excerto⟫\n(verbo) extrair: copiar parte de um texto; reproduzir; transcrever:
+EXCERPTED	(forma de excerpt) (substantivo) excerpt se traduz como ⟪excerto⟫
+EXCERPTER	(forma de excerpt) (substantivo) excerpt se traduz como ⟪excerto⟫
+EXCERPTING	(forma de excerpt) (substantivo) excerpt se traduz como ⟪excerto⟫
+EXCERPTS	(forma de excerpt) (substantivo) excerpt se traduz como ⟪excerto⟫
+EXCESS	(substantivo) excesso: diferença para mais:
+EXCESSED	(forma de excess) (substantivo) excesso: diferença para mais:
+EXCESSES	(forma de excess) (substantivo) excesso: diferença para mais:
+EXCESSING	(forma de excess) (substantivo) excesso: diferença para mais:
+EXCESSIVE	(adjetivo) excessivo: que excede
+EXCESSIVELY	(advérbio) desmedidamente: de modo desmedido (também: desmesuradamente)
+EXCHANGEABLE	(adjetivo) trocável: que se consegue trocar
+EXCISE	(substantivo) imposto cobrado sobre produtos manufaturados dentro do país (em oposição às taxas alfandegárias, que se aplicam sobre produtos vindos de fora do país)\n(verbo) cobrar imposto sobre produtos manufaturados dentro do país
+EXCISED	(forma de excise) (substantivo) imposto cobrado sobre produtos manufaturados dentro do país (em oposição às taxas alfandegárias, que se...
+EXCISES	(forma de excise) (substantivo) imposto cobrado sobre produtos manufaturados dentro do país (em oposição às taxas alfandegárias, que se...
+EXCISING	(forma de excise) (substantivo) imposto cobrado sobre produtos manufaturados dentro do país (em oposição às taxas alfandegárias, que se...
+EXCISION	(substantivo) excision se traduz como ⟪excisão|EXCISAO⟫
+EXCISIONS	(forma de excision) (substantivo) excision se traduz como ⟪excisão|EXCISAO⟫
+EXCITANT	(adjetivo) excitant se traduz como ⟪excitante⟫\n(substantivo) estimulante: substância que estimula o corpo humano
+EXCITANTS	(forma de excitant) (adjetivo) excitant se traduz como ⟪excitante⟫
+EXCITE	(verbo) excitar: provocar excitação em
+EXCITED	(adjetivo) excitado, com bastante energia\n(verbo) passado simples de excite: excitar
+EXCITEDLY	(advérbio) excitadamente: de modo excitado
+EXCITEMENT	(substantivo) excitement se traduz como ⟪excitação|EXCITAÇAO⟫
+EXCITEMENTS	(forma de excitement) (substantivo) excitement se traduz como ⟪excitação|EXCITAÇAO⟫
+EXCITES	(forma de excite) (verbo) excitar: provocar excitação em
+EXCITING	(adjetivo) excitante: que excita
+EXCITINGLY	(advérbio) excitadamente: de modo excitado (também: com excitação)
+EXCLAIM	(verbo) exclamar: vociferar; gritar
+EXCLAIMED	(forma de exclaim) (verbo) exclamar: vociferar; gritar
+EXCLAIMING	(forma de exclaim) (verbo) exclamar: vociferar; gritar
+EXCLAIMS	(forma de exclaim) (verbo) exclamar: vociferar; gritar
+EXCLAMATION	(substantivo) exclamação: o ato de exclamar
+EXCLAMATIONS	(forma de exclamation) (substantivo) exclamação: o ato de exclamar
+EXCLUDE	(verbo) excluir: manter do lado de fora; não permitir a entrada de
+EXCLUDED	(forma de exclude) (verbo) excluir: manter do lado de fora; não permitir a entrada de
+EXCLUDER	(forma de exclude) (verbo) excluir: manter do lado de fora; não permitir a entrada de
+EXCLUDES	(forma de exclude) (verbo) excluir: manter do lado de fora; não permitir a entrada de
+EXCLUDING	(forma de exclude) (verbo) excluir: manter do lado de fora; não permitir a entrada de
+EXCLUSIVE	(adjetivo) exclusive se traduz como ⟪exclusivo⟫\n(substantivo) exclusive se traduz como ⟪exclusiva⟫
+EXCLUSIVELY	(advérbio) exclusively se traduz como ⟪unicamente⟫
+EXCLUSIVES	(forma de exclusive) (adjetivo) exclusive se traduz como ⟪exclusivo⟫
+EXCOMMUNICATE	(verbo) excomungar: expulsar da Igreja Católica\n(adjetivo) excommunicate se traduz como ⟪excomungado⟫
+EXCOMMUNICATED	(forma de excommunicate) (verbo) excomungar: expulsar da Igreja Católica
+EXCOMMUNICATES	(forma de excommunicate) (verbo) excomungar: expulsar da Igreja Católica
+EXCOMMUNICATING	(forma de excommunicate) (verbo) excomungar: expulsar da Igreja Católica
+EXCREMENT	(substantivo) excremento: matéria que se excreta, fezes, urina, suor
+EXCREMENTS	(forma de excrement) (substantivo) excremento: matéria que se excreta, fezes, urina, suor
+EXCRESCENCE	(substantivo) excrescence se traduz como ⟪excrescência|EXCRESCENCIA⟫
+EXCRESCENCES	(forma de excrescence) (substantivo) excrescence se traduz como ⟪excrescência|EXCRESCENCIA⟫
+EXCRETION	(substantivo) excretion se traduz como ⟪excreção|EXCREÇAO⟫
+EXCRETIONS	(forma de excretion) (substantivo) excretion se traduz como ⟪excreção|EXCREÇAO⟫
+EXCRETORY	(adjetivo) excretor: que excreta
+EXCRUCIATE	(verbo) torturar: sujeitar à tortura
+EXCRUCIATED	(forma de excruciate) (verbo) torturar: sujeitar à tortura
+EXCRUCIATES	(forma de excruciate) (verbo) torturar: sujeitar à tortura
+EXCRUCIATING	(adjetivo) excruciante: que excrucia
+EXCRUCIATINGLY	(advérbio) excruciantemente: de forma excruciante
+EXCUSE	(substantivo) excuse se traduz como ⟪desculpa⟫\n(verbo) perdoar: utilizado para, de uma maneira delicada, interromper um discurso falado, pedindo desculpa por proceder a essa interrupção (também: desculpar)
+EXCUSED	(forma de excuse) (substantivo) excuse se traduz como ⟪desculpa⟫
+EXCUSES	(forma de excuse) (substantivo) excuse se traduz como ⟪desculpa⟫
+EXCUSING	(forma de excuse) (substantivo) excuse se traduz como ⟪desculpa⟫
+EXECUTE	(verbo) executar: fazer (também: realizar)
+EXECUTED	(forma de execute) (verbo) executar: fazer (também: realizar)
+EXECUTES	(forma de execute) (verbo) executar: fazer (também: realizar)
+EXECUTING	(forma de execute) (verbo) executar: fazer (também: realizar)
+EXECUTION	(substantivo) execução: ato de dar cumprimento a uma sentença de morte
+EXECUTIONER	(substantivo) verdugo: carrasco (também: algoz, carrasco)
+EXECUTIONERS	(forma de executioner) (substantivo) verdugo: carrasco (também: algoz, carrasco)
+EXECUTIONS	(forma de execution) (substantivo) execução: ato de dar cumprimento a uma sentença de morte
+EXEDRA	(substantivo) êxedra: recinto semicircular, frequentemente coberto, provido de assentos, utilizado para reuniões entre filósofos
+EXEGESES	(forma de exegesis) (substantivo) exegese: comentário para esclarecimento ou interpretação de um livro ou texto (especialmente religiosos),...
+EXEGESIS	(substantivo) exegese: comentário para esclarecimento ou interpretação de um livro ou texto (especialmente religiosos), seguindo as diretrizes da hermenêutica
+EXEMPLARILY	(advérbio) exemplarmente: de modo exemplar
+EXEMPT	(adjetivo) exempt se traduz como ⟪isento⟫, ⟪dispensado⟫, ⟪livre⟫\n(verbo) isentar: tornar(-se) isento, desobrigado, dispensado, livre de; eximir(-se)
+EXEMPTED	(verbo) passado simples e particípio do verbo exempt: isento, dispensado, livre
+EXEMPTING	(verbo) gerúndio do verbo exempt: isento, dispensado, livre
+EXEMPTION	(substantivo) isenção: imparcialidade
+EXEMPTIONS	(forma de exemption) (substantivo) isenção: imparcialidade
+EXEMPTS	(verbo) terceira pessoa do singular do verbo exempt: isento, dispensado, livre
+EXERCISE	(substantivo) exercício: ato ou efeito de exercer e de exercitar
+EXERCISED	(forma de exercise) (substantivo) exercício: ato ou efeito de exercer e de exercitar
+EXERCISES	(forma de exercise) (substantivo) exercício: ato ou efeito de exercer e de exercitar
+EXERCISING	(forma de exercise) (substantivo) exercício: ato ou efeito de exercer e de exercitar
+EXHALE	(verbo) exalar: emitir (ar, líquido, perfume etc.)
+EXHALED	(forma de exhale) (verbo) exalar: emitir (ar, líquido, perfume etc.)
+EXHALES	(forma de exhale) (verbo) exalar: emitir (ar, líquido, perfume etc.)
+EXHALING	(forma de exhale) (verbo) exalar: emitir (ar, líquido, perfume etc.)
+EXHAUSTED	(adjetivo) esgotado: no fim das forças
+EXHAUSTION	(substantivo) exhaustion se traduz como ⟪canseira⟫
+EXHAUSTIONS	(forma de exhaustion) (substantivo) exhaustion se traduz como ⟪canseira⟫
+EXHIBIT	(verbo) ostentar: mostrar ou exibir com aparato
+EXHIBITED	(forma de exhibit) (verbo) ostentar: mostrar ou exibir com aparato
+EXHIBITING	(forma de exhibit) (verbo) ostentar: mostrar ou exibir com aparato
+EXHIBITS	(forma de exhibit) (verbo) ostentar: mostrar ou exibir com aparato
+EXHUMATION	(substantivo) exhumation se traduz como ⟪exumação|EXUMAÇAO⟫
+EXHUMATIONS	(forma de exhumation) (substantivo) exhumation se traduz como ⟪exumação|EXUMAÇAO⟫
+EXHUME	(verbo) desenterrar: tirar da sepultura; exumar
+EXHUMED	(forma de exhume) (verbo) desenterrar: tirar da sepultura; exumar
+EXHUMER	(forma de exhume) (verbo) desenterrar: tirar da sepultura; exumar
+EXHUMES	(forma de exhume) (verbo) desenterrar: tirar da sepultura; exumar
+EXHUMING	(forma de exhume) (verbo) desenterrar: tirar da sepultura; exumar
+EXIGENT	(adjetivo) exigente: que exige
+EXIGENTLY	(advérbio) exigentemente: de modo exigente
+EXIGUOUSLY	(advérbio) exiguamente: de forma exígua
+EXILE	(substantivo) exilado: que deixou seu país voluntariamente ou não (também: degredado)
+EXILED	(forma de exile) (substantivo) exilado: que deixou seu país voluntariamente ou não (também: degredado)
+EXILES	(forma de exile) (substantivo) exilado: que deixou seu país voluntariamente ou não (também: degredado)
+EXILING	(forma de exile) (substantivo) exilado: que deixou seu país voluntariamente ou não (também: degredado)
+EXIST	(verbo) existir: ter existência, ser real
+EXISTED	(adjetivo) existido: que existiu
+EXISTENCE	(substantivo) existência: fato de existir, de viver
+EXISTENCES	(forma de existence) (substantivo) existência: fato de existir, de viver
+EXISTENTIAL	(adjetivo) existencial: relativo a existência
+EXISTENTIALISM	(substantivo) existentialism se traduz como ⟪existencialismo⟫
+EXISTENTIALISMS	(forma de existentialism) (substantivo) existentialism se traduz como ⟪existencialismo⟫
+EXISTENTIALLY	(advérbio) existencialmente: de forma existencial
+EXISTING	(adjetivo) existente: vivo, que tem existência
+EXISTS	(verbo) terceira pessoa do singular do presente simples de exist: existir.
+EXIT	(substantivo) exit se traduz como ⟪saída|SAIDA⟫\n(verbo) sair: passar de dentro para fora; deixar
+EXITED	(forma de exit) (substantivo) exit se traduz como ⟪saída|SAIDA⟫
+EXITING	(forma de exit) (substantivo) exit se traduz como ⟪saída|SAIDA⟫
+EXITS	(forma de exit) (substantivo) exit se traduz como ⟪saída|SAIDA⟫
+EXOGENOUS	(adjetivo) exógeno: que provém do exterior
+EXOGENOUSLY	(advérbio) exogenamente: de forma exógena
+EXONERATION	(substantivo) exoneration se traduz como ⟪exoneração|EXONERAÇAO⟫
+EXONERATIONS	(forma de exoneration) (substantivo) exoneration se traduz como ⟪exoneração|EXONERAÇAO⟫
+EXORBITANT	(adjetivo) exorbitant se traduz como ⟪exorbitante⟫
+EXORBITANTLY	(advérbio) exorbitantemente: de forma exorbitante
+EXORCIST	(substantivo) exorcist se traduz como ⟪exorcista⟫
+EXORCISTS	(forma de exorcist) (substantivo) exorcist se traduz como ⟪exorcista⟫
+EXOSKELETON	(substantivo) exoesqueleto: esqueleto externo
+EXOSKELETONS	(forma de exoskeleton) (substantivo) exoesqueleto: esqueleto externo
+EXOTERIC	(adjetivo) exotérico: (Derivação: por extensão de sentido) comum, vulgar, trivial
+EXOTERICALLY	(advérbio) exotericamente: de modo exotérico
+EXOTHERMIC	(adjetivo) exotérmico: que libera calor.
+EXOTIC	(adjetivo) exótico: diz-se de algo que vem de fora, ou seja, não é originário do mesmo país
+EXOTICALLY	(advérbio) exoticamente: de forma exótica
+EXOTICS	(forma de exotic) (adjetivo) exótico: diz-se de algo que vem de fora, ou seja, não é originário do mesmo país
+EXPAND	(verbo) expand se traduz como ⟪expandir⟫
+EXPANDABLE	(adjetivo) alargável: que se consegue alargar
+EXPANDED	(forma de expand) (verbo) expand se traduz como ⟪expandir⟫
+EXPANDING	(forma de expand) (verbo) expand se traduz como ⟪expandir⟫
+EXPANDS	(forma de expand) (verbo) expand se traduz como ⟪expandir⟫
+EXPANSION	(substantivo) expansão: ato de expandir(-se)
+EXPANSIONISM	(substantivo) expansionismo: política cuja intenção é expandir o território de um país
+EXPANSIONISMS	(forma de expansionism) (substantivo) expansionismo: política cuja intenção é expandir o território de um país
+EXPANSIONS	(forma de expansion) (substantivo) expansão: ato de expandir(-se)
+EXPANSIVELY	(advérbio) expansivamente: de forma expansiva
+EXPATRIATE	(substantivo) exilado: que deixou seu país voluntariamente ou não (também: expatriado)
+EXPATRIATED	(forma de expatriate) (substantivo) exilado: que deixou seu país voluntariamente ou não (também: expatriado)
+EXPATRIATES	(forma de expatriate) (substantivo) exilado: que deixou seu país voluntariamente ou não (também: expatriado)
+EXPATRIATING	(forma de expatriate) (substantivo) exilado: que deixou seu país voluntariamente ou não (também: expatriado)
+EXPECT	(verbo) esperar: ficar inativo ou em estado de repouso até que algo aconteça
+EXPECTABLE	(adjetivo) esperável: que se consegue esperar
+EXPECTATION	(substantivo) expectativa: esperança
+EXPECTATIONS	(forma de expectation) (substantivo) expectativa: esperança
+EXPECTATIVE	(adjetivo) relativo à expectativa
+EXPECTED	(adjetivo) esperado: que se espera
+EXPECTEDLY	(advérbio) previsamente: de modo previso
+EXPECTING	(forma de expect) (verbo) esperar: ficar inativo ou em estado de repouso até que algo aconteça
+EXPECTORATE	(verbo) escarrar: expelir o escarro pela boca; expectorar
+EXPECTORATED	(forma de expectorate) (verbo) escarrar: expelir o escarro pela boca; expectorar
+EXPECTORATES	(forma de expectorate) (verbo) escarrar: expelir o escarro pela boca; expectorar
+EXPECTORATING	(forma de expectorate) (verbo) escarrar: expelir o escarro pela boca; expectorar
+EXPECTORATION	(substantivo) expectoration se traduz como expectoração
+EXPECTORATIONS	(forma de expectoration) (substantivo) expectoration se traduz como expectoração
+EXPECTS	(forma de expect) (verbo) esperar: ficar inativo ou em estado de repouso até que algo aconteça
+EXPEDITION	(substantivo) expedição: remessa de tropas ou navios com objetivo determinado
+EXPEDITIONS	(forma de expedition) (substantivo) expedição: remessa de tropas ou navios com objetivo determinado
+EXPEDITIOUSLY	(advérbio) expeditamente: de forma expedita (também: expeditivamente)
+EXPEL	(verbo) expulsar: fazer sair à força
+EXPELLED	(forma de expel) (verbo) expulsar: fazer sair à força
+EXPELLING	(forma de expel) (verbo) expulsar: fazer sair à força
+EXPELS	(forma de expel) (verbo) expulsar: fazer sair à força
+EXPENDABLE	(adjetivo) expendable se traduz como esgotável\n(substantivo) uma pessoa ou um objeto descartável (normalmente utilizado no plural)
+EXPENSE	(substantivo) expense se traduz como ⟪despesa⟫
+EXPENSED	(forma de expense) (substantivo) expense se traduz como ⟪despesa⟫
+EXPENSES	(forma de expense) (substantivo) expense se traduz como ⟪despesa⟫
+EXPENSING	(forma de expense) (substantivo) expense se traduz como ⟪despesa⟫
+EXPENSIVE	(adjetivo) caro: cujo preço é elevado
+EXPERIENCE	(substantivo) experiência: algo que se viveu, que se vivenciou
+EXPERIENCED	(forma de experience) (substantivo) experiência: algo que se viveu, que se vivenciou
+EXPERIENCES	(forma de experience) (substantivo) experiência: algo que se viveu, que se vivenciou
+EXPERIENCING	(forma de experience) (substantivo) experiência: algo que se viveu, que se vivenciou
+EXPERIENTIALLY	(advérbio) experiencialmente: de forma experiencial
+EXPERIMENT	(substantivo) experiência: tentativa ou teste com objetivo de observar e verificar algo; ensaio
+EXPERIMENTAL	(adjetivo) experimental: baseado na experiência
+EXPERIMENTALISM	(substantivo) experimentalism se traduz como ⟪experimentalismo⟫
+EXPERIMENTALISMS	(forma de experimentalism) (substantivo) experimentalism se traduz como ⟪experimentalismo⟫
+EXPERIMENTALLY	(advérbio) experimentalmente: de modo experimental
+EXPERIMENTED	(forma de experiment) (substantivo) experiência: tentativa ou teste com objetivo de observar e verificar algo; ensaio
+EXPERIMENTING	(forma de experiment) (substantivo) experiência: tentativa ou teste com objetivo de observar e verificar algo; ensaio
+EXPERIMENTS	(forma de experiment) (substantivo) experiência: tentativa ou teste com objetivo de observar e verificar algo; ensaio
+EXPERT	(adjetivo) experto: alguém que é experiente em determinado assunto (também: experte)\n(substantivo) experto: alguém que é experiente em determinado assunto (também: experte)
+EXPERTED	(forma de expert) (adjetivo) experto: alguém que é experiente em determinado assunto (também: experte)
+EXPERTING	(forma de expert) (adjetivo) experto: alguém que é experiente em determinado assunto (também: experte)
+EXPERTISE	(substantivo) expertise: competência ou qualidade de especialista
+EXPERTISES	(forma de expertise) (substantivo) expertise: competência ou qualidade de especialista
+EXPERTLY	(advérbio) expertamente: de maneira experta (também: espertamente)
+EXPERTS	(forma de expert) (adjetivo) experto: alguém que é experiente em determinado assunto (também: experte)
+EXPIATE	(verbo) expiar: fazer penitência
+EXPIATED	(forma de expiate) (verbo) expiar: fazer penitência
+EXPIATES	(forma de expiate) (verbo) expiar: fazer penitência
+EXPIATING	(forma de expiate) (verbo) expiar: fazer penitência
+EXPIRATION	(substantivo) expiration se traduz como ⟪expiração|EXPIRAÇAO⟫
+EXPIRATIONS	(forma de expiration) (substantivo) expiration se traduz como ⟪expiração|EXPIRAÇAO⟫
+EXPIRE	(verbo) expirar: morrer
+EXPIRED	(forma de expire) (verbo) expirar: morrer
+EXPIRER	(forma de expire) (verbo) expirar: morrer
+EXPIRES	(forma de expire) (verbo) expirar: morrer
+EXPIRING	(forma de expire) (verbo) expirar: morrer
+EXPLAIN	(verbo) explanar: narrar minuciosamente (também: explicar)
+EXPLAINED	(forma de explain) (verbo) explanar: narrar minuciosamente (também: explicar)
+EXPLAINING	(forma de explain) (verbo) explanar: narrar minuciosamente (também: explicar)
+EXPLAINS	(forma de explain) (verbo) explanar: narrar minuciosamente (também: explicar)
+EXPLANATION	(substantivo) explanação: explicação, narração detalhada (também: explicação)
+EXPLANATIONS	(forma de explanation) (substantivo) explanação: explicação, narração detalhada (também: explicação)
+EXPLETIVE	(adjetivo) expletive se traduz como ⟪expletivo⟫\n(substantivo) expletive se traduz como ⟪expletivo⟫
+EXPLETIVES	(forma de expletive) (adjetivo) expletive se traduz como ⟪expletivo⟫
+EXPLICATE	(verbo) explicar: falar com clareza
+EXPLICATED	(forma de explicate) (verbo) explicar: falar com clareza
+EXPLICATES	(forma de explicate) (verbo) explicar: falar com clareza
+EXPLICATING	(forma de explicate) (verbo) explicar: falar com clareza
+EXPLICATION	(substantivo) explication se traduz como ⟪explicação|EXPLICAÇAO⟫
+EXPLICATIONS	(forma de explication) (substantivo) explication se traduz como ⟪explicação|EXPLICAÇAO⟫
+EXPLICATIVELY	(advérbio) explicativamente: de modo explicativo
+EXPLICIT	(adjetivo) explícito: explicado em detalhes, sem deixar dúvidas
+EXPLICITLY	(advérbio) explicitamente: de modo explícito
+EXPLICITS	(forma de explicit) (adjetivo) explícito: explicado em detalhes, sem deixar dúvidas
+EXPLODE	(verbo) rebentar: provocar explosão (também: explodir)
+EXPLODED	(forma de explode) (verbo) rebentar: provocar explosão (também: explodir)
+EXPLODES	(forma de explode) (verbo) rebentar: provocar explosão (também: explodir)
+EXPLODING	(forma de explode) (verbo) rebentar: provocar explosão (também: explodir)
+EXPLORATION	(substantivo) exploração: ato ou efeito de explorar
+EXPLORATIONS	(forma de exploration) (substantivo) exploração: ato ou efeito de explorar
+EXPLORER	(substantivo) explorador: aquele que explora
+EXPLORERS	(forma de explorer) (substantivo) explorador: aquele que explora
+EXPLOSION	(substantivo) explosão: uma reação violenta, como com risos ou raiva
+EXPLOSIONS	(forma de explosion) (substantivo) explosão: uma reação violenta, como com risos ou raiva
+EXPLOSIVE	(adjetivo) explosivo: material que explode\n(substantivo) explosivo: material que explode
+EXPLOSIVELY	(advérbio) explosivamente: de modo explosivo
+EXPLOSIVES	(forma de explosive) (adjetivo) explosivo: material que explode
+EXPONENTIAL	(adjetivo) exponencial: que apresenta sob forma de uma exponenciação com base constante e expoente variável
+EXPONENTIALLY	(advérbio) exponencialmente: de modo exponencial
+EXPONENTIALS	(forma de exponential) (adjetivo) exponencial: que apresenta sob forma de uma exponenciação com base constante e expoente variável
+EXPORT	(substantivo) exportação: saída de produtos ou execução de serviços para/em outro país
+EXPORTED	(forma de export) (substantivo) exportação: saída de produtos ou execução de serviços para/em outro país
+EXPORTER	(substantivo) exporter se traduz como exportador:
+EXPORTERS	(forma de exporter) (substantivo) exporter se traduz como exportador:
+EXPORTING	(forma de export) (substantivo) exportação: saída de produtos ou execução de serviços para/em outro país
+EXPORTS	(forma de export) (substantivo) exportação: saída de produtos ou execução de serviços para/em outro país
+EXPOSE	(verbo) expor: permitir que algo ou alguém tenha influência sobre outro alguém
+EXPOSED	(verbo) particípio passado do verbo expose: expor
+EXPOSES	(forma de expose) (verbo) expor: permitir que algo ou alguém tenha influência sobre outro alguém
+EXPOSING	(forma de expose) (verbo) expor: permitir que algo ou alguém tenha influência sobre outro alguém
+EXPOSITION	(substantivo) exposição: modo de dizer ou de explicar; narração; explicação
+EXPOSITIONS	(forma de exposition) (substantivo) exposição: modo de dizer ou de explicar; narração; explicação
+EXPOUND	(verbo) explicar: lecionar a respeito de; dar explicações
+EXPOUNDED	(forma de expound) (verbo) explicar: lecionar a respeito de; dar explicações
+EXPOUNDING	(forma de expound) (verbo) explicar: lecionar a respeito de; dar explicações
+EXPOUNDS	(forma de expound) (verbo) explicar: lecionar a respeito de; dar explicações
+EXPRESS	(substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café\n(verbo) espremer: apertar com força; comprimir (também: extrair)
+EXPRESSED	(forma de express) (substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café
+EXPRESSER	(forma de express) (substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café
+EXPRESSES	(forma de express) (substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café
+EXPRESSIBLE	(adjetivo) expressável: que se pode exprimir
+EXPRESSING	(forma de express) (substantivo) expresso: bebida produzida em cafeteira que passa água sob alta pressão em pó de café
+EXPRESSION	(substantivo) expressão: manifestação do pensamento, ou do sentimento, pela palavra, fisionomia ou gesto
+EXPRESSIONISM	(substantivo) expressionismo: movimento artístico que busca retratar não a realidade objetiva, mas pelas sensações e respostas subjetivas que os objetos causam no artista
+EXPRESSIONISMS	(forma de expressionism) (substantivo) expressionismo: movimento artístico que busca retratar não a realidade objetiva, mas pelas sensações e...
+EXPRESSIONIST	(adjetivo) expressionista: artista que cultiva o expressionismo\n(substantivo) expressionista: artista que cultiva o expressionismo
+EXPRESSIONISTS	(forma de expressionist) (adjetivo) expressionista: artista que cultiva o expressionismo
+EXPRESSIONS	(forma de expression) (substantivo) expressão: manifestação do pensamento, ou do sentimento, pela palavra, fisionomia ou gesto
+EXPRESSIVE	(adjetivo) expressivo: diz-se daquilo que demonstra uma emoção ou sentimento
+EXPRESSIVELY	(advérbio) expressivamente: de modo expressivo
+EXPRESSIVENESS	(substantivo) expressividade: qualidade de ser expressivo
+EXPRESSIVENESSES	(forma de expressiveness) (substantivo) expressividade: qualidade de ser expressivo
+EXPROPRIATE	(verbo) expropriar: desapossar uma propriedade, tomar um bem
+EXPROPRIATED	(forma de expropriate) (verbo) expropriar: desapossar uma propriedade, tomar um bem
+EXPROPRIATES	(forma de expropriate) (verbo) expropriar: desapossar uma propriedade, tomar um bem
+EXPROPRIATING	(forma de expropriate) (verbo) expropriar: desapossar uma propriedade, tomar um bem
+EXPULSIVE	(adjetivo) expulsivo: que tem a capacidade de expulsar
+EXPUNGE	(verbo) expungir: fazer desaparecer (uma escrita) para substituí-la por outra; apagar, delir, eliminar
+EXPUNGED	(forma de expunge) (verbo) expungir: fazer desaparecer (uma escrita) para substituí-la por outra; apagar, delir, eliminar
+EXPUNGER	(forma de expunge) (verbo) expungir: fazer desaparecer (uma escrita) para substituí-la por outra; apagar, delir, eliminar
+EXPUNGES	(forma de expunge) (verbo) expungir: fazer desaparecer (uma escrita) para substituí-la por outra; apagar, delir, eliminar
+EXPUNGING	(forma de expunge) (verbo) expungir: fazer desaparecer (uma escrita) para substituí-la por outra; apagar, delir, eliminar
+EXQUISITELY	(advérbio) requintadamente: de modo requintado
+EXQUISITENESS	(substantivo) esmero: cuidado para produzir uma qualidade máxima no feitio de algo (também: capricho)
+EXQUISITENESSES	(forma de exquisiteness) (substantivo) esmero: cuidado para produzir uma qualidade máxima no feitio de algo (também: capricho)
+EXTANT	(adjetivo) remanescente: resto; sobra
+EXTEMPORANEOUSLY	(advérbio) extemporaneamente: de modo extemporâneo
+EXTEND	(verbo) alongar: aumentar a duração de, prolongar, demorar (também: extender)
+EXTENDABLE	(adjetivo) estendível: que pode ser estendido (também: extensível)
+EXTENDED	(verbo) passado simples do verbo extend
+EXTENDEDLY	(advérbio) estendidamente: de forma estendida
+EXTENDER	(substantivo) extender se traduz como ⟪extensor⟫
+EXTENDERS	(forma de extender) (substantivo) extender se traduz como ⟪extensor⟫
+EXTENDIBLE	(adjetivo) extensível: que pode ser estendido
+EXTENDING	(verbo) gerúndio do verbo extend
+EXTENDS	(verbo) terceira pessoa do singular do verbo extend
+EXTENSIBILITIES	(forma de extensibility) (substantivo) extensibilidade: capacidade de ser extensível
+EXTENSIBILITY	(substantivo) extensibilidade: capacidade de ser extensível
+EXTENSIBLE	(adjetivo) extensível: que pode ser estendido
+EXTENSION	(substantivo) extensão: ato ou efeito de estender-se
+EXTENSIONALLY	(advérbio) extensionalmente: de modo extensional
+EXTENSIONS	(forma de extension) (substantivo) extensão: ato ou efeito de estender-se
+EXTENSIVE	(adjetivo) extensivo: que é extenso, amplo (também: extenso)
+EXTENSIVELY	(advérbio) extensamente: de modo extenso (também: espraiadamente)
+EXTENSOMETER	(substantivo) extensômetro: instrumento que mede a variação de comprimento de objetos submetidos a esticamentos (também: extensímetro)
+EXTENSOMETERS	(forma de extensometer) (substantivo) extensômetro: instrumento que mede a variação de comprimento de objetos submetidos a esticamentos...
+EXTENT	(substantivo) extensão: ato ou efeito de estender-se
+EXTENTS	(forma de extent) (substantivo) extensão: ato ou efeito de estender-se
+EXTENUATE	(verbo) extenuate se traduz como ⟪extenuar⟫
+EXTENUATED	(forma de extenuate) (verbo) extenuate se traduz como ⟪extenuar⟫
+EXTENUATES	(forma de extenuate) (verbo) extenuate se traduz como ⟪extenuar⟫
+EXTENUATING	(forma de extenuate) (verbo) extenuate se traduz como ⟪extenuar⟫
+EXTERIOR	(adjetivo) exterior: a parte de fora de algo
+EXTERIORS	(forma de exterior) (adjetivo) exterior: a parte de fora de algo
+EXTERMINATION	(substantivo) extermínio: ato de exterminar
+EXTERMINATIONS	(forma de extermination) (substantivo) extermínio: ato de exterminar
+EXTERNAL	(adjetivo) externo: aquilo que está do lado de fora
+EXTERNALLY	(advérbio) externamente: na parte de fora (também: exteriormente)
+EXTERNALS	(forma de external) (adjetivo) externo: aquilo que está do lado de fora
+EXTINCT	(adjetivo) extinct se traduz como ⟪extinto⟫
+EXTINCTED	(forma de extinct) (adjetivo) extinct se traduz como ⟪extinto⟫
+EXTINCTING	(forma de extinct) (adjetivo) extinct se traduz como ⟪extinto⟫
+EXTINCTION	(substantivo) apagamento: ato ou efeito de destruir, extinguir (também: extinção)
+EXTINCTIONS	(forma de extinction) (substantivo) apagamento: ato ou efeito de destruir, extinguir (também: extinção)
+EXTINCTS	(forma de extinct) (adjetivo) extinct se traduz como ⟪extinto⟫
+EXTINGUISH	(verbo) extinguir: apagar (fogo, luz, etc.)
+EXTINGUISHED	(forma de extinguish) (verbo) extinguir: apagar (fogo, luz, etc.)
+EXTINGUISHES	(forma de extinguish) (verbo) extinguir: apagar (fogo, luz, etc.)
+EXTINGUISHING	(forma de extinguish) (verbo) extinguir: apagar (fogo, luz, etc.)
+EXTIRPATE	(verbo) extirpar: destruir, exterminar, extinguir
+EXTIRPATED	(forma de extirpate) (verbo) extirpar: destruir, exterminar, extinguir
+EXTIRPATES	(forma de extirpate) (verbo) extirpar: destruir, exterminar, extinguir
+EXTIRPATING	(forma de extirpate) (verbo) extirpar: destruir, exterminar, extinguir
+EXTORT	(verbo) extorquir: usurpar, arrebatar algo a alguém utilizando ameaça respaldada por violência; depenar
+EXTORTED	(forma de extort) (verbo) extorquir: usurpar, arrebatar algo a alguém utilizando ameaça respaldada por violência; depenar
+EXTORTING	(forma de extort) (verbo) extorquir: usurpar, arrebatar algo a alguém utilizando ameaça respaldada por violência; depenar
+EXTORTS	(forma de extort) (verbo) extorquir: usurpar, arrebatar algo a alguém utilizando ameaça respaldada por violência; depenar
+EXTRA	(adjetivo) extra: ator que numa cena faz parte de um grupo e não tem fala\n(advérbio) extra: ator que numa cena faz parte de um grupo e não tem fala
+EXTRACT	(substantivo) trecho: parte de uma obra literária ou musical
+EXTRACTED	(forma de extract) (substantivo) trecho: parte de uma obra literária ou musical
+EXTRACTING	(forma de extract) (substantivo) trecho: parte de uma obra literária ou musical
+EXTRACTION	(substantivo) extração: o ato ou efeito de extrair
+EXTRACTIONS	(forma de extraction) (substantivo) extração: o ato ou efeito de extrair
+EXTRACTS	(forma de extract) (substantivo) trecho: parte de uma obra literária ou musical
+EXTRADITE	(verbo) extraditar: enviar ou entregar a governo estrangeiro (um refugiado que ele reclama)
+EXTRADITED	(forma de extradite) (verbo) extraditar: enviar ou entregar a governo estrangeiro (um refugiado que ele reclama)
+EXTRADITES	(forma de extradite) (verbo) extraditar: enviar ou entregar a governo estrangeiro (um refugiado que ele reclama)
+EXTRADITING	(forma de extradite) (verbo) extraditar: enviar ou entregar a governo estrangeiro (um refugiado que ele reclama)
+EXTRAJUDICIAL	(adjetivo) extrajudicial: que acontece fora do âmbito judicial
+EXTRAJUDICIALLY	(advérbio) extrajudicialmente: de modo extrajudicial
+EXTRANEOUS	(adjetivo) extraneous se traduz como extrâneo
+EXTRANEOUSLY	(forma de extraneous) (adjetivo) extraneous se traduz como extrâneo
+EXTRAORDINARILY	(advérbio) extraordinariamente: de modo extraordinário
+EXTRAORDINARY	(adjetivo) extraordinário: excepcional
+EXTRAPOLATE	(verbo) extrapolate se traduz como ⟪extrapolar⟫
+EXTRAPOLATED	(forma de extrapolate) (verbo) extrapolate se traduz como ⟪extrapolar⟫
+EXTRAPOLATES	(forma de extrapolate) (verbo) extrapolate se traduz como ⟪extrapolar⟫
+EXTRAPOLATING	(forma de extrapolate) (verbo) extrapolate se traduz como ⟪extrapolar⟫
+EXTRAS	(forma de extra) (adjetivo) extra: ator que numa cena faz parte de um grupo e não tem fala
+EXTRATERRESTRIAL	(adjetivo) extraterrestre: qualquer entidade vinda de fora do planeta Terra\n(substantivo) extraterrestre: qualquer entidade vinda de fora do planeta Terra
+EXTRATERRESTRIALS	(forma de extraterrestrial) (adjetivo) extraterrestre: qualquer entidade vinda de fora do planeta Terra
+EXTRAVAGANT	(adjetivo) extravagante: estranho, fora do comum
+EXTRAVAGANTLY	(advérbio) extravagantemente: de forma extravagante (também: mirabolantemente)
+EXTREME	(adjetivo) extreme se traduz como ⟪extremo⟫\n(substantivo) extreme se traduz como ⟪extremo⟫
+EXTREMELY	(advérbio) extremamente: excessivamente
+EXTREMER	(forma de extreme) (adjetivo) extreme se traduz como ⟪extremo⟫
+EXTREMES	(forma de extreme) (adjetivo) extreme se traduz como ⟪extremo⟫
+EXTREMEST	(forma de extreme) (adjetivo) extreme se traduz como ⟪extremo⟫
+EXTREMISM	(substantivo) extremism se traduz como ⟪extremismo⟫
+EXTREMISMS	(forma de extremism) (substantivo) extremism se traduz como ⟪extremismo⟫
+EXTREMIST	(adjetivo) extremista: seguidor do extremismo\n(substantivo) extremista: seguidor do extremismo
+EXTREMISTS	(forma de extremist) (adjetivo) extremista: seguidor do extremismo
+EXTRINSIC	(adjetivo) extrínseco: que não pertence à essência de alguma coisa; que é externo
+EXTROVERTED	(adjetivo) extrovertido: diz-se daquele que demonstra extroversão (também: extroverso)
+EXUBERANTLY	(advérbio) exuberantemente: de modo exuberante (também: esfuziantemente)
+EXUDE	(verbo) transpirar: suar
+EXUDED	(forma de exude) (verbo) transpirar: suar
+EXUDES	(forma de exude) (verbo) transpirar: suar
+EXUDING	(forma de exude) (verbo) transpirar: suar
+EXULTANTLY	(advérbio) exultantemente: de forma exultante
+EXULTATION	(substantivo) exultation se traduz como ⟪exultação|EXULTAÇAO⟫
+EXULTATIONS	(forma de exultation) (substantivo) exultation se traduz como ⟪exultação|EXULTAÇAO⟫
+EYE	(substantivo) olho: órgão, geralmente aos pares, de vários animais responsável pela visão\n(verbo) observar: examinar com atenção: (também: olhar)
+EYEBALL	(substantivo) eyeball se traduz como globo ocular
+EYEBALLED	(forma de eyeball) (substantivo) eyeball se traduz como globo ocular
+EYEBALLING	(forma de eyeball) (substantivo) eyeball se traduz como globo ocular
+EYEBALLS	(forma de eyeball) (substantivo) eyeball se traduz como globo ocular
+EYEBOLT	(substantivo) olhal: parafuso com uma cabeça em forma de anel (ou uma abertura na cabeça) no qual algo pode ser preso ou amarrado
+EYEBOLTS	(forma de eyebolt) (substantivo) olhal: parafuso com uma cabeça em forma de anel (ou uma abertura na cabeça) no qual algo pode ser preso...
+EYEBROW	(substantivo) sobrancelha: pequena porção de pelos que protegem os olhos de alguns mamíferos, localizando-se logo acima da celha, de onde vem seu nome
+EYEBROWS	(forma de eyebrow) (substantivo) sobrancelha: pequena porção de pelos que protegem os olhos de alguns mamíferos, localizando-se logo acima...
+EYED	(forma de eye) (substantivo) olho: órgão, geralmente aos pares, de vários animais responsável pela visão
+EYEING	(forma de eye) (substantivo) olho: órgão, geralmente aos pares, de vários animais responsável pela visão
+EYELASH	(substantivo) pestana: pelo que recobre a pálpebra (também: cílio)
+EYELASHES	(forma de eyelash) (substantivo) pestana: pelo que recobre a pálpebra (também: cílio)
+EYELID	(substantivo) pálpebra: cada uma das duas membranas móveis que protegem os olhos
+EYELIDS	(forma de eyelid) (substantivo) pálpebra: cada uma das duas membranas móveis que protegem os olhos
+EYELINER	(substantivo) delineador: delineador de olhos
+EYELINERS	(forma de eyeliner) (substantivo) delineador: delineador de olhos
+EYES	(forma de eye) (substantivo) olho: órgão, geralmente aos pares, de vários animais responsável pela visão
+EYEWITNESS	(substantivo) testemunha ocular: indivíduo que presenciou determinado evento e pode relatá-lo
+EYEWITNESSES	(forma de eyewitness) (substantivo) testemunha ocular: indivíduo que presenciou determinado evento e pode relatá-lo
+EYING	(forma de eye) (substantivo) olho: órgão, geralmente aos pares, de vários animais responsável pela visão

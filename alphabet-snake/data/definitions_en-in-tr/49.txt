@@ -1,0 +1,1583 @@
+IAMB	(ad) kısa-uzun hece ölçüsü
+IAMBI	(iamb sözcüğünün çekimi) (ad) kısa-uzun hece ölçüsü
+IAMBS	(ad) çoğul çekimi: iamb
+IBEX	(ad) ibex kelimesinin karşılığı: dağ keçisi
+IBEXES	(ibex sözcüğünün çekimi) (ad) ibex kelimesinin karşılığı: dağ keçisi
+IBICES	(ibex sözcüğünün çekimi) (ad) ibex kelimesinin karşılığı: dağ keçisi
+IBIS	(ad) ibis: leyleksilerden, Afrika ve Batı Asya'nın sulak yerlerinde yaşayan bir kuş, mısır turnası, aynak (ayrıca: aynak)
+IBISES	(ibis sözcüğünün çekimi) (ad) ibis: leyleksilerden, Afrika ve Batı Asya'nın sulak yerlerinde yaşayan bir kuş, mısır turnası, aynak (ayrıca:...
+ICE	(ad) ice kelimesinin karşılığı: ⟪buz|BUZ⟫
+ICEBERG	(ad) iceberg kelimesinin karşılığı: ⟪aysberg|AYSBERG⟫, buz dağı
+ICEBERGS	(ad) iceberg sözcüğünün çoğul çekimi: aysberg, buz dağı
+ICEBOATS	(ad) çoğul çekimi: iceboat
+ICEBOX	(ad) buzluk: Yiyecek ve içecekleri soğutarak saklamak için kullanılan, buzla soğutulan kap veya dolap
+ICEBOXES	(ad) çoğul çekimi: icebox
+ICEBREAKER	(ad) buzkıran: donmuş deniz, göl veya ırmaklarda ulaşımı öteki gemilere kolaylaştırmakta kullanılan, buzları kırarak yol açmak için yapılmış gemi
+ICEBREAKERS	(ad) çoğul çekimi: icebreaker
+ICECAPS	(ad) çoğul çekimi: icecap
+ICED	(ice sözcüğünün çekimi) (ad) ice kelimesinin karşılığı: ⟪buz|BUZ⟫
+ICEHOUSES	(ad) çoğul çekimi: icehouse
+ICEMAN	(ad) iceman kelimesinin karşılığı: ⟪dondurmacı|DONDURMACI⟫
+ICEMEN	(ad) çoğul çekimi: iceman
+ICES	(ad) ice sözcüğünün çoğul çekimi: buz\n(eylem) ice sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: buz
+ICHNEUMONS	(ad) çoğul çekimi: ichneumon
+ICHNITES	(ad) çoğul çekimi: ichnite
+ICHTHYOLOGIES	(ichthyology sözcüğünün çekimi) (ad) ihtiyoloji: zoolojinin balıklarla ilgilenen dalı, balık bilimi (ayrıca: balık bilimi)
+ICHTHYOLOGISTS	(ad) çoğul çekimi: ichthyologist
+ICHTHYOLOGY	(ad) ihtiyoloji: zoolojinin balıklarla ilgilenen dalı, balık bilimi (ayrıca: balık bilimi)
+ICICLES	(ad) çoğul çekimi: icicle
+ICIER	(icy sözcüğünün çekimi) (sıfat) icy kelimesinin karşılığı: ⟪buzlu|BUZLU⟫
+ICIEST	(icy sözcüğünün çekimi) (sıfat) icy kelimesinin karşılığı: ⟪buzlu|BUZLU⟫
+ICING	(ice sözcüğünün çekimi) (ad) ice kelimesinin karşılığı: ⟪buz|BUZ⟫
+ICINGS	(ice sözcüğünün çekimi) (ad) ice kelimesinin karşılığı: ⟪buz|BUZ⟫
+ICKY	(sıfat) icky kelimesinin karşılığı: yapış yapış, ⟪iğrenç|İĞRENÇ⟫, ⟪tiksinç|TİKSİNÇ⟫
+ICON	(ad) ikon: Ortodokslarda; İsa, Meryem veya ermişlerin tahta üzerine mumlu ve yumurtalı boyalarla yapılmış dinî içerikli resimleri, ikona (ayrıca: ikona)
+ICONES	(icon sözcüğünün çekimi) (ad) ikon: Ortodokslarda; İsa, Meryem veya ermişlerin tahta üzerine mumlu ve yumurtalı boyalarla yapılmış dinî içerikli...
+ICONIC	(ad) iconic kelimesinin karşılığı: görüntüsel
+ICONOGRAPHERS	(ad) çoğul çekimi: iconographer
+ICONOGRAPHIES	(iconography sözcüğünün çekimi) (ad) iconography kelimesinin karşılığı: görüntü yazı
+ICONOGRAPHY	(ad) iconography kelimesinin karşılığı: görüntü yazı
+ICONOSCOPES	(ad) çoğul çekimi: iconoscope
+ICONS	(ad) çoğul çekimi: icon
+ICOSAHEDRA	(ad) çoğul çekimi: icosahedron
+ICOSAHEDRONS	(ad) çoğul çekimi: icosahedron
+ICTUS	(ad) ictus kelimesinin karşılığı: vurgulu hece
+ICTUSES	(ad) çoğul çekimi: ictus
+ICY	(sıfat) icy kelimesinin karşılığı: ⟪buzlu|BUZLU⟫
+IDEA	(ad) fikir: düşünce (ayrıca: düşünce)
+IDEAL	(ad) ülkü: gerçekte olmayıp, yalnız düşüncede tasarım biçiminde var olan, yalnızca düşünce ile kavranabilen şey, ideal
+IDEALISM	(ad) idealizm: bilgide temel olarak düşünceyi alan ve varlığı insan düşüncesinin kurduğunu kabul eden öğretilerin genel adı
+IDEALISMS	(idealism sözcüğünün çekimi) (ad) idealizm: bilgide temel olarak düşünceyi alan ve varlığı insan düşüncesinin kurduğunu kabul eden öğretilerin genel...
+IDEALIST	(sıfat) ülkücü: bir ülküye çıkar gütmeden bağlı olan, idealist
+IDEALISTIC	(sıfat) idealist: idealizm öğretisine bağlı filozof
+IDEALISTS	(ad) çoğul çekimi: idealist
+IDEALIZATION	(ad) idealization kelimesinin karşılığı: ⟪arıtma|ARITMA⟫
+IDEALIZATIONS	(idealization sözcüğünün çekimi) (ad) idealization kelimesinin karşılığı: ⟪arıtma|ARITMA⟫
+IDEALIZED	(eylem) idealize sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+IDEALS	(ad) ideal sözcüğünün çoğul çekimi: ülkü
+IDEAS	(ad) idea sözcüğünün çoğul çekimi: düşünce, fikir
+IDEATION	(ad) düşünsel: düşünce ile ilgili, düşünce sonucu ortaya çıkan, düşünceye dayanan, fikrî
+IDEATIONAL	(sıfat) düşünsel: düşünce ile ilgili, düşünce sonucu ortaya çıkan, düşünceye dayanan, fikrî
+IDEATIONALLY	(ideational sözcüğünün çekimi) (sıfat) düşünsel: düşünce ile ilgili, düşünce sonucu ortaya çıkan, düşünceye dayanan, fikrî
+IDEATIONS	(ideation sözcüğünün çekimi) (ad) düşünsel: düşünce ile ilgili, düşünce sonucu ortaya çıkan, düşünceye dayanan, fikrî
+IDENTICAL	(sıfat) özdeş: Her türlü nitelik bakımından eşit olan, ayırt edilmeyecek kadar benzer olan, aynı.
+IDENTIFICATION	(ad) belirleme, kimliğini tespit etme
+IDENTIFICATIONS	(identification sözcüğünün çekimi) (ad) belirleme, kimliğini tespit etme
+IDENTIFIED	(eylem) identify sözcüğünün ed şekli çekimi: belirlemek, tanımak, tespit etmek
+IDENTIFIER	(ad) kimlik: Toplumsal bir varlık olarak insanın nasıl bir kimse olduğunu gösteren belirti, nitelik ve özelliklerin bütünü; etiket (ayrıca: belirleyici, tanımlayıcı)
+IDENTIFIERS	(ad) çoğul çekimi: identifier
+IDENTIFIES	(identify sözcüğünün çekimi) (eylem) tanımak: Bir kimse veya şeyle ilgili, doğru ve tam bilgisi bulunmak: (ayrıca: belirlemek, tespit etmek)
+IDENTIFY	(eylem) tanımak: Bir kimse veya şeyle ilgili, doğru ve tam bilgisi bulunmak: (ayrıca: belirlemek, tespit etmek)
+IDENTIFYING	(eylem) identify sözcüğünün şimdiki zaman ortaç ve gerund çekimi: belirlemek, tanımak, tespit etmek
+IDENTITIES	(ad) çoğul çekimi: identity
+IDENTITY	(ad) kimlik: Toplumsal bir varlık olarak insanın nasıl bir kimse olduğunu gösteren belirti, nitelik ve özelliklerin bütünü; etiket
+IDEOGRAM	(ad) ideogram kelimesinin karşılığı: düşünyazı
+IDEOGRAMS	(ad) çoğul çekimi: ideogram
+IDEOGRAPH	(ad) ideograph kelimesinin karşılığı: kavram yazı
+IDEOGRAPHIES	(ideography sözcüğünün çekimi) (ad) ideography kelimesinin karşılığı: düşün yazım
+IDEOGRAPHS	(ideograph sözcüğünün çekimi) (ad) ideograph kelimesinin karşılığı: kavram yazı
+IDEOGRAPHY	(ad) ideography kelimesinin karşılığı: düşün yazım
+IDEOLOGIC	(sıfat) ideologic kelimesinin karşılığı: ⟪ideolojik|İDEOLOJİK⟫
+IDEOLOGICAL	(sıfat) ideological kelimesinin karşılığı: ⟪ideolojik|İDEOLOJİK⟫
+IDEOLOGIES	(ad) çoğul çekimi: ideology
+IDEOLOGISTS	(ad) çoğul çekimi: ideologist
+IDEOLOGUE	(ad) ideolog: Bir ideolojinin akıl hocalığını yapan kimse
+IDEOLOGUES	(ad) ideologue sözcüğünün çoğul çekimi: ideolog
+IDEOLOGY	(ad) ideoloji: Felsefî, sosyolojik ya da idarî bir doktrin oluşturan, ideal olarak da kabul edilebilen, kişi ve kurumların davranışlarına yön veren düşünceler bütünü
+IDIOCIES	(ad) çoğul çekimi: idiocy
+IDIOLECT	(ad) idiolect kelimesinin karşılığı: birey dil
+IDIOLECTS	(ad) çoğul çekimi: idiolect
+IDIOM	(ad) deyim: genellikle gerçek anlamından az çok ayrı, kendine özgü bir anlam taşıyan kalıplaşmış söz öbeği, tabir
+IDIOMATIC	(ad) idiomatic kelimesinin karşılığı: deyimsel
+IDIOMS	(ad) çoğul çekimi: idiom
+IDIOT	(sıfat) ahmak: aklını gereği gibi kullanamayan, bön, budala, aptal (ayrıca: alık, aptal)
+IDIOTIC	(sıfat) bunak: bunamış olan, matuh
+IDIOTS	(idiot sözcüğünün çekimi) (sıfat) ahmak: aklını gereği gibi kullanamayan, bön, budala, aptal (ayrıca: alık, aptal)
+IDLE	(eylem) idle kelimesinin karşılığı: boş durmak\n(sıfat) idle kelimesinin karşılığı: ⟪aylak|AYLAK⟫
+IDLED	(idle sözcüğünün çekimi) (eylem) idle kelimesinin karşılığı: boş durmak
+IDLER	(idle sözcüğünün çekimi) (eylem) idle kelimesinin karşılığı: boş durmak
+IDLERS	(ad) çoğul çekimi: idler
+IDLES	(idle sözcüğünün çekimi) (eylem) idle kelimesinin karşılığı: boş durmak
+IDLEST	(idle sözcüğünün çekimi) (eylem) idle kelimesinin karşılığı: boş durmak
+IDLING	(idle sözcüğünün çekimi) (eylem) idle kelimesinin karşılığı: boş durmak
+IDOLATER	(sıfat) putperest: Bir puta veya toteme dinsel sevgi besleyerek bu nesneye yönelik ritüeller geliştiren, tapan kişi.
+IDOLATERS	(ad) çoğul çekimi: idolater
+IDOLATRIES	(ad) çoğul çekimi: idolatry
+IDOLS	(ad) çoğul çekimi: idol
+IDYL	(ad) idyl kelimesinin karşılığı: ⟪idil|İDİL⟫
+IDYLL	(ad) idyll kelimesinin karşılığı: ⟪idil|İDİL⟫
+IDYLLS	(ad) çoğul çekimi: idyll
+IDYLS	(ad) çoğul çekimi: idyl
+IFFY	(sıfat) iffy kelimesinin karşılığı: ⟪şüpheli|ŞÜPHELİ⟫, ⟪belirsiz|BELİRSİZ⟫
+IGLOO	(ad) iglu: eskimoların (İnuitler) sürekli olarak ya da av sezonlarında geçici olarak yaşamak üzere sıkıştırılmış kar ve buz bloklarından yaptığı ev yapısı
+IGLOOS	(ad) igloo sözcüğünün çoğul çekimi: iglu
+IGNITE	(ad) yakmak: yanmasını sağlamak veya yanmasına yol açmak, tutuşturmak
+IGNITED	(ignite sözcüğünün çekimi) (ad) yakmak: yanmasını sağlamak veya yanmasına yol açmak, tutuşturmak
+IGNITES	(ignite sözcüğünün çekimi) (ad) yakmak: yanmasını sağlamak veya yanmasına yol açmak, tutuşturmak
+IGNITING	(ignite sözcüğünün çekimi) (ad) yakmak: yanmasını sağlamak veya yanmasına yol açmak, tutuşturmak
+IGNOBLE	(sıfat) aşağılık: niteliği düşük, adi (ayrıca: alçak, rezil)
+IGNOMINIES	(ad) ignominy sözcüğünün çoğul çekimi: kepazelik; rezalet; rezillik; zillet
+IGNOMINIOUS	(sıfat) ignominious kelimesinin karşılığı: ⟪alçaltıcı|ALÇALTICI⟫, yüz kızartıcı
+IGNOMINY	(ad) kepazelik: utanmazlık (ayrıca: rezalet, rezillik)
+IGNORAMUS	(ad) ignoramus kelimesinin karşılığı: cahil kimse
+IGNORAMUSES	(ignoramus sözcüğünün çekimi) (ad) ignoramus kelimesinin karşılığı: cahil kimse
+IGNORANCE	(ad) bilgisizlik: Bilgisiz olma veya bilgi yokluğu durumu, cehalet (ayrıca: cehalet)
+IGNORANCES	(ad) ignorance sözcüğünün çoğul çekimi: cehalet, bilgisizlik
+IGNORANT	(sıfat) bilgisiz: bilgi sahibi olmayan, bilisiz, malûmatsız, cahil (ayrıca: cahil)
+IGNORED	(eylem) ignore sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+IGUANA	(ad) iguana: iguanagillerden, 1-2 metre boyunda, Amerika'nın tropikal bölgelerinde yaşayan, sırtında dikenli çıkıntılar bulunan, pullu, büyük sürüngen; Hint kertenkelesi.
+IGUANAS	(ad) çoğul çekimi: iguana
+IKONS	(ad) çoğul çekimi: ikon
+ILL	(sıfat) hasta: Hastalık, kaza veya yaralanma dolayısıyla fizik veya ruh sağlığı bozulmuş ve tedavi edilmesi gereken (kimse, hayvan, organ); rahatsız, sayrı, sökel, alil, pestil.
+ILLATIONS	(ad) çoğul çekimi: illation
+ILLATIVE	(ad) illative kelimesinin karşılığı: giriş durumu
+ILLATIVES	(ad) çoğul çekimi: illative
+ILLEGAL	(sıfat) illegal kelimesinin karşılığı: kanun dışı, yasa dışı
+ILLEGALITIES	(ad) çoğul çekimi: illegality
+ILLEGALS	(ad) çoğul çekimi: illegal
+ILLEGITIMATE	(sıfat) illegitimate kelimesinin karşılığı: dokuz babalı
+ILLER	(ill sözcüğünün çekimi) (sıfat) hasta: Hastalık, kaza veya yaralanma dolayısıyla fizik veya ruh sağlığı bozulmuş ve tedavi edilmesi gereken...
+ILLEST	(ill sözcüğünün çekimi) (sıfat) hasta: Hastalık, kaza veya yaralanma dolayısıyla fizik veya ruh sağlığı bozulmuş ve tedavi edilmesi gereken...
+ILLICIT	(sıfat) illicit kelimesinin karşılığı: yasa dışı
+ILLITERATES	(ad) çoğul çekimi: illiterate
+ILLNESS	(ad) illet: hastalık
+ILLNESSES	(ad) çoğul çekimi: illness
+ILLOGICAL	(sıfat) mantıksız: mantığa uygun davranmayan
+ILLS	(ad) çoğul çekimi: ill
+ILLUMINATE	(eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: ışıklandırmak)
+ILLUMINATED	(illuminate sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: ışıklandırmak)
+ILLUMINATES	(ad) çoğul çekimi: illuminate
+ILLUMINATING	(illuminate sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: ışıklandırmak)
+ILLUMINATINGLY	(illuminate sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: ışıklandırmak)
+ILLUMINATION	(ad) illumination kelimesinin karşılığı: ⟪aydınlatma|AYDINLATMA⟫
+ILLUMINATIONS	(illumination sözcüğünün çekimi) (ad) illumination kelimesinin karşılığı: ⟪aydınlatma|AYDINLATMA⟫
+ILLUSION	(ad) illüzyon: yanılsama (ayrıca: yanılsama)
+ILLUSIONIST	(ad) illusionist kelimesinin karşılığı: ⟪illüzyonist|İLLÜZYONİST⟫
+ILLUSIONISTS	(ad) çoğul çekimi: illusionist
+ILLUSIONS	(ad) illusion sözcüğünün çoğul çekimi: illüzyon, yanılsama
+ILLUSTRATIONS	(ad) illustration sözcüğünün çoğul çekimi
+ILLUSTRATORS	(ad) çoğul çekimi: illustrator
+IMAGE	(ad) image kelimesinin karşılığı: ⟪imaj|İMAJ⟫
+IMAGED	(image sözcüğünün çekimi) (ad) image kelimesinin karşılığı: ⟪imaj|İMAJ⟫
+IMAGERS	(ad) çoğul çekimi: imager
+IMAGES	(ad) image kelimesinin çoğulu
+IMAGINABLE	(sıfat) imaginable kelimesinin karşılığı: düşünülebilir
+IMAGINARIES	(imaginary sözcüğünün çekimi) (sıfat) imaginary kelimesinin karşılığı: ⟪düşüncel|DÜŞÜNCEL⟫
+IMAGINARY	(sıfat) imaginary kelimesinin karşılığı: ⟪düşüncel|DÜŞÜNCEL⟫
+IMAGINATION	(ad) imgelem: hayal dünyası, imajinasyon (ayrıca: düş, hayal gücü)
+IMAGINATIONS	(imagination sözcüğünün çekimi) (ad) imgelem: hayal dünyası, imajinasyon (ayrıca: düş, hayal gücü)
+IMAGINE	(eylem) imgelemek: bir şeyin imgesini zihinde canlandırmak, hayal etmek
+IMAGINED	(eylem) imagine sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: imgelemek
+IMAGING	(image sözcüğünün çekimi) (ad) image kelimesinin karşılığı: ⟪imaj|İMAJ⟫
+IMAGINGS	(image sözcüğünün çekimi) (ad) image kelimesinin karşılığı: ⟪imaj|İMAJ⟫
+IMAGINING	(imagine sözcüğünün çekimi) (eylem) imgelemek: bir şeyin imgesini zihinde canlandırmak, hayal etmek
+IMAM	(ad) imam: Bazı küçük İslam devletlerinde devlet başkanı.
+IMAMS	(imam sözcüğünün çekimi) (ad) imam: Bazı küçük İslam devletlerinde devlet başkanı.
+IMBALANCES	(ad) çoğul çekimi: imbalance
+IMBECILE	(sıfat) imbecile kelimesinin karşılığı: ⟪embesil|EMBESİL⟫
+IMBECILES	(ad) çoğul çekimi: imbecile
+IMBIBERS	(ad) çoğul çekimi: imbiber
+IMBIBITIONS	(ad) çoğul çekimi: imbibition
+IMBRICATE	(ad) imbricate kelimesinin karşılığı: ⟪binme|BİNME⟫
+IMBRICATED	(imbricate sözcüğünün çekimi) (ad) imbricate kelimesinin karşılığı: ⟪binme|BİNME⟫
+IMBRICATES	(imbricate sözcüğünün çekimi) (ad) imbricate kelimesinin karşılığı: ⟪binme|BİNME⟫
+IMBRICATING	(imbricate sözcüğünün çekimi) (ad) imbricate kelimesinin karşılığı: ⟪binme|BİNME⟫
+IMBRICATIONS	(ad) çoğul çekimi: imbrication
+IMBROGLIO	(ad) karışıklık: karışık olma durumu, keşmekeş, keşmekeşlik, teşevvüş (ayrıca: karmaşık durum)
+IMBROGLIOS	(imbroglio sözcüğünün çekimi) (ad) karışıklık: karışık olma durumu, keşmekeş, keşmekeşlik, teşevvüş (ayrıca: karmaşık durum)
+IMIDAZOLES	(ad) çoğul çekimi: imidazole
+IMIDES	(ad) çoğul çekimi: imide
+IMITATE	(eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITATED	(imitate sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITATES	(imitate sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITATING	(imitate sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITATION	(ad) yapay: Doğadaki örneklerine benzetilerek insan eliyle yapılmış veya üretilmiş. (ayrıca: imitasyon, taklit)
+IMITATIONS	(imitation sözcüğünün çekimi) (ad) yapay: Doğadaki örneklerine benzetilerek insan eliyle yapılmış veya üretilmiş. (ayrıca: imitasyon, taklit)
+IMMACULATE	(sıfat) tertemiz: çok temiz, her yanı temiz, arı sili, tiril tiril, pirüpak (ayrıca: kusursuz)
+IMMANENCE	(ad) immanence kelimesinin karşılığı: ⟪içkinlik|İÇKİNLİK⟫
+IMMANENCES	(immanence sözcüğünün çekimi) (ad) immanence kelimesinin karşılığı: ⟪içkinlik|İÇKİNLİK⟫
+IMMANENT	(ad) içkin: Yalnızca bilinçten olan, yalnızca bilinç içeriği olarak var olan (şey), mündemiç (ayrıca: mündemiç)
+IMMANENTLY	(immanent sözcüğünün çekimi) (ad) içkin: Yalnızca bilinçten olan, yalnızca bilinç içeriği olarak var olan (şey), mündemiç (ayrıca: mündemiç)
+IMMATURITIES	(ad) çoğul çekimi: immaturity
+IMMEDIACIES	(ad) çoğul çekimi: immediacy
+IMMEDIATE	(sıfat) immediate kelimesinin karşılığı: ⟪birincil|BİRİNCİL⟫
+IMMEDIATELY	(zarf) immediately kelimesinin karşılığı: ⟪hemen|HEMEN⟫
+IMMENSE	(sıfat) engin: Ucu bucağı görünmeyecek kadar geniş, çok geniş; vâsi.
+IMMENSER	(immense sözcüğünün çekimi) (sıfat) engin: Ucu bucağı görünmeyecek kadar geniş, çok geniş; vâsi.
+IMMENSEST	(immense sözcüğünün çekimi) (sıfat) engin: Ucu bucağı görünmeyecek kadar geniş, çok geniş; vâsi.
+IMMENSITIES	(ad) çoğul çekimi: immensity
+IMMERSE	(eylem) batırmak: yitirmek
+IMMERSED	(eylem) immerse sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: batırmak
+IMMERSES	(immerse sözcüğünün çekimi) (eylem) batırmak: yitirmek
+IMMERSING	(immerse sözcüğünün çekimi) (eylem) batırmak: yitirmek
+IMMIGRANT	(ad) sürekli olarak yaşamak üzere başka bir ülkeye gelen kişi, göçmen.
+IMMIGRANTS	(immigrant sözcüğünün çekimi) (ad) sürekli olarak yaşamak üzere başka bir ülkeye gelen kişi, göçmen.
+IMMIGRATION	(ad) hicret: göç (ayrıca: göç etme)
+IMMIGRATIONS	(ad) immigration sözcüğünün çoğul çekimi: göç etme, hicret
+IMMINENT	(sıfat) yakın: Erişmesi, olması zaman bakımından yaklaşmış olan. (ayrıca: eli kulağında, olması yakın)
+IMMODEST	(sıfat) immodest kelimesinin karşılığı: mütevazi olmayan
+IMMOLATE	(eylem) immolate kelimesinin karşılığı: kurban etmek
+IMMOLATED	(immolate sözcüğünün çekimi) (eylem) immolate kelimesinin karşılığı: kurban etmek
+IMMOLATES	(immolate sözcüğünün çekimi) (eylem) immolate kelimesinin karşılığı: kurban etmek
+IMMOLATING	(immolate sözcüğünün çekimi) (eylem) immolate kelimesinin karşılığı: kurban etmek
+IMMORAL	(sıfat) immoral kelimesinin karşılığı: ⟪iffetsiz|İFFETSİZ⟫
+IMMORALITIES	(ad) çoğul çekimi: immorality
+IMMORALITY	(ad) immorality kelimesinin karşılığı: ⟪ahlaksızlık|AHLAKSIZLIK⟫
+IMMORALLY	(zarf) ahlaksızca: ahlaksız biçimde veya tarzda, ahlaksızcasına (ayrıca: ahlaksızcasına)
+IMMORTAL	(sıfat) immortal kelimesinin karşılığı: ⟪ölümsüz|ÖLÜMSÜZ⟫, ⟪ebedi|EBEDİ⟫
+IMMORTALISE	(eylem) immortalise kelimesinin karşılığı: ⟪ölümsüzleştirmek|ÖLÜMSÜZLEŞTİRMEK⟫
+IMMORTALISED	(immortalise sözcüğünün çekimi) (eylem) immortalise kelimesinin karşılığı: ⟪ölümsüzleştirmek|ÖLÜMSÜZLEŞTİRMEK⟫
+IMMORTALISES	(immortalise sözcüğünün çekimi) (eylem) immortalise kelimesinin karşılığı: ⟪ölümsüzleştirmek|ÖLÜMSÜZLEŞTİRMEK⟫
+IMMORTALISING	(immortalise sözcüğünün çekimi) (eylem) immortalise kelimesinin karşılığı: ⟪ölümsüzleştirmek|ÖLÜMSÜZLEŞTİRMEK⟫
+IMMORTALITIES	(immortality sözcüğünün çekimi) (ad) ölümsüzlük: Ölümsüz olma durumu, ölmezlik
+IMMORTALITY	(ad) ölümsüzlük: Ölümsüz olma durumu, ölmezlik
+IMMORTALS	(immortal sözcüğünün çekimi) (sıfat) immortal kelimesinin karşılığı: ⟪ölümsüz|ÖLÜMSÜZ⟫, ⟪ebedi|EBEDİ⟫
+IMMORTELLES	(ad) çoğul çekimi: immortelle
+IMMOVABLE	(sıfat) fiziksel olarak hareket ettirilemeyen, hareketsiz, yerinden oynamaz, sabit, kımıldamaz, durağan, taşınmaz\n(ad) hareket ettirilemeyen herhangi bir şey
+IMMOVABLES	(ad) immovable sözcüğünün çoğul çekimi: fiziksel olarak hareket ettirilemeyen, hareketsiz, yerinden oynamaz, sabit, kımıldamaz, durağan,...
+IMMUNE	(sıfat) immune kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMMUNES	(immune sözcüğünün çekimi) (sıfat) immune kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMMUNITIES	(ad) çoğul çekimi: immunity
+IMMUNITY	(ad) immunity kelimesinin karşılığı: ⟪bağışıklık|BAĞIŞIKLIK⟫
+IMMUNIZATIONS	(ad) çoğul çekimi: immunization
+IMMUNOGLOBULIN	(ad) antikor: Çok hücreli hayvansal organizmaların bağışıklık sistemi tarafından kendi organizmalarına ait olmayan organik yapılara karşı geliştirilen moleküller.
+IMMUNOGLOBULINS	(ad) çoğul çekimi: immunoglobulin
+IMMUNOLOGIES	(immunology sözcüğünün çekimi) (ad) immünoloji: Bağışıklık bilimi
+IMMUNOLOGISTS	(ad) çoğul çekimi: immunologist
+IMMUNOLOGY	(ad) immünoloji: Bağışıklık bilimi
+IMMUNOSUPPRESSANTS	(ad) çoğul çekimi: immunosuppressant
+IMMUNOTHERAPIES	(ad) çoğul çekimi: immunotherapy
+IMMUREMENTS	(ad) çoğul çekimi: immurement
+IMMUTABLE	(sıfat) değişmez: aynen kalan, değişikliğe uğramayan (ayrıca: sabit)
+IMPACT	(ad) etki: bir kişi veya nesnenin başka bir kişi veya şey üzerindeki gücü, tesir, hasiyet
+IMPACTED	(impact sözcüğünün çekimi) (ad) etki: bir kişi veya nesnenin başka bir kişi veya şey üzerindeki gücü, tesir, hasiyet
+IMPACTER	(impact sözcüğünün çekimi) (ad) etki: bir kişi veya nesnenin başka bir kişi veya şey üzerindeki gücü, tesir, hasiyet
+IMPACTING	(impact sözcüğünün çekimi) (ad) etki: bir kişi veya nesnenin başka bir kişi veya şey üzerindeki gücü, tesir, hasiyet
+IMPACTS	(ad) impact sözcüğünün çoğul çekimi: etki
+IMPAIR	(eylem) bozmak: (mecaz) kötü duruma getirmek. (ayrıca: zarar vermek)
+IMPAIRED	(sıfat) bozuk: (mecaz) gergin, huzursuz, karışık, kötümser (ayrıca: hasarlı, kusurlu)\n(eylem) impair sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: zarar vermek; bozmak
+IMPAIRING	(impair sözcüğünün çekimi) (eylem) bozmak: (mecaz) kötü duruma getirmek. (ayrıca: zarar vermek)
+IMPAIRMENTS	(ad) çoğul çekimi: impairment
+IMPAIRS	(impair sözcüğünün çekimi) (eylem) bozmak: (mecaz) kötü duruma getirmek. (ayrıca: zarar vermek)
+IMPALEMENTS	(ad) çoğul çekimi: impalement
+IMPART	(eylem) açıklamak: belirtmek, göstermek, açığa vurmak, izhar etmek (ayrıca: bildirmek, tebliğ etmek)
+IMPARTATIONS	(ad) çoğul çekimi: impartation
+IMPARTED	(impart sözcüğünün çekimi) (eylem) açıklamak: belirtmek, göstermek, açığa vurmak, izhar etmek (ayrıca: bildirmek, tebliğ etmek)
+IMPARTING	(impart sözcüğünün çekimi) (eylem) açıklamak: belirtmek, göstermek, açığa vurmak, izhar etmek (ayrıca: bildirmek, tebliğ etmek)
+IMPARTS	(impart sözcüğünün çekimi) (eylem) açıklamak: belirtmek, göstermek, açığa vurmak, izhar etmek (ayrıca: bildirmek, tebliğ etmek)
+IMPASSIVE	(sıfat) duygusuz: duygusu, duyarlığı olmayan, hissiz (ayrıca: hissiz)
+IMPEACH	(eylem) impeach kelimesinin karşılığı: itham etmek
+IMPEACHED	(impeach sözcüğünün çekimi) (eylem) impeach kelimesinin karşılığı: itham etmek
+IMPEACHES	(impeach sözcüğünün çekimi) (eylem) impeach kelimesinin karşılığı: itham etmek
+IMPEACHING	(impeach sözcüğünün çekimi) (eylem) impeach kelimesinin karşılığı: itham etmek
+IMPEDANCE	(ad) impedance kelimesinin karşılığı: empedans
+IMPEDANCES	(impedance sözcüğünün çekimi) (ad) impedance kelimesinin karşılığı: empedans
+IMPEDE	(eylem) geciktirmek: gecikmesine sebep olmak, tehir etmek
+IMPEDED	(impede sözcüğünün çekimi) (eylem) geciktirmek: gecikmesine sebep olmak, tehir etmek
+IMPEDER	(impede sözcüğünün çekimi) (eylem) geciktirmek: gecikmesine sebep olmak, tehir etmek
+IMPEDES	(impede sözcüğünün çekimi) (eylem) geciktirmek: gecikmesine sebep olmak, tehir etmek
+IMPEDIMENT	(ad) engel: bir şeyin gerçekleşmesini önleyen sebep, mâni, mahzur, müşkül, pürüz, mânia, handikap, beis
+IMPEDIMENTS	(ad) çoğul çekimi: impediment
+IMPEDING	(impede sözcüğünün çekimi) (eylem) geciktirmek: gecikmesine sebep olmak, tehir etmek
+IMPELLERS	(ad) çoğul çekimi: impeller
+IMPENDING	(sıfat) impending kelimesinin karşılığı: olması yakın, olmak üzere, eli kulağında
+IMPERATIVE	(ad) imperative kelimesinin karşılığı: ⟪zorunluk|ZORUNLUK⟫, ⟪zorunluluk|ZORUNLULUK⟫, ⟪gereklilik|GEREKLİLİK⟫\n(sıfat) imperative kelimesinin karşılığı: ⟪zaruri|ZARURİ⟫, ⟪zorunlu|ZORUNLU⟫, ⟪gerekli|GEREKLİ⟫
+IMPERATIVES	(ad) çoğul çekimi: imperative
+IMPERFECT	(ad) hikâye birleşik zamanı, geçmiş zaman\n(sıfat) imperfect kelimesinin karşılığı: ⟪eksik|EKSİK⟫, ⟪natamam|NATAMAM⟫
+IMPERFECTIVES	(ad) çoğul çekimi: imperfective
+IMPERFECTS	(ad) çoğul çekimi: imperfect
+IMPERIA	(imperium sözcüğünün çekimi) (ad) imparatorluk: imparator olma durumu veya unvanı
+IMPERIALISM	(ad) emperyalizm: bir milletin sömürü temeline dayanarak başka bir milleti siyasi ve ekonomik egemenliği altına alıp yayılması veya yayılmayı istemesi, yayılmacılık, yayılımcılık (ayrıca: yayılmacılık, yayılımcılık)
+IMPERIALISMS	(imperialism sözcüğünün çekimi) (ad) emperyalizm: bir milletin sömürü temeline dayanarak başka bir milleti siyasi ve ekonomik egemenliği altına alıp...
+IMPERIALIST	(ad) emperyalist: Emperyalizm yanlısı olan
+IMPERIALISTS	(ad) çoğul çekimi: imperialist
+IMPERIALS	(ad) çoğul çekimi: imperial
+IMPERIOUS	(sıfat) zorba: Gücüne güvenerek hükmü altında bulunanlara söz hakkı ve davranış özgürlüğü tanımayan (kimse). (ayrıca: buyurucu)
+IMPERIUM	(ad) imparatorluk: imparator olma durumu veya unvanı
+IMPERIUMS	(imperium sözcüğünün çekimi) (ad) imparatorluk: imparator olma durumu veya unvanı
+IMPERSONAL	(ad) impersonal kelimesinin karşılığı: kişisiz
+IMPERSONATE	(eylem) impersonate kelimesinin karşılığı: taklidini yapmak
+IMPERSONATED	(impersonate sözcüğünün çekimi) (eylem) impersonate kelimesinin karşılığı: taklidini yapmak
+IMPERSONATES	(impersonate sözcüğünün çekimi) (eylem) impersonate kelimesinin karşılığı: taklidini yapmak
+IMPERSONATING	(impersonate sözcüğünün çekimi) (eylem) impersonate kelimesinin karşılığı: taklidini yapmak
+IMPERSONATIONS	(ad) çoğul çekimi: impersonation
+IMPERSONATORS	(ad) çoğul çekimi: impersonator
+IMPERTINENT	(sıfat) kaba: Hafif olduğu hâlde kalın veya hacimli. (ayrıca: saygısız)
+IMPINGEMENT	(ad) impingement kelimesinin karşılığı: ⟪vurma|VURMA⟫, ⟪çarpma|ÇARPMA⟫
+IMPINGEMENTS	(impingement sözcüğünün çekimi) (ad) impingement kelimesinin karşılığı: ⟪vurma|VURMA⟫, ⟪çarpma|ÇARPMA⟫
+IMPISH	(sıfat) yaramaz: uygun ve yararlı olmayan, bir işe yaramayan
+IMPLACABLE	(sıfat) implacable kelimesinin karşılığı: yatıştırılamaz, sakinleştirilemez, dindirilemez
+IMPLANT	(ad) ekit: Vücuda herhangi bir işlevi yerine getirmesi için yerleştirilen doku parçası, alet vb.
+IMPLANTATION	(ad) implantation kelimesinin karşılığı: ⟪implantasyon|İMPLANTASYON⟫
+IMPLANTATIONS	(implantation sözcüğünün çekimi) (ad) implantation kelimesinin karşılığı: ⟪implantasyon|İMPLANTASYON⟫
+IMPLANTED	(implant sözcüğünün çekimi) (ad) ekit: Vücuda herhangi bir işlevi yerine getirmesi için yerleştirilen doku parçası, alet vb.
+IMPLANTER	(implant sözcüğünün çekimi) (ad) ekit: Vücuda herhangi bir işlevi yerine getirmesi için yerleştirilen doku parçası, alet vb.
+IMPLANTING	(implant sözcüğünün çekimi) (ad) ekit: Vücuda herhangi bir işlevi yerine getirmesi için yerleştirilen doku parçası, alet vb.
+IMPLANTS	(implant sözcüğünün çekimi) (ad) ekit: Vücuda herhangi bir işlevi yerine getirmesi için yerleştirilen doku parçası, alet vb.
+IMPLEMENT	(ad) implement kelimesinin karşılığı: ⟪araç|ARAÇ⟫\n(eylem) uygulamak: kuramsal bilgiyi, ilkeyi, düşünceyi herhangi bir alanda hayata geçirmek, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTATION	(ad) implementation kelimesinin karşılığı: ⟪tatbik|TATBİK⟫
+IMPLEMENTATIONS	(ad) çoğul çekimi: implementation
+IMPLEMENTED	(implement sözcüğünün çekimi) (ad) implement kelimesinin karşılığı: ⟪araç|ARAÇ⟫
+IMPLEMENTER	(implement sözcüğünün çekimi) (ad) implement kelimesinin karşılığı: ⟪araç|ARAÇ⟫
+IMPLEMENTING	(implement sözcüğünün çekimi) (ad) implement kelimesinin karşılığı: ⟪araç|ARAÇ⟫
+IMPLEMENTS	(ad) çoğul çekimi: implement
+IMPLICATION	(ad) implication kelimesinin karşılığı: sezdirim
+IMPLICATIONS	(implication sözcüğünün çekimi) (ad) implication kelimesinin karşılığı: sezdirim
+IMPLICIT	(ad) implicit kelimesinin karşılığı: ⟪örtük|ÖRTÜK⟫
+IMPLODE	(eylem) implode kelimesinin karşılığı: ⟪yıkılmak|YIKILMAK⟫
+IMPLODED	(implode sözcüğünün çekimi) (eylem) implode kelimesinin karşılığı: ⟪yıkılmak|YIKILMAK⟫
+IMPLODES	(implode sözcüğünün çekimi) (eylem) implode kelimesinin karşılığı: ⟪yıkılmak|YIKILMAK⟫
+IMPLODING	(implode sözcüğünün çekimi) (eylem) implode kelimesinin karşılığı: ⟪yıkılmak|YIKILMAK⟫
+IMPLORE	(eylem) implore kelimesinin karşılığı: ⟪yalvarmak|YALVARMAK⟫
+IMPLORED	(implore sözcüğünün çekimi) (eylem) implore kelimesinin karşılığı: ⟪yalvarmak|YALVARMAK⟫
+IMPLORES	(implore sözcüğünün çekimi) (eylem) implore kelimesinin karşılığı: ⟪yalvarmak|YALVARMAK⟫
+IMPLORING	(implore sözcüğünün çekimi) (eylem) implore kelimesinin karşılığı: ⟪yalvarmak|YALVARMAK⟫
+IMPLOSION	(ad) implosion kelimesinin karşılığı: içpatlamalı
+IMPLOSIONS	(implosion sözcüğünün çekimi) (ad) implosion kelimesinin karşılığı: içpatlamalı
+IMPLOSIVE	(sıfat) implosive kelimesinin karşılığı: içpatlamalı
+IMPLOSIVES	(implosive sözcüğünün çekimi) (sıfat) implosive kelimesinin karşılığı: içpatlamalı
+IMPOLITE	(sıfat) saygısız: Saygısı olmayan, saygı göstermeyen (ayrıca: hürmetsiz, riayetsiz)
+IMPOLITELY	(zarf) terbiyesizce: terbiyesiz bir biçimde, saygısızca, terbiyesizcesine (ayrıca: saygısızca, hürmetsizce)
+IMPONDERABLE	(sıfat) imponderable kelimesinin karşılığı: tahmin edilemez, ölçülemez
+IMPONDERABLES	(imponderable sözcüğünün çekimi) (sıfat) imponderable kelimesinin karşılığı: tahmin edilemez, ölçülemez
+IMPORT	(ad) import kelimesinin karşılığı: dışalım\n(eylem) import kelimesinin karşılığı: içeri aktarmak
+IMPORTANCE	(ad) önem: bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet (ayrıca: ehemmiyet)
+IMPORTANCES	(importance sözcüğünün çekimi) (ad) önem: bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet (ayrıca: ehemmiyet)
+IMPORTANT	(sıfat) önemli: önemi olan, mühim, ehemmiyetli (ayrıca: mühim)
+IMPORTED	(import sözcüğünün çekimi) (ad) import kelimesinin karşılığı: dışalım
+IMPORTERS	(ad) çoğul çekimi: importer
+IMPORTING	(import sözcüğünün çekimi) (ad) import kelimesinin karşılığı: dışalım
+IMPORTS	(ad) import sözcüğünün çoğul çekimi: dışalım
+IMPORTUNITIES	(ad) çoğul çekimi: importunity
+IMPOSE	(eylem) impose kelimesinin karşılığı: yürürlüğe koymak
+IMPOSED	(impose sözcüğünün çekimi) (eylem) impose kelimesinin karşılığı: yürürlüğe koymak
+IMPOSERS	(ad) çoğul çekimi: imposer
+IMPOSES	(impose sözcüğünün çekimi) (eylem) impose kelimesinin karşılığı: yürürlüğe koymak
+IMPOSING	(impose sözcüğünün çekimi) (eylem) impose kelimesinin karşılığı: yürürlüğe koymak
+IMPOSSIBILITIES	(ad) çoğul çekimi: impossibility
+IMPOSSIBLE	(ad) impossible kelimesinin karşılığı: ⟪imkânsızlık|İMKANSIZLIK⟫\n(sıfat) imkânsız: olma ihtimali bulunmayan, olanaksız
+IMPOSTER	(ad) dolandırıcı: Birini aldatarak mal veya parasını alan kimse; ayyar, tokatçı, şarlatan
+IMPOSTERS	(ad) çoğul çekimi: imposter
+IMPOSTHUMES	(ad) çoğul çekimi: imposthume
+IMPOSTOR	(ad) sahtekâr: sahte işler yapan kişi (ayrıca: düzmeci)
+IMPOSTORS	(ad) çoğul çekimi: impostor
+IMPOSTS	(ad) çoğul çekimi: impost
+IMPOVERISHERS	(ad) çoğul çekimi: impoverisher
+IMPRECATIONS	(ad) çoğul çekimi: imprecation
+IMPREGNATE	(eylem) impregnate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+IMPREGNATED	(impregnate sözcüğünün çekimi) (eylem) impregnate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+IMPREGNATES	(impregnate sözcüğünün çekimi) (eylem) impregnate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+IMPREGNATING	(impregnate sözcüğünün çekimi) (eylem) impregnate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+IMPRESARIOS	(ad) çoğul çekimi: impresario
+IMPRESS	(eylem) impress kelimesinin karşılığı: ⟪etkilemek|ETKİLEMEK⟫\n(ad) impress kelimesinin karşılığı: ⟪etkileme|ETKİLEME⟫, ⟪etki|ETKİ⟫
+IMPRESSED	(eylem) impress sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: etkilemek
+IMPRESSES	(ad) impress sözcüğünün çoğul çekimi: etkilemek\n(eylem) impress sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: etkilemek
+IMPRESSING	(eylem) impress sözcüğünün şimdiki zaman ortaç ve gerund çekimi: etkilemek
+IMPRESSION	(ad) impression kelimesinin karşılığı: ⟪basılış|BASILIŞ⟫
+IMPRESSIONIST	(sıfat) izlenimci: Izlenimcilik yanlısı olan (sanat veya sanatçı), empresyonist (ayrıca: empresyonist)
+IMPRESSIONISTS	(ad) çoğul çekimi: impressionist
+IMPRESSIONS	(ad) impression sözcüğünün çoğul çekimi: basılış
+IMPRESSIVE	(sıfat) etkileyici: etkileyebilecek özellikte olan, karizmatik, büyüleyimli
+IMPRINTS	(ad) çoğul çekimi: imprint
+IMPRISONED	(sıfat) hapsedilmiş: tutuklu.
+IMPRISONMENT	(ad) hapis: kanunlara göre suçu belirlenen bir kimseyi cezaevine koyma cezası (ayrıca: hapsetme, tutukluluk)
+IMPRISONMENTS	(imprisonment sözcüğünün çekimi) (ad) hapis: kanunlara göre suçu belirlenen bir kimseyi cezaevine koyma cezası (ayrıca: hapsetme, tutukluluk)
+IMPROBABILITIES	(ad) çoğul çekimi: improbability
+IMPROMPTU	(ad) impromptu kelimesinin karşılığı: ⟪doğaçlama|DOĞAÇLAMA⟫
+IMPROMPTUS	(impromptu sözcüğünün çekimi) (ad) impromptu kelimesinin karşılığı: ⟪doğaçlama|DOĞAÇLAMA⟫
+IMPROPRIETIES	(ad) çoğul çekimi: impropriety
+IMPROPRIETY	(ad) halt: ugunsuz söz söyleme, uygunsuz iş yapma
+IMPROVE	(eylem) iyileşmek: iyi duruma gelmek (ayrıca: düzelmek, onmak)
+IMPROVED	(improve sözcüğünün çekimi) (eylem) iyileşmek: iyi duruma gelmek (ayrıca: düzelmek, onmak)
+IMPROVEMENT	(ad) gelişme: gelişmek işi, inkişaf, neşvünema, tekâmül, evolüsyon (ayrıca: iyileşme)
+IMPROVEMENTS	(ad) improvement sözcüğünün çoğul çekimi: gelişme, iyileşme
+IMPROVES	(improve sözcüğünün çekimi) (eylem) iyileşmek: iyi duruma gelmek (ayrıca: düzelmek, onmak)
+IMPROVIDENT	(sıfat) batakçı: borcunu ödememeyi alışkanlık edinmiş (kişi)
+IMPROVING	(improve sözcüğünün çekimi) (eylem) iyileşmek: iyi duruma gelmek (ayrıca: düzelmek, onmak)
+IMPROVISATION	(ad) emprovizasyon: Şiir veya müzikte hazırlanıp düşünmeden, birdenbire, içe doğduğu gibi söyleme veya çalma (ayrıca: doğaçlama)
+IMPROVISATIONS	(ad) improvisation sözcüğünün çoğul çekimi: doğaçlama, emprovizasyon
+IMPROVISE	(eylem) improvise kelimesinin karşılığı: ⟪doğaçlamak|DOĞAÇLAMAK⟫, doğaçlama yapmak
+IMPROVISED	(sıfat) doğaçlama: birdenbire, düşünmeden, içine doğduğu gibi, doğaçtan, doğmaca, irticalen, irticalî, emprovize\n(eylem) improvise sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: doğaçlamak, doğaçlama yapmak
+IMPROVISERS	(ad) çoğul çekimi: improviser
+IMPROVISES	(eylem) improvise sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: doğaçlamak, doğaçlama yapmak
+IMPROVISING	(eylem) improvise sözcüğünün şimdiki zaman ortaç ve gerund çekimi: doğaçlamak, doğaçlama yapmak\n(ad) doğaçlama: yazılı metni olmayan, kararlaştırılmış taslağı, yerine, zamanına göre oyuncular tarafından, sahnede yakıştırılan sözlerle tamamlanan oyun, tuluat
+IMPRUDENCE	(ad) akılsızlık: akılsızca yapılan iş veya davranış, budalalık (ayrıca: düşüncesizlik, ihtiyatsızlık)
+IMPRUDENCES	(ad) imprudence sözcüğünün çoğul çekimi: düşüncesizlik, akılsızlık, ihtiyatsızlık
+IMPRUDENT	(sıfat) dikkatsiz: işinde dikkatli davranmayan, dalgın, savruk, özensiz (ayrıca: düşüncesiz, tedbirsiz)
+IMPS	(ad) çoğul çekimi: imp
+IMPUDENT	(sıfat) impudent kelimesinin karşılığı: ⟪terbiyesiz|TERBİYESİZ⟫
+IMPUGN	(eylem) doğruluğunu, gerçekliğini, dürüstlüğünü, inandırıcılığını sorgulamak; yalan veya yanlış olduğunu söylemek
+IMPUGNED	(impugn sözcüğünün çekimi) (eylem) doğruluğunu, gerçekliğini, dürüstlüğünü, inandırıcılığını sorgulamak; yalan veya yanlış olduğunu söylemek
+IMPUGNERS	(ad) çoğul çekimi: impugner
+IMPUGNING	(impugn sözcüğünün çekimi) (eylem) doğruluğunu, gerçekliğini, dürüstlüğünü, inandırıcılığını sorgulamak; yalan veya yanlış olduğunu söylemek
+IMPUGNS	(impugn sözcüğünün çekimi) (eylem) doğruluğunu, gerçekliğini, dürüstlüğünü, inandırıcılığını sorgulamak; yalan veya yanlış olduğunu söylemek
+IMPULSE	(ad) impulse kelimesinin karşılığı: ⟪dürtü|DÜRTÜ⟫
+IMPULSED	(impulse sözcüğünün çekimi) (ad) impulse kelimesinin karşılığı: ⟪dürtü|DÜRTÜ⟫
+IMPULSES	(impulse sözcüğünün çekimi) (ad) impulse kelimesinin karşılığı: ⟪dürtü|DÜRTÜ⟫
+IMPULSING	(impulse sözcüğünün çekimi) (ad) impulse kelimesinin karşılığı: ⟪dürtü|DÜRTÜ⟫
+IMPUNITIES	(ad) çoğul çekimi: impunity
+IMPURE	(sıfat) karışık: ayrı nitelikteki şeylerden oluşmuş, katışık (ayrıca: mağşuş)
+IMPURITIES	(ad) çoğul çekimi: impurity
+IMPURITY	(ad) impurity kelimesinin karşılığı: safsızlık
+INACCESSIBILITIES	(inaccessibility sözcüğünün çekimi) (ad) erişilemezlik: bir şeyin bir yerden başka bir yere eriştirmenin imkân dahilinde olmaması durumu
+INACCESSIBILITY	(ad) erişilemezlik: bir şeyin bir yerden başka bir yere eriştirmenin imkân dahilinde olmaması durumu
+INACCESSIBLE	(sıfat) erişilemez: bir şeyin bir yerden başka bir yere eriştirmenin imkân dahilinde olmaması
+INACCURACIES	(ad) çoğul çekimi: inaccuracy
+INACCURATE	(sıfat) yanlış: hatalı bir biçimde (ayrıca: hatalı, kusurlu)
+INADEQUACIES	(ad) çoğul çekimi: inadequacy
+INADEQUACY	(ad) inadequacy kelimesinin karşılığı: ⟪arıza|ARIZA⟫
+INADEQUATE	(sıfat) yetersiz: gerekli bilgi ve yeteneği olmayan, yeterliği olmayan, kifayetsiz, ehliyetsiz (ayrıca: aciz)
+INANE	(ad) beyhude: yararsız, anlamsız
+INANER	(inane sözcüğünün çekimi) (ad) beyhude: yararsız, anlamsız
+INANES	(inane sözcüğünün çekimi) (ad) beyhude: yararsız, anlamsız
+INANEST	(inane sözcüğünün çekimi) (ad) beyhude: yararsız, anlamsız
+INANIMATE	(sıfat) cansız: canlı olmayan (varlık), camit
+INANIMATELY	(inanimate sözcüğünün çekimi) (sıfat) cansız: canlı olmayan (varlık), camit
+INAPPROPRIATE	(sıfat) yersiz: (mecaz) yerinde olmayan, yerinde değil, uygun düşmeyen, uygunsuz, anlamsız, manasız (ayrıca: münasebetsiz, yakışıksız)
+INATTENTIVE	(sıfat) inattentive kelimesinin karşılığı: bakar kör
+INATTENTIVENESS	(ad) gafillik: aymazlık (ayrıca: aymazlık, gaflet)
+INATTENTIVENESSES	(inattentiveness sözcüğünün çekimi) (ad) gafillik: aymazlık (ayrıca: aymazlık, gaflet)
+INAUDIBLE	(sıfat) inaudible kelimesinin karşılığı: duyulamayan, duyulamaz
+INAUGURATION	(ad) açılış: küşat, açım, yeni yapının, yerin ya da yeni kurumun çalışmaya başlaması (ayrıca: açış)
+INAUGURATIONS	(inauguration sözcüğünün çekimi) (ad) açılış: küşat, açım, yeni yapının, yerin ya da yeni kurumun çalışmaya başlaması (ayrıca: açış)
+INBORN	(ad) inborn kelimesinin karşılığı: doğaçtan
+INCALCULABLE	(sıfat) sayısız: sayılmayacak kadar çok, pek çok, sayımsız
+INCANDESCENT	(sıfat) akkor: Yüksek sıcaklıkta bulunması nedeniyle ısı, ışık ya da her ikisini birden yayan madde.
+INCANDESCENTLY	(incandescent sözcüğünün çekimi) (sıfat) akkor: Yüksek sıcaklıkta bulunması nedeniyle ısı, ışık ya da her ikisini birden yayan madde.
+INCANDESCENTS	(incandescent sözcüğünün çekimi) (sıfat) akkor: Yüksek sıcaklıkta bulunması nedeniyle ısı, ışık ya da her ikisini birden yayan madde.
+INCANTATIONS	(ad) incantation sözcüğünün çoğul çekimi
+INCAPABLE	(sıfat) kabiliyetsiz: kabiliyeti olmayan
+INCAPACITATE	(eylem) incapacitate kelimesinin karşılığı: âciz bırakmak
+INCAPACITATED	(incapacitate sözcüğünün çekimi) (eylem) incapacitate kelimesinin karşılığı: âciz bırakmak
+INCAPACITATES	(incapacitate sözcüğünün çekimi) (eylem) incapacitate kelimesinin karşılığı: âciz bırakmak
+INCAPACITATING	(incapacitate sözcüğünün çekimi) (eylem) incapacitate kelimesinin karşılığı: âciz bırakmak
+INCARCERATION	(ad) incarceration kelimesinin karşılığı: ⟪hapsetme|HAPSETME⟫, ⟪hapsedilme|HAPSEDİLME⟫
+INCARCERATIONS	(incarceration sözcüğünün çekimi) (ad) incarceration kelimesinin karşılığı: ⟪hapsetme|HAPSETME⟫, ⟪hapsedilme|HAPSEDİLME⟫
+INCARNADINES	(ad) çoğul çekimi: incarnadine
+INCENDIARIES	(ad) çoğul çekimi: incendiary
+INCENDIARISMS	(ad) çoğul çekimi: incendiarism
+INCENDIARY	(ad) incendiary kelimesinin karşılığı: yangın bombası\n(sıfat) incendiary kelimesinin karşılığı: ⟪kışkırtıcı|KIŞKIRTICI⟫, tahrik edici
+INCENSE	(ad) tütsü: çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde\n(eylem) incense kelimesinin karşılığı: tütsülemek
+INCENSED	(incense sözcüğünün çekimi) (ad) tütsü: çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde
+INCENSES	(incense sözcüğünün çekimi) (ad) tütsü: çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde
+INCENSING	(incense sözcüğünün çekimi) (ad) tütsü: çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde
+INCENTERS	(ad) çoğul çekimi: incenter
+INCENTIVE	(ad) incentive kelimesinin karşılığı: ⟪teşvik|TEŞVİK⟫
+INCENTIVES	(ad) çoğul çekimi: incentive
+INCEPTION	(ad) başlama: başlamak işi
+INCEPTIONS	(ad) inception sözcüğünün çoğul çekimi: başlama
+INCESSANT	(sıfat) aralıksız: birbirine bitişik olan, aralarında açıklık bulunmayan, kesintisiz
+INCEST	(ad) ensest: Ana-baba otoritesine sahip bir erişkin ile bir çocuk veya ergen arasındaki her çeşit cinsel ilişki
+INCESTS	(incest sözcüğünün çekimi) (ad) ensest: Ana-baba otoritesine sahip bir erişkin ile bir çocuk veya ergen arasındaki her çeşit cinsel ilişki
+INCH	(ad) 25.4 milimetreye tekabül eden bir uzunluk ölçüsü. Inç.
+INCHED	(inch sözcüğünün çekimi) (ad) 25.4 milimetreye tekabül eden bir uzunluk ölçüsü. Inç.
+INCHES	(ad) inch sözcüğünün çoğul çekimi: 25.4 milimetreye tekabül eden bir uzunluk ölçüsü. Inç.
+INCHING	(inch sözcüğünün çekimi) (ad) 25.4 milimetreye tekabül eden bir uzunluk ölçüsü. Inç.
+INCHOATIVE	(ad) inchoative kelimesinin karşılığı: başlamalı görünüş
+INCHOATIVELY	(inchoative sözcüğünün çekimi) (ad) inchoative kelimesinin karşılığı: başlamalı görünüş
+INCHOATIVES	(inchoative sözcüğünün çekimi) (ad) inchoative kelimesinin karşılığı: başlamalı görünüş
+INCHWORMS	(ad) çoğul çekimi: inchworm
+INCIDENCE	(ad) gelme: bir ışının, kaynağından çıkarak bir ayna yüzüne veya şeffaf bir cismin yüzeyine erişmesi
+INCIDENCES	(incidence sözcüğünün çekimi) (ad) gelme: bir ışının, kaynağından çıkarak bir ayna yüzüne veya şeffaf bir cismin yüzeyine erişmesi
+INCIDENT	(ad) olay: Ortaya çıkan, oluşan durum, ilgi çeken veya çekebilecek nitelikte olan her türlü iş; hadise, vaka (ayrıca: hadise, vaka)
+INCIDENTALLY	(zarf) incidentally kelimesinin karşılığı: sırası gelmişken, bu arada, bir ara, lâf arasında
+INCIDENTALS	(ad) çoğul çekimi: incidental
+INCIDENTS	(ad) incident sözcüğünün çoğul çekimi: hadise, olay, vaka
+INCINERATE	(eylem) yakmak; yakıp kül etmek
+INCINERATED	(incinerate sözcüğünün çekimi) (eylem) yakmak; yakıp kül etmek
+INCINERATES	(incinerate sözcüğünün çekimi) (eylem) yakmak; yakıp kül etmek
+INCINERATING	(incinerate sözcüğünün çekimi) (eylem) yakmak; yakıp kül etmek
+INCINERATORS	(ad) çoğul çekimi: incinerator
+INCIPIENCES	(ad) çoğul çekimi: incipience
+INCIPIENCIES	(ad) çoğul çekimi: incipiency
+INCISE	(ad) kazımak: metal bir yüzey üstüne sert bir araçla şekil çizmek, yazı yazmak, nakşetmek (ayrıca: oymak)
+INCISED	(incise sözcüğünün çekimi) (ad) kazımak: metal bir yüzey üstüne sert bir araçla şekil çizmek, yazı yazmak, nakşetmek (ayrıca: oymak)
+INCISES	(incise sözcüğünün çekimi) (ad) kazımak: metal bir yüzey üstüne sert bir araçla şekil çizmek, yazı yazmak, nakşetmek (ayrıca: oymak)
+INCISING	(incise sözcüğünün çekimi) (ad) kazımak: metal bir yüzey üstüne sert bir araçla şekil çizmek, yazı yazmak, nakşetmek (ayrıca: oymak)
+INCISIVE	(sıfat) incisive kelimesinin karşılığı: ⟪keskin|KESKİN⟫, keskin görüşlü
+INCISORS	(ad) çoğul çekimi: incisor
+INCISURES	(ad) çoğul çekimi: incisura
+INCITE	(eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+INCITED	(incite sözcüğünün çekimi) (eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+INCITEMENTS	(ad) çoğul çekimi: incitement
+INCITERS	(ad) çoğul çekimi: inciter
+INCITES	(incite sözcüğünün çekimi) (eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+INCITING	(incite sözcüğünün çekimi) (eylem) kışkırtmak: bir kişiyi kötü bir iş yapması için harekete geçirmek, tahrik etmek
+INCLINATION	(ad) inclination kelimesinin karşılığı: ⟪eğim|EĞİM⟫
+INCLINATIONS	(ad) inclination sözcüğünün çoğul çekimi: eğim
+INCLINING	(eylem) incline sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+INCLINOMETERS	(ad) çoğul çekimi: inclinometer
+INCLUDE	(eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCLUDED	(ad) bağımlı: bir kimseye veya şeye maddi veya manevi yönden aşırı bağlı olan
+INCLUDES	(ad) çoğul çekimi: include
+INCLUDING	(include sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCLUSION	(ad) inclusion kelimesinin karşılığı: altanlamlık
+INCLUSIONS	(inclusion sözcüğünün çekimi) (ad) inclusion kelimesinin karşılığı: altanlamlık
+INCLUSIVE	(sıfat) kapsamlı: kapsamı geniş olan, şümullü
+INCOHERENT	(sıfat) tutarsız: tutarlı olmayan, aralarında çelişki bulunan, insicamsız (ayrıca: abuzambak)
+INCOME	(ad) getiri: kazanç (ayrıca: kazanç, temettü)
+INCOMERS	(ad) çoğul çekimi: incomer
+INCOMES	(ad) income sözcüğünün çoğul çekimi: kazanç, getiri, temettü
+INCOMINGS	(ad) çoğul çekimi: incoming
+INCOMMENSURABLES	(ad) çoğul çekimi: incommensurable
+INCOMPATIBILITIES	(incompatibility sözcüğünün çekimi) (ad) incompatibility kelimesinin karşılığı: ⟪bağdaşmazlık|BAĞDAŞMAZLIK⟫
+INCOMPATIBILITY	(ad) incompatibility kelimesinin karşılığı: ⟪bağdaşmazlık|BAĞDAŞMAZLIK⟫
+INCOMPLETE	(ad) incomplete kelimesinin karşılığı: ⟪eksik|EKSİK⟫
+INCOMPLETENESS	(ad) incompleteness kelimesinin karşılığı: eksiltililik
+INCOMPLETENESSES	(incompleteness sözcüğünün çekimi) (ad) incompleteness kelimesinin karşılığı: eksiltililik
+INCOMPREHENSIBLE	(sıfat) abuk: saçma (söz, kişi, davranış)
+INCONCEIVABLY	(zarf) abukça: abuk bir biçimde
+INCONGRUENCES	(ad) çoğul çekimi: incongruence
+INCONGRUITIES	(ad) çoğul çekimi: incongruity
+INCONSISTENCIES	(ad) inconsistency sözcüğünün çoğul çekimi
+INCONSISTENT	(sıfat) tutarsız: tutarlı olmayan, aralarında çelişki bulunan, insicamsız (ayrıca: çelişkili)
+INCONSTANT	(sıfat) hakikatsiz: (mecaz) vefasız
+INCONTESTABILITIES	(ad) çoğul çekimi: incontestability
+INCONTINENT	(sıfat) incontinent kelimesinin karşılığı: idrarını tutamayan, çişini tutamayan
+INCONVENIENCE	(ad) külfet: sıkıntı, zorluk (ayrıca: zahmet)\n(eylem) inconvenience kelimesinin karşılığı: rahatsız etmek
+INCONVENIENCED	(inconvenience sözcüğünün çekimi) (ad) külfet: sıkıntı, zorluk (ayrıca: zahmet)
+INCONVENIENCES	(ad) çoğul çekimi: inconvenience
+INCONVENIENCING	(inconvenience sözcüğünün çekimi) (ad) külfet: sıkıntı, zorluk (ayrıca: zahmet)
+INCORPORATION	(ad) geçişim: belirli bir işi yapma yeterliliğinin ilişkili veya bağlantılı başka bir işi yapma sonucunda artması, intikal
+INCORPORATIONS	(incorporation sözcüğünün çekimi) (ad) geçişim: belirli bir işi yapma yeterliliğinin ilişkili veya bağlantılı başka bir işi yapma sonucunda artması,...
+INCORRECT	(sıfat) yanlış: bir kurala, bir ilkeye, bir gerçeğe uymayan, aykırı olan, hatalı (ayrıca: hatalı)
+INCREASE	(eylem) increase kelimesinin karşılığı: ⟪artmak|ARTMAK⟫, ⟪çoğalmak|ÇOĞALMAK⟫\n(ad) artış: artmak işi, artım
+INCREASED	(increase sözcüğünün çekimi) (eylem) increase kelimesinin karşılığı: ⟪artmak|ARTMAK⟫, ⟪çoğalmak|ÇOĞALMAK⟫
+INCREASES	(ad) çoğul çekimi: increase
+INCREASING	(sıfat) increasing kelimesinin karşılığı: ⟪artan|ARTAN⟫, çoğalan
+INCREDIBLE	(sıfat) inanılmaz: inanılması çok güç veya imkânsız olan
+INCREDULITIES	(incredulity sözcüğünün çekimi) (ad) inançsızlık: Inançsız olma durumu, imansızlık, itikatsızlık (ayrıca: kuşkuculuk, güvensizlik)
+INCREDULITY	(ad) inançsızlık: Inançsız olma durumu, imansızlık, itikatsızlık (ayrıca: kuşkuculuk, güvensizlik)
+INCREMENTS	(ad) çoğul çekimi: increment
+INCUBATE	(eylem) incubate kelimesinin karşılığı: inkübe etmek
+INCUBATED	(incubate sözcüğünün çekimi) (eylem) incubate kelimesinin karşılığı: inkübe etmek
+INCUBATES	(incubate sözcüğünün çekimi) (eylem) incubate kelimesinin karşılığı: inkübe etmek
+INCUBATING	(incubate sözcüğünün çekimi) (eylem) incubate kelimesinin karşılığı: inkübe etmek
+INCUBATION	(ad) incubation kelimesinin karşılığı: inkübasyon
+INCUBATIONS	(incubation sözcüğünün çekimi) (ad) incubation kelimesinin karşılığı: inkübasyon
+INCUBATOR	(ad) etüv: Mikropların üretilmesinde uygun sıcaklığı sağlayan kapalı aygıt
+INCUBATORS	(ad) çoğul çekimi: incubator
+INCUBI	(incubus sözcüğünün çekimi) (ad) incubus kelimesinin karşılığı: ⟪kâbus|KABUS⟫
+INCUBUS	(ad) incubus kelimesinin karşılığı: ⟪kâbus|KABUS⟫
+INCUBUSES	(incubus sözcüğünün çekimi) (ad) incubus kelimesinin karşılığı: ⟪kâbus|KABUS⟫
+INCULCATE	(ad) tekrar ede ede kafasına sokmak; kafasına kazımak
+INCULCATED	(inculcate sözcüğünün çekimi) (ad) tekrar ede ede kafasına sokmak; kafasına kazımak
+INCULCATES	(inculcate sözcüğünün çekimi) (ad) tekrar ede ede kafasına sokmak; kafasına kazımak
+INCULCATING	(inculcate sözcüğünün çekimi) (ad) tekrar ede ede kafasına sokmak; kafasına kazımak
+INCULCATIONS	(ad) çoğul çekimi: inculcation
+INCUMBENT	(sıfat) muvazzaf: görevli, vazifeli (ayrıca: görevde, şimdiki)
+INCUMBENTS	(incumbent sözcüğünün çekimi) (sıfat) muvazzaf: görevli, vazifeli (ayrıca: görevde, şimdiki)
+INCUR	(eylem) incur kelimesinin karşılığı: maruz kalmak, içine girmek
+INCURRED	(incur sözcüğünün çekimi) (eylem) incur kelimesinin karşılığı: maruz kalmak, içine girmek
+INCURRENCES	(ad) çoğul çekimi: incurrence
+INCURRING	(incur sözcüğünün çekimi) (eylem) incur kelimesinin karşılığı: maruz kalmak, içine girmek
+INCURS	(incur sözcüğünün çekimi) (eylem) incur kelimesinin karşılığı: maruz kalmak, içine girmek
+INCURSION	(ad) akın: düşman topraklarına tedirgin etme, yıldırma, çapul vb. amaçlarla toplu olarak yapılan baskın
+INCURSIONS	(incursion sözcüğünün çekimi) (ad) akın: düşman topraklarına tedirgin etme, yıldırma, çapul vb. amaçlarla toplu olarak yapılan baskın
+INCUSES	(ad) çoğul çekimi: incus
+INDECENT	(sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+INDECENTER	(indecent sözcüğünün çekimi) (sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+INDECENTEST	(indecent sözcüğünün çekimi) (sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+INDECLINABLE	(ad) çekimsiz: çekimi olmayan
+INDEFATIGABILITIES	(ad) çoğul çekimi: indefatigability
+INDEFINITE	(sıfat) indefinite kelimesinin karşılığı: ⟪belirtisiz|BELİRTİSİZ⟫
+INDEFINITES	(indefinite sözcüğünün çekimi) (sıfat) indefinite kelimesinin karşılığı: ⟪belirtisiz|BELİRTİSİZ⟫
+INDELIBLE	(sıfat) indelible kelimesinin karşılığı: silinmez, ⟪kalıcı|KALICI⟫
+INDEMNIFICATION	(ad) indemnification kelimesinin karşılığı: ⟪ödenme|ÖDENME⟫
+INDEMNIFICATIONS	(indemnification sözcüğünün çekimi) (ad) indemnification kelimesinin karşılığı: ⟪ödenme|ÖDENME⟫
+INDENTATION	(ad) indentation kelimesinin karşılığı: ⟪girinti|GİRİNTİ⟫, ⟪basamaklandırma|BASAMAKLANDIRMA⟫, girintili yazma
+INDENTATIONS	(ad) çoğul çekimi: indentation
+INDENTIONS	(ad) çoğul çekimi: indention
+INDENTS	(ad) çoğul çekimi: indent
+INDENTURES	(ad) çoğul çekimi: indenture
+INDEPENDENCE	(ad) bağımsızlık: bağımsız olma durumu veya niteliği, istiklal
+INDEPENDENCES	(ad) çoğul çekimi: independence
+INDEPENDENT	(sıfat) bağımsız: bağımsız milletvekili (ayrıca: müstakil)
+INDEPENDENTS	(ad) çoğul çekimi: independent
+INDEX	(ad) endeks: dizin, indeks (ayrıca: belirti, gösterge)
+INDEXATIONS	(ad) çoğul çekimi: indexation
+INDEXED	(index sözcüğünün çekimi) (ad) endeks: dizin, indeks (ayrıca: belirti, gösterge)
+INDEXERS	(ad) çoğul çekimi: indexer
+INDEXES	(index sözcüğünün çekimi) (ad) endeks: dizin, indeks (ayrıca: belirti, gösterge)
+INDEXING	(index sözcüğünün çekimi) (ad) endeks: dizin, indeks (ayrıca: belirti, gösterge)
+INDEXINGS	(index sözcüğünün çekimi) (ad) endeks: dizin, indeks (ayrıca: belirti, gösterge)
+INDICATE	(eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: belirtmek, işaret etmek)
+INDICATED	(indicate sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: belirtmek, işaret etmek)
+INDICATES	(indicate sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: belirtmek, işaret etmek)
+INDICATING	(ad) belirtme: açık söyleme, belirli kılma, görüş bildirme, tasrih
+INDICATION	(ad) belirti: Bir olayın veya durumun anlaşılmasına yardım eden şey; alamet, nişan, nişane (ayrıca: endikasyon)
+INDICATIONS	(ad) indication sözcüğünün çoğul çekimi: endikasyon, belirti
+INDICATIVE	(ad) indicative kelimesinin karşılığı: ⟪bildirme|BİLDİRME⟫
+INDICATIVES	(indicative sözcüğünün çekimi) (ad) indicative kelimesinin karşılığı: ⟪bildirme|BİLDİRME⟫
+INDICATOR	(ad) belirteç: bir eylemin, bir ön adın veya bir belirtecin anlamını zaman, yer, ölçü, nitelik, soru kavramları bakımından etkileyen sözcük, zarf
+INDICATORS	(ad) çoğul çekimi: indicator
+INDICES	(ad) index sözcüğünün çoğul çekimi: endeks, belirti, gösterge, ibre, işaret
+INDICIAS	(ad) çoğul çekimi: indicium
+INDICTMENT	(ad) indictment kelimesinin karşılığı: ⟪itham|İTHAM⟫
+INDICTMENTS	(ad) çoğul çekimi: indictment
+INDIFFERENT	(sıfat) ilgisiz: ilgisi olmayan veya ilgilenmeyen, kayıtsız, aldırmaz, alakasız, lâkayt, bigâne (ayrıca: aldırışsız, aldırmaz)
+INDIGENOUS	(sıfat) belirli bir yerde doğmuş, meydana gelmiş veya gelmekte olan. Yerli
+INDIGNANTLY	(zarf) indignantly kelimesinin karşılığı: alınmış şekilde, gücenerek, içerlemiş halde
+INDIGNATION	(ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık (ayrıca: kızgınlık, kızma)
+INDIGNATIONS	(indignation sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık...
+INDIGNITIES	(ad) çoğul çekimi: indignity
+INDIGO	(ad) indigo kelimesinin karşılığı: ⟪çivit|ÇİVİT⟫
+INDIGOES	(indigo sözcüğünün çekimi) (ad) indigo kelimesinin karşılığı: ⟪çivit|ÇİVİT⟫
+INDIGOS	(indigo sözcüğünün çekimi) (ad) indigo kelimesinin karşılığı: ⟪çivit|ÇİVİT⟫
+INDIRECT	(sıfat) indirect kelimesinin karşılığı: ⟪dolaylı|DOLAYLI⟫
+INDISCRETIONS	(ad) çoğul çekimi: indiscretion
+INDISPENSABLE	(sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari (ayrıca: kaçınılmaz, gerekli)
+INDISPENSABLES	(indispensable sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari (ayrıca: kaçınılmaz, gerekli)
+INDISPOSITIONS	(ad) çoğul çekimi: indisposition
+INDIUM	(ad) indium kelimesinin karşılığı: ⟪indiyum|İNDİYUM⟫
+INDIUMS	(ad) indium sözcüğünün çoğul çekimi: indiyum
+INDIVIDUAL	(ad) individual kelimesinin karşılığı: ⟪birey|BİREY⟫, ⟪kişi|KİŞİ⟫, ⟪fert|FERT⟫\n(sıfat) ferdî: kişisel (ayrıca: bireysel)
+INDIVIDUALISM	(ad) bireysellik: bir kişiyi benzerlerinden ayıran özelliklerin bütünü, ferdiyet (ayrıca: bireycilik, individüalizm)
+INDIVIDUALISMS	(individualism sözcüğünün çekimi) (ad) bireysellik: bir kişiyi benzerlerinden ayıran özelliklerin bütünü, ferdiyet (ayrıca: bireycilik, individüalizm)
+INDIVIDUALIST	(sıfat) bireyci: bireycilikten yana olan, ferdiyetçi, individüalist
+INDIVIDUALISTICALLY	(zarf) individualistically kelimesinin karşılığı: başlı başına
+INDIVIDUALISTS	(ad) çoğul çekimi: individualist
+INDIVIDUALITIES	(ad) çoğul çekimi: individuality
+INDIVIDUALITY	(ad) kişilik: bir kişiye özgü belirgin özellik, manevî ve ruhsal niteliklerinin bütünü, şahsiyet
+INDIVIDUALS	(ad) individual sözcüğünün çoğul çekimi: birey, kişi, fert
+INDIVISIBLE	(sıfat) bölünmez: parçalanamaz, ayrılamaz
+INDIVISIBLES	(indivisible sözcüğünün çekimi) (sıfat) bölünmez: parçalanamaz, ayrılamaz
+INDOCTRINATION	(ad) indoctrination kelimesinin karşılığı: öğretileme
+INDOCTRINATIONS	(ad) çoğul çekimi: indoctrination
+INDOLENCES	(ad) çoğul çekimi: indolence
+INDOLES	(ad) çoğul çekimi: indole
+INDUBITABLE	(ad) sorgulanamaz, şüphesiz olan şey\n(sıfat) indubitable kelimesinin karşılığı: sorgulanamaz, ⟪şüphesiz|ŞÜPHESİZ⟫
+INDUCED	(eylem) induce fiilinin geçmiş zamanı
+INDUCEMENTS	(ad) çoğul çekimi: inducement
+INDUCERS	(ad) çoğul çekimi: inducer
+INDUCT	(eylem) resmen göreve almak; göreve getirmek; üyeliğe kabul etmek; askere almak.
+INDUCTED	(induct sözcüğünün çekimi) (eylem) resmen göreve almak; göreve getirmek; üyeliğe kabul etmek; askere almak.
+INDUCTEES	(ad) çoğul çekimi: inductee
+INDUCTING	(induct sözcüğünün çekimi) (eylem) resmen göreve almak; göreve getirmek; üyeliğe kabul etmek; askere almak.
+INDUCTIVE	(ad) inductive kelimesinin karşılığı: tümevarımsal
+INDUCTS	(induct sözcüğünün çekimi) (eylem) resmen göreve almak; göreve getirmek; üyeliğe kabul etmek; askere almak.
+INDULGED	(eylem) indulge sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+INDULGENT	(sıfat) hoşgörülü: hoşgörüsü olan, hoşgörüyle davranan, müsamahalı, toleranslı (ayrıca: anlayışlı, müsamahakâr)
+INDUSIA	(ad) çoğul çekimi: indusium
+INDUSTRIAL	(sıfat) endüstriyel: Endüstriyle ilgili olan.
+INDUSTRIALISMS	(ad) çoğul çekimi: industrialism
+INDUSTRIALIST	(ad) fabrikacı: fabrika sahibi veya fabrika işleten kişi, fabrikatör (ayrıca: fabrikatör)
+INDUSTRIALISTS	(ad) çoğul çekimi: industrialist
+INDUSTRIALS	(industrial sözcüğünün çekimi) (sıfat) endüstriyel: Endüstriyle ilgili olan.
+INDUSTRIES	(ad) industry sözcüğünün çoğul çekimi: sanayi, endüstri, işleyim
+INDUSTRY	(ad) endüstri: sanayi (ayrıca: sanayi, işleyim)
+INEBRIATES	(ad) çoğul çekimi: inebriate
+INEBRIETIES	(ad) çoğul çekimi: inebriety
+INEFFICIENCIES	(ad) çoğul çekimi: inefficiency
+INEFFICIENT	(sıfat) verimsiz: verimi olmayan veya az olan, yetersiz
+INEFFICIENTS	(inefficient sözcüğünün çekimi) (sıfat) verimsiz: verimi olmayan veya az olan, yetersiz
+INEPT	(ad) yeteneksiz: yeteneği olmayan, kabiliyetsiz (ayrıca: beceriksiz)
+INEQUALITIES	(ad) çoğul çekimi: inequality
+INEQUITIES	(ad) çoğul çekimi: inequity
+INEQUITY	(ad) haksızlık: haksız olma durumu
+INERT	(sıfat) atıl: tembel
+INERTS	(inert sözcüğünün çekimi) (sıfat) atıl: tembel
+INEVITABILITIES	(ad) çoğul çekimi: inevitability
+INEVITABILITY	(ad) kaçınılmazlık: Kaçınılmaz olma durumu
+INEVITABLE	(sıfat) kaçınılmaz: istek ve irade dışında olan
+INEXACTITUDES	(ad) çoğul çekimi: inexactitude
+INEXCUSABLE	(sıfat) inexcusable kelimesinin karşılığı: bağışlanamaz
+INEXPENSIVE	(sıfat) ucuz: Fiyatı yüksek olmayan, pahası az, düşük fiyatlı.
+INEXPERIENCED	(sıfat) acemi: bir işin yabancısı olan, eli işe alışmamış, bir işi becermeyen
+INFAMIES	(ad) çoğul çekimi: infamy
+INFAMOUS	(sıfat) infamous kelimesinin karşılığı: kötü şöhretli, adı çıkmış
+INFANCIES	(infancy sözcüğünün çekimi) (ad) infancy kelimesinin karşılığı: ⟪çocukluk|ÇOCUKLUK⟫
+INFANCY	(ad) infancy kelimesinin karşılığı: ⟪çocukluk|ÇOCUKLUK⟫
+INFANT	(ad) bebek: Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe.
+INFANTAS	(ad) çoğul çekimi: infanta
+INFANTES	(infant sözcüğünün çekimi) (ad) bebek: Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe.
+INFANTICIDES	(ad) çoğul çekimi: infanticide
+INFANTRIES	(ad) çoğul çekimi: infantry
+INFANTS	(ad) çoğul çekimi: infant
+INFARCTIONS	(ad) çoğul çekimi: infarction
+INFARCTS	(ad) çoğul çekimi: infarct
+INFATUATE	(eylem) aklını başından almak; sevdalanmak; deli divane olmak
+INFATUATED	(eylem) infatuate sözcüğünün geçmiş zaman çekimi: aklını başından almak; sevdalanmak; deli divane olmak\n(sıfat) âşık: Bir kimseye veya bir şeye karşı aşırı sevgi ve bağlılık duyan, vurgun, tutkun kimse. (ayrıca: sevdaya tutulmuş)
+INFATUATES	(ad) çoğul çekimi: infatuate
+INFATUATING	(infatuate sözcüğünün çekimi) (eylem) aklını başından almak; sevdalanmak; deli divane olmak
+INFATUATION	(ad) infatuation kelimesinin karşılığı: ⟪âşıklık|AŞIKLIK⟫, ⟪vurulma|VURULMA⟫
+INFATUATIONS	(ad) çoğul çekimi: infatuation
+INFECTED	(eylem) infect sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+INFECTION	(ad) enfeksiyon: Organizmada hastalığa yol açan patojenlerin genel veya yerel gelişmesi
+INFECTIONS	(ad) infection sözcüğünün çoğul çekimi: enfeksiyon
+INFECTIOUS	(sıfat) infectious kelimesinin karşılığı: enfeksiyöz, ⟪bulaşıcı|BULAŞICI⟫
+INFELICITIES	(infelicity sözcüğünün çekimi) (ad) infelicity kelimesinin karşılığı: ⟪geçmezlik|GEÇMEZLİK⟫
+INFELICITY	(ad) infelicity kelimesinin karşılığı: ⟪geçmezlik|GEÇMEZLİK⟫
+INFERENCE	(ad) çıkarım: çıkarmak işi
+INFERENCES	(ad) çoğul çekimi: inference
+INFERIOR	(sıfat) değersiz: değeri olmayan veya değeri çok az olan, önemsiz, kıymetsiz, naçiz (ayrıca: kalitesiz)
+INFERIORS	(ad) çoğul çekimi: inferior
+INFERNOS	(ad) çoğul çekimi: inferno
+INFERRED	(eylem) infer fiilinin basit geçmiş zaman kipi.
+INFERTILE	(sıfat) aslık: kısır olan (kadın veya dişi hayvan), akam (ayrıca: akam)
+INFERTILITIES	(infertility sözcüğünün çekimi) (ad) kısırlık: kısır olma durumu
+INFERTILITY	(ad) kısırlık: kısır olma durumu
+INFESTATIONS	(ad) çoğul çekimi: infestation
+INFIDELITIES	(ad) çoğul çekimi: infidelity
+INFIDELS	(ad) çoğul çekimi: infidel
+INFIELDERS	(ad) çoğul çekimi: infielder
+INFIELDS	(ad) çoğul çekimi: infield
+INFILTRATE	(eylem) süzmek: Bir sıvıyı, içindeki katı maddelerden ayırmak için bez veya delikli bir kaptan geçirmek
+INFILTRATED	(infiltrate sözcüğünün çekimi) (eylem) süzmek: Bir sıvıyı, içindeki katı maddelerden ayırmak için bez veya delikli bir kaptan geçirmek
+INFILTRATES	(infiltrate sözcüğünün çekimi) (eylem) süzmek: Bir sıvıyı, içindeki katı maddelerden ayırmak için bez veya delikli bir kaptan geçirmek
+INFILTRATING	(infiltrate sözcüğünün çekimi) (eylem) süzmek: Bir sıvıyı, içindeki katı maddelerden ayırmak için bez veya delikli bir kaptan geçirmek
+INFILTRATIONS	(ad) çoğul çekimi: infiltration
+INFILTRATORS	(ad) çoğul çekimi: infiltrator
+INFINITE	(sıfat) sonsuz: sonu olmayan, her niceliği aşabilen değişken (sembol: ∞) (ayrıca: sınırsız)
+INFINITELY	(zarf) sonsuz bir biçimde, sonsuza kadar
+INFINITES	(infinite sözcüğünün çekimi) (sıfat) sonsuz: sonu olmayan, her niceliği aşabilen değişken (sembol: ∞) (ayrıca: sınırsız)
+INFINITESIMALS	(ad) çoğul çekimi: infinitesimal
+INFINITIES	(ad) çoğul çekimi: infinity
+INFINITIVE	(ad) bir fiilin kök ve yalın hali, eylemlik, mastar\n(sıfat) bir fiilin kök ve yalın haline dair, eylemliksel
+INFINITIVELY	(infinitive sözcüğünün çekimi) (ad) bir fiilin kök ve yalın hali, eylemlik, mastar
+INFINITIVES	(infinitive sözcüğünün çekimi) (ad) bir fiilin kök ve yalın hali, eylemlik, mastar
+INFINITUDES	(ad) çoğul çekimi: infinitude
+INFINITY	(ad) sonsuzluk: sonu olmayan gelecek zaman, ebediyet
+INFIRM	(sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: halsiz, takatsiz)
+INFIRMARIES	(ad) çoğul çekimi: infirmary
+INFIRMED	(infirm sözcüğünün çekimi) (sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: halsiz, takatsiz)
+INFIRMING	(infirm sözcüğünün çekimi) (sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: halsiz, takatsiz)
+INFIRMITIES	(ad) çoğul çekimi: infirmity
+INFIRMITY	(ad) hastalık: Ruh sağlığının bozulması durumu. (ayrıca: zayıflık, halsizlik)
+INFIRMS	(infirm sözcüğünün çekimi) (sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: halsiz, takatsiz)
+INFIX	(ad) infix kelimesinin karşılığı: iç ek
+INFIXED	(infix sözcüğünün çekimi) (ad) infix kelimesinin karşılığı: iç ek
+INFIXES	(infix sözcüğünün çekimi) (ad) infix kelimesinin karşılığı: iç ek
+INFIXING	(ad) infixing kelimesinin karşılığı: içekleme
+INFLAMMATION	(ad) yangı: canlı dokunun her türlü canlı, cansız yabancı etkene verdiği sellüler (hücresel), humoral (sıvısal) ve vasküler (damarsal) bir seri vital yanıttır, iltihap, enflamasyon, enfeksiyon, inflamasyon (ayrıca: enflamasyon, enfeksiyon)
+INFLAMMATIONS	(inflammation sözcüğünün çekimi) (ad) yangı: canlı dokunun her türlü canlı, cansız yabancı etkene verdiği sellüler (hücresel), humoral (sıvısal) ve...
+INFLATE	(eylem) şişirmek: (mecaz) abartmak
+INFLATED	(inflate sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLATES	(inflate sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLATING	(inflate sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLATION	(ad) enflasyon: Dolanımdaki para miktarıyla, malların ve satın alınabilir hizmetlerin toplamı arasındaki açığın büyümesinden ortaya çıkan ve fiyatların toplam yükselişi, paranın değerinin düşmesi biçiminde kendini gösteren ekonomik parasal süreç; para şişkinliği, parasal şişkinlik
+INFLATIONS	(inflation sözcüğünün çekimi) (ad) enflasyon: Dolanımdaki para miktarıyla, malların ve satın alınabilir hizmetlerin toplamı arasındaki açığın...
+INFLECTED	(ad) inflected kelimesinin karşılığı: ⟪kaynaşık|KAYNAŞIK⟫
+INFLECTION	(ad) büküm: Dil bilgisi görevi veya yapısı gereği kelime kökünün başında, içinde veya sonunda türlü değişikliklerin olması; insiraf.
+INFLECTIONS	(ad) çoğul çekimi: inflection
+INFLECTIVE	(ad) inflective kelimesinin karşılığı: ⟪bükünlü|BÜKÜNLÜ⟫
+INFLEXIBLE	(sıfat) inflexible kelimesinin karşılığı: ⟪bükümlü|BÜKÜMLÜ⟫
+INFLEXION	(ad) bükün: gramer görevleri ve yapı bakımından, kelime köklerinin başında, içinde veya sonunda türlü değişikliklerin olması, insiraf
+INFLEXIONS	(inflexion sözcüğünün çekimi) (ad) bükün: gramer görevleri ve yapı bakımından, kelime köklerinin başında, içinde veya sonunda türlü değişikliklerin...
+INFLICTIONS	(ad) çoğul çekimi: infliction
+INFLORESCENCES	(ad) çoğul çekimi: inflorescence
+INFLOW	(ad) akın: kalabalık bir şeyin arkası kesilmeyen bir geliş durumunda olması
+INFLOWS	(ad) çoğul çekimi: inflow
+INFLUENCE	(ad) influence kelimesinin karşılığı: ⟪etki|ETKİ⟫\n(eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+INFLUENCED	(influence sözcüğünün çekimi) (ad) influence kelimesinin karşılığı: ⟪etki|ETKİ⟫
+INFLUENCES	(ad) influences kelimesinin karşılığı: ⟪etkiler|ETKİLER⟫
+INFLUENCING	(influence sözcüğünün çekimi) (ad) influence kelimesinin karşılığı: ⟪etki|ETKİ⟫
+INFLUENTS	(ad) çoğul çekimi: influent
+INFLUENZA	(ad) influenza kelimesinin karşılığı: influenza
+INFLUENZAS	(ad) çoğul çekimi: influenza
+INFLUX	(ad) akın: kalabalık bir şeyin arkası kesilmeyen bir geliş durumunda olması
+INFLUXES	(influx sözcüğünün çekimi) (ad) akın: kalabalık bir şeyin arkası kesilmeyen bir geliş durumunda olması
+INFOMERCIALS	(ad) çoğul çekimi: infomercial
+INFORM	(eylem) inform kelimesinin karşılığı: ⟪bilgilendirmek|BİLGİLENDİRMEK⟫\n(sıfat) inform kelimesinin karşılığı: ⟪biçimsiz|BİÇİMSİZ⟫, ⟪şekilsiz|ŞEKİLSİZ⟫, ⟪deforme|DEFORME⟫
+INFORMAL	(sıfat) ölçüsüz: Ölçüsü olmayan.
+INFORMALLY	(zarf) teklifsizce: teklifsiz bir biçimde, içten olarak
+INFORMANT	(ad) informant kelimesinin karşılığı: bilgi veren
+INFORMANTS	(ad) çoğul çekimi: informant
+INFORMATICS	(ad) informatics kelimesinin karşılığı: ⟪bilişim|BİLİŞİM⟫
+INFORMATION	(ad) enformasyon: haber alma, haber verme, haberleşme, malumat (ayrıca: bilgi, haber)
+INFORMATIONAL	(ad) bilgisel: bilgi ile ilgili
+INFORMATIONS	(information sözcüğünün çekimi) (ad) enformasyon: haber alma, haber verme, haberleşme, malumat (ayrıca: bilgi, haber)
+INFORMATIVE	(ad) informative kelimesinin karşılığı: bildirsel
+INFORMED	(inform sözcüğünün çekimi) (eylem) inform kelimesinin karşılığı: ⟪bilgilendirmek|BİLGİLENDİRMEK⟫
+INFORMEDLY	(inform sözcüğünün çekimi) (eylem) inform kelimesinin karşılığı: ⟪bilgilendirmek|BİLGİLENDİRMEK⟫
+INFORMERS	(ad) çoğul çekimi: informer
+INFORMING	(inform sözcüğünün çekimi) (eylem) inform kelimesinin karşılığı: ⟪bilgilendirmek|BİLGİLENDİRMEK⟫
+INFORMS	(inform sözcüğünün çekimi) (eylem) inform kelimesinin karşılığı: ⟪bilgilendirmek|BİLGİLENDİRMEK⟫
+INFRACTION	(ad) infraction kelimesinin karşılığı: ⟪ihlal|İHLAL⟫, ⟪bozma|BOZMA⟫
+INFRACTIONS	(infraction sözcüğünün çekimi) (ad) infraction kelimesinin karşılığı: ⟪ihlal|İHLAL⟫, ⟪bozma|BOZMA⟫
+INFRARED	(ad) kızılötesi: Işık tayfında kırmızı alanın ötesindeki alanda yayılmış ısı ışınlarından oluşan, gözle görülmeyen ışınım, °enfraruj.
+INFRAREDS	(infrared sözcüğünün çekimi) (ad) kızılötesi: Işık tayfında kırmızı alanın ötesindeki alanda yayılmış ısı ışınlarından oluşan, gözle görülmeyen...
+INFRASTRUCTURE	(ad) infrastructure kelimesinin karşılığı: ⟪altyapı|ALTYAPI⟫, ⟪enfrastrüktür|ENFRASTRÜKTÜR⟫
+INFRASTRUCTURES	(infrastructure sözcüğünün çekimi) (ad) infrastructure kelimesinin karşılığı: ⟪altyapı|ALTYAPI⟫, ⟪enfrastrüktür|ENFRASTRÜKTÜR⟫
+INFREQUENCIES	(ad) çoğul çekimi: infrequency
+INFRINGEMENTS	(ad) çoğul çekimi: infringement
+INFUNDIBULA	(ad) çoğul çekimi: infundibulum
+INFUSE	(ad) belli zaman ve hızda damar içine zerk etme
+INFUSED	(infuse sözcüğünün çekimi) (ad) belli zaman ve hızda damar içine zerk etme
+INFUSERS	(ad) çoğul çekimi: infuser
+INFUSES	(infuse sözcüğünün çekimi) (ad) belli zaman ve hızda damar içine zerk etme
+INFUSING	(infuse sözcüğünün çekimi) (ad) belli zaman ve hızda damar içine zerk etme
+INFUSION	(ad) infusion kelimesinin karşılığı: infüzyon
+INFUSIONS	(infusion sözcüğünün çekimi) (ad) infusion kelimesinin karşılığı: infüzyon
+INGENUES	(ad) çoğul çekimi: ingenue
+INGENUITIES	(ingenuity sözcüğünün çekimi) (ad) ingenuity kelimesinin karşılığı: ⟪beceri|BECERİ⟫, ⟪hüner|HÜNER⟫, ⟪marifet|MARİFET⟫, ⟪ustalık|USTALIK⟫
+INGENUITY	(ad) ingenuity kelimesinin karşılığı: ⟪beceri|BECERİ⟫, ⟪hüner|HÜNER⟫, ⟪marifet|MARİFET⟫, ⟪ustalık|USTALIK⟫
+INGLENOOK	(ad) şömine odacığı; şömine bölmesi; şömine alanı; şömine duvarı; şömineyi çevreleyen duvardan kuytu
+INGLENOOKS	(ad) çoğul çekimi: inglenook
+INGLES	(ad) çoğul çekimi: ingle
+INGLORIOUS	(sıfat) inglorious kelimesinin karşılığı: ⟪haysiyetsiz|HAYSİYETSİZ⟫
+INGOTS	(ad) çoğul çekimi: ingot
+INGRATES	(ad) çoğul çekimi: ingrate
+INGRATIATE	(eylem) ingratiate kelimesinin karşılığı: sevgisini kazanmak, gözüne girmek, kendini sevdirmek
+INGRATIATED	(ingratiate sözcüğünün çekimi) (eylem) ingratiate kelimesinin karşılığı: sevgisini kazanmak, gözüne girmek, kendini sevdirmek
+INGRATIATES	(ingratiate sözcüğünün çekimi) (eylem) ingratiate kelimesinin karşılığı: sevgisini kazanmak, gözüne girmek, kendini sevdirmek
+INGRATIATING	(ingratiate sözcüğünün çekimi) (eylem) ingratiate kelimesinin karşılığı: sevgisini kazanmak, gözüne girmek, kendini sevdirmek
+INGRATITUDE	(ad) hıyanet: kutsal sayılan şeylere el uzatma, kötülük etme veya karşı davranma, hıyanetlik, hainlik
+INGRATITUDES	(ingratitude sözcüğünün çekimi) (ad) hıyanet: kutsal sayılan şeylere el uzatma, kötülük etme veya karşı davranma, hıyanetlik, hainlik
+INGREDIENTS	(ad) içerik: bir kelimenin veya kavramın anlamı
+INGUINAL	(ad) inguinal kelimesinin karşılığı: ⟪kasık|KASIK⟫
+INHABIT	(eylem) yurtlandırmak: bir kimseye veya bir topluluğa yurt sağlamak, iskân etmek
+INHABITANTS	(ad) çoğul çekimi: inhabitant
+INHABITED	(sıfat) meskûn: insan oturan, şeneltilmiş (yer) (ayrıca: oturan, şeneltilmiş)
+INHABITING	(inhabit sözcüğünün çekimi) (eylem) yurtlandırmak: bir kimseye veya bir topluluğa yurt sağlamak, iskân etmek
+INHABITS	(inhabit sözcüğünün çekimi) (eylem) yurtlandırmak: bir kimseye veya bir topluluğa yurt sağlamak, iskân etmek
+INHALATION	(ad) inhalation kelimesinin karşılığı: soluk alma
+INHALATIONS	(inhalation sözcüğünün çekimi) (ad) inhalation kelimesinin karşılığı: soluk alma
+INHALATORS	(ad) çoğul çekimi: inhalator
+INHALE	(eylem) inhale kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INHALED	(inhale sözcüğünün çekimi) (eylem) inhale kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INHALERS	(ad) çoğul çekimi: inhaler
+INHALES	(inhale sözcüğünün çekimi) (eylem) inhale kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INHALING	(inhale sözcüğünün çekimi) (eylem) inhale kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INHERENTLY	(zarf) inherently kelimesinin karşılığı: doğası gereği
+INHERIT	(eylem) kalıt almak: miras almak (ayrıca: devralmak)
+INHERITANCES	(ad) çoğul çekimi: inheritance
+INHERITED	(inherit sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+INHERITING	(inherit sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+INHERITORS	(ad) çoğul çekimi: inheritor
+INHERITS	(inherit sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+INHIBITED	(sıfat) çekingen; içine kapanık; içine kapanıklıktan dolayı rahat ve doğal davranamayan
+INHIBITION	(ad) inhibition kelimesinin karşılığı: ket vurma
+INHIBITIONS	(inhibition sözcüğünün çekimi) (ad) inhibition kelimesinin karşılığı: ket vurma
+INHIBITOR	(ad) inhibitor kelimesinin karşılığı: ⟪inhibitör|İNHİBİTÖR⟫
+INHIBITORS	(ad) çoğul çekimi: inhibitor
+INHOMOGENEITIES	(ad) çoğul çekimi: inhomogeneity
+INHOSPITALITIES	(ad) çoğul çekimi: inhospitality
+INHUMAN	(sıfat) inhuman kelimesinin karşılığı: ⟪insanüstü|İNSANÜSTÜ⟫
+INIQUITIES	(ad) çoğul çekimi: iniquity
+INIQUITOUS	(sıfat) iniquitous kelimesinin karşılığı: ⟪adaletsiz|ADALETSİZ⟫
+INIQUITY	(ad) (sayılamayan) doğru olandan sapkınlık, büyük adaletsizlik, günahkarlık
+INITIAL	(ad) initial kelimesinin karşılığı: ⟪asıl|ASIL⟫, ⟪köken|KÖKEN⟫\n(sıfat) ilk: Birinci olarak, en başta. (ayrıca: baştaki)
+INITIALED	(initial sözcüğünün çekimi) (ad) initial kelimesinin karşılığı: ⟪asıl|ASIL⟫, ⟪köken|KÖKEN⟫
+INITIALING	(initial sözcüğünün çekimi) (ad) initial kelimesinin karşılığı: ⟪asıl|ASIL⟫, ⟪köken|KÖKEN⟫
+INITIALIZATION	(ad) initialization kelimesinin karşılığı: ilklendirme
+INITIALIZATIONS	(initialization sözcüğünün çekimi) (ad) initialization kelimesinin karşılığı: ilklendirme
+INITIALLED	(initial sözcüğünün çekimi) (ad) initial kelimesinin karşılığı: ⟪asıl|ASIL⟫, ⟪köken|KÖKEN⟫
+INITIALLING	(initial sözcüğünün çekimi) (ad) initial kelimesinin karşılığı: ⟪asıl|ASIL⟫, ⟪köken|KÖKEN⟫
+INITIALS	(ad) çoğul çekimi: initial
+INITIATES	(ad) çoğul çekimi: initiate
+INITIATION	(ad) initiation kelimesinin karşılığı: ⟪inisiyasyon|İNİSİYASYON⟫
+INITIATIONS	(initiation sözcüğünün çekimi) (ad) initiation kelimesinin karşılığı: ⟪inisiyasyon|İNİSİYASYON⟫
+INITIATIVE	(ad) inisiyatif: girişim
+INITIATIVES	(initiative sözcüğünün çekimi) (ad) inisiyatif: girişim
+INITIATOR	(ad) başlatıcı: Bir şeyin, bir eylemin başlamasını sağlayan, başlatan.
+INITIATORS	(ad) çoğul çekimi: initiator
+INJECT	(eylem) inject kelimesinin karşılığı: enjekte etmek
+INJECTABLE	(ad) injectable kelimesinin karşılığı: enjektabl
+INJECTED	(inject sözcüğünün çekimi) (eylem) inject kelimesinin karşılığı: enjekte etmek
+INJECTING	(inject sözcüğünün çekimi) (eylem) inject kelimesinin karşılığı: enjekte etmek
+INJECTION	(ad) enjeksiyon: Vücutta damar, doku, kanal veya boşluk içine enjektör aracılığıyla sıvı veya ilaç verme
+INJECTIONS	(injection sözcüğünün çekimi) (ad) enjeksiyon: Vücutta damar, doku, kanal veya boşluk içine enjektör aracılığıyla sıvı veya ilaç verme
+INJECTOR	(ad) enjektör: Silindir ve pistondan oluşan ve ucuna iğne takılabilen, sıvı maddeleri vermek veya çekmek için kullanılan tıbbi araç; şırınga
+INJECTORS	(ad) çoğul çekimi: injector
+INJECTS	(inject sözcüğünün çekimi) (eylem) inject kelimesinin karşılığı: enjekte etmek
+INJUNCTION	(ad) injunction kelimesinin karşılığı: ⟪ahit|AHİT⟫
+INJUNCTIONS	(ad) çoğul çekimi: injunction
+INJURED	(eylem) injure sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+INJURERS	(ad) çoğul çekimi: injurer
+INJURIES	(ad) injury sözcüğünün çoğul çekimi
+INJURIOUS	(sıfat) zararlı: zarar veren, zararı dokunan
+INJUSTICE	(ad) haksızlık: haksız olma durumu
+INJUSTICES	(injustice sözcüğünün çekimi) (ad) haksızlık: haksız olma durumu
+INK	(ad) mürekkep: yazı yazmak, desen çizmek veya basmak içinkullanılan, türlü renklerde sıvı madde\n(eylem) ink kelimesinin karşılığı: ⟪mürekkeplemek|MÜREKKEPLEMEK⟫
+INKBLOTS	(ad) çoğul çekimi: inkblot
+INKED	(ink sözcüğünün çekimi) (ad) mürekkep: yazı yazmak, desen çizmek veya basmak içinkullanılan, türlü renklerde sıvı madde
+INKING	(ink sözcüğünün çekimi) (ad) mürekkep: yazı yazmak, desen çizmek veya basmak içinkullanılan, türlü renklerde sıvı madde
+INKLINGS	(ad) çoğul çekimi: inkling
+INKS	(ad) çoğul çekimi: ink
+INKSTONES	(ad) çoğul çekimi: inkstone
+INKWELLS	(ad) çoğul çekimi: inkwell
+INLAYS	(ad) çoğul çekimi: inlay
+INLETS	(ad) çoğul çekimi: inlet
+INMATES	(ad) çoğul çekimi: inmate
+INN	(ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+INNARDS	(ad) innards kelimesinin karşılığı: iç organlar
+INNATE	(sıfat) innate kelimesinin karşılığı: ⟪doğuştan|DOĞUŞTAN⟫, ⟪fıtri|FITRİ⟫
+INNED	(inn sözcüğünün çekimi) (ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+INNER	(sıfat) inner kelimesinin karşılığı: iç, ⟪içeri|İÇERİ⟫\n(ad) dâhil: iç, içeri
+INNERS	(ad) çoğul çekimi: inner
+INNERSOLES	(ad) çoğul çekimi: innersole
+INNINGS	(ad) çoğul çekimi: inning
+INNKEEPERS	(ad) çoğul çekimi: innkeeper
+INNOCENCE	(ad) innocence kelimesinin karşılığı: ⟪suçsuzluk|SUÇSUZLUK⟫
+INNOCENCES	(ad) innocence sözcüğünün çoğul çekimi: suçsuzluk
+INNOCENTS	(ad) çoğul çekimi: innocent
+INNOCUOUS	(ad) zararsız: zarar vermeyen, zararı dokunmayan (ayrıca: tehlikesiz)
+INNOCUOUSLY	(zarf) tehlikesiz bir biçimde, zararsız bir biçimde
+INNOVATE	(ad) yenileştirmek: yenileşmesini sağlamak
+INNOVATED	(innovate sözcüğünün çekimi) (ad) yenileştirmek: yenileşmesini sağlamak
+INNOVATES	(innovate sözcüğünün çekimi) (ad) yenileştirmek: yenileşmesini sağlamak
+INNOVATING	(innovate sözcüğünün çekimi) (ad) yenileştirmek: yenileşmesini sağlamak
+INNOVATION	(ad) inovasyon: yenileşim (ayrıca: yenileşim)
+INNOVATIONS	(innovation sözcüğünün çekimi) (ad) inovasyon: yenileşim (ayrıca: yenileşim)
+INNOVATORS	(ad) çoğul çekimi: innovator
+INNS	(ad) çoğul çekimi: inn
+INNUENDO	(ad) ima: Açıkça belirtilmeyen, dolaylı olarak anlatılan şey (ayrıca: dokundurma)
+INNUENDOED	(innuendo sözcüğünün çekimi) (ad) ima: Açıkça belirtilmeyen, dolaylı olarak anlatılan şey (ayrıca: dokundurma)
+INNUENDOES	(innuendo sözcüğünün çekimi) (ad) ima: Açıkça belirtilmeyen, dolaylı olarak anlatılan şey (ayrıca: dokundurma)
+INNUENDOING	(innuendo sözcüğünün çekimi) (ad) ima: Açıkça belirtilmeyen, dolaylı olarak anlatılan şey (ayrıca: dokundurma)
+INNUENDOS	(innuendo sözcüğünün çekimi) (ad) ima: Açıkça belirtilmeyen, dolaylı olarak anlatılan şey (ayrıca: dokundurma)
+INNUMERABLE	(sıfat) sayısız: sayılmayacak kadar çok, pek çok, sayımsız
+INOCULATION	(ad) inoculation kelimesinin karşılığı: ⟪aşılama|AŞILAMA⟫
+INOCULATIONS	(inoculation sözcüğünün çekimi) (ad) inoculation kelimesinin karşılığı: ⟪aşılama|AŞILAMA⟫
+INORDINATE	(sıfat) aşırı: Gereğinden fazla olarak. (ayrıca: oransız, ölçüsüz)
+INORGANIC	(ad) inorganic kelimesinin karşılığı: organik olmayan
+INPATIENTS	(ad) çoğul çekimi: inpatient
+INPUT	(ad) input kelimesinin karşılığı: ⟪girdi|GİRDİ⟫
+INPUTS	(input sözcüğünün çekimi) (ad) input kelimesinin karşılığı: ⟪girdi|GİRDİ⟫
+INQUESTS	(ad) çoğul çekimi: inquest
+INQUIRE	(eylem) inquire kelimesinin karşılığı: müracaat etmek
+INQUIRED	(inquire sözcüğünün çekimi) (eylem) inquire kelimesinin karşılığı: müracaat etmek
+INQUIRERS	(ad) çoğul çekimi: inquirer
+INQUIRES	(inquire sözcüğünün çekimi) (eylem) inquire kelimesinin karşılığı: müracaat etmek
+INQUIRIES	(ad) inquiry sözcüğünün çoğul çekimi: başvuru, müracaat
+INQUIRING	(inquire sözcüğünün çekimi) (eylem) inquire kelimesinin karşılığı: müracaat etmek
+INQUIRY	(ad) başvuru: bilgi sahibi olmak için bir kaynağı kullanma, bilgiye ulaşma, referans (ayrıca: müracaat)
+INQUISITION	(ad) engizisyon: Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı
+INQUISITIONS	(inquisition sözcüğünün çekimi) (ad) engizisyon: Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise...
+INQUISITIVE	(sıfat) meraklı: ilginç (ayrıca: araştırıcı)
+INQUISITORS	(ad) çoğul çekimi: inquisitor
+INROADS	(ad) çoğul çekimi: inroad
+INSANITIES	(insanity sözcüğünün çekimi) (ad) delilik: deli olma durumu veya delice davranış, cinnet
+INSANITY	(ad) delilik: deli olma durumu veya delice davranış, cinnet
+INSATIABLE	(sıfat) doyumsuz: Bir türlü tatmin olmayan, bıkılmayan (ayrıca: doymak bilmez)
+INSCRIBERS	(ad) çoğul çekimi: inscriber
+INSEAMS	(ad) çoğul çekimi: inseam
+INSECT	(ad) böcek: Kelebek, kurt ve tırtılın dışında kalan küçük hayvancıklar.
+INSECTICIDE	(ad) insecticide kelimesinin karşılığı: insektisit, böcek ilacı
+INSECTICIDES	(insecticide sözcüğünün çekimi) (ad) insecticide kelimesinin karşılığı: insektisit, böcek ilacı
+INSECTIVORES	(ad) çoğul çekimi: insectivore
+INSECTS	(ad) insect sözcüğünün çoğul çekimi: böcek
+INSECURE	(sıfat) emniyetsiz: İnanılmaz, güvenilmez (ayrıca: güvensiz, tehlikede)
+INSECURITIES	(ad) çoğul çekimi: insecurity
+INSEMINATE	(eylem) inseminate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+INSEMINATED	(inseminate sözcüğünün çekimi) (eylem) inseminate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+INSEMINATES	(inseminate sözcüğünün çekimi) (eylem) inseminate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+INSEMINATING	(inseminate sözcüğünün çekimi) (eylem) inseminate kelimesinin karşılığı: ⟪döllemek|DÖLLEMEK⟫, ilkah etmek
+INSEMINATIONS	(ad) çoğul çekimi: insemination
+INSENSITIVITIES	(ad) insensitivity sözcüğünün çoğul çekimi: duyarsızlık
+INSENSITIVITY	(ad) insensitivity kelimesinin karşılığı: ⟪duyarsızlık|DUYARSIZLIK⟫
+INSERT	(eylem) yerleştirmek: Söz veya cevabı tam sırasında söylemek.
+INSERTED	(insert sözcüğünün çekimi) (eylem) yerleştirmek: Söz veya cevabı tam sırasında söylemek.
+INSERTER	(insert sözcüğünün çekimi) (eylem) yerleştirmek: Söz veya cevabı tam sırasında söylemek.
+INSERTING	(insert sözcüğünün çekimi) (eylem) yerleştirmek: Söz veya cevabı tam sırasında söylemek.
+INSERTION	(ad) insertion kelimesinin karşılığı: içleme
+INSERTIONS	(ad) çoğul çekimi: insertion
+INSERTS	(insert sözcüğünün çekimi) (eylem) yerleştirmek: Söz veya cevabı tam sırasında söylemek.
+INSETS	(ad) çoğul çekimi: inset
+INSIDE	(edat) inside kelimesinin karşılığı: ⟪içine|İÇİNE⟫\n(zarf) inside kelimesinin karşılığı: ⟪içeri|İÇERİ⟫
+INSIDERS	(ad) çoğul çekimi: insider
+INSIDES	(ad) çoğul çekimi: inside
+INSIGHT	(ad) insight kelimesinin karşılığı: ⟪kavrama|KAVRAMA⟫
+INSIGHTS	(ad) insight sözcüğünün çoğul çekimi: kavrama.
+INSIGNIFICANT	(sıfat) naçiz: değersiz, önemsiz (ayrıca: anlamsız, ehemmiyetsiz)
+INSINUATE	(eylem) insinuate kelimesinin karşılığı: ima etmek, ⟪çıtlatmak|ÇITLATMAK⟫
+INSINUATED	(insinuate sözcüğünün çekimi) (eylem) insinuate kelimesinin karşılığı: ima etmek, ⟪çıtlatmak|ÇITLATMAK⟫
+INSINUATES	(insinuate sözcüğünün çekimi) (eylem) insinuate kelimesinin karşılığı: ima etmek, ⟪çıtlatmak|ÇITLATMAK⟫
+INSINUATING	(insinuate sözcüğünün çekimi) (eylem) insinuate kelimesinin karşılığı: ima etmek, ⟪çıtlatmak|ÇITLATMAK⟫
+INSINUATORS	(ad) çoğul çekimi: insinuator
+INSIST	(eylem) insist kelimesinin karşılığı: iddia etmek
+INSISTED	(insist sözcüğünün çekimi) (eylem) insist kelimesinin karşılığı: iddia etmek
+INSISTENCES	(ad) çoğul çekimi: insistence
+INSISTER	(insist sözcüğünün çekimi) (eylem) insist kelimesinin karşılığı: iddia etmek
+INSISTING	(insist sözcüğünün çekimi) (eylem) insist kelimesinin karşılığı: iddia etmek
+INSISTS	(insist sözcüğünün çekimi) (eylem) insist kelimesinin karşılığı: iddia etmek
+INSOFAR	(zarf) -e kadar; belli bir dereceye kadar
+INSOLENT	(sıfat) küstah: saygısız, kaba, terbiyesiz (kimse): (ayrıca: terbiyesiz, saygısız)
+INSOLENTS	(insolent sözcüğünün çekimi) (sıfat) küstah: saygısız, kaba, terbiyesiz (kimse): (ayrıca: terbiyesiz, saygısız)
+INSOLES	(ad) çoğul çekimi: insole
+INSOLUBLE	(ad) insoluble kelimesinin karşılığı: çözünmez
+INSOLUBLES	(insoluble sözcüğünün çekimi) (ad) insoluble kelimesinin karşılığı: çözünmez
+INSOLVENCIES	(ad) çoğul çekimi: insolvency
+INSOMNIACS	(ad) çoğul çekimi: insomniac
+INSOUCIANT	(zarf) insouciant kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+INSOUCIANTLY	(insouciant sözcüğünün çekimi) (zarf) insouciant kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+INSPECTION	(ad) inspection kelimesinin karşılığı: ⟪denetim|DENETİM⟫
+INSPECTIONS	(inspection sözcüğünün çekimi) (ad) inspection kelimesinin karşılığı: ⟪denetim|DENETİM⟫
+INSPECTOR	(ad) denetçi: Denetlemeyle görevli kimse.
+INSPECTORATES	(ad) çoğul çekimi: inspectorate
+INSPECTORS	(ad) çoğul çekimi: inspector
+INSPIRATION	(ad) inspiration kelimesinin karşılığı: soluk alma
+INSPIRATIONAL	(sıfat) ilham verici, ilham kaynağı olan
+INSPIRATIONALLY	(zarf) ilham verici bir şekilde
+INSPIRATIONS	(inspiration sözcüğünün çekimi) (ad) inspiration kelimesinin karşılığı: soluk alma
+INSPIRE	(eylem) inspire kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRED	(inspire sözcüğünün çekimi) (eylem) inspire kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRES	(inspire sözcüğünün çekimi) (eylem) inspire kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRING	(inspire sözcüğünün çekimi) (eylem) inspire kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRINGLY	(inspire sözcüğünün çekimi) (eylem) inspire kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSTABILITIES	(ad) çoğul çekimi: instability
+INSTABILITY	(ad) instability kelimesinin karşılığı: stabil olmama
+INSTALL	(eylem) kurmak: hazırlamak (ayrıca: monte etmek)
+INSTALLATION	(ad) yerleştirme: yerleştirmek işi
+INSTALLATIONS	(ad) installation sözcüğünün çoğul çekimi: yerleştirme
+INSTALLER	(ad) installer kelimesinin karşılığı: ⟪kurucu|KURUCU⟫
+INSTALLMENTS	(ad) çoğul çekimi: installment
+INSTALLS	(install sözcüğünün çekimi) (eylem) kurmak: hazırlamak (ayrıca: monte etmek)
+INSTALMENTS	(ad) çoğul çekimi: instalment
+INSTANCE	(ad) durum: bir şeyin içinde bulunduğu içindeların hepsi, hâl, keyfiyet, mevki, pozisyon, vaziyet
+INSTANCED	(instance sözcüğünün çekimi) (ad) durum: bir şeyin içinde bulunduğu içindeların hepsi, hâl, keyfiyet, mevki, pozisyon, vaziyet
+INSTANCES	(ad) instance sözcüğünün çoğul çekimi: durum
+INSTANCING	(instance sözcüğünün çekimi) (ad) durum: bir şeyin içinde bulunduğu içindeların hepsi, hâl, keyfiyet, mevki, pozisyon, vaziyet
+INSTANT	(sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTANTANEOUS	(ad) instantaneous kelimesinin karşılığı: enstantene
+INSTANTER	(instant sözcüğünün çekimi) (sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTANTIATIONS	(ad) çoğul çekimi: instantiation
+INSTANTLY	(zarf) çabucak: çok çabuk, vakit geçirmeden, kısa sürede, aceleten, acilen, alelacele, anında, bir anda, bir çırpıda, birden, bir hamlede, bir koşu, bir lahzada, bir solukta, çabucacık, çabuk, çabukça, çarçabuk, dakikasında, derakap, derhâl, hemen, hemencecik, hemencek, hızla, hızlı, hızlı hızlı, ivedilikle,... (ayrıca: anında, hemen)
+INSTANTS	(instant sözcüğünün çekimi) (sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTEP	(ad) instep kelimesinin karşılığı: ⟪ağım|AĞIM⟫
+INSTEPS	(instep sözcüğünün çekimi) (ad) instep kelimesinin karşılığı: ⟪ağım|AĞIM⟫
+INSTIGATIONS	(ad) çoğul çekimi: instigation
+INSTIGATORS	(ad) çoğul çekimi: instigator
+INSTILLATION	(ad) instillation kelimesinin karşılığı: ⟪damlatma|DAMLATMA⟫
+INSTILLATIONS	(instillation sözcüğünün çekimi) (ad) instillation kelimesinin karşılığı: ⟪damlatma|DAMLATMA⟫
+INSTINCT	(ad) içgüdü: Organizmayı o türe özgü olan bir amaca ulaşmaya sürükleyen davranış eğilimi.
+INSTINCTS	(instinct sözcüğünün çekimi) (ad) içgüdü: Organizmayı o türe özgü olan bir amaca ulaşmaya sürükleyen davranış eğilimi.
+INSTITUTE	(ad) enstitü: Bir üniversiteye bağlı veya bağımsız bir kuruluş olarak genellikle araştırma yapan ve bazı durumlarda öğretime de yer veren eğitim kurumu
+INSTITUTED	(institute sözcüğünün çekimi) (ad) enstitü: Bir üniversiteye bağlı veya bağımsız bir kuruluş olarak genellikle araştırma yapan ve bazı durumlarda...
+INSTITUTERS	(ad) çoğul çekimi: instituter
+INSTITUTES	(ad) (enstitüler) (institute): enstitü
+INSTITUTING	(institute sözcüğünün çekimi) (ad) enstitü: Bir üniversiteye bağlı veya bağımsız bir kuruluş olarak genellikle araştırma yapan ve bazı durumlarda...
+INSTITUTION	(ad) enstitü: Bir üniversiteye bağlı veya bağımsız bir kuruluş olarak genellikle araştırma yapan ve bazı durumlarda öğretime de yer veren eğitim kurumu
+INSTITUTIONS	(institution sözcüğünün çekimi) (ad) enstitü: Bir üniversiteye bağlı veya bağımsız bir kuruluş olarak genellikle araştırma yapan ve bazı durumlarda...
+INSTRUCTION	(ad) instruction kelimesinin karşılığı: ⟪yönerge|YÖNERGE⟫
+INSTRUCTIONS	(ad) instruction sözcüğünün çoğul çekimi: yönerge
+INSTRUCTORS	(ad) çoğul çekimi: instructor
+INSTRUMENT	(ad) çalgı: Müzik yapmak amacıyla kullanılan her türlü ses verebilen alet. (ayrıca: müzik aleti, enstrüman)
+INSTRUMENTAL	(ad) instrumental kelimesinin karşılığı: ⟪enstrümantal|ENSTRÜMANTAL⟫\n(sıfat) instrumental kelimesinin karşılığı: araç durumu, alete ait, aletle yapılan
+INSTRUMENTALIST	(ad) çalgıcı: çalgı çalmayı kendine meslek edinmiş kişi
+INSTRUMENTALISTS	(instrumentalist sözcüğünün çekimi) (ad) çalgıcı: çalgı çalmayı kendine meslek edinmiş kişi
+INSTRUMENTALS	(instrumental sözcüğünün çekimi) (ad) instrumental kelimesinin karşılığı: ⟪enstrümantal|ENSTRÜMANTAL⟫
+INSTRUMENTED	(instrument sözcüğünün çekimi) (ad) çalgı: Müzik yapmak amacıyla kullanılan her türlü ses verebilen alet. (ayrıca: müzik aleti, enstrüman)
+INSTRUMENTING	(instrument sözcüğünün çekimi) (ad) çalgı: Müzik yapmak amacıyla kullanılan her türlü ses verebilen alet. (ayrıca: müzik aleti, enstrüman)
+INSTRUMENTS	(ad) instrument sözcüğünün çoğul çekimi: çalgı, müzik aleti, enstrüman
+INSUFFICIENCIES	(insufficiency sözcüğünün çekimi) (ad) insufficiency kelimesinin karşılığı: ⟪arıza|ARIZA⟫
+INSUFFICIENCY	(ad) insufficiency kelimesinin karşılığı: ⟪arıza|ARIZA⟫
+INSUFFICIENT	(sıfat) kıt: az, yetersiz (duygu, söz vb.)
+INSULATING	(sıfat) insulating kelimesinin karşılığı: ⟪izole|İZOLE⟫, yalıtılmış
+INSULATOR	(ad) yalıtkan: herhangi bir teması, sürtünmeyi önlemek için elektrik iletkenlerini saran, koruyan porselen, kauçuk vb. madde, izolatör
+INSULATORS	(ad) çoğul çekimi: insulator
+INSULT	(ad) hakaret: küçültücü söz veya davranış
+INSULTED	(insult sözcüğünün çekimi) (ad) hakaret: küçültücü söz veya davranış
+INSULTING	(insult sözcüğünün çekimi) (ad) hakaret: küçültücü söz veya davranış
+INSULTS	(ad) çoğul çekimi: insult
+INSURANCE	(ad) sigorta: Bir şeyin veya bir kimsenin herhangi bir yönden ileride karşılaşabileceği zararı gidermek için önceden ödenen prim karşılığında bu işle uğraşan kuruluşla yapılan iki taraflı bağlantı sözleşmesi; sosyal sigorta. (ayrıca: koruncalık)
+INSURANCES	(insurance sözcüğünün çekimi) (ad) sigorta: Bir şeyin veya bir kimsenin herhangi bir yönden ileride karşılaşabileceği zararı gidermek için önceden...
+INSURERS	(ad) çoğul çekimi: insurer
+INSURGENCES	(ad) çoğul çekimi: insurgency
+INSURGENCIES	(insurgency sözcüğünün çekimi) (ad) insurgency kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+INSURGENCY	(ad) insurgency kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+INSURGENT	(sıfat) insurgent kelimesinin karşılığı: ⟪isyancı|İSYANCI⟫
+INSURGENTLY	(insurgent sözcüğünün çekimi) (sıfat) insurgent kelimesinin karşılığı: ⟪isyancı|İSYANCI⟫
+INSURGENTS	(ad) çoğul çekimi: insurgent
+INSURRECTIONISTS	(ad) çoğul çekimi: insurrectionist
+INTACT	(sıfat) erden: bakire olarak, bakire bir biçimde
+INTAGLI	(ad) çoğul çekimi: intaglio
+INTAKE	(ad) intake kelimesinin karşılığı: algılamalı girdi
+INTAKES	(intake sözcüğünün çekimi) (ad) intake kelimesinin karşılığı: algılamalı girdi
+INTANGIBILITIES	(ad) çoğul çekimi: intangibility
+INTANGIBLE	(sıfat) intangible kelimesinin karşılığı: tanımlanamaz, kolay anlaşılamayan
+INTANGIBLES	(ad) çoğul çekimi: intangible
+INTEGER	(ad) tam sayı: aritmetik, matematik (ayrıca: tam adet, adedimürettep)
+INTEGERS	(ad) çoğul çekimi: integer
+INTEGRAL	(ad) integral kelimesinin karşılığı: ⟪integral|İNTEGRAL⟫, ⟪tümlev|TÜMLEV⟫\n(sıfat) integral kelimesinin karşılığı: ⟪bütünsel|BÜTÜNSEL⟫
+INTEGRALS	(ad) çoğul çekimi: integral
+INTEGRATED	(sıfat) tümleşik: bütünleşik (ayrıca: bütünleşik)
+INTEGRATION	(ad) integration kelimesinin karşılığı: ⟪bütünleşme|BÜTÜNLEŞME⟫, ⟪entegrasyon|ENTEGRASYON⟫
+INTEGRATIONS	(integration sözcüğünün çekimi) (ad) integration kelimesinin karşılığı: ⟪bütünleşme|BÜTÜNLEŞME⟫, ⟪entegrasyon|ENTEGRASYON⟫
+INTEGRATOR	(ad) integrator kelimesinin karşılığı: integratör
+INTEGRATORS	(ad) çoğul çekimi: integrator
+INTEGUMENTS	(ad) çoğul çekimi: integument
+INTELLECT	(ad) zekâ: İnsanın düşünme, akıl yürütme, öğrenme, kavramları ve nesneleri zihinde canlandırabilme, objektif gerçekleri algılama, yargılama, sonuç çıkarma, bedeni kontrol edebilme, duyguları doğru algılayabilme, değerlendirebilme, icat edebilme vb. yeteneklerinin ve becerilerinin tamamı; anlak, dirayet,... (ayrıca: anlak, dirayet)
+INTELLECTIONS	(ad) çoğul çekimi: intellection
+INTELLECTS	(intellect sözcüğünün çekimi) (ad) zekâ: İnsanın düşünme, akıl yürütme, öğrenme, kavramları ve nesneleri zihinde canlandırabilme, objektif gerçekleri...
+INTELLECTUAL	(ad) intellectual kelimesinin karşılığı: zeki kişi\n(sıfat) intellectual kelimesinin karşılığı: zekaya dair, zekaya ait
+INTELLECTUALISM	(ad) anlıkçılık: duyu ve irade karşısında anlığın üstünlüğünü ileri süren öğreti, zihniye, entelektüalizm
+INTELLECTUALISMS	(intellectualism sözcüğünün çekimi) (ad) anlıkçılık: duyu ve irade karşısında anlığın üstünlüğünü ileri süren öğreti, zihniye, entelektüalizm
+INTELLECTUALS	(ad) çoğul çekimi: intellectual
+INTELLIGENCE	(ad) anlayış: anlama yeteneği, feraset, izan, zekâ (ayrıca: zekilik, anlak)
+INTELLIGENCES	(ad) intelligence sözcüğünün çoğul çekimi: zekilik, anlak, anlayış, dirayet, feraset, us, zekâ, zeyreklik
+INTELLIGENT	(sıfat) zeki: anlama, kavrama yeteneği, zekâsı olan (ayrıca: akıllı)
+INTELLIGIBILITIES	(intelligibility sözcüğünün çekimi) (ad) intelligibility kelimesinin karşılığı: anlaşılabilirlik
+INTELLIGIBILITY	(ad) intelligibility kelimesinin karşılığı: anlaşılabilirlik
+INTEMPERANCES	(ad) çoğul çekimi: intemperance
+INTENDANTS	(ad) çoğul çekimi: intendant
+INTENDING	(eylem) intend sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+INTENSE	(sıfat) yoğun: Artmış, çoğalmış bir durumda olan; sıkı.
+INTENSER	(intense sözcüğünün çekimi) (sıfat) yoğun: Artmış, çoğalmış bir durumda olan; sıkı.
+INTENSEST	(intense sözcüğünün çekimi) (sıfat) yoğun: Artmış, çoğalmış bir durumda olan; sıkı.
+INTENSIFIER	(ad) intensifier kelimesinin karşılığı: pekiştirici
+INTENSIFIERS	(ad) çoğul çekimi: intensifier
+INTENSION	(ad) intension kelimesinin karşılığı: ⟪içlem|İÇLEM⟫
+INTENSIONS	(intension sözcüğünün çekimi) (ad) intension kelimesinin karşılığı: ⟪içlem|İÇLEM⟫
+INTENSITIES	(ad) çoğul çekimi: intensity
+INTENSITY	(ad) yeğinlik: Bir ses çıkarılırken algılanan ve titreşimlerin genliğinden kaynaklanan özellik.
+INTENSIVE	(ad) intensive kelimesinin karşılığı: ⟪pekiştirmeli|PEKİŞTİRMELİ⟫
+INTENSIVES	(intensive sözcüğünün çekimi) (ad) intensive kelimesinin karşılığı: ⟪pekiştirmeli|PEKİŞTİRMELİ⟫
+INTENTION	(ad) niyet: bir şeyi yapmayı önceden isteyip düşünme, maksat
+INTENTIONAL	(sıfat) gayeli: amacı olan, amaçlı (ayrıca: amaçlı)
+INTENTIONALITIES	(intentionality sözcüğünün çekimi) (sıfat) intentionality kelimesinin karşılığı: ⟪amaçlılık|AMAÇLILIK⟫
+INTENTIONALITY	(sıfat) intentionality kelimesinin karşılığı: ⟪amaçlılık|AMAÇLILIK⟫
+INTENTIONALLY	(zarf) kasti: kasıtlı olarak, bilerek, isteyerek (ayrıca: bilerek, isteyerek)
+INTENTIONS	(ad) intention sözcüğünün çoğul çekimi: niyet
+INTENTS	(ad) çoğul çekimi: intent
+INTER	(eylem) gömmek: bir ölüyü toprağın içine yerleştirmek, defnetmek
+INTERACT	(eylem) etkileşmek: Karşılıklı olarak birbirini etkilemek (ayrıca: etkileşime girmek)
+INTERACTED	(eylem) interact sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: etkileşmek, etkileşime girmek
+INTERACTING	(eylem) interact sözcüğünün şimdiki zaman ortaç ve gerund çekimi: etkileşmek, etkileşime girmek
+INTERACTION	(ad) etkileşim: Birbirini karşılıklı olarak etkileme işi.
+INTERACTIONS	(ad) interaction sözcüğünün çoğul çekimi: etkileşim
+INTERACTIVE	(sıfat) interactive kelimesinin karşılığı: ⟪interaktif|İNTERAKTİF⟫
+INTERACTS	(eylem) interact sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: etkileşmek, etkileşime girmek
+INTERBRED	(sıfat) hibrit: Bir veya daha fazla gen bakımından farklı iki birey arasındaki melezin birinci jenerasyon dölü.
+INTERBREEDING	(ad) melezleme: İki farklı türü birleştirip yeni bir tür ortaya çıkarmak, çaprazlama.
+INTERCEPTION	(ad) interception kelimesinin karşılığı: ⟪kesişme|KESİŞME⟫
+INTERCEPTIONS	(interception sözcüğünün çekimi) (ad) interception kelimesinin karşılığı: ⟪kesişme|KESİŞME⟫
+INTERCEPTORS	(ad) çoğul çekimi: interceptor
+INTERCEPTS	(ad) çoğul çekimi: intercept
+INTERCESSIONS	(ad) çoğul çekimi: intercession
+INTERCESSOR	(ad) aracı: iki şey arasında bağlantı kuran kişi
+INTERCESSORS	(ad) çoğul çekimi: intercessor
+INTERCHANGEABILITIES	(interchangeability sözcüğünün çekimi) (ad) interchangeability kelimesinin karşılığı: değiş-tokuşluluk
+INTERCHANGEABILITY	(ad) interchangeability kelimesinin karşılığı: değiş-tokuşluluk
+INTERCHANGEABLE	(ad) interchangeable kelimesinin karşılığı: ⟪değişimsel|DEĞİŞİMSEL⟫
+INTERCHANGES	(ad) çoğul çekimi: interchange
+INTERCONNECTS	(ad) çoğul çekimi: interconnect
+INTERCOSTALS	(ad) çoğul çekimi: intercostal
+INTERCOURSE	(ad) ilişki: iki şey arasında karşılıklı ilgi (ayrıca: münasebet)
+INTERCOURSES	(ad) çoğul çekimi: intercourse
+INTERDENTAL	(ad) interdental kelimesinin karşılığı: peltek dişsil
+INTERDENTALLY	(interdental sözcüğünün çekimi) (ad) interdental kelimesinin karşılığı: peltek dişsil
+INTERDICTS	(ad) çoğul çekimi: interdict
+INTEREST	(ad) interest kelimesinin karşılığı: ⟪faiz|FAİZ⟫, ⟪getiri|GETİRİ⟫, ⟪ürem|ÜREM⟫, ⟪nema|NEMA⟫\n(eylem) ilgilenmek: ilgi göstermek, alakalanmak
+INTERESTED	(eylem) to interest fiilinin basit geçmiş zaman kipi.\n(sıfat) müteallik: ilişkin, ilgili, alakalı (ayrıca: alakadar, ilişkin)
+INTERESTEDLY	(interest sözcüğünün çekimi) (ad) interest kelimesinin karşılığı: ⟪faiz|FAİZ⟫, ⟪getiri|GETİRİ⟫, ⟪ürem|ÜREM⟫, ⟪nema|NEMA⟫
+INTERESTING	(sıfat) ilginç: ilgi uyandıran, ilgi ve dikkat çekici olan, enteresan
+INTERESTS	(ad) interest sözcüğünün çoğul çekimi: faiz, getiri, ürem, nema
+INTERFACE	(ad) interface kelimesinin karşılığı: ⟪arayüz|ARAYÜZ⟫
+INTERFACES	(ad) interfaces kelimesinin karşılığı: arayüzler
+INTERFERENCE	(ad) interference kelimesinin karşılığı: ⟪girişim|GİRİŞİM⟫
+INTERFERENCES	(interference sözcüğünün çekimi) (ad) interference kelimesinin karşılığı: ⟪girişim|GİRİŞİM⟫
+INTERFEROMETER	(ad) interferometer kelimesinin karşılığı: ⟪interferometre|İNTERFEROMETRE⟫
+INTERFEROMETERS	(interferometer sözcüğünün çekimi) (ad) interferometer kelimesinin karşılığı: ⟪interferometre|İNTERFEROMETRE⟫
+INTERIMS	(ad) çoğul çekimi: interim
+INTERIOR	(sıfat) içeri: iç, iç yüzey (ayrıca: iç)\n(ad) içeri: iç, iç yüzey
+INTERIORS	(ad) çoğul çekimi: interior
+INTERJECTION	(ad) ünlem: türlü duyguları anlatan veya bir tabiat sesini yansıtan kelime, nida (ayrıca: nida)
+INTERJECTIONS	(interjection sözcüğünün çekimi) (ad) ünlem: türlü duyguları anlatan veya bir tabiat sesini yansıtan kelime, nida (ayrıca: nida)
+INTERLACES	(ad) çoğul çekimi: interlace
+INTERLEAVES	(ad) çoğul çekimi: interleave
+INTERLEUKIN	(ad) interleukin kelimesinin karşılığı: interlökin
+INTERLEUKINS	(ad) interleukin sözcüğünün çoğul çekimi: interlökin
+INTERLOCKS	(ad) çoğul çekimi: interlock
+INTERLOCUTORS	(ad) çoğul çekimi: interlocutor
+INTERLOPERS	(ad) çoğul çekimi: interloper
+INTERLUDE	(ad) ara ünsüz kümesi
+INTERLUDES	(ad) çoğul çekimi: interlude
+INTERMARRIAGES	(ad) çoğul çekimi: intermarriage
+INTERMEDIARIES	(ad) çoğul çekimi: intermediary
+INTERMEDIATE	(ad) intermediate kelimesinin karşılığı: ⟪ara|ARA⟫
+INTERMEDIATED	(intermediate sözcüğünün çekimi) (ad) intermediate kelimesinin karşılığı: ⟪ara|ARA⟫
+INTERMEDIATES	(ad) çoğul çekimi: intermediate
+INTERMEDIATING	(intermediate sözcüğünün çekimi) (ad) intermediate kelimesinin karşılığı: ⟪ara|ARA⟫
+INTERMEZZI	(ad) çoğul çekimi: intermezzo
+INTERMEZZOS	(ad) çoğul çekimi: intermezzo
+INTERMINABLE	(sıfat) sonsuz: sonu olmayan, bitmeyen, ebedî (ayrıca: bitmez, tükenmez)
+INTERMINGLED	(sıfat) katışık: içine başka şeyler karışmış olan, karışık, karma, mahlut
+INTERMISSIONS	(ad) çoğul çekimi: intermission
+INTERMITTENCES	(ad) çoğul çekimi: intermittence
+INTERMITTENT	(ad) aralıklı: Birbirlerinden ayrı olarak, arada boşluk bırakarak.
+INTERNAL	(sıfat) internal kelimesinin karşılığı: iç
+INTERNALIZE	(eylem) internalize kelimesinin karşılığı: içselleştirmek
+INTERNALIZED	(sıfat) internalized kelimesinin karşılığı: oturuşmuş
+INTERNALIZES	(internalize sözcüğünün çekimi) (eylem) internalize kelimesinin karşılığı: içselleştirmek
+INTERNALIZING	(internalize sözcüğünün çekimi) (eylem) internalize kelimesinin karşılığı: içselleştirmek
+INTERNALS	(internal sözcüğünün çekimi) (sıfat) internal kelimesinin karşılığı: iç
+INTERNATIONAL	(sıfat) uluslararası: uluslararası
+INTERNATIONALISM	(ad) internationalism kelimesinin karşılığı: ⟪milletlerarasıcılık|MİLLETLERARASICILIK⟫, ⟪uluslararasıcılık|ULUSLARARASICILIK⟫
+INTERNATIONALISMS	(internationalism sözcüğünün çekimi) (ad) internationalism kelimesinin karşılığı: ⟪milletlerarasıcılık|MİLLETLERARASICILIK⟫, ⟪uluslararasıcılık|ULUSLARARASICILIK⟫
+INTERNATIONALISTS	(ad) çoğul çekimi: internationalist
+INTERNATIONALIZE	(eylem) internationalize kelimesinin karşılığı: uluslararasılaştırmak
+INTERNATIONALIZED	(internationalize sözcüğünün çekimi) (eylem) internationalize kelimesinin karşılığı: uluslararasılaştırmak
+INTERNATIONALIZES	(eylem) internationalize sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: uluslararasılaştırmak
+INTERNATIONALIZING	(internationalize sözcüğünün çekimi) (eylem) internationalize kelimesinin karşılığı: uluslararasılaştırmak
+INTERNATIONALS	(ad) çoğul çekimi: international
+INTERNEES	(ad) çoğul çekimi: internee
+INTERNISTS	(ad) çoğul çekimi: internist
+INTERNMENTS	(ad) çoğul çekimi: internment
+INTERNODES	(ad) çoğul çekimi: internode
+INTERNS	(ad) çoğul çekimi: intern
+INTERNSHIP	(ad) staj: bir kimsenin, meslek bilgisini artırmak için bir kurumun bir veya birçok bölümünde çalışarak geçirdiği dönem
+INTERNSHIPS	(internship sözcüğünün çekimi) (ad) staj: bir kimsenin, meslek bilgisini artırmak için bir kurumun bir veya birçok bölümünde çalışarak geçirdiği dönem
+INTEROPERABILITIES	(interoperability sözcüğünün çekimi) (ad) interoperability kelimesinin karşılığı: birlikte çalışılabilirlik, karşılıklı çalışabilirlik, müşterek çalışma
+INTEROPERABILITY	(ad) interoperability kelimesinin karşılığı: birlikte çalışılabilirlik, karşılıklı çalışabilirlik, müşterek çalışma
+INTERPERSONAL	(ad) interpersonal kelimesinin karşılığı: kişilerarası
+INTERPLAYS	(ad) çoğul çekimi: interplay
+INTERPOLATION	(ad) ara değeri bulma
+INTERPOLATIONS	(ad) interpolation sözcüğünün çoğul çekimi: ara değeri bulma
+INTERPRETABLE	(ad) interpretable kelimesinin karşılığı: ⟪yorumlanabilir|YORUMLANABİLİR⟫
+INTERPRETATION	(ad) çevirme: çevirmek işi
+INTERPRETATIONS	(ad) interpretation sözcüğünün çoğul çekimi: çevirme
+INTERPRETATIVE	(ad) yorumlayıcı: girdi olarak verilen deyim ya da yordamları, herhangi bir amaç izlence üretecek biçimde derlemeksizin, doğrudan uygulayan bir izlence
+INTERPRETER	(ad) interpreter kelimesinin karşılığı: ⟪yorumlayıcı|YORUMLAYICI⟫
+INTERPRETERS	(ad) interpreters kelimesinin karşılığı: yorumlayıcılar
+INTERPRETING	(ad) tercümanlık: tercüme yapma işi
+INTERRED	(inter sözcüğünün çekimi) (eylem) gömmek: bir ölüyü toprağın içine yerleştirmek, defnetmek
+INTERRELATIONSHIPS	(ad) çoğul çekimi: interrelationship
+INTERRING	(inter sözcüğünün çekimi) (eylem) gömmek: bir ölüyü toprağın içine yerleştirmek, defnetmek
+INTERROGATE	(eylem) interrogate kelimesinin karşılığı: sorguya çekmek
+INTERROGATED	(interrogate sözcüğünün çekimi) (eylem) interrogate kelimesinin karşılığı: sorguya çekmek
+INTERROGATEES	(interrogate sözcüğünün çekimi) (eylem) interrogate kelimesinin karşılığı: sorguya çekmek
+INTERROGATES	(interrogate sözcüğünün çekimi) (eylem) interrogate kelimesinin karşılığı: sorguya çekmek
+INTERROGATING	(interrogate sözcüğünün çekimi) (eylem) interrogate kelimesinin karşılığı: sorguya çekmek
+INTERROGATORIES	(ad) çoğul çekimi: interrogatory
+INTERROGATORS	(ad) çoğul çekimi: interrogator
+INTERRUPT	(ad) interrupt kelimesinin karşılığı: ⟪kesme|KESME⟫\n(eylem) kesmek: (mecaz) birini yermek, kötülemek
+INTERRUPTED	(ad) kesintili: Tekil olarak algılanabilen, başka bir şeye bağlı veya ait olmayan; ayrık; süreksiz.
+INTERRUPTERS	(ad) çoğul çekimi: interrupter
+INTERRUPTING	(interrupt sözcüğünün çekimi) (ad) interrupt kelimesinin karşılığı: ⟪kesme|KESME⟫
+INTERRUPTION	(ad) interruption kelimesinin karşılığı: ⟪kesilme|KESİLME⟫
+INTERRUPTIONS	(ad) interruption sözcüğünün çoğul çekimi: kesilme
+INTERRUPTS	(ad) interrupt sözcüğünün çoğul çekimi: kesme\n(eylem) interrupt sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kesme
+INTERS	(inter sözcüğünün çekimi) (eylem) gömmek: bir ölüyü toprağın içine yerleştirmek, defnetmek
+INTERSECTION	(ad) intersection kelimesinin karşılığı: ⟪kesişme|KESİŞME⟫
+INTERSECTIONS	(intersection sözcüğünün çekimi) (ad) intersection kelimesinin karşılığı: ⟪kesişme|KESİŞME⟫
+INTERSPACES	(ad) çoğul çekimi: interspace
+INTERSPERSED	(eylem) intersperse sözcüğünün geçmiş zaman çekimi\n(sıfat) interspersed kelimesinin karşılığı: serpilmiş
+INTERSTATES	(ad) çoğul çekimi: interstate
+INTERSTELLAR	(sıfat) yıldızlararası: yıldızlararası
+INTERVAL	(ad) aralık: İki şey arasındaki mesafe, iki şeyin arasındaki boşluk.
+INTERVALES	(interval sözcüğünün çekimi) (ad) aralık: İki şey arasındaki mesafe, iki şeyin arasındaki boşluk.
+INTERVALS	(ad) interval sözcüğünün çoğul çekimi: aralık
+INTERVENE	(eylem) intervene kelimesinin karşılığı: aracılık etmek, tavassut etmek
+INTERVENED	(intervene sözcüğünün çekimi) (eylem) intervene kelimesinin karşılığı: aracılık etmek, tavassut etmek
+INTERVENES	(intervene sözcüğünün çekimi) (eylem) intervene kelimesinin karşılığı: aracılık etmek, tavassut etmek
+INTERVENING	(ad) aracılık: aracı olma durumu, vasıta, vasıtalık
+INTERVENTION	(ad) intervention kelimesinin karşılığı: ⟪tavassut|TAVASSUT⟫, ⟪aracılık|ARACILIK⟫, aracılık etme
+INTERVENTIONS	(ad) intervention sözcüğünün çoğul çekimi: tavassut, aracılık, aracılık etme
+INTERVIEW	(ad) görüşme: görüşmek işi
+INTERVIEWED	(interview sözcüğünün çekimi) (ad) görüşme: görüşmek işi
+INTERVIEWEES	(ad) çoğul çekimi: interviewee
+INTERVIEWERS	(ad) çoğul çekimi: interviewer
+INTERVIEWING	(interview sözcüğünün çekimi) (ad) görüşme: görüşmek işi
+INTERVIEWS	(ad) interview sözcüğünün çoğul çekimi: görüşme
+INTERVOCALIC	(ad) intervocalic kelimesinin karşılığı: ünlülerarası
+INTESTINAL	(ad) intestinal kelimesinin karşılığı: intestinal
+INTESTINALLY	(intestinal sözcüğünün çekimi) (ad) intestinal kelimesinin karşılığı: intestinal
+INTESTINE	(ad) bağırsak: Sindirim sisteminde mideden sonra gelen ve besinlerin kana karışmasını, artıkların dışarı atılmasını sağlayan organ.
+INTESTINES	(ad) çoğul çekimi: intestine
+INTIMACIES	(ad) çoğul çekimi: intimacy
+INTIMACY	(ad) intimacy kelimesinin karşılığı: ⟪yakınlık|YAKINLIK⟫
+INTIMATELY	(zarf) samimi: içli dışlı, senli benli olarak
+INTIMATES	(ad) çoğul çekimi: intimate
+INTIMATIONS	(ad) çoğul çekimi: intimation
+INTIMIDATION	(ad) intimidation kelimesinin karşılığı: ⟪yıldırma|YILDIRMA⟫
+INTIMIDATIONS	(intimidation sözcüğünün çekimi) (ad) intimidation kelimesinin karşılığı: ⟪yıldırma|YILDIRMA⟫
+INTINCTIONS	(ad) çoğul çekimi: intinction
+INTINES	(ad) çoğul çekimi: intine
+INTOLERANT	(sıfat) hoşgörüsüz: hoşgörüsü olmayan, hoşgörü ile davranmayan, müsamahasız, toleranssız (ayrıca: müsamahasız, toleranssız)
+INTONATION	(ad) intonation kelimesinin karşılığı: ⟪ezgi|EZGİ⟫, ⟪nağme|NAĞME⟫, ⟪yır|YIR⟫
+INTONATIONS	(intonation sözcüğünün çekimi) (ad) intonation kelimesinin karşılığı: ⟪ezgi|EZGİ⟫, ⟪nağme|NAĞME⟫, ⟪yır|YIR⟫
+INTONE	(eylem) düz, tonsuz şekilde okumak
+INTONED	(intone sözcüğünün çekimi) (eylem) düz, tonsuz şekilde okumak
+INTONER	(intone sözcüğünün çekimi) (eylem) düz, tonsuz şekilde okumak
+INTONES	(intone sözcüğünün çekimi) (eylem) düz, tonsuz şekilde okumak
+INTONING	(intone sözcüğünün çekimi) (eylem) düz, tonsuz şekilde okumak
+INTOXICATE	(eylem) intoxicate kelimesinin karşılığı: sarhoş etmek
+INTOXICATED	(sıfat) sarhoş: alkollü içki veya keyif verici bir madde sebebiyle kendini bilemeyecek durumda olan, esrik, mest, sermest, başı dumanlı, kafası bulutlu, kafası iyi, kafası dumanlı, kafası kıyak\n(eylem) intoxicate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sarhoş etmek
+INTOXICATES	(intoxicate sözcüğünün çekimi) (eylem) intoxicate kelimesinin karşılığı: sarhoş etmek
+INTOXICATING	(intoxicate sözcüğünün çekimi) (eylem) intoxicate kelimesinin karşılığı: sarhoş etmek
+INTOXICATION	(ad) intoxication kelimesinin karşılığı: ⟪zehirlenme|ZEHİRLENME⟫
+INTOXICATIONS	(intoxication sözcüğünün çekimi) (ad) intoxication kelimesinin karşılığı: ⟪zehirlenme|ZEHİRLENME⟫
+INTRADERMAL	(ad) intradermal kelimesinin karşılığı: ⟪intradermal|İNTRADERMAL⟫
+INTRANSIGENCE	(ad) uyuşmazlık: uyuşmama durumu
+INTRANSIGENCES	(ad) çoğul çekimi: intransigence
+INTRANSITIVE	(sıfat) lazım: geçişsiz, müteaddi karşıtı (ayrıca: geçişsiz)
+INTRANTS	(ad) çoğul çekimi: intrant
+INTRAUTERINE	(sıfat) intrauterine kelimesinin karşılığı: rahim içi
+INTRAVENOUS	(ad) intravenous kelimesinin karşılığı: damar içi
+INTRAVENOUSES	(intravenous sözcüğünün çekimi) (ad) intravenous kelimesinin karşılığı: damar içi
+INTREPID	(sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız (ayrıca: cesur, gözü kara)
+INTRICACIES	(ad) çoğul çekimi: intricacy
+INTRICACY	(ad) intricacy kelimesinin karşılığı: ⟪entrika|ENTRİKA⟫
+INTRIGUE	(eylem) intrigue kelimesinin karşılığı: ilgisini çekmek, ⟪cezbetmek|CEZBETMEK⟫, merak uyandırmak\n(ad) entrika: bir işi sağlamak veya bozmak için girişilen gizli çalışma, oyun, dolap, düzen, dalavere, desise, hile, dek (ayrıca: fesat, kumpas)
+INTRIGUED	(intrigue sözcüğünün çekimi) (eylem) intrigue kelimesinin karşılığı: ilgisini çekmek, ⟪cezbetmek|CEZBETMEK⟫, merak uyandırmak
+INTRIGUERS	(ad) çoğul çekimi: intriguer
+INTRIGUES	(intrigue sözcüğünün çekimi) (eylem) intrigue kelimesinin karşılığı: ilgisini çekmek, ⟪cezbetmek|CEZBETMEK⟫, merak uyandırmak
+INTRIGUING	(intrigue sözcüğünün çekimi) (eylem) intrigue kelimesinin karşılığı: ilgisini çekmek, ⟪cezbetmek|CEZBETMEK⟫, merak uyandırmak
+INTRINSIC	(sıfat) temel: Bir şeyin gelişimi için gereken ilk ögeler.
+INTRINSICALLY	(zarf) zati: zaten
+INTRODUCE	(eylem) tanıtmak: bir kişinin veya bir şeyin tanınmasını sağlamak
+INTRODUCED	(introduce sözcüğünün çekimi) (eylem) tanıtmak: bir kişinin veya bir şeyin tanınmasını sağlamak
+INTRODUCES	(introduce sözcüğünün çekimi) (eylem) tanıtmak: bir kişinin veya bir şeyin tanınmasını sağlamak
+INTRODUCING	(introduce sözcüğünün çekimi) (eylem) tanıtmak: bir kişinin veya bir şeyin tanınmasını sağlamak
+INTRODUCTION	(ad) başlangıç: bir iş, bir dönem, bir hayat vb.nin ilk bölümü
+INTRODUCTIONS	(introduction sözcüğünün çekimi) (ad) başlangıç: bir iş, bir dönem, bir hayat vb.nin ilk bölümü
+INTROITS	(ad) çoğul çekimi: introit
+INTROJECTIONS	(ad) çoğul çekimi: introjection
+INTRONS	(ad) çoğul çekimi: intron
+INTROSPECTIONS	(ad) çoğul çekimi: introspection
+INTROVERSION	(ad) introversion kelimesinin karşılığı: içedönüklük
+INTROVERSIONS	(introversion sözcüğünün çekimi) (ad) introversion kelimesinin karşılığı: içedönüklük
+INTROVERT	(sıfat) kapalı: Kapalı tribün
+INTROVERTED	(sıfat) kapalı: Kapalı tribün
+INTROVERTING	(introvert sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+INTROVERTS	(ad) çoğul çekimi: introvert
+INTRUDER	(ad) bir yere izinsiz giren kimse
+INTRUDERS	(ad) çoğul çekimi: intruder
+INTRUSION	(ad) intrusion kelimesinin karşılığı: ⟪ihlâl|İHLAL⟫
+INTRUSIONS	(ad) intrusions kelimesinin karşılığı: ıntrusion'un çoğulu
+INTRUSIVE	(sıfat) sırnaşık: Can sıktığına, rahatsız ettiğine aldırmadan bir kimseden sürekli, yalvarırcasına istekte bulunan ve bu isteğinde direnen kimse.
+INTRUSIVELY	(intrusive sözcüğünün çekimi) (sıfat) sırnaşık: Can sıktığına, rahatsız ettiğine aldırmadan bir kimseden sürekli, yalvarırcasına istekte bulunan ve...
+INTRUSIVES	(intrusive sözcüğünün çekimi) (sıfat) sırnaşık: Can sıktığına, rahatsız ettiğine aldırmadan bir kimseden sürekli, yalvarırcasına istekte bulunan ve...
+INTUITION	(ad) intuition kelimesinin karşılığı: ⟪sezgi|SEZGİ⟫
+INTUITIONISTS	(ad) çoğul çekimi: intuitionist
+INTUITIONS	(intuition sözcüğünün çekimi) (ad) intuition kelimesinin karşılığı: ⟪sezgi|SEZGİ⟫
+INTUSSUSCEPTIONS	(ad) çoğul çekimi: intussusception
+INUNDATIONS	(ad) çoğul çekimi: inundation
+INUREMENTS	(ad) çoğul çekimi: inurement
+INVADE	(eylem) invade kelimesinin karşılığı: istila etmek
+INVADED	(invade sözcüğünün çekimi) (eylem) invade kelimesinin karşılığı: istila etmek
+INVADERS	(ad) çoğul çekimi: invader
+INVADES	(invade sözcüğünün çekimi) (eylem) invade kelimesinin karşılığı: istila etmek
+INVADING	(invade sözcüğünün çekimi) (eylem) invade kelimesinin karşılığı: istila etmek
+INVAGINATIONS	(ad) çoğul çekimi: invagination
+INVALID	(sıfat) invalid kelimesinin karşılığı: ⟪geçersiz|GEÇERSİZ⟫\n(ad) hasta: Hastalık, kaza veya yaralanma dolayısıyla fizik veya ruh sağlığı bozulmuş ve tedavi edilmesi gereken insan, hayvan veya organ.
+INVALIDED	(invalid sözcüğünün çekimi) (sıfat) invalid kelimesinin karşılığı: ⟪geçersiz|GEÇERSİZ⟫
+INVALIDING	(invalid sözcüğünün çekimi) (sıfat) invalid kelimesinin karşılığı: ⟪geçersiz|GEÇERSİZ⟫
+INVALIDLY	(invalid sözcüğünün çekimi) (sıfat) invalid kelimesinin karşılığı: ⟪geçersiz|GEÇERSİZ⟫
+INVALIDS	(ad) çoğul çekimi: invalid
+INVARIABLE	(sıfat) değişmeyen: değişken olmayan
+INVARIABLES	(invariable sözcüğünün çekimi) (sıfat) değişmeyen: değişken olmayan
+INVARIANCE	(ad) değişmezlik: Değişmez olma durumu
+INVARIANCES	(invariance sözcüğünün çekimi) (ad) değişmezlik: Değişmez olma durumu
+INVARIANT	(sıfat) değişmez: aynen kalan, değişikliğe uğramayan
+INVARIANTS	(invariant sözcüğünün çekimi) (sıfat) değişmez: aynen kalan, değişikliğe uğramayan
+INVASION	(ad) invasion kelimesinin karşılığı: ⟪istila|İSTİLA⟫
+INVASIONS	(invasion sözcüğünün çekimi) (ad) invasion kelimesinin karşılığı: ⟪istila|İSTİLA⟫
+INVEIGLE	(ad) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: ayartmak)
+INVEIGLED	(inveigle sözcüğünün çekimi) (ad) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: ayartmak)
+INVEIGLES	(inveigle sözcüğünün çekimi) (ad) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: ayartmak)
+INVEIGLING	(inveigle sözcüğünün çekimi) (ad) kandırmak: kanmasını sağlamak, inandırmak, ikna etmek (ayrıca: ayartmak)
+INVENT	(ad) invent kelimesinin karşılığı: icat etmek
+INVENTED	(invent sözcüğünün çekimi) (ad) invent kelimesinin karşılığı: icat etmek
+INVENTING	(invent sözcüğünün çekimi) (ad) invent kelimesinin karşılığı: icat etmek
+INVENTION	(ad) buluş: konu, duygu, düşünce ve hayalde başkalarının etkisinden sıyrılarak, bunların işlenişinde yeni yol tutma (ayrıca: bulgu)
+INVENTIONS	(ad) invention sözcüğünün çoğul çekimi: bulgu, buluş
+INVENTIVE	(sıfat) mucit: yaratıcı, yaratan
+INVENTOR	(ad) mucit: yeni buluş hakkında fikir ileri süren ve bu fikirler doğrultusunda yeni buluşu icat eden, hayata geçiren kişi
+INVENTORIED	(inventory sözcüğünün çekimi) (ad) döküm: bir şeyi ayrıntılı olarak ortaya koyma
+INVENTORIES	(inventory sözcüğünün çekimi) (ad) döküm: bir şeyi ayrıntılı olarak ortaya koyma
+INVENTORS	(ad) çoğul çekimi: inventor
+INVENTORY	(ad) döküm: bir şeyi ayrıntılı olarak ortaya koyma
+INVENTORYING	(inventory sözcüğünün çekimi) (ad) döküm: bir şeyi ayrıntılı olarak ortaya koyma
+INVENTS	(invent sözcüğünün çekimi) (ad) invent kelimesinin karşılığı: icat etmek
+INVERSION	(ad) baş aşağı etme
+INVERSIONS	(ad) baş aşağı etmeler
+INVERTEBRATES	(ad) çoğul çekimi: invertebrate
+INVERTED	(ad) inverted kelimesinin karşılığı: ⟪devrik|DEVRİK⟫
+INVERTS	(ad) çoğul çekimi: invert
+INVESTIGATION	(ad) soruşturma: herhangi bir konuyla ilgili durum veya tutumu belirlemek için düzenlenmiş ayrıntılı ve kapsamlı soru dizisi (ayrıca: araştırma, tetkik)
+INVESTIGATIONS	(ad) investigation sözcüğünün çoğul çekimi: Soruşturma, araştırma, tetkik.
+INVESTIGATORS	(ad) çoğul çekimi: investigator
+INVESTMENT	(ad) yatırım: Bir çıkar veya kazanç sağlamak için yapılan davranış.
+INVESTMENTS	(ad) investment sözcüğünün çoğul çekimi: yatırım
+INVESTOR	(ad) sermayedar: üretim araçlarını özel mülkiyetinde bulunduran kimse
+INVESTORS	(ad) çoğul çekimi: investor
+INVESTS	(ad) çoğul çekimi: invest
+INVIGILATORS	(ad) çoğul çekimi: invigilator
+INVIGORATE	(eylem) invigorate kelimesinin karşılığı: ⟪güçlendirmek|GÜÇLENDİRMEK⟫, ⟪canlandırmak|CANLANDIRMAK⟫, hayat vermek
+INVIGORATED	(invigorate sözcüğünün çekimi) (eylem) invigorate kelimesinin karşılığı: ⟪güçlendirmek|GÜÇLENDİRMEK⟫, ⟪canlandırmak|CANLANDIRMAK⟫, hayat vermek
+INVIGORATES	(invigorate sözcüğünün çekimi) (eylem) invigorate kelimesinin karşılığı: ⟪güçlendirmek|GÜÇLENDİRMEK⟫, ⟪canlandırmak|CANLANDIRMAK⟫, hayat vermek
+INVIGORATING	(sıfat) güç: ahlâk, düşünce ve fizik yönünden etki yapabilme veya etkiye direnebilme yeteneği (ayrıca: canlandırıcı, canlılık verici)
+INVINCIBLE	(sıfat) invincible kelimesinin karşılığı: yenilmez
+INVIOLABLE	(sıfat) inviolable kelimesinin karşılığı: bozulamaz, çiğnenemez, dokunulamaz, ihlal edilemez
+INVISIBILITIES	(ad) invisibility sözcüğünün çoğul çekimi: görünmezlik
+INVISIBILITY	(ad) görünmezlik: Görünmez olma durumu.
+INVISIBLE	(ad) görünmez: görünmez olan, görünmeyen
+INVISIBLES	(invisible sözcüğünün çekimi) (ad) görünmez: görünmez olan, görünmeyen
+INVITATION	(ad) davet: çağrı, çağırma (ayrıca: çağrı)
+INVITATIONS	(ad) invitation sözcüğünün çoğul çekimi: çağrı, davet
+INVITE	(ad) invite kelimesinin karşılığı: davet etmek
+INVITED	(invite sözcüğünün çekimi) (ad) invite kelimesinin karşılığı: davet etmek
+INVITES	(invite sözcüğünün çekimi) (ad) invite kelimesinin karşılığı: davet etmek
+INVITING	(invite sözcüğünün çekimi) (ad) invite kelimesinin karşılığı: davet etmek
+INVOCATIONS	(ad) invocation sözcüğünün çoğul çekimi
+INVOICE	(ad) invoice kelimesinin karşılığı: satımca
+INVOICED	(invoice sözcüğünün çekimi) (ad) invoice kelimesinin karşılığı: satımca
+INVOICES	(ad) çoğul çekimi: invoice
+INVOICING	(invoice sözcüğünün çekimi) (ad) invoice kelimesinin karşılığı: satımca
+INVOKE	(eylem) invoke kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOKED	(invoke sözcüğünün çekimi) (eylem) invoke kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOKER	(invoke sözcüğünün çekimi) (eylem) invoke kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOKES	(invoke sözcüğünün çekimi) (eylem) invoke kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOKING	(invoke sözcüğünün çekimi) (eylem) invoke kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOLUTES	(ad) çoğul çekimi: involute
+INVOLUTIONS	(ad) çoğul çekimi: involution
+INVOLVED	(sıfat) ilgili: ilgilenmiş olan, ilgisi bulunan, alakalı, alakadar, müteallik (ayrıca: ilişkin)
+INVOLVEMENT	(ad) katılım: katılma işi, iştirak (ayrıca: dâhil olma)
+INVOLVEMENTS	(ad) involvement sözcüğünün çoğul çekimi: katılım, dâhil olma
+INVOLVING	(sıfat) ilgili: ilgilenmiş olan, ilgisi bulunan, alakalı, alakadar, müteallik
+IODATES	(ad) çoğul çekimi: iodate
+IODIDE	(ad) iodide kelimesinin karşılığı: ⟪iyodür|İYODÜR⟫
+IODIDES	(ad) çoğul çekimi: iodide
+ION	(ad) iyon: bir ya da daha çok elektron kaybetmiş ya da kazanmış bir atom ya da bir atom grubundan oluşmuş elektrik yüklü parçacık (ayrıca: yükün)
+IONIC	(ad) ionic kelimesinin karşılığı: ⟪iyonik|İYONİK⟫
+IONICS	(ionic sözcüğünün çekimi) (ad) ionic kelimesinin karşılığı: ⟪iyonik|İYONİK⟫
+IONIZATION	(ad) iyonlaşma: moleküllerin parçalanmasıyla veya atomlara, moleküllere, molekül gruplarına elektron katılması veya çıkarılmasıyla iyonların oluşması, iyonizasyon
+IONIZATIONS	(ionization sözcüğünün çekimi) (ad) iyonlaşma: moleküllerin parçalanmasıyla veya atomlara, moleküllere, molekül gruplarına elektron katılması veya...
+IONS	(ion sözcüğünün çekimi) (ad) iyon: bir ya da daha çok elektron kaybetmiş ya da kazanmış bir atom ya da bir atom grubundan oluşmuş elektrik...
+IPECACUANHAS	(ad) çoğul çekimi: ipecacuanha
+IRASCIBLE	(sıfat) sinirli: (mecaz) kolayca ve çabuk sinirlenen, asabi (ayrıca: asabi, atarlı)
+IRE	(ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+IRED	(ire sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+IRES	(ire sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+IRIDES	(iris sözcüğünün çekimi) (ad) iris kelimesinin karşılığı: ⟪iris|İRİS⟫
+IRIDESCENT	(sıfat) Değişen veya birbirinden farklı olan renkler.
+IRIDESCENTLY	(iridescent sözcüğünün çekimi) (sıfat) Değişen veya birbirinden farklı olan renkler.
+IRIDIUM	(ad) iridium kelimesinin karşılığı: ⟪iridyum|İRİDYUM⟫
+IRIDIUMS	(iridium sözcüğünün çekimi) (ad) iridium kelimesinin karşılığı: ⟪iridyum|İRİDYUM⟫
+IRING	(ire sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+IRIS	(ad) iris kelimesinin karşılığı: ⟪iris|İRİS⟫
+IRISES	(iris sözcüğünün çekimi) (ad) iris kelimesinin karşılığı: ⟪iris|İRİS⟫
+IRISING	(iris sözcüğünün çekimi) (ad) iris kelimesinin karşılığı: ⟪iris|İRİS⟫
+IRON	(ad) demir: bu elementten yapılmış\n(sıfat) demir: bu elementten yapılmış
+IRONED	(iron sözcüğünün çekimi) (ad) demir: bu elementten yapılmış
+IRONER	(ad) ironer kelimesinin karşılığı: ⟪ütücü|ÜTÜCÜ⟫
+IRONERS	(iron sözcüğünün çekimi) (ad) demir: bu elementten yapılmış
+IRONES	(iron sözcüğünün çekimi) (ad) demir: bu elementten yapılmış
+IRONIC	(sıfat) ironic kelimesinin karşılığı: ironiye dair, ⟪ironik|İRONİK⟫
+IRONIES	(irony sözcüğünün çekimi) (ad) espri yapmak amacıyla veya bir şeyi vurgulamak için aslında söylemek istediğinin tam zıttını söyleme, ironi
+IRONING	(iron sözcüğünün çekimi) (ad) demir: bu elementten yapılmış
+IRONINGS	(iron sözcüğünün çekimi) (ad) demir: bu elementten yapılmış
+IRONMONGERS	(ad) çoğul çekimi: ironmonger
+IRONS	(ad) iron sözcüğünün çoğul çekimi: demir
+IRONWORKERS	(ad) çoğul çekimi: ironworker
+IRONY	(ad) espri yapmak amacıyla veya bir şeyi vurgulamak için aslında söylemek istediğinin tam zıttını söyleme, ironi\n(sıfat) irony kelimesinin karşılığı: demir gibi, demir rengi
+IRRADIATION	(ad) irradiation kelimesinin karşılığı: ⟪ışınlama|IŞINLAMA⟫
+IRRADIATIONS	(irradiation sözcüğünün çekimi) (ad) irradiation kelimesinin karşılığı: ⟪ışınlama|IŞINLAMA⟫
+IRRATIONALITIES	(ad) çoğul çekimi: irrationality
+IRREDENTISTS	(ad) çoğul çekimi: irredentist
+IRREGULAR	(sıfat) irregular kelimesinin karşılığı: ⟪düzensiz|DÜZENSİZ⟫
+IRREGULARITIES	(ad) irregularity sözcüğünün çoğul çekimi: düzensizlik
+IRREGULARITY	(ad) irregularity kelimesinin karşılığı: ⟪düzensizlik|DÜZENSİZLİK⟫
+IRREGULARS	(irregular sözcüğünün çekimi) (sıfat) irregular kelimesinin karşılığı: ⟪düzensiz|DÜZENSİZ⟫
+IRRELEVANT	(ad) irrelevant kelimesinin karşılığı: bağıntısız
+IRRELIGIOUS	(sıfat) dinsiz: dinî inancı olmayan
+IRRESOLUTE	(sıfat) kararsız, ikircimli, mütereddit, ne yapacağını bilmeyen, ne yapması gerektiğinden emin olmayan.
+IRRESPONSIBLE	(sıfat) mesuliyetsiz: sorumluluk gerektirmeyen (ayrıca: sorumsuz)
+IRRESPONSIBLES	(ad) çoğul çekimi: irresponsible
+IRREVERENT	(sıfat) saygısız: Saygısı olmayan, saygı göstermeyen (ayrıca: hürmetsiz)
+IRREVERSIBLE	(ad) irreversible kelimesinin karşılığı: geri dönüşümsüz
+IRRIGATION	(ad) irrigation kelimesinin karşılığı: ⟪yıkama|YIKAMA⟫
+IRRIGATIONS	(irrigation sözcüğünün çekimi) (ad) irrigation kelimesinin karşılığı: ⟪yıkama|YIKAMA⟫
+IRRITABILITIES	(irritability sözcüğünün çekimi) (ad) sinirlilik: sinirli bir biçimde davranma, asabilik, asabiyet
+IRRITABILITY	(ad) sinirlilik: sinirli bir biçimde davranma, asabilik, asabiyet
+IRRITABLE	(sıfat) sinirli: (mecaz) kolayca ve çabuk sinirlenen, asabi (ayrıca: dargın)
+IRRITATE	(eylem) irritate kelimesinin karşılığı: tahriş etmek
+IRRITATED	(irritate sözcüğünün çekimi) (eylem) irritate kelimesinin karşılığı: tahriş etmek
+IRRITATES	(irritate sözcüğünün çekimi) (eylem) irritate kelimesinin karşılığı: tahriş etmek
+IRRITATING	(irritate sözcüğünün çekimi) (eylem) irritate kelimesinin karşılığı: tahriş etmek
+IRRITATION	(ad) irritation kelimesinin karşılığı: ⟪tahriş|TAHRİŞ⟫
+IRRITATIONS	(irritation sözcüğünün çekimi) (ad) irritation kelimesinin karşılığı: ⟪tahriş|TAHRİŞ⟫
+IRRUPTION	(ad) akın: kalabalık bir şeyin arkası kesilmeyen bir geliş durumunda olması
+IRRUPTIONS	(irruption sözcüğünün çekimi) (ad) akın: kalabalık bir şeyin arkası kesilmeyen bir geliş durumunda olması
+ISLAND	(ad) ada: deniz veya göl ile çevrilmiş küçük kara parçası; aral cezire
+ISLANDED	(island sözcüğünün çekimi) (ad) ada: deniz veya göl ile çevrilmiş küçük kara parçası; aral cezire
+ISLANDER	(ad) adalı: ada halkından olan
+ISLANDERS	(ad) çoğul çekimi: islander
+ISLANDING	(island sözcüğünün çekimi) (ad) ada: deniz veya göl ile çevrilmiş küçük kara parçası; aral cezire
+ISLANDS	(ad) island sözcüğünün çoğul çekimi: ada
+ISLES	(ad) isle sözcüğünün çoğul çekimi
+ISLET	(ad) adacık: küçük ada
+ISLETS	(ad) çoğul çekimi: islet
+ISMS	(ad) çoğul çekimi: ism
+ISOBARS	(ad) çoğul çekimi: isobar
+ISOCHRONISM	(ad) isochronism kelimesinin karşılığı: eşsöylemli
+ISOCHRONISMS	(isochronism sözcüğünün çekimi) (ad) isochronism kelimesinin karşılığı: eşsöylemli
+ISOCHRONOUS	(sıfat) Düzenli olarak yinelenen.
+ISOCHRONOUSLY	(isochronous sözcüğünün çekimi) (sıfat) Düzenli olarak yinelenen.
+ISOCYANATES	(ad) çoğul çekimi: isocyanate
+ISOGRAMS	(ad) çoğul çekimi: isogram
+ISOLATE	(ad) parça / tümce sözcük
+ISOLATED	(sıfat) kapalı: Kapalı tribün (ayrıca: müstakil)
+ISOLATES	(isolate sözcüğünün çekimi) (ad) parça / tümce sözcük
+ISOLATING	(ad) isolating kelimesinin karşılığı: ayrışkan
+ISOLATION	(ad) isolation kelimesinin karşılığı: ⟪izolasyon|İZOLASYON⟫
+ISOLATIONISTS	(ad) çoğul çekimi: isolationist
+ISOLATIONS	(isolation sözcüğünün çekimi) (ad) isolation kelimesinin karşılığı: ⟪izolasyon|İZOLASYON⟫
+ISOLATOR	(ad) isolator kelimesinin karşılığı: ⟪ayırıcı|AYIRICI⟫
+ISOLATORS	(ad) çoğul çekimi: isolator
+ISOLEUCINE	(ad) izolösin: Proteinlerin yapısında bulunan 20 temel aminoasitlerden biri.
+ISOLEUCINES	(isoleucine sözcüğünün çekimi) (ad) izolösin: Proteinlerin yapısında bulunan 20 temel aminoasitlerden biri.
+ISOMER	(ad) isomer kelimesinin karşılığı: ⟪eşiz|EŞİZ⟫
+ISOMERASES	(ad) çoğul çekimi: isomerase
+ISOMERISM	(ad) isomerism kelimesinin karşılığı: eş-yapılılık
+ISOMERISMS	(isomerism sözcüğünün çekimi) (ad) isomerism kelimesinin karşılığı: eş-yapılılık
+ISOMERIZATIONS	(ad) çoğul çekimi: isomerization
+ISOMERS	(ad) çoğul çekimi: isomer
+ISOMETRICS	(ad) çoğul çekimi: isometric
+ISOMORPH	(ad) isomorph kelimesinin karşılığı: eş biçimbirim
+ISOMORPHISM	(ad) isomorphism kelimesinin karşılığı: eşbiçimcilik
+ISOMORPHISMS	(isomorphism sözcüğünün çekimi) (ad) isomorphism kelimesinin karşılığı: eşbiçimcilik
+ISOMORPHS	(isomorph sözcüğünün çekimi) (ad) isomorph kelimesinin karşılığı: eş biçimbirim
+ISOPLETH	(ad) isopleth kelimesinin karşılığı: eşsöylemli
+ISOPLETHS	(isopleth sözcüğünün çekimi) (ad) isopleth kelimesinin karşılığı: eşsöylemli
+ISOPOD	(ad) isopod kelimesinin karşılığı: tespih böceği
+ISOPODS	(ad) çoğul çekimi: isopod
+ISOTHERMAL	(ad) isothermal kelimesinin karşılığı: izotermal
+ISOTHERMALLY	(isothermal sözcüğünün çekimi) (ad) isothermal kelimesinin karşılığı: izotermal
+ISOTHERMS	(ad) çoğul çekimi: isotherm
+ISOTONIC	(ad) izotonik: Biri diğerine eşit basınç ya da tonisisiteye sahip olma.
+ISOTOPE	(ad) izotop: Yalnız atomlarının kitleleri yönünden birbirinden farklı olan (aynı kimyasal element)
+ISOTOPES	(ad) çoğul çekimi: isotope
+ISSUANCES	(ad) çoğul çekimi: issuance
+ISSUE	(ad) issue kelimesinin karşılığı: ⟪konu|KONU⟫, ⟪mesele|MESELE⟫\n(eylem) almak: Satın almak
+ISSUED	(issue sözcüğünün çekimi) (ad) issue kelimesinin karşılığı: ⟪konu|KONU⟫, ⟪mesele|MESELE⟫
+ISSUERS	(ad) çoğul çekimi: issuer
+ISSUES	(ad) issue sözcüğünün çoğul çekimi: konu, mesele.
+ISSUING	(issue sözcüğünün çekimi) (ad) issue kelimesinin karşılığı: ⟪konu|KONU⟫, ⟪mesele|MESELE⟫
+ISTHMI	(isthmus sözcüğünün çekimi) (ad) kıstak: yarımadayı karaya bağlayan, iki yanı su, dar kara parçası, berzah, dil (ayrıca: berzah, dil)
+ISTHMUS	(ad) kıstak: yarımadayı karaya bağlayan, iki yanı su, dar kara parçası, berzah, dil (ayrıca: berzah, dil)
+ISTHMUSES	(ad) çoğul çekimi: isthmus
+ITALIC	(ad) italic kelimesinin karşılığı: ⟪italik|İTALİK⟫, eğik yazı, yatık yazı\n(sıfat) italic kelimesinin karşılığı: italik olan
+ITALICS	(italic sözcüğünün çekimi) (ad) italic kelimesinin karşılığı: ⟪italik|İTALİK⟫, eğik yazı, yatık yazı
+ITCH	(ad) uyuz: uyuz böceğinin, üst derinin altına girerek yaptığı kaşındırmak, bulaşıcı bir deri hastalığı
+ITCHED	(eylem) itch sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: uyuz
+ITCHES	(ad) çoğul çekimi: itch
+ITCHIER	(itchy sözcüğünün çekimi) (sıfat) itchy kelimesinin karşılığı: ⟪kaşıntılı|KAŞINTILI⟫
+ITCHIEST	(itchy sözcüğünün çekimi) (sıfat) itchy kelimesinin karşılığı: ⟪kaşıntılı|KAŞINTILI⟫
+ITCHILY	(itchy sözcüğünün çekimi) (sıfat) itchy kelimesinin karşılığı: ⟪kaşıntılı|KAŞINTILI⟫
+ITCHING	(itch sözcüğünün çekimi) (ad) uyuz: uyuz böceğinin, üst derinin altına girerek yaptığı kaşındırmak, bulaşıcı bir deri hastalığı
+ITCHINGS	(itch sözcüğünün çekimi) (ad) uyuz: uyuz böceğinin, üst derinin altına girerek yaptığı kaşındırmak, bulaşıcı bir deri hastalığı
+ITCHY	(sıfat) itchy kelimesinin karşılığı: ⟪kaşıntılı|KAŞINTILI⟫
+ITEM	(ad) öge: bir bütünü oluşturan, bütünden ayrıştırıldığında da kendi başına anlam taşıyan parça, unsur, uzuv
+ITEMED	(item sözcüğünün çekimi) (ad) öge: bir bütünü oluşturan, bütünden ayrıştırıldığında da kendi başına anlam taşıyan parça, unsur, uzuv
+ITEMING	(item sözcüğünün çekimi) (ad) öge: bir bütünü oluşturan, bütünden ayrıştırıldığında da kendi başına anlam taşıyan parça, unsur, uzuv
+ITEMS	(ad) item sözcüğünün çoğul çekimi: öge\n(eylem) item sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: öge
+ITERATE	(eylem) yinelemek: tekrarlamak.
+ITERATED	(iterate sözcüğünün çekimi) (eylem) yinelemek: tekrarlamak.
+ITERATES	(ad) çoğul çekimi: iterate
+ITERATING	(iterate sözcüğünün çekimi) (eylem) yinelemek: tekrarlamak.
+ITERATION	(ad) tekrar: Aynı olayın, işin, hareketin yeniden ortaya çıkışı, tekrarlanması (ayrıca: yineleme, tekrarlama)
+ITERATIONS	(ad) çoğul çekimi: iteration
+ITINERANT	(sıfat) gezgin; durmadan oradan oraya seyahat eden; seyyar.
+ITINERANTS	(ad) çoğul çekimi: itinerant
+ITINERARIES	(itinerary sözcüğünün çekimi) (ad) güzergah: Yolüstü uğranılacak, geçilecek yer. (ayrıca: seyahat rotası, seyahat programı)
+ITINERARY	(ad) güzergah: Yolüstü uğranılacak, geçilecek yer. (ayrıca: seyahat rotası, seyahat programı)
+ITS	(zamir) onun, 3. tekil şahıs (insan ve hayvanlar haricindeki tüm varlıklar) için iyelik zamiri.
+ITSELF	(zamir) kendi: iyelik ekleri alarak kişilerin öz varlığını anlatmaya yarayan dönüşlülük zamiri, öz, zat (ayrıca: kendini, kendinden)
+IVIES	(ivy sözcüğünün çekimi) (ad) ivy kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+IVORIES	(ad) çoğul çekimi: ivory
+IVORY	(sıfat) ivory kelimesinin karşılığı: ⟪fildişi|FİLDİŞİ⟫\n(ad) ivory kelimesinin karşılığı: ⟪fildişi|FİLDİŞİ⟫
+IVY	(ad) ivy kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫

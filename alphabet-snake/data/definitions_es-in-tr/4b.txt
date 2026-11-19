@@ -1,0 +1,49 @@
+KABUKI	(ad) kabuki: Müzik ve dans eşliğinde oynanan geleneksel Japon tiyatrosu
+KAFTAN	(ad) kaftan: Çoğu ipekten yapılan, bir tür uzun, süslü üst giysisi
+KAISER	(ad) kayser: Roma, Bizans ve Alman imparatorlarına verilen unvan
+KAKI	(ad) haki: yeşile çalan toprak rengi, kirli sarıdan yeşilimsi kahverengiye kadar değişen renk türüdür. (ayrıca: trabzon hurması, japon hurması)
+KAMIKAZE	(ad) kamikaze kelimesinin karşılığı: ⟪kamikaze|KAMİKAZE⟫\n(sıfat) kamikaze kelimesinin karşılığı: ⟪kamikaze|KAMİKAZE⟫
+KAMIKAZES	(kamikaze sözcüğünün çekimi) (ad) kamikaze kelimesinin karşılığı: ⟪kamikaze|KAMİKAZE⟫
+KAN	(ad) han: doğu ülkelerinde kullanılan unvan (ayrıca: hakan)
+KANES	(kan sözcüğünün çekimi) (ad) han: doğu ülkelerinde kullanılan unvan (ayrıca: hakan)
+KARATE	(ad) karate: Ayak ve yumruk vuruşları üzerine kurulu, Japon kökenli bir dövüş yöntemi
+KART	(ad) el arabası: elle sürülen, taş, toprak v.s. nakletmeye yarayan, tek dinginli ve iki kollu, küçük araba
+KATAKANA	(ad) katakana: Japonca yabancı sözcük çeviri yazı
+KATIUSHA	(ad) katiusha kelimesinin karşılığı: katyuşa
+KATYUSHA	(ad) katyusha kelimesinin karşılığı: katyuşa
+KEBAB	(ad) kebap: doğrudan doğruya ateşte veya kap içinde susuz olarak pişirilmiş et ve kızartma, çevirme veya kavurma yoluyla hazırlanan her türlü yiyecek
+KEFIR	(ad) kefir: özel bir maya mantarıyla keçi veya inek sütünün mayalanmasıyla hazırlanan ekşi içecek
+KERMES	(ad) parti: siyasî parti kavramının kısa şekli (ayrıca: hizb, zümre)
+KETCHUP	(ad) ketçap: temel maddesi baharat katılmış domates olan İngiliz sosu
+KIBUTZ	(ad) kibutz: İsrail'de ortaklaşa kullanılan yerleşim bölgelerine verilen ad
+KILOBYTE	(ad) kilobayt: (kısaltma) kB ya da KB
+KILOBYTES	(kilobyte sözcüğünün çekimi) (ad) kilobayt: (kısaltma) kB ya da KB
+KILOGRAMO	(ad) kilogram: Bin gramlık bir ağırlık ölçü birimi, kilo
+KILOGRAMOS	(kilogramo sözcüğünün çekimi) (ad) kilogram: Bin gramlık bir ağırlık ölçü birimi, kilo
+KILOHERCIO	(ad) kilohertz: Bir saniyede 1000 titreşimi olan elektromanyetik dalga boyu ölçüsü birimi
+KILOHERCIOS	(kilohercio sözcüğünün çekimi) (ad) kilohertz: Bir saniyede 1000 titreşimi olan elektromanyetik dalga boyu ölçüsü birimi
+KILOMETRO	(ad) kilometre: 1000 metrelik uzunluk ölçü birimi (km)
+KILOMETROS	(kilometro sözcüğünün çekimi) (ad) kilometre: 1000 metrelik uzunluk ölçü birimi (km)
+KILOTON	(ad) kiloton kelimesinin karşılığı: TNT eşdeğeri
+KILOVATIO	(ad) kilovat: Değeri 1000 vat olan güç birimi
+KILOVATIOS	(kilovatio sözcüğünün çekimi) (ad) kilovat: Değeri 1000 vat olan güç birimi
+KION	(ad) kion kelimesinin karşılığı: ⟪zencefil|ZENCEFİL⟫
+KIOSCO	(ad) kiosco kelimesinin karşılığı: ⟪köşk|KÖŞK⟫
+KIOSCOS	(kiosco sözcüğünün çekimi) (ad) kiosco kelimesinin karşılığı: ⟪köşk|KÖŞK⟫
+KIT	(ad) ekipman: takım
+KIWI	(ad) kivi: Yeni Zelanda kökenli ve uçamayan bir kuş, (Apteryx australis)
+KLEENEX	(ad) doku: vücudun veya organın yapı unsurlarından birini oluşturan hücreler bütünü
+KNUT	(ad) knut kelimesinin karşılığı: knut
+KOALA	(ad) koala: Avustralya'ya özgü otobur ve ağaçta yaşayan bir keseli memeli hayvan türü
+KOALAS	(koala sözcüğünün çekimi) (ad) koala: Avustralya'ya özgü otobur ve ağaçta yaşayan bir keseli memeli hayvan türü
+KOLJOS	(ad) kolhoz: Rusya'da köylülerin ortak olarak çalıştıkları tarım işletmesi
+KOPEK	(ad) kapik: Rublenin yüzde biri değerindeki para (ayrıca: kopek, kopeyka)
+KOTAVA	(ad) kotava kelimesinin karşılığı: kotava
+KUCHEN	(ad) pasta: İçine katılmış türlü maddelerle özel bir tat verilmiş, fırında veya başka bir yolla pişirilerek hazırlanmış bir tür hamur tatlısı. (ayrıca: tart, kek)
+KUMMEL	(ad) kummel kelimesinin karşılığı: frenk kimyonu, karaman kimyonu
+KUMQUAT	(ad) kumquat kelimesinin karşılığı: ⟪kamkat|KAMKAT⟫
+KURDA	(kurdo sözcüğünün çekimi) (ad) kurdo kelimesinin karşılığı: kürtçe
+KURDAS	(kurdo sözcüğünün çekimi) (ad) kurdo kelimesinin karşılığı: kürtçe
+KURDO	(ad) kurdo kelimesinin karşılığı: kürtçe
+KURDOS	(kurdo sözcüğünün çekimi) (ad) kurdo kelimesinin karşılığı: kürtçe
+KVAS	(ad) kvas kelimesinin karşılığı: kvas

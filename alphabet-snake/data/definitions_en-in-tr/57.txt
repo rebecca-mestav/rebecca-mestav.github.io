@@ -1,0 +1,1258 @@
+WACKIER	(wacky sözcüğünün çekimi) (sıfat) wacky kelimesinin karşılığı: ⟪sapık|SAPIK⟫
+WACKIEST	(wacky sözcüğünün çekimi) (sıfat) wacky kelimesinin karşılığı: ⟪sapık|SAPIK⟫
+WACKOS	(ad) çoğul çekimi: wacko
+WACKY	(sıfat) wacky kelimesinin karşılığı: ⟪sapık|SAPIK⟫
+WADDIES	(ad) çoğul çekimi: waddy
+WADDLES	(ad) çoğul çekimi: waddle
+WADE	(eylem) su veya çamur içinden yürümek
+WADED	(wade sözcüğünün çekimi) (eylem) su veya çamur içinden yürümek
+WADERS	(ad) çoğul çekimi: wader
+WADES	(ad) çoğul çekimi: wade
+WADING	(wade sözcüğünün çekimi) (eylem) su veya çamur içinden yürümek
+WADS	(ad) çoğul çekimi: wad
+WADSETS	(ad) çoğul çekimi: wadset
+WAFFLES	(ad) çoğul çekimi: waffle
+WAFT	(eylem) waft kelimesinin karşılığı: ⟪esmek|ESMEK⟫, ⟪estirmek|ESTİRMEK⟫, havaya yayılmak, ⟪sürüklemek|SÜRÜKLEMEK⟫\n(ad) waft kelimesinin karşılığı: ⟪esinti|ESİNTİ⟫
+WAFTED	(waft sözcüğünün çekimi) (eylem) waft kelimesinin karşılığı: ⟪esmek|ESMEK⟫, ⟪estirmek|ESTİRMEK⟫, havaya yayılmak, ⟪sürüklemek|SÜRÜKLEMEK⟫
+WAFTERS	(ad) çoğul çekimi: wafter
+WAFTING	(waft sözcüğünün çekimi) (eylem) waft kelimesinin karşılığı: ⟪esmek|ESMEK⟫, ⟪estirmek|ESTİRMEK⟫, havaya yayılmak, ⟪sürüklemek|SÜRÜKLEMEK⟫
+WAFTS	(waft sözcüğünün çekimi) (eylem) waft kelimesinin karşılığı: ⟪esmek|ESMEK⟫, ⟪estirmek|ESTİRMEK⟫, havaya yayılmak, ⟪sürüklemek|SÜRÜKLEMEK⟫
+WAG	(eylem) sallanmak: bağlı bulunduğu yerde gevşek duruma gelip yerinden oynamak, kımıldamak (ayrıca: kuyruk sallamak)
+WAGE	(eylem) wage kelimesinin karşılığı: savaş açmak, savaş yürütmek\n(ad) ücret: iş gücünün karşılığı olan ve çalışanlara yaptıkları işin bedeli olarak ödenen para veya mal, emeğin bedeli (ayrıca: maaş)
+WAGED	(wage sözcüğünün çekimi) (eylem) wage kelimesinin karşılığı: savaş açmak, savaş yürütmek
+WAGER	(eylem) wager kelimesinin karşılığı: bahse girmek, şart bağlamak, bahis tutuşmak, para yatırmak
+WAGERED	(wager sözcüğünün çekimi) (eylem) wager kelimesinin karşılığı: bahse girmek, şart bağlamak, bahis tutuşmak, para yatırmak
+WAGERERS	(ad) çoğul çekimi: wagerer
+WAGERING	(wager sözcüğünün çekimi) (eylem) wager kelimesinin karşılığı: bahse girmek, şart bağlamak, bahis tutuşmak, para yatırmak
+WAGERS	(ad) çoğul çekimi: wager
+WAGES	(ad) çoğul çekimi: wage
+WAGGED	(wag sözcüğünün çekimi) (eylem) sallanmak: bağlı bulunduğu yerde gevşek duruma gelip yerinden oynamak, kımıldamak (ayrıca: kuyruk sallamak)
+WAGGER	(wag sözcüğünün çekimi) (eylem) sallanmak: bağlı bulunduğu yerde gevşek duruma gelip yerinden oynamak, kımıldamak (ayrıca: kuyruk sallamak)
+WAGGING	(wag sözcüğünün çekimi) (eylem) sallanmak: bağlı bulunduğu yerde gevşek duruma gelip yerinden oynamak, kımıldamak (ayrıca: kuyruk sallamak)
+WAGGLES	(ad) çoğul çekimi: waggle
+WAGGONERS	(ad) çoğul çekimi: waggoner
+WAGGONS	(ad) çoğul çekimi: waggon
+WAGING	(wage sözcüğünün çekimi) (eylem) wage kelimesinin karşılığı: savaş açmak, savaş yürütmek
+WAGON	(ad) eşya veya malzeme nakliyesi yapılan taşıt
+WAGONED	(wagon sözcüğünün çekimi) (ad) eşya veya malzeme nakliyesi yapılan taşıt
+WAGONERS	(ad) çoğul çekimi: wagoner
+WAGONING	(wagon sözcüğünün çekimi) (ad) eşya veya malzeme nakliyesi yapılan taşıt
+WAGONS	(wagon sözcüğünün çekimi) (ad) eşya veya malzeme nakliyesi yapılan taşıt
+WAGS	(ad) çoğul çekimi: wag
+WAIFS	(ad) çoğul çekimi: waif
+WAIL	(eylem) wail kelimesinin karşılığı: ⟪ağlamak|AĞLAMAK⟫, ⟪inlemek|İNLEMEK⟫, feryat etmek, çığlık atmak\n(ad) çığlık: acı acı veya ince ve keskin bağırma (ayrıca: inilti, ağlama)
+WAILED	(wail sözcüğünün çekimi) (eylem) wail kelimesinin karşılığı: ⟪ağlamak|AĞLAMAK⟫, ⟪inlemek|İNLEMEK⟫, feryat etmek, çığlık atmak
+WAILERS	(ad) çoğul çekimi: wailer
+WAILING	(wail sözcüğünün çekimi) (eylem) wail kelimesinin karşılığı: ⟪ağlamak|AĞLAMAK⟫, ⟪inlemek|İNLEMEK⟫, feryat etmek, çığlık atmak
+WAILS	(ad) çoğul çekimi: wail
+WAINS	(ad) çoğul çekimi: wain
+WAINSCOTS	(ad) çoğul çekimi: wainscot
+WAIST	(ad) bel: İnsan bedeninde göğüsle karın, sırtla kalçalar arasında daralmış bölüm:
+WAISTBANDS	(ad) çoğul çekimi: waistband
+WAISTCOATS	(ad) çoğul çekimi: waistcoat
+WAISTED	(waist sözcüğünün çekimi) (ad) bel: İnsan bedeninde göğüsle karın, sırtla kalçalar arasında daralmış bölüm:
+WAISTING	(waist sözcüğünün çekimi) (ad) bel: İnsan bedeninde göğüsle karın, sırtla kalçalar arasında daralmış bölüm:
+WAISTLINES	(ad) çoğul çekimi: waistline
+WAISTS	(ad) çoğul çekimi: waist
+WAIT	(ad) beklemek: Bir kimsenin gelmesini veya bir işin olmasını gözler vaziyette olmak.
+WAITED	(eylem) wait sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: beklemek
+WAITER	(ad) garson: Servis masası hazırlama, müşterileri karşılama, yiyecek ve içecek siparişi alma ve servis yapma, alma bilgi ve becerisine sahip nitelikli kişi.
+WAITERS	(ad) waiters kelimesinin karşılığı: ⟪garsonlar|GARSONLAR⟫
+WAITING	(ad) waiting kelimesinin karşılığı: ⟪bekleme|BEKLEME⟫\n(sıfat) ihtiyatlı: herhangi bir konuda ileriyi düşünerek ölçülü davranan, önlem alan, sakıngan, ihtiyatkâr
+WAITINGS	(wait sözcüğünün çekimi) (ad) beklemek: Bir kimsenin gelmesini veya bir işin olmasını gözler vaziyette olmak.
+WAITRESS	(ad) waitress kelimesinin karşılığı: kadın garson
+WAITRESSED	(waitress sözcüğünün çekimi) (ad) waitress kelimesinin karşılığı: kadın garson
+WAITRESSES	(ad) waitress sözcüğünün çoğul çekimi: Kadın garson
+WAITRESSING	(waitress sözcüğünün çekimi) (ad) waitress kelimesinin karşılığı: kadın garson
+WAITS	(ad) wait sözcüğünün çoğul çekimi: beklemek\n(eylem) wait sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: beklemek
+WAIVE	(eylem) vazgeçmek: -den niyetten veya karardan dönmek, caymak (ayrıca: feragat etmek)
+WAIVED	(eylem) waive sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: vazgeçmek; feragat etmek
+WAIVER	(eylem) waiver kelimesinin karşılığı: feragatname, hakkından vazgeçme, ⟪muafiyet|MUAFİYET⟫
+WAIVERS	(ad) çoğul çekimi: waiver
+WAIVES	(ad) çoğul çekimi: waive
+WAIVING	(waive sözcüğünün çekimi) (eylem) vazgeçmek: -den niyetten veya karardan dönmek, caymak (ayrıca: feragat etmek)
+WAKE	(eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek
+WAKED	(wake sözcüğünün çekimi) (eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek
+WAKES	(ad) çoğul çekimi: wake
+WAKING	(wake sözcüğünün çekimi) (eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek
+WALES	(ad) çoğul çekimi: wale
+WALK	(eylem) yürümek: bir yere gelmek, bir yere ulaşmak, kaplamak
+WALKABOUTS	(ad) çoğul çekimi: walkabout
+WALKAWAYS	(ad) çoğul çekimi: walkaway
+WALKED	(eylem) walk sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yürümek
+WALKERS	(ad) çoğul çekimi: walker
+WALKING	(ad) yürüme: yürümek işi
+WALKINGS	(walk sözcüğünün çekimi) (eylem) yürümek: bir yere gelmek, bir yere ulaşmak, kaplamak
+WALKOUTS	(ad) çoğul çekimi: walkout
+WALKS	(ad) çoğul çekimi: walk
+WALKWAYS	(ad) çoğul çekimi: walkway
+WALL	(ad) duvar: Bir yapının yanlarını dışa karşı koruyan, iç bölümlerini birbirinden ayıran, taş, tuğla vb. gereçlerden yapılan veya örülen dikey düzlem, örek cidar.
+WALLABIES	(ad) çoğul çekimi: wallaby
+WALLAROOS	(ad) çoğul çekimi: wallaroo
+WALLBOARDS	(ad) çoğul çekimi: wallboard
+WALLED	(wall sözcüğünün çekimi) (ad) duvar: Bir yapının yanlarını dışa karşı koruyan, iç bölümlerini birbirinden ayıran, taş, tuğla vb. gereçlerden...
+WALLETS	(ad) wallet sözcüğünün çoğul çekimi
+WALLFLOWERS	(ad) çoğul çekimi: wallflower
+WALLIES	(ad) çoğul çekimi: wally
+WALLING	(wall sözcüğünün çekimi) (ad) duvar: Bir yapının yanlarını dışa karşı koruyan, iç bölümlerini birbirinden ayıran, taş, tuğla vb. gereçlerden...
+WALLOPERS	(ad) çoğul çekimi: walloper
+WALLOPS	(ad) çoğul çekimi: wallop
+WALLOW	(eylem) debelenmek: Çırpınmak, tepinmek, kımıldanmak (ayrıca: çamurda yuvarlanmak)
+WALLOWED	(wallow sözcüğünün çekimi) (eylem) debelenmek: Çırpınmak, tepinmek, kımıldanmak (ayrıca: çamurda yuvarlanmak)
+WALLOWING	(wallow sözcüğünün çekimi) (eylem) debelenmek: Çırpınmak, tepinmek, kımıldanmak (ayrıca: çamurda yuvarlanmak)
+WALLOWS	(ad) çoğul çekimi: wallow
+WALLPAPERS	(ad) çoğul çekimi: wallpaper
+WALLS	(ad) wall sözcüğünün çoğul çekimi: duvar
+WALNUT	(ad) walnut kelimesinin karşılığı: adi ceviz
+WALNUTS	(ad) çoğul çekimi: walnut
+WALRUS	(ad) walrus kelimesinin karşılığı: deniz aygırı, ⟪mors|MORS⟫
+WALRUSES	(walrus sözcüğünün çekimi) (ad) walrus kelimesinin karşılığı: deniz aygırı, ⟪mors|MORS⟫
+WALTZERS	(ad) çoğul çekimi: waltzer
+WALTZES	(ad) çoğul çekimi: waltz
+WAND	(ad) wand kelimesinin karşılığı: ⟪değnek|DEĞNEK⟫, ⟪asa|ASA⟫, ⟪çubuk|ÇUBUK⟫, ⟪dayak|DAYAK⟫
+WANDER	(eylem) dolaşmak: bir yeri belli bir amaçla gezmek
+WANDERED	(wander sözcüğünün çekimi) (eylem) dolaşmak: bir yeri belli bir amaçla gezmek
+WANDERERS	(ad) çoğul çekimi: wanderer
+WANDERING	(eylem) wander sözcüğünün şimdiki zaman ortaç ve gerund çekimi: dolaşmak
+WANDERINGS	(ad) çoğul çekimi: wandering
+WANDERLUST	(ad) wanderlust kelimesinin karşılığı: seyahat tutkusu, yolculuk tutkusu
+WANDERLUSTS	(wanderlust sözcüğünün çekimi) (ad) wanderlust kelimesinin karşılığı: seyahat tutkusu, yolculuk tutkusu
+WANDERS	(ad) çoğul çekimi: wander
+WANDS	(ad) çoğul çekimi: wand
+WANE	(eylem) azalmak: az denecek bir miktara inmek, daralmak (ayrıca: küçülmek, batmak)
+WANED	(wane sözcüğünün çekimi) (eylem) azalmak: az denecek bir miktara inmek, daralmak (ayrıca: küçülmek, batmak)
+WANES	(ad) çoğul çekimi: wane
+WANGLERS	(ad) çoğul çekimi: wangler
+WANGLES	(ad) çoğul çekimi: wangle
+WANING	(wane sözcüğünün çekimi) (eylem) azalmak: az denecek bir miktara inmek, daralmak (ayrıca: küçülmek, batmak)
+WANT	(ad) want kelimesinin karşılığı: ⟪arzu|ARZU⟫, ⟪istek|İSTEK⟫\n(eylem) bir şeyi istemek, arzulamak
+WANTED	(sıfat) wanted kelimesinin karşılığı: aranan, arzulanan, istenen
+WANTING	(ad) isteme: istemek işi (ayrıca: arzulama)
+WANTON	(zarf) wanton kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+WANTONED	(wanton sözcüğünün çekimi) (zarf) wanton kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+WANTONER	(wanton sözcüğünün çekimi) (zarf) wanton kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+WANTONING	(wanton sözcüğünün çekimi) (zarf) wanton kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+WANTONNESS	(ad) wantonness kelimesinin karşılığı: ⟪fâsıklık|FASIKLIK⟫
+WANTONNESSES	(wantonness sözcüğünün çekimi) (ad) wantonness kelimesinin karşılığı: ⟪fâsıklık|FASIKLIK⟫
+WANTONS	(ad) çoğul çekimi: wanton
+WANTS	(ad) want sözcüğünün çoğul çekimi: arzu, istek
+WAPENTAKES	(ad) çoğul çekimi: wapentake
+WAR	(ad) harp: savaş (ayrıca: savaş)
+WARBLE	(eylem) şakımak: (ötücü kuşlar için), Ezgili ses çıkarmak, ötmek, şakramak, terennüm etmek (ayrıca: ötmek)
+WARBLED	(warble sözcüğünün çekimi) (eylem) şakımak: (ötücü kuşlar için), Ezgili ses çıkarmak, ötmek, şakramak, terennüm etmek (ayrıca: ötmek)
+WARBLERS	(ad) çoğul çekimi: warbler
+WARBLES	(ad) çoğul çekimi: warble
+WARBLING	(warble sözcüğünün çekimi) (eylem) şakımak: (ötücü kuşlar için), Ezgili ses çıkarmak, ötmek, şakramak, terennüm etmek (ayrıca: ötmek)
+WARD	(ad) ward kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, ⟪semt|SEMT⟫, ⟪bölge|BÖLGE⟫, vasi edinilen
+WARDED	(ward sözcüğünün çekimi) (ad) ward kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, ⟪semt|SEMT⟫, ⟪bölge|BÖLGE⟫, vasi edinilen
+WARDEN	(ad) gardiyan: cezaevlerinde düzeni, tutukluların kanunlara uygun biçimde davranmalarını sağlamakla görevli kişi
+WARDENS	(ad) çoğul çekimi: warden
+WARDERS	(ad) çoğul çekimi: warder
+WARDING	(ward sözcüğünün çekimi) (ad) ward kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, ⟪semt|SEMT⟫, ⟪bölge|BÖLGE⟫, vasi edinilen
+WARDROBE	(ad) wardrobe kelimesinin karşılığı: ⟪gardırop|GARDIROP⟫
+WARDROBES	(ad) çoğul çekimi: wardrobe
+WARDROOMS	(ad) çoğul çekimi: wardroom
+WARDS	(ad) çoğul çekimi: ward
+WAREHOUSE	(ad) antrepo: gümrüklere gelen ticari eşyanın konulduğu, korunduğu yer
+WAREHOUSED	(warehouse sözcüğünün çekimi) (ad) antrepo: gümrüklere gelen ticari eşyanın konulduğu, korunduğu yer
+WAREHOUSEMEN	(ad) çoğul çekimi: warehouseman
+WAREHOUSES	(ad) çoğul çekimi: warehouse
+WAREHOUSING	(warehouse sözcüğünün çekimi) (ad) antrepo: gümrüklere gelen ticari eşyanın konulduğu, korunduğu yer
+WARES	(ad) çoğul çekimi: ware
+WARFARE	(ad) cenk: savaş (ayrıca: harp, savaş)
+WARFARES	(warfare sözcüğünün çekimi) (ad) cenk: savaş (ayrıca: harp, savaş)
+WARHEADS	(ad) çoğul çekimi: warhead
+WARHORSES	(ad) çoğul çekimi: warhorse
+WARIER	(wary sözcüğünün çekimi) (sıfat) ihtiyatlı: herhangi bir konuda ileriyi düşünerek ölçülü davranan, önlem alan, sakıngan, ihtiyatkâr (ayrıca:...
+WARIEST	(wary sözcüğünün çekimi) (sıfat) ihtiyatlı: herhangi bir konuda ileriyi düşünerek ölçülü davranan, önlem alan, sakıngan, ihtiyatkâr (ayrıca:...
+WARLOCKS	(ad) çoğul çekimi: warlock
+WARLORDS	(ad) çoğul çekimi: warlord
+WARM	(sıfat) sıcacık: yeter derecede ve hoşa giden bir sıcaklığı olan
+WARMED	(warm sözcüğünün çekimi) (sıfat) sıcacık: yeter derecede ve hoşa giden bir sıcaklığı olan
+WARMER	(warm sözcüğünün çekimi) (sıfat) sıcacık: yeter derecede ve hoşa giden bir sıcaklığı olan
+WARMERS	(warm sözcüğünün çekimi) (sıfat) sıcacık: yeter derecede ve hoşa giden bir sıcaklığı olan
+WARMEST	(warm sözcüğünün çekimi) (sıfat) sıcacık: yeter derecede ve hoşa giden bir sıcaklığı olan
+WARMING	(ad) teshin: ısıtma (ayrıca: ısıtma)
+WARMLY	(zarf) arkadaşça: arkadaş olarak
+WARMNESS	(ad) sıcaklık: sevgi, içtenlik ve sevimlilik
+WARMNESSES	(warmness sözcüğünün çekimi) (ad) sıcaklık: sevgi, içtenlik ve sevimlilik
+WARMONGERS	(ad) çoğul çekimi: warmonger
+WARMS	(ad) çoğul çekimi: warm
+WARMTH	(ad) sıcaklık: sıcak olan şeyin durumu, etkisi veya sıcak olan in niteliği, hararet
+WARMTHS	(ad) warmth sözcüğünün çoğul çekimi: sıcaklık
+WARN	(eylem) warn kelimesinin karşılığı: ⟪uyarmak|UYARMAK⟫
+WARNED	(warn sözcüğünün çekimi) (eylem) warn kelimesinin karşılığı: ⟪uyarmak|UYARMAK⟫
+WARNERS	(ad) çoğul çekimi: warner
+WARNING	(ad) ikaz: ihtar, uyarı (ayrıca: uyarı)\n(eylem) to warn fiilinin geçmiş zaman kipi
+WARNINGS	(ad) warning sözcüğünün çoğul çekimi: ikaz, uyarı
+WARNS	(warn sözcüğünün çekimi) (eylem) warn kelimesinin karşılığı: ⟪uyarmak|UYARMAK⟫
+WARP	(ad) warp kelimesinin karşılığı: ⟪çözgü|ÇÖZGÜ⟫, ⟪arış|ARIŞ⟫
+WARPATHS	(ad) çoğul çekimi: warpath
+WARPED	(warp sözcüğünün çekimi) (ad) warp kelimesinin karşılığı: ⟪çözgü|ÇÖZGÜ⟫, ⟪arış|ARIŞ⟫
+WARPING	(warp sözcüğünün çekimi) (ad) warp kelimesinin karşılığı: ⟪çözgü|ÇÖZGÜ⟫, ⟪arış|ARIŞ⟫
+WARPS	(warp sözcüğünün çekimi) (ad) warp kelimesinin karşılığı: ⟪çözgü|ÇÖZGÜ⟫, ⟪arış|ARIŞ⟫
+WARRANT	(ad) warrant kelimesinin karşılığı: ⟪varan|VARAN⟫
+WARRANTED	(warrant sözcüğünün çekimi) (ad) warrant kelimesinin karşılığı: ⟪varan|VARAN⟫
+WARRANTIES	(ad) çoğul çekimi: warranty
+WARRANTING	(warrant sözcüğünün çekimi) (ad) warrant kelimesinin karşılığı: ⟪varan|VARAN⟫
+WARRANTS	(ad) çoğul çekimi: warrant
+WARRANTY	(ad) warranty kelimesinin karşılığı: ⟪güvence|GÜVENCE⟫
+WARRED	(war sözcüğünün çekimi) (ad) harp: savaş (ayrıca: savaş)
+WARRENS	(ad) çoğul çekimi: warren
+WARRING	(war sözcüğünün çekimi) (ad) harp: savaş (ayrıca: savaş)
+WARRIOR	(ad) savaşçı: savaşa katılan kişi, muharip
+WARRIORS	(ad) çoğul çekimi: warrior
+WARS	(ad) war sözcüğünün çoğul çekimi: harp, savaş\n(eylem) war sözcüğünün tekil üçüncü şahıs çekimi: harp, savaş
+WARSHIP	(ad) warship kelimesinin karşılığı: savaş gemisi, harp gemisi
+WARSHIPS	(ad) çoğul çekimi: warship
+WART	(ad) siğil: deride, özellikle ellerde oluşan zararsız, pürtüklü küçük ur.
+WARTHOG	(ad) warthog kelimesinin karşılığı: düğmeli domuz
+WARTHOGS	(ad) çoğul çekimi: warthog
+WARTS	(ad) çoğul çekimi: wart
+WARY	(sıfat) ihtiyatlı: herhangi bir konuda ileriyi düşünerek ölçülü davranan, önlem alan, sakıngan, ihtiyatkâr (ayrıca: temkinli, dikkatli)
+WASABI	(ad) wasabi kelimesinin karşılığı: ⟪vasabi|VASABİ⟫
+WASABIS	(wasabi sözcüğünün çekimi) (ad) wasabi kelimesinin karşılığı: ⟪vasabi|VASABİ⟫
+WASH	(eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+WASHBASIN	(ad) lavabo: Üzerinde su muslukları bulunan, porselen, emaye, sac vb.nden yapılmış, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya.
+WASHBASINS	(ad) çoğul çekimi: washbasin
+WASHBOARDS	(ad) çoğul çekimi: washboard
+WASHBOWLS	(ad) çoğul çekimi: washbowl
+WASHCLOTHS	(ad) çoğul çekimi: washcloth
+WASHED	(wash sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+WASHERS	(ad) çoğul çekimi: washer
+WASHERWOMEN	(ad) çoğul çekimi: washerwoman
+WASHES	(ad) çoğul çekimi: wash
+WASHHOUSES	(ad) çoğul çekimi: washhouse
+WASHING	(eylem) wash sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yıkamak.
+WASHINGS	(wash sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+WASHOUTS	(ad) çoğul çekimi: washout
+WASHRAGS	(ad) çoğul çekimi: washrag
+WASHROOMS	(ad) çoğul çekimi: washroom
+WASHSTANDS	(ad) çoğul çekimi: washstand
+WASHTUBS	(ad) çoğul çekimi: washtub
+WASP	(ad) yaban arısı: zar kanatlılar yaban arısıgiller familyasından, arıya benzeyen, iğneli böcek
+WASPS	(ad) wasp sözcüğünün çoğul çekimi: yaban arısı
+WASSAILS	(ad) çoğul çekimi: wassail
+WASTE	(ad) atık: atılmış, atılan\n(eylem) waste kelimesinin karşılığı: boşa harcamak
+WASTEBASKETS	(ad) çoğul çekimi: wastebasket
+WASTED	(eylem) waste sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: atık
+WASTEFUL	(sıfat) wasteful kelimesinin karşılığı: ⟪batakçı|BATAKÇI⟫
+WASTERS	(ad) çoğul çekimi: waster
+WASTES	(ad) waste sözcüğünün çoğul çekimi: atık\n(eylem) waste sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: atık
+WASTEWATER	(ad) wastewater kelimesinin karşılığı: atık su
+WASTEWATERS	(ad) çoğul çekimi: wastewater
+WASTING	(waste sözcüğünün çekimi) (ad) atık: atılmış, atılan
+WASTRELS	(ad) çoğul çekimi: wastrel
+WATCH	(eylem) izlemek: Gözlemek, incelemek. (ayrıca: bakmak)
+WATCHBANDS	(ad) çoğul çekimi: watchband
+WATCHDOGS	(ad) çoğul çekimi: watchdog
+WATCHED	(watch sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: bakmak)
+WATCHERS	(ad) çoğul çekimi: watcher
+WATCHES	(ad) watch sözcüğünün çoğul çekimi: izlemek, bakmak
+WATCHING	(eylem) watch sözcüğünün şimdiki zaman ortaç ve gerund çekimi: izlemek, bakmak
+WATCHMAKERS	(ad) çoğul çekimi: watchmaker
+WATCHTOWERS	(ad) çoğul çekimi: watchtower
+WATCHWORD	(ad) watchword kelimesinin karşılığı: ⟪slogan|SLOGAN⟫, ⟪ilke|İLKE⟫
+WATCHWORDS	(ad) çoğul çekimi: watchword
+WATER	(ad) water kelimesinin karşılığı: su\n(eylem) water kelimesinin karşılığı: su vermek
+WATERBIRDS	(ad) çoğul çekimi: waterbird
+WATERCOLOR	(ad) watercolor kelimesinin karşılığı: sulu boya\n(sıfat) (ABD) sulu boya ile ilgili
+WATERCOLORS	(ad) çoğul çekimi: watercolor\n(eylem) watercolor sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: sulu boya
+WATERCOURSE	(ad) watercourse kelimesinin karşılığı: ⟪akarsu|AKARSU⟫
+WATERCOURSES	(ad) çoğul çekimi: watercourse
+WATERCRAFTS	(ad) çoğul çekimi: watercraft
+WATERCRESS	(ad) watercress kelimesinin karşılığı: su teresi
+WATERCRESSES	(watercress sözcüğünün çekimi) (ad) watercress kelimesinin karşılığı: su teresi
+WATERED	(eylem) water sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: su
+WATERFALL	(ad) waterfall kelimesinin karşılığı: ⟪şelâle|ŞELALE⟫, ⟪çağlayan|ÇAĞLAYAN⟫, ⟪çavlan|ÇAVLAN⟫
+WATERFALLS	(ad) waterfall sözcüğünün çoğul çekimi: şelâle, çağlayan, çavlan
+WATERFRONTS	(ad) çoğul çekimi: waterfront
+WATERIER	(watery sözcüğünün çekimi) (ad) watery kelimesinin karşılığı: ⟪sulu|SULU⟫
+WATERIEST	(watery sözcüğünün çekimi) (ad) watery kelimesinin karşılığı: ⟪sulu|SULU⟫
+WATERILY	(watery sözcüğünün çekimi) (ad) watery kelimesinin karşılığı: ⟪sulu|SULU⟫
+WATERING	(eylem) water sözcüğünün şimdiki zaman ortaç ve gerund çekimi: su
+WATERINGS	(water sözcüğünün çekimi) (ad) water kelimesinin karşılığı: su
+WATERMARK	(ad) watermark kelimesinin karşılığı: ⟪filigran|FİLİGRAN⟫
+WATERMARKED	(watermark sözcüğünün çekimi) (ad) watermark kelimesinin karşılığı: ⟪filigran|FİLİGRAN⟫
+WATERMARKING	(watermark sözcüğünün çekimi) (ad) watermark kelimesinin karşılığı: ⟪filigran|FİLİGRAN⟫
+WATERMARKS	(ad) watermark sözcüğünün çoğul çekimi: filigran
+WATERMELON	(ad) watermelon kelimesinin karşılığı: ⟪karpuz|KARPUZ⟫
+WATERMELONS	(ad) çoğul çekimi: watermelon
+WATERS	(water sözcüğünün çekimi) (ad) water kelimesinin karşılığı: su
+WATERSHED	(ad) watershed kelimesinin karşılığı: su bölümü çizgisi
+WATERSHEDS	(ad) çoğul çekimi: watershed
+WATERSIDES	(ad) çoğul çekimi: waterside
+WATERSPOUTS	(ad) çoğul çekimi: waterspout
+WATERWAY	(ad) waterway kelimesinin karşılığı: su yolu
+WATERWAYS	(ad) çoğul çekimi: waterway
+WATERWORKS	(ad) çoğul çekimi: waterwork
+WATERY	(ad) watery kelimesinin karşılığı: ⟪sulu|SULU⟫
+WATTLES	(ad) çoğul çekimi: wattle
+WATTMETERS	(ad) çoğul çekimi: wattmeter
+WAVE	(ad) dalga: Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı hareket.
+WAVEBAND	(ad) waveband kelimesinin karşılığı: dalga bandı
+WAVEBANDS	(ad) çoğul çekimi: waveband
+WAVED	(wave sözcüğünün çekimi) (ad) dalga: Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı...
+WAVEFORM	(ad) waveform kelimesinin karşılığı: dalga biçimi, dalga formu, dalga şekli
+WAVEFORMS	(ad) çoğul çekimi: waveform
+WAVEGUIDES	(ad) çoğul çekimi: waveguide
+WAVELENGTH	(ad) wavelength kelimesinin karşılığı: dalga boyu
+WAVELENGTHS	(ad) wavelength sözcüğünün çoğul çekimi: dalga boyu
+WAVELESS	(sıfat) dalgasız: dalgası olmayan
+WAVELESSLY	(waveless sözcüğünün çekimi) (sıfat) dalgasız: dalgası olmayan
+WAVELET	(ad) dalgacık: küçük dalga
+WAVELETS	(ad) çoğul çekimi: wavelet
+WAVERERS	(ad) çoğul çekimi: waverer
+WAVERS	(ad) çoğul çekimi: waver
+WAVES	(ad) wave sözcüğünün çoğul çekimi: dalga
+WAVIER	(wavy sözcüğünün çekimi) (sıfat) dalgalı: Kıvrım kıvrım saç.
+WAVIES	(wavy sözcüğünün çekimi) (sıfat) dalgalı: Kıvrım kıvrım saç.
+WAVIEST	(wavy sözcüğünün çekimi) (sıfat) dalgalı: Kıvrım kıvrım saç.
+WAVILY	(wavy sözcüğünün çekimi) (sıfat) dalgalı: Kıvrım kıvrım saç.
+WAVING	(wave sözcüğünün çekimi) (ad) dalga: Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı...
+WAVY	(sıfat) dalgalı: Kıvrım kıvrım saç.
+WAWS	(ad) çoğul çekimi: waw
+WAX	(ad) wax kelimesinin karşılığı: ⟪vaks|VAKS⟫
+WAXBILLS	(ad) çoğul çekimi: waxbill
+WAXED	(wax sözcüğünün çekimi) (ad) wax kelimesinin karşılığı: ⟪vaks|VAKS⟫
+WAXER	(wax sözcüğünün çekimi) (ad) wax kelimesinin karşılığı: ⟪vaks|VAKS⟫
+WAXES	(ad) çoğul çekimi: wax
+WAXING	(ad) waxing kelimesinin karşılığı: ⟪ağda|AĞDA⟫
+WAXINGS	(wax sözcüğünün çekimi) (ad) wax kelimesinin karşılığı: ⟪vaks|VAKS⟫
+WAXWINGS	(ad) çoğul çekimi: waxwing
+WAXWORKS	(ad) çoğul çekimi: waxwork
+WAY	(ad) yol: Davranış, tutum, gidiş veya davranış biçimi. (ayrıca: yöntem, metod)\n(zarf) bir şeyden uzak, uzakta
+WAYBILLS	(ad) çoğul çekimi: waybill
+WAYFARERS	(ad) çoğul çekimi: wayfarer
+WAYLAYERS	(ad) çoğul çekimi: waylayer
+WAYS	(ad) way sözcüğünün çoğul çekimi: yol, yöntem, metod
+WAYSIDES	(ad) çoğul çekimi: wayside
+WEAK	(sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: güçsüz, ince)
+WEAKEN	(eylem) zayıflamak: zayıf hâle gelmek (ayrıca: zayıf düşmek)
+WEAKENED	(eylem) weaken sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: zayıflamak, zayıf düşmek
+WEAKENERS	(ad) çoğul çekimi: weakener
+WEAKENING	(ad) zayıflama: zayıflamak işi
+WEAKENS	(weaken sözcüğünün çekimi) (eylem) zayıflamak: zayıf hâle gelmek (ayrıca: zayıf düşmek)
+WEAKER	(weak sözcüğünün çekimi) (sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: güçsüz, ince)
+WEAKEST	(weak sözcüğünün çekimi) (sıfat) zayıf: (mecaz) kişilik ve ruhî yönden gereği kadar güçlü olmayan (ayrıca: güçsüz, ince)
+WEAKLINGS	(ad) çoğul çekimi: weakling
+WEAKNESS	(ad) güçsüzlük: güçsüz olma durumu, güçsüze yakışacak davranış, kuvvetsizlik, aciz, âcizlik, iktidarsızlık (ayrıca: kuvvetsizlik, aciz)
+WEAKNESSES	(ad) weakness sözcüğünün çoğul çekimi: güçsüzlük, kuvvetsizlik, aciz, iktidarsızlık, zayıflık
+WEALS	(ad) çoğul çekimi: weal
+WEALTH	(ad) varlıklılık: varlıklı olma durumu
+WEALTHIER	(wealthy sözcüğünün çekimi) (sıfat) varsıl: parası, malı çok olan, zengin, yoksul karşıtı (ayrıca: abat, bayındır)
+WEALTHIEST	(wealthy sözcüğünün çekimi) (sıfat) varsıl: parası, malı çok olan, zengin, yoksul karşıtı (ayrıca: abat, bayındır)
+WEALTHS	(wealth sözcüğünün çekimi) (ad) varlıklılık: varlıklı olma durumu
+WEALTHY	(sıfat) varsıl: parası, malı çok olan, zengin, yoksul karşıtı (ayrıca: abat, bayındır)
+WEAN	(eylem) wean kelimesinin karşılığı: sütten kesmek, memeden kesmek
+WEANED	(wean sözcüğünün çekimi) (eylem) wean kelimesinin karşılığı: sütten kesmek, memeden kesmek
+WEANER	(wean sözcüğünün çekimi) (eylem) wean kelimesinin karşılığı: sütten kesmek, memeden kesmek
+WEANING	(wean sözcüğünün çekimi) (eylem) wean kelimesinin karşılığı: sütten kesmek, memeden kesmek
+WEANLINGS	(ad) çoğul çekimi: weanling
+WEANS	(ad) çoğul çekimi: wean
+WEAPON	(ad) silah: (mecaz) Savunmak veya saldırmak için kullanılan nesne, etken araç. (ayrıca: pusat)
+WEAPONING	(weapon sözcüğünün çekimi) (ad) silah: (mecaz) Savunmak veya saldırmak için kullanılan nesne, etken araç. (ayrıca: pusat)
+WEAPONRIES	(weaponry sözcüğünün çekimi) (ad) weaponry kelimesinin karşılığı: ⟪silah|SİLAH⟫, ⟪yarak|YARAK⟫
+WEAPONRY	(ad) weaponry kelimesinin karşılığı: ⟪silah|SİLAH⟫, ⟪yarak|YARAK⟫
+WEAPONS	(ad) weapon sözcüğünün çoğul çekimi: pusat, silah
+WEAR	(eylem) giymek: Örtünüp korunmak için bir şeyi vücuduna geçirmek; giyinmek, kuşanmak.
+WEARERS	(ad) çoğul çekimi: wearer
+WEARIED	(weary sözcüğünün çekimi) (sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+WEARIER	(weary sözcüğünün çekimi) (sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+WEARIES	(weary sözcüğünün çekimi) (sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+WEARIEST	(weary sözcüğünün çekimi) (sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+WEARINESS	(ad) yorgunluk: çalışma vb. sebeplerle bireyin ruh ve beden etkinlikleri açısından verimlilik düzeyinin azalması, bitaplık
+WEARINESSES	(weariness sözcüğünün çekimi) (ad) yorgunluk: çalışma vb. sebeplerle bireyin ruh ve beden etkinlikleri açısından verimlilik düzeyinin azalması,...
+WEARING	(eylem) wear sözcüğünün şimdiki zaman ortaç ve gerund çekimi: giymek
+WEARINGLY	(wear sözcüğünün çekimi) (eylem) giymek: Örtünüp korunmak için bir şeyi vücuduna geçirmek; giyinmek, kuşanmak.
+WEARS	(eylem) wear sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: giymek\n(ad) çoğul çekimi: wear
+WEARY	(sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+WEARYING	(weary sözcüğünün çekimi) (sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan
+WEASANDS	(ad) çoğul çekimi: weasand
+WEASEL	(ad) weasel kelimesinin karşılığı: ⟪gelincik|GELİNCİK⟫
+WEASELED	(weasel sözcüğünün çekimi) (ad) weasel kelimesinin karşılığı: ⟪gelincik|GELİNCİK⟫
+WEASELING	(weasel sözcüğünün çekimi) (ad) weasel kelimesinin karşılığı: ⟪gelincik|GELİNCİK⟫
+WEASELLED	(weasel sözcüğünün çekimi) (ad) weasel kelimesinin karşılığı: ⟪gelincik|GELİNCİK⟫
+WEASELLING	(weasel sözcüğünün çekimi) (ad) weasel kelimesinin karşılığı: ⟪gelincik|GELİNCİK⟫
+WEASELLY	(weasel sözcüğünün çekimi) (ad) weasel kelimesinin karşılığı: ⟪gelincik|GELİNCİK⟫
+WEASELS	(ad) çoğul çekimi: weasel
+WEATHER	(ad) hava: durum, ortam, çevre, muhit, atmosfer, ambiyans
+WEATHERCOCK	(ad) horoz şeklinde rüzgar gülü
+WEATHERCOCKS	(ad) çoğul çekimi: weathercock
+WEATHERED	(weather sözcüğünün çekimi) (ad) hava: durum, ortam, çevre, muhit, atmosfer, ambiyans
+WEATHERING	(weather sözcüğünün çekimi) (ad) hava: durum, ortam, çevre, muhit, atmosfer, ambiyans
+WEATHERINGS	(weather sözcüğünün çekimi) (ad) hava: durum, ortam, çevre, muhit, atmosfer, ambiyans
+WEATHERS	(ad) çoğul çekimi: weather
+WEAVE	(ad) weave kelimesinin karşılığı: ⟪örgü|ÖRGÜ⟫\n(eylem) örmek: iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak (ayrıca: dokumak)
+WEAVED	(weave sözcüğünün çekimi) (ad) weave kelimesinin karşılığı: ⟪örgü|ÖRGÜ⟫
+WEAVER	(ad) dokumacı: Kumaş dokuyan veya dokuma ticareti yapan kimse; dokuyucu. (ayrıca: çulha)
+WEAVERS	(ad) çoğul çekimi: weaver
+WEAVES	(ad) çoğul çekimi: weave
+WEAVING	(ad) dokuma: tekstil
+WEB	(ad) web kelimesinin karşılığı: ağ
+WEBBED	(web sözcüğünün çekimi) (ad) web kelimesinin karşılığı: ağ
+WEBBING	(web sözcüğünün çekimi) (ad) web kelimesinin karşılığı: ağ
+WEBBINGS	(web sözcüğünün çekimi) (ad) web kelimesinin karşılığı: ağ
+WEBS	(ad) web sözcüğünün çoğul çekimi: ağ\n(eylem) web sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ağ
+WEDDING	(ad) düğün: evlenme veya sünnet dolayısıyla yapılan tören, eğlence, cemiyet\n(eylem) wed sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+WEDDINGS	(ad) wedding sözcüğünün çoğul çekimi: düğün
+WEDGE	(eylem) wedge kelimesinin karşılığı: ⟪sıkıştırmak|SIKIŞTIRMAK⟫\n(ad) wedge kelimesinin karşılığı: ⟪takoz|TAKOZ⟫, ⟪kama|KAMA⟫
+WEDGED	(sıfat) wedged kelimesinin karşılığı: sıkışmış
+WEDGES	(wedge sözcüğünün çekimi) (eylem) wedge kelimesinin karşılığı: ⟪sıkıştırmak|SIKIŞTIRMAK⟫
+WEDGING	(wedge sözcüğünün çekimi) (eylem) wedge kelimesinin karşılığı: ⟪sıkıştırmak|SIKIŞTIRMAK⟫
+WEE	(eylem) wee kelimesinin karşılığı: çiş yapmak\n(sıfat) küçük: Yaşı daha az olan
+WEED	(ad) weed kelimesinin karşılığı: yabani ot, zararlı ot
+WEEDED	(weed sözcüğünün çekimi) (ad) weed kelimesinin karşılığı: yabani ot, zararlı ot
+WEEDERS	(ad) çoğul çekimi: weeder
+WEEDING	(weed sözcüğünün çekimi) (ad) weed kelimesinin karşılığı: yabani ot, zararlı ot
+WEEDS	(ad) çoğul çekimi: weed
+WEEK	(ad) hafta: Birbiri ardınca gelen yedi günlük dönem.
+WEEKDAY	(ad) weekday kelimesinin karşılığı: hafta içi
+WEEKDAYS	(weekday sözcüğünün çekimi) (ad) weekday kelimesinin karşılığı: hafta içi
+WEEKEND	(ad) weekend kelimesinin karşılığı: hafta sonu
+WEEKENDED	(weekend sözcüğünün çekimi) (ad) weekend kelimesinin karşılığı: hafta sonu
+WEEKENDERS	(ad) çoğul çekimi: weekender
+WEEKENDING	(weekend sözcüğünün çekimi) (ad) weekend kelimesinin karşılığı: hafta sonu
+WEEKENDS	(weekend sözcüğünün çekimi) (ad) weekend kelimesinin karşılığı: hafta sonu
+WEEKLIES	(ad) çoğul çekimi: weekly
+WEEKLONG	(sıfat) haftalık: herhangi bir hafta süren
+WEEKLY	(sıfat) haftalık: haftada bir kez yayımlanan
+WEEKS	(ad) week sözcüğünün çoğul çekimi: hafta
+WEENIE	(ad) weenie kelimesinin karşılığı: sosisli sandviç, hot dog
+WEENIES	(ad) çoğul çekimi: weenie
+WEEP	(eylem) ağlamak, göz yaşı dökmek
+WEEPERS	(ad) çoğul çekimi: weeper
+WEEPIER	(weepy sözcüğünün çekimi) (sıfat) ağlamalı: hemen hemen ağlamaklı
+WEEPIEST	(weepy sözcüğünün çekimi) (sıfat) ağlamalı: hemen hemen ağlamaklı
+WEEPING	(ad) weeping kelimesinin karşılığı: ⟪ağlama|AĞLAMA⟫\n(sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı (ayrıca: ağlak, ağlamsı)
+WEEPINGS	(weep sözcüğünün çekimi) (eylem) ağlamak, göz yaşı dökmek
+WEEPS	(weep sözcüğünün çekimi) (eylem) ağlamak, göz yaşı dökmek
+WEEPY	(sıfat) ağlamalı: hemen hemen ağlamaklı
+WEER	(wee sözcüğünün çekimi) (eylem) wee kelimesinin karşılığı: çiş yapmak
+WEES	(wee sözcüğünün çekimi) (eylem) wee kelimesinin karşılığı: çiş yapmak
+WEEST	(wee sözcüğünün çekimi) (eylem) wee kelimesinin karşılığı: çiş yapmak
+WEEVILS	(ad) çoğul çekimi: weevil
+WEFT	(ad) atkı: Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü. (ayrıca: argaç)
+WEFTS	(weft sözcüğünün çekimi) (ad) atkı: Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü. (ayrıca: argaç)
+WEIGELAS	(ad) çoğul çekimi: weigela
+WEIGH	(eylem) tartmak: bir şeyin birim cinsten ağırlığını bulmak
+WEIGHED	(weigh sözcüğünün çekimi) (eylem) tartmak: bir şeyin birim cinsten ağırlığını bulmak
+WEIGHING	(ad) weighing kelimesinin karşılığı: tartım
+WEIGHS	(weigh sözcüğünün çekimi) (eylem) tartmak: bir şeyin birim cinsten ağırlığını bulmak
+WEIGHT	(ad) ağırlık: Yer çekiminin, bir cismin molekülleri üzerindeki etkisinin oluşturduğu bileşke; gravite.
+WEIGHTED	(eylem) weight sözcüğünün basit geçmiş zaman çekimi: ağırlık\n(sıfat) ağırlıklı: ağırlığı olan
+WEIGHTER	(weight sözcüğünün çekimi) (ad) ağırlık: Yer çekiminin, bir cismin molekülleri üzerindeki etkisinin oluşturduğu bileşke; gravite.
+WEIGHTING	(ad) weighting kelimesinin karşılığı: ağırlıklandırma
+WEIGHTLESSNESS	(ad) weightlessness kelimesinin karşılığı: ⟪ağırlıksızlık|AĞIRLIKSIZLIK⟫
+WEIGHTLESSNESSES	(weightlessness sözcüğünün çekimi) (ad) weightlessness kelimesinin karşılığı: ⟪ağırlıksızlık|AĞIRLIKSIZLIK⟫
+WEIGHTS	(ad) çoğul çekimi: weight
+WEIRD	(ad) weird kelimesinin karşılığı: ⟪tuhaf|TUHAF⟫
+WEIRDER	(weird sözcüğünün çekimi) (ad) weird kelimesinin karşılığı: ⟪tuhaf|TUHAF⟫
+WEIRDEST	(weird sözcüğünün çekimi) (ad) weird kelimesinin karşılığı: ⟪tuhaf|TUHAF⟫
+WEIRDOS	(ad) çoğul çekimi: weirdo
+WEIRDS	(ad) çoğul çekimi: weird
+WEIRS	(ad) çoğul çekimi: weir
+WELCHERS	(ad) çoğul çekimi: welcher
+WELCOME	(ünlem) hoş geldiniz: hoş geldiniz (ayrıca: hoş geldin)
+WELCOMED	(eylem) welcome sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hoş geldin, hoş geldiniz
+WELCOMER	(welcome sözcüğünün çekimi) (ünlem) hoş geldiniz: hoş geldiniz (ayrıca: hoş geldin)
+WELCOMERS	(welcome sözcüğünün çekimi) (ünlem) hoş geldiniz: hoş geldiniz (ayrıca: hoş geldin)
+WELCOMES	(ad) çoğul çekimi: welcome
+WELCOMING	(welcome sözcüğünün çekimi) (ünlem) hoş geldiniz: hoş geldiniz (ayrıca: hoş geldin)
+WELD	(eylem) weld kelimesinin karşılığı: kaynak yapmak, ⟪lehimlemek|LEHİMLEMEK⟫
+WELDED	(weld sözcüğünün çekimi) (eylem) weld kelimesinin karşılığı: kaynak yapmak, ⟪lehimlemek|LEHİMLEMEK⟫
+WELDER	(ad) welder kelimesinin karşılığı: ⟪kaynakçı|KAYNAKÇI⟫, kaynak makinesi
+WELDERS	(ad) çoğul çekimi: welder
+WELDING	(weld sözcüğünün çekimi) (eylem) weld kelimesinin karşılığı: kaynak yapmak, ⟪lehimlemek|LEHİMLEMEK⟫
+WELDS	(ad) çoğul çekimi: weld
+WELFARE	(ad) yardım: Bir ülkeye veya birine bağış veya ödünç olarak verilen para ve ihtiyaç maddeleri; destek. (ayrıca: afiyet, sosyal yardım)
+WELFARES	(welfare sözcüğünün çekimi) (ad) yardım: Bir ülkeye veya birine bağış veya ödünç olarak verilen para ve ihtiyaç maddeleri; destek. (ayrıca: afiyet,...
+WELL	(ad) su kaynağı, petrol veya gaz kaynağı\n(zarf) well kelimesinin karşılığı: büyük ihtimalle
+WELLED	(well sözcüğünün çekimi) (ad) su kaynağı, petrol veya gaz kaynağı
+WELLHEADS	(ad) çoğul çekimi: wellhead
+WELLING	(well sözcüğünün çekimi) (ad) su kaynağı, petrol veya gaz kaynağı
+WELLS	(ad) çoğul çekimi: well
+WELLSPRINGS	(ad) çoğul çekimi: wellspring
+WELSHERS	(ad) çoğul çekimi: welsher
+WELT	(ad) ciltte meydana gelen kızarıklık; kırmızı kabarıklık; şişkinlik
+WELTANSCHAUUNGS	(ad) çoğul çekimi: weltanschauung
+WELTED	(welt sözcüğünün çekimi) (ad) ciltte meydana gelen kızarıklık; kırmızı kabarıklık; şişkinlik
+WELTER	(eylem) yuvarlanmak: Yere devrilmek; düşmek (ayrıca: içinde debelenmek, içine bulanmak)
+WELTERED	(welter sözcüğünün çekimi) (eylem) yuvarlanmak: Yere devrilmek; düşmek (ayrıca: içinde debelenmek, içine bulanmak)
+WELTERING	(welter sözcüğünün çekimi) (eylem) yuvarlanmak: Yere devrilmek; düşmek (ayrıca: içinde debelenmek, içine bulanmak)
+WELTERS	(welter sözcüğünün çekimi) (eylem) yuvarlanmak: Yere devrilmek; düşmek (ayrıca: içinde debelenmek, içine bulanmak)
+WELTERWEIGHTS	(ad) çoğul çekimi: welterweight
+WELTING	(welt sözcüğünün çekimi) (ad) ciltte meydana gelen kızarıklık; kırmızı kabarıklık; şişkinlik
+WELTS	(ad) çoğul çekimi: welt
+WELTSCHMERZ	(ad) Zihinsel depresyon, kötümserlik veya umutsuzluk.
+WELTSCHMERZES	(weltschmerz sözcüğünün çekimi) (ad) Zihinsel depresyon, kötümserlik veya umutsuzluk.
+WENCHERS	(ad) çoğul çekimi: wencher
+WENCHES	(ad) çoğul çekimi: wench
+WENS	(ad) çoğul çekimi: wen
+WENT	(eylem) go fiilinin basit geçmiş zaman kipi.
+WEPT	(weep sözcüğünün çekimi) (eylem) ağlamak, göz yaşı dökmek
+WEREGILDS	(ad) çoğul çekimi: weregild
+WEREWOLF	(ad) werewolf kelimesinin karşılığı: kurt adam
+WEREWOLVES	(werewolf sözcüğünün çekimi) (ad) werewolf kelimesinin karşılığı: kurt adam
+WEST	(ad) dört ana yönden biri, batı, garp
+WESTER	(west sözcüğünün çekimi) (ad) dört ana yönden biri, batı, garp
+WESTERN	(sıfat) western kelimesinin karşılığı: ⟪batı|BATI⟫, batısal
+WESTERNER	(western sözcüğünün çekimi) (sıfat) western kelimesinin karşılığı: ⟪batı|BATI⟫, batısal
+WESTERNERS	(ad) çoğul çekimi: westerner
+WESTERNS	(western sözcüğünün çekimi) (sıfat) western kelimesinin karşılığı: ⟪batı|BATI⟫, batısal
+WESTERS	(ad) çoğul çekimi: wester
+WESTS	(west sözcüğünün çekimi) (ad) dört ana yönden biri, batı, garp
+WET	(sıfat) ıslak: suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan
+WETHERS	(ad) çoğul çekimi: wether
+WETLANDS	(ad) çoğul çekimi: wetland
+WETLY	(wet sözcüğünün çekimi) (sıfat) ıslak: suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan
+WETNESS	(ad) ıslaklık: ıslak olma durumu
+WETNESSES	(wetness sözcüğünün çekimi) (ad) ıslaklık: ıslak olma durumu
+WETS	(ad) çoğul çekimi: wet
+WETTED	(wet sözcüğünün çekimi) (sıfat) ıslak: suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan
+WETTER	(sıfat) wet sözcüğünün karşılaştırma derecesi çekimi: ıslak
+WETTERS	(wet sözcüğünün çekimi) (sıfat) ıslak: suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan
+WETTEST	(sıfat) wet sözcüğünün üstünlük derecesi çekimi: ıslak
+WETTING	(wet sözcüğünün çekimi) (sıfat) ıslak: suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan
+WETTINGS	(wet sözcüğünün çekimi) (sıfat) ıslak: suya batırılmış, üzerine su dökülmüş veya yağmurdan ıslanmış olan
+WHACKERS	(ad) çoğul çekimi: whacker
+WHACKS	(ad) çoğul çekimi: whack
+WHALE	(ad) whale kelimesinin karşılığı: ⟪balina|BALİNA⟫
+WHALEBOATS	(ad) çoğul çekimi: whaleboat
+WHALED	(whale sözcüğünün çekimi) (ad) whale kelimesinin karşılığı: ⟪balina|BALİNA⟫
+WHALERS	(ad) çoğul çekimi: whaler
+WHALES	(ad) whale sözcüğünün çoğul çekimi: Balina\n(eylem) whale sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: Balina
+WHALING	(whale sözcüğünün çekimi) (ad) whale kelimesinin karşılığı: ⟪balina|BALİNA⟫
+WHALINGS	(whale sözcüğünün çekimi) (ad) whale kelimesinin karşılığı: ⟪balina|BALİNA⟫
+WHAMS	(ad) çoğul çekimi: wham
+WHARF	(ad) iskele: Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer. (ayrıca: rıhtım)
+WHARFED	(wharf sözcüğünün çekimi) (ad) iskele: Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer. (ayrıca: rıhtım)
+WHARFING	(wharf sözcüğünün çekimi) (ad) iskele: Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer. (ayrıca: rıhtım)
+WHARFINGERS	(ad) çoğul çekimi: wharfinger
+WHARFS	(wharf sözcüğünün çekimi) (ad) iskele: Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer. (ayrıca: rıhtım)
+WHARVES	(wharf sözcüğünün çekimi) (ad) iskele: Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer. (ayrıca: rıhtım)
+WHAT	(zamir) ne: anlaşılmayan bir sözü tekrarlatmak veya karşısındakinin ne düşündüğünü sormak için söylenir\n(zarf) what kelimesinin karşılığı: -den dolayı
+WHATCHAMACALLITS	(ad) çoğul çekimi: whatchamacallit
+WHATEVER	(sıfat) herhangi: belli olmayan, özellikleri iyice bilinmeyen, rastgele
+WHATNOTS	(ad) çoğul çekimi: whatnot
+WHATS	(ad) çoğul çekimi: what
+WHEAT	(ad) buğday: Buğdaygillerden, karasal iklimin olduğu bölgelerde yetişen, un yapımında kullanılan tanelerini taşıyan kılçıklı çiçekleri olan, tek yıllık otsu bitki, (Triticum)
+WHEATEAR	(ad) wheatear kelimesinin karşılığı: ⟪kuyrukkakan|KUYRUKKAKAN⟫
+WHEATEARS	(wheatear sözcüğünün çekimi) (ad) wheatear kelimesinin karşılığı: ⟪kuyrukkakan|KUYRUKKAKAN⟫
+WHEATS	(ad) çoğul çekimi: wheat
+WHEEDLE	(eylem) tatlı dille ikna etmek; kandırmak
+WHEEDLED	(wheedle sözcüğünün çekimi) (eylem) tatlı dille ikna etmek; kandırmak
+WHEEDLES	(wheedle sözcüğünün çekimi) (eylem) tatlı dille ikna etmek; kandırmak
+WHEEDLING	(wheedle sözcüğünün çekimi) (eylem) tatlı dille ikna etmek; kandırmak
+WHEEL	(ad) wheel kelimesinin karşılığı: ⟪tekerlek|TEKERLEK⟫
+WHEELBARROWS	(ad) çoğul çekimi: wheelbarrow
+WHEELBASES	(ad) çoğul çekimi: wheelbase
+WHEELCHAIR	(ad) wheelchair kelimesinin karşılığı: tekerlekli sandalye
+WHEELCHAIRS	(ad) çoğul çekimi: wheelchair
+WHEELED	(sıfat) wheeled kelimesinin karşılığı: ⟪tekerlekli|TEKERLEKLİ⟫
+WHEELERS	(ad) çoğul çekimi: wheeler
+WHEELHOUSES	(ad) çoğul çekimi: wheelhouse
+WHEELIES	(ad) çoğul çekimi: wheelie
+WHEELING	(wheel sözcüğünün çekimi) (ad) wheel kelimesinin karşılığı: ⟪tekerlek|TEKERLEK⟫
+WHEELINGS	(wheel sözcüğünün çekimi) (ad) wheel kelimesinin karşılığı: ⟪tekerlek|TEKERLEK⟫
+WHEELS	(ad) wheel sözcüğünün çoğul çekimi: tekerlek
+WHEELWRIGHTS	(ad) çoğul çekimi: wheelwright
+WHEEZES	(ad) çoğul çekimi: wheeze
+WHELKS	(ad) çoğul çekimi: whelk
+WHELP	(ad) yavru: Hayvanın yaş olarak küçüğü, yeni doğmuş hayvan
+WHELPED	(whelp sözcüğünün çekimi) (ad) yavru: Hayvanın yaş olarak küçüğü, yeni doğmuş hayvan
+WHELPING	(whelp sözcüğünün çekimi) (ad) yavru: Hayvanın yaş olarak küçüğü, yeni doğmuş hayvan
+WHELPS	(ad) çoğul çekimi: whelp
+WHEN	(zarf) ne zaman: hangi zaman
+WHENEVER	(zarf) her ne zaman: ne zaman olursa olsun
+WHENS	(when sözcüğünün çekimi) (zarf) ne zaman: hangi zaman
+WHENSOEVER	(eylem) ise: imek ek eyleminin koşul kipini gösteren -se ekinin bağımsız kelimi biçimi
+WHERE	(zarf) nerede: hangi yerde, hangi yönde
+WHEREAS	(bağlaç) oysa: Aralarında aykırılık, karşıtlık bulunan iki cümleyi "tersine olarak, -diği hâlde" anlamlarıyla birbirine bağlar
+WHEREASES	(whereas sözcüğünün çekimi) (bağlaç) oysa: Aralarında aykırılık, karşıtlık bulunan iki cümleyi "tersine olarak, -diği hâlde" anlamlarıyla birbirine...
+WHEREFORE	(zarf) neden: bir olayı doğuran başka bir olayı sormak için kullanılan söz
+WHEREFORES	(wherefore sözcüğünün çekimi) (zarf) neden: bir olayı doğuran başka bir olayı sormak için kullanılan söz
+WHEREUPON	(zarf) üstünde: Hakkında, dair, üstüne.
+WHETSTONE	(ad) whetstone kelimesinin karşılığı: bileği taşı
+WHETSTONES	(ad) çoğul çekimi: whetstone
+WHICH	(zamir) hangi: iki veya daha çok şeyden bir tanesini belirtecek bir cevap istemek için kullanılan soru sıfatı
+WHICKERS	(ad) çoğul çekimi: whicker
+WHIFF	(ad) whiff kelimesinin karşılığı: ⟪koku|KOKU⟫
+WHIFFED	(whiff sözcüğünün çekimi) (ad) whiff kelimesinin karşılığı: ⟪koku|KOKU⟫
+WHIFFING	(whiff sözcüğünün çekimi) (ad) whiff kelimesinin karşılığı: ⟪koku|KOKU⟫
+WHIFFLETREES	(ad) çoğul çekimi: whiffletree
+WHIFFS	(ad) çoğul çekimi: whiff
+WHILE	(bağlaç) while kelimesinin karşılığı: aynı esnada, -ken\n(ad) while kelimesinin karşılığı: bir süre
+WHILED	(while sözcüğünün çekimi) (bağlaç) while kelimesinin karşılığı: aynı esnada, -ken
+WHILES	(ad) çoğul çekimi: while
+WHILING	(while sözcüğünün çekimi) (bağlaç) while kelimesinin karşılığı: aynı esnada, -ken
+WHIM	(ad) kapris: Değişken, geçici, düşüncesizce ve huysuzca istek ya davranış (ayrıca: geçici heves)
+WHIMBREL	(ad) whimbrel kelimesinin karşılığı: sürmeli kervan çulluğu
+WHIMBRELS	(whimbrel sözcüğünün çekimi) (ad) whimbrel kelimesinin karşılığı: sürmeli kervan çulluğu
+WHIMPERS	(ad) çoğul çekimi: whimper
+WHIMS	(ad) çoğul çekimi: whim
+WHIMSIES	(ad) çoğul çekimi: whimsy
+WHINCHAT	(ad) whinchat kelimesinin karşılığı: çayır taşçalanı
+WHINCHATS	(ad) çoğul çekimi: whinchat
+WHINE	(eylem) mızmızlanmak; yakınmak; sızlanmak; halinden şikayet etmek
+WHINED	(whine sözcüğünün çekimi) (eylem) mızmızlanmak; yakınmak; sızlanmak; halinden şikayet etmek
+WHINERS	(ad) çoğul çekimi: whiner
+WHINES	(ad) çoğul çekimi: whine
+WHINGES	(ad) çoğul çekimi: whinge
+WHINING	(whine sözcüğünün çekimi) (eylem) mızmızlanmak; yakınmak; sızlanmak; halinden şikayet etmek
+WHIP	(ad) whip kelimesinin karşılığı: ⟪kamçı|KAMÇI⟫\n(eylem) whip kelimesinin karşılığı: ⟪kamçılamak|KAMÇILAMAK⟫
+WHIPCORDS	(ad) çoğul çekimi: whipcord
+WHIPLASHES	(ad) çoğul çekimi: whiplash
+WHIPPED	(whip sözcüğünün çekimi) (ad) whip kelimesinin karşılığı: ⟪kamçı|KAMÇI⟫
+WHIPPERS	(ad) çoğul çekimi: whipper
+WHIPPERSNAPPERS	(ad) çoğul çekimi: whippersnapper
+WHIPPETS	(ad) çoğul çekimi: whippet
+WHIPPING	(whip sözcüğünün çekimi) (ad) whip kelimesinin karşılığı: ⟪kamçı|KAMÇI⟫
+WHIPPINGS	(ad) çoğul çekimi: whipping
+WHIPPLETREES	(ad) çoğul çekimi: whippletree
+WHIPS	(ad) çoğul çekimi: whip
+WHIPSAWS	(ad) çoğul çekimi: whipsaw
+WHIRLIGIGS	(ad) çoğul çekimi: whirligig
+WHIRLPOOL	(ad) whirlpool kelimesinin karşılığı: girdap, ⟪eğrim|EĞRİM⟫, ⟪çevri|ÇEVRİ⟫, ⟪anafor|ANAFOR⟫
+WHIRLPOOLS	(ad) çoğul çekimi: whirlpool
+WHIRLWINDS	(ad) çoğul çekimi: whirlwind
+WHIRLYBIRD	(ad) whirlybird kelimesinin karşılığı: ⟪helikopter|HELİKOPTER⟫
+WHIRLYBIRDS	(whirlybird sözcüğünün çekimi) (ad) whirlybird kelimesinin karşılığı: ⟪helikopter|HELİKOPTER⟫
+WHIRRS	(ad) çoğul çekimi: whirr
+WHISHES	(ad) çoğul çekimi: whish
+WHISKERS	(ad) çoğul çekimi: whisker
+WHISKEY	(ad) viski: Tahıllar malt yapılarak şekerlendirildikten ve gereği kadar mayalandıktan sonra damıtılarak elde edilen alkollü içki
+WHISKEYS	(whiskey sözcüğünün çekimi) (ad) viski: Tahıllar malt yapılarak şekerlendirildikten ve gereği kadar mayalandıktan sonra damıtılarak elde edilen...
+WHISKIES	(whisky sözcüğünün çekimi) (ad) viski: Tahıllar malt yapılarak şekerlendirildikten ve gereği kadar mayalandıktan sonra damıtılarak elde edilen...
+WHISKS	(ad) çoğul çekimi: whisk
+WHISKY	(ad) viski: Tahıllar malt yapılarak şekerlendirildikten ve gereği kadar mayalandıktan sonra damıtılarak elde edilen alkollü içki
+WHISPER	(ad) whisper kelimesinin karşılığı: ⟪fısıltı|FISILTI⟫\n(eylem) fısıldamak: başkalarının duyamayacağı şekilde birbirinin kulağına bir şey söylemek.
+WHISPERED	(whisper sözcüğünün çekimi) (ad) whisper kelimesinin karşılığı: ⟪fısıltı|FISILTI⟫
+WHISPERERS	(ad) çoğul çekimi: whisperer
+WHISPERING	(whisper sözcüğünün çekimi) (ad) whisper kelimesinin karşılığı: ⟪fısıltı|FISILTI⟫
+WHISPERINGS	(ad) çoğul çekimi: whispering
+WHISPERS	(ad) whisper sözcüğünün çoğul çekimi: fısıltı
+WHISTLE	(ad) ıslık: dudakların büzülerek veya parmağın dil üzerine getirilmesiyle çıkarılan ince ve tiz ses\n(eylem) whistle kelimesinin karşılığı: ıslık çalmak
+WHISTLEBLOWERS	(ad) çoğul çekimi: whistleblower
+WHISTLED	(whistle sözcüğünün çekimi) (ad) ıslık: dudakların büzülerek veya parmağın dil üzerine getirilmesiyle çıkarılan ince ve tiz ses
+WHISTLERS	(ad) çoğul çekimi: whistler
+WHISTLES	(ad) whistle sözcüğünün çoğul çekimi: ıslık\n(eylem) whistle sözcüğünün s fiil çekimi çekimi: ıslık
+WHISTLING	(whistle sözcüğünün çekimi) (ad) ıslık: dudakların büzülerek veya parmağın dil üzerine getirilmesiyle çıkarılan ince ve tiz ses
+WHISTLINGS	(whistle sözcüğünün çekimi) (ad) ıslık: dudakların büzülerek veya parmağın dil üzerine getirilmesiyle çıkarılan ince ve tiz ses
+WHISTS	(ad) çoğul çekimi: whist
+WHITE	(ad) white kelimesinin karşılığı: ak, ⟪beyaz|BEYAZ⟫\n(sıfat) white kelimesinin karşılığı: ak, ⟪beyaz|BEYAZ⟫
+WHITECAPS	(ad) çoğul çekimi: whitecap
+WHITED	(white sözcüğünün çekimi) (ad) white kelimesinin karşılığı: ak, ⟪beyaz|BEYAZ⟫
+WHITEHEADS	(ad) çoğul çekimi: whitehead
+WHITENED	(eylem) whiten sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+WHITENERS	(ad) çoğul çekimi: whitener
+WHITENESS	(ad) whiteness kelimesinin karşılığı: ⟪aklık|AKLIK⟫
+WHITENESSES	(whiteness sözcüğünün çekimi) (ad) whiteness kelimesinin karşılığı: ⟪aklık|AKLIK⟫
+WHITENING	(ad) whitening kelimesinin karşılığı: ⟪ağartma|AĞARTMA⟫
+WHITENINGS	(ad) çoğul çekimi: whitening
+WHITEOUTS	(ad) çoğul çekimi: whiteout
+WHITER	(white sözcüğünün çekimi) (ad) white kelimesinin karşılığı: ak, ⟪beyaz|BEYAZ⟫
+WHITES	(ad) çoğul çekimi: white
+WHITEST	(white sözcüğünün çekimi) (ad) white kelimesinin karşılığı: ak, ⟪beyaz|BEYAZ⟫
+WHITETAILS	(ad) çoğul çekimi: whitetail
+WHITETHROAT	(ad) whitethroat kelimesinin karşılığı: ⟪ötleğen|ÖTLEĞEN⟫
+WHITETHROATS	(whitethroat sözcüğünün çekimi) (ad) whitethroat kelimesinin karşılığı: ⟪ötleğen|ÖTLEĞEN⟫
+WHITEWALLS	(ad) çoğul çekimi: whitewall
+WHITEWASHER	(ad) whitewasher kelimesinin karşılığı: ⟪badanacı|BADANACI⟫
+WHITEWASHERS	(whitewasher sözcüğünün çekimi) (ad) whitewasher kelimesinin karşılığı: ⟪badanacı|BADANACI⟫
+WHITEWOODS	(ad) çoğul çekimi: whitewood
+WHITHER	(zarf) whither kelimesinin karşılığı: ⟪nereye|NEREYE⟫
+WHITING	(ad) bakalyaro: gadidae familyasından, orta boylu, yumuşak vücutlu bir balık türü
+WHITINGS	(white sözcüğünün çekimi) (ad) white kelimesinin karşılığı: ak, ⟪beyaz|BEYAZ⟫
+WHITISH	(sıfat) whitish kelimesinin karşılığı: ⟪akça|AKÇA⟫, ⟪beyazımsı|BEYAZIMSI⟫
+WHITS	(ad) çoğul çekimi: whit
+WHITTLE	(ad) tahta parçasına bıçakla şekil vermek; yontmak
+WHITTLED	(whittle sözcüğünün çekimi) (ad) tahta parçasına bıçakla şekil vermek; yontmak
+WHITTLERS	(ad) çoğul çekimi: whittler
+WHITTLES	(whittle sözcüğünün çekimi) (ad) tahta parçasına bıçakla şekil vermek; yontmak
+WHITTLING	(whittle sözcüğünün çekimi) (ad) tahta parçasına bıçakla şekil vermek; yontmak
+WHO	(zamir) who kelimesinin karşılığı: ⟪kim|KİM⟫
+WHODUNITS	(ad) çoğul çekimi: whodunit
+WHOLE	(ad) whole kelimesinin karşılığı: ⟪bütün|BÜTÜN⟫, ⟪eksiksizlik|EKSİKSİZLİK⟫, ⟪tamlık|TAMLIK⟫, ⟪kül|KÜL⟫\n(sıfat) hepsi: bütünü, tamamı, tümü, cümlesi (ayrıca: tamamı)
+WHOLEHEARTEDLY	(zarf) wholeheartedly kelimesinin karşılığı: ⟪candan|CANDAN⟫, ⟪cansiparane|CANSİPARANE⟫
+WHOLES	(ad) çoğul çekimi: whole
+WHOLESALE	(ad) wholesale kelimesinin karşılığı: toptan satış
+WHOLESALED	(wholesale sözcüğünün çekimi) (ad) wholesale kelimesinin karşılığı: toptan satış
+WHOLESALER	(ad) toptancı: Toptan satış yapan tüccar.
+WHOLESALERS	(ad) çoğul çekimi: wholesaler
+WHOLESALES	(ad) çoğul çekimi: wholesale
+WHOLESALING	(wholesale sözcüğünün çekimi) (ad) wholesale kelimesinin karşılığı: toptan satış
+WHOLESOME	(sıfat) sağlıklı: sağlık durumu iyi olan, sağlam, esen, sıhhatli (ayrıca: yararlı)
+WHOM	(zamir) whom kelimesinin karşılığı: ⟪kim|KİM⟫, ⟪kimi|KİMİ⟫, ⟪kime|KİME⟫, ⟪kimde|KİMDE⟫
+WHOOPERS	(ad) çoğul çekimi: whooper
+WHOOPS	(ad) çoğul çekimi: whoop
+WHOPPERS	(ad) çoğul çekimi: whopper
+WHOPPING	(sıfat) whopping kelimesinin karşılığı: çok büyük, ⟪devasa|DEVASA⟫, ⟪kocaman|KOCAMAN⟫
+WHOREMASTERS	(ad) çoğul çekimi: whoremaster
+WHORESONS	(ad) çoğul çekimi: whoreson
+WHORL	(ad) ağırşak: Yün veya iplik eğrilen iği ağırlaştırmak için alt ucuna geçirilen yarım küre biçiminde, ortası delik ağaç veya kemik parça.
+WHORLS	(ad) çoğul çekimi: whorl
+WHORTLEBERRIES	(ad) çoğul çekimi: whortleberry
+WHORTLEBERRY	(ad) whortleberry kelimesinin karşılığı: yaban mersini
+WHOSE	(zamir) whose kelimesinin karşılığı: ⟪kimin|KİMİN⟫
+WHY	(zarf) niçin: hangi amaçla, hangi sebeple (ayrıca: neden)
+WHYS	(ad) çoğul çekimi: why
+WICKED	(sıfat) wicked kelimesinin karşılığı: iyi kalpli
+WICKEDER	(wicked sözcüğünün çekimi) (sıfat) wicked kelimesinin karşılığı: iyi kalpli
+WICKEDEST	(wicked sözcüğünün çekimi) (sıfat) wicked kelimesinin karşılığı: iyi kalpli
+WICKEDNESSES	(ad) çoğul çekimi: wickedness
+WICKERS	(ad) çoğul çekimi: wicker
+WICKETS	(ad) çoğul çekimi: wicket
+WICKIUPS	(ad) çoğul çekimi: wickiup
+WICKS	(ad) çoğul çekimi: wick
+WIDE	(ad) enli: geniş (ayrıca: geniş, vâsi)
+WIDER	(wide sözcüğünün çekimi) (ad) enli: geniş (ayrıca: geniş, vâsi)
+WIDES	(ad) çoğul çekimi: wide
+WIDESPREAD	(sıfat) yaygın: çoğu kişilerce duyulmuş, öğrenilmiş, kullanılmış veya benimsenmiş olan
+WIDEST	(wide sözcüğünün çekimi) (ad) enli: geniş (ayrıca: geniş, vâsi)
+WIDGEONS	(ad) çoğul çekimi: widgeon
+WIDGET	(ad) widget kelimesinin karşılığı: aygıtçık
+WIDGETS	(ad) çoğul çekimi: widget
+WIDOW	(ad) widow kelimesinin karşılığı: dul kadın
+WIDOWED	(widow sözcüğünün çekimi) (ad) widow kelimesinin karşılığı: dul kadın
+WIDOWER	(ad) dul: eşi ölmüş veya eşinden boşanmış kadın veya erkek
+WIDOWERS	(ad) çoğul çekimi: widower
+WIDOWING	(widow sözcüğünün çekimi) (ad) widow kelimesinin karşılığı: dul kadın
+WIDOWS	(ad) çoğul çekimi: widow
+WIDTH	(ad) en: bir yüzeyde boy sayılan iki kenar arasındaki uzaklık (ayrıca: genişlik)
+WIDTHS	(ad) çoğul çekimi: width
+WIELD	(eylem) wield kelimesinin karşılığı: silah kullanmak
+WIELDED	(wield sözcüğünün çekimi) (eylem) wield kelimesinin karşılığı: silah kullanmak
+WIELDERS	(ad) çoğul çekimi: wielder
+WIELDING	(wield sözcüğünün çekimi) (eylem) wield kelimesinin karşılığı: silah kullanmak
+WIELDS	(wield sözcüğünün çekimi) (eylem) wield kelimesinin karşılığı: silah kullanmak
+WIENERS	(ad) çoğul çekimi: wiener
+WIFE	(ad) karı: Bir erkeğin evlenmiş olduğu kadın; eş, refika, zevce. (ayrıca: avrat, zenne)
+WIFED	(wife sözcüğünün çekimi) (ad) karı: Bir erkeğin evlenmiş olduğu kadın; eş, refika, zevce. (ayrıca: avrat, zenne)
+WIFES	(ad) çoğul çekimi: wife
+WIFING	(wife sözcüğünün çekimi) (ad) karı: Bir erkeğin evlenmiş olduğu kadın; eş, refika, zevce. (ayrıca: avrat, zenne)
+WIG	(ad) wig kelimesinin karşılığı: ⟪peruk|PERUK⟫, takma saç\n(eylem) wig kelimesinin karşılığı: ⟪azarlamak|AZARLAMAK⟫
+WIGGINGS	(ad) çoğul çekimi: wigging
+WIGGLE	(ad) kıpırdamak; kıpır kıpır oynamak; sallanmak
+WIGGLED	(wiggle sözcüğünün çekimi) (ad) kıpırdamak; kıpır kıpır oynamak; sallanmak
+WIGGLERS	(ad) çoğul çekimi: wiggler
+WIGGLES	(ad) çoğul çekimi: wiggle
+WIGGLING	(wiggle sözcüğünün çekimi) (ad) kıpırdamak; kıpır kıpır oynamak; sallanmak
+WIGHT	(ad) wight kelimesinin karşılığı: ⟪yiğit|YİĞİT⟫
+WIGHTS	(ad) çoğul çekimi: wight
+WIGS	(ad) çoğul çekimi: wig
+WIGWAGS	(ad) çoğul çekimi: wigwag
+WIGWAMS	(ad) çoğul çekimi: wigwam
+WILD	(sıfat) yabani: Doğada yaşayan, evcil olmayan hayvan evcil karşıtı; yabanıl, vahşi.
+WILDCATS	(ad) çoğul çekimi: wildcat
+WILDCATTERS	(ad) çoğul çekimi: wildcatter
+WILDEBEESTS	(ad) çoğul çekimi: wildebeest
+WILDER	(wild sözcüğünün çekimi) (sıfat) yabani: Doğada yaşayan, evcil olmayan hayvan evcil karşıtı; yabanıl, vahşi.
+WILDERED	(wild sözcüğünün çekimi) (sıfat) yabani: Doğada yaşayan, evcil olmayan hayvan evcil karşıtı; yabanıl, vahşi.
+WILDERNESS	(ad) wilderness kelimesinin karşılığı: ⟪yaban|YABAN⟫
+WILDERNESSES	(ad) çoğul çekimi: wilderness
+WILDERS	(wild sözcüğünün çekimi) (sıfat) yabani: Doğada yaşayan, evcil olmayan hayvan evcil karşıtı; yabanıl, vahşi.
+WILDEST	(wild sözcüğünün çekimi) (sıfat) yabani: Doğada yaşayan, evcil olmayan hayvan evcil karşıtı; yabanıl, vahşi.
+WILDFIRES	(ad) çoğul çekimi: wildfire
+WILDFLOWERS	(ad) çoğul çekimi: wildflower
+WILDFOWLS	(ad) çoğul çekimi: wildfowl
+WILDLIFE	(ad) wildlife kelimesinin karşılığı: vahşi yaşam
+WILDNESS	(ad) wildness kelimesinin karşılığı: ⟪vahşilik|VAHŞİLİK⟫
+WILDNESSES	(ad) wildness sözcüğünün çoğul çekimi: vahşilik.
+WILDS	(ad) çoğul çekimi: wild
+WILES	(ad) çoğul çekimi: wile
+WILFUL	(sıfat) kasti: bilerek, isteyerek yapılan (ayrıca: kasıtlı, bilerek yapılan)
+WILL	(ad) will kelimesinin karşılığı: ⟪azim|AZİM⟫\n(eylem) will kelimesinin karşılığı: ⟪istemek|İSTEMEK⟫, niyet etmek, ⟪arzulamak|ARZULAMAK⟫
+WILLED	(will sözcüğünün çekimi) (ad) will kelimesinin karşılığı: ⟪azim|AZİM⟫
+WILLIED	(willy sözcüğünün çekimi) (eylem) willy kelimesinin karşılığı: ⟪sik|SİK⟫
+WILLIES	(ad) çoğul çekimi: willy
+WILLING	(sıfat) istekli: bir şeye karşı isteği olan
+WILLINGER	(will sözcüğünün çekimi) (ad) will kelimesinin karşılığı: ⟪azim|AZİM⟫
+WILLINGEST	(will sözcüğünün çekimi) (ad) will kelimesinin karşılığı: ⟪azim|AZİM⟫
+WILLINGNESS	(ad) willingness kelimesinin karşılığı: ⟪gönüllülük|GÖNÜLLÜLÜK⟫
+WILLINGNESSES	(willingness sözcüğünün çekimi) (ad) willingness kelimesinin karşılığı: ⟪gönüllülük|GÖNÜLLÜLÜK⟫
+WILLOW	(ad) söğüt: Söğütgillerden, sulak yerlerde yetişen, yaprakları almaşık ve alt yüzleri havla örtülü büyük bir ağaç (Salix)
+WILLOWING	(willow sözcüğünün çekimi) (ad) söğüt: Söğütgillerden, sulak yerlerde yetişen, yaprakları almaşık ve alt yüzleri havla örtülü büyük bir ağaç...
+WILLOWS	(ad) çoğul çekimi: willow
+WILLPOWER	(ad) willpower kelimesinin karşılığı: irade gücü, ⟪istenç|İSTENÇ⟫
+WILLPOWERS	(willpower sözcüğünün çekimi) (ad) willpower kelimesinin karşılığı: irade gücü, ⟪istenç|İSTENÇ⟫
+WILLS	(ad) çoğul çekimi: will
+WILLY	(eylem) willy kelimesinin karşılığı: ⟪sik|SİK⟫
+WILT	(eylem) solmak: tazeliğini, diriliğini veya parlaklığını yitirmek
+WILTED	(wilt sözcüğünün çekimi) (eylem) solmak: tazeliğini, diriliğini veya parlaklığını yitirmek
+WILTING	(wilt sözcüğünün çekimi) (eylem) solmak: tazeliğini, diriliğini veya parlaklığını yitirmek
+WILTS	(ad) çoğul çekimi: wilt
+WIMBLES	(ad) çoğul çekimi: wimble
+WIMPLES	(ad) çoğul çekimi: wimple
+WIMPS	(ad) çoğul çekimi: wimp
+WIN	(eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+WINCE	(eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: çekinmek, irkilmek)
+WINCED	(wince sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: çekinmek, irkilmek)
+WINCES	(ad) çoğul çekimi: wince
+WINCH	(ad) vinç: gemiye yük alıp vermede kullanılan, ambar ağızlarına yakın olarak konmuş hidrolik - elektrik veya istimle açılan makineler (ayrıca: ırgat)
+WINCHED	(winch sözcüğünün çekimi) (ad) vinç: gemiye yük alıp vermede kullanılan, ambar ağızlarına yakın olarak konmuş hidrolik - elektrik veya istimle...
+WINCHER	(winch sözcüğünün çekimi) (ad) vinç: gemiye yük alıp vermede kullanılan, ambar ağızlarına yakın olarak konmuş hidrolik - elektrik veya istimle...
+WINCHES	(ad) çoğul çekimi: winch
+WINCHING	(winch sözcüğünün çekimi) (ad) vinç: gemiye yük alıp vermede kullanılan, ambar ağızlarına yakın olarak konmuş hidrolik - elektrik veya istimle...
+WINCING	(wince sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: çekinmek, irkilmek)
+WIND	(ad) rüzgâr: havanın yer değiştirmesiyle oluşan esinti, bad, yel (ayrıca: yel, bad)
+WINDBREAKERS	(ad) çoğul çekimi: windbreaker
+WINDBREAKS	(ad) çoğul çekimi: windbreak
+WINDBURNS	(ad) çoğul çekimi: windburn
+WINDED	(eylem) wind sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: rüzgâr, yel, bad
+WINDERS	(ad) çoğul çekimi: winder
+WINDFALLS	(ad) çoğul çekimi: windfall
+WINDFLOWERS	(ad) çoğul çekimi: windflower
+WINDGALLS	(ad) çoğul çekimi: windgall
+WINDHOVERS	(ad) çoğul çekimi: windhover
+WINDIER	(sıfat) windy sözcüğünün karşılaştırma derecesi çekimi: rüzgârlı
+WINDIEST	(sıfat) windy sözcüğünün üstünlük derecesi çekimi: rüzgârlı
+WINDING	(ad) winding kelimesinin karşılığı: ⟪bobinaj|BOBİNAJ⟫
+WINDINGS	(ad) çoğul çekimi: winding
+WINDLASSES	(ad) çoğul çekimi: windlass
+WINDMILLS	(ad) çoğul çekimi: windmill
+WINDOW	(ad) pencere: Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve, cam, panjur, perde gibi eklentilerle daha kullanışlı bir duruma getirilen açıklık.
+WINDOWING	(window sözcüğünün çekimi) (ad) pencere: Yapıları veya tren, vapur vb. ulaşım araçlarını aydınlatmak, havalandırmak amacıyla yapılan, çerçeve,...
+WINDOWPANES	(ad) çoğul çekimi: windowpane
+WINDOWS	(ad) window sözcüğünün çoğul çekimi: pencere\n(eylem) window sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: pencere
+WINDOWSILL	(ad) windowsill kelimesinin karşılığı: pencere kenarı
+WINDOWSILLS	(ad) windowsill sözcüğünün çoğul çekimi: pencere kenarı
+WINDPIPE	(ad) windpipe kelimesinin karşılığı: soluk borusu, ⟪trakea|TRAKEA⟫, nefes borusu
+WINDPIPES	(ad) windpipe sözcüğünün çoğul çekimi: soluk borusu, trakea, nefes borusu
+WINDROWS	(ad) çoğul çekimi: windrow
+WINDS	(ad) çoğul çekimi: wind
+WINDSCREEN	(ad) otomobil ön camı
+WINDSCREENS	(ad) çoğul çekimi: windscreen
+WINDSHIELD	(ad) otomobil ön camı
+WINDSHIELDS	(ad) çoğul çekimi: windshield
+WINDSOCKS	(ad) çoğul çekimi: windsock
+WINDSTORMS	(ad) çoğul çekimi: windstorm
+WINDSURF	(ad) windsurf kelimesinin karşılığı: rüzgar sörfü
+WINDSURFED	(windsurf sözcüğünün çekimi) (ad) windsurf kelimesinin karşılığı: rüzgar sörfü
+WINDSURFING	(ad) windsurfing kelimesinin karşılığı: rüzgâr sörfü
+WINDSURFS	(windsurf sözcüğünün çekimi) (ad) windsurf kelimesinin karşılığı: rüzgar sörfü
+WINDY	(sıfat) windy kelimesinin karşılığı: ⟪rüzgârlı|RÜZGARLI⟫
+WINE	(ad) şarap: üzüm veya başka meyve sularını türlü yöntemlerle mayalandırarak elde edilen alkollü içki
+WINED	(wine sözcüğünün çekimi) (ad) şarap: üzüm veya başka meyve sularını türlü yöntemlerle mayalandırarak elde edilen alkollü içki
+WINEMAKERS	(ad) çoğul çekimi: winemaker
+WINEPRESSES	(ad) çoğul çekimi: winepress
+WINERIES	(ad) çoğul çekimi: winery
+WINES	(ad) wine sözcüğünün çoğul çekimi: şarap
+WINESKINS	(ad) çoğul çekimi: wineskin
+WING	(ad) kanat: Kuşlarda ve böceklerde uçmayı sağlayan organ:
+WINGED	(sıfat) winged kelimesinin karşılığı: ⟪kanatlı|KANATLI⟫
+WINGEDLY	(wing sözcüğünün çekimi) (ad) kanat: Kuşlarda ve böceklerde uçmayı sağlayan organ:
+WINGERS	(ad) çoğul çekimi: winger
+WINGING	(wing sözcüğünün çekimi) (ad) kanat: Kuşlarda ve böceklerde uçmayı sağlayan organ:
+WINGLESS	(sıfat) wingless kelimesinin karşılığı: ⟪kanatsız|KANATSIZ⟫
+WINGS	(ad) wing sözcüğünün çoğul çekimi: kanat
+WINGSPANS	(ad) çoğul çekimi: wingspan
+WINGSPREADS	(ad) çoğul çekimi: wingspread
+WINING	(wine sözcüğünün çekimi) (ad) şarap: üzüm veya başka meyve sularını türlü yöntemlerle mayalandırarak elde edilen alkollü içki
+WINKLES	(ad) çoğul çekimi: winkle
+WINKS	(ad) çoğul çekimi: wink
+WINNED	(win sözcüğünün çekimi) (eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+WINNER	(sıfat) winner kelimesinin karşılığı: ⟪kazanan|KAZANAN⟫
+WINNERS	(ad) winner sözcüğünün çoğul çekimi: kazanan.
+WINNING	(eylem) win sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kazanmak.
+WINNINGS	(ad) çoğul çekimi: winning
+WINNOWS	(ad) çoğul çekimi: winnow
+WINOS	(ad) çoğul çekimi: wino
+WINS	(ad) win sözcüğünün çoğul çekimi: kazanmak.\n(eylem) win sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kazanmak.
+WINTER	(ad) kış: Kuzey yarım kürede 22 Aralık-21 Mart, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman dilimi, sonbaharla ilkbahar arasındaki soğuk mevsim; şita
+WINTERBERRIES	(ad) çoğul çekimi: winterberry
+WINTERED	(winter sözcüğünün çekimi) (ad) kış: Kuzey yarım kürede 22 Aralık-21 Mart, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman...
+WINTERER	(winter sözcüğünün çekimi) (ad) kış: Kuzey yarım kürede 22 Aralık-21 Mart, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman...
+WINTERGREENS	(ad) çoğul çekimi: wintergreen
+WINTERING	(winter sözcüğünün çekimi) (ad) kış: Kuzey yarım kürede 22 Aralık-21 Mart, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman...
+WINTERS	(ad) çoğul çekimi: winter
+WIPE	(eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+WIPED	(eylem) wipe sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: silmek
+WIPERS	(ad) çoğul çekimi: wiper
+WIPES	(ad) çoğul çekimi: wipe
+WIPING	(wipe sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+WIRE	(ad) tel: tel şeklinde veya telden yapılmış olan
+WIRED	(wire sözcüğünün çekimi) (ad) tel: tel şeklinde veya telden yapılmış olan
+WIREHAIRS	(ad) çoğul çekimi: wirehair
+WIRELESS	(ad) radyo: radyo istasyonunun yayınlarını alan araç (ayrıca: telsiz)
+WIRELESSED	(wireless sözcüğünün çekimi) (ad) radyo: radyo istasyonunun yayınlarını alan araç (ayrıca: telsiz)
+WIRELESSES	(wireless sözcüğünün çekimi) (ad) radyo: radyo istasyonunun yayınlarını alan araç (ayrıca: telsiz)
+WIRELESSING	(wireless sözcüğünün çekimi) (ad) radyo: radyo istasyonunun yayınlarını alan araç (ayrıca: telsiz)
+WIRERS	(ad) çoğul çekimi: wirer
+WIRES	(ad) wire sözcüğünün çoğul çekimi: tel.
+WIRETAPPERS	(ad) çoğul çekimi: wiretapper
+WIRETAPS	(ad) çoğul çekimi: wiretap
+WIRING	(wire sözcüğünün çekimi) (ad) tel: tel şeklinde veya telden yapılmış olan
+WIRINGS	(wire sözcüğünün çekimi) (ad) tel: tel şeklinde veya telden yapılmış olan
+WISDOM	(ad) akıl: Düşünme, anlama ve kavrama gücü; us.
+WISDOMS	(ad) çoğul çekimi: wisdom
+WISE	(sıfat) wise kelimesinin karşılığı: ⟪bilge|BİLGE⟫
+WISEACRES	(ad) çoğul çekimi: wiseacre
+WISECRACKS	(ad) çoğul çekimi: wisecrack
+WISELIER	(wisely sözcüğünün çekimi) (sıfat) bilgece: bilgeye yaraşır bir biçimde, hakimane (ayrıca: hakimane)
+WISELIEST	(wisely sözcüğünün çekimi) (sıfat) bilgece: bilgeye yaraşır bir biçimde, hakimane (ayrıca: hakimane)
+WISELY	(sıfat) bilgece: bilgeye yaraşır bir biçimde, hakimane (ayrıca: hakimane)
+WISENHEIMERS	(ad) çoğul çekimi: wisenheimer
+WISENTS	(ad) çoğul çekimi: wisent
+WISER	(wise sözcüğünün çekimi) (sıfat) wise kelimesinin karşılığı: ⟪bilge|BİLGE⟫
+WISES	(ad) çoğul çekimi: wise
+WISEST	(wise sözcüğünün çekimi) (sıfat) wise kelimesinin karşılığı: ⟪bilge|BİLGE⟫
+WISH	(eylem) wish kelimesinin karşılığı: ⟪dilemek|DİLEMEK⟫\n(ad) istek: belirli bir gereksinimi karşılayacağı düşünülen nesne veya duruma karşı duyulan özlem, arzu (ayrıca: dilek, arzu)
+WISHED	(wish sözcüğünün çekimi) (eylem) wish kelimesinin karşılığı: ⟪dilemek|DİLEMEK⟫
+WISHERS	(ad) çoğul çekimi: wisher
+WISHES	(ad) wish sözcüğünün çoğul çekimi: dilemek
+WISHING	(eylem) wish sözcüğünün şimdiki zaman ortaç ve gerund çekimi: dilemek
+WISPS	(ad) çoğul çekimi: wisp
+WISTARIAS	(ad) çoğul çekimi: wistaria
+WITCH	(ad) witch kelimesinin karşılığı: ⟪cadı|CADI⟫\n(eylem) witch kelimesinin karşılığı: büyü yapmak
+WITCHCRAFT	(ad) cadılık: cadının yaptığı iş, bağıcılık, efsunculuk, afsunculuk, sihirbazlık, büyücülük
+WITCHCRAFTS	(witchcraft sözcüğünün çekimi) (ad) cadılık: cadının yaptığı iş, bağıcılık, efsunculuk, afsunculuk, sihirbazlık, büyücülük
+WITCHED	(witch sözcüğünün çekimi) (ad) witch kelimesinin karşılığı: ⟪cadı|CADI⟫
+WITCHERIES	(witchery sözcüğünün çekimi) (ad) cadılık: cadının yaptığı iş, bağıcılık, efsunculuk, afsunculuk, sihirbazlık, büyücülük
+WITCHERY	(ad) cadılık: cadının yaptığı iş, bağıcılık, efsunculuk, afsunculuk, sihirbazlık, büyücülük
+WITCHES	(ad) witch sözcüğünün çoğul çekimi: cadı
+WITCHING	(witch sözcüğünün çekimi) (ad) witch kelimesinin karşılığı: ⟪cadı|CADI⟫
+WITCHINGS	(witch sözcüğünün çekimi) (ad) witch kelimesinin karşılığı: ⟪cadı|CADI⟫
+WITES	(ad) çoğul çekimi: wite
+WITH	(bağlaç) with kelimesinin karşılığı: -la, -le: ile
+WITHDRAWALS	(ad) çoğul çekimi: withdrawal
+WITHED	(with sözcüğünün çekimi) (bağlaç) with kelimesinin karşılığı: -la, -le: ile
+WITHER	(eylem) kurumak: (bitki) Suyu çekilip cansız duruma gelmek (ayrıca: solmak)
+WITHERED	(wither sözcüğünün çekimi) (eylem) kurumak: (bitki) Suyu çekilip cansız duruma gelmek (ayrıca: solmak)
+WITHERER	(wither sözcüğünün çekimi) (eylem) kurumak: (bitki) Suyu çekilip cansız duruma gelmek (ayrıca: solmak)
+WITHERING	(wither sözcüğünün çekimi) (eylem) kurumak: (bitki) Suyu çekilip cansız duruma gelmek (ayrıca: solmak)
+WITHERS	(wither sözcüğünün çekimi) (eylem) kurumak: (bitki) Suyu çekilip cansız duruma gelmek (ayrıca: solmak)
+WITHES	(ad) çoğul çekimi: withe
+WITHIES	(ad) çoğul çekimi: withy
+WITHIN	(edat) içinde: ortamında (ayrıca: dahilinde)
+WITHING	(with sözcüğünün çekimi) (bağlaç) with kelimesinin karşılığı: -la, -le: ile
+WITHINS	(within sözcüğünün çekimi) (edat) içinde: ortamında (ayrıca: dahilinde)
+WITHOUT	(edat) with (ile) edatının zıttı, -sız, ... olmadan.
+WITHOUTS	(without sözcüğünün çekimi) (edat) with (ile) edatının zıttı, -sız, ... olmadan.
+WITHSTAND	(eylem) withstand kelimesinin karşılığı: tahammül etmek
+WITHSTANDING	(withstand sözcüğünün çekimi) (eylem) withstand kelimesinin karşılığı: tahammül etmek
+WITHSTANDS	(withstand sözcüğünün çekimi) (eylem) withstand kelimesinin karşılığı: tahammül etmek
+WITHSTOOD	(withstand sözcüğünün çekimi) (eylem) withstand kelimesinin karşılığı: tahammül etmek
+WITNESS	(ad) şahit: tanık\n(eylem) witness kelimesinin karşılığı: tanıklık etmek
+WITNESSED	(eylem) witness sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: şahit
+WITNESSES	(ad) witness sözcüğünün çoğul çekimi: şahit\n(eylem) witness sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: şahit
+WITNESSING	(eylem) witness sözcüğünün şimdiki zaman ortaç ve gerund çekimi: şahit
+WITS	(ad) çoğul çekimi: wit
+WITTIER	(witty sözcüğünün çekimi) (sıfat) espritüel: Yerinde ve zamanında, güzel ve hoş karşılanan, ince anlamlı, düşündürücü söz söyleyen, nükte yapan...
+WITTIEST	(witty sözcüğünün çekimi) (sıfat) espritüel: Yerinde ve zamanında, güzel ve hoş karşılanan, ince anlamlı, düşündürücü söz söyleyen, nükte yapan...
+WITTOL	(ad) kerata: Karısı tarafından aldatılan erkek. (ayrıca: deyyus)
+WITTOLS	(ad) çoğul çekimi: wittol
+WITTY	(sıfat) espritüel: Yerinde ve zamanında, güzel ve hoş karşılanan, ince anlamlı, düşündürücü söz söyleyen, nükte yapan (kimse) (ayrıca: nükteli)
+WIVERNS	(ad) çoğul çekimi: wivern
+WIVES	(ad) wife sözcüğünün çoğul çekimi: karı, avrat, zenne, hatun
+WIZARD	(ad) wizard kelimesinin karşılığı: ⟪büyücü|BÜYÜCÜ⟫
+WIZARDS	(ad) wizards kelimesinin karşılığı: ⟪büyücüler|BÜYÜCÜLER⟫
+WOBBLE	(ad) wobble kelimesinin karşılığı: ⟪sendeleme|SENDELEME⟫, ⟪bocalama|BOCALAMA⟫
+WOBBLED	(wobble sözcüğünün çekimi) (ad) wobble kelimesinin karşılığı: ⟪sendeleme|SENDELEME⟫, ⟪bocalama|BOCALAMA⟫
+WOBBLERS	(ad) çoğul çekimi: wobbler
+WOBBLES	(ad) çoğul çekimi: wobble
+WOBBLIES	(wobbly sözcüğünün çekimi) (sıfat) wobbly kelimesinin karşılığı: ⟪titrek|TİTREK⟫
+WOBBLING	(wobble sözcüğünün çekimi) (ad) wobble kelimesinin karşılığı: ⟪sendeleme|SENDELEME⟫, ⟪bocalama|BOCALAMA⟫
+WOBBLY	(sıfat) wobbly kelimesinin karşılığı: ⟪titrek|TİTREK⟫
+WOEBEGONE	(sıfat) woebegone kelimesinin karşılığı: ⟪dertli|DERTLİ⟫
+WOEFUL	(sıfat) mahzun: üzgün
+WOEFULLER	(woeful sözcüğünün çekimi) (sıfat) mahzun: üzgün
+WOEFULLEST	(woeful sözcüğünün çekimi) (sıfat) mahzun: üzgün
+WOES	(ad) çoğul çekimi: woe
+WOKE	(wake sözcüğünün çekimi) (eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek
+WOKEN	(wake sözcüğünün çekimi) (eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek
+WOKS	(ad) çoğul çekimi: wok
+WOLDS	(ad) çoğul çekimi: wold
+WOLF	(ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli hayvan; (Canis lupus).
+WOLFBERRIES	(ad) çoğul çekimi: wolfberry
+WOLFBERRY	(ad) wolfberry kelimesinin karşılığı: teke dikeni
+WOLFED	(wolf sözcüğünün çekimi) (ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli...
+WOLFER	(wolf sözcüğünün çekimi) (ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli...
+WOLFING	(wolf sözcüğünün çekimi) (ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli...
+WOLFS	(wolf sözcüğünün çekimi) (ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli...
+WOLFSBANES	(ad) çoğul çekimi: wolfsbane
+WOLVERINES	(ad) çoğul çekimi: wolverine
+WOLVES	(ad) wolf sözcüğünün çoğul çekimi: kurt
+WOMAN	(ad) kadın: Bu cinsten olup evlenmiş veya bir erkekle beraber olmuş kimse. (ayrıca: hatun)
+WOMANED	(woman sözcüğünün çekimi) (ad) kadın: Bu cinsten olup evlenmiş veya bir erkekle beraber olmuş kimse. (ayrıca: hatun)
+WOMANHOOD	(ad) kadınlık: kadın olma durumu
+WOMANHOODS	(womanhood sözcüğünün çekimi) (ad) kadınlık: kadın olma durumu
+WOMANING	(woman sözcüğünün çekimi) (ad) kadın: Bu cinsten olup evlenmiş veya bir erkekle beraber olmuş kimse. (ayrıca: hatun)
+WOMANISH	(sıfat) kadınsı: kadın davranışlı, kadına benzer (erkek)
+WOMANISHLY	(womanish sözcüğünün çekimi) (sıfat) kadınsı: kadın davranışlı, kadına benzer (erkek)
+WOMANIZE	(eylem) zamparalık etmek, kadın peşinde koşmak, çapkınlık etmek
+WOMANIZED	(womanize sözcüğünün çekimi) (eylem) zamparalık etmek, kadın peşinde koşmak, çapkınlık etmek
+WOMANIZER	(sıfat) womanizer kelimesinin karşılığı: ⟪zampara|ZAMPARA⟫\n(ad) womanizer kelimesinin karşılığı: ⟪karıcı|KARICI⟫
+WOMANIZERS	(ad) çoğul çekimi: womanizer
+WOMANIZES	(womanize sözcüğünün çekimi) (eylem) zamparalık etmek, kadın peşinde koşmak, çapkınlık etmek
+WOMANIZING	(womanize sözcüğünün çekimi) (eylem) zamparalık etmek, kadın peşinde koşmak, çapkınlık etmek
+WOMANKIND	(ad) womankind kelimesinin karşılığı: ⟪kadınlar|KADINLAR⟫
+WOMANLIER	(womanly sözcüğünün çekimi) (sıfat) kadınsı: kadına özgü olan, kadına yaraşır
+WOMANLIEST	(womanly sözcüğünün çekimi) (sıfat) kadınsı: kadına özgü olan, kadına yaraşır
+WOMANLY	(sıfat) kadınsı: kadına özgü olan, kadına yaraşır
+WOMANS	(woman sözcüğünün çekimi) (ad) kadın: Bu cinsten olup evlenmiş veya bir erkekle beraber olmuş kimse. (ayrıca: hatun)
+WOMB	(ad) womb kelimesinin karşılığı: döl yatağı, ana rahmi, ⟪rahim|RAHİM⟫, ⟪karın|KARIN⟫
+WOMBED	(womb sözcüğünün çekimi) (ad) womb kelimesinin karşılığı: döl yatağı, ana rahmi, ⟪rahim|RAHİM⟫, ⟪karın|KARIN⟫
+WOMBS	(ad) çoğul çekimi: womb
+WOMEN	(ad) women kelimesinin karşılığı: ⟪bayanlar|BAYANLAR⟫, ⟪kadınlar|KADINLAR⟫
+WON	(eylem) win sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kazanmak.
+WONDER	(ad) wonder kelimesinin karşılığı: ⟪harika|HARİKA⟫
+WONDERED	(wonder sözcüğünün çekimi) (ad) wonder kelimesinin karşılığı: ⟪harika|HARİKA⟫
+WONDERFUL	(sıfat) wonderful kelimesinin karşılığı: ⟪harika|HARİKA⟫
+WONDERING	(eylem) wonder sözcüğünün şimdiki zaman ortaç ve gerund çekimi: harika
+WONDERS	(ad) wonder sözcüğünün çoğul çekimi: harika
+WONKIER	(wonky sözcüğünün çekimi) (sıfat) wonky kelimesinin karşılığı: ⟪dengesiz|DENGESİZ⟫, ⟪bozuk|BOZUK⟫, ⟪aksak|AKSAK⟫, ayarı kaçmış
+WONKIEST	(wonky sözcüğünün çekimi) (sıfat) wonky kelimesinin karşılığı: ⟪dengesiz|DENGESİZ⟫, ⟪bozuk|BOZUK⟫, ⟪aksak|AKSAK⟫, ayarı kaçmış
+WONKS	(ad) wonk sözcüğünün çoğul çekimi\n(eylem) wonk sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+WONKY	(sıfat) wonky kelimesinin karşılığı: ⟪dengesiz|DENGESİZ⟫, ⟪bozuk|BOZUK⟫, ⟪aksak|AKSAK⟫, ayarı kaçmış
+WONNED	(win sözcüğünün çekimi) (eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+WONNER	(win sözcüğünün çekimi) (eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+WONNING	(win sözcüğünün çekimi) (eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+WONS	(win sözcüğünün çekimi) (eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+WONTONS	(ad) çoğul çekimi: wonton
+WOO	(eylem) woo kelimesinin karşılığı: kur yapmak
+WOOD	(ad) odun: ağaçların gövdelerini ve dallarını meydana getiren sert madde, tahta (ayrıca: orman)
+WOODBINES	(ad) çoğul çekimi: woodbine
+WOODCARVERS	(ad) çoğul çekimi: woodcarver
+WOODCARVING	(ad) woodcarving kelimesinin karşılığı: ağaç oyma
+WOODCARVINGS	(woodcarving sözcüğünün çekimi) (ad) woodcarving kelimesinin karşılığı: ağaç oyma
+WOODCHUCKS	(ad) çoğul çekimi: woodchuck
+WOODCOCK	(ad) woodcock kelimesinin karşılığı: avrasya çulluğu, ⟪çulluk|ÇULLUK⟫, bekas
+WOODCOCKS	(ad) woodcock sözcüğünün çoğul çekimi: Avrasya çulluğu, çulluk, bekas
+WOODCRAFTS	(ad) çoğul çekimi: woodcraft
+WOODCUTS	(ad) çoğul çekimi: woodcut
+WOODCUTTER	(ad) woodcutter kelimesinin karşılığı: ⟪oduncu|ODUNCU⟫
+WOODCUTTERS	(ad) çoğul çekimi: woodcutter
+WOODEN	(sıfat) tahta: çeşitli işlerde kullanılmak üzere düz, enlice, uzun ve az kalın biçimde işlenmiş ağaç parçası (ayrıca: ahşap, ağaç)
+WOODENER	(wooden sözcüğünün çekimi) (sıfat) tahta: çeşitli işlerde kullanılmak üzere düz, enlice, uzun ve az kalın biçimde işlenmiş ağaç parçası (ayrıca:...
+WOODENEST	(wooden sözcüğünün çekimi) (sıfat) tahta: çeşitli işlerde kullanılmak üzere düz, enlice, uzun ve az kalın biçimde işlenmiş ağaç parçası (ayrıca:...
+WOODIER	(woody sözcüğünün çekimi) (sıfat) ağaçsıl: ağaçla ilgili olan, ağaç türünden olan
+WOODIES	(ad) çoğul çekimi: woody
+WOODIEST	(woody sözcüğünün çekimi) (sıfat) ağaçsıl: ağaçla ilgili olan, ağaç türünden olan
+WOODING	(wood sözcüğünün çekimi) (ad) odun: ağaçların gövdelerini ve dallarını meydana getiren sert madde, tahta (ayrıca: orman)
+WOODLANDS	(ad) çoğul çekimi: woodland
+WOODPECKER	(ad) woodpecker kelimesinin karşılığı: ⟪ağaçkakan|AĞAÇKAKAN⟫
+WOODPECKERS	(ad) çoğul çekimi: woodpecker
+WOODPILES	(ad) çoğul çekimi: woodpile
+WOODS	(ad) wood sözcüğünün çoğul çekimi: odun, orman
+WOODSHEDS	(ad) çoğul çekimi: woodshed
+WOODWIND	(ad) tahta nefesli çalgı
+WOODWINDS	(ad) çoğul çekimi: woodwind
+WOODWORKERS	(ad) çoğul çekimi: woodworker
+WOODWORM	(ad) woodworm kelimesinin karşılığı: ağaç kurdu
+WOODWORMS	(woodworm sözcüğünün çekimi) (ad) woodworm kelimesinin karşılığı: ağaç kurdu
+WOODY	(sıfat) ağaçsıl: ağaçla ilgili olan, ağaç türünden olan
+WOOED	(woo sözcüğünün çekimi) (eylem) woo kelimesinin karşılığı: kur yapmak
+WOOER	(ad) kur yapan kimse.
+WOOERS	(wooer sözcüğünün çekimi) (ad) kur yapan kimse.
+WOOF	(ad) atkı: Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü. (ayrıca: argaç)
+WOOFED	(woof sözcüğünün çekimi) (ad) atkı: Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü. (ayrıca: argaç)
+WOOFING	(woof sözcüğünün çekimi) (ad) atkı: Soğuğa karşı omuzlara, başa, sırta veya boyna alınan örtü; bürgü. (ayrıca: argaç)
+WOOFS	(ad) çoğul çekimi: woof
+WOOING	(woo sözcüğünün çekimi) (eylem) woo kelimesinin karşılığı: kur yapmak
+WOOL	(ad) wool kelimesinin karşılığı: ⟪yün|YÜN⟫
+WOOLER	(wool sözcüğünün çekimi) (ad) wool kelimesinin karşılığı: ⟪yün|YÜN⟫
+WOOLLED	(wool sözcüğünün çekimi) (ad) wool kelimesinin karşılığı: ⟪yün|YÜN⟫
+WOOLLEN	(sıfat) woollen kelimesinin karşılığı: ⟪yünlü|YÜNLÜ⟫
+WOOLLENS	(woollen sözcüğünün çekimi) (sıfat) woollen kelimesinin karşılığı: ⟪yünlü|YÜNLÜ⟫
+WOOLS	(wool sözcüğünün çekimi) (ad) wool kelimesinin karşılığı: ⟪yün|YÜN⟫
+WOOS	(woo sözcüğünün çekimi) (eylem) woo kelimesinin karşılığı: kur yapmak
+WORD	(ad) kavil: anlaşma, sözleşme (ayrıca: kelime, söz)
+WORDED	(word sözcüğünün çekimi) (ad) kavil: anlaşma, sözleşme (ayrıca: kelime, söz)
+WORDING	(word sözcüğünün çekimi) (ad) kavil: anlaşma, sözleşme (ayrıca: kelime, söz)
+WORDINGS	(word sözcüğünün çekimi) (ad) kavil: anlaşma, sözleşme (ayrıca: kelime, söz)
+WORDPLAY	(ad) wordplay kelimesinin karşılığı: kelime oyunu
+WORDPLAYS	(ad) çoğul çekimi: wordplay
+WORDS	(ad) word sözcüğünün çoğul çekimi: kavil, kelime, söz, sözcük\n(eylem) word sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kavil, kelime, söz, sözcük
+WORDSMITHS	(ad) çoğul çekimi: wordsmith
+WORE	(wear sözcüğünün çekimi) (eylem) giymek: Örtünüp korunmak için bir şeyi vücuduna geçirmek; giyinmek, kuşanmak.
+WORK	(eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak\n(ad) work kelimesinin karşılığı: iş
+WORKADAY	(sıfat) banal: Herkesçe kullanılan, anlaşılan.
+WORKAHOLIC	(sıfat) işkolik: İşine aşırı derece düşkün kimse.
+WORKAHOLICS	(ad) çoğul çekimi: workaholic
+WORKBOOKS	(ad) workbook sözcüğünün çoğul çekimi
+WORKDAYS	(ad) çoğul çekimi: workday
+WORKED	(work sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak
+WORKER	(ad) çalışan: çalışma işini yapan kişi (ayrıca: işçi)
+WORKERS	(ad) worker sözcüğünün çoğul çekimi: çalışan, işçi
+WORKHOUSE	(ad) workhouse kelimesinin karşılığı: ⟪darülaceze|DARÜLACEZE⟫
+WORKHOUSES	(workhouse sözcüğünün çekimi) (ad) workhouse kelimesinin karşılığı: ⟪darülaceze|DARÜLACEZE⟫
+WORKING	(ad) çalışma: çalışmak işi, faaliyet
+WORKINGMEN	(ad) çoğul çekimi: workingman
+WORKINGS	(ad) çoğul çekimi: working
+WORKLOADS	(ad) çoğul çekimi: workload
+WORKMAN	(ad) işçi: başkasının yararına bedenini, kafa gücünü veya el becerisini kullanarak ücretle çalışan kişi
+WORKMEN	(workman sözcüğünün çekimi) (ad) işçi: başkasının yararına bedenini, kafa gücünü veya el becerisini kullanarak ücretle çalışan kişi
+WORKOUTS	(ad) çoğul çekimi: workout
+WORKPLACE	(ad) workplace kelimesinin karşılığı: çalışma yeri
+WORKPLACES	(ad) çoğul çekimi: workplace
+WORKROOMS	(ad) çoğul çekimi: workroom
+WORKS	(ad) work sözcüğünün çoğul çekimi: çalışmak\n(eylem) work sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: çalışmak
+WORKSHEETS	(ad) çoğul çekimi: worksheet
+WORKSHOP	(ad) atölye: Zanaatçıların veya resim, heykel sanatlarıyla uğraşanların çalıştığı yer; işlik.
+WORKSHOPS	(ad) çoğul çekimi: workshop
+WORKTABLES	(ad) çoğul çekimi: worktable
+WORKWEEK	(ad) workweek kelimesinin karşılığı: hafta içi
+WORKWEEKS	(ad) çoğul çekimi: workweek
+WORLD	(ad) dünya: üstünde yaşadığımız toprak, yeryüzü
+WORLDS	(ad) world sözcüğünün çoğul çekimi: dünya
+WORLDWIDE	(sıfat) worldwide kelimesinin karşılığı: dünya çapında\n(zarf) worldwide kelimesinin karşılığı: bütün dünyada
+WORM	(ad) solucan: bazı omurgasız hayvan türlerinin adı
+WORMED	(worm sözcüğünün çekimi) (ad) solucan: bazı omurgasız hayvan türlerinin adı
+WORMER	(worm sözcüğünün çekimi) (ad) solucan: bazı omurgasız hayvan türlerinin adı
+WORMHOLES	(ad) çoğul çekimi: wormhole
+WORMING	(worm sözcüğünün çekimi) (ad) solucan: bazı omurgasız hayvan türlerinin adı
+WORMS	(ad) worm sözcüğünün çoğul çekimi: solucan\n(eylem) worm sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: solucan
+WORMWOOD	(ad) pelin: Birleşikgillerden, yapraklarında ve öteki bölümlerinde çok acı, kokulu bir madde bulunan, hekimlikte kullanılan çok yıllık ve otsu bir bitki; pelin otu, acı pelin, akpelin (Artemisia absinthium)
+WORMWOODS	(ad) çoğul çekimi: wormwood
+WORN	(sıfat) yalama: sözünde durmayan (kimse) (ayrıca: aşınmış, yıpranmış)
+WORRIED	(sıfat) endişeli: Tasalı, kaygılı; kuşkulu, korkulu
+WORRIERS	(ad) çoğul çekimi: worrier
+WORRIES	(ad) worry sözcüğünün çoğul çekimi: kaygı
+WORRIMENTS	(ad) çoğul çekimi: worriment
+WORRY	(ad) worry kelimesinin karşılığı: ⟪kaygı|KAYGI⟫\n(eylem) endişelenmek: Tasalanmak, kaygılanmak.
+WORRYING	(worry sözcüğünün çekimi) (ad) worry kelimesinin karşılığı: ⟪kaygı|KAYGI⟫
+WORRYWARTS	(ad) çoğul çekimi: worrywart
+WORSE	(sıfat) daha kötü, daha düşük seviyeden.
+WORSEN	(eylem) bozulmak: Dağılmak, bozguna uğramak. (ayrıca: kötüleşmek)
+WORSENED	(worsen sözcüğünün çekimi) (eylem) bozulmak: Dağılmak, bozguna uğramak. (ayrıca: kötüleşmek)
+WORSENING	(ad) worsening kelimesinin karşılığı: ⟪kötüleşme|KÖTÜLEŞME⟫
+WORSENS	(worsen sözcüğünün çekimi) (eylem) bozulmak: Dağılmak, bozguna uğramak. (ayrıca: kötüleşmek)
+WORSER	(worse sözcüğünün çekimi) (sıfat) daha kötü, daha düşük seviyeden.
+WORSES	(worse sözcüğünün çekimi) (sıfat) daha kötü, daha düşük seviyeden.
+WORSHIP	(eylem) worship kelimesinin karşılığı: ibadet etmek
+WORSHIPED	(worship sözcüğünün çekimi) (eylem) worship kelimesinin karşılığı: ibadet etmek
+WORSHIPERS	(ad) çoğul çekimi: worshiper
+WORSHIPING	(worship sözcüğünün çekimi) (eylem) worship kelimesinin karşılığı: ibadet etmek
+WORSHIPPED	(worship sözcüğünün çekimi) (eylem) worship kelimesinin karşılığı: ibadet etmek
+WORSHIPPER	(ad) ibadet eden kimse.
+WORSHIPPERS	(ad) çoğul çekimi: worshipper
+WORSHIPPING	(worship sözcüğünün çekimi) (eylem) worship kelimesinin karşılığı: ibadet etmek
+WORSHIPS	(ad) çoğul çekimi: worship
+WORST	(sıfat) worst kelimesinin karşılığı: en kötü
+WORSTED	(worst sözcüğünün çekimi) (sıfat) worst kelimesinin karşılığı: en kötü
+WORSTEDS	(ad) çoğul çekimi: worsted
+WORSTING	(worst sözcüğünün çekimi) (sıfat) worst kelimesinin karşılığı: en kötü
+WORSTS	(ad) çoğul çekimi: worst
+WORTH	(ad) değer: Bir şeyin önemini belirlemeye yarayan soyut ölçü, bir şeyin değdiği karşılık; fehamet, [[kadir]. kıymet. (ayrıca: kıymet)
+WORTHED	(worth sözcüğünün çekimi) (ad) değer: Bir şeyin önemini belirlemeye yarayan soyut ölçü, bir şeyin değdiği karşılık; fehamet, [[kadir]. kıymet....
+WORTHIER	(worthy sözcüğünün çekimi) (sıfat) layık: bir kimseye uygun olan yaraşan
+WORTHIES	(ad) çoğul çekimi: worthy
+WORTHIEST	(worthy sözcüğünün çekimi) (sıfat) layık: bir kimseye uygun olan yaraşan
+WORTHING	(worth sözcüğünün çekimi) (ad) değer: Bir şeyin önemini belirlemeye yarayan soyut ölçü, bir şeyin değdiği karşılık; fehamet, [[kadir]. kıymet....
+WORTHLESS	(sıfat) değersiz: değeri olmayan veya değeri çok az olan, önemsiz, kıymetsiz, naçiz
+WORTHLESSNESS	(ad) değersizlik: değersiz olma durumu, değer düşümü, kıymetsizlik (ayrıca: değer düşümü, kıymetsizlik)
+WORTHLESSNESSES	(worthlessness sözcüğünün çekimi) (ad) değersizlik: değersiz olma durumu, değer düşümü, kıymetsizlik (ayrıca: değer düşümü, kıymetsizlik)
+WORTHS	(ad) çoğul çekimi: worth
+WORTHY	(sıfat) layık: bir kimseye uygun olan yaraşan
+WORTS	(ad) çoğul çekimi: wort
+WOULD	(eylem) would kelimesinin karşılığı: we sat on the bench
+WOULDEST	(would sözcüğünün çekimi) (eylem) would kelimesinin karşılığı: we sat on the bench
+WOUND	(ad) wound kelimesinin karşılığı: ⟪yara|YARA⟫, cerahat\n(eylem) yaralamak: silah, bıçak vb. bir araçla yara açmak
+WOUNDED	(sıfat) yaralı: Yaralanmış, yarası bulunan kişi.
+WOUNDING	(wound sözcüğünün çekimi) (ad) wound kelimesinin karşılığı: ⟪yara|YARA⟫, cerahat
+WOUNDS	(ad) wound sözcüğünün çoğul çekimi: yara, cerahat
+WOVE	(weave sözcüğünün çekimi) (ad) weave kelimesinin karşılığı: ⟪örgü|ÖRGÜ⟫
+WOVEN	(weave sözcüğünün çekimi) (ad) weave kelimesinin karşılığı: ⟪örgü|ÖRGÜ⟫
+WOVENS	(weave sözcüğünün çekimi) (ad) weave kelimesinin karşılığı: ⟪örgü|ÖRGÜ⟫
+WRACKS	(ad) çoğul çekimi: wrack
+WRAITHS	(ad) çoğul çekimi: wraith
+WRANGLES	(ad) çoğul çekimi: wrangle
+WRAP	(eylem) paketlemek: bir veya birkaç şeyi kâğıda sararak, kutuya koyarak bağlamak (ayrıca: sarmak)
+WRAPAROUNDS	(ad) çoğul çekimi: wraparound
+WRAPPED	(wrap sözcüğünün çekimi) (eylem) paketlemek: bir veya birkaç şeyi kâğıda sararak, kutuya koyarak bağlamak (ayrıca: sarmak)
+WRAPPER	(ad) wrapper kelimesinin karşılığı: ⟪zarf|ZARF⟫
+WRAPPERS	(ad) çoğul çekimi: wrapper
+WRAPPING	(wrap sözcüğünün çekimi) (eylem) paketlemek: bir veya birkaç şeyi kâğıda sararak, kutuya koyarak bağlamak (ayrıca: sarmak)
+WRAPPINGS	(ad) çoğul çekimi: wrapping
+WRAPS	(ad) çoğul çekimi: wrap
+WRATH	(ad) gayz: öfke, hınç
+WRATHED	(wrath sözcüğünün çekimi) (ad) gayz: öfke, hınç
+WRATHING	(wrath sözcüğünün çekimi) (ad) gayz: öfke, hınç
+WRATHS	(ad) çoğul çekimi: wrath
+WREATH	(ad) taç: Çiçeğin dıştan ikinci halkasında bulunan yaprakların hepsi. (ayrıca: çelenk, halka)
+WREATHS	(ad) çoğul çekimi: wreath
+WRECK	(eylem) wreck kelimesinin karşılığı: ⟪yıkmak|YIKMAK⟫, tahrip etmek, zarar vermek, ⟪baltalamak|BALTALAMAK⟫\n(ad) enkaz: yıkıntı, döküntü, çöküntü (ayrıca: hurda)
+WRECKED	(wreck sözcüğünün çekimi) (eylem) wreck kelimesinin karşılığı: ⟪yıkmak|YIKMAK⟫, tahrip etmek, zarar vermek, ⟪baltalamak|BALTALAMAK⟫
+WRECKER	(ad) wrecker kelimesinin karşılığı: ⟪yıkıcı|YIKICI⟫, vandal, ⟪baltalayıcı|BALTALAYICI⟫
+WRECKERS	(wrecker sözcüğünün çekimi) (ad) wrecker kelimesinin karşılığı: ⟪yıkıcı|YIKICI⟫, vandal, ⟪baltalayıcı|BALTALAYICI⟫
+WRECKING	(wreck sözcüğünün çekimi) (eylem) wreck kelimesinin karşılığı: ⟪yıkmak|YIKMAK⟫, tahrip etmek, zarar vermek, ⟪baltalamak|BALTALAMAK⟫
+WRECKINGS	(wreck sözcüğünün çekimi) (eylem) wreck kelimesinin karşılığı: ⟪yıkmak|YIKMAK⟫, tahrip etmek, zarar vermek, ⟪baltalamak|BALTALAMAK⟫
+WRECKS	(ad) çoğul çekimi: wreck
+WREN	(ad) wren kelimesinin karşılığı: çalıkuşu
+WRENCH	(ad) wrench kelimesinin karşılığı: ⟪anahtar|ANAHTAR⟫, somun anahtarı, ingiliz anahtarı
+WRENCHED	(wrench sözcüğünün çekimi) (ad) wrench kelimesinin karşılığı: ⟪anahtar|ANAHTAR⟫, somun anahtarı, ingiliz anahtarı
+WRENCHES	(ad) çoğul çekimi: wrench
+WRENCHING	(wrench sözcüğünün çekimi) (ad) wrench kelimesinin karşılığı: ⟪anahtar|ANAHTAR⟫, somun anahtarı, ingiliz anahtarı
+WRENS	(ad) çoğul çekimi: wren
+WRESTLE	(eylem) güreşmek: Türlü oyunlarla birbirinin sırtını yere getirmeye çalışmak (iki kişi)
+WRESTLED	(wrestle sözcüğünün çekimi) (eylem) güreşmek: Türlü oyunlarla birbirinin sırtını yere getirmeye çalışmak (iki kişi)
+WRESTLER	(ad) pehlivan: güreşçi. (ayrıca: güreşçi)
+WRESTLERS	(ad) wrestler sözcüğünün çoğul çekimi: güreşçi, pehlivan
+WRESTLES	(ad) çoğul çekimi: wrestle
+WRESTLING	(ad) güreş: Belli kurallar içinde, güç kullanarak iki kişinin türlü oyunlarla birbirinin sırtını yere getirmeye çalışması.
+WRESTLINGS	(wrestle sözcüğünün çekimi) (eylem) güreşmek: Türlü oyunlarla birbirinin sırtını yere getirmeye çalışmak (iki kişi)
+WRETCHED	(sıfat) wretched kelimesinin karşılığı: çok kötü, çok rahatsız
+WRETCHEDER	(wretched sözcüğünün çekimi) (sıfat) wretched kelimesinin karşılığı: çok kötü, çok rahatsız
+WRETCHEDEST	(wretched sözcüğünün çekimi) (sıfat) wretched kelimesinin karşılığı: çok kötü, çok rahatsız
+WRETCHES	(ad) çoğul çekimi: wretch
+WRIED	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRIER	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRIES	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRIEST	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRIGGLERS	(ad) çoğul çekimi: wriggler
+WRIGGLES	(ad) çoğul çekimi: wriggle
+WRIGHTS	(ad) çoğul çekimi: wright
+WRING	(eylem) burmak: Bir şeyi iki ucundan tutup ekseni etrafında ters yönlere çevirerek bükmek. (ayrıca: bükmek)
+WRINGED	(wring sözcüğünün çekimi) (eylem) burmak: Bir şeyi iki ucundan tutup ekseni etrafında ters yönlere çevirerek bükmek. (ayrıca: bükmek)
+WRINGING	(wring sözcüğünün çekimi) (eylem) burmak: Bir şeyi iki ucundan tutup ekseni etrafında ters yönlere çevirerek bükmek. (ayrıca: bükmek)
+WRINGS	(ad) çoğul çekimi: wring
+WRINKLE	(ad) wrinkle kelimesinin karşılığı: ⟪kırışık|KIRIŞIK⟫, ⟪kırışıklık|KIRIŞIKLIK⟫, ⟪buruşma|BURUŞMA⟫\n(eylem) wrinkle kelimesinin karşılığı: ⟪kırışmak|KIRIŞMAK⟫, ⟪buruşturmak|BURUŞTURMAK⟫
+WRINKLED	(wrinkle sözcüğünün çekimi) (ad) wrinkle kelimesinin karşılığı: ⟪kırışık|KIRIŞIK⟫, ⟪kırışıklık|KIRIŞIKLIK⟫, ⟪buruşma|BURUŞMA⟫
+WRINKLES	(ad) wrinkle sözcüğünün çoğul çekimi: kırışık; kırışıklık; buruşma
+WRINKLING	(wrinkle sözcüğünün çekimi) (ad) wrinkle kelimesinin karşılığı: ⟪kırışık|KIRIŞIK⟫, ⟪kırışıklık|KIRIŞIKLIK⟫, ⟪buruşma|BURUŞMA⟫
+WRIST	(ad) bilek: Elle kolun, ayakla bacağın birleştiği bölüm.
+WRISTBANDS	(ad) çoğul çekimi: wristband
+WRISTS	(ad) çoğul çekimi: wrist
+WRISTWATCH	(ad) wristwatch kelimesinin karşılığı: kol saati
+WRISTWATCHES	(ad) çoğul çekimi: wristwatch
+WRITE	(eylem) yazmak: yazı ile anlatmak, yazıya dökmek
+WRITER	(ad) yazar: bilim, edebiyat, sanat alanlarında kitap yazan veya kitap hazırlayan, bir eseri ortaya koyan ve eserin sahibi olan kişi, müellif
+WRITERLY	(writer sözcüğünün çekimi) (ad) yazar: bilim, edebiyat, sanat alanlarında kitap yazan veya kitap hazırlayan, bir eseri ortaya koyan ve eserin...
+WRITERS	(ad) writer sözcüğünün çoğul çekimi: yazar
+WRITES	(eylem) write sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yazmak\n(ad) write sözcüğünün çoğul çekimi: yazmak
+WRITHE	(eylem) kıvranmak: Ağrı, sancı gibi fiziksel veya korku, heyecan gibi ruhî sebeplerle vücut eğilip bükülmek (ayrıca: acıyla kıvranmak)
+WRITHED	(writhe sözcüğünün çekimi) (eylem) kıvranmak: Ağrı, sancı gibi fiziksel veya korku, heyecan gibi ruhî sebeplerle vücut eğilip bükülmek (ayrıca:...
+WRITHER	(writhe sözcüğünün çekimi) (eylem) kıvranmak: Ağrı, sancı gibi fiziksel veya korku, heyecan gibi ruhî sebeplerle vücut eğilip bükülmek (ayrıca:...
+WRITHES	(ad) çoğul çekimi: writhe
+WRITHING	(writhe sözcüğünün çekimi) (eylem) kıvranmak: Ağrı, sancı gibi fiziksel veya korku, heyecan gibi ruhî sebeplerle vücut eğilip bükülmek (ayrıca:...
+WRITING	(ad) yazı: Herhangi bir konuda yazılmış bilim, düşünce ve sanat ürünü.
+WRITINGS	(ad) çoğul çekimi: writing
+WRITS	(ad) çoğul çekimi: writ
+WRITTEN	(sıfat) written kelimesinin karşılığı: ⟪yazınsal|YAZINSAL⟫, ⟪edebî|EDEBİ⟫
+WRONG	(ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata\n(eylem) wrong kelimesinin karşılığı: haksızlık etmek
+WRONGDOERS	(ad) çoğul çekimi: wrongdoer
+WRONGDOINGS	(ad) çoğul çekimi: wrongdoing
+WRONGED	(wrong sözcüğünün çekimi) (ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata
+WRONGER	(wrong sözcüğünün çekimi) (ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata
+WRONGERS	(wrong sözcüğünün çekimi) (ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata
+WRONGEST	(wrong sözcüğünün çekimi) (ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata
+WRONGFUL	(sıfat) haksız: hak ve adalete uygun olmayan (ayrıca: hatalı)
+WRONGING	(wrong sözcüğünün çekimi) (ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata
+WRONGLY	(zarf) yanlışlıkla: yanılarak, bilmeyerek, sehven (ayrıca: sehven)
+WRONGS	(ad) çoğul çekimi: wrong
+WROTE	(write sözcüğünün çekimi) (eylem) yazmak: yazı ile anlatmak, yazıya dökmek
+WROUGHT	(work sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak
+WRUNG	(wring sözcüğünün çekimi) (eylem) burmak: Bir şeyi iki ucundan tutup ekseni etrafında ters yönlere çevirerek bükmek. (ayrıca: bükmek)
+WRY	(sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRYER	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRYEST	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRYING	(wry sözcüğünün çekimi) (sıfat) kuru ve alaycı bir espri anlayışı sergileyen, ironik
+WRYNECK	(ad) wryneck kelimesinin karşılığı: ⟪boyunburan|BOYUNBURAN⟫, bayağı boyunburan
+WRYNECKS	(wryneck sözcüğünün çekimi) (ad) wryneck kelimesinin karşılığı: ⟪boyunburan|BOYUNBURAN⟫, bayağı boyunburan
+WUSSES	(ad) çoğul çekimi: wuss
+WYES	(ad) çoğul çekimi: wye
+WYNDS	(ad) çoğul çekimi: wynd
+WYTES	(ad) çoğul çekimi: wyte
+WYVERN	(ad) iki bacaklı ve kanatlı, ejderhaya benzeyen efsane hayvanı
+WYVERNS	(wyvern sözcüğünün çekimi) (ad) iki bacaklı ve kanatlı, ejderhaya benzeyen efsane hayvanı
