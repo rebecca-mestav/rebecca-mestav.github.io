@@ -1,0 +1,960 @@
+OAF	(ad) sersem: düşünmeden hareket eden, ne yaptığının farkında olmayan (ayrıca: budala, hödük)
+OAFS	(ad) çoğul çekimi: oaf
+OAK	(ad) meşe: Bu ağaçtan yapılan.
+OAKS	(ad) çoğul çekimi: oak
+OAKUM	(ad) oakum kelimesinin karşılığı: ⟪üstüpü|ÜSTÜPÜ⟫
+OAKUMS	(ad) oakum sözcüğünün çoğul çekimi: üstüpü
+OAR	(ad) kürek: küçük deniz teknelerini yürütmeye yarayan, bir ucu yassı, uzun ağaç alet (ayrıca: kayık küreği)\n(eylem) oar kelimesinin karşılığı: kürek çekmek
+OARING	(oar sözcüğünün çekimi) (ad) kürek: küçük deniz teknelerini yürütmeye yarayan, bir ucu yassı, uzun ağaç alet (ayrıca: kayık küreği)
+OARLOCKS	(ad) çoğul çekimi: oarlock
+OARS	(ad) çoğul çekimi: oar
+OARSMAN	(ad) oarsman kelimesinin karşılığı: ⟪kürekçi|KÜREKÇİ⟫
+OARSMEN	(ad) çoğul çekimi: oarsman
+OASES	(ad) çoğul çekimi: oasis
+OASIS	(ad) vaha: çöllerde çoğu kez yüze çıkan yer altı sularının yarattığı ve önemi suyun niceliğine bağlı olarak değişen tarım veya yerleşme bölgesi
+OASTS	(ad) çoğul çekimi: oast
+OAT	(ad) oat kelimesinin karşılığı: ⟪yulaf|YULAF⟫
+OATCAKES	(ad) çoğul çekimi: oatcake
+OATH	(ad) oath kelimesinin karşılığı: ⟪ant|ANT⟫, ⟪yemin|YEMİN⟫
+OATHS	(ad) çoğul çekimi: oath
+OATS	(ad) çoğul çekimi: oat
+OAVES	(oaf sözcüğünün çekimi) (ad) sersem: düşünmeden hareket eden, ne yaptığının farkında olmayan (ayrıca: budala, hödük)
+OBBLIGATOS	(ad) çoğul çekimi: obbligato
+OBDURATE	(sıfat) sert: Hırçın, öfkeli, hiddetli olan. (ayrıca: inatçı, boyun eğmez)
+OBEAHS	(ad) çoğul çekimi: obeah
+OBEDIENCE	(ad) obedience kelimesinin karşılığı: ⟪itaat|İTAAT⟫
+OBEDIENCES	(obedience sözcüğünün çekimi) (ad) obedience kelimesinin karşılığı: ⟪itaat|İTAAT⟫
+OBEDIENT	(sıfat) obedient kelimesinin karşılığı: ⟪itaatkâr|İTAATKAR⟫
+OBEISANCES	(ad) çoğul çekimi: obeisance
+OBELISKS	(ad) çoğul çekimi: obelisk
+OBESITIES	(obesity sözcüğünün çekimi) (ad) obezite: biriken fazla vücut yağının sağlık üzerinde olumsuz bir etkisi olabilecek seviyede çok olması nedeniyle...
+OBESITY	(ad) obezite: biriken fazla vücut yağının sağlık üzerinde olumsuz bir etkisi olabilecek seviyede çok olması nedeniyle oluşan tıbbi bir durumdur, çok şişmanlık
+OBEY	(eylem) obey kelimesinin karşılığı: itaat etmek
+OBEYED	(eylem) obey sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: itaat etmek
+OBEYING	(eylem) obey sözcüğünün şimdiki zaman ortaç ve gerund çekimi: itaat etmek
+OBEYS	(eylem) obey sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: itaat etmek
+OBFUSCATE	(sıfat) gizlemek; örtmek; anlaşılmaz veya bilinmez hale getirmek; muğlak hale getirmek; bulandırmak
+OBFUSCATED	(obfuscate sözcüğünün çekimi) (sıfat) gizlemek; örtmek; anlaşılmaz veya bilinmez hale getirmek; muğlak hale getirmek; bulandırmak
+OBFUSCATES	(obfuscate sözcüğünün çekimi) (sıfat) gizlemek; örtmek; anlaşılmaz veya bilinmez hale getirmek; muğlak hale getirmek; bulandırmak
+OBFUSCATING	(obfuscate sözcüğünün çekimi) (sıfat) gizlemek; örtmek; anlaşılmaz veya bilinmez hale getirmek; muğlak hale getirmek; bulandırmak
+OBFUSCATION	(ad) obfuscation kelimesinin karşılığı: ⟪gizleme|GİZLEME⟫, perde çekme
+OBFUSCATIONS	(obfuscation sözcüğünün çekimi) (ad) obfuscation kelimesinin karşılığı: ⟪gizleme|GİZLEME⟫, perde çekme
+OBIS	(ad) çoğul çekimi: obi
+OBITS	(ad) çoğul çekimi: obit
+OBITUARIES	(ad) çoğul çekimi: obituary
+OBITUARY	(ad) ölüm ilanı; vefat eden kişi için yaşamı hakkında kısa bir yazıyla beraber verilen gazete ilanı
+OBJECT	(ad) object kelimesinin karşılığı: ⟪amaç|AMAÇ⟫, ⟪gaye|GAYE⟫, ⟪hedef|HEDEF⟫
+OBJECTED	(eylem) object sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: amaç, gaye, hedef
+OBJECTING	(object sözcüğünün çekimi) (ad) object kelimesinin karşılığı: ⟪amaç|AMAÇ⟫, ⟪gaye|GAYE⟫, ⟪hedef|HEDEF⟫
+OBJECTION	(ad) objection kelimesinin karşılığı: ⟪itiraz|İTİRAZ⟫
+OBJECTIONS	(ad) objection sözcüğünün çoğul çekimi: itiraz.
+OBJECTIVE	(ad) objective kelimesinin karşılığı: ⟪objektif|OBJEKTİF⟫\n(sıfat) bir yargıya varırken şahsi duygu ve düşüncelerinden etkilenmeyen, tarafsız, nesnel, objektif
+OBJECTIVES	(ad) objectives kelimesinin karşılığı: ⟪amaçlar|AMAÇLAR⟫
+OBJECTIVITIES	(objectivity sözcüğünün çekimi) (ad) nesnellik: yaygın olarak her tür öznel etki ve öğelerden bağımsız olabilme durumunu ifade etmek icin kullanılan...
+OBJECTIVITY	(ad) nesnellik: yaygın olarak her tür öznel etki ve öğelerden bağımsız olabilme durumunu ifade etmek icin kullanılan terim, nesnel olma veya nesnelerin gerçeğine dayanma durumu, afakilik, objektiflik, objektivite (ayrıca: afakilik, objektiflik)
+OBJECTLESS	(ad) nesnesiz: belli bir nesneye dayanmayan ruhsal durum
+OBJECTORS	(ad) çoğul çekimi: objector
+OBJECTS	(ad) object sözcüğünün çoğul çekimi: amaç, gaye, hedef\n(eylem) object sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: amaç, gaye, hedef
+OBLATES	(ad) çoğul çekimi: oblate
+OBLIGATED	(eylem) obligate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+OBLIGATION	(ad) mecburiyet: yükümlülük (ayrıca: zorunluluk)
+OBLIGATIONS	(ad) obligation sözcüğünün çoğul çekimi: mecburiyet, zorunluluk
+OBLIGATORY	(sıfat) obligatory kelimesinin karşılığı: ⟪zorunlu|ZORUNLU⟫
+OBLIGATOS	(ad) çoğul çekimi: obbligato
+OBLIGEE	(sıfat) alacaklı: birinden alacağı olan, borçlu ve verecekli karşıtı
+OBLIGER	(ad) obliger kelimesinin karşılığı: ⟪zorlayıcı|ZORLAYICI⟫
+OBLIGERS	(obliger sözcüğünün çekimi) (ad) obliger kelimesinin karşılığı: ⟪zorlayıcı|ZORLAYICI⟫
+OBLIQUE	(ad) oblique kelimesinin karşılığı: ‚/‘ işareti\n(eylem) oblique kelimesinin karşılığı: ⟪eğmek|EĞMEK⟫
+OBLIQUED	(oblique sözcüğünün çekimi) (ad) oblique kelimesinin karşılığı: ‚/‘ işareti
+OBLIQUES	(ad) taksimler (oblique): ‚/‘ işareti
+OBLIQUING	(oblique sözcüğünün çekimi) (ad) oblique kelimesinin karşılığı: ‚/‘ işareti
+OBLIQUITIES	(obliquity sözcüğünün çekimi) (ad) obliquity kelimesinin karşılığı: eğri. eğim
+OBLIQUITY	(ad) obliquity kelimesinin karşılığı: eğri. eğim
+OBLITERATED	(eylem) obliterate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+OBLITERATION	(ad) obliteration kelimesinin karşılığı: yok etme, ⟪imha|İMHA⟫, ⟪silme|SİLME⟫
+OBLITERATIONS	(obliteration sözcüğünün çekimi) (ad) obliteration kelimesinin karşılığı: yok etme, ⟪imha|İMHA⟫, ⟪silme|SİLME⟫
+OBLIVION	(ad) unutma: Unutmak durumu (ayrıca: farkında olmama, nisyan)
+OBLIVIONS	(oblivion sözcüğünün çekimi) (ad) unutma: Unutmak durumu (ayrıca: farkında olmama, nisyan)
+OBLIVIOUS	(sıfat) dikkatsiz: işinde dikkatli davranmayan, dalgın, savruk, özensiz
+OBLIVIOUSLY	(oblivious sözcüğünün çekimi) (sıfat) dikkatsiz: işinde dikkatli davranmayan, dalgın, savruk, özensiz
+OBLOQUIES	(ad) çoğul çekimi: obloquy
+OBLOQUY	(ad) obloquy kelimesinin karşılığı: ⟪kötüleme|KÖTÜLEME⟫, ⟪iftira|İFTİRA⟫, ⟪ayıplama|AYIPLAMA⟫
+OBNOXIOUS	(sıfat) iğrenç, son derece rahatsız edici
+OBOES	(ad) çoğul çekimi: oboe
+OBOISTS	(ad) çoğul çekimi: oboist
+OBSCENITIES	(ad) çoğul çekimi: obscenity
+OBSCURANTISM	(ad) obscurantism kelimesinin karşılığı: bilmesinlercilik
+OBSCURANTISMS	(obscurantism sözcüğünün çekimi) (ad) obscurantism kelimesinin karşılığı: bilmesinlercilik
+OBSCURE	(sıfat) obscure kelimesinin karşılığı: ⟪meçhul|MEÇHUL⟫
+OBSCURED	(obscure sözcüğünün çekimi) (sıfat) obscure kelimesinin karşılığı: ⟪meçhul|MEÇHUL⟫
+OBSCURER	(obscure sözcüğünün çekimi) (sıfat) obscure kelimesinin karşılığı: ⟪meçhul|MEÇHUL⟫
+OBSCURES	(obscure sözcüğünün çekimi) (sıfat) obscure kelimesinin karşılığı: ⟪meçhul|MEÇHUL⟫
+OBSCUREST	(obscure sözcüğünün çekimi) (sıfat) obscure kelimesinin karşılığı: ⟪meçhul|MEÇHUL⟫
+OBSCURING	(obscure sözcüğünün çekimi) (sıfat) obscure kelimesinin karşılığı: ⟪meçhul|MEÇHUL⟫
+OBSEQUIES	(ad) çoğul çekimi: obsequy
+OBSEQUIOUS	(sıfat) şakşakçı: Para karşılığında alkış tutan kimse; goygoycu. (ayrıca: yaltakçı, yağcı)
+OBSERVABLES	(ad) çoğul çekimi: observable
+OBSERVATION	(ad) gözlem: bir nesnenin, olayın veya bir gerçeğin, niteliklerinin bilinmesi amacıyla, dikkatli ve planlı olarak ele alınıp incelenmesi, müşahede
+OBSERVATIONS	(ad) observation sözcüğünün çoğul çekimi: gözlem
+OBSERVATORIES	(ad) observatories kelimesinin karşılığı: rasathaneler
+OBSERVATORY	(ad) rasathane: gök cisimlerini ve olaylarını rasat ederek inceleyen yer, gözlemevi, observatuvar
+OBSERVE	(eylem) gözetlemek: Birine veya bir şeye gizlice bakmak; dikizlemek
+OBSERVED	(observe sözcüğünün çekimi) (eylem) gözetlemek: Birine veya bir şeye gizlice bakmak; dikizlemek
+OBSERVER	(ad) gözcü: Gözlemek veya gözetlemek işini yapan kimse; dideban. (ayrıca: gözlemci, gözetmen)
+OBSERVERS	(ad) çoğul çekimi: observer
+OBSERVES	(observe sözcüğünün çekimi) (eylem) gözetlemek: Birine veya bir şeye gizlice bakmak; dikizlemek
+OBSERVING	(ad) gözleme: Gözlemek işi. (ayrıca: gözlememe)
+OBSESSION	(ad) obsesyon: İstenmeyen kontrol edilmeyen,tekrarlayıcı,mantıksız ve anlamsız görünmesine rağmen zihinden uzaklaştırılmayan takıntılı düşünce, imge ve dürtüler (ayrıca: takıntı)
+OBSESSIONS	(obsession sözcüğünün çekimi) (ad) obsesyon: İstenmeyen kontrol edilmeyen,tekrarlayıcı,mantıksız ve anlamsız görünmesine rağmen zihinden...
+OBSESSIVE	(sıfat) takıntılı: Takıntısı olan (ayrıca: obsesif)
+OBSESSIVELY	(zarf) takıntılı bir şekilde
+OBSESSIVENESS	(ad) obsessiveness kelimesinin karşılığı: takıntılılık, obsesiflik
+OBSESSIVENESSES	(obsessiveness sözcüğünün çekimi) (ad) obsessiveness kelimesinin karşılığı: takıntılılık, obsesiflik
+OBSESSIVES	(obsessive sözcüğünün çekimi) (sıfat) takıntılı: Takıntısı olan (ayrıca: obsesif)
+OBSIDIAN	(ad) obsidyen: obsidiyen kavramının farklı yazılışı (ayrıca: obsidiyen)
+OBSIDIANS	(obsidian sözcüğünün çekimi) (ad) obsidyen: obsidiyen kavramının farklı yazılışı (ayrıca: obsidiyen)
+OBSOLESCENCES	(ad) çoğul çekimi: obsolescence
+OBSOLETE	(sıfat) eskimiş: eski olma
+OBSOLETED	(obsolete sözcüğünün çekimi) (sıfat) eskimiş: eski olma
+OBSOLETES	(obsolete sözcüğünün çekimi) (sıfat) eskimiş: eski olma
+OBSOLETING	(obsolete sözcüğünün çekimi) (sıfat) eskimiş: eski olma
+OBSTACLE	(ad) engel: bir şeyin gerçekleşmesini önleyen sebep, mâni, mahzur, müşkül, pürüz, mânia, handikap, beis
+OBSTACLES	(ad) obstacle sözcüğünün çoğul çekimi: engel
+OBSTETRICIANS	(ad) çoğul çekimi: obstetrician
+OBSTINACIES	(obstinacy sözcüğünün çekimi) (ad) inatçılık: inatçı olma durumu, direngenlik, anutluk, muannitlik (ayrıca: inat, dikbaşlılık)
+OBSTINACY	(ad) inatçılık: inatçı olma durumu, direngenlik, anutluk, muannitlik (ayrıca: inat, dikbaşlılık)
+OBSTINATE	(sıfat) obstinate kelimesinin karşılığı: ⟪inatçı|İNATÇI⟫, dik başlı
+OBSTRUCT	(eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUCTED	(obstruct sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUCTING	(obstruct sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUCTIVE	(sıfat) obstrüktif: engelleyici, kapatıcı, tıkayıcı
+OBSTRUCTIVES	(obstructive sözcüğünün çekimi) (sıfat) obstrüktif: engelleyici, kapatıcı, tıkayıcı
+OBSTRUCTS	(obstruct sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBTAIN	(eylem) kazanmak: edinmek, sahip olmak (ayrıca: düşmek, edinmek)
+OBTAINED	(obtain sözcüğünün çekimi) (eylem) kazanmak: edinmek, sahip olmak (ayrıca: düşmek, edinmek)
+OBTAINING	(obtain sözcüğünün çekimi) (eylem) kazanmak: edinmek, sahip olmak (ayrıca: düşmek, edinmek)
+OBTAINS	(obtain sözcüğünün çekimi) (eylem) kazanmak: edinmek, sahip olmak (ayrıca: düşmek, edinmek)
+OBTRUSIONS	(ad) çoğul çekimi: obtrusion
+OBTUSE	(sıfat) Zekice olmayan şekilde.
+OBTUSER	(obtuse sözcüğünün çekimi) (sıfat) Zekice olmayan şekilde.
+OBTUSEST	(obtuse sözcüğünün çekimi) (sıfat) Zekice olmayan şekilde.
+OBVERSES	(ad) çoğul çekimi: obverse
+OBVIATE	(ad) özne dışı üçüncü kişi
+OBVIATED	(obviate sözcüğünün çekimi) (ad) özne dışı üçüncü kişi
+OBVIATES	(obviate sözcüğünün çekimi) (ad) özne dışı üçüncü kişi
+OBVIATING	(obviate sözcüğünün çekimi) (ad) özne dışı üçüncü kişi
+OBVIOUS	(sıfat) bariz: açık, göze çarpan, belirgin (ayrıca: belirgin, belli)
+OBVIOUSLY	(zarf) açıkça, belirgin bir şekilde, besbelli, apaçık
+OCARINAS	(ad) çoğul çekimi: ocarina
+OCCASION	(ad) fırsat: herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon\n(eylem) occasion kelimesinin karşılığı: yol açmak, sebep olmak
+OCCASIONALLY	(zarf) occasionally kelimesinin karşılığı: ara sıra
+OCCASIONED	(occasion sözcüğünün çekimi) (ad) fırsat: herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+OCCASIONING	(occasion sözcüğünün çekimi) (ad) fırsat: herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+OCCASIONS	(ad) occasion sözcüğünün çoğul çekimi: fırsat
+OCCIPITA	(occiput sözcüğünün çekimi) (ad) artkafa: kafanın arkası
+OCCIPUT	(ad) artkafa: kafanın arkası
+OCCIPUTS	(occiput sözcüğünün çekimi) (ad) artkafa: kafanın arkası
+OCCLUSIVE	(ad) occlusive kelimesinin karşılığı: kapantılı
+OCCULT	(ad) Doğaüstü, mistik ya da sihirli güç, faaliyet veya fenomen, okült\n(sıfat) Doğaüstü, mistik ya da sihirli güçlerle ilgili
+OCCULTATIONS	(ad) çoğul çekimi: occultation
+OCCULTED	(occult sözcüğünün çekimi) (ad) Doğaüstü, mistik ya da sihirli güç, faaliyet veya fenomen, okült
+OCCULTER	(occult sözcüğünün çekimi) (ad) Doğaüstü, mistik ya da sihirli güç, faaliyet veya fenomen, okült
+OCCULTING	(occult sözcüğünün çekimi) (ad) Doğaüstü, mistik ya da sihirli güç, faaliyet veya fenomen, okült
+OCCULTISMS	(ad) çoğul çekimi: occultism
+OCCULTISTS	(ad) çoğul çekimi: occultist
+OCCULTS	(occult sözcüğünün çekimi) (ad) Doğaüstü, mistik ya da sihirli güç, faaliyet veya fenomen, okült
+OCCUPANCIES	(ad) çoğul çekimi: occupancy
+OCCUPANCY	(eylem) oturmak: bir yerde sürekli olarak kalmak, ikamet etmek
+OCCUPATION	(ad) uğraş: insanın yaptığı veya eğlendiği iş veya meslek, iş güç, meşguliyet (ayrıca: meslek, iş)
+OCCUPATIONS	(occupation sözcüğünün çekimi) (ad) uğraş: insanın yaptığı veya eğlendiği iş veya meslek, iş güç, meşguliyet (ayrıca: meslek, iş)
+OCCUPIED	(sıfat) meşgul: çalışır, kullanılır hâlde olan, dolu
+OCCUPIER	(ad) occupier kelimesinin karşılığı: ⟪işgalci|İŞGALCİ⟫
+OCCUPIERS	(ad) occupier sözcüğünün çoğul çekimi: işgalci
+OCCUPIES	(occupy sözcüğünün çekimi) (eylem) occupy kelimesinin karşılığı: meşgul etmek
+OCCUPY	(eylem) occupy kelimesinin karşılığı: meşgul etmek
+OCCUPYING	(occupy sözcüğünün çekimi) (eylem) occupy kelimesinin karşılığı: meşgul etmek
+OCCURRENCE	(ad) vaka: hadise, olay
+OCCURRENCES	(ad) occurrence sözcüğünün çoğul çekimi: vaka
+OCCURRENTS	(ad) çoğul çekimi: occurrent
+OCEAN	(ad) ocean kelimesinin karşılığı: ana deniz, ⟪okyanus|OKYANUS⟫, ⟪umman|UMMAN⟫
+OCEANFRONTS	(ad) çoğul çekimi: oceanfront
+OCEANIC	(sıfat) oceanic kelimesinin karşılığı: ⟪bahri|BAHRİ⟫
+OCEANOGRAPHERS	(ad) çoğul çekimi: oceanographer
+OCEANOGRAPHIES	(oceanography sözcüğünün çekimi) (ad) okyanus bilimi: Denizleri ve okyanusları inceleyen bilim dalı
+OCEANOGRAPHY	(ad) okyanus bilimi: Denizleri ve okyanusları inceleyen bilim dalı
+OCEANS	(ad) ocean sözcüğünün çoğul çekimi: ana deniz, okyanus, umman
+OCELOT	(ad) oselo: Amerika'ya özgü küçük siyah benekli vahşi kedi.
+OCELOTS	(ocelot sözcüğünün çekimi) (ad) oselo: Amerika'ya özgü küçük siyah benekli vahşi kedi.
+OCHLOCRACIES	(ad) çoğul çekimi: ochlocracy
+OCOTILLOS	(ad) çoğul çekimi: ocotillo
+OCREA	(ad) ocrea kelimesinin karşılığı: ⟪kın|KIN⟫
+OCTADS	(ad) çoğul çekimi: octad
+OCTAGONS	(ad) çoğul çekimi: octagon
+OCTAHEDRA	(ad) çoğul çekimi: octahedron
+OCTAHEDRONS	(ad) çoğul çekimi: octahedron
+OCTAMETERS	(ad) çoğul çekimi: octameter
+OCTANES	(ad) çoğul çekimi: octane
+OCTANS	(ad) çoğul çekimi: octan
+OCTANTS	(ad) çoğul çekimi: octant
+OCTAVES	(ad) çoğul çekimi: octave
+OCTETTES	(ad) çoğul çekimi: octette
+OCTOPI	(ad) çoğul çekimi: octopus
+OCTOPODS	(ad) çoğul çekimi: octopod
+OCTOPUS	(ad) ahtapot: kafadan bacaklılardan, dokunaçlı mürekkep balığı türü
+OCTOPUSES	(ad) çoğul çekimi: octopus
+OCTOROONS	(ad) çoğul çekimi: octoroon
+OCTYLS	(ad) çoğul çekimi: octyl
+OCULAR	(sıfat) ocular kelimesinin karşılığı: ⟪ayni|AYNİ⟫
+OCULARS	(ocular sözcüğünün çekimi) (sıfat) ocular kelimesinin karşılığı: ⟪ayni|AYNİ⟫
+OCULI	(ad) çoğul çekimi: oculus
+OCULISTS	(ad) çoğul çekimi: oculist
+ODD	(sıfat) odd kelimesinin karşılığı: ⟪acayip|ACAYİP⟫, ⟪garip|GARİP⟫
+ODDBALL	(sıfat) garip: kimsesiz, zavallı olan (ayrıca: acayip, tuhaf)
+ODDBALLS	(ad) çoğul çekimi: oddball
+ODDER	(odd sözcüğünün çekimi) (sıfat) odd kelimesinin karşılığı: ⟪acayip|ACAYİP⟫, ⟪garip|GARİP⟫
+ODDEST	(odd sözcüğünün çekimi) (sıfat) odd kelimesinin karşılığı: ⟪acayip|ACAYİP⟫, ⟪garip|GARİP⟫
+ODDITIES	(ad) çoğul çekimi: oddity
+ODDMENTS	(ad) çoğul çekimi: oddment
+ODDS	(ad) çoğul çekimi: odd
+ODE	(ad) ode kelimesinin karşılığı: od
+ODEON	(ad) odeon: eski Yunan'da müzisyenlerin konser verdiği basamaklı yer
+ODEONS	(odeon sözcüğünün çekimi) (ad) odeon: eski Yunan'da müzisyenlerin konser verdiği basamaklı yer
+ODES	(ode sözcüğünün çekimi) (ad) ode kelimesinin karşılığı: od
+ODOMETERS	(ad) çoğul çekimi: odometer
+ODORANTS	(ad) çoğul çekimi: odorant
+ODORLESS	(sıfat) kokusuz: kokusu olmayan
+ODOROUS	(sıfat) kokulu: kokusu olan
+ODOROUSLY	(odorous sözcüğünün çekimi) (sıfat) kokulu: kokusu olan
+ODORS	(ad) çoğul çekimi: odor
+ODOUR	(ad) koku: koku alma duyusuyla hissedilen, genelde çok küçük konsantrasyonlarda havada çözülmüş olarak bulunan kimyasal maddelerden her biridir, nesnelerden yayılan küçücük zerrelerin burun zarı üzerindeki özel sinirlerde uyandırdığı duygu
+ODOURS	(ad) çoğul çekimi: odour
+ODS	(ad) çoğul çekimi: od
+ODYSSEYS	(ad) çoğul çekimi: odyssey
+OEDEMA	(ad) ödem: dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+OEDEMAS	(oedema sözcüğünün çekimi) (ad) ödem: dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+OEDEMATA	(edema sözcüğünün çekimi) (ad) ödem: dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+OESOPHAGI	(ad) çoğul çekimi: oesophagus
+OESOPHAGUS	(ad) oesophagus kelimesinin karşılığı: yemek borusu
+OESTRUSES	(ad) çoğul çekimi: oestrus
+OFF	(zarf) off kelimesinin karşılığı: ⟪uzağa|UZAĞA⟫, ⟪dışına|DIŞINA⟫\n(edat) off kelimesinin karşılığı: ⟪uzağa|UZAĞA⟫, ⟪dışına|DIŞINA⟫
+OFFAL	(sıfat) offal kelimesinin karşılığı: iç
+OFFALS	(offal sözcüğünün çekimi) (sıfat) offal kelimesinin karşılığı: iç
+OFFBEAT	(sıfat) offbeat kelimesinin karşılığı: vurgusuz nota
+OFFBEATS	(ad) çoğul çekimi: offbeat
+OFFED	(off sözcüğünün çekimi) (zarf) off kelimesinin karşılığı: ⟪uzağa|UZAĞA⟫, ⟪dışına|DIŞINA⟫
+OFFENCE	(ad) offence kelimesinin karşılığı: ⟪hata|HATA⟫
+OFFENCES	(ad) çoğul çekimi: offence
+OFFENDERS	(ad) offender sözcüğünün çoğul çekimi
+OFFENSE	(ad) kabahat: uygunsuz hareket, çirkin, yakışıksız davranış
+OFFENSES	(offense sözcüğünün çekimi) (ad) kabahat: uygunsuz hareket, çirkin, yakışıksız davranış
+OFFENSIVE	(sıfat) saldırgan: başkasına saldıran, yapısında saldırma özelliği olan (devlet, kimse, hayvan), agresif, mütecaviz (ayrıca: kırıcı, ofansif)
+OFFENSIVES	(offensive sözcüğünün çekimi) (sıfat) saldırgan: başkasına saldıran, yapısında saldırma özelliği olan (devlet, kimse, hayvan), agresif, mütecaviz...
+OFFER	(ad) offer kelimesinin karşılığı: ⟪teklif|TEKLİF⟫\n(eylem) sunmak: Bir büyüğe veya nezaket gereğince bir kimseye bir şeyi vermek; arz etmek, takdim etmek. (ayrıca: takdim etmek)
+OFFERED	(eylem) offer sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: teklif
+OFFERING	(ad) takdim: tanıtma, tanıştırma (ayrıca: sunma, sunuş)
+OFFERINGS	(ad) çoğul çekimi: offering
+OFFERS	(ad) offer sözcüğünün çoğul çekimi: teklif
+OFFERTORIES	(ad) çoğul çekimi: offertory
+OFFHAND	(zarf) düşüncesizce: düşüncesiz bir biçimde (ayrıca: düşünmeden)
+OFFICE	(ad) ofis: Bir işletmeyi veya hizmeti yönetmek üzere düzenleme faaliyetlerinin yapıldığı alan.
+OFFICEHOLDERS	(ad) çoğul çekimi: officeholder
+OFFICER	(ad) subay: silahlı kuvvetlerde asteğmenden orgeneral veya oramiral kadar rütbedeki asker (ayrıca: zabit)
+OFFICERED	(officer sözcüğünün çekimi) (ad) subay: silahlı kuvvetlerde asteğmenden orgeneral veya oramiral kadar rütbedeki asker (ayrıca: zabit)
+OFFICERING	(officer sözcüğünün çekimi) (ad) subay: silahlı kuvvetlerde asteğmenden orgeneral veya oramiral kadar rütbedeki asker (ayrıca: zabit)
+OFFICERS	(ad) çoğul çekimi: officer
+OFFICES	(ad) office sözcüğünün çoğul çekimi: ofis
+OFFICIAL	(sıfat) official kelimesinin karşılığı: ⟪resmî|RESMİ⟫
+OFFICIALS	(ad) official sözcüğünün çoğul çekimi: resmî
+OFFICIANTS	(ad) çoğul çekimi: officiant
+OFFING	(off sözcüğünün çekimi) (zarf) off kelimesinin karşılığı: ⟪uzağa|UZAĞA⟫, ⟪dışına|DIŞINA⟫
+OFFINGS	(ad) çoğul çekimi: offing
+OFFLOADS	(ad) çoğul çekimi: offload
+OFFPRINTS	(ad) çoğul çekimi: offprint
+OFFS	(off sözcüğünün çekimi) (zarf) off kelimesinin karşılığı: ⟪uzağa|UZAĞA⟫, ⟪dışına|DIŞINA⟫
+OFFSCOURINGS	(ad) çoğul çekimi: offscouring
+OFFSET	(ad) offset kelimesinin karşılığı: ⟪ofset|OFSET⟫\n(eylem) offset kelimesinin karşılığı: ⟪düşmek|DÜŞMEK⟫
+OFFSETS	(ad) çoğul çekimi: offset
+OFFSETTING	(offset sözcüğünün çekimi) (ad) offset kelimesinin karşılığı: ⟪ofset|OFSET⟫
+OFFSHOOTS	(ad) çoğul çekimi: offshoot
+OFFSIDE	(ad) ofsayt: futbolda hücuma geçen takımın en az bir oyuncusunun topla oynandığı anda rakip takımın kale çizgisine, o takımın en yakın oyuncusundan daha yakın bulunması durumu\n(sıfat) ofsayt: futbolda hücuma geçen takımın en az bir oyuncusunun topla oynandığı anda rakip takımın kale çizgisine, o takımın en yakın oyuncusundan daha yakın bulunması durumu
+OFFSIDES	(ad) offside sözcüğünün çoğul çekimi: ofsayt
+OFFSPRING	(ad) döl: canlıların üremesi sonucu ortaya çıkan yeni birey veya bireylerin bütünü, zürriyet, nesil
+OFFSPRINGS	(offspring sözcüğünün çekimi) (ad) döl: canlıların üremesi sonucu ortaya çıkan yeni birey veya bireylerin bütünü, zürriyet, nesil
+OFTEN	(zarf) often kelimesinin karşılığı: çoğu kez
+OFTENEST	(often sözcüğünün çekimi) (zarf) often kelimesinin karşılığı: çoğu kez
+OGEES	(ad) çoğul çekimi: ogee
+OGLES	(ad) çoğul çekimi: ogle
+OHM	(ad) om: Kemiklerin toparlak ucu
+OHMMETERS	(ad) çoğul çekimi: ohmmeter
+OHMS	(ohm sözcüğünün çekimi) (ad) om: Kemiklerin toparlak ucu
+OHS	(ad) çoğul çekimi: oh
+OIL	(ad) yağ: Güzel kokulu bitkilerden çıkarılan uçucu, kokulu ve sıvı madde.
+OILCANS	(ad) çoğul çekimi: oilcan
+OILED	(oil sözcüğünün çekimi) (ad) yağ: Güzel kokulu bitkilerden çıkarılan uçucu, kokulu ve sıvı madde.
+OILERS	(ad) çoğul çekimi: oiler
+OILING	(eylem) oil sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yağ
+OILS	(ad) oil sözcüğünün çoğul çekimi: yağ
+OILSEEDS	(ad) çoğul çekimi: oilseed
+OINKS	(ad) çoğul çekimi: oink
+OINTMENT	(ad) ointment kelimesinin karşılığı: ⟪merhem|MERHEM⟫
+OINTMENTS	(ointment sözcüğünün çekimi) (ad) ointment kelimesinin karşılığı: ⟪merhem|MERHEM⟫
+OKAPIS	(ad) çoğul çekimi: okapi
+OKAS	(ad) çoğul çekimi: oka
+OKAY	(sıfat) okay kelimesinin karşılığı: ⟪okey|OKEY⟫, ⟪tamam|TAMAM⟫
+OKAYED	(okay sözcüğünün çekimi) (sıfat) okay kelimesinin karşılığı: ⟪okey|OKEY⟫, ⟪tamam|TAMAM⟫
+OKAYING	(okay sözcüğünün çekimi) (sıfat) okay kelimesinin karşılığı: ⟪okey|OKEY⟫, ⟪tamam|TAMAM⟫
+OKAYS	(ad) çoğul çekimi: okay
+OKE	(ad) okka: 1283 gr'lık ağırlık ölçüsü birimi; 400 dirhem bir okka ederdi, kıyye
+OKES	(oke sözcüğünün çekimi) (ad) okka: 1283 gr'lık ağırlık ölçüsü birimi; 400 dirhem bir okka ederdi, kıyye
+OKRA	(ad) okra kelimesinin karşılığı: ⟪bamya|BAMYA⟫
+OKRAS	(okra sözcüğünün çekimi) (ad) okra kelimesinin karşılığı: ⟪bamya|BAMYA⟫
+OLD	(ad) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı hâllerde kullanılan söz\n(sıfat) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı hâllerde kullanılan söz (ayrıca: yaşlı)
+OLDEST	(sıfat) old sözcüğünün üstünlük derecesi çekimi: eski
+OLDIES	(ad) çoğul çekimi: oldie
+OLDS	(old sözcüğünün çekimi) (ad) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı hâllerde...
+OLDSTERS	(ad) çoğul çekimi: oldster
+OLEAGINOUS	(sıfat) oleaginous kelimesinin karşılığı: aşırı yağlı, vıcık vıcık
+OLEAGINOUSLY	(oleaginous sözcüğünün çekimi) (sıfat) oleaginous kelimesinin karşılığı: aşırı yağlı, vıcık vıcık
+OLEANDER	(ad) oleander kelimesinin karşılığı: ⟪zakkum|ZAKKUM⟫, ağı ağacı, ağı çiçeği
+OLEANDERS	(ad) çoğul çekimi: oleander
+OLEASTER	(ad) iğde: İğdegillerden, kokulu, sarı çiçekleri olan, çalı biçiminde bir ağaç (Elaeagnus).
+OLEASTERS	(oleaster sözcüğünün çekimi) (ad) iğde: İğdegillerden, kokulu, sarı çiçekleri olan, çalı biçiminde bir ağaç (Elaeagnus).
+OLEATES	(ad) çoğul çekimi: oleate
+OLEFINS	(ad) çoğul çekimi: olefin
+OLEOMARGARINES	(ad) çoğul çekimi: oleomargarine
+OLIBANUM	(ad) olibanum kelimesinin karşılığı: ⟪akgünlük|AKGÜNLÜK⟫
+OLIBANUMS	(olibanum sözcüğünün çekimi) (ad) olibanum kelimesinin karşılığı: ⟪akgünlük|AKGÜNLÜK⟫
+OLIGARCHIES	(oligarchy sözcüğünün çekimi) (ad) oligarşi: Siyasal gücün birkaç kişilik bir grubun elinde toplandığı yönetim, aristokrasinin daralmış biçimi, takım...
+OLIGARCHY	(ad) oligarşi: Siyasal gücün birkaç kişilik bir grubun elinde toplandığı yönetim, aristokrasinin daralmış biçimi, takım erki
+OLIGOPOLIES	(ad) çoğul çekimi: oligopoly
+OLIVACEOUS	(sıfat) olivaceous kelimesinin karşılığı: ⟪zeytuni|ZEYTUNİ⟫
+OLIVE	(ad) olive kelimesinin karşılığı: ⟪zeytin|ZEYTİN⟫
+OLIVES	(olive sözcüğünün çekimi) (ad) olive kelimesinin karşılığı: ⟪zeytin|ZEYTİN⟫
+OLLAS	(ad) çoğul çekimi: olla
+OLYMPIADS	(ad) çoğul çekimi: olympiad
+OMBUDSMAN	(ad) ombudsman kelimesinin karşılığı: ⟪ombudsman|OMBUDSMAN⟫
+OMBUDSMEN	(ombudsman sözcüğünün çekimi) (ad) ombudsman kelimesinin karşılığı: ⟪ombudsman|OMBUDSMAN⟫
+OMEGAS	(ad) çoğul çekimi: omega
+OMELETTE	(ad) omlet: Çırpılmış yumurtayla sade olarak yapılabilen veya içine peynir, sebze, kıyma vb. katılarak tavada pişirilen yemek
+OMELETTES	(omelette sözcüğünün çekimi) (ad) omlet: Çırpılmış yumurtayla sade olarak yapılabilen veya içine peynir, sebze, kıyma vb. katılarak tavada pişirilen...
+OMENS	(ad) çoğul çekimi: omen
+OMERS	(ad) çoğul çekimi: omer
+OMITS	(eylem) omit sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+OMMATIDIA	(ad) çoğul çekimi: ommatidium
+OMMATIDIUM	(ad) ommatidyum: görme gözesi (ayrıca: görme gözesi)
+OMNIBUSES	(ad) çoğul çekimi: omnibus
+OMNIVOROUS	(sıfat) hepçil: hem hayvansal, hem bitkisel besinlerle beslenen
+OMNIVOROUSLY	(omnivorous sözcüğünün çekimi) (sıfat) hepçil: hem hayvansal, hem bitkisel besinlerle beslenen
+OMS	(ad) çoğul çekimi: om
+ONAGER	(ad) Asya yaban eşeği
+ONAGERS	(onager sözcüğünün çekimi) (ad) Asya yaban eşeği
+ONAGRI	(onager sözcüğünün çekimi) (ad) Asya yaban eşeği
+ONCE	(eylem) ise: imek ek eyleminin koşul kipini gösteren -se ekinin bağımsız kelimi biçimi
+ONCOGENES	(ad) çoğul çekimi: oncogene
+ONCOLOGIES	(oncology sözcüğünün çekimi) (ad) oncology kelimesinin karşılığı: ⟪onkoloji|ONKOLOJİ⟫
+ONCOLOGISTS	(ad) çoğul çekimi: oncologist
+ONCOLOGY	(ad) oncology kelimesinin karşılığı: ⟪onkoloji|ONKOLOJİ⟫
+ONE	(ad) bir: Herhangi bir varlığı belirsiz olarak gösteren sayı.\n(zamir) bir: Herhangi bir varlığı belirsiz olarak gösteren sayı.
+ONEIRIC	(sıfat) Düşsel, hayallerden veya hayallerle ilişkili olan.
+ONENESS	(ad) teklik: tek, bir olma durumu
+ONENESSES	(oneness sözcüğünün çekimi) (ad) teklik: tek, bir olma durumu
+ONEROUS	(sıfat) zahmetli: sıkıntılı (ayrıca: külfetli, eziyetli)
+ONES	(ad) çoğul çekimi: one
+ONGOING	(sıfat) ongoing kelimesinin karşılığı: devam eden
+ONION	(ad) soğan: yemeklere tat vermek için yumrusu ve yeşil yaprakları kullanılan güzel kokulu bitki, soğan bitkinin çiğ ve pişirilerek yenilen ürünü
+ONIONS	(ad) onion sözcüğünün çoğul çekimi: soğan
+ONLOOKERS	(ad) çoğul çekimi: onlooker
+ONLY	(zarf) sadece: yalnızca (ayrıca: yalnızca)
+ONOMASTICS	(ad) onomastics kelimesinin karşılığı: ⟪adbilim|ADBİLİM⟫
+ONOMATOLOGIES	(onomatology sözcüğünün çekimi) (ad) adbilim: ad bilimi
+ONOMATOLOGY	(ad) adbilim: ad bilimi
+ONOMATOPOEIA	(ad) yansıma: kullanılan sözcüklerin doğada oluşan seslere benzetilerek oluşması ve bu şekilde elde edilen kelime, onomatope
+ONOMATOPOEIAS	(ad) çoğul çekimi: onomatopoeia
+ONSET	(ad) başlangıç: bir iş, bir dönem, bir hayat vb.nin ilk bölümü
+ONSETS	(ad) çoğul çekimi: onset
+ONSLAUGHT	(ad) hücum: saldırı (ayrıca: saldırı)
+ONSLAUGHTS	(ad) çoğul çekimi: onslaught
+ONTO	(zarf) üstüne: üzerine (ayrıca: üzerine)
+ONTOGENETIC	(sıfat) ontogenetic kelimesinin karşılığı: ⟪ferdî|FERDİ⟫
+ONTOGENIES	(ontogeny sözcüğünün çekimi) (ad) ontogenesis: evrim biyolojisinde bir canlı tipinin oluşma süreci için kullanılan terimdir, bireyoluş (ayrıca:...
+ONTOGENY	(ad) ontogenesis: evrim biyolojisinde bir canlı tipinin oluşma süreci için kullanılan terimdir, bireyoluş (ayrıca: bireyoluş)
+ONTOLOGIES	(ontology sözcüğünün çekimi) (ad) ontology kelimesinin karşılığı: ⟪ontoloji|ONTOLOJİ⟫, varlık bilimi
+ONTOLOGY	(ad) ontology kelimesinin karşılığı: ⟪ontoloji|ONTOLOJİ⟫, varlık bilimi
+ONYX	(ad) onyx kelimesinin karşılığı: ⟪akik|AKİK⟫
+ONYXES	(onyx sözcüğünün çekimi) (ad) onyx kelimesinin karşılığı: ⟪akik|AKİK⟫
+OODLES	(ad) çoğul çekimi: oodle
+OOGENESIS	(ad) oogenez: yumurta oluşması
+OOHING	(eylem) ooh sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+OOLITES	(ad) çoğul çekimi: oolite
+OOPS	(ünlem) oops kelimesinin karşılığı: ⟪hayvah|HAYVAH⟫
+OOZES	(ad) çoğul çekimi: ooze
+OPACITIES	(opacity sözcüğünün çekimi) (ad) opacity kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+OPACITY	(ad) opacity kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+OPAL	(ad) opal: Silis grubundan değerli bir mineral; silisin hidratlı ve jelâtinli bütün türlerini kapsar
+OPALESCENCE	(ad) opalescence kelimesinin karşılığı: opaklık
+OPALESCENCES	(opalescence sözcüğünün çekimi) (ad) opalescence kelimesinin karşılığı: opaklık
+OPALINES	(ad) çoğul çekimi: opaline
+OPALS	(ad) çoğul çekimi: opal
+OPAQUE	(ad) geçirimsiz: Sıvıların geçmesine elverişli olmayan kayaç.
+OPAQUED	(opaque sözcüğünün çekimi) (ad) geçirimsiz: Sıvıların geçmesine elverişli olmayan kayaç.
+OPAQUER	(opaque sözcüğünün çekimi) (ad) geçirimsiz: Sıvıların geçmesine elverişli olmayan kayaç.
+OPAQUES	(opaque sözcüğünün çekimi) (ad) geçirimsiz: Sıvıların geçmesine elverişli olmayan kayaç.
+OPAQUEST	(opaque sözcüğünün çekimi) (ad) geçirimsiz: Sıvıların geçmesine elverişli olmayan kayaç.
+OPAQUING	(opaque sözcüğünün çekimi) (ad) geçirimsiz: Sıvıların geçmesine elverişli olmayan kayaç.
+OPEN	(ad) açık: Denizin kıyıdan uzakça olan yeri\n(eylem) open kelimesinin karşılığı: ⟪açmak|AÇMAK⟫
+OPENED	(sıfat) opened kelimesinin karşılığı: ⟪açılmış|AÇILMIŞ⟫
+OPENERS	(ad) çoğul çekimi: opener
+OPENEST	(open sözcüğünün çekimi) (ad) açık: Denizin kıyıdan uzakça olan yeri
+OPENING	(ad) opening kelimesinin karşılığı: ⟪açılma|AÇILMA⟫
+OPENINGS	(ad) opening sözcüğünün çoğul çekimi: açılma
+OPENLY	(zarf) açıkça: gizli bir yönü kalmaksızın, kolay anlaşılır bir biçimde, alenen, aşikâre
+OPENNESS	(ad) açıklık: bitki örtüsü olmayan, çıplak yer (ayrıca: aleniyet)
+OPENNESSES	(openness sözcüğünün çekimi) (ad) açıklık: bitki örtüsü olmayan, çıplak yer (ayrıca: aleniyet)
+OPENS	(open sözcüğünün çekimi) (ad) açık: Denizin kıyıdan uzakça olan yeri
+OPERA	(ad) opera: Sözlerinin bütünü veya çoğu şarkılı olarak söylenen müzikli tiyatro eseri
+OPERAND	(ad) işlenen: bir komutta belirtilen ve üzerinde işlem yapılan veri öğelerinden her biri
+OPERANDS	(ad) çoğul çekimi: operand
+OPERANTS	(ad) çoğul çekimi: operant
+OPERAS	(ad) çoğul çekimi: opera
+OPERATE	(eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERATED	(operate sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERATES	(operate sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERATING	(eylem) operate fiilinin şimdiki zaman kipi.\n(sıfat) operating kelimesinin karşılığı: ⟪çalışan|ÇALIŞAN⟫
+OPERATION	(ad) harekât: belli bir amaç gözetilerek bir askerî birliğe yaptırılan manevra, çarpışma, çevirme, kovalama vb. işler
+OPERATIONS	(ad) operation sözcüğünün çoğul çekimi: harekât
+OPERATOR	(ad) operator kelimesinin karşılığı: ilk işlemci
+OPERATORS	(ad) çoğul çekimi: operator
+OPERETTAS	(ad) çoğul çekimi: operetta
+OPHIDIANS	(ad) çoğul çekimi: ophidian
+OPHTHALMOLOGISTS	(ad) çoğul çekimi: ophthalmologist
+OPIATE	(ad) hap: Uyuşturucu herhangi bir niteliği haiz hap biçimli uyuşturucu türevi. (ayrıca: uyuşturucu, afyonlu ilaç)
+OPIATES	(ad) çoğul çekimi: opiate
+OPIATING	(opiate sözcüğünün çekimi) (ad) hap: Uyuşturucu herhangi bir niteliği haiz hap biçimli uyuşturucu türevi. (ayrıca: uyuşturucu, afyonlu ilaç)
+OPINION	(ad) fikir: düşünce
+OPINIONS	(ad) opinion sözcüğünün çoğul çekimi: fikir
+OPIUM	(ad) opium kelimesinin karşılığı: ⟪afyon|AFYON⟫
+OPIUMS	(opium sözcüğünün çekimi) (ad) opium kelimesinin karşılığı: ⟪afyon|AFYON⟫
+OPOSSUMS	(ad) çoğul çekimi: opossum
+OPPIDANS	(ad) çoğul çekimi: oppidan
+OPPONENT	(ad) opponent kelimesinin karşılığı: karşıçıkan
+OPPONENTS	(ad) çoğul çekimi: opponent
+OPPORTUNISTS	(ad) çoğul çekimi: opportunist
+OPPORTUNITIES	(ad) opportunity sözcüğünün çoğul çekimi: fırsat
+OPPORTUNITY	(ad) fırsat: herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon
+OPPOSED	(zarf) karşı: Aykırı olarak, aykırı düşecek biçimde.
+OPPOSERS	(ad) çoğul çekimi: opposer
+OPPOSITE	(ad) opposite kelimesinin karşılığı: ⟪karşı|KARŞI⟫, ⟪karşıt|KARŞIT⟫\n(zarf) opposite kelimesinin karşılığı: ⟪karşı|KARŞI⟫
+OPPOSITES	(ad) çoğul çekimi: opposite
+OPPOSITION	(ad) karşıtlık: başkalarının istek, dilek veya buyruklarının tersine davranma eğilimi
+OPPOSITIONS	(opposition sözcüğünün çekimi) (ad) karşıtlık: başkalarının istek, dilek veya buyruklarının tersine davranma eğilimi
+OPPRESSION	(ad) zulüm: güçlü kişinin yasaya veya vicdana aykırı olarak başkasını uğrattığı kötü durum, kıygı, eziyet, cefa, perseküsyon (ayrıca: kıygı, eziyet)
+OPPRESSIONS	(oppression sözcüğünün çekimi) (ad) zulüm: güçlü kişinin yasaya veya vicdana aykırı olarak başkasını uğrattığı kötü durum, kıygı, eziyet, cefa,...
+OPPRESSORS	(ad) çoğul çekimi: oppressor
+OPPROBRIUM	(ad) ayıp: Toplumun ahlak kurallarına aykırı olan, utanılacak durum veya davranış. (ayrıca: utanç, rezalet)
+OPPROBRIUMS	(opprobrium sözcüğünün çekimi) (ad) ayıp: Toplumun ahlak kurallarına aykırı olan, utanılacak durum veya davranış. (ayrıca: utanç, rezalet)
+OPS	(ad) çoğul çekimi: op
+OPSINS	(ad) çoğul çekimi: opsin
+OPSONINS	(ad) çoğul çekimi: opsonin
+OPTATIVE	(ad) optative kelimesinin karşılığı: istek kipi
+OPTATIVES	(ad) optatives kelimesinin karşılığı: dilek/istek kipleri
+OPTIC	(sıfat) optik: Görme ile ilgili olan.
+OPTICAL	(sıfat) optik: Görme ile ilgili olan.
+OPTICIAN	(ad) gözlükçü: Gözlük satan veya onaran kimse; optik, optikçi.
+OPTICIANS	(ad) çoğul çekimi: optician
+OPTICS	(ad) optik: Fizik biliminin ışık olaylarını inceleyen kolu. (ayrıca: ışık bilgisi)
+OPTIMES	(ad) çoğul çekimi: optime
+OPTIMISATION	(ad) optimisation kelimesinin karşılığı: optimize etme
+OPTIMISATIONS	(optimisation sözcüğünün çekimi) (ad) optimisation kelimesinin karşılığı: optimize etme
+OPTIMISM	(ad) optimism kelimesinin karşılığı: ⟪iyimserlik|İYİMSERLİK⟫
+OPTIMISMS	(optimism sözcüğünün çekimi) (ad) optimism kelimesinin karşılığı: ⟪iyimserlik|İYİMSERLİK⟫
+OPTIMIST	(ad) optimist kelimesinin karşılığı: ⟪optimist|OPTİMİST⟫
+OPTIMISTIC	(sıfat) optimistic kelimesinin karşılığı: ⟪iyimser|İYİMSER⟫
+OPTIMISTS	(ad) çoğul çekimi: optimist
+OPTIMIZATIONS	(ad) çoğul çekimi: optimization
+OPTIMUMS	(ad) çoğul çekimi: optimum
+OPTION	(ad) seçenek: birinin yerine seçilebilecek bir başka yol
+OPTIONED	(option sözcüğünün çekimi) (ad) seçenek: birinin yerine seçilebilecek bir başka yol
+OPTIONING	(option sözcüğünün çekimi) (ad) seçenek: birinin yerine seçilebilecek bir başka yol
+OPTIONS	(option sözcüğünün çekimi) (ad) seçenek: birinin yerine seçilebilecek bir başka yol
+OPTOMETRISTS	(ad) çoğul çekimi: optometrist
+OPULENCE	(ad) saltanat: (mecaz) bolluk ve zenginlik, gösterişli yaşayış
+OPULENCES	(opulence sözcüğünün çekimi) (ad) saltanat: (mecaz) bolluk ve zenginlik, gösterişli yaşayış
+OPUSCULES	(ad) çoğul çekimi: opuscule
+ORACHES	(ad) çoğul çekimi: orache
+ORACLE	(ad) oracle kelimesinin karşılığı: bilge kişi
+ORACLES	(oracle sözcüğünün çekimi) (ad) oracle kelimesinin karşılığı: bilge kişi
+ORAL	(sıfat) oral kelimesinin karşılığı: ⟪ağızcıl|AĞIZCIL⟫, ⟪ağızsıl|AĞIZSIL⟫, ⟪oral|ORAL⟫
+ORALLY	(zarf) ağızdan: Ağız yoluyla.
+ORALS	(ad) çoğul çekimi: oral
+ORANGE	(ad) portakal: Turunçgillerden, Akdeniz ülkelerinde yetişen, yaprakları sert ağaç ve bu ağacın turuncu renkli, yuvarlak ve kabuğu güzel kokulu meyvesi.\n(sıfat) orange kelimesinin karşılığı: portakal rengi
+ORANGES	(ad) orange sözcüğünün çoğul çekimi: portakal
+ORANGUTAN	(ad) orangutan: Sumatra ve Borneo'da yaşayan, insana benzeyen, yemişle beslenen bir cins büyük maymun
+ORANGUTANS	(ad) çoğul çekimi: orangutan
+ORATION	(ad) oration kelimesinin karşılığı: ⟪dua|DUA⟫
+ORATIONS	(ad) çoğul çekimi: oration
+ORATORIOS	(ad) çoğul çekimi: oratorio
+ORATORS	(ad) çoğul çekimi: orator
+ORBIT	(ad) yörünge: bir gök cisminin hareketi süresince izlediği yol, mahrek\n(eylem) orbit kelimesinin karşılığı: yörüngede dönmek
+ORBITAL	(sıfat) orbital kelimesinin karşılığı: yörüngesel, yörüngeye ait
+ORBITALS	(ad) çoğul çekimi: orbital
+ORBITED	(orbit sözcüğünün çekimi) (ad) yörünge: bir gök cisminin hareketi süresince izlediği yol, mahrek
+ORBITER	(ad) Bir başka gök cismi etrafında onun üzerine inişe geçmeden dönen cisim. Bilhassa bir gezegen ya da uydu etrafında yörüngeye giren uzay gemileri için kullanılır.
+ORBITERS	(ad) orbiter sözcüğünün çoğul çekimi: Bir başka gök cismi etrafında onun üzerine inişe geçmeden dönen cisim. Bilhassa bir gezegen ya da...
+ORBITING	(orbit sözcüğünün çekimi) (ad) yörünge: bir gök cisminin hareketi süresince izlediği yol, mahrek
+ORBITS	(ad) orbit sözcüğünün çoğul çekimi: yörünge
+ORBS	(ad) çoğul çekimi: orb
+ORCAS	(ad) çoğul çekimi: orca
+ORCHARD	(ad) orchard kelimesinin karşılığı: bağ bahçe
+ORCHARDISTS	(ad) çoğul çekimi: orchardist
+ORCHARDS	(ad) çoğul çekimi: orchard
+ORCHESTRA	(ad) orchestra kelimesinin karşılığı: ⟪orkestra|ORKESTRA⟫
+ORCHESTRAS	(orchestra sözcüğünün çekimi) (ad) orchestra kelimesinin karşılığı: ⟪orkestra|ORKESTRA⟫
+ORCHESTRATORS	(ad) çoğul çekimi: orchestrator
+ORCHIDS	(ad) çoğul çekimi: orchid
+ORCHILS	(ad) çoğul çekimi: orchil
+ORCS	(ad) orc sözcüğünün çoğul çekimi
+ORDAINMENTS	(ad) çoğul çekimi: ordainment
+ORDEAL	(ad) ordeal kelimesinin karşılığı: ⟪çile|ÇİLE⟫, zorlu sınav, büyük sıkıntı
+ORDEALS	(ad) çoğul çekimi: ordeal
+ORDER	(ad) mertebe: aşama, derece, rütbe, paye (ayrıca: emir, sıra)
+ORDERED	(order sözcüğünün çekimi) (ad) mertebe: aşama, derece, rütbe, paye (ayrıca: emir, sıra)
+ORDERING	(eylem) order sözcüğünün şimdiki zaman ortaç ve gerund çekimi: emir, sıra, mertebe, nizam
+ORDERLIES	(ad) çoğul çekimi: orderly
+ORDERS	(ad) order sözcüğünün çoğul çekimi: emir, sıra, mertebe, nizam\n(eylem) order sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: emir, sıra, mertebe, nizam
+ORDINAL	(ad) ordinal kelimesinin karşılığı: sıral sayı
+ORDINALS	(ad) çoğul çekimi: ordinal
+ORDINANCES	(ad) çoğul çekimi: ordinance
+ORDINARIER	(ordinary sözcüğünün çekimi) (sıfat) ordinary kelimesinin karşılığı: ⟪olağan|OLAĞAN⟫, ⟪alışılmış|ALIŞILMIŞ⟫
+ORDINARIES	(ad) çoğul çekimi: ordinary
+ORDINARIEST	(ordinary sözcüğünün çekimi) (sıfat) ordinary kelimesinin karşılığı: ⟪olağan|OLAĞAN⟫, ⟪alışılmış|ALIŞILMIŞ⟫
+ORDINARY	(sıfat) ordinary kelimesinin karşılığı: ⟪olağan|OLAĞAN⟫, ⟪alışılmış|ALIŞILMIŞ⟫
+ORDNANCES	(ad) çoğul çekimi: ordnance
+ORE	(ad) ore kelimesinin karşılığı: maden cevheri, maden filizi
+OREADS	(ad) çoğul çekimi: oread
+ORES	(ore sözcüğünün çekimi) (ad) ore kelimesinin karşılığı: maden cevheri, maden filizi
+ORGAN	(ad) organ: Vücudun, belirli bir görev yapan ve sınırları kesin olarak belirlenmiş bölümü; aza, örgen, uzuv.
+ORGANDIES	(ad) çoğul çekimi: organdy
+ORGANIC	(sıfat) organic kelimesinin karşılığı: ⟪organik|ORGANİK⟫
+ORGANICS	(organic sözcüğünün çekimi) (sıfat) organic kelimesinin karşılığı: ⟪organik|ORGANİK⟫
+ORGANISATION	(ad) (organizasyon)
+ORGANISATIONS	(ad) organisation sözcüğünün çoğul çekimi: (organizasyon)
+ORGANISERS	(ad) çoğul çekimi: organiser
+ORGANISM	(ad) organizma: canlı bir varlığı oluşturan organların bütünü, uzviyet
+ORGANISMS	(ad) organism sözcüğünün çoğul çekimi: organizma
+ORGANISTS	(ad) çoğul çekimi: organist
+ORGANIZATION	(ad) organize olma hâli.
+ORGANIZATIONS	(ad) organization sözcüğünün çoğul çekimi: organize olma hâli.
+ORGANIZE	(ad) organize kelimesinin karşılığı: organize etmek
+ORGANIZED	(organize sözcüğünün çekimi) (ad) organize kelimesinin karşılığı: organize etmek
+ORGANIZERS	(ad) organizer sözcüğünün çoğul çekimi
+ORGANIZES	(organize sözcüğünün çekimi) (ad) organize kelimesinin karşılığı: organize etmek
+ORGANIZING	(organize sözcüğünün çekimi) (ad) organize kelimesinin karşılığı: organize etmek
+ORGANOGENESIS	(ad) organogenez: Embriyoda organ ve organ sistemlerinin oluşması
+ORGANOPHOSPHATES	(ad) çoğul çekimi: organophosphate
+ORGANS	(ad) organ sözcüğünün çoğul çekimi: organ
+ORGASM	(ad) orgasm kelimesinin karşılığı: ⟪orgazm|ORGAZM⟫
+ORGASMS	(ad) çoğul çekimi: orgasm
+ORGIES	(ad) çoğul çekimi: orgy
+ORIELS	(ad) çoğul çekimi: oriel
+ORIENTAL	(sıfat) oryantal: doğu medeniyeti ile ilgili, doğu medeniyetini hatırlatan, doğusal
+ORIENTALISM	(ad) orientalism kelimesinin karşılığı: doğu bilimi
+ORIENTALISMS	(orientalism sözcüğünün çekimi) (ad) orientalism kelimesinin karşılığı: doğu bilimi
+ORIENTALIST	(ad) müsteşrik: Şarkiyatçılık uzmanı
+ORIENTALISTS	(ad) çoğul çekimi: orientalist
+ORIENTALLY	(oriental sözcüğünün çekimi) (sıfat) oryantal: doğu medeniyeti ile ilgili, doğu medeniyetini hatırlatan, doğusal
+ORIENTALS	(oriental sözcüğünün çekimi) (sıfat) oryantal: doğu medeniyeti ile ilgili, doğu medeniyetini hatırlatan, doğusal
+ORIENTATION	(ad) orientation kelimesinin karşılığı: sayfa yönü
+ORIENTATIONS	(orientation sözcüğünün çekimi) (ad) orientation kelimesinin karşılığı: sayfa yönü
+ORIENTED	(sıfat) Belirli bir yönelime sahip olman.\n(eylem) to orient fiilinin geçmiş zaman kipi
+ORIENTS	(ad) çoğul çekimi: orient
+ORIFICE	(ad) orifice kelimesinin karşılığı: ⟪delik|DELİK⟫
+ORIFICES	(ad) çoğul çekimi: orifice
+ORIGAMI	(ad) origami: Japon kâğıttan şekil yapma sanatı
+ORIGAMIS	(origami sözcüğünün çekimi) (ad) origami: Japon kâğıttan şekil yapma sanatı
+ORIGIN	(ad) bir şeyin başlangıç veya çıkış noktası, köken
+ORIGINAL	(sıfat) en baştan beri var olan, ilk, en önceki
+ORIGINALLY	(zarf) aslında: Asıl olarak; bir defa, bir kere, aslen, esasen, esasta, haddizatında.
+ORIGINALS	(ad) çoğul çekimi: original
+ORIGINATED	(eylem) originate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+ORIGINATORS	(ad) çoğul çekimi: originator
+ORIGINS	(ad) origin sözcüğünün çoğul çekimi: bir şeyin başlangıç veya çıkış noktası, köken
+ORIOLES	(ad) çoğul çekimi: oriole
+ORISONS	(ad) çoğul çekimi: orison
+ORLES	(ad) çoğul çekimi: orle
+ORLOPS	(ad) çoğul çekimi: orlop
+ORMERS	(ad) çoğul çekimi: ormer
+ORNAMENT	(ad) süsleme: sanat eserlerinin yüzeyini süslemek için kullanılan motif,oyma vb. türden şeyler
+ORNAMENTAL	(sıfat) ornamental kelimesinin karşılığı: ⟪süslü|SÜSLÜ⟫
+ORNAMENTALS	(ornamental sözcüğünün çekimi) (sıfat) ornamental kelimesinin karşılığı: ⟪süslü|SÜSLÜ⟫
+ORNAMENTED	(ornament sözcüğünün çekimi) (ad) süsleme: sanat eserlerinin yüzeyini süslemek için kullanılan motif,oyma vb. türden şeyler
+ORNAMENTING	(ornament sözcüğünün çekimi) (ad) süsleme: sanat eserlerinin yüzeyini süslemek için kullanılan motif,oyma vb. türden şeyler
+ORNAMENTS	(ad) çoğul çekimi: ornament
+ORNATE	(ad) süslü: süsü olan, süslenmiş, bezenmiş
+ORNITHOLOGIES	(ornithology sözcüğünün çekimi) (ad) ornithology kelimesinin karşılığı: kuş bilimi, ⟪ornitoloji|ORNİTOLOJİ⟫
+ORNITHOLOGIST	(ad) ornithologist kelimesinin karşılığı: kuş bilimci
+ORNITHOLOGISTS	(ad) çoğul çekimi: ornithologist
+ORNITHOLOGY	(ad) ornithology kelimesinin karşılığı: kuş bilimi, ⟪ornitoloji|ORNİTOLOJİ⟫
+ORNITHOPTERS	(ad) çoğul çekimi: ornithopter
+OROGENIES	(ad) çoğul çekimi: orogeny
+OROGENY	(ad) orogeny kelimesinin karşılığı: ⟪orojenez|OROJENEZ⟫
+ORPHAN	(ad) yetim: annesi veya babası ölmüş olan çocuk.\n(sıfat) öksüz: anası veya hem anası hem babası ölmüş olan (çocuk), yetim
+ORPHANAGE	(ad) yetimhane: Yetim çocukların barındırıldığı, bakıldığı yer
+ORPHANAGES	(ad) çoğul çekimi: orphanage
+ORPHANED	(orphan sözcüğünün çekimi) (ad) yetim: annesi veya babası ölmüş olan çocuk.
+ORPHANING	(orphan sözcüğünün çekimi) (ad) yetim: annesi veya babası ölmüş olan çocuk.
+ORPHANS	(ad) çoğul çekimi: orphan
+ORPINES	(ad) çoğul çekimi: orpine
+ORRERIES	(ad) çoğul çekimi: orrery
+ORTHODONTISTS	(ad) çoğul çekimi: orthodontist
+ORTHODOX	(sıfat) orthodox kelimesinin karşılığı: ⟪ortodoks|ORTODOKS⟫
+ORTHODOXES	(orthodox sözcüğünün çekimi) (sıfat) orthodox kelimesinin karşılığı: ⟪ortodoks|ORTODOKS⟫
+ORTHOEPIES	(orthoepy sözcüğünün çekimi) (ad) orthoepy kelimesinin karşılığı: ölçünlü söyleyiş
+ORTHOEPY	(ad) orthoepy kelimesinin karşılığı: ölçünlü söyleyiş
+ORTHOGRAPHIES	(orthography sözcüğünün çekimi) (ad) orthography kelimesinin karşılığı: ⟪yazı|YAZI⟫
+ORTHOGRAPHY	(ad) orthography kelimesinin karşılığı: ⟪yazı|YAZI⟫
+ORTHOPAEDIC	(sıfat) ortopedik: Ortopedi ile ilgili olan
+ORTHOPEDISTS	(ad) çoğul çekimi: orthopedist
+ORTHOPHOSPHATES	(ad) çoğul çekimi: orthophosphate
+ORTS	(ad) çoğul çekimi: ort
+ORYXES	(ad) çoğul çekimi: oryx
+OSCILLATION	(ad) salınım: düzenli olarak hep aynı konumlardan aynı hızla geçen bir nesnenin hareketi, raks
+OSCILLATIONS	(oscillation sözcüğünün çekimi) (ad) salınım: düzenli olarak hep aynı konumlardan aynı hızla geçen bir nesnenin hareketi, raks
+OSCILLATORS	(ad) çoğul çekimi: oscillator
+OSCILLOGRAMS	(ad) çoğul çekimi: oscillogram
+OSCILLOGRAPH	(ad) ses dalgaları yazım aygıtı
+OSCILLOGRAPHS	(oscillograph sözcüğünün çekimi) (ad) ses dalgaları yazım aygıtı
+OSCULATIONS	(ad) çoğul çekimi: osculation
+OSIER	(ad) osier kelimesinin karşılığı: ⟪söğüt|SÖĞÜT⟫
+OSIERS	(osier sözcüğünün çekimi) (ad) osier kelimesinin karşılığı: ⟪söğüt|SÖĞÜT⟫
+OSMIUM	(ad) osmium kelimesinin karşılığı: ⟪osmiyum|OSMİYUM⟫
+OSMIUMS	(osmium sözcüğünün çekimi) (ad) osmium kelimesinin karşılığı: ⟪osmiyum|OSMİYUM⟫
+OSMOMETER	(ad) osmometer kelimesinin karşılığı: ozmometre
+OSMOMETERS	(ad) çoğul çekimi: osmometer
+OSMOSIS	(ad) osmosis kelimesinin karşılığı: ⟪ozmoz|OZMOZ⟫
+OSPREY	(ad) osprey kelimesinin karşılığı: balık kartalı
+OSPREYS	(ad) çoğul çekimi: osprey
+OSSICLES	(ad) çoğul çekimi: ossicle
+OSSIFICATIONS	(ad) çoğul çekimi: ossification
+OSSUARIES	(ad) çoğul çekimi: ossuary
+OSTENSIBLY	(zarf) görünüşte: dıştan göründüğüne göre, görünene inanmak gerekirse, görünene bakılırsa (ayrıca: görünürde, sözde)
+OSTENTATION	(ad) gösteriş: göze çarpıcı nitelik, göz alıcılık (ayrıca: çalım, hava)
+OSTENTATIONS	(ostentation sözcüğünün çekimi) (ad) gösteriş: göze çarpıcı nitelik, göz alıcılık (ayrıca: çalım, hava)
+OSTENTATIOUS	(sıfat) ostentatious kelimesinin karşılığı: ⟪gösterişli|GÖSTERİŞLİ⟫, ⟪fiyakalı|FİYAKALI⟫, ⟪cakalı|CAKALI⟫
+OSTEOBLASTS	(ad) çoğul çekimi: osteoblast
+OSTEOCYTES	(ad) çoğul çekimi: osteocyte
+OSTEOLOGIES	(osteology sözcüğünün çekimi) (ad) osteology kelimesinin karşılığı: ⟪osteoloji|OSTEOLOJİ⟫, kemik bilimi
+OSTEOLOGISTS	(ad) çoğul çekimi: osteologist
+OSTEOLOGY	(ad) osteology kelimesinin karşılığı: ⟪osteoloji|OSTEOLOJİ⟫, kemik bilimi
+OSTEOPATH	(ad) osteopat: İnsan vücudundaki kemik, kas, kan damarları ve diğer doku hastalıklarını manipulatif metotlarla teşhis ve tedavi eden kişi
+OSTEOPATHS	(ad) çoğul çekimi: osteopath
+OSTEOPLASTIES	(ad) çoğul çekimi: osteoplasty
+OSTEOPOROSIS	(ad) osteoporosis kelimesinin karşılığı: kemik erimesi, ⟪osteoporoz|OSTEOPOROZ⟫
+OSTLERS	(ad) çoğul çekimi: ostler
+OSTOMIES	(ostomy sözcüğünün çekimi) (ad) ostomy kelimesinin karşılığı: ⟪fistül|FİSTÜL⟫
+OSTOMY	(ad) ostomy kelimesinin karşılığı: ⟪fistül|FİSTÜL⟫
+OSTRICH	(ad) ostrich kelimesinin karşılığı: deve kuşu
+OSTRICHES	(ad) çoğul çekimi: ostrich
+OTHER	(zamir) other kelimesinin karşılığı: ⟪başka|BAŞKA⟫, ⟪öteki|ÖTEKİ⟫\n(sıfat) diğer: başka, özge, öteki, öbür (ayrıca: öbür)
+OTHERS	(ad) çoğul çekimi: other
+OTHERWORLDLY	(sıfat) yabancı: aileden, çevreden olmayan
+OTIC	(sıfat) kulakla ilgili olan
+OTOLARYNGOLOGISTS	(ad) çoğul çekimi: otolaryngologist
+OTOLITHS	(ad) çoğul çekimi: otolith
+OTTER	(ad) su samuru: sansargillerden, tüyleri koyu kahverengi, iyi yüzen, kürkü beğenilen, küçük bir tür hayvan
+OTTERS	(ad) çoğul çekimi: otter
+OTTOMANS	(ad) çoğul çekimi: ottoman
+OUGHT	(ad) ought kelimesinin karşılığı: ⟪yükümlülük|YÜKÜMLÜLÜK⟫, ⟪zorunluluk|ZORUNLULUK⟫\n(zarf) ought kelimesinin karşılığı: ⟪muhtemelen|MUHTEMELEN⟫
+OUGHTED	(ought sözcüğünün çekimi) (ad) ought kelimesinin karşılığı: ⟪yükümlülük|YÜKÜMLÜLÜK⟫, ⟪zorunluluk|ZORUNLULUK⟫
+OUGHTING	(ought sözcüğünün çekimi) (ad) ought kelimesinin karşılığı: ⟪yükümlülük|YÜKÜMLÜLÜK⟫, ⟪zorunluluk|ZORUNLULUK⟫
+OUGHTS	(ad) çoğul çekimi: ought
+OUNCE	(ad) ons: Fransa'da 30,59 gr, İngiltere'de 28,349 gr ağırlığında bir ağırlık birimi
+OUNCES	(ad) çoğul çekimi: ounce
+OUR	(zamir) bizim, 1. çoğul şahıslar için iyelik zamiri.
+OURS	(zamir) bizimki, bize ait olan
+OURSELVES	(zamir) ourselves kelimesinin karşılığı: ⟪kendi|KENDİ⟫, ⟪kendimiz|KENDİMİZ⟫, kendimize, kendimizde
+OUSELS	(ad) çoğul çekimi: ousels
+OUST	(eylem) kovmak: İşine son vermek, görevinden atmak, uzaklaştırmak; dehlemek. (ayrıca: zorla çıkarmak, defetmek)
+OUSTED	(sıfat) devrik: yatırılmış, yıkılmış, dik durumunu yitirmiş
+OUSTER	(ad) ouster kelimesinin karşılığı: ⟪atma|ATMA⟫, dışarı çıkarma, ekarte etme, yerinden etme
+OUSTERS	(ouster sözcüğünün çekimi) (ad) ouster kelimesinin karşılığı: ⟪atma|ATMA⟫, dışarı çıkarma, ekarte etme, yerinden etme
+OUSTING	(oust sözcüğünün çekimi) (eylem) kovmak: İşine son vermek, görevinden atmak, uzaklaştırmak; dehlemek. (ayrıca: zorla çıkarmak, defetmek)
+OUSTS	(oust sözcüğünün çekimi) (eylem) kovmak: İşine son vermek, görevinden atmak, uzaklaştırmak; dehlemek. (ayrıca: zorla çıkarmak, defetmek)
+OUT	(sıfat) out kelimesinin karşılığı: ortaya çıkmış, tamamlanmış\n(ad) out kelimesinin karşılığı: ⟪aut|AUT⟫
+OUTAGES	(ad) çoğul çekimi: outage
+OUTBOARDS	(ad) çoğul çekimi: outboard
+OUTBREAK	(ad) salgın: Bir hastalığın veya başka bir durumun yaygınlaşması ve birçok kimseye birden bulaşması. (ayrıca: patlak verme)
+OUTBREAKS	(ad) çoğul çekimi: outbreak
+OUTBUILDINGS	(ad) çoğul çekimi: outbuilding
+OUTBURSTS	(ad) outburst sözcüğünün çoğul çekimi
+OUTCASTS	(ad) çoğul çekimi: outcast
+OUTCOME	(ad) sonuç: Bir gelişim veya girişimden elde edilen şey.
+OUTCOMES	(ad) outcome sözcüğünün çoğul çekimi: sonuç
+OUTCRIED	(outcry sözcüğünün çekimi) (ad) outcry kelimesinin karşılığı: avaz
+OUTCRIES	(ad) çoğul çekimi: outcry
+OUTCROP	(ad) bakı: özellikle dağlık yörelerde bir yamacın güneş ışınlarına, güneye veya kuzeye karşı konumunu belirleyen, bunun sonucu olarak da doğal şartlarını tespit eden durumu
+OUTCROPPED	(outcrop sözcüğünün çekimi) (ad) bakı: özellikle dağlık yörelerde bir yamacın güneş ışınlarına, güneye veya kuzeye karşı konumunu belirleyen, bunun...
+OUTCROPPING	(outcrop sözcüğünün çekimi) (ad) bakı: özellikle dağlık yörelerde bir yamacın güneş ışınlarına, güneye veya kuzeye karşı konumunu belirleyen, bunun...
+OUTCROPPINGS	(ad) çoğul çekimi: outcropping
+OUTCROPS	(ad) çoğul çekimi: outcrop
+OUTCRY	(ad) outcry kelimesinin karşılığı: avaz
+OUTCRYING	(outcry sözcüğünün çekimi) (ad) outcry kelimesinin karşılığı: avaz
+OUTDATED	(sıfat) güncel olmayan, çağdışı, zamanın şartlarına uymayan
+OUTDATEDLY	(outdated sözcüğünün çekimi) (sıfat) güncel olmayan, çağdışı, zamanın şartlarına uymayan
+OUTDOOR	(sıfat) açık havada yapılan
+OUTDRINKS	(ad) çoğul çekimi: outdrink
+OUTED	(out sözcüğünün çekimi) (sıfat) out kelimesinin karşılığı: ortaya çıkmış, tamamlanmış
+OUTER	(sıfat) dış: Herhangi bir cisim veya alanın sınırları içinde bulunmayan yer.
+OUTERMOST	(sıfat) ücra: çok Uçta, kenarda veya kıyıda köşede olan
+OUTERS	(outer sözcüğünün çekimi) (sıfat) dış: Herhangi bir cisim veya alanın sınırları içinde bulunmayan yer.
+OUTFALLS	(ad) çoğul çekimi: outfall
+OUTFIELDS	(ad) çoğul çekimi: outfield
+OUTFIT	(ad) ölçüt dışında olan
+OUTFITS	(ad) outfit sözcüğünün çoğul çekimi: ölçüt dışında olan
+OUTFITTED	(outfit sözcüğünün çekimi) (ad) ölçüt dışında olan
+OUTFITTERS	(ad) çoğul çekimi: outfitter
+OUTFITTING	(outfit sözcüğünün çekimi) (ad) ölçüt dışında olan
+OUTFLOW	(ad) debi: bir akarsuyun herhangi bir kesitinden birim zamanda geçen suyun hacmi, akım
+OUTFLOWED	(outflow sözcüğünün çekimi) (ad) debi: bir akarsuyun herhangi bir kesitinden birim zamanda geçen suyun hacmi, akım
+OUTFLOWS	(outflow sözcüğünün çekimi) (ad) debi: bir akarsuyun herhangi bir kesitinden birim zamanda geçen suyun hacmi, akım
+OUTGOING	(ad) outgoing kelimesinin karşılığı: ⟪giden|GİDEN⟫
+OUTGROWTHS	(ad) çoğul çekimi: outgrowth
+OUTHOUSES	(ad) çoğul çekimi: outhouse
+OUTING	(out sözcüğünün çekimi) (sıfat) out kelimesinin karşılığı: ortaya çıkmış, tamamlanmış
+OUTINGS	(ad) çoğul çekimi: outing
+OUTLANDERS	(ad) çoğul çekimi: outlander
+OUTLAW	(ad) outlaw kelimesinin karşılığı: kanun kaçağı
+OUTLAWED	(outlaw sözcüğünün çekimi) (ad) outlaw kelimesinin karşılığı: kanun kaçağı
+OUTLAWING	(outlaw sözcüğünün çekimi) (ad) outlaw kelimesinin karşılığı: kanun kaçağı
+OUTLAWS	(ad) çoğul çekimi: outlaw
+OUTLET	(ad) outlet kelimesinin karşılığı: çıkış yeri, ⟪priz|PRİZ⟫, elektrik fişi
+OUTLETS	(ad) outlet sözcüğünün çoğul çekimi: çıkış yeri; priz; elektrik fişi.
+OUTLIERS	(ad) çoğul çekimi: outlier
+OUTLINE	(ad) outline kelimesinin karşılığı: kıyı çizgisi\n(eylem) outline kelimesinin karşılığı: kıyısını çizmek
+OUTLINED	(outline sözcüğünün çekimi) (ad) outline kelimesinin karşılığı: kıyı çizgisi
+OUTLINER	(outline sözcüğünün çekimi) (ad) outline kelimesinin karşılığı: kıyı çizgisi
+OUTLINES	(ad) outline sözcüğünün çoğul çekimi: kıyı çizgisi
+OUTLINING	(outline sözcüğünün çekimi) (ad) outline kelimesinin karşılığı: kıyı çizgisi
+OUTLOOK	(ad) outlook kelimesinin karşılığı: ⟪görüş|GÖRÜŞ⟫
+OUTLOOKS	(ad) çoğul çekimi: outlook
+OUTPATIENTS	(ad) çoğul çekimi: outpatient
+OUTPORTS	(ad) çoğul çekimi: outport
+OUTPOST	(ad) outpost kelimesinin karşılığı: ileri karakol
+OUTPOSTS	(ad) çoğul çekimi: outpost
+OUTPOURINGS	(ad) çoğul çekimi: outpouring
+OUTPOURS	(ad) çoğul çekimi: outpour
+OUTPUT	(ad) çıktı: Üretim sonucu ortaya çıkan ürün, girdi karşıtı. (ayrıca: belge)
+OUTPUTS	(ad) output sözcüğünün çoğul çekimi: çıktı, belge
+OUTPUTTED	(output sözcüğünün çekimi) (ad) çıktı: Üretim sonucu ortaya çıkan ürün, girdi karşıtı. (ayrıca: belge)
+OUTPUTTING	(output sözcüğünün çekimi) (ad) çıktı: Üretim sonucu ortaya çıkan ürün, girdi karşıtı. (ayrıca: belge)
+OUTRAGES	(ad) çoğul çekimi: outrage
+OUTRAN	(eylem) outrun sözcüğünün basit geçmiş zaman çekimi: daha hızlı koşmak, geçmek, geride bırakmak
+OUTRANK	(eylem) outrank kelimesinin karşılığı: üstü olmak
+OUTRANKED	(outrank sözcüğünün çekimi) (eylem) outrank kelimesinin karşılığı: üstü olmak
+OUTRANKING	(outrank sözcüğünün çekimi) (eylem) outrank kelimesinin karşılığı: üstü olmak
+OUTRANKS	(outrank sözcüğünün çekimi) (eylem) outrank kelimesinin karşılığı: üstü olmak
+OUTREACHES	(ad) çoğul çekimi: outreach
+OUTRIGGERS	(ad) çoğul çekimi: outrigger
+OUTRUN	(eylem) daha hızlı koşmak, geçmek, geride bırakmak
+OUTRUNNING	(eylem) outrun sözcüğünün şimdiki zaman ortaç ve gerund çekimi: daha hızlı koşmak, geçmek, geride bırakmak
+OUTRUNS	(eylem) outrun sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: daha hızlı koşmak, geçmek, geride bırakmak
+OUTS	(ad) çoğul çekimi: out
+OUTSET	(ad) başlangıç: bir iş, bir dönem, bir hayat vb.nin ilk bölümü
+OUTSETS	(ad) çoğul çekimi: outset
+OUTSIDE	(ad) dış: Herhangi bir cisim veya alanın sınırları içinde bulunmayan yer.\n(sıfat) dış: Herhangi bir cisim veya alanın sınırları içinde bulunmayan yer.
+OUTSIDES	(ad) çoğul çekimi: outside
+OUTSIZES	(ad) çoğul çekimi: outsize
+OUTSKIRTS	(ad) varoş, kenar mahalle, banliyö, şehir merkezinden uzak yer]ler
+OUTSPANS	(ad) çoğul çekimi: outspan
+OUTSTANDING	(sıfat) olağanüstü: Alışılmıştan, benzerlerinden farklı olan, fevkalade (ayrıca: göze çarpan)
+OUTTAKES	(ad) çoğul çekimi: outtake
+OUTTHRUSTS	(ad) çoğul çekimi: outthrust
+OUZELS	(ad) çoğul çekimi: ouzel
+OUZO	(ad) uzo: Yunan rakısı.
+OUZOS	(ad) ouzo sözcüğünün çoğul çekimi: uzo
+OVA	(ovum sözcüğünün çekimi) (ad) yumurta: Bir dişinin vücudunda oluşan, yumurtlama ve döllenmeden sonra aynı türden bir canlı oluşturan hücre.
+OVAL	(sıfat) oval: özellikle elips gibi iki simetri ekseni olan kapalı eğrinin oluşturduğu şekil
+OVALS	(oval sözcüğünün çekimi) (sıfat) oval: özellikle elips gibi iki simetri ekseni olan kapalı eğrinin oluşturduğu şekil
+OVARIES	(ad) çoğul çekimi: ovary
+OVARY	(ad) yumurtalık: Canlılarda dişi üreme hücrelerini veren organ, mebiz
+OVEN	(ad) fırın: elektrik, tüp gaz ve doğal gazla çalışan, yiyecekleri pişirmeye veya ısıtmaya yarayan alet
+OVENBIRDS	(ad) çoğul çekimi: ovenbird
+OVENS	(ad) çoğul çekimi: oven
+OVER	(edat) over kelimesinin karşılığı: ⟪üzerinde|ÜZERİNDE⟫, üzerinden
+OVERACTIVITIES	(ad) overactivity sözcüğünün çoğul çekimi: aşırı aktivite
+OVERACTIVITY	(ad) overactivity kelimesinin karşılığı: aşırı aktivite
+OVERALL	(ad) overall kelimesinin karşılığı: ⟪önlük|ÖNLÜK⟫, ⟪gömlek|GÖMLEK⟫\n(sıfat) overall kelimesinin karşılığı: ⟪kapsamlı|KAPSAMLI⟫, ⟪etraflı|ETRAFLI⟫, ⟪tüm|TÜM⟫
+OVERALLED	(overall sözcüğünün çekimi) (ad) overall kelimesinin karşılığı: ⟪önlük|ÖNLÜK⟫, ⟪gömlek|GÖMLEK⟫
+OVERALLS	(ad) çoğul çekimi: overall
+OVERBEARING	(sıfat) overbearing kelimesinin karşılığı: ⟪baskıcı|BASKICI⟫, ⟪zorba|ZORBA⟫, ⟪otoriter|OTORİTER⟫
+OVERBOARD	(zarf) overboard kelimesinin karşılığı: gemiden denize
+OVERBURDENS	(ad) çoğul çekimi: overburden
+OVERCALLS	(ad) çoğul çekimi: overcall
+OVERCAME	(overcome sözcüğünün çekimi) (eylem) mağlup etmek: mağlup etmek (ayrıca: yenmek, becermek)
+OVERCAPITALIZATIONS	(ad) çoğul çekimi: overcapitalization
+OVERCAST	(sıfat) kapalı: Kapalı tribün
+OVERCASTED	(overcast sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+OVERCASTING	(overcast sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+OVERCASTINGS	(overcast sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+OVERCASTS	(ad) çoğul çekimi: overcast
+OVERCHARGES	(ad) çoğul çekimi: overcharge
+OVERCOATS	(ad) çoğul çekimi: overcoat
+OVERCOME	(eylem) mağlup etmek: mağlup etmek (ayrıca: yenmek, becermek)
+OVERCOMES	(overcome sözcüğünün çekimi) (eylem) mağlup etmek: mağlup etmek (ayrıca: yenmek, becermek)
+OVERCOMING	(overcome sözcüğünün çekimi) (eylem) mağlup etmek: mağlup etmek (ayrıca: yenmek, becermek)
+OVERDID	(overdo sözcüğünün çekimi) (eylem) aşırıya kaçmak; abartmak; gereğinden fazla yapmak
+OVERDO	(eylem) aşırıya kaçmak; abartmak; gereğinden fazla yapmak
+OVERDOES	(overdo sözcüğünün çekimi) (eylem) aşırıya kaçmak; abartmak; gereğinden fazla yapmak
+OVERDOING	(overdo sözcüğünün çekimi) (eylem) aşırıya kaçmak; abartmak; gereğinden fazla yapmak
+OVERDONE	(overdo sözcüğünün çekimi) (eylem) aşırıya kaçmak; abartmak; gereğinden fazla yapmak
+OVERDOSE	(ad) overdose kelimesinin karşılığı: aşırı doz
+OVERDOSED	(overdose sözcüğünün çekimi) (ad) overdose kelimesinin karşılığı: aşırı doz
+OVERDOSES	(overdose sözcüğünün çekimi) (ad) overdose kelimesinin karşılığı: aşırı doz
+OVERDOSING	(overdose sözcüğünün çekimi) (ad) overdose kelimesinin karşılığı: aşırı doz
+OVERDRAWS	(ad) çoğul çekimi: overdraw
+OVERED	(over sözcüğünün çekimi) (edat) over kelimesinin karşılığı: ⟪üzerinde|ÜZERİNDE⟫, üzerinden
+OVERESTIMATIONS	(ad) çoğul çekimi: overestimation
+OVEREXPOSURES	(ad) çoğul çekimi: overexposure
+OVERFLIGHTS	(ad) çoğul çekimi: overflight
+OVERFLOW	(eylem) overflow kelimesinin karşılığı: ⟪taşmak|TAŞMAK⟫
+OVERFLOWED	(overflow sözcüğünün çekimi) (eylem) overflow kelimesinin karşılığı: ⟪taşmak|TAŞMAK⟫
+OVERFLOWING	(ad) overflowing kelimesinin karşılığı: ⟪taşkın|TAŞKIN⟫
+OVERFLOWN	(overflow sözcüğünün çekimi) (eylem) overflow kelimesinin karşılığı: ⟪taşmak|TAŞMAK⟫
+OVERFLOWS	(ad) çoğul çekimi: overflow
+OVERGARMENTS	(ad) çoğul çekimi: overgarment
+OVERGLAZES	(ad) çoğul çekimi: overglaze
+OVERGROWN	(sıfat) azman: aşırı gelişmiş
+OVERHANGS	(ad) çoğul çekimi: overhang
+OVERHAUL	(ad) overhaul kelimesinin karşılığı: ⟪revizyon|REVİZYON⟫, elden geçirme, ⟪tamir|TAMİR⟫, ⟪yenileme|YENİLEME⟫\n(eylem) elden geçirmek, tamir etmek, revize etmek, komple baştan sona bakım yapmak.
+OVERHAULED	(overhaul sözcüğünün çekimi) (ad) overhaul kelimesinin karşılığı: ⟪revizyon|REVİZYON⟫, elden geçirme, ⟪tamir|TAMİR⟫, ⟪yenileme|YENİLEME⟫
+OVERHAULING	(overhaul sözcüğünün çekimi) (ad) overhaul kelimesinin karşılığı: ⟪revizyon|REVİZYON⟫, elden geçirme, ⟪tamir|TAMİR⟫, ⟪yenileme|YENİLEME⟫
+OVERHAULS	(ad) çoğul çekimi: overhaul
+OVERHEAD	(zarf) overhead kelimesinin karşılığı: kafanın üzerinde, ⟪havada|HAVADA⟫, gökyüzünde, insanın tepesinde\n(sıfat) overhead kelimesinin karşılığı: ⟪başüstü|BAŞÜSTÜ⟫
+OVERHEADS	(ad) çoğul çekimi: overhead
+OVERHEATED	(eylem) overheat sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+OVERING	(over sözcüğünün çekimi) (edat) over kelimesinin karşılığı: ⟪üzerinde|ÜZERİNDE⟫, üzerinden
+OVERLAP	(ad) üst üste çakışma
+OVERLAPPED	(overlap sözcüğünün çekimi) (ad) üst üste çakışma
+OVERLAPPING	(ad) overlapping kelimesinin karşılığı: örtüşen
+OVERLAPS	(ad) çoğul çekimi: overlap
+OVERLAYS	(ad) çoğul çekimi: overlay
+OVERLOADS	(ad) çoğul çekimi: overload
+OVERLOOKING	(sıfat) hâkim: yüksekten bir yeri bütün olarak gören
+OVERLORDS	(ad) çoğul çekimi: overlord
+OVERMANTELS	(ad) çoğul çekimi: overmantel
+OVERNIGHT	(zarf) overnight kelimesinin karşılığı: gece boyunca
+OVERNIGHTED	(overnight sözcüğünün çekimi) (zarf) overnight kelimesinin karşılığı: gece boyunca
+OVERNIGHTING	(overnight sözcüğünün çekimi) (zarf) overnight kelimesinin karşılığı: gece boyunca
+OVERNIGHTS	(ad) çoğul çekimi: overnight
+OVERPASS	(ad) overpass kelimesinin karşılığı: üst geçit
+OVERPASSED	(overpass sözcüğünün çekimi) (ad) overpass kelimesinin karşılığı: üst geçit
+OVERPASSES	(ad) çoğul çekimi: overpass
+OVERPASSING	(overpass sözcüğünün çekimi) (ad) overpass kelimesinin karşılığı: üst geçit
+OVERPOWER	(eylem) yenmek: savaş veya yarışmada üstünlük sağlamak, üstün gelmek (ayrıca: üstün gelmek, hakkından gelmek)
+OVERPOWERED	(overpower sözcüğünün çekimi) (eylem) yenmek: savaş veya yarışmada üstünlük sağlamak, üstün gelmek (ayrıca: üstün gelmek, hakkından gelmek)
+OVERPOWERING	(overpower sözcüğünün çekimi) (eylem) yenmek: savaş veya yarışmada üstünlük sağlamak, üstün gelmek (ayrıca: üstün gelmek, hakkından gelmek)
+OVERPOWERS	(overpower sözcüğünün çekimi) (eylem) yenmek: savaş veya yarışmada üstünlük sağlamak, üstün gelmek (ayrıca: üstün gelmek, hakkından gelmek)
+OVERPRESSURES	(ad) çoğul çekimi: overpressure
+OVERRAN	(overrun sözcüğünün çekimi) (ad) overrun kelimesinin karşılığı: ⟪aşma|AŞMA⟫
+OVERRATE	(eylem) Abartmak, (bir şeye) ederinden fazla değer biçmek, gözünde büyütmek.
+OVERRATED	(sıfat) Ederinden fazla değer verilen, şişirilmiş, abartılmış, abartılı, abartmalı, mübalağalı.
+OVERRATES	(overrate sözcüğünün çekimi) (eylem) Abartmak, (bir şeye) ederinden fazla değer biçmek, gözünde büyütmek.
+OVERRATING	(overrate sözcüğünün çekimi) (eylem) Abartmak, (bir şeye) ederinden fazla değer biçmek, gözünde büyütmek.
+OVERREACTIONS	(ad) çoğul çekimi: overreaction
+OVERRIDES	(ad) çoğul çekimi: override
+OVERRUN	(ad) overrun kelimesinin karşılığı: ⟪aşma|AŞMA⟫
+OVERRUNNING	(overrun sözcüğünün çekimi) (ad) overrun kelimesinin karşılığı: ⟪aşma|AŞMA⟫
+OVERRUNS	(ad) çoğul çekimi: overrun
+OVERS	(ad) çoğul çekimi: over
+OVERSAW	(oversee sözcüğünün çekimi) (eylem) oversee kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+OVERSEAS	(ad) overseas kelimesinin karşılığı: dış dünya
+OVERSEE	(eylem) oversee kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+OVERSEED	(oversee sözcüğünün çekimi) (eylem) oversee kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+OVERSEEING	(oversee sözcüğünün çekimi) (eylem) oversee kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+OVERSEEN	(oversee sözcüğünün çekimi) (eylem) oversee kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+OVERSEERS	(ad) çoğul çekimi: overseer
+OVERSEES	(oversee sözcüğünün çekimi) (eylem) oversee kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+OVERSHOES	(ad) çoğul çekimi: overshoe
+OVERSIGHT	(ad) dikkatsizlik: Dikkatsiz olma durumu, dalgınlık, savrukluk, özensizlik (ayrıca: gözden kaçırma)
+OVERSIGHTS	(oversight sözcüğünün çekimi) (ad) dikkatsizlik: Dikkatsiz olma durumu, dalgınlık, savrukluk, özensizlik (ayrıca: gözden kaçırma)
+OVERSIMPLIFICATIONS	(ad) çoğul çekimi: oversimplification
+OVERSLEEP	(eylem) oversleep kelimesinin karşılığı: ⟪uyuyakalmak|UYUYAKALMAK⟫
+OVERSLEEPING	(oversleep sözcüğünün çekimi) (eylem) oversleep kelimesinin karşılığı: ⟪uyuyakalmak|UYUYAKALMAK⟫
+OVERSLEEPS	(oversleep sözcüğünün çekimi) (eylem) oversleep kelimesinin karşılığı: ⟪uyuyakalmak|UYUYAKALMAK⟫
+OVERSLEPT	(oversleep sözcüğünün çekimi) (eylem) oversleep kelimesinin karşılığı: ⟪uyuyakalmak|UYUYAKALMAK⟫
+OVERSTATEMENTS	(ad) çoğul çekimi: overstatement
+OVERSTATING	(ad) overstating kelimesinin karşılığı: ⟪abartılma|ABARTILMA⟫
+OVERSTOCKS	(ad) çoğul çekimi: overstock
+OVERT	(sıfat) açık: gizliliği olmayan, olduğu gibi görünen
+OVERTHREW	(overthrow sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yönetim organının veya başkanının yönetim gücünü zorla elinden almak
+OVERTHROW	(eylem) devirmek: (mecaz) bir yönetim organının veya başkanının yönetim gücünü zorla elinden almak
+OVERTHROWING	(overthrow sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yönetim organının veya başkanının yönetim gücünü zorla elinden almak
+OVERTHROWN	(overthrow sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yönetim organının veya başkanının yönetim gücünü zorla elinden almak
+OVERTHROWS	(ad) çoğul çekimi: overthrow
+OVERTIME	(ad) overtime kelimesinin karşılığı: fazla mesai, ⟪uzatma|UZATMA⟫
+OVERTIMED	(overtime sözcüğünün çekimi) (ad) overtime kelimesinin karşılığı: fazla mesai, ⟪uzatma|UZATMA⟫
+OVERTIMES	(ad) çoğul çekimi: overtime
+OVERTIMING	(overtime sözcüğünün çekimi) (ad) overtime kelimesinin karşılığı: fazla mesai, ⟪uzatma|UZATMA⟫
+OVERTONE	(ad) overtone kelimesinin karşılığı: yan anlam
+OVERTONES	(ad) çoğul çekimi: overtone
+OVERTURES	(ad) çoğul çekimi: overture
+OVERTURN	(ad) overturn kelimesinin karşılığı: ⟪alabora|ALABORA⟫
+OVERTURNED	(overturn sözcüğünün çekimi) (ad) overturn kelimesinin karşılığı: ⟪alabora|ALABORA⟫
+OVERTURNING	(overturn sözcüğünün çekimi) (ad) overturn kelimesinin karşılığı: ⟪alabora|ALABORA⟫
+OVERTURNS	(ad) çoğul çekimi: overturn
+OVERVIEWS	(ad) çoğul çekimi: overview
+OVERWEENING	(sıfat) kibirli; kendini beğenmiş; kendine aşırı güvenen
+OVERWEENINGLY	(overweening sözcüğünün çekimi) (sıfat) kibirli; kendini beğenmiş; kendine aşırı güvenen
+OVERWHELMS	(ad) çoğul çekimi: overwhelm
+OVINES	(ad) çoğul çekimi: ovine
+OVULATION	(ad) ovulasyon: yumurta bırakımı, yumurtlama
+OVULATIONS	(ovulation sözcüğünün çekimi) (ad) ovulasyon: yumurta bırakımı, yumurtlama
+OVULE	(ad) ovule kelimesinin karşılığı: tohum taslağı
+OVULES	(ovule sözcüğünün çekimi) (ad) ovule kelimesinin karşılığı: tohum taslağı
+OVUM	(ad) yumurta: Bir dişinin vücudunda oluşan, yumurtlama ve döllenmeden sonra aynı türden bir canlı oluşturan hücre.
+OWL	(ad) baykuş: başında, kulak yerinde iki sorgucu bulunan, yırtıcı gece kuşlarının genel adı
+OWLETS	(ad) çoğul çekimi: owlet
+OWLS	(ad) owl sözcüğünün çoğul çekimi: baykuş
+OWN	(sıfat) bir şeyin bahsi geçen kişiye ait olduğunu belirtir, kendi\n(eylem) bir şeye sahip olmak, elde etmek
+OWNED	(eylem) own sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bir şeyin bahsi geçen kişiye ait olduğunu belirtir, kendi
+OWNER	(ad) iye: kendisinin olan bir şeyi, yasaya uygun olarak dilediği gibi kullanabilen kimse, sahip
+OWNERS	(ad) owner sözcüğünün çoğul çekimi: iye
+OWNERSHIP	(ad) sahiplik: sahip olma hâli (ayrıca: mülkiyet)
+OWNERSHIPS	(ownership sözcüğünün çekimi) (ad) sahiplik: sahip olma hâli (ayrıca: mülkiyet)
+OWNING	(eylem) own sözcüğünün şimdiki zaman ortaç ve gerund çekimi: bir şeyin bahsi geçen kişiye ait olduğunu belirtir, kendi
+OWNS	(own sözcüğünün çekimi) (sıfat) bir şeyin bahsi geçen kişiye ait olduğunu belirtir, kendi
+OXBOWS	(ad) çoğul çekimi: oxbow
+OXCARTS	(ad) çoğul çekimi: oxcart
+OXEN	(ad) ox sözcüğünün çoğul çekimi
+OXEYES	(ad) çoğul çekimi: oxeye
+OXIDANTS	(ad) çoğul çekimi: oxidant
+OXIDASES	(ad) çoğul çekimi: oxidase
+OXIDATION	(ad) yükseltgenme: oksitlenme.
+OXIDATIONS	(oxidation sözcüğünün çekimi) (ad) yükseltgenme: oksitlenme.
+OXIDE	(ad) oksit: oksijenin bir elementle birleşmesiyle oluşan madde
+OXIDES	(ad) çoğul çekimi: oxide
+OXIDISERS	(ad) çoğul çekimi: oxidiser
+OXIDIZERS	(ad) çoğul çekimi: oxidizer
+OXIDOREDUCTASE	(ad) oksidoredüktaz: bir bileşiğin indirgenmesiyle diğer bileşiğin oksidasyonunu katalizleyen dehidrojenaz, hidroksilaz, oksidaz, oksijenaz, peroksidaz ve redüktaz gibi enzimler, oksidasyon-redüksiyon enzimleri
+OXIDOREDUCTASES	(ad) çoğul çekimi: oxidoreductase
+OXIMES	(ad) çoğul çekimi: oxime
+OXTAILS	(ad) çoğul çekimi: oxtail
+OXYACIDS	(ad) çoğul çekimi: oxyacid
+OXYGEN	(ad) oksijen: atom numarası 8, atom ağırlığı 16 olan (simgesi O), hidrojenle birleşerek suyu oluşturan, rengi, kokusu ve tadı olmayan, havada beşte bir oranında bulunan gaz, müvellidülhumuza
+OXYGENATORS	(ad) çoğul çekimi: oxygenator
+OXYGENS	(oxygen sözcüğünün çekimi) (ad) oksijen: atom numarası 8, atom ağırlığı 16 olan (simgesi O), hidrojenle birleşerek suyu oluşturan, rengi, kokusu...
+OXYMORONS	(ad) çoğul çekimi: oxymoron
+OXYTOCIN	(ad) oksitosin: Hipotalamusun paraventrikular çekirdeğindeki sinir hücreleri tarafından sentezlenen, dokuz amino aside sahip, okta peptit yapıda, nörofizin aracılığıyla hipofiz arka lobuna taşınan ve burada kılcal damarlara yakın sinir uçlarında depo edilen uterotonik etkili ve memeden sütün indirilmesini sağlayan...
+OXYTOCINS	(oxytocin sözcüğünün çekimi) (ad) oksitosin: Hipotalamusun paraventrikular çekirdeğindeki sinir hücreleri tarafından sentezlenen, dokuz amino aside...
+OXYTONE	(ad) oxytone kelimesinin karşılığı: sondan vurgulu
+OXYTONES	(ad) çoğul çekimi: oxytone
+OYSTER	(ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine kapanan iki çenedi olan, içinde inci oluşan, eti beğenilen bir deniz yumuşakçası, (Ostrea edulis).
+OYSTERCATCHERS	(ad) çoğul çekimi: oystercatcher
+OYSTERED	(oyster sözcüğünün çekimi) (ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine...
+OYSTERER	(oyster sözcüğünün çekimi) (ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine...
+OYSTERING	(oyster sözcüğünün çekimi) (ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine...
+OYSTERINGS	(oyster sözcüğünün çekimi) (ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine...
+OYSTERS	(ad) çoğul çekimi: oyster
+OZOCERITES	(ad) çoğul çekimi: ozocerite
+OZONE	(ad) ozon: Molekülünde üç atom bulunan oksijenden oluşan, ağır kokulu, gaz durumundaki basit element (O3): ozon gazı
+OZONES	(ozone sözcüğünün çekimi) (ad) ozon: Molekülünde üç atom bulunan oksijenden oluşan, ağır kokulu, gaz durumundaki basit element (O3): ozon gazı
+OZONIDES	(ad) çoğul çekimi: ozonide

@@ -1,0 +1,745 @@
+VACANCIES	(forma de vacancy) (substantivo) vaga: ausência (também: lacuna, vazio)
+VACANCY	(substantivo) vaga: ausência (também: lacuna, vazio)
+VACANT	(adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: desocupado, vazio)
+VACANTLY	(advérbio) vacuamente: de forma vácua (também: vaziamente)
+VACATE	(verbo) desocupar: sair; liberar ou vagar algo que estava ocupado (também: vagar)
+VACATED	(forma de vacate) (verbo) desocupar: sair; liberar ou vagar algo que estava ocupado (também: vagar)
+VACATES	(forma de vacate) (verbo) desocupar: sair; liberar ou vagar algo que estava ocupado (também: vagar)
+VACATING	(forma de vacate) (verbo) desocupar: sair; liberar ou vagar algo que estava ocupado (também: vagar)
+VACATION	(substantivo) vacation se traduz como ⟪férias|FERIAS⟫
+VACATIONED	(forma de vacation) (substantivo) vacation se traduz como ⟪férias|FERIAS⟫
+VACATIONING	(forma de vacation) (substantivo) vacation se traduz como ⟪férias|FERIAS⟫
+VACATIONS	(forma de vacation) (substantivo) vacation se traduz como ⟪férias|FERIAS⟫
+VACCINATE	(verbo) vacinar: introduzir uma vacina no organismo de
+VACCINATED	(forma de vaccinate) (verbo) vacinar: introduzir uma vacina no organismo de
+VACCINATES	(forma de vaccinate) (verbo) vacinar: introduzir uma vacina no organismo de
+VACCINATING	(forma de vaccinate) (verbo) vacinar: introduzir uma vacina no organismo de
+VACCINATION	(substantivo) vacinação: ato ou efeito de vacinar
+VACCINATIONS	(forma de vaccination) (substantivo) vacinação: ato ou efeito de vacinar
+VACCINE	(substantivo) vacina: preparação usada como inoculação preventiva para dar imunidade contra uma doença específica e que usualmente emprega uma forma enfraquecida do agente patogênico
+VACCINES	(forma de vaccine) (substantivo) vacina: preparação usada como inoculação preventiva para dar imunidade contra uma doença específica e que...
+VACUA	(forma de vacuum) (substantivo) vácuo: espaço no qual não há matéria
+VACUOLE	(substantivo) vacúolo: nome comum a um tipo de estrutura celular contida no citoplasma das células (bastante numerosa nas vegetais), de forma esférica ou ovalar, cujo conteúdo fluido pode ser de armazenamento de nutrientes ou de excreção, regulatório da quantidade de água absorvida por osmose, acúmulo de gorduras nas...
+VACUOLES	(forma de vacuole) (substantivo) vacúolo: nome comum a um tipo de estrutura celular contida no citoplasma das células (bastante numerosa...
+VACUUM	(substantivo) vácuo: espaço no qual não há matéria
+VACUUMED	(forma de vacuum) (substantivo) vácuo: espaço no qual não há matéria
+VACUUMING	(forma de vacuum) (substantivo) vácuo: espaço no qual não há matéria
+VACUUMS	(forma de vacuum) (substantivo) vácuo: espaço no qual não há matéria
+VAGABONDAGE	(substantivo) vagabondage se traduz como ⟪vagabundagem⟫
+VAGABONDAGES	(forma de vagabondage) (substantivo) vagabondage se traduz como ⟪vagabundagem⟫
+VAGARIES	(substantivo) plural de vagary: capricho
+VAGARY	(substantivo) capricho: vontade súbita e sem fundamento justificado; fantasia; obstinação; volubilidade; inconstância; brio; timbre; pundonor; variabilidade de modas ou de ideias; extravagância em obras de arte
+VAGINA	(substantivo) vagina: canal do órgão sexual feminino dos mamíferos, que se estende desde o colo do útero à vulva e cujas funções são receber o pénis/pênis durante o coito e dar saída ao feto no momento do parto, assim como expulsar o conteúdo menstrual
+VAGINAE	(forma de vagina) (substantivo) vagina: canal do órgão sexual feminino dos mamíferos, que se estende desde o colo do útero à vulva e...
+VAGINAL	(adjetivo) vaginal: relativo à vagina
+VAGINALLY	(advérbio) vaginalmente: de modo vaginal
+VAGINAS	(forma de vagina) (substantivo) vagina: canal do órgão sexual feminino dos mamíferos, que se estende desde o colo do útero à vulva e...
+VAGUE	(adjetivo) vago: sem um sentido bem definido
+VAGUELY	(advérbio) vagamente: de modo vago
+VAGUER	(forma de vague) (adjetivo) vago: sem um sentido bem definido
+VAGUEST	(forma de vague) (adjetivo) vago: sem um sentido bem definido
+VAINGLORIES	(forma de vainglory) (substantivo) vainglory se traduz como ⟪vanglória|VANGLORIA⟫
+VAINGLORY	(substantivo) vainglory se traduz como ⟪vanglória|VANGLORIA⟫
+VAINLY	(advérbio) vaidosamente: de modo vaidoso (também: vãmente)
+VALE	(substantivo) vale: planície entre duas montanhas ou colinas
+VALERIAN	(substantivo) valeriana: planta da família das valerianáceas
+VALERIANS	(forma de valerian) (substantivo) valeriana: planta da família das valerianáceas
+VALES	(forma de vale) (substantivo) vale: planície entre duas montanhas ou colinas
+VALIANT	(adjetivo) valente: que vale
+VALIANTLY	(advérbio) valentemente: de forma valente
+VALIANTS	(forma de valiant) (adjetivo) valente: que vale
+VALID	(adjetivo) válido: justo; correto; bem fundado
+VALIDATE	(verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDATED	(forma de validate) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDATES	(forma de validate) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDATING	(forma de validate) (verbo) validar: tornar(-se) válido, legítimo, legal. (também: homologar)
+VALIDITIES	(forma de validity) (substantivo) validade: qualidade de ser válido
+VALIDITY	(substantivo) validade: qualidade de ser válido
+VALIDLY	(advérbio) validamente: de modo válido
+VALKYRIE	(substantivo) valquíria: deidade feminina menor mitológica nórdica que elegia os mais heróicos guerreiros mortos em batalha e os conduzia ao salão dos mortos, chamado de valhala
+VALKYRIES	(forma de valkyrie) (substantivo) valquíria: deidade feminina menor mitológica nórdica que elegia os mais heróicos guerreiros mortos em...
+VALLEY	(substantivo) vale: planície entre duas montanhas ou colinas (também: baixada)
+VALLEYS	(forma de valley) (substantivo) vale: planície entre duas montanhas ou colinas (também: baixada)
+VALOR	(substantivo) valor: coragem
+VALORS	(forma de valor) (substantivo) valor: coragem
+VALUABLE	(adjetivo) valioso: que tem grande valor (também: valorável)
+VALUABLES	(forma de valuable) (adjetivo) valioso: que tem grande valor (também: valorável)
+VALUABLY	(advérbio) valiosamente: de modo valioso
+VALUATION	(substantivo) valoração: ato de valorar
+VALUATIONS	(forma de valuation) (substantivo) valoração: ato de valorar
+VALUE	(substantivo) valor: qualidade que distingue algo em comparação aos seus iguais; medida da importância de algo\n(verbo) value se traduz como dar valor
+VALUED	(adjetivo) valorizado: que se valorizou
+VALUES	(forma de value) (substantivo) valor: qualidade que distingue algo em comparação aos seus iguais; medida da importância de algo
+VALUING	(forma de value) (substantivo) valor: qualidade que distingue algo em comparação aos seus iguais; medida da importância de algo
+VALVE	(substantivo) válvula: aparato que permite a passagem de líquidos ou gases por uma abertura em uma só direção (também: valva)
+VALVES	(forma de valve) (substantivo) válvula: aparato que permite a passagem de líquidos ou gases por uma abertura em uma só direção (também:...
+VALVING	(forma de valve) (substantivo) válvula: aparato que permite a passagem de líquidos ou gases por uma abertura em uma só direção (também:...
+VAMP	(substantivo) vampe: mulher sedutora
+VAMPED	(forma de vamp) (substantivo) vampe: mulher sedutora
+VAMPING	(forma de vamp) (substantivo) vampe: mulher sedutora
+VAMPIRE	(substantivo) vampiro: ser mitológico reanimado dos mortos que se alimenta de sangue humano
+VAMPIRES	(forma de vampire) (substantivo) vampiro: ser mitológico reanimado dos mortos que se alimenta de sangue humano
+VAMPIRISM	(substantivo) vampirism se traduz como ⟪vampirismo⟫
+VAMPIRISMS	(forma de vampirism) (substantivo) vampirism se traduz como ⟪vampirismo⟫
+VAMPS	(forma de vamp) (substantivo) vampe: mulher sedutora
+VAN	(substantivo) van se traduz como ⟪van⟫
+VANADIUM	(substantivo) vanádio: elemento químico de símbolo V, possui o número atômico 23 e massa atômica relativa 50,941; é encontrado muito disperso na natureza, principalmente, nos minérios patronita e carnotita; é utilizado como catalisador na indústria química, para produção de ácido sulfúrico; também é utilizado em ligas...
+VANADIUMS	(forma de vanadium) (substantivo) vanádio: elemento químico de símbolo V, possui o número atômico 23 e massa atômica relativa 50,941; é...
+VANDALISE	(verbo) vandalizar: Cometer um ato de vandalismo
+VANDALISED	(forma de vandalise) (verbo) vandalizar: Cometer um ato de vandalismo
+VANDALISES	(forma de vandalise) (verbo) vandalizar: Cometer um ato de vandalismo
+VANDALISING	(forma de vandalise) (verbo) vandalizar: Cometer um ato de vandalismo
+VANDALISM	(substantivo) vandalismo: destruição intencional de propriedades e bens alheios; defraudação
+VANDALISMS	(forma de vandalism) (substantivo) vandalismo: destruição intencional de propriedades e bens alheios; defraudação
+VANDALIZE	(verbo) vandalizar: Cometer um ato de vandalismo (também: defraudar, depredar)
+VANDALIZED	(forma de vandalize) (verbo) vandalizar: Cometer um ato de vandalismo (também: defraudar, depredar)
+VANDALIZES	(forma de vandalize) (verbo) vandalizar: Cometer um ato de vandalismo (também: defraudar, depredar)
+VANDALIZING	(forma de vandalize) (verbo) vandalizar: Cometer um ato de vandalismo (também: defraudar, depredar)
+VANGUARD	(substantivo) vanguarda: a parte do exército que vai na frente do resto das tropas
+VANGUARDS	(forma de vanguard) (substantivo) vanguarda: a parte do exército que vai na frente do resto das tropas
+VANILLA	(substantivo) baunilha: essência adocicada e aromática obtida dos frutos da orquídea Vanilla planifolia
+VANILLAS	(forma de vanilla) (substantivo) baunilha: essência adocicada e aromática obtida dos frutos da orquídea Vanilla planifolia
+VANISH	(verbo) desaparecer: deixar de existir ou de ser conhecido; acabar gradualmente
+VANISHED	(forma de vanish) (verbo) desaparecer: deixar de existir ou de ser conhecido; acabar gradualmente
+VANISHES	(forma de vanish) (verbo) desaparecer: deixar de existir ou de ser conhecido; acabar gradualmente
+VANISHING	(forma de vanish) (verbo) desaparecer: deixar de existir ou de ser conhecido; acabar gradualmente
+VANITIED	(forma de vanity) (substantivo) vaidade: orgulho (também: vanglória)
+VANITIES	(forma de vanity) (substantivo) vaidade: orgulho (também: vanglória)
+VANITY	(substantivo) vaidade: orgulho (também: vanglória)
+VANNED	(forma de van) (substantivo) van se traduz como ⟪van⟫
+VANS	(forma de van) (substantivo) van se traduz como ⟪van⟫
+VAPID	(adjetivo) insípido: sem-graça, enfadonho, monótono
+VAPOR	(substantivo) matéria difusa gasosa no ar, como névoa
+VAPORIZER	(substantivo) vaporizer se traduz como vaporizador
+VAPORIZERS	(forma de vaporizer) (substantivo) vaporizer se traduz como vaporizador
+VARIABILITIES	(forma de variability) (substantivo) variabilidade: qualidade do que é variável
+VARIABILITY	(substantivo) variabilidade: qualidade do que é variável
+VARIABLE	(adjetivo) variável: elemento de uma função que pode assumir diferentes valores\n(substantivo) variável: elemento de uma função que pode assumir diferentes valores
+VARIABLES	(forma de variable) (adjetivo) variável: elemento de uma função que pode assumir diferentes valores
+VARIABLY	(advérbio) variavelmente: de forma variável
+VARIED	(forma de vary) (verbo) variar: tornar-se diferente (também: mudar)
+VARIEDLY	(forma de vary) (verbo) variar: tornar-se diferente (também: mudar)
+VARIEGATED	(adjetivo) variegado: ver variado
+VARIES	(forma de vary) (verbo) variar: tornar-se diferente (também: mudar)
+VARIETAL	(adjetivo) varietal: diz-se do vinho feito exclusivamente, ou em maior quantidade, de uma única variedade de uva
+VARIETALS	(forma de varietal) (adjetivo) varietal: diz-se do vinho feito exclusivamente, ou em maior quantidade, de uma única variedade de uva
+VARIETIES	(forma de variety) (substantivo) variedade: diferença; diversidade; inconstância; variação
+VARIETY	(substantivo) variedade: diferença; diversidade; inconstância; variação
+VARIOUS	(adjetivo) various se traduz como ⟪vários|VARIOS⟫
+VARIOUSLY	(advérbio) variadamente: de modo variado
+VARNISH	(substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VARNISHED	(forma de varnish) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VARNISHES	(forma de varnish) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VARNISHING	(forma de varnish) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VARY	(verbo) variar: tornar-se diferente (também: mudar)
+VARYING	(forma de vary) (verbo) variar: tornar-se diferente (também: mudar)
+VARYINGLY	(forma de vary) (verbo) variar: tornar-se diferente (também: mudar)
+VASCULAR	(adjetivo) vascular: relativo aos vasos (especialmente aos vasos sanguíneos)
+VASE	(substantivo) vaso: recipiente para líquidos, sólidos, flores etc\n(verbo) colocar em vaso ou recipiente similar
+VASECTOMIES	(forma de vasectomy) (substantivo) vasectomia: excisão do vaso deferente ou de uma parte dele para induzir a esterilidade no homem
+VASECTOMY	(substantivo) vasectomia: excisão do vaso deferente ou de uma parte dele para induzir a esterilidade no homem
+VASES	(substantivo) plural de vase: vaso\n(verbo) terceira pessoa do singular do presente do indicativo do verbo vase: vaso
+VASOCONSTRICTION	(substantivo) vasoconstrição: processo de contração dos vasos sanguíneos, em consequência da contração do músculo liso presente na parede desses mesmos vasos
+VASOCONSTRICTIONS	(forma de vasoconstriction) (substantivo) vasoconstrição: processo de contração dos vasos sanguíneos, em consequência da contração do músculo liso...
+VASSAL	(substantivo) vassalo: na Idade Média, o servo da terra submetido a autoridade absoluta de um suserano
+VASSALS	(forma de vassal) (substantivo) vassalo: na Idade Média, o servo da terra submetido a autoridade absoluta de um suserano
+VAST	(adjetivo) vasto: de grande extensão
+VASTER	(forma de vast) (adjetivo) vasto: de grande extensão
+VASTEST	(forma de vast) (adjetivo) vasto: de grande extensão
+VASTLY	(advérbio) vastamente: de modo vasto
+VASTS	(forma de vast) (adjetivo) vasto: de grande extensão
+VATICINATION	(substantivo) vaticínio: predição
+VATICINATIONS	(forma de vaticination) (substantivo) vaticínio: predição
+VATICINATOR	(substantivo) vaticinador: pessoa que vaticina, que prediz, que prognostica: que prevê
+VATICINATORS	(forma de vaticinator) (substantivo) vaticinador: pessoa que vaticina, que prediz, que prognostica: que prevê
+VAULT	(substantivo) vault se traduz como ⟪abóbada|ABOBADA⟫\n(verbo) vault se traduz como ⟪abobadar⟫
+VAULTED	(verbo) passado simples e particípio do verbo vault: abóbada
+VAULTING	(verbo) gerúndio do verbo vault: abóbada
+VAULTINGLY	(forma de vault) (substantivo) vault se traduz como ⟪abóbada|ABOBADA⟫
+VAULTINGS	(forma de vault) (substantivo) vault se traduz como ⟪abóbada|ABOBADA⟫
+VAULTS	(verbo) terceira pessoa do singular do verbo vault: abóbada\n(substantivo) plural de vault: abóbada
+VAUNT	(substantivo) vaunt se traduz como vangloriar-se, gloriar-se
+VAUNTED	(forma de vaunt) (substantivo) vaunt se traduz como vangloriar-se, gloriar-se
+VAUNTING	(forma de vaunt) (substantivo) vaunt se traduz como vangloriar-se, gloriar-se
+VAUNTS	(forma de vaunt) (substantivo) vaunt se traduz como vangloriar-se, gloriar-se
+VECTOR	(substantivo) vetor: qualquer ser vivo que transmite doenças; meio de transporte de doenças\n(verbo) determinar o percurso a seguir
+VECTORED	(forma de vector) (substantivo) vetor: qualquer ser vivo que transmite doenças; meio de transporte de doenças
+VECTORING	(forma de vector) (substantivo) vetor: qualquer ser vivo que transmite doenças; meio de transporte de doenças
+VECTORS	(forma de vector) (substantivo) vetor: qualquer ser vivo que transmite doenças; meio de transporte de doenças
+VEER	(verbo) desviar: dar descaminho a; subtrair fraudulentamente
+VEERED	(forma de veer) (verbo) desviar: dar descaminho a; subtrair fraudulentamente
+VEERING	(forma de veer) (verbo) desviar: dar descaminho a; subtrair fraudulentamente
+VEERINGLY	(forma de veer) (verbo) desviar: dar descaminho a; subtrair fraudulentamente
+VEERS	(forma de veer) (verbo) desviar: dar descaminho a; subtrair fraudulentamente
+VEGAN	(substantivo) vegano: adepto do veganismo
+VEGANS	(forma de vegan) (substantivo) vegano: adepto do veganismo
+VEGETABLE	(substantivo) vegetal: planta (ser vivo) (também: hortaliça)
+VEGETABLES	(substantivo) verdura: a cor verde dos vegetais; verdor da vegetação (também: legumes)
+VEGETAL	(adjetivo) vegetal: semelhante às plantas
+VEGETARIAN	(adjetivo) vegetariano: pessoa que não come carne ou que não come produtos derivados de animais (carne, leite, ovo, etc)\n(substantivo) vegetariano: pessoa que não come carne ou que não come produtos derivados de animais (carne, leite, ovo, etc)
+VEGETARIANS	(adjetivo) plural de vegetarian: vegetariano
+VEGETATION	(substantivo) vegetation se traduz como ⟪vegetação|VEGETAÇAO⟫
+VEGETATIONS	(forma de vegetation) (substantivo) vegetation se traduz como ⟪vegetação|VEGETAÇAO⟫
+VEGETATIVE	(adjetivo) vegetativo: fisicamente inativo
+VEGETATIVELY	(advérbio) vegetativamente: de forma vegetativa
+VEHEMENCE	(substantivo) veemência: vivacidade; atividade; intensidade
+VEHEMENCES	(forma de vehemence) (substantivo) veemência: vivacidade; atividade; intensidade
+VEHEMENTLY	(advérbio) veementemente: de modo veemente
+VEHICLE	(substantivo) veículo, meio de transporte:
+VEHICLES	(forma de vehicle) (substantivo) veículo, meio de transporte:
+VEIL	(substantivo) véu: aparência
+VEILED	(forma de veil) (substantivo) véu: aparência
+VEILEDLY	(advérbio) veladamente: de modo velado
+VEILER	(forma de veil) (substantivo) véu: aparência
+VEILING	(forma de veil) (substantivo) véu: aparência
+VEILINGS	(forma de veil) (substantivo) véu: aparência
+VEILS	(forma de veil) (substantivo) véu: aparência
+VEIN	(substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao coração; geralmente, conduz sangue pobre em oxigênio; a exceção é a veia pulmonar, que conduz sangue rico em oxigênio
+VEINED	(forma de vein) (substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao...
+VEINER	(forma de vein) (substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao...
+VEINING	(forma de vein) (substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao...
+VEINS	(forma de vein) (substantivo) veia: vaso sanguíneo aferente do coração, ou seja, que conduz sangue proveniente do corpo em direção ao...
+VELA	(substantivo) forma plural de velum
+VELAR	(adjetivo) velar se traduz como ⟪velar⟫\n(substantivo) velar se traduz como ⟪velar⟫
+VELARS	(forma de velar) (adjetivo) velar se traduz como ⟪velar⟫
+VELLEITIES	(forma de velleity) (substantivo) veleidade: sonho
+VELLEITY	(substantivo) veleidade: sonho
+VELOCITIES	(forma de velocity) (substantivo) velocidade: razão entre um deslocamento de um corpo ou ponto material e o tempo levado para efetuar esse...
+VELOCITY	(substantivo) velocidade: razão entre um deslocamento de um corpo ou ponto material e o tempo levado para efetuar esse deslocamento
+VENAL	(adjetivo) venal: que se pode vender
+VENALLY	(advérbio) venalmente: de forma venal
+VENDOR	(substantivo) fornecedor: aquele que fornece (um produto, serviço, etc)
+VENDORS	(forma de vendor) (substantivo) fornecedor: aquele que fornece (um produto, serviço, etc)
+VENEER	(substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VENEERED	(forma de veneer) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VENEERER	(forma de veneer) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VENEERING	(forma de veneer) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VENEERINGS	(forma de veneer) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VENEERS	(forma de veneer) (substantivo) verniz: mistura de álcool com resina utilizada para polir móveis e outros objetos
+VENERABLE	(adjetivo) venerable se traduz como ⟪venerável|VENERAVEL⟫
+VENERATE	(verbo) venerar: tributar veneração a
+VENERATED	(forma de venerate) (verbo) venerar: tributar veneração a
+VENERATES	(forma de venerate) (verbo) venerar: tributar veneração a
+VENERATING	(forma de venerate) (verbo) venerar: tributar veneração a
+VENEREAL	(adjetivo) venéreo: referente à sexualidade
+VENGEFULLY	(advérbio) vingativamente: de forma vingativa
+VENIAL	(adjetivo) venial se traduz como ⟪venial⟫
+VENIALLY	(forma de venial) (adjetivo) venial se traduz como ⟪venial⟫
+VENOM	(substantivo) veneno: substância ou droga ilícita ou de uso controlado, estimulante ao organismo
+VENOMER	(forma de venom) (substantivo) veneno: substância ou droga ilícita ou de uso controlado, estimulante ao organismo
+VENOMING	(forma de venom) (substantivo) veneno: substância ou droga ilícita ou de uso controlado, estimulante ao organismo
+VENOMOUSLY	(advérbio) venenosamente: de modo venenoso
+VENOMS	(forma de venom) (substantivo) veneno: substância ou droga ilícita ou de uso controlado, estimulante ao organismo
+VENOUS	(adjetivo) venoso: que tem veias
+VENOUSLY	(forma de venous) (adjetivo) venoso: que tem veias
+VENTILATE	(verbo) ventilar: expor ao vento
+VENTILATED	(forma de ventilate) (verbo) ventilar: expor ao vento
+VENTILATES	(forma de ventilate) (verbo) ventilar: expor ao vento
+VENTILATING	(forma de ventilate) (verbo) ventilar: expor ao vento
+VENTILATION	(substantivo) ventilação: ato ou efeito de ventilar
+VENTILATIONS	(forma de ventilation) (substantivo) ventilação: ato ou efeito de ventilar
+VENTRALLY	(advérbio) ventralmente: de forma ventral
+VENTRILOQUIST	(substantivo) ventríloquo: artista que apresenta um espetáculo de ventriloquia
+VENTRILOQUISTS	(forma de ventriloquist) (substantivo) ventríloquo: artista que apresenta um espetáculo de ventriloquia
+VENTURE	(verbo) aventurar: expor(-se) ou ousar submeter(-se) à sorte, ao acaso, ao risco ou ao perigo
+VENTURED	(forma de venture) (verbo) aventurar: expor(-se) ou ousar submeter(-se) à sorte, ao acaso, ao risco ou ao perigo
+VENTURES	(forma de venture) (verbo) aventurar: expor(-se) ou ousar submeter(-se) à sorte, ao acaso, ao risco ou ao perigo
+VENTURING	(forma de venture) (verbo) aventurar: expor(-se) ou ousar submeter(-se) à sorte, ao acaso, ao risco ou ao perigo
+VENUE	(substantivo) sede: local onde acontece um evento (também: salão, sala de eventos)
+VENUES	(forma de venue) (substantivo) sede: local onde acontece um evento (também: salão, sala de eventos)
+VERACIOUS	(adjetivo) veraz: que diz a verdade; em que há verdade; verídico
+VERACITIES	(forma de veracity) (substantivo) veracidade: qualidade do que é verdadeiro; representação da verdade
+VERACITY	(substantivo) veracidade: qualidade do que é verdadeiro; representação da verdade
+VERB	(substantivo) verb se traduz como ⟪verbo⟫
+VERBAL	(adjetivo) verbal, relacionado a palavras\n(substantivo) forma verbal que não atua como predicado em uma oração
+VERBALIZE	(verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBALIZED	(forma de verbalize) (verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBALIZES	(forma de verbalize) (verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBALIZING	(forma de verbalize) (verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBALLY	(advérbio) verbalmente: de maneira verbal; utilizando palavras ou a fala
+VERBALS	(forma de verbal) (adjetivo) verbal, relacionado a palavras
+VERBATIM	(adjetivo) que reproduz o original fielmente (documento)\n(advérbio) tintim por tintim, palavra por palavra, literalmente
+VERBENA	(substantivo) urgebão: planta da espécie Verbena officinalis, medicinal, verbena (também: orgevão, orjavão)
+VERBENAS	(forma de verbena) (substantivo) urgebão: planta da espécie Verbena officinalis, medicinal, verbena (também: orgevão, orjavão)
+VERBIFIED	(forma de verbify) (verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBIFIES	(forma de verbify) (verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBIFY	(verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBIFYING	(forma de verbify) (verbo) verbalizar: completar uma palavra, texto ou discurso com verbos
+VERBOSITIES	(forma de verbosity) (substantivo) verbosity se traduz como ⟪verbosidade⟫
+VERBOSITY	(substantivo) verbosity se traduz como ⟪verbosidade⟫
+VERBS	(forma de verb) (substantivo) verb se traduz como ⟪verbo⟫
+VERDICT	(substantivo) veredicto: decisão proferida por um júri sobre matéria submetida ao seu julgamento
+VERDICTS	(forma de verdict) (substantivo) veredicto: decisão proferida por um júri sobre matéria submetida ao seu julgamento
+VERDIGRIS	(substantivo) verdigris se traduz como ⟪zinabre⟫, ⟪azinhavre⟫\n(verbo) azinhavrar: cobrir(-se) de azinhavre, verdete; oxidar(-se) o cobre (e ligas que o contêm, como bronze e latão)
+VERDIGRISES	(forma de verdigris) (substantivo) verdigris se traduz como ⟪zinabre⟫, ⟪azinhavre⟫
+VERGE	(substantivo) beirada: margem de um rio, de um lago ou de um mar (também: beira)
+VERGED	(forma de verge) (substantivo) beirada: margem de um rio, de um lago ou de um mar (também: beira)
+VERGES	(forma de verge) (substantivo) beirada: margem de um rio, de um lago ou de um mar (também: beira)
+VERGING	(forma de verge) (substantivo) beirada: margem de um rio, de um lago ou de um mar (também: beira)
+VERIDICAL	(adjetivo) verídico: em que há verdade; exato
+VERIDICALLY	(advérbio) veridicamente: de modo verídico
+VERIER	(forma de very) (advérbio) very se traduz como ⟪muito⟫
+VERIEST	(forma de very) (advérbio) very se traduz como ⟪muito⟫
+VERIFIABLE	(adjetivo) comprovável: que se consegue comprovar (também: verificável)
+VERIFICATION	(substantivo) verificação: exame no qual qualquer tipo de ideia ou asserção - relato, teoria, hipótese etc. - tem sua pretensão de verdade corroborada
+VERIFICATIONS	(forma de verification) (substantivo) verificação: exame no qual qualquer tipo de ideia ou asserção - relato, teoria, hipótese etc. - tem sua...
+VERIFIED	(adjetivo) verificado: ato ou efeito de verificar
+VERIFIES	(forma de verify) (verbo) verificar: demonstrar ou expor à vista a verdade de
+VERIFY	(verbo) verificar: demonstrar ou expor à vista a verdade de
+VERIFYING	(forma de verify) (verbo) verificar: demonstrar ou expor à vista a verdade de
+VERISIMILARLY	(advérbio) verossimilmente: de forma verossímil (também: verosimilmente)
+VERMICULITE	(substantivo) vermiculita: mineral composto principalmente de ferro, alumínio e cálcio; é formado por silicatos inalteráveis em água, fato que possibilita a sua ampla utilização na construção civil como isolante térmico, acústico e na produção de tijolos; sua composição química aproximada é (MgFe,Al)₃(Al,Si)₄O₁₀(OH)₂.4H₂O
+VERMICULITES	(forma de vermiculite) (substantivo) vermiculita: mineral composto principalmente de ferro, alumínio e cálcio; é formado por silicatos...
+VERMILION	(substantivo) vermilion se traduz como vermelhão
+VERMILIONS	(forma de vermilion) (substantivo) vermilion se traduz como vermelhão
+VERMINOUS	(adjetivo) verminoso: infestado com vermes
+VERMOUTH	(substantivo) vermute: bebida alcoólica à base de vinho, com adição de flores ou ervas aromáticas.
+VERMOUTHS	(forma de vermouth) (substantivo) vermute: bebida alcoólica à base de vinho, com adição de flores ou ervas aromáticas.
+VERNACULARLY	(advérbio) vernacularmente: de modo vernacular
+VERONICA	(substantivo) verônica: imagem do rosto ensanguentado de Jesus, impressa no tecido com o qual teria sido enxugado a caminho do Calvário
+VERONICAS	(forma de veronica) (substantivo) verônica: imagem do rosto ensanguentado de Jesus, impressa no tecido com o qual teria sido enxugado a...
+VERSATILELY	(advérbio) versatilmente: de forma versátil
+VERSE	(substantivo) verso: uma linha de um poema
+VERSED	(adjetivo) versed se traduz como ⟪versado⟫
+VERSES	(forma de verse) (substantivo) verso: uma linha de um poema
+VERSING	(forma de verse) (substantivo) verso: uma linha de um poema
+VERSION	(substantivo) versão: interpretação
+VERSIONS	(forma de version) (substantivo) versão: interpretação
+VERSUS	(preposição) versus se traduz como ⟪versus⟫
+VERTEBRA	(substantivo) vértebra: cada um dos ossos que compõem a coluna vertebral dos vertebrados
+VERTEBRAE	(forma de vertebra) (substantivo) vértebra: cada um dos ossos que compõem a coluna vertebral dos vertebrados
+VERTEBRAL	(adjetivo) vertebral: relativo às vértebras
+VERTEBRAS	(forma de vertebra) (substantivo) vértebra: cada um dos ossos que compõem a coluna vertebral dos vertebrados
+VERTEBRATE	(adjetivo) vertebrado: espécime dos vertebrados
+VERTEBRATES	(forma de vertebrate) (adjetivo) vertebrado: espécime dos vertebrados
+VERTEX	(substantivo) vértice: elemento ao qual se ligam as arestas; geralmente representado por um ponto (também: cume, topo)
+VERTEXES	(forma de vertex) (substantivo) vértice: elemento ao qual se ligam as arestas; geralmente representado por um ponto (também: cume, topo)
+VERTICAL	(adjetivo) vertical se traduz como ⟪vertical⟫
+VERTICALS	(forma de vertical) (adjetivo) vertical se traduz como ⟪vertical⟫
+VERTICES	(forma de vertex) (substantivo) vértice: elemento ao qual se ligam as arestas; geralmente representado por um ponto (também: cume, topo)
+VERTIGINES	(forma de vertigo) (substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam;...
+VERTIGINOUS	(adjetivo) vertiginoso, que gira muito rapidamente
+VERTIGINOUSLY	(advérbio) vertiginosamente: de modo vertiginoso
+VERTIGO	(substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam; tontura rotatória
+VERTIGOES	(forma de vertigo) (substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam;...
+VERTIGOS	(forma de vertigo) (substantivo) vertigem: tipo de tontura caracterizado pela sensação de movimento do corpo ou dos objetos que o rodeiam;...
+VERVAIN	(substantivo) urgebão: planta da espécie Verbena officinalis, medicinal, verbena (também: orgevão, orjavão)
+VERVAINS	(forma de vervain) (substantivo) urgebão: planta da espécie Verbena officinalis, medicinal, verbena (também: orgevão, orjavão)
+VERY	(advérbio) very se traduz como ⟪muito⟫
+VESICAL	(adjetivo) vesical: relativo ou pertencente à bexiga
+VESICLE	(substantivo) vesícula: pequena bexiga de paredes delgadas, geralmente preenchida por líquido
+VESICLES	(forma de vesicle) (substantivo) vesícula: pequena bexiga de paredes delgadas, geralmente preenchida por líquido
+VESICULAR	(adjetivo) vesicular: relativo à vesícula
+VESPERAL	(substantivo) livro com as letras dos hinos sagrados
+VESPERALS	(forma de vesperal) (substantivo) livro com as letras dos hinos sagrados
+VESPIARIES	(forma de vespiary) (substantivo) vespeiro: ninho de vespas
+VESPIARY	(substantivo) vespeiro: ninho de vespas
+VESSEL	(substantivo) vessel se traduz como ⟪barco⟫, ⟪navio⟫, ⟪embarcação|EMBARCAÇAO⟫
+VESSELED	(forma de vessel) (substantivo) vessel se traduz como ⟪barco⟫, ⟪navio⟫, ⟪embarcação|EMBARCAÇAO⟫
+VESSELS	(substantivo) plural de vessel: barco, navio, embarcação
+VEST	(substantivo) regata: roupa sem manga, podendo ser masculina ou feminina
+VESTED	(forma de vest) (substantivo) regata: roupa sem manga, podendo ser masculina ou feminina
+VESTIBULAR	(adjetivo) vestibular: relativo a vestíbulo (inclusive em relação ao corpo humano)
+VESTIBULE	(substantivo) vestíbulo: área que leva à principal entrada ou ao interior de uma casa ou edifício
+VESTIBULED	(forma de vestibule) (substantivo) vestíbulo: área que leva à principal entrada ou ao interior de uma casa ou edifício
+VESTIBULES	(forma de vestibule) (substantivo) vestíbulo: área que leva à principal entrada ou ao interior de uma casa ou edifício
+VESTIGIAL	(adjetivo) vestigial se traduz como ⟪vestigial⟫
+VESTIGIALLY	(forma de vestigial) (adjetivo) vestigial se traduz como ⟪vestigial⟫
+VESTING	(forma de vest) (substantivo) regata: roupa sem manga, podendo ser masculina ou feminina
+VESTINGS	(forma de vest) (substantivo) regata: roupa sem manga, podendo ser masculina ou feminina
+VESTS	(forma de vest) (substantivo) regata: roupa sem manga, podendo ser masculina ou feminina
+VET	(substantivo) vet se traduz como ⟪veterinário|VETERINARIO⟫\n(verbo) examinar: fazer o exame de (também: verificar)
+VETERAN	(adjetivo) veterano: soldado que já serviu em campos de batalha\n(substantivo) veterano: soldado que já serviu em campos de batalha
+VETERANS	(forma de veteran) (adjetivo) veterano: soldado que já serviu em campos de batalha
+VETO	(substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETOED	(forma de veto) (substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETOER	(forma de veto) (substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETOES	(forma de veto) (substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETOING	(forma de veto) (substantivo) veto: direito político de impedir um processo de decisão ou uma lei
+VETS	(forma de vet) (substantivo) vet se traduz como ⟪veterinário|VETERINARIO⟫
+VETTED	(forma de vet) (substantivo) vet se traduz como ⟪veterinário|VETERINARIO⟫
+VETTING	(substantivo) investigação: verificação ou estudo de um fato através da coleta de evidências, informações ou pistas (também: checagem)
+VEX	(verbo) vex se traduz como ⟪vexar⟫, causar vergonha
+VEXATION	(substantivo) pena: desgosto; tristeza; dor; aflição (também: desolação)
+VEXATIONS	(forma de vexation) (substantivo) pena: desgosto; tristeza; dor; aflição (também: desolação)
+VEXATIOUS	(adjetivo) vexatório: que causa vexame; humilhante; constrangedor (também: vexante)
+VEXED	(forma de vex) (verbo) vex se traduz como ⟪vexar⟫, causar vergonha
+VEXEDLY	(forma de vex) (verbo) vex se traduz como ⟪vexar⟫, causar vergonha
+VEXES	(forma de vex) (verbo) vex se traduz como ⟪vexar⟫, causar vergonha
+VEXING	(forma de vex) (verbo) vex se traduz como ⟪vexar⟫, causar vergonha
+VIA	(preposição) via se traduz como ⟪via⟫
+VIABILITIES	(forma de viability) (substantivo) viabilidade: possibilidade de ser viável
+VIABILITY	(substantivo) viabilidade: possibilidade de ser viável
+VIABLE	(adjetivo) viável: realizável
+VIADUCT	(substantivo) viaduto: tipo ponte que se ergue sobre leito seco (como ruas, estradas, vias férreas, etc.) ou sobre o leito de pequenos cursos d'água, com o objetivo de interligar partes de depressão do terreno ou simplesmente ligar a outra via sobre a qual é erguido com o objetivo de contornar ou facultar o tráfego,...
+VIADUCTS	(forma de viaduct) (substantivo) viaduto: tipo ponte que se ergue sobre leito seco (como ruas, estradas, vias férreas, etc.) ou sobre o...
+VIBE	(substantivo) vibe se traduz como ⟪vibração|VIBRAÇAO⟫\n(verbo) relaxar e desfrutar a vida
+VIBRANTLY	(advérbio) vibrantemente: de forma vibrante
+VIBRAPHONE	(substantivo) vibrafone: instrumento musical de percussão melódica semelhante a um xilofone e que faz parte dos metalofones e idiofones
+VIBRAPHONES	(forma de vibraphone) (substantivo) vibrafone: instrumento musical de percussão melódica semelhante a um xilofone e que faz parte dos...
+VIBRATE	(verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRATED	(forma de vibrate) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRATES	(forma de vibrate) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRATING	(forma de vibrate) (verbo) vibrar: produzir movimento repetitivo e de escala pequena em um objeto
+VIBRATION	(substantivo) vibração, ato de vibrar:
+VIBRATIONS	(forma de vibration) (substantivo) vibração, ato de vibrar:
+VIBRATOR	(substantivo) vibrador: dispositivo vibratório para estimulação sexual
+VIBRATORS	(forma de vibrator) (substantivo) vibrador: dispositivo vibratório para estimulação sexual
+VICAR	(substantivo) pároco: encarregado de uma paróquia
+VICARIOUSLY	(advérbio) vicariamente: de modo vicário
+VICARLY	(forma de vicar) (substantivo) pároco: encarregado de uma paróquia
+VICARS	(forma de vicar) (substantivo) pároco: encarregado de uma paróquia
+VICE	(substantivo) vice se traduz como ⟪vice⟫
+VICEROY	(substantivo) viceroy se traduz como vice-rei
+VICEROYS	(forma de viceroy) (substantivo) viceroy se traduz como vice-rei
+VICES	(substantivo) plural de vice: vice
+VICING	(forma de vice) (substantivo) vice se traduz como ⟪vice⟫
+VICIOUS	(adjetivo) cruel: bárbaro; severo; pungente; doloroso; sanguinário; atroz; dilacerante; perverso (também: violento, destrutivo)
+VICIOUSLY	(advérbio) viciosamente: de forma viciosa
+VICISSITUDE	(substantivo) vicissitude: sucessão de mudanças
+VICISSITUDES	(forma de vicissitude) (substantivo) vicissitude: sucessão de mudanças
+VICTIM	(substantivo) vítima: pessoa que foi arbitrariamente presa, torturada, violentada ou morta injustamente (também: sacrifício)
+VICTIMIZE	(verbo) vitimar: tornar-se vítima; sacrificar-se
+VICTIMIZED	(forma de victimize) (verbo) vitimar: tornar-se vítima; sacrificar-se
+VICTIMIZES	(forma de victimize) (verbo) vitimar: tornar-se vítima; sacrificar-se
+VICTIMIZING	(forma de victimize) (verbo) vitimar: tornar-se vítima; sacrificar-se
+VICTIMS	(forma de victim) (substantivo) vítima: pessoa que foi arbitrariamente presa, torturada, violentada ou morta injustamente (também:...
+VICTOR	(substantivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+VICTORIES	(forma de victory) (substantivo) vitória: ato ou efeito de vencer
+VICTORIOUS	(adjetivo) vitorioso: que triunfou
+VICTORIOUSLY	(advérbio) vitoriosamente: de um modo vitorioso
+VICTORS	(forma de victor) (substantivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+VICTORY	(substantivo) vitória: ato ou efeito de vencer
+VICUNA	(substantivo) vicuna se traduz como ⟪vicunha⟫
+VICUNAS	(substantivo) plural de vicuna: vicunha
+VIDEO	(substantivo) filme, programa de televisão; vídeo\n(verbo) videografar: gravar usando um equipamento de vídeo
+VIDEOS	(substantivo) plural de video: filme, programa de televisão; vídeo
+VIDEOTAPE	(substantivo) videoteipe: fita de material plástico, bastante fina, que tem uma cobertura de partículas magnéticas, normalmente usada para o registro de imagens televisivas ao passar por aparelho em que as partículas são ordenadas
+VIDEOTAPED	(forma de videotape) (substantivo) videoteipe: fita de material plástico, bastante fina, que tem uma cobertura de partículas magnéticas,...
+VIDEOTAPES	(forma de videotape) (substantivo) videoteipe: fita de material plástico, bastante fina, que tem uma cobertura de partículas magnéticas,...
+VIDEOTAPING	(forma de videotape) (substantivo) videoteipe: fita de material plástico, bastante fina, que tem uma cobertura de partículas magnéticas,...
+VIE	(verbo) competir: participar de competição.
+VIED	(forma de vie) (verbo) competir: participar de competição.
+VIES	(forma de vie) (verbo) competir: participar de competição.
+VIEW	(substantivo) view se traduz como ⟪vista⟫, ⟪paisagem⟫\n(verbo) ver: assistir a, ser um expectador de
+VIEWED	(forma de view) (substantivo) view se traduz como ⟪vista⟫, ⟪paisagem⟫
+VIEWING	(forma de view) (substantivo) view se traduz como ⟪vista⟫, ⟪paisagem⟫
+VIEWINGS	(forma de view) (substantivo) view se traduz como ⟪vista⟫, ⟪paisagem⟫
+VIEWPOINT	(substantivo) miradouro: lugar de onde se mira
+VIEWPOINTS	(forma de viewpoint) (substantivo) miradouro: lugar de onde se mira
+VIEWS	(forma de view) (substantivo) view se traduz como ⟪vista⟫, ⟪paisagem⟫
+VIGILANCE	(substantivo) vigilância: o fato de prestar atenção
+VIGILANCES	(forma de vigilance) (substantivo) vigilância: o fato de prestar atenção
+VIGILANTLY	(advérbio) vigilantemente: de forma vigilante
+VIGNETTE	(substantivo) vinheta: pequena estampa de um livro, para explicação de texto ou para ornato
+VIGNETTED	(forma de vignette) (substantivo) vinheta: pequena estampa de um livro, para explicação de texto ou para ornato
+VIGNETTES	(forma de vignette) (substantivo) vinheta: pequena estampa de um livro, para explicação de texto ou para ornato
+VIGNETTING	(forma de vignette) (substantivo) vinheta: pequena estampa de um livro, para explicação de texto ou para ornato
+VIGOR	(substantivo) vigor: força; robustez (também: força, robustez)
+VIGOROUS	(adjetivo) vigoroso: que tem ou demonstra vigor ou robustez; enérgico:
+VIGOROUSLY	(advérbio) vigorosamente: de maneira vigorosa (também: pujantemente)
+VIGORS	(forma de vigor) (substantivo) vigor: força; robustez (também: força, robustez)
+VIKING	(substantivo) viquingue: cada pessoa dos viquingues, grupo humano escandinavo, do norte da Europa, conhecidos navegadores e guerreiros, dos fins do século VIII a princípios do século XII, percorreram a Europa
+VIKINGS	(forma de viking) (substantivo) viquingue: cada pessoa dos viquingues, grupo humano escandinavo, do norte da Europa, conhecidos...
+VILE	(adjetivo) vil: desprezível
+VILELY	(advérbio) vilmente: de forma vil (também: soezmente)
+VILER	(forma de vile) (adjetivo) vil: desprezível
+VILEST	(forma de vile) (adjetivo) vil: desprezível
+VILIFIED	(forma de vilify) (verbo) vilify se traduz como ⟪vilipendiar⟫, ⟪denegrir⟫
+VILIFIES	(forma de vilify) (verbo) vilify se traduz como ⟪vilipendiar⟫, ⟪denegrir⟫
+VILIFY	(verbo) vilify se traduz como ⟪vilipendiar⟫, ⟪denegrir⟫
+VILIFYING	(forma de vilify) (verbo) vilify se traduz como ⟪vilipendiar⟫, ⟪denegrir⟫
+VILLA	(substantivo) vila: casa de campo
+VILLAGE	(substantivo) aldeia: pequena povoação rústica sem jurisdição própria (também: vilarejo:)
+VILLAGES	(forma de village) (substantivo) aldeia: pequena povoação rústica sem jurisdição própria (também: vilarejo:)
+VILLAIN	(substantivo) vilão: a personagem malvada, geralmente um antagonista ou o bandido, em um livro, filme, novela, telenovela ou outra qualquer ficção
+VILLAINESS	(substantivo) vilã: forma feminina de vilão (também: viloa)
+VILLAINESSES	(forma de villainess) (substantivo) vilã: forma feminina de vilão (também: viloa)
+VILLAINIES	(forma de villainy) (substantivo) villainy se traduz como ⟪vileza⟫
+VILLAINS	(forma de villain) (substantivo) vilão: a personagem malvada, geralmente um antagonista ou o bandido, em um livro, filme, novela,...
+VILLAINY	(substantivo) villainy se traduz como ⟪vileza⟫
+VILLAS	(forma de villa) (substantivo) vila: casa de campo
+VILLENAGE	(substantivo) villenage se traduz como ⟪escravidão|ESCRAVIDAO⟫
+VILLENAGES	(forma de villenage) (substantivo) villenage se traduz como ⟪escravidão|ESCRAVIDAO⟫
+VINAIGRETTE	(substantivo) vinagrete: molho preparado com vinagre, óleo de oliva, pimenta do reino e sal, frequentemente adicionado de tomate picado, cebola, salsa, cebolinha, alho, mostarda etc.
+VINAIGRETTES	(forma de vinaigrette) (substantivo) vinagrete: molho preparado com vinagre, óleo de oliva, pimenta do reino e sal, frequentemente adicionado...
+VINDICATE	(verbo) limpar a honra de alguém
+VINDICATED	(forma de vindicate) (verbo) limpar a honra de alguém
+VINDICATES	(forma de vindicate) (verbo) limpar a honra de alguém
+VINDICATING	(forma de vindicate) (verbo) limpar a honra de alguém
+VINDICATION	(substantivo) vindicação: ato or efeito de vindicar
+VINDICATIONS	(forma de vindication) (substantivo) vindicação: ato or efeito de vindicar
+VINDICTIVE	(adjetivo) vingativo: que persegue a vingança, quem trata de devolver o mal, pelo mal que lhe fizeram
+VINE	(substantivo) vine se traduz como ⟪videira⟫
+VINEGAR	(substantivo) vinagre: produto de fermentação acética do vinho e outras substâncias alcoólicas
+VINEGARED	(forma de vinegar) (substantivo) vinagre: produto de fermentação acética do vinho e outras substâncias alcoólicas
+VINEGARS	(forma de vinegar) (substantivo) vinagre: produto de fermentação acética do vinho e outras substâncias alcoólicas
+VINES	(forma de vine) (substantivo) vine se traduz como ⟪videira⟫
+VINING	(forma de vine) (substantivo) vine se traduz como ⟪videira⟫
+VINO	(substantivo) vinho: qualquer bebida que seja feita pela fermentação de uma fruta ou vegetal
+VINOS	(forma de vino) (substantivo) vinho: qualquer bebida que seja feita pela fermentação de uma fruta ou vegetal
+VINOUS	(adjetivo) vinous se traduz como vínico
+VINOUSLY	(forma de vinous) (adjetivo) vinous se traduz como vínico
+VINTAGE	(adjetivo) vintage: vinho fino de uma só colheita produzido em ano de reconhecida qualidade\n(substantivo) vintage: vinho fino de uma só colheita produzido em ano de reconhecida qualidade
+VINTAGES	(forma de vintage) (adjetivo) vintage: vinho fino de uma só colheita produzido em ano de reconhecida qualidade
+VINYL	(substantivo) vinila: radical químico que é um grupo monovalente (CH₂ =CH-), derivado do etileno (também: vinil)
+VINYLS	(forma de vinyl) (substantivo) vinila: radical químico que é um grupo monovalente (CH₂ =CH-), derivado do etileno (também: vinil)
+VIOLA	(substantivo) viola se traduz como ⟪viola⟫
+VIOLAS	(forma de viola) (substantivo) viola se traduz como ⟪viola⟫
+VIOLATE	(verbo) violate se traduz como ⟪violar⟫
+VIOLATED	(adjetivo) violentado: que sofreu violência; que foi agredido física, moral ou sexualmente
+VIOLATER	(forma de violate) (verbo) violate se traduz como ⟪violar⟫
+VIOLATES	(forma de violate) (verbo) violate se traduz como ⟪violar⟫
+VIOLATING	(forma de violate) (verbo) violate se traduz como ⟪violar⟫
+VIOLATION	(substantivo) violação: não cumprimento da lei, desrespeito à lei; infração
+VIOLATIONS	(forma de violation) (substantivo) violação: não cumprimento da lei, desrespeito à lei; infração
+VIOLATOR	(substantivo) violador: pessoa que viola leis, normas, regras ou direitos
+VIOLATORS	(forma de violator) (substantivo) violador: pessoa que viola leis, normas, regras ou direitos
+VIOLENCE	(substantivo) violência: o ato ou efeito de ser violento
+VIOLENCES	(forma de violence) (substantivo) violência: o ato ou efeito de ser violento
+VIOLENT	(adjetivo) violento: exercido com força
+VIOLET	(adjetivo) violeta: designação comum às plantas do gênero Viola ou à flor dessas plantas\n(substantivo) violeta: designação comum às plantas do gênero Viola ou à flor dessas plantas
+VIOLETS	(forma de violet) (adjetivo) violeta: designação comum às plantas do gênero Viola ou à flor dessas plantas
+VIOLIN	(substantivo) violino: instrumento musical de quatro cordas tocado com arco
+VIOLINIST	(substantivo) violinista: pessoa que toca violino
+VIOLINISTS	(forma de violinist) (substantivo) violinista: pessoa que toca violino
+VIOLINS	(forma de violin) (substantivo) violino: instrumento musical de quatro cordas tocado com arco
+VIOLONCELLO	(substantivo) violoncelo: grande instrumento musical da família das cordas, afinado em uma oitava mais grave do que a viola e uma oitava mais agudo que o contrabaixo
+VIOLONCELLOS	(forma de violoncello) (substantivo) violoncelo: grande instrumento musical da família das cordas, afinado em uma oitava mais grave do que a...
+VIPER	(substantivo) víbora: cobra venenosa do Velho Mundo
+VIPERS	(forma de viper) (substantivo) víbora: cobra venenosa do Velho Mundo
+VIRAGO	(substantivo) virago se traduz como virago
+VIRAGOES	(forma de virago) (substantivo) virago se traduz como virago
+VIRAGOS	(forma de virago) (substantivo) virago se traduz como virago
+VIRAL	(adjetivo) vírico: pertinente a vírus
+VIRGIN	(adjetivo) virgem: pessoa que ainda não teve relações sexuais\n(substantivo) virgem: pessoa que ainda não teve relações sexuais
+VIRGINALLY	(advérbio) virginalmente: de modo virginal
+VIRGINS	(forma de virgin) (adjetivo) virgem: pessoa que ainda não teve relações sexuais
+VIRILE	(adjetivo) viril: que possui características físicas ou morais positivas e consideradas próprias do homem
+VIRILELY	(advérbio) virilmente: de forma viril (também: varonilmente)
+VIRTUAL	(adjetivo) virtual: diz-se de algo que se tem como certo
+VIRTUALITIES	(forma de virtuality) (substantivo) virtuality se traduz como virtualidade
+VIRTUALITY	(substantivo) virtuality se traduz como virtualidade
+VIRTUALLY	(advérbio) virtually se traduz como ⟪virtualmente⟫
+VIRTUE	(substantivo) virtude: a disposição firme e constante de fazer o bem
+VIRTUES	(forma de virtue) (substantivo) virtude: a disposição firme e constante de fazer o bem
+VIRTUOUS	(adjetivo) virtuous se traduz como ⟪virtuoso⟫
+VIRTUOUSLY	(advérbio) virtuosamente: de um modo virtuoso
+VIRULENCE	(substantivo) virulência: capacidade patogênica de um microrganismo, medida pela mortalidade que ele produz e/ou por seu poder de invadir tecidos do hospedeiro
+VIRULENCES	(forma de virulence) (substantivo) virulência: capacidade patogênica de um microrganismo, medida pela mortalidade que ele produz e/ou por...
+VIRUS	(substantivo) vírus: agente infeccioso microscópico, que causa várias doenças (AIDS, gripe, etc.) e provoca a produção de anticorpos
+VIRUSES	(forma de virus) (substantivo) vírus: agente infeccioso microscópico, que causa várias doenças (AIDS, gripe, etc.) e provoca a produção...
+VIS	(substantivo) vis se traduz como ⟪força⟫, ⟪poder⟫
+VISA	(substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISAED	(forma de visa) (substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISAING	(forma de visa) (substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISAS	(forma de visa) (substantivo) visto: documento emitido por um país dando a um indivíduo permissão para entrar no país
+VISCERAL	(adjetivo) visceral: relativo ou pertencente às vísceras
+VISCERALLY	(advérbio) visceralmente: de modo visceral
+VISCOSE	(substantivo) viscose se traduz como ⟪viscose⟫
+VISCOSES	(forma de viscose) (substantivo) viscose se traduz como ⟪viscose⟫
+VISCOUS	(adjetivo) viscoso: que tem uma consistência grossa e pegajosa entre o sólido e o líquido
+VISCOUSLY	(advérbio) viscosamente: de forma viscosa
+VISE	(substantivo) torno: aparelho de ferro de duas peças que apertam com força objetos a serem limados (também: morsa)
+VISED	(forma de vis) (substantivo) vis se traduz como ⟪força⟫, ⟪poder⟫
+VISEED	(forma de vise) (substantivo) torno: aparelho de ferro de duas peças que apertam com força objetos a serem limados (também: morsa)
+VISEING	(forma de vise) (substantivo) torno: aparelho de ferro de duas peças que apertam com força objetos a serem limados (também: morsa)
+VISES	(forma de vise) (substantivo) torno: aparelho de ferro de duas peças que apertam com força objetos a serem limados (também: morsa)
+VISIBLE	(adjetivo) visível; que se pode ver
+VISING	(forma de vis) (substantivo) vis se traduz como ⟪força⟫, ⟪poder⟫
+VISION	(substantivo) visão: imagem que se acredita ver em sonhos, ou por medo, loucura, superstição\n(verbo) ter uma visão
+VISIONARIES	(forma de visionary) (adjetivo) visionary se traduz como ⟪visionário|VISIONARIO⟫
+VISIONARY	(adjetivo) visionary se traduz como ⟪visionário|VISIONARIO⟫
+VISIONING	(forma de vision) (substantivo) visão: imagem que se acredita ver em sonhos, ou por medo, loucura, superstição
+VISIONS	(substantivo) plural de vision: visão\n(verbo) terceira pessoa do singular do presente do indicativo do verbo vision: visão
+VISIT	(verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade, polidez, negócios, curiosidade, etc.\n(substantivo) visita; o ato de visitar
+VISITED	(forma de visit) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITING	(forma de visit) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISITOR	(substantivo) visita: convidados em uma visitação (também: visitante)
+VISITORS	(forma de visitor) (substantivo) visita: convidados em uma visitação (também: visitante)
+VISITS	(forma de visit) (verbo) visitar: ir e ficar (com uma pessoa ou família) por um curto período de tempo por questão de sociabilidade,...
+VISTA	(substantivo) vista: panorama
+VISTAED	(forma de vista) (substantivo) vista: panorama
+VISTAS	(forma de vista) (substantivo) vista: panorama
+VISUAL	(adjetivo) visual: relativo à visão
+VISUALISE	(verbo) visualise se traduz como ⟪visualizar⟫
+VISUALISED	(forma de visualise) (verbo) visualise se traduz como ⟪visualizar⟫
+VISUALISES	(forma de visualise) (verbo) visualise se traduz como ⟪visualizar⟫
+VISUALISING	(forma de visualise) (verbo) visualise se traduz como ⟪visualizar⟫
+VISUALIZE	(verbo) visualizar: formar imagem mental
+VISUALIZED	(forma de visualize) (verbo) visualizar: formar imagem mental
+VISUALIZES	(forma de visualize) (verbo) visualizar: formar imagem mental
+VISUALIZING	(forma de visualize) (verbo) visualizar: formar imagem mental
+VISUALLY	(advérbio) visualmente: de forma visual
+VISUALS	(forma de visual) (adjetivo) visual: relativo à visão
+VITAL	(adjetivo) vital: de suma importância
+VITALISM	(substantivo) vitalism se traduz como ⟪vitalismo⟫
+VITALISMS	(forma de vitalism) (substantivo) vitalism se traduz como ⟪vitalismo⟫
+VITALITIES	(forma de vitality) (substantivo) vitalidade: vigor físico ou mental
+VITALITY	(substantivo) vitalidade: vigor físico ou mental
+VITALIZE	(verbo) vitalizar: dar vitalidade
+VITALIZED	(forma de vitalize) (verbo) vitalizar: dar vitalidade
+VITALIZES	(forma de vitalize) (verbo) vitalizar: dar vitalidade
+VITALIZING	(forma de vitalize) (verbo) vitalizar: dar vitalidade
+VITALLY	(advérbio) vitalmente: de modo vital
+VITILIGO	(substantivo) vitiligo: afecção cutânea que causa a perda da pigmentação em áreas que podem ter bordas escurecidas
+VITILIGOS	(forma de vitiligo) (substantivo) vitiligo: afecção cutânea que causa a perda da pigmentação em áreas que podem ter bordas escurecidas
+VITRIOLIC	(adjetivo) vitriolic se traduz como ⟪vitriólico|VITRIOLICO⟫
+VITUPERATE	(verbo) vituperar: censurar ou criticar duramente
+VITUPERATED	(forma de vituperate) (verbo) vituperar: censurar ou criticar duramente
+VITUPERATES	(forma de vituperate) (verbo) vituperar: censurar ou criticar duramente
+VITUPERATING	(forma de vituperate) (verbo) vituperar: censurar ou criticar duramente
+VITUPERATION	(substantivo) vitupério: ultraje, insulto, injúria, afronta, ofensa, agravo
+VITUPERATIONS	(forma de vituperation) (substantivo) vitupério: ultraje, insulto, injúria, afronta, ofensa, agravo
+VIVID	(adjetivo) vívido: aquele que tem vigor, vida ou vivacidade
+VIVIDER	(forma de vivid) (adjetivo) vívido: aquele que tem vigor, vida ou vivacidade
+VIVIDEST	(forma de vivid) (adjetivo) vívido: aquele que tem vigor, vida ou vivacidade
+VIVIDLY	(advérbio) vividamente: de forma vívida
+VIVIPAROUS	(adjetivo) vivíparo: diz-se dos animais cujo embrião se desenvolve dentro do corpo da mãe, numa placenta que lhe fornece o alimento e retira os produtos de excreção.
+VIXEN	(substantivo) vixen se traduz como ⟪raposa⟫
+VIXENS	(forma de vixen) (substantivo) vixen se traduz como ⟪raposa⟫
+VOCABULARIES	(forma de vocabulary) (substantivo) vocabulário: qualquer conjunto de palavras
+VOCABULARY	(substantivo) vocabulário: qualquer conjunto de palavras
+VOCAL	(adjetivo) vocal se traduz como ⟪vocal⟫\n(substantivo) vocal se traduz como ⟪vogal⟫
+VOCALIC	(adjetivo) vocálico: relativo aos sons produzidos pela voz
+VOCALICS	(forma de vocalic) (adjetivo) vocálico: relativo aos sons produzidos pela voz
+VOCALISM	(substantivo) vocalismo: estudo que trata da evolução dos fonemas vocálicos, sobretudo de sua transição do latim para a língua portuguesa
+VOCALISMS	(forma de vocalism) (substantivo) vocalismo: estudo que trata da evolução dos fonemas vocálicos, sobretudo de sua transição do latim para a...
+VOCALIZATION	(substantivo) vocalization se traduz como ⟪vocalização|VOCALIZAÇAO⟫
+VOCALIZATIONS	(forma de vocalization) (substantivo) vocalization se traduz como ⟪vocalização|VOCALIZAÇAO⟫
+VOCALIZE	(verbo) vocalizar: transformar consoantes em vogais
+VOCALIZED	(forma de vocalize) (verbo) vocalizar: transformar consoantes em vogais
+VOCALIZES	(forma de vocalize) (verbo) vocalizar: transformar consoantes em vogais
+VOCALIZING	(forma de vocalize) (verbo) vocalizar: transformar consoantes em vogais
+VOCALLY	(advérbio) vocalmente: de forma vocal
+VOCALS	(forma de vocal) (adjetivo) vocal se traduz como ⟪vocal⟫
+VOCATIONALLY	(advérbio) vocacionadamente: de modo vocacionado (também: vocacionalmente)
+VOCATIVE	(substantivo) vocativo: forma linguística usada para chamamento ou interpelação ao interlocutor no discurso direto, expressando-se por meio do apelativo, ou, em certas línguas, da flexão casual
+VOCATIVELY	(forma de vocative) (substantivo) vocativo: forma linguística usada para chamamento ou interpelação ao interlocutor no discurso direto,...
+VOCATIVES	(forma de vocative) (substantivo) vocativo: forma linguística usada para chamamento ou interpelação ao interlocutor no discurso direto,...
+VOCES	(forma de vox) (substantivo) voz de canto, vocal
+VODKA	(substantivo) vodka: aguardente de cereais, incolor, de forte graduação alcoólica, originária da Europa Oriental.
+VODKAS	(substantivo) plural de vodka: vodka
+VOICE	(substantivo) voice se traduz como ⟪voz⟫\n(verbo) transmitir: enviar de um lugar para o outro
+VOICED	(forma de voice) (substantivo) voice se traduz como ⟪voz⟫
+VOICES	(forma de voice) (substantivo) voice se traduz como ⟪voz⟫
+VOICING	(substantivo) voicing se traduz como ⟪sonorização|SONORIZAÇAO⟫
+VOID	(adjetivo) void se traduz como ⟪vazio⟫\n(substantivo) um espaço vazio
+VOIDED	(forma de void) (adjetivo) void se traduz como ⟪vazio⟫
+VOIDER	(forma de void) (adjetivo) void se traduz como ⟪vazio⟫
+VOIDERS	(forma de void) (adjetivo) void se traduz como ⟪vazio⟫
+VOIDING	(forma de void) (adjetivo) void se traduz como ⟪vazio⟫
+VOIDS	(forma de void) (adjetivo) void se traduz como ⟪vazio⟫
+VOLANT	(adjetivo) volant se traduz como ⟪voador⟫
+VOLATILE	(adjetivo) volátil: volúvel
+VOLATILES	(forma de volatile) (adjetivo) volátil: volúvel
+VOLATILISE	(verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILISED	(forma de volatilise) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILISES	(forma de volatilise) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILISING	(forma de volatilise) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILITIES	(forma de volatility) (substantivo) volatility se traduz como ⟪volatilidade⟫
+VOLATILITY	(substantivo) volatility se traduz como ⟪volatilidade⟫
+VOLATILIZE	(verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILIZED	(forma de volatilize) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILIZES	(forma de volatilize) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLATILIZING	(forma de volatilize) (verbo) volatilizar: transformar uma substância em gás ou vapor
+VOLCANIC	(adjetivo) vulcânico: relativo a vulcão
+VOLCANICALLY	(advérbio) vulcanicamente: de modo vulcânico
+VOLCANICS	(forma de volcanic) (adjetivo) vulcânico: relativo a vulcão
+VOLCANO	(substantivo) vulcão: estrutura geológica pela qual são expelidas substâncias (geralmente magma) presentes no interior da Terra
+VOLCANOES	(forma de volcano) (substantivo) vulcão: estrutura geológica pela qual são expelidas substâncias (geralmente magma) presentes no interior...
+VOLCANOS	(forma de volcano) (substantivo) vulcão: estrutura geológica pela qual são expelidas substâncias (geralmente magma) presentes no interior...
+VOLITION	(substantivo) volição: escolha, decisão consciente
+VOLITIONS	(forma de volition) (substantivo) volição: escolha, decisão consciente
+VOLITIVE	(adjetivo) volitivo: relativo à vontade
+VOLLEY	(substantivo) salva: conjunto de sons, palavras, etc, repetidos rapidamente (também: saraivada)
+VOLLEYBALL	(substantivo) volleyball se traduz como ⟪voleibol⟫
+VOLLEYBALLS	(forma de volleyball) (substantivo) volleyball se traduz como ⟪voleibol⟫
+VOLLEYED	(forma de volley) (substantivo) salva: conjunto de sons, palavras, etc, repetidos rapidamente (também: saraivada)
+VOLLEYER	(forma de volley) (substantivo) salva: conjunto de sons, palavras, etc, repetidos rapidamente (também: saraivada)
+VOLLEYING	(forma de volley) (substantivo) salva: conjunto de sons, palavras, etc, repetidos rapidamente (também: saraivada)
+VOLLEYS	(forma de volley) (substantivo) salva: conjunto de sons, palavras, etc, repetidos rapidamente (também: saraivada)
+VOLT	(substantivo) vóltio: unidade de medida de voltagem (também: volt)
+VOLTAGE	(substantivo) voltage se traduz como ⟪voltagem⟫
+VOLTAGES	(forma de voltage) (substantivo) voltage se traduz como ⟪voltagem⟫
+VOLTAIC	(adjetivo) voltaic se traduz como ⟪voltaico⟫
+VOLTES	(forma de volt) (substantivo) vóltio: unidade de medida de voltagem (também: volt)
+VOLTS	(substantivo) plural de volt: volt, vóltio
+VOLUBILITIES	(forma de volubility) (substantivo) volubility se traduz como ⟪volubilidade⟫
+VOLUBILITY	(substantivo) volubility se traduz como ⟪volubilidade⟫
+VOLUBLE	(adjetivo) voluble se traduz como ⟪volúvel|VOLUVEL⟫
+VOLUME	(substantivo) volume se traduz como volume¹
+VOLUMES	(forma de volume) (substantivo) volume se traduz como volume¹
+VOLUMETRIC	(adjetivo) volumétrico: relativo ao volume
+VOLUMETRICALLY	(advérbio) volumetricamente: de forma volumétrica
+VOLUMING	(forma de volume) (substantivo) volume se traduz como volume¹
+VOLUMINOUS	(adjetivo) volumoso: que tem grandes dimensões em todos os sentidos
+VOLUMINOUSLY	(advérbio) volumosamente: de modo volumoso
+VOLUNTARIES	(forma de voluntary) (adjetivo) voluntário: que ingressa espontaneamente no serviço militar
+VOLUNTARISM	(substantivo) voluntarism se traduz como ⟪voluntarismo⟫
+VOLUNTARISMS	(forma de voluntarism) (substantivo) voluntarism se traduz como ⟪voluntarismo⟫
+VOLUNTARY	(adjetivo) voluntário: que ingressa espontaneamente no serviço militar
+VOLUNTEER	(substantivo) voluntário: que ingressa espontaneamente no serviço militar
+VOLUNTEERED	(forma de volunteer) (substantivo) voluntário: que ingressa espontaneamente no serviço militar
+VOLUNTEERING	(substantivo) voluntariado: apoio voluntário
+VOLUNTEERS	(forma de volunteer) (substantivo) voluntário: que ingressa espontaneamente no serviço militar
+VOLUPTUOUS	(adjetivo) voluptuoso: em que existe deleite ou gozo sensual ou um grande prazer; delicioso, deleitoso, libidinoso
+VOLUPTUOUSLY	(advérbio) voluptuosamente: de forma voluptuosa
+VOLUPTUOUSNESS	(substantivo) voluptuousness se traduz como ⟪voluptuosidade⟫
+VOLUPTUOUSNESSES	(forma de voluptuousness) (substantivo) voluptuousness se traduz como ⟪voluptuosidade⟫
+VOMER	(substantivo) vômer: osso chato e delgado que separa as duas fossas nasais
+VOMERS	(forma de vomer) (substantivo) vômer: osso chato e delgado que separa as duas fossas nasais
+VOMIT	(substantivo) vomit se traduz como ⟪vômito|VOMITO⟫\n(verbo) vomitar: expelir (geralmente alimento em digestão) pela boca
+VOMITED	(forma de vomit) (substantivo) vomit se traduz como ⟪vômito|VOMITO⟫
+VOMITING	(substantivo) vômito: ação de vomitar
+VOMITS	(forma de vomit) (substantivo) vomit se traduz como ⟪vômito|VOMITO⟫
+VOODOO	(substantivo) voodoo se traduz como ⟪vodu⟫
+VOODOOED	(forma de voodoo) (substantivo) voodoo se traduz como ⟪vodu⟫
+VOODOOING	(forma de voodoo) (substantivo) voodoo se traduz como ⟪vodu⟫
+VOODOOS	(forma de voodoo) (substantivo) voodoo se traduz como ⟪vodu⟫
+VORACIOUSLY	(advérbio) vorazmente: de modo voraz
+VORTEX	(substantivo) turbilhão: massa de água que redemoinha rapidamente, formando uma espécie de funil (também: vórtice, redemoinho)
+VORTEXES	(forma de vortex) (substantivo) turbilhão: massa de água que redemoinha rapidamente, formando uma espécie de funil (também: vórtice,...
+VORTICES	(forma de vortex) (substantivo) turbilhão: massa de água que redemoinha rapidamente, formando uma espécie de funil (também: vórtice,...
+VOTE	(substantivo) vote se traduz como ⟪voto⟫\n(verbo) votar: aprovar ou eleger por meio de voto
+VOTED	(verbo) passado simples e particípio do verbo vote: voto
+VOTER	(substantivo) eleitor: aquele que tem o direito de votar numa eleição
+VOTERS	(forma de voter) (substantivo) eleitor: aquele que tem o direito de votar numa eleição
+VOTES	(verbo) terceira pessoa do singular do verbo vote: voto\n(substantivo) plural de vote: voto
+VOTING	(substantivo) voting se traduz como ⟪votação|VOTAÇAO⟫\n(verbo) particípio presente do verbo "(to) vote":
+VOTIVE	(adjetivo) votivo: oferecido em cumprimento de voto
+VOTIVELY	(forma de votive) (adjetivo) votivo: oferecido em cumprimento de voto
+VOUSSOIR	(substantivo) aduela: pedra usada nos arcos das abóbodas
+VOUSSOIRS	(forma de voussoir) (substantivo) aduela: pedra usada nos arcos das abóbodas
+VOWEL	(substantivo) vogal: fonema produzido sem a obstrução da passagem do ar
+VOWELS	(forma de vowel) (substantivo) vogal: fonema produzido sem a obstrução da passagem do ar
+VOX	(substantivo) voz de canto, vocal
+VROOM	(interjeição) vrum: expressa de forma imitativa ruído de elevação rápida do giro do motor de um veículo a explosão
+VROOMED	(forma de vroom) (interjeição) vrum: expressa de forma imitativa ruído de elevação rápida do giro do motor de um veículo a explosão
+VROOMING	(forma de vroom) (interjeição) vrum: expressa de forma imitativa ruído de elevação rápida do giro do motor de um veículo a explosão
+VROOMS	(forma de vroom) (interjeição) vrum: expressa de forma imitativa ruído de elevação rápida do giro do motor de um veículo a explosão
+VULGAR	(adjetivo) vulgar se traduz como vulgar¹
+VULGARER	(forma de vulgar) (adjetivo) vulgar se traduz como vulgar¹
+VULGAREST	(forma de vulgar) (adjetivo) vulgar se traduz como vulgar¹
+VULGARITIES	(forma de vulgarity) (substantivo) vulgaridade: qualidade do que é vulgar
+VULGARITY	(substantivo) vulgaridade: qualidade do que é vulgar
+VULGARIZE	(verbo) vulgarizar: (figuradamente)
+VULGARIZED	(forma de vulgarize) (verbo) vulgarizar: (figuradamente)
+VULGARIZES	(forma de vulgarize) (verbo) vulgarizar: (figuradamente)
+VULGARIZING	(forma de vulgarize) (verbo) vulgarizar: (figuradamente)
+VULGARLY	(advérbio) desbocadamente: de modo desbocado
+VULGARS	(forma de vulgar) (adjetivo) vulgar se traduz como vulgar¹
+VULNERABILITIES	(forma de vulnerability) (substantivo) vulnerabilidade: Característica de quem está vulnerável
+VULNERABILITY	(substantivo) vulnerabilidade: Característica de quem está vulnerável
+VULNERABLE	(adjetivo) vulnerável: que se encontra susceptível ou fragilizado numa determinada circunstância
+VULNERABLENESS	(substantivo) vulnerabilidade: Característica de quem está vulnerável
+VULNERABLENESSES	(forma de vulnerableness) (substantivo) vulnerabilidade: Característica de quem está vulnerável
+VULTURE	(substantivo) vulture se traduz como ⟪abutre⟫
+VULTURES	(forma de vulture) (substantivo) vulture se traduz como ⟪abutre⟫
+VULVA	(substantivo) vulva: parte externa do aparelho genital feminino que protege a vagina; é formada pelos grandes lábios, pequenos lábios, clitóris, orifício vaginal e uretral
+VULVAE	(forma de vulva) (substantivo) vulva: parte externa do aparelho genital feminino que protege a vagina; é formada pelos grandes lábios,...
+VULVAS	(forma de vulva) (substantivo) vulva: parte externa do aparelho genital feminino que protege a vagina; é formada pelos grandes lábios,...
+VULVITIS	(substantivo) vulvite: inflamação da vulva
+VULVITISES	(forma de vulvitis) (substantivo) vulvite: inflamação da vulva
+VYING	(forma de vie) (verbo) competir: participar de competição.
+VYINGLY	(forma de vie) (verbo) competir: participar de competição.

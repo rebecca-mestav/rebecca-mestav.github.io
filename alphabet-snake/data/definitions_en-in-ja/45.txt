@@ -1,0 +1,2476 @@
+EACH	(代名詞) eachの訳: 各々の人\n(副詞) 各々で。それぞれで。銘々で。
+EAGER	(形容詞) eagerの訳: 熱心な
+EAGERER	(形容詞) "eager" の比較級: 熱心な
+EAGEREST	(形容詞) "eager" の最上級: 熱心な
+EAGERLY	(副詞) 熱心に: ある物事に懸命に打ち込む様子。
+EAGERNESS	(名詞) eagernessの訳: 熱心さ
+EAGERNESSES	(名詞) eagernessの複数形: 熱心さ
+EAGERS	(eagerの変化形) (形容詞) eagerの訳: 熱心な
+EAGLE	(名詞) eagleの訳: 鷲\n(動詞) イーグルを取る。
+EAGLES	(名詞) "eagle" の複数形: 鷲\n(動詞) "eagle" の三人称単数現在形: 鷲
+EAGLET	(名詞) eagletの訳: 鷲の子
+EAGLETS	(eagletの変化形) (名詞) eagletの訳: 鷲の子
+EAR	(名詞) 耳: （みみ）特に哺乳類で、語義1の器官に音を集める働きを有する器官。耳朶。\n(動詞) earの訳: 穂を出す
+EARACHE	(名詞) 耳痛: 耳の痛み。
+EARACHES	(earacheの変化形) (名詞) 耳痛: 耳の痛み。
+EARDRUM	(名詞) 鼓膜: 外耳と内耳の境にある楕円形の薄い膜。空気の振動を耳小骨に伝える。
+EARDRUMS	(名詞) eardrumの複数形: 鼓膜: 外耳と内耳の境にある楕円形の薄い膜。空気の振動を耳小骨に伝える。
+EARED	(動詞) "ear" の過去形・過去分詞形: 耳: （みみ）特に哺乳類で、語義1の器官に音を集める働きを有する器官。耳朶。
+EARING	(動詞) "ear" の動名詞形又は現在分詞形: 耳: （みみ）特に哺乳類で、語義1の器官に音を集める働きを有する器官。耳朶。
+EARINGS	(earingの変化形) (動詞) "ear" の動名詞形又は現在分詞形。
+EARL	(名詞) 伯爵: 貴族の爵位。侯爵の下、子爵の上。
+EARLIER	(形容詞) "early" の比較級: 時間の位置が前の。
+EARLIEST	(形容詞) "early" の最上級: 時間の位置が前の。
+EARLS	(名詞) earlの複数形: 伯爵: 貴族の爵位。侯爵の下、子爵の上。
+EARLY	(形容詞) 時間の位置が前の。\n(副詞) earlyの訳: ⟪早く|はやく⟫
+EARMARK	(動詞) earmarkの訳: 耳標を付ける\n(名詞) 耳標: 家畜の個体識別を容易にするために耳につける標識。
+EARMARKED	(動詞) earmarkの過去形・過去分詞: 耳標を付ける
+EARMARKING	(動詞) earmarkの現在分詞: 耳標を付ける\n(名詞) earmarkingの訳: 耳標
+EARMARKS	(動詞) earmarkの直説法現在第三人称単数形: 耳標を付ける\n(名詞) earmarkの複数形: 耳標を付ける
+EARMUFF	(名詞) 耳当て: （みみあて）防寒のために耳に当てる毛糸などの製品。
+EARMUFFS	(名詞) 耳当て: （みみあて）防寒のために耳に当てる毛糸などの製品。
+EARN	(動詞) earnの訳: ～を稼ぐ
+EARNED	(動詞) earnの過去形・過去分詞: ～を稼ぐ
+EARNEST	(形容詞) earnestの訳: 真面目な\n(名詞) earnestの訳: 兆候
+EARNESTLY	(副詞) earnestlyの訳: 真面目に
+EARNESTNESS	(名詞) earnestnessの訳: 真面目さ
+EARNESTNESSES	(earnestnessの変化形) (名詞) earnestnessの訳: 真面目さ
+EARNESTS	(名詞) "earnest" の複数形: 真面目な\n(動詞) "earnest" の現在第三人称単数形。
+EARNING	(動詞) earnの動名詞又は現在分詞: ～を稼ぐ
+EARNINGS	(名詞) earningsの訳: ⟪所得|しょとく⟫
+EARNS	(動詞) earnの直説法現在第三人称単数形: ～を稼ぐ
+EARPHONE	(名詞) earphoneの訳: ヘッドフォン, イヤーピース
+EARPHONES	(名詞) イヤホン: ヘッドホンの中でも、補聴器程度の大きさの小型のもの。
+EARPIECE	(名詞) スピーカー: 拡声器。「ラウドスピーカー」の略。
+EARPIECES	(名詞) earpieceの複数形: スピーカー。
+EARPLUG	(名詞) 耳栓: 遮音や防水などのため耳の穴につめる栓。
+EARPLUGS	(名詞) "earplug" の複数形: 耳栓: 遮音や防水などのため耳の穴につめる栓。
+EARRING	(名詞) 耳飾り。イヤリング。
+EARRINGS	(名詞) earringの複数形: 耳飾り。イヤリング。
+EARS	(名詞) earの複数形: 耳: （みみ）特に哺乳類で、語義1の器官に音を集める働きを有する器官。耳朶。\n(動詞) earの直説法現在第三人称単数形: 耳: （みみ）特に哺乳類で、語義1の器官に音を集める働きを有する器官。耳朶。
+EARSHOT	(名詞) earshotの訳: 聞こえる範囲
+EARSHOTS	(名詞) earshotの複数形: 聞こえる範囲
+EARTH	(名詞) earthの訳: 土, ⟪泥土|どろつち⟫\n(動詞) アースする、接地する（＝米語 ground)。
+EARTHED	(動詞) "earth" の過去形・過去分詞形: 土, ⟪泥土|どろつち⟫
+EARTHEN	(形容詞) 土で造った。土製の。陶製の。\n(動詞) earthenの訳: 土を加える
+EARTHENWARE	(名詞) 土器。陶器。
+EARTHENWARES	(名詞) earthenwareの複数形: 土器。陶器。
+EARTHIER	(形容詞) earthyの比較級: 土の。土のような。
+EARTHIEST	(形容詞) earthyの最上級: 土の。土のような。
+EARTHILY	(副詞) earthilyの訳: 粗野に
+EARTHING	(動詞) "earth" の動名詞形又は現在分詞形: 土, ⟪泥土|どろつち⟫
+EARTHLIER	(形容詞) "earthly" の比較級: 地上の, 地球の
+EARTHLIEST	(形容詞) "earthly" の最上級: 地上の, 地球の
+EARTHLIKE	(形容詞) earthlikeの訳: 地球のような
+EARTHLY	(形容詞) earthlyの訳: 地上の, 地球の\n(副詞) earthlyの訳: 現実的に
+EARTHQUAKE	(名詞) 地震: 地殻内の岩盤が突然ずれ動くこと、あるいはこのとき発生する震動。一般には、岩盤にかかる応力が限界を超えたときに、ひずみが一気に開放されて起こる場合を指す。
+EARTHQUAKES	(earthquakeの変化形) (名詞) 地震: 地殻内の岩盤が突然ずれ動くこと、あるいはこのとき発生する震動。一般には、岩盤にかかる応力が限界を超えたときに、ひずみが一気に開放されて起こる場合を指す。
+EARTHS	(名詞) "earth" の複数形: 土, ⟪泥土|どろつち⟫\n(動詞) "earth" の三人称単数現在形: 土, ⟪泥土|どろつち⟫
+EARTHWORK	(名詞) earthworkの訳: 土塁, 防塁
+EARTHWORKS	(名詞) earthworkの複数形: 土塁, 防塁
+EARTHWORM	(名詞) earthwormの訳: ⟪蚯蚓|みみず⟫
+EARTHWORMS	(名詞) earthwormの複数形: 蚯蚓。
+EARTHY	(形容詞) 土の。土のような。
+EARWAX	(名詞) earwaxの訳: ⟪耳垢|みみあか⟫, ⟪耳糞|みみくそ⟫
+EARWAXES	(earwaxの変化形) (名詞) earwaxの訳: ⟪耳垢|みみあか⟫, ⟪耳糞|みみくそ⟫
+EARWIG	(名詞) はさみむし: 1.に属する昆虫。\n(動詞) earwigの訳: 盗み聞きする
+EARWIGGED	(earwigの変化形) (名詞) はさみむし: 1.に属する昆虫。
+EARWIGGING	(earwigの変化形) (名詞) はさみむし: 1.に属する昆虫。
+EARWIGS	(earwigの変化形) (名詞) はさみむし: 1.に属する昆虫。
+EASE	(名詞) easeの訳: たやすさ\n(動詞) easeの訳: 和らげる, 緩和する
+EASED	(動詞) "ease" の過去形・過去分詞形: たやすさ
+EASEL	(名詞) 画架。イーゼル。
+EASELS	(名詞) easelの複数形: 画架。イーゼル。
+EASEMENT	(名詞) 地役権: 設定行為で定めた目的に従い、他人の土地を自己の土地の便益に供する権利。
+EASEMENTS	(easementの変化形) (名詞) 地役権: 設定行為で定めた目的に従い、他人の土地を自己の土地の便益に供する権利。
+EASES	(名詞) "ease" の複数形: たやすさ\n(動詞) "ease" の三人称単数現在形: たやすさ
+EASIER	(形容詞) "easy" の比較級形: 容易な
+EASIES	(easyの変化形) (形容詞) easyの訳: 容易な
+EASIEST	(形容詞) "easy" の最上級形: 容易な
+EASILY	(副詞) 容易に: 何かをするのに容易いさま。
+EASINESS	(名詞) easinessの訳: 容易さ
+EASINESSES	(easinessの変化形) (名詞) easinessの訳: 容易さ
+EASING	(動詞) "ease" の動名詞形又は現在分詞形: たやすさ
+EAST	(名詞) 東: 北から時計回りに90度回転した方向。おおまかに日が昇ってくる方角。\n(形容詞) 東の、東にある。東部の。
+EASTERLIES	(easterlyの変化形) (名詞) 東風: 東からの風。
+EASTERLY	(名詞) 東風: 東からの風。\n(形容詞) easterlyの訳: 東寄りの
+EASTERN	(形容詞) easternの訳: 東の
+EASTERNER	(名詞) easternerの訳: 東部出身者
+EASTERNERS	(名詞) easternerの複数形: 東部出身者
+EASTERNMOST	(形容詞) 東端の: ある地域で一番東にある場所。
+EASTS	(eastの変化形) (名詞) 東: 北から時計回りに90度回転した方向。おおまかに日が昇ってくる方角。
+EASTWARD	(名詞) eastwardの訳: 東方\n(形容詞) 東方の。東の。
+EASTWARDS	(eastwardの変化形) (名詞) eastwardの訳: 東方
+EASY	(形容詞) easyの訳: 容易な\n(副詞) easyの訳: 気楽に
+EAT	(動詞) eatの訳: ～を食べる\n(名詞) 食べ物: （たべもの）食べる物。食べ物。
+EATEN	(動詞) eatの過去分詞: ～を食べる\n(形容詞) eatenの訳: 食べられる, 摂食される
+EATER	(名詞) eaterの訳: 食べる人
+EATERS	(名詞) eaterの複数形: 食べる人
+EATING	(動詞) eatの動名詞又は現在分詞: ～を食べる\n(形容詞) eatingの訳: 食用の
+EATINGS	(名詞) eatingの複数形: eatの動名詞又は現在分詞。
+EATS	(名詞) eatの複数形: ～を食べる\n(動詞) eatの直説法現在第三人称単数形: ～を食べる
+EAVES	(名詞) ひさし: 建物の窓や出入口などの上に張り出した小さな屋根。 (ほかに: 軒)
+EAVESDROP	(動詞) eavesdropの訳: 立ち聞きする, 盗み聞きする\n(名詞) eavesdropの訳: 雨垂れ
+EAVESDROPPED	(動詞) eavesdropの過去形・過去分詞: 立ち聞きする, 盗み聞きする
+EAVESDROPPER	(名詞) 立ち聞きする人。盗み聞きする人。
+EAVESDROPPERS	(名詞) eavesdropperの複数形: 立ち聞きする人。盗み聞きする人。
+EAVESDROPPING	(eavesdropの変化形) (動詞) eavesdropの訳: 立ち聞きする, 盗み聞きする
+EAVESDROPS	(名詞) eavesdropの複数形: 立ち聞きする, 盗み聞きする\n(動詞) eavesdropの直説法現在第三人称単数形: 立ち聞きする, 盗み聞きする
+EBB	(名詞) 下げ潮: （さげしお）潮が引いてくること。干潮。引き潮。落ち潮。 (ほかに: 引き潮)\n(動詞) ebbの訳: 引く
+EBBED	(動詞) "ebb" の過去形・過去分詞形: 下げ潮: （さげしお）潮が引いてくること。干潮。引き潮。落ち潮。 (ほかに: 引き潮)
+EBBING	(動詞) "ebb" の動名詞形又は現在分詞形: 下げ潮: （さげしお）潮が引いてくること。干潮。引き潮。落ち潮。 (ほかに: 引き潮)
+EBBS	(名詞) "ebb" の複数形: 下げ潮: （さげしお）潮が引いてくること。干潮。引き潮。落ち潮。 (ほかに: 引き潮)\n(動詞) "ebb" の三人称単数現在形: 下げ潮: （さげしお）潮が引いてくること。干潮。引き潮。落ち潮。 (ほかに: 引き潮)
+EBONIES	(名詞) ebonyの複数形: 黒檀: カキノキ科の常緑高木。東南アジア原産。 (ほかに: 黒檀材)
+EBONITE	(名詞) エボナイト。硬質ゴム。
+EBONITES	(名詞) eboniteの複数形: エボナイト。硬質ゴム。
+EBONY	(名詞) 黒檀: カキノキ科の常緑高木。東南アジア原産。 (ほかに: 黒檀材)\n(形容詞) 黒檀の: 上記の木材の色。赤みがかった黒。
+ECCENTRIC	(形容詞) eccentricの訳: 風変わりな, 常軌を逸した\n(名詞) 変人、変わり者、色物、本来のイメージにそぐわないもの。
+ECCENTRICITIES	(eccentricityの変化形) (名詞) eccentricityの訳: 風変り, 異常さ
+ECCENTRICITY	(名詞) eccentricityの訳: 風変り, 異常さ
+ECCENTRICS	(eccentricの変化形) (形容詞) eccentricの訳: 風変わりな, 常軌を逸した
+ECCLESIASTIC	(形容詞) ecclesiasticの訳: 教会の, 聖職者の\n(名詞) 聖職者: 主に宗教関係の職で、僧侶や神職、神父など神聖なものとされる職にある者。 (ほかに: 牧師)
+ECCLESIASTICAL	(形容詞) 教会の: 教会堂、礼拝堂などの建物。 (ほかに: 聖職者の)
+ECCLESIASTICS	(名詞) ecclesiasticの複数形: 教会の, 聖職者の
+ECHIDNA	(名詞) echidnaの訳: ⟪はりもぐら⟫, ⟪ハリモグラ|はりもぐら⟫
+ECHIDNAE	(echidnaの変化形) (名詞) echidnaの訳: ⟪はりもぐら⟫, ⟪ハリモグラ|はりもぐら⟫
+ECHIDNAS	(echidnaの変化形) (名詞) echidnaの訳: ⟪はりもぐら⟫, ⟪ハリモグラ|はりもぐら⟫
+ECHINODERM	(名詞) echinodermの訳: 棘皮動物
+ECHINODERMS	(名詞) echinodermの複数形: 棘皮動物
+ECHO	(名詞) エコー: （ざんきょう）もとの音自体が止んだ後も、壁などへの反響により残る音。 (ほかに: こだま, 山彦)\n(動詞) echoの訳: 反響する, ⟪こだまする|こだま⟫
+ECHOED	(echoの変化形) (名詞) エコー: （ざんきょう）もとの音自体が止んだ後も、壁などへの反響により残る音。 (ほかに: こだま, 山彦)
+ECHOES	(名詞) echoの複数形: エコー: （ざんきょう）もとの音自体が止んだ後も、壁などへの反響により残る音。 (ほかに: こだま, 山彦)\n(動詞) echoの直説法現在第三人称単数形: エコー: （ざんきょう）もとの音自体が止んだ後も、壁などへの反響により残る音。 (ほかに: こだま, 山彦)
+ECHOING	(echoの変化形) (名詞) エコー: （ざんきょう）もとの音自体が止んだ後も、壁などへの反響により残る音。 (ほかに: こだま, 山彦)
+ECHOLOCATION	(名詞) 反響定位、エコーロケーション。
+ECHOLOCATIONS	(名詞) echolocationの複数形: 反響定位、エコーロケーション。
+ECHOS	(名詞) echoの複数形: エコー: （ざんきょう）もとの音自体が止んだ後も、壁などへの反響により残る音。 (ほかに: こだま, 山彦)
+ECLAIR	(名詞) eclairの訳: エクレア
+ECLAIRS	(名詞) eclairの複数形: エクレア
+ECLAMPSIA	(名詞) 子癇: 妊娠中毒症の一つで妊産婦が全身の痙攣と昏睡を主な症状とするもの。
+ECLAMPSIAS	(eclampsiaの変化形) (名詞) 子癇: 妊娠中毒症の一つで妊産婦が全身の痙攣と昏睡を主な症状とするもの。
+ECLECTIC	(名詞) eclecticの訳: 折衷主義者\n(形容詞) eclecticの訳: 折衷的な, 折衷主義の
+ECLECTICS	(名詞) eclecticの複数形: 折衷主義者
+ECLIPSE	(名詞) 星の食。星の一部を影で覆い隠すこと。\n(動詞) eclipseの訳: を覆い隠す
+ECLIPSED	(eclipseの変化形) (名詞) 星の食。星の一部を影で覆い隠すこと。
+ECLIPSES	(eclipseの変化形) (名詞) 星の食。星の一部を影で覆い隠すこと。
+ECLIPSING	(eclipseの変化形) (名詞) 星の食。星の一部を影で覆い隠すこと。
+ECLIPTIC	(名詞) 黄道: 天球上で、一年をかけて太陽を観測したときの太陽の見かけ上の通り道。
+ECLIPTICS	(名詞) eclipticの複数形: 黄道: 天球上で、一年をかけて太陽を観測したときの太陽の見かけ上の通り道。
+ECOLOGIES	(ecologyの変化形) (名詞) 生態学: 生物やその環境との関係性について研究する学問。
+ECOLOGY	(名詞) 生態学: 生物やその環境との関係性について研究する学問。
+ECONOMETRICS	(名詞) econometricsの訳: 計量経済学
+ECONOMETRIST	(名詞) econometristの訳: 計量経済学者
+ECONOMETRISTS	(名詞) econometristの複数形: 計量経済学者
+ECONOMIC	(形容詞) 経済の: 物又はサービスに付帯する価値の発生・帰属・移動・消滅に関する諸活動の総体。
+ECONOMICAL	(形容詞) economicalの訳: 経済的な
+ECONOMICALLY	(副詞) 経済的な: 経済や金銭に関係があるさま。
+ECONOMICS	(名詞) economicsの訳: 経済学
+ECONOMIES	(economyの変化形) (名詞) economyの訳: ⟪節約|せつやく⟫, 倹約
+ECONOMISE	(動詞) 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMISED	(動詞) economiseの過去形・過去分詞: 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMISES	(動詞) economiseの直説法現在第三人称単数形: 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMISING	(動詞) economiseの動名詞又は現在分詞: 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMIST	(名詞) 経済学者: 経済学を研究する科学者。
+ECONOMISTS	(economistの変化形) (名詞) 経済学者: 経済学を研究する科学者。
+ECONOMIZE	(動詞) 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMIZED	(動詞) "economize" の過去形・過去分詞形: 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMIZER	(名詞) 倹約家: 無駄な消費を少なくするよう努める人。 (ほかに: しまりや)
+ECONOMIZERS	(economizerの変化形) (名詞) 倹約家: 無駄な消費を少なくするよう努める人。 (ほかに: しまりや)
+ECONOMIZES	(動詞) "economize" の三人称単数現在形: 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMIZING	(動詞) "economize" の動名詞形又は現在分詞形: 節約する: 無駄を省き、費用などを減らすこと。 (ほかに: 倹約する)
+ECONOMY	(名詞) economyの訳: ⟪節約|せつやく⟫, 倹約\n(形容詞) economyの訳: 経済的な, 安価な, エコノミーな
+ECOSYSTEM	(名詞) 生態系: ある地域の生物の群集とその周囲の無機的な環境を包括し、物質の循環やエネルギーの流れなどを機能系としてみたもの。
+ECOSYSTEMS	(名詞) ecosystemの複数形: 生態系: ある地域の生物の群集とその周囲の無機的な環境を包括し、物質の循環やエネルギーの流れなどを機能系としてみたもの。
+ECOTOURISM	(名詞) エコツーリズム。
+ECOTOURISMS	(名詞) ecotourismの複数形: エコツーリズム。
+ECSTASIES	(名詞) ecstasyの複数形: 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 有頂天, 狂喜)
+ECSTASY	(名詞) 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 有頂天, 狂喜)
+ECSTATIC	(形容詞) ecstaticの訳: 有頂天の
+ECSTATICS	(ecstaticの変化形) (形容詞) ecstaticの訳: 有頂天の
+ECZEMA	(名詞) 湿疹: 皮膚の表面に出る炎症。
+ECZEMAS	(eczemaの変化形) (名詞) 湿疹: 皮膚の表面に出る炎症。
+EDDIED	(動詞) eddyの過去形・過去分詞: 渦, 渦巻き
+EDDIES	(名詞) eddyの複数形: 渦, 渦巻き\n(動詞) eddyの直説法現在第三人称単数形: 渦, 渦巻き
+EDDY	(名詞) eddyの訳: 渦, 渦巻き\n(動詞) eddyの訳: 渦を巻く
+EDDYING	(動詞) eddyの現在分詞: 渦, 渦巻き\n(名詞) eddyingの訳: 渦巻くこと
+EDEMA	(名詞) 浮腫: 体内の水分が腹腔や胸腔などに溜まり、顔や手足など特定の部位が腫れる現象。心不全といった心疾患や、腎不全あるいはネフローゼ症候群といった腎疾患などが原因となり引き起こされる。
+EDEMAS	(edemaの変化形) (名詞) 浮腫: 体内の水分が腹腔や胸腔などに溜まり、顔や手足など特定の部位が腫れる現象。心不全といった心疾患や、腎不全あるいはネフローゼ症候群といった腎疾患などが原因となり引き起こされる。
+EDEMATA	(edemaの変化形) (名詞) 浮腫: 体内の水分が腹腔や胸腔などに溜まり、顔や手足など特定の部位が腫れる現象。心不全といった心疾患や、腎不全あるいはネフローゼ症候群といった腎疾患などが原因となり引き起こされる。
+EDENTATE	(形容詞) edentateの訳: 歯抜けの\n(名詞) edentateの訳: 貧歯類, 貧歯目
+EDENTATES	(名詞) edentateの複数形: 歯抜けの。
+EDGE	(名詞) 縁: （ふち）ものの先端や周りの部分。縁。 (ほかに: 端, 隅)
+EDGED	(edgeの変化形) (名詞) 縁: （ふち）ものの先端や周りの部分。縁。 (ほかに: 端, 隅)
+EDGES	(edgeの変化形) (名詞) 縁: （ふち）ものの先端や周りの部分。縁。 (ほかに: 端, 隅)
+EDGIER	(形容詞) edgyの比較級: 緊張した
+EDGIEST	(形容詞) edgyの最上級: 緊張した
+EDGILY	(edgyの変化形) (形容詞) edgyの訳: 緊張した
+EDGING	(edgeの変化形) (名詞) 縁: （ふち）ものの先端や周りの部分。縁。 (ほかに: 端, 隅)
+EDGINGS	(edgeの変化形) (名詞) 縁: （ふち）ものの先端や周りの部分。縁。 (ほかに: 端, 隅)
+EDGY	(形容詞) edgyの訳: 緊張した
+EDIBLE	(形容詞) edibleの訳: 食べられる, 食用の, 可食の\n(名詞) 食べられるもの、食用可能なもの、食用品、食料。
+EDIBLES	(名詞) "edible" の複数形: 食べられる, 食用の, 可食の
+EDICT	(名詞) edictの訳: ⟪勅令|ちょくれい⟫, ⟪布告|ふこく⟫
+EDICTS	(名詞) edictの複数形: ⟪勅令|ちょくれい⟫, ⟪布告|ふこく⟫
+EDIFICATION	(名詞) 啓発。啓蒙。教化。
+EDIFICATIONS	(名詞) edificationの複数形: 啓発。啓蒙。教化。
+EDIFICE	(名詞) （壮大な）建築物。殿堂。
+EDIFICES	(名詞) edificeの複数形: （壮大な）建築物。殿堂。
+EDIFIED	(edifyの変化形) (動詞) 建てる。建設する。
+EDIFIER	(名詞) edifierの訳: 啓発者
+EDIFIERS	(名詞) edifierの複数形: 啓発者
+EDIFIES	(動詞) edifyの直説法現在第三人称単数形: 建てる。建設する。
+EDIFY	(動詞) 建てる。建設する。
+EDIFYING	(形容詞) 啓発する。啓発的な。\n(動詞) edifyの現在分詞: 建てる。建設する。
+EDIT	(名詞) editの訳: ⟪編集|へんしゅうする⟫\n(動詞) 編集する: （へんしゅうする）資料を目的のもとに集め、書物・新聞記事などの形に整える。 (ほかに: 手を加える)
+EDITED	(動詞) "edit" の過去形・過去分詞: ⟪編集|へんしゅうする⟫\n(形容詞) editedの訳: 編集済みの
+EDITING	(動詞) "edit" の動名詞又は現在分詞: ⟪編集|へんしゅうする⟫
+EDITION	(名詞) 版: (ハン) 印刷。出版。
+EDITIONS	(editionの変化形) (名詞) 版: (ハン) 印刷。出版。
+EDITOR	(名詞) 編集長: 編集を統括する責任者。
+EDITORIAL	(形容詞) editorialの訳: 編集の, 編集上の\n(名詞) 社説: 新聞や雑誌などで発行する社が主張を掲載する論説。 (ほかに: 論説)
+EDITORIALIZE	(動詞) 論説する: 自分の主張として物事の是非を論じ、意見を説明すること。また、その文章。
+EDITORIALIZED	(editorializeの変化形) (動詞) 論説する: 自分の主張として物事の是非を論じ、意見を説明すること。また、その文章。
+EDITORIALIZES	(editorializeの変化形) (動詞) 論説する: 自分の主張として物事の是非を論じ、意見を説明すること。また、その文章。
+EDITORIALIZING	(editorializeの変化形) (動詞) 論説する: 自分の主張として物事の是非を論じ、意見を説明すること。また、その文章。
+EDITORIALLY	(副詞) editoriallyの訳: 編集上, 社説で
+EDITORIALS	(editorialの変化形) (形容詞) editorialの訳: 編集の, 編集上の
+EDITORS	(名詞) "editor" の複数形: 編集長: 編集を統括する責任者。
+EDITS	(名詞) "edit" の複数形: ⟪編集|へんしゅうする⟫\n(動詞) "edit" の現在第三人称単数形。
+EDUCABLE	(形容詞) (物事や価値観が) 教育の効果の有る。相手に解らすことのできる。
+EDUCABLES	(educableの変化形) (形容詞) (物事や価値観が) 教育の効果の有る。相手に解らすことのできる。
+EDUCATE	(動詞) 教育する。啓発する。
+EDUCATED	(動詞) educateの過去形・過去分詞: 教育する。啓発する。\n(形容詞) educatedの訳: 教育を受けた
+EDUCATES	(動詞) educateの直説法現在第三人称単数形: 教育する。啓発する。
+EDUCATING	(動詞) educateの動名詞又は現在分詞: 教育する。啓発する。
+EDUCATION	(名詞) 教育。教養。
+EDUCATIONAL	(形容詞) 教育の: 他者や自分をより良くするために知識や技術、判断基準などを伝える行為。教え育てること。狭義には学校教育を指すことが多い。
+EDUCATIONALIST	(名詞) educationalistの訳: 教育専門家
+EDUCATIONALISTS	(名詞) educationalistの複数形: 教育専門家
+EDUCATIONALLY	(副詞) 教育的に: 教育する上で望ましいさま。
+EDUCATIONIST	(名詞) educationistの訳: 教育専門家
+EDUCATIONISTS	(名詞) educationistの複数形: 教育専門家
+EDUCATIONS	(名詞) educationの複数形: 教育。教養。
+EDUCATOR	(名詞) 教育者、教育家。教師。
+EDUCATORS	(名詞) educatorの複数形: 教育者、教育家。教師。
+EDUCE	(動詞) educeの訳: ⟪引き出す|ひきだす⟫\n(名詞) educeの訳: ⟪推論|すいろん⟫
+EDUCED	(動詞) educeの過去形・過去分詞: ⟪引き出す|ひきだす⟫\n(形容詞) educedの訳: 引き出した
+EDUCES	(動詞) educeの直説法現在第三人称単数形: ⟪引き出す|ひきだす⟫
+EDUCING	(動詞) educeの現在分詞: ⟪引き出す|ひきだす⟫
+EEL	(名詞) eelの訳: ⟪鰻|うなぎ⟫
+EELS	(名詞) eelの複数形: ⟪鰻|うなぎ⟫
+EERIE	(形容詞) ぞっとする: 恐怖や強い感動などで、体が震え上がるような感じのするさま。 (ほかに: 不気味な)\n(名詞) eerieの訳: 奇妙なもの
+EERIER	(形容詞) eerie の比較級: 不気味な、ぞっとする。
+EERIEST	(形容詞) eerie の最上級: 不気味な、ぞっとする。
+EFFECT	(名詞) 影響。結果。効果。作用。\n(動詞) effectの訳: 達成する
+EFFECTED	(動詞) "effect" の過去形・過去分詞形: 影響。結果。効果。作用。
+EFFECTING	(動詞) "effect" の動名詞形又は現在分詞形: 影響。結果。効果。作用。
+EFFECTIVE	(形容詞) 建設的な: 物事を打ち建てたり、良い方向へもっていこうとするさま。 (ほかに: 生産性の高い, 実りが多い)
+EFFECTIVELY	(副詞) 有効に。効果的に。
+EFFECTIVENESS	(名詞) effectivenessの訳: 有効性
+EFFECTIVENESSES	(名詞) effectivenessの複数形: 有効性
+EFFECTIVES	(effectiveの変化形) (形容詞) 建設的な: 物事を打ち建てたり、良い方向へもっていこうとするさま。 (ほかに: 生産性の高い, 実りが多い)
+EFFECTS	(名詞) "effect" の複数形: 影響。結果。効果。作用。\n(動詞) "effect" の三人称単数現在形: 影響。結果。効果。作用。
+EFFECTUAL	(形容詞) 効果的な。有効な。適切な。
+EFFECTUALLY	(副詞) 有効に。効果的に。適切に。
+EFFECTUATE	(動詞) 齎す。引き起こす。
+EFFECTUATED	(動詞) effectuateの過去形・過去分詞: 齎す。引き起こす。
+EFFECTUATES	(動詞) effectuateの直説法現在第三人称単数形: 齎す。引き起こす。
+EFFECTUATING	(動詞) effectuateの現在分詞: 齎す。引き起こす。
+EFFEMINACIES	(名詞) effeminacyの複数形: 男らしくないこと。女女しさ。
+EFFEMINACY	(名詞) 男らしくないこと。女女しさ。
+EFFEMINATES	(動詞) effeminateの直説法現在第三人称単数形。
+EFFERVESCENCE	(名詞) 沸騰: 気化が、液体の表面からだけでなく内部からも激しく発生すること。 (ほかに: 発泡)
+EFFERVESCENCES	(effervescenceの変化形) (名詞) 沸騰: 気化が、液体の表面からだけでなく内部からも激しく発生すること。 (ほかに: 発泡)
+EFFICACIES	(名詞) efficacyの複数形: 効き目。効能。有効性。
+EFFICACIOUS	(形容詞) （薬・治療などが）効き目のある。効果のある。有効な。[1520年代より]
+EFFICACIOUSLY	(副詞) efficaciouslyの訳: 効果的に
+EFFICACITIES	(名詞) efficacityの複数形: 効き目。効能。有効性。
+EFFICACITY	(名詞) 効き目。効能。有効性。
+EFFICACY	(名詞) 効き目。効能。有効性。
+EFFICIENCIES	(名詞) efficiencyの複数形: 効果的な働き
+EFFICIENCY	(名詞) efficiencyの訳: 効果的な働き
+EFFICIENT	(形容詞) efficientの訳: 効率のよい
+EFFICIENTLY	(副詞) efficientlyの訳: 効率よく
+EFFIGIES	(名詞) effigyの複数形: 呪うなどの目的で、対象に似せて作った絵や人形、似姿。
+EFFIGY	(名詞) 呪うなどの目的で、対象に似せて作った絵や人形、似姿。
+EFFLORESCE	(動詞) 開花する: （比喩的）盛んになること。
+EFFLORESCED	(effloresceの変化形) (動詞) 開花する: （比喩的）盛んになること。
+EFFLORESCENCE	(名詞) efflorescenceの訳: 風解
+EFFLORESCENCES	(efflorescenceの変化形) (名詞) efflorescenceの訳: 風解
+EFFLORESCES	(effloresceの変化形) (動詞) 開花する: （比喩的）盛んになること。
+EFFLORESCING	(effloresceの変化形) (動詞) 開花する: （比喩的）盛んになること。
+EFFORT	(名詞) 努力: 意識して可能な限りの力を出すこと。 (ほかに: 頑張り)\n(動詞) effortの訳: 努力する
+EFFORTLESS	(形容詞) 努力を要しない。楽楽こなした。
+EFFORTLESSLY	(副詞) effortlesslyの訳: 苦労せずに, 楽楽と
+EFFORTS	(名詞) effortの複数形: 努力: 意識して可能な限りの力を出すこと。 (ほかに: 頑張り)\n(動詞) effortの直説法現在第三人称単数形: 努力: 意識して可能な限りの力を出すこと。 (ほかに: 頑張り)
+EFFRONTERIES	(名詞) "effrontery" の複数形: 厚顔無恥: 厚かましい上に恥知らずなさま。寡廉鮮恥。 (ほかに: 厚かましさ)
+EFFRONTERY	(名詞) 厚顔無恥: 厚かましい上に恥知らずなさま。寡廉鮮恥。 (ほかに: 厚かましさ)
+EFT	(名詞) eftの訳: ⟪いもり⟫
+EFTS	(eftの変化形) (名詞) eftの訳: ⟪いもり⟫
+EGALITARIAN	(形容詞) egalitarianの訳: 平等主義の\n(名詞) egalitarianの訳: 平等主義者
+EGALITARIANS	(名詞) egalitarianの複数形: 平等主義の。
+EGG	(名詞) 卵。玉子。また、そのような形をした食品。\n(動詞) 野鳥の卵を集める。
+EGGED	(動詞) "egg" の過去形・過去分詞形: 卵。玉子。また、そのような形をした食品。
+EGGING	(動詞) "egg" の動名詞形又は現在分詞形: 卵。玉子。また、そのような形をした食品。
+EGGPLANT	(名詞) eggplantの訳: 茄子
+EGGPLANTS	(名詞) "eggplant" の複数形: 茄子
+EGGS	(名詞) "egg" の複数形: 卵。玉子。また、そのような形をした食品。\n(動詞) "egg" の三人称単数現在形: 卵。玉子。また、そのような形をした食品。
+EGGSHELL	(名詞) 卵殻: 卵の外側の殼。 (ほかに: 卵の殻)
+EGGSHELLS	(eggshellの変化形) (名詞) 卵殻: 卵の外側の殼。 (ほかに: 卵の殻)
+EGLANTINE	(名詞) エグランタイン。
+EGLANTINES	(名詞) eglantineの複数形: エグランタイン。
+EGO	(名詞) 自我: （エゴ"ego"の訳語として）他人と異なった独立した存在として、自分自身を認識すること。 (ほかに: エゴ)
+EGOISM	(名詞) egoismの訳: 利己主義
+EGOISMS	(名詞) egoismの複数形: 利己主義。
+EGOIST	(名詞) egoistの訳: 我利我利亡者
+EGOISTS	(egoistの変化形) (名詞) egoistの訳: 我利我利亡者
+EGOS	(名詞) egoの複数形: 自我: （エゴ"ego"の訳語として）他人と異なった独立した存在として、自分自身を認識すること。 (ほかに: エゴ)
+EGOTISM	(名詞) egotismの訳: 自己中心癖
+EGOTISMS	(名詞) egotismの複数形: 自己中心癖。
+EGREGIOUS	(形容詞) egregiousの訳: 実にひどい, ⟪とんでもない⟫
+EIDOLON	(名詞) 幻影。幽霊。
+EIDOLONS	(名詞) eidolonの複数形: 幻影。幽霊。
+EIGENVALUE	(名詞) 固有値: 与えられた正方行列 A とゼロベクトルではないあるベクトル V の積とその V の適当なスカラー倍が等しいときのスカラー λ の値。ある正方行列 A に対して AV = λV を満たすような、スカラー λ とベクトル V ≠ 0 の内の λ のこと。
+EIGENVALUES	(eigenvalueの変化形) (名詞) 固有値: 与えられた正方行列 A とゼロベクトルではないあるベクトル V の積とその V の適当なスカラー倍が等しいときのスカラー λ の値。ある正方行列 A に対して AV = λV を満たすような、スカラー λ とベクトル...
+EIGENVECTOR	(名詞) 固有ベクトル: 与えられた正方行列 A とゼロベクトルではないあるベクトル V の積とその V の適当なスカラー倍が等しいときのベクトル V。ある正方行列 A に対して AV = λV を満たすような、スカラー λ とベクトル V ≠ 0 の内の V のこと。
+EIGENVECTORS	(eigenvectorの変化形) (名詞) 固有ベクトル: 与えられた正方行列 A とゼロベクトルではないあるベクトル V の積とその V の適当なスカラー倍が等しいときのベクトル V。ある正方行列 A に対して AV = λV を満たすような、スカラー λ とベクトル...
+EIGHT	(数詞) eightの訳: 八\n(形容詞) eightの訳: 8の
+EIGHTEEN	(名詞) eighteenの訳: 十八\n(形容詞) eighteenの訳: 十八の
+EIGHTEENS	(eighteenの変化形) (名詞) eighteenの訳: 十八
+EIGHTEENTH	(形容詞) eighteenthの訳: 第18の, 18番目の\n(名詞) 第18番目の人又は物
+EIGHTEENTHS	(eighteenthの変化形) (形容詞) eighteenthの訳: 第18の, 18番目の
+EIGHTH	(形容詞) 第八の: 序列が八番目であること。八番目の。 (ほかに: 八番目の)\n(名詞) 第八番目の人又は物
+EIGHTHLY	(副詞) eighthlyの訳: 8番目に
+EIGHTHS	(eighthの変化形) (形容詞) 第八の: 序列が八番目であること。八番目の。 (ほかに: 八番目の)
+EIGHTIES	(名詞) 八十代: 八十歳から八十九歳までの年齢。
+EIGHTIETH	(形容詞) eightiethの訳: 第80の, 80番目の\n(名詞) 第80番目の人又は物
+EIGHTIETHS	(eightiethの変化形) (形容詞) eightiethの訳: 第80の, 80番目の
+EIGHTS	(eightの変化形) (数詞) eightの訳: 八
+EIGHTY	(数詞) eightyの訳: 八十\n(形容詞) eightyの訳: 八十の
+EINSTEIN	(名詞) einsteinの訳: アインシュタイン
+EINSTEINIUM	(名詞) アインスタイニウム。
+EINSTEINIUMS	(einsteiniumの変化形) (名詞) アインスタイニウム。
+EINSTEINS	(einsteinの変化形) (名詞) einsteinの訳: アインシュタイン
+EITHER	(接続詞) eitherの訳: どちらか一方\n(代名詞) eitherの訳: どちらか一方, どちらでも
+EJACULATE	(動詞) ejaculateの訳: 射精する\n(名詞) 精液: 雄の生殖器で作られる精子を含む分泌液。 (ほかに: 射精)
+EJACULATED	(ejaculateの変化形) (動詞) ejaculateの訳: 射精する
+EJACULATES	(ejaculateの変化形) (動詞) ejaculateの訳: 射精する
+EJACULATING	(ejaculateの変化形) (動詞) ejaculateの訳: 射精する
+EJACULATION	(名詞) 射精。 (概念的に捉える場合は不可算)
+EJACULATIONS	(名詞) ejaculationの複数形: 射精。 (概念的に捉える場合は不可算)
+EJECT	(動詞) ejectの訳: 追い出す
+EJECTED	(ejectの変化形) (動詞) ejectの訳: 追い出す
+EJECTING	(ejectの変化形) (動詞) ejectの訳: 追い出す
+EJECTION	(名詞) ejectionの訳: 排出, 噴出
+EJECTIONS	(ejectionの変化形) (名詞) ejectionの訳: 排出, 噴出
+EJECTS	(ejectの変化形) (動詞) ejectの訳: 追い出す
+ELABORATE	(形容詞) elaborateの訳: 精巧な, 綿密な
+ELABORATED	(elaborateの変化形) (形容詞) elaborateの訳: 精巧な, 綿密な
+ELABORATELY	(副詞) elaboratelyの訳: ⟪わざと⟫
+ELABORATES	(elaborateの変化形) (形容詞) elaborateの訳: 精巧な, 綿密な
+ELABORATING	(elaborateの変化形) (形容詞) elaborateの訳: 精巧な, 綿密な
+ELABORATION	(名詞) elaborationの訳: 労作
+ELABORATIONS	(elaborationの変化形) (名詞) elaborationの訳: 労作
+ELAND	(名詞) エランド: クジラ偶蹄目ウシ科エランド属に属する鯨偶蹄類の一種。学名: Taurotragus oryx。別名、イランド、コモンエランド。
+ELANDS	(elandの変化形) (名詞) エランド: クジラ偶蹄目ウシ科エランド属に属する鯨偶蹄類の一種。学名: Taurotragus oryx。別名、イランド、コモンエランド。
+ELAPSE	(動詞) 過ぎ去る: 通り過ぎる。通過する。 (ほかに: 経過する)
+ELAPSED	(動詞) elapseの過去形・過去分詞: 過ぎ去る: 通り過ぎる。通過する。 (ほかに: 経過する)
+ELAPSES	(動詞) elapseの直説法現在第三人称単数形: 過ぎ去る: 通り過ぎる。通過する。 (ほかに: 経過する)
+ELAPSING	(動詞) elapseの現在分詞: 過ぎ去る: 通り過ぎる。通過する。 (ほかに: 経過する)
+ELASTIC	(形容詞) 弾力性を持った、弾力的な。\n(名詞) 伸縮性のある服飾素材。
+ELASTICITIES	(名詞) "elasticity" の複数形: 弾力性: 物体が外力に対し元に戻ろうとする性質。 (ほかに: 弾性)
+ELASTICITY	(名詞) 弾力性: 物体が外力に対し元に戻ろうとする性質。 (ほかに: 弾性)
+ELASTICS	(elasticの変化形) (形容詞) 弾力性を持った、弾力的な。
+ELATE	(動詞) elateの訳: 元気をつける, 元気づける
+ELATED	(形容詞) elatedの訳: 得意になった\n(動詞) elateの過去形・過去分詞: 元気をつける、元気づける。
+ELATES	(動詞) "elate" の三人称単数現在形: 元気をつける, 元気づける
+ELATING	(動詞) "elate" の動名詞形又は現在分詞形: 元気をつける, 元気づける
+ELATIVE	(名詞) elativeの訳: 強意形
+ELATIVES	(名詞) elativeの複数形: 強意形
+ELBOW	(名詞) 肘: （ひじ）腕の上腕と前腕の間にある関節。\n(動詞) 肘でかき分ける。
+ELBOWED	(動詞) "elbow" の過去形・過去分詞形: 肘: （ひじ）腕の上腕と前腕の間にある関節。
+ELBOWING	(動詞) "elbow" の動名詞形又は現在分詞形: 肘: （ひじ）腕の上腕と前腕の間にある関節。
+ELBOWS	(名詞) "elbow" の複数形: 肘: （ひじ）腕の上腕と前腕の間にある関節。\n(動詞) "elbow" の三人称単数現在形: 肘: （ひじ）腕の上腕と前腕の間にある関節。
+ELDER	(形容詞) elderの訳: 年上の, 年嵩の\n(名詞) 長老: 年齢と経験を重ねた者に対する敬称。
+ELDERLIES	(elderlyの変化形) (形容詞) elderlyの訳: 初老の
+ELDERLY	(形容詞) elderlyの訳: 初老の\n(名詞) 老人: 特に年老いた男性、老爺。
+ELDERS	(elderの変化形) (形容詞) elderの訳: 年上の, 年嵩の
+ELDEST	(形容詞) （原則として限定用法のみ）最も年上の。 "old"の最上級、年齢に用いる。
+ELECT	(動詞) electの訳: 選ぶ\n(形容詞) electの訳: 当選した
+ELECTED	(動詞) "elect" の過去形・過去分詞形: 選ぶ
+ELECTING	(動詞) "elect" の動名詞形又は現在分詞形: 選ぶ
+ELECTION	(名詞) 選挙: 投票によって役職に就く者を選ぶこと。
+ELECTIONS	(electionの変化形) (名詞) 選挙: 投票によって役職に就く者を選ぶこと。
+ELECTOR	(名詞) 選挙人、選挙権を有するもの。
+ELECTORAL	(形容詞) electoralの訳: 選挙の
+ELECTORATE	(名詞) 有権者: 権利（特に選挙権）を有する人。
+ELECTORATES	(electorateの変化形) (名詞) 有権者: 権利（特に選挙権）を有する人。
+ELECTORS	(electorの変化形) (名詞) 選挙人、選挙権を有するもの。
+ELECTRIC	(形容詞) 電気の、電動の、電気性の、電気に関する、電気工学によって作られた、エレクトリックな\n(名詞) 電灯: 電気エネルギーを利用して照明を得る装置の総称。電気。 (ほかに: 電気回路, 電気設備)
+ELECTRICAL	(形容詞) 電気の: 電灯。電気による照明。また電力。
+ELECTRICITIES	(electricityの変化形) (名詞) 電気: 電荷の相互作用によって発生し、物を動かしたり、熱を発生するなど、様々な現象の根源となるエネルギーの一。電流。電荷。 (ほかに: 電流, 電力)
+ELECTRICITY	(名詞) 電気: 電荷の相互作用によって発生し、物を動かしたり、熱を発生するなど、様々な現象の根源となるエネルギーの一。電流。電荷。 (ほかに: 電流, 電力)
+ELECTRICS	(electricの変化形) (形容詞) 電気の、電動の、電気性の、電気に関する、電気工学によって作られた、エレクトリックな
+ELECTRIFICATION	(名詞) electrificationの訳: ⟪帯電|たいでん⟫
+ELECTRIFICATIONS	(名詞) electrificationの複数形: ⟪帯電|たいでん⟫
+ELECTRIFIED	(動詞) "electrify" の過去形・過去分詞形: 充電する: 転じて、体力や気力などを充分に蓄え、回復させること。 (ほかに: 帯電させる, 電力供給する)
+ELECTRIFIES	(動詞) "electrify" の三人称単数現在形: 充電する: 転じて、体力や気力などを充分に蓄え、回復させること。 (ほかに: 帯電させる, 電力供給する)
+ELECTRIFY	(動詞) 充電する: 転じて、体力や気力などを充分に蓄え、回復させること。 (ほかに: 帯電させる, 電力供給する)
+ELECTRIFYING	(動詞) "electrify" の動名詞形又は現在分詞形: 充電する: 転じて、体力や気力などを充分に蓄え、回復させること。 (ほかに: 帯電させる, 電力供給する)
+ELECTRO	(名詞) エレクトロファンク。
+ELECTROCARDIOGRAM	(名詞) 心電図: 心臓の筋肉の活動電位・活動電流をを測定して記録したもの。心臓の興奮伝播に関する情報が簡単な器具を用いて得られるため、広く診療に用いられている。
+ELECTROCARDIOGRAMS	(electrocardiogramの変化形) (名詞) 心電図: 心臓の筋肉の活動電位・活動電流をを測定して記録したもの。心臓の興奮伝播に関する情報が簡単な器具を用いて得られるため、広く診療に用いられている。
+ELECTROCUTE	(動詞) 電気椅子で処刑する。
+ELECTROCUTED	(動詞) electrocuteの過去形・過去分詞: 電気椅子で処刑する。
+ELECTROCUTES	(動詞) electrocuteの直説法現在第三人称単数形: 電気椅子で処刑する。
+ELECTROCUTING	(動詞) electrocuteの現在分詞: 電気椅子で処刑する。
+ELECTROCUTION	(名詞) electrocutionの訳: 感電死
+ELECTROCUTIONS	(名詞) electrocutionの複数形: 感電死
+ELECTRODE	(名詞) electrodeの訳: 電極
+ELECTRODES	(名詞) electrodeの複数形: 電極
+ELECTROED	(動詞) electroの過去形・過去分詞: エレクトロファンク。
+ELECTROING	(動詞) electroの現在分詞: エレクトロファンク。
+ELECTROLYSIS	(名詞) 電解: 化合物の水溶液に電流を通じて化学変化を起こさせること。電気分解の略。 (ほかに: 電気分解)
+ELECTROLYTE	(名詞) 電解液、電解質。また、その液中のイオン。
+ELECTROLYTES	(名詞) electrolyteの複数形: 電解液、電解質。また、その液中のイオン。
+ELECTROLYZE	(動詞) 電解する: 化合物の水溶液に電流を通じて化学変化を起こさせること。電気分解の略。 (ほかに: 電気分解する)
+ELECTROLYZED	(動詞) electrolyzeの過去形・過去分詞: 電解する: 化合物の水溶液に電流を通じて化学変化を起こさせること。電気分解の略。 (ほかに: 電気分解する)\n(形容詞) electrolyzedの訳: 電解された
+ELECTROLYZES	(動詞) electrolyzeの直説法現在第三人称単数形: 電解する: 化合物の水溶液に電流を通じて化学変化を起こさせること。電気分解の略。 (ほかに: 電気分解する)
+ELECTROLYZING	(動詞) electrolyzeの現在分詞: 電解する: 化合物の水溶液に電流を通じて化学変化を起こさせること。電気分解の略。 (ほかに: 電気分解する)
+ELECTROMAGNET	(名詞) 電磁石: 軟鉄など磁性材料の芯のまわりにコイルを巻き、通電することによって一時的に磁力を発生させる磁石。
+ELECTROMAGNETIC	(形容詞) 電磁気の: 電流によって発生する磁気。 (ほかに: 電磁の)
+ELECTROMAGNETISM	(名詞) 電磁気: 電流によって発生する磁気。
+ELECTROMAGNETISMS	(electromagnetismの変化形) (名詞) 電磁気: 電流によって発生する磁気。
+ELECTROMAGNETS	(名詞) electromagnetの複数形: 電磁石。
+ELECTRON	(名詞) 電子: 素粒子の内のレプトンの一つ。負の電荷を持ち、原子核と共に原子を構成する。エレクトロン。
+ELECTRONEGATIVITIES	(名詞) electronegativityの複数形: 電気陰性度: 分子内の原子が電子を引き付ける力の尺度。
+ELECTRONEGATIVITY	(名詞) 電気陰性度: 分子内の原子が電子を引き付ける力の尺度。
+ELECTRONIC	(形容詞) 電子の: 電子の働きが大きく関係する半導体素子等電気回路の作用等に関わる語を形成する。 (ほかに: 電子に関する)
+ELECTRONICALLY	(副詞) 電子的に: コンピュータを使用してデジタルに処理する様子。 (ほかに: 電子技術的に)
+ELECTRONICS	(名詞) 電子工学: 電子を研究する工学。 (ほかに: 電子工業, 電子技術)
+ELECTRONS	(名詞) electron の複数形: 電子: 素粒子の内のレプトンの一つ。負の電荷を持ち、原子核と共に原子を構成する。エレクトロン。
+ELECTROPLATE	(動詞) 電気鍍金をする。\n(名詞) 電気鍍金をした物。
+ELECTROPLATED	(動詞) electroplateの過去形・過去分詞: 電気鍍金をする。\n(形容詞) 電気鍍金をした。
+ELECTROPLATES	(動詞) electroplateの直説法現在第三人称単数形: 電気鍍金をする。\n(名詞) electroplateの複数形: 電気鍍金をする。
+ELECTROPLATING	(動詞) electroplateの現在分詞: 電気鍍金をする。\n(名詞) 電気鍍金: 鍍金しようとする金属を陽極、鍍金される物体を陰極にし、電気分解によって陰極の物体の表面に金属を付着させる鍍金。
+ELECTROS	(名詞) electroの複数形: エレクトロファンク。\n(動詞) electroの直説法現在第三人称単数形: エレクトロファンク。
+ELECTROTYPE	(名詞) electrotypeの訳: 電気版\n(動詞) electrotypeの訳: 電気版を作る
+ELECTROTYPED	(動詞) electrotypeの過去形・過去分詞: 電気版
+ELECTROTYPES	(名詞) electrotypeの複数形: 電気版\n(動詞) electrotypeの直説法現在第三人称単数形: 電気版
+ELECTROTYPING	(名詞) electrotypingの訳: 電気版の製作\n(動詞) electrotypeの現在分詞: 電気版
+ELECTRUM	(名詞) electrumの訳: エレクトラム, 琥珀金
+ELECTRUMS	(名詞) electrumの複数形: エレクトラム, 琥珀金
+ELECTS	(動詞) "elect" の三人称単数現在形: 選ぶ
+ELEGANCE	(名詞) 上品: （じょうひん）品質の良いこと。また、その品。 (ほかに: 優雅)
+ELEGANCES	(eleganceの変化形) (名詞) 上品: （じょうひん）品質の良いこと。また、その品。 (ほかに: 優雅)
+ELEGANT	(形容詞) 優美な: 上品で美しい様子。優れていて美しい様子。 (ほかに: 雅やかな, 優雅な)
+ELEGANTLY	(副詞) 上品に: （じょうひん）品質の良いこと。また、その品。 (ほかに: 優雅に)
+ELEGIES	(elegyの変化形) (名詞) 哀傷歌: 人の死に際して哀傷の心を述べた歌。
+ELEGY	(名詞) 哀傷歌: 人の死に際して哀傷の心を述べた歌。
+ELEMENT	(名詞) 化学元素。元素。
+ELEMENTAL	(形容詞) elementalの訳: 自然の力の
+ELEMENTALS	(elementalの変化形) (形容詞) elementalの訳: 自然の力の
+ELEMENTARY	(形容詞) elementaryの訳: 初級の, 初歩の
+ELEPHANT	(名詞) 象: （ゾウ）ゾウ目ゾウ科の動物。
+ELEPHANTIASIS	(名詞) elephantiasisの訳: 象皮病
+ELEPHANTINE	(形容詞) elephantineの訳: 象のような
+ELEPHANTS	(名詞) "elephant" の複数形: 象: （ゾウ）ゾウ目ゾウ科の動物。
+ELEVATE	(動詞) 高める: （程度などを）高くする。強くする。
+ELEVATED	(動詞) elevateの過去形・過去分詞: 高める: （程度などを）高くする。強くする。\n(形容詞) elevatedの訳: 高くされた
+ELEVATEDS	(名詞) elevatedの複数形: elevateの過去形・過去分詞: 高める: （程度などを）高くする。強くする。
+ELEVATES	(動詞) elevateの直説法現在第三人称単数形: 高める: （程度などを）高くする。強くする。
+ELEVATING	(動詞) elevateの動名詞又は現在分詞: 高める: （程度などを）高くする。強くする。
+ELEVATION	(名詞) elevationの訳: 昇進
+ELEVATIONS	(名詞) elevationの複数形: 昇進
+ELEVATOR	(名詞) エレベーター: 上部からワイヤーロープでつるした箱を動力で垂直方向に上下させ、人や荷物を運搬する装置。自動昇降機。
+ELEVATORS	(名詞) "elevator" の複数形: エレベーター: 上部からワイヤーロープでつるした箱を動力で垂直方向に上下させ、人や荷物を運搬する装置。自動昇降機。
+ELEVEN	(数詞) 十一: 11、とおあまりひとつ。十よりも一だけ大きい数。イレブン。\n(名詞) elevenの訳: イレブン
+ELEVENS	(名詞) elevenの複数形: 十一: 11、とおあまりひとつ。十よりも一だけ大きい数。イレブン。
+ELEVENTH	(形容詞) eleventhの訳: 第11の, 11番目の\n(名詞) 第11番目の人又は物
+ELEVENTHS	(eleventhの変化形) (形容詞) eleventhの訳: 第11の, 11番目の
+ELF	(名詞) エルフ: イギリスの民話に登場する小さな妖精。
+ELIGIBLE	(形容詞) 適任の、選ばれるに値する、資格を付与された、有資格の、ある行為を許可された。\n(名詞) eligibleの訳: 適任者, 有資格者
+ELIGIBLES	(eligibleの変化形) (形容詞) 適任の、選ばれるに値する、資格を付与された、有資格の、ある行為を許可された。
+ELIMINATE	(動詞) 除く。除去する。
+ELIMINATED	(動詞) eliminateの過去形・過去分詞: 除く。除去する。
+ELIMINATES	(動詞) eliminateの直説法現在第三人称単数形: 除く。除去する。
+ELIMINATING	(動詞) eliminateの動名詞又は現在分詞: 除く。除去する。
+ELIMINATION	(名詞) 取り除くこと。除去。排除。
+ELIMINATIONS	(eliminationの変化形) (名詞) 取り除くこと。除去。排除。
+ELITE	(形容詞) eliteの訳: 立派な, ⟪すごい⟫\n(名詞) eliteの訳: エリート
+ELITES	(名詞) eliteの複数形: 立派な, ⟪すごい⟫
+ELIXIR	(名詞) elixirの訳: エリクサー
+ELIXIRS	(elixirの変化形) (名詞) elixirの訳: エリクサー
+ELK	(名詞) ヘラジカ: 偶蹄目シカ科ヘラジカ属に属する鹿の一種。学名:Alces alces。別名、おおじか、ムース、エルク。
+ELKS	(elkの変化形) (名詞) ヘラジカ: 偶蹄目シカ科ヘラジカ属に属する鹿の一種。学名:Alces alces。別名、おおじか、ムース、エルク。
+ELLIPSE	(名詞) 楕円。長円。\n(動詞) ellipseの訳: 省略する
+ELLIPSES	(名詞) ellipseの複数形: 楕円。長円。\n(動詞) ellipseの直説法現在第三人称単数形: 楕円。長円。
+ELLIPSIS	(名詞) ellipsisの訳: 省略記号
+ELLIPTICAL	(形容詞) 楕円の。長円の。\n(名詞) ellipticalの訳: 楕円銀河
+ELLIPTICALLY	(副詞) 楕円に: 平面上の2点からの距離の和が一定である点の軌跡。
+ELLIPTICALS	(名詞) ellipticalの複数形: 楕円の。長円の。
+ELLS	(名詞) ellの複数形。
+ELM	(名詞) elmの訳: にれ
+ELMS	(elmの変化形) (名詞) elmの訳: にれ
+ELONGATE	(形容詞) elongateの訳: 伸びた\n(動詞) 長くする。伸ばす。引き伸ばす。
+ELONGATED	(形容詞) elongatedの訳: 細長い\n(動詞) elongateの過去形・過去分詞: 伸びた
+ELONGATES	(動詞) elongateの直説法現在第三人称単数形: 伸びた
+ELONGATING	(動詞) elongateの現在分詞: 伸びた
+ELONGATION	(名詞) 伸長。延長。
+ELONGATIONS	(名詞) elongationの複数形: 伸長。延長。
+ELOQUENCE	(名詞) 雄弁。能弁。
+ELOQUENCES	(名詞) eloquenceの複数形: 雄弁。能弁。
+ELOQUENT	(形容詞) 雄弁な。能弁な。説得力のある。
+ELOQUENTLY	(副詞) 雄弁に。能弁に。
+ELSE	(形容詞) 他の。別の。\n(副詞) そうでなければ、さもなければ、それ以外で。
+ELSEWHERE	(副詞) elsewhereの訳: 他の場所で\n(名詞) elsewhereの訳: 他の場所
+ELUCIDATE	(動詞) 説明する。解明する。明らかにする。
+ELUCIDATED	(動詞) elucidateの過去形・過去分詞: 説明する。解明する。明らかにする。
+ELUCIDATES	(動詞) elucidateの直説法現在第三人称単数形: 説明する。解明する。明らかにする。
+ELUCIDATING	(動詞) elucidateの現在分詞: 説明する。解明する。明らかにする。
+ELUCIDATION	(名詞) 説明。解明。
+ELUCIDATIONS	(名詞) elucidationの複数形: 説明。解明。
+ELUDE	(動詞) 避ける。逃れる。回避する。
+ELUDED	(動詞) eludeの過去形・過去分詞: 避ける。逃れる。回避する。
+ELUDER	(eludeの変化形) (動詞) 避ける。逃れる。回避する。
+ELUDES	(動詞) eludeの直説法現在第三人称単数形: 避ける。逃れる。回避する。
+ELUDING	(動詞) eludeの現在分詞: 避ける。逃れる。回避する。
+EMACIATE	(動詞) ひどく痩せさせる。やつれさせる。衰弱させる。
+EMACIATED	(形容詞) 瘦せ細った。やつれた。衰弱した。\n(動詞) emaciateの過去形・過去分詞: ひどく痩せさせる。やつれさせる。衰弱させる。
+EMACIATES	(動詞) emaciateの直説法現在第三人称単数形: ひどく痩せさせる。やつれさせる。衰弱させる。
+EMACIATING	(動詞) emaciateの現在分詞: ひどく痩せさせる。やつれさせる。衰弱させる。
+EMACIATION	(名詞) 削痩。やつれ。
+EMACIATIONS	(名詞) emaciationの複数形: 削痩。やつれ。
+EMANATE	(動詞) 出る。生じる。発散する。
+EMANATED	(動詞) emanateの過去形・過去分詞: 出る。生じる。発散する。
+EMANATES	(動詞) emanateの直説法現在第三人称単数形: 出る。生じる。発散する。
+EMANATING	(動詞) emanateの現在分詞: 出る。生じる。発散する。
+EMANATION	(名詞) 発散。放射。
+EMANATIONS	(名詞) emanationの複数形: 発散。放射。
+EMANCIPATE	(動詞) emancipateの訳: 解放する
+EMANCIPATED	(emancipateの変化形) (動詞) emancipateの訳: 解放する
+EMANCIPATES	(emancipateの変化形) (動詞) emancipateの訳: 解放する
+EMANCIPATING	(emancipateの変化形) (動詞) emancipateの訳: 解放する
+EMANCIPATION	(名詞) 解放: 抑圧的な旧習や制度から解き放たれて政治的・社会的自由を求めること。
+EMANCIPATIONS	(emancipationの変化形) (名詞) 解放: 抑圧的な旧習や制度から解き放たれて政治的・社会的自由を求めること。
+EMASCULATE	(動詞) 去勢する: （比喩）抵抗する気力を奪う。\n(形容詞) 骨抜きになった。
+EMASCULATED	(動詞) "emasculate" の過去形・過去分詞: 去勢する: （比喩）抵抗する気力を奪う。
+EMASCULATES	(動詞) "emasculate" の現在第三人称単数形。
+EMASCULATING	(動詞) "emasculate" の動名詞又は現在分詞: 去勢する: （比喩）抵抗する気力を奪う。
+EMASCULATION	(名詞) 去勢: （比喩）抵抗する気力を奪うこと。
+EMASCULATIONS	(名詞) "emasculation" の複数形: 去勢: （比喩）抵抗する気力を奪うこと。
+EMBALM	(動詞) （死体に）防腐処理をする、ミイラにする
+EMBALMED	(embalmの変化形) (動詞) （死体に）防腐処理をする、ミイラにする
+EMBALMING	(embalmの変化形) (動詞) （死体に）防腐処理をする、ミイラにする
+EMBALMS	(embalmの変化形) (動詞) （死体に）防腐処理をする、ミイラにする
+EMBANK	(動詞) 土手・堤防で囲む。
+EMBANKED	(動詞) "embank" の過去形・過去分詞: 土手・堤防で囲む。
+EMBANKING	(動詞) "embank" の動名詞又は現在分詞: 土手・堤防で囲む。
+EMBANKMENT	(名詞) 堤防: 洪水などの水害を防止し、土地を保護するために、河岸や海岸に土やコンクリートで高く築いた構築物。 (ほかに: 土手)
+EMBANKMENTS	(名詞) "embankment" の複数形: 堤防: 洪水などの水害を防止し、土地を保護するために、河岸や海岸に土やコンクリートで高く築いた構築物。 (ほかに: 土手)
+EMBANKS	(動詞) "embank" の現在第三人称単数形。
+EMBARK	(動詞) （船や飛行機に）乗り込む。搭乗する。
+EMBARKATION	(名詞) 搭乗。乗船。
+EMBARKATIONS	(名詞) embarkationの複数形: 搭乗。乗船。
+EMBARKED	(動詞) embarkの過去形・過去分詞: （船や飛行機に）乗り込む。搭乗する。
+EMBARKING	(動詞) embarkの現在分詞: （船や飛行機に）乗り込む。搭乗する。\n(名詞) 搭乗。乗船。
+EMBARKS	(動詞) embarkの直説法現在第三人称単数形: （船や飛行機に）乗り込む。搭乗する。
+EMBARRASS	(動詞) 恥ずかしい思いをさせる、当惑させる。
+EMBARRASSED	(形容詞) 恥ずかしい: （はずかしい）失敗や愚かしい行動で良心が咎めて、情けない。人様に見せたくない。 (ほかに: 当惑した)\n(動詞) embarrassの過去形: 恥ずかしい思いをさせる、当惑させる。
+EMBARRASSES	(動詞) embarrassの直説法現在第三人称単数形: 恥ずかしい思いをさせる、当惑させる。
+EMBARRASSING	(動詞) embarrassの現在分詞: 恥ずかしい思いをさせる、当惑させる。\n(形容詞) 決まりが悪い、当惑させるような
+EMBARRASSINGLY	(副詞) まごつかせるほどに
+EMBARRASSMENT	(名詞) embarrassmentの訳: 困惑, ⟪当惑|とうわく⟫, 狼狽
+EMBARRASSMENTS	(名詞) embarrassmentの複数形: 困惑, ⟪当惑|とうわく⟫, 狼狽
+EMBASSIES	(名詞) embassyの複数形: 大使館: 特命全権大使が駐在(駐箚)する地で公務を執るための公館。
+EMBASSY	(名詞) 大使館: 特命全権大使が駐在(駐箚)する地で公務を執るための公館。
+EMBED	(動詞) 嵌める。埋め込む。組み込む。\n(名詞) 軍隊に配属された従軍記者。
+EMBEDDED	(動詞) "embed" の過去形・過去分詞形: 嵌める。埋め込む。組み込む。\n(形容詞) embeddedの訳: 嵌まっている
+EMBEDDING	(動詞) "embed"の現在分詞形: 嵌める。埋め込む。組み込む。\n(名詞) 嵌合。嵌め合わせ。
+EMBEDS	(動詞) embed の直説法三人称単数現在形: 嵌める。埋め込む。組み込む。\n(名詞) embedの複数形: 嵌める。埋め込む。組み込む。
+EMBELLISH	(動詞) 飾る: （かざる）美しく見えるように物を添えるなどして、その場に手を加える。 (ほかに: 美しくする)
+EMBELLISHED	(動詞) embellishの過去形・過去分詞: 飾る: （かざる）美しく見えるように物を添えるなどして、その場に手を加える。 (ほかに: 美しくする)\n(形容詞) 装飾された。潤色された。
+EMBELLISHES	(動詞) embellishの直説法現在第三人称単数形: 飾る: （かざる）美しく見えるように物を添えるなどして、その場に手を加える。 (ほかに: 美しくする)
+EMBELLISHING	(動詞) embellishの現在分詞: 飾る: （かざる）美しく見えるように物を添えるなどして、その場に手を加える。 (ほかに: 美しくする)
+EMBELLISHMENT	(名詞) embellishmentの訳: 装飾, ⟪飾り|かざり⟫
+EMBELLISHMENTS	(名詞) embellishmentの複数形: 装飾, ⟪飾り|かざり⟫
+EMBER	(名詞) 燃えさし: すべてが燃えずに残ったもの。燃え残り。
+EMBERS	(emberの変化形) (名詞) 燃えさし: すべてが燃えずに残ったもの。燃え残り。
+EMBEZZLE	(動詞) 着服する: こっそり盗んで自分のものにすること。 (ほかに: 横領する, 使い込む)
+EMBEZZLED	(動詞) embezzleの過去形・過去分詞: 着服する: こっそり盗んで自分のものにすること。 (ほかに: 横領する, 使い込む)
+EMBEZZLEMENT	(名詞) 横領: 不法に他人・公共の物を自分の物とすること。 (ほかに: 着服)
+EMBEZZLEMENTS	(名詞) embezzlementの複数形: 横領: 不法に他人・公共の物を自分の物とすること。 (ほかに: 着服)
+EMBEZZLER	(名詞) embezzlerの訳: 横領犯
+EMBEZZLERS	(名詞) embezzlerの複数形: 横領犯
+EMBEZZLES	(動詞) embezzleの直説法現在第三人称単数形: 着服する: こっそり盗んで自分のものにすること。 (ほかに: 横領する, 使い込む)
+EMBEZZLING	(動詞) embezzleの現在分詞: 着服する: こっそり盗んで自分のものにすること。 (ほかに: 横領する, 使い込む)\n(名詞) 横領。着服。
+EMBITTER	(動詞) embitterの訳: 苦くする
+EMBITTERED	(動詞) embitterの過去形・過去分詞: 苦くする
+EMBITTERING	(動詞) embitterの現在分詞: 苦くする\n(名詞) 苦い思いをさせること。
+EMBITTERMENT	(名詞) 苦い思いをさせること。
+EMBITTERMENTS	(名詞) embittermentの複数形: 苦い思いをさせること。
+EMBITTERS	(動詞) embitterの直説法現在第三人称単数形: 苦くする
+EMBLEM	(名詞) 徽章。紋章。
+EMBLEMATIC	(形容詞) 象徴的な。象徴する。
+EMBLEMATICALLY	(副詞) 象徴的に: ある物事を象徴とするさま。
+EMBLEMED	(emblemの変化形) (名詞) 徽章。紋章。
+EMBLEMING	(emblemの変化形) (名詞) 徽章。紋章。
+EMBLEMS	(名詞) emblemの複数形: 徽章。紋章。
+EMBODIED	(動詞) embodyの過去形・過去分詞: 肉体を与える。化身にする。
+EMBODIES	(動詞) embodyの直説法現在第三人称単数形: 肉体を与える。化身にする。
+EMBODIMENT	(名詞) 具現化。具象化。体現。
+EMBODIMENTS	(名詞) embodimentの複数形: 具現化。具象化。体現。
+EMBODY	(動詞) 肉体を与える。化身にする。
+EMBODYING	(動詞) embodyの現在分詞: 肉体を与える。化身にする。\n(名詞) 具現化。具象化。体現。
+EMBRACE	(動詞) embraceの訳: ⟪抱く|いだく⟫, ⟪抱く|いだく⟫, 抱擁する\n(名詞) embraceの訳: 抱擁
+EMBRACED	(動詞) embraceの過去形・過去分詞: ⟪抱く|いだく⟫, ⟪抱く|いだく⟫, 抱擁する
+EMBRACES	(名詞) embraceの複数形: ⟪抱く|いだく⟫, ⟪抱く|いだく⟫, 抱擁する\n(動詞) embraceの直説法現在第三人称単数形: ⟪抱く|いだく⟫, ⟪抱く|いだく⟫, 抱擁する
+EMBRACING	(動詞) embraceの動名詞又は現在分詞: ⟪抱く|いだく⟫, ⟪抱く|いだく⟫, 抱擁する\n(名詞) 抱擁: （親しみや愛情を持って）だきかかえること。 (ほかに: 抱くこと)
+EMBRITTLE	(動詞) embrittleの訳: 脆化
+EMBRITTLED	(embrittleの変化形) (動詞) embrittleの訳: 脆化
+EMBRITTLES	(embrittleの変化形) (動詞) embrittleの訳: 脆化
+EMBRITTLING	(embrittleの変化形) (動詞) embrittleの訳: 脆化
+EMBROIDER	(動詞) 刺繍する: 布地に様々な色の糸を使用して模様や絵を縫って表現すること。また、そのようなもの。
+EMBROIDERED	(動詞) embroiderの過去形・過去分詞: 刺繍する: 布地に様々な色の糸を使用して模様や絵を縫って表現すること。また、そのようなもの。
+EMBROIDERER	(名詞) embroidererの訳: 刺繍をする人
+EMBROIDERERS	(名詞) embroidererの複数形: 刺繍をする人
+EMBROIDERIES	(名詞) embroideryの複数形: 刺繍
+EMBROIDERING	(embroiderの変化形) (動詞) 刺繍する: 布地に様々な色の糸を使用して模様や絵を縫って表現すること。また、そのようなもの。
+EMBROIDERS	(動詞) embroiderの直説法現在第三人称単数形: 刺繍する: 布地に様々な色の糸を使用して模様や絵を縫って表現すること。また、そのようなもの。
+EMBROIDERY	(名詞) embroideryの訳: 刺繍
+EMBROIL	(動詞) 巻き込む: （まきこむ）ある関係・事態に引き入れる。
+EMBROILED	(動詞) "embroil" の過去形・過去分詞形: 巻き込む: （まきこむ）ある関係・事態に引き入れる。
+EMBROILING	(動詞) "embroil" の動名詞形又は現在分詞形: 巻き込む: （まきこむ）ある関係・事態に引き入れる。
+EMBROILS	(動詞) "embroil" の三人称単数現在形: 巻き込む: （まきこむ）ある関係・事態に引き入れる。
+EMBRYO	(名詞) embryoの訳: 胚
+EMBRYOLOGIES	(embryologyの変化形) (名詞) 生物（主に動物）の初期発生について研究する学問。発生学。医学においては胎生学とも。
+EMBRYOLOGIST	(名詞) 発生学者: 発生学を研究する科学者。
+EMBRYOLOGISTS	(embryologistの変化形) (名詞) 発生学者: 発生学を研究する科学者。
+EMBRYOLOGY	(名詞) 生物（主に動物）の初期発生について研究する学問。発生学。医学においては胎生学とも。
+EMBRYONIC	(名詞) 胚盤: 魚類、爬虫類、鳥類などの端黄卵で、動物極側で卵黄が少なく、将来胚になる細胞質。
+EMBRYOS	(名詞) embryoの複数形: 胚
+EME	(名詞) 友人: 友達。朋友。 (ほかに: 友達)
+EMEND	(動詞) 修正する: 間違いや不十分な箇所を直すこと。ずれている部分を調整すること。 (ほかに: 校訂する, 訂正する)
+EMENDABLE	(形容詞) emendableの訳: 校正できる, 訂正できる
+EMENDATION	(名詞) 校正: 原稿と校正刷とを照合して文字の誤りや体裁などを正すこと。 (ほかに: 校訂, 訂正)
+EMENDATIONS	(名詞) emendationの複数形: 校正: 原稿と校正刷とを照合して文字の誤りや体裁などを正すこと。 (ほかに: 校訂, 訂正)
+EMENDED	(動詞) emendの過去形・過去分詞: 修正する: 間違いや不十分な箇所を直すこと。ずれている部分を調整すること。 (ほかに: 校訂する, 訂正する)
+EMENDING	(動詞) emendの現在分詞: 修正する: 間違いや不十分な箇所を直すこと。ずれている部分を調整すること。 (ほかに: 校訂する, 訂正する)
+EMENDS	(動詞) emendの直説法現在第三人称単数形: 修正する: 間違いや不十分な箇所を直すこと。ずれている部分を調整すること。 (ほかに: 校訂する, 訂正する)
+EMERALD	(形容詞) エメラルドグリーンの。\n(名詞) エメラルド: 緑柱石の一種で、緑色で透明な宝石。翠玉。
+EMERALDS	(名詞) emeraldの複数形: エメラルドグリーンの。
+EMERGE	(動詞) 現れる: （あらわれる）今まで目に見えなかったものが、目に見えるようになる。
+EMERGED	(動詞) emergeの過去形・過去分詞: 現れる: （あらわれる）今まで目に見えなかったものが、目に見えるようになる。
+EMERGENCE	(名詞) 発生。出現。
+EMERGENCES	(名詞) emergenceの複数形: 発生。出現。
+EMERGENCIES	(名詞) emergencyの複数形: 非常時。緊急事態。
+EMERGENCY	(名詞) 非常時。緊急事態。
+EMERGES	(動詞) "emerge" の三人称単数現在形: 現れる: （あらわれる）今まで目に見えなかったものが、目に見えるようになる。
+EMERGING	(形容詞) 発展途上の。新興の。\n(動詞) emergeの現在分詞: 現れる: （あらわれる）今まで目に見えなかったものが、目に見えるようになる。
+EMERITUS	(形容詞) emeritusの訳: 名誉退職の\n(名詞) 名誉教授: 教授として長年にわたり貢献し退職した者に対し大学などが与える称号。 (ほかに: エメリタス)
+EMES	(名詞) emeの複数形: 友人: 友達。朋友。 (ほかに: 友達)
+EMESIS	(名詞) 嘔吐: 食べた物を吐くこと。
+EMIGRANT	(名詞) 移住者: 他の土地へまたは他の土地から移住した者。 (ほかに: 移民)
+EMIGRANTS	(名詞) emigrantの複数形: 移住者: 他の土地へまたは他の土地から移住した者。 (ほかに: 移民)
+EMIGRATE	(動詞) 移住する: 他の土地に移り住むこと。特に遠隔地や海外に居住地を移すこと。 (ほかに: 移民する)
+EMIGRATED	(動詞) "emigrate" の過去形・過去分詞形: 移住する: 他の土地に移り住むこと。特に遠隔地や海外に居住地を移すこと。 (ほかに: 移民する)
+EMIGRATES	(動詞) "emigrate" の三人称単数現在形: 移住する: 他の土地に移り住むこと。特に遠隔地や海外に居住地を移すこと。 (ほかに: 移民する)
+EMIGRATING	(動詞) "emigrate" の動名詞形又は現在分詞形: 移住する: 他の土地に移り住むこと。特に遠隔地や海外に居住地を移すこと。 (ほかに: 移民する)
+EMIGRATION	(名詞) 移民: 外国から恒久的に移住してくること。 (ほかに: 移住)
+EMIGRATIONS	(名詞) emigrationの複数形: 移民: 外国から恒久的に移住してくること。 (ほかに: 移住)
+EMIGRE	(名詞) 移住者: 他の土地へまたは他の土地から移住した者。 (ほかに: 亡命者)
+EMIGRES	(名詞) emigreの複数形: 移住者: 他の土地へまたは他の土地から移住した者。 (ほかに: 亡命者)
+EMINENCE	(名詞) 高位: 高い地位や階級。 (ほかに: 高貴)
+EMINENCES	(名詞) eminenceの複数形: 高位: 高い地位や階級。 (ほかに: 高貴)
+EMINENT	(形容詞) eminentの訳: 優れた, 立派な, 卓越した
+EMINENTLY	(副詞) 極めて: はなはだしいさま。この上なく。非常に。 (ほかに: 著しく)
+EMIR	(名詞) アミール。首長。
+EMIRATE	(名詞) emirateの訳: 首長国
+EMIRATES	(名詞) emirateの複数形: 首長国
+EMIRS	(名詞) emirの複数形: アミール。首長。
+EMISSARIES	(名詞) emissaryの複数形: 使者。密使。スパイ。
+EMISSARY	(名詞) 使者。密使。スパイ。
+EMISSION	(名詞) emissionの訳: 放出物, 排出物
+EMISSIONS	(名詞) emissionの複数形: 放出物, 排出物
+EMIT	(動詞) （香りなどを）放つ。（光・熱などを）放出する。放射する。
+EMITS	(動詞) "emit" の三人称単数現在形: （香りなどを）放つ。（光・熱などを）放出する。放射する。
+EMITTED	(動詞) "emit" の過去形・過去分詞形: （香りなどを）放つ。（光・熱などを）放出する。放射する。
+EMITTER	(名詞) 排出するもの。放出するもの。
+EMITTERS	(名詞) emitterの複数形: 排出するもの。放出するもの。
+EMITTING	(動詞) "emit" の動名詞形又は現在分詞形: （香りなどを）放つ。（光・熱などを）放出する。放射する。
+EMOLLIENT	(名詞) emollientの訳: 皮膚軟化薬\n(形容詞) emollientの訳: 軟化させる
+EMOLLIENTS	(名詞) emollientの複数形: 皮膚軟化薬
+EMOTION	(名詞) emotionの訳: ⟪感情|かんじょう⟫
+EMOTIONAL	(形容詞) 感情的な: 理性をなくし、感情をぶつけるさま。
+EMOTIONALISM	(名詞) emotionalismの訳: 感情的傾向
+EMOTIONALISMS	(emotionalismの変化形) (名詞) emotionalismの訳: 感情的傾向
+EMOTIONALLY	(副詞) 感情的に: 感情に関するさま。
+EMOTIONLESS	(形容詞) 感情を表に出さない、無感動な。
+EMOTIONS	(名詞) emotionの複数形: ⟪感情|かんじょう⟫
+EMOTIVE	(形容詞) emotiveの訳: 感情に訴える
+EMOTIVELY	(emotiveの変化形) (形容詞) emotiveの訳: 感情に訴える
+EMPATHETIC	(形容詞) 人の気持ちの分かる
+EMPATHIES	(名詞) "empathy" の複数形: 共感: 他人の感情や意見を理解し、それを共有すること。
+EMPATHIZE	(名詞) 理解: （それが何であるか、あるいは何を指し示すかなどを）正しく判断し解釈すること。
+EMPATHIZED	(empathizeの変化形) (名詞) 理解: （それが何であるか、あるいは何を指し示すかなどを）正しく判断し解釈すること。
+EMPATHIZES	(empathizeの変化形) (名詞) 理解: （それが何であるか、あるいは何を指し示すかなどを）正しく判断し解釈すること。
+EMPATHIZING	(empathizeの変化形) (名詞) 理解: （それが何であるか、あるいは何を指し示すかなどを）正しく判断し解釈すること。
+EMPATHY	(名詞) 共感: 他人の感情や意見を理解し、それを共有すること。
+EMPEROR	(名詞) 帝王: 君主国の元首。 (ほかに: 皇帝)
+EMPERORS	(名詞) emperorの複数形: 帝王: 君主国の元首。 (ほかに: 皇帝)
+EMPHASES	(名詞) emphasisの複数形: 強調: ある部分を目立つよう、強く表すこと。
+EMPHASIS	(名詞) 強調: ある部分を目立つよう、強く表すこと。
+EMPHASISE	(動詞) emphasizeの別形。
+EMPHASISED	(動詞) emphasiseの過去形又は過去分詞形: emphasizeの別形。
+EMPHASISES	(動詞) emphasiseの直説法第三人称単数現在形: emphasizeの別形。
+EMPHASISING	(動詞) emphasiseの動名詞又は現在分詞形: emphasizeの別形。
+EMPHASIZE	(動詞) 強調する: ある部分を目立つよう、強く表すこと。
+EMPHASIZED	(動詞) emphasizeの過去形・過去分詞: 強調する: ある部分を目立つよう、強く表すこと。
+EMPHASIZES	(動詞) emphasizeの直説法現在第三人称単数形: 強調する: ある部分を目立つよう、強く表すこと。
+EMPHASIZING	(動詞) emphasizeの動名詞又は現在分詞: 強調する: ある部分を目立つよう、強く表すこと。
+EMPHATIC	(形容詞) 強調する: ある部分を目立つよう、強く表すこと。 (ほかに: 強く主張する)\n(名詞) emphaticの訳: 強調子音
+EMPHATICALLY	(副詞) emphaticallyの訳: 強調して, 断固として
+EMPIRE	(名詞) 帝国: 皇帝が支配・統治する国家。
+EMPIRES	(empireの変化形) (名詞) 帝国: 皇帝が支配・統治する国家。
+EMPIRICISM	(名詞) empiricismの訳: 経験論, 経験主義
+EMPIRICISMS	(empiricismの変化形) (名詞) empiricismの訳: 経験論, 経験主義
+EMPLOY	(動詞) 雇用する: 仕事をさせるため人を雇うこと。 (ほかに: ～を雇う)
+EMPLOYED	(動詞) "employ" の過去形・過去分詞形: 雇用する: 仕事をさせるため人を雇うこと。 (ほかに: ～を雇う)\n(形容詞) 雇用されている。
+EMPLOYEE	(名詞) 被傭者。被雇傭者。従業員。雇われ人。
+EMPLOYEES	(名詞) "employee" の複数形: 被傭者。被雇傭者。従業員。雇われ人。
+EMPLOYER	(名詞) 雇傭者。雇い主。
+EMPLOYERS	(名詞) "employer" の複数形: 雇傭者。雇い主。
+EMPLOYES	(employの変化形) (動詞) 雇用する: 仕事をさせるため人を雇うこと。 (ほかに: ～を雇う)
+EMPLOYING	(動詞) employの動名詞又は現在分詞: 雇用する: 仕事をさせるため人を雇うこと。 (ほかに: ～を雇う)
+EMPLOYMENT	(名詞) 雇用: 仕事をさせるため人を雇うこと。
+EMPLOYMENTS	(名詞) employmentの複数形: 雇用: 仕事をさせるため人を雇うこと。
+EMPLOYS	(動詞) employの直説法現在第三人称単数形: 雇用する: 仕事をさせるため人を雇うこと。 (ほかに: ～を雇う)
+EMPOWER	(動詞) empowerの訳: 権限を与える
+EMPOWERED	(動詞) "empower" の過去形・過去分詞形: 権限を与える
+EMPOWERING	(動詞) "empower" の動名詞形又は現在分詞形: 権限を与える
+EMPOWERMENT	(名詞) 権限の強化、実力や能力の向上。
+EMPOWERMENTS	(empowermentの変化形) (名詞) 権限の強化、実力や能力の向上。
+EMPOWERS	(動詞) "empower" の三人称単数現在形: 権限を与える
+EMPRESS	(名詞) 女帝: 女性の皇帝、天皇。
+EMPRESSES	(名詞) "empress" の複数形: 女帝: 女性の皇帝、天皇。
+EMPTIED	(動詞) emptyの過去形・過去分詞: 空の
+EMPTIER	(形容詞) emptyの比較級形: 空の\n(名詞) emptyする人。
+EMPTIERS	(名詞) "emptier" の複数形: emptyの比較級形: 空の
+EMPTIES	(名詞) "empty" の複数形: 空の\n(動詞) "empty" の三人称単数現在形: 空の
+EMPTIEST	(形容詞) "empty" の最上級形: 空の
+EMPTILY	(emptyの変化形) (形容詞) emptyの訳: 空の
+EMPTINESS	(名詞) 空虚: 中身に何もないこと。 (ほかに: 何もないこと)
+EMPTINESSES	(名詞) emptinessの複数形: 空虚: 中身に何もないこと。 (ほかに: 何もないこと)
+EMPTY	(形容詞) emptyの訳: 空の\n(動詞) emptyの訳: 空にする
+EMPTYING	(動詞) emptyの動名詞又は現在分詞: 空の\n(名詞) 排出: 内部の不要な物を外に出すこと。 (ほかに: 空にすること)
+EMPYREAL	(形容動詞) empyrealの訳: ⟪崇高|すうこう⟫
+EMU	(名詞) emuの訳: エミュー
+EMULATE	(動詞) emulateの訳: ⟪真似る|まねる⟫, ⟪見習う|みならう⟫
+EMULATED	(動詞) emulateの過去形・過去分詞: ⟪真似る|まねる⟫, ⟪見習う|みならう⟫
+EMULATES	(動詞) emulateの直説法現在第三人称単数形: ⟪真似る|まねる⟫, ⟪見習う|みならう⟫
+EMULATING	(動詞) emulateの現在分詞: ⟪真似る|まねる⟫, ⟪見習う|みならう⟫
+EMULATION	(名詞) emulationの訳: 見習うこと
+EMULATIONS	(名詞) emulationの複数形: 見習うこと
+EMULATOR	(名詞) emulatorの訳: 張り合う人, 競争する人
+EMULATORS	(名詞) emulatorの複数形: 張り合う人, 競争する人
+EMULOUS	(形容詞) 負けまいとする。
+EMULOUSLY	(副詞) 負けまいとして。
+EMULSIFIED	(emulsifyの変化形) (動詞) emulsifyの訳: 乳化
+EMULSIFIES	(emulsifyの変化形) (動詞) emulsifyの訳: 乳化
+EMULSIFY	(動詞) emulsifyの訳: 乳化
+EMULSIFYING	(emulsifyの変化形) (動詞) emulsifyの訳: 乳化
+EMUS	(名詞) emuの複数形: エミュー
+ENABLE	(動詞) ～を有効にする
+ENABLED	(動詞) "enable" の過去形・過去分詞形: ～を有効にする
+ENABLER	(enableの変化形) (動詞) ～を有効にする
+ENABLES	(動詞) "enable" の三人称単数現在形: ～を有効にする
+ENABLING	(動詞) "enable" の動名詞形又は現在分詞形: ～を有効にする
+ENACT	(動詞) 制定する: 法律や制度などを作り、定めること。
+ENACTED	(動詞) enactの過去形・過去分詞: 制定する: 法律や制度などを作り、定めること。
+ENACTING	(動詞) enactの動名詞又は現在分詞: 制定する: 法律や制度などを作り、定めること。\n(名詞) 制定: 法律や制度などを作り、定めること。
+ENACTMENT	(名詞) 制定: 法律や制度などを作り、定めること。
+ENACTMENTS	(enactmentの変化形) (名詞) 制定: 法律や制度などを作り、定めること。
+ENACTS	(動詞) enactの直説法現在第三人称単数形: 制定する: 法律や制度などを作り、定めること。
+ENAMEL	(名詞) enamelの訳: 琺瑯
+ENAMELED	(enamelの変化形) (名詞) enamelの訳: 琺瑯
+ENAMELING	(enamelの変化形) (名詞) enamelの訳: 琺瑯
+ENAMELLED	(enamelの変化形) (名詞) enamelの訳: 琺瑯
+ENAMELLING	(enamelの変化形) (名詞) enamelの訳: 琺瑯
+ENAMELS	(enamelの変化形) (名詞) enamelの訳: 琺瑯
+ENAMOR	(動詞) enamorの訳: 恋に陥らせる
+ENAMORED	(動詞) "enamor" の過去形・過去分詞: 恋に陥らせる
+ENAMORING	(動詞) "enamor" の動名詞又は現在分詞: 恋に陥らせる
+ENAMORS	(動詞) "enamor" の現在第三人称単数形。
+ENAMOUR	(動詞) enamourの訳: 恋に陥らせる
+ENAMOURED	(動詞) "enamour" の過去形・過去分詞: 恋に陥らせる
+ENAMOURING	(動詞) "enamour" の動名詞又は現在分詞: 恋に陥らせる
+ENAMOURS	(動詞) "enamour" の現在第三人称単数形。
+ENCAMP	(動詞) 野営する。露営する。
+ENCAMPED	(動詞) encampの過去形・過去分詞: 野営する。露営する。
+ENCAMPING	(動詞) encampの現在分詞: 野営する。露営する。
+ENCAMPMENT	(名詞) 野営。野営地。
+ENCAMPMENTS	(名詞) encampmentの複数形: 野営。野営地。
+ENCAMPS	(動詞) encampの直説法現在第三人称単数形: 野営する。露営する。
+ENCAPSULATE	(動詞) (…を)カプセルに包む。
+ENCAPSULATED	(動詞) encapsulateの過去形・過去分詞: (…を)カプセルに包む。
+ENCAPSULATES	(動詞) encapsulateの直説法現在第三人称単数形: (…を)カプセルに包む。
+ENCAPSULATING	(動詞) encapsulateの動名詞又は現在分詞: (…を)カプセルに包む。
+ENCAPSULATION	(名詞) カプセルに包むこと。
+ENCAPSULATIONS	(名詞) "encapsulation" の複数形: カプセルに包むこと。
+ENCASE	(動詞) encaseの訳: 箱に入れる, ⟪包み込む|つつみこむ⟫
+ENCASED	(動詞) encaseの過去形・過去分詞: 箱に入れる, ⟪包み込む|つつみこむ⟫
+ENCASEMENT	(名詞) 箱に入れること、箱詰め。
+ENCASEMENTS	(名詞) encasementの複数形: 箱に入れること、箱詰め。
+ENCASES	(動詞) encaseの直説法現在第三人称単数形: 箱に入れる, ⟪包み込む|つつみこむ⟫
+ENCASING	(動詞) encaseの現在分詞: 箱に入れる, ⟪包み込む|つつみこむ⟫\n(名詞) 箱に入れること、箱詰め。
+ENCEPHALITIDES	(名詞) encephalitisの複数形: 脳炎: 脳に炎症がおこる疾患の総称。
+ENCEPHALITIS	(名詞) 脳炎: 脳に炎症がおこる疾患の総称。
+ENCHANT	(動詞) enchantの訳: 魅惑する
+ENCHANTED	(動詞) enchantの過去形・過去分詞: 魅惑する\n(形容詞) enchantedの訳: 魅了された
+ENCHANTER	(名詞) 魔法使い: 魔法を使う人。
+ENCHANTERS	(enchanterの変化形) (名詞) 魔法使い: 魔法を使う人。
+ENCHANTING	(動詞) enchantの現在分詞: 魅惑する。\n(形容詞) enchantingの訳: 魅惑的な
+ENCHANTMENT	(名詞) enchantmentの訳: 魅惑
+ENCHANTMENTS	(名詞) enchantmentの複数形: 魅惑
+ENCHANTRESS	(名詞) enchantressの訳: 魅力的な女性
+ENCHANTRESSES	(enchantressの変化形) (名詞) enchantressの訳: 魅力的な女性
+ENCHANTS	(動詞) enchantの直説法現在第三人称単数形: 魅惑する
+ENCIPHER	(動詞) 暗号化する: 情報を平文から暗号文に変換すること。
+ENCIPHERED	(動詞) encipherの過去形・過去分詞: 暗号化する: 情報を平文から暗号文に変換すること。
+ENCIPHERING	(動詞) encipherの現在分詞: 暗号化する: 情報を平文から暗号文に変換すること。
+ENCIPHERS	(動詞) encipherの直説法現在第三人称単数形: 暗号化する: 情報を平文から暗号文に変換すること。
+ENCIRCLE	(動詞) 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCIRCLED	(動詞) encircleの過去形・過去分詞: 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCIRCLEMENT	(名詞) encirclementの訳: 包囲
+ENCIRCLEMENTS	(名詞) encirclementの複数形: 包囲
+ENCIRCLES	(動詞) encircleの直説法現在第三人称単数形: 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCIRCLING	(動詞) encircleの動名詞又は現在分詞: 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)\n(形容詞) encirclingの訳: 取り囲んだ
+ENCLITIC	(名詞) encliticの訳: 前接語\n(形容詞) encliticの訳: 前接的な
+ENCLITICS	(名詞) encliticの複数形: 前接語
+ENCLOSE	(動詞) encloseの訳: 囲む
+ENCLOSED	(形容詞) enclosedの訳: 閉ざされた\n(動詞) encloseの過去形・過去分詞: 囲む
+ENCLOSER	(encloseの変化形) (動詞) encloseの訳: 囲む
+ENCLOSES	(encloseの変化形) (動詞) encloseの訳: 囲む
+ENCLOSING	(encloseの変化形) (動詞) encloseの訳: 囲む
+ENCLOSURE	(名詞) 囲い地。構内。
+ENCLOSURES	(名詞) enclosureの複数形: 囲い地。構内。
+ENCODE	(動詞) encodeの訳: 暗号にする
+ENCODED	(動詞) "encode" の過去形・過去分詞形: 暗号にする
+ENCODES	(動詞) "encode" の三人称単数現在形: 暗号にする
+ENCODING	(動詞) "encode" の動名詞形又は現在分詞形: 暗号にする
+ENCOMPASS	(動詞) 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCOMPASSED	(動詞) encompassの過去形・過去分詞: 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCOMPASSES	(動詞) encompassの直説法現在第三人称単数形: 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCOMPASSING	(動詞) encompassの現在分詞: 取り巻く: 人や物の周りを囲む。また、あるものが周囲に存在する。 (ほかに: 囲む, 包囲する)
+ENCOMPASSMENT	(名詞) encompassmentの訳: 包囲, 包含, 網羅
+ENCOMPASSMENTS	(名詞) encompassmentの複数形: 包囲, 包含, 網羅
+ENCORE	(名詞) アンコール: 演奏や歌唱が終わった出演者を称え、拍手などで再演を求めること。また、それに応じた演奏や歌唱。\n(感動詞) encoreの訳: アンコール!
+ENCORED	(動詞) encoreの過去形・過去分詞: アンコール: 演奏や歌唱が終わった出演者を称え、拍手などで再演を求めること。また、それに応じた演奏や歌唱。
+ENCORES	(名詞) encoreの複数形: アンコール: 演奏や歌唱が終わった出演者を称え、拍手などで再演を求めること。また、それに応じた演奏や歌唱。\n(動詞) encoreの直説法現在第三人称単数形: アンコール: 演奏や歌唱が終わった出演者を称え、拍手などで再演を求めること。また、それに応じた演奏や歌唱。
+ENCORING	(動詞) encoreの動名詞又は現在分詞: アンコール: 演奏や歌唱が終わった出演者を称え、拍手などで再演を求めること。また、それに応じた演奏や歌唱。
+ENCOUNTER	(動詞) encounterの訳: に遭遇する\n(名詞) (偶然の)出会い。遭遇。
+ENCOUNTERED	(動詞) encounterの過去形・過去分詞: に遭遇する
+ENCOUNTERING	(動詞) "encounter" の動名詞形又は現在分詞形: に遭遇する
+ENCOUNTERS	(名詞) "encounter" の複数形: に遭遇する\n(動詞) "encounter" の三人称単数現在形: に遭遇する
+ENCOURAGE	(動詞) (ひと)～を元気づける、励ます、応援する。
+ENCOURAGED	(動詞) encourageの過去形・過去分詞: (ひと)～を元気づける、励ます、応援する。
+ENCOURAGEMENT	(名詞) 勇気づけること、激励。
+ENCOURAGEMENTS	(名詞) encouragementの複数形: 勇気づけること、激励。
+ENCOURAGES	(動詞) encourageの直説法現在第三人称単数形: (ひと)～を元気づける、励ます、応援する。
+ENCOURAGING	(形容詞) encouragingの訳: 激励の, 勇気付ける, 励みになる\n(動詞) encourageの動名詞又は現在分詞: (ひと)～を元気づける、励ます、応援する。
+ENCOURAGINGLY	(副詞) 激励して、勇気付けるように、励みになって。
+ENCROACH	(動詞) encroachの訳: 侵入する, 侵害する\n(名詞) encroachの訳: 侵害, 侵食
+ENCROACHED	(動詞) encroachの過去形・過去分詞: 侵入する, 侵害する
+ENCROACHER	(名詞) encroacherの訳: 侵入者
+ENCROACHERS	(名詞) encroacherの複数形: 侵入者
+ENCROACHES	(動詞) encroachの直説法現在第三人称単数形: 侵入する, 侵害する\n(名詞) encroachの複数形: 侵入する, 侵害する
+ENCROACHING	(形容詞) 侵入する: ある領域を管理している者の許しを受けず、その領域に不法に入ること。 (ほかに: 拡大する)\n(動詞) encroachの現在分詞: 侵入する, 侵害する
+ENCROACHMENT	(名詞) 侵入: ある場所へ進んで行って入ること。 (ほかに: 侵略)
+ENCROACHMENTS	(名詞) encroachmentの複数形: 侵入: ある場所へ進んで行って入ること。 (ほかに: 侵略)
+ENCRYPT	(動詞) 暗号化する: 情報を平文から暗号文に変換すること。
+ENCRYPTED	(形容詞) encryptedの訳: 暗号化された\n(動詞) encryptの過去形・過去分詞: 暗号化する: 情報を平文から暗号文に変換すること。
+ENCRYPTING	(動詞) encryptの現在分詞: 暗号化する: 情報を平文から暗号文に変換すること。
+ENCRYPTION	(名詞) 暗号化: 情報を平文から暗号文に変換すること。
+ENCRYPTIONS	(名詞) encryptionの複数形: 暗号化: 情報を平文から暗号文に変換すること。
+ENCRYPTS	(動詞) encryptの直説法現在第三人称単数形: 暗号化する: 情報を平文から暗号文に変換すること。
+ENCUMBER	(動詞) 妨げる、足手まといになる
+ENCUMBERED	(動詞) "encumber" の過去形・過去分詞形: 妨げる、足手まといになる
+ENCUMBERING	(動詞) "encumber" の動名詞形又は現在分詞形: 妨げる、足手まといになる
+ENCUMBERS	(動詞) "encumber" の三人称単数現在形: 妨げる、足手まといになる
+ENCYCLOPAEDIA	(名詞) encyclopediaの異綴: 百科事典
+ENCYCLOPAEDIAS	(名詞) encyclopaediaの複数形: encyclopediaの異綴: 百科事典
+ENCYCLOPEDIA	(名詞) 百科事典: 特定の分野にこだわらず、幅広い知識を、項目ごとに整理・記述して、誰でも容易に概要を理解できるよう簡潔にまとめた書籍又はコンピュータ・ソフトウェア。
+ENCYCLOPEDIAS	(encyclopediaの変化形) (名詞) 百科事典: 特定の分野にこだわらず、幅広い知識を、項目ごとに整理・記述して、誰でも容易に概要を理解できるよう簡潔にまとめた書籍又はコンピュータ・ソフトウェア。
+ENCYCLOPEDIC	(形容詞) encyclopedicの訳: 博学の
+END	(名詞) 終わり: 他方の端。 (ほかに: 果て, 終了)\n(動詞) endの訳: ⟪終わる|おわる⟫, 終了する
+ENDANGER	(動詞) 脅かす: 脅す。恐れさせる。 (ほかに: 危うくする, 危険に晒す)
+ENDANGERED	(動詞) endangerの過去形・過去分詞: 脅かす、危うくする、危険に晒す。\n(形容詞) （汎用的）危険が迫っている。危うい。
+ENDANGERING	(動詞) "endanger" の動名詞形又は現在分詞形: 脅かす: 脅す。恐れさせる。 (ほかに: 危うくする, 危険に晒す)
+ENDANGERS	(動詞) "endanger" の三人称単数現在形: 脅かす: 脅す。恐れさせる。 (ほかに: 危うくする, 危険に晒す)
+ENDEAR	(動詞) ～に親愛の情を示す。
+ENDEARED	(動詞) endearの過去形・過去分詞: ～に親愛の情を示す。
+ENDEARING	(形容詞) 愛情の込もった。親しみやすい。\n(名詞) endearingの訳: 愛情表現
+ENDEARINGLY	(副詞) endearinglyの訳: 愛情を込めて
+ENDEARMENT	(名詞) endearmentの訳: 愛情表現
+ENDEARMENTS	(名詞) endearmentの複数形: 愛情表現
+ENDEARS	(動詞) endearの直説法現在第三人称単数形: ～に親愛の情を示す。
+ENDEAVOR	(動詞) endeavorの訳: 努力する\n(名詞) endeavorの訳: ⟪努力|どりょく⟫
+ENDEAVORED	(動詞) endeavorの過去形・過去分詞: 努力する
+ENDEAVORING	(動詞) endeavorの動名詞又は現在分詞: 努力する\n(名詞) endeavoringの訳: ⟪努力|どりょく⟫, 試み
+ENDEAVORS	(名詞) endeavorの複数形: 努力する\n(動詞) endeavorの直説法現在第三人称単数形: 努力する
+ENDEAVOUR	(動詞) endeavourの訳: 努力する\n(名詞) endeavourの訳: ⟪努力|どりょく⟫
+ENDEAVOURED	(動詞) endeavourの過去形・過去分詞: 努力する
+ENDEAVOURING	(動詞) endeavourの動名詞又は現在分詞: 努力する\n(名詞) endeavoringの異形。
+ENDEAVOURS	(名詞) endeavourの複数形: 努力する\n(動詞) endeavourの直説法現在第三人称単数形: 努力する
+ENDED	(動詞) "end" の過去形・過去分詞形: 終わり: 他方の端。 (ほかに: 果て, 終了)
+ENDEMIC	(形容詞) （病気など）地方特有の。特定の地方に流行して。\n(名詞) 風土病: ある特定の地域で流行している病気。
+ENDEMICS	(名詞) "endemic" の複数形: （病気など）地方特有の。特定の地方に流行して。
+ENDING	(名詞) 終了: 物事がすっかり終わる事。物事を終わらせること。 (ほかに: 終わり)\n(動詞) endの現在分詞: 終わり、果て、終了、最後。
+ENDINGS	(名詞) "ending" の複数形: 終了: 物事がすっかり終わる事。物事を終わらせること。 (ほかに: 終わり)\n(動詞) "ending" の現在第三人称単数形。
+ENDLESS	(形容詞) 終わりの無い。無限の。果てしない。
+ENDLESSLY	(副詞) 無限に。果てしなく。
+ENDLESSNESS	(名詞) 無限。永久。果てしないこと。終わりの無い性質。
+ENDLESSNESSES	(endlessnessの変化形) (名詞) 無限。永久。果てしないこと。終わりの無い性質。
+ENDOCARDIA	(名詞) endocardiumの複数形: 心内膜
+ENDOCARDIUM	(名詞) endocardiumの訳: 心内膜
+ENDOCRINE	(名詞) 内分泌: 体内にあるそれぞれの腺がホルモンを直接血液、体液内に送り出すこと。\n(形容詞) endocrineの訳: 内分泌の
+ENDOCRINES	(名詞) endocrineの複数形: 内分泌: 体内にあるそれぞれの腺がホルモンを直接血液、体液内に送り出すこと。
+ENDOGENOUS	(形容詞) endogenousの訳: 内部に生じる, 内因性の, 内発的な
+ENDORPHIN	(名詞) エンドルフィン。
+ENDORPHINS	(名詞) endorphinの複数形: エンドルフィン。
+ENDORSE	(動詞) 承認する: 聞き入れること。よしと認めて許可すること。承諾。 (ほかに: 支持する, 是認する)\n(名詞) エンドース。ペイルの4分の1ほどの幅のもの。
+ENDORSED	(動詞) endorseの過去形・過去分詞: 承認する: 聞き入れること。よしと認めて許可すること。承諾。 (ほかに: 支持する, 是認する)\n(形容詞) 側面にエンドースが入った。
+ENDORSEES	(endorseの変化形) (動詞) 承認する: 聞き入れること。よしと認めて許可すること。承諾。 (ほかに: 支持する, 是認する)
+ENDORSEMENT	(名詞) endorsementの訳: 支持, 是認, ⟪承認|しょうにん⟫
+ENDORSEMENTS	(名詞) endorsementの複数形: 支持, 是認, ⟪承認|しょうにん⟫
+ENDORSES	(動詞) endorseの直説法現在第三人称単数形: 承認する: 聞き入れること。よしと認めて許可すること。承諾。 (ほかに: 支持する, 是認する)\n(名詞) endorseの複数形: 承認する: 聞き入れること。よしと認めて許可すること。承諾。 (ほかに: 支持する, 是認する)
+ENDORSING	(動詞) endorseの現在分詞: 承認する: 聞き入れること。よしと認めて許可すること。承諾。 (ほかに: 支持する, 是認する)
+ENDOSCOPE	(名詞) 内視鏡: 体内の腔所を観察するため小さなカメラやレンズなどを組み込んだ管状の医療機器。
+ENDOSCOPES	(名詞) endoscopeの複数形: 内視鏡: 体内の腔所を観察するため小さなカメラやレンズなどを組み込んだ管状の医療機器。
+ENDOW	(動詞) endowの訳: 寄付する
+ENDOWED	(動詞) endowの過去形・過去分詞: 寄付する\n(形容詞) endowedの訳: 寄贈された, 寄付された
+ENDOWING	(動詞) endowの現在分詞: 寄付する
+ENDOWMENT	(名詞) endowmentの訳: 天賦の才能
+ENDOWMENTS	(名詞) endowmentの複数形: 天賦の才能
+ENDOWS	(動詞) endowの直説法現在第三人称単数形: 寄付する
+ENDS	(名詞) "end" の複数形: 終わり: 他方の端。 (ほかに: 果て, 終了)\n(動詞) "end" の三人称単数現在形: 終わり: 他方の端。 (ほかに: 果て, 終了)
+ENDURABLE	(形容詞) endurableの訳: 耐えられる
+ENDURANCE	(名詞) 忍耐: 苦しみ・辛さ・怒りなどを我慢すること。
+ENDURANCES	(名詞) enduranceの複数形: 忍耐: 苦しみ・辛さ・怒りなどを我慢すること。
+ENDURE	(動詞) ～を耐える、耐え忍ぶ、じっと我慢する。
+ENDURED	(動詞) endureの過去形・過去分詞: ～を耐える、耐え忍ぶ、じっと我慢する。
+ENDURES	(動詞) endureの直説法現在第三人称単数形: ～を耐える、耐え忍ぶ、じっと我慢する。
+ENDURING	(形容詞) enduringの訳: 永続的な\n(動詞) endureの現在分詞: ～を耐える、耐え忍ぶ、じっと我慢する。
+ENEMA	(名詞) 浣腸: 便通の促進や栄養補給のため、肛門から直腸、大腸に薬剤を注入すること。
+ENEMAS	(名詞) enemaの複数形: 浣腸: 便通の促進や栄養補給のため、肛門から直腸、大腸に薬剤を注入すること。
+ENEMATA	(名詞) enemaの複数形: 浣腸: 便通の促進や栄養補給のため、肛門から直腸、大腸に薬剤を注入すること。
+ENEMIES	(名詞) enemyの複数形: 敵: 敵対する相手。敵。
+ENEMY	(名詞) 敵: 敵対する相手。敵。\n(形容詞) enemyの訳: 敵の, 敵に関する
+ENERGETIC	(形容詞) 精力的な、エネルギッシュな。
+ENERGETICALLY	(副詞) 精力的に、エネルギッシュに。
+ENERGIES	(名詞) "energy" の複数形: エネルギー: 人間の活動の力。 (ほかに: 活力)
+ENERGY	(名詞) エネルギー: 人間の活動の力。 (ほかに: 活力)
+ENERVATE	(動詞) 気力を奪う。無気力にする。\n(形容詞) enervateの訳: 気力を失った
+ENERVATED	(形容詞) 気力を失った。無気力な。\n(動詞) enervateの過去形・過去分詞: 気力を奪う。無気力にする。
+ENERVATES	(動詞) enervateの直説法現在第三人称単数形: 気力を奪う。無気力にする。
+ENERVATING	(動詞) enervateの現在分詞: 気力を奪う。無気力にする。\n(形容詞) 気力を失わせるような。
+ENFEEBLE	(動詞) 弱める: 弱くする。 (ほかに: 衰弱させる)
+ENFEEBLED	(動詞) "enfeeble" の過去形・過去分詞形: 弱める: 弱くする。 (ほかに: 衰弱させる)
+ENFEEBLES	(動詞) "enfeeble" の三人称単数現在形: 弱める: 弱くする。 (ほかに: 衰弱させる)
+ENFEEBLING	(動詞) "enfeeble" の動名詞形又は現在分詞形: 弱める: 弱くする。 (ほかに: 衰弱させる)
+ENFEOFF	(動詞) enfeoffの訳: 土地を与える
+ENFEOFFED	(動詞) "enfeoff" の過去形・過去分詞形: 土地を与える
+ENFEOFFING	(動詞) "enfeoff" の動名詞形又は現在分詞形: 土地を与える
+ENFEOFFS	(動詞) "enfeoff" の三人称単数現在形: 土地を与える
+ENFOLD	(動詞) enfoldの訳: 折り込む
+ENFOLDED	(動詞) enfoldの過去形・過去分詞: 折り込む
+ENFOLDER	(enfoldの変化形) (動詞) enfoldの訳: 折り込む
+ENFOLDING	(enfoldの変化形) (動詞) enfoldの訳: 折り込む
+ENFOLDS	(動詞) enfoldの直説法現在第三人称単数形: 折り込む
+ENFORCE	(動詞) enforceの訳: ～を強調する
+ENFORCED	(形容詞) 強制された。強要された。\n(動詞) enforceの過去形・過去分詞: ～を強調する
+ENFORCEMENT	(名詞) （法律などの）実施。施行。執行。
+ENFORCEMENTS	(名詞) enforcementの複数形: （法律などの）実施。施行。執行。
+ENFORCES	(動詞) "enforce" の三人称単数現在形: ～を強調する
+ENFORCING	(動詞) "enforce" の動名詞又は現在分詞: ～を強調する
+ENFRANCHISE	(動詞) 公民権を与える。選挙権を与える。
+ENFRANCHISED	(enfranchiseの変化形) (動詞) 公民権を与える。選挙権を与える。
+ENFRANCHISEMENT	(名詞) enfranchisementの訳: 参政権付与
+ENFRANCHISEMENTS	(名詞) enfranchisementの複数形: 参政権付与
+ENFRANCHISES	(動詞) enfranchiseの直説法現在第三人称単数形: 公民権を与える。選挙権を与える。
+ENFRANCHISING	(動詞) enfranchiseの現在分詞: 公民権を与える。選挙権を与える。
+ENGAGE	(動詞) 引く: （ひく）【＋曳く、牽く、挽く】（自分も動いて）ものを自分の方向へ力を入れて動かす。牽引する。
+ENGAGED	(動詞) engageの過去形・過去分詞: 引く: （ひく）【＋曳く、牽く、挽く】（自分も動いて）ものを自分の方向へ力を入れて動かす。牽引する。\n(形容詞) engagedの訳: 婚約している
+ENGAGEMENT	(名詞) engagementの訳: ⟪約束|やくそく⟫, ⟪予約|よやく⟫
+ENGAGEMENTS	(名詞) engagementの複数形: ⟪約束|やくそく⟫, ⟪予約|よやく⟫
+ENGAGES	(動詞) engageの直説法現在第三人称単数形: 引く: （ひく）【＋曳く、牽く、挽く】（自分も動いて）ものを自分の方向へ力を入れて動かす。牽引する。
+ENGAGING	(形容詞) 人を引き付ける。魅力的な。\n(動詞) engageの現在分詞: 引く: （ひく）【＋曳く、牽く、挽く】（自分も動いて）ものを自分の方向へ力を入れて動かす。牽引する。
+ENGENDER	(動詞) 招く: 客として呼び寄せる。 (ほかに: 引き起こす, 生じる)
+ENGENDERED	(動詞) engenderの過去形・過去分詞: 招く: 客として呼び寄せる。 (ほかに: 引き起こす, 生じる)
+ENGENDERING	(engenderの変化形) (動詞) 招く: 客として呼び寄せる。 (ほかに: 引き起こす, 生じる)
+ENGENDERS	(動詞) engenderの直説法現在第三人称単数形: 招く: 客として呼び寄せる。 (ほかに: 引き起こす, 生じる)
+ENGINE	(名詞) エンジン。機関。発動機。[16世紀より]\n(動詞) エンジンを取り付ける。
+ENGINED	(形容詞) （複合語で）エンジン付きの。\n(動詞) engineの過去形・過去分詞: エンジン。機関。発動機。[16世紀より]
+ENGINEER	(名詞) （原義）蒸気機関車の機関士。\n(動詞) 技術者として物事の設計や管理を行う。
+ENGINEERED	(動詞) "engineer" の過去形・過去分詞形: （原義）蒸気機関車の機関士。
+ENGINEERING	(動詞) "engineer" の動名詞形又は現在分詞形: （原義）蒸気機関車の機関士。\n(名詞) エンジニアリング、工学。
+ENGINEERINGS	(名詞) "engineering" の複数形: "engineer" の動名詞形又は現在分詞形。
+ENGINEERS	(名詞) "engineer" の複数形: （原義）蒸気機関車の機関士。\n(動詞) "engineer" の三人称単数現在形: （原義）蒸気機関車の機関士。
+ENGINES	(名詞) engineの複数形: エンジン。機関。発動機。[16世紀より]\n(動詞) engineの直説法現在第三人称単数形: エンジン。機関。発動機。[16世紀より]
+ENGINING	(動詞) engineの現在分詞: エンジン。機関。発動機。[16世紀より]
+ENGRAFT	(動詞) engraftの訳: 接ぎ木する\n(形容詞) 植え付けられた。
+ENGRAFTED	(動詞) engraftの過去形・過去分詞: 接ぎ木する
+ENGRAFTING	(動詞) engraftの現在分詞: 接ぎ木する
+ENGRAFTS	(動詞) engraftの直説法現在第三人称単数形: 接ぎ木する
+ENGRAVE	(動詞) 彫る: （ほる）【彫る】木や石などを削って造形する。 (ほかに: 刻む)
+ENGRAVED	(動詞) "engrave" の過去形・過去分詞: 彫る: （ほる）【彫る】木や石などを削って造形する。 (ほかに: 刻む)\n(形容詞) engravedの訳: 刻み込まれた
+ENGRAVER	(名詞) 彫刻家: 彫刻の制作を行う芸術家。
+ENGRAVERS	(engraverの変化形) (名詞) 彫刻家: 彫刻の制作を行う芸術家。
+ENGRAVES	(動詞) engraveの直説法現在第三人称単数形: 彫る: （ほる）【彫る】木や石などを削って造形する。 (ほかに: 刻む)
+ENGRAVING	(名詞) engravingの訳: 彫刻法\n(動詞) "engrave" の動名詞又は現在分詞: 彫る: （ほる）【彫る】木や石などを削って造形する。 (ほかに: 刻む)
+ENGRAVINGS	(名詞) engravingの複数形: 彫刻法
+ENHANCE	(動詞) 強める。高める。向上させる。
+ENHANCED	(形容詞) 改良された。強化された。\n(動詞) enhanceの過去形・過去分詞: 強める。高める。向上させる。
+ENHANCEMENT	(名詞) 強化。増進。向上。
+ENHANCEMENTS	(名詞) enhancementの複数形: 強化。増進。向上。
+ENHANCES	(動詞) enhanceの直説法現在第三人称単数形: 強める。高める。向上させる。
+ENHANCING	(動詞) enhanceの現在分詞: 強める。高める。向上させる。
+ENJOIN	(動詞) 課す: 課題として与える。制約をかける。 (ほかに: 命じる, 要求する)
+ENJOINED	(動詞) enjoinの過去形・過去分詞: 課す: 課題として与える。制約をかける。 (ほかに: 命じる, 要求する)
+ENJOINING	(動詞) enjoinの現在分詞: 課す: 課題として与える。制約をかける。 (ほかに: 命じる, 要求する)
+ENJOINS	(動詞) enjoinの直説法現在第三人称単数形: 課す: 課題として与える。制約をかける。 (ほかに: 命じる, 要求する)
+ENJOY	(動詞) 満喫する: ある雰囲気や気分などを充分に味わうこと。 (ほかに: ～を楽しむ, 堪能する)
+ENJOYABLE	(形容詞) 楽しめる。楽しい。愉快な。
+ENJOYED	(動詞) enjoyの過去形・過去分詞: 満喫する: ある雰囲気や気分などを充分に味わうこと。 (ほかに: ～を楽しむ, 堪能する)
+ENJOYING	(動詞) enjoyの動名詞又は現在分詞: 満喫する: ある雰囲気や気分などを充分に味わうこと。 (ほかに: ～を楽しむ, 堪能する)
+ENJOYMENT	(名詞) 楽しみ: （たのしみ）楽しいと感じる対象。
+ENJOYMENTS	(名詞) enjoymentの複数形: 楽しみ: （たのしみ）楽しいと感じる対象。
+ENJOYS	(動詞) enjoyの直説法現在第三人称単数形: 満喫する: ある雰囲気や気分などを充分に味わうこと。 (ほかに: ～を楽しむ, 堪能する)
+ENLARGE	(動詞) 拡大する: 規模・範囲を広げて大きくすること。また、広がって大きくなること。 (ほかに: 大きくする)
+ENLARGED	(動詞) enlargeの過去形・過去分詞: 拡大する: 規模・範囲を広げて大きくすること。また、広がって大きくなること。 (ほかに: 大きくする)
+ENLARGEMENT	(名詞) 大きくすること。拡大。
+ENLARGEMENTS	(名詞) enlargementの複数形: 大きくすること。拡大。
+ENLARGES	(動詞) enlargeの現在第三人称単数形。
+ENLARGING	(動詞) enlargeの動名詞又は現在分詞: 拡大する: 規模・範囲を広げて大きくすること。また、広がって大きくなること。 (ほかに: 大きくする)\n(名詞) 拡大: 規模・範囲を広げて大きくすること。また、広がって大きくなること。 (ほかに: 増大, 引き伸ばし)
+ENLIGHTEN	(動詞) ～に光を当てる。～を照らす。 類義語:illuminate
+ENLIGHTENED	(形容詞) 啓発された。啓蒙された。\n(名詞) 悟りを開いた人。
+ENLIGHTENING	(形容詞) 啓発的な。啓蒙的な。\n(動詞) "enlighten" の動名詞又は現在分詞: ～に光を当てる。～を照らす。 類義語:illuminate
+ENLIGHTENMENT	(名詞) 教導。啓蒙。
+ENLIGHTENMENTS	(enlightenmentの変化形) (名詞) 教導。啓蒙。
+ENLIGHTENS	(動詞) "enlighten" の三人称単数現在形: ～に光を当てる。～を照らす。 類義語:illuminate
+ENLIST	(動詞) enlistの訳: 入隊させる\n(名詞) enlistの訳: 入隊者
+ENLISTED	(動詞) enlistの過去形・過去分詞: 入隊させる\n(形容詞) enlistedの訳: 下士官の
+ENLISTER	(enlistの変化形) (動詞) enlistの訳: 入隊させる
+ENLISTING	(動詞) enlistの現在分詞: 入隊させる
+ENLISTMENT	(名詞) 入隊: 軍隊に入ること。 (ほかに: 入隊期間)
+ENLISTMENTS	(名詞) enlistmentの複数形: 入隊: 軍隊に入ること。 (ほかに: 入隊期間)
+ENLISTS	(動詞) enlistの直説法現在第三人称単数形: 入隊させる\n(名詞) enlistの複数形: 入隊させる
+ENLIVEN	(動詞) 盛り上げる: 高く盛る。 (ほかに: 活気付ける, 賑やかにする)
+ENLIVENED	(動詞) enlivenの過去形・過去分詞: 盛り上げる: 高く盛る。 (ほかに: 活気付ける, 賑やかにする)
+ENLIVENING	(動詞) enlivenの現在分詞: 盛り上げる: 高く盛る。 (ほかに: 活気付ける, 賑やかにする)\n(名詞) enliveningの訳: 活気付け
+ENLIVENS	(動詞) enlivenの直説法現在第三人称単数形: 盛り上げる: 高く盛る。 (ほかに: 活気付ける, 賑やかにする)
+ENMESH	(動詞) enmeshの訳: 網で捕える
+ENMESHED	(形容詞) enmeshedの訳: 巻き込まれた, 困難に陥った\n(動詞) enmeshの過去形・過去分詞: 網で捕える
+ENMESHES	(動詞) enmeshの直説法現在第三人称単数形: 網で捕える
+ENMESHING	(動詞) enmeshの現在分詞: 網で捕える
+ENMITIES	(名詞) enmityの複数形: 敵対: 相手を敵として憎み、はむかうこと。 (ほかに: 反目)
+ENMITY	(名詞) 敵対: 相手を敵として憎み、はむかうこと。 (ほかに: 反目)
+ENNOBLE	(動詞) ennobleの訳: 貴族にする
+ENNOBLED	(動詞) "ennoble" の過去形・過去分詞形: 貴族にする
+ENNOBLES	(動詞) "ennoble" の三人称単数現在形: 貴族にする
+ENNOBLING	(動詞) "ennoble" の動名詞形又は現在分詞形: 貴族にする
+ENNUI	(名詞) 退屈。倦怠。\n(動詞) ennuiの訳: 退屈させる
+ENNUIS	(名詞) ennuiの複数形: 退屈。倦怠。\n(動詞) ennuiの直説法現在第三人称単数形: 退屈。倦怠。
+ENORMITIES	(名詞) enormityの複数形: 極悪、非道。[15世紀より]
+ENORMITY	(名詞) 極悪、非道。[15世紀より]
+ENORMOUS	(形容詞) 巨大な: 非常に大きい様子。
+ENORMOUSLY	(副詞) 非常に。とびきり。とてつもなく。桁外れに。桁違いに。
+ENOUGH	(副詞) enoughの訳: 十分に\n(代名詞) 十分なもの。十分な量。
+ENOUGHS	(enoughの変化形) (副詞) enoughの訳: 十分に
+ENQUIRE	(動詞) 訊く: （きく）（聞く・訊く）尋ねる、問い質す、質問する。 (ほかに: 問い合わせる, 尋ねる)
+ENQUIRED	(動詞) enquireの過去形・過去分詞: 訊く: （きく）（聞く・訊く）尋ねる、問い質す、質問する。 (ほかに: 問い合わせる, 尋ねる)
+ENQUIRES	(動詞) enquireの直説法現在第三人称単数形: 訊く: （きく）（聞く・訊く）尋ねる、問い質す、質問する。 (ほかに: 問い合わせる, 尋ねる)
+ENQUIRIES	(名詞) enquiryの複数形: inquiryの異綴: 調査。
+ENQUIRING	(動詞) enquireの動名詞又は現在分詞: 訊く: （きく）（聞く・訊く）尋ねる、問い質す、質問する。 (ほかに: 問い合わせる, 尋ねる)\n(名詞) enquiringの訳: 尋ねること
+ENQUIRY	(名詞) inquiryの異綴: 調査。
+ENRAGE	(動詞) enrageの訳: 激怒させる
+ENRAGED	(形容詞) enragedの訳: 激怒した\n(動詞) enrageの過去形・過去分詞: 激怒させる
+ENRAGES	(動詞) "enrage" の三人称単数現在形: 激怒させる
+ENRAGING	(形容詞) enragingの訳: 激怒させる\n(動詞) enrageの動名詞又は現在分詞: 激怒させる
+ENRAPTURE	(動詞) うっとりさせる、恍惚とさせる、有頂天にする。
+ENRAPTURED	(動詞) enraptureの過去形・過去分詞: うっとりさせる、恍惚とさせる、有頂天にする。\n(形容詞) 有頂天になった、うっとりした。
+ENRAPTURES	(動詞) enraptureの直説法現在第三人称単数形: うっとりさせる、恍惚とさせる、有頂天にする。
+ENRAPTURING	(動詞) enraptureの現在分詞: うっとりさせる、恍惚とさせる、有頂天にする。
+ENRICH	(動詞) enrichの訳: 豊にする, 裕福にする, 金満にする
+ENRICHED	(動詞) enrichの過去形・過去分詞: 豊にする, 裕福にする, 金満にする
+ENRICHER	(名詞) 豊にする存在。豊富にする存在。裕福にする存在。（女性の）あげまん。
+ENRICHERS	(enricherの変化形) (名詞) 豊にする存在。豊富にする存在。裕福にする存在。（女性の）あげまん。
+ENRICHES	(動詞) enrichの直説法現在第三人称単数形: 豊にする, 裕福にする, 金満にする
+ENRICHING	(動詞) "enrich" の動名詞又は現在分詞: 豊にする, 裕福にする, 金満にする
+ENROLL	(動詞) (他動詞) 会員として登録する。名簿に入れる。在籍させる。
+ENROLLED	(動詞) enrolの過去形・過去分詞。
+ENROLLING	(動詞) "enroll" の動名詞形又は現在分詞形: (他動詞) 会員として登録する。名簿に入れる。在籍させる。
+ENROLLMENT	(名詞) 加入: 組織や団体に入ること。構成員に加わること。
+ENROLLMENTS	(enrollmentの変化形) (名詞) 加入: 組織や団体に入ること。構成員に加わること。
+ENROLLS	(動詞) "enroll" の三人称単数現在形: (他動詞) 会員として登録する。名簿に入れる。在籍させる。
+ENSEMBLE	(名詞) ensembleの訳: セット
+ENSEMBLES	(ensembleの変化形) (名詞) ensembleの訳: セット
+ENSHRINE	(動詞) enshrineの訳: 祭る, 安置する
+ENSHRINED	(動詞) enshrineの過去形・過去分詞: 祭る, 安置する
+ENSHRINEES	(enshrineの変化形) (動詞) enshrineの訳: 祭る, 安置する
+ENSHRINES	(動詞) enshrineの直説法現在第三人称単数形: 祭る, 安置する
+ENSHRINING	(enshrineの変化形) (動詞) enshrineの訳: 祭る, 安置する
+ENSIGN	(名詞) 少慰: （しょうい）軍隊における尉官の位。中尉の下、准尉または曹長の上。 (ほかに: 旗, はた)
+ENSIGNS	(ensignの変化形) (名詞) 少慰: （しょうい）軍隊における尉官の位。中尉の下、准尉または曹長の上。 (ほかに: 旗, はた)
+ENSLAVE	(動詞) ～を奴隷扱いする。～の自由を奪う。
+ENSLAVED	(動詞) enslaveの過去形・過去分詞: ～を奴隷扱いする。～の自由を奪う。
+ENSLAVEMENT	(名詞) 奴隷とすること、奴隷であること。
+ENSLAVEMENTS	(名詞) "enslavement" の複数形: 奴隷とすること、奴隷であること。
+ENSLAVES	(動詞) enslaveの現在第三人称単数形。
+ENSLAVING	(動詞) enslaveの動名詞又は現在分詞: ～を奴隷扱いする。～の自由を奪う。\n(名詞) 奴隷とすること。
+ENSNARE	(動詞) ensnareの訳: 罠にかける
+ENSNARED	(動詞) ensnareの過去形・過去分詞: 罠にかける
+ENSNARER	(ensnareの変化形) (動詞) ensnareの訳: 罠にかける
+ENSNARES	(動詞) ensnareの直説法現在第三人称単数形: 罠にかける
+ENSNARING	(動詞) ensnareの現在分詞: 罠にかける\n(形容詞) ensnaringの訳: 罠にかける
+ENSNARL	(動詞) ensnarlの訳: 縺れさせる, 絡ませる
+ENSNARLED	(動詞) ensnarlの過去形・過去分詞: 縺れさせる, 絡ませる
+ENSNARLING	(動詞) ensnarlの現在分詞: 縺れさせる, 絡ませる
+ENSNARLS	(動詞) ensnarlの直説法現在第三人称単数形: 縺れさせる, 絡ませる
+ENSUE	(動詞) 続いて起こる、結果として起こる。[16世紀より]
+ENSUED	(動詞) ensueの過去形・過去分詞: 続いて起こる、結果として起こる。[16世紀より]
+ENSUES	(動詞) ensueの直説法現在第三人称単数形: 続いて起こる、結果として起こる。[16世紀より]
+ENSUING	(動詞) ensueの現在分詞: 続いて起こる、結果として起こる。[16世紀より]\n(形容詞) 続く: （つづく）先行するものに従う。 (ほかに: 次の)
+ENSURE	(動詞) ensureの訳: 確実にする
+ENSURED	(動詞) "ensure" の過去形・過去分詞形: 確実にする
+ENSURES	(動詞) "ensure" の三人称単数現在形: 確実にする
+ENSURING	(動詞) "ensure" の動名詞形又は現在分詞形: 確実にする
+ENTAIL	(動詞) entailの訳: 必然的に伴う\n(名詞) entailの訳: 必然的な結果
+ENTAILED	(動詞) entailの過去形・過去分詞: 必然的に伴う
+ENTAILER	(entailの変化形) (動詞) entailの訳: 必然的に伴う
+ENTAILING	(動詞) entailの現在分詞: 必然的に伴う
+ENTAILMENT	(名詞) entailmentの訳: ⟪含意|がんい⟫
+ENTAILMENTS	(名詞) entailmentの複数形: ⟪含意|がんい⟫
+ENTAILS	(名詞) entailの複数形: 必然的に伴う\n(動詞) entailの直説法現在第三人称単数形: 必然的に伴う
+ENTANGLE	(動詞) 絡ませる: （からませる）絡ます。 (ほかに: 縺れさせる)
+ENTANGLED	(動詞) entangleの過去形・過去分詞: 絡ませる: （からませる）絡ます。 (ほかに: 縺れさせる)\n(形容詞) entangledの訳: 絡まった
+ENTANGLEMENT	(名詞) entanglementの訳: ⟪縺れ|もつれ⟫
+ENTANGLEMENTS	(名詞) entanglementの複数形: ⟪縺れ|もつれ⟫
+ENTANGLES	(動詞) entangleの直説法現在第三人称単数形: 絡ませる: （からませる）絡ます。 (ほかに: 縺れさせる)
+ENTANGLING	(動詞) entangleの現在分詞: 絡ませる: （からませる）絡ます。 (ほかに: 縺れさせる)\n(名詞) 縺れ: 縺れること。 (ほかに: 巻き込むこと)
+ENTER	(動詞) enterの訳: ～に入る\n(名詞) enterの訳: エンターキー
+ENTERED	(動詞) enterの過去形・過去分詞: ～に入る
+ENTERING	(動詞) enterの動名詞又は現在分詞: ～に入る\n(名詞) enteringの訳: 入ること
+ENTERPRISE	(名詞) 企業。会社。\n(動詞) 事業に着手する。
+ENTERPRISES	(名詞) enterpriseの複数形: 企業。会社。\n(動詞) enterpriseの直説法現在第三人称単数形: 企業。会社。
+ENTERPRISING	(形容詞) 進取の気性に富んだ。冒険的な。\n(動詞) enterpriseの現在分詞: 企業。会社。
+ENTERS	(動詞) enterの直説法現在第三人称単数形: ～に入る\n(名詞) enterの複数形: ～に入る
+ENTERTAIN	(動詞) entertainの訳: を楽しませる
+ENTERTAINED	(動詞) entertainの過去形・過去分詞: を楽しませる
+ENTERTAINING	(形容詞) 面白い: （おもしろい）（否定で）思わしい。好ましい。望ましい。\n(動詞) entertainの現在分詞: ...を楽しませる。
+ENTERTAINMENT	(名詞) 娯楽: 仕事や学業などの余暇に気分転換としてする遊びや楽しみ。
+ENTERTAINMENTS	(entertainmentの変化形) (名詞) 娯楽: 仕事や学業などの余暇に気分転換としてする遊びや楽しみ。
+ENTERTAINS	(動詞) entertainの直説法現在第三人称単数形: を楽しませる
+ENTHALPIES	(enthalpyの変化形) (名詞) エンタルピー:...
+ENTHALPY	(名詞) エンタルピー: 系の圧力と体積を掛け合わせたものを内部エネルギーに足し合わせた量。位置エネルギーと運動エネルギーに変化がないような開いた系を通過する流体のエンタルピーの変化が、その流体が外部から受け取る熱と外部になす工業仕事の差に合致する。
+ENTHRALL	(動詞) 奴隷にする。虜にする。
+ENTHRALLED	(形容詞) 魅了された。夢中になった。\n(動詞) enthrallの過去形・過去分詞: 奴隷にする。虜にする。
+ENTHRALLING	(形容詞) 魅了する。虜にする。\n(動詞) enthrallの現在分詞: 奴隷にする。虜にする。
+ENTHRALLS	(動詞) enthrallの直説法現在第三人称単数形: 奴隷にする。虜にする。
+ENTHUSE	(動詞) enthuseの訳: 熱狂させる
+ENTHUSED	(形容詞) enthusedの訳: 熱中した, 熱狂した\n(動詞) enthuseの過去形・過去分詞: 熱狂させる
+ENTHUSES	(動詞) enthuseの直説法現在第三人称単数形: 熱狂させる
+ENTHUSIASM	(名詞) 熱狂: 何かに大変感動し、興奮すること。 (ほかに: 熱中, 熱意)
+ENTHUSIASMS	(名詞) enthusiasmの複数形: 熱狂: 何かに大変感動し、興奮すること。 (ほかに: 熱中, 熱意)
+ENTHUSIAST	(名詞) ～に熱狂的な人。
+ENTHUSIASTIC	(形容詞) enthusiasticの訳: 熱狂的な
+ENTHUSIASTICALLY	(副詞) enthusiasticallyの訳: 熱狂的に
+ENTHUSIASTS	(名詞) "enthusiast" の複数形: ～に熱狂的な人。
+ENTHUSING	(動詞) enthuseの動名詞又は現在分詞: 熱狂させる
+ENTICE	(動詞) 誘惑する。（気などを）引く。
+ENTICED	(動詞) enticeの過去形・過去分詞: 誘惑する。（気などを）引く。
+ENTICEMENT	(名詞) enticementの訳: 誘惑
+ENTICEMENTS	(名詞) enticementの複数形: 誘惑
+ENTICES	(動詞) enticeの直説法現在第三人称単数形: 誘惑する。（気などを）引く。
+ENTICING	(形容詞) 魅力的な。気を引くような。\n(動詞) enticeの現在分詞: 誘惑する。（気などを）引く。
+ENTIRE	(形容詞) 全ての: 「すべて」を参照。 (ほかに: 全部の, 全体の)\n(名詞) 去勢されていない牡馬。種牡馬、種馬。
+ENTIRELY	(副詞) 全く: （まったく）すっかり。完全に。 (ほかに: 完全に)
+ENTIRES	(entireの変化形) (形容詞) 全ての: 「すべて」を参照。 (ほかに: 全部の, 全体の)
+ENTIRETIES	(名詞) entiretyの複数形: 全体: 体のすべて。全身。 (ほかに: 全部)
+ENTIRETY	(名詞) 全体: 体のすべて。全身。 (ほかに: 全部)
+ENTITIES	(名詞) entityの複数形: 実体: 事物の性質などを根拠づけつつ、同一性を保って自存するもの。真に実在するもの。本質。
+ENTITLE	(動詞) entitleの訳: 資格を与える
+ENTITLED	(動詞) "entitle" の過去形・過去分詞形: 資格を与える
+ENTITLEMENT	(名詞) 資格を与えること
+ENTITLEMENTS	(entitlementの変化形) (名詞) 資格を与えること
+ENTITLES	(動詞) "entitle" の三人称単数現在形: 資格を与える
+ENTITLING	(動詞) "entitle" の動名詞形又は現在分詞形: 資格を与える
+ENTITY	(名詞) 実体: 事物の性質などを根拠づけつつ、同一性を保って自存するもの。真に実在するもの。本質。
+ENTOMB	(動詞) 埋葬する: 遺体・遺骨を土の中に葬ること。
+ENTOMBED	(動詞) "entomb" の過去形・過去分詞形: 埋葬する: 遺体・遺骨を土の中に葬ること。
+ENTOMBING	(動詞) "entomb" の動名詞形又は現在分詞形: 埋葬する: 遺体・遺骨を土の中に葬ること。
+ENTOMBS	(動詞) "entomb" の三人称単数現在形: 埋葬する: 遺体・遺骨を土の中に葬ること。
+ENTOMOLOGICAL	(形容詞) 昆虫学の: 昆虫について研究する学問。動物学の一部。
+ENTOMOLOGICALLY	(entomologicalの変化形) (形容詞) 昆虫学の: 昆虫について研究する学問。動物学の一部。
+ENTOMOLOGIES	(entomologyの変化形) (名詞) 昆虫学: 昆虫について研究する学問。動物学の一部。
+ENTOMOLOGIST	(名詞) 昆虫学者: 昆虫学を研究する科学者。
+ENTOMOLOGISTS	(entomologistの変化形) (名詞) 昆虫学者: 昆虫学を研究する科学者。
+ENTOMOLOGY	(名詞) 昆虫学: 昆虫について研究する学問。動物学の一部。
+ENTRAIN	(動詞) entrainの訳: 列車に乗る
+ENTRAINED	(動詞) "entrain" の過去形・過去分詞形: 列車に乗る
+ENTRAINER	(entrainの変化形) (動詞) entrainの訳: 列車に乗る
+ENTRAINING	(動詞) "entrain" の動名詞形又は現在分詞形: 列車に乗る
+ENTRAINS	(動詞) "entrain" の三人称単数現在形: 列車に乗る
+ENTRANCE	(名詞) 入口: （いりぐち）中へ入る所。 (ほかに: エントランス)\n(動詞) entranceの訳: 魅了する
+ENTRANCED	(形容詞) entrancedの訳: 夢中になった\n(動詞) entranceの過去形・過去分詞: 入口、エントランス。
+ENTRANCES	(名詞) "entrance" の複数形: 入口: （いりぐち）中へ入る所。 (ほかに: エントランス)\n(動詞) "entrance" の三人称単数現在形: 入口: （いりぐち）中へ入る所。 (ほかに: エントランス)
+ENTRANCING	(動詞) "entrance" の動名詞形又は現在分詞形: 入口: （いりぐち）中へ入る所。 (ほかに: エントランス)
+ENTRAP	(動詞) entrapの訳: 罠にかける
+ENTRAPMENT	(名詞) 囮捜査。罠。
+ENTRAPMENTS	(名詞) entrapmentの複数形: 囮捜査。罠。
+ENTRAPPED	(動詞) entrapの過去形・過去分詞: 罠にかける
+ENTRAPPING	(動詞) entrapの現在分詞: 罠にかける
+ENTRAPS	(動詞) entrapの直説法現在第三人称単数形: 罠にかける
+ENTREAT	(動詞) 嘆願する: 事情を述べて熱心に願うこと。 (ほかに: 懇願する)
+ENTREATED	(動詞) entreatの過去形・過去分詞: 嘆願する: 事情を述べて熱心に願うこと。 (ほかに: 懇願する)
+ENTREATIES	(名詞) entreatyの複数形: 嘆願: 事情を述べて熱心に願うこと。 (ほかに: 懇願)
+ENTREATING	(動詞) entreatの動名詞又は現在分詞: 嘆願する: 事情を述べて熱心に願うこと。 (ほかに: 懇願する)\n(名詞) 嘆願: 事情を述べて熱心に願うこと。 (ほかに: 懇願)
+ENTREATS	(動詞) entreatの直説法現在第三人称単数形: 嘆願する: 事情を述べて熱心に願うこと。 (ほかに: 懇願する)
+ENTREATY	(名詞) 嘆願: 事情を述べて熱心に願うこと。 (ほかに: 懇願)
+ENTREPRENEUR	(名詞) 起業家。事業家。
+ENTREPRENEURIAL	(形容詞) 起業家の: 新しい事業を立ち上げる人。
+ENTREPRENEURS	(名詞) entrepreneurの複数形: 起業家。事業家。
+ENTRIES	(名詞) "entry" の複数形: ⟪入場|にゅうじょう⟫
+ENTROPIES	(名詞) entropyの複数形: エントロピー
+ENTROPION	(名詞) entropionの訳: 内反
+ENTROPIONS	(entropionの変化形) (名詞) entropionの訳: 内反
+ENTROPY	(名詞) entropyの訳: エントロピー
+ENTRUST	(動詞) 任せる。委任する。委託する。
+ENTRUSTED	(動詞) entrustの過去形・過去分詞: 任せる。委任する。委託する。
+ENTRUSTING	(動詞) entrustの現在分詞: 任せる。委任する。委託する。
+ENTRUSTS	(動詞) entrustの直説法現在第三人称単数形: 任せる。委任する。委託する。
+ENTRY	(名詞) entryの訳: ⟪入場|にゅうじょう⟫
+ENTWINE	(動詞) 絡ます。巻き付ける。
+ENTWINED	(動詞) entwineの過去形・過去分詞: 絡ます。巻き付ける。
+ENTWINES	(動詞) entwineの直説法現在第三人称単数形: 絡ます。巻き付ける。
+ENTWINING	(動詞) entwineの現在分詞: 絡ます。巻き付ける。\n(名詞) 絡ますこと。絡まること。
+ENUCLEATION	(名詞) enucleationの訳: 脱核
+ENUCLEATIONS	(enucleationの変化形) (名詞) enucleationの訳: 脱核
+ENUMERATE	(動詞) 数え上げる: （かぞえあげる）一つ一つ数える。 (ほかに: 列挙する)
+ENUMERATED	(動詞) "enumerate" の過去形・過去分詞形: 数え上げる: （かぞえあげる）一つ一つ数える。 (ほかに: 列挙する)
+ENUMERATES	(動詞) "enumerate" の三人称単数現在形: 数え上げる: （かぞえあげる）一つ一つ数える。 (ほかに: 列挙する)
+ENUMERATING	(動詞) "enumerate" の動名詞形又は現在分詞形: 数え上げる: （かぞえあげる）一つ一つ数える。 (ほかに: 列挙する)
+ENUMERATION	(名詞) 数え上げ。計算。
+ENUMERATIONS	(enumerationの変化形) (名詞) 数え上げ。計算。
+ENVELOP	(動詞) 包む。くるむ。
+ENVELOPE	(名詞) 封筒: 手紙・書類などを封入する方形の紙袋。
+ENVELOPED	(動詞) envelopの過去形・過去分詞: 包む。くるむ。
+ENVELOPES	(名詞) "envelope" の複数形: 封筒: 手紙・書類などを封入する方形の紙袋。
+ENVELOPING	(動詞) envelopの現在分詞: 包む。くるむ。
+ENVELOPS	(動詞) envelopの直説法現在第三人称単数形: 包む。くるむ。
+ENVIABLE	(形容詞) 妬ましい: （ねたましい）羨ましくて憎らしく感じる。 (ほかに: 羨ましい)
+ENVIED	(動詞) "envy" の過去形・過去分詞形: 憎嫉: 憎み、嫉むこと。憎悪と羨望。 (ほかに: 羨望, 嫉妬)
+ENVIER	(名詞) envierの訳: 羨む人
+ENVIERS	(名詞) envierの複数形: 羨む人
+ENVIES	(名詞) envyの複数形: 憎嫉: 憎み、嫉むこと。憎悪と羨望。 (ほかに: 羨望, 嫉妬)\n(動詞) envyの直説法現在第三人称単数形: 憎嫉: 憎み、嫉むこと。憎悪と羨望。 (ほかに: 羨望, 嫉妬)
+ENVIOUS	(形容詞) enviousの訳: ⟪ねたましがる⟫, 嫉妬深い
+ENVIOUSLY	(副詞) enviouslyの訳: 羨ましそうに
+ENVIRON	(動詞) environの訳: 囲む
+ENVIRONED	(environの変化形) (動詞) environの訳: 囲む
+ENVIRONING	(environの変化形) (動詞) environの訳: 囲む
+ENVIRONMENT	(名詞) 環境: 人間や生物の周囲を取り巻いて相互作用を及ぼす、外界の状況や世界。 (ほかに: 周囲の状況)
+ENVIRONMENTAL	(形容詞) 環境の: 人間や生物の周囲を取り巻いて相互作用を及ぼす、外界の状況や世界。 (ほかに: 環境保護の)
+ENVIRONMENTALISM	(名詞) environmentalismの訳: 環境主義
+ENVIRONMENTALISMS	(名詞) environmentalismの複数形: 環境主義。
+ENVIRONMENTALIST	(名詞) 環境問題専門家、環境保護論者。環境保護のために活動している人。\n(形容詞) 環境主義の: 人間活動による環境の悪化を回避しようとする、政治的・社会的イデオロギー。
+ENVIRONMENTALISTS	(environmentalistの変化形) (名詞) 環境問題専門家、環境保護論者。環境保護のために活動している人。
+ENVIRONMENTALLY	(副詞) 環境に関連して。
+ENVIRONMENTS	(名詞) "environment" の複数形: 環境: 人間や生物の周囲を取り巻いて相互作用を及ぼす、外界の状況や世界。 (ほかに: 周囲の状況)
+ENVIRONS	(environの変化形) (動詞) environの訳: 囲む
+ENVOI	(名詞) envoiの訳: 最終連, 反歌
+ENVOIS	(名詞) envoiの複数形: 最終連, 反歌
+ENVOY	(名詞) 公使: 外交使節の階級の一つ。大使につぎ、職務は大使と同じ。特命全権公使。ミニスター。
+ENVOYS	(名詞) envoyの複数形: 公使: 外交使節の階級の一つ。大使につぎ、職務は大使と同じ。特命全権公使。ミニスター。
+ENVY	(名詞) 憎嫉: 憎み、嫉むこと。憎悪と羨望。 (ほかに: 羨望, 嫉妬)\n(動詞) 羨む。嫉む。羨望する。嫉妬する。
+ENVYING	(動詞) envyの動名詞又は現在分詞: 憎嫉: 憎み、嫉むこと。憎悪と羨望。 (ほかに: 羨望, 嫉妬)\n(名詞) 嫉妬: 他人をうらやましく思い、ねたむこと。 (ほかに: 羨望, 嫉み)
+ENZYME	(名詞) 酵素: 触媒作用をもち、生化学反応に関わる生体物質。主にタンパク質であるが、RNAにもリボザイムと呼ばれる酵素活性を持つ分子種がある。
+ENZYMES	(enzymeの変化形) (名詞) 酵素: 触媒作用をもち、生化学反応に関わる生体物質。主にタンパク質であるが、RNAにもリボザイムと呼ばれる酵素活性を持つ分子種がある。
+EOHIPPUS	(名詞) eohippusの訳: ヒラコテリウム
+EOHIPPUSES	(eohippusの変化形) (名詞) eohippusの訳: ヒラコテリウム
+EPENTHESES	(名詞) epenthesisの複数形: 音挿入。
+EPENTHESIS	(名詞) epenthesisの訳: 音挿入
+EPHEDRA	(名詞) ephedraの訳: マオウ属
+EPHEDRAS	(ephedraの変化形) (名詞) ephedraの訳: マオウ属
+EPHEDRINE	(名詞) エフェドリン: 麻黄に含まれるアルカロイドの一つ。白色の結晶で、劇薬。せき止め、喘息などの治療薬のほか、覚醒剤の原料となる。
+EPHEDRINES	(名詞) ephedrineの複数形: エフェドリン: 麻黄に含まれるアルカロイドの一つ。白色の結晶で、劇薬。せき止め、喘息などの治療薬のほか、覚醒剤の原料となる。
+EPHEMERAL	(名詞) ephemeralの訳: 短命なもの\n(形容詞) 儚い: 長く続かない。もろく、かぼそい。 (ほかに: 束の間の, 短命の)
+EPHEMERALLY	(ephemeralの変化形) (名詞) ephemeralの訳: 短命なもの
+EPHEMERALS	(名詞) ephemeralの複数形: 短命なもの
+EPHEMERIDES	(ephemerisの変化形) (名詞) 暦: さらに、そこで配当された各日ごとに、月齢、天体の出没の時刻、潮汐の時刻などの予測値を記したり、曜日、行事、吉凶を記したもの。
+EPHEMERIS	(名詞) 暦: さらに、そこで配当された各日ごとに、月齢、天体の出没の時刻、潮汐の時刻などの予測値を記したり、曜日、行事、吉凶を記したもの。
+EPIC	(名詞) epicの訳: 軍記, 軍記物語
+EPICENTER	(名詞) 震央: 震源の真上にあたる地点。エピセンター。
+EPICENTERS	(名詞) epicenterの複数形: 震央: 震源の真上にあたる地点。エピセンター。
+EPICS	(epicの変化形) (名詞) epicの訳: 軍記, 軍記物語
+EPICURISM	(名詞) epicurismの訳: 快楽主義
+EPICURISMS	(epicurismの変化形) (名詞) epicurismの訳: 快楽主義
+EPICYCLE	(名詞) epicycleの訳: 周転円
+EPICYCLES	(名詞) epicycleの複数形: 周転円。
+EPIDEMIC	(名詞) 伝染病: ある個体から別の個体へ次々と伝染していきやすい病気。\n(形容詞) epidemicの訳: 流行性の
+EPIDEMICS	(名詞) "epidemic" の複数形: 伝染病: ある個体から別の個体へ次々と伝染していきやすい病気。
+EPIDEMIOLOGIES	(epidemiologyの変化形) (名詞) epidemiologyの訳: 疫学
+EPIDEMIOLOGIST	(名詞) 疫学者: 疫学を研究する科学者。
+EPIDEMIOLOGISTS	(名詞) epidemiologistの複数形: 疫学者: 疫学を研究する科学者。
+EPIDEMIOLOGY	(名詞) epidemiologyの訳: 疫学
+EPIDERMIS	(名詞) 表皮: 動植物の体の表面を覆う皮。
+EPIDERMISES	(名詞) "epidermis" の複数形: 表皮: 動植物の体の表面を覆う皮。
+EPIGRAPH	(名詞) epigraphの訳: ⟪碑文|ひぶん⟫, 碑銘\n(動詞) epigraphの訳: 題辞を付ける
+EPIGRAPHER	(epigraphの変化形) (名詞) epigraphの訳: ⟪碑文|ひぶん⟫, 碑銘
+EPIGRAPHS	(名詞) epigraphの複数形: ⟪碑文|ひぶん⟫, 碑銘\n(動詞) epigraphの直説法現在第三人称単数形: ⟪碑文|ひぶん⟫, 碑銘
+EPILATION	(名詞) 脱毛: 毛が抜け落ちること。
+EPILATIONS	(epilationの変化形) (名詞) 脱毛: 毛が抜け落ちること。
+EPILEPSIES	(名詞) epilepsyの複数形: 癲癇: 発作的に痙攣、意識喪失などの症状をあらわす疾患。
+EPILEPSY	(名詞) 癲癇: 発作的に痙攣、意識喪失などの症状をあらわす疾患。
+EPILEPTIC	(形容詞) 癲癇の: 発作的に痙攣、意識喪失などの症状をあらわす疾患。\n(名詞) epilepticの訳: 癲癇患者
+EPILEPTICS	(名詞) epilepticの複数形: 癲癇の: 発作的に痙攣、意識喪失などの症状をあらわす疾患。
+EPILOGUE	(名詞) エピローグ: 劇などの最後に行う出演者による観客への語りかけ。納め口上。 (ほかに: 後記, 閉幕辞)
+EPILOGUED	(epilogueの変化形) (名詞) エピローグ: 劇などの最後に行う出演者による観客への語りかけ。納め口上。 (ほかに: 後記, 閉幕辞)
+EPILOGUES	(epilogueの変化形) (名詞) エピローグ: 劇などの最後に行う出演者による観客への語りかけ。納め口上。 (ほかに: 後記, 閉幕辞)
+EPILOGUING	(epilogueの変化形) (名詞) エピローグ: 劇などの最後に行う出演者による観客への語りかけ。納め口上。 (ほかに: 後記, 閉幕辞)
+EPINEPHRINE	(名詞) （ホルモン、神経伝達物質）アドレナリン。エピネフリン。
+EPINEPHRINES	(epinephrineの変化形) (名詞) （ホルモン、神経伝達物質）アドレナリン。エピネフリン。
+EPIPHANIES	(epiphanyの変化形) (名詞) ひらめき。悟り。啓示。
+EPIPHANY	(名詞) ひらめき。悟り。啓示。
+EPISODE	(名詞) episodeの訳: 挿話
+EPISODES	(名詞) episodeの複数形: 挿話。
+EPISTAXIS	(名詞) 鼻血: （はなぢ）鼻孔からの出血。鼻出血。
+EPITAPH	(名詞) 墓碑銘: 墓碑に彫りこんだ死者の経歴･事績などの文句｡ エピタフ｡ (ほかに: エピタフ)\n(動詞) 碑文体の詩で記念する。
+EPITAPHS	(名詞) epitaphの複数形: 墓碑銘: 墓碑に彫りこんだ死者の経歴･事績などの文句｡ エピタフ｡ (ほかに: エピタフ)\n(動詞) epitaphの直説法現在第三人称単数形: 墓碑銘: 墓碑に彫りこんだ死者の経歴･事績などの文句｡ エピタフ｡ (ほかに: エピタフ)
+EPITHALAMIA	(名詞) epithalamiumの複数形: 祝婚歌
+EPITHALAMIUM	(名詞) epithalamiumの訳: 祝婚歌
+EPITHALAMIUMS	(名詞) epithalamiumの複数形: 祝婚歌
+EPITHET	(名詞) epithetの訳: 形容辞, 添え名\n(動詞) epithetの訳: 〜と称する
+EPITHETS	(名詞) epithetの複数形: 形容辞, 添え名\n(動詞) epithetの直説法現在第三人称単数形: 形容辞, 添え名
+EPITOME	(名詞) epitomeの訳: 縮図
+EPITOMES	(名詞) epitomeの複数形: 縮図
+EPITOMISE	(動詞) epitomizeの異綴。
+EPITOMISED	(動詞) epitomiseの過去形・過去分詞: epitomizeの異綴。
+EPITOMISES	(動詞) epitomiseの直説法現在第三人称単数形: epitomizeの異綴。
+EPITOMISING	(動詞) epitomiseの現在分詞: epitomizeの異綴。
+EPITOMIZE	(動詞) epitomizeの訳: 要約する
+EPITOMIZED	(動詞) epitomizeの過去形・過去分詞: 要約する
+EPITOMIZES	(動詞) epitomizeの直説法現在第三人称単数形: 要約する
+EPITOMIZING	(動詞) epitomizeの現在分詞: 要約する
+EPOCH	(名詞) 時期: ある一定の期間。 (ほかに: 時代, 新時代)
+EPOCHS	(名詞) "epoch" の複数形: 時期: ある一定の期間。 (ほかに: 時代, 新時代)
+EPONYM	(名詞) 名祖: （名祖）地名や民族の名前、事物の名前の起源となった人。
+EPONYMOUS	(形容詞) 名祖の。エポニムの。
+EPONYMS	(名詞) eponymの複数形: 名祖: （名祖）地名や民族の名前、事物の名前の起源となった人。
+EPSILON	(名詞) ギリシア文字の第5字、ε（イプシロン）。
+EPSILONS	(epsilonの変化形) (名詞) ギリシア文字の第5字、ε（イプシロン）。
+EQUABILITIES	(equabilityの変化形) (名詞) equabilityの訳: 安着
+EQUABILITY	(名詞) equabilityの訳: 安着
+EQUAL	(形容詞) （水準や数値が）同じ。等しい。同等の。\n(動詞) equalの訳: ～に等しい
+EQUALED	(動詞) "equal" の過去形・過去分詞形: （水準や数値が）同じ。等しい。同等の。\n(形容詞) equaledの訳: 匹敵した
+EQUALING	(動詞) "equal" の動名詞形又は現在分詞形: （水準や数値が）同じ。等しい。同等の。
+EQUALISE	(動詞) equalizeの異綴。
+EQUALISED	(動詞) equaliseの過去形・過去分詞: equalizeの異綴。
+EQUALISES	(動詞) equaliseの直説法現在第三人称単数形: equalizeの異綴。
+EQUALISING	(動詞) equaliseの現在分詞: equalizeの異綴。
+EQUALITIES	(名詞) equalityの複数形: 同等。同じであること。等しいこと。
+EQUALITY	(名詞) 同等。同じであること。等しいこと。
+EQUALIZATION	(名詞) 均一化。同等化。平等化。
+EQUALIZATIONS	(名詞) equalizationの複数形: 均一化。同等化。平等化。
+EQUALIZE	(動詞) 等しくする。均一にする。平等にする。
+EQUALIZED	(動詞) equalizeの過去形・過去分詞: 等しくする。均一にする。平等にする。
+EQUALIZER	(名詞) 等しくするもの。同じにするもの。
+EQUALIZERS	(equalizerの変化形) (名詞) 等しくするもの。同じにするもの。
+EQUALIZES	(動詞) equalizeの直説法現在第三人称単数形: 等しくする。均一にする。平等にする。
+EQUALIZING	(動詞) equalizeの現在分詞: 等しくする。均一にする。平等にする。
+EQUALLED	(動詞) "equal" の過去形・過去分詞形: （水準や数値が）同じ。等しい。同等の。\n(形容詞) equalledの訳: 匹敵した
+EQUALLING	(動詞) "equal" の動名詞形又は現在分詞形: （水準や数値が）同じ。等しい。同等の。
+EQUALLY	(副詞) equallyの訳: 等しく, 均等に
+EQUALS	(名詞) "equal" の複数形: （水準や数値が）同じ。等しい。同等の。\n(動詞) "equal" の三人称単数現在形: （水準や数値が）同じ。等しい。同等の。
+EQUANIMITIES	(名詞) "equanimity" の複数形: 落ち着き: （おちつき）安定した状態となること。 (ほかに: 心の平安, 平静さ)
+EQUANIMITY	(名詞) 落ち着き: （おちつき）安定した状態となること。 (ほかに: 心の平安, 平静さ)
+EQUATE	(動詞) 同一視する。同じと見なす。等しいと見なす。
+EQUATED	(equateの変化形) (動詞) 同一視する。同じと見なす。等しいと見なす。
+EQUATES	(equateの変化形) (動詞) 同一視する。同じと見なす。等しいと見なす。
+EQUATING	(equateの変化形) (動詞) 同一視する。同じと見なす。等しいと見なす。
+EQUATION	(名詞) 同一視。同じと見なすこと。同等と見なすこと。
+EQUATIONS	(名詞) equationの複数形: 同一視。同じと見なすこと。同等と見なすこと。
+EQUATOR	(名詞) 赤道: 北極と南極の中間にあたる地点を結ぶ線。
+EQUATORIAL	(形容詞) equatorialの訳: 赤道の, 赤道直下の\n(名詞) equatorialの訳: 赤道儀
+EQUATORS	(equatorの変化形) (名詞) 赤道: 北極と南極の中間にあたる地点を結ぶ線。
+EQUID	(名詞) equidの訳: ウマ科
+EQUIDISTANT	(形容詞) equidistantの訳: 等距離の
+EQUIDISTANTLY	(equidistantの変化形) (形容詞) equidistantの訳: 等距離の
+EQUIDS	(名詞) equidの複数形: ウマ科
+EQUILATERAL	(形容詞) equilateralの訳: 等辺の\n(名詞) 等辺。また、等辺形。
+EQUILIBRIA	(名詞) equilibriumの複数形: 釣り合い。均衡。平衡。
+EQUILIBRIUM	(名詞) 釣り合い。均衡。平衡。
+EQUILIBRIUMS	(名詞) equilibriumの複数形: 釣り合い。均衡。平衡。
+EQUINE	(形容詞) equineの訳: 馬のような\n(名詞) equineの訳: ウマ科の動物
+EQUINELY	(equineの変化形) (形容詞) equineの訳: 馬のような
+EQUINES	(名詞) equineの複数形: 馬のような
+EQUINOX	(名詞) equinoxの訳: 昼夜平分時
+EQUINOXES	(equinoxの変化形) (名詞) equinoxの訳: 昼夜平分時
+EQUIP	(動詞) 装備する: ある目的のために武器や用具を準備すること。
+EQUIPMENT	(名詞) 設備: 必要な建物や機器、装置などを備え付けること。備え付けたもの。
+EQUIPMENTS	(名詞) equipmentの複数形: 設備: 必要な建物や機器、装置などを備え付けること。備え付けたもの。
+EQUIPOISE	(名詞) 釣り合い。均衡。平衡。\n(動詞) equipoiseの訳: 釣り合わせる
+EQUIPOISED	(動詞) equipoiseの過去形・過去分詞: 釣り合い。均衡。平衡。
+EQUIPOISES	(動詞) equipoiseの直説法現在第三人称単数形: 釣り合い。均衡。平衡。
+EQUIPOISING	(動詞) equipoiseの現在分詞: 釣り合い。均衡。平衡。
+EQUIPOTENTIAL	(名詞) 等位: 等しい等級や位。
+EQUIPPED	(動詞) equipの過去形・過去分詞: 装備する: ある目的のために武器や用具を準備すること。
+EQUIPPER	(equipの変化形) (動詞) 装備する: ある目的のために武器や用具を準備すること。
+EQUIPPING	(動詞) equipの動名詞又は現在分詞: 装備する: ある目的のために武器や用具を準備すること。\n(名詞) 装備: ある目的のために武器や用具を準備すること。
+EQUIPS	(動詞) equipの直説法現在第三人称単数形: 装備する: ある目的のために武器や用具を準備すること。
+EQUITABLE	(形容詞) 公平な。公正な。
+EQUITIES	(名詞) equityの複数形: 公平。公正。
+EQUITY	(名詞) 公平。公正。
+EQUIVALENCE	(名詞) 同等: 実質において同じであること。等しいこと。
+EQUIVALENCES	(equivalenceの変化形) (名詞) 同等: 実質において同じであること。等しいこと。
+EQUIVALENT	(形容詞) 立場が等しい。～に相当する。\n(名詞) 立場が等しいもの。相当するもの。
+EQUIVALENTS	(equivalentの変化形) (形容詞) 立場が等しい。～に相当する。
+EQUIVOCAL	(名詞) equivocalの訳: あいまい表現\n(形容詞) 複数の意味に取れる、あいまいな。
+EQUIVOCATE	(名詞) 左右: (さゆう)曖昧なこと。
+EQUIVOCATED	(equivocateの変化形) (名詞) 左右: (さゆう)曖昧なこと。
+EQUIVOCATES	(equivocateの変化形) (名詞) 左右: (さゆう)曖昧なこと。
+EQUIVOCATING	(equivocateの変化形) (名詞) 左右: (さゆう)曖昧なこと。
+ERA	(名詞) 時代: 歴史上や人生の中でのある時期など、長期の時間をある共通する観点や象徴的な事柄で分別した区分。接尾辞用法も参照。 (ほかに: 時期)
+ERADICATE	(動詞) 根こそぎにする。根絶する。撲滅する。
+ERADICATED	(形容詞) eradicatedの訳: 根絶された\n(動詞) eradicateの過去形・過去分詞: 根こそぎにする。根絶する。撲滅する。
+ERADICATES	(動詞) eradicateの直説法現在第三人称単数形: 根こそぎにする。根絶する。撲滅する。
+ERADICATING	(動詞) eradicateの現在分詞: 根こそぎにする。根絶する。撲滅する。
+ERADICATION	(名詞) 根こそぎ。根絶。撲滅。一掃。
+ERADICATIONS	(名詞) eradicationの複数形: 根こそぎ。根絶。撲滅。一掃。
+ERAS	(eraの変化形) (名詞) 時代: 歴史上や人生の中でのある時期など、長期の時間をある共通する観点や象徴的な事柄で分別した区分。接尾辞用法も参照。 (ほかに: 時期)
+ERASE	(動詞) 消す: （けす）殺す。存在をなくす。 (ほかに: 消し去る)
+ERASED	(動詞) "erase" の過去形・過去分詞形: 消す: （けす）殺す。存在をなくす。 (ほかに: 消し去る)
+ERASER	(名詞) 消しゴム: 鉛筆などで筆記した跡をこすって消す道具。天然ゴムかプラスチックから作られる。
+ERASERS	(名詞) eraserの複数形: 消しゴム: 鉛筆などで筆記した跡をこすって消す道具。天然ゴムかプラスチックから作られる。
+ERASES	(名詞) "erase" の複数形: 消す: （けす）殺す。存在をなくす。 (ほかに: 消し去る)\n(動詞) "erase" の三人称単数現在形: 消す: （けす）殺す。存在をなくす。 (ほかに: 消し去る)
+ERASING	(動詞) eraseの動名詞又は現在分詞: 消す: （けす）殺す。存在をなくす。 (ほかに: 消し去る)
+ERASURE	(名詞) 消去: 記述されている文字などを消すこと、消し去ること。 (ほかに: 削除)
+ERASURES	(名詞) "erasure" の複数形: 消去: 記述されている文字などを消すこと、消し去ること。 (ほかに: 削除)
+ERBIUM	(名詞) エルビウム: 原子番号 68、元素記号 Er の金属元素。原子量167.3。ランタノイド。単体は、常温常圧では銀白色の固体。
+ERBIUMS	(名詞) erbiumの複数形: エルビウム: 原子番号 68、元素記号 Er の金属元素。原子量167.3。ランタノイド。単体は、常温常圧では銀白色の固体。
+ERECT	(形容詞) 直立した。垂直に立った。\n(動詞) 建てる。建築する。くみたてる。
+ERECTED	(動詞) erectの過去形・過去分詞: 直立した。垂直に立った。
+ERECTER	(erectの変化形) (形容詞) 直立した。垂直に立った。
+ERECTERS	(erectの変化形) (形容詞) 直立した。垂直に立った。
+ERECTILE	(形容詞) erectileの訳: 直立できる
+ERECTING	(動詞) erectの動名詞又は現在分詞: 直立した。垂直に立った。
+ERECTION	(名詞) 建立。建設。
+ERECTIONS	(名詞) erectionの複数形: 建立。建設。
+ERECTS	(動詞) erectの現在第三人称単数形。
+EREMITE	(名詞) eremiteの訳: ⟪よすてびと⟫
+EREMITES	(eremiteの変化形) (名詞) eremiteの訳: ⟪よすてびと⟫
+ERGONOMIC	(形容詞) ergonomicの訳: 人間工学の
+ERGONOMICS	(名詞) 人間工学、エルゴノミクス。
+ERIGERON	(名詞) erigeronの訳: ムカシヨモギ
+ERIGERONS	(名詞) erigeronの複数形: ムカシヨモギ
+ERMINE	(名詞) オコジョ。鼬の仲間。学名： Mustela erminea 。北半球高緯度地域に分布する。夏場は茶色の毛皮をしているが、冬場になると尻尾の先端を残して白い毛皮に生え変わる。\n(動詞) アーミンの毛皮を着せる。
+ERMINED	(動詞) "ermine" の過去形・過去分詞形: オコジョ。鼬の仲間。学名： Mustela erminea...
+ERMINES	(名詞) "ermine" の複数形: オコジョ。鼬の仲間。学名： Mustela erminea...\n(動詞) "ermine" の三人称単数現在形: オコジョ。鼬の仲間。学名： Mustela erminea...
+ERN	(名詞) erneの異綴。\n(動詞) ernの訳: ⟪走る|はしる⟫, 流れる
+ERNE	(名詞) erneの訳: ⟪うみわし⟫
+ERNES	(erneの変化形) (名詞) erneの訳: ⟪うみわし⟫
+ERNS	(名詞) ernの複数形: erneの異綴。\n(動詞) ernの直説法現在第三人称単数形: erneの異綴。
+ERODE	(動詞) 浸食する。腐食する。
+ERODED	(形容詞) erodedの訳: 侵食された, 腐食した\n(動詞) erodeの過去形・過去分詞: 浸食する。腐食する。
+ERODES	(動詞) erodeの直説法現在第三人称単数形: 浸食する。腐食する。
+ERODING	(動詞) erodeの現在分詞: 浸食する。腐食する。
+EROSION	(名詞) 浸食。腐食。
+EROSIONS	(名詞) erosionの複数形: 浸食。腐食。
+EROTIC	(形容詞) 性愛の: 性本能に基づく愛情。愛欲。 (ほかに: エロチックな, 官能的な)\n(名詞) eroticの訳: 性愛詩
+EROTICA	(名詞) 性愛を扱った作品。
+EROTICALLY	(副詞) 官能的に: 性的、肉体的な欲望をそそるさま。 (ほかに: エロチックに)
+EROTICISM	(名詞) エロティシズム、好色。
+EROTICISMS	(名詞) eroticismの複数形: エロティシズム、好色。
+EROTICS	(名詞) eroticの複数形: 性愛の: 性本能に基づく愛情。愛欲。 (ほかに: エロチックな, 官能的な)
+ERR	(動詞) 誤る: （あやまる）間違える。間違った判断をする。
+ERRAND	(名詞) errandの訳: ⟪使い走り|つかいばしり⟫
+ERRANDS	(errandの変化形) (名詞) errandの訳: ⟪使い走り|つかいばしり⟫
+ERRATIC	(形容詞) erraticの訳: 不安定な, 不規則な, 一定しない\n(名詞) erraticの訳: 迷子石
+ERRATICS	(名詞) erraticの複数形: 不安定な, 不規則な, 一定しない
+ERRED	(動詞) "err" の過去形・過去分詞形: 誤る: （あやまる）間違える。間違った判断をする。
+ERRING	(動詞) "err" の動名詞形又は現在分詞形: 誤る: （あやまる）間違える。間違った判断をする。
+ERRONEOUS	(形容詞) erroneousの訳: 誤った, 間違った
+ERROR	(名詞) 過失: 注意すれば認識できる事実を、不注意により認識しないこと。また、注意すれば避けられる損害や犯罪的結果を、不注意により回避しないこと。 (ほかに: 誤り, 間違い)
+ERRORS	(名詞) "error" の複数形: 過失: 注意すれば認識できる事実を、不注意により認識しないこと。また、注意すれば避けられる損害や犯罪的結果を、不注意により回避しないこと。 (ほかに: 誤り,...
+ERRS	(動詞) "err" の三人称単数現在形: 誤る: （あやまる）間違える。間違った判断をする。
+ERS	(動詞) erの直説法現在第三人称単数形
+ERUDITE	(形容詞) 博学な。学識のある。\n(名詞) eruditeの訳: 博学な人
+ERUDITELY	(副詞) 博識で。学識高く。
+ERUDITION	(名詞) 博学。学識。
+ERUDITIONS	(名詞) eruditionの複数形: 博学。学識。
+ERUPT	(名詞) eruptの訳: ⟪噴火|ふんか⟫
+ERUPTED	(eruptの変化形) (名詞) eruptの訳: ⟪噴火|ふんか⟫
+ERUPTING	(eruptの変化形) (名詞) eruptの訳: ⟪噴火|ふんか⟫
+ERUPTION	(名詞) 噴火。爆発。噴出。噴出物。
+ERUPTIONS	(eruptionの変化形) (名詞) 噴火。爆発。噴出。噴出物。
+ERUPTS	(eruptの変化形) (名詞) eruptの訳: ⟪噴火|ふんか⟫
+ERYSIPELAS	(名詞) 丹毒: 溶血性連鎖球菌が傷口から入り、皮膚がびまん性の炎症をおこす感染症。
+ERYSIPELASES	(名詞) erysipelasの複数形: 丹毒: 溶血性連鎖球菌が傷口から入り、皮膚がびまん性の炎症をおこす感染症。
+ERYTHROCYTE	(名詞) 赤血球: 脊椎動物などの血液に含まれる有形成分のひとつ。赤い色素ヘモグロビンを有し、主に酸素の運搬にかかわる。
+ERYTHROCYTES	(名詞) erythrocyteの複数形: 赤血球。
+ERYTHROMYCIN	(名詞) エリスロマイシン: 放線菌の一種が産生する抗生物質の一つ。細菌が蛋白質を合成するのを阻害する。エリトロマイシン。
+ERYTHROMYCINS	(erythromycinの変化形) (名詞) エリスロマイシン: 放線菌の一種が産生する抗生物質の一つ。細菌が蛋白質を合成するのを阻害する。エリトロマイシン。
+ESCALATE	(動詞) エスカレートする。
+ESCALATED	(動詞) "escalate" の過去形・過去分詞形: エスカレートする。
+ESCALATES	(動詞) "escalate" の三人称単数現在形: エスカレートする。
+ESCALATING	(動詞) "escalate" の動名詞形又は現在分詞形: エスカレートする。
+ESCALATOR	(名詞) エスカレーター。
+ESCALATORS	(名詞) "escalator" の複数形: エスカレーター。
+ESCAPADE	(名詞) 向こう見ずな行為。
+ESCAPADES	(名詞) escapadeの複数形: 向こう見ずな行為。
+ESCAPE	(動詞) 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 脱出する)\n(名詞) escapeの訳: 脱出, 逃亡
+ESCAPED	(動詞) escapeの過去形・過去分詞: 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 脱出する)\n(形容詞) escapedの訳: 逃げた, 脱走した
+ESCAPEE	(名詞) 逃走者: 逃走する者。 (ほかに: 逃亡者, 脱走者)
+ESCAPEES	(名詞) escapeeの複数形: 逃走者: 逃走する者。 (ほかに: 逃亡者, 脱走者)
+ESCAPES	(名詞) escapeの複数形: 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 脱出する)\n(動詞) escapeの直説法現在第三人称単数形: 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 脱出する)
+ESCAPING	(動詞) escapeの動名詞又は現在分詞: 逃げる: （にげる）閉じ込められているところや危険な状況などから抜け出す。脱出する。避難する。 (ほかに: 脱出する)\n(名詞) 逃走: 逃げること。 (ほかに: 脱出, 脱走)
+ESCAPISM	(名詞) 現実逃避: 本来しなくてはならないことから楽しいことへと注意をそらすことにより、現在自分がおかれた状況から逃れようとすること。
+ESCAPISMS	(escapismの変化形) (名詞) 現実逃避: 本来しなくてはならないことから楽しいことへと注意をそらすことにより、現在自分がおかれた状況から逃れようとすること。
+ESCARPMENT	(名詞) escarpmentの訳: 断崖, 急斜面, 絶壁
+ESCARPMENTS	(名詞) escarpmentの複数形: 断崖, 急斜面, 絶壁
+ESCORT	(名詞) escortの訳: 護衛団\n(動詞) 護衛する: 付き添って守ること。また、それに就いている人。 (ほかに: 護送する)
+ESCORTED	(形容詞) 護送された、付き添われた、エスコートされた。\n(動詞) escortの過去形・過去分詞: 護衛団
+ESCORTING	(escortの変化形) (名詞) escortの訳: 護衛団
+ESCORTS	(名詞) escortの複数形: 護衛団\n(動詞) escortの直説法現在第三人称単数形: 護衛団
+ESCUTCHEON	(名詞) 《紋章》エスカッシャン：国、地方自治体、公共機関、軍隊、学校などの組織や団体及び個人の紋章 (coat of arms) の中央に示されている盾、盾の形の紋地
+ESCUTCHEONS	(名詞) escutcheon の複数形: 《紋章》エスカッシャン：国、地方自治体、公共機関、軍隊、学校などの組織や団体及び個人の紋章 (coat of arms) の中央に示されている盾、盾の形の紋地
+ESKER	(名詞) エスカー: 氷河が削った岩石が、氷河の交代後に残ることで形成される地形。
+ESKERS	(名詞) eskerの複数形: エスカー: 氷河が削った岩石が、氷河の交代後に残ることで形成される地形。
+ESOPHAGI	(名詞) esophagusの複数形: oesophagusの異綴。
+ESOPHAGUS	(名詞) oesophagusの異綴。
+ESOTERIC	(形容詞) esotericの訳: 秘教の, 密教の, 秘伝の, 奥義の\n(名詞) esotericの訳: 密教
+ESPECIAL	(形容詞) especialの訳: 特別な
+ESPECIALLY	(副詞) とりわけ。特に。殊に。その中でも。
+ESPIAL	(名詞) 発見: これまでに見たことのなかったもの、探していたもの、世間に知られていなかったものなどを見付けること。
+ESPIALS	(espialの変化形) (名詞) 発見: これまでに見たことのなかったもの、探していたもの、世間に知られていなかったものなどを見付けること。
+ESPOUSAL	(名詞) 婚約: 結婚の約束。
+ESPOUSALS	(名詞) espousalの複数形: 婚約: 結婚の約束。
+ESPOUSE	(動詞) （主に男性が）結婚する。娶る。
+ESPOUSED	(動詞) espouseの過去形・過去分詞: （主に男性が）結婚する。娶る。
+ESPOUSES	(動詞) espouseの直説法現在第三人称単数形: （主に男性が）結婚する。娶る。
+ESPOUSING	(動詞) espouseの現在分詞: （主に男性が）結婚する。娶る。
+ESPRESSO	(名詞) エスプレッソ: 挽いたコーヒー豆に蒸気を当て圧縮して抽出した濃いコーヒー。また、それをつくる装置。
+ESPRESSOS	(名詞) espressoの複数形: エスプレッソ: 挽いたコーヒー豆に蒸気を当て圧縮して抽出した濃いコーヒー。また、それをつくる装置。
+ESS	(名詞) essの訳: エス
+ESSAY	(名詞) 随筆。エッセー。\n(動詞) 試す。試みる。
+ESSAYED	(動詞) essayの過去形・過去分詞: 随筆。エッセー。
+ESSAYING	(動詞) essayの現在分詞: 随筆。エッセー。\n(名詞) essayingの訳: 試み
+ESSAYS	(名詞) essayの複数形: 随筆。エッセー。\n(動詞) essayの直説法現在第三人称単数形: 随筆。エッセー。
+ESSENCE	(名詞) 核心: 物事の中心となる大事な部分。 (ほかに: 本質, 真髄)
+ESSENCES	(essenceの変化形) (名詞) 核心: 物事の中心となる大事な部分。 (ほかに: 本質, 真髄)
+ESSENTIAL	(形容詞) 必須の: 欠かせないこと。必要なこと。 (ほかに: 不可欠な)\n(名詞) 不可欠なもの。必需品。
+ESSENTIALLY	(副詞) そもそも: 根本的に、最初から、元々、一体、大体。 (ほかに: 本質的に, 基本的に)
+ESSENTIALS	(名詞) essentialの複数形: 必須の: 欠かせないこと。必要なこと。 (ほかに: 不可欠な)
+ESTABLISH	(動詞) 設置する: 設けて置くこと。備え付けること。 (ほかに: 創立する, 設立する)
+ESTABLISHED	(動詞) establishの過去形又は過去分詞形: 創立する、設立する、設置する。\n(形容詞) establishedの訳: 確立した, 土着した
+ESTABLISHES	(動詞) "establish" の三人称単数現在形: 設置する: 設けて置くこと。備え付けること。 (ほかに: 創立する, 設立する)
+ESTABLISHING	(動詞) "establish" の動名詞形又は現在分詞形: 設置する: 設けて置くこと。備え付けること。 (ほかに: 創立する, 設立する)\n(名詞) establishingの訳: ⟪確立|かくりつ⟫
+ESTABLISHMENT	(名詞) 制定: 法律や制度などを作り、定めること。 (ほかに: 設置, 設立)
+ESTABLISHMENTS	(名詞) "establishment" の複数形: 制定: 法律や制度などを作り、定めること。 (ほかに: 設置, 設立)
+ESTATE	(名詞) 私有地: 個人や企業、団体が所有する土地。私地。 (ほかに: 地所)
+ESTATED	(estateの変化形) (名詞) 私有地: 個人や企業、団体が所有する土地。私地。 (ほかに: 地所)
+ESTATES	(名詞) "estate" の複数形: 私有地: 個人や企業、団体が所有する土地。私地。 (ほかに: 地所)
+ESTATING	(estateの変化形) (名詞) 私有地: 個人や企業、団体が所有する土地。私地。 (ほかに: 地所)
+ESTEEM	(名詞) esteemの訳: 珍重, 重視\n(動詞) 重んじる、貴ぶ、大切だと見なす、珍重する、尊重する。
+ESTEEMED	(形容詞) 尊重されている、立派な。\n(動詞) esteemの過去形・過去分詞: 珍重, 重視
+ESTEEMING	(動詞) esteemの動名詞又は現在分詞: 珍重, 重視
+ESTEEMS	(動詞) esteemの直説法現在第三人称単数形: 珍重, 重視
+ESTHETIC	(形容詞) aestheticの異綴
+ESTHETICIAN	(名詞) aestheticianの異形。
+ESTHETICIANS	(名詞) estheticianの複数形: aestheticianの異形。
+ESTIMABLE	(形容詞) estimableの訳: 立派な
+ESTIMATE	(動詞) estimateの訳: ⟪見積もる|みつもる⟫\n(名詞) 見積もり: （みつもり）金額・量・期間等を前もって概算すること。
+ESTIMATED	(形容詞) 見積もりの。概算の。\n(動詞) estimateの過去形・過去分詞: ⟪見積もる|みつもる⟫
+ESTIMATES	(名詞) estimateの複数形: ⟪見積もる|みつもる⟫\n(動詞) estimateの直説法現在第三人称単数形: ⟪見積もる|みつもる⟫
+ESTIMATING	(動詞) estimateの動名詞又は現在分詞: ⟪見積もる|みつもる⟫
+ESTIMATION	(名詞) 見積もり: （みつもり）金額・量・期間等を前もって概算すること。
+ESTIMATIONS	(名詞) "estimation" の複数形: 見積もり: （みつもり）金額・量・期間等を前もって概算すること。
+ESTIVAL	(形容詞) 夏の: なつ 季節（四季）の一つ。春の次、秋の前。
+ESTIVATE	(動詞) 夏眠する: 熱帯地方などで夏季の高温、乾燥の間、生物が休眠状態となること。 (ほかに: 夏を過ごす)
+ESTIVATED	(動詞) "estivate" の過去形・過去分詞形: 夏眠する: 熱帯地方などで夏季の高温、乾燥の間、生物が休眠状態となること。 (ほかに: 夏を過ごす)
+ESTIVATES	(動詞) "estivate" の三人称単数現在形: 夏眠する: 熱帯地方などで夏季の高温、乾燥の間、生物が休眠状態となること。 (ほかに: 夏を過ごす)
+ESTIVATING	(動詞) "estivate" の動名詞形又は現在分詞形: 夏眠する: 熱帯地方などで夏季の高温、乾燥の間、生物が休眠状態となること。 (ほかに: 夏を過ごす)
+ESTRANGED	(動詞) estrangedの訳: ⟪とおざかる⟫
+ESTRANGEMENT	(名詞) 乖離: 別の方向に反れて離れること。又、懸け離れていること。
+ESTRANGEMENTS	(estrangementの変化形) (名詞) 乖離: 別の方向に反れて離れること。又、懸け離れていること。
+ESTROGEN	(名詞) エストロゲン: 卵巣から分泌される女性ホルモン。発情を促し女性の性器や乳房を発達などの作用がある。
+ESTROGENS	(名詞) estrogenの複数形: エストロゲン: 卵巣から分泌される女性ホルモン。発情を促し女性の性器や乳房を発達などの作用がある。
+ESTRONE	(名詞) エストロン: 卵巣から分泌される女性ホルモン。発情を促し、女性の更年期障害の治療などに利用される。
+ESTRONES	(名詞) estroneの複数形: エストロン: 卵巣から分泌される女性ホルモン。発情を促し、女性の更年期障害の治療などに利用される。
+ESTUARIES	(estuaryの変化形) (名詞) 河口: 河川が海や湖などに注ぎこむところ。
+ESTUARY	(名詞) 河口: 河川が海や湖などに注ぎこむところ。
+ETA	(名詞) ギリシア文字の第7字、η（イータ）。
+ETAS	(etaの変化形) (名詞) ギリシア文字の第7字、η（イータ）。
+ETERNAL	(形容詞) 果てしない: 終わりの無い。 (ほかに: 永久の, 永遠の)\n(名詞) eternalの訳: 永遠なるもの
+ETERNALLY	(副詞) 永遠に: 時間が限りなく長いこと。限りなく長い時間。 (ほかに: 永久に)
+ETERNALS	(名詞) eternalの複数形: 果てしない: 終わりの無い。 (ほかに: 永久の, 永遠の)
+ETERNITIES	(名詞) eternityの複数形: 永遠: 時間が限りなく長いこと。限りなく長い時間。 (ほかに: 永久, とこしえ)
+ETERNITY	(名詞) 永遠: 時間が限りなく長いこと。限りなく長い時間。 (ほかに: 永久, とこしえ)
+ETHANE	(名詞) ethaneの訳: エタン
+ETHANES	(名詞) ethaneの複数形: エタン
+ETHANOL	(名詞) エタノール: 示性式:C₂H₅OH、又は、CH₃CH₂OH で表されるアルコールの一種。酒の主な成分。エチルアルコール。
+ETHANOLS	(名詞) ethanolの複数形: エタノール: 示性式:C₂H₅OH、又は、CH₃CH₂OH で表されるアルコールの一種。酒の主な成分。エチルアルコール。
+ETHENE	(名詞) エテン: （えちれん）炭化水素の一つ。無色で甘い香りのある可燃性の気体。果実の熟成などの作用があるほか、化学製品の原料ともなる。
+ETHENES	(etheneの変化形) (名詞) エテン: （えちれん）炭化水素の一つ。無色で甘い香りのある可燃性の気体。果実の熟成などの作用があるほか、化学製品の原料ともなる。
+ETHER	(名詞) etherの訳: ⟪天空|てんくう⟫\n(動詞) 悪意をもって侮辱する。
+ETHEREAL	(形容詞) etherealの訳: 空気のような\n(名詞) ethereal waveの省略。
+ETHERS	(名詞) etherの複数形: ⟪天空|てんくう⟫\n(動詞) etherの直説法現在第三人称単数形: ⟪天空|てんくう⟫
+ETHICAL	(形容詞) ethicalの訳: 倫理の, 道徳の
+ETHICALS	(ethicalの変化形) (形容詞) ethicalの訳: 倫理の, 道徳の
+ETHICIST	(名詞) 倫理学者: 倫理学を研究する科学者。
+ETHICISTS	(名詞) ethicistの複数形: 倫理学者: 倫理学を研究する科学者。
+ETHICS	(名詞) 倫理。倫理学。
+ETHNIC	(形容詞) 民族の: 言語・宗教などの文化的特徴により人間を分類したもの。\n(名詞) 少数民族の一員。
+ETHNICAL	(形容詞) 民族の: 言語・宗教などの文化的特徴により人間を分類したもの。
+ETHNICITIES	(ethnicityの変化形) (名詞) ethnicityの訳: 民族性
+ETHNICITY	(名詞) ethnicityの訳: 民族性
+ETHNICS	(ethnicの変化形) (形容詞) 民族の: 言語・宗教などの文化的特徴により人間を分類したもの。
+ETHNOCENTRISM	(名詞) 自文化中心主義、エスノセントリズム。
+ETHNOCENTRISMS	(ethnocentrismの変化形) (名詞) 自文化中心主義、エスノセントリズム。
+ETHNOLOGIES	(ethnologyの変化形) (名詞) 民族学: それぞれの民族の文化などを歴史や他の民族との比較などにより研究する学問。
+ETHNOLOGY	(名詞) 民族学: それぞれの民族の文化などを歴史や他の民族との比較などにより研究する学問。
+ETHOLOGIES	(ethologyの変化形) (名詞) 行動生物学: 人間や動物の行動原理を扱った学問。生物学、動物学の一分野。 (ほかに: 動物行動学)
+ETHOLOGY	(名詞) 行動生物学: 人間や動物の行動原理を扱った学問。生物学、動物学の一分野。 (ほかに: 動物行動学)
+ETHYLENE	(名詞) エチレン: 炭化水素の一つ。無色で甘い香りのある可燃性の気体。果実の熟成などの作用があるほか、化学製品の原料ともなる。
+ETHYLENES	(ethyleneの変化形) (名詞) エチレン: 炭化水素の一つ。無色で甘い香りのある可燃性の気体。果実の熟成などの作用があるほか、化学製品の原料ともなる。
+ETHYNE	(名詞) ethyneの訳: エチン
+ETHYNES	(ethyneの変化形) (名詞) ethyneの訳: エチン
+ETIOLOGIES	(etiologyの変化形) (名詞) 病因: 病気の原因。
+ETIOLOGY	(名詞) 病因: 病気の原因。
+ETIQUETTE	(名詞) エチケット: 礼儀作法。 (ほかに: 礼儀作法)
+ETIQUETTES	(名詞) etiquetteの複数形: エチケット: 礼儀作法。 (ほかに: 礼儀作法)
+ETYMA	(名詞) etymonの複数形: 語の原形
+ETYMOLOGICAL	(形容詞) 語源的な: 語源に関すること。また、そのさま。
+ETYMOLOGICALLY	(副詞) 語源的に: 語源に関すること。また、そのさま。
+ETYMOLOGIES	(名詞) etymologyの複数形: 語源: 個々の単語のみなもと。 (ほかに: 語源学)
+ETYMOLOGIST	(名詞) 語源学者。語源研究家。
+ETYMOLOGISTS	(名詞) etymologistの複数形: 語源学者。語源研究家。
+ETYMOLOGY	(名詞) 語源: 個々の単語のみなもと。 (ほかに: 語源学)
+ETYMON	(名詞) etymonの訳: 語の原形
+ETYMONS	(名詞) etymonの複数形: 語の原形
+EUCALYPTI	(名詞) eucalyptusの複数形: ユーカリ
+EUCALYPTUS	(名詞) eucalyptusの訳: ユーカリ
+EUCALYPTUSES	(名詞) eucalyptusの複数形: ユーカリ
+EUCHRE	(動詞) euchreの訳: 詐取
+EUCHRED	(euchreの変化形) (動詞) euchreの訳: 詐取
+EUCHRES	(euchreの変化形) (動詞) euchreの訳: 詐取
+EUCHRING	(euchreの変化形) (動詞) euchreの訳: 詐取
+EUGLENA	(名詞) euglenaの訳: ⟪ミドリムシ|みどりむし⟫
+EUGLENAS	(名詞) euglenaの複数形: ⟪ミドリムシ|みどりむし⟫
+EUKARYOTE	(名詞) 真核生物: 核をもつ生物。動物、植物、菌類、原生生物を含む。
+EUKARYOTES	(eukaryoteの変化形) (名詞) 真核生物: 核をもつ生物。動物、植物、菌類、原生生物を含む。
+EULOGIES	(名詞) "eulogy" の複数形: 賛辞、特に、弔事における頌徳。
+EULOGY	(名詞) 賛辞、特に、弔事における頌徳。
+EUNUCH	(名詞) 去勢された男性。
+EUNUCHS	(名詞) eunuchの複数形: 去勢された男性。
+EUPHEMISM	(名詞) euphemismの訳: 婉曲法
+EUPHEMISMS	(名詞) euphemismの複数形: 婉曲法
+EUPHEMISTIC	(形容詞) euphemisticの訳: 婉曲的な, 遠回しの
+EUPHEMISTICALLY	(副詞) 婉曲に: 間接的な。遠まわしな。 (ほかに: 遠回しに)
+EUPHONIC	(形容詞) euphonicの訳: 音調の良い, 口調の良い
+EUPHONIES	(名詞) euphonyの複数形: 音調の良さ, 心地良い音
+EUPHONIOUS	(形容詞) euphoniousの訳: 音調の良い, 耳に快い
+EUPHONIOUSLY	(副詞) euphoniouslyの訳: 音調が良く, 耳に快く
+EUPHONIUM	(名詞) ユーフォニアム。
+EUPHONIUMS	(名詞) euphoniumの複数形: ユーフォニアム。
+EUPHONY	(名詞) euphonyの訳: 音調の良さ, 心地良い音
+EUPHORIA	(名詞) 多幸感: この上なく幸せを感じること。
+EUPHORIAS	(名詞) euphoriaの複数形: 多幸感。
+EURO	(名詞) euroの訳: 通貨ユーロ
+EUROPIUM	(名詞) ユウロピウム: 原子番号 63、元素記号 Eu の金属元素。ランタノイド。原子量152.0。単体は、常温常圧では銀白色の固体。
+EUROPIUMS	(europiumの変化形) (名詞) ユウロピウム: 原子番号 63、元素記号 Eu の金属元素。ランタノイド。原子量152.0。単体は、常温常圧では銀白色の固体。
+EUROS	(euroの変化形) (名詞) euroの訳: 通貨ユーロ
+EUTHANASIA	(名詞) 安楽死: 疾病の苦痛に耐え切れずに、それから逃れるため、本人の意思により積極的に死にいたらせること。一般的には医療的行為により行う。
+EUTHANASIAS	(名詞) euthanasiaの複数形: 安楽死: 疾病の苦痛に耐え切れずに、それから逃れるため、本人の意思により積極的に死にいたらせること。一般的には医療的行為により行う。
+EVACUATE	(動詞) 避難させる。退避させる。疎開させる。撤退させる。
+EVACUATED	(evacuateの変化形) (動詞) 避難させる。退避させる。疎開させる。撤退させる。
+EVACUATES	(動詞) evacuateの直説法現在第三人称単数形: 避難させる。退避させる。疎開させる。撤退させる。
+EVACUATING	(動詞) evacuateの現在分詞: 避難させる。退避させる。疎開させる。撤退させる。
+EVACUATION	(名詞) 避難。退避。退去。疎開。
+EVACUATIONS	(名詞) evacuationの複数形: 避難。退避。退去。疎開。
+EVACUEE	(名詞) 避難者。疎開者。
+EVACUEES	(名詞) evacueeの複数形: 避難者。疎開者。
+EVADE	(動詞) 避ける。逃れる。回避する。
+EVADED	(動詞) evadeの過去形・過去分詞: 避ける。逃れる。回避する。
+EVADER	(evadeの変化形) (動詞) 避ける。逃れる。回避する。
+EVADES	(動詞) evadeの直説法現在第三人称単数形: 避ける。逃れる。回避する。
+EVADING	(動詞) evadeの現在分詞: 避ける。逃れる。回避する。
+EVALUATE	(動詞) evaluateの訳: 評価する, 査定する, ⟪見積もる|みつもる⟫
+EVALUATED	(動詞) evaluateの過去形・過去分詞: 評価する, 査定する, ⟪見積もる|みつもる⟫
+EVALUATES	(動詞) evaluateの直説法現在第三人称単数形: 評価する, 査定する, ⟪見積もる|みつもる⟫
+EVALUATING	(動詞) evaluateの現在分詞: 評価する, 査定する, ⟪見積もる|みつもる⟫
+EVALUATION	(名詞) 評価: 物事や人物などの善悪や美醜、優劣などの価値を判断すること。 (ほかに: 査定, 見積もり)
+EVALUATIONS	(名詞) evaluationの複数形: 評価: 物事や人物などの善悪や美醜、優劣などの価値を判断すること。 (ほかに: 査定, 見積もり)
+EVANESCE	(動詞) 次第に消えていく。
+EVANESCED	(evanesceの変化形) (動詞) 次第に消えていく。
+EVANESCENCE	(名詞) 消失、次第に消えること、儚さ。
+EVANESCENCES	(名詞) evanescenceの複数形: 消失、次第に消えること、儚さ。
+EVANESCENT	(形容詞) 次第に消えていく。
+EVANESCES	(evanesceの変化形) (動詞) 次第に消えていく。
+EVANESCING	(evanesceの変化形) (動詞) 次第に消えていく。
+EVANGELIST	(名詞) 【キリスト教】 福音の伝道者。宣教徒。
+EVANGELISTS	(evangelistの変化形) (名詞) 【キリスト教】 福音の伝道者。宣教徒。
+EVAPORATE	(動詞) 蒸発する: （じょうはつする）液体の表面が気化する。
+EVAPORATED	(動詞) "evaporate" の過去形・過去分詞形: 蒸発する: （じょうはつする）液体の表面が気化する。
+EVAPORATES	(動詞) "evaporate" の三人称単数現在形: 蒸発する: （じょうはつする）液体の表面が気化する。
+EVAPORATING	(動詞) "evaporate" の動名詞形又は現在分詞形: 蒸発する: （じょうはつする）液体の表面が気化する。
+EVAPORATION	(名詞) 蒸発: 液体の表面が気化する現象。
+EVAPORATIONS	(名詞) evaporationの複数形: 蒸発: 液体の表面が気化する現象。
+EVASION	(名詞) （責任などを）逃れること。回避。
+EVASIONS	(名詞) evasionの複数形: （責任などを）逃れること。回避。
+EVASIVE	(形容詞) evasiveの訳: 言葉を濁す
+EVASIVELY	(副詞) evasivelyの訳: 言葉を濁して
+EVASIVENESS	(名詞) 言葉を濁すこと。言い逃れ。
+EVASIVENESSES	(名詞) evasivenessの複数形: 言葉を濁すこと。言い逃れ。
+EVE	(名詞) eveの訳: ⟪前夜|ぜんや⟫
+EVEN	(形容詞) evenの訳: 平な, 水平な\n(動詞) 平にする。ならす。
+EVENED	(動詞) "even" の過去形・過去分詞形: 平な, 水平な
+EVENER	(evenの変化形) (形容詞) evenの訳: 平な, 水平な
+EVENERS	(evenの変化形) (形容詞) evenの訳: 平な, 水平な
+EVENEST	(evenの変化形) (形容詞) evenの訳: 平な, 水平な
+EVENHANDED	(形容詞) 公平な。公正な。
+EVENING	(名詞) 晩: （バン）夕方。 (ほかに: 夕方)\n(動詞) evenの現在分詞: 平な, 水平な
+EVENINGS	(名詞) "evening" の複数形: 晩: （バン）夕方。 (ほかに: 夕方)
+EVENNESS	(名詞) 均一。均等。
+EVENNESSES	(名詞) evennessの複数形: 均一。均等。
+EVENS	(動詞) "even" の三人称単数現在形: 平な, 水平な
+EVENT	(名詞) 出来事: 世間で起こる様々な事柄。
+EVENTFUL	(形容詞) eventfulの訳: 事件の多い
+EVENTFULLY	(eventfulの変化形) (形容詞) eventfulの訳: 事件の多い
+EVENTIDE	(名詞) eventideの訳: 夕方, 夕暮れ
+EVENTIDES	(名詞) eventideの複数形: 夕方、夕暮れ。
+EVENTLESS	(形容動詞) eventlessの訳: 静謐
+EVENTS	(eventの変化形) (名詞) 出来事: 世間で起こる様々な事柄。
+EVENTUAL	(形容詞) eventualの訳: 最終的な
+EVENTUALITIES	(名詞) eventualityの複数形: 偶発性
+EVENTUALITY	(名詞) eventualityの訳: 偶発性
+EVENTUALLY	(副詞) ようやく: （やや古）次第に。だんだん。 (ほかに: 結局は, 最後には)
+EVER	(副詞) （否定文や否定的表現と共に用いて）決して。絶対に。どんなことがあっても。
+EVERLASTING	(形容詞) everlastingの訳: ⟪限りない|かぎりない⟫, 永続する, 永久の, 恒久の\n(名詞) everlastingの訳: 永久, 永遠
+EVERLASTINGLY	(副詞) 永遠に: 時間が限りなく長いこと。限りなく長い時間。 (ほかに: 限りなく, 永久に)
+EVERLASTINGS	(名詞) "everlasting" の複数形: ⟪限りない|かぎりない⟫, 永続する, 永久の, 恒久の
+EVERMORE	(副詞) 永遠に: 未来にかけて、ある状態がずっと続くこと。時間を超越していること。 (ほかに: 永久不変に)
+EVERY	(副詞) everyの訳: 毎日\n(名詞) everyの訳: 毎週
+EVERYBODY	(代名詞) 皆: そこにいる全ての人。
+EVERYDAY	(形容詞) 毎日の。日常の。日常的な。
+EVERYONE	(代名詞) 皆: （みな、みんな）そこに居る全ての人。
+EVERYTHING	(代名詞) everythingの訳: あらゆる事
+EVERYWHERE	(副詞) 至る所で。どこでも。
+EVES	(名詞) eveの複数形: ⟪前夜|ぜんや⟫
+EVICT	(動詞) evictの訳: 立ち退かせる
+EVICTED	(動詞) evictの過去形・過去分詞: 立ち退かせる
+EVICTING	(動詞) evictの現在分詞: 立ち退かせる
+EVICTION	(名詞) evictionの訳: 立ち退き, 追い立て
+EVICTIONS	(名詞) evictionの複数形: 立ち退き, 追い立て
+EVICTS	(動詞) evictの直説法現在第三人称単数形: 立ち退かせる
+EVIDENCE	(名詞) 証拠: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。\n(動詞) evidenceの訳: 証明する
+EVIDENCED	(動詞) evidenceの過去形・過去分詞: 証拠: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。
+EVIDENCES	(名詞) evidenceの複数形: 証拠: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。\n(動詞) evidenceの直説法現在第三人称単数形: 証拠: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。
+EVIDENCING	(動詞) evidenceの動名詞又は現在分詞: 証拠: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。
+EVIDENT	(形容詞) 明白な: 証拠等がはっきりとし、疑いのないこと。また、そのさま。 (ほかに: 明らかな, 確固たる)
+EVIDENTIAL	(形容詞) 証拠の: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。
+EVIDENTIALLY	(evidentialの変化形) (形容詞) 証拠の: （「その証拠に」「それが証拠に」などの形で）その根拠として。それを証明するように。実際。
+EVIDENTLY	(副詞) 明白に: 証拠等がはっきりとし、疑いのないこと。また、そのさま。 (ほかに: 明らかに)
+EVIL	(形容詞) evilの訳: 邪悪な\n(名詞) 邪悪: 邪で悪いこと。姦悪。
+EVILDOER	(名詞) 悪人: 悪いことをする人のこと。
+EVILDOERS	(evildoerの変化形) (名詞) 悪人: 悪いことをする人のこと。
+EVILDOING	(名詞) evildoingの訳: ⟪悪事|あくじ⟫, 悪行
+EVILDOINGS	(evildoingの変化形) (名詞) evildoingの訳: ⟪悪事|あくじ⟫, 悪行
+EVILER	(形容詞) "evil" の比較級: 邪悪な
+EVILEST	(形容詞) "evil" の最上級: 邪悪な
+EVILLER	(形容詞) "evil" の比較級: 邪悪な
+EVILLEST	(形容詞) "evil" の最上級: 邪悪な
+EVILNESS	(名詞) evilnessの訳: 邪悪
+EVILNESSES	(名詞) evilnessの複数形: 邪悪
+EVILS	(名詞) "evil" の複数形: 邪悪な
+EVINCE	(動詞) 明示する: はっきりと示すこと。 (ほかに: 証明する, 表す)
+EVINCED	(動詞) evinceの過去形・過去分詞: 明示する: はっきりと示すこと。 (ほかに: 証明する, 表す)
+EVINCES	(動詞) evinceの直説法現在第三人称単数形: 明示する: はっきりと示すこと。 (ほかに: 証明する, 表す)
+EVINCING	(動詞) evinceの動名詞又は現在分詞: 明示する: はっきりと示すこと。 (ほかに: 証明する, 表す)
+EVOCATION	(名詞) 喚起: 一度行ったものが元の場所に戻ること。帰還。
+EVOCATIONS	(名詞) evocationの複数形: 喚起: 一度行ったものが元の場所に戻ること。帰還。
+EVOKE	(動詞) 呼び覚ます: （よびさます）感覚や記憶などをよみがえらせる。 (ほかに: 喚起する, 想起する)
+EVOKED	(動詞) evokeの過去形・過去分詞: 呼び覚ます: （よびさます）感覚や記憶などをよみがえらせる。 (ほかに: 喚起する, 想起する)
+EVOKER	(evokeの変化形) (動詞) 呼び覚ます: （よびさます）感覚や記憶などをよみがえらせる。 (ほかに: 喚起する, 想起する)
+EVOKES	(動詞) evokeの直説法現在第三人称単数形: 呼び覚ます: （よびさます）感覚や記憶などをよみがえらせる。 (ほかに: 喚起する, 想起する)
+EVOKING	(動詞) evokeの動名詞又は現在分詞: 呼び覚ます: （よびさます）感覚や記憶などをよみがえらせる。 (ほかに: 喚起する, 想起する)
+EVOLUTION	(名詞) 進化: 遺伝子の突然変異の累積などにより、生物の形質の多様化が進むこと。または他の種に分化すること。
+EVOLUTIONARY	(形容詞) 進化の: 優化する。好転する。改良される。
+EVOLUTIONISM	(名詞) 進化論: 生物は全て単純な形態から進化してきたという説。
+EVOLUTIONISMS	(evolutionismの変化形) (名詞) 進化論: 生物は全て単純な形態から進化してきたという説。
+EVOLUTIONIST	(名詞) evolutionistの訳: 進化論者
+EVOLUTIONISTS	(evolutionistの変化形) (名詞) evolutionistの訳: 進化論者
+EVOLUTIONS	(名詞) evolutionの複数形: 進化: 遺伝子の突然変異の累積などにより、生物の形質の多様化が進むこと。または他の種に分化すること。
+EVOLVE	(動詞) 進化する: （しんかする）優化する。好転する。改良される。
+EVOLVED	(動詞) evolveの過去形・過去分詞: 進化する: （しんかする）優化する。好転する。改良される。
+EVOLVER	(evolveの変化形) (動詞) 進化する: （しんかする）優化する。好転する。改良される。
+EVOLVES	(動詞) evolveの直説法現在第三人称単数形: 進化する: （しんかする）優化する。好転する。改良される。
+EVOLVING	(動詞) evolveの動名詞又は現在分詞: 進化する: （しんかする）優化する。好転する。改良される。
+EWE	(名詞) eweの訳: ⟪ひつじ⟫, ⟪ヒツジ|ひつじ⟫, ⟪めひつじ⟫
+EWES	(eweの変化形) (名詞) eweの訳: ⟪ひつじ⟫, ⟪ヒツジ|ひつじ⟫, ⟪めひつじ⟫
+EXACERBATE	(動詞) exacerbateの訳: 悪化させる, 深刻にする
+EXACERBATED	(動詞) exacerbateの過去形・過去分詞: 悪化させる, 深刻にする
+EXACERBATES	(動詞) exacerbateの直説法現在第三人称単数形: 悪化させる, 深刻にする
+EXACERBATING	(動詞) exacerbateの現在分詞: 悪化させる, 深刻にする\n(形容詞) exacerbatingの訳: 悪化させる, 深刻化させる
+EXACERBATION	(名詞) 激化: 状況などが激しくなること。また、激しくすること。 (ほかに: 悪化)
+EXACERBATIONS	(名詞) exacerbationの複数形: 激化: 状況などが激しくなること。また、激しくすること。 (ほかに: 悪化)
+EXACT	(形容詞) exactの訳: 正確な, 的確な, 厳密な\n(動詞) exactの訳: 取り立てる
+EXACTA	(名詞) exactaの訳: 連勝単式
+EXACTAS	(名詞) exactaの複数形: 連勝単式
+EXACTED	(動詞) exactの過去形・過去分詞: 正確な, 的確な, 厳密な
+EXACTER	(exactの変化形) (形容詞) exactの訳: 正確な, 的確な, 厳密な
+EXACTERS	(exactの変化形) (形容詞) exactの訳: 正確な, 的確な, 厳密な
+EXACTEST	(exactの変化形) (形容詞) exactの訳: 正確な, 的確な, 厳密な
+EXACTING	(動詞) exactの動名詞又は現在分詞: 正確な, 的確な, 厳密な\n(形容詞) 正確さを要求する。厳密さを要求する。
+EXACTINGLY	(exactの変化形) (形容詞) exactの訳: 正確な, 的確な, 厳密な
+EXACTION	(名詞) 強要。強制取り立て。
+EXACTIONS	(名詞) exactionの複数形: 強要。強制取り立て。
+EXACTITUDE	(名詞) 正確度。厳密度。
+EXACTITUDES	(名詞) exactitudeの複数形: 正確度。厳密度。
+EXACTLY	(副詞) 正確に。厳密に。
+EXACTNESS	(名詞) exactnessの訳: 正確さ
+EXACTNESSES	(名詞) exactnessの複数形: 正確さ
+EXACTS	(動詞) exactの直説法現在第三人称単数形: 正確な, 的確な, 厳密な
+EXAGGERATE	(動詞) 誇張する。大袈裟に言う。
+EXAGGERATED	(動詞) exaggerateの過去形・過去分詞: 誇張する。大袈裟に言う。\n(形容詞) 誇張された。大袈裟な。
+EXAGGERATES	(動詞) exaggerateの直説法現在第三人称単数形: 誇張する。大袈裟に言う。
+EXAGGERATING	(動詞) exaggerateの現在分詞: 誇張する。大袈裟に言う。
+EXAGGERATION	(名詞) 誇張。誇張表現。
+EXAGGERATIONS	(名詞) exaggerationの複数形: 誇張。誇張表現。
+EXAGGERATIVE	(形容詞) exaggerativeの訳: 大袈裟な
+EXAGGERATOR	(名詞) 大袈裟に言う人。
+EXAGGERATORS	(名詞) exaggeratorの複数形: 大袈裟に言う人。
+EXAGGERATORY	(形容詞) exaggeratoryの訳: 大袈裟な
+EXALT	(動詞) 崇める: （あがめる）敬う。尊ぶ。 (ほかに: 褒める, 持ち上げる)
+EXALTATION	(名詞) 品格や地位の上昇。格上げ。昇進。
+EXALTATIONS	(名詞) exaltationの複数形: 品格や地位の上昇。格上げ。昇進。
+EXALTED	(動詞) exaltの過去形・過去分詞: 崇める: （あがめる）敬う。尊ぶ。 (ほかに: 褒める, 持ち上げる)\n(形容詞) 地位の高い。高貴な。崇高な。
+EXALTEDLY	(exaltの変化形) (動詞) 崇める: （あがめる）敬う。尊ぶ。 (ほかに: 褒める, 持ち上げる)
+EXALTING	(動詞) "exalt" の動名詞形又は現在分詞形: 崇める: （あがめる）敬う。尊ぶ。 (ほかに: 褒める, 持ち上げる)
+EXALTS	(動詞) "exalt" の三人称単数現在形: 崇める: （あがめる）敬う。尊ぶ。 (ほかに: 褒める, 持ち上げる)
+EXAM	(名詞) 試験: 能力・学力を試したり入学・入社などの合否を決めるために問題を出して解答させること。
+EXAMENS	(名詞) examenの複数形。
+EXAMINABLE	(形容詞) 試験可能な。検査可能な。調査可能な。
+EXAMINATION	(名詞) examinationの訳: 調べること
+EXAMINATIONS	(名詞) examinationの複数形: 調べること
+EXAMINE	(動詞) 調査する: 物事の実態などを明らかにするために調べること。サーベイ。 (ほかに: 検査する)
+EXAMINED	(動詞) examineの過去形・過去分詞: 調査する: 物事の実態などを明らかにするために調べること。サーベイ。 (ほかに: 検査する)
+EXAMINEE	(名詞) examineeの訳: 受験者
+EXAMINEES	(名詞) "examinee" の複数形: 受験者
+EXAMINER	(名詞) 試験官: 試験会場の監督や、面接での試問、実技試験の審査などを行う者。 (ほかに: 審査員, 検査官)
+EXAMINERS	(examinerの変化形) (名詞) 試験官: 試験会場の監督や、面接での試問、実技試験の審査などを行う者。 (ほかに: 審査員, 検査官)
+EXAMINES	(動詞) "examine" の三人称単数現在形: 調査する: 物事の実態などを明らかにするために調べること。サーベイ。 (ほかに: 検査する)
+EXAMINING	(動詞) examineの動名詞又は現在分詞: 調査する: 物事の実態などを明らかにするために調べること。サーベイ。 (ほかに: 検査する)\n(名詞) 試験。検査。
+EXAMPLE	(名詞) 例: （レイ）ある事象の内容を伝達するために、その範疇に属する事象から抽出された少数のもの、または事象に沿って示された仮定。事例。具体例。
+EXAMPLED	(exampleの変化形) (名詞) 例: （レイ）ある事象の内容を伝達するために、その範疇に属する事象から抽出された少数のもの、または事象に沿って示された仮定。事例。具体例。
+EXAMPLES	(名詞) exampleの複数形: 例: （レイ）ある事象の内容を伝達するために、その範疇に属する事象から抽出された少数のもの、または事象に沿って示された仮定。事例。具体例。
+EXAMPLING	(exampleの変化形) (名詞) 例: （レイ）ある事象の内容を伝達するために、その範疇に属する事象から抽出された少数のもの、または事象に沿って示された仮定。事例。具体例。
+EXAMS	(examの変化形) (名詞) 試験: 能力・学力を試したり入学・入社などの合否を決めるために問題を出して解答させること。
+EXANIMATE	(形容詞) exanimateの訳: 生命の無い, 死んだ
+EXASPERATE	(動詞) いらいらさせる、怒らせる。\n(形容詞) exasperateの訳: いらいらして
+EXASPERATED	(動詞) "exasperate" の過去形・過去分詞: いらいらさせる、怒らせる。
+EXASPERATES	(動詞) "exasperate" の現在第三人称単数形。
+EXASPERATING	(動詞) "exasperate" の動名詞又は現在分詞: いらいらさせる、怒らせる。
+EXASPERATION	(名詞) いらいらすること、苛立ち。
+EXASPERATIONS	(名詞) "exasperation" の複数形: いらいらすること、苛立ち。
+EXCEED	(動詞) exceedの訳: 上回る
+EXCEEDED	(動詞) "exceed" の過去形・過去分詞形: 上回る
+EXCEEDING	(動詞) exceedの動名詞又は現在分詞: 上回る
+EXCEEDINGLY	(副詞) かなり: 程度が思いのほか甚だしいこと。非常にまでは行かないが、それほど程度が大きいさま。 (ほかに: 非常に, 並外れて)
+EXCEEDS	(動詞) "exceed" の三人称単数現在形: 上回る
+EXCEL	(動詞) （前置詞を付けない）能力で他人を超える。
+EXCELLED	(動詞) "excel" の過去形・過去分詞形: （前置詞を付けない）能力で他人を超える。
+EXCELLENCE	(名詞) 優れていること
+EXCELLENCES	(excellenceの変化形) (名詞) 優れていること
+EXCELLENCIES	(excellencyの変化形) (名詞) 高官: 身分の高い官職。または身分の高い官僚。
+EXCELLENCY	(名詞) 高官: 身分の高い官職。または身分の高い官僚。
+EXCELLENT	(形容詞) 優秀な: 極度に優れていること。 (ほかに: 優良な, 優れた)
+EXCELLENTLY	(副詞) excellentlyの訳: すばらしく
+EXCELLING	(動詞) "excel" の動名詞形又は現在分詞形: （前置詞を付けない）能力で他人を超える。
+EXCELS	(動詞) "excel" の三人称単数現在形: （前置詞を付けない）能力で他人を超える。
+EXCEPT	(前置詞) ～を除いては。～以外は。\n(接続詞) exceptの訳: ⟪しかし⟫
+EXCEPTED	(前置詞) exceptedの訳: ～を除いて\n(動詞) exceptの過去形・過去分詞: ～を除いては。～以外は。
+EXCEPTING	(前置詞) exceptingの訳: ～を除いて\n(動詞) exceptの現在分詞: ～を除いては。～以外は。
+EXCEPTION	(名詞) 異例: 異なる例。特殊な例。珍しい例。 (ほかに: 例外, 殊)
+EXCEPTIONAL	(形容詞) 例外的な。特殊な。特別な。殊なる。
+EXCEPTIONALLY	(副詞) 特別に: （程度を強めて）特に。とりわけ。 (ほかに: 例外的に, 特殊に)
+EXCEPTIONS	(名詞) "exception" の複数形: 異例: 異なる例。特殊な例。珍しい例。 (ほかに: 例外, 殊)
+EXCEPTS	(動詞) "except" の三人称単数現在形: ～を除いては。～以外は。
+EXCERPT	(動詞) excerptの訳: 抜粋する\n(名詞) excerptの訳: 抜粋
+EXCERPTED	(動詞) "excerpt" の過去形・過去分詞形: 抜粋する
+EXCERPTER	(excerptの変化形) (動詞) excerptの訳: 抜粋する
+EXCERPTING	(動詞) "excerpt" の動名詞形又は現在分詞形: 抜粋する
+EXCERPTS	(名詞) "excerpt" の複数形: 抜粋する\n(動詞) "excerpt" の三人称単数現在形: 抜粋する
+EXCESS	(名詞) 超過: 数量・時間などが定められた限度を超えること。\n(形容詞) excessの訳: 余分な
+EXCESSED	(excessの変化形) (名詞) 超過: 数量・時間などが定められた限度を超えること。
+EXCESSES	(excessの変化形) (名詞) 超過: 数量・時間などが定められた限度を超えること。
+EXCESSING	(excessの変化形) (名詞) 超過: 数量・時間などが定められた限度を超えること。
+EXCESSIVE	(形容詞) excessiveの訳: 過度の
+EXCESSIVELY	(副詞) excessivelyの訳: 過度に
+EXCESSIVENESS	(名詞) excessivenessの訳: ⟪過剰|かじょう⟫, ⟪過大|かだい⟫
+EXCESSIVENESSES	(名詞) "excessiveness" の複数形: ⟪過剰|かじょう⟫, ⟪過大|かだい⟫
+EXCHANGE	(動詞) exchangeの訳: 交換する\n(名詞) exchangeの訳: ⟪交換|こうかん⟫
+EXCHANGED	(動詞) exchangeの過去形・過去分詞: 交換する
+EXCHANGES	(名詞) exchangeの複数形: 交換する\n(動詞) exchangeの直説法現在第三人称単数形: 交換する
+EXCHANGING	(動詞) exchangeの動名詞又は現在分詞: 交換する
+EXCITE	(動詞) exciteの訳: 興奮させる
+EXCITED	(形容詞) excitedの訳: 興奮した\n(動詞) exciteの過去形・過去分詞: 興奮させる
+EXCITEMENT	(名詞) 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。
+EXCITEMENTS	(名詞) excitementの複数形: 興奮: 刺激を受けて神経や肉体の組織・器官などの活動が活発になること。
+EXCITER	(名詞) exciterの訳: 刺激する人, 刺激物
+EXCITERS	(名詞) "exciter" の複数形: 刺激する人, 刺激物
+EXCITES	(動詞) "excite" の三人称単数現在形: 興奮させる
+EXCITING	(動詞) exciteの現在分詞: 興奮させる。\n(形容詞) 刺激的な: 感性に影響を及ぼすさま。気持ちを興奮させるさま。 (ほかに: 感動させる, 興奮させる)
+EXCITINGLY	(副詞) 刺激的に: 新鮮で楽しい。わくわくする。学ぶ機会の多い (ほかに: 感動的に)
+EXCLAIM	(動詞) 絶叫する。叫ぶ。声を上げる。
+EXCLAIMED	(動詞) "exclaim" の過去形・過去分詞形: 絶叫する。叫ぶ。声を上げる。
+EXCLAIMING	(動詞) "exclaim" の過去形・過去分詞形: 絶叫する。叫ぶ。声を上げる。
+EXCLAIMS	(名詞) "exclaim" の複数形: 絶叫する。叫ぶ。声を上げる。\n(動詞) "exclaim" の三人称単数現在形: 絶叫する。叫ぶ。声を上げる。
+EXCLAMATION	(名詞) 叫び。絶叫。感嘆の声。
+EXCLAMATIONS	(名詞) exclamationの複数形: 叫び。絶叫。感嘆の声。
+EXCLAMATORY	(形容詞) 感嘆を表される、讃嘆に値する
+EXCLUDE	(動詞) 除外する: 取り除くこと。ある範囲からはずすこと。
+EXCLUDED	(動詞) excludeの過去形・過去分詞: 除外する: 取り除くこと。ある範囲からはずすこと。
+EXCLUDER	(excludeの変化形) (動詞) 除外する: 取り除くこと。ある範囲からはずすこと。
+EXCLUDES	(動詞) "exclude" の三人称単数現在形: 除外する: 取り除くこと。ある範囲からはずすこと。
+EXCLUDING	(前置詞) excludingの訳: ～を除いて\n(動詞) excludeの現在分詞: 除外する。
+EXCLUSION	(名詞) 除外: 取り除くこと。ある範囲からはずすこと。
+EXCLUSIONS	(名詞) exclusionの複数形: 除外: 取り除くこと。ある範囲からはずすこと。
+EXCLUSIVE	(形容詞) exclusiveの訳: 閉鎖的な\n(名詞) exclusiveの訳: 独占記事
+EXCLUSIVELY	(副詞) もっぱら: ある事柄に専念して。ひたすら。しきりに。絶えず。
+EXCLUSIVENESS	(名詞) exclusivenessの訳: 排他性
+EXCLUSIVENESSES	(名詞) exclusivenessの複数形: 排他性
+EXCLUSIVES	(名詞) exclusiveの複数形: 閉鎖的な
+EXCOMMUNICATE	(動詞) 破門: 門人や弟子などを籍から除くこと。
+EXCOMMUNICATED	(excommunicateの変化形) (動詞) 破門: 門人や弟子などを籍から除くこと。
+EXCOMMUNICATES	(excommunicateの変化形) (動詞) 破門: 門人や弟子などを籍から除くこと。
+EXCOMMUNICATING	(excommunicateの変化形) (動詞) 破門: 門人や弟子などを籍から除くこと。
+EXCOMMUNICATION	(名詞) excommunicationの訳: ⟪破門|はもん⟫
+EXCOMMUNICATIONS	(excommunicationの変化形) (名詞) excommunicationの訳: ⟪破門|はもん⟫
+EXCREMENT	(名詞) 排泄物。糞便。
+EXCREMENTS	(名詞) excrementの複数形: 排泄物。糞便。
+EXCRETA	(名詞) 老廃物。排泄物。
+EXCRETE	(動詞) 排出する。排泄する。分泌する。
+EXCRETED	(動詞) excreteの過去形・過去分詞: 排出する。排泄する。分泌する。
+EXCRETER	(excreteの変化形) (動詞) 排出する。排泄する。分泌する。
+EXCRETES	(動詞) excreteの直説法現在第三人称単数形: 排出する。排泄する。分泌する。\n(名詞) 老廃物。排泄物。
+EXCRETING	(動詞) excreteの現在分詞: 排出する。排泄する。分泌する。
+EXCRETION	(名詞) 排出。排泄。分泌。
+EXCRETIONS	(名詞) excretionの複数形: 排出。排泄。分泌。
+EXCRETORY	(形容詞) 排出の。排泄の。\n(名詞) excretoryの訳: 排出管
+EXCRUCIATE	(動詞) ひどく苦しめる。拷問にかける。
+EXCRUCIATED	(動詞) excruciateの過去形・過去分詞: ひどく苦しめる。拷問にかける。
+EXCRUCIATES	(動詞) excruciateの直説法現在第三人称単数形: ひどく苦しめる。拷問にかける。
+EXCRUCIATING	(形容詞) 非常に苦しい。耐え難い。我慢できない。\n(動詞) excruciateの現在分詞: ひどく苦しめる。拷問にかける。
+EXCRUCIATINGLY	(副詞) 耐え難いほどに。
+EXCULPATE	(動詞) 無罪を証明する。
+EXCULPATED	(動詞) exculpateの過去形・過去分詞: 無罪を証明する。
+EXCULPATES	(動詞) exculpateの直説法現在第三人称単数形: 無罪を証明する。
+EXCULPATING	(動詞) exculpateの現在分詞: 無罪を証明する。
+EXCUSE	(動詞) excuseの訳: 許す\n(名詞) 言い訳: （いいわけ）理由についての合理性・正当性に乏しい説明。いいのがれ。逃げ口上。
+EXCUSED	(動詞) excuseの過去形・過去分詞: 許す
+EXCUSES	(名詞) "excuse" の複数形: 許す\n(動詞) "excuse" の三人称単数現在形: 許す
+EXCUSING	(動詞) "excuse" の動名詞形又は現在分詞形: 許す
+EXECUTABLE	(形容詞) executableの訳: 実行形式の\n(名詞) executableの訳: 実行ファイル
+EXECUTABLES	(名詞) executableの複数形: 実行形式の。
+EXECUTE	(動詞) （案件を）始末する。法的行為を執行する。処理する。
+EXECUTED	(動詞) executeの過去形・過去分詞: （案件を）始末する。法的行為を執行する。処理する。
+EXECUTES	(動詞) executeの直説法現在第三人称単数形: （案件を）始末する。法的行為を執行する。処理する。
+EXECUTING	(動詞) executeの現在分詞: （案件を）始末する。法的行為を執行する。処理する。
+EXECUTION	(名詞) 実行: 実際に行うこと。実施。 (ほかに: 始末, 実施)
+EXECUTIONER	(名詞) executionerの訳: 死刑執行人
+EXECUTIONERS	(名詞) "executioner" の複数形: 死刑執行人
+EXECUTIONS	(名詞) executionの複数形: 実行: 実際に行うこと。実施。 (ほかに: 始末, 実施)
+EXECUTIVE	(名詞) 役員: 会社や団体で、代表したり責任のある仕事を執行する人。
+EXECUTIVES	(executiveの変化形) (名詞) 役員: 会社や団体で、代表したり責任のある仕事を執行する人。
+EXEMPT	(動詞) 免除する: 義務を取り除き、免れさせること。\n(名詞) 免除されている人。免税者。
+EXEMPTED	(動詞) "exempt" の過去形・過去分詞形: 免除する: 義務を取り除き、免れさせること。
+EXEMPTING	(動詞) "exempt" の動名詞形又は現在分詞形: 免除する: 義務を取り除き、免れさせること。
+EXEMPTION	(名詞) exemptionの訳: 免除すること
+EXEMPTIONS	(名詞) exemptionの複数形: 免除すること
+EXEMPTS	(名詞) "exempt" の複数形: 免除する: 義務を取り除き、免れさせること。\n(動詞) "exempt" の三人称単数現在形: 免除する: 義務を取り除き、免れさせること。
+EXERCISE	(名詞) 体操: 健康を増進し、身体を成長、発達させる為に、体の様々な部分を規則正しく動かす運動。 (ほかに: 運動)\n(動詞) exerciseの訳: 運動する
+EXERCISED	(動詞) exercise の過去形又は過去分詞形: 運動、体操。\n(形容詞) exercisedの訳: 行使された
+EXERCISES	(名詞) "exercise" の複数形: 体操: 健康を増進し、身体を成長、発達させる為に、体の様々な部分を規則正しく動かす運動。 (ほかに: 運動)\n(動詞) "exercise" の三人称単数現在形: 体操: 健康を増進し、身体を成長、発達させる為に、体の様々な部分を規則正しく動かす運動。 (ほかに: 運動)
+EXERCISING	(動詞) "exercise" の動名詞形又は現在分詞形: 体操: 健康を増進し、身体を成長、発達させる為に、体の様々な部分を規則正しく動かす運動。 (ほかに: 運動)
+EXERT	(動詞) 強く働きかける、努力する。
+EXERTED	(動詞) "exert" の過去形・過去分詞形: 強く働きかける、努力する。
+EXERTING	(動詞) "exert" の動名詞形又は現在分詞形: 強く働きかける、努力する。
+EXERTION	(名詞) 身体的又は精神的な努力を発現すること。
+EXERTIONS	(名詞) exertionの複数形: 身体的又は精神的な努力を発現すること。
+EXERTS	(動詞) "exert" の三人称単数現在形: 強く働きかける、努力する。
+EXHALATION	(名詞) exhalationの訳: 吐き出すこと, ⟪発散|はっさん⟫
+EXHALATIONS	(名詞) exhalationの複数形: 吐き出すこと, ⟪発散|はっさん⟫
+EXHALE	(動詞) 吐き出す: （はきだす）ごみや塵を掃いて外へ出す。
+EXHALED	(動詞) "exhale" の過去形・過去分詞形: 吐き出す: （はきだす）ごみや塵を掃いて外へ出す。
+EXHALES	(動詞) exhaleの直説法現在第三人称単数形: 吐き出す: （はきだす）ごみや塵を掃いて外へ出す。
+EXHALING	(動詞) exhaleの動名詞又は現在分詞: 吐き出す: （はきだす）ごみや塵を掃いて外へ出す。\n(名詞) exhalingの訳: 吐き出すこと
+EXHAUST	(動詞) 使い果たす。～し尽くす。\n(名詞) （ガスなど）排出、排出行為。排気。排気管。
+EXHAUSTED	(動詞) exhaustの過去形・過去分詞: 使い果たす。～し尽くす。\n(形容詞) 使い果たされた。～し尽くした。
+EXHAUSTING	(動詞) "exhaust" の動名詞又は現在分詞: 使い果たす。～し尽くす。\n(形容詞) へとへとにする。疲労困憊させる。
+EXHAUSTION	(名詞) 使い尽くすこと。
+EXHAUSTIONS	(名詞) "exhaustion" の複数形: 使い尽くすこと。
+EXHAUSTIVE	(動詞) おおう: ある範囲の中の情報や要素を網羅する。
+EXHAUSTS	(名詞) "exhaust" の複数形: 使い果たす。～し尽くす。\n(動詞) "exhaust" の三人称単数現在形: 使い果たす。～し尽くす。
+EXHIBIT	(動詞) exhibitの訳: 展示する\n(名詞) exhibitの訳: 展示品
+EXHIBITED	(動詞) exhibitの過去形・過去分詞: 展示する
+EXHIBITING	(動詞) exhibitの動名詞又は現在分詞: 展示する
+EXHIBITION	(名詞) exhibitionの訳: ⟪展示|てんじ⟫
+EXHIBITIONISM	(名詞) exhibitionismの訳: 露出症
+EXHIBITIONISMS	(exhibitionismの変化形) (名詞) exhibitionismの訳: 露出症
+EXHIBITIONS	(名詞) exhibitionの複数形: ⟪展示|てんじ⟫
+EXHIBITOR	(名詞) （展覧会などの）参加者。出品者。
+EXHIBITORS	(名詞) exhibitorの複数形: （展覧会などの）参加者。出品者。
+EXHIBITS	(名詞) exhibitの複数形: 展示する\n(動詞) exhibitの直説法現在第三人称単数形: 展示する
+EXHILARATE	(動詞) うきうきさせる、愉快にする、陽気にする。
+EXHILARATED	(動詞) exhilarateの過去形・過去分詞: うきうきさせる、愉快にする、陽気にする。
+EXHILARATES	(動詞) exhilarateの直説法現在第三人称単数形: うきうきさせる、愉快にする、陽気にする。
+EXHILARATING	(動詞) exhilarateの現在分詞: うきうきさせる、愉快にする、陽気にする。\n(形容詞) うきうきさせる。陽気にさせる。元気付ける。
+EXHILARATINGLY	(exhilarateの変化形) (動詞) うきうきさせる、愉快にする、陽気にする。
+EXHILARATION	(名詞) うきうきした気分。陽気。
+EXHILARATIONS	(名詞) exhilarationの複数形: うきうきした気分。陽気。
+EXHORT	(動詞) exhortの訳: 熱心に説く, 強く勧める
+EXHORTATION	(名詞) 説教: 反省を促すなどのために、道理や教訓などを堅苦しく話すこと。 (ほかに: 奨励, 激励)
+EXHORTATIONS	(exhortationの変化形) (名詞) 説教: 反省を促すなどのために、道理や教訓などを堅苦しく話すこと。 (ほかに: 奨励, 激励)
+EXHORTED	(動詞) exhortの過去形・過去分詞: 熱心に説く, 強く勧める
+EXHORTING	(動詞) "exhort" の動名詞形又は現在分詞形: 熱心に説く, 強く勧める
+EXHORTS	(動詞) exhortの直説法現在第三人称単数形: 熱心に説く, 強く勧める
+EXHUMATION	(名詞) 死体を掘り出すこと。
+EXHUMATIONS	(名詞) exhumationの複数形: 死体を掘り出すこと。
+EXHUME	(動詞) exhumeの訳: 掘り出す
+EXHUMED	(動詞) exhumeの過去形・過去分詞: 掘り出す
+EXHUMER	(名詞) exhumerの訳: 掘り出す人
+EXHUMES	(動詞) exhumeの直説法現在第三人称単数形: 掘り出す
+EXHUMING	(動詞) exhumeの動名詞又は現在分詞: 掘り出す
+EXIGENCE	(名詞) 要件: 必要な条件。
+EXIGENCES	(名詞) exigenceの複数形: 要件: 必要な条件。
+EXIGENCIES	(名詞) exigencyの複数形: 要件: 必要な条件。
+EXIGENCY	(名詞) 要件: 必要な条件。
+EXIGENT	(形容詞) 緊急の。切迫した。
+EXIGENTLY	(副詞) 緊急に。切迫して。
+EXIGUITIES	(名詞) exiguityの複数形: 僅か。乏しさ。
+EXIGUITY	(名詞) 僅か。乏しさ。
+EXIGUOUS	(形容詞) 僅かな。乏しい。
+EXIGUOUSLY	(副詞) 僅かに。乏しく。
+EXILE	(名詞) 亡命: 政治上の理由などにより本国を脱出し他国に逃れること。\n(動詞) exileの訳: 追放する, 流刑にする
+EXILED	(動詞) exileの過去形・過去分詞: 亡命: 政治上の理由などにより本国を脱出し他国に逃れること。
+EXILES	(名詞) "exile" の複数形: 亡命: 政治上の理由などにより本国を脱出し他国に逃れること。\n(動詞) "exile" の三人称単数現在形: 亡命: 政治上の理由などにより本国を脱出し他国に逃れること。
+EXILING	(動詞) exileの動名詞又は現在分詞: 亡命: 政治上の理由などにより本国を脱出し他国に逃れること。
+EXIMIOUS	(名詞) eximiousの訳: 卓説
+EXIST	(動詞) 存在する: （そんざいする）特定の時に特定の場にある、いる。出現し、そのままとどまっている状態にある。実在する。
+EXISTED	(動詞) existの過去形・過去分詞: 存在する: （そんざいする）特定の時に特定の場にある、いる。出現し、そのままとどまっている状態にある。実在する。
+EXISTENCE	(名詞) 存在。実在。
+EXISTENCES	(名詞) existenceの複数形: 存在。実在。
+EXISTENT	(形容詞) 存在する: （そんざいする）特定の時に特定の場にある、いる。出現し、そのままとどまっている状態にある。実在する。 (ほかに: 生存する, 現在の)\n(名詞) existentの訳: 存在者
+EXISTENTIAL	(形容詞) 存在の。実在の。
+EXISTENTIALISM	(名詞) existentialismの訳: 実存主義
+EXISTENTIALISMS	(名詞) existentialismの複数形: 実存主義
+EXISTENTIALIST	(名詞) existentialistの訳: 実存主義者\n(形容詞) existentialistの訳: 実存主義の
+EXISTENTIALISTS	(名詞) existentialistの複数形: 実存主義者
+EXISTENTIALLY	(existentialの変化形) (形容詞) 存在の。実在の。
+EXISTENTS	(existentの変化形) (形容詞) 存在する: （そんざいする）特定の時に特定の場にある、いる。出現し、そのままとどまっている状態にある。実在する。 (ほかに: 生存する, 現在の)
+EXISTING	(形容詞) 現在の: 現に存在すること。実在。\n(動詞) existの現在分詞: 存在する: （そんざいする）特定の時に特定の場にある、いる。出現し、そのままとどまっている状態にある。実在する。
+EXISTS	(動詞) "exist" の三人称単数現在形: 存在する: （そんざいする）特定の時に特定の場にある、いる。出現し、そのままとどまっている状態にある。実在する。
+EXIT	(名詞) exitの訳: ⟪出口|しゅっこう⟫\n(動詞) exitの訳: 出る
+EXITED	(動詞) exitの過去形・過去分詞: ⟪出口|しゅっこう⟫
+EXITING	(動詞) exitの動名詞又は現在分詞: ⟪出口|しゅっこう⟫\n(名詞) 退場: 城から退出すること。 (ほかに: 退出, 終了)
+EXITS	(名詞) exitの複数形: ⟪出口|しゅっこう⟫\n(動詞) exitの直説法現在第三人称単数形: ⟪出口|しゅっこう⟫
+EXODUS	(名詞) 集団移動。集団脱出。
+EXODUSES	(名詞) exodusの複数形: 集団移動。集団脱出。
+EXONERATE	(動詞) 義務から解き放つ。
+EXONERATED	(形容詞) exoneratedの訳: 無罪となった\n(動詞) exonerate の過去形又は過去分詞形: 義務から解き放つ。
+EXONERATES	(動詞) exonerate の直説法三人称単数現在形: 義務から解き放つ。
+EXONERATING	(動詞) exonerate の動名詞又は現在分詞: 義務から解き放つ。
+EXOSPHERE	(名詞) 外気圏: 熱圏の上、高度800kmから1万kmほどまで広がる大気の最外層。
+EXOSPHERES	(名詞) exosphereの複数形: 外気圏: 熱圏の上、高度800kmから1万kmほどまで広がる大気の最外層。
+EXOTIC	(形容詞) 外来の。外国の。外国産の。侵入した。\n(名詞) 外来種。外来のもの。
+EXOTICS	(exoticの変化形) (形容詞) 外来の。外国の。外国産の。侵入した。
+EXPAND	(動詞) 広げる。大きくする。膨らます。拡大する。膨張させる。
+EXPANDED	(動詞) expandの過去形・過去分詞: 広げる。大きくする。膨らます。拡大する。膨張させる。
+EXPANDING	(動詞) expandの動名詞又は現在分詞: 広げる。大きくする。膨らます。拡大する。膨張させる。
+EXPANDS	(名詞) expandの複数形: 広げる。大きくする。膨らます。拡大する。膨張させる。\n(動詞) expandの直説法現在第三人称単数形: 広げる。大きくする。膨らます。拡大する。膨張させる。
+EXPANSE	(名詞) 広がり。広大な空間。一面。一帯。
+EXPANSES	(名詞) expanseの複数形: 広がり。広大な空間。一面。一帯。
+EXPANSION	(名詞) 拡大。拡張。膨張。
+EXPANSIONS	(名詞) expansionの複数形: 拡大。拡張。膨張。
+EXPANSIVE	(形容詞) expansiveの訳: 広大な
+EXPATIATE	(動詞) 敷衍: （文章，談話などに）趣旨や意味を押し広げて詳しく説明すること。
+EXPATIATED	(expatiateの変化形) (動詞) 敷衍: （文章，談話などに）趣旨や意味を押し広げて詳しく説明すること。
+EXPATIATES	(expatiateの変化形) (動詞) 敷衍: （文章，談話などに）趣旨や意味を押し広げて詳しく説明すること。
+EXPATIATING	(expatiateの変化形) (動詞) 敷衍: （文章，談話などに）趣旨や意味を押し広げて詳しく説明すること。
+EXPATIATION	(名詞) 敷衍: （文章，談話などに）趣旨や意味を押し広げて詳しく説明すること。
+EXPATIATIONS	(expatiationの変化形) (名詞) 敷衍: （文章，談話などに）趣旨や意味を押し広げて詳しく説明すること。
+EXPATRIATE	(名詞) expatriateの訳: 国外追放者
+EXPATRIATED	(expatriateの変化形) (名詞) expatriateの訳: 国外追放者
+EXPATRIATES	(expatriateの変化形) (名詞) expatriateの訳: 国外追放者
+EXPATRIATING	(expatriateの変化形) (名詞) expatriateの訳: 国外追放者
+EXPECT	(動詞) 予想する。予期する。...が起こると考える。
+EXPECTANCIES	(expectancyの変化形) (名詞) 期待: 好ましい状態の実現を心の中で待ち望んでいる様子。
+EXPECTANCY	(名詞) 期待: 好ましい状態の実現を心の中で待ち望んでいる様子。
+EXPECTANT	(形容詞) expectantの訳: 期待に満ちた
+EXPECTANTLY	(副詞) expectantlyの訳: 期待して
+EXPECTANTS	(expectantの変化形) (形容詞) expectantの訳: 期待に満ちた
+EXPECTATION	(名詞) expectationの訳: 予想
+EXPECTATIONS	(名詞) expectationの複数形: 予想
+EXPECTED	(動詞) expectの過去形・過去分詞: 予想する。予期する。...が起こると考える。\n(形容詞) 予想された、予想内の、想定内の、織り込み済みの。
+EXPECTEDLY	(副詞) expectedlyの訳: 期待して, 予想どおりに
+EXPECTING	(動詞) "expect" の動名詞形又は現在分詞形: 予想する。予期する。...が起こると考える。
+EXPECTORANT	(名詞) expectorantの訳: 去痰薬
+EXPECTORANTS	(名詞) expectorantの複数形: 去痰薬
+EXPECTORATE	(動詞) 吐く: （はく）口の中や体内にあるものを、口から外に出す。
+EXPECTORATED	(動詞) expectorateの過去形・過去分詞: 吐く: （はく）口の中や体内にあるものを、口から外に出す。
+EXPECTORATES	(動詞) expectorateの直説法現在第三人称単数形: 吐く: （はく）口の中や体内にあるものを、口から外に出す。
+EXPECTORATING	(動詞) expectorateの現在分詞: 吐く: （はく）口の中や体内にあるものを、口から外に出す。
+EXPECTORATION	(名詞) expectorationの訳: 吐くこと
+EXPECTORATIONS	(名詞) expectorationの複数形: 吐くこと
+EXPECTS	(動詞) "expect" の三人称単数現在形: 予想する。予期する。...が起こると考える。
+EXPEDIENCIES	(名詞) expediencyの複数形: 好都合, 便宜
+EXPEDIENCY	(名詞) expediencyの訳: 好都合, 便宜
+EXPEDIENT	(形容詞) expedientの訳: 好都合な, 時宜に適った\n(名詞) expedientの訳: ⟪手段|しゅだん⟫, 方法, 方便
+EXPEDIENTS	(名詞) expedientの複数形: 好都合な, 時宜に適った
+EXPEDITE	(動詞) 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 捗らせる)\n(形容詞) expediteの訳: 邪魔のない
+EXPEDITED	(expediteの変化形) (動詞) 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 捗らせる)
+EXPEDITER	(expediteの変化形) (動詞) 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 捗らせる)
+EXPEDITES	(動詞) expediteの直説法現在第三人称単数形: 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 捗らせる)
+EXPEDITING	(動詞) expediteの現在分詞: 促進する: 物事が進むように促すこと。そのように努力すること。 (ほかに: 捗らせる)
+EXPEDITION	(名詞) expeditionの訳: 探検, 遠征
+EXPEDITIONARY	(形容詞) expeditionaryの訳: 遠征の
+EXPEDITIONS	(名詞) expeditionの複数形: 探検, 遠征
+EXPEDITIOUS	(形容詞) 迅速な: 動きが速いこと。
+EXPEDITIOUSLY	(副詞) expeditiouslyの訳: 迅速に
+EXPEL	(動詞) 追い出す。放出する。排気する。
+EXPELLED	(動詞) expelの過去形・過去分詞: 追い出す。放出する。排気する。
+EXPELLING	(動詞) "expel" の動名詞形又は現在分詞形: 追い出す。放出する。排気する。
+EXPELS	(動詞) expelの直説法現在第三人称単数形: 追い出す。放出する。排気する。
+EXPEND	(動詞) 使う: 身体機能や体力などを消費する。 (ほかに: 消費する)
+EXPENDED	(動詞) "expend" の過去形・過去分詞: 使う: 身体機能や体力などを消費する。 (ほかに: 消費する)
+EXPENDING	(動詞) "expend" の動名詞又は現在分詞: 使う: 身体機能や体力などを消費する。 (ほかに: 消費する)
+EXPENDITURE	(名詞) 歳出: 国家又は地方公共団体の会計年度内の支出の合計。 (ほかに: 支出行為, 消費行為)
+EXPENDITURES	(名詞) expenditureの複数形: 歳出: 国家又は地方公共団体の会計年度内の支出の合計。 (ほかに: 支出行為, 消費行為)
+EXPENDS	(動詞) expendの現在第三人称単数形。
+EXPENSE	(名詞) 支出: 一定の目的に金品を支払うこと。また、その金品。
+EXPENSED	(expenseの変化形) (名詞) 支出: 一定の目的に金品を支払うこと。また、その金品。
+EXPENSES	(名詞) "expense" の複数形: 支出: 一定の目的に金品を支払うこと。また、その金品。
+EXPENSING	(expenseの変化形) (名詞) 支出: 一定の目的に金品を支払うこと。また、その金品。
+EXPENSIVE	(形容詞) 高い: 【高い、貴い】値段が上である。多くの経費を要する。「高い書物を買う」 (ほかに: 高価な)
+EXPENSIVELY	(副詞) 高価に: 値段の高い様子。
+EXPERIENCE	(名詞) 経験。体験。実際に行うこと。\n(動詞) 経験する。体験する。
+EXPERIENCED	(動詞) experience の過去形又は過去分詞形: 経験。体験。実際に行うこと。\n(形容詞) experiencedの訳: 経験を積んだ
+EXPERIENCES	(名詞) "experience" の複数形: 経験。体験。実際に行うこと。\n(動詞) "experience" の三人称単数現在形: 経験。体験。実際に行うこと。
+EXPERIENCING	(動詞) "experience" の動名詞形又は現在分詞形: 経験。体験。実際に行うこと。
+EXPERIMENT	(名詞) 実験: 試験的にやってみること。\n(動詞) experimentの訳: 実験する
+EXPERIMENTAL	(形容詞) experimentalの訳: 実験的な
+EXPERIMENTALLY	(副詞) experimentallyの訳: 実験的に
+EXPERIMENTATION	(名詞) 実験: 試験的にやってみること。 (ほかに: 試すこと)
+EXPERIMENTATIONS	(名詞) experimentationの複数形: 実験: 試験的にやってみること。 (ほかに: 試すこと)
+EXPERIMENTED	(動詞) experimentの過去形・過去分詞: 実験: 試験的にやってみること。
+EXPERIMENTER	(名詞) experimenterの訳: 実験者
+EXPERIMENTERS	(experimenterの変化形) (名詞) experimenterの訳: 実験者
+EXPERIMENTING	(動詞) "experiment" の動名詞形又は現在分詞形: 実験: 試験的にやってみること。
+EXPERIMENTS	(名詞) experimentの複数形: 実験: 試験的にやってみること。\n(動詞) experimentの直説法現在第三人称単数形: 実験: 試験的にやってみること。
+EXPERT	(形容詞) expertの訳: 熟練した, 専門家の, 専門的な\n(名詞) 専門家: 特定の分野に関する高度な知識や技能を有する人。 (ほかに: 熟練した人)
+EXPERTED	(expertの変化形) (形容詞) expertの訳: 熟練した, 専門家の, 専門的な
+EXPERTING	(expertの変化形) (形容詞) expertの訳: 熟練した, 専門家の, 専門的な
+EXPERTISE	(名詞) expertiseの訳: 専門的知識
+EXPERTISES	(名詞) expertiseの複数形: 専門的知識
+EXPERTLY	(副詞) 上手に。巧みに。専門的に。
+EXPERTNESS	(名詞) expertnessの訳: 練達
+EXPERTNESSES	(名詞) expertnessの複数形: 練達
+EXPERTS	(名詞) expertの複数形: 熟練した, 専門家の, 専門的な
+EXPIATE	(動詞) （罪などを）償う。贖う。
+EXPIATED	(動詞) expiateの過去形・過去分詞: （罪などを）償う。贖う。
+EXPIATES	(動詞) expiateの直説法現在第三人称単数形: （罪などを）償う。贖う。
+EXPIATING	(動詞) expiateの現在分詞: （罪などを）償う。贖う。
+EXPIATION	(名詞) 贖罪。罪滅ぼし。
+EXPIATIONS	(名詞) expiationの複数形: 贖罪。罪滅ぼし。
+EXPIRATION	(名詞) 呼気。息を吐くこと。
+EXPIRATIONS	(名詞) expirationの複数形: 呼気。息を吐くこと。
+EXPIRE	(動詞) expireの訳: 息を吐き出す
+EXPIRED	(動詞) expireの過去形・過去分詞: 息を吐き出す\n(形容詞) 満了の。期限切れの。失効した。
+EXPIRER	(expireの変化形) (動詞) expireの訳: 息を吐き出す
+EXPIRES	(動詞) expireの直説法現在第三人称単数形: 息を吐き出す
+EXPIRIES	(expiryの変化形) (名詞) expiryの訳: 呼気
+EXPIRING	(形容詞) 息を引き取ろうとしている。\n(動詞) expireの動名詞又は現在分詞: 息を吐き出す
+EXPIRY	(名詞) expiryの訳: 呼気
+EXPLAIN	(動詞) 説く。説明する。解釈する。
+EXPLAINABLE	(動詞) わりきれる: 解ける。答えを出せる。説明がつく。解明の余地がある。
+EXPLAINED	(動詞) "explain" の過去形・過去分詞形: 説く。説明する。解釈する。
+EXPLAINING	(動詞) "explain" の動名詞形又は現在分詞形: 説く。説明する。解釈する。
+EXPLAINS	(動詞) "explain" の三人称単数現在形: 説く。説明する。解釈する。
+EXPLANATION	(名詞) 説明: それがどんなものかを相手に分かるように言うこと。
+EXPLANATIONS	(名詞) "explanation" の複数形: 説明: それがどんなものかを相手に分かるように言うこと。
+EXPLANATORILY	(explanatoryの変化形) (形容詞) explanatoryの訳: 説明のための
+EXPLANATORY	(形容詞) explanatoryの訳: 説明のための
+EXPLICABLE	(形容詞) （現象が）割り切れる。説明がつく。
+EXPLICATE	(動詞) 解釈する: 文章、物事、思想などの意味をときあかすこと。自身の判断力に照らして理解すること。 (ほかに: 説明する, 解明する)
+EXPLICATED	(explicateの変化形) (動詞) 解釈する: 文章、物事、思想などの意味をときあかすこと。自身の判断力に照らして理解すること。 (ほかに: 説明する, 解明する)
+EXPLICATES	(explicateの変化形) (動詞) 解釈する: 文章、物事、思想などの意味をときあかすこと。自身の判断力に照らして理解すること。 (ほかに: 説明する, 解明する)
+EXPLICATING	(explicateの変化形) (動詞) 解釈する: 文章、物事、思想などの意味をときあかすこと。自身の判断力に照らして理解すること。 (ほかに: 説明する, 解明する)
+EXPLICATION	(名詞) 解釈: 文章、物事、思想などの意味をときあかすこと。自身の判断力に照らして理解すること。 (ほかに: 説明, 解説)
+EXPLICATIONS	(名詞) explicationの複数形: 解釈: 文章、物事、思想などの意味をときあかすこと。自身の判断力に照らして理解すること。 (ほかに: 説明, 解説)
+EXPLICATIVE	(形容詞) explicativeの訳: 説明のための
+EXPLICATIVELY	(explicativeの変化形) (形容詞) explicativeの訳: 説明のための
+EXPLICIT	(形容詞) 明確な: 物事がはっきりしていて、明らかで確実なこと。 (ほかに: 明快な, はっきりした)
+EXPLICITLY	(副詞) 明確に: 物事がはっきりしていて、明らかで確実なこと。 (ほかに: 率直に)
+EXPLICITS	(explicitの変化形) (形容詞) 明確な: 物事がはっきりしていて、明らかで確実なこと。 (ほかに: 明快な, はっきりした)
+EXPLODE	(動詞) 爆発する: 熱や音・光などを伴い、一気に飛び散ること。 (ほかに: 破裂する)
+EXPLODED	(動詞) "explode" の過去形・過去分詞形: 爆発する: 熱や音・光などを伴い、一気に飛び散ること。 (ほかに: 破裂する)
+EXPLODES	(動詞) explodeの直説法現在第三人称単数形: 爆発する: 熱や音・光などを伴い、一気に飛び散ること。 (ほかに: 破裂する)
+EXPLODING	(動詞) "explode" の動名詞形又は現在分詞形: 爆発する: 熱や音・光などを伴い、一気に飛び散ること。 (ほかに: 破裂する)
+EXPLOIT	(名詞) exploitの訳: 功績, 偉業, ⟪手柄|てがら⟫\n(動詞) 活用する: （かつようする）〔人や物の〕能力や機能を十分に活かし、用いる。 (ほかに: 利用する)
+EXPLOITATION	(名詞) 開発: 未開の土地を切り拓き、人間が利用できるようにすること。大規模な設備・施設・住宅などを建設すること。 (ほかに: 開拓)
+EXPLOITATIONS	(exploitationの変化形) (名詞) 開発: 未開の土地を切り拓き、人間が利用できるようにすること。大規模な設備・施設・住宅などを建設すること。 (ほかに: 開拓)
+EXPLOITATIVE	(形容詞) exploitativeの訳: 搾取的な
+EXPLOITED	(動詞) exploitの過去形・過去分詞: 功績, 偉業, ⟪手柄|てがら⟫
+EXPLOITER	(名詞) exploiterの訳: 搾取者\n(動詞) 活用する: （かつようする）〔人や物の〕能力や機能を十分に活かし、用いる。 (ほかに: 利用する)
+EXPLOITERS	(名詞) exploiterの複数形: 搾取者\n(動詞) exploiterの直説法現在第三人称単数形: 搾取者
+EXPLOITING	(動詞) exploitの現在分詞: 功績, 偉業, ⟪手柄|てがら⟫
+EXPLOITS	(名詞) exploitの複数形: 功績, 偉業, ⟪手柄|てがら⟫\n(動詞) exploitの直説法現在第三人称単数形: 功績, 偉業, ⟪手柄|てがら⟫
+EXPLORATION	(名詞) 調査: 物事の実態などを明らかにするために調べること。サーベイ。 (ほかに: 探検, 探査)
+EXPLORATIONS	(名詞) explorationの複数形: 調査: 物事の実態などを明らかにするために調べること。サーベイ。 (ほかに: 探検, 探査)
+EXPLORE	(動詞) exploreの訳: 探検する
+EXPLORED	(動詞) "explore" の過去形・過去分詞形: 探検する
+EXPLORER	(名詞) 探検家: 探索すべき余地がある未知の領域に直接赴いて調査する人々。エクスプローラー。 (ほかに: 調査隊員, 調査機械)
+EXPLORERS	(名詞) explorerの複数形: 探検家: 探索すべき余地がある未知の領域に直接赴いて調査する人々。エクスプローラー。 (ほかに: 調査隊員, 調査機械)
+EXPLORES	(動詞) exploreの直説法現在第三人称単数形: 探検する
+EXPLORING	(動詞) "explore" の動名詞形又は現在分詞形: 探検する
+EXPLOSION	(名詞) 爆発: 熱や音・光などを伴い、一気に飛び散ること。 (ほかに: 破裂, 爆破)
+EXPLOSIONS	(名詞) explosionの複数形: 爆発: 熱や音・光などを伴い、一気に飛び散ること。 (ほかに: 破裂, 爆破)
+EXPLOSIVE	(形容詞) explosiveの訳: 爆発性の\n(名詞) 爆発物: 衝撃や火気により爆発を起こすような物質やもの。 (ほかに: 爆薬, 火薬)
+EXPLOSIVELY	(副詞) 急激に: 物事の変化・動きが急で激しいこと。 (ほかに: 爆発的に)
+EXPLOSIVES	(名詞) explosiveの複数形: 爆発性の
+EXPONENT	(名詞) 主唱者。説明者。
+EXPONENTIAL	(形容詞) exponentialの訳: 指数の\n(名詞) 指数関数: 冪における指数を変数として、その定義域を主に実数の全体へ拡張して定義される初等超越関数の一種。0 でない正の実数 a と変数 x に対して y=aˣ などの形で表される関数。
+EXPONENTIALLY	(副詞) exponentiallyの訳: 急激に
+EXPONENTIALS	(名詞) exponentialの複数形: 指数の
+EXPONENTS	(名詞) exponentの複数形: 主唱者。説明者。
+EXPORT	(名詞) 輸出: 自国の商品を他国へ売ること。\n(動詞) exportの訳: 輸出する
+EXPORTABLE	(形容詞) 輸出できる。輸出向きの。\n(名詞) exportableの訳: 輸出できる物
+EXPORTATION	(名詞) 輸出: 自国の商品を他国へ売ること。
+EXPORTATIONS	(exportationの変化形) (名詞) 輸出: 自国の商品を他国へ売ること。
+EXPORTED	(動詞) "export" の過去形・過去分詞形: 輸出: 自国の商品を他国へ売ること。
+EXPORTER	(名詞) 輸出業者。輸出国。
+EXPORTERS	(名詞) exporterの複数形: 輸出業者。輸出国。
+EXPORTING	(動詞) "export" の動名詞形又は現在分詞形: 輸出: 自国の商品を他国へ売ること。
+EXPORTS	(名詞) exportの複数形: 輸出: 自国の商品を他国へ売ること。\n(動詞) exportの直説法現在第三人称単数形: 輸出: 自国の商品を他国へ売ること。
+EXPOSE	(動詞) exposeの訳: 晒す
+EXPOSED	(動詞) exposeの過去形・過去分詞: 晒す\n(形容詞) 晒された。剝き出しの。
+EXPOSER	(名詞) 晒す人。暴露する人。
+EXPOSERS	(名詞) exposerの複数形: 晒す人。暴露する人。
+EXPOSES	(動詞) exposeの直説法現在第三人称単数形: 晒す
+EXPOSING	(動詞) exposeの動名詞又は現在分詞: 晒す
+EXPOSITION	(名詞) expositionの訳: 展覧会, 博覧会
+EXPOSITIONS	(名詞) expositionの複数形: 展覧会, 博覧会
+EXPOSURE	(名詞) exposureの訳: 晒すこと
+EXPOSURES	(名詞) exposureの複数形: 晒すこと
+EXPOUND	(動詞) 詳しく説明する、解説する。
+EXPOUNDED	(動詞) expoundの過去形・過去分詞: 詳しく説明する、解説する。
+EXPOUNDER	(名詞) 詳しく説明する人。
+EXPOUNDERS	(名詞) expounderの複数形: 詳しく説明する人。
+EXPOUNDING	(動詞) expoundの現在分詞: 詳しく説明する、解説する。\n(名詞) 詳説: 詳細に説明すること。また、その説明。 (ほかに: 解説)
+EXPOUNDS	(動詞) expoundの直説法現在第三人称単数形: 詳しく説明する、解説する。
+EXPRESS	(動詞) 表現する。表す。\n(名詞) expressの訳: 急行列車
+EXPRESSED	(動詞) "express" の過去形・過去分詞形: 表現する。表す。
+EXPRESSER	(expressの変化形) (動詞) 表現する。表す。
+EXPRESSES	(名詞) "express" の複数形: 表現する。表す。\n(動詞) "express" の三人称単数現在形: 表現する。表す。
+EXPRESSING	(動詞) "express" の動名詞形又は現在分詞形: 表現する。表す。
+EXPRESSION	(名詞) 表現: 内心の思想、心情、感情といった主観的なものを、他者に理解させる目的で、視覚や聴覚などにより客観的なものとして作出すること及びその様式。
+EXPRESSIONLESS	(形容詞) expressionlessの訳: 無表情な
+EXPRESSIONLESSLY	(expressionlessの変化形) (形容詞) expressionlessの訳: 無表情な
+EXPRESSIONS	(名詞) expressionの複数形: 表現: 内心の思想、心情、感情といった主観的なものを、他者に理解させる目的で、視覚や聴覚などにより客観的なものとして作出すること及びその様式。
+EXPRESSIVE	(形容詞) 表す: 「あらわす」参照。 (ほかに: 表現する)\n(名詞) expressiveの訳: 表出型
+EXPRESSIVELY	(副詞) expressivelyの訳: 表現豊かに, 意味ありげに
+EXPRESSIVENESS	(名詞) expressivenessの訳: 表現力
+EXPRESSIVENESSES	(名詞) expressivenessの複数形: 表現力
+EXPRESSLY	(副詞) 明確に: 物事がはっきりしていて、明らかで確実なこと。 (ほかに: はっきりと)
+EXPULSE	(動詞) 追い。追放する。
+EXPULSED	(動詞) expulseの過去形・過去分詞: 追い。追放する。
+EXPULSES	(動詞) expulseの直説法現在第三人称単数形: 追い。追放する。
+EXPULSING	(動詞) expulseの現在分詞: 追い。追放する。
+EXPULSION	(名詞) 追放。排除。除名。除籍。
+EXPULSIONS	(名詞) expulsionの複数形: 追放。排除。除名。除籍。
+EXPUNCTION	(名詞) 抹消。削除。
+EXPUNCTIONS	(名詞) expunctionの複数形: 抹消。削除。
+EXPUNGE	(動詞) 消し去る。抹消する。
+EXPUNGED	(動詞) expungeの過去形・過去分詞: 消し去る。抹消する。
+EXPUNGER	(名詞) 抹消する人。削除する人。
+EXPUNGES	(動詞) expungeの直説法現在第三人称単数形: 消し去る。抹消する。
+EXPUNGING	(動詞) expungeの現在分詞: 消し去る。抹消する。\n(名詞) 抹消。削除。
+EXTANT	(形容詞) 現存している。残存する。
+EXTEMPORANEOUS	(形容詞) （スピーチなどが）即席の、打っ付け本番の
+EXTEMPORE	(形容詞) extemporeの訳: 即席の, 即興の\n(副詞) extemporeの訳: 即席で, 即興で
+EXTEMPORISE	(動詞) 即興で演説する
+EXTEMPORISED	(動詞) extemporiseの過去形・過去分詞: 即興で演説する
+EXTEMPORISES	(動詞) extemporiseの直説法現在第三人称単数形: 即興で演説する
+EXTEMPORISING	(動詞) extemporiseの現在分詞: 即興で演説する
+EXTEMPORIZE	(動詞) 即興で演説する
+EXTEMPORIZED	(動詞) extemporizeの過去形・過去分詞: 即興で演説する
+EXTEMPORIZES	(動詞) extemporizeの直説法現在第三人称単数形: 即興で演説する
+EXTEMPORIZING	(動詞) extemporizeの現在分詞: 即興で演説する
+EXTEND	(動詞) extendの訳: 延ばす, 延長する
+EXTENDED	(動詞) extendの過去形・過去分詞: 延ばす, 延長する\n(形容詞) 伸ばされた、引き伸ばされた。
+EXTENDING	(動詞) extendの動名詞又は現在分詞: 延ばす, 延長する
+EXTENDS	(動詞) extendの直説法現在第三人称単数形: 延ばす, 延長する
+EXTENSIBLE	(形容詞) 伸ばせる。延長できる。
+EXTENSION	(名詞) 延長: 終期を繰り延べて期間を長くすること。 (ほかに: 拡張, 拡大)
+EXTENSIONS	(名詞) extensionの複数形: 延長: 終期を繰り延べて期間を長くすること。 (ほかに: 拡張, 拡大)
+EXTENSIVE	(形容詞) 広い: 【広い、博い、普い、汎い】範囲が多方面に及んでいる。 (ほかに: 広大な)
+EXTENSIVELY	(副詞) extensivelyの訳: ⟪広く|ひろく⟫, 広範に, 大規模に
+EXTENSOR	(名詞) 伸筋: 脊椎動物で関節を伸展させる働きをする筋肉。
+EXTENSORS	(名詞) extensorの複数形: 伸筋: 脊椎動物で関節を伸展させる働きをする筋肉。
+EXTENT	(名詞) extentの訳: 広さ
+EXTENTS	(名詞) extentの複数形: 広さ
+EXTENUATE	(動詞) （罪などを）軽くする。酌量する。
+EXTENUATED	(動詞) extenuateの過去形・過去分詞: （罪などを）軽くする。酌量する。
+EXTENUATES	(動詞) extenuateの直説法現在第三人称単数形: （罪などを）軽くする。酌量する。
+EXTENUATING	(extenuateの変化形) (動詞) （罪などを）軽くする。酌量する。
+EXTERIOR	(形容詞) 外部の。外側の。\n(名詞) 外部。外面。外観。
+EXTERIORS	(名詞) exteriorの複数形: 外部の。外側の。
+EXTERMINATE	(動詞) 絶滅させる。根絶する。駆除する。
+EXTERMINATED	(動詞) exterminateの過去形・過去分詞: 絶滅させる。根絶する。駆除する。
+EXTERMINATES	(動詞) exterminateの直説法現在第三人称単数形: 絶滅させる。根絶する。駆除する。
+EXTERMINATING	(動詞) exterminateの現在分詞: 絶滅させる。根絶する。駆除する。
+EXTERMINATION	(名詞) 絶滅。根絶。駆除。
+EXTERMINATIONS	(名詞) exterminationの複数形: 絶滅。根絶。駆除。
+EXTERN	(名詞) 通学生。通勤医師。
+EXTERNAL	(形容詞) 外部の: ある位相空間と、その位相空間のある部分集合を考えるとき、その部分集合の全ての外点から成る集合。 (ほかに: 外側の, 外面の)
+EXTERNALIZATION	(名詞) 外面化。具体化。
+EXTERNALIZATIONS	(名詞) externalizationの複数形: 外面化。具体化。
+EXTERNALIZE	(動詞) 外面化する。具体化する。
+EXTERNALIZED	(動詞) externalizeの過去形・過去分詞: 外面化する。具体化する。
+EXTERNALIZES	(動詞) externalizeの直説法現在第三人称単数形: 外面化する。具体化する。
+EXTERNALIZING	(動詞) externalizeの現在分詞: 外面化する。具体化する。
+EXTERNALLY	(副詞) 外部から。対外的に。外面的に
+EXTERNALS	(externalの変化形) (形容詞) 外部の: ある位相空間と、その位相空間のある部分集合を考えるとき、その部分集合の全ての外点から成る集合。 (ほかに: 外側の, 外面の)
+EXTERNE	(名詞) 通学生。通勤医師。
+EXTERNES	(名詞) externeの複数形: 通学生。通勤医師。
+EXTERNS	(名詞) externの複数形: 通学生。通勤医師。
+EXTINCT	(形容詞) extinctの訳: 絶滅した, 死に絶えた
+EXTINCTED	(extinctの変化形) (形容詞) extinctの訳: 絶滅した, 死に絶えた
+EXTINCTING	(extinctの変化形) (形容詞) extinctの訳: 絶滅した, 死に絶えた
+EXTINCTION	(名詞) 絶滅；死に絶えること；残らず死ぬこと。残らず消滅すること。
+EXTINCTIONS	(名詞) "extinction" の複数形: 絶滅；死に絶えること；残らず死ぬこと。残らず消滅すること。
+EXTINCTS	(extinctの変化形) (形容詞) extinctの訳: 絶滅した, 死に絶えた
+EXTINGUISH	(動詞) 消す: （けす）殺す。存在をなくす。
+EXTINGUISHABLE	(形容詞) extinguishableの訳: 消火できる
+EXTINGUISHED	(動詞) extinguishの過去形・過去分詞: 消す: （けす）殺す。存在をなくす。\n(形容詞) 消された。消火された。
+EXTINGUISHER	(名詞) 消す道具。鎮静装置。
+EXTINGUISHERS	(名詞) extinguisherの複数形: 消す道具。鎮静装置。
+EXTINGUISHES	(extinguishの変化形) (動詞) 消す: （けす）殺す。存在をなくす。
+EXTINGUISHING	(動詞) extinguishの動名詞又は現在分詞: 消す: （けす）殺す。存在をなくす。
+EXTIRPATE	(動詞) (植物を) 根こそぎにする。
+EXTIRPATED	(動詞) extirpateの過去形・過去分詞: (植物を) 根こそぎにする。\n(形容詞) extirpatedの訳: 絶滅した
+EXTIRPATES	(動詞) extirpateの直接法現在第三人称単数形。
+EXTIRPATING	(動詞) extirpateの現在分詞: (植物を) 根こそぎにする。
+EXTIRPATION	(名詞) 根絶。撲滅。
+EXTIRPATIONS	(名詞) extirpationの複数形: 根絶。撲滅。
+EXTOL	(動詞) 絶賛する。激賞する。
+EXTOLLED	(動詞) extol, extollの過去形・過去分詞。
+EXTOLLING	(動詞) extol, extollの現在分詞。
+EXTOLS	(動詞) extolの直説法現在第三人称単数形: 絶賛する。激賞する。
+EXTORT	(動詞) extortの訳: ⟪巻き上げる|まきあげる⟫, ⟪ゆする⟫
+EXTORTED	(動詞) extortの過去形・過去分詞: ⟪巻き上げる|まきあげる⟫, ⟪ゆする⟫
+EXTORTING	(動詞) extortの現在分詞: ⟪巻き上げる|まきあげる⟫, ⟪ゆする⟫
+EXTORTION	(名詞) extortionの訳: 強奪, ⟪強要|きょうよう⟫, ⟪ゆすり⟫
+EXTORTIONATE	(形容詞) （値段や要求が）法外な。途方もない。
+EXTORTIONER	(名詞) 強要する人。ゆすり。
+EXTORTIONERS	(名詞) extortionerの複数形: 強要する人。ゆすり。
+EXTORTIONIST	(名詞) 強奪者。強要者。恐喝者。
+EXTORTIONISTS	(名詞) extortionistの複数形: 強奪者。強要者。恐喝者。
+EXTORTIONS	(名詞) extortionの複数形: 強奪, ⟪強要|きょうよう⟫, ⟪ゆすり⟫
+EXTORTS	(動詞) extortの直説法現在第三人称単数形: ⟪巻き上げる|まきあげる⟫, ⟪ゆする⟫
+EXTRA	(形容詞) 追加の、余分な。期待や期限以上の。\n(副詞) extraの訳: 並外れて
+EXTRACT	(名詞) extractの訳: 抽出物\n(動詞) extractの訳: 抽出する
+EXTRACTED	(動詞) extractの過去形・過去分詞: 抽出物
+EXTRACTING	(動詞) extractの動名詞又は現在分詞: 抽出物
+EXTRACTION	(名詞) 抽出: 液体または固体の混合物を溶媒と接触させて特定の成分を溶かして分離する操作。
+EXTRACTIONS	(名詞) extractionの複数形: 抽出: 液体または固体の混合物を溶媒と接触させて特定の成分を溶かして分離する操作。
+EXTRACTS	(名詞) extractの複数形: 抽出物\n(動詞) extractの直説法現在第三人称単数形: 抽出物
+EXTRAGALACTIC	(形容詞) extragalacticの訳: 銀河系外の
+EXTRAMARITAL	(名詞) extramaritalの訳: 婚外子
+EXTRAORDINARILY	(副詞) extraordinarilyの訳: 途方もなく
+EXTRAORDINARY	(形容詞) 異常な: 奇妙なこと。通常とは異なること。
+EXTRAS	(名詞) extraの複数形: 追加の、余分な。期待や期限以上の。
+EXTRAVAGANCE	(名詞) extravaganceの訳: 浪費, 乱費, 贅沢
+EXTRAVAGANCES	(名詞) extravaganceの複数形: 浪費, 乱費, 贅沢
+EXTRAVAGANT	(形容詞) extravagantの訳: 浪費する, 金遣いの荒い
+EXTRAVAGANTLY	(副詞) 贅沢に: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 浪費して)
+EXTRAVAGATE	(動詞) さまよう: あてもなく歩き回る。彷徨する。
+EXTRAVAGATED	(extravagateの変化形) (動詞) さまよう: あてもなく歩き回る。彷徨する。
+EXTRAVAGATES	(extravagateの変化形) (動詞) さまよう: あてもなく歩き回る。彷徨する。
+EXTRAVAGATING	(extravagateの変化形) (動詞) さまよう: あてもなく歩き回る。彷徨する。
+EXTRAVERT	(名詞) extrovertの異綴。
+EXTRAVERTS	(名詞) extravertの複数形: extrovertの異綴。
+EXTREME	(形容詞) extremeの訳: 極端な\n(名詞) extremeの訳: 極端
+EXTREMELY	(副詞) extremelyの訳: ⟪極めて|きわめて⟫
+EXTREMER	(extremeの変化形) (形容詞) extremeの訳: 極端な
+EXTREMES	(extremeの変化形) (形容詞) extremeの訳: 極端な
+EXTREMEST	(extremeの変化形) (形容詞) extremeの訳: 極端な
+EXTREMIST	(名詞) 過激派: 過激な思想を主張したり、それを実現するため過激な活動をする党派やグループ。\n(形容詞) extremistの訳: 過激思想の
+EXTREMISTS	(名詞) extremistの複数形: 過激派。
+EXTREMITIES	(名詞) extremityの複数形: 端
+EXTREMITY	(名詞) extremityの訳: 端
+EXTRICABLE	(形容詞) extricableの訳: 救出可能な, 脱出可能な
+EXTRICATE	(動詞) 解放する: 抑圧的な旧習や制度から解き放たれて政治的・社会的自由を求めること。 (ほかに: 救出する)
+EXTRICATED	(動詞) "extricate" の過去形・過去分詞: 解放する: 抑圧的な旧習や制度から解き放たれて政治的・社会的自由を求めること。 (ほかに: 救出する)
+EXTRICATES	(動詞) "extricate" の現在第三人称単数形。
+EXTRICATING	(動詞) "extricate" の動名詞又は現在分詞: 解放する: 抑圧的な旧習や制度から解き放たれて政治的・社会的自由を求めること。 (ほかに: 救出する)
+EXTRICATION	(名詞) 絡まっているものをほぐすこと。
+EXTRICATIONS	(名詞) "extrication" の複数形: 絡まっているものをほぐすこと。
+EXTROVERSION	(名詞) 外向性: 外界に関心を持ち、活動的で社交的な性質。
+EXTROVERSIONS	(名詞) extroversionの複数形: 外向性: 外界に関心を持ち、活動的で社交的な性質。
+EXTROVERT	(形容詞) extrovertの訳: 外向的な\n(名詞) extrovertの訳: 外向的な人
+EXTROVERTED	(形容詞) extrovertedの訳: 外向的な
+EXTROVERTS	(名詞) extrovertの複数形: 外向的な
+EXUBERANT	(形容詞) exuberantの訳: 快活な
+EXUDATE	(名詞) 滲出液: 内部から外へ滲出する液体。
+EXUDATES	(名詞) "exudate" の複数形: 滲出液: 内部から外へ滲出する液体。\n(動詞) "exudate" の現在第三人称単数形。
+EXUDE	(動詞) exudeの訳: 滲み出させる, 発散させる
+EXUDED	(動詞) exudeの過去形・過去分詞: 滲み出させる, 発散させる
+EXUDES	(動詞) exudeの直説法現在第三人称単数形: 滲み出させる, 発散させる
+EXUDING	(動詞) exudeの現在分詞: 滲み出させる, 発散させる\n(名詞) 発散: 内部にたまったものが外へ散ること。たまったものを外へ散らすこと。 (ほかに: 滲み出ること)
+EXULT	(動詞) 狂喜する: 気が狂ったかのように喜ぶこと。
+EXULTANT	(形容詞) exultantの訳: 歓喜した, 有頂天の
+EXULTANTLY	(副詞) "exultant" の副詞形。
+EXULTATION	(名詞) 狂喜: 気が狂ったかのように喜ぶこと。 (ほかに: 快哉, 狂喜乱舞)
+EXULTATIONS	(名詞) "exultation" の複数形: 狂喜: 気が狂ったかのように喜ぶこと。 (ほかに: 快哉, 狂喜乱舞)
+EXULTED	(動詞) exultの過去形・過去分詞: 狂喜する: 気が狂ったかのように喜ぶこと。
+EXULTING	(動詞) "exult" の動名詞又は現在分詞: 狂喜する: 気が狂ったかのように喜ぶこと。
+EXULTS	(動詞) "exult" の現在第三人称単数形。
+EYE	(名詞) 目: （め）視覚をつかさどる感覚器。\n(動詞) eyeの訳: 注視する
+EYEBALL	(名詞) 眼球: 視覚器官の一つ。球形で眼窩におさまる。目玉。\n(動詞) eyeballの訳: じろっと見る
+EYEBALLED	(動詞) "eyeball" の過去形・過去分詞形: 眼球: 視覚器官の一つ。球形で眼窩におさまる。目玉。
+EYEBALLING	(動詞) "eyeball" の動名詞形又は現在分詞形: 眼球: 視覚器官の一つ。球形で眼窩におさまる。目玉。
+EYEBALLS	(名詞) "eyeball" の複数形: 眼球: 視覚器官の一つ。球形で眼窩におさまる。目玉。\n(動詞) "eyeball" の三人称単数現在形: 眼球: 視覚器官の一つ。球形で眼窩におさまる。目玉。
+EYEBROW	(名詞) 眉: （まゆ）眉毛。 (ほかに: 眉毛)
+EYEBROWS	(名詞) eyebrow の複数形: 眉: （まゆ）眉毛。 (ほかに: 眉毛)
+EYED	(動詞) "eye" の過去形・過去分詞形: 目: （め）視覚をつかさどる感覚器。
+EYEDROPS	(名詞) eyedropの複数形。
+EYEFUL	(名詞) 別嬪: 格別に美しいこと。特に、女性に言う。 (ほかに: 別品)
+EYEFULS	(eyefulの変化形) (名詞) 別嬪: 格別に美しいこと。特に、女性に言う。 (ほかに: 別品)
+EYEHOLE	(名詞) eyeholeの訳: 眼窩
+EYEHOLES	(eyeholeの変化形) (名詞) eyeholeの訳: 眼窩
+EYEING	(動詞) "eye" の動名詞形又は現在分詞形: 目: （め）視覚をつかさどる感覚器。
+EYELASH	(名詞) 睫毛: （まつげ）上下のまぶたの縁に生えている毛。睫毛。
+EYELASHES	(名詞) eyelash の複数形: 睫毛: （まつげ）上下のまぶたの縁に生えている毛。睫毛。
+EYELESS	(形容詞) eyelessの訳: 目のない
+EYELID	(名詞) 瞼: （まぶた）眼球の前面を上下から覆って開閉する皮膚。眼瞼。
+EYELIDS	(名詞) eyelidの複数形: 瞼: （まぶた）眼球の前面を上下から覆って開閉する皮膚。眼瞼。
+EYES	(名詞) eyeの複数形: 目: （め）視覚をつかさどる感覚器。\n(動詞) eyeの直説法現在第三人称単数形: 目: （め）視覚をつかさどる感覚器。
+EYESIGHT	(名詞) eyesightの訳: ⟪視力|しりょく⟫
+EYESIGHTS	(eyesightの変化形) (名詞) eyesightの訳: ⟪視力|しりょく⟫
+EYESORE	(名詞) 醜いもの。目障りなもの。
+EYESORES	(名詞) eyesoreの複数形: 醜いもの。目障りなもの。
+EYEWASH	(名詞) 目薬: 目に滴下して使用する薬。
+EYEWASHES	(eyewashの変化形) (名詞) 目薬: 目に滴下して使用する薬。
+EYEWITNESS	(名詞) 目撃者: 出来事などをその場で実際に見た人。
+EYEWITNESSES	(eyewitnessの変化形) (名詞) 目撃者: 出来事などをその場で実際に見た人。
+EYING	(動詞) "eye" の動名詞形又は現在分詞形: 目: （め）視覚をつかさどる感覚器。

@@ -1,0 +1,231 @@
+QINDARKA	(ad) çoğul çekimi: qindarkë
+QINTAR	(ad) kintar; 1 lek'in yüzde biri değerinde Arnavutluk para birimi.
+QINTARS	(ad) çoğul çekimi: qintar
+QUACK	(ad) üfürükçü: okuyup üfleyerek hastalıkları iyileştirdiğine inanılan kimse\n(eylem) quack kelimesinin karşılığı: vaklamak
+QUACKED	(quack sözcüğünün çekimi) (ad) üfürükçü: okuyup üfleyerek hastalıkları iyileştirdiğine inanılan kimse
+QUACKERIES	(ad) çoğul çekimi: quackery
+QUACKING	(quack sözcüğünün çekimi) (ad) üfürükçü: okuyup üfleyerek hastalıkları iyileştirdiğine inanılan kimse
+QUACKS	(ad) çoğul çekimi: quack
+QUACKSALVERS	(ad) çoğul çekimi: quacksalver
+QUADRANGLE	(sıfat) dörtgen: Dört kenarlı çokgen; dörtkenar.
+QUADRANGLES	(quadrangle sözcüğünün çekimi) (sıfat) dörtgen: Dört kenarlı çokgen; dörtkenar.
+QUADRUPEDS	(ad) çoğul çekimi: quadruped
+QUADRUPLICATES	(ad) çoğul çekimi: quadruplicate
+QUADRUPLICATIONS	(ad) çoğul çekimi: quadruplication
+QUADS	(ad) çoğul çekimi: quad
+QUAERES	(ad) çoğul çekimi: quaere
+QUAESTORS	(ad) çoğul çekimi: quaestor
+QUAFFS	(ad) çoğul çekimi: quaff
+QUAGGAS	(ad) çoğul çekimi: quagga
+QUAGMIRES	(ad) çoğul çekimi: quagmire
+QUAGS	(ad) çoğul çekimi: quag
+QUAIL	(ad) quail kelimesinin karşılığı: ⟪bıldırcın|BILDIRCIN⟫\n(eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: korkuya kapılmak)
+QUAILED	(quail sözcüğünün çekimi) (ad) quail kelimesinin karşılığı: ⟪bıldırcın|BILDIRCIN⟫
+QUAILING	(quail sözcüğünün çekimi) (ad) quail kelimesinin karşılığı: ⟪bıldırcın|BILDIRCIN⟫
+QUAILS	(ad) çoğul çekimi: quail
+QUAINT	(sıfat) ilginç; tuhaf; acayip; garip; etkileyici ve eski moda tarzda alışılmadık
+QUAINTER	(quaint sözcüğünün çekimi) (sıfat) ilginç; tuhaf; acayip; garip; etkileyici ve eski moda tarzda alışılmadık
+QUAINTEST	(quaint sözcüğünün çekimi) (sıfat) ilginç; tuhaf; acayip; garip; etkileyici ve eski moda tarzda alışılmadık
+QUAKES	(ad) çoğul çekimi: quake
+QUALIFICATION	(ad) nitelik: bireyi, nesne veya yaşantının bir yönünü ötekilerden ayırt etmeye yarayan ve ölçülebilen özellik, keyfiyet
+QUALIFICATIONS	(qualification sözcüğünün çekimi) (ad) nitelik: bireyi, nesne veya yaşantının bir yönünü ötekilerden ayırt etmeye yarayan ve ölçülebilen özellik, keyfiyet
+QUALIFIER	(ad) qualifier kelimesinin karşılığı: niteleyici
+QUALIFIERS	(ad) çoğul çekimi: qualifier
+QUALITATIVE	(sıfat) nitel: Nitelik bakımından olan, nitelikle ilgili bulunan
+QUALITIES	(ad) çoğul çekimi: quality
+QUALITY	(ad) nitelik: bireyi, nesne veya yaşantının bir yönünü ötekilerden ayırt etmeye yarayan ve ölçülebilen özellik, keyfiyet
+QUALMS	(ad) çoğul çekimi: qualm
+QUANDARIES	(ad) çoğul çekimi: quandary
+QUANDARY	(ad) ikilem; kararsızlık; tereddüt; ne yapacağını bilememe
+QUANGOS	(ad) çoğul çekimi: quango
+QUANTA	(quantum sözcüğünün çekimi) (ad) kuantum: bir dalganın olası değerlerinin alt değer kümelerinden biri
+QUANTIFICATION	(ad) quantification kelimesinin karşılığı: niceliksel
+QUANTIFICATIONS	(quantification sözcüğünün çekimi) (ad) quantification kelimesinin karşılığı: niceliksel
+QUANTIFIER	(ad) quantifier kelimesinin karşılığı: nicelik sözcüğü
+QUANTIFIERS	(ad) çoğul çekimi: quantifier
+QUANTITATIVE	(sıfat) nicel: Nicelik bakımından olan, nicelikle ilgili
+QUANTITIES	(ad) çoğul çekimi: quantity
+QUANTITY	(ad) nicelik: bir şeyin sayılabilen ölçülebilen veya azalıp çoğalabilen durumu, kemiyet, miktar, kantite (ayrıca: miktar, kemiyet)
+QUANTIZATION	(ad) quantization kelimesinin karşılığı: ⟪nicemleme|NİCEMLEME⟫
+QUANTIZATIONS	(ad) çoğul çekimi: quantization
+QUANTS	(ad) çoğul çekimi: quant
+QUANTUM	(ad) kuantum: bir dalganın olası değerlerinin alt değer kümelerinden biri
+QUARANTINE	(ad) karantina: Bulaşıcı bir hastalığın yaygın olduğu bir yerden gelen kişileri, gemileri ve malları geçici olarak ayırma biçiminde alınan önlem, sağlık yalıtımı
+QUARANTINED	(quarantine sözcüğünün çekimi) (ad) karantina: Bulaşıcı bir hastalığın yaygın olduğu bir yerden gelen kişileri, gemileri ve malları geçici olarak...
+QUARANTINES	(ad) çoğul çekimi: quarantine
+QUARANTINING	(quarantine sözcüğünün çekimi) (ad) karantina: Bulaşıcı bir hastalığın yaygın olduğu bir yerden gelen kişileri, gemileri ve malları geçici olarak...
+QUARREL	(eylem) tartışmak: bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak
+QUARRELED	(quarrel sözcüğünün çekimi) (eylem) tartışmak: bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak
+QUARRELERS	(ad) çoğul çekimi: quarreler
+QUARRELING	(quarrel sözcüğünün çekimi) (eylem) tartışmak: bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak
+QUARRELLED	(quarrel sözcüğünün çekimi) (eylem) tartışmak: bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak
+QUARRELLING	(quarrel sözcüğünün çekimi) (eylem) tartışmak: bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak
+QUARRELS	(ad) çoğul çekimi: quarrel
+QUARRIED	(quarry sözcüğünün çekimi) (ad) quarry kelimesinin karşılığı: taş ocağı
+QUARRIERS	(ad) çoğul çekimi: quarrier
+QUARRIES	(ad) çoğul çekimi: quarry
+QUARRY	(ad) quarry kelimesinin karşılığı: taş ocağı\n(eylem) ocaktan taş çıkartmak
+QUARRYING	(quarry sözcüğünün çekimi) (ad) quarry kelimesinin karşılığı: taş ocağı
+QUARRYINGS	(quarry sözcüğünün çekimi) (ad) quarry kelimesinin karşılığı: taş ocağı
+QUARTER	(ad) quarter kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, trimestır, çeyrekyıl
+QUARTERED	(quarter sözcüğünün çekimi) (ad) quarter kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, trimestır, çeyrekyıl
+QUARTERFINALS	(ad) çoğul çekimi: quarterfinal
+QUARTERING	(quarter sözcüğünün çekimi) (ad) quarter kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, trimestır, çeyrekyıl
+QUARTERINGS	(quarter sözcüğünün çekimi) (ad) quarter kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, trimestır, çeyrekyıl
+QUARTERMASTERS	(ad) çoğul çekimi: quartermaster
+QUARTERS	(quarter sözcüğünün çekimi) (ad) quarter kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, trimestır, çeyrekyıl
+QUARTERSTAFF	(ad) kargı: silah olarak kullanılan, ucu sivri ve demirli uzun mızrak.
+QUARTERSTAVES	(quarterstaff sözcüğünün çekimi) (ad) kargı: silah olarak kullanılan, ucu sivri ve demirli uzun mızrak.
+QUARTET	(ad) quartet kelimesinin karşılığı: ⟪dörtlü|DÖRTLÜ⟫
+QUARTETS	(ad) quartet sözcüğünün çoğul çekimi: dörtlü
+QUARTZ	(ad) quartz kelimesinin karşılığı: ⟪kuvars|KUVARS⟫
+QUARTZES	(quartz sözcüğünün çekimi) (ad) quartz kelimesinin karşılığı: ⟪kuvars|KUVARS⟫
+QUASARS	(ad) çoğul çekimi: quasar
+QUASIPARTICLES	(ad) çoğul çekimi: quasiparticle
+QUASSIA	(ad) quassia kelimesinin karşılığı: acı ağaç
+QUASSIAS	(ad) çoğul çekimi: quassia
+QUATERNIONS	(ad) çoğul çekimi: quaternion
+QUATRAINS	(ad) çoğul çekimi: quatrain
+QUAVERS	(ad) çoğul çekimi: quaver
+QUAY	(ad) iskele: Deniz taşıtlarının yanaştığı, çoğu tahta ve betondan yapılmış, denize doğru uzanan yer. (ayrıca: rıhtım)
+QUAYS	(ad) çoğul çekimi: quay
+QUEANS	(ad) çoğul çekimi: quean
+QUEASIER	(queasy sözcüğünün çekimi) (sıfat) rahatsız: rahat kullanılmayan, sıkıntı, tedirginlik veren (ayrıca: midesi bulanmış, kusmak üzere)
+QUEASIEST	(queasy sözcüğünün çekimi) (sıfat) rahatsız: rahat kullanılmayan, sıkıntı, tedirginlik veren (ayrıca: midesi bulanmış, kusmak üzere)
+QUEASY	(sıfat) rahatsız: rahat kullanılmayan, sıkıntı, tedirginlik veren (ayrıca: midesi bulanmış, kusmak üzere)
+QUEEN	(ad) kralın eşi veya bir krallığın kadın hükümdarı, kraliçe, ece, melike\n(eylem) (kadınlar için) kendini üstün görür bir şekilde davranmak.
+QUEENED	(queen sözcüğünün çekimi) (ad) kralın eşi veya bir krallığın kadın hükümdarı, kraliçe, ece, melike
+QUEENING	(queen sözcüğünün çekimi) (ad) kralın eşi veya bir krallığın kadın hükümdarı, kraliçe, ece, melike
+QUEENS	(ad) çoğul çekimi: queen
+QUEER	(sıfat) queer kelimesinin karşılığı: ⟪garip|GARİP⟫, ⟪tuhaf|TUHAF⟫, ⟪acayip|ACAYİP⟫
+QUEERED	(queer sözcüğünün çekimi) (sıfat) queer kelimesinin karşılığı: ⟪garip|GARİP⟫, ⟪tuhaf|TUHAF⟫, ⟪acayip|ACAYİP⟫
+QUEERER	(queer sözcüğünün çekimi) (sıfat) queer kelimesinin karşılığı: ⟪garip|GARİP⟫, ⟪tuhaf|TUHAF⟫, ⟪acayip|ACAYİP⟫
+QUEEREST	(queer sözcüğünün çekimi) (sıfat) queer kelimesinin karşılığı: ⟪garip|GARİP⟫, ⟪tuhaf|TUHAF⟫, ⟪acayip|ACAYİP⟫
+QUEERING	(queer sözcüğünün çekimi) (sıfat) queer kelimesinin karşılığı: ⟪garip|GARİP⟫, ⟪tuhaf|TUHAF⟫, ⟪acayip|ACAYİP⟫
+QUEERS	(ad) çoğul çekimi: queer
+QUELL	(eylem) quell kelimesinin karşılığı: isyanı bastırmak
+QUELLED	(quell sözcüğünün çekimi) (eylem) quell kelimesinin karşılığı: isyanı bastırmak
+QUELLING	(quell sözcüğünün çekimi) (eylem) quell kelimesinin karşılığı: isyanı bastırmak
+QUELLS	(ad) çoğul çekimi: quell
+QUENCH	(eylem) quench kelimesinin karşılığı: susuzluğu gidermek
+QUENCHABLE	(sıfat) quenchable kelimesinin karşılığı: söndürülebilen, yatıştırılabilen, dindirilebilen
+QUENCHED	(quench sözcüğünün çekimi) (eylem) quench kelimesinin karşılığı: susuzluğu gidermek
+QUENCHERS	(ad) çoğul çekimi: quencher
+QUENCHES	(quench sözcüğünün çekimi) (eylem) quench kelimesinin karşılığı: susuzluğu gidermek
+QUENCHING	(quench sözcüğünün çekimi) (eylem) quench kelimesinin karşılığı: susuzluğu gidermek
+QUENELLES	(ad) çoğul çekimi: quenelle
+QUERCITRONS	(ad) çoğul çekimi: quercitron
+QUERIED	(query sözcüğünün çekimi) (ad) sorgulama: Sorgulamak işi
+QUERIES	(ad) çoğul çekimi: query
+QUERNS	(ad) çoğul çekimi: quern
+QUERY	(ad) sorgulama: Sorgulamak işi
+QUERYING	(query sözcüğünün çekimi) (ad) sorgulama: Sorgulamak işi
+QUESADILLAS	(ad) çoğul çekimi: quesadilla
+QUEST	(ad) quest kelimesinin karşılığı: ⟪arama|ARAMA⟫
+QUESTED	(quest sözcüğünün çekimi) (ad) quest kelimesinin karşılığı: ⟪arama|ARAMA⟫
+QUESTING	(quest sözcüğünün çekimi) (ad) quest kelimesinin karşılığı: ⟪arama|ARAMA⟫
+QUESTION	(ad) sual: soru (ayrıca: soru)
+QUESTIONED	(question sözcüğünün çekimi) (ad) sual: soru (ayrıca: soru)
+QUESTIONERS	(ad) çoğul çekimi: questioner
+QUESTIONING	(question sözcüğünün çekimi) (ad) sual: soru (ayrıca: soru)
+QUESTIONNAIRE	(ad) questionnaire kelimesinin karşılığı: ⟪anket|ANKET⟫
+QUESTIONNAIRES	(questionnaire sözcüğünün çekimi) (ad) questionnaire kelimesinin karşılığı: ⟪anket|ANKET⟫
+QUESTIONS	(ad) soru: Bir şey öğrenmek için birine yöneltilen ve karşılık gerektiren söz veya yazı; istifham, sual.
+QUESTS	(ad) çoğul çekimi: quest
+QUETZALS	(ad) çoğul çekimi: quetzal
+QUEUE	(ad) kuyruk: (mecaz) insanların veya taşıtların sıra beklemek için art arda durarak oluşturduğu dizi
+QUEUED	(queue sözcüğünün çekimi) (ad) kuyruk: (mecaz) insanların veya taşıtların sıra beklemek için art arda durarak oluşturduğu dizi
+QUEUEING	(ad) queueing kelimesinin karşılığı: kuyruklama
+QUEUER	(queue sözcüğünün çekimi) (ad) kuyruk: (mecaz) insanların veya taşıtların sıra beklemek için art arda durarak oluşturduğu dizi
+QUEUES	(ad) queues kelimesinin karşılığı: ⟪kuyruklar|KUYRUKLAR⟫
+QUEUING	(queue sözcüğünün çekimi) (ad) kuyruk: (mecaz) insanların veya taşıtların sıra beklemek için art arda durarak oluşturduğu dizi
+QUEYS	(ad) çoğul çekimi: quey
+QUIBBLERS	(ad) çoğul çekimi: quibbler
+QUIBBLES	(ad) çoğul çekimi: quibble
+QUICK	(sıfat) quick kelimesinin karşılığı: ⟪çabuk|ÇABUK⟫, ⟪hızlı|HIZLI⟫, ⟪süratli|SÜRATLİ⟫, ⟪tez|TEZ⟫
+QUICKENS	(ad) çoğul çekimi: quicken
+QUICKER	(quick sözcüğünün çekimi) (sıfat) quick kelimesinin karşılığı: ⟪çabuk|ÇABUK⟫, ⟪hızlı|HIZLI⟫, ⟪süratli|SÜRATLİ⟫, ⟪tez|TEZ⟫
+QUICKEST	(quick sözcüğünün çekimi) (sıfat) quick kelimesinin karşılığı: ⟪çabuk|ÇABUK⟫, ⟪hızlı|HIZLI⟫, ⟪süratli|SÜRATLİ⟫, ⟪tez|TEZ⟫
+QUICKIES	(ad) çoğul çekimi: quickie
+QUICKLY	(zarf) seri: hızlı biçimde (ayrıca: çabuk, hızlı)
+QUICKS	(quick sözcüğünün çekimi) (sıfat) quick kelimesinin karşılığı: ⟪çabuk|ÇABUK⟫, ⟪hızlı|HIZLI⟫, ⟪süratli|SÜRATLİ⟫, ⟪tez|TEZ⟫
+QUICKSETS	(ad) çoğul çekimi: quickset
+QUICKSILVER	(ad) cıva: atom numarası 80 olan bir kimyasal element.
+QUICKSILVERS	(quicksilver sözcüğünün çekimi) (ad) cıva: atom numarası 80 olan bir kimyasal element.
+QUIDDITIES	(ad) çoğul çekimi: quiddity
+QUIDNUNCS	(ad) çoğul çekimi: quidnunc
+QUIDS	(ad) çoğul çekimi: quid
+QUIET	(sıfat) quiet kelimesinin karşılığı: ⟪gürültüsüz|GÜRÜLTÜSÜZ⟫, ⟪sessiz|SESSİZ⟫
+QUIETED	(quiet sözcüğünün çekimi) (sıfat) quiet kelimesinin karşılığı: ⟪gürültüsüz|GÜRÜLTÜSÜZ⟫, ⟪sessiz|SESSİZ⟫
+QUIETER	(quiet sözcüğünün çekimi) (sıfat) quiet kelimesinin karşılığı: ⟪gürültüsüz|GÜRÜLTÜSÜZ⟫, ⟪sessiz|SESSİZ⟫
+QUIETERS	(quiet sözcüğünün çekimi) (sıfat) quiet kelimesinin karşılığı: ⟪gürültüsüz|GÜRÜLTÜSÜZ⟫, ⟪sessiz|SESSİZ⟫
+QUIETEST	(quiet sözcüğünün çekimi) (sıfat) quiet kelimesinin karşılığı: ⟪gürültüsüz|GÜRÜLTÜSÜZ⟫, ⟪sessiz|SESSİZ⟫
+QUIETING	(quiet sözcüğünün çekimi) (sıfat) quiet kelimesinin karşılığı: ⟪gürültüsüz|GÜRÜLTÜSÜZ⟫, ⟪sessiz|SESSİZ⟫
+QUIETNESS	(ad) sessizlik: ortalıkta gürültü olmama durumu, sükût, sessiz olma durumu
+QUIETNESSES	(quietness sözcüğünün çekimi) (ad) sessizlik: ortalıkta gürültü olmama durumu, sükût, sessiz olma durumu
+QUIETS	(ad) çoğul çekimi: quiet
+QUIFFS	(ad) çoğul çekimi: quiff
+QUILLS	(ad) çoğul çekimi: quill
+QUILT	(ad) yorgan: Yatakta örtünmeye yarayan, içi pamuk, yün vb. şeylerle doldurularak dikilmiş geniş örtü:
+QUILTED	(quilt sözcüğünün çekimi) (ad) yorgan: Yatakta örtünmeye yarayan, içi pamuk, yün vb. şeylerle doldurularak dikilmiş geniş örtü:
+QUILTING	(quilt sözcüğünün çekimi) (ad) yorgan: Yatakta örtünmeye yarayan, içi pamuk, yün vb. şeylerle doldurularak dikilmiş geniş örtü:
+QUILTINGS	(quilt sözcüğünün çekimi) (ad) yorgan: Yatakta örtünmeye yarayan, içi pamuk, yün vb. şeylerle doldurularak dikilmiş geniş örtü:
+QUILTS	(ad) çoğul çekimi: quilt
+QUINCE	(ad) ayva: bu ağacın büyük, sarı renkte, tüylü, mayhoş, dokusu sertçe, ufak çekirdekli meyvesi
+QUINCES	(ad) çoğul çekimi: quince
+QUINOLINES	(ad) çoğul çekimi: quinoline
+QUINONES	(ad) çoğul çekimi: quinone
+QUINS	(ad) çoğul çekimi: quin
+QUINSIES	(ad) çoğul çekimi: quinsy
+QUINTALS	(ad) çoğul çekimi: quintal
+QUINTET	(ad) beşli: Beş ses ya da beş çalgı partisinden oluşan müzik çalgısı
+QUINTETS	(ad) quintet sözcüğünün çoğul çekimi: beşli
+QUINTILLIONS	(ad) çoğul çekimi: quintillion
+QUINTS	(ad) çoğul çekimi: quint
+QUINTUPLETS	(ad) çoğul çekimi: quintuplet
+QUIP	(ad) quip kelimesinin karşılığı: zekice söz, hazır cevap
+QUIPPED	(quip sözcüğünün çekimi) (ad) quip kelimesinin karşılığı: zekice söz, hazır cevap
+QUIPPER	(quip sözcüğünün çekimi) (ad) quip kelimesinin karşılığı: zekice söz, hazır cevap
+QUIPPING	(quip sözcüğünün çekimi) (ad) quip kelimesinin karşılığı: zekice söz, hazır cevap
+QUIPS	(ad) çoğul çekimi: quip
+QUIRKS	(ad) quirk sözcüğünün çoğul çekimi\n(eylem) quirk sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+QUIRTS	(ad) çoğul çekimi: quirt
+QUISLING	(sıfat) quisling kelimesinin karşılığı: vatan haini
+QUISLINGS	(ad) çoğul çekimi: quisling
+QUIT	(sıfat) yükümlülük, ceza veya benzeri sıkıntılı bir durumdan kurtulmuş\n(eylem) bir yerden ayrılmak, çıkmak
+QUITCH	(ad) quitch kelimesinin karşılığı: ayrık otu
+QUITCHES	(quitch sözcüğünün çekimi) (ad) quitch kelimesinin karşılığı: ayrık otu
+QUITCLAIMS	(ad) çoğul çekimi: quitclaim
+QUITE	(zarf) katiyetle: kesinlikle (ayrıca: kesinlikle, tamamen)
+QUITS	(eylem) quit sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yükümlülük, ceza veya benzeri sıkıntılı bir durumdan kurtulmuş
+QUITTED	(eylem) quit sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yükümlülük, ceza veya benzeri sıkıntılı bir durumdan kurtulmuş
+QUITTERS	(ad) çoğul çekimi: quitter
+QUITTING	(eylem) quit sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yükümlülük, ceza veya benzeri sıkıntılı bir durumdan kurtulmuş
+QUIVER	(eylem) quiver kelimesinin karşılığı: ⟪titremek|TİTREMEK⟫\n(ad) quiver kelimesinin karşılığı: ⟪gedeleç|GEDELEÇ⟫
+QUIVERED	(quiver sözcüğünün çekimi) (eylem) quiver kelimesinin karşılığı: ⟪titremek|TİTREMEK⟫
+QUIVERER	(quiver sözcüğünün çekimi) (eylem) quiver kelimesinin karşılığı: ⟪titremek|TİTREMEK⟫
+QUIVERING	(quiver sözcüğünün çekimi) (eylem) quiver kelimesinin karşılığı: ⟪titremek|TİTREMEK⟫
+QUIVERS	(ad) çoğul çekimi: quiver
+QUIXOTISM	(ad) quixotism kelimesinin karşılığı: ⟪donkişotluk|DONKİŞOTLUK⟫
+QUIXOTISMS	(ad) quixotism sözcüğünün çoğul çekimi: donkişotluk
+QUIZ	(ad) quiz kelimesinin karşılığı: anlık sınama
+QUIZZED	(quiz sözcüğünün çekimi) (ad) quiz kelimesinin karşılığı: anlık sınama
+QUIZZERS	(ad) çoğul çekimi: quizzer
+QUIZZES	(ad) çoğul çekimi: quiz
+QUIZZING	(quiz sözcüğünün çekimi) (ad) quiz kelimesinin karşılığı: anlık sınama
+QUODLIBETS	(ad) çoğul çekimi: quodlibet
+QUODS	(ad) çoğul çekimi: quod
+QUOINS	(ad) çoğul çekimi: quoin
+QUOITS	(ad) çoğul çekimi: quoit
+QUORUM	(ad) quorum kelimesinin karşılığı: ⟪nisap|NİSAP⟫, yeter sayı
+QUORUMS	(quorum sözcüğünün çekimi) (ad) quorum kelimesinin karşılığı: ⟪nisap|NİSAP⟫, yeter sayı
+QUOTA	(ad) quota kelimesinin karşılığı: ⟪kontenjan|KONTENJAN⟫
+QUOTAS	(ad) quota sözcüğünün çoğul çekimi: kontenjan
+QUOTATION	(ad) Fiyat Beyanı - Alınıp satılabilen bir kalemin (ürün veya hizmet) güncel veya pazar fiyatının beyanı
+QUOTATIONS	(ad) çoğul çekimi: quotation
+QUOTE	(ad) quote kelimesinin karşılığı: ⟪alıntı|ALINTI⟫, ⟪iktibas|İKTİBAS⟫\n(eylem) alıntılamak: yazıya başka bir yazarın yazısından cümle veya cümleler almak, alıntı yapmak, aktarmak, iktibas etmek (ayrıca: aktarmak, iktibas etmek)
+QUOTED	(quote sözcüğünün çekimi) (ad) quote kelimesinin karşılığı: ⟪alıntı|ALINTI⟫, ⟪iktibas|İKTİBAS⟫
+QUOTES	(ad) çoğul çekimi: quote
+QUOTIENT	(ad) bölüm: Canlıların bölümlenmesinde filumların bir araya gelmesiyle oluşan birlik.
+QUOTIENTS	(quotient sözcüğünün çekimi) (ad) bölüm: Canlıların bölümlenmesinde filumların bir araya gelmesiyle oluşan birlik.
+QUOTING	(quote sözcüğünün çekimi) (ad) quote kelimesinin karşılığı: ⟪alıntı|ALINTI⟫, ⟪iktibas|İKTİBAS⟫

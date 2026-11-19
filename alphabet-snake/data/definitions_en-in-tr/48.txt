@@ -1,0 +1,1750 @@
+HABERDASHERS	(ad) çoğul çekimi: haberdasher
+HABILIMENTS	(ad) çoğul çekimi: habiliment
+HABIT	(ad) alışkanlık: bir şeye alışmış olma durumu, alışkınlık, alışmışlık, alışkı, itiyat, huy, meleke, ünsiyet
+HABITAT	(ad) habitat: yerleşme, oturma, yaşam alanı
+HABITATS	(habitat sözcüğünün çekimi) (ad) habitat: yerleşme, oturma, yaşam alanı
+HABITED	(habit sözcüğünün çekimi) (ad) alışkanlık: bir şeye alışmış olma durumu, alışkınlık, alışmışlık, alışkı, itiyat, huy, meleke, ünsiyet
+HABITING	(habit sözcüğünün çekimi) (ad) alışkanlık: bir şeye alışmış olma durumu, alışkınlık, alışmışlık, alışkı, itiyat, huy, meleke, ünsiyet
+HABITS	(ad) habit sözcüğünün çoğul çekimi: alışkanlık
+HABITUAL	(sıfat) bayağı: sıradan. (ayrıca: sıradan)
+HACKAMORES	(ad) çoğul çekimi: hackamore
+HACKBERRIES	(ad) çoğul çekimi: hackberry
+HACKBERRY	(ad) çitlembik: bu ağacın mercimekten büyük, yuvarlak, buruk lezzette meyvesi
+HACKERS	(ad) çoğul çekimi: hacker
+HACKING	(eylem) hack sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+HACKLES	(ad) çoğul çekimi: hackle
+HACKNEYED	(sıfat) banal: sıradan
+HACKS	(ad) hack sözcüğünün çoğul çekimi\n(eylem) hack sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+HACKSAWS	(ad) çoğul çekimi: hacksaw
+HAD	(have sözcüğünün çekimi) (ad) (the haves) her şeye sahip olan insanlar, zenginler
+HADDEST	(have sözcüğünün çekimi) (ad) (the haves) her şeye sahip olan insanlar, zenginler
+HADDOCK	(ad) haddock kelimesinin karşılığı: ⟪mezgit|MEZGİT⟫
+HADDOCKS	(haddock sözcüğünün çekimi) (ad) haddock kelimesinin karşılığı: ⟪mezgit|MEZGİT⟫
+HADED	(eylem) hade sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+HADES	(ad) hade sözcüğünün çoğul çekimi\n(eylem) hade sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+HADING	(have sözcüğünün çekimi) (ad) (the haves) her şeye sahip olan insanlar, zenginler
+HADITH	(ad) hadis: Ehl-i Sünnet, Şia
+HADITHS	(ad) hadith sözcüğünün çoğul çekimi: hadis
+HADJ	(ad) hac: İslâm'ın beş şartından biri olan ve Müslümanlarca zilhicce ayında Mekke'de yapılan Kâbe'yi ziyaret ve tavaf ibadeti.
+HADJES	(hadj sözcüğünün çekimi) (ad) hac: İslâm'ın beş şartından biri olan ve Müslümanlarca zilhicce ayında Mekke'de yapılan Kâbe'yi ziyaret ve tavaf...
+HADRONS	(ad) çoğul çekimi: hadron
+HAEMATITE	(ad) haematite kelimesinin karşılığı: ⟪hematit|HEMATİT⟫, kan taşı
+HAEMATITES	(haematite sözcüğünün çekimi) (ad) haematite kelimesinin karşılığı: ⟪hematit|HEMATİT⟫, kan taşı
+HAFNIUM	(ad) hafnium kelimesinin karşılığı: ⟪hafniyum|HAFNİYUM⟫
+HAFNIUMS	(hafnium sözcüğünün çekimi) (ad) hafnium kelimesinin karşılığı: ⟪hafniyum|HAFNİYUM⟫
+HAFT	(ad) haft kelimesinin karşılığı: ⟪deste|DESTE⟫
+HAFTED	(haft sözcüğünün çekimi) (ad) haft kelimesinin karşılığı: ⟪deste|DESTE⟫
+HAFTING	(haft sözcüğünün çekimi) (ad) haft kelimesinin karşılığı: ⟪deste|DESTE⟫
+HAFTS	(ad) çoğul çekimi: haft
+HAGBUTS	(ad) çoğul çekimi: hagbut
+HAGGARDS	(ad) çoğul çekimi: haggard
+HAGGIS	(ad) çoğul çekimi: haggis
+HAGGISES	(ad) çoğul çekimi: haggis
+HAGGLE	(eylem) haggle kelimesinin karşılığı: pazarlık etmek\n(ad) pazarlık: :Bir alış verişte tarafların kendileri için en elverişli fiyatı karşısındakine kabul ettirmek gayesiyle yaptıkları görüşme.
+HAGGLED	(haggle sözcüğünün çekimi) (eylem) haggle kelimesinin karşılığı: pazarlık etmek
+HAGGLERS	(ad) çoğul çekimi: haggler
+HAGGLES	(haggle sözcüğünün çekimi) (eylem) haggle kelimesinin karşılığı: pazarlık etmek
+HAGGLING	(haggle sözcüğünün çekimi) (eylem) haggle kelimesinin karşılığı: pazarlık etmek
+HAGIOGRAPHERS	(ad) çoğul çekimi: hagiographer
+HAGIOSCOPES	(ad) çoğul çekimi: hagioscope
+HAGS	(ad) çoğul çekimi: hag
+HAIL	(ad) dolu: Havada su buğusunun birden yoğunlaşıp katılaşmasından oluşan, türlü irilikte, yuvarlak veya düzensiz biçimli buz parçaları durumunda yere hızla düşen bir yağış türü.
+HAILED	(hail sözcüğünün çekimi) (ad) dolu: Havada su buğusunun birden yoğunlaşıp katılaşmasından oluşan, türlü irilikte, yuvarlak veya düzensiz biçimli...
+HAILER	(hail sözcüğünün çekimi) (ad) dolu: Havada su buğusunun birden yoğunlaşıp katılaşmasından oluşan, türlü irilikte, yuvarlak veya düzensiz biçimli...
+HAILING	(hail sözcüğünün çekimi) (ad) dolu: Havada su buğusunun birden yoğunlaşıp katılaşmasından oluşan, türlü irilikte, yuvarlak veya düzensiz biçimli...
+HAILS	(ad) hail sözcüğünün çoğul çekimi: dolu\n(eylem) hail sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dolu
+HAILSTONE	(ad) dolu: Havada su buğusunun birden yoğunlaşıp katılaşmasından oluşan, türlü irilikte, yuvarlak veya düzensiz biçimli buz parçaları durumunda yere hızla düşen bir yağış türü.
+HAILSTONES	(ad) çoğul çekimi: hailstone
+HAILSTORMS	(ad) çoğul çekimi: hailstorm
+HAIR	(ad) hair kelimesinin karşılığı: ⟪saç|SAÇ⟫
+HAIRBALLS	(ad) çoğul çekimi: hairball
+HAIRBREADTHS	(ad) çoğul çekimi: hairbreadth
+HAIRBRUSH	(ad) saç fırçası: Saç taramak, şekil vermek ya da dolanan saçları açmak için kullanılan fırça.
+HAIRBRUSHES	(ad) çoğul çekimi: hairbrush
+HAIRCLOTHS	(ad) çoğul çekimi: haircloth
+HAIRCUT	(ad) haircut kelimesinin karşılığı: saç tıraşı
+HAIRCUTS	(ad) çoğul çekimi: haircut
+HAIRDRESSER	(ad) kuaför: mesleği bir kişinin imajını değiştirmek veya sürdürmek adına saçlarını kesmek veya ona saç modeli şekli veren kişi, perukar
+HAIRDRESSERS	(ad) çoğul çekimi: hairdresser
+HAIRIER	(sıfat) hairy sözcüğünün karşılaştırma derecesi çekimi: kıllı
+HAIRIEST	(hairy sözcüğünün çekimi) (sıfat) kıllı: Kılı olan, kıl ile kaplı.
+HAIRLESS	(sıfat) saçsız: saçı olmayan, çıplak
+HAIRLINES	(ad) çoğul çekimi: hairline
+HAIRNETS	(ad) çoğul çekimi: hairnet
+HAIRPIECES	(ad) çoğul çekimi: hairpiece
+HAIRPINS	(ad) çoğul çekimi: hairpin
+HAIRS	(ad) hair sözcüğünün çoğul çekimi: saç
+HAIRSBREADTHS	(ad) çoğul çekimi: hairsbreadth
+HAIRSPLITTERS	(ad) çoğul çekimi: hairsplitter
+HAIRSPRINGS	(ad) çoğul çekimi: hairspring
+HAIRSTYLES	(ad) çoğul çekimi: hairstyle
+HAIRSTYLISTS	(ad) çoğul çekimi: hairstylist
+HAIRY	(sıfat) kıllı: Kılı olan, kıl ile kaplı.
+HAJ	(ad) hajj sözcüğünün alternatif yazılışı
+HAJJ	(ad) hac: İslâm'ın beş şartından biri olan ve Müslümanlarca zilhicce ayında Mekke'de yapılan Kâbe'yi ziyaret ve tavaf ibadeti.
+HAJJES	(hajj sözcüğünün çekimi) (ad) hac: İslâm'ın beş şartından biri olan ve Müslümanlarca zilhicce ayında Mekke'de yapılan Kâbe'yi ziyaret ve tavaf...
+HAJJI	(ad) hajji kelimesinin karşılığı: ⟪hacı|HACI⟫
+HAJJIS	(ad) hajji sözcüğünün çoğul çekimi: hacı
+HALBERDS	(ad) çoğul çekimi: halberd
+HALCYONS	(ad) çoğul çekimi: halcyon
+HALE	(sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALED	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALER	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALERS	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALERU	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALES	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALEST	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALF	(ad) bir bütünün eşit iki parçaya bölünmesi sonucu ortaya çıkan parçalardan her biri, yarım
+HALFBACKS	(ad) çoğul çekimi: halfback
+HALFBEAKS	(ad) çoğul çekimi: halfbeak
+HALFTIMES	(ad) çoğul çekimi: halftime
+HALFTONES	(ad) çoğul çekimi: halftone
+HALIDE	(ad) halide kelimesinin karşılığı: halojenür
+HALIDES	(ad) çoğul çekimi: halide
+HALIDOMS	(ad) çoğul çekimi: halidom
+HALING	(hale sözcüğünün çekimi) (sıfat) yaşlı olmasına rağmen güçlü ve sağlıklı; sağlığı ve gücü yerinde
+HALITE	(ad) halite kelimesinin karşılığı: kaya tuzu
+HALITES	(halite sözcüğünün çekimi) (ad) halite kelimesinin karşılığı: kaya tuzu
+HALL	(ad) hall kelimesinin karşılığı: ⟪hol|HOL⟫
+HALLELUJAHS	(ad) çoğul çekimi: hallelujah
+HALLMARKS	(ad) çoğul çekimi: hallmark
+HALLOOS	(ad) çoğul çekimi: halloo
+HALLOWS	(ad) çoğul çekimi: hallow
+HALLS	(ad) hall sözcüğünün çoğul çekimi: hol
+HALLUCES	(ad) hallux sözcüğünün çoğul çekimi: ayak başparmağı
+HALLUCINATION	(ad) hallucination kelimesinin karşılığı: ⟪halüsinasyon|HALÜSİNASYON⟫
+HALLUCINATIONS	(ad) hallucination sözcüğünün çoğul çekimi: halüsinasyon
+HALLUCINOGENS	(ad) çoğul çekimi: hallucinogen
+HALLUX	(ad) hallux kelimesinin karşılığı: ayak başparmağı
+HALLWAY	(ad) geçenek: koridor (ayrıca: koridor)
+HALLWAYS	(ad) çoğul çekimi: hallway
+HALO	(ad) halo kelimesinin karşılığı: ay evi
+HALOCARBONS	(ad) çoğul çekimi: halocarbon
+HALOES	(halo sözcüğünün çekimi) (ad) halo kelimesinin karşılığı: ay evi
+HALOGEN	(ad) halojen: Madenlerle birleştiğinde tuz verebilen flor, klor, brom ve iyot elementleri
+HALOGENS	(ad) halogen sözcüğünün çoğul çekimi: halojen
+HALOING	(halo sözcüğünün çekimi) (ad) halo kelimesinin karşılığı: ay evi
+HALOS	(halo sözcüğünün çekimi) (ad) halo kelimesinin karşılığı: ay evi
+HALT	(eylem) durdurmak: durmasını sağlamak (ayrıca: duraklamak, durmak)
+HALTED	(eylem) halt sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: duraklamak, durmak, durdurmak
+HALTER	(ad) halter kelimesinin karşılığı: ⟪yular|YULAR⟫
+HALTERED	(halter sözcüğünün çekimi) (ad) halter kelimesinin karşılığı: ⟪yular|YULAR⟫
+HALTERES	(halter sözcüğünün çekimi) (ad) halter kelimesinin karşılığı: ⟪yular|YULAR⟫
+HALTERING	(halter sözcüğünün çekimi) (ad) halter kelimesinin karşılığı: ⟪yular|YULAR⟫
+HALTERS	(ad) çoğul çekimi: halter
+HALTING	(halt sözcüğünün çekimi) (eylem) durdurmak: durmasını sağlamak (ayrıca: duraklamak, durmak)
+HALTS	(ad) çoğul çekimi: halt
+HALVES	(half sözcüğünün çekimi) (ad) bir bütünün eşit iki parçaya bölünmesi sonucu ortaya çıkan parçalardan her biri, yarım
+HALYARDS	(ad) çoğul çekimi: halyard
+HAM	(ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+HAMADRYADS	(ad) çoğul çekimi: hamadryad
+HAMES	(ad) çoğul çekimi: hame
+HAMLET	(ad) mezra: Kırsalda birkaç evden oluşan en küçük yerleşim birimi (ayrıca: küçük köy)
+HAMLETS	(hamlet sözcüğünün çekimi) (ad) mezra: Kırsalda birkaç evden oluşan en küçük yerleşim birimi (ayrıca: küçük köy)
+HAMMED	(ham sözcüğünün çekimi) (ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+HAMMER	(ad) hammer kelimesinin karşılığı: ⟪çekiç|ÇEKİÇ⟫\n(eylem) çekiçle bir cisme defalarca vurmak, çakmak, çekiçlemek
+HAMMERED	(hammer sözcüğünün çekimi) (ad) hammer kelimesinin karşılığı: ⟪çekiç|ÇEKİÇ⟫
+HAMMERERS	(ad) çoğul çekimi: hammerer
+HAMMERHEAD	(ad) hammerhead kelimesinin karşılığı: çekiç balığı, çekiç başlı köpekbalığı
+HAMMERHEADS	(hammerhead sözcüğünün çekimi) (ad) hammerhead kelimesinin karşılığı: çekiç balığı, çekiç başlı köpekbalığı
+HAMMERING	(hammer sözcüğünün çekimi) (ad) hammer kelimesinin karşılığı: ⟪çekiç|ÇEKİÇ⟫
+HAMMERLOCKS	(ad) çoğul çekimi: hammerlock
+HAMMERS	(ad) çoğul çekimi: hammer
+HAMMING	(ham sözcüğünün çekimi) (ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+HAMMOCK	(ad) hammock kelimesinin karşılığı: ⟪hamak|HAMAK⟫
+HAMMOCKS	(ad) çoğul çekimi: hammock
+HAMPER	(eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: engel olmak, aksatmak)
+HAMPERED	(hamper sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: engel olmak, aksatmak)
+HAMPERER	(hamper sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: engel olmak, aksatmak)
+HAMPERING	(hamper sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: engel olmak, aksatmak)
+HAMPERS	(ad) çoğul çekimi: hamper
+HAMS	(ad) ham sözcüğünün çoğul çekimi: jambon
+HAMSTER	(ad) hamster kelimesinin karşılığı: ⟪hamster|HAMSTER⟫
+HAMSTERS	(hamster sözcüğünün çekimi) (ad) hamster kelimesinin karşılığı: ⟪hamster|HAMSTER⟫
+HAMSTRINGS	(ad) çoğul çekimi: hamstring
+HANAPERS	(ad) çoğul çekimi: hanaper
+HANCES	(ad) çoğul çekimi: hance
+HAND	(ad) hand kelimesinin karşılığı: el\n(eylem) sunmak: Bir büyüğe veya nezaket gereğince bir kimseye bir şeyi vermek; arz etmek, takdim etmek.
+HANDBAGS	(ad) çoğul çekimi: handbag
+HANDBALL	(ad) handball kelimesinin karşılığı: el topu, ⟪hentbol|HENTBOL⟫, hentbol topu, ⟪solungaç|SOLUNGAÇ⟫
+HANDBALLS	(handball sözcüğünün çekimi) (ad) handball kelimesinin karşılığı: el topu, ⟪hentbol|HENTBOL⟫, hentbol topu, ⟪solungaç|SOLUNGAÇ⟫
+HANDBASKETS	(ad) çoğul çekimi: handbasket
+HANDBELLS	(ad) çoğul çekimi: handbell
+HANDBILLS	(ad) çoğul çekimi: handbill
+HANDBOOKS	(ad) handbook sözcüğünün çoğul çekimi
+HANDCARS	(ad) çoğul çekimi: handcar
+HANDCLASPS	(ad) çoğul çekimi: handclasp
+HANDCRAFTS	(ad) çoğul çekimi: handcraft
+HANDCRAFTSMAN	(ad) handcraftsman kelimesinin karşılığı: ⟪esnaf|ESNAF⟫
+HANDCUFF	(eylem) handcuff kelimesinin karşılığı: ⟪kelepçelemek|KELEPÇELEMEK⟫
+HANDCUFFED	(handcuff sözcüğünün çekimi) (eylem) handcuff kelimesinin karşılığı: ⟪kelepçelemek|KELEPÇELEMEK⟫
+HANDCUFFING	(handcuff sözcüğünün çekimi) (eylem) handcuff kelimesinin karşılığı: ⟪kelepçelemek|KELEPÇELEMEK⟫
+HANDCUFFS	(ad) çoğul çekimi: handcuff
+HANDED	(eylem) hand sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: el
+HANDFASTS	(ad) çoğul çekimi: handfast
+HANDFUL	(sıfat) handful kelimesinin karşılığı: avuç dolusu
+HANDFULS	(ad) çoğul çekimi: handful
+HANDGUN	(ad) handgun kelimesinin karşılığı: el tabancası
+HANDGUNS	(ad) handgun sözcüğünün çoğul çekimi: el tabancası
+HANDHOLDS	(ad) çoğul çekimi: handhold
+HANDICAP	(ad) handicap kelimesinin karşılığı: ⟪handikap|HANDİKAP⟫
+HANDICAPPED	(handicap sözcüğünün çekimi) (ad) handicap kelimesinin karşılığı: ⟪handikap|HANDİKAP⟫
+HANDICAPPING	(handicap sözcüğünün çekimi) (ad) handicap kelimesinin karşılığı: ⟪handikap|HANDİKAP⟫
+HANDICAPS	(handicap sözcüğünün çekimi) (ad) handicap kelimesinin karşılığı: ⟪handikap|HANDİKAP⟫
+HANDICRAFT	(ad) işleme: şiş, tığ, iğne vb. araçlarla elde yapılan, örgü, nakış, oya gibi işlerin genel adı, el işi (ayrıca: zanaat, sınaat)
+HANDICRAFTER	(handicraft sözcüğünün çekimi) (ad) işleme: şiş, tığ, iğne vb. araçlarla elde yapılan, örgü, nakış, oya gibi işlerin genel adı, el işi (ayrıca:...
+HANDICRAFTS	(ad) çoğul çekimi: handicraft
+HANDING	(hand sözcüğünün çekimi) (ad) hand kelimesinin karşılığı: el
+HANDKERCHIEF	(ad) mendil: İçine bazı şeyler konulan kumaş; yağlık.
+HANDKERCHIEFS	(ad) çoğul çekimi: handkerchief
+HANDKERCHIEVES	(ad) çoğul çekimi: handkerchief
+HANDLE	(ad) sap: iplik, tire, ibrişim vb. şeylerde iğneye geçirilen bir dikişlik iplik (ayrıca: kabza, tutak)
+HANDLEBARS	(ad) çoğul çekimi: handlebar
+HANDLED	(handle sözcüğünün çekimi) (ad) sap: iplik, tire, ibrişim vb. şeylerde iğneye geçirilen bir dikişlik iplik (ayrıca: kabza, tutak)
+HANDLERS	(ad) çoğul çekimi: handler
+HANDLES	(ad) çoğul çekimi: handle
+HANDLING	(handle sözcüğünün çekimi) (ad) sap: iplik, tire, ibrişim vb. şeylerde iğneye geçirilen bir dikişlik iplik (ayrıca: kabza, tutak)
+HANDLINGS	(ad) çoğul çekimi: handling
+HANDMAIDENS	(ad) çoğul çekimi: handmaiden
+HANDMAIDS	(ad) çoğul çekimi: handmaid
+HANDOFF	(ad) elden ele pas.
+HANDOFFS	(handoff sözcüğünün çekimi) (ad) elden ele pas.
+HANDOUTS	(ad) çoğul çekimi: handout
+HANDOVERS	(ad) çoğul çekimi: handover
+HANDRAILS	(ad) çoğul çekimi: handrail
+HANDS	(ad) hand sözcüğünün çoğul çekimi: el
+HANDSAWS	(ad) çoğul çekimi: handsaw
+HANDSELS	(ad) çoğul çekimi: handsell
+HANDSET	(ad) handset kelimesinin karşılığı: cep telefonu
+HANDSETS	(ad) çoğul çekimi: handset
+HANDSHAKE	(ad) handshake kelimesinin karşılığı: el sıkışma
+HANDSHAKES	(ad) handshake sözcüğünün çoğul çekimi: el sıkışma
+HANDSOME	(sıfat) yakışıklı: güzel, gösterişli
+HANDSOMER	(handsome sözcüğünün çekimi) (sıfat) yakışıklı: güzel, gösterişli
+HANDSOMEST	(handsome sözcüğünün çekimi) (sıfat) yakışıklı: güzel, gösterişli
+HANDSPRINGS	(ad) çoğul çekimi: handspring
+HANDWORK	(ad) işleme: şiş, tığ, iğne vb. araçlarla elde yapılan, örgü, nakış, oya gibi işlerin genel adı, el işi (ayrıca: zanaat, sınaat)
+HANDWORKS	(handwork sözcüğünün çekimi) (ad) işleme: şiş, tığ, iğne vb. araçlarla elde yapılan, örgü, nakış, oya gibi işlerin genel adı, el işi (ayrıca:...
+HANDWRITING	(ad) handwriting kelimesinin karşılığı: el yazısı\n(eylem) handwrite sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+HANDYMEN	(ad) çoğul çekimi: handyman
+HANG	(eylem) asmak: üzerine takınmak, kuşanmak
+HANGAR	(ad) hangar: Uçakların içine alındığı büyük yapı
+HANGARS	(ad) hangar sözcüğünün çoğul çekimi: hangar
+HANGDOGS	(ad) çoğul çekimi: hangdog
+HANGED	(hang sözcüğünün çekimi) (eylem) asmak: üzerine takınmak, kuşanmak
+HANGERS	(ad) hanger sözcüğünün çoğul çekimi
+HANGING	(ad) hanging kelimesinin karşılığı: ⟪asma|ASMA⟫\n(sıfat) hanging kelimesinin karşılığı: ⟪asılı|ASILI⟫
+HANGINGS	(ad) çoğul çekimi: hanging
+HANGMAN	(ad) cellat: Ölüm cezasına çarptırılanları öldürmekle görevli olan kimse
+HANGMEN	(ad) çoğul çekimi: hangman
+HANGNAILS	(ad) çoğul çekimi: hangnail
+HANGOVER	(ad) hangover kelimesinin karşılığı: akşamdan kalmalık
+HANGOVERS	(ad) çoğul çekimi: hangover
+HANGS	(hang sözcüğünün çekimi) (eylem) asmak: üzerine takınmak, kuşanmak
+HANKER	(eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek. (ayrıca: arzulamak, çok istemek)
+HANKERED	(hanker sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+HANKERER	(hanker sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+HANKERING	(hanker sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+HANKERS	(hanker sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek....
+HANKS	(ad) çoğul çekimi: hank
+HANSELS	(ad) çoğul çekimi: hansel
+HANSOMS	(ad) çoğul çekimi: hansom
+HAPHAZARDLY	(zarf) haphazardly kelimesinin karşılığı: ⟪gelişigüzel|GELİŞİGÜZEL⟫
+HAPLOTYPES	(ad) çoğul çekimi: haplotype
+HAPPEN	(eylem) doğmak: dünyaya gelmek
+HAPPENED	(eylem) happen sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: doğmak
+HAPPENING	(happen sözcüğünün çekimi) (eylem) doğmak: dünyaya gelmek
+HAPPENINGS	(happen sözcüğünün çekimi) (eylem) doğmak: dünyaya gelmek
+HAPPENS	(happen sözcüğünün çekimi) (eylem) doğmak: dünyaya gelmek
+HAPPENSTANCES	(ad) çoğul çekimi: happenstance
+HAPPIER	(sıfat) happy sözcüğünün karşılaştırma derecesi çekimi: mesut, memnun, neşeli
+HAPPIEST	(sıfat) happy sözcüğünün üstünlük derecesi çekimi: mesut, memnun, neşeli
+HAPPINESS	(ad) mutluluk: bütün özlemlere eksiksiz ve sürekli olarak ulaşılmaktan duyulan kıvanç durumu, mut, ongunluk, kut, saadet, bahtiyarlık (ayrıca: saadet)
+HAPPINESSES	(happiness sözcüğünün çekimi) (ad) mutluluk: bütün özlemlere eksiksiz ve sürekli olarak ulaşılmaktan duyulan kıvanç durumu, mut, ongunluk, kut,...
+HAPPY	(sıfat) memnun: herhangi bir olaydan veya durumdan ötürü sevinç duyarak, kıvançlı, mutlu olarak (ayrıca: mesut, neşeli)
+HAPS	(ad) çoğul çekimi: hap
+HARASSERS	(ad) çoğul çekimi: harasser
+HARASSES	(eylem) harass sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+HARASSMENT	(ad) harassment kelimesinin karşılığı: ⟪taciz|TACİZ⟫
+HARASSMENTS	(harassment sözcüğünün çekimi) (ad) harassment kelimesinin karşılığı: ⟪taciz|TACİZ⟫
+HARBINGER	(ad) haberci: (mecaz) bir durumun, bir olayın belirtisi (ayrıca: müjdeci, işaret)
+HARBINGERED	(harbinger sözcüğünün çekimi) (ad) haberci: (mecaz) bir durumun, bir olayın belirtisi (ayrıca: müjdeci, işaret)
+HARBINGERING	(harbinger sözcüğünün çekimi) (ad) haberci: (mecaz) bir durumun, bir olayın belirtisi (ayrıca: müjdeci, işaret)
+HARBINGERS	(ad) çoğul çekimi: harbinger
+HARBOR	(ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay sığınak.
+HARBORED	(harbor sözcüğünün çekimi) (ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay...
+HARBORING	(harbor sözcüğünün çekimi) (ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay...
+HARBORS	(harbor sözcüğünün çekimi) (ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay...
+HARBOUR	(ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay sığınak.
+HARBOURED	(harbour sözcüğünün çekimi) (ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay...
+HARBOURING	(harbour sözcüğünün çekimi) (ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay...
+HARBOURS	(ad) çoğul çekimi: harbour
+HARD	(sıfat) sert: Kolay dayanılmayan, zor katlanılan, etkili.
+HARDBALLS	(ad) çoğul çekimi: hardball
+HARDCORE	(sıfat) hardcore kelimesinin karşılığı: ⟪çetin|ÇETİN⟫
+HARDCOVERS	(ad) çoğul çekimi: hardcover
+HARDEN	(eylem) harden kelimesinin karşılığı: ⟪katılaştırmak|KATILAŞTIRMAK⟫
+HARDENED	(harden sözcüğünün çekimi) (eylem) harden kelimesinin karşılığı: ⟪katılaştırmak|KATILAŞTIRMAK⟫
+HARDENERS	(ad) çoğul çekimi: hardener
+HARDENING	(ad) hardening kelimesinin karşılığı: ⟪katılaştırma|KATILAŞTIRMA⟫
+HARDENINGS	(harden sözcüğünün çekimi) (eylem) harden kelimesinin karşılığı: ⟪katılaştırmak|KATILAŞTIRMAK⟫
+HARDENS	(harden sözcüğünün çekimi) (eylem) harden kelimesinin karşılığı: ⟪katılaştırmak|KATILAŞTIRMAK⟫
+HARDER	(hard sözcüğünün çekimi) (sıfat) sert: Kolay dayanılmayan, zor katlanılan, etkili.
+HARDEST	(hard sözcüğünün çekimi) (sıfat) sert: Kolay dayanılmayan, zor katlanılan, etkili.
+HARDHEARTED	(sıfat) hardhearted kelimesinin karşılığı: katı yürekli
+HARDLY	(zarf) güçlükle: Kolay olmayan bir biçimde; bin bela, ite kaka, öle dirile, zor, zorlukla, zar zor, zor bela, zoru zoruna (ayrıca: zor, zar zor)
+HARDNESS	(ad) sertlik: minerallerin çizilmeye karşı gösterdikleri direnç
+HARDNESSES	(ad) çoğul çekimi: hardness
+HARDSHIP	(ad) zorluk: Sıkıntı veya güçlükle yapılma durumu, zor olma, güçlük, müşkül.
+HARDSHIPS	(ad) çoğul çekimi: hardship
+HARDTOPS	(ad) çoğul çekimi: hardtop
+HARDWARE	(ad) hardware kelimesinin karşılığı: ⟪donanım|DONANIM⟫
+HARDWARES	(hardware sözcüğünün çekimi) (ad) hardware kelimesinin karşılığı: ⟪donanım|DONANIM⟫
+HARDWOOD	(ad) ahşap: ağaçtan, tahtadan yapılmış nesne
+HARDWOODS	(hardwood sözcüğünün çekimi) (ad) ahşap: ağaçtan, tahtadan yapılmış nesne
+HARDWORKING	(ad) hardworking kelimesinin karşılığı: ⟪çalışkan|ÇALIŞKAN⟫
+HARE	(ad) hare kelimesinin karşılığı: ⟪tavşan|TAVŞAN⟫, kır tavşanı, yabani tavşan, yaban tavşanı\n(eylem) fırlamak: hızla, birdenbire bulunduğu yerden çıkmak, ayrılmak (ayrıca: hızla koşmak)
+HAREBELLS	(ad) çoğul çekimi: harebell
+HARED	(hare sözcüğünün çekimi) (ad) hare kelimesinin karşılığı: ⟪tavşan|TAVŞAN⟫, kır tavşanı, yabani tavşan, yaban tavşanı
+HAREM	(ad) harem kelimesinin karşılığı: ⟪harem|HAREM⟫
+HAREMS	(ad) çoğul çekimi: harem
+HARES	(ad) çoğul çekimi: hare
+HARING	(hare sözcüğünün çekimi) (ad) hare kelimesinin karşılığı: ⟪tavşan|TAVŞAN⟫, kır tavşanı, yabani tavşan, yaban tavşanı
+HARLEQUINS	(ad) çoğul çekimi: harlequin
+HARLOTS	(ad) çoğul çekimi: harlot
+HARM	(eylem) incitmek: kötü söz veya davranışla birini kırmak, üzmek (ayrıca: zarar vermek)\n(ad) hasar: herhangi bir olayın yol açtığı kırılma, dökülme, yıkılma gibi zarar (ayrıca: zarar)
+HARMED	(harm sözcüğünün çekimi) (eylem) incitmek: kötü söz veya davranışla birini kırmak, üzmek (ayrıca: zarar vermek)
+HARMER	(harm sözcüğünün çekimi) (eylem) incitmek: kötü söz veya davranışla birini kırmak, üzmek (ayrıca: zarar vermek)
+HARMFUL	(sıfat) zararlı: zarar veren, zararı dokunan
+HARMING	(harm sözcüğünün çekimi) (eylem) incitmek: kötü söz veya davranışla birini kırmak, üzmek (ayrıca: zarar vermek)
+HARMLESS	(sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+HARMONIC	(sıfat) harmonic kelimesinin karşılığı: ⟪armonik|ARMONİK⟫, ⟪uyumlu|UYUMLU⟫
+HARMONICA	(ad) armonika: yan yana sıralanmış deliklerden her biri üflenince, ayrı notada sesler çıkaran küçük ağız çalgısı; ağız mızıkası, mızıka
+HARMONICAS	(ad) çoğul çekimi: harmonica
+HARMONICS	(ad) çoğul çekimi: harmonic
+HARMONIES	(ad) harmony sözcüğünün çoğul çekimi: uyum, ahenk, düzen, harmoni
+HARMONIOUSLY	(zarf) biçimli: uygun olarak, yakışacak bir biçimde
+HARMONIZATIONS	(ad) çoğul çekimi: harmonization
+HARMONIZERS	(ad) çoğul çekimi: harmonizer
+HARMONY	(ad) uyum: toplumsal çevreye veya bir duruma uyma, uyum sağlama, intibak, entegrasyon (ayrıca: ahenk, düzen)
+HARMS	(ad) çoğul çekimi: harm
+HARNESS	(ad) harness kelimesinin karşılığı: ⟪koşum|KOŞUM⟫, koşum takımı
+HARNESSED	(harness sözcüğünün çekimi) (ad) harness kelimesinin karşılığı: ⟪koşum|KOŞUM⟫, koşum takımı
+HARNESSES	(ad) çoğul çekimi: harness
+HARNESSING	(harness sözcüğünün çekimi) (ad) harness kelimesinin karşılığı: ⟪koşum|KOŞUM⟫, koşum takımı
+HARP	(ad) arp: dik tutularak parmakla çalınan, üç köşeli, büyük telli çalgı
+HARPED	(harp sözcüğünün çekimi) (ad) arp: dik tutularak parmakla çalınan, üç köşeli, büyük telli çalgı
+HARPERS	(ad) çoğul çekimi: harper
+HARPING	(harp sözcüğünün çekimi) (ad) arp: dik tutularak parmakla çalınan, üç köşeli, büyük telli çalgı
+HARPISTS	(ad) çoğul çekimi: harpist
+HARPOON	(ad) harpoon kelimesinin karşılığı: ⟪zıpkın|ZIPKIN⟫\n(eylem) harpoon kelimesinin karşılığı: zıpkınlamak
+HARPOONED	(eylem) harpoon sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: zıpkın
+HARPOONER	(ad) harpooner kelimesinin karşılığı: zıpkıncı
+HARPOONERS	(ad) harpooner sözcüğünün çoğul çekimi: zıpkıncı
+HARPOONING	(eylem) harpoon sözcüğünün şimdiki zaman ortaç ve gerund çekimi: zıpkın
+HARPOONS	(ad) harpoon sözcüğünün çoğul çekimi: zıpkın\n(eylem) harpoon sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: zıpkın
+HARPS	(ad) çoğul çekimi: harp
+HARPSICHORDISTS	(ad) çoğul çekimi: harpsichordist
+HARPSICHORDS	(ad) çoğul çekimi: harpsichord
+HARQUEBUS	(ad) arkebüz: 15. ila 17. yüzyıllar arasında kullanılan namludan doldurulan bir tüfek türü
+HARQUEBUSES	(harquebus sözcüğünün çekimi) (ad) arkebüz: 15. ila 17. yüzyıllar arasında kullanılan namludan doldurulan bir tüfek türü
+HARRIDANS	(ad) çoğul çekimi: harridan
+HARRIED	(sıfat) koşuşturmaktan, çalışmaktan, stresten yorgun düşmüş
+HARROWING	(sıfat) harrowing kelimesinin karşılığı: rahatsız edici, acı verici, ⟪ürkütücü|ÜRKÜTÜCÜ⟫
+HARROWS	(ad) çoğul çekimi: harrow
+HARSH	(sıfat) haşin: sert (ayrıca: şiddetli, sert)
+HARSHER	(harsh sözcüğünün çekimi) (sıfat) haşin: sert (ayrıca: şiddetli, sert)
+HARSHEST	(harsh sözcüğünün çekimi) (sıfat) haşin: sert (ayrıca: şiddetli, sert)
+HARSHNESSES	(ad) çoğul çekimi: harshness
+HARUSPICES	(ad) çoğul çekimi: haruspex
+HARVEST	(ad) hasat: ürün kaldırma, ekin biçme işi
+HARVESTED	(harvest sözcüğünün çekimi) (ad) hasat: ürün kaldırma, ekin biçme işi
+HARVESTERS	(ad) çoğul çekimi: harvester
+HARVESTING	(harvest sözcüğünün çekimi) (ad) hasat: ürün kaldırma, ekin biçme işi
+HARVESTMEN	(ad) çoğul çekimi: harvestman
+HARVESTS	(ad) harvest sözcüğünün çoğul çekimi: hasat.\n(eylem) harvest sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: hasat.
+HAS	(eylem) 3. tekil şahıslar için have
+HASH	(ad) mal: esrar
+HASHED	(hash sözcüğünün çekimi) (ad) mal: esrar
+HASHES	(hash sözcüğünün çekimi) (ad) mal: esrar
+HASHING	(hash sözcüğünün çekimi) (ad) mal: esrar
+HASPS	(ad) çoğul çekimi: hasp
+HASSLES	(ad) çoğul çekimi: hassle
+HASSOCKS	(ad) çoğul çekimi: hassock
+HASTE	(ad) acele: çabuk davranma, ivecenlik, telesme, bir işi tez telesik görmeye çalışma, sabırsızlık gösterme (ayrıca: telaş)
+HASTEN	(eylem) birini veya bir şeyi hızlandırmak veya bir şeyi daha hızlı gerçekleştirmek, hızlandırmak, çabuklaştırmak
+HASTENED	(hasten sözcüğünün çekimi) (eylem) birini veya bir şeyi hızlandırmak veya bir şeyi daha hızlı gerçekleştirmek, hızlandırmak, çabuklaştırmak
+HASTENING	(hasten sözcüğünün çekimi) (eylem) birini veya bir şeyi hızlandırmak veya bir şeyi daha hızlı gerçekleştirmek, hızlandırmak, çabuklaştırmak
+HASTENS	(hasten sözcüğünün çekimi) (eylem) birini veya bir şeyi hızlandırmak veya bir şeyi daha hızlı gerçekleştirmek, hızlandırmak, çabuklaştırmak
+HASTES	(haste sözcüğünün çekimi) (ad) acele: çabuk davranma, ivecenlik, telesme, bir işi tez telesik görmeye çalışma, sabırsızlık gösterme (ayrıca:...
+HASTIER	(hasty sözcüğünün çekimi) (sıfat) hasty kelimesinin karşılığı: ⟪aceleci|ACELECİ⟫
+HASTIEST	(hasty sözcüğünün çekimi) (sıfat) hasty kelimesinin karşılığı: ⟪aceleci|ACELECİ⟫
+HASTILY	(zarf) hastily kelimesinin karşılığı: acele acele
+HASTINESS	(ad) çabukluk: hız, sürat (ayrıca: acelecilik, ivecenlik)
+HASTINESSES	(hastiness sözcüğünün çekimi) (ad) çabukluk: hız, sürat (ayrıca: acelecilik, ivecenlik)
+HASTY	(sıfat) hasty kelimesinin karşılığı: ⟪aceleci|ACELECİ⟫
+HAT	(ad) şapka: Boru, baca, direk vb. şeylerin açık olan üst bölümünü havanın etkisinden korumak için takılan başlık.
+HATCHBACK	(sıfat) hatchback kelimesinin karşılığı: heçbek
+HATCHBACKS	(hatchback sözcüğünün çekimi) (sıfat) hatchback kelimesinin karşılığı: heçbek
+HATCHERIES	(ad) çoğul çekimi: hatchery
+HATCHES	(ad) çoğul çekimi: hatch
+HATCHET	(ad) balta: Ağacı kesme, yarma, yontma vb. işlerde kullanılan ağaç saplı, demir araç.
+HATCHETS	(ad) çoğul çekimi: hatchet
+HATCHINGS	(ad) çoğul çekimi: hatching
+HATCHLINGS	(ad) çoğul çekimi: hatchling
+HATCHMENTS	(ad) çoğul çekimi: hatchment
+HATCHWAYS	(ad) çoğul çekimi: hatchway
+HATE	(ad) nefret: Bir kimsenin kötülüğünü, mutsuzluğunu istemeye yönelik duygu.
+HATED	(eylem) hate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: nefret
+HATEMONGERS	(ad) çoğul çekimi: hatemonger
+HATES	(ad) hate sözcüğünün çoğul çekimi: nefret\n(eylem) hate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: nefret
+HATING	(eylem) hate sözcüğünün şimdiki zaman ortaç ve gerund çekimi: nefret
+HATRED	(ad) nefret: Bir kimsenin kötülüğünü, mutsuzluğunu istemeye yönelik duygu.
+HATREDS	(ad) hatred sözcüğünün çoğul çekimi: nefret
+HATS	(ad) hat sözcüğünün çoğul çekimi: şapka\n(eylem) hat sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: şapka
+HATTED	(hat sözcüğünün çekimi) (ad) şapka: Boru, baca, direk vb. şeylerin açık olan üst bölümünü havanın etkisinden korumak için takılan başlık.
+HATTERS	(ad) çoğul çekimi: hatter
+HATTING	(hat sözcüğünün çekimi) (ad) şapka: Boru, baca, direk vb. şeylerin açık olan üst bölümünü havanın etkisinden korumak için takılan başlık.
+HAUBERKS	(ad) çoğul çekimi: hauberk
+HAUGHS	(ad) çoğul çekimi: haugh
+HAUL	(eylem) haul kelimesinin karşılığı: ⟪taşımak|TAŞIMAK⟫
+HAULAGES	(ad) çoğul çekimi: haulage
+HAULED	(eylem) haul sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: taşımak
+HAULERS	(ad) çoğul çekimi: hauler
+HAULIERS	(ad) çoğul çekimi: haulier
+HAULING	(haul sözcüğünün çekimi) (eylem) haul kelimesinin karşılığı: ⟪taşımak|TAŞIMAK⟫
+HAULS	(haul sözcüğünün çekimi) (eylem) haul kelimesinin karşılığı: ⟪taşımak|TAŞIMAK⟫
+HAUNCHES	(ad) çoğul çekimi: haunch
+HAUNT	(eylem) dadanmak: yarar, çıkar amacıyla veya alışkanlıkla bir yere sık uğramak, abone olmak (ayrıca: peşinden koşmak)
+HAUNTED	(haunt sözcüğünün çekimi) (eylem) dadanmak: yarar, çıkar amacıyla veya alışkanlıkla bir yere sık uğramak, abone olmak (ayrıca: peşinden koşmak)
+HAUNTING	(haunt sözcüğünün çekimi) (eylem) dadanmak: yarar, çıkar amacıyla veya alışkanlıkla bir yere sık uğramak, abone olmak (ayrıca: peşinden koşmak)
+HAUNTS	(ad) çoğul çekimi: haunt
+HAUTBOYS	(ad) çoğul çekimi: hautboy
+HAVE	(ad) (the haves) her şeye sahip olan insanlar, zenginler\n(eylem) fiillerin geçmiş zaman sıfat-fiil (past participle) halleriyle beraber kusursuz zamanlı (perfect tense) cümleler kurmakta kullanılır.
+HAVELOCKS	(ad) çoğul çekimi: havelock
+HAVEN	(ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay sığınak.
+HAVENING	(haven sözcüğünün çekimi) (ad) liman: Gemilerin barınmalarına, yük alıp boşaltmalarına, yolcu indirip bindirmelerine yarayan doğal veya yapay...
+HAVENS	(ad) çoğul çekimi: haven
+HAVERS	(ad) çoğul çekimi: haver
+HAVERSACKS	(ad) çoğul çekimi: haversack
+HAVES	(have sözcüğünün çekimi) (ad) (the haves) her şeye sahip olan insanlar, zenginler
+HAVING	(eylem) have sözcüğünün şimdiki zaman ortaç ve gerund çekimi: her şeye sahip olan insanlar, zenginler
+HAVOC	(ad) hasar: herhangi bir olayın yol açtığı kırılma, dökülme, yıkılma gibi zarar (ayrıca: ziyan, yıkım)
+HAVOCS	(havoc sözcüğünün çekimi) (ad) hasar: herhangi bir olayın yol açtığı kırılma, dökülme, yıkılma gibi zarar (ayrıca: ziyan, yıkım)
+HAWFINCH	(ad) kocabaş: büyükbaş (ayrıca: bayağı kocabaş, flurcun)
+HAWFINCHES	(hawfinch sözcüğünün çekimi) (ad) kocabaş: büyükbaş (ayrıca: bayağı kocabaş, flurcun)
+HAWK	(ad) atmaca: Atmacagillerden, ormanlık alanlarda yaşayan, küçük kuşları ve kemirgenleri avlayarak beslenen, geniş ve kısa kanatlı, bacakları ve kuyruğu uzun olan, kendi küçük, gagası büyük, ava alıştırılabilen yırtıcı kuş; akkuş (Accipiter nisus).
+HAWKBILLS	(ad) çoğul çekimi: hawkbill
+HAWKED	(hawk sözcüğünün çekimi) (ad) atmaca: Atmacagillerden, ormanlık alanlarda yaşayan, küçük kuşları ve kemirgenleri avlayarak beslenen, geniş ve...
+HAWKERS	(ad) çoğul çekimi: hawker
+HAWKING	(hawk sözcüğünün çekimi) (ad) atmaca: Atmacagillerden, ormanlık alanlarda yaşayan, küçük kuşları ve kemirgenleri avlayarak beslenen, geniş ve...
+HAWKINGS	(hawk sözcüğünün çekimi) (ad) atmaca: Atmacagillerden, ormanlık alanlarda yaşayan, küçük kuşları ve kemirgenleri avlayarak beslenen, geniş ve...
+HAWKISH	(sıfat) şahin; savaş yanlısı; savaş taraftarı; siyasi sorunları savaş veya saldırgan yöntemlerle ile çözülebileceğine inanan
+HAWKS	(ad) hawks kelimesinin karşılığı: atmacalar
+HAWKSBILLS	(ad) çoğul çekimi: hawksbill
+HAWS	(ad) çoğul çekimi: haw
+HAWSEHOLES	(ad) çoğul çekimi: hawsehole
+HAWSER	(ad) urgan: Urgan telaffuz (ayrıca: halat)
+HAWSERS	(ad) çoğul çekimi: hawser
+HAWTHORN	(ad) alıç: gülgillerden, kırlarda yetişen yabani ağaç (Crataegus monogyna) ve bu ağacın mayhoş yemişi,akdiken
+HAWTHORNS	(ad) çoğul çekimi: hawthorn
+HAY	(ad) saman: ekinlerin harmanda dövülüp taneleri ayrıldıktan sonra kalan, hayvanlara yedirilen ufalanmış saplar (ayrıca: ot)\n(eylem) hay kelimesinin karşılığı: ot biçmek
+HAYCOCKS	(ad) çoğul çekimi: haycock
+HAYED	(hay sözcüğünün çekimi) (ad) saman: ekinlerin harmanda dövülüp taneleri ayrıldıktan sonra kalan, hayvanlara yedirilen ufalanmış saplar (ayrıca:...
+HAYER	(hay sözcüğünün çekimi) (ad) saman: ekinlerin harmanda dövülüp taneleri ayrıldıktan sonra kalan, hayvanlara yedirilen ufalanmış saplar (ayrıca:...
+HAYING	(hay sözcüğünün çekimi) (ad) saman: ekinlerin harmanda dövülüp taneleri ayrıldıktan sonra kalan, hayvanlara yedirilen ufalanmış saplar (ayrıca:...
+HAYINGS	(hay sözcüğünün çekimi) (ad) saman: ekinlerin harmanda dövülüp taneleri ayrıldıktan sonra kalan, hayvanlara yedirilen ufalanmış saplar (ayrıca:...
+HAYLOFTS	(ad) çoğul çekimi: hayloft
+HAYMOWS	(ad) çoğul çekimi: haymow
+HAYS	(ad) hay sözcüğünün çoğul çekimi: ot; saman\n(eylem) hay sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ot; saman
+HAYSEEDS	(ad) çoğul çekimi: hayseed
+HAYSTACKS	(ad) çoğul çekimi: haystack
+HAYWARDS	(ad) çoğul çekimi: hayward
+HAYWIRE	(sıfat) haywire kelimesinin karşılığı: sapıtmış, kontrolden çıkmış
+HAYWIRES	(ad) çoğul çekimi: haywire
+HAZARD	(ad) tehlike: Büyük zarar veya yok olmaya yol açabilecek durum; muhatara, dokunca, sakınca.
+HAZARDED	(hazard sözcüğünün çekimi) (ad) tehlike: Büyük zarar veya yok olmaya yol açabilecek durum; muhatara, dokunca, sakınca.
+HAZARDING	(hazard sözcüğünün çekimi) (ad) tehlike: Büyük zarar veya yok olmaya yol açabilecek durum; muhatara, dokunca, sakınca.
+HAZARDOUSNESS	(ad) tehlikelilik: tehlikeli olma durumu
+HAZARDOUSNESSES	(hazardousness sözcüğünün çekimi) (ad) tehlikelilik: tehlikeli olma durumu
+HAZARDS	(hazard sözcüğünün çekimi) (ad) tehlike: Büyük zarar veya yok olmaya yol açabilecek durum; muhatara, dokunca, sakınca.
+HAZE	(ad) haze kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+HAZED	(haze sözcüğünün çekimi) (ad) haze kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+HAZELNUT	(ad) hazelnut kelimesinin karşılığı: ⟪fındık|FINDIK⟫
+HAZELNUTS	(hazelnut sözcüğünün çekimi) (ad) hazelnut kelimesinin karşılığı: ⟪fındık|FINDIK⟫
+HAZER	(haze sözcüğünün çekimi) (ad) haze kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+HAZES	(ad) çoğul çekimi: haze
+HAZING	(haze sözcüğünün çekimi) (ad) haze kelimesinin karşılığı: ⟪bulanıklık|BULANIKLIK⟫
+HEAD	(ad) baş: Bir şeyin başladığı zaman veya yer: (ayrıca: kafa, başçı)
+HEADACHE	(ad) headache kelimesinin karşılığı: baş ağrısı
+HEADACHES	(ad) çoğul çekimi: headache
+HEADBANDS	(ad) çoğul çekimi: headband
+HEADBOARDS	(ad) çoğul çekimi: headboard
+HEADDRESS	(ad) başlık: Genellikle başı korumak için giyilen şapka; dolambaç, serpuş.
+HEADDRESSES	(headdress sözcüğünün çekimi) (ad) başlık: Genellikle başı korumak için giyilen şapka; dolambaç, serpuş.
+HEADED	(sıfat) kafalı: (mecaz) bilgili, kavrayışlı ve anlayışlı (ayrıca: başlı)
+HEADER	(ad) header kelimesinin karşılığı: üst bilgi
+HEADERS	(ad) headers kelimesinin karşılığı: ⟪başlıklar|BAŞLIKLAR⟫
+HEADGEAR	(ad) başlık: Genellikle başı korumak için giyilen şapka; dolambaç, serpuş.
+HEADGEARS	(ad) çoğul çekimi: headgear
+HEADHUNTERS	(ad) çoğul çekimi: headhunter
+HEADING	(ad) heading kelimesinin karşılığı: ⟪başlık|BAŞLIK⟫
+HEADINGS	(ad) çoğul çekimi: heading
+HEADLAMPS	(ad) çoğul çekimi: headlamp
+HEADLANDS	(ad) çoğul çekimi: headland
+HEADLESS	(sıfat) başsız: başı olmayan
+HEADLIGHT	(ad) far: taşıtların ön bölümünde bulunan, kısa ve uzun mesafeyi aydınlatmaya yarayan ışık düzeneği (ayrıca: ön far)
+HEADLIGHTS	(ad) çoğul çekimi: headlight
+HEADLINE	(ad) manşet: Gazetelerin ilk sayfalarının üst bölümüne iri puntolarla konulan başlık. (ayrıca: başlık, haber başlığı)
+HEADLINED	(headline sözcüğünün çekimi) (ad) manşet: Gazetelerin ilk sayfalarının üst bölümüne iri puntolarla konulan başlık. (ayrıca: başlık, haber başlığı)
+HEADLINERS	(ad) çoğul çekimi: headliner
+HEADLINES	(ad) çoğul çekimi: headline
+HEADLINING	(headline sözcüğünün çekimi) (ad) manşet: Gazetelerin ilk sayfalarının üst bölümüne iri puntolarla konulan başlık. (ayrıca: başlık, haber başlığı)
+HEADLOCKS	(ad) çoğul çekimi: headlock
+HEADLONG	(zarf) alelacele: çabucak, çarçabuk, ivedilikle (ayrıca: apar topar, paldır küldür)
+HEADMASTERS	(ad) çoğul çekimi: headmaster
+HEADMEN	(ad) çoğul çekimi: headman
+HEADMISTRESSES	(ad) çoğul çekimi: headmistress
+HEADNOTES	(ad) çoğul çekimi: headnote
+HEADPHONE	(ad) kulaklık: Radyo, telefon, telsiz vb.nde kulak ile verici arasında ses bağlantısı kurmaya yarayan araç.
+HEADPHONES	(ad) kulaklık: Radyo, telefon, telsiz vb.nde kulak ile verici arasında ses bağlantısı kurmaya yarayan araç.
+HEADPIECE	(ad) başlık: Tablaların veya iş parçalarının düzgün kalmasını sağlamak amacı ile baş taraflarına takılan parça.
+HEADPIECES	(ad) çoğul çekimi: headpiece
+HEADPINS	(ad) çoğul çekimi: headpin
+HEADQUARTERS	(ad) headquarters kelimesinin karşılığı: ⟪karargâh|KARARGAH⟫, kumanda merkezi
+HEADRACES	(ad) çoğul çekimi: headrace
+HEADRESTS	(ad) çoğul çekimi: headrest
+HEADS	(ad) head sözcüğünün çoğul çekimi: kafa, baş, başçı\n(eylem) head sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kafa, baş, başçı
+HEADSETS	(ad) çoğul çekimi: headset
+HEADSHIPS	(ad) çoğul çekimi: headship
+HEADSPACES	(ad) çoğul çekimi: headspace
+HEADSTALLS	(ad) çoğul çekimi: headstall
+HEADSTANDS	(ad) çoğul çekimi: headstand
+HEADSTONES	(ad) çoğul çekimi: headstone
+HEADWAITER	(ad) headwaiter kelimesinin karşılığı: şef garson, ⟪başgarson|BAŞGARSON⟫, ⟪metrdotel|METRDOTEL⟫
+HEADWAITERS	(ad) çoğul çekimi: headwaiter
+HEADWAYS	(ad) çoğul çekimi: headway
+HEADWINDS	(ad) çoğul çekimi: headwind
+HEADWORDS	(ad) çoğul çekimi: headword
+HEAL	(eylem) heal kelimesinin karşılığı: ⟪iyileştirmek|İYİLEŞTİRMEK⟫\n(ad) iyileşme: iyileşmek işi (ayrıca: iyileştirme)
+HEALED	(eylem) heal sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: iyileştirmek
+HEALERS	(ad) çoğul çekimi: healer
+HEALING	(eylem) heal sözcüğünün şimdiki zaman ortaç ve gerund çekimi: iyileştirmek
+HEALS	(ad) heal sözcüğünün çoğul çekimi: iyileştirmek\n(eylem) heal sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: iyileştirmek
+HEALTH	(ad) sağlık: Bireyin fiziksel, sosyal ve ruhsal yönden tam bir iyilik durumunda olması, vücut esenliği.
+HEALTHIER	(sıfat) healthy sözcüğünün karşılaştırma derecesi çekimi: sağlıklı, sağlam, esen, sıhhatli
+HEALTHIEST	(healthy sözcüğünün çekimi) (sıfat) sağlam: Sakatlık veya hastalığı bulunmayan, sağlıklı, sıhhatli (ayrıca: sağlıklı, esen)
+HEALTHS	(ad) health sözcüğünün çoğul çekimi: sağlık
+HEALTHY	(sıfat) sağlam: Sakatlık veya hastalığı bulunmayan, sağlıklı, sıhhatli (ayrıca: sağlıklı, esen)
+HEAP	(eylem) heap kelimesinin karşılığı: ⟪yığmak|YIĞMAK⟫
+HEAPED	(heap sözcüğünün çekimi) (eylem) heap kelimesinin karşılığı: ⟪yığmak|YIĞMAK⟫
+HEAPING	(heap sözcüğünün çekimi) (eylem) heap kelimesinin karşılığı: ⟪yığmak|YIĞMAK⟫
+HEAPS	(ad) çoğul çekimi: heap
+HEAR	(eylem) duymak: dokunma, koklama vb. duyularla algılamak, hissetmek (ayrıca: işitmek)
+HEARD	(eylem) hear sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: duymak, işitmek
+HEARER	(ad) dinleyici: Söylenen veya çalınan bir şeyi dinleyen kimse
+HEARERS	(ad) çoğul çekimi: hearer
+HEARING	(ad) hearing kelimesinin karşılığı: ⟪duyma|DUYMA⟫, ⟪işitme|İŞİTME⟫
+HEARINGS	(ad) çoğul çekimi: hearing
+HEARS	(hear sözcüğünün çekimi) (eylem) duymak: dokunma, koklama vb. duyularla algılamak, hissetmek (ayrıca: işitmek)
+HEARSES	(ad) çoğul çekimi: hearse
+HEART	(ad) heart kelimesinin karşılığı: ⟪kalp|KALP⟫, ⟪yürek|YÜREK⟫
+HEARTBEATS	(ad) çoğul çekimi: heartbeat
+HEARTBREAKER	(ad) heartbreaker kelimesinin karşılığı: gönül kıran
+HEARTBREAKERS	(ad) çoğul çekimi: heartbreaker
+HEARTBREAKS	(ad) çoğul çekimi: heartbreak
+HEARTFELT	(sıfat) heartfelt kelimesinin karşılığı: ⟪candan|CANDAN⟫, ⟪içten|İÇTEN⟫, yürekten gelen
+HEARTH	(ad) ocak: mutfak eşyası (ayrıca: şömine)
+HEARTHS	(ad) çoğul çekimi: hearth
+HEARTHSTONE	(ad) hearthstone kelimesinin karşılığı: ocak taşı
+HEARTHSTONES	(ad) çoğul çekimi: hearthstone
+HEARTIER	(hearty sözcüğünün çekimi) (sıfat) içten: yürekten, candan, samimi davranarak (ayrıca: samimi)
+HEARTIES	(ad) çoğul çekimi: hearty
+HEARTIEST	(hearty sözcüğünün çekimi) (sıfat) içten: yürekten, candan, samimi davranarak (ayrıca: samimi)
+HEARTILY	(zarf) içtenlikle: her türlü çıkar düşüncesinden uzak olarak, temiz yürekle, içten bir biçimde, açık açık, samimiyetle, halisane
+HEARTINESS	(ad) heartiness kelimesinin karşılığı: ⟪samimiyet|SAMİMİYET⟫
+HEARTINESSES	(heartiness sözcüğünün çekimi) (ad) heartiness kelimesinin karşılığı: ⟪samimiyet|SAMİMİYET⟫
+HEARTING	(heart sözcüğünün çekimi) (ad) heart kelimesinin karşılığı: ⟪kalp|KALP⟫, ⟪yürek|YÜREK⟫
+HEARTLANDS	(ad) çoğul çekimi: heartland
+HEARTLESS	(sıfat) kalpsiz: merhametsiz (ayrıca: merhametsiz)
+HEARTS	(ad) heart sözcüğünün çoğul çekimi: kalp, yürek\n(eylem) heart sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kalp, yürek
+HEARTSEASE	(ad) heartsease kelimesinin karşılığı: hercai menekşe, ⟪alacamenekşe|ALACAMENEKŞE⟫
+HEARTSEASES	(heartsease sözcüğünün çekimi) (ad) heartsease kelimesinin karşılığı: hercai menekşe, ⟪alacamenekşe|ALACAMENEKŞE⟫
+HEARTY	(sıfat) içten: yürekten, candan, samimi davranarak (ayrıca: samimi)
+HEAT	(ad) heat kelimesinin karşılığı: ⟪ısı|ISI⟫\n(eylem) ısıtmak: çekici, olumlu, hoş bir duruma getirmek (ayrıca: ısınmak)
+HEATED	(eylem) heat sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ısı
+HEATERS	(ad) heater sözcüğünün çoğul çekimi
+HEATH	(ad) heath kelimesinin karşılığı: ⟪funda|FUNDA⟫
+HEATHEN	(ad) İbrâhimî dinlerden başka inancı olan kimse
+HEATHENS	(ad) çoğul çekimi: heathen
+HEATHLANDS	(ad) çoğul çekimi: heathland
+HEATHS	(heath sözcüğünün çekimi) (ad) heath kelimesinin karşılığı: ⟪funda|FUNDA⟫
+HEATING	(ad) teshin: ısıtma (ayrıca: ısıtma)
+HEATS	(eylem) heat sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ısı\n(ad) heat sözcüğünün çoğul çekimi: ısı
+HEAVE	(eylem) çekmek: Bir şeyin içyüzünü anlamak amacıyla bir kimseyi sıkıştırmak (ayrıca: kaldırmak, fırlatmak)
+HEAVED	(heave sözcüğünün çekimi) (eylem) çekmek: Bir şeyin içyüzünü anlamak amacıyla bir kimseyi sıkıştırmak (ayrıca: kaldırmak, fırlatmak)
+HEAVEN	(ad) cennet: (mecaz) herhangi bir şeyden fazlasıyla bulunan yer
+HEAVENLIER	(heavenly sözcüğünün çekimi) (sıfat) semavi: gökle ilgili, göğe ilişkin, göksel (ayrıca: göksel)
+HEAVENLIEST	(heavenly sözcüğünün çekimi) (sıfat) semavi: gökle ilgili, göğe ilişkin, göksel (ayrıca: göksel)
+HEAVENLY	(sıfat) semavi: gökle ilgili, göğe ilişkin, göksel (ayrıca: göksel)
+HEAVENS	(ad) heaven sözcüğünün çoğul çekimi: cennet
+HEAVES	(ad) çoğul çekimi: heave
+HEAVIER	(heavy sözcüğünün çekimi) (zarf) heavy kelimesinin karşılığı: ⟪ağır|AĞIR⟫
+HEAVIES	(ad) çoğul çekimi: heavy
+HEAVIEST	(heavy sözcüğünün çekimi) (zarf) heavy kelimesinin karşılığı: ⟪ağır|AĞIR⟫
+HEAVINESS	(ad) ağırlık: Değerli olma durumu.
+HEAVINESSES	(heaviness sözcüğünün çekimi) (ad) ağırlık: Değerli olma durumu.
+HEAVING	(heave sözcüğünün çekimi) (eylem) çekmek: Bir şeyin içyüzünü anlamak amacıyla bir kimseyi sıkıştırmak (ayrıca: kaldırmak, fırlatmak)
+HEAVY	(zarf) heavy kelimesinin karşılığı: ⟪ağır|AĞIR⟫\n(eylem) heavy kelimesinin karşılığı: ⟪ağırlaştırmak|AĞIRLAŞTIRMAK⟫
+HEAVYWEIGHT	(ad) heavyweight kelimesinin karşılığı: ağır sıklet, ⟪ağır|AĞIR⟫, ⟪başağırlık|BAŞAĞIRLIK⟫
+HEAVYWEIGHTS	(heavyweight sözcüğünün çekimi) (ad) heavyweight kelimesinin karşılığı: ağır sıklet, ⟪ağır|AĞIR⟫, ⟪başağırlık|BAŞAĞIRLIK⟫
+HEBDOMADS	(ad) çoğul çekimi: hebdomad
+HEBETUDE	(ad) hebetude kelimesinin karşılığı: ⟪uyuşukluk|UYUŞUKLUK⟫, zihni tembellik
+HEBETUDES	(hebetude sözcüğünün çekimi) (ad) hebetude kelimesinin karşılığı: ⟪uyuşukluk|UYUŞUKLUK⟫, zihni tembellik
+HECATOMBS	(ad) çoğul çekimi: hecatomb
+HECKLERS	(ad) çoğul çekimi: heckler
+HECTARE	(ad) hektar: yüz ar, on bin metre kare'lik yüzey ölçü birimi, ha kısaltmasına sahiptir
+HECTARES	(hectare sözcüğünün çekimi) (ad) hektar: yüz ar, on bin metre kare'lik yüzey ölçü birimi, ha kısaltmasına sahiptir
+HECTIC	(sıfat) yoğun: Etkisi güçlü olan (koku, ses vb.); ağır, derin. (ayrıca: telaşlı, hareketli)
+HECTICLY	(hectic sözcüğünün çekimi) (sıfat) yoğun: Etkisi güçlü olan (koku, ses vb.); ağır, derin. (ayrıca: telaşlı, hareketli)
+HECTOLITERS	(ad) çoğul çekimi: hectoliter
+HECTORS	(ad) çoğul çekimi: hector
+HEDGEHOG	(ad) kirpi: kirpigillerden, uzunluğu 25-30 cm olan, sırtı dikenlerle kaplı memeli hayvan
+HEDGEHOGS	(ad) hedgehog sözcüğünün çoğul çekimi: kirpi
+HEDGEROWS	(ad) çoğul çekimi: hedgerow
+HEDGES	(ad) çoğul çekimi: hedge
+HEDONISTS	(ad) çoğul çekimi: hedonist
+HEEDLESS	(sıfat) dikkatsiz: işinde dikkatli davranmayan, dalgın, savruk, özensiz (ayrıca: aldırışsız, aldırmayan)
+HEEDS	(ad) çoğul çekimi: heed
+HEEL	(ad) ökçe: ayakkabı altının topuğa rastlayan yüksek bölümü, topuk (ayrıca: topuk)
+HEELED	(heel sözcüğünün çekimi) (ad) ökçe: ayakkabı altının topuğa rastlayan yüksek bölümü, topuk (ayrıca: topuk)
+HEELING	(heel sözcüğünün çekimi) (ad) ökçe: ayakkabı altının topuğa rastlayan yüksek bölümü, topuk (ayrıca: topuk)
+HEELS	(ad) heel sözcüğünün çoğul çekimi: topuk; ökçe
+HEFT	(eylem) kaldırmak: yükseltmek (ayrıca: taşımak)
+HEFTED	(heft sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: taşımak)
+HEFTER	(heft sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: taşımak)
+HEFTIER	(hefty sözcüğünün çekimi) (sıfat) ağır: Dokunaklı, kırıcı, insanın gücüne giden. (ayrıca: bol, büyük)
+HEFTIEST	(hefty sözcüğünün çekimi) (sıfat) ağır: Dokunaklı, kırıcı, insanın gücüne giden. (ayrıca: bol, büyük)
+HEFTILY	(hefty sözcüğünün çekimi) (sıfat) ağır: Dokunaklı, kırıcı, insanın gücüne giden. (ayrıca: bol, büyük)
+HEFTING	(heft sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: taşımak)
+HEFTS	(ad) çoğul çekimi: heft
+HEFTY	(sıfat) ağır: Dokunaklı, kırıcı, insanın gücüne giden. (ayrıca: bol, büyük)
+HEGEMONIES	(ad) çoğul çekimi: hegemony
+HEGEMONY	(ad) hegemonya: bir devletin ya da bir kişinin, başka bir devlet ya da kişi üzerinde oluşturduğu baskı
+HEGIRAS	(ad) çoğul çekimi: hegira
+HEIFER	(ad) heifer kelimesinin karşılığı: ⟪düve|DÜVE⟫
+HEIFERS	(ad) çoğul çekimi: heifer
+HEIGHT	(ad) yükseklik: geometrik biçimlerde, tabandan tepeye olan uzaklık
+HEIGHTS	(ad) height sözcüğünün çoğul çekimi: yükseklik
+HEINOUS	(sıfat) adi: kıymetsiz, kötü, sıradan, hiçbir özelliği olmayan (ayrıca: kötü, iğrenç)
+HEIR	(ad) heir kelimesinin karşılığı: ⟪vâris|VARİS⟫, ⟪mirasçı|MİRASÇI⟫
+HEIRED	(heir sözcüğünün çekimi) (ad) heir kelimesinin karşılığı: ⟪vâris|VARİS⟫, ⟪mirasçı|MİRASÇI⟫
+HEIRESSES	(ad) çoğul çekimi: heiress
+HEIRING	(heir sözcüğünün çekimi) (ad) heir kelimesinin karşılığı: ⟪vâris|VARİS⟫, ⟪mirasçı|MİRASÇI⟫
+HEIRLOOM	(ad) heirloom kelimesinin karşılığı: baba yadigârı
+HEIRLOOMS	(ad) çoğul çekimi: heirloom
+HEIRS	(ad) çoğul çekimi: heir
+HEIST	(ad) heist kelimesinin karşılığı: ⟪hırsızlık|HIRSIZLIK⟫, silahlı soygun\n(eylem) soymak: irinin üstünde, yanında veya bir yerde bulunan şeyleri çalarak alıp götürmek; dızlamak (ayrıca: çalmak)
+HEISTED	(heist sözcüğünün çekimi) (ad) heist kelimesinin karşılığı: ⟪hırsızlık|HIRSIZLIK⟫, silahlı soygun
+HEISTING	(heist sözcüğünün çekimi) (ad) heist kelimesinin karşılığı: ⟪hırsızlık|HIRSIZLIK⟫, silahlı soygun
+HEISTS	(ad) heist sözcüğünün çoğul çekimi: hırsızlık; silahlı soygun\n(eylem) heist sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: hırsızlık; silahlı soygun
+HELD	(eylem) hold sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: durak
+HELICOIDS	(ad) çoğul çekimi: helicoid
+HELICONS	(ad) çoğul çekimi: helicon
+HELICOPTER	(ad) helicopter kelimesinin karşılığı: ⟪helikopter|HELİKOPTER⟫
+HELICOPTERS	(ad) çoğul çekimi: helicopter
+HELIOGRAPHS	(ad) çoğul çekimi: heliograph
+HELIOMETERS	(ad) çoğul çekimi: heliometer
+HELIOSTATS	(ad) çoğul çekimi: heliostat
+HELIPORTS	(ad) çoğul çekimi: heliport
+HELIUM	(ad) helium kelimesinin karşılığı: ⟪helyum|HELYUM⟫
+HELIUMS	(helium sözcüğünün çekimi) (ad) helium kelimesinin karşılığı: ⟪helyum|HELYUM⟫
+HELL	(ad) cehennem: (mecaz) çok sıkıntılı yer (ayrıca: tamu)
+HELLCATS	(ad) çoğul çekimi: hellcat
+HELLED	(hell sözcüğünün çekimi) (ad) cehennem: (mecaz) çok sıkıntılı yer (ayrıca: tamu)
+HELLFIRES	(ad) çoğul çekimi: hellfire
+HELLHOLES	(ad) çoğul çekimi: hellhole
+HELLHOUNDS	(ad) çoğul çekimi: hellhound
+HELLING	(hell sözcüğünün çekimi) (ad) cehennem: (mecaz) çok sıkıntılı yer (ayrıca: tamu)
+HELLIONS	(ad) çoğul çekimi: hellion
+HELLO	(eylem) hello kelimesinin karşılığı: selam vermek\n(ad) selam: Bir kimseyle karşılaşıldığında, birinin yanına gidildiğinde veya yanından uzaklaşıldığında kendisine söz ve işaretle bir nezaket gösterisi yapma; esenleme, merhaba
+HELLOED	(hello sözcüğünün çekimi) (eylem) hello kelimesinin karşılığı: selam vermek
+HELLOES	(hello sözcüğünün çekimi) (eylem) hello kelimesinin karşılığı: selam vermek
+HELLOING	(hello sözcüğünün çekimi) (eylem) hello kelimesinin karşılığı: selam vermek
+HELLOS	(hello sözcüğünün çekimi) (eylem) hello kelimesinin karşılığı: selam vermek
+HELLS	(ad) hell sözcüğünün çoğul çekimi: tamu, cehennem
+HELMET	(ad) kask: darbelerden başı korumak için, sertleştirilmiş sentetik maddelerden yapılmış sağlam başlık
+HELMETING	(helmet sözcüğünün çekimi) (ad) kask: darbelerden başı korumak için, sertleştirilmiş sentetik maddelerden yapılmış sağlam başlık
+HELMETS	(ad) helmet sözcüğünün çoğul çekimi: kask
+HELMINTHS	(ad) çoğul çekimi: helminth
+HELMS	(ad) çoğul çekimi: helm
+HELMSMEN	(ad) çoğul çekimi: helmsman
+HELOTS	(ad) çoğul çekimi: helot
+HELP	(ad) yardım: İşlerin daha etkin ve verimli olabilmesi için sağlanan katkı; destek.\n(eylem) help kelimesinin karşılığı: yardım etmek
+HELPED	(eylem) help sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yardım
+HELPER	(ad) helper kelimesinin karşılığı: yardımeden
+HELPERS	(ad) çoğul çekimi: helper
+HELPING	(ad) porsiyon: Herhangi bir yemekten bir kimseye bir defada verilen belirli miktar
+HELPINGS	(ad) çoğul çekimi: helping
+HELPLESS	(sıfat) âciz: gücü bir işe yetmez olan, güçsüz
+HELPLESSNESS	(ad) çaresizlik: çaresiz olma durumu
+HELPLESSNESSES	(helplessness sözcüğünün çekimi) (ad) çaresizlik: çaresiz olma durumu
+HELPMATES	(ad) çoğul çekimi: helpmate
+HELPS	(ad) çoğul çekimi: help
+HELVES	(ad) çoğul çekimi: helve
+HEMATITE	(ad) hematite kelimesinin karşılığı: ⟪hematit|HEMATİT⟫, kan taşı
+HEMATITES	(hematite sözcüğünün çekimi) (ad) hematite kelimesinin karşılığı: ⟪hematit|HEMATİT⟫, kan taşı
+HEMATOCRITS	(ad) çoğul çekimi: hematocrit
+HEMATOLOGIES	(hematology sözcüğünün çekimi) (ad) hematology kelimesinin karşılığı: kan bilimi, ⟪hematoloji|HEMATOLOJİ⟫
+HEMATOLOGISTS	(ad) çoğul çekimi: hematologist
+HEMATOLOGY	(ad) hematology kelimesinin karşılığı: kan bilimi, ⟪hematoloji|HEMATOLOJİ⟫
+HEMATOMA	(ad) hematom: Zedelenmiş veya parçalanmış damardan sızan kanın bir dokuda veya organda birikmesi.
+HEMATOMAS	(ad) çoğul çekimi: hematoma
+HEMATOMATA	(hematoma sözcüğünün çekimi) (ad) hematom: Zedelenmiş veya parçalanmış damardan sızan kanın bir dokuda veya organda birikmesi.
+HEMIACETALS	(ad) çoğul çekimi: hemiacetal
+HEMIDEMISEMIQUAVERS	(ad) çoğul çekimi: hemidemisemiquaver
+HEMISPHERE	(ad) yarım küre: yarı küre (ayrıca: yarı küre)
+HEMISPHERES	(ad) çoğul çekimi: hemisphere
+HEMLINES	(ad) çoğul çekimi: hemline
+HEMLOCK	(ad) baldıran: (Conium maculatum) iki yıllık zehirli bitkilerin ortak adı, ağı otu, baldırgan (ayrıca: ağı otu, baldırgan)
+HEMLOCKS	(ad) çoğul çekimi: hemlock
+HEMMERS	(ad) çoğul çekimi: hemmer
+HEMODIALYSES	(hemodialysis sözcüğünün çekimi) (ad) hemodiyaliz: geçirgen bir zardan süzerek, zehirli artıkları ayıklamak ve kanı temizlemek için kullanılan tedavi...
+HEMODIALYSIS	(ad) hemodiyaliz: geçirgen bir zardan süzerek, zehirli artıkları ayıklamak ve kanı temizlemek için kullanılan tedavi yöntemi
+HEMOPHILIACS	(ad) çoğul çekimi: hemophiliac
+HEMORRHAGES	(ad) çoğul çekimi: hemorrhage
+HEMORRHOID	(ad) hemorrhoid kelimesinin karşılığı: ⟪basur|BASUR⟫
+HEMORRHOIDS	(ad) hemorrhoid sözcüğünün çoğul çekimi: basur
+HEMOSTATS	(ad) çoğul çekimi: hemostat
+HEMP	(ad) hemp kelimesinin karşılığı: ⟪kenevir|KENEVİR⟫
+HEMPS	(ad) çoğul çekimi: hemp
+HEMS	(ad) çoğul çekimi: hem
+HEMSTITCH	(ad) hemstitch kelimesinin karşılığı: ⟪ajur|AJUR⟫
+HEMSTITCHED	(hemstitch sözcüğünün çekimi) (ad) hemstitch kelimesinin karşılığı: ⟪ajur|AJUR⟫
+HEMSTITCHER	(hemstitch sözcüğünün çekimi) (ad) hemstitch kelimesinin karşılığı: ⟪ajur|AJUR⟫
+HEMSTITCHES	(hemstitch sözcüğünün çekimi) (ad) hemstitch kelimesinin karşılığı: ⟪ajur|AJUR⟫
+HEMSTITCHING	(hemstitch sözcüğünün çekimi) (ad) hemstitch kelimesinin karşılığı: ⟪ajur|AJUR⟫
+HEN	(ad) hen kelimesinin karşılığı: ⟪tavuk|TAVUK⟫
+HENBANES	(ad) çoğul çekimi: henbane
+HENCEFORTH	(zarf) henceforth kelimesinin karşılığı: bundan böyle
+HENCHMAN	(ad) yardımcı: yardım eden veya gerektiğinde yardım edecek olan (kimse v.s.) (ayrıca: sağ kol, sadık takipçi)
+HENCHMEN	(henchman sözcüğünün çekimi) (ad) yardımcı: yardım eden veya gerektiğinde yardım edecek olan (kimse v.s.) (ayrıca: sağ kol, sadık takipçi)
+HENGES	(ad) çoğul çekimi: henge
+HENNA	(ad) henna kelimesinin karşılığı: ⟪kına|KINA⟫
+HENNAED	(henna sözcüğünün çekimi) (ad) henna kelimesinin karşılığı: ⟪kına|KINA⟫
+HENNAING	(henna sözcüğünün çekimi) (ad) henna kelimesinin karşılığı: ⟪kına|KINA⟫
+HENNAS	(henna sözcüğünün çekimi) (ad) henna kelimesinin karşılığı: ⟪kına|KINA⟫
+HENOTHEISMS	(ad) çoğul çekimi: henotheism
+HENRIES	(ad) çoğul çekimi: henry
+HENS	(ad) çoğul çekimi: hen
+HEPATICAS	(ad) çoğul çekimi: hepatica
+HEPATITIS	(ad) hepatit: karaciğer hücrelerinde inflamasyon ile karakterize tıbbi durum
+HEPTADS	(ad) çoğul çekimi: heptad
+HEPTAGON	(ad) heptagon kelimesinin karşılığı: ⟪yedigen|YEDİGEN⟫
+HEPTAGONS	(ad) heptagon sözcüğünün çoğul çekimi: yedigen
+HEPTANES	(ad) çoğul çekimi: heptane
+HER	(zamir) her kelimesinin karşılığı: ⟪onu|ONU⟫, ⟪ona|ONA⟫
+HERALDRIES	(heraldry sözcüğünün çekimi) (ad) heraldry kelimesinin karşılığı: arma bilimi, mühür bilimi, ⟪heraldik|HERALDİK⟫
+HERALDRY	(ad) heraldry kelimesinin karşılığı: arma bilimi, mühür bilimi, ⟪heraldik|HERALDİK⟫
+HERALDS	(ad) çoğul çekimi: herald
+HERB	(ad) herb kelimesinin karşılığı: ot
+HERBALISTS	(ad) çoğul çekimi: herbalist
+HERBARIUMS	(ad) çoğul çekimi: herbarium
+HERBED	(herb sözcüğünün çekimi) (ad) herb kelimesinin karşılığı: ot
+HERBICIDE	(ad) herbisit: Zararlı bitkileri yok etmek amacıyla kullanılan bileşik
+HERBICIDES	(herbicide sözcüğünün çekimi) (ad) herbisit: Zararlı bitkileri yok etmek amacıyla kullanılan bileşik
+HERBIVORE	(ad) otçul: bitkisel organizmaları besin olarak kullanan hayvan, otobur
+HERBIVORES	(herbivore sözcüğünün çekimi) (ad) otçul: bitkisel organizmaları besin olarak kullanan hayvan, otobur
+HERBS	(ad) çoğul çekimi: herb
+HERD	(ad) çoban: koyun, keçi ve sığır sürüsünün bütün sorumluluğunu taşıyan kişi, sürücü (ayrıca: sürücü)
+HERDED	(herd sözcüğünün çekimi) (ad) çoban: koyun, keçi ve sığır sürüsünün bütün sorumluluğunu taşıyan kişi, sürücü (ayrıca: sürücü)
+HERDER	(ad) herder kelimesinin karşılığı: ⟪çoban|ÇOBAN⟫, ⟪sürücü|SÜRÜCÜ⟫
+HERDERS	(ad) çoğul çekimi: herder
+HERDING	(herd sözcüğünün çekimi) (ad) çoban: koyun, keçi ve sığır sürüsünün bütün sorumluluğunu taşıyan kişi, sürücü (ayrıca: sürücü)
+HERDS	(ad) çoğul çekimi: herd
+HERDSMAN	(ad) çoban: koyun, keçi ve sığır sürüsünün bütün sorumluluğunu taşıyan kişi, sürücü (ayrıca: sürücü)
+HERDSMEN	(herdsman sözcüğünün çekimi) (ad) çoban: koyun, keçi ve sığır sürüsünün bütün sorumluluğunu taşıyan kişi, sürücü (ayrıca: sürücü)
+HERE	(zarf) burada: bu yerde, bunda
+HEREAFTERS	(ad) çoğul çekimi: hereafter
+HEREINAFTER	(zarf) hereinafter kelimesinin karşılığı: bundan sonra, bundan böyle
+HERES	(here sözcüğünün çekimi) (zarf) burada: bu yerde, bunda
+HERESIES	(ad) çoğul çekimi: heresy
+HERETICS	(ad) çoğul çekimi: heretic
+HERETOFORE	(zarf) bu zamana kadar; bundan evvel; bundan öncesinde; şimdiye kadar
+HERIOTS	(ad) çoğul çekimi: heriot
+HERITORS	(ad) çoğul çekimi: heritor
+HERLS	(ad) çoğul çekimi: herl
+HERMAPHRODITES	(ad) çoğul çekimi: hermaphrodite
+HERMENEUTIC	(ad) hermeneutic kelimesinin karşılığı: yorumbilim
+HERMITAGES	(ad) çoğul çekimi: hermitage
+HERMITS	(ad) çoğul çekimi: hermit
+HERMS	(ad) çoğul çekimi: herm
+HERNIA	(ad) hernia kelimesinin karşılığı: ⟪fıtık|FITIK⟫
+HERNIAE	(hernia sözcüğünün çekimi) (ad) hernia kelimesinin karşılığı: ⟪fıtık|FITIK⟫
+HERNIAS	(hernia sözcüğünün çekimi) (ad) hernia kelimesinin karşılığı: ⟪fıtık|FITIK⟫
+HERNS	(ad) çoğul çekimi: hern
+HERO	(ad) hero kelimesinin karşılığı: ⟪kahraman|KAHRAMAN⟫, ⟪alp|ALP⟫
+HEROES	(ad) hero sözcüğünün çoğul çekimi: kahraman, alp
+HEROIC	(sıfat) heroic kelimesinin karşılığı: ⟪kahraman|KAHRAMAN⟫, ⟪kahramanca|KAHRAMANCA⟫, ⟪alp|ALP⟫, ⟪yiğit|YİĞİT⟫
+HEROICS	(ad) çoğul çekimi: heroic
+HEROIN	(ad) eroin: morfinden kimyasal yolla elde edilen uyuşturucu madde.
+HEROINE	(ad) heroine kelimesinin karşılığı: ⟪kahraman|KAHRAMAN⟫
+HEROINES	(ad) çoğul çekimi: heroine
+HEROINS	(heroin sözcüğünün çekimi) (ad) eroin: morfinden kimyasal yolla elde edilen uyuşturucu madde.
+HEROISM	(ad) heroism kelimesinin karşılığı: ⟪alplık|ALPLIK⟫
+HEROISMS	(heroism sözcüğünün çekimi) (ad) heroism kelimesinin karşılığı: ⟪alplık|ALPLIK⟫
+HERONS	(ad) çoğul çekimi: heron
+HEROS	(ad) çoğul çekimi: hero
+HERPETOLOGISTS	(ad) çoğul çekimi: herpetologist
+HERRENVOLKS	(ad) çoğul çekimi: herrenvolk
+HERRING	(ad) herring kelimesinin karşılığı: ⟪ringa|RİNGA⟫
+HERRINGBONES	(ad) çoğul çekimi: herringbone
+HERRINGS	(ad) çoğul çekimi: herring
+HERS	(zamir) hers kelimesinin karşılığı: onunki
+HERSELF	(zamir) kendi: iyelik ekleri alarak kişilerin öz varlığını anlatmaya yarayan dönüşlülük zamiri, öz, zat (ayrıca: kendini, kendinden)
+HERTZ	(ad) hertz: bir saniyede bir titreşim yapan devirli bir olayın frekansına eşit frekans birimi (kısaltma: Hz)
+HERTZES	(hertz sözcüğünün çekimi) (ad) hertz: bir saniyede bir titreşim yapan devirli bir olayın frekansına eşit frekans birimi (kısaltma: Hz)
+HESITANT	(sıfat) kararsız: kararı olmayan, karar vermekte güçlük çeken, bir kararda durmayan; duruksun, mütereddit (ayrıca: tereddütlü)
+HESITATE	(eylem) duraksamak: ne yapmak veya ne demek gerektiğini kestiremeyerek duraklamak, tereddüt etmek (ayrıca: tereddüt etmek)
+HESITATED	(eylem) hesitate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: duraksamak; tereddüt etmek
+HESITATES	(hesitate sözcüğünün çekimi) (eylem) duraksamak: ne yapmak veya ne demek gerektiğini kestiremeyerek duraklamak, tereddüt etmek (ayrıca: tereddüt...
+HESITATING	(hesitate sözcüğünün çekimi) (eylem) duraksamak: ne yapmak veya ne demek gerektiğini kestiremeyerek duraklamak, tereddüt etmek (ayrıca: tereddüt...
+HESITATION	(ad) hesitation kelimesinin karşılığı: ⟪duraksama|DURAKSAMA⟫
+HESITATIONS	(ad) çoğul çekimi: hesitation
+HETEROCLITE	(ad) heteroclite kelimesinin karşılığı: çok çekimli
+HETEROCLITES	(ad) çoğul çekimi: heteroclite
+HETEROCYCLES	(ad) çoğul çekimi: heterocycle
+HETEROGENEOUS	(sıfat) heterogeneous kelimesinin karşılığı: ⟪heterojen|HETEROJEN⟫
+HETEROGENEOUSLY	(heterogeneous sözcüğünün çekimi) (sıfat) heterogeneous kelimesinin karşılığı: ⟪heterojen|HETEROJEN⟫
+HETEROGENOUS	(ad) heterogenous kelimesinin karşılığı: ⟪heterojen|HETEROJEN⟫
+HETEROGRAFTS	(ad) çoğul çekimi: heterograft
+HETEROMORPHISMS	(ad) çoğul çekimi: heteromorphism
+HETERONYM	(ad) heteronym kelimesinin karşılığı: eşadlı
+HETERONYMS	(ad) çoğul çekimi: heteronym
+HETEROSEXUAL	(ad) heterosexual kelimesinin karşılığı: heteroseksüel\n(sıfat) heterosexual kelimesinin karşılığı: heteroseksüel
+HETEROSEXUALS	(ad) çoğul çekimi: heterosexual
+HETEROTROPHS	(ad) çoğul çekimi: heterotroph
+HETMANS	(ad) çoğul çekimi: hetman
+HEUGHS	(ad) çoğul çekimi: heugh
+HEURISTICS	(ad) heuristics kelimesinin karşılığı: bulgulayıcı işlem
+HEWERS	(ad) çoğul çekimi: hewer
+HEXACHORDS	(ad) çoğul çekimi: hexachord
+HEXAD	(ad) hexad kelimesinin karşılığı: ⟪altılı|ALTILI⟫
+HEXADES	(hexad sözcüğünün çekimi) (ad) hexad kelimesinin karşılığı: ⟪altılı|ALTILI⟫
+HEXADS	(ad) çoğul çekimi: hexad
+HEXAGON	(ad) altıgen: altı kenarı ve altı köşesi olan çokgen
+HEXAGONAL	(sıfat) altıgen: altı kenarı ve altı köşesi olan çokgen
+HEXAGONS	(ad) çoğul çekimi: hexagon
+HEXAGRAMS	(ad) çoğul çekimi: hexagram
+HEXAPODS	(ad) çoğul çekimi: hexapod
+HEXES	(ad) çoğul çekimi: hex
+HEXOSES	(ad) çoğul çekimi: hexose
+HEXYLS	(ad) çoğul çekimi: hexyl
+HEY	(ünlem) abe: (Rumeli ağzı) seslenmek ve dikkati çekmek için özellikle Rumeli'de kullanılan bir söz
+HEYDAYS	(ad) çoğul çekimi: heyday
+HIATUS	(ad) hiatus kelimesinin karşılığı: ünlü boşluğu
+HIATUSES	(ad) çoğul çekimi: hiatus
+HIBACHIS	(ad) çoğul çekimi: hibachi
+HIBERNATE	(eylem) hibernate kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNATED	(hibernate sözcüğünün çekimi) (eylem) hibernate kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNATES	(hibernate sözcüğünün çekimi) (eylem) hibernate kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNATING	(hibernate sözcüğünün çekimi) (eylem) hibernate kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNATION	(ad) kış uykusu: bazı hayvanlarda kış aylarında soğuk ve kurak havaya karşı koyabilmek için görülen, minimum enerji tüketimi, hareketsizlik ve metabolik yavaşlama durumu
+HIBERNATIONS	(hibernation sözcüğünün çekimi) (ad) kış uykusu: bazı hayvanlarda kış aylarında soğuk ve kurak havaya karşı koyabilmek için görülen, minimum enerji...
+HICCOUGHS	(ad) çoğul çekimi: hiccough
+HICCUP	(ad) hiccup kelimesinin karşılığı: ⟪hıçkırık|HIÇKIRIK⟫\n(eylem) hıçkırmak: Boğazdan hıçkırık sesi çıkarmak (ayrıca: hıçkırık tutmak)
+HICCUPED	(hiccup sözcüğünün çekimi) (ad) hiccup kelimesinin karşılığı: ⟪hıçkırık|HIÇKIRIK⟫
+HICCUPING	(hiccup sözcüğünün çekimi) (ad) hiccup kelimesinin karşılığı: ⟪hıçkırık|HIÇKIRIK⟫
+HICCUPPED	(hiccup sözcüğünün çekimi) (ad) hiccup kelimesinin karşılığı: ⟪hıçkırık|HIÇKIRIK⟫
+HICCUPPING	(hiccup sözcüğünün çekimi) (ad) hiccup kelimesinin karşılığı: ⟪hıçkırık|HIÇKIRIK⟫
+HICCUPS	(ad) hıçkırık: çok yemek yeme veya sinirsel bir nedenle ve istemsiz olarak diyafram kasının kasılmasıyla hava akciğerlere geçerken boğazdan çıkan ve düzgün aralıklarla tekrarlanan ses
+HICK	(ad) taşralı: Taşra halkından olan (kimse), dışarlıklı.
+HICKEYS	(ad) çoğul çekimi: hickey
+HICKORIES	(ad) çoğul çekimi: hickory
+HICKS	(ad) hick sözcüğünün çoğul çekimi: taşralı\n(eylem) hick sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: taşralı
+HID	(hide sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek
+HIDDEN	(sıfat) saklı: gizli bir yere konarak kaybolması veya çalınması önlenen (ayrıca: gizli, gizlenmiş)
+HIDE	(eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek
+HIDEAWAY	(ad) yatak: gizli barınak veya bir suçluyu gizlice barındıran yer
+HIDEAWAYS	(ad) çoğul çekimi: hideaway
+HIDED	(hide sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek
+HIDEOUS	(sıfat) iğrenç: insanda iğrenme duygusu uyandıran, tiksindiren, müstekreh (ayrıca: çirkin, biçimsiz)
+HIDEOUT	(ad) yatak: gizli barınak veya bir suçluyu gizlice barındıran yer
+HIDEOUTS	(hideout sözcüğünün çekimi) (ad) yatak: gizli barınak veya bir suçluyu gizlice barındıran yer
+HIDERS	(ad) çoğul çekimi: hider
+HIDES	(ad) çoğul çekimi: hide
+HIDING	(ad) hiding kelimesinin karşılığı: ⟪dayak|DAYAK⟫, ⟪sopa|SOPA⟫
+HIDINGS	(hide sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek
+HIERARCHICAL	(sıfat) hierarchical kelimesinin karşılığı: ⟪hiyerarşik|HİYERARŞİK⟫
+HIERARCHICALLY	(zarf) hierarchically kelimesinin karşılığı: hiyerarşik olarak
+HIERARCHIES	(ad) çoğul çekimi: hierarchy
+HIERARCHY	(ad) hiyerarşi: Otoritenin en geniş ölçüde en üst mertebede olmak üzere değişik önem sıraları arasında katı ve kesin bir biçimde dağıldığı toplumsal teşkilatlanış biçimi (ayrıca: aşama sırası)
+HIEROGLYPH	(ad) hiyeroglif: Resim yazı
+HIEROGLYPHICS	(ad) çoğul çekimi: hieroglyphic
+HIEROGLYPHS	(ad) çoğul çekimi: hieroglyph
+HIEROPHANTS	(ad) çoğul çekimi: hierophant
+HIGGLERS	(ad) çoğul çekimi: higgler
+HIGH	(ad) yüksek: Normal değerlerin üstünde olan.\n(sıfat) yüksek: Normal değerlerin üstünde olan. (ayrıca: ulu, yüce)
+HIGHBALLS	(ad) çoğul çekimi: highball
+HIGHBOYS	(ad) çoğul çekimi: highboy
+HIGHBROWS	(ad) çoğul çekimi: highbrow
+HIGHER	(sıfat) high sözcüğünün karşılaştırma derecesi çekimi: yüksek
+HIGHEST	(high sözcüğünün çekimi) (ad) yüksek: Normal değerlerin üstünde olan.
+HIGHLIGHT	(ad) highlight kelimesinin karşılığı: ⟪vurgu|VURGU⟫\n(eylem) highlight kelimesinin karşılığı: ⟪vurgulamak|VURGULAMAK⟫
+HIGHLIGHTED	(highlight sözcüğünün çekimi) (ad) highlight kelimesinin karşılığı: ⟪vurgu|VURGU⟫
+HIGHLIGHTERS	(ad) çoğul çekimi: highlighter
+HIGHLIGHTING	(highlight sözcüğünün çekimi) (ad) highlight kelimesinin karşılığı: ⟪vurgu|VURGU⟫
+HIGHLIGHTS	(ad) çoğul çekimi: highlight
+HIGHNESS	(ad) highness kelimesinin karşılığı: ⟪yükseklik|YÜKSEKLİK⟫
+HIGHNESSES	(highness sözcüğünün çekimi) (ad) highness kelimesinin karşılığı: ⟪yükseklik|YÜKSEKLİK⟫
+HIGHS	(ad) çoğul çekimi: high
+HIGHWAY	(ad) otoyol: hızlı bir trafik akışı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban
+HIGHWAYMEN	(ad) çoğul çekimi: highwayman
+HIGHWAYS	(ad) çoğul çekimi: highway
+HIJACKERS	(ad) çoğul çekimi: hijacker
+HIJACKINGS	(ad) çoğul çekimi: hijacking
+HIJACKS	(ad) çoğul çekimi: hijack
+HIKERS	(ad) çoğul çekimi: hiker
+HIKES	(ad) çoğul çekimi: hike
+HILARIOUS	(sıfat) gülünç: Alayı üzerine çeken, eğlence konusu olan, güldürücü, tuhaf, komik (ayrıca: çok komik, eğlenceli)
+HILDINGS	(ad) çoğul çekimi: hilding
+HILL	(ad) yokuş: aşağıdan yukarıya gittikçe yükselen eğimli yer, iniş karşıtı. (ayrıca: tepe, bayır)
+HILLBILLIES	(ad) çoğul çekimi: hillbilly
+HILLED	(hill sözcüğünün çekimi) (ad) yokuş: aşağıdan yukarıya gittikçe yükselen eğimli yer, iniş karşıtı. (ayrıca: tepe, bayır)
+HILLER	(hill sözcüğünün çekimi) (ad) yokuş: aşağıdan yukarıya gittikçe yükselen eğimli yer, iniş karşıtı. (ayrıca: tepe, bayır)
+HILLING	(hill sözcüğünün çekimi) (ad) yokuş: aşağıdan yukarıya gittikçe yükselen eğimli yer, iniş karşıtı. (ayrıca: tepe, bayır)
+HILLOCKS	(ad) çoğul çekimi: hillock
+HILLS	(ad) hill sözcüğünün çoğul çekimi: tepe, yokuş, bayır
+HILLSIDES	(ad) çoğul çekimi: hillside
+HILLTOPS	(ad) çoğul çekimi: hilltop
+HILTS	(ad) çoğul çekimi: hilt
+HIM	(zamir) him kelimesinin karşılığı: ⟪onu|ONU⟫, ⟪ona|ONA⟫
+HIMSELF	(zamir) kendinden: kendi aklından, kendi kendine (ayrıca: kendi, kendini)
+HIND	(ad) hind kelimesinin karşılığı: ⟪arka|ARKA⟫\n(sıfat) hind kelimesinin karşılığı: ⟪arka|ARKA⟫
+HINDER	(eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: aksatmak)
+HINDERED	(hinder sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: aksatmak)
+HINDERER	(hinder sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: aksatmak)
+HINDERERS	(hinder sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: aksatmak)
+HINDERING	(ad) tespit: belirleme
+HINDERS	(hinder sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: aksatmak)
+HINDGUTS	(ad) çoğul çekimi: hindgut
+HINDMOST	(ad) son: arkadan gelen
+HINDQUARTERS	(ad) çoğul çekimi: hindquarter
+HINDRANCE	(ad) engel: bir şeyin gerçekleşmesini önleyen sebep, mâni, mahzur, müşkül, pürüz, mânia, handikap, beis (ayrıca: engelleyici)
+HINDRANCES	(ad) hindrance sözcüğünün çoğul çekimi: engel, engelleyici
+HINDS	(ad) çoğul çekimi: hind
+HINGE	(ad) hinge kelimesinin karşılığı: ⟪menteşe|MENTEŞE⟫
+HINGED	(hinge sözcüğünün çekimi) (ad) hinge kelimesinin karşılığı: ⟪menteşe|MENTEŞE⟫
+HINGER	(hinge sözcüğünün çekimi) (ad) hinge kelimesinin karşılığı: ⟪menteşe|MENTEŞE⟫
+HINGES	(ad) çoğul çekimi: hinge
+HINGING	(hinge sözcüğünün çekimi) (ad) hinge kelimesinin karşılığı: ⟪menteşe|MENTEŞE⟫
+HINNIES	(ad) çoğul çekimi: hinny
+HINTERLAND	(ad) hinterland kelimesinin karşılığı: ⟪hinterlant|HİNTERLANT⟫, iç bölge
+HINTERLANDS	(ad) çoğul çekimi: hinterland
+HINTS	(ad) çoğul çekimi: hint
+HIP	(ad) hip kelimesinin karşılığı: ⟪kalça|KALÇA⟫
+HIPBONE	(ad) hipbone kelimesinin karşılığı: kalça kemiği
+HIPBONES	(ad) çoğul çekimi: hipbone
+HIPPER	(hip sözcüğünün çekimi) (ad) hip kelimesinin karşılığı: ⟪kalça|KALÇA⟫
+HIPPEST	(hip sözcüğünün çekimi) (ad) hip kelimesinin karşılığı: ⟪kalça|KALÇA⟫
+HIPPO	(ad) su aygırı: su aygırıgiller (ayrıca: hipopotam)
+HIPPOCAMPI	(hippocampus sözcüğünün çekimi) (ad) hipokampus: Beyindeki limbik sisteme katılan, hafıza ve yön bulmada önemli rol oynayan, denizatına benzeyen beyin...
+HIPPOCAMPUS	(ad) hipokampus: Beyindeki limbik sisteme katılan, hafıza ve yön bulmada önemli rol oynayan, denizatına benzeyen beyin bölgesi.
+HIPPODROME	(ad) hipodrom: at yarışları yapılan alan, koşu alanı
+HIPPODROMES	(hippodrome sözcüğünün çekimi) (ad) hipodrom: at yarışları yapılan alan, koşu alanı
+HIPPOPOTAMI	(hippopotamus sözcüğünün çekimi) (ad) su aygırı: su aygırıgiller
+HIPPOPOTAMUS	(ad) su aygırı: su aygırıgiller
+HIPPOPOTAMUSES	(hippopotamus sözcüğünün çekimi) (ad) su aygırı: su aygırıgiller
+HIPPOS	(ad) çoğul çekimi: hippo
+HIPS	(ad) hip sözcüğünün çoğul çekimi: kalça\n(eylem) hip sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kalça
+HIRE	(eylem) (Britanya) bir şeyi (birisinden) kiralamak.\n(ad) bir kiralama karşılığında alınan meblağ, kira.
+HIRED	(hire sözcüğünün çekimi) (eylem) (Britanya) bir şeyi (birisinden) kiralamak.
+HIRELINGS	(ad) çoğul çekimi: hireling
+HIRES	(ad) çoğul çekimi: hire
+HIRING	(eylem) hire fiilinin şimdiki zaman sıfat-fiil (present participle) çekimi
+HIRSUTE	(sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kılla kaplı, saçlı sakallı)
+HIS	(zamir) 3. tekil erkek şahıslar için iyelik zamiri, onun, onunki
+HISS	(eylem) tıslamak: Haksızlığını anlayıp susmak, sesi soluğu kesmek
+HISSED	(hiss sözcüğünün çekimi) (eylem) tıslamak: Haksızlığını anlayıp susmak, sesi soluğu kesmek
+HISSES	(hiss sözcüğünün çekimi) (eylem) tıslamak: Haksızlığını anlayıp susmak, sesi soluğu kesmek
+HISSING	(hiss sözcüğünün çekimi) (eylem) tıslamak: Haksızlığını anlayıp susmak, sesi soluğu kesmek
+HISSINGS	(ad) çoğul çekimi: hissing
+HISTAMINES	(ad) çoğul çekimi: histamine
+HISTOGRAM	(ad) histogram kelimesinin karşılığı: dağılım eğrisi
+HISTOGRAMS	(ad) çoğul çekimi: histogram
+HISTOLOGIC	(sıfat) histologic kelimesinin karşılığı: doku bilimsel
+HISTOLOGICAL	(sıfat) histological kelimesinin karşılığı: doku bilimsel
+HISTOLOGIES	(ad) histology sözcüğünün çoğul çekimi: doku bilimi, histoloji
+HISTOLOGISTS	(ad) çoğul çekimi: histologist
+HISTOLOGY	(ad) histology kelimesinin karşılığı: doku bilimi, ⟪histoloji|HİSTOLOJİ⟫
+HISTONE	(ad) histon: çoğunlukla ökaryotik hücrelerde bulunan, küçük molekül ağırlıklı, bazik proteinler
+HISTONES	(histone sözcüğünün çekimi) (ad) histon: çoğunlukla ökaryotik hücrelerde bulunan, küçük molekül ağırlıklı, bazik proteinler
+HISTORIAN	(ad) tarihçi: Tarihsel konular üzerinde araştırmalar yapan, tarih kitapları yazan kimse; müverrih
+HISTORIANS	(ad) çoğul çekimi: historian
+HISTORIC	(sıfat) tarihî: Tarihe geçmiş. (ayrıca: tarihsel)
+HISTORICAL	(sıfat) tarihî: tarihe dair olan. (ayrıca: tarihsel)
+HISTORICISM	(ad) tarihselcilik: Olayların açıklanmasında tarihe öncelik veren düşünce akımı.
+HISTORICISMS	(historicism sözcüğünün çekimi) (ad) tarihselcilik: Olayların açıklanmasında tarihe öncelik veren düşünce akımı.
+HISTORIES	(ad) history sözcüğünün çoğul çekimi: tarih
+HISTORIOGRAPHER	(ad) tarihçi: Tarihsel konular üzerinde araştırmalar yapan, tarih kitapları yazan kimse; müverrih
+HISTORIOGRAPHERS	(ad) çoğul çekimi: historiographer
+HISTORY	(ad) tarih: Toplumları, milletleri, kuruluşları etkileyen hareketlerden doğan, olayları zaman ve yer göstererek anlatan, bu olaylar arasındaki ilişkileri, daha önceki ve sonraki olaylarla bağlantılarını, karşılıklı etkilenmeleri, her milletin kurduğu medeniyeti inceleyen bilim.
+HIT	(ad) hit kelimesinin karşılığı: ⟪darbe|DARBE⟫\n(zamir) hit kelimesinin karşılığı: o
+HITCH	(ad) hitch kelimesinin karşılığı: ⟪aksaklık|AKSAKLIK⟫, ⟪aksama|AKSAMA⟫, ⟪engel|ENGEL⟫\n(eylem) refleksif bir hareketle bir şeyin yerini değiştirmek
+HITCHED	(hitch sözcüğünün çekimi) (ad) hitch kelimesinin karşılığı: ⟪aksaklık|AKSAKLIK⟫, ⟪aksama|AKSAMA⟫, ⟪engel|ENGEL⟫
+HITCHER	(hitch sözcüğünün çekimi) (ad) hitch kelimesinin karşılığı: ⟪aksaklık|AKSAKLIK⟫, ⟪aksama|AKSAMA⟫, ⟪engel|ENGEL⟫
+HITCHES	(ad) çoğul çekimi: hitch
+HITCHHIKE	(eylem) hitchhike kelimesinin karşılığı: otostop çekmek\n(ad) otostop ile yapılan yolculuk; otostop
+HITCHHIKED	(hitchhike sözcüğünün çekimi) (eylem) hitchhike kelimesinin karşılığı: otostop çekmek
+HITCHHIKER	(ad) otostopçu: Otostop yapan kimse
+HITCHHIKERS	(ad) çoğul çekimi: hitchhiker
+HITCHHIKES	(ad) hitchhike sözcüğünün çoğul çekimi: otostop çekmek\n(eylem) hitchhike sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: otostop çekmek
+HITCHHIKING	(hitchhike sözcüğünün çekimi) (eylem) hitchhike kelimesinin karşılığı: otostop çekmek
+HITCHING	(hitch sözcüğünün çekimi) (ad) hitch kelimesinin karşılığı: ⟪aksaklık|AKSAKLIK⟫, ⟪aksama|AKSAMA⟫, ⟪engel|ENGEL⟫
+HITS	(ad) hit sözcüğünün çoğul çekimi: darbe\n(eylem) hit sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: darbe
+HITTERS	(ad) çoğul çekimi: hitter
+HITTING	(eylem) hit sözcüğünün şimdiki zaman ortaç ve gerund çekimi: darbe
+HIVE	(ad) hive kelimesinin karşılığı: arı kovanı
+HIVED	(hive sözcüğünün çekimi) (ad) hive kelimesinin karşılığı: arı kovanı
+HIVES	(ad) çoğul çekimi: hive
+HIVING	(hive sözcüğünün çekimi) (ad) hive kelimesinin karşılığı: arı kovanı
+HOAGIES	(ad) çoğul çekimi: hoagie
+HOARD	(ad) define: Toprak altına gömülerek saklanmış para veya değerli şeyler; gömü, hazine
+HOARDED	(hoard sözcüğünün çekimi) (ad) define: Toprak altına gömülerek saklanmış para veya değerli şeyler; gömü, hazine
+HOARDERS	(ad) çoğul çekimi: hoarder
+HOARDING	(hoard sözcüğünün çekimi) (ad) define: Toprak altına gömülerek saklanmış para veya değerli şeyler; gömü, hazine
+HOARDINGS	(ad) çoğul çekimi: hoarding
+HOARDS	(ad) çoğul çekimi: hoard
+HOARIER	(hoary sözcüğünün çekimi) (sıfat) hoary kelimesinin karşılığı: ağarmış
+HOARIEST	(hoary sözcüğünün çekimi) (sıfat) hoary kelimesinin karşılığı: ağarmış
+HOARILY	(hoary sözcüğünün çekimi) (sıfat) hoary kelimesinin karşılığı: ağarmış
+HOARS	(ad) çoğul çekimi: hoar
+HOARSE	(sıfat) hoarse kelimesinin karşılığı: boğuk sesli, kısık sesli
+HOARSER	(hoarse sözcüğünün çekimi) (sıfat) hoarse kelimesinin karşılığı: boğuk sesli, kısık sesli
+HOARSEST	(hoarse sözcüğünün çekimi) (sıfat) hoarse kelimesinin karşılığı: boğuk sesli, kısık sesli
+HOARY	(sıfat) hoary kelimesinin karşılığı: ağarmış
+HOAXES	(ad) çoğul çekimi: hoax
+HOBBIES	(hobby sözcüğünün çekimi) (ad) düşkü: hobi, uğraşı (ayrıca: hobi)
+HOBBIT	(ad) hobbit kelimesinin karşılığı: hobit
+HOBBITS	(ad) çoğul çekimi: hobbit
+HOBBLEDEHOYS	(ad) çoğul çekimi: hobbledehoy
+HOBBLERS	(ad) çoğul çekimi: hobbler
+HOBBLES	(ad) çoğul çekimi: hobble
+HOBBY	(ad) düşkü: hobi, uğraşı (ayrıca: hobi)
+HOBBYHORSES	(ad) çoğul çekimi: hobbyhorse
+HOBBYISTS	(ad) çoğul çekimi: hobbyist
+HOBGOBLINS	(ad) çoğul çekimi: hobgoblin
+HOBNAILS	(ad) çoğul çekimi: hobnail
+HOBO	(sıfat) hobo kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+HOBOED	(hobo sözcüğünün çekimi) (sıfat) hobo kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+HOBOES	(hobo sözcüğünün çekimi) (sıfat) hobo kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+HOBOING	(hobo sözcüğünün çekimi) (sıfat) hobo kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+HOBOS	(hobo sözcüğünün çekimi) (sıfat) hobo kelimesinin karşılığı: ⟪berduş|BERDUŞ⟫
+HOBS	(ad) çoğul çekimi: hob
+HOCKEY	(ad) hokey: bir ucu kıvrık sopalarla çayır veya buz üzerinde iki takım arasında oynanan top oyunu
+HOCKEYS	(hockey sözcüğünün çekimi) (ad) hokey: bir ucu kıvrık sopalarla çayır veya buz üzerinde iki takım arasında oynanan top oyunu
+HOCKS	(ad) çoğul çekimi: hock
+HODS	(ad) çoğul çekimi: hod
+HOE	(ad) çapa: Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı
+HOECAKES	(ad) çoğul çekimi: hoecake
+HOED	(hoe sözcüğünün çekimi) (ad) çapa: Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı
+HOEING	(hoe sözcüğünün çekimi) (ad) çapa: Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı
+HOES	(hoe sözcüğünün çekimi) (ad) çapa: Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı
+HOGANS	(ad) çoğul çekimi: hogan
+HOGBACKS	(ad) çoğul çekimi: hogback
+HOGGETS	(ad) çoğul çekimi: hogget
+HOGS	(ad) çoğul çekimi: hog
+HOGSHEADS	(ad) çoğul çekimi: hogshead
+HOIST	(ad) hoist kelimesinin karşılığı: ⟪çekme|ÇEKME⟫, ⟪kaldırma|KALDIRMA⟫\n(eylem) hoist kelimesinin karşılığı: yukarı kaldırmak, yükseğe kaldırmak, yukarı çekmek
+HOISTED	(hoist sözcüğünün çekimi) (ad) hoist kelimesinin karşılığı: ⟪çekme|ÇEKME⟫, ⟪kaldırma|KALDIRMA⟫
+HOISTING	(hoist sözcüğünün çekimi) (ad) hoist kelimesinin karşılığı: ⟪çekme|ÇEKME⟫, ⟪kaldırma|KALDIRMA⟫
+HOISTS	(ad) çoğul çekimi: hoist
+HOKUMS	(ad) çoğul çekimi: hokum
+HOLD	(ad) hold kelimesinin karşılığı: ⟪durak|DURAK⟫\n(eylem) tutmak: beddua, dua, ah v.s. etkisini göstermek, gerçekleşmek, yerine gelmek, varmak
+HOLDALLS	(ad) çoğul çekimi: holdall
+HOLDERS	(ad) çoğul çekimi: holder
+HOLDING	(ad) holding kelimesinin karşılığı: ana ortaklık, ⟪holding|HOLDİNG⟫
+HOLDINGS	(hold sözcüğünün çekimi) (ad) hold kelimesinin karşılığı: ⟪durak|DURAK⟫
+HOLDS	(ad) çoğul çekimi: hold
+HOLE	(ad) hole kelimesinin karşılığı: ⟪delik|DELİK⟫
+HOLED	(hole sözcüğünün çekimi) (ad) hole kelimesinin karşılığı: ⟪delik|DELİK⟫
+HOLES	(ad) hole sözcüğünün çoğul çekimi: delik.
+HOLIDAY	(ad) holiday kelimesinin karşılığı: ⟪bayram|BAYRAM⟫\n(eylem) holiday kelimesinin karşılığı: tatil yapmak
+HOLIDAYED	(holiday sözcüğünün çekimi) (ad) holiday kelimesinin karşılığı: ⟪bayram|BAYRAM⟫
+HOLIDAYER	(holiday sözcüğünün çekimi) (ad) holiday kelimesinin karşılığı: ⟪bayram|BAYRAM⟫
+HOLIDAYING	(holiday sözcüğünün çekimi) (ad) holiday kelimesinin karşılığı: ⟪bayram|BAYRAM⟫
+HOLIDAYS	(ad) holiday sözcüğünün çoğul çekimi: bayram
+HOLIER	(sıfat) holy sözcüğünün karşılaştırma derecesi çekimi: kutsal, mukaddes
+HOLIES	(ad) çoğul çekimi: holy
+HOLIEST	(sıfat) holy sözcüğünün üstünlük derecesi çekimi: kutsal, mukaddes
+HOLING	(hole sözcüğünün çekimi) (ad) hole kelimesinin karşılığı: ⟪delik|DELİK⟫
+HOLISM	(ad) holizm: Bir bütünün parçaların toplamından fazla olduğu görüşü
+HOLISMS	(ad) çoğul çekimi: holism
+HOLISTIC	(sıfat) bütünsel: bütün niteliğinde olan, bütünle ilgili, total (ayrıca: bütünselci)
+HOLLERS	(ad) çoğul çekimi: holler
+HOLLIES	(ad) çoğul çekimi: holly
+HOLLOW	(ad) hollow kelimesinin karşılığı: ⟪oyuk|OYUK⟫\n(eylem) oymak: keskin, sivri uçlu bir cisimle bir şeyi yontarak veya delerek çukur oluşturmak
+HOLLOWED	(hollow sözcüğünün çekimi) (ad) hollow kelimesinin karşılığı: ⟪oyuk|OYUK⟫
+HOLLOWER	(hollow sözcüğünün çekimi) (ad) hollow kelimesinin karşılığı: ⟪oyuk|OYUK⟫
+HOLLOWEST	(hollow sözcüğünün çekimi) (ad) hollow kelimesinin karşılığı: ⟪oyuk|OYUK⟫
+HOLLOWING	(hollow sözcüğünün çekimi) (ad) hollow kelimesinin karşılığı: ⟪oyuk|OYUK⟫
+HOLLOWS	(ad) çoğul çekimi: hollow
+HOLMIUM	(ad) holmiyum: atom numarası 67 , simgesi Ho olan bir kimyasal element
+HOLMIUMS	(holmium sözcüğünün çekimi) (ad) holmiyum: atom numarası 67 , simgesi Ho olan bir kimyasal element
+HOLMS	(ad) çoğul çekimi: holm
+HOLOCAUST	(ad) holocaust kelimesinin karşılığı: ⟪holokost|HOLOKOST⟫
+HOLOCAUSTS	(ad) çoğul çekimi: holocaust
+HOLOGRAMS	(ad) çoğul çekimi: hologram
+HOLOGRAPHS	(ad) çoğul çekimi: holograph
+HOLOTYPES	(ad) çoğul çekimi: holotype
+HOLSTEINS	(ad) çoğul çekimi: holstein
+HOLSTER	(ad) holster kelimesinin karşılığı: tabanca kılıfı, ⟪kubur|KUBUR⟫
+HOLSTERING	(holster sözcüğünün çekimi) (ad) holster kelimesinin karşılığı: tabanca kılıfı, ⟪kubur|KUBUR⟫
+HOLSTERS	(ad) çoğul çekimi: holster
+HOLTS	(ad) çoğul çekimi: holt
+HOLY	(sıfat) kutsal: güçlü bir dinî saygı uyandıran veya uyandırması gereken (ayrıca: mukaddes)
+HOLYSTONES	(ad) çoğul çekimi: holystone
+HOMAGE	(ad) homage kelimesinin karşılığı: teşrih
+HOMAGED	(homage sözcüğünün çekimi) (ad) homage kelimesinin karşılığı: teşrih
+HOMAGES	(ad) çoğul çekimi: homage
+HOMAGING	(homage sözcüğünün çekimi) (ad) homage kelimesinin karşılığı: teşrih
+HOMBURGS	(ad) çoğul çekimi: homburg
+HOME	(ad) home kelimesinin karşılığı: ev
+HOMEBODIES	(ad) çoğul çekimi: homebody
+HOMEBODY	(ad) evde oturmayı seven kimse, ev kuşu.
+HOMEBOYS	(ad) çoğul çekimi: homeboy
+HOMED	(home sözcüğünün çekimi) (ad) home kelimesinin karşılığı: ev
+HOMELAND	(ad) yurt: Ana vatan olan yer. (ayrıca: vatan, dar)
+HOMELANDS	(ad) çoğul çekimi: homeland
+HOMELESS	(sıfat) evsiz evi barkı olmayan
+HOMEMADE	(sıfat) homemade kelimesinin karşılığı: ev yapımı
+HOMEOPATHIC	(ad) homeopathic kelimesinin karşılığı: homeopatik
+HOMEOPATHIES	(homeopathy sözcüğünün çekimi) (ad) homeopathy kelimesinin karşılığı: homeopati
+HOMEOPATHS	(ad) çoğul çekimi: homeopath
+HOMEOPATHY	(ad) homeopathy kelimesinin karşılığı: homeopati
+HOMEOWNERS	(ad) çoğul çekimi: homeowner
+HOMERS	(ad) çoğul çekimi: homer
+HOMES	(ad) home sözcüğünün çoğul çekimi: ev
+HOMESTEAD	(ad) homestead kelimesinin karşılığı: çiftlik evi
+HOMESTEADED	(homestead sözcüğünün çekimi) (ad) homestead kelimesinin karşılığı: çiftlik evi
+HOMESTEADERS	(ad) çoğul çekimi: homesteader
+HOMESTEADING	(homestead sözcüğünün çekimi) (ad) homestead kelimesinin karşılığı: çiftlik evi
+HOMESTEADS	(ad) çoğul çekimi: homestead
+HOMESTRETCHES	(ad) çoğul çekimi: homestretch
+HOMETOWNS	(ad) hometown sözcüğünün çoğul çekimi
+HOMEWORK	(ad) ödev: öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma
+HOMEWORKS	(homework sözcüğünün çekimi) (ad) ödev: öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma
+HOMICIDE	(ad) cinayet: (mecaz) Adam öldürme derecesinde ağır suç.
+HOMICIDES	(ad) homicide sözcüğünün çoğul çekimi: cinayet
+HOMILIES	(ad) çoğul çekimi: homily
+HOMILY	(ad) vaaz: Bir kimsenin kalbini yumuşatacak şekilde söz söyleme. (ayrıca: hitabe)
+HOMING	(home sözcüğünün çekimi) (ad) home kelimesinin karşılığı: ev
+HOMINID	(ad) hominid kelimesinin karşılığı: insanımsı
+HOMINIDS	(ad) çoğul çekimi: hominid
+HOMINOID	(ad) hominoid kelimesinin karşılığı: maymınsan
+HOMINOIDS	(hominoid sözcüğünün çekimi) (ad) hominoid kelimesinin karşılığı: maymınsan
+HOMOGENEITIES	(homogeneity sözcüğünün çekimi) (ad) bağdaşıklık: bağdaşık olma durumu, mütecanislik, homojenlik (ayrıca: mütecanislik, homojenlik)
+HOMOGENEITY	(ad) bağdaşıklık: bağdaşık olma durumu, mütecanislik, homojenlik (ayrıca: mütecanislik, homojenlik)
+HOMOGENEOUS	(sıfat) türdeş: aynı türden olan, türleri bir olan
+HOMOGRAFTS	(ad) çoğul çekimi: homograft
+HOMOGRAPH	(ad) homograph kelimesinin karşılığı: eşyazımlı
+HOMOGRAPHS	(ad) homographs kelimesinin karşılığı: eşyazımlılar
+HOMOLOGIES	(ad) çoğul çekimi: homology
+HOMOMORPHISMS	(ad) çoğul çekimi: homomorphism
+HOMONYM	(sıfat) homonym kelimesinin karşılığı: eşadlı
+HOMONYMIES	(homonymy sözcüğünün çekimi) (ad) homonymy kelimesinin karşılığı: eşadlılık
+HOMONYMS	(ad) homonyms kelimesinin karşılığı: eşadlılar
+HOMONYMY	(ad) homonymy kelimesinin karşılığı: eşadlılık
+HOMOPHOBIA	(ad) homophobia kelimesinin karşılığı: ⟪homofobi|HOMOFOBİ⟫
+HOMOPHOBIAS	(homophobia sözcüğünün çekimi) (ad) homophobia kelimesinin karşılığı: ⟪homofobi|HOMOFOBİ⟫
+HOMOPHOBIC	(ad) homofobik: homofobi ile ilgili
+HOMOPHONE	(ad) sesteş: Söylenişleri aynı, anlam ve kökleri ayrı olan (kelimeler), eş adlı, eş sesli, homonim (ayrıca: eş sesli)
+HOMOPHONES	(ad) homophone sözcüğünün çoğul çekimi: eş sesli, sesteş
+HOMOPHONIES	(homophony sözcüğünün çekimi) (ad) homophony kelimesinin karşılığı: eşseslilik
+HOMOPHONY	(ad) homophony kelimesinin karşılığı: eşseslilik
+HOMOSEXUAL	(ad) homoseksüel: eş cinsel (ayrıca: eşcinsel)\n(sıfat) homoseksüel: eş cinsel (ayrıca: eşcinsel)
+HOMOSEXUALITIES	(homosexuality sözcüğünün çekimi) (ad) eş cinsellik: Kendi cinsinden kimselerle cinsel ilişkide bulunma durumu; homoseksüellik.
+HOMOSEXUALITY	(ad) eş cinsellik: Kendi cinsinden kimselerle cinsel ilişkide bulunma durumu; homoseksüellik.
+HOMOSEXUALS	(ad) çoğul çekimi: homosexual
+HONCHO	(ad) yönetici: yönetme gücünü elinde bulunduran kişi, yöneten kişi, idareci, menajer (ayrıca: lider, patron)
+HONCHOS	(ad) çoğul çekimi: honcho
+HONE	(ad) hone kelimesinin karşılığı: ⟪bileği|BİLEĞİ⟫
+HONED	(sıfat) honed kelimesinin karşılığı: bilenmiş, honlanmış, kılağılanmış
+HONER	(hone sözcüğünün çekimi) (ad) hone kelimesinin karşılığı: ⟪bileği|BİLEĞİ⟫
+HONES	(ad) çoğul çekimi: hone
+HONEST	(sıfat) dürüst: sözünde ve davranışlarında doğruluktan ayrılmayan, doğru
+HONESTER	(honest sözcüğünün çekimi) (sıfat) dürüst: sözünde ve davranışlarında doğruluktan ayrılmayan, doğru
+HONESTEST	(honest sözcüğünün çekimi) (sıfat) dürüst: sözünde ve davranışlarında doğruluktan ayrılmayan, doğru
+HONESTLY	(zarf) asıl: gerçekten, gerçek olarak
+HONEY	(ad) bal: arıcılık, yiyecekler
+HONEYBEE	(ad) arı: Zar kanatlılardan, bal ve bal mumu yapan, iğnesiyle sokan böcek (Apis mellifica).
+HONEYBEES	(ad) çoğul çekimi: honeybee
+HONEYCOMB	(ad) honeycomb kelimesinin karşılığı: bal peteği, arı dalağı
+HONEYCOMBED	(honeycomb sözcüğünün çekimi) (ad) honeycomb kelimesinin karşılığı: bal peteği, arı dalağı
+HONEYCOMBING	(honeycomb sözcüğünün çekimi) (ad) honeycomb kelimesinin karşılığı: bal peteği, arı dalağı
+HONEYCOMBS	(ad) honeycomb sözcüğünün çoğul çekimi: bal peteği, arı dalağı
+HONEYED	(honey sözcüğünün çekimi) (ad) bal: arıcılık, yiyecekler
+HONEYING	(honey sözcüğünün çekimi) (ad) bal: arıcılık, yiyecekler
+HONEYMOON	(ad) balayı: evlilik yaşamının ilk günleri
+HONEYMOONED	(honeymoon sözcüğünün çekimi) (ad) balayı: evlilik yaşamının ilk günleri
+HONEYMOONERS	(ad) çoğul çekimi: honeymooner
+HONEYMOONING	(honeymoon sözcüğünün çekimi) (ad) balayı: evlilik yaşamının ilk günleri
+HONEYMOONS	(ad) çoğul çekimi: honeymoon
+HONEYS	(ad) honey sözcüğünün çoğul çekimi: bal\n(eylem) honey sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bal
+HONEYSUCKLE	(ad) hanımeli: hanımeligillilerden, hoş kokulu açan ,çalı şeklinde bir tırmancı çiçekli bitki, (Lonicera)
+HONEYSUCKLES	(ad) çoğul çekimi: honeysuckle
+HONGS	(ad) çoğul çekimi: hong
+HONIED	(honey sözcüğünün çekimi) (ad) bal: arıcılık, yiyecekler
+HONING	(hone sözcüğünün çekimi) (ad) hone kelimesinin karşılığı: ⟪bileği|BİLEĞİ⟫
+HONKERS	(ad) çoğul çekimi: honker
+HONKEYS	(ad) çoğul çekimi: honkey
+HONKIES	(ad) çoğul çekimi: honky
+HONKS	(ad) çoğul çekimi: honk
+HONOR	(ad) honor kelimesinin karşılığı: ⟪haysiyet|HAYSİYET⟫, ⟪şeref|ŞEREF⟫
+HONORABLE	(sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun
+HONORED	(honor sözcüğünün çekimi) (ad) honor kelimesinin karşılığı: ⟪haysiyet|HAYSİYET⟫, ⟪şeref|ŞEREF⟫
+HONOREES	(ad) çoğul çekimi: honoree
+HONORERS	(ad) çoğul çekimi: honorer
+HONORIFIC	(sıfat) honorific kelimesinin karşılığı: ⟪yüceltici|YÜCELTİCİ⟫
+HONORIFICS	(ad) incelikli anlatım biçimleri
+HONORING	(honor sözcüğünün çekimi) (ad) honor kelimesinin karşılığı: ⟪haysiyet|HAYSİYET⟫, ⟪şeref|ŞEREF⟫
+HONORS	(ad) çoğul çekimi: honor
+HONOUR	(ad) onur: onur: haysiyet, izzetinefis (ayrıca: şeref)
+HONOURED	(honour sözcüğünün çekimi) (ad) onur: onur: haysiyet, izzetinefis (ayrıca: şeref)
+HONOURING	(honour sözcüğünün çekimi) (ad) onur: onur: haysiyet, izzetinefis (ayrıca: şeref)
+HONOURS	(ad) çoğul çekimi: honour
+HOOD	(ad) hood kelimesinin karşılığı: ⟪sorguç|SORGUÇ⟫, ⟪kapüşon|KAPÜŞON⟫, ⟪başlık|BAŞLIK⟫
+HOODED	(hood sözcüğünün çekimi) (ad) hood kelimesinin karşılığı: ⟪sorguç|SORGUÇ⟫, ⟪kapüşon|KAPÜŞON⟫, ⟪başlık|BAŞLIK⟫
+HOODIES	(ad) çoğul çekimi: hoodie
+HOODING	(hood sözcüğünün çekimi) (ad) hood kelimesinin karşılığı: ⟪sorguç|SORGUÇ⟫, ⟪kapüşon|KAPÜŞON⟫, ⟪başlık|BAŞLIK⟫
+HOODLUMS	(ad) çoğul çekimi: hoodlum
+HOODOOS	(ad) çoğul çekimi: hoodoo
+HOODS	(ad) çoğul çekimi: hood
+HOODWINKED	(eylem) hoodwink sözcüğünün geçmiş zaman çekimi
+HOODWINKS	(ad) çoğul çekimi: hoodwink
+HOOF	(ad) hoof kelimesinin karşılığı: ⟪toynak|TOYNAK⟫
+HOOFED	(hoof sözcüğünün çekimi) (ad) hoof kelimesinin karşılığı: ⟪toynak|TOYNAK⟫
+HOOFING	(hoof sözcüğünün çekimi) (ad) hoof kelimesinin karşılığı: ⟪toynak|TOYNAK⟫
+HOOFS	(ad) hoof sözcüğünün çoğul çekimi: toynak
+HOOK	(ad) hook kelimesinin karşılığı: ⟪kanca|KANCA⟫\n(eylem) hook kelimesinin karşılığı: kancayı takmak
+HOOKAH	(ad) nargile: tömbeki denilen bir cins tütünü ısıtıp suyla filtreledikten sonra tütünün içilmesine yarayan alet
+HOOKAHS	(ad) çoğul çekimi: hookah
+HOOKED	(hook sözcüğünün çekimi) (ad) hook kelimesinin karşılığı: ⟪kanca|KANCA⟫
+HOOKERS	(ad) çoğul çekimi: hooker
+HOOKING	(hook sözcüğünün çekimi) (ad) hook kelimesinin karşılığı: ⟪kanca|KANCA⟫
+HOOKS	(ad) hook sözcüğünün çoğul çekimi: kanca
+HOOKUPS	(ad) çoğul çekimi: hookup
+HOOKWORMS	(ad) çoğul çekimi: hookworm
+HOOLIGAN	(ad) hooligan kelimesinin karşılığı: ⟪holigan|HOLİGAN⟫
+HOOLIGANS	(ad) çoğul çekimi: hooligan
+HOOP	(ad) çember: Bu biçime getirilmiş katı cisimlerin çevresi.
+HOOPED	(eylem) hoop sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çember
+HOOPING	(hoop sözcüğünün çekimi) (ad) çember: Bu biçime getirilmiş katı cisimlerin çevresi.
+HOOPLAS	(ad) çoğul çekimi: hoopla
+HOOPOE	(ad) hoopoe kelimesinin karşılığı: ⟪hüthüt|HÜTHÜT⟫
+HOOPOES	(hoopoe sözcüğünün çekimi) (ad) hoopoe kelimesinin karşılığı: ⟪hüthüt|HÜTHÜT⟫
+HOOPS	(ad) çoğul çekimi: hoop
+HOORAY	(ünlem) yaşa: hoşnutluk, sevinç v.s. duyguları anlatmak için söylenen bir söz, ole, oley, yaşasın (ayrıca: hurra)
+HOORAYS	(ad) çoğul çekimi: hooray
+HOOSEGOWS	(ad) çoğul çekimi: hoosegow
+HOOTERS	(ad) çoğul çekimi: hooter
+HOOTS	(ad) çoğul çekimi: hoot
+HOOVES	(hoof sözcüğünün çekimi) (ad) hoof kelimesinin karşılığı: ⟪toynak|TOYNAK⟫
+HOP	(ad) hop kelimesinin karşılığı: şerbetçiotu
+HOPE	(ad) ümit: ümit etmekten doğan emniyet hissi (ayrıca: umut)
+HOPED	(hope sözcüğünün çekimi) (ad) ümit: ümit etmekten doğan emniyet hissi (ayrıca: umut)
+HOPEFUL	(sıfat) umutlu: umudu olan, umut besleyen, ümitli, ümitvar
+HOPEFULNESS	(ad) umutluluk: Umutlu olma durumu.
+HOPEFULNESSES	(ad) hopefulness sözcüğünün çoğul çekimi: umutluluk
+HOPEFULS	(ad) çoğul çekimi: hopeful
+HOPELESS	(ad) umutsuz: düzeleceği veya iyileşeceği sanılmayan, ümitsiz (ayrıca: ümitsiz)
+HOPELESSNESS	(ad) umutsuzluk: umutsuz olma durumu, ümitsizlik
+HOPELESSNESSES	(hopelessness sözcüğünün çekimi) (ad) umutsuzluk: umutsuz olma durumu, ümitsizlik
+HOPES	(ad) hope sözcüğünün çoğul çekimi: umut, ümit
+HOPING	(hope sözcüğünün çekimi) (ad) ümit: ümit etmekten doğan emniyet hissi (ayrıca: umut)
+HOPLITES	(ad) çoğul çekimi: hoplite
+HOPPED	(hop sözcüğünün çekimi) (ad) hop kelimesinin karşılığı: şerbetçiotu
+HOPPER	(ad) hopper kelimesinin karşılığı: ⟪hazne|HAZNE⟫
+HOPPERS	(ad) çoğul çekimi: hopper
+HOPPING	(eylem) hop sözcüğünün şimdiki zaman ortaç ve gerund çekimi: şerbetçiotu
+HOPPINGS	(ad) çoğul çekimi: hopping
+HOPS	(ad) hop sözcüğünün çoğul çekimi: şerbetçiotu\n(eylem) hop sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: şerbetçiotu
+HOPSCOTCH	(ad) seksek: Yere kutucuklar çizilip eldeki yassı taşı kutucuların için atıp, sekerek oynanan bir tür oyun.
+HOPSCOTCHED	(hopscotch sözcüğünün çekimi) (ad) seksek: Yere kutucuklar çizilip eldeki yassı taşı kutucuların için atıp, sekerek oynanan bir tür oyun.
+HOPSCOTCHES	(hopscotch sözcüğünün çekimi) (ad) seksek: Yere kutucuklar çizilip eldeki yassı taşı kutucuların için atıp, sekerek oynanan bir tür oyun.
+HOPSCOTCHING	(hopscotch sözcüğünün çekimi) (ad) seksek: Yere kutucuklar çizilip eldeki yassı taşı kutucuların için atıp, sekerek oynanan bir tür oyun.
+HORDE	(ad) göçebe savaşçılardan oluşmuş ordu veya kabile
+HORDED	(horde sözcüğünün çekimi) (ad) göçebe savaşçılardan oluşmuş ordu veya kabile
+HORDES	(horde sözcüğünün çekimi) (ad) göçebe savaşçılardan oluşmuş ordu veya kabile
+HORDING	(horde sözcüğünün çekimi) (ad) göçebe savaşçılardan oluşmuş ordu veya kabile
+HORIZON	(ad) Herhangi bir seviye çizgisi veya yüzeyi.
+HORIZONS	(ad) horizon sözcüğünün çoğul çekimi: Herhangi bir seviye çizgisi veya yüzeyi.
+HORIZONTAL	(sıfat) yatay: Durgun bir su yüzeyine veya zemine paralel, düşey doğrultusuna dikey olan; ufki
+HORIZONTALS	(horizontal sözcüğünün çekimi) (sıfat) yatay: Durgun bir su yüzeyine veya zemine paralel, düşey doğrultusuna dikey olan; ufki
+HORMONE	(ad) hormon: iç salgı bezlerinden kana geçen ve organların işlemesini düzenleyen adrenalin, insülin, tiroksin vb. fizyolojik etkisi olan maddelerin genel adı ve bu maddelerin işlevini yerine getirecek özellikte yapay madde
+HORMONES	(hormone sözcüğünün çekimi) (ad) hormon: iç salgı bezlerinden kana geçen ve organların işlemesini düzenleyen adrenalin, insülin, tiroksin vb....
+HORN	(ad) boynuz: Üzerine delikler açılmış hayvan boynuzundan yapılan, üflemeli bir tür çalgı.
+HORNBEAM	(ad) hornbeam kelimesinin karşılığı: ⟪gürgen|GÜRGEN⟫
+HORNBEAMS	(ad) çoğul çekimi: hornbeam
+HORNBILL	(ad) hornbill kelimesinin karşılığı: ⟪boynuzgaga|BOYNUZGAGA⟫, boynuz gaga
+HORNBILLS	(ad) çoğul çekimi: hornbill
+HORNBOOKS	(ad) çoğul çekimi: hornbook
+HORNED	(horn sözcüğünün çekimi) (ad) boynuz: Üzerine delikler açılmış hayvan boynuzundan yapılan, üflemeli bir tür çalgı.
+HORNET	(ad) hornet kelimesinin karşılığı: eşek arısı, ⟪sarıca|SARICA⟫
+HORNETS	(ad) çoğul çekimi: hornet
+HORNIER	(horny sözcüğünün çekimi) (sıfat) horny kelimesinin karşılığı: ⟪abazan|ABAZAN⟫
+HORNIEST	(horny sözcüğünün çekimi) (sıfat) horny kelimesinin karşılığı: ⟪abazan|ABAZAN⟫
+HORNILY	(horny sözcüğünün çekimi) (sıfat) horny kelimesinin karşılığı: ⟪abazan|ABAZAN⟫
+HORNING	(horn sözcüğünün çekimi) (ad) boynuz: Üzerine delikler açılmış hayvan boynuzundan yapılan, üflemeli bir tür çalgı.
+HORNS	(ad) horn sözcüğünün çoğul çekimi: boynuz
+HORNWORTS	(ad) çoğul çekimi: hornwort
+HORNY	(sıfat) horny kelimesinin karşılığı: ⟪abazan|ABAZAN⟫
+HOROLOGIES	(horology sözcüğünün çekimi) (ad) horoloji: zaman bilimi ve saat bilimi
+HOROLOGY	(ad) horoloji: zaman bilimi ve saat bilimi
+HORRIBLES	(ad) çoğul çekimi: horrible
+HORRIFIED	(eylem) horrify sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+HORRORS	(ad) horror sözcüğünün çoğul çekimi
+HORSE	(ad) at: atgillerden (equidae), binme, yük çekme, taşıma v.s. hizmetlerde kullanılan, tek tırnaklı hayvan
+HORSEBACKS	(ad) çoğul çekimi: horseback
+HORSED	(horse sözcüğünün çekimi) (ad) at: atgillerden (equidae), binme, yük çekme, taşıma v.s. hizmetlerde kullanılan, tek tırnaklı hayvan
+HORSEFLIES	(horsefly sözcüğünün çekimi) (ad) horsefly kelimesinin karşılığı: at sineği
+HORSEFLY	(ad) horsefly kelimesinin karşılığı: at sineği
+HORSELAUGHS	(ad) çoğul çekimi: horselaugh
+HORSEMAN	(ad) horseman kelimesinin karşılığı: ⟪atlı|ATLI⟫
+HORSEMEN	(ad) horseman sözcüğünün çoğul çekimi: atlı
+HORSEPOWER	(ad) horsepower kelimesinin karşılığı: beygir gücü
+HORSEPOWERS	(horsepower sözcüğünün çekimi) (ad) horsepower kelimesinin karşılığı: beygir gücü
+HORSERADISH	(ad) horseradish kelimesinin karşılığı: bayır turpu, ⟪acırga|ACIRGA⟫
+HORSERADISHES	(horseradish sözcüğünün çekimi) (ad) horseradish kelimesinin karşılığı: bayır turpu, ⟪acırga|ACIRGA⟫
+HORSES	(ad) horse sözcüğünün çoğul çekimi: at\n(eylem) horse sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: at
+HORSESHOE	(ad) horseshoe kelimesinin karşılığı: ⟪nal|NAL⟫, at nalı
+HORSESHOED	(horseshoe sözcüğünün çekimi) (ad) horseshoe kelimesinin karşılığı: ⟪nal|NAL⟫, at nalı
+HORSESHOEING	(horseshoe sözcüğünün çekimi) (ad) horseshoe kelimesinin karşılığı: ⟪nal|NAL⟫, at nalı
+HORSESHOES	(ad) çoğul çekimi: horseshoe
+HORSETAIL	(ad) atkuyruğu: atkuyruğugillerden, kök sapı ömürlü olan, daha çok nemli yerlerde yetişen ve ilâç olarak kullanılan bitki (Equisetum arvense)
+HORSETAILS	(ad) çoğul çekimi: horsetail
+HORSEWHIPS	(ad) çoğul çekimi: horsewhip
+HORSEWOMEN	(ad) çoğul çekimi: horsewoman
+HORSING	(horse sözcüğünün çekimi) (ad) at: atgillerden (equidae), binme, yük çekme, taşıma v.s. hizmetlerde kullanılan, tek tırnaklı hayvan
+HORTATORY	(ad) hortatory kelimesinin karşılığı: istek kipi
+HORTICULTURE	(ad) horticulture kelimesinin karşılığı: ⟪bahçıvanlık|BAHÇIVANLIK⟫, ⟪bahçecilik|BAHÇECİLİK⟫
+HORTICULTURES	(horticulture sözcüğünün çekimi) (ad) horticulture kelimesinin karşılığı: ⟪bahçıvanlık|BAHÇIVANLIK⟫, ⟪bahçecilik|BAHÇECİLİK⟫
+HOSE	(ad) hortum: lastikten yapılmış ince ve uzun boru (ayrıca: tulum)
+HOSED	(hose sözcüğünün çekimi) (ad) hortum: lastikten yapılmış ince ve uzun boru (ayrıca: tulum)
+HOSEN	(ad) çoğul çekimi: hose
+HOSEPIPE	(ad) hortum: lastikten yapılmış ince ve uzun boru
+HOSEPIPES	(ad) çoğul çekimi: hosepipe
+HOSES	(ad) çoğul çekimi: hose
+HOSING	(hose sözcüğünün çekimi) (ad) hortum: lastikten yapılmış ince ve uzun boru (ayrıca: tulum)
+HOSPICE	(ad) ölümcül hastalar için bakımevi
+HOSPICES	(hospice sözcüğünün çekimi) (ad) ölümcül hastalar için bakımevi
+HOSPITAL	(ad) hastane: hastaların yatırılarak tedavi edildikleri sağlık kurumu; darüşşifa, sayrılarevi, şifahane
+HOSPITALITIES	(ad) çoğul çekimi: hospitality
+HOSPITALITY	(ad) hospitality kelimesinin karşılığı: ⟪misafirperverlik|MİSAFİRPERVERLİK⟫, konukseverlik
+HOSPITALIZE	(eylem) hospitalize kelimesinin karşılığı: hastanelik etmek
+HOSPITALIZED	(hospitalize sözcüğünün çekimi) (eylem) hospitalize kelimesinin karşılığı: hastanelik etmek
+HOSPITALIZES	(hospitalize sözcüğünün çekimi) (eylem) hospitalize kelimesinin karşılığı: hastanelik etmek
+HOSPITALIZING	(hospitalize sözcüğünün çekimi) (eylem) hospitalize kelimesinin karşılığı: hastanelik etmek
+HOSPITALS	(ad) hospital sözcüğünün çoğul çekimi: hastane
+HOST	(ad) host kelimesinin karşılığı: ana makine
+HOSTAGE	(ad) rehine: Bir anlaşma, sözleşme veya isteğin yerine getirilmesini sağlamak için güvence olarak ele geçirilen kimse; tutak.
+HOSTAGES	(ad) çoğul çekimi: hostage
+HOSTAS	(ad) çoğul çekimi: hosta
+HOSTED	(host sözcüğünün çekimi) (ad) host kelimesinin karşılığı: ana makine
+HOSTEL	(ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELED	(hostel sözcüğünün çekimi) (ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELERS	(ad) çoğul çekimi: hosteler
+HOSTELING	(hostel sözcüğünün çekimi) (ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELLED	(hostel sözcüğünün çekimi) (ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELLING	(hostel sözcüğünün çekimi) (ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELRIES	(hostelry sözcüğünün çekimi) (ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELRY	(ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTELS	(ad) hostel sözcüğünün çoğul çekimi: han
+HOSTESS	(ad) hostes: Bir topluluk, kongre vb. yerlerde katılanları ağırlayan, onlara kılavuzluk eden bayan
+HOSTESSED	(hostess sözcüğünün çekimi) (ad) hostes: Bir topluluk, kongre vb. yerlerde katılanları ağırlayan, onlara kılavuzluk eden bayan
+HOSTESSES	(ad) çoğul çekimi: hostess
+HOSTESSING	(hostess sözcüğünün çekimi) (ad) hostes: Bir topluluk, kongre vb. yerlerde katılanları ağırlayan, onlara kılavuzluk eden bayan
+HOSTILELY	(zarf) düşmanca: düşman gibi, düşmana yakışır bir biçimde, düşmancasına, hasmâne
+HOSTILES	(ad) çoğul çekimi: hostile
+HOSTILITIES	(ad) çoğul çekimi: hostility
+HOSTILITY	(ad) hostility kelimesinin karşılığı: ⟪düşmanlık|DÜŞMANLIK⟫, ⟪yağılık|YAĞILIK⟫
+HOSTING	(host sözcüğünün çekimi) (ad) host kelimesinin karşılığı: ana makine
+HOSTLERS	(ad) çoğul çekimi: hostler
+HOSTLY	(host sözcüğünün çekimi) (ad) host kelimesinin karşılığı: ana makine
+HOSTS	(ad) çoğul çekimi: host
+HOT	(sıfat) sıcak: Yakmayacak derecede ısısı olan, yakmayacak kadar ısı veren, soğuk karşıtı.
+HOTBEDS	(ad) çoğul çekimi: hotbed
+HOTCHPOTCH	(ad) karışım: çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey, kokteyl (ayrıca: toplama, çeşitleme)
+HOTCHPOTCHES	(hotchpotch sözcüğünün çekimi) (ad) karışım: çok şeyin karıştırılmasıyla elde edilen veya ortaya çıkan şey, kokteyl (ayrıca: toplama, çeşitleme)
+HOTEL	(ad) otel: Yolcu ve turistlere geceleme, konaklama imkânı sağlamak amacıyla kurulmuş işletme:
+HOTELIERS	(ad) çoğul çekimi: hotelier
+HOTELS	(ad) hotel sözcüğünün çoğul çekimi: otel
+HOTHEADS	(ad) çoğul çekimi: hothead
+HOTHOUSES	(ad) çoğul çekimi: hothouse
+HOTS	(hot sözcüğünün çekimi) (sıfat) sıcak: Yakmayacak derecede ısısı olan, yakmayacak kadar ısı veren, soğuk karşıtı.
+HOTSHOTS	(ad) çoğul çekimi: hotshot
+HOTSPURS	(ad) çoğul çekimi: hotspur
+HOTTED	(hot sözcüğünün çekimi) (sıfat) sıcak: Yakmayacak derecede ısısı olan, yakmayacak kadar ısı veren, soğuk karşıtı.
+HOTTER	(sıfat) hot sözcüğünün karşılaştırma derecesi çekimi: sıcak
+HOTTEST	(hot sözcüğünün çekimi) (sıfat) sıcak: Yakmayacak derecede ısısı olan, yakmayacak kadar ısı veren, soğuk karşıtı.
+HOTTING	(hot sözcüğünün çekimi) (sıfat) sıcak: Yakmayacak derecede ısısı olan, yakmayacak kadar ısı veren, soğuk karşıtı.
+HOUDAHS	(ad) çoğul çekimi: houdah
+HOUND	(ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık gibi işler için beslenen memeli hayvan; kapik it, gölbez. (ayrıca: it)
+HOUNDED	(hound sözcüğünün çekimi) (ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık...
+HOUNDER	(hound sözcüğünün çekimi) (ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık...
+HOUNDING	(hound sözcüğünün çekimi) (ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık...
+HOUNDS	(ad) çoğul çekimi: hound
+HOUR	(ad) saat: Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası.
+HOURGLASS	(ad) kum saati: dar bir boğazla birbirine bağlanmış iki cam kaptan oluşan ve üstteki kapta bulunan kumun aşağıya akmasından yararlanarak zamanı anlamaya, ölçmeye yarayan araç
+HOURGLASSES	(ad) çoğul çekimi: hourglass
+HOURIS	(ad) çoğul çekimi: houri
+HOURS	(ad) hour sözcüğünün çoğul çekimi: saat
+HOUSE	(ad) house kelimesinin karşılığı: ev\n(eylem) house kelimesinin karşılığı: evde bulunmak
+HOUSEBREAKERS	(ad) çoğul çekimi: housebreaker
+HOUSEBREAKINGS	(ad) çoğul çekimi: housebreaking
+HOUSEBREAKS	(ad) çoğul çekimi: housebreak
+HOUSECARLS	(ad) çoğul çekimi: housecarl
+HOUSECOATS	(ad) çoğul çekimi: housecoat
+HOUSED	(house sözcüğünün çekimi) (ad) house kelimesinin karşılığı: ev
+HOUSEFLIES	(ad) çoğul çekimi: housefly
+HOUSEFLY	(ad) housefly kelimesinin karşılığı: ⟪karasinek|KARASİNEK⟫
+HOUSEFULS	(ad) çoğul çekimi: houseful
+HOUSEGUESTS	(ad) çoğul çekimi: houseguest
+HOUSEHOLD	(ad) hane: ev halkı (ayrıca: ev halkı)
+HOUSEHOLDERS	(ad) çoğul çekimi: householder
+HOUSEHOLDS	(ad) çoğul çekimi: household
+HOUSEHUSBANDS	(ad) çoğul çekimi: househusband
+HOUSEKEEPERS	(ad) çoğul çekimi: housekeeper
+HOUSELEEKS	(ad) çoğul çekimi: houseleek
+HOUSELIGHTS	(ad) çoğul çekimi: houselight
+HOUSEMAIDS	(ad) çoğul çekimi: housemaid
+HOUSEMATES	(ad) çoğul çekimi: housemate
+HOUSEMOTHERS	(ad) çoğul çekimi: housemother
+HOUSEPLANTS	(ad) çoğul çekimi: houseplant
+HOUSER	(house sözcüğünün çekimi) (ad) house kelimesinin karşılığı: ev
+HOUSES	(ad) evler (house): ev\n(eylem) house sözcüğünün üçüncü tekil şahıs şimdiki zaman çekimi: ev
+HOUSETOPS	(ad) çoğul çekimi: housetop
+HOUSEWIFE	(ad) karı: Bir erkeğin evlenmiş olduğu kadın; eş, refika, zevce. (ayrıca: ev kadını)
+HOUSEWIVES	(housewife sözcüğünün çekimi) (ad) karı: Bir erkeğin evlenmiş olduğu kadın; eş, refika, zevce. (ayrıca: ev kadını)
+HOUSING	(house sözcüğünün çekimi) (ad) house kelimesinin karşılığı: ev
+HOUSINGS	(ad) çoğul çekimi: housing
+HOVE	(heave sözcüğünün çekimi) (eylem) çekmek: Bir şeyin içyüzünü anlamak amacıyla bir kimseyi sıkıştırmak (ayrıca: kaldırmak, fırlatmak)
+HOVEL	(ad) derme çatma ev; baraka
+HOVELED	(hovel sözcüğünün çekimi) (ad) derme çatma ev; baraka
+HOVELLED	(hovel sözcüğünün çekimi) (ad) derme çatma ev; baraka
+HOVELLING	(hovel sözcüğünün çekimi) (ad) derme çatma ev; baraka
+HOVELS	(ad) çoğul çekimi: hovel
+HOVERCRAFT	(ad) Hem karada hem denizde gidebilen bir taşıt.
+HOVERCRAFTS	(hovercraft sözcüğünün çekimi) (ad) Hem karada hem denizde gidebilen bir taşıt.
+HOW	(zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+HOWDAHS	(ad) çoğul çekimi: howdah
+HOWEVER	(zarf) however kelimesinin karşılığı: bununla birlikte, yine de
+HOWITZERS	(ad) çoğul çekimi: howitzer
+HOWL	(eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+HOWLED	(howl sözcüğünün çekimi) (eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+HOWLERS	(ad) çoğul çekimi: howler
+HOWLETS	(ad) çoğul çekimi: howlet
+HOWLING	(howl sözcüğünün çekimi) (eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+HOWLS	(ad) çoğul çekimi: howl
+HOWS	(how sözcüğünün çekimi) (zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+HOYDENS	(ad) hoyden sözcüğünün çoğul çekimi
+HOYS	(ad) çoğul çekimi: hoy
+HUARACHES	(ad) çoğul çekimi: huarache
+HUBBIES	(ad) çoğul çekimi: hubby
+HUBBUBS	(ad) çoğul çekimi: hubbub
+HUBCAPS	(ad) çoğul çekimi: hubcap
+HUBS	(ad) hub sözcüğünün çoğul çekimi
+HUCKLEBERRIES	(ad) çoğul çekimi: huckleberry
+HUCKLEBERRY	(ad) huckleberry kelimesinin karşılığı: yaban mersini
+HUCKLES	(ad) çoğul çekimi: huckle
+HUCKS	(ad) çoğul çekimi: huck
+HUCKSTERS	(ad) çoğul çekimi: huckster
+HUDDLE	(eylem) bir araya toplanmak; kümelenmek
+HUDDLED	(huddle sözcüğünün çekimi) (eylem) bir araya toplanmak; kümelenmek
+HUDDLES	(ad) çoğul çekimi: huddle
+HUDDLING	(huddle sözcüğünün çekimi) (eylem) bir araya toplanmak; kümelenmek
+HUGE	(sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+HUGER	(huge sözcüğünün çekimi) (sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+HUGEST	(huge sözcüğünün çekimi) (sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+HUGGED	(eylem) hug sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+HUGGERS	(ad) çoğul çekimi: hugger
+HUGS	(ad) çoğul çekimi: hug
+HULKS	(ad) çoğul çekimi: hulk
+HULLS	(ad) çoğul çekimi: hull
+HUMAN	(ad) human kelimesinin karşılığı: insan
+HUMANE	(ad) insancıl: insancılık yanlısı olan, beşeriyetçi, hümanist (ayrıca: merhametli, şefkatli)
+HUMANELY	(zarf) insanca: insana yakışan, insana özgü olan, insanla ilgili, insani
+HUMANER	(human sözcüğünün çekimi) (ad) human kelimesinin karşılığı: insan
+HUMANEST	(human sözcüğünün çekimi) (ad) human kelimesinin karşılığı: insan
+HUMANISM	(ad) insancıllık: İnsanlık sevgisini, insan ululuğunu en yüce amaç ve olgunluk sayan öğreti
+HUMANISMS	(humanism sözcüğünün çekimi) (ad) insancıllık: İnsanlık sevgisini, insan ululuğunu en yüce amaç ve olgunluk sayan öğreti
+HUMANISTS	(ad) çoğul çekimi: humanist
+HUMANITARIAN	(sıfat) insancıl: insana değer veren
+HUMANITARIANS	(ad) çoğul çekimi: humanitarian
+HUMANITIES	(ad) çoğul çekimi: humanities
+HUMANITY	(ad) insanlık: doğru dürüst insana yakışır durum, adamlık, âdemiyet (ayrıca: insaniyet)
+HUMANIZERS	(ad) çoğul çekimi: humanizer
+HUMANKIND	(ad) insanlık: insanı insan yapan, insanın doğasını oluşturan niteliklerin hepsi, insaniyet
+HUMANLIKE	(sıfat) adamcıl: insandan ürkmeyen, insana alışmış olan, insana sokulan, sıcakkanlı, munis
+HUMANOIDS	(ad) çoğul çekimi: humanoid
+HUMANS	(ad) human sözcüğünün çoğul çekimi: insan
+HUMBLE	(sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMBLED	(humble sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMBLER	(humble sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMBLERS	(humble sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMBLES	(ad) çoğul çekimi: humble
+HUMBLEST	(humble sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMBLING	(humble sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMBLY	(zarf) âcizane: söz söyleyen kimsenin kendi yaptıklarını abartmamak için kullandığı "âcizlere yakışacak biçimde" anlamında bir nezaket sözü
+HUMBUGS	(ad) çoğul çekimi: humbug
+HUMDRUM	(sıfat) humdrum kelimesinin karşılığı: ⟪monoton|MONOTON⟫, ⟪sıkıcı|SIKICI⟫, ⟪tekdüze|TEKDÜZE⟫
+HUMDRUMS	(humdrum sözcüğünün çekimi) (sıfat) humdrum kelimesinin karşılığı: ⟪monoton|MONOTON⟫, ⟪sıkıcı|SIKICI⟫, ⟪tekdüze|TEKDÜZE⟫
+HUMECTANTS	(ad) çoğul çekimi: humectant
+HUMERI	(ad) çoğul çekimi: humerus
+HUMIDIFIED	(eylem) humidify sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: nemlendirmek
+HUMIDIFIES	(eylem) humidify sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: nemlendirmek
+HUMIDIFY	(eylem) humidify kelimesinin karşılığı: ⟪nemlendirmek|NEMLENDİRMEK⟫
+HUMIDIFYING	(eylem) humidify sözcüğünün şimdiki zaman ortaç ve gerund çekimi: nemlendirmek
+HUMIDITIES	(humidity sözcüğünün çekimi) (ad) nem: havada bulunan su buharı miktarı
+HUMIDITY	(ad) nem: havada bulunan su buharı miktarı
+HUMILIATION	(ad) humiliation kelimesinin karşılığı: küçük düşme, ⟪alçalma|ALÇALMA⟫
+HUMILIATIONS	(humiliation sözcüğünün çekimi) (ad) humiliation kelimesinin karşılığı: küçük düşme, ⟪alçalma|ALÇALMA⟫
+HUMILITIES	(humility sözcüğünün çekimi) (ad) humility kelimesinin karşılığı: alçak gönüllülük
+HUMILITY	(ad) humility kelimesinin karşılığı: alçak gönüllülük
+HUMMERS	(ad) çoğul çekimi: hummer
+HUMMINGBIRD	(ad) hummingbird kelimesinin karşılığı: sinek kuşu
+HUMMINGBIRDS	(ad) çoğul çekimi: hummingbird
+HUMMOCKS	(ad) çoğul çekimi: hummock
+HUMOR	(ad) mizah: hayatın güldürücü yönünü ortaya çıkaran sanat tür.
+HUMORED	(humor sözcüğünün çekimi) (ad) mizah: hayatın güldürücü yönünü ortaya çıkaran sanat tür.
+HUMORING	(humor sözcüğünün çekimi) (ad) mizah: hayatın güldürücü yönünü ortaya çıkaran sanat tür.
+HUMORISTS	(ad) çoğul çekimi: humorist
+HUMOROUS	(sıfat) gülünç: Alayı üzerine çeken, eğlence konusu olan, güldürücü, tuhaf, komik (ayrıca: komik, mizahi)
+HUMORS	(ad) çoğul çekimi: humor
+HUMP	(sıfat) kambur: Yapı veya eşyada dışarıya doğru eğrilme.
+HUMPED	(hump sözcüğünün çekimi) (sıfat) kambur: Yapı veya eşyada dışarıya doğru eğrilme.
+HUMPING	(hump sözcüğünün çekimi) (sıfat) kambur: Yapı veya eşyada dışarıya doğru eğrilme.
+HUMPS	(ad) çoğul çekimi: hump
+HUMS	(ad) çoğul çekimi: hum
+HUMUS	(ad) humus: (jeoloji) Bitkilerin çürümesiyle oluşan koyu renkte organik toprak.
+HUMUSES	(humus sözcüğünün çekimi) (ad) humus: (jeoloji) Bitkilerin çürümesiyle oluşan koyu renkte organik toprak.
+HUMVEES	(ad) çoğul çekimi: humvee
+HUNCHBACKS	(ad) çoğul çekimi: hunchback
+HUNCHES	(ad) çoğul çekimi: hunch
+HUNDRED	(sayı) yüz: Doksan dokuzdan sonra gelen sayının adı.
+HUNDREDS	(ad) çoğul çekimi: hundred
+HUNDREDTH	(sıfat) yüzüncü: yüz sayısının sıra sıfatı, sırada doksan dokuzuncudan sonra gelen, 100'üncü
+HUNDREDTHS	(ad) çoğul çekimi: hundredth
+HUNDREDWEIGHT	(ad) kental: 100 kg ağırlığında kütle birimi
+HUNDREDWEIGHTS	(hundredweight sözcüğünün çekimi) (ad) kental: 100 kg ağırlığında kütle birimi
+HUNG	(eylem) hang sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: asmak
+HUNGER	(ad) açlık: aç olma durumu, karaciğerdeki glikojen miktarı belirli bir seviyenin altına düştüğünde hissedilen ve genellikle beraberinde yeme arzusu da getiren his veya duruma verilen isim (ayrıca: aç)
+HUNGERED	(hunger sözcüğünün çekimi) (ad) açlık: aç olma durumu, karaciğerdeki glikojen miktarı belirli bir seviyenin altına düştüğünde hissedilen ve...
+HUNGERING	(hunger sözcüğünün çekimi) (ad) açlık: aç olma durumu, karaciğerdeki glikojen miktarı belirli bir seviyenin altına düştüğünde hissedilen ve...
+HUNGERS	(ad) çoğul çekimi: hunger
+HUNGRIER	(hungry sözcüğünün çekimi) (ad) aç: açmak fiilinin ikinci tekil şahıs emir kipi.
+HUNGRIEST	(hungry sözcüğünün çekimi) (ad) aç: açmak fiilinin ikinci tekil şahıs emir kipi.
+HUNGRY	(ad) aç: açmak fiilinin ikinci tekil şahıs emir kipi.
+HUNKERS	(ad) çoğul çekimi: hunker
+HUNKIES	(ad) çoğul çekimi: hunky
+HUNKS	(ad) çoğul çekimi: hunk
+HUNT	(eylem) avlamak: bir avı diri veya ölü olarak ele geçirmek
+HUNTED	(hunt sözcüğünün çekimi) (eylem) avlamak: bir avı diri veya ölü olarak ele geçirmek
+HUNTER	(ad) avcı: Bir şeyi büyük bir istekle izleyen ve bulup ortaya çıkaran, tanıtan kimse.
+HUNTERS	(ad) çoğul çekimi: hunter
+HUNTING	(ad) hunting kelimesinin karşılığı: ⟪avlama|AVLAMA⟫
+HUNTINGS	(hunt sözcüğünün çekimi) (eylem) avlamak: bir avı diri veya ölü olarak ele geçirmek
+HUNTS	(ad) çoğul çekimi: hunt
+HUNTSMAN	(ad) avcı: Bir şeyi büyük bir istekle izleyen ve bulup ortaya çıkaran, tanıtan kimse.
+HUNTSMEN	(huntsman sözcüğünün çekimi) (ad) avcı: Bir şeyi büyük bir istekle izleyen ve bulup ortaya çıkaran, tanıtan kimse.
+HURDLERS	(ad) çoğul çekimi: hurdler
+HURDLES	(ad) çoğul çekimi: hurdle
+HURDLING	(ad) hurdling kelimesinin karşılığı: engelli koşu
+HURL	(eylem) savurmak: şiddetle döndürerek sallamak, kaldırarak vurmak (ayrıca: atmak, fırlatmak)
+HURLED	(hurl sözcüğünün çekimi) (eylem) savurmak: şiddetle döndürerek sallamak, kaldırarak vurmak (ayrıca: atmak, fırlatmak)
+HURLING	(hurl sözcüğünün çekimi) (eylem) savurmak: şiddetle döndürerek sallamak, kaldırarak vurmak (ayrıca: atmak, fırlatmak)
+HURLINGS	(hurl sözcüğünün çekimi) (eylem) savurmak: şiddetle döndürerek sallamak, kaldırarak vurmak (ayrıca: atmak, fırlatmak)
+HURLS	(hurl sözcüğünün çekimi) (eylem) savurmak: şiddetle döndürerek sallamak, kaldırarak vurmak (ayrıca: atmak, fırlatmak)
+HURRICANE	(ad) hurricane kelimesinin karşılığı: ⟪kasırga|KASIRGA⟫
+HURRICANES	(ad) çoğul çekimi: hurricane
+HURRIED	(sıfat) acul: aceleci (ayrıca: aceleci)
+HURRIEDLY	(zarf) hurriedly kelimesinin karşılığı: acele acele
+HURRIERS	(ad) çoğul çekimi: hurrier
+HURRIES	(ad) çoğul çekimi: hurry
+HURRY	(ad) acele: çabuk davranma, ivecenlik, telesme, bir işi tez telesik görmeye çalışma, sabırsızlık gösterme
+HURRYING	(hurry sözcüğünün çekimi) (ad) acele: çabuk davranma, ivecenlik, telesme, bir işi tez telesik görmeye çalışma, sabırsızlık gösterme
+HURT	(eylem) (birine) fiziksel zarar vermek, incitmek.
+HURTER	(hurt sözcüğünün çekimi) (eylem) (birine) fiziksel zarar vermek, incitmek.
+HURTERS	(hurt sözcüğünün çekimi) (eylem) (birine) fiziksel zarar vermek, incitmek.
+HURTFUL	(sıfat) kırıcı: bir şeyin gerektiği gibi gelişmesini, oluşmasını önleyen, engelleyen
+HURTFULLY	(hurtful sözcüğünün çekimi) (sıfat) kırıcı: bir şeyin gerektiği gibi gelişmesini, oluşmasını önleyen, engelleyen
+HURTING	(hurt sözcüğünün çekimi) (eylem) (birine) fiziksel zarar vermek, incitmek.
+HURTS	(eylem) hurt sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: fiziksel zarar vermek, incitmek.\n(ad) çoğul çekimi: hurt
+HUSBAND	(ad) koca: Bir kadının evlendiği kişi; eş, zevç, adam, bey\n(eylem) en iyi şekilde ekonomik olarak idare etmek
+HUSBANDED	(husband sözcüğünün çekimi) (ad) koca: Bir kadının evlendiği kişi; eş, zevç, adam, bey
+HUSBANDER	(husband sözcüğünün çekimi) (ad) koca: Bir kadının evlendiği kişi; eş, zevç, adam, bey
+HUSBANDING	(husband sözcüğünün çekimi) (ad) koca: Bir kadının evlendiği kişi; eş, zevç, adam, bey
+HUSBANDRIES	(husbandry sözcüğünün çekimi) (ad) ziraat: tarım (ayrıca: çiftçilik, tarım)
+HUSBANDRY	(ad) ziraat: tarım (ayrıca: çiftçilik, tarım)
+HUSBANDS	(ad) husband sözcüğünün çoğul çekimi: koca
+HUSH	(eylem) susmak: ses veya gürültüyü kesmek, ses ve gürültü yapmamak
+HUSHED	(hush sözcüğünün çekimi) (eylem) susmak: ses veya gürültüyü kesmek, ses ve gürültü yapmamak
+HUSHES	(hush sözcüğünün çekimi) (eylem) susmak: ses veya gürültüyü kesmek, ses ve gürültü yapmamak
+HUSHING	(hush sözcüğünün çekimi) (eylem) susmak: ses veya gürültüyü kesmek, ses ve gürültü yapmamak
+HUSKIES	(ad) çoğul çekimi: husky
+HUSKS	(ad) çoğul çekimi: husk
+HUSSARS	(ad) çoğul çekimi: hussar
+HUSSIES	(ad) çoğul çekimi: hussy
+HUSTINGS	(ad) çoğul çekimi: husting
+HUSTLER	(ad) hustler kelimesinin karşılığı: ⟪aceleci|ACELECİ⟫
+HUSTLERS	(ad) çoğul çekimi: hustler
+HUSTLES	(ad) çoğul çekimi: hustle
+HUSWIFES	(ad) çoğul çekimi: huswife
+HUTS	(ad) çoğul çekimi: hut
+HUTTING	(eylem) hut sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+HYACINTH	(ad) hyacinth kelimesinin karşılığı: ⟪sümbül|SÜMBÜL⟫
+HYACINTHS	(hyacinth sözcüğünün çekimi) (ad) hyacinth kelimesinin karşılığı: ⟪sümbül|SÜMBÜL⟫
+HYAENA	(ad) hyaena kelimesinin karşılığı: ⟪sırtlan|SIRTLAN⟫
+HYAENAS	(hyaena sözcüğünün çekimi) (ad) hyaena kelimesinin karşılığı: ⟪sırtlan|SIRTLAN⟫
+HYBRID	(ad) hybrid kelimesinin karşılığı: ⟪hibrit|HİBRİT⟫, ⟪melez|MELEZ⟫
+HYBRIDIZATION	(ad) hybridization kelimesinin karşılığı: hibritleştirme, hibridasyon, ⟪melezleşme|MELEZLEŞME⟫
+HYBRIDIZATIONS	(ad) çoğul çekimi: hybridization
+HYBRIDS	(ad) çoğul çekimi: hybrid
+HYDATHODES	(ad) çoğul çekimi: hydathode
+HYDRACIDS	(ad) çoğul çekimi: hydracid
+HYDRANGEA	(ad) hydrangea kelimesinin karşılığı: ⟪ortanca|ORTANCA⟫
+HYDRANGEAS	(ad) çoğul çekimi: hydrangea
+HYDRATE	(ad) hidrat: bir cismin suyla birleşmesiyle veya bazı madenler üzerinde suyun etkisiyle oluşan bileşik
+HYDRATED	(hydrate sözcüğünün çekimi) (ad) hidrat: bir cismin suyla birleşmesiyle veya bazı madenler üzerinde suyun etkisiyle oluşan bileşik
+HYDRATES	(hydrate sözcüğünün çekimi) (ad) hidrat: bir cismin suyla birleşmesiyle veya bazı madenler üzerinde suyun etkisiyle oluşan bileşik
+HYDRATING	(hydrate sözcüğünün çekimi) (ad) hidrat: bir cismin suyla birleşmesiyle veya bazı madenler üzerinde suyun etkisiyle oluşan bileşik
+HYDRATION	(ad) hydration kelimesinin karşılığı: hidrasyon
+HYDRATIONS	(hydration sözcüğünün çekimi) (ad) hydration kelimesinin karşılığı: hidrasyon
+HYDRAULIC	(sıfat) hidrolik: su ile ilgili
+HYDRAULICS	(ad) hidrolik: sıvıların mekanik özelliklerini inceleyen bir mühendislik ve bilim dalı
+HYDRAZINES	(ad) çoğul çekimi: hydrazine
+HYDRIDES	(ad) çoğul çekimi: hydride
+HYDROCARBON	(ad) hidrokarbon: karbon ve hidrojen bileşiği
+HYDROCARBONS	(ad) çoğul çekimi: hydrocarbon
+HYDROCELES	(ad) çoğul çekimi: hydrocele
+HYDROFOILS	(ad) çoğul çekimi: hydrofoil
+HYDROGELS	(ad) çoğul çekimi: hydrogel
+HYDROGEN	(ad) hidrojen: atom ve kütle numarası 1 olup, nötronu olmayan kimyasal element, müvellidülma
+HYDROGENATION	(ad) hydrogenation kelimesinin karşılığı: hidrojenasyon
+HYDROGENATIONS	(hydrogenation sözcüğünün çekimi) (ad) hydrogenation kelimesinin karşılığı: hidrojenasyon
+HYDROGENS	(hydrogen sözcüğünün çekimi) (ad) hidrojen: atom ve kütle numarası 1 olup, nötronu olmayan kimyasal element, müvellidülma
+HYDROGRAPHIES	(hydrography sözcüğünün çekimi) (ad) hidrografi: yeraltı ve yer üstü sularının oluşum ve dağılımlarını araştıran ve insan yaşamı üzerine etkilerini...
+HYDROGRAPHY	(ad) hidrografi: yeraltı ve yer üstü sularının oluşum ve dağılımlarını araştıran ve insan yaşamı üzerine etkilerini inceleyen bilim dalı, hidrografya, su bilgisi (ayrıca: hidrografya, su bilgisi)
+HYDROIDS	(ad) çoğul çekimi: hydroid
+HYDROLOGIES	(hydrology sözcüğünün çekimi) (ad) hydrology kelimesinin karşılığı: su bilimi, ⟪hidroloji|HİDROLOJİ⟫
+HYDROLOGY	(ad) hydrology kelimesinin karşılığı: su bilimi, ⟪hidroloji|HİDROLOJİ⟫
+HYDROLYSATE	(ad) hydrolysate kelimesinin karşılığı: hidolizat
+HYDROLYSATES	(ad) çoğul çekimi: hydrolysate
+HYDROLYSIS	(ad) hidroliz: bir molekülün su etkisiyle ikiye ayrılmasını sağlayan tepkime
+HYDROMETEORS	(ad) çoğul çekimi: hydrometeor
+HYDROPHILIC	(ad) hydrophilic kelimesinin karşılığı: ⟪hidrofilik|HİDROFİLİK⟫
+HYDROPHOBIAS	(ad) çoğul çekimi: hydrophobia
+HYDROPHOBIC	(ad) hidrofobik: Suyu emmeyen, suyla birleşmeyen, suda güçlükle eriyen.
+HYDROPHYTES	(ad) çoğul çekimi: hydrophyte
+HYDROPLANES	(ad) çoğul çekimi: hydroplane
+HYDROPONIC	(sıfat) (tarım için) Topraksız, yoğun şekilde su kullanarak yapılan.
+HYDROSPHERES	(ad) çoğul çekimi: hydrosphere
+HYDROSTATIC	(sıfat) hidrostatik: akışkanların basıncıyla ya da dengesiyle alakalı
+HYDROSTATICS	(ad) hidrostatik: akışkanların basıncından ve dengesinden bahseden bilim dalı
+HYDROXIDES	(ad) çoğul çekimi: hydroxide
+HYDROXYLAMINES	(ad) çoğul çekimi: hydroxylamine
+HYDROZOANS	(ad) çoğul çekimi: hydrozoan
+HYENA	(ad) hyena kelimesinin karşılığı: ⟪sırtlan|SIRTLAN⟫
+HYENAS	(ad) çoğul çekimi: hyena
+HYGIENE	(ad) hijyen: sağlığa zarar verecek ortamlardan korunmak için yapılacak uygulamalar ve alınan temizlik önlemlerinin tümü
+HYGIENES	(hygiene sözcüğünün çekimi) (ad) hijyen: sağlığa zarar verecek ortamlardan korunmak için yapılacak uygulamalar ve alınan temizlik önlemlerinin tümü
+HYGIENIC	(sıfat) sağlıklı: sağlığı koruyan (ayrıca: hijyenik, sıhhi)
+HYGIENISTS	(ad) çoğul çekimi: hygienist
+HYGROGRAPHS	(ad) çoğul çekimi: hygrograph
+HYGROMETERS	(ad) çoğul çekimi: hygrometer
+HYGROSCOPIC	(ad) hygroscopic kelimesinin karşılığı: nem çekici
+HYLOZOISM	(ad) canlı özdekçilik: evrenin temeli olarak düşünülen maddenin canlı olduğunu savunan doktrin, hilozoizm (ayrıca: hilozoizm)
+HYLOZOISMS	(hylozoism sözcüğünün çekimi) (ad) canlı özdekçilik: evrenin temeli olarak düşünülen maddenin canlı olduğunu savunan doktrin, hilozoizm (ayrıca:...
+HYMEN	(ad) hymen kelimesinin karşılığı: kızlık zarı, ⟪himen|HİMEN⟫
+HYMENEALS	(ad) çoğul çekimi: hymeneal
+HYMENOPTERA	(ad) hymenoptera kelimesinin karşılığı: zar kanatlılar
+HYMENS	(hymen sözcüğünün çekimi) (ad) hymen kelimesinin karşılığı: kızlık zarı, ⟪himen|HİMEN⟫
+HYMN	(ad) ilahi: "Bu ne hâl, ne tuhaf, çok tuhaf" gibi şaşma, sitem bildiren bir söz\n(eylem) hymn kelimesinin karşılığı: ilahi söylemek
+HYMNALS	(ad) çoğul çekimi: hymnal
+HYMNBOOKS	(ad) çoğul çekimi: hymnbook
+HYMNED	(hymn sözcüğünün çekimi) (ad) ilahi: "Bu ne hâl, ne tuhaf, çok tuhaf" gibi şaşma, sitem bildiren bir söz
+HYMNING	(hymn sözcüğünün çekimi) (ad) ilahi: "Bu ne hâl, ne tuhaf, çok tuhaf" gibi şaşma, sitem bildiren bir söz
+HYMNS	(ad) çoğul çekimi: hymn
+HYOIDS	(ad) çoğul çekimi: hyoid
+HYPALLAGES	(ad) çoğul çekimi: hypallage
+HYPER	(sıfat) hyper kelimesinin karşılığı: hiperaktif\n(ad) hyper kelimesinin karşılığı: hiperuzay
+HYPERACTIVE	(sıfat) hyperactive kelimesinin karşılığı: hiperaktif
+HYPERBOLA	(ad) hiperbol: Bir düzlemin odak denilen durağan iki noktaya uzaklıkları değişmeyen noktaların geometrik yeri olan eğri
+HYPERBOLAS	(ad) çoğul çekimi: hyperbola
+HYPERBOLE	(ad) abartma: duygu yoğunluğunu en yüksek derece­de aktarabilmek ve inanılmaz derece­de yabancılaştırmak için büyüte­rek ya da küçülterek anlatma
+HYPERBOLES	(hyperbole sözcüğünün çekimi) (ad) abartma: duygu yoğunluğunu en yüksek derece­de aktarabilmek ve inanılmaz derece­de yabancılaştırmak için...
+HYPERBOLIC	(ad) hyperbolic kelimesinin karşılığı: ⟪hiperbolik|HİPERBOLİK⟫
+HYPEREXTENSIONS	(ad) çoğul çekimi: hyperextension
+HYPERMARKET	(ad) hipermarket: Çok çeşitli malın satıldığı, büyük alışveriş merkezi
+HYPERMARKETS	(ad) çoğul çekimi: hypermarket
+HYPERMETROPIAS	(ad) çoğul çekimi: hypermetropia
+HYPERONS	(ad) çoğul çekimi: hyperon
+HYPERSENSITIVITIES	(hypersensitivity sözcüğünün çekimi) (ad) hypersensitivity kelimesinin karşılığı: aşırı duyarlılık
+HYPERSENSITIVITY	(ad) hypersensitivity kelimesinin karşılığı: aşırı duyarlılık
+HYPERTENSION	(ad) hypertension kelimesinin karşılığı: hipertansiyon, yüksek tansiyon
+HYPERTENSIONS	(hypertension sözcüğünün çekimi) (ad) hypertension kelimesinin karşılığı: hipertansiyon, yüksek tansiyon
+HYPERTENSIVES	(ad) çoğul çekimi: hypertensive
+HYPERTEXT	(ad) hypertext kelimesinin karşılığı: hiper metin
+HYPERTEXTS	(hypertext sözcüğünün çekimi) (ad) hypertext kelimesinin karşılığı: hiper metin
+HYPERTONIC	(ad) hypertonic kelimesinin karşılığı: hipertonik
+HYPERTONICITIES	(hypertonicity sözcüğünün çekimi) (ad) hypertonicity kelimesinin karşılığı: hipertonisite
+HYPERTONICITY	(ad) hypertonicity kelimesinin karşılığı: hipertonisite
+HYPERVENTILATE	(eylem) çok hızlı ve derin bir şekilde soluk almak
+HYPERVENTILATED	(eylem) hyperventilate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çok hızlı ve derin bir şekilde soluk almak
+HYPERVENTILATES	(eylem) hyperventilate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: çok hızlı ve derin bir şekilde soluk almak
+HYPERVENTILATING	(eylem) hyperventilate sözcüğünün şimdiki zaman ortaç ve gerund çekimi: çok hızlı ve derin bir şekilde soluk almak
+HYPERVENTILATION	(ad) çok hızlı ve derin bir şekilde soluk alma durumu; hiperventilasyon
+HYPERVENTILATIONS	(ad) hyperventilation sözcüğünün çoğul çekimi: çok hızlı ve derin bir şekilde soluk alma durumu; hiperventilasyon
+HYPES	(ad) çoğul çekimi: hype
+HYPHEN	(ad) hyphen kelimesinin karşılığı: kısa çizgi, ⟪doğru|DOĞRU⟫, ⟪tire|TİRE⟫
+HYPHENATE	(eylem) hyphenate kelimesinin karşılığı: ⟪tirelemek|TİRELEMEK⟫
+HYPHENATED	(hyphenate sözcüğünün çekimi) (eylem) hyphenate kelimesinin karşılığı: ⟪tirelemek|TİRELEMEK⟫
+HYPHENATES	(ad) çoğul çekimi: hyphenate
+HYPHENATING	(ad) hyphenating kelimesinin karşılığı: ⟪heceleme|HECELEME⟫
+HYPHENATIONS	(ad) çoğul çekimi: hyphenation
+HYPHENED	(hyphen sözcüğünün çekimi) (ad) hyphen kelimesinin karşılığı: kısa çizgi, ⟪doğru|DOĞRU⟫, ⟪tire|TİRE⟫
+HYPHENING	(hyphen sözcüğünün çekimi) (ad) hyphen kelimesinin karşılığı: kısa çizgi, ⟪doğru|DOĞRU⟫, ⟪tire|TİRE⟫
+HYPHENS	(hyphen sözcüğünün çekimi) (ad) hyphen kelimesinin karşılığı: kısa çizgi, ⟪doğru|DOĞRU⟫, ⟪tire|TİRE⟫
+HYPNOSES	(hypnosis sözcüğünün çekimi) (ad) hipnoz: Uyku, ipnos
+HYPNOSIS	(ad) hipnoz: Uyku, ipnos
+HYPNOTICS	(ad) çoğul çekimi: hypnotic
+HYPNOTISM	(ad) hypnotism kelimesinin karşılığı: ⟪hipnoz|HİPNOZ⟫
+HYPNOTISMS	(hypnotism sözcüğünün çekimi) (ad) hypnotism kelimesinin karşılığı: ⟪hipnoz|HİPNOZ⟫
+HYPNOTISTS	(ad) çoğul çekimi: hypnotist
+HYPNOTIZED	(eylem) hypnotize sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+HYPOCAUSTS	(ad) çoğul çekimi: hypocaust
+HYPOCHLORITES	(ad) çoğul çekimi: hypochlorite
+HYPOCHONDRIACS	(ad) çoğul çekimi: hypochondriac
+HYPOCHONDRIAS	(ad) çoğul çekimi: hypochondrium
+HYPOCORISMS	(ad) çoğul çekimi: hypocorism
+HYPODERMIS	(ad) hypodermis kelimesinin karşılığı: alt deri
+HYPODERMISES	(hypodermis sözcüğünün çekimi) (ad) hypodermis kelimesinin karşılığı: alt deri
+HYPOKALEMIA	(ad) hipokalemi: Kanda potasyum miktarının gerekenden aşağı düzeyde olması.
+HYPOKALEMIAS	(hypokalemia sözcüğünün çekimi) (ad) hipokalemi: Kanda potasyum miktarının gerekenden aşağı düzeyde olması.
+HYPOPHYSES	(hypophysis sözcüğünün çekimi) (ad) hipofiz: beynin alt bölümünde bulunan, salgısını kana vererek fizyolojik olaylarda önemli rol oynayan sinirsel...
+HYPOPHYSIS	(ad) hipofiz: beynin alt bölümünde bulunan, salgısını kana vererek fizyolojik olaylarda önemli rol oynayan sinirsel organ, pitüiter bez
+HYPOTENUSES	(ad) çoğul çekimi: hypotenuse
+HYPOTHALAMI	(ad) hypothalamus sözcüğünün çoğul çekimi: hipotalamus
+HYPOTHALAMUS	(ad) hipotalamus: Vücut ısısı, su dengesi, uyku, iştah, korku, kızgınlık ve sevgi gibi duyguları, otonom sinir sistemi aracılığıyla organların çalışmasını ve hormon salgısını kontrol eden beynin bir kısmı.
+HYPOTHESES	(hypothesis sözcüğünün çekimi) (ad) varsayım: Deneylerle henüz yeter derecede doğrulanmamış ancak doğrulanacağı umulan teorik düşünce. (ayrıca:...
+HYPOTHESIS	(ad) varsayım: Deneylerle henüz yeter derecede doğrulanmamış ancak doğrulanacağı umulan teorik düşünce. (ayrıca: hipotez)
+HYPOXIA	(ad) hipoksi: Vücuttaki oksijen düzeyinin düşmesiyle ortaya çıkan oksijen yetmezliği
+HYPOXIAS	(hypoxia sözcüğünün çekimi) (ad) hipoksi: Vücuttaki oksijen düzeyinin düşmesiyle ortaya çıkan oksijen yetmezliği
+HYPSOMETERS	(ad) çoğul çekimi: hypsometer
+HYRACOIDS	(ad) çoğul çekimi: hyracoid
+HYRAXES	(ad) çoğul çekimi: hyrax
+HYSSOPS	(ad) çoğul çekimi: hyssop
+HYSTERECTOMIES	(ad) çoğul çekimi: hysterectomy
+HYSTERIA	(ad) histeri: Duyu bozuklukları, çırpınma, kasılmalar ve bazen inmelerle kendini gösteren bir ruhsal bozukluk; isteri
+HYSTERIAS	(hysteria sözcüğünün çekimi) (ad) histeri: Duyu bozuklukları, çırpınma, kasılmalar ve bazen inmelerle kendini gösteren bir ruhsal bozukluk; isteri
+HYSTERICS	(ad) çoğul çekimi: hysteric

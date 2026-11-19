@@ -1,0 +1,2033 @@
+FABLE	(ad) fable kelimesinin karşılığı: ⟪fabl|FABL⟫, ⟪öykünce|ÖYKÜNCE⟫, ⟪masal|MASAL⟫
+FABLES	(fable sözcüğünün çekimi) (ad) fable kelimesinin karşılığı: ⟪fabl|FABL⟫, ⟪öykünce|ÖYKÜNCE⟫, ⟪masal|MASAL⟫
+FABLING	(fable sözcüğünün çekimi) (ad) fable kelimesinin karşılığı: ⟪fabl|FABL⟫, ⟪öykünce|ÖYKÜNCE⟫, ⟪masal|MASAL⟫
+FABRIC	(ad) kumaş: (mecaz) Varlığı ve kişiliği oluşturan nitelik veya malzeme.
+FABRICATIONS	(ad) çoğul çekimi: fabrication
+FABRICATORS	(ad) çoğul çekimi: fabricator
+FABRICS	(ad) fabric sözcüğünün çoğul çekimi: kumaş
+FABULOUS	(sıfat) mükemmel: çok güzel, harikulâde, şahane (ayrıca: harika, süper)
+FACADES	(ad) facade sözcüğünün çoğul çekimi
+FACE	(ad) sima: yüz (ayrıca: yüz, sıfat)
+FACED	(face sözcüğünün çekimi) (ad) sima: yüz (ayrıca: yüz, sıfat)
+FACES	(ad) face sözcüğünün çoğul çekimi: yüz, sıfat, sima, çehre, surat, beniz
+FACET	(ad) facet kelimesinin karşılığı: ⟪façeta|FAÇETA⟫
+FACETING	(facet sözcüğünün çekimi) (ad) facet kelimesinin karşılığı: ⟪façeta|FAÇETA⟫
+FACETIOUS	(sıfat) facetious kelimesinin karşılığı: ⟪nükteli|NÜKTELİ⟫
+FACETS	(ad) çoğul çekimi: facet
+FACIALS	(ad) çoğul çekimi: facial
+FACIAS	(ad) çoğul çekimi: fascia
+FACILITATE	(eylem) kolaylaştırmak: kolay bir duruma getirmek, güçlükleri ortadan kaldırmak
+FACILITATED	(eylem) facilitate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kolaylaştırmak
+FACILITATES	(eylem) facilitate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kolaylaştırmak
+FACILITATING	(eylem) facilitate sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kolaylaştırmak
+FACILITATORS	(ad) çoğul çekimi: facilitator
+FACILITIES	(ad) çoğul çekimi: facility
+FACILITY	(ad) servis: Bir yönetimde, bir kurum veya kuruluşta, bütünün bir parçasını oluşturan iş, hizmet; bu işin yapıldığı yer (ayrıca: tesis, hizmet)
+FACING	(zarf) facing kelimesinin karşılığı: ⟪karşı|KARŞI⟫
+FACINGS	(ad) çoğul çekimi: facing
+FACSIMILES	(ad) çoğul çekimi: facsimile
+FACT	(ad) olgu: varlığı veya doğruluğu anket, deney, test ve benzeri yöntemlerle kanıtlanmış olan konu
+FACTION	(ad) hizip: bir siyasi partinin içinde, partinin izlemekte olduğu ana siyasi çizgiye karşı olan, ayrı bir teşkilat merkezi bulunan ve partinin çoğunlukla aldığı kararlara karşı savaşan parti içi grup, fraksiyon, klik (ayrıca: gruplaşma, fraksiyon)
+FACTIONS	(faction sözcüğünün çekimi) (ad) hizip: bir siyasi partinin içinde, partinin izlemekte olduğu ana siyasi çizgiye karşı olan, ayrı bir teşkilat...
+FACTOIDS	(ad) çoğul çekimi: factoid
+FACTOR	(ad) etmen: birlikte veya ayrı ayrı etkisini gösteren ve belli bir sonuca götüren güçlerden, şartlardan, ögelerden her biri, amil, faktör (ayrıca: faktör)
+FACTORED	(factor sözcüğünün çekimi) (ad) etmen: birlikte veya ayrı ayrı etkisini gösteren ve belli bir sonuca götüren güçlerden, şartlardan, ögelerden her...
+FACTORIAL	(ad) faktöriyel: matematikte, sağına ünlem işareti konulmuş sayıya verilen isim
+FACTORIALS	(ad) çoğul çekimi: factorial
+FACTORIES	(ad) çoğul çekimi: factory
+FACTORING	(factor sözcüğünün çekimi) (ad) etmen: birlikte veya ayrı ayrı etkisini gösteren ve belli bir sonuca götüren güçlerden, şartlardan, ögelerden her...
+FACTORIZATIONS	(ad) çoğul çekimi: factorization
+FACTORS	(ad) çoğul çekimi: factor
+FACTORY	(ad) üretimevi: fabrika. (ayrıca: fabrika)
+FACTOTUM	(ad) her tür iş yapan kimse
+FACTOTUMS	(ad) çoğul çekimi: factotum
+FACTS	(ad) facts kelimesinin karşılığı: ⟪olgular|OLGULAR⟫
+FACTUAL	(sıfat) somut: madde üzerinde niteliği veya fiziksel eylemi olabilen
+FACULA	(ad) facula kelimesinin karşılığı: fakül
+FACULAE	(ad) çoğul çekimi: facula
+FACULTIES	(ad) çoğul çekimi: faculty
+FACULTY	(ad) faculty kelimesinin karşılığı: ⟪fakülte|FAKÜLTE⟫
+FADE	(eylem) sönmek: yanmaz, aydınlatmaz, parlamaz olmak, parlaklığını, ışığını yitirmek
+FADED	(eylem) fade sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sönmek
+FADERS	(ad) çoğul çekimi: fader
+FADES	(fade sözcüğünün çekimi) (eylem) sönmek: yanmaz, aydınlatmaz, parlamaz olmak, parlaklığını, ışığını yitirmek
+FADGES	(ad) çoğul çekimi: fadge
+FADING	(sıfat) fading kelimesinin karşılığı: alçalmalı
+FADINGS	(fade sözcüğünün çekimi) (eylem) sönmek: yanmaz, aydınlatmaz, parlamaz olmak, parlaklığını, ışığını yitirmek
+FADS	(ad) çoğul çekimi: fad
+FAECES	(ad) dışkı: sindirim sonunda anüs yoluyla dışarıya atılan besin artığı, kaka, bok, büyük abdest, kazurat
+FAIENCE	(ad) çini: fayans
+FAIENCES	(faience sözcüğünün çekimi) (ad) çini: fayans
+FAIL	(eylem) fail kelimesinin karşılığı: sınıfta bırakmak
+FAILED	(eylem) fail sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sınıfta bırakmak
+FAILING	(ad) eksiklik: eksik olma durumu, eksik olan miktar, noksan, nakisa, fıkdan
+FAILINGLY	(fail sözcüğünün çekimi) (eylem) fail kelimesinin karşılığı: sınıfta bırakmak
+FAILINGS	(ad) çoğul çekimi: failing
+FAILS	(ad) çoğul çekimi: fail
+FAILURE	(ad) başarısızlık: başarısız olma durumu, muvaffakiyetsizlik (ayrıca: hayal kırıklığı, fiyasko)
+FAILURES	(ad) failure sözcüğünün çoğul çekimi: başarısızlık, hayal kırıklığı, fiyasko
+FAINEANTS	(ad) çoğul çekimi: faineant
+FAINT	(ad) bayılmak: sıcak, açlık, susuzluk, yorgunluk vb. etkenlerle dayanma gücünü yitirmek
+FAINTED	(eylem) faint sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bayılmak
+FAINTER	(faint sözcüğünün çekimi) (ad) bayılmak: sıcak, açlık, susuzluk, yorgunluk vb. etkenlerle dayanma gücünü yitirmek
+FAINTEST	(faint sözcüğünün çekimi) (ad) bayılmak: sıcak, açlık, susuzluk, yorgunluk vb. etkenlerle dayanma gücünü yitirmek
+FAINTING	(faint sözcüğünün çekimi) (ad) bayılmak: sıcak, açlık, susuzluk, yorgunluk vb. etkenlerle dayanma gücünü yitirmek
+FAINTNESS	(ad) solukluk: Soluk olma durumu
+FAINTNESSES	(faintness sözcüğünün çekimi) (ad) solukluk: Soluk olma durumu
+FAINTS	(ad) çoğul çekimi: faint
+FAIRGROUNDS	(ad) çoğul çekimi: fairground
+FAIRIES	(ad) fairy sözcüğünün çoğul çekimi: peri
+FAIRINGS	(ad) çoğul çekimi: fairing
+FAIRLEAD	(ad) kurtağzı: Gemi ve sandallarda halatın geçmesi için teknenin kenarına tutturulmuş, açık ağız biçiminde metal parçalara verilen ad.
+FAIRLEADS	(fairlead sözcüğünün çekimi) (ad) kurtağzı: Gemi ve sandallarda halatın geçmesi için teknenin kenarına tutturulmuş, açık ağız biçiminde metal...
+FAIRNESS	(ad) fairness kelimesinin karşılığı: ⟪adillik|ADİLLİK⟫
+FAIRNESSES	(fairness sözcüğünün çekimi) (ad) fairness kelimesinin karşılığı: ⟪adillik|ADİLLİK⟫
+FAIRS	(ad) çoğul çekimi: fair
+FAIRWAYS	(ad) çoğul çekimi: fairway
+FAIRY	(ad) peri: doğaüstü güçleri olduğuna inanılan, hayal ürünü varlık
+FAIRYLANDS	(ad) çoğul çekimi: fairyland
+FAITH	(ad) iman: (mecaz) güçlü inanç, inan (ayrıca: inanç)
+FAITHFUL	(sıfat) vefakar: vefası olan, sevgisi geçici olmayan, hakikatli, vefalı (ayrıca: sadık)
+FAITHFULNESS	(ad) sadakat: Sağlam, güçlü dostluk.
+FAITHFULNESSES	(faithfulness sözcüğünün çekimi) (ad) sadakat: Sağlam, güçlü dostluk.
+FAITHFULS	(faithful sözcüğünün çekimi) (sıfat) vefakar: vefası olan, sevgisi geçici olmayan, hakikatli, vefalı (ayrıca: sadık)
+FAITHING	(faith sözcüğünün çekimi) (ad) iman: (mecaz) güçlü inanç, inan (ayrıca: inanç)
+FAITHS	(ad) çoğul çekimi: faith
+FAKE	(sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FAKED	(fake sözcüğünün çekimi) (sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FAKEER	(fake sözcüğünün çekimi) (sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FAKEERS	(fake sözcüğünün çekimi) (sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FAKES	(fake sözcüğünün çekimi) (sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FAKING	(fake sözcüğünün çekimi) (sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FAKIR	(ad) fakir kelimesinin karşılığı: ⟪fakir|FAKİR⟫
+FAKIRS	(fakir sözcüğünün çekimi) (ad) fakir kelimesinin karşılığı: ⟪fakir|FAKİR⟫
+FALAFEL	(ad) falafel: nohut köftesi veya bakla ezmesinin çeşitli baharatlarla karıştırılarak yağda kızartılmasıyla yapılan, daha çok ara sıcak olarak tüketilmeye uygun, Orta Doğu kökenli bir yemek.
+FALCON	(ad) doğan: bayağı doğan
+FALCONERS	(ad) çoğul çekimi: falconer
+FALCONS	(ad) çoğul çekimi: falcon
+FALL	(ad) sonbahar: Kuzey yarım kürede 24 Eylül-21 Aralık, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman dilimi, yazla kış arasındaki mevsim; güz, hazan, bağ bozumu. (ayrıca: güz)
+FALLACIES	(ad) çoğul çekimi: fallacy
+FALLACY	(ad) yanıltmaca: Başkasını yanıltmak için doğru olmadığı bilinerek yapılan uslamlama ve çıkarsama, mugalâta
+FALLEN	(eylem) düşmek: durduğu, bulunduğu, tutunduğu yerden ayrılarak veya dayanağını, dengesini kaybederek yukarıdan aşağıya inmek
+FALLING	(ad) falling kelimesinin karşılığı: alçalan
+FALLOFFS	(ad) çoğul çekimi: falloff
+FALLOUTS	(ad) çoğul çekimi: fallout
+FALLOW	(sıfat) fallow kelimesinin karşılığı: nadasa bırakılmış, ekilmemiş
+FALLOWED	(fallow sözcüğünün çekimi) (sıfat) fallow kelimesinin karşılığı: nadasa bırakılmış, ekilmemiş
+FALLOWING	(fallow sözcüğünün çekimi) (sıfat) fallow kelimesinin karşılığı: nadasa bırakılmış, ekilmemiş
+FALLOWS	(ad) çoğul çekimi: fallow
+FALLS	(fall sözcüğünün çekimi) (ad) sonbahar: Kuzey yarım kürede 24 Eylül-21 Aralık, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman...
+FALSE	(sıfat) yanlış: biçimsel düşünme yasalarına uymayan, düşünülen şeyle uyuşmayan (ayrıca: sahte)
+FALSEHOODS	(ad) çoğul çekimi: falsehood
+FALSER	(false sözcüğünün çekimi) (sıfat) yanlış: biçimsel düşünme yasalarına uymayan, düşünülen şeyle uyuşmayan (ayrıca: sahte)
+FALSEST	(false sözcüğünün çekimi) (sıfat) yanlış: biçimsel düşünme yasalarına uymayan, düşünülen şeyle uyuşmayan (ayrıca: sahte)
+FALSIES	(ad) çoğul çekimi: falsie
+FALSIFIERS	(ad) çoğul çekimi: falsifier
+FALSITIES	(ad) çoğul çekimi: falsity
+FALTER	(eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca: tartılmak)
+FALTERED	(falter sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+FALTERER	(falter sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+FALTERING	(falter sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+FALTERS	(ad) çoğul çekimi: falter
+FAME	(ad) fame kelimesinin karşılığı: ün, ⟪san|SAN⟫, ⟪şan|ŞAN⟫, ⟪şöhret|ŞÖHRET⟫
+FAMED	(sıfat) adsal: adla ilgili, ad niteliğinde olan
+FAMES	(fame sözcüğünün çekimi) (ad) fame kelimesinin karşılığı: ün, ⟪san|SAN⟫, ⟪şan|ŞAN⟫, ⟪şöhret|ŞÖHRET⟫
+FAMILIAR	(sıfat) familiar kelimesinin karşılığı: ⟪bilinen|BİLİNEN⟫, ⟪aşina|AŞİNA⟫
+FAMILIARITIES	(ad) çoğul çekimi: familiarity
+FAMILIARIZATIONS	(ad) çoğul çekimi: familiarization
+FAMILIARIZING	(eylem) familiarize sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+FAMILIARS	(ad) çoğul çekimi: familiar
+FAMILIES	(ad) family sözcüğünün çoğul çekimi: aile, ocak
+FAMILY	(ad) aile: Evlilik ve kan bağına dayanan, karı, koca, çocuklar, kardeşler arasındaki ilişkilerin oluşturduğu toplum içindeki en küçük birlik; ev, familya. (ayrıca: ocak)
+FAMINE	(ad) kıtlık: kıt olma durumu, ihtiyaca yetmeyecek kadar azlık, az ve zor bulunma
+FAMINES	(famine sözcüğünün çekimi) (ad) kıtlık: kıt olma durumu, ihtiyaca yetmeyecek kadar azlık, az ve zor bulunma
+FAMING	(fame sözcüğünün çekimi) (ad) fame kelimesinin karşılığı: ün, ⟪san|SAN⟫, ⟪şan|ŞAN⟫, ⟪şöhret|ŞÖHRET⟫
+FAMOUS	(sıfat) meşhur: ünlü, tanınmış, herkesçe bilinen, anılan, anılmış (ayrıca: ünlü)
+FAN	(ad) fan kelimesinin karşılığı: ⟪yelpaze|YELPAZE⟫
+FANATIC	(sıfat) fanatic kelimesinin karşılığı: ⟪fanatik|FANATİK⟫
+FANATICS	(ad) çoğul çekimi: fanatic
+FANCIES	(ad) çoğul çekimi: fancy
+FANDOMS	(ad) çoğul çekimi: fandom
+FANES	(fan sözcüğünün çekimi) (ad) fan kelimesinin karşılığı: ⟪yelpaze|YELPAZE⟫
+FANFARE	(ad) fanfare kelimesinin karşılığı: ⟪kutlama|KUTLAMA⟫
+FANFARES	(fanfare sözcüğünün çekimi) (ad) fanfare kelimesinin karşılığı: ⟪kutlama|KUTLAMA⟫
+FANG	(ad) fang kelimesinin karşılığı: ⟪diş|DİŞ⟫
+FANGS	(ad) çoğul çekimi: fang
+FANNED	(fan sözcüğünün çekimi) (ad) fan kelimesinin karşılığı: ⟪yelpaze|YELPAZE⟫
+FANNIES	(ad) çoğul çekimi: fanny
+FANNING	(fan sözcüğünün çekimi) (ad) fan kelimesinin karşılığı: ⟪yelpaze|YELPAZE⟫
+FANS	(ad) fan sözcüğünün çoğul çekimi: yelpaze\n(eylem) fan sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yelpaze
+FANTAILS	(ad) çoğul çekimi: fantail
+FANTASIES	(ad) fantasy sözcüğünün çoğul çekimi
+FANTASISTS	(ad) çoğul çekimi: fantasist
+FANTASIZE	(eylem) sayıklamak: İstediği, özlediği bir şeyden sürekli söz etmek
+FANTASIZED	(fantasize sözcüğünün çekimi) (eylem) sayıklamak: İstediği, özlediği bir şeyden sürekli söz etmek
+FANTASIZES	(fantasize sözcüğünün çekimi) (eylem) sayıklamak: İstediği, özlediği bir şeyden sürekli söz etmek
+FANTASIZING	(ad) sayıklama: Sayıklamak işi.
+FANTODS	(ad) çoğul çekimi: fantod
+FAR	(sıfat) far kelimesinin karşılığı: ⟪ırak|IRAK⟫, ⟪uzak|UZAK⟫
+FARDELS	(ad) çoğul çekimi: fardel
+FARE	(ad) belirli bir gruba, sınıfa, ülkeye v.s. ait yiyeceklerden oluşmuş ürün yelpazesi.\n(eylem) belirli şartlar altında, belirli bir yol, metod izlemek; idare etmek.
+FARED	(fare sözcüğünün çekimi) (ad) belirli bir gruba, sınıfa, ülkeye v.s. ait yiyeceklerden oluşmuş ürün yelpazesi.
+FARER	(far sözcüğünün çekimi) (sıfat) far kelimesinin karşılığı: ⟪ırak|IRAK⟫, ⟪uzak|UZAK⟫
+FARES	(ad) çoğul çekimi: fare
+FAREWELL	(ünlem) farewell kelimesinin karşılığı: ⟪elveda|ELVEDA⟫
+FAREWELLED	(farewell sözcüğünün çekimi) (ünlem) farewell kelimesinin karşılığı: ⟪elveda|ELVEDA⟫
+FAREWELLING	(farewell sözcüğünün çekimi) (ünlem) farewell kelimesinin karşılığı: ⟪elveda|ELVEDA⟫
+FAREWELLS	(ad) çoğul çekimi: farewell
+FARING	(fare sözcüğünün çekimi) (ad) belirli bir gruba, sınıfa, ülkeye v.s. ait yiyeceklerden oluşmuş ürün yelpazesi.
+FARKLEBERRIES	(ad) çoğul çekimi: farkleberry
+FARM	(ad) çiftlik: tarım yapılan, hayvan yetiştirilen, çalışanlarının da oturması için evler bulunan geniş toprak parçası
+FARMED	(farm sözcüğünün çekimi) (ad) çiftlik: tarım yapılan, hayvan yetiştirilen, çalışanlarının da oturması için evler bulunan geniş toprak parçası
+FARMER	(ad) çiftçi: kendi geçimine yönelik olarak çeşitli tarım ve hayvancılık ürünleri üreten bir çiftliği idare eden kişi; dikici, ekinci, rençber (ayrıca: ekinci)
+FARMERS	(ad) farmer sözcüğünün çoğul çekimi: çiftçi, ekinci
+FARMHOUSE	(ad) çiftlik evi ve çevresindeki alan
+FARMHOUSES	(ad) çoğul çekimi: farmhouse
+FARMING	(ad) ziraat: tarım (ayrıca: tarım)
+FARMINGS	(farm sözcüğünün çekimi) (ad) çiftlik: tarım yapılan, hayvan yetiştirilen, çalışanlarının da oturması için evler bulunan geniş toprak parçası
+FARMLANDS	(ad) çoğul çekimi: farmland
+FARMS	(ad) farm sözcüğünün çoğul çekimi: çiftlik
+FARMSTEAD	(ad) çiftlik ve müştemilatı
+FARMSTEADS	(ad) çoğul çekimi: farmstead
+FARMYARDS	(ad) çoğul çekimi: farmyard
+FARRIERS	(ad) çoğul çekimi: farrier
+FART	(ad) fart kelimesinin karşılığı: osuruk\n(eylem) yellenmek: kalın bağırsaktaki gazı çıkarmak, osurmak (ayrıca: osurmak)
+FARTED	(fart sözcüğünün çekimi) (ad) fart kelimesinin karşılığı: osuruk
+FARTHING	(ad) eskiden Britanya'da kullanılan çeyrek peni
+FARTHINGS	(ad) çoğul çekimi: farthing
+FARTING	(ad) farting kelimesinin karşılığı: ⟪yellenme|YELLENME⟫
+FARTS	(fart sözcüğünün çekimi) (ad) fart kelimesinin karşılığı: osuruk
+FASCES	(ad) Bir balta etrafına sarılmış değnek demeti. Roma İmparatorluğu'nda gücün simgesi olarak hakimler tarafından taşınmış ve İtalya'da faşizmin sembolü olarak kullanılmıştır.
+FASCIATIONS	(ad) çoğul çekimi: fasciation
+FASCICLES	(ad) çoğul çekimi: fascicle
+FASCICULATIONS	(ad) çoğul çekimi: fasciculation
+FASCICULES	(ad) çoğul çekimi: fascicule
+FASCISM	(ad) faşizm: Demokratik düzenin yerine aşırı bir ulusçuluk ve baskı düzeni kurmayı amaçlayan öğreti. (ayrıca: bindirmecilik, tepeden inmecilik)
+FASCISMS	(fascism sözcüğünün çekimi) (ad) faşizm: Demokratik düzenin yerine aşırı bir ulusçuluk ve baskı düzeni kurmayı amaçlayan öğreti. (ayrıca:...
+FASCIST	(sıfat) faşist: Faşizm yanlısı olan (kimse, görüş vb.)
+FASCISTS	(ad) çoğul çekimi: fascist
+FASHES	(ad) çoğul çekimi: fash
+FASHION	(ad) fashion kelimesinin karşılığı: ⟪moda|MODA⟫\n(eylem) uydurmak: Hayal gücünden yararlanarak gerçek dışı bir şey söylemek, yakıştırmak; düzmek. (ayrıca: oluşturmak)
+FASHIONED	(fashion sözcüğünün çekimi) (ad) fashion kelimesinin karşılığı: ⟪moda|MODA⟫
+FASHIONERS	(ad) çoğul çekimi: fashioner
+FASHIONING	(fashion sözcüğünün çekimi) (ad) fashion kelimesinin karşılığı: ⟪moda|MODA⟫
+FASHIONS	(ad) fashion sözcüğünün çoğul çekimi: Moda.
+FAST	(zarf) fast kelimesinin karşılığı: ⟪tez|TEZ⟫\n(eylem) oruç tutmak: Oruç ibadetini yerine getirmek
+FASTBALLS	(ad) çoğul çekimi: fastball
+FASTED	(fast sözcüğünün çekimi) (zarf) fast kelimesinin karşılığı: ⟪tez|TEZ⟫
+FASTEN	(eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine yaklaştırmak
+FASTENED	(eylem) fasten sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bağlamak
+FASTENERS	(ad) çoğul çekimi: fastener
+FASTENING	(eylem) fasten sözcüğünün şimdiki zaman ortaç ve gerund çekimi: bağlamak
+FASTENINGS	(ad) çoğul çekimi: fastening
+FASTENS	(fasten sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+FASTER	(fast sözcüğünün çekimi) (zarf) fast kelimesinin karşılığı: ⟪tez|TEZ⟫
+FASTEST	(fast sözcüğünün çekimi) (zarf) fast kelimesinin karşılığı: ⟪tez|TEZ⟫
+FASTIDIOUS	(sıfat) titiz: Temizliğe aşırı düşkün olan.
+FASTING	(eylem) fast sözcüğünün şimdiki zaman ortaç ve gerund çekimi: tez
+FASTINGS	(fast sözcüğünün çekimi) (zarf) fast kelimesinin karşılığı: ⟪tez|TEZ⟫
+FASTNESS	(ad) hızlılık: hızlı olma durumu, sürat
+FASTNESSES	(ad) çoğul çekimi: fastness
+FASTS	(ad) çoğul çekimi: fast
+FAT	(ad) fat kelimesinin karşılığı: ⟪yağ|YAĞ⟫\n(sıfat) şişman: Deri altında fazla yağ toplanması sebebiyle vücudun her yanı şişkin görünen (kimse); kilolu, semiz, şişko, mülahham. (ayrıca: şişko)
+FATAL	(ad) ölümcül: ölümle sona erme ihtimali olan veya ölümle sona eren
+FATALISM	(ad) kadercilik: Her şeyin önceden belirlenmiş olduğunu, insanın bunu asla değiştiremeyeceğini ileri süren dünya görüşü
+FATALISMS	(fatalism sözcüğünün çekimi) (ad) kadercilik: Her şeyin önceden belirlenmiş olduğunu, insanın bunu asla değiştiremeyeceğini ileri süren dünya görüşü
+FATALIST	(sıfat) yazgıcı: Yazgıcılık yanlısı olan; kaderci, fatalist.
+FATALISTS	(fatalist sözcüğünün çekimi) (sıfat) yazgıcı: Yazgıcılık yanlısı olan; kaderci, fatalist.
+FATALITIES	(ad) çoğul çekimi: fatality
+FATBACKS	(ad) çoğul çekimi: fatback
+FATE	(ad) kader: ezelî takdir (ayrıca: alın yazısı, mukadderat)
+FATED	(fate sözcüğünün çekimi) (ad) kader: ezelî takdir (ayrıca: alın yazısı, mukadderat)
+FATES	(ad) fate sözcüğünün çoğul çekimi: kader, alın yazısı, mukadderat, takdiriilahi, takdir, yazgı, yazı
+FATHEADS	(ad) çoğul çekimi: fathead
+FATHER	(ad) baba: Çocuğun dünyaya gelmesinde etken olan erkek.\n(eylem) father kelimesinin karşılığı: babası olmak
+FATHERED	(father sözcüğünün çekimi) (ad) baba: Çocuğun dünyaya gelmesinde etken olan erkek.
+FATHERING	(father sözcüğünün çekimi) (ad) baba: Çocuğun dünyaya gelmesinde etken olan erkek.
+FATHERLAND	(ad) fatherland kelimesinin karşılığı: ana vatan, ana yurt
+FATHERLANDS	(fatherland sözcüğünün çekimi) (ad) fatherland kelimesinin karşılığı: ana vatan, ana yurt
+FATHERLY	(sıfat) babacan: itimada şayan, güvenilir, hoşgörülü, iyi kalpli, olgun
+FATHERS	(ad) father sözcüğünün çoğul çekimi: baba
+FATHOM	(ad) fathom kelimesinin karşılığı: ⟪kulaç|KULAÇ⟫
+FATHOMED	(fathom sözcüğünün çekimi) (ad) fathom kelimesinin karşılığı: ⟪kulaç|KULAÇ⟫
+FATHOMING	(fathom sözcüğünün çekimi) (ad) fathom kelimesinin karşılığı: ⟪kulaç|KULAÇ⟫
+FATHOMS	(ad) çoğul çekimi: fathom
+FATIGUE	(ad) fatigue kelimesinin karşılığı: ⟪kırgınlık|KIRGINLIK⟫, ⟪bitkinlik|BİTKİNLİK⟫
+FATIGUED	(fatigue sözcüğünün çekimi) (ad) fatigue kelimesinin karşılığı: ⟪kırgınlık|KIRGINLIK⟫, ⟪bitkinlik|BİTKİNLİK⟫
+FATIGUES	(fatigue sözcüğünün çekimi) (ad) fatigue kelimesinin karşılığı: ⟪kırgınlık|KIRGINLIK⟫, ⟪bitkinlik|BİTKİNLİK⟫
+FATIGUING	(fatigue sözcüğünün çekimi) (ad) fatigue kelimesinin karşılığı: ⟪kırgınlık|KIRGINLIK⟫, ⟪bitkinlik|BİTKİNLİK⟫
+FATING	(fate sözcüğünün çekimi) (ad) kader: ezelî takdir (ayrıca: alın yazısı, mukadderat)
+FATLINGS	(ad) çoğul çekimi: fatling
+FATS	(ad) çoğul çekimi: fat
+FATTED	(fat sözcüğünün çekimi) (ad) fat kelimesinin karşılığı: ⟪yağ|YAĞ⟫
+FATTEN	(eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek
+FATTENED	(fatten sözcüğünün çekimi) (eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek
+FATTENING	(fatten sözcüğünün çekimi) (eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek
+FATTENS	(fatten sözcüğünün çekimi) (eylem) şişmanlatmak: şişmanlamasını sağlamak, şişman duruma getirmek
+FATTER	(fat sözcüğünün çekimi) (ad) fat kelimesinin karşılığı: ⟪yağ|YAĞ⟫
+FATTEST	(fat sözcüğünün çekimi) (ad) fat kelimesinin karşılığı: ⟪yağ|YAĞ⟫
+FATTIER	(fatty sözcüğünün çekimi) (sıfat) fatty kelimesinin karşılığı: ⟪yağlı|YAĞLI⟫
+FATTIES	(fatty sözcüğünün çekimi) (sıfat) fatty kelimesinin karşılığı: ⟪yağlı|YAĞLI⟫
+FATTIEST	(fatty sözcüğünün çekimi) (sıfat) fatty kelimesinin karşılığı: ⟪yağlı|YAĞLI⟫
+FATTILY	(fatty sözcüğünün çekimi) (sıfat) fatty kelimesinin karşılığı: ⟪yağlı|YAĞLI⟫
+FATTING	(fat sözcüğünün çekimi) (ad) fat kelimesinin karşılığı: ⟪yağ|YAĞ⟫
+FATTY	(sıfat) fatty kelimesinin karşılığı: ⟪yağlı|YAĞLI⟫
+FATWA	(ad) fetva: İslam hukuku ile ilgili bir sorunun dinî hukuk kurallarına göre çözümünü açıklayan, şeyhülislam veya müftü tarafından bildirilen görüş ve bunu resmileştiren belge.
+FATWAS	(fatwa sözcüğünün çekimi) (ad) fetva: İslam hukuku ile ilgili bir sorunun dinî hukuk kurallarına göre çözümünü açıklayan, şeyhülislam veya müftü...
+FAUCET	(ad) faucet kelimesinin karşılığı: ⟪çeşme|ÇEŞME⟫, ⟪musluk|MUSLUK⟫
+FAUCETS	(ad) çoğul çekimi: faucet
+FAULDS	(ad) çoğul çekimi: fauld
+FAULT	(ad) hata: yanılgı, yanlış
+FAULTED	(fault sözcüğünün çekimi) (ad) hata: yanılgı, yanlış
+FAULTFINDERS	(ad) çoğul çekimi: faultfinder
+FAULTIER	(faulty sözcüğünün çekimi) (sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+FAULTIEST	(faulty sözcüğünün çekimi) (sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+FAULTING	(fault sözcüğünün çekimi) (ad) hata: yanılgı, yanlış
+FAULTS	(ad) fault sözcüğünün çoğul çekimi: hata
+FAULTY	(sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+FAUVISTS	(ad) çoğul çekimi: fauvist
+FAVORED	(eylem) favor sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+FAVORITE	(ad) gözde: önemli kişinin beğendiği kadın
+FAVORITES	(ad) favorites kelimesinin karşılığı: sık kullanılanlar
+FAVORS	(ad) favor sözcüğünün çoğul çekimi
+FAVOUR	(ad) favour kelimesinin karşılığı: ⟪hizmet|HİZMET⟫
+FAVOURED	(eylem) favour sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hizmet
+FAVOURING	(favour sözcüğünün çekimi) (ad) favour kelimesinin karşılığı: ⟪hizmet|HİZMET⟫
+FAVOURS	(ad) çoğul çekimi: favour
+FAWN	(ad) fawn kelimesinin karşılığı: geyik yavrusu
+FAWNED	(fawn sözcüğünün çekimi) (ad) fawn kelimesinin karşılığı: geyik yavrusu
+FAWNERS	(ad) çoğul çekimi: fawner
+FAWNING	(fawn sözcüğünün çekimi) (ad) fawn kelimesinin karşılığı: geyik yavrusu
+FAWNS	(ad) çoğul çekimi: fawn
+FAX	(ad) fax kelimesinin karşılığı: bkz. faks
+FAXED	(fax sözcüğünün çekimi) (ad) fax kelimesinin karşılığı: bkz. faks
+FAXES	(fax sözcüğünün çekimi) (ad) fax kelimesinin karşılığı: bkz. faks
+FAXING	(fax sözcüğünün çekimi) (ad) fax kelimesinin karşılığı: bkz. faks
+FAYS	(ad) çoğul çekimi: fay
+FEAR	(ad) korku: Bir tehlike veya tehlike düşüncesi karşısında duyulan kaygı, üzüntü.\n(eylem) korkmak: Korku duymak, ürkmek, dehşete kapılmak; korkulmak.
+FEARED	(fear sözcüğünün çekimi) (ad) korku: Bir tehlike veya tehlike düşüncesi karşısında duyulan kaygı, üzüntü.
+FEARFUL	(sıfat) ürkek: Çok ürken, korkuya çabuk kapılan.
+FEARFULLER	(fearful sözcüğünün çekimi) (sıfat) ürkek: Çok ürken, korkuya çabuk kapılan.
+FEARFULLEST	(fearful sözcüğünün çekimi) (sıfat) ürkek: Çok ürken, korkuya çabuk kapılan.
+FEARING	(eylem) fear sözcüğünün şimdiki zaman ortaç ve gerund çekimi: korku
+FEARLESS	(sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+FEARLESSLY	(zarf) fearlessly kelimesinin karşılığı: ⟪cesurane|CESURANE⟫, ⟪cesurca|CESURCA⟫
+FEARS	(ad) fear sözcüğünün çoğul çekimi: korku
+FEASIBILITIES	(ad) çoğul çekimi: feasibility
+FEASIBILITY	(ad) yapılabilirlik: yapılabilirlik
+FEAST	(ad) ziyafet: Eğlenmek veya bir olayı kutlamak amacıyla birçok kimsenin bir araya gelerek yedikleri yemek; şölen, toy
+FEASTED	(feast sözcüğünün çekimi) (ad) ziyafet: Eğlenmek veya bir olayı kutlamak amacıyla birçok kimsenin bir araya gelerek yedikleri yemek; şölen, toy
+FEASTING	(feast sözcüğünün çekimi) (ad) ziyafet: Eğlenmek veya bir olayı kutlamak amacıyla birçok kimsenin bir araya gelerek yedikleri yemek; şölen, toy
+FEASTS	(ad) çoğul çekimi: feast
+FEATHER	(ad) feather kelimesinin karşılığı: ⟪tüy|TÜY⟫
+FEATHERBEDS	(ad) çoğul çekimi: featherbed
+FEATHERED	(feather sözcüğünün çekimi) (ad) feather kelimesinin karşılığı: ⟪tüy|TÜY⟫
+FEATHERING	(feather sözcüğünün çekimi) (ad) feather kelimesinin karşılığı: ⟪tüy|TÜY⟫
+FEATHERINGS	(feather sözcüğünün çekimi) (ad) feather kelimesinin karşılığı: ⟪tüy|TÜY⟫
+FEATHERS	(ad) çoğul çekimi: feather
+FEATHERWEIGHT	(ad) featherweight kelimesinin karşılığı: tüy sıklet
+FEATHERWEIGHTS	(ad) çoğul çekimi: featherweight
+FEATS	(ad) çoğul çekimi: feat
+FEATURE	(ad) özellik: Bir şeyin benzerlerinden veya başka şeylerden ayrılmasını sağlayan nitelik; hususiyet, hasiyet, hassa, mahsusluk, özgülük, spesiyalite
+FEATURED	(feature sözcüğünün çekimi) (ad) özellik: Bir şeyin benzerlerinden veya başka şeylerden ayrılmasını sağlayan nitelik; hususiyet, hasiyet, hassa,...
+FEATURES	(ad) feature sözcüğünün çoğul çekimi: özellik
+FEATURING	(eylem) feature sözcüğünün şimdiki zaman ortaç ve gerund çekimi: özellik
+FECES	(ad) dışkı: sindirim sonunda anüs yoluyla dışarıya atılan besin artığı, kaka, bok, büyük abdest, kazurat
+FED	(eylem) feed sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: beslemek
+FEDERAL	(sıfat) federal kelimesinin karşılığı: ⟪federal|FEDERAL⟫
+FEDERALISM	(ad) federalism kelimesinin karşılığı: federalizm
+FEDERALISMS	(ad) çoğul çekimi: federalism
+FEDERALISTS	(ad) çoğul çekimi: federalist
+FEDERALS	(ad) çoğul çekimi: federal
+FEDERATION	(ad) federasyon: Aynı alandaki çeşitli kuruluşları bir arada toplayan dayanışma birliği
+FEDERATIONS	(ad) çoğul çekimi: federation
+FEDS	(ad) çoğul çekimi: fed
+FEE	(ad) ücret: kiralanan veya satın alınan bir şey için ödenen para, ödeyiş (ayrıca: vergin, vizite)
+FEEBLE	(sıfat) güçsüz: gücü olmayan, âciz (ayrıca: bitap, dermansız)
+FEEBLENESS	(ad) güçsüzlük: güçsüz olma durumu, güçsüze yakışacak davranış, kuvvetsizlik, aciz, âcizlik, iktidarsızlık
+FEEBLENESSES	(feebleness sözcüğünün çekimi) (ad) güçsüzlük: güçsüz olma durumu, güçsüze yakışacak davranış, kuvvetsizlik, aciz, âcizlik, iktidarsızlık
+FEEBLER	(feeble sözcüğünün çekimi) (sıfat) güçsüz: gücü olmayan, âciz (ayrıca: bitap, dermansız)
+FEEBLEST	(feeble sözcüğünün çekimi) (sıfat) güçsüz: gücü olmayan, âciz (ayrıca: bitap, dermansız)
+FEED	(eylem) feed kelimesinin karşılığı: ⟪beslemek|BESLEMEK⟫\n(ad) feed kelimesinin karşılığı: ⟪besleme|BESLEME⟫
+FEEDBACK	(ad) feedback kelimesinin karşılığı: ⟪dönüt|DÖNÜT⟫, geri bildirim, geri besleme
+FEEDBACKS	(feedback sözcüğünün çekimi) (ad) feedback kelimesinin karşılığı: ⟪dönüt|DÖNÜT⟫, geri bildirim, geri besleme
+FEEDBAGS	(ad) çoğul çekimi: feedbag
+FEEDERS	(ad) çoğul çekimi: feeder
+FEEDING	(eylem) feed sözcüğünün şimdiki zaman ortaç ve gerund çekimi: beslemek
+FEEDLOTS	(ad) çoğul çekimi: feedlot
+FEEDS	(ad) feed sözcüğünün çoğul çekimi: beslemek\n(eylem) feed sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: beslemek
+FEEDSTOCK	(ad) feedstock kelimesinin karşılığı: ham madde
+FEEDSTOCKS	(ad) çoğul çekimi: feedstock
+FEEING	(fee sözcüğünün çekimi) (ad) ücret: kiralanan veya satın alınan bir şey için ödenen para, ödeyiş (ayrıca: vergin, vizite)
+FEEL	(eylem) hissetmek: bir şeyden etkilenmek, duymak
+FEELER	(ad) duyarga: Eklem bacaklılarda, başın ön bölümünde bulunan, eklemlerden oluşmuş hareketli duyu alma organı. (ayrıca: anten, lamise)
+FEELERS	(ad) çoğul çekimi: feeler
+FEELING	(ad) his: duygu
+FEELINGS	(ad) feeling sözcüğünün çoğul çekimi: his
+FEELS	(eylem) feel sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: hissetmek\n(ad) çoğul çekimi: feel
+FEES	(ad) çoğul çekimi: fee
+FEET	(ad) foot sözcüğünün çoğul çekimi: hesabı ödemek
+FEIJOA	(ad) feijoa kelimesinin karşılığı: feijoa
+FEIJOAS	(feijoa sözcüğünün çekimi) (ad) feijoa kelimesinin karşılığı: feijoa
+FEINTS	(ad) çoğul çekimi: feint
+FEIST	(ad) kısa boylu, hırçın ve kırma köpek
+FEISTS	(ad) çoğul çekimi: feist
+FELICITATIONS	(ad) çoğul çekimi: felicitation
+FELICITIES	(felicity sözcüğünün çekimi) (ad) felicity kelimesinin karşılığı: ⟪saadet|SAADET⟫, ⟪mutluluk|MUTLULUK⟫
+FELICITOUS	(sıfat) münasip: uygun, yerinde (ayrıca: isabetli, uygun)
+FELICITY	(ad) felicity kelimesinin karşılığı: ⟪saadet|SAADET⟫, ⟪mutluluk|MUTLULUK⟫
+FELIDS	(ad) çoğul çekimi: felid
+FELINES	(ad) çoğul çekimi: feline
+FELLAHIN	(ad) çoğul çekimi: fellah
+FELLAHS	(ad) çoğul çekimi: fellah
+FELLAS	(ad) çoğul çekimi: fella
+FELLERS	(ad) çoğul çekimi: feller
+FELLOW	(ad) eş: Ortak bir faaliyette bulunanlardan her biri; partner.
+FELLOWED	(fellow sözcüğünün çekimi) (ad) eş: Ortak bir faaliyette bulunanlardan her biri; partner.
+FELLOWING	(fellow sözcüğünün çekimi) (ad) eş: Ortak bir faaliyette bulunanlardan her biri; partner.
+FELLOWS	(ad) çoğul çekimi: fellow
+FELLOWSHIPS	(ad) çoğul çekimi: fellowship
+FELLS	(ad) çoğul çekimi: fell
+FELON	(ad) suçlu, ağır suç işlemiş olan
+FELONIES	(ad) çoğul çekimi: felony
+FELONS	(ad) çoğul çekimi: felon
+FELONY	(ad) Ölüm cezası veya 1 yıldan uzun süreli hapis cezası gerektiren suç
+FELT	(ad) keçe: yapağı veya keçi kılının dokunmadan, yalnızca dövülmesiyle elde edilen kaba kumaş (ayrıca: aba, fötr)
+FELTED	(felt sözcüğünün çekimi) (ad) keçe: yapağı veya keçi kılının dokunmadan, yalnızca dövülmesiyle elde edilen kaba kumaş (ayrıca: aba, fötr)
+FELTING	(ad) keçecilik: Keçe yapma veya satma işi. (ayrıca: abacılık)
+FELTINGS	(felt sözcüğünün çekimi) (ad) keçe: yapağı veya keçi kılının dokunmadan, yalnızca dövülmesiyle elde edilen kaba kumaş (ayrıca: aba, fötr)
+FELTS	(ad) çoğul çekimi: felt
+FELUCCAS	(ad) çoğul çekimi: felucca
+FEMALE	(sıfat) dişi: Erkeği tarafından döllenecek şekilde oluşmuş canlı
+FEMALES	(ad) female sözcüğünün çoğul çekimi: dişi
+FEMININE	(ad) feminine kelimesinin karşılığı: ⟪dişil|DİŞİL⟫\n(sıfat) feminine kelimesinin karşılığı: ⟪dişil|DİŞİL⟫
+FEMININES	(ad) çoğul çekimi: feminine
+FEMINISM	(ad) feminizm: Toplumda kadının haklarını çoğaltma, erkeğinkiler düzeyine çıkarma, eşitlik sağlama amacını güden düşünce akımı; kadın hareketi. (ayrıca: kadın hareketi)
+FEMINISMS	(feminism sözcüğünün çekimi) (ad) feminizm: Toplumda kadının haklarını çoğaltma, erkeğinkiler düzeyine çıkarma, eşitlik sağlama amacını güden...
+FEMINIST	(ad) feminist: feminizm yanlısı (kimse, görüş)\n(sıfat) feminist: feminizm yanlısı (kimse, görüş)
+FEMINISTS	(ad) feminist sözcüğünün çoğul çekimi: feminist
+FEMINIZATIONS	(ad) çoğul çekimi: feminization
+FENCE	(ad) çit: bağ, bahçe, bostan gibi yerlerin çevresine çalı, kamış, ağaç dalı gibi şeylerden çekilen duvar
+FENCED	(fence sözcüğünün çekimi) (ad) çit: bağ, bahçe, bostan gibi yerlerin çevresine çalı, kamış, ağaç dalı gibi şeylerden çekilen duvar
+FENCERS	(ad) çoğul çekimi: fencer
+FENCES	(ad) fence sözcüğünün çoğul çekimi: çit
+FENCING	(fence sözcüğünün çekimi) (ad) çit: bağ, bahçe, bostan gibi yerlerin çevresine çalı, kamış, ağaç dalı gibi şeylerden çekilen duvar
+FENCINGS	(fence sözcüğünün çekimi) (ad) çit: bağ, bahçe, bostan gibi yerlerin çevresine çalı, kamış, ağaç dalı gibi şeylerden çekilen duvar
+FENDERS	(ad) çoğul çekimi: fender
+FENNEC	(ad) fennec kelimesinin karşılığı: çöl tilkisi
+FENNECS	(ad) fennec sözcüğünün çoğul çekimi: çöl tilkisi
+FENS	(ad) çoğul çekimi: fen
+FEOFFEES	(ad) çoğul çekimi: feoffee
+FERAL	(sıfat) yabani: Doğada yaşayan, evcil olmayan hayvan evcil karşıtı; yabanıl, vahşi. (ayrıca: vahşi)
+FERES	(ad) çoğul çekimi: fere
+FERIAS	(ad) çoğul çekimi: feria
+FERMENT	(ad) ferment kelimesinin karşılığı: ⟪maya|MAYA⟫
+FERMENTATION	(ad) fermentation kelimesinin karşılığı: ⟪mayalanma|MAYALANMA⟫, ⟪tahammür|TAHAMMÜR⟫, ⟪fermantasyon|FERMANTASYON⟫
+FERMENTATIONS	(fermentation sözcüğünün çekimi) (ad) fermentation kelimesinin karşılığı: ⟪mayalanma|MAYALANMA⟫, ⟪tahammür|TAHAMMÜR⟫, ⟪fermantasyon|FERMANTASYON⟫
+FERMENTED	(ferment sözcüğünün çekimi) (ad) ferment kelimesinin karşılığı: ⟪maya|MAYA⟫
+FERMENTER	(ferment sözcüğünün çekimi) (ad) ferment kelimesinin karşılığı: ⟪maya|MAYA⟫
+FERMENTING	(ferment sözcüğünün çekimi) (ad) ferment kelimesinin karşılığı: ⟪maya|MAYA⟫
+FERMENTS	(ad) çoğul çekimi: ferment
+FERMION	(ad) fermiyon: Parçacık fiziğinde Fermi-Dirac istatistiğine uyan buçuklu spine sahip parçacık.
+FERMIONS	(fermion sözcüğünün çekimi) (ad) fermiyon: Parçacık fiziğinde Fermi-Dirac istatistiğine uyan buçuklu spine sahip parçacık.
+FERMIUM	(ad) fermium kelimesinin karşılığı: ⟪fermiyum|FERMİYUM⟫
+FERMIUMS	(fermium sözcüğünün çekimi) (ad) fermium kelimesinin karşılığı: ⟪fermiyum|FERMİYUM⟫
+FERNS	(ad) çoğul çekimi: fern
+FERRATES	(ad) çoğul çekimi: ferrate
+FERRET	(ad) tavşan veya fare yakalamakta kullanılan bir çeşit yaban gelinciği, dağ gelinciği.\n(eylem) gelincikle tavşan avlamak
+FERRETED	(ferret sözcüğünün çekimi) (ad) tavşan veya fare yakalamakta kullanılan bir çeşit yaban gelinciği, dağ gelinciği.
+FERRETING	(ferret sözcüğünün çekimi) (ad) tavşan veya fare yakalamakta kullanılan bir çeşit yaban gelinciği, dağ gelinciği.
+FERRETS	(ad) çoğul çekimi: ferret
+FERRIED	(ferry sözcüğünün çekimi) (ad) ferry kelimesinin karşılığı: ⟪feribot|FERİBOT⟫, ⟪arabalı|ARABALI⟫, araba vapuru, arabalı vapur
+FERRIES	(ferry sözcüğünün çekimi) (ad) ferry kelimesinin karşılığı: ⟪feribot|FERİBOT⟫, ⟪arabalı|ARABALI⟫, araba vapuru, arabalı vapur
+FERRITE	(ad) ferrite kelimesinin karşılığı: ⟪ferrit|FERRİT⟫
+FERRITES	(ad) çoğul çekimi: ferrite
+FERRITINS	(ad) çoğul çekimi: ferritin
+FERROTYPES	(ad) çoğul çekimi: ferrotype
+FERRULES	(ad) çoğul çekimi: ferrule
+FERRY	(ad) ferry kelimesinin karşılığı: ⟪feribot|FERİBOT⟫, ⟪arabalı|ARABALI⟫, araba vapuru, arabalı vapur
+FERRYBOAT	(ad) ferryboat kelimesinin karşılığı: ⟪feribot|FERİBOT⟫, ⟪arabalı|ARABALI⟫, araba vapuru, arabalı vapur
+FERRYBOATS	(ad) çoğul çekimi: ferryboat
+FERRYING	(ferry sözcüğünün çekimi) (ad) ferry kelimesinin karşılığı: ⟪feribot|FERİBOT⟫, ⟪arabalı|ARABALI⟫, araba vapuru, arabalı vapur
+FERTILE	(sıfat) fertile kelimesinin karşılığı: ⟪verimli|VERİMLİ⟫
+FERTILITIES	(fertility sözcüğünün çekimi) (ad) fertility kelimesinin karşılığı: doğurganlık
+FERTILITY	(ad) fertility kelimesinin karşılığı: doğurganlık
+FERTILIZATION	(ad) döllenme: yeni bireysel organizma oluşturma veya yavruların gelişimini başlatmak için gametlerin kaynaşması olayı, erkek gametle dişi gametin kaynaşmasıyla yumurtacığın oğulcuk durumuna gelmesi, aşılanma (ayrıca: aşılanma, ilkah)
+FERTILIZATIONS	(fertilization sözcüğünün çekimi) (ad) döllenme: yeni bireysel organizma oluşturma veya yavruların gelişimini başlatmak için gametlerin kaynaşması olayı,...
+FERTILIZER	(ad) fertilizer kelimesinin karşılığı: ⟪gübre|GÜBRE⟫
+FERTILIZERS	(ad) çoğul çekimi: fertilizer
+FERULAS	(ad) çoğul çekimi: ferula
+FERVENT	(sıfat) ateşli: (mecaz) cinsel istekleri güçlü olan (ayrıca: coşkun, tutkulu)
+FERVID	(sıfat) ateşli; hararetli; şevk dolu; yoğun duygularla kaplı
+FERVOR	(ad) coşku: genellikle büyük istekle ortaya çıkan geçici hayranlık veya heyecan durumu (ayrıca: şevk, heves)
+FERVORS	(fervor sözcüğünün çekimi) (ad) coşku: genellikle büyük istekle ortaya çıkan geçici hayranlık veya heyecan durumu (ayrıca: şevk, heves)
+FESTER	(eylem) kokmak: çürüyüp bozularak kötü bir koku çıkarmak, kokuşmak (ayrıca: iltihaplanmak, irin toplamak)
+FESTERED	(fester sözcüğünün çekimi) (eylem) kokmak: çürüyüp bozularak kötü bir koku çıkarmak, kokuşmak (ayrıca: iltihaplanmak, irin toplamak)
+FESTERING	(fester sözcüğünün çekimi) (eylem) kokmak: çürüyüp bozularak kötü bir koku çıkarmak, kokuşmak (ayrıca: iltihaplanmak, irin toplamak)
+FESTERS	(ad) çoğul çekimi: fester
+FESTIVAL	(ad) festival: şenlik
+FESTIVALS	(ad) festival sözcüğünün çoğul çekimi: festival
+FESTIVE	(sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şenlikli, bayram havası)
+FESTIVELY	(festive sözcüğünün çekimi) (sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şenlikli, bayram havası)
+FESTIVITIES	(ad) çoğul çekimi: festivity
+FESTOONS	(ad) çoğul çekimi: festoon
+FETAL	(ad) fetal kelimesinin karşılığı: fötal
+FETCHERS	(ad) çoğul çekimi: fetcher
+FETICIDES	(ad) çoğul çekimi: feticide
+FETISH	(ad) put: Bazı ilkel toplumlarda doğaüstü güç ve etkisi olduğuna inanılan canlı veya cansız nesne (ayrıca: tapıncak, sanem)
+FETISHES	(fetish sözcüğünün çekimi) (ad) put: Bazı ilkel toplumlarda doğaüstü güç ve etkisi olduğuna inanılan canlı veya cansız nesne (ayrıca: tapıncak,...
+FETISHISM	(ad) fetishism kelimesinin karşılığı: ⟪fetişizm|FETİŞİZM⟫
+FETISHISMS	(fetishism sözcüğünün çekimi) (ad) fetishism kelimesinin karşılığı: ⟪fetişizm|FETİŞİZM⟫
+FETISHISTS	(ad) çoğul çekimi: fetishist
+FETORS	(ad) çoğul çekimi: fetor
+FETOSCOPES	(ad) çoğul çekimi: fetoscope
+FETTERS	(ad) çoğul çekimi: fetter
+FETTLES	(ad) çoğul çekimi: fettle
+FETUS	(ad) fetus kelimesinin karşılığı: fetus, ⟪cenin|CENİN⟫
+FETUSES	(ad) çoğul çekimi: fetus
+FEUDAL	(sıfat) feudal kelimesinin karşılığı: ⟪feodal|FEODAL⟫
+FEUDALISM	(ad) feudalism kelimesinin karşılığı: ⟪feodalizm|FEODALİZM⟫
+FEUDALISMS	(feudalism sözcüğünün çekimi) (ad) feudalism kelimesinin karşılığı: ⟪feodalizm|FEODALİZM⟫
+FEUDS	(ad) çoğul çekimi: feud
+FEVER	(ad) ateş: Genellikle hastalık etkisiyle artan vücut sıcaklığı. (ayrıca: humma)
+FEVERFEWS	(ad) çoğul çekimi: feverfew
+FEVERING	(fever sözcüğünün çekimi) (ad) ateş: Genellikle hastalık etkisiyle artan vücut sıcaklığı. (ayrıca: humma)
+FEVERS	(ad) fever sözcüğünün çoğul çekimi: ateş, humma
+FEW	(sıfat) az: Nicelik bildiren sıfat (ayrıca: bir kaç)
+FEZ	(ad) fez kelimesinin karşılığı: ⟪fes|FES⟫
+FEZES	(fez sözcüğünün çekimi) (ad) fez kelimesinin karşılığı: ⟪fes|FES⟫
+FEZZED	(fez sözcüğünün çekimi) (ad) fez kelimesinin karşılığı: ⟪fes|FES⟫
+FEZZES	(ad) fezzes kelimesinin karşılığı: fesler
+FIANCES	(ad) çoğul çekimi: fiance
+FIASCOS	(ad) fiasco sözcüğünün çoğul çekimi
+FIATS	(ad) çoğul çekimi: fiat
+FIB	(ad) fib kelimesinin karşılığı: küçük yalan, beyaz yalan, zararsız yalan
+FIBBED	(fib sözcüğünün çekimi) (ad) fib kelimesinin karşılığı: küçük yalan, beyaz yalan, zararsız yalan
+FIBBERS	(ad) çoğul çekimi: fibber
+FIBBING	(fib sözcüğünün çekimi) (ad) fib kelimesinin karşılığı: küçük yalan, beyaz yalan, zararsız yalan
+FIBER	(ad) fiber kelimesinin karşılığı: ⟪elyaf|ELYAF⟫
+FIBERBOARDS	(ad) fiberboard sözcüğünün çoğul çekimi
+FIBERS	(ad) çoğul çekimi: fiber
+FIBRE	(ad) fibre kelimesinin karşılığı: ⟪fiber|FİBER⟫
+FIBRES	(fibre sözcüğünün çekimi) (ad) fibre kelimesinin karşılığı: ⟪fiber|FİBER⟫
+FIBRILS	(ad) çoğul çekimi: fibril
+FIBROBLAST	(ad) fibroblast kelimesinin karşılığı: fibroblast
+FIBROBLASTS	(ad) çoğul çekimi: fibroblast
+FIBROIDS	(ad) fibroid sözcüğünün çoğul çekimi
+FIBROMAS	(ad) çoğul çekimi: fibroma
+FIBROMATA	(ad) fibroma sözcüğünün çoğul çekimi
+FIBS	(fib sözcüğünün çekimi) (ad) fib kelimesinin karşılığı: küçük yalan, beyaz yalan, zararsız yalan
+FIBULAE	(ad) fibula sözcüğünün çoğul çekimi
+FICES	(ad) çoğul çekimi: fice
+FICHUS	(ad) çoğul çekimi: fichu
+FICTION	(ad) fiction kelimesinin karşılığı: ⟪kurmaca|KURMACA⟫
+FICTIONALIZATIONS	(ad) çoğul çekimi: fictionalization
+FICTIONISTS	(ad) çoğul çekimi: fictionist
+FICTIONS	(ad) fiction sözcüğünün çoğul çekimi: kurmaca
+FIDDLERS	(ad) çoğul çekimi: fiddler
+FIDDLES	(ad) çoğul çekimi: fiddle
+FIDDLESTICKS	(ad) çoğul çekimi: fiddlestick
+FIDELITIES	(ad) fidelity sözcüğünün çoğul çekimi: sadakat, sadık
+FIDELITY	(ad) fidelity kelimesinin karşılığı: ⟪sadakat|SADAKAT⟫, ⟪sadık|SADIK⟫
+FIDGETS	(ad) çoğul çekimi: fidget
+FIDS	(ad) çoğul çekimi: fid
+FIDUCIARIES	(ad) çoğul çekimi: fiduciary
+FIEFDOMS	(ad) çoğul çekimi: fiefdom
+FIELD	(ad) saha: alan (ayrıca: mıntıka, muhit)
+FIELDED	(field sözcüğünün çekimi) (ad) saha: alan (ayrıca: mıntıka, muhit)
+FIELDERS	(ad) çoğul çekimi: fielder
+FIELDFARE	(ad) fieldfare kelimesinin karşılığı: tarla ardıç kuşu
+FIELDFARES	(ad) çoğul çekimi: fieldfare
+FIELDING	(field sözcüğünün çekimi) (ad) saha: alan (ayrıca: mıntıka, muhit)
+FIELDS	(ad) field sözcüğünün çoğul çekimi: saha, mıntıka, muhit
+FIELDWORKS	(ad) çoğul çekimi: fieldwork
+FIENDS	(ad) çoğul çekimi: fiend
+FIERIER	(fiery sözcüğünün çekimi) (sıfat) ateşli: (mecaz) cinsel istekleri güçlü olan
+FIERIEST	(fiery sözcüğünün çekimi) (sıfat) ateşli: (mecaz) cinsel istekleri güçlü olan
+FIERY	(sıfat) ateşli: (mecaz) cinsel istekleri güçlü olan
+FIESTAS	(ad) çoğul çekimi: fiesta
+FIFTEEN	(sayı) fifteen kelimesinin karşılığı: on beş
+FIFTEENS	(ad) çoğul çekimi: fifteen
+FIFTEENTH	(sıfat) fifteenth kelimesinin karşılığı: on beşinci
+FIFTEENTHS	(ad) çoğul çekimi: fifteenth
+FIFTH	(sıfat) fifth kelimesinin karşılığı: ⟪beşinci|BEŞİNCİ⟫
+FIFTHS	(ad) çoğul çekimi: fifth
+FIFTIES	(ad) çoğul çekimi: fifty
+FIFTIETH	(sıfat) ellinci: ellinin sıra sıfatı; sırada kırk dokuzuncudan sonra gelen
+FIFTIETHS	(ad) çoğul çekimi: fiftieth
+FIFTY	(sayı) elli: elli birden önce, kırk dokuzdan sonra gelen sayma sayısı
+FIG	(ad) fig kelimesinin karşılığı: ⟪incir|İNCİR⟫
+FIGGED	(fig sözcüğünün çekimi) (ad) fig kelimesinin karşılığı: ⟪incir|İNCİR⟫
+FIGGING	(fig sözcüğünün çekimi) (ad) fig kelimesinin karşılığı: ⟪incir|İNCİR⟫
+FIGHT	(eylem) fight kelimesinin karşılığı: ⟪dövüşmek|DÖVÜŞMEK⟫\n(ad) mücadele: birbirlerine isteklerini kabul ettirmek için iki taraf arasında yapılan zorlu çaba (ayrıca: kavga, dövüş)
+FIGHTER	(ad) savaşçı: savaşa katılan kişi, muharip
+FIGHTERS	(ad) fighter sözcüğünün çoğul çekimi: savaşçı
+FIGHTING	(fight sözcüğünün çekimi) (eylem) fight kelimesinin karşılığı: ⟪dövüşmek|DÖVÜŞMEK⟫
+FIGHTINGS	(fight sözcüğünün çekimi) (eylem) fight kelimesinin karşılığı: ⟪dövüşmek|DÖVÜŞMEK⟫
+FIGHTS	(ad) fight sözcüğünün çoğul çekimi: dövüşmek
+FIGS	(ad) çoğul çekimi: fig
+FIGURATIVE	(sıfat) figurative kelimesinin karşılığı: ⟪mecazi|MECAZİ⟫
+FIGURE	(ad) figure kelimesinin karşılığı: ⟪figür|FİGÜR⟫, ⟪beti|BETİ⟫, değişmece
+FIGURED	(figure sözcüğünün çekimi) (ad) figure kelimesinin karşılığı: ⟪figür|FİGÜR⟫, ⟪beti|BETİ⟫, değişmece
+FIGURES	(ad) figure sözcüğünün çoğul çekimi: figür, beti, değişmece
+FIGURING	(figure sözcüğünün çekimi) (ad) figure kelimesinin karşılığı: ⟪figür|FİGÜR⟫, ⟪beti|BETİ⟫, değişmece
+FILAMENTS	(ad) çoğul çekimi: filament
+FILBERT	(ad) filbert kelimesinin karşılığı: ⟪fındık|FINDIK⟫
+FILBERTS	(filbert sözcüğünün çekimi) (ad) filbert kelimesinin karşılığı: ⟪fındık|FINDIK⟫
+FILCH	(eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+FILCHED	(filch sözcüğünün çekimi) (eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+FILCHES	(ad) çoğul çekimi: filch
+FILCHING	(filch sözcüğünün çekimi) (eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+FILE	(ad) dosya: aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü
+FILED	(file sözcüğünün çekimi) (ad) dosya: aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü
+FILERS	(ad) çoğul çekimi: filer
+FILES	(ad) file sözcüğünün çoğul çekimi: dosya\n(eylem) file sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dosya
+FILIBUSTER	(eylem) bir kanunun meclisten geçmesini önlemek için kürsüde konuşmayı uzatmak
+FILIBUSTERED	(filibuster sözcüğünün çekimi) (eylem) bir kanunun meclisten geçmesini önlemek için kürsüde konuşmayı uzatmak
+FILIBUSTERERS	(ad) çoğul çekimi: filibusterer
+FILIBUSTERING	(filibuster sözcüğünün çekimi) (eylem) bir kanunun meclisten geçmesini önlemek için kürsüde konuşmayı uzatmak
+FILIBUSTERS	(ad) çoğul çekimi: filibuster
+FILIGREES	(ad) çoğul çekimi: filigree
+FILING	(ad) dosyalama: Dosyalamak işi
+FILINGS	(ad) çoğul çekimi: filing
+FILL	(eylem) doldurmak: belirli bir süreyi kaplamak, almak
+FILLED	(eylem) fill sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: doldurmak
+FILLERS	(ad) çoğul çekimi: filler
+FILLETS	(ad) çoğul çekimi: fillet
+FILLIES	(ad) çoğul çekimi: filly
+FILLING	(fill sözcüğünün çekimi) (eylem) doldurmak: belirli bir süreyi kaplamak, almak
+FILLINGS	(ad) çoğul çekimi: filling
+FILLIP	(ad) teşvik: İsteklendirme, özendirme, terviç
+FILLIPED	(fillip sözcüğünün çekimi) (ad) teşvik: İsteklendirme, özendirme, terviç
+FILLIPING	(fillip sözcüğünün çekimi) (ad) teşvik: İsteklendirme, özendirme, terviç
+FILLIPS	(ad) çoğul çekimi: fillip
+FILLS	(ad) çoğul çekimi: fill
+FILLY	(ad) filly kelimesinin karşılığı: ⟪tay|TAY⟫
+FILM	(ad) film kelimesinin karşılığı: ⟪film|FİLM⟫
+FILMED	(eylem) film sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: film
+FILMER	(film sözcüğünün çekimi) (ad) film kelimesinin karşılığı: ⟪film|FİLM⟫
+FILMING	(film sözcüğünün çekimi) (ad) film kelimesinin karşılığı: ⟪film|FİLM⟫
+FILMMAKERS	(ad) çoğul çekimi: filmmaker
+FILMS	(ad) film sözcüğünün çoğul çekimi: film
+FILTER	(ad) filter kelimesinin karşılığı: ⟪filtre|FİLTRE⟫
+FILTERED	(eylem) filter sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: filtre
+FILTERER	(filter sözcüğünün çekimi) (ad) filter kelimesinin karşılığı: ⟪filtre|FİLTRE⟫
+FILTERING	(ad) filtreden süzülen şey\n(eylem) to filter (filtrelemek) fiilinin sıfat-fiili
+FILTERS	(ad) filter sözcüğünün çoğul çekimi: filtre
+FILTH	(ad) pislik: (mecaz) kötü, zararlı davranış veya iş
+FILTHIER	(filthy sözcüğünün çekimi) (sıfat) pis: kendinde pislik olan veya pislenmiş olan
+FILTHIEST	(filthy sözcüğünün çekimi) (sıfat) pis: kendinde pislik olan veya pislenmiş olan
+FILTHS	(filth sözcüğünün çekimi) (ad) pislik: (mecaz) kötü, zararlı davranış veya iş
+FILTHY	(sıfat) pis: kendinde pislik olan veya pislenmiş olan
+FIMBLES	(ad) çoğul çekimi: fimble
+FIN	(ad) balıklarda olan kanat, yüzgeç balıklarda
+FINAGLERS	(ad) çoğul çekimi: finagler
+FINAL	(ad) final: Elemeli yarışmalarda sonucu belirten karşılaşma
+FINALISTS	(ad) çoğul çekimi: finalist
+FINALITIES	(ad) çoğul çekimi: finality
+FINALIZATIONS	(ad) çoğul çekimi: finalization
+FINALLY	(ad) akıbet: bir iş veya durumun sonu, sonuç (ayrıca: nihayetinde, sonunda)
+FINALS	(ad) çoğul çekimi: final
+FINANCE	(ad) finance kelimesinin karşılığı: ⟪finans|FİNANS⟫\n(eylem) finance kelimesinin karşılığı: akçelemek, finanse etmek
+FINANCED	(finance sözcüğünün çekimi) (ad) finance kelimesinin karşılığı: ⟪finans|FİNANS⟫
+FINANCES	(finance sözcüğünün çekimi) (ad) finance kelimesinin karşılığı: ⟪finans|FİNANS⟫
+FINANCIAL	(sıfat) financial kelimesinin karşılığı: ⟪finansal|FİNANSAL⟫
+FINANCIERS	(ad) çoğul çekimi: financier
+FINANCING	(ad) finansman: Bir girişime işleyebilmesi, gelişebilmesi için gereken para ve krediyi sağlama işi
+FINANCINGS	(finance sözcüğünün çekimi) (ad) finance kelimesinin karşılığı: ⟪finans|FİNANS⟫
+FINBACKS	(ad) çoğul çekimi: finback
+FINCHES	(ad) finch sözcüğünün çoğul çekimi
+FIND	(ad) buluş: bilinen bilgilerden yararlanarak daha önce bilinmeyen yeni bir bulguya ulaşma veya yöntem geliştirme, icat
+FINDERS	(ad) çoğul çekimi: finder
+FINDING	(ad) bulgu: araştırma verilerinin çözümlenmesinden çıkarılan bilimsel sonuç, netice
+FINDINGS	(ad) finding sözcüğünün çoğul çekimi: bulgu
+FINDS	(eylem) find sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: buluş\n(ad) çoğul çekimi: find
+FINE	(ad) ceza: suç işleyen bir kişinin mallarına, şerefine, hürriyetine, hayatına karşı kanunların öngördüğü müeyyide\n(zamir) iyi bir şekilde
+FINED	(fine sözcüğünün çekimi) (ad) ceza: suç işleyen bir kişinin mallarına, şerefine, hürriyetine, hayatına karşı kanunların öngördüğü müeyyide
+FINES	(ad) (cezalar) (fine): ceza\n(eylem) fine fiilinin geniş zaman 3. tekil şahıs çekimi
+FINESSE	(ad) beceri; ustalık; zor durumları incelikle idare edebilme
+FINESSED	(finesse sözcüğünün çekimi) (ad) beceri; ustalık; zor durumları incelikle idare edebilme
+FINESSES	(finesse sözcüğünün çekimi) (ad) beceri; ustalık; zor durumları incelikle idare edebilme
+FINESSING	(finesse sözcüğünün çekimi) (ad) beceri; ustalık; zor durumları incelikle idare edebilme
+FINEST	(fine sözcüğünün çekimi) (ad) ceza: suç işleyen bir kişinin mallarına, şerefine, hürriyetine, hayatına karşı kanunların öngördüğü müeyyide
+FINGER	(sıfat) parmak: insanda ve bazı hayvanlarda ellerin ve ayakların son bölümünü oluşturan, boğumlu, oynak, uzunca organların her biri\n(ad) parmak: insanda ve bazı hayvanlarda ellerin ve ayakların son bölümünü oluşturan, boğumlu, oynak, uzunca organların her biri
+FINGERBOARD	(ad) fingerboard kelimesinin karşılığı: ahenk tahtası
+FINGERBOARDS	(ad) çoğul çekimi: fingerboard
+FINGERED	(finger sözcüğünün çekimi) (sıfat) parmak: insanda ve bazı hayvanlarda ellerin ve ayakların son bölümünü oluşturan, boğumlu, oynak, uzunca...
+FINGERING	(eylem) finger sözcüğünün şimdiki zaman ortaç ve gerund çekimi: parmak
+FINGERINGS	(finger sözcüğünün çekimi) (sıfat) parmak: insanda ve bazı hayvanlarda ellerin ve ayakların son bölümünü oluşturan, boğumlu, oynak, uzunca...
+FINGERLINGS	(ad) çoğul çekimi: fingerling
+FINGERNAIL	(ad) fingernail kelimesinin karşılığı: ⟪tırnak|TIRNAK⟫
+FINGERNAILS	(ad) çoğul çekimi: fingernail
+FINGERPOST	(ad) fingerpost kelimesinin karşılığı: yön işareti, işaret levhası
+FINGERPOSTS	(ad) çoğul çekimi: fingerpost
+FINGERPRINT	(ad) fingerprint kelimesinin karşılığı: parmak izi
+FINGERPRINTED	(fingerprint sözcüğünün çekimi) (ad) fingerprint kelimesinin karşılığı: parmak izi
+FINGERPRINTING	(fingerprint sözcüğünün çekimi) (ad) fingerprint kelimesinin karşılığı: parmak izi
+FINGERPRINTINGS	(fingerprint sözcüğünün çekimi) (ad) fingerprint kelimesinin karşılığı: parmak izi
+FINGERPRINTS	(ad) fingerprint sözcüğünün çoğul çekimi: parmak izi
+FINGERS	(ad) finger sözcüğünün çoğul çekimi: parmak
+FINGERTIPS	(ad) çoğul çekimi: fingertip
+FINIALS	(ad) çoğul çekimi: finial
+FINING	(fine sözcüğünün çekimi) (ad) ceza: suç işleyen bir kişinin mallarına, şerefine, hürriyetine, hayatına karşı kanunların öngördüğü müeyyide
+FININGS	(fine sözcüğünün çekimi) (ad) ceza: suç işleyen bir kişinin mallarına, şerefine, hürriyetine, hayatına karşı kanunların öngördüğü müeyyide
+FINISH	(ad) finish kelimesinin karşılığı: ⟪bitim|BİTİM⟫, ⟪bitiş|BİTİŞ⟫\n(eylem) tamamlamak: bitirmek. (ayrıca: bitirmek, bitmek)
+FINISHED	(sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+FINISHERS	(ad) çoğul çekimi: finisher
+FINISHES	(ad) finish sözcüğünün çoğul çekimi: bitim, bitiş\n(eylem) finish sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bitim, bitiş
+FINISHING	(finish sözcüğünün çekimi) (ad) finish kelimesinin karşılığı: ⟪bitim|BİTİM⟫, ⟪bitiş|BİTİŞ⟫
+FINITE	(sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan. (ayrıca: sonlu, mahdut)
+FINITES	(finite sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan. (ayrıca: sonlu, mahdut)
+FINKS	(ad) çoğul çekimi: fink
+FINNED	(fin sözcüğünün çekimi) (ad) balıklarda olan kanat, yüzgeç balıklarda
+FINNING	(fin sözcüğünün çekimi) (ad) balıklarda olan kanat, yüzgeç balıklarda
+FINS	(fin sözcüğünün çekimi) (ad) balıklarda olan kanat, yüzgeç balıklarda
+FIORD	(ad) fiyort: Norveç, İskoçya ve Kuzey Amerika kıyılarında buzulların oluşturdukları dik yamaçlı, derin eski buzul koyaklarının aşağı kesimlerinin deniz altında kalmasıyla oluşan körfez.
+FIORDS	(fiord sözcüğünün çekimi) (ad) fiyort: Norveç, İskoçya ve Kuzey Amerika kıyılarında buzulların oluşturdukları dik yamaçlı, derin eski buzul...
+FIR	(ad) fir kelimesinin karşılığı: ⟪köknar|KÖKNAR⟫
+FIRE	(ad) ateş: Patlayıcı silahların atılması.\n(eylem) bir silah ile ateş etmek
+FIREARM	(ad) firearm kelimesinin karşılığı: ateşli silah
+FIREARMS	(ad) çoğul çekimi: firearm
+FIREBALLS	(ad) çoğul çekimi: fireball
+FIREBOATS	(ad) çoğul çekimi: fireboat
+FIREBOMB	(ad) firebomb kelimesinin karşılığı: yangın bombası
+FIREBOMBED	(firebomb sözcüğünün çekimi) (ad) firebomb kelimesinin karşılığı: yangın bombası
+FIREBOMBING	(firebomb sözcüğünün çekimi) (ad) firebomb kelimesinin karşılığı: yangın bombası
+FIREBOMBS	(firebomb sözcüğünün çekimi) (ad) firebomb kelimesinin karşılığı: yangın bombası
+FIREBOXES	(ad) çoğul çekimi: firebox
+FIREBUG	(ad) firebug kelimesinin karşılığı: alev tahtakurusu
+FIREBUGS	(firebug sözcüğünün çekimi) (ad) firebug kelimesinin karşılığı: alev tahtakurusu
+FIRECRACKER	(ad) firecracker kelimesinin karşılığı: havai fişek, kestane fişeği
+FIRECRACKERS	(ad) çoğul çekimi: firecracker
+FIRED	(eylem) fire sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ateş
+FIREDOGS	(ad) çoğul çekimi: firedog
+FIREFIGHTER	(ad) itfaiyeci: ekip içinde sorumluluk alarak, her türlü yangın söndürme, kurtarma ve ilk yardım çalışmalarını, en kısa zamanda yürütme bilgi ve becerisine sahip nitelikli kişi
+FIREFIGHTERS	(ad) çoğul çekimi: firefighter
+FIREFLIES	(ad) çoğul çekimi: firefly
+FIREFLY	(ad) firefly kelimesinin karşılığı: ateş böceği
+FIREGUARDS	(ad) çoğul çekimi: fireguard
+FIREHOUSES	(ad) çoğul çekimi: firehouse
+FIREMAN	(ad) fireman kelimesinin karşılığı: ⟪itfaiyeci|İTFAİYECİ⟫
+FIREMEN	(fireman sözcüğünün çekimi) (ad) fireman kelimesinin karşılığı: ⟪itfaiyeci|İTFAİYECİ⟫
+FIREPLACE	(ad) ocak: mutfak eşyası (ayrıca: şömine)
+FIREPLACED	(fireplace sözcüğünün çekimi) (ad) ocak: mutfak eşyası (ayrıca: şömine)
+FIREPLACES	(ad) çoğul çekimi: fireplace
+FIRERS	(ad) çoğul çekimi: firer
+FIRES	(ad) fire sözcüğünün çoğul çekimi: ateş
+FIRESIDE	(ad) ocakbaşı: Lokantalarda genellikle ızgara olarak pişirilen et yemeklerinin ocağın çevresinde oturulup yendiği bölüm. (ayrıca: şömine kenarı)
+FIRESIDES	(ad) çoğul çekimi: fireside
+FIRESTORM	(ad) firestorm kelimesinin karşılığı: ateş fırtınası, alev fırtınası
+FIRESTORMS	(ad) çoğul çekimi: firestorm
+FIRETRAPS	(ad) çoğul çekimi: firetrap
+FIREWOOD	(ad) odun: ağaçların gövdelerini ve dallarını meydana getiren sert madde, tahta
+FIREWOODS	(firewood sözcüğünün çekimi) (ad) odun: ağaçların gövdelerini ve dallarını meydana getiren sert madde, tahta
+FIREWORKS	(ad) çoğul çekimi: firework
+FIREWORMS	(ad) çoğul çekimi: fireworm
+FIRING	(eylem) fire sözcüğünün şimdiki zaman ortaç ve gerund çekimi: ateş
+FIRINGS	(fire sözcüğünün çekimi) (ad) ateş: Patlayıcı silahların atılması.
+FIRKINS	(ad) çoğul çekimi: firkin
+FIRM	(ad) firm kelimesinin karşılığı: ⟪firma|FİRMA⟫\n(sıfat) firm kelimesinin karşılığı: ⟪pek|PEK⟫, ⟪sağlam|SAĞLAM⟫, ⟪sert|SERT⟫
+FIRMAMENT	(ad) firmament kelimesinin karşılığı: ⟪gökyüzü|GÖKYÜZÜ⟫
+FIRMAMENTS	(firmament sözcüğünün çekimi) (ad) firmament kelimesinin karşılığı: ⟪gökyüzü|GÖKYÜZÜ⟫
+FIRMED	(firm sözcüğünün çekimi) (ad) firm kelimesinin karşılığı: ⟪firma|FİRMA⟫
+FIRMER	(firm sözcüğünün çekimi) (ad) firm kelimesinin karşılığı: ⟪firma|FİRMA⟫
+FIRMEST	(firm sözcüğünün çekimi) (ad) firm kelimesinin karşılığı: ⟪firma|FİRMA⟫
+FIRMING	(firm sözcüğünün çekimi) (ad) firm kelimesinin karşılığı: ⟪firma|FİRMA⟫
+FIRMLY	(zarf) sıkıca: sıkı bir biçimde
+FIRMNESS	(ad) firmness kelimesinin karşılığı: ⟪metanet|METANET⟫
+FIRMNESSES	(firmness sözcüğünün çekimi) (ad) firmness kelimesinin karşılığı: ⟪metanet|METANET⟫
+FIRMS	(ad) firmalar: firma
+FIRMWARE	(ad) firmware kelimesinin karşılığı: ⟪bellenim|BELLENİM⟫, donanım yazılımı
+FIRMWARES	(firmware sözcüğünün çekimi) (ad) firmware kelimesinin karşılığı: ⟪bellenim|BELLENİM⟫, donanım yazılımı
+FIRS	(fir sözcüğünün çekimi) (ad) fir kelimesinin karşılığı: ⟪köknar|KÖKNAR⟫
+FIRST	(ad) ilk: Herhangi bir şeyin en önde olanı, önce geleni.\n(zarf) ilk: Herhangi bir şeyin en önde olanı, önce geleni.
+FIRSTBORNS	(ad) çoğul çekimi: firstborn
+FIRSTLINGS	(ad) çoğul çekimi: firstling
+FIRSTS	(ad) first sözcüğünün çoğul çekimi: ilk\n(eylem) first sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ilk
+FIRTHS	(ad) çoğul çekimi: firth
+FISCAL	(sıfat) mali; mali konularla alakalı; bütçeyle, gelirlerle veya vergilerle alakalı
+FISCALS	(ad) çoğul çekimi: fiscal
+FISCS	(ad) çoğul çekimi: fisc
+FISH	(ad) balık: Omurgalılardan, suda yaşayan, solungaçla nefes alan ve yumurtadan üreyen hayvanların genel adı
+FISHBONE	(ad) kılçık: Balıkların eti arasında bulunan diken gibi ince ve küçük kemik.
+FISHBONES	(fishbone sözcüğünün çekimi) (ad) kılçık: Balıkların eti arasında bulunan diken gibi ince ve küçük kemik.
+FISHED	(fish sözcüğünün çekimi) (ad) balık: Omurgalılardan, suda yaşayan, solungaçla nefes alan ve yumurtadan üreyen hayvanların genel adı
+FISHERIES	(ad) çoğul çekimi: fishery
+FISHERMAN	(ad) balıkçı: Balık tutan kimse.
+FISHERMEN	(fisherman sözcüğünün çekimi) (ad) balıkçı: Balık tutan kimse.
+FISHERS	(ad) çoğul çekimi: fisher
+FISHERY	(ad) balıkçılık: Balıkçının yaptığı iş
+FISHES	(ad) fish sözcüğünün çoğul çekimi: balık
+FISHHOOKS	(ad) çoğul çekimi: fishhook
+FISHING	(eylem) fish sözcüğünün şimdiki zaman ortaç ve gerund çekimi: balık
+FISHINGS	(fish sözcüğünün çekimi) (ad) balık: Omurgalılardan, suda yaşayan, solungaçla nefes alan ve yumurtadan üreyen hayvanların genel adı
+FISHMONGER	(ad) balıkçı: Balık tutan kimse.
+FISHMONGERS	(ad) çoğul çekimi: fishmonger
+FISHNET	(ad) fishnet kelimesinin karşılığı: balık ağı, balıkçı ağı
+FISHNETS	(ad) çoğul çekimi: fishnet
+FISHPLATES	(ad) çoğul çekimi: fishplate
+FISHPONDS	(ad) çoğul çekimi: fishpond
+FISHTAILS	(ad) çoğul çekimi: fishtail
+FISSURE	(ad) yarık: ince bir çizgi durumunda açılmış yara
+FISSURED	(fissure sözcüğünün çekimi) (ad) yarık: ince bir çizgi durumunda açılmış yara
+FISSURES	(fissure sözcüğünün çekimi) (ad) yarık: ince bir çizgi durumunda açılmış yara
+FISSURING	(fissure sözcüğünün çekimi) (ad) yarık: ince bir çizgi durumunda açılmış yara
+FIST	(ad) yumruk: elin bu biçimiyle yapılan vuruş
+FISTED	(fist sözcüğünün çekimi) (ad) yumruk: elin bu biçimiyle yapılan vuruş
+FISTFIGHTS	(ad) çoğul çekimi: fistfight
+FISTFUL	(ad) fistful kelimesinin karşılığı: avuç dolusu
+FISTFULS	(ad) çoğul çekimi: fistful
+FISTING	(fist sözcüğünün çekimi) (ad) yumruk: elin bu biçimiyle yapılan vuruş
+FISTS	(ad) çoğul çekimi: fist
+FISTULAS	(ad) çoğul çekimi: fistula
+FIT	(eylem) fit kelimesinin karşılığı: uygun düşmek\n(sıfat) uygun, gereklilikleri yerine getirebilecek şekilde
+FITCHEWS	(ad) çoğul çekimi: fitchew
+FITMENTS	(ad) çoğul çekimi: fitment
+FITS	(ad) çoğul çekimi: fit\n(eylem) fit sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: uygun düşmek
+FITTED	(eylem) fit sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: uygun düşmek
+FITTERS	(ad) çoğul çekimi: fitter
+FITTEST	(fit sözcüğünün çekimi) (eylem) fit kelimesinin karşılığı: uygun düşmek
+FITTING	(sıfat) uygun: yakışır, yaraşır, mutabık, mütenasip
+FITTINGS	(ad) çoğul çekimi: fitting
+FIVE	(ad) beş: dörtten sonra gelen sayma sayısının adı\n(sıfat) beş: dörtten sonra gelen sayma sayısının adı
+FIVER	(five sözcüğünün çekimi) (ad) beş: dörtten sonra gelen sayma sayısının adı
+FIVERS	(ad) çoğul çekimi: fiver
+FIVES	(ad) çoğul çekimi: five
+FIX	(sıfat) fix kelimesinin karşılığı: ⟪tamir|TAMİR⟫
+FIXATION	(ad) fixation kelimesinin karşılığı: ⟪sabitleme|SABİTLEME⟫, sabitleşme
+FIXATIONS	(fixation sözcüğünün çekimi) (ad) fixation kelimesinin karşılığı: ⟪sabitleme|SABİTLEME⟫, sabitleşme
+FIXATIVES	(ad) çoğul çekimi: fixative
+FIXED	(sıfat) fixed kelimesinin karşılığı: ⟪sabit|SABİT⟫
+FIXERS	(ad) çoğul çekimi: fixer
+FIXES	(fix sözcüğünün çekimi) (sıfat) fix kelimesinin karşılığı: ⟪tamir|TAMİR⟫
+FIXING	(eylem) fix sözcüğünün şimdiki zaman ortaç ve gerund çekimi: tamir
+FIXINGS	(ad) çoğul çekimi: fixing
+FIXTURE	(ad) fixture kelimesinin karşılığı: ⟪fikstür|FİKSTÜR⟫
+FIXTURES	(ad) çoğul çekimi: fixture
+FIZZES	(ad) çoğul çekimi: fizz
+FJORD	(ad) fiyort: Norveç, İskoçya ve Kuzey Amerika kıyılarında buzulların oluşturdukları dik yamaçlı, derin eski buzul koyaklarının aşağı kesimlerinin deniz altında kalmasıyla oluşan körfez.
+FJORDS	(ad) fjord sözcüğünün çoğul çekimi: fiyort
+FLABBERGASTED	(sıfat) flabbergasted kelimesinin karşılığı: şaşkına dönmüş, hayretler içerisinde, ⟪afallamış|AFALLAMIŞ⟫
+FLACKS	(ad) çoğul çekimi: flack
+FLAG	(ad) bayrak: Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle özelleştirilmiş, genellikle dikdörtgen biçiminde kumaş; alem. (ayrıca: sancak, alem)
+FLAGELLANTS	(ad) çoğul çekimi: flagellant
+FLAGELLATE	(eylem) flagellate kelimesinin karşılığı: ⟪kırbaçlamak|KIRBAÇLAMAK⟫, ⟪kamçılamak|KAMÇILAMAK⟫
+FLAGELLATED	(flagellate sözcüğünün çekimi) (eylem) flagellate kelimesinin karşılığı: ⟪kırbaçlamak|KIRBAÇLAMAK⟫, ⟪kamçılamak|KAMÇILAMAK⟫
+FLAGELLATES	(flagellate sözcüğünün çekimi) (eylem) flagellate kelimesinin karşılığı: ⟪kırbaçlamak|KIRBAÇLAMAK⟫, ⟪kamçılamak|KAMÇILAMAK⟫
+FLAGELLATING	(flagellate sözcüğünün çekimi) (eylem) flagellate kelimesinin karşılığı: ⟪kırbaçlamak|KIRBAÇLAMAK⟫, ⟪kamçılamak|KAMÇILAMAK⟫
+FLAGELLATIONS	(ad) çoğul çekimi: flagellation
+FLAGELLUMS	(ad) çoğul çekimi: flagellum
+FLAGGED	(flag sözcüğünün çekimi) (ad) bayrak: Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle...
+FLAGGER	(flag sözcüğünün çekimi) (ad) bayrak: Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle...
+FLAGGING	(flag sözcüğünün çekimi) (ad) bayrak: Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle...
+FLAGGINGLY	(flag sözcüğünün çekimi) (ad) bayrak: Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle...
+FLAGGINGS	(flag sözcüğünün çekimi) (ad) bayrak: Bir milletin, belli bir topluluğun veya bir kuruluşun simgesi olarak kullanılan, renk ve biçimle...
+FLAGITIOUS	(sıfat) zalim: acımasız ve haksız davranan, zulmeden, güç edici
+FLAGITIOUSLY	(flagitious sözcüğünün çekimi) (sıfat) zalim: acımasız ve haksız davranan, zulmeden, güç edici
+FLAGON	(ad) büyük bir tür sürahi; testi
+FLAGONS	(ad) çoğul çekimi: flagon
+FLAGPOLE	(ad) flagpole kelimesinin karşılığı: bayrak direği
+FLAGPOLES	(ad) çoğul çekimi: flagpole
+FLAGS	(ad) flag sözcüğünün çoğul çekimi: bayrak, sancak, alem
+FLAGSHIP	(ad) flagship kelimesinin karşılığı: amiral gemisi, bayrak gemisi
+FLAGSHIPS	(ad) çoğul çekimi: flagship
+FLAGSTAFF	(ad) flagstaff kelimesinin karşılığı: bayrak direği
+FLAGSTAFFS	(ad) çoğul çekimi: flagstaff
+FLAGSTAVES	(flagstaff sözcüğünün çekimi) (ad) flagstaff kelimesinin karşılığı: bayrak direği
+FLAGSTONES	(ad) çoğul çekimi: flagstone
+FLAIL	(eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sallamak)
+FLAILED	(flail sözcüğünün çekimi) (eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sallamak)
+FLAILING	(flail sözcüğünün çekimi) (eylem) sallanmak: güçlü bir biçimde sarsılmak, titremek (ayrıca: sallamak)
+FLAILS	(ad) çoğul çekimi: flail
+FLAIR	(ad) flair kelimesinin karşılığı: ⟪yatkınlık|YATKINLIK⟫, ⟪yordam|YORDAM⟫
+FLAIRS	(flair sözcüğünün çekimi) (ad) flair kelimesinin karşılığı: ⟪yatkınlık|YATKINLIK⟫, ⟪yordam|YORDAM⟫
+FLAK	(ad) flak kelimesinin karşılığı: ağır/sert eleştiri, ⟪şikâyet|ŞİKAYET⟫
+FLAKE	(ad) flake kelimesinin karşılığı: ⟪pul|PUL⟫
+FLAKED	(flake sözcüğünün çekimi) (ad) flake kelimesinin karşılığı: ⟪pul|PUL⟫
+FLAKER	(flake sözcüğünün çekimi) (ad) flake kelimesinin karşılığı: ⟪pul|PUL⟫
+FLAKES	(ad) çoğul çekimi: flake
+FLAKING	(flake sözcüğünün çekimi) (ad) flake kelimesinin karşılığı: ⟪pul|PUL⟫
+FLAME	(ad) alev: Yanan maddelerin veya gazların türlü biçimlerdeki ışıklı uzantısı; alaz, yalım, yalın, yalaz, yalaza, şule. (ayrıca: yalım, yalın)
+FLAMED	(eylem) flame sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: alev, yalım, yalın, flama, alaz
+FLAMES	(ad) flame sözcüğünün çoğul çekimi: alev, yalım, yalın, flama, alaz
+FLAMETHROWER	(ad) flamethrower kelimesinin karşılığı: alev makinesi
+FLAMETHROWERS	(ad) flamethrower sözcüğünün çoğul çekimi: alev makinesi
+FLAMING	(flame sözcüğünün çekimi) (ad) alev: Yanan maddelerin veya gazların türlü biçimlerdeki ışıklı uzantısı; alaz, yalım, yalın, yalaz, yalaza, şule....
+FLAMINGO	(ad) flamingo kelimesinin karşılığı: ⟪flamingo|FLAMİNGO⟫, flamankuşu
+FLAMINGOES	(flamingo sözcüğünün çekimi) (ad) flamingo kelimesinin karşılığı: ⟪flamingo|FLAMİNGO⟫, flamankuşu
+FLAMINGOS	(flamingo sözcüğünün çekimi) (ad) flamingo kelimesinin karşılığı: ⟪flamingo|FLAMİNGO⟫, flamankuşu
+FLAMMABLE	(sıfat) yanıcı: Yanabilir özellikte olan, alev alabilen.
+FLAMMABLES	(flammable sözcüğünün çekimi) (sıfat) yanıcı: Yanabilir özellikte olan, alev alabilen.
+FLAN	(ad) tart: Kalıpta pişen bir tür meyveli pasta
+FLANGE	(ad) flange kelimesinin karşılığı: flanş
+FLANGES	(ad) çoğul çekimi: flange
+FLANK	(ad) yan: Savaş düzenindeki ordunun iki kanadından her biri. (ayrıca: kanat, böğür)
+FLANKED	(flank sözcüğünün çekimi) (ad) yan: Savaş düzenindeki ordunun iki kanadından her biri. (ayrıca: kanat, böğür)
+FLANKING	(flank sözcüğünün çekimi) (ad) yan: Savaş düzenindeki ordunun iki kanadından her biri. (ayrıca: kanat, böğür)
+FLANKS	(ad) çoğul çekimi: flank
+FLANNEL	(ad) flannel kelimesinin karşılığı: ⟪flanel|FLANEL⟫
+FLANNELING	(flannel sözcüğünün çekimi) (ad) flannel kelimesinin karşılığı: ⟪flanel|FLANEL⟫
+FLANNELLED	(flannel sözcüğünün çekimi) (ad) flannel kelimesinin karşılığı: ⟪flanel|FLANEL⟫
+FLANNELLING	(flannel sözcüğünün çekimi) (ad) flannel kelimesinin karşılığı: ⟪flanel|FLANEL⟫
+FLANNELLY	(flannel sözcüğünün çekimi) (ad) flannel kelimesinin karşılığı: ⟪flanel|FLANEL⟫
+FLANNELS	(ad) çoğul çekimi: flannel
+FLANS	(flan sözcüğünün çekimi) (ad) tart: Kalıpta pişen bir tür meyveli pasta
+FLAP	(sıfat) flap kelimesinin karşılığı: ⟪çarpmalı|ÇARPMALI⟫
+FLAPJACKS	(ad) çoğul çekimi: flapjack
+FLAPPED	(flap sözcüğünün çekimi) (sıfat) flap kelimesinin karşılığı: ⟪çarpmalı|ÇARPMALI⟫
+FLAPPERS	(ad) çoğul çekimi: flapper
+FLAPPING	(flap sözcüğünün çekimi) (sıfat) flap kelimesinin karşılığı: ⟪çarpmalı|ÇARPMALI⟫
+FLAPS	(ad) çoğul çekimi: flap
+FLARE	(ad) flare kelimesinin karşılığı: işaret ışığı
+FLARED	(flare sözcüğünün çekimi) (ad) flare kelimesinin karşılığı: işaret ışığı
+FLARES	(ad) çoğul çekimi: flare
+FLARING	(flare sözcüğünün çekimi) (ad) flare kelimesinin karşılığı: işaret ışığı
+FLASH	(ad) flash kelimesinin karşılığı: ⟪flaş|FLAŞ⟫\n(eylem) flash kelimesinin karşılığı: yanıp sönmek
+FLASHBACKS	(ad) flashback sözcüğünün çoğul çekimi
+FLASHBULBS	(ad) çoğul çekimi: flashbulb
+FLASHCARD	(ad) flashcard kelimesinin karşılığı: bilgi kartı
+FLASHCARDS	(ad) çoğul çekimi: flashcard
+FLASHED	(flash sözcüğünün çekimi) (ad) flash kelimesinin karşılığı: ⟪flaş|FLAŞ⟫
+FLASHERS	(ad) çoğul çekimi: flasher
+FLASHES	(flash sözcüğünün çekimi) (ad) flash kelimesinin karşılığı: ⟪flaş|FLAŞ⟫
+FLASHGUNS	(ad) çoğul çekimi: flashgun
+FLASHING	(flash sözcüğünün çekimi) (ad) flash kelimesinin karşılığı: ⟪flaş|FLAŞ⟫
+FLASHINGS	(ad) çoğul çekimi: flashing
+FLASHLIGHT	(ad) flashlight kelimesinin karşılığı: el feneri
+FLASHLIGHTS	(ad) çoğul çekimi: flashlight
+FLASHOVERS	(ad) çoğul çekimi: flashover
+FLASK	(ad) flask kelimesinin karşılığı: yassı şişe
+FLASKS	(ad) çoğul çekimi: flask
+FLAT	(ad) flat kelimesinin karşılığı: ⟪apartman|APARTMAN⟫\n(sıfat) düz: engebesiz olan yer; düzlük, ova, müstevi
+FLATBEDS	(ad) çoğul çekimi: flatbed
+FLATBOATS	(ad) çoğul çekimi: flatboat
+FLATCARS	(ad) çoğul çekimi: flatcar
+FLATFEET	(ad) çoğul çekimi: flatfoot
+FLATFOOT	(ad) flatfoot kelimesinin karşılığı: ⟪düztaban|DÜZTABAN⟫
+FLATFOOTS	(ad) çoğul çekimi: flatfoot
+FLATIRONS	(ad) çoğul çekimi: flatiron
+FLATLETS	(ad) çoğul çekimi: flatlet
+FLATMATES	(ad) çoğul çekimi: flatmate
+FLATS	(ad) çoğul çekimi: flat
+FLATTED	(flat sözcüğünün çekimi) (ad) flat kelimesinin karşılığı: ⟪apartman|APARTMAN⟫
+FLATTER	(flat sözcüğünün çekimi) (ad) flat kelimesinin karşılığı: ⟪apartman|APARTMAN⟫
+FLATTERED	(flat sözcüğünün çekimi) (ad) flat kelimesinin karşılığı: ⟪apartman|APARTMAN⟫
+FLATTERING	(flat sözcüğünün çekimi) (ad) flat kelimesinin karşılığı: ⟪apartman|APARTMAN⟫
+FLATTERS	(ad) çoğul çekimi: flatter
+FLATTEST	(sıfat) flat sözcüğünün üstünlük derecesi çekimi: apartman
+FLATTOPS	(ad) çoğul çekimi: flattop
+FLATULENCE	(ad) flatulence kelimesinin karşılığı: osuruk
+FLATULENCES	(flatulence sözcüğünün çekimi) (ad) flatulence kelimesinin karşılığı: osuruk
+FLATUSES	(ad) çoğul çekimi: flatus
+FLATWORMS	(ad) çoğul çekimi: flatworm
+FLAUNT	(eylem) flaunt kelimesinin karşılığı: hava atmak
+FLAUNTED	(flaunt sözcüğünün çekimi) (eylem) flaunt kelimesinin karşılığı: hava atmak
+FLAUNTER	(flaunt sözcüğünün çekimi) (eylem) flaunt kelimesinin karşılığı: hava atmak
+FLAUNTING	(flaunt sözcüğünün çekimi) (eylem) flaunt kelimesinin karşılığı: hava atmak
+FLAUNTS	(flaunt sözcüğünün çekimi) (eylem) flaunt kelimesinin karşılığı: hava atmak
+FLAUTIST	(ad) flautist kelimesinin karşılığı: ⟪flütçü|FLÜTÇÜ⟫
+FLAUTISTS	(ad) flautist sözcüğünün çoğul çekimi: flütçü
+FLAVINS	(ad) çoğul çekimi: flavin
+FLAVONOIDS	(ad) çoğul çekimi: flavonoid
+FLAVOR	(ad) flavor kelimesinin karşılığı: ⟪aroma|AROMA⟫
+FLAVORED	(flavor sözcüğünün çekimi) (ad) flavor kelimesinin karşılığı: ⟪aroma|AROMA⟫
+FLAVORING	(flavor sözcüğünün çekimi) (ad) flavor kelimesinin karşılığı: ⟪aroma|AROMA⟫
+FLAVORINGS	(ad) çoğul çekimi: flavoring
+FLAVORLESS	(sıfat) tatsız: tadı iyi olmayan, lezzetsiz (ayrıca: yavan, saman gibi)
+FLAVORS	(ad) flavor sözcüğünün çoğul çekimi: aroma
+FLAVOUR	(ad) flavour kelimesinin karşılığı: ⟪aroma|AROMA⟫
+FLAVOURED	(flavour sözcüğünün çekimi) (ad) flavour kelimesinin karşılığı: ⟪aroma|AROMA⟫
+FLAVOURING	(flavour sözcüğünün çekimi) (ad) flavour kelimesinin karşılığı: ⟪aroma|AROMA⟫
+FLAVOURS	(ad) çoğul çekimi: flavour
+FLAW	(ad) flaw kelimesinin karşılığı: ⟪hata|HATA⟫, ⟪kusur|KUSUR⟫
+FLAWED	(flaw sözcüğünün çekimi) (ad) flaw kelimesinin karşılığı: ⟪hata|HATA⟫, ⟪kusur|KUSUR⟫
+FLAWING	(flaw sözcüğünün çekimi) (ad) flaw kelimesinin karşılığı: ⟪hata|HATA⟫, ⟪kusur|KUSUR⟫
+FLAWS	(ad) flaw sözcüğünün çoğul çekimi: hata, kusur
+FLAX	(ad) flax kelimesinin karşılığı: ⟪keten|KETEN⟫
+FLAXES	(flax sözcüğünün çekimi) (ad) flax kelimesinin karşılığı: ⟪keten|KETEN⟫
+FLEA	(ad) flea kelimesinin karşılığı: ⟪pire|PİRE⟫
+FLEABAGS	(ad) çoğul çekimi: fleabag
+FLEAS	(ad) flea sözcüğünün çoğul çekimi: pire
+FLECHES	(ad) çoğul çekimi: fleche
+FLECKS	(ad) çoğul çekimi: fleck
+FLECTION	(ad) flection kelimesinin karşılığı: ⟪büküm|BÜKÜM⟫
+FLECTIONS	(ad) çoğul çekimi: flection
+FLED	(eylem) flee sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kaçmak
+FLEDGLINGS	(ad) çoğul çekimi: fledgling
+FLEE	(eylem) kaçmak: Hızlı koşmak.
+FLEECERS	(ad) çoğul çekimi: fleecer
+FLEEING	(flee sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak.
+FLEES	(flee sözcüğünün çekimi) (eylem) kaçmak: Hızlı koşmak.
+FLEET	(ad) filo: bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü (ayrıca: donanma)
+FLEETED	(fleet sözcüğünün çekimi) (ad) filo: bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü (ayrıca: donanma)
+FLEETER	(fleet sözcüğünün çekimi) (ad) filo: bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü (ayrıca: donanma)
+FLEETEST	(fleet sözcüğünün çekimi) (ad) filo: bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü (ayrıca: donanma)
+FLEETING	(fleet sözcüğünün çekimi) (ad) filo: bir arada ve bir komuta altında bulunan savaş gemilerinin veya uçaklarının bütünü (ayrıca: donanma)
+FLEETS	(ad) çoğul çekimi: fleet
+FLESH	(ad) et: etmek sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi
+FLESHED	(flesh sözcüğünün çekimi) (ad) et: etmek sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi
+FLESHERS	(ad) çoğul çekimi: flesher
+FLESHES	(ad) çoğul çekimi: flesh
+FLESHING	(flesh sözcüğünün çekimi) (ad) et: etmek sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi
+FLESHPOTS	(ad) çoğul çekimi: fleshpot
+FLETCHERS	(ad) çoğul çekimi: fletcher
+FLEW	(eylem) fly sözcüğünün basit geçmiş zaman çekimi: sinek
+FLEWS	(ad) çoğul çekimi: flew
+FLEXED	(eylem) flex sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+FLEXIBILITIES	(flexibility sözcüğünün çekimi) (ad) esneklik: kuvvetle orantılı olarak uzayıp kısalma ve esnek olma durumu, elâstikiyet
+FLEXIBILITY	(ad) esneklik: kuvvetle orantılı olarak uzayıp kısalma ve esnek olma durumu, elâstikiyet
+FLEXIBLE	(sıfat) esnek: Bir dış gücün etkisi altında uzama, kısalma, eğrilme vb. biçim değişikliklerine uğradıktan sonra, etkinin kalkmasıyla eski biçimini alabilme özelliğinde olan; elastik, elastiki, streç.
+FLEXION	(ad) flexion kelimesinin karşılığı: ⟪büküm|BÜKÜM⟫
+FLEXIONS	(flexion sözcüğünün çekimi) (ad) flexion kelimesinin karşılığı: ⟪büküm|BÜKÜM⟫
+FLEXURES	(ad) çoğul çekimi: flexure
+FLIBBERTIGIBBETS	(ad) çoğul çekimi: flibbertigibbet
+FLICK	(ad) film: bir oyunun bütününü taşıyan şerit veya şeritlerin bütünü (ayrıca: sinema filmi)
+FLICKED	(flick sözcüğünün çekimi) (ad) film: bir oyunun bütününü taşıyan şerit veya şeritlerin bütünü (ayrıca: sinema filmi)
+FLICKERS	(ad) çoğul çekimi: flicker
+FLICKING	(flick sözcüğünün çekimi) (ad) film: bir oyunun bütününü taşıyan şerit veya şeritlerin bütünü (ayrıca: sinema filmi)
+FLICKS	(ad) çoğul çekimi: flick
+FLIED	(fly sözcüğünün çekimi) (ad) fly kelimesinin karşılığı: ⟪sinek|SİNEK⟫
+FLIERS	(ad) çoğul çekimi: flier
+FLIES	(ad) fly sözcüğünün çoğul çekimi: sinek
+FLIEST	(fly sözcüğünün çekimi) (ad) fly kelimesinin karşılığı: ⟪sinek|SİNEK⟫
+FLIGHT	(ad) uçuş: uçma işi
+FLIGHTED	(flight sözcüğünün çekimi) (ad) uçuş: uçma işi
+FLIGHTING	(flight sözcüğünün çekimi) (ad) uçuş: uçma işi
+FLIGHTS	(ad) flight sözcüğünün çoğul çekimi: uçuş
+FLIMFLAMS	(ad) çoğul çekimi: flimflam
+FLINCH	(eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: irkilmek, çekinmek)
+FLINCHED	(flinch sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: irkilmek, çekinmek)
+FLINCHES	(flinch sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: irkilmek, çekinmek)
+FLINCHING	(flinch sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: irkilmek, çekinmek)
+FLINDERS	(ad) çoğul çekimi: flinder
+FLING	(eylem) fırlatmak: hızla atmak, bulunduğu yerden dışarı atmak
+FLINGING	(fling sözcüğünün çekimi) (eylem) fırlatmak: hızla atmak, bulunduğu yerden dışarı atmak
+FLINGS	(ad) çoğul çekimi: fling
+FLINTLOCK	(ad) flintlock kelimesinin karşılığı: çakmaklı tüfek
+FLINTLOCKS	(flintlock sözcüğünün çekimi) (ad) flintlock kelimesinin karşılığı: çakmaklı tüfek
+FLINTS	(ad) çoğul çekimi: flint
+FLIRT	(eylem) çıkmak: Talihine veya payına düşmek, isabet etmek, vurmak. (ayrıca: flört etmek)
+FLIRTATIONS	(ad) çoğul çekimi: flirtation
+FLIRTATIOUS	(sıfat) işveli: nazlı, cilveli, edalı, şivekâr, koket (ayrıca: nazlı, cilveli)
+FLIRTED	(flirt sözcüğünün çekimi) (eylem) çıkmak: Talihine veya payına düşmek, isabet etmek, vurmak. (ayrıca: flört etmek)
+FLIRTER	(flirt sözcüğünün çekimi) (eylem) çıkmak: Talihine veya payına düşmek, isabet etmek, vurmak. (ayrıca: flört etmek)
+FLIRTING	(flirt sözcüğünün çekimi) (eylem) çıkmak: Talihine veya payına düşmek, isabet etmek, vurmak. (ayrıca: flört etmek)
+FLIRTS	(flirt sözcüğünün çekimi) (eylem) çıkmak: Talihine veya payına düşmek, isabet etmek, vurmak. (ayrıca: flört etmek)
+FLIT	(eylem) uçuşmak; oradan oraya uçmak; hızlıca hareket etmek
+FLITED	(flit sözcüğünün çekimi) (eylem) uçuşmak; oradan oraya uçmak; hızlıca hareket etmek
+FLITES	(flit sözcüğünün çekimi) (eylem) uçuşmak; oradan oraya uçmak; hızlıca hareket etmek
+FLITING	(flit sözcüğünün çekimi) (eylem) uçuşmak; oradan oraya uçmak; hızlıca hareket etmek
+FLITS	(ad) çoğul çekimi: flit
+FLITTED	(flit sözcüğünün çekimi) (eylem) uçuşmak; oradan oraya uçmak; hızlıca hareket etmek
+FLITTING	(flit sözcüğünün çekimi) (eylem) uçuşmak; oradan oraya uçmak; hızlıca hareket etmek
+FLOAT	(eylem) float kelimesinin karşılığı: üstünde yüzme
+FLOATED	(float sözcüğünün çekimi) (eylem) float kelimesinin karşılığı: üstünde yüzme
+FLOATERS	(ad) çoğul çekimi: floater
+FLOATING	(sıfat) floating kelimesinin karşılığı: ⟪yüzen|YÜZEN⟫
+FLOATS	(ad) çoğul çekimi: float
+FLOCCULATION	(ad) flocculation kelimesinin karşılığı: flokülasyon
+FLOCCULATIONS	(flocculation sözcüğünün çekimi) (ad) flocculation kelimesinin karşılığı: flokülasyon
+FLOCK	(ad) flock kelimesinin karşılığı: ⟪sürü|SÜRÜ⟫
+FLOCKED	(flock sözcüğünün çekimi) (ad) flock kelimesinin karşılığı: ⟪sürü|SÜRÜ⟫
+FLOCKING	(flock sözcüğünün çekimi) (ad) flock kelimesinin karşılığı: ⟪sürü|SÜRÜ⟫
+FLOCKS	(ad) çoğul çekimi: flock
+FLOES	(ad) çoğul çekimi: floe
+FLOGGERS	(ad) çoğul çekimi: flogger
+FLOGS	(ad) çoğul çekimi: flog
+FLOOD	(ad) sel: sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su. (ayrıca: su taşkını)
+FLOODED	(flood sözcüğünün çekimi) (ad) sel: sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su. (ayrıca: su taşkını)
+FLOODGATES	(ad) çoğul çekimi: floodgate
+FLOODING	(flood sözcüğünün çekimi) (ad) sel: sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su. (ayrıca: su taşkını)
+FLOODLIGHTS	(ad) çoğul çekimi: floodlight
+FLOODPLAINS	(ad) çoğul çekimi: floodplain
+FLOODS	(ad) çoğul çekimi: flood
+FLOOR	(ad) taban: Üstü kapalı bir yerin gezinilen, ayakla basılan yüzü; zemin, tavan karşıtı (ayrıca: zemin)
+FLOORBOARDS	(ad) çoğul çekimi: floorboard
+FLOORED	(floor sözcüğünün çekimi) (ad) taban: Üstü kapalı bir yerin gezinilen, ayakla basılan yüzü; zemin, tavan karşıtı (ayrıca: zemin)
+FLOORING	(floor sözcüğünün çekimi) (ad) taban: Üstü kapalı bir yerin gezinilen, ayakla basılan yüzü; zemin, tavan karşıtı (ayrıca: zemin)
+FLOORINGS	(ad) çoğul çekimi: flooring
+FLOORS	(ad) floor sözcüğünün çoğul çekimi: taban, zemin.
+FLOORWALKERS	(ad) çoğul çekimi: floorwalker
+FLOPPIES	(ad) çoğul çekimi: floppy
+FLOPS	(ad) çoğul çekimi: flop
+FLORA	(ad) flora kelimesinin karşılığı: bitki örtüsü, ⟪bitey|BİTEY⟫, ⟪flora|FLORA⟫
+FLORAE	(flora sözcüğünün çekimi) (ad) flora kelimesinin karşılığı: bitki örtüsü, ⟪bitey|BİTEY⟫, ⟪flora|FLORA⟫
+FLORAL	(sıfat) çiçekli: çiçeği veya çiçek resimleri olan
+FLORALS	(floral sözcüğünün çekimi) (sıfat) çiçekli: çiçeği veya çiçek resimleri olan
+FLORAS	(flora sözcüğünün çekimi) (ad) flora kelimesinin karşılığı: bitki örtüsü, ⟪bitey|BİTEY⟫, ⟪flora|FLORA⟫
+FLORESCENCES	(ad) çoğul çekimi: florescence
+FLORETS	(ad) çoğul çekimi: floret
+FLORINS	(ad) çoğul çekimi: florin
+FLORIST	(ad) çiçekçi: Çiçek yetiştiren, satan veya yapma çiçek işiyle uğraşan kimse.
+FLORISTS	(ad) çoğul çekimi: florist
+FLOSSES	(ad) çoğul çekimi: floss
+FLOTAS	(ad) çoğul çekimi: flota
+FLOTILLAS	(ad) çoğul çekimi: flotilla
+FLOUNDER	(ad) flounder kelimesinin karşılığı: pisi balığı, ⟪pisi|PİSİ⟫
+FLOUNDERED	(flounder sözcüğünün çekimi) (ad) flounder kelimesinin karşılığı: pisi balığı, ⟪pisi|PİSİ⟫
+FLOUNDERING	(flounder sözcüğünün çekimi) (ad) flounder kelimesinin karşılığı: pisi balığı, ⟪pisi|PİSİ⟫
+FLOUNDERS	(flounder sözcüğünün çekimi) (ad) flounder kelimesinin karşılığı: pisi balığı, ⟪pisi|PİSİ⟫
+FLOUR	(ad) flour kelimesinin karşılığı: un\n(eylem) flour kelimesinin karşılığı: ⟪unlamak|UNLAMAK⟫
+FLOURED	(eylem) flour sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: un
+FLOURING	(eylem) flour sözcüğünün şimdiki zaman ortaç ve gerund çekimi: un
+FLOURISHES	(ad) çoğul çekimi: flourish
+FLOURS	(ad) flour sözcüğünün çoğul çekimi: un\n(eylem) flour sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: un
+FLOUT	(eylem) kanunlara karşı gelmek
+FLOUTED	(flout sözcüğünün çekimi) (eylem) kanunlara karşı gelmek
+FLOUTERS	(ad) çoğul çekimi: flouter
+FLOUTING	(flout sözcüğünün çekimi) (eylem) kanunlara karşı gelmek
+FLOUTS	(flout sözcüğünün çekimi) (eylem) kanunlara karşı gelmek
+FLOW	(eylem) akmak: Zamanın veya yaşamın farkında olmaksızın hızla geçip gitmesi.
+FLOWCHART	(ad) flowchart kelimesinin karşılığı: akış şeması, akış diyagramı, akış grafiği
+FLOWCHARTS	(flowchart sözcüğünün çekimi) (ad) flowchart kelimesinin karşılığı: akış şeması, akış diyagramı, akış grafiği
+FLOWED	(eylem) flow sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: akmak.
+FLOWER	(ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+FLOWERED	(eylem) flower sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çiçek
+FLOWERING	(flower sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+FLOWERPOT	(sıfat) saksı: pişmiş topraktan yapılan, içine toprak konularak çiçek yetiştirmekte yararlanılan kap
+FLOWERPOTS	(ad) çoğul çekimi: flowerpot
+FLOWERS	(ad) flower sözcüğünün çoğul çekimi: çiçek
+FLOWING	(ad) flowing kelimesinin karşılığı: ⟪akma|AKMA⟫\n(sıfat) akar: sıvı, mai, likit
+FLOWN	(eylem) fly sözcüğünün geçmiş zaman ortaç çekimi: sinek
+FLOWS	(flow sözcüğünün çekimi) (eylem) akmak: Zamanın veya yaşamın farkında olmaksızın hızla geçip gitmesi.
+FLU	(ad) grip: Yaşam kalitesinin kısa süreli düşmesine ve iş günü kaybına sebep olan her yıl kendini yenilediği söylenen bir virüsün yol açtığı hastalık
+FLUCTUATION	(ad) fluctuation kelimesinin karşılığı: ⟪dalgalanma|DALGALANMA⟫
+FLUCTUATIONS	(ad) fluctuation sözcüğünün çoğul çekimi: dalgalanma
+FLUENCIES	(fluency sözcüğünün çekimi) (ad) fluency kelimesinin karşılığı: ⟪akıcılık|AKICILIK⟫
+FLUENCY	(ad) fluency kelimesinin karşılığı: ⟪akıcılık|AKICILIK⟫
+FLUENT	(sıfat) akıcı: kolay anlaşılabilen, okunabilen, anlamca açık, selis
+FLUFFIER	(fluffy sözcüğünün çekimi) (sıfat) fluffy kelimesinin karşılığı: ⟪pofuduk|POFUDUK⟫
+FLUFFIEST	(fluffy sözcüğünün çekimi) (sıfat) fluffy kelimesinin karşılığı: ⟪pofuduk|POFUDUK⟫
+FLUFFILY	(fluffy sözcüğünün çekimi) (sıfat) fluffy kelimesinin karşılığı: ⟪pofuduk|POFUDUK⟫
+FLUFFS	(ad) çoğul çekimi: fluff
+FLUFFY	(sıfat) fluffy kelimesinin karşılığı: ⟪pofuduk|POFUDUK⟫
+FLUGELHORNS	(ad) çoğul çekimi: flugelhorn
+FLUID	(ad) sıvı: maddenin ana hallerinden biri, katı durumdan ısı ve basınç sonucunda genleşerek geçtiği hâl, likit, mayi
+FLUIDLY	(fluid sözcüğünün çekimi) (ad) sıvı: maddenin ana hallerinden biri, katı durumdan ısı ve basınç sonucunda genleşerek geçtiği hâl, likit, mayi
+FLUIDS	(ad) çoğul çekimi: fluid
+FLUKE	(ad) fluke kelimesinin karşılığı: şans eseri
+FLUKED	(fluke sözcüğünün çekimi) (ad) fluke kelimesinin karşılığı: şans eseri
+FLUKES	(ad) çoğul çekimi: fluke
+FLUKING	(fluke sözcüğünün çekimi) (ad) fluke kelimesinin karşılığı: şans eseri
+FLUMPS	(ad) çoğul çekimi: flump
+FLUNG	(fling sözcüğünün çekimi) (eylem) fırlatmak: hızla atmak, bulunduğu yerden dışarı atmak
+FLUNKEYS	(ad) çoğul çekimi: flunkey
+FLUNKIES	(ad) çoğul çekimi: flunky
+FLUORESCEINS	(ad) çoğul çekimi: fluorescein
+FLUORESCENCE	(ad) floresan: Uyarılmış bir sistemden, temel hâldeki bir sisteme geçiş sırasında yayılan ışık
+FLUORESCENCES	(fluorescence sözcüğünün çekimi) (ad) floresan: Uyarılmış bir sistemden, temel hâldeki bir sisteme geçiş sırasında yayılan ışık
+FLUORESCENT	(ad) floresan: Uyarılmış bir sistemden, temel hâldeki bir sisteme geçiş sırasında yayılan ışık
+FLUORESCENTS	(fluorescent sözcüğünün çekimi) (ad) floresan: Uyarılmış bir sistemden, temel hâldeki bir sisteme geçiş sırasında yayılan ışık
+FLUORIDE	(ad) florür: Florun başka bir elementle verdiği ikili birleşik
+FLUORIDES	(ad) çoğul çekimi: fluoride
+FLUORINE	(ad) flor: Atom numarası 9 olan bir kimyasal element. atom ağırlığı 19, yoğunluğu 1,265 olan, kokusu ozonu andıran, kahverengimsi sarı renkte, halojenler grubunun ilk elementidir. (simgesi F)
+FLUORINES	(fluorine sözcüğünün çekimi) (ad) flor: Atom numarası 9 olan bir kimyasal element. atom ağırlığı 19, yoğunluğu 1,265 olan, kokusu ozonu andıran,...
+FLUOROCARBON	(ad) fluorocarbon kelimesinin karşılığı: florokarbon
+FLUOROCARBONS	(ad) çoğul çekimi: fluorocarbon
+FLUOROSCOPES	(ad) çoğul çekimi: fluoroscope
+FLURRIES	(ad) çoğul çekimi: flurry
+FLUS	(flu sözcüğünün çekimi) (ad) grip: Yaşam kalitesinin kısa süreli düşmesine ve iş günü kaybına sebep olan her yıl kendini yenilediği söylenen...
+FLUTIST	(ad) flautist kavramının farklı yazılışı
+FLUTISTS	(ad) flutist sözcüğünün çoğul çekimi: flautist kavramının farklı yazılışı
+FLUTTER	(eylem) flutter kelimesinin karşılığı: kanat çırpmak, pırpır etmek\n(ad) flutter kelimesinin karşılığı: ⟪çalkalanma|ÇALKALANMA⟫, ⟪telaş|TELAŞ⟫
+FLUTTERED	(flutter sözcüğünün çekimi) (eylem) flutter kelimesinin karşılığı: kanat çırpmak, pırpır etmek
+FLUTTERING	(flutter sözcüğünün çekimi) (eylem) flutter kelimesinin karşılığı: kanat çırpmak, pırpır etmek
+FLUTTERS	(ad) çoğul çekimi: flutter
+FLUX	(ad) flux kelimesinin karşılığı: ⟪akış|AKIŞ⟫
+FLUXED	(flux sözcüğünün çekimi) (ad) flux kelimesinin karşılığı: ⟪akış|AKIŞ⟫
+FLUXES	(flux sözcüğünün çekimi) (ad) flux kelimesinin karşılığı: ⟪akış|AKIŞ⟫
+FLUXING	(flux sözcüğünün çekimi) (ad) flux kelimesinin karşılığı: ⟪akış|AKIŞ⟫
+FLY	(ad) fly kelimesinin karşılığı: ⟪sinek|SİNEK⟫\n(eylem) fly kelimesinin karşılığı: ⟪uçmak|UÇMAK⟫
+FLYBLOWS	(ad) çoğul çekimi: flyblow
+FLYCATCHER	(ad) sinekkapan: Böcekleri, özellikle sinekleri yakalayarak beslenen küçük ötücü kuşlara verilen ad
+FLYCATCHERS	(ad) çoğul çekimi: flycatcher
+FLYER	(fly sözcüğünün çekimi) (ad) fly kelimesinin karşılığı: ⟪sinek|SİNEK⟫
+FLYERS	(ad) çoğul çekimi: flyer
+FLYING	(ad) uçma: uçmak işi
+FLYINGS	(fly sözcüğünün çekimi) (ad) fly kelimesinin karşılığı: ⟪sinek|SİNEK⟫
+FLYLEAVES	(ad) çoğul çekimi: flyleaf
+FLYOVER	(ad) flyover kelimesinin karşılığı: üst geçit
+FLYOVERS	(ad) çoğul çekimi: flyover
+FLYPAPERS	(ad) çoğul çekimi: flypaper
+FLYPASTS	(ad) çoğul çekimi: flypast
+FLYSPECKS	(ad) çoğul çekimi: flyspeck
+FLYSWATTER	(ad) sineklik: Ucu yassı ve geniş plâstik, tel vb. den sinek öldürmek için kullanılan saplı araç
+FLYSWATTERS	(ad) flyswatter sözcüğünün çoğul çekimi: sineklik
+FLYWEIGHTS	(ad) çoğul çekimi: flyweight
+FLYWHEELS	(ad) çoğul çekimi: flywheel
+FOAL	(ad) foal kelimesinin karşılığı: ⟪tay|TAY⟫
+FOALED	(foal sözcüğünün çekimi) (ad) foal kelimesinin karşılığı: ⟪tay|TAY⟫
+FOALING	(foal sözcüğünün çekimi) (ad) foal kelimesinin karşılığı: ⟪tay|TAY⟫
+FOALS	(ad) çoğul çekimi: foal
+FOAM	(ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FOAMED	(foam sözcüğünün çekimi) (ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FOAMER	(foam sözcüğünün çekimi) (ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FOAMING	(foam sözcüğünün çekimi) (ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FOAMS	(ad) çoğul çekimi: foam
+FOBS	(ad) çoğul çekimi: fob
+FOCI	(focus sözcüğünün çekimi) (ad) odak: bir ışık veya ısı kaynağından yayılan ışınların toplandığı yer, mihrak
+FOCUS	(ad) odak: bir ışık veya ısı kaynağından yayılan ışınların toplandığı yer, mihrak\n(eylem) focus kelimesinin karşılığı: odaklanmak
+FOCUSED	(focus sözcüğünün çekimi) (ad) odak: bir ışık veya ısı kaynağından yayılan ışınların toplandığı yer, mihrak
+FOCUSER	(focus sözcüğünün çekimi) (ad) odak: bir ışık veya ısı kaynağından yayılan ışınların toplandığı yer, mihrak
+FOCUSES	(ad) çoğul çekimi: focus
+FOCUSING	(ad) odaklama: odaklamak işi, fokuslama
+FOCUSSING	(ad) focussing kelimesinin karşılığı: odak seçimi
+FODDER	(ad) fodder kelimesinin karşılığı: ⟪yem|YEM⟫
+FODDERED	(fodder sözcüğünün çekimi) (ad) fodder kelimesinin karşılığı: ⟪yem|YEM⟫
+FODDERING	(fodder sözcüğünün çekimi) (ad) fodder kelimesinin karşılığı: ⟪yem|YEM⟫
+FODDERS	(fodder sözcüğünün çekimi) (ad) fodder kelimesinin karşılığı: ⟪yem|YEM⟫
+FOE	(ad) yağı: savaş sırasında karşı taraftaki topluluk veya kişi (ayrıca: düşman, hasım)
+FOEMEN	(ad) çoğul çekimi: foe
+FOES	(ad) çoğul çekimi: foe
+FOETUS	(ad) foetus kelimesinin karşılığı: fetus, ⟪cenin|CENİN⟫
+FOETUSES	(ad) çoğul çekimi: foetus
+FOG	(ad) sis: atmosferin alt tabakalarındaki küçük su veya buhar tanelerinden oluşan bulutların çok alçalarak yeryüzüne kadar inmesiyle oluşan duman
+FOGGED	(fog sözcüğünün çekimi) (ad) sis: atmosferin alt tabakalarındaki küçük su veya buhar tanelerinden oluşan bulutların çok alçalarak yeryüzüne...
+FOGGERS	(ad) çoğul çekimi: fogger
+FOGGIER	(sıfat) foggy sözcüğünün karşılaştırma derecesi çekimi: sisli
+FOGGIEST	(sıfat) foggy sözcüğünün üstünlük derecesi çekimi: sisli
+FOGGING	(fog sözcüğünün çekimi) (ad) sis: atmosferin alt tabakalarındaki küçük su veya buhar tanelerinden oluşan bulutların çok alçalarak yeryüzüne...
+FOGGY	(sıfat) sisli: üzerine sis inmiş olan, sislenmiş, bulanık
+FOGHORNS	(ad) çoğul çekimi: foghorn
+FOGS	(ad) fog sözcüğünün çoğul çekimi: sis\n(eylem) fog sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: sis
+FOIBLES	(ad) çoğul çekimi: foible
+FOIL	(eylem) foil kelimesinin karşılığı: ⟪engellemek|ENGELLEMEK⟫
+FOILED	(foil sözcüğünün çekimi) (eylem) foil kelimesinin karşılığı: ⟪engellemek|ENGELLEMEK⟫
+FOILING	(foil sözcüğünün çekimi) (eylem) foil kelimesinin karşılığı: ⟪engellemek|ENGELLEMEK⟫
+FOILS	(foil sözcüğünün çekimi) (eylem) foil kelimesinin karşılığı: ⟪engellemek|ENGELLEMEK⟫
+FOIST	(eylem) yüklemek: bir suçu birinin üstüne atmak (ayrıca: yamamak, kakalamak)
+FOISTED	(foist sözcüğünün çekimi) (eylem) yüklemek: bir suçu birinin üstüne atmak (ayrıca: yamamak, kakalamak)
+FOISTING	(foist sözcüğünün çekimi) (eylem) yüklemek: bir suçu birinin üstüne atmak (ayrıca: yamamak, kakalamak)
+FOISTS	(foist sözcüğünün çekimi) (eylem) yüklemek: bir suçu birinin üstüne atmak (ayrıca: yamamak, kakalamak)
+FOLD	(ad) fold kelimesinin karşılığı: ⟪ağıl|AĞIL⟫\n(eylem) fold kelimesinin karşılığı: ⟪katlamak|KATLAMAK⟫
+FOLDED	(eylem) fold sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ağıl
+FOLDER	(ad) klasör: Bilgisayar sistemindeki her bir dosyanın tek başına ya da topluca barındığı topluluk
+FOLDERS	(ad) çoğul çekimi: folder
+FOLDING	(sıfat) folding kelimesinin karşılığı: katlanan, ⟪katlanır|KATLANIR⟫\n(ad) folding kelimesinin karşılığı: ⟪katlama|KATLAMA⟫
+FOLDOUTS	(ad) çoğul çekimi: foldout
+FOLDS	(ad) fold sözcüğünün çoğul çekimi: ağıl
+FOLIA	(ad) çoğul çekimi: folium
+FOLIATES	(ad) çoğul çekimi: foliate
+FOLIO	(ad) folio kelimesinin karşılığı: ⟪folyo|FOLYO⟫
+FOLIOED	(folio sözcüğünün çekimi) (ad) folio kelimesinin karşılığı: ⟪folyo|FOLYO⟫
+FOLIOING	(folio sözcüğünün çekimi) (ad) folio kelimesinin karşılığı: ⟪folyo|FOLYO⟫
+FOLIOS	(folio sözcüğünün çekimi) (ad) folio kelimesinin karşılığı: ⟪folyo|FOLYO⟫
+FOLK	(ad) halk: Bir ülke içerisinde yaşayan değişik soylardan insan topluluklarının her biri: (ayrıca: tuy, ahali)
+FOLKS	(ad) çoğul çekimi: folk
+FOLKTALES	(ad) çoğul çekimi: folktale
+FOLLICLES	(ad) çoğul çekimi: follicle
+FOLLOW	(eylem) takip etmek: Yetişmek, yakalamak veya bulmak amacıyla birinin arkasından gitmek. (ayrıca: izlemek, düşmek)
+FOLLOWED	(eylem) follow sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: takip etmek, izlemek, düşmek
+FOLLOWER	(ad) follower kelimesinin karşılığı: ⟪taraftar|TARAFTAR⟫
+FOLLOWERS	(ad) follower sözcüğünün çoğul çekimi: taraftar
+FOLLOWING	(eylem) follow sözcüğünün şimdiki zaman ortaç ve gerund çekimi: takip etmek, izlemek, düşmek
+FOLLOWINGS	(ad) çoğul çekimi: following
+FOLLOWS	(ad) çoğul çekimi: follow
+FOMENTERS	(ad) çoğul çekimi: fomenter
+FOMENTS	(ad) çoğul çekimi: foment
+FOND	(sıfat) düşkün: bir şeye kendini aşırı vermiş olan, çok bağlı, âşıklı, tutkun
+FONDANT	(ad) fondan: İçinde likör, tatlı veya hoş kokulu maddeler bulunan, ağızda kolayca eriyen bir tür şekerleme
+FONDANTS	(fondant sözcüğünün çekimi) (ad) fondan: İçinde likör, tatlı veya hoş kokulu maddeler bulunan, ağızda kolayca eriyen bir tür şekerleme
+FONDED	(fond sözcüğünün çekimi) (sıfat) düşkün: bir şeye kendini aşırı vermiş olan, çok bağlı, âşıklı, tutkun
+FONDER	(fond sözcüğünün çekimi) (sıfat) düşkün: bir şeye kendini aşırı vermiş olan, çok bağlı, âşıklı, tutkun
+FONDEST	(fond sözcüğünün çekimi) (sıfat) düşkün: bir şeye kendini aşırı vermiş olan, çok bağlı, âşıklı, tutkun
+FONDING	(fond sözcüğünün çekimi) (sıfat) düşkün: bir şeye kendini aşırı vermiş olan, çok bağlı, âşıklı, tutkun
+FONDLERS	(ad) çoğul çekimi: fondler
+FONDLES	(ad) çoğul çekimi: fondle
+FONDLINGS	(ad) çoğul çekimi: fondling
+FONDNESS	(ad) fondness kelimesinin karşılığı: ⟪şefkat|ŞEFKAT⟫
+FONDNESSES	(fondness sözcüğünün çekimi) (ad) fondness kelimesinin karşılığı: ⟪şefkat|ŞEFKAT⟫
+FONDS	(fond sözcüğünün çekimi) (sıfat) düşkün: bir şeye kendini aşırı vermiş olan, çok bağlı, âşıklı, tutkun
+FONS	(ad) çoğul çekimi: fon\n(eylem) fon sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+FONT	(ad) font kelimesinin karşılığı: yazıtipi
+FONTANELLE	(ad) bıngıldak: kafatasının kemikleşmeden önce kemiklerin birleşme yerlerinde bulunan kıkırdak bölümü
+FONTANELLES	(fontanelle sözcüğünün çekimi) (ad) bıngıldak: kafatasının kemikleşmeden önce kemiklerin birleşme yerlerinde bulunan kıkırdak bölümü
+FONTS	(font sözcüğünün çekimi) (ad) font kelimesinin karşılığı: yazıtipi
+FOOD	(ad) food kelimesinin karşılığı: ⟪yemek|YEMEK⟫, aş, ⟪taam|TAAM⟫, ⟪ekmek|EKMEK⟫
+FOODIES	(ad) çoğul çekimi: foodie
+FOODS	(ad) food sözcüğünün çoğul çekimi: yemek, aş, taam, ekmek
+FOODSTUFF	(ad) foodstuff kelimesinin karşılığı: ⟪yiyecek|YİYECEK⟫
+FOODSTUFFS	(ad) çoğul çekimi: foodstuff
+FOOL	(ad) aptal: zekâsı pek gelişmemiş, zekâdan mahrum kimse, mankafa, ahmak, alık, alık salık
+FOOLED	(fool sözcüğünün çekimi) (ad) aptal: zekâsı pek gelişmemiş, zekâdan mahrum kimse, mankafa, ahmak, alık, alık salık
+FOOLHARDIER	(foolhardy sözcüğünün çekimi) (sıfat) foolhardy kelimesinin karşılığı: ⟪çılgınca|ÇILGINCA⟫, ⟪delidolu|DELİDOLU⟫
+FOOLHARDIEST	(foolhardy sözcüğünün çekimi) (sıfat) foolhardy kelimesinin karşılığı: ⟪çılgınca|ÇILGINCA⟫, ⟪delidolu|DELİDOLU⟫
+FOOLHARDINESS	(ad) çılgınlık: aşırı davranış
+FOOLHARDINESSES	(ad) foolhardiness sözcüğünün çoğul çekimi: çılgınlık
+FOOLHARDY	(sıfat) foolhardy kelimesinin karşılığı: ⟪çılgınca|ÇILGINCA⟫, ⟪delidolu|DELİDOLU⟫\n(ad) çılgın, delidolu bir şahıs
+FOOLING	(fool sözcüğünün çekimi) (ad) aptal: zekâsı pek gelişmemiş, zekâdan mahrum kimse, mankafa, ahmak, alık, alık salık
+FOOLISH	(sıfat) aptal: küçümseme ve azarlama bildiren bir seslenme sözü
+FOOLISHER	(foolish sözcüğünün çekimi) (sıfat) aptal: küçümseme ve azarlama bildiren bir seslenme sözü
+FOOLISHEST	(foolish sözcüğünün çekimi) (sıfat) aptal: küçümseme ve azarlama bildiren bir seslenme sözü
+FOOLISHNESS	(ad) foolishness kelimesinin karşılığı: ⟪aptallık|APTALLIK⟫
+FOOLISHNESSES	(foolishness sözcüğünün çekimi) (ad) foolishness kelimesinin karşılığı: ⟪aptallık|APTALLIK⟫
+FOOLS	(ad) fool sözcüğünün çoğul çekimi: aptal
+FOOT	(eylem) foot kelimesinin karşılığı: hesabı ödemek
+FOOTBALL	(ad) futbol: topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım arasında oynanan top oyunu, ayak topu (ayrıca: ayak topu)
+FOOTBALLER	(ad) footballer kelimesinin karşılığı: ⟪futbolcu|FUTBOLCU⟫
+FOOTBALLERS	(ad) çoğul çekimi: footballer
+FOOTBALLS	(football sözcüğünün çekimi) (ad) futbol: topu, kafa veya ayak vuruşları ile karşı kaleye sokma kuralına dayanan ve on birer kişilik iki takım...
+FOOTBOARDS	(ad) çoğul çekimi: footboard
+FOOTBOYS	(ad) çoğul çekimi: footboy
+FOOTBRIDGE	(ad) footbridge kelimesinin karşılığı: yaya köprüsü
+FOOTBRIDGES	(ad) footbridge sözcüğünün çoğul çekimi: yaya köprüsü
+FOOTED	(sıfat) footed kelimesinin karşılığı: ⟪ayaklı|AYAKLI⟫
+FOOTER	(ad) footer kelimesinin karşılığı: futbol topu
+FOOTERS	(ad) çoğul çekimi: footer
+FOOTFALLS	(ad) çoğul çekimi: footfall
+FOOTHILLS	(ad) çoğul çekimi: foothill
+FOOTHOLDS	(ad) çoğul çekimi: foothold
+FOOTING	(foot sözcüğünün çekimi) (eylem) foot kelimesinin karşılığı: hesabı ödemek
+FOOTINGS	(ad) çoğul çekimi: footing
+FOOTLIGHTS	(ad) çoğul çekimi: footlight
+FOOTLOCKERS	(ad) çoğul çekimi: footlocker
+FOOTMAN	(ad) misafirleri eve alan ve yemek masasına yemekleri getiren üniformalı uşak
+FOOTMEN	(footman sözcüğünün çekimi) (ad) misafirleri eve alan ve yemek masasına yemekleri getiren üniformalı uşak
+FOOTNOTE	(ad) footnote kelimesinin karşılığı: ⟪dipnot|DİPNOT⟫
+FOOTNOTED	(footnote sözcüğünün çekimi) (ad) footnote kelimesinin karşılığı: ⟪dipnot|DİPNOT⟫
+FOOTNOTES	(ad) çoğul çekimi: footnote
+FOOTNOTING	(footnote sözcüğünün çekimi) (ad) footnote kelimesinin karşılığı: ⟪dipnot|DİPNOT⟫
+FOOTPADS	(ad) çoğul çekimi: footpad
+FOOTPATH	(ad) footpath kelimesinin karşılığı: ⟪kaldırım|KALDIRIM⟫
+FOOTPATHS	(ad) çoğul çekimi: footpath
+FOOTPRINT	(ad) footprint kelimesinin karşılığı: ayak izi
+FOOTPRINTS	(ad) footprint sözcüğünün çoğul çekimi: ayak izi
+FOOTRACES	(ad) çoğul çekimi: footrace
+FOOTS	(foot sözcüğünün çekimi) (eylem) foot kelimesinin karşılığı: hesabı ödemek
+FOOTSTEPS	(ad) çoğul çekimi: footstep
+FOOTSTONES	(ad) çoğul çekimi: footstone
+FOOTSTOOLS	(ad) çoğul çekimi: footstool
+FOOTWAY	(ad) footway kelimesinin karşılığı: ⟪kaldırım|KALDIRIM⟫
+FOOTWAYS	(ad) çoğul çekimi: footway
+FOOTWEAR	(ad) pabuç: ayağa giyilen giyecek (ayrıca: ayakkabı)
+FOOZLES	(ad) çoğul çekimi: foozle
+FOPS	(ad) çoğul çekimi: fop
+FOR	(edat) için: Amacıyla, maksadıyla.\n(bağlaç) için: Amacıyla, maksadıyla. (ayrıca: çünkü)
+FORA	(forum sözcüğünün çekimi) (ad) forum: Bazı sorunların görüşülerek karara bağlandığı genel toplantı.
+FORAGE	(eylem) eşelemek: Dağıtıp karıştırmak. (ayrıca: yiyecek aramak)
+FORAGED	(forage sözcüğünün çekimi) (eylem) eşelemek: Dağıtıp karıştırmak. (ayrıca: yiyecek aramak)
+FORAGERS	(ad) çoğul çekimi: forager
+FORAGES	(forage sözcüğünün çekimi) (eylem) eşelemek: Dağıtıp karıştırmak. (ayrıca: yiyecek aramak)
+FORAGING	(forage sözcüğünün çekimi) (eylem) eşelemek: Dağıtıp karıştırmak. (ayrıca: yiyecek aramak)
+FORAMINIFERS	(ad) çoğul çekimi: foraminifer
+FORAMS	(ad) çoğul çekimi: foram
+FORAY	(ad) baskın: kısa süreli, beklenmedik saldırı (ayrıca: ani saldırı)
+FORAYED	(foray sözcüğünün çekimi) (ad) baskın: kısa süreli, beklenmedik saldırı (ayrıca: ani saldırı)
+FORAYING	(foray sözcüğünün çekimi) (ad) baskın: kısa süreli, beklenmedik saldırı (ayrıca: ani saldırı)
+FORAYS	(foray sözcüğünün çekimi) (ad) baskın: kısa süreli, beklenmedik saldırı (ayrıca: ani saldırı)
+FORBAD	(forbid sözcüğünün çekimi) (eylem) forbid kelimesinin karşılığı: izin vermemek, ⟪yasaklamak|YASAKLAMAK⟫
+FORBADE	(forbid sözcüğünün çekimi) (eylem) forbid kelimesinin karşılığı: izin vermemek, ⟪yasaklamak|YASAKLAMAK⟫
+FORBEARS	(ad) çoğul çekimi: forbear
+FORBID	(eylem) forbid kelimesinin karşılığı: izin vermemek, ⟪yasaklamak|YASAKLAMAK⟫
+FORBIDDEN	(sıfat) yasak: Yapılmaması istenmiş olan, yok, memnu, haram: (ayrıca: yasaklanmış)
+FORBIDDING	(ad) forbidding kelimesinin karşılığı: ⟪zecir|ZECİR⟫
+FORBIDS	(forbid sözcüğünün çekimi) (eylem) forbid kelimesinin karşılığı: izin vermemek, ⟪yasaklamak|YASAKLAMAK⟫
+FORCE	(ad) kuvvet: Zor, şiddet, cebir (ayrıca: güç)\n(eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+FORCED	(eylem) force sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: güç, kuvvet
+FORCEDLY	(force sözcüğünün çekimi) (ad) kuvvet: Zor, şiddet, cebir (ayrıca: güç)
+FORCEFULLY	(zarf) forcefully kelimesinin karşılığı: ⟪zorla|ZORLA⟫
+FORCEPS	(ad) pens: pense
+FORCERS	(ad) çoğul çekimi: forcer
+FORCES	(ad) force sözcüğünün çoğul çekimi: güç, kuvvet
+FORCING	(ad) zorlama: zorlamak işi, zecir
+FORDS	(ad) çoğul çekimi: ford
+FORE	(sıfat) baş: deniz teknelerinde ön taraf (ayrıca: ön)
+FOREARM	(ad) forearm kelimesinin karşılığı: ⟪önkol|ÖNKOL⟫
+FOREARMED	(forearm sözcüğünün çekimi) (ad) forearm kelimesinin karşılığı: ⟪önkol|ÖNKOL⟫
+FOREARMING	(forearm sözcüğünün çekimi) (ad) forearm kelimesinin karşılığı: ⟪önkol|ÖNKOL⟫
+FOREARMS	(ad) çoğul çekimi: forearm
+FOREBEARS	(ad) çoğul çekimi: forebear
+FOREBODE	(eylem) forebode kelimesinin karşılığı: ⟪vehmetmek|VEHMETMEK⟫
+FOREBODED	(forebode sözcüğünün çekimi) (eylem) forebode kelimesinin karşılığı: ⟪vehmetmek|VEHMETMEK⟫
+FOREBODERS	(ad) çoğul çekimi: foreboder
+FOREBODES	(forebode sözcüğünün çekimi) (eylem) forebode kelimesinin karşılığı: ⟪vehmetmek|VEHMETMEK⟫
+FOREBODING	(ad) Kötü bir olayın gerçekleşeceğini önceden sezmek, önsezi.
+FOREBODINGS	(ad) çoğul çekimi: foreboding
+FOREBRAINS	(ad) çoğul çekimi: forebrain
+FORECAST	(ad) hesap: Önceden yapılan tahmin. (ayrıca: tahmin)
+FORECASTED	(forecast sözcüğünün çekimi) (ad) hesap: Önceden yapılan tahmin. (ayrıca: tahmin)
+FORECASTERS	(ad) çoğul çekimi: forecaster
+FORECASTING	(forecast sözcüğünün çekimi) (ad) hesap: Önceden yapılan tahmin. (ayrıca: tahmin)
+FORECASTLES	(ad) çoğul çekimi: forecastle
+FORECASTS	(ad) çoğul çekimi: forecast
+FORECOURTS	(ad) çoğul çekimi: forecourt
+FOREFATHERS	(ad) çoğul çekimi: forefather
+FOREFINGER	(ad) forefinger kelimesinin karşılığı: işaret parmağı, şehadet parmağı, gösterme parmağı, badi parmak
+FOREFINGERS	(ad) çoğul çekimi: forefinger
+FOREFRONTS	(ad) çoğul çekimi: forefront
+FOREGO	(eylem) atlamak: yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak (ayrıca: es geçmek, feragat etmek)
+FOREGOES	(forego sözcüğünün çekimi) (eylem) atlamak: yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak (ayrıca: es geçmek,...
+FOREGOING	(forego sözcüğünün çekimi) (eylem) atlamak: yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak (ayrıca: es geçmek,...
+FOREGONE	(forego sözcüğünün çekimi) (eylem) atlamak: yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak (ayrıca: es geçmek,...
+FOREGROUND	(ad) foreground kelimesinin karşılığı: ⟪önalan|ÖNALAN⟫
+FOREGROUNDED	(foreground sözcüğünün çekimi) (ad) foreground kelimesinin karşılığı: ⟪önalan|ÖNALAN⟫
+FOREGROUNDING	(foreground sözcüğünün çekimi) (ad) foreground kelimesinin karşılığı: ⟪önalan|ÖNALAN⟫
+FOREGROUNDS	(foreground sözcüğünün çekimi) (ad) foreground kelimesinin karşılığı: ⟪önalan|ÖNALAN⟫
+FOREGUTS	(ad) çoğul çekimi: foregut
+FOREHANDS	(ad) çoğul çekimi: forehand
+FOREHEAD	(ad) alın: bazı şeylerin önü, ön yüzü
+FOREHEADS	(ad) çoğul çekimi: forehead
+FOREIGN	(sıfat) yabancı: başka bir milletle ilgili olan, özge (ayrıca: ecnebi)
+FOREIGNER	(sıfat) yabancı: başka bir milletten olan, başka devlet uyruğunda olan kişi
+FOREIGNERS	(ad) çoğul çekimi: foreigner
+FOREIGNISM	(ad) foreignism kelimesinin karşılığı: yabancı sözcük
+FOREIGNISMS	(foreignism sözcüğünün çekimi) (ad) foreignism kelimesinin karşılığı: yabancı sözcük
+FOREKNOWLEDGE	(ad) foreknowledge kelimesinin karşılığı: önbilgi
+FOREKNOWLEDGES	(foreknowledge sözcüğünün çekimi) (ad) foreknowledge kelimesinin karşılığı: önbilgi
+FORELEGS	(ad) çoğul çekimi: foreleg
+FORELIMBS	(ad) çoğul çekimi: forelimb
+FORELOCK	(ad) perçem: Başlarını tıraş edenlerin tepede bıraktıkları saç tutamı. (ayrıca: kâkül)
+FORELOCKED	(forelock sözcüğünün çekimi) (ad) perçem: Başlarını tıraş edenlerin tepede bıraktıkları saç tutamı. (ayrıca: kâkül)
+FORELOCKING	(forelock sözcüğünün çekimi) (ad) perçem: Başlarını tıraş edenlerin tepede bıraktıkları saç tutamı. (ayrıca: kâkül)
+FORELOCKS	(ad) çoğul çekimi: forelock
+FOREMAN	(ad) formen: İşçilerin düzenli ve verimli çalışmasını sağlayan ve işçiler üzerinde otoritesi olan işçi. (ayrıca: ustabaşı, işçibaşı)
+FOREMEN	(foreman sözcüğünün çekimi) (ad) formen: İşçilerin düzenli ve verimli çalışmasını sağlayan ve işçiler üzerinde otoritesi olan işçi. (ayrıca:...
+FOREMOST	(sıfat) foremost kelimesinin karşılığı: ön
+FORENAME	(ad) forename kelimesinin karşılığı: ön ad, küçük ad
+FORENAMES	(ad) çoğul çekimi: forename
+FORENOON	(ad) sabah: Güneş'in doğumundan öğleye kadar olan süre
+FORENOONS	(ad) çoğul çekimi: forenoon
+FORENSIC	(sıfat) adli: Adaletle ilgili olan.
+FOREPARTS	(ad) çoğul çekimi: forepart
+FOREPAWS	(ad) çoğul çekimi: forepaw
+FOREQUARTERS	(ad) çoğul çekimi: forequarter
+FORERUNNERS	(ad) çoğul çekimi: forerunner
+FORES	(fore sözcüğünün çekimi) (sıfat) baş: deniz teknelerinde ön taraf (ayrıca: ön)
+FORESEERS	(ad) çoğul çekimi: foreseer
+FORESHADOWS	(ad) çoğul çekimi: foreshadow
+FORESHORES	(ad) çoğul çekimi: foreshore
+FORESIGHT	(ad) foresight kelimesinin karşılığı: ⟪basiret|BASİRET⟫, feraset, ⟪öngörü|ÖNGÖRÜ⟫
+FORESIGHTS	(foresight sözcüğünün çekimi) (ad) foresight kelimesinin karşılığı: ⟪basiret|BASİRET⟫, feraset, ⟪öngörü|ÖNGÖRÜ⟫
+FORESKINS	(ad) çoğul çekimi: foreskin
+FOREST	(ad) orman: Ağaçlarla örtülü geniş alan.
+FORESTAGES	(ad) çoğul çekimi: forestage
+FORESTAYS	(ad) çoğul çekimi: forestay
+FORESTED	(sıfat) forested kelimesinin karşılığı: ⟪ağaçlı|AĞAÇLI⟫, ⟪ormanlı|ORMANLI⟫
+FORESTERS	(ad) çoğul çekimi: forester
+FORESTING	(forest sözcüğünün çekimi) (ad) orman: Ağaçlarla örtülü geniş alan.
+FORESTRIES	(forestry sözcüğünün çekimi) (ad) ormancılık: ormanların yetiştirilmesi ve bakımını konu alan bilim
+FORESTRY	(ad) ormancılık: ormanların yetiştirilmesi ve bakımını konu alan bilim
+FORESTS	(ad) forest sözcüğünün çoğul çekimi: orman
+FORETASTES	(ad) çoğul çekimi: foretaste
+FOREVER	(zarf) forever kelimesinin karşılığı: sonsuza DEK
+FOREVERS	(forever sözcüğünün çekimi) (zarf) forever kelimesinin karşılığı: sonsuza DEK
+FOREWENT	(forego sözcüğünün çekimi) (eylem) atlamak: yüksek bir yerden alçak bir yere, ayaküstü gelecek bir biçimde kendini bırakmak (ayrıca: es geçmek,...
+FOREYARDS	(ad) çoğul çekimi: foreyard
+FORFEITS	(ad) çoğul çekimi: forfeit
+FORFEITURES	(ad) çoğul çekimi: forfeiture
+FORGAVE	(forgive sözcüğünün çekimi) (eylem) affetmek: Taksirini bağışlamak, günahından geçmek. (ayrıca: bağışlamak)
+FORGE	(eylem) forge kelimesinin karşılığı: demir dövmek, biçim vermek\n(ad) forge kelimesinin karşılığı: demirci ocağı
+FORGED	(forge sözcüğünün çekimi) (eylem) forge kelimesinin karşılığı: demir dövmek, biçim vermek
+FORGERIES	(ad) forgery sözcüğünün çoğul çekimi
+FORGERS	(ad) çoğul çekimi: forger
+FORGES	(forge sözcüğünün çekimi) (eylem) forge kelimesinin karşılığı: demir dövmek, biçim vermek
+FORGET	(ad) bir şeyi hatırında tutamamak, unutmak
+FORGETFUL	(sıfat) forgetful kelimesinin karşılığı: ⟪unutkan|UNUTKAN⟫
+FORGETFULNESS	(ad) unutkanlık: Unutkan olma durumu
+FORGETFULNESSES	(ad) forgetfulness sözcüğünün çoğul çekimi: unutkanlık
+FORGETS	(forget sözcüğünün çekimi) (ad) bir şeyi hatırında tutamamak, unutmak
+FORGETTING	(forget sözcüğünün çekimi) (ad) bir şeyi hatırında tutamamak, unutmak
+FORGING	(eylem) forge sözcüğünün şimdiki zaman ortaç ve gerund çekimi: demir dövmek; biçim vermek
+FORGINGS	(forge sözcüğünün çekimi) (eylem) forge kelimesinin karşılığı: demir dövmek, biçim vermek
+FORGIVE	(eylem) affetmek: Taksirini bağışlamak, günahından geçmek. (ayrıca: bağışlamak)
+FORGIVEN	(forgive sözcüğünün çekimi) (eylem) affetmek: Taksirini bağışlamak, günahından geçmek. (ayrıca: bağışlamak)
+FORGIVENESS	(ad) mağfiret: bağışlama (ayrıca: bağışlama)
+FORGIVENESSES	(ad) forgiveness sözcüğünün çoğul çekimi: mağfiret, bağışlama
+FORGIVERS	(ad) çoğul çekimi: forgiver
+FORGIVES	(forgive sözcüğünün çekimi) (eylem) affetmek: Taksirini bağışlamak, günahından geçmek. (ayrıca: bağışlamak)
+FORGIVING	(ad) mağfiret etme: mağfiret etme
+FORGO	(eylem) bırakmak: Bir işi veya çalışmayı bitirmeden sona erdirmek. (ayrıca: feragat etmek, vazgeçmek)
+FORGOER	(forgo sözcüğünün çekimi) (eylem) bırakmak: Bir işi veya çalışmayı bitirmeden sona erdirmek. (ayrıca: feragat etmek, vazgeçmek)
+FORGOES	(forgo sözcüğünün çekimi) (eylem) bırakmak: Bir işi veya çalışmayı bitirmeden sona erdirmek. (ayrıca: feragat etmek, vazgeçmek)
+FORGOING	(forgo sözcüğünün çekimi) (eylem) bırakmak: Bir işi veya çalışmayı bitirmeden sona erdirmek. (ayrıca: feragat etmek, vazgeçmek)
+FORGONE	(forgo sözcüğünün çekimi) (eylem) bırakmak: Bir işi veya çalışmayı bitirmeden sona erdirmek. (ayrıca: feragat etmek, vazgeçmek)
+FORGOT	(eylem) forget sözcüğünün basit geçmiş zaman çekimi: bir şeyi hatırında tutamamak, unutmak
+FORGOTTEN	(forget sözcüğünün çekimi) (ad) bir şeyi hatırında tutamamak, unutmak
+FORINT	(ad) forint kelimesinin karşılığı: ⟪forint|FORİNT⟫
+FORINTS	(ad) çoğul çekimi: forint
+FORK	(ad) çatal: yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç
+FORKED	(fork sözcüğünün çekimi) (ad) çatal: yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç
+FORKEDLY	(fork sözcüğünün çekimi) (ad) çatal: yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç
+FORKER	(fork sözcüğünün çekimi) (ad) çatal: yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç
+FORKING	(fork sözcüğünün çekimi) (ad) çatal: yemek yerken kullanılan iki, üç veya dört uzun dişli çoğunlukla metal araç
+FORKLIFT	(ad) kaldırmaç: yapımevlerinde, yükü kaldırmak için kullanılan, alttan çatal kolu, önden kaldırma düzeni bulunan araç
+FORKLIFTS	(ad) çoğul çekimi: forklift
+FORKS	(ad) fork sözcüğünün çoğul çekimi: çatal
+FORLORN	(sıfat) forlorn kelimesinin karşılığı: geride bırakılmış, ⟪kaçak|KAÇAK⟫, terk edilmiş
+FORLORNER	(forlorn sözcüğünün çekimi) (sıfat) forlorn kelimesinin karşılığı: geride bırakılmış, ⟪kaçak|KAÇAK⟫, terk edilmiş
+FORLORNEST	(forlorn sözcüğünün çekimi) (sıfat) forlorn kelimesinin karşılığı: geride bırakılmış, ⟪kaçak|KAÇAK⟫, terk edilmiş
+FORM	(ad) form: biçim. (ayrıca: biçim, şekil)\n(eylem) oluşturmak: oluşmasını sağlamak, meydana getirmek, teşekkül ettirmek, tekvin etmek (ayrıca: teşkil etmek)
+FORMAL	(sıfat) biçimsel: biçime dayanan, biçimle ilgili, şekle ait, şekli, formel
+FORMALISM	(ad) biçimcilik: formalizm
+FORMALISMS	(formalism sözcüğünün çekimi) (ad) biçimcilik: formalizm
+FORMALISTS	(ad) çoğul çekimi: formalist
+FORMALITIES	(ad) çoğul çekimi: formality
+FORMALITY	(ad) formalite: Önem verilmediği hâlde bir zorunluluğa bağlı olarak yapılan biçimsel davranış (ayrıca: resmilik)
+FORMALIZE	(eylem) biçimlendirmek: bir şeye belirli bir biçim vermek, biçimlemek, şekillendirmek (ayrıca: şekil vermek)
+FORMALIZED	(formalize sözcüğünün çekimi) (eylem) biçimlendirmek: bir şeye belirli bir biçim vermek, biçimlemek, şekillendirmek (ayrıca: şekil vermek)
+FORMALIZER	(formalize sözcüğünün çekimi) (eylem) biçimlendirmek: bir şeye belirli bir biçim vermek, biçimlemek, şekillendirmek (ayrıca: şekil vermek)
+FORMALIZES	(formalize sözcüğünün çekimi) (eylem) biçimlendirmek: bir şeye belirli bir biçim vermek, biçimlemek, şekillendirmek (ayrıca: şekil vermek)
+FORMALIZING	(formalize sözcüğünün çekimi) (eylem) biçimlendirmek: bir şeye belirli bir biçim vermek, biçimlemek, şekillendirmek (ayrıca: şekil vermek)
+FORMALS	(ad) çoğul çekimi: formal
+FORMAT	(ad) format kelimesinin karşılığı: ⟪biçim|BİÇİM⟫\n(eylem) biçimlemek: biçimlendirmek
+FORMATES	(format sözcüğünün çekimi) (ad) format kelimesinin karşılığı: ⟪biçim|BİÇİM⟫
+FORMATIVE	(ad) formative kelimesinin karşılığı: oluşturucu öğe
+FORMATIVELY	(formative sözcüğünün çekimi) (ad) formative kelimesinin karşılığı: oluşturucu öğe
+FORMATIVES	(formative sözcüğünün çekimi) (ad) formative kelimesinin karşılığı: oluşturucu öğe
+FORMATS	(format sözcüğünün çekimi) (ad) format kelimesinin karşılığı: ⟪biçim|BİÇİM⟫
+FORMATTED	(format sözcüğünün çekimi) (ad) format kelimesinin karşılığı: ⟪biçim|BİÇİM⟫
+FORMATTER	(format sözcüğünün çekimi) (ad) format kelimesinin karşılığı: ⟪biçim|BİÇİM⟫
+FORMATTING	(format sözcüğünün çekimi) (ad) format kelimesinin karşılığı: ⟪biçim|BİÇİM⟫
+FORMED	(eylem) form fiilinin geçmiş zaman kipi
+FORMER	(sıfat) eski: önceki (ayrıca: önceki)\n(ad) former kelimesinin karşılığı: biçimlendirici
+FORMERS	(former sözcüğünün çekimi) (sıfat) eski: önceki (ayrıca: önceki)
+FORMES	(form sözcüğünün çekimi) (ad) form: biçim. (ayrıca: biçim, şekil)
+FORMIDABLE	(sıfat) zorlu; dişli; çetin; gücüyle, heybetiyle saygı ve korku uyandıran
+FORMING	(form sözcüğünün çekimi) (ad) form: biçim. (ayrıca: biçim, şekil)
+FORMS	(ad) form sözcüğünün çoğul çekimi: biçim, şekil, form
+FORMULA	(ad) formül: bir ilacın hazırlanmasında bir sonucun elde edilmesinde izlenecek işlemlerin çeşitli sayılar ve semboller kullanılarak ifade edildiği özgün kavram
+FORMULAE	(ad) çoğul çekimi: formula
+FORMULAS	(ad) formula sözcüğünün çoğul çekimi: formül
+FORMULATE	(eylem) formulate kelimesinin karşılığı: formüle etmek
+FORMULATED	(sıfat) formüle: "Bir düşünceye bir anlatım biçimi vermek" anlamında kullanılan formüle etmek birleşik fiilinde geçen bir söz
+FORMULATES	(formulate sözcüğünün çekimi) (eylem) formulate kelimesinin karşılığı: formüle etmek
+FORMULATING	(formulate sözcüğünün çekimi) (eylem) formulate kelimesinin karşılığı: formüle etmek
+FORMULATION	(ad) formulation kelimesinin karşılığı: formüle etme
+FORMULATIONS	(formulation sözcüğünün çekimi) (ad) formulation kelimesinin karşılığı: formüle etme
+FORNICATIONS	(ad) çoğul çekimi: fornication
+FORNICATORS	(ad) çoğul çekimi: fornicator
+FORSAKE	(eylem) bırakmak: Bir kimseyi beraberinde getirmemek veya götürmemek. (ayrıca: terk etmek, vazgeçmek)
+FORSAKEN	(forsake sözcüğünün çekimi) (eylem) bırakmak: Bir kimseyi beraberinde getirmemek veya götürmemek. (ayrıca: terk etmek, vazgeçmek)
+FORSAKES	(forsake sözcüğünün çekimi) (eylem) bırakmak: Bir kimseyi beraberinde getirmemek veya götürmemek. (ayrıca: terk etmek, vazgeçmek)
+FORSAKING	(forsake sözcüğünün çekimi) (eylem) bırakmak: Bir kimseyi beraberinde getirmemek veya götürmemek. (ayrıca: terk etmek, vazgeçmek)
+FORSOOK	(forsake sözcüğünün çekimi) (eylem) bırakmak: Bir kimseyi beraberinde getirmemek veya götürmemek. (ayrıca: terk etmek, vazgeçmek)
+FORSYTHIAS	(ad) çoğul çekimi: forsythia
+FORTALICES	(ad) çoğul çekimi: fortalice
+FORTE	(zarf) forte kelimesinin karşılığı: ⟪forte|FORTE⟫
+FORTIES	(ad) çoğul çekimi: forty
+FORTIETH	(sıfat) kırkıncı: kırk sayısının sıra sıfatı, sırada otuz dokuzuncudan sonra gelen
+FORTIETHS	(ad) çoğul çekimi: fortieth
+FORTISSIMOS	(ad) çoğul çekimi: fortissimo
+FORTITUDE	(ad) cesaret: Güç veya tehlikeli bir işe girişirken kişinin kendinde bulduğu güven; cüret.
+FORTITUDES	(ad) fortitude sözcüğünün çoğul çekimi: cesaret
+FORTNIGHTS	(ad) çoğul çekimi: fortnight
+FORTRESS	(ad) fortress kelimesinin karşılığı: ⟪hisar|HİSAR⟫
+FORTRESSED	(fortress sözcüğünün çekimi) (ad) fortress kelimesinin karşılığı: ⟪hisar|HİSAR⟫
+FORTRESSES	(ad) çoğul çekimi: fortress
+FORTRESSING	(fortress sözcüğünün çekimi) (ad) fortress kelimesinin karşılığı: ⟪hisar|HİSAR⟫
+FORTUITOUS	(sıfat) kazara: yanlışlıkla (ayrıca: rastlantısal, tesadüfî)
+FORTUNATE	(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: ongun, mesut)
+FORTUNATELY	(zarf) fortunately kelimesinin karşılığı: neyse ki, allah'tan, çok şükür, iyi ki
+FORTUNE	(ad) baht: Rastlantıları düzenleyerek insanların iyi veya kötü yaşam sürmelerine neden olduğuna inanılan gizli güç; felek, talih.
+FORTUNED	(fortune sözcüğünün çekimi) (ad) baht: Rastlantıları düzenleyerek insanların iyi veya kötü yaşam sürmelerine neden olduğuna inanılan gizli güç;...
+FORTUNES	(ad) fortune sözcüğünün çoğul çekimi: baht
+FORTUNETELLERS	(ad) çoğul çekimi: fortuneteller
+FORTUNING	(fortune sözcüğünün çekimi) (ad) baht: Rastlantıları düzenleyerek insanların iyi veya kötü yaşam sürmelerine neden olduğuna inanılan gizli güç;...
+FORTY	(sayı) forty kelimesinin karşılığı: ⟪kırk|KIRK⟫
+FORUM	(ad) forum: Bazı sorunların görüşülerek karara bağlandığı genel toplantı.
+FORUMS	(forum sözcüğünün çekimi) (ad) forum: Bazı sorunların görüşülerek karara bağlandığı genel toplantı.
+FORWARD	(ad) forvet: Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORWARDED	(forward sözcüğünün çekimi) (ad) forvet: Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORWARDER	(forward sözcüğünün çekimi) (ad) forvet: Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORWARDERS	(ad) çoğul çekimi: forwarder
+FORWARDEST	(forward sözcüğünün çekimi) (ad) forvet: Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORWARDING	(forward sözcüğünün çekimi) (ad) forvet: Futbolda görevi karşı tarafa top sürmek ve gol atmak olan ileri uçtaki oyuncu
+FORWARDS	(ad) çoğul çekimi: forward
+FORWENT	(forgo sözcüğünün çekimi) (eylem) bırakmak: Bir işi veya çalışmayı bitirmeden sona erdirmek. (ayrıca: feragat etmek, vazgeçmek)
+FOSSA	(ad) fossa kelimesinin karşılığı: ⟪girinti|GİRİNTİ⟫
+FOSSAE	(ad) fossae kelimesinin karşılığı: fossa’nın çoğulu
+FOSSAS	(ad) (fossalar): girinti
+FOSSIL	(ad) fosil: (mecaz) Düşünce, yaşayış biçimi vb. bakımlardan çağın gerisinde kalmış kimse
+FOSSILS	(ad) çoğul çekimi: fossil
+FOSTERERS	(ad) çoğul çekimi: fosterer
+FOSTERS	(ad) çoğul çekimi: foster
+FOUGHT	(fight sözcüğünün çekimi) (eylem) fight kelimesinin karşılığı: ⟪dövüşmek|DÖVÜŞMEK⟫
+FOUL	(ad) faul: Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket.
+FOULED	(foul sözcüğünün çekimi) (ad) faul: Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket.
+FOULER	(foul sözcüğünün çekimi) (ad) faul: Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket.
+FOULEST	(foul sözcüğünün çekimi) (ad) faul: Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket.
+FOULING	(foul sözcüğünün çekimi) (ad) faul: Karşılaşmalarda rakip oyuncuya yapılan kural dışı hareket.
+FOULS	(ad) çoğul çekimi: foul
+FOUND	(eylem) find sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: buluş
+FOUNDATION	(ad) foundation kelimesinin karşılığı: ⟪vakıf|VAKIF⟫
+FOUNDATIONS	(ad) foundation sözcüğünün çoğul çekimi: vakıf
+FOUNDED	(found sözcüğünün çekimi) (eylem) find sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: buluş
+FOUNDERS	(ad) çoğul çekimi: founder
+FOUNDING	(sıfat) kurucu: bir kurumun, bir işin kurulmasını sağlayan, müessis
+FOUNDLINGS	(ad) çoğul çekimi: foundling
+FOUNDRIES	(ad) çoğul çekimi: foundry
+FOUNDS	(found sözcüğünün çekimi) (eylem) find sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: buluş
+FOUNT	(ad) pınar: çeşme
+FOUNTAIN	(ad) çeşme: Genellikle yol kenarlarında herkesin yararlanması için yapılan, borularla gelen suyun bir oluktan veya musluktan aktığı, yalaklı su hazinesi veya yapısı.
+FOUNTAINED	(fountain sözcüğünün çekimi) (ad) çeşme: Genellikle yol kenarlarında herkesin yararlanması için yapılan, borularla gelen suyun bir oluktan veya...
+FOUNTAINHEADS	(ad) çoğul çekimi: fountainhead
+FOUNTAINING	(fountain sözcüğünün çekimi) (ad) çeşme: Genellikle yol kenarlarında herkesin yararlanması için yapılan, borularla gelen suyun bir oluktan veya...
+FOUNTAINS	(ad) çoğul çekimi: fountain
+FOUNTS	(ad) çoğul çekimi: fount
+FOUR	(ad) dört: üçten sonra, beşten önce gelen rakam ve tam sayı
+FOURS	(four sözcüğünün çekimi) (ad) dört: üçten sonra, beşten önce gelen rakam ve tam sayı
+FOURSOME	(sayı) dört: üçten sonra, beşten önce gelen rakam ve tam sayı
+FOURSOMES	(ad) çoğul çekimi: foursome
+FOURTEEN	(sayı) fourteen kelimesinin karşılığı: on dört
+FOURTEENER	(fourteen sözcüğünün çekimi) (sayı) fourteen kelimesinin karşılığı: on dört
+FOURTEENS	(ad) çoğul çekimi: fourteen
+FOURTEENTH	(sıfat) fourteenth kelimesinin karşılığı: on dördüncü
+FOURTEENTHS	(ad) çoğul çekimi: fourteenth
+FOURTH	(sıfat) dördüncü: dört sayısının sıra sıfatı, sırada üçüncüden sonra gelen
+FOURTHS	(ad) çoğul çekimi: fourth
+FOWL	(ad) fowl kelimesinin karşılığı: kümes hayvanı, ⟪tavuksu|TAVUKSU⟫
+FOWLED	(fowl sözcüğünün çekimi) (ad) fowl kelimesinin karşılığı: kümes hayvanı, ⟪tavuksu|TAVUKSU⟫
+FOWLING	(fowl sözcüğünün çekimi) (ad) fowl kelimesinin karşılığı: kümes hayvanı, ⟪tavuksu|TAVUKSU⟫
+FOWLS	(ad) çoğul çekimi: fowl
+FOX	(ad) fox kelimesinin karşılığı: ⟪tilki|TİLKİ⟫
+FOXED	(fox sözcüğünün çekimi) (ad) fox kelimesinin karşılığı: ⟪tilki|TİLKİ⟫
+FOXES	(ad) fox sözcüğünün çoğul çekimi: tilki
+FOXHOLES	(ad) çoğul çekimi: foxhole
+FOXING	(fox sözcüğünün çekimi) (ad) fox kelimesinin karşılığı: ⟪tilki|TİLKİ⟫
+FOXTAIL	(ad) foxtail kelimesinin karşılığı: ⟪tilkikuyruğu|TİLKİKUYRUĞU⟫
+FOXTAILS	(foxtail sözcüğünün çekimi) (ad) foxtail kelimesinin karşılığı: ⟪tilkikuyruğu|TİLKİKUYRUĞU⟫
+FOXTROT	(ad) fokstrot: Dört tempolu bir dans.
+FOXTROTS	(foxtrot sözcüğünün çekimi) (ad) fokstrot: Dört tempolu bir dans.
+FOXTROTTED	(foxtrot sözcüğünün çekimi) (ad) fokstrot: Dört tempolu bir dans.
+FOXTROTTING	(foxtrot sözcüğünün çekimi) (ad) fokstrot: Dört tempolu bir dans.
+FOYER	(ad) foyer kelimesinin karşılığı: ⟪fuaye|FUAYE⟫
+FOYERS	(foyer sözcüğünün çekimi) (ad) foyer kelimesinin karşılığı: ⟪fuaye|FUAYE⟫
+FRACASES	(ad) çoğul çekimi: fracase
+FRACTION	(ad) bölüm: Bir bütünü oluşturan parçaların her biri; fasıl, kısım. (ayrıca: kısım, parça)
+FRACTIONAL	(sıfat) kesirli: kesir niteliğinde olan (sayı)
+FRACTIONATING	(ad) fractionating kelimesinin karşılığı: ⟪ayrımlama|AYRIMLAMA⟫
+FRACTIONED	(fraction sözcüğünün çekimi) (ad) bölüm: Bir bütünü oluşturan parçaların her biri; fasıl, kısım. (ayrıca: kısım, parça)
+FRACTIONING	(fraction sözcüğünün çekimi) (ad) bölüm: Bir bütünü oluşturan parçaların her biri; fasıl, kısım. (ayrıca: kısım, parça)
+FRACTIONS	(ad) fraction sözcüğünün çoğul çekimi: bölüm, kısım, parça
+FRACTURE	(ad) kırık: kemiğin bir etki ile kırılması
+FRACTURED	(fracture sözcüğünün çekimi) (ad) kırık: kemiğin bir etki ile kırılması
+FRACTURES	(fracture sözcüğünün çekimi) (ad) kırık: kemiğin bir etki ile kırılması
+FRACTURING	(fracture sözcüğünün çekimi) (ad) kırık: kemiğin bir etki ile kırılması
+FRAGMENT	(ad) fragment kelimesinin karşılığı: ⟪fragman|FRAGMAN⟫
+FRAGMENTATION	(ad) fragmentation kelimesinin karşılığı: ⟪parçalara|PARÇALARA⟫
+FRAGMENTATIONS	(fragmentation sözcüğünün çekimi) (ad) fragmentation kelimesinin karşılığı: ⟪parçalara|PARÇALARA⟫
+FRAGMENTED	(fragment sözcüğünün çekimi) (ad) fragment kelimesinin karşılığı: ⟪fragman|FRAGMAN⟫
+FRAGMENTING	(fragment sözcüğünün çekimi) (ad) fragment kelimesinin karşılığı: ⟪fragman|FRAGMAN⟫
+FRAGMENTS	(fragment sözcüğünün çekimi) (ad) fragment kelimesinin karşılığı: ⟪fragman|FRAGMAN⟫
+FRAGRANCES	(ad) çoğul çekimi: fragrance
+FRAIL	(sıfat) frail kelimesinin karşılığı: ⟪narin|NARİN⟫, ⟪kırılgan|KIRILGAN⟫, ⟪zayıf|ZAYIF⟫
+FRAILER	(frail sözcüğünün çekimi) (sıfat) frail kelimesinin karşılığı: ⟪narin|NARİN⟫, ⟪kırılgan|KIRILGAN⟫, ⟪zayıf|ZAYIF⟫
+FRAILEST	(frail sözcüğünün çekimi) (sıfat) frail kelimesinin karşılığı: ⟪narin|NARİN⟫, ⟪kırılgan|KIRILGAN⟫, ⟪zayıf|ZAYIF⟫
+FRAILS	(ad) çoğul çekimi: frail
+FRAME	(ad) frame kelimesinin karşılığı: ⟪çerçeve|ÇERÇEVE⟫
+FRAMED	(frame sözcüğünün çekimi) (ad) frame kelimesinin karşılığı: ⟪çerçeve|ÇERÇEVE⟫
+FRAMER	(ad) framer kelimesinin karşılığı: ⟪çerçeveci|ÇERÇEVECİ⟫
+FRAMERS	(framer sözcüğünün çekimi) (ad) framer kelimesinin karşılığı: ⟪çerçeveci|ÇERÇEVECİ⟫
+FRAMES	(ad) frame sözcüğünün çoğul çekimi: çerçeve
+FRAMEWORK	(ad) framework kelimesinin karşılığı: esas yapı
+FRAMEWORKS	(ad) framework sözcüğünün çoğul çekimi: esas yapı
+FRAMING	(frame sözcüğünün çekimi) (ad) frame kelimesinin karşılığı: ⟪çerçeve|ÇERÇEVE⟫
+FRAMINGS	(frame sözcüğünün çekimi) (ad) frame kelimesinin karşılığı: ⟪çerçeve|ÇERÇEVE⟫
+FRANCHISE	(ad) ayrıcalık; imtiyaz; satış hakkı; mal satma yetkisi
+FRANCHISED	(franchise sözcüğünün çekimi) (ad) ayrıcalık; imtiyaz; satış hakkı; mal satma yetkisi
+FRANCHISEES	(ad) çoğul çekimi: franchisee
+FRANCHISER	(franchise sözcüğünün çekimi) (ad) ayrıcalık; imtiyaz; satış hakkı; mal satma yetkisi
+FRANCHISES	(franchise sözcüğünün çekimi) (ad) ayrıcalık; imtiyaz; satış hakkı; mal satma yetkisi
+FRANCHISING	(franchise sözcüğünün çekimi) (ad) ayrıcalık; imtiyaz; satış hakkı; mal satma yetkisi
+FRANCIUM	(ad) fransiyum: Aktinyum'dan elde edilen, atom numarası 87, atom ağırlığı 223 olan radyoaktif element
+FRANCIUMS	(francium sözcüğünün çekimi) (ad) fransiyum: Aktinyum'dan elde edilen, atom numarası 87, atom ağırlığı 223 olan radyoaktif element
+FRANCOLINS	(ad) çoğul çekimi: francolin
+FRANKFURTERS	(ad) çoğul çekimi: frankfurter
+FRANKFURTS	(ad) çoğul çekimi: frankfurt
+FRANKINCENSE	(ad) günlük: tütsü için kullanılan çeşit ağaç sakızı (ayrıca: akgünlük)
+FRANKINCENSES	(frankincense sözcüğünün çekimi) (ad) günlük: tütsü için kullanılan çeşit ağaç sakızı (ayrıca: akgünlük)
+FRANKLY	(zarf) açıkça: gizli bir yönü kalmaksızın, kolay anlaşılır bir biçimde, alenen, aşikâre (ayrıca: dürüstçe)
+FRANKS	(ad) çoğul çekimi: frank
+FRATERNITIES	(ad) çoğul çekimi: fraternity
+FRATRICIDE	(ad) fratricide kelimesinin karşılığı: dost ateşi
+FRATRICIDES	(ad) çoğul çekimi: fratricide
+FRAUD	(ad) dolandırıcılık: dolandırıcı olma hâli\n(eylem) fraud kelimesinin karşılığı: ⟪yol|YOL⟫
+FRAUDS	(ad) çoğul çekimi: fraud
+FRAUDULENT	(sıfat) sahte: bir şeyin aslına benzetilerek yapılan, düzme, düzmece
+FRAUGHT	(sıfat) yüklü: Bir duyguyu, bir olguyu içinde veya üzerinde fazlaca bulunduran: (ayrıca: dolu)\n(ad) fraught kelimesinin karşılığı: hileli kullanım
+FRAUGHTED	(fraught sözcüğünün çekimi) (sıfat) yüklü: Bir duyguyu, bir olguyu içinde veya üzerinde fazlaca bulunduran: (ayrıca: dolu)
+FRAUGHTS	(fraught sözcüğünün çekimi) (sıfat) yüklü: Bir duyguyu, bir olguyu içinde veya üzerinde fazlaca bulunduran: (ayrıca: dolu)
+FRAY	(ad) kavga: (mecaz) [ Herhangi bir amaca erişmek, bir şeyi elde etmek veya bir şeye karşı koyabilmek için harcanan çaba, verilen mücadele. (ayrıca: mücadele, savaş)
+FRAYED	(sıfat) frayed kelimesinin karşılığı: kenarı yıpranmış
+FRAYING	(fray sözcüğünün çekimi) (ad) kavga: (mecaz) [ Herhangi bir amaca erişmek, bir şeyi elde etmek veya bir şeye karşı koyabilmek için harcanan...
+FRAYINGS	(fray sözcüğünün çekimi) (ad) kavga: (mecaz) [ Herhangi bir amaca erişmek, bir şeyi elde etmek veya bir şeye karşı koyabilmek için harcanan...
+FRAYS	(ad) çoğul çekimi: fray
+FRAZZLE	(eylem) yıpratmak: yıpranmış duruma getirmek, eskitmek (ayrıca: yormak, bitkin düşürmek)
+FRAZZLED	(sıfat) yorgun: Çalışma vb. sebeplerle beden veya zihin etkinliği yavaşlayan, yorulmuş olan (ayrıca: bitkin)
+FRAZZLES	(frazzle sözcüğünün çekimi) (eylem) yıpratmak: yıpranmış duruma getirmek, eskitmek (ayrıca: yormak, bitkin düşürmek)
+FRAZZLING	(frazzle sözcüğünün çekimi) (eylem) yıpratmak: yıpranmış duruma getirmek, eskitmek (ayrıca: yormak, bitkin düşürmek)
+FREAK	(ad) acube: tuhaf kişi
+FREAKED	(freak sözcüğünün çekimi) (ad) acube: tuhaf kişi
+FREAKING	(freak sözcüğünün çekimi) (ad) acube: tuhaf kişi
+FREAKS	(ad) çoğul çekimi: freak
+FRECKLE	(ad) freckle kelimesinin karşılığı: ⟪çil|ÇİL⟫
+FRECKLED	(freckle sözcüğünün çekimi) (ad) freckle kelimesinin karşılığı: ⟪çil|ÇİL⟫
+FRECKLES	(ad) freckle sözcüğünün çoğul çekimi: çil
+FRECKLING	(freckle sözcüğünün çekimi) (ad) freckle kelimesinin karşılığı: ⟪çil|ÇİL⟫
+FREE	(zarf) free kelimesinin karşılığı: ⟪bedavadan|BEDAVADAN⟫, parasız olarak\n(eylem) free kelimesinin karşılığı: azat etmek, hür bırakmak, hürriyet vermek, hürriyete kavuşturmak
+FREEBEES	(ad) çoğul çekimi: freebee
+FREEBIE	(ad) eşantiyon: Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla parasız verilen veya gönderilen mal
+FREEBIES	(ad) çoğul çekimi: freebie
+FREEBOOTERS	(ad) çoğul çekimi: freebooter
+FREED	(free sözcüğünün çekimi) (zarf) free kelimesinin karşılığı: ⟪bedavadan|BEDAVADAN⟫, parasız olarak
+FREEDMEN	(ad) çoğul çekimi: freedman
+FREEDOM	(ad) özgürlük: herhangi bir kısıtlamaya, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama durumu, serbestlik (ayrıca: serbestlik, serbestî)
+FREEDOMS	(ad) freedom sözcüğünün çoğul çekimi: özgürlük, serbestlik, serbestî
+FREEHOLD	(ad) mülkiyeti alınmış yer; mülkiyet hakkı
+FREEHOLDS	(ad) çoğul çekimi: freehold
+FREEING	(eylem) free sözcüğünün şimdiki zaman ortaç ve gerund çekimi: bedavadan, parasız olarak
+FREELANCERS	(ad) çoğul çekimi: freelancer
+FREELANCES	(ad) çoğul çekimi: freelance
+FREELOADER	(ad) abacı: bedavacı
+FREELOADERS	(ad) çoğul çekimi: freeloader
+FREER	(sıfat) free sözcüğünün karşılaştırma derecesi çekimi: bedavadan, parasız olarak
+FREERS	(free sözcüğünün çekimi) (zarf) free kelimesinin karşılığı: ⟪bedavadan|BEDAVADAN⟫, parasız olarak
+FREES	(ad) çoğul çekimi: free
+FREEST	(free sözcüğünün çekimi) (zarf) free kelimesinin karşılığı: ⟪bedavadan|BEDAVADAN⟫, parasız olarak
+FREETHINKERS	(ad) çoğul çekimi: freethinker
+FREEWAYS	(ad) çoğul çekimi: freeway
+FREEWHEELS	(ad) çoğul çekimi: freewheel
+FREEZE	(ad) freeze kelimesinin karşılığı: ⟪donma|DONMA⟫\n(eylem) donmak: (mecaz) beklenmedik bir durum karşısında birden hareketsiz kalmak.
+FREEZER	(ad) buzluk: Yiyecek ve içecekleri soğutarak saklamak için kullanılan, buzla soğutulan kap veya dolap
+FREEZERS	(freezer sözcüğünün çekimi) (ad) buzluk: Yiyecek ve içecekleri soğutarak saklamak için kullanılan, buzla soğutulan kap veya dolap
+FREEZES	(ad) çoğul çekimi: freeze
+FREEZING	(ad) freezing kelimesinin karşılığı: ⟪donma|DONMA⟫
+FREEZINGLY	(freeze sözcüğünün çekimi) (ad) freeze kelimesinin karşılığı: ⟪donma|DONMA⟫
+FREIGHT	(ad) kargo: uçak, gemi vb. bir taşıtla taşınan eşya, yük
+FREIGHTED	(freight sözcüğünün çekimi) (ad) kargo: uçak, gemi vb. bir taşıtla taşınan eşya, yük
+FREIGHTER	(ad) freighter kelimesinin karşılığı: yük gemisi
+FREIGHTERS	(ad) çoğul çekimi: freighter
+FREIGHTING	(freight sözcüğünün çekimi) (ad) kargo: uçak, gemi vb. bir taşıtla taşınan eşya, yük
+FREIGHTS	(ad) çoğul çekimi: freight
+FRENCH	(ad) french kelimesinin karşılığı: fransızca, fransız dili
+FRENCHED	(french sözcüğünün çekimi) (ad) french kelimesinin karşılığı: fransızca, fransız dili
+FRENCHES	(french sözcüğünün çekimi) (ad) french kelimesinin karşılığı: fransızca, fransız dili
+FRENCHIFIED	(frenchify sözcüğünün çekimi) (eylem) frenchify kelimesinin karşılığı: fransızlaştırmak
+FRENCHIFIES	(frenchify sözcüğünün çekimi) (eylem) frenchify kelimesinin karşılığı: fransızlaştırmak
+FRENCHIFY	(eylem) frenchify kelimesinin karşılığı: fransızlaştırmak
+FRENCHIFYING	(frenchify sözcüğünün çekimi) (eylem) frenchify kelimesinin karşılığı: fransızlaştırmak
+FRENCHING	(french sözcüğünün çekimi) (ad) french kelimesinin karşılığı: fransızca, fransız dili
+FRENZIES	(ad) frenzy sözcüğünün çoğul çekimi: çıldırtmak, deli etmek, çılgına çevirmek\n(eylem) frenzy sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: çıldırtmak, deli etmek, çılgına çevirmek
+FRENZILY	(frenzy sözcüğünün çekimi) (eylem) frenzy kelimesinin karşılığı: ⟪çıldırtmak|ÇILDIRTMAK⟫, deli etmek, çılgına çevirmek
+FRENZY	(eylem) frenzy kelimesinin karşılığı: ⟪çıldırtmak|ÇILDIRTMAK⟫, deli etmek, çılgına çevirmek
+FRENZYING	(frenzy sözcüğünün çekimi) (eylem) frenzy kelimesinin karşılığı: ⟪çıldırtmak|ÇILDIRTMAK⟫, deli etmek, çılgına çevirmek
+FREQUENCIES	(ad) frequency sözcüğünün çoğul çekimi: sıklık
+FREQUENCY	(ad) sıklık: sık olma durumu
+FREQUENT	(ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫\n(eylem) sık sık gitmek
+FREQUENTATIVES	(ad) çoğul çekimi: frequentative
+FREQUENTED	(frequent sözcüğünün çekimi) (ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫
+FREQUENTER	(frequent sözcüğünün çekimi) (ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫
+FREQUENTERS	(frequent sözcüğünün çekimi) (ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫
+FREQUENTEST	(frequent sözcüğünün çekimi) (ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫
+FREQUENTING	(frequent sözcüğünün çekimi) (ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫
+FREQUENTLY	(zarf) frequently kelimesinin karşılığı: ⟪sıkça|SIKÇA⟫
+FREQUENTS	(frequent sözcüğünün çekimi) (ad) frequent kelimesinin karşılığı: ⟪sık|SIK⟫
+FRESCO	(ad) fresk: Yaş duvar sıvası üzerine kireç suyunda eritilmiş madenî boyalarla resim yapma yöntemi
+FRESCOED	(fresco sözcüğünün çekimi) (ad) fresk: Yaş duvar sıvası üzerine kireç suyunda eritilmiş madenî boyalarla resim yapma yöntemi
+FRESCOER	(fresco sözcüğünün çekimi) (ad) fresk: Yaş duvar sıvası üzerine kireç suyunda eritilmiş madenî boyalarla resim yapma yöntemi
+FRESCOES	(ad) çoğul çekimi: fresco
+FRESCOING	(fresco sözcüğünün çekimi) (ad) fresk: Yaş duvar sıvası üzerine kireç suyunda eritilmiş madenî boyalarla resim yapma yöntemi
+FRESCOS	(fresco sözcüğünün çekimi) (ad) fresk: Yaş duvar sıvası üzerine kireç suyunda eritilmiş madenî boyalarla resim yapma yöntemi
+FRESH	(sıfat) körpe: dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş, kart karşıtı
+FRESHED	(fresh sözcüğünün çekimi) (sıfat) körpe: dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş, kart karşıtı
+FRESHER	(fresh sözcüğünün çekimi) (sıfat) körpe: dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş, kart karşıtı
+FRESHES	(fresh sözcüğünün çekimi) (sıfat) körpe: dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş, kart karşıtı
+FRESHEST	(fresh sözcüğünün çekimi) (sıfat) körpe: dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş, kart karşıtı
+FRESHETS	(ad) çoğul çekimi: freshet
+FRESHING	(fresh sözcüğünün çekimi) (sıfat) körpe: dalından yeni koparılmış, tazeliği üstünde, daha büyümemiş, kart karşıtı
+FRESHNESS	(ad) freshness kelimesinin karşılığı: ⟪tazelik|TAZELİK⟫
+FRESHNESSES	(freshness sözcüğünün çekimi) (ad) freshness kelimesinin karşılığı: ⟪tazelik|TAZELİK⟫
+FRESNELS	(ad) çoğul çekimi: fresnel
+FRET	(ad) fret kelimesinin karşılığı: ⟪perde|PERDE⟫\n(eylem) endişelenmek: Tasalanmak, kaygılanmak. (ayrıca: kaygılanmak, canını sıkmak)
+FRETFUL	(sıfat) sinirli: (mecaz) kolayca ve çabuk sinirlenen, asabi (ayrıca: huysuz)
+FRETS	(fret sözcüğünün çekimi) (ad) fret kelimesinin karşılığı: ⟪perde|PERDE⟫
+FRETSAW	(ad) fretsaw kelimesinin karşılığı: kıl testere
+FRETSAWS	(ad) çoğul çekimi: fretsaw
+FRETTED	(fret sözcüğünün çekimi) (ad) fret kelimesinin karşılığı: ⟪perde|PERDE⟫
+FRETTING	(fret sözcüğünün çekimi) (ad) fret kelimesinin karşılığı: ⟪perde|PERDE⟫
+FRIABILITIES	(friability sözcüğünün çekimi) (ad) friability kelimesinin karşılığı: ⟪aşınma|AŞINMA⟫
+FRIABILITY	(ad) friability kelimesinin karşılığı: ⟪aşınma|AŞINMA⟫
+FRIARIES	(ad) çoğul çekimi: friary
+FRIARS	(ad) çoğul çekimi: friar
+FRICASSEES	(ad) çoğul çekimi: fricassee
+FRICATIVE	(sıfat) fricative kelimesinin karşılığı: sürtüşmeli
+FRICATIVES	(fricative sözcüğünün çekimi) (sıfat) fricative kelimesinin karşılığı: sürtüşmeli
+FRICTION	(ad) friction kelimesinin karşılığı: ⟪sürtünme|SÜRTÜNME⟫
+FRICTIONLESS	(sıfat) frictionless kelimesinin karşılığı: sürtünmesiz
+FRICTIONLESSLY	(frictionless sözcüğünün çekimi) (sıfat) frictionless kelimesinin karşılığı: sürtünmesiz
+FRICTIONS	(friction sözcüğünün çekimi) (ad) friction kelimesinin karşılığı: ⟪sürtünme|SÜRTÜNME⟫
+FRIDGE	(ad) buzdolabı: yiyecek, içecek vb.ni soğuk olarak saklamaya yarayan, motorla çalışan dolap, soğutucu
+FRIDGES	(ad) çoğul çekimi: fridge
+FRIED	(eylem) fry sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: balık yavrusu
+FRIEND	(ad) dost: Sevilen, güvenilen, gönüldaş, iyi anlaşılan kimse. (ayrıca: arkadaş, eş)
+FRIENDLIER	(friendly sözcüğünün çekimi) (sıfat) friendly kelimesinin karşılığı: anlaşması kolay, ⟪sıcakkanlı|SICAKKANLI⟫
+FRIENDLIES	(friendly sözcüğünün çekimi) (sıfat) friendly kelimesinin karşılığı: anlaşması kolay, ⟪sıcakkanlı|SICAKKANLI⟫
+FRIENDLIEST	(friendly sözcüğünün çekimi) (sıfat) friendly kelimesinin karşılığı: anlaşması kolay, ⟪sıcakkanlı|SICAKKANLI⟫
+FRIENDLILY	(zarf) dostça: dosta yakışır bir biçimde, dostane (ayrıca: dostane)
+FRIENDLINESS	(ad) arkadaşça olma durumu, arkadaşlık
+FRIENDLINESSES	(friendliness sözcüğünün çekimi) (ad) arkadaşça olma durumu, arkadaşlık
+FRIENDLY	(sıfat) friendly kelimesinin karşılığı: anlaşması kolay, ⟪sıcakkanlı|SICAKKANLI⟫
+FRIENDS	(ad) friend sözcüğünün çoğul çekimi: arkadaş, dost, eş, yâr, yâren\n(eylem) friend sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: arkadaş, dost, eş, yâr, yâren
+FRIENDSHIP	(ad) arkadaşlık: Arkadaş olma durumu, arkadaşa yakışır davranış. (ayrıca: dostluk)
+FRIENDSHIPS	(ad) çoğul çekimi: friendship
+FRIERS	(ad) çoğul çekimi: frier
+FRIES	(ad) çoğul çekimi: fry
+FRIEZE	(ad) frieze kelimesinin karşılığı: ⟪friz|FRİZ⟫
+FRIEZES	(frieze sözcüğünün çekimi) (ad) frieze kelimesinin karşılığı: ⟪friz|FRİZ⟫
+FRIGATE	(ad) fırkateyn: Üç direkli, bir tür yelkenli veya savaş gemisi.; firkate (ayrıca: firkate)
+FRIGATES	(ad) çoğul çekimi: frigate
+FRIGHT	(ad) korku: Gerçek veya beklenen bir tehlike ile yoğun bir acı karşısında uyanan ve coşku, beniz sararması, ağız kuruması, solunum ve kalp atışı hızlanması vb. belirtileri olan veya daha karmaşık fizyolojik değişmelerle kendini gösteren duygu. (ayrıca: dehşet)
+FRIGHTED	(fright sözcüğünün çekimi) (ad) korku: Gerçek veya beklenen bir tehlike ile yoğun bir acı karşısında uyanan ve coşku, beniz sararması, ağız...
+FRIGHTEN	(eylem) korkutmak: kaygıya düşürmek
+FRIGHTENED	(sıfat) frightened kelimesinin karşılığı: ürkmüş, ⟪korkmuş|KORKMUŞ⟫
+FRIGHTENING	(ad) frightening kelimesinin karşılığı: ⟪yıldırma|YILDIRMA⟫
+FRIGHTENS	(frighten sözcüğünün çekimi) (eylem) korkutmak: kaygıya düşürmek
+FRIGHTFUL	(sıfat) dehşet: bir tehlike veya korkunç bir şey karşısında duyulan ürküntü, yılgı (ayrıca: korkulu, korku dolu)
+FRIGHTING	(fright sözcüğünün çekimi) (ad) korku: Gerçek veya beklenen bir tehlike ile yoğun bir acı karşısında uyanan ve coşku, beniz sararması, ağız...
+FRIGHTS	(ad) çoğul çekimi: fright
+FRIJOLES	(ad) çoğul çekimi: frijol
+FRILLS	(ad) çoğul çekimi: frill
+FRINGE	(ad) püskül: bir ucundan kimi şeylere süs olarak takılan, diğer ucu serbest saçak biçimindeki iplik demeti
+FRINGED	(fringe sözcüğünün çekimi) (ad) püskül: bir ucundan kimi şeylere süs olarak takılan, diğer ucu serbest saçak biçimindeki iplik demeti
+FRINGES	(ad) çoğul çekimi: fringe
+FRINGING	(fringe sözcüğünün çekimi) (ad) püskül: bir ucundan kimi şeylere süs olarak takılan, diğer ucu serbest saçak biçimindeki iplik demeti
+FRISKETS	(ad) çoğul çekimi: frisket
+FRITTATAS	(ad) çoğul çekimi: frittata
+FRITTERS	(ad) çoğul çekimi: fritter
+FRIVOLOUS	(sıfat) hafif: Ağırbaşlı olmayan, ciddi olmayan, hoppa olan. (ayrıca: ciddiyetsiz, uçarı)
+FROCKS	(ad) çoğul çekimi: frock
+FROG	(ad) frog kelimesinin karşılığı: ⟪kurbağa|KURBAĞA⟫
+FROGGED	(frog sözcüğünün çekimi) (ad) frog kelimesinin karşılığı: ⟪kurbağa|KURBAĞA⟫
+FROGGING	(frog sözcüğünün çekimi) (ad) frog kelimesinin karşılığı: ⟪kurbağa|KURBAĞA⟫
+FROGS	(ad) frog sözcüğünün çoğul çekimi: kurbağa
+FROLIC	(ad) eğlence: eğlenme işi, sefahat
+FROLICKED	(frolic sözcüğünün çekimi) (ad) eğlence: eğlenme işi, sefahat
+FROLICKING	(frolic sözcüğünün çekimi) (ad) eğlence: eğlenme işi, sefahat
+FROLICS	(ad) çoğul çekimi: frolic
+FROLICSOME	(sıfat) şen: yaşamaktan mutlu olduğunu davranışlarıyla belli eden, neşeli, sevinçli (ayrıca: neşeli, şen şakrak)
+FROM	(edat) from kelimesinin karşılığı: -dan/-den
+FRONT	(ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı
+FRONTAL	(sıfat) frontal kelimesinin karşılığı: önleşmeyle ilgili
+FRONTALS	(ad) çoğul çekimi: frontal
+FRONTED	(front sözcüğünün çekimi) (ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı
+FRONTER	(front sözcüğünün çekimi) (ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı
+FRONTES	(front sözcüğünün çekimi) (ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı
+FRONTIER	(ad) sınır; hudut; bir yerleşimin ücra, bakir, keşfedilmemiş yerleri
+FRONTIERS	(ad) frontier sözcüğünün çoğul çekimi: sınır; hudut; bir yerleşimin ücra, bakir, keşfedilmemiş yerleri
+FRONTIERSMEN	(ad) çoğul çekimi: frontiersman
+FRONTING	(ad) fronting kelimesinin karşılığı: ön ünlüleşme
+FRONTISPIECES	(ad) çoğul çekimi: frontispiece
+FRONTLETS	(ad) çoğul çekimi: frontlet
+FRONTS	(front sözcüğünün çekimi) (ad) ileri: herhangi bir şeye göre daha ötede olan yer, geri karşıtı
+FROST	(ad) kırağı: donma derecesinin altındaki sıcaklıklarda havadaki su buharının ağaç dalları, elektrik direkleri vb. katı cisimler yüzeyinde oluşturduğu, kara benzeyen buz tabakası
+FROSTBITES	(ad) çoğul çekimi: frostbite
+FROSTED	(frost sözcüğünün çekimi) (ad) kırağı: donma derecesinin altındaki sıcaklıklarda havadaki su buharının ağaç dalları, elektrik direkleri vb. katı...
+FROSTEDS	(frost sözcüğünün çekimi) (ad) kırağı: donma derecesinin altındaki sıcaklıklarda havadaki su buharının ağaç dalları, elektrik direkleri vb. katı...
+FROSTING	(frost sözcüğünün çekimi) (ad) kırağı: donma derecesinin altındaki sıcaklıklarda havadaki su buharının ağaç dalları, elektrik direkleri vb. katı...
+FROSTINGS	(ad) çoğul çekimi: frosting
+FROSTS	(ad) çoğul çekimi: frost
+FROTH	(ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FROTHED	(froth sözcüğünün çekimi) (ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FROTHING	(froth sözcüğünün çekimi) (ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FROTHS	(froth sözcüğünün çekimi) (ad) köpük: Çalkanan, kaynatılan, mayalanan, yukarıdan dökülen sıvıların üzerinde oluşan hava kabarcıkları yığını.
+FROTTEUR	(ad) fortçu: Toplu taşıma araçlarında kalabalıktan yararlanarak başkalarına sürtünen, sarkıntılık eden (kimse).
+FROTTEURS	(frotteur sözcüğünün çekimi) (ad) fortçu: Toplu taşıma araçlarında kalabalıktan yararlanarak başkalarına sürtünen, sarkıntılık eden (kimse).
+FROWARD	(sıfat) itaatsiz, zıt, idare edilemez; zor başa çıkılan; kötü niyetli\n(zarf) froward kelimesinin karşılığı: -dan/-den uzak
+FROWARDLY	(froward sözcüğünün çekimi) (sıfat) itaatsiz, zıt, idare edilemez; zor başa çıkılan; kötü niyetli
+FROWN	(eylem) frown kelimesinin karşılığı: kaşını çatmak
+FROWNED	(frown sözcüğünün çekimi) (eylem) frown kelimesinin karşılığı: kaşını çatmak
+FROWNER	(frown sözcüğünün çekimi) (eylem) frown kelimesinin karşılığı: kaşını çatmak
+FROWNING	(ad) çatma kaş: aralarında kılsız yer olmayıp birbirine kavuşmuş olan kaşlar
+FROWNS	(ad) çoğul çekimi: frown
+FROWSIER	(frowsy sözcüğünün çekimi) (sıfat) pasaklı: Kılığının veya eşyasının düzgün ve temiz olmasına özenmeyip düzensizlik içinde yaşayan kimse; çapaçul,...
+FROWSIEST	(frowsy sözcüğünün çekimi) (sıfat) pasaklı: Kılığının veya eşyasının düzgün ve temiz olmasına özenmeyip düzensizlik içinde yaşayan kimse; çapaçul,...
+FROWSY	(sıfat) pasaklı: Kılığının veya eşyasının düzgün ve temiz olmasına özenmeyip düzensizlik içinde yaşayan kimse; çapaçul, etekserpen. (ayrıca: bakımsız, pejmürde)
+FROZE	(eylem) freeze sözcüğünün basit geçmiş zaman çekimi: donma
+FROZEN	(ad) donmuş: hareket edemeyen
+FROZENLY	(freeze sözcüğünün çekimi) (ad) freeze kelimesinin karşılığı: ⟪donma|DONMA⟫
+FRUGAL	(sıfat) frugal kelimesinin karşılığı: ⟪tutumlu|TUTUMLU⟫
+FRUGALITIES	(frugality sözcüğünün çekimi) (ad) frugality kelimesinin karşılığı: ⟪tasarruf|TASARRUF⟫
+FRUGALITY	(ad) frugality kelimesinin karşılığı: ⟪tasarruf|TASARRUF⟫
+FRUIT	(ad) yemiş: meyve (ayrıca: meyve)
+FRUITCAKES	(ad) çoğul çekimi: fruitcake
+FRUITED	(fruit sözcüğünün çekimi) (ad) yemiş: meyve (ayrıca: meyve)
+FRUITERERS	(ad) çoğul çekimi: fruiterer
+FRUITING	(fruit sözcüğünün çekimi) (ad) yemiş: meyve (ayrıca: meyve)
+FRUITION	(ad) fruition kelimesinin karşılığı: muradına erme
+FRUITIONS	(fruition sözcüğünün çekimi) (ad) fruition kelimesinin karşılığı: muradına erme
+FRUITS	(ad) fruit sözcüğünün çoğul çekimi: meyve, yemiş
+FRUMENTIES	(ad) çoğul çekimi: frumenty
+FRUMPS	(ad) çoğul çekimi: frump
+FRUSTRATION	(ad) frustration kelimesinin karşılığı: ⟪bıkkınlık|BIKKINLIK⟫
+FRUSTRATIONS	(frustration sözcüğünün çekimi) (ad) frustration kelimesinin karşılığı: ⟪bıkkınlık|BIKKINLIK⟫
+FRUSTUMS	(ad) çoğul çekimi: frustum
+FRY	(ad) fry kelimesinin karşılığı: balık yavrusu\n(eylem) elektirikli sandalyede idam etmek
+FRYERS	(ad) çoğul çekimi: fryer
+FRYING	(fry sözcüğünün çekimi) (ad) fry kelimesinin karşılığı: balık yavrusu
+FUDGES	(ad) çoğul çekimi: fudge
+FUDS	(ad) çoğul çekimi: fud
+FUEL	(ad) yakıt: Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde.
+FUELED	(eylem) fuel sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yakıt
+FUELING	(fuel sözcüğünün çekimi) (ad) yakıt: Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde.
+FUELLED	(fuel sözcüğünün çekimi) (ad) yakıt: Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde.
+FUELLER	(fuel sözcüğünün çekimi) (ad) yakıt: Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde.
+FUELLING	(fuel sözcüğünün çekimi) (ad) yakıt: Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde.
+FUELS	(fuel sözcüğünün çekimi) (ad) yakıt: Doğal gaz, mazot gibi ısı sağlamak amacıyla yakılan madde.
+FUGACITIES	(fugacity sözcüğünün çekimi) (ad) fugacity kelimesinin karşılığı: ⟪kaçarlık|KAÇARLIK⟫
+FUGACITY	(ad) fugacity kelimesinin karşılığı: ⟪kaçarlık|KAÇARLIK⟫
+FUGLEMEN	(ad) çoğul çekimi: fugleman
+FULCRUMS	(ad) çoğul çekimi: fulcrum
+FULGURATIONS	(ad) çoğul çekimi: fulguration
+FULGURITES	(ad) çoğul çekimi: fulgurite
+FULL	(sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLBACKS	(ad) çoğul çekimi: fullback
+FULLED	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLER	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLERED	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLERENES	(ad) çoğul çekimi: fullerene
+FULLERING	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLERS	(ad) çoğul çekimi: fuller
+FULLEST	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLING	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLS	(full sözcüğünün çekimi) (sıfat) full kelimesinin karşılığı: ⟪dolu|DOLU⟫
+FULLY	(zarf) tamamen: bütün olarak, büsbütün (ayrıca: büsbütün, tamamıyla)
+FULMINANT	(ad) fulminant kelimesinin karşılığı: ani gelişen
+FULSOME	(sıfat) yersiz: (mecaz) yerinde olmayan, yerinde değil, uygun düşmeyen, uygunsuz, anlamsız, manasız (ayrıca: dalkavukça, yaltaklanan)
+FUMAROLES	(ad) çoğul çekimi: fumarole
+FUMBLE	(ad) ellerini beceriksizce kullanmak.
+FUMBLED	(eylem) fumble sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ellerini beceriksizce kullanmak.
+FUMBLERS	(ad) çoğul çekimi: fumbler
+FUMBLES	(ad) çoğul çekimi: fumble
+FUMBLING	(fumble sözcüğünün çekimi) (ad) ellerini beceriksizce kullanmak.
+FUME	(eylem) fume kelimesinin karşılığı: ⟪tüttürmek|TÜTTÜRMEK⟫
+FUMED	(fume sözcüğünün çekimi) (eylem) fume kelimesinin karşılığı: ⟪tüttürmek|TÜTTÜRMEK⟫
+FUMERS	(ad) çoğul çekimi: fumer
+FUMES	(fume sözcüğünün çekimi) (eylem) fume kelimesinin karşılığı: ⟪tüttürmek|TÜTTÜRMEK⟫
+FUMIGANTS	(ad) çoğul çekimi: fumigant
+FUMIGATION	(ad) fumigation kelimesinin karşılığı: buharla dezenfeksiyon
+FUMIGATIONS	(fumigation sözcüğünün çekimi) (ad) fumigation kelimesinin karşılığı: buharla dezenfeksiyon
+FUMING	(fume sözcüğünün çekimi) (eylem) fume kelimesinin karşılığı: ⟪tüttürmek|TÜTTÜRMEK⟫
+FUN	(ad) eğlence, keyif veya zevk
+FUNAMBULISTS	(ad) çoğul çekimi: funambulist
+FUNCTION	(ad) fonksiyon: Bir kümedeki her bir elemanı diğer bir kümede yalnız bir elemana bağlayan kural.
+FUNCTIONAL	(sıfat) functional kelimesinin karşılığı: ⟪fonksiyonel|FONKSİYONEL⟫, ⟪işlevsel|İŞLEVSEL⟫
+FUNCTIONALISM	(ad) functionalism kelimesinin karşılığı: işlevselcilik
+FUNCTIONALISMS	(functionalism sözcüğünün çekimi) (ad) functionalism kelimesinin karşılığı: işlevselcilik
+FUNCTIONALIST	(ad) functionalist kelimesinin karşılığı: işlevselci
+FUNCTIONALISTS	(functionalist sözcüğünün çekimi) (ad) functionalist kelimesinin karşılığı: işlevselci
+FUNCTIONALITIES	(ad) çoğul çekimi: functionality
+FUNCTIONALITY	(ad) işlevsellik: işlevsel olma durumu
+FUNCTIONARIES	(ad) çoğul çekimi: functionary
+FUNCTIONED	(function sözcüğünün çekimi) (ad) fonksiyon: Bir kümedeki her bir elemanı diğer bir kümede yalnız bir elemana bağlayan kural.
+FUNCTIONING	(function sözcüğünün çekimi) (ad) fonksiyon: Bir kümedeki her bir elemanı diğer bir kümede yalnız bir elemana bağlayan kural.
+FUNCTIONS	(ad) functions kelimesinin karşılığı: ⟪görevler|GÖREVLER⟫
+FUND	(ad) fon: belirli bir iş için gerektikçe harcanmak üzere ayrılıp işletilen para, kaynak
+FUNDAMENT	(ad) fundament kelimesinin karşılığı: ⟪temel|TEMEL⟫
+FUNDAMENTAL	(ad) fundamental kelimesinin karşılığı: ⟪esas|ESAS⟫, ⟪ana|ANA⟫, öz, ⟪temel|TEMEL⟫
+FUNDAMENTALISM	(ad) Bir dinin öğretilerine katı, derinden bağlılık. Dinî metinleri yorumlamadan birebir çevirilerine sadık kalmaya çalışma, kökten dincilik, fundamentalizm.
+FUNDAMENTALISMS	(fundamentalism sözcüğünün çekimi) (ad) Bir dinin öğretilerine katı, derinden bağlılık. Dinî metinleri yorumlamadan birebir çevirilerine sadık kalmaya...
+FUNDAMENTALISTS	(ad) çoğul çekimi: fundamentalist
+FUNDAMENTALS	(ad) çoğul çekimi: fundamental
+FUNDAMENTS	(ad) çoğul çekimi: fundament
+FUNDED	(fund sözcüğünün çekimi) (ad) fon: belirli bir iş için gerektikçe harcanmak üzere ayrılıp işletilen para, kaynak
+FUNDING	(fund sözcüğünün çekimi) (ad) fon: belirli bir iş için gerektikçe harcanmak üzere ayrılıp işletilen para, kaynak
+FUNDRAISERS	(ad) çoğul çekimi: fundraiser
+FUNDS	(ad) fund sözcüğünün çoğul çekimi: fon
+FUNERAL	(ad) funeral kelimesinin karşılığı: cenaze töreni
+FUNERALS	(ad) çoğul çekimi: funeral
+FUNFAIRS	(ad) çoğul çekimi: funfair
+FUNGI	(ad) fungus sözcüğünün çoğul çekimi: mantarlar
+FUNGICIDE	(ad) fungicide kelimesinin karşılığı: fungisit
+FUNGICIDES	(fungicide sözcüğünün çekimi) (ad) fungicide kelimesinin karşılığı: fungisit
+FUNGIFORM	(ad) fungiform kelimesinin karşılığı: mantar şeklinde
+FUNGOIDS	(ad) çoğul çekimi: fungoid
+FUNGUS	(ad) mantarlar: sap, yaprak, çiçek vb. organlar yerine dallı veya düz iplikler görünüşünde emeçlerden oluşan, klorofilsiz, çiçeksiz, ilkel canlılar
+FUNGUSES	(ad) çoğul çekimi: fungus
+FUNICULARS	(ad) çoğul çekimi: funicular
+FUNKS	(ad) çoğul çekimi: funk
+FUNNED	(fun sözcüğünün çekimi) (ad) eğlence, keyif veya zevk
+FUNNEL	(ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNNELED	(funnel sözcüğünün çekimi) (ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNNELING	(funnel sözcüğünün çekimi) (ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNNELLED	(funnel sözcüğünün çekimi) (ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNNELLING	(funnel sözcüğünün çekimi) (ad) huni: Bir kaptan diğer bir kaba sıvı bir madde aktarmak için kullanılan dibi ince ve delik bir gereç
+FUNNELS	(ad) çoğul çekimi: funnel
+FUNNER	(fun sözcüğünün çekimi) (ad) eğlence, keyif veya zevk
+FUNNEST	(fun sözcüğünün çekimi) (ad) eğlence, keyif veya zevk
+FUNNIER	(funny sözcüğünün çekimi) (sıfat) gülünç: Alayı üzerine çeken, eğlence konusu olan, güldürücü, tuhaf, komik (ayrıca: komik, eğlenceli)
+FUNNIES	(ad) çoğul çekimi: funny
+FUNNIEST	(funny sözcüğünün çekimi) (sıfat) gülünç: Alayı üzerine çeken, eğlence konusu olan, güldürücü, tuhaf, komik (ayrıca: komik, eğlenceli)
+FUNNILY	(zarf) hoş: beğenilen, duyguları okşayan bir şekilde
+FUNNING	(fun sözcüğünün çekimi) (ad) eğlence, keyif veya zevk
+FUNNY	(sıfat) gülünç: Alayı üzerine çeken, eğlence konusu olan, güldürücü, tuhaf, komik (ayrıca: komik, eğlenceli)
+FUNS	(fun sözcüğünün çekimi) (ad) eğlence, keyif veya zevk
+FUR	(ad) kürk: bazı hayvanların, giyecek yapmak için işlenmiş postu
+FURANS	(ad) çoğul çekimi: furan
+FURIES	(ad) çoğul çekimi: fury
+FURLONGS	(ad) çoğul çekimi: furlong
+FURLOUGHS	(ad) çoğul çekimi: furlough
+FURNACE	(ad) fırın: bir maddenin fiziksel veya kimyasal değişime uğratılması amacıyla içinde ısıtıldığı araç
+FURNACED	(furnace sözcüğünün çekimi) (ad) fırın: bir maddenin fiziksel veya kimyasal değişime uğratılması amacıyla içinde ısıtıldığı araç
+FURNACES	(ad) çoğul çekimi: furnace
+FURNACING	(furnace sözcüğünün çekimi) (ad) fırın: bir maddenin fiziksel veya kimyasal değişime uğratılması amacıyla içinde ısıtıldığı araç
+FURNISH	(eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek.
+FURNISHED	(furnish sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek.
+FURNISHES	(ad) çoğul çekimi: furnish
+FURNISHING	(furnish sözcüğünün çekimi) (eylem) döşemek: Bir ev veya dairenin oturulabilir duruma gelmesi için gerekli eşyayı oraya yerleştirmek.
+FURNISHINGS	(ad) çoğul çekimi: furnishing
+FURNITURE	(ad) eşya: Türlü amaçlarla kullanılan, insan yapısı, taşınabilir cansız nesneler; pılı pırtı, yük.
+FURNITURES	(ad) çoğul çekimi: furniture
+FURRIERS	(ad) çoğul çekimi: furrier
+FURROW	(ad) çizgi: (mecaz) bir durumdan başka bir duruma atlanan, geçilen yer, sınır (ayrıca: akos)
+FURROWED	(furrow sözcüğünün çekimi) (ad) çizgi: (mecaz) bir durumdan başka bir duruma atlanan, geçilen yer, sınır (ayrıca: akos)
+FURROWER	(furrow sözcüğünün çekimi) (ad) çizgi: (mecaz) bir durumdan başka bir duruma atlanan, geçilen yer, sınır (ayrıca: akos)
+FURROWING	(furrow sözcüğünün çekimi) (ad) çizgi: (mecaz) bir durumdan başka bir duruma atlanan, geçilen yer, sınır (ayrıca: akos)
+FURROWS	(ad) furrow sözcüğünün çoğul çekimi: akos, çizgi
+FURS	(ad) çoğul çekimi: fur
+FURTHER	(zarf) further kelimesinin karşılığı: ⟪üste|ÜSTE⟫
+FURTHERANCES	(ad) çoğul çekimi: furtherance
+FURTHERED	(further sözcüğünün çekimi) (zarf) further kelimesinin karşılığı: ⟪üste|ÜSTE⟫
+FURTHERER	(further sözcüğünün çekimi) (zarf) further kelimesinin karşılığı: ⟪üste|ÜSTE⟫
+FURTHERERS	(further sözcüğünün çekimi) (zarf) further kelimesinin karşılığı: ⟪üste|ÜSTE⟫
+FURTHERING	(further sözcüğünün çekimi) (zarf) further kelimesinin karşılığı: ⟪üste|ÜSTE⟫
+FURTHERMORE	(zarf) üstelik: ayrıca, bir de, bundan başka
+FURTHERS	(further sözcüğünün çekimi) (zarf) further kelimesinin karşılığı: ⟪üste|ÜSTE⟫
+FURY	(ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+FURZES	(ad) çoğul çekimi: furze
+FUSE	(ad) fuse kelimesinin karşılığı: ⟪kesici|KESİCİ⟫, ⟪sigorta|SİGORTA⟫, korunç, ⟪fiş|FİŞ⟫
+FUSED	(eylem) fuse sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kesici, sigorta, korunç, fiş
+FUSES	(ad) fuses kelimesinin karşılığı: ⟪sigortalar|SİGORTALAR⟫
+FUSILLADE	(ad) fusillade kelimesinin karşılığı: yaylım ateşi
+FUSILLADES	(fusillade sözcüğünün çekimi) (ad) fusillade kelimesinin karşılığı: yaylım ateşi
+FUSING	(fuse sözcüğünün çekimi) (ad) fuse kelimesinin karşılığı: ⟪kesici|KESİCİ⟫, ⟪sigorta|SİGORTA⟫, korunç, ⟪fiş|FİŞ⟫
+FUSION	(ad) fusion kelimesinin karşılığı: ⟪kaynaşma|KAYNAŞMA⟫
+FUSIONS	(fusion sözcüğünün çekimi) (ad) fusion kelimesinin karşılığı: ⟪kaynaşma|KAYNAŞMA⟫
+FUSS	(ad) velvele: bağrışma (ayrıca: gereksiz telaş)
+FUSSED	(fuss sözcüğünün çekimi) (ad) velvele: bağrışma (ayrıca: gereksiz telaş)
+FUSSER	(fuss sözcüğünün çekimi) (ad) velvele: bağrışma (ayrıca: gereksiz telaş)
+FUSSES	(ad) çoğul çekimi: fuss
+FUSSIER	(fussy sözcüğünün çekimi) (sıfat) mızmız; zor beğenen; müşkülpesent; memnun etmesi zor
+FUSSIEST	(fussy sözcüğünün çekimi) (sıfat) mızmız; zor beğenen; müşkülpesent; memnun etmesi zor
+FUSSING	(fuss sözcüğünün çekimi) (ad) velvele: bağrışma (ayrıca: gereksiz telaş)
+FUSSPOTS	(ad) çoğul çekimi: fusspot
+FUSSY	(sıfat) mızmız; zor beğenen; müşkülpesent; memnun etmesi zor
+FUSTIANS	(ad) çoğul çekimi: fustian
+FUTHORK	(ad) futhork kelimesinin karşılığı: biçim yazı
+FUTHORKS	(futhork sözcüğünün çekimi) (ad) futhork kelimesinin karşılığı: biçim yazı
+FUTILE	(ad) beyhude: yararsız, anlamsız
+FUTONS	(ad) çoğul çekimi: futon
+FUTURE	(ad) gelecek: zaman bakımından ileride olması, gerçekleşmesi beklenen, müstakbel (ayrıca: encam, istikbal)\n(sıfat) gelecek: zaman bakımından ileride olması, gerçekleşmesi beklenen, müstakbel
+FUTURES	(ad) future sözcüğünün çoğul çekimi: gelecek, encam, istikbal, ati
+FUTURISM	(ad) fütürizm: İtalya'da 20. yüzyılın başlarında orataya çıkmış bir sanat akımıdır, fütüristlik, gelecekçilik
+FUTURISMS	(futurism sözcüğünün çekimi) (ad) fütürizm: İtalya'da 20. yüzyılın başlarında orataya çıkmış bir sanat akımıdır, fütüristlik, gelecekçilik
+FUTURISTS	(ad) çoğul çekimi: futurist
+FUTUROLOGIES	(futurology sözcüğünün çekimi) (ad) futurology kelimesinin karşılığı: gelecek bilimi, ⟪fütüroloji|FÜTÜROLOJİ⟫
+FUTUROLOGY	(ad) futurology kelimesinin karşılığı: gelecek bilimi, ⟪fütüroloji|FÜTÜROLOJİ⟫
+FUZES	(ad) çoğul çekimi: fuze
+FUZZ	(ad) fuzz kelimesinin karşılığı: ⟪polis|POLİS⟫
+FUZZES	(fuzz sözcüğünün çekimi) (ad) fuzz kelimesinin karşılığı: ⟪polis|POLİS⟫
+FUZZIER	(fuzzy sözcüğünün çekimi) (sıfat) fuzzy kelimesinin karşılığı: ⟪bulanık|BULANIK⟫
+FUZZIEST	(fuzzy sözcüğünün çekimi) (sıfat) fuzzy kelimesinin karşılığı: ⟪bulanık|BULANIK⟫
+FUZZILY	(fuzzy sözcüğünün çekimi) (sıfat) fuzzy kelimesinin karşılığı: ⟪bulanık|BULANIK⟫
+FUZZING	(fuzz sözcüğünün çekimi) (ad) fuzz kelimesinin karşılığı: ⟪polis|POLİS⟫
+FUZZY	(sıfat) fuzzy kelimesinin karşılığı: ⟪bulanık|BULANIK⟫

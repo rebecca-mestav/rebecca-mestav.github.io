@@ -1,0 +1,1453 @@
+LAB	(adjetivo) Propio o relacionado con el laboratorio.\n(sustantivo) laboratorio: Local abastecido de todo lo necesario para realizar experimentos científicos u operaciones técnicas.
+LABEL	(sustantivo) etiqueta: Pedazo de papel o plástico o algún otro material, casi siempre con alguna inscripción que se pega a diversos objetos para identificarlos, clasificarlos o describirlos.\n(verbo) etiquetar: Encasillar, tachar a alguien con alguna cualidad.
+LABELED	(verbo) Pasado simple del verbo (to) label: Etiqueta.\n(adjetivo) etiquetado: Participio de etiquetar.
+LABELING	(forma de label) (sustantivo) etiqueta: Pedazo de papel o plástico o algún otro material, casi siempre con alguna inscripción que se...
+LABELLED	(verbo) Pasado simple del verbo (to) label: Etiqueta.
+LABELLER	(forma de label) (sustantivo) etiqueta: Pedazo de papel o plástico o algún otro material, casi siempre con alguna inscripción que se...
+LABELLING	(forma de label) (sustantivo) etiqueta: Pedazo de papel o plástico o algún otro material, casi siempre con alguna inscripción que se...
+LABELLUM	(sustantivo) labelo: En las Orquidáceas, el pétalo aparentemente inferior, de ordinario dirigido hacia abajo, entero o lobulado.
+LABELS	(sustantivo) Forma del plural de label: Etiqueta.
+LABIAL	(adjetivo) labial: Propio de o relativo a los labios.
+LABIALIZATION	(sustantivo) labialización: Proceso de articular un sonido lingüístico por medio del contacto entre los labios.
+LABIALIZATIONS	(forma de labialization) (sustantivo) labialización: Proceso de articular un sonido lingüístico por medio del contacto entre los labios.
+LABIALIZE	(verbo) labialize se traduce como labializar
+LABIALIZED	(forma de labialize) (verbo) labialize se traduce como labializar
+LABIALIZES	(forma de labialize) (verbo) labialize se traduce como labializar
+LABIALIZING	(forma de labialize) (verbo) labialize se traduce como labializar
+LABIALS	(forma de labial) (adjetivo) labial: Propio de o relativo a los labios.
+LABILE	(adjetivo) lábil: Se aplica a la persona que es cambiante y poco firme en sus decisiones
+LABIODENTAL	(adjetivo) labiodental: Referido a un sonido: Que se articula al aproximar, rozar o tocar el labio inferior con el borde de los dientes incisivos.
+LABIODENTALS	(forma de labiodental) (adjetivo) labiodental: Referido a un sonido: Que se articula al aproximar, rozar o tocar el labio inferior con el...
+LABOR	(sustantivo) labor: Cualquiera producción del entendimiento en ciencias, letras o artes, y con particularidad la que es de alguna importancia. (también: tarea, trabajo)\n(verbo) labor se traduce como insistir excesivamente
+LABORATORIES	(sustantivo) Forma del plural de laboratory: Laboratorio.
+LABORATORY	(sustantivo) laboratorio: Local abastecido de todo lo necesario para realizar experimentos científicos u operaciones técnicas.
+LABORED	(forma de labor) (sustantivo) labor: Cualquiera producción del entendimiento en ciencias, letras o artes, y con particularidad la que es...
+LABORING	(forma de labor) (sustantivo) labor: Cualquiera producción del entendimiento en ciencias, letras o artes, y con particularidad la que es...
+LABORIOUS	(adjetivo) laborioso: Que requiere mucho trabajo o esfuerzo.
+LABORIOUSLY	(adverbio) laboriously se traduce como trabajoso
+LABORIOUSNESS	(sustantivo) laboriousness se traduce como ⟪laboriosidad⟫
+LABORIOUSNESSES	(forma de laboriousness) (sustantivo) laboriousness se traduce como ⟪laboriosidad⟫
+LABORS	(sustantivo) Forma del plural de labor: Tarea, trabajo, labor.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) labor: Tarea, trabajo, labor.
+LABOUR	(sustantivo) trabajo: Acción o efecto de trabajar (ocuparse en una actividad).\n(verbo) trabajar: Funcionar.
+LABOURED	(forma de labour) (sustantivo) trabajo: Acción o efecto de trabajar (ocuparse en una actividad).
+LABOURER	(sustantivo) peón: Jornalero que trabaja en cosas materiales que no requieren arte ni habilidad.
+LABOURERS	(sustantivo) Forma del plural de labourer: Peón.
+LABOURING	(forma de labour) (sustantivo) trabajo: Acción o efecto de trabajar (ocuparse en una actividad).
+LABOURS	(sustantivo) Forma del plural de labour: Trabajo.
+LABS	(sustantivo) Forma del plural de lab: Propio o relacionado con el laboratorio.
+LABURNUM	(sustantivo) codeso: Mata de la familia de las leguminosas, de uno a dos metros de altura, ramosa, con hojas compuestas de tres hojuelas, flores amariposadas y en las vainas del fruto semillas arriñonadas.
+LABURNUMS	(sustantivo) Forma del plural de laburnum: Codeso.
+LABYRINTH	(sustantivo) laberinto: Circuito complejo de pasajes y encrucijadas, diseñado de tal manera de dificultar la orientación de quien lo recorre
+LABYRINTHINE	(adjetivo) laberíntico: Perteneciente o relativo al laberinto.
+LABYRINTHS	(forma de labyrinth) (sustantivo) laberinto: Circuito complejo de pasajes y encrucijadas, diseñado de tal manera de dificultar la...
+LAC	(sustantivo) laca: Por extensión, objeto barnizado con laca.
+LACCOLITH	(sustantivo) lacolito: Masa lenticular de roca plutónica que se forma cuando el magma intruye en un ambiente cercano a la superficie.
+LACCOLITHS	(forma de laccolith) (sustantivo) lacolito: Masa lenticular de roca plutónica que se forma cuando el magma intruye en un ambiente cercano a...
+LACE	(sustantivo) encaje: Especie de tejido con flores u otras figuras, formado por un fondo reticulado, ya sea lazado o colado. Se usa para confeccionar o adornar ropa, manteles, servilletas, etc.\n(verbo) Atarse el cordón de los zapatos.
+LACED	(forma de lace) (sustantivo) encaje: Especie de tejido con flores u otras figuras, formado por un fondo reticulado, ya sea lazado o...
+LACES	(forma de lace) (sustantivo) encaje: Especie de tejido con flores u otras figuras, formado por un fondo reticulado, ya sea lazado o...
+LACING	(forma de lace) (sustantivo) encaje: Especie de tejido con flores u otras figuras, formado por un fondo reticulado, ya sea lazado o...
+LACINGS	(forma de lace) (sustantivo) encaje: Especie de tejido con flores u otras figuras, formado por un fondo reticulado, ya sea lazado o...
+LACK	(sustantivo) falta: Carencia. (también: carencia)\n(verbo) faltar: No estar en un sitio. (también: carecer)
+LACKED	(forma de lack) (sustantivo) falta: Carencia. (también: carencia)
+LACKING	(forma de lack) (sustantivo) falta: Carencia. (también: carencia)
+LACKLUSTER	(adjetivo) apagado: Sin luz o brillo. (también: deslucido, deslustroso)
+LACKLUSTERS	(forma de lackluster) (adjetivo) apagado: Sin luz o brillo. (también: deslucido, deslustroso)
+LACKS	(forma de lack) (sustantivo) falta: Carencia. (también: carencia)
+LACONIC	(adjetivo) lacónico: Parco en palabras; breve.
+LACONICALLY	(adverbio) lacónicamente: De un modo lacónico.
+LACS	(forma de lac) (sustantivo) laca: Por extensión, objeto barnizado con laca.
+LACTATION	(sustantivo) lactancia: Periodo en que una hembra de mamífero produce leche.
+LACTATIONS	(forma de lactation) (sustantivo) lactancia: Periodo en que una hembra de mamífero produce leche.
+LACTIC	(adjetivo) láctico: Que pertenece o concierne a la leche.
+LACTIFEROUS	(adjetivo) lactífero: Aplícase a los conductos por donde pasa la leche hasta llegar a los pezones de las mamas.
+LACTOBACILLI	(forma de lactobacillus) (sustantivo) lactobacilo: Bacteria anaerobia del género Lactobacillus responsable de convertir la lactosa y otros...
+LACTOBACILLUS	(sustantivo) lactobacilo: Bacteria anaerobia del género Lactobacillus responsable de convertir la lactosa y otros monosacáridos en ácido láctico.
+LACUSTRINE	(adjetivo) lacustre: Perteneciente o relativo a los lagos.
+LAD	(sustantivo) muchacho: Persona joven, en su infancia o mocedad. (también: joven)
+LADDER	(sustantivo) escalera: Utensilio portátil, formado por dos listones unidos por travesaños, proporcionando un medio para escalar. (también: escala, escalera de mano)
+LADDERED	(forma de ladder) (sustantivo) escalera: Utensilio portátil, formado por dos listones unidos por travesaños, proporcionando un medio para...
+LADDERING	(forma de ladder) (sustantivo) escalera: Utensilio portátil, formado por dos listones unidos por travesaños, proporcionando un medio para...
+LADDERS	(forma de ladder) (sustantivo) escalera: Utensilio portátil, formado por dos listones unidos por travesaños, proporcionando un medio para...
+LADEN	(adjetivo) laden se traduce como ⟪cargado⟫\n(verbo) Participio pasado del verbo (to) lade.
+LADENED	(forma de laden) (adjetivo) laden se traduce como ⟪cargado⟫
+LADENING	(forma de laden) (adjetivo) laden se traduce como ⟪cargado⟫
+LADENS	(forma de laden) (adjetivo) laden se traduce como ⟪cargado⟫
+LADER	(forma de lad) (sustantivo) muchacho: Persona joven, en su infancia o mocedad. (también: joven)
+LADIES	(sustantivo) Forma del plural de lady: Dama.
+LADLE	(sustantivo) cucharon: Cuchara grande y de cabeza hemisférica utilizada para servir sopas y otros alimentos ricos en caldo.\n(verbo) Servir con cucharón.
+LADLED	(forma de ladle) (sustantivo) cucharon: Cuchara grande y de cabeza hemisférica utilizada para servir sopas y otros alimentos ricos en...
+LADLER	(forma de ladle) (sustantivo) cucharon: Cuchara grande y de cabeza hemisférica utilizada para servir sopas y otros alimentos ricos en...
+LADLES	(forma de ladle) (sustantivo) cucharon: Cuchara grande y de cabeza hemisférica utilizada para servir sopas y otros alimentos ricos en...
+LADLING	(forma de ladle) (sustantivo) cucharon: Cuchara grande y de cabeza hemisférica utilizada para servir sopas y otros alimentos ricos en...
+LADS	(forma de lad) (sustantivo) muchacho: Persona joven, en su infancia o mocedad. (también: joven)
+LADY	(sustantivo) dama: Título en respeto de una mujer.
+LADYBIRD	(sustantivo) mariquita: (Coccinella) Insecto coleóptero de cuerpo oscuro en la parte inferior y redondeado en la parte superior. Usualmente está cubierto con manchas de forma redondeada y color negro que contrastan con rojo o amarillo. Se alimenta de pulgones.
+LADYBIRDS	(forma de ladybird) (sustantivo) mariquita: (Coccinella) Insecto coleóptero de cuerpo oscuro en la parte inferior y redondeado en la parte...
+LADYBUG	(sustantivo) mariquita: (Coccinella) Insecto coleóptero de cuerpo oscuro en la parte inferior y redondeado en la parte superior. Usualmente está cubierto con manchas de forma redondeada y color negro que contrastan con rojo o amarillo. Se alimenta de pulgones. (también: chinita)
+LADYBUGS	(forma de ladybug) (sustantivo) mariquita: (Coccinella) Insecto coleóptero de cuerpo oscuro en la parte inferior y redondeado en la parte...
+LADYFINGER	(sustantivo) soletilla: Tipo de bizcocho dulce, ligero, muy esponjoso, y con forma alargada, aplanada y con los extremos redondeados.
+LADYFINGERS	(forma de ladyfinger) (sustantivo) soletilla: Tipo de bizcocho dulce, ligero, muy esponjoso, y con forma alargada, aplanada y con los...
+LAG	(sustantivo) lag se traduce como ⟪demora⟫, desfasaje\n(verbo) lag se traduce como ⟪demorarse⟫
+LAGGED	(forma de lag) (sustantivo) lag se traduce como ⟪demora⟫, desfasaje
+LAGGING	(forma de lag) (sustantivo) lag se traduce como ⟪demora⟫, desfasaje
+LAGGINGS	(forma de lag) (sustantivo) lag se traduce como ⟪demora⟫, desfasaje
+LAGOON	(sustantivo) estero: Desembocadura de un río.
+LAGOONS	(forma de lagoon) (sustantivo) estero: Desembocadura de un río.
+LAGS	(forma de lag) (sustantivo) lag se traduce como ⟪demora⟫, desfasaje
+LAID	(verbo) Pasado simple del verbo (to) lay: Acostar.
+LAIN	(forma de lie) (verbo) yacer: Estar en posición horizontal o supina (también: estar acostado, estar tumbado)
+LAIR	(sustantivo) madriguera: Refugio situado bajo tierra donde se recogen los animales para resguardarse del exterior y protegerse de sus enemigos naturales. (también: guarida)
+LAIRED	(forma de lair) (sustantivo) madriguera: Refugio situado bajo tierra donde se recogen los animales para resguardarse del exterior y...
+LAIRING	(forma de lair) (sustantivo) madriguera: Refugio situado bajo tierra donde se recogen los animales para resguardarse del exterior y...
+LAIRS	(forma de lair) (sustantivo) madriguera: Refugio situado bajo tierra donde se recogen los animales para resguardarse del exterior y...
+LAKE	(sustantivo) lago: Cuerpo de agua, generalmente dulce, de tamaño considerable, que se encuentra separado del mar.
+LAKED	(forma de lake) (sustantivo) lago: Cuerpo de agua, generalmente dulce, de tamaño considerable, que se encuentra separado del mar.
+LAKES	(sustantivo) Forma del plural de lake: Lago.
+LAKING	(forma de lake) (sustantivo) lago: Cuerpo de agua, generalmente dulce, de tamaño considerable, que se encuentra separado del mar.
+LAMA	(sustantivo) lama: Superior de los monjes en el budismo.
+LAMAS	(forma de lama) (sustantivo) lama: Superior de los monjes en el budismo.
+LAMB	(sustantivo) cordero: Cría de la oveja, de hasta un año, antes de ser borrego. (también: cordera)
+LAMBED	(forma de lamb) (sustantivo) cordero: Cría de la oveja, de hasta un año, antes de ser borrego. (también: cordera)
+LAMBER	(forma de lamb) (sustantivo) cordero: Cría de la oveja, de hasta un año, antes de ser borrego. (también: cordera)
+LAMBING	(forma de lamb) (sustantivo) cordero: Cría de la oveja, de hasta un año, antes de ser borrego. (también: cordera)
+LAMBS	(forma de lamb) (sustantivo) cordero: Cría de la oveja, de hasta un año, antes de ser borrego. (también: cordera)
+LAME	(adjetivo) cojo: Que camina con dificultad por la lesión o falta de una pierna o un pie. (también: rengo)\n(verbo) lame se traduce como encojar, ⟪descaderar⟫, dejar cojo
+LAMED	(forma de lame) (adjetivo) cojo: Que camina con dificultad por la lesión o falta de una pierna o un pie. (también: rengo)
+LAMELLA	(sustantivo) lamella se traduce como laminilla
+LAMELLAE	(forma de lamella) (sustantivo) lamella se traduce como laminilla
+LAMELLAS	(forma de lamella) (sustantivo) lamella se traduce como laminilla
+LAMENT	(verbo) plañir: Gemir y llorar, sollozando o clamando.
+LAMENTABLY	(adverbio) lamentablemente: De modo lamentable.
+LAMENTED	(forma de lament) (verbo) plañir: Gemir y llorar, sollozando o clamando.
+LAMENTEDLY	(forma de lament) (verbo) plañir: Gemir y llorar, sollozando o clamando.
+LAMENTING	(forma de lament) (verbo) plañir: Gemir y llorar, sollozando o clamando.
+LAMENTS	(forma de lament) (verbo) plañir: Gemir y llorar, sollozando o clamando.
+LAMER	(forma de lame) (adjetivo) cojo: Que camina con dificultad por la lesión o falta de una pierna o un pie. (también: rengo)
+LAMES	(forma de lame) (adjetivo) cojo: Que camina con dificultad por la lesión o falta de una pierna o un pie. (también: rengo)
+LAMEST	(forma de lame) (adjetivo) cojo: Que camina con dificultad por la lesión o falta de una pierna o un pie. (también: rengo)
+LAMING	(forma de lame) (adjetivo) cojo: Que camina con dificultad por la lesión o falta de una pierna o un pie. (también: rengo)
+LAMINITIS	(sustantivo) aguadura: Absceso que se produce dentro del casco de las caballerías.
+LAMINITISES	(forma de laminitis) (sustantivo) aguadura: Absceso que se produce dentro del casco de las caballerías.
+LAMMERGEYER	(sustantivo) quebrantahuesos: (Gypaetus barbatus) Especie de buitre, que se encuentra en Europa de sur, África, e India, caracterizado por su costumbre de remontar huesos y caparazones hasta grandes alturas y soltarlos para partirlos contra las rocas y así poder ingerirlos como alimento.
+LAMMERGEYERS	(forma de lammergeyer) (sustantivo) quebrantahuesos: (Gypaetus barbatus) Especie de buitre, que se encuentra en Europa de sur, África, e...
+LAMP	(sustantivo) lámpara: Dispositivo que soporta una luz artificial, como una bombilla eléctrica. Sus formas, tamaño y luminosidad varía de acuerdo a los espacios en los que se encuentre y el diseño de las mismas.
+LAMPED	(forma de lamp) (sustantivo) lámpara: Dispositivo que soporta una luz artificial, como una bombilla eléctrica. Sus formas, tamaño y...
+LAMPPOST	(sustantivo) farola: Pieza de mobiliario urbano que se encarga de iluminar las calles y plazas. Existen muchos modelos con diversas variaciones, pero básicamente es un mástil con algún sistema de iluminación.
+LAMPPOSTS	(forma de lamppost) (sustantivo) farola: Pieza de mobiliario urbano que se encarga de iluminar las calles y plazas. Existen muchos modelos...
+LAMPREY	(sustantivo) lamprea: Nombre común a unas cuarenta especies de cordados de la familia de los petromizóntidos (Petromyzontidae), sin mandíbulas afines a los peces, de cuerpo redondo, que se pegan a otras especies de peces y mamíferos para alimentarse de su sangre y líquidos corporales.
+LAMPREYS	(forma de lamprey) (sustantivo) lamprea: Nombre común a unas cuarenta especies de cordados de la familia de los petromizóntidos...
+LAMPS	(sustantivo) Forma del plural de lamp: Lámpara.
+LANCE	(sustantivo) rejón: Vara de madera de 1 a 1,5 m de largo, rematada por un rejón₁, usada en las corridas de toros para herir o matar al animal. (también: rejoncillo)
+LANCED	(forma de lance) (sustantivo) rejón: Vara de madera de 1 a 1,5 m de largo, rematada por un rejón₁, usada en las corridas de toros para...
+LANCEOLATE	(adjetivo) lanceolado: Que recuerda a una hoja de lanza por su forma, oblonga, con una sección media más ancha y el ápice puntiagudo.
+LANCER	(sustantivo) rejoneador: Jinete que rejonea (pica con el rejón al toro).
+LANCES	(forma de lance) (sustantivo) rejón: Vara de madera de 1 a 1,5 m de largo, rematada por un rejón₁, usada en las corridas de toros para...
+LANCING	(forma de lance) (sustantivo) rejón: Vara de madera de 1 a 1,5 m de largo, rematada por un rejón₁, usada en las corridas de toros para...
+LAND	(sustantivo) tierra: Superficie del planeta Tierra que no se encuentra cubierta por agua.\n(verbo) desembarcar: Llegar a un lugar o espacio de caracter cultural, político, empresarial, etc., con la intención de comenzar o desarrollar alguna actividad.
+LANDED	(adjetivo) hacendado: Que posee una o más haciendas (terrenos vastos dedicados a la agricultura o la ganadería). (también: terrateniente)\n(verbo) Pasado simple del verbo (to) land: Tierra.
+LANDFILL	(sustantivo) basurero: Lugar donde se deposita la basura. (también: vertedero, escombrera)\n(verbo) Depositar o enterrar algo en un vertedero.
+LANDFILLS	(forma de landfill) (sustantivo) basurero: Lugar donde se deposita la basura. (también: vertedero, escombrera)
+LANDING	(sustantivo) pasillo: Parte de paso de una casaque comunica diferentes habitaciones, salas, etc., (también: corredor)\n(verbo) Participio presente y gerundio del verbo (to) land, "que aterriza".
+LANDINGS	(forma de land) (sustantivo) tierra: Superficie del planeta Tierra que no se encuentra cubierta por agua.
+LANDLINE	(sustantivo) landline se traduce como teléfono fijo
+LANDLINES	(forma de landline) (sustantivo) landline se traduce como teléfono fijo
+LANDS	(forma de land) (sustantivo) tierra: Superficie del planeta Tierra que no se encuentra cubierta por agua.
+LANDSCAPE	(sustantivo) panorama: Por extensión, vista de un horizonte muy dilatado.\n(verbo) Embellecer con un jardín.
+LANDSCAPED	(forma de landscape) (sustantivo) panorama: Por extensión, vista de un horizonte muy dilatado.
+LANDSCAPES	(forma de landscape) (sustantivo) panorama: Por extensión, vista de un horizonte muy dilatado.
+LANDSCAPING	(forma de landscape) (sustantivo) panorama: Por extensión, vista de un horizonte muy dilatado.
+LANDSLIDE	(sustantivo) landslide se traduce como ⟪derrumbe⟫
+LANDSLIDES	(forma de landslide) (sustantivo) landslide se traduce como ⟪derrumbe⟫
+LANDSLIDING	(forma de landslide) (sustantivo) landslide se traduce como ⟪derrumbe⟫
+LANE	(sustantivo) carril: Marca en un camino, que van dejando las ruedas de los vehículos.
+LANELY	(forma de lane) (sustantivo) carril: Marca en un camino, que van dejando las ruedas de los vehículos.
+LANES	(forma de lane) (sustantivo) carril: Marca en un camino, que van dejando las ruedas de los vehículos.
+LANGUAGE	(sustantivo) idioma: Sistema para la comunicación de conceptos que utiliza sonidos hablados o representados con un sistema de símbolos. Usualmente está estructurado con gramática y un sistema de escritura como un alfabeto o silabario.
+LANGUAGES	(sustantivo) Forma del plural de language: Idioma.
+LANGUID	(adjetivo) lacio: Sin vigor, escaso de vitalidad o fuerza. (también: lánguido)
+LANGUISH	(verbo) languidecer: Perder la energía, el espíritu, el ánimo o el vigor.
+LANGUISHED	(forma de languish) (verbo) languidecer: Perder la energía, el espíritu, el ánimo o el vigor.
+LANGUISHES	(forma de languish) (verbo) languidecer: Perder la energía, el espíritu, el ánimo o el vigor.
+LANGUISHING	(forma de languish) (verbo) languidecer: Perder la energía, el espíritu, el ánimo o el vigor.
+LANK	(adjetivo) lacio: Dicho del pelo, que no presenta ondulaciones o rizos.
+LANKER	(forma de lank) (adjetivo) lacio: Dicho del pelo, que no presenta ondulaciones o rizos.
+LANKEST	(forma de lank) (adjetivo) lacio: Dicho del pelo, que no presenta ondulaciones o rizos.
+LANKIER	(forma de lanky) (adjetivo) desgarbado: Referido a personas, alto pero con mala proporción y movimiento torpe. (también: larguirucho)
+LANKIEST	(forma de lanky) (adjetivo) desgarbado: Referido a personas, alto pero con mala proporción y movimiento torpe. (también: larguirucho)
+LANKILY	(forma de lanky) (adjetivo) desgarbado: Referido a personas, alto pero con mala proporción y movimiento torpe. (también: larguirucho)
+LANKY	(adjetivo) desgarbado: Referido a personas, alto pero con mala proporción y movimiento torpe. (también: larguirucho)
+LANTERN	(sustantivo) farol: Especie de caja formada de vidrios o de otra materia trasparente, en que se pone la luz, para que alumbre y no se apague con el aire.
+LANTERNS	(forma de lantern) (sustantivo) farol: Especie de caja formada de vidrios o de otra materia trasparente, en que se pone la luz, para que...
+LANTHANIDE	(adjetivo) lantánido: Elemento químico del grupo del período seis de la tabla periódica, integrado por los quince (elementos) comprendidos del número atómico 57 al 71. Se le denomina «tierras raras», debido a que es raro encontrarlos en estado puro, y casi siempre aparecen en óxidos. Todos son trivalentes, aunque en...\n(sustantivo) lantánido: Elemento químico del grupo del período seis de la tabla periódica, integrado por los quince (elementos) comprendidos del número atómico 57 al 71. Se le denomina «tierras raras», debido a que es raro encontrarlos en estado puro, y casi siempre aparecen en óxidos. Todos son trivalentes, aunque en...
+LANTHANIDES	(forma de lanthanide) (adjetivo) lantánido: Elemento químico del grupo del período seis de la tabla periódica, integrado por los quince...
+LANTHANUM	(sustantivo) lanthanum se traduce como ⟪lantano⟫
+LANTHANUMS	(forma de lanthanum) (sustantivo) lanthanum se traduce como ⟪lantano⟫
+LANYARD	(sustantivo) dragona: Correa asida a la empuñadura de la espada o la pala del arco, que la une al brazo del usuario a fin de evitar su pérdida (también: acollador)
+LANYARDS	(forma de lanyard) (sustantivo) dragona: Correa asida a la empuñadura de la espada o la pala del arco, que la une al brazo del usuario a...
+LAP	(sustantivo) regazo: Cavidad interna que se forma entre las piernas de una persona sentada, desde la cintura hasta la rodilla.\n(verbo) lap se traduce como ⟪lamer⟫
+LAPIDARIES	(forma de lapidary) (adjetivo) abrillantador: Que se dedica a abrillantar piedras preciosas.
+LAPIDARY	(adjetivo) abrillantador: Que se dedica a abrillantar piedras preciosas.\n(sustantivo) abrillantador: Que se dedica a abrillantar piedras preciosas.
+LAPPED	(adjetivo) Estar rezagado varias vueltas en una carrera.\n(verbo) Pasado simple del verbo (to) lap: Regazo.
+LAPPING	(sustantivo) chapaleteo: Sonido del agua al chocar contra una superficie, especialmente el mar al golpear la orilla o la lluvia al caer.
+LAPS	(forma de lap) (sustantivo) regazo: Cavidad interna que se forma entre las piernas de una persona sentada, desde la cintura hasta la...
+LAPSE	(sustantivo) lapse se traduce como ⟪lapso⟫\n(verbo) incidir: Influir, repercutir; ser influyente sobre algo, causar un efecto en algo.
+LAPSED	(forma de lapse) (sustantivo) lapse se traduce como ⟪lapso⟫
+LAPSER	(forma de lapse) (sustantivo) lapse se traduce como ⟪lapso⟫
+LAPSES	(forma de lapse) (sustantivo) lapse se traduce como ⟪lapso⟫
+LAPSING	(forma de lapse) (sustantivo) lapse se traduce como ⟪lapso⟫
+LAPTOP	(sustantivo) portátil: Computadora, computador u ordenador liviano y fácil de llevar de un lugar a otro. (también: laptop)\n(adjetivo) portátil: Computadora, computador u ordenador liviano y fácil de llevar de un lugar a otro.
+LAPTOPS	(forma de laptop) (sustantivo) portátil: Computadora, computador u ordenador liviano y fácil de llevar de un lugar a otro. (también:...
+LAPWING	(sustantivo) lapwing se traduce como ⟪avefría|AVEFRIA⟫
+LAPWINGS	(forma de lapwing) (sustantivo) lapwing se traduce como ⟪avefría|AVEFRIA⟫
+LARCH	(sustantivo) alerce: (Larix) Por extensión, cualquier otra especie del mismo género que el alerce común, distribuído por Europa, Asía y Norteamérica. Todos son árboles de gran tamaño y hoja caduca. (también: lárice)
+LARCHES	(sustantivo) Forma del plural de larch: Alerce, lárice.
+LARD	(sustantivo) manteca: Grasa extraída de algunos animales, usualmente del cerdo, utilizada como medio para las frituras.
+LARDED	(forma de lard) (sustantivo) manteca: Grasa extraída de algunos animales, usualmente del cerdo, utilizada como medio para las frituras.
+LARDER	(sustantivo) despensa: Lugar donde se guarda la despensa₁. (también: alacena)
+LARDERS	(forma de larder) (sustantivo) despensa: Lugar donde se guarda la despensa₁. (también: alacena)
+LARDING	(forma de lard) (sustantivo) manteca: Grasa extraída de algunos animales, usualmente del cerdo, utilizada como medio para las frituras.
+LARDS	(forma de lard) (sustantivo) manteca: Grasa extraída de algunos animales, usualmente del cerdo, utilizada como medio para las frituras.
+LARGE	(adjetivo) grande: Superior en tamaño a un determinado patrón tomado como medida. (también: gran)
+LARGELY	(adverbio) En gran parte.
+LARGER	(sustantivo) Más grande, más largo, forma comparativa de large.
+LARGES	(forma de large) (adjetivo) grande: Superior en tamaño a un determinado patrón tomado como medida. (también: gran)
+LARGEST	(adjetivo) Superlativo de large.
+LARK	(sustantivo) lark se traduce como ⟪alondra⟫
+LARKED	(forma de lark) (sustantivo) lark se traduce como ⟪alondra⟫
+LARKING	(forma de lark) (sustantivo) lark se traduce como ⟪alondra⟫
+LARKS	(forma de lark) (sustantivo) lark se traduce como ⟪alondra⟫
+LARVA	(sustantivo) larva: Fase juvenil en el desarrollo de los animales con desarrollo indirecto (metamorfosis).
+LARVAE	(forma de larva) (sustantivo) larva: Fase juvenil en el desarrollo de los animales con desarrollo indirecto (metamorfosis).
+LARVAL	(adjetivo) larval se traduce como larvario
+LARVAS	(forma de larva) (sustantivo) larva: Fase juvenil en el desarrollo de los animales con desarrollo indirecto (metamorfosis).
+LARYNGEAL	(adjetivo) laringal: Propio o relativo de un fonema articulado en la laringe.
+LARYNGEALS	(forma de laryngeal) (adjetivo) laringal: Propio o relativo de un fonema articulado en la laringe.
+LARYNGES	(forma de larynx) (sustantivo) laringe: Órgano tubular musculocartilaginoso que comunica la tráquea con la faringe, mide unos cinco cm en...
+LARYNX	(sustantivo) laringe: Órgano tubular musculocartilaginoso que comunica la tráquea con la faringe, mide unos cinco cm en el ser humano y es rudimentario en las aves. Lo forman los cartílagos tiroides, cricoides, aritenoides, cuneiformes, corniculados o de Santorini y epiglotis, recubiertos de una mucosa; se articulan y...
+LARYNXES	(forma de larynx) (sustantivo) laringe: Órgano tubular musculocartilaginoso que comunica la tráquea con la faringe, mide unos cinco cm en...
+LASAGNA	(sustantivo) lasaña: Plato tradicional de la cocina italiana que se prepara con láminas de pasta superpuestas, rellenas de alguna salsa que usualmente contiene carne y queso.
+LASAGNAS	(forma de lasagna) (sustantivo) lasaña: Plato tradicional de la cocina italiana que se prepara con láminas de pasta superpuestas, rellenas...
+LASCAR	(sustantivo) lascar: Marino o militar del subcontinente indio u otros países al este del cabo de Buena Esperanza, empleados en buques europeos desde el siglo XVI hasta el comienzo del siglo XX.
+LASCARS	(forma de lascar) (sustantivo) lascar: Marino o militar del subcontinente indio u otros países al este del cabo de Buena Esperanza,...
+LASCIVIOUS	(adjetivo) lascivo: Que posee un marcado apetito carnal, en especial sexual. (también: sensual, cachero)
+LASCIVIOUSNESS	(sustantivo) lascivia: En particular, deseo sexual
+LASCIVIOUSNESSES	(forma de lasciviousness) (sustantivo) lascivia: En particular, deseo sexual
+LASER	(sustantivo) láser: Dispositivo que utiliza la emisión inducida para generar un haz de luz coherente tanto espacial como temporalmente.
+LASERS	(forma de laser) (sustantivo) láser: Dispositivo que utiliza la emisión inducida para generar un haz de luz coherente tanto espacial...
+LASH	(sustantivo) Parte extrema y flexible de un látigo.\n(verbo) lash se traduce como ⟪atar⟫, ⟪amarrar⟫
+LASHED	(forma de lash) (sustantivo) Parte extrema y flexible de un látigo.
+LASHES	(forma de lash) (sustantivo) Parte extrema y flexible de un látigo.
+LASHING	(forma de lash) (sustantivo) Parte extrema y flexible de un látigo.
+LASS	(sustantivo) niña: Por extension, chica adolescente que aún no llega a la mayoría de edad. (también: chica, chiquita)
+LASSES	(forma de lass) (sustantivo) niña: Por extension, chica adolescente que aún no llega a la mayoría de edad. (también: chica, chiquita)
+LASSITUDE	(sustantivo) lasitud: Condición de tener poca fuerza o energía.
+LASSITUDES	(forma de lassitude) (sustantivo) lasitud: Condición de tener poca fuerza o energía.
+LAST	(adjetivo) último: Que, en una serie de cosas o eventos, no tiene otro que lo siga.\n(adverbio) last se traduce como de/al último
+LASTED	(forma de last) (adjetivo) último: Que, en una serie de cosas o eventos, no tiene otro que lo siga.
+LASTER	(forma de last) (adjetivo) último: Que, en una serie de cosas o eventos, no tiene otro que lo siga.
+LASTERS	(forma de last) (adjetivo) último: Que, en una serie de cosas o eventos, no tiene otro que lo siga.
+LASTING	(sustantivo) Tela fuerte y duradera, empleada para recubrir calzado.\n(adjetivo) duradero: Que tiene larga duración, o que puede durar mucho.
+LASTINGS	(forma de last) (adjetivo) último: Que, en una serie de cosas o eventos, no tiene otro que lo siga.
+LASTS	(forma de last) (adjetivo) último: Que, en una serie de cosas o eventos, no tiene otro que lo siga.
+LATCH	(sustantivo) seguro: Alfiler curvado y cerrado sobre sí mismo de modo que solo se abre presionándolo en el lugar adecuado. (también: pestillo, pasador)
+LATCHED	(verbo) Participio pasado de latch.
+LATCHES	(forma de latch) (sustantivo) seguro: Alfiler curvado y cerrado sobre sí mismo de modo que solo se abre presionándolo en el lugar...
+LATCHING	(forma de latch) (sustantivo) seguro: Alfiler curvado y cerrado sobre sí mismo de modo que solo se abre presionándolo en el lugar...
+LATE	(adjetivo) último: En especial, el más reciente en una serie de cosas o eventos.\n(adverbio) tarde: A última hora, cuando el tiempo propicio ya ha pasado o cuando ya se cumplió un plazo acordado.
+LATELY	(adverbio) últimamente: Al cabo, finalmente. (también: recientemente)
+LATENCIES	(forma de latency) (sustantivo) latencia: Retraso entre el momento en que se inicia algo, y el momento en que uno de sus efectos comienza.
+LATENCY	(sustantivo) latencia: Retraso entre el momento en que se inicia algo, y el momento en que uno de sus efectos comienza.
+LATENT	(adjetivo) latente: Oculto y escondido.
+LATENTS	(forma de latent) (adjetivo) latente: Oculto y escondido.
+LATER	(adverbio) Comparativo de late: más tarde.\n(adjetivo) Comparativo de late: más tarde, más tardío.
+LATERAL	(adjetivo) lateral: Ubicado a un lado de algo.
+LATERALED	(forma de lateral) (adjetivo) lateral: Ubicado a un lado de algo.
+LATERALING	(forma de lateral) (adjetivo) lateral: Ubicado a un lado de algo.
+LATERALS	(forma de lateral) (adjetivo) lateral: Ubicado a un lado de algo.
+LATEST	(adjetivo) último: En especial, el más reciente en una serie de cosas o eventos.
+LATESTS	(forma de latest) (adjetivo) último: En especial, el más reciente en una serie de cosas o eventos.
+LATHE	(sustantivo) torno: Máquina herramienta que permite producir figuras de rotación mediante el rebaje de cuerpos cilíndricos. (también: máquina herramienta)
+LATHES	(forma de lathe) (sustantivo) torno: Máquina herramienta que permite producir figuras de rotación mediante el rebaje de cuerpos...
+LATINIZING	(adjetivo) latinizador: Que latiniza.
+LATITUDE	(sustantivo) latitud: Distancia angular, medida sobre un meridiano, entre la línea ecuatorial y el paralelo de una localidad terrestre (o de cualquier otro planeta). Se mide en grados sexagesimales.
+LATITUDES	(forma de latitude) (sustantivo) latitud: Distancia angular, medida sobre un meridiano, entre la línea ecuatorial y el paralelo de una...
+LATTER	(adjetivo) último: En especial, el más reciente en una serie de cosas o eventos.
+LAUD	(verbo) laud se traduce como ⟪elogiar⟫, ⟪alabar⟫\n(sustantivo) alabanza: Elogio o muestra de afecto o admiración dedicada a algo o a alguien. (también: elogio)
+LAUDABLE	(adjetivo) laudable: Que merece ser alabado, enaltecido, celebrado con palabras de valoración muy positiva. (también: loable, meritorio)
+LAUDANUM	(sustantivo) láudano: Preparación compuesta de vino blanco, opio, azafrán y otras sustancias.
+LAUDANUMS	(forma de laudanum) (sustantivo) láudano: Preparación compuesta de vino blanco, opio, azafrán y otras sustancias.
+LAUDATORY	(adjetivo) laudatorio: Que lauda, alaba o contiene alabanza (celebración o valoración positiva con palabras).
+LAUDED	(verbo) Pasado simple del verbo (to) laud: Elogiar, alabar.
+LAUDING	(forma de laud) (verbo) laud se traduce como ⟪elogiar⟫, ⟪alabar⟫
+LAUDS	(sustantivo) lauds se traduce como ⟪laudes⟫
+LAUGH	(sustantivo) laugh se traduce como ⟪risa⟫, ⟪carcajada⟫, ⟪risotada⟫\n(verbo) reír: Reírse (emitir sonidos de alegría con la boca). (también: carcajear)
+LAUGHED	(verbo) Pasado simple del verbo (to) laugh: Risa, carcajada, risotada.
+LAUGHING	(sustantivo) risa: Acto o efecto de reír, consistente en un movimiento de la boca y otras partes del rostro que expresa contento, alegría o placer.\n(verbo) Participio presente de laugh.
+LAUGHINGS	(forma de laugh) (sustantivo) laugh se traduce como ⟪risa⟫, ⟪carcajada⟫, ⟪risotada⟫
+LAUGHS	(sustantivo) Forma del plural de laugh: Risa, carcajada, risotada.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) laugh: Risa, carcajada, risotada.
+LAUGHTER	(sustantivo) El sonido de la risa; cualquier sonido similar.
+LAUGHTERS	(forma de laughter) (sustantivo) El sonido de la risa; cualquier sonido similar.
+LAUNCH	(verbo) lanzar: Brotar, florecer.
+LAUNCHED	(verbo) Pasado simple del verbo (to) launch: Lanzar.
+LAUNCHES	(forma de launch) (verbo) lanzar: Brotar, florecer.
+LAUNCHING	(forma de launch) (verbo) lanzar: Brotar, florecer.
+LAUNDER	(verbo) lavar: Limpiar con un medio líquido, especialmente con agua.
+LAUNDERED	(forma de launder) (verbo) lavar: Limpiar con un medio líquido, especialmente con agua.
+LAUNDERING	(forma de launder) (verbo) lavar: Limpiar con un medio líquido, especialmente con agua.
+LAUNDERS	(forma de launder) (verbo) lavar: Limpiar con un medio líquido, especialmente con agua.
+LAUNDRESS	(sustantivo) lavandera: (Motacilla spp.) Nombre común para varias especies de aves paseriformes, generalmente de plumaje gris y negro, con partes azules, blancas y amarillas según la especie, que tienen colas largas, las cuales sacuden a menudo.
+LAUNDRESSES	(forma de laundress) (sustantivo) lavandera: (Motacilla spp.) Nombre común para varias especies de aves paseriformes, generalmente de...
+LAUNDRIES	(forma de laundry) (sustantivo) lavandería: Tienda en que se recibe por pago ropa para lavar.
+LAUNDRY	(sustantivo) lavandería: Tienda en que se recibe por pago ropa para lavar.
+LAUREATE	(adjetivo) laureado: Se dice de las personas que se han recompensado por sus éxitos y logros, en especial de militares y poetas.\n(sustantivo) laureado: Se dice de las personas que se han recompensado por sus éxitos y logros, en especial de militares y poetas.
+LAUREATED	(forma de laureate) (adjetivo) laureado: Se dice de las personas que se han recompensado por sus éxitos y logros, en especial de militares...
+LAUREATES	(forma de laureate) (adjetivo) laureado: Se dice de las personas que se han recompensado por sus éxitos y logros, en especial de militares...
+LAUREATING	(forma de laureate) (adjetivo) laureado: Se dice de las personas que se han recompensado por sus éxitos y logros, en especial de militares...
+LAUREL	(sustantivo) laurel: (Laurus nobilis) Árbol lauráceo de hojas olorosas y madera resistente, considerado símbolo de victoria entre los antiguos griegos y romanos y usado en la cocina como especia.
+LAURELING	(forma de laurel) (sustantivo) laurel: (Laurus nobilis) Árbol lauráceo de hojas olorosas y madera resistente, considerado símbolo de...
+LAURELLING	(forma de laurel) (sustantivo) laurel: (Laurus nobilis) Árbol lauráceo de hojas olorosas y madera resistente, considerado símbolo de...
+LAVA	(sustantivo) lava: Mezcla de distintos minerales derretidos, que brota de la tierra en las erupciones volcánicas.
+LAVAS	(forma de lava) (sustantivo) lava: Mezcla de distintos minerales derretidos, que brota de la tierra en las erupciones volcánicas.
+LAVATORIES	(forma de lavatory) (adjetivo) inodoro: Aparato de un cuarto de baño que recoge y evacúa los excrementos humanos hacia la instalación de...
+LAVATORY	(adjetivo) inodoro: Aparato de un cuarto de baño que recoge y evacúa los excrementos humanos hacia la instalación de saneamiento y que –mediante un cierre de sifón de agua limpia– impide la salida de los olores de la alcantarilla hacia los espacios habitados.\n(sustantivo) inodoro: Aparato de un cuarto de baño que recoge y evacúa los excrementos humanos hacia la instalación de saneamiento y que –mediante un cierre de sifón de agua limpia– impide la salida de los olores de la alcantarilla hacia los espacios habitados.
+LAVENDER	(sustantivo) espliego: (Lavandula spp.) Planta labiada de flores azules que se utiliza en perfumería. (también: cantueso, lavanda)
+LAVENDERED	(forma de lavender) (sustantivo) espliego: (Lavandula spp.) Planta labiada de flores azules que se utiliza en perfumería. (también:...
+LAVENDERING	(forma de lavender) (sustantivo) espliego: (Lavandula spp.) Planta labiada de flores azules que se utiliza en perfumería. (también:...
+LAVENDERS	(forma de lavender) (sustantivo) espliego: (Lavandula spp.) Planta labiada de flores azules que se utiliza en perfumería. (también:...
+LAVISH	(adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫\n(verbo) prodigar: Tratándose de elogios, favores, etc., dispersarlos profusa y repetidamente.
+LAVISHED	(forma de lavish) (adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫
+LAVISHER	(forma de lavish) (adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫
+LAVISHERS	(forma de lavish) (adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫
+LAVISHES	(forma de lavish) (adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫
+LAVISHEST	(forma de lavish) (adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫
+LAVISHING	(forma de lavish) (adjetivo) lavish se traduce como ⟪lujoso⟫, ⟪magnífico|MAGNIFICO⟫, ⟪fastuoso⟫
+LAW	(sustantivo) law se traduce como ley₁₋₉
+LAWED	(forma de law) (sustantivo) law se traduce como ley₁₋₉
+LAWFUL	(adjetivo) lícito: Que es admisible o permitido por la ley o las normas. (también: válido, legal)
+LAWFULLY	(adverbio) legalmente: Conforme a la ley o al derecho constituido. (también: legítimamente)
+LAWFULNESS	(sustantivo) legalidad: Calidad de legal.
+LAWFULNESSES	(forma de lawfulness) (sustantivo) legalidad: Calidad de legal.
+LAWLESS	(adjetivo) ilícito: Que está fuera de lo legal, de lo moral o de las reglas establecidas. (también: ilegal)
+LAWLESSNESS	(sustantivo) ilegalidad: Falta de legalidad.
+LAWLESSNESSES	(forma de lawlessness) (sustantivo) ilegalidad: Falta de legalidad.
+LAWN	(sustantivo) césped: Hierba que cubre el suelo en los jardines.
+LAWNS	(forma de lawn) (sustantivo) césped: Hierba que cubre el suelo en los jardines.
+LAWRENCIUM	(sustantivo) laurencio: Es un elemento químico de la tabla periódica de los elementos, Tiene simbolo Lr y número atómico 103. Su isótopo mas estable es el 262Lr, con una vida media aproximada de 4 horas. Se sintetiza a partir del californio. (también: lawrencio)
+LAWRENCIUMS	(forma de lawrencium) (sustantivo) laurencio: Es un elemento químico de la tabla periódica de los elementos, Tiene simbolo Lr y número...
+LAWS	(sustantivo) Forma del plural de law: Ley₁₋₉.
+LAWSUIT	(sustantivo) demanda: Petición elevada a una instancia judicial.
+LAWSUITS	(forma de lawsuit) (sustantivo) demanda: Petición elevada a una instancia judicial.
+LAWYER	(sustantivo) abogado: Experto en derecho, acreditado con título universitario, que presta asistencia técnica jurídica aconsejando o defendiendo a alguna de las partes en un juicio.\n(verbo) Practicar la abogacía.
+LAWYERED	(forma de lawyer) (sustantivo) abogado: Experto en derecho, acreditado con título universitario, que presta asistencia técnica jurídica...
+LAWYERING	(forma de lawyer) (sustantivo) abogado: Experto en derecho, acreditado con título universitario, que presta asistencia técnica jurídica...
+LAWYERS	(forma de lawyer) (sustantivo) abogado: Experto en derecho, acreditado con título universitario, que presta asistencia técnica jurídica...
+LAX	(sustantivo) lax se traduce como ⟪salmón|SALMON⟫\n(adjetivo) laxo: Vago, impreciso. (también: flojo, sin tensión)
+LAXATIVE	(adjetivo) laxative se traduce como ⟪laxante⟫
+LAXATIVES	(forma de laxative) (adjetivo) laxative se traduce como ⟪laxante⟫
+LAXER	(forma de lax) (sustantivo) lax se traduce como ⟪salmón|SALMON⟫
+LAXEST	(forma de lax) (sustantivo) lax se traduce como ⟪salmón|SALMON⟫
+LAY	(verbo) lay se traduce como ⟪acostar⟫\n(sustantivo) lay se traduce como ⟪colocación|COLOCACION⟫, ⟪posición|POSICION⟫
+LAYED	(forma de lay) (verbo) lay se traduce como ⟪acostar⟫
+LAYER	(sustantivo) capa: Cierta proporción de una sustancia que cubre o envuelve a otra. (también: asentador, tongada)
+LAYERED	(forma de layer) (sustantivo) capa: Cierta proporción de una sustancia que cubre o envuelve a otra. (también: asentador, tongada)
+LAYERING	(forma de layer) (sustantivo) capa: Cierta proporción de una sustancia que cubre o envuelve a otra. (también: asentador, tongada)
+LAYERINGS	(forma de layer) (sustantivo) capa: Cierta proporción de una sustancia que cubre o envuelve a otra. (también: asentador, tongada)
+LAYERS	(forma de layer) (sustantivo) capa: Cierta proporción de una sustancia que cubre o envuelve a otra. (también: asentador, tongada)
+LAYING	(verbo) Participio presente y gerundio del verbo (to) lay: Acostar.
+LAYOUT	(sustantivo) disposición: Ordenación de algo de la forma conveniente para lograr un fin.
+LAYOUTS	(forma de layout) (sustantivo) disposición: Ordenación de algo de la forma conveniente para lograr un fin.
+LAYS	(sustantivo) Forma del plural de lay: Acostar.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) lay: Acostar.
+LAYUP	(sustantivo) bandeja: Jugada en que se encesta el balón saltando y apoyándolo en la cesta con una sola mano
+LAYUPS	(forma de layup) (sustantivo) bandeja: Jugada en que se encesta el balón saltando y apoyándolo en la cesta con una sola mano
+LAZIED	(forma de lazy) (adjetivo) perezoso: Que hace las cosas sin deseo de hacerlas, o no las hace por pereza. (también: vago, haragán)
+LAZIER	(forma de lazy) (adjetivo) perezoso: Que hace las cosas sin deseo de hacerlas, o no las hace por pereza. (también: vago, haragán)
+LAZIES	(forma de lazy) (adjetivo) perezoso: Que hace las cosas sin deseo de hacerlas, o no las hace por pereza. (también: vago, haragán)
+LAZIEST	(forma de lazy) (adjetivo) perezoso: Que hace las cosas sin deseo de hacerlas, o no las hace por pereza. (también: vago, haragán)
+LAZILY	(adverbio) perezosamente: De manera perezosa, o intensifica la cualidad perezosa.
+LAZINESS	(sustantivo) pereza: Falta de esfuerzo o dedicación para la realización de las tareas necesarias o prescritas. (también: vaguería, flojera)
+LAZINESSES	(forma de laziness) (sustantivo) pereza: Falta de esfuerzo o dedicación para la realización de las tareas necesarias o prescritas....
+LAZY	(adjetivo) perezoso: Que hace las cosas sin deseo de hacerlas, o no las hace por pereza. (también: vago, haragán)
+LAZYING	(forma de lazy) (adjetivo) perezoso: Que hace las cosas sin deseo de hacerlas, o no las hace por pereza. (también: vago, haragán)
+LEAD	(sustantivo) plomo: Elemento químico de la tabla periódica de los elementos, con símbolo Pb y número atómico 82, un metal pesado, dúctil, maleable, poco tenaz, de color azul grisáceo, y muy tóxico.\n(verbo) lead se traduce como emplomar
+LEADED	(forma de lead) (sustantivo) plomo: Elemento químico de la tabla periódica de los elementos, con símbolo Pb y número atómico 82, un...
+LEADEN	(adjetivo) plúmbeo: Hecho de plomo.
+LEADENLY	(forma de leaden) (adjetivo) plúmbeo: Hecho de plomo.
+LEADER	(sustantivo) líder: Persona que, en un grupo organizado, toma las decisiones y dirige la acción.
+LEADERS	(sustantivo) Forma del plural de leader: Líder.
+LEADERSHIP	(sustantivo) liderazgo: Condición, estado, capacidad o dignidad de líder (quien dirige u orienta a un grupo). (también: jefatura)
+LEADERSHIPS	(sustantivo) Forma del plural de leadership: Liderazgo, jefatura.
+LEADING	(adjetivo) Que dirige o guía.\n(verbo) Participio presente y gerundio del verbo (to) lead.
+LEADINGS	(forma de lead) (sustantivo) plomo: Elemento químico de la tabla periódica de los elementos, con símbolo Pb y número atómico 82, un...
+LEADS	(sustantivo) Forma del plural de lead: Plomo.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) lead: Plomo.
+LEAF	(sustantivo) hoja: Órgano vegetal, generalmente verde, fijado a un tallo o rama y cuya parte plana contiene numerosos vasos y nerviaciones. Su función principal es realizar la fotosíntesis.
+LEAFED	(forma de leaf) (sustantivo) hoja: Órgano vegetal, generalmente verde, fijado a un tallo o rama y cuya parte plana contiene numerosos...
+LEAFING	(forma de leaf) (sustantivo) hoja: Órgano vegetal, generalmente verde, fijado a un tallo o rama y cuya parte plana contiene numerosos...
+LEAFLET	(sustantivo) folíolo: Cada una de las partes en que se divide la lámina de una hoja compuesta (también: foliolo)
+LEAFLETED	(forma de leaflet) (sustantivo) folíolo: Cada una de las partes en que se divide la lámina de una hoja compuesta (también: foliolo)
+LEAFLETING	(forma de leaflet) (sustantivo) folíolo: Cada una de las partes en que se divide la lámina de una hoja compuesta (también: foliolo)
+LEAFLETS	(forma de leaflet) (sustantivo) folíolo: Cada una de las partes en que se divide la lámina de una hoja compuesta (también: foliolo)
+LEAFLETTED	(forma de leaflet) (sustantivo) folíolo: Cada una de las partes en que se divide la lámina de una hoja compuesta (también: foliolo)
+LEAFLETTING	(forma de leaflet) (sustantivo) folíolo: Cada una de las partes en que se divide la lámina de una hoja compuesta (también: foliolo)
+LEAFS	(forma de leaf) (sustantivo) hoja: Órgano vegetal, generalmente verde, fijado a un tallo o rama y cuya parte plana contiene numerosos...
+LEAGUE	(sustantivo) liga: Organización o agrupación de personas o entidades que comparten un interés o fin común, generalmente asociado con ciertos campos de actividad humana tales como los deportes, la artesanía, etc. (también: asociación)\n(verbo) ligar: Unir, juntar, enlazar o conectar dos o más personas, animales o cosas con un vínculo firme o estrecho, que puede ser físico o moral.
+LEAGUED	(forma de league) (sustantivo) liga: Organización o agrupación de personas o entidades que comparten un interés o fin común, generalmente...
+LEAGUES	(forma de league) (sustantivo) liga: Organización o agrupación de personas o entidades que comparten un interés o fin común, generalmente...
+LEAGUING	(forma de league) (sustantivo) liga: Organización o agrupación de personas o entidades que comparten un interés o fin común, generalmente...
+LEAK	(sustantivo) fuga: Pérdida de fluido líquido o gaseoso a través de un orificio, grieta o abertura accidentales. (también: escape)\n(verbo) Gotear, filtrarse, un líquido a través de una capa sólida.
+LEAKED	(forma de leak) (sustantivo) fuga: Pérdida de fluido líquido o gaseoso a través de un orificio, grieta o abertura accidentales....
+LEAKING	(forma de leak) (sustantivo) fuga: Pérdida de fluido líquido o gaseoso a través de un orificio, grieta o abertura accidentales....
+LEAKS	(forma de leak) (sustantivo) fuga: Pérdida de fluido líquido o gaseoso a través de un orificio, grieta o abertura accidentales....
+LEAN	(verbo) lean se traduce como incllinarse\n(adjetivo) delgado: Que tiene poca grasa. (también: flaco)
+LEANED	(verbo) Pasado simple del verbo (to) lean: Incllinarse.
+LEANER	(forma de lean) (verbo) lean se traduce como incllinarse
+LEANERS	(forma de lean) (verbo) lean se traduce como incllinarse
+LEANEST	(forma de lean) (verbo) lean se traduce como incllinarse
+LEANING	(sustantivo) inclinación: Acción y efecto de inclinar.\n(verbo) Participio presente y gerundio del verbo (to) lean: Incllinarse.
+LEANINGS	(forma de lean) (verbo) lean se traduce como incllinarse
+LEANS	(forma de lean) (verbo) lean se traduce como incllinarse
+LEANT	(forma de lean) (verbo) lean se traduce como incllinarse
+LEAP	(sustantivo) leap se traduce como ⟪salto⟫\n(verbo) saltar: Acción de un objeto que se separa rápidamente de un lugar y se detiene en otro.
+LEAPED	(verbo) Pasado simple del verbo (to) leap: Salto.
+LEAPING	(forma de leap) (sustantivo) leap se traduce como ⟪salto⟫
+LEAPS	(forma de leap) (sustantivo) leap se traduce como ⟪salto⟫
+LEAPT	(forma de leap) (sustantivo) leap se traduce como ⟪salto⟫
+LEARN	(verbo) aprender: Adquirir conocimiento o experiencia.
+LEARNED	(adjetivo) Erudito, que tiene mucho conocimiento o que ha estudiado mucho.\n(verbo) Pasado simple del verbo (to) learn: Aprender.
+LEARNER	(sustantivo) aprendiz: Que está aprendiendo los rudimentos de una disciplina o profesión.
+LEARNERS	(forma de learner) (sustantivo) aprendiz: Que está aprendiendo los rudimentos de una disciplina o profesión.
+LEARNING	(sustantivo) El acto, proceso o experiencia de la persona que adquiere conocimiento.\n(verbo) Participio presente y gerundio del verbo (to) learn.
+LEARNINGS	(forma de learn) (verbo) aprender: Adquirir conocimiento o experiencia.
+LEARNS	(forma de learn) (verbo) aprender: Adquirir conocimiento o experiencia.
+LEARNT	(verbo) Pasado simple del verbo (to) learn: Aprender.
+LEASE	(sustantivo) arrendamiento: Acción y efecto de arrendar. (también: llevanza)
+LEASED	(forma de lease) (sustantivo) arrendamiento: Acción y efecto de arrendar. (también: llevanza)
+LEASES	(forma de lease) (sustantivo) arrendamiento: Acción y efecto de arrendar. (también: llevanza)
+LEASH	(sustantivo) correa: En especial, las que unidas a un objeto o animal se emplean para sujetarlo o conducirlo.
+LEASHED	(forma de leash) (sustantivo) correa: En especial, las que unidas a un objeto o animal se emplean para sujetarlo o conducirlo.
+LEASHES	(forma de leash) (sustantivo) correa: En especial, las que unidas a un objeto o animal se emplean para sujetarlo o conducirlo.
+LEASHING	(forma de leash) (sustantivo) correa: En especial, las que unidas a un objeto o animal se emplean para sujetarlo o conducirlo.
+LEASING	(sustantivo) leasing: Operación financiera que consiste en el alquiler de los bienes necesarios, que se dispone durante un periodo de tiempo, con opción a comprarlos al final del contrato.
+LEASINGS	(forma de lease) (sustantivo) arrendamiento: Acción y efecto de arrendar. (también: llevanza)
+LEAST	(adjetivo) El más pequeño, la más pequeña.\n(adverbio) menos: Cuando acompaña a una cantidad, indica que hay un cierto número indeterminado e inferior de la misma.
+LEASTS	(forma de least) (adjetivo) El más pequeño, la más pequeña.
+LEATHER	(sustantivo) cuero: Material elástico y resistente obtenido depués de tratar el cuero₁ de los animales. (también: piel)
+LEATHERED	(forma de leather) (sustantivo) cuero: Material elástico y resistente obtenido depués de tratar el cuero₁ de los animales. (también: piel)
+LEATHERING	(forma de leather) (sustantivo) cuero: Material elástico y resistente obtenido depués de tratar el cuero₁ de los animales. (también: piel)
+LEATHERS	(forma de leather) (sustantivo) cuero: Material elástico y resistente obtenido depués de tratar el cuero₁ de los animales. (también: piel)
+LEAVE	(verbo) leave se traduce como ⟪salir⟫\n(sustantivo) licencia: Baja temporal, la baja que se otorga a un trabajador por un período de tiempo en casos de enfermedad, accidente, etc. (también: autorización)
+LEAVED	(forma de leave) (verbo) leave se traduce como ⟪salir⟫
+LEAVEN	(sustantivo) levadura: En especial, los que se emplean frescos, secos o congelados en gastronomía para el leudado del pan y la elaboración de cerveza y vino (también: fermento)\n(verbo) Este lema en este idioma es ampliable. Retira este aviso si la mayor parte de las acepciones ya están incluidas.
+LEAVENED	(forma de leaven) (sustantivo) levadura: En especial, los que se emplean frescos, secos o congelados en gastronomía para el leudado del...
+LEAVENING	(forma de leaven) (sustantivo) levadura: En especial, los que se emplean frescos, secos o congelados en gastronomía para el leudado del...
+LEAVENINGS	(forma de leaven) (sustantivo) levadura: En especial, los que se emplean frescos, secos o congelados en gastronomía para el leudado del...
+LEAVENS	(forma de leaven) (sustantivo) levadura: En especial, los que se emplean frescos, secos o congelados en gastronomía para el leudado del...
+LEAVES	(sustantivo) Forma del plural de leaf ('hojas'): Hoja.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) leave.
+LEAVING	(sustantivo) resto: Parte que queda de un todo tras haberle sido extraído algo. (también: remanente)\n(verbo) Dejando, saliendo, sobrando, participio presente del verbo leave.
+LEAVINGS	(forma de leave) (verbo) leave se traduce como ⟪salir⟫
+LECTERN	(sustantivo) atril: Soporte de madera o metálico inclinado, con o sin pedestal, para apoyar partituras, libros, misales... abiertos, lo cual facilita la lectura. (también: ambón, evangelistero)
+LECTERNS	(forma de lectern) (sustantivo) atril: Soporte de madera o metálico inclinado, con o sin pedestal, para apoyar partituras, libros,...
+LECTIN	(sustantivo) lectina: Proteína que se une a carbohidratos especificos, libres o que forman parte de deglicanos o glicoproteinas con una elevada especificidad, su principal papel está en los fenómenos de reconocimiento, tanto a nivel molecular como celular
+LECTINS	(forma de lectin) (sustantivo) lectina: Proteína que se une a carbohidratos especificos, libres o que forman parte de deglicanos o...
+LECTOR	(adjetivo) lector: Referido a un dispositivo electrónico; que procesa la información de un determinado soporte para convertirla en un tipo de señal que permita su reproducción. Lector de DVD.\n(sustantivo) lector: Referido a un dispositivo electrónico; que procesa la información de un determinado soporte para convertirla en un tipo de señal que permita su reproducción. Lector de DVD.
+LECTORS	(forma de lector) (adjetivo) lector: Referido a un dispositivo electrónico; que procesa la información de un determinado soporte para...
+LECTURE	(sustantivo) lecture se traduce como ⟪conferencia⟫\n(verbo) Dar una conferencia o clase o charla.
+LECTURED	(forma de lecture) (sustantivo) lecture se traduce como ⟪conferencia⟫
+LECTURER	(adjetivo) docente: Que enseña.
+LECTURERS	(forma de lecturer) (adjetivo) docente: Que enseña.
+LECTURES	(sustantivo) Forma del plural de lecture: Conferencia.
+LECTURING	(forma de lecture) (sustantivo) lecture se traduce como ⟪conferencia⟫
+LED	(verbo) Pasado simple del verbo (to) lead.
+LEE	(sustantivo) lee se traduce como ⟪sotavento⟫
+LEECH	(sustantivo) sanguijuela: (Hirudo medicinalis) Gusano anélido y hermafrodita ectoparásito que se alimenta chupando sangre de personas y animales. Vive en lugares húmedos y se adhiere a su huésped mediante a una ventosa. Mientras succiona sangre segrega anticoagulantes, vasodilatadores y anestésicos, motivos por lo que desde...
+LEECHED	(forma de leech) (sustantivo) sanguijuela: (Hirudo medicinalis) Gusano anélido y hermafrodita ectoparásito que se alimenta chupando...
+LEECHES	(forma de leech) (sustantivo) sanguijuela: (Hirudo medicinalis) Gusano anélido y hermafrodita ectoparásito que se alimenta chupando...
+LEECHING	(forma de leech) (sustantivo) sanguijuela: (Hirudo medicinalis) Gusano anélido y hermafrodita ectoparásito que se alimenta chupando...
+LEEK	(sustantivo) porro: (Allium ampeloprasum var. porrum) Variedad cultivar de la familia de las amarilidáceas, originaria de Europa y Asia Occidental, de hábito herbáceo, bienal, que se cultiva por sus hojas, bulbo y flores comestibles. (también: ajoporro)
+LEEKS	(forma de leek) (sustantivo) porro: (Allium ampeloprasum var. porrum) Variedad cultivar de la familia de las amarilidáceas, originaria...
+LEFT	(sustantivo) izquierda: Dirección hacia el lado izquierdo con respecto a un punto de referencia.
+LEFTER	(forma de leave) (verbo) leave se traduce como ⟪salir⟫
+LEFTEST	(forma de leave) (verbo) leave se traduce como ⟪salir⟫
+LEFTIST	(adjetivo) izquierdista: Que tiene ideas políticas de izquierda, o simpatiza con el izquierdismo.
+LEFTISTS	(forma de leftist) (adjetivo) izquierdista: Que tiene ideas políticas de izquierda, o simpatiza con el izquierdismo.
+LEFTOVER	(sustantivo) sobras: Parte que queda de algo, especialmente comida, después de usarlo o consumirlo.
+LEFTS	(forma de leave) (verbo) leave se traduce como ⟪salir⟫
+LEG	(sustantivo) pierna: Miembros inferiores del ser humano y posteriores de otros vertebrados terrestres, que se insertan en la cadera y se emplean para la locomoción.
+LEGACIES	(forma de legacy) (sustantivo) herencia: Bienes que recibe una persona cedidos por una persona que ha fallecido. (también: legado)
+LEGACY	(sustantivo) herencia: Bienes que recibe una persona cedidos por una persona que ha fallecido. (también: legado)\n(adjetivo) Sobrante del pasado; antiguo y desactualizado, heredado.
+LEGAL	(adjetivo) legal se traduce como legal₁₋₂\n(sustantivo) Persona que obra con respeto a la ley.
+LEGALISE	(verbo) legalise se traduce como legalizar, ⟪despenalizar⟫
+LEGALISED	(forma de legalise) (verbo) legalise se traduce como legalizar, ⟪despenalizar⟫
+LEGALISES	(forma de legalise) (verbo) legalise se traduce como legalizar, ⟪despenalizar⟫
+LEGALISING	(forma de legalise) (verbo) legalise se traduce como legalizar, ⟪despenalizar⟫
+LEGALITIES	(forma de legality) (sustantivo) legalidad: Calidad de legal.
+LEGALITY	(sustantivo) legalidad: Calidad de legal.
+LEGALIZATION	(sustantivo) legalization se traduce como legalización, ⟪despenalización|DESPENALIZACION⟫
+LEGALIZATIONS	(forma de legalization) (sustantivo) legalization se traduce como legalización, ⟪despenalización|DESPENALIZACION⟫
+LEGALIZE	(verbo) legalize se traduce como legalizar, ⟪despenalizar⟫
+LEGALIZED	(verbo) Pasado simple del verbo (to) legalize: Legalizar, despenalizar.
+LEGALIZER	(forma de legalize) (verbo) legalize se traduce como legalizar, ⟪despenalizar⟫
+LEGALIZES	(forma de legalize) (verbo) legalize se traduce como legalizar, ⟪despenalizar⟫
+LEGALIZING	(forma de legalize) (verbo) legalize se traduce como legalizar, ⟪despenalizar⟫
+LEGALLY	(adverbio) legalmente: Conforme a la ley o al derecho constituido.
+LEGALS	(forma de legal) (adjetivo) legal se traduce como legal₁₋₂
+LEGATO	(sustantivo) ligado: Conexión, unión o enlace entre letras en la escritura o los sonidos al hablar.
+LEGATOS	(forma de legato) (sustantivo) ligado: Conexión, unión o enlace entre letras en la escritura o los sonidos al hablar.
+LEGEND	(sustantivo) leyenda: Relato popular que narra una hazaña de la cual no se tiene certeza acerca de si efectivamente ocurrió o no.
+LEGENDARILY	(forma de legendary) (adjetivo) legendario: Dicho de una persona: que pasa a formar parte de las leyendas populares.
+LEGENDARY	(adjetivo) legendario: Dicho de una persona: que pasa a formar parte de las leyendas populares.
+LEGENDS	(sustantivo) Forma del plural de legend: Leyenda.
+LEGERDEMAIN	(sustantivo) legerdemain se traduce como ⟪escamoteo⟫, ⟪prestidigitación|PRESTIDIGITACION⟫
+LEGERDEMAINS	(forma de legerdemain) (sustantivo) legerdemain se traduce como ⟪escamoteo⟫, ⟪prestidigitación|PRESTIDIGITACION⟫
+LEGES	(forma de leg) (sustantivo) pierna: Miembros inferiores del ser humano y posteriores de otros vertebrados terrestres, que se insertan...
+LEGGING	(sustantivo) legging se traduce como legging (leguin), leggings, piernera
+LEGGINGS	(forma de legging) (sustantivo) legging se traduce como legging (leguin), leggings, piernera
+LEGIBLE	(adjetivo) legible: Que se puede leer, porque se entiendan las letras o caracteres.
+LEGION	(sustantivo) legión: Nombre que se les da a ciertas tropas militares.
+LEGIONARIES	(forma de legionary) (adjetivo) legionario: Que pertenece o concierne a la legión.
+LEGIONARY	(adjetivo) legionario: Que pertenece o concierne a la legión.\n(sustantivo) legionario: Que pertenece o concierne a la legión.
+LEGIONNAIRE	(adjetivo) legionario: Que pertenece o concierne a la legión.\n(sustantivo) legionario: Que pertenece o concierne a la legión.
+LEGIONNAIRES	(forma de legionnaire) (adjetivo) legionario: Que pertenece o concierne a la legión.
+LEGIONS	(forma de legion) (sustantivo) legión: Nombre que se les da a ciertas tropas militares.
+LEGISLATE	(verbo) legislate se traduce como legislar
+LEGISLATED	(forma de legislate) (verbo) legislate se traduce como legislar
+LEGISLATES	(forma de legislate) (verbo) legislate se traduce como legislar
+LEGISLATING	(forma de legislate) (verbo) legislate se traduce como legislar
+LEGISLATION	(sustantivo) legislación: Cuerpo de leyes de un Estado o con relación a alguna materia determinada.
+LEGISLATIONS	(sustantivo) Forma del plural de legislation: "legislaciones": Legislación.
+LEGISLATIVE	(adjetivo) legislativo: Aplícase al derecho o potestad de hacer leyes.
+LEGISLATIVELY	(adverbio) legislativamente: Según las leyes vigentes o el poder legislativo.
+LEGISLATIVES	(forma de legislative) (adjetivo) legislativo: Aplícase al derecho o potestad de hacer leyes.
+LEGISLATOR	(adjetivo) legislador: Persona que hace parte del organismo oficial habilitado para promulgar las leyes de un país o una nación.\n(sustantivo) legislador: Persona que hace parte del organismo oficial habilitado para promulgar las leyes de un país o una nación. (también: legisladora)
+LEGISLATORS	(forma de legislator) (adjetivo) legislador: Persona que hace parte del organismo oficial habilitado para promulgar las leyes de un país o...
+LEGISLATURE	(sustantivo) legislature se traduce como asamblea legislativa
+LEGISLATURES	(forma de legislature) (sustantivo) legislature se traduce como asamblea legislativa
+LEGITIMACIES	(forma de legitimacy) (sustantivo) legitimidad: Consentimiento que recibe el poder del pueblo.
+LEGITIMACY	(sustantivo) legitimidad: Consentimiento que recibe el poder del pueblo.
+LEGITIMATE	(adjetivo) legitimate se traduce como ⟪legítimo|LEGITIMO⟫\n(sustantivo) legitimate se traduce como hijo legítimo
+LEGITIMATED	(forma de legitimate) (adjetivo) legitimate se traduce como ⟪legítimo|LEGITIMO⟫
+LEGITIMATELY	(adverbio) legitimately se traduce como legítimamente
+LEGITIMATES	(forma de legitimate) (adjetivo) legitimate se traduce como ⟪legítimo|LEGITIMO⟫
+LEGITIMATING	(forma de legitimate) (adjetivo) legitimate se traduce como ⟪legítimo|LEGITIMO⟫
+LEGITIMIZING	(adjetivo) legitimador: Que legitima.
+LEGLESS	(adjetivo) ápodo: Que no tiene patas.
+LEGS	(sustantivo) Forma del plural de leg: Pierna
+LEGUME	(sustantivo) legumbre: Semilla que crece dentro de una legumbre₁, particularmente al ser comestible.
+LEGUMES	(forma de legume) (sustantivo) legumbre: Semilla que crece dentro de una legumbre₁, particularmente al ser comestible.
+LEISURE	(sustantivo) ocio: Tiempo libre donde no se realizan actividades laborales o de estudio que se puede dedicar a la recreación o al descanso (también: tiempo libre)\n(adjetivo) leisure se traduce como ⟪ocioso⟫
+LEISURES	(forma de leisure) (sustantivo) ocio: Tiempo libre donde no se realizan actividades laborales o de estudio que se puede dedicar a la...
+LEMMA	(sustantivo) lema: Proposición ya demostrada o tomada por axioma en la prueba de un teorema.
+LEMMAS	(forma de lemma) (sustantivo) lema: Proposición ya demostrada o tomada por axioma en la prueba de un teorema.
+LEMMATA	(forma de lemma) (sustantivo) lema: Proposición ya demostrada o tomada por axioma en la prueba de un teorema.
+LEMON	(sustantivo) limón: (Citrus × limon) Fruto cítrico obtenido del limonero. Es un hesperidio ovoide, con un pezón en el extremo distal, jugoso, con cáscara de color verde virando al amarillo, pulpa amarillenta y sabor moderadamente ácido, debido a la concentración de ácido cítrico en su jugo. Se aprovecha también la...
+LEMONADE	(sustantivo) Gaseosa, limonada; bebida hecha a base de limón.
+LEMONADES	(forma de lemonade) (sustantivo) Gaseosa, limonada; bebida hecha a base de limón.
+LEMONS	(forma de lemon) (sustantivo) limón: (Citrus × limon) Fruto cítrico obtenido del limonero. Es un hesperidio ovoide, con un pezón en el...
+LEND	(verbo) prestar: Entregar a uno dinero u otra cosa para que por algún tiempo tenga el uso de ella, con la obligación de restituir igual cantidad o la cosa misma.
+LENDING	(sustantivo) Participio presente y gerundio del verbo (to) lend.
+LENDS	(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) lend.
+LENGTH	(sustantivo) longitud: Magnitud física básica que permite la medida de la distancia que separa dos puntos en el espacio. Su unidad en el Sistema Internacional de Unidades es el metro.
+LENGTHENED	(adjetivo) alargado: Que es más largo que ancho.
+LENGTHIER	(forma de lengthy) (adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LENGTHIEST	(forma de lengthy) (adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LENGTHS	(forma de length) (sustantivo) longitud: Magnitud física básica que permite la medida de la distancia que separa dos puntos en el...
+LENGTHY	(adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.\n(sustantivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LENIENT	(adjetivo) indulgente: Fácil en perdonar y disimular los yerros o en conceder gracias.
+LENIENTLY	(adverbio) leniently se traduce como indulgentemente
+LENITIVE	(adjetivo) lenitivo: Forma de calmar una preocupación o sufrimiento.\n(sustantivo) lenitivo: Forma de calmar una preocupación o sufrimiento.
+LENITIVELY	(forma de lenitive) (adjetivo) lenitivo: Forma de calmar una preocupación o sufrimiento.
+LENITIVES	(forma de lenitive) (adjetivo) lenitivo: Forma de calmar una preocupación o sufrimiento.
+LENS	(sustantivo) lente: Disco de vidrio u otra sustancia transparente que por su forma refracta la luz procedente de un objeto y forma una imagen de éste.
+LENSED	(forma de lens) (sustantivo) lente: Disco de vidrio u otra sustancia transparente que por su forma refracta la luz procedente de un...
+LENSING	(forma de lens) (sustantivo) lente: Disco de vidrio u otra sustancia transparente que por su forma refracta la luz procedente de un...
+LENT	(verbo) Pasado simple del verbo (to) lend.
+LENTICEL	(sustantivo) lenticel se traduce como ⟪lenticela⟫
+LENTICELS	(forma de lenticel) (sustantivo) lenticel se traduce como ⟪lenticela⟫
+LENTIL	(sustantivo) lenteja: (Lens culinaris) Planta anual herbácea, de la familia de las Papilionáceas, con tallos de tres a cuatro decímetros, endebles, ramosos y estriados, hojas oblongas, estípulas lanceoladas, zarcillos poco arrollados, flores blancas con venas moradas, sobre un pedúnculo axilar, y fruto en vaina pequeña,...
+LENTILS	(forma de lentil) (sustantivo) lenteja: (Lens culinaris) Planta anual herbácea, de la familia de las Papilionáceas, con tallos de tres a...
+LEONINE	(adjetivo) leonino: Que pertenece o concierne al león.
+LEOPARD	(adjetivo) pardal: (Aconitum napellus) Planta vivaz de la familia de las Ranunculáceas de tallos erguidos y hojas palmeadas, alternas, flores azules con forma de casco. Crece junto a los arroyos de las cordilleras españolas. Es muy tóxica y unos cuatro gramos de su tubérculo son suficientes para matar a un hombre...\n(sustantivo) pardal: (Aconitum napellus) Planta vivaz de la familia de las Ranunculáceas de tallos erguidos y hojas palmeadas, alternas, flores azules con forma de casco. Crece junto a los arroyos de las cordilleras españolas. Es muy tóxica y unos cuatro gramos de su tubérculo son suficientes para matar a un hombre... (también: leopardo)
+LEOPARDS	(forma de leopard) (adjetivo) pardal: (Aconitum napellus) Planta vivaz de la familia de las Ranunculáceas de tallos erguidos y hojas...
+LEPER	(sustantivo) leproso: Que padece la lepra
+LEPERS	(forma de leper) (sustantivo) leproso: Que padece la lepra
+LEPIDOPTERAN	(adjetivo) lepidóptero: Se dice del orden de insectos que agrupa a mariposas y polillas, ambos grupos en sus estados juveniles se conocen como orugas. Poseen dos pares de alas membranosas cubiertas de escamas coloreadas, que utilizan en la termorregulación, el cortejo y la señalización y liban néctar.
+LEPIDOPTERANS	(forma de lepidopteran) (adjetivo) lepidóptero: Se dice del orden de insectos que agrupa a mariposas y polillas, ambos grupos en sus estados...
+LEPROSIES	(forma de leprosy) (sustantivo) lepra: Enfermedad infecciosa de la piel y los nervios que se manifiesta por tubérculos, úlceras y manchas.
+LEPROSY	(sustantivo) lepra: Enfermedad infecciosa de la piel y los nervios que se manifiesta por tubérculos, úlceras y manchas.
+LEPROUS	(adjetivo) leproso: Que padece la lepra
+LEPROUSLY	(forma de leprous) (adjetivo) leproso: Que padece la lepra
+LEPTA	(forma de lepton) (sustantivo) lepton se traduce como ⟪leptón|LEPTON⟫
+LEPTON	(sustantivo) lepton se traduce como ⟪leptón|LEPTON⟫
+LEPTONS	(forma de lepton) (sustantivo) lepton se traduce como ⟪leptón|LEPTON⟫
+LEPTOSPIROSIS	(sustantivo) leptospirosis: Enfermedad febril producida por la Leptospira interrogans, una bacteria del orden Spirochaetales, de la familia Leptospiraceae, que afecta a humanos y un amplio rango de animales, incluyendo a mamíferos, aves, anfibios, y reptiles. Los principales síntomas en la mayoría de los casos son fiebre,...
+LESBIAN	(sustantivo) lesbiana: Mujer que siente atracción sexual por otras mujeres. (también: bollo, safista)
+LESBIANS	(forma de lesbian) (sustantivo) lesbiana: Mujer que siente atracción sexual por otras mujeres. (también: bollo, safista)
+LESION	(sustantivo) lesión: Cambio dañino en la morfología o estructura de una parte del cuerpo u organismo al sufrir detrimento a consecuencia de un golpe, una herida o una enfermedad.
+LESIONED	(forma de lesion) (sustantivo) lesión: Cambio dañino en la morfología o estructura de una parte del cuerpo u organismo al sufrir...
+LESIONS	(forma de lesion) (sustantivo) lesión: Cambio dañino en la morfología o estructura de una parte del cuerpo u organismo al sufrir...
+LESS	(adverbio) menos: Comparativo irregular de poco, que indica disminución o inferioridad.\n(preposición) menos: Comparativo irregular de poco, que indica disminución o inferioridad.
+LESSEE	(adjetivo) arrendatario: Se dice de la persona que adquiere por precio (alquila, arrienda) el aprovechamiento temporal de muebles, inmuebles o servicios.
+LESSEES	(forma de lessee) (adjetivo) arrendatario: Se dice de la persona que adquiere por precio (alquila, arrienda) el aprovechamiento temporal...
+LESSER	(adjetivo) menor: Comparativo irregular de pequeño.
+LESSON	(sustantivo) lección: Introducción o conjunto de conocimientos que teóricos o prácticos que en cada vez da a los discípulos el maestro de una ciencia, arte, oficio o habilidad.
+LESSONED	(forma de lesson) (sustantivo) lección: Introducción o conjunto de conocimientos que teóricos o prácticos que en cada vez da a los...
+LESSONING	(forma de lesson) (sustantivo) lección: Introducción o conjunto de conocimientos que teóricos o prácticos que en cada vez da a los...
+LESSONS	(forma de lesson) (sustantivo) lección: Introducción o conjunto de conocimientos que teóricos o prácticos que en cada vez da a los...
+LEST	(conjunción) Para que no.
+LET	(verbo) dejar: Hacer que algo o alguien no sea tocado, ni cambie, ni sufra algún trastorno o modificación. (también: permitir)
+LETHAL	(adjetivo) letal: Que provoca o puede causar la muerte
+LETHALLY	(forma de lethal) (adjetivo) letal: Que provoca o puede causar la muerte
+LETHALS	(forma de lethal) (adjetivo) letal: Que provoca o puede causar la muerte
+LETHARGIC	(adjetivo) lethargic se traduce como ⟪letárgico|LETARGICO⟫
+LETHARGIES	(forma de lethargy) (sustantivo) letargo: Inactividad y estado de reposo absoluto en que algunos animales permanecen durante ciertos...
+LETHARGY	(sustantivo) letargo: Inactividad y estado de reposo absoluto en que algunos animales permanecen durante ciertos periodos de tiempo
+LETHEAN	(adjetivo) leteo: Que pertenece o concierne al Lete o Leteo, río del Hades cuyas aguas, en la antigua tradición griega y romana, causan el olvido.
+LETS	(forma de let) (verbo) dejar: Hacer que algo o alguien no sea tocado, ni cambie, ni sufra algún trastorno o modificación. (también:...
+LETTER	(sustantivo) letra: Símbolo gráfico de un alfabeto.\n(verbo) Marcar con letras, escribir.
+LETTERED	(forma de letter) (sustantivo) letra: Símbolo gráfico de un alfabeto.
+LETTERING	(forma de letter) (sustantivo) letra: Símbolo gráfico de un alfabeto.
+LETTERINGS	(forma de letter) (sustantivo) letra: Símbolo gráfico de un alfabeto.
+LETTERS	(sustantivo) Forma del plural de letter: Letra.
+LETTING	(verbo) Participio presente y gerundio del verbo (to) let.\n(sustantivo) renta: Cantidad de dinero que se paga por el arrendamiento₁ de un bien.
+LETTUCE	(sustantivo) lettuce se traduce como ⟪lechuga⟫
+LETTUCES	(forma de lettuce) (sustantivo) lettuce se traduce como ⟪lechuga⟫
+LEUCINE	(sustantivo) leucina: Uno de los nueve aminoácidos que son esenciales para el ser humano.
+LEUCINES	(forma de leucine) (sustantivo) leucina: Uno de los nueve aminoácidos que son esenciales para el ser humano.
+LEUCOMA	(sustantivo) leucoma: Mancha de color blanco que afecta la parte transparente de la córnea del ojo
+LEUCOMAS	(forma de leucoma) (sustantivo) leucoma: Mancha de color blanco que afecta la parte transparente de la córnea del ojo
+LEUKEMIA	(sustantivo) leucemia: Cáncer en la sangre, es un grupo de enfermedades malignas de la médula ósea (cáncer hematológico ) que provoca un aumento incontrolado de leucocitos (glóbulos blancos) clonales en la médula ósea.
+LEUKEMIAS	(forma de leukemia) (sustantivo) leucemia: Cáncer en la sangre, es un grupo de enfermedades malignas de la médula ósea (cáncer hematológico...
+LEUKOCYTE	(sustantivo) leucocito: Célula de la sangre y de la linfa, que no posee hemoglobina, por lo que contrasta con los glóbulos rojos por su falta de coloración. Puede ser de varios tipos diferentes y cumple un papel fundamental en la lucha contra las infecciones.
+LEUKOCYTES	(forma de leukocyte) (sustantivo) leucocito: Célula de la sangre y de la linfa, que no posee hemoglobina, por lo que contrasta con los...
+LEVEE	(sustantivo) malecón: Murallón o terraplén que detiene el flujo del agua en playas o en las orillas de los ríos.
+LEVEEING	(forma de levee) (sustantivo) malecón: Murallón o terraplén que detiene el flujo del agua en playas o en las orillas de los ríos.
+LEVEES	(forma de levee) (sustantivo) malecón: Murallón o terraplén que detiene el flujo del agua en playas o en las orillas de los ríos.
+LEVEL	(adjetivo) level se traduce como ⟪nivelado⟫\n(sustantivo) level se traduce como ⟪nivel⟫
+LEVELED	(forma de level) (adjetivo) level se traduce como ⟪nivelado⟫
+LEVELING	(forma de level) (adjetivo) level se traduce como ⟪nivelado⟫
+LEVELLED	(forma de level) (adjetivo) level se traduce como ⟪nivelado⟫
+LEVELLER	(adjetivo) leveller se traduce como ⟪nivelador⟫\n(sustantivo) leveller se traduce como ⟪desnivel⟫
+LEVELLERS	(forma de leveller) (adjetivo) leveller se traduce como ⟪nivelador⟫
+LEVELLING	(adjetivo) nivelador: Que nivela.
+LEVELLY	(adverbio) amablemente: De un modo amable o gentil; cortésmente.
+LEVELS	(sustantivo) Forma del plural de level: Nivelado.
+LEVER	(verbo) levantar: Mover algo incrementando su altura. (también: centrarse en)\n(sustantivo) palanca: Máquina simple compuesta por una barra rígida que puede girar libremente alrededor de un punto de apoyo, o fulcro. Puede utilizarse para amplificar la fuerza mecánica que se aplica a un objeto, o para incrementar la distancia recorrida por un objeto en respuesta a la aplicación de una fuerza.
+LEVERAGE	(sustantivo) leverage se traduce como apalancamiento, ⟪palanqueo⟫, ⟪palanca⟫\n(verbo) explotar: Dicho de una variable: diverger. (también: aprovechar, usar)
+LEVERAGED	(forma de leverage) (sustantivo) leverage se traduce como apalancamiento, ⟪palanqueo⟫, ⟪palanca⟫
+LEVERAGES	(forma de leverage) (sustantivo) leverage se traduce como apalancamiento, ⟪palanqueo⟫, ⟪palanca⟫
+LEVERAGING	(forma de leverage) (sustantivo) leverage se traduce como apalancamiento, ⟪palanqueo⟫, ⟪palanca⟫
+LEVERED	(forma de lever) (verbo) levantar: Mover algo incrementando su altura. (también: centrarse en)
+LEVERET	(sustantivo) leveret se traduce como ⟪lebrato⟫
+LEVERETS	(forma de leveret) (sustantivo) leveret se traduce como ⟪lebrato⟫
+LEVERING	(forma de lever) (verbo) levantar: Mover algo incrementando su altura. (también: centrarse en)
+LEVERS	(forma de lever) (verbo) levantar: Mover algo incrementando su altura. (también: centrarse en)
+LEVIED	(forma de levy) (sustantivo) gravamen: Carga, obligación que pesa sobre alguno, de ejecutar o consentir una cosa.
+LEVIES	(forma de levy) (sustantivo) gravamen: Carga, obligación que pesa sobre alguno, de ejecutar o consentir una cosa.
+LEVITATE	(verbo) levitar: Flotar en el aire, alzarse una persona u objeto sin que nada la sujete.
+LEVITATED	(forma de levitate) (verbo) levitar: Flotar en el aire, alzarse una persona u objeto sin que nada la sujete.
+LEVITATES	(forma de levitate) (verbo) levitar: Flotar en el aire, alzarse una persona u objeto sin que nada la sujete.
+LEVITATING	(forma de levitate) (verbo) levitar: Flotar en el aire, alzarse una persona u objeto sin que nada la sujete.
+LEVITATION	(sustantivo) levitación: Acción y efecto de quedar algo o alguien suspendido en el aire sin que en apariencia nada lo sujete.
+LEVITATIONS	(forma de levitation) (sustantivo) levitación: Acción y efecto de quedar algo o alguien suspendido en el aire sin que en apariencia nada lo...
+LEVITIES	(forma de levity) (sustantivo) levity se traduce como ⟪levedad⟫
+LEVITY	(sustantivo) levity se traduce como ⟪levedad⟫
+LEVOROTATORY	(adjetivo) levógiro: dícese del enantiomero cuya disolución provoca el giro a la izquierda del plano de la luz polarizada.
+LEVY	(sustantivo) gravamen: Carga, obligación que pesa sobre alguno, de ejecutar o consentir una cosa.
+LEVYING	(forma de levy) (sustantivo) gravamen: Carga, obligación que pesa sobre alguno, de ejecutar o consentir una cosa.
+LEWD	(adjetivo) lascivo: Que posee un marcado apetito carnal, en especial sexual. (también: cachero, liviano)\n(sustantivo) liviano: Desenfrenado en el apetito sexual.
+LEWDER	(forma de lewd) (adjetivo) lascivo: Que posee un marcado apetito carnal, en especial sexual. (también: cachero, liviano)
+LEWDEST	(forma de lewd) (adjetivo) lascivo: Que posee un marcado apetito carnal, en especial sexual. (también: cachero, liviano)
+LEWDNESS	(sustantivo) obscenidad: Condición o carácter de obsceno. (también: indecencia)
+LEWDNESSES	(forma de lewdness) (sustantivo) obscenidad: Condición o carácter de obsceno. (también: indecencia)
+LEXEME	(sustantivo) lexema: Cualquier unidad mínima del sistema léxico en su forma canónica.
+LEXEMES	(forma de lexeme) (sustantivo) lexema: Cualquier unidad mínima del sistema léxico en su forma canónica.
+LEXICAL	(sustantivo) léxico: Relativo al vocabulario, a las palabras y su significado.\n(adjetivo) léxico: Relativo al vocabulario, a las palabras y su significado. (también: lexical)
+LEXICALISATION	(sustantivo) lexicalización: Proceso por el que una frase u otro elemento del idioma se hace funcionar como si fuera una sola palabra o unidad léxica.
+LEXICALISATIONS	(forma de lexicalisation) (sustantivo) lexicalización: Proceso por el que una frase u otro elemento del idioma se hace funcionar como si fuera...
+LEXICALIZATION	(sustantivo) lexicalización: Proceso por el que una frase u otro elemento del idioma se hace funcionar como si fuera una sola palabra o unidad léxica.
+LEXICALIZATIONS	(forma de lexicalization) (sustantivo) lexicalización: Proceso por el que una frase u otro elemento del idioma se hace funcionar como si fuera...
+LEXICALIZE	(verbo) lexicalizar: Emplear un elemento del idioma, en particular una frase, como si fuera una sola palabra o unidad léxica. (también: lexicalizarse)
+LEXICALIZED	(forma de lexicalize) (verbo) lexicalizar: Emplear un elemento del idioma, en particular una frase, como si fuera una sola palabra o unidad...
+LEXICALIZES	(forma de lexicalize) (verbo) lexicalizar: Emplear un elemento del idioma, en particular una frase, como si fuera una sola palabra o unidad...
+LEXICALIZING	(forma de lexicalize) (verbo) lexicalizar: Emplear un elemento del idioma, en particular una frase, como si fuera una sola palabra o unidad...
+LEXICALLY	(adverbio) léxicamente: De un modo léxico, con referencia al vocabulario y los significados. (también: lexicalmente)
+LEXICOGRAPHER	(sustantivo) lexicógrafo: Persona versada en lexicografía, y que se encarga de copilar los vocablos que han de entrar en un léxico.
+LEXICOGRAPHERS	(forma de lexicographer) (sustantivo) lexicógrafo: Persona versada en lexicografía, y que se encarga de copilar los vocablos que han de entrar...
+LEXICOGRAPHIC	(adjetivo) lexicográfico: Que pertenece o concierne a la lexicografía.
+LEXICOGRAPHICALLY	(adverbio) lexicográficamente: De un modo lexicográfico, con referencia a la composición de diccionarios, o al estudio del vocabulario y los significados.
+LEXICOGRAPHIES	(forma de lexicography) (sustantivo) lexicografía: Técnica y práctica de la compilación de diccionarios.
+LEXICOGRAPHY	(sustantivo) lexicografía: Técnica y práctica de la compilación de diccionarios.
+LEXICOLOGIES	(forma de lexicology) (sustantivo) lexicología: Estudio de las palabras y los vínculos entre ellas, especialmente en relación con su...
+LEXICOLOGIST	(sustantivo) lexicólogo: Persona que estudia lexicología, es decir, la composición y origen de las palabras así como los vínculos entre ellas, especialmente en relación con su significado o valor léxico.
+LEXICOLOGISTS	(forma de lexicologist) (sustantivo) lexicólogo: Persona que estudia lexicología, es decir, la composición y origen de las palabras así como...
+LEXICOLOGY	(sustantivo) lexicología: Estudio de las palabras y los vínculos entre ellas, especialmente en relación con su significado o valor léxico.
+LIABILITY	(sustantivo) responsabilidad: Obligación y/o capacidad de responder a los actos propios y en algunos casos de los ajenos.
+LIABLE	(adjetivo) responsable: Agente causante de alguna circunstancia generalmente desfavorable.
+LIANA	(sustantivo) bejuco: Planta trepadora, retorcida y nudosa, no siempre leñosa, propia de la jungla y que trepan a los árboles en busca de sol.
+LIANAS	(forma de liana) (sustantivo) bejuco: Planta trepadora, retorcida y nudosa, no siempre leñosa, propia de la jungla y que trepan a los...
+LIAR	(sustantivo) mentiroso: Se dice de la persona que falta a la verdad, que miente. (también: embustero)
+LIARS	(forma de liar) (sustantivo) mentiroso: Se dice de la persona que falta a la verdad, que miente. (también: embustero)
+LIBATION	(sustantivo) libación: Sacrificio religioso que consiste en derramar un líquido en honor a un dios.
+LIBATIONS	(forma de libation) (sustantivo) libación: Sacrificio religioso que consiste en derramar un líquido en honor a un dios.
+LIBEL	(sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)\n(verbo) injuriar: Ofender con palabras o acciones. (también: difamar)
+LIBELED	(forma de libel) (sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)
+LIBELING	(forma de libel) (sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)
+LIBELLED	(forma de libel) (sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)
+LIBELLER	(forma de libel) (sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)
+LIBELLING	(forma de libel) (sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)
+LIBELS	(forma de libel) (sustantivo) calumnia: Mentira que se divulga para dañar. (también: libelo)
+LIBERAL	(adjetivo) En lo que respecta a las artes y ciencias cuyo estudio se considera que proporciona conocimientos generales, en contraposición a la formación profesional/ocupacional, técnica o mecánica.\n(sustantivo) Alguien con opiniones liberales, que apoya la libertad individual.
+LIBERALISM	(sustantivo) liberalismo: Ideología que afirma la prioridad de la libertad de acción individual, promoviendo la reducción de la intervención de instituciones tales como el Estado al mínimo indispensable
+LIBERALISMS	(forma de liberalism) (sustantivo) liberalismo: Ideología que afirma la prioridad de la libertad de acción individual, promoviendo la...
+LIBERALS	(forma de liberal) (adjetivo) En lo que respecta a las artes y ciencias cuyo estudio se considera que proporciona conocimientos generales,...
+LIBERATE	(verbo) liberar: Poner fin a una ocupación militar u otro yugo. (también: librar, libertar)
+LIBERATED	(forma de liberate) (verbo) liberar: Poner fin a una ocupación militar u otro yugo. (también: librar, libertar)
+LIBERATES	(forma de liberate) (verbo) liberar: Poner fin a una ocupación militar u otro yugo. (también: librar, libertar)
+LIBERATING	(forma de liberate) (verbo) liberar: Poner fin a una ocupación militar u otro yugo. (también: librar, libertar)
+LIBERATION	(sustantivo) liberación: Dícese del acto de dejar en libertad.
+LIBERATIONS	(forma de liberation) (sustantivo) liberación: Dícese del acto de dejar en libertad.
+LIBERTARIAN	(sustantivo) libertario: Partidario del libertarismo.
+LIBERTARIANISM	(sustantivo) libertarismo: Filosofía política que sostiene que la sociedad debe gobernarse permitiendo todo acuerdo voluntario y emplear la fuerza sólo para la protección de las libertades individuales.
+LIBERTARIANISMS	(forma de libertarianism) (sustantivo) libertarismo: Filosofía política que sostiene que la sociedad debe gobernarse permitiendo todo acuerdo...
+LIBERTARIANS	(forma de libertarian) (sustantivo) libertario: Partidario del libertarismo.
+LIBERTIES	(sustantivo) Forma del plural de liberty: Libertad.
+LIBERTY	(sustantivo) libertad: Estado en el cual fuerzas ajenas no imponen su criterio, aplicable física o moralmente sobre la propia decisión del sujeto.
+LIBIDO	(sustantivo) libido: Deseo sexual.
+LIBIDOS	(forma de libido) (sustantivo) libido: Deseo sexual.
+LIBRARIAN	(sustantivo) bibliotecario: Persona que administra, cuida y organiza una biblioteca.
+LIBRARIANS	(sustantivo) Forma del plural de librarian: Bibliotecario.
+LIBRARIANSHIP	(adjetivo) bibliotecológico: Que pertenece o concierne a la bibliotecología.
+LIBRARIANSHIPS	(forma de librarianship) (adjetivo) bibliotecológico: Que pertenece o concierne a la bibliotecología.
+LIBRARIES	(sustantivo) Forma del plural de library: Biblioteca.
+LIBRARY	(sustantivo) biblioteca: Lugar donde se almacenan libros para su lectura.
+LIBRETTI	(forma de libretto) (sustantivo) libreto: Obra de teatro o diálogo que se escribe para musicalizarse, como en óperas, zarzuelas y musicales.
+LIBRETTO	(sustantivo) libreto: Obra de teatro o diálogo que se escribe para musicalizarse, como en óperas, zarzuelas y musicales.
+LIBRETTOS	(forma de libretto) (sustantivo) libreto: Obra de teatro o diálogo que se escribe para musicalizarse, como en óperas, zarzuelas y musicales.
+LICE	(sustantivo) Forma del plural de louse: Piojo.
+LICENSE	(sustantivo) license se traduce como ⟪licencia⟫\n(verbo) autorizar: Dar a alguien autoridad o facultad para hacer algo. (también: permitir)
+LICENSED	(adjetivo) autorizado: Participio de autorizar.\n(verbo) Pasado simple del verbo (to) license: Licencia.
+LICENSES	(forma de license) (sustantivo) license se traduce como ⟪licencia⟫
+LICENSING	(adjetivo) autorizante: Que autoriza.
+LICK	(sustantivo) lick se traduce como ⟪lamida⟫, ⟪lenguetazo⟫\n(verbo) lick se traduce como ⟪lamer⟫
+LICKED	(forma de lick) (sustantivo) lick se traduce como ⟪lamida⟫, ⟪lenguetazo⟫
+LICKING	(forma de lick) (sustantivo) lick se traduce como ⟪lamida⟫, ⟪lenguetazo⟫
+LICKINGS	(forma de lick) (sustantivo) lick se traduce como ⟪lamida⟫, ⟪lenguetazo⟫
+LICKS	(sustantivo) Forma del plural de lick: Lamida, lenguetazo.
+LICTOR	(sustantivo) lictor: Ministro de justicia entre los romanos, que precedía con las fasces a los cónsules y a otros magistrados.
+LICTORS	(forma de lictor) (sustantivo) lictor: Ministro de justicia entre los romanos, que precedía con las fasces a los cónsules y a otros...
+LID	(sustantivo) tapadera: Parte superior movediza que no cierra, si no que cubre, y generalmente se usa en las ollas, braseros, etc. (también: tapa, tapón)\n(verbo) tapar: Obstruir la visión un objeto o persona situado por delante de uno. (también: cerrar)
+LIDDING	(forma de lid) (sustantivo) tapadera: Parte superior movediza que no cierra, si no que cubre, y generalmente se usa en las ollas,...
+LIDS	(forma de lid) (sustantivo) tapadera: Parte superior movediza que no cierra, si no que cubre, y generalmente se usa en las ollas,...
+LIE	(verbo) yacer: Estar en posición horizontal o supina (también: estar acostado, estar tumbado)\n(sustantivo) mentira: Acción o efecto de mentir.
+LIED	(forma de lie) (verbo) yacer: Estar en posición horizontal o supina (también: estar acostado, estar tumbado)
+LIEDER	(forma de lie) (verbo) yacer: Estar en posición horizontal o supina (también: estar acostado, estar tumbado)
+LIES	(verbo) Tercera persona del singular (he, she, it) del presente simple de lie: Yacer, estar acostado, estar tumbado.
+LIEUTENANT	(sustantivo) teniente: El que ejerce el cargo o ministerio de otro, y es como sustituto suyo.
+LIEUTENANTS	(sustantivo) Forma del plural de lieutenant: Teniente.
+LIFE	(sustantivo) vida: Estado que precede a la muerte y sigue al nacimiento de los seres orgánicos.
+LIFEGUARD	(sustantivo) salvavida: Persona que vigila que los bañistas estén seguros en las playas, piscinas, etc.
+LIFEGUARDS	(forma de lifeguard) (sustantivo) salvavida: Persona que vigila que los bañistas estén seguros en las playas, piscinas, etc.
+LIFELONG	(adjetivo) vitalicio: Que dura hasta el final de la vida.\n(sustantivo) vitalicio: Que dura hasta el final de la vida.
+LIFETIME	(sustantivo) Vida, el tiempo que dura la vida de algo o alguien.\n(adjetivo) De por vida.
+LIFETIMES	(forma de lifetime) (sustantivo) Vida, el tiempo que dura la vida de algo o alguien.
+LIFT	(verbo) subir: Hacer más alto algo o irlo aumentando hacia arriba. (también: elevarse, alzar)\n(sustantivo) El acto de subir o elevarse.
+LIFTED	(verbo) Pasado simple del verbo (to) lift: Subir, elevarse, alzar, levantar.
+LIFTING	(sustantivo) levantamiento: Acción o efecto de levantar o levantarse.
+LIFTS	(forma de lift) (verbo) subir: Hacer más alto algo o irlo aumentando hacia arriba. (también: elevarse, alzar)
+LIGAMENT	(sustantivo) ligamento: Cordón de fibras de tejido conectivo, resistente y ligeramente elástico, que une entre sí dos huesos formando una articulación.
+LIGAMENTS	(forma de ligament) (sustantivo) ligamento: Cordón de fibras de tejido conectivo, resistente y ligeramente elástico, que une entre sí dos...
+LIGAND	(sustantivo) ligando: Ion o molécula (o grupo funcional) que se une a un átomo metálico central para formar un complejo de coordinación.
+LIGANDS	(forma de ligand) (sustantivo) ligando: Ion o molécula (o grupo funcional) que se une a un átomo metálico central para formar un complejo...
+LIGATURE	(sustantivo) ligadura: Unión de dos o más objetos usando una liga, venda o atadura para ceñir, sujetar o impedir el movimiento.
+LIGATURED	(forma de ligature) (sustantivo) ligadura: Unión de dos o más objetos usando una liga, venda o atadura para ceñir, sujetar o impedir el...
+LIGATURES	(forma de ligature) (sustantivo) ligadura: Unión de dos o más objetos usando una liga, venda o atadura para ceñir, sujetar o impedir el...
+LIGATURING	(forma de ligature) (sustantivo) ligadura: Unión de dos o más objetos usando una liga, venda o atadura para ceñir, sujetar o impedir el...
+LIGER	(sustantivo) ligre: (Panthera tigris ♀ × Panthera leo ♂) Felino híbrido de león y tigresa.
+LIGERS	(forma de liger) (sustantivo) ligre: (Panthera tigris ♀ × Panthera leo ♂) Felino híbrido de león y tigresa.
+LIGHT	(sustantivo) luz: Radiación electromagnética visible al ojo humano.\n(adjetivo) claro: Con mucha luz.
+LIGHTBULB	(sustantivo) bombilla: Dispositivo eléctrico formado por un filamento de vanadio u otro metal en un recipiente vacío o lleno de un gas inerte, a través del cual se hace pasar corriente eléctrica para iluminar por incandescencia. (también: bombillo)
+LIGHTBULBS	(forma de lightbulb) (sustantivo) bombilla: Dispositivo eléctrico formado por un filamento de vanadio u otro metal en un recipiente vacío o...
+LIGHTED	(forma de light) (sustantivo) luz: Radiación electromagnética visible al ojo humano.
+LIGHTER	(sustantivo) mechero: Utensilio portátil dotado de un mecanismo que produce una chispa y un depósito de material inflamable, que produce una pequeña llama. (también: encendedor)\n(adjetivo) lighter se traduce como ⟪encendedor⟫
+LIGHTERED	(forma de lighter) (sustantivo) mechero: Utensilio portátil dotado de un mecanismo que produce una chispa y un depósito de material...
+LIGHTERING	(forma de lighter) (sustantivo) mechero: Utensilio portátil dotado de un mecanismo que produce una chispa y un depósito de material...
+LIGHTERS	(forma de lighter) (sustantivo) mechero: Utensilio portátil dotado de un mecanismo que produce una chispa y un depósito de material...
+LIGHTEST	(forma de light) (sustantivo) luz: Radiación electromagnética visible al ojo humano.
+LIGHTHOUSE	(sustantivo) faro: Torre costera que, gracias a una señal luminosa y acústica advierte a las embarcaciones de la proximidad de la misma.
+LIGHTHOUSES	(forma de lighthouse) (sustantivo) faro: Torre costera que, gracias a una señal luminosa y acústica advierte a las embarcaciones de la...
+LIGHTING	(sustantivo) alumbrado: Luces públicas para alumbrar una vía.
+LIGHTINGS	(forma de light) (sustantivo) luz: Radiación electromagnética visible al ojo humano.
+LIGHTLY	(adverbio) suavemente: De modo suave, con suavidad. (también: ligeramente)
+LIGHTNESS	(sustantivo) lightness se traduce como ⟪levedad⟫
+LIGHTNESSES	(forma de lightness) (sustantivo) lightness se traduce como ⟪levedad⟫
+LIGHTNING	(sustantivo) relámpago: Resplandor difuso en el interior de las nubes de tormenta, de décimas de segundo de duración, producido por la incandescencia del cuerpo conductor (generalmente el aire) al ser recorrido por cargas electrostáticas que saltan de un campo eléctrico a otro debido a la diferencia de potencial existente... (también: rayo)\n(adjetivo) relámpago: Resplandor difuso en el interior de las nubes de tormenta, de décimas de segundo de duración, producido por la incandescencia del cuerpo conductor (generalmente el aire) al ser recorrido por cargas electrostáticas que saltan de un campo eléctrico a otro debido a la diferencia de potencial existente...
+LIGHTNINGED	(forma de lightning) (sustantivo) relámpago: Resplandor difuso en el interior de las nubes de tormenta, de décimas de segundo de duración,...
+LIGHTNINGS	(forma de lightning) (sustantivo) relámpago: Resplandor difuso en el interior de las nubes de tormenta, de décimas de segundo de duración,...
+LIGHTS	(sustantivo) Forma del plural de light ('luces'): Luz.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) light.
+LIGHTWEIGHT	(sustantivo) lightweight se traduce como peso ligero
+LIGHTWEIGHTS	(forma de lightweight) (sustantivo) lightweight se traduce como peso ligero
+LIKE	(verbo) gustar: Ser agradable, obtener aprobación.\n(preposición) like se traduce como ⟪como⟫, tal como
+LIKEABLE	(adjetivo) simpático: Con cualidades que inspiran sentimientos de agrado, afecto, cordialidad o comunión.
+LIKED	(verbo) Pasado simple del verbo (to) like; gustó, gustaba, etc.
+LIKELIER	(forma de likely) (adverbio) likely se traduce como ⟪probablemente⟫
+LIKELIEST	(forma de likely) (adverbio) likely se traduce como ⟪probablemente⟫
+LIKELIHOOD	(sustantivo) probabilidad: Condición o carácter de probable. (también: posibilidad)
+LIKELIHOODS	(forma de likelihood) (sustantivo) probabilidad: Condición o carácter de probable. (también: posibilidad)
+LIKELY	(adverbio) likely se traduce como ⟪probablemente⟫
+LIKENESS	(sustantivo) semejanza: Rasgo, característica o conjunto de características en común, iguales o comparables. Condición de ser semejante, parecido o similar.
+LIKENESSES	(forma de likeness) (sustantivo) semejanza: Rasgo, característica o conjunto de características en común, iguales o comparables. Condición...
+LIKER	(forma de like) (verbo) gustar: Ser agradable, obtener aprobación.
+LIKES	(forma de like) (verbo) gustar: Ser agradable, obtener aprobación.
+LIKEST	(forma de like) (verbo) gustar: Ser agradable, obtener aprobación.
+LIKEWISE	(adverbio) asimismo: De manera igual a la de otro elemento ya indicado. (también: lo mismo, así también)
+LIKING	(sustantivo) inclinación: Reverencia que se hace con la cabeza o el cuerpo, como manifestación de respeto o veneración hacia una persona. (también: preferencia)\n(verbo) Participio presente y gerundio del verbo (to) like.
+LIKINGS	(sustantivo) Forma del plural de liking: Preferencia, inclinación.
+LILAC	(sustantivo) lila: Arbusto de la familia de las oleáceas, de tres a cuatro metros de altura, muy ramoso, con hojas pecioladas, enteras, acorazonadas, puntiagudas, blandas y nerviosas; flores de color morado claro, olorosas, pequeñas, de corola tubular partida en cuatro lóbulos iguales y en grandes ramilletes erguidos...
+LILACS	(forma de lilac) (sustantivo) lila: Arbusto de la familia de las oleáceas, de tres a cuatro metros de altura, muy ramoso, con hojas...
+LILT	(sustantivo) ritmo: Una sucesión de sonidos musicales que conservan una relación constante entre los tiempos de sus movimientos.
+LILTED	(forma de lilt) (sustantivo) ritmo: Una sucesión de sonidos musicales que conservan una relación constante entre los tiempos de sus...
+LILTING	(forma de lilt) (sustantivo) ritmo: Una sucesión de sonidos musicales que conservan una relación constante entre los tiempos de sus...
+LILTS	(forma de lilt) (sustantivo) ritmo: Una sucesión de sonidos musicales que conservan una relación constante entre los tiempos de sus...
+LIMB	(sustantivo) miembro: Parte del cuerpo del animal articulada con el tronco. (también: extremidad)
+LIMBIC	(adjetivo) límbico: Propio o relativo al sistema límbico
+LIMBING	(forma de limb) (sustantivo) miembro: Parte del cuerpo del animal articulada con el tronco. (también: extremidad)
+LIMBO	(sustantivo) limbo: Estado o lugar permanente de los no bautizados que mueren a corta edad sin haber cometido ningún pecado personal, pero sin haberse visto librados del pecado original por el bautismo.
+LIMBOS	(forma de limbo) (sustantivo) limbo: Estado o lugar permanente de los no bautizados que mueren a corta edad sin haber cometido ningún...
+LIMBS	(forma de limb) (sustantivo) miembro: Parte del cuerpo del animal articulada con el tronco. (también: extremidad)
+LIME	(sustantivo) cal: Óxido de calcio; sustancia blanca, ligera, cáustica y alcalina, que en estado natural se halla siempre combinada con alguna otra.
+LIMED	(forma de lime) (sustantivo) cal: Óxido de calcio; sustancia blanca, ligera, cáustica y alcalina, que en estado natural se halla...
+LIMES	(forma de lime) (sustantivo) cal: Óxido de calcio; sustancia blanca, ligera, cáustica y alcalina, que en estado natural se halla...
+LIMESTONE	(sustantivo) caliza: Roca sedimentaria porosa de origen químico, formada mineralógicamente por carbonatos, principalmente carbonato de calcio.
+LIMESTONES	(forma de limestone) (sustantivo) caliza: Roca sedimentaria porosa de origen químico, formada mineralógicamente por carbonatos,...
+LIMING	(forma de lime) (sustantivo) cal: Óxido de calcio; sustancia blanca, ligera, cáustica y alcalina, que en estado natural se halla...
+LIMIT	(sustantivo) límite: Marca que indica los bordes de una extensión.\n(verbo) limitar: Tener límites con alguna cosa, como un país vecino, un terreno colindante, etc.
+LIMITATION	(sustantivo) limitación: Acción o efecto de limitar o de limitarse.
+LIMITATIONS	(forma de limitation) (sustantivo) limitación: Acción o efecto de limitar o de limitarse.
+LIMITED	(adjetivo) Con ciertos (frecuentemente especificados) límites puestos sobre este.\n(verbo) Pasado simple del verbo (to) limit.
+LIMITEDS	(forma de limit) (sustantivo) límite: Marca que indica los bordes de una extensión.
+LIMITES	(forma de limit) (sustantivo) límite: Marca que indica los bordes de una extensión.
+LIMITING	(adjetivo) limiting se traduce como restrictivo\n(verbo) Participio presente y gerundio del verbo (to) limit.
+LIMITLESS	(adjetivo) ilimitado: Sin límites o cuyo final no puede establecerse.
+LIMITLESSLY	(forma de limitless) (adjetivo) ilimitado: Sin límites o cuyo final no puede establecerse.
+LIMITS	(sustantivo) Forma del plural de limit: Límite.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) limit: Límite.
+LIMNOLOGIES	(forma de limnology) (sustantivo) limnología: Estudio de características biológicas, físicas y químicas de cuerposs hídricos continentales:...
+LIMNOLOGY	(sustantivo) limnología: Estudio de características biológicas, físicas y químicas de cuerposs hídricos continentales: lagos, lagunas, ríos, presas, charcas, marismas y estuarios, así como de las interacciones de organismos acuáticos y su hábitat.
+LIMONITE	(sustantivo) limonita: Mineral compuesto por óxido de hierro hidratado, de color pardo amarillento o marrón
+LIMONITES	(forma de limonite) (sustantivo) limonita: Mineral compuesto por óxido de hierro hidratado, de color pardo amarillento o marrón
+LIMP	(verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫\n(sustantivo) renguera: Forma de caminar con dificultad e inclinando el cuerpo debido a una lesión o anomalía en los pies, piernas, caderas o espalda. (también: cojera)
+LIMPED	(forma de limp) (verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫
+LIMPER	(forma de limp) (verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫
+LIMPERS	(forma de limp) (verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫
+LIMPEST	(forma de limp) (verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫
+LIMPET	(sustantivo) lapa: (Arctium lappa) Lampazo (planta).
+LIMPETS	(forma de limpet) (sustantivo) lapa: (Arctium lappa) Lampazo (planta).
+LIMPING	(forma de limp) (verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫
+LIMPS	(forma de limp) (verbo) limp se traduce como ⟪cojear⟫, ⟪renguear⟫
+LINDEN	(sustantivo) linden se traduce como ⟪tilo⟫, ⟪tila⟫
+LINDENS	(forma de linden) (sustantivo) linden se traduce como ⟪tilo⟫, ⟪tila⟫
+LINE	(sustantivo) línea: Serie continua de puntos sucesivos formando una raya o segmento longitudinal en cualquier trayecto (recto, curvo, etc.).\n(verbo) Hacer una fila.
+LINEAGE	(sustantivo) linaje: Ascendencia o descendencia de cualquier familia. (también: abolengo, alcurnia)
+LINEAGES	(forma de lineage) (sustantivo) linaje: Ascendencia o descendencia de cualquier familia. (también: abolengo, alcurnia)
+LINEAR	(adjetivo) lineal: Dicho de una función que verifica las propiedades de aditividad y homogeneidad.
+LINED	(adjetivo) lined se traduce como con renglones\n(verbo) Pasado simple del verbo (to) line: Línea.
+LINEN	(sustantivo) linen se traduce como ropa blanca
+LINENS	(forma de linen) (sustantivo) linen se traduce como ropa blanca
+LINES	(sustantivo) La forma exterior o proporciones de un barco, edificio, etcétera.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) line: Línea.
+LINEUP	(sustantivo) Grafía alternativa de line up.
+LINEUPS	(forma de lineup) (sustantivo) Grafía alternativa de line up.
+LING	(sustantivo) ling se traduce como maruca
+LINGER	(verbo) linger se traduce como ⟪tardar⟫
+LINGERED	(forma de linger) (verbo) linger se traduce como ⟪tardar⟫
+LINGERING	(verbo) Gerundio de linger: "permaneciendo".
+LINGERS	(forma de linger) (verbo) linger se traduce como ⟪tardar⟫
+LINGS	(forma de ling) (sustantivo) ling se traduce como maruca
+LINGUAL	(adjetivo) lingual: Sonido consonántico en el que la punta de la lengua toca el paladar, los dientes o los alveolos.
+LINGUALS	(forma de lingual) (adjetivo) lingual: Sonido consonántico en el que la punta de la lengua toca el paladar, los dientes o los alveolos.
+LINGUINI	(sustantivo) linguini: Pasta comestible en forma de tiras largas y aplanadas.
+LINGUINIS	(forma de linguini) (sustantivo) linguini: Pasta comestible en forma de tiras largas y aplanadas.
+LINGUIST	(sustantivo) lingüista: Persona que se especializa en lingüística.
+LINGUISTIC	(adjetivo) lingüístico: Relacionado con el lenguaje o la lengua, o pertinente a ellos.
+LINGUISTICS	(sustantivo) lingüística: Disciplina que estudia la lengua (sistema de comunicación humana) y sus fenómenos asociados.
+LINGUISTS	(forma de linguist) (sustantivo) lingüista: Persona que se especializa en lingüística.
+LINING	(sustantivo) forro: Capa de material empleada para proteger, aislar, o dar forma, este puede ser de uso interno como en la ropa interior o bien externo como las cubiertas de libros.\n(adjetivo) forro: Capa de material empleada para proteger, aislar, o dar forma, este puede ser de uso interno como en la ropa interior o bien externo como las cubiertas de libros.
+LININGS	(forma de line) (sustantivo) línea: Serie continua de puntos sucesivos formando una raya o segmento longitudinal en cualquier trayecto...
+LINK	(sustantivo) link se traduce como ⟪conexión|CONEXION⟫\n(verbo) unir: Poner en contacto dos o más cosas materiales o inmateriales.
+LINKED	(adjetivo) vinculado: Participio de vincular. (también: enlazado)\n(verbo) Pasado simple del verbo (to) link: Conexión.
+LINKER	(forma de link) (sustantivo) link se traduce como ⟪conexión|CONEXION⟫
+LINKING	(verbo) Participio presente y gerundio del verbo (to) link.
+LINKS	(forma de link) (sustantivo) link se traduce como ⟪conexión|CONEXION⟫
+LINO	(sustantivo) linóleo: Materialfuerte e impermeable formado por un tejido de yute cubierta de corcho en polvo amasado con aceite de linaza. Usado como material de revestimiento de pisos o como una superficie de linograbado.
+LINOCUT	(sustantivo) linograbado: Tipo de grabado en que se utiliza la hoja de linóleo para la superficie en relieve. Un diseño se corta en la superficie de linóleo con un cuchillo afilado, se entinta con un rodillo y, a continuación, se imprime sobre papel o tela. La impresión real puede hacerse a mano o con una prensa.
+LINOCUTS	(forma de linocut) (sustantivo) linograbado: Tipo de grabado en que se utiliza la hoja de linóleo para la superficie en relieve. Un diseño...
+LINOLEUM	(sustantivo) linóleo: Materialfuerte e impermeable formado por un tejido de yute cubierta de corcho en polvo amasado con aceite de linaza. Usado como material de revestimiento de pisos o como una superficie de linograbado.
+LINOLEUMS	(forma de linoleum) (sustantivo) linóleo: Materialfuerte e impermeable formado por un tejido de yute cubierta de corcho en polvo amasado...
+LINOS	(sustantivo) Forma del plural de lino: Linóleo.
+LINSEED	(sustantivo) linaza: Semilla del lino, que tiene usos alimenticios e industriales.
+LINSEEDS	(forma de linseed) (sustantivo) linaza: Semilla del lino, que tiene usos alimenticios e industriales.
+LINTEL	(sustantivo) dintel: Elemento estructural horizontal que soporta a un muro, apoyando sus extremos en las jambas o soportes. Crea espacios (vanos) para poner puertas o ventanas.
+LINTELS	(forma de lintel) (sustantivo) dintel: Elemento estructural horizontal que soporta a un muro, apoyando sus extremos en las jambas o...
+LION	(sustantivo) león: (Panthera leo) Felino del Viejo Mundo de gran tamaño, el mayor del mundo tras el tigre y una de las cuatro especies capaces de rugir gracias a la peculiar conformación de su hioides. Es distintiva la frondosa melena que orna el cuello de los machos adultos. Alcanzan los 225 kg de peso; su piel es...
+LIONESS	(sustantivo) lioness se traduce como ⟪leona⟫
+LIONESSES	(forma de lioness) (sustantivo) lioness se traduce como ⟪leona⟫
+LIONIZE	(verbo) adorar: Expresar una gran admiración hacia algo o alguien. (también: idolatrar)
+LIONIZED	(forma de lionize) (verbo) adorar: Expresar una gran admiración hacia algo o alguien. (también: idolatrar)
+LIONIZER	(forma de lionize) (verbo) adorar: Expresar una gran admiración hacia algo o alguien. (también: idolatrar)
+LIONIZES	(forma de lionize) (verbo) adorar: Expresar una gran admiración hacia algo o alguien. (también: idolatrar)
+LIONIZING	(forma de lionize) (verbo) adorar: Expresar una gran admiración hacia algo o alguien. (también: idolatrar)
+LIONS	(sustantivo) Forma del plural de lion: León
+LIP	(sustantivo) labio: Cualquiera de los dos bordes carnosos y movibles de la boca.
+LIPID	(sustantivo) lípido: Sustancia orgánica insoluble en agua que se encuentra en el tejido adiposo y en otras partes del cuerpo de los animales, así como en los vegetales, especialmente en las semillas de ciertas plantas. Está constituida por una mezcla de ácidos grasos y ésteres de glicerina. Sirve como reserva de...
+LIPIDS	(forma de lipid) (sustantivo) lípido: Sustancia orgánica insoluble en agua que se encuentra en el tejido adiposo y en otras partes del...
+LIPOPHILIC	(adjetivo) lipophilic se traduce como lipófilo
+LIPOPROTEIN	(sustantivo) lipoproteína: Complejo macromolecular esférico formados por lípidos y proteínas específicas.
+LIPOPROTEINS	(forma de lipoprotein) (sustantivo) lipoproteína: Complejo macromolecular esférico formados por lípidos y proteínas específicas.
+LIPPER	(forma de lip) (sustantivo) labio: Cualquiera de los dos bordes carnosos y movibles de la boca.
+LIPPING	(forma de lip) (sustantivo) labio: Cualquiera de los dos bordes carnosos y movibles de la boca.
+LIPS	(sustantivo) Forma del plural de lip: Labio.
+LIPSTICK	(sustantivo) Lápiz labial, barra de labios, pintalabios
+LIPSTICKED	(forma de lipstick) (sustantivo) Lápiz labial, barra de labios, pintalabios
+LIPSTICKS	(forma de lipstick) (sustantivo) Lápiz labial, barra de labios, pintalabios
+LIQUEFACTION	(sustantivo) licuefacción: consiste en el cambio de estado gaseoso al estado líquido por aumento de presión.
+LIQUEFACTIONS	(forma de liquefaction) (sustantivo) licuefacción: consiste en el cambio de estado gaseoso al estado líquido por aumento de presión.
+LIQUEUR	(sustantivo) licor: Por extensión, cualquier tipo de bebida alcohólica, independientemente de su clase.
+LIQUEURS	(forma de liqueur) (sustantivo) licor: Por extensión, cualquier tipo de bebida alcohólica, independientemente de su clase.
+LIQUID	(adjetivo) líquido: Se dice de una sustancia o mezcla relativamente homogénea que posee las propiedades de este estado de la materia.\n(sustantivo) líquido: Se dice de una sustancia o mezcla relativamente homogénea que posee las propiedades de este estado de la materia.
+LIQUIDATE	(verbo) liquidate se traduce como liquidar
+LIQUIDATED	(forma de liquidate) (verbo) liquidate se traduce como liquidar
+LIQUIDATES	(forma de liquidate) (verbo) liquidate se traduce como liquidar
+LIQUIDATING	(forma de liquidate) (verbo) liquidate se traduce como liquidar
+LIQUIDATION	(sustantivo) liquidación: Reducción Dícese de la venta al por menor, en la que rebajan los precios de las mercancías.
+LIQUIDATIONS	(forma de liquidation) (sustantivo) liquidación: Reducción Dícese de la venta al por menor, en la que rebajan los precios de las mercancías.
+LIQUIDLY	(adverbio) liquidly se traduce como líquidamente
+LIQUIDS	(forma de liquid) (adjetivo) líquido: Se dice de una sustancia o mezcla relativamente homogénea que posee las propiedades de este estado...
+LIQUORICE	(sustantivo) arrezuz: (Glycyrrhiza glabra) Hierba perenne, de la familia de las fabáceas, nativa de Europa meridional y el Asia Menor, que se cultiva desde la Antigüedad por el extracto de su raíz y rizoma, sabroso y de propiedades medicinales (también: regaliz, orozuz)
+LIQUORICES	(forma de liquorice) (sustantivo) arrezuz: (Glycyrrhiza glabra) Hierba perenne, de la familia de las fabáceas, nativa de Europa meridional y...
+LIST	(sustantivo) listón: Banda que se mezcla por lo común con los adornos del escudo, y en que suele colocarse la divisa.\n(verbo) Estar en una lista, en especial una lista o catálogo de ofertas.
+LISTED	(forma de list) (sustantivo) listón: Banda que se mezcla por lo común con los adornos del escudo, y en que suele colocarse la divisa.
+LISTEN	(verbo) escuchar: Percibir un sonido con el oído.
+LISTENED	(verbo) Pasado simple del verbo (to) listen; escuché, escuchaba, etc.
+LISTENER	(adjetivo) escuchador: Que escucha.
+LISTENERS	(forma de listener) (adjetivo) escuchador: Que escucha.
+LISTENING	(verbo) Participio presente y gerundio del verbo (to) listen.\n(adjetivo) Que escucha o tiene la capacidad de escuchar.
+LISTENS	(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) listen.
+LISTING	(sustantivo) anuncio: Cualquier tipo de información publicitaria. (también: listado, aviso)
+LISTINGS	(forma de list) (sustantivo) listón: Banda que se mezcla por lo común con los adornos del escudo, y en que suele colocarse la divisa.
+LISTLESS	(adjetivo) lánguido: Que es débil, flaco, cansado; que tiene languidez. (también: apático, indiferente)
+LISTS	(forma de list) (sustantivo) listón: Banda que se mezcla por lo común con los adornos del escudo, y en que suele colocarse la divisa.
+LIT	(verbo) Pasado simple del verbo (to) light: Luz.\n(adjetivo) lit se traduce como ⟪iluminado⟫
+LITAI	(forma de light) (sustantivo) luz: Radiación electromagnética visible al ojo humano.
+LITER	(sustantivo) litro: Unidad de volumen, representada por el símbolo L o l, que corresponde aproximadamente al espacio que ocupa un kilógramo de agua a una atmósfera de presión. Equivale a un decímetro cúbico (dm³) en el Sistema Internacional de Unidades.
+LITERAL	(adjetivo) recto: Sentido no figurado o translaticio de las palabras, cuando estas pueden interpretarse de más de una forma.\n(sustantivo) recto: Sentido no figurado o translaticio de las palabras, cuando estas pueden interpretarse de más de una forma.
+LITERALLY	(adverbio) literally se traduce como ⟪literalmente⟫
+LITERALS	(forma de literal) (adjetivo) recto: Sentido no figurado o translaticio de las palabras, cuando estas pueden interpretarse de más de una...
+LITERARILY	(forma de literary) (adjetivo) literario: Que pertenece a la literatura, se relaciona con ella, o tiene características asociadas con ella.
+LITERARY	(adjetivo) literario: Que pertenece a la literatura, se relaciona con ella, o tiene características asociadas con ella.
+LITERATE	(adjetivo) literate se traduce como ⟪letrado⟫\n(sustantivo) literate se traduce como ⟪letrado⟫
+LITERATELY	(forma de literate) (adjetivo) literate se traduce como ⟪letrado⟫
+LITERATES	(forma de literate) (adjetivo) literate se traduce como ⟪letrado⟫
+LITERATIM	(adverbio) Literalmente, al pie de la letra, letra a letra.
+LITERATURE	(sustantivo) literatura: Arte que se expresa con el uso de una lengua y que se consolida como conocimiento por medio de la escritura.
+LITERATURES	(forma de literature) (sustantivo) literatura: Arte que se expresa con el uso de una lengua y que se consolida como conocimiento por medio de...
+LITERATUS	(sustantivo) literato: Persona dedicada a la literatura, ya sea solamente disfrutándola o asignándole tiempo a investigaciones más objetivas.
+LITERS	(forma de liter) (sustantivo) litro: Unidad de volumen, representada por el símbolo L o l, que corresponde aproximadamente al espacio...
+LITHIUM	(sustantivo) litio: Metal de color blanco metálico, de densidad menor a la del agua, y que funde a 180 grados. Combinado con el oxígeno forma la litina.
+LITHIUMS	(forma de lithium) (sustantivo) litio: Metal de color blanco metálico, de densidad menor a la del agua, y que funde a 180 grados....
+LITHOGRAPH	(sustantivo) litografía: Cada una de las copias obtenidas mediante este procedimiento.
+LITHOGRAPHED	(forma de lithograph) (sustantivo) litografía: Cada una de las copias obtenidas mediante este procedimiento.
+LITHOGRAPHER	(sustantivo) litógrafo: Persona que se dedica a la litografía o conoce este procedimiento (grabado en piedra para luego plasmar en papel).
+LITHOGRAPHERS	(forma de lithographer) (sustantivo) litógrafo: Persona que se dedica a la litografía o conoce este procedimiento (grabado en piedra para luego...
+LITHOGRAPHIC	(adjetivo) litográfico: Que pertenece o concierne a la litografía.
+LITHOGRAPHIES	(forma de lithography) (sustantivo) litografía: Procedimiento de impresión, empleado especialmente para duplicar obras artísticas, que utiliza...
+LITHOGRAPHING	(forma de lithograph) (sustantivo) litografía: Cada una de las copias obtenidas mediante este procedimiento.
+LITHOGRAPHS	(forma de lithograph) (sustantivo) litografía: Cada una de las copias obtenidas mediante este procedimiento.
+LITHOGRAPHY	(sustantivo) litografía: Procedimiento de impresión, empleado especialmente para duplicar obras artísticas, que utiliza una piedra caliza pulimentada sobre la que se dibuja la imagen a imprimir, quedando la tinta de impresión solo retenida en las zonas dibujadas.
+LITHOLOGIC	(adjetivo) litológico: Que pertenece o concierne a la litología.
+LITHOLOGICAL	(adjetivo) litológico: Que pertenece o concierne a la litología.
+LITHOSPHERE	(sustantivo) litósfera: Capa más superficial de la Tierra sólida, caracterizada por su rigidez. Está formada por la corteza terrestre y por la zona contigua, la más externa, del manto terrestre.
+LITHOSPHERES	(forma de lithosphere) (sustantivo) litósfera: Capa más superficial de la Tierra sólida, caracterizada por su rigidez. Está formada por la...
+LITIGATION	(sustantivo) litigio: Disputa legal, diferendo.
+LITIGATIONS	(forma de litigation) (sustantivo) litigio: Disputa legal, diferendo.
+LITOTES	(sustantivo) lítotes: Figura retórica por la que se pone énfasis en una afirmación al disimular, disminuir o no expresar todo lo que se quiere dar a entender, generalmente negando su opuesto. (también: litote, lítote)
+LITRE	(sustantivo) litro: Unidad de volumen, representada por el símbolo L o l, que corresponde aproximadamente al espacio que ocupa un kilógramo de agua a una atmósfera de presión. Equivale a un decímetro cúbico (dm³) en el Sistema Internacional de Unidades.
+LITRES	(forma de litre) (sustantivo) litro: Unidad de volumen, representada por el símbolo L o l, que corresponde aproximadamente al espacio...
+LITS	(forma de light) (sustantivo) luz: Radiación electromagnética visible al ojo humano.
+LITTER	(sustantivo) litter se traduce como ⟪litera⟫
+LITTERED	(forma de litter) (sustantivo) litter se traduce como ⟪litera⟫
+LITTERING	(forma de litter) (sustantivo) litter se traduce como ⟪litera⟫
+LITTERS	(forma de litter) (sustantivo) litter se traduce como ⟪litera⟫
+LITTLE	(adjetivo) pequeño: De tamaño reducido, menor a lo común o normal.\n(adverbio) poco: En menor cantidad de lo que se hubiera esperado, en intensidad baja, o en menor grado.
+LITTLENESS	(sustantivo) pequeñez: Calidad de pequeño.
+LITTLENESSES	(forma de littleness) (sustantivo) pequeñez: Calidad de pequeño.
+LITTLES	(forma de little) (adjetivo) pequeño: De tamaño reducido, menor a lo común o normal.
+LITTLEST	(forma de little) (adjetivo) pequeño: De tamaño reducido, menor a lo común o normal.
+LITTORAL	(adjetivo) litoral: Relativo a la costa.\n(sustantivo) litoral: Relativo a la costa.
+LITTORALS	(forma de littoral) (adjetivo) litoral: Relativo a la costa.
+LITURGIES	(forma de liturgy) (sustantivo) liturgia: Forma con que se llevan a cabo las ceremonias en una religión.
+LITURGY	(sustantivo) liturgia: Forma con que se llevan a cabo las ceremonias en una religión.
+LIVE	(adjetivo) vivo: Se dice de lo que tiene vida, en oposición a lo que está muerto.\n(adverbio) en vivo: Con público presente.
+LIVED	(verbo) Pasado simple del verbo (to) live: Vivo.\n(adjetivo) (en combinación): Que tiene una duración de vida determinada.
+LIVELIER	(forma de lively) (adverbio) alegre: Dicho de la conversación y el juego vivo, picante. (también: animado)
+LIVELIEST	(forma de lively) (adverbio) alegre: Dicho de la conversación y el juego vivo, picante. (también: animado)
+LIVELY	(adverbio) alegre: Dicho de la conversación y el juego vivo, picante. (también: animado)
+LIVER	(sustantivo) hígado: Órgano presente en los animales vertebrados que almacena y metaboliza nutrientes, destruye toxinas y produce bilis.
+LIVERS	(forma de liver) (sustantivo) hígado: Órgano presente en los animales vertebrados que almacena y metaboliza nutrientes, destruye toxinas...
+LIVERWURST	(sustantivo) leberwurst: Embutido alemán, salchicha de hígado picado y soasado.
+LIVERWURSTS	(forma de liverwurst) (sustantivo) leberwurst: Embutido alemán, salchicha de hígado picado y soasado.
+LIVES	(sustantivo) Forma del plural de life: Vida.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) live: Vivo.
+LIVESTOCK	(adjetivo) ganado: Se aplica a hombres y mujeres seguidores de una fe.\n(sustantivo) ganado: Se aplica a hombres y mujeres seguidores de una fe.
+LIVESTOCKS	(forma de livestock) (adjetivo) ganado: Se aplica a hombres y mujeres seguidores de una fe.
+LIVID	(adjetivo) lívido: Dicho de la piel de una persona: De color oscuro y próximo al morado, como consecuencia de un hematoma, moretón o cualquier otra condición anómala.
+LIVING	(adjetivo) vivo: Se dice de lo que tiene vida, en oposición a lo que está muerto. (también: viviente)\n(sustantivo) vida: Duración de una moda, de la existencia de una organización, de una serie televisiva, etc.
+LIVINGS	(forma de live) (adjetivo) vivo: Se dice de lo que tiene vida, en oposición a lo que está muerto.
+LIZARD	(sustantivo) lagarto: (Lacertilia) Género de reptiles terrestres pertenecientes al orden de los saurios. De diverso tamaño, sus especies tienen cabeza grande y ovalada, cola en forma de cono y un cuerpo casi cilíndrico.
+LIZARDS	(sustantivo) Forma del plural de lizard: Lagarto.
+LLAMA	(sustantivo) llama: (Lama glama) Mamífero artiodáctilo doméstico de la familia Camelidae, abundante en la Puna o Altiplano de Los Andes de Argentina, Bolivia, Chile, Ecuador y Perú. Fue creado por los pueblos andinos nativos mediante selección artificial a partir de guanacos salvajes que fueron domesticados. Fue...
+LLAMAS	(forma de llama) (sustantivo) llama: (Lama glama) Mamífero artiodáctilo doméstico de la familia Camelidae, abundante en la Puna o...
+LOACH	(sustantivo) locha: (Cobitidae) Pez del orden de los malacopterigios abdominales, de unos tres decímetros de longitud, cuerpo casi cilíndrico, aplastado lateralmente hacia la cola, de color negruzco, con listas amarillentas, escamas pequeñas, piel viscosa, boca rodeada de diez barbillas, seis en el labio superior y...
+LOACHES	(forma de loach) (sustantivo) locha: (Cobitidae) Pez del orden de los malacopterigios abdominales, de unos tres decímetros de longitud,...
+LOAD	(sustantivo) carga: Aquello que puede ser transportado por personas, animales o vehículos.\n(verbo) cargar: Juntar y disponer los objetos sobre una persona o animal para su transporte.
+LOADED	(adjetivo) cargado: Participio de cargar.
+LOADER	(sustantivo) loader se traduce como pala cargadora, ⟪cargadora⟫
+LOADERS	(forma de loader) (sustantivo) loader se traduce como pala cargadora, ⟪cargadora⟫
+LOADING	(forma de load) (sustantivo) carga: Aquello que puede ser transportado por personas, animales o vehículos.
+LOADINGS	(forma de load) (sustantivo) carga: Aquello que puede ser transportado por personas, animales o vehículos.
+LOADS	(forma de load) (sustantivo) carga: Aquello que puede ser transportado por personas, animales o vehículos.
+LOAF	(sustantivo) Hogaza, barra de pan.\n(verbo) holgazanear: Obrar con pereza, pachorra o indolencia; rehuir, retardar o diferir el trabajo y las responsabilidades por desidia o negligencia; dedicarse al ocio. (también: vaguear, haraganear)
+LOAFED	(forma de loaf) (sustantivo) Hogaza, barra de pan.
+LOAFER	(sustantivo) loafer se traduce como ⟪mocasín|MOCASIN⟫
+LOAFERS	(forma de loafer) (sustantivo) loafer se traduce como ⟪mocasín|MOCASIN⟫
+LOAFING	(adjetivo) holgazán: Persona poco predispuesta a trabajar o lento en realizar las tareas.
+LOAFS	(forma de loaf) (sustantivo) Hogaza, barra de pan.
+LOAM	(sustantivo) loam: Suelo compuesto de una proporción equilibrada de partículas de arena, limo y arcilla.\n(verbo) Sanear el terreno.
+LOAMED	(forma de loam) (sustantivo) loam: Suelo compuesto de una proporción equilibrada de partículas de arena, limo y arcilla.
+LOAMING	(forma de loam) (sustantivo) loam: Suelo compuesto de una proporción equilibrada de partículas de arena, limo y arcilla.
+LOAMS	(forma de loam) (sustantivo) loam: Suelo compuesto de una proporción equilibrada de partículas de arena, limo y arcilla.
+LOAN	(sustantivo) préstamo: Acción o efecto de prestar.\n(verbo) prestar: Dar de sí, extendiéndose.
+LOANED	(forma de loan) (sustantivo) préstamo: Acción o efecto de prestar.
+LOANING	(forma de loan) (sustantivo) préstamo: Acción o efecto de prestar.
+LOANINGS	(forma de loan) (sustantivo) préstamo: Acción o efecto de prestar.
+LOANS	(forma de loan) (sustantivo) préstamo: Acción o efecto de prestar.
+LOATHSOME	(adjetivo) asqueroso: Dicho de una persona, carente de hábitos higiénicos. (también: repugnante, asquerosa)
+LOATHSOMELY	(forma de loathsome) (adjetivo) asqueroso: Dicho de una persona, carente de hábitos higiénicos. (también: repugnante, asquerosa)
+LOAVES	(forma de loaf) (sustantivo) Hogaza, barra de pan.
+LOB	(sustantivo) Golpe de trayectoria en arco.\n(verbo) Lanzar algo en una trayectoria tal.
+LOBBED	(forma de lob) (sustantivo) Golpe de trayectoria en arco.
+LOBBER	(forma de lob) (sustantivo) Golpe de trayectoria en arco.
+LOBBIED	(verbo) Pasado simple del verbo (to) lobby: lobby, vestíbulo, recibidor, zaguán
+LOBBIES	(forma de lobby) (sustantivo) lobby: Atrio muy grande de un hotel, o de otros edificios como teatros, restaurantes o cines. (también:...
+LOBBING	(forma de lob) (sustantivo) Golpe de trayectoria en arco.
+LOBBY	(sustantivo) lobby: Atrio muy grande de un hotel, o de otros edificios como teatros, restaurantes o cines. (también: vestíbulo, recibidor)
+LOBBYER	(forma de lobby) (sustantivo) lobby: Atrio muy grande de un hotel, o de otros edificios como teatros, restaurantes o cines. (también:...
+LOBBYING	(sustantivo) lobby: Atrio muy grande de un hotel, o de otros edificios como teatros, restaurantes o cines.
+LOBE	(sustantivo) lóbulo: Parte sobresaliente y redondeada de una cosa.
+LOBED	(forma de lob) (sustantivo) Golpe de trayectoria en arco.
+LOBES	(forma de lobe) (sustantivo) lóbulo: Parte sobresaliente y redondeada de una cosa.
+LOBOTOMIES	(forma de lobotomy) (sustantivo) lobotomía: Separación o extirpación parcial o total de los lóbulos frontales del cerebro.
+LOBOTOMY	(sustantivo) lobotomía: Separación o extirpación parcial o total de los lóbulos frontales del cerebro.
+LOBS	(forma de lob) (sustantivo) Golpe de trayectoria en arco.
+LOBSTER	(sustantivo) langosta: Crustáceos marinos de gran tamaño, con todas sus patas terminadas en pinzas, cuatro antenas y cola larga. Su carne es una comida apreciada.
+LOBSTERED	(forma de lobster) (sustantivo) langosta: Crustáceos marinos de gran tamaño, con todas sus patas terminadas en pinzas, cuatro antenas y...
+LOBSTERING	(forma de lobster) (sustantivo) langosta: Crustáceos marinos de gran tamaño, con todas sus patas terminadas en pinzas, cuatro antenas y...
+LOBSTERS	(forma de lobster) (sustantivo) langosta: Crustáceos marinos de gran tamaño, con todas sus patas terminadas en pinzas, cuatro antenas y...
+LOCALISM	(sustantivo) localismo: Palabra, expresión o atribución de significado cuyo uso es exclusivo de un área geográfica, coincidiendo ésta normalmente con un término municipal o población determinada.
+LOCALISMS	(forma de localism) (sustantivo) localismo: Palabra, expresión o atribución de significado cuyo uso es exclusivo de un área geográfica,...
+LOCALITIES	(forma de locality) (sustantivo) localidad: Lugar.
+LOCALITY	(sustantivo) localidad: Lugar.
+LOCALIZATION	(sustantivo) localización: Situación de un objeto o lugar en función de su posición, ubicación o coordenadas geográficas.
+LOCALIZATIONS	(forma de localization) (sustantivo) localización: Situación de un objeto o lugar en función de su posición, ubicación o coordenadas...
+LOCALIZED	(adjetivo) localizado: Participio de localizar. (también: aislado)
+LOCALLY	(adverbio) localmente: De un modo local.
+LOCATED	(verbo) Pasado simple del verbo (to) locate.
+LOCATION	(sustantivo) ubicación: Lugar en el que está ubicado algo. (también: lugar, posición)
+LOCATIONS	(sustantivo) Forma del plural de location: Ubicación, lugar, posición.
+LOCATIVE	(sustantivo) locativo: Uno de los casos gramaticales para el sintagma nominal, donde generalmente se marca el lugar donde se desarrolla una acción.\n(adjetivo) locativo: Uno de los casos gramaticales para el sintagma nominal, donde generalmente se marca el lugar donde se desarrolla una acción.
+LOCATIVES	(forma de locative) (sustantivo) locativo: Uno de los casos gramaticales para el sintagma nominal, donde generalmente se marca el lugar...
+LOCH	(sustantivo) lago: Cuerpo de agua, generalmente dulce, de tamaño considerable, que se encuentra separado del mar.
+LOCHS	(forma de loch) (sustantivo) lago: Cuerpo de agua, generalmente dulce, de tamaño considerable, que se encuentra separado del mar.
+LOCI	(forma de locus) (sustantivo) locus se traduce como ⟪locus⟫
+LOCK	(sustantivo) lock se traduce como ⟪cerradura⟫\n(verbo) Cerrar con llave.
+LOCKED	(verbo) Pasado simple del verbo (to) lock: Cerradura.
+LOCKER	(sustantivo) taquilla: Recaudación obtenida por la venta de entradas para un espectáculo.
+LOCKERS	(forma de locker) (sustantivo) taquilla: Recaudación obtenida por la venta de entradas para un espectáculo.
+LOCKET	(sustantivo) medallón: Joya en forma de caja pequeña y chata, donde generalmente se colocan retratos, pinturas, rizos u otros objetos de recuerdo. (también: guardapelo)
+LOCKETS	(forma de locket) (sustantivo) medallón: Joya en forma de caja pequeña y chata, donde generalmente se colocan retratos, pinturas, rizos u...
+LOCKING	(forma de lock) (sustantivo) lock se traduce como ⟪cerradura⟫
+LOCKS	(forma de lock) (sustantivo) lock se traduce como ⟪cerradura⟫
+LOCKUP	(sustantivo) prisión: Sitio donde se encierra a los reclusos. (también: calabozo)
+LOCKUPS	(forma de lockup) (sustantivo) prisión: Sitio donde se encierra a los reclusos. (también: calabozo)
+LOCOMOTION	(sustantivo) locomotion se traduce como ⟪locomoción|LOCOMOCION⟫
+LOCOMOTIONS	(forma de locomotion) (sustantivo) locomotion se traduce como ⟪locomoción|LOCOMOCION⟫
+LOCOMOTOR	(adjetivo) locomotor: Relativo a la locomoción.
+LOCULI	(forma de loculus) (sustantivo) lóculo: Pequeña cavidad u orificio.
+LOCULUS	(sustantivo) lóculo: Pequeña cavidad u orificio.
+LOCUS	(sustantivo) locus se traduce como ⟪locus⟫
+LOCUST	(sustantivo) langosta: Nombre común para las formas gregarias de los insectos acrídidos (del orden de los ortópteros), con patas posteriores adaptadas para el salto y dos pares de alas. Bajo ciertas circunstancias ecológicas y fisiológicas, pueden reunirse en enjambres ("nubes de langostas") que emigran y pueden llegar a... (también: tucura, chapulín)
+LOCUSTS	(forma de locust) (sustantivo) langosta: Nombre común para las formas gregarias de los insectos acrídidos (del orden de los ortópteros),...
+LODGE	(sustantivo) lodge se traduce como ⟪portería|PORTERIA⟫\n(verbo) interponer: Poner unas cosas entre otras.
+LODGED	(forma de lodge) (sustantivo) lodge se traduce como ⟪portería|PORTERIA⟫
+LODGES	(forma de lodge) (sustantivo) lodge se traduce como ⟪portería|PORTERIA⟫
+LODGING	(sustantivo) alojamiento: Acción y efecto de alojar\n(verbo) Participio presente y gerundio del verbo (to) lodge: Portería.
+LOESS	(sustantivo) loes: Sedimento limoso que fue levantado y transportado por el viento y depositado en caras de sotavento de resaltes topográficos.
+LOESSES	(forma de loess) (sustantivo) loes: Sedimento limoso que fue levantado y transportado por el viento y depositado en caras de sotavento...
+LOFT	(sustantivo) Ático, desván o área de almacenamiento, usualmente con techo inclinado.\n(verbo) Propulsar alto en el aire.
+LOFTED	(forma de loft) (sustantivo) Ático, desván o área de almacenamiento, usualmente con techo inclinado.
+LOFTIER	(forma de lofty) (adjetivo) elevado: Participio de elevar o de elevarse.
+LOFTIEST	(forma de lofty) (adjetivo) elevado: Participio de elevar o de elevarse.
+LOFTING	(forma de loft) (sustantivo) Ático, desván o área de almacenamiento, usualmente con techo inclinado.
+LOFTS	(forma de loft) (sustantivo) Ático, desván o área de almacenamiento, usualmente con techo inclinado.
+LOFTY	(adjetivo) elevado: Participio de elevar o de elevarse.
+LOG	(sustantivo) leño: Pedazo de tronco de un árbol cortado y desramado. (también: tronco)\n(verbo) Registrar en la bitácora.
+LOGARITHM	(sustantivo) logaritmo: Exponente al cual se debe elevar una cantidad positiva —denominada base— para llegar al número del que se quiera calcular el logaritmo, siendo así la operación inversa de la exponenciación. Se escribe log _bx=r si y solo si bʳ=x.
+LOGARITHMIC	(adjetivo) logarítmico: Que pertenece o concierne al logaritmo.
+LOGARITHMS	(forma de logarithm) (sustantivo) logaritmo: Exponente al cual se debe elevar una cantidad positiva —denominada base— para llegar al número...
+LOGBOOK	(sustantivo) logbook se traduce como libro de registro, cuaderno de bitácora
+LOGBOOKS	(forma de logbook) (sustantivo) logbook se traduce como libro de registro, cuaderno de bitácora
+LOGGED	(forma de log) (sustantivo) leño: Pedazo de tronco de un árbol cortado y desramado. (también: tronco)
+LOGGERHEAD	(sustantivo) loggerhead se traduce como tortuga mordedora.^
+LOGGERHEADS	(forma de loggerhead) (sustantivo) loggerhead se traduce como tortuga mordedora.^
+LOGGING	(forma de log) (sustantivo) leño: Pedazo de tronco de un árbol cortado y desramado. (también: tronco)
+LOGGINGS	(forma de log) (sustantivo) leño: Pedazo de tronco de un árbol cortado y desramado. (también: tronco)
+LOGIC	(sustantivo) lógica: Parte de la filosofía que estudia las formas válidas de demostración e inferencia. Es el estudio de métodos y principios utilizados para distinguir el razonamiento correcto del incorrecto.
+LOGICAL	(adjetivo) De acuerdo con los principios de la lógica; lógico.
+LOGICALLY	(adverbio) lógicamente: De un modo lógico.
+LOGICIAN	(sustantivo) lógico: Referente a la lógica.
+LOGICIANS	(forma de logician) (sustantivo) lógico: Referente a la lógica.
+LOGICS	(forma de logic) (sustantivo) lógica: Parte de la filosofía que estudia las formas válidas de demostración e inferencia. Es el estudio...
+LOGISTICS	(sustantivo) logística: Conjunto de técnicas y procedimientos relacionados con el abastecimiento, suministro, mantenimiento y transporte de equipo, instalaciones y personal.\n(adjetivo) logística: Conjunto de técnicas y procedimientos relacionados con el abastecimiento, suministro, mantenimiento y transporte de equipo, instalaciones y personal.
+LOGO	(sustantivo) logo: Figura en dos o tres dimensiones, con una imagen o letras artísticas, que se usa como distintivo de una empresa, marca, equipo deportivo, etc.
+LOGORRHEA	(sustantivo) verborragia: Incapacidad de una persona para controlar, medir y/o limitar lo que dice, especialmente cuando se imposibilita la comunicación con otra persona.
+LOGORRHEAS	(forma de logorrhea) (sustantivo) verborragia: Incapacidad de una persona para controlar, medir y/o limitar lo que dice, especialmente...
+LOGOTYPE	(sustantivo) logo: Figura en dos o tres dimensiones, con una imagen o letras artísticas, que se usa como distintivo de una empresa, marca, equipo deportivo, etc.
+LOGOTYPES	(forma de logotype) (sustantivo) logo: Figura en dos o tres dimensiones, con una imagen o letras artísticas, que se usa como distintivo de...
+LOGS	(forma de log) (sustantivo) leño: Pedazo de tronco de un árbol cortado y desramado. (también: tronco)
+LOIN	(sustantivo) Lomo, entre las costillas y la cadera.
+LOINCLOTH	(sustantivo) taparrabos: Prenda de vestir masculina mínima utilizada por algunas comunidades indígenas, que consiste simplemente en un trozo de tela tapando las partes púdicas, en particular la entrepierna.
+LOINCLOTHS	(forma de loincloth) (sustantivo) taparrabos: Prenda de vestir masculina mínima utilizada por algunas comunidades indígenas, que consiste...
+LOINS	(sustantivo) loins se traduce como ⟪entrañas⟫
+LOITER	(verbo) holgazanear: Obrar con pereza, pachorra o indolencia; rehuir, retardar o diferir el trabajo y las responsabilidades por desidia o negligencia; dedicarse al ocio.
+LOITERED	(forma de loiter) (verbo) holgazanear: Obrar con pereza, pachorra o indolencia; rehuir, retardar o diferir el trabajo y las...
+LOITERING	(forma de loiter) (verbo) holgazanear: Obrar con pereza, pachorra o indolencia; rehuir, retardar o diferir el trabajo y las...
+LOITERS	(forma de loiter) (verbo) holgazanear: Obrar con pereza, pachorra o indolencia; rehuir, retardar o diferir el trabajo y las...
+LOLLIES	(forma de lolly) (sustantivo) golosina: Alimento, especialmente dulce, que se consume por placer y no por su valor nutritivo.
+LOLLIPOP	(sustantivo) colombina: Caramelo plano y de forma circular incrustado en un palito que le sirve de mango para su fácil manipulación.
+LOLLIPOPS	(forma de lollipop) (sustantivo) colombina: Caramelo plano y de forma circular incrustado en un palito que le sirve de mango para su fácil...
+LOLLY	(sustantivo) golosina: Alimento, especialmente dulce, que se consume por placer y no por su valor nutritivo.
+LONE	(adjetivo) lone se traduce como ⟪solitario⟫
+LONELIER	(forma de lonely) (adjetivo) solo: Referido a un ser animado, que está sin la compañía de otros, que se encuentra en soledad. (también:...
+LONELIEST	(forma de lonely) (adjetivo) solo: Referido a un ser animado, que está sin la compañía de otros, que se encuentra en soledad. (también:...
+LONELILY	(forma de lonely) (adjetivo) solo: Referido a un ser animado, que está sin la compañía de otros, que se encuentra en soledad. (también:...
+LONELINESS	(sustantivo) soledad: Condición de soltería, cuando no se encuentra pareja.
+LONELINESSES	(forma de loneliness) (sustantivo) soledad: Condición de soltería, cuando no se encuentra pareja.
+LONELY	(adjetivo) solo: Referido a un ser animado, que está sin la compañía de otros, que se encuentra en soledad. (también: solitario)
+LONG	(adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.\n(adverbio) Por o durante una gran distancia.
+LONGAN	(sustantivo) longan se traduce como longuián, longan
+LONGANS	(forma de longan) (sustantivo) longan se traduce como longuián, longan
+LONGED	(verbo) Pasado simple del verbo (to) long: Largo.
+LONGER	(adverbio) Comparativo adverbio de long\n(sustantivo) Poste o travesaño de una valla.
+LONGERS	(forma de long) (adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LONGES	(forma de long) (adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LONGEST	(adjetivo) Superlativo de long.
+LONGEVITIES	(forma de longevity) (sustantivo) longevidad: Duración larga de la vida.
+LONGEVITY	(sustantivo) longevidad: Duración larga de la vida.
+LONGING	(verbo) Anhelando, presente participio del verbo long.\n(sustantivo) nostalgia: Sentimiento que se produce al echar de menos los buenos momentos del pasado. Se puede estar nostálgico o tener nostalgia de algo o de alguien.
+LONGINGLY	(adverbio) longingly se traduce como anhelantemente, ⟪ansiosamente⟫
+LONGINGS	(forma de long) (adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LONGITUDE	(sustantivo) longitud: Distancia angular, medida paralelamente al plano del Ecuador terrestre, entre el Meridiano de Greenwich y un determinado punto de la Tierra.
+LONGITUDES	(forma de longitude) (sustantivo) longitud: Distancia angular, medida paralelamente al plano del Ecuador terrestre, entre el Meridiano de...
+LONGITUDINALLY	(adverbio) longitudinalmente: De un modo longitudinal.
+LONGS	(forma de long) (adjetivo) largo: Composición (o parte de ella) que se ha de hacer largamente.
+LOO	(sustantivo) baño: Inmersión o rociado del cuerpo con agua para el aseo personal o para refrescarse.
+LOOED	(forma de loo) (sustantivo) baño: Inmersión o rociado del cuerpo con agua para el aseo personal o para refrescarse.
+LOOFAH	(sustantivo) lufa: Material fibroso de la misma planta [1], usado para fregarse; también denominada esponja natural.
+LOOFAHS	(forma de loofah) (sustantivo) lufa: Material fibroso de la misma planta [1], usado para fregarse; también denominada esponja natural.
+LOOING	(forma de loo) (sustantivo) baño: Inmersión o rociado del cuerpo con agua para el aseo personal o para refrescarse.
+LOOK	(verbo) mirar: Fijar la vista en un objeto, aplicando juntamente la atención.\n(sustantivo) mirada: Acción o efecto de mirar.
+LOOKED	(verbo) Pasado simple del verbo (to) look: Mirar.\n(adjetivo) (en combinación) Que tiene la apariencia especificada.
+LOOKING	(adjetivo) Que tiene el aspecto de.\n(sustantivo) aspecto: Punto de vista o faceta desde la que se puede examinar un asunto, o cada uno de los elementos en que se descompone dicho asunto.
+LOOKOUT	(sustantivo) Puesto de observación o vigilancia.
+LOOKOUTS	(forma de lookout) (sustantivo) Puesto de observación o vigilancia.
+LOOKS	(sustantivo) Forma del plural de look ('miradas'): Mirar.\n(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) look.
+LOOKUP	(sustantivo) lookup se traduce como ⟪búsqueda|BUSQUEDA⟫, ⟪consulta⟫
+LOOKUPS	(forma de lookup) (sustantivo) lookup se traduce como ⟪búsqueda|BUSQUEDA⟫, ⟪consulta⟫
+LOOM	(sustantivo) Un utensilio; herramienta; un arma; (usualmente en compuestos) un artículo en general.
+LOOMED	(forma de loom) (sustantivo) Un utensilio; herramienta; un arma; (usualmente en compuestos) un artículo en general.
+LOOMING	(verbo) Participio presente de loom.\n(sustantivo) La acción y efecto de alzarse, destacarse o imponerse.
+LOOMS	(forma de loom) (sustantivo) Un utensilio; herramienta; un arma; (usualmente en compuestos) un artículo en general.
+LOON	(sustantivo) loon se traduce como ⟪alocado⟫, ⟪alocada⟫
+LOONS	(forma de loon) (sustantivo) loon se traduce como ⟪alocado⟫, ⟪alocada⟫
+LOOP	(sustantivo) loop se traduce como ⟪lazo⟫\n(verbo) Hacer un lazo.
+LOOPED	(forma de loop) (sustantivo) loop se traduce como ⟪lazo⟫
+LOOPHOLE	(sustantivo) loophole se traduce como ⟪aspillera⟫\n(verbo) loophole se traduce como hacer aspilleras
+LOOPHOLES	(forma de loophole) (sustantivo) loophole se traduce como ⟪aspillera⟫
+LOOPHOLING	(forma de loophole) (sustantivo) loophole se traduce como ⟪aspillera⟫
+LOOPING	(forma de loop) (sustantivo) loop se traduce como ⟪lazo⟫
+LOOPS	(forma de loop) (sustantivo) loop se traduce como ⟪lazo⟫
+LOOSE	(verbo) soltar: Dejar de hacer fuerza que retenga algo o a alguien.\n(adjetivo) suelto: Dicho de un objeto, que no está fijo en su posición y puede ser movido.
+LOOSED	(forma de loose) (verbo) soltar: Dejar de hacer fuerza que retenga algo o a alguien.
+LOOSELY	(adverbio) aproximadamente: En cantidad, intensidad o gradación próxima a la indicada, pero no necesariamente exactamente igual a esta
+LOOSEN	(verbo) aflojar: Perder vehemencia o intensidad alguna cosa. (también: largar, destensar)
+LOOSENED	(forma de loosen) (verbo) aflojar: Perder vehemencia o intensidad alguna cosa. (también: largar, destensar)
+LOOSENING	(sustantivo) aflojamiento: Acción o efecto de aflojar o de aflojarse.
+LOOSENS	(forma de loosen) (verbo) aflojar: Perder vehemencia o intensidad alguna cosa. (también: largar, destensar)
+LOOSER	(forma de loose) (verbo) soltar: Dejar de hacer fuerza que retenga algo o a alguien.
+LOOSEST	(forma de loose) (verbo) soltar: Dejar de hacer fuerza que retenga algo o a alguien.
+LOOSING	(forma de loose) (verbo) soltar: Dejar de hacer fuerza que retenga algo o a alguien.
+LOOT	(sustantivo) pillaje: Acción o efecto de hurtar con violencia, robar, despojar o saquear.
+LOOTED	(forma de loot) (sustantivo) pillaje: Acción o efecto de hurtar con violencia, robar, despojar o saquear.
+LOOTING	(sustantivo) saqueo: Apropiación violenta por parte de un grupo de soldados u otras personas de lo que se encuentra en un lugar o territorio tomado. (también: pillaje)\n(adjetivo) Propio o relacionado con el pillaje o saqueo.
+LOOTS	(forma de loot) (sustantivo) pillaje: Acción o efecto de hurtar con violencia, robar, despojar o saquear.
+LOQUACIOUS	(adjetivo) locuaz: Que habla en demasía.
+LOQUACITIES	(forma de loquacity) (sustantivo) locuacidad: Capacidad de hablar mucho y con soltura.
+LOQUACITY	(sustantivo) locuacidad: Capacidad de hablar mucho y con soltura.
+LOQUAT	(sustantivo) loquat se traduce como níspero japonés
+LOQUATS	(forma de loquat) (sustantivo) loquat se traduce como níspero japonés
+LORD	(sustantivo) lord se traduce como ⟪amo⟫\n(verbo) dominar: Restringir la libertad o el movimiento de algo o alguien. (también: liderar)
+LORDED	(forma de lord) (sustantivo) lord se traduce como ⟪amo⟫
+LORDING	(forma de lord) (sustantivo) lord se traduce como ⟪amo⟫
+LORDINGS	(forma de lord) (sustantivo) lord se traduce como ⟪amo⟫
+LORDOSIS	(sustantivo) lordosis se traduce como lordosis
+LORDS	(sustantivo) Forma del plural de lord: Amo.
+LORE	(sustantivo) lore: Raigambre (conjunto de antecedentes que dotan de identidad a un asunto).
+LORES	(forma de lore) (sustantivo) lore: Raigambre (conjunto de antecedentes que dotan de identidad a un asunto).
+LORICA	(sustantivo) Lórica; estructura tubular que secretan algunos protozoos para protegerse, a modo de concha, a veces quitinosa y en otros casos calcárea o silícea, con un extremo abierto a través del cual se desempeñan las funciones fisiológicas.
+LORICAE	(forma de lorica) (sustantivo) Lórica; estructura tubular que secretan algunos protozoos para protegerse, a modo de concha, a veces...
+LOSE	(verbo) perder: Dejar de poseer un objeto o bien material.
+LOSER	(sustantivo) perdedor: Que pierde.
+LOSERS	(sustantivo) Forma del plural de loser: Perdedor.
+LOSES	(forma de lose) (verbo) perder: Dejar de poseer un objeto o bien material.
+LOSING	(adjetivo) losing se traduce como ⟪perdedor⟫\n(sustantivo) pérdida: Cantidad o cosa perdida.
+LOSS	(sustantivo) pérdida: Cantidad o cosa perdida.
+LOST	(verbo) Pasado simple del verbo (to) lose: Perder.\n(adjetivo) Extraviado de, o incapaz de encontrar el camino; perdido.
+LOT	(sustantivo) Un elemento de un conjunto que es seleccionado al azar.
+LOTION	(sustantivo) loción: Artículo para el aseo del cabello, o para la higiene corporal.
+LOTIONS	(forma de lotion) (sustantivo) loción: Artículo para el aseo del cabello, o para la higiene corporal.
+LOTS	(forma de lot) (sustantivo) Un elemento de un conjunto que es seleccionado al azar.
+LOTTED	(forma de lot) (sustantivo) Un elemento de un conjunto que es seleccionado al azar.
+LOTTERIES	(forma de lottery) (sustantivo) lotería: Sorteo que se hace de dinero u objetos autorizado públicamente.
+LOTTERY	(sustantivo) lotería: Sorteo que se hace de dinero u objetos autorizado públicamente.
+LOTTING	(forma de lot) (sustantivo) Un elemento de un conjunto que es seleccionado al azar.
+LOUD	(adjetivo) ruidoso: Que hace o está lleno de ruido.
+LOUDER	(forma de loud) (adjetivo) ruidoso: Que hace o está lleno de ruido.
+LOUDEST	(forma de loud) (adjetivo) ruidoso: Que hace o está lleno de ruido.
+LOUDLIER	(forma de loudly) (adverbio) ruidosamente: De un modo ruidoso, con ruido.
+LOUDLIEST	(forma de loudly) (adverbio) ruidosamente: De un modo ruidoso, con ruido.
+LOUDLY	(adverbio) ruidosamente: De un modo ruidoso, con ruido.
+LOUDSPEAKER	(sustantivo) altoparlante: Altavoz (dispositivo que convierte ondas eléctricas en sonido). (también: altavoz, magnavoz)
+LOUDSPEAKERS	(forma de loudspeaker) (sustantivo) altoparlante: Altavoz (dispositivo que convierte ondas eléctricas en sonido). (también: altavoz, magnavoz)
+LOUNGE	(sustantivo) lounge se traduce como salón social\n(verbo) Pasar el tiempo relajadamente sin hacer nada.
+LOUNGED	(forma de lounge) (sustantivo) lounge se traduce como salón social
+LOUNGES	(forma de lounge) (sustantivo) lounge se traduce como salón social
+LOUNGING	(forma de lounge) (sustantivo) lounge se traduce como salón social
+LOUSE	(sustantivo) piojo: (Phthiraptera) Cualquiera de más de 3000 especies de insectos ápteros adaptados para parasitar virtualmente todas las especies de mamíferos y aves, cuya sangre consumen, alojándose en el cabello del cuerpo y la cabeza. Su cuerpo está diseñado para este hábitat, con el primer par de patas modificado...
+LOUSED	(forma de louse) (sustantivo) piojo: (Phthiraptera) Cualquiera de más de 3000 especies de insectos ápteros adaptados para parasitar...
+LOUSES	(forma de louse) (sustantivo) piojo: (Phthiraptera) Cualquiera de más de 3000 especies de insectos ápteros adaptados para parasitar...
+LOUSIER	(forma de lousy) (adjetivo) Terrible, de baja calidad.
+LOUSIEST	(forma de lousy) (adjetivo) Terrible, de baja calidad.
+LOUSING	(forma de louse) (sustantivo) piojo: (Phthiraptera) Cualquiera de más de 3000 especies de insectos ápteros adaptados para parasitar...
+LOUSY	(adjetivo) Terrible, de baja calidad.
+LOUT	(sustantivo) lout se traduce como ⟪gamberro⟫
+LOUTED	(forma de lout) (sustantivo) lout se traduce como ⟪gamberro⟫
+LOUTING	(forma de lout) (sustantivo) lout se traduce como ⟪gamberro⟫
+LOUTS	(forma de lout) (sustantivo) lout se traduce como ⟪gamberro⟫
+LOVABLE	(adjetivo) amable: Digno de ser amado.
+LOVE	(verbo) amar: Sentir amor por alguien o algo.\n(sustantivo) amor: Sentimiento afectivo de atracción, unión y afinidad que se experimenta hacia una persona, animal o cosa.
+LOVEBIRD	(adjetivo) lovebird se traduce como ⟪inseparable⟫\n(sustantivo) tortolito: Persona que se comporta de forma muy cariñosa con su pareja. (también: inseparable)
+LOVEBIRDS	(forma de lovebird) (adjetivo) lovebird se traduce como ⟪inseparable⟫
+LOVED	(verbo) Pasado simple del verbo (to) love, amó: Amar.
+LOVELIER	(forma de lovely) (adjetivo) lovely se traduce como ⟪adorable⟫, ⟪amable⟫
+LOVELIES	(forma de lovely) (adjetivo) lovely se traduce como ⟪adorable⟫, ⟪amable⟫
+LOVELIEST	(forma de lovely) (adjetivo) lovely se traduce como ⟪adorable⟫, ⟪amable⟫
+LOVELINESS	(sustantivo) belleza: Cualidad de lo que es bello, se dice de lo que se considera estético a la percepción, que agrada a los sentidos o al espíritu.
+LOVELINESSES	(forma de loveliness) (sustantivo) belleza: Cualidad de lo que es bello, se dice de lo que se considera estético a la percepción, que agrada...
+LOVELY	(adjetivo) lovely se traduce como ⟪adorable⟫, ⟪amable⟫\n(sustantivo) hermosura: Persona o cosa de la que se percibe belleza. (también: belleza)
+LOVER	(sustantivo) amante: Persona que ama.
+LOVERS	(forma de lover) (sustantivo) amante: Persona que ama.
+LOVES	(verbo) Tercera persona del singular (he, she, it) del presente simple del verbo (to) love: Amar.\n(sustantivo) Forma del plural de love: Amar.
+LOVESICKNESS	(sustantivo) lovesickness se traduce como ⟪amartelo⟫
+LOVESICKNESSES	(forma de lovesickness) (sustantivo) lovesickness se traduce como ⟪amartelo⟫
+LOVING	(sustantivo) La acción del verbo love.\n(adjetivo) cariñoso: Aquel que demuestra el cariño mediante dichos, acciones u otras maneras. (también: tierno)
+LOW	(adverbio) bajo: Que está en los estratos inferiores de la sociedad.\n(adjetivo) bajo: Que está en los estratos inferiores de la sociedad.
+LOWED	(forma de low) (adverbio) bajo: Que está en los estratos inferiores de la sociedad.
+LOWER	(adjetivo) Más bajo, comparativo de low.\n(verbo) bajar: Disminuir el precio o costo de algo.
+LOWERED	(verbo) Pasado simple del verbo (to) lower: Más bajo, comparativo de low.
+LOWERING	(forma de lower) (adjetivo) Más bajo, comparativo de low.
+LOWERS	(forma de lower) (adjetivo) Más bajo, comparativo de low.
+LOWES	(forma de low) (adverbio) bajo: Que está en los estratos inferiores de la sociedad.
+LOWEST	(adjetivo) Superlativo de low: sumamente low.
+LOWING	(forma de low) (adverbio) bajo: Que está en los estratos inferiores de la sociedad.
+LOWINGS	(forma de low) (adverbio) bajo: Que está en los estratos inferiores de la sociedad.
+LOWLIER	(forma de lowly) (adjetivo) humilde: Dicho de una cosa, que denota pobreza, insuficiente calidad. (también: modesto, manso)
+LOWLIEST	(forma de lowly) (adjetivo) humilde: Dicho de una cosa, que denota pobreza, insuficiente calidad. (también: modesto, manso)
+LOWLY	(adjetivo) humilde: Dicho de una cosa, que denota pobreza, insuficiente calidad. (también: modesto, manso)\n(adverbio) lowly se traduce como humildemente
+LOWS	(forma de low) (adverbio) bajo: Que está en los estratos inferiores de la sociedad.
+LOYAL	(adjetivo) leal: Fidedigno, verídico y fiel, en el trato o en el desempeño de un oficio o cargo. (también: fiel)
+LOYALER	(forma de loyal) (adjetivo) leal: Fidedigno, verídico y fiel, en el trato o en el desempeño de un oficio o cargo. (también: fiel)
+LOYALEST	(forma de loyal) (adjetivo) leal: Fidedigno, verídico y fiel, en el trato o en el desempeño de un oficio o cargo. (también: fiel)
+LOYALLY	(adverbio) lealmente: con la legalidad, con la debida buena fe
+LOYALTIES	(forma de loyalty) (sustantivo) El estado de ser leal, lealtad; fidelidad.
+LOYALTY	(sustantivo) El estado de ser leal, lealtad; fidelidad.
+LOZENGE	(sustantivo) lozenge se traduce como ⟪losanje⟫
+LOZENGES	(forma de lozenge) (sustantivo) lozenge se traduce como ⟪losanje⟫
+LUAU	(sustantivo) luau se traduce como ⟪luau⟫
+LUAUS	(forma de luau) (sustantivo) luau se traduce como ⟪luau⟫
+LUBRICATE	(verbo) lubricate se traduce como ⟪engrasar⟫
+LUBRICATED	(forma de lubricate) (verbo) lubricate se traduce como ⟪engrasar⟫
+LUBRICATES	(forma de lubricate) (verbo) lubricate se traduce como ⟪engrasar⟫
+LUBRICATING	(forma de lubricate) (verbo) lubricate se traduce como ⟪engrasar⟫
+LUBRICATION	(sustantivo) lubricación: Acción o efecto de volver resbaladizo algo mediante un lubricante.
+LUBRICATIONS	(forma de lubrication) (sustantivo) lubricación: Acción o efecto de volver resbaladizo algo mediante un lubricante.
+LUCID	(adjetivo) lúcido: Con completa y clara consciencia.
+LUCIDITIES	(forma de lucidity) (sustantivo) lucidez: Condición o carácter de lúcido.
+LUCIDITY	(sustantivo) lucidez: Condición o carácter de lúcido.
+LUCIDLY	(adverbio) lucidly se traduce como lúcidamente
+LUCIDNESS	(sustantivo) lucidez: Condición o carácter de lúcido.
+LUCIDNESSES	(forma de lucidness) (sustantivo) lucidez: Condición o carácter de lúcido.
+LUCIFEROUS	(adjetivo) lucífero: Que da o despide luz abundante.\n(sustantivo) lucífero: Que da o despide luz abundante.
+LUCK	(sustantivo) suerte: Sucesión de casualidades que dan lugar a una situación propicia.
+LUCKED	(forma de luck) (sustantivo) suerte: Sucesión de casualidades que dan lugar a una situación propicia.
+LUCKIER	(adjetivo) Comparativo de lucky.
+LUCKIES	(forma de lucky) (adjetivo) suertudo: Que tiene buena suerte, afortunado.
+LUCKIEST	(adjetivo) Superlativo de lucky.
+LUCKILY	(adverbio) afortunadamente: Gracias a la fortuna o a la buena suerte.
+LUCKING	(forma de luck) (sustantivo) suerte: Sucesión de casualidades que dan lugar a una situación propicia.
+LUCKS	(forma de luck) (sustantivo) suerte: Sucesión de casualidades que dan lugar a una situación propicia.
+LUCKY	(adjetivo) suertudo: Que tiene buena suerte, afortunado.
+LUCRATIVENESS	(sustantivo) rentabilidad: Capacidad de producir o generar un beneficio adicional por sobre la inversión o esfuerzo realizado
+LUCRATIVENESSES	(forma de lucrativeness) (sustantivo) rentabilidad: Capacidad de producir o generar un beneficio adicional por sobre la inversión o esfuerzo...
+LUCRE	(sustantivo) lucro: Beneficio o provecho, principalmente económico.
+LUCRES	(forma de lucre) (sustantivo) lucro: Beneficio o provecho, principalmente económico.
+LUDICROUS	(adjetivo) ludicrous se traduce como ⟪risible⟫
+LUDICROUSLY	(adverbio) ludicrously se traduce como ⟪ridículamente|RIDICULAMENTE⟫
+LUGER	(sustantivo) Persona que participa en competencia de trineo.
+LUGERS	(forma de luger) (sustantivo) Persona que participa en competencia de trineo.
+LUGGAGE	(sustantivo) bagaje: Conjunto de cosas que se llevan al viajar.
+LUGGAGES	(forma de luggage) (sustantivo) bagaje: Conjunto de cosas que se llevan al viajar.
+LUGUBRIOUS	(adjetivo) lúgubre: Extremadamente triste, melancólico o deprimente
+LUKEWARM	(adjetivo) tibio: Algo ni frío ni caliente.
+LULL	(sustantivo) lull se traduce como ⟪calma⟫, ⟪tranquilidad⟫\n(verbo) lull se traduce como ⟪arrullar⟫
+LULLABIED	(forma de lullaby) (sustantivo) Canción de cuna.
+LULLABIES	(forma de lullaby) (sustantivo) Canción de cuna.
+LULLABY	(sustantivo) Canción de cuna.
+LULLABYING	(forma de lullaby) (sustantivo) Canción de cuna.
+LULLED	(forma de lull) (sustantivo) lull se traduce como ⟪calma⟫, ⟪tranquilidad⟫
+LULLING	(forma de lull) (sustantivo) lull se traduce como ⟪calma⟫, ⟪tranquilidad⟫
+LULLS	(forma de lull) (sustantivo) lull se traduce como ⟪calma⟫, ⟪tranquilidad⟫
+LUMBAR	(adjetivo) lumbar: Referente al lomo y a la cadera, especialmente a cualquiera de las cinco vértebras de la porción inferior de la espalda.
+LUMBARS	(forma de lumbar) (adjetivo) lumbar: Referente al lomo y a la cadera, especialmente a cualquiera de las cinco vértebras de la porción...
+LUMBER	(sustantivo) trasto: Material o cosa que ya no es útil, que no tiene valor. (también: cacharro)\n(verbo) Hacer que alguien cargue con la responsabilidad.
+LUMBERED	(forma de lumber) (sustantivo) trasto: Material o cosa que ya no es útil, que no tiene valor. (también: cacharro)
+LUMBERING	(adjetivo) lumbering se traduce como ⟪torpe⟫\n(sustantivo) lumbering se traduce como algo inútil
+LUMBERS	(forma de lumber) (sustantivo) trasto: Material o cosa que ya no es útil, que no tiene valor. (también: cacharro)
+LUMEN	(sustantivo) lumen: Unidad derivada del Sistema Internacional que mide la cantidad de luz que incide sobre una superficie unitaria a una determinada distancia a partir de una fuente de una candela.
+LUMENS	(forma de lumen) (sustantivo) lumen: Unidad derivada del Sistema Internacional que mide la cantidad de luz que incide sobre una...
+LUMINA	(forma de lumen) (sustantivo) lumen: Unidad derivada del Sistema Internacional que mide la cantidad de luz que incide sobre una...
+LUMINANCE	(sustantivo) luminancia: Magnitud de la densidad superficial de flujo luminoso por unidad de ángulo sólido en una determinada dirección.
+LUMINANCES	(forma de luminance) (sustantivo) luminancia: Magnitud de la densidad superficial de flujo luminoso por unidad de ángulo sólido en una...
+LUMINOSITIES	(forma de luminosity) (sustantivo) luminosidad: Cualidad o calidad de lo que emite luz.
+LUMINOSITY	(sustantivo) luminosidad: Cualidad o calidad de lo que emite luz.
+LUMINOUS	(adjetivo) luminoso: Referido a un color, que tiene intensidad.
+LUMINOUSLY	(adverbio) luminosamente: De un modo luminoso o con mucha luz.
+LUMP	(sustantivo) grumo: Una parte de un líquido que se coagula.
+LUMPED	(forma de lump) (sustantivo) grumo: Una parte de un líquido que se coagula.
+LUMPEN	(sustantivo) lumpemproletariado: Grupo social inferior al proletariado común, formado por las personas social y económicamente marginadas en ambientes urbanos, carente de conciencia de clase, como las personas que practican la prostitución, mendicidad y delincuencia.
+LUMPENPROLETARIAT	(sustantivo) lumpemproletariado: Grupo social inferior al proletariado común, formado por las personas social y económicamente marginadas en ambientes urbanos, carente de conciencia de clase, como las personas que practican la prostitución, mendicidad y delincuencia.
+LUMPENPROLETARIATS	(forma de lumpenproletariat) (sustantivo) lumpemproletariado: Grupo social inferior al proletariado común, formado por las personas social y...
+LUMPIER	(forma de lumpy) (adjetivo) Grumoso, que no es liso o uniforme.
+LUMPIEST	(forma de lumpy) (adjetivo) Grumoso, que no es liso o uniforme.
+LUMPILY	(forma de lumpy) (adjetivo) Grumoso, que no es liso o uniforme.
+LUMPING	(forma de lump) (sustantivo) grumo: Una parte de un líquido que se coagula.
+LUMPS	(forma de lump) (sustantivo) grumo: Una parte de un líquido que se coagula.
+LUMPY	(adjetivo) Grumoso, que no es liso o uniforme.
+LUNACIES	(forma de lunacy) (sustantivo) locura: Acto temerario, desatinado, imprudente. (también: lunatismo)
+LUNACY	(sustantivo) locura: Acto temerario, desatinado, imprudente. (también: lunatismo)
+LUNATIC	(adjetivo) lunático: Dicho de una cosa o actitud, propia de un lunático_(1–2).\n(sustantivo) Demente o lunático.
+LUNATICS	(forma de lunatic) (adjetivo) lunático: Dicho de una cosa o actitud, propia de un lunático_(1–2).
+LUNCH	(sustantivo) Una comida ligera usualmente comida alrededor del mediodía, especialmente si no es la principal comida del día; lonche.\n(verbo) almorzar: Comer alguna cosa en el almuerzo.
+LUNCHED	(forma de lunch) (sustantivo) Una comida ligera usualmente comida alrededor del mediodía, especialmente si no es la principal comida del...
+LUNCHES	(forma de lunch) (sustantivo) Una comida ligera usualmente comida alrededor del mediodía, especialmente si no es la principal comida del...
+LUNCHING	(forma de lunch) (sustantivo) Una comida ligera usualmente comida alrededor del mediodía, especialmente si no es la principal comida del...
+LUNG	(sustantivo) pulmón: Órgano respitatorio de arañas, escorpiones y otros arácnidos formado por una serie de cavidades de tejido del sistema respiratorio del animal, organizadas como las páginas de un libro.
+LUNGS	(sustantivo) Forma del plural de lung: Pulmón.
+LUPIN	(sustantivo) chocho: (Lupinus spp.) Plantas leguminosas arbustivas con inflorescencias vistosas y hojas palmadas. Tienen uso como ornamentales y en la alimentación humana y animal, a pesar de la presencia de múltiples sustancias tóxicas en sus semillas. (también: altramuz, lupino)\n(adjetivo) lupino: (Lupinus spp.) Plantas leguminosas arbustivas con inflorescencias vistosas y hojas palmadas. Tienen uso como ornamentales y en la alimentación humana y animal, a pesar de la presencia de múltiples sustancias tóxicas en sus semillas.
+LUPINE	(adjetivo) lupine se traduce como ⟪lobuno⟫
+LUPINES	(forma de lupine) (adjetivo) lupine se traduce como ⟪lobuno⟫
+LUPINS	(forma de lupin) (sustantivo) chocho: (Lupinus spp.) Plantas leguminosas arbustivas con inflorescencias vistosas y hojas palmadas....
+LUPUS	(sustantivo) lupus: Enfermedad autoinmune crónica que afecta al tejido conjuntivo, caracterizada por inflamación y daño de tejidos.
+LUPUSES	(forma de lupus) (sustantivo) lupus: Enfermedad autoinmune crónica que afecta al tejido conjuntivo, caracterizada por inflamación y daño...
+LURE	(verbo) Lanzar la carnada\n(sustantivo) señuelo: Cualquier cosa que sirve para atraer, persuadir o inducir, con alguna falacia. (también: cebo, carnada)
+LURED	(forma de lure) (verbo) Lanzar la carnada
+LURER	(forma de lure) (verbo) Lanzar la carnada
+LURES	(forma de lure) (verbo) Lanzar la carnada
+LURIDLY	(adverbio) brillantemente: De manera brillante, con mucho lucimiento. (también: violentamente, horriblemente)
+LURING	(forma de lure) (verbo) Lanzar la carnada
+LURK	(verbo) Merodear, estar al acecho.\n(sustantivo) Esquema o estratagema provechoso.
+LURKED	(verbo) Pasado simple del verbo (to) lurk: Merodear, estar al acecho.
+LURKER	(adjetivo) acechador: Que acecha.
+LURKERS	(forma de lurker) (adjetivo) acechador: Que acecha.
+LURKING	(verbo) Participio presente de lurk.\n(sustantivo) asechanza: Engaño o artificio para perjudicar a alguien.
+LURKS	(forma de lurk) (verbo) Merodear, estar al acecho.
+LUSH	(adjetivo) lush se traduce como exhuberante
+LUSHED	(forma de lush) (adjetivo) lush se traduce como exhuberante
+LUSHER	(forma de lush) (adjetivo) lush se traduce como exhuberante
+LUSHES	(forma de lush) (adjetivo) lush se traduce como exhuberante
+LUSHEST	(forma de lush) (adjetivo) lush se traduce como exhuberante
+LUSHING	(forma de lush) (adjetivo) lush se traduce como exhuberante
+LUSHLY	(adverbio) exuberantemente: De un modo exuberante, con exuberancia.
+LUST	(sustantivo) lujuria: Vicio consistente en el uso ilícito o en el apetito desordenado de los deleites carnales.
+LUSTED	(forma de lust) (sustantivo) lujuria: Vicio consistente en el uso ilícito o en el apetito desordenado de los deleites carnales.
+LUSTER	(verbo) luster se traduce como lustrar
+LUSTERED	(forma de luster) (verbo) luster se traduce como lustrar
+LUSTERS	(forma de luster) (verbo) luster se traduce como lustrar
+LUSTFUL	(adjetivo) lujurioso: Que se entrega al apetito sexual o a la lujuria.
+LUSTIER	(forma de lusty) (adjetivo) apasionado: Que siente una pasión, afición, atracción, convicción o afecto muy intensos.
+LUSTIEST	(forma de lusty) (adjetivo) apasionado: Que siente una pasión, afición, atracción, convicción o afecto muy intensos.
+LUSTILY	(adverbio) lustily se traduce como ⟪apasionadamente⟫
+LUSTING	(verbo) Participio presente de lust.\n(sustantivo) Acto de lujuria.
+LUSTROUS	(adjetivo) lustroso: Que tiene lustre.
+LUSTROUSLY	(adverbio) lustrously se traduce como lustrosamente
+LUSTRUM	(sustantivo) lustro: Espacio de tiempo de cinco años.
+LUSTRUMS	(forma de lustrum) (sustantivo) lustro: Espacio de tiempo de cinco años.
+LUSTS	(forma de lust) (sustantivo) lujuria: Vicio consistente en el uso ilícito o en el apetito desordenado de los deleites carnales.
+LUSTY	(adjetivo) apasionado: Que siente una pasión, afición, atracción, convicción o afecto muy intensos.
+LUTECIUM	(sustantivo) lutecium se traduce como ⟪lutecio⟫
+LUTECIUMS	(forma de lutecium) (sustantivo) lutecium se traduce como ⟪lutecio⟫
+LUTEIN	(sustantivo) luteína: Compuesto químico anaranjado, de fórmula C₄₀H₅₄(OH)₂ (es el β,ε-caroteno-3,3'-diol), isómero de la zeaxantina, del grupo de los xantófilos. Lo contienen algas, bacterias fotosintéticas, la yema de huevo, pimientos, col, (repollo), lechuga, espinacas, maíz, mostaza, kiwi y el cuerpo lúteo. Así mismo...
+LUTEINS	(forma de lutein) (sustantivo) luteína: Compuesto químico anaranjado, de fórmula C₄₀H₅₄(OH)₂ (es el β,ε-caroteno-3,3'-diol), isómero de...
+LUTETIUM	(sustantivo) lutetium se traduce como ⟪lutecio⟫
+LUTETIUMS	(forma de lutetium) (sustantivo) lutetium se traduce como ⟪lutecio⟫
+LUXURIANT	(adjetivo) luxuriant se traduce como ⟪lujoso⟫
+LUXURIANTLY	(adverbio) lujosamente: De un modo lujoso o con lujo.
+LUXURIES	(forma de luxury) (sustantivo) lujo: Gran abundancia, especialmente en cuanto a la pompa, comodidad o sofisticación.
+LUXURIOUS	(adjetivo) lujoso: Con lujo o comodidades por encima de lo común.
+LUXURIOUSLY	(adverbio) lujosamente: De un modo lujoso o con lujo.
+LUXURY	(sustantivo) lujo: Gran abundancia, especialmente en cuanto a la pompa, comodidad o sofisticación.
+LYCANTHROPE	(sustantivo) licántropo: Mítica criatura que, según creencias populares, se trasforma en lobo cada noche de luna llena.
+LYCANTHROPES	(forma de lycanthrope) (sustantivo) licántropo: Mítica criatura que, según creencias populares, se trasforma en lobo cada noche de luna llena.
+LYCANTHROPIES	(forma de lycanthropy) (sustantivo) licantropía: Supuesta habilidad o poder que tienen algunos seres humanos para transformarse en hombre lobo...
+LYCANTHROPY	(sustantivo) licantropía: Supuesta habilidad o poder que tienen algunos seres humanos para transformarse en hombre lobo según ciertas tradiciones folclóricas principalmente europeas.
+LYCHEE	(sustantivo) lichi: (Litchi chinensis) Árbol frutal tropical originario del sur de China. Alcanza hasta 12 m de altura, tiene ramitas finas, las flores suelen tener seis estambres, los frutos son lisos o con protuberancias de hasta 2 mm (0,1 plg).
+LYCHEES	(forma de lychee) (sustantivo) lichi: (Litchi chinensis) Árbol frutal tropical originario del sur de China. Alcanza hasta 12 m de altura,...
+LYE	(sustantivo) lejía: Por extensión, solución de hipoclorito de sodio, empleada como limpiador o desinfectante.
+LYES	(forma de lye) (sustantivo) lejía: Por extensión, solución de hipoclorito de sodio, empleada como limpiador o desinfectante.
+LYING	(sustantivo) lying se traduce como ⟪falsedad⟫\n(adjetivo) lying se traduce como ⟪falso⟫, ⟪engañoso⟫
+LYINGS	(forma de lie) (verbo) yacer: Estar en posición horizontal o supina (también: estar acostado, estar tumbado)
+LYMPH	(sustantivo) linfa: Líquido corporal que es parte del plasma sanguíneo y que recorre los vasos linfáticos, siendo parte del sistema defensivo y nutritivo del organismo.
+LYMPHADENOPATHIES	(forma de lymphadenopathy) (sustantivo) adenopatía: Término que se usa en medicina para referirse a un trastorno inespecífico de los ganglios...
+LYMPHADENOPATHY	(sustantivo) adenopatía: Término que se usa en medicina para referirse a un trastorno inespecífico de los ganglios linfáticos. En la mayoría de los casos, el término se usa como sinónimo genéralizado de una tumefacción, aumento de volumen o inflamación de los ganglios linfáticos, acompañado o no de fiebre.
+LYMPHATIC	(adjetivo) linfático: Propio de la linfa o relacionado con ella.
+LYMPHATICS	(forma de lymphatic) (adjetivo) linfático: Propio de la linfa o relacionado con ella.
+LYMPHOMA	(sustantivo) linfoma: Conjunto de enfermedades cancerosas que se desarrollan en el sistema linfático, que también forman parte del sistema inmunológico del cuerpo humano. A los linfomas también se les llama los tumores sólidos hematológicos para diferenciarlos de las leucemias.
+LYMPHOMAS	(forma de lymphoma) (sustantivo) linfoma: Conjunto de enfermedades cancerosas que se desarrollan en el sistema linfático, que también...
+LYMPHOMATA	(forma de lymphoma) (sustantivo) linfoma: Conjunto de enfermedades cancerosas que se desarrollan en el sistema linfático, que también...
+LYMPHS	(forma de lymph) (sustantivo) linfa: Líquido corporal que es parte del plasma sanguíneo y que recorre los vasos linfáticos, siendo parte...
+LYNX	(sustantivo) lince: Mamífero carnívoro de la familia félidos, muy parecido al gato montés.
+LYNXES	(forma de lynx) (sustantivo) lince: Mamífero carnívoro de la familia félidos, muy parecido al gato montés.
+LYRE	(sustantivo) lira: Instrumento musical de cuerda utilizado en la Antigüedad, formado por varias cuerdas tensadas en un marco cuya vibración amplifica el sonido de las mismas.
+LYRES	(forma de lyre) (sustantivo) lira: Instrumento musical de cuerda utilizado en la Antigüedad, formado por varias cuerdas tensadas en un...
+LYRIC	(adjetivo) lírico: Relacionado con la lira, con el canto, o con la expresión emotiva.
+LYRICALLY	(adverbio) líricamente: De un modo lírico.
+LYRICISM	(sustantivo) lirismo: Uso excesivo o inadecuado de cualidades líricas tales como la abundancia de adjetivos o de emotividad.
+LYRICISMS	(forma de lyricism) (sustantivo) lirismo: Uso excesivo o inadecuado de cualidades líricas tales como la abundancia de adjetivos o de...
+LYRICS	(sustantivo) letra: Versos que componen la parte vocal de una canción.
+LYSINE	(sustantivo) lisina: Uno de los nueve aminoácidos que son esenciales para el ser humano.
+LYSINES	(forma de lysine) (sustantivo) lisina: Uno de los nueve aminoácidos que son esenciales para el ser humano.

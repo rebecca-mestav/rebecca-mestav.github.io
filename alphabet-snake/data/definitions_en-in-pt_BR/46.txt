@@ -1,0 +1,1791 @@
+FABLE	(substantivo) fábula: história curta, onde normalmente os animais falam e têm personalidade
+FABLES	(forma de fable) (substantivo) fábula: história curta, onde normalmente os animais falam e têm personalidade
+FABLING	(forma de fable) (substantivo) fábula: história curta, onde normalmente os animais falam e têm personalidade
+FABRIC	(substantivo) tecido: pano formado pela reunião de fios entrelaçados
+FABRICATION	(substantivo) fabricação: ato ou efeito de fabricar
+FABRICATIONS	(forma de fabrication) (substantivo) fabricação: ato ou efeito de fabricar
+FABRICS	(substantivo) plural de fabric: tecido
+FABULOUS	(adjetivo) irado: muito bom, muito legal, que agrada bastante: muito bonito, muito interessante, muito excitante, muito moderno, muito divertido etc (também: fabuloso)
+FABULOUSLY	(advérbio) fabulosamente: de forma fabulosa
+FACADE	(substantivo) fachada: frontaria de um edifício
+FACADES	(forma de facade) (substantivo) fachada: frontaria de um edifício
+FACE	(substantivo) a parte frontal da cabeça, incluindo os olhos, o nariz a boca e a área ao redor\n(verbo) encarar: olhar de frente e fixamente; fitar
+FACED	(forma de face) (substantivo) a parte frontal da cabeça, incluindo os olhos, o nariz a boca e a área ao redor
+FACES	(forma de face) (substantivo) a parte frontal da cabeça, incluindo os olhos, o nariz a boca e a área ao redor
+FACET	(substantivo) faceta: aspecto, ponto de vista do qual se pode examinar um assunto
+FACETING	(forma de facet) (substantivo) faceta: aspecto, ponto de vista do qual se pode examinar um assunto
+FACETIOUS	(adjetivo) faceto: jocoso, brincalhão
+FACETS	(forma de facet) (substantivo) faceta: aspecto, ponto de vista do qual se pode examinar um assunto
+FACIALLY	(advérbio) facialmente: de modo facial
+FACILE	(adjetivo) simplório: simples, de pouca ambição, humilde
+FACILELY	(forma de facile) (adjetivo) simplório: simples, de pouca ambição, humilde
+FACILITATE	(verbo) facilitar: tornar fácil
+FACILITATED	(forma de facilitate) (verbo) facilitar: tornar fácil
+FACILITATES	(forma de facilitate) (verbo) facilitar: tornar fácil
+FACILITATING	(forma de facilitate) (verbo) facilitar: tornar fácil
+FACING	(forma de face) (substantivo) a parte frontal da cabeça, incluindo os olhos, o nariz a boca e a área ao redor
+FACINGS	(forma de face) (substantivo) a parte frontal da cabeça, incluindo os olhos, o nariz a boca e a área ao redor
+FACT	(substantivo) facto ^((português europeu)) ou fato ^((português do Brasil))
+FACTION	(substantivo) faction se traduz como ⟪facção|FACÇAO⟫, ⟪fação|FAÇAO⟫
+FACTIONS	(forma de faction) (substantivo) faction se traduz como ⟪facção|FACÇAO⟫, ⟪fação|FAÇAO⟫
+FACTOID	(substantivo) factoide: fato real ou fictício apresentado com personalismo, como forma de propaganda política
+FACTOIDS	(forma de factoid) (substantivo) factoide: fato real ou fictício apresentado com personalismo, como forma de propaganda política
+FACTOR	(substantivo) fator: cada um dos elementos que contribuem para um resultado ou situação particular\n(verbo) fatorar: determinar a lista de fatores de um número ou expressão
+FACTORED	(forma de factor) (substantivo) fator: cada um dos elementos que contribuem para um resultado ou situação particular
+FACTORIAL	(substantivo) fatorial: produto de vários números consecutivos, sendo o primeiro a unidade [o fatorial de n (número inteiro qualquer): significa 1 × 2 × 3 × ... × n, produto que tem por notação: n!]
+FACTORIALS	(forma de factorial) (substantivo) fatorial: produto de vários números consecutivos, sendo o primeiro a unidade [o fatorial de n (número...
+FACTORIES	(forma de factory) (substantivo) fábrica: estabelecimento onde se fabrica
+FACTORING	(substantivo) factoring se traduz como faturização
+FACTORIZATION	(substantivo) fatoração: transformação de uma expressão em produto de fatores
+FACTORIZATIONS	(forma de factorization) (substantivo) fatoração: transformação de uma expressão em produto de fatores
+FACTORS	(forma de factor) (substantivo) fator: cada um dos elementos que contribuem para um resultado ou situação particular
+FACTORY	(substantivo) fábrica: estabelecimento onde se fabrica
+FACTOTUM	(substantivo) factótum: aquele que se ocupa de tudo ou que quer preencher todas as funções de uma casa (também: factoto, faz-tudo)
+FACTOTUMS	(forma de factotum) (substantivo) factótum: aquele que se ocupa de tudo ou que quer preencher todas as funções de uma casa (também:...
+FACTS	(forma de fact) (substantivo) facto ^((português europeu)) ou fato ^((português do Brasil))
+FACTUAL	(adjetivo) factual: referente a ou baseado em factos (também: fatual)
+FACTUALITIES	(forma de factuality) (substantivo) factualidade: qualidade de factual
+FACTUALITY	(substantivo) factualidade: qualidade de factual
+FACTUALLY	(advérbio) factualmente: de modo factual
+FACULTATIVELY	(advérbio) facultativamente: de modo facultativo
+FAD	(substantivo) fad se traduz como ⟪moda⟫
+FADE	(adjetivo) fade se traduz como ⟪fraco⟫, ⟪insípido|INSIPIDO⟫, ⟪insosso⟫\n(substantivo) certa jogada no golfe
+FADED	(forma de fade) (adjetivo) fade se traduz como ⟪fraco⟫, ⟪insípido|INSIPIDO⟫, ⟪insosso⟫
+FADES	(forma de fade) (adjetivo) fade se traduz como ⟪fraco⟫, ⟪insípido|INSIPIDO⟫, ⟪insosso⟫
+FADING	(substantivo) esmaecimento: ação de perder as forças, a cor e/ou o vigor (também: enfraquecimento, desbotamento)\n(verbo) gerúndio do verbo fade: fraco; insípido; insosso
+FADINGS	(forma de fade) (adjetivo) fade se traduz como ⟪fraco⟫, ⟪insípido|INSIPIDO⟫, ⟪insosso⟫
+FADO	(substantivo) fado: gênero musical português urbano, que geralmente trata de temas sombrios, cantado por fadista e acompanhado de viola e guitarra portuguesa
+FADOS	(forma de fado) (substantivo) fado: gênero musical português urbano, que geralmente trata de temas sombrios, cantado por fadista e...
+FADS	(forma de fad) (substantivo) fad se traduz como ⟪moda⟫
+FAIENCE	(substantivo) faiança: louça feita com pedras moídas até formarem um pó
+FAIENCES	(forma de faience) (substantivo) faiança: louça feita com pedras moídas até formarem um pó
+FAIL	(verbo) raposar: primeira e terceira pessoas do singular do presente do modo subjuntivo / conjuntivo de raposar (também: reprovar)
+FAILED	(forma de fail) (verbo) raposar: primeira e terceira pessoas do singular do presente do modo subjuntivo / conjuntivo de raposar...
+FAILING	(forma de fail) (verbo) raposar: primeira e terceira pessoas do singular do presente do modo subjuntivo / conjuntivo de raposar...
+FAILINGLY	(forma de fail) (verbo) raposar: primeira e terceira pessoas do singular do presente do modo subjuntivo / conjuntivo de raposar...
+FAILINGS	(forma de fail) (verbo) raposar: primeira e terceira pessoas do singular do presente do modo subjuntivo / conjuntivo de raposar...
+FAILS	(forma de fail) (verbo) raposar: primeira e terceira pessoas do singular do presente do modo subjuntivo / conjuntivo de raposar...
+FAILURE	(substantivo) falha: fracasso; insucesso; ação ou evento em que não se obteve sucesso (também: fracasso, falhanço)
+FAILURES	(forma de failure) (substantivo) falha: fracasso; insucesso; ação ou evento em que não se obteve sucesso (também: fracasso, falhanço)
+FAINT	(verbo) faint se traduz como ⟪desmaiar⟫\n(substantivo) desmaio: perda dos sentidos
+FAINTED	(verbo) flexão do verbo faint: desmaiar
+FAINTER	(forma de faint) (verbo) faint se traduz como ⟪desmaiar⟫
+FAINTEST	(forma de faint) (verbo) faint se traduz como ⟪desmaiar⟫
+FAINTING	(forma de faint) (verbo) faint se traduz como ⟪desmaiar⟫
+FAINTLY	(advérbio) desvanecidamente: de modo desvanecido (também: esbatidamente)
+FAINTS	(forma de faint) (verbo) faint se traduz como ⟪desmaiar⟫
+FAIR	(adjetivo) bonito; que agrada os olhos\n(substantivo) algo que é justo
+FAIRED	(forma de fair) (adjetivo) bonito; que agrada os olhos
+FAIRER	(forma de fair) (adjetivo) bonito; que agrada os olhos
+FAIREST	(forma de fair) (adjetivo) bonito; que agrada os olhos
+FAIRIES	(substantivo) plural de fairy: de fadas, feérico
+FAIRING	(forma de fair) (adjetivo) bonito; que agrada os olhos
+FAIRINGS	(forma de fair) (adjetivo) bonito; que agrada os olhos
+FAIRS	(forma de fair) (adjetivo) bonito; que agrada os olhos
+FAIRY	(adjetivo) feérico: pertencente ao mundo da fantasia, mágico, fantástico (também: de fadas)\n(substantivo) fada: entidade imaginária feminina e voadora, com poderes mágicos
+FAITH	(substantivo) faith se traduz como fé
+FAITHFULLY	(advérbio) encarecidamente: de maneira encarecida, com zelo, atenção, empenho
+FAITHFULNESS	(substantivo) fidelidade: característica de quem é fiel (também: lealdade)
+FAITHFULNESSES	(forma de faithfulness) (substantivo) fidelidade: característica de quem é fiel (também: lealdade)
+FAITHING	(forma de faith) (substantivo) faith se traduz como fé
+FAITHS	(forma de faith) (substantivo) faith se traduz como fé
+FAKE	(adjetivo) fake se traduz como ⟪falso⟫\n(substantivo) fake se traduz como objeto falso
+FAKED	(forma de fake) (adjetivo) fake se traduz como ⟪falso⟫
+FAKEER	(forma de fake) (adjetivo) fake se traduz como ⟪falso⟫
+FAKEERS	(forma de fake) (adjetivo) fake se traduz como ⟪falso⟫
+FAKES	(forma de fake) (adjetivo) fake se traduz como ⟪falso⟫
+FAKING	(forma de fake) (adjetivo) fake se traduz como ⟪falso⟫
+FAKIR	(substantivo) fakir se traduz como faquir
+FAKIRS	(forma de fakir) (substantivo) fakir se traduz como faquir
+FALCIFORM	(adjetivo) falciforme: que tem forma de foice
+FALCON	(substantivo) falcon se traduz como ⟪falcão|FALCAO⟫
+FALCONER	(substantivo) falcoeiro: praticante da falcoaria
+FALCONERS	(forma de falconer) (substantivo) falcoeiro: praticante da falcoaria
+FALCONS	(forma de falcon) (substantivo) falcon se traduz como ⟪falcão|FALCAO⟫
+FALL	(substantivo) queda: o fato de cair, tombo\n(verbo) cair: ir ao chão
+FALLACIES	(forma de fallacy) (substantivo) falácia: ardil retórico, sem sentido, falho
+FALLACIOUS	(adjetivo) fallacious se traduz como ⟪falaz⟫
+FALLACIOUSLY	(advérbio) falaciosamente: de modo falacioso
+FALLACY	(substantivo) falácia: ardil retórico, sem sentido, falho
+FALLBACK	(substantivo) fallback se traduz como ⟪contingência|CONTINGENCIA⟫, plano B
+FALLBACKS	(forma de fallback) (substantivo) fallback se traduz como ⟪contingência|CONTINGENCIA⟫, plano B
+FALLEN	(forma de fall) (substantivo) queda: o fato de cair, tombo
+FALLIBLY	(advérbio) falivelmente: de modo falível
+FALLING	(verbo) gerúndio do verbo "to fall": queda
+FALLOUT	(substantivo) fallout se traduz como ⟪efeito⟫
+FALLOUTS	(forma de fallout) (substantivo) fallout se traduz como ⟪efeito⟫
+FALLOW	(substantivo) pousio: terreno agrícola que fica sem cultivar, sem lavrar, depois da colheita, em descanso; a mesma interrupção ou descanso no aproveitamento agrícola de um terreno de lavoura
+FALLOWED	(forma de fallow) (substantivo) pousio: terreno agrícola que fica sem cultivar, sem lavrar, depois da colheita, em descanso; a mesma...
+FALLOWING	(forma de fallow) (substantivo) pousio: terreno agrícola que fica sem cultivar, sem lavrar, depois da colheita, em descanso; a mesma...
+FALLOWS	(forma de fallow) (substantivo) pousio: terreno agrícola que fica sem cultivar, sem lavrar, depois da colheita, em descanso; a mesma...
+FALLS	(forma de fall) (substantivo) queda: o fato de cair, tombo
+FALSE	(adjetivo) falso: que não é verdadeiro
+FALSER	(forma de false) (adjetivo) falso: que não é verdadeiro
+FALSEST	(forma de false) (adjetivo) falso: que não é verdadeiro
+FALSETTO	(substantivo) falsete: tipo de registro vocal mais agudo do que a voz normal, devido à posição tomada pelas pregas vocais que, em vez de se manterem juntas em toda a extensão, afastam-se na parte anterior, reduzindo a parte que vibra e aumentando, assim, a frequência do som fundamental [permite a ampliação da tessitura...
+FALSETTOS	(forma de falsetto) (substantivo) falsete: tipo de registro vocal mais agudo do que a voz normal, devido à posição tomada pelas pregas...
+FALSIFIED	(forma de falsify) (verbo) falsificar: imitar ou alterar com fraude
+FALSIFIES	(forma de falsify) (verbo) falsificar: imitar ou alterar com fraude
+FALSIFY	(verbo) falsificar: imitar ou alterar com fraude
+FALSIFYING	(forma de falsify) (verbo) falsificar: imitar ou alterar com fraude
+FALSITIES	(forma de falsity) (substantivo) falsidade: conhecimento, ideia ou proposição que está de desacordo com o real
+FALSITY	(substantivo) falsidade: conhecimento, ideia ou proposição que está de desacordo com o real
+FALTERINGLY	(advérbio) titubeantemente: de forma titubeante
+FAMILIAR	(adjetivo) familiar: que é da família\n(substantivo) familiar: que é da família
+FAMILIARITIES	(forma de familiarity) (substantivo) familiaridade: conhecimento sobre algo
+FAMILIARITY	(substantivo) familiaridade: conhecimento sobre algo
+FAMILIARIZE	(verbo) familiarizar: tornar familiar, íntimo
+FAMILIARIZED	(forma de familiarize) (verbo) familiarizar: tornar familiar, íntimo
+FAMILIARIZES	(forma de familiarize) (verbo) familiarizar: tornar familiar, íntimo
+FAMILIARIZING	(forma de familiarize) (verbo) familiarizar: tornar familiar, íntimo
+FAMILIARLY	(advérbio) familiarmente: de modo familiar
+FAMILIARS	(substantivo) plural de familiar: familiar
+FAMILIES	(forma de family) (substantivo) família: pessoas que vivem numa mesma habitação
+FAMILY	(substantivo) família: pessoas que vivem numa mesma habitação
+FAMOUS	(adjetivo) famoso: notável
+FAMOUSLY	(advérbio) famosamente: de forma famosa (também: celebremente)
+FAN	(substantivo) fan se traduz como fã
+FANATIC	(adjetivo) fanático: entusiasta
+FANATICAL	(adjetivo) fanático: entusiasta
+FANATICALLY	(advérbio) fanaticamente: de modo fanático
+FANATICISM	(substantivo) fanatismo: adoração religiosa exagerada, que distancia-se da racionalidade
+FANATICISMS	(forma de fanaticism) (substantivo) fanatismo: adoração religiosa exagerada, que distancia-se da racionalidade
+FANATICS	(forma de fanatic) (adjetivo) fanático: entusiasta
+FANCIED	(forma de fancy) (verbo) admirar: ter admiração
+FANCIER	(forma de fancy) (verbo) admirar: ter admiração
+FANCIERS	(forma de fancy) (verbo) admirar: ter admiração
+FANCIES	(verbo) conjugação de fancy: admirar
+FANCIEST	(forma de fancy) (verbo) admirar: ter admiração
+FANCILY	(forma de fancy) (verbo) admirar: ter admiração
+FANCY	(verbo) admirar: ter admiração
+FANCYING	(forma de fancy) (verbo) admirar: ter admiração
+FANES	(forma de fan) (substantivo) fan se traduz como fã
+FANFARE	(substantivo) fanfare se traduz como ⟪fanfarra⟫
+FANFARES	(forma de fanfare) (substantivo) fanfare se traduz como ⟪fanfarra⟫
+FANG	(substantivo) fang se traduz como ⟪presa⟫
+FANGS	(forma de fang) (substantivo) fang se traduz como ⟪presa⟫
+FANNED	(forma de fan) (substantivo) fan se traduz como fã
+FANNIES	(forma de fanny) (substantivo) panela: prática própria de feitiçaria, feitiço (também: buceta)
+FANNING	(forma de fan) (substantivo) fan se traduz como fã
+FANNY	(substantivo) panela: prática própria de feitiçaria, feitiço (também: buceta)
+FANS	(forma de fan) (substantivo) fan se traduz como fã
+FANTASIED	(forma de fantasy) (substantivo) fantasia: imaginação criadora
+FANTASIES	(forma de fantasy) (substantivo) fantasia: imaginação criadora
+FANTASTIC	(adjetivo) irado: muito bom, muito legal, que agrada bastante: muito bonito, muito interessante, muito excitante, muito moderno, muito divertido etc (também: fantástico)
+FANTASTICALLY	(advérbio) fantasticamente: de modo fantástico
+FANTASTICS	(forma de fantastic) (adjetivo) irado: muito bom, muito legal, que agrada bastante: muito bonito, muito interessante, muito excitante, muito...
+FANTASY	(substantivo) fantasia: imaginação criadora
+FANTASYING	(forma de fantasy) (substantivo) fantasia: imaginação criadora
+FAR	(adjetivo) far se traduz como ⟪longínquo|LONGINQUO⟫, ⟪distante⟫, ⟪afastado⟫\n(advérbio) far se traduz como ⟪longe⟫
+FARER	(forma de far) (adjetivo) far se traduz como ⟪longínquo|LONGINQUO⟫, ⟪distante⟫, ⟪afastado⟫
+FAREWELL	(substantivo) despedida: ato de despedir-se\n(interjeição) farewell se traduz como ⟪adeus⟫
+FAREWELLED	(forma de farewell) (substantivo) despedida: ato de despedir-se
+FAREWELLING	(forma de farewell) (substantivo) despedida: ato de despedir-se
+FAREWELLS	(forma de farewell) (substantivo) despedida: ato de despedir-se
+FARM	(substantivo) fazenda: grande propriedade rural (também: farma)\n(verbo) farmar: fazer ação de forma a obter itens que melhorem o poder de jogabilidade do personagem
+FARMED	(forma de farm) (substantivo) fazenda: grande propriedade rural (também: farma)
+FARMER	(substantivo) fazendeiro: dono de fazenda
+FARMERS	(forma de farmer) (substantivo) fazendeiro: dono de fazenda
+FARMHAND	(substantivo) farmhand se traduz como ⟪agricultor⟫, ⟪agricultora⟫, trabalhador rural
+FARMHANDS	(forma de farmhand) (substantivo) farmhand se traduz como ⟪agricultor⟫, ⟪agricultora⟫, trabalhador rural
+FARMING	(substantivo) agricultura: ciência que se encarrega do correto cultivo da terra
+FARMINGS	(forma de farm) (substantivo) fazenda: grande propriedade rural (também: farma)
+FARMS	(forma de farm) (substantivo) fazenda: grande propriedade rural (também: farma)
+FARO	(substantivo) certo jogo de cartas no qual todos os participantes jogam contra a banca
+FAROS	(forma de faro) (substantivo) certo jogo de cartas no qual todos os participantes jogam contra a banca
+FARSEEING	(adjetivo) que enxerga longe
+FART	(substantivo) fart se traduz como ⟪peido⟫\n(verbo) peidar: soltar gases pelo ânus
+FARTED	(forma de fart) (substantivo) fart se traduz como ⟪peido⟫
+FARTING	(forma de fart) (substantivo) fart se traduz como ⟪peido⟫
+FARTS	(forma de fart) (substantivo) fart se traduz como ⟪peido⟫
+FASCICULATION	(substantivo) fasciculação: movimentos finos ou contração muscular de uma pequena área de músculo
+FASCICULATIONS	(forma de fasciculation) (substantivo) fasciculação: movimentos finos ou contração muscular de uma pequena área de músculo
+FASCINATE	(verbo) fascinar: deslumbrar
+FASCINATED	(forma de fascinate) (verbo) fascinar: deslumbrar
+FASCINATES	(forma de fascinate) (verbo) fascinar: deslumbrar
+FASCINATING	(adjetivo) fascinador: que fascina (também: fascinante)
+FASCINATINGLY	(advérbio) fascinantemente: de forma fascinante
+FASCINATION	(substantivo) fascinação: encanto, forte atração
+FASCINATIONS	(forma de fascination) (substantivo) fascinação: encanto, forte atração
+FASCISM	(substantivo) fascismo: filosofia política, movimento ou regime que exalta a nação de forma ufanista e patriarcal, sob um governo centralizado autocrático encabeçado por um líder ditatorial, com severa arregimentação econômica e social e forçada supressão da oposição
+FASCISMS	(forma de fascism) (substantivo) fascismo: filosofia política, movimento ou regime que exalta a nação de forma ufanista e patriarcal, sob...
+FASHION	(substantivo) moda: uso passageiro que regula, de acordo com o gosto do momento, a forma de viver, de vestir, etc
+FASHIONED	(forma de fashion) (substantivo) moda: uso passageiro que regula, de acordo com o gosto do momento, a forma de viver, de vestir, etc
+FASHIONING	(forma de fashion) (substantivo) moda: uso passageiro que regula, de acordo com o gosto do momento, a forma de viver, de vestir, etc
+FASHIONS	(forma de fashion) (substantivo) moda: uso passageiro que regula, de acordo com o gosto do momento, a forma de viver, de vestir, etc
+FAST	(adjetivo) fast se traduz como ⟪rápido|RAPIDO⟫\n(substantivo) fast se traduz como ⟪jejum⟫
+FASTED	(forma de fast) (adjetivo) fast se traduz como ⟪rápido|RAPIDO⟫
+FASTEN	(verbo) prender: juntar duas coisas de forma que não se soltem; atar, ligar, unir
+FASTENED	(forma de fasten) (verbo) prender: juntar duas coisas de forma que não se soltem; atar, ligar, unir
+FASTENER	(substantivo) prendedor: algo ou alguém que prende ou fixa algo
+FASTENERS	(forma de fastener) (substantivo) prendedor: algo ou alguém que prende ou fixa algo
+FASTENING	(forma de fasten) (verbo) prender: juntar duas coisas de forma que não se soltem; atar, ligar, unir
+FASTENINGS	(forma de fasten) (verbo) prender: juntar duas coisas de forma que não se soltem; atar, ligar, unir
+FASTENS	(forma de fasten) (verbo) prender: juntar duas coisas de forma que não se soltem; atar, ligar, unir
+FASTER	(forma de fast) (adjetivo) fast se traduz como ⟪rápido|RAPIDO⟫
+FASTEST	(forma de fast) (adjetivo) fast se traduz como ⟪rápido|RAPIDO⟫
+FASTING	(substantivo) jejum: estado de quem não come desde o dia anterior
+FASTINGS	(forma de fast) (adjetivo) fast se traduz como ⟪rápido|RAPIDO⟫
+FASTS	(forma de fast) (adjetivo) fast se traduz como ⟪rápido|RAPIDO⟫
+FAT	(adjetivo) fat se traduz como ⟪gordo⟫, ⟪obeso⟫\n(substantivo) gordura: qualquer das várias substâncias gordurosas brancas ou amareladas que formam a maior parte do tecido adiposo dos animais e que também aparece em plantas; quando puras são incolores, inodoras, insípidas e são ésteres sólidos ou líquidos de gliceróis com ácidos graxos; são insolúveis em água e são...
+FATAL	(adjetivo) fatal: que redundou em morrer
+FATALISM	(substantivo) fatalismo: doutrina filosófica que acredita que todos os acontecimentos estão pré-estabelecidos por um ser superior, negando o livre-arbítrio
+FATALISMS	(forma de fatalism) (substantivo) fatalismo: doutrina filosófica que acredita que todos os acontecimentos estão pré-estabelecidos por um...
+FATALITIES	(forma de fatality) (substantivo) fatalidade: desastre que resulta em morte
+FATALITY	(substantivo) fatalidade: desastre que resulta em morte
+FATALLY	(advérbio) fatalmente: de modo fatal
+FATE	(substantivo) destino: fatalidade; futuro, fado
+FATED	(forma de fate) (substantivo) destino: fatalidade; futuro, fado
+FATEFUL	(adjetivo) fatídico: fatal; trágico
+FATES	(forma de fate) (substantivo) destino: fatalidade; futuro, fado
+FATHER	(substantivo) pai: macho que gerou prole; genitor, progenitor
+FATHERED	(forma de father) (substantivo) pai: macho que gerou prole; genitor, progenitor
+FATHERHOOD	(substantivo) paternidade: o estado de ser pai
+FATHERHOODS	(forma de fatherhood) (substantivo) paternidade: o estado de ser pai
+FATHERING	(forma de father) (substantivo) pai: macho que gerou prole; genitor, progenitor
+FATHERLAND	(substantivo) pátria: país em que nascemos
+FATHERLANDS	(forma de fatherland) (substantivo) pátria: país em que nascemos
+FATHERLY	(adjetivo) paterno: relativo ao pai
+FATHERS	(forma de father) (substantivo) pai: macho que gerou prole; genitor, progenitor
+FATHOM	(substantivo) braça: antiga medida de comprimento, equivalente ao dobro da vara (aproximadamente 2,2 metros)
+FATHOMED	(forma de fathom) (substantivo) braça: antiga medida de comprimento, equivalente ao dobro da vara (aproximadamente 2,2 metros)
+FATHOMING	(forma de fathom) (substantivo) braça: antiga medida de comprimento, equivalente ao dobro da vara (aproximadamente 2,2 metros)
+FATHOMS	(forma de fathom) (substantivo) braça: antiga medida de comprimento, equivalente ao dobro da vara (aproximadamente 2,2 metros)
+FATIGUE	(substantivo) fatigue se traduz como ⟪canseira⟫, ⟪estafa⟫\n(verbo) fatigar: enfastiar, importunar
+FATIGUED	(forma de fatigue) (substantivo) fatigue se traduz como ⟪canseira⟫, ⟪estafa⟫
+FATIGUES	(forma de fatigue) (substantivo) fatigue se traduz como ⟪canseira⟫, ⟪estafa⟫
+FATIGUING	(forma de fatigue) (substantivo) fatigue se traduz como ⟪canseira⟫, ⟪estafa⟫
+FATING	(forma de fate) (substantivo) destino: fatalidade; futuro, fado
+FATS	(forma de fat) (adjetivo) fat se traduz como ⟪gordo⟫, ⟪obeso⟫
+FATTED	(forma de fat) (adjetivo) fat se traduz como ⟪gordo⟫, ⟪obeso⟫
+FATTEN	(verbo) fatten se traduz como ⟪engordar⟫
+FATTENED	(forma de fatten) (verbo) fatten se traduz como ⟪engordar⟫
+FATTENING	(forma de fatten) (verbo) fatten se traduz como ⟪engordar⟫
+FATTENS	(forma de fatten) (verbo) fatten se traduz como ⟪engordar⟫
+FATTER	(forma de fat) (adjetivo) fat se traduz como ⟪gordo⟫, ⟪obeso⟫
+FATTEST	(forma de fat) (adjetivo) fat se traduz como ⟪gordo⟫, ⟪obeso⟫
+FATTIER	(forma de fatty) (adjetivo) fatty se traduz como ⟪gorduroso⟫
+FATTIES	(forma de fatty) (adjetivo) fatty se traduz como ⟪gorduroso⟫
+FATTIEST	(forma de fatty) (adjetivo) fatty se traduz como ⟪gorduroso⟫
+FATTILY	(forma de fatty) (adjetivo) fatty se traduz como ⟪gorduroso⟫
+FATTING	(forma de fat) (adjetivo) fat se traduz como ⟪gordo⟫, ⟪obeso⟫
+FATTY	(adjetivo) fatty se traduz como ⟪gorduroso⟫
+FATUOUSLY	(advérbio) fatuously se traduz como ⟪fatuamente⟫
+FATWA	(substantivo) fatwa se traduz como fátua
+FATWAS	(forma de fatwa) (substantivo) fatwa se traduz como fátua
+FAUCET	(substantivo) torneira: peça tubular que permite abrir, fechar ou regular o caudal de um líquido ou gás numa canalização ou à saída de um recipiente
+FAUCETS	(forma de faucet) (substantivo) torneira: peça tubular que permite abrir, fechar ou regular o caudal de um líquido ou gás numa...
+FAUGH	(interjeição) ui: exprime rejeição, repulsa, resistência a algo
+FAULT	(substantivo) fault se traduz como ⟪culpa⟫\n(verbo) fault se traduz como criticar alguém
+FAULTED	(verbo) particípio passado do verbo to fault: culpa
+FAULTIER	(forma de faulty) (adjetivo) defeituoso: que tem defeito; imperfeito
+FAULTIEST	(forma de faulty) (adjetivo) defeituoso: que tem defeito; imperfeito
+FAULTING	(forma de fault) (substantivo) fault se traduz como ⟪culpa⟫
+FAULTS	(forma de fault) (substantivo) fault se traduz como ⟪culpa⟫
+FAULTY	(adjetivo) defeituoso: que tem defeito; imperfeito
+FAUN	(substantivo) fauno: figura da mitologia romana representada por um homem com corpo de bode
+FAUNA	(substantivo) fauna: conjunto dos seres vivos que compõem a biodiversidade animal de uma região
+FAUNAE	(forma de fauna) (substantivo) fauna: conjunto dos seres vivos que compõem a biodiversidade animal de uma região
+FAUNAS	(forma de fauna) (substantivo) fauna: conjunto dos seres vivos que compõem a biodiversidade animal de uma região
+FAUNS	(forma de faun) (substantivo) fauno: figura da mitologia romana representada por um homem com corpo de bode
+FAVOR	(substantivo) favor se traduz como ⟪favor⟫\n(verbo) favorecer: fazer favor a
+FAVORABLE	(adjetivo) favorable se traduz como ⟪favorável|FAVORAVEL⟫, ⟪vantajoso⟫
+FAVORABLY	(advérbio) abonatoriamente: de forma favorável
+FAVORED	(forma de favor) (substantivo) favor se traduz como ⟪favor⟫
+FAVORING	(forma de favor) (substantivo) favor se traduz como ⟪favor⟫
+FAVORITE	(substantivo) favorito: predileto, preferido, que se gosta mais
+FAVORITES	(forma de favorite) (substantivo) favorito: predileto, preferido, que se gosta mais
+FAVORS	(forma de favor) (substantivo) favor se traduz como ⟪favor⟫
+FAVOUR	(substantivo) favour se traduz como ⟪favor⟫\n(verbo) favorecer: proteger
+FAVOURED	(forma de favour) (substantivo) favour se traduz como ⟪favor⟫
+FAVOURING	(forma de favour) (substantivo) favour se traduz como ⟪favor⟫
+FAVOURS	(forma de favour) (substantivo) favour se traduz como ⟪favor⟫
+FEALTIES	(forma de fealty) (substantivo) lealdade: o estado de ser leal; o propósito ou devoção de fidelidade a alguma pessoa, a uma causa
+FEALTY	(substantivo) lealdade: o estado de ser leal; o propósito ou devoção de fidelidade a alguma pessoa, a uma causa
+FEAR	(substantivo) medo: temor, apreensão, sensação de insegurança desesperadora quanto a qualquer momento futuro
+FEARED	(forma de fear) (substantivo) medo: temor, apreensão, sensação de insegurança desesperadora quanto a qualquer momento futuro
+FEARFUL	(adjetivo) temeroso: que tem medo, medroso, receoso
+FEARFULLER	(forma de fearful) (adjetivo) temeroso: que tem medo, medroso, receoso
+FEARFULLEST	(forma de fearful) (adjetivo) temeroso: que tem medo, medroso, receoso
+FEARFULLY	(advérbio) apavoradamente: de modo apavorado
+FEARING	(adjetivo) fearing se traduz como ⟪temente⟫
+FEARLESS	(adjetivo) fearless se traduz como ⟪destemido⟫, sem medo
+FEARLESSLY	(advérbio) impavidamente: de forma impávida (também: destemidamente)
+FEARLESSNESS	(substantivo) destemor: falta de temor (também: desassombro)
+FEARLESSNESSES	(forma de fearlessness) (substantivo) destemor: falta de temor (também: desassombro)
+FEARS	(forma de fear) (substantivo) medo: temor, apreensão, sensação de insegurança desesperadora quanto a qualquer momento futuro
+FEASIBILITIES	(forma de feasibility) (substantivo) fisibilidade: viabilidade, possibilidade
+FEASIBILITY	(substantivo) fisibilidade: viabilidade, possibilidade
+FEASIBLE	(adjetivo) praticável: aquilo que pode ser feito, praticado, realizado (também: viável, factível)
+FEAST	(substantivo) feast se traduz como ⟪banquete⟫\n(verbo) festejar: fazer festa em honra de
+FEASTED	(forma de feast) (substantivo) feast se traduz como ⟪banquete⟫
+FEASTING	(forma de feast) (substantivo) feast se traduz como ⟪banquete⟫
+FEASTS	(forma de feast) (substantivo) feast se traduz como ⟪banquete⟫
+FEATHER	(adjetivo) feather se traduz como ⟪polido⟫, lixado\n(substantivo) pena: cada um dos órgãos cutâneos que revestem o corpo das aves (também: pluma)
+FEATHERED	(forma de feather) (adjetivo) feather se traduz como ⟪polido⟫, lixado
+FEATHERING	(forma de feather) (adjetivo) feather se traduz como ⟪polido⟫, lixado
+FEATHERINGS	(forma de feather) (adjetivo) feather se traduz como ⟪polido⟫, lixado
+FEATHERLESS	(adjetivo) implume: sem penas
+FEATHERS	(substantivo) feathers se traduz como ⟪plumagem⟫
+FEATHERWEIGHT	(substantivo) featherweight se traduz como peso-pena
+FEATHERWEIGHTS	(forma de featherweight) (substantivo) featherweight se traduz como peso-pena
+FEATURE	(substantivo) feature se traduz como ⟪característica|CARACTERISTICA⟫\n(verbo) incluir: compreender, tornar parte de (também: apresentar)
+FEATURED	(forma de feature) (substantivo) feature se traduz como ⟪característica|CARACTERISTICA⟫
+FEATURES	(forma de feature) (substantivo) feature se traduz como ⟪característica|CARACTERISTICA⟫
+FEATURING	(forma de feature) (substantivo) feature se traduz como ⟪característica|CARACTERISTICA⟫
+FEBRILE	(adjetivo) febril: que tem febre
+FECAL	(adjetivo) fecal: relativo a fezes
+FECK	(interjeição) forma eufêmica/atenuada de, e o mesmo que fuck\n(verbo) forma atenuada de, e o mesmo que fuck
+FECKLY	(forma de feck) (interjeição) forma eufêmica/atenuada de, e o mesmo que fuck
+FECUND	(adjetivo) fecundo: que tem fecundidade, que se pode reproduzir facilmente, que pode criar bem
+FED	(forma de feed) (substantivo) alimentação: ato ou efeito de alimentar
+FEDERAL	(adjetivo) federal se traduz como ⟪federal⟫\n(substantivo) federal se traduz como ⟪federal⟫, policial federal
+FEDERALISM	(substantivo) federalism se traduz como ⟪federalismo⟫
+FEDERALISMS	(substantivo) plural de federalism: federalismo
+FEDERALIST	(adjetivo) federalist se traduz como ⟪federalista⟫\n(substantivo) federalist se traduz como ⟪federalista⟫
+FEDERALISTS	(substantivo) plural de federalist: federalista
+FEDERALLY	(advérbio) federalmente: de modo federal
+FEDERALS	(substantivo) plural de federal: federal
+FEDERATIVE	(adjetivo) federativo: relativo à federação; federado
+FEDERATIVELY	(advérbio) federativamente: de modo federativo
+FEDS	(forma de feed) (substantivo) alimentação: ato ou efeito de alimentar
+FEE	(substantivo) taxa: valor determinado que se cobra por alguns serviços (públicos ou privados)
+FEEBLY	(advérbio) debilmente: de forma débil
+FEED	(substantivo) alimentação: ato ou efeito de alimentar\n(verbo) alimentar: fornecer alimento a
+FEEDBACK	(substantivo) feedback se traduz como ⟪fidebeque⟫, ⟪fidibeque⟫
+FEEDBACKS	(forma de feedback) (substantivo) feedback se traduz como ⟪fidebeque⟫, ⟪fidibeque⟫
+FEEDING	(forma de feed) (substantivo) alimentação: ato ou efeito de alimentar
+FEEDS	(forma de feed) (substantivo) alimentação: ato ou efeito de alimentar
+FEEING	(forma de fee) (substantivo) taxa: valor determinado que se cobra por alguns serviços (públicos ou privados)
+FEEL	(substantivo) feel se traduz como ⟪tato⟫, ⟪sensação|SENSAÇAO⟫, ⟪percepção|PERCEPÇAO⟫, ⟪impressão|IMPRESSAO⟫\n(verbo) sentir: ter a impressão de algo (também: perceber)
+FEELER	(substantivo) alguém ou algo que sente
+FEELERS	(substantivo) plural de feeler: alguém ou algo que sente
+FEELING	(substantivo) sentimento: uma emoção; uma percepção ou atitude emocional\n(verbo) flexão do verbo feel: tato, sensação, percepção, impressão
+FEELS	(forma de feel) (substantivo) feel se traduz como ⟪tato⟫, ⟪sensação|SENSAÇAO⟫, ⟪percepção|PERCEPÇAO⟫, ⟪impressão|IMPRESSAO⟫
+FEES	(forma de fee) (substantivo) taxa: valor determinado que se cobra por alguns serviços (públicos ou privados)
+FEET	(substantivo) plural de foot: pé
+FEIGNED	(adjetivo) fingido: falso, enganoso
+FEIJOA	(substantivo) feijoa se traduz como feijoa
+FEIJOAS	(forma de feijoa) (substantivo) feijoa se traduz como feijoa
+FEINT	(substantivo) feint se traduz como ⟪estratagema⟫\n(verbo) feint se traduz como ⟪fingir⟫
+FEINTED	(forma de feint) (substantivo) feint se traduz como ⟪estratagema⟫
+FEINTING	(forma de feint) (substantivo) feint se traduz como ⟪estratagema⟫
+FEINTS	(forma de feint) (substantivo) feint se traduz como ⟪estratagema⟫
+FELID	(substantivo) felid se traduz como ⟪felídeo|FELIDEO⟫
+FELIDS	(forma de felid) (substantivo) felid se traduz como ⟪felídeo|FELIDEO⟫
+FELINELY	(advérbio) felinamente: de forma felina
+FELL	(substantivo) o ato de cortar madeira\n(verbo) derrubar: abater; fazer cair; pôr abaixo; deitar por terra (também: cortar madeira, abater)
+FELLA	(substantivo) o mesmo que fellow; amigo, camarada, colega, etc.
+FELLAH	(substantivo) felá; camponês ou lavrador egípcio.
+FELLAHEEN	(substantivo) plural de fellah: felá; camponês ou lavrador egípcio.
+FELLAHIN	(substantivo) plural de fellah: felá; camponês ou lavrador egípcio.
+FELLAHS	(substantivo) plural de fellah: felá; camponês ou lavrador egípcio.
+FELLAS	(substantivo) plural de fella: o mesmo que fellow; amigo, camarada, colega, etc.
+FELLATIO	(substantivo) felácio: estímulo oral do pênis realizado por pessoa parceira sexual
+FELLATIOS	(forma de fellatio) (substantivo) felácio: estímulo oral do pênis realizado por pessoa parceira sexual
+FELLED	(forma de fell) (substantivo) o ato de cortar madeira
+FELLEST	(forma de fell) (substantivo) o ato de cortar madeira
+FELLING	(verbo) flexão do verbo to fell: o ato de cortar madeira
+FELLOW	(substantivo) camarada: colega (também: companheiro, colega)
+FELLOWED	(forma de fellow) (substantivo) camarada: colega (também: companheiro, colega)
+FELLOWING	(forma de fellow) (substantivo) camarada: colega (também: companheiro, colega)
+FELLOWS	(substantivo) plural de fellow: companheiro, colega, camarada
+FELLOWSHIP	(substantivo) companheirismo: atitude de companheiro; lealdade; reciprocidade benéfica
+FELLOWSHIPED	(forma de fellowship) (substantivo) companheirismo: atitude de companheiro; lealdade; reciprocidade benéfica
+FELLOWSHIPING	(forma de fellowship) (substantivo) companheirismo: atitude de companheiro; lealdade; reciprocidade benéfica
+FELLOWSHIPPED	(forma de fellowship) (substantivo) companheirismo: atitude de companheiro; lealdade; reciprocidade benéfica
+FELLOWSHIPPING	(forma de fellowship) (substantivo) companheirismo: atitude de companheiro; lealdade; reciprocidade benéfica
+FELLOWSHIPS	(forma de fellowship) (substantivo) companheirismo: atitude de companheiro; lealdade; reciprocidade benéfica
+FELLS	(forma de fell) (substantivo) o ato de cortar madeira
+FELT	(substantivo) feltro: espécie de estofo feito por empastamento ou agulhamento de lã ou pelo\n(verbo) passado simples e particípio do verbo feel: tato, sensação, percepção, impressão
+FELTED	(forma de felt) (substantivo) feltro: espécie de estofo feito por empastamento ou agulhamento de lã ou pelo
+FELTING	(forma de felt) (substantivo) feltro: espécie de estofo feito por empastamento ou agulhamento de lã ou pelo
+FELTINGS	(forma de felt) (substantivo) feltro: espécie de estofo feito por empastamento ou agulhamento de lã ou pelo
+FELTS	(forma de felt) (substantivo) feltro: espécie de estofo feito por empastamento ou agulhamento de lã ou pelo
+FEMALE	(adjetivo) fêmea: animal biologicamente do sexo feminino\n(substantivo) female se traduz como animal fêmea
+FEMALES	(forma de female) (adjetivo) fêmea: animal biologicamente do sexo feminino
+FEMININE	(adjetivo) feminino: relativo a fêmeas, a mulheres ou próprio delas\n(substantivo) feminino: relativo a fêmeas, a mulheres ou próprio delas
+FEMININES	(substantivo) plural de feminine: feminino
+FEMINISM	(substantivo) feminismo: conjunto de movimentos políticos, sociais, ideologias e filosofias que defendem igualdade entre homens e mulheres
+FEMINISMS	(forma de feminism) (substantivo) feminismo: conjunto de movimentos políticos, sociais, ideologias e filosofias que defendem igualdade...
+FEMORA	(forma de femur) (substantivo) fêmur: osso de porte e volume relevante que se localiza na coxa dos animais vertebrados
+FEMUR	(substantivo) fêmur: osso de porte e volume relevante que se localiza na coxa dos animais vertebrados
+FEMURS	(forma de femur) (substantivo) fêmur: osso de porte e volume relevante que se localiza na coxa dos animais vertebrados
+FENCE	(substantivo) fence se traduz como ⟪cerca⟫\n(verbo) cercar: constranger, apertar
+FENCED	(forma de fence) (substantivo) fence se traduz como ⟪cerca⟫
+FENCES	(verbo) flexão do verbo "to fence": cerca\n(substantivo) plural de fence: cerca
+FENCING	(substantivo) fencing se traduz como ⟪esgrima⟫
+FENCINGS	(forma de fence) (substantivo) fence se traduz como ⟪cerca⟫
+FENDER	(substantivo) fender se traduz como para-lama
+FENDERED	(forma de fender) (substantivo) fender se traduz como para-lama
+FENDERS	(forma de fender) (substantivo) fender se traduz como para-lama
+FENESTRA	(substantivo) fenestra: abertura natural de um osso ou uma membrana
+FENESTRAE	(forma de fenestra) (substantivo) fenestra: abertura natural de um osso ou uma membrana
+FENNEC	(substantivo) feneco: pequena raposa (Vulpes zerda), considerada o menor dos canídeos, nativa do Saara (exceto na região costeira) da Mauritânia à península do Sinai, caracterizada por ter orelhas proporcionalmente muito grandes que têm a função, além de localiza presas ou ameaças, dissipar o calor, adaptada ao ambiente...
+FENNECS	(forma de fennec) (substantivo) feneco: pequena raposa (Vulpes zerda), considerada o menor dos canídeos, nativa do Saara (exceto na...
+FERAL	(adjetivo) selvagem: relativo a selva, a silva
+FERMI	(substantivo) fermi: unidade de medida de comprimento igual a um fentômetro
+FERMION	(substantivo) fermion se traduz como fermião/férmion
+FERMIONS	(forma de fermion) (substantivo) fermion se traduz como fermião/férmion
+FERMIS	(forma de fermi) (substantivo) fermi: unidade de medida de comprimento igual a um fentômetro
+FERMIUM	(substantivo) fermium se traduz como ⟪férmio|FERMIO⟫
+FERMIUMS	(forma de fermium) (substantivo) fermium se traduz como ⟪férmio|FERMIO⟫
+FERN	(substantivo) samambaia: feto, planta polipodiácea, pteridófita
+FERNS	(forma de fern) (substantivo) samambaia: feto, planta polipodiácea, pteridófita
+FEROCIOUS	(adjetivo) feroz: impetuoso, violento
+FEROCITIES	(forma de ferocity) (substantivo) ferocity se traduz como ⟪ferocidade⟫
+FEROCITY	(substantivo) ferocity se traduz como ⟪ferocidade⟫
+FERRET	(substantivo) furão: mamífero mustelídeo, domesticado para caçar coelhos
+FERRETED	(forma de ferret) (substantivo) furão: mamífero mustelídeo, domesticado para caçar coelhos
+FERRETING	(forma de ferret) (substantivo) furão: mamífero mustelídeo, domesticado para caçar coelhos
+FERRETS	(forma de ferret) (substantivo) furão: mamífero mustelídeo, domesticado para caçar coelhos
+FERRUGINOUS	(adjetivo) ferruginous se traduz como ⟪ferruginoso⟫
+FERRYBOAT	(substantivo) ferribote: embarcação de fundo chato, com pequeno calado, para poder operar próximo às margens e em águas rasas, e grande boca, muitas vezes utilizada para transporte de veículos
+FERRYBOATS	(forma de ferryboat) (substantivo) ferribote: embarcação de fundo chato, com pequeno calado, para poder operar próximo às margens e em águas...
+FERTILE	(adjetivo) fértil: indivíduo capaz de se reproduzir (também: fecundo)
+FERTILELY	(advérbio) fertilmente: de modo fértil
+FERTILIZE	(verbo) fertilize se traduz como ⟪fertilizar⟫
+FERTILIZED	(forma de fertilize) (verbo) fertilize se traduz como ⟪fertilizar⟫
+FERTILIZER	(substantivo) fertilizante: produto que se deita na terra para aumentar a produção
+FERTILIZERS	(forma de fertilizer) (substantivo) fertilizante: produto que se deita na terra para aumentar a produção
+FERTILIZES	(forma de fertilize) (verbo) fertilize se traduz como ⟪fertilizar⟫
+FERTILIZING	(forma de fertilize) (verbo) fertilize se traduz como ⟪fertilizar⟫
+FERVENT	(adjetivo) fervoroso: que tem fervor; apaixonado; entusiasta
+FERVENTLY	(advérbio) ferventemente: com fervor (também: calorosamente, fervorosamente)
+FESTER	(substantivo) pústula: pequena acumulação de pus circunscrita situada na pele\n(verbo) fester se traduz como supurar, criar pus:
+FESTERED	(adjetivo) purulento: que tem pus (também: supurado:)\n(verbo) passado simples do verbo fester:: pústula
+FESTERING	(forma de fester) (substantivo) pústula: pequena acumulação de pus circunscrita situada na pele
+FESTERS	(forma de fester) (substantivo) pústula: pequena acumulação de pus circunscrita situada na pele
+FESTIVAL	(substantivo) festival: grande festa
+FESTIVALS	(forma de festival) (substantivo) festival: grande festa
+FESTIVE	(adjetivo) festivo: divertido
+FESTIVELY	(advérbio) festivamente: de modo festivo
+FETID	(adjetivo) fetibundo: que cheira mal; que exala mau-cheiro; fedorento (também: fétido)
+FETIDLY	(forma de fetid) (adjetivo) fetibundo: que cheira mal; que exala mau-cheiro; fedorento (também: fétido)
+FETTER	(substantivo) fetter se traduz como ⟪grilhão|GRILHAO⟫
+FETTERED	(forma de fetter) (substantivo) fetter se traduz como ⟪grilhão|GRILHAO⟫
+FETTERING	(forma de fetter) (substantivo) fetter se traduz como ⟪grilhão|GRILHAO⟫
+FETTERS	(forma de fetter) (substantivo) fetter se traduz como ⟪grilhão|GRILHAO⟫
+FETUS	(substantivo) fetus se traduz como ⟪feto⟫
+FETUSES	(forma de fetus) (substantivo) fetus se traduz como ⟪feto⟫
+FEUDAL	(adjetivo) feudal: referente a, ou próprio de feudo ou do feudalismo; feudatário
+FEUDALISM	(substantivo) feudalismo: sistema de produção europeu que estabelecia a relação de submissão militar e econômica dos vassalos, que produziam nas terras, e o suserano, que controlava as terras
+FEUDALISMS	(forma de feudalism) (substantivo) feudalismo: sistema de produção europeu que estabelecia a relação de submissão militar e econômica dos...
+FEUDALLY	(advérbio) feudalmente: de forma feudal
+FEVER	(substantivo) febre: elevação da temperatura corporal como reação do organismo a uma doença
+FEVERING	(forma de fever) (substantivo) febre: elevação da temperatura corporal como reação do organismo a uma doença
+FEVERISH	(adjetivo) feverish se traduz como ⟪febril⟫
+FEVERISHLY	(advérbio) febrilmente: de modo febril, com intensidade, veemência
+FEVERS	(forma de fever) (substantivo) febre: elevação da temperatura corporal como reação do organismo a uma doença
+FEW	(adjetivo) pouco: presente em baixa quantidade (também: poucos)\n(pronome) few se traduz como ⟪poucos⟫
+FEWER	(adjetivo) menos: forma comparativa de pouco; quantidade inferior de:
+FEZ	(substantivo) fez se traduz como ⟪fez⟫, barrete muçulmano
+FEZES	(forma de fez) (substantivo) fez se traduz como ⟪fez⟫, barrete muçulmano
+FEZZED	(forma de fez) (substantivo) fez se traduz como ⟪fez⟫, barrete muçulmano
+FEZZES	(forma de fez) (substantivo) fez se traduz como ⟪fez⟫, barrete muçulmano
+FIACRES	(substantivo) fiacres
+FIANCE	(substantivo) noivo: numa cerimônia de casamento, o homem que está se casando
+FIANCES	(forma de fiance) (substantivo) noivo: numa cerimônia de casamento, o homem que está se casando
+FIB	(verbo) fib se traduz como ⟪mentir⟫\n(substantivo) fib se traduz como ⟪mentira⟫
+FIBBED	(forma de fib) (verbo) fib se traduz como ⟪mentir⟫
+FIBBER	(substantivo) fibber se traduz como ⟪mentiroso⟫
+FIBBERS	(forma de fibber) (substantivo) fibber se traduz como ⟪mentiroso⟫
+FIBBING	(forma de fib) (verbo) fib se traduz como ⟪mentir⟫
+FIBER	(substantivo) fibra: elemento longo e fino que entra na composição dos tecidos orgânicos animais e vegetais
+FIBERS	(forma de fiber) (substantivo) fibra: elemento longo e fino que entra na composição dos tecidos orgânicos animais e vegetais
+FIBRE	(substantivo) fibra: elemento longo e fino que entra na composição dos tecidos orgânicos animais e vegetais
+FIBRES	(forma de fibre) (substantivo) fibra: elemento longo e fino que entra na composição dos tecidos orgânicos animais e vegetais
+FIBS	(forma de fib) (verbo) fib se traduz como ⟪mentir⟫
+FICHU	(substantivo) fichu: cachecol triangular leve usado por mulheres sobre os ombros e amarrado na frente, ou enfiado no corpete para cobrir a parte exposta do pescoço e do peito
+FICHUS	(forma de fichu) (substantivo) fichu: cachecol triangular leve usado por mulheres sobre os ombros e amarrado na frente, ou enfiado no...
+FICTION	(substantivo) ficção: coisa imaginária
+FICTIONALLY	(advérbio) ficcionalmente: de forma ficcional
+FICTIONS	(forma de fiction) (substantivo) ficção: coisa imaginária
+FIDELITIES	(forma de fidelity) (substantivo) fidelity se traduz como ⟪fidelidade⟫, ⟪lealdade⟫
+FIDELITY	(substantivo) fidelity se traduz como ⟪fidelidade⟫, ⟪lealdade⟫
+FIDUCIAL	(adjetivo) aceito como base de referência\n(substantivo) objeto de referência familiar usado na fotografia para mostrar tamanho ou escala
+FIEF	(substantivo) feudo: propriedade feudal
+FIEFS	(forma de fief) (substantivo) feudo: propriedade feudal
+FIELD	(substantivo) campo: grande área aberta usada para cultivo agrícola ou criação pecuária
+FIELDED	(forma de field) (substantivo) campo: grande área aberta usada para cultivo agrícola ou criação pecuária
+FIELDING	(forma de field) (substantivo) campo: grande área aberta usada para cultivo agrícola ou criação pecuária
+FIELDS	(forma de field) (substantivo) campo: grande área aberta usada para cultivo agrícola ou criação pecuária
+FIERCE	(adjetivo) feroz: impetuoso, violento
+FIERCELY	(advérbio) ferozmente: de forma feroz
+FIERCER	(forma de fierce) (adjetivo) feroz: impetuoso, violento
+FIERCEST	(forma de fierce) (adjetivo) feroz: impetuoso, violento
+FIFTEEN	(numeral) quinze: número equivalente a quatorze mais um; cardinalidade de um conjunto que contenha quinze elementos distintos; representado pelo símbolo 15 (algarismos arábicos) ou XV (algarismos romanos)
+FIFTEENS	(forma de fifteen) (numeral) quinze: número equivalente a quatorze mais um; cardinalidade de um conjunto que contenha quinze elementos...
+FIFTEENTH	(numeral) fifteenth se traduz como décimo quinto
+FIFTEENTHS	(forma de fifteenth) (numeral) fifteenth se traduz como décimo quinto
+FIFTH	(numeral) fifth se traduz como ⟪quinto⟫
+FIFTHS	(forma de fifth) (numeral) fifth se traduz como ⟪quinto⟫
+FIFTIETH	(numeral) quinquagésimo: numeral ordinal e fracionário correspondente ao cardinal 50
+FIFTIETHS	(forma de fiftieth) (numeral) quinquagésimo: numeral ordinal e fracionário correspondente ao cardinal 50
+FIFTY	(numeral) cinquenta: número equivalente a cinco dezenas; cardinalidade de um conjunto que contenha cinquenta elementos distintos; representado pelo símbolo 50 (algarismos arábicos) ou L (algarismos romanos)
+FIG	(substantivo) figo: fruto da figueira (também: figueira)
+FIGGED	(forma de fig) (substantivo) figo: fruto da figueira (também: figueira)
+FIGGING	(forma de fig) (substantivo) figo: fruto da figueira (também: figueira)
+FIGHT	(substantivo) fight se traduz como ⟪luta⟫\n(verbo) lutar: combater
+FIGHTER	(adjetivo) fighter se traduz como de combate, de caça\n(substantivo) caça: avião a jato usado em combate aéreo e outras atividades militares
+FIGHTERS	(forma de fighter) (adjetivo) fighter se traduz como de combate, de caça
+FIGHTING	(forma de fight) (substantivo) fight se traduz como ⟪luta⟫
+FIGHTINGS	(forma de fight) (substantivo) fight se traduz como ⟪luta⟫
+FIGHTS	(forma de fight) (substantivo) fight se traduz como ⟪luta⟫
+FIGS	(forma de fig) (substantivo) figo: fruto da figueira (também: figueira)
+FIGURATIVE	(adjetivo) figurative se traduz como ⟪figurativo⟫
+FIGURE	(substantivo) figure se traduz como ⟪figura⟫\n(verbo) entender: aceitar como verdadeiro; acreditar
+FIGURED	(forma de figure) (substantivo) figure se traduz como ⟪figura⟫
+FIGURES	(forma de figure) (substantivo) figure se traduz como ⟪figura⟫
+FIGURINE	(substantivo) estatueta: pequena estátua
+FIGURINES	(substantivo) plural de figurine: estatueta
+FIGURING	(forma de figure) (substantivo) figure se traduz como ⟪figura⟫
+FILAMENT	(substantivo) filamento: fio muito fino
+FILAMENTS	(forma de filament) (substantivo) filamento: fio muito fino
+FILE	(substantivo) arquivo: ação de arquivar
+FILED	(forma de file) (substantivo) arquivo: ação de arquivar
+FILES	(forma de file) (substantivo) arquivo: ação de arquivar
+FILIALLY	(advérbio) filialmente: de modo filial
+FILICIDE	(substantivo) filicide se traduz como ⟪filicida⟫
+FILICIDES	(forma de filicide) (substantivo) filicide se traduz como ⟪filicida⟫
+FILIFORM	(adjetivo) filiforme: diz-se de estrutura ou órgão animal ou vegetal linear, fino e alongado
+FILIGREE	(substantivo) filigrana: trabalho ornamental feito de fios muito finos e pequeninas bolas de metal, soldadas de forma a compor um desenho\n(verbo) decorar algo com filigrana, fazer filigrana
+FILIGREED	(forma de filigree) (substantivo) filigrana: trabalho ornamental feito de fios muito finos e pequeninas bolas de metal, soldadas de forma a...
+FILIGREEING	(forma de filigree) (substantivo) filigrana: trabalho ornamental feito de fios muito finos e pequeninas bolas de metal, soldadas de forma a...
+FILIGREES	(forma de filigree) (substantivo) filigrana: trabalho ornamental feito de fios muito finos e pequeninas bolas de metal, soldadas de forma a...
+FILING	(forma de file) (substantivo) arquivo: ação de arquivar
+FILINGS	(forma de file) (substantivo) arquivo: ação de arquivar
+FILL	(verbo) encher: ocupar o espaço vazio; completar (também: preencher)
+FILLED	(forma de fill) (verbo) encher: ocupar o espaço vazio; completar (também: preencher)
+FILLING	(substantivo) filling se traduz como ⟪enchimento⟫\n(verbo) gerúndio do verbo fill: encher, preencher
+FILLINGS	(forma de fill) (verbo) encher: ocupar o espaço vazio; completar (também: preencher)
+FILLIP	(substantivo) fillip se traduz como ⟪piparote⟫
+FILLIPED	(forma de fillip) (substantivo) fillip se traduz como ⟪piparote⟫
+FILLIPING	(forma de fillip) (substantivo) fillip se traduz como ⟪piparote⟫
+FILLIPS	(forma de fillip) (substantivo) fillip se traduz como ⟪piparote⟫
+FILLS	(verbo) terceira pessoa do singular do presente do indicativo do verbo fill: encher, preencher\n(substantivo) plural de fill: encher, preencher
+FILM	(substantivo) film se traduz como ⟪cinema⟫
+FILMED	(forma de film) (substantivo) film se traduz como ⟪cinema⟫
+FILMER	(forma de film) (substantivo) film se traduz como ⟪cinema⟫
+FILMING	(forma de film) (substantivo) film se traduz como ⟪cinema⟫
+FILMS	(forma de film) (substantivo) film se traduz como ⟪cinema⟫
+FILTER	(substantivo) filtro: material ou aparelho que separa as matérias que se encontram misturadas em um líquido ou gás\n(verbo) filtrar: fazer passar por filtro
+FILTERED	(forma de filter) (substantivo) filtro: material ou aparelho que separa as matérias que se encontram misturadas em um líquido ou gás
+FILTERER	(forma de filter) (substantivo) filtro: material ou aparelho que separa as matérias que se encontram misturadas em um líquido ou gás
+FILTERING	(substantivo) filtragem: ato de filtrar
+FILTERS	(forma de filter) (substantivo) filtro: material ou aparelho que separa as matérias que se encontram misturadas em um líquido ou gás
+FILTH	(substantivo) sujeira: imundície, porcaria, sujidade (também: sujidade, imundície:)
+FILTHIER	(forma de filthy) (adjetivo) imundo: muito sujo (também: muito sujo)
+FILTHIEST	(forma de filthy) (adjetivo) imundo: muito sujo (também: muito sujo)
+FILTHILY	(advérbio) badalhocamente: de forma badalhoca (também: porcamente, imundamente)
+FILTHS	(forma de filth) (substantivo) sujeira: imundície, porcaria, sujidade (também: sujidade, imundície:)
+FILTHY	(adjetivo) imundo: muito sujo (também: muito sujo)
+FIN	(substantivo) fin se traduz como ⟪nadadeira⟫, ⟪barbatana⟫
+FINALIST	(substantivo) finalista: que disputa uma final ou finalíssima
+FINALISTS	(forma de finalist) (substantivo) finalista: que disputa uma final ou finalíssima
+FINALIZING	(adjetivo) finalizador: que finaliza
+FINALLY	(advérbio) finally se traduz como ⟪finalmente⟫
+FINANCE	(substantivo) finance se traduz como ⟪finança⟫\n(verbo) financiar: disponibilizar capital para algo; custear
+FINANCED	(forma de finance) (substantivo) finance se traduz como ⟪finança⟫
+FINANCES	(substantivo) finanças: plural de finança\n(verbo) terceira pessoa do singular do verbo "to finance": finança
+FINANCIAL	(adjetivo) financial: relativo às finanças (também: financeiro)
+FINANCIALLY	(advérbio) financeiramente: de modo financeiro
+FINANCING	(forma de finance) (substantivo) finance se traduz como ⟪finança⟫
+FINANCINGS	(forma de finance) (substantivo) finance se traduz como ⟪finança⟫
+FINCH	(substantivo) tentilhão: ave da família Fringillidae, caracteriza-se por ser um pássaro que se alimenta de grãos, o tentilhão-comum e o tentilhão-montês
+FINCHES	(forma de finch) (substantivo) tentilhão: ave da família Fringillidae, caracteriza-se por ser um pássaro que se alimenta de grãos, o...
+FIND	(verbo) encontrar: ter contato (com pessoa) socialmente
+FINDABLE	(adjetivo) encontrável: que se pode encontrar
+FINDER	(substantivo) aquele que encontra/acha algo
+FINDERS	(forma de finder) (substantivo) aquele que encontra/acha algo
+FINDING	(forma de find) (verbo) encontrar: ter contato (com pessoa) socialmente
+FINDS	(substantivo) plural de find: encontrar\n(verbo) terceira pessoa do singular do presente do indicativo do verbo find: encontrar
+FINE	(adjetivo) fine se traduz como ⟪bom⟫\n(advérbio) fine se traduz como ⟪bem⟫
+FINED	(forma de fine) (adjetivo) fine se traduz como ⟪bom⟫
+FINELY	(advérbio) finamente: de modo fino
+FINES	(forma de fine) (adjetivo) fine se traduz como ⟪bom⟫
+FINEST	(forma de fine) (adjetivo) fine se traduz como ⟪bom⟫
+FINGER	(substantivo) dedo: cada uma das partes articuladas em que terminam os pés e as mãos\n(verbo) tocar, manusear, estimular sexualmente, apalpar, etc. com o(s) dedo(s)
+FINGERED	(verbo) passado simples e particípio do verbo finger: dedo
+FINGERING	(substantivo) dedilhação, dedilhado; o ato de usar os dedos para tocar um instrumento musical\n(verbo) gerúndio do verbo finger: dedo
+FINGERINGS	(substantivo) plural de fingering: dedilhação, dedilhado; o ato de usar os dedos para tocar um instrumento musical
+FINGERNAIL	(substantivo) unha da mão
+FINGERNAILS	(forma de fingernail) (substantivo) unha da mão
+FINGERPRINT	(substantivo) impressão digital: marca deixada pelas falanges das extremidades dos dedos das mãos em uma superfície qualquer\n(verbo) tirar a impressão digital
+FINGERPRINTED	(forma de fingerprint) (substantivo) impressão digital: marca deixada pelas falanges das extremidades dos dedos das mãos em uma superfície...
+FINGERPRINTING	(forma de fingerprint) (substantivo) impressão digital: marca deixada pelas falanges das extremidades dos dedos das mãos em uma superfície...
+FINGERPRINTINGS	(forma de fingerprint) (substantivo) impressão digital: marca deixada pelas falanges das extremidades dos dedos das mãos em uma superfície...
+FINGERPRINTS	(forma de fingerprint) (substantivo) impressão digital: marca deixada pelas falanges das extremidades dos dedos das mãos em uma superfície...
+FINGERS	(verbo) terceira pessoa do singular do verbo finger: dedo\n(substantivo) plural de finger: dedo
+FINICKIER	(forma de finicky) (adjetivo) detalhista: atento a detalhes (também: exigente, meticuloso)
+FINICKIEST	(forma de finicky) (adjetivo) detalhista: atento a detalhes (também: exigente, meticuloso)
+FINICKY	(adjetivo) detalhista: atento a detalhes (também: exigente, meticuloso)
+FINIKIN	(adjetivo) melindroso: muito delicado
+FINING	(forma de fine) (adjetivo) fine se traduz como ⟪bom⟫
+FININGS	(forma de fine) (adjetivo) fine se traduz como ⟪bom⟫
+FINISH	(substantivo) conclusão: acabamento, desfecho, resultado (também: fim, final)\n(verbo) terminar: acabar, encerrar, chegar ao fim (também: acabar, concluir)
+FINISHED	(verbo) passado simples e particípio do verbo finish: fim, final, conclusão
+FINISHES	(substantivo) plural de finish: fim, final, conclusão\n(verbo) terceira pessoa do singular do verbo finish: fim, final, conclusão
+FINISHING	(verbo) gerúndio do verbo finish: fim, final, conclusão
+FINITE	(adjetivo) finito: que tem fim ou limite
+FINITES	(forma de finite) (adjetivo) finito: que tem fim ou limite
+FINITUDE	(substantivo) finitude: qualidade ou caráter de finito
+FINITUDES	(forma de finitude) (substantivo) finitude: qualidade ou caráter de finito
+FINNED	(forma de fin) (substantivo) fin se traduz como ⟪nadadeira⟫, ⟪barbatana⟫
+FINNING	(forma de fin) (substantivo) fin se traduz como ⟪nadadeira⟫, ⟪barbatana⟫
+FINS	(forma de fin) (substantivo) fin se traduz como ⟪nadadeira⟫, ⟪barbatana⟫
+FIORD	(substantivo) fiorde: golfo estreito, profundo e íngreme, formado pela erosão de glaciares
+FIORDS	(forma de fiord) (substantivo) fiorde: golfo estreito, profundo e íngreme, formado pela erosão de glaciares
+FIR	(substantivo) fir se traduz como ⟪abeto⟫
+FIRE	(substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos corpos, como a madeira, o carvão etc\n(verbo) disparar: dar início (a execução de uma rotina dentro de uma programação) (também: atirar)
+FIRECRACKER	(substantivo) petardo: peça de fogo de artifício que produz um estampido ao arrebentar (também: traque, bombinha)
+FIRECRACKERS	(forma de firecracker) (substantivo) petardo: peça de fogo de artifício que produz um estampido ao arrebentar (também: traque, bombinha)
+FIRED	(forma de fire) (substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos...
+FIREFIGHTER	(substantivo) bombeiro: voluntário ou profissional especializado no controle e extinção de incêndios, em salvar vidas e na realização de resgates, geralmente pertencente a instituições sem fins lucrativo
+FIREFIGHTERS	(forma de firefighter) (substantivo) bombeiro: voluntário ou profissional especializado no controle e extinção de incêndios, em salvar vidas e...
+FIREFLIES	(forma de firefly) (substantivo) pirilampo: nome comum a várias espécies de coleópteros (das famílias Elateridae, Phengodidae e...
+FIREFLY	(substantivo) pirilampo: nome comum a várias espécies de coleópteros (das famílias Elateridae, Phengodidae e Lampyridae) que têm a propriedade de emitir bioluminescência, via de regra na fase adulta e eventualmente também na fase larval, por meio de órgãos especiais onde a luciferina é oxidada pelo oxigênio nuclear com...
+FIREMAN	(substantivo) fireman se traduz como ⟪bombeiro⟫
+FIREMEN	(forma de fireman) (substantivo) fireman se traduz como ⟪bombeiro⟫
+FIREPLACE	(substantivo) fireplace se traduz como ⟪lareira⟫
+FIREPLACED	(forma de fireplace) (substantivo) fireplace se traduz como ⟪lareira⟫
+FIREPLACES	(forma de fireplace) (substantivo) fireplace se traduz como ⟪lareira⟫
+FIRES	(forma de fire) (substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos...
+FIRESTORM	(substantivo) firestorm se traduz como ⟪incêndio|INCENDIO⟫
+FIRESTORMS	(forma de firestorm) (substantivo) firestorm se traduz como ⟪incêndio|INCENDIO⟫
+FIREWATER	(substantivo) aguardente: bebida alcoólica obtida pela destilação do vinho, da cana-de-açúcar, dos bagaços ou de frutos, raízes, tubérculos fermentados
+FIREWATERS	(forma de firewater) (substantivo) aguardente: bebida alcoólica obtida pela destilação do vinho, da cana-de-açúcar, dos bagaços ou de...
+FIREWORK	(substantivo) fogo de artifício
+FIREWORKS	(substantivo) fireworks se traduz como fogos de artifício
+FIRING	(forma de fire) (substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos...
+FIRINGS	(forma de fire) (substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos...
+FIRM	(adjetivo) firm se traduz como ⟪firme⟫
+FIRMAMENT	(substantivo) firmamento: o céu
+FIRMAMENTS	(forma de firmament) (substantivo) firmamento: o céu
+FIRMED	(forma de firm) (adjetivo) firm se traduz como ⟪firme⟫
+FIRMER	(forma de firm) (adjetivo) firm se traduz como ⟪firme⟫
+FIRMEST	(forma de firm) (adjetivo) firm se traduz como ⟪firme⟫
+FIRMING	(forma de firm) (adjetivo) firm se traduz como ⟪firme⟫
+FIRMNESS	(substantivo) firmness se traduz como ⟪firmeza⟫
+FIRMNESSES	(forma de firmness) (substantivo) firmness se traduz como ⟪firmeza⟫
+FIRMS	(forma de firm) (adjetivo) firm se traduz como ⟪firme⟫
+FIRMWARE	(substantivo) firmware se traduz como firmware
+FIRMWARES	(forma de firmware) (substantivo) firmware se traduz como firmware
+FIRS	(forma de fir) (substantivo) fir se traduz como ⟪abeto⟫
+FIRST	(adjetivo) primeiro, numeral ordinal correspondente ao número 1\n(advérbio) em primeiro lugar, antes de mais nada
+FIRSTS	(forma de first) (adjetivo) primeiro, numeral ordinal correspondente ao número 1
+FISCAL	(adjetivo) fiscal se traduz como ⟪fiscal⟫\n(substantivo) fiscal se traduz como ⟪fiscal⟫
+FISCALLY	(advérbio) fiscalmente: de modo fiscal
+FISCALS	(forma de fiscal) (adjetivo) fiscal se traduz como ⟪fiscal⟫
+FISH	(adjetivo) de peixe, relacionado a peixe:\n(substantivo) fish se traduz como peixe:
+FISHED	(forma de fish) (adjetivo) de peixe, relacionado a peixe:
+FISHER	(substantivo) pescador: aquele que pesca.
+FISHERIES	(substantivo) pesca: atividade que consiste na caça de animais marinhos, principalmente peixes, com o fito de alimentar-se dos mesmos
+FISHERMAN	(substantivo) pescador: aquele que pesca.
+FISHERMEN	(forma de fisherman) (substantivo) pescador: aquele que pesca.
+FISHERS	(forma de fisher) (substantivo) pescador: aquele que pesca.
+FISHERY	(substantivo) pesca: atividade que consiste na caça de animais marinhos, principalmente peixes, com o fito de alimentar-se dos mesmos (também: pescaria)
+FISHES	(forma de fish) (adjetivo) de peixe, relacionado a peixe:
+FISHHOOK	(substantivo) anzol para peixe
+FISHHOOKS	(forma de fishhook) (substantivo) anzol para peixe
+FISHING	(adjetivo) fishing se traduz como ⟪pesqueiro⟫, de pesca\n(substantivo) pesca: desporto que consiste na retirada de peixes maiores quanto possível de rios e mares, e devolução dos mesmos após aferição do tamanho e peso
+FISHINGS	(forma de fish) (adjetivo) de peixe, relacionado a peixe:
+FISHMONGER	(substantivo) peixeiro: vendedor de peixes e outros frutos do mar
+FISHMONGERS	(forma de fishmonger) (substantivo) peixeiro: vendedor de peixes e outros frutos do mar
+FISHNET	(substantivo) rede de pesca
+FISHNETS	(forma de fishnet) (substantivo) rede de pesca
+FISSILE	(adjetivo) fissile se traduz como ⟪físsil|FISSIL⟫
+FISSURE	(substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fissura)
+FISSURED	(forma de fissure) (substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fissura)
+FISSURES	(forma de fissure) (substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fissura)
+FISSURING	(forma de fissure) (substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fissura)
+FIST	(substantivo) fist se traduz como ⟪peido⟫, ⟪flatulência|FLATULENCIA⟫
+FISTED	(forma de fist) (substantivo) fist se traduz como ⟪peido⟫, ⟪flatulência|FLATULENCIA⟫
+FISTING	(forma de fist) (substantivo) fist se traduz como ⟪peido⟫, ⟪flatulência|FLATULENCIA⟫
+FISTS	(forma de fist) (substantivo) fist se traduz como ⟪peido⟫, ⟪flatulência|FLATULENCIA⟫
+FIT	(verbo) fit se traduz como se adequar
+FITCH	(substantivo) tourão: mustelídeo da espécie Mustela putorius, espécie de furão bravo
+FITCHES	(forma de fitch) (substantivo) tourão: mustelídeo da espécie Mustela putorius, espécie de furão bravo
+FITNESS	(substantivo) aptidão: capacidade, competência natural ou adquirida em criar, fazer ou executar uma atividade específica
+FITNESSES	(forma de fitness) (substantivo) aptidão: capacidade, competência natural ou adquirida em criar, fazer ou executar uma atividade específica
+FITS	(forma de fit) (verbo) fit se traduz como se adequar
+FITTED	(forma de fit) (verbo) fit se traduz como se adequar
+FITTEST	(forma de fit) (verbo) fit se traduz como se adequar
+FITTING	(forma de fit) (verbo) fit se traduz como se adequar
+FITTINGS	(forma de fit) (verbo) fit se traduz como se adequar
+FIVE	(adjetivo) cinco: número equivalente a quatro mais um; cardinalidade de um conjunto que contenha cinco elementos distintos; representado pelo símbolo 5 (algarismos arábicos) ou V (algarismos romanos)
+FIVER	(forma de five) (adjetivo) cinco: número equivalente a quatro mais um; cardinalidade de um conjunto que contenha cinco elementos...
+FIVERS	(forma de five) (adjetivo) cinco: número equivalente a quatro mais um; cardinalidade de um conjunto que contenha cinco elementos...
+FIX	(substantivo) fix se traduz como ⟪conserto⟫\n(verbo) consertar: reparar; arrumar
+FIXED	(adjetivo) fixado: afixado (também: fixo)
+FIXEDLY	(advérbio) fixamente: de modo fixo
+FIXES	(forma de fix) (substantivo) fix se traduz como ⟪conserto⟫
+FIXING	(forma de fix) (substantivo) fix se traduz como ⟪conserto⟫
+FIXTURE	(substantivo) instalação: colocação dos objetos necessários a determinado trabalho ou empreendimento, incluindo-se a conexão de aparelhos com a rede elétrica
+FIXTURES	(forma de fixture) (substantivo) instalação: colocação dos objetos necessários a determinado trabalho ou empreendimento, incluindo-se a...
+FJORD	(substantivo) fiorde: golfo estreito, profundo e íngreme, formado pela erosão de glaciares
+FJORDS	(forma de fjord) (substantivo) fiorde: golfo estreito, profundo e íngreme, formado pela erosão de glaciares
+FLABBIER	(forma de flabby) (adjetivo) flácido: frouxo; sem consistência
+FLABBIEST	(forma de flabby) (adjetivo) flácido: frouxo; sem consistência
+FLABBY	(adjetivo) flácido: frouxo; sem consistência
+FLACCID	(adjetivo) mole: na brincadeira do "duro ou mole" expressa (ao tocar uma pessoa) que ela está livre para sair do lugar em que estava parada (também: fofo)
+FLACCIDLY	(forma de flaccid) (adjetivo) mole: na brincadeira do "duro ou mole" expressa (ao tocar uma pessoa) que ela está livre para sair do lugar...
+FLAG	(substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros símbolos, usada como representação dum Estado, duma facção, dum grupo, duma nação ou dum país\n(verbo) sinalizar: fazer por meio de interface de suporte lógico de uma plataforma de compartilhamento de conteúdo em relação a um conteúdo incluído dentro desta, uma indicação que notifica como sendo de teor ou qualidade em desconformidade ou infracionário quanto a um conjunto de regras predeterminadas (também: indicar, marcar)
+FLAGELLA	(forma de flagellum) (substantivo) flagelo: estrutura locomotora de células flageladas
+FLAGELLUM	(substantivo) flagelo: estrutura locomotora de células flageladas
+FLAGELLUMS	(forma de flagellum) (substantivo) flagelo: estrutura locomotora de células flageladas
+FLAGGED	(forma de flag) (substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros...
+FLAGGER	(forma de flag) (substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros...
+FLAGGING	(forma de flag) (substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros...
+FLAGGINGLY	(forma de flag) (substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros...
+FLAGGINGS	(forma de flag) (substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros...
+FLAGRANT	(adjetivo) flagrante: evidente
+FLAGRANTLY	(advérbio) flagrantemente: de modo flagrante
+FLAGS	(forma de flag) (substantivo) bandeira: peça de tecido, geralmente presa na ponta superior de um mastro, com cores diversas e outros...
+FLAGSHIP	(substantivo) nave capitânia: espaçonave de grande importância que abriga quem tem maior proeminência nas tomadas de decisões e coordenação de um grupamento estrelar de naves
+FLAGSHIPS	(forma de flagship) (substantivo) nave capitânia: espaçonave de grande importância que abriga quem tem maior proeminência nas tomadas de...
+FLAIL	(substantivo) mangual: instrumento através do qual se malha cereais para debulhá-los
+FLAILED	(forma de flail) (substantivo) mangual: instrumento através do qual se malha cereais para debulhá-los
+FLAILING	(forma de flail) (substantivo) mangual: instrumento através do qual se malha cereais para debulhá-los
+FLAILS	(forma de flail) (substantivo) mangual: instrumento através do qual se malha cereais para debulhá-los
+FLAKIER	(forma de flaky) (adjetivo) flaky se traduz como ⟪intermitente⟫
+FLAKIEST	(forma de flaky) (adjetivo) flaky se traduz como ⟪intermitente⟫
+FLAKILY	(forma de flaky) (adjetivo) flaky se traduz como ⟪intermitente⟫
+FLAKY	(adjetivo) flaky se traduz como ⟪intermitente⟫
+FLAMBOYANTLY	(advérbio) espalhafatosamente: de modo espalhafatoso
+FLAME	(substantivo) flame se traduz como ⟪chama⟫
+FLAMED	(adjetivo) flambê: diz-se do alimento que se cozinhou ateando-lhe fogo depois de se regar com álcool
+FLAMES	(forma de flame) (substantivo) flame se traduz como ⟪chama⟫
+FLAMING	(forma de flame) (substantivo) flame se traduz como ⟪chama⟫
+FLAMMABLE	(adjetivo) inflamável: substância que pega fogo facilmente
+FLAMMABLES	(forma de flammable) (adjetivo) inflamável: substância que pega fogo facilmente
+FLANNEL	(substantivo) flanela: tecido de algodão ou lã pouco encorpado e cardado
+FLANNELING	(forma de flannel) (substantivo) flanela: tecido de algodão ou lã pouco encorpado e cardado
+FLANNELLED	(forma de flannel) (substantivo) flanela: tecido de algodão ou lã pouco encorpado e cardado
+FLANNELLING	(forma de flannel) (substantivo) flanela: tecido de algodão ou lã pouco encorpado e cardado
+FLANNELLY	(forma de flannel) (substantivo) flanela: tecido de algodão ou lã pouco encorpado e cardado
+FLANNELS	(forma de flannel) (substantivo) flanela: tecido de algodão ou lã pouco encorpado e cardado
+FLAP	(substantivo) flap se traduz como ⟪flape⟫
+FLAPPED	(forma de flap) (substantivo) flap se traduz como ⟪flape⟫
+FLAPPING	(forma de flap) (substantivo) flap se traduz como ⟪flape⟫
+FLAPS	(forma de flap) (substantivo) flap se traduz como ⟪flape⟫
+FLARE	(substantivo) flare se traduz como ⟪sinalizador⟫
+FLARED	(forma de flare) (substantivo) flare se traduz como ⟪sinalizador⟫
+FLARES	(forma de flare) (substantivo) flare se traduz como ⟪sinalizador⟫
+FLARING	(forma de flare) (substantivo) flare se traduz como ⟪sinalizador⟫
+FLASH	(substantivo) flash se traduz como flache/flash
+FLASHBACK	(substantivo) flashback se traduz como ⟪flechebeque⟫
+FLASHBACKS	(forma de flashback) (substantivo) flashback se traduz como ⟪flechebeque⟫
+FLASHED	(forma de flash) (substantivo) flash se traduz como flache/flash
+FLASHES	(forma de flash) (substantivo) flash se traduz como flache/flash
+FLASHING	(forma de flash) (substantivo) flash se traduz como flache/flash
+FLASHINGS	(forma de flash) (substantivo) flash se traduz como flache/flash
+FLASHLIGHT	(substantivo) lanterna: instrumento portátil utilizado para iluminação
+FLASHLIGHTS	(forma de flashlight) (substantivo) lanterna: instrumento portátil utilizado para iluminação
+FLASK	(substantivo) flask se traduz como ⟪frasco⟫
+FLASKS	(forma de flask) (substantivo) flask se traduz como ⟪frasco⟫
+FLAT	(adjetivo) chato: achatado (também: liso, plano)\n(advérbio) flat se traduz como ⟪francamente⟫
+FLATCAR	(substantivo) flatcar se traduz como vagão-plataforma
+FLATCARS	(forma de flatcar) (substantivo) flatcar se traduz como vagão-plataforma
+FLATLY	(advérbio) rasamente: de forma rasa
+FLATTED	(forma de flat) (adjetivo) chato: achatado (também: liso, plano)
+FLATTEN	(verbo) achatar: tornar chato, esmagar
+FLATTENED	(adjetivo) flattened se traduz como ⟪achatado⟫, ⟪amassado⟫\n(verbo) particípio passado e passado simples do verbo flatten: achatar
+FLATTENER	(forma de flatten) (verbo) achatar: tornar chato, esmagar
+FLATTENING	(substantivo) flattening se traduz como ⟪achatamento⟫\n(verbo) gerúndio e particípio presente do verbo flatten: achatar
+FLATTENS	(verbo) terceira pessoa do singular do presente do indicativo do verbo flatten: achatar
+FLATTER	(forma de flat) (adjetivo) chato: achatado (também: liso, plano)
+FLATTERED	(forma de flat) (adjetivo) chato: achatado (também: liso, plano)
+FLATTERER	(substantivo) flatterer se traduz como ⟪bajulador⟫
+FLATTERERS	(forma de flatterer) (substantivo) flatterer se traduz como ⟪bajulador⟫
+FLATTERING	(forma de flat) (adjetivo) chato: achatado (também: liso, plano)
+FLATTERINGLY	(advérbio) lisonjeiramente: de forma lisonjeira
+FLATTERS	(forma de flat) (adjetivo) chato: achatado (também: liso, plano)
+FLATTEST	(forma de flat) (adjetivo) chato: achatado (também: liso, plano)
+FLATULENCE	(substantivo) flatulência: acumulação de gases no estômago e nos intestinos
+FLATULENCES	(forma de flatulence) (substantivo) flatulência: acumulação de gases no estômago e nos intestinos
+FLATULENT	(adjetivo) flatulent se traduz como ⟪flatulento⟫
+FLAUNT	(verbo) ostentar: mostrar ou exibir com aparato
+FLAUNTED	(forma de flaunt) (verbo) ostentar: mostrar ou exibir com aparato
+FLAUNTER	(forma de flaunt) (verbo) ostentar: mostrar ou exibir com aparato
+FLAUNTING	(forma de flaunt) (verbo) ostentar: mostrar ou exibir com aparato
+FLAUNTS	(forma de flaunt) (verbo) ostentar: mostrar ou exibir com aparato
+FLAUTIST	(substantivo) flautista: pessoa que toca flauta
+FLAUTISTS	(forma de flautist) (substantivo) flautista: pessoa que toca flauta
+FLAVOR	(substantivo) gosto: paladar, um dos cinco sentidos, que permite diferenciar sabores (também: sabor)
+FLAVORED	(forma de flavor) (substantivo) gosto: paladar, um dos cinco sentidos, que permite diferenciar sabores (também: sabor)
+FLAVORING	(substantivo) flavorizante: componente conferente de gosto, aroma, sabor a alguma coisa através de adição\n(verbo) particípio presente do verbo flavor: sabor, gosto
+FLAVORINGS	(forma de flavor) (substantivo) gosto: paladar, um dos cinco sentidos, que permite diferenciar sabores (também: sabor)
+FLAVORS	(forma de flavor) (substantivo) gosto: paladar, um dos cinco sentidos, que permite diferenciar sabores (também: sabor)
+FLAVOUR	(verbo) variante ortográfica de flavor
+FLAVOURED	(forma de flavour) (verbo) variante ortográfica de flavor
+FLAVOURING	(substantivo) flavorizante: componente conferente de gosto, aroma, sabor a alguma coisa através de adição\n(verbo) particípio presente do verbo flavour: variante ortográfica de flavor
+FLAVOURS	(forma de flavour) (verbo) variante ortográfica de flavor
+FLAW	(substantivo) defeito: falha, imperfeição (tanto física quanto moral) (também: falha, erro)
+FLAWED	(forma de flaw) (substantivo) defeito: falha, imperfeição (tanto física quanto moral) (também: falha, erro)
+FLAWING	(forma de flaw) (substantivo) defeito: falha, imperfeição (tanto física quanto moral) (também: falha, erro)
+FLAWLESS	(adjetivo) perfeito: sem falhas, sem problema (também: sem falhas)\n(advérbio) perfeito: sem falhas, sem problema (também: sem falhas)
+FLAWLESSLY	(advérbio) perfeitamente: de maneira perfeita
+FLAWS	(forma de flaw) (substantivo) defeito: falha, imperfeição (tanto física quanto moral) (também: falha, erro)
+FLAX	(substantivo) linho: tecido fabricado com as fibras do linho (planta)
+FLAXES	(forma de flax) (substantivo) linho: tecido fabricado com as fibras do linho (planta)
+FLEA	(substantivo) pulga: nome comum dos insetos sem asas da ordem Siphonaptera; são parasitas externos que se alimentam do sangue de mamíferos e aves
+FLEAS	(forma de flea) (substantivo) pulga: nome comum dos insetos sem asas da ordem Siphonaptera; são parasitas externos que se alimentam do...
+FLED	(forma de flee) (verbo) escapar: alcançar a velocidade de escape (também: fugir)
+FLEE	(verbo) escapar: alcançar a velocidade de escape (também: fugir)
+FLEEING	(verbo) gerúndio do verbo flee: escapar, fugir
+FLEES	(forma de flee) (verbo) escapar: alcançar a velocidade de escape (também: fugir)
+FLEET	(substantivo) frota: conjunto de navios de guerra ou mercantes
+FLEETED	(forma de fleet) (substantivo) frota: conjunto de navios de guerra ou mercantes
+FLEETER	(forma de fleet) (substantivo) frota: conjunto de navios de guerra ou mercantes
+FLEETEST	(forma de fleet) (substantivo) frota: conjunto de navios de guerra ou mercantes
+FLEETING	(forma de fleet) (substantivo) frota: conjunto de navios de guerra ou mercantes
+FLEETINGLY	(advérbio) fugazmente: de modo fugaz
+FLEETLY	(advérbio) rapidamente: de modo rápido
+FLEETS	(forma de fleet) (substantivo) frota: conjunto de navios de guerra ou mercantes
+FLESH	(substantivo) carne: parte comestível do fruto
+FLESHED	(forma de flesh) (substantivo) carne: parte comestível do fruto
+FLESHES	(forma de flesh) (substantivo) carne: parte comestível do fruto
+FLESHIER	(forma de fleshy) (adjetivo) fleshy se traduz como ⟪polpudo⟫
+FLESHIEST	(forma de fleshy) (adjetivo) fleshy se traduz como ⟪polpudo⟫
+FLESHING	(forma de flesh) (substantivo) carne: parte comestível do fruto
+FLESHY	(adjetivo) fleshy se traduz como ⟪polpudo⟫
+FLEW	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLEX	(verbo) flex se traduz como ⟪tensionar⟫
+FLEXED	(forma de flex) (verbo) flex se traduz como ⟪tensionar⟫
+FLEXES	(forma de flex) (verbo) flex se traduz como ⟪tensionar⟫
+FLEXIBLE	(adjetivo) flexível: maleável
+FLEXING	(forma de flex) (verbo) flex se traduz como ⟪tensionar⟫
+FLICK	(verbo) lançar: atirar; arrojar; deitar; vomitar; apontar; dirigir; inscrever (também: atirar, arremessar)
+FLICKED	(forma de flick) (verbo) lançar: atirar; arrojar; deitar; vomitar; apontar; dirigir; inscrever (também: atirar, arremessar)
+FLICKER	(substantivo) flicker se traduz como ⟪lampejo⟫, bruxuleio\n(verbo) tremular: balançar-se com a força do vento (também: lampejar, bruxulear)
+FLICKERED	(forma de flicker) (substantivo) flicker se traduz como ⟪lampejo⟫, bruxuleio
+FLICKERING	(forma de flicker) (substantivo) flicker se traduz como ⟪lampejo⟫, bruxuleio
+FLICKERS	(forma de flicker) (substantivo) flicker se traduz como ⟪lampejo⟫, bruxuleio
+FLICKING	(forma de flick) (verbo) lançar: atirar; arrojar; deitar; vomitar; apontar; dirigir; inscrever (também: atirar, arremessar)
+FLICKS	(forma de flick) (verbo) lançar: atirar; arrojar; deitar; vomitar; apontar; dirigir; inscrever (também: atirar, arremessar)
+FLIED	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLIES	(substantivo) plural de fly: mosca\n(verbo) terceira pessoa do singular do presente do indicativo do verbo fly: mosca
+FLIEST	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLIGHT	(adjetivo) flight se traduz como de voo\n(substantivo) voo: ato ou efeito de voar
+FLIGHTED	(forma de flight) (adjetivo) flight se traduz como de voo
+FLIGHTING	(forma de flight) (adjetivo) flight se traduz como de voo
+FLIGHTS	(forma de flight) (adjetivo) flight se traduz como de voo
+FLIMSIER	(forma de flimsy) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente (também: frágil, receoso)
+FLIMSIES	(forma de flimsy) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente (também: frágil, receoso)
+FLIMSIEST	(forma de flimsy) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente (também: frágil, receoso)
+FLIMSY	(adjetivo) capenga: desequilibrado, imperfeito, ineficiente (também: frágil, receoso)
+FLINT	(substantivo) pederneira: pedaço de sílex pirômaco, que produz faíscas quando atritado (também: sílex)
+FLINTED	(forma de flint) (substantivo) pederneira: pedaço de sílex pirômaco, que produz faíscas quando atritado (também: sílex)
+FLINTING	(forma de flint) (substantivo) pederneira: pedaço de sílex pirômaco, que produz faíscas quando atritado (também: sílex)
+FLINTS	(forma de flint) (substantivo) pederneira: pedaço de sílex pirômaco, que produz faíscas quando atritado (também: sílex)
+FLIP	(verbo) flip se traduz como ⟪flipar⟫
+FLIPPED	(forma de flip) (verbo) flip se traduz como ⟪flipar⟫
+FLIPPER	(substantivo) flipper se traduz como ⟪nadadeira⟫
+FLIPPERS	(forma de flipper) (substantivo) flipper se traduz como ⟪nadadeira⟫
+FLIPPEST	(forma de flip) (verbo) flip se traduz como ⟪flipar⟫
+FLIPPING	(forma de flip) (verbo) flip se traduz como ⟪flipar⟫
+FLIPS	(forma de flip) (verbo) flip se traduz como ⟪flipar⟫
+FLIRT	(verbo) flartar: namoricar; fazer a corte (também: flertar)
+FLIRTED	(forma de flirt) (verbo) flartar: namoricar; fazer a corte (também: flertar)
+FLIRTER	(forma de flirt) (verbo) flartar: namoricar; fazer a corte (também: flertar)
+FLIRTING	(forma de flirt) (verbo) flartar: namoricar; fazer a corte (também: flertar)
+FLIRTS	(forma de flirt) (verbo) flartar: namoricar; fazer a corte (também: flertar)
+FLOAT	(substantivo) float se traduz como ⟪boia⟫\n(verbo) flutuar: boiar, vogar sobre as ondas
+FLOATED	(forma de float) (substantivo) float se traduz como ⟪boia⟫
+FLOATIER	(forma de floaty) (adjetivo) floaty se traduz como ⟪flutuante⟫
+FLOATIEST	(forma de floaty) (adjetivo) floaty se traduz como ⟪flutuante⟫
+FLOATING	(adjetivo) floating se traduz como ⟪flutuante⟫
+FLOATS	(forma de float) (substantivo) float se traduz como ⟪boia⟫
+FLOATY	(adjetivo) floaty se traduz como ⟪flutuante⟫
+FLOCK	(substantivo) coletivo de pássaros, especialmente quando reunidos para fins de migração; bando\n(verbo) reunir-se em grande número
+FLOCKED	(forma de flock) (substantivo) coletivo de pássaros, especialmente quando reunidos para fins de migração; bando
+FLOCKING	(forma de flock) (substantivo) coletivo de pássaros, especialmente quando reunidos para fins de migração; bando
+FLOCKS	(forma de flock) (substantivo) coletivo de pássaros, especialmente quando reunidos para fins de migração; bando
+FLOOD	(substantivo) alagamento: inundação (também: inundação, enchente)
+FLOODED	(forma de flood) (substantivo) alagamento: inundação (também: inundação, enchente)
+FLOODING	(forma de flood) (substantivo) alagamento: inundação (também: inundação, enchente)
+FLOODS	(forma de flood) (substantivo) alagamento: inundação (também: inundação, enchente)
+FLOOR	(substantivo) chão: superfície pela qual se caminha (também: piso, assoalho)\n(verbo) cobrir o chão de um cômodo
+FLOORED	(forma de floor) (substantivo) chão: superfície pela qual se caminha (também: piso, assoalho)
+FLOORING	(forma de floor) (substantivo) chão: superfície pela qual se caminha (também: piso, assoalho)
+FLOORINGS	(forma de floor) (substantivo) chão: superfície pela qual se caminha (também: piso, assoalho)
+FLOORS	(forma de floor) (substantivo) chão: superfície pela qual se caminha (também: piso, assoalho)
+FLOP	(substantivo) som causado por um movimento\n(verbo) mover: deslocar no espaço (também: remexer)
+FLOPPED	(forma de flop) (substantivo) som causado por um movimento
+FLOPPER	(forma de flop) (substantivo) som causado por um movimento
+FLOPPING	(forma de flop) (substantivo) som causado por um movimento
+FLOPS	(forma de flop) (substantivo) som causado por um movimento
+FLORA	(substantivo) flora: conjunto dos seres vivos do reino vegetal que habitam determinada região; compõe juntamente com a fauna a biodiversidade de uma região
+FLORAE	(forma de flora) (substantivo) flora: conjunto dos seres vivos do reino vegetal que habitam determinada região; compõe juntamente com a...
+FLORAS	(substantivo) plural de flora: flora
+FLORET	(substantivo) florão: ornamento que possui o formato de uma flor
+FLORETS	(forma de floret) (substantivo) florão: ornamento que possui o formato de uma flor
+FLORILEGIA	(forma de florilegium) (substantivo) florilégio: compilação de textos literários escolhidos
+FLORILEGIUM	(substantivo) florilégio: compilação de textos literários escolhidos
+FLORIN	(substantivo) florim: unidade monetária de Aruba, Curaçau e São Martinho
+FLORINS	(forma de florin) (substantivo) florim: unidade monetária de Aruba, Curaçau e São Martinho
+FLOSS	(substantivo) floss se traduz como fio dental
+FLOSSED	(forma de floss) (substantivo) floss se traduz como fio dental
+FLOSSES	(forma de floss) (substantivo) floss se traduz como fio dental
+FLOSSING	(forma de floss) (substantivo) floss se traduz como fio dental
+FLOTILLA	(substantivo) flotilla se traduz como ⟪flotilha⟫
+FLOTILLAS	(forma de flotilla) (substantivo) flotilla se traduz como ⟪flotilha⟫
+FLOUR	(substantivo) farinha: cereal moído em partículas finas, usado para a confecção de pães, bolos, tortas, etc\n(verbo) cobrir de farinha, enfarinhar
+FLOURED	(verbo) passado simples flour: farinha
+FLOURING	(verbo) gerúndio de flour: farinha
+FLOURS	(substantivo) plural de flour\n(verbo) terceira pessoa do singular de flour
+FLOW	(substantivo) flow se traduz como ⟪fluxo⟫\n(verbo) fluir: brotar, provir, proceder
+FLOWCHART	(substantivo) flowchart se traduz como ⟪fluxograma⟫
+FLOWCHARTS	(forma de flowchart) (substantivo) flowchart se traduz como ⟪fluxograma⟫
+FLOWED	(forma de flow) (substantivo) flow se traduz como ⟪fluxo⟫
+FLOWER	(substantivo) flower se traduz como flor:\n(verbo) florescer: cobrir(-se) de flores; dar ou fazer brotar flores; enflorar (também: florir:)
+FLOWERED	(forma de flower) (substantivo) flower se traduz como flor:
+FLOWERIER	(forma de flowery) (adjetivo) floral: relativo às flores (também: florido, flóreo)
+FLOWERIEST	(forma de flowery) (adjetivo) floral: relativo às flores (também: florido, flóreo)
+FLOWERILY	(forma de flowery) (adjetivo) floral: relativo às flores (também: florido, flóreo)
+FLOWERING	(forma de flower) (substantivo) flower se traduz como flor:
+FLOWERS	(substantivo) plural de flower: flor:\n(verbo) terceira pessoa do singular do presente do indicativo do verbo flower: flor:
+FLOWERY	(adjetivo) floral: relativo às flores (também: florido, flóreo)
+FLOWING	(forma de flow) (substantivo) flow se traduz como ⟪fluxo⟫
+FLOWN	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLOWS	(forma de flow) (substantivo) flow se traduz como ⟪fluxo⟫
+FLU	(substantivo) gripe: resfriado
+FLUCTUATION	(substantivo) flutuação: ato ou efeito de flutuar (também: ondulação)
+FLUCTUATIONS	(forma de fluctuation) (substantivo) flutuação: ato ou efeito de flutuar (também: ondulação)
+FLUENCIES	(forma de fluency) (substantivo) fluência: qualidade daquilo que é fluente
+FLUENCY	(substantivo) fluência: qualidade daquilo que é fluente
+FLUENT	(adjetivo) fluente: corrente, habitual, comum, vulgarizado
+FLUENTLY	(advérbio) fluentemente: de modo fluente
+FLUID	(substantivo) fluido: substância que não é sólida; termo genérico para designar líquidos e gases
+FLUIDITIES	(forma de fluidity) (substantivo) fluidez: capacidade de fluir
+FLUIDITY	(substantivo) fluidez: capacidade de fluir
+FLUIDLY	(advérbio) fluidamente: de forma fluida
+FLUIDS	(forma de fluid) (substantivo) fluido: substância que não é sólida; termo genérico para designar líquidos e gases
+FLUORESCENCE	(substantivo) fluorescência: capacidade de uma substância de emitir luz quando exposta a radiações do tipo ultravioleta (UV), raios catódicos ou raios X
+FLUORESCENCES	(forma de fluorescence) (substantivo) fluorescência: capacidade de uma substância de emitir luz quando exposta a radiações do tipo ultravioleta...
+FLUORESCENT	(adjetivo) fluorescent se traduz como ⟪fluorescente⟫
+FLUORESCENTS	(forma de fluorescent) (adjetivo) fluorescent se traduz como ⟪fluorescente⟫
+FLUORIDE	(substantivo) fluoreto: um sal do ácido fluorídrico ou um ânion que dele foi derivado
+FLUORIDES	(forma de fluoride) (substantivo) fluoreto: um sal do ácido fluorídrico ou um ânion que dele foi derivado
+FLUORINE	(substantivo) flúor, elemento químico de número atômico 9 e símbolo F
+FLUORINES	(forma de fluorine) (substantivo) flúor, elemento químico de número atômico 9 e símbolo F
+FLUOROSCOPE	(substantivo) fluoroscópio: aparelho de radioscopia que utiliza tela fluorescente e raios-X para tornar visíveis estruturas internas em tempo real
+FLUOROSCOPED	(forma de fluoroscope) (substantivo) fluoroscópio: aparelho de radioscopia que utiliza tela fluorescente e raios-X para tornar visíveis...
+FLUOROSCOPES	(forma de fluoroscope) (substantivo) fluoroscópio: aparelho de radioscopia que utiliza tela fluorescente e raios-X para tornar visíveis...
+FLUOROSCOPIES	(forma de fluoroscopy) (substantivo) radioscopia: técnica de visualização em tempo real por raio X, usando tela fluorescente ou detector para...
+FLUOROSCOPING	(forma de fluoroscope) (substantivo) fluoroscópio: aparelho de radioscopia que utiliza tela fluorescente e raios-X para tornar visíveis...
+FLUOROSCOPY	(substantivo) radioscopia: técnica de visualização em tempo real por raio X, usando tela fluorescente ou detector para observar estruturas internas (também: fluoroscopia)
+FLUS	(forma de flu) (substantivo) gripe: resfriado
+FLUSH	(substantivo) flush se traduz como ⟪flush⟫
+FLUSHED	(forma de flush) (substantivo) flush se traduz como ⟪flush⟫
+FLUSHER	(forma de flush) (substantivo) flush se traduz como ⟪flush⟫
+FLUSHERS	(forma de flush) (substantivo) flush se traduz como ⟪flush⟫
+FLUSHES	(forma de flush) (substantivo) flush se traduz como ⟪flush⟫
+FLUSHEST	(forma de flush) (substantivo) flush se traduz como ⟪flush⟫
+FLUSHING	(forma de flush) (substantivo) flush se traduz como ⟪flush⟫
+FLUTE	(substantivo) flauta: instrumento musical comprido e tubiforme de sopro sem palheta e com buracos
+FLUTED	(forma de flute) (substantivo) flauta: instrumento musical comprido e tubiforme de sopro sem palheta e com buracos
+FLUTES	(forma de flute) (substantivo) flauta: instrumento musical comprido e tubiforme de sopro sem palheta e com buracos
+FLUTING	(forma de flute) (substantivo) flauta: instrumento musical comprido e tubiforme de sopro sem palheta e com buracos
+FLUTINGS	(forma de flute) (substantivo) flauta: instrumento musical comprido e tubiforme de sopro sem palheta e com buracos
+FLUTIST	(substantivo) flautista: pessoa que toca flauta
+FLUTISTS	(forma de flutist) (substantivo) flautista: pessoa que toca flauta
+FLUTTER	(substantivo) flutter se traduz como ⟪agitação|AGITAÇAO⟫, tremulação\n(verbo) flutter se traduz como ⟪tremular⟫, ⟪agitar⟫
+FLUTTERED	(verbo) passado simples do verbo flutter
+FLUTTERING	(verbo) gerúndio do verbo flutter
+FLUTTERS	(substantivo) plural de flutter\n(verbo) terceira pessoa do singular do verbo flutter
+FLUVIAL	(adjetivo) fluvial: relativo ao rio
+FLY	(substantivo) mosca: nome de muitos insetos da ordem dos dípteros\n(verbo) voar: sustentar-se ou mover-se no ar
+FLYER	(substantivo) flyer se traduz como ⟪voador⟫
+FLYERS	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLYING	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLYINGS	(forma de fly) (substantivo) mosca: nome de muitos insetos da ordem dos dípteros
+FLYLEAF	(substantivo) flyleaf se traduz como ⟪guarda⟫
+FLYLEAVES	(forma de flyleaf) (substantivo) flyleaf se traduz como ⟪guarda⟫
+FOAL	(substantivo) poldro: potro, cria da égua e do cavalo
+FOALED	(forma de foal) (substantivo) poldro: potro, cria da égua e do cavalo
+FOALING	(forma de foal) (substantivo) poldro: potro, cria da égua e do cavalo
+FOALS	(forma de foal) (substantivo) poldro: potro, cria da égua e do cavalo
+FOAM	(substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes ou agitados, mormente pela agitação de água à qual se adicionaram certas substâncias, tais como sabões ou detergentes
+FOAMED	(forma de foam) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FOAMER	(forma de foam) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FOAMING	(forma de foam) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FOAMS	(forma de foam) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FOCALLY	(advérbio) focalmente: relativamente ao foco
+FOCI	(forma de focus) (substantivo) foco: nitidez de uma imagem
+FOCUS	(substantivo) foco: nitidez de uma imagem
+FOCUSED	(forma de focus) (substantivo) foco: nitidez de uma imagem
+FOCUSER	(forma de focus) (substantivo) foco: nitidez de uma imagem
+FOCUSES	(forma de focus) (substantivo) foco: nitidez de uma imagem
+FOCUSING	(forma de focus) (substantivo) foco: nitidez de uma imagem
+FODDER	(substantivo) fodder se traduz como ⟪forragem⟫
+FODDERED	(forma de fodder) (substantivo) fodder se traduz como ⟪forragem⟫
+FODDERING	(forma de fodder) (substantivo) fodder se traduz como ⟪forragem⟫
+FODDERS	(forma de fodder) (substantivo) fodder se traduz como ⟪forragem⟫
+FOE	(substantivo) inimigo: tropa das forças armadas adversas
+FOES	(forma de foe) (substantivo) inimigo: tropa das forças armadas adversas
+FOG	(substantivo) fog se traduz como ⟪neblina⟫
+FOGGED	(forma de fog) (substantivo) fog se traduz como ⟪neblina⟫
+FOGGIER	(forma de foggy) (adjetivo) enevoado: escuro
+FOGGIEST	(forma de foggy) (adjetivo) enevoado: escuro
+FOGGING	(forma de fog) (substantivo) fog se traduz como ⟪neblina⟫
+FOGGY	(adjetivo) enevoado: escuro
+FOGS	(forma de fog) (substantivo) fog se traduz como ⟪neblina⟫
+FOIL	(substantivo) florete: arma usada na esgrima composta de cabo e espeto metálico pontiagudo
+FOILED	(forma de foil) (substantivo) florete: arma usada na esgrima composta de cabo e espeto metálico pontiagudo
+FOILING	(forma de foil) (substantivo) florete: arma usada na esgrima composta de cabo e espeto metálico pontiagudo
+FOILS	(forma de foil) (substantivo) florete: arma usada na esgrima composta de cabo e espeto metálico pontiagudo
+FOLD	(substantivo) fold se traduz como ⟪dobra⟫, ⟪dobradura⟫\n(verbo) dobrar: dar a alguma coisa uma forma semelhante à de uma curva; fazer inclinar
+FOLDABLE	(adjetivo) dobrável: que se pode dobrar
+FOLDED	(forma de fold) (substantivo) fold se traduz como ⟪dobra⟫, ⟪dobradura⟫
+FOLDER	(substantivo) diretório: estrutura que guarda e organiza arquivos/ficheiros e outro(s) diretórios (também: pasta)
+FOLDERS	(forma de folder) (substantivo) diretório: estrutura que guarda e organiza arquivos/ficheiros e outro(s) diretórios (também: pasta)
+FOLDING	(forma de fold) (substantivo) fold se traduz como ⟪dobra⟫, ⟪dobradura⟫
+FOLDS	(forma de fold) (substantivo) fold se traduz como ⟪dobra⟫, ⟪dobradura⟫
+FOLIAGE	(substantivo) folhagem: conjunto das folhas de uma ou mais plantas
+FOLIAGES	(forma de foliage) (substantivo) folhagem: conjunto das folhas de uma ou mais plantas
+FOLK	(adjetivo) folk se traduz como ⟪folclórico|FOLCLORICO⟫\n(substantivo) pessoas em geral; povo; gente
+FOLKSIER	(forma de folksy) (adjetivo) folksy se traduz como ⟪rural⟫
+FOLKSIEST	(forma de folksy) (adjetivo) folksy se traduz como ⟪rural⟫
+FOLKSY	(adjetivo) folksy se traduz como ⟪rural⟫
+FOLLIES	(substantivo) revista teatral ricamente produzida, caracterizada por grandes estrelas, grandes elencos e figurinos e cenários opulentos
+FOLLOW	(verbo) seguir: vir após, como resultado ou consequência
+FOLLOWED	(forma de follow) (verbo) seguir: vir após, como resultado ou consequência
+FOLLOWER	(substantivo) seguidor: aquele ou aquilo que segue outro
+FOLLOWING	(adjetivo) following se traduz como ⟪seguinte⟫
+FOLLOWINGS	(forma de follow) (verbo) seguir: vir após, como resultado ou consequência
+FOLLOWS	(forma de follow) (verbo) seguir: vir após, como resultado ou consequência
+FOMENT	(verbo) fomentar: ajudar o desenvolvimento; induzir para o crescimento
+FOMENTED	(forma de foment) (verbo) fomentar: ajudar o desenvolvimento; induzir para o crescimento
+FOMENTING	(forma de foment) (verbo) fomentar: ajudar o desenvolvimento; induzir para o crescimento
+FOMENTS	(forma de foment) (verbo) fomentar: ajudar o desenvolvimento; induzir para o crescimento
+FOMITE	(substantivo) fómite ^((português europeu)) ou fômite ^((português do Brasil))
+FOMITES	(forma de fomite) (substantivo) fómite ^((português europeu)) ou fômite ^((português do Brasil))
+FOND	(adjetivo) afeiçoado: que tem afeição (a alguém ou a alguma coisa) (também: meigo, carinhoso)
+FONDED	(forma de fond) (adjetivo) afeiçoado: que tem afeição (a alguém ou a alguma coisa) (também: meigo, carinhoso)
+FONDER	(forma de fond) (adjetivo) afeiçoado: que tem afeição (a alguém ou a alguma coisa) (também: meigo, carinhoso)
+FONDEST	(forma de fond) (adjetivo) afeiçoado: que tem afeição (a alguém ou a alguma coisa) (também: meigo, carinhoso)
+FONDING	(forma de fond) (adjetivo) afeiçoado: que tem afeição (a alguém ou a alguma coisa) (também: meigo, carinhoso)
+FONDLY	(advérbio) carinhosamente: de modo carinhoso
+FONDNESS	(substantivo) apego: ligação afetiva; estima, afeição
+FONDNESSES	(forma de fondness) (substantivo) apego: ligação afetiva; estima, afeição
+FONDS	(forma de fond) (adjetivo) afeiçoado: que tem afeição (a alguém ou a alguma coisa) (também: meigo, carinhoso)
+FONT	(substantivo) font se traduz como ⟪fonte⟫
+FONTS	(forma de font) (substantivo) font se traduz como ⟪fonte⟫
+FOOD	(substantivo) alimento: o conjunto de substâncias normalmente ingeridas por uma pessoa ou animal
+FOODIE	(substantivo) aficcionado por culinária
+FOODIES	(forma de foodie) (substantivo) aficcionado por culinária
+FOODS	(forma de food) (substantivo) alimento: o conjunto de substâncias normalmente ingeridas por uma pessoa ou animal
+FOOL	(substantivo) alguém que gosta de algo especificado\n(verbo) enganar: levar intencionalmente ao erro
+FOOLED	(forma de fool) (substantivo) alguém que gosta de algo especificado
+FOOLING	(forma de fool) (substantivo) alguém que gosta de algo especificado
+FOOLISH	(adjetivo) aparvalhado: diz-se de pessoa sem muita inteligência; sem capacidade de compreensão (também: idiota)\n(substantivo) imbecil: De adjetivo (tratamento pejorativo)
+FOOLISHER	(forma de foolish) (adjetivo) aparvalhado: diz-se de pessoa sem muita inteligência; sem capacidade de compreensão (também: idiota)
+FOOLISHEST	(forma de foolish) (adjetivo) aparvalhado: diz-se de pessoa sem muita inteligência; sem capacidade de compreensão (também: idiota)
+FOOLISHLY	(advérbio) insensatamente: de forma insensata (também: tolamente, parvamente)
+FOOLS	(forma de fool) (substantivo) alguém que gosta de algo especificado
+FOOT	(substantivo) pé: extremidade dos membros inferiores do corpo humano, responsável pelo equilíbrio\n(verbo) pagar: remunerar
+FOOTAGE	(substantivo) filmagem bruta, sem edição, conforma captada pela câmera
+FOOTAGES	(forma de footage) (substantivo) filmagem bruta, sem edição, conforma captada pela câmera
+FOOTBALL	(substantivo) futebol: esporte cujas partidas são disputadas por duas equipes de onze jogadores, em que é proibido (exceto aos goleiros, quando dentro da sua área) o uso dos braços e mãos, e cujo objetivo é fazer entrar uma bola no gol do adversário
+FOOTBALLER	(substantivo) futebolista: jogador de futebol (balipódio, balípodo, ludopédio ou pedibola) (também: jogador de futebol, jogadora de futebol)
+FOOTBALLERS	(forma de footballer) (substantivo) futebolista: jogador de futebol (balipódio, balípodo, ludopédio ou pedibola) (também: jogador de futebol,...
+FOOTBALLS	(forma de football) (substantivo) futebol: esporte cujas partidas são disputadas por duas equipes de onze jogadores, em que é proibido...
+FOOTED	(forma de foot) (substantivo) pé: extremidade dos membros inferiores do corpo humano, responsável pelo equilíbrio
+FOOTER	(substantivo) rodapé, texto no rodapé
+FOOTERS	(forma de footer) (substantivo) rodapé, texto no rodapé
+FOOTING	(forma de foot) (substantivo) pé: extremidade dos membros inferiores do corpo humano, responsável pelo equilíbrio
+FOOTINGS	(forma de foot) (substantivo) pé: extremidade dos membros inferiores do corpo humano, responsável pelo equilíbrio
+FOOTNOTE	(substantivo) rodapé: o mesmo que nota de rodapé
+FOOTNOTED	(forma de footnote) (substantivo) rodapé: o mesmo que nota de rodapé
+FOOTNOTES	(forma de footnote) (substantivo) rodapé: o mesmo que nota de rodapé
+FOOTNOTING	(forma de footnote) (substantivo) rodapé: o mesmo que nota de rodapé
+FOOTPATH	(substantivo) caminho: distância
+FOOTPATHS	(forma de footpath) (substantivo) caminho: distância
+FOOTPRINT	(substantivo) footprint se traduz como ⟪pegada⟫
+FOOTPRINTS	(forma de footprint) (substantivo) footprint se traduz como ⟪pegada⟫
+FOOTS	(forma de foot) (substantivo) pé: extremidade dos membros inferiores do corpo humano, responsável pelo equilíbrio
+FOOTWEAR	(substantivo) calçado: artefato para cobrir e abrigar os pés
+FOOTWORK	(substantivo) rebolado: saracoteio de quadris
+FOOTWORKS	(forma de footwork) (substantivo) rebolado: saracoteio de quadris
+FOP	(substantivo) petimetre: aquele que apresenta demasiada vaidade quanto a suas roupas e visual
+FOPPED	(forma de fop) (substantivo) petimetre: aquele que apresenta demasiada vaidade quanto a suas roupas e visual
+FOPPING	(forma de fop) (substantivo) petimetre: aquele que apresenta demasiada vaidade quanto a suas roupas e visual
+FOPPISH	(adjetivo) petimetre: que é extremamente vaidoso e preocupado com sua aparência
+FOPPISHLY	(forma de foppish) (adjetivo) petimetre: que é extremamente vaidoso e preocupado com sua aparência
+FOPS	(forma de fop) (substantivo) petimetre: aquele que apresenta demasiada vaidade quanto a suas roupas e visual
+FOR	(conjunção) porque: causa, motivo ou razão da ação contida na oração principal; como, visto que, já que (também: pois:)\n(preposição) for se traduz como para:
+FORA	(substantivo) forma plural irregular de forum:
+FORAGE	(verbo) forragear: buscar por alimento
+FORAGED	(forma de forage) (verbo) forragear: buscar por alimento
+FORAGES	(forma de forage) (verbo) forragear: buscar por alimento
+FORAGING	(forma de forage) (verbo) forragear: buscar por alimento
+FORAM	(substantivo) foram se traduz como foraminífero
+FORAMEN	(substantivo) foramen se traduz como forame
+FORAMENS	(forma de foramen) (substantivo) foramen se traduz como forame
+FORAMINA	(forma de foramen) (substantivo) foramen se traduz como forame
+FORAMS	(forma de foram) (substantivo) foram se traduz como foraminífero
+FORBAD	(forma de forbid) (verbo) proibir: criar uma lei contra algo
+FORBADE	(forma de forbid) (verbo) proibir: criar uma lei contra algo
+FORBEAR	(verbo) relutar: ter repugnância ou aversão
+FORBEARING	(forma de forbear) (verbo) relutar: ter repugnância ou aversão
+FORBEARS	(forma de forbear) (verbo) relutar: ter repugnância ou aversão
+FORBID	(verbo) proibir: criar uma lei contra algo
+FORBIDDEN	(adjetivo) proibido: não permitido; ilegal
+FORBIDDING	(forma de forbid) (verbo) proibir: criar uma lei contra algo
+FORBIDS	(forma de forbid) (verbo) proibir: criar uma lei contra algo
+FORBORE	(forma de forbear) (verbo) relutar: ter repugnância ou aversão
+FORBORNE	(forma de forbear) (verbo) relutar: ter repugnância ou aversão
+FORCE	(substantivo) força: agente capaz de alterar o estado de inércia de um corpo, medido pela derivada da quantidade de movimento no tempo\n(verbo) forçar: fazer acontecer por uma necessidade
+FORCED	(forma de force) (substantivo) força: agente capaz de alterar o estado de inércia de um corpo, medido pela derivada da quantidade de...
+FORCEDLY	(advérbio) forçadamente: de modo forçado
+FORCEPS	(substantivo) fórceps: instrumento com que se extrai do útero a criança
+FORCES	(forma de force) (substantivo) força: agente capaz de alterar o estado de inércia de um corpo, medido pela derivada da quantidade de...
+FORCIBLY	(advérbio) forçosamente: de modo forçoso
+FORCING	(forma de force) (substantivo) força: agente capaz de alterar o estado de inércia de um corpo, medido pela derivada da quantidade de...
+FORD	(substantivo) ford se traduz como ⟪vau⟫\n(verbo) atravessar um vau
+FORDED	(forma de ford) (substantivo) ford se traduz como ⟪vau⟫
+FORDING	(forma de ford) (substantivo) ford se traduz como ⟪vau⟫
+FORDS	(forma de ford) (substantivo) ford se traduz como ⟪vau⟫
+FORE	(adjetivo) parte da frente\n(substantivo) frente: : fileira, linha avançada de um exército
+FOREARM	(substantivo) antebraço: a porção do membro superior dos mamíferos entre o cotovelo e o carpo (punho)
+FOREARMED	(forma de forearm) (substantivo) antebraço: a porção do membro superior dos mamíferos entre o cotovelo e o carpo (punho)
+FOREARMING	(forma de forearm) (substantivo) antebraço: a porção do membro superior dos mamíferos entre o cotovelo e o carpo (punho)
+FOREARMS	(forma de forearm) (substantivo) antebraço: a porção do membro superior dos mamíferos entre o cotovelo e o carpo (punho)
+FORECAST	(substantivo) forecast se traduz como ⟪previsão|PREVISAO⟫\n(verbo) prever: ver, saber, examinar antecipadamente; antever (também: predizer)
+FORECASTED	(forma de forecast) (substantivo) forecast se traduz como ⟪previsão|PREVISAO⟫
+FORECASTING	(forma de forecast) (substantivo) forecast se traduz como ⟪previsão|PREVISAO⟫
+FORECASTS	(forma de forecast) (substantivo) forecast se traduz como ⟪previsão|PREVISAO⟫
+FORECOURT	(substantivo) forecourt se traduz como ⟪átrio|ATRIO⟫
+FORECOURTS	(forma de forecourt) (substantivo) forecourt se traduz como ⟪átrio|ATRIO⟫
+FOREGO	(verbo) preceder: vir ou chegar antes de
+FOREGOES	(forma de forego) (verbo) preceder: vir ou chegar antes de
+FOREGOING	(forma de forego) (verbo) preceder: vir ou chegar antes de
+FOREGONE	(forma de forego) (verbo) preceder: vir ou chegar antes de
+FOREHEAD	(substantivo) testa: parte do rosto humano acima dos olhos e abaixo dos cabelos
+FOREHEADS	(forma de forehead) (substantivo) testa: parte do rosto humano acima dos olhos e abaixo dos cabelos
+FOREIGN	(adjetivo) estrangeiro: de outra nacionalidade
+FOREIGNER	(substantivo) estrangeiro: pessoa com origem em outro país, nação ou Estado (também: gringo)
+FOREIGNERS	(forma de foreigner) (substantivo) estrangeiro: pessoa com origem em outro país, nação ou Estado (também: gringo)
+FOREIGNISM	(substantivo) foreignism se traduz como ⟪estrangeirismo⟫
+FOREIGNISMS	(forma de foreignism) (substantivo) foreignism se traduz como ⟪estrangeirismo⟫
+FOREMAN	(substantivo) feitor: capataz; administrador de trabalhadores ou de uma fazenda (também: capataz)
+FOREMEN	(forma de foreman) (substantivo) feitor: capataz; administrador de trabalhadores ou de uma fazenda (também: capataz)
+FORENOON	(substantivo) manhã: período do dia entre o nascer-do-sol e o meio-dia
+FORENOONS	(forma de forenoon) (substantivo) manhã: período do dia entre o nascer-do-sol e o meio-dia
+FOREPLAY	(substantivo) preliminares: jogos de intimidades psicológicas e de atos corporais entre duas ou mais pessoas com o intuito de aumentar a excitação sexual entre os parceiros antes do ato sexual
+FOREPLAYS	(forma de foreplay) (substantivo) preliminares: jogos de intimidades psicológicas e de atos corporais entre duas ou mais pessoas com o...
+FORES	(forma de fore) (adjetivo) parte da frente
+FORESAID	(adjetivo) antedito: que foi anteriormente dito (também: predito)
+FORESAW	(forma de foresee) (verbo) prever: ver, saber, examinar antecipadamente; antever
+FORESEE	(verbo) prever: ver, saber, examinar antecipadamente; antever
+FORESEEABLE	(adjetivo) previsível: que pode ser previsto
+FORESEEING	(forma de foresee) (verbo) prever: ver, saber, examinar antecipadamente; antever
+FORESEEN	(adjetivo) previsto: prenunciado
+FORESEES	(forma de foresee) (verbo) prever: ver, saber, examinar antecipadamente; antever
+FORESHADOW	(verbo) pressagiar: anunciar por presságios (também: pressupor)
+FORESHADOWED	(forma de foreshadow) (verbo) pressagiar: anunciar por presságios (também: pressupor)
+FORESHADOWER	(forma de foreshadow) (verbo) pressagiar: anunciar por presságios (também: pressupor)
+FORESHADOWING	(forma de foreshadow) (verbo) pressagiar: anunciar por presságios (também: pressupor)
+FORESHADOWS	(forma de foreshadow) (verbo) pressagiar: anunciar por presságios (também: pressupor)
+FORESIGHT	(substantivo) presciência: previsão (também: previsão, prudência)
+FORESIGHTS	(forma de foresight) (substantivo) presciência: previsão (também: previsão, prudência)
+FORESKIN	(substantivo) prepúcio: anatomia dobra de pele que recobre a extremidade do pênis (glande)
+FORESKINS	(forma de foreskin) (substantivo) prepúcio: anatomia dobra de pele que recobre a extremidade do pênis (glande)
+FOREST	(substantivo) floresta: extensão de terra onde existem muitas árvores\n(verbo) cobrir uma área com floresta
+FORESTED	(verbo) passado simples do verbo forest
+FORESTING	(verbo) gerúndio do verbo forest
+FORESTRIES	(forma de forestry) (substantivo) forestry se traduz como ⟪silvicultura⟫
+FORESTRY	(substantivo) forestry se traduz como ⟪silvicultura⟫
+FORESTS	(substantivo) plural de forest\n(verbo) terceira pessoa do singular do verbo forest
+FORETHOUGHT	(substantivo) forethought se traduz como ⟪prudência|PRUDENCIA⟫
+FORETHOUGHTS	(forma de forethought) (substantivo) forethought se traduz como ⟪prudência|PRUDENCIA⟫
+FOREVER	(advérbio) forever se traduz como para sempre, pra sempre
+FOREVERS	(forma de forever) (advérbio) forever se traduz como para sempre, pra sempre
+FOREWENT	(forma de forego) (verbo) preceder: vir ou chegar antes de
+FOREWORD	(substantivo) prefácio: texto preliminar de apresentação, geralmente breve, escrito pelo autor ou por outrem, colocado no começo do livro, com explicações sobre seu conteúdo, objetivos ou sobre a pessoa do autor
+FOREWORDS	(forma de foreword) (substantivo) prefácio: texto preliminar de apresentação, geralmente breve, escrito pelo autor ou por outrem, colocado...
+FORFEIT	(substantivo) coisa perdida ou confiscada por causa de negligência, falta, omissão, crime\n(verbo) perder por confisco
+FORFEITED	(forma de forfeit) (substantivo) coisa perdida ou confiscada por causa de negligência, falta, omissão, crime
+FORFEITER	(forma de forfeit) (substantivo) coisa perdida ou confiscada por causa de negligência, falta, omissão, crime
+FORFEITERS	(forma de forfeit) (substantivo) coisa perdida ou confiscada por causa de negligência, falta, omissão, crime
+FORFEITING	(forma de forfeit) (substantivo) coisa perdida ou confiscada por causa de negligência, falta, omissão, crime
+FORFEITS	(forma de forfeit) (substantivo) coisa perdida ou confiscada por causa de negligência, falta, omissão, crime
+FORGAVE	(verbo) passado simples forgive: perdoar
+FORGE	(substantivo) forja: local onde fica o equipamento, todo o material e onde se executa o ofício de ferreiro
+FORGED	(forma de forge) (substantivo) forja: local onde fica o equipamento, todo o material e onde se executa o ofício de ferreiro
+FORGES	(forma de forge) (substantivo) forja: local onde fica o equipamento, todo o material e onde se executa o ofício de ferreiro
+FORGET	(verbo) esquecer: perder a lembrança de alguém ou de alguma coisa; olvidar; deslembrar
+FORGETFUL	(adjetivo) que se dá por esquecer com facilidade; esquecido
+FORGETFULLY	(advérbio) esquecidamente: de forma esquecida
+FORGETS	(forma de forget) (verbo) esquecer: perder a lembrança de alguém ou de alguma coisa; olvidar; deslembrar
+FORGETTING	(forma de forget) (verbo) esquecer: perder a lembrança de alguém ou de alguma coisa; olvidar; deslembrar
+FORGING	(forma de forge) (substantivo) forja: local onde fica o equipamento, todo o material e onde se executa o ofício de ferreiro
+FORGINGS	(forma de forge) (substantivo) forja: local onde fica o equipamento, todo o material e onde se executa o ofício de ferreiro
+FORGIVE	(verbo) perdoar: utilizado para, de uma maneira delicada, interromper um discurso falado, pedindo desculpa por proceder a essa interrupção
+FORGIVEN	(verbo) particípio do verbo forgive: perdoar
+FORGIVENESS	(substantivo) perdão: indulgência
+FORGIVENESSES	(forma de forgiveness) (substantivo) perdão: indulgência
+FORGIVES	(verbo) terceira pessoa do singular de forgive
+FORGIVING	(verbo) gerúndio de forgive: perdoar
+FORGO	(verbo) preceder: vir ou chegar antes de
+FORGOER	(forma de forgo) (verbo) preceder: vir ou chegar antes de
+FORGOES	(forma de forgo) (verbo) preceder: vir ou chegar antes de
+FORGOING	(forma de forgo) (verbo) preceder: vir ou chegar antes de
+FORGONE	(forma de forgo) (verbo) preceder: vir ou chegar antes de
+FORGOT	(forma de forget) (verbo) esquecer: perder a lembrança de alguém ou de alguma coisa; olvidar; deslembrar
+FORGOTTEN	(adjetivo) esquecido: que se esqueceu
+FORK	(substantivo) fork se traduz como ⟪garfo⟫\n(verbo) fork se traduz como ⟪forquear⟫
+FORKED	(forma de fork) (substantivo) fork se traduz como ⟪garfo⟫
+FORKEDLY	(forma de fork) (substantivo) fork se traduz como ⟪garfo⟫
+FORKER	(forma de fork) (substantivo) fork se traduz como ⟪garfo⟫
+FORKING	(forma de fork) (substantivo) fork se traduz como ⟪garfo⟫
+FORKS	(forma de fork) (substantivo) fork se traduz como ⟪garfo⟫
+FORM	(substantivo) form se traduz como ⟪forma⟫\n(verbo) formar: dar forma a; constituir; compor
+FORMAL	(adjetivo) formal se traduz como ⟪formal⟫
+FORMALITY	(substantivo) formalidade: praxe
+FORMALLY	(advérbio) formalmente: de maneira formal
+FORMALS	(forma de formal) (adjetivo) formal se traduz como ⟪formal⟫
+FORMAT	(verbo) formatar: realizar formatação
+FORMATES	(forma de format) (verbo) formatar: realizar formatação
+FORMATIVE	(adjetivo) formative se traduz como ⟪formativo⟫
+FORMATIVELY	(advérbio) formativamente: de modo formativo
+FORMATIVES	(forma de formative) (adjetivo) formative se traduz como ⟪formativo⟫
+FORMATS	(forma de format) (verbo) formatar: realizar formatação
+FORMATTED	(forma de format) (verbo) formatar: realizar formatação
+FORMATTER	(forma de format) (verbo) formatar: realizar formatação
+FORMATTING	(forma de format) (verbo) formatar: realizar formatação
+FORMED	(adjetivo) formado: claramente definido
+FORMER	(adjetivo) former se traduz como ⟪anterior⟫\n(substantivo) former se traduz como ⟪formador⟫
+FORMERLY	(advérbio) outrora: em outro tempo (também: precedentemente)
+FORMERS	(forma de former) (adjetivo) former se traduz como ⟪anterior⟫
+FORMES	(forma de form) (substantivo) form se traduz como ⟪forma⟫
+FORMIDABLE	(adjetivo) formidable se traduz como ⟪formidável|FORMIDAVEL⟫
+FORMIDABLY	(advérbio) formidavelmente: de modo formidável
+FORMING	(forma de form) (substantivo) form se traduz como ⟪forma⟫
+FORMS	(substantivo) plural de form: forma
+FORMULA	(substantivo) fórmula: expressão concisa e rigorosa, constituída em geral de símbolos, que resume um certo número de dados
+FORMULAE	(forma de formula) (substantivo) fórmula: expressão concisa e rigorosa, constituída em geral de símbolos, que resume um certo número de...
+FORMULAIC	(adjetivo) formulaico: relativo a fórmula
+FORMULAS	(forma de formula) (substantivo) fórmula: expressão concisa e rigorosa, constituída em geral de símbolos, que resume um certo número de...
+FORMULATION	(substantivo) formulação: ato de formular
+FORMULATIONS	(forma de formulation) (substantivo) formulação: ato de formular
+FORSAKE	(verbo) abandonar: renunciar, largar, abrir mão, desistir (também: desistir, renunciar)
+FORSAKEN	(forma de forsake) (verbo) abandonar: renunciar, largar, abrir mão, desistir (também: desistir, renunciar)
+FORSAKES	(forma de forsake) (verbo) abandonar: renunciar, largar, abrir mão, desistir (também: desistir, renunciar)
+FORSAKING	(substantivo) desamparo: ato ou efeito de desamparar
+FORSOOK	(forma de forsake) (verbo) abandonar: renunciar, largar, abrir mão, desistir (também: desistir, renunciar)
+FORT	(substantivo) forte: fortaleza
+FORTES	(substantivo) plural de forte
+FORTHWITH	(advérbio) imediatamente: sem a mínima demora
+FORTIETH	(numeral) quadragésimo: ordem de um elemento em um conjunto, que ocupe a posição equivalente ao número quarenta
+FORTIETHS	(forma de fortieth) (numeral) quadragésimo: ordem de um elemento em um conjunto, que ocupe a posição equivalente ao número quarenta
+FORTIFICATION	(substantivo) fortificação: estrutura arquitetônica militar projetada para a guerra defensiva
+FORTIFICATIONS	(forma de fortification) (substantivo) fortificação: estrutura arquitetônica militar projetada para a guerra defensiva
+FORTIFIED	(forma de fortify) (verbo) fortificar: guarnecer de fortes
+FORTIFIES	(forma de fortify) (verbo) fortificar: guarnecer de fortes
+FORTIFY	(verbo) fortificar: guarnecer de fortes
+FORTIFYING	(forma de fortify) (verbo) fortificar: guarnecer de fortes
+FORTITUDE	(substantivo) fortitude: qualidade de forte; energia, força
+FORTITUDES	(forma de fortitude) (substantivo) fortitude: qualidade de forte; energia, força
+FORTNIGHT	(substantivo) período de 14 dias, quinzena.
+FORTNIGHTLIES	(forma de fortnightly) (adjetivo) fortnightly se traduz como ⟪quinzenal⟫
+FORTNIGHTLY	(adjetivo) fortnightly se traduz como ⟪quinzenal⟫\n(advérbio) quinzenalmente: a cada quinze dias
+FORTNIGHTS	(forma de fortnight) (substantivo) período de 14 dias, quinzena.
+FORTRESS	(substantivo) fortaleza: construção fortificada
+FORTRESSED	(forma de fortress) (substantivo) fortaleza: construção fortificada
+FORTRESSES	(forma de fortress) (substantivo) fortaleza: construção fortificada
+FORTRESSING	(forma de fortress) (substantivo) fortaleza: construção fortificada
+FORTS	(forma de fort) (substantivo) forte: fortaleza
+FORTUITOUS	(adjetivo) fortuito: que sucede por acaso; inesperado
+FORTUNATE	(adjetivo) sortudo: que tem muita sorte
+FORTUNATELY	(advérbio) afortunadamente: de modo afortunado (também: felizmente)
+FORTUNE	(substantivo) destino: fatalidade; futuro, fado (também: sorte)
+FORTUNED	(forma de fortune) (substantivo) destino: fatalidade; futuro, fado (também: sorte)
+FORTUNES	(forma de fortune) (substantivo) destino: fatalidade; futuro, fado (também: sorte)
+FORTUNETELLING	(substantivo) ato ou prática de prever o futuro (especialmente por dinheiro), usando uma bola de cristal, lendo as mãos, lendo as folhas de chá em uma xícara, etc; adivinhação
+FORTUNETELLINGS	(forma de fortunetelling) (substantivo) ato ou prática de prever o futuro (especialmente por dinheiro), usando uma bola de cristal, lendo as...
+FORTUNING	(forma de fortune) (substantivo) destino: fatalidade; futuro, fado (também: sorte)
+FORTY	(numeral) quarenta: número equivalente a quatro dezenas; cardinalidade de um conjunto que contenha quatro dezenas de elementos distintos; representado pelo símbolo 40 (algarismos arábicos) ou XL (algarismos romanos)
+FORUM	(substantivo) forum se traduz como ⟪fórum|FORUM⟫
+FORUMS	(forma de forum) (substantivo) forum se traduz como ⟪fórum|FORUM⟫
+FORWARD	(verbo) dirigir: endereçar\n(adjetivo) forward se traduz como ⟪dianteiro⟫, ⟪frontal⟫, ⟪fronteiro⟫
+FORWARDED	(forma de forward) (verbo) dirigir: endereçar
+FORWARDER	(forma de forward) (verbo) dirigir: endereçar
+FORWARDERS	(forma de forward) (verbo) dirigir: endereçar
+FORWARDEST	(forma de forward) (verbo) dirigir: endereçar
+FORWARDING	(forma de forward) (verbo) dirigir: endereçar
+FORWARDS	(forma de forward) (verbo) dirigir: endereçar
+FORWENT	(forma de forgo) (verbo) preceder: vir ou chegar antes de
+FOSSA	(substantivo) fossa: cavidade num organismo
+FOSSAE	(forma de fossa) (substantivo) fossa: cavidade num organismo
+FOSSAS	(forma de fossa) (substantivo) fossa: cavidade num organismo
+FOSSES	(substantivo) forma plural de fosse:
+FOSSIL	(substantivo) fóssil: indivíduo retrógrado, de hábitos ultrapassados
+FOSSILISE	(verbo) fossilizar: tornar-se fóssil
+FOSSILISED	(forma de fossilise) (verbo) fossilizar: tornar-se fóssil
+FOSSILISES	(forma de fossilise) (verbo) fossilizar: tornar-se fóssil
+FOSSILISING	(forma de fossilise) (verbo) fossilizar: tornar-se fóssil
+FOSSILIZE	(verbo) fossilizar: tornar-se fóssil
+FOSSILIZED	(forma de fossilize) (verbo) fossilizar: tornar-se fóssil
+FOSSILIZES	(forma de fossilize) (verbo) fossilizar: tornar-se fóssil
+FOSSILIZING	(forma de fossilize) (verbo) fossilizar: tornar-se fóssil
+FOSSILS	(forma de fossil) (substantivo) fóssil: indivíduo retrógrado, de hábitos ultrapassados
+FOSTER	(verbo) alimentar: fomentar
+FOSTERED	(forma de foster) (verbo) alimentar: fomentar
+FOSTERER	(forma de foster) (verbo) alimentar: fomentar
+FOSTERERS	(forma de foster) (verbo) alimentar: fomentar
+FOSTERING	(forma de foster) (verbo) alimentar: fomentar
+FOSTERS	(forma de foster) (verbo) alimentar: fomentar
+FOUGHT	(forma de fight) (substantivo) fight se traduz como ⟪luta⟫
+FOUL	(adjetivo) foul se traduz como ⟪imundo⟫
+FOULED	(forma de foul) (adjetivo) foul se traduz como ⟪imundo⟫
+FOULER	(forma de foul) (adjetivo) foul se traduz como ⟪imundo⟫
+FOULEST	(forma de foul) (adjetivo) foul se traduz como ⟪imundo⟫
+FOULING	(forma de foul) (adjetivo) foul se traduz como ⟪imundo⟫
+FOULS	(forma de foul) (adjetivo) foul se traduz como ⟪imundo⟫
+FOUND	(verbo) fundar; estabelecer; iniciar uma obra
+FOUNDATION	(substantivo) alicerce: o que serve de base ou está na génese (também: fundação, fundamento)
+FOUNDATIONS	(forma de foundation) (substantivo) alicerce: o que serve de base ou está na génese (também: fundação, fundamento)
+FOUNDED	(adjetivo) fundado: criado
+FOUNDER	(verbo) afundar: falir; cair na ruína; perder-se (também: afundir)
+FOUNDERED	(forma de founder) (verbo) afundar: falir; cair na ruína; perder-se (também: afundir)
+FOUNDERING	(forma de founder) (verbo) afundar: falir; cair na ruína; perder-se (também: afundir)
+FOUNDERS	(forma de founder) (verbo) afundar: falir; cair na ruína; perder-se (também: afundir)
+FOUNDING	(forma de found) (verbo) fundar; estabelecer; iniciar uma obra
+FOUNDRIES	(forma de foundry) (substantivo) fundição: oficina onde se fundem metais
+FOUNDRY	(substantivo) fundição: oficina onde se fundem metais
+FOUNDS	(forma de found) (verbo) fundar; estabelecer; iniciar uma obra
+FOUNTAIN	(substantivo) fonte: lugar onde nasce água (também: chafariz)
+FOUNTAINED	(forma de fountain) (substantivo) fonte: lugar onde nasce água (também: chafariz)
+FOUNTAINING	(forma de fountain) (substantivo) fonte: lugar onde nasce água (também: chafariz)
+FOUNTAINS	(forma de fountain) (substantivo) fonte: lugar onde nasce água (também: chafariz)
+FOUR	(numeral) quatro: número equivalente a três mais um; cardinalidade de um conjunto que contenha quatro elementos distintos; representado pelo símbolo 4 (algarismos arábicos) ou IV (algarismos romanos)
+FOURFOLD	(verbo) fourfold se traduz como ⟪quadruplicar⟫\n(adjetivo) fourfold se traduz como ⟪quádruplo|QUADRUPLO⟫
+FOURS	(forma de four) (numeral) quatro: número equivalente a três mais um; cardinalidade de um conjunto que contenha quatro elementos...
+FOURTEEN	(numeral) catorze: número equivalente a treze mais um; cardinalidade de um conjunto que contenha catorze elementos distintos; representado pelo símbolo 14 (algarismos arábicos) ou XIV (algarismos romanos) (também: quatorze)
+FOURTEENER	(forma de fourteen) (numeral) catorze: número equivalente a treze mais um; cardinalidade de um conjunto que contenha catorze elementos...
+FOURTEENS	(forma de fourteen) (numeral) catorze: número equivalente a treze mais um; cardinalidade de um conjunto que contenha catorze elementos...
+FOURTEENTH	(numeral) fourteenth se traduz como décimo quarto
+FOURTEENTHS	(forma de fourteenth) (numeral) fourteenth se traduz como décimo quarto
+FOURTH	(numeral) quarto: ordem de um elemento em um conjunto, que ocupe a posição equivalente ao número quatro
+FOURTHS	(forma de fourth) (numeral) quarto: ordem de um elemento em um conjunto, que ocupe a posição equivalente ao número quatro
+FOWL	(substantivo) galináceo, galinha ou similar
+FOWLED	(forma de fowl) (substantivo) galináceo, galinha ou similar
+FOWLING	(forma de fowl) (substantivo) galináceo, galinha ou similar
+FOWLS	(substantivo) plural de fowl: galináceo, galinha ou similar
+FOX	(substantivo) raposa: nome comum a vários gêneros da família dos canídeos (como Vulpes - ditas raposas "verdadeiras", Alopex, Otocyon ou Urocyon), mamíferos carnívoros predadores de pequeno porte caracterizados por terem orelhas e focinho triangulares, pernas relativamente curtas e caudas peludas e longas, hábitos...
+FOXED	(forma de fox) (substantivo) raposa: nome comum a vários gêneros da família dos canídeos (como Vulpes - ditas raposas "verdadeiras",...
+FOXES	(forma de fox) (substantivo) raposa: nome comum a vários gêneros da família dos canídeos (como Vulpes - ditas raposas "verdadeiras",...
+FOXGLOVE	(substantivo) dedaleira: planta medicinal da família das escrofulariáceas donde se extrai a digitalina
+FOXGLOVES	(forma de foxglove) (substantivo) dedaleira: planta medicinal da família das escrofulariáceas donde se extrai a digitalina
+FOXING	(forma de fox) (substantivo) raposa: nome comum a vários gêneros da família dos canídeos (como Vulpes - ditas raposas "verdadeiras",...
+FOXTROT	(substantivo) foxtrote: dança de salão caracterizada por movimentos longos e contínuos, cuja direção segue o sentido anti-horário, em andamento suave e progressivo\n(verbo) foxtrotar: dançar a dança foxtrote
+FOXTROTS	(forma de foxtrot) (substantivo) foxtrote: dança de salão caracterizada por movimentos longos e contínuos, cuja direção segue o sentido...
+FOXTROTTED	(forma de foxtrot) (substantivo) foxtrote: dança de salão caracterizada por movimentos longos e contínuos, cuja direção segue o sentido...
+FOXTROTTING	(forma de foxtrot) (substantivo) foxtrote: dança de salão caracterizada por movimentos longos e contínuos, cuja direção segue o sentido...
+FOYER	(substantivo) saguão: pátio estreito e descoberto no interior de um edifício
+FOYERS	(forma de foyer) (substantivo) saguão: pátio estreito e descoberto no interior de um edifício
+FRACTAL	(substantivo) fractal: figura ou objeto geométrico cuja estrutura se repete em diferentes escalas, exibindo padrões semelhantes em cada nível de ampliação
+FRACTALS	(forma de fractal) (substantivo) fractal: figura ou objeto geométrico cuja estrutura se repete em diferentes escalas, exibindo padrões...
+FRACTION	(substantivo) fração: expressão que designa uma ou mais das partes iguais em que se dividiu uma grandeza considerada como unidade
+FRACTIONED	(forma de fraction) (substantivo) fração: expressão que designa uma ou mais das partes iguais em que se dividiu uma grandeza considerada...
+FRACTIONING	(forma de fraction) (substantivo) fração: expressão que designa uma ou mais das partes iguais em que se dividiu uma grandeza considerada...
+FRACTIONS	(forma de fraction) (substantivo) fração: expressão que designa uma ou mais das partes iguais em que se dividiu uma grandeza considerada...
+FRACTURE	(substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fratura)
+FRACTURED	(forma de fracture) (substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fratura)
+FRACTURES	(forma de fracture) (substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fratura)
+FRACTURING	(forma de fracture) (substantivo) falha: descontinuidade; fratura; fissura; trinca; fenda; racha (também: fratura)
+FRAGILE	(adjetivo) fragile se traduz como ⟪frágil|FRAGIL⟫
+FRAGILITIES	(forma de fragility) (substantivo) fragilidade: qualidade daquele ou de aquilo que é frágil
+FRAGILITY	(substantivo) fragilidade: qualidade daquele ou de aquilo que é frágil
+FRAGMENT	(substantivo) fragment se traduz como ⟪fragmento⟫\n(verbo) fragmentar: quebrar em fragmentos
+FRAGMENTARILY	(advérbio) fragmentariamente: de forma fragmentária (também: fragmentadamente)
+FRAGMENTATION	(substantivo) fragmentação: espaçamento com não contiguidade dos vários segmentos de informação que formam os dados armazenados em um dispositivo de memória de um computador sem perda da coesão lógica entre eles
+FRAGMENTATIONS	(forma de fragmentation) (substantivo) fragmentação: espaçamento com não contiguidade dos vários segmentos de informação que formam os dados...
+FRAGMENTED	(forma de fragment) (substantivo) fragment se traduz como ⟪fragmento⟫
+FRAGMENTING	(forma de fragment) (substantivo) fragment se traduz como ⟪fragmento⟫
+FRAGMENTS	(forma de fragment) (substantivo) fragment se traduz como ⟪fragmento⟫
+FRAGRANT	(adjetivo) fragrante: que libera cheiro (normalmente agradável)
+FRAGRANTLY	(forma de fragrant) (adjetivo) fragrante: que libera cheiro (normalmente agradável)
+FRAIL	(adjetivo) quebradiço: que se quebra com facilidade; frágil (também: frágil, delicado)\n(substantivo) cesto feito de junco, usado principalmente para conter os figos e passas
+FRAILER	(forma de frail) (adjetivo) quebradiço: que se quebra com facilidade; frágil (também: frágil, delicado)
+FRAILEST	(forma de frail) (adjetivo) quebradiço: que se quebra com facilidade; frágil (também: frágil, delicado)
+FRAILS	(verbo) 3ª pessoa do singular do verbo frail: frágil, delicado, débil, quebradiço\n(substantivo) plural de frail: frágil, delicado, débil, quebradiço
+FRAME	(substantivo) frame se traduz como ⟪quadro⟫
+FRAMED	(forma de frame) (substantivo) frame se traduz como ⟪quadro⟫
+FRAMES	(forma de frame) (substantivo) frame se traduz como ⟪quadro⟫
+FRAMEWORK	(substantivo) estrutura de suporte
+FRAMEWORKS	(forma de framework) (substantivo) estrutura de suporte
+FRAMING	(forma de frame) (substantivo) frame se traduz como ⟪quadro⟫
+FRAMINGS	(forma de frame) (substantivo) frame se traduz como ⟪quadro⟫
+FRANCHISE	(substantivo) franquia: autorização dada pelos correios para envio gratuito de correspondência ou encomendas
+FRANCHISED	(forma de franchise) (substantivo) franquia: autorização dada pelos correios para envio gratuito de correspondência ou encomendas
+FRANCHISEES	(forma de franchise) (substantivo) franquia: autorização dada pelos correios para envio gratuito de correspondência ou encomendas
+FRANCHISER	(forma de franchise) (substantivo) franquia: autorização dada pelos correios para envio gratuito de correspondência ou encomendas
+FRANCHISES	(forma de franchise) (substantivo) franquia: autorização dada pelos correios para envio gratuito de correspondência ou encomendas
+FRANCHISING	(forma de franchise) (substantivo) franquia: autorização dada pelos correios para envio gratuito de correspondência ou encomendas
+FRANCIUM	(substantivo) francium se traduz como ⟪frâncio|FRANCIO⟫
+FRANCIUMS	(forma de francium) (substantivo) francium se traduz como ⟪frâncio|FRANCIO⟫
+FRANK	(adjetivo) frank se traduz como ⟪franco⟫
+FRANKED	(forma de frank) (adjetivo) frank se traduz como ⟪franco⟫
+FRANKER	(forma de frank) (adjetivo) frank se traduz como ⟪franco⟫
+FRANKEST	(forma de frank) (adjetivo) frank se traduz como ⟪franco⟫
+FRANKFURT	(substantivo) salsicha para cachorro-quente
+FRANKFURTER	(substantivo) salsicha para cachorro-quente
+FRANKFURTERS	(forma de frankfurter) (substantivo) salsicha para cachorro-quente
+FRANKFURTS	(forma de frankfurt) (substantivo) salsicha para cachorro-quente
+FRANKING	(forma de frank) (adjetivo) frank se traduz como ⟪franco⟫
+FRANKNESS	(substantivo) franqueza: sinceridade
+FRANKNESSES	(forma de frankness) (substantivo) franqueza: sinceridade
+FRANKS	(forma de frank) (adjetivo) frank se traduz como ⟪franco⟫
+FRANTICALLY	(advérbio) freneticamente: de modo frenético
+FRATERNAL	(adjetivo) fraternal se traduz como ⟪fraternal⟫
+FRATERNALLY	(advérbio) fraternalmente: de modo fraterno (também: fraternamente)
+FRATRICIDE	(substantivo) fratricídio: homicídio contra o próprio irmão ou irmã
+FRATRICIDES	(forma de fratricide) (substantivo) fratricídio: homicídio contra o próprio irmão ou irmã
+FRAUD	(substantivo) fraude: tipo penal que consiste em obter dinheiro, bens ou vantagem por meio de artifícios e enganação
+FRAUDS	(forma de fraud) (substantivo) fraude: tipo penal que consiste em obter dinheiro, bens ou vantagem por meio de artifícios e enganação
+FRAUDULENCE	(substantivo) fraudulência: qualidade ou condição de ser fraudulento; propensão à fraude
+FRAUDULENCES	(forma de fraudulence) (substantivo) fraudulência: qualidade ou condição de ser fraudulento; propensão à fraude
+FRAUDULENT	(adjetivo) fraudulent se traduz como ⟪fraudulento⟫
+FRAUDULENTLY	(advérbio) fraudulosamente: de modo frauduloso
+FRAUGHT	(adjetivo) fraught se traduz como ⟪mobiliado⟫, ⟪equipado⟫
+FRAUGHTED	(forma de fraught) (adjetivo) fraught se traduz como ⟪mobiliado⟫, ⟪equipado⟫
+FRAUGHTS	(forma de fraught) (adjetivo) fraught se traduz como ⟪mobiliado⟫, ⟪equipado⟫
+FRAY	(substantivo) combate: batalha entre exércitos organizados; recontro; episódio de uma guerra: (também: disputa, briga)\n(verbo) fray se traduz como desfazer-se
+FRAYED	(verbo) particípio passado do verbo "to fray": combate, disputa, briga
+FRAYING	(forma de fray) (substantivo) combate: batalha entre exércitos organizados; recontro; episódio de uma guerra: (também: disputa, briga)
+FRAYINGS	(forma de fray) (substantivo) combate: batalha entre exércitos organizados; recontro; episódio de uma guerra: (também: disputa, briga)
+FRAYS	(forma de fray) (substantivo) combate: batalha entre exércitos organizados; recontro; episódio de uma guerra: (também: disputa, briga)
+FREAK	(substantivo) frique: aquele que é bizarro, esquisito, fora do convencional
+FREAKED	(forma de freak) (substantivo) frique: aquele que é bizarro, esquisito, fora do convencional
+FREAKING	(forma de freak) (substantivo) frique: aquele que é bizarro, esquisito, fora do convencional
+FREAKS	(forma de freak) (substantivo) frique: aquele que é bizarro, esquisito, fora do convencional
+FRECKLE	(substantivo) sarda: Mancha castanha ou amarelada na pele. O mesmo que efélide
+FRECKLED	(forma de freckle) (substantivo) sarda: Mancha castanha ou amarelada na pele. O mesmo que efélide
+FRECKLES	(forma de freckle) (substantivo) sarda: Mancha castanha ou amarelada na pele. O mesmo que efélide
+FRECKLING	(forma de freckle) (substantivo) sarda: Mancha castanha ou amarelada na pele. O mesmo que efélide
+FREE	(adjetivo) livre; em estado de liberdade\n(verbo) libertar; pôr em liberdade
+FREEBIE	(substantivo) brinde: presente (também: amostra grátis)
+FREEBIES	(substantivo) plural de freebie: brinde, amostra grátis
+FREED	(forma de free) (adjetivo) livre; em estado de liberdade
+FREEDOM	(substantivo) liberdade: livre arbítrio ou o poder de decidir sem motivos, como manifestação absoluta da vontade (também: autonomia, independência)
+FREEDOMS	(substantivo) forma plural de freedom
+FREEING	(forma de free) (adjetivo) livre; em estado de liberdade
+FREEMASONRIES	(forma de freemasonry) (substantivo) freemasonry se traduz como ⟪maçonaria⟫
+FREEMASONRY	(substantivo) freemasonry se traduz como ⟪maçonaria⟫
+FREER	(forma de free) (adjetivo) livre; em estado de liberdade
+FREERS	(forma de free) (adjetivo) livre; em estado de liberdade
+FREES	(forma de free) (adjetivo) livre; em estado de liberdade
+FREEST	(forma de free) (adjetivo) livre; em estado de liberdade
+FREESTYLE	(substantivo) competição de natação na qual os competidores podem nadar em qualquer estilo
+FREESTYLES	(forma de freestyle) (substantivo) competição de natação na qual os competidores podem nadar em qualquer estilo
+FREEZE	(substantivo) freeze se traduz como ⟪congelamento⟫\n(verbo) congelar: mudar do estado líquido para o sólido pela perda de calor
+FREEZER	(substantivo) frízer: aparelho elétrico que consiste em gabinete(s) em que a temperatura é inferior a 18° C, e se destina a conservar alimentos ou ainda medicamentos, sangue, plasma, experimentos, preparados, reagentes e outros materiais afins, nos laboratórios, bancos de sangue, hospitais etc
+FREEZERS	(forma de freezer) (substantivo) frízer: aparelho elétrico que consiste em gabinete(s) em que a temperatura é inferior a 18° C, e se...
+FREEZES	(forma de freeze) (substantivo) freeze se traduz como ⟪congelamento⟫
+FREEZING	(forma de freeze) (substantivo) freeze se traduz como ⟪congelamento⟫
+FREEZINGLY	(forma de freeze) (substantivo) freeze se traduz como ⟪congelamento⟫
+FRENCHIFIED	(forma de frenchify) (verbo) afrancesar: tornar francês ou fazer ter características francesas
+FRENCHIFIES	(forma de frenchify) (verbo) afrancesar: tornar francês ou fazer ter características francesas
+FRENCHIFY	(verbo) afrancesar: tornar francês ou fazer ter características francesas
+FRENCHIFYING	(forma de frenchify) (verbo) afrancesar: tornar francês ou fazer ter características francesas
+FRENZIED	(adjetivo) frenético: impetuoso, febril (também: delirante, enlouquecido)
+FREQUENCIES	(forma de frequency) (substantivo) frequência: número de vezes que um fenômeno periódico se repete em cada segundo
+FREQUENCY	(substantivo) frequência: número de vezes que um fenômeno periódico se repete em cada segundo
+FREQUENT	(adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FREQUENTED	(forma de frequent) (adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FREQUENTER	(forma de frequent) (adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FREQUENTERS	(forma de frequent) (adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FREQUENTEST	(forma de frequent) (adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FREQUENTING	(forma de frequent) (adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FREQUENTLY	(advérbio) frequentemente: com frequência; com regularidade; assiduamente
+FREQUENTS	(forma de frequent) (adjetivo) frequente: continuado, mas com pequenas interrupções; amiudado; repetido; constante
+FRESCO	(substantivo) fresco: tema pintado sobre parede rebocada e por enxugar
+FRESCOED	(forma de fresco) (substantivo) fresco: tema pintado sobre parede rebocada e por enxugar
+FRESCOER	(forma de fresco) (substantivo) fresco: tema pintado sobre parede rebocada e por enxugar
+FRESCOES	(substantivo) forma plural de fresco; afrescos
+FRESCOING	(forma de fresco) (substantivo) fresco: tema pintado sobre parede rebocada e por enxugar
+FRESCOS	(forma de fresco) (substantivo) fresco: tema pintado sobre parede rebocada e por enxugar
+FRESH	(adjetivo) novo: recente, atual (também: fresco)
+FRESHED	(forma de fresh) (adjetivo) novo: recente, atual (também: fresco)
+FRESHEN	(verbo) refrescar: tornar fresco; reavivar, renovar
+FRESHENED	(forma de freshen) (verbo) refrescar: tornar fresco; reavivar, renovar
+FRESHENING	(forma de freshen) (verbo) refrescar: tornar fresco; reavivar, renovar
+FRESHENS	(forma de freshen) (verbo) refrescar: tornar fresco; reavivar, renovar
+FRESHER	(forma de fresh) (adjetivo) novo: recente, atual (também: fresco)
+FRESHES	(forma de fresh) (adjetivo) novo: recente, atual (também: fresco)
+FRESHEST	(forma de fresh) (adjetivo) novo: recente, atual (também: fresco)
+FRESHING	(forma de fresh) (adjetivo) novo: recente, atual (também: fresco)
+FRESHLY	(advérbio) frescamente: de forma fresca
+FRESHNESS	(substantivo) frescura: requinte desnecessário; detalhe pouco relevante; guéri-guéri, nove-horas (também: frescor)
+FRESHNESSES	(forma de freshness) (substantivo) frescura: requinte desnecessário; detalhe pouco relevante; guéri-guéri, nove-horas (também: frescor)
+FRIABLE	(adjetivo) friável: que pode ser facilmente reduzido a pó; quebradiço; frágil
+FRIAR	(substantivo) frade: membro de uma ordem religiosa, em especial as ordens franciscanas, dominicanas, carmelitas e augustinianas; freire
+FRIARS	(forma de friar) (substantivo) frade: membro de uma ordem religiosa, em especial as ordens franciscanas, dominicanas, carmelitas e...
+FRICTION	(substantivo) fricção: ato de friccionar
+FRICTIONS	(forma de friction) (substantivo) fricção: ato de friccionar
+FRIDGE	(substantivo) frigorífico: eletrodoméstico usado para manter alimentos frescos por refrigeração (também: geladeira)
+FRIDGES	(forma de fridge) (substantivo) frigorífico: eletrodoméstico usado para manter alimentos frescos por refrigeração (também: geladeira)
+FRIED	(adjetivo) frito: que se frigiu
+FRIEND	(substantivo) amigo: pessoa à qual se tem amizade ou afeição (também: amiga)
+FRIENDLIER	(forma de friendly) (adjetivo) friendly se traduz como ⟪amigável|AMIGAVEL⟫, ⟪amistoso⟫
+FRIENDLIES	(forma de friendly) (adjetivo) friendly se traduz como ⟪amigável|AMIGAVEL⟫, ⟪amistoso⟫
+FRIENDLIEST	(forma de friendly) (adjetivo) friendly se traduz como ⟪amigável|AMIGAVEL⟫, ⟪amistoso⟫
+FRIENDLY	(adjetivo) friendly se traduz como ⟪amigável|AMIGAVEL⟫, ⟪amistoso⟫
+FRIENDS	(substantivo) plural de friend: amigo; amiga\n(verbo) terceira pessoa do singular do presente do indicativo do verbo friend: amigo; amiga
+FRIENDSHIP	(substantivo) amizade: ligação cordial entre duas ou mais pessoas (também: afeição)
+FRIENDSHIPS	(forma de friendship) (substantivo) amizade: ligação cordial entre duas ou mais pessoas (também: afeição)
+FRIES	(forma de fry) (verbo) fritar: frigir, banhar em óleo ou gordura muito quente; assar na frigideira
+FRIGATE	(substantivo) frigate se traduz como ⟪fragata⟫
+FRIGATES	(forma de frigate) (substantivo) frigate se traduz como ⟪fragata⟫
+FRIGHT	(substantivo) susto: sobressalto causado por evento não esperado; surpresa vigorosa e momentânea (também: medo)
+FRIGHTED	(forma de fright) (substantivo) susto: sobressalto causado por evento não esperado; surpresa vigorosa e momentânea (também: medo)
+FRIGHTEN	(verbo) amedrontar: causar medo ou temor a, deixar com medo; (também: intimidar)
+FRIGHTENED	(adjetivo) amedrontado: assustado
+FRIGHTENING	(forma de frighten) (verbo) amedrontar: causar medo ou temor a, deixar com medo; (também: intimidar)
+FRIGHTENINGLY	(advérbio) assustadoramente: de modo assustador
+FRIGHTENS	(forma de frighten) (verbo) amedrontar: causar medo ou temor a, deixar com medo; (também: intimidar)
+FRIGHTFUL	(adjetivo) frightful se traduz como ⟪assustador⟫
+FRIGHTFULLY	(advérbio) frightfully se traduz como ⟪medonhamente⟫
+FRIGHTING	(forma de fright) (substantivo) susto: sobressalto causado por evento não esperado; surpresa vigorosa e momentânea (também: medo)
+FRIGHTS	(forma de fright) (substantivo) susto: sobressalto causado por evento não esperado; surpresa vigorosa e momentânea (também: medo)
+FRILL	(substantivo) babado: renda de saia, vestido, toalhas, etc.
+FRILLER	(forma de frill) (substantivo) babado: renda de saia, vestido, toalhas, etc.
+FRILLING	(forma de frill) (substantivo) babado: renda de saia, vestido, toalhas, etc.
+FRILLS	(forma de frill) (substantivo) babado: renda de saia, vestido, toalhas, etc.
+FRINGE	(adjetivo) fora dos padrões convencionais\n(substantivo) fringe se traduz como ⟪franja⟫
+FRINGED	(forma de fringe) (adjetivo) fora dos padrões convencionais
+FRINGES	(forma de fringe) (adjetivo) fora dos padrões convencionais
+FRINGING	(forma de fringe) (adjetivo) fora dos padrões convencionais
+FRIVOLOUS	(adjetivo) frívolo: sem um objetivo sério
+FRIVOLOUSLY	(advérbio) frivolamente: de forma frívola
+FROCK	(substantivo) vestido: vestimenta, veste\n(verbo) vestir um vestido
+FROCKED	(verbo) passado simples e particípio do verbo frock: vestido
+FROCKING	(verbo) gerúndio do verbo frock: vestido
+FROCKS	(substantivo) plural de frock: vestido\n(verbo) terceira pessoa do singular do verbo frock: vestido
+FROG	(substantivo) frog se traduz como rã, ⟪sapo⟫
+FROGFISH	(substantivo) frogfish se traduz como peixe-sapo
+FROGFISHES	(forma de frogfish) (substantivo) frogfish se traduz como peixe-sapo
+FROGGED	(forma de frog) (substantivo) frog se traduz como rã, ⟪sapo⟫
+FROGGING	(forma de frog) (substantivo) frog se traduz como rã, ⟪sapo⟫
+FROGS	(forma de frog) (substantivo) frog se traduz como rã, ⟪sapo⟫
+FROM	(preposição) de: estabelece uma ligação entre duas palavras, (geralmente uma relação de subordinação), podendo expressar
+FROND	(substantivo) frond se traduz como ⟪fronde⟫
+FRONDS	(forma de frond) (substantivo) frond se traduz como ⟪fronde⟫
+FRONT	(adjetivo) se diz de algo que se localiza na frente (de alguma outra coisa)\n(substantivo) frente: lugar dianteiro
+FRONTALLY	(advérbio) frontalmente: de modo frontal
+FRONTED	(forma de front) (adjetivo) se diz de algo que se localiza na frente (de alguma outra coisa)
+FRONTER	(forma de front) (adjetivo) se diz de algo que se localiza na frente (de alguma outra coisa)
+FRONTES	(forma de front) (adjetivo) se diz de algo que se localiza na frente (de alguma outra coisa)
+FRONTING	(forma de front) (adjetivo) se diz de algo que se localiza na frente (de alguma outra coisa)
+FRONTISPIECE	(substantivo) portada: página de rosto ilustrada de um livro
+FRONTISPIECES	(forma de frontispiece) (substantivo) portada: página de rosto ilustrada de um livro
+FRONTS	(forma de front) (adjetivo) se diz de algo que se localiza na frente (de alguma outra coisa)
+FROST	(substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos quando eles resfriam-se abaixo do ponto de orvalho e quando o ponto de orvalho é inferior ao ponto de congelamento da água
+FROSTED	(forma de frost) (substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos...
+FROSTEDS	(forma de frost) (substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos...
+FROSTING	(forma de frost) (substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos...
+FROSTINGS	(forma de frost) (substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos...
+FROSTS	(forma de frost) (substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos...
+FROTH	(substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes ou agitados, mormente pela agitação de água à qual se adicionaram certas substâncias, tais como sabões ou detergentes
+FROTHED	(forma de froth) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FROTHING	(forma de froth) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FROTHS	(forma de froth) (substantivo) espuma: agregação inconsistente de pequenas bolhas que se forma sobre líquidos ebulientes, fermentantes...
+FROWN	(substantivo) expressão facial de descontentamento, desaprovação ou preocupação, feita franzindo as sobrancelhas e enrugando a testa:\n(verbo) fazer cara feia, franzir o cenho
+FROWNED	(verbo) forma pretérita do verbo frown:: expressão facial de descontentamento, desaprovação ou preocupação, feita franzindo as sobrancelhas...
+FROWNER	(forma de frown) (substantivo) expressão facial de descontentamento, desaprovação ou preocupação, feita franzindo as sobrancelhas e...
+FROWNING	(forma de frown) (substantivo) expressão facial de descontentamento, desaprovação ou preocupação, feita franzindo as sobrancelhas e...
+FROWNS	(forma de frown) (substantivo) expressão facial de descontentamento, desaprovação ou preocupação, feita franzindo as sobrancelhas e...
+FROZE	(verbo) passado do verbo freeze; congelado.
+FROZEN	(substantivo) congelado: alimento congelado vendido pronto, ou semi-pronto\n(verbo) particípio passado do verbo freeze: congelamento
+FROZENLY	(forma de freeze) (substantivo) freeze se traduz como ⟪congelamento⟫
+FRUCTOSE	(substantivo) frutose: açúcar monossacarídeo (com fórmula C₆H₁₂O₆), com os seis átomos de carbono dispostos em anel, formado no processo de hidrólise da sacarose da qual é isômera, o mais solúvel em água dos açúcares, comumente encontrado em frutas e no néctar (e, por conseguinte, no mel) e ainda em plantas como os...
+FRUCTOSES	(forma de fructose) (substantivo) frutose: açúcar monossacarídeo (com fórmula C₆H₁₂O₆), com os seis átomos de carbono dispostos em anel,...
+FRUGAL	(adjetivo) económico: em que não há desperdício (também: frugal, sem desperdícios)
+FRUGALITIES	(forma de frugality) (substantivo) frugalidade: qualidade de ser frugal
+FRUGALITY	(substantivo) frugalidade: qualidade de ser frugal
+FRUGALLY	(advérbio) frugalmente: de maneira frugal:
+FRUIT	(adjetivo) frutífero, que dá frutos\n(substantivo) fruto: produto das árvores frutíferas
+FRUITED	(verbo) passado simples do verbo fruit
+FRUITFUL	(adjetivo) fecundo: que tem fecundidade, que se pode reproduzir facilmente, que pode criar bem
+FRUITFULLER	(forma de fruitful) (adjetivo) fecundo: que tem fecundidade, que se pode reproduzir facilmente, que pode criar bem
+FRUITFULLEST	(forma de fruitful) (adjetivo) fecundo: que tem fecundidade, que se pode reproduzir facilmente, que pode criar bem
+FRUITFULLY	(advérbio) frutuosamente: de forma frutuosa (também: frutiferamente)
+FRUITING	(verbo) gerúndio do verbo fruit
+FRUITION	(substantivo) fruition se traduz como ⟪fruição|FRUIÇAO⟫
+FRUITIONS	(forma de fruition) (substantivo) fruition se traduz como ⟪fruição|FRUIÇAO⟫
+FRUITLESS	(adjetivo) infrutífero: que não dá resultado; infecundo; frustrado; inútil
+FRUITLESSLY	(advérbio) infrutiferamente: de forma infrutífera
+FRUITS	(substantivo) plural de fruit\n(verbo) terceira pessoa do singular do verbo fruit
+FRUSTRATE	(verbo) frustrar: malograr-se; não suceder (aquilo que se esperava)
+FRUSTRATED	(adjetivo) frustrado: que se frustrou; malogrado; mal-sucedido
+FRUSTRATES	(forma de frustrate) (verbo) frustrar: malograr-se; não suceder (aquilo que se esperava)
+FRUSTRATING	(forma de frustrate) (verbo) frustrar: malograr-se; não suceder (aquilo que se esperava)
+FRUSTRATION	(substantivo) frustração: emoção que ocorre nas situações onde algo obstrui o alcance de um almejo pessoal
+FRUSTRATIONS	(forma de frustration) (substantivo) frustração: emoção que ocorre nas situações onde algo obstrui o alcance de um almejo pessoal
+FRY	(verbo) fritar: frigir, banhar em óleo ou gordura muito quente; assar na frigideira
+FRYING	(substantivo) fritura: técnica culinária que consiste em preparar alimentos mergulhando os ingredientes em óleo (ou outra gordura) a alta temperatura
+FUDGE	(interjeição) forma eufêmica / atenuada de, e o mesmo que fuck: carvalho\n(substantivo) tipo de doce ou confeito geralmente feito de açúcar, manteiga e leite ou creme
+FUDGED	(forma de fudge) (interjeição) forma eufêmica / atenuada de, e o mesmo que fuck: carvalho
+FUDGES	(forma de fudge) (interjeição) forma eufêmica / atenuada de, e o mesmo que fuck: carvalho
+FUDGING	(forma de fudge) (interjeição) forma eufêmica / atenuada de, e o mesmo que fuck: carvalho
+FUEL	(substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores\n(verbo) abastecer com combustível
+FUELED	(forma de fuel) (substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores
+FUELING	(forma de fuel) (substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores
+FUELLED	(forma de fuel) (substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores
+FUELLER	(forma de fuel) (substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores
+FUELLING	(forma de fuel) (substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores
+FUELS	(forma de fuel) (substantivo) combustível: substância usada como fonte de energia em máquinas, motores, geradores
+FUGITIVE	(substantivo) fugitivo: pessoa que fugiu ou está em fuga
+FUGITIVELY	(advérbio) fugitivamente: de modo fugitivo (também: fugidiamente)
+FUGITIVES	(forma de fugitive) (substantivo) fugitivo: pessoa que fugiu ou está em fuga
+FUGUE	(substantivo) fuga: ato ou efeito de escapar, fugir
+FUGUED	(forma de fugue) (substantivo) fuga: ato ou efeito de escapar, fugir
+FUGUES	(forma de fugue) (substantivo) fuga: ato ou efeito de escapar, fugir
+FUGUING	(forma de fugue) (substantivo) fuga: ato ou efeito de escapar, fugir
+FULCRA	(forma de fulcrum) (substantivo) pivô, eixo de rotação
+FULCRUM	(substantivo) pivô, eixo de rotação
+FULCRUMS	(forma de fulcrum) (substantivo) pivô, eixo de rotação
+FULFIL	(verbo) cumprir: levar a efeito, executar, satisfazer
+FULFILL	(verbo) cumprir: levar a efeito, executar, satisfazer
+FULFILLED	(forma de fulfil) (verbo) cumprir: levar a efeito, executar, satisfazer
+FULFILLING	(forma de fulfil) (verbo) cumprir: levar a efeito, executar, satisfazer
+FULFILLS	(forma de fulfill) (verbo) cumprir: levar a efeito, executar, satisfazer
+FULFILS	(forma de fulfil) (verbo) cumprir: levar a efeito, executar, satisfazer
+FULGURANT	(adjetivo) fulgurante: que brilha com fulgor; reluzente, brilhante; coruscante
+FULGURITE	(substantivo) fulgurito: estrutura rochosa e vítrea, de forma tubular, formada por material fundido por raios que penetram na areia
+FULGURITES	(forma de fulgurite) (substantivo) fulgurito: estrutura rochosa e vítrea, de forma tubular, formada por material fundido por raios que...
+FULL	(adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫\n(advérbio) full se traduz como ⟪completamente⟫, ⟪totalmente⟫
+FULLED	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLER	(substantivo) fuller se traduz como ⟪fúler|FULER⟫
+FULLERED	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLERENE	(substantivo) fulereno: terceira forma alotrópica mais estável do carbono após o diamante e o grafite
+FULLERENES	(forma de fullerene) (substantivo) fulereno: terceira forma alotrópica mais estável do carbono após o diamante e o grafite
+FULLERING	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLERS	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLEST	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLING	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLNESS	(substantivo) plenitude: qualidade do que é pleno
+FULLNESSES	(forma de fullness) (substantivo) plenitude: qualidade do que é pleno
+FULLS	(forma de full) (adjetivo) full se traduz como ⟪cheio⟫, ⟪lotado⟫, ⟪total⟫, ⟪abundante⟫
+FULLY	(advérbio) inteiramente: na totalidade, integralmente, completamente: (também: cumpridamente)
+FULMINATING	(adjetivo) fulminante: que leva a morte de imediato; diz-se de doença que a parece de repente
+FUMBLE	(verbo) fumble se traduz como ⟪tatear⟫\n(substantivo) bola ou bastão que se deixou cair
+FUMBLED	(forma de fumble) (verbo) fumble se traduz como ⟪tatear⟫
+FUMBLES	(forma de fumble) (verbo) fumble se traduz como ⟪tatear⟫
+FUMBLING	(forma de fumble) (verbo) fumble se traduz como ⟪tatear⟫
+FUME	(substantivo) gás ou vapor com cheiro forte e perigoso de inalar. São partículas sólidas formadas por condensação do estado gasoso, por exemplo, óxidos de metais volatilizados.
+FUMED	(forma de fume) (substantivo) gás ou vapor com cheiro forte e perigoso de inalar. São partículas sólidas formadas por condensação do...
+FUMES	(substantivo) plural de fume: gás ou vapor com cheiro forte e perigoso de inalar. São partículas sólidas formadas por condensação...
+FUMING	(forma de fume) (substantivo) gás ou vapor com cheiro forte e perigoso de inalar. São partículas sólidas formadas por condensação do...
+FUN	(adjetivo) fun se traduz como ⟪divertido⟫\n(substantivo) diversão: divertimento, o ato de se divertir (também: divertimento)
+FUNAMBULIST	(substantivo) volatim: indivíduo que anda ou dança em uma corda bamba
+FUNAMBULISTS	(forma de funambulist) (substantivo) volatim: indivíduo que anda ou dança em uma corda bamba
+FUNCTION	(substantivo) função: relacionamento entre dois conjuntos que leva de um a outro (usualmente indicada como f(x))\n(verbo) funcionar: resultar em bom desempenho (também: atuar como)
+FUNCTIONAL	(adjetivo) funcional: prático
+FUNCTIONALISM	(substantivo) funcionalismo: conjunto de teses que defende a análise do comportamento e fenômenos mentais segundo as funções que desempenham
+FUNCTIONALISMS	(forma de functionalism) (substantivo) funcionalismo: conjunto de teses que defende a análise do comportamento e fenômenos mentais segundo as...
+FUNCTIONALIST	(adjetivo) funcionalista: seguidor do funcionalismo\n(substantivo) funcionalista: seguidor do funcionalismo
+FUNCTIONALISTS	(forma de functionalist) (adjetivo) funcionalista: seguidor do funcionalismo
+FUNCTIONALITIES	(forma de functionality) (substantivo) funcionalidade: qualidade de algo que funciona
+FUNCTIONALITY	(substantivo) funcionalidade: qualidade de algo que funciona
+FUNCTIONALLY	(advérbio) funcionalmente: de modo funcional
+FUNCTIONED	(forma de function) (substantivo) função: relacionamento entre dois conjuntos que leva de um a outro (usualmente indicada como f(x))
+FUNCTIONING	(forma de function) (substantivo) função: relacionamento entre dois conjuntos que leva de um a outro (usualmente indicada como f(x))
+FUNCTIONS	(forma de function) (substantivo) função: relacionamento entre dois conjuntos que leva de um a outro (usualmente indicada como f(x))
+FUND	(substantivo) fund se traduz como ⟪fundo⟫, ⟪capital⟫\n(verbo) financiar: conceder crédito com um objetivo específico
+FUNDAMENTAL	(adjetivo) fundamental se traduz como ⟪básico|BASICO⟫
+FUNDAMENTALISM	(substantivo) fundamentalismo: crença na interpretação literal dos livros sagrados
+FUNDAMENTALISMS	(forma de fundamentalism) (substantivo) fundamentalismo: crença na interpretação literal dos livros sagrados
+FUNDAMENTALIST	(substantivo) fundamentalista: seguidor do fundamentalismo
+FUNDAMENTALISTS	(forma de fundamentalist) (substantivo) fundamentalista: seguidor do fundamentalismo
+FUNDED	(forma de fund) (substantivo) fund se traduz como ⟪fundo⟫, ⟪capital⟫
+FUNDING	(forma de fund) (substantivo) fund se traduz como ⟪fundo⟫, ⟪capital⟫
+FUNDS	(forma de fund) (substantivo) fund se traduz como ⟪fundo⟫, ⟪capital⟫
+FUNERAL	(adjetivo) funeral: cerimônia de enterro\n(substantivo) funeral: cerimônia de enterro
+FUNERALS	(forma de funeral) (adjetivo) funeral: cerimônia de enterro
+FUNEREAL	(adjetivo) fúnebre: relativo a funeral
+FUNEREALLY	(advérbio) funebremente: de forma fúnebre
+FUNGI	(substantivo) plural de fungus: fungo
+FUNGIBLE	(adjetivo) fungible se traduz como ⟪fungível|FUNGIVEL⟫
+FUNGIBLES	(forma de fungible) (adjetivo) fungible se traduz como ⟪fungível|FUNGIVEL⟫
+FUNGICIDAL	(adjetivo) fungicida: que destrói os fungos
+FUNGICIDE	(substantivo) fungicida: substância que destrói os fungos
+FUNGICIDES	(forma de fungicide) (substantivo) fungicida: substância que destrói os fungos
+FUNGUS	(substantivo) fungo: um dos reinos em que se dividem os seres vivos
+FUNGUSES	(forma de fungus) (substantivo) fungo: um dos reinos em que se dividem os seres vivos
+FUNK	(substantivo) terror: estado de constante medo (também: medo)\n(verbo) amedrontar, estar com medo de
+FUNKED	(forma de funk) (substantivo) terror: estado de constante medo (também: medo)
+FUNKER	(forma de funk) (substantivo) terror: estado de constante medo (também: medo)
+FUNKING	(forma de funk) (substantivo) terror: estado de constante medo (também: medo)
+FUNKS	(forma de funk) (substantivo) terror: estado de constante medo (também: medo)
+FUNNED	(forma de fun) (adjetivo) fun se traduz como ⟪divertido⟫
+FUNNER	(forma de fun) (adjetivo) fun se traduz como ⟪divertido⟫
+FUNNEST	(forma de fun) (adjetivo) fun se traduz como ⟪divertido⟫
+FUNNIER	(forma de funny) (adjetivo) funny se traduz como ⟪engraçado⟫, ⟪cômico|COMICO⟫
+FUNNIEST	(forma de funny) (adjetivo) funny se traduz como ⟪engraçado⟫, ⟪cômico|COMICO⟫
+FUNNING	(forma de fun) (adjetivo) fun se traduz como ⟪divertido⟫
+FUNNY	(adjetivo) funny se traduz como ⟪engraçado⟫, ⟪cômico|COMICO⟫\n(substantivo) piada: pequena história, normalmente ficcional, com final engraçado
+FUNS	(forma de fun) (adjetivo) fun se traduz como ⟪divertido⟫
+FUR	(substantivo) pele: roupas (geralmente casacos) feitos com peles de animais\n(verbo) forrar com peles
+FURIES	(forma de fury) (substantivo) fury se traduz como ⟪fúria|FURIA⟫
+FURIOUS	(adjetivo) fulminante: que lança raios ou coriscos (também: furioso)
+FURIOUSLY	(advérbio) enfurecidamente: de forma enfurecida
+FURLOUGH	(substantivo) licença: permissão para fazer algo
+FURLOUGHED	(forma de furlough) (substantivo) licença: permissão para fazer algo
+FURLOUGHING	(forma de furlough) (substantivo) licença: permissão para fazer algo
+FURLOUGHS	(forma de furlough) (substantivo) licença: permissão para fazer algo
+FURNACE	(substantivo) furnace se traduz como ⟪fornalha⟫
+FURNACED	(forma de furnace) (substantivo) furnace se traduz como ⟪fornalha⟫
+FURNACES	(forma de furnace) (substantivo) furnace se traduz como ⟪fornalha⟫
+FURNACING	(forma de furnace) (substantivo) furnace se traduz como ⟪fornalha⟫
+FURNISH	(verbo) furnish se traduz como ⟪mobiliar⟫
+FURNISHED	(adjetivo) mobilado: que se mobilou; guarnecido ou enfeitado com mobília
+FURNISHES	(forma de furnish) (verbo) furnish se traduz como ⟪mobiliar⟫
+FURNISHING	(substantivo) furnishing se traduz como ⟪mobília|MOBILIA⟫, ⟪móveis|MOVEIS⟫
+FURNISHINGS	(substantivo) furnishings se traduz como ⟪mobília|MOBILIA⟫
+FURNITURE	(substantivo) mobília: conjunto de móveis de uma casa
+FURNITURES	(forma de furniture) (substantivo) mobília: conjunto de móveis de uma casa
+FUROR	(substantivo) furor: entusiasmo
+FURORS	(forma de furor) (substantivo) furor: entusiasmo
+FURS	(forma de fur) (substantivo) pele: roupas (geralmente casacos) feitos com peles de animais
+FURTHER	(adjetivo) further se traduz como ⟪adicional⟫, ⟪extra⟫\n(advérbio) further se traduz como ⟪também|TAMBEM⟫
+FURTHERED	(forma de further) (adjetivo) further se traduz como ⟪adicional⟫, ⟪extra⟫
+FURTHERER	(forma de further) (adjetivo) further se traduz como ⟪adicional⟫, ⟪extra⟫
+FURTHERERS	(forma de further) (adjetivo) further se traduz como ⟪adicional⟫, ⟪extra⟫
+FURTHERING	(forma de further) (adjetivo) further se traduz como ⟪adicional⟫, ⟪extra⟫
+FURTHERMORE	(advérbio) aliás: além disso (também: ademais)
+FURTHERS	(forma de further) (adjetivo) further se traduz como ⟪adicional⟫, ⟪extra⟫
+FURTIVE	(adjetivo) furtivo: escondido, oculto, secreto
+FURY	(substantivo) fury se traduz como ⟪fúria|FURIA⟫
+FUSE	(substantivo) estopim: artefato usado para inflamar uma carga explosiva\n(verbo) fusionar: confundir; amalgamar
+FUSED	(forma de fuse) (substantivo) estopim: artefato usado para inflamar uma carga explosiva
+FUSELAGE	(substantivo) fuselagem: corpo central da aeronave, onde se fixam as asas, que acomoda a tripulação, a carga e os passageiros
+FUSELAGES	(forma de fuselage) (substantivo) fuselagem: corpo central da aeronave, onde se fixam as asas, que acomoda a tripulação, a carga e os...
+FUSES	(forma de fuse) (substantivo) estopim: artefato usado para inflamar uma carga explosiva
+FUSIFORM	(adjetivo) fusiform se traduz como ⟪fusiforme⟫
+FUSILIER	(substantivo) fuzileiro: soldado armado com fuzil
+FUSILIERS	(forma de fusilier) (substantivo) fuzileiro: soldado armado com fuzil
+FUSING	(forma de fuse) (substantivo) estopim: artefato usado para inflamar uma carga explosiva
+FUSION	(substantivo) fusion se traduz como ⟪fusão|FUSAO⟫
+FUSIONS	(forma de fusion) (substantivo) fusion se traduz como ⟪fusão|FUSAO⟫
+FUSSINESS	(substantivo) espalhafato: situação em que predominam o barulho e a confusão (também: rebuliço)
+FUSSINESSES	(forma de fussiness) (substantivo) espalhafato: situação em que predominam o barulho e a confusão (também: rebuliço)
+FUSTIGATE	(verbo) fustigar: bater com vara; açoitar
+FUSTIGATED	(forma de fustigate) (verbo) fustigar: bater com vara; açoitar
+FUSTIGATES	(forma de fustigate) (verbo) fustigar: bater com vara; açoitar
+FUSTIGATING	(forma de fustigate) (verbo) fustigar: bater com vara; açoitar
+FUTILE	(adjetivo) fútil: incapaz de produzir qualquer resultado; inútil
+FUTILELY	(advérbio) futilmente: de forma fútil
+FUTILITIES	(forma de futility) (substantivo) futility se traduz como ⟪futilidade⟫
+FUTILITY	(substantivo) futility se traduz como ⟪futilidade⟫
+FUTURE	(adjetivo) futuro: intervalo de tempo que inicia após o presente e tem fim indeterminado\n(substantivo) futuro: intervalo de tempo que inicia após o presente e tem fim indeterminado
+FUTURES	(forma de future) (adjetivo) futuro: intervalo de tempo que inicia após o presente e tem fim indeterminado
+FUTUROLOGIES	(forma de futurology) (substantivo) futurology se traduz como ⟪futurologia⟫
+FUTUROLOGY	(substantivo) futurology se traduz como ⟪futurologia⟫
+FUZZ	(substantivo) fiapo: fibra vegetal que se encontra em algumas frutas e que se apresenta jungida como filamentos em meio a polpa da fruta
+FUZZES	(forma de fuzz) (substantivo) fiapo: fibra vegetal que se encontra em algumas frutas e que se apresenta jungida como filamentos em meio...
+FUZZING	(forma de fuzz) (substantivo) fiapo: fibra vegetal que se encontra em algumas frutas e que se apresenta jungida como filamentos em meio...

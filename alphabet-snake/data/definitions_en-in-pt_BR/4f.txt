@@ -1,0 +1,932 @@
+OAK	(substantivo) carvalho: árvore da família das fagáceas do gênero Quercus
+OAKS	(forma de oak) (substantivo) carvalho: árvore da família das fagáceas do gênero Quercus
+OAR	(substantivo) remo: instrumento que serve para impulsionar pequenas embarcações pela força humana
+OARING	(forma de oar) (substantivo) remo: instrumento que serve para impulsionar pequenas embarcações pela força humana
+OARLOCK	(substantivo) tolete: cavilha de ferro ou de madeira em que se movimenta o remo (também: escalmo)
+OARLOCKS	(forma de oarlock) (substantivo) tolete: cavilha de ferro ou de madeira em que se movimenta o remo (também: escalmo)
+OARS	(forma de oar) (substantivo) remo: instrumento que serve para impulsionar pequenas embarcações pela força humana
+OASES	(forma de oasis) (substantivo) oásis: local, em meio a um deserto, onde há água e vegetação
+OASIS	(substantivo) oásis: local, em meio a um deserto, onde há água e vegetação
+OATH	(substantivo) juramento: afirmação ou negação de algo, colocando por testemunha Deus ou algo sagrado
+OATHS	(forma de oath) (substantivo) juramento: afirmação ou negação de algo, colocando por testemunha Deus ou algo sagrado
+OATS	(substantivo) oats se traduz como ⟪aveia⟫
+OBCONIC	(adjetivo) obcónico: que tem a forma de um cone invertido
+OBEDIENCE	(substantivo) obediência: o ato ou efeito de ser obediente, de obedecer
+OBEDIENCES	(forma de obedience) (substantivo) obediência: o ato ou efeito de ser obediente, de obedecer
+OBEDIENT	(adjetivo) obediente: que obedece
+OBEDIENTLY	(advérbio) obedientemente: de forma obediente
+OBELISK	(substantivo) obelisco: monumento quadrangular em forma de agulha, ordinariamente monólito sobre um pedestal
+OBELISKS	(forma de obelisk) (substantivo) obelisco: monumento quadrangular em forma de agulha, ordinariamente monólito sobre um pedestal
+OBESE	(adjetivo) obeso: diz-se do indivíduo excessivamente gordo e com o ventre proeminente
+OBESELY	(forma de obese) (adjetivo) obeso: diz-se do indivíduo excessivamente gordo e com o ventre proeminente
+OBESITIES	(forma de obesity) (substantivo) obesidade: excesso de peso caracterizado por uma participação da massa de tecido adiposo superior a 20%...
+OBESITY	(substantivo) obesidade: excesso de peso caracterizado por uma participação da massa de tecido adiposo superior a 20% no peso total do indivíduo
+OBEY	(verbo) obedecer: (diz-se de coisas) responder corretamente a uma ação ou força
+OBEYED	(forma de obey) (verbo) obedecer: (diz-se de coisas) responder corretamente a uma ação ou força
+OBEYING	(forma de obey) (verbo) obedecer: (diz-se de coisas) responder corretamente a uma ação ou força
+OBEYS	(forma de obey) (verbo) obedecer: (diz-se de coisas) responder corretamente a uma ação ou força
+OBFUSCATE	(verbo) encobrir: guardar para si
+OBFUSCATED	(forma de obfuscate) (verbo) encobrir: guardar para si
+OBFUSCATES	(forma de obfuscate) (verbo) encobrir: guardar para si
+OBFUSCATING	(forma de obfuscate) (verbo) encobrir: guardar para si
+OBFUSCATION	(substantivo) ofuscamento: ato de perder o brilho
+OBFUSCATIONS	(forma de obfuscation) (substantivo) ofuscamento: ato de perder o brilho
+OBITUARIES	(forma de obituary) (substantivo) obituário: nos jornais, secção em que são publicados, geralmente sob pagamento, anúncios de falecimentos...
+OBITUARY	(substantivo) obituário: nos jornais, secção em que são publicados, geralmente sob pagamento, anúncios de falecimentos e/ou onde são publicadas notícias sobre o óbito de pessoas socialmente relevantes; o mesmo que necrologia.
+OBJECT	(substantivo) objeto: algo material, corpo sólido (também: objetivo)
+OBJECTED	(forma de object) (substantivo) objeto: algo material, corpo sólido (também: objetivo)
+OBJECTING	(forma de object) (substantivo) objeto: algo material, corpo sólido (também: objetivo)
+OBJECTION	(substantivo) objeção: razão ou argumento que se apresenta para demonstrar oposição, discordância, recusa
+OBJECTIONS	(forma de objection) (substantivo) objeção: razão ou argumento que se apresenta para demonstrar oposição, discordância, recusa
+OBJECTIVE	(adjetivo) objetivo: fim; propósito; alvo; finalidade; intuito\n(substantivo) objetivo: fim; propósito; alvo; finalidade; intuito
+OBJECTIVELY	(advérbio) objetivamente: de modo objetivo
+OBJECTIVES	(forma de objective) (adjetivo) objetivo: fim; propósito; alvo; finalidade; intuito
+OBJECTIVITIES	(forma de objectivity) (substantivo) objectivity se traduz como ⟪objetividade⟫
+OBJECTIVITY	(substantivo) objectivity se traduz como ⟪objetividade⟫
+OBJECTS	(forma de object) (substantivo) objeto: algo material, corpo sólido (também: objetivo)
+OBLATE	(adjetivo) oblato: leigo que se oferecia para serviço de uma ordem religiosa\n(substantivo) oblato: leigo que se oferecia para serviço de uma ordem religiosa
+OBLATELY	(forma de oblate) (adjetivo) oblato: leigo que se oferecia para serviço de uma ordem religiosa
+OBLATES	(forma de oblate) (adjetivo) oblato: leigo que se oferecia para serviço de uma ordem religiosa
+OBLIGATION	(substantivo) obligation se traduz como ⟪obrigação|OBRIGAÇAO⟫
+OBLIGATIONS	(forma de obligation) (substantivo) obligation se traduz como ⟪obrigação|OBRIGAÇAO⟫
+OBLIGATORY	(adjetivo) obligatory se traduz como ⟪obrigatório|OBRIGATORIO⟫
+OBLIGE	(verbo) fazer um favor para; cumprir o gosto de alguém; fazer o que alguém quer
+OBLIGED	(forma de oblige) (verbo) fazer um favor para; cumprir o gosto de alguém; fazer o que alguém quer
+OBLIGEES	(forma de oblige) (verbo) fazer um favor para; cumprir o gosto de alguém; fazer o que alguém quer
+OBLIGES	(forma de oblige) (verbo) fazer um favor para; cumprir o gosto de alguém; fazer o que alguém quer
+OBLIGING	(adjetivo) obliging se traduz como ⟪amável|AMAVEL⟫
+OBLITERATE	(verbo) obliterar: carimbar um selo
+OBLITERATED	(adjetivo) obliterado: destruído por completo, sem deixar vestígios
+OBLITERATES	(forma de obliterate) (verbo) obliterar: carimbar um selo
+OBLITERATING	(forma de obliterate) (verbo) obliterar: carimbar um selo
+OBLIVION	(substantivo) oblivião: esquecimento (também: esquecimento, oblívio)
+OBLIVIONS	(forma de oblivion) (substantivo) oblivião: esquecimento (também: esquecimento, oblívio)
+OBNOXIOUS	(adjetivo) obnóxio: desprezível
+OBOE	(substantivo) oboé: instrumento musical de sopro de palheta dupla da família das madeiras
+OBOES	(forma de oboe) (substantivo) oboé: instrumento musical de sopro de palheta dupla da família das madeiras
+OBSCENE	(adjetivo) obsceno: diz-se de pessoa que prefere ou escreve obscenidade; pornofônico
+OBSCENELY	(advérbio) obscenamente: de forma obscena
+OBSCENER	(forma de obscene) (adjetivo) obsceno: diz-se de pessoa que prefere ou escreve obscenidade; pornofônico
+OBSCENEST	(forma de obscene) (adjetivo) obsceno: diz-se de pessoa que prefere ou escreve obscenidade; pornofônico
+OBSCURANTISM	(substantivo) obscurantismo: qualquer período da história em que o poder dominante se opôs à difusão e produção do conhecimento e da cultura
+OBSCURANTISMS	(forma de obscurantism) (substantivo) obscurantismo: qualquer período da história em que o poder dominante se opôs à difusão e produção do...
+OBSCURE	(adjetivo) obscure se traduz como ⟪obscuro⟫\n(verbo) obscurecer: tirar ou reduzir a claridade de; apagar(-se)
+OBSCURED	(forma de obscure) (adjetivo) obscure se traduz como ⟪obscuro⟫
+OBSCURER	(forma de obscure) (adjetivo) obscure se traduz como ⟪obscuro⟫
+OBSCURES	(forma de obscure) (adjetivo) obscure se traduz como ⟪obscuro⟫
+OBSCUREST	(forma de obscure) (adjetivo) obscure se traduz como ⟪obscuro⟫
+OBSCURING	(forma de obscure) (adjetivo) obscure se traduz como ⟪obscuro⟫
+OBSCURITIES	(forma de obscurity) (substantivo) obscurity se traduz como ⟪obscuridade⟫
+OBSCURITY	(substantivo) obscurity se traduz como ⟪obscuridade⟫
+OBSEQUIOUS	(adjetivo) obsequious se traduz como ⟪obsequioso⟫, ⟪subserviente⟫, ⟪servil⟫
+OBSEQUIOUSLY	(advérbio) obsequiosamente: de forma obsequiosa
+OBSERVATION	(substantivo) observation se traduz como ⟪observação|OBSERVAÇAO⟫
+OBSERVATIONALLY	(advérbio) observacionalmente: de modo observacional
+OBSERVATIONS	(forma de observation) (substantivo) observation se traduz como ⟪observação|OBSERVAÇAO⟫
+OBSERVATORIES	(forma de observatory) (substantivo) observatório: local onde são feitas observações astronômicas
+OBSERVATORY	(substantivo) observatório: local onde são feitas observações astronômicas
+OBSERVE	(verbo) seguir: observar os movimentos de algo ou alguém (também: observar, acompanhar)
+OBSERVED	(forma de observe) (verbo) seguir: observar os movimentos de algo ou alguém (também: observar, acompanhar)
+OBSERVER	(substantivo) observador: aquele que observa
+OBSERVERS	(forma de observer) (substantivo) observador: aquele que observa
+OBSERVES	(forma de observe) (verbo) seguir: observar os movimentos de algo ou alguém (também: observar, acompanhar)
+OBSERVING	(forma de observe) (verbo) seguir: observar os movimentos de algo ou alguém (também: observar, acompanhar)
+OBSESSED	(adjetivo) absorto: alienado; distraído ensimesmado (também: obcecado)
+OBSESSION	(substantivo) obsession se traduz como ⟪obsessão|OBSESSAO⟫
+OBSESSIONS	(forma de obsession) (substantivo) obsession se traduz como ⟪obsessão|OBSESSAO⟫
+OBSESSIVELY	(advérbio) obsessivamente: de maneira obsessiva
+OBSIDIAN	(substantivo) obsidiana: vidro escuro formado pelo rápido resfriamento da lava
+OBSIDIANS	(forma de obsidian) (substantivo) obsidiana: vidro escuro formado pelo rápido resfriamento da lava
+OBSOLESCENCE	(substantivo) obsolescência: o estado, processo ou condição de estar ou tornar-se obsoleto
+OBSOLESCENCES	(forma de obsolescence) (substantivo) obsolescência: o estado, processo ou condição de estar ou tornar-se obsoleto
+OBSOLETE	(adjetivo) obsoleto: desatualizado
+OBSOLETED	(forma de obsolete) (adjetivo) obsoleto: desatualizado
+OBSOLETES	(forma de obsolete) (adjetivo) obsoleto: desatualizado
+OBSOLETING	(forma de obsolete) (adjetivo) obsoleto: desatualizado
+OBSTACLE	(substantivo) barreira: obstáculo, separação física: (também: empecilho, óbice)
+OBSTACLES	(forma de obstacle) (substantivo) barreira: obstáculo, separação física: (também: empecilho, óbice)
+OBSTETRIC	(adjetivo) obstétrico: relativo a obstetrícia
+OBSTETRICIAN	(substantivo) obstetra: médico do ramo ligado à ginecologia que opera na parte da obstetrícia, da qual é responsável pela saúde reprodutiva da mulher
+OBSTETRICIANS	(forma de obstetrician) (substantivo) obstetra: médico do ramo ligado à ginecologia que opera na parte da obstetrícia, da qual é responsável...
+OBSTINATE	(adjetivo) obstinado: persistente (também: teimoso)
+OBSTRUCT	(verbo) obstruir: impedir
+OBSTRUCTED	(forma de obstruct) (verbo) obstruir: impedir
+OBSTRUCTING	(forma de obstruct) (verbo) obstruir: impedir
+OBSTRUCTION	(substantivo) obstruction se traduz como ⟪obstrução|OBSTRUÇAO⟫
+OBSTRUCTIONS	(forma de obstruction) (substantivo) obstruction se traduz como ⟪obstrução|OBSTRUÇAO⟫
+OBSTRUCTS	(forma de obstruct) (verbo) obstruir: impedir
+OBTAINING	(substantivo) obtenção: ação e efeito de obter
+OBTUSE	(adjetivo) obtuso: diz-se do maior dos ângulos formados por duas retas concorrentes, não perpendiculares e não coincidentes, menor que a do ângulo raso (180º) (também: embotado)
+OBTUSELY	(advérbio) obtusamente: de modo obtuso
+OBTUSER	(forma de obtuse) (adjetivo) obtuso: diz-se do maior dos ângulos formados por duas retas concorrentes, não perpendiculares e não...
+OBTUSEST	(forma de obtuse) (adjetivo) obtuso: diz-se do maior dos ângulos formados por duas retas concorrentes, não perpendiculares e não...
+OBVERSE	(substantivo) obverse se traduz como ⟪anverso⟫
+OBVERSES	(forma de obverse) (substantivo) obverse se traduz como ⟪anverso⟫
+OBVIOUSLY	(advérbio) obviamente: de maneira óbvia
+OCARINA	(substantivo) ocarina: instrumento de sopro globular feito de porcelana, terracota ou pedra, semelhante a uma flauta
+OCARINAS	(forma de ocarina) (substantivo) ocarina: instrumento de sopro globular feito de porcelana, terracota ou pedra, semelhante a uma flauta
+OCCASION	(substantivo) occasion se traduz como ⟪ocasião|OCASIAO⟫\n(verbo) ocasionar: dar ocasião a
+OCCASIONALLY	(advérbio) occasionally se traduz como ⟪ocasionalmente⟫
+OCCASIONED	(forma de occasion) (substantivo) occasion se traduz como ⟪ocasião|OCASIAO⟫
+OCCASIONING	(forma de occasion) (substantivo) occasion se traduz como ⟪ocasião|OCASIAO⟫
+OCCASIONS	(forma de occasion) (substantivo) occasion se traduz como ⟪ocasião|OCASIAO⟫
+OCCIDENT	(substantivo) occident se traduz como ⟪ocidente⟫
+OCCIDENTAL	(adjetivo) ocidental: dos povos que habitam o oeste
+OCCIDENTALLY	(forma de occidental) (adjetivo) ocidental: dos povos que habitam o oeste
+OCCIDENTS	(forma de occident) (substantivo) occident se traduz como ⟪ocidente⟫
+OCCLUSION	(substantivo) oclusão: ato ou efeito de ocluir; fechamento
+OCCLUSIONS	(forma de occlusion) (substantivo) oclusão: ato ou efeito de ocluir; fechamento
+OCCLUSIVE	(adjetivo) oclusivo: diz-se das consoantes produzidas com oclusão
+OCCULTISM	(substantivo) occultism se traduz como ⟪ocultismo⟫
+OCCULTISMS	(forma de occultism) (substantivo) occultism se traduz como ⟪ocultismo⟫
+OCCUPATION	(substantivo) ocupação: o trabalho ou negócio principal ou usual de uma pessoa, especialmente aquele que provê seus meios de sustentação
+OCCUPATIONS	(forma de occupation) (substantivo) ocupação: o trabalho ou negócio principal ou usual de uma pessoa, especialmente aquele que provê seus...
+OCCUPIED	(forma de occupy) (verbo) ocupar: estar na posse de
+OCCUPIES	(forma de occupy) (verbo) ocupar: estar na posse de
+OCCUPY	(verbo) ocupar: estar na posse de
+OCCUPYING	(forma de occupy) (verbo) ocupar: estar na posse de
+OCCUR	(verbo) ocorrer: passar pela cabeça
+OCCURRED	(forma de occur) (verbo) ocorrer: passar pela cabeça
+OCCURRENCE	(substantivo) ocorrência: a ação de ocorrer
+OCCURRENCES	(forma de occurrence) (substantivo) ocorrência: a ação de ocorrer
+OCCURRING	(forma de occur) (verbo) ocorrer: passar pela cabeça
+OCCURS	(forma de occur) (verbo) ocorrer: passar pela cabeça
+OCEAN	(substantivo) ocean se traduz como oceano:
+OCEANIC	(adjetivo) oceanic se traduz como ⟪oceano⟫
+OCEANOGRAPHER	(substantivo) oceanographer se traduz como ⟪oceanógrafo|OCEANOGRAFO⟫
+OCEANOGRAPHERS	(forma de oceanographer) (substantivo) oceanographer se traduz como ⟪oceanógrafo|OCEANOGRAFO⟫
+OCEANOGRAPHIES	(forma de oceanography) (substantivo) oceanografia: ciência que estuda os oceanos
+OCEANOGRAPHY	(substantivo) oceanografia: ciência que estuda os oceanos
+OCEANS	(forma de ocean) (substantivo) ocean se traduz como oceano:
+OCHLOCRACIES	(forma de ochlocracy) (substantivo) ochlocracy se traduz como ⟪oclocracia⟫
+OCHLOCRACY	(substantivo) ochlocracy se traduz como ⟪oclocracia⟫
+OCHRE	(substantivo) ocre: argila colorida por óxido de ferro, usada em pintura.
+OCHRED	(forma de ochre) (substantivo) ocre: argila colorida por óxido de ferro, usada em pintura.
+OCHRES	(forma de ochre) (substantivo) ocre: argila colorida por óxido de ferro, usada em pintura.
+OCHRING	(forma de ochre) (substantivo) ocre: argila colorida por óxido de ferro, usada em pintura.
+OCTAGON	(substantivo) octógono: polígono de oito lados
+OCTAGONS	(forma de octagon) (substantivo) octógono: polígono de oito lados
+OCTAHEDRA	(forma de octahedron) (substantivo) octaedro: poliedro de oito faces
+OCTAHEDRON	(substantivo) octaedro: poliedro de oito faces
+OCTAHEDRONS	(forma de octahedron) (substantivo) octaedro: poliedro de oito faces
+OCTAL	(adjetivo) octal: que tem por base o número oito
+OCTANE	(substantivo) octano: alcano com a fórmula química CH₃(CH₂)₆CH₃; tem vários isômeros
+OCTANES	(forma de octane) (substantivo) octano: alcano com a fórmula química CH₃(CH₂)₆CH₃; tem vários isômeros
+OCTANT	(substantivo) oitante: instrumento de medida
+OCTANTS	(forma de octant) (substantivo) oitante: instrumento de medida
+OCTAVE	(substantivo) oitava: período de oito dias após uma comemoração religiosa
+OCTAVES	(forma de octave) (substantivo) oitava: período de oito dias após uma comemoração religiosa
+OCTOPI	(forma de octopus) (substantivo) polvo: molusco cefalópode de oito tentáculos dotados de ventosas
+OCTOPUS	(substantivo) polvo: molusco cefalópode de oito tentáculos dotados de ventosas
+OCTOPUSES	(forma de octopus) (substantivo) polvo: molusco cefalópode de oito tentáculos dotados de ventosas
+OCULAR	(adjetivo) ocular: sistema de lentes que se coloca em um instrumento ótico a fim de ampliar a imagem real dada por este\n(substantivo) ocular: sistema de lentes que se coloca em um instrumento ótico a fim de ampliar a imagem real dada por este
+OCULARLY	(advérbio) ocularmente: por meio da visão
+OCULARS	(forma de ocular) (adjetivo) ocular: sistema de lentes que se coloca em um instrumento ótico a fim de ampliar a imagem real dada por este
+OCULIST	(substantivo) oftalmologista: especialista em oftalmologia. (também: oculista)
+OCULISTS	(forma de oculist) (substantivo) oftalmologista: especialista em oftalmologia. (também: oculista)
+ODALISQUE	(substantivo) odalisca: escrava virgem num serralho otomano
+ODALISQUES	(forma de odalisque) (substantivo) odalisca: escrava virgem num serralho otomano
+ODD	(adjetivo) ímpar: que não é divisível por dois (diz-se de número)
+ODDER	(forma de odd) (adjetivo) ímpar: que não é divisível por dois (diz-se de número)
+ODDEST	(forma de odd) (adjetivo) ímpar: que não é divisível por dois (diz-se de número)
+ODDMENT	(substantivo) sobra: aquilo que sobra do corte de uma peça
+ODE	(substantivo) ode: composição poética do gênero lírico
+ODEON	(substantivo) odeão: na Grécia e Roma da Antiguidade, pequeno anfiteatro coberto usado para apresentações, competições e ensaios, especialmente de música e poesia
+ODEONS	(substantivo) plural de odeon: odeão
+ODES	(forma de ode) (substantivo) ode: composição poética do gênero lírico
+ODEUM	(substantivo) o mesmo que odeon
+ODEUMS	(forma de odeum) (substantivo) o mesmo que odeon
+ODIOUS	(adjetivo) odious se traduz como ⟪odioso⟫
+ODOMETER	(substantivo) odômetro: instrumento de certos veículos que indica distâncias percorridas
+ODOMETERS	(forma de odometer) (substantivo) odômetro: instrumento de certos veículos que indica distâncias percorridas
+ODOR	(substantivo) odor: impressão produzida no olfato pelas emanações voláteis dos corpos
+ODORED	(forma de odor) (substantivo) odor: impressão produzida no olfato pelas emanações voláteis dos corpos
+ODORIFEROUS	(adjetivo) odoriferous se traduz como ⟪odorífero|ODORIFERO⟫
+ODORIFEROUSLY	(forma de odoriferous) (adjetivo) odoriferous se traduz como ⟪odorífero|ODORIFERO⟫
+ODORLESS	(adjetivo) inodoro: sem cheiro
+ODORS	(forma de odor) (substantivo) odor: impressão produzida no olfato pelas emanações voláteis dos corpos
+ODOUR	(substantivo) odor: impressão produzida no olfato pelas emanações voláteis dos corpos (também: cheiro)
+ODOURS	(forma de odour) (substantivo) odor: impressão produzida no olfato pelas emanações voláteis dos corpos (também: cheiro)
+OEDEMATA	(forma de edema) (substantivo) edema: acúmulo anormal de líquido no espaço intersticial devido ao desequilíbrio entre a pressão...
+OENOLOGIES	(forma de oenology) (substantivo) enologia: estudo dos vinhos
+OENOLOGY	(substantivo) enologia: estudo dos vinhos
+OESOPHAGUS	(substantivo) esôfago: canal que conduz o alimento da faringe até o estômago
+OFF	(adjetivo) desligado: separado (de um todo); desunido, destacado
+OFFAL	(substantivo) offal se traduz como ⟪bucho⟫
+OFFALS	(forma de offal) (substantivo) offal se traduz como ⟪bucho⟫
+OFFED	(forma de off) (adjetivo) desligado: separado (de um todo); desunido, destacado
+OFFEND	(verbo) ofender: fazer ofensa
+OFFENDED	(adjetivo) melindrado: que foi contrariado
+OFFENDER	(substantivo) ofendedor: o que ofende
+OFFENDERS	(forma de offender) (substantivo) ofendedor: o que ofende
+OFFENDING	(forma de offend) (verbo) ofender: fazer ofensa
+OFFENDS	(forma de offend) (verbo) ofender: fazer ofensa
+OFFENSE	(substantivo) ofensa: ato ou dito que lesa um sentimento respeitável ou legítimo; desconsideração, desacato, menosprezo
+OFFENSES	(forma de offense) (substantivo) ofensa: ato ou dito que lesa um sentimento respeitável ou legítimo; desconsideração, desacato, menosprezo
+OFFENSIVE	(adjetivo) offensive se traduz como ⟪ofensivo⟫\n(substantivo) ofensiva: ataque, assalto
+OFFENSIVELY	(advérbio) ofensivamente: de modo ofensivo
+OFFENSIVES	(forma de offensive) (adjetivo) offensive se traduz como ⟪ofensivo⟫
+OFFER	(substantivo) offer se traduz como ⟪oferta⟫\n(verbo) oferecer: proporcionar
+OFFERED	(forma de offer) (substantivo) offer se traduz como ⟪oferta⟫
+OFFERING	(substantivo) oferenda: aquilo que se oferece; presente, dádiva, oferta (também: oblação, oferecimento)
+OFFERINGS	(forma de offer) (substantivo) offer se traduz como ⟪oferta⟫
+OFFERS	(forma de offer) (substantivo) offer se traduz como ⟪oferta⟫
+OFFERTORIES	(forma de offertory) (substantivo) ofertório: (por extensão) aquilo que foi ofertado, doação, oferenda, oferta
+OFFERTORY	(substantivo) ofertório: (por extensão) aquilo que foi ofertado, doação, oferenda, oferta
+OFFICE	(substantivo) escritório; local de trabalho não braçal\n(verbo) trabalhar; ter um cargo, emprego ou ofício em determinado lugar
+OFFICER	(substantivo) officer se traduz como agente público\n(verbo) comandar: dirigir como superior no exército ou na armada
+OFFICERED	(forma de officer) (substantivo) officer se traduz como agente público
+OFFICERING	(forma de officer) (substantivo) officer se traduz como agente público
+OFFICERS	(forma de officer) (substantivo) officer se traduz como agente público
+OFFICES	(forma de office) (substantivo) escritório; local de trabalho não braçal
+OFFICIAL	(adjetivo) official se traduz como ⟪oficial⟫\n(substantivo) funcionário: pessoa que trabalha para uma empresa ou para o Estado
+OFFICIALLY	(advérbio) oficialmente: de modo oficial
+OFFICIALS	(forma de official) (adjetivo) official se traduz como ⟪oficial⟫
+OFFING	(forma de off) (adjetivo) desligado: separado (de um todo); desunido, destacado
+OFFINGS	(forma de off) (adjetivo) desligado: separado (de um todo); desunido, destacado
+OFFS	(forma de off) (adjetivo) desligado: separado (de um todo); desunido, destacado
+OFFSET	(substantivo) offset se traduz como ⟪ajuste⟫, ⟪desconto⟫, ⟪compensação|COMPENSAÇAO⟫
+OFFSETS	(forma de offset) (substantivo) offset se traduz como ⟪ajuste⟫, ⟪desconto⟫, ⟪compensação|COMPENSAÇAO⟫
+OFFSETTING	(forma de offset) (substantivo) offset se traduz como ⟪ajuste⟫, ⟪desconto⟫, ⟪compensação|COMPENSAÇAO⟫
+OFFSIDE	(substantivo) impedimento: falta em que o atacante que participa de jogada está mais próximo à linha de fundo do campo oponente que um dos dois últimos jogadores adversários no momento em que a bola é-lhe lançada\n(adjetivo) offside se traduz como junto à estrada
+OFFSIDES	(forma de offside) (substantivo) impedimento: falta em que o atacante que participa de jogada está mais próximo à linha de fundo do campo...
+OFFSPRING	(substantivo) filho: descendente (também: prole, filha)
+OFFSPRINGS	(forma de offspring) (substantivo) filho: descendente (também: prole, filha)
+OFT	(advérbio) frequentemente: com frequência; com regularidade; assiduamente (também: muitas vezes)
+OFTEN	(advérbio) frequentemente: com frequência; com regularidade; assiduamente (também: muitas vezes)
+OFTENEST	(forma de often) (advérbio) frequentemente: com frequência; com regularidade; assiduamente (também: muitas vezes)
+OFTEST	(forma de oft) (advérbio) frequentemente: com frequência; com regularidade; assiduamente (também: muitas vezes)
+OGRE	(substantivo) ogre se traduz como ⟪ogre⟫
+OGRES	(forma de ogre) (substantivo) ogre se traduz como ⟪ogre⟫
+OHM	(substantivo) ohm se traduz como ohm, ómio/ômio
+OHMMETER	(substantivo) ohmímetro: instrumento que mede a resistência elétrica em ohms
+OHMMETERS	(forma de ohmmeter) (substantivo) ohmímetro: instrumento que mede a resistência elétrica em ohms
+OHMS	(forma de ohm) (substantivo) ohm se traduz como ohm, ómio/ômio
+OIL	(substantivo) óleo: substância viscosa que não se mistura com a água (também: petróleo)
+OILED	(forma de oil) (substantivo) óleo: substância viscosa que não se mistura com a água (também: petróleo)
+OILIER	(forma de oily) (adjetivo) oily se traduz como ⟪oleoso⟫
+OILIEST	(forma de oily) (adjetivo) oily se traduz como ⟪oleoso⟫
+OILILY	(forma de oily) (adjetivo) oily se traduz como ⟪oleoso⟫
+OILING	(forma de oil) (substantivo) óleo: substância viscosa que não se mistura com a água (também: petróleo)
+OILS	(forma de oil) (substantivo) óleo: substância viscosa que não se mistura com a água (também: petróleo)
+OILY	(adjetivo) oily se traduz como ⟪oleoso⟫\n(advérbio) oleosamente: de um modo oleoso
+OINTMENT	(substantivo) ointment se traduz como ⟪pomada⟫
+OINTMENTS	(forma de ointment) (substantivo) ointment se traduz como ⟪pomada⟫
+OKAPI	(substantivo) okapi se traduz como ⟪ocapi⟫
+OKAPIS	(forma de okapi) (substantivo) okapi se traduz como ⟪ocapi⟫
+OKRA	(substantivo) okra se traduz como ⟪quiabo⟫
+OKRAS	(forma de okra) (substantivo) okra se traduz como ⟪quiabo⟫
+OLD	(adjetivo) velho: aquele que tem mais idade
+OLDEST	(forma de old) (adjetivo) velho: aquele que tem mais idade
+OLDS	(forma de old) (adjetivo) velho: aquele que tem mais idade
+OLEASTER	(substantivo) oleaster se traduz como oleastro, olivastro
+OLEASTERS	(forma de oleaster) (substantivo) oleaster se traduz como oleastro, olivastro
+OLECRANON	(substantivo) olecranon se traduz como olecrânio, olecrano
+OLECRANONS	(forma de olecranon) (substantivo) olecranon se traduz como olecrânio, olecrano
+OLIGARCH	(substantivo) oligarch se traduz como ⟪magnata⟫
+OLIGARCHS	(forma de oligarch) (substantivo) oligarch se traduz como ⟪magnata⟫
+OLIGOPOLIES	(forma de oligopoly) (substantivo) oligopólio: forma evoluída de monopólio, no qual um grupo de empresas promove o domínio de determinada...
+OLIGOPOLY	(substantivo) oligopólio: forma evoluída de monopólio, no qual um grupo de empresas promove o domínio de determinada oferta de produtos e/ou serviços
+OLIVE	(substantivo) azeitona: fruto da azeitoneira (também chamada de oliveira) donde se extrai o azeite
+OLIVES	(forma de olive) (substantivo) azeitona: fruto da azeitoneira (também chamada de oliveira) donde se extrai o azeite
+OMBUDSMAN	(substantivo) ombudsman: pessoa que fiscaliza a organização (governamental ou privada) da qual faz parte representando os interesses da sociedade
+OMBUDSMEN	(forma de ombudsman) (substantivo) ombudsman: pessoa que fiscaliza a organização (governamental ou privada) da qual faz parte representando...
+OMEGA	(substantivo) ômega: vigésima-quarta letra do alfabeto grego
+OMEGAS	(forma de omega) (substantivo) ômega: vigésima-quarta letra do alfabeto grego
+OMELETTE	(substantivo) omelete: ovos batidos conjuntamente e fritos, em forma de trouxa ou posta
+OMELETTES	(forma de omelette) (substantivo) omelete: ovos batidos conjuntamente e fritos, em forma de trouxa ou posta
+OMEN	(substantivo) presságio: ideia de que algo está prestes a acontecer
+OMENED	(forma de omen) (substantivo) presságio: ideia de que algo está prestes a acontecer
+OMENING	(forma de omen) (substantivo) presságio: ideia de que algo está prestes a acontecer
+OMENS	(forma de omen) (substantivo) presságio: ideia de que algo está prestes a acontecer
+OMINOUS	(adjetivo) ominous se traduz como ⟪ominoso⟫
+OMINOUSLY	(advérbio) ominosamente: de modo ominoso
+OMISSION	(substantivo) omissão: falta
+OMISSIONS	(forma de omission) (substantivo) omissão: falta
+OMIT	(verbo) omitir: não fazer caso de; descuidar, negligenciar, preterir
+OMITS	(forma de omit) (verbo) omitir: não fazer caso de; descuidar, negligenciar, preterir
+OMITTED	(forma de omit) (verbo) omitir: não fazer caso de; descuidar, negligenciar, preterir
+OMITTING	(forma de omit) (verbo) omitir: não fazer caso de; descuidar, negligenciar, preterir
+OMNIPOTENT	(adjetivo) omnipotent se traduz como todo-poderoso
+OMNIPOTENTS	(forma de omnipotent) (adjetivo) omnipotent se traduz como todo-poderoso
+OMNIPRESENCE	(substantivo) onipresença: ubiquidade
+OMNIPRESENCES	(forma de omnipresence) (substantivo) onipresença: ubiquidade
+OMNIPRESENT	(adjetivo) omnipresente: presente em todos os lugares
+OMNISCIENT	(adjetivo) omnisciente: que sabe todas as coisas
+OMNISCIENTLY	(forma de omniscient) (adjetivo) omnisciente: que sabe todas as coisas
+ONANISM	(substantivo) onanismo: masturbação, especialmente a masculina
+ONANISMS	(forma de onanism) (substantivo) onanismo: masturbação, especialmente a masculina
+ONCE	(advérbio) once se traduz como uma vez\n(conjunção) uma vez que
+ONCOLOGIES	(forma de oncology) (substantivo) oncologia: parte da medicina que estuda os tumores cancerosos
+ONCOLOGIST	(substantivo) oncologista: médico especializado em oncologia
+ONCOLOGISTS	(forma de oncologist) (substantivo) oncologista: médico especializado em oncologia
+ONCOLOGY	(substantivo) oncologia: parte da medicina que estuda os tumores cancerosos
+ONE	(adjetivo) one se traduz como único:\n(advérbio) one se traduz como ⟪muito⟫, bastante :
+ONEIRIC	(adjetivo) onírico: referente a sonhos
+ONENESS	(substantivo) unicidade: qualidade do que é único
+ONENESSES	(forma de oneness) (substantivo) unicidade: qualidade do que é único
+ONEROUS	(adjetivo) oneroso: que produz reciprocidade de vantagens e obrigações para as partes envolvidas (diz-se de ato)
+ONEROUSLY	(advérbio) onerosamente: de forma onerosa
+ONES	(forma de one) (adjetivo) one se traduz como único:
+ONESELF	(pronome) reflexivo de one
+ONGOING	(adjetivo) ongoing se traduz como em andamento
+ONION	(substantivo) cebola: planta bulbosa hortense muito utilizada na culinária
+ONIONS	(forma de onion) (substantivo) cebola: planta bulbosa hortense muito utilizada na culinária
+ONLY	(adjetivo) only se traduz como só\n(advérbio) only se traduz como ⟪apenas⟫
+ONOMASTICS	(substantivo) onomástica: ciência que trata da catalogação e estudo dos nomes próprios
+ONOMATOPOEIA	(substantivo) onomatopeia: palavra cujo falar lembra o som de uma coisa específica
+ONOMATOPOEIAS	(substantivo) plural de onomatopoeia: onomatopeia
+ONSLAUGHT	(substantivo) feroz: diz-se de evento de força inesperada (também: ataque devastador, violento)
+ONSLAUGHTS	(substantivo) forma plural de onslaught:
+ONTOLOGICAL	(adjetivo) ontological se traduz como ontológico
+ONTOLOGICALLY	(advérbio) ontologicamente: de modo ontológico
+ONTOLOGIES	(forma de ontology) (substantivo) ontology se traduz como ⟪ontologia⟫
+ONTOLOGY	(substantivo) ontology se traduz como ⟪ontologia⟫
+ONWARDS	(advérbio) adiante: na frente; no futuro (também: para frente, em diante)
+ONYX	(substantivo) ónix: variedade de calcedônia, uma forma de quartzo (também: ônix)
+ONYXES	(forma de onyx) (substantivo) ónix: variedade de calcedônia, uma forma de quartzo (também: ônix)
+OOCYTE	(substantivo) oócito: gâmeta feminino que ainda não atingiu a maturidade
+OOCYTES	(forma de oocyte) (substantivo) oócito: gâmeta feminino que ainda não atingiu a maturidade
+OOPS	(interjeição) opa: acusa o reconhecimento de um pequeno erro (também: ops, ups)
+OOSPHERE	(substantivo) oosfera: gameta feminino das plantas
+OOSPHERES	(forma de oosphere) (substantivo) oosfera: gameta feminino das plantas
+OPACITIES	(forma de opacity) (substantivo) opacidade: qualidade ou estado do que é opaco; propriedade de um corpo que impede a passagem da luz
+OPACITY	(substantivo) opacidade: qualidade ou estado do que é opaco; propriedade de um corpo que impede a passagem da luz
+OPAL	(substantivo) opala: mineral amorfo constituído por óxido de silício hidratado (SiO₂.nH₂O) que, devido a diferenças na quantidade de água, apresenta grandes variações de coloração, produzindo diferentes cores vivas conforme a incidência da luz: é utilizada na fabricação de pequenas estatuetas, adornos e joias
+OPALESCENT	(adjetivo) opalescent se traduz como ⟪opalescente⟫
+OPALESCENTLY	(forma de opalescent) (adjetivo) opalescent se traduz como ⟪opalescente⟫
+OPALINE	(adjetivo) opalino: semelhante à opala por possuir uma iridescência branco-leitosa
+OPALINES	(forma de opaline) (adjetivo) opalino: semelhante à opala por possuir uma iridescência branco-leitosa
+OPALS	(forma de opal) (substantivo) opala: mineral amorfo constituído por óxido de silício hidratado (SiO₂.nH₂O) que, devido a diferenças na...
+OPAQUE	(adjetivo) opaco: algo que não é transparente; que é baço\n(substantivo) opaque se traduz como coisa opaca
+OPAQUED	(forma de opaque) (adjetivo) opaco: algo que não é transparente; que é baço
+OPAQUER	(forma de opaque) (adjetivo) opaco: algo que não é transparente; que é baço
+OPAQUES	(forma de opaque) (adjetivo) opaco: algo que não é transparente; que é baço
+OPAQUEST	(forma de opaque) (adjetivo) opaco: algo que não é transparente; que é baço
+OPAQUING	(forma de opaque) (adjetivo) opaco: algo que não é transparente; que é baço
+OPEN	(adjetivo) open se traduz como ⟪aberto⟫\n(substantivo) open se traduz como ⟪aberto⟫
+OPENED	(forma de open) (adjetivo) open se traduz como ⟪aberto⟫
+OPENER	(substantivo) opener se traduz como ⟪abridor⟫
+OPENERS	(forma de opener) (substantivo) opener se traduz como ⟪abridor⟫
+OPENEST	(forma de open) (adjetivo) open se traduz como ⟪aberto⟫
+OPENING	(substantivo) abertura: termo que designa as frestas e vãos na construção, com ou sem portas ou janelas\n(verbo) gerúndio do verbo open: aberto
+OPENINGS	(forma de open) (adjetivo) open se traduz como ⟪aberto⟫
+OPENMOUTHED	(adjetivo) de boca aberta; surpreso
+OPENS	(forma de open) (adjetivo) open se traduz como ⟪aberto⟫
+OPERA	(substantivo) ópera: drama teatral quase inteiramente cantado com acompanhamento de orquestra
+OPERAS	(forma de opera) (substantivo) ópera: drama teatral quase inteiramente cantado com acompanhamento de orquestra
+OPERATE	(verbo) operar: cumprir
+OPERATED	(forma de operate) (verbo) operar: cumprir
+OPERATES	(forma de operate) (verbo) operar: cumprir
+OPERATIC	(adjetivo) operático: operístico
+OPERATICS	(forma de operatic) (adjetivo) operático: operístico
+OPERATING	(forma de operate) (verbo) operar: cumprir
+OPERATION	(substantivo) operation se traduz como ⟪operação|OPERAÇAO⟫
+OPERATIONAL	(adjetivo) operacional: diz-se de máquina, equipamento ou sistema que está pronto para o uso
+OPERATIONALLY	(advérbio) operacionalmente: de modo operacional
+OPERATIVE	(adjetivo) operative se traduz como ⟪operativo⟫
+OPERATIVELY	(advérbio) operativamente: de forma operativa
+OPERATIVES	(forma de operative) (adjetivo) operative se traduz como ⟪operativo⟫
+OPERATOR	(substantivo) operador: símbolo que indica uma operação
+OPERATORS	(forma de operator) (substantivo) operador: símbolo que indica uma operação
+OPERCULA	(forma de operculum) (substantivo) opérculo: placa óssea localizada nos lados da cabeça dos peixes e que cobre a câmara branquial
+OPERCULUM	(substantivo) opérculo: placa óssea localizada nos lados da cabeça dos peixes e que cobre a câmara branquial
+OPERCULUMS	(forma de operculum) (substantivo) opérculo: placa óssea localizada nos lados da cabeça dos peixes e que cobre a câmara branquial
+OPEROSE	(adjetivo) operoso: trabalhoso, difícil
+OPEROSELY	(advérbio) operosamente: de modo operoso
+OPHTHALMOLOGICALLY	(advérbio) oftalmologicamente: de modo oftalmológico
+OPHTHALMOLOGIES	(forma de ophthalmology) (substantivo) oftalmologia: parte da medicina especializada no estudo e tratamento das doenças dos olhos
+OPHTHALMOLOGIST	(substantivo) oftalmologista: especialista em oftalmologia. (também: oftalmólogo)
+OPHTHALMOLOGISTS	(forma de ophthalmologist) (substantivo) oftalmologista: especialista em oftalmologia. (também: oftalmólogo)
+OPHTHALMOLOGY	(substantivo) oftalmologia: parte da medicina especializada no estudo e tratamento das doenças dos olhos
+OPHTHALMOSCOPIES	(forma de ophthalmoscopy) (substantivo) oftalmoscopia: exame do interior do olho
+OPHTHALMOSCOPY	(substantivo) oftalmoscopia: exame do interior do olho
+OPIATE	(adjetivo) opiate se traduz como ⟪sonífero|SONIFERO⟫\n(substantivo) opiato: remédio que contém ópio
+OPIATES	(forma de opiate) (adjetivo) opiate se traduz como ⟪sonífero|SONIFERO⟫
+OPIATING	(forma de opiate) (adjetivo) opiate se traduz como ⟪sonífero|SONIFERO⟫
+OPINE	(verbo) opinar: expor, dizer, afirmar, manifestando parecer ou opinião
+OPINED	(forma de opine) (verbo) opinar: expor, dizer, afirmar, manifestando parecer ou opinião
+OPINES	(forma de opine) (verbo) opinar: expor, dizer, afirmar, manifestando parecer ou opinião
+OPINING	(forma de opine) (verbo) opinar: expor, dizer, afirmar, manifestando parecer ou opinião
+OPINION	(substantivo) opinion se traduz como ⟪opinião|OPINIAO⟫
+OPINIONS	(forma de opinion) (substantivo) opinion se traduz como ⟪opinião|OPINIAO⟫
+OPIUM	(substantivo) opium se traduz como ⟪ópio|OPIO⟫
+OPIUMS	(forma de opium) (substantivo) opium se traduz como ⟪ópio|OPIO⟫
+OPOSSUM	(substantivo) gambá: designação comum aos marsupiais do gênero Didelphis, os maiores da família dos didelfídeos, com três espécies, encontrados do sul do Canadá à Argentina, com até 50 centímetros de comprimento, cauda preênsil, longa e quase inteiramente nua, com a parte distal branca, pelagem cinza, preta ou... (também: sarigueia)
+OPOSSUMS	(forma de opossum) (substantivo) gambá: designação comum aos marsupiais do gênero Didelphis, os maiores da família dos didelfídeos, com...
+OPPONENT	(substantivo) adversário: competidor
+OPPONENTS	(forma de opponent) (substantivo) adversário: competidor
+OPPORTUNE	(adjetivo) oportuno: em boa hora, momento certo
+OPPORTUNIST	(substantivo) opportunist se traduz como ⟪oportunista⟫
+OPPORTUNISTIC	(adjetivo) oportunista: aquele que aproveita as oportunidades, por vezes sem ética
+OPPORTUNISTS	(forma de opportunist) (substantivo) opportunist se traduz como ⟪oportunista⟫
+OPPORTUNITIES	(forma de opportunity) (substantivo) oportunidade: ocasião favorável
+OPPORTUNITY	(substantivo) oportunidade: ocasião favorável
+OPPOSE	(verbo) oppose se traduz como opor-se a
+OPPOSED	(forma de oppose) (verbo) oppose se traduz como opor-se a
+OPPOSES	(forma de oppose) (verbo) oppose se traduz como opor-se a
+OPPOSING	(forma de oppose) (verbo) oppose se traduz como opor-se a
+OPPOSITE	(adjetivo) oposto: sentido oposto; contrário\n(advérbio) oposto: sentido oposto; contrário (também: em frente)
+OPPOSITELY	(advérbio) contrapostamente: de forma contraposta (também: opostamente)
+OPPOSITES	(forma de opposite) (adjetivo) oposto: sentido oposto; contrário
+OPPOSITION	(substantivo) oposição: um oponente em alguma forma de competição
+OPPOSITIONS	(forma de opposition) (substantivo) oposição: um oponente em alguma forma de competição
+OPPRESS	(verbo) oprimir: exercer pressão sobre; apertar, comprimir, pressionar
+OPPRESSED	(forma de oppress) (verbo) oprimir: exercer pressão sobre; apertar, comprimir, pressionar
+OPPRESSES	(forma de oppress) (verbo) oprimir: exercer pressão sobre; apertar, comprimir, pressionar
+OPPRESSING	(forma de oppress) (verbo) oprimir: exercer pressão sobre; apertar, comprimir, pressionar
+OPPRESSION	(substantivo) oppression se traduz como ⟪opressão|OPRESSAO⟫
+OPPRESSIONS	(forma de oppression) (substantivo) oppression se traduz como ⟪opressão|OPRESSAO⟫
+OPPRESSIVE	(adjetivo) oppressive se traduz como ⟪opressor⟫
+OPPRESSIVELY	(advérbio) opressivamente: de forma opressiva
+OPPRESSOR	(substantivo) oppressor se traduz como ⟪opressor⟫
+OPPRESSORS	(forma de oppressor) (substantivo) oppressor se traduz como ⟪opressor⟫
+OPSIN	(substantivo) opsina: grupo de proteínas sensíveis a luz na retina
+OPSINS	(forma de opsin) (substantivo) opsina: grupo de proteínas sensíveis a luz na retina
+OPT	(verbo) optar: fazer escolha
+OPTATIVE	(adjetivo) optativo: modo verbal característico de algumas línguas indo-européias cuja função é exprimir o desejo ou esperança de que se realize a ação indicada pelo verbo:\n(substantivo) optativo: modo verbal característico de algumas línguas indo-européias cuja função é exprimir o desejo ou esperança de que se realize a ação indicada pelo verbo:
+OPTATIVES	(forma de optative) (adjetivo) optativo: modo verbal característico de algumas línguas indo-européias cuja função é exprimir o desejo ou...
+OPTED	(forma de opt) (verbo) optar: fazer escolha
+OPTICAL	(adjetivo) óptico: relativo à óptica
+OPTICALLY	(advérbio) oticamente: de modo ótico
+OPTIMALLY	(advérbio) otimamente: de modo ótimo
+OPTIME	(substantivo) graduando de Cambridge em Matemática
+OPTIMES	(forma de optime) (substantivo) graduando de Cambridge em Matemática
+OPTIMISED	(adjetivo) otimizado: modificado para ter o melhor desempenho
+OPTIMISM	(substantivo) otimismo: uma tendência ou disposição a olhar o lado favorável das coisas e eventos e a esperar o melhor resultado possível das ações
+OPTIMISMS	(forma de optimism) (substantivo) otimismo: uma tendência ou disposição a olhar o lado favorável das coisas e eventos e a esperar o melhor...
+OPTIMIST	(substantivo) optimist se traduz como ⟪otimista⟫
+OPTIMISTIC	(adjetivo) optimistic se traduz como ⟪otimista⟫
+OPTIMISTICALLY	(advérbio) otimisticamente: de modo otimista
+OPTIMISTS	(forma de optimist) (substantivo) optimist se traduz como ⟪otimista⟫
+OPTIMIZATION	(substantivo) otimização: o ato de otimizar
+OPTIMIZATIONS	(forma de optimization) (substantivo) otimização: o ato de otimizar
+OPTIMIZE	(verbo) otimizar: melhorar (algo); tornar ótimo
+OPTIMIZED	(forma de optimize) (verbo) otimizar: melhorar (algo); tornar ótimo
+OPTIMIZES	(forma de optimize) (verbo) otimizar: melhorar (algo); tornar ótimo
+OPTIMIZING	(forma de optimize) (verbo) otimizar: melhorar (algo); tornar ótimo
+OPTING	(forma de opt) (verbo) optar: fazer escolha
+OPTION	(substantivo) opção: direito de poder comprar títulos ou ações até uma certa data com um preço predefinido
+OPTIONAL	(adjetivo) opcional: sujeito a opção; por que se pode optar
+OPTIONALLY	(advérbio) opcionalmente: de modo opcional
+OPTIONALS	(forma de optional) (adjetivo) opcional: sujeito a opção; por que se pode optar
+OPTIONED	(forma de option) (substantivo) opção: direito de poder comprar títulos ou ações até uma certa data com um preço predefinido
+OPTIONING	(forma de option) (substantivo) opção: direito de poder comprar títulos ou ações até uma certa data com um preço predefinido
+OPTIONS	(forma de option) (substantivo) opção: direito de poder comprar títulos ou ações até uma certa data com um preço predefinido
+OPTOMETRIES	(forma de optometry) (substantivo) optometry se traduz como ⟪optometria⟫
+OPTOMETRIST	(substantivo) optometrista: especialista em optometria
+OPTOMETRISTS	(forma de optometrist) (substantivo) optometrista: especialista em optometria
+OPTOMETRY	(substantivo) optometry se traduz como ⟪optometria⟫
+OPTS	(forma de opt) (verbo) optar: fazer escolha
+OPULENCE	(substantivo) opulência: abundância de recursos ou bens
+OPULENCES	(forma de opulence) (substantivo) opulência: abundância de recursos ou bens
+OPUSCULE	(substantivo) opúsculo: pequena obra
+OPUSCULES	(forma de opuscule) (substantivo) opúsculo: pequena obra
+ORACLE	(substantivo) oracle se traduz como ⟪oráculo|ORACULO⟫
+ORACLES	(forma de oracle) (substantivo) oracle se traduz como ⟪oráculo|ORACULO⟫
+ORAL	(adjetivo) oral: verbal
+ORALS	(forma de oral) (adjetivo) oral: verbal
+ORANGE	(adjetivo) laranja: fruto cítrica da laranjeira, cuja cor característica é o laranja (também: cor-de-laranja)\n(substantivo) laranja: fruto cítrica da laranjeira, cuja cor característica é o laranja
+ORANGES	(forma de orange) (adjetivo) laranja: fruto cítrica da laranjeira, cuja cor característica é o laranja (também: cor-de-laranja)
+ORATE	(verbo) orate se traduz como falar formalmente
+ORATED	(forma de orate) (verbo) orate se traduz como falar formalmente
+ORATES	(forma de orate) (verbo) orate se traduz como falar formalmente
+ORATING	(forma de orate) (verbo) orate se traduz como falar formalmente
+ORATORICALLY	(advérbio) oratoriamente: de forma oratória
+ORATORIES	(forma de oratory) (substantivo) oratory se traduz como ⟪oratória|ORATORIA⟫
+ORATORY	(substantivo) oratory se traduz como ⟪oratória|ORATORIA⟫
+ORBIT	(substantivo) círculo: figura plana formada pela área limitada por uma circunferência (também: órbita)\n(verbo) orbitar: girar em torno a algo, dar voltas em redor de algo ou alguém
+ORBITED	(forma de orbit) (substantivo) círculo: figura plana formada pela área limitada por uma circunferência (também: órbita)
+ORBITING	(forma de orbit) (substantivo) círculo: figura plana formada pela área limitada por uma circunferência (também: órbita)
+ORBITS	(forma de orbit) (substantivo) círculo: figura plana formada pela área limitada por uma circunferência (também: órbita)
+ORBS	(substantivo) fogo-fátuo: fenômeno possivelmente causado pela oxidação da fosfina (PH₃), difosfano (P₂H₄) e metano (CH₄) que, por decaimento orgânico, podem provocar emissão de fótons e, além disto, como compostos de fosfina e difosfano se inflamam espontaneamente ao contato com o oxigênio atmosférico, mesmo uma pequena...
+ORC	(substantivo) criatura bastante parecida com o goblin, mas maior, mais forte e mais inteligente
+ORCHARD	(substantivo) pomar: plantação de árvores frutíferas
+ORCHARDS	(forma de orchard) (substantivo) pomar: plantação de árvores frutíferas
+ORCHESTRA	(substantivo) orquestra: conjunto de instrumentistas ou músicos, acrescido do maestro
+ORCHESTRALLY	(advérbio) orquestralmente: de modo orquestral
+ORCHESTRAS	(forma de orchestra) (substantivo) orquestra: conjunto de instrumentistas ou músicos, acrescido do maestro
+ORCHESTRATE	(verbo) instrumentar: escrever e aplicar a vários instrumentos de uma orquestra (uma obra musical) (também: orquestrar)
+ORCHESTRATED	(forma de orchestrate) (verbo) instrumentar: escrever e aplicar a vários instrumentos de uma orquestra (uma obra musical) (também: orquestrar)
+ORCHESTRATES	(forma de orchestrate) (verbo) instrumentar: escrever e aplicar a vários instrumentos de uma orquestra (uma obra musical) (também: orquestrar)
+ORCHESTRATING	(forma de orchestrate) (verbo) instrumentar: escrever e aplicar a vários instrumentos de uma orquestra (uma obra musical) (também: orquestrar)
+ORCHESTRATION	(substantivo) orquestração: ato ou arte de orquestrar
+ORCHESTRATIONS	(forma de orchestration) (substantivo) orquestração: ato ou arte de orquestrar
+ORCHID	(substantivo) orquídea: planta epífita da família das Orquidáceas
+ORCHIDS	(forma de orchid) (substantivo) orquídea: planta epífita da família das Orquidáceas
+ORCHIL	(substantivo) orchil se traduz como orcina
+ORCHILS	(forma de orchil) (substantivo) orchil se traduz como orcina
+ORCS	(forma de orc) (substantivo) criatura bastante parecida com o goblin, mas maior, mais forte e mais inteligente
+ORDEAL	(substantivo) meio primitivo de julgamento, onde o acusado era submetido a perigosos testes e uma autoridade divina dava o veredito
+ORDEALS	(forma de ordeal) (substantivo) meio primitivo de julgamento, onde o acusado era submetido a perigosos testes e uma autoridade divina...
+ORDER	(substantivo) ordem: boa organização das coisas\n(verbo) ordenar: dar ordens; mandar (também: mandar)
+ORDERED	(adjetivo) ordered se traduz como ⟪ordenado⟫
+ORDERING	(forma de order) (substantivo) ordem: boa organização das coisas
+ORDERS	(forma de order) (substantivo) ordem: boa organização das coisas
+ORDINAL	(adjetivo) ordinal: diz-se do número que indica uma ordem ou série
+ORDINALS	(forma de ordinal) (adjetivo) ordinal: diz-se do número que indica uma ordem ou série
+ORDINARIER	(forma de ordinary) (adjetivo) ordinário: comum (também: rotineiro, comum)
+ORDINARIES	(forma de ordinary) (adjetivo) ordinário: comum (também: rotineiro, comum)
+ORDINARIEST	(forma de ordinary) (adjetivo) ordinário: comum (também: rotineiro, comum)
+ORDINARILY	(advérbio) ordinariamente: normalmente
+ORDINARY	(adjetivo) ordinário: comum (também: rotineiro, comum)
+ORDINATE	(substantivo) ordenada: segunda coordenada cartesiana de um ponto do plano ou do espaço; distância entre um ponto do plano e o eixo horizontal (eixo das abscissas)
+ORDINATES	(forma de ordinate) (substantivo) ordenada: segunda coordenada cartesiana de um ponto do plano ou do espaço; distância entre um ponto do...
+ORDINATION	(substantivo) ordenação: ordem
+ORDINATIONS	(forma de ordination) (substantivo) ordenação: ordem
+ORE	(substantivo) minério: mineral ou associação de minerais que pode ser explorado economicamente para extração de um ou mais elementos
+OREGANO	(substantivo) orégão: planta da família das Labiadas, usada como tempero
+OREGANOS	(forma de oregano) (substantivo) orégão: planta da família das Labiadas, usada como tempero
+ORES	(forma de ore) (substantivo) minério: mineral ou associação de minerais que pode ser explorado economicamente para extração de um ou...
+ORGAN	(substantivo) órgão; o maior componente de um organismo, composto de tecidos que executam funções similares
+ORGANDIE	(substantivo) organdi: tipo de pano ou musselina usado para a confecção de roupas femininas (vestidos, saias, etc.), leve e bastante transparente, feito com algodão preparado com um tipo de goma, o que lhe dá consistência e certa aspereza ao toque
+ORGANDIES	(forma de organdie) (substantivo) organdi: tipo de pano ou musselina usado para a confecção de roupas femininas (vestidos, saias, etc.),...
+ORGANDY	(substantivo) organdi: tipo de pano ou musselina usado para a confecção de roupas femininas (vestidos, saias, etc.), leve e bastante transparente, feito com algodão preparado com um tipo de goma, o que lhe dá consistência e certa aspereza ao toque
+ORGANELLE	(substantivo) organela: numa célula, estrutura permanente, envolta em membrana, e que tem função específica
+ORGANELLES	(forma de organelle) (substantivo) organela: numa célula, estrutura permanente, envolta em membrana, e que tem função específica
+ORGANICALLY	(advérbio) organicamente: de modo orgânico
+ORGANISATION	(substantivo) organização: ato ou efeito de organizar
+ORGANISATIONS	(forma de organisation) (substantivo) organização: ato ou efeito de organizar
+ORGANISE	(verbo) organizar: estabelecer padrões de procedimentos (políticas, regulamentos, procedimentos operacionais padrão)
+ORGANISED	(adjetivo) organizado: disposto devidamente para realizar certo fim ou função
+ORGANISES	(forma de organise) (verbo) organizar: estabelecer padrões de procedimentos (políticas, regulamentos, procedimentos operacionais padrão)
+ORGANISING	(forma de organise) (verbo) organizar: estabelecer padrões de procedimentos (políticas, regulamentos, procedimentos operacionais padrão)
+ORGANISM	(substantivo) organismo: corpo organizado com existência própria
+ORGANISMS	(forma de organism) (substantivo) organismo: corpo organizado com existência própria
+ORGANIZATION	(substantivo) organização: ato ou efeito de organizar
+ORGANIZATIONAL	(adjetivo) organizacional: relativo à organização
+ORGANIZATIONALLY	(advérbio) organizacionalmente: do ponto de vista da organização (também: organizativamente)
+ORGANIZATIONS	(forma de organization) (substantivo) organização: ato ou efeito de organizar
+ORGANIZE	(verbo) organizar: estabelecer padrões de procedimentos (políticas, regulamentos, procedimentos operacionais padrão)
+ORGANIZED	(adjetivo) organizado: que tem órgãos
+ORGANIZER	(substantivo) organizador: aquele que organiza
+ORGANIZERS	(forma de organizer) (substantivo) organizador: aquele que organiza
+ORGANIZES	(forma de organize) (verbo) organizar: estabelecer padrões de procedimentos (políticas, regulamentos, procedimentos operacionais padrão)
+ORGANIZING	(forma de organize) (verbo) organizar: estabelecer padrões de procedimentos (políticas, regulamentos, procedimentos operacionais padrão)
+ORGANOLOGIES	(forma de organology) (substantivo) organology se traduz como ⟪organologia⟫
+ORGANOLOGY	(substantivo) organology se traduz como ⟪organologia⟫
+ORGANUM	(substantivo) instrumento musical antecessor do órgão
+ORGANUMS	(forma de organum) (substantivo) instrumento musical antecessor do órgão
+ORGASM	(substantivo) orgasmo: reação do corpo durante o ato sexual ou masturbação, resultado de intensa excitação das zonas erógenas ou órgãos sexuais\n(verbo) ter (um) orgasmo, atingir o orgasmo
+ORGASMS	(forma de orgasm) (substantivo) orgasmo: reação do corpo durante o ato sexual ou masturbação, resultado de intensa excitação das zonas...
+ORGIES	(forma de orgy) (substantivo) orgia: desordem, desarmonia, desgoverno, confusão
+ORGY	(substantivo) orgia: desordem, desarmonia, desgoverno, confusão
+ORIENT	(substantivo) orient se traduz como ⟪oriente⟫\n(verbo) orientar: direcionar, colocar algo em uma posição determinada
+ORIENTAL	(adjetivo) oriental: que diz respeito ao Oriente
+ORIENTALLY	(advérbio) orientalmente: de modo oriental
+ORIENTALS	(forma de oriental) (adjetivo) oriental: que diz respeito ao Oriente
+ORIENTATE	(verbo) orientar: direcionar, colocar algo em uma posição determinada
+ORIENTATED	(forma de orientate) (verbo) orientar: direcionar, colocar algo em uma posição determinada
+ORIENTATES	(forma de orientate) (verbo) orientar: direcionar, colocar algo em uma posição determinada
+ORIENTATING	(forma de orientate) (verbo) orientar: direcionar, colocar algo em uma posição determinada
+ORIENTATION	(substantivo) orientação: arte de conhecer a situação geográfica em que se está
+ORIENTATIONS	(forma de orientation) (substantivo) orientação: arte de conhecer a situação geográfica em que se está
+ORIENTED	(substantivo) voltado: orientado (também: orientado)
+ORIENTING	(forma de orient) (substantivo) orient se traduz como ⟪oriente⟫
+ORIENTS	(forma de orient) (substantivo) orient se traduz como ⟪oriente⟫
+ORIFICE	(substantivo) orifice se traduz como ⟪orifício|ORIFICIO⟫
+ORIFICES	(forma de orifice) (substantivo) orifice se traduz como ⟪orifício|ORIFICIO⟫
+ORIGIN	(substantivo) origem: ponto inicial de uma ação ou coisa que tem continuidade no tempo e/ou no espaço; ponto de partida
+ORIGINAL	(adjetivo) original: relativo à origem ou ao começo de algo\n(substantivo) original: relativo à origem ou ao começo de algo
+ORIGINALITIES	(forma de originality) (substantivo) originality se traduz como ⟪originalidade⟫
+ORIGINALITY	(substantivo) originality se traduz como ⟪originalidade⟫
+ORIGINALS	(forma de original) (adjetivo) original: relativo à origem ou ao começo de algo
+ORIGINATE	(verbo) originar: dar origem, ser a causa:
+ORIGINATED	(forma de originate) (verbo) originar: dar origem, ser a causa:
+ORIGINATES	(forma de originate) (verbo) originar: dar origem, ser a causa:
+ORIGINATING	(forma de originate) (verbo) originar: dar origem, ser a causa:
+ORIGINATOR	(adjetivo) originator se traduz como ⟪causador⟫
+ORIGINATORS	(forma de originator) (adjetivo) originator se traduz como ⟪causador⟫
+ORIGINS	(forma de origin) (substantivo) origem: ponto inicial de uma ação ou coisa que tem continuidade no tempo e/ou no espaço; ponto de partida
+ORMER	(substantivo) abalone: molusco univalve edível, encontrado na maioria dos mares temperados; haliote
+ORMERS	(forma de ormer) (substantivo) abalone: molusco univalve edível, encontrado na maioria dos mares temperados; haliote
+ORNAMENT	(substantivo) enfeite: ornamento, adorno, atavio (também: ornato, ornamento)
+ORNAMENTAL	(adjetivo) ornamental: que é usado como ornamento ou adorno:\n(substantivo) ornamental se traduz como planta ornamental:
+ORNAMENTALLY	(advérbio) ornamentalmente: de forma ornamental
+ORNAMENTALS	(forma de ornamental) (adjetivo) ornamental: que é usado como ornamento ou adorno:
+ORNAMENTATION	(substantivo) ornamentação: ato ou efeito de ornamentar
+ORNAMENTATIONS	(forma de ornamentation) (substantivo) ornamentação: ato ou efeito de ornamentar
+ORNAMENTED	(forma de ornament) (substantivo) enfeite: ornamento, adorno, atavio (também: ornato, ornamento)
+ORNAMENTING	(forma de ornament) (substantivo) enfeite: ornamento, adorno, atavio (também: ornato, ornamento)
+ORNAMENTS	(forma de ornament) (substantivo) enfeite: ornamento, adorno, atavio (também: ornato, ornamento)
+ORNITHISCHIAN	(substantivo) ornitísquio: grupo (biologia) de dinossauros cujo principal caractere conspícuo é a conformação dos ossos da bacia similares à das aves por evolução confluente e não ancestral, maiormente herbívoros (alguns eram onívoros oportunistas), com espécies bípedes e outras quadrúpedes, que surgiram no período Carniano,...
+ORNITHISCHIANS	(forma de ornithischian) (substantivo) ornitísquio: grupo (biologia) de dinossauros cujo principal caractere conspícuo é a conformação dos ossos...
+ORNITHOLOGIES	(forma de ornithology) (substantivo) ornitologia: parte da zoologia (biologia) que estuda as aves
+ORNITHOLOGY	(substantivo) ornitologia: parte da zoologia (biologia) que estuda as aves
+OROGENIES	(forma de orogeny) (substantivo) orogenia: conjunto de processos que formam montanhas ou cadeias de montanhas produzidos pela compressão...
+OROGENY	(substantivo) orogenia: conjunto de processos que formam montanhas ou cadeias de montanhas produzidos pela compressão da litosfera (também: orogénese)
+OROGRAPHIC	(adjetivo) orográfico: relativo à orografia
+OROGRAPHIES	(forma de orography) (substantivo) orography se traduz como ⟪orografia⟫
+OROGRAPHY	(substantivo) orography se traduz como ⟪orografia⟫
+ORPHAN	(substantivo) órfão: aquele que perdeu o pai e a mãe ou um deles (também: órfã)
+ORPHANAGE	(substantivo) orfanato: estabelecimento de assistência social onde se recolhem órfãos; instituição que acolhe crianças e jovens que perderam os pais ou um deles ou estes não têm condiçãos para cuidar delas
+ORPHANAGES	(forma de orphanage) (substantivo) orfanato: estabelecimento de assistência social onde se recolhem órfãos; instituição que acolhe crianças...
+ORPHANED	(forma de orphan) (substantivo) órfão: aquele que perdeu o pai e a mãe ou um deles (também: órfã)
+ORPHANING	(forma de orphan) (substantivo) órfão: aquele que perdeu o pai e a mãe ou um deles (também: órfã)
+ORPHANS	(forma de orphan) (substantivo) órfão: aquele que perdeu o pai e a mãe ou um deles (também: órfã)
+ORTHODONTICS	(substantivo) ortodontia: parte da odontologia que estuda como prevenir e corrigir defeitos na posição dos dentes
+ORTHODOX	(adjetivo) orthodox se traduz como ⟪ortodoxo⟫
+ORTHODOXES	(forma de orthodox) (adjetivo) orthodox se traduz como ⟪ortodoxo⟫
+ORTHODOXLY	(advérbio) ortodoxamente: de modo ortodoxo
+ORTHOGONALLY	(advérbio) ortogonalmente: de forma ortogonal
+ORTHOGRAPHIC	(adjetivo) ortográfico: da ortografia
+ORTHOGRAPHICALLY	(advérbio) ortograficamente: de modo ortográfico
+ORTHOGRAPHIES	(forma de orthography) (substantivo) ortografia, ramo da gramática que trata da maneira correta de escrever as palavras de acordo com uma...
+ORTHOGRAPHY	(substantivo) ortografia, ramo da gramática que trata da maneira correta de escrever as palavras de acordo com uma norma pré-estabelecida
+ORTHOPEDICALLY	(advérbio) ortopedicamente: de modo ortopédico
+ORTHOPEDIST	(substantivo) ortopedista: profissional médico que se dedica à ortopedia
+ORTHOPEDISTS	(forma de orthopedist) (substantivo) ortopedista: profissional médico que se dedica à ortopedia
+ORYX	(substantivo) órix: uma espécie de antílope da África
+ORYXES	(forma de oryx) (substantivo) órix: uma espécie de antílope da África
+OSCILLATE	(verbo) oscilar: ter ou produzir oscilações
+OSCILLATED	(forma de oscillate) (verbo) oscilar: ter ou produzir oscilações
+OSCILLATES	(forma de oscillate) (verbo) oscilar: ter ou produzir oscilações
+OSCILLATING	(adjetivo) oscillating se traduz como ⟪basculante⟫, ⟪oscilante⟫
+OSCILLATION	(substantivo) oscilação: cada um dos vaivéns de um movimento oscilatório
+OSCILLATIONS	(forma de oscillation) (substantivo) oscilação: cada um dos vaivéns de um movimento oscilatório
+OSCILLATORY	(adjetivo) oscillatory se traduz como ⟪oscilatório|OSCILATORIO⟫
+OSMIUM	(substantivo) ósmio: elemento químico símbolo Os, possui o número atômico 76 e massa atômica relativa 190,23 u; é um metal de transição, azul grisáceo; é obtido sempre em conjunto com outros metais do grupo da platina; por ser muito duro, pouco dúctil e extremamente tóxico, é usado em ligas com outros metais, para...
+OSMIUMS	(forma de osmium) (substantivo) ósmio: elemento químico símbolo Os, possui o número atômico 76 e massa atômica relativa 190,23 u; é um...
+OSMOSIS	(substantivo) osmose: fenômeno produzido quando dois líquidos, de desigual concentração, separados por paredes que possuem certa porosidade, a atravessam e se misturam
+OSMOTICALLY	(advérbio) osmoticamente: de modo osmótico
+OSTENTATION	(substantivo) ostentação: exibição vaidosa
+OSTENTATIONS	(forma de ostentation) (substantivo) ostentação: exibição vaidosa
+OSTEOBLAST	(substantivo) osteoblasto: célula jovem formadora dos ossos
+OSTEOBLASTS	(forma de osteoblast) (substantivo) osteoblasto: célula jovem formadora dos ossos
+OSTEOCLAST	(substantivo) osteoclasto: célula cuja função é a reabsorção da matriz óssea, além da regeneração e da remodelação do tecido ósseo
+OSTEOCLASTS	(forma de osteoclast) (substantivo) osteoclasto: célula cuja função é a reabsorção da matriz óssea, além da regeneração e da remodelação do...
+OSTEOCYTE	(substantivo) osteócito: célula óssea madura, cuja função é a manutenção do osso.
+OSTEOCYTES	(forma de osteocyte) (substantivo) osteócito: célula óssea madura, cuja função é a manutenção do osso.
+OSTEOPATHIES	(forma de osteopathy) (substantivo) osteopatia: prática de medicina alternativa, que consiste na utilização de técnicas de mobilização e...
+OSTEOPATHY	(substantivo) osteopatia: prática de medicina alternativa, que consiste na utilização de técnicas de mobilização e manipulação articular, bem como de tecidos moles
+OSTEOPOROSIS	(substantivo) osteoporose: doença que atinge os ossos, caracterizada pela diminuição substancial de massa óssea, deixando os ossos ocos, finos e com sensíveis.
+OSTRACISE	(verbo) rejeitar: repelir; ostracizar
+OSTRACISED	(forma de ostracise) (verbo) rejeitar: repelir; ostracizar
+OSTRACISES	(forma de ostracise) (verbo) rejeitar: repelir; ostracizar
+OSTRACISING	(forma de ostracise) (verbo) rejeitar: repelir; ostracizar
+OSTRACISM	(substantivo) ostracismo: forma de punição política empregada inicialmente pelos atenienses e que significava a expulsão política e o exílio por um período de dez anos
+OSTRACISMS	(forma de ostracism) (substantivo) ostracismo: forma de punição política empregada inicialmente pelos atenienses e que significava a...
+OSTRACIZE	(verbo) rejeitar: repelir; ostracizar
+OSTRACIZED	(forma de ostracize) (verbo) rejeitar: repelir; ostracizar
+OSTRACIZES	(forma de ostracize) (verbo) rejeitar: repelir; ostracizar
+OSTRACIZING	(forma de ostracize) (verbo) rejeitar: repelir; ostracizar
+OSTRICH	(substantivo) avestruz: pessoa estúpida ou ignorante
+OSTRICHES	(substantivo) forma plural de ostrich:
+OTHER	(verbo) tratar (determinado grupo social) como diferente e estranho; alienar
+OTHERS	(forma de other) (verbo) tratar (determinado grupo social) como diferente e estranho; alienar
+OTHERWISE	(adjetivo) otherwise se traduz como contrário:\n(advérbio) diferentemente, de modo diferente, de outra forma:
+OTITIS	(substantivo) otite: inflamação ou das cavidades da orelha média, ou da mucosa que as recobre ou da membrana do tímpano
+OTOLARYNGOLOGIES	(forma de otolaryngology) (substantivo) otorrinolaringologia: parte da medicina que cuida das doenças do ouvido, do nariz e seios paranasais,...
+OTOLARYNGOLOGY	(substantivo) otorrinolaringologia: parte da medicina que cuida das doenças do ouvido, do nariz e seios paranasais, faringe, laringe, cabeça e pescoço
+OTOSCOPE	(substantivo) otoscópio: equipamento médico utilizado para exames no ouvido
+OTOSCOPES	(substantivo) plural de otoscope: otoscópio
+OTTER	(substantivo) otter se traduz como ⟪lontra⟫
+OTTERS	(forma de otter) (substantivo) otter se traduz como ⟪lontra⟫
+OUCH	(interjeição) ai: expressa dor física ou sentimental (também: au, hui)
+OUCHED	(forma de ouch) (interjeição) ai: expressa dor física ou sentimental (também: au, hui)
+OUCHES	(forma de ouch) (interjeição) ai: expressa dor física ou sentimental (também: au, hui)
+OUCHING	(forma de ouch) (interjeição) ai: expressa dor física ou sentimental (também: au, hui)
+OUGHT	(verbo) dever: ter que, precisar (também: ter que)
+OUGHTED	(forma de ought) (verbo) dever: ter que, precisar (também: ter que)
+OUGHTING	(forma de ought) (verbo) dever: ter que, precisar (também: ter que)
+OUGHTS	(forma de ought) (verbo) dever: ter que, precisar (também: ter que)
+OUNCE	(substantivo) onça: unidade de medida de massa equivalente a 28,3496525 gramas
+OUNCES	(forma de ounce) (substantivo) onça: unidade de medida de massa equivalente a 28,3496525 gramas
+OUR	(pronome) nosso: que pertence a nós (também: nossos, da gente)
+OURS	(pronome) nosso: que pertence a nós
+OURSELVES	(pronome) nos, a nós próprios, pronome reflexivo da primeira pessoa do plural:
+OUT	(adjetivo) que se revelou ser homossexual\n(advérbio) fora: exteriormente
+OUTAGE	(substantivo) suspensão temporária de um serviço
+OUTAGES	(forma de outage) (substantivo) suspensão temporária de um serviço
+OUTBREAK	(substantivo) surto: irrupção (de doença)
+OUTBREAKS	(forma de outbreak) (substantivo) surto: irrupção (de doença)
+OUTDATED	(adjetivo) desatualizado: ultrapassado, antigo, caduco
+OUTDATEDLY	(forma de outdated) (adjetivo) desatualizado: ultrapassado, antigo, caduco
+OUTDOOR	(adjetivo) ao ar livre, a céu aberto
+OUTED	(forma de out) (adjetivo) que se revelou ser homossexual
+OUTER	(adjetivo) externo: aquilo que está do lado de fora
+OUTERS	(forma de outer) (adjetivo) externo: aquilo que está do lado de fora
+OUTFIT	(substantivo) outfit se traduz como ⟪traje⟫
+OUTFITS	(forma de outfit) (substantivo) outfit se traduz como ⟪traje⟫
+OUTFITTED	(forma de outfit) (substantivo) outfit se traduz como ⟪traje⟫
+OUTFITTING	(forma de outfit) (substantivo) outfit se traduz como ⟪traje⟫
+OUTGOING	(adjetivo) outgoing se traduz como sainte, de saída
+OUTHOUSE	(substantivo) casinha: banheiro fora da área principal da casa
+OUTHOUSES	(forma de outhouse) (substantivo) casinha: banheiro fora da área principal da casa
+OUTING	(forma de out) (adjetivo) que se revelou ser homossexual
+OUTINGS	(forma de out) (adjetivo) que se revelou ser homossexual
+OUTLAND	(substantivo) outland se traduz como ⟪exilado⟫
+OUTLANDS	(forma de outland) (substantivo) outland se traduz como ⟪exilado⟫
+OUTLAW	(substantivo) outlaw se traduz como fora-da-lei\n(verbo) outlaw se traduz como declarar ilegal
+OUTLAWED	(forma de outlaw) (substantivo) outlaw se traduz como fora-da-lei
+OUTLAWING	(forma de outlaw) (substantivo) outlaw se traduz como fora-da-lei
+OUTLAWS	(forma de outlaw) (substantivo) outlaw se traduz como fora-da-lei
+OUTLIE	(verbo) ficar do lado de fora, ou nos extremos ou na periferia de
+OUTLIER	(substantivo) um ponto fora da curva
+OUTLIERS	(forma de outlier) (substantivo) um ponto fora da curva
+OUTLIES	(forma de outlie) (verbo) ficar do lado de fora, ou nos extremos ou na periferia de
+OUTLINE	(substantivo) outline se traduz como ⟪esquema⟫
+OUTLINED	(forma de outline) (substantivo) outline se traduz como ⟪esquema⟫
+OUTLINER	(forma de outline) (substantivo) outline se traduz como ⟪esquema⟫
+OUTLINES	(forma de outline) (substantivo) outline se traduz como ⟪esquema⟫
+OUTLINING	(forma de outline) (substantivo) outline se traduz como ⟪esquema⟫
+OUTLOOK	(substantivo) outlook se traduz como ⟪perspectiva⟫
+OUTLOOKS	(forma de outlook) (substantivo) outlook se traduz como ⟪perspectiva⟫
+OUTMOST	(adjetivo) externo: aquilo que está do lado de fora
+OUTNUMBER	(verbo) sobrenumerar, superar em número
+OUTNUMBERED	(forma de outnumber) (verbo) sobrenumerar, superar em número
+OUTNUMBERING	(forma de outnumber) (verbo) sobrenumerar, superar em número
+OUTNUMBERS	(forma de outnumber) (verbo) sobrenumerar, superar em número
+OUTPERFORM	(verbo) superar em perfórmance
+OUTPERFORMED	(forma de outperform) (verbo) superar em perfórmance
+OUTPERFORMING	(forma de outperform) (verbo) superar em perfórmance
+OUTPERFORMS	(forma de outperform) (verbo) superar em perfórmance
+OUTPUT	(substantivo) saída: ação final de conclusão de apresentação
+OUTPUTS	(forma de output) (substantivo) saída: ação final de conclusão de apresentação
+OUTPUTTED	(forma de output) (substantivo) saída: ação final de conclusão de apresentação
+OUTPUTTING	(forma de output) (substantivo) saída: ação final de conclusão de apresentação
+OUTRAGE	(verbo) ofender: fazer ofensa
+OUTRAGED	(forma de outrage) (verbo) ofender: fazer ofensa
+OUTRAGEOUS	(adjetivo) imoral: contrário à moral (também: escandaloso, aberrante)
+OUTRAGEOUSLY	(advérbio) ultrajantemente: de forma ultrajante
+OUTRAGES	(forma de outrage) (verbo) ofender: fazer ofensa
+OUTRAGING	(forma de outrage) (verbo) ofender: fazer ofensa
+OUTRIGHT	(advérbio) outright se traduz como ⟪abertamente⟫
+OUTRIGHTLY	(forma de outright) (advérbio) outright se traduz como ⟪abertamente⟫
+OUTS	(forma de out) (adjetivo) que se revelou ser homossexual
+OUTSELL	(verbo) superar em venda(s), superar em vendagem, vender mais que, vender mais do que
+OUTSELLING	(forma de outsell) (verbo) superar em venda(s), superar em vendagem, vender mais que, vender mais do que
+OUTSELLS	(forma de outsell) (verbo) superar em venda(s), superar em vendagem, vender mais que, vender mais do que
+OUTSIDE	(adjetivo) outside se traduz como ⟪fora⟫, de fora\n(advérbio) outside se traduz como ⟪fora⟫
+OUTSIDER	(substantivo) alguém que não é parte de uma comunidade ou organização
+OUTSIDERS	(forma de outsider) (substantivo) alguém que não é parte de uma comunidade ou organização
+OUTSIDES	(forma de outside) (adjetivo) outside se traduz como ⟪fora⟫, de fora
+OUTSOLD	(forma de outsell) (verbo) superar em venda(s), superar em vendagem, vender mais que, vender mais do que
+OUTSOURCING	(substantivo) terceirização: ato ou efeito de terceirizar\n(verbo) gerúndio do verbo outsource
+OUTSTANDING	(adjetivo) eminente: que excede os outros, excelente
+OUTVOTE	(verbo) derrotar no voto, derrotar em votos, superar em votos, superar no voto, vencer em votos, vencer no voto
+OUTVOTED	(forma de outvote) (verbo) derrotar no voto, derrotar em votos, superar em votos, superar no voto, vencer em votos, vencer no voto
+OUTVOTES	(forma de outvote) (verbo) derrotar no voto, derrotar em votos, superar em votos, superar no voto, vencer em votos, vencer no voto
+OUTVOTING	(forma de outvote) (verbo) derrotar no voto, derrotar em votos, superar em votos, superar no voto, vencer em votos, vencer no voto
+OUTWARD	(advérbio) outward se traduz como para fora
+OUTWARDS	(advérbio) outwards se traduz como para fora
+OVA	(forma de ovum) (substantivo) ovum se traduz como óvolo
+OVAL	(adjetivo) oval: curva plana fechada, alongada como um ovo
+OVALS	(forma de oval) (adjetivo) oval: curva plana fechada, alongada como um ovo
+OVEN	(substantivo) forno: construção abobadada onde se coze o pão, se assam alimentos, se coze louça, etc
+OVENS	(forma de oven) (substantivo) forno: construção abobadada onde se coze o pão, se assam alimentos, se coze louça, etc
+OVER	(adjetivo) over se traduz como mais alto\n(advérbio) over se traduz como por cima
+OVERALL	(adjetivo) overall se traduz como ⟪abrangente⟫\n(advérbio) overall se traduz como em geral
+OVERALLED	(forma de overall) (adjetivo) overall se traduz como ⟪abrangente⟫
+OVERALLS	(forma de overall) (adjetivo) overall se traduz como ⟪abrangente⟫
+OVERCAME	(forma de overcome) (verbo) superar: ser superior a
+OVERCAST	(verbo) encobrir: ficar tomado de nuvens\n(adjetivo) overcast se traduz como ⟪encoberto⟫
+OVERCASTED	(forma de overcast) (verbo) encobrir: ficar tomado de nuvens
+OVERCASTING	(forma de overcast) (verbo) encobrir: ficar tomado de nuvens
+OVERCASTINGS	(forma de overcast) (verbo) encobrir: ficar tomado de nuvens
+OVERCASTS	(forma de overcast) (verbo) encobrir: ficar tomado de nuvens
+OVERCOAT	(substantivo) sobretudo: casacão que se veste sobre todas as outras roupas como resguardo contra o frio (também: paletó)
+OVERCOATS	(forma de overcoat) (substantivo) sobretudo: casacão que se veste sobre todas as outras roupas como resguardo contra o frio (também: paletó)
+OVERCOME	(verbo) superar: ser superior a
+OVERCOMES	(forma de overcome) (verbo) superar: ser superior a
+OVERCOMING	(forma de overcome) (verbo) superar: ser superior a
+OVERDRIVE	(substantivo) marcha acima da marcha máxima de um automóvel\n(verbo) dirigir "pesado", além dos limites
+OVERDRIVEN	(forma de overdrive) (substantivo) marcha acima da marcha máxima de um automóvel
+OVERDRIVES	(forma de overdrive) (substantivo) marcha acima da marcha máxima de um automóvel
+OVERDRIVING	(forma de overdrive) (substantivo) marcha acima da marcha máxima de um automóvel
+OVERDROVE	(forma de overdrive) (substantivo) marcha acima da marcha máxima de um automóvel
+OVERED	(forma de over) (adjetivo) over se traduz como mais alto
+OVERESTIMATE	(verbo) superestimar: calcular o valor de algo acima de seu valor real
+OVERESTIMATED	(forma de overestimate) (verbo) superestimar: calcular o valor de algo acima de seu valor real
+OVERESTIMATES	(forma de overestimate) (verbo) superestimar: calcular o valor de algo acima de seu valor real
+OVERESTIMATING	(forma de overestimate) (verbo) superestimar: calcular o valor de algo acima de seu valor real
+OVERFLOW	(verbo) overflow se traduz como ⟪transbordar⟫
+OVERFLOWED	(forma de overflow) (verbo) overflow se traduz como ⟪transbordar⟫
+OVERFLOWING	(forma de overflow) (verbo) overflow se traduz como ⟪transbordar⟫
+OVERFLOWN	(forma de overflow) (verbo) overflow se traduz como ⟪transbordar⟫
+OVERFLOWS	(forma de overflow) (verbo) overflow se traduz como ⟪transbordar⟫
+OVERFLYING	(substantivo) sobrevoo: vide sobrevoo
+OVERHAUL	(verbo) vistoriar: fazer vistoria
+OVERHAULED	(forma de overhaul) (verbo) vistoriar: fazer vistoria
+OVERHAULING	(forma de overhaul) (verbo) vistoriar: fazer vistoria
+OVERHAULS	(forma de overhaul) (verbo) vistoriar: fazer vistoria
+OVERHEAT	(verbo) overheat se traduz como superaquecer
+OVERHEATED	(forma de overheat) (verbo) overheat se traduz como superaquecer
+OVERHEATING	(substantivo) overheating se traduz como superaquecimento\n(verbo) particípio presente do verbo overheat:
+OVERHEATS	(forma de overheat) (verbo) overheat se traduz como superaquecer
+OVERING	(forma de over) (adjetivo) over se traduz como mais alto
+OVERJOY	(verbo) enlevar: encantar
+OVERJOYED	(forma de overjoy) (verbo) enlevar: encantar
+OVERJOYING	(forma de overjoy) (verbo) enlevar: encantar
+OVERJOYS	(forma de overjoy) (verbo) enlevar: encantar
+OVERKILL	(substantivo) overkill se traduz como ⟪exagero⟫\n(verbo) sobrematar: matar com artifício que excede em muito ou muitas vezes aquilo que é necessário para fazer morrer
+OVERKILLS	(forma de overkill) (substantivo) overkill se traduz como ⟪exagero⟫
+OVERLAP	(verbo) overlap se traduz como sobrepor-se
+OVERLAPPED	(forma de overlap) (verbo) overlap se traduz como sobrepor-se
+OVERLAPPING	(forma de overlap) (verbo) overlap se traduz como sobrepor-se
+OVERLAPS	(forma de overlap) (verbo) overlap se traduz como sobrepor-se
+OVERLOOK	(substantivo) mirante: local elevado de onde se pode observar um panorama (também: vista)\n(verbo) olhar de um ponto de vista superior
+OVERLOOKED	(forma de overlook) (substantivo) mirante: local elevado de onde se pode observar um panorama (também: vista)
+OVERLOOKING	(forma de overlook) (substantivo) mirante: local elevado de onde se pode observar um panorama (também: vista)
+OVERLOOKS	(forma de overlook) (substantivo) mirante: local elevado de onde se pode observar um panorama (também: vista)
+OVERNIGHT	(adjetivo) noturno: relativo à noite (período entre o pôr-do-sol até o nascer-do-sol)
+OVERNIGHTED	(forma de overnight) (adjetivo) noturno: relativo à noite (período entre o pôr-do-sol até o nascer-do-sol)
+OVERNIGHTING	(forma de overnight) (adjetivo) noturno: relativo à noite (período entre o pôr-do-sol até o nascer-do-sol)
+OVERNIGHTS	(forma de overnight) (adjetivo) noturno: relativo à noite (período entre o pôr-do-sol até o nascer-do-sol)
+OVERPASS	(substantivo) overpass se traduz como ⟪viaduto⟫
+OVERPASSED	(forma de overpass) (substantivo) overpass se traduz como ⟪viaduto⟫
+OVERPASSES	(forma de overpass) (substantivo) overpass se traduz como ⟪viaduto⟫
+OVERPASSING	(forma de overpass) (substantivo) overpass se traduz como ⟪viaduto⟫
+OVERPRICE	(substantivo) overprice se traduz como sobrepreço
+OVERPRICED	(forma de overprice) (substantivo) overprice se traduz como sobrepreço
+OVERPRICES	(forma de overprice) (substantivo) overprice se traduz como sobrepreço
+OVERPRICING	(forma de overprice) (substantivo) overprice se traduz como sobrepreço
+OVERRIDDEN	(forma de override) (verbo) passar por cima
+OVERRIDE	(verbo) passar por cima\n(substantivo) excesso de uma estimativa
+OVERRIDES	(forma de override) (verbo) passar por cima
+OVERRIDING	(forma de override) (verbo) passar por cima
+OVERRODE	(forma de override) (verbo) passar por cima
+OVERS	(forma de over) (adjetivo) over se traduz como mais alto
+OVERSAW	(forma de oversee) (verbo) oversee se traduz como supervisar
+OVERSEE	(verbo) oversee se traduz como supervisar
+OVERSEED	(forma de oversee) (verbo) oversee se traduz como supervisar
+OVERSEEING	(forma de oversee) (verbo) oversee se traduz como supervisar
+OVERSEEN	(forma de oversee) (verbo) oversee se traduz como supervisar
+OVERSEER	(substantivo) feitor: capataz; administrador de trabalhadores ou de uma fazenda
+OVERSEERS	(forma de overseer) (substantivo) feitor: capataz; administrador de trabalhadores ou de uma fazenda
+OVERSEES	(forma de oversee) (verbo) oversee se traduz como supervisar
+OVERSELL	(substantivo) oversell se traduz como ⟪sobrevenda⟫
+OVERSELLING	(substantivo) overselling se traduz como ⟪sobrevenda⟫
+OVERSELLS	(forma de oversell) (substantivo) oversell se traduz como ⟪sobrevenda⟫
+OVERSLEEP	(verbo) adormecer: ir da condição de estar desperto à de estar a dormir (também: dormir demais)
+OVERSLEEPING	(forma de oversleep) (verbo) adormecer: ir da condição de estar desperto à de estar a dormir (também: dormir demais)
+OVERSLEEPS	(forma de oversleep) (verbo) adormecer: ir da condição de estar desperto à de estar a dormir (também: dormir demais)
+OVERSLEPT	(forma de oversleep) (verbo) adormecer: ir da condição de estar desperto à de estar a dormir (também: dormir demais)
+OVERSTEP	(verbo) avançar: ir além de
+OVERSTEPPED	(forma de overstep) (verbo) avançar: ir além de
+OVERSTEPPING	(forma de overstep) (verbo) avançar: ir além de
+OVERSTEPS	(forma de overstep) (verbo) avançar: ir além de
+OVERTIME	(substantivo) prolongamento: Período suplementar de jogo, variável segundo a modalidade desportiva, que se segue ao tempo regulamentar de jogo em caso de empate. Equivalente à prorrogação no Brasil. (também: hora extra, prorrogação)
+OVERTIMED	(forma de overtime) (substantivo) prolongamento: Período suplementar de jogo, variável segundo a modalidade desportiva, que se segue ao...
+OVERTIMES	(forma de overtime) (substantivo) prolongamento: Período suplementar de jogo, variável segundo a modalidade desportiva, que se segue ao...
+OVERTIMING	(forma de overtime) (substantivo) prolongamento: Período suplementar de jogo, variável segundo a modalidade desportiva, que se segue ao...
+OVERVIEW	(substantivo) apanhado: resumo (também: visão geral)
+OVERVIEWS	(forma de overview) (substantivo) apanhado: resumo (também: visão geral)
+OVERWEIGHT	(substantivo) gordo: pessoa gorda, obesa
+OVERWEIGHTED	(forma de overweight) (substantivo) gordo: pessoa gorda, obesa
+OVERWEIGHTING	(forma de overweight) (substantivo) gordo: pessoa gorda, obesa
+OVERWEIGHTS	(forma de overweight) (substantivo) gordo: pessoa gorda, obesa
+OVERWHELM	(verbo) oprimir: ocasionar aflição, sofrimento a; afligir (também: esmagar)
+OVERWHELMED	(forma de overwhelm) (verbo) oprimir: ocasionar aflição, sofrimento a; afligir (também: esmagar)
+OVERWHELMING	(adjetivo) overwhelming se traduz como ⟪esmagador⟫, ⟪irresistível|IRRESISTIVEL⟫
+OVERWHELMINGLY	(advérbio) avassaladoramente: de forma avassaladora
+OVERWHELMS	(forma de overwhelm) (verbo) oprimir: ocasionar aflição, sofrimento a; afligir (também: esmagar)
+OVERWRITE	(substantivo) ato de escrever por cima de algo escrito anteriormente:\n(verbo) escrever de maneira confusa ou desnecessariamente detalhada
+OVERWRITES	(forma de overwrite) (substantivo) ato de escrever por cima de algo escrito anteriormente:
+OVERWRITING	(forma de overwrite) (substantivo) ato de escrever por cima de algo escrito anteriormente:
+OVERWRITTEN	(forma de overwrite) (substantivo) ato de escrever por cima de algo escrito anteriormente:
+OVERWROTE	(forma de overwrite) (substantivo) ato de escrever por cima de algo escrito anteriormente:
+OVERWROUGHT	(adjetivo) alterado: inquieto, desassossegado, agitado
+OVIDUCT	(substantivo) oviduto: canal pelo qual os ovos passam do ovário para fora do corpo do animal
+OVIDUCTS	(forma de oviduct) (substantivo) oviduto: canal pelo qual os ovos passam do ovário para fora do corpo do animal
+OVINE	(adjetivo) ovino: designativo que pode ser aplicado indistintamente a qualquer exemplar de Ovis aries, seja ao próprio carneiro, à ovelha ou ao cordeiro\n(substantivo) ovino: designativo que pode ser aplicado indistintamente a qualquer exemplar de Ovis aries, seja ao próprio carneiro, à ovelha ou ao cordeiro
+OVINES	(forma de ovine) (adjetivo) ovino: designativo que pode ser aplicado indistintamente a qualquer exemplar de Ovis aries, seja ao próprio...
+OVIPAROUS	(substantivo) ovíparo: animal ovíparo
+OVOID	(adjetivo) ovoide: diz-se de partes ou órgãos de uma planta cujo formato é similar ou lembra o ovo
+OVOIDS	(forma de ovoid) (adjetivo) ovoide: diz-se de partes ou órgãos de uma planta cujo formato é similar ou lembra o ovo
+OVULATION	(substantivo) ovulação: amadurecimento e desprendimento do óvulo do ovário
+OVULATIONS	(forma de ovulation) (substantivo) ovulação: amadurecimento e desprendimento do óvulo do ovário
+OVUM	(substantivo) ovum se traduz como óvolo
+OWE	(verbo) dever, ficar em débito
+OWED	(verbo) passado simples owe: dever, ficar em débito
+OWES	(verbo) 3ª pessoa do singular de owe: dever, ficar em débito
+OWING	(verbo) gerúndio de owe: dever, ficar em débito
+OWL	(substantivo) coruja, mocho, ave da ordem Strigiformes:
+OWLS	(forma de owl) (substantivo) coruja, mocho, ave da ordem Strigiformes:
+OWN	(verbo) own se traduz como ⟪possuir⟫\n(adjetivo) próprio: adequado, conveniente, oportuno
+OWNED	(forma de own) (verbo) own se traduz como ⟪possuir⟫
+OWNER	(substantivo) dono: possuidor de alguma coisa (também: proprietário)
+OWNERS	(forma de owner) (substantivo) dono: possuidor de alguma coisa (também: proprietário)
+OWNING	(forma de own) (verbo) own se traduz como ⟪possuir⟫
+OWNS	(forma de own) (verbo) own se traduz como ⟪possuir⟫
+OXEN	(substantivo) plural de ox
+OXIDATION	(substantivo) oxidação: reação na qual uma substância perde elétrons
+OXIDATIONS	(forma de oxidation) (substantivo) oxidação: reação na qual uma substância perde elétrons
+OXIDE	(substantivo) óxido: designação genérica dos compostos químicos binários formados por átomos de oxigênio e outros elementos, onde o oxigênio é mais eletronegativo
+OXIDES	(forma de oxide) (substantivo) óxido: designação genérica dos compostos químicos binários formados por átomos de oxigênio e outros...
+OXIDIZABLE	(adjetivo) oxidável: que se pode oxidar
+OXYGEN	(substantivo) oxygen se traduz como oxigénio/oxigênio
+OXYGENS	(forma de oxygen) (substantivo) oxygen se traduz como oxigénio/oxigênio
+OXYMORA	(forma de oxymoron) (substantivo) oxymoron se traduz como oxímoro:
+OXYMORON	(substantivo) oxymoron se traduz como oxímoro:
+OXYMORONS	(forma de oxymoron) (substantivo) oxymoron se traduz como oxímoro:
+OXYTONE	(adjetivo) oxytone se traduz como oxítona\n(substantivo) oxytone se traduz como oxítona
+OXYTONES	(forma de oxytone) (adjetivo) oxytone se traduz como oxítona
+OYSTER	(substantivo) ostra: nome comum a vários moluscos bivalves da família dos ostreídeos, alguns tendo importância econômica por serem comestíveis e de alto valor nutritivo, outras espécies que são cultivadas para a produção de pérolas, que vivem fixados a alguma base
+OYSTERED	(forma de oyster) (substantivo) ostra: nome comum a vários moluscos bivalves da família dos ostreídeos, alguns tendo importância...
+OYSTERER	(forma de oyster) (substantivo) ostra: nome comum a vários moluscos bivalves da família dos ostreídeos, alguns tendo importância...
+OYSTERING	(forma de oyster) (substantivo) ostra: nome comum a vários moluscos bivalves da família dos ostreídeos, alguns tendo importância...
+OYSTERINGS	(forma de oyster) (substantivo) ostra: nome comum a vários moluscos bivalves da família dos ostreídeos, alguns tendo importância...
+OYSTERS	(forma de oyster) (substantivo) ostra: nome comum a vários moluscos bivalves da família dos ostreídeos, alguns tendo importância...
+OZONE	(substantivo) ozone se traduz como ⟪ozônio|OZONIO⟫
+OZONES	(forma de ozone) (substantivo) ozone se traduz como ⟪ozônio|OZONIO⟫

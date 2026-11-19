@@ -1,0 +1,567 @@
+UBIQUINONES	(ad) çoğul çekimi: ubiquinone
+UBIQUITOUS	(sıfat) aynı zamanda her yerde bulunan
+UBIQUITOUSLY	(ubiquitous sözcüğünün çekimi) (sıfat) aynı zamanda her yerde bulunan
+UDDER	(ad) meme: vücudun herhangi bir yerinde oluşmuş küçük çıkıntı; bicik, emcek, emcik
+UDDERS	(udder sözcüğünün çekimi) (ad) meme: vücudun herhangi bir yerinde oluşmuş küçük çıkıntı; bicik, emcek, emcik
+UDOMETERS	(ad) çoğul çekimi: udometer
+UGLIER	(ugly sözcüğünün çekimi) (sıfat) ugly kelimesinin karşılığı: ⟪çirkin|ÇİRKİN⟫
+UGLIEST	(ugly sözcüğünün çekimi) (sıfat) ugly kelimesinin karşılığı: ⟪çirkin|ÇİRKİN⟫
+UGLY	(sıfat) ugly kelimesinin karşılığı: ⟪çirkin|ÇİRKİN⟫\n(ad) ugly kelimesinin karşılığı: ⟪çirkinlik|ÇİRKİNLİK⟫
+ULANS	(ad) çoğul çekimi: ulan
+ULCER	(ad) ülser: Sindirim organlarında ve özellikle mide ile onikiparmak bağırsağında görülen yara, karha
+ULCERATIONS	(ad) çoğul çekimi: ulceration
+ULCERING	(ulcer sözcüğünün çekimi) (ad) ülser: Sindirim organlarında ve özellikle mide ile onikiparmak bağırsağında görülen yara, karha
+ULCERS	(ad) çoğul çekimi: ulcer
+ULLAGES	(ad) çoğul çekimi: ullage
+ULSTERS	(ad) çoğul çekimi: ulster
+ULTIMATA	(ultimatum sözcüğünün çekimi) (ad) ultimatum kelimesinin karşılığı: ⟪ültimatom|ÜLTİMATOM⟫
+ULTIMATELY	(zarf) ultimately kelimesinin karşılığı: eninde sonunda
+ULTIMATES	(ad) çoğul çekimi: ultimate
+ULTIMATUM	(ad) ultimatum kelimesinin karşılığı: ⟪ültimatom|ÜLTİMATOM⟫
+ULTIMATUMS	(ultimatum sözcüğünün çekimi) (ad) ultimatum kelimesinin karşılığı: ⟪ültimatom|ÜLTİMATOM⟫
+ULTRA	(sıfat) aşırı: Gereğinden fazla olarak.
+ULTRACENTRIFUGES	(ad) çoğul çekimi: ultracentrifuge
+ULTRAMODERN	(sıfat) ultramodern: Düşünce, eğilim, üslup için en üst sınırda olan, çok modern olan.
+ULTRAS	(ad) çoğul çekimi: ultra
+ULTRASONIC	(sıfat) ultrasonic kelimesinin karşılığı: ultrasonik
+ULTRAVIOLET	(ad) ultraviolet kelimesinin karşılığı: ⟪morötesi|MORÖTESİ⟫
+ULTRAVIOLETS	(ultraviolet sözcüğünün çekimi) (ad) ultraviolet kelimesinin karşılığı: ⟪morötesi|MORÖTESİ⟫
+ULULATIONS	(ad) çoğul çekimi: ululation
+UMBELLETS	(ad) çoğul çekimi: umbellet
+UMBELLIFERS	(ad) çoğul çekimi: umbellifer
+UMBELS	(ad) çoğul çekimi: umbel
+UMBER	(ad) umber kelimesinin karşılığı: gölge balığı
+UMBERED	(umber sözcüğünün çekimi) (ad) umber kelimesinin karşılığı: gölge balığı
+UMBERING	(umber sözcüğünün çekimi) (ad) umber kelimesinin karşılığı: gölge balığı
+UMBERS	(umber sözcüğünün çekimi) (ad) umber kelimesinin karşılığı: gölge balığı
+UMBILICI	(umbilicus sözcüğünün çekimi) (ad) göbek: Dölütte, yumurtanın dölüt dışında kalan bölümlerle ilişkisini sağlayan organların çıktığı yer
+UMBILICUS	(ad) göbek: Dölütte, yumurtanın dölüt dışında kalan bölümlerle ilişkisini sağlayan organların çıktığı yer
+UMBILICUSES	(ad) çoğul çekimi: umbilicus
+UMBOS	(ad) çoğul çekimi: umbo
+UMBRAGES	(ad) çoğul çekimi: umbrage
+UMBRELLA	(ad) şemsiye: bir sapın üzerinde esnek tellere gerilmiş, açılıp kapanabilen, yağmur ve güneşten korunmak için kullanılan, su geçirmez kumaştan yapılmış taşınabilir eşya
+UMBRELLAED	(umbrella sözcüğünün çekimi) (ad) şemsiye: bir sapın üzerinde esnek tellere gerilmiş, açılıp kapanabilen, yağmur ve güneşten korunmak için...
+UMBRELLAING	(umbrella sözcüğünün çekimi) (ad) şemsiye: bir sapın üzerinde esnek tellere gerilmiş, açılıp kapanabilen, yağmur ve güneşten korunmak için...
+UMBRELLAS	(ad) umbrella sözcüğünün çoğul çekimi: şemsiye
+UMLAUT	(ad) umlaut kelimesinin karşılığı: tını değişimi
+UMLAUTING	(umlaut sözcüğünün çekimi) (ad) umlaut kelimesinin karşılığı: tını değişimi
+UMLAUTS	(ad) çoğul çekimi: umlaut
+UMPIRE	(ad) hakem: Karşılaşmaları, yarışmaları kurallara uygun ve yansız olarak yöneten kişi, futbol maçlarının kurallarının uygulanmasından sorumlu olan ve saha içinde yönetim yetkisine sahip olan kişi.
+UMPIRED	(umpire sözcüğünün çekimi) (ad) hakem: Karşılaşmaları, yarışmaları kurallara uygun ve yansız olarak yöneten kişi, futbol maçlarının kurallarının...
+UMPIRES	(ad) çoğul çekimi: umpire
+UMPIRING	(umpire sözcüğünün çekimi) (ad) hakem: Karşılaşmaları, yarışmaları kurallara uygun ve yansız olarak yöneten kişi, futbol maçlarının kurallarının...
+UNABASHED	(sıfat) utanmaz: utanması olmayan, sıkılmaz, yüzsüz, arsız (ayrıca: küstah, gururlu)
+UNACCEPTABLE	(sıfat) unacceptable kelimesinin karşılığı: kabul edilemez
+UNAMBIGUOUS	(sıfat) açık: evişme sahnelerini bütün çıplaklığıyla anlatan (kitap, resim, film vb.). (ayrıca: belirsizlik içermeyen, muğlak olmayan)
+UNARMED	(sıfat) silahsız: silahı olmadan:
+UNASSUMING	(sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: alçak gönüllü, iddiasız)
+UNATTENDED	(sıfat) başıboş: (mecaz) yönetimsiz, baskısız, denetimsiz biçimde
+UNAVOIDABLE	(sıfat) kaçınılmaz: istek ve irade dışında olan
+UNBALANCED	(sıfat) dengesiz: (mecaz) tutum ve davranışlarında uyum olmayan, istikrarsız, kararsız
+UNBELIEVABLE	(sıfat) inanılmaz: inanılması çok güç veya imkânsız olan
+UNBELIEVER	(ad) inanmayan: belli bir inanca sahip olmayan kimse
+UNBELIEVERS	(ad) çoğul çekimi: unbeliever
+UNBELIEVING	(sıfat) unbelieving kelimesinin karşılığı: ⟪inanmayan|İNANMAYAN⟫, ⟪kuşkucu|KUŞKUCU⟫, ⟪şüpheci|ŞÜPHECİ⟫
+UNBLOCKS	(ad) çoğul çekimi: unblock
+UNBUTTON	(eylem) unbutton kelimesinin karşılığı: düğmelerini çözmek
+UNBUTTONED	(unbutton sözcüğünün çekimi) (eylem) unbutton kelimesinin karşılığı: düğmelerini çözmek
+UNBUTTONING	(unbutton sözcüğünün çekimi) (eylem) unbutton kelimesinin karşılığı: düğmelerini çözmek
+UNBUTTONS	(unbutton sözcüğünün çekimi) (eylem) unbutton kelimesinin karşılığı: düğmelerini çözmek
+UNCANNIER	(uncanny sözcüğünün çekimi) (sıfat) esrarengiz, tuhaf, rahatsız edici düzeyde acayip
+UNCANNIEST	(uncanny sözcüğünün çekimi) (sıfat) esrarengiz, tuhaf, rahatsız edici düzeyde acayip
+UNCANNY	(sıfat) esrarengiz, tuhaf, rahatsız edici düzeyde acayip\n(ad) tanıdık olup rahatsız edici bir his uyandıran durum
+UNCEASING	(sıfat) devamlı: sürekli, bitmeyen, kesintiye uğramayan bir şekilde
+UNCENSORED	(sıfat) uncensored kelimesinin karşılığı: sansürsüz
+UNCERTAINTIES	(ad) çoğul çekimi: uncertainty
+UNCHARTED	(sıfat) keşfedilmemiş: Var olmasına rağmen kimsenin görmediği, bilmediği bir yer veya bir şey. (ayrıca: haritalandırılmamış, gidip görülmemiş)
+UNCIVIL	(sıfat) saygısız: Saygısı olmayan, saygı göstermeyen (ayrıca: hürmetsiz, riayetsiz)
+UNCLE	(ad) amca: Babanın erkek kardeşi; baba yarısı, emmi. (ayrıca: babanın kardeşi)
+UNCLES	(ad) çoğul çekimi: uncle
+UNCLOGGED	(eylem) unclog sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+UNCOATED	(ad) uncoated kelimesinin karşılığı: kaplanmamış
+UNCONCERNED	(zarf) unconcerned kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+UNCONCERNS	(ad) çoğul çekimi: unconcern
+UNCONDITIONAL	(sıfat) kesin: kesinlikle
+UNCONDITIONED	(sıfat) koşulsuz: Şartsız
+UNCONFORMITIES	(ad) çoğul çekimi: unconformity
+UNCONSCIONABLE	(sıfat) insafsız: insafı olmayan, vicdansız, imansız (ayrıca: vicdansız)
+UNCONSCIOUS	(sıfat) unconscious kelimesinin karşılığı: bilinçsiz\n(ad) bilinçaltı: Henüz bilince çıkmamış duyguların bulunduğu varsayılan zihin bölgesi, şuuraltı
+UNCONSCIOUSES	(ad) unconscious sözcüğünün çoğul çekimi: bilinçsiz
+UNCOUTH	(sıfat) uncouth kelimesinin karşılığı: kaba saba, ⟪görgüsüz|GÖRGÜSÜZ⟫, inceliksiz, yontulmamış
+UNCOVERED	(eylem) uncover sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+UNCTIONS	(ad) çoğul çekimi: unction
+UNCULTURED	(sıfat) kültürsüz: Kültürü olmayan
+UNDAUNTED	(sıfat) undaunted kelimesinin karşılığı: ⟪cesur|CESUR⟫, ⟪yılmaz|YILMAZ⟫, ⟪gözüpek|GÖZÜPEK⟫
+UNDAUNTEDLY	(undaunted sözcüğünün çekimi) (sıfat) undaunted kelimesinin karşılığı: ⟪cesur|CESUR⟫, ⟪yılmaz|YILMAZ⟫, ⟪gözüpek|GÖZÜPEK⟫
+UNDECIDED	(sıfat) kararsız: kararı olmayan, karar vermekte güçlük çeken, bir kararda durmayan; duruksun, mütereddit
+UNDEFINED	(sıfat) tanımsız: Belirsiz değil ancak kendisini tanımlayacak bir açıklama olmayan.
+UNDER	(edat) under kelimesinin karşılığı: ⟪altında|ALTINDA⟫, ⟪aşağısında|AŞAĞISINDA⟫\n(zarf) bir şeyin altında veya aşağıya doğru uzayan
+UNDERACHIEVEMENTS	(ad) çoğul çekimi: underachievement
+UNDERACHIEVERS	(ad) çoğul çekimi: underachiever
+UNDERBELLIES	(ad) çoğul çekimi: underbelly
+UNDERCHARGES	(ad) çoğul çekimi: undercharge
+UNDERCLASSMEN	(ad) çoğul çekimi: underclassman
+UNDERCOATING	(ad) undercoating kelimesinin karşılığı: ⟪astarlama|ASTARLAMA⟫
+UNDERCOATS	(ad) çoğul çekimi: undercoat
+UNDERCURRENTS	(ad) çoğul çekimi: undercurrent
+UNDERCUTS	(ad) çoğul çekimi: undercut
+UNDERDEVELOPMENT	(ad) underdevelopment kelimesinin karşılığı: ⟪gelişmeme|GELİŞMEME⟫
+UNDERDEVELOPMENTS	(underdevelopment sözcüğünün çekimi) (ad) underdevelopment kelimesinin karşılığı: ⟪gelişmeme|GELİŞMEME⟫
+UNDERDOG	(ad) ezilen, yenilmesi beklenen kimse.
+UNDERDOGS	(ad) çoğul çekimi: underdog
+UNDERESTIMATE	(eylem) underestimate kelimesinin karşılığı: hafife almak
+UNDERESTIMATED	(underestimate sözcüğünün çekimi) (eylem) underestimate kelimesinin karşılığı: hafife almak
+UNDERESTIMATES	(ad) çoğul çekimi: underestimate
+UNDERESTIMATING	(underestimate sözcüğünün çekimi) (eylem) underestimate kelimesinin karşılığı: hafife almak
+UNDERESTIMATIONS	(ad) çoğul çekimi: underestimation
+UNDERGARMENTS	(ad) çoğul çekimi: undergarment
+UNDERGRADUATE	(ad) lisans: Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi
+UNDERGRADUATES	(ad) çoğul çekimi: undergraduate
+UNDERGROUNDS	(ad) çoğul çekimi: underground
+UNDERJAWS	(ad) çoğul çekimi: underjaw
+UNDERLAYS	(ad) çoğul çekimi: underlay
+UNDERLINES	(ad) çoğul çekimi: underline
+UNDERLINGS	(ad) çoğul çekimi: underling
+UNDERLIPS	(ad) çoğul çekimi: underlip
+UNDERLYING	(sıfat) temel: En önemli, belli başlı olan; ana, anayasa, taban, asıl, zemin, baz. (ayrıca: altında yatan, temelde yatan)
+UNDERNEATH	(zarf) underneath kelimesinin karşılığı: ⟪altında|ALTINDA⟫\n(ad) underneath kelimesinin karşılığı: ⟪altı|ALTI⟫
+UNDERNOURISHMENT	(ad) undernourishment kelimesinin karşılığı: yetersiz beslenme
+UNDERNOURISHMENTS	(undernourishment sözcüğünün çekimi) (ad) undernourishment kelimesinin karşılığı: yetersiz beslenme
+UNDERPANTS	(ad) külot: genellikle binicilerin giydikleri paçası dar, üst bölümü geniş pantolon
+UNDERPARTS	(ad) çoğul çekimi: underpart
+UNDERPASSES	(ad) çoğul çekimi: underpass
+UNDERPAYMENTS	(ad) çoğul çekimi: underpayment
+UNDERPINNINGS	(ad) çoğul çekimi: underpinning
+UNDERPRODUCTIONS	(ad) çoğul çekimi: underproduction
+UNDERRATE	(eylem) Hak ettiği değeri vermemek, kadrini bilmemek.
+UNDERRATED	(sıfat) Hak ettiği değer verilmemiş, kadri bilinmemiş olan.
+UNDERRATES	(underrate sözcüğünün çekimi) (eylem) Hak ettiği değeri vermemek, kadrini bilmemek.
+UNDERRATING	(underrate sözcüğünün çekimi) (eylem) Hak ettiği değeri vermemek, kadrini bilmemek.
+UNDERRUNS	(ad) çoğul çekimi: underrun
+UNDERSCORES	(ad) çoğul çekimi: underscore
+UNDERSHERIFFS	(ad) çoğul çekimi: undersheriff
+UNDERSHIRT	(ad) undershirt kelimesinin karşılığı: ⟪içlik|İÇLİK⟫
+UNDERSHIRTED	(undershirt sözcüğünün çekimi) (ad) undershirt kelimesinin karşılığı: ⟪içlik|İÇLİK⟫
+UNDERSHIRTS	(ad) çoğul çekimi: undershirt
+UNDERSIDES	(ad) çoğul çekimi: underside
+UNDERSTAND	(eylem) anlamak: bir şeyin ne demek olduğunu, neye işaret ettiğini kavramak
+UNDERSTANDING	(ad) telakki: anlayış (ayrıca: anlamaklık, anlayış)
+UNDERSTANDINGS	(ad) çoğul çekimi: understanding
+UNDERSTANDS	(understand sözcüğünün çekimi) (eylem) anlamak: bir şeyin ne demek olduğunu, neye işaret ettiğini kavramak
+UNDERSTOOD	(eylem) understand sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: anlamak
+UNDERSTRAPPERS	(ad) çoğul çekimi: understrapper
+UNDERSTUDIES	(ad) çoğul çekimi: understudy
+UNDERTAKERS	(ad) çoğul çekimi: undertaker
+UNDERTAKING	(ad) işletme: iş yeri
+UNDERTAKINGS	(ad) çoğul çekimi: undertaking
+UNDERTONES	(ad) çoğul çekimi: undertone
+UNDERTOWS	(ad) çoğul çekimi: undertow
+UNDERVALUATIONS	(ad) çoğul çekimi: undervaluation
+UNDERWAY	(zarf) underway kelimesinin karşılığı: ⟪başlanmış|BAŞLANMIŞ⟫, devam etmekte, yapılmakta
+UNDERWEAR	(ad) iç çamaşırı veya içlik.
+UNDERWOODS	(ad) çoğul çekimi: underwood
+UNDERWORLDS	(ad) çoğul çekimi: underworld
+UNDERWRITERS	(ad) çoğul çekimi: underwriter
+UNDESIRABLES	(ad) çoğul çekimi: undesirable
+UNDID	(undo sözcüğünün çekimi) (ad) açmak: düğümü veya dolaşmış bir şeyi bu hâlden kurtarmak (ayrıca: çözmek)
+UNDIGNIFIED	(sıfat) onursuz: onuru olmayan veya onura aykırı davranışlarda bulunan, şerefsiz, haysiyetsiz (ayrıca: şerefsiz)
+UNDILUTED	(sıfat) undiluted kelimesinin karşılığı: su katılmamış
+UNDINES	(ad) çoğul çekimi: undine
+UNDISCLOSED	(sıfat) undisclosed kelimesinin karşılığı: gizli kapaklı
+UNDO	(ad) açmak: düğümü veya dolaşmış bir şeyi bu hâlden kurtarmak (ayrıca: çözmek)
+UNDOES	(undo sözcüğünün çekimi) (ad) açmak: düğümü veya dolaşmış bir şeyi bu hâlden kurtarmak (ayrıca: çözmek)
+UNDOING	(undo sözcüğünün çekimi) (ad) açmak: düğümü veya dolaşmış bir şeyi bu hâlden kurtarmak (ayrıca: çözmek)
+UNDOINGS	(undo sözcüğünün çekimi) (ad) açmak: düğümü veya dolaşmış bir şeyi bu hâlden kurtarmak (ayrıca: çözmek)
+UNDONE	(undo sözcüğünün çekimi) (ad) açmak: düğümü veya dolaşmış bir şeyi bu hâlden kurtarmak (ayrıca: çözmek)
+UNDRESS	(eylem) undress kelimesinin karşılığı: ⟪soyunmak|SOYUNMAK⟫
+UNDRESSED	(eylem) undress sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: soyunmak
+UNDRESSES	(eylem) undress sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: soyunmak
+UNDRESSING	(eylem) undress sözcüğünün şimdiki zaman ortaç ve gerund çekimi: soyunmak
+UNDULATE	(eylem) dalgalanmak: hareketli olmak, kıpırdamak
+UNDULATED	(undulate sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+UNDULATES	(undulate sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+UNDULATING	(sıfat) undulating kelimesinin karşılığı: ⟪dalgalı|DALGALI⟫, dalgalanan
+UNDULATIONS	(ad) çoğul çekimi: undulation
+UNEARTH	(eylem) unearth kelimesinin karşılığı: topraktan çıkarmak, kazarak çıkarmak, ortaya çıkarmak, günyüzüne çıkarmak
+UNEARTHED	(unearth sözcüğünün çekimi) (eylem) unearth kelimesinin karşılığı: topraktan çıkarmak, kazarak çıkarmak, ortaya çıkarmak, günyüzüne çıkarmak
+UNEARTHING	(unearth sözcüğünün çekimi) (eylem) unearth kelimesinin karşılığı: topraktan çıkarmak, kazarak çıkarmak, ortaya çıkarmak, günyüzüne çıkarmak
+UNEARTHS	(unearth sözcüğünün çekimi) (eylem) unearth kelimesinin karşılığı: topraktan çıkarmak, kazarak çıkarmak, ortaya çıkarmak, günyüzüne çıkarmak
+UNEASIER	(uneasy sözcüğünün çekimi) (sıfat) rahatsız: rahat kullanılmayan, sıkıntı, tedirginlik veren (ayrıca: endişeli, tedirgin)
+UNEASIEST	(uneasy sözcüğünün çekimi) (sıfat) rahatsız: rahat kullanılmayan, sıkıntı, tedirginlik veren (ayrıca: endişeli, tedirgin)
+UNEASINESS	(ad) uneasiness kelimesinin karşılığı: ⟪huzursuzluk|HUZURSUZLUK⟫, ⟪tedirginlik|TEDİRGİNLİK⟫
+UNEASINESSES	(ad) çoğul çekimi: uneasiness
+UNEASY	(sıfat) rahatsız: rahat kullanılmayan, sıkıntı, tedirginlik veren (ayrıca: endişeli, tedirgin)
+UNEDUCATED	(sıfat) eğitimsiz: Eğitim görmemiş, eğitilmemiş (ayrıca: eğitilmemiş)
+UNEMPLOYMENT	(ad) işsizlik: işsiz kalma, iş bulamama durumu
+UNEMPLOYMENTS	(unemployment sözcüğünün çekimi) (ad) işsizlik: işsiz kalma, iş bulamama durumu
+UNEVEN	(sıfat) engebeli: düz olmayan, engebesi olan, engebesi çok olan, arızalı
+UNEVENER	(uneven sözcüğünün çekimi) (sıfat) engebeli: düz olmayan, engebesi olan, engebesi çok olan, arızalı
+UNEVENEST	(uneven sözcüğünün çekimi) (sıfat) engebeli: düz olmayan, engebesi olan, engebesi çok olan, arızalı
+UNEVENNESS	(ad) unevenness kelimesinin karşılığı: ⟪engebe|ENGEBE⟫
+UNEVENNESSES	(unevenness sözcüğünün çekimi) (ad) unevenness kelimesinin karşılığı: ⟪engebe|ENGEBE⟫
+UNEXPECTED	(sıfat) beklenmedik: beklenmeyen, umulmayan (ayrıca: umulmadık)
+UNEXPLORED	(sıfat) keşfedilmemiş: Var olmasına rağmen kimsenin görmediği, bilmediği bir yer veya bir şey.
+UNFAIR	(sıfat) haksız: davası, iddiası, davranışı, düşüncesi doğru ve yerinde olmayan
+UNFAIRER	(unfair sözcüğünün çekimi) (sıfat) haksız: davası, iddiası, davranışı, düşüncesi doğru ve yerinde olmayan
+UNFAIREST	(unfair sözcüğünün çekimi) (sıfat) haksız: davası, iddiası, davranışı, düşüncesi doğru ve yerinde olmayan
+UNFAIRLY	(zarf) unfairly kelimesinin karşılığı: insafsızca
+UNFAIRNESS	(ad) haksızlık: haksız olma durumu
+UNFAIRNESSES	(unfairness sözcüğünün çekimi) (ad) haksızlık: haksız olma durumu
+UNFAITHFUL	(sıfat) unfaithful kelimesinin karşılığı: ⟪sadakatsiz|SADAKATSİZ⟫
+UNFAITHFULNESS	(ad) sadakatsizlik: sadakatsiz olma durumu.
+UNFAITHFULNESSES	(ad) unfaithfulness sözcüğünün çoğul çekimi: sadakatsizlik
+UNFAMILIAR	(sıfat) unfamiliar kelimesinin karşılığı: ⟪belgisiz|BELGİSİZ⟫
+UNFINISHED	(sıfat) unfinished kelimesinin karşılığı: ⟪bitmemiş|BİTMEMİŞ⟫, tamamlanmamış
+UNFIT	(ad) elverişsiz: uygun olmayan, uygun gelmeyen (ayrıca: uygun olmayan, yetersiz)
+UNFITLY	(unfit sözcüğünün çekimi) (ad) elverişsiz: uygun olmayan, uygun gelmeyen (ayrıca: uygun olmayan, yetersiz)
+UNFITS	(unfit sözcüğünün çekimi) (ad) elverişsiz: uygun olmayan, uygun gelmeyen (ayrıca: uygun olmayan, yetersiz)
+UNFITTED	(unfit sözcüğünün çekimi) (ad) elverişsiz: uygun olmayan, uygun gelmeyen (ayrıca: uygun olmayan, yetersiz)
+UNFITTING	(unfit sözcüğünün çekimi) (ad) elverişsiz: uygun olmayan, uygun gelmeyen (ayrıca: uygun olmayan, yetersiz)
+UNFLATTERING	(sıfat) unflattering kelimesinin karşılığı: ⟪makyajsız|MAKYAJSIZ⟫
+UNFOLD	(eylem) açılmak: genişlemek, bollaşmak
+UNFOLDED	(unfold sözcüğünün çekimi) (eylem) açılmak: genişlemek, bollaşmak
+UNFOLDING	(unfold sözcüğünün çekimi) (eylem) açılmak: genişlemek, bollaşmak
+UNFOLDS	(unfold sözcüğünün çekimi) (eylem) açılmak: genişlemek, bollaşmak
+UNFORTUNATE	(sıfat) garip: (mecaz) dokunaklı, hüzün veren (ayrıca: bedbaht, saadetsiz)
+UNFORTUNATELY	(zarf) unfortunately kelimesinin karşılığı: ⟪maalesef|MAALESEF⟫
+UNFORTUNATES	(ad) çoğul çekimi: unfortunate
+UNGAINLIER	(ungainly sözcüğünün çekimi) (sıfat) ungainly kelimesinin karşılığı: ⟪sakar|SAKAR⟫, ⟪beceriksiz|BECERİKSİZ⟫
+UNGAINLIEST	(ungainly sözcüğünün çekimi) (sıfat) ungainly kelimesinin karşılığı: ⟪sakar|SAKAR⟫, ⟪beceriksiz|BECERİKSİZ⟫
+UNGAINLY	(sıfat) ungainly kelimesinin karşılığı: ⟪sakar|SAKAR⟫, ⟪beceriksiz|BECERİKSİZ⟫
+UNGRAMMATICAL	(ad) ungrammatical kelimesinin karşılığı: dilbilgisi dışı
+UNGUENTS	(ad) çoğul çekimi: unguent
+UNGULATES	(ad) çoğul çekimi: ungulate
+UNHAPPIER	(unhappy sözcüğünün çekimi) (sıfat) unhappy kelimesinin karşılığı: ⟪mutsuz|MUTSUZ⟫
+UNHAPPIEST	(unhappy sözcüğünün çekimi) (sıfat) unhappy kelimesinin karşılığı: ⟪mutsuz|MUTSUZ⟫
+UNHAPPILY	(zarf) maalesef: ne yazık ki
+UNHAPPINESS	(ad) mutsuzluk: Mutsuz olma durumu, bedbahtlık, saadetsizlik.
+UNHAPPINESSES	(ad) unhappiness sözcüğünün çoğul çekimi: mutsuzluk
+UNHAPPY	(sıfat) unhappy kelimesinin karşılığı: ⟪mutsuz|MUTSUZ⟫
+UNHARMED	(zarf) unharmed kelimesinin karşılığı: ⟪sağlam|SAĞLAM⟫
+UNHEALTHIER	(unhealthy sözcüğünün çekimi) (ad) sağlıksız: Sağlık durumu iyi olmayan, sağlığı bozuk.
+UNHEALTHIEST	(unhealthy sözcüğünün çekimi) (ad) sağlıksız: Sağlık durumu iyi olmayan, sağlığı bozuk.
+UNHEALTHY	(ad) sağlıksız: Sağlık durumu iyi olmayan, sağlığı bozuk.
+UNICELLULAR	(sıfat) bir hücreli: Yapısı tek bir hücreden oluşan (hayvan veya bitki). (ayrıca: bir gözeli, tek hücreli)
+UNICORN	(ad) tek boynuzlu at
+UNICORNS	(ad) çoğul çekimi: unicorn
+UNICYCLES	(ad) çoğul çekimi: unicycle
+UNIDENTIFIED	(sıfat) unidentified kelimesinin karşılığı: kimliği belirsiz
+UNIFICATION	(ad) birleştirme: birleştirmek işi, kombinasyon (ayrıca: kombinasyon)
+UNIFICATIONS	(unification sözcüğünün çekimi) (ad) birleştirme: birleştirmek işi, kombinasyon (ayrıca: kombinasyon)
+UNIFIERS	(ad) çoğul çekimi: unifier
+UNIFORM	(ad) uniform kelimesinin karşılığı: ⟪üniforma|ÜNİFORMA⟫\n(sıfat) uniform kelimesinin karşılığı: ⟪tekdüze|TEKDÜZE⟫
+UNIFORMED	(uniform sözcüğünün çekimi) (ad) uniform kelimesinin karşılığı: ⟪üniforma|ÜNİFORMA⟫
+UNIFORMER	(uniform sözcüğünün çekimi) (ad) uniform kelimesinin karşılığı: ⟪üniforma|ÜNİFORMA⟫
+UNIFORMEST	(uniform sözcüğünün çekimi) (ad) uniform kelimesinin karşılığı: ⟪üniforma|ÜNİFORMA⟫
+UNIFORMING	(uniform sözcüğünün çekimi) (ad) uniform kelimesinin karşılığı: ⟪üniforma|ÜNİFORMA⟫
+UNIFORMITIES	(uniformity sözcüğünün çekimi) (ad) tekdüzelik: tekdüze olma durumu, yeknesaklık, monotonluk, biteviyelik
+UNIFORMITY	(ad) tekdüzelik: tekdüze olma durumu, yeknesaklık, monotonluk, biteviyelik
+UNIFORMS	(ad) uniforms kelimesinin karşılığı: ⟪üniformalar|ÜNİFORMALAR⟫
+UNIMPORTANT	(sıfat) önemsiz: önemi olmayan
+UNINFORMED	(sıfat) habersiz: haberi olmak, haber almamış, hiçbir bilgisi olmayan, bihaber
+UNINHIBITED	(zarf) uninhibited kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+UNINTERESTING	(sıfat) uninteresting kelimesinin karşılığı: ilginç olmayan
+UNION	(ad) birlik: Belli bir topluluğun yararlarını korumak için kurulmuş dernek. (ayrıca: ittifak)
+UNIONISTS	(ad) çoğul çekimi: unionist
+UNIONIZATIONS	(ad) çoğul çekimi: unionization
+UNIONS	(union sözcüğünün çekimi) (ad) birlik: Belli bir topluluğun yararlarını korumak için kurulmuş dernek. (ayrıca: ittifak)
+UNIQUE	(sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan (ayrıca: benzersiz)
+UNIQUENESS	(ad) teklik: tek, bir olma durumu
+UNIQUENESSES	(uniqueness sözcüğünün çekimi) (ad) teklik: tek, bir olma durumu
+UNIQUER	(unique sözcüğünün çekimi) (sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan (ayrıca: benzersiz)
+UNIQUES	(unique sözcüğünün çekimi) (sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan (ayrıca: benzersiz)
+UNIQUEST	(unique sözcüğünün çekimi) (sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan (ayrıca: benzersiz)
+UNISEX	(sıfat) her iki cinse de uyan; her iki cins için de uygun; üniseks.
+UNIT	(ad) unit kelimesinin karşılığı: ⟪bir|BİR⟫
+UNITE	(eylem) unite kelimesinin karşılığı: birleşmek==Lazca==\n(ad) birim: Bir kümenin her elemanı veya bir çokluğu oluşturan varlıkların her biri.
+UNITED	(sıfat) birleşik: bir araya gelmiş, birleşmiş olan (ayrıca: müttehit)
+UNITES	(unite sözcüğünün çekimi) (eylem) unite kelimesinin karşılığı: birleşmek==Lazca==
+UNITIES	(ad) çoğul çekimi: unity
+UNITING	(unite sözcüğünün çekimi) (eylem) unite kelimesinin karşılığı: birleşmek==Lazca==
+UNITS	(ad) unit sözcüğünün çoğul çekimi: bir
+UNIVALVES	(ad) çoğul çekimi: univalve
+UNIVERSAL	(sıfat) universal kelimesinin karşılığı: genelce
+UNIVERSALITIES	(universality sözcüğünün çekimi) (ad) bütünlük: bütün olma durumu, tamamiyet
+UNIVERSALITY	(ad) bütünlük: bütün olma durumu, tamamiyet
+UNIVERSALS	(ad) universals kelimesinin karşılığı: genelce
+UNIVERSE	(ad) evren: Gök varlıklarının bütünü;kâinat, cihan, âlem, kozmos (ayrıca: âlem, kâinat)
+UNIVERSES	(ad) çoğul çekimi: universe
+UNIVERSITIES	(ad) university sözcüğünün çoğul çekimi: üniversite, darülfünun
+UNIVERSITY	(ad) darülfünun: üniversite (ayrıca: üniversite)
+UNJUST	(sıfat) haksız: davası, iddiası, davranışı, düşüncesi doğru ve yerinde olmayan (ayrıca: adaletsiz, taraflı)
+UNJUSTLY	(zarf) haksızca: Hakka, adalete uymayan (biçimde) (ayrıca: haksız yere)
+UNKNOTS	(ad) çoğul çekimi: unknot
+UNKNOWABLE	(sıfat) meçhul: bilinmedik, bilinmeyen
+UNKNOWN	(sıfat) bilinmeyen: değeri belli olmayan, bilinmedik, bilinmez, meçhul (ayrıca: bilinmedik, bilinmez)
+UNKNOWNS	(ad) çoğul çekimi: unknown
+UNLEAVENED	(sıfat) mayasız: İçinde maya bulunmayan
+UNLIMITED	(sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+UNLIMITEDLY	(unlimited sözcüğünün çekimi) (sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+UNLOCKED	(ad) unlocked kelimesinin karşılığı: ⟪kilitsiz|KİLİTSİZ⟫, ⟪açık|AÇIK⟫
+UNLOCKS	(ad) çoğul çekimi: unlock
+UNLUCKIER	(unlucky sözcüğünün çekimi) (ad) unlucky kelimesinin karşılığı: ⟪şanssız|ŞANSSIZ⟫
+UNLUCKIEST	(unlucky sözcüğünün çekimi) (ad) unlucky kelimesinin karşılığı: ⟪şanssız|ŞANSSIZ⟫
+UNLUCKILY	(zarf) unluckily kelimesinin karşılığı: ⟪maalesef|MAALESEF⟫
+UNLUCKY	(ad) unlucky kelimesinin karşılığı: ⟪şanssız|ŞANSSIZ⟫
+UNMANNED	(sıfat) unmanned kelimesinin karşılığı: ⟪insansız|İNSANSIZ⟫
+UNMARKED	(sıfat) belirtisiz: blirtisi olmayan
+UNMOTIVATED	(sıfat) nedensiz: nedeni olmayan, sebepsiz
+UNMYELINATED	(sıfat) unmyelinated kelimesinin karşılığı: miyelinsiz
+UNNAMED	(sıfat) adsız: adı olmayan, isimsiz, meçhul
+UNNATURAL	(sıfat) sapık: Tavır ve davranışları normal olmayan veya geleneklerden, törelerden ayrılan
+UNNECESSARILY	(zarf) sebepsiz: bir sebebi olmadan, nedensiz (ayrıca: nedensiz)
+UNNERVE	(eylem) unnerve kelimesinin karşılığı: sinirini bozmak, cesaretini kırmak
+UNNERVED	(unnerve sözcüğünün çekimi) (eylem) unnerve kelimesinin karşılığı: sinirini bozmak, cesaretini kırmak
+UNNERVES	(unnerve sözcüğünün çekimi) (eylem) unnerve kelimesinin karşılığı: sinirini bozmak, cesaretini kırmak
+UNNERVING	(unnerve sözcüğünün çekimi) (eylem) unnerve kelimesinin karşılığı: sinirini bozmak, cesaretini kırmak
+UNOBSERVANT	(sıfat) unobservant kelimesinin karşılığı: bakar kör
+UNOCCUPIED	(zarf) boş: Habersiz, hazırlıksız bir biçimde.
+UNPACK	(ad) unpack kelimesinin karşılığı: paketi açmak, bavuldan çıkarmak
+UNPACKED	(unpack sözcüğünün çekimi) (ad) unpack kelimesinin karşılığı: paketi açmak, bavuldan çıkarmak
+UNPACKING	(unpack sözcüğünün çekimi) (ad) unpack kelimesinin karşılığı: paketi açmak, bavuldan çıkarmak
+UNPACKS	(unpack sözcüğünün çekimi) (ad) unpack kelimesinin karşılığı: paketi açmak, bavuldan çıkarmak
+UNPALATABLE	(sıfat) unpalatable kelimesinin karşılığı: ⟪merdud|MERDUD⟫
+UNPEOPLE	(ad) çoğul çekimi: unperson
+UNPEOPLES	(unpeople sözcüğünün çekimi) (ad) çoğul çekimi: unperson
+UNPEOPLING	(unpeople sözcüğünün çekimi) (ad) çoğul çekimi: unperson
+UNPERSONS	(ad) çoğul çekimi: unperson
+UNPLEASANT	(sıfat) çirkin: hoş olmayan, yakışık almayan (davranış veya söz) (ayrıca: nahoş, tatsız)
+UNPOLISHED	(sıfat) cilasız: cilalanmamış, cilasız
+UNPRECEDENTED	(sıfat) emsalsiz; eşi görülmemiş; daha önce bilinmeyen; daha önce yapılmamış
+UNPREDICTABILITIES	(ad) çoğul çekimi: unpredictability
+UNPREPARED	(sıfat) hazırlıksız: Bir şey için önceden hazırlanmamış olan
+UNPRETENTIOUS	(sıfat) babayani: gösterişi ve özentisi olmayan
+UNPRETENTIOUSNESS	(ad) unpretentiousness kelimesinin karşılığı: alçak gönüllülük, ⟪tevazu|TEVAZU⟫, ⟪mahviyet|MAHVİYET⟫, ⟪mütevazılık|MÜTEVAZILIK⟫
+UNPRETENTIOUSNESSES	(unpretentiousness sözcüğünün çekimi) (ad) unpretentiousness kelimesinin karşılığı: alçak gönüllülük, ⟪tevazu|TEVAZU⟫, ⟪mahviyet|MAHVİYET⟫, ⟪mütevazılık|MÜTEVAZILIK⟫
+UNPRODUCTIVE	(sıfat) unproductive kelimesinin karşılığı: işlek olmayan
+UNPROTECTED	(sıfat) unprotected kelimesinin karşılığı: ⟪barınaksız|BARINAKSIZ⟫
+UNQUENCHABLE	(sıfat) unquenchable kelimesinin karşılığı: söndürülemeyen, dindirilemeyen, yatıştırılamayan
+UNRAVEL	(eylem) örülü veya düğümlü bir şeyi çözmek veya sökmek
+UNRAVELED	(unravel sözcüğünün çekimi) (eylem) örülü veya düğümlü bir şeyi çözmek veya sökmek
+UNRAVELING	(unravel sözcüğünün çekimi) (eylem) örülü veya düğümlü bir şeyi çözmek veya sökmek
+UNRAVELLED	(unravel sözcüğünün çekimi) (eylem) örülü veya düğümlü bir şeyi çözmek veya sökmek
+UNRAVELLING	(unravel sözcüğünün çekimi) (eylem) örülü veya düğümlü bir şeyi çözmek veya sökmek
+UNRAVELS	(unravel sözcüğünün çekimi) (eylem) örülü veya düğümlü bir şeyi çözmek veya sökmek
+UNREACHABLE	(sıfat) erişilmez: bir şeyin bir yerden başka bir yere erişmenin imkân dahilinde olmaması (ayrıca: erişilemez)
+UNREALISTIC	(sıfat) irrealist: gerçek dışı (ayrıca: gerçek dışı)
+UNREASONABLY	(zarf) unreasonably kelimesinin karşılığı: ⟪aşırı|AŞIRI⟫
+UNREPENTANT	(sıfat) unrepentant kelimesinin karşılığı: pişman olmayan, pişmanlık duymayan
+UNRESTRICTED	(sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+UNREWARDED	(sıfat) ödülsüz: ödül alamamış olan
+UNSATURATED	(ad) unsaturated kelimesinin karşılığı: doymamış
+UNSCATHED	(zarf) unscathed kelimesinin karşılığı: ⟪sağlam|SAĞLAM⟫
+UNSCRUPULOUS	(sıfat) vicdansız: vicdanı olmayan, insafsız kimse (ayrıca: ahlaksız, terbiyesiz)
+UNSELFISH	(sıfat) unselfish kelimesinin karşılığı: ⟪özverili|ÖZVERİLİ⟫, bencil olmayan
+UNSELFISHNESS	(ad) bencil olmama durumu, özverililik
+UNSELFISHNESSES	(ad) unselfishness sözcüğünün çoğul çekimi: bencil olmama durumu, özverililik
+UNSHEATHE	(eylem) kılıcı kınından çıkarmak
+UNSHEATHED	(unsheathe sözcüğünün çekimi) (eylem) kılıcı kınından çıkarmak
+UNSHEATHES	(unsheathe sözcüğünün çekimi) (eylem) kılıcı kınından çıkarmak
+UNSHEATHING	(unsheathe sözcüğünün çekimi) (eylem) kılıcı kınından çıkarmak
+UNSKILLED	(ad) beceriksiz: becerisi olmayan, usta olmayan, maharetsiz
+UNSOLD	(sıfat) unsold kelimesinin karşılığı: satılmamış
+UNSOLDER	(unsold sözcüğünün çekimi) (sıfat) unsold kelimesinin karşılığı: satılmamış
+UNSOLDERED	(unsold sözcüğünün çekimi) (sıfat) unsold kelimesinin karşılığı: satılmamış
+UNSOLDERING	(unsold sözcüğünün çekimi) (sıfat) unsold kelimesinin karşılığı: satılmamış
+UNSOLDERS	(unsold sözcüğünün çekimi) (sıfat) unsold kelimesinin karşılığı: satılmamış
+UNSTABLE	(ad) dayanıksız: dayanmayan, sağlam olmayan, güçsüz, metanetsiz
+UNSTABLER	(unstable sözcüğünün çekimi) (ad) dayanıksız: dayanmayan, sağlam olmayan, güçsüz, metanetsiz
+UNSTABLEST	(unstable sözcüğünün çekimi) (ad) dayanıksız: dayanmayan, sağlam olmayan, güçsüz, metanetsiz
+UNSTOPPABLE	(ad) durdurulamaz: Durdurulma imkanı olmayan.
+UNSTRESSED	(sıfat) vurgusuz: vurgu ile söylenmeyen
+UNSUITABILITIES	(unsuitability sözcüğünün çekimi) (ad) unsuitability kelimesinin karşılığı: ⟪uymazlık|UYMAZLIK⟫
+UNSUITABILITY	(ad) unsuitability kelimesinin karşılığı: ⟪uymazlık|UYMAZLIK⟫
+UNSUITABLE	(sıfat) unsuitable kelimesinin karşılığı: ⟪uygunsuz|UYGUNSUZ⟫, ⟪uymaz|UYMAZ⟫
+UNTENABLE	(sıfat) untenable kelimesinin karşılığı: savunulamaz
+UNTHRIFTY	(sıfat) savurgan: Tutumsuz (ayrıca: müsrif)
+UNTIDIED	(untidy sözcüğünün çekimi) (sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı
+UNTIDIER	(untidy sözcüğünün çekimi) (sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı
+UNTIDIES	(untidy sözcüğünün çekimi) (sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı
+UNTIDIEST	(untidy sözcüğünün çekimi) (sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı
+UNTIDY	(sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı
+UNTIDYING	(untidy sözcüğünün çekimi) (sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı
+UNTIL	(edat) until kelimesinin karşılığı: -e kadar
+UNTIMELIER	(untimely sözcüğünün çekimi) (sıfat) zamansız: Uygun olmayan bir zamanda (yapılan), vakitsiz (ayrıca: vakitsiz)
+UNTIMELIEST	(untimely sözcüğünün çekimi) (sıfat) zamansız: Uygun olmayan bir zamanda (yapılan), vakitsiz (ayrıca: vakitsiz)
+UNTIMELY	(sıfat) zamansız: Uygun olmayan bir zamanda (yapılan), vakitsiz (ayrıca: vakitsiz)\n(zarf) untimely kelimesinin karşılığı: vakitsizce
+UNTOLD	(sıfat) untold kelimesinin karşılığı: ⟪anlatılmamış|ANLATILMAMIŞ⟫
+UNTOUCHABLE	(sıfat) untouchable kelimesinin karşılığı: ulaşılamaz, ⟪erişilmez|ERİŞİLMEZ⟫
+UNTOUCHABLES	(ad) çoğul çekimi: untouchable
+UNTOUCHED	(sıfat) untouched kelimesinin karşılığı: ⟪erden|ERDEN⟫
+UNTOWARD	(sıfat) tatsız: sohbeti hoş olmayan veya geçimsizlik çıkaran (ayrıca: uygunsuz, nahoş)
+UNTROUBLED	(zarf) untroubled kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+UNTRUTHS	(ad) çoğul çekimi: untruth
+UNUSABLE	(sıfat) yaraksız: yararsız, faydasız, işe yaramaz (ayrıca: kullanılmaz, faydasız)
+UNUSUAL	(sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü
+UNVOICED	(sıfat) ötümsüz: tonsuz.
+UNWANTED	(sıfat) unwanted kelimesinin karşılığı: ⟪istenmeyen|İSTENMEYEN⟫
+UNWARINESS	(ad) aymazlık: Çevresinde olup bitenlerin farkına varamama durumu, aymaza yakışacak durum; dalgı, uyku, gafillik, gaflet, gaflet uykusu
+UNWARINESSES	(unwariness sözcüğünün çekimi) (ad) aymazlık: Çevresinde olup bitenlerin farkına varamama durumu, aymaza yakışacak durum; dalgı, uyku, gafillik,...
+UNWIELDIER	(unwieldy sözcüğünün çekimi) (sıfat) hantal; şekli, ebatı veya ağırlığı nedeniyle taşınması, hareket ettirmesi zor.
+UNWIELDIEST	(unwieldy sözcüğünün çekimi) (sıfat) hantal; şekli, ebatı veya ağırlığı nedeniyle taşınması, hareket ettirmesi zor.
+UNWIELDILY	(unwieldy sözcüğünün çekimi) (sıfat) hantal; şekli, ebatı veya ağırlığı nedeniyle taşınması, hareket ettirmesi zor.
+UNWIELDY	(sıfat) hantal; şekli, ebatı veya ağırlığı nedeniyle taşınması, hareket ettirmesi zor.
+UNWILLING	(sıfat) isteksiz: bir işi yapmaya isteği olmayan, gönülsüz
+UNWILLINGNESS	(ad) isteksizlik: isteksiz olma durumu
+UNWILLINGNESSES	(unwillingness sözcüğünün çekimi) (ad) isteksizlik: isteksiz olma durumu
+UNWIND	(eylem) gevşemek: (Sivas ağzı) geviş getirmek
+UNWINDER	(unwind sözcüğünün çekimi) (eylem) gevşemek: (Sivas ağzı) geviş getirmek
+UNWINDING	(unwind sözcüğünün çekimi) (eylem) gevşemek: (Sivas ağzı) geviş getirmek
+UNWINDS	(ad) çoğul çekimi: unwind
+UNWOUND	(unwind sözcüğünün çekimi) (eylem) gevşemek: (Sivas ağzı) geviş getirmek
+UNWRAPS	(ad) çoğul çekimi: unwrap
+UPCURLS	(ad) çoğul çekimi: upcurl
+UPDATE	(eylem) güncelleştirmek: Güncel duruma getirmek (ayrıca: yenilemek)
+UPDATED	(update sözcüğünün çekimi) (eylem) güncelleştirmek: Güncel duruma getirmek (ayrıca: yenilemek)
+UPDATES	(update sözcüğünün çekimi) (eylem) güncelleştirmek: Güncel duruma getirmek (ayrıca: yenilemek)
+UPDATING	(ad) updating kelimesinin karşılığı: ⟪çağcıllaşma|ÇAĞCILLAŞMA⟫
+UPDRAFTS	(ad) çoğul çekimi: updraft
+UPGRADE	(ad) upgrade kelimesinin karşılığı: ⟪yokuş|YOKUŞ⟫\n(eylem) yükseltmek: değerini olduğundan daha çok göstermek
+UPGRADED	(upgrade sözcüğünün çekimi) (ad) upgrade kelimesinin karşılığı: ⟪yokuş|YOKUŞ⟫
+UPGRADES	(ad) upgrades kelimesinin karşılığı: yokuşlar\n(eylem) upgrades kelimesinin karşılığı: ⟪yükseltir|YÜKSELTİR⟫
+UPGRADING	(ad) upgrading kelimesinin karşılığı: düzey yükseltme
+UPHEAVAL	(ad) değişme, bir halden başka bir hale gelme
+UPHEAVALS	(ad) upheaval sözcüğünün çoğul çekimi: değişme, bir halden başka bir hale gelme
+UPHOLDERS	(ad) çoğul çekimi: upholder
+UPHOLSTERER	(ad) upholsterer kelimesinin karşılığı: ⟪döşemeci|DÖŞEMECİ⟫
+UPHOLSTERERS	(ad) çoğul çekimi: upholsterer
+UPLANDS	(ad) çoğul çekimi: upland
+UPLIFT	(eylem) yükseltmek: yüksek düzeye getirmek, geliştirmek
+UPLIFTED	(uplift sözcüğünün çekimi) (eylem) yükseltmek: yüksek düzeye getirmek, geliştirmek
+UPLIFTER	(uplift sözcüğünün çekimi) (eylem) yükseltmek: yüksek düzeye getirmek, geliştirmek
+UPLIFTING	(uplift sözcüğünün çekimi) (eylem) yükseltmek: yüksek düzeye getirmek, geliştirmek
+UPLIFTS	(ad) çoğul çekimi: uplift
+UPLINKS	(ad) çoğul çekimi: uplink
+UPLOAD	(ad) Uzak bağlantılı ve merkezi bir bilgisayara veri ya da dosya aktarma, yükleme.
+UPLOADED	(upload sözcüğünün çekimi) (ad) Uzak bağlantılı ve merkezi bir bilgisayara veri ya da dosya aktarma, yükleme.
+UPLOADING	(upload sözcüğünün çekimi) (ad) Uzak bağlantılı ve merkezi bir bilgisayara veri ya da dosya aktarma, yükleme.
+UPLOADS	(ad) çoğul çekimi: upload
+UPON	(edat) on edatının daha resmi ve çoğunlukla soyut kavramlar için kullanılan hali.
+UPPER	(sıfat) upper kelimesinin karşılığı: ⟪üst|ÜST⟫
+UPPERS	(ad) çoğul çekimi: upper
+UPRIGHT	(sıfat) upright kelimesinin karşılığı: ⟪dik|DİK⟫
+UPRIGHTED	(upright sözcüğünün çekimi) (sıfat) upright kelimesinin karşılığı: ⟪dik|DİK⟫
+UPRIGHTING	(upright sözcüğünün çekimi) (sıfat) upright kelimesinin karşılığı: ⟪dik|DİK⟫
+UPRIGHTS	(ad) çoğul çekimi: upright
+UPRISING	(ad) başkaldırı: bir durum ya da davranış karşısında boyun eğmeyerek karşı gelme (ayrıca: isyan, ayaklanma)
+UPRISINGS	(ad) çoğul çekimi: uprising
+UPROAR	(ad) uproar kelimesinin karşılığı: cadı kazanı
+UPROARS	(ad) çoğul çekimi: uproar
+UPROOT	(eylem) uproot kelimesinin karşılığı: kökünden sökmek\n(ad) uproot kelimesinin karşılığı: kökünden sökme
+UPROOTED	(uproot sözcüğünün çekimi) (eylem) uproot kelimesinin karşılığı: kökünden sökmek
+UPROOTING	(uproot sözcüğünün çekimi) (eylem) uproot kelimesinin karşılığı: kökünden sökmek
+UPROOTS	(eylem) uproot sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kökünden sökmek\n(ad) uproot sözcüğünün çoğul çekimi: kökünden sökmek
+UPS	(ad) çoğul çekimi: up
+UPSET	(sıfat) upset kelimesinin karşılığı: ⟪üzgün|ÜZGÜN⟫\n(eylem) bozmak: Bir yerin, bir şeyin düzenini karıştırmak.
+UPSETS	(ad) çoğul çekimi: upset
+UPSETTING	(upset sözcüğünün çekimi) (sıfat) upset kelimesinin karşılığı: ⟪üzgün|ÜZGÜN⟫
+UPSIDE	(sıfat) upside kelimesinin karşılığı: ⟪ters|TERS⟫
+UPSIDES	(ad) çoğul çekimi: upside
+UPSILONS	(ad) çoğul çekimi: upsilon
+UPSPRINGS	(ad) çoğul çekimi: upspring
+UPSTART	(sıfat) upstart kelimesinin karşılığı: sonradan görme
+UPSTARTED	(upstart sözcüğünün çekimi) (sıfat) upstart kelimesinin karşılığı: sonradan görme
+UPSTARTING	(upstart sözcüğünün çekimi) (sıfat) upstart kelimesinin karşılığı: sonradan görme
+UPSTARTS	(upstart sözcüğünün çekimi) (sıfat) upstart kelimesinin karşılığı: sonradan görme
+UPSTATE	(ad) upstate kelimesinin karşılığı: şehrin kuzeyi
+UPTAKE	(ad) uptake kelimesinin karşılığı: edimsel çıkarım
+UPTAKES	(uptake sözcüğünün çekimi) (ad) uptake kelimesinin karşılığı: edimsel çıkarım
+UPTHRUSTS	(ad) çoğul çekimi: upthrust
+UPWARDS	(zarf) yukarı: üst tarafa, üstteki kata, üste, yükseğe, yukarıya
+URANIAS	(ad) çoğul çekimi: urania
+URANINITES	(ad) çoğul çekimi: uraninite
+URANIUM	(ad) uranyum: atom numarası 92, atom ağırlığı 238,03, yoğunluğu 18,7 olan, 1800 °C'ye doğru eriyen, demir görünüşünde, nükleer enerji elde etmede kullanılan bir kimyasal element (simgesi U)
+URANIUMS	(uranium sözcüğünün çekimi) (ad) uranyum: atom numarası 92, atom ağırlığı 238,03, yoğunluğu 18,7 olan, 1800 °C'ye doğru eriyen, demir görünüşünde,...
+URCHINS	(ad) çoğul çekimi: urchin
+UREA	(ad) üre: Yapay reçine verniği ve tutkalı üretiminde kullanılan temel gereçlerden beyaz, billûrsu toz
+UREAS	(urea sözcüğünün çekimi) (ad) üre: Yapay reçine verniği ve tutkalı üretiminde kullanılan temel gereçlerden beyaz, billûrsu toz
+UREIDES	(ad) çoğul çekimi: ureide
+URETHANES	(ad) çoğul çekimi: urethane
+URETHRA	(ad) üretra: idrar kesesinden başlayarak dışarıya kadar uzanan idrar yolunun son bölümü, idrar kesesini vücut dışına bağlayan kanal.
+URETHRAE	(urethra sözcüğünün çekimi) (ad) üretra: idrar kesesinden başlayarak dışarıya kadar uzanan idrar yolunun son bölümü, idrar kesesini vücut dışına...
+URETHRAS	(urethra sözcüğünün çekimi) (ad) üretra: idrar kesesinden başlayarak dışarıya kadar uzanan idrar yolunun son bölümü, idrar kesesini vücut dışına...
+URGE	(ad) istek: bir şeye duyulan eğilim, arzu, şevk, heves (ayrıca: dürtü, arzu)\n(eylem) urge kelimesinin karşılığı: teşvik etmek
+URGED	(eylem) urge sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dürtü, arzu, istek
+URGENCIES	(ad) çoğul çekimi: urgency
+URGENT	(sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+URGES	(ad) urge sözcüğünün çoğul çekimi: dürtü, arzu, istek\n(eylem) urge sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dürtü, arzu, istek
+URGING	(eylem) urge sözcüğünün şimdiki zaman ortaç ve gerund çekimi: dürtü, arzu, istek
+URINALS	(ad) çoğul çekimi: urinal
+URINARIES	(urinary sözcüğünün çekimi) (ad) urinary kelimesinin karşılığı: üriner
+URINARY	(ad) urinary kelimesinin karşılığı: üriner
+URINATE	(eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+URINATED	(urinate sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+URINATES	(urinate sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+URINATING	(urinate sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+URINE	(ad) urine kelimesinin karşılığı: ⟪idrar|İDRAR⟫, ⟪sidik|SİDİK⟫
+URINES	(urine sözcüğünün çekimi) (ad) urine kelimesinin karşılığı: ⟪idrar|İDRAR⟫, ⟪sidik|SİDİK⟫
+URINOMETERS	(ad) çoğul çekimi: urinometer
+URNS	(ad) çoğul çekimi: urn
+UROLOGIES	(urology sözcüğünün çekimi) (ad) bevliye: Üroloji (ayrıca: üroloji)
+UROLOGIST	(ad) ürolog: İdrar yolu hastalıkları hekimi, bevliyeci
+UROLOGISTS	(ad) urologist sözcüğünün çoğul çekimi: ürolog
+UROLOGY	(ad) bevliye: Üroloji (ayrıca: üroloji)
+USABILITIES	(ad) usability sözcüğünün çoğul çekimi: kullanılabilirlik
+USABILITY	(ad) kullanılabilirlik: insan tarafından yapılan şeylerin kolay kullanılabilmesi ve kolay öğrenilebilmesi]]
+USABLE	(sıfat) elverişli: uygun, müsait (ayrıca: kullanılır, yaraklı)
+USAGE	(ad) kullanım: kullanma, yararlanma, tasarruf
+USAGES	(usage sözcüğünün çekimi) (ad) kullanım: kullanma, yararlanma, tasarruf
+USANCES	(ad) çoğul çekimi: usance
+USE	(ad) fayda: yarar (ayrıca: yarar, avantaj)\n(eylem) bir şeyi gerçekleştirmek için başka bir şeyden yararlanmak, kullanmak
+USED	(sıfat) eski: Herhangi bir meslekte uzun süreden beri çalışmış olan (ayrıca: kullanılmış)\n(eylem) use fiilinin geçmiş zaman kipi
+USEFUL	(sıfat) yararlı: yarar sağlayan, yararı olan, yarayışlı, faydalı, nafi, avantajlı (ayrıca: yaraklı)
+USELESS	(sıfat) yararsız: yarar sağlamayan, yararı olmayan, işe yaramayan, yarayışsız, faydasız, nafile, avantajsız (ayrıca: yaraksız, işe yaramaz)
+USELESSLY	(zarf) boşuna: boşu boşuna, boş yere, yararsız yere, gereksiz, beyhude, beyhude yere, nafile, tevekkeli
+USER	(ad) kullanıcı: bir şeyi kullanan, kullanmakta olan
+USERS	(ad) çoğul çekimi: user
+USES	(use sözcüğünün çekimi) (ad) fayda: yarar (ayrıca: yarar, avantaj)
+USHERETTES	(ad) çoğul çekimi: usherette
+USHERS	(ad) çoğul çekimi: usher
+USING	(use sözcüğünün çekimi) (ad) fayda: yarar (ayrıca: yarar, avantaj)
+USQUEBAUGHS	(ad) çoğul çekimi: usquebaugh
+USUAL	(sıfat) tabii: olağan, alışılmış, her zamanki gibi olan, beklenildiği gibi (ayrıca: cari, olağan)
+USUALLY	(zarf) ekseriyetle: genellikle (ayrıca: alelumum, genellikle)
+USUALS	(usual sözcüğünün çekimi) (sıfat) tabii: olağan, alışılmış, her zamanki gibi olan, beklenildiği gibi (ayrıca: cari, olağan)
+USUFRUCT	(ad) usufruct kelimesinin karşılığı: intifa hakkı
+USUFRUCTS	(usufruct sözcüğünün çekimi) (ad) usufruct kelimesinin karşılığı: intifa hakkı
+USUFRUCTUARIES	(ad) çoğul çekimi: usufructuary
+USURER	(ad) tefeci: El altından yüksek faizle ödünç para veren kimse (ayrıca: faizci)
+USURERS	(ad) çoğul çekimi: usurer
+USURIES	(ad) çoğul çekimi: usury
+USURP	(eylem) usurp kelimesinin karşılığı: ⟪gasbetmek|GASBETMEK⟫
+USURPATIONS	(ad) çoğul çekimi: usurpation
+USURPED	(eylem) usurp sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: gasbetmek
+USURPER	(ad) usurper kelimesinin karşılığı: gaspçı
+USURPERS	(ad) usurper sözcüğünün çoğul çekimi: gaspçı
+USURPING	(eylem) usurp sözcüğünün şimdiki zaman ortaç ve gerund çekimi: gasbetmek
+USURPS	(eylem) usurp sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: gasbetmek
+USURY	(ad) tefecilik: tefecinin işi, yasal sınırın üzerinde aşırı faiz alarak borç para verme, faizcilik, murabaha, murabahacılık, faizcilik (ayrıca: faizcilik, murabaha)
+UTAS	(ad) çoğul çekimi: uta
+UTENSILS	(ad) çoğul çekimi: utensil
+UTERI	(uterus sözcüğünün çekimi) (ad) uterus kelimesinin karşılığı: döl yatağı, ana rahmi, ⟪rahim|RAHİM⟫, ⟪karın|KARIN⟫
+UTERUS	(ad) uterus kelimesinin karşılığı: döl yatağı, ana rahmi, ⟪rahim|RAHİM⟫, ⟪karın|KARIN⟫
+UTERUSES	(ad) çoğul çekimi: uterus
+UTILITARIANS	(ad) çoğul çekimi: utilitarian
+UTILITIES	(ad) çoğul çekimi: utility
+UTILITY	(ad) fayda: yarar (ayrıca: yarar, avantaj)
+UTILIZATIONS	(ad) çoğul çekimi: utilization
+UTOPIA	(ad) utopia kelimesinin karşılığı: ⟪ütopya|ÜTOPYA⟫
+UTOPIAN	(sıfat) utopian kelimesinin karşılığı: ⟪ütopik|ÜTOPİK⟫
+UTOPIANS	(utopian sözcüğünün çekimi) (sıfat) utopian kelimesinin karşılığı: ⟪ütopik|ÜTOPİK⟫
+UTOPIAS	(utopia sözcüğünün çekimi) (ad) utopia kelimesinin karşılığı: ⟪ütopya|ÜTOPYA⟫
+UTTER	(eylem) söylemek: (mecaz) herhangi bir şeyi bildirmek, anlatmak, demek istemek, hatırlatmak (ayrıca: ifade etmek, ses çıkarmak)
+UTTERANCE	(ad) utterance kelimesinin karşılığı: ⟪ifade|İFADE⟫, dile getirme, ⟪söyleme|SÖYLEME⟫
+UTTERANCES	(ad) çoğul çekimi: utterance
+UTTERED	(utter sözcüğünün çekimi) (eylem) söylemek: (mecaz) herhangi bir şeyi bildirmek, anlatmak, demek istemek, hatırlatmak (ayrıca: ifade etmek, ses...
+UTTERER	(utter sözcüğünün çekimi) (eylem) söylemek: (mecaz) herhangi bir şeyi bildirmek, anlatmak, demek istemek, hatırlatmak (ayrıca: ifade etmek, ses...
+UTTERERS	(ad) çoğul çekimi: utterer
+UTTERING	(utter sözcüğünün çekimi) (eylem) söylemek: (mecaz) herhangi bir şeyi bildirmek, anlatmak, demek istemek, hatırlatmak (ayrıca: ifade etmek, ses...
+UTTERLY	(zarf) tamamen: bütün olarak, büsbütün
+UTTERS	(utter sözcüğünün çekimi) (eylem) söylemek: (mecaz) herhangi bir şeyi bildirmek, anlatmak, demek istemek, hatırlatmak (ayrıca: ifade etmek, ses...
+UVULA	(ad) uvula kelimesinin karşılığı: küçük dil
+UVULAE	(uvula sözcüğünün çekimi) (ad) uvula kelimesinin karşılığı: küçük dil
+UVULAR	(ad) küçük dil ünsüzü
+UVULARLY	(uvular sözcüğünün çekimi) (ad) küçük dil ünsüzü
+UVULARS	(uvular sözcüğünün çekimi) (ad) küçük dil ünsüzü
+UVULAS	(uvula sözcüğünün çekimi) (ad) uvula kelimesinin karşılığı: küçük dil
+UXORICIDES	(ad) çoğul çekimi: uxorcide

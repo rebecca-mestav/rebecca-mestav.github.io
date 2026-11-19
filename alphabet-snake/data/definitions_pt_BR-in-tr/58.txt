@@ -1,0 +1,43 @@
+XADREZ	(ad) satranç: iki oyuncu tarafından 8 x 8 kare bir tahtada 16 şar taş (şah, vezir, kale, fil, at, piyon) ile oynanan bir zeka oyunu
+XADREZES	(xadrez sözcüğünün çekimi) (ad) satranç: iki oyuncu tarafından 8 x 8 kare bir tahtada 16 şar taş (şah, vezir, kale, fil, at, piyon) ile oynanan...
+XAILE	(ad) xaile kelimesinin karşılığı: ⟪şal|ŞAL⟫
+XALE	(ad) xale kelimesinin karşılığı: ⟪şal|ŞAL⟫
+XAMA	(ad) şaman: şamanizm inancında din adamına verilen isim (ayrıca: kam, bakşı)
+XAMANISMO	(ad) xamanismo kelimesinin karşılığı: ⟪şamanizm|ŞAMANİZM⟫
+XAMAS	(xama sözcüğünün çekimi) (ad) şaman: şamanizm inancında din adamına verilen isim (ayrıca: kam, bakşı)
+XAMATE	(ad) xamate kelimesinin karşılığı: ⟪mat|MAT⟫
+XAMPU	(ad) şampuan: genellikle saç yıkamakta kullanılan sıvı sabun
+XARA	(ad) adaş: adları aynı olanların her biri
+XAREU	(ad) xareu kelimesinin karşılığı: ⟪don|DON⟫, ⟪ayaz|AYAZ⟫, ⟪kırağı|KIRAĞI⟫
+XARIA	(ad) şeriat: Kur'an'daki ayetlere, İslâm Peygamberi'nin sözlerine dayanan İslâm kanunu.
+XAROPE	(ad) xarope kelimesinin karşılığı: ⟪şurup|ŞURUP⟫\n(sıfat) xarope kelimesinin karşılığı: ⟪sıkıcı|SIKICI⟫
+XAROPES	(ad) çoğul çekimi: xarope
+XASTRE	(ad) xastre kelimesinin karşılığı: ⟪terzi|TERZİ⟫
+XAUARMA	(ad) çevirme: kuzu, oğlak gibi hayvanların şişte, kor üzerinde çevrilerek pişirilmişi
+XAVECAR	(eylem) aldatmak: beklenmedik bir davranışla yanıltmak (ayrıca: dolandırmak, yol)
+XAVECO	(ad) xaveco kelimesinin karşılığı: ⟪küçük|KÜÇÜK⟫
+XEIQUE	(ad) şeyh: tarikat lideri
+XENOFOBIA	(ad) xenofobia kelimesinin karşılığı: ⟪zenofobi|ZENOFOBİ⟫
+XENON	(ad) ksenon: Atom numarası 54 olan bir kimyasal element
+XEPA	(ad) hedef: (mecaz) varılacak yer, ulaşılacak son nokta (ayrıca: nişane, kıç)
+XEQUE	(ad) hesap: aritmetik. (ayrıca: çek)
+XERIFE	(ad) xerife kelimesinin karşılığı: ⟪şerif|ŞERİF⟫
+XEROFITO	(ad) xerofito kelimesinin karşılığı: kserofit
+XEROX	(ad) tıpkıçekim: fotokopi (ayrıca: fotokopi)
+XEXELENTO	(sıfat) pis: beğenilmeyecek durumda olan, kötü, zararlı (ayrıca: kirli, müstehcen)
+XICARA	(ad) xicara kelimesinin karşılığı: litrenin dörtte biri
+XICARAS	(ad) çoğul çekimi: xícara
+XILEMA	(ad) xilema kelimesinin karşılığı: ⟪ksilem|KSİLEM⟫
+XILINDRO	(ad) hapishane: Cezaevi. (ayrıca: cezaevi)
+XILOFONE	(ad) ksilofon: Değişik sayıda akortlu tahta veya metal çubukların gam sırasıyla dizilmesinden oluşan, iki değnekle vurularak çalınan bir çalgı
+XILOFONES	(ad) çoğul çekimi: xilofone
+XINGAMENTO	(ad) xingamento kelimesinin karşılığı: ⟪hakaret|HAKARET⟫
+XINGAR	(eylem) xingar kelimesinin karşılığı: hakaret etmek
+XISTOS	(ad) çoğul çekimi: xisto
+XIXA	(ad) nargile: tömbeki denilen bir cins tütünü ısıtıp suyla filtreledikten sonra tütünün içilmesine yarayan alet
+XIXI	(ad) çiş: sidik
+XODO	(ad) düşkünlük: düşkün olma durumu (ayrıca: şefkat)
+XONGAS	(zamir) önemsiz: önemi olmayan (ayrıca: ehemmiyetsiz)
+XORTES	(ad) xortes kelimesinin karşılığı: ⟪şort|ŞORT⟫
+XUCRO	(sıfat) acemi: bir yere, bir şeye yabancı olan (ayrıca: acemi çaylak)
+XUMBREGAR	(eylem) kızmak: öfkelenmek. (ayrıca: bıktırmak, rahatsız etmek)

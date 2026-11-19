@@ -1,0 +1,1152 @@
+HABIL	(adjective) skilled: Having or showing skill; skillful.
+HABILIDADE	(noun) ability: The quality or state of being able; capacity to do or of doing something; having the necessary power.
+HABILIDOSA	(adjective) feminine singular of habilidoso: skilled
+HABILIDOSAMENTE	(adverb) habilidosamente translates to skilfully
+HABILIDOSO	(adjective) skilled: Having or showing skill; skillful.
+HABILITA	(verb) third-person singular present indicative (habilitar): to enable, to allow
+HABILITADA	(verb) feminine singular of habilitado
+HABILITADO	(verb) past participle of habilitar: to enable, to allow
+HABILITANDO	(verb) gerund of habilitar: to enable, to allow
+HABILITAR	(verb) habilitar translates to to enable, to allow
+HABILITAÇAO	(noun) qualification: An ability or attribute that aids someone's chances of qualifying for something; specifically, completed professional training.
+HABILITAÇOES	(noun) plural of habilitação: qualification
+HABILITE	(verb) first/third-person singular present subjunctive (habilitar): to enable, to allow
+HABILITEI	(verb) first-person singular preterite indicative of habilitar: to enable, to allow
+HABILITO	(verb) first-person singular present indicative of habilitar: to enable, to allow
+HABILITOU	(verb) third-person singular preterite indicative of habilitar: to enable, to allow
+HABILMENTE	(adverb) ably: In an able manner; with great ability.
+HABITA	(verb) third-person singular present indicative (habitar): to inhabit
+HABITACIONAL	(adjective) habitacional translates to habitational
+HABITACIONALMENTE	(adverb) habitacionalmente translates to habitationally
+HABITADO	(verb) past participle of habitar: to inhabit
+HABITAM	(verb) third-person plural present indicative of habitar: to inhabit
+HABITAMOS	(verb) first-person plural present indicative (habitar): to inhabit
+HABITANDO	(verb) gerund of habitar: to inhabit
+HABITANTE	(noun) inhabitant: Someone or thing who lives in a place.
+HABITANTES	(noun) plural of habitante: inhabitant
+HABITAR	(verb) habitar translates to to inhabit
+HABITARA	(verb) third-person singular future indicative of habitar: to inhabit
+HABITARAM	(verb) third-person plural preterite/pluperfect indicative of habitar
+HABITARAO	(verb) third-person plural future indicative of habitar: to inhabit
+HABITAREI	(verb) first-person singular future indicative of habitar: to inhabit
+HABITAREM	(verb) third-person plural future subjunctive (habitar): to inhabit
+HABITAS	(verb) second-person singular present indicative of habitar: to inhabit
+HABITASSE	(verb) first/third-person singular imperfect subjunctive of habitar: to inhabit
+HABITAT	(noun) habitat: A place in which a person lives.
+HABITAVA	(verb) first/third-person singular imperfect indicative of habitar: to inhabit
+HABITAVAM	(verb) third-person plural imperfect indicative of habitar: to inhabit
+HABITAVEIS	(adjective) plural of habitável: habitable, inhabitable\n(verb) second-person plural imperfect indicative of habitar: to inhabit
+HABITAVEL	(adjective) inhabitable: Fit to live in; habitable. (also: habitable)
+HABITAÇAO	(noun) habitation: The act of inhabiting; state of inhabiting or dwelling, or of being inhabited; occupancy.
+HABITE	(verb) first/third-person singular present subjunctive (habitar): to inhabit
+HABITEM	(verb) third-person plural present subjunctive (habitar): to inhabit
+HABITO	(verb) first-person singular present indicative of habitar: to inhabit\n(noun) habit: An action performed on a regular basis.
+HABITOS	(noun) plural of hábito: habit
+HABITOU	(verb) third-person singular preterite indicative of habitar: to inhabit
+HABITUA	(verb) third-person singular present indicative (habituar): to accustom
+HABITUADO	(verb) past participle of habituar: to accustom
+HABITUAIS	(adjective) masculine/feminine plural of habitual: habitual\n(verb) second-person plural present indicative of habituar: to accustom
+HABITUAL	(adjective) habitual: Of a person or thing: engaging in some behaviour as a habit or regularly.
+HABITUALMENTE	(adverb) habitually: By habit; in a habitual manner.
+HABITUAM	(verb) third-person plural present indicative of habituar: to accustom
+HABITUAMOS	(verb) first-person plural present indicative (habituar): to accustom
+HABITUANDO	(verb) gerund of habituar: to accustom
+HABITUAR	(verb) habituar translates to to accustom
+HABITUARA	(verb) first/third-person singular pluperfect indicative of habituar: to accustom
+HABITUARAM	(verb) third-person plural preterite/pluperfect indicative of habituar
+HABITUAREI	(verb) first-person singular future indicative of habituar: to accustom
+HABITUAREM	(verb) third-person plural future subjunctive (habituar): to accustom
+HABITUARIA	(verb) first/third-person singular conditional of habituar: to accustom
+HABITUARMOS	(verb) first-person plural future subjunctive (habituar): to accustom
+HABITUE	(verb) first/third-person singular present subjunctive (habituar): to accustom
+HABITUEI	(verb) first-person singular preterite indicative of habituar: to accustom
+HABITUEM	(verb) third-person plural present subjunctive (habituar): to accustom
+HABITUES	(verb) second-person singular present subjunctive of habituar: to accustom
+HABITUO	(verb) first-person singular present indicative of habituar: to accustom
+HABITUOU	(verb) third-person singular preterite indicative of habituar: to accustom
+HACHURA	(noun) crosshatching: A method of showing shading by means of multiple small lines that intersect.\n(verb) third-person singular present indicative (hachurar): to hatch; to crosshatch
+HACHURADO	(verb) past participle of hachurar: to hatch; to crosshatch
+HACHURAR	(verb) hachurar translates to to hatch, to crosshatch
+HACKEADO	(verb) past participle of hackear: to hack
+HACKEAMOS	(verb) first-person plural present indicative (hackear): to hack
+HACKEANDO	(verb) gerund of hackear: to hack
+HACKEAR	(verb) hackear translates to to hack
+HACKEARA	(verb) first/third-person singular pluperfect indicative of hackear: to hack
+HACKEARAM	(verb) third-person plural preterite/pluperfect indicative of hackear
+HACKEAREM	(verb) third-person plural future subjunctive (hackear): to hack
+HACKEARIA	(verb) first/third-person singular conditional of hackear: to hack
+HACKEASSE	(verb) first/third-person singular imperfect subjunctive of hackear: to hack
+HACKEAVA	(verb) first/third-person singular imperfect indicative of hackear: to hack
+HACKEEI	(verb) first-person singular preterite indicative of hackear: to hack
+HACKEIA	(verb) third-person singular present indicative (hackear): to hack
+HACKEIAM	(verb) third-person plural present indicative of hackear: to hack
+HACKEIE	(verb) first/third-person singular present subjunctive (hackear): to hack
+HACKEIO	(verb) first-person singular present indicative of hackear: to hack
+HACKEOU	(verb) third-person singular preterite indicative of hackear: to hack
+HACKER	(noun) hacker: Someone who hacks.
+HADDOCK	(noun) alternative form of hadoque
+HADICE	(noun) hadith: An eyewitness account of a saying or action of Muhammad or sometimes one of his companions not otherwise found in the Quran.
+HADJI	(noun) hajji: A Muslim who has participated in a hajj.
+HADOQUE	(noun) haddock: A saltwater fish, Melanogrammus aeglefinus, of the North Atlantic, important as a food fish.
+HAFNIO	(noun) hafnium: A chemical element (symbol Hf) with an atomic number of 72: a lustrous, silvery-grey tetravalent transition metal.
+HAGIOGRAFISTA	(noun) hagiografista translates to hagiographist, hagiologist
+HAGIOGRAFO	(noun) hagiographer: Someone who writes in an excessively flattering and laudatory way about a person (as if that person were a saint).
+HAGIOLOGO	(noun) hagiologo translates to hagiographist, hagiologist
+HAGIONIMO	(noun) hagionimo translates to hagionym
+HAGIONIMOS	(noun) plural of hagiónimo: hagionym
+HAICAI	(noun) haiku: A Japanese poem in three lines, the first and last consisting of five morae, and the second consisting of seven morae, usually with an emphasis on the season or a naturalistic theme.
+HAIKU	(noun) haiku: A Japanese poem in three lines, the first and last consisting of five morae, and the second consisting of seven morae, usually with an emphasis on the season or a naturalistic theme.
+HAITIANA	(noun) female equivalent of haitiano: Haitian\n(adjective) feminine singular of haitiano: Haitian
+HAITIANAS	(adjective) feminine plural of haitiano: Haitian\n(noun) plural of haitiana
+HAITIANO	(adjective) haitiano translates to haitian\n(noun) haitiano translates to haitian
+HAITIANOS	(adjective) masculine plural of haitiano: Haitian\n(noun) plural of haitiano: Haitian
+HAJA	(verb) first/third-person singular present subjunctive (haver): there be; exist
+HAJAM	(verb) third-person plural present subjunctive (haver): there be; exist
+HAKKA	(noun) hakka translates to hakka\n(adjective) hakka translates to hakka
+HALEPENSE	(adjective) halepense translates to aleppine
+HALIBUTE	(noun) halibut: A large flatfish of the genus Hippoglossus, which sometimes leaves the ocean floor and swims vertically.
+HALIOTE	(noun) abalone: The meat of the aforementioned mollusc.
+HALITO	(noun) halito translates to exhaled air
+HALITOSE	(noun) halitosis: The condition of having stale or foul-smelling breath.
+HALL	(noun) hall translates to ⟪lobby⟫, entrance hall
+HALO	(noun) halo: A circular band of coloured light, visible around the sun or moon etc., caused by reflection and refraction of light by ice crystals in the atmosphere.
+HALOCROMICO	(adjective) halocromico translates to halochromic
+HALOGENAR	(verb) halogenar translates to to halogenate
+HALOGENEO	(adjective) halogeneo translates to halogeneous\n(noun) alternative form of halogênio
+HALOGENIO	(noun) Brazilian Portuguese standard spelling of halogénio
+HALOGENO	(verb) first-person singular present indicative of halogenar: to halogenate
+HALOGRAFIA	(noun) halografia translates to halography
+HALTERE	(noun) haltere translates to ⟪dumbbell⟫
+HALTERES	(noun) plural of haltere: dumbbell
+HALTEROFILISMO	(noun) weightlifting: A form of exercise in which weights are lifted.
+HALTEROFILISTA	(noun) halterofilista translates to ⟪weightlifter⟫
+HALTEROFILISTAS	(noun) plural of halterofilista: weightlifter
+HALUX	(noun) hallux: A big toe. (also: big toe)
+HAMADRIADE	(noun) hamadryad: A wood-nymph who was physically a part of her tree; she would die if her tree were felled.
+HAMAMELIS	(noun) synonym of hamamélide
+HAMARTIOLOGIA	(noun) hamartiologia translates to hamartiology
+HAMARTOLOGIA	(noun) hamartologia translates to hamartiology
+HAMBURGER	(noun) alternative spelling of hambúrguer
+HAMBURGUER	(noun) hamburger: Ground beef, especially that intended to be made into hamburgers.
+HAMBURGUERIA	(noun) hamburgueria translates to hamburgery
+HAMBURGUES	(adjective) of, from or relating to Hamburg\n(noun) native or inhabitant of Hamburg
+HAMBURGUESA	(adjective) feminine singular of hamburguês: of, from or relating to Hamburg\n(noun) female equivalent of hamburguês: of, from or relating to Hamburg
+HAMBURGUESAS	(adjective) feminine plural of hamburguês: of, from or relating to Hamburg\n(noun) plural of hamburguesa
+HAMSTER	(noun) hamster: Any of various Old World rodent species belonging to the subfamily Cricetinae.
+HANDEBOL	(noun) Brazilian Portuguese standard spelling of andebol
+HANGAR	(noun) hangar translates to ⟪hangar⟫
+HANGUL	(noun) hangul translates to hangul
+HANO	(noun) hano translates to hano
+HANSENIASE	(noun) hanseniase translates to hansen's disease, ⟪leprosy⟫
+HANTAVIRUS	(noun) hantavirus translates to hantavirus
+HAO	(verb) third-person plural present indicative of haver: there be; exist
+HAPAX	(noun) hapax translates to hapax
+HAPLOLOGIA	(noun) haplologia translates to haplology
+HAPTICAS	(adjective) feminine plural of háptico: haptic\n(noun) plural of háptica
+HAPTICIDADE	(noun) hapticidade translates to hapticity
+HAPTICO	(adjective) haptic: Of or relating to the sense of touch.
+HAPTICOS	(adjective) masculine plural of háptico: haptic
+HAPTOTROPISMO	(noun) haptotropismo translates to haptotropism
+HARAKIRI	(noun) alternative spelling of haraquiri
+HARAQUIRI	(noun) haraquiri translates to hara-kiri
+HARAS	(noun) haras translates to stud farm, haras
+HAREM	(noun) harem: Any significant number of women together as a group; a bevy.
+HARIOLOMANCIA	(noun) hariolomancia translates to ariolomancy
+HARMONIA	(noun) harmony: Agreement or accord. (also: agreement, accord)
+HARMONICA	(noun) harmonica: A musical instrument, consisting of a series of hemispherical glasses which, by touching the edges with the dampened finger, give forth the tones.\n(adjective) feminine singular of harmónico: Brazilian Portuguese standard spelling of harmónico
+HARMONICAMENTE	(adverb) harmonically: In a harmonic manner.
+HARMONICO	(adjective) Brazilian Portuguese standard spelling of harmónico\n(noun) harmonic: A component frequency of the signal of a wave that is an integer multiple of the fundamental frequency.
+HARMONIO	(adjective) harmonio translates to ⟪harmonium⟫
+HARMONIOSAMENTE	(adverb) harmoniously: In a harmonious manner; coordinately.
+HARMONIOSO	(adjective) harmonious: Melodious; in harmony.
+HARMONIZA	(verb) third-person singular present indicative (harmonizar): to harmonize / harmonise
+HARMONIZADO	(verb) past participle of harmonizar: to harmonize / harmonise
+HARMONIZAM	(verb) third-person plural present indicative of harmonizar: to harmonize / harmonise
+HARMONIZANDO	(verb) gerund of harmonizar: to harmonize / harmonise
+HARMONIZAR	(verb) to harmonize / harmonise
+HARMONIZARAM	(verb) third-person plural preterite/pluperfect indicative of harmonizar
+HARMONIZAÇAO	(noun) harmonization: An act of harmonizing.
+HARMONIZE	(verb) first/third-person singular present subjunctive (harmonizar): to harmonize / harmonise
+HARPA	(noun) harp: A musical instrument consisting of a body and a curved neck, strung with strings of varying length that are stroked or plucked with the fingers and are vertical to the soundboard when viewed from the end of the body
+HARPAS	(noun) plural of harpa: harp
+HARPIA	(noun) harpy: One who is rapacious or ravenous; an extortioner.
+HARPIAS	(noun) plural of harpia: harpy
+HARPISTA	(noun) harpist: Someone who plays a harp, especially a pedal harp.
+HAS	(verb) second-person singular present indicative of haver: there be; exist
+HASHI	(noun) hashi translates to ⟪chopsticks⟫
+HASHTAG	(noun) hashtag: A metadata tag, signaled by a preceding hash sign (#), used to label content.
+HASSIO	(noun) hassium: An artificially-produced transuranic chemical element (symbol Hs) with atomic number 108.
+HASTA	(noun) hasta translates to ⟪spear⟫
+HASTE	(noun) pole: Any of a small set of extremes; especially, either of two extremes that are possible or available.
+HASTEAMOS	(verb) first-person plural present indicative (hastear): to hoist
+HASTEANDO	(verb) gerund of hastear: to hoist
+HASTEAR	(verb) hastear translates to to hoist
+HASTEARAM	(verb) third-person plural preterite/pluperfect indicative of hastear
+HASTEIA	(verb) third-person singular present indicative (hastear): to hoist
+HASTEIE	(verb) first/third-person singular present subjunctive (hastear): to hoist
+HASTEIEM	(verb) third-person plural present subjunctive (hastear): to hoist
+HASTEOU	(verb) third-person singular preterite indicative of hastear: to hoist
+HAURIR	(verb) haurir translates to to extract
+HAUSSA	(adjective) haussa translates to hausa\n(noun) haussa translates to hausa
+HAUSTO	(noun) hausto translates to ⟪gulp⟫, ⟪sip⟫
+HAUSTORIO	(noun) haustorium: A root of a parasitic plant modified to take nourishment from its host.
+HAUÇA	(noun) hauça translates to hausa language
+HAVAIANA	(adjective) feminine singular of havaiano: Hawaiian\n(noun) female equivalent of havaiano: Hawaiian
+HAVAIANO	(adjective) hawaiian: Of or pertaining to the culture of the US state of Hawaii.\n(noun) hawaiian: Of or pertaining to the culture of the US state of Hawaii.
+HAVANO	(adjective) havano translates to havanan, havanese\n(noun) havano translates to havanan, havanese
+HAVEIS	(verb) second-person plural present indicative of haver: there be; exist
+HAVEMOS	(verb) first-person plural present indicative of haver: there be; exist
+HAVENDO	(verb) gerund of haver: there be; exist
+HAVER	(verb) haver translates to there be, ⟪exist⟫\n(noun) credit: Recognition, respect and admiration.
+HAVERA	(verb) third-person singular future indicative of haver: there be; exist
+HAVERAO	(verb) third-person plural future indicative of haver: there be; exist
+HAVEREI	(verb) first-person singular future indicative of haver: there be; exist
+HAVEREMOS	(verb) first-person plural future indicative of haver: there be; exist
+HAVERES	(noun) plural of haver: there be; exist\n(verb) second-person singular personal infinitive of haver: there be; exist
+HAVERIA	(verb) first/third-person singular conditional of haver: there be; exist
+HAVERIAM	(verb) third-person plural conditional of haver: there be; exist
+HAVERIAMOS	(verb) first-person plural conditional of haver: there be; exist
+HAVERIAS	(verb) second-person singular conditional of haver: there be; exist
+HAVIA	(verb) first/third-person singular imperfect indicative of haver: there be; exist
+HAVIAM	(verb) third-person plural imperfect indicative of haver: there be; exist
+HAVIAMOS	(verb) first-person plural imperfect indicative of haver: there be; exist
+HAVIAS	(verb) second-person singular imperfect indicative of haver: there be; exist
+HAVIDO	(verb) past participle of haver: there be; exist
+HAVIEIS	(verb) second-person plural imperfect indicative of haver: there be; exist
+HAXEMITA	(adjective) haxemita translates to hashemite
+HAXIXE	(noun) hashish: A cannabis extract.
+HEBDOMADARIAMENTE	(adverb) hebdomadally: In periods of seven days; weekly.
+HEBDOMADARIO	(noun) weekly: A publication that is published once a week.
+HEBIATRA	(noun) adolescent medicine physician
+HEBIATRIA	(noun) hebiatria translates to adolescent medicine
+HEBRAICO	(adjective) hebraico translates to hebrew\n(noun) hebraico translates to hebrew
+HEBREIA	(noun) female equivalent of hebreu: Hebrew\n(adjective) feminine singular of hebreu: Hebrew
+HEBREU	(noun) hebreu translates to hebrew
+HEBREUS	(noun) plural of hebreu: Hebrew
+HECATOMBA	(noun) alternative form of hecatombe
+HECATOMBE	(noun) hecatomb: A great number of animals, people, or things that are sacrificed or destroyed; any great sacrifice; also (generally), a large amount.
+HECTARE	(noun) hectare: A unit of surface area (symbol ㏊) equal to 100 ares (that is, 10,000 square metres, one hundredth of a square kilometre, or approximately 2.5 acres), used for measuring the areas of geographical features such as land and bodies of water.
+HECTOLITRO	(noun) hectolitro translates to ⟪hectoliter⟫, hectolitre
+HECTOMETRO	(noun) hectometro translates to hectometre
+HEDIONDA	(adjective) feminine singular of hediondo: heinous\n(noun) Arabian pea (Bituminaria bituminosa), a leguminous plant native to Spain with a characteristic smell of bitumen
+HEDIONDAMENTE	(adverb) hideously: In a hideous manner.
+HEDIONDAS	(adjective) feminine plural of hediondo: heinous
+HEDIONDO	(adjective) heinous: Bad, evil or villainous.
+HEDIONDOS	(adjective) masculine plural of hediondo: heinous
+HEDONISMO	(noun) hedonism: A general devotion to the pursuit of pleasure.
+HEDONISTA	(adjective) hedonista translates to ⟪hedonistic⟫\n(noun) hedonist: Someone devoted to hedonism.
+HEDONISTICAMENTE	(adverb) hedonisticamente translates to hedonistically
+HEGELIANA	(adjective) feminine singular of hegeliano: Hegelian
+HEGELIANISMO	(noun) hegelianismo translates to hegelianism
+HEGELIANO	(adjective) hegeliano translates to hegelian
+HEGEMONIA	(noun) hegemonia translates to ⟪hegemony⟫
+HEGEMONICA	(adjective) feminine singular of hegemónico: hegemonic
+HEGEMONICAMENTE	(adverb) hegemonicamente translates to hegemonically
+HEGEMONICO	(adjective) hegemonic: Of or pertaining to hegemony.
+HEI	(verb) first-person singular present indicative of haver: there be; exist
+HEIM	(interjection) alternative spelling of hein
+HEIN	(interjection) hein translates to huh? hm?
+HEIS	(verb) alternative form of haveis; second-person plural present indicative of haver
+HELEBORO	(noun) hellebore: Any of the common garden flowering plants of the genus Helleborus, in family Ranunculaceae, having supposed medicinal properties.
+HELENICO	(adjective) helenico translates to hellenic
+HELENISMO	(noun) hellenism: The culture and civilization of the Hellenistic period.
+HELENISTA	(adjective) helenista translates to hellenistic\n(noun) helenista translates to hellenist
+HELENISTICO	(adjective) helenistico translates to hellenistic
+HELENIZAR	(verb) helenizar translates to to Hellenize
+HELIANTO	(noun) sunflower: Any plant of the genus Helianthus, so called probably from the form and color of its floral head, having the form of a large disk surrounded by yellow ray flowers.
+HELICE	(noun) a rotating propeller, such as a ship’s screw or a helicopter’s rotor
+HELICICULTURA	(noun) helicicultura translates to heliciculture
+HELICOIDALMENTE	(adverb) helicoidalmente translates to helicoidally
+HELICOIDE	(adjective) helicoid: Having the form of a flattened helix.
+HELICOPTERO	(noun) helicopter: A dragonfly; so named due to its resemblance to a helicopter (sense 1).
+HELICOPTEROS	(noun) plural of helicóptero: helicopter
+HELIO	(noun) helium: The second-lightest chemical element (symbol He), with an atomic number of 2 and atomic weight of 4.002602, a colorless, odorless and inert noble gas.
+HELIOCENTRICO	(adjective) heliocentric: Having the sun at the center/centre; usually in reference to a coordinate system or orbit.
+HELIOGRAFICO	(adjective) heliographic: Of or pertaining to heliography; transmitted by heliograph
+HELIOGRAFO	(noun) heliografo translates to ⟪heliograph⟫
+HELIOMETRO	(noun) heliometer: An astronomical instrument, based on a telescope, for measuring the diameter of the sun; now used to measure the angular distance between stars and other celestial bodies.
+HELIOSCOPIO	(noun) helioscopio translates to helioscope
+HELIOSE	(noun) heliose translates to heliosis
+HELIOSFERA	(noun) heliosfera translates to heliosphere
+HELIOTERMOMETRO	(noun) heliotermometro translates to heliothermometer
+HELIOTROPIO	(noun) sunflower: A bright yellow, like that of the flower petals.
+HELIOTROPISMO	(noun) heliotropism: The property of some plants of turning under the influence of light; either positively (towards the light) or negatively (away from the light).
+HELIPORTO	(noun) heliport: A facility, such as a small airport, designed to let helicopters take off and land.
+HELITRANSPORTADO	(adjective) helitransportado translates to heliborne
+HELVETICA	(adjective) feminine singular of helvético: Helvetian
+HELVETICO	(adjective) helvetico translates to helvetian
+HEM	(interjection) alternative spelling of hein
+HEMACIA	(noun) red blood cell
+HEMACIAS	(noun) plural of hemácia: red blood cell
+HEMATITA	(noun) hematite: An iron ore, mainly peroxide of iron, Fe₂O₃: iron(III) oxide.
+HEMATOCITO	(noun) hematocito translates to hematocyte
+HEMATOFAGO	(adjective) hematofago translates to haematophagous
+HEMATOLOGIA	(noun) hematologia translates to haematology
+HEMATOLOGISTA	(noun) hematologista translates to haematologist
+HEMATOMA	(noun) A type of bruise. Discrete hemorrhagic mass in organ or tissue, often presenting discoloration.
+HEMATOPOIESE	(noun) hematopoiesis: The process by which blood cells are produced; it involves the formation of new cellular components of the blood in myeloid or lymphatic tissues. (also: haematopoiesis, haemopoiesis)
+HEMATOPOIETICO	(adjective) hematopoietic: Of or pertaining to hematopoiesis. (also: haematopoietic)
+HEMEROTECA	(noun) a place, such a section of a library, where periodicals (newspapers, magazines, and so on) are archived for consultation
+HEMIATAXIA	(noun) hemiataxia translates to hemiataxia
+HEMICICLO	(noun) hemicycle: A semicircular structure. (also: semicircle)
+HEMIELITRO	(noun) hemielitro translates to ⟪hemelytron⟫
+HEMIPLEGIA	(noun) hemiplegia: Total or partial inability to move one side of the body.
+HEMIPTERO	(noun) hemipter: Any organism of the order Hemiptera, including cicadas, aphids, planthoppers, leafhoppers, and shield bugs.
+HEMISFERIO	(noun) hemisphere: Either of the two halves of the cerebrum. .
+HEMOCITO	(noun) hemocito translates to hemocyte
+HEMOCROMATOSE	(noun) hemochromatosis: A metabolic disorder causing iron deposits in the body.
+HEMODIALISE	(noun) hemodialysis: Dialysis that uses an extracorporeal apparatus to remove waste products from the blood in the case of kidney failure.
+HEMODINAMICAMENTE	(adverb) hemodinamicamente translates to hemodynamically
+HEMOFILIA	(noun) hemofilia translates to haemophilia
+HEMOGLOBINA	(noun) hemoglobin: The iron-containing substance in red blood cells that transports oxygen from the lungs to the rest of the body; it consists of a protein (globulin), and haem (a porphyrin ring with an atom of iron at its centre).
+HEMOGRAMA	(noun) hemograma translates to hemogram
+HEMOLACRIA	(noun) hemolacria translates to haemolacria
+HEMOLINFA	(noun) hemolinfa translates to hemolymph
+HEMOLINFAS	(noun) plural of hemolinfa: hemolymph
+HEMOLISE	(noun) hemolysis: The destruction of red blood cells, and subsequent release of hemoglobin, at the normal end of the cell's life.
+HEMORRAGIA	(noun) hemorrhage: A sudden or significant loss.
+HEMORRAGIAS	(noun) plural of hemorragia: hemorrhage
+HEMORRAGICAMENTE	(adverb) hemorragicamente translates to hemorrhagically
+HEMORROIDA	(noun) hemorroida translates to ⟪hemorrhoid⟫
+HEMORROIDAS	(noun) plural of hemorroida: hemorrhoid
+HEMORROIDES	(noun) hemorroides translates to haemorrhoids
+HEMOS	(verb) alternative form of havemos; first-person plural present indicative of haver
+HEMOSTASE	(noun) hemostasis: The regulated physiological process by which the body arrests bleeding at a site of vascular injury while preserving blood fluidity and normal circulation elsewhere.
+HEMOSTATICO	(adjective) hemostatico translates to ⟪hemostatic⟫
+HENDECAGONO	(noun) hendecagono translates to hendecagon
+HENDECAVO	(noun) hendecavo translates to great-great-great-great-great-great-great-great-great-great-grandfather
+HENDIADE	(noun) alternative form of hendíadis
+HENDIADIS	(noun) hendiadis translates to ⟪hendiadys⟫
+HENE	(noun) product designed to straighten and darken hair
+HENTAI	(noun) hentai translates to hentai
+HEPATALGIA	(noun) hepatalgia translates to hepatalgia
+HEPATICA	(noun) hepatica translates to ⟪liverwort⟫\n(adjective) feminine singular of hepático: hepatic
+HEPATICO	(adjective) hepatic: Of or relating to the liver.
+HEPATITE	(noun) hepatitis: Inflammation of the liver, sometimes caused by a viral infection.
+HEPTACAMPEAO	(noun) heptacampeao translates to seven-time champion
+HEPTAEDRO	(noun) heptaedro translates to heptahedron
+HEPTAGONO	(noun) heptagon: A polygon with seven sides and seven angles.
+HEPTAVO	(noun) heptavo translates to great-great-great-great-great-great-grandfather
+HERA	(noun) ivy: Any similar plant of any genus.
+HERALDICA	(noun) heraldry: An armorial ensign along with its history and description.\n(adjective) feminine singular of heráldico: heraldic
+HERALDICAMENTE	(adverb) heraldicamente translates to ⟪heraldically⟫
+HERALDICO	(adjective) heraldic: Of, or relating to heraldry or heralds.
+HERANÇA	(noun) inheritance: The passing of title to an estate upon death. (also: heritage, legacy)
+HERBACEO	(adjective) herbaceous: Not woody in flavor.
+HERBARIO	(noun) herbarium: A collection of dried plants or parts of plants.
+HERBICIDA	(noun) herbicide: A substance used to kill plants.
+HERBIVORIA	(noun) herbivoria translates to herbivory
+HERBIVORO	(adjective) herbivoro translates to ⟪herbivorous⟫\n(noun) herbivore: An organism that feeds chiefly on plants; an animal that feeds on herbage or vegetation as the main part of its diet.
+HERBORISTA	(adjective) herbalist: A person who treats diseases by means of medicinal herbs.\n(noun) herbalist: A person who treats diseases by means of medicinal herbs.
+HERBORIZAR	(verb) to harvest (plants) for herbarium or for medicinal applications
+HERCULEA	(adjective) feminine singular of hercúleo: of or pertaining to Hercules
+HERCULEAMENTE	(adverb) herculeamente translates to herculeanly
+HERCULEO	(adjective) of or pertaining to Hercules
+HERCULEOS	(adjective) masculine plural of hercúleo: of or pertaining to Hercules
+HERDA	(verb) third-person singular present indicative (herdar): to inherit
+HERDADA	(verb) feminine singular of herdado
+HERDADE	(noun) demesne: A region or area; a domain.
+HERDADO	(verb) past participle of herdar: to inherit
+HERDAM	(verb) third-person plural present indicative of herdar: to inherit
+HERDAMOS	(verb) first-person plural present indicative (herdar): to inherit
+HERDANDO	(verb) gerund of herdar: to inherit
+HERDANÇA	(noun) alternative form of herança
+HERDAR	(verb) herdar translates to to inherit
+HERDARA	(verb) first/third-person singular pluperfect indicative of herdar: to inherit
+HERDARAM	(verb) third-person plural preterite/pluperfect indicative of herdar
+HERDARAO	(verb) third-person plural future indicative of herdar: to inherit
+HERDAREI	(verb) first-person singular future indicative of herdar: to inherit
+HERDAREM	(verb) third-person plural future subjunctive (herdar): to inherit
+HERDAREMOS	(verb) first-person plural future indicative of herdar: to inherit
+HERDARIA	(verb) first/third-person singular conditional of herdar: to inherit
+HERDARIAM	(verb) third-person plural conditional of herdar: to inherit
+HERDASSE	(verb) first/third-person singular imperfect subjunctive of herdar: to inherit
+HERDASSEM	(verb) third-person plural imperfect subjunctive of herdar: to inherit
+HERDASTE	(verb) second-person singular preterite indicative of herdar: to inherit
+HERDAVA	(verb) first/third-person singular imperfect indicative of herdar: to inherit
+HERDAVEL	(adjective) inheritable: That can be inherited.
+HERDE	(verb) first/third-person singular present subjunctive (herdar): to inherit
+HERDEI	(verb) first-person singular preterite indicative of herdar: to inherit
+HERDEIRO	(noun) heir: Someone who inherits, or is designated to inherit, the property of another. (also: inheritor)
+HERDEM	(verb) third-person plural present subjunctive (herdar): to inherit
+HERDES	(verb) second-person singular present subjunctive of herdar: to inherit
+HERDO	(verb) first-person singular present indicative of herdar: to inherit
+HERDOU	(verb) third-person singular preterite indicative of herdar: to inherit
+HEREDITARIA	(adjective) feminine singular of hereditário: hereditary
+HEREDITARIAMENTE	(adverb) hereditarily: In a hereditary manner.
+HEREDITARIAS	(adjective) feminine plural of hereditário: hereditary
+HEREDITARIEDADE	(noun) heredity: Hereditary transmission of the physical and genetic qualities of parents to their offspring; the biological law by which living beings tend to repeat their characteristics in their descendants.
+HEREDITARIO	(adjective) hereditary: Of a person: holding a legally hereditary title or rank.
+HEREDITARIOS	(adjective) masculine plural of hereditário: hereditary
+HEREGE	(adjective) herege translates to ⟪heretical⟫\n(noun) heretic: Someone who does not conform to generally accepted beliefs or practices.
+HERESIA	(noun) heresy: A doctrine held by a member of a religion at variance or conflict with established religious beliefs.
+HERESIARCA	(noun) heresiarch: The founder of a heresy, or a major ecclesiastical proponent of such a heresy.
+HERESIAS	(noun) plural of heresia: heresy
+HERETICA	(adjective) feminine singular of herético: heretical
+HERETICAMENTE	(adverb) heretically: In a heretical way, or to a heretical extent
+HERETICAS	(adjective) feminine plural of herético: heretical
+HERETICO	(adjective) heretical: Of or pertaining to heresy or heretics.
+HERETICOS	(adjective) masculine plural of herético: heretical
+HERMA	(noun) female equivalent of hermão
+HERMAFRODITA	(adjective) hermaphrodite: Dichogamous: an organism which begins its life as one sex and changes its sex over its life cycle. (also: hermaphroditic)\n(noun) hermaphrodite: Dichogamous: an organism which begins its life as one sex and changes its sex over its life cycle.
+HERMAFRODITO	(adjective) synonym of hermafrodita (“hermaphrodite, hermaphroditic”)\n(noun) synonym of hermafrodita m or f by sense (“hermaphrodite”)
+HERMENEUTA	(noun) hermeneuta translates to hermeneut, hermeneuticist
+HERMENEUTICA	(noun) hermeneutica translates to ⟪hermeneutics⟫\n(adjective) feminine singular of hermenêutico: hermeneutic, hermeneutical
+HERMENEUTICAMENTE	(adverb) hermeneutically: In hermeneutical terms; for hermeneutical purposes; by hermeneutical methods.
+HERMENEUTICO	(adjective) hermeneutical: Of or pertaining to hermeneutics (the study or theory of the methodical interpretation of text, especially holy texts). (also: hermeneutic)
+HERMETICAMENTE	(adverb) hermetically: With a hermetic seal; so as to be airtight.
+HERMETICO	(adjective) hermetic: Hermetically sealed.
+HERMETISMO	(noun) hermeticism: Translations (also: hermetism)
+HERNIA	(noun) hernia: A disorder in which a part of the body protrudes abnormally through a tear or opening in an adjacent part, especially of the abdomen.
+HERNIARIO	(adjective) hernial: Of or relating to a hernia.
+HEROI	(noun) hero: To praise or laud.
+HEROICA	(adjective) feminine singular of heróico: pre-reform spelling of heroico; still used where the agreement hasn’t come into effect and may...
+HEROICAMENTE	(adverb) heroically: In a heroic manner, like a hero.
+HEROICIDADE	(noun) synonym of heroísmo
+HEROICO	(adjective) pre-reform spelling (used until 1990) of heroico; still used where the agreement hasn’t come into effect and may occur as a sporadic misspelling
+HEROINA	(noun) heroine; female equivalent of herói
+HEROISMO	(noun) heroism: The qualities characteristic of a hero, such as courage, bravery, fortitude, selflessness, etc.; the display of such qualities.
+HERPES	(noun) herpes: A viral infection, caused by Human alphaherpesvirus 1 and Human alphaherpesvirus 2, marked by painful, watery blisters in the skin or in the mucous membranes or on the genitals.
+HERPETOLOGIA	(noun) herpetology: The branch of biology dealing with reptiles (Reptilia) and amphibians (Amphibia).
+HERTZ	(noun) hertz: In the International System of Units, the derived unit of frequency; one (period or cycle of any periodic event) per second.
+HERVAS	(noun) plural of herva
+HESITA	(verb) third-person singular present indicative (hesitar): to hesitate
+HESITADO	(verb) past participle of hesitar: to hesitate
+HESITAM	(verb) third-person plural present indicative of hesitar: to hesitate
+HESITAMOS	(verb) first-person plural present indicative (hesitar): to hesitate
+HESITANDO	(verb) gerund of hesitar: to hesitate
+HESITANTE	(adjective) hesitating: hesitation (also: hesitant)
+HESITANTEMENTE	(adverb) hesitantly: With hesitation.
+HESITAR	(verb) hesitar translates to to hesitate
+HESITARA	(verb) first/third-person singular pluperfect indicative of hesitar: to hesitate
+HESITARAM	(verb) third-person plural preterite/pluperfect indicative of hesitar
+HESITARAO	(verb) third-person plural future indicative of hesitar: to hesitate
+HESITAREI	(verb) first-person singular future indicative of hesitar: to hesitate
+HESITAREM	(verb) third-person plural future subjunctive (hesitar): to hesitate
+HESITAREMOS	(verb) first-person plural future indicative of hesitar: to hesitate
+HESITARIA	(verb) first/third-person singular conditional of hesitar: to hesitate
+HESITARIAM	(verb) third-person plural conditional of hesitar: to hesitate
+HESITARIAMOS	(verb) first-person plural conditional of hesitar: to hesitate
+HESITARMOS	(verb) first-person plural future subjunctive (hesitar): to hesitate
+HESITAS	(verb) second-person singular present indicative of hesitar: to hesitate
+HESITASSE	(verb) first/third-person singular imperfect subjunctive of hesitar: to hesitate
+HESITAVA	(verb) first/third-person singular imperfect indicative of hesitar: to hesitate
+HESITAVAM	(verb) third-person plural imperfect indicative of hesitar: to hesitate
+HESITAÇAO	(noun) hesitation: An act of hesitating
+HESITE	(verb) first/third-person singular present subjunctive (hesitar): to hesitate
+HESITEI	(verb) first-person singular preterite indicative of hesitar: to hesitate
+HESITEM	(verb) third-person plural present subjunctive (hesitar): to hesitate
+HESITES	(verb) second-person singular present subjunctive of hesitar: to hesitate
+HESITO	(verb) first-person singular present indicative of hesitar: to hesitate
+HESITOU	(verb) third-person singular preterite indicative of hesitar: to hesitate
+HESTERNO	(adjective) hesterno translates to yesterday's
+HETERO	(adjective) straight: Heterosexual. (also: hetero)\n(noun) a heterosexual person
+HETEROCLITO	(adjective) eclectic: Unrelated and unspecialized; heterogeneous.
+HETEROCROMIA	(noun) heterocromia translates to heterochromia
+HETERODOXAMENTE	(adverb) heterodoxamente translates to heterodoxly
+HETERODOXO	(adjective) unorthodox: Unusual, unconventional, or idiosyncratic. (also: heterodox)
+HETEROFOBIA	(noun) heterofobia translates to heterophobia
+HETEROFOBICO	(adjective) heterofobico translates to heterophobic\n(noun) heterofobico translates to heterophobe
+HETEROFOBO	(adjective) heterofobo translates to heterophobic\n(noun) heterofobo translates to heterophobe
+HETEROFONIA	(noun) heterofonia translates to ⟪heterophony⟫
+HETEROGENEAMENTE	(adverb) heterogeneamente translates to ⟪heterogeneously⟫
+HETEROGENEIDADE	(noun) heterogeneity: The quality of a substance which is not uniform.
+HETEROGENEO	(adjective) European Portuguese standard spelling of heterogêneo
+HETEROLOGICO	(adjective) heterological: Of a word, not describing itself.
+HETERONACIONALISMO	(noun) heteronacionalismo translates to heteronationalism
+HETERONIMICAMENTE	(adverb) heteronimicamente translates to heteronymically
+HETERONIMO	(noun) heteronym: Calque.
+HETERONOMAMENTE	(adverb) heteronomamente translates to heteronomously
+HETERONOMIA	(noun) heteronomy: The state of being beholden to external influences.
+HETERONOMICO	(adjective) heteronomico translates to heteronomic
+HETERONORMATIVIDADE	(noun) heteronormatividade translates to heteronormativity
+HETEROPATRIARCADO	(noun) heteropatriarcado translates to heteropatriarchy
+HETEROPTERO	(adjective) heteroptero translates to heteropter\n(noun) heteroptero translates to heteropter
+HETEROSSEXISMO	(noun) heterossexismo translates to heterosexism
+HETEROSSEXUAIS	(adjective) masculine/feminine plural of heterossexual: heterosexual
+HETEROSSEXUAL	(adjective) heterosexual: Sexually attracted to members of the opposite sex.\n(noun) a heterosexual person
+HETEROSSEXUALIDADE	(noun) heterosexuality: The state of being sexually and romantically attracted primarily or exclusively to persons of the opposite sex.
+HETEROSSEXUALISMO	(noun) heterossexualismo translates to heterosexualism
+HETEROTROFICO	(adjective) heterotrofico translates to ⟪heterotrophic⟫
+HETEROTROFO	(noun) heterotrofo translates to ⟪heterotroph⟫\n(adjective) heterotrophic: Relating to heterotrophy.
+HETEROZIGOTO	(noun) heterozygote: A diploid individual that has different alleles at one or more genetic loci.
+HEURECA	(interjection) alternative spelling of eureca
+HEURISTICA	(noun) heuristic: That reasons from the value of a method or principle that has been shown by experimental investigation to be a useful aid in learning, discovery and problem-solving.\n(adjective) feminine singular of heurístico: heuristic
+HEURISTICAMENTE	(adverb) heuristicamente translates to heuristically
+HEURISTICO	(adjective) heuristic: That reasons from the value of a method or principle that has been shown by experimental investigation to be a useful aid in learning, discovery and problem-solving.
+HEXACAMPEAO	(noun) hexacampeao translates to six-time champion
+HEXACAMPEONATO	(noun) hexacampeonato translates to six-time win
+HEXACOPTERO	(noun) hexacoptero translates to hexacopter
+HEXACOSIOIHEXECONTAHEXAFOBIA	(noun) hexacosioihexecontahexafobia translates to hexakosioihexekontahexaphobia
+HEXADECIMAIS	(adjective) plural of hexadecimal: hexadecimal\n(noun) plural of hexadecimal: hexadecimal
+HEXADECIMAL	(adjective) hexadecimal translates to ⟪hexadecimal⟫\n(noun) hexadecimal translates to ⟪hexadecimal⟫
+HEXAEDRO	(noun) hexahedron: A polyhedron with six faces.
+HEXAGONAIS	(adjective) plural of hexagonal: hexagonal
+HEXAGONAL	(adjective) hexagonal: Having six edges, or having a cross-section in the form of a hexagon.
+HEXAGONO	(adjective) hexagono translates to ⟪hexagonal⟫\n(noun) hexagon: A polygon with six sides and six angles.
+HEXAMETRO	(noun) hexameter: A line in a poem having six metrical feet.
+HEXAVO	(noun) hexavo translates to great-great-great-great-great-grandfather
+HIALINAMENTE	(adverb) hialinamente translates to hyalinely
+HIALINO	(adjective) hyaline: Glassy, transparent; amorphous.
+HIALOPLASMA	(noun) cytosol: The aqueous solution of a cell's cytoplasm, consisting of water, organic molecules and inorganic ions.
+HIALURONICO	(adjective) hialuronico translates to hyaluronic
+HIATO	(noun) hiatus: A syllable break between two vowels, without an intervening consonant.
+HIATOS	(noun) plural of hiato: hiatus
+HIBERNA	(verb) third-person singular present indicative (hibernar): to hibernate
+HIBERNADO	(verb) past participle of hibernar: to hibernate
+HIBERNAL	(adjective) hibernal: Of or pertaining to winter; brumal or hiemal
+HIBERNAM	(verb) third-person plural present indicative of hibernar: to hibernate
+HIBERNANDO	(verb) gerund of hibernar: to hibernate
+HIBERNAR	(verb) hibernar translates to to hibernate
+HIBERNARAM	(verb) third-person plural preterite/pluperfect indicative of hibernar
+HIBERNAVAM	(verb) third-person plural imperfect indicative of hibernar: to hibernate
+HIBERNAÇAO	(noun) hibernation: A state of minimum power consumption, inactivity and metabolic depression in some animals during winter.
+HIBERNEI	(verb) first-person singular preterite indicative of hibernar: to hibernate
+HIBERNOU	(verb) third-person singular preterite indicative of hibernar: to hibernate
+HIBISCO	(noun) hibiscus: A flowering plant of the genus Hibiscus, especially Hibiscus syriacus, found in tropical to temperate regions, of some species used for making infusions/tea.
+HIBRIDA	(verb) third-person singular present indicative (hibridar): to hybridize\n(adjective) feminine singular of híbrido: hybrid
+HIBRIDAMENTE	(adverb) hibridamente translates to hybridly
+HIBRIDAR	(verb) hibridar translates to to hybridize
+HIBRIDAS	(verb) second-person singular present indicative of hibridar: to hybridize\n(adjective) feminine plural of híbrido: hybrid
+HIBRIDAÇAO	(noun) hybridization: The linear combination of atomic orbitals in a molecule to form hybrid orbitals.
+HIBRIDEZ	(noun) hibridez translates to ⟪hybridity⟫
+HIBRIDISMO	(noun) synonym of hibridez
+HIBRIDO	(adjective) hybrid: Something of mixed origin or composition; often, a tool or technology that combines the benefits of formerly separate tools or technologies.\n(noun) hybrid: Something of mixed origin or composition; often, a tool or technology that combines the benefits of formerly separate tools or technologies.
+HIBRIDOS	(noun) plural of híbrido: hybrid
+HIBRISTOFILIA	(noun) hibristofilia translates to hybristophilia
+HIDRA	(noun) hydra: A dragon-like creature with many heads and the ability to regrow them when maimed.
+HIDRACIDO	(noun) hydracid: An acid that does not contain any oxygen; they are all binary compounds of hydrogen plus either a halogen (for example, hydrochloric acid, hydrofluoric acid, hydroiodic acid, hydrobromic acid) or a pseudohalogen.
+HIDRANGEA	(noun) hydrangea: Any of several shrubs, of the genus Hydrangea, having large clusters of white, pink or blue flowers. (also: hortensia)
+HIDRANTE	(noun) hidrante translates to fire hydrant
+HIDRATA	(verb) third-person singular present indicative (hidratar): to hydrate
+HIDRATADO	(adjective) hydrated: Combined chemically with water.\n(verb) past participle of hidratar: to hydrate
+HIDRATAM	(verb) third-person plural present indicative of hidratar: to hydrate
+HIDRATANDO	(verb) gerund of hidratar: to hydrate
+HIDRATANTE	(adjective) moisturizing: That moisturizes. (also: hydrating)\n(noun) hidratante translates to moisturizer
+HIDRATAR	(verb) hidratar translates to to hydrate
+HIDRATARA	(verb) third-person singular future indicative of hidratar: to hydrate
+HIDRATAÇAO	(noun) hydration: Translations
+HIDRATE	(verb) first/third-person singular present subjunctive (hidratar): to hydrate
+HIDRATEI	(verb) first-person singular preterite indicative of hidratar: to hydrate
+HIDRATEM	(verb) third-person plural present subjunctive (hidratar): to hydrate
+HIDRATO	(noun) hydrate: A solid compound containing or linked to water molecules.\n(verb) first-person singular present indicative of hidratar: to hydrate
+HIDRAULICA	(noun) hydraulics: The hydraulic system of a vehicle or other machine.\n(adjective) feminine singular of hidráulico: relating to hydraulics
+HIDRAULICAMENTE	(adverb) hydraulically: Using hydraulics.
+HIDRAULICO	(adjective) relating to hydraulics\n(noun) man versed in hydraulics
+HIDRICAMENTE	(adverb) hidricamente translates to hydrically
+HIDRICO	(adjective) hydrous: Containing combined water; hydrated.
+HIDROAVIAO	(noun) seaplane: Any aircraft capable of taking off from, and alighting on the surface of water.
+HIDROCARBONETO	(noun) hydrocarbon: A compound consisting only of carbon and hydrogen atoms.
+HIDRODINAMICA	(adjective) feminine singular of hidrodinâmico: hydrodynamic\n(noun) hydrodynamics: The scientific study of liquids in motion.
+HIDRODINAMICAMENTE	(adverb) hydrodynamically: using hydrodynamics
+HIDRODINAMICO	(adjective) hydrodynamic: Of, or relating to the science of hydrodynamics.
+HIDROELECTRICO	(adjective) pre-reform spelling (used until 1990) of hidroelétrico; still used where the agreement hasn’t come into effect and may occur as a sporadic misspelling
+HIDROELETRICO	(adjective) alternative form of hidrelétrico
+HIDROFOBIA	(noun) hydrophobia: An aversion to water, as a symptom of rabies; the disease of rabies itself. (also: rabies)
+HIDROFOBICO	(adjective) hydrophobic: Of, or having, hydrophobia (rabies); rabid.
+HIDROFOLIO	(noun) hydrofoil: A wing attached to the hull of a ship that raises it out of the water when travelling at speed and thus reduces drag.
+HIDROGENADO	(verb) past participle of hidrogenar: to hydrogenate
+HIDROGENAR	(verb) hidrogenar translates to to hydrogenate
+HIDROGENAÇAO	(noun) hydrogenation: The chemical reaction of hydrogen with another substance, especially with an unsaturated organic compound, and usually under the influence of temperature, pressure and catalysts.
+HIDROGENIO	(noun) hydrogen: The lightest chemical element (symbol H), with an atomic number of 1 and atomic weight of 1.008.
+HIDROGRAFIA	(noun) hydrography: The scientific measurement and description of the physical features and conditions of navigable waters and the shoreline.
+HIDROGRAFICO	(adjective) hydrographic: Of or pertaining to hydrography.
+HIDROLISE	(noun) hydrolysis: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
+HIDROLITICAMENTE	(adverb) hidroliticamente translates to hydrolytically
+HIDROLOGIA	(noun) hydrology: The properties, distribution, and flows of water in a specific locale; the hydrological characteristics of a particular place or region.
+HIDROLOGICAMENTE	(adverb) hydrologically: With regard to hydrology.
+HIDROMECANICO	(adjective) hidromecanico translates to hydromechanical
+HIDROMEL	(noun) mead: An alcoholic drink fermented from honey and water.
+HIDROPISIA	(noun) hidropisia translates to ⟪dropsy⟫
+HIDROPLANAGEM	(noun) hydroplaning: The loss of contact with the road because of surface water; the act of aquaplaning.
+HIDROPLANAGENS	(noun) plural of hidroplanagem: hydroplaning
+HIDROPLANO	(noun) hydroplane: To skim the surface of a body of water while moving at high speed.\n(verb) first-person singular present indicative of hidroplanar
+HIDROPONICA	(noun) hydroponics: The cultivation of plants in a nutrient solution rather than in the soil.\n(adjective) feminine singular of hidropónico: hydroponic
+HIDROPONICAMENTE	(adverb) hidroponicamente translates to hydroponically
+HIDROPONICAS	(adjective) feminine plural of hidropónico: hydroponic
+HIDROPONICO	(adjective) hydroponic: Of a plant; pertaining to or grown using hydroponics, a method of growing plants using mineral nutrient solutions in water, without soil.
+HIDROPONICOS	(adjective) masculine plural of hidropónico: hydroponic
+HIDROSCOPIA	(noun) hidroscopia translates to hydroscopy
+HIDROSSERE	(noun) hidrossere translates to hydrosere
+HIDROSSOLUVEL	(adjective) hidrossoluvel translates to hydrosoluble
+HIDROSTATICA	(noun) hydrostatics: The scientific study of fluids at rest, especially when under pressure.\n(adjective) feminine singular of hidrostático
+HIDROSTATICAMENTE	(adverb) hidrostaticamente translates to ⟪hydrostatically⟫
+HIDROTERAPIA	(noun) hydropathy: The therapeutic use of water, either internally or externally. (also: hydrotherapy)
+HIDROVIA	(noun) waterway: A body of water, such as a river, channel or canal, that is navigable.
+HIDROVIARIO	(adjective) waterway: A conduit or watercourse, such as on the deck of a ship, to drain water.
+HIDROVIAS	(noun) plural of hidrovia: waterway
+HIDROXICLOROQUINA	(noun) hidroxicloroquina translates to hydroxychloroquine
+HIDROXIPROPILMETILCELULOSE	(noun) hidroxipropilmetilcelulose translates to hydroxypropyl methylcellulose
+HIENA	(noun) hiena translates to ⟪hyena⟫
+HIERARQUIA	(noun) hierarchy: Any group of objects ranked so that every one but the topmost is subordinate to a specified one above it.
+HIERARQUIAS	(noun) plural of hierarquia: hierarchy
+HIERARQUICAMENTE	(adverb) hierarchically: Of, relating to, or arranged in a hierarchy.
+HIERARQUICO	(adjective) hierarchical: Classified or arranged according to various criteria into successive ranks or grades.
+HIERATICAMENTE	(adverb) hieraticamente translates to hieratically
+HIERATICO	(adjective) hieratico translates to ⟪hieratic⟫
+HIEROFANIA	(noun) hierofania translates to hierophany
+HIEROFANTA	(noun) alternative form of hierofante
+HIEROFANTE	(noun) hierophant: An ancient Greek priest who interpreted sacred mysteries, especially the priest of the Eleusinian Mysteries.
+HIEROGLIFO	(noun) hieroglyph: An element (individual sign or glyph) of a hieroglyphic writing system.
+HIEROGLIFOS	(noun) plural of hieróglifo: hieroglyph
+HIEROGRAFIA	(noun) hierografia translates to hierography
+HIEROMANCIA	(noun) hieromancia translates to hieromancy
+HIEROMANCIAS	(noun) plural of hieromancia: hieromancy
+HIEROSCOPIA	(noun) hieroscopia translates to hieromancy, hieroscopy
+HIFA	(noun) hypha: Any of the long, threadlike filaments that form the mycelium of a fungus.
+HIFEN	(noun) hyphen: The symbol "‐", typically used to join two or more words to form a compound term, or to indicate that a word has been split at the end of a line.
+HIFENIZAR	(verb) hifenizar translates to to hyphenate
+HIFENIZAÇAO	(noun) hyphenation: The inclusion of hyphens; especially, the correct locations of hyphens.
+HIGHLANDER	(noun) highlander: Any person who lives in mountainous or hilly terrain.
+HIGHLANDERS	(noun) plural of highlander: highlander; Highlander
+HIGIDEZ	(noun) good health, the quality of being healthy
+HIGIDO	(adjective) healthy: Conducive to health.
+HIGIENE	(noun) hygiene: The science of health, its promotion and preservation.
+HIGIENICAMENTE	(adverb) hygienically: In a hygienic manner.
+HIGIENICO	(adjective) European Portuguese standard spelling of higiênico
+HIGIENISTA	(noun) hygienist: A person skilled in hygienics, but especially a dental assistant who cleans teeth etc
+HIGIENIZADO	(verb) past participle of higienizar: to sanitize
+HIGIENIZAR	(verb) higienizar translates to to sanitize
+HIGIENIZAÇAO	(noun) sanitation: The hygienic disposal or recycling of waste. (also: cleaning)
+HIGROMETRO	(noun) hygrometer: An instrument that measures the humidity of the air or other gases, especially the relative humidity.
+HIGROSCOPIA	(noun) higroscopia translates to hygroscopy
+HIGROSCOPICO	(adjective) higroscopico translates to ⟪hygroscopic⟫
+HILARIA	(adjective) feminine singular of hilário: hilarious
+HILARIAMENTE	(adverb) hilariously: With great hilarity or mirth.
+HILARIANTE	(adjective) hilarious: Full of hilarity; merry.
+HILARIANTEMENTE	(adverb) hilariously: With great hilarity or mirth.
+HILARIAS	(adjective) feminine plural of hilário: hilarious
+HILARIDADE	(noun) hilarity: Something that induces much laughter.
+HILARIEDADE	(noun) alternative form of hilaridade
+HILARIO	(adjective) hilarious: Full of hilarity; merry.\n(noun) one who trades donkeys or horses
+HILARIOS	(adjective) masculine plural of hilário: hilarious
+HILIGAYNON	(noun) hiligaynon translates to hiligaynon, ilonggo
+HIMEN	(noun) hymen: A membrane which completely or partially occludes the vaginal opening in human females.
+HINARIO	(noun) hymnal: A collection of hymns; a hymn book.
+HINDI	(noun) hindi translates to hindi
+HINDU	(adjective) hindu translates to hindu
+HINDUISMO	(noun) hinduismo translates to hinduism
+HINDUSTANI	(adjective) hindustani: The pluricentric language of Hindi-Urdu, of which Hindi and Urdu are literary standards; the language from which Hindi and Urdu are derived.\n(noun) hindustani: The pluricentric language of Hindi-Urdu, of which Hindi and Urdu are literary standards; the language from which Hindi and Urdu are derived.
+HINO	(noun) hymn: A song of praise or worship, especially a religious one.\n(verb) first-person singular present indicative of hinir
+HINOLOGICO	(adjective) hinologico translates to hymnological
+HINTERLANDIA	(noun) hinterland: The rural territory surrounding an urban area, especially a port.
+HIOIDE	(noun) hioide translates to hyoid bone
+HIPALAGE	(noun) hypallage: A phrase in which this occurs.
+HIPERALGESIA	(noun) hiperalgesia translates to hyperalgesia
+HIPERATIVIDADE	(noun) hyperactivity: The quality of being hyperactive; excessive and pathological movement and restlessness.
+HIPERATIVO	(adjective) hyperactive: Having an increased state of activity
+HIPERBATO	(noun) hiperbato translates to hyperbaton
+HIPERBIBASMO	(noun) hiperbibasmo translates to hyperbibasm
+HIPERBOLE	(noun) hiperbole translates to ⟪hyperbola⟫
+HIPERBOLICAMENTE	(adverb) hiperbolicamente translates to ⟪hyperbolically⟫
+HIPERBOLICO	(adjective) hyperbolic: Of or pertaining to a hyperbola.
+HIPERBOREO	(adjective) hiperboreo translates to ⟪hyperborean⟫\n(noun) hiperboreo translates to ⟪hyperborean⟫
+HIPERCALCEMIA	(noun) hipercalcemia translates to hypercalcaemia
+HIPERCALEMIA	(noun) hipercalemia translates to hyperkalemia
+HIPERESPAÇO	(noun) hyperspace: An n-dimensional Euclidian space with n > 3.
+HIPERFOCO	(noun) hiperfoco translates to hyperfocus
+HIPERGLICEMIA	(noun) hyperglycemia: An unusually high concentration of sugar in the blood
+HIPERGOLICO	(adjective) hipergolico translates to hypergolic
+HIPERICAO	(noun) St. John's wort (any plant of the genus Hypericum)
+HIPERIDROSE	(noun) hyperhidrosis: A medical condition with the primary symptom of excessive sweating, in excess of that required for regulation of body temperature.
+HIPERINFLAÇAO	(noun) hiperinflaçao translates to hyperinflation
+HIPERLIGAR	(verb) hiperligar translates to hyperlink
+HIPERLIGAÇAO	(noun) hiperligaçao translates to hyperlink
+HIPERMETROPIA	(noun) farsightedness: The condition of being unable to focus on near objects; presbyopia. (also: hyperopia, hypermetropia)
+HIPERNACIONALISMO	(noun) hipernacionalismo translates to hypernationalism
+HIPERNATREMIA	(noun) hipernatremia translates to hypernatremia
+HIPERONIMO	(noun) hiperonimo translates to hypernym, hyperonym
+HIPERPIESE	(noun) hiperpiese translates to hyperpiesis
+HIPERPIESICO	(adjective) hiperpiesico translates to hyperpietic\n(noun) hiperpiesico translates to hyperpietic
+HIPERPOTASSEMIA	(noun) hiperpotassemia translates to hyperpotassemia, hyperkalemia
+HIPERTENSAO	(noun) hypertension: A state of great (nervous or emotional) tension.
+HIPERTENSIVO	(adjective) hypertensive: Of, pertaining to, or causing hypertension.
+HIPERTERMIA	(noun) hyperthermia: The condition of having an abnormally high body temperature caused by a failure of the heat-regulating mechanisms of the body to deal with the heat coming from the environment.
+HIPERTEXTO	(noun) hipertexto translates to ⟪hypertext⟫
+HIPERTIREOIDISMO	(noun) hyperthyroidism: The excessive production of hormones by the thyroid.
+HIPERTONICO	(adjective) hypertonic: Having a greater osmotic pressure than another.
+HIPERTROFIA	(noun) hypertrophy: An increase in the size of an organ or tissue due to the enlargement of its individual cells.\n(verb) third-person singular present indicative (hipertrofiar): to hypertrophy
+HIPERTROFIAR	(verb) hipertrofiar translates to to hypertrophy
+HIPERVENTILAÇAO	(noun) hyperventilation: The state of breathing faster or deeper than necessary.
+HIPICO	(adjective) equestrian: Of horseback riding or horseback riders.
+HIPISMO	(noun) hipismo translates to horse racing
+HIPNOSE	(noun) hypnosis: Any of various sleep-like conditions.
+HIPNOTICAMENTE	(adverb) hipnoticamente translates to ⟪hypnotically⟫
+HIPNOTICO	(adjective) hypnotic: Of or relating to hypnosis or hypnotism.
+HIPNOTISMO	(noun) hipnotismo translates to ⟪hypnotism⟫
+HIPNOTIZA	(verb) third-person singular present indicative (hipnotizar): to hypnotize
+HIPNOTIZADO	(verb) past participle of hipnotizar: to hypnotize
+HIPNOTIZAM	(verb) third-person plural present indicative of hipnotizar: to hypnotize
+HIPNOTIZAMOS	(verb) first-person plural present indicative (hipnotizar): to hypnotize
+HIPNOTIZANDO	(verb) gerund of hipnotizar: to hypnotize
+HIPNOTIZAR	(verb) hipnotizar translates to to hypnotize
+HIPNOTIZARAM	(verb) third-person plural preterite/pluperfect indicative of hipnotizar
+HIPNOTIZAREI	(verb) first-person singular future indicative of hipnotizar: to hypnotize
+HIPNOTIZARIA	(verb) first/third-person singular conditional of hipnotizar: to hypnotize
+HIPNOTIZASSE	(verb) first/third-person singular imperfect subjunctive of hipnotizar: to hypnotize
+HIPNOTIZAVA	(verb) first/third-person singular imperfect indicative of hipnotizar: to hypnotize
+HIPNOTIZE	(verb) first/third-person singular present subjunctive (hipnotizar): to hypnotize
+HIPNOTIZEI	(verb) first-person singular preterite indicative of hipnotizar: to hypnotize
+HIPNOTIZO	(verb) first-person singular present indicative of hipnotizar: to hypnotize
+HIPNOTIZOU	(verb) third-person singular preterite indicative of hipnotizar: to hypnotize
+HIPOCALCEMIA	(noun) hipocalcemia translates to hypocalcaemia
+HIPOCALEMIA	(noun) hypokalemia: The condition of having an abnormally low concentration of potassium ions in the blood (below the reference range).
+HIPOCAMPO	(noun) hippocampus: A mythological creature with the front head and forelimbs of a horse and the rear of a fish. (also: hippocamp)
+HIPOCENTAURO	(noun) hipocentauro translates to hippocentaur
+HIPOCONDRIA	(noun) hypochondria: A formerly defined psychological disorder characterized by excessive preoccupation or worry about having a serious illness. No longer a current medical diagnosis; see hypochondriasis for more. (also: hypochondriasis)
+HIPOCONDRIACO	(adjective) hypochondriac: A person affected with hypochondria.\n(noun) hypochondriac: A person affected with hypochondria.
+HIPOCORISTICO	(adjective) hipocoristico translates to ⟪hypocoristic⟫\n(noun) hypocorism: The formation of terms of endearment or pet names.
+HIPOCRISIA	(noun) hypocrisy: An instance of hypocrisy.
+HIPOCRISIAS	(noun) plural of hipocrisia: hypocrisy
+HIPOCRITA	(adjective) hipocrita translates to ⟪hypocritical⟫\n(noun) hypocrite: Someone who practices hypocrisy, who pretends to hold beliefs, or whose actions are not consistent with their claimed beliefs.
+HIPOCRITAMENTE	(adverb) hypocritically: in a hypocritical manner.
+HIPODERME	(noun) hipoderme translates to ⟪hypoderm⟫
+HIPODERMICO	(adjective) hypodermic: Of, or relating to the hypodermis, the layer beneath the dermis.
+HIPODROMO	(noun) hippodrome: A horse racing course.
+HIPOFISE	(noun) hipofise translates to pituitary gland, ⟪hypophysis⟫
+HIPOGASTRICO	(adjective) hypogastric: Of or pertaining to the hypogastrium.
+HIPOGEU	(noun) hipogeu translates to ⟪hypogeum⟫\n(adjective) underground: Below the ground; below the surface of the Earth. (also: subterranean)
+HIPOGLICEMIA	(noun) hypoglycemia: A too low level of blood glucose.
+HIPOGLOSSO	(noun) hypoglossal: Of or pertaining to the area under the tongue.\n(adjective) hypoglossal: Of or pertaining to the area under the tongue.
+HIPOGRIFO	(noun) hippogriff: a mythical beast, half griffin and half horse, supposedly the offspring of a griffin and a filly.
+HIPONATREMIA	(noun) hiponatremia translates to hyponatremia
+HIPONIMO	(noun) hiponimo translates to hyponym
+HIPOPIESE	(noun) hipopiese translates to hypopiesis
+HIPOPIESICO	(adjective) hipopiesico translates to hypopietic\n(noun) hipopiesico translates to hypopietic
+HIPOPOTAMA	(noun) female equivalent of hipopótamo: hippopotamus
+HIPOPOTAMO	(noun) hippopotamus: The common hippopotamus (Hippopotamus amphibius).
+HIPOPOTAMOS	(noun) plural of hipopótamo: hippopotamus
+HIPOPOTASSEMIA	(noun) hipopotassemia translates to hypopotassemia, ⟪hypokalemia⟫
+HIPOPOTOMONSTROSESQUIPEDALIOFOBIA	(noun) hipopotomonstrosesquipedaliofobia translates to hippopotomonstrosesquipedaliophobia
+HIPOSTASE	(noun) hypostasis: The underlying reality or substance of something.
+HIPOSTATICAMENTE	(adverb) hipostaticamente translates to ⟪hypostatically⟫
+HIPOSTATICO	(adjective) hypostatic: Pertaining to hypostasis, especially with reference to hypostatic union.
+HIPOTECA	(noun) mortgage: A legal agreement in which a borrower pledges real property as collateral for a loan used to purchase or refinance that property.\n(verb) third-person singular present indicative (hipotecar): to mortgage
+HIPOTECADO	(verb) past participle of hipotecar: to mortgage
+HIPOTECAMOS	(verb) first-person plural present indicative (hipotecar): to mortgage
+HIPOTECANDO	(verb) gerund of hipotecar: to mortgage
+HIPOTECAR	(verb) hipotecar translates to to mortgage
+HIPOTECARAM	(verb) third-person plural preterite/pluperfect indicative of hipotecar
+HIPOTECARIO	(adjective) mortgage: To borrow against a property, to obtain a loan for another purpose by giving away the right of seizure to the lender over a fixed property such as a house or piece of land; to pledge a property in order to get a loan.
+HIPOTECAS	(noun) plural of hipoteca: mortgage\n(verb) second-person singular present indicative of hipotecar: to mortgage
+HIPOTECOU	(verb) third-person singular preterite indicative of hipotecar: to mortgage
+HIPOTENSAO	(noun) hypotension: The disease or disorder of abnormally low blood pressure.
+HIPOTENUSA	(noun) hypotenuse: The side of a right triangle opposite the right angle.
+HIPOTEQUE	(verb) first/third-person singular present subjunctive (hipotecar): to mortgage
+HIPOTEQUEI	(verb) first-person singular preterite indicative of hipotecar: to mortgage
+HIPOTERAPIA	(noun) hipoterapia translates to equitherapy, hippotherapy
+HIPOTERMIA	(noun) hypothermia: Abnormally low body temperature; specifically, below 35 degrees Celsius for humans.
+HIPOTESE	(noun) hypothesis: The antecedent of a conditional statement.
+HIPOTESES	(noun) plural of hipótese: hypothesis
+HIPOTETICA	(adjective) feminine singular of hipotético: hypothetical
+HIPOTETICAMENTE	(adverb) hypothetically: In a hypothetical way; as a hypothesis.
+HIPOTETICO	(adjective) hypothetical: Based upon a hypothesis; conjectural.
+HIPOTETICOS	(adjective) masculine plural of hipotético: hypothetical
+HIPOTIREOIDISMO	(noun) hypothyroidism: The disease state caused by insufficient production of thyroid hormone by the thyroid gland.
+HIPOTONICO	(adjective) hypotonic: Having a lower osmotic pressure than another.
+HIPOXIA	(noun) alternative form of hipóxia
+HIPPIE	(noun) hippie: One who chooses not to conform to prevailing social norms: especially one who subscribes to values or actions such as acceptance or self-practice of recreational drug use, liberal or radical sexual mores, advocacy of communal living, strong pacifism or anti-war sentiment, etc.
+HIPROMELOSE	(noun) hipromelose translates to hypromellose
+HIPSOMETRICO	(adjective) hypsometric: Of or pertaining to hypsometry (measuring elevation relative to sea level)
+HIRAGANA	(noun) hiragana: The main syllabary for the Japanese language, used to represent native Japanese words, including particles, and when kanji is used, to represent verb and adjective endings.
+HIRSUTO	(adjective) hairy: Long-haired. (also: hirsute)
+HIRTO	(adjective) stiff: Rigid; hard to bend; inflexible. (also: rigid)
+HISPANA	(form of hispano) (noun) alternative form of hispânico
+HISPANICO	(adjective) hispanico translates to hispanic\n(noun) hispanico translates to hispanic
+HISPANISMO	(noun) hispanismo translates to hispanicism, hispanism, castilianism
+HISPANIZAR	(verb) hispanizar translates to to Hispanicize
+HISPANO	(noun) alternative form of hispânico
+HISPANOFALANTE	(noun) hispanofalante translates to spanish-speaker, hispanophone
+HISSOPE	(noun) aspergillum: An implement, in the form of a brush or of a rod with a perforated container, for sprinkling holy water; a holy-water sprinkle.
+HISSOPO	(noun) hyssop: Any of several similar plants
+HISTERECTOMIA	(noun) hysterectomy: The surgical procedure to remove all of or part of the uterus.
+HISTERIA	(noun) hysteria: Synonym of conversion disorder.
+HISTERICA	(adjective) feminine singular of histérico: hysterical\n(noun) female equivalent of histérico: hysterical
+HISTERICAMENTE	(adverb) hysterically: In a hysterical manner; showing signs of hysteria.
+HISTERICAS	(adjective) feminine plural of histérico: hysterical\n(noun) plural of histérica
+HISTERICO	(adjective) hysterical: Of, or arising from hysteria.\n(noun) histerico translates to ⟪hysteric⟫
+HISTERICOS	(adjective) masculine plural of histérico: hysterical\n(noun) plural of histérico: hysterical
+HISTOLISE	(noun) histolysis: breakdown of bodily tissues
+HISTOLOGIA	(noun) histology: The study of the microscopic structure, chemical composition and function of the tissue or tissue systems of plants and animals.
+HISTOLOGICAMENTE	(adverb) histologically: In a histological manner.
+HISTOPATOLOGIA	(noun) histopatologia translates to histopathology
+HISTOPATOLOGICAMENTE	(adverb) histopatologicamente translates to histopathologically
+HISTORIA	(noun) pre-reform spelling (used until 1943 in Brazil and 1911 in Portugal) of história
+HISTORIADOR	(noun) historian: One who studies or researches history.
+HISTORIADORA	(noun) female equivalent of historiador: historian
+HISTORIAS	(noun) plural of historia: pre-reform spelling of história
+HISTORICA	(adjective) feminine singular of histórico: historical
+HISTORICAMENTE	(adverb) historically: In a historic manner; with reference to history or the historical record.
+HISTORICO	(adjective) historical: Of, concerning, or in accordance with recorded history, (particularly) as opposed to legends, myths, and fictions.\n(noun) history: A record or narrative description of past events.
+HISTORIOGRAFICAMENTE	(adverb) historiograficamente translates to historiographically
+HISTRIONICAMENTE	(adverb) histrionically: In a histrionic manner.
+HISTRIONICO	(adjective) histrionic: Of or relating to actors or acting.
+HIT	(noun) hit: Something very successful, such as a song, film, or video game, that receives widespread recognition and acclaim.
+HITAR	(verb) to make a hit; to succeed
+HITE	(verb) first/third-person singular present subjunctive (hitar): to make a hit; to succeed
+HITITA	(adjective) hitita translates to hittite\n(noun) hitita translates to hittite
+HITLERISMO	(noun) hitlerismo translates to hitlerism
+HITS	(noun) plural of hit: hit
+HJELMSLEVIANO	(adjective) hjelmsleviano translates to hjelmslevian
+HOAHAOISMO	(noun) hoahaoismo translates to hoahaoism
+HOBBY	(noun) hobby: An activity that one enjoys doing in one's spare time.
+HODIERNAMENTE	(adverb) nowadays: At the present time; in the current era. (also: currently, today)
+HODIERNO	(adjective) from or relative to today, nowaday, current, present
+HOJE	(adverb) today: today (noun)
+HOJES	(form of hoje) (adverb) today: today (noun)
+HOL	(noun) hol translates to ⟪hall⟫
+HOLANDES	(adjective) of the Netherlands; Dutch\n(noun) holandes translates to ⟪dutchman⟫
+HOLANDESES	(adjective) masculine plural of holandês: of the Netherlands; Dutch\n(noun) plural of holandês: of the Netherlands; Dutch
+HOLERITE	(noun) holerite translates to payslip
+HOLIGANE	(noun) alternative form of hooligan
+HOLISMO	(noun) holism: A theory or belief that the whole is greater than the sum of the parts.
+HOLISTA	(adjective) holistic: Related to holism.
+HOLISTICAMENTE	(adverb) holisticamente translates to holistically
+HOLISTICO	(adjective) holistic: Relating to a study of the whole instead of a separation into parts.
+HOLLYWOODIANAS	(form of hollywoodiano) (adjective) hollywoodiano translates to hollywoodian
+HOLLYWOODIANO	(adjective) hollywoodiano translates to hollywoodian
+HOLMIO	(noun) holmium: A chemical element (symbol Ho) with atomic number 67: a soft and malleable silvery-white metal, too reactive to be found uncombined in nature.
+HOLOCAUSTO	(noun) holocaust: An offering or sacrifice to a deity that is completely burned to ashes.
+HOLOCAUSTOS	(noun) plural of holocausto: holocaust
+HOLOFOTE	(noun) searchlight: The light from the above source.
+HOLOFRASTICO	(adjective) holophrastic: Consisting of a single word, such as "Go." or "Whatever." (also: polysynthetic)
+HOLOGRAFIA	(noun) holography: a technique for recording, and then reconstructing, the amplitude and phase distributions of a coherent wave disturbance; used to produce three-dimensional images or holograms
+HOLOGRAFICAMENTE	(adverb) holograficamente translates to holographically
+HOLONOMIA	(noun) holonomia translates to holonomy
+HOLONOMICO	(adjective) holonomico translates to holonomic
+HOMBRIDADE	(noun) integrity: The quality or condition of being complete; pure
+HOME	(noun) alternative form of homem
+HOMEM	(noun) male: A human member of the masculine sex or gender.\n(adjective) manly: Having the characteristics of a man.
+HOMENAGEADO	(verb) past participle of homenagear: to honor, to pay homage
+HOMENAGEAMOS	(verb) first-person plural present indicative (homenagear): to honor, to pay homage
+HOMENAGEANDO	(verb) gerund of homenagear: to honor, to pay homage
+HOMENAGEAR	(verb) to honor, to pay homage
+HOMENAGEARA	(verb) first/third-person singular pluperfect indicative of homenagear: to honor, to pay homage
+HOMENAGEARAM	(verb) third-person plural preterite/pluperfect indicative of homenagear
+HOMENAGEARAO	(verb) third-person plural future indicative of homenagear: to honor, to pay homage
+HOMENAGEAREM	(verb) third-person plural future subjunctive (homenagear): to honor, to pay homage
+HOMENAGEAREMOS	(verb) first-person plural future indicative of homenagear: to honor, to pay homage
+HOMENAGEAVA	(verb) first/third-person singular imperfect indicative of homenagear: to honor, to pay homage
+HOMENAGEAVAM	(verb) third-person plural imperfect indicative of homenagear: to honor, to pay homage
+HOMENAGEIA	(verb) third-person singular present indicative (homenagear): to honor, to pay homage
+HOMENAGEIAM	(verb) third-person plural present indicative of homenagear: to honor, to pay homage
+HOMENAGEIE	(verb) first/third-person singular present subjunctive (homenagear): to honor, to pay homage
+HOMENAGEM	(noun) homage: A demonstration of respect, as towards a person after his or her retirement or death.
+HOMENAGEOU	(verb) third-person singular preterite indicative of homenagear: to honor, to pay homage
+HOMENS	(noun) plural of homem: male
+HOMENZARRAO	(noun) augmentative of homem: male
+HOMENZINHO	(noun) diminutive of homem: male
+HOMENZINHOS	(noun) plural of homenzinho
+HOMEOPATIA	(noun) homeopathy: A system of treating diseases with small amounts of substances which, in larger amounts, would produce the observed symptoms.
+HOMEOPATICAMENTE	(adverb) homeopaticamente translates to ⟪homeopathically⟫
+HOMEOPATICO	(adjective) homeopathic: Of or pertaining to homeopathy.
+HOMEOSTASE	(noun) homeostasis: Such a dynamic equilibrium or balance.
+HOMEOSTATICAMENTE	(adverb) homeostaticamente translates to homeostatically
+HOMEOSTATICO	(adjective) homeostatic: Of or pertaining to homeostasis.
+HOMEPAGE	(noun) homepage translates to homepage
+HOMERICAMENTE	(adverb) homericamente translates to homerically
+HOMERICO	(adjective) belonging to or relating to Homer, an ancient Greek poet (7th century BC), or to his style
+HOMI	(noun) eye dialect spelling of homem, representing Brazil Portuguese
+HOMICIDA	(adjective) homicida translates to ⟪homicidal⟫\n(noun) homicide: A victim of homicide; a person who has been unlawfully killed by someone else. (also: murderer)
+HOMICIDAS	(adjective) plural of homicida: homicidal\n(noun) plural of homicida: homicidal
+HOMICIDIO	(noun) homicide: A victim of homicide; a person who has been unlawfully killed by someone else.
+HOMICIDIOS	(noun) plural of homicídio: homicide
+HOMILETICA	(noun) homiletics: The art of preaching (especially the application of rhetoric in theology).
+HOMILIA	(noun) alternative form of homília
+HOMILIAS	(noun) plural of homilia: alternative form of homília
+HOMINIDEO	(noun) hominid: Any anthropoid of the taxonomic family Hominidae, which includes all the great apes (chimpanzees, gorillas, orangutans) as well as humans.
+HOMIZIADO	(verb) past participle of homiziar: to give refuge to
+HOMIZIAR	(verb) to give refuge to (someone on the run from justice)
+HOMOAFETIVO	(adjective) homosexual, gay or lesbian
+HOMOFILIA	(noun) homofilia translates to homophilia
+HOMOFOBIA	(noun) homophobia: Hatred, fear, aversion, or prejudice towards homosexuals.
+HOMOFOBICA	(adjective) feminine singular of homofóbico: homophobic\n(noun) female equivalent of homofóbico: homophobic
+HOMOFOBICAS	(adjective) feminine plural of homofóbico: homophobic\n(noun) plural of homofóbica
+HOMOFOBICO	(adjective) homofobico translates to ⟪homophobic⟫\n(noun) homophobe: One who is prejudiced against homosexual people, or LGBTQ people in general; one who exhibits homophobia.
+HOMOFOBICOS	(adjective) masculine plural of homofóbico: homophobic\n(noun) plural of homofóbico: homophobic
+HOMOFONIA	(noun) homophony: The quality of being homophonous.
+HOMOFONICO	(adjective) homophonic: Having the same sound; being homophones.
+HOMOFONO	(adjective) homophonous: Homophonic; sounding the same.\n(noun) homophone: A word which is pronounced the same as another word but differs in spelling or meaning or origin.
+HOMOGENEAMENTE	(adverb) homogeneously: In a homogeneous manner.
+HOMOGENEIDADE	(noun) homogeneity: The condition of being homogeneous: having uniformity of constituent content.
+HOMOGENEIZADO	(verb) past participle of homogeneizar: to homogenize
+HOMOGENEIZAR	(verb) homogeneizar translates to to homogenize
+HOMOGENEIZAÇAO	(noun) homogenization: The act of making something homogenous, or the same throughout; or the tendency of something to become homogenous.
+HOMOGENEO	(adjective) homogeneous: Of the same kind; alike, similar.
+HOMOGENIZAR	(verb) alternative form of homogeneizar
+HOMOGRAFICO	(adjective) homographic: Having the same invariants.
+HOMOGRAFO	(noun) homograph: A text character or string that looks identical to another when rendered.
+HOMOIOUSIANISMO	(noun) homoiousianismo translates to homoiousianism
+HOMOLOGADO	(verb) past participle of homologar: to homologate
+HOMOLOGAMENTE	(adverb) homologamente translates to homologously
+HOMOLOGAR	(verb) homologar translates to to homologate
+HOMOLOGAÇAO	(noun) ratification: The act or process of ratifying, or the state of being ratified. (also: homologation, confirmation)
+HOMOLOGIA	(noun) homology: The relationship, between organic compounds, of being in the same homologous series.
+HOMOLOGO	(adjective) homologous: In corresponding proportion.\n(verb) first-person singular present indicative of homologar: to homologate
+HOMONACIONALISMO	(noun) homonacionalismo translates to homonationalism
+HOMONIMA	(adjective) feminine singular of homónimo: homonymous
+HOMONIMAMENTE	(adverb) homonymously: In a homonymous way
+HOMONIMIA	(noun) homonymy: The property of being a homonym.
+HOMONIMO	(adjective) homonymous: Having the same name as another (i.e., like a namesake).\n(noun) homonym: A word that both sounds and is spelled the same as another word.
+HOMONIMOS	(adjective) masculine plural of homónimo: homonymous\n(noun) plural of homónimo: homonymous
+HOMORROMANTICO	(adjective) homorromantico translates to homoromantic
+HOMOSSEXUAIS	(adjective) masculine/feminine plural of homossexual: homosexual
+HOMOSSEXUAL	(adjective) homosexual: Sexually and/or romantically attracted to members of the same sex, such as a man who is attracted to other men or a woman who is attracted to other women; gay. (Typically used in the sense of sole/exclusive attraction.)\n(noun) homosexual: Sexually and/or romantically attracted to members of the same sex, such as a man who is attracted to other men or a woman who is attracted to other women; gay. (Typically used in the sense of sole/exclusive attraction.)
+HOMOSSEXUALIDADE	(noun) homosexuality: Sexual activity with a person of the same sex, sometimes (potentially offensive) restricted to same-sex sex between males.
+HOMOSSEXUALISMO	(noun) homossexualismo translates to homosexualism
+HOMOTETICO	(adjective) homothetic: of a function of two or more variables in which the ratio of the partial derivatives depends only on the ratio of the variables, not their value
+HOMUNCULO	(noun) diminutive of homem: male
+HONDURENHO	(adjective) hondurenho translates to honduran\n(noun) hondurenho translates to honduran
+HONESTA	(adjective) feminine singular of honesto: honest
+HONESTAMENTE	(adverb) honestly: In an honest manner.
+HONESTAS	(adjective) feminine plural of honesto: honest
+HONESTIDADE	(noun) honestidade translates to ⟪honesty⟫
+HONESTO	(adjective) honest: Authentic; full.
+HONESTOS	(adjective) masculine plural of honesto: honest
+HONGUECONGUENSE	(adjective) hongueconguense translates to Hong Konger
+HONORARIAMENTE	(adverb) honorariamente translates to ⟪honorarily⟫
+HONORARIO	(adjective) honorary: Given as an honor, with no duties attached, and without payment.
+HONORARIOS	(adjective) masculine plural of honorário: honorary\n(noun) honorarios translates to ⟪fees⟫
+HONORAVEIS	(adjective) plural of honorável: honorable, respectable\n(verb) second-person plural imperfect indicative of honorar
+HONORAVEL	(adjective) honorable: Worthy of respect; respectable. (also: respectable)
+HONORIFICAMENTE	(adverb) honorificamente translates to honorifically
+HONORIFICO	(adjective) honorific: Showing or conferring honour and respect.
+HONRA	(noun) respect: Good opinion, honor, or admiration. (also: honor)\n(verb) third-person singular present indicative (honrar): to honor
+HONRADA	(adjective) feminine singular of honrado: honest, truthful\n(verb) feminine singular of honrado: honest, truthful
+HONRADO	(adjective) honest: In good faith; without malice. (also: truthful)\n(verb) past participle of honrar: to honor
+HONRADOS	(adjective) masculine plural of honrado: honest, truthful\n(verb) masculine plural of honrado: honest, truthful
+HONRAI	(verb) second-person plural imperative of honrar: to honor
+HONRAM	(verb) third-person plural present indicative of honrar: to honor
+HONRAMOS	(verb) first-person plural present indicative (honrar): to honor
+HONRANDO	(verb) gerund of honrar: to honor
+HONRAR	(verb) honrar translates to to honor
+HONRARA	(verb) third-person singular future indicative of honrar: to honor
+HONRARAM	(verb) third-person plural preterite/pluperfect indicative of honrar
+HONRARAO	(verb) third-person plural future indicative of honrar: to honor
+HONRARAS	(verb) second-person singular future indicative of honrar: to honor
+HONRAREI	(verb) first-person singular future indicative of honrar: to honor
+HONRAREM	(verb) third-person plural future subjunctive (honrar): to honor
+HONRAREMOS	(verb) first-person plural future indicative of honrar: to honor
+HONRARIAM	(verb) third-person plural conditional of honrar: to honor
+HONRARIAS	(verb) second-person singular conditional of honrar: to honor
+HONRARMOS	(verb) first-person plural future subjunctive (honrar): to honor
+HONRAS	(verb) second-person singular present indicative of honrar: to honor
+HONRASSE	(verb) first/third-person singular imperfect subjunctive of honrar: to honor
+HONRASSEM	(verb) third-person plural imperfect subjunctive of honrar: to honor
+HONRAVA	(verb) first/third-person singular imperfect indicative of honrar: to honor
+HONRAVAM	(verb) third-person plural imperfect indicative of honrar: to honor
+HONRAVAMOS	(verb) first-person plural imperfect indicative of honrar: to honor
+HONRAVEIS	(verb) second-person plural imperfect indicative of honrar: to honor
+HONRE	(verb) first/third-person singular present subjunctive (honrar): to honor
+HONREI	(verb) first-person singular preterite indicative of honrar: to honor
+HONREM	(verb) third-person plural present subjunctive (honrar): to honor
+HONREMOS	(verb) first-person plural present subjunctive (honrar): to honor
+HONRO	(verb) first-person singular present indicative of honrar: to honor
+HONROSAMENTE	(adverb) honrosamente translates to honourably
+HONROSO	(adjective) honroso translates to ⟪honourable⟫
+HONROU	(verb) third-person singular preterite indicative of honrar: to honor
+HOQUEI	(noun) hockey: Any of a family of sports in which hockey sticks are used to move a ball or puck into a goal.
+HORA	(noun) hour: A unit of time of one twenty-fourth of a day (sixty minutes).
+HORARIA	(adjective) feminine singular of horário: timetable
+HORARIAMENTE	(adverb) hourly: At intervals of an hour.
+HORARIAS	(adjective) feminine plural of horário: timetable
+HORARIO	(noun) horario translates to ⟪timetable⟫\n(adjective) hourly: Occurring every hour.
+HORARIOS	(noun) plural of horário: timetable\n(adjective) masculine plural of horário: timetable
+HORAS	(noun) plural of hora: hour
+HORDA	(noun) horde: A wandering troop or gang; especially, a clan or tribe of a nomadic people (originally Tatars) migrating from place to place for the sake of pasturage, plunder, etc.; a predatory multitude.
+HORDEOLO	(noun) stye: Alternative form of sty (“shelter for pigs”).
+HORIZONTAIS	(adjective) plural of horizontal: horizontal
+HORIZONTAL	(adjective) horizontal: Perpendicular to the vertical; parallel to the plane of the horizon; level, flat.
+HORIZONTALMENTE	(adverb) horizontally: In a horizontal manner (any sense).
+HORIZONTE	(noun) horizon: The visible horizontal line (in all directions) where the sky appears to meet the earth in the distance.
+HORIZONTES	(noun) plural of horizonte: horizon
+HORMONA	(noun) hormone: A synthetic compound with the same activity.
+HORMONAL	(adjective) hormonal: Pertaining to hormones.
+HORMONALMENTE	(adverb) hormonalmente translates to hormonally
+HORMONIO	(noun) synonym of hormona
+HOROSCOPO	(noun) horoscope: The position of the planets and stars at the moment of someone's birth; a diagram of such positions.
+HOROSCOPOS	(noun) plural of horóscopo: horoscope
+HORRENDA	(adjective) feminine singular of horrendo: gruesome
+HORRENDAMENTE	(adverb) hideously: In a hideous manner.
+HORRENDO	(adjective) gruesome: Repellently frightful and shocking; ghastly, horrific.
+HORRENDOS	(adjective) masculine plural of horrendo: gruesome
+HORRIBILISSIMO	(adjective) superlative degree of horrível: cause of horror; horrible; terrible
+HORRIPILANTE	(adjective) creepy: Producing an uneasy fearful sensation, as of things crawling over one's skin. (also: ghastly)
+HORRIPILANTEMENTE	(adverb) horripilantemente translates to ⟪horrifyingly⟫
+HORRIPILAR	(verb) horrify: To cause to feel extreme apprehension or unease; to cause to experience horror.
+HORRIVEL	(adjective) cause of horror; horrible; terrible
+HORRIVELMENTE	(adverb) horribly: In a horrible way; very badly.
+HORROR	(noun) horror: An intense distressing emotion of fear or repugnance.
+HORRORES	(adverb) horrores translates to a lot\n(noun) plural of horror: horror
+HORRORIZA	(verb) third-person singular present indicative (horrorizar): to horrify
+HORRORIZADA	(verb) feminine singular of horrorizado
+HORRORIZADO	(verb) past participle of horrorizar: to horrify
+HORRORIZAM	(verb) third-person plural present indicative of horrorizar: to horrify
+HORRORIZAR	(verb) horrorizar translates to to horrify
+HORRORIZARAM	(verb) third-person plural preterite/pluperfect indicative of horrorizar
+HORRORIZAVA	(verb) first/third-person singular imperfect indicative of horrorizar: to horrify
+HORRORIZOU	(verb) third-person singular preterite indicative of horrorizar: to horrify
+HORROROSO	(adjective) horrible: Causing horror; terrible; shocking.
+HORTA	(noun) horta translates to kitchen garden, vegetable garden\n(verb) third-person singular present indicative (hortar): to grow a kitchen garden
+HORTALIÇA	(noun) vegetable: The edible part of such a plant.
+HORTAR	(verb) to grow a kitchen garden
+HORTAS	(noun) plural of horta: kitchen garden, vegetable garden\n(verb) second-person singular present indicative of hortar: to grow a kitchen garden
+HORTEJO	(noun) diminutive of horta: kitchen garden, vegetable garden
+HORTELA	(noun) female equivalent of hortelão: someone who tends a kitchen garden
+HORTELAO	(noun) someone who tends a kitchen garden
+HORTENSIA	(noun) hortensia translates to ⟪hydrangea⟫
+HORTICULTOR	(noun) one who cultivates vegetables
+HORTIFRUTI	(noun) marketplace where horticultural products, such as fruits and vegetables, are sold
+HORTIFRUTIGRANJEIRO	(adjective) of or relating to horticulture\n(noun) horticultural products, such as fruits and vegetables, typically sold in marketplaces
+HORTO	(noun) horto translates to kitchen garden\n(verb) first-person singular present indicative of hortar: to grow a kitchen garden
+HOSANA	(interjection) hosanna: A cry of praise or adoration to God in liturgical use among the Jews, and said to have been shouted in recognition of the Messiahship of Jesus on his entry into Jerusalem; hence since used in the Christian Church.
+HOSPEDA	(verb) third-person singular present indicative (hospedar): to host
+HOSPEDADO	(verb) past participle of hospedar: to host
+HOSPEDAGEM	(noun) hospedagem translates to ⟪lodging⟫
+HOSPEDAM	(verb) third-person plural present indicative of hospedar: to host
+HOSPEDAMOS	(verb) first-person plural present indicative (hospedar): to host
+HOSPEDANDO	(verb) gerund of hospedar: to host
+HOSPEDAR	(verb) hospedar translates to to host
+HOSPEDARA	(verb) third-person singular future indicative of hospedar: to host
+HOSPEDARAM	(verb) third-person plural preterite/pluperfect indicative of hospedar
+HOSPEDARAO	(verb) third-person plural future indicative of hospedar: to host
+HOSPEDAREI	(verb) first-person singular future indicative of hospedar: to host
+HOSPEDAREM	(verb) third-person plural future subjunctive (hospedar): to host
+HOSPEDAREMOS	(verb) first-person plural future indicative of hospedar: to host
+HOSPEDARIA	(noun) hostel: A temporary refuge for the homeless providing a bed and sometimes food.\n(verb) first/third-person singular conditional of hospedar: to host
+HOSPEDARIAS	(noun) plural of hospedaria: hostel\n(verb) second-person singular conditional of hospedar: to host
+HOSPEDARMOS	(verb) first-person plural future subjunctive (hospedar): to host
+HOSPEDASSE	(verb) first/third-person singular imperfect subjunctive of hospedar: to host
+HOSPEDAVA	(verb) first/third-person singular imperfect indicative of hospedar: to host
+HOSPEDAVAM	(verb) third-person plural imperfect indicative of hospedar: to host
+HOSPEDE	(verb) first/third-person singular present subjunctive (hospedar): to host\n(noun) guest: A recipient of hospitality, especially someone staying by invitation at the house of another.
+HOSPEDEI	(verb) first-person singular preterite indicative of hospedar: to host
+HOSPEDEIRA	(noun) female equivalent of hospedeiro: host
+HOSPEDEIRO	(noun) host: One that provides a facility for an event.
+HOSPEDEIROS	(noun) plural of hospedeiro: host
+HOSPEDEM	(verb) third-person plural present subjunctive (hospedar): to host
+HOSPEDES	(verb) second-person singular present subjunctive of hospedar: to host\n(noun) plural of hóspede: guest
+HOSPEDO	(verb) first-person singular present indicative of hospedar: to host
+HOSPEDOU	(verb) third-person singular preterite indicative of hospedar: to host
+HOSPICIO	(noun) hospice: A lodging for pilgrims or the destitute, normally provided by a monastic order.
+HOSPITAL	(noun) hospital: A large medical facility, usually in a building with multiple floors, where seriously ill or injured patients are given extensive medical or surgical treatment.
+HOSPITALAR	(adjective) hospitalar translates to ⟪hospital⟫
+HOSPITALARES	(adjective) plural of hospitalar: hospital
+HOSPITALARMENTE	(adverb) hospitalarmente translates to hospitalarily
+HOSPITALEIRAMENTE	(adverb) hospitably: In a hospitable manner.
+HOSPITALEIRO	(adjective) hospitable: favorable\n(noun) one in charge of or who owns a guesthouse
+HOSPITALIDADE	(noun) hospitality: The act or service of welcoming, receiving, hosting, or entertaining guests; an appropriate attitude of openness, respect, and generosity toward guests.
+HOSPITALIZADO	(verb) past participle of hospitalizar: to hospitalize
+HOSPITALIZAR	(verb) hospitalizar translates to to hospitalize
+HOSPITALIZARAM	(verb) third-person plural preterite/pluperfect indicative of hospitalizar
+HOSPITALIZAÇAO	(noun) hospitalization: The hospitalizing of a patient, the condition of being hospitalized, or the period a patient stays in hospital.
+HOSPITALIZOU	(verb) third-person singular preterite indicative of hospitalizar: to hospitalize
+HOST	(noun) host: One which receives or entertains a guest, socially, commercially, or officially.
+HOSTE	(noun) army: Any multitude. (also: host, military troop)
+HOSTEL	(noun) hostel: An overnight lodging place for travelers, with dormitory accommodation and shared facilities, especially a youth hostel.
+HOSTES	(noun) plural of hoste: host; army; military troop
+HOSTESS	(form of host) (noun) host: One which receives or entertains a guest, socially, commercially, or officially.
+HOSTIA	(noun) hostia translates to ⟪host⟫
+HOSTIL	(adjective) hostile: Aggressive; antagonistic.
+HOSTILIZADO	(adjective) hostilizado translates to hostilized
+HOSTILMENTE	(adverb) in a hostile manner
+HOTEIS	(noun) plural of hotel: hotel
+HOTEL	(noun) hotel: A restaurant; any dining establishment.
+HOTELARIA	(noun) the business of running hotels
+HOTELEIRO	(adjective) hoteleiro translates to ⟪hotel⟫\n(noun) hotelier: Someone who owns or runs a hotel.
+HOTELZINHO	(form of hotel) (noun) hotel: A restaurant; any dining establishment.
+HOUVE	(verb) first/third-person singular preterite indicative of haver: there be; exist
+HOUVER	(verb) first/third-person singular future subjunctive of haver: there be; exist
+HOUVERA	(verb) first/third-person singular pluperfect indicative of haver: there be; exist
+HOUVERAM	(verb) third-person plural preterite/pluperfect indicative of haver
+HOUVEREM	(verb) third-person plural future subjunctive of haver: there be; exist
+HOUVERMOS	(verb) first-person plural future subjunctive of haver: there be; exist
+HOUVESSE	(verb) first/third-person singular imperfect subjunctive of haver: there be; exist
+HOUVESSEIS	(verb) second-person plural imperfect subjunctive of haver: there be; exist
+HOUVESSEM	(verb) third-person plural imperfect subjunctive of haver: there be; exist
+HOUVESSEMOS	(verb) first-person plural imperfect subjunctive of haver: there be; exist
+HOUVESSES	(verb) second-person singular imperfect subjunctive of haver: there be; exist
+HOVERCRAFT	(noun) hovercraft translates to ⟪hovercraft⟫
+HUBRIS	(noun) hubris translates to ⟪hubris⟫
+HUE	(interjection) hue translates to expressing laugh, hahaha
+HULHA	(noun) hulha translates to stone coal, mineral coal
+HUM	(interjection) hum translates to hmm
+HUMANAR	(verb) to become human, humanize
+HUMANAS	(adjective) feminine plural of humano: human\n(noun) plural of humana
+HUMANE	(verb) first/third-person singular present subjunctive (humanar): to become human, humanize
+HUMANIDADE	(noun) mankind: The human race in its entirety. (also: humanity)
+HUMANISMO	(noun) humanismo translates to ⟪humanism⟫
+HUMANISSIMAMENTE	(adverb) humanissimamente translates to most humanely
+HUMANISTA	(noun) humanist: A scholar of one of the subjects in the humanities.
+HUMANISTICAMENTE	(adverb) humanisticamente translates to humanistically
+HUMANITARIAMENTE	(adverb) humanitariamente translates to humanitarianly
+HUMANITARIO	(adjective) humanitarian: Relating to people's welfare.\n(noun) humanitarian: Relating to people's welfare.
+HUMANIZA	(verb) third-person singular present indicative (humanizar): to humanize
+HUMANIZADO	(verb) past participle of humanizar: to humanize
+HUMANIZAM	(verb) third-person plural present indicative of humanizar: to humanize
+HUMANIZAMOS	(verb) first-person plural present indicative (humanizar): to humanize
+HUMANIZANDO	(verb) gerund of humanizar: to humanize
+HUMANIZAR	(verb) humanizar translates to to humanize
+HUMANIZAÇAO	(noun) humanization: The act of humanizing.
+HUMANIZE	(verb) first/third-person singular present subjunctive (humanizar): to humanize
+HUMANIZOU	(verb) third-person singular preterite indicative of humanizar: to humanize
+HUMANO	(adjective) human: A human as contrasted from superficially similar but typically more powerful humanoid creatures; a member of the human race.\n(noun) a human being
+HUMANOIDE	(adjective) humanoid: A being having the appearance or characteristics of a human.\n(noun) humanoid: A being having the appearance or characteristics of a human.
+HUMANOS	(adjective) masculine plural of humano: human\n(noun) plural of humano: human
+HUMBIÇAO	(noun) humbiçao translates to humbition
+HUMECTANTE	(adjective) moisturizing: That moisturizes.
+HUMECTAR	(verb) synonym of humedecer
+HUMECTATIVO	(adjective) humectativo translates to humectative
+HUMEDECER	(verb) humedecer translates to to humidify
+HUMEDECIDO	(adjective) humedecido translates to ⟪moistened⟫, ⟪dampened⟫\n(verb) past participle of humedecer: to humidify
+HUMIDADE	(noun) European Portuguese standard spelling of umidade
+HUMIDAMENTE	(adverb) humidamente translates to ⟪humidly⟫
+HUMIDAS	(adjective) feminine plural of húmido: European Portuguese standard spelling of úmido
+HUMIDIFICADOR	(noun) humidificador translates to humidifier
+HUMIDIFICAR	(verb) moisten: To become moist or moister. (also: to humidify)
+HUMIDIFICAÇAO	(noun) humidificaçao translates to humidification
+HUMIDO	(adjective) European Portuguese standard spelling of úmido
+HUMILDADE	(noun) humbleness: Modesty, humility; the property of being humble.
+HUMILDAR	(verb) humildar translates to to humble
+HUMILDE	(adjective) humble: Having a low position or a low opinion of oneself; not proud, arrogant, or assuming; modest.\n(verb) first/third-person singular present subjunctive (humildar): to humble
+HUMILDEMENTE	(adverb) humbly: In a humble manner.
+HUMILDES	(adjective) plural of humilde: humble\n(verb) second-person singular present subjunctive of humildar: to humble
+HUMILHA	(verb) third-person singular present indicative (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHADA	(verb) feminine singular of humilhado
+HUMILHADO	(verb) past participle of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHAM	(verb) third-person plural present indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHAMOS	(verb) first-person plural present indicative (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHANDO	(verb) gerund of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHANTE	(adjective) humiliating: Liable to humiliate, degrade, shame or embarrass someone.
+HUMILHANTEMENTE	(adverb) humiliatingly: In a humiliating manner.
+HUMILHAR	(verb) to humiliate, to injure dignity or self-respect
+HUMILHARA	(verb) first/third-person singular pluperfect indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHARAM	(verb) third-person plural preterite/pluperfect indicative of humilhar
+HUMILHAREI	(verb) first-person singular future indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHAREM	(verb) third-person plural future subjunctive (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHARES	(verb) second-person singular future subjunctive (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHARIA	(verb) first/third-person singular conditional of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHARMOS	(verb) first-person plural future subjunctive (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHASSE	(verb) first/third-person singular imperfect subjunctive of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHAVA	(verb) first/third-person singular imperfect indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHAVAM	(verb) third-person plural imperfect indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHAÇAO	(noun) humiliation: The act of humiliating or humbling someone; abasement of pride; mortification.
+HUMILHE	(verb) first/third-person singular present subjunctive (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHEI	(verb) first-person singular preterite indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHEM	(verb) third-person plural present subjunctive (humilhar): to humiliate, to injure dignity or self-respect
+HUMILHES	(verb) second-person singular present subjunctive of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHO	(verb) first-person singular present indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMILHOU	(verb) third-person singular preterite indicative of humilhar: to humiliate, to injure dignity or self-respect
+HUMO	(noun) alternative form of húmus
+HUMOR	(noun) mood: A mental or emotional state, composure.
+HUMORADAMENTE	(adverb) humorously: In a humorous manner; jocularly.
+HUMORES	(noun) plural of humor: mood
+HUMORISTICAMENTE	(adverb) humorously: In a humorous manner; jocularly.
+HUMORISTICO	(adjective) humoristic: Pertaining to a humorist or his or her style.
+HUMUS	(noun) humus translates to ⟪humus⟫
+HUNGARO	(adjective) hungarian: Of, from, or pertaining to present-day Hungary, the ethnic Hungarian people or the Hungarian language.\n(noun) hungarian: Of, from, or pertaining to present-day Hungary, the ethnic Hungarian people or the Hungarian language.
+HURRA	(interjection) hurra translates to ⟪hurrah⟫
+HUSSARDO	(noun) hussar: A member of the light cavalry of any of several European armies.
+HUSSARDOS	(noun) plural of hussardo: hussar
+HWACHA	(noun) hwacha translates to hwacha
+HYPOTHESE	(noun) pre-reform spelling (used until 1943 in Brazil and 1911 in Portugal) of hipótese

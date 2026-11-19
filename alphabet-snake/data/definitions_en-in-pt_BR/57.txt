@@ -1,0 +1,965 @@
+WACKIER	(forma de wacky) (adjetivo) esquisito: estranho; incomum (também: excêntrico, estranho)
+WACKIEST	(forma de wacky) (adjetivo) esquisito: estranho; incomum (também: excêntrico, estranho)
+WACKO	(substantivo) maluco: doido; indivíduo louco, excêntrico
+WACKOS	(substantivo) malucos: plural de maluco
+WACKY	(adjetivo) esquisito: estranho; incomum (também: excêntrico, estranho)
+WAFER	(substantivo) wafer se traduz como biscoito champanhe
+WAFERED	(forma de wafer) (substantivo) wafer se traduz como biscoito champanhe
+WAFERING	(forma de wafer) (substantivo) wafer se traduz como biscoito champanhe
+WAFERS	(forma de wafer) (substantivo) wafer se traduz como biscoito champanhe
+WAFFLE	(substantivo) espécie de panqueca grossa, preparada em torradeira elétrica especial
+WAFFLED	(forma de waffle) (substantivo) espécie de panqueca grossa, preparada em torradeira elétrica especial
+WAFFLES	(forma de waffle) (substantivo) espécie de panqueca grossa, preparada em torradeira elétrica especial
+WAFFLING	(forma de waffle) (substantivo) espécie de panqueca grossa, preparada em torradeira elétrica especial
+WAG	(substantivo) gaiato: indivíduo travesso, malicioso, brincalhão, engraçado (especialmente o desocupado) (também: gracejador)\n(verbo) abanar, mexer de um lado para o outro
+WAGE	(substantivo) salário: remuneração\n(verbo) conduzir ou realizar (uma guerra ou outra disputa)
+WAGED	(forma de wage) (substantivo) salário: remuneração
+WAGER	(substantivo) wager se traduz como ⟪aposta⟫\n(verbo) apostar: afirmar com certa convicção
+WAGERED	(forma de wager) (substantivo) wager se traduz como ⟪aposta⟫
+WAGERING	(forma de wager) (substantivo) wager se traduz como ⟪aposta⟫
+WAGERS	(forma de wager) (substantivo) wager se traduz como ⟪aposta⟫
+WAGES	(substantivo) plural de wage: salário\n(verbo) terceira pessoa do singular do presente do indicativo do verbo wage: salário
+WAGGED	(verbo) passado simples do verbo to wag: gaiato, gracejador
+WAGGER	(forma de wag) (substantivo) gaiato: indivíduo travesso, malicioso, brincalhão, engraçado (especialmente o desocupado) (também:...
+WAGGING	(verbo) gerúndio do verbo to wag: gaiato, gracejador
+WAGGLE	(verbo) sacudir: abanar ou mover, ora para um, ora para outro lado (também: abanar)
+WAGGLED	(forma de waggle) (verbo) sacudir: abanar ou mover, ora para um, ora para outro lado (também: abanar)
+WAGGLES	(forma de waggle) (verbo) sacudir: abanar ou mover, ora para um, ora para outro lado (também: abanar)
+WAGGLING	(forma de waggle) (verbo) sacudir: abanar ou mover, ora para um, ora para outro lado (também: abanar)
+WAGING	(forma de wage) (substantivo) salário: remuneração
+WAGONETTE	(substantivo) vagoneta: pequeno vagão
+WAGONETTES	(forma de wagonette) (substantivo) vagoneta: pequeno vagão
+WAGS	(verbo) 3ª pessoa do singular do verbo to wag: gaiato, gracejador
+WAIST	(substantivo) cintura: a parte de vestuário que rodeia o meio do corpo
+WAISTBAND	(substantivo) cós: pedaço de tecido que envolve a cintura em calças, saias, bermudas, etc, cuja função é evitar que a parte inferior da roupa caia
+WAISTBANDS	(forma de waistband) (substantivo) cós: pedaço de tecido que envolve a cintura em calças, saias, bermudas, etc, cuja função é evitar que a...
+WAISTCOAT	(substantivo) colete: peça de vestuário sem mangas que se veste por cima da camisa
+WAISTCOATED	(forma de waistcoat) (substantivo) colete: peça de vestuário sem mangas que se veste por cima da camisa
+WAISTCOATS	(forma de waistcoat) (substantivo) colete: peça de vestuário sem mangas que se veste por cima da camisa
+WAISTED	(forma de waist) (substantivo) cintura: a parte de vestuário que rodeia o meio do corpo
+WAISTING	(forma de waist) (substantivo) cintura: a parte de vestuário que rodeia o meio do corpo
+WAISTS	(forma de waist) (substantivo) cintura: a parte de vestuário que rodeia o meio do corpo
+WAIT	(substantivo) espera: ato de esperar\n(verbo) esperar: ficar inativo ou em estado de repouso até que algo aconteça
+WAITED	(verbo) pretérito e particípio do verbo wait: espera
+WAITER	(substantivo) garçom: empregado que serve a mesa num restaurante ou outro estabelecimento congênere
+WAITERS	(forma de waiter) (substantivo) garçom: empregado que serve a mesa num restaurante ou outro estabelecimento congênere
+WAITING	(verbo) particípio presente do verbo wait: espera
+WAITINGS	(forma de wait) (substantivo) espera: ato de esperar
+WAITRESS	(substantivo) garçonete: mulher que serve os clientes em lanchonetes, restaurantes, casas noturnas, etc
+WAITRESSED	(forma de waitress) (substantivo) garçonete: mulher que serve os clientes em lanchonetes, restaurantes, casas noturnas, etc
+WAITRESSES	(forma de waitress) (substantivo) garçonete: mulher que serve os clientes em lanchonetes, restaurantes, casas noturnas, etc
+WAITRESSING	(forma de waitress) (substantivo) garçonete: mulher que serve os clientes em lanchonetes, restaurantes, casas noturnas, etc
+WAITS	(forma de wait) (substantivo) espera: ato de esperar
+WAIVE	(verbo) renunciar: recusar aquilo a que se tem direito
+WAIVED	(forma de waive) (verbo) renunciar: recusar aquilo a que se tem direito
+WAIVER	(substantivo) renúncia: desistência (também: abdicação, desistência)
+WAIVERS	(forma de waiver) (substantivo) renúncia: desistência (também: abdicação, desistência)
+WAIVING	(forma de waive) (verbo) renunciar: recusar aquilo a que se tem direito
+WAKE	(substantivo) o estado de acordar ou de estar acordado\n(verbo) acordar: deixar o estado de sono (também: despertar)
+WAKED	(verbo) passado simples wake: o estado de acordar ou de estar acordado
+WAKEFUL	(adjetivo) vigilante: guarda que se responsabiliza por vigiar
+WAKEFULLY	(forma de wakeful) (adjetivo) vigilante: guarda que se responsabiliza por vigiar
+WAKES	(substantivo) plural de wake: o estado de acordar ou de estar acordado\n(verbo) conjugação em terceira pessoa do singular de wake: o estado de acordar ou de estar acordado
+WAKING	(verbo) gerúndio de wake: o estado de acordar ou de estar acordado
+WALK	(substantivo) caminhada: passeio\n(verbo) andar, caminhar, ir a pé
+WALKED	(verbo) passado simples e particípio do verbo (to) walk
+WALKING	(adjetivo) andante: aquele que anda a pé, viandante, passeante, transeunte; andador\n(verbo) gerúndio do verbo walk: caminhada
+WALKINGS	(forma de walk) (substantivo) caminhada: passeio
+WALKS	(substantivo) plural de walk: caminhada\n(verbo) terceira pessoa do singular do verbo walk: caminhada
+WALL	(substantivo) parede: obra de alvenaria que fecha ou divide o espaço em uma construção\n(verbo) murar: cercar com muro ou tapume
+WALLABIES	(forma de wallaby) (substantivo) designação comum das várias espécies de marsupiais da família Macropodidae da Oceania,...
+WALLABY	(substantivo) designação comum das várias espécies de marsupiais da família Macropodidae da Oceania, caracteristicamente menores que os cangurus
+WALLED	(forma de wall) (substantivo) parede: obra de alvenaria que fecha ou divide o espaço em uma construção
+WALLET	(substantivo) carteira: bolsa, geralmente de couro, com divisões para guardar dinheiro, papéis, etc
+WALLETS	(forma de wallet) (substantivo) carteira: bolsa, geralmente de couro, com divisões para guardar dinheiro, papéis, etc
+WALLING	(forma de wall) (substantivo) parede: obra de alvenaria que fecha ou divide o espaço em uma construção
+WALLOP	(verbo) sovar: dar uma sova, uma surra
+WALLOPED	(forma de wallop) (verbo) sovar: dar uma sova, uma surra
+WALLOPING	(forma de wallop) (verbo) sovar: dar uma sova, uma surra
+WALLOPS	(forma de wallop) (verbo) sovar: dar uma sova, uma surra
+WALLOW	(verbo) chafurdar: rolar na água, lama, neve, poeira, lixo etc por brincadeira
+WALLOWED	(forma de wallow) (verbo) chafurdar: rolar na água, lama, neve, poeira, lixo etc por brincadeira
+WALLOWING	(substantivo) espojadura: ato de deitar-se no chão (na terra, lama, gramado, etc.) e ali se esfregar, rebolando
+WALLOWS	(forma de wallow) (verbo) chafurdar: rolar na água, lama, neve, poeira, lixo etc por brincadeira
+WALLPAPER	(substantivo) papel de parede\n(verbo) aplicar papel de parede (a uma parede)
+WALLPAPERED	(forma de wallpaper) (substantivo) papel de parede
+WALLPAPERING	(forma de wallpaper) (substantivo) papel de parede
+WALLPAPERS	(forma de wallpaper) (substantivo) papel de parede
+WALLS	(substantivo) plural de wall; paredes.\n(verbo) terceira pessoa do singular do presente indicativo do verbo wall: parede
+WALNUT	(adjetivo) que tem a cor castanha escura\n(substantivo) noz: o fruto (drupa) da nogueira de miolo muito apreciado
+WALNUTS	(substantivo) plural de walnut: que tem a cor castanha escura
+WALRUS	(substantivo) walrus se traduz como ⟪morsa⟫\n(verbo) walrus se traduz como caçar morsas
+WALRUSES	(forma de walrus) (substantivo) walrus se traduz como ⟪morsa⟫
+WALTZ	(verbo) valsar: dançar valsa\n(substantivo) valsa: música de dança derivada do Ländler de compasso ternário
+WALTZED	(forma de waltz) (verbo) valsar: dançar valsa
+WALTZES	(forma de waltz) (verbo) valsar: dançar valsa
+WALTZING	(forma de waltz) (verbo) valsar: dançar valsa
+WAND	(substantivo) wand se traduz como varinha
+WANDER	(substantivo) wander se traduz como perambulação, vagueação\n(verbo) vagabundear: vagar sem destino; andar à toa de um lugar a outro (também: perambular, vagar)
+WANDERED	(forma de wander) (substantivo) wander se traduz como perambulação, vagueação
+WANDERER	(substantivo) andarilho: pessoa que viaja sem rumo, geralmente sem moradia fixa
+WANDERERS	(forma de wanderer) (substantivo) andarilho: pessoa que viaja sem rumo, geralmente sem moradia fixa
+WANDERING	(substantivo) o ato de vaguear, de zanzar\n(verbo) gerúndio do verbo "to wander": perambulação, vagueação
+WANDERINGS	(forma de wander) (substantivo) wander se traduz como perambulação, vagueação
+WANDERLUST	(substantivo) desejo de viajar
+WANDERLUSTS	(forma de wanderlust) (substantivo) desejo de viajar
+WANDERS	(forma de wander) (substantivo) wander se traduz como perambulação, vagueação
+WANDS	(forma de wand) (substantivo) wand se traduz como varinha
+WANE	(substantivo) wane se traduz como ⟪diminuição|DIMINUIÇAO⟫\n(verbo) minguar: tornar-se menor
+WANED	(forma de wane) (substantivo) wane se traduz como ⟪diminuição|DIMINUIÇAO⟫
+WANES	(forma de wane) (substantivo) wane se traduz como ⟪diminuição|DIMINUIÇAO⟫
+WANING	(forma de wane) (substantivo) wane se traduz como ⟪diminuição|DIMINUIÇAO⟫
+WANT	(substantivo) want se traduz como ⟪falta⟫\n(verbo) desejar: ter desejos, favoráveis ou não (também: querer)
+WANTED	(verbo) passado simples do verbo want
+WANTING	(verbo) gerúndio do verbo want
+WANTON	(adjetivo) lascivo: pessoa lasciva
+WANTONED	(forma de wanton) (adjetivo) lascivo: pessoa lasciva
+WANTONER	(forma de wanton) (adjetivo) lascivo: pessoa lasciva
+WANTONING	(forma de wanton) (adjetivo) lascivo: pessoa lasciva
+WANTONS	(forma de wanton) (adjetivo) lascivo: pessoa lasciva
+WANTS	(verbo) terceira pessoa do singular do verbo want
+WAR	(substantivo) war se traduz como ⟪guerra⟫, conflito:\n(verbo) war se traduz como ⟪lutar⟫, enfrentar :
+WARD	(substantivo) tutelado: protegido (também: freguesia)
+WARDED	(forma de ward) (substantivo) tutelado: protegido (também: freguesia)
+WARDER	(substantivo) carcereiro: aquele que guarda o cárcere
+WARDERS	(forma de warder) (substantivo) carcereiro: aquele que guarda o cárcere
+WARDING	(forma de ward) (substantivo) tutelado: protegido (também: freguesia)
+WARDROBE	(substantivo) guarda-roupa: espécie de armário usado para guardar roupas (também: figurino)
+WARDROBES	(forma de wardrobe) (substantivo) guarda-roupa: espécie de armário usado para guardar roupas (também: figurino)
+WARDS	(forma de ward) (substantivo) tutelado: protegido (também: freguesia)
+WARE	(substantivo) ware se traduz como ⟪artigo⟫, produto manufaturado
+WARED	(forma de ware) (substantivo) ware se traduz como ⟪artigo⟫, produto manufaturado
+WARES	(forma de ware) (substantivo) ware se traduz como ⟪artigo⟫, produto manufaturado
+WARFARE	(substantivo) guerra: conflito, em geral armado, entre povos ou nações
+WARFARES	(forma de warfare) (substantivo) guerra: conflito, em geral armado, entre povos ou nações
+WARFARIN	(substantivo) warfarina: fármaco do grupo dos anticoagulantes, que é usado na prevenção das tromboses; também usado em altas doses como veneno para roedores (também: varfarina)
+WARFARINS	(forma de warfarin) (substantivo) warfarina: fármaco do grupo dos anticoagulantes, que é usado na prevenção das tromboses; também usado em...
+WARILY	(advérbio) cautelosamente: de modo cauteloso (também: cuidadosamente)
+WARING	(forma de ware) (substantivo) ware se traduz como ⟪artigo⟫, produto manufaturado
+WARLIKE	(adjetivo) warlike se traduz como ⟪belicoso⟫, ⟪hostil⟫, ⟪beligerante⟫
+WARLOCK	(substantivo) mago: pessoa versada em magia (também: bruxo, feiticeiro)
+WARLOCKS	(forma de warlock) (substantivo) mago: pessoa versada em magia (também: bruxo, feiticeiro)
+WARLORD	(substantivo) chefe militar, senhor da guerra, indivíduo com poder tanto civil quanto militar sobre determinado local, com forças armadas leais a ele e não a uma autoridade central:
+WARLORDS	(forma de warlord) (substantivo) chefe militar, senhor da guerra, indivíduo com poder tanto civil quanto militar sobre determinado local,...
+WARM	(adjetivo) quente: que tem a temperatura alta
+WARMED	(forma de warm) (adjetivo) quente: que tem a temperatura alta
+WARMER	(forma de warm) (adjetivo) quente: que tem a temperatura alta
+WARMERS	(forma de warm) (adjetivo) quente: que tem a temperatura alta
+WARMEST	(forma de warm) (adjetivo) quente: que tem a temperatura alta
+WARMING	(forma de warm) (adjetivo) quente: que tem a temperatura alta
+WARMLY	(advérbio) quentemente: de forma quente (também: calorosamente, calidamente)
+WARMS	(forma de warm) (adjetivo) quente: que tem a temperatura alta
+WARN	(verbo) avisar: aconselhar; admoestar; advertir
+WARNED	(forma de warn) (verbo) avisar: aconselhar; admoestar; advertir
+WARNING	(substantivo) advertência: ação ou resultado de advertir (também: aviso)
+WARNINGS	(forma de warn) (verbo) avisar: aconselhar; admoestar; advertir
+WARNS	(forma de warn) (verbo) avisar: aconselhar; admoestar; advertir
+WARPED	(adjetivo) warped se traduz como ⟪distorcido⟫
+WARRANT	(substantivo) warrant se traduz como ⟪garantia⟫\n(verbo) warrant se traduz como ⟪garantir⟫
+WARRANTED	(forma de warrant) (substantivo) warrant se traduz como ⟪garantia⟫
+WARRANTIES	(forma de warranty) (substantivo) warranty se traduz como ⟪garantia⟫
+WARRANTING	(forma de warrant) (substantivo) warrant se traduz como ⟪garantia⟫
+WARRANTS	(forma de warrant) (substantivo) warrant se traduz como ⟪garantia⟫
+WARRANTY	(substantivo) warranty se traduz como ⟪garantia⟫
+WARRED	(forma de war) (substantivo) war se traduz como ⟪guerra⟫, conflito:
+WARREN	(substantivo) warren se traduz como ⟪toca⟫, ⟪covil⟫, ⟪madrigueira⟫
+WARRENS	(forma de warren) (substantivo) warren se traduz como ⟪toca⟫, ⟪covil⟫, ⟪madrigueira⟫
+WARRING	(forma de war) (substantivo) war se traduz como ⟪guerra⟫, conflito:
+WARRIOR	(substantivo) guerreiro: homem das Armas, homem que luta por uma causa
+WARRIORS	(forma de warrior) (substantivo) guerreiro: homem das Armas, homem que luta por uma causa
+WARS	(forma de war) (substantivo) war se traduz como ⟪guerra⟫, conflito:
+WART	(substantivo) wart se traduz como ⟪verruga⟫
+WARTHOG	(substantivo) porco selvagem africano semelhante ao javali; seu nome científico é Phacochoerus africanus
+WARTHOGS	(forma de warthog) (substantivo) porco selvagem africano semelhante ao javali; seu nome científico é Phacochoerus africanus
+WARTS	(forma de wart) (substantivo) wart se traduz como ⟪verruga⟫
+WAS	(verbo) primeira pessoa do singular do passado simples do indicativo do verbo "to be"
+WASH	(verbo) tirar as impurezas usando-se de água ou outro líquido; lavar
+WASHED	(forma de wash) (verbo) tirar as impurezas usando-se de água ou outro líquido; lavar
+WASHER	(substantivo) washer se traduz como lavador
+WASHERS	(forma de washer) (substantivo) washer se traduz como lavador
+WASHES	(forma de wash) (verbo) tirar as impurezas usando-se de água ou outro líquido; lavar
+WASHHOUSE	(substantivo) lavadouro: local ou tanque onde se lava roupa
+WASHHOUSES	(forma de washhouse) (substantivo) lavadouro: local ou tanque onde se lava roupa
+WASHING	(forma de wash) (verbo) tirar as impurezas usando-se de água ou outro líquido; lavar
+WASHINGS	(forma de wash) (verbo) tirar as impurezas usando-se de água ou outro líquido; lavar
+WASP	(substantivo) vespa: nome vulgar de himenópteros da família dos Vespídeos possuidores de ferrão cuja picada é dolorosa
+WASPS	(forma de wasp) (substantivo) vespa: nome vulgar de himenópteros da família dos Vespídeos possuidores de ferrão cuja picada é dolorosa
+WASTE	(substantivo) lixo: coisas inúteis\n(verbo) acabar: dar cabo: matar, assassinar
+WASTED	(forma de waste) (substantivo) lixo: coisas inúteis
+WASTEFUL	(adjetivo) wasteful se traduz como desperciçador, desperdiçante
+WASTEFULLY	(advérbio) desperdiçadamente: de forma desperdiçada
+WASTES	(forma de waste) (substantivo) lixo: coisas inúteis
+WASTING	(forma de waste) (substantivo) lixo: coisas inúteis
+WATCH	(substantivo) relógio: instrumento usado para indicar as horas e medir o tempo\n(verbo) ver: perceber seres e objetos através da visão, valendo-se da luz emitida ou refletida por ele (também: assistir)
+WATCHED	(forma de watch) (substantivo) relógio: instrumento usado para indicar as horas e medir o tempo
+WATCHES	(forma de watch) (substantivo) relógio: instrumento usado para indicar as horas e medir o tempo
+WATCHFULNESS	(substantivo) vigilância: o fato de prestar atenção
+WATCHFULNESSES	(forma de watchfulness) (substantivo) vigilância: o fato de prestar atenção
+WATCHING	(verbo) particípio presente do verbo watch: relógio
+WATCHMAKER	(substantivo) relojoeiro: aquele que arranja ou trabalha com relógios
+WATCHMAKERS	(forma de watchmaker) (substantivo) relojoeiro: aquele que arranja ou trabalha com relógios
+WATCHTOWER	(substantivo) torre de guarda
+WATCHTOWERS	(forma de watchtower) (substantivo) torre de guarda
+WATER	(substantivo) water se traduz como água :\n(verbo) aguar, regar, despejar água em (geralmente plantas):
+WATERCOLOR	(substantivo) aquarela: técnica de pintura na qual os pigmentos se encontram suspensos ou dissolvidos em água
+WATERCOLORS	(forma de watercolor) (substantivo) aquarela: técnica de pintura na qual os pigmentos se encontram suspensos ou dissolvidos em água
+WATERCRESS	(substantivo) watercress se traduz como ⟪agrião|AGRIAO⟫
+WATERCRESSES	(forma de watercress) (substantivo) watercress se traduz como ⟪agrião|AGRIAO⟫
+WATERED	(forma de water) (substantivo) water se traduz como água :
+WATERFALL	(substantivo) cachoeira: queda-d'água (também: queda d'água)
+WATERFALLS	(forma de waterfall) (substantivo) cachoeira: queda-d'água (também: queda d'água)
+WATERFRONT	(substantivo) waterfront se traduz como beira-mar, beira-rio
+WATERFRONTS	(forma de waterfront) (substantivo) waterfront se traduz como beira-mar, beira-rio
+WATERING	(verbo) watering se traduz como ⟪aguando⟫
+WATERINGS	(forma de water) (substantivo) water se traduz como água :
+WATERMARK	(substantivo) watermark se traduz como marca d'água
+WATERMARKED	(forma de watermark) (substantivo) watermark se traduz como marca d'água
+WATERMARKING	(forma de watermark) (substantivo) watermark se traduz como marca d'água
+WATERMARKS	(forma de watermark) (substantivo) watermark se traduz como marca d'água
+WATERMELON	(substantivo) melancia: o fruto dessa planta - Citrullus lanatus
+WATERMELONS	(forma de watermelon) (substantivo) melancia: o fruto dessa planta - Citrullus lanatus
+WATERPROOF	(adjetivo) impermeável: que não é permeável
+WATERPROOFED	(forma de waterproof) (adjetivo) impermeável: que não é permeável
+WATERPROOFER	(forma de waterproof) (adjetivo) impermeável: que não é permeável
+WATERPROOFING	(forma de waterproof) (adjetivo) impermeável: que não é permeável
+WATERPROOFINGS	(forma de waterproof) (adjetivo) impermeável: que não é permeável
+WATERPROOFS	(forma de waterproof) (adjetivo) impermeável: que não é permeável
+WATERS	(forma de water) (substantivo) water se traduz como água :
+WATERWAY	(substantivo) hidrovia: via hídrica por mares, oceanos ou rios
+WATERWAYS	(forma de waterway) (substantivo) hidrovia: via hídrica por mares, oceanos ou rios
+WATERWORKS	(substantivo) waterworks se traduz como ⟪lágrimas|LAGRIMAS⟫
+WATT	(substantivo) vátio: unidade de potência do Sistema Internacional de Unidades (também: watt)
+WATTER	(forma de watt) (substantivo) vátio: unidade de potência do Sistema Internacional de Unidades (também: watt)
+WATTEST	(forma de watt) (substantivo) vátio: unidade de potência do Sistema Internacional de Unidades (também: watt)
+WATTMETER	(substantivo) wattímetro: instrumento de medida de potência elétrica fornecida ou dissipada por um elemento
+WATTMETERS	(forma de wattmeter) (substantivo) wattímetro: instrumento de medida de potência elétrica fornecida ou dissipada por um elemento
+WAVE	(substantivo) onda: elevação e depressão da camada superficial de uma massa líquida; vaga\n(verbo) wave se traduz como ⟪ondular⟫
+WAVED	(verbo) passado simples do verbo wave
+WAVEFORM	(substantivo) formato de onda (gráfico que representa uma onda)
+WAVEFORMS	(forma de waveform) (substantivo) formato de onda (gráfico que representa uma onda)
+WAVES	(substantivo) plural de wave\n(verbo) terceira pessoa do singular do verbo wave
+WAVIER	(forma de wavy) (adjetivo) ondulado: ondeado; frisado (cabelo); pregueado
+WAVIES	(forma de wavy) (adjetivo) ondulado: ondeado; frisado (cabelo); pregueado
+WAVIEST	(forma de wavy) (adjetivo) ondulado: ondeado; frisado (cabelo); pregueado
+WAVILY	(advérbio) onduladamente: de forma ondulada
+WAVING	(verbo) gerúndio do verbo wave
+WAVY	(adjetivo) ondulado: ondeado; frisado (cabelo); pregueado
+WAX	(substantivo) cera: substância que constitui os favos das abelhas
+WAXED	(forma de wax) (substantivo) cera: substância que constitui os favos das abelhas
+WAXER	(forma de wax) (substantivo) cera: substância que constitui os favos das abelhas
+WAXES	(forma de wax) (substantivo) cera: substância que constitui os favos das abelhas
+WAXING	(forma de wax) (substantivo) cera: substância que constitui os favos das abelhas
+WAXINGS	(forma de wax) (substantivo) cera: substância que constitui os favos das abelhas
+WAY	(substantivo) jeito: forma particular de agir (também: forma)
+WEAK	(adjetivo) fraco: sem força (também: frágil)
+WEAKEN	(verbo) abater: enfraquecer, debilitar (também: enfraquecer)
+WEAKENED	(forma de weaken) (verbo) abater: enfraquecer, debilitar (também: enfraquecer)
+WEAKENING	(forma de weaken) (verbo) abater: enfraquecer, debilitar (também: enfraquecer)
+WEAKENS	(forma de weaken) (verbo) abater: enfraquecer, debilitar (também: enfraquecer)
+WEAKER	(forma de weak) (adjetivo) fraco: sem força (também: frágil)
+WEAKEST	(forma de weak) (adjetivo) fraco: sem força (também: frágil)
+WEAKLING	(substantivo) weakling se traduz como fracote, fraquito
+WEAKLINGS	(forma de weakling) (substantivo) weakling se traduz como fracote, fraquito
+WEAKNESS	(substantivo) weakness se traduz como ⟪fraqueza⟫
+WEAKNESSES	(forma de weakness) (substantivo) weakness se traduz como ⟪fraqueza⟫
+WEALTH	(substantivo) abundância: condição de vida na qual os recursos disponíveis ultrapassam as necessidades
+WEALTHIER	(forma de wealthy) (adjetivo) rico: diz-se de quem tem muito dinheiro
+WEALTHIEST	(forma de wealthy) (adjetivo) rico: diz-se de quem tem muito dinheiro
+WEALTHS	(forma de wealth) (substantivo) abundância: condição de vida na qual os recursos disponíveis ultrapassam as necessidades
+WEALTHY	(adjetivo) rico: diz-se de quem tem muito dinheiro
+WEAN	(verbo) desmamar: tirar a mama a
+WEANED	(forma de wean) (verbo) desmamar: tirar a mama a
+WEANER	(forma de wean) (verbo) desmamar: tirar a mama a
+WEANING	(forma de wean) (verbo) desmamar: tirar a mama a
+WEANS	(forma de wean) (verbo) desmamar: tirar a mama a
+WEAPON	(substantivo) arma: instrumento usado para ataque e defesa
+WEAPONING	(forma de weapon) (substantivo) arma: instrumento usado para ataque e defesa
+WEAPONRIES	(forma de weaponry) (substantivo) armadura: conjunto de armas
+WEAPONRY	(substantivo) armadura: conjunto de armas
+WEAPONS	(forma de weapon) (substantivo) arma: instrumento usado para ataque e defesa
+WEAR	(substantivo) wear se traduz como ⟪roupa⟫\n(verbo) usar: a partir do sinônimo (“utilizar”) (também: vestir)
+WEARABLE	(adjetivo) Que pode ser vestido.
+WEARABLES	(forma de wearable) (adjetivo) Que pode ser vestido.
+WEARIED	(forma de weary) (adjetivo) que tem as forças esgotadas pelo trabalho ou esforço; cansado; fatigado
+WEARIER	(forma de weary) (adjetivo) que tem as forças esgotadas pelo trabalho ou esforço; cansado; fatigado
+WEARIES	(forma de weary) (adjetivo) que tem as forças esgotadas pelo trabalho ou esforço; cansado; fatigado
+WEARIEST	(forma de weary) (adjetivo) que tem as forças esgotadas pelo trabalho ou esforço; cansado; fatigado
+WEARILY	(advérbio) afadigadamente: de forma cansativa
+WEARINESS	(substantivo) canseira: condição pertinente àquele que está cansado
+WEARINESSES	(forma de weariness) (substantivo) canseira: condição pertinente àquele que está cansado
+WEARING	(verbo) gerúndio do verbo wear
+WEARINGLY	(forma de wear) (substantivo) wear se traduz como ⟪roupa⟫
+WEARS	(verbo) terceira pessoa do singular do presente do indicativo do verbo wear: roupa
+WEARY	(adjetivo) que tem as forças esgotadas pelo trabalho ou esforço; cansado; fatigado
+WEARYING	(forma de weary) (adjetivo) que tem as forças esgotadas pelo trabalho ou esforço; cansado; fatigado
+WEASEL	(substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEASELED	(forma de weasel) (substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEASELING	(forma de weasel) (substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEASELLED	(forma de weasel) (substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEASELLING	(forma de weasel) (substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEASELLY	(forma de weasel) (substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEASELS	(forma de weasel) (substantivo) weasel se traduz como ⟪doninha⟫, ⟪donizela⟫
+WEATHER	(substantivo) tempo (condição climática), clima; refere-se a: temperatura, umidade, chuva, vento, visibilidade, poluição atmosférica, etc\n(verbo) expor ao clima; secar, temperar ou afetar de alguma outra forma expondo às condições climáticas
+WEATHERED	(forma de weather) (substantivo) tempo (condição climática), clima; refere-se a: temperatura, umidade, chuva, vento, visibilidade,...
+WEATHERING	(forma de weather) (substantivo) tempo (condição climática), clima; refere-se a: temperatura, umidade, chuva, vento, visibilidade,...
+WEATHERINGS	(forma de weather) (substantivo) tempo (condição climática), clima; refere-se a: temperatura, umidade, chuva, vento, visibilidade,...
+WEATHERS	(forma de weather) (substantivo) tempo (condição climática), clima; refere-se a: temperatura, umidade, chuva, vento, visibilidade,...
+WEAVE	(substantivo) weave se traduz como ⟪costura⟫\n(verbo) tecer: entrelaçar fios de uma forma regular
+WEAVED	(verbo) passado simples do verbo weave
+WEAVES	(substantivo) plural de weave\n(verbo) terceira pessoa do singular do verbo weave
+WEAVING	(verbo) gerúndio do verbo weave
+WEB	(substantivo) web se traduz como ⟪teia⟫
+WEBBED	(forma de web) (substantivo) web se traduz como ⟪teia⟫
+WEBBING	(forma de web) (substantivo) web se traduz como ⟪teia⟫
+WEBBINGS	(forma de web) (substantivo) web se traduz como ⟪teia⟫
+WEBS	(forma de web) (substantivo) web se traduz como ⟪teia⟫
+WED	(verbo) wed se traduz como casar-se
+WEDDED	(verbo) passado simples wed: casar-se
+WEDDING	(substantivo) casamento: união de duas pessoas, geralmente de sexos opostos, consagrada por uma instituição religiosa, com o objetivo de formar uma família\n(verbo) gerúndio de wed: casar-se
+WEDDINGS	(forma de wed) (verbo) wed se traduz como casar-se
+WEDGE	(substantivo) cunha: deslocamento de tropas em forma de triângulo; cúneo
+WEDGED	(forma de wedge) (substantivo) cunha: deslocamento de tropas em forma de triângulo; cúneo
+WEDGES	(forma de wedge) (substantivo) cunha: deslocamento de tropas em forma de triângulo; cúneo
+WEDGIE	(substantivo) cuecão: ação ou resultado de se puxar a peça da roupa interior junto das pernas e quadril (cueca) usado por um indivíduo masculino por meio de elevação, fazendo tal peça ir contra a reentrância natural do corpo entre as nádegas causando grande desconforto
+WEDGIES	(forma de wedgie) (substantivo) cuecão: ação ou resultado de se puxar a peça da roupa interior junto das pernas e quadril (cueca) usado...
+WEDGING	(forma de wedge) (substantivo) cunha: deslocamento de tropas em forma de triângulo; cúneo
+WEDLOCK	(substantivo) casamento: vínculo legal pelo qual duas pessoas se comprometem a ser parceiras formando um núcleo familiar, passando a ter direitos de propriedade e herança dos bens compartilhados; matrimônio (também: matrimônio)
+WEDLOCKS	(forma de wedlock) (substantivo) casamento: vínculo legal pelo qual duas pessoas se comprometem a ser parceiras formando um núcleo...
+WEDS	(verbo) terceira pessoa do singular de wed: casar-se
+WEE	(adjetivo) wee se traduz como ⟪pequeno⟫, ⟪minúsculo|MINUSCULO⟫\n(substantivo) wee se traduz como ⟪xixi⟫
+WEED	(verbo) capinar: carpir; retirar ou podar a grama, mato, ervas daninhas, etc
+WEEDED	(forma de weed) (verbo) capinar: carpir; retirar ou podar a grama, mato, ervas daninhas, etc
+WEEDING	(forma de weed) (verbo) capinar: carpir; retirar ou podar a grama, mato, ervas daninhas, etc
+WEEDS	(forma de weed) (verbo) capinar: carpir; retirar ou podar a grama, mato, ervas daninhas, etc
+WEEK	(substantivo) semana: período de sete dias, com um dia de feriado de cunho religioso: sábado para os judeus, domingo para os cristãos e sexta-feira para os muçulmanos
+WEEKDAY	(substantivo) weekday se traduz como dia de semana
+WEEKDAYS	(forma de weekday) (substantivo) weekday se traduz como dia de semana
+WEEKEND	(substantivo) fim de semana
+WEEKENDED	(forma de weekend) (substantivo) fim de semana
+WEEKENDING	(forma de weekend) (substantivo) fim de semana
+WEEKENDS	(forma de weekend) (substantivo) fim de semana
+WEEKLIES	(forma de weekly) (adjetivo) semanal, que acontece toda semana
+WEEKLY	(adjetivo) semanal, que acontece toda semana
+WEEKS	(forma de week) (substantivo) semana: período de sete dias, com um dia de feriado de cunho religioso: sábado para os judeus, domingo...
+WEEP	(substantivo) weep se traduz como ⟪choro⟫\n(verbo) chorar: derramar lágrimas por dor ou tristeza
+WEEPING	(forma de weep) (substantivo) weep se traduz como ⟪choro⟫
+WEEPINGS	(forma de weep) (substantivo) weep se traduz como ⟪choro⟫
+WEEPS	(forma de weep) (substantivo) weep se traduz como ⟪choro⟫
+WEER	(forma de wee) (adjetivo) wee se traduz como ⟪pequeno⟫, ⟪minúsculo|MINUSCULO⟫
+WEES	(forma de wee) (adjetivo) wee se traduz como ⟪pequeno⟫, ⟪minúsculo|MINUSCULO⟫
+WEEST	(forma de wee) (adjetivo) wee se traduz como ⟪pequeno⟫, ⟪minúsculo|MINUSCULO⟫
+WEEVIL	(substantivo) gorgulho: espécie de besouro da família dos curculionídeos
+WEEVILLY	(forma de weevil) (substantivo) gorgulho: espécie de besouro da família dos curculionídeos
+WEEVILS	(forma de weevil) (substantivo) gorgulho: espécie de besouro da família dos curculionídeos
+WEIGH	(verbo) pesar: determinar o peso de algo usando uma balança\n(substantivo) ato de pesar
+WEIGHED	(forma de weigh) (verbo) pesar: determinar o peso de algo usando uma balança
+WEIGHING	(substantivo) weighing se traduz como ⟪pesada⟫
+WEIGHS	(forma de weigh) (verbo) pesar: determinar o peso de algo usando uma balança
+WEIGHT	(substantivo) peso: o resultado da ação da gravidade sobre um corpo\n(verbo) adicionar peso a algo, tornando-o mais pesado
+WEIGHTED	(forma de weight) (substantivo) peso: o resultado da ação da gravidade sobre um corpo
+WEIGHTER	(forma de weight) (substantivo) peso: o resultado da ação da gravidade sobre um corpo
+WEIGHTING	(forma de weight) (substantivo) peso: o resultado da ação da gravidade sobre um corpo
+WEIGHTS	(forma de weight) (substantivo) peso: o resultado da ação da gravidade sobre um corpo
+WEIRD	(adjetivo) esquisito; não aceito pela sociedade, estranho
+WEIRDER	(adjetivo) comparativo de weird: esquisito; não aceito pela sociedade, estranho
+WEIRDEST	(forma de weird) (adjetivo) esquisito; não aceito pela sociedade, estranho
+WEIRDS	(forma de weird) (adjetivo) esquisito; não aceito pela sociedade, estranho
+WELCOME	(adjetivo) welcome se traduz como bem-vindo\n(interjeição) welcome se traduz como bem-vindo
+WELCOMED	(forma de welcome) (adjetivo) welcome se traduz como bem-vindo
+WELCOMER	(forma de welcome) (adjetivo) welcome se traduz como bem-vindo
+WELCOMERS	(forma de welcome) (adjetivo) welcome se traduz como bem-vindo
+WELCOMES	(forma de welcome) (adjetivo) welcome se traduz como bem-vindo
+WELCOMING	(forma de welcome) (adjetivo) welcome se traduz como bem-vindo
+WELD	(verbo) soldar: unir ou colar com solda
+WELDED	(forma de weld) (verbo) soldar: unir ou colar com solda
+WELDER	(substantivo) welder se traduz como ⟪soldador⟫, máquina de soldar
+WELDERS	(forma de welder) (substantivo) welder se traduz como ⟪soldador⟫, máquina de soldar
+WELDING	(substantivo) welding se traduz como ⟪soldadura⟫
+WELDS	(forma de weld) (verbo) soldar: unir ou colar com solda
+WELFARE	(substantivo) welfare se traduz como bem-estar
+WELFARES	(forma de welfare) (substantivo) welfare se traduz como bem-estar
+WELL	(adjetivo) bem, em boa saúde\n(advérbio) well se traduz como ⟪bem⟫
+WELLED	(forma de well) (adjetivo) bem, em boa saúde
+WELLING	(forma de well) (adjetivo) bem, em boa saúde
+WELLS	(forma de well) (adjetivo) bem, em boa saúde
+WENCH	(substantivo) moça: mulher jovem
+WENCHED	(forma de wench) (substantivo) moça: mulher jovem
+WENCHES	(forma de wench) (substantivo) moça: mulher jovem
+WENCHING	(forma de wench) (substantivo) moça: mulher jovem
+WENT	(verbo) passado simples do verbo go:
+WEPT	(forma de weep) (substantivo) weep se traduz como ⟪choro⟫
+WERE	(verbo) segunda pessoa (you) do singular do passado simples do modo indicativo do verbo be
+WEREWOLF	(substantivo) lobisomem: pessoa que segundo a crendice popular se transforma em lobo
+WEREWOLVES	(forma de werewolf) (substantivo) lobisomem: pessoa que segundo a crendice popular se transforma em lobo
+WEST	(adjetivo) west se traduz como ⟪oeste⟫\n(advérbio) west se traduz como ⟪oeste⟫
+WESTER	(forma de west) (adjetivo) west se traduz como ⟪oeste⟫
+WESTERN	(adjetivo) western se traduz como ⟪ocidental⟫
+WESTERNER	(forma de western) (adjetivo) western se traduz como ⟪ocidental⟫
+WESTERNERS	(forma de western) (adjetivo) western se traduz como ⟪ocidental⟫
+WESTERNS	(forma de western) (adjetivo) western se traduz como ⟪ocidental⟫
+WESTERS	(forma de west) (adjetivo) west se traduz como ⟪oeste⟫
+WESTS	(forma de west) (adjetivo) west se traduz como ⟪oeste⟫
+WET	(adjetivo) molhado: que recebeu líquido; úmido\n(verbo) molhar: derramar líquido sobre
+WETLY	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETS	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETTED	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETTER	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETTERS	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETTEST	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETTING	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WETTINGS	(forma de wet) (adjetivo) molhado: que recebeu líquido; úmido
+WHALE	(substantivo) baleia: qualquer dos grandes mamíferos marítimos da ordem Cetacea
+WHALED	(forma de whale) (substantivo) baleia: qualquer dos grandes mamíferos marítimos da ordem Cetacea
+WHALER	(substantivo) whaler se traduz como ⟪baleeiro⟫
+WHALERS	(forma de whaler) (substantivo) whaler se traduz como ⟪baleeiro⟫
+WHALES	(forma de whale) (substantivo) baleia: qualquer dos grandes mamíferos marítimos da ordem Cetacea
+WHALING	(forma de whale) (substantivo) baleia: qualquer dos grandes mamíferos marítimos da ordem Cetacea
+WHALINGS	(forma de whale) (substantivo) baleia: qualquer dos grandes mamíferos marítimos da ordem Cetacea
+WHARF	(substantivo) cais: lugar à beira-mar, na margem do rio, nas estações de caminho-de-ferro ou do metropolitano apropriado para o embarque e desembarque de pessoas ou mercadorias (também: embarcadouro)
+WHARFED	(forma de wharf) (substantivo) cais: lugar à beira-mar, na margem do rio, nas estações de caminho-de-ferro ou do metropolitano...
+WHARFING	(forma de wharf) (substantivo) cais: lugar à beira-mar, na margem do rio, nas estações de caminho-de-ferro ou do metropolitano...
+WHARFS	(forma de wharf) (substantivo) cais: lugar à beira-mar, na margem do rio, nas estações de caminho-de-ferro ou do metropolitano...
+WHARVES	(forma de wharf) (substantivo) cais: lugar à beira-mar, na margem do rio, nas estações de caminho-de-ferro ou do metropolitano...
+WHAT	(advérbio) em alguma maneira ou grau; em parte; geralmente seguido de with\n(conjunção) what se traduz como ⟪que⟫
+WHATEVER	(pronome) qualquer que seja; independentemente de\n(interjeição) whatever se traduz como tanto faz
+WHATS	(forma de what) (advérbio) em alguma maneira ou grau; em parte; geralmente seguido de with
+WHATSOEVER	(pronome) qualquer: pronome indefinido variável singular que significa todo ou toda
+WHEAT	(substantivo) wheat se traduz como ⟪trigo⟫
+WHEATEAR	(substantivo) chasco: ave pertencente ao género Oenanthe, borra
+WHEATEARS	(forma de wheatear) (substantivo) chasco: ave pertencente ao género Oenanthe, borra
+WHEATS	(forma de wheat) (substantivo) wheat se traduz como ⟪trigo⟫
+WHEEL	(substantivo) roda: peça de formato circular
+WHEELBARROW	(substantivo) carrinho de mão
+WHEELBARROWED	(forma de wheelbarrow) (substantivo) carrinho de mão
+WHEELBARROWING	(forma de wheelbarrow) (substantivo) carrinho de mão
+WHEELBARROWS	(forma de wheelbarrow) (substantivo) carrinho de mão
+WHEELCHAIR	(substantivo) cadeira de rodas
+WHEELCHAIRS	(forma de wheelchair) (substantivo) cadeira de rodas
+WHEELED	(forma de wheel) (substantivo) roda: peça de formato circular
+WHEELING	(forma de wheel) (substantivo) roda: peça de formato circular
+WHEELINGS	(forma de wheel) (substantivo) roda: peça de formato circular
+WHEELS	(forma de wheel) (substantivo) roda: peça de formato circular
+WHEN	(advérbio) quando: no momento em que\n(conjunção) quando: no momento em que
+WHENCE	(advérbio) donde: do qual, do que:
+WHENEVER	(advérbio) sempre que, toda vez que\n(conjunção) quando: no momento em que
+WHENS	(forma de when) (advérbio) quando: no momento em que
+WHERE	(advérbio) onde: o lugar em que; o lugar no qual\n(conjunção) enquanto: ao passo que
+WHEREAS	(conjunção) enquanto: enquanto que: ao passo que, à medida que, enquanto que na verdade, enquanto que na realidade: (conjunção subordinativa proporcional) = indica ideias opostas (também: sendo que, considerando que)
+WHEREASES	(forma de whereas) (conjunção) enquanto: enquanto que: ao passo que, à medida que, enquanto que na verdade, enquanto que na realidade:...
+WHEREIN	(advérbio) wherein se traduz como em que
+WHEREOF	(conjunção) donde: do qual, do que: (também: daí)
+WHEREUPON	(conjunção) ato contínuo, e após isso, e logo em seguida:
+WHERRIED	(forma de wherry) (substantivo) bote: embarcação de pequenas dimensões, fabricada de madeira, alumínio, borracha ou fibra de vidro,...
+WHERRIES	(forma de wherry) (substantivo) bote: embarcação de pequenas dimensões, fabricada de madeira, alumínio, borracha ou fibra de vidro,...
+WHERRY	(substantivo) bote: embarcação de pequenas dimensões, fabricada de madeira, alumínio, borracha ou fibra de vidro, movida a remo ou a vela
+WHERRYING	(forma de wherry) (substantivo) bote: embarcação de pequenas dimensões, fabricada de madeira, alumínio, borracha ou fibra de vidro,...
+WHET	(verbo) afiar: aguçar (também: amolar)
+WHETHER	(conjunção) quer: ou (também: se, ou)
+WHETS	(forma de whet) (verbo) afiar: aguçar (também: amolar)
+WHETTED	(forma de whet) (verbo) afiar: aguçar (também: amolar)
+WHETTING	(forma de whet) (verbo) afiar: aguçar (também: amolar)
+WHICH	(pronome) which se traduz como o qual, a qual
+WHILE	(conjunção) enquanto: durante o tempo em que, no momento em que: (conjunção subordinativa temporal)
+WHILED	(forma de while) (conjunção) enquanto: durante o tempo em que, no momento em que: (conjunção subordinativa temporal)
+WHILES	(forma de while) (conjunção) enquanto: durante o tempo em que, no momento em que: (conjunção subordinativa temporal)
+WHILING	(forma de while) (conjunção) enquanto: durante o tempo em que, no momento em que: (conjunção subordinativa temporal)
+WHILST	(conjunção) enquanto: durante o tempo em que, no momento em que: (conjunção subordinativa temporal)
+WHIM	(substantivo) inspiração: pensamento ou ideia que nos vem de repente; (também: capricho)
+WHIMS	(forma de whim) (substantivo) inspiração: pensamento ou ideia que nos vem de repente; (também: capricho)
+WHIMSICAL	(adjetivo) divertido: distraído (também: caprichoso, extravagante)
+WHINE	(verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+WHINED	(forma de whine) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+WHINES	(forma de whine) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+WHINING	(forma de whine) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+WHIP	(verbo) whip se traduz como ⟪açoitar⟫\n(substantivo) açoite: instrumento com tiras de couro e algumas vezes extremidades pontiagudas, com o objetivo de ferir (também: chicote)
+WHIPPED	(forma de whip) (verbo) whip se traduz como ⟪açoitar⟫
+WHIPPING	(forma de whip) (verbo) whip se traduz como ⟪açoitar⟫
+WHIPPINGS	(forma de whip) (verbo) whip se traduz como ⟪açoitar⟫
+WHIPS	(forma de whip) (verbo) whip se traduz como ⟪açoitar⟫
+WHIRLING	(adjetivo) rotatório: relativo a rotação (também: girante)
+WHISKER	(substantivo) whisker se traduz como ⟪bigode⟫
+WHISKERED	(forma de whisker) (substantivo) whisker se traduz como ⟪bigode⟫
+WHISKERS	(forma de whisker) (substantivo) whisker se traduz como ⟪bigode⟫
+WHISKEY	(substantivo) whisky: bebida alcoólica destilada de grãos, muitas vezes incluindo malte, e envelhecida em barris de carvalho (também: uísque)
+WHISKEYS	(forma de whiskey) (substantivo) whisky: bebida alcoólica destilada de grãos, muitas vezes incluindo malte, e envelhecida em barris de...
+WHISKIES	(substantivo) plural de whisky: uísque:
+WHISKY	(substantivo) whisky se traduz como uísque:
+WHISPER	(substantivo) sussurro: som confuso; murmúrio (também: cochicho)\n(verbo) cochichar: falar em voz baixa (também: sussurrar)
+WHISPERED	(forma de whisper) (substantivo) sussurro: som confuso; murmúrio (também: cochicho)
+WHISPERING	(forma de whisper) (substantivo) sussurro: som confuso; murmúrio (também: cochicho)
+WHISPERINGS	(forma de whisper) (substantivo) sussurro: som confuso; murmúrio (também: cochicho)
+WHISPERS	(forma de whisper) (substantivo) sussurro: som confuso; murmúrio (também: cochicho)
+WHIST	(substantivo) uíste: um determinado tipo de jogo de cartas
+WHISTED	(forma de whist) (substantivo) uíste: um determinado tipo de jogo de cartas
+WHISTING	(forma de whist) (substantivo) uíste: um determinado tipo de jogo de cartas
+WHISTLE	(substantivo) whistle se traduz como ⟪assobio⟫\n(verbo) whistle se traduz como ⟪assobiar⟫
+WHISTLED	(forma de whistle) (substantivo) whistle se traduz como ⟪assobio⟫
+WHISTLER	(substantivo) marmota: gênero (Marmota) de roedores da família dos Ciurídeos
+WHISTLERS	(forma de whistler) (substantivo) marmota: gênero (Marmota) de roedores da família dos Ciurídeos
+WHISTLES	(forma de whistle) (substantivo) whistle se traduz como ⟪assobio⟫
+WHISTLING	(forma de whistle) (substantivo) whistle se traduz como ⟪assobio⟫
+WHISTLINGS	(forma de whistle) (substantivo) whistle se traduz como ⟪assobio⟫
+WHISTS	(forma de whist) (substantivo) uíste: um determinado tipo de jogo de cartas
+WHITE	(adjetivo) branco: homem de raça branca\n(substantivo) branco: homem de raça branca
+WHITED	(forma de white) (adjetivo) branco: homem de raça branca
+WHITELY	(advérbio) brancamente: de forma branca
+WHITENESS	(substantivo) branquitude: racialidade, isto é, uma noção relativa à raça, que prega uma ficção de superioridade dos brancos em detrimento dos negros e, por conseguinte, legitimariam a violência desses por aqueles
+WHITENESSES	(forma de whiteness) (substantivo) branquitude: racialidade, isto é, uma noção relativa à raça, que prega uma ficção de superioridade dos...
+WHITENING	(substantivo) whitening se traduz como ⟪branqueamento⟫
+WHITER	(forma de white) (adjetivo) branco: homem de raça branca
+WHITES	(forma de white) (adjetivo) branco: homem de raça branca
+WHITEST	(forma de white) (adjetivo) branco: homem de raça branca
+WHITEWASH	(verbo) caiar: encobrir, disfarçar, mascarar
+WHITEWASHED	(forma de whitewash) (verbo) caiar: encobrir, disfarçar, mascarar
+WHITEWASHES	(forma de whitewash) (verbo) caiar: encobrir, disfarçar, mascarar
+WHITEWASHING	(forma de whitewash) (verbo) caiar: encobrir, disfarçar, mascarar
+WHITHER	(advérbio) aonde: ao qual lugar (também: onde, para onde)
+WHITING	(substantivo) pescada: peixe teleósteo da família dos Gadíneos muito apreciado (também: badejo)
+WHITINGS	(forma de white) (adjetivo) branco: homem de raça branca
+WHITISH	(adjetivo) esbranquiçado: de cor branca ou de tonalidade semelhante à cor branca
+WHITTLED	(adjetivo) talhado: cortado
+WHO	(pronome) who se traduz como ⟪que⟫, o qual, os quais, a qual
+WHOEVER	(pronome) quem: pronome que se refere a uma ou mais pessoas (também: qualquer pessoa)
+WHOLE	(adjetivo) inteiro: que tem todas as suas partes
+WHOLES	(forma de whole) (adjetivo) inteiro: que tem todas as suas partes
+WHOLESALING	(substantivo) atacado: forma de comércio em grande quantidade, por grosso, por junto
+WHOM	(pronome) whom se traduz como a quem
+WHOOPEE	(interjeição) iúpi: patenteia grande alegria
+WHOOPEES	(forma de whoopee) (interjeição) iúpi: patenteia grande alegria
+WHOP	(substantivo) whop se traduz como ⟪batida⟫, ⟪pancada⟫\n(verbo) bater: atingir (também: espancar)
+WHOPPED	(forma de whop) (substantivo) whop se traduz como ⟪batida⟫, ⟪pancada⟫
+WHOPPER	(substantivo) algo notavelmente grande
+WHOPPERS	(forma de whopper) (substantivo) algo notavelmente grande
+WHOPPING	(forma de whop) (substantivo) whop se traduz como ⟪batida⟫, ⟪pancada⟫
+WHOPS	(forma de whop) (substantivo) whop se traduz como ⟪batida⟫, ⟪pancada⟫
+WHOSE	(pronome) cujo: relaciona dois substantivos, um antecedente e outro consequente, sendo este último possuidor de algo (qualidade, condição, sentimento, ser etc.) designado pelo primeiro; equivale a de que, de quem, do/da qual, dos/das quais
+WHY	(advérbio) why se traduz como por que\n(conjunção) why se traduz como por que, ⟪porque⟫
+WHYS	(forma de why) (advérbio) why se traduz como por que
+WICKED	(adjetivo) wicked se traduz como ⟪cruel⟫, ⟪malvado⟫, ⟪malévolo|MALEVOLO⟫\n(advérbio) wicked se traduz como ⟪muito⟫, ⟪extremamente⟫
+WICKEDER	(forma de wicked) (adjetivo) wicked se traduz como ⟪cruel⟫, ⟪malvado⟫, ⟪malévolo|MALEVOLO⟫
+WICKEDEST	(forma de wicked) (adjetivo) wicked se traduz como ⟪cruel⟫, ⟪malvado⟫, ⟪malévolo|MALEVOLO⟫
+WICKER	(substantivo) vime: vara flexível dos vimeiros utilizada para fazer cestos e outras coisas
+WICKERS	(forma de wicker) (substantivo) vime: vara flexível dos vimeiros utilizada para fazer cestos e outras coisas
+WICKET	(substantivo) portinhola: porta pequena dentro de um portal ou portão que permite a passagem de uma pessoa sem a necessidade de abrir o portão maior (também: postigo)
+WICKETS	(forma de wicket) (substantivo) portinhola: porta pequena dentro de um portal ou portão que permite a passagem de uma pessoa sem a...
+WIDE	(adjetivo) wide se traduz como ⟪largo⟫\n(advérbio) wide se traduz como ⟪extensivamente⟫
+WIDELY	(advérbio) distantemente: de modo distante
+WIDEN	(verbo) alargar: aumentar
+WIDENED	(forma de widen) (verbo) alargar: aumentar
+WIDENER	(forma de widen) (verbo) alargar: aumentar
+WIDENING	(forma de widen) (verbo) alargar: aumentar
+WIDENS	(forma de widen) (verbo) alargar: aumentar
+WIDER	(forma de wide) (adjetivo) wide se traduz como ⟪largo⟫
+WIDES	(forma de wide) (adjetivo) wide se traduz como ⟪largo⟫
+WIDEST	(forma de wide) (adjetivo) wide se traduz como ⟪largo⟫
+WIDOW	(substantivo) viúva; feminino de widower
+WIDOWED	(forma de widow) (substantivo) viúva; feminino de widower
+WIDOWER	(substantivo) viúvo: homem a quem morreu a esposa e não voltou a casar
+WIDOWERS	(forma de widower) (substantivo) viúvo: homem a quem morreu a esposa e não voltou a casar
+WIDOWING	(forma de widow) (substantivo) viúva; feminino de widower
+WIDOWS	(forma de widow) (substantivo) viúva; feminino de widower
+WIDTH	(substantivo) espessura: qualidade de largo (também: largura)
+WIDTHS	(forma de width) (substantivo) espessura: qualidade de largo (também: largura)
+WIELD	(verbo) empunhar: pegar pelo punho ou pela empunhadura
+WIELDED	(forma de wield) (verbo) empunhar: pegar pelo punho ou pela empunhadura
+WIELDING	(forma de wield) (verbo) empunhar: pegar pelo punho ou pela empunhadura
+WIELDS	(forma de wield) (verbo) empunhar: pegar pelo punho ou pela empunhadura
+WIENER	(substantivo) salsicha: alimento preparado com carne picada metida em tripas
+WIENERS	(forma de wiener) (substantivo) salsicha: alimento preparado com carne picada metida em tripas
+WIFE	(substantivo) esposa: o cônjuge de sexo feminino
+WIFED	(forma de wife) (substantivo) esposa: o cônjuge de sexo feminino
+WIFES	(forma de wife) (substantivo) esposa: o cônjuge de sexo feminino
+WIFING	(forma de wife) (substantivo) esposa: o cônjuge de sexo feminino
+WIG	(substantivo) peruca: cabeleira postiça\n(verbo) wig se traduz como colocar peruca
+WIGMAKER	(substantivo) peruqueiro: pessoa que vende ou fabrica perucas
+WIGMAKERS	(forma de wigmaker) (substantivo) peruqueiro: pessoa que vende ou fabrica perucas
+WIGS	(forma de wig) (substantivo) peruca: cabeleira postiça
+WILD	(adjetivo) selvagem: inculto
+WILDCAT	(substantivo) wildcat se traduz como gato-bravo, gato-montês
+WILDCATS	(forma de wildcat) (substantivo) wildcat se traduz como gato-bravo, gato-montês
+WILDEBEEST	(substantivo) gnu: grande mamífero ungulado do gênero Connochaetes, nativo do continente africano
+WILDEBEESTS	(forma de wildebeest) (substantivo) gnu: grande mamífero ungulado do gênero Connochaetes, nativo do continente africano
+WILDER	(forma de wild) (adjetivo) selvagem: inculto
+WILDERED	(forma de wild) (adjetivo) selvagem: inculto
+WILDERNESS	(substantivo) terra não cultivada e não colonizada; natureza selvagem
+WILDERNESSES	(forma de wilderness) (substantivo) terra não cultivada e não colonizada; natureza selvagem
+WILDERS	(forma de wild) (adjetivo) selvagem: inculto
+WILDEST	(forma de wild) (adjetivo) selvagem: inculto
+WILDLY	(advérbio) desreguladamente: de modo desregulado (também: descabeladamente)
+WILDS	(forma de wild) (adjetivo) selvagem: inculto
+WILIER	(forma de wily) (adjetivo) manhoso, astuto, cheio de truques
+WILIEST	(forma de wily) (adjetivo) manhoso, astuto, cheio de truques
+WILILY	(forma de wily) (adjetivo) manhoso, astuto, cheio de truques
+WILL	(substantivo) vontade: a faculdade de agir em consciência e deliberadamente; o poder de controle que a mente tem sobre suas próprias ações\n(verbo) que indica futuro
+WILLED	(forma de will) (substantivo) vontade: a faculdade de agir em consciência e deliberadamente; o poder de controle que a mente tem sobre...
+WILLING	(adjetivo) disposto: decidido por sentença; determinado, ordenado
+WILLINGER	(forma de will) (substantivo) vontade: a faculdade de agir em consciência e deliberadamente; o poder de controle que a mente tem sobre...
+WILLINGEST	(forma de will) (substantivo) vontade: a faculdade de agir em consciência e deliberadamente; o poder de controle que a mente tem sobre...
+WILLINGNESS	(substantivo) disposição: ato ou efeito de dispor
+WILLINGNESSES	(forma de willingness) (substantivo) disposição: ato ou efeito de dispor
+WILLS	(forma de will) (substantivo) vontade: a faculdade de agir em consciência e deliberadamente; o poder de controle que a mente tem sobre...
+WILT	(verbo) definhar: tornar-se sem vida, sem cor, sem ânimo; perder o vigor, a saúde (também: murchar)
+WILTED	(forma de wilt) (verbo) definhar: tornar-se sem vida, sem cor, sem ânimo; perder o vigor, a saúde (também: murchar)
+WILTING	(forma de wilt) (verbo) definhar: tornar-se sem vida, sem cor, sem ânimo; perder o vigor, a saúde (também: murchar)
+WILTS	(forma de wilt) (verbo) definhar: tornar-se sem vida, sem cor, sem ânimo; perder o vigor, a saúde (também: murchar)
+WILY	(adjetivo) manhoso, astuto, cheio de truques
+WIMP	(substantivo) cagarola: indivíduo medroso, covarde, acovardado
+WIMPISH	(adjetivo) cagarola: indivíduo medroso, covarde, acovardado
+WIMPS	(forma de wimp) (substantivo) cagarola: indivíduo medroso, covarde, acovardado
+WIN	(substantivo) vitória: triunfo (também: ganho)\n(verbo) vencer: conseguir, obter vitória sobre; triunfar de; ganhar; auferir (também: ganhar)
+WINCH	(substantivo) winch se traduz como molinete
+WINCHED	(forma de winch) (substantivo) winch se traduz como molinete
+WINCHER	(forma de winch) (substantivo) winch se traduz como molinete
+WINCHES	(forma de winch) (substantivo) winch se traduz como molinete
+WINCHING	(forma de winch) (substantivo) winch se traduz como molinete
+WIND	(substantivo) wind se traduz como ⟪vento⟫\n(verbo) soprar: fazer vento com a boca ou com fole; ventar
+WINDED	(forma de wind) (substantivo) wind se traduz como ⟪vento⟫
+WINDIER	(forma de windy) (adjetivo) windy se traduz como ⟪ventoso⟫
+WINDIEST	(forma de windy) (adjetivo) windy se traduz como ⟪ventoso⟫
+WINDING	(substantivo) corcova: linha curva; volume pronunciadamente convexo que se sobressai de uma superfície (também: enrolado, enrolada)\n(adjetivo) winding se traduz como ⟪sinuoso⟫, ⟪tortuoso⟫
+WINDINGS	(forma de wind) (substantivo) wind se traduz como ⟪vento⟫
+WINDMILL	(substantivo) moinho de vento
+WINDMILLED	(forma de windmill) (substantivo) moinho de vento
+WINDMILLING	(forma de windmill) (substantivo) moinho de vento
+WINDMILLS	(forma de windmill) (substantivo) moinho de vento
+WINDOW	(substantivo) janela: buraco na parede, geralmente retangular, feito para permitir a entrada de luz e ar\n(verbo) colocar ou decorar um lugar com janelas
+WINDOWING	(forma de window) (substantivo) janela: buraco na parede, geralmente retangular, feito para permitir a entrada de luz e ar
+WINDOWS	(substantivo) plural de window: janela
+WINDPIPE	(substantivo) traqueia: canal cartilaginoso que faz a ligação entre a laringe e os brônquios, levando o ar aos pulmões durante a respiração
+WINDPIPES	(forma de windpipe) (substantivo) traqueia: canal cartilaginoso que faz a ligação entre a laringe e os brônquios, levando o ar aos pulmões...
+WINDS	(forma de wind) (substantivo) wind se traduz como ⟪vento⟫
+WINDSCREEN	(substantivo) windscreen se traduz como para-brisa
+WINDSCREENS	(forma de windscreen) (substantivo) windscreen se traduz como para-brisa
+WINDSHIELD	(substantivo) windshield se traduz como para-brisas
+WINDSHIELDS	(forma de windshield) (substantivo) windshield se traduz como para-brisas
+WINDSTORM	(substantivo) tempestade de vento
+WINDSTORMS	(forma de windstorm) (substantivo) tempestade de vento
+WINDY	(adjetivo) windy se traduz como ⟪ventoso⟫
+WINE	(substantivo) vinho: bebida fermentada feita da uva\n(verbo) wine se traduz como beber/tomar vinho
+WINED	(forma de wine) (substantivo) vinho: bebida fermentada feita da uva
+WINES	(forma de wine) (substantivo) vinho: bebida fermentada feita da uva
+WING	(substantivo) asa: membro de um animal que serve para o voo
+WINGED	(adjetivo) winged se traduz como ⟪alado⟫
+WINGEDLY	(forma de wing) (substantivo) asa: membro de um animal que serve para o voo
+WINGER	(substantivo) ala: jogador que atua principalmente nesta faixa do campo ou da quadra
+WINGERS	(forma de winger) (substantivo) ala: jogador que atua principalmente nesta faixa do campo ou da quadra
+WINGING	(forma de wing) (substantivo) asa: membro de um animal que serve para o voo
+WINGS	(forma de wing) (substantivo) asa: membro de um animal que serve para o voo
+WINGSPAN	(substantivo) envergadura: maior distância entre as pontas das asas de um objeto, por exemplo de avião
+WINGSPANS	(forma de wingspan) (substantivo) envergadura: maior distância entre as pontas das asas de um objeto, por exemplo de avião
+WINING	(forma de wine) (substantivo) vinho: bebida fermentada feita da uva
+WINK	(substantivo) piscada: o ato de abrir e fechar os olhos como na reação fisiológica para sua lubrificação, reação automática de proteção, movimento intencional ou outros motivos
+WINKED	(forma de wink) (substantivo) piscada: o ato de abrir e fechar os olhos como na reação fisiológica para sua lubrificação, reação...
+WINKING	(forma de wink) (substantivo) piscada: o ato de abrir e fechar os olhos como na reação fisiológica para sua lubrificação, reação...
+WINKS	(forma de wink) (substantivo) piscada: o ato de abrir e fechar os olhos como na reação fisiológica para sua lubrificação, reação...
+WINNED	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WINNER	(substantivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+WINNERS	(forma de winner) (substantivo) vencedor: aquele que venceu; que é ou tem estofo de vitorioso:
+WINNING	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WINS	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WINTER	(adjetivo) invernal: próprio do inverno ou a ele referido\n(substantivo) inverno: estação do ano que se segue ao outono e antecede a primavera; a quarta estação no hemisfério norte, iniciando-se em dezembro, no solstício
+WINTERED	(forma de winter) (adjetivo) invernal: próprio do inverno ou a ele referido
+WINTERER	(forma de winter) (adjetivo) invernal: próprio do inverno ou a ele referido
+WINTERING	(forma de winter) (adjetivo) invernal: próprio do inverno ou a ele referido
+WINTERS	(advérbio) durante o inverno\n(substantivo) plural de winter: invernal
+WINTRIER	(forma de wintry) (adjetivo) wintry se traduz como ⟪invernoso⟫
+WINTRIEST	(forma de wintry) (adjetivo) wintry se traduz como ⟪invernoso⟫
+WINTRILY	(forma de wintry) (adjetivo) wintry se traduz como ⟪invernoso⟫
+WINTRY	(adjetivo) wintry se traduz como ⟪invernoso⟫
+WIPE	(substantivo) lenço umedecido geralmente usado em bebês\n(verbo) limpar: tornar limpo, asseado
+WIPED	(forma de wipe) (substantivo) lenço umedecido geralmente usado em bebês
+WIPES	(forma de wipe) (substantivo) lenço umedecido geralmente usado em bebês
+WIPING	(verbo) flexão do verbo wipe: lenço umedecido geralmente usado em bebês
+WIRE	(substantivo) arame: liga utilizada na perfilação de fios metálicos, geralmente de bronze ou aço
+WIRED	(forma de wire) (substantivo) arame: liga utilizada na perfilação de fios metálicos, geralmente de bronze ou aço
+WIRELESS	(adjetivo) wireless se traduz como sem fio
+WIRELESSED	(forma de wireless) (adjetivo) wireless se traduz como sem fio
+WIRELESSES	(forma de wireless) (adjetivo) wireless se traduz como sem fio
+WIRELESSING	(forma de wireless) (adjetivo) wireless se traduz como sem fio
+WIRES	(forma de wire) (substantivo) arame: liga utilizada na perfilação de fios metálicos, geralmente de bronze ou aço
+WIRING	(forma de wire) (substantivo) arame: liga utilizada na perfilação de fios metálicos, geralmente de bronze ou aço
+WIRINGS	(forma de wire) (substantivo) arame: liga utilizada na perfilação de fios metálicos, geralmente de bronze ou aço
+WISDOM	(substantivo) elemento de caráter pessoal que permite distinguir o sábio do insensato; sabedoria
+WISDOMS	(forma de wisdom) (substantivo) elemento de caráter pessoal que permite distinguir o sábio do insensato; sabedoria
+WISE	(adjetivo) wise se traduz como ⟪sábio|SABIO⟫\n(verbo) wise se traduz como tornar-se sábio
+WISELIER	(forma de wisely) (advérbio) cordatamente: de forma cordata
+WISELIEST	(forma de wisely) (advérbio) cordatamente: de forma cordata
+WISELY	(advérbio) cordatamente: de forma cordata
+WISER	(forma de wise) (adjetivo) wise se traduz como ⟪sábio|SABIO⟫
+WISES	(forma de wise) (adjetivo) wise se traduz como ⟪sábio|SABIO⟫
+WISEST	(forma de wise) (adjetivo) wise se traduz como ⟪sábio|SABIO⟫
+WISH	(substantivo) wish se traduz como ⟪desejo⟫\n(verbo) desejar: ter desejos, favoráveis ou não (também: querer)
+WISHBONE	(substantivo) wishbone se traduz como fúrcula, ossinho da sorte
+WISHBONES	(forma de wishbone) (substantivo) wishbone se traduz como fúrcula, ossinho da sorte
+WISHED	(forma de wish) (substantivo) wish se traduz como ⟪desejo⟫
+WISHES	(forma de wish) (substantivo) wish se traduz como ⟪desejo⟫
+WISHING	(forma de wish) (substantivo) wish se traduz como ⟪desejo⟫
+WIT	(substantivo) wit se traduz como ⟪esperteza⟫
+WITCH	(substantivo) bruxa: mulher que faz bruxarias; feiticeira; maga; mágica; vidente:
+WITCHCRAFT	(substantivo) feitiçaria: obra de feiticeiro (também: bruxaria)
+WITCHCRAFTS	(forma de witchcraft) (substantivo) feitiçaria: obra de feiticeiro (também: bruxaria)
+WITCHED	(forma de witch) (substantivo) bruxa: mulher que faz bruxarias; feiticeira; maga; mágica; vidente:
+WITCHES	(forma de witch) (substantivo) bruxa: mulher que faz bruxarias; feiticeira; maga; mágica; vidente:
+WITCHING	(forma de witch) (substantivo) bruxa: mulher que faz bruxarias; feiticeira; maga; mágica; vidente:
+WITCHINGS	(forma de witch) (substantivo) bruxa: mulher que faz bruxarias; feiticeira; maga; mágica; vidente:
+WITED	(forma de wit) (substantivo) wit se traduz como ⟪esperteza⟫
+WITES	(forma de wit) (substantivo) wit se traduz como ⟪esperteza⟫
+WITH	(preposição) com: elemento expletivo, de realce
+WITHDRAW	(verbo) retirar: ir embora (regência verbal com preposição: para)
+WITHDRAWING	(forma de withdraw) (verbo) retirar: ir embora (regência verbal com preposição: para)
+WITHDRAWN	(forma de withdraw) (verbo) retirar: ir embora (regência verbal com preposição: para)
+WITHDRAWS	(forma de withdraw) (verbo) retirar: ir embora (regência verbal com preposição: para)
+WITHDREW	(forma de withdraw) (verbo) retirar: ir embora (regência verbal com preposição: para)
+WITHED	(forma de with) (preposição) com: elemento expletivo, de realce
+WITHER	(verbo) decair: cair num estado inferior àquele em que se estava
+WITHERED	(forma de wither) (verbo) decair: cair num estado inferior àquele em que se estava
+WITHERER	(forma de wither) (verbo) decair: cair num estado inferior àquele em que se estava
+WITHERING	(forma de wither) (verbo) decair: cair num estado inferior àquele em que se estava
+WITHERS	(forma de wither) (verbo) decair: cair num estado inferior àquele em que se estava
+WITHHELD	(forma de withhold) (verbo) reter: impedir
+WITHHOLD	(verbo) reter: impedir
+WITHHOLDING	(forma de withhold) (verbo) reter: impedir
+WITHHOLDS	(forma de withhold) (verbo) reter: impedir
+WITHING	(forma de with) (preposição) com: elemento expletivo, de realce
+WITHOUT	(advérbio) em que falta algo\n(preposição) without se traduz como ⟪sem⟫
+WITHOUTS	(forma de without) (advérbio) em que falta algo
+WITNESS	(substantivo) witness se traduz como ⟪testemunha⟫\n(verbo) presenciar: estar presente a (também: testemunhar)
+WITNESSED	(forma de witness) (substantivo) witness se traduz como ⟪testemunha⟫
+WITNESSES	(forma de witness) (substantivo) witness se traduz como ⟪testemunha⟫
+WITNESSING	(forma de witness) (substantivo) witness se traduz como ⟪testemunha⟫
+WITS	(substantivo) plural de wit: esperteza
+WITTINGLY	(advérbio) de forma intencional, conscientemente
+WIVES	(forma de wife) (substantivo) esposa: o cônjuge de sexo feminino
+WIZARD	(adjetivo) wizard se traduz como ⟪discreto⟫, ⟪judicioso⟫, ⟪prudente⟫\n(substantivo) wizard se traduz como ⟪mago⟫, ⟪bruxo⟫, ⟪feiticeiro⟫
+WIZARDS	(forma de wizard) (adjetivo) wizard se traduz como ⟪discreto⟫, ⟪judicioso⟫, ⟪prudente⟫
+WOE	(substantivo) calamidade: adversidade, miséria (também: desgraça, infelicidade)
+WOES	(forma de woe) (substantivo) calamidade: adversidade, miséria (também: desgraça, infelicidade)
+WOKE	(verbo) passado simples wake: o estado de acordar ou de estar acordado
+WOKEN	(verbo) particípio wake: o estado de acordar ou de estar acordado
+WOLF	(substantivo) lobo: mamífero carnívoro selvagem aparentado ao cachorro\n(verbo) devorar de forma veroz
+WOLFED	(forma de wolf) (substantivo) lobo: mamífero carnívoro selvagem aparentado ao cachorro
+WOLFER	(forma de wolf) (substantivo) lobo: mamífero carnívoro selvagem aparentado ao cachorro
+WOLFHOUND	(substantivo) cão de caça treinado para caçar lobos.
+WOLFHOUNDS	(forma de wolfhound) (substantivo) cão de caça treinado para caçar lobos.
+WOLFING	(forma de wolf) (substantivo) lobo: mamífero carnívoro selvagem aparentado ao cachorro
+WOLFRAM	(substantivo) wolfram se traduz como tungsténio/tungstênio
+WOLFRAMS	(forma de wolfram) (substantivo) wolfram se traduz como tungsténio/tungstênio
+WOLFS	(forma de wolf) (substantivo) lobo: mamífero carnívoro selvagem aparentado ao cachorro
+WOLVERINE	(substantivo) glutão: mamífero da família dos Mustelidae, ordem Carnivora (também: carcaju)
+WOLVERINES	(forma de wolverine) (substantivo) glutão: mamífero da família dos Mustelidae, ordem Carnivora (também: carcaju)
+WOLVES	(forma de wolf) (substantivo) lobo: mamífero carnívoro selvagem aparentado ao cachorro
+WOMAN	(substantivo) mulher: pessoa do sexo ou gênero feminino, geralmente, mas não exclusivamente, adulta
+WOMANED	(forma de woman) (substantivo) mulher: pessoa do sexo ou gênero feminino, geralmente, mas não exclusivamente, adulta
+WOMANING	(forma de woman) (substantivo) mulher: pessoa do sexo ou gênero feminino, geralmente, mas não exclusivamente, adulta
+WOMANIZER	(substantivo) mulherengo: aquele que é muito afeiçoado a mulheres
+WOMANIZERS	(forma de womanizer) (substantivo) mulherengo: aquele que é muito afeiçoado a mulheres
+WOMANLIER	(forma de womanly) (adjetivo) feminino: relativo a fêmeas, a mulheres ou próprio delas
+WOMANLIEST	(forma de womanly) (adjetivo) feminino: relativo a fêmeas, a mulheres ou próprio delas
+WOMANLY	(adjetivo) feminino: relativo a fêmeas, a mulheres ou próprio delas
+WOMANS	(forma de woman) (substantivo) mulher: pessoa do sexo ou gênero feminino, geralmente, mas não exclusivamente, adulta
+WOMB	(substantivo) útero: órgão feminino, onde se gera e desenvolve os fetos dos mamíferos, ligado ao canal vaginal.
+WOMBAT	(substantivo) wombat se traduz como vombate
+WOMBATS	(forma de wombat) (substantivo) wombat se traduz como vombate
+WOMBED	(forma de womb) (substantivo) útero: órgão feminino, onde se gera e desenvolve os fetos dos mamíferos, ligado ao canal vaginal.
+WOMBS	(forma de womb) (substantivo) útero: órgão feminino, onde se gera e desenvolve os fetos dos mamíferos, ligado ao canal vaginal.
+WOMEN	(substantivo) Plural de woman; mulheres
+WON	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WONDER	(substantivo) wonder se traduz como ⟪ponderação|PONDERAÇAO⟫, ⟪questionamento⟫\n(verbo) wonder se traduz como perguntar-se, questionar-se:
+WONDERED	(forma de wonder) (substantivo) wonder se traduz como ⟪ponderação|PONDERAÇAO⟫, ⟪questionamento⟫
+WONDERFUL	(adjetivo) maravilhoso: admirável
+WONDERFULLY	(advérbio) maravilhosamente: de modo maravilhoso
+WONDERING	(forma de wonder) (substantivo) wonder se traduz como ⟪ponderação|PONDERAÇAO⟫, ⟪questionamento⟫
+WONDERS	(forma de wonder) (substantivo) wonder se traduz como ⟪ponderação|PONDERAÇAO⟫, ⟪questionamento⟫
+WONNED	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WONNER	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WONNING	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WONS	(forma de win) (substantivo) vitória: triunfo (também: ganho)
+WOO	(verbo) azarar: paquerar, cortejar (também: namorar)
+WOOD	(substantivo) madeira: parte lenhosa e dura que constitui o tronco e ramos das árvores (também: lenha)
+WOODCOCK	(substantivo) woodcock se traduz como ⟪galinhola⟫
+WOODCOCKS	(forma de woodcock) (substantivo) woodcock se traduz como ⟪galinhola⟫
+WOODING	(forma de wood) (substantivo) madeira: parte lenhosa e dura que constitui o tronco e ramos das árvores (também: lenha)
+WOODLAND	(substantivo) mata: porção de terreno repleto de árvores silvestres (também: mato, bosque)
+WOODLANDS	(forma de woodland) (substantivo) mata: porção de terreno repleto de árvores silvestres (também: mato, bosque)
+WOODPECKER	(substantivo) woodpecker se traduz como pica-pau
+WOODPECKERS	(forma de woodpecker) (substantivo) woodpecker se traduz como pica-pau
+WOODS	(substantivo) woods se traduz como ⟪bosque⟫
+WOODWORK	(substantivo) objeto de madeira feito por trabalho manual
+WOODWORKS	(forma de woodwork) (substantivo) objeto de madeira feito por trabalho manual
+WOODWORM	(substantivo) woodworm se traduz como bicho-carpinteiro
+WOODWORMS	(forma de woodworm) (substantivo) woodworm se traduz como bicho-carpinteiro
+WOOED	(forma de woo) (verbo) azarar: paquerar, cortejar (também: namorar)
+WOOING	(forma de woo) (verbo) azarar: paquerar, cortejar (também: namorar)
+WOOL	(substantivo) wool se traduz como lã
+WOOLER	(forma de wool) (substantivo) wool se traduz como lã
+WOOLLED	(forma de wool) (substantivo) wool se traduz como lã
+WOOLS	(forma de wool) (substantivo) wool se traduz como lã
+WOOLY	(adjetivo) wooly se traduz como ⟪lanoso⟫
+WOOS	(forma de woo) (verbo) azarar: paquerar, cortejar (também: namorar)
+WORD	(substantivo) palavra: menor unidade semântica de um idioma, proferida de modo falado, escrito ou gestual e capaz de transmitir por si só uma ideia isolada, constituída por elementos formadores como raiz (semantema), radical, tema e afixo (prefixo e sufixo), sendo formada em processos como derivação, composição e...\n(verbo) escrever ou dizer algo usando palavras específicas
+WORDED	(verbo) passado simples do verbo word
+WORDIER	(forma de wordy) (substantivo) verborrágico; com excesso de palavras
+WORDIEST	(forma de wordy) (substantivo) verborrágico; com excesso de palavras
+WORDILY	(advérbio) palavrosamente: de modo palavroso
+WORDING	(verbo) gerúndio do verbo word
+WORDINGS	(forma de word) (substantivo) palavra: menor unidade semântica de um idioma, proferida de modo falado, escrito ou gestual e capaz de...
+WORDS	(substantivo) plural de word\n(verbo) terceira pessoa do singular do verbo word
+WORDY	(substantivo) verborrágico; com excesso de palavras
+WORE	(verbo) passado simples do verbo wear
+WORK	(substantivo) trabalho: atividade física ou intelectual\n(verbo) trabalhar: realizar alguma atividade em troca de remuneração
+WORKAHOLIC	(substantivo) trabalhólico: viciado em trabalho
+WORKAHOLICS	(forma de workaholic) (substantivo) trabalhólico: viciado em trabalho
+WORKBENCH	(substantivo) banco ou mesa para trabalho de artesão (operador de máquinas, carpinteiro ou joalheiro); bancada
+WORKBENCHES	(forma de workbench) (substantivo) banco ou mesa para trabalho de artesão (operador de máquinas, carpinteiro ou joalheiro); bancada
+WORKED	(forma de work) (substantivo) trabalho: atividade física ou intelectual
+WORKER	(substantivo) obreiro: aquele que obra (também: artesão, artífice)
+WORKERS	(forma de worker) (substantivo) obreiro: aquele que obra (também: artesão, artífice)
+WORKING	(adjetivo) trabalhador, que trabalha ou possui emprego:\n(verbo) particípio presente do verbo work:: trabalho
+WORKLOAD	(substantivo) carga de trabalho
+WORKLOADS	(forma de workload) (substantivo) carga de trabalho
+WORKMAN	(substantivo) trabalhador: aquele que trabalha
+WORKMEN	(forma de workman) (substantivo) trabalhador: aquele que trabalha
+WORKOUT	(substantivo) uma série de exercícios físicos
+WORKOUTS	(forma de workout) (substantivo) uma série de exercícios físicos
+WORKS	(forma de work) (substantivo) trabalho: atividade física ou intelectual
+WORKSHOP	(substantivo) workshop se traduz como ⟪oficina⟫
+WORKSHOPS	(forma de workshop) (substantivo) workshop se traduz como ⟪oficina⟫
+WORKSTATION	(substantivo) estação de trabalho
+WORKSTATIONS	(forma de workstation) (substantivo) estação de trabalho
+WORLD	(substantivo) mundo: conjunto de seres ou de fenômenos que constituem um todo
+WORLDLIER	(forma de worldly) (adjetivo) mundano: referente ao mundo material (em contraposição ao mundo espiritual)
+WORLDLIEST	(forma de worldly) (adjetivo) mundano: referente ao mundo material (em contraposição ao mundo espiritual)
+WORLDLY	(adjetivo) mundano: referente ao mundo material (em contraposição ao mundo espiritual)
+WORLDS	(forma de world) (substantivo) mundo: conjunto de seres ou de fenômenos que constituem um todo
+WORLDWIDE	(advérbio) mundialmente: de modo mundial
+WORM	(substantivo) verme: larva de inseto (também: minhoca)
+WORMED	(forma de worm) (substantivo) verme: larva de inseto (também: minhoca)
+WORMER	(forma de worm) (substantivo) verme: larva de inseto (também: minhoca)
+WORMIER	(forma de wormy) (adjetivo) verminoso: infestado com vermes
+WORMIEST	(forma de wormy) (adjetivo) verminoso: infestado com vermes
+WORMING	(forma de worm) (substantivo) verme: larva de inseto (também: minhoca)
+WORMS	(forma de worm) (substantivo) verme: larva de inseto (também: minhoca)
+WORMWOOD	(substantivo) absinto: planta aromática da família das Compostas - Artemisia absinthium (também: artemisia absinthium)
+WORMWOODS	(forma de wormwood) (substantivo) absinto: planta aromática da família das Compostas - Artemisia absinthium (também: artemisia absinthium)
+WORMY	(adjetivo) verminoso: infestado com vermes
+WORN	(adjetivo) gasto: diz-se daquilo que sofreu um processo de erosão, desgaste (também: puído, surrado)\n(verbo) particípio passado de wear
+WORRIED	(adjetivo) preocupado: que tem preocupação
+WORRIES	(forma de worry) (substantivo) preocupação: o ato de preocupar-se
+WORRISOME	(adjetivo) worrisome se traduz como ⟪preocupante⟫
+WORRISOMELY	(forma de worrisome) (adjetivo) worrisome se traduz como ⟪preocupante⟫
+WORRY	(substantivo) preocupação: o ato de preocupar-se\n(verbo) worry se traduz como preocupar-se, aborrecer-se
+WORRYING	(forma de worry) (substantivo) preocupação: o ato de preocupar-se
+WORSE	(adjetivo) pior: o que é inferior a tudo o mais\n(advérbio) pior: o que é inferior a tudo o mais
+WORSEN	(verbo) deteriorar: piorar, degenerar, pôr em condição inferior
+WORSENED	(forma de worsen) (verbo) deteriorar: piorar, degenerar, pôr em condição inferior
+WORSENING	(forma de worsen) (verbo) deteriorar: piorar, degenerar, pôr em condição inferior
+WORSENS	(forma de worsen) (verbo) deteriorar: piorar, degenerar, pôr em condição inferior
+WORSER	(forma de worse) (adjetivo) pior: o que é inferior a tudo o mais
+WORSES	(forma de worse) (adjetivo) pior: o que é inferior a tudo o mais
+WORSHIP	(substantivo) adoração: ação de adorar
+WORSHIPED	(forma de worship) (substantivo) adoração: ação de adorar
+WORSHIPING	(forma de worship) (substantivo) adoração: ação de adorar
+WORSHIPPED	(forma de worship) (substantivo) adoração: ação de adorar
+WORSHIPPER	(substantivo) adorador: aquele que adora
+WORSHIPPERS	(forma de worshipper) (substantivo) adorador: aquele que adora
+WORSHIPPING	(forma de worship) (substantivo) adoração: ação de adorar
+WORSHIPS	(forma de worship) (substantivo) adoração: ação de adorar
+WORST	(adjetivo) forma superlativa de bad; pior, mais inferior\n(advérbio) forma superlativa de badly; pior
+WORSTED	(substantivo) worsted se traduz como estambre\n(verbo) passado simples de worst: forma superlativa de bad; pior, mais inferior
+WORSTEDS	(substantivo) plural de worsted: estambre
+WORSTING	(verbo) gerúndio de worst: forma superlativa de bad; pior, mais inferior
+WORSTS	(substantivo) plural de worst: forma superlativa de bad; pior, mais inferior\n(verbo) terceira pessoa do singular de worst: forma superlativa de bad; pior, mais inferior
+WORTH	(substantivo) valor: qualidade inerente a um bem ou serviço que traduz o seu grau de utilidade
+WORTHED	(forma de worth) (substantivo) valor: qualidade inerente a um bem ou serviço que traduz o seu grau de utilidade
+WORTHIER	(forma de worthy) (adjetivo) digno: apropriado
+WORTHIES	(forma de worthy) (adjetivo) digno: apropriado
+WORTHIEST	(substantivo) meritíssimo: De adjetivo superlativo
+WORTHINESS	(substantivo) merecimento: ato ou efeito de merecer
+WORTHINESSES	(forma de worthiness) (substantivo) merecimento: ato ou efeito de merecer
+WORTHING	(forma de worth) (substantivo) valor: qualidade inerente a um bem ou serviço que traduz o seu grau de utilidade
+WORTHLESS	(adjetivo) imprestável: que não presta
+WORTHLESSLY	(advérbio) desvaliosamente: de forma desvaliosa
+WORTHS	(forma de worth) (substantivo) valor: qualidade inerente a um bem ou serviço que traduz o seu grau de utilidade
+WORTHY	(adjetivo) digno: apropriado
+WOULD	(verbo) would se traduz como we sat on the bench, por favor, por favor?, poderia desligar a televisão
+WOULDEST	(forma de would) (verbo) would se traduz como we sat on the bench, por favor, por favor?, poderia desligar a televisão
+WOUND	(substantivo) ferida: lesão (geralmente aberta) causada por impacto, atrito ou perfuração\n(verbo) ferir: causar ferimento a
+WOUNDED	(verbo) passado e particípio de wound: ferida\n(adjetivo) ferido: que recebeu ferimentos
+WOUNDING	(forma de wound) (substantivo) ferida: lesão (geralmente aberta) causada por impacto, atrito ou perfuração
+WOUNDS	(forma de wound) (substantivo) ferida: lesão (geralmente aberta) causada por impacto, atrito ou perfuração
+WOVE	(verbo) passado simples do verbo weave
+WOVEN	(adjetivo) tecido, fabricado em um tear:\n(verbo) particípio passado do verbo weave:: costura
+WOVENS	(forma de weave) (substantivo) weave se traduz como ⟪costura⟫
+WOW	(interjeição) wow se traduz como ⟪uau⟫
+WOWED	(forma de wow) (interjeição) wow se traduz como ⟪uau⟫
+WOWING	(forma de wow) (interjeição) wow se traduz como ⟪uau⟫
+WOWS	(forma de wow) (interjeição) wow se traduz como ⟪uau⟫
+WRAITH	(substantivo) espectro: aparição sobrenatural de pessoa morta; vulto fantasmagórico (também: aparição, fantasma)
+WRAITHS	(forma de wraith) (substantivo) espectro: aparição sobrenatural de pessoa morta; vulto fantasmagórico (também: aparição, fantasma)
+WRANGLE	(verbo) wrangle se traduz como ⟪pastorar⟫
+WRANGLED	(forma de wrangle) (verbo) wrangle se traduz como ⟪pastorar⟫
+WRANGLES	(forma de wrangle) (verbo) wrangle se traduz como ⟪pastorar⟫
+WRANGLING	(forma de wrangle) (verbo) wrangle se traduz como ⟪pastorar⟫
+WRAP	(substantivo) embrulho: algo envolvido com o fim de proteger ou ocultar o conteúdo\n(verbo) embrulhar: empacotar
+WRAPPED	(forma de wrap) (substantivo) embrulho: algo envolvido com o fim de proteger ou ocultar o conteúdo
+WRAPPER	(substantivo) wrapper se traduz como ⟪invólucro|INVOLUCRO⟫, ⟪envoltório|ENVOLTORIO⟫
+WRAPPERS	(forma de wrapper) (substantivo) wrapper se traduz como ⟪invólucro|INVOLUCRO⟫, ⟪envoltório|ENVOLTORIO⟫
+WRAPPING	(substantivo) invólucro: envoltório, algo que serve para envolver
+WRAPPINGS	(forma de wrap) (substantivo) embrulho: algo envolvido com o fim de proteger ou ocultar o conteúdo
+WRAPS	(forma de wrap) (substantivo) embrulho: algo envolvido com o fim de proteger ou ocultar o conteúdo
+WRATH	(substantivo) ódio: aversão; rancor; desejo de ruína ou desgraça alheia (também: ira)
+WRATHED	(forma de wrath) (substantivo) ódio: aversão; rancor; desejo de ruína ou desgraça alheia (também: ira)
+WRATHFUL	(adjetivo) irado: que sente ira
+WRATHING	(forma de wrath) (substantivo) ódio: aversão; rancor; desejo de ruína ou desgraça alheia (também: ira)
+WRATHS	(forma de wrath) (substantivo) ódio: aversão; rancor; desejo de ruína ou desgraça alheia (também: ira)
+WREATH	(substantivo) guirlanda: arranjo de flores entrelaçadas, em forma de corda ou circular, dispostas de forma ornamental; podem ter diversos tamanhos, sendo comumente utilizadas para adornar passagens, cerimônias de casamento, festividades como o Natal, ou ritos fúnebres (também: coroa, grinalda)\n(verbo) guarnecer de coroas de flores
+WREATHED	(verbo) passado simples e particípio do verbo wreath: coroa, guirlanda, grinalda
+WREATHS	(forma de wreath) (substantivo) guirlanda: arranjo de flores entrelaçadas, em forma de corda ou circular, dispostas de forma ornamental;...
+WRECK	(substantivo) choque: colisão
+WRECKED	(forma de wreck) (substantivo) choque: colisão
+WRECKING	(forma de wreck) (substantivo) choque: colisão
+WRECKINGS	(forma de wreck) (substantivo) choque: colisão
+WRECKS	(forma de wreck) (substantivo) choque: colisão
+WREN	(substantivo) wren se traduz como ⟪carriça⟫, ⟪uirapuru⟫
+WRENS	(forma de wren) (substantivo) wren se traduz como ⟪carriça⟫, ⟪uirapuru⟫
+WRESTLING	(substantivo) desporto em que duas pessoas lutam desarmadas\n(verbo) gerúndio do verbo "to wrestle"
+WRING	(verbo) espremer: apertar com força; comprimir
+WRINGED	(forma de wring) (verbo) espremer: apertar com força; comprimir
+WRINGING	(forma de wring) (verbo) espremer: apertar com força; comprimir
+WRINGS	(forma de wring) (verbo) espremer: apertar com força; comprimir
+WRINKLE	(substantivo) wrinkle se traduz como ⟪ruga⟫, ⟪imperfeição|IMPERFEIÇAO⟫\n(verbo) wrinkle se traduz como ⟪enrugar⟫
+WRINKLED	(adjetivo) wrinkled se traduz como ⟪rugoso⟫
+WRINKLES	(forma de wrinkle) (substantivo) wrinkle se traduz como ⟪ruga⟫, ⟪imperfeição|IMPERFEIÇAO⟫
+WRINKLING	(forma de wrinkle) (substantivo) wrinkle se traduz como ⟪ruga⟫, ⟪imperfeição|IMPERFEIÇAO⟫
+WRIST	(substantivo) punho: a parte proximal da mão que se articula com o antebraço (também: pulso)
+WRISTLET	(substantivo) pulseira: objeto de adorno que se usa em volta do pulso (também: bracelete)
+WRISTLETS	(forma de wristlet) (substantivo) pulseira: objeto de adorno que se usa em volta do pulso (também: bracelete)
+WRISTS	(forma de wrist) (substantivo) punho: a parte proximal da mão que se articula com o antebraço (também: pulso)
+WRIT	(substantivo) mandado: ordem judicial
+WRITE	(verbo) escrever: representar por meio de caracteres gráficos
+WRITER	(substantivo) escritor: autor de obras literárias ou científicas
+WRITERLY	(forma de writer) (substantivo) escritor: autor de obras literárias ou científicas
+WRITERS	(forma de writer) (substantivo) escritor: autor de obras literárias ou científicas
+WRITES	(verbo) 3ª pessoa do singular do verbo write: escrever
+WRITHE	(verbo) torcer: entortar
+WRITHED	(forma de writhe) (verbo) torcer: entortar
+WRITHER	(forma de writhe) (verbo) torcer: entortar
+WRITHES	(forma de writhe) (verbo) torcer: entortar
+WRITHING	(substantivo) contorção: posição forçada, desagradável, incômoda\n(verbo) flexão do verbo "to writhe": torcer
+WRITING	(substantivo) (incontável) grafismo de símbolos, como as letras, que expressam algum significado\n(verbo) gerúndio do verbo (to) write
+WRITS	(forma de writ) (substantivo) mandado: ordem judicial
+WRITTEN	(verbo) particípio do verbo write: escrever
+WRONG	(adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫\n(advérbio) wrong se traduz como ⟪incorretamente⟫
+WRONGED	(forma de wrong) (adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫
+WRONGER	(forma de wrong) (adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫
+WRONGERS	(forma de wrong) (adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫
+WRONGEST	(forma de wrong) (adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫
+WRONGING	(forma de wrong) (adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫
+WRONGS	(forma de wrong) (adjetivo) wrong se traduz como ⟪errado⟫, ⟪incorreto⟫
+WROTE	(verbo) passado simples do verbo write: escrever
+WROUGHT	(adjetivo) trabalhado: feito de forma cuidadosa, feito com esmero, feito com arte, feito com capricho (também: trabalhados, trabalhadas)
+WRUNG	(forma de wring) (verbo) espremer: apertar com força; comprimir
+WRYNECK	(substantivo) torcicolo, nome comum a duas espécies de picapau (Jynx torquilla e Jynx ruficollis)
+WRYNECKS	(forma de wryneck) (substantivo) torcicolo, nome comum a duas espécies de picapau (Jynx torquilla e Jynx ruficollis)
+WUSS	(adjetivo) cagarola: indivíduo medroso, covarde, acovardado\n(substantivo) cagarola: indivíduo medroso, covarde, acovardado
+WUSSES	(forma de wuss) (adjetivo) cagarola: indivíduo medroso, covarde, acovardado

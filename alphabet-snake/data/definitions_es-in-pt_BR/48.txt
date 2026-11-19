@@ -1,0 +1,1736 @@
+HABA	(substantivo) fava: planta da família das leguminosas cujas sementes são usadas na alimentação
+HABANERA	(substantivo) habanera: estilo musical criado em Havana, Cuba
+HABANO	(adjetivo) havano: havanês, relativo a Havana (também: havana)\n(substantivo) havano: havanês, relativo a Havana (também: havana)
+HABANOS	(forma de habano) (adjetivo) havano: havanês, relativo a Havana (também: havana)
+HABAS	(forma de haba) (substantivo) fava: planta da família das leguminosas cujas sementes são usadas na alimentação
+HABEIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABEMUS	(verbo) contemplar: olhar, observar, atenta ou embevecidamente
+HABER	(verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABERES	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABERIO	(substantivo) gado: conjunto de animais (bois, carneiros, cabritos, cavalos etc.) criados para diversos fins (também: criação)
+HABIA	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABIAIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABIAMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABIAS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABICHUELA	(substantivo) feijão: nome vulgar de plantas volúveis da família das leguminosas também chamadas de feijoeiro
+HABICHUELAS	(forma de habichuela) (substantivo) feijão: nome vulgar de plantas volúveis da família das leguminosas também chamadas de feijoeiro
+HABIL	(adjetivo) hábil: que sabe executar, que faz bem (também: proficiente)
+HABILES	(forma de habil) (adjetivo) hábil: que sabe executar, que faz bem (também: proficiente)
+HABILIDAD	(substantivo) habilidade: capacidade; competência
+HABILIDADES	(forma de habilidad) (substantivo) habilidade: capacidade; competência
+HABILIDOSA	(forma de habilidoso) (adjetivo) hábil: que sabe executar, que faz bem (também: habilidoso)
+HABILIDOSAMENTE	(advérbio) habilidosamente: de modo habilidoso
+HABILIDOSAS	(forma de habilidoso) (adjetivo) hábil: que sabe executar, que faz bem (também: habilidoso)
+HABILIDOSO	(adjetivo) hábil: que sabe executar, que faz bem (também: habilidoso)
+HABILIDOSOS	(forma de habilidoso) (adjetivo) hábil: que sabe executar, que faz bem (também: habilidoso)
+HABILISIMAMENTE	(advérbio) habilisimamente se traduz como habilissimamente
+HABILITA	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITACION	(substantivo) autorização: ação ou efeito de autorizar
+HABILITACIONES	(forma de habilitacion) (substantivo) autorização: ação ou efeito de autorizar
+HABILITADA	(forma de habilitado) (substantivo) deputado: membro eleito para integrar um corpo legislativo
+HABILITADAS	(forma de habilitado) (substantivo) deputado: membro eleito para integrar um corpo legislativo
+HABILITADO	(substantivo) deputado: membro eleito para integrar um corpo legislativo
+HABILITADOS	(forma de habilitado) (substantivo) deputado: membro eleito para integrar um corpo legislativo
+HABILITAN	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITAR	(verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITARIA	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITARON	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITARSE	(verbo) habilitar: tornar-se apto ou capaz para certo fim (também: possibilitar)
+HABILITE	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITEN	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILITO	(forma de habilitar) (verbo) habilitar: tornar-se apto ou capaz para certo fim
+HABILMENTE	(advérbio) proficientemente: de modo proficiente
+HABILOSO	(adjetivo) hábil: que sabe executar, que faz bem
+HABITA	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITABA	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITABAN	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITABLE	(adjetivo) habitável: que se pode habitar; próprio para habitação
+HABITABLES	(forma de habitable) (adjetivo) habitável: que se pode habitar; próprio para habitação
+HABITACION	(substantivo) quarto de dormir; cada uma das peças de uma casa
+HABITACIONES	(forma de habitacion) (substantivo) quarto de dormir; cada uma das peças de uma casa
+HABITACULO	(substantivo) interior: região de um país ou estado fora da área da capital (nesse sentido, em oposição a litoral)
+HABITACULOS	(forma de habitaculo) (substantivo) interior: região de um país ou estado fora da área da capital (nesse sentido, em oposição a litoral)
+HABITAD	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITAIS	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITAMOS	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITAN	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITANTE	(adjetivo) habitante: que habita, reside ou vive em determinado lugar
+HABITANTES	(forma de habitante) (adjetivo) habitante: que habita, reside ou vive em determinado lugar
+HABITAR	(verbo) habitar: residir ou viver em
+HABITARA	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITARAN	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITARAS	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITARE	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITARON	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITAS	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITAT	(substantivo) hábitat: lugar de vida de um ser vivo
+HABITATS	(forma de habitat) (substantivo) hábitat: lugar de vida de um ser vivo
+HABITE	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITEN	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITES	(forma de habitar) (verbo) habitar: residir ou viver em
+HABITO	(substantivo) habito se traduz como hábito^
+HABITOS	(forma de habito) (substantivo) habito se traduz como hábito^
+HABITUA	(forma de habituar) (verbo) habituar: fazer tomar o hábito de
+HABITUACION	(substantivo) habituacion se traduz como habituação
+HABITUAL	(adjetivo) habitual: que é ou se faz por hábito; usual; costumado:
+HABITUALES	(forma de habitual) (adjetivo) habitual: que é ou se faz por hábito; usual; costumado:
+HABITUALMENTE	(advérbio) habitualmente: de modo habitual
+HABITUAMOS	(forma de habituar) (verbo) habituar: fazer tomar o hábito de
+HABITUAR	(verbo) habituar: fazer tomar o hábito de
+HABITUARA	(forma de habituar) (verbo) habituar: fazer tomar o hábito de
+HABITUARE	(forma de habituar) (verbo) habituar: fazer tomar o hábito de
+HABITUARSE	(verbo) habituar: fazer tomar o hábito de
+HABITUAS	(forma de habituar) (verbo) habituar: fazer tomar o hábito de
+HABITUES	(forma de habituar) (verbo) habituar: fazer tomar o hábito de
+HABLA	(substantivo) discurso: falação
+HABLABA	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLABAIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLABAMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLABAN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLABAS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAD	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLADA	(forma de hablado) (verbo) particípio passado de hablar: falar
+HABLADAS	(forma de hablado) (verbo) particípio passado de hablar: falar
+HABLADO	(verbo) particípio passado de hablar: falar
+HABLADOR	(adjetivo) tagarela: diz-se de pessoa que fala muito
+HABLADORA	(forma de hablador) (adjetivo) tagarela: diz-se de pessoa que fala muito
+HABLADORAS	(forma de hablador) (adjetivo) tagarela: diz-se de pessoa que fala muito
+HABLADORES	(forma de hablador) (adjetivo) tagarela: diz-se de pessoa que fala muito
+HABLADOS	(forma de hablado) (verbo) particípio passado de hablar: falar
+HABLADURIA	(substantivo) boato: notícia falsa, infundada, balela (também: fofoca, rumor)
+HABLADURIAS	(substantivo) boato: notícia falsa, infundada, balela (também: rumor)
+HABLAIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLANTE	(substantivo) locutor: pessoa que narra algum tipo de evento (também: orador)
+HABLANTES	(forma de hablante) (substantivo) locutor: pessoa que narra algum tipo de evento (também: orador)
+HABLANTINOSO	(adjetivo) tagarela: pessoa que fala demasiado (também: loquaz)
+HABLAR	(verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARA	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARAIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARAMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARAN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARAS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARE	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAREIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAREMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAREN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARES	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARIA	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARIAIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARIAMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARIAN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARIAS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLARON	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLAS	(forma de habla) (substantivo) discurso: falação
+HABLASE	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLASEIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLASEMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLASEN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLASES	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLASTE	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLASTEIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLE	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLEIS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLEMOS	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLEN	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLES	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABLILLA	(substantivo) rumor: murmúrio (também: fofoca)
+HABLO	(forma de hablar) (verbo) falar: ter a capacidade de se expressar em um idioma:
+HABRA	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRAN	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRAS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRE	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABREIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABREMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRIA	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRIAIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRIAMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRIAN	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HABRIAS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HACE	(forma de hacer) (verbo) fazer: executar uma ação
+HACED	(forma de hacer) (verbo) fazer: executar uma ação
+HACEDERO	(adjetivo) praticável: aquilo que pode ser feito, praticado, realizado (também: factível, realizável)
+HACEIS	(forma de hacer) (verbo) fazer: executar uma ação
+HACELOTODO	(substantivo) hacelotodo se traduz como faz-tudo
+HACEMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HACEN	(forma de hacer) (verbo) fazer: executar uma ação
+HACENDADA	(forma de hacendado) (substantivo) fazendeiro: dono de fazenda
+HACENDADO	(substantivo) fazendeiro: dono de fazenda
+HACENDADOS	(forma de hacendado) (substantivo) fazendeiro: dono de fazenda
+HACENDISTA	(substantivo) economista: pessoa graduada em economia ou dedicada a essa área
+HACER	(verbo) fazer: executar uma ação
+HACERA	(substantivo) calçada: parte da rua destinada aos pedestres (também: passeio)
+HACERES	(forma de hacer) (verbo) fazer: executar uma ação
+HACES	(forma de hacer) (verbo) fazer: executar uma ação
+HACHA	(substantivo) machado: ferramenta cortante composta de um cabo (usualmente de madeira) e uma cabeça (usualmente de ferro) com gumes de um ou dois lados
+HACHAR	(verbo) machadar: golpear com machado
+HACHAS	(forma de hacha) (substantivo) machado: ferramenta cortante composta de um cabo (usualmente de madeira) e uma cabeça (usualmente de...
+HACHAZO	(substantivo) indisposição: pequena doença; mal-estar (também: ressaca)
+HACHAZOS	(forma de hachazo) (substantivo) indisposição: pequena doença; mal-estar (também: ressaca)
+HACHE	(substantivo) agá: nome da oitava letra do alfabeto latino, representada pelos símbolos "h", "H"
+HACHERO	(substantivo) arandela: vaso em formato de aro que se põe ao redor da planta, cheio de água, impedindo o acesso de formigas
+HACHEROS	(forma de hachero) (substantivo) arandela: vaso em formato de aro que se põe ao redor da planta, cheio de água, impedindo o acesso de...
+HACHES	(forma de hachar) (verbo) machadar: golpear com machado
+HACHIS	(substantivo) haxixe: preparado resinoso com propriedades estupefacientes feito a partir da Cannabis
+HACIA	(preposição) de: estabelece uma ligação entre duas palavras, (geralmente uma relação de subordinação), podendo expressar (também: até)
+HACIAIS	(forma de hacer) (verbo) fazer: executar uma ação
+HACIAMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HACIAN	(forma de hacer) (verbo) fazer: executar uma ação
+HACIAS	(forma de hacer) (verbo) fazer: executar uma ação
+HACIENDA	(substantivo) fazenda: grande propriedade rural
+HACIENDO	(verbo) gerúndio do verbo hacer: fazer
+HACINA	(substantivo) pilha: montão de coisas umas sobre as outras
+HACINADA	(forma de hacinado) (verbo) particípio do verbo hacinar: dispor os feixes em medas, emedar
+HACINADAS	(forma de hacinado) (verbo) particípio do verbo hacinar: dispor os feixes em medas, emedar
+HACINADO	(verbo) particípio do verbo hacinar: dispor os feixes em medas, emedar
+HACINADOS	(forma de hacinado) (verbo) particípio do verbo hacinar: dispor os feixes em medas, emedar
+HACINAR	(verbo) dispor os feixes em medas, emedar
+HACKEA	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEABA	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEAMOS	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEAN	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEAR	(verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também: invadir)
+HACKEARA	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEARAS	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEARE	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEARIA	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEARON	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEAS	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEASTE	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEE	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEEMOS	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEEN	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEES	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HACKEO	(forma de hackear) (verbo) hackear: acessar digitalmente sem permissão por meio técnico não convencional um sistema informático (também:...
+HADA	(substantivo) fada: entidade imaginária feminina e voadora, com poderes mágicos
+HADES	(substantivo) hades: inferno, mundo inferior, sub-mundo; mansão do sofrimento
+HADIZ	(substantivo) hádice: relatos escritos de algo dito ou feito por Muhammad ou seus companheiros que não se encontra no Alcorão (também: hadith)
+HADO	(substantivo) destino: fatalidade; futuro, fado
+HADOS	(forma de hado) (substantivo) destino: fatalidade; futuro, fado
+HAFNIO	(substantivo) háfnio: elemento químico de símbolo Hf, possui o número atômico 72 e massa atômica relativa 178,49 u; é um metal de transição, sólido na temperatura ambiente e de cor cinza prateado; encontrado em todos os minerais de zircônio, porém, em muito menor quantidade; é utilizado na produção de lâmpadas...
+HAGA	(forma de hacer) (verbo) fazer: executar uma ação
+HAGAIS	(forma de hacer) (verbo) fazer: executar uma ação
+HAGAMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HAGAN	(forma de hacer) (verbo) fazer: executar uma ação
+HAGAS	(forma de hacer) (verbo) fazer: executar uma ação
+HAGO	(forma de hacer) (verbo) fazer: executar uma ação
+HAIGA	(substantivo) haiga se traduz como ⟪automóvel|AUTOMOVEL⟫
+HAIKU	(substantivo) haicai: poema japonês de três linhas, definido por sílabas, onde há um padrão 5-7-5 (também: haiku)
+HAITIANA	(forma de haitiano) (adjetivo) haitiano: língua falada no Haiti
+HAITIANAS	(forma de haitiano) (adjetivo) haitiano: língua falada no Haiti
+HAITIANO	(adjetivo) haitiano: língua falada no Haiti\n(substantivo) haitiano: língua falada no Haiti
+HAITIANOS	(forma de haitiano) (adjetivo) haitiano: língua falada no Haiti
+HALABA	(forma de halar) (verbo) puxar: esticar
+HALAD	(forma de halar) (verbo) puxar: esticar
+HALAGA	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGABA	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGABAN	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGAIS	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGAMOS	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGAN	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGAR	(verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGARA	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGARIA	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGAS	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGASTE	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGO	(substantivo) gabação: ação ou resultado de gabar (também: elogio)
+HALAGOS	(forma de halago) (substantivo) gabação: ação ou resultado de gabar (também: elogio)
+HALAGUE	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGUEN	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGUES	(forma de halagar) (verbo) gabar: vangloriar-se; blasonar; mostra-se orgulhoso de si mesmo em demasia (também: elogiar)
+HALAGUEÑA	(forma de halagueño) (adjetivo) promissor: que traz coisas boas; auspicioso, próspero (também: prometedor, otimista)
+HALAGUEÑAMENTE	(advérbio) encantadoramente: de forma encantadora (também: charmosamente)
+HALAGUEÑAS	(forma de halagueño) (adjetivo) promissor: que traz coisas boas; auspicioso, próspero (também: prometedor, otimista)
+HALAGUEÑO	(adjetivo) promissor: que traz coisas boas; auspicioso, próspero (também: prometedor, otimista)
+HALAGUEÑOS	(forma de halagueño) (adjetivo) promissor: que traz coisas boas; auspicioso, próspero (também: prometedor, otimista)
+HALAMOS	(forma de halar) (verbo) puxar: esticar
+HALAN	(forma de halar) (verbo) puxar: esticar
+HALAR	(verbo) puxar: esticar
+HALARE	(forma de halar) (verbo) puxar: esticar
+HALAREMOS	(forma de halar) (verbo) puxar: esticar
+HALARON	(forma de halar) (verbo) puxar: esticar
+HALAS	(forma de halar) (verbo) puxar: esticar
+HALASTE	(forma de halar) (verbo) puxar: esticar
+HALCON	(substantivo) falcão: ave de rapina dotada de bico adunco e forte
+HALCONERO	(substantivo) halconero se traduz como ⟪falcoeiro⟫
+HALCONEROS	(forma de halconero) (substantivo) halconero se traduz como ⟪falcoeiro⟫
+HALCONES	(forma de halcon) (substantivo) falcão: ave de rapina dotada de bico adunco e forte
+HALDA	(substantivo) saia: peça de vestuário feminino que fica da cintura para baixo, no geral, até ao joelho
+HALE	(forma de halar) (verbo) puxar: esticar
+HALEMOS	(forma de halar) (verbo) puxar: esticar
+HALEN	(forma de halar) (verbo) puxar: esticar
+HALES	(forma de halar) (verbo) puxar: esticar
+HALITA	(substantivo) halita se traduz como halita
+HALITO	(substantivo) halito se traduz como ⟪fôlego|FOLEGO⟫
+HALITOSIS	(substantivo) halitose: mau hálito
+HALLA	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLABA	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLABAMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLABAN	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLABAS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLACA	(substantivo) carne: tecido muscular do homem e dos animais (também: galinha, cagarola)
+HALLAIS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAN	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAR	(verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARA	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARAMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARAN	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARAS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARE	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAREIS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAREMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARIA	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARIAMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARIAN	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARIAS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLARON	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLASE	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLASEMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLASTE	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLASTEIS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLAZGO	(substantivo) descobrimento: ato ou efeito de descobrir
+HALLAZGOS	(forma de hallazgo) (substantivo) descobrimento: ato ou efeito de descobrir
+HALLE	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLEIS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLEMOS	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLEN	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLES	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HALLO	(forma de hallar) (verbo) achar: encontrar (procurando ou não) (também: encontrar)
+HAMACA	(substantivo) rede: objeto feito de pano, onde cada extremidade é pendurada numa parede, para se deitar
+HAMACAR	(verbo) balançar: agitar; equilibrar; compensar; contrapesar (também: embalar)
+HAMACAS	(substantivo) plural de hamaca: rede
+HAMADRIADA	(substantivo) hamadríade: ninfa dos bosques que nascia e morria como uma árvore
+HAMBRE	(substantivo) fome: necessidade de comer ou grande apetite; sofreguidão
+HAMBREAR	(verbo) hambrear se traduz como morrer de fome
+HAMBRES	(forma de hambre) (substantivo) fome: necessidade de comer ou grande apetite; sofreguidão
+HAMBRIENTA	(forma de hambriento) (substantivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HAMBRIENTAS	(forma de hambriento) (substantivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HAMBRIENTO	(substantivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HAMBRIENTOS	(forma de hambriento) (substantivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HAMBRUNA	(substantivo) surto de fome, escasseza de alimentos, fome que afeta a grande parte de uma população ou a uma região
+HAMBRUNAS	(forma de hambruna) (substantivo) surto de fome, escasseza de alimentos, fome que afeta a grande parte de uma população ou a uma região
+HAMBURGUES	(adjetivo) hamburguês: de Hamburgo, cidade da Alemanha\n(substantivo) hamburguês: de Hamburgo, cidade da Alemanha
+HAMBURGUESA	(substantivo) hambúrguer: bife de carne picada de forma arredondada, servido no pão ou no prato
+HAMBURGUESAS	(forma de hamburguesa) (substantivo) hambúrguer: bife de carne picada de forma arredondada, servido no pão ou no prato
+HAMPA	(substantivo) hampa se traduz como ⟪submundo⟫
+HAMPON	(substantivo) capanga: valentão assalariado, guarda-costas (também: bandido, facínora)
+HAMPONES	(forma de hampon) (substantivo) capanga: valentão assalariado, guarda-costas (também: bandido, facínora)
+HAMSTER	(substantivo) hâmster: pequeno mamífero roedor de cauda curta, com bolsas nas bochechas que usa para acumular comida
+HAN	(verbo) flexão do verbo haber: (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HANDBALL	(substantivo) andebol: desporto de equipe de sete elementos onde a bola se joga com as mãos (também: handebol, bola de andebol)
+HANGAR	(substantivo) hangar: abrigo alpendrado ou barracão para aviões, mercadorias, etc.
+HANGUEAR	(verbo) pender: (diz-se de coisas) estar suspendido ou inclinado (também: pendurar)
+HAPLOLOGIA	(substantivo) haplologia: mudança linguística em uma palavra que consiste na supressão de uma de duas sílabas vizinhas iguais ou semelhantes
+HAPTICO	(adjetivo) háptico: relativo ao sentido do tato ou reação ao toque
+HARA	(forma de hacer) (verbo) fazer: executar uma ação
+HARAGAN	(adjetivo) haragan se traduz como armaceiro\n(substantivo) haragan se traduz como armaceiro
+HARAGANEAR	(verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou espiralado
+HARAN	(forma de hacer) (verbo) fazer: executar uma ação
+HARAPIENTA	(forma de harapiento) (adjetivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HARAPIENTAS	(forma de harapiento) (adjetivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HARAPIENTO	(adjetivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HARAPIENTOS	(forma de harapiento) (adjetivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HARAPO	(substantivo) trapo: pedaço de pano velho ou usado (também: andrajo)
+HARAPOS	(forma de harapo) (substantivo) trapo: pedaço de pano velho ou usado (também: andrajo)
+HARAPOSO	(adjetivo) maltrapilho: o indivíduo mal vestido, em andrajos
+HARAS	(forma de hacer) (verbo) fazer: executar uma ação
+HARDWARE	(substantivo) hardware se traduz como hardware
+HARE	(forma de hacer) (verbo) fazer: executar uma ação
+HAREIS	(forma de hacer) (verbo) fazer: executar uma ação
+HAREMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HARIA	(forma de hacer) (verbo) fazer: executar uma ação
+HARIAIS	(forma de hacer) (verbo) fazer: executar uma ação
+HARIAMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HARIAN	(forma de hacer) (verbo) fazer: executar uma ação
+HARIAS	(forma de hacer) (verbo) fazer: executar uma ação
+HARINA	(substantivo) farinha: cereal moído em partículas finas, usado para a confecção de pães, bolos, tortas, etc
+HARINAS	(forma de harina) (substantivo) farinha: cereal moído em partículas finas, usado para a confecção de pães, bolos, tortas, etc
+HARINEAR	(verbo) borrifar: cair chuva minúscula (também: garoar)
+HARNEAR	(verbo) discernir: separar, distinguir, discriminar (também: examinar minuciosamente)
+HARPIA	(substantivo) harpia: monstro mitológico da antiga Grécia, parte mulher, parte abutre
+HARPIAS	(forma de harpia) (substantivo) harpia: monstro mitológico da antiga Grécia, parte mulher, parte abutre
+HARRAPO	(substantivo) andrajo: vestimenta velha e rota
+HARTA	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTABA	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTABAN	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTAD	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTAMENTE	(advérbio) realmente: de modo real
+HARTAMOS	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTAN	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTAR	(verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARA	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARAN	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARAS	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARE	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARIA	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARIAS	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTARON	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTAS	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTASTE	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTAZGO	(substantivo) recheio: aquilo que enche ou preenche algo
+HARTE	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTEN	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTES	(forma de hartar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar (também: cavar)
+HARTO	(adjetivo) harto se traduz como ⟪cansado⟫\n(advérbio) extremamente: excessivamente (também: sumamente, altissimamente)
+HARTOS	(forma de harto) (adjetivo) harto se traduz como ⟪cansado⟫
+HASIO	(substantivo) hássio: elemento químico de símbolo Hs, possui o número atômico 108 e massa atômica relativa 269 u; é um metal de transição, radioativo e, provavelmente, branco ou cinza prateado; produzido pelo bombardeamento do ²⁰⁸Pb por íons de ⁵⁸Fe; não possui nenhuma aplicação prática conhecida
+HASTA	(advérbio) hasta se traduz como ⟪até|ATE⟫\n(conjunção) hasta se traduz como ⟪contudo⟫
+HASTIA	(forma de hastiar) (verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar
+HASTIADA	(forma de hastiado) (adjetivo) cansado: enfastiado
+HASTIADAS	(forma de hastiado) (adjetivo) cansado: enfastiado
+HASTIADO	(adjetivo) cansado: enfastiado
+HASTIADOS	(forma de hastiado) (adjetivo) cansado: enfastiado
+HASTIAR	(verbo) entediar: causar ou sentir tédio ou desprazer; aborrecer, enfadar, enjoar
+HASTIO	(substantivo) tédio: desgosto profundo, que faz que se olhe com repugnância as pessoas, as coisas ou os fatos (também: canseira)
+HASTIOSO	(adjetivo) irritante: diz-se de substância que irrita
+HATAJO	(substantivo) bando: grupo de pessoas ou de aves (também: rebanho, congregação)
+HATO	(substantivo) fato: traje formal, constituído por blazer e calças ou saia (terno)
+HAUSA	(substantivo) hauçá: indivíduo do povo hauçá (também: hausa, haúça)\n(adjetivo) hauçá: indivíduo do povo hauçá (também: haúça, haussá)
+HAWAIANAS	(forma de hawaiano) (adjetivo) havaiano: idioma nativo do Havaí
+HAWAIANO	(adjetivo) havaiano: idioma nativo do Havaí\n(substantivo) havaiano: idioma nativo do Havaí
+HAWAIANOS	(forma de hawaiano) (adjetivo) havaiano: idioma nativo do Havaí
+HAY	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HAYA	(substantivo) faia: árvore alta e ramosa, geralmente da espécie Fagus sylvatica, e também o álamo ou choupo Populus nigra
+HAYAIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HAYAMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HAYAS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HAYEDO	(substantivo) faial: lugar abrupto, despenhadeiro
+HAYUCO	(substantivo) fruto da faia
+HAZ	(substantivo) tropa de exército ordenada em unidades\n(verbo) segunda pessoa do singular (tú) do imperativo afirmativo do verbo hacer; faz: face
+HAZAÑA	(substantivo) ato: algo que foi feito (também: ação, feito)
+HAZAÑAS	(forma de hazaña) (substantivo) ato: algo que foi feito (também: ação, feito)
+HAZAÑOSO	(adjetivo) heroico: próprio de herói
+HEBDOMADA	(substantivo) semana: período de sete dias, com um dia de feriado de cunho religioso: sábado para os judeus, domingo para os cristãos e sexta-feira para os muçulmanos
+HEBDOMADARIO	(substantivo) hebdomadário: periódico que circula semanalmente
+HEBILLA	(substantivo) fivela: peça metálica com fuzilhão em que se prende uma correia ou fita
+HEBILLAS	(forma de hebilla) (substantivo) fivela: peça metálica com fuzilhão em que se prende uma correia ou fita
+HEBRA	(substantivo) fio: nos microblogues, conjunto de mensagens pequenas agrupadas de forma a formar um texto maior, devido à limitação de caracteres desses sites (também: praia, filamento)
+HEBRAICA	(forma de hebraico) (adjetivo) hebraico: relacionado ao idioma hebraico
+HEBRAICO	(adjetivo) hebraico: relacionado ao idioma hebraico
+HEBRAS	(forma de hebra) (substantivo) fio: nos microblogues, conjunto de mensagens pequenas agrupadas de forma a formar um texto maior, devido...
+HEBREA	(forma de hebreo) (adjetivo) hebraico: relativo aos hebreus
+HEBREAS	(forma de hebreo) (adjetivo) hebraico: relativo aos hebreus
+HEBREO	(adjetivo) hebraico: relativo aos hebreus\n(substantivo) hebraico: relativo aos hebreus
+HEBREOS	(forma de hebreo) (adjetivo) hebraico: relativo aos hebreus
+HECATOMBE	(substantivo) hecatombe: sacrifício de muitas pessoas, carnificina humana
+HECES	(substantivo) fezes: substância resultante do processo de digestão que não foi aproveitada pelo organismo; excremento
+HECHA	(forma de hecho) (substantivo) feito: contribuição importante de uma ou mais pessoas
+HECHAS	(forma de hecho) (substantivo) feito: contribuição importante de uma ou mais pessoas
+HECHICE	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHICERA	(substantivo) bruxa: mulher que faz bruxarias; feiticeira; maga; mágica; vidente: (também: estria, estrige)
+HECHICERIA	(substantivo) feitiço: amuleto; encantamento; benzedura (também: bruxaria)
+HECHICERIAS	(forma de hechiceria) (substantivo) feitiço: amuleto; encantamento; benzedura (também: bruxaria)
+HECHICERO	(substantivo) feiticeiro: aquele que faz feitiços; bruxo
+HECHICEROS	(forma de hechicero) (substantivo) feiticeiro: aquele que faz feitiços; bruxo
+HECHICES	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZA	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZABA	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZAN	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZAR	(verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZARA	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZARE	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZARIA	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZARON	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZAS	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZASTE	(forma de hechizar) (verbo) enfeitiçar: fazer mal a, por meio de artes diabólicas
+HECHIZO	(adjetivo) artificial: feito por arte ou indústria (também: falso)\n(substantivo) encantamento: palavra, fórmula ou frase a que se atribui o poder mágico de mudar o comportamento de alguém ou causar algum efeito físico no mundo
+HECHIZOS	(forma de hechizo) (adjetivo) artificial: feito por arte ou indústria (também: falso)
+HECHO	(substantivo) feito: contribuição importante de uma ou mais pessoas\n(verbo) participio irregular de hacer: fazer
+HECHOS	(forma de hecho) (substantivo) feito: contribuição importante de uma ou mais pessoas
+HECHURA	(substantivo) aparecimento: ato ou efeito de aparecer (também: aparência, comparecimento)
+HECHURAS	(forma de hechura) (substantivo) aparecimento: ato ou efeito de aparecer (também: aparência, comparecimento)
+HECTAREA	(substantivo) hectare: medida agrária equivalente a cem ares ou ao hectômetro quadrado, que é igual a dez mil metros quadrados
+HECTAREAS	(forma de hectarea) (substantivo) hectare: medida agrária equivalente a cem ares ou ao hectômetro quadrado, que é igual a dez mil metros...
+HECTOLITRO	(substantivo) hectolitro: medida de capacidade de cem litros
+HECTOLITROS	(forma de hectolitro) (substantivo) hectolitro: medida de capacidade de cem litros
+HECTOMETRO	(substantivo) hectômetro: cem metros
+HEDER	(verbo) feder: cheirar mal
+HEDIA	(forma de heder) (verbo) feder: cheirar mal
+HEDIAN	(forma de heder) (verbo) feder: cheirar mal
+HEDIONDA	(adjetivo) feminino de hediondo: fétido, fedorento
+HEDIONDAS	(adjetivo) feminino plural de hediondo: fétido, fedorento
+HEDIONDEZ	(substantivo) fedor: mau cheiro
+HEDIONDO	(adjetivo) fétido: que exala cheiro desagradável; fedido (também: fedorento)
+HEDIONDOS	(adjetivo) plural de hediondo: fétido, fedorento
+HEDONISMO	(substantivo) hedonismo: doutrina egoísta que preconiza a valorização do usufruto do prazer imediato, não importa as consequências, mesmo que em detrimento de outrem
+HEDOR	(substantivo) cheiro: odor, aroma (também: fedor)
+HEGELIANA	(adjetivo) feminino de hegeliano: hegeliano\n(substantivo) feminino de hegeliano: hegeliano
+HEGELIANO	(adjetivo) hegeliano: partidário do hegelianismo ou do sistema dele; hegelianista\n(substantivo) hegeliano: partidário do hegelianismo ou do sistema dele; hegelianista
+HEGEMONIA	(substantivo) hegemonia: supremacia de um povo entre outros, pelas suas tradições ou condições de raça, por costumes, cultura, etc
+HEGEMONICAMENTE	(advérbio) hegemonicamente: de forma hegemónica
+HEGIRA	(substantivo) hegira se traduz como hégira
+HELABA	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELABAN	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELADA	(substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos quando eles resfriam-se abaixo do ponto de orvalho e quando o ponto de orvalho é inferior ao ponto de congelamento da água
+HELADAS	(forma de helada) (substantivo) geada: uma cobertura de pequenas partículas de gelo que se formam à noite no solo e nos objetos expostos...
+HELADERA	(substantivo) refrigerador: aparelho, instrumento ou recipiente para refrigerar
+HELADERIA	(substantivo) heladeria se traduz como geladaria
+HELADERIAS	(forma de heladeria) (substantivo) heladeria se traduz como geladaria
+HELADO	(adjetivo) sorvete: alimento gelado à base de leite e sumo de frutas (também: gelado, frio)\n(substantivo) sorvete: alimento gelado à base de leite e sumo de frutas (também: gelado)
+HELADOR	(adjetivo) frio: falta de calor (também: estar com frio, gelado)
+HELADOS	(forma de helado) (adjetivo) sorvete: alimento gelado à base de leite e sumo de frutas (também: gelado, frio)
+HELAMOS	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELAR	(verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARA	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARAN	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARAS	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARE	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELAREMOS	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARIA	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARIAN	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELARON	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELE	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HELECHO	(substantivo) samambaia: feto, planta polipodiácea, pteridófita
+HELECHOS	(forma de helecho) (substantivo) samambaia: feto, planta polipodiácea, pteridófita
+HELENICA	(forma de helenico) (adjetivo) helénico: natural ou relativo à Hélade ou Grécia Antiga.
+HELENICO	(adjetivo) helénico: natural ou relativo à Hélade ou Grécia Antiga.
+HELENIO	(substantivo) helenio se traduz como erva-campeira
+HELENISTICO	(adjetivo) helenístico: que pertence ou diz respeito ao helenismo ou a helenista
+HELICE	(substantivo) hélice: borda exterior do pavilhão auditivo
+HELICES	(forma de helice) (substantivo) hélice: borda exterior do pavilhão auditivo
+HELICOPTERO	(substantivo) helicóptero: classe de engenhos mais pesados que o ar que decolam na vertical e são sustentados no ar por asas ou lâminas rotatórias que giram em eixos verticais por meio de energia fornecida por um motor
+HELICOPTEROS	(forma de helicoptero) (substantivo) helicóptero: classe de engenhos mais pesados que o ar que decolam na vertical e são sustentados no ar por...
+HELIO	(substantivo) hélio: elemento químico de símbolo He, possui o número atômico 2 e massa atômica relativa de 4,002602 u; é o primeiro elemento da classe dos gases nobres; é o segundo elemento mais abundante do universo; é utilizado em mistura com o oxigênio para mergulhos em grandes profundidades, como agente...
+HELIOCENTRICO	(adjetivo) heliocêntrico: que tem por centro o Sol
+HELIOGRAFICO	(adjetivo) heliográfico: relativo à heliografia
+HELIOS	(forma de helio) (substantivo) hélio: elemento químico de símbolo He, possui o número atômico 2 e massa atômica relativa de 4,002602 u;...
+HELIPUERTO	(substantivo) heliporto: aeroporto para helicópteros
+HELIPUERTOS	(forma de helipuerto) (substantivo) heliporto: aeroporto para helicópteros
+HELMINTO	(substantivo) verme: larva de inseto
+HELO	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HEMATIDROSIS	(substantivo) hematidrosis se traduz como hematidrose, hematohidrose
+HEMATIE	(substantivo) hemácia: célula vermelha, presente no sangue, responsável pelo transporte de oxigênio para as células
+HEMATOCITO	(substantivo) eritrócito: célula do sangue dos vertebrados, anucleada no homem e nos demais mamíferos, e que, devido a sua configuração e à presença de hemoglobina, tem como principal função o transporte de oxigênio (também: hemácia)
+HEMATOLOGIA	(substantivo) hematologia: ramo da biologia que estuda o sangue
+HEMATOLOGO	(substantivo) hematologista: especialista em hematologia
+HEMATOMA	(substantivo) mágoa: tristeza
+HEMATOMAS	(forma de hematoma) (substantivo) mágoa: tristeza
+HEMBRA	(substantivo) fêmea: animal biologicamente do sexo feminino
+HEMBRAS	(forma de hembra) (substantivo) fêmea: animal biologicamente do sexo feminino
+HEMBRISMO	(substantivo) femismo: ideologia que prega a supremacia feminina
+HEMBRISTA	(adjetivo) hembrista se traduz como femista
+HEMEROTECA	(substantivo) hemeroteca: local onde são arquivadas (e ficam disponíveis para consulta) as publicações periódicas
+HEMICICLO	(substantivo) hemiciclo: qualquer estrutura semicircular; semicírculo
+HEMICRANEA	(substantivo) enxaqueca: condição clínica configurada por vários graus de dores internas na cabeça
+HEMIELITRO	(substantivo) hemiélitro: designação ao tipo de asa modificada, em alguns insetos como percevejos e cigarras, em que o élitro não é completo, ou seja, não cobre todo o corpo
+HEMIPLEJIA	(substantivo) hemiplegia: paralisia de um dos lados do corpo
+HEMISFERIO	(substantivo) hemisfério: cada uma das metades do globo terrestre separadas pelo equador ou por um meridiano
+HEMISFERIOS	(forma de hemisferio) (substantivo) hemisfério: cada uma das metades do globo terrestre separadas pelo equador ou por um meridiano
+HEMOCROMATOSIS	(substantivo) hemocromatose: doença na qual ocorre depósito de ferro nos tecidos (nomeadamente no fígado, no pâncreas, no coração e na hipófise) em virtude do seu excesso no organismo
+HEMODIALISIS	(substantivo) hemodiálise: processo de filtragem e depuração de substâncias indesejáveis do sangue
+HEMOFILIA	(substantivo) hemofilia: nome genérico de diversas doenças genéticas hereditárias que incapacitam o corpo de controlar sangramentos
+HEMOGLOBINA	(substantivo) hemoglobina: proteína cuja principal função é transportar oxigênio; existe no interior das hemácias, no plasma e em certas plantas
+HEMOLISIS	(substantivo) hemólise: quebra da hemácia liberando sua hemoglobina no plasma sanguíneo
+HEMORRAGIA	(substantivo) hemorragia: perda de sangue
+HEMORRAGIAS	(substantivo) plural de hemorragia: hemorragia
+HEMORROIDE	(substantivo) hemorroidas: formações varicosas nas veias recto-anais (também: hemorroida)
+HEMORROIDES	(substantivo) hemorroides: condição patológica causada por massas dolorosas de veias dilatadas no tecido anal inchado (também: hemorroidas, hemorroida)
+HEMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HEMOSTASIA	(substantivo) hemóstase: interrupção de uma hemorragia
+HENCHIDOR	(substantivo) recheio: aquilo que enche ou preenche algo
+HENCHIR	(verbo) inchar: avolumar
+HENDEDURA	(substantivo) rasgo: seccionamento parcial ou total da superfície de um corpo ou objeto; interrupção abrupta na continuidade daquela superfície (também: falha, fissura)
+HENDEDURAS	(forma de hendedura) (substantivo) rasgo: seccionamento parcial ou total da superfície de um corpo ou objeto; interrupção abrupta na...
+HENDER	(verbo) fender: criar fenda em; rachar, rasgar, separar
+HENDI	(forma de hender) (verbo) fender: criar fenda em; rachar, rasgar, separar
+HENDIDURA	(substantivo) ravina: enxurrada que cai de um lugar alto
+HENDIDURAS	(forma de hendidura) (substantivo) ravina: enxurrada que cai de um lugar alto
+HENEQUEN	(substantivo) henequen se traduz como sisal
+HENO	(substantivo) feno: mistura de plantas ceifadas e secas, geralmente gramíneas e leguminosas, usada como forragem para o gado, mediante a desidratação que retira a água mas mantém o valor nutritivo e permite sua armazenagem por muito tempo sem se estragar
+HENOS	(forma de heno) (substantivo) feno: mistura de plantas ceifadas e secas, geralmente gramíneas e leguminosas, usada como forragem para o...
+HEPATALGIA	(substantivo) hepatalgia: dor nevrálgica do fígado
+HEPATICAS	(forma de hepatico) (adjetivo) hepático: relativo ao fígado
+HEPATICO	(adjetivo) hepático: relativo ao fígado
+HEPATICOS	(forma de hepatico) (adjetivo) hepático: relativo ao fígado
+HEPATITIS	(substantivo) hepatite: inflamação do fígado
+HEPATOMEGALIA	(substantivo) hepatomegalia se traduz como hepatomegalia
+HEPTADECAGONO	(substantivo) heptadecágono: polígono de dezassete/dezessete lados
+HEPTAGONAL	(adjetivo) heptagonal se traduz como heptagonal
+HEPTAGONO	(substantivo) heptágono: polígono de sete lados
+HEPTASILABO	(adjetivo) heptassílabo: que possui sete sílabas
+HERALDICA	(substantivo) heráldica: ciência e a arte de descrever os brasões de armas ou escudos
+HERALDICAS	(forma de heraldico) (adjetivo) heráldico: relativo a brasões
+HERALDICO	(adjetivo) heráldico: relativo a brasões
+HERALDO	(substantivo) arauto: emissário; mensageiro; pregoeiro; núncio
+HERALDOS	(forma de heraldo) (substantivo) arauto: emissário; mensageiro; pregoeiro; núncio
+HERBAZAL	(substantivo) prado: terreno coberto de plantas herbáceas para alimento do gado
+HERBIVORA	(forma de herbivoro) (adjetivo) herbívoro: que se alimenta de ervas ou de vegetais
+HERBIVORO	(adjetivo) herbívoro: que se alimenta de ervas ou de vegetais
+HERBIVOROS	(forma de herbivoro) (adjetivo) herbívoro: que se alimenta de ervas ou de vegetais
+HERBOSO	(adjetivo) herboso se traduz como ervoso
+HERCULANO	(substantivo) músico: aquele que faz da música sua profissão, executando-a e/ou compondo-a (também: jogador, coche)
+HEREDA	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDABA	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDABAN	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDABAS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDABLE	(adjetivo) herdável: que se pode herdar
+HEREDAD	(substantivo) herdade: grande propriedade rústica, normalmente constituída por montados, terra de semeadura e casa de habitação; quinta, granja, fazenda
+HEREDAMOS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDAN	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDAR	(verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARA	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARAN	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARAS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARE	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDAREIS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDAREMOS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARIA	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARIAN	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARIAS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDARON	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDAS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDASE	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDASTE	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDASTEIS	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDE	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDEN	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDERA	(forma de heredero) (substantivo) herdeiro: aquele que herda
+HEREDERAS	(forma de heredero) (substantivo) herdeiro: aquele que herda
+HEREDERO	(substantivo) herdeiro: aquele que herda
+HEREDEROS	(forma de heredero) (substantivo) herdeiro: aquele que herda
+HEREDES	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREDITARIO	(adjetivo) hereditário: diz-se em sentido análogo das doenças que passam dos pais para os filhos
+HEREDO	(forma de heredar) (verbo) herdar: receber, obter ou ter direito a receber em virtude de herança
+HEREJE	(adjetivo) hereje se traduz como ⟪desrespeitoso⟫
+HEREJES	(forma de hereje) (adjetivo) hereje se traduz como ⟪desrespeitoso⟫
+HEREJIA	(substantivo) heresia: crença ou doutrina contrária aos dogmas estabelecidos por uma religião
+HEREJIAS	(forma de herejia) (substantivo) heresia: crença ou doutrina contrária aos dogmas estabelecidos por uma religião
+HERENCIA	(substantivo) herança: patrimônio passado por alguém que faleceu para ser distribuído entre seus sucessores legais (também: sucessão)
+HERENCIAS	(forma de herencia) (substantivo) herança: patrimônio passado por alguém que faleceu para ser distribuído entre seus sucessores legais...
+HERETICA	(forma de heretico) (adjetivo) herético: relativo à heresia
+HERETICAS	(forma de heretico) (adjetivo) herético: relativo à heresia
+HERETICO	(adjetivo) herético: relativo à heresia
+HERETICOS	(forma de heretico) (adjetivo) herético: relativo à heresia
+HERI	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIA	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIAN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIAS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERID	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIDA	(substantivo) ferida: lesão (geralmente aberta) causada por impacto, atrito ou perfuração (também: chaga)
+HERIDAS	(forma de herida) (substantivo) ferida: lesão (geralmente aberta) causada por impacto, atrito ou perfuração (também: chaga)
+HERIDO	(adjetivo) machucado: ferido, dolorido; que sofreu um machucado (também: ferido)
+HERIDOS	(forma de herido) (adjetivo) machucado: ferido, dolorido; que sofreu um machucado (também: ferido)
+HERIMOS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIR	(verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRA	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRAN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRAS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRE	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIREMOS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRIA	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRIAN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIRIAS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERIS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERISTE	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERISTEIS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HERMAFRODITISMO	(substantivo) hermafroditismo se traduz como hermafroditismo
+HERMANA	(substantivo) irmã: aquela que em relação a outrem, possui os dois pais (o mesmo pai e a mesma mãe ao mesmo tempo) em comum
+HERMANAR	(verbo) unir: juntar
+HERMANAS	(forma de hermanar) (verbo) unir: juntar
+HERMANASTRO	(substantivo) hermanastro se traduz como irmão-torto
+HERMANASTROS	(forma de hermanastro) (substantivo) hermanastro se traduz como irmão-torto
+HERMANDAD	(substantivo) fraternidade: união de homens de bem que se tratam por irmãos (também: irmandade)
+HERMANDADES	(forma de hermandad) (substantivo) fraternidade: união de homens de bem que se tratam por irmãos (também: irmandade)
+HERMANO	(substantivo) irmão: aquele que em relação a outrem, possuí os dois pais (o mesmo pai e a mesma mãe ao mesmo tempo) em comum
+HERMANOS	(forma de hermano) (substantivo) irmão: aquele que em relação a outrem, possuí os dois pais (o mesmo pai e a mesma mãe ao mesmo tempo) em...
+HERMENEUTA	(substantivo) hermeneuta: aquele que se especializa ou é versado em hermenêutica
+HERMENEUTICA	(substantivo) hermenêutica: análise do sentido das palavras em um contexto, ou de textos na sua integralidade, tornando-o assim mais compreensível ou, por outro lado, transmitir a visão de quem interpreta acerca de algo que foi dito
+HERMETICA	(forma de hermetico) (adjetivo) hermético: completamente fechado
+HERMETICAMENTE	(advérbio) hermeticamente: de forma hemética
+HERMETICAS	(forma de hermetico) (adjetivo) hermético: completamente fechado
+HERMETICIDAD	(substantivo) hermeticidad se traduz como hermeticidade
+HERMETICO	(adjetivo) hermético: completamente fechado
+HERMETICOS	(forma de hermetico) (adjetivo) hermético: completamente fechado
+HERMETISMO	(substantivo) hermetismo: doutrina filosófica e religiosa baseada nos ensinamentos atribuídos a Hermes Trismegisto
+HERMOSA	(forma de hermoso) (adjetivo) formoso: perfeito
+HERMOSAMENTE	(advérbio) formosamente: de modo formoso
+HERMOSAS	(forma de hermoso) (adjetivo) formoso: perfeito
+HERMOSO	(adjetivo) formoso: perfeito
+HERMOSOS	(forma de hermoso) (adjetivo) formoso: perfeito
+HERMOSURA	(substantivo) beleza: qualidade do que é belo
+HERMOSURAS	(forma de hermosura) (substantivo) beleza: qualidade do que é belo
+HERNIA	(substantivo) hérnia: tumor mole que se forma com a saída de uma víscera para fora da membrana que a reveste através de uma rotura desta
+HEROE	(substantivo) herói: indivíduo notável positivamente por seus feitos e/ou capacidades
+HEROES	(forma de heroe) (substantivo) herói: indivíduo notável positivamente por seus feitos e/ou capacidades
+HEROICA	(adjetivo) forma feminina de heroico: (heroica)
+HEROICAMENTE	(advérbio) heroicamente: de modo heroico
+HEROICAS	(forma de heroico) (adjetivo) heroico: próprio de herói
+HEROICIDAD	(substantivo) heroicidade: característica de herói ou de heroico
+HEROICIDADES	(forma de heroicidad) (substantivo) heroicidade: característica de herói ou de heroico
+HEROICO	(adjetivo) heroico: próprio de herói
+HEROICOS	(forma de heroico) (adjetivo) heroico: próprio de herói
+HEROIFICAR	(verbo) heroificar: elevar à categoria de herói
+HEROINA	(substantivo) heroína: droga opioide natural ou sintética, produzida e derivada do ópio, extraído da cápsula (fruto) de algumas espécies de papoula
+HEROINAS	(forma de heroina) (substantivo) heroína: droga opioide natural ou sintética, produzida e derivada do ópio, extraído da cápsula (fruto) de...
+HEROISMO	(substantivo) heroísmo: qualidade de quem é herói ou daquilo que é heroico
+HEROISMOS	(forma de heroismo) (substantivo) heroísmo: qualidade de quem é herói ou daquilo que é heroico
+HEROIZAR	(verbo) heroificar: exaltar, engrandecer
+HERPES	(substantivo) herpes: afecção vesicular da pele
+HERPETOLOGIA	(substantivo) herpetologia se traduz como ⟪herpetologia⟫
+HERRADURA	(substantivo) ferradura: peça de metal, geralmente em formato de U, que se coloca na pata de cavalgadura
+HERRADURAS	(forma de herradura) (substantivo) ferradura: peça de metal, geralmente em formato de U, que se coloca na pata de cavalgadura
+HERRAJ	(substantivo) carvão: substância de coloração negra e de firme consistência, amplamente utilizada como combustível
+HERRAJE	(substantivo) circuitaria: equipamento utilizado em computação, tais como computadores, impressoras, monitores, escâneres, teclados, mouses, etc. (também: instalação)
+HERRAJES	(forma de herraje) (substantivo) circuitaria: equipamento utilizado em computação, tais como computadores, impressoras, monitores,...
+HERRAMIENTA	(substantivo) ferramenta: objeto usado para facilitar ou tornar possível o trabalho do ser humano (também: instrumento)
+HERRAMIENTAS	(forma de herramienta) (substantivo) ferramenta: objeto usado para facilitar ou tornar possível o trabalho do ser humano (também: instrumento)
+HERRAR	(verbo) ferrar: pôr ferraduras em
+HERRARA	(forma de herrar) (verbo) ferrar: pôr ferraduras em
+HERRE	(forma de herrar) (verbo) ferrar: pôr ferraduras em
+HERRERA	(forma de herrero) (substantivo) ferreiro: profissional cuja atividade é o beneficiamento de metais, confeccionando (forjando) facas,...
+HERRERO	(substantivo) ferreiro: profissional cuja atividade é o beneficiamento de metais, confeccionando (forjando) facas, ferramentas, portões e todos os tipos de objetos que têm por matéria-prima o metal.
+HERREROS	(forma de herrero) (substantivo) ferreiro: profissional cuja atividade é o beneficiamento de metais, confeccionando (forjando) facas,...
+HERRETE	(substantivo) etiqueta: letreiro; rótulo (também: marcador, pega-pega)
+HERRUMBRAR	(verbo) oxidar: provocar ou sofrer oxidação (também: enferrujar)
+HERRUMBRE	(substantivo) ferrugem: processo de deterioração do ferro pela presença de oxigênio e umidade; óxido de ferro
+HERRUMBROSO	(adjetivo) ferrugento: da cor da ferrugem (também: enferrujado)
+HERVI	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIA	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIAMOS	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIAN	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVID	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIDA	(forma de hervido) (adjetivo) fervido: fervoroso
+HERVIDAS	(forma de hervido) (adjetivo) fervido: fervoroso
+HERVIDO	(adjetivo) fervido: fervoroso
+HERVIDOR	(substantivo) chaleira: vaso metálico ou cerâmico, por vezes elétrico, onde se aquece ou ferve água
+HERVIDORES	(forma de hervidor) (substantivo) chaleira: vaso metálico ou cerâmico, por vezes elétrico, onde se aquece ou ferve água
+HERVIDOS	(forma de hervido) (adjetivo) fervido: fervoroso
+HERVIMOS	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIR	(verbo) ferver: estar em ebulição
+HERVIRA	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIRAN	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIRE	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIREMOS	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVIRIA	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVISTE	(forma de hervir) (verbo) ferver: estar em ebulição
+HERVOR	(substantivo) fervura: ato ou efeito de ferver
+HESITACION	(substantivo) hesitação: indecisão, dúvida, vacilação
+HESITAR	(verbo) hesitar: duvidar
+HETERA	(substantivo) puta: garota, guria, menina, puela, rapariga
+HETEROCENTRISMO	(substantivo) heterocentrismo se traduz como heterocentrismo
+HETEROCLITO	(adjetivo) heteroclito se traduz como heteroclítico
+HETEROCROMIA	(substantivo) heterocromia: lista de cores diferentes, incluindo o sistema hexadecimal e o RGB
+HETEROCURIOSO	(adjetivo) heterocurioso se traduz como heterocurioso
+HETERODOXAS	(forma de heterodoxo) (adjetivo) heterodoxo: contrário à ortodoxia
+HETERODOXO	(adjetivo) heterodoxo: contrário à ortodoxia
+HETERODOXOS	(forma de heterodoxo) (adjetivo) heterodoxo: contrário à ortodoxia
+HETEROFLEXIBLE	(adjetivo) heteroflexible se traduz como heteroflexível
+HETEROFOBIA	(substantivo) heterofobia: repulsa, medo ou ódio em relação a heterossexualidade
+HETEROGENEA	(forma de heterogeneo) (adjetivo) heterogéneo: de natureza diferente
+HETEROGENEIDAD	(substantivo) heterogeneidade: qualidade de heterogêneo
+HETEROGENEO	(adjetivo) heterogéneo: de natureza diferente
+HETEROGENEOS	(forma de heterogeneo) (adjetivo) heterogéneo: de natureza diferente
+HETERONACIONALISMO	(substantivo) heteronacionalismo: posição política e cultural que liga a identidade heterossexual e o nacionalismo (a heterossexualidade como componente da pertença e orgulho nacional)
+HETERONIMO	(substantivo) heterónimo: personagem fictícia criada por escritores (como o caso de Fernando Pessoa) cujo objetivo é tentar compreender e propagar diferentes maneiras de ver a realidade exterior/interior, tentando manter distância da visão da realidade ortônima
+HETERONORMATIVIDAD	(substantivo) heteronormatividade: assunção de que heterossexualidade é a norma em uma sociedade
+HETEROPATRIARCADO	(substantivo) heteropatriarcado: sistema social dominado pelo género/gênero masculino e a heterossexualidade
+HETEROPATRIARCAL	(adjetivo) heteropatriarcal se traduz como heteropatriarcal
+HETEROSEMANTICO	(adjetivo) heterossemântico: termo ou expressão que se assemelha com outro de outra língua, mas que tem significado completamente diferente daquele\n(substantivo) heterossemântico: termo ou expressão que se assemelha com outro de outra língua, mas que tem significado completamente diferente daquele
+HETEROSEXISMO	(substantivo) heterossexismo: pensamento segundo o qual todas as pessoas são heterossexuais até prova em contrário
+HETEROSEXUAL	(adjetivo) heterossexual: aquele que sente atração por indivíduos de sexo diferente do dele
+HETEROSEXUALES	(forma de heterosexual) (adjetivo) heterossexual: aquele que sente atração por indivíduos de sexo diferente do dele
+HETEROSEXUALIDAD	(substantivo) heterossexualidade: qualidade ou condição de heterossexual
+HETEROTONICO	(adjetivo) heterotonico se traduz como heterotônico
+HETEROTROFO	(adjetivo) heterotrófico: ser que precisa de outros alimentos para sobreviver
+HETICO	(adjetivo) hetico se traduz como hético
+HEURISTICA	(substantivo) heurística: disciplina que estuda o descobrimento ou a investigação
+HEURISTICAMENTE	(advérbio) heuristicamente: de modo heurístico
+HEURISTICO	(adjetivo) heurístico: que leva à descoberta; que serve para descobrir
+HEURISTICOS	(forma de heuristico) (adjetivo) heurístico: que leva à descoberta; que serve para descobrir
+HEVEA	(substantivo) seringueira: árvore euforbiácea da qual se extrai borracha
+HEXADECAGONO	(substantivo) hexadecágono: polígono de 16 lados
+HEXADECIMAL	(adjetivo) hexadecimal: relativo ou pertencente ao sistema de numeração cuja base é 16
+HEXADECIMALES	(forma de hexadecimal) (adjetivo) hexadecimal: relativo ou pertencente ao sistema de numeração cuja base é 16
+HEXAEDRO	(substantivo) hexaedro: poliedro de seis faces
+HEXAGONAL	(adjetivo) hexagonal: que tem seis lados
+HEXAGONALES	(forma de hexagonal) (adjetivo) hexagonal: que tem seis lados
+HEXAGONO	(substantivo) hexágono: polígono de seis ângulos e seis lados
+HEXAGONOS	(forma de hexagono) (substantivo) hexágono: polígono de seis ângulos e seis lados
+HEXAKOSIOIHEXEKONTAHEXAFOBIA	(substantivo) hexacosioihexecontahexafobia: medo do número 666
+HEXASILABO	(adjetivo) hexassílabo: que possui seis sílabas
+HEZ	(substantivo) sedimento: matérias depositadas
+HEÑIR	(verbo) amassar: infinitivo pessoal da terceira pessoa do singular do verbo amassar
+HIALINO	(adjetivo) hialino: transparente ou translúcido como vidro
+HIATO	(substantivo) hiato: sequência de duas vogais que pertencem a sílabas diferentes
+HIBERNA	(forma de hibernar) (verbo) hibernar: estar em hibernação
+HIBERNABA	(forma de hibernar) (verbo) hibernar: estar em hibernação
+HIBERNACION	(substantivo) hibernação: entorpecimento dos membros de um animal determinado pelo frio ou pelo calor.
+HIBERNAL	(adjetivo) hibernal: invernal,
+HIBERNAN	(forma de hibernar) (verbo) hibernar: estar em hibernação
+HIBERNAR	(verbo) hibernar: estar em hibernação
+HIBERNARA	(forma de hibernar) (verbo) hibernar: estar em hibernação
+HIBERNO	(forma de hibernar) (verbo) hibernar: estar em hibernação
+HIBISCO	(substantivo) hibisco: gênero de plantas malváceas a que pertence a rosa-da-china
+HIBISCOS	(forma de hibisco) (substantivo) hibisco: gênero de plantas malváceas a que pertence a rosa-da-china
+HIBRIDA	(forma de hibrido) (adjetivo) híbrido: diz-se daquilo que resulta de elementos de natureza distinta
+HIBRIDACION	(substantivo) hibridação: produção de híbridos
+HIBRIDAS	(forma de hibrido) (adjetivo) híbrido: diz-se daquilo que resulta de elementos de natureza distinta
+HIBRIDO	(adjetivo) híbrido: diz-se daquilo que resulta de elementos de natureza distinta
+HIBRIDOS	(forma de hibrido) (adjetivo) híbrido: diz-se daquilo que resulta de elementos de natureza distinta
+HIBRIS	(substantivo) hubris: tudo o que passa da medida; descomedimento, desmedida
+HICE	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERA	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERAIS	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERAMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERAN	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERAS	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERE	(forma de hacer) (verbo) fazer: executar uma ação
+HICIEREN	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERES	(forma de hacer) (verbo) fazer: executar uma ação
+HICIERON	(forma de hacer) (verbo) fazer: executar uma ação
+HICIESE	(forma de hacer) (verbo) fazer: executar uma ação
+HICIESEIS	(forma de hacer) (verbo) fazer: executar uma ação
+HICIESEMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HICIESEN	(forma de hacer) (verbo) fazer: executar uma ação
+HICIESES	(forma de hacer) (verbo) fazer: executar uma ação
+HICIMOS	(forma de hacer) (verbo) fazer: executar uma ação
+HICISTE	(forma de hacer) (verbo) fazer: executar uma ação
+HICISTEIS	(forma de hacer) (verbo) fazer: executar uma ação
+HIDALGO	(adjetivo) nobre: pertencente à nobreza\n(substantivo) gentil-homem: indivíduo nascido parte da nobreza (também: cavalheiro, fidalgo)
+HIDALGOS	(forma de hidalgo) (adjetivo) nobre: pertencente à nobreza
+HIDRA	(substantivo) hidra: cnidário hidrozoário de água doce do gênero Hydra, em forma de pólipo tubular com tentáculos ao redor da abertura oral
+HIDRACIDO	(substantivo) hidrácido: ácido que não contém oxigênio em sua composição, como, por exemplo, o ácido clorídrico
+HIDRARGIRIO	(substantivo) mercúrio: elemento químico de símbolo Hg, possui o número atômico 80 e massa atômica relativa 200,59 u; é um metal de transição, branco prateado; encontra-se em estado líquido à temperatura ambiente; é utilizado pela indústria eletro-eletrônica (sensores, baterias e lâmpadas), na agricultura (como fungicida...
+HIDRAS	(forma de hidra) (substantivo) hidra: cnidário hidrozoário de água doce do gênero Hydra, em forma de pólipo tubular com tentáculos ao...
+HIDRATA	(forma de hidratar) (verbo) hidratar: combinar com água
+HIDRATACION	(substantivo) hidratação: ato ou efeito de hidratar
+HIDRATAN	(forma de hidratar) (verbo) hidratar: combinar com água
+HIDRATANTE	(adjetivo) hidratante: creme para hidratar a pele\n(substantivo) hidratante: creme para hidratar a pele
+HIDRATANTES	(forma de hidratante) (adjetivo) hidratante: creme para hidratar a pele
+HIDRATAR	(verbo) hidratar: combinar com água
+HIDRATAS	(forma de hidratar) (verbo) hidratar: combinar com água
+HIDRATE	(forma de hidratar) (verbo) hidratar: combinar com água
+HIDRATES	(forma de hidratar) (verbo) hidratar: combinar com água
+HIDRATO	(substantivo) hidrato: combinação de um óxido com a água
+HIDRATOS	(forma de hidrato) (substantivo) hidrato: combinação de um óxido com a água
+HIDRAULICAS	(forma de hidraulico) (adjetivo) hidráulico: relativo ao movimento de líquidos, em especial a água
+HIDRAULICO	(adjetivo) hidráulico: relativo ao movimento de líquidos, em especial a água
+HIDRAULICOS	(forma de hidraulico) (adjetivo) hidráulico: relativo ao movimento de líquidos, em especial a água
+HIDRICA	(forma de hidrico) (adjetivo) hídrico, referente a água
+HIDRICO	(adjetivo) hídrico, referente a água
+HIDRICOS	(forma de hidrico) (adjetivo) hídrico, referente a água
+HIDROALA	(substantivo) hidrofólio: asa fixada ao casco de um navio que o eleva para fora da água quando este viaja em alta velocidade, reduzindo assim o arrasto
+HIDROAVION	(substantivo) hidroavião: aeroplano que pode flutuar sobre a água (também: hidravião, hidroaeroplano)
+HIDROAVIONES	(forma de hidroavion) (substantivo) hidroavião: aeroplano que pode flutuar sobre a água (também: hidravião, hidroaeroplano)
+HIDROCARBURO	(substantivo) hidrocarboneto: composto químico constituído por átomos de carbono e de hidrogênio unidos tetraedricamente por ligação covalente
+HIDROCARBUROS	(forma de hidrocarburo) (substantivo) hidrocarboneto: composto químico constituído por átomos de carbono e de hidrogênio unidos...
+HIDRODINAMICA	(substantivo) hidrodinâmica: ciência que estuda os movimentos dos líquidos
+HIDRODINAMICAS	(forma de hidrodinamico) (adjetivo) hidrodinâmico: referente às leis do movimento dos líquidos
+HIDRODINAMICO	(adjetivo) hidrodinâmico: referente às leis do movimento dos líquidos
+HIDROELECTRICA	(forma de hidroelectrico) (adjetivo) hidroelétrico: que se refere à energia elétrica produzida por meio de energia hidráulica
+HIDROELECTRICAS	(forma de hidroelectrico) (adjetivo) hidroelétrico: que se refere à energia elétrica produzida por meio de energia hidráulica
+HIDROELECTRICO	(adjetivo) hidroelétrico: que se refere à energia elétrica produzida por meio de energia hidráulica
+HIDROFOBIA	(substantivo) hidrofobia: doença infecciosa do sistema nervoso, causada por um vírus que causa encefalite, revelando-se muitas vezes fatal (também: raiva)
+HIDROFOBICO	(adjetivo) hidrofóbico: relativo a hidrofobia
+HIDROFOBO	(adjetivo) hidrofóbico: relativo a hidrofobia
+HIDROGENO	(substantivo) hidrogénio ^((português europeu)) ou hidrogênio ^((português do Brasil))
+HIDROGENOS	(forma de hidrogeno) (substantivo) hidrogénio ^((português europeu)) ou hidrogênio ^((português do Brasil))
+HIDROGEOLOGIA	(substantivo) hidrogeologia se traduz como hidrogeologia
+HIDROGRAFIA	(substantivo) hidrografia: conjunto dos mares, rios, lagos etc. de uma região
+HIDROGRAFICA	(forma de hidrografico) (adjetivo) hidrográfico: relativo à hidrografia
+HIDROGRAFICO	(adjetivo) hidrográfico: relativo à hidrografia
+HIDROLISIS	(substantivo) hidrólise: reação química de quebra que ocorre na presença de água
+HIDROLOGIA	(substantivo) hidrologia: estudo que se ocupa das águas e das suas propriedades
+HIDROMIEL	(substantivo) hidromel: bebida feita a partir da mistura entre água e mel, podendo ou não ser fermentada
+HIDROPESIA	(substantivo) hidropisia: doença causada por uma bactéria chamada Aeromonas Punctatos que causa acumulação de líquido no corpo
+HIDROPONIA	(substantivo) hidroponia se traduz como hidroponia
+HIDROSTATICA	(substantivo) hidrostática: parte da física que estuda o equilíbrio dos líquidos\n(adjetivo) feminino de hidrostático
+HIDROVIA	(substantivo) hidrovia: via hídrica por mares, oceanos ou rios
+HIDROXIDO	(substantivo) hidroxido se traduz como hidróxido
+HIDROXILO	(substantivo) hidroxilo se traduz como hidroxile, hidroxila
+HIEDA	(forma de heder) (verbo) feder: cheirar mal
+HIEDE	(forma de heder) (verbo) feder: cheirar mal
+HIEDEN	(forma de heder) (verbo) feder: cheirar mal
+HIEDES	(forma de heder) (verbo) feder: cheirar mal
+HIEDO	(forma de heder) (verbo) feder: cheirar mal
+HIEDRA	(substantivo) hera: designação de várias plantas trepadoras
+HIEDRAS	(forma de hiedra) (substantivo) hera: designação de várias plantas trepadoras
+HIEL	(substantivo) fel: vesícula biliar
+HIELA	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HIELAN	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HIELAS	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HIELE	(forma de helar) (verbo) gelar: passar do estado líquido para sólido por perda de calor
+HIELO	(substantivo) gelo: água em estado sólido, cristalizada, por estar em temperatura muito baixa
+HIELOS	(forma de hielo) (substantivo) gelo: água em estado sólido, cristalizada, por estar em temperatura muito baixa
+HIENA	(substantivo) hiena: mamífero, carnívoro, feroz e devorador de carne putrefacta
+HIENAS	(forma de hiena) (substantivo) hiena: mamífero, carnívoro, feroz e devorador de carne putrefacta
+HIENDO	(forma de hender) (verbo) fender: criar fenda em; rachar, rasgar, separar
+HIERA	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIERAN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIERAS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIERBA	(substantivo) hierba se traduz como ⟪erva⟫, ⟪grama⟫, ⟪relva⟫
+HIERBABUENA	(substantivo) hortelã: planta aromática da família das labiadas, cultivada e espontânea nas hortas com utilização em farmácia e na culinária (também: verde-menta, menta)
+HIERBAS	(forma de hierba) (substantivo) hierba se traduz como ⟪erva⟫, ⟪grama⟫, ⟪relva⟫
+HIERE	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIEREN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIERES	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIERO	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIERRO	(substantivo) ferro: elemento químico de símbolo Fe, possui o número atômico 26 e massa atômica relativa 55,845 u; é o quarto elemento mais abundante na crosta terrestre; é um metal duro e muito reativo, formando ligas com os mais diversos elementos
+HIERVA	(forma de hervir) (verbo) ferver: estar em ebulição
+HIERVAN	(forma de hervir) (verbo) ferver: estar em ebulição
+HIERVAS	(forma de hervir) (verbo) ferver: estar em ebulição
+HIERVE	(forma de hervir) (verbo) ferver: estar em ebulição
+HIERVEN	(forma de hervir) (verbo) ferver: estar em ebulição
+HIERVES	(forma de hervir) (verbo) ferver: estar em ebulição
+HIERVO	(forma de hervir) (verbo) ferver: estar em ebulição
+HIETOGRAMA	(substantivo) hietograma se traduz como pluviograma
+HIFA	(substantivo) hifa: filamento que forma o micélio dos fungos e o micobionte dos líquenes
+HIFAS	(forma de hifa) (substantivo) hifa: filamento que forma o micélio dos fungos e o micobionte dos líquenes
+HIGADO	(substantivo) fígado: parte do organismo animal onde se produzem a secreção biliar e a secreção glicogênica
+HIGADOS	(forma de higado) (substantivo) fígado: parte do organismo animal onde se produzem a secreção biliar e a secreção glicogênica
+HIGIENICA	(forma de higienico) (adjetivo) higiénico: relativo à higiene (também: higiênico)
+HIGIENICAS	(forma de higienico) (adjetivo) higiénico: relativo à higiene (também: higiênico)
+HIGIENICO	(adjetivo) higiénico: relativo à higiene (também: higiênico)
+HIGIENICOS	(forma de higienico) (adjetivo) higiénico: relativo à higiene (também: higiênico)
+HIGIENISTA	(substantivo) higienista: especialista em higiene
+HIGO	(substantivo) figo: fruto da figueira
+HIGOS	(forma de higo) (substantivo) figo: fruto da figueira
+HIGROMETRO	(substantivo) higrômetro: instrumento que serve para medir a umidade do ar (também: higrometru)
+HIGROSCOPIA	(substantivo) higroscopia: estudo da umidade atmosférica, sua observação e medida
+HIGROSCOPICO	(adjetivo) higroscópico: que tem tendência em absorver água, como por exemplo esponja, papel, tecidos, madeira etc
+HIJA	(substantivo) filha: mulher ou fêmea que foi gerada pela mãe e concebida pelo pai
+HIJASTRA	(substantivo) hijastra se traduz como ⟪enteada⟫
+HIJASTRO	(substantivo) enteado: filho do(a) cônjuge que não é filho do(a) outro(a) cônjuge
+HIJASTROS	(forma de hijastro) (substantivo) enteado: filho do(a) cônjuge que não é filho do(a) outro(a) cônjuge
+HIJITO	(forma de hijo) (substantivo) filho: indivíduo do sexo masculino em relação aos seus pais ou a cada um deles
+HIJO	(substantivo) filho: indivíduo do sexo masculino em relação aos seus pais ou a cada um deles
+HIJODALGO	(substantivo) gentil-homem: indivíduo nascido parte da nobreza (também: cavalheiro, fidalgo)
+HIJOLE	(interjeição) uau: exprime espanto ou surpresa
+HIJOS	(forma de hijo) (substantivo) filho: indivíduo do sexo masculino em relação aos seus pais ou a cada um deles
+HIJUE	(interjeição) hijue se traduz como porcaria
+HIJUELO	(substantivo) hijuelo se traduz como ⟪camada⟫
+HILA	(substantivo) bicha: fila, fileira de pessoas colocadas umas atrás das outras
+HILABA	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILAD	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILAMOS	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILAN	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILAR	(verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILARANTE	(adjetivo) hilariante: que estimula, ou causa, a alegria e/ou risos
+HILARANTES	(forma de hilarante) (adjetivo) hilariante: que estimula, ou causa, a alegria e/ou risos
+HILARIDAD	(substantivo) hilaridade: vontade, estimulada ou espontânea, de rir
+HILAS	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILAZA	(substantivo) fio: nos microblogues, conjunto de mensagens pequenas agrupadas de forma a formar um texto maior, devido à limitação de caracteres desses sites
+HILE	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILERA	(substantivo) ala: conjunto de objetos dispostos de maneira a formar uma linha (também: zaragata, fileira)
+HILES	(forma de hilar) (verbo) girar: ter curso (moeda, dinheiro); correr, viger (também: rodar)
+HILO	(substantivo) fio: segmento fino, cilíndrico, flexível e alongado de um certo material
+HILOS	(forma de hilo) (substantivo) fio: segmento fino, cilíndrico, flexível e alongado de um certo material
+HIMEN	(substantivo) hímen: membrana que tapa parcialmente a vagina na mulher virgem
+HIMENEO	(substantivo) himeneu: casamento, matrimónio/matrimônio
+HIMNO	(substantivo) hino: canto de louvor, adoração ou invocação (à divindade)
+HIMNOS	(forma de himno) (substantivo) hino: canto de louvor, adoração ou invocação (à divindade)
+HIMPAR	(verbo) soluçar: infinitivo pessoal da primeira pessoa do singular do verbo soluçar
+HIMPLAR	(verbo) himplar se traduz como ⟪soluçar⟫
+HINCA	(forma de hincar) (verbo) fincar: pregar
+HINCAN	(forma de hincar) (verbo) fincar: pregar
+HINCAPIE	(substantivo) ênfase: o ato de dar destaque a algo ao se exprimir
+HINCAR	(verbo) fincar: pregar
+HINCARAS	(forma de hincar) (verbo) fincar: pregar
+HINCARE	(forma de hincar) (verbo) fincar: pregar
+HINCARON	(forma de hincar) (verbo) fincar: pregar
+HINCARSE	(verbo) ajoelhar: (transitivo) ser submisso a; tornar alguém submisso
+HINCAS	(forma de hincar) (verbo) fincar: pregar
+HINCATE	(forma de hincarse) (verbo) ajoelhar: (transitivo) ser submisso a; tornar alguém submisso
+HINCHA	(substantivo) hincha se traduz como ⟪ódio|ODIO⟫\n(adjetivo) irritante: diz-se de substância que irrita
+HINCHABA	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHABAN	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHADAS	(forma de hinchado) (adjetivo) hinchado se traduz como ⟪pomposo⟫
+HINCHADO	(adjetivo) hinchado se traduz como ⟪pomposo⟫\n(substantivo) hinchado se traduz como ⟪inflação|INFLAÇAO⟫, inflamento
+HINCHADOS	(forma de hinchado) (adjetivo) hinchado se traduz como ⟪pomposo⟫
+HINCHAMIENTO	(substantivo) inflação: desequilíbrio econômico caracterizado pelo crescimento anormal dos meios de pagamento em relação às necessidades de consumo, com a consequente redução do poder aquisitivo da moeda e alta geral dos preços (também: inflamento)
+HINCHAMOS	(forma de henchir) (verbo) inchar: avolumar
+HINCHAN	(forma de henchir) (verbo) inchar: avolumar
+HINCHAR	(verbo) hinchar se traduz como ⟪inchar⟫
+HINCHARA	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHARAN	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHARE	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHARIA	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHARON	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHARSE	(verbo) inchar: aumentar de volume (também: inflar)
+HINCHAS	(forma de henchir) (verbo) inchar: avolumar
+HINCHASE	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHASTE	(forma de hinchar) (verbo) hinchar se traduz como ⟪inchar⟫
+HINCHE	(forma de henchir) (verbo) inchar: avolumar
+HINCHEN	(forma de henchir) (verbo) inchar: avolumar
+HINCHES	(forma de henchir) (verbo) inchar: avolumar
+HINCHO	(forma de henchir) (verbo) inchar: avolumar
+HINCO	(forma de hincar) (verbo) fincar: pregar
+HINDI	(substantivo) hindi: língua oficial da Índia
+HINDUISMO	(substantivo) hinduísmo: terceiro dos três períodos da religião indiana, caracterizado por um extremo pluralismo de cultos, deuses e seitas; neobramanismo, neo-hinduísmo [Estendendo-se do sVI a.C. aos dias atuais, o hinduísmo sofre o impacto de religiões estrangeiras (cristianismo, islamismo), religiões indianas...
+HINIESTA	(substantivo) hiniesta se traduz como ⟪gesta⟫, ⟪giesta⟫, giesteira
+HINOJO	(substantivo) funcho: planta herbácea da família das umbelíferas com aplicação medicinal; Foeniculum vulgare
+HINOJOS	(forma de hinojo) (substantivo) funcho: planta herbácea da família das umbelíferas com aplicação medicinal; Foeniculum vulgare
+HINQUE	(forma de hincar) (verbo) fincar: pregar
+HINQUEN	(forma de hincar) (verbo) fincar: pregar
+HINQUESE	(forma de hincarse) (verbo) ajoelhar: (transitivo) ser submisso a; tornar alguém submisso
+HIOIDES	(substantivo) hioides se traduz como osso hioide
+HIPAR	(verbo) soluçar: dar soluços
+HIPERACTIVA	(forma de hiperactivo) (adjetivo) hiperativo: indivíduo que sofre de hiperatividade
+HIPERACTIVAS	(forma de hiperactivo) (adjetivo) hiperativo: indivíduo que sofre de hiperatividade
+HIPERACTIVIDAD	(substantivo) hiperatividade: qualidade ou condição de hiperativo
+HIPERACTIVO	(adjetivo) hiperativo: indivíduo que sofre de hiperatividade
+HIPERACTIVOS	(forma de hiperactivo) (adjetivo) hiperativo: indivíduo que sofre de hiperatividade
+HIPERALGESIA	(substantivo) hiperalgesia: sensibilidade aumentada à estimulação nociva; é resultante da diminuição do limiar da dor
+HIPERBOLA	(substantivo) hipérbole: intersecção entre uma superfície cônica circular regular e um plano que passa através das duas metades do cone
+HIPERBOLAS	(forma de hiperbola) (substantivo) hipérbole: intersecção entre uma superfície cônica circular regular e um plano que passa através das duas...
+HIPERBOLE	(substantivo) hipérbole: exagero óbvio e intencional, emprego de uma palavra ou expressão exagerada para dar mais expressividade à mensagem
+HIPERBOLES	(forma de hiperbole) (substantivo) hipérbole: exagero óbvio e intencional, emprego de uma palavra ou expressão exagerada para dar mais...
+HIPERBOREO	(adjetivo) hiperboreo se traduz como ⟪hiperbóreo|HIPERBOREO⟫
+HIPERCALCEMIA	(substantivo) hipercalcemia: nível elevado de cálcio no sangue
+HIPERENLACE	(substantivo) hiperligação: link, ligação; palávra ou imagem clicável que redireciona para outra página
+HIPERESPACIO	(substantivo) hiperespaço: conceito matemático que é atribuído a espaços com mais de três dimensões
+HIPERHIDROSIS	(substantivo) hiperidrose: produção excessiva e crónica de suor
+HIPERINFLACION	(substantivo) hiperinflação: inflação extremamente alta e descontrolada
+HIPERMETROPIA	(substantivo) hipermetropia: erro de focalização da imagem no olho, que faz com que a imagem seja formada após a retina
+HIPERONIMO	(substantivo) hiperónimo: palavra ou frase cujo alcance semântico (significado) inclui dentro de si o de outras palavras (também: hiperônimo)
+HIPERREALISMO	(substantivo) hiperrealismo se traduz como hiperrealismo
+HIPERSONICO	(adjetivo) hipersonico se traduz como hipersônico
+HIPERTENSION	(substantivo) hipertensão: tensão arterial superior à normal
+HIPERTEXTO	(substantivo) hipertexto: formato de apresentação de dados em um monitor de vídeo, no qual um elemento (seja palavra, expressão ou imagem) é destacado e, ao ser acionado (geralmente por um clique do mouse), desencadeia a exibição de um novo hipertexto com informações relacionadas ao referido elemento
+HIPERTROFIA	(substantivo) hipertrofia: desenvolvimento excessivo de um órgão ou de uma parte dele
+HIPERVENTILACION	(substantivo) hiperventilação: respiração excessivamente rápida e profunda
+HIPERVINCULO	(substantivo) ligação: ato ou efeito de ligar (também: liame, enlace)
+HIPICA	(substantivo) sinônimo de hipismo; corrida de cavalos\n(adjetivo) feminino de hípico
+HIPIDO	(substantivo) soluço: inalação rápida e involuntária de ar que acompanha um espasmo do diafragma e é repentinamente interrompida pelo fechamento da glote, produzindo um som agudo e curto
+HIPNOSIS	(substantivo) hipnose: estado particular que se caracteriza pelo sono nervoso e pela sugestão
+HIPNOTICA	(forma de hipnotico) (adjetivo) hipnótico: relativo à hipnose
+HIPNOTICAS	(forma de hipnotico) (adjetivo) hipnótico: relativo à hipnose
+HIPNOTICO	(adjetivo) hipnótico: relativo à hipnose
+HIPNOTICOS	(forma de hipnotico) (adjetivo) hipnótico: relativo à hipnose
+HIPNOTISMO	(substantivo) hipnotismo se traduz como ⟪hipnotismo⟫
+HIPNOTIZADOR	(adjetivo) hipnótico: relativo à hipnose
+HIPNOTIZADORA	(forma de hipnotizador) (adjetivo) hipnótico: relativo à hipnose
+HIPNOTIZADORES	(forma de hipnotizador) (adjetivo) hipnótico: relativo à hipnose
+HIPO	(substantivo) soluço: inalação rápida e involuntária de ar que acompanha um espasmo do diafragma e é repentinamente interrompida pelo fechamento da glote, produzindo um som agudo e curto
+HIPOCAMPO	(substantivo) hipocampo: ente fantástico, presente nas mitologias fenícia, etrusca, picta, romana e grega (onde esse nome), descrito geralmente como tendo a parte anterior do corpo como um cavalo e a posterior de peixe, sendo alado nalgumas alegorias, associado a deuses como Netuno/Poseidon
+HIPOCAMPOS	(forma de hipocampo) (substantivo) hipocampo: ente fantástico, presente nas mitologias fenícia, etrusca, picta, romana e grega (onde esse...
+HIPOCENTAURO	(substantivo) hipocentauro: entre os gregos antigos, figura que apresentava um corpo de cavalo e torso humano
+HIPOCONDRIA	(substantivo) hipocondria: estado psíquico que se caracteriza pela crença infundada de se padecer de uma doença grave
+HIPOCRESIA	(substantivo) hipocrisia: fingir concordar com ideias contrárias às que se tem
+HIPOCRESIAS	(forma de hipocresia) (substantivo) hipocrisia: fingir concordar com ideias contrárias às que se tem
+HIPOCRITA	(adjetivo) hipócrita: fingido, que não age de acordo com as ideias que demonstra ter
+HIPOCRITAS	(forma de hipocrita) (adjetivo) hipócrita: fingido, que não age de acordo com as ideias que demonstra ter
+HIPODROMO	(substantivo) hipódromo: terreno onde se fazem corridas de cavalos
+HIPODROMOS	(forma de hipodromo) (substantivo) hipódromo: terreno onde se fazem corridas de cavalos
+HIPOGEO	(substantivo) hipogeu: escavação subterrânea em que os antigos depositavam os seus mortos\n(adjetivo) hipogeu: escavação subterrânea em que os antigos depositavam os seus mortos
+HIPOGRIFO	(substantivo) hipogrifo: ser mitológico cuja porção posterior se assemelha a um cavalo e cuja anterior a um grifo
+HIPONIMO	(substantivo) hipônimo: em hiponímia, a unidade lexical (como uma palavra ou locução) cuja acepção semanticamente abrange parte da acepção de outra unidade lexical, porém sendo em relação a esta última mais restrita e específica (também: hipónimo)
+HIPOPOTAMO	(substantivo) hipopótamo: mamífero herbívoro de grande porte e pele muito espessa, que habita os rios africanos
+HIPOPOTAMOS	(forma de hipopotamo) (substantivo) hipopótamo: mamífero herbívoro de grande porte e pele muito espessa, que habita os rios africanos
+HIPOPOTASEMIA	(substantivo) hipocalemia: a condição de ter concentração baixa de potássio no sangue (também: hipocaliemia)
+HIPOPOTOMONSTROSESQUIPEDALIOFOBIA	(substantivo) sesquipedaliofobia: doença psicológica caracterizada pelo medo irracional de pronunciar palavras extensas e complicadas, científicas, ou pouco usuais na linguagem coloquial
+HIPOS	(forma de hipo) (substantivo) soluço: inalação rápida e involuntária de ar que acompanha um espasmo do diafragma e é repentinamente...
+HIPOSTASIS	(substantivo) hipóstase: termo empregado para designar a existência concreta de uma substância, indica a subsistência; é o substrato, a realidade ou substância de algo
+HIPOTECA	(substantivo) hipoteca: garantia real que confere ao credor o direito de ser pago pelo valor do bem hipotecado
+HIPOTECAMOS	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECAN	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECAR	(verbo) hipotecar: onerar com hipoteca
+HIPOTECARA	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECARE	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECAREMOS	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECARIA	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECARON	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECAS	(forma de hipoteca) (substantivo) hipoteca: garantia real que confere ao credor o direito de ser pago pelo valor do bem hipotecado
+HIPOTECASTE	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTECO	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTENUSA	(substantivo) hipotenusa: lado oposto ao ângulo reto no triângulo retângulo
+HIPOTEQUE	(forma de hipotecar) (verbo) hipotecar: onerar com hipoteca
+HIPOTERMIA	(substantivo) hipotermia: diminuição abaixo do normal da temperatura corporal
+HIPOTESIS	(substantivo) hipótese: proposição ou conjunto de proposições aceitas como ponto de partida para a dedução de consequências lógicas (também: suposição)
+HIPOTETICA	(forma de hipotetico) (adjetivo) hipotético: que diz respeito à hipótese
+HIPOTETICAS	(forma de hipotetico) (adjetivo) hipotético: que diz respeito à hipótese
+HIPOTETICO	(adjetivo) hipotético: que diz respeito à hipótese
+HIPOTETICOS	(forma de hipotetico) (adjetivo) hipotético: que diz respeito à hipótese
+HIPSTER	(substantivo) hipster se traduz como hipster
+HIRAMOS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIENTE	(adjetivo) que provoca ou pode provocar ferida
+HIRIENTES	(forma de hiriente) (adjetivo) que provoca ou pode provocar ferida
+HIRIERA	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIERAMOS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIERAN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIERAS	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIERON	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIESE	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIESEN	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRIO	(forma de herir) (verbo) doer: provocar sofrimento emocional (também: ferir)
+HIRSUTA	(forma de hirsuto) (adjetivo) peludo: que tem muitos pelos
+HIRSUTO	(adjetivo) peludo: que tem muitos pelos
+HIRVAMOS	(forma de hervir) (verbo) ferver: estar em ebulição
+HIRVIERA	(forma de hervir) (verbo) ferver: estar em ebulição
+HIRVIERAN	(forma de hervir) (verbo) ferver: estar em ebulição
+HIRVIERON	(forma de hervir) (verbo) ferver: estar em ebulição
+HIRVIO	(forma de hervir) (verbo) ferver: estar em ebulição
+HISOPO	(substantivo) cotonete: pequena haste, normalmente de plástico ou bambu, envolta nas extremidades por algodão, usada normalmente para limpar os ouvidos ou superfícies de difícil acesso
+HISOPOS	(forma de hisopo) (substantivo) cotonete: pequena haste, normalmente de plástico ou bambu, envolta nas extremidades por algodão, usada...
+HISPALENSE	(adjetivo) hispalense: relativo à cidade espanhola de Sevilha
+HISPANA	(forma de hispano) (adjetivo) hispano-americano, originário ou habitante dos Estados Unidos
+HISPANAS	(forma de hispano) (adjetivo) hispano-americano, originário ou habitante dos Estados Unidos
+HISPANISMO	(substantivo) hispanismo: estudo da cultura espanhola e hispano-americana, em particular do idioma
+HISPANO	(adjetivo) hispano-americano, originário ou habitante dos Estados Unidos\n(substantivo) hispano-americano; originário ou habitante dos Estados Unidos
+HISPANOHABLANTE	(substantivo) hispanófono: pessoa que fala espanhol
+HISPANOHABLANTES	(forma de hispanohablante) (substantivo) hispanófono: pessoa que fala espanhol
+HISPANOS	(forma de hispano) (adjetivo) hispano-americano, originário ou habitante dos Estados Unidos
+HISPIRSE	(verbo) inchar: aumentar de volume
+HISTAMINA	(substantivo) histamina se traduz como histamina
+HISTERECTOMIA	(substantivo) histerectomia: remoção cirúrgica do útero
+HISTERECTOMIAS	(forma de histerectomia) (substantivo) histerectomia: remoção cirúrgica do útero
+HISTIDINA	(substantivo) histidina se traduz como histidina
+HISTOLOGIA	(substantivo) histologia: ramo da biologia que estuda a estrutura microscópica normal de tecidos e órgãos
+HISTORIA	(substantivo) história: estudo dos acontecimentos passados
+HISTORIADOR	(substantivo) historiador: contador de fatos da história (ou estórias)
+HISTORIADORA	(forma de historiador) (substantivo) historiador: contador de fatos da história (ou estórias)
+HISTORIADORES	(forma de historiador) (substantivo) historiador: contador de fatos da história (ou estórias)
+HISTORIAL	(substantivo) história: estudo dos acontecimentos passados (também: registro, vinil)
+HISTORIALES	(forma de historial) (substantivo) história: estudo dos acontecimentos passados (também: registro, vinil)
+HISTORIAR	(verbo) historiar: contar histórias
+HISTORIAS	(forma de historia) (substantivo) história: estudo dos acontecimentos passados
+HISTORICA	(forma de historico) (adjetivo) histórico: relativo à história
+HISTORICAS	(forma de historico) (adjetivo) histórico: relativo à história
+HISTORICO	(adjetivo) histórico: relativo à história
+HISTORICOS	(forma de historico) (adjetivo) histórico: relativo à história
+HISTORIETA	(substantivo) sequência de imagens com ou sem texto; quadrinho
+HISTORIETAS	(forma de historieta) (substantivo) sequência de imagens com ou sem texto; quadrinho
+HISTORIETISTA	(substantivo) quadrinista: autor de histórias de banda desenhada
+HISTORIOGRAFIA	(substantivo) historiografia: arte de estudar e descrever a história
+HISTRIONICA	(forma de histrionico) (adjetivo) histriônico: relativo a histrião
+HISTRIONICAMENTE	(advérbio) histrionicamente: de forma histriónica
+HISTRIONICAS	(forma de histrionico) (adjetivo) histriônico: relativo a histrião
+HISTRIONICO	(adjetivo) histriônico: relativo a histrião
+HISTRIONICOS	(forma de histrionico) (adjetivo) histriônico: relativo a histrião
+HIT	(substantivo) sucesso: obra que é um grande êxito (também: hit, pedrada)
+HITITA	(adjetivo) hitita: indivíduo do hititas\n(substantivo) hitita: indivíduo do hititas
+HITITAS	(forma de hitita) (adjetivo) hitita: indivíduo do hititas
+HITO	(substantivo) baliza, marco de pedra
+HITOS	(forma de hito) (substantivo) baliza, marco de pedra
+HITS	(forma de hit) (substantivo) sucesso: obra que é um grande êxito (também: hit, pedrada)
+HIZO	(forma de hacer) (verbo) fazer: executar uma ação
+HOCES	(forma de hoz) (substantivo) foice: instrumento no formato de C, que possui cabo, utilizado para ceifar (também: fouce)
+HOCICAR	(verbo) fossar: revolver (a terra) com o focinho ou fuça
+HOCICO	(substantivo) focinho: parte da cabeça de vários animais que inclui o nariz, a boca e o queixo
+HOCICON	(substantivo) delator: aquele que delata, ou denuncia um ato, um crime
+HOCICOS	(forma de hocico) (substantivo) focinho: parte da cabeça de vários animais que inclui o nariz, a boca e o queixo
+HODIERNO	(adjetivo) presente: que se encontra em determinado lugar ou situação (também: atual)
+HODOFOBIA	(substantivo) hodofobia se traduz como hodofobia
+HOGAR	(substantivo) chaminé: duto de acesso aéreo das fornalhas ao exterior fazendo a tiragem do ar e da fumaça; por outras vezes, também serve como entrada de ar (também: lareira, lar)
+HOGARES	(forma de hogar) (substantivo) chaminé: duto de acesso aéreo das fornalhas ao exterior fazendo a tiragem do ar e da fumaça; por outras...
+HOGAZA	(substantivo) fogaça: grande e comprido bolo feito com ovos e açúcar e parecendo um pão mole
+HOGAÑO	(advérbio) hogaño se traduz como neste ano
+HOGUERA	(substantivo) estaca: tanchão
+HOGUERAS	(forma de hoguera) (substantivo) estaca: tanchão
+HOJA	(substantivo) folha: órgão da planta, geralmente verde e responsável pela fotossíntese (na maioria das vezes), composta de limbo (estrutura laminar), pecíolo (haste que liga o limbo ao caule) e, algumas vezes, bainha (invólucro alongado na base do pecíolo)
+HOJALATA	(substantivo) lata: folha de ferro laminada e estanhada
+HOJALATAS	(forma de hojalata) (substantivo) lata: folha de ferro laminada e estanhada
+HOJALDRADO	(adjetivo) hojaldrado se traduz como ⟪intermitente⟫
+HOJARASCA	(substantivo) hojarasca se traduz como folharada
+HOJAS	(substantivo) folhas: naipe dos jogos de baralho alemão
+HOJEA	(forma de hojear) (verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJEABA	(forma de hojear) (verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJEAR	(verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJEAS	(forma de hojear) (verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJEASTE	(forma de hojear) (verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJEE	(forma de hojear) (verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJEO	(forma de hojear) (verbo) hojear se traduz como ⟪ricochetear⟫, ⟪desnatar⟫
+HOJUELA	(substantivo) filhó: alimento feito de massa fluída que é coalhada sobre uma superfície quente, composta da mistura, de farinha e um líquido como leite, ovos, ou caldo, tem forma circular aplanada e fina (também: massa frita)
+HOLA	(interjeição) olá: usa-se ao encontrar alguém, como saudação
+HOLAN	(substantivo) babado: renda de saia, vestido, toalhas, etc.
+HOLANDES	(adjetivo) neerlandês: língua germânica falada nos Países Baixos e na Bélgica, holandês (também: holandês)\n(substantivo) neerlandês: língua germânica falada nos Países Baixos e na Bélgica, holandês (também: holandês)
+HOLANDESA	(forma de holandes) (adjetivo) neerlandês: língua germânica falada nos Países Baixos e na Bélgica, holandês (também: holandês)
+HOLANDESAS	(forma de holandes) (adjetivo) neerlandês: língua germânica falada nos Países Baixos e na Bélgica, holandês (também: holandês)
+HOLANDESES	(adjetivo) plural de holandés: holandês, neerlandês
+HOLGADA	(forma de holgado) (adjetivo) vago: sem um sentido bem definido (também: desembalado)
+HOLGADAS	(forma de holgado) (adjetivo) vago: sem um sentido bem definido (também: desembalado)
+HOLGADO	(adjetivo) vago: sem um sentido bem definido (também: desembalado)
+HOLGADOS	(forma de holgado) (adjetivo) vago: sem um sentido bem definido (também: desembalado)
+HOLGANZA	(substantivo) encosto: parte de um objeto ou lugar em que se encosta (também: descanso, sobra)
+HOLGAR	(verbo) descansar: proporcionar descanso a; livrar de fadiga: (também: sossegar)
+HOLGAZAN	(adjetivo) preguiçoso: lento, vagaroso
+HOLGAZANA	(forma de holgazan) (adjetivo) preguiçoso: lento, vagaroso
+HOLGAZANAS	(forma de holgazan) (adjetivo) preguiçoso: lento, vagaroso
+HOLGAZANEA	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANEABA	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANEAN	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANEAR	(verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou espiralado
+HOLGAZANEAS	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANEEN	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANEES	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANEO	(forma de holgazanear) (verbo) enrolar: (transitivo direto, transitivo direto e indireto, pronominal) fazer-se roliço; fazer ficar ondulado ou...
+HOLGAZANERIA	(substantivo) ócio: falta de disposição física; preguiça, moleza, mandriice, ociosidade (também: ociosidade)
+HOLGAZANES	(forma de holgazan) (adjetivo) preguiçoso: lento, vagaroso
+HOLGURA	(substantivo) peça: obra musical ou teatral (também: folga, jogo)
+HOLIS	(interjeição) alô: expressa saudação e contatabilidade ao telefone (também: oi, olá)
+HOLISMO	(substantivo) holismo: abordagem que defende o entendimento integral dos fenômenos, em que as propriedades de um sistema completo não podem ser explicadas apenas pela soma de seus componentes
+HOLISTICA	(forma de holistico) (adjetivo) holistico se traduz como ⟪holístico|HOLISTICO⟫
+HOLISTICAS	(forma de holistico) (adjetivo) holistico se traduz como ⟪holístico|HOLISTICO⟫
+HOLISTICO	(adjetivo) holistico se traduz como ⟪holístico|HOLISTICO⟫
+HOLISTICOS	(forma de holistico) (adjetivo) holistico se traduz como ⟪holístico|HOLISTICO⟫
+HOLLAR	(verbo) pisar: tratar com desprezo
+HOLLEJO	(substantivo) bagaço: o que sobra dos frutos, ervas ou de qualquer outro vegetal depois de se lhe tirar o suco (também: bagulho)
+HOLLIN	(substantivo) fuligem: substância negra que o fumo dos combustíveis deposita nas chaminés
+HOLMIO	(substantivo) hólmio: elemento químico de símbolo Ho, possui o número atômico 67 e massa atômica relativa 164,9303 u; é um metal de transição interna (lantanídeo) de cor branco prateado; é obtido de minerais ricos em ítrio como a gadolinita, euxenita e a fergusonita; é empregado como aditivo para ligas metálicas, na...
+HOLOCENO	(adjetivo) holoceno se traduz como holoceno
+HOMBRE	(substantivo) homem: pessoa do sexo ou gênero masculino, geralmente, mas não exclusivamente, adulta
+HOMBRECILLO	(substantivo) hombrecillo se traduz como ⟪lúpulo|LUPULO⟫
+HOMBRECILLOS	(forma de hombrecillo) (substantivo) hombrecillo se traduz como ⟪lúpulo|LUPULO⟫
+HOMBRES	(substantivo) plural de hombre
+HOMBRO	(substantivo) ombro: zona superior do braço (também: espádua)
+HOMBROS	(forma de hombro) (substantivo) ombro: zona superior do braço (também: espádua)
+HOMENAJE	(substantivo) homenagem: manifestação de veneração por alguém
+HOMENAJES	(forma de homenaje) (substantivo) homenagem: manifestação de veneração por alguém
+HOMEOPATIA	(substantivo) homeopatia: sistema terapêutico que consiste no tratamento de doenças com doses diluídas de forma infinitésima de substâncias específicas
+HOMEOSTASIA	(substantivo) homeostase: tendência natural da célula e do organismo de manter o meio interno constante; estabilidade fisiológica
+HOMEOSTASIS	(substantivo) homeostase: tendência natural da célula e do organismo de manter o meio interno constante; estabilidade fisiológica
+HOMEOTERMICO	(adjetivo) homeotérmico: diz-se dos animais que conseguem manter sua temperatura interna constante, independentemente da temperatura exterior
+HOMERICO	(adjetivo) homérico: relativo a Homero ou às suas obras ou ao seu estilo
+HOMICIDA	(adjetivo) homicida: pessoa homicida\n(substantivo) homicida: pessoa homicida
+HOMICIDAS	(adjetivo) plural de homicida: homicida\n(substantivo) plural de homicida: homicida
+HOMILETICA	(substantivo) homilética: aplicação dos princípios gerais de retórica para o ministério específico da pregação
+HOMILIA	(substantivo) homilia: prática sobre coisas da religião
+HOMOCURIOSO	(adjetivo) homocurioso se traduz como homocurioso
+HOMOFLEXIBLE	(adjetivo) homoflexible se traduz como homoflexível
+HOMOFOBIA	(substantivo) homofobia: medo, asco ou ódio em relação aos homossexuais
+HOMOFOBICO	(substantivo) homofóbico: relativo a homofobia
+HOMOFONIA	(substantivo) homofonia: relação entre duas ou mais palavras de significados diferentes que têm a mesma grafia e pronúncia
+HOMOFONO	(adjetivo) homofono se traduz como ⟪homofónico|HOMOFONICO⟫\n(substantivo) homófono: duas palavras são homófonas quando têm grafia diferente mas mesma pronúncia
+HOMOGENEA	(forma de homogeneo) (adjetivo) homogéneo: composto de partes ou elementos que são todos da mesma natureza (também: homogêneo)
+HOMOGENEAS	(forma de homogeneo) (adjetivo) homogéneo: composto de partes ou elementos que são todos da mesma natureza (também: homogêneo)
+HOMOGENEIDAD	(substantivo) homogeneidade: qualidade do que é homogêneo
+HOMOGENEIZAR	(verbo) homogeneizar: tornar homogêneo
+HOMOGENEO	(adjetivo) homogéneo: composto de partes ou elementos que são todos da mesma natureza (também: homogêneo)
+HOMOGENEOS	(forma de homogeneo) (adjetivo) homogéneo: composto de partes ou elementos que são todos da mesma natureza (também: homogêneo)
+HOMOGENIZAR	(verbo) homogeneizar: tornar homogêneo
+HOMOGRAFO	(adjetivo) homógrafo: palavra homógrafa\n(substantivo) homógrafo: palavra homógrafa
+HOMOLOGA	(forma de homologar) (verbo) homologar se traduz como ⟪homologar⟫
+HOMOLOGACION	(substantivo) homologacion se traduz como homologação:
+HOMOLOGAR	(verbo) homologar se traduz como ⟪homologar⟫
+HOMOLOGAS	(forma de homologar) (verbo) homologar se traduz como ⟪homologar⟫
+HOMOLOGO	(verbo) flexão do verbo homologar: homologar
+HOMOLOGOS	(forma de homologo) (verbo) flexão do verbo homologar: homologar
+HOMONACIONALISMO	(substantivo) homonacionalismo: associação positiva das pessoas LGBT e/ou dos direitos daqueles com uma ideologia nacionalista
+HOMONEGATIVIDAD	(substantivo) homonegatividad se traduz como homonegatividade
+HOMONIMA	(substantivo) tocaio: pessoa com mesmo nome de outrem; homônimo (também: homónimo, homónima)
+HOMONIMIA	(substantivo) homonímia: o mesmo que homonimia
+HOMONIMO	(adjetivo) homónimo ^((português europeu)) ou homônimo ^((português do Brasil))\n(substantivo) homónimo ^((português europeu)) ou homônimo ^((português do Brasil))
+HOMONIMOS	(forma de homonimo) (adjetivo) homónimo ^((português europeu)) ou homônimo ^((português do Brasil))
+HOMONORMATIVIDAD	(substantivo) homonormatividad se traduz como homonormatividade
+HOMOPATRIARCADO	(substantivo) homopatriarcado se traduz como homopatriarcado
+HOMORROMANTICO	(adjetivo) homorromântico: que sente atração romântica por pessoas do mesmo sexo
+HOMOSEXUAL	(adjetivo) homossexual: indivíduo que sente atração sexual e/ou mantém relação sexual com pessoas do mesmo sexo\n(substantivo) bicha: nome comum dos vermes e dos répteis com corpo comprido e sem pernas (também: homossexual)
+HOMOSEXUALES	(forma de homosexual) (adjetivo) homossexual: indivíduo que sente atração sexual e/ou mantém relação sexual com pessoas do mesmo sexo
+HOMOSEXUALIDAD	(substantivo) homossexualidade: qualidade ou condição de homossexual
+HONDA	(substantivo) estilingue: objeto em forma de Y com uma fita elástica na parte superior que serve para lançar pequenos projéteis
+HONDAS	(forma de honda) (substantivo) estilingue: objeto em forma de Y com uma fita elástica na parte superior que serve para lançar pequenos...
+HONDERO	(substantivo) fundibulário: soldado ou guerreiro armado com funda; aquele que atira com funda (também: fundeiro)
+HONDEROS	(forma de hondero) (substantivo) fundibulário: soldado ou guerreiro armado com funda; aquele que atira com funda (também: fundeiro)
+HONDO	(adjetivo) fundo: profundidade, altura\n(substantivo) fundo: profundidade, altura
+HONDONADA	(substantivo) barranco: quebra de continuidade abrupta em um terreno criando uma margem bastante inclinada ao lado de cursos d'água e estradas (também: voçoroca)
+HONDOS	(forma de hondo) (adjetivo) fundo: profundidade, altura
+HONDURA	(substantivo) fundura: altura, desde a superfície até ao fundo, ou até á parte mais interior
+HONDURAS	(forma de hondura) (substantivo) fundura: altura, desde a superfície até ao fundo, ou até á parte mais interior
+HONESTA	(adjetivo) feminino de honesto: honesto
+HONESTAMENTE	(advérbio) honestamente: de maneira honesta
+HONESTAS	(adjetivo) feminino plural de honesto: honesto
+HONESTIDAD	(substantivo) honestidade: honradez
+HONESTO	(adjetivo) honesto: honrado, íntegro
+HONESTOS	(adjetivo) plural de honesto: honesto
+HONGKONES	(adjetivo) hongueconguense: relativo ou pertencente a Hong Kong
+HONGO	(substantivo) fungo: organismo, que se reproduz por esporos e pode ser parasita de animais ou plantas ou viver de matérias orgânicas em decomposição (também: fungos)
+HONGOS	(forma de hongo) (substantivo) fungo: organismo, que se reproduz por esporos e pode ser parasita de animais ou plantas ou viver de...
+HONOR	(substantivo) honra: honestidade, integridade em suas crenças e ações
+HONORABLE	(adjetivo) honroso: digno
+HONORABLES	(forma de honorable) (adjetivo) honroso: digno
+HONORES	(forma de honor) (substantivo) honra: honestidade, integridade em suas crenças e ações
+HONORIFICA	(forma de honorifico) (adjetivo) honorífico: que honra e distingue; honroso; honorário
+HONORIFICAS	(forma de honorifico) (adjetivo) honorífico: que honra e distingue; honroso; honorário
+HONORIFICO	(adjetivo) honorífico: que honra e distingue; honroso; honorário
+HONORIFICOS	(forma de honorifico) (adjetivo) honorífico: que honra e distingue; honroso; honorário
+HONRA	(substantivo) respeito: ato ou efeito de respeitar, atitude de consideração
+HONRABA	(forma de honrar) (verbo) honrar: respeitar
+HONRABAN	(forma de honrar) (verbo) honrar: respeitar
+HONRAD	(forma de honrar) (verbo) honrar: respeitar
+HONRADA	(forma de honrado) (adjetivo) honorável: que possui honra
+HONRADAMENTE	(advérbio) honradamente: de modo honrado
+HONRADAS	(forma de honrado) (adjetivo) honorável: que possui honra
+HONRADO	(adjetivo) honorável: que possui honra
+HONRADOS	(forma de honrado) (adjetivo) honorável: que possui honra
+HONRAIS	(forma de honrar) (verbo) honrar: respeitar
+HONRAMOS	(forma de honrar) (verbo) honrar: respeitar
+HONRAN	(forma de honrar) (verbo) honrar: respeitar
+HONRAR	(verbo) honrar: respeitar
+HONRARA	(forma de honrar) (verbo) honrar: respeitar
+HONRARAN	(forma de honrar) (verbo) honrar: respeitar
+HONRARAS	(forma de honrar) (verbo) honrar: respeitar
+HONRARE	(forma de honrar) (verbo) honrar: respeitar
+HONRAREMOS	(forma de honrar) (verbo) honrar: respeitar
+HONRARIA	(forma de honrar) (verbo) honrar: respeitar
+HONRARIAMOS	(forma de honrar) (verbo) honrar: respeitar
+HONRARIAN	(forma de honrar) (verbo) honrar: respeitar
+HONRARIAS	(forma de honrar) (verbo) honrar: respeitar
+HONRARON	(forma de honrar) (verbo) honrar: respeitar
+HONRAS	(forma de honra) (substantivo) respeito: ato ou efeito de respeitar, atitude de consideração
+HONRASTE	(forma de honrar) (verbo) honrar: respeitar
+HONRE	(forma de honrar) (verbo) honrar: respeitar
+HONREMOS	(forma de honrar) (verbo) honrar: respeitar
+HONREN	(forma de honrar) (verbo) honrar: respeitar
+HONRES	(forma de honrar) (verbo) honrar: respeitar
+HONRO	(forma de honrar) (verbo) honrar: respeitar
+HONROSA	(forma de honroso) (adjetivo) honroso: que dá honra
+HONROSAS	(forma de honroso) (adjetivo) honroso: que dá honra
+HONROSO	(adjetivo) honroso: que dá honra
+HOPA	(substantivo) batina: vestuário talar dos abades, padres e estudantes universitários
+HOPLITA	(substantivo) hoplita se traduz como hoplita
+HOPLOTECA	(substantivo) hoploteca: museu de armas antigas
+HORA	(substantivo) hora: momento adequado, ocasião, oportunidade\n(advérbio) hora: momento adequado, ocasião, oportunidade
+HORADA	(forma de horadar) (verbo) perfurar, fazer buraco(s) de um lado para outro
+HORADADOR	(adjetivo) chato: maçante (também: aborrecido, enfadonho)
+HORADAR	(verbo) perfurar, fazer buraco(s) de um lado para outro
+HORADO	(substantivo) caverna: cavidade subterrânea
+HORARIA	(forma de horario) (substantivo) horário: tabela indicativa das horas a que se fazem certos serviços
+HORARIAS	(forma de horario) (substantivo) horário: tabela indicativa das horas a que se fazem certos serviços
+HORARIO	(substantivo) horário: tabela indicativa das horas a que se fazem certos serviços
+HORARIOS	(forma de horario) (substantivo) horário: tabela indicativa das horas a que se fazem certos serviços
+HORCA	(substantivo) forca: instrumento agrícola com dois ou três dentes no extremo de um cabo que serve para apanhar material vegetal; espécie de galho
+HORCAS	(forma de horca) (substantivo) forca: instrumento agrícola com dois ou três dentes no extremo de um cabo que serve para apanhar material...
+HORCON	(substantivo) forquilha: forca, instrumento agrícola de dentes (também: forcado, garfo)
+HORCONES	(forma de horcon) (substantivo) forquilha: forca, instrumento agrícola de dentes (também: forcado, garfo)
+HORDA	(substantivo) horda: grupo de vândalos, malfeitores
+HORDAS	(forma de horda) (substantivo) horda: grupo de vândalos, malfeitores
+HORIZONTAL	(adjetivo) horizontal: a perpendicular à vertical do lugar
+HORIZONTALES	(forma de horizontal) (adjetivo) horizontal: a perpendicular à vertical do lugar
+HORIZONTALMENTE	(advérbio) horizontalmente: na posição horizontal.
+HORIZONTE	(substantivo) horizonte: espaço da superfície terrestre abrangido pela vista
+HORIZONTES	(forma de horizonte) (substantivo) horizonte: espaço da superfície terrestre abrangido pela vista
+HORMA	(substantivo) fôrma: molde
+HORMAS	(forma de horma) (substantivo) fôrma: molde
+HORMIGA	(substantivo) formiga: designação comum a todos os insetos himenópteros da família dos formicídeos, que formam sociedades perenes compostas por rainhas, machos e operárias; caracteriza-se pela forma peculiar do pedículo abdominal, que apresenta um ou dois segmentos escamiformes
+HORMIGAS	(substantivo) plural de hormiga
+HORMIGON	(substantivo) concreto: substância artificial semelhante à pedra e que serve para a construção de estradas, moradias e diversas outras estruturas
+HORMIGONERA	(substantivo) betoneira: máquina giratória com que se misturam os elementos que formam o concreto
+HORMIGONES	(forma de hormigon) (substantivo) concreto: substância artificial semelhante à pedra e que serve para a construção de estradas, moradias e...
+HORMIGUERO	(adjetivo) formigueiro: habitação das formigas, quantidade de formigas\n(substantivo) formigueiro: habitação das formigas, quantidade de formigas
+HORMIGUEROS	(forma de hormiguero) (adjetivo) formigueiro: habitação das formigas, quantidade de formigas
+HORMONA	(substantivo) hormônio: substância química específica fabricada pelo sistema endócrino ou por neurônios altamente especializados (também: hormona)
+HORMONAL	(adjetivo) hormonal: relativo a hormônio
+HORMONALES	(forma de hormonal) (adjetivo) hormonal: relativo a hormônio
+HORMONAS	(forma de hormona) (substantivo) hormônio: substância química específica fabricada pelo sistema endócrino ou por neurônios altamente...
+HORNACINA	(substantivo) nicho: cavidade aberta numa parede para colocação de uma imagem ou estátua
+HORNEA	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEABA	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEABAN	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEADA	(substantivo) jogo: real intenção, verdadeira pretensão; verdade do que se passa (também: fornada, lote)
+HORNEAMOS	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEAN	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEAR	(verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEARA	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEARE	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEAREMOS	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEARIA	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEAS	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEASTE	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEE	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEEN	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEES	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNEO	(forma de hornear) (verbo) assar: cozinhar em seco, diretamente sobre o fogo ou no forno
+HORNERO	(substantivo) hornero se traduz como ⟪padeiro⟫
+HORNO	(substantivo) forno: construção abobadada onde se coze o pão, se assam alimentos, se coze louça, etc
+HORNOS	(forma de horno) (substantivo) forno: construção abobadada onde se coze o pão, se assam alimentos, se coze louça, etc
+HOROSCOPO	(substantivo) horóscopo: previsão astrológica do futuro de uma pessoa com base em informações construídas fundadas no seu dia de nascimento, e publicadas periodicamente, via de regra diariamente, com predições comuns a todos aqueles que partilham de um mesmo signo zodiacal
+HOROSCOPOS	(substantivo) plural de horóscopo
+HORQUETA	(substantivo) forquilha: ramo de árvore ou arbusto que se bifurca com o formato da letra Y (também: forcado, garfo)
+HORQUETAS	(forma de horqueta) (substantivo) forquilha: ramo de árvore ou arbusto que se bifurca com o formato da letra Y (também: forcado, garfo)
+HORQUILLA	(substantivo) garfo: nas enxertias, a parte que se fixa ao cavalo (também: forcado, encruzilhada)
+HORQUILLO	(substantivo) forcado: instrumento de trabalho agrícola semelhante a um grande garfo
+HORRENDO	(adjetivo) horrendo: que horroriza ou faz medo
+HORREO	(substantivo) granel: depósito para cereais ou suprimento de comida animal; casa onde se juntam e guardam cereais; depósito de provisões tulha; celeiro (também: celeiro)
+HORRIBLE	(adjetivo) horrível: que causa horror
+HORRIBLEMENTE	(advérbio) horrivelmente: de modo horrível
+HORRIBLES	(forma de horrible) (adjetivo) horrível: que causa horror
+HORRIDO	(adjetivo) horrível: que causa horror
+HORRISONO	(adjetivo) horrendo: que horroriza ou faz medo (também: assustador)
+HORRO	(adjetivo) livre: sem obstáculos (também: gratuito)
+HORROR	(substantivo) horror: sensação arrepiante de medo ou repulsão
+HORRORES	(forma de horror) (substantivo) horror: sensação arrepiante de medo ou repulsão
+HORRORIZADA	(forma de horrorizado) (adjetivo) pasmado: apalermado, espantado, estupefato
+HORRORIZADAS	(forma de horrorizado) (adjetivo) pasmado: apalermado, espantado, estupefato
+HORRORIZADO	(adjetivo) pasmado: apalermado, espantado, estupefato
+HORRORIZADOS	(forma de horrorizado) (adjetivo) pasmado: apalermado, espantado, estupefato
+HORROROSA	(forma de horroroso) (adjetivo) horroroso: que inspira horror
+HORROROSAMENTE	(advérbio) horrorosamente: de modo horroroso
+HORROROSAS	(forma de horroroso) (adjetivo) horroroso: que inspira horror
+HORROROSO	(adjetivo) horroroso: que inspira horror
+HORROROSOS	(forma de horroroso) (adjetivo) horroroso: que inspira horror
+HORTALIZA	(substantivo) produção: ato de produzir (também: vegetal)
+HORTALIZAS	(forma de hortaliza) (substantivo) produção: ato de produzir (também: vegetal)
+HORTENSIA	(substantivo) hidrângea: arbusto de folhas largas da família das hidrangeáceas, pertencente ao gênero Hydrangea (também: hortênsia)
+HORTERA	(adjetivo) insípido: sem sabor, que não possui gosto (também: piroso, desleixado)
+HOSCA	(forma de hosco) (adjetivo) taciturno: de poucas palavras
+HOSCAS	(forma de hosco) (adjetivo) taciturno: de poucas palavras
+HOSCO	(adjetivo) taciturno: de poucas palavras
+HOSCOS	(forma de hosco) (adjetivo) taciturno: de poucas palavras
+HOSPEDA	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDABA	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDABAMOS	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDABAN	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDABAS	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDADOR	(substantivo) anfitrião: hospitaleiro (também: hóstia)
+HOSPEDAJE	(substantivo) acomodação: ato ou efeito de acomodar
+HOSPEDAMOS	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDAN	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDANTE	(substantivo) hóstia: nas religiões cristãs, partícula de pão ázimo que se consagra durante a comunhão (também: anfitrião)
+HOSPEDAR	(verbo) hospedar: receber como hóspede
+HOSPEDARA	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDARAN	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDARAS	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDARE	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDAREMOS	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDARIA	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDARON	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDAS	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDASTE	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDE	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDEN	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDES	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPEDO	(forma de hospedar) (verbo) hospedar: receber como hóspede
+HOSPICIO	(substantivo) hospício: local para tratamento e/ou hospedagem de pessoas doentes ou pobres sem gratificação, monetária ou econômica, ao serviço prestado; asilo
+HOSPICIOS	(forma de hospicio) (substantivo) hospício: local para tratamento e/ou hospedagem de pessoas doentes ou pobres sem gratificação, monetária...
+HOSPITAL	(substantivo) hospital: local onde se recebem e se tratam doentes
+HOSPITALARIO	(adjetivo) hospitaleiro: que acolhe os hóspedes com gosto
+HOSPITALES	(forma de hospital) (substantivo) hospital: local onde se recebem e se tratam doentes
+HOSPITALIDAD	(substantivo) hospitalidade: agasalho dado a hóspedes
+HOSPITALIZADA	(forma de hospitalizado) (adjetivo) hospitalizado se traduz como ⟪hospitalizado⟫
+HOSPITALIZADAS	(forma de hospitalizado) (adjetivo) hospitalizado se traduz como ⟪hospitalizado⟫
+HOSPITALIZADO	(adjetivo) hospitalizado se traduz como ⟪hospitalizado⟫
+HOSPITALIZADOS	(forma de hospitalizado) (adjetivo) hospitalizado se traduz como ⟪hospitalizado⟫
+HOSTAL	(substantivo) albergue: hospedagem barata, sem luxo e com quartos comunitários, para acolher sem-teto (sem-abrigo) ou jovens em viagem turística
+HOSTALES	(forma de hostal) (substantivo) albergue: hospedagem barata, sem luxo e com quartos comunitários, para acolher sem-teto (sem-abrigo) ou...
+HOSTELERIA	(substantivo) restauração: conjunto de estabelecimentos que servem refeições, como restaurantes, ou o setor de atividade económica correspondente
+HOSTERIA	(substantivo) albergue: hospedagem barata, sem luxo e com quartos comunitários, para acolher sem-teto (sem-abrigo) ou jovens em viagem turística
+HOSTERIAS	(forma de hosteria) (substantivo) albergue: hospedagem barata, sem luxo e com quartos comunitários, para acolher sem-teto (sem-abrigo) ou...
+HOSTIA	(interjeição) hostia se traduz como exprime admiração, ⟪assombro⟫\n(substantivo) hóstia: nas religiões cristãs, partícula de pão ázimo que se consagra durante a comunhão
+HOSTIGA	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGABA	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGABAN	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGAN	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGAR	(verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGARON	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGASTE	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGO	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGUE	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGUEN	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIGUES	(forma de hostigar) (verbo) molestar: incomodar (também: incomodar, assediar)
+HOSTIL	(adjetivo) hostil: contrário
+HOSTILES	(forma de hostil) (adjetivo) hostil: contrário
+HOSTILIDAD	(substantivo) hostilidad se traduz como hostilidade
+HOSTILIDADES	(forma de hostilidad) (substantivo) hostilidad se traduz como hostilidade
+HOSTILIZADO	(adjetivo) hostilizado: que sofreu hostilização (também: agredido, criticado)\n(verbo) particípio passado do verbo hostilizar: (hostilizado): hostilizado, agredido, criticado
+HOTEL	(substantivo) hotel se traduz como hotel:
+HOTELES	(forma de hotel) (substantivo) hotel se traduz como hotel:
+HOY	(advérbio) hoje: o dia atual, aquele em que se está
+HOYA	(substantivo) cova: depressão em qualquer superfície
+HOYO	(substantivo) buraco, cova no terreno
+HOYOS	(forma de hoyo) (substantivo) buraco, cova no terreno
+HOYUELO	(substantivo) covinha: pequeno buraco na face de uma pessoa ou no seu queixo
+HOYUELOS	(forma de hoyuelo) (substantivo) covinha: pequeno buraco na face de uma pessoa ou no seu queixo
+HOZ	(substantivo) foice: instrumento no formato de C, que possui cabo, utilizado para ceifar (também: fouce)
+HUACHO	(substantivo) huacho se traduz como ⟪órfão|ORFAO⟫, ⟪órfã|ORFA⟫
+HUAIRAVO	(substantivo) huairavo se traduz como socó-taquari, socó-dorminhoco
+HUALA	(substantivo) huala se traduz como mergulhao-grande, chorona
+HUARACHE	(substantivo) sandália: calçado feito de uma sola com correias que a prendem ao pé
+HUASAI	(substantivo) açaizeiro: nome comum da palmeira Euterpe oleracea, nativa da Amazônia e Caribe, de tronco fino com até vinte e cinco metros de onde é extraído palmito, folhas com até três metros de comprimento que variam em número de oito a catorze por pé (considerado pouco), flores monoicas dispostas em pedúnculos com... (também: açaí)
+HUASCA	(substantivo) bebedeira: estado de bêbado, embriagado (também: embriaguez, crápula)
+HUASO	(substantivo) huaso se traduz como ⟪cavaleiro⟫\n(adjetivo) huaso se traduz como ⟪inculto⟫
+HUBE	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIERA	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIERAIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIERAMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIERAN	(verbo) terceira pessoa do plural do pretérito imperfeito do indicativo do verbo haber:
+HUBIERAS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIERE	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIEREN	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIERES	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIESE	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIESEIS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIESEMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIESEN	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIESES	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBIMOS	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBO	(forma de haber) (verbo) (verbo auxiliar junto com o particípio para formar o pretérito perfeito)
+HUBRIS	(substantivo) húbris: tudo o que passa da medida; descomedimento, desmedida
+HUCHA	(substantivo) porquinho: recipiente com formato externo semelhante a um pequeno porco que serve para guardar economia em dinheiro nele depositado (também: porquinho-mealheiro)
+HUCHAS	(forma de hucha) (substantivo) porquinho: recipiente com formato externo semelhante a um pequeno porco que serve para guardar economia...
+HUCHEAR	(verbo) gritar: soltar gritos, bradar, elevar a voz:
+HUEBRA	(substantivo) acre: unidade de medida de área de dimensões variáveis (equivalente a aproximadamente 4.048 metros quadrados na Inglaterra e Estados Unidos) (também: jeira)
+HUECAS	(forma de hueco) (adjetivo) oco: que não tem miolo
+HUECO	(adjetivo) oco: que não tem miolo
+HUECOGRABADO	(substantivo) rotogravura: processo fotomecânico pelo qual imagens e texto são impressos a partir de um cilindro entalhado
+HUECOS	(forma de hueco) (adjetivo) oco: que não tem miolo
+HUELA	(forma de oler) (verbo) cheirar: aspirar o cheiro de; farejar; pesquisar; revelar
+HUELAN	(forma de oler) (verbo) cheirar: aspirar o cheiro de; farejar; pesquisar; revelar
+HUELAS	(forma de oler) (verbo) cheirar: aspirar o cheiro de; farejar; pesquisar; revelar
+HUELE	(adjetivo) canhoto: indivíduo, que, em trabalho de mãos, se serve, com preferência, da esquerda\n(substantivo) canhoto: indivíduo, que, em trabalho de mãos, se serve, com preferência, da esquerda
+HUELEDENOCHE	(substantivo) hueledenoche se traduz como jasmim da noite
+HUELEN	(forma de oler) (verbo) cheirar: aspirar o cheiro de; farejar; pesquisar; revelar
+HUELES	(forma de oler) (verbo) cheirar: aspirar o cheiro de; farejar; pesquisar; revelar
+HUELGA	(substantivo) greve: paralisação das atividades de uma escola, fábrica, etc enquanto os alunos ou funcionários esperam que suas reivindicações sejam atendidas pela diretoria do estabelecimento
+HUELGAS	(forma de huelga) (substantivo) greve: paralisação das atividades de uma escola, fábrica, etc enquanto os alunos ou funcionários esperam...
+HUELGO	(substantivo) fôlego: o ato de inspirar e expirar o ar
+HUELLA	(substantivo) impressão: ato ou efeito de imprimir (também: pegada, pisada)
+HUELLAS	(forma de hollar) (verbo) pisar: tratar com desprezo
+HUELLE	(forma de hollar) (verbo) pisar: tratar com desprezo
+HUELLO	(substantivo) terra: solo composto formado por partículas minerais e substratos orgânicos (também: chão, solo)
+HUELO	(forma de oler) (verbo) cheirar: aspirar o cheiro de; farejar; pesquisar; revelar
+HUEQUITO	(adjetivo) gaio: que revela alegria; jovial (também: alegre, gay)
+HUERA	(forma de huero) (adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: vazio)
+HUERAS	(forma de huero) (adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: vazio)
+HUERCO	(substantivo) criança: pessoa de pouco juízo; pessoa ingênua (também: garoto, cabrito)
+HUERCOS	(forma de huerco) (substantivo) criança: pessoa de pouco juízo; pessoa ingênua (também: garoto, cabrito)
+HUERFANA	(substantivo) órfão: aquele que perdeu o pai e a mãe ou um deles (também: órfã)
+HUERFANAS	(forma de huerfano) (adjetivo) órfão: aquele que perdeu o pai e a mãe ou um deles
+HUERFANO	(adjetivo) órfão: aquele que perdeu o pai e a mãe ou um deles\n(substantivo) órfão: aquele que perdeu o pai e a mãe ou um deles
+HUERFANOS	(forma de huerfano) (adjetivo) órfão: aquele que perdeu o pai e a mãe ou um deles
+HUERO	(adjetivo) vago: (vaga, lugar, cadeira) desocupado (também: vazio)
+HUERTA	(substantivo) horta: terreno onde se cultivam legumes e hortaliças (também: horto)
+HUERTAS	(forma de huerta) (substantivo) horta: terreno onde se cultivam legumes e hortaliças (também: horto)
+HUERTO	(substantivo) horto: pequena horta
+HUERTOS	(forma de huerto) (substantivo) horto: pequena horta
+HUESA	(substantivo) tumba: sepultura (também: túmulo, sepultura)
+HUESO	(substantivo) osso: cada uma das peças rígidas que formam o esqueleto dos animais vertebrados, incluindo do ser humano
+HUESPED	(substantivo) hóspede: o que dá ou recebe hospedagem
+HUESPEDES	(forma de huesped) (substantivo) hóspede: o que dá ou recebe hospedagem
+HUESTE	(substantivo) exército: força armada ou corpo militar numeroso e bem organizado especializado em operações terrestres\n(adjetivo) moído: que se moeu
+HUESTES	(forma de hueste) (substantivo) exército: força armada ou corpo militar numeroso e bem organizado especializado em operações terrestres
+HUESUDA	(forma de huesudo) (adjetivo) huesudo se traduz como ossudo
+HUESUDAS	(forma de huesudo) (adjetivo) huesudo se traduz como ossudo
+HUESUDO	(adjetivo) huesudo se traduz como ossudo
+HUESUDOS	(forma de huesudo) (adjetivo) huesudo se traduz como ossudo
+HUEVERA	(substantivo) copa: (Derivação: por extensão de sentido) compartimento em hospitais, hotéis etc. que atende ao serviço dos quartos e ao preparo de alimentos leves (também: xícara, taça)
+HUEVO	(substantivo) ovo: célula reprodutora feminina dos animais, macrogameta
+HUEVONEAR	(verbo) condescender: ceder por bondade, complacência; transigir
+HUIA	(forma de huir) (verbo) fugir: desaparecer
+HUIAIS	(forma de huir) (verbo) fugir: desaparecer
+HUIAMOS	(forma de huir) (verbo) fugir: desaparecer
+HUIAN	(forma de huir) (verbo) fugir: desaparecer
+HUIAS	(forma de huir) (verbo) fugir: desaparecer
+HUID	(forma de huir) (verbo) fugir: desaparecer
+HUIDA	(substantivo) fuga: ato ou efeito de escapar, fugir
+HUIDAS	(forma de huida) (substantivo) fuga: ato ou efeito de escapar, fugir
+HUIDIZA	(forma de huidizo) (adjetivo) tímido: indivíduo acanhado, inseguro
+HUIDIZO	(adjetivo) tímido: indivíduo acanhado, inseguro
+HUIDIZOS	(forma de huidizo) (adjetivo) tímido: indivíduo acanhado, inseguro
+HUIDO	(substantivo) desertor: militar que deserta, que abandona as fileiras do exército
+HUIDOS	(forma de huido) (substantivo) desertor: militar que deserta, que abandona as fileiras do exército
+HUILLO	(substantivo) bico: biscate; trabalho temporário
+HUIMOS	(forma de huir) (verbo) fugir: desaparecer
+HUIR	(verbo) fugir: desaparecer
+HUIRA	(forma de huir) (verbo) fugir: desaparecer
+HUIRAN	(forma de huir) (verbo) fugir: desaparecer
+HUIRAS	(forma de huir) (verbo) fugir: desaparecer
+HUIRE	(forma de huir) (verbo) fugir: desaparecer
+HUIREIS	(forma de huir) (verbo) fugir: desaparecer
+HUIREMOS	(forma de huir) (verbo) fugir: desaparecer
+HUIRIA	(forma de huir) (verbo) fugir: desaparecer
+HUIRIAMOS	(forma de huir) (verbo) fugir: desaparecer
+HUIRIAN	(forma de huir) (verbo) fugir: desaparecer
+HUIRIAS	(forma de huir) (verbo) fugir: desaparecer
+HUIRO	(substantivo) huiro se traduz como ⟪alga⟫
+HUIS	(forma de huir) (verbo) fugir: desaparecer
+HUISTE	(substantivo) huiste se traduz como ⟪obsidiana⟫
+HUISTEIS	(forma de huir) (verbo) fugir: desaparecer
+HULE	(substantivo) preservativo: saco de borracha muito fina para envolver o pénis durante o coito com a finalidade de evitar contágios ou a de impedir a procriação (também: borracha)
+HULLA	(substantivo) hulha: carvão de pedra
+HUMANA	(adjetivo) forma feminina de humano:
+HUMANAS	(forma de humano) (adjetivo) humano: denominação genérica dos exemplares da espécie Homo sapiens
+HUMANIDAD	(substantivo) humanidade: conjunto de toda a raça humana
+HUMANIDADES	(forma de humanidad) (substantivo) humanidade: conjunto de toda a raça humana
+HUMANISMO	(substantivo) humanismo: conjunto de doutrinas fundamentadas de maneira precípua nos interesses, potencialidades e faculdades do ser humano, sublinhando sua capacidade para a criação e transformação da realidade natural e social, e seu livre-arbítrio diante de pretensos poderes transcendentes, ou de condicionamentos...
+HUMANITARIO	(adjetivo) humanitário: relativo à humanidade
+HUMANIZACION	(substantivo) humanização: ato ou efeito de humanizar
+HUMANO	(adjetivo) humano: denominação genérica dos exemplares da espécie Homo sapiens\n(substantivo) humano: denominação genérica dos exemplares da espécie Homo sapiens
+HUMANOS	(forma de humano) (adjetivo) humano: denominação genérica dos exemplares da espécie Homo sapiens
+HUMEA	(forma de humear) (verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+HUMEABA	(forma de humear) (verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+HUMEABAN	(forma de humear) (verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+HUMEAN	(forma de humear) (verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+HUMEAR	(verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+HUMECTANTE	(adjetivo) hidratante: creme para hidratar a pele
+HUMECTANTES	(forma de humectante) (adjetivo) hidratante: creme para hidratar a pele
+HUMEDA	(forma de humedo) (adjetivo) úmido: líquido (também: húmido)
+HUMEDAD	(substantivo) humidade: qualidade ou estado de húmido (também: umidade)
+HUMEDADES	(forma de humedad) (substantivo) humidade: qualidade ou estado de húmido (também: umidade)
+HUMEDAS	(forma de humedo) (adjetivo) úmido: líquido (também: húmido)
+HUMEDECE	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDECEN	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDECER	(verbo) molhar: derramar líquido sobre
+HUMEDECERA	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDECES	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDECIAN	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDECIERON	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDECIO	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDEZCA	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDEZCAN	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDEZCO	(forma de humedecer) (verbo) molhar: derramar líquido sobre
+HUMEDO	(adjetivo) úmido: líquido (também: húmido)
+HUMEDOS	(forma de humedo) (adjetivo) úmido: líquido (também: húmido)
+HUMEO	(forma de humear) (verbo) fumar: aspirar o fumo de (também: defumar, fumegar)
+HUMERAL	(adjetivo) umeral: relativo ao úmero
+HUMERO	(substantivo) úmero: osso longo que compõe a porção esquelética do braço humano, ou as patas dianteiras de mamíferos quadrúpedes
+HUMEROS	(forma de humero) (substantivo) úmero: osso longo que compõe a porção esquelética do braço humano, ou as patas dianteiras de mamíferos...
+HUMIDIFICAR	(verbo) umidificar: aumentar a umidade em
+HUMILDAD	(substantivo) humildade: modéstia
+HUMILDE	(adjetivo) modesto: limitado, moderado (também: humilde)
+HUMILDES	(forma de humilde) (adjetivo) modesto: limitado, moderado (também: humilde)
+HUMILLA	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLABA	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLABAN	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLACION	(substantivo) humilhação: ato ou efeito de humilhar
+HUMILLACIONES	(forma de humillacion) (substantivo) humilhação: ato ou efeito de humilhar
+HUMILLAIS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLAMOS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLAN	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLANTE	(adjetivo) humilhante: que humilha
+HUMILLANTES	(forma de humillante) (adjetivo) humilhante: que humilha
+HUMILLAR	(verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARA	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARAN	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARAS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARE	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLAREMOS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARIA	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARIAS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLARON	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLAS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLASE	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLASTE	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLE	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLEIS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLEMOS	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLEN	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLES	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMILLO	(forma de humillar) (verbo) humilhar: fazer com que uma pessoa perca a dignidade, o respeito, o orgulho
+HUMITA	(substantivo) humita se traduz como gravata de laço, ⟪laço⟫
+HUMMUS	(substantivo) hummus se traduz como homus
+HUMO	(substantivo) fumo: mistura complexa de gases, vapores e partículas em suspensão que se desprendem dos corpos aquecidos ou em combustão
+HUMOR	(substantivo) humor: disposição mental ou temperamento
+HUMORES	(forma de humor) (substantivo) humor: disposição mental ou temperamento
+HUMUS	(substantivo) húmus: o mesmo que humo
+HUNDA	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDAIS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDAMOS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDAN	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDANSE	(forma de hundirse) (verbo) dar: transferir a posse de algo, gratuitamente, para outrem (também: doar, ceder)
+HUNDAS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDASE	(forma de hundirse) (verbo) dar: transferir a posse de algo, gratuitamente, para outrem (também: doar, ceder)
+HUNDE	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDEN	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDES	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDETE	(forma de hundirse) (verbo) dar: transferir a posse de algo, gratuitamente, para outrem (também: doar, ceder)
+HUNDI	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIA	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIAMOS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIAN	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIAS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDID	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIERA	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIERAMOS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIERAN	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIERAS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIERON	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIESE	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIMIENTO	(substantivo) colapso: o fato de ruir, de vir abaixo
+HUNDIMIENTOS	(forma de hundimiento) (substantivo) colapso: o fato de ruir, de vir abaixo
+HUNDIMOS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIO	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIR	(verbo) afundar: ir ao fundo; submergir-se
+HUNDIRA	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRAN	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRAS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRE	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIREIS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIREMOS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRIA	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRIAMOS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRIAN	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRIAS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDIRSE	(verbo) dar: transferir a posse de algo, gratuitamente, para outrem (também: doar, ceder)
+HUNDIS	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDISTE	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNDO	(forma de hundir) (verbo) afundar: ir ao fundo; submergir-se
+HUNGARA	(forma de hungaro) (adjetivo) hungaro se traduz como húngara
+HUNGARAS	(forma de hungaro) (adjetivo) hungaro se traduz como húngara
+HUNGARO	(adjetivo) hungaro se traduz como húngara\n(substantivo) hungaro se traduz como húngara
+HUNGAROS	(forma de hungaro) (adjetivo) hungaro se traduz como húngara
+HURACAN	(substantivo) furacão: sistema de baixa pressão que ocorre geralmente nas regiões tropicais com ventos que circulam na forma de espiral, em alta velocidade, causando calamidade quando atinge regiões habitadas
+HURACANES	(forma de huracan) (substantivo) furacão: sistema de baixa pressão que ocorre geralmente nas regiões tropicais com ventos que circulam na...
+HURACO	(substantivo) orifício: entrada ou saída estreita (também: buraco, forame)
+HURGA	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGABA	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGAMOS	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGAN	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGAR	(verbo) vasculhar: revistar; remexer
+HURGARA	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGARAN	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGARE	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGARIA	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGARON	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGAS	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGASTE	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGO	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGUE	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGUEN	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURGUES	(forma de hurgar) (verbo) vasculhar: revistar; remexer
+HURI	(substantivo) huri se traduz como huri
+HURON	(substantivo) furão: mamífero mustelídeo, domesticado para caçar coelhos
+HURONES	(forma de huron) (substantivo) furão: mamífero mustelídeo, domesticado para caçar coelhos
+HURRA	(interjeição) hurra: interjeição que acompanha brindes nos banquetes
+HURRITA	(substantivo) hurrita se traduz como hurrita\n(adjetivo) hurrita se traduz como hurrita
+HURTA	(forma de hurtar) (verbo) furtar: subtrair algo alheio sem uso de violência ou ameaça (também: roubar)
+HURTADOR	(substantivo) ladra: aquela que rouba, feminino de ladrão (também: ladrão)
+HURTAN	(forma de hurtar) (verbo) furtar: subtrair algo alheio sem uso de violência ou ameaça (também: roubar)
+HURTAR	(verbo) furtar: subtrair algo alheio sem uso de violência ou ameaça (também: roubar)
+HURTARON	(forma de hurtar) (verbo) furtar: subtrair algo alheio sem uso de violência ou ameaça (também: roubar)
+HURTASTE	(forma de hurtar) (verbo) furtar: subtrair algo alheio sem uso de violência ou ameaça (também: roubar)
+HURTE	(forma de hurtar) (verbo) furtar: subtrair algo alheio sem uso de violência ou ameaça (também: roubar)
+HURTO	(substantivo) furto: o ato de furtar (também: roubo)
+HURTOS	(forma de hurto) (substantivo) furto: o ato de furtar (também: roubo)
+HUSAR	(substantivo) hussardo: soldado da cavalaria ligeira europeia, armado com carabina, espada e, por vezes, pistola
+HUSARES	(forma de husar) (substantivo) hussardo: soldado da cavalaria ligeira europeia, armado com carabina, espada e, por vezes, pistola
+HUSILLO	(substantivo) fuso: utensílio cilíndrico feito de madeira, utilizado para fiação e torção de fibras têxteis
+HUSILLOS	(forma de husillo) (substantivo) fuso: utensílio cilíndrico feito de madeira, utilizado para fiação e torção de fibras têxteis
+HUSMEA	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEABA	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEABAN	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEABAS	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEAMOS	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEAN	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEAR	(verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEARA	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEARE	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEAS	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEASTE	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEE	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEEN	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEES	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSMEO	(forma de husmear) (verbo) bisbilhotar: falar rumores, revelar segredos, buscar e criar intrigas
+HUSO	(substantivo) fuso: utensílio cilíndrico feito de madeira, utilizado para fiação e torção de fibras têxteis
+HUSOS	(forma de huso) (substantivo) fuso: utensílio cilíndrico feito de madeira, utilizado para fiação e torção de fibras têxteis
+HUY	(interjeição) ai: expressa dor física ou sentimental
+HUYA	(forma de huir) (verbo) fugir: desaparecer
+HUYAIS	(forma de huir) (verbo) fugir: desaparecer
+HUYAMOS	(forma de huir) (verbo) fugir: desaparecer
+HUYAN	(forma de huir) (verbo) fugir: desaparecer
+HUYAS	(forma de huir) (verbo) fugir: desaparecer
+HUYE	(forma de huir) (verbo) fugir: desaparecer
+HUYEN	(forma de huir) (verbo) fugir: desaparecer
+HUYERA	(forma de huir) (verbo) fugir: desaparecer
+HUYERAIS	(forma de huir) (verbo) fugir: desaparecer
+HUYERAMOS	(forma de huir) (verbo) fugir: desaparecer
+HUYERAN	(forma de huir) (verbo) fugir: desaparecer
+HUYERAS	(forma de huir) (verbo) fugir: desaparecer
+HUYERON	(forma de huir) (verbo) fugir: desaparecer
+HUYES	(forma de huir) (verbo) fugir: desaparecer
+HUYESE	(forma de huir) (verbo) fugir: desaparecer
+HUYESEN	(forma de huir) (verbo) fugir: desaparecer
+HUYESES	(forma de huir) (verbo) fugir: desaparecer
+HUYO	(forma de huir) (verbo) fugir: desaparecer

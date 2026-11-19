@@ -1,0 +1,399 @@
+HABIL	(sıfat) habil kelimesinin karşılığı: hazık
+HABILIDADE	(ad) kuvvet: Dayanıklılık, tahammül, mukāvemet: (ayrıca: kabiliyet, istidat)
+HABILIDOSA	(habilidoso sözcüğünün çekimi) (sıfat) habilidoso kelimesinin karşılığı: hazık
+HABILIDOSO	(sıfat) habilidoso kelimesinin karşılığı: hazık
+HABILITA	(habilitar sözcüğünün çekimi) (eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak, izin vermek)
+HABILITAR	(eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak, izin vermek)
+HABILITAÇAO	(ad) nitelik: bir şeyin nasıl olduğunu belirten, onu başka şeylerden ayıran özellik ve bir şeyin iyi veya kötü olma özelliği, kalite, vasıf, keyfiyet (ayrıca: vasıf)
+HABILITAÇOES	(habilitaçao sözcüğünün çekimi) (ad) nitelik: bir şeyin nasıl olduğunu belirten, onu başka şeylerden ayıran özellik ve bir şeyin iyi veya kötü olma...
+HABILITE	(habilitar sözcüğünün çekimi) (eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak, izin vermek)
+HABILITEI	(habilitar sözcüğünün çekimi) (eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak, izin vermek)
+HABILITO	(habilitar sözcüğünün çekimi) (eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak, izin vermek)
+HABILITOU	(habilitar sözcüğünün çekimi) (eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak, izin vermek)
+HABITA	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAM	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAMOS	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITANDO	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAR	(eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITARA	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITARAM	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITARAO	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAREI	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAREM	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAS	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITASSE	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAT	(ad) habitat: yerleşme, oturma, yaşam alanı
+HABITAVA	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAVAM	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAVEIS	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITAÇAO	(ad) konut: insanların içinde yaşadıkları apartman, ev gibi bir yer
+HABITE	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITEM	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITO	(ad) alışkanlık: bir şeye alışmış olma durumu, alışkınlık, alışmışlık, alışkı, itiyat, huy, meleke, ünsiyet
+HABITOS	(ad) çoğul çekimi: hábito
+HABITOU	(habitar sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek (ayrıca: ikamet etmek)
+HABITUAL	(sıfat) habitual kelimesinin karşılığı: ⟪sıradan|SIRADAN⟫
+HADICE	(ad) hadis: Ehl-i Sünnet, Şia
+HADOQUE	(ad) hadoque kelimesinin karşılığı: ⟪mezgit|MEZGİT⟫
+HAFNIO	(ad) hafniyum: atom numarası 72 olan bir kimyasal element
+HAITIANAS	(ad) çoğul çekimi: haitiana
+HAITIANOS	(ad) çoğul çekimi: haitiano
+HAJA	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAJAM	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HALIOTE	(ad) denizkulağı: yassı kabuklu, içi sedefli, 10 cm uzunluğunda bir deniz yumuşakçası (Haliotis), abalon (ayrıca: abalon)
+HALL	(ad) dalan: Biçim, şekil. (ayrıca: hol, lobi)
+HALO	(ad) halo kelimesinin karşılığı: ay evi
+HALTERE	(ad) haltere kelimesinin karşılığı: ⟪halter|HALTER⟫
+HALTERES	(ad) çoğul çekimi: haltere
+HAMBURGUER	(ad) hamburguer kelimesinin karşılığı: ⟪hamburger|HAMBURGER⟫
+HAMSTER	(ad) hamster kelimesinin karşılığı: ⟪hamster|HAMSTER⟫
+HANDEBOL	(ad) handebol kelimesinin karşılığı: ⟪hentbol|HENTBOL⟫
+HANGAR	(ad) hangar kelimesinin karşılığı: ⟪hangar|HANGAR⟫
+HANSENIASE	(ad) hanseniase kelimesinin karşılığı: ⟪cüzzam|CÜZZAM⟫
+HAO	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAREM	(ad) harem: bu bölümde oturan kadınların hepsi
+HARMONIA	(ad) kavil: anlaşma, sözleşme (ayrıca: harmoni, düzen)
+HARMONICA	(ad) harmonica kelimesinin karşılığı: ⟪armonika|ARMONİKA⟫
+HARMONICO	(sıfat) harmonico kelimesinin karşılığı: harmonik
+HARMONIOSAMENTE	(zarf) biçimli: uygun olarak, yakışacak bir biçimde
+HARPA	(ad) arp: dik tutularak parmakla çalınan, üç köşeli, büyük telli çalgı
+HARPAS	(harpa sözcüğünün çekimi) (ad) arp: dik tutularak parmakla çalınan, üç köşeli, büyük telli çalgı
+HARPIA	(ad) harpia kelimesinin karşılığı: harpia
+HARPIAS	(ad) çoğul çekimi: harpia
+HAS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HASTA	(ad) hasta kelimesinin karşılığı: açık artırma
+HASTE	(ad) herek: (Çankırı, Kırşehir, Kayseri ağzı) Sabanın tarlada açtığı iz.
+HAURIR	(eylem) çıkarmak: Büyük abdestini yapmak.
+HAVEIS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVEMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVENDO	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVER	(eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫\n(ad) kredi: güven, saygınlık, itibar (ayrıca: alacak)
+HAVERA	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVERAO	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVEREI	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVEREMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVERES	(ad) çoğul çekimi: haver
+HAVERIA	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVERIAM	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVERIAMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVERIAS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVIA	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVIAM	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVIAMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVIAS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVIDO	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HAVIEIS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HEBRAICO	(sıfat) hebraico kelimesinin karşılığı: ibrani\n(ad) hebraico kelimesinin karşılığı: ibranice
+HEBREUS	(ad) çoğul çekimi: hebreu
+HECATOMBE	(ad) kırım: Savunmasız insanların veya tutsakların toplu olarak öldürülmesi; katliam. (ayrıca: katletme, katliam)
+HECTARE	(ad) hektar: yüz ar, on bin metre kare'lik yüzey ölçü birimi, ha kısaltmasına sahiptir
+HECTOMETRO	(ad) hektometre: Yüz metrelik uzunluk ölçü birimi, kilometrenin onda biri (hm)
+HEDONISMO	(ad) hedonismo kelimesinin karşılığı: ⟪hazcılık|HAZCILIK⟫
+HEGELIANISMO	(ad) hegelianismo kelimesinin karşılığı: hegelcilik
+HEGEMONIA	(ad) hegemonya: bir devletin ya da bir kişinin, başka bir devlet ya da kişi üzerinde oluşturduğu baskı
+HEIS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HELIANTO	(ad) ayçiçeği: Birleşikgillerden, sarı renkli çiçeği çok iri olan, yurdumuzda çok yetiştirilen bir bitki; gün çiçeği, günebakan, gündöndü, günâşık, (Helianthus annuus). (ayrıca: günâşık, günebakan)
+HELICOPTERO	(ad) helicoptero kelimesinin karşılığı: ⟪helikopter|HELİKOPTER⟫
+HELICOPTEROS	(ad) çoğul çekimi: helicóptero
+HELIO	(ad) helyum: Atom numarası 2 olan bir kimyasal element
+HELIOSFERA	(ad) heliosfera kelimesinin karşılığı: helyosfer
+HELIOTROPIO	(ad) ayçiçeği: Birleşikgillerden, sarı renkli çiçeği çok iri olan, yurdumuzda çok yetiştirilen bir bitki; gün çiçeği, günebakan, gündöndü, günâşık, (Helianthus annuus).
+HEMACIA	(ad) hemacia kelimesinin karşılığı: ⟪alyuvar|ALYUVAR⟫
+HEMACIAS	(ad) çoğul çekimi: hemácia
+HEMATITA	(ad) hematita kelimesinin karşılığı: ⟪hematit|HEMATİT⟫
+HEMATOLOGIA	(ad) hematoloji: kan bilimi (ayrıca: kan bilimi)
+HEMEROTECA	(ad) bura: bu yer
+HEMICICLO	(ad) daire: (mecaz) Soyut kavramlarda belli sınır, ölçü. (ayrıca: zemin)
+HEMIPLEGIA	(ad) hemiplegia kelimesinin karşılığı: hemipleji
+HEMISFERIO	(ad) yarım küre: yarı küre (ayrıca: yarı küre)
+HEMODIALISE	(ad) hemodialise kelimesinin karşılığı: ⟪hemodiyaliz|HEMODİYALİZ⟫
+HEMOFILIA	(ad) hemofilia kelimesinin karşılığı: ⟪hemofili|HEMOFİLİ⟫
+HEMOGLOBINA	(ad) hemoglobina kelimesinin karşılığı: ⟪hemoglobin|HEMOGLOBİN⟫
+HEMOGRAMA	(ad) hemograma kelimesinin karşılığı: ⟪hemogram|HEMOGRAM⟫
+HEMOLINFA	(ad) hemolinfa kelimesinin karşılığı: hemolenf
+HEMORRAGIA	(ad) hemorragia kelimesinin karşılığı: ⟪kanama|KANAMA⟫
+HEMORRAGIAS	(ad) çoğul çekimi: hemorragia
+HEMORROIDA	(ad) basur: anüs bölgesindeki toplardamarların varis gibi genişlemesi
+HEMORROIDAS	(ad) hemorroidas kelimesinin karşılığı: ⟪basur|BASUR⟫
+HEMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HEMOSTASE	(ad) hemostase kelimesinin karşılığı: hemostaz
+HEPATITE	(ad) hepatit: bulaşıcı hastalık
+HEPTAGONO	(ad) yedigen: Yedi kenarlı çokgen
+HERALDICA	(ad) heraldik: arma bilimi
+HERANÇA	(ad) miras: Birine, ölen bir yakınından kalan mal mülk, para veya servet; kalıt, bırakıt, tereke. (ayrıca: miras olarak, miras alma)
+HERBICIDA	(ad) herbicida kelimesinin karşılığı: ⟪herbisit|HERBİSİT⟫
+HERBIVORO	(ad) herbivoro kelimesinin karşılığı: ⟪otçul|OTÇUL⟫
+HERDA	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDADO	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAM	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAMOS	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDANDO	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAR	(eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDARA	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDARAM	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDARAO	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAREI	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAREM	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAREMOS	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDARIA	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDARIAM	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDASSE	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDASSEM	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDASTE	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDAVA	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDE	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDEI	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDEIRO	(ad) vâris: mirasçı. (ayrıca: mirasçı)
+HERDEM	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDES	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERDOU	(herdar sözcüğünün çekimi) (eylem) kalıt almak: miras almak (ayrıca: devralmak)
+HERESIAS	(ad) çoğul çekimi: heresia
+HERMENEUTA	(ad) hukukçu: hukuku meslek edinen, hukukla uğraşan kimse
+HERNIA	(ad) fıtık: iç organlardan bir parçanın daha çok bağırsak bölümünün karın çeperlerini geçip deri altında ur gibi bir şişkinlik yapması, kavlıç, yarımlık
+HEROI	(ad) heroi kelimesinin karşılığı: ⟪alp|ALP⟫, ⟪kahraman|KAHRAMAN⟫
+HEROICA	(heroico sözcüğünün çekimi) (sıfat) kahramanca: kahramana yaraşır (ayrıca: alp)
+HEROICO	(sıfat) kahramanca: kahramana yaraşır (ayrıca: alp)
+HEROINA	(ad) heroina kelimesinin karşılığı: ⟪eroin|EROİN⟫
+HEROISMO	(ad) kahramanlık: kahramanca davranış, kahraman olma durumu (ayrıca: alplık)
+HERTZ	(ad) hertz: bir saniyede bir titreşim yapan devirli bir olayın frekansına eşit frekans birimi (kısaltma: Hz)
+HESITAÇAO	(ad) tereddüt: Kararsızlık, duraksama
+HETERO	(sıfat) hetero kelimesinin karşılığı: uz
+HETEROCLITO	(sıfat) heteroclito kelimesinin karşılığı: ⟪seçmeli|SEÇMELİ⟫
+HETEROFOBIA	(ad) heterofobia kelimesinin karşılığı: heterofobi
+HETEROGENEO	(sıfat) heterojen: ayrışık
+HETEROSSEXUAIS	(heterossexual sözcüğünün çekimi) (sıfat) heterossexual kelimesinin karşılığı: uz
+HETEROSSEXUAL	(sıfat) heterossexual kelimesinin karşılığı: uz
+HEURISTICO	(sıfat) heuristico kelimesinin karşılığı: buluşsal
+HEXAGONO	(ad) altıgen: altı kenarı ve altı köşesi olan çokgen
+HIATO	(ad) hiato kelimesinin karşılığı: ⟪kesilme|KESİLME⟫
+HIATOS	(ad) çoğul çekimi: hiato
+HIBERNA	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNADO	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNAM	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNANDO	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNAR	(eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNARAM	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNAVAM	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNAÇAO	(ad) kış uykusu: bazı hayvanlarda kış aylarında soğuk ve kurak havaya karşı koyabilmek için görülen, minimum enerji tüketimi, hareketsizlik ve metabolik yavaşlama durumu
+HIBERNEI	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBERNOU	(hibernar sözcüğünün çekimi) (eylem) hibernar kelimesinin karşılığı: kış uykusuna yatmak
+HIBRIDAÇAO	(ad) hibridaçao kelimesinin karşılığı: hibritleştirme, hibridasyon, ⟪melezleşme|MELEZLEŞME⟫
+HIBRIDO	(sıfat) hibrit: Bir veya daha fazla gen bakımından farklı iki birey arasındaki melezin birinci jenerasyon dölü.
+HIBRIDOS	(ad) çoğul çekimi: híbrido
+HIDRANGEA	(ad) ortanca: Taşkırangillerden, kırmızı, pembe veya mor renkli çiçeklerini yaz başında açan, gölgelik yerlerde yetiştirilen bir süs bitkisi, (Hydrangea hortensia).
+HIDRATO	(ad) hidrat: bir cismin suyla birleşmesiyle veya bazı madenler üzerinde suyun etkisiyle oluşan bileşik
+HIDRAULICO	(sıfat) hidrolik: su ile ilgili
+HIDROCARBONETO	(ad) hidrokarbon: karbon ve hidrojen bileşiği
+HIDROGENIO	(ad) hidrojen: atom ve kütle numarası 1 olup, nötronu olmayan kimyasal element, müvellidülma
+HIDROGRAFIA	(ad) hidrografi: yeraltı ve yer üstü sularının oluşum ve dağılımlarını araştıran ve insan yaşamı üzerine etkilerini inceleyen bilim dalı, hidrografya, su bilgisi
+HIDROLISE	(ad) hidroliz: bir molekülün su etkisiyle ikiye ayrılmasını sağlayan tepkime
+HIDROLOGIA	(ad) hidroloji: su bilimi (ayrıca: su bilimi)
+HIDROSTATICA	(ad) hidrostatica kelimesinin karşılığı: ⟪hidrostatik|HİDROSTATİK⟫
+HIDROVIA	(ad) hidrovia kelimesinin karşılığı: su yolu
+HIDROVIAS	(hidrovia sözcüğünün çekimi) (ad) hidrovia kelimesinin karşılığı: su yolu
+HIENA	(ad) sırtlan: sırtlangillerden, genellikle leşle beslenen, etçil, postu benekli bir hayvan, andık, angıt kurdu
+HIERARQUIA	(ad) hiyerarşi: Önem ve değer bakımından gitgide yükselen basamaklar dizisi. (ayrıca: aşama sırası)
+HIERARQUIAS	(ad) çoğul çekimi: hierarquia
+HIERARQUICO	(sıfat) hiyerarşik: hiyerarşiye özgü
+HIEROGLIFO	(ad) hieroglifo kelimesinin karşılığı: ⟪hiyeroglif|HİYEROGLİF⟫
+HIEROGLIFOS	(ad) çoğul çekimi: hieróglifo
+HIFEN	(ad) hifen kelimesinin karşılığı: kısa çizgi
+HIFENIZAR	(eylem) tirelemek: bir yazıya tire koymak
+HIGHLANDERS	(ad) çoğul çekimi: highlander
+HIGIDO	(sıfat) sağlıklı: sağlık durumu iyi olan, sağlam, esen, sıhhatli
+HIGIENE	(ad) hijyen: sağlık koruma, hıfzıssıhha
+HIGIENICO	(sıfat) hijyenik: sağlıklı (ayrıca: sıhhi)
+HIGIENIZAÇAO	(ad) temizlikçilik: temizlikçi olma durumu (ayrıca: arıklaşma)
+HIGROMETRO	(ad) higrometro kelimesinin karşılığı: ⟪higrometre|HİGROMETRE⟫
+HILIGAYNON	(ad) hiligaynon kelimesinin karşılığı: hiligaynon
+HIMEN	(ad) himen kelimesinin karşılığı: kızlık zarı
+HINDI	(ad) hindi kelimesinin karşılığı: hintçe
+HINDUISMO	(ad) hinduismo kelimesinin karşılığı: hinduizm
+HINO	(ad) hino kelimesinin karşılığı: ⟪ilahi|İLAHİ⟫
+HINTERLANDIA	(ad) arkabahçe: (mecaz) etkileme alanı, hinterlant (ayrıca: artbölge)
+HIPERBOLE	(ad) hiperbole kelimesinin karşılığı: ⟪hiperbol|HİPERBOL⟫
+HIPERCALCEMIA	(ad) hipercalcemia kelimesinin karşılığı: hiperkalsemi
+HIPERESPAÇO	(ad) hiperespaço kelimesinin karşılığı: hiperuzay
+HIPERLIGAÇAO	(ad) link: İnternet üzerindeki bir yerde, başkaca ağ sayfalarına yönlendirme yapan metin; ilişim (ayrıca: hyperlink, bağlantı)
+HIPERMETROPIA	(ad) hipermetropia kelimesinin karşılığı: hipermetropi
+HIPERTERMIA	(ad) hipertermia kelimesinin karşılığı: hipertermi
+HIPERTEXTO	(ad) hipertexto kelimesinin karşılığı: hypertext
+HIPERTIREOIDISMO	(ad) hipertireoidismo kelimesinin karşılığı: hipertiroidi
+HIPNOSE	(ad) hipnoz: Uyku, ipnos
+HIPNOTISMO	(ad) hipnoz: Uyku, ipnos
+HIPOCALCEMIA	(ad) hipocalcemia kelimesinin karşılığı: süt humması
+HIPOCALEMIA	(ad) hipokalemi: Kanda potasyum miktarının gerekenden aşağı düzeyde olması.
+HIPOCAMPO	(ad) hipokampus: Beyindeki limbik sisteme katılan, hafıza ve yön bulmada önemli rol oynayan, denizatına benzeyen beyin bölgesi.
+HIPOCRISIAS	(ad) çoğul çekimi: hipocrisia
+HIPODROMO	(ad) hipodrom: at yarışları yapılan alan, koşu alanı
+HIPOFISE	(ad) hipofise kelimesinin karşılığı: ⟪hipofiz|HİPOFİZ⟫
+HIPOGLICEMIA	(ad) hipoglisemi: Aşırı hâlsizliğe, aşırı terlemeye, hafif baygınlığa yol açan, kanda normalden daha az şeker bulunması hastalığı
+HIPONATREMIA	(ad) hiponatremia kelimesinin karşılığı: hiponatremi
+HIPOPOTAMA	(hipopotamo sözcüğünün çekimi) (ad) su aygırı: su aygırıgiller (ayrıca: hipopotam)
+HIPOPOTAMO	(ad) su aygırı: su aygırıgiller (ayrıca: hipopotam)
+HIPOPOTAMOS	(ad) çoğul çekimi: hipopótamo
+HIPOPOTASSEMIA	(ad) hipokalemi: Kanda potasyum miktarının gerekenden aşağı düzeyde olması.
+HIPOSTASE	(ad) hipostase kelimesinin karşılığı: ⟪hipostaz|HİPOSTAZ⟫
+HIPOTECA	(ad) tutsat: Banka ya da benzer bir kuruluşun konut, arsa vb. taşınmaz mallar "satın almak üzere" kişilere para vermesini, bu para karşılığında malın iyelik hakkını borçludan almasını, bu paranın belirli bir süre içinde geri ödenmesini ve ödeme tamamlandığında malın iyelik hakkının geçersiz hale gelmesini... (ayrıca: tutu)
+HIPOTECAS	(ad) çoğul çekimi: hipoteca
+HIPOTENUSA	(ad) hipotenüs: Bir dik üçgende, dik açının karşısında bulunan kenar
+HIPOTESE	(ad) hipotese kelimesinin karşılığı: ⟪varsayım|VARSAYIM⟫
+HIPOTESES	(ad) çoğul çekimi: hipótese
+HIPOTETICA	(hipotetico sözcüğünün çekimi) (sıfat) varsayımsal: Bir varsayıma dayanan. (ayrıca: kuramsal, nazari)
+HIPOTETICO	(sıfat) varsayımsal: Bir varsayıma dayanan. (ayrıca: kuramsal, nazari)
+HIPOTETICOS	(hipotetico sözcüğünün çekimi) (sıfat) varsayımsal: Bir varsayıma dayanan. (ayrıca: kuramsal, nazari)
+HIRSUTO	(sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+HIRTO	(sıfat) çetin: amaçlanan duruma getirilmesi, elde edilmesi, çözümlenmesi, işlenmesi güç veya engeli çok olan, güç, zor, müşkül (ayrıca: bükülmez)
+HISTERICAS	(ad) çoğul çekimi: histérica
+HISTERICOS	(ad) çoğul çekimi: histérico
+HISTOLOGIA	(ad) histologia kelimesinin karşılığı: doku bilimi
+HISTOPATOLOGIA	(ad) histopatologia kelimesinin karşılığı: histopatoloji
+HISTORIA	(ad) tarih: Bir hadisenin gerçekleştiği zaman.
+HISTORIADOR	(ad) tarihçi: Tarih öğretmeni.
+HISTORIADORA	(historiador sözcüğünün çekimi) (ad) tarihçi: Tarih öğretmeni.
+HISTORIAS	(ad) çoğul çekimi: historia
+HISTORICA	(historico sözcüğünün çekimi) (sıfat) tarihî: tarihe dair olan. (ayrıca: tarihsel)
+HISTORICO	(sıfat) tarihî: tarihe dair olan. (ayrıca: tarihsel)
+HIT	(ad) hit kelimesinin karşılığı: ⟪isabet|İSABET⟫
+HITAR	(eylem) vurmak: Kadeh tokuşturmak.
+HITE	(hitar sözcüğünün çekimi) (eylem) vurmak: Kadeh tokuşturmak.
+HITITA	(sıfat) hitita kelimesinin karşılığı: hitit\n(ad) hitita kelimesinin karşılığı: hitit, hititçe
+HITS	(hit sözcüğünün çekimi) (ad) hit kelimesinin karşılığı: ⟪isabet|İSABET⟫
+HOBBY	(ad) düşkü: hobi, uğraşı (ayrıca: hobi)
+HODIERNAMENTE	(zarf) bugün: içinde bulunulan günün içinde
+HODIERNO	(sıfat) güncel: günün konusu olan, şimdiki, bugünkü (haber, olay vb.), aktüel (ayrıca: cari)
+HOJE	(zarf) bugün: içinde bulunulan günün içinde
+HOJES	(hoje sözcüğünün çekimi) (zarf) bugün: içinde bulunulan günün içinde
+HOL	(ad) sofa: Evlerde oda kapılarının açıldığı genişçe yer; hanay, hol (ayrıca: hal, salon)
+HOLANDESES	(ad) çoğul çekimi: holandês
+HOLANDIZAR	(eylem) holandizar kelimesinin karşılığı: hollandalılaştırmak
+HOLISMO	(ad) holismo kelimesinin karşılığı: ⟪holizm|HOLİZM⟫
+HOLMIO	(ad) holmiyum: atom numarası 67 , simgesi Ho olan bir kimyasal element
+HOLOCAUSTO	(ad) holocausto kelimesinin karşılığı: ⟪holokost|HOLOKOST⟫
+HOLOCAUSTOS	(ad) çoğul çekimi: holocausto
+HOLOGRAFIA	(ad) holografia kelimesinin karşılığı: holografi
+HOLONOMIA	(ad) holonomia kelimesinin karşılığı: holonomi
+HOMEM	(ad) homem kelimesinin karşılığı: insan
+HOMENAGEM	(ad) homenagem kelimesinin karşılığı: teşrih
+HOMENS	(ad) homem sözcüğünün çoğul çekimi: insan
+HOMENZINHO	(homem sözcüğünün çekimi) (ad) homem kelimesinin karşılığı: insan
+HOMENZINHOS	(ad) çoğul çekimi: homenzinho
+HOMEOPATIA	(ad) homeopatia kelimesinin karşılığı: homeopati
+HOMERICO	(sıfat) homerico kelimesinin karşılığı: ⟪astronomik|ASTRONOMİK⟫, ⟪koskocaman|KOSKOCAMAN⟫
+HOMICIDA	(ad) katil: öldürme
+HOMICIDAS	(homicida sözcüğünün çekimi) (ad) katil: öldürme
+HOMICIDIO	(ad) katil: öldürme
+HOMICIDIOS	(ad) çoğul çekimi: homicídio
+HOMILIAS	(ad) çoğul çekimi: homilia
+HOMOAFETIVO	(sıfat) eş cinsel: Duygusal veya cinsel olarak kendi cinsine ilgi duyan kimse; homoseksüel. (ayrıca: homoseksüel)
+HOMOFILIA	(ad) homofilia kelimesinin karşılığı: homofil
+HOMOFOBIA	(ad) homofobia kelimesinin karşılığı: ⟪homofobi|HOMOFOBİ⟫
+HOMOFOBICA	(sıfat) homofobik: homofobi ile ilgili
+HOMOFOBICAS	(ad) çoğul çekimi: homofóbica
+HOMOFOBICO	(sıfat) homofobik: homofobi ile ilgili
+HOMOFOBICOS	(ad) çoğul çekimi: homofóbico
+HOMOFONO	(ad) sesteş: Söylenişleri aynı, anlam ve kökleri ayrı olan (kelimeler), eş adlı, eş sesli, homonim (ayrıca: sesteş kelime)
+HOMOGENEIDADE	(ad) bağdaşıklık: bağdaşık olma durumu, mütecanislik, homojenlik
+HOMOGENEO	(sıfat) benzer: Nitelik, görünüş ve yapı bakımından bir başkasına benzeyen veya ona eş olan. (ayrıca: homojen, türdeş)
+HOMOLOGAÇAO	(ad) homologaçao kelimesinin karşılığı: ⟪olur|OLUR⟫, ⟪tasdik|TASDİK⟫
+HOMONIMA	(ad) adaş: adları aynı olanların her biri
+HOMONIMO	(ad) sesteş: Söylenişleri aynı, anlam ve kökleri ayrı olan (kelimeler), eş adlı, eş sesli, homonim (ayrıca: homonim)
+HOMONIMOS	(ad) çoğul çekimi: homónimo
+HOMOSSEXUAIS	(homossexual sözcüğünün çekimi) (ad) homossexual kelimesinin karşılığı: eşcinsel, ⟪homoseksüel|HOMOSEKSÜEL⟫
+HOMOSSEXUAL	(ad) homossexual kelimesinin karşılığı: eşcinsel, ⟪homoseksüel|HOMOSEKSÜEL⟫\n(sıfat) eşcinsel; eşcinsellik ile ilgili
+HOMOSSEXUALIDADE	(ad) eş cinsellik: Kendi cinsinden kimselerle cinsel ilişkide bulunma durumu; homoseksüellik. (ayrıca: homoseksüellik)
+HONESTA	(honesto sözcüğünün çekimi) (sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONESTAMENTE	(zarf) asıl: gerçekten, gerçek olarak
+HONESTAS	(honesto sözcüğünün çekimi) (sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONESTO	(sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONESTOS	(honesto sözcüğünün çekimi) (sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONORARIO	(sıfat) honorario kelimesinin karşılığı: ⟪yüceltici|YÜCELTİCİ⟫
+HONORAVEIS	(honoravel sözcüğünün çekimi) (sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun
+HONORAVEL	(sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun
+HONORIFICO	(sıfat) honorifico kelimesinin karşılığı: ⟪yüceltici|YÜCELTİCİ⟫
+HONRA	(ad) onur: onur: haysiyet, izzetinefis
+HONRADA	(honrado sözcüğünün çekimi) (sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONRADO	(sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONRADOS	(honrado sözcüğünün çekimi) (sıfat) namuslu: hilesiz, gereği gibi, icap ettiği gibi, münasip, uygun (ayrıca: uz)
+HONRAS	(honra sözcüğünün çekimi) (ad) onur: onur: haysiyet, izzetinefis
+HORA	(ad) saat: Vakit, zaman.
+HORARIO	(ad) saat: Bir işin yapıldığı belli bir zaman. (ayrıca: sögen)
+HORARIOS	(ad) çoğul çekimi: horário
+HORAS	(ad) çoğul çekimi: hora
+HORIZONTE	(ad) ufuk: düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren
+HORIZONTES	(ad) çoğul çekimi: horizonte
+HORMONA	(ad) hormona kelimesinin karşılığı: ⟪hormon|HORMON⟫
+HORMONIO	(ad) hormonio kelimesinin karşılığı: ⟪hormon|HORMON⟫
+HOROSCOPO	(ad) burç: Astrolojik gök cisimlerinin kişinin doğumu sırasında bulunan konumlarına verilen ortak ad. (ayrıca: horoskop)
+HOROSCOPOS	(ad) çoğul çekimi: horóscopo
+HORRIPILANTE	(sıfat) horripilante kelimesinin karşılığı: ⟪ürpertici|ÜRPERTİCİ⟫
+HORRIVEL	(sıfat) dehşetli: korkunç (ayrıca: dehşet verici, korkunç)
+HORRORES	(ad) çoğul çekimi: horror
+HORTALIÇA	(ad) göveri: sebze (ayrıca: sebze, göverti)
+HORTAS	(ad) çoğul çekimi: horta
+HORTELA	(ad) hortela kelimesinin karşılığı: ⟪anık|ANIK⟫, ⟪nane|NANE⟫, nane yeşili
+HORTENSIA	(ad) hortensia kelimesinin karşılığı: ⟪ortanca|ORTANCA⟫
+HOSPEDAGEM	(ad) ikram: sunulan şey
+HOSPEDARIA	(ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSPEDE	(ad) hospede kelimesinin karşılığı: ⟪misafir|MİSAFİR⟫
+HOSPEDEIRO	(ad) hospedeiro kelimesinin karşılığı: ⟪kamarot|KAMAROT⟫
+HOSPEDEIROS	(hospedeiro sözcüğünün çekimi) (ad) hospedeiro kelimesinin karşılığı: ⟪kamarot|KAMAROT⟫
+HOSPEDES	(ad) çoğul çekimi: hóspede
+HOSPICIO	(ad) hospicio kelimesinin karşılığı: akıl hastanesi
+HOSPITAL	(ad) hastane: hastaların yatırılarak tedavi edildikleri sağlık kurumu; darüşşifa, sayrılarevi, şifahane (ayrıca: hastahane)
+HOSPITALIDADE	(ad) hospitalidade kelimesinin karşılığı: ⟪ikram|İKRAM⟫
+HOSPITALIZADO	(hospitalizar sözcüğünün çekimi) (eylem) hospitalizar kelimesinin karşılığı: hastanelik etmek
+HOSPITALIZAR	(eylem) hospitalizar kelimesinin karşılığı: hastanelik etmek
+HOSPITALIZARAM	(hospitalizar sözcüğünün çekimi) (eylem) hospitalizar kelimesinin karşılığı: hastanelik etmek
+HOSPITALIZOU	(hospitalizar sözcüğünün çekimi) (eylem) hospitalizar kelimesinin karşılığı: hastanelik etmek
+HOSTE	(ad) ordu: Bir devletin silahlı kuvvetlerinin tümü; askeriye, leşker. (ayrıca: leşker)
+HOSTEL	(ad) han: Yol üzerinde veya kasabalarda yolcuların konaklamalarına yarayan yapı.
+HOSTES	(hoste sözcüğünün çekimi) (ad) ordu: Bir devletin silahlı kuvvetlerinin tümü; askeriye, leşker. (ayrıca: leşker)
+HOTEIS	(ad) çoğul çekimi: hotel
+HOTEL	(ad) otel: Yolcu ve turistlere geceleme, konaklama imkânı sağlamak amacıyla kurulmuş işletme:
+HOTELZINHO	(hotel sözcüğünün çekimi) (ad) otel: Yolcu ve turistlere geceleme, konaklama imkânı sağlamak amacıyla kurulmuş işletme:
+HOUVE	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVERA	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVERAM	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVERMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVESSE	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVESSEIS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVESSEM	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVESSEMOS	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOUVESSES	(haver sözcüğünün çekimi) (eylem) haver kelimesinin karşılığı: ⟪doğmak|DOĞMAK⟫
+HOVERCRAFT	(ad) hovercraft kelimesinin karşılığı: ⟪hoverkraft|HOVERKRAFT⟫
+HULHA	(ad) hulha kelimesinin karşılığı: taş kömürü, ⟪kömür|KÖMÜR⟫
+HUMANAS	(ad) çoğul çekimi: humana
+HUMANIDADE	(ad) insanoğlu: İnsan (ayrıca: insan, ademoğlu)
+HUMANISMO	(ad) humanismo kelimesinin karşılığı: ⟪hümanizm|HÜMANİZM⟫
+HUMANITARIO	(sıfat) insani: insanla ilgili, insana özgü
+HUMANO	(ad) humano kelimesinin karşılığı: {{t| adam, insan
+HUMANOS	(ad) çoğul çekimi: humano
+HUMILDE	(sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMILDEMENTE	(zarf) âcizane: söz söyleyen kimsenin kendi yaptıklarını abartmamak için kullandığı "âcizlere yakışacak biçimde" anlamında bir nezaket sözü
+HUMILDES	(humilde sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+HUMILHA	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAM	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAMOS	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHANDO	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAR	(eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHARA	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHARAM	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAREI	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAREM	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHARES	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHARIA	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHARMOS	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHASSE	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAVA	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHAVAM	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHE	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHEI	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHEM	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHES	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHO	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMILHOU	(humilhar sözcüğünün çekimi) (eylem) humilhar kelimesinin karşılığı: ⟪aşağılamak|AŞAĞILAMAK⟫
+HUMOR	(ad) humor kelimesinin karşılığı: ⟪kip|KİP⟫, ruh durumu
+HUMORES	(ad) çoğul çekimi: humor
+HUMORISTICO	(sıfat) nükteli: nükte ile süslenmiş, nüktesi olan, esprili
+HUMUS	(ad) humus kelimesinin karşılığı: ⟪humus|HUMUS⟫

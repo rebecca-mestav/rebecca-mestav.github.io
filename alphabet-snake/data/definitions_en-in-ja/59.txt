@@ -1,0 +1,130 @@
+YACHT	(名詞) （レース・遊航用の）ヨット。大型帆船。\n(動詞) ヨットで帆走する。
+YACHTED	(動詞) yachtの過去形・過去分詞: （レース・遊航用の）ヨット。大型帆船。
+YACHTER	(名詞) ヨットを操縦する人。
+YACHTERS	(名詞) yachterの複数形: ヨットを操縦する人。
+YACHTING	(動詞) yachtの現在分詞: （レース・遊航用の）ヨット。大型帆船。\n(名詞) yachtingの訳: ヨット遊び
+YACHTINGS	(名詞) yachtingの複数形: yachtの現在分詞: （レース・遊航用の）ヨット。大型帆船。
+YACHTS	(名詞) yachtの複数形: （レース・遊航用の）ヨット。大型帆船。\n(動詞) yachtの直説法現在第三人称単数形: （レース・遊航用の）ヨット。大型帆船。
+YACHTSMAN	(名詞) yachtsmanの訳: ヨット操縦者
+YACHTSMEN	(名詞) yachtsmanの複数形: ヨット操縦者
+YAHOO	(感動詞) yahooの訳: やったー, ヤッホー!\n(名詞) ならず者。我が儘な若者。
+YAHOOS	(yahooの変化形) (感動詞) yahooの訳: やったー, ヤッホー!
+YAK	(名詞) 醜女: （しゅうじょ / しこめ / ぶおんな / ぶす）容貌が醜悪な女性。醜い女。不細工な女。 (ほかに: ヤク, 哄笑)
+YAKKED	(yakの変化形) (名詞) 醜女: （しゅうじょ / しこめ / ぶおんな / ぶす）容貌が醜悪な女性。醜い女。不細工な女。 (ほかに: ヤク, 哄笑)
+YAKKER	(yakの変化形) (名詞) 醜女: （しゅうじょ / しこめ / ぶおんな / ぶす）容貌が醜悪な女性。醜い女。不細工な女。 (ほかに: ヤク, 哄笑)
+YAKKING	(yakの変化形) (名詞) 醜女: （しゅうじょ / しこめ / ぶおんな / ぶす）容貌が醜悪な女性。醜い女。不細工な女。 (ほかに: ヤク, 哄笑)
+YAKS	(yakの変化形) (名詞) 醜女: （しゅうじょ / しこめ / ぶおんな / ぶす）容貌が醜悪な女性。醜い女。不細工な女。 (ほかに: ヤク, 哄笑)
+YAM	(名詞) yamの訳: ヤムイモ
+YAMS	(名詞) "yam" の複数形: ヤムイモ
+YARD	(名詞) yardの訳: 中庭, 囲い地\n(動詞) yardの訳: 囲いに入れる
+YARDED	(yardの変化形) (名詞) yardの訳: 中庭, 囲い地
+YARDING	(yardの変化形) (名詞) yardの訳: 中庭, 囲い地
+YARDS	(yardの変化形) (名詞) yardの訳: 中庭, 囲い地
+YAWN	(動詞) yawnの訳: あくびをする\n(名詞) あくび: （ケンシン、あくび）眠気を催したときに無意識に息を大きく吸い込む又は吸い込もうとする行為。「あくび」も参照。
+YAWNED	(動詞) yawnの過去形・過去分詞: あくびをする
+YAWNER	(名詞) あくびをする人。
+YAWNERS	(名詞) yawnerの複数形: あくびをする人。
+YAWNING	(動詞) yawnの現在分詞: あくびをする\n(名詞) あくびをすること。
+YAWNS	(動詞) yawnの直説法現在第三人称単数形: あくびをする\n(名詞) yawnの複数形: あくびをする
+YEA	(副詞) 然り: そうである（こと）。その通りである（こと）。\n(感動詞) 然り: そうである（こと）。その通りである（こと）。 (ほかに: はい)
+YEAH	(感動詞) yeahの訳: はい, ええ
+YEAR	(名詞) yearの訳: 1年
+YEARBOOK	(名詞) 年鑑: ある分野の一年間の出来事や統計、調査の結果などをまとめた書物。 (ほかに: 年刊の書籍)
+YEARBOOKS	(名詞) "yearbook" の複数形: 年鑑: ある分野の一年間の出来事や統計、調査の結果などをまとめた書物。 (ほかに: 年刊の書籍)
+YEARLIES	(名詞) yearlyの複数形: 年1回の。毎年の。
+YEARLY	(形容詞) 年1回の。毎年の。\n(副詞) 年1回。毎年。
+YEARN	(動詞) 憧れる: 対象に向け、そわそわと落ち着かないくらい、心が引かれる。理想のものとしてあがめる。 (ほかに: 切望する)
+YEARNED	(動詞) yearnの過去形・過去分詞: 憧れる: 対象に向け、そわそわと落ち着かないくらい、心が引かれる。理想のものとしてあがめる。 (ほかに: 切望する)
+YEARNING	(名詞) 憧れ。思慕。\n(動詞) yearnの現在分詞: 憧れる: 対象に向け、そわそわと落ち着かないくらい、心が引かれる。理想のものとしてあがめる。 (ほかに: 切望する)
+YEARNINGS	(名詞) yearningの複数形: 憧れ。思慕。
+YEARNS	(動詞) yearnの直説法現在第三人称単数形: 憧れる: 対象に向け、そわそわと落ち着かないくらい、心が引かれる。理想のものとしてあがめる。 (ほかに: 切望する)
+YEARS	(名詞) yearの複数形: 1年
+YEAS	(名詞) "yea" の複数形: 然り: そうである（こと）。その通りである（こと）。
+YEAST	(名詞) yeastの訳: ⟪泡|あぶく⟫\n(動詞) yeastの訳: 発酵する
+YEASTED	(形容詞) 酵母により発酵した。\n(動詞) yeastの過去形・過去分詞: ⟪泡|あぶく⟫
+YEASTING	(動詞) yeastの現在分詞: ⟪泡|あぶく⟫
+YEASTS	(名詞) yeastの複数形: ⟪泡|あぶく⟫\n(動詞) yeastの直説法現在第三人称単数形: ⟪泡|あぶく⟫
+YELL	(動詞) 怒鳴る。声を荒らげる。叫ぶ。（yell at ...で）...に向かって怒鳴る。
+YELLED	(動詞) yell の過去形・過去分詞形: 怒鳴る。声を荒らげる。叫ぶ。（yell at ...で）...に向かって怒鳴る。
+YELLING	(yellの変化形) (動詞) 怒鳴る。声を荒らげる。叫ぶ。（yell at ...で）...に向かって怒鳴る。
+YELLOW	(名詞) yellowの訳: 黄, 黄色\n(形容詞) yellowの訳: 黄色い, 黄ばんだ
+YELLOWED	(形容詞) yellowedの訳: 黄ばんだ\n(動詞) yellowの過去形・過去分詞: 黄, 黄色
+YELLOWER	(形容詞) "yellow" の比較級形: 黄, 黄色\n(名詞) 黄色に染めるもの。
+YELLOWEST	(形容詞) "yellow" の最上級形: 黄, 黄色
+YELLOWING	(動詞) yellowの動名詞又は現在分詞: 黄, 黄色\n(名詞) yellowingの訳: 黄変
+YELLOWISH	(形容詞) yellowishの訳: 黄みがかった, 黄色を帯びた
+YELLOWLY	(yellowの変化形) (名詞) yellowの訳: 黄, 黄色
+YELLOWS	(名詞) yellowの複数形: 黄, 黄色\n(動詞) yellowの直説法現在第三人称単数形: 黄, 黄色
+YELLOWTAIL	(名詞) yellowtailの訳: ぶり
+YELLOWTAILS	(yellowtailの変化形) (名詞) yellowtailの訳: ぶり
+YELLS	(yellの変化形) (動詞) 怒鳴る。声を荒らげる。叫ぶ。（yell at ...で）...に向かって怒鳴る。
+YEN	(名詞) 円、日本の通貨単位。\n(動詞) 渇望する、欲しくてたまらなくなる。
+YENNED	(動詞) "yen" の過去形・過去分詞: 円、日本の通貨単位。
+YENNING	(動詞) "yen" の動名詞又は現在分詞: 円、日本の通貨単位。
+YENS	(名詞) "yen" の複数形: 円、日本の通貨単位。\n(動詞) "yen" の現在第三人称単数形。
+YEOMAN	(名詞) yeomanの訳: 忠勤
+YEOMEN	(yeomanの変化形) (名詞) yeomanの訳: 忠勤
+YES	(副詞) （肯定形の疑問文等に対して、賛意、同意を示して）はい。そう。\n(感動詞) yesの訳: やったぁ, よぉし
+YESES	(名詞) "yes" の複数形: （肯定形の疑問文等に対して、賛意、同意を示して）はい。そう。\n(動詞) "yes" の現在第三人称単数形。
+YESSED	(動詞) yesの過去形・過去分詞: （肯定形の疑問文等に対して、賛意、同意を示して）はい。そう。
+YESSING	(動詞) yesの動名詞又は現在分詞: （肯定形の疑問文等に対して、賛意、同意を示して）はい。そう。
+YESTERDAY	(名詞) 昨日: 今日より一日前の日。[8世紀～]\n(副詞) yesterdayの訳: 昨日に
+YESTERDAYS	(yesterdayの変化形) (名詞) 昨日: 今日より一日前の日。[8世紀～]
+YESTERNIGHT	(名詞) 昨夜: 昨日の夜。
+YESTERNIGHTS	(yesternightの変化形) (名詞) 昨夜: 昨日の夜。
+YESTERYEAR	(名詞) 去年: 現在の年からみて、ひとつ前の年。 (ほかに: 昨年)
+YESTERYEARS	(yesteryearの変化形) (名詞) 去年: 現在の年からみて、ひとつ前の年。 (ほかに: 昨年)
+YET	(副詞) いまだ: （否定する語句とともに）まだ。 (ほかに: まだ)\n(接続詞) yetの訳: ⟪しかし⟫
+YEW	(名詞) yewの訳: ⟪イチイ|いちい⟫\n(形容詞) イチイでできた。
+YEWS	(名詞) yewの複数形: ⟪イチイ|いちい⟫
+YIELD	(動詞) 齎す: ある状態を引き起こす。 (ほかに: 生じる, 産出する)\n(名詞) yieldの訳: 産出高, 収穫高
+YIELDED	(動詞) yieldの過去形・過去分詞: 齎す: ある状態を引き起こす。 (ほかに: 生じる, 産出する)
+YIELDING	(動詞) yieldの現在分詞: 齎す: ある状態を引き起こす。 (ほかに: 生じる, 産出する)\n(形容詞) すぐに譲歩する。
+YIELDS	(名詞) yieldの複数形: 齎す: ある状態を引き起こす。 (ほかに: 生じる, 産出する)\n(動詞) yieldの直説法現在第三人称単数形: 齎す: ある状態を引き起こす。 (ほかに: 生じる, 産出する)
+YOGA	(名詞) ヨガ: 古代のインドに発祥した伝統的な宗教体系および行法。瑜伽。 (ほかに: ヨーガ)
+YOGAS	(yogaの変化形) (名詞) ヨガ: 古代のインドに発祥した伝統的な宗教体系および行法。瑜伽。 (ほかに: ヨーガ)
+YOGHURT	(名詞) yoghurtの訳: ヨーグルト
+YOGHURTS	(yoghurtの変化形) (名詞) yoghurtの訳: ヨーグルト
+YOGURT	(名詞) yogurtの訳: ヨーグルト
+YOGURTS	(yogurtの変化形) (名詞) yogurtの訳: ヨーグルト
+YOKE	(名詞) yokeの訳: ⟪軛|くびき⟫\n(動詞) yokeの訳: 軛をかける, 軛で繋ぐ
+YOKED	(形容詞) yokedの訳: 軛で繋がれた\n(動詞) yokeの過去形・過去分詞: ⟪軛|くびき⟫
+YOKEFELLOW	(名詞) yokefellowの訳: 仲間
+YOKEFELLOWS	(名詞) yokefellowの複数形: 仲間
+YOKES	(名詞) yokeの複数形: ⟪軛|くびき⟫\n(動詞) yokeの直説法現在第三人称単数形: ⟪軛|くびき⟫
+YOKING	(yokeの変化形) (名詞) yokeの訳: ⟪軛|くびき⟫
+YOLK	(名詞) yolkの訳: 黄身
+YOLKED	(yolkの変化形) (名詞) yolkの訳: 黄身
+YOLKS	(名詞) yolkの複数形: 黄身
+YON	(名詞) yonの訳: ヨン
+YONDER	(名詞) yonderの訳: 彼方
+YOU	(代名詞) 近くにいる人、または対話している相手、書き送る相手。
+YOUNG	(形容詞) youngの訳: ⟪若い|わかい⟫
+YOUNGER	(形容詞) young の比較級。若いほうの。年下のほうの: ⟪若い|わかい⟫
+YOUNGEST	(形容詞) youngの最上級: ⟪若い|わかい⟫\n(名詞) youngestの訳: ⟪末っ子|すえっこ⟫
+YOUNGISH	(形容詞) youngishの訳: まだ若い
+YOUNGS	(youngの変化形) (形容詞) youngの訳: ⟪若い|わかい⟫
+YOUNGSTER	(名詞) 若者: 年の若い人。
+YOUNGSTERS	(名詞) "youngster" の複数形: 若者: 年の若い人。
+YOUR	(代名詞) あなたの: 同等の相手を敬って言う二人称。あなた。
+YOURS	(代名詞) yoursの訳: あなたの物
+YOURSELF	(代名詞) yourselfの訳: あなた 自身, きみ自身
+YOUTH	(名詞) 若さ、年若であること、若々しさ、未熟さ。
+YOUTHFUL	(形容詞) 若々しい: （わかわかしい）いかにも若さを感じさせるさま。
+YOUTHFULLY	(副詞) youthfullyの訳: 若々しく
+YOUTHFULNESS	(名詞) youthfulnessの訳: 若々しさ
+YOUTHFULNESSES	(名詞) "youthfulness" の複数形: 若々しさ
+YOUTHS	(名詞) "youth" の複数形: 若さ、年若であること、若々しさ、未熟さ。
+YOW	(名詞) yoweの異形。\n(感動詞) 痛みを感じた時に発する声。痛い。
+YOWED	(yowの変化形) (名詞) yoweの異形。
+YOWES	(yowの変化形) (名詞) yoweの異形。
+YOWING	(yowの変化形) (名詞) yoweの異形。
+YOWS	(yowの変化形) (名詞) yoweの異形。
+YTTERBIUM	(名詞) イッテルビウム。
+YTTERBIUMS	(名詞) ytterbiumの複数形: イッテルビウム。
+YTTRIUM	(名詞) yttriumの訳: イットリウム
+YTTRIUMS	(yttriumの変化形) (名詞) yttriumの訳: イットリウム
+YUAN	(名詞) yuanの訳: 元, 人民元
+YUANS	(名詞) yuanの複数形: 元, 人民元
+YULE	(名詞) Yuleの異綴。
+YULES	(yuleの変化形) (名詞) Yuleの異綴。

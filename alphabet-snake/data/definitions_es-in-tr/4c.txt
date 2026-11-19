@@ -1,0 +1,1740 @@
+LABERINTO	(ad) labirent: çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı
+LABERINTOS	(laberinto sözcüğünün çekimi) (ad) labirent: çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı
+LABIA	(ad) oyun: bilgisayar oyunu.
+LABIAL	(sıfat) dudaksıl: boğumlanma noktası dudaklarda bulunan
+LABIALES	(labial sözcüğünün çekimi) (sıfat) dudaksıl: boğumlanma noktası dudaklarda bulunan
+LABIALIZACION	(ad) labializacion kelimesinin karşılığı: dudaksıllaşma
+LABIL	(sıfat) kararsız: düzensiz, istikrarsız
+LABIO	(ad) dudak: (mecaz) ağız
+LABIOS	(ad) çoğul çekimi: labio
+LABOR	(ad) görev: Resmî iş; vazife. (ayrıca: vazife, ödev)
+LABORA	(laborar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABORAN	(laborar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABORAR	(eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABORATORIO	(ad) deneylik: eğitim ve araştırma amacıyla, bilimsel çalışmalarla denemelerin yürütüldüğü, yapımı donatımı uygulanan çalışma türüne göre düzenlenmiş yer, laboratuvar (ayrıca: laboratuvar)
+LABORATORIOS	(laboratorio sözcüğünün çekimi) (ad) deneylik: eğitim ve araştırma amacıyla, bilimsel çalışmalarla denemelerin yürütüldüğü, yapımı donatımı uygulanan...
+LABOREO	(ad) çalışma: çalışmak işi, faaliyet (ayrıca: işletme)
+LABOREOS	(laboreo sözcüğünün çekimi) (ad) çalışma: çalışmak işi, faaliyet (ayrıca: işletme)
+LABORES	(laborar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRA	(ad) çalışma: çalışmak işi, faaliyet (ayrıca: işletme)
+LABRABA	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRABAN	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRADOR	(ad) çiftçi: kendi geçimine yönelik olarak çeşitli tarım ve hayvancılık ürünleri üreten bir çiftliği idare eden kişi; dikici, ekinci, rençber
+LABRADORES	(labrador sözcüğünün çekimi) (ad) çiftçi: kendi geçimine yönelik olarak çeşitli tarım ve hayvancılık ürünleri üreten bir çiftliği idare eden kişi;...
+LABRAMOS	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRAN	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRANZA	(ad) çiftlik: tarım yapılan, hayvan yetiştirilen, çalışanlarının da oturması için evler bulunan geniş toprak parçası
+LABRAR	(eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRARA	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRARE	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRAREMOS	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRARON	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRAS	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRASTE	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRE	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABRO	(labrar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABURA	(laburar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABURABA	(laburar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABURANTE	(ad) çalışan: çalışma işini yapan kişi (ayrıca: işçi)
+LABURAR	(eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABURAS	(laburar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LABURE	(laburar sözcüğünün çekimi) (eylem) çalışmak: bir şeyi oluşturmak veya ortaya çıkarmak için emek harcamak, iş yapmak (ayrıca: eser, iş görmek)
+LACERA	(lacerar sözcüğünün çekimi) (eylem) lacerar kelimesinin karşılığı: ⟪biçmek|BİÇMEK⟫
+LACERABA	(lacerar sözcüğünün çekimi) (eylem) lacerar kelimesinin karşılığı: ⟪biçmek|BİÇMEK⟫
+LACERAN	(lacerar sözcüğünün çekimi) (eylem) lacerar kelimesinin karşılığı: ⟪biçmek|BİÇMEK⟫
+LACERAR	(eylem) lacerar kelimesinin karşılığı: ⟪biçmek|BİÇMEK⟫
+LACERO	(lacerar sözcüğünün çekimi) (eylem) lacerar kelimesinin karşılığı: ⟪biçmek|BİÇMEK⟫
+LACHA	(ad) hayâ: utanç (ayrıca: ar, ut)
+LACHE	(ad) hayâ: Er bezi, testis (ayrıca: ar, ut)
+LACHO	(ad) karıcı: karıya, kadına, kıza düşkün kimse, çapkın.
+LACIO	(sıfat) lacio kelimesinin karşılığı: uz
+LACIOS	(lacio sözcüğünün çekimi) (sıfat) lacio kelimesinin karşılığı: uz
+LACONICA	(laconico sözcüğünün çekimi) (sıfat) veciz: Kısa ve etkili ifade veya söz; lakonik.
+LACONICO	(sıfat) veciz: Kısa ve etkili ifade veya söz; lakonik.
+LACRA	(ad) takip: izinden gitme, riayet etme, uyma (ayrıca: alamet)
+LACRAS	(ad) çoğul çekimi: lacra
+LACRES	(ad) çoğul çekimi: lacre
+LACRIMOSA	(lacrimoso sözcüğünün çekimi) (sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LACRIMOSO	(sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LACRIMOSOS	(lacrimoso sözcüğünün çekimi) (sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LACTANCIA	(ad) emzirme: Emzirmek işi.
+LACTANTE	(ad) bebek: Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe. (ayrıca: yavru)
+LACTANTES	(lactante sözcüğünün çekimi) (ad) bebek: Meme emen veya kucakta gezdirilme yaşlarında olan çocuk; bebe. (ayrıca: yavru)
+LACTAR	(eylem) emmek: Uzun süre yararlanmak. (ayrıca: somurmak, soğurmak)
+LACTEA	(lacteo sözcüğünün çekimi) (ad) mandıra: Büyükbaş ve küçükbaş hayvanların süt elde etmek amacıyla beslenip barındırıldığı, süt ve süt ürünlerinin...
+LACTEAS	(lacteo sözcüğünün çekimi) (ad) mandıra: Büyükbaş ve küçükbaş hayvanların süt elde etmek amacıyla beslenip barındırıldığı, süt ve süt ürünlerinin...
+LACTEO	(ad) mandıra: Büyükbaş ve küçükbaş hayvanların süt elde etmek amacıyla beslenip barındırıldığı, süt ve süt ürünlerinin üretildiği çiftlik veya üreticiden satın alınan sütlerle süt ürünleri üretip satan yer.
+LACTEOS	(lacteo sözcüğünün çekimi) (ad) mandıra: Büyükbaş ve küçükbaş hayvanların süt elde etmek amacıyla beslenip barındırıldığı, süt ve süt ürünlerinin...
+LACTO	(lactar sözcüğünün çekimi) (eylem) emmek: Uzun süre yararlanmak. (ayrıca: somurmak, soğurmak)
+LADEA	(ladear sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADEAMOS	(ladear sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADEAR	(eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADEAS	(ladear sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADEE	(ladear sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADEEN	(ladear sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADEO	(ladear sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek, sik)
+LADERA	(ad) yamaç: dağın veya tepenin herhangi bir yanı
+LADERAS	(ladera sözcüğünün çekimi) (ad) yamaç: dağın veya tepenin herhangi bir yanı
+LADINA	(ladino sözcüğünün çekimi) (sıfat) açıkgöz: Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen kimse. (ayrıca: kurnaz, akut)
+LADINO	(sıfat) açıkgöz: Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen kimse. (ayrıca: kurnaz, akut)
+LADINOS	(ladino sözcüğünün çekimi) (sıfat) açıkgöz: Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen kimse. (ayrıca: kurnaz, akut)
+LADITO	(lado sözcüğünün çekimi) (ad) kenar: bir şeyin, bir yerin bitiş kısmı veya yakını, kıyı, yaka (ayrıca: taraf, cihet)
+LADO	(ad) kenar: bir şeyin, bir yerin bitiş kısmı veya yakını, kıyı, yaka (ayrıca: taraf, cihet)
+LADOS	(lado sözcüğünün çekimi) (ad) kenar: bir şeyin, bir yerin bitiş kısmı veya yakını, kıyı, yaka (ayrıca: taraf, cihet)
+LADRA	(ad) hav: Köpeğin çıkardığı ses. (ayrıca: kabuk, havlama)
+LADRABA	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRABAN	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRABAS	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRADOR	(ad) kabuklu: Sünnet olmamış erkek.
+LADRADORA	(ladrador sözcüğünün çekimi) (ad) kabuklu: Sünnet olmamış erkek.
+LADRADORES	(ladrador sözcüğünün çekimi) (ad) kabuklu: Sünnet olmamış erkek.
+LADRAMOS	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRAN	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRAR	(eylem) havlamak: Köpeğin bağırması, ürümek
+LADRARA	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRARAN	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRARAS	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRARE	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRARIA	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRARON	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRAS	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRASTE	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRE	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADREN	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRES	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRIDO	(ad) hav: Köpeğin çıkardığı ses. (ayrıca: kabuk, havlama)
+LADRIDOS	(ladrido sözcüğünün çekimi) (ad) hav: Köpeğin çıkardığı ses. (ayrıca: kabuk, havlama)
+LADRILLO	(ad) tuğla: Balçığın kalıplara dökülüp güneşte kurutulduktan sonra özel ocaklarda pişirilmesiyle yapılan ve duvar örmekte kullanılan yapı malzemesi.
+LADRILLOS	(ladrillo sözcüğünün çekimi) (ad) tuğla: Balçığın kalıplara dökülüp güneşte kurutulduktan sonra özel ocaklarda pişirilmesiyle yapılan ve duvar...
+LADRO	(ladrar sözcüğünün çekimi) (eylem) havlamak: Köpeğin bağırması, ürümek
+LADRON	(ad) haydut: silâhlı soygun yapan kimse, eşkıya, şaki (ayrıca: hırsız, soyguncu)
+LADRONA	(ad) haydut: silâhlı soygun yapan kimse, eşkıya, şaki (ayrıca: soyguncu, harami)
+LADRONAS	(ladron sözcüğünün çekimi) (ad) haydut: silâhlı soygun yapan kimse, eşkıya, şaki (ayrıca: hırsız, soyguncu)
+LADRONES	(ladron sözcüğünün çekimi) (ad) haydut: silâhlı soygun yapan kimse, eşkıya, şaki (ayrıca: hırsız, soyguncu)
+LAGARTIJA	(ad) kertenkele: Uzun vücutlu, sivri kuyruklu, çevik, böcekçil, organ yenilemesi özelliği ile bilinen, küçük sürüngen hayvan; elöpen, (Lacertus).
+LAGARTIJAS	(lagartija sözcüğünün çekimi) (ad) kertenkele: Uzun vücutlu, sivri kuyruklu, çevik, böcekçil, organ yenilemesi özelliği ile bilinen, küçük sürüngen...
+LAGARTO	(ad) kertenkele: Uzun vücutlu, sivri kuyruklu, çevik, böcekçil, organ yenilemesi özelliği ile bilinen, küçük sürüngen hayvan; elöpen, (Lacertus).
+LAGARTOS	(lagarto sözcüğünün çekimi) (ad) kertenkele: Uzun vücutlu, sivri kuyruklu, çevik, böcekçil, organ yenilemesi özelliği ile bilinen, küçük sürüngen...
+LAGAÑA	(ad) uyku: Dış uyaranlara karşı bilincin, bütünüyle veya bir bölümünün yittiği, tepki gücünün zayıfladığı ve her türlü etkinliğin büyük ölçüde azaldığı dinlenme durumu; hab (ayrıca: rüya)
+LAGAÑAS	(lagaña sözcüğünün çekimi) (ad) uyku: Dış uyaranlara karşı bilincin, bütünüyle veya bir bölümünün yittiği, tepki gücünün zayıfladığı ve her türlü...
+LAGO	(ad) göl: coğrafya, jeoloji
+LAGOS	(lago sözcüğünün çekimi) (ad) göl: coğrafya, jeoloji
+LAGRIMA	(ad) gözyaşı: gözyaşı bezlerinin salgıladığı, bazı etkilerle akan duru sıvı damlacıklarından her biri, yaş, abre, ab-ı çeşm (ayrıca: yaş)
+LAGRIMAS	(lagrima sözcüğünün çekimi) (ad) gözyaşı: gözyaşı bezlerinin salgıladığı, bazı etkilerle akan duru sıvı damlacıklarından her biri, yaş, abre, ab-ı...
+LAGUNA	(ad) göl: coğrafya, jeoloji (ayrıca: gölet)
+LAGUNAS	(laguna sözcüğünün çekimi) (ad) göl: coğrafya, jeoloji (ayrıca: gölet)
+LAICO	(ad) ilim: bilim
+LAICOS	(laico sözcüğünün çekimi) (ad) ilim: bilim
+LAMA	(ad) lama kelimesinin karşılığı: ⟪çepel|ÇEPEL⟫
+LAMAS	(lama sözcüğünün çekimi) (ad) lama kelimesinin karşılığı: ⟪çepel|ÇEPEL⟫
+LAMBEL	(ad) lambel kelimesinin karşılığı: ⟪etiket|ETİKET⟫
+LAMENTA	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTABA	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTABAMOS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTABAN	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTABAS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTABLEMENTE	(zarf) maalesef: ne yazık ki
+LAMENTAIS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTAMOS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTAN	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTAR	(eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARA	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARAN	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARAS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARE	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTAREIS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTAREMOS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARIA	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARIAMOS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARIAN	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARIAS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTARON	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTAS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTASE	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTASTE	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTE	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTEIS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTEMOS	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTEN	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTES	(lamentar sözcüğünün çekimi) (eylem) acınmak: başkasının hesabına üzülmek, yazıklanmak, yerinmek (ayrıca: üzülmek, pişman olmak)
+LAMENTO	(ad) lamento kelimesinin karşılığı: ⟪ağıt|AĞIT⟫
+LAMENTOS	(lamento sözcüğünün çekimi) (ad) lamento kelimesinin karşılığı: ⟪ağıt|AĞIT⟫
+LAMENTOSO	(sıfat) mahzun: üzgün (ayrıca: kederli)
+LAMIA	(ad) lamia kelimesinin karşılığı: kel balık
+LAMINA	(ad) çarşaf: yatağın üstüne serilen veya yorgan kaplanan boa örtü (ayrıca: varak, sayfa)
+LAMPARA	(ad) lamba: Petrol gibi yanıcı bir madde yakarak veya elektrik akımıyla içindeki teller akkor durumuna geçerek ışık veren alet.
+LAMPARAS	(lampara sözcüğünün çekimi) (ad) lamba: Petrol gibi yanıcı bir madde yakarak veya elektrik akımıyla içindeki teller akkor durumuna geçerek ışık...
+LAMPARILLA	(ad) lamparilla kelimesinin karşılığı: acı kavak, dağ kavağı, titrek kavak
+LAMPARILLAS	(lamparilla sözcüğünün çekimi) (ad) lamparilla kelimesinin karşılığı: acı kavak, dağ kavağı, titrek kavak
+LAMPARON	(ad) leke: kirliliği gösteren iz (ayrıca: boya)
+LAMPIÑA	(lampiño sözcüğünün çekimi) (sıfat) sakalsız: sakalı olmayan
+LAMPIÑAS	(lampiño sözcüğünün çekimi) (sıfat) sakalsız: sakalı olmayan
+LAMPIÑO	(sıfat) sakalsız: sakalı olmayan
+LAMPIÑOS	(lampiño sözcüğünün çekimi) (sıfat) sakalsız: sakalı olmayan
+LANA	(ad) lana kelimesinin karşılığı: ⟪yün|YÜN⟫
+LANADA	(ad) lanada kelimesinin karşılığı: ⟪aldanış|ALDANIŞ⟫
+LANAS	(ad) çoğul çekimi: lana
+LANCE	(ad) durum: bir şeyin içinde bulunduğu içindeların hepsi, hâl, keyfiyet, mevki, pozisyon, vaziyet (ayrıca: hâlet, hâl)
+LANCEIS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANCEMOS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANCEN	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANCEOLADO	(sıfat) lanceolado kelimesinin karşılığı: mızrak şeklinde
+LANCES	(lance sözcüğünün çekimi) (ad) durum: bir şeyin içinde bulunduğu içindeların hepsi, hâl, keyfiyet, mevki, pozisyon, vaziyet (ayrıca: hâlet, hâl)
+LANCHA	(ad) tekne: Su üzerinde kalmak ve hareket etmek amacıyla inşa edilen araçlara verilen genel ad, bot (ayrıca: bot, motorbot)
+LANCHAS	(lancha sözcüğünün çekimi) (ad) tekne: Su üzerinde kalmak ve hareket etmek amacıyla inşa edilen araçlara verilen genel ad, bot (ayrıca: bot,...
+LANDA	(ad) ova: çevrelerine göre çukurda kalmış, çoğunlukla alüvyonla örtülü, eğimi az, akarsuların derine gömülmemiş olduğu, genellikle geniş veya dar düzlük, yazı, düz, düzlük (ayrıca: düz, düzlem)
+LANGOSTA	(ad) çekirge: düz kanatlılardan (Orthoptera), uzun olan arka bacaklarıyla uzağa sıçrayabilen, birçok türleri olan bir böcek
+LANGOSTAS	(langosta sözcüğünün çekimi) (ad) çekirge: düz kanatlılardan (Orthoptera), uzun olan arka bacaklarıyla uzağa sıçrayabilen, birçok türleri olan bir...
+LANGOSTERA	(ad) langostera kelimesinin karşılığı: ⟪cağlık|CAĞLIK⟫
+LANGOSTINO	(ad) langostino kelimesinin karşılığı: ⟪karides|KARİDES⟫
+LANGOSTINOS	(langostino sözcüğünün çekimi) (ad) langostino kelimesinin karşılığı: ⟪karides|KARİDES⟫
+LANGUIDA	(languido sözcüğünün çekimi) (sıfat) baygın: yığılmış, dökülmüş
+LANGUIDAS	(languido sözcüğünün çekimi) (sıfat) baygın: yığılmış, dökülmüş
+LANGUIDECES	(ad) çoğul çekimi: languidez
+LANGUIDO	(sıfat) baygın: yığılmış, dökülmüş
+LANGUIDOS	(languido sözcüğünün çekimi) (sıfat) baygın: yığılmış, dökülmüş
+LANOSO	(sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+LANTANIDO	(sıfat) lantanit: Birbirine çok yakın kimyasal özellikler gösteren, atom numarası 57-71 arasında olan, seyrek bulunan elementlerin genel adı
+LANTANIDOS	(lantanido sözcüğünün çekimi) (sıfat) lantanit: Birbirine çok yakın kimyasal özellikler gösteren, atom numarası 57-71 arasında olan, seyrek bulunan...
+LANTANO	(ad) lantan: Atom numarası 57 olan bir kimyasal element
+LANUDA	(lanudo sözcüğünün çekimi) (sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+LANUDAS	(lanudo sözcüğünün çekimi) (sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+LANUDO	(sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+LANUDOS	(lanudo sözcüğünün çekimi) (sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+LANUGINOSO	(sıfat) kıllı: Kılı olan, kıl ile kaplı. (ayrıca: kürklü, postlu)
+LANZA	(ad) lanza kelimesinin karşılığı: ⟪mızrak|MIZRAK⟫
+LANZABA	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZABAMOS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZABAN	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZABAS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZAD	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZADO	(sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+LANZADOS	(lanzado sözcüğünün çekimi) (sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+LANZAIS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZALLAMAS	(ad) lanzallamas kelimesinin karşılığı: alev makinesi
+LANZAMIENTO	(ad) bırakım: bırakma işi (ayrıca: serbest bırakma)
+LANZAMIENTOS	(lanzamiento sözcüğünün çekimi) (ad) bırakım: bırakma işi (ayrıca: serbest bırakma)
+LANZAMOS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZAN	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZAPIEDRAS	(ad) mancınık: İpekçi çıkrığı
+LANZAR	(eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARA	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARAMOS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARAN	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARAS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARE	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZAREMOS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARIA	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARIAMOS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARIAN	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARIAS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZARON	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZAS	(ad) çoğul çekimi: lanza
+LANZASE	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZASTE	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZASTEIS	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LANZO	(lanzar sözcüğünün çekimi) (eylem) atmak: Bir şeyi yere doğru bırakmak.
+LAOS	(sıfat) lao sözcüğünün çoğul çekimi
+LAPA	(ad) lapa kelimesinin karşılığı: çin şapkası
+LAPAS	(lapa sözcüğünün çekimi) (ad) lapa kelimesinin karşılığı: çin şapkası
+LAPICES	(ad) çoğul çekimi: lápiz
+LAPIZ	(ad) kalem: yazma aletleri
+LAPSO	(ad) sürçme: Sürçmek işi
+LAPSOS	(lapso sözcüğünün çekimi) (ad) sürçme: Sürçmek işi
+LAPSUS	(ad) lapsus kelimesinin karşılığı: ⟪sürçme|SÜRÇME⟫
+LAPTOP	(ad) dizüstü bilgisayar: Bilgisayarın her türlü donanımı ile küçültülerek taşınabilir duruma getirilmiş biçimi; dizüstü, laptop.
+LAR	(ad) ocak: mutfak eşyası (ayrıca: şömine)
+LARDO	(ad) içyağı: geviş getiren hayvanların karın boşluğunda iç organlarını saran kalın yağ, şahım
+LARDOSO	(sıfat) yağlı: Üzerinde veya içinde yağı olan. (ayrıca: şişko, şişman)
+LARES	(ad) bura: bu yer
+LARGA	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGABA	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGABAMOS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGABAN	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGABAS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGAD	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGADA	(ad) başlangıç: ön söz, giriş, mukaddime
+LARGAIS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGAMENTE	(zarf) tamamen: bütün olarak, büsbütün (ayrıca: adamakıllı, üzerinde)
+LARGAMOS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGAN	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGAOS	(largarse sözcüğünün çekimi) (eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+LARGAR	(eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARA	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARAIS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARAMOS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARAN	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARAS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARE	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGAREIS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGAREMOS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARIA	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARIAMOS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARIAS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARON	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGARSE	(eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+LARGAS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGASE	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGASES	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGASTE	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGATE	(largarse sözcüğünün çekimi) (eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+LARGAVISTA	(ad) dürbün: uzaktaki cisimlerin görüntülerini büyütmeye veya yaklaştırmaya yarayan, objektif ve oküler adlı iki mercekten oluşan optik alet, bakaç
+LARGAVISTAS	(ad) dürbün: uzaktaki cisimlerin görüntülerini büyütmeye veya yaklaştırmaya yarayan, objektif ve oküler adlı iki mercekten oluşan optik alet, bakaç
+LARGO	(sıfat) uzun: Uzun süre devam edecek biçimde, uzun süre.
+LARGOS	(largo sözcüğünün çekimi) (sıfat) uzun: Uzun süre devam edecek biçimde, uzun süre.
+LARGUE	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGUEIS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGUEMONOS	(largarse sözcüğünün çekimi) (eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+LARGUEMOS	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGUEN	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGUENSE	(largarse sözcüğünün çekimi) (eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+LARGUES	(largar sözcüğünün çekimi) (eylem) salıvermek: bırakmak, koyuvermek, serbest bırakmak, azat etmek (ayrıca: koymak, tahliye etmek)
+LARGUESE	(largarse sözcüğünün çekimi) (eylem) çıkmak: İçeriden dışarıya varmak, gitmek. (ayrıca: ayrılmak)
+LARINGE	(ad) gırtlak: Boynun ön soluk borusunun üst kısmında yer alan bir solunum ve ses organı, ümük, imik, hançere, larinks, ümük.
+LARINGES	(laringe sözcüğünün çekimi) (ad) gırtlak: Boynun ön soluk borusunun üst kısmında yer alan bir solunum ve ses organı, ümük, imik, hançere, larinks,...
+LARVA	(ad) kurtçuk: Bazı hayvanların, özellikle böceklerin yumurtadan çıktıktan sonra, krizalit veya ergin karakterlerini kazanmadan önceki evresi; sürfe, larva.
+LARVADO	(sıfat) kapalı: Kapalı tribün
+LARVAS	(larva sözcüğünün çekimi) (ad) kurtçuk: Bazı hayvanların, özellikle böceklerin yumurtadan çıktıktan sonra, krizalit veya ergin karakterlerini...
+LAS	(zamir) onlar: (kişi adılı): o zamirinin çoğulu
+LASCAR	(eylem) düşmek: uğramak, kapılmak
+LASCARES	(lascar sözcüğünün çekimi) (eylem) düşmek: uğramak, kapılmak
+LASCAS	(lascar sözcüğünün çekimi) (eylem) düşmek: uğramak, kapılmak
+LASCIVA	(lascivo sözcüğünün çekimi) (sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LASCIVAS	(lascivo sözcüğünün çekimi) (sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LASCIVIA	(ad) şehvet: Aşırı istek.
+LASCIVO	(sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LASCIVOS	(lascivo sözcüğünün çekimi) (sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LASER	(ad) lazer: Çok güçlü pırıltılar oluşturan, değişik alanlarda kullanılan ışık kaynağı
+LASITUD	(ad) yorgunluk: çalışma vb. sebeplerle bireyin ruh ve beden etkinlikleri açısından verimlilik düzeyinin azalması, bitaplık
+LASTIMABA	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMABAMOS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMABAN	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMABAS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMAMOS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMAN	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMAR	(eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARA	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARAN	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARAS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARE	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMAREMOS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARIA	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARIAMOS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARIAN	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARIAS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMARON	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMAS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMASE	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMASTE	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIME	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMEIS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMEMOS	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMEN	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMERA	(lastimero sözcüğünün çekimi) (sıfat) zararlı: zarar veren, zararı dokunan
+LASTIMERAS	(lastimero sözcüğünün çekimi) (sıfat) zararlı: zarar veren, zararı dokunan
+LASTIMERO	(sıfat) zararlı: zarar veren, zararı dokunan
+LASTIMEROS	(lastimero sözcüğünün çekimi) (sıfat) zararlı: zarar veren, zararı dokunan
+LASTIMES	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMO	(lastimar sözcüğünün çekimi) (eylem) acıtmak: Ağrı, sızı duyulmasına sebep olmak (ayrıca: incinmek, yara açmak)
+LASTIMOSAMENTE	(zarf) maalesef: ne yazık ki
+LASTRE	(ad) lastre kelimesinin karşılığı: ⟪külfet|KÜLFET⟫, ⟪yüküm|YÜKÜM⟫, ⟪yük|YÜK⟫
+LASTRES	(ad) çoğul çekimi: lastre
+LATA	(ad) kalay: Atom numarası 50, atom ağırlığı 118,7, yoğunluğu 7,29 olan, 232 °C'de eriyen, gümüş beyazlığında, kolay işlenebilen, yumuşak bir element (simgesi Sn). (ayrıca: kutu, teneke kutu)
+LATAN	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATAS	(lata sözcüğünün çekimi) (ad) kalay: Atom numarası 50, atom ağırlığı 118,7, yoğunluğu 7,29 olan, 232 °C'de eriyen, gümüş beyazlığında, kolay...
+LATE	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATEN	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATENTE	(sıfat) kapalı: Kapalı tribün
+LATENTES	(latente sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+LATERAL	(sıfat) sızıcı: sızma niteliği olan
+LATERALES	(lateral sözcüğünün çekimi) (sıfat) sızıcı: sızma niteliği olan
+LATERO	(sıfat) sıkıcı: iç sıkan, can sıkan, tedirgin eden
+LATES	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATEX	(ad) lateks: Papatya, sütleğen vb. bitkilerin genellikle süt görünüşünde olan öz suyu.
+LATIA	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIAN	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIERA	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIESE	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIGO	(ad) latigo kelimesinin karşılığı: ⟪kamçı|KAMÇI⟫, ⟪kırbaç|KIRBAÇ⟫
+LATIGOS	(latigo sözcüğünün çekimi) (ad) latigo kelimesinin karşılığı: ⟪kamçı|KAMÇI⟫, ⟪kırbaç|KIRBAÇ⟫
+LATIO	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIR	(eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIRA	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIRAN	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATIRIA	(latir sözcüğünün çekimi) (eylem) vurmak: Desteklemek, dayamak. (ayrıca: çarpmak)
+LATITUD	(ad) latitud kelimesinin karşılığı: ⟪enlem|ENLEM⟫
+LATITUDES	(latitud sözcüğünün çekimi) (ad) latitud kelimesinin karşılığı: ⟪enlem|ENLEM⟫
+LATON	(ad) pirinç: pirinç alaşımdan yapılmış
+LATOSA	(latoso sözcüğünün çekimi) (sıfat) sıkıcı: iç sıkan, can sıkan, tedirgin eden (ayrıca: sinir)
+LATOSO	(sıfat) sıkıcı: iç sıkan, can sıkan, tedirgin eden (ayrıca: sinir)
+LATOSOS	(latoso sözcüğünün çekimi) (sıfat) sıkıcı: iç sıkan, can sıkan, tedirgin eden (ayrıca: sinir)
+LAUCHA	(ad) fare: Ufak tefek kimse.
+LAUD	(ad) laud kelimesinin karşılığı: ⟪lavta|LAVTA⟫
+LAUDE	(ad) ihtişam: debdebe, görkem (ayrıca: övgü)
+LAUDO	(ad) karar: Herhangi bir durum için tartışılarak verilen kesin yargı; hüküm, mahkeme kararı]]. (ayrıca: hüküm)
+LAUREL	(ad) defne: defnegillerden, yaprakları güzel kokulu ve yaz kış yeşil olan bir ağaç, develik veya Akdeniz defnesi
+LAURELES	(laurel sözcüğünün çekimi) (ad) defne: defnegillerden, yaprakları güzel kokulu ve yaz kış yeşil olan bir ağaç, develik veya Akdeniz defnesi
+LAURENCIO	(ad) lorentiyum: Atom numarası 103 olan bir kimyasal element (ayrıca: lavrensiyum)
+LAVA	(ad) lav: Yanardağların püskürmesi ile yeryüzüne çıkan, planemonun derinliklerinden gelen, soğuyunca katılaşan erimiş, kızgın maddeler
+LAVABA	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVABAMOS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVABAN	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVABAS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVABO	(ad) lavabo: (mecaz) Lokanta, gar vb. yerlerde bu düzenin bulunduğu yer.
+LAVABOS	(lavabo sözcüğünün çekimi) (ad) lavabo: (mecaz) Lokanta, gar vb. yerlerde bu düzenin bulunduğu yer.
+LAVACOPAS	(ad) lavacopas kelimesinin karşılığı: bulaşık makinesi
+LAVAD	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVADA	(ad) temizlikçilik: temizlikçi olma durumu (ayrıca: arıklaşma)
+LAVADAS	(lavado sözcüğünün çekimi) (ad) çamaşır: Kirli eşyaları yıkama işi.
+LAVADERO	(ad) çamaşır: İç giysisi.
+LAVADEROS	(lavadero sözcüğünün çekimi) (ad) çamaşır: İç giysisi.
+LAVADO	(ad) çamaşır: Kirli eşyaları yıkama işi.
+LAVADORA	(ad) lavadora kelimesinin karşılığı: çamaşır makinesi
+LAVADOS	(lavado sözcüğünün çekimi) (ad) çamaşır: Kirli eşyaları yıkama işi.
+LAVAIS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVAMANOS	(ad) bat: kurşun boruların ağzını açmakta kullanılan, şimşirden yapılmış, ucu sivri takoz türü (ayrıca: batış)
+LAVAMOS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVAN	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVANDA	(ad) lavanta: lavanta çiçeğinden yapılan ispirtolu esans
+LAVANDAS	(lavanda sözcüğünün çekimi) (ad) lavanta: lavanta çiçeğinden yapılan ispirtolu esans
+LAVANDERIA	(ad) çamaşır: Kirli eşyaları yıkama işi.
+LAVANDINA	(ad) lavandina kelimesinin karşılığı: çamaşır suyu
+LAVAPLATOS	(ad) lavaplatos kelimesinin karşılığı: bulaşık makinesi
+LAVAR	(eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARA	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARAMOS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARAN	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARAS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARE	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVAREIS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVAREMOS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARIA	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARIAN	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARIAS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVARON	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVAS	(lava sözcüğünün çekimi) (ad) lav: Yanardağların püskürmesi ile yeryüzüne çıkan, planemonun derinliklerinden gelen, soğuyunca katılaşan erimiş,...
+LAVASE	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVASEN	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVASES	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVASTE	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVATIVA	(ad) lavativa kelimesinin karşılığı: ⟪lavman|LAVMAN⟫
+LAVATIVAS	(lavativa sözcüğünün çekimi) (ad) lavativa kelimesinin karşılığı: ⟪lavman|LAVMAN⟫
+LAVATORIO	(ad) lavabo: Üzerinde su muslukları bulunan, porselen, emaye, sac vb.nden yapılmış, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya.
+LAVATORIOS	(lavatorio sözcüğünün çekimi) (ad) lavabo: Üzerinde su muslukları bulunan, porselen, emaye, sac vb.nden yapılmış, el, yüz, bulaşık yıkamaya yarar,...
+LAVAVAJILLAS	(ad) lavavajillas kelimesinin karşılığı: bulaşık makinesi
+LAVEIS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVEMOS	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVEN	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVES	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAVO	(lavar sözcüğünün çekimi) (eylem) yıkamak: Su veya başka bir sıvı kullanarak bir şeyi temizlemek
+LAWRENCIO	(ad) lawrencio kelimesinin karşılığı: ⟪lorentiyum|LORENTİYUM⟫
+LAXO	(sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LAXOS	(laxo sözcüğünün çekimi) (sıfat) gevşek: sıkı veya gergin olmayan, gevşemiş olan
+LAYA	(ad) tip: çeşit, tür (ayrıca: nev, tarz)
+LAZADA	(ad) yay: ok atmaya yarayan, iki ucu arasına kiriş gerilmiş, eğri ağaç veya metal çubuk (ayrıca: pruva, çene)
+LAZARILLO	(ad) rehber: kılavuz (ayrıca: kılavuz)
+LAZARILLOS	(lazarillo sözcüğünün çekimi) (ad) rehber: kılavuz (ayrıca: kılavuz)
+LAZO	(ad) yay: ok atmaya yarayan, iki ucu arasına kiriş gerilmiş, eğri ağaç veya metal çubuk (ayrıca: pruva, çene)
+LAZOS	(lazo sözcüğünün çekimi) (ad) yay: ok atmaya yarayan, iki ucu arasına kiriş gerilmiş, eğri ağaç veya metal çubuk (ayrıca: pruva, çene)
+LEA	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEAIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEAL	(sıfat) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat (ayrıca: uz, namuslu)
+LEALES	(leal sözcüğünün çekimi) (sıfat) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat (ayrıca: uz, namuslu)
+LEALTAD	(ad) vefa: sevgiyi sürdürme, sevgi bağlılığı
+LEALTADES	(lealtad sözcüğünün çekimi) (ad) vefa: sevgiyi sürdürme, sevgi bağlılığı
+LEAMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEAS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEASING	(ad) kiralama: Kiralamak işi
+LEBREL	(ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık gibi işler için beslenen memeli hayvan; kapik it, gölbez.
+LEBRELES	(lebrel sözcüğünün çekimi) (ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık...
+LECCION	(ad) ders: ders bilgisi aktarımı için ayrılan süre
+LECCIONES	(leccion sözcüğünün çekimi) (ad) ders: ders bilgisi aktarımı için ayrılan süre
+LECHA	(ad) süt: Erkek balığın tohumu. (ayrıca: balık sütü)
+LECHAR	(eylem) emmek: Dudak, dil ve soluk yardımıyla bir şeyi içine çekmek; somurmak (ayrıca: somurmak, soğurmak)
+LECHE	(ad) süt: Kadınların ve memeli dişi hayvanların yavrularını besledikleri, memelerinden gelen, besin değeri yüksek beyaz sıvı.
+LECHERA	(ad) lechera kelimesinin karşılığı: [[]]
+LECHERAS	(lechero sözcüğünün çekimi) (ad) sütçü: süt satan kimse
+LECHERIA	(ad) mandıra: Büyükbaş ve küçükbaş hayvanların süt elde etmek amacıyla beslenip barındırıldığı, süt ve süt ürünlerinin üretildiği çiftlik veya üreticiden satın alınan sütlerle süt ürünleri üretip satan yer.
+LECHERO	(ad) sütçü: süt satan kimse\n(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)
+LECHEROS	(lechero sözcüğünün çekimi) (ad) sütçü: süt satan kimse
+LECHES	(ad) leche sözcüğünün çoğul çekimi: süt
+LECHETREZNA	(ad) japon kaktüsü: sütleğengillerden, yaprak sap ve köklerinde süt görünüşlü, kekre ve yakıcı bir öz su bulunan, verdiği öz su türlerine göre hekimlikte ve sanayide kullanılan, yedi yüz kadar türü bilinen, bir veya çok yıllık bir bitki. (ayrıca: sütleğen)
+LECHITA	(ad) meni: Boşalma sonucu erkeklik organından gelen ve spermleri barındıran; beyaz, yoğun ve hafif yapışkan bir sıvı; er suyu, bel, bel suyu, atmık, dikel, sperm, sperma.
+LECHO	(ad) yatak: dinlenme, istirahat, uyuma v.s. amaçlarla üzerine veya içine yatılan eşya, döşek (ayrıca: döşek)
+LECHON	(ad) emzirme: Emzirmek işi. (ayrıca: mozak, domuz yavrusu)
+LECHONA	(lechon sözcüğünün çekimi) (ad) emzirme: Emzirmek işi. (ayrıca: mozak, domuz yavrusu)
+LECHONES	(lechon sözcüğünün çekimi) (ad) emzirme: Emzirmek işi. (ayrıca: mozak, domuz yavrusu)
+LECHOS	(lecho sözcüğünün çekimi) (ad) yatak: dinlenme, istirahat, uyuma v.s. amaçlarla üzerine veya içine yatılan eşya, döşek (ayrıca: döşek)
+LECHOSO	(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)\n(ad) lechoso kelimesinin karşılığı: ⟪papaya|PAPAYA⟫
+LECHOSOS	(lechoso sözcüğünün çekimi) (sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)
+LECHUGA	(ad) marul: Birleşikgillerden, geniş ve uzun olan yeşil yaprakları taze olarak yenilen bir bitki, (Lactuca sativa).
+LECHUGAS	(ad) çoğul çekimi: lechuga
+LECHUZA	(ad) baykuş: başında, kulak yerinde iki sorgucu bulunan, yırtıcı gece kuşlarının genel adı
+LECHUZAS	(lechuza sözcüğünün çekimi) (ad) baykuş: başında, kulak yerinde iki sorgucu bulunan, yırtıcı gece kuşlarının genel adı
+LECTOR	(ad) okuyucu: sürekli olarak gazete, dergi vb okuyan, okur, kari (ayrıca: okur, kari)
+LECTURA	(ad) kıraat: okuma (ayrıca: okuma)
+LECTURAS	(lectura sözcüğünün çekimi) (ad) kıraat: okuma (ayrıca: okuma)
+LEE	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEED	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEEIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEEMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEEN	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEER	(eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERA	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERAN	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERAS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERE	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEEREIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEEREMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERIA	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERIAMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERIAN	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEERIAS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEES	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEGA	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGABA	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGAJO	(ad) dosya: bu gibi belgelerin toplandığı kartondan kap (ayrıca: törpü, eğe)
+LEGAJOS	(legajo sözcüğünün çekimi) (ad) dosya: bu gibi belgelerin toplandığı kartondan kap (ayrıca: törpü, eğe)
+LEGAL	(sıfat) meşru: kanunî, yasal (ayrıca: yasal, kanuni)
+LEGALES	(legal sözcüğünün çekimi) (sıfat) meşru: kanunî, yasal (ayrıca: yasal, kanuni)
+LEGALISTA	(ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LEGALISTAS	(legalista sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LEGALMENTE	(zarf) kanunen: yasa gereğince, yasal olarak
+LEGAMO	(ad) çepel: kir, bulaşık, çamur, pislik (ayrıca: mil)
+LEGAMOS	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGAN	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGAR	(eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGARA	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGARE	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGAREMOS	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGARIA	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGARON	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGAS	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGASTE	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGAÑA	(ad) kum: jeoloji, madencilik (ayrıca: çapak)
+LEGAÑAS	(legaña sözcüğünün çekimi) (ad) kum: jeoloji, madencilik (ayrıca: çapak)
+LEGENDARIO	(sıfat) efsanevi: efsanelerde geçen, kendisi için efsaneler düzülen veya efsaneyi andırır nitelikte olan, menkıbevi
+LEGENDARIOS	(legendario sözcüğünün çekimi) (sıfat) efsanevi: efsanelerde geçen, kendisi için efsaneler düzülen veya efsaneyi andırır nitelikte olan, menkıbevi
+LEGIONARIA	(legionario sözcüğünün çekimi) (ad) legionario kelimesinin karşılığı: paralı asker
+LEGIONARIO	(ad) legionario kelimesinin karşılığı: paralı asker
+LEGIONARIOS	(legionario sözcüğünün çekimi) (ad) legionario kelimesinin karşılığı: paralı asker
+LEGISLADOR	(ad) legislador kelimesinin karşılığı: yasa koyucu
+LEGISLADORA	(ad) legisladora kelimesinin karşılığı: yasa koyucu
+LEGISLADORES	(legislador sözcüğünün çekimi) (ad) legislador kelimesinin karşılığı: yasa koyucu
+LEGISLATIVA	(legislativo sözcüğünün çekimi) (sıfat) legislativo kelimesinin karşılığı: kanun koyucu
+LEGISLATIVAS	(legislativo sözcüğünün çekimi) (sıfat) legislativo kelimesinin karşılığı: kanun koyucu
+LEGISLATIVO	(sıfat) legislativo kelimesinin karşılığı: kanun koyucu
+LEGISLATIVOS	(legislativo sözcüğünün çekimi) (sıfat) legislativo kelimesinin karşılığı: kanun koyucu
+LEGITIMIDAD	(ad) haklılık: Haklı olma durumu
+LEGITIMO	(sıfat) yasal: yasanın, dinin ve kamu vicdanının doğru bulduğu, yasalara uygun, kanuni, meşru, legal
+LEGITIMOS	(legitimo sözcüğünün çekimi) (sıfat) yasal: yasanın, dinin ve kamu vicdanının doğru bulduğu, yasalara uygun, kanuni, meşru, legal
+LEGO	(sıfat) terbiyesiz: terbiyesi olmayan (ayrıca: cahil, habersiz)
+LEGOS	(lego sözcüğünün çekimi) (sıfat) terbiyesiz: terbiyesi olmayan (ayrıca: cahil, habersiz)
+LEGUA	(ad) fersah: (mecaz) Çok uzun mesafe
+LEGUAS	(legua sözcüğünün çekimi) (ad) fersah: (mecaz) Çok uzun mesafe
+LEGUE	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGUEN	(legar sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+LEGUMBRE	(ad) legumbre kelimesinin karşılığı: ⟪sebze|SEBZE⟫
+LEGUMBRES	(legumbre sözcüğünün çekimi) (ad) legumbre kelimesinin karşılığı: ⟪sebze|SEBZE⟫
+LEIA	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEIAIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEIAMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEIAN	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEIAS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEIDA	(ad) okuma: okumak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: kıraat)
+LEIMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEISTE	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEISTEIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEJANA	(lejano sözcüğünün çekimi) (sıfat) içerlek: yanındakilerden daha içeride, daha geride bulunan (ayrıca: ırak)
+LEJANAS	(lejano sözcüğünün çekimi) (sıfat) içerlek: yanındakilerden daha içeride, daha geride bulunan (ayrıca: ırak)
+LEJANIA	(ad) ara: İki şeyi birbirinden ayıran uzaklık; çatlak, mesafe. (ayrıca: mesafe, uzaklık)
+LEJANIAS	(lejania sözcüğünün çekimi) (ad) ara: İki şeyi birbirinden ayıran uzaklık; çatlak, mesafe. (ayrıca: mesafe, uzaklık)
+LEJANO	(sıfat) içerlek: yanındakilerden daha içeride, daha geride bulunan (ayrıca: ırak)
+LEJANOS	(lejano sözcüğünün çekimi) (sıfat) içerlek: yanındakilerden daha içeride, daha geride bulunan (ayrıca: ırak)
+LEJIA	(ad) lejia kelimesinin karşılığı: ⟪baz|BAZ⟫
+LEJOS	(sıfat) uzak: Yakın olmayan yer.
+LELO	(sıfat) dilsiz: dili olmama durumu (ayrıca: alık, lal)
+LELOS	(lelo sözcüğünün çekimi) (sıfat) dilsiz: dili olmama durumu (ayrıca: alık, lal)
+LEMA	(ad) motto: bir kimlik, grup, örgüt veya kurumun amaç ve araçlarını genel olarak tanımlayan bir deyiş veya sözcük listesine verilen isim, slogan
+LEMAS	(lema sözcüğünün çekimi) (ad) motto: bir kimlik, grup, örgüt veya kurumun amaç ve araçlarını genel olarak tanımlayan bir deyiş veya sözcük...
+LENCERIA	(ad) çamaşır: Kirli eşyaları yıkama işi.
+LENGUA	(ad) dil: ağız boşluğunda tatmaya, yutkunmaya, sesleri boğumlamaya yarayan etli, hareketli, uzun organ, tat alma organı
+LENGUADO	(ad) taban: Üstü kapalı bir yerin gezinilen, ayakla basılan yüzü; zemin, tavan karşıtı (ayrıca: ayak tabanı, dil balığı)
+LENGUADOS	(lenguado sözcüğünün çekimi) (ad) taban: Üstü kapalı bir yerin gezinilen, ayakla basılan yüzü; zemin, tavan karşıtı (ayrıca: ayak tabanı, dil balığı)
+LENGUAJE	(ad) dil: insanların düşündüklerini ve duyduklarını bildirmek için kelimelerle veya işaretlerle yaptıkları anlaşma
+LENGUAJES	(lenguaje sözcüğünün çekimi) (ad) dil: insanların düşündüklerini ve duyduklarını bildirmek için kelimelerle veya işaretlerle yaptıkları anlaşma
+LENGUAS	(lengua sözcüğünün çekimi) (ad) dil: ağız boşluğunda tatmaya, yutkunmaya, sesleri boğumlamaya yarayan etli, hareketli, uzun organ, tat alma organı
+LENGUETA	(ad) lengueta kelimesinin karşılığı: ⟪sekme|SEKME⟫
+LENGUETAS	(lengueta sözcüğünün çekimi) (ad) lengueta kelimesinin karşılığı: ⟪sekme|SEKME⟫
+LENINISMO	(ad) leninismo kelimesinin karşılığı: leninizm, lenincilik
+LENINISTA	(sıfat) leninista kelimesinin karşılığı: leninci
+LENINISTAS	(leninista sözcüğünün çekimi) (sıfat) leninista kelimesinin karşılığı: leninci
+LENOCINIO	(ad) genelev: Hayat kadınlarının barındığı, fuhuş yapılan kapalı mekân.
+LENTA	(lento sözcüğünün çekimi) (sıfat) aheste: yavaş, ağır bir biçimde (ayrıca: ağır, yavaş)
+LENTAMENTE	(zarf) lentamente kelimesinin karşılığı: ağır ağır
+LENTAS	(lento sözcüğünün çekimi) (sıfat) aheste: yavaş, ağır bir biçimde (ayrıca: ağır, yavaş)
+LENTE	(ad) adese: mercek (ayrıca: mercek, lens)
+LENTEJA	(ad) mercimek: baklagillerden, beyaz çiçekli bir tarım bitkisi ve mercimek bitkisinin, besin değeri yüksek, ufak, yeşil veya kahverenkli, yuvarlak ve yassıca tohumu
+LENTEJAS	(lenteja sözcüğünün çekimi) (ad) mercimek: baklagillerden, beyaz çiçekli bir tarım bitkisi ve mercimek bitkisinin, besin değeri yüksek, ufak, yeşil...
+LENTES	(ad) gözlük: Atların çevreden ürkmemeleri için gözlerinin iki yanına takılan siper; at gözlüğü
+LENTISCO	(ad) lentisco kelimesinin karşılığı: ⟪sakız|SAKIZ⟫
+LENTITUD	(ad) yavaşlık: yavaş olma durumu
+LENTO	(sıfat) aheste: yavaş, ağır bir biçimde (ayrıca: ağır, yavaş)\n(zarf) aheste: yavaş, ağır bir biçimde (ayrıca: ağır)
+LENTOS	(lento sözcüğünün çekimi) (sıfat) aheste: yavaş, ağır bir biçimde (ayrıca: ağır, yavaş)
+LEO	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEON	(ad) leon kelimesinin karşılığı: ⟪aslan|ASLAN⟫, ⟪arslan|ARSLAN⟫
+LEONA	(ad) leona kelimesinin karşılığı: dişi aslan
+LEONADO	(sıfat) leonado kelimesinin karşılığı: bal rengi
+LEONERA	(ad) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: pislik, bahşiş)
+LEONINA	(leonino sözcüğünün çekimi) (sıfat) adaletsiz: Adalete aykırı düşen veya adaleti olmayan
+LEONINO	(sıfat) adaletsiz: Adalete aykırı düşen veya adaleti olmayan
+LEONINOS	(leonino sözcüğünün çekimi) (sıfat) adaletsiz: Adalete aykırı düşen veya adaleti olmayan
+LEOPARDO	(ad) pars: kedigillerden, genellikle Asya ve Afrika'nın sıcak bölgelerinde yaşayan, postu benekli, bazen de düz siyah, çevik, yırtıcı, etçil, memeli hayvan, leopar, panter, pelenk (ayrıca: leopar, panter)
+LEOPARDOS	(leopardo sözcüğünün çekimi) (ad) pars: kedigillerden, genellikle Asya ve Afrika'nın sıcak bölgelerinde yaşayan, postu benekli, bazen de düz siyah,...
+LEOTARDO	(ad) leotardo kelimesinin karşılığı: külotlu çorap
+LEOTARDOS	(leotardo sözcüğünün çekimi) (ad) leotardo kelimesinin karşılığı: külotlu çorap
+LEPERO	(sıfat) açıkgöz: Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen kimse. (ayrıca: kurnaz)
+LEPRA	(ad) lepra kelimesinin karşılığı: ⟪cüzzam|CÜZZAM⟫
+LEPROSA	(leproso sözcüğünün çekimi) (sıfat) cüzamlı: Cüzam hastalığına tutulmuş olan
+LEPROSAS	(leproso sözcüğünün çekimi) (sıfat) cüzamlı: Cüzam hastalığına tutulmuş olan
+LEPROSO	(sıfat) cüzamlı: Cüzam hastalığına tutulmuş olan
+LEPROSOS	(leproso sözcüğünün çekimi) (sıfat) cüzamlı: Cüzam hastalığına tutulmuş olan
+LEPTON	(ad) lepton: Parçacık fiziğinde Fermi-Dirac istatistiğine uyan buçuklu spine sahip parçacık.
+LERDA	(lerdo sözcüğünün çekimi) (sıfat) yavaş: alçak, hafif biçimde
+LERDAMENTE	(zarf) yavaşça: oldukça yavaş, usulca (ayrıca: yavaş)
+LERDAS	(lerdo sözcüğünün çekimi) (sıfat) yavaş: alçak, hafif biçimde
+LERDO	(sıfat) yavaş: alçak, hafif biçimde
+LERDOS	(lerdo sözcüğünün çekimi) (sıfat) yavaş: alçak, hafif biçimde
+LES	(zamir) les kelimesinin karşılığı: ⟪onlar|ONLAR⟫
+LESA	(leso sözcüğünün çekimi) (sıfat) ahmak: aklını gereği gibi kullanamayan, bön, budala, aptal (ayrıca: alık, budala)
+LESBIANA	(ad) lezbiyen: Hemcinsleriyle cinsel ilişkide bulunan kadın; ablacı, sevici\n(sıfat) lezbiyen; lezbiyenlik ile ilgili.
+LESBIANAS	(ad) çoğul çekimi: lesbiana
+LESBICA	(sıfat) Lezbiyen; lezbiyenlik ile ilgili.
+LESBICAS	(lesbico sözcüğünün çekimi) (sıfat) lezbiyen; lezbiyenlik ile ilgili.
+LESBICO	(sıfat) lezbiyen; lezbiyenlik ile ilgili.
+LESBICOS	(lesbico sözcüğünün çekimi) (sıfat) lezbiyen; lezbiyenlik ile ilgili.
+LESERA	(ad) bönlük: bön olma durumu, budalalık, aptallık, sersemlik, gabavet, akılsızlık, belahet (ayrıca: akılsızlık)
+LESION	(ad) lezyon: doku ya da organ bozukluğu ya da hasarı
+LESIONA	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONABA	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONAN	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONAR	(eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONARA	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONARAS	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONARON	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONAS	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONASTE	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONE	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONEN	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIONES	(ad) çoğul çekimi: lesión
+LESIONO	(lesionar sözcüğünün çekimi) (eylem) lesionar kelimesinin karşılığı: yara açmak
+LESIVO	(sıfat) zararlı: zarar veren, zararı dokunan
+LESNA	(ad) biz: delici bir alet
+LESO	(sıfat) ahmak: aklını gereği gibi kullanamayan, bön, budala, aptal (ayrıca: alık, budala)
+LETONES	(ad) çoğul çekimi: letón
+LETRA	(ad) harf: dil bilimi, yazı
+LETRADA	(letrado sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LETRADO	(ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LETRADOS	(letrado sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LETRAS	(ad) letras kelimesinin karşılığı: ⟪güfte|GÜFTE⟫, ⟪söz|SÖZ⟫
+LETRERO	(ad) delil: insanı aradığı gerçeğe ulaştırabilecek iz (ayrıca: nişan, alamet)
+LETREROS	(letrero sözcüğünün çekimi) (ad) delil: insanı aradığı gerçeğe ulaştırabilecek iz (ayrıca: nişan, alamet)
+LETURA	(ad) dikkat: "Dikkat ediniz!" anlamında kullanılan ikaz (ayrıca: abay, tehlike)
+LEUCEMIA	(ad) lösemi: kan hücrelerinin özellikle de akyuvarların normalin üzerinde çoğalması ile kendini gösteren bir kanser türü, kan kanseri (ayrıca: kan kanseri)
+LEUCOCITO	(ad) akyuvar: kan, lenf vb. vücut sıvılarında bulunan çekirdekli, yuvarlak hücre, lökosit (ayrıca: lökosit)
+LEUCOCITOS	(leucocito sözcüğünün çekimi) (ad) akyuvar: kan, lenf vb. vücut sıvılarında bulunan çekirdekli, yuvarlak hücre, lökosit (ayrıca: lökosit)
+LEVA	(ad) taslak: eskiz (ayrıca: su çekimi)
+LEVADURA	(ad) levadura kelimesinin karşılığı: ⟪maya|MAYA⟫
+LEVADURAS	(levadura sözcüğünün çekimi) (ad) levadura kelimesinin karşılığı: ⟪maya|MAYA⟫
+LEVANTA	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTABA	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTABAMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTABAN	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTABAS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTAD	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTADA	(levantado sözcüğünün çekimi) (sıfat) aşırı: Ötede, ötesinde. (ayrıca: yüce, ulu)
+LEVANTADAS	(levantado sözcüğünün çekimi) (sıfat) aşırı: Ötede, ötesinde. (ayrıca: yüce, ulu)
+LEVANTADO	(sıfat) aşırı: Ötede, ötesinde. (ayrıca: yüce, ulu)
+LEVANTADOS	(levantado sözcüğünün çekimi) (sıfat) aşırı: Ötede, ötesinde. (ayrıca: yüce, ulu)
+LEVANTAIS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTAMIENTO	(ad) isyan: ayaklanma
+LEVANTAMIENTOS	(levantamiento sözcüğünün çekimi) (ad) isyan: ayaklanma
+LEVANTAMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTAN	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTAOS	(levantarse sözcüğünün çekimi) (eylem) kalkmak: kabarmak, ayrılmak
+LEVANTAR	(eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARA	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARAMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARAN	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARAS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARE	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTAREIS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTAREMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARIA	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARIAMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARIAN	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARIAS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARON	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTARSE	(eylem) kalkmak: kabarmak, ayrılmak
+LEVANTAS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTASE	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTASEMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTASEN	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTASES	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTASTE	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTASTEIS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTATE	(levantarse sözcüğünün çekimi) (eylem) kalkmak: kabarmak, ayrılmak
+LEVANTE	(ad) doğu: Bu yönde bulunan; şarki. (ayrıca: şark)
+LEVANTEIS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTEMONOS	(levantarse sözcüğünün çekimi) (eylem) kalkmak: kabarmak, ayrılmak
+LEVANTEMOS	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTEN	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVANTENSE	(levantarse sözcüğünün çekimi) (eylem) kalkmak: kabarmak, ayrılmak
+LEVANTES	(ad) çoğul çekimi: levante
+LEVANTESE	(levantarse sözcüğünün çekimi) (eylem) kalkmak: kabarmak, ayrılmak
+LEVANTISCO	(sıfat) asi: dikbaşlı
+LEVANTO	(levantar sözcüğünün çekimi) (eylem) kaldırmak: yükseltmek (ayrıca: yükseltmek)
+LEVAS	(leva sözcüğünün çekimi) (ad) taslak: eskiz (ayrıca: su çekimi)
+LEVE	(sıfat) ağır: Gösterişi fazla olmayan, ciddi olan.
+LEVEDAD	(ad) hafiflik: hafif olma durumu, yeğnilik (ayrıca: açıklık, aydınlık)
+LEVIRATO	(ad) levirat: Kadının ölen kocasının kardeşiyle evlenmesi
+LEXEMA	(ad) lexema kelimesinin karşılığı: ⟪madde|MADDE⟫
+LEXICO	(ad) sözlük: Bir dilin bütün zamanlarda veya belli bir çağda kullanılmış kelimelerini, kelime gruplarını deyim ve atasözlerini genellikle alfabe sırasına göre alarak sözcük türünü, okunuşunu, yabancı kökenliyse hangi dilden geldiğini, kullanım alanlarını gösterip tanımlarını yapan, varsa başka dillerdeki...
+LEXICOGRAFO	(ad) sözlükçü: Sözlük yazan ve hazırlayan kimse; lügatçi, leksikograf
+LEXICON	(ad) sözlük: Bir dilin bütün zamanlarda veya belli bir çağda kullanılmış kelimelerini, kelime gruplarını deyim ve atasözlerini genellikle alfabe sırasına göre alarak sözcük türünü, okunuşunu, yabancı kökenliyse hangi dilden geldiğini, kullanım alanlarını gösterip tanımlarını yapan, varsa başka dillerdeki...
+LEY	(ad) kanun: yasa.
+LEYENDA	(ad) efsane: eski çağlardan beri söylenegelen, olağanüstü varlıkları, olayları konu edinen hayalî hikâye, söylence (ayrıca: söylence)
+LEYENDAS	(leyenda sözcüğünün çekimi) (ad) efsane: eski çağlardan beri söylenegelen, olağanüstü varlıkları, olayları konu edinen hayalî hikâye, söylence...
+LEYERA	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYERAIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYERAMOS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYERAN	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYERAS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYERON	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYES	(ad) çoğul çekimi: ley
+LEYESE	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYESEIS	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYESEN	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYESES	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEYO	(leer sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+LEZNA	(ad) biz: delici bir alet
+LEÑA	(ad) odun: ağaçların gövdelerini ve dallarını meydana getiren sert madde, tahta
+LEÑADOR	(ad) doğramacı: ahşap doğrama yapan kişi (ayrıca: oduncu)
+LEÑO	(ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca: kütük)
+LEÑOS	(leño sözcüğünün çekimi) (ad) kereste: Tomrukların boyuna biçilmesiyle elde edilen ve marangozlukla inşaatta kullanılan nitelikli ağaç (ayrıca:...
+LEÑOSA	(leñoso sözcüğünün çekimi) (sıfat) ağaçsıl: ağaçla ilgili olan, ağaç türünden olan
+LEÑOSO	(sıfat) ağaçsıl: ağaçla ilgili olan, ağaç türünden olan
+LIABA	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIABAS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIAD	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIAIS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIAMOS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIAN	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIANA	(ad) liana kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+LIANAS	(liana sözcüğünün çekimi) (ad) liana kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+LIAR	(eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine yaklaştırmak (ayrıca: berabere kalmak)
+LIARA	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARAMOS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARAN	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARAS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARE	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIAREMOS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARIA	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARIAS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIARON	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIAS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIASE	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIASTE	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIASTEIS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIBELULA	(ad) libelula kelimesinin karşılığı: ⟪yusufçuk|YUSUFÇUK⟫
+LIBELULAS	(libelula sözcüğünün çekimi) (ad) libelula kelimesinin karşılığı: ⟪yusufçuk|YUSUFÇUK⟫
+LIBERA	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERABA	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERABAMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERABAN	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERABAS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERACION	(ad) bırakım: bırakma işi (ayrıca: serbest bırakma)
+LIBERACIONES	(liberacion sözcüğünün çekimi) (ad) bırakım: bırakma işi (ayrıca: serbest bırakma)
+LIBERAD	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAIS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAL	(sıfat) liberal: serbest ekonomiden yana olan kimse, liberalist
+LIBERALES	(liberal sözcüğünün çekimi) (sıfat) liberal: serbest ekonomiden yana olan kimse, liberalist
+LIBERALISMO	(ad) liberalismo kelimesinin karşılığı: ⟪liberalizm|LİBERALİZM⟫
+LIBERAMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAN	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAR	(eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARA	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARAMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARAN	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARAS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARE	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAREIS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAREMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARIA	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARIAMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARIAN	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARIAS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERARON	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERAS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERASE	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERASEMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERASEN	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERASTE	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERASTEIS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERE	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBEREIS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBEREMOS	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBEREN	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERES	(liberar sözcüğünün çekimi) (eylem) koymak: bırakmak, terk etmek (ayrıca: serbest bırakmak, özgürleştirmek)
+LIBERTA	(libertar sözcüğünün çekimi) (eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTAD	(ad) özgürlük: her türlü dış etkiden bağımsız olarak insanın kendi iradesine, kendi düşüncesine dayanarak karar vermesi durumu, hürriyet (ayrıca: serbestlik, serbestî)
+LIBERTADES	(libertad sözcüğünün çekimi) (ad) özgürlük: her türlü dış etkiden bağımsız olarak insanın kendi iradesine, kendi düşüncesine dayanarak karar vermesi...
+LIBERTAR	(eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTARA	(libertar sözcüğünün çekimi) (eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTARIA	(libertar sözcüğünün çekimi) (eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTARIAS	(libertar sözcüğünün çekimi) (eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTAS	(libertar sözcüğünün çekimi) (eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTE	(libertar sözcüğünün çekimi) (eylem) özgürleştirmek: Özgür duruma getirmek, özgür hâle gelmesini sağlamak (ayrıca: serbest bırakmak)
+LIBERTINA	(libertino sözcüğünün çekimi) (sıfat) libertino kelimesinin karşılığı: ⟪batakçı|BATAKÇI⟫
+LIBERTINAS	(libertino sözcüğünün çekimi) (sıfat) libertino kelimesinin karşılığı: ⟪batakçı|BATAKÇI⟫
+LIBERTINO	(sıfat) libertino kelimesinin karşılığı: ⟪batakçı|BATAKÇI⟫\n(ad) libertino kelimesinin karşılığı: ⟪tırmık|TIRMIK⟫
+LIBERTINOS	(libertino sözcüğünün çekimi) (sıfat) libertino kelimesinin karşılığı: ⟪batakçı|BATAKÇI⟫
+LIBERTO	(sıfat) bağımsız: bağımlı olmayan (ayrıca: bedava, özgür)
+LIBERTOS	(liberto sözcüğünün çekimi) (sıfat) bağımsız: bağımlı olmayan (ayrıca: bedava, özgür)
+LIBIDINE	(ad) şehvet: Aşırı istek.
+LIBIDO	(ad) libido: İnsan davranışlarının temelini oluşturduğu söylenen cinsel içgüdü
+LIBIDOS	(libido sözcüğünün çekimi) (ad) libido: İnsan davranışlarının temelini oluşturduğu söylenen cinsel içgüdü
+LIBRA	(ad) libre: yarım kilograma yakın bir ağırlık ölçü birimi
+LIBRABA	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRABAN	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRABAS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAD	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAIS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAMOS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAN	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAR	(eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARA	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARAMOS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARAN	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARAS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARE	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAREIS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAREMOS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARIA	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARIAMOS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARIAN	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARIAS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRARON	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRAS	(libra sözcüğünün çekimi) (ad) libre: yarım kilograma yakın bir ağırlık ölçü birimi
+LIBRASE	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRASTE	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRASTEIS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRE	(sıfat) özgür: Kendi istediği gibi hareket etme, davranma, karar verme gücü olan.
+LIBREIS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBREMOS	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBREN	(librar sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak (ayrıca: yazgılamak, iletmek)
+LIBRERIA	(ad) kitabevi: Kitap satılan yer, kitapçı, kitapçı dükkânı (ayrıca: kitapçı dükkânı)
+LIBRERIAS	(libreria sözcüğünün çekimi) (ad) kitabevi: Kitap satılan yer, kitapçı, kitapçı dükkânı (ayrıca: kitapçı dükkânı)
+LIBRERO	(ad) kitapçı: Kitap satan kimse veya yer.
+LIBREROS	(librero sözcüğünün çekimi) (ad) kitapçı: Kitap satan kimse veya yer.
+LIBRES	(sıfat) libre sözcüğünün çoğul çekimi: özgür\n(eylem) librar sözcüğünün ikinci tekil şahıs şimdiki zaman dilek çekimi
+LIBRETA	(ad) defter: genellikle hafif bir kapak içerisinde, yazı yazmak için araya tutturulmuş kâğıt yaprakları
+LIBRETAS	(libreta sözcüğünün çekimi) (ad) defter: genellikle hafif bir kapak içerisinde, yazı yazmak için araya tutturulmuş kâğıt yaprakları
+LIBRETO	(ad) yazı: ova
+LIBRETOS	(libreto sözcüğünün çekimi) (ad) yazı: ova
+LIBRILLO	(ad) librillo kelimesinin karşılığı: ⟪mide|MİDE⟫
+LIBRILLOS	(librillo sözcüğünün çekimi) (ad) librillo kelimesinin karşılığı: ⟪mide|MİDE⟫
+LIBRO	(ad) kitap: Kutsal kitap
+LIBROS	(ad) çoğul çekimi: libro
+LICANTROPIA	(ad) licantropia kelimesinin karşılığı: likantropi
+LICANTROPO	(ad) licantropo kelimesinin karşılığı: kurt adam
+LICANTROPOS	(licantropo sözcüğünün çekimi) (ad) licantropo kelimesinin karşılığı: kurt adam
+LICENCIA	(ad) licencia kelimesinin karşılığı: yetki belgesi
+LICENCIADA	(licenciado sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LICENCIADAS	(licenciado sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LICENCIADO	(ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LICENCIADOS	(licenciado sözcüğünün çekimi) (ad) avukat: hukuk öğrenimi görmüş ve adalet önünde kişilerin haklarını savunmayı meslek edinmiş kimse
+LICENCIAS	(licencia sözcüğünün çekimi) (ad) licencia kelimesinin karşılığı: yetki belgesi
+LICENCIATURA	(ad) licenciatura kelimesinin karşılığı: ⟪derece|DERECE⟫, not derecesi
+LICENCIATURAS	(licenciatura sözcüğünün çekimi) (ad) licenciatura kelimesinin karşılığı: ⟪derece|DERECE⟫, not derecesi
+LICEO	(ad) yüksekokul: Lisans düzeyinde meslek elemanı yetiştiren yükseköğretim kurumu.
+LICEOS	(liceo sözcüğünün çekimi) (ad) yüksekokul: Lisans düzeyinde meslek elemanı yetiştiren yükseköğretim kurumu.
+LICHI	(ad) lichi kelimesinin karşılığı: liçi
+LICITACION	(ad) girişim: bir işe girişme, teşebbüs
+LICITACIONES	(licitacion sözcüğünün çekimi) (ad) girişim: bir işe girişme, teşebbüs
+LICOR	(ad) likör: meyve, alkol, esans karışımıyla yapılan şekerli içki
+LICORES	(licor sözcüğünün çekimi) (ad) likör: meyve, alkol, esans karışımıyla yapılan şekerli içki
+LICUA	(licuar sözcüğünün çekimi) (eylem) karışmak: Düzensiz, dağınık olmak.
+LICUABA	(licuar sözcüğünün çekimi) (eylem) karışmak: Düzensiz, dağınık olmak.
+LICUACION	(ad) erime: erimek işi
+LICUAN	(licuar sözcüğünün çekimi) (eylem) karışmak: Düzensiz, dağınık olmak.
+LICUAR	(eylem) karışmak: Düzensiz, dağınık olmak.
+LICUARA	(licuar sözcüğünün çekimi) (eylem) karışmak: Düzensiz, dağınık olmak.
+LICUE	(licuar sözcüğünün çekimi) (eylem) karışmak: Düzensiz, dağınık olmak.
+LICUEFACCION	(ad) licuefaccion kelimesinin karşılığı: ⟪erime|ERİME⟫
+LICUO	(licuar sözcüğünün çekimi) (eylem) karışmak: Düzensiz, dağınık olmak.
+LID	(ad) dava: "Erkekler, davalarını hanımlar kadar hararetle müdafaa edememişlerdir." - Hüseyin Cahit Yalçın
+LIDER	(ad) önder: gücü, ünü ve toplumsal yeri dolayısıyla belli zaman ve durumlar içinde ilişkili bulunduğu küme veya toplumun tutum, davranış ve etkinliklerini değiştirip yönetme yeteneğini gösteren kimse. (ayrıca: lider, kaptan)
+LIDERAJE	(ad) önderlik: önder olma durumu veya öndere yakışır davranış, öncülük, liderlik (ayrıca: liderlik)
+LIDERATO	(ad) önderlik: önder olma durumu veya öndere yakışır davranış, öncülük, liderlik (ayrıca: liderlik)
+LIDERAZGO	(ad) liderlik: önderlik
+LIDERAZGOS	(liderazgo sözcüğünün çekimi) (ad) liderlik: önderlik
+LIDERES	(ad) líder sözcüğünün çoğul çekimi: önder, lider, kaptan
+LIDERESA	(ad) líder sözcüğünün dişili
+LIDES	(lid sözcüğünün çekimi) (ad) dava: "Erkekler, davalarını hanımlar kadar hararetle müdafaa edememişlerdir." - Hüseyin Cahit Yalçın
+LIDIA	(ad) çırpınma: çırpınmak işi, ihtilaç (ayrıca: zahmet)
+LIDIABA	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIABAMOS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIABAN	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIABAS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIAMOS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIAN	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIAR	(eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca: dövüşmek, çarpışmak)
+LIDIARA	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARAN	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARAS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARE	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIAREMOS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARIA	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARIAMOS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARIAS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIARON	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIAS	(ad) çoğul çekimi: lidia
+LIDIASTE	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIE	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIEMOS	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIEN	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIDIES	(lidiar sözcüğünün çekimi) (eylem) savaşmak: ordu ölçüsünde iki silahlı kuvvet karşı karşıya gelip çarpışmak, vuruşmak, muharebe etmek (ayrıca:...
+LIE	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIEBRE	(ad) liebre kelimesinin karşılığı: ⟪tavşan|TAVŞAN⟫
+LIEBRES	(liebre sözcüğünün çekimi) (ad) liebre kelimesinin karşılığı: ⟪tavşan|TAVŞAN⟫
+LIEIS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIEMOS	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIEN	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIENZA	(ad) şerit: Herhangi bir maddenin dar, düz, ince ve uzun parçası.
+LIENZO	(ad) lienzo kelimesinin karşılığı: ⟪çamaşır|ÇAMAŞIR⟫
+LIES	(liar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGA	(ad) liga kelimesinin karşılığı: ⟪lig|LİG⟫, ⟪fersah|FERSAH⟫
+LIGABA	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGABAN	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGABAS	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGACION	(ad) ilhak: hâkimiyeti altına alma (ayrıca: cilt, bağlam)
+LIGADO	(ad) ligado kelimesinin karşılığı: ⟪hedef|HEDEF⟫, ⟪nişane|NİŞANE⟫, ⟪kıç|KIÇ⟫, ⟪kalça|KALÇA⟫
+LIGADOS	(ligado sözcüğünün çekimi) (ad) ligado kelimesinin karşılığı: ⟪hedef|HEDEF⟫, ⟪nişane|NİŞANE⟫, ⟪kıç|KIÇ⟫, ⟪kalça|KALÇA⟫
+LIGADURA	(ad) bağ: ilişki. (ayrıca: budak, boğum)
+LIGADURAS	(ligadura sözcüğünün çekimi) (ad) bağ: ilişki. (ayrıca: budak, boğum)
+LIGAMEN	(ad) bağ: ilişki. (ayrıca: bağlantı, link)
+LIGAMENTO	(ad) ligament: kemikleri diğer kemiklere bağlayan fibröz bağ doku, bağ
+LIGAMENTOS	(ligamento sözcüğünün çekimi) (ad) ligament: kemikleri diğer kemiklere bağlayan fibröz bağ doku, bağ
+LIGAMOS	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGAN	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGAR	(eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine yaklaştırmak
+LIGARA	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGARAN	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGARAS	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGARE	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGAREMOS	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGARIA	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGARIAS	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGARON	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGAS	(liga sözcüğünün çekimi) (ad) liga kelimesinin karşılığı: ⟪lig|LİG⟫, ⟪fersah|FERSAH⟫
+LIGASE	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGASTE	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGAZON	(ad) bağlantı: iki veya daha çok şeyin birbiriyle bağlı bulunması; ilişki, irtibat, bağlanak (ayrıca: bağ, link)
+LIGERA	(ligero sözcüğünün çekimi) (sıfat) hafif: Sıkıntısız, ferah, rahat olarak.
+LIGERAMENTE	(zarf) hafifçe: hafif olarak, hafif biçimde, belli belirsiz (ayrıca: hafif)
+LIGERAS	(ligero sözcüğünün çekimi) (sıfat) hafif: Sıkıntısız, ferah, rahat olarak.
+LIGEREZA	(ad) hafiflik: hafif olma durumu, yeğnilik (ayrıca: yeğnilik)
+LIGEREZAS	(ligereza sözcüğünün çekimi) (ad) hafiflik: hafif olma durumu, yeğnilik (ayrıca: yeğnilik)
+LIGERO	(sıfat) hafif: Sıkıntısız, ferah, rahat olarak.\n(zarf) hafif: Sıkıntısız, ferah, rahat olarak.
+LIGEROS	(ligero sözcüğünün çekimi) (sıfat) hafif: Sıkıntısız, ferah, rahat olarak.
+LIGHT	(sıfat) hafif: Güç veya yorucu olmayan, kolay olan. (ayrıca: aydınlık, yeğni)
+LIGNARIO	(sıfat) ağaç: Bir süsleme motifi. (ayrıca: ahşap)
+LIGNINA	(ad) lignin: bitkide kök ve gövdenin sert ve odunsu yapısını oluşturan madde, lignen, odunlaşma
+LIGNITO	(ad) linyit: birleşimindeki karbon oranı % 60, 70 olan, kahverengi veya siyah taşı kömür
+LIGO	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGON	(sıfat) ligon kelimesinin karşılığı: ⟪işveli|İŞVELİ⟫\n(ad) ligon kelimesinin karşılığı: ⟪kumarbaz|KUMARBAZ⟫, ⟪oyuncu|OYUNCU⟫, ⟪tırmık|TIRMIK⟫
+LIGONA	(ligon sözcüğünün çekimi) (sıfat) ligon kelimesinin karşılığı: ⟪işveli|İŞVELİ⟫
+LIGONES	(ligon sözcüğünün çekimi) (sıfat) ligon kelimesinin karşılığı: ⟪işveli|İŞVELİ⟫
+LIGRE	(ad) ligre kelimesinin karşılığı: liger
+LIGUEMOS	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGUEN	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIGUES	(ligar sözcüğünün çekimi) (eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine...
+LIJAS	(ad) çoğul çekimi: lija
+LILA	(ad) leylak: Bu ağacın koni durumunda toplanmış, beyaz, eflatun veya pembe renkte, güzel kokulu çiçekleri:
+LILAS	(lila sözcüğünün çekimi) (ad) leylak: Bu ağacın koni durumunda toplanmış, beyaz, eflatun veya pembe renkte, güzel kokulu çiçekleri:
+LIMA	(ad) misket limonu: küçük, yeşil renkli, keskin tatlı bir limon türü.
+LIMACO	(ad) limaco kelimesinin karşılığı: ⟪mermi|MERMİ⟫, sümüklü böcek
+LIMACOS	(limaco sözcüğünün çekimi) (ad) limaco kelimesinin karşılığı: ⟪mermi|MERMİ⟫, sümüklü böcek
+LIMADURA	(ad) dosyalama: Dosyalamak işi
+LIMADURAS	(limadura sözcüğünün çekimi) (ad) dosyalama: Dosyalamak işi
+LIMAMOS	(limar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: başvuru yapmak, müracaat...
+LIMAN	(limar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: başvuru yapmak, müracaat...
+LIMAR	(eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: başvuru yapmak, müracaat etmek)
+LIMARON	(limar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: başvuru yapmak, müracaat...
+LIMAS	(lima sözcüğünün çekimi) (ad) misket limonu: küçük, yeşil renkli, keskin tatlı bir limon türü.
+LIMAZA	(ad) limaza kelimesinin karşılığı: ⟪mermi|MERMİ⟫, sümüklü böcek
+LIMBO	(ad) bisturi: Cerrahide kesme işlemlerinde kullanılan bıçak, neşter (ayrıca: ağız, avantaj)
+LIMBOS	(limbo sözcüğünün çekimi) (ad) bisturi: Cerrahide kesme işlemlerinde kullanılan bıçak, neşter (ayrıca: ağız, avantaj)
+LIMBURGUES	(ad) limburgues kelimesinin karşılığı: limburgca
+LIME	(limar sözcüğünün çekimi) (eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: başvuru yapmak, müracaat...
+LIMEN	(ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LIMITACION	(ad) sınırlama: Sınırlamak işi
+LIMITACIONES	(limitacion sözcüğünün çekimi) (ad) sınırlama: Sınırlamak işi
+LIMITADA	(limitado sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan.
+LIMITADAS	(limitado sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan.
+LIMITADO	(sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan.
+LIMITADOS	(limitado sözcüğünün çekimi) (sıfat) sınırlı: Sınırı olan, bir sınırla ayrılmış olan.
+LIMITE	(ad) had: sınır (ayrıca: limit, eşik)
+LIMNOLOGIA	(ad) limnologia kelimesinin karşılığı: limnoloji
+LIMO	(ad) çamur: Su ile karışıp bulaşır ve içine batırılır duruma gelmiş toprak, balçık
+LIMON	(ad) limon: Turunçgillerden, 3-5 metre yüksekliğinde, kışın yapraklarını dökmeyen, beyaz çiçekli bir ağaç (Citrus limonum).
+LIMONADA	(ad) limonata: Su, şeker ve limon suyundan yapılan, soğuk tüketilen, gazsız içecek
+LIMONERO	(ad) limon: Turunçgillerden, 3-5 metre yüksekliğinde, kışın yapraklarını dökmeyen, beyaz çiçekli bir ağaç (Citrus limonum). (ayrıca: limon rengi, limoni)
+LIMONEROS	(limonero sözcüğünün çekimi) (ad) limon: Turunçgillerden, 3-5 metre yüksekliğinde, kışın yapraklarını dökmeyen, beyaz çiçekli bir ağaç (Citrus...
+LIMONES	(limon sözcüğünün çekimi) (ad) limon: Turunçgillerden, 3-5 metre yüksekliğinde, kışın yapraklarını dökmeyen, beyaz çiçekli bir ağaç (Citrus...
+LIMOS	(limo sözcüğünün çekimi) (ad) çamur: Su ile karışıp bulaşır ve içine batırılır duruma gelmiş toprak, balçık
+LIMOSNA	(ad) sadaka: dilenciye verilen para
+LIMOSNAS	(limosna sözcüğünün çekimi) (ad) sadaka: dilenciye verilen para
+LIMOSNERO	(sıfat) limosnero kelimesinin karşılığı: açık elli\n(ad) dilenci: Geçimini dilenerek sağlayan kimse.
+LIMOSNEROS	(limosnero sözcüğünün çekimi) (sıfat) limosnero kelimesinin karşılığı: açık elli
+LIMOSO	(sıfat) çamurlu: çamur bulaşmış, üstünde veya içinde çamur bulunan
+LIMPIA	(ad) temizlikçilik: temizlikçi olma durumu (ayrıca: arıklaşma)
+LIMPIABA	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIABAMOS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIABAN	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIABAS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAD	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIADURA	(ad) temizlikçilik: temizlikçi olma durumu (ayrıca: arıklaşma)
+LIMPIAIS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAMOS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAN	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAR	(eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARA	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARAMOS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARAN	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARAS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARE	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAREIS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAREMOS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARIA	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARIAMOS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARIAN	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARIAS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIARON	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIAS	(ad) çoğul çekimi: limpia
+LIMPIASE	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIASEN	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIASES	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIASTE	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIASTEIS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIDA	(limpido sözcüğünün çekimi) (sıfat) belli: Gizli olmayan, ortada olan, anlaşılan; anlaşılan, bedihi, zahir, aşikâr
+LIMPIDAS	(limpido sözcüğünün çekimi) (sıfat) belli: Gizli olmayan, ortada olan, anlaşılan; anlaşılan, bedihi, zahir, aşikâr
+LIMPIDO	(sıfat) belli: Gizli olmayan, ortada olan, anlaşılan; anlaşılan, bedihi, zahir, aşikâr
+LIMPIDOS	(limpido sözcüğünün çekimi) (sıfat) belli: Gizli olmayan, ortada olan, anlaşılan; anlaşılan, bedihi, zahir, aşikâr
+LIMPIE	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIEIS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIEMOS	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIEN	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIES	(limpiar sözcüğünün çekimi) (eylem) silmek: Bir şeyin ıslaklığını gidererek kuru duruma getirmek
+LIMPIEZA	(ad) temizlikçilik: temizlikçi olma durumu (ayrıca: arıklaşma)
+LIMPIEZAS	(limpieza sözcüğünün çekimi) (ad) temizlikçilik: temizlikçi olma durumu (ayrıca: arıklaşma)
+LIMPIO	(sıfat) arı: yabancı şeylerden arınmış, katışıksız, saf (ayrıca: temiz)
+LIMPIOS	(limpio sözcüğünün çekimi) (sıfat) arı: yabancı şeylerden arınmış, katışıksız, saf (ayrıca: temiz)
+LINCE	(ad) vaşak: kedigillerden, kulakları sivri, dişleri ve tırnakları keskin, kürkünden yararlanılan çok yırtıcı hayvan
+LINCES	(lince sözcüğünün çekimi) (ad) vaşak: kedigillerden, kulakları sivri, dişleri ve tırnakları keskin, kürkünden yararlanılan çok yırtıcı hayvan
+LINDA	(lindar sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDABA	(lindar sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDAMENTE	(zarf) biçimli: uygun olarak, yakışacak bir biçimde
+LINDAN	(lindar sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDAR	(ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDARA	(lindar sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDAS	(lindar sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDE	(ad) sınır: coğrafya, politika (ayrıca: had)
+LINDEN	(lindar sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+LINDERO	(ad) kıyı: Bir yerin kenarı; periferi, periferi (ayrıca: avantaj, kenar)
+LINDEROS	(lindero sözcüğünün çekimi) (ad) kıyı: Bir yerin kenarı; periferi, periferi (ayrıca: avantaj, kenar)
+LINDES	(ad) çoğul çekimi: linde
+LINDO	(sıfat) sevimli: hoşa gitme özelliği olan, hoşa giden, şirin, cana yakın, sempatik
+LINDOS	(lindo sözcüğünün çekimi) (sıfat) sevimli: hoşa gitme özelliği olan, hoşa giden, şirin, cana yakın, sempatik
+LINEA	(ad) linea kelimesinin karşılığı: ⟪ray|RAY⟫
+LINEAL	(sıfat) doğrusal: aynı doğruya ait olan, lineer (ayrıca: lineer)
+LINEALES	(lineal sözcüğünün çekimi) (sıfat) doğrusal: aynı doğruya ait olan, lineer (ayrıca: lineer)
+LINEAMIENTO	(ad) hat: çizgi (ayrıca: sıra, satır)
+LINEAMIENTOS	(lineamiento sözcüğünün çekimi) (ad) hat: çizgi (ayrıca: sıra, satır)
+LINEAR	(sıfat) doğrusal: aynı doğruya ait olan, lineer
+LINEARES	(linear sözcüğünün çekimi) (sıfat) doğrusal: aynı doğruya ait olan, lineer
+LINEAS	(ad) çoğul çekimi: línea
+LINEE	(linear sözcüğünün çekimi) (sıfat) doğrusal: aynı doğruya ait olan, lineer
+LINFA	(ad) lenf: damarlarda dolaşan kanla, doku ögeleri arasında aracı görevi yapan, kan plazması ve lenfositten oluşan saydam, sarı renkte sıvı, ak kan, akkan, lenfa (ayrıca: ak kan, akkan)
+LINFAS	(linfa sözcüğünün çekimi) (ad) lenf: damarlarda dolaşan kanla, doku ögeleri arasında aracı görevi yapan, kan plazması ve lenfositten oluşan...
+LINGUISTA	(ad) linguista kelimesinin karşılığı: dilbilimci, ⟪lengüist|LENGÜİST⟫
+LINGUISTAS	(linguista sözcüğünün çekimi) (ad) linguista kelimesinin karşılığı: dilbilimci, ⟪lengüist|LENGÜİST⟫
+LINGUISTICA	(ad) linguistica kelimesinin karşılığı: dil bilimi\n(sıfat) lingüístico sözcüğünün dişil tekil çekimi
+LINGUISTICAS	(linguistica sözcüğünün çekimi) (ad) linguistica kelimesinin karşılığı: dil bilimi
+LINGUISTICO	(sıfat) dilsel: dille ilgili
+LINGUISTICOS	(linguistico sözcüğünün çekimi) (sıfat) dilsel: dille ilgili
+LINO	(ad) lino kelimesinin karşılığı: ⟪çamaşır|ÇAMAŞIR⟫
+LINON	(ad) çim: yeşilliği bol olan yer (ayrıca: çimen)
+LINOS	(lino sözcüğünün çekimi) (ad) lino kelimesinin karşılığı: ⟪çamaşır|ÇAMAŞIR⟫
+LINTEL	(ad) boyunduruk: Kapı veya pencere vb. açıklıkların üzerine konulan ağaç, taş veya beton kiriş; lento
+LINTERNA	(ad) meşale: (mecaz) bir düşüncenin öncüsü (ayrıca: el feneri)
+LINTERNAS	(linterna sözcüğünün çekimi) (ad) meşale: (mecaz) bir düşüncenin öncüsü (ayrıca: el feneri)
+LINYERA	(ad) serseri: belli bir işi ve yeri olmayan başıboş, hayta
+LIO	(ad) demet: Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi.
+LIOS	(lio sözcüğünün çekimi) (ad) demet: Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi.
+LIPIDO	(ad) lipit: Her tür organik yağa verilen ad
+LIPIDOS	(lipido sözcüğünün çekimi) (ad) lipit: Her tür organik yağa verilen ad
+LIPOTIMIA	(ad) çöküntü: çoğunluğa ilişkin satın alma gücünün durması, satış değerlerinin düşmesi, çalışma gücünün azalması vb. sebeplerle ortaya çıkan ekonomik durum, depresyon
+LIQUIDA	(liquido sözcüğünün çekimi) (ad) sıvı: maddenin ana hallerinden biri, katı durumdan ısı ve basınç sonucunda genleşerek geçtiği hâl, likit, mayi
+LIQUIDACION	(ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+LIQUIDACIONES	(liquidacion sözcüğünün çekimi) (ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+LIQUIDAS	(liquido sözcüğünün çekimi) (ad) sıvı: maddenin ana hallerinden biri, katı durumdan ısı ve basınç sonucunda genleşerek geçtiği hâl, likit, mayi
+LIQUIDEZ	(ad) likidite: Bir varlığın hızlı ve kolay bir biçimde nakde çevrilebilme derecesi.
+LIQUIDO	(ad) sıvı: maddenin ana hallerinden biri, katı durumdan ısı ve basınç sonucunda genleşerek geçtiği hâl, likit, mayi
+LIQUIDOS	(liquido sözcüğünün çekimi) (ad) sıvı: maddenin ana hallerinden biri, katı durumdan ısı ve basınç sonucunda genleşerek geçtiği hâl, likit, mayi
+LIRA	(ad) lir: Kaynağı mitolojik çağlara dayanan kirişli bir çalgı
+LIRAS	(lira sözcüğünün çekimi) (ad) lir: Kaynağı mitolojik çağlara dayanan kirişli bir çalgı
+LIRICAS	(lirico sözcüğünün çekimi) (sıfat) lirik: Coşkun, ilhamla dolu
+LIRICO	(sıfat) lirik: Coşkun, ilhamla dolu
+LIRICOS	(lirico sözcüğünün çekimi) (sıfat) lirik: Coşkun, ilhamla dolu
+LIRIO	(ad) lirio kelimesinin karşılığı: ⟪zambak|ZAMBAK⟫
+LIRIOS	(lirio sözcüğünün çekimi) (ad) lirio kelimesinin karşılığı: ⟪zambak|ZAMBAK⟫
+LIRON	(ad) liron kelimesinin karşılığı: ⟪kakırca|KAKIRCA⟫, fındık faresi, yediuyur
+LIRONES	(liron sözcüğünün çekimi) (ad) liron kelimesinin karşılığı: ⟪kakırca|KAKIRCA⟫, fındık faresi, yediuyur
+LIS	(ad) lis kelimesinin karşılığı: ⟪zambak|ZAMBAK⟫
+LISIADA	(lisiado sözcüğünün çekimi) (sıfat) aksak: aksayan, hafifçe topallayan
+LISIADAS	(lisiado sözcüğünün çekimi) (sıfat) aksak: aksayan, hafifçe topallayan
+LISIADO	(sıfat) aksak: aksayan, hafifçe topallayan
+LISIADOS	(lisiado sözcüğünün çekimi) (sıfat) aksak: aksayan, hafifçe topallayan
+LISINA	(ad) lisina kelimesinin karşılığı: lizin
+LISO	(sıfat) liso kelimesinin karşılığı: ⟪yalın|YALIN⟫, ⟪yavan|YAVAN⟫\n(ad) düz: engebesiz olan yer; düzlük, ova, müstevi (ayrıca: düzgün)
+LISOS	(liso sözcüğünün çekimi) (sıfat) liso kelimesinin karşılığı: ⟪yalın|YALIN⟫, ⟪yavan|YAVAN⟫
+LISTA	(ad) dizelge: alt alta yazılmış şeylerin bütünü, liste (ayrıca: liste)
+LISTABA	(listar sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+LISTADA	(listado sözcüğünün çekimi) (ad) listado kelimesinin karşılığı: ⟪liste|LİSTE⟫, ⟪dizelge|DİZELGE⟫
+LISTADAS	(listado sözcüğünün çekimi) (ad) listado kelimesinin karşılığı: ⟪liste|LİSTE⟫, ⟪dizelge|DİZELGE⟫
+LISTADO	(ad) listado kelimesinin karşılığı: ⟪liste|LİSTE⟫, ⟪dizelge|DİZELGE⟫\n(sıfat) çizgili: Üzerinde çizgi bulunan
+LISTADOS	(listado sözcüğünün çekimi) (ad) listado kelimesinin karşılığı: ⟪liste|LİSTE⟫, ⟪dizelge|DİZELGE⟫
+LISTAN	(listar sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+LISTAR	(eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+LISTAS	(lista sözcüğünün çekimi) (ad) dizelge: alt alta yazılmış şeylerin bütünü, liste (ayrıca: liste)
+LISTE	(listar sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+LISTEN	(listar sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+LISTO	(sıfat) çevik: kolaylık ve çabuklukla davranan, tetik, atik, atik tetik (ayrıca: hazırcevap)
+LISTOCO	(sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya (ayrıca: amade, anık)
+LISTON	(ad) şerit: Dar, uzun dokuma veya kumaş parçası.
+LISTONADO	(sıfat) çizgili: Üzerinde çizgi bulunan
+LISTOS	(listo sözcüğünün çekimi) (sıfat) çevik: kolaylık ve çabuklukla davranan, tetik, atik, atik tetik (ayrıca: hazırcevap)
+LITERA	(ad) litera kelimesinin karşılığı: ⟪altlık|ALTLIK⟫
+LITERAL	(zarf) resmen: Kesinlikle, açıkça, kesin olarak (ayrıca: harfiyen)
+LITERALES	(literal sözcüğünün çekimi) (zarf) resmen: Kesinlikle, açıkça, kesin olarak (ayrıca: harfiyen)
+LITERALMENTE	(zarf) resmen: Kesinlikle, açıkça, kesin olarak (ayrıca: harfiyen)
+LITERARIA	(literario sözcüğünün çekimi) (sıfat) edebî: edebiyata ilişkin, edebiyatla alakalı (ayrıca: yazınsal)
+LITERARIAS	(literario sözcüğünün çekimi) (sıfat) edebî: edebiyata ilişkin, edebiyatla alakalı (ayrıca: yazınsal)
+LITERARIO	(sıfat) edebî: edebiyata ilişkin, edebiyatla alakalı (ayrıca: yazınsal)
+LITERARIOS	(literario sözcüğünün çekimi) (sıfat) edebî: edebiyata ilişkin, edebiyatla alakalı (ayrıca: yazınsal)
+LITERAS	(litera sözcüğünün çekimi) (ad) litera kelimesinin karşılığı: ⟪altlık|ALTLIK⟫
+LITERATURA	(ad) edebiyat: Olay, düşünce, duygu ve hayallerin dil aracılığıyla sözlü veya yazılı olarak biçimlendirilmesi sanatı; literatür, yazın, gökçe yazın. (ayrıca: yazın, literatür)
+LITERATURAS	(literatura sözcüğünün çekimi) (ad) edebiyat: Olay, düşünce, duygu ve hayallerin dil aracılığıyla sözlü veya yazılı olarak biçimlendirilmesi sanatı;...
+LITIFICACION	(ad) kayaçlaşma: Tortuların kayaya sıkıştırılması ve sementasyonu süreci
+LITIGANTES	(ad) çoğul çekimi: litigante
+LITIGIO	(ad) dava: "Erkekler, davalarını hanımlar kadar hararetle müdafaa edememişlerdir." - Hüseyin Cahit Yalçın
+LITIGIOS	(litigio sözcüğünün çekimi) (ad) dava: "Erkekler, davalarını hanımlar kadar hararetle müdafaa edememişlerdir." - Hüseyin Cahit Yalçın
+LITIO	(ad) lityum: Atom numarası 3, atom ağırlığı 6,94, yoğunluğu 0,55 olan, 180°C de eriyen, gümüş parlaklığında, bilinen en hafif element Kısaltması Li
+LITOGRAFIA	(ad) litografia kelimesinin karşılığı: ⟪litografya|LİTOGRAFYA⟫
+LITORAL	(ad) sahil: Karanın deniz, göl, ırmak boyunca uzanan bölümü; kıyı, yaka, yalı. (ayrıca: kıyı)
+LITORALES	(litoral sözcüğünün çekimi) (ad) sahil: Karanın deniz, göl, ırmak boyunca uzanan bölümü; kıyı, yaka, yalı. (ayrıca: kıyı)
+LITOSFERA	(ad) litosfera kelimesinin karşılığı: ⟪litosfer|LİTOSFER⟫
+LITRO	(ad) litre: 1000 santimetreküpe denk gelen metrik hacim ölçüsü birimi
+LITROS	(litro sözcüğünün çekimi) (ad) litre: 1000 santimetreküpe denk gelen metrik hacim ölçüsü birimi
+LITURGIA	(ad) ayin: Mevlevilerin sema meclislerinde söyledikleri ilahiler
+LIVIANA	(liviano sözcüğünün çekimi) (sıfat) yeğni: (mecaz) ciddi olmayan. (ayrıca: aydınlık, hafif)
+LIVIANAMENTE	(zarf) hafifçe: hafif olarak, hafif biçimde, belli belirsiz (ayrıca: hafif)
+LIVIANAS	(liviano sözcüğünün çekimi) (sıfat) yeğni: (mecaz) ciddi olmayan. (ayrıca: aydınlık, hafif)
+LIVIANO	(sıfat) yeğni: (mecaz) ciddi olmayan. (ayrıca: aydınlık, hafif)\n(ad) akciğer: Göğüs kafesinin içinde yer alan, sağlı sollu iki parçadan oluşan solunum organı.
+LIVIANOS	(liviano sözcüğünün çekimi) (sıfat) yeğni: (mecaz) ciddi olmayan. (ayrıca: aydınlık, hafif)
+LIVIDA	(livido sözcüğünün çekimi) (sıfat) livido kelimesinin karşılığı: kül rengi
+LIVIDAS	(livido sözcüğünün çekimi) (sıfat) livido kelimesinin karşılığı: kül rengi
+LIVIDO	(sıfat) livido kelimesinin karşılığı: kül rengi
+LIVIDOS	(livido sözcüğünün çekimi) (sıfat) livido kelimesinin karşılığı: kül rengi
+LIZA	(ad) liza kelimesinin karşılığı: ⟪kefal|KEFAL⟫
+LLAGA	(ad) yara: keskin bir şeyle veya bir vuruşla vücutta oluşan derin kesik.
+LLAGAS	(llaga sözcüğünün çekimi) (ad) yara: keskin bir şeyle veya bir vuruşla vücutta oluşan derin kesik.
+LLAMA	(ad) alev: Yanan maddelerin veya gazların türlü biçimlerdeki ışıklı uzantısı; alaz, yalım, yalın, yalaz, yalaza, şule. (ayrıca: yalım, yalın)
+LLAMABA	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMABAIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMABAMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMABAN	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMABAS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAD	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMADA	(ad) llamada kelimesinin karşılığı: öd
+LLAMADAS	(llamado sözcüğünün çekimi) (ad) llamado kelimesinin karşılığı: öd
+LLAMADO	(ad) llamado kelimesinin karşılığı: öd
+LLAMADOR	(ad) haberci: (mecaz) bir durumun, bir olayın belirtisi
+LLAMADOS	(llamado sözcüğünün çekimi) (ad) llamado kelimesinin karşılığı: öd
+LLAMAIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAMIENTO	(ad) başvuru: başvurma işi, müracaat (ayrıca: öd, temyiz)
+LLAMAMIENTOS	(llamamiento sözcüğünün çekimi) (ad) başvuru: başvurma işi, müracaat (ayrıca: öd, temyiz)
+LLAMAMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAN	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAR	(eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARA	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARADA	(ad) akıtma: enli bilezik (ayrıca: alaz)
+LLAMARADAS	(llamarada sözcüğünün çekimi) (ad) akıtma: enli bilezik (ayrıca: alaz)
+LLAMARAIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARAMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARAN	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARAS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARE	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAREIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAREMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARIA	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARIAIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARIAMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARIAN	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARIAS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMARON	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMAS	(llama sözcüğünün çekimi) (ad) alev: Yanan maddelerin veya gazların türlü biçimlerdeki ışıklı uzantısı; alaz, yalım, yalın, yalaz, yalaza, şule....
+LLAMASE	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMASEMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMASEN	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMASES	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMASTE	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMASTEIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMATIVA	(llamativo sözcüğünün çekimi) (sıfat) llamativo kelimesinin karşılığı: göz alıcı, ⟪fiyakalı|FİYAKALI⟫
+LLAMATIVAS	(llamativo sözcüğünün çekimi) (sıfat) llamativo kelimesinin karşılığı: göz alıcı, ⟪fiyakalı|FİYAKALI⟫
+LLAMATIVO	(sıfat) llamativo kelimesinin karşılığı: göz alıcı, ⟪fiyakalı|FİYAKALI⟫
+LLAMATIVOS	(llamativo sözcüğünün çekimi) (sıfat) llamativo kelimesinin karşılığı: göz alıcı, ⟪fiyakalı|FİYAKALI⟫
+LLAME	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMEA	(llamear sözcüğünün çekimi) (eylem) alevlenmek: yanmaya başlamak
+LLAMEABA	(llamear sözcüğünün çekimi) (eylem) alevlenmek: yanmaya başlamak
+LLAMEAR	(eylem) alevlenmek: yanmaya başlamak
+LLAMEIS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMEMOS	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMEN	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMES	(llamar sözcüğünün çekimi) (eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek.
+LLAMO	(eylem) llamar sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi: çağırmak
+LLANADA	(ad) ova: çevrelerine göre çukurda kalmış, çoğunlukla alüvyonla örtülü, eğimi az, akarsuların derine gömülmemiş olduğu, genellikle geniş veya dar düzlük, yazı, düz, düzlük (ayrıca: düz, düzlem)
+LLANEZA	(ad) basitlik: basit olma durumu
+LLANO	(ad) ova: çevrelerine göre çukurda kalmış, çoğunlukla alüvyonla örtülü, eğimi az, akarsuların derine gömülmemiş olduğu, genellikle geniş veya dar düzlük, yazı, düz, düzlük
+LLANOS	(ad) çoğul çekimi: llano
+LLANTA	(ad) llanta kelimesinin karşılığı: ⟪lastik|LASTİK⟫
+LLANTO	(ad) ağlama: ağlamak işi.
+LLANTOS	(llanto sözcüğünün çekimi) (ad) ağlama: ağlamak işi.
+LLANURA	(ad) düzlük: düz olma durumu (ayrıca: engebesiz yer)
+LLANURAS	(llanura sözcüğünün çekimi) (ad) düzlük: düz olma durumu (ayrıca: engebesiz yer)
+LLAR	(ad) ocak: mutfak eşyası (ayrıca: şömine)
+LLAVE	(ad) anahtar: Notaların müzik merdivenindeki yükseklik derecelerini göstermek ve buna göre okunmasını sağlamak için portenin başına konulan işaret.
+LLAVES	(llave sözcüğünün çekimi) (ad) anahtar: Notaların müzik merdivenindeki yükseklik derecelerini göstermek ve buna göre okunmasını sağlamak için...
+LLAVIN	(ad) anahtar: kurgu. (ayrıca: açar, tuş)
+LLECA	(ad) sokak: il, ilçe v.s. yerleşim bölgelerinde, iki yanında evler olan, caddeye oranla daha dar veya kısa olabilen yol. (ayrıca: cadde)
+LLEGABA	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGABAIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGABAMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGABAN	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGABAS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAD	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGADA	(ad) ulaşma: ulaşmak işi (ayrıca: geliş)
+LLEGAIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAN	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAR	(eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARA	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARAIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARAMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARAN	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARAS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARE	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAREIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAREMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARIA	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARIAIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARIAMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARIAN	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARIAS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGARON	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGAS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASE	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASEIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASEMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASEN	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASES	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASTE	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGASTEIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGO	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGUE	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGUEIS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGUEMOS	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGUEN	(llegar sözcüğünün çekimi) (eylem) vasıl olmak: Ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+LLEGUES	(ad) çoğul çekimi: llegar
+LLENA	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENABA	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENABAMOS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENABAN	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENABAS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAD	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAIS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAMOS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAN	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAR	(eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARA	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARAMOS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARAN	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARAS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARE	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAREIS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAREMOS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARIA	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARIAMOS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARIAN	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARIAS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENARON	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENAS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENASE	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENASEN	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENASTE	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENASTEIS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENE	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENEIS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENEMOS	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENEN	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENES	(llenar sözcüğünün çekimi) (eylem) yormak: Bir sebebe bağlamak, bir duruma işaret saymak. (ayrıca: rahatsız etmek, uğraşmak)
+LLENISIMA	(llenisimo sözcüğünün çekimi) (sıfat) kalabalık: Sayıca çok.
+LLENISIMO	(sıfat) kalabalık: Sayıca çok.
+LLENO	(sıfat) dolu: (iş, uğraş, olay vb. durumlar için) Çok olan.
+LLENOS	(lleno sözcüğünün çekimi) (sıfat) dolu: (iş, uğraş, olay vb. durumlar için) Çok olan.
+LLEVA	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVABA	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVABAIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVABAMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVABAN	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVABAS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAD	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVADERA	(llevadero sözcüğünün çekimi) (sıfat) llevadero kelimesinin karşılığı: ⟪eğlenceli|EĞLENCELİ⟫
+LLEVADERAS	(llevadero sözcüğünün çekimi) (sıfat) llevadero kelimesinin karşılığı: ⟪eğlenceli|EĞLENCELİ⟫
+LLEVADERO	(sıfat) llevadero kelimesinin karşılığı: ⟪eğlenceli|EĞLENCELİ⟫
+LLEVADEROS	(llevadero sözcüğünün çekimi) (sıfat) llevadero kelimesinin karşılığı: ⟪eğlenceli|EĞLENCELİ⟫
+LLEVAIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAME	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAN	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAR	(eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARA	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARAIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARAMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARAN	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARAS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARE	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAREIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAREMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARIA	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARIAIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARIAMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARIAN	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARIAS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVARON	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVAS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASE	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASEIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASEMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASEN	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASES	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASTE	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVASTEIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVE	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVEIS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVEMOS	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVEN	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVES	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLEVO	(llevar sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: beslemek, götürmek)
+LLORA	(eylem) llorar sözcüğünün çekimi:: ağlamak
+LLORABA	(eylem) llorar sözcüğünün birinci tekil şahıs/üçüncü tekil şahıs imperfect bildirme kipi çekimi: ağlamak
+LLORABAIS	(eylem) llorar sözcüğünün ikinci çoğul şahıs imperfect bildirme kipi çekimi: ağlamak
+LLORABAMOS	(eylem) llorar sözcüğünün birinci çoğul şahıs imperfect bildirme kipi çekimi: ağlamak
+LLORABAN	(eylem) llorar sözcüğünün üçüncü çoğul şahıs imperfect bildirme kipi çekimi: ağlamak
+LLORABAS	(eylem) llorar sözcüğünün ikinci tekil şahıs imperfect bildirme kipi çekimi: ağlamak
+LLORAD	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORAIS	(eylem) llorar sözcüğünün ikinci çoğul şahıs şimdiki zaman bildirme kipi çekimi: ağlamak
+LLORAMOS	(eylem) llorar sözcüğünün birinci çoğul şahıs geniş zaman/preterite bildirme kipi çekimi: ağlamak
+LLORAN	(eylem) llorar sözcüğünün üçüncü çoğul şahıs geniş zaman bildirme kipi çekimi: ağlamak
+LLORANDO	(eylem) llorar sözcüğünün gerund çekimi: ağlamak
+LLORAR	(eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARA	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARAMOS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARAN	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARAS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARE	(eylem) llorar sözcüğünün birinci tekil şahıs gelecek zaman bildirme kipi çekimi: ağlamak
+LLORAREIS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORAREMOS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARIA	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARIAN	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARIAS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORARON	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORAS	(eylem) llorar sözcüğünün ikinci tekil şahıs geniş zaman bildirme kipi çekimi: ağlamak
+LLORASE	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORASEN	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORASES	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORASTE	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORASTEIS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORE	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLOREIS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLOREMOS	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLOREN	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORES	(llorar sözcüğünün çekimi) (eylem) ağlamak: (mecaz) sızlanmak, yakınmak
+LLORIQUEA	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEABA	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEAMOS	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEAN	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEAR	(eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEAS	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEE	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORIQUEES	(lloriquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORISQUEA	(llorisquear sözcüğünün çekimi) (eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORISQUEAR	(eylem) inlemek: Rahatsızlık duyduğundan dolayı yüksek olmayan ses çıkartmak.
+LLORO	(ad) ağlama: ağlamak işi.\n(eylem) llorar sözcüğünün birinci tekil şahıs geniş zaman bildirme kipi çekimi: ağlamak
+LLORON	(sıfat) lloron kelimesinin karşılığı: ⟪ağlamaklı|AĞLAMAKLI⟫\n(ad) ağlama: ağlamak işi.
+LLORONA	(lloron sözcüğünün çekimi) (sıfat) lloron kelimesinin karşılığı: ⟪ağlamaklı|AĞLAMAKLI⟫
+LLORONES	(lloron sözcüğünün çekimi) (sıfat) lloron kelimesinin karşılığı: ⟪ağlamaklı|AĞLAMAKLI⟫
+LLOROS	(ad) lloro sözcüğünün çoğul çekimi: ağlama
+LLOROSA	(lloroso sözcüğünün çekimi) (sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LLOROSAS	(lloroso sözcüğünün çekimi) (sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LLOROSO	(sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LLOROSOS	(lloroso sözcüğünün çekimi) (sıfat) ağlamaklı: ağlar gibi olan, üzüntülü, ağlak, ağlamalı, ağlamsı
+LLOVIZNA	(ad) llovizna kelimesinin karşılığı: ⟪çiseleme|ÇİSELEME⟫
+LLOVIZNABA	(lloviznar sözcüğünün çekimi) (eylem) çiselemek: Yağmurun ince ince yağması olayı.
+LLOVIZNAR	(eylem) çiselemek: Yağmurun ince ince yağması olayı.
+LLOVIZNAS	(ad) çoğul çekimi: llovizna
+LLUVIA	(ad) yağmur: atmosferdeki su buharının yoğunlaşmasıyla oluşan ve yeryüzüne düşen yağışın sıvı durumda olanı, baran, bereket, rahmet, yağar
+LLUVIAS	(lluvia sözcüğünün çekimi) (ad) yağmur: atmosferdeki su buharının yoğunlaşmasıyla oluşan ve yeryüzüne düşen yağışın sıvı durumda olanı, baran,...
+LLUVIOSA	(lluvioso sözcüğünün çekimi) (sıfat) yağmurlu: Yağmuru olan, yağmur yağan.
+LLUVIOSAS	(lluvioso sözcüğünün çekimi) (sıfat) yağmurlu: Yağmuru olan, yağmur yağan.
+LLUVIOSO	(sıfat) yağmurlu: Yağmuru olan, yağmur yağan.
+LLUVIOSOS	(lluvioso sözcüğünün çekimi) (sıfat) yağmurlu: Yağmuru olan, yağmur yağan.
+LOA	(ad) ihtişam: debdebe, görkem (ayrıca: övgü)
+LOB	(ad) lob kelimesinin karşılığı: ⟪lop|LOP⟫
+LOBA	(sıfat) kurt: Yumuşak vücutlu, uzun gövdeli, omurgasız, bacaksız, ayaksız veya çok ilkel ayaklı küçük hayvan; böcü
+LOBAGANTE	(ad) lobagante kelimesinin karşılığı: ⟪ıstakoz|ISTAKOZ⟫
+LOBAS	(loba sözcüğünün çekimi) (sıfat) kurt: Yumuşak vücutlu, uzun gövdeli, omurgasız, bacaksız, ayaksız veya çok ilkel ayaklı küçük hayvan; böcü
+LOBBY	(ad) lobi: Otel, tiyatro gibi yerlerde girişe yakın geniş yer (ayrıca: hol, dalan)
+LOBO	(ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli hayvan; (Canis lupus).
+LOBOS	(lobo sözcüğünün çekimi) (ad) kurt: Köpekgillerden, Avrupa, Asya ve Kuzey Amerika'da yaşayan, postu gri sarı renkli, yırtıcı, etçil memeli...
+LOBOTOMIA	(ad) lobotomia kelimesinin karşılığı: lobotomi
+LOBOTOMIAS	(lobotomia sözcüğünün çekimi) (ad) lobotomia kelimesinin karşılığı: lobotomi
+LOBREGA	(lobrego sözcüğünün çekimi) (sıfat) karanlık: Işıksız ola. (ayrıca: arap)
+LOBREGO	(sıfat) karanlık: Işıksız ola. (ayrıca: arap)
+LOCACION	(ad) kiralama: Kiralamak işi
+LOCACIONES	(locacion sözcüğünün çekimi) (ad) kiralama: Kiralamak işi
+LOCAL	(sıfat) yöresel: Belli bir yöre ile ilgili; yerel, mahallî, lokal.
+LOCALES	(local sözcüğünün çekimi) (sıfat) yöresel: Belli bir yöre ile ilgili; yerel, mahallî, lokal.
+LOCALICE	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALICEIS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALICEMOS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALICEN	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALICES	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIDAD	(ad) bura: bu yer
+LOCALIDADES	(localidad sözcüğünün çekimi) (ad) bura: bu yer
+LOCALISTA	(sıfat) yöresel: Belli bir yöre ile ilgili; yerel, mahallî, lokal. (ayrıca: yerel, yerli)
+LOCALIZA	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZABA	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZABAN	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZACION	(ad) localizacion kelimesinin karşılığı: ⟪lokalizasyon|LOKALİZASYON⟫, yerini saptama, yerini tayin etme
+LOCALIZAD	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZAIS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZAMOS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZAN	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZAR	(eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARA	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARAN	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARAS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARE	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZAREMOS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARIA	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARIAMOS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARIAN	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZARON	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZAS	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZASE	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZASTE	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCALIZO	(localizar sözcüğünün çekimi) (eylem) bulmak: bir yere, bir noktaya erişmek, ulaşmak
+LOCAMENTE	(zarf) çılgınca: aşırı bir biçimde (ayrıca: delice)
+LOCAS	(ad) çoğul çekimi: loca
+LOCATARIO	(ad) sahip: herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir şekilde dilediği gibi kullanabilen kişi, iye, malik
+LOCATIVO	(ad) locativo kelimesinin karşılığı: bulunma hâli, bulunma durumu
+LOCHE	(ad) loche kelimesinin karşılığı: bal kabağı
+LOCION	(ad) locion kelimesinin karşılığı: ⟪losyon|LOSYON⟫
+LOCIONES	(locion sözcüğünün çekimi) (ad) locion kelimesinin karşılığı: ⟪losyon|LOSYON⟫
+LOCKER	(ad) dolap: (mecaz) hile.
+LOCO	(sıfat) çılgın: aşırı davranışlarda bulunan, deli, mecnun
+LOCOMOTORA	(ad) lokomotif: tren vagonlarını çeken, tekerlekli, buharlı, elektrikli, termik motoru veya sıkıştırılmış havalı makine, çekit
+LOCOMOTORAS	(locomotora sözcüğünün çekimi) (ad) lokomotif: tren vagonlarını çeken, tekerlekli, buharlı, elektrikli, termik motoru veya sıkıştırılmış havalı...
+LOCOS	(loco sözcüğünün çekimi) (sıfat) çılgın: aşırı davranışlarda bulunan, deli, mecnun
+LOCUCION	(ad) deyim: genellikle gerçek anlamından az çok ayrı, kendine özgü bir anlam taşıyan kalıplaşmış söz öbeği, tabir
+LOCURA	(ad) delilik: deli olma durumu veya delice davranış, cinnet
+LOCURAS	(locura sözcüğünün çekimi) (ad) delilik: deli olma durumu veya delice davranış, cinnet
+LOCUS	(ad) lokus: Belli bir gen ya da bu genin alellerinden birinin kromozom üzerinde bulunduğu düşünülen yer (ayrıca: çıkak)
+LOCUTAR	(eylem) konuşmak: bir konuda karşılıklı söz etmek, sohbet etmek
+LOCUTOR	(ad) locutor kelimesinin karşılığı: ⟪yorumcu|YORUMCU⟫
+LODO	(ad) çamur: sataşkan, çevresini tedirgin eden; sulu, arsız\n(sıfat) çamur: sataşkan, çevresini tedirgin eden; sulu, arsız
+LODOS	(lodo sözcüğünün çekimi) (ad) çamur: sataşkan, çevresini tedirgin eden; sulu, arsız
+LODOSA	(lodoso sözcüğünün çekimi) (sıfat) çamurlu: çamur bulaşmış, üstünde veya içinde çamur bulunan
+LODOSAS	(lodoso sözcüğünün çekimi) (sıfat) çamurlu: çamur bulaşmış, üstünde veya içinde çamur bulunan
+LODOSO	(sıfat) çamurlu: çamur bulaşmış, üstünde veya içinde çamur bulunan
+LODOSOS	(lodoso sözcüğünün çekimi) (sıfat) çamurlu: çamur bulaşmış, üstünde veya içinde çamur bulunan
+LOGARITMO	(ad) logaritma: Bir üssel eşitlikte taban ve sonuç belirliyken üssün bulunması yolu.
+LOGARITMOS	(logaritmo sözcüğünün çekimi) (ad) logaritma: Bir üssel eşitlikte taban ve sonuç belirliyken üssün bulunması yolu.
+LOGIA	(ad) loca: Masonların toplantı yeri
+LOGIAS	(logia sözcüğünün çekimi) (ad) loca: Masonların toplantı yeri
+LOGICA	(ad) mantık: doğru düşünme sanatı ve bilimi, eseme
+LOGICAS	(logico sözcüğünün çekimi) (sıfat) mantıklı: mantığa uygun, akla uygun
+LOGICO	(sıfat) mantıklı: mantığa uygun, akla uygun
+LOGICOS	(logico sözcüğünün çekimi) (sıfat) mantıklı: mantığa uygun, akla uygun
+LOGISTICA	(ad) lojistik: ürün, hizmet ve insan gibi kaynakların, ihtiyaç duyulan yerde ve istenen zamanda temin edilmesi için bir araç olarak tanımlama
+LOGO	(ad) logo: bir firma ya da kuruluşun kendisini tanıtmak için kullandığı işaret, logo yazı, resim ya da bunların birleşiminden oluşur
+LOGOTIPO	(ad) logo: bir firma ya da kuruluşun kendisini tanıtmak için kullandığı işaret, logo yazı, resim ya da bunların birleşiminden oluşur (ayrıca: imlek)
+LOGOTIPOS	(logotipo sözcüğünün çekimi) (ad) logo: bir firma ya da kuruluşun kendisini tanıtmak için kullandığı işaret, logo yazı, resim ya da bunların...
+LOGRA	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRABA	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRABAMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRABAN	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRABAS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRADA	(logrado sözcüğünün çekimi) (sıfat) muvaffak: başarmış olan, başarılı (ayrıca: başarılı)
+LOGRADAS	(logrado sözcüğünün çekimi) (sıfat) muvaffak: başarmış olan, başarılı (ayrıca: başarılı)
+LOGRADO	(sıfat) muvaffak: başarmış olan, başarılı (ayrıca: başarılı)
+LOGRADOS	(logrado sözcüğünün çekimi) (sıfat) muvaffak: başarmış olan, başarılı (ayrıca: başarılı)
+LOGRAIS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRAMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRAN	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRAR	(eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARA	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARAMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARAN	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARAS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARE	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRAREIS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRAREMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARIA	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARIAMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARIAN	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARIAS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRARON	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRAS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRASE	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRASEMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRASEN	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRASES	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRASTE	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRASTEIS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRE	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGREIS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGREMOS	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGREN	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRES	(lograr sözcüğünün çekimi) (eylem) edinmek: kendini bir şeye sahip kılmak, kendine sağlamak (ayrıca: düşmek, elde etmek)
+LOGRO	(ad) başarı: başarma işi, sükse, muvaffakiyet (ayrıca: erişim, olgunluk)
+LOGROS	(logro sözcüğünün çekimi) (ad) başarı: başarma işi, sükse, muvaffakiyet (ayrıca: erişim, olgunluk)
+LOINO	(ad) çalıştırıcı: spor dalında, sporcuyu eğiten, yetiştiren ve çalıştıran kişi, antrenör, koç (ayrıca: kumarbaz, oyuncu)
+LOLA	(ad) taze: Genç kadın. (ayrıca: kız)
+LOLO	(sıfat) genç: Çocukluktan çıkmış yetişkin kimse. (ayrıca: gençlik)\n(ad) oğlan: Erkek çocuk. (ayrıca: oğlak, çocuk)
+LOLOS	(lolo sözcüğünün çekimi) (sıfat) genç: Çocukluktan çıkmış yetişkin kimse. (ayrıca: gençlik)
+LOMA	(ad) yörekent: Genellikle oturma alanı niteliğinde olan, şehir merkezinden uzakta veya sınırlarına yakın yerlerde bulunan şehir yöresi. (ayrıca: banliyö)
+LOMADA	(ad) tepe: Bakışım ekseni bulunan bir eğrinin veya yüzeyin bu eksenle kesişme noktalarından her biri. (ayrıca: bayır)
+LOMAS	(loma sözcüğünün çekimi) (ad) yörekent: Genellikle oturma alanı niteliğinde olan, şehir merkezinden uzakta veya sınırlarına yakın yerlerde...
+LOMBRICES	(ad) çoğul çekimi: lombriz
+LOMBRIZ	(ad) solucan: bazı omurgasız hayvan türlerinin adı (ayrıca: kurt)
+LOMILLO	(ad) lomillo kelimesinin karşılığı: ⟪kontrfile|KONTRFİLE⟫
+LOMITO	(ad) köpek: Köpekgillerden, boy ve biçim bakımından pek çok cinsi olan, çok iyi koku alan, sadık, bekçilik ve avcılık gibi işler için beslenen memeli hayvan; kapik it, gölbez.
+LOMO	(ad) sırt: Omurgalı veya omurgasız hayvanlarda boyundan kuyruk sokumuna kadar uzanan üst bölüm (ayrıca: geri, savunma oyuncusu)
+LOMOS	(ad) çoğul çekimi: lomo
+LONCHA	(ad) dilim: Bir bütünden kesilmiş veya ayrılmış ince, yassı parça
+LONCHE	(ad) çay: Konukların içecek ve börek, pasta vb. yiyeceklerle ağırlandığı toplantı.
+LONGEVO	(sıfat) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı hâllerde kullanılan söz (ayrıca: yaşlı)
+LONGEVOS	(longevo sözcüğünün çekimi) (sıfat) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı...
+LONGITUD	(ad) boy: yüzeyde, en sayılan iki kenar arasındaki uzaklık, en karşıtı (ayrıca: boylam)
+LONGITUDES	(longitud sözcüğünün çekimi) (ad) boy: yüzeyde, en sayılan iki kenar arasındaki uzaklık, en karşıtı (ayrıca: boylam)
+LONGO	(sıfat) longo kelimesinin karşılığı: ⟪uzun|UZUN⟫\n(ad) çocuk: (mecaz) Büyükler arasında daha az yaşlı olan kişi.
+LONGOS	(longo sözcüğünün çekimi) (sıfat) longo kelimesinin karşılığı: ⟪uzun|UZUN⟫
+LONJA	(ad) dilim: Belli ölçülere göre oluşmuş bölüm.
+LONJAS	(lonja sözcüğünün çekimi) (ad) dilim: Belli ölçülere göre oluşmuş bölüm.
+LONTANANZA	(ad) lontananza kelimesinin karşılığı: arka plan
+LOQUERA	(ad) delilik: deli olma durumu veya delice davranış, cinnet
+LORD	(ad) baş: önem veya yönetim bakımından ileride olan, en önemli, en üstün" anlamlarında birleşik kelimeler yapan bir söz. (ayrıca: efendi, reis)
+LORES	(lord sözcüğünün çekimi) (ad) baş: önem veya yönetim bakımından ileride olan, en önemli, en üstün" anlamlarında birleşik kelimeler yapan bir...
+LORIGA	(ad) posta: geminin kaburgasını oluşturan, tekneye şeklini veren, aşağıda omurgaya yukarıda güverteye bağlanan, kaplamaların üzerine yerleştiği ağaç veya demir parçalar
+LORO	(ad) papağan: papağangillerden, tırmanıcı, eğri gagalı, pek çok türü bulunan, insan sesini taklit edebilen kuşların genel adı.
+LOROS	(loro sözcüğünün çekimi) (ad) papağan: papağangillerden, tırmanıcı, eğri gagalı, pek çok türü bulunan, insan sesini taklit edebilen kuşların...
+LOS	(zamir) onlar: (kişi adılı): o zamirinin çoğulu
+LOSANGE	(ad) losange kelimesinin karşılığı: eşkenar dörtgen
+LOSANJE	(ad) losanje kelimesinin karşılığı: ⟪pastil|PASTİL⟫
+LOTE	(ad) arsa: üzerine yapı yapılmak için ayrılmış yer, toprak alan, boş arazi, yeryüzü parçasıdır (ayrıca: ad çekme, kura)
+LOTEO	(ad) loteo kelimesinin karşılığı: ⟪arsa|ARSA⟫
+LOTERIA	(ad) piyango: Beklenmedik olay veya durum.
+LOTERIAS	(loteria sözcüğünün çekimi) (ad) piyango: Beklenmedik olay veya durum.
+LOTES	(lote sözcüğünün çekimi) (ad) arsa: üzerine yapı yapılmak için ayrılmış yer, toprak alan, boş arazi, yeryüzü parçasıdır (ayrıca: ad çekme, kura)
+LOZA	(ad) loza kelimesinin karşılığı: ⟪porselen|PORSELEN⟫
+LOZANA	(lozano sözcüğünün çekimi) (sıfat) lozano kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+LOZANAS	(lozano sözcüğünün çekimi) (sıfat) lozano kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+LOZANO	(sıfat) lozano kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+LOZANOS	(lozano sözcüğünün çekimi) (sıfat) lozano kelimesinin karşılığı: ⟪dinç|DİNÇ⟫
+LOZAS	(loza sözcüğünün çekimi) (ad) loza kelimesinin karşılığı: ⟪porselen|PORSELEN⟫
+LUBRICA	(lubrico sözcüğünün çekimi) (sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LUBRICANTE	(ad) kayganlaştırıcı: cinsel aktivite esnasında sürtünmeyi ve dolayısıyla sürtünmeden kaynaklanan tahrişi azaltmak ve kayganlığı artırmak için özel olarak formüle edilmiş, jel kıvamında bir ürün; kayganlaştırıcı jel.
+LUBRICANTES	(lubricante sözcüğünün çekimi) (ad) kayganlaştırıcı: cinsel aktivite esnasında sürtünmeyi ve dolayısıyla sürtünmeden kaynaklanan tahrişi azaltmak ve...
+LUBRICAS	(lubrico sözcüğünün çekimi) (sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LUBRICO	(sıfat) pis: çirkin, sevimsiz olan (ayrıca: kirli, müstehcen)
+LUCE	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCEN	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCERO	(ad) ihtişam: debdebe, görkem (ayrıca: göz alıcılık)
+LUCEROS	(lucero sözcüğünün çekimi) (ad) ihtişam: debdebe, görkem (ayrıca: göz alıcılık)
+LUCES	(ad) çoğul çekimi: luz
+LUCHA	(ad) kavga: (mecaz) [ Herhangi bir amaca erişmek, bir şeyi elde etmek veya bir şeye karşı koyabilmek için harcanan çaba, verilen mücadele. (ayrıca: dövüş)
+LUCHABA	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHABAIS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHABAMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHABAN	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHABAS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAD	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHADOR	(ad) savaşçı: savaşa katılan kişi, muharip (ayrıca: avçı uçağı)
+LUCHADORA	(luchador sözcüğünün çekimi) (ad) savaşçı: savaşa katılan kişi, muharip (ayrıca: avçı uçağı)
+LUCHADORAS	(luchador sözcüğünün çekimi) (ad) savaşçı: savaşa katılan kişi, muharip (ayrıca: avçı uçağı)
+LUCHADORES	(luchador sözcüğünün çekimi) (ad) savaşçı: savaşa katılan kişi, muharip (ayrıca: avçı uçağı)
+LUCHAIS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAN	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAR	(eylem) uğraşmak: savaşmak
+LUCHARA	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARAMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARAN	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARAS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARE	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAREIS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAREMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARIA	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARIAIS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARIAMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARIAN	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARIAS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHARON	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHAS	(ad) çoğul çekimi: lucha
+LUCHASE	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHASEMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHASEN	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHASTE	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHASTEIS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHE	(ad) luche kelimesinin karşılığı: ⟪seksek|SEKSEK⟫
+LUCHEIS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHEMOS	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHEN	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCHES	(ad) çoğul çekimi: luche
+LUCHO	(luchar sözcüğünün çekimi) (eylem) uğraşmak: savaşmak
+LUCI	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIA	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIAMOS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIAN	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIAS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIDA	(lucido sözcüğünün çekimi) (sıfat) lucido kelimesinin karşılığı: aklı başında
+LUCIDAS	(lucido sözcüğünün çekimi) (sıfat) lucido kelimesinin karşılığı: aklı başında
+LUCIDEZ	(ad) berraklık: Berrak olma durumu, duruluk
+LUCIDO	(sıfat) lucido kelimesinin karşılığı: aklı başında
+LUCIDOS	(lucido sözcüğünün çekimi) (sıfat) lucido kelimesinin karşılığı: aklı başında
+LUCIENTE	(sıfat) nurlu: (mecaz) saygı uyandıran (ayrıca: ışıl)
+LUCIENTES	(luciente sözcüğünün çekimi) (sıfat) nurlu: (mecaz) saygı uyandıran (ayrıca: ışıl)
+LUCIERA	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIERAN	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIERAS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIERNAGA	(ad) luciernaga kelimesinin karşılığı: ateş böceği
+LUCIERNAGAS	(luciernaga sözcüğünün çekimi) (ad) luciernaga kelimesinin karşılığı: ateş böceği
+LUCIERON	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIESE	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIFERO	(sıfat) aydınlık: bir yeri aydınlatan güç, ışık (ayrıca: aydın, aşikâr)
+LUCIMIENTO	(ad) ihtişam: debdebe, görkem (ayrıca: göz alıcılık, gösteriş)
+LUCIMOS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIO	(ad) lucio kelimesinin karşılığı: turna balığı
+LUCION	(ad) lucion kelimesinin karşılığı: ⟪babaköş|BABAKÖŞ⟫
+LUCIOS	(lucio sözcüğünün çekimi) (ad) lucio kelimesinin karşılığı: turna balığı
+LUCIR	(eylem) parlamak: parıldamak
+LUCIRA	(eylem) lucir eyleminin 3. şahıs tekil bildirme kipi gelecek zaman çekimi
+LUCIRAN	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIRAS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIRE	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIREMOS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIRIA	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIRIAMOS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIRIAN	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIRIAS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCIS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCISTE	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUCRA	(lucrar sözcüğünün çekimi) (eylem) artırmak: tutumlu davranıp biriktirmek, tasarruf etmek (ayrıca: yarar, kazanmak)
+LUCRAN	(lucrar sözcüğünün çekimi) (eylem) artırmak: tutumlu davranıp biriktirmek, tasarruf etmek (ayrıca: yarar, kazanmak)
+LUCRAR	(eylem) artırmak: tutumlu davranıp biriktirmek, tasarruf etmek (ayrıca: yarar, kazanmak)
+LUCRATIVA	(lucrativo sözcüğünün çekimi) (sıfat) kazançlı: kazanç getiren, kazanç sağlayan
+LUCRATIVAS	(lucrativo sözcüğünün çekimi) (sıfat) kazançlı: kazanç getiren, kazanç sağlayan
+LUCRATIVO	(sıfat) kazançlı: kazanç getiren, kazanç sağlayan
+LUCRATIVOS	(lucrativo sözcüğünün çekimi) (sıfat) kazançlı: kazanç getiren, kazanç sağlayan
+LUCRE	(lucrar sözcüğünün çekimi) (eylem) artırmak: tutumlu davranıp biriktirmek, tasarruf etmek (ayrıca: yarar, kazanmak)
+LUCRO	(ad) fayda: yarar (ayrıca: kâr, avantaj)
+LUCROS	(lucro sözcüğünün çekimi) (ad) fayda: yarar (ayrıca: kâr, avantaj)
+LUCTUOSO	(sıfat) üzgün: üzülmüş, üzüntü duymuş, mahzun, melul, mükedder (ayrıca: bunlu, mahzun)
+LUDA	(ludir sözcüğünün çekimi) (eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+LUDE	(ludir sözcüğünün çekimi) (eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+LUDEN	(ludir sözcüğünün çekimi) (eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+LUDES	(ludir sözcüğünün çekimi) (eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+LUDIBRIO	(ad) ludibrio kelimesinin karşılığı: ⟪alay|ALAY⟫
+LUDIR	(eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+LUDOTECA	(ad) oyun: bilgisayar oyunu. (ayrıca: merkez, özek)
+LUDRIA	(ad) su samuru: sansargillerden, tüyleri koyu kahverengi, iyi yüzen, kürkü beğenilen, küçük bir tür hayvan (ayrıca: lutr)
+LUEGO	(zarf) luego kelimesinin karşılığı: o hâlde, o zaman
+LUEÑE	(zarf) uzun: ayrıntılı, derinlemesine
+LUGANO	(ad) lugano kelimesinin karşılığı: ⟪iskete|İSKETE⟫
+LUGAR	(ad) bura: bu yer
+LUGARES	(lugar sözcüğünün çekimi) (ad) bura: bu yer
+LUGARTENIENTE	(ad) teğmen: Orduda rütbesi asteğmenle üsteğmen arasında olan, takım komutanlığı yapan subay, mülazım] (ayrıca: milletvekili, üsteğmen)
+LUGARTENIENTES	(lugarteniente sözcüğünün çekimi) (ad) teğmen: Orduda rütbesi asteğmenle üsteğmen arasında olan, takım komutanlığı yapan subay, mülazım] (ayrıca:...
+LUGUBRE	(sıfat) kederli: acılı, üzüntülü, mükedder (ayrıca: mahzun, vakur)
+LUGUBRES	(lugubre sözcüğünün çekimi) (sıfat) kederli: acılı, üzüntülü, mükedder (ayrıca: mahzun, vakur)
+LUIR	(eylem) cilalamak: cila sürerek parlatmak, cila vurmak (ayrıca: parlatmak)
+LUJO	(ad) lujo kelimesinin karşılığı: ⟪şatafat|ŞATAFAT⟫
+LUJOS	(lujo sözcüğünün çekimi) (ad) lujo kelimesinin karşılığı: ⟪şatafat|ŞATAFAT⟫
+LUJURIA	(ad) şehvet: Erkek ve dişinin birbirine karşı duydukları güçlü cinsel istek.
+LUMBAR	(sıfat) lumbar kelimesinin karşılığı: lumbar
+LUMBARES	(lumbar sözcüğünün çekimi) (sıfat) lumbar kelimesinin karşılığı: lumbar
+LUMBRE	(ad) ateş: Patlayıcı silahların atılması. (ayrıca: yangın)
+LUMBRERA	(ad) lumbrera kelimesinin karşılığı: ⟪dilsiz|DİLSİZ⟫
+LUMBRERAS	(lumbrera sözcüğünün çekimi) (ad) lumbrera kelimesinin karşılığı: ⟪dilsiz|DİLSİZ⟫
+LUMBROSO	(sıfat) parlak: parlayan, ışıldayan, ışık saçan (ayrıca: aydın, aşikâr)
+LUMEN	(ad) lumen kelimesinin karşılığı: lumen
+LUMINARIA	(ad) ışık: Aydınlanma için kullanılan elektrik. (ayrıca: lamba, ampul)
+LUMINARIAS	(ad) çoğul çekimi: luminaria
+LUMINICA	(luminico sözcüğünün çekimi) (sıfat) aydınlık: ışık olan (ayrıca: yeğni, hafif)
+LUMINICAS	(luminico sözcüğünün çekimi) (sıfat) aydınlık: ışık olan (ayrıca: yeğni, hafif)
+LUMINICO	(sıfat) aydınlık: ışık olan (ayrıca: yeğni, hafif)
+LUMINISCENCIA	(ad) luminiscencia kelimesinin karşılığı: ⟪ışıldama|IŞILDAMA⟫
+LUMINOSA	(luminoso sözcüğünün çekimi) (sıfat) ışıklı: ışığı olan, aydınlık, ışıklandırılmış nurlu, nuranî (ayrıca: aydın, aşikâr)
+LUMINOSAMENTE	(zarf) luminosamente kelimesinin karşılığı: açık seçik
+LUMINOSAS	(luminoso sözcüğünün çekimi) (sıfat) ışıklı: ışığı olan, aydınlık, ışıklandırılmış nurlu, nuranî (ayrıca: aydın, aşikâr)
+LUMINOSO	(sıfat) ışıklı: ışığı olan, aydınlık, ışıklandırılmış nurlu, nuranî (ayrıca: aydın, aşikâr)
+LUMINOSOS	(luminoso sözcüğünün çekimi) (sıfat) ışıklı: ışığı olan, aydınlık, ışıklandırılmış nurlu, nuranî (ayrıca: aydın, aşikâr)
+LUNA	(ad) ay: (halk ağzı) bayraklarda sembol olarak kullanılan hilâl
+LUNAR	(ad) ben: Çoğu doğuştan, tende bulunan ufak, koyu renkli leke veya kabartı. (ayrıca: yama)
+LUNARES	(lunar sözcüğünün çekimi) (ad) ben: Çoğu doğuştan, tende bulunan ufak, koyu renkli leke veya kabartı. (ayrıca: yama)
+LUNAS	(luna sözcüğünün çekimi) (ad) ay: (halk ağzı) bayraklarda sembol olarak kullanılan hilâl
+LUNES	(ad) pazartesi: haftanın günü
+LUNETA	(ad) adese: mercek (ayrıca: mercek, lens)
+LUPANAR	(ad) genelev: Hayat kadınlarının barındığı, fuhuş yapılan kapalı mekân.
+LUPINA	(lupino sözcüğünün çekimi) (ad) lupino kelimesinin karşılığı: acı bakla
+LUPINO	(ad) lupino kelimesinin karşılığı: acı bakla
+LUPULO	(ad) lupulo kelimesinin karşılığı: şerbetçi otu
+LUPULOS	(lupulo sözcüğünün çekimi) (ad) lupulo kelimesinin karşılığı: şerbetçi otu
+LUQUEAR	(eylem) luquear kelimesinin karşılığı: göz atmak
+LUSTRE	(ad) ihtişam: debdebe, görkem (ayrıca: fer, göz alıcılık)
+LUTECIO	(ad) lütesyum: Atom numarası 71, atom ağırlığı 175 olan, iterbiyumun çözüşmesiyle oluşan, renksiz tuzlar veren, henüz uygulama alanı olmayan çok ender bulunan bir element
+LUTEINA	(ad) luteina kelimesinin karşılığı: lutein
+LUTITA	(ad) lutita kelimesinin karşılığı: kil taşı
+LUTO	(ad) yas: Ölüm veya bir felaketten doğan acı;matem (ayrıca: matem)
+LUTOS	(luto sözcüğünün çekimi) (ad) yas: Ölüm veya bir felaketten doğan acı;matem (ayrıca: matem)
+LUTRIA	(ad) su samuru: sansargillerden, tüyleri koyu kahverengi, iyi yüzen, kürkü beğenilen, küçük bir tür hayvan (ayrıca: lutr)
+LUZ	(ad) ışık: Aydınlanma için kullanılan elektrik.
+LUZCA	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUZCAMOS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUZCAN	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUZCAS	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak
+LUZCO	(lucir sözcüğünün çekimi) (eylem) parlamak: parıldamak

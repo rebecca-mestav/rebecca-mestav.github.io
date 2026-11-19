@@ -1,0 +1,394 @@
+JABBERERS	(ad) çoğul çekimi: jabberer
+JABS	(ad) çoğul çekimi: jab
+JACAMARS	(ad) çoğul çekimi: jacamar
+JACARANDA	(ad) jacaranda kelimesinin karşılığı: jakaranda
+JACARANDAS	(jacaranda sözcüğünün çekimi) (ad) jacaranda kelimesinin karşılığı: jakaranda
+JACK	(ad) jack kelimesinin karşılığı: ⟪kaldırıcı|KALDIRICI⟫, ⟪kriko|KRİKO⟫
+JACKAL	(ad) çakal: Etoburlardan, sürü hâlinde yaşayan, kurttan küçük bir yaban hayvanı (Canis aureus).
+JACKALS	(ad) çoğul çekimi: jackal
+JACKANAPES	(ad) çoğul çekimi: jackanapes
+JACKANAPESES	(jackanapes sözcüğünün çekimi) (ad) çoğul çekimi: jackanapes
+JACKAROOS	(ad) çoğul çekimi: jackaroo
+JACKBOOTS	(ad) çoğul çekimi: jackboot
+JACKDAW	(ad) jackdaw kelimesinin karşılığı: küçük karga
+JACKDAWS	(jackdaw sözcüğünün çekimi) (ad) jackdaw kelimesinin karşılığı: küçük karga
+JACKED	(jack sözcüğünün çekimi) (ad) jack kelimesinin karşılığı: ⟪kaldırıcı|KALDIRICI⟫, ⟪kriko|KRİKO⟫
+JACKER	(jack sözcüğünün çekimi) (ad) jack kelimesinin karşılığı: ⟪kaldırıcı|KALDIRICI⟫, ⟪kriko|KRİKO⟫
+JACKET	(ad) jacket kelimesinin karşılığı: ⟪ceket|CEKET⟫
+JACKETED	(jacket sözcüğünün çekimi) (ad) jacket kelimesinin karşılığı: ⟪ceket|CEKET⟫
+JACKETING	(jacket sözcüğünün çekimi) (ad) jacket kelimesinin karşılığı: ⟪ceket|CEKET⟫
+JACKETS	(ad) jacket sözcüğünün çoğul çekimi: ceket\n(eylem) jacket sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ceket
+JACKFRUITS	(ad) çoğul çekimi: jackfruit
+JACKHAMMERS	(ad) çoğul çekimi: jackhammer
+JACKING	(jack sözcüğünün çekimi) (ad) jack kelimesinin karşılığı: ⟪kaldırıcı|KALDIRICI⟫, ⟪kriko|KRİKO⟫
+JACKRABBITS	(ad) çoğul çekimi: jackrabbit
+JACKS	(ad) çoğul çekimi: jack
+JACKSTAY	(ad) jackstay kelimesinin karşılığı: baba boyunduruğu
+JACKSTAYS	(jackstay sözcüğünün çekimi) (ad) jackstay kelimesinin karşılığı: baba boyunduruğu
+JACKSTRAWS	(ad) çoğul çekimi: jackstraw
+JACQUARDS	(ad) çoğul çekimi: jacquard
+JACTITATIONS	(ad) çoğul çekimi: jactitation
+JADE	(ad) jade kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫
+JADED	(jade sözcüğünün çekimi) (ad) jade kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫
+JADES	(jade sözcüğünün çekimi) (ad) jade kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫
+JADING	(jade sözcüğünün çekimi) (ad) jade kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫
+JAGGED	(sıfat) jagged kelimesinin karşılığı: sivri uçlu, ⟪dişli|DİŞLİ⟫, ⟪pürüzlü|PÜRÜZLÜ⟫
+JAGS	(ad) çoğul çekimi: jag
+JAGUAR	(ad) jaguar: Kedigillerden, parsa benzeyen, Orta ve Güney Amerika'da yaşayan, postu iri benekli memeli türü. (Panthera onca veya Felis onca)
+JAGUARS	(jaguar sözcüğünün çekimi) (ad) jaguar: Kedigillerden, parsa benzeyen, Orta ve Güney Amerika'da yaşayan, postu iri benekli memeli türü. (Panthera...
+JAGUARUNDIS	(ad) çoğul çekimi: jaguarundi
+JAIL	(ad) hapishane: Cezaevi.
+JAILBREAK	(ad) firar: kişi tarafından bir varlığa verilen desteğin çekilmesi veya tamamıyla bırakılması (ayrıca: hapishaneden kaçma)\n(eylem) jailbreak kelimesinin karşılığı: hapisten kaçmak
+JAILBREAKS	(ad) çoğul çekimi: jailbreak
+JAILED	(jail sözcüğünün çekimi) (ad) hapishane: Cezaevi.
+JAILER	(ad) gardiyan: cezaevlerinde düzeni, tutukluların kanunlara uygun biçimde davranmalarını sağlamakla görevli kişi
+JAILERS	(ad) çoğul çekimi: jailer
+JAILHOUSES	(ad) çoğul çekimi: jailhouse
+JAILING	(jail sözcüğünün çekimi) (ad) hapishane: Cezaevi.
+JAILORS	(ad) çoğul çekimi: jailor
+JAILS	(ad) jail sözcüğünün çoğul çekimi: hapishane\n(eylem) jail sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: hapishane
+JAKES	(ad) çoğul çekimi: jake
+JAM	(ad) jam kelimesinin karşılığı: ⟪reçel|REÇEL⟫
+JAMBS	(ad) çoğul çekimi: jamb
+JAMMED	(jam sözcüğünün çekimi) (ad) jam kelimesinin karşılığı: ⟪reçel|REÇEL⟫
+JAMMERS	(ad) çoğul çekimi: jammer
+JAMMIES	(ad) çoğul çekimi: jammy
+JAMMING	(ad) jamming kelimesinin karşılığı: ünsüz atımı
+JAMS	(ad) jam sözcüğünün çoğul çekimi: reçel\n(eylem) jam sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: reçel
+JANGLE	(eylem) jangle kelimesinin karşılığı: ⟪atışmak|ATIŞMAK⟫
+JANGLED	(jangle sözcüğünün çekimi) (eylem) jangle kelimesinin karşılığı: ⟪atışmak|ATIŞMAK⟫
+JANGLERS	(ad) çoğul çekimi: jangler
+JANGLES	(jangle sözcüğünün çekimi) (eylem) jangle kelimesinin karşılığı: ⟪atışmak|ATIŞMAK⟫
+JANGLING	(jangle sözcüğünün çekimi) (eylem) jangle kelimesinin karşılığı: ⟪atışmak|ATIŞMAK⟫
+JANISSARIES	(ad) çoğul çekimi: janissary
+JANISSARY	(ad) yeniçeri: Osmanlı Devleti’nde askerî bir sınıftı, ve bu asker sınıfından olan er
+JANITOR	(ad) kapıcı: Apartman, site vb. yerlerde bekçilik, temizlik, alışveriş gibi işlerle görevli kimse. (ayrıca: hizmetli, hademe)
+JANITORS	(ad) çoğul çekimi: janitor
+JAPANS	(ad) çoğul çekimi: japan
+JAPES	(ad) çoğul çekimi: jape
+JAR	(ad) kavanoz: Plastik, cam vb. maddelerden yapılmış ağzı geniş, çeşitli boylarda kap
+JARDINIERE	(ad) çiçeklik: Çiçeğin üzerinde çanak, taç ve öteki organlarının bulunduğu parça. (ayrıca: saksı)
+JARDINIERES	(ad) çoğul çekimi: jardiniere
+JARFULS	(ad) çoğul çekimi: jarful
+JARGON	(ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz dağarcığı, jargon (ayrıca: jargon)
+JARGONED	(jargon sözcüğünün çekimi) (ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz...
+JARGONING	(jargon sözcüğünün çekimi) (ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz...
+JARGONS	(jargon sözcüğünün çekimi) (ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz...
+JARRAHS	(ad) çoğul çekimi: jarrah
+JARRED	(jar sözcüğünün çekimi) (ad) kavanoz: Plastik, cam vb. maddelerden yapılmış ağzı geniş, çeşitli boylarda kap
+JARRING	(jar sözcüğünün çekimi) (ad) kavanoz: Plastik, cam vb. maddelerden yapılmış ağzı geniş, çeşitli boylarda kap
+JARS	(ad) jar sözcüğünün çoğul çekimi: kavanoz
+JARVEYS	(ad) çoğul çekimi: jarvey
+JASMINE	(ad) jasmine kelimesinin karşılığı: ⟪yasemin|YASEMİN⟫
+JASMINES	(jasmine sözcüğünün çekimi) (ad) jasmine kelimesinin karşılığı: ⟪yasemin|YASEMİN⟫
+JASPER	(ad) yeşim: Açık yeşil renkte bir taş.Yüzük ve ziynet eşyası yapımında kullanılır.Eski Türklerde suya atılırsa yağmur yağacağına inanılırdı (ayrıca: jasper)
+JASPERS	(ad) çoğul çekimi: jasper
+JAUNDICE	(ad) sarılık: derinin, dokuların ve organizmadaki sıvıların sarı renk almasıyla beliren bulaşıcı hastalık
+JAUNDICED	(sıfat) sarılıklı: Sarılık olan (kimse) (ayrıca: sarılık olmuş)
+JAUNDICES	(jaundice sözcüğünün çekimi) (ad) sarılık: derinin, dokuların ve organizmadaki sıvıların sarı renk almasıyla beliren bulaşıcı hastalık
+JAUNDICING	(jaundice sözcüğünün çekimi) (ad) sarılık: derinin, dokuların ve organizmadaki sıvıların sarı renk almasıyla beliren bulaşıcı hastalık
+JAUNTS	(ad) çoğul çekimi: jaunt
+JAVA	(ad) java kelimesinin karşılığı: ⟪betik|BETİK⟫
+JAVAS	(java sözcüğünün çekimi) (ad) java kelimesinin karşılığı: ⟪betik|BETİK⟫
+JAVELIN	(ad) cirit: at üstünde birbirine değnek atarak, takım halinde oynanan bir oyun
+JAVELINED	(javelin sözcüğünün çekimi) (ad) cirit: at üstünde birbirine değnek atarak, takım halinde oynanan bir oyun
+JAVELINING	(javelin sözcüğünün çekimi) (ad) cirit: at üstünde birbirine değnek atarak, takım halinde oynanan bir oyun
+JAVELINS	(ad) çoğul çekimi: javelin
+JAW	(ad) çene: canlılarda baş bölümünde yer alan, kemik veya kıkırdak ile desteklenen, altlı üstlü dişleri taşıyan ve ağzın kapanıp açılmasını sağlayan kasları üzerinde barındıran iki parçaya verilen ad
+JAWBONES	(ad) çoğul çekimi: jawbone
+JAWBREAKERS	(ad) çoğul çekimi: jawbreaker
+JAWED	(jaw sözcüğünün çekimi) (ad) çene: canlılarda baş bölümünde yer alan, kemik veya kıkırdak ile desteklenen, altlı üstlü dişleri taşıyan ve ağzın...
+JAWING	(jaw sözcüğünün çekimi) (ad) çene: canlılarda baş bölümünde yer alan, kemik veya kıkırdak ile desteklenen, altlı üstlü dişleri taşıyan ve ağzın...
+JAWS	(ad) jaws kelimesinin karşılığı: ⟪çeneler|ÇENELER⟫
+JAY	(ad) jay kelimesinin karşılığı: ⟪alakarga|ALAKARGA⟫, bayağı alakarga
+JAYBIRDS	(ad) çoğul çekimi: jaybird
+JAYS	(ad) çoğul çekimi: jay
+JAYWALKERS	(ad) çoğul çekimi: jaywalker
+JAZZ	(ad) jazz kelimesinin karşılığı: ⟪caz|CAZ⟫
+JAZZED	(jazz sözcüğünün çekimi) (ad) jazz kelimesinin karşılığı: ⟪caz|CAZ⟫
+JAZZES	(jazz sözcüğünün çekimi) (ad) jazz kelimesinin karşılığı: ⟪caz|CAZ⟫
+JAZZING	(jazz sözcüğünün çekimi) (ad) jazz kelimesinin karşılığı: ⟪caz|CAZ⟫
+JEALOUS	(sıfat) haset: kıskanç. (ayrıca: kıskanç, hasut)
+JEALOUSIES	(ad) çoğul çekimi: jealousy
+JEALOUSLY	(zarf) jealously kelimesinin karşılığı: kıskançlıkla
+JEALOUSNESS	(ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına varıldığında takınılan olumsuz tutum, günücülük, hasetçilik, hasetlik, hasutluk
+JEALOUSNESSES	(jealousness sözcüğünün çekimi) (ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına...
+JEALOUSY	(ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına varıldığında takınılan olumsuz tutum, günücülük, hasetçilik, hasetlik, hasutluk
+JEAN	(ad) jean kelimesinin karşılığı: ⟪cin|CİN⟫
+JEANS	(ad) jeans kelimesinin karşılığı: kot pantolon
+JEEP	(ad) cip: Toprak ve çamurlu yollarda, zorlu arazi şartlarında kullanılmaya uygun, dört tekerden çekişli, motorlu kara taşıtı
+JEEPS	(jeep sözcüğünün çekimi) (ad) cip: Toprak ve çamurlu yollarda, zorlu arazi şartlarında kullanılmaya uygun, dört tekerden çekişli, motorlu kara...
+JEERS	(ad) çoğul çekimi: jeer
+JELLABAS	(ad) çoğul çekimi: jellaba
+JELLIED	(jelly sözcüğünün çekimi) (ad) jöle: meyve suyunun şekerle kaynatılmasıyla istenilen yoğunlukta elde edilen şekerleme
+JELLIES	(ad) çoğul çekimi: jelly
+JELLS	(ad) çoğul çekimi: jell
+JELLY	(ad) jöle: meyve suyunun şekerle kaynatılmasıyla istenilen yoğunlukta elde edilen şekerleme
+JELLYFISH	(ad) denizanası: Sölenterlerden, yassı bir diske benzeyen, saydam, serbestçe yüzebilen deniz hayvanı.
+JELLYFISHES	(ad) çoğul çekimi: jellyfish
+JELLYING	(jelly sözcüğünün çekimi) (ad) jöle: meyve suyunun şekerle kaynatılmasıyla istenilen yoğunlukta elde edilen şekerleme
+JEMMIES	(ad) çoğul çekimi: jemmy
+JENNETS	(ad) çoğul çekimi: jennet
+JEREMIADS	(ad) çoğul çekimi: jeremiad
+JERK	(ad) pislik: (mecaz) kötü durum (ayrıca: ani hareket, aşağılık kimse)
+JERKED	(jerk sözcüğünün çekimi) (ad) pislik: (mecaz) kötü durum (ayrıca: ani hareket, aşağılık kimse)
+JERKING	(jerk sözcüğünün çekimi) (ad) pislik: (mecaz) kötü durum (ayrıca: ani hareket, aşağılık kimse)
+JERKINS	(ad) çoğul çekimi: jerkin
+JERKS	(jerk sözcüğünün çekimi) (ad) pislik: (mecaz) kötü durum (ayrıca: ani hareket, aşağılık kimse)
+JERRIES	(ad) çoğul çekimi: jerry
+JERSEY	(ad) jersey kelimesinin karşılığı: ⟪jarse|JARSE⟫
+JERSEYED	(jersey sözcüğünün çekimi) (ad) jersey kelimesinin karşılığı: ⟪jarse|JARSE⟫
+JERSEYS	(jersey sözcüğünün çekimi) (ad) jersey kelimesinin karşılığı: ⟪jarse|JARSE⟫
+JESSAMINES	(ad) çoğul çekimi: jessamine
+JESSES	(ad) çoğul çekimi: jess
+JEST	(ad) şaka: güldürmek, eğlendirmek amacıyla karşısındakini kırmadan yapılan hareket ya da söylenen söz, latife
+JESTED	(jest sözcüğünün çekimi) (ad) şaka: güldürmek, eğlendirmek amacıyla karşısındakini kırmadan yapılan hareket ya da söylenen söz, latife
+JESTERS	(ad) çoğul çekimi: jester
+JESTING	(jest sözcüğünün çekimi) (ad) şaka: güldürmek, eğlendirmek amacıyla karşısındakini kırmadan yapılan hareket ya da söylenen söz, latife
+JESTINGS	(jest sözcüğünün çekimi) (ad) şaka: güldürmek, eğlendirmek amacıyla karşısındakini kırmadan yapılan hareket ya da söylenen söz, latife
+JESTS	(ad) çoğul çekimi: jest
+JESUIT	(ad) cizvit: İsa Derneği denilen bir Hristiyan derneğinin üyesi
+JESUITS	(jesuit sözcüğünün çekimi) (ad) cizvit: İsa Derneği denilen bir Hristiyan derneğinin üyesi
+JET	(ad) jet: Tepkili motorlarla çalışan, özel cihazların çıkardığı gazla basınç sağlanan, hızı çok olan uçak; tepkili uçak
+JETES	(jet sözcüğünün çekimi) (ad) jet: Tepkili motorlarla çalışan, özel cihazların çıkardığı gazla basınç sağlanan, hızı çok olan uçak; tepkili uçak
+JETS	(ad) jet sözcüğünün çoğul çekimi: jet
+JETTED	(jet sözcüğünün çekimi) (ad) jet: Tepkili motorlarla çalışan, özel cihazların çıkardığı gazla basınç sağlanan, hızı çok olan uçak; tepkili uçak
+JETTING	(jet sözcüğünün çekimi) (ad) jet: Tepkili motorlarla çalışan, özel cihazların çıkardığı gazla basınç sağlanan, hızı çok olan uçak; tepkili uçak
+JETTISONS	(ad) çoğul çekimi: jettison
+JEW	(ad) Yahudi, Yahudilik dinine inanan kimse; Musevî.
+JEWED	(jew sözcüğünün çekimi) (ad) Yahudi, Yahudilik dinine inanan kimse; Musevî.
+JEWEL	(ad) mücevher: Değerli süs eşyası
+JEWELED	(jewel sözcüğünün çekimi) (ad) mücevher: Değerli süs eşyası
+JEWELER	(ad) kuyumcu: Değerli metal ve taşlardan bilezik, küpe vb. süs eşyası yapan veya satan kimse;mücevherci, sarraf, cevahirci
+JEWELERS	(ad) çoğul çekimi: jeweler
+JEWELING	(jewel sözcüğünün çekimi) (ad) mücevher: Değerli süs eşyası
+JEWELLED	(jewel sözcüğünün çekimi) (ad) mücevher: Değerli süs eşyası
+JEWELLER	(ad) kuyumcu: Değerli metal ve taşlardan bilezik, küpe vb. süs eşyası yapan veya satan kimse;mücevherci, sarraf, cevahirci
+JEWELLERIES	(jewellery sözcüğünün çekimi) (ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin...
+JEWELLERS	(ad) çoğul çekimi: jeweller
+JEWELLERY	(ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü
+JEWELLING	(jewel sözcüğünün çekimi) (ad) mücevher: Değerli süs eşyası
+JEWELRIES	(jewelry sözcüğünün çekimi) (ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin...
+JEWELRY	(ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü
+JEWELS	(ad) çoğul çekimi: jewel
+JEWING	(jew sözcüğünün çekimi) (ad) Yahudi, Yahudilik dinine inanan kimse; Musevî.
+JEWS	(ad) çoğul çekimi: jew
+JIB	(ad) flok: Yelkenli gemilerde civadra ile pruva direği arasındaki üç köşe yelken.
+JIBBED	(jib sözcüğünün çekimi) (ad) flok: Yelkenli gemilerde civadra ile pruva direği arasındaki üç köşe yelken.
+JIBBERS	(ad) çoğul çekimi: jibber
+JIBBING	(jib sözcüğünün çekimi) (ad) flok: Yelkenli gemilerde civadra ile pruva direği arasındaki üç köşe yelken.
+JIBER	(jib sözcüğünün çekimi) (ad) flok: Yelkenli gemilerde civadra ile pruva direği arasındaki üç köşe yelken.
+JIBES	(ad) çoğul çekimi: jibe
+JIBS	(ad) çoğul çekimi: jib
+JIFFIES	(ad) çoğul çekimi: jiffy
+JIGGERS	(ad) çoğul çekimi: jigger
+JIGS	(ad) çoğul çekimi: jig
+JIGSAWS	(ad) çoğul çekimi: jigsaw
+JIHAD	(ad) cihat: din ve Allah yolunda yapılan savaş\n(eylem) jihad kelimesinin karşılığı: cihat etmek
+JIHADS	(jihad sözcüğünün çekimi) (ad) cihat: din ve Allah yolunda yapılan savaş
+JILLIONS	(ad) çoğul çekimi: jillion
+JILTS	(ad) çoğul çekimi: jilt
+JIMMIES	(ad) çoğul çekimi: jimmy
+JINGLE	(ad) jingle kelimesinin karşılığı: ⟪şıngırtı|ŞINGIRTI⟫, ⟪tıngırtı|TINGIRTI⟫\n(eylem) jingle kelimesinin karşılığı: şıngırdatmak
+JINGLED	(jingle sözcüğünün çekimi) (ad) jingle kelimesinin karşılığı: ⟪şıngırtı|ŞINGIRTI⟫, ⟪tıngırtı|TINGIRTI⟫
+JINGLES	(jingle sözcüğünün çekimi) (ad) jingle kelimesinin karşılığı: ⟪şıngırtı|ŞINGIRTI⟫, ⟪tıngırtı|TINGIRTI⟫
+JINGLING	(jingle sözcüğünün çekimi) (ad) jingle kelimesinin karşılığı: ⟪şıngırtı|ŞINGIRTI⟫, ⟪tıngırtı|TINGIRTI⟫
+JINGOISM	(ad) jingoism kelimesinin karşılığı: aşırı milliyetçilik, ⟪şovenlik|ŞOVENLİK⟫, ⟪şovenizm|ŞOVENİZM⟫
+JINGOISMS	(jingoism sözcüğünün çekimi) (ad) jingoism kelimesinin karşılığı: aşırı milliyetçilik, ⟪şovenlik|ŞOVENLİK⟫, ⟪şovenizm|ŞOVENİZM⟫
+JINGOISTS	(ad) çoğul çekimi: jingoist
+JINK	(ad) jink kelimesinin karşılığı: yana kaçmak
+JINKED	(jink sözcüğünün çekimi) (ad) jink kelimesinin karşılığı: yana kaçmak
+JINKER	(jink sözcüğünün çekimi) (ad) jink kelimesinin karşılığı: yana kaçmak
+JINKING	(jink sözcüğünün çekimi) (ad) jink kelimesinin karşılığı: yana kaçmak
+JINKS	(ad) çoğul çekimi: jink
+JINNS	(ad) jinn sözcüğünün çoğul çekimi
+JINRIKISHAS	(ad) çoğul çekimi: jinrikisha
+JINXES	(ad) çoğul çekimi: jinx
+JITNEYS	(ad) çoğul çekimi: jitney
+JITTERBUGS	(ad) çoğul çekimi: jitterbug
+JITTERS	(ad) çoğul çekimi: jitter
+JIVE	(ad) jive kelimesinin karşılığı: swing dansı
+JIVED	(jive sözcüğünün çekimi) (ad) jive kelimesinin karşılığı: swing dansı
+JIVES	(ad) çoğul çekimi: jive
+JIVING	(jive sözcüğünün çekimi) (ad) jive kelimesinin karşılığı: swing dansı
+JOB	(ad) meslek: belli bir eğitim ile kazanılan sistemli bilgi ve becerilere dayalı, insanlara yararlı mal üretmek, hizmet vermek ve karşılığında para kazanmak için yapılan, kuralları belirlenmiş iş (ayrıca: iş, görev)
+JOBBED	(job sözcüğünün çekimi) (ad) meslek: belli bir eğitim ile kazanılan sistemli bilgi ve becerilere dayalı, insanlara yararlı mal üretmek, hizmet...
+JOBBERS	(ad) çoğul çekimi: jobber
+JOBBING	(job sözcüğünün çekimi) (ad) meslek: belli bir eğitim ile kazanılan sistemli bilgi ve becerilere dayalı, insanlara yararlı mal üretmek, hizmet...
+JOBHOLDERS	(ad) çoğul çekimi: jobholder
+JOBS	(ad) job sözcüğünün çoğul çekimi: meslek; iş; görev
+JOCKEY	(ad) cokey: yarış atlarına binen, yetenekleri bu amaca göre geliştirilmiş kimse, jokey (ayrıca: jokey)
+JOCKEYED	(jockey sözcüğünün çekimi) (ad) cokey: yarış atlarına binen, yetenekleri bu amaca göre geliştirilmiş kimse, jokey (ayrıca: jokey)
+JOCKEYING	(jockey sözcüğünün çekimi) (ad) cokey: yarış atlarına binen, yetenekleri bu amaca göre geliştirilmiş kimse, jokey (ayrıca: jokey)
+JOCKEYS	(jockey sözcüğünün çekimi) (ad) cokey: yarış atlarına binen, yetenekleri bu amaca göre geliştirilmiş kimse, jokey (ayrıca: jokey)
+JOCKS	(ad) çoğul çekimi: jock
+JOCKSTRAP	(ad) Destekleyici, genital organları korumak amacıyla erkeklerce kullanılan koruyucu.
+JOCKSTRAPS	(jockstrap sözcüğünün çekimi) (ad) Destekleyici, genital organları korumak amacıyla erkeklerce kullanılan koruyucu.
+JOCULAR	(sıfat) jocular kelimesinin karşılığı: ⟪nükteli|NÜKTELİ⟫
+JOES	(ad) çoğul çekimi: joe
+JOGS	(ad) çoğul çekimi: jog
+JOHNNYCAKES	(ad) çoğul çekimi: johnnycake
+JOHNS	(ad) çoğul çekimi: john
+JOIN	(eylem) birleşmek: buluşmak, bir araya gelmek
+JOINED	(join sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JOINER	(ad) joiner kelimesinin karşılığı: ⟪doğramacı|DOĞRAMACI⟫, ⟪marangoz|MARANGOZ⟫, ⟪dülger|DÜLGER⟫
+JOINERS	(joiner sözcüğünün çekimi) (ad) joiner kelimesinin karşılığı: ⟪doğramacı|DOĞRAMACI⟫, ⟪marangoz|MARANGOZ⟫, ⟪dülger|DÜLGER⟫
+JOINING	(ad) ilhak: hâkimiyeti altına alma (ayrıca: eklenme)
+JOININGS	(join sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JOINS	(ad) çoğul çekimi: join
+JOINT	(ad) eklem: vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer
+JOINTED	(joint sözcüğünün çekimi) (ad) eklem: vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer
+JOINTEDLY	(joint sözcüğünün çekimi) (ad) eklem: vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer
+JOINTERS	(ad) çoğul çekimi: jointer
+JOINTING	(joint sözcüğünün çekimi) (ad) eklem: vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer
+JOINTLY	(zarf) ortaklaşa: Ortak olarak, el birliğiyle; ortakça, müştereken, kolektif (ayrıca: beraber)
+JOINTS	(ad) joint sözcüğünün çoğul çekimi: eklem\n(eylem) joint sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: eklem
+JOIST	(ad) kiriş: yapılarda dört köşe kalın keresteden, demirden veya betonarmeden yapılmış yatay destek parçası
+JOISTED	(joist sözcüğünün çekimi) (ad) kiriş: yapılarda dört köşe kalın keresteden, demirden veya betonarmeden yapılmış yatay destek parçası
+JOISTING	(joist sözcüğünün çekimi) (ad) kiriş: yapılarda dört köşe kalın keresteden, demirden veya betonarmeden yapılmış yatay destek parçası
+JOISTS	(ad) çoğul çekimi: joist
+JOKE	(eylem) joke kelimesinin karşılığı: şaka yapmak
+JOKED	(joke sözcüğünün çekimi) (eylem) joke kelimesinin karşılığı: şaka yapmak
+JOKER	(ad) palyaço: seyircileri eğlendirmek için ilginç kıyafetler giyerek soytarılık ve numaralar yapan, komik hikayeler anlatan kişi
+JOKERS	(ad) çoğul çekimi: joker
+JOKES	(ad) joke sözcüğünün çoğul çekimi: şaka yapmak.
+JOKESTERS	(ad) çoğul çekimi: jokester
+JOKING	(joke sözcüğünün çekimi) (eylem) joke kelimesinin karşılığı: şaka yapmak
+JOLLIES	(ad) çoğul çekimi: jolly
+JOLT	(eylem) sarsmak: birdenbire ve güçle kımıldatmak, sallamak, oynatmak, titretmek (ayrıca: hırpalamak, hoplatmak)
+JOLTED	(jolt sözcüğünün çekimi) (eylem) sarsmak: birdenbire ve güçle kımıldatmak, sallamak, oynatmak, titretmek (ayrıca: hırpalamak, hoplatmak)
+JOLTING	(jolt sözcüğünün çekimi) (eylem) sarsmak: birdenbire ve güçle kımıldatmak, sallamak, oynatmak, titretmek (ayrıca: hırpalamak, hoplatmak)
+JOLTS	(ad) çoğul çekimi: jolt
+JONQUILS	(ad) çoğul çekimi: jonquil
+JOSTLES	(ad) çoğul çekimi: jostle
+JOTS	(ad) çoğul çekimi: jot
+JOTTINGS	(ad) çoğul çekimi: jotting
+JOULE	(ad) jul: bir cisim üzerine uygulanan bir nevtonluk kuvvetin uygulama noktasını, kendi doğrultusunda bir metre değiştiren iş birimi (ayrıca: jül)
+JOULES	(joule sözcüğünün çekimi) (ad) jul: bir cisim üzerine uygulanan bir nevtonluk kuvvetin uygulama noktasını, kendi doğrultusunda bir metre...
+JOURNAL	(ad) journal kelimesinin karşılığı: ⟪dergi|DERGİ⟫, ⟪mecmua|MECMUA⟫
+JOURNALESE	(ad) journalese kelimesinin karşılığı: gazete dili
+JOURNALESES	(journalese sözcüğünün çekimi) (ad) journalese kelimesinin karşılığı: gazete dili
+JOURNALISM	(ad) journalism kelimesinin karşılığı: ⟪gazetecilik|GAZETECİLİK⟫
+JOURNALISMS	(journalism sözcüğünün çekimi) (ad) journalism kelimesinin karşılığı: ⟪gazetecilik|GAZETECİLİK⟫
+JOURNALIST	(ad) gazeteci: Gazete yayımlayan, gazete sahibi
+JOURNALISTS	(ad) çoğul çekimi: journalist
+JOURNALS	(ad) çoğul çekimi: journal
+JOURNEY	(ad) yolculuk: Ülkeden ülkeye veya bir ülke içinde bir yerden bir yere gidiş veya geliş. (ayrıca: seyahat)
+JOURNEYED	(journey sözcüğünün çekimi) (ad) yolculuk: Ülkeden ülkeye veya bir ülke içinde bir yerden bir yere gidiş veya geliş. (ayrıca: seyahat)
+JOURNEYERS	(ad) çoğul çekimi: journeyer
+JOURNEYING	(journey sözcüğünün çekimi) (ad) yolculuk: Ülkeden ülkeye veya bir ülke içinde bir yerden bir yere gidiş veya geliş. (ayrıca: seyahat)
+JOURNEYMAN	(ad) kalfa: bir mesleğin gerektirdiği bilgi, beceri ve iş alışkanlıklarını kazanmış ve bu meslekle ilgili iş ve işlemleri ustanın gözetimi altında kabul edilebilir standartlarda yapabilen, kalfalık belgesi sahibi olan kişi
+JOURNEYMEN	(ad) çoğul çekimi: journeyman
+JOURNEYS	(ad) journey sözcüğünün çoğul çekimi: seyahat, yolculuk.
+JOUSTERS	(ad) çoğul çekimi: jouster
+JOUSTS	(ad) çoğul çekimi: joust
+JOWLS	(ad) çoğul çekimi: jowl
+JOY	(ad) haz: bir şeyden duyusal veya manevi sevinç duyma (ayrıca: neşe, sevinç)
+JOYED	(joy sözcüğünün çekimi) (ad) haz: bir şeyden duyusal veya manevi sevinç duyma (ayrıca: neşe, sevinç)
+JOYFUL	(sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şen)
+JOYFULLER	(joyful sözcüğünün çekimi) (sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şen)
+JOYFULLEST	(joyful sözcüğünün çekimi) (sıfat) neşeli: sevinçli, keyifli, şen bir biçimde (ayrıca: şen)
+JOYING	(joy sözcüğünün çekimi) (ad) haz: bir şeyden duyusal veya manevi sevinç duyma (ayrıca: neşe, sevinç)
+JOYS	(ad) çoğul çekimi: joy
+JOYSTICK	(ad) joystick kelimesinin karşılığı: yönetme kolu, kumanda kolu, oyun kolu
+JOYSTICKS	(ad) çoğul çekimi: joystick
+JUBILEE	(ad) jübile: bir sanat veya spor dalında uzun süre çalışanların onuruna düzenlenen kutlama töreni
+JUBILEES	(ad) çoğul çekimi: jubilee
+JUDDERS	(ad) çoğul çekimi: judder
+JUDGE	(ad) judge kelimesinin karşılığı: ⟪hakem|HAKEM⟫\n(eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek (ayrıca: hüküm vermek, muhakeme)
+JUDGED	(eylem) judge sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hakem
+JUDGEMENTS	(ad) çoğul çekimi: judgement
+JUDGES	(ad) judge sözcüğünün çoğul çekimi: hakem
+JUDGING	(judge sözcüğünün çekimi) (ad) judge kelimesinin karşılığı: ⟪hakem|HAKEM⟫
+JUDGMENT	(ad) hüküm: yargı. (ayrıca: yargı)
+JUDGMENTS	(ad) judgement sözcüğünün çoğul çekimi
+JUDICIARIES	(ad) çoğul çekimi: judiciary
+JUDICIOUS	(sıfat) judicious kelimesinin karşılığı: aklı başında
+JUDICIOUSNESS	(ad) judiciousness kelimesinin karşılığı: feraset
+JUDICIOUSNESSES	(judiciousness sözcüğünün çekimi) (ad) judiciousness kelimesinin karşılığı: feraset
+JUDO	(ad) judo: jiujitsudan gelişmiş, silahsız olarak , tutmalara, fırlatmalara, hareketsiz bırakmalara dayanan Japon kökenli dövüş sporu
+JUDOS	(judo sözcüğünün çekimi) (ad) judo: jiujitsudan gelişmiş, silahsız olarak , tutmalara, fırlatmalara, hareketsiz bırakmalara dayanan Japon...
+JUG	(ad) jug kelimesinin karşılığı: ⟪sürahi|SÜRAHİ⟫
+JUGFULS	(ad) çoğul çekimi: jugful
+JUGGED	(jug sözcüğünün çekimi) (ad) jug kelimesinin karşılığı: ⟪sürahi|SÜRAHİ⟫
+JUGGERNAUTS	(ad) çoğul çekimi: juggernaut
+JUGGING	(jug sözcüğünün çekimi) (ad) jug kelimesinin karşılığı: ⟪sürahi|SÜRAHİ⟫
+JUGGLE	(eylem) juggle kelimesinin karşılığı: hokkabazlık yapmak
+JUGGLED	(juggle sözcüğünün çekimi) (eylem) juggle kelimesinin karşılığı: hokkabazlık yapmak
+JUGGLER	(sıfat) hokkabaz: El çabukluğu ile birtakım şaşırtıcı olaylar yapmayı meslek edinen kimse, hilekâr.
+JUGGLERS	(ad) çoğul çekimi: juggler
+JUGGLES	(ad) çoğul çekimi: juggle
+JUGGLING	(juggle sözcüğünün çekimi) (eylem) juggle kelimesinin karşılığı: hokkabazlık yapmak
+JUGGLINGS	(juggle sözcüğünün çekimi) (eylem) juggle kelimesinin karşılığı: hokkabazlık yapmak
+JUGS	(ad) jug sözcüğünün çoğul çekimi: sürahi
+JUICE	(ad) juice kelimesinin karşılığı: meyve suyu
+JUICED	(juice sözcüğünün çekimi) (ad) juice kelimesinin karşılığı: meyve suyu
+JUICERS	(ad) çoğul çekimi: juicer
+JUICES	(ad) juice sözcüğünün çoğul çekimi: meyve suyu
+JUICING	(juice sözcüğünün çekimi) (ad) juice kelimesinin karşılığı: meyve suyu
+JUJUS	(ad) çoğul çekimi: juju
+JUJUTSU	(ad) jujutsu kelimesinin karşılığı: ⟪jiujitsu|JİUJİTSU⟫
+JUJUTSUS	(jujutsu sözcüğünün çekimi) (ad) jujutsu kelimesinin karşılığı: ⟪jiujitsu|JİUJİTSU⟫
+JULIENNES	(ad) çoğul çekimi: julienne
+JUMBLE	(ad) jumble kelimesinin karşılığı: ⟪dağınıklık|DAĞINIKLIK⟫\n(eylem) karıştırmak: ayırt edememek, tam olarak seçmemek
+JUMBLED	(jumble sözcüğünün çekimi) (ad) jumble kelimesinin karşılığı: ⟪dağınıklık|DAĞINIKLIK⟫
+JUMBLES	(jumble sözcüğünün çekimi) (ad) jumble kelimesinin karşılığı: ⟪dağınıklık|DAĞINIKLIK⟫
+JUMBLING	(jumble sözcüğünün çekimi) (ad) jumble kelimesinin karşılığı: ⟪dağınıklık|DAĞINIKLIK⟫
+JUMP	(eylem) zıplamak: bir yere çarpıp yukarı fırlamak (ayrıca: zıplatmak)
+JUMPED	(eylem) jump sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: zıplamak, zıplatmak.
+JUMPER	(ad) jumper kelimesinin karşılığı: ⟪kazak|KAZAK⟫
+JUMPERS	(ad) çoğul çekimi: jumper
+JUMPING	(eylem) jump sözcüğünün şimdiki zaman ortaç ve gerund çekimi: zıplamak, zıplatmak.
+JUMPS	(ad) jump sözcüğünün çoğul çekimi: zıplamak, zıplatmak.
+JUMPSUIT	(ad) jumpsuit kelimesinin karşılığı: ⟪tulum|TULUM⟫
+JUMPSUITS	(jumpsuit sözcüğünün çekimi) (ad) jumpsuit kelimesinin karşılığı: ⟪tulum|TULUM⟫
+JUNCTION	(ad) junction kelimesinin karşılığı: ⟪bağlama|BAĞLAMA⟫
+JUNCTIONS	(ad) çoğul çekimi: junction
+JUNCTURE	(ad) kavşak: yol vb. uzayıp giden şeylerin kesiştikleri veya birleştikleri yer, çat
+JUNCTURES	(ad) çoğul çekimi: juncture
+JUNGLE	(ad) vahşi orman; balta girmemiş orman; cangıl
+JUNGLED	(jungle sözcüğünün çekimi) (ad) vahşi orman; balta girmemiş orman; cangıl
+JUNGLES	(ad) jungle sözcüğünün çoğul çekimi: vahşi orman; balta girmemiş orman; cangıl
+JUNIOR	(sıfat) Genç Dinamik Coşkulu
+JUNIORS	(junior sözcüğünün çekimi) (sıfat) Genç Dinamik Coşkulu
+JUNIPER	(ad) juniper kelimesinin karşılığı: ⟪ardıç|ARDIÇ⟫
+JUNIPERS	(ad) çoğul çekimi: juniper
+JUNK	(ad) junk kelimesinin karşılığı: ⟪hurda|HURDA⟫
+JUNKED	(junk sözcüğünün çekimi) (ad) junk kelimesinin karşılığı: ⟪hurda|HURDA⟫
+JUNKETEERS	(ad) çoğul çekimi: junketeer
+JUNKING	(junk sözcüğünün çekimi) (ad) junk kelimesinin karşılığı: ⟪hurda|HURDA⟫
+JUNKS	(ad) çoğul çekimi: junk
+JUNTA	(ad) cunta: Bir ülkede yönetime el koyan kimselerden oluşan kurul
+JUNTAS	(ad) çoğul çekimi: junta
+JUNTOS	(ad) çoğul çekimi: junto
+JURIDICAL	(sıfat) türel: adalet ile ilgili olan, hukuki, adli (ayrıca: hukuki, adli)
+JURIED	(jury sözcüğünün çekimi) (ad) jury kelimesinin karşılığı: ⟪jüri|JÜRİ⟫
+JURIES	(ad) çoğul çekimi: jury
+JURISDICTION	(ad) jurisdiction kelimesinin karşılığı: yönetim yeri
+JURISDICTIONS	(ad) çoğul çekimi: jurisdiction
+JURIST	(ad) hukukçu: hukuku meslek edinen, hukukla uğraşan kimse (ayrıca: tüzeci)
+JURISTS	(ad) çoğul çekimi: jurist
+JURORS	(ad) çoğul çekimi: juror
+JURY	(ad) jury kelimesinin karşılığı: ⟪jüri|JÜRİ⟫
+JURYING	(jury sözcüğünün çekimi) (ad) jury kelimesinin karşılığı: ⟪jüri|JÜRİ⟫
+JURYMEN	(ad) çoğul çekimi: juryman
+JUST	(zarf) azıcık, çok az farkla (eksik, fazla v.s.)\n(sıfat) âdil: adaletle iş gören, adaletten, doğruluktan ayrılmayan, hakkı yerine getiren, adaletli
+JUSTED	(just sözcüğünün çekimi) (zarf) azıcık, çok az farkla (eksik, fazla v.s.)
+JUSTER	(just sözcüğünün çekimi) (zarf) azıcık, çok az farkla (eksik, fazla v.s.)
+JUSTEST	(just sözcüğünün çekimi) (zarf) azıcık, çok az farkla (eksik, fazla v.s.)
+JUSTICE	(ad) adalet: Kanunlarla sahip olunan hakların herkes tarafından kullanılmasının sağlanması
+JUSTICES	(justice sözcüğünün çekimi) (ad) adalet: Kanunlarla sahip olunan hakların herkes tarafından kullanılmasının sağlanması
+JUSTIFIABLE	(sıfat) justifiable kelimesinin karşılığı: hak verilebilir
+JUSTIFICATION	(ad) gerekçe: Bir şeyi gerekli duruma getiren, yapılmasına sebep olan şey, gerektirici sebep.
+JUSTIFICATIONS	(justification sözcüğünün çekimi) (ad) gerekçe: Bir şeyi gerekli duruma getiren, yapılmasına sebep olan şey, gerektirici sebep.
+JUSTIFIED	(eylem) justify sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: haklı göstermek.
+JUSTIFIES	(justify sözcüğünün çekimi) (eylem) justify kelimesinin karşılığı: haklı göstermek
+JUSTIFY	(eylem) justify kelimesinin karşılığı: haklı göstermek
+JUSTIFYING	(justify sözcüğünün çekimi) (eylem) justify kelimesinin karşılığı: haklı göstermek
+JUSTING	(just sözcüğünün çekimi) (zarf) azıcık, çok az farkla (eksik, fazla v.s.)
+JUSTS	(just sözcüğünün çekimi) (zarf) azıcık, çok az farkla (eksik, fazla v.s.)
+JUTE	(ad) jüt: Bu bitkinin liflerinden yapılan dokuma.
+JUTES	(jute sözcüğünün çekimi) (ad) jüt: Bu bitkinin liflerinden yapılan dokuma.
+JUTS	(ad) çoğul çekimi: jut
+JUVENILE	(ad) genç: Çocukluktan çıkmış yetişkin kimse.
+JUVENILES	(juvenile sözcüğünün çekimi) (ad) genç: Çocukluktan çıkmış yetişkin kimse.

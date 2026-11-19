@@ -1,0 +1,12 @@
+WAPITI	(ad) wapiti kelimesinin karşılığı: ⟪sığın|SIĞIN⟫
+WARRANT	(ad) warrant kelimesinin karşılığı: ⟪varan|VARAN⟫
+WASABI	(ad) wasabi kelimesinin karşılığı: ⟪vasabi|VASABİ⟫
+WHISKERIA	(ad) genelev: Hayat kadınlarının barındığı, fuhuş yapılan kapalı mekân.
+WHISKY	(ad) viski: Tahıllar malt yapılarak şekerlendirildikten ve gereği kadar mayalandıktan sonra damıtılarak elde edilen alkollü içki
+WIDGET	(ad) parçacık: çizgesel kullanıcı arayüzündeki herbir öbek ya da yazılım parçası; kişiselleştirilmiş bir elbiz sayfası için yazılım öbeği
+WIKI	(ad) viki: Kullanıcıların üzerinde değişiklik yapma yetkisine sahip olduğu açık ağ sayfalarıdır. Geliştirilen özel bir yazılım sayesinde (MediaWiki) her kullanıcı istediği sayfada değişiklik yapabilir ve değiştirilen sayfa anında bütün kullanıcılar tarafından görülür.
+WINDSURF	(ad) windsurf kelimesinin karşılığı: rüzgâr sörfü
+WISKI	(ad) wiski kelimesinin karşılığı: ⟪viski|VİSKİ⟫
+WOLFRAM	(ad) volfram: atom sayısı 74, atom ağırlığı 183,85 olan, 19,3 yoğunluğunda, sert ve ancak 3482 °C'de ergiyen bir element, tungsten (ayrıca: tungsten)
+WOLFRAMIO	(ad) volfram: atom sayısı 74, atom ağırlığı 183,85 olan, 19,3 yoğunluğunda, sert ve ancak 3482 °C'de ergiyen bir element, tungsten (ayrıca: tungsten)
+WONES	(ad) çoğul çekimi: won

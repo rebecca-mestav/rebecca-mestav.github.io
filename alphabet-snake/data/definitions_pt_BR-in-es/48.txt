@@ -1,0 +1,855 @@
+HABANERA	(sustantivo) habanera: Danza de movimiento lento y composición musical de origen cubano de compás binario y ritmo cadencioso.
+HABIL	(adjetivo) hábil: Que puede hacer muy bien algo.
+HABILIDADE	(sustantivo) habilidad: Capacidad, inteligencia, efectividad y disposición para hacer algo.
+HABILIDOSA	(forma de habilidoso) (adjetivo) habilidoso: Que tiene mucha destreza o maña para lograr un fin o ejecutar una actividad.
+HABILIDOSAMENTE	(adverbio) habilidosamente: De un modo habilidoso.
+HABILIDOSO	(adjetivo) habilidoso: Que tiene mucha destreza o maña para lograr un fin o ejecutar una actividad.
+HABILITA	(forma de habilitar) (verbo) habilitar: Dar aptitud, capacidad, autorización legales a una persona o a un trámite.
+HABILITADA	(sustantivo) Forma del femenino de habilitado: Habilitado.\n(participio) Forma del femenino de habilitado, participio pasado de habilitar: Habilitado.
+HABILITADO	(sustantivo) habilitado: Ayudante o suplente judicial que tiene autorización legal para sustituir temporalmente al titular de un cargo.\n(verbo) Participio pasado de habilitar.
+HABILITAR	(verbo) habilitar: Dar aptitud, capacidad, autorización legales a una persona o a un trámite.
+HABILITAÇAO	(sustantivo) habilitación: Acción o efecto de habilitar. Dar u obtener la habilidad, capacidad, autoridad, adecuación o medios para poder hacer algo, lograrlo o servir para un fin.
+HABILITAÇOES	(forma de habilitaçao) (sustantivo) habilitación: Acción o efecto de habilitar. Dar u obtener la habilidad, capacidad, autoridad, adecuación o...
+HABILITE	(forma de habilitar) (verbo) habilitar: Dar aptitud, capacidad, autorización legales a una persona o a un trámite.
+HABILITEI	(forma de habilitar) (verbo) habilitar: Dar aptitud, capacidad, autorización legales a una persona o a un trámite.
+HABILITO	(forma de habilitar) (verbo) habilitar: Dar aptitud, capacidad, autorización legales a una persona o a un trámite.
+HABILITOU	(forma de habilitar) (verbo) habilitar: Dar aptitud, capacidad, autorización legales a una persona o a un trámite.
+HABILMENTE	(adverbio) habilmente se traduce como ⟪ligeramente⟫
+HABITA	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITACULO	(sustantivo) habitáculo: Habitación.
+HABITAM	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAMOS	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITANDO	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITANTE	(sustantivo) habitante: Que habita en un determinado lugar.
+HABITANTES	(forma de habitante) (sustantivo) habitante: Que habita en un determinado lugar.
+HABITAR	(verbo) habitar: Morar o residir en un lugar.
+HABITARA	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITARAM	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITARAO	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAREI	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAREM	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAS	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITASSE	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAT	(sustantivo) hábitat: Entorno en el que vive una persona o donde se siente a gusto.
+HABITAVA	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAVAM	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAVEIS	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITAVEL	(adjetivo) habitable: Que puede ser habitado.
+HABITAÇAO	(sustantivo) habitación: Acción y efecto de habitar o morar en alguna parte
+HABITE	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITEM	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITO	(sustantivo) hábito: Actividad o comportamiento que, por repetirse de manera rutinaria o con cierto grado de frecuencia, se ha vuelto natural para quien la ejerce.
+HABITOS	(forma de habito) (sustantivo) hábito: Actividad o comportamiento que, por repetirse de manera rutinaria o con cierto grado de...
+HABITOU	(forma de habitar) (verbo) habitar: Morar o residir en un lugar.
+HABITUA	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUADO	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUAIS	(adjetivo) Forma del plural de habitual: Habitual.
+HABITUAL	(adjetivo) habitual: Que se efectúa, vive o tiene de manera regular, continuada, o por hábito.
+HABITUALMENTE	(adverbio) habitualmente: Normalmente, con frecuencia o por costumbre.
+HABITUAM	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUAMOS	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUANDO	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUAR	(verbo) habituar: Dar alguien a costumbre.
+HABITUARA	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUARAM	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUAREI	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUAREM	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUARIA	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUARMOS	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUEI	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUEM	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUES	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUO	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HABITUOU	(forma de habituar) (verbo) habituar: Dar alguien a costumbre.
+HACHURAR	(verbo) nacer: Romper el cascarón y salir al exterior el animal ovíparo, después de haber terminado su desarrollo dentro del huevo. (también: eclosionar)
+HACKEADO	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEAMOS	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEANDO	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEAR	(verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo electrónico. (también: jaquear)
+HACKEARA	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEARAM	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEAREM	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEARIA	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEASSE	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEAVA	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEEI	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEIA	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEIAM	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEIE	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEIO	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKEOU	(forma de hackear) (verbo) hackear: Obtener acceso no autorizado a un equipo protegido por contraseña, una red o una cuenta de correo...
+HACKER	(sustantivo) hacker: Programador experto y creativo (también: jáquer)
+HADES	(sustantivo) hades: Infierno o lugar al que van las almas para cumplir una pena eterna, como castigo por los pecados, o por no haber cumplido con algún otro requisito para lograr al paraíso o descanso eterno de los elegidos, según las creencias de diferentes religiones.
+HADICE	(sustantivo) hadiz: Narración testimonial sobre los hechos o dichos de Mahoma, empelada tradicionalmente como parte de la jurisprudencia religiosa en el Islam
+HADOQUE	(sustantivo) eglefino: (Melanogrammus aeglefinus) Pez gadiforme de la familia de los gádidos (Gadidae) propio de ambas zonas costeras del océano Atlántico. Similar al bacalao y caracterizado por una línea lateral negra a ambos costados, es una especie pescada y comercializada especialmente para el consumo humano.
+HAFNIO	(sustantivo) hafnio: Elemento químico de número atómico 72 que se encuentra en el grupo 4 de la tabla periódica de los elementos y se simboliza como Hf.
+HAGIOGRAFO	(sustantivo) hagiógrafo: Autor de cualquiera de los libros de la Sagrada Escritura.
+HAICAI	(sustantivo) haiku: Poema tradicional japonés, breve y sin rima, que suele tener tres versos de cinco, siete y cinco moras respectivamente, y basarse en la emoción de contemplar el mundo.
+HAIKU	(sustantivo) haiku: Poema tradicional japonés, breve y sin rima, que suele tener tres versos de cinco, siete y cinco moras respectivamente, y basarse en la emoción de contemplar el mundo.
+HAITIANA	(forma de haitiano) (adjetivo) haitiano: Persona originaria o habitante de Haití.
+HAITIANAS	(forma de haitiano) (adjetivo) haitiano: Persona originaria o habitante de Haití.
+HAITIANO	(adjetivo) haitiano: Persona originaria o habitante de Haití.\n(sustantivo) haitiano: Persona originaria o habitante de Haití.
+HAITIANOS	(forma de haitiano) (adjetivo) haitiano: Persona originaria o habitante de Haití.
+HAJA	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAJAM	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HALIBUTE	(sustantivo) fletán: Pez pleuronectiforme, de gran tamaño (puede llegar hasta 3 m. de longitud y pesar 250-300 kg.) que vive en las aguas frías del Atlántico norte y Groenlandia, y cuyo aceite de hígado es rico en vitaminas. Es sinónimo de halibut. (también: halibut)
+HALITO	(sustantivo) olor: Esperanza de algo.
+HALITOSE	(sustantivo) halitosis: Mal olor del aliento o la boca.
+HALL	(sustantivo) lobby: Atrio muy grande de un hotel, o de otros edificios como teatros, restaurantes o cines. (también: vestíbulo, recibidor)
+HALOGENIO	(sustantivo) halógeno: Elementos químicos no metálicos (bromo, flúor, cloro y yodo) combinados con partículas de plata para formar los haluros en la emulsión de la película cinematográfica.
+HALTERE	(sustantivo) pesa: Objeto largo compuesto por dos discos pesados unidos a los extremos de una barra metálica o sujetos a un cable que es utilizado en halterofilia, en ejercicios que requieren levantar el objeto con ambos brazos. (también: haltera, mancuerna)
+HALTERES	(forma de haltere) (sustantivo) pesa: Objeto largo compuesto por dos discos pesados unidos a los extremos de una barra metálica o sujetos...
+HAMBURGUER	(sustantivo) hamburguesa: Tortita de carne picada aglutinada en forma de filete, cocinada a la parrilla o a la plancha, aunque también puede freírse u hornearse.
+HAMBURGUES	(adjetivo) hamburgués: de Hamburgo\n(sustantivo) hamburgués: de Hamburgo
+HAMBURGUESA	(forma de hamburgues) (adjetivo) hamburgués: de Hamburgo
+HAMBURGUESAS	(forma de hamburgues) (adjetivo) hamburgués: de Hamburgo
+HAMSTER	(sustantivo) hámster: (Cricetinae) roedor pequeño.
+HANDEBOL	(sustantivo) balonmano: Deporte de equipo en que se busca anotar goles en la portería del rival con un balón que solo se puede tocar con las manos.
+HANGAR	(sustantivo) hangar: Lugar utilizado para guardar aeronaves, generalmente de grandes dimensiones y situado en los aeródromos.
+HANSENIASE	(sustantivo) hanseniase se traduce como ⟪lepra⟫
+HANTAVIRUS	(sustantivo) hantavirus se traduce como virus hanta
+HAO	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAPLOLOGIA	(sustantivo) haplología: Omisión de fonemas, consistente en la reducción de dos grupos de sonidos semejantes a uno, usualmente es la eliminación de una silaba similar a la siguiente en la misma palabra.
+HAPTICIDADE	(sustantivo) hapticidade se traduce como hapticidad
+HAPTICO	(adjetivo) háptico: Relacionado o relativo al sentido del tacto.
+HAPTOTROPISMO	(sustantivo) tigmotropismo: Respuesta de las plantas a cualquier estimulo de tacto.
+HARAS	(sustantivo) toperol: Cada una de las protuberancias cilíndricas que tienen en la suela algunos tipos de calzado deportivo para otorgar mejor adherencia al suelo. (también: semental, garañón)
+HAREM	(sustantivo) harén: Sección en la casa de los musulmanes donde viven las mujeres.
+HARIOLOMANCIA	(sustantivo) hariolomancia se traduce como ariolomancía
+HARMONIA	(sustantivo) armonía: Adecuada proporción y buena correlación de unas cosas con otras
+HARMONICA	(sustantivo) armónica: Pequeño instrumento musical de viento, con lenguetas de metal construído en varios tamaños, con registro de dos escalas y que se toca soplando o aspirando sobre él.\n(adjetivo) armónica: Pequeño instrumento musical de viento, con lenguetas de metal construído en varios tamaños, con registro de dos escalas y que se toca soplando o aspirando sobre él.
+HARMONICAMENTE	(adverbio) armónicamente: De un modo armónico, con armonía.
+HARMONICO	(adjetivo) armónico: Que tiene o esta relacionado con la armonía.
+HARMONIOSAMENTE	(adverbio) armoniosamente: Con armonía, de un modo armonioso.
+HARMONIOSO	(adjetivo) armonioso: Que tiene sus componentes en concordancia o acuerdo agradable o adecuado.
+HARPA	(sustantivo) arpa: Instrumento de cuerda pulsada, sin mástil, en que las cuerdas entran directamente en la caja de resonancia a través de orificios practicados en ella. Esto distingue al arpa de otros instrumentos de cuerda como los laúdes en que las cuerdas se apoyan sobre un puente que transmite la vibración a la...
+HARPAS	(forma de harpa) (sustantivo) arpa: Instrumento de cuerda pulsada, sin mástil, en que las cuerdas entran directamente en la caja de...
+HARPIA	(sustantivo) harpía: Grafía poco usada de arpía.
+HARPIAS	(forma de harpia) (sustantivo) harpía: Grafía poco usada de arpía.
+HAS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HASSIO	(sustantivo) hasio: Elemento químico de la tabla periódica cuyo símbolo es Hs y su número atómico es 108.
+HASTA	(sustantivo) asta: Vara larga, utilizada para sostener en su extremo una bandera o como parte de un arma larga, como una lanza o venablo.
+HASTE	(sustantivo) Asta de bandera
+HASTEAMOS	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEANDO	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEAR	(verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEARAM	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEIA	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEIE	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEIEM	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTEOU	(forma de hastear) (verbo) arbolar: En especial, colocar a una embarcación la arboladura (también: levantar, izar)
+HASTIL	(sustantivo) hastil se traduce como manica
+HAURIR	(verbo) entresacar: Sacar una cosa de entre el conjunto del que es parte (también: extraer)
+HAUSSA	(adjetivo) haussa se traduce como ⟪hausa⟫\n(sustantivo) haussa se traduce como ⟪hausa⟫
+HAUSTO	(sustantivo) trago: Cantidad o porción de un líquido que se puede beber de una sola vez. (también: sorbición)
+HAUÇA	(sustantivo) hausa: Lengua afroasiática hablada en Níger y Nigeria.\n(adjetivo) hausa: Lengua afroasiática hablada en Níger y Nigeria.
+HAVAIANO	(adjetivo) hawaiano: Lengua malayo-polinesia hablada en Hawái.\n(sustantivo) hawaiano: Lengua malayo-polinesia hablada en Hawái.
+HAVANO	(adjetivo) habano: Cigarro de hoja de tabaco cubano.\n(sustantivo) habano: Cigarro de hoja de tabaco cubano.
+HAVEIS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVEMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVENDO	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVER	(verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.\n(sustantivo) deuda: Por extensión, obligación moral contraída con alguien.
+HAVERA	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVERAO	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVEREI	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVEREMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVERIA	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVERIAM	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVERIAMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVERIAS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVIA	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVIAM	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVIAMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVIAS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVIDO	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAVIEIS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HAXIXE	(sustantivo) hachís: Droga estupefaciente obtenida del cáñamo índico a partir de su resina en bruto o purificada. Se fuma en cigarrillos o pipas, a menudo mezclado con tabaco.
+HEBDOMADARIO	(sustantivo) hebdomadario: En los cabildos eclesiásticos y comunidades regulares, semanero, persona que se destina cada semana para oficiar en el coro o en el altar. :*Sinónimo: semanario.
+HEBRAICO	(adjetivo) hebreo: Propio de, relativo o perteneciente al pueblo semítico que, de acuerdo a la tradición bíblica, desciende de Abraham y habitó el reino de Israel hasta su expulsión por los romanos\n(sustantivo) hebreo: Propio de, relativo o perteneciente al pueblo semítico que, de acuerdo a la tradición bíblica, desciende de Abraham y habitó el reino de Israel hasta su expulsión por los romanos
+HECATOMBE	(sustantivo) hecatombe: Cualquier sacrificio solemne en el que es abundante el número de víctimas.
+HECTARE	(sustantivo) hectárea: Unidad de medida de superficie, usada únicamente para el terreno, equivalente a 10.000 metros cuadrados.
+HECTOLITRO	(sustantivo) hectolitro: Unidad de volumen equivalente a cien litros o a 10² litros. (también: hectolitre)
+HECTOMETRO	(sustantivo) hectómetro: Unidad de longitud equivalente a cien metros ó 10² metros.
+HEDIONDA	(forma de hediondo) (adjetivo) hediondo: Sucio, asqueroso e impúdico.
+HEDIONDAS	(forma de hediondo) (adjetivo) hediondo: Sucio, asqueroso e impúdico.
+HEDIONDO	(adjetivo) hediondo: Sucio, asqueroso e impúdico.
+HEDIONDOS	(forma de hediondo) (adjetivo) hediondo: Sucio, asqueroso e impúdico.
+HEDONISMO	(sustantivo) hedonismo: Doctrina filosófica que busca alcanzar una vida llena de placeres y supresión del dolor. El placer supremo es la máxima el fin último de la vida.
+HEDONISTICAMENTE	(adverbio) hedonisticamente se traduce como hedonísticamente
+HEGELIANISMO	(sustantivo) hegelianismo se traduce como hegelianismo
+HEGEMONIA	(sustantivo) hegemonía: Dominio o supremacía que un grupo ejerce, de tal modo de dictar los términos y parámetros de la acción social en todos los sentidos y mantener la oposición fuera de la ley o la legitimidad.
+HEGEMONICAMENTE	(adverbio) hegemónicamente: De un modo hegemónico o referente a la hegemonía.
+HEIS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HELENISTICO	(adjetivo) helenístico: Que pertenece o concierne a la antigua cultura griega o helénica y a su estudio.
+HELIANTO	(sustantivo) helianto se traduce como heliante
+HELICE	(sustantivo) hélice: Parte del oído externo que comprende desde el orificio exterior del canal auditivo hasta el lóbulo de la oreja.
+HELICOIDALMENTE	(adverbio) helicoidalmente se traduce como helicoidalmente
+HELICOIDE	(adjetivo) helicoide se traduce como helicoidal
+HELICOPTERO	(sustantivo) helicóptero: Vehículo para desplazarse por el aire, que posee una gran hélice horizontal central (llamada rotor), para elevarse, descender y avanzar, y otra hélice vertical más pequeña en la cola, para la estabilidad. Algunos aparatos pesados usan dos rotores de movimiento opuesto y ninguna hélice vertical.
+HELICOPTEROS	(forma de helicoptero) (sustantivo) helicóptero: Vehículo para desplazarse por el aire, que posee una gran hélice horizontal central (llamada...
+HELIO	(sustantivo) helio: Gas incoloro e inodoro. Después del hidrógeno, es el segundo elemento químico más abundante en el universo. En nuestro planeta se le encuentra en algunos depósitos naturales de gas, se le emplea para el llenado de globos y dirigibles, como líquido refrigerante de materiales superconductores...
+HELIOCENTRICO	(adjetivo) heliocéntrico: Dicho de un sistema de coordenadas: con referencia al centro del Sol.
+HELIOGRAFICO	(adjetivo) heliográfico: Que pertenece o concierne a la heliografía.
+HELIOSFERA	(sustantivo) heliosfera se traduce como heliosfera
+HELIOTROPIO	(sustantivo) girasol: (Helianthus annuus) Planta de la familia de las asteráceas, herbácea, anual, originaria de América, de tallo alto y erecto y característica inflorescencia amarilla en forma de disco. Sus semillas comestibles se aprovechan para la extracción de aceite. (también: mirabel)
+HELIPORTO	(sustantivo) helipuerto: Pequeño aeropuerto sólo válido para helicópteros.
+HEMACIA	(sustantivo) hematíe: Célula anucleada de la sangre que tiene la hemoglobina encargada de llevar el oxígeno a los tejidos de los animales superiores. Principal componente celular de la sangre, es responsable de su color rojo. (también: eritrocito, glóbulo rojo)
+HEMACIAS	(forma de hemacia) (sustantivo) hematíe: Célula anucleada de la sangre que tiene la hemoglobina encargada de llevar el oxígeno a los...
+HEMATITA	(sustantivo) hematita se traduce como hematita
+HEMATOLOGIA	(sustantivo) hematología: Especialidad biológica e histológica que se encarga del estudio de la sangre.
+HEMATOLOGISTA	(sustantivo) hematólogo: Especialista en la sangre
+HEMATOPOIESE	(sustantivo) hematopoiese se traduce como hematopoyesis
+HEMEROTECA	(sustantivo) hemeroteca: Sección de una biblioteca en donde se guardan archivos de recortes de periódicos o periódicos completos.
+HEMICICLO	(sustantivo) hemiciclo: Semicírculo.
+HEMIELITRO	(sustantivo) hemiélitro: Ala anterior de algunos insectos (Heteroptera, Hemíptera), que es gruesa y endurecida en su base, volviéndose membranosa en su parte apical.
+HEMIPLEGIA	(sustantivo) hemiplejia: Parálisis que afecta a una parte del cuerpo, (brazo, lado de la cara, etc) o más de una parte del cuerpo al mismo tiempo, debido a un daño en el hemisferio opuesto al lado del cuerpo afectado. La hipertensión y la diabetes suelen conducir a accidentes vasculares con esta consecuencia; así como...
+HEMISFERIO	(sustantivo) hemisferio: Cada una de las mitades del globo terrestre, a partir del Ecuador o del Meridiano de Greenwich. Son el hemisferio norte y el hemisferio sur.
+HEMOCITOBLASTO	(sustantivo) hemocitoblasto se traduce como hemocitoblasto
+HEMOCROMATOSE	(sustantivo) hemocromatosis: Enfermedad hereditaria que afecta al metabolismo humano del hierro, provocando un acúmulo excesivo e incorrecto de este metal en los órganos y sistemas del organismo.
+HEMODIALISE	(sustantivo) hemodiálisis: Terapia de sustitución renal, que tiene como finalidad suplir parcialmente la función de los riñones. Consiste en extraer la sangre del organismo a través de un acceso vascular y llevarla a un dializador o filtro de doble compartimiento, en el cuál la sangre pasa por el interior de los capilares en...
+HEMODINAMICAMENTE	(adverbio) hemodinamicamente se traduce como hemodinámicamente
+HEMOFILIA	(sustantivo) hemofilia: Desorden de genético, que se presente principalmente en varones, caracterizado por sangrado excesivo debido a una deficiencia en los mecanismos de coagulación de la sangre.
+HEMOGLOBINA	(sustantivo) hemoglobina: Proteína de los glóbulos rojos (eritrocitos o hematíes), cuya función principal es el transporte de oxígeno.
+HEMOGRAMA	(sustantivo) hemograma se traduce como hemograma
+HEMOLINFA	(sustantivo) hemolinfa se traduce como hemolinfa
+HEMOLISE	(sustantivo) hemólisis: Desintegración o disolución de los eritrocitos, especialmente de los hematíes, por agentes externos o causas endógnenas, con liberación consiguiente de la hemoglobina.
+HEMORRAGIA	(sustantivo) hemorragia: Flujo de sangre fuera de venas, arterias o vasos capilares, de origen traumático o espontáneo por fragilidad de la pared capilar.
+HEMORRAGIAS	(forma de hemorragia) (sustantivo) hemorragia: Flujo de sangre fuera de venas, arterias o vasos capilares, de origen traumático o espontáneo...
+HEMORRAGICAMENTE	(adverbio) hemorragicamente se traduce como hemorrágicamente
+HEMORROIDA	(sustantivo) hemorroides: Dilatación permanente de tipo varicoso de una vena en la zona perianal externa o rectal.
+HEMORROIDAS	(sustantivo) hemorroides: Dilatación permanente de tipo varicoso de una vena en la zona perianal externa o rectal.
+HEMORROIDES	(sustantivo) hemorroides: Dilatación permanente de tipo varicoso de una vena en la zona perianal externa o rectal.
+HEMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HEMOSTASE	(sustantivo) hemostasia: Proceso o procedimiento para mantener sangre dentro de un vaso sanguíneo dañado, para detener el desangramiento.
+HENDECAGONO	(sustantivo) endecágono: Se dice del polígono que consta de once lados.
+HEPATALGIA	(sustantivo) hepatalgia: Dolor de hígado.
+HEPATICO	(adjetivo) Grafía obsoleta de hepático.
+HEPATITE	(sustantivo) hepatitis: Inflamación del hígado. Las causas más comunes son la ingestión de productos tóxicos y algunos virus.
+HEPTADECAGONO	(sustantivo) heptadecágono: Polígono de 17 lados y 17 vértices.
+HEPTAEDRO	(sustantivo) heptaedro se traduce como heptaedro
+HEPTAGONO	(sustantivo) heptágono: Cualquier polígono compuesto por siete ángulos y siete lados.
+HEPTASSILABO	(adjetivo) heptasílabo: Que tiene siete sílabas.
+HERA	(sustantivo) hiedra: (Hedera) Planta trepadora y leñosa, araliácea , de hojas perennes pecioladas, flores de color amarillo verdoso en umbelas y fruto en bayas negras, que vive agarrado a los muros o a los troncos de los árboles mediante zarcillos. (también: yedra)
+HERALDICA	(sustantivo) heráldica: Disciplina que estudia la disposición, historia y protocolo de los escudos de armas y las reglas para formalizarlos en blasones.
+HERALDICO	(adjetivo) heráldico: Que pertenece o concierne a la heráldica o a los blasones.
+HERANÇA	(sustantivo) herencia: Bienes que recibe una persona cedidos por una persona que ha fallecido.
+HERBACEO	(adjetivo) Grafía obsoleta de herbáceo.
+HERBICIDA	(sustantivo) herbicida: Dícese de todo aquello que puede matar hierbas, generalmente perjudiciales.
+HERBIVORO	(adjetivo) herbívoro: Que se alimenta de vegetales de cualquier tipo.
+HERDA	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDADE	(sustantivo) heredad: Hacienda de campo, bienes raíces o posesiones.
+HERDADO	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAM	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAMOS	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDANDO	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAR	(verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDARA	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDARAM	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDARAO	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAREI	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAREM	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAREMOS	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDARIA	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDARIAM	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDASSE	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDASSEM	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDASTE	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAVA	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDAVEL	(adjetivo) heredable: Susceptible de ser heredado.
+HERDE	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDEI	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDEIRO	(sustantivo) sucesor: Que sucede a otro de su misma especie en el espacio o el tiempo.
+HERDEM	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDES	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HERDOU	(forma de herdar) (verbo) heredar: Transmitir las posesiones materiales de padres a hijos.
+HEREDITARIA	(forma de hereditario) (adjetivo) hereditario: Perteneciente a la herencia o que se adquiere por ella.
+HEREDITARIAS	(forma de hereditario) (adjetivo) hereditario: Perteneciente a la herencia o que se adquiere por ella.
+HEREDITARIO	(adjetivo) hereditario: Perteneciente a la herencia o que se adquiere por ella.
+HEREDITARIOS	(forma de hereditario) (adjetivo) hereditario: Perteneciente a la herencia o que se adquiere por ella.
+HEREGE	(adjetivo) herético: Que pertenece o concierne a un hereje o a la herejía.\n(sustantivo) hereje: Persona que va contra uno o varios de los dogmas establecidos de una determinada religión.
+HERESIA	(sustantivo) herejía: Opiniones que son diferentes a la integridad o probidad de una religión, o tener una creencia contraria a los dogmas, credos y fundamentos establecidos, en este caso por la religión católica.
+HERESIAS	(forma de heresia) (sustantivo) herejía: Opiniones que son diferentes a la integridad o probidad de una religión, o tener una creencia...
+HERETICA	(forma de heretico) (adjetivo) herético: Que pertenece o concierne a un hereje o a la herejía.
+HERETICAMENTE	(adverbio) hereticamente se traduce como heréticamente
+HERETICAS	(forma de heretico) (adjetivo) herético: Que pertenece o concierne a un hereje o a la herejía.
+HERETICO	(adjetivo) herético: Que pertenece o concierne a un hereje o a la herejía.
+HERETICOS	(forma de heretico) (adjetivo) herético: Que pertenece o concierne a un hereje o a la herejía.
+HERMAFRODITA	(adjetivo) hermafrodita: Que posee las características sexuales, en especial los genitales, tanto del macho como de la hembra
+HERMENEUTA	(sustantivo) hermeneuta: Persona que promueve o se dedica a la hermenéutica
+HERMENEUTICA	(sustantivo) hermenéutica: Teoría y método para la interpretación de textos, que busca establecer el sentido original de un texto para su autor o para la comunidad en la que se produjo.
+HERMENEUTICAMENTE	(adverbio) hermeneuticamente se traduce como hermenéuticamente
+HERMETICAMENTE	(adverbio) herméticamente: De modo hermético.
+HERMETICO	(adjetivo) hermético: Impenetrable, principalmente al aire.
+HERMETISMO	(sustantivo) hermetismo: Cualidad de hermético
+HERNIA	(sustantivo) hernia: Salida de un órgano o parte de él fuera de la cavidad corporal que lo contiene. Son más comunes en la zona abdominal. Si se estrangulan reviesten peligro y deben ser corregidas normalmente mediante cirugía.
+HEROI	(sustantivo) héroe: Persona que realiza hechos o gestas de valentía, virtud o capacidad sobresaliente para enfrentar el peligro o la adversidad en bien de otros.
+HEROICA	(forma de heroico) (adjetivo) heroico: Se dice de personas, hechos y actitudes de valentía, virtud o capacidad sobresaliente para...
+HEROICAMENTE	(adverbio) heroicamente: De un modo heroico, con heroísmo (valentía, virtud o capacidad sobresaliente para enfrentar el peligro o la adversidad en bien de otros).
+HEROICIDADE	(sustantivo) heroicidad: Condición o carácter de heroico. Actitud o comportamiento de valentía, virtud o capacidad sobresaliente para enfrentar el peligro o la adversidad en bien de otros.
+HEROICO	(adjetivo) heroico: Se dice de personas, hechos y actitudes de valentía, virtud o capacidad sobresaliente para enfrentar el peligro o la adversidad en bien de otros. Que pertenece o concierne al heroísmo.
+HEROIFICAR	(verbo) heroificar: Atribuir cualidades heroicas (fama, admiración, valentía, abnegación, etc.) a algo o a alguien. Elevar a la condición de héroe o de heroína. (también: heroizar)
+HEROINA	(sustantivo) heroína: Alcaloide (droga) derivado del opio. Es estupefaciente y tóxico.
+HEROISMO	(sustantivo) heroísmo: Acción, actitud o comportamiento de valentía, virtud o capacidad sobresaliente para enfrentar el peligro o la adversidad en bien de otros. Condición o carácter de heroico.
+HERPES	(sustantivo) herpes: Lesión cutánea inflamatoria que se caracteriza por la aparición de pequeñas vesículas agrupadas formando un racimo y rodeados de un halo rojo. Es causada por el virus Herpes simplex virus tipo 1 que afecta cara, labios, boca y parte superior del cuerpo, y el Herpes simplex virus tipo 2 que se...
+HERPETOLOGIA	(sustantivo) herpetología: Tratado de los reptiles
+HERTZ	(sustantivo) hercio: En el SI es la unidad de frecuencia y se define como la frecuencia de un fenómeno que tiene un período de un segundo.
+HERVA	(sustantivo) Grafía alternativa de erva.
+HERVAS	(forma de herva) (sustantivo) Grafía alternativa de erva.
+HESITA	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITADO	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAM	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAMOS	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITANDO	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITANTE	(adjetivo) dubitativo: Que duda
+HESITAR	(verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARA	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARAM	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARAO	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAREI	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAREM	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAREMOS	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARIA	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARIAM	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARIAMOS	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITARMOS	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAS	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITASSE	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAVA	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITAVAM	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITE	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITEI	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITEM	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITES	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITO	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HESITOU	(forma de hesitar) (verbo) vacilar: Dicho de una persona, dudar, estar inseguro sobre una decisión u opinión.
+HETERO	(adjetivo) recto: Que tiene la forma que sigue el camino más corto entre dos puntos, sin inclinarse, ni torcerse, ni cambiar de dirección. (también: heterosexual, seguido)
+HETEROCLITO	(adjetivo) ecléctico: Que representa o está hecho de una selección de varias fuentes.
+HETEROCROMIA	(sustantivo) heterocromía: Anomalía de los ojos en la que los iris son de diferente color, total o parcialmente.
+HETERODOXO	(adjetivo) heterodoxo: Persona con ideas o principios que se apartan de los establecidos por una religión, forma de pensamiento o doctrina política
+HETEROFOBIA	(sustantivo) heterofobia: Miedo irracional y enfermizo a las personas heterosexuales o a la heterosexualidad
+HETEROFOBICO	(adjetivo) heterofobico se traduce como heterofóbico
+HETEROFOBO	(sustantivo) heterofobo se traduce como heterófobo
+HETEROGENEIDADE	(sustantivo) heterogeneidad: Condición o carácter de heterogéneo (de composición no uniforme, formado por elementos desiguales o de diferente naturaleza).
+HETEROGENEO	(adjetivo) heterogéneo: De composición no uniforme, que está formado por elementos desiguales, de distinta naturaleza, diferentes entre sí.
+HETERONACIONALISMO	(sustantivo) heteronacionalismo: Asociación entre una ideología nacionalista e ideales heterosexuales usada contra las personas LGBTI y como antagonismo hacia países que han legislado derechos LGBTI.
+HETERONIMICAMENTE	(adverbio) heteronimicamente se traduce como heteronímicamente
+HETERONOMIA	(sustantivo) heteronomia se traduce como heteronomía
+HETERONORMATIVIDADE	(sustantivo) heteronormatividad: Asunción de que todos los seres humanos son hombres o mujeres tanto en sexo como en género y de que la atracción romántica y sexual sólo ocurre y es normal entre personas de sexos diferentes.
+HETEROPATRIARCADO	(sustantivo) heteropatriarcado: Sistema social predominado por el género masculino y la heterosexualidad.
+HETEROSSEMANTICO	(adjetivo) heterosemántico: Se dice de un vocablo que es muy semejante en la grafía y en la pronunciación en dos idiomas, pero cuyo significado es diferente en cada idioma, como "apellido" (nombre de familia en español) y "apelido" (apodo en portugués).\n(sustantivo) heterosemántico: Se dice de un vocablo que es muy semejante en la grafía y en la pronunciación en dos idiomas, pero cuyo significado es diferente en cada idioma, como "apellido" (nombre de familia en español) y "apelido" (apodo en portugués).
+HETEROSSEXISMO	(sustantivo) heterosexismo: Sistema de sesgos, actitudes y discriminación que favorece la sexualidad y las relaciones entre personas de distinto sexo.
+HETEROSSEXUAIS	(forma de heterossexual) (adjetivo) heterosexual: Que siente atracción sexual por personas de distinto sexo biológico.
+HETEROSSEXUAL	(adjetivo) heterosexual: Que siente atracción sexual por personas de distinto sexo biológico.
+HETEROSSEXUALIDADE	(sustantivo) heterosexualidad: Orientación sexual que se caracteriza por la atracción sexual o el deseo amoroso o sexual hacia personas del sexo opuesto, en contraste con la homosexualidad, y que suele distinguirse de la bisexualidad.
+HETEROSSEXUALISMO	(sustantivo) heterossexualismo se traduce como heterosexualismo
+HETEROTROFICO	(adjetivo) heterótrofo: Se dice de los organismos que no pueden fabricar sus alimentos y dependen de los autótrofos o de otros heterótrofos; ejemplos de éstos son los hongos y los animales.
+HETEROTROFO	(adjetivo) heterótrofo: Se dice de los organismos que no pueden fabricar sus alimentos y dependen de los autótrofos o de otros heterótrofos; ejemplos de éstos son los hongos y los animales.
+HEURECA	(interjección) eureka: Usado cuando se descubre algo súbitamente.
+HEURISTICA	(sustantivo) heuristica se traduce como heurística₁\n(adjetivo) Forma del femenino singular de heurístico ('heurístico'): heurístico
+HEURISTICAMENTE	(adverbio) heurísticamente: De un modo heurístico, con relación a la heurística o ciencia de la investigación y el descubrimiento.
+HEURISTICO	(adjetivo) heurístico: Perteneciente o relacionado con la heurística.
+HEXACOSIOIHEXECONTAHEXAFOBIA	(sustantivo) hexakosioihexekontahexafobia: Miedo irracional (o fobia) al número "666".
+HEXADECAGONO	(sustantivo) hexadecágono: Polígono que tiene 16 lados y 16 ángulos o vértices.\n(adjetivo) hexadecágono: Polígono que tiene 16 lados y 16 ángulos o vértices.
+HEXADECIMAIS	(forma de hexadecimal) (adjetivo) hexadecimal: Propio de o relativo a los sistemas de numeración con base 16.
+HEXADECIMAL	(adjetivo) hexadecimal: Propio de o relativo a los sistemas de numeración con base 16.
+HEXAEDRO	(sustantivo) hexaedro: Poliedro de seis caras.
+HEXAGONAIS	(forma de hexagonal) (adjetivo) hexagonal: Con forma de hexágono, por tener seis lados y seis ángulos, o similar a él.
+HEXAGONAL	(adjetivo) hexagonal: Con forma de hexágono, por tener seis lados y seis ángulos, o similar a él.
+HEXAGONO	(sustantivo) hexágono: Polígono compuesto por 6 lados y 6 ángulos (también: exágono)
+HEXAMETRO	(sustantivo) hexametro se traduce como hexámetro
+HEXASSILABO	(adjetivo) hexasílabo: Que tiene seis sílabas.
+HIALINO	(adjetivo) hialino: Transparente o translúcido como el vidrio. Se aplica en biología a los tejidos y órganos que muestran ese aspecto. Por ejemplo, en anatomía existe un cartílago hialino; y en botánica, algunas plantas muestran en sus hojas rebordes hialinos.
+HIALURONICO	(adjetivo) hialuronico se traduce como hialurónico
+HIATO	(sustantivo) hiato: Pronunciación en diferentes sílabas de dos vocales seguidas dentro de una misma palabra.
+HIATOS	(forma de hiato) (sustantivo) hiato: Pronunciación en diferentes sílabas de dos vocales seguidas dentro de una misma palabra.
+HIBERNA	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNADO	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNAL	(adjetivo) invernal: Que pertenece o concierne al invierno.
+HIBERNAM	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNANDO	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNAR	(verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNARAM	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNAVAM	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNAÇAO	(sustantivo) hibernación: Adaptación de algunas especies animales a condiciones climáticas sumamente bajas, tales como un estado de hipotermia regulada durante algunos días, semanas o meses, lo cual les permite conservar su energía durante el invierno.
+HIBERNEI	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBERNOU	(forma de hibernar) (verbo) hibernar: Entrar en estado de hibernación para sobrevivir al invierno.
+HIBISCO	(sustantivo) hibisco: Flor del hibisco.
+HIBRIDAÇAO	(sustantivo) hibridación: Producción de híbridos, al cruzar organismos de estirpes diferentes.
+HIBRIDO	(adjetivo) híbrido: Que tiene progenitores de especie distinta.
+HIBRIDOS	(forma de hibrido) (adjetivo) híbrido: Que tiene progenitores de especie distinta.
+HIDRACIDO	(sustantivo) hidrácido: Compuesto binario, ácido que no contiene oxígeno, sino que está formado por un no metal (halógeno) e hidrógeno.
+HIDRANGEA	(sustantivo) hortensia: Arbusto de la familia de las saxifragáceas, con tallos ramosos de un metro de altura aprox., hojas elípticas, agudas, opuestas, color verde brillante, y flores hermosas, en corimbos terminales, con corola rosa o azulada, que va poco a poco perdiendo color hasta quedar casi blanca. Originaria del...
+HIDRATA	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATAM	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATANDO	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATANTE	(adjetivo) hidratante: Que restablece la humedad normal en los tejidos de un organismo, especialmente la piel humana.
+HIDRATAR	(verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATARA	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATAÇAO	(sustantivo) hidratación: Acción o efecto de hidratar o de hidratarse
+HIDRATE	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATEI	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRATEM	(forma de hidratar) (verbo) hidratar: Aumentar la proporción de agua que contiene el cuerpo.
+HIDRAULICAMENTE	(adverbio) hidraulicamente se traduce como hidráulicamente
+HIDRAULICO	(adjetivo) hidráulico: relativo con la hidráulica
+HIDRAVIAO	(sustantivo) hidroavión: Avión adaptado para amarizar.
+HIDRICAMENTE	(adverbio) hidricamente se traduce como hídricamente
+HIDRICO	(adjetivo) hídrico: Que pertenece o concierne al agua.
+HIDROAEROPLANO	(sustantivo) hidroavión: Avión adaptado para amarizar.
+HIDROAVIAO	(sustantivo) hidroavión: Avión adaptado para amarizar.
+HIDROCARBONETO	(sustantivo) hidrocarburo: Compuestos orgánicos formados únicamente por carbono e hidrógeno. Consisten en un armazón de carbono al que se unen átomos de hidrógeno. Forman el esqueleto de la materia orgánica.
+HIDRODINAMICA	(sustantivo) hidrodinámica: Ciencia que estudia el movimiento de los fluidos.
+HIDROELETRICO	(adjetivo) hidroeléctrico: Que pertenece o concierne a la hidroelectricidad.
+HIDROFOBIA	(sustantivo) hidrofobia: Horror al agua como síntoma de la rabia, o como consecuencia de haber sido mordido por un animal rabioso.
+HIDROFOBICO	(adjetivo) hidrofóbico: Que pertenece o concierne a hidrofobia.
+HIDROFOLIO	(sustantivo) alíscafo: Buque autopropulsado cuyo peso, en condiciones normales de navegación, es soportado parcial o totalmente por fuerzas hidrodinámicas generadas por perfiles alares sumergidos.
+HIDROGENIO	(sustantivo) hidrógeno: Gas inflamable, incoloro, inodoro y 14 veces más ligero que el aire. Entra en la composición de multitud de sustancias orgánicas, y combinado con el oxígeno forma el agua. Número atómico 1.
+HIDROGRAFIA	(sustantivo) hidrografía: Rama de la geografía por la cual se describen y estudian sistemáticamente los cuerpos de agua: oceanos, mares y, especialmente los de aguas continentales: ríos, lagos y lagunas con sus elementos terrestres marginales.
+HIDROLISE	(sustantivo) hidrólisis: Acción de romper moléculas por medio de los hidrógenos del agua.
+HIDROLOGIA	(sustantivo) hidrología: Disciplina que estudia el agua y sus propiedades físicas, químicas y mecánicas, así como su distribución y circulación en el suelo y en la atmósfera.
+HIDROLOGICAMENTE	(adverbio) hidrologicamente se traduce como hidrológicamente
+HIDROMEL	(sustantivo) hidromiel: Bebida alcohólica a base de miel y agua.
+HIDROPISIA	(sustantivo) hidropesía: Derrame o acumulación anormal de humor seroso en cualquiera cavidad del cuerpo animal, o su infiltración en el tejido celular.
+HIDROPLANAGEM	(sustantivo) hidroplanagem se traduce como acuaplaneo, hidroplaneo
+HIDROPLANO	(sustantivo) hidroplano: Un hidroavión
+HIDROPONICA	(sustantivo) hidroponía: Método de cultivo de plantas sin suelo, usando soluciones minerales en agua.
+HIDROPONICAMENTE	(adverbio) hidroponicamente se traduce como hidropónicamente
+HIDROPONICAS	(forma de hidroponico) (adjetivo) hidropónico: Relativo a la hidroponía.
+HIDROPONICO	(adjetivo) hidropónico: Relativo a la hidroponía.
+HIDROPONICOS	(forma de hidroponico) (adjetivo) hidropónico: Relativo a la hidroponía.
+HIDROSTATICA	(sustantivo) hidrostática: Rama de la mecánica que estudia el equilibrio de fluidos.
+HIDROTERAPIA	(sustantivo) hidroterapia se traduce como hidroterapia
+HIDROXICLOROQUINA	(sustantivo) hidroxicloroquina se traduce como hidroxicloroquina
+HIENA	(sustantivo) hiena: Persona cruel y despreciable.
+HIERARQUIA	(sustantivo) jerarquía: Un grupo de objetos ordenados por rangos de tal forma que todos a excepción del primero de arriba hacia abajo están subordinados al objeto de arriba.
+HIERARQUIAS	(forma de hierarquia) (sustantivo) jerarquía: Un grupo de objetos ordenados por rangos de tal forma que todos a excepción del primero de...
+HIERARQUICAMENTE	(adverbio) jerárquicamente: De un modo jerárquico.
+HIERARQUICO	(adjetivo) jerárquico: Que pertenece o concierne a la jerarquía.
+HIERATICAMENTE	(adverbio) hieraticamente se traduce como hieráticamente
+HIEROFANTE	(sustantivo) zahorí: Adivino capaz de descubrir la ubicación de aguas o bienes ocultos, en especial bajo tierra. (también: adivino, adivinador)
+HIEROGLIFO	(sustantivo) hieroglifo se traduce como jeroglífico
+HIEROGLIFOS	(forma de hieroglifo) (sustantivo) hieroglifo se traduce como jeroglífico
+HIEROMANCIA	(sustantivo) hieromancia se traduce como hieroscopia
+HIEROSCOPIA	(sustantivo) hieroscopia se traduce como hieroscopia
+HIFA	(sustantivo) hifa: Filamento tubular que conforma la estructura o talo de la mayoría de los hongos.
+HIFEN	(sustantivo) guion: Signo ortográfico (-) que se pone al fin del renglón que termina con parte de una palabra cuya otra parte, por no caber en él, se ha de escribir en el siguiente. Se emplea también para compuestos ocasionales. Se usan guiones más largos para separar las oraciones incidentales que no se ligan con... (también: guión)\n(adjetivo) guion: Signo ortográfico (-) que se pone al fin del renglón que termina con parte de una palabra cuya otra parte, por no caber en él, se ha de escribir en el siguiente. Se emplea también para compuestos ocasionales. Se usan guiones más largos para separar las oraciones incidentales que no se ligan con...
+HIGIDO	(adjetivo) sano: Que está en buen estado de salud. (también: saludable)
+HIGIENE	(sustantivo) higiene: Sistema de reglas para conservar la salud.
+HIGIENICAMENTE	(adverbio) higienicamente se traduce como higiénicamente
+HIGIENICO	(adjetivo) higiénico: Que pertenece o concierne a la higiene.
+HIGIENIZAÇAO	(sustantivo) higienizaçao se traduce como higienización
+HIGROMETRO	(sustantivo) higrómetro: Dispositivo que se usa para cuantificar la humedad de la atmósfera o de otros gases. Puede ser de absorción, mediante substancias químicas que, luego de absorber, exhalan la humedad, o eléctrico, constituido por dos electrodos arrollados en espiral. La unidad de medida se expresa en porcentaje: %.
+HIGROSCOPIA	(sustantivo) higroscopia: Parte de la Física que estudia la humedad, sus causas y sus variaciones, y particularmente, la humedad atmosférica.
+HIGROSCOPICO	(adjetivo) higroscópico: Relativo al higroscopio.
+HILARIA	(forma de hilario) (adjetivo) hilarante: Que inspira alegría o mueve a risa. (también: desternillante)
+HILARIANTE	(adjetivo) hilarante: Que inspira alegría o mueve a risa.
+HILARIAS	(forma de hilario) (adjetivo) hilarante: Que inspira alegría o mueve a risa. (también: desternillante)
+HILARIDADE	(sustantivo) hilaridad: Risa ruidosa ocasionada por lo que se ve o se oye.
+HILARIEDADE	(sustantivo) hilaridad: Risa ruidosa ocasionada por lo que se ve o se oye.
+HILARIO	(adjetivo) hilarante: Que inspira alegría o mueve a risa. (también: desternillante)
+HILARIOS	(forma de hilario) (adjetivo) hilarante: Que inspira alegría o mueve a risa. (también: desternillante)
+HILIGAYNON	(sustantivo) hiligaynon se traduce como hiligaynon
+HIMEN	(sustantivo) himen: Repliegue membranoso que reduce el orificio externo de la vagina mientras conserve su integridad.
+HIMENEU	(sustantivo) himeneo: Rito o sacramento por el cual las personas se unen en matrimonio de acuerdo a las prescripciones de su fe.
+HINDI	(sustantivo) hindi: Lengua indo-iraní oficial en todo el territorio de India
+HINDUISMO	(sustantivo) hinduismo: Religión, filosofía y cultura nativa de India, caracterizada por la creencia en la reencarnación y en una suprema unicidad (advaita) personificada en varias formas y naturalezas.
+HINO	(sustantivo) himno: En la Antigüedad, composición poética que se hacía para honrar a los dioses o héroes, o para celebrar un suceso memorable
+HIPERALGESIA	(sustantivo) hiperalgesia: Incremento exagerado de la sensibilidad al dolor.
+HIPERBIBASMO	(sustantivo) hiperbibasmo se traduce como hiperbibasmo
+HIPERBOLE	(sustantivo) hipérbole: Exageración muy grande e intencional, que consiste en aumentar con el fin de obtener un enunciado más expresivo, como al decir: "Te llamé un millón de veces", "un millón de gracias" o "te doy mil besos".
+HIPERBOLICAMENTE	(adverbio) hiperbolicamente se traduce como hiperbólicamente
+HIPERBOREO	(adjetivo) hiperbóreo: Extremadamente boreal.
+HIPERCALCEMIA	(sustantivo) hipercalcemia: Exceso de nivel de calcio en la sangre.
+HIPERCALEMIA	(sustantivo) hipercalemia se traduce como hiperpotasemia
+HIPERESPAÇO	(sustantivo) hiperespacio: Espacio geométrico que tiene más de tres dimensiones.
+HIPERGLICEMIA	(sustantivo) hiperglicemia se traduce como hiperglucemia
+HIPERGOLICO	(adjetivo) hipergolico se traduce como hipergólico
+HIPERIDROSE	(sustantivo) hiperhidrosis: Sudor excesivo en manos, axilas, cara o pies. Su origen es físico, debido a la sobreestimulación del sistema nervioso autónomo y puede llegar a modificar la vida normal de los pacientes que la padecen.
+HIPERINFLAÇAO	(sustantivo) hiperinflación: Inflación muy elevada, fuera de control, en la que los precios aumentan rápidamente al mismo tiempo que la moneda pierde su valor.
+HIPERLIGAR	(verbo) hiperligar se traduce como hipervincular
+HIPERLIGAÇAO	(sustantivo) hiperenlace: En internet u otro medio electrónico, texto, imagen o conjunto de caracteres que, al pinchar o pulsar sobre ellos (con el ratón, el dedo, etc.), permite navegar a un documento diferente o acceder a información adicional.
+HIPERMETROPIA	(sustantivo) hipermetropía: Defecto ocular de refracción que consiste en que los rayos de luz inciden en el ojo humano, convergiendo detrás de la retina, formando de esta manera el foco o imagen. Es debida casi siempre a que el ojo es muy corto en su eje antro-posterior.
+HIPERNATREMIA	(sustantivo) hipernatremia se traduce como hipernatremia
+HIPERONIMO	(sustantivo) hiperónimo: Término general que puede ser utilizado para referirse a la realidad nombrada por un término más particular.
+HIPERTERMIA	(sustantivo) hipertermia se traduce como hipertermia
+HIPERTERMICA	(forma de hipertermico) (adjetivo) hipertermico se traduce como hipertérmico
+HIPERTERMICO	(adjetivo) hipertermico se traduce como hipertérmico\n(sustantivo) hipertermico se traduce como hipertérmico
+HIPERTEXTO	(sustantivo) hipertexto: Texto no lineal, en el que referencias incrustadas permiten acceder a otros textos relacionados, como los hiperenlaces de un documento HTML
+HIPERTIREOIDISMO	(sustantivo) hipertireoidismo se traduce como hipertiroidismo
+HIPERTROFIA	(sustantivo) hipertrofia: Aumento excesivo del volumen de un órgano causado por inflamación, o aumento del tamaño, o del número de las células que lo componen.
+HIPERVENTILAÇAO	(sustantivo) hiperventilación: El estado de respirar más rapido o más profundamente que durante la respiración normal en reposo.
+HIPICA	(sustantivo) hípica: Deporte basado en las carreras de caballos en donde se realizan apuestas deportivas.
+HIPICO	(adjetivo) ecuestre: Que pertenece o concierne a los caballos.
+HIPNOSE	(sustantivo) hipnosis: Estado mental o grupo de actitudes generadas a través de una disciplina llamada hipnotismo.
+HIPNOTICAMENTE	(adverbio) hipnoticamente se traduce como hipnóticamente
+HIPNOTICO	(adjetivo) hipnótico: Perteneciente o relativo a la hipnosis.
+HIPNOTISMO	(sustantivo) hipnotismo: Sueño provocado artificialmente en el cual la persona obedece las órdenes del hipnotizador.
+HIPNOTIZA	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZAM	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZAMOS	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZANDO	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZAR	(verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZARAM	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZAREI	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZARIA	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZASSE	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZAVA	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZE	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZEI	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZO	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPNOTIZOU	(forma de hipnotizar) (verbo) hipnotizar se traduce como hipnotizar
+HIPOCALCEMIA	(sustantivo) hipocalcemia se traduce como hipocalcemia
+HIPOCALEMIA	(sustantivo) hipopotasemia: Trastorno del equilibrio hidroelectrolítico corporal, causado por disminución del contenido del catión potasio (K) en el plasma sanguíneo, a niveles inferiores a 3,5 mmol/ℓ (milimoles por litro) o 3,5 meq/ℓ (miliequivalentes por litro).
+HIPOCALIEMIA	(sustantivo) hipopotasemia: Trastorno del equilibrio hidroelectrolítico corporal, causado por disminución del contenido del catión potasio (K) en el plasma sanguíneo, a niveles inferiores a 3,5 mmol/ℓ (milimoles por litro) o 3,5 meq/ℓ (miliequivalentes por litro).
+HIPOCAMPO	(sustantivo) hipocampo: (Hippocampus) Pez pequeño, de cuerpo recubierto por un armazón de placas óseas, cola prensil, que nada en posición vertical impulsándose con la aleta dorsal y cuya cabeza forma un ángulo recto con respecto a su cuerpo.
+HIPOCENTAURO	(sustantivo) hipocentauro: Monstruo de la mitología griega mitad hombre, mitad caballo.
+HIPOCONDRIA	(sustantivo) hipocondría: Trastorno mental por el cual el paciente cree de forma infundada que padece alguna enfermedad grave, lo que le lleva a estar constantemente sometido a un análisis minucioso y preocupado de sus funciones fisiológicas básicas. (también: patofobia)
+HIPOCONDRIACO	(sustantivo) hipocondríaco: Persona que se preocupa o habla excesivamente sobre su salud.
+HIPOCRISIA	(sustantivo) hipocresía: Hábito de actuar de tal modo
+HIPOCRISIAS	(forma de hipocrisia) (sustantivo) hipocresía: Hábito de actuar de tal modo
+HIPOCRITA	(adjetivo) hipócrita: Se dice de quien finge ser o sentir lo contrario de lo que es o lo que siente.\n(sustantivo) hipócrita: Se dice de quien finge ser o sentir lo contrario de lo que es o lo que siente.
+HIPOCRITAMENTE	(adverbio) hipocritamente se traduce como hipócritamente
+HIPODROMO	(sustantivo) hipódromo: Sitio, comúnmente ovalado, dedicado a competencias ecuestres.
+HIPOGEU	(sustantivo) hipogeo: Bóveda subterránea donde los griegos y otras naciones antiguas conservaban los cadáveres sin quemarlos.\n(adjetivo) hipogeo: Bóveda subterránea donde los griegos y otras naciones antiguas conservaban los cadáveres sin quemarlos.
+HIPOGLICEMIA	(sustantivo) hipoglicemia se traduce como hipoglucemia
+HIPOGLOSSO	(sustantivo) hipoglosso se traduce como ⟪fletán|FLETAN⟫
+HIPOGRIFO	(sustantivo) hipogrifo: criatura híbrida, de apariencia mitad caballo y mitad grifo, que se asemeja a un caballo alado con la cabeza y los miembros anteriores de un águila.
+HIPONATREMIA	(sustantivo) hiponatremia se traduce como hiponatremia
+HIPONIMO	(sustantivo) hipónimo: Palabra que representa un tipo o subclase de otra palabra más general, es decir, de un hiperónimo.
+HIPOPOTAMA	(forma de hipopotamo) (sustantivo) hipopótamo: (Hippopotamus amphibius) Mamífero herbívoro del orden artiodáctilos, de cuerpo muy grueso, que...
+HIPOPOTAMO	(sustantivo) hipopótamo: (Hippopotamus amphibius) Mamífero herbívoro del orden artiodáctilos, de cuerpo muy grueso, que mide de 3 a 5 m y pesa de 1 a 4 toneladas; tiene la piel gruesa, negruzca y casi sin pelo, las patas robustas y cortas, la boca muy grande y las orejas pequeñas; vive en algunos ríos de África.
+HIPOPOTAMOS	(forma de hipopotamo) (sustantivo) hipopótamo: (Hippopotamus amphibius) Mamífero herbívoro del orden artiodáctilos, de cuerpo muy grueso, que...
+HIPOPOTASSEMIA	(sustantivo) hipopotasemia: Trastorno del equilibrio hidroelectrolítico corporal, causado por disminución del contenido del catión potasio (K) en el plasma sanguíneo, a niveles inferiores a 3,5 mmol/ℓ (milimoles por litro) o 3,5 meq/ℓ (miliequivalentes por litro).
+HIPOSTASE	(sustantivo) hipóstasis: Cada uno de los miembros de la Santísima Trinidad.
+HIPOSTATICAMENTE	(adverbio) hipostaticamente se traduce como hipostáticamente
+HIPOSTATICO	(adjetivo) hipostatico se traduce como hipostático
+HIPOTECA	(sustantivo) hipoteca: Derecho real que afecta a una hipoteca₁
+HIPOTECADO	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTECAMOS	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTECANDO	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTECAR	(verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTECARAM	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTECAS	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTECOU	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTENSAO	(sustantivo) hipotensao se traduce como hipotensión
+HIPOTENUSA	(sustantivo) hipotenusa: Lado mayor de un triángulo rectángulo
+HIPOTEQUE	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTEQUEI	(forma de hipotecar) (verbo) hipotecar: Gravar bienes inmuebles como garantía para asegurar el cumplimiento de una obligación.
+HIPOTERAPIA	(sustantivo) hipoterapia se traduce como equinoterapia, hipoterapia
+HIPOTERMIA	(sustantivo) hipotermia: Descenso involuntario de la temperatura corporal por debajo de 35 °C medida con termómetro en el recto o el esófago.
+HIPOTERMICA	(forma de hipotermico) (adjetivo) hipotermico se traduce como hipotérmico
+HIPOTERMICO	(adjetivo) hipotermico se traduce como hipotérmico\n(sustantivo) hipotermico se traduce como hipotérmico
+HIPOTERMICOS	(forma de hipotermico) (adjetivo) hipotermico se traduce como hipotérmico
+HIPOTESE	(sustantivo) hipótesis: Proposición o conjunto de proposiciones que se establecen para explicar la ocurrencia de un grupo específico de fenómenos, estas pueden ser conjeturas provisionales para guiar una investigación o bien puede tratarse de proposiciones aceptadas universalmente a la luz de los hechos establecidos.
+HIPOTESES	(forma de hipotese) (sustantivo) hipótesis: Proposición o conjunto de proposiciones que se establecen para explicar la ocurrencia de un...
+HIPOTETICA	(forma de hipotetico) (adjetivo) hipotético: Perteneciente o relativo a la hipótesis o que se funda en ella.
+HIPOTETICO	(adjetivo) hipotético: Perteneciente o relativo a la hipótesis o que se funda en ella.
+HIPOTETICOS	(forma de hipotetico) (adjetivo) hipotético: Perteneciente o relativo a la hipótesis o que se funda en ella.
+HIPOTIREOIDISMO	(sustantivo) hipotireoidismo se traduce como hipotiroidismo
+HIPOTONICO	(adjetivo) hipotonico se traduce como hipotónico
+HIPPIE	(sustantivo) jipi: Se dice del movimiento que surgió en los Estados Unidos en los años 60 del siglo veinte. Se caracteriza por la adaptación de los costumbres opuestas a las de la sociedad establecida, que aboga por una ética contra la violencia y que propaga el uso de drogas.
+HIPSOMETRICO	(adjetivo) hipsometrico se traduce como hipsométrico
+HIRSUTO	(adjetivo) peludo: Complicado, sumamente difícil. (también: piloso, velludo)
+HIRTO	(adjetivo) erecto: Que se alza o extiende recto. (también: yerto, rígido)
+HISPALENSE	(adjetivo) hispalense: Se dice de algo que proviene o tiene relación con Sevilla, en España.
+HISPANA	(forma de hispano) (adjetivo) hispano: En particular, hispanoamericano radicado en los Estados Unidos.
+HISPANISMO	(sustantivo) hispanismo: Preferencia por lo proveniente de las culturas donde se habla el idioma español.
+HISPANO	(adjetivo) hispano: En particular, hispanoamericano radicado en los Estados Unidos.
+HISPANOFONO	(sustantivo) hispanohablante: Que habla castellano o español.
+HISSOPO	(sustantivo) hisopo: (Hyssopus spp.) Cualquiera de varias especies de plantas herbáceas o subleñosas nativas de la Europa Meridional y el Medio Oriente, de hábito erecto y ramificado, con hojas lanceoladas u oblongas, de hasta 5 cm de largo, y unos 60 cm de altura total. Forma espigas de pequeñas flores blanquecinas,...
+HISTERECTOMIA	(sustantivo) histerectomía: Escisión parcial o completa del útero.
+HISTERICAMENTE	(adverbio) histericamente se traduce como histéricamente
+HISTOLOGIA	(sustantivo) histología: Parte de la anatomía, que trata del estudio de los tejidos orgánicos.
+HISTOLOGICAMENTE	(adverbio) histologicamente se traduce como histológicamente
+HISTOPATOLOGIA	(sustantivo) histopatologia se traduce como histopatología
+HISTOPATOLOGICAMENTE	(adverbio) histopatologicamente se traduce como histopatológicamente
+HISTORIA	(sustantivo) historia: Conjunto de los acontecimientos pasados.
+HISTORIADOR	(sustantivo) historiador: Persona que se dedica a investigar, recopilar, registrar y/o escribir la historia. Académico de la historiografía.
+HISTORIADORA	(sustantivo) Forma del femenino singular de historiador: Historiador.
+HISTORIAL	(adjetivo) historial: Grabación secuencial en un archivo o en una base de datos de los acontecimientos que afectan un proceso particular (aplicación, actividad de una red informática, etc.).\n(sustantivo) historial: Grabación secuencial en un archivo o en una base de datos de los acontecimientos que afectan un proceso particular (aplicación, actividad de una red informática, etc.).
+HISTORIAR	(verbo) historiar: Crear historias o relatos.
+HISTORIAS	(forma de historiar) (verbo) historiar: Crear historias o relatos.
+HISTORICA	(forma de historico) (adjetivo) histórico: Que tiene suficiente importancia para aparecer en la historia.
+HISTORICAMENTE	(adverbio) históricamente: De modo histórico; según o con base en la historia, la trayectoria o el historial.
+HISTORICO	(adjetivo) histórico: Que tiene suficiente importancia para aparecer en la historia.
+HISTORIOGRAFIA	(sustantivo) historiografía: Arte de escribir la historia y ciencia que que se encarga de estudiarla.
+HISTRIONICAMENTE	(adverbio) histriónicamente: De un modo histriónico.
+HIT	(sustantivo) hit: Obra musical muy popular y exitosa. (también: éxito, algo que arrasa)
+HITAR	(verbo) suceder: Entrar en lugar de otra persona en un cargo o situación. (también: triunfar, sucesionar)
+HITE	(forma de hitar) (verbo) suceder: Entrar en lugar de otra persona en un cargo o situación. (también: triunfar, sucesionar)
+HITITA	(adjetivo) hitita: Antigua lengua indoeuropea de la familia anatolia hablada por el pueblo de los hititas.\n(sustantivo) hitita: Antigua lengua indoeuropea de la familia anatolia hablada por el pueblo de los hititas.
+HITS	(forma de hit) (sustantivo) hit: Obra musical muy popular y exitosa. (también: éxito, algo que arrasa)
+HOBBY	(sustantivo) afición: Actividad o cosa hacia la que se siente tal inclinación₁. (también: pasatiempo, arregosto)
+HODIERNAMENTE	(adverbio) hoy: En el día en curso.
+HODIERNO	(adjetivo) actual: Relativo al tiempo presente. (también: presente)
+HOJE	(adverbio) hoy: En el tiempo que transcurre actualmente.
+HOJES	(forma de hoje) (adverbio) hoy: En el tiempo que transcurre actualmente.
+HOLANDES	(adjetivo) neerlandés: Persona que es originaria de los Países Bajos. (también: holandés)\n(sustantivo) neerlandés: Persona que es originaria de los Países Bajos. (también: holandés)
+HOLANDESES	(forma de holandes) (adjetivo) neerlandés: Persona que es originaria de los Países Bajos. (también: holandés)
+HOLISMO	(sustantivo) holismo: Concepto según el cual el todo es más que la suma de sus partes. Un sistema, como una célula, tiene una funcionalidad mayor que la suma de sus organelos y estructuras que la constituyen.
+HOLISTA	(adjetivo) holístico: Propio de o relativo al todo o la totalidad de algo.
+HOLISTICAMENTE	(adverbio) holisticamente se traduce como holísticamente
+HOLISTICO	(adjetivo) holístico: Propio de o relativo al todo o la totalidad de algo.
+HOLMIO	(sustantivo) holmio: Elemento químico de la tabla periódica cuyo símbolo es Ho y su número atómico es 67. Pertenece al grupo de los lantánidos.
+HOLOCAUSTO	(sustantivo) masacre: Matanza masiva, deliberada y cruel de personas, en especial cuando éstas están indefensas (también: matanza, escabechina)
+HOLOCAUSTOS	(forma de holocausto) (sustantivo) masacre: Matanza masiva, deliberada y cruel de personas, en especial cuando éstas están indefensas...
+HOLOFOTE	(sustantivo) cañón: Foco que genera un haz de luz concentrada, usado para iluminar selectivamente partes de la escena en espectáculos artísticos.
+HOLOFRASTICO	(adjetivo) holofrastico se traduce como holofrástico
+HOLOGRAFIA	(sustantivo) holografia se traduce como holografía
+HOLONOMIA	(sustantivo) holonomia se traduce como holonomía
+HOMEM	(sustantivo) hombre: Individuo de la especie humana, definido como mamífero primate dotado de inteligencia, que camina en posición vertical, posee manos prensiles y un cerebro voluminoso, y se comunica por medio de un lenguaje articulado.
+HOMENAGEADO	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEAMOS	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEANDO	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEAR	(verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEARA	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEARAM	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEARAO	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEAREM	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEAREMOS	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEAVA	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEAVAM	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEIA	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEIAM	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEIE	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENAGEM	(sustantivo) homenaje: Acto de sumisión, veneración o respeto, hacia alguien.
+HOMENAGEOU	(forma de homenagear) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOMENS	(forma de homem) (sustantivo) hombre: Individuo de la especie humana, definido como mamífero primate dotado de inteligencia, que camina...
+HOMENZINHO	(forma de homem) (sustantivo) hombre: Individuo de la especie humana, definido como mamífero primate dotado de inteligencia, que camina...
+HOMENZINHOS	(forma de homem) (sustantivo) hombre: Individuo de la especie humana, definido como mamífero primate dotado de inteligencia, que camina...
+HOMEOPATIA	(sustantivo) homeopatía: Método curativo que aplica, en dosis mínimas, substancias que en cantidad mayor producirían efectos o afecciones semejantes a las que se combaten.
+HOMEOPATICAMENTE	(adverbio) homeopaticamente se traduce como homeopáticamente
+HOMEOSTASE	(sustantivo) homeostasis: Tendencia de un sistema, en especial del sistema fisiológico de los animales superiores, para mantener la estabilidad interna, que se logra con la respuesta coordinada de sus partes que ajustan sus funciones ante cualquier estimulo o situación que afecte las funciones o condiciones normales.
+HOMEOSTATICAMENTE	(adverbio) homeostaticamente se traduce como homeostáticamente
+HOMEOSTATICO	(adjetivo) homeostatico se traduce como homeostático
+HOMEOTERMICO	(adjetivo) homeotérmico: Se dice de los animales que pueden regular su temperatura corporal con independencia de la temperatura ambiental, mediante diversos mecanismos que activan sus sistema nerviosos y un gasto energético importante. Generalmente llevan el cuerpo cubierto de plumas o pelos, como las aves y los mamíferos.
+HOMERICAMENTE	(adverbio) homericamente se traduce como homéricamente
+HOMERICO	(adjetivo) homérico: Que pertenece o concierne a Homero o con su poesía
+HOMICIDA	(adjetivo) asesino: Que asesina o ha asesinado, en especial si lo tiene por hábito, inclinación u oficio. (también: homicida)\n(sustantivo) homicida: Que da o provoca la muerte a un ser humano.
+HOMICIDAS	(forma de homicida) (adjetivo) asesino: Que asesina o ha asesinado, en especial si lo tiene por hábito, inclinación u oficio. (también:...
+HOMICIDIO	(sustantivo) asesinato: Delito contra la vida humana, de carácter muy específico, que consiste en matar a una persona concurriendo ciertas circunstancias, tales como: alevosía, precio, recompensa o promesa remuneratoria o ensañamiento.
+HOMICIDIOS	(forma de homicidio) (sustantivo) asesinato: Delito contra la vida humana, de carácter muy específico, que consiste en matar a una persona...
+HOMILETICA	(sustantivo) homilética: Aplicación de los principios generales de la retórica en la composición y ejecución de la predicación.
+HOMILIA	(sustantivo) homilía: Razonamiento o plática que se hace para explicar al pueblo las materias de religión.
+HOMINIDEO	(sustantivo) homínido: (Hominidae) Individuo que pertenece a la una de las subfamilias de la tribu Hominini del orden de los primates que incluye al Homo sapiens.
+HOMOAFETIVO	(adjetivo) homosexual: Que siente atracción sexual hacia individuos del mismo sexo.
+HOMOFILIA	(sustantivo) homofilia se traduce como homofilia
+HOMOFOBIA	(sustantivo) homofobia: Temor a ser homosexual.
+HOMOFOBICA	(forma de homofobico) (adjetivo) homofóbico: Que pertenece o esta relacionado con el temor o aversión irracional a la homosexualidad.
+HOMOFOBICAS	(forma de homofobico) (adjetivo) homofóbico: Que pertenece o esta relacionado con el temor o aversión irracional a la homosexualidad.
+HOMOFOBICO	(adjetivo) homofóbico: Que pertenece o esta relacionado con el temor o aversión irracional a la homosexualidad.
+HOMOFOBICOS	(forma de homofobico) (adjetivo) homofóbico: Que pertenece o esta relacionado con el temor o aversión irracional a la homosexualidad.
+HOMOFONIA	(sustantivo) homofonía: Condición de sonar una palabra de igual modo que otra, habiendo diferencia en el significado
+HOMOFONO	(sustantivo) homófono: Se dice de una palabra que suena igual a otra, teniendo una grafía diferente. (también: homófona)
+HOMOGENEAMENTE	(adverbio) homogeneamente se traduce como homogéneamente
+HOMOGENEIDADE	(sustantivo) homogeneidad: Calidad o condición de homogéneo.
+HOMOGENEIZADO	(forma de homogeneizar) (verbo) homogeneizar: Hacer que los elementos diversos de un compuesto, mezcla o sustancia queden iguales, uniformes u...
+HOMOGENEIZAR	(verbo) homogeneizar: Hacer que los elementos diversos de un compuesto, mezcla o sustancia queden iguales, uniformes u homogéneos.
+HOMOGENEIZAÇAO	(sustantivo) homogeneizaçao se traduce como homogeneización, homogenización
+HOMOGENEO	(adjetivo) homogéneo: Se dice de un conjunto formado por elementos análogos o iguales.
+HOMOGRAFO	(sustantivo) homógrafo: Dicho de una palabra: que se escribe igual a otra (pero en general difiere en la etimología y el significado).
+HOMOLOGADO	(forma de homologar) (verbo) homologar: Registrar y confirmar un organismo autorizado el resultado de una prueba deportiva.
+HOMOLOGAR	(verbo) homologar: Registrar y confirmar un organismo autorizado el resultado de una prueba deportiva.
+HOMOLOGAÇAO	(sustantivo) homologación: Acción y efecto de homologar.
+HOMOLOGO	(adjetivo) homólogo: Similar a otra cosa, de tal manera que sugiere un origen común o equivalente.
+HOMONACIONALISMO	(sustantivo) homonacionalismo: Asociación favorable de las personas LGBT y/o los derechos de éstas con una ideología nacionalista.
+HOMONIMA	(sustantivo) tocayo: Que tiene el mismo nombre que otra persona. (también: tocaya, homónimo)
+HOMONIMIA	(sustantivo) homonimia: Situación producida cuando hay homónimos.
+HOMONIMO	(adjetivo) homónimo: Que tiene el mismo nombre que otra persona o cosa.
+HOMONIMOS	(forma de homonimo) (adjetivo) homónimo: Que tiene el mismo nombre que otra persona o cosa.
+HOMORROMANTICO	(adjetivo) homorromántico: (persona) Que solo siente atracción romántica hacia aquellos del mismo sexo o género.
+HOMOSSEXUAIS	(forma de homossexual) (adjetivo) homosexual: Que siente atracción sexual hacia individuos del mismo sexo.
+HOMOSSEXUAL	(adjetivo) homosexual: Que siente atracción sexual hacia individuos del mismo sexo.\n(sustantivo) homosexual: Que siente atracción sexual hacia individuos del mismo sexo.
+HOMOSSEXUALIDADE	(sustantivo) homosexualidad: Condición o carácter de homosexual
+HOMOSSEXUALISMO	(sustantivo) homossexualismo se traduce como homosexualismo
+HOMUNCULO	(sustantivo) hombrecillo: Diminutivo de hombre
+HONESTA	(forma de honesto) (adjetivo) honesto: Veraz, acertado. Que dice siempre la verdad.
+HONESTAMENTE	(adverbio) sinceramente: Con sinceridad. (también: honestamente)
+HONESTAS	(forma de honesto) (adjetivo) honesto: Veraz, acertado. Que dice siempre la verdad.
+HONESTIDADE	(sustantivo) honestidade se traduce como ⟪honestidad⟫
+HONESTO	(adjetivo) honesto: Veraz, acertado. Que dice siempre la verdad.
+HONESTOS	(forma de honesto) (adjetivo) honesto: Veraz, acertado. Que dice siempre la verdad.
+HONGUECONGUENSE	(adjetivo) hongkonés: Originario, relativo a, o propio de Hong Kong.
+HONORAVEIS	(forma de honoravel) (adjetivo) honorable: Digno de respecto, obediencia y estima.
+HONORAVEL	(adjetivo) honorable: Digno de respecto, obediencia y estima.
+HONORIFICO	(adjetivo) honorífico: Que da honor.
+HONRA	(sustantivo) honor: Honestidad e integridad en las creencias y acciones.
+HONRADA	(forma de honrado) (adjetivo) veraz: Sincero, incapaz de engañar. (también: honesto)
+HONRADAMENTE	(adverbio) honradamente: De un modo honrado u honesto.
+HONRADO	(adjetivo) veraz: Sincero, incapaz de engañar. (también: honesto)
+HONRADOS	(forma de honrado) (adjetivo) veraz: Sincero, incapaz de engañar. (también: honesto)
+HONRAI	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAMOS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRANDO	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAR	(verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARA	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARAM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARAO	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARAS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAREI	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAREM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAREMOS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARIAM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARIAS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRARMOS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAS	(forma de honra) (sustantivo) honor: Honestidad e integridad en las creencias y acciones.
+HONRASSE	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRASSEM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAVA	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAVAM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAVAMOS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRAVEIS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRE	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONREI	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONREM	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONREMOS	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONRO	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HONROSAMENTE	(adverbio) honrosamente se traduce como honrosamente
+HONROSO	(adjetivo) honroso: Que da honra y estimación.
+HONROU	(forma de honrar) (verbo) honrar: Mostrar o tratar con un alto nivel de respeto.
+HOPLOTECA	(sustantivo) oploteca: Colección o museo de armas, especialmente antiguas. (también: hoploteca)
+HORA	(sustantivo) hora: Cada una de las 24 partes de igual duración en que se divide el día, a su vez subdivididas cada una de ellas en 60 minutos.
+HORARIO	(sustantivo) horario: Saetilla o mano del reloj que señala las horas y es siempre algo más corta que el minutero.
+HORARIOS	(forma de horario) (sustantivo) horario: Saetilla o mano del reloj que señala las horas y es siempre algo más corta que el minutero.
+HORAS	(forma de hora) (sustantivo) hora: Cada una de las 24 partes de igual duración en que se divide el día, a su vez subdivididas cada una...
+HORDA	(sustantivo) horda: Grupo de una etnia migratoria, que se desplaza por necesidades bélicas, económicas o de otro tipo.
+HORDEOLO	(sustantivo) orzuelo: Inflamación de las glándulas sudoríparas o sebáceas de los párpados, habitualmente de origen infeccioso.
+HORIZONTAL	(adjetivo) horizontal: Orientado de derecha a izquierda, o viceversa.
+HORIZONTALIDADE	(sustantivo) horizontalidad: Condición o carácter de horizontal.
+HORIZONTALMENTE	(adverbio) horizontalmente: De un modo horizontal.
+HORIZONTE	(sustantivo) horizonte: Línea que parece separar el cielo de la tierra, al final de lo que alcanza la vista.
+HORIZONTES	(sustantivo) Forma del plural de horizonte: Horizonte.
+HORMONA	(sustantivo) hormona: Substancias segregadas por células de glándulas de secreción interna (endócrinas, o por células epiteliales e intersticiales que influyen en el funcionamiento de otras células.
+HORMONAL	(adjetivo) hormonal: Propio de o relativo a las hormonas.
+HORMONALMENTE	(adverbio) hormonalmente se traduce como hormonalmente
+HORMONIO	(sustantivo) hormona: Substancias segregadas por células de glándulas de secreción interna (endócrinas, o por células epiteliales e intersticiales que influyen en el funcionamiento de otras células.
+HOROSCOPO	(sustantivo) horóscopo: Posición del los planetas y estrellas en el momento del nacimiento de una persona; Un diagrama de estas posiciones. Prónostico sobre el futuro de una persona basado en estas posiciones.
+HORRENDA	(forma de horrendo) (adjetivo) horrendo: Que provoca o tiende a provocar horror.
+HORRENDO	(adjetivo) horrendo: Que provoca o tiende a provocar horror.
+HORRENDOS	(forma de horrendo) (adjetivo) horrendo: Que provoca o tiende a provocar horror.
+HORRIPILANTE	(adjetivo) escalofriante: Horripilante, que causa escalofríos (también: espeluznante, dar miedito)
+HORRIPILAR	(verbo) horripilar se traduce como horripilar
+HORRIVEL	(adjetivo) horrible: Que provoca o tiende a provocar horror.
+HORRIVELMENTE	(adverbio) horriblemente: Con horror.
+HORROR	(sustantivo) Horror, miedo, temor o terror.
+HORRORIZA	(forma de horrorizar) (verbo) horrorizar se traduce como espeluznar, horrorizar
+HORRORIZAM	(forma de horrorizar) (verbo) horrorizar se traduce como espeluznar, horrorizar
+HORRORIZAR	(verbo) horrorizar se traduce como espeluznar, horrorizar
+HORRORIZARAM	(forma de horrorizar) (verbo) horrorizar se traduce como espeluznar, horrorizar
+HORRORIZAVA	(forma de horrorizar) (verbo) horrorizar se traduce como espeluznar, horrorizar
+HORRORIZOU	(forma de horrorizar) (verbo) horrorizar se traduce como espeluznar, horrorizar
+HORROROSAMENTE	(adverbio) horrorosamente: De un modo horroroso u horrible; con horror.
+HORROROSO	(adjetivo) horroroso: Que produce horror, miedo o rechazo intensos.
+HORTA	(sustantivo) huerta: Terreno pequeño dedicado al cultivo de vegetales
+HORTALIÇA	(sustantivo) verdura: Planta o producto vegetal comestible y perecedero, del cual se consumen las partes verdes, en especial hojas, tallos y frutos en vaina.
+HORTELA	(sustantivo) menta: (Mentha spp.) Cualquiera de varias especies de plantas herbáceas perennes de la familia de las lamiáceas, rizomáticas, de tallo erecto, hojas opuestas, simples, oblongas a lanceoladas, de margen dentado, flores tetralobuladas de color blanco a púrpura y fruto en cápsula. Por su intenso aroma son...
+HORTENSE	(adjetivo) hortense se traduce como hortense
+HORTENSIA	(sustantivo) hortensia: Flor de la hortensia.
+HORTO	(sustantivo) huerto: Terreno pequeño dedicado al cultivo de vegetales (también: huerta)
+HOSANA	(interjección) hosanna: Úsase para expresar júbilo en varios puntos de la liturgia
+HOSPEDA	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDADO	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAGEM	(sustantivo) alojamiento: Acción y efecto de alojar (también: hospedaje)
+HOSPEDAM	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAMOS	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDANDO	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAR	(verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDARA	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDARAM	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDARAO	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAREI	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAREM	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAREMOS	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDARIA	(sustantivo) hostal: En particular, aquel que ofrece solo o preferentemente servicios de alojamiento en habitaciones compartidas. (también: hospedaje)
+HOSPEDARIAS	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDARMOS	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDASSE	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAVA	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDAVAM	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDE	(sustantivo) huésped: Persona que se aloja en un domicilio que no es el propio, sea una casa ajena o un establecimiento comercial
+HOSPEDEI	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDEIRO	(sustantivo) huésped: Persona que aloja a un huésped₁ en su propia vivienda o establecimiento (también: patrón, hostia)
+HOSPEDEIROS	(forma de hospedeiro) (sustantivo) huésped: Persona que aloja a un huésped₁ en su propia vivienda o establecimiento (también: patrón, hostia)
+HOSPEDEM	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDES	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDO	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPEDOU	(forma de hospedar) (verbo) hospedar: Recibir uno en su casa huéspedes; darles alojamiento.
+HOSPICIO	(sustantivo) hospicio: Lugar donde se cobija a ancianos y niños pobres o abandonados para su cuidado o educación.
+HOSPITAL	(sustantivo) hospital: Lugar donde se atiende a los enfermos, para proporcionar el diagnóstico y tratamiento que necesitan. (también: nosocomio)\n(adjetivo) hospital: Lugar donde se atiende a los enfermos, para proporcionar el diagnóstico y tratamiento que necesitan.
+HOSPITALAR	(adjetivo) hospital: Lugar donde se atiende a los enfermos, para proporcionar el diagnóstico y tratamiento que necesitan.
+HOSPITALARES	(forma de hospitalar) (adjetivo) hospital: Lugar donde se atiende a los enfermos, para proporcionar el diagnóstico y tratamiento que...
+HOSPITALIDADE	(sustantivo) hospitalidad: Cortesía, amabilidad o atención que se dispensa a los visitantes o extranjeros por los anfitriones de una casa o los naturales de un país
+HOSPITALIZAÇAO	(sustantivo) hospitalizaçao se traduce como hospitalización
+HOST	(sustantivo) huésped: Persona que aloja a un huésped₁ en su propia vivienda o establecimiento (también: patrón, hostia)
+HOSTE	(sustantivo) huésped: Persona que aloja a un huésped₁ en su propia vivienda o establecimiento (también: patrón, hostia)
+HOSTEL	(sustantivo) hostal: En particular, aquel que ofrece solo o preferentemente servicios de alojamiento en habitaciones compartidas. (también: hospedaje)
+HOSTES	(forma de hoste) (sustantivo) huésped: Persona que aloja a un huésped₁ en su propia vivienda o establecimiento (también: patrón, hostia)
+HOSTESS	(forma de host) (sustantivo) huésped: Persona que aloja a un huésped₁ en su propia vivienda o establecimiento (también: patrón, hostia)
+HOSTIA	(sustantivo) hostia: Hoja de pan ácimo que en la religión cristiana se consagra para ser consumida por los fieles en la eucaristía.\n(interjección) hostia: Hoja de pan ácimo que en la religión cristiana se consagra para ser consumida por los fieles en la eucaristía.
+HOSTIL	(adjetivo) hostil: Que es enemigo o contrario.
+HOSTILIZADO	(adjetivo) hostilizado: Participio de hostilizar.
+HOTEIS	(forma de hotel) (sustantivo) Hotel, albergue, hostal, hostería o posada.
+HOTEL	(sustantivo) Hotel, albergue, hostal, hostería o posada.
+HOTELZINHO	(forma de hotel) (sustantivo) Hotel, albergue, hostal, hostería o posada.
+HOUVE	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVERA	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVERAM	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVERMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVESSE	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVESSEIS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVESSEM	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVESSEMOS	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOUVESSES	(forma de haver) (verbo) haber: Se combina con el participio de otros verbos para conjugarlos en los tiempos compuestos.
+HOVERCRAFT	(sustantivo) aerodeslizador: Vehículo que, al lanzar un chorro de aire debajo de él, genera un colchón o cojín de aire que le permite moverse en áreas planas, como llanuras, el agua, la nieve, la arena o el hielo.
+HUBRIS	(sustantivo) hubris se traduce como hybris, ⟪hibris⟫
+HULHA	(sustantivo) hulla: Un tipo de carbón fósil.
+HUMANAS	(forma de humano) (adjetivo) humano: Que pertenece o concierne a la especie llamada Homo sapiens, esto es, al hombre y a la mujer como...
+HUMANIDADE	(sustantivo) humanidad: Condición o carácter de humano.
+HUMANISMO	(sustantivo) humanismo: Corriente educativa, filosófica, artística e intelectual europea estrechamente ligada al Renacimiento cuyo origen se sitúa en el siglo XIV en la península Itálica, especialmente en Roma, Venecia y Florencia.
+HUMANISTA	(sustantivo) humanista: Persona instruida en letras humanas.
+HUMANISTICAMENTE	(adverbio) humanisticamente se traduce como humanísticamente
+HUMANITARIO	(adjetivo) humano: Que pertenece o concierne a la especie llamada Homo sapiens, esto es, al hombre y a la mujer como especie. (también: humanitario)\n(sustantivo) humano: Que pertenece o concierne a la especie llamada Homo sapiens, esto es, al hombre y a la mujer como especie.
+HUMANO	(adjetivo) humano: Que pertenece o concierne a la especie llamada Homo sapiens, esto es, al hombre y a la mujer como especie.\n(sustantivo) humano: Que pertenece o concierne a la especie llamada Homo sapiens, esto es, al hombre y a la mujer como especie.
+HUMANOS	(forma de humano) (adjetivo) humano: Que pertenece o concierne a la especie llamada Homo sapiens, esto es, al hombre y a la mujer como...
+HUMECTANTE	(adjetivo) humectante: Que humecta.
+HUMEDECER	(verbo) humidificar: Incrementar la humedad en el ambiente.
+HUMIDADE	(sustantivo) humedad: Calidad o cualidad de húmedo.
+HUMIDAS	(forma de humido) (adjetivo) húmedo: Que esta mojado o que tiene vapor de agua.
+HUMIDIFICAR	(verbo) humidificar: Incrementar la humedad en el ambiente.
+HUMIDO	(adjetivo) húmedo: Que esta mojado o que tiene vapor de agua.
+HUMILDADE	(sustantivo) humildad: Modestia, característica de no tener orgullo, de no ser arrogante.
+HUMILDE	(adjetivo) humilde: Modesto, de pobre condición económica.
+HUMILDEMENTE	(adverbio) humildemente se traduce como humildemente
+HUMILDES	(forma de humilde) (adjetivo) humilde: Modesto, de pobre condición económica.
+HUMILHA	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAM	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAMOS	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHANDO	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHANTE	(adjetivo) humillante: Que es degradante, vejatorio u ofensivo
+HUMILHAR	(verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHARA	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHARAM	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAREI	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAREM	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHARES	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHARIA	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHARMOS	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHASSE	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAVA	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAVAM	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHAÇAO	(sustantivo) humillación: Acción o efecto de humillar o de humillarse.
+HUMILHE	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHEI	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHEM	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHES	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHO	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMILHOU	(forma de humilhar) (verbo) humillar: Más generalmente, herir la dignidad de alguno.
+HUMO	(sustantivo) humus: Estrato superior del terreno, negruzco, compuesto por substancias coloidales originadas mediante descomposición de restos orgánicos por hongos y bacterias.
+HUMOR	(sustantivo) humor: Estado de animo esencial de un individuo que caracteriza sus afectos y reacciones emocionales. (también: humorismo)
+HUMORADAMENTE	(adverbio) humoradamente se traduce como humoradamente
+HUMORES	(forma de humor) (sustantivo) humor: Estado de animo esencial de un individuo que caracteriza sus afectos y reacciones emocionales....
+HUMORISTICAMENTE	(adverbio) humoristicamente se traduce como humorísticamente
+HUMORISTICO	(adjetivo) jocoso: Que es gracioso y divertido\n(sustantivo) gracejo: Comentario, observación, narración o expresión que tiene ingenio o elegancia, que divierte o hace reír. (también: chiste espontáneo, donaire)
+HUMUS	(sustantivo) humus: Grafía alternativa de hummus.
+HUSSARDO	(sustantivo) húsar: Soldado de un cuerpo de caballería de origen serbio, adaptado luego por húngaros y polacos. Originalmente miembros de unidades de caballería ligera, se desarrollaron luego como fuerzas pesadas armadas con lanza, la base del ejército regular de varias naciones del Este europeo. En Occidente...
+HUSSARDOS	(forma de hussardo) (sustantivo) húsar: Soldado de un cuerpo de caballería de origen serbio, adaptado luego por húngaros y polacos....

@@ -1,0 +1,1662 @@
+VACA	(noun) vaca translates to a cow\n(verb) third-person singular present indicative (vacar): to vacate
+VACANCIA	(noun) vacancia translates to ⟪vacancy⟫
+VACANTE	(adjective) vacant: Blank.
+VACAR	(verb) vacar translates to to vacate
+VACATURA	(noun) vacancy: An unoccupied position or job.
+VACAÇAO	(noun) vacation: The act of vacating something; moving out.
+VACILAI	(verb) second-person plural imperative of vacilar: to vacillate
+VACILAM	(verb) third-person plural present indicative of vacilar: to vacillate
+VACILAMOS	(verb) first-person plural present indicative (vacilar): to vacillate
+VACILANDO	(verb) gerund of vacilar: to vacillate
+VACILAO	(noun) vacilao translates to a simpleton\n(adjective) foolish, lacking in common sense
+VACILAR	(verb) vacilar translates to to vacillate
+VACILARA	(verb) third-person singular future indicative of vacilar: to vacillate
+VACILARAM	(verb) third-person plural preterite/pluperfect indicative of vacilar
+VACILAREI	(verb) first-person singular future indicative of vacilar: to vacillate
+VACILAREM	(verb) third-person plural future subjunctive (vacilar): to vacillate
+VACILARIA	(verb) first/third-person singular conditional of vacilar: to vacillate
+VACILARMOS	(verb) first-person plural future subjunctive (vacilar): to vacillate
+VACILASSE	(verb) first/third-person singular imperfect subjunctive of vacilar: to vacillate
+VACILAVA	(verb) first/third-person singular imperfect indicative of vacilar: to vacillate
+VACILE	(verb) first/third-person singular present subjunctive (vacilar): to vacillate
+VACILEI	(verb) first-person singular preterite indicative of vacilar: to vacillate
+VACILEM	(verb) third-person plural present subjunctive (vacilar): to vacillate
+VACILO	(noun) an instance of hesitation\n(verb) first-person singular present indicative of vacilar: to vacillate
+VACILOES	(noun) plural of vacilão: a simpleton\n(adjective) plural of vacilão: a simpleton
+VACILONA	(noun) female equivalent of vacilão: a simpleton
+VACILOS	(noun) plural of vacilo: an instance of hesitation
+VACILOU	(verb) third-person singular preterite indicative of vacilar: to vacillate
+VACINA	(noun) vaccine: A substance given to stimulate a body's production of antibodies and provide immunity against a disease without causing the disease itself in the treatment, prepared from the agent that causes the disease (or a derivative of it; or a related, also effective, but safer disease), or a synthetic...\n(verb) third-person singular present indicative (vacinar): to vaccinate
+VACINADA	(adjective) feminine singular of vacinado: vaccinated
+VACINADAS	(adjective) feminine plural of vacinado: vaccinated
+VACINADO	(verb) past participle of vacinar: to vaccinate\n(adjective) vaccinated: Inoculated with a vaccine.
+VACINADOS	(adjective) masculine plural of vacinado: vaccinated
+VACINAM	(verb) third-person plural present indicative of vacinar: to vaccinate
+VACINAMOS	(verb) first-person plural present indicative (vacinar): to vaccinate
+VACINANDO	(verb) gerund of vacinar: to vaccinate
+VACINAR	(verb) vacinar translates to to vaccinate
+VACINARAM	(verb) third-person plural preterite/pluperfect indicative of vacinar
+VACINAREM	(verb) third-person plural future subjunctive (vacinar): to vaccinate
+VACINAS	(noun) plural of vacina: vaccine\n(verb) second-person singular present indicative of vacinar: to vaccinate
+VACINAÇAO	(noun) vaccination: Inoculation with a vaccine, in order to protect from a particular disease or strain of disease.
+VACINAÇOES	(noun) plural of vacinação: vaccination
+VACINE	(verb) first/third-person singular present subjunctive (vacinar): to vaccinate
+VACINEI	(verb) first-person singular preterite indicative of vacinar: to vaccinate
+VACINEM	(verb) third-person plural present subjunctive (vacinar): to vaccinate
+VACINOU	(verb) third-person singular preterite indicative of vacinar: to vaccinate
+VACUAMENTE	(adverb) vacuamente translates to ⟪vacantly⟫
+VACUIDADE	(noun) vacuity: Idleness; listlessness. (also: emptiness)
+VACUO	(noun) vacuo translates to ⟪vacuum⟫\n(adjective) vacuous: Empty; void; lacking meaningful content.
+VACUOLO	(noun) vacuole: A large membrane-bound vesicle in a cell's cytoplasm.
+VACUOLOS	(noun) plural of vacúolo: vacuole
+VACUOS	(noun) plural of vácuo: vacuum
+VADEAR	(verb) vadear translates to to ford, to wade
+VADEAÇAO	(noun) wade: An act of wading. (also: fording)
+VADIAGEM	(noun) vadiagem translates to ⟪loitering⟫
+VADIAR	(verb) vadiar translates to to wander
+VADIO	(noun) vadio translates to ⟪layabout⟫\n(adjective) vagrant: Wandering from place to place, particularly when without any settled employment or habitation. (also: homeless)
+VAGA	(noun) vaga translates to ⟪vacancy⟫, ⟪opening⟫\n(adjective) feminine singular of vago: vague
+VAGABA	(noun) clipping of vagabunda (“promiscuous woman, bitch”)
+VAGABUNDA	(noun) female equivalent of vagabundo: idle\n(adjective) feminine singular of vagabundo: idle
+VAGABUNDAGEM	(noun) wandering: Travelling without preset route; roaming. (also: vagabondage)
+VAGABUNDEAR	(verb) vagabundear translates to to wander
+VAGABUNDEIA	(verb) third-person singular present indicative (vagabundear): to wander
+VAGABUNDO	(adjective) vagabundo translates to ⟪idle⟫\n(noun) tramp: A homeless person; a vagabond. (also: hobo)
+VAGADO	(verb) past participle of vagar: time; occasion, opportunity
+VAGALHAO	(noun) augmentative of vaga: billow, rogue wave: vacancy, opening
+VAGAMENTE	(adverb) vaguely: In a vague manner.
+VAGANDO	(verb) gerund of vagar: time; occasion, opportunity
+VAGANTE	(noun) wanderer: One who wanders, who travels aimlessly.\n(adjective) vagante translates to who wanders
+VAGAO	(noun) wagon: Ellipsis of station wagon (“type of automobile”); (occasionally, loosely) any car, van, or light truck.
+VAGAR	(noun) time: Time out; temporary, limited suspension of play. (also: occasion, opportunity)\n(verb) vagar translates to to wander
+VAGAROSAMENTE	(adverb) slowly: At a slow pace.
+VAGAROSO	(adjective) vagaroso translates to ⟪leisurely⟫
+VAGEM	(noun) pod: A seed case for legumes (e.g. peas, beans, peppers); a seedpod.
+VAGIDO	(noun) wail: A prolonged cry, usually high-pitched, especially as of grief or anguish.
+VAGINA	(noun) vagina: anatomical sense
+VAGINAL	(adjective) vaginal: Of, relating to, or affecting the vagina.
+VAGINALMENTE	(adverb) vaginally: Via the vagina, as (usually, more specifically) by the vaginal route of administration.
+VAGINAS	(noun) plural of vagina: vagina
+VAGINISMO	(noun) vaginismus: A painful muscular contraction of the vagina when attempting to insert something, such as a tampon or a penis, into it.
+VAGO	(adjective) vague: Not having a precise meaning.\n(noun) the vagus nerve
+VAGONETA	(noun) vagoneta translates to minecart
+VAGUEAR	(verb) vaguear translates to to roam, to wander
+VAGUENSE	(adjective) vaguense translates to of Vagos\n(noun) native or inhabitant of Vagos
+VAI	(verb) third-person singular present indicative
+VAIA	(noun) boo: A derisive shout of the word 'boo' made to indicate disapproval.\n(verb) third-person singular present indicative (vaiar): to boo
+VAIAR	(verb) vaiar translates to to boo
+VAIDADE	(noun) conceit: Overly high self-esteem; vain pride; hubris. (also: vanity, pride)
+VAIDADES	(noun) plural of vaidade: vanity, conceit, pride
+VAIDOSA	(adjective) feminine singular of vaidoso: vain
+VAIDOSAMENTE	(adverb) vainly: With a vain attitude; in a self-approving manner.
+VAIDOSO	(adjective) vain: Showy; ostentatious.
+VAIVEM	(noun) vaivem translates to to-and-fro motion, swaying motion
+VAIVENS	(noun) plural of vaivém: to-and-fro motion; swaying motion
+VAL	(noun) apocopic form of vale (“valley”)
+VALA	(noun) ditch: A trench; a long, shallow indentation, as for irrigation or drainage. (also: trench)
+VALADO	(noun) ditch, hedge or bank surrounding a property\n(adjective) surrounded by a ditch, hedge or bank
+VALAO	(noun) valao translates to walloon\n(adjective) valao translates to walloon
+VALAS	(noun) plural of vala: ditch, trench
+VALDEVINOS	(noun) tramp: A homeless person; a vagabond.
+VALE	(noun) valley: Any structure resembling one, e.g. the interior angle formed by the intersection of two sloping roof planes.\n(verb) third-person singular present indicative (valer): to be worth, valid or acceptable
+VALENCIA	(noun) worthiness: The result or product of having value or merit. (also: merit)
+VALENCIANA	(adjective) feminine singular of valenciano: Valencian\n(noun) female equivalent of valenciano: Valencian
+VALENCIANO	(adjective) valenciano translates to valencian\n(noun) valenciano translates to valencian
+VALENCIANOS	(adjective) masculine plural of valenciano: Valencian\n(noun) plural of valenciano: Valencian
+VALENCIAS	(noun) plural of valência: worthiness, merit
+VALENDO	(verb) gerund of valer: to be worth, valid or acceptable
+VALENTAO	(adjective) augmentative of valente: valiant; courageous\n(noun) valentao translates to ⟪brawler⟫, rowdy person
+VALENTE	(adjective) valiant: Possessing or showing courage or determination; brave, heroic. (also: courageous)\n(noun) a valiant person
+VALENTEMENTE	(adverb) valiantly: In a valiant manner; showing bravery.
+VALENTES	(adjective) plural of valente: valiant; courageous\n(noun) plural of valente: valiant; courageous
+VALENTIA	(noun) valentia translates to brave quality
+VALENTOES	(noun) plural of valentão: rowdy
+VALENTONA	(adjective) feminine singular of valentão: rowdy\n(noun) female equivalent of valentão: rowdy
+VALENTONAS	(adjective) feminine plural of valentão: rowdy\n(noun) plural of valentona
+VALER	(verb) to be worth, valid or acceptable
+VALERIA	(verb) first/third-person singular conditional of valer: to be worth, valid or acceptable
+VALERIANA	(noun) valerian: A hardy perennial flowering plant, Valeriana officinalis, with heads of sweetly scented pink or white flowers.
+VALES	(noun) plural of vale: valley\n(verb) second-person singular present indicative of valer: to be worth, valid or acceptable
+VALETA	(noun) valeta translates to ⟪gutter⟫
+VALETE	(noun) jack: Spadix of a plant (also capitalized Jack).
+VALHA	(noun) valha translates to ⟪value⟫, ⟪worth⟫\n(verb) first/third-person singular present subjunctive (valer): to be worth, valid or acceptable
+VALIA	(noun) worth: Value.\n(verb) first/third-person singular imperfect indicative of valer: to be worth, valid or acceptable
+VALIDA	(adjective) feminine singular of valido: valid\n(verb) feminine singular of valido: valid
+VALIDADA	(verb) feminine singular of validado
+VALIDADE	(noun) validity: The state of being valid, authentic or genuine.
+VALIDADO	(verb) past participle of validar: to validate
+VALIDAI	(verb) second-person plural imperative of validar: to validate
+VALIDAM	(verb) third-person plural present indicative of validar: to validate
+VALIDAMENTE	(adverb) validly: In a valid manner.
+VALIDAMOS	(verb) first-person plural present indicative (validar): to validate
+VALIDANDO	(verb) gerund of validar: to validate
+VALIDAR	(verb) validar translates to to validate
+VALIDARA	(verb) third-person singular future indicative of validar: to validate
+VALIDARAM	(verb) third-person plural preterite/pluperfect indicative of validar
+VALIDARIA	(verb) first/third-person singular conditional of validar: to validate
+VALIDAS	(adjective) feminine plural of valido: valid\n(verb) feminine plural of valido: valid
+VALIDAÇAO	(noun) validation: The act of validating something.
+VALIDE	(verb) first/third-person singular present subjunctive (validar): to validate
+VALIDEI	(verb) first-person singular preterite indicative of validar: to validate
+VALIDO	(adjective) valid: Well-grounded or justifiable, pertinent.\n(noun) valido translates to favourite
+VALIDOU	(verb) third-person singular preterite indicative of validar: to validate
+VALIOSAMENTE	(adverb) valiosamente translates to ⟪valuably⟫
+VALIOSISSIMA	(form of valioso) (adjective) valuable: Having a great value.
+VALIOSISSIMAS	(form of valioso) (adjective) valuable: Having a great value.
+VALIOSISSIMO	(form of valioso) (adjective) valuable: Having a great value.
+VALIOSISSIMOS	(form of valioso) (adjective) valuable: Having a great value.
+VALIOSO	(adjective) valuable: Having a great value.
+VALISE	(noun) a small suitcase
+VALO	(noun) entrenchment: A fortification constructed of trenches (also: ditch)
+VALOES	(noun) plural of valão: Walloon
+VALONGUENSE	(adjective) valonguense translates to of Valongo\n(noun) native or inhabitant of Valongo
+VALOR	(noun) value: ideal accepted by some individual or group
+VALORAR	(verb) valorar translates to to value
+VALORAVEL	(adjective) valuable: Estimable; deserving esteem.
+VALORAÇAO	(noun) valuation: An estimation of something's worth.
+VALORES	(noun) plural of valor: value\n(verb) second-person singular present subjunctive of valorar: to value
+VALORIZA	(verb) third-person singular present indicative (valorizar): to value, to regard, to place importance upon
+VALORIZADO	(verb) past participle of valorizar: to value, to regard, to place importance upon
+VALORIZAM	(verb) third-person plural present indicative of valorizar: to value, to regard, to place importance upon
+VALORIZAMOS	(verb) first-person plural present indicative (valorizar): to value, to regard, to place importance upon
+VALORIZANDO	(verb) gerund of valorizar: to value, to regard, to place importance upon
+VALORIZAR	(verb) to value, to regard, to place importance upon
+VALORIZARA	(verb) first/third-person singular pluperfect indicative of valorizar: to value, to regard, to place importance upon
+VALORIZARAM	(verb) third-person plural preterite/pluperfect indicative of valorizar
+VALORIZAREI	(verb) first-person singular future indicative of valorizar: to value, to regard, to place importance upon
+VALORIZAREM	(verb) third-person plural future subjunctive (valorizar): to value, to regard, to place importance upon
+VALORIZARIA	(verb) first/third-person singular conditional of valorizar: to value, to regard, to place importance upon
+VALORIZARIAM	(verb) third-person plural conditional of valorizar: to value, to regard, to place importance upon
+VALORIZARMOS	(verb) first-person plural future subjunctive (valorizar): to value, to regard, to place importance upon
+VALORIZAS	(verb) second-person singular present indicative of valorizar: to value, to regard, to place importance upon
+VALORIZASSE	(verb) first/third-person singular imperfect subjunctive of valorizar: to value, to regard, to place importance upon
+VALORIZASSEM	(verb) third-person plural imperfect subjunctive of valorizar: to value, to regard, to place importance upon
+VALORIZAVA	(verb) first/third-person singular imperfect indicative of valorizar: to value, to regard, to place importance upon
+VALORIZAVAM	(verb) third-person plural imperfect indicative of valorizar: to value, to regard, to place importance upon
+VALORIZAÇAO	(noun) an increase in value
+VALORIZE	(verb) first/third-person singular present subjunctive (valorizar): to value, to regard, to place importance upon
+VALORIZEI	(verb) first-person singular preterite indicative of valorizar: to value, to regard, to place importance upon
+VALORIZEM	(verb) third-person plural present subjunctive (valorizar): to value, to regard, to place importance upon
+VALORIZEMOS	(verb) first-person plural present subjunctive (valorizar): to value, to regard, to place importance upon
+VALORIZO	(verb) first-person singular present indicative of valorizar: to value, to regard, to place importance upon
+VALORIZOU	(verb) third-person singular preterite indicative of valorizar: to value, to regard, to place importance upon
+VALOROSAMENTE	(adverb) valorosamente translates to valourously
+VALOROSAS	(adjective) feminine plural of valoroso: valuable, valorous
+VALOROSO	(adjective) valorous: Having or displaying valour. (also: valuable)
+VALPACENSE	(adjective) valpacense translates to of Valpaços\n(noun) native or inhabitant of Valpaços
+VALQUIRIA	(noun) valkyrie: Any of the female attendants of Odin, figures said to guide fallen warriors from the battlefield to Valhalla.
+VALQUIRIAS	(noun) plural of valquíria: valkyrie
+VALSA	(noun) waltz: A piece of music for this dance (or in triple time).\n(verb) third-person singular present indicative (valsar): to waltz
+VALSAMOS	(verb) first-person plural present indicative (valsar): to waltz
+VALSANDO	(verb) gerund of valsar: to waltz
+VALSAR	(verb) valsar translates to to waltz
+VALSARA	(verb) third-person singular future indicative of valsar: to waltz
+VALSARAM	(verb) third-person plural preterite/pluperfect indicative of valsar
+VALSARDES	(verb) second-person plural future subjunctive (valsar): to waltz
+VALSAREM	(verb) third-person plural future subjunctive (valsar): to waltz
+VALSARES	(verb) second-person singular future subjunctive (valsar): to waltz
+VALSARIA	(verb) first/third-person singular conditional of valsar: to waltz
+VALSARMOS	(verb) first-person plural future subjunctive (valsar): to waltz
+VALSAS	(noun) plural of valsa: waltz\n(verb) second-person singular present indicative of valsar: to waltz
+VALSASSE	(verb) first/third-person singular imperfect subjunctive of valsar: to waltz
+VALSAVA	(verb) first/third-person singular imperfect indicative of valsar: to waltz
+VALSE	(verb) first/third-person singular present subjunctive (valsar): to waltz
+VALSEIS	(verb) second-person plural present subjunctive of valsar: to waltz
+VALSEM	(verb) third-person plural present subjunctive (valsar): to waltz
+VALSEMOS	(verb) first-person plural present subjunctive (valsar): to waltz
+VALSES	(verb) second-person singular present subjunctive of valsar: to waltz
+VALVA	(noun) valve: One or more membranous partitions, flaps, or folds, which permit the passage of the contents of a vessel or cavity in one direction, but stop or control the flow in the opposite direction.
+VALVULA	(noun) valve: A device that controls the flow of a gas or fluid through a space, such as a pipe, manifold, or plenum.
+VAMBORA	(interjection) vambora translates to let's go
+VAMENTE	(adverb) vainly: With a vain attitude; in a self-approving manner.
+VAMOS	(verb) first-person plural present indicative/subjunctive\n(interjection) vamos translates to let's go
+VAMPIRA	(noun) female equivalent of vampiro: vampiress: vampire\n(verb) third-person singular present indicative
+VAMPIRESCAMENTE	(adverb) vampirescamente translates to vampirically
+VAMPIRICAMENTE	(adverb) vampiricamente translates to vampirically
+VAMPIRISMO	(noun) vampirism: The state of being a vampire.
+VAMPIRO	(noun) vampire: A mythological creature (usually humanoid and undead) said to feed on the blood or life energy of the living.\n(verb) first-person singular present indicative of vampirar
+VAN	(noun) van: An enclosed railway vehicle for transport of goods, such as a boxcar/box van.
+VANADIO	(noun) vanadium: A chemical element (symbol V) with atomic number 23; it is a transition metal, used in the production of special steels.
+VANDALA	(adjective) feminine singular of vândalo: Vandalic\n(noun) female equivalent of vândalo: Vandalic
+VANDALICO	(adjective) vandalic: Having the nature of vandalism.\n(noun) vandalic: Having the nature of vandalism.
+VANDALISMO	(noun) vandalism: Willful damage to or destruction of any property, such as graffiti or defacement.
+VANDALISMOS	(form of vandalismo) (noun) vandalism: Willful damage to or destruction of any property, such as graffiti or defacement.
+VANDALIZA	(verb) third-person singular present indicative (vandalizar): to vandalize
+VANDALIZAM	(verb) third-person plural present indicative of vandalizar: to vandalize
+VANDALIZAMOS	(verb) first-person plural present indicative (vandalizar): to vandalize
+VANDALIZANDO	(verb) gerund of vandalizar: to vandalize
+VANDALIZAR	(verb) vandalizar translates to to vandalize
+VANDALIZARA	(verb) first/third-person singular pluperfect indicative of vandalizar: to vandalize
+VANDALIZARAM	(verb) third-person plural preterite/pluperfect indicative of vandalizar
+VANDALIZARDES	(verb) second-person plural future subjunctive (vandalizar): to vandalize
+VANDALIZAREM	(verb) third-person plural future subjunctive (vandalizar): to vandalize
+VANDALIZARES	(verb) second-person singular future subjunctive (vandalizar): to vandalize
+VANDALIZARIA	(verb) first/third-person singular conditional of vandalizar: to vandalize
+VANDALIZARMOS	(verb) first-person plural future subjunctive (vandalizar): to vandalize
+VANDALIZASSE	(verb) first/third-person singular imperfect subjunctive of vandalizar: to vandalize
+VANDALIZAVA	(verb) first/third-person singular imperfect indicative of vandalizar: to vandalize
+VANDALIZE	(verb) first/third-person singular present subjunctive (vandalizar): to vandalize
+VANDALIZEI	(verb) first-person singular preterite indicative of vandalizar: to vandalize
+VANDALIZEIS	(verb) second-person plural present subjunctive of vandalizar: to vandalize
+VANDALIZEM	(verb) third-person plural present subjunctive (vandalizar): to vandalize
+VANDALIZEMOS	(verb) first-person plural present subjunctive (vandalizar): to vandalize
+VANDALIZES	(verb) second-person singular present subjunctive of vandalizar: to vandalize
+VANDALIZOU	(verb) third-person singular preterite indicative of vandalizar: to vandalize
+VANDALO	(adjective) vandalo translates to ⟪vandalic⟫\n(noun) vandal: A person who needlessly destroys, defaces, or damages things, especially other people's property.
+VANDALOS	(adjective) masculine plural of vândalo: Vandalic\n(noun) plural of vândalo: Vandalic
+VANGLORIA	(noun) vainglory: Boastful, unwarranted pride in one's accomplishments or qualities.\n(verb) third-person singular present indicative (vangloriar): to vainglory, to boast, to brag
+VANGLORIADO	(verb) past participle of vangloriar: to vainglory, to boast, to brag
+VANGLORIAM	(verb) third-person plural present indicative of vangloriar: to vainglory, to boast, to brag
+VANGLORIAMOS	(verb) first-person plural present indicative (vangloriar): to vainglory, to boast, to brag
+VANGLORIANDO	(verb) gerund of vangloriar: to vainglory, to boast, to brag
+VANGLORIAR	(verb) vangloriar translates to to vainglory, to boast, to brag
+VANGLORIARA	(verb) third-person singular future indicative of vangloriar: to vainglory, to boast, to brag
+VANGLORIARAM	(verb) third-person plural preterite/pluperfect indicative of vangloriar
+VANGLORIARDES	(verb) second-person plural future subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIAREM	(verb) third-person plural future subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIARES	(verb) second-person singular future subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIARIA	(verb) first/third-person singular conditional of vangloriar: to vainglory, to boast, to brag
+VANGLORIARMOS	(verb) first-person plural future subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIASSE	(verb) first/third-person singular imperfect subjunctive of vangloriar: to vainglory, to boast, to brag
+VANGLORIAVA	(verb) first/third-person singular imperfect indicative of vangloriar: to vainglory, to boast, to brag
+VANGLORIE	(verb) first/third-person singular present subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIEI	(verb) first-person singular preterite indicative of vangloriar: to vainglory, to boast, to brag
+VANGLORIEIS	(verb) second-person plural present subjunctive of vangloriar: to vainglory, to boast, to brag
+VANGLORIEM	(verb) third-person plural present subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIEMOS	(verb) first-person plural present subjunctive (vangloriar): to vainglory, to boast, to brag
+VANGLORIES	(verb) second-person singular present subjunctive of vangloriar: to vainglory, to boast, to brag
+VANGLORIO	(verb) first-person singular present indicative of vangloriar: to vainglory, to boast, to brag
+VANGLORIOU	(verb) third-person singular preterite indicative of vangloriar: to vainglory, to boast, to brag
+VANGUARDA	(noun) vanguard: The leading units at the front of an army or fleet.\n(verb) third-person singular present indicative
+VANGUARDISTA	(adjective) vanguardista translates to avant-garde\n(noun) a soldier in the vanguard
+VANTAGEM	(noun) vantage: A superior or more favorable situation or opportunity; gain; profit; advantage. (also: advantage)
+VANTAJOSAMENTE	(adverb) advantageously: In a manner which provides an advantage; in an advantageous manner.
+VANTAJOSIDADE	(noun) advantageousness: The state or quality of being advantageous.
+VANTAJOSO	(adjective) advantageous: Being of advantage, beneficial.
+VANUATUENSE	(noun) vanuatuense translates to vanuatuan\n(adjective) vanuatuense translates to vanuatuan
+VAO	(adjective) vao translates to ⟪pretentious⟫, ⟪overambitious⟫\n(noun) vao translates to a gap
+VAOS	(adjective) masculine plural of vão: pretentious, overambitious
+VAPE	(noun) vape translates to vape, electronic cigarette
+VAPOR	(noun) vapor / vapour (the gaseous form of a substance)
+VAPORIZAR	(verb) vaporizar translates to to vaporize
+VAPORIZAÇAO	(noun) vaporization: A conversion of a solid or a liquid into a gas.
+VAQUEIRA	(noun) female equivalent of vaqueiro: cowgirl: cowhand\n(adjective) feminine singular of vaqueiro: cowhand
+VAQUEIRAS	(form of vaqueiro) (noun) vaqueiro translates to ⟪cowhand⟫
+VAQUEIRO	(noun) vaqueiro translates to ⟪cowhand⟫
+VAQUEIROS	(noun) plural of vaqueiro: cowhand
+VAQUEJADA	(noun) rodeo: A gathering of cattle to be branded.
+VAQUEJAR	(verb) to round up (to gather livestock together)
+VAQUINHA	(noun) diminutive of vaca: a cow
+VAQUITA	(noun) synonym of vaquita-marinha
+VARA	(noun) vara translates to a stick, a twig\n(verb) third-person singular present indicative (varar): to overthrow; to pull down
+VARADA	(verb) feminine singular of varado
+VARADO	(verb) past participle of varar: to overthrow; to pull down
+VARAIS	(noun) plural of varal: shaft\n(verb) second-person plural present indicative of varar: to overthrow; to pull down
+VARAL	(noun) shaft: A ventilation or heating conduit.
+VARAM	(verb) third-person plural present indicative of varar: to overthrow; to pull down
+VARAMOS	(verb) first-person plural present indicative (varar): to overthrow; to pull down
+VARANDA	(noun) terrace: A step-like landform; (sometimes) remnants of floodplains. (also: balcony, veranda)
+VARANDO	(verb) gerund of varar: to overthrow; to pull down
+VARAO	(noun) man: An adult male human. (also: male)\n(adjective) male: A human member of the masculine sex or gender.
+VARAPAU	(noun) staff: A long, straight, thick wooden rod or stick, especially one used to assist in walking.
+VARAR	(verb) to overthrow; to pull down
+VARAS	(noun) plural of vara: a stick, a twig\n(verb) second-person singular present indicative of varar: to overthrow; to pull down
+VARAVA	(verb) first/third-person singular imperfect indicative of varar: to overthrow; to pull down
+VAREI	(verb) first-person singular preterite indicative of varar: to overthrow; to pull down
+VAREJA	(noun) bot: The larva of a botfly, which infests the skin of various mammals, producing warbles, or the nasal passage of sheep, or the stomach of horses.\n(verb) third-person singular present indicative (varejar): to flog with a rod
+VAREJAR	(verb) to flog with a rod
+VAREJISTA	(noun) varejista translates to ⟪retailer⟫\n(adjective) retail: Of or relating to the (actual or figurative) sale of goods or services directly to individuals.
+VAREJO	(noun) varejo translates to ⟪retail⟫\n(verb) first-person singular present indicative of varejar: to flog with a rod
+VAREMOS	(verb) first-person plural present subjunctive (varar): to overthrow; to pull down
+VARES	(verb) second-person singular present subjunctive of varar: to overthrow; to pull down
+VARETA	(noun) rod: A Cuisenaire rod. (also: stick)
+VARGEM	(noun) floodplain: A low-lying plain adjacent to a river subject to flooding during periods of high rainfall or at high tide.
+VARGUISMO	(noun) varguismo translates to varguism
+VARIA	(verb) third-person singular present indicative (variar): to vary\n(adjective) feminine singular of vario: pre-reform spelling of vário
+VARIABILIDADE	(noun) variability: The state or characteristic of being variable.
+VARIADA	(adjective) feminine singular of variado: diverse, various\n(verb) feminine singular of variado: diverse, various
+VARIADAMENTE	(adverb) variously: In various ways; diversely.
+VARIADAS	(adjective) feminine plural of variado: diverse, various\n(verb) feminine plural of variado: diverse, various
+VARIADO	(adjective) diverse: Consisting of different elements; various. (also: various)\n(verb) past participle of variar: to vary
+VARIADOS	(adjective) masculine plural of variado: diverse, various\n(verb) masculine plural of variado: diverse, various
+VARIANTE	(adjective) variante translates to ⟪variable⟫\n(noun) variant: Something that is slightly different from a type or norm.
+VARIAR	(verb) variar translates to to vary
+VARIAS	(verb) second-person singular present indicative of variar: to vary\n(adjective) feminine plural of vário: pre-reform spelling of vário
+VARIAVEL	(adjective) variable: A quantity that may assume any one of a set of values.\n(noun) variable: A quantity that may assume any one of a set of values.
+VARIAVELMENTE	(adverb) variably: In a variable manner.
+VARIAÇAO	(noun) variation: The modification of a hereditary trait. (also: fluctuation)
+VARIAÇOES	(noun) plural of variação: variation, fluctuation
+VARICELA	(noun) chickenpox: Alternative form of chicken pox.
+VARIEDADE	(noun) variety: A specific variation of something.
+VARIEGADO	(adjective) variegated: Varied, heterogeneous, motley
+VARIETAL	(adjective) varietal: A wine made primarily from or exclusively from a single variety of grape, which carries the name of that grape.
+VARIO	(verb) first-person singular present indicative of variar: to vary\n(adjective) pre-reform spelling (used until 1943 in Brazil and 1911 in Portugal) of vário
+VARIOLA	(noun) variola translates to ⟪smallpox⟫
+VARIOS	(pronoun) masculine plural of vário: pre-reform spelling of vário
+VARIZ	(noun) variz translates to varicose vein
+VARIZES	(noun) plural of variz: varicose vein
+VARO	(verb) first-person singular present indicative of varar: to overthrow; to pull down
+VAROA	(adjective) feminine singular of varão: male, man
+VARONIL	(adjective) varonil translates to ⟪manly⟫
+VARONILMENTE	(adverb) varonilmente translates to ⟪virilely⟫
+VAROU	(verb) third-person singular preterite indicative of varar: to overthrow; to pull down
+VARRAO	(noun) alternative form of barrão
+VARREDOR	(noun) sweeper: One who sweeps; one whose occupation is sweeping.
+VARREDORA	(form of varredor) (noun) sweeper: One who sweeps; one whose occupation is sweeping.
+VARRER	(verb) varrer translates to to sweep
+VARSOVIANA	(adjective) feminine singular of varsoviano: Varsovian\n(noun) female equivalent of varsoviano: Varsovian
+VARSOVIANO	(adjective) varsoviano translates to varsovian\n(noun) varsoviano translates to varsovian
+VARZEA	(noun) floodplain: A low-lying plain adjacent to a river subject to flooding during periods of high rainfall or at high tide.
+VAS	(verb) second-person singular present subjunctive of ir\n(adjective) feminine plural of vão: pretentious, overambitious
+VASCAINA	(adjective) feminine singular of vascaíno: of Clube de Regatas Vasco da Gama
+VASCAINAS	(adjective) feminine plural of vascaíno: of Clube de Regatas Vasco da Gama
+VASCAINO	(adjective) of Clube de Regatas Vasco da Gama\n(noun) a player or supporter of Clube de Regatas Vasco da Gama sports team, especially the association football (soccer) team
+VASCAINOS	(adjective) masculine plural of vascaíno: of Clube de Regatas Vasco da Gama
+VASCO	(adjective) alternative form of basco\n(noun) alternative form of basco
+VASCONÇO	(noun) vasconço translates to ⟪basque⟫\n(adjective) of the Basque language
+VASCULAR	(adjective) vascular: Relating to the flow of fluids, such as blood, lymph, or sap, through the body of an animal or plant, or to the vessels that carry such fluids
+VASCULHAM	(verb) third-person plural present indicative of vasculhar: to scour
+VASCULHAMOS	(verb) first-person plural present indicative (vasculhar): to scour
+VASCULHANDO	(verb) gerund of vasculhar: to scour
+VASCULHAR	(verb) vasculhar translates to to scour
+VASCULHARA	(verb) first/third-person singular pluperfect indicative of vasculhar: to scour
+VASCULHARAM	(verb) third-person plural preterite/pluperfect indicative of vasculhar
+VASCULHARAO	(verb) third-person plural future indicative of vasculhar: to scour
+VASCULHAREI	(verb) first-person singular future indicative of vasculhar: to scour
+VASCULHAREM	(verb) third-person plural future subjunctive (vasculhar): to scour
+VASCULHAREMOS	(verb) first-person plural future indicative of vasculhar: to scour
+VASCULHARIA	(verb) first/third-person singular conditional of vasculhar: to scour
+VASCULHARIAM	(verb) third-person plural conditional of vasculhar: to scour
+VASCULHARMOS	(verb) first-person plural future subjunctive (vasculhar): to scour
+VASCULHASSE	(verb) first/third-person singular imperfect subjunctive of vasculhar: to scour
+VASCULHASSEM	(verb) third-person plural imperfect subjunctive of vasculhar: to scour
+VASCULHAVA	(verb) first/third-person singular imperfect indicative of vasculhar: to scour
+VASCULHAVAM	(verb) third-person plural imperfect indicative of vasculhar: to scour
+VASCULHAVAMOS	(verb) first-person plural imperfect indicative of vasculhar: to scour
+VASCULHE	(verb) first/third-person singular present subjunctive (vasculhar): to scour
+VASCULHEI	(verb) first-person singular preterite indicative of vasculhar: to scour
+VASCULHEM	(verb) third-person plural present subjunctive (vasculhar): to scour
+VASCULHEMOS	(verb) first-person plural present subjunctive (vasculhar): to scour
+VASCULHO	(noun) broom used to clean ceilings\n(verb) first-person singular present indicative of vasculhar: to scour
+VASCULHOU	(verb) third-person singular preterite indicative of vasculhar: to scour
+VASECTOMIA	(noun) vasectomy: The surgical incision of all or part of the vas deferens as a means of male sterilization.
+VASELINA	(noun) vaselina translates to vaseline, petroleum jelly, ⟪petrolatum⟫
+VASILHA	(noun) vessel: A container of liquid or other substance, such as a glass, goblet, cup, bottle, bowl, or pitcher.
+VASILHAS	(noun) plural of vasilha: vessel
+VASO	(noun) vessel: A container of liquid or other substance, such as a glass, goblet, cup, bottle, bowl, or pitcher.
+VASOCONSTRIÇAO	(noun) vasoconstriction: Constriction or narrowing of a blood vessel.
+VASOS	(noun) plural of vaso: vessel
+VASSALA	(adjective) feminine singular of vassalo: vassal
+VASSALAGEM	(noun) state of submission or dependency
+VASSALO	(noun) vassalo translates to ⟪vassal⟫\n(adjective) subordinate: Submissive or inferior to, or controlled by authority.
+VASSALOS	(noun) plural of vassalo: vassal
+VASSOIRA	(noun) alternative form of vassoura
+VASSOURA	(noun) broom: A domestic utensil with fibers bound together at the end of a long handle, used for sweeping.\n(verb) third-person singular present indicative
+VASSOURAS	(noun) plural of vassoura: broom\n(verb) second-person singular present indicative of vassourar
+VASTA	(adjective) feminine singular of vasto: vast\n(verb) third-person singular present indicative
+VASTAMENTE	(adverb) vastly: Greatly, in a vast manner.
+VASTIDAO	(noun) vastness: The quality of being vast.
+VASTISSIMO	(adjective) superlative degree of vasto: vast
+VASTO	(adjective) vast: Very large or wide (literally or figuratively).\n(verb) first-person singular present indicative of vastar
+VATAPA	(noun) vatapa translates to vatapá
+VATE	(noun) vate translates to vates
+VATES	(noun) plural of vate: vates
+VATICANO	(adjective) vaticano translates to vatican\n(noun) vaticano translates to a Vaticanian
+VATICINADOR	(noun) vaticinador translates to ⟪vaticinator⟫, ⟪prognosticator⟫
+VATICINAR	(verb) vaticinar translates to to vaticinate, to prophesy, to predict
+VATICINIO	(noun) prediction: A statement of what will happen in the future. (also: a prophecy)
+VAU	(noun) ford: A stream; a current.
+VAZAM	(verb) third-person plural present indicative of vazar: to leak
+VAZAMENTO	(noun) leakage: An act of leaking, or something that leaks. (also: leak)
+VAZAMENTOS	(noun) plural of vazamento: leak, leakage
+VAZAMOS	(verb) first-person plural present indicative (vazar): to leak
+VAZANDO	(verb) gerund of vazar: to leak
+VAZANTE	(noun) ebb: The receding movement of the tide.\n(adjective) which is emptying or leaking, getting out of a container
+VAZAO	(noun) vazao translates to ⟪emptying⟫
+VAZAR	(verb) vazar translates to to leak
+VAZARA	(verb) first/third-person singular pluperfect indicative of vazar: to leak
+VAZARAM	(verb) third-person plural preterite/pluperfect indicative of vazar
+VAZARAO	(verb) third-person plural future indicative of vazar: to leak
+VAZAREI	(verb) first-person singular future indicative of vazar: to leak
+VAZAREM	(verb) third-person plural future subjunctive (vazar): to leak
+VAZAREMOS	(verb) first-person plural future indicative of vazar: to leak
+VAZARIA	(verb) first/third-person singular conditional of vazar: to leak
+VAZARMOS	(verb) first-person plural future subjunctive (vazar): to leak
+VAZASSE	(verb) first/third-person singular imperfect subjunctive of vazar: to leak
+VAZASSEM	(verb) third-person plural imperfect subjunctive of vazar: to leak
+VAZAVA	(verb) first/third-person singular imperfect indicative of vazar: to leak
+VAZAVAM	(verb) third-person plural imperfect indicative of vazar: to leak
+VAZE	(verb) first/third-person singular present subjunctive (vazar): to leak
+VAZEI	(verb) first-person singular preterite indicative of vazar: to leak
+VAZEM	(verb) third-person plural present subjunctive (vazar): to leak
+VAZES	(verb) second-person singular present subjunctive of vazar: to leak
+VAZIA	(noun) hip: The outward-projecting parts of the pelvis and top of the femur and the overlying tissue.\n(adjective) feminine singular of vazio: devoid of content; empty
+VAZIAMENTE	(adverb) vaziamente translates to ⟪vacantly⟫
+VAZIAS	(adjective) feminine plural of vazio: devoid of content; empty\n(verb) second-person singular present indicative of vaziar
+VAZIO	(adjective) devoid of content; empty\n(noun) vacuum: Ellipsis of vacuum cleaner.
+VAZIOS	(adjective) masculine plural of vazio: devoid of content; empty
+VAZO	(verb) first-person singular present indicative of vazar: to leak
+VAZOU	(verb) third-person singular preterite indicative of vazar: to leak
+VEADO	(noun) deer: A ruminant mammal with hooves and often antlers, of the family Cervidae, or one of several similar animals from related families of the order Artiodactyla, such as the musk deer or mouse deer.
+VEAÇAO	(noun) veaçao translates to venatio
+VECTOR	(noun) pre-reform spelling (used until 1943 in Brazil and 1990 in Portugal) of vetor; still used where the agreement hasn’t come into effect and may occur as a sporadic misspelling
+VECTORIAL	(adjective) pre-reform spelling (used until 1943 in Brazil and 1990 in Portugal) of vetorial; still used where the agreement hasn’t come into effect and may occur as a sporadic misspelling
+VEDA	(verb) third-person singular present indicative (vedar): to ban; to prohibit
+VEDADO	(adjective) banned: Forbidden; not allowed. (also: forbidden)\n(verb) past participle of vedar: to ban; to prohibit
+VEDADOS	(verb) masculine plural of vedado: banned, forbidden
+VEDAR	(verb) vedar translates to to ban, to prohibit
+VEDAÇAO	(noun) vedaçao translates to ⟪sealing⟫
+VEDAÇOES	(noun) plural of vedação: sealing
+VEDE	(verb) second-person plural imperative of ver: to see; to observe
+VEDES	(verb) second-person plural present indicative of ver: to see; to observe
+VEDISMO	(noun) vedismo translates to vedism
+VEDOR	(noun) vedor translates to ⟪inspector⟫
+VEEM	(verb) third-person plural present indicative of ver: to see; to observe
+VEEMENCIA	(noun) vehemence: Eagerness, fervor, excessive strong feeling.
+VEEMENTE	(adjective) vehement: Showing strong feelings; passionate; forceful or intense.
+VEEMENTEMENTE	(adverb) vehemently: In a vehement manner; expressing with a strong or forceful attitude.
+VEGAN	(noun) synonym of vegano\n(adjective) synonym of vegano
+VEGANISMO	(noun) veganismo translates to veganism
+VEGANO	(adjective) vegan: A person committed to avoiding products and practices that inherently involve animal use, including all foods containing animal products, and to abstaining from direct and intentional harm to animals as far as possible; an adherent to veganism.\n(noun) vegan: A person committed to avoiding products and practices that inherently involve animal use, including all foods containing animal products, and to abstaining from direct and intentional harm to animals as far as possible; an adherent to veganism.
+VEGANSEXUALIDADE	(noun) vegansexualidade translates to vegansexuality
+VEGETAIS	(adjective) masculine/feminine plural of vegetal: vegetable\n(noun) plural of vegetal: vegetable
+VEGETAL	(noun) vegetal translates to ⟪vegetable⟫\n(adjective) plant: To furnish or supply with plants.
+VEGETALMENTE	(adverb) vegetalmente translates to vegetally
+VEGETAR	(verb) vegetar translates to to vegetate
+VEGETARIANISMO	(noun) vegetarianism: The practice of following a vegetarian diet.
+VEGETARIANO	(adjective) vegetarian: A person who does not eat animal flesh, or, in some cases, use any animal products.\n(noun) vegetarian: A person who does not eat animal flesh, or, in some cases, use any animal products.
+VEGETATIVAMENTE	(adverb) vegetatively: In terms of vegetation.
+VEGETATIVO	(adjective) vegetativo translates to ⟪vegetative⟫
+VEGETAÇAO	(noun) vegetation: The act or process of vegetating, or growing as a plant does; vegetable growth.
+VEI	(adjective) pronunciation spelling of velho, representing dialectal, Brazil Portuguese\n(noun) pronunciation spelling of velho, representing dialectal, Brazil Portuguese
+VEIA	(noun) a small stream or creek\n(adjective) alternative spelling of véia
+VEIAS	(noun) plural of veia: a small stream or creek\n(adjective) feminine plural of veio: vein
+VEICULARMENTE	(adverb) veicularmente translates to vehicularly
+VEICULO	(noun) conveyance: A means of transporting, especially a vehicle. (also: vehicle)
+VEICULOS	(noun) plural of veículo: vehicle; conveyance
+VEIO	(noun) vein: A fissure, cleft, or cavity, as in the earth or other substance.\n(verb) third-person singular preterite indicative of vir: to come
+VEIOS	(noun) plural of veio: vein\n(adjective) masculine plural of véio /véi
+VEIRO	(noun) veiro translates to ⟪vair⟫
+VEJA	(verb) first/third-person singular present subjunctive (ver): to see; to observe\n(noun) veja translates to mediterranean parrotfish
+VEJAIS	(verb) second-person plural present subjunctive of ver: to see; to observe
+VEJAM	(verb) third-person plural present subjunctive (ver): to see; to observe
+VEJO	(verb) first-person singular present indicative of ver: to see; to observe
+VELA	(noun) candle: The protruding, removable portion of a filter, particularly a water filter.\n(verb) third-person singular present indicative (velar): velar
+VELADA	(adjective) feminine singular of velado: veiled\n(verb) feminine singular of velado: veiled
+VELADAMENTE	(adverb) veladamente translates to ⟪veiledly⟫
+VELADO	(adjective) veiled: Covered by a veil.\n(verb) past participle of velar: velar
+VELAI	(verb) second-person plural imperative of velar: velar
+VELAM	(verb) third-person plural present indicative of velar: velar
+VELAMOS	(verb) first-person plural present indicative (velar): velar
+VELANDO	(verb) gerund of velar: velar
+VELAR	(adjective) velar: A sound articulated at the soft palate.\n(noun) velar: A sound articulated at the soft palate.
+VELARA	(verb) third-person singular future indicative of velar: velar
+VELAREI	(verb) first-person singular future indicative of velar: velar
+VELAREMOS	(verb) first-person plural future indicative of velar: velar
+VELARIA	(verb) first/third-person singular conditional of velar: velar
+VELAS	(noun) plural of vela: candle\n(verb) second-person singular present indicative of velar: velar
+VELASSE	(verb) first/third-person singular imperfect subjunctive of velar: velar
+VELAVAM	(verb) third-person plural imperfect indicative of velar: velar
+VELCRO	(noun) velcro translates to velcro
+VELE	(verb) first/third-person singular present subjunctive (velar): velar
+VELEI	(verb) first-person singular preterite indicative of velar: velar
+VELEIDADE	(noun) velleity: A slight wish not followed by any effort to obtain.
+VELEIDADES	(noun) plural of veleidade: velleity
+VELEIRO	(noun) sailboat: A boat propelled by a sail.
+VELEJAM	(verb) third-person plural present indicative of velejar: to sail
+VELEJAMOS	(verb) first-person plural present indicative (velejar): to sail
+VELEJANDO	(verb) gerund of velejar: to sail
+VELEJAR	(verb) velejar translates to to sail
+VELEJARA	(verb) first/third-person singular pluperfect indicative of velejar: to sail
+VELEJARAM	(verb) third-person plural preterite/pluperfect indicative of velejar
+VELEJAREI	(verb) first-person singular future indicative of velejar: to sail
+VELEJAREMOS	(verb) first-person plural future indicative of velejar: to sail
+VELEJARIA	(verb) first/third-person singular conditional of velejar: to sail
+VELEJARMOS	(verb) first-person plural future subjunctive (velejar): to sail
+VELEJASSE	(verb) first/third-person singular imperfect subjunctive of velejar: to sail
+VELEJAVA	(verb) first/third-person singular imperfect indicative of velejar: to sail
+VELEJAVAM	(verb) third-person plural imperfect indicative of velejar: to sail
+VELEJE	(verb) first/third-person singular present subjunctive (velejar): to sail
+VELEJEI	(verb) first-person singular preterite indicative of velejar: to sail
+VELEJO	(verb) first-person singular present indicative of velejar: to sail
+VELEJOU	(verb) third-person singular preterite indicative of velejar: to sail
+VELEM	(verb) third-person plural present subjunctive (velar): velar
+VELES	(verb) second-person singular present subjunctive of velar: velar
+VELHA	(adjective) feminine singular of velho: old; ancient\n(noun) female equivalent of velho: old; ancient
+VELHACARIA	(noun) velhacaria translates to ⟪deceit⟫
+VELHACO	(adjective) velhaco translates to ⟪sly⟫, ⟪treacherous⟫\n(noun) velhaco translates to ⟪rogue⟫, ⟪rascal⟫
+VELHACOS	(noun) plural of velhaco: sly, treacherous
+VELHAS	(adjective) feminine plural of velho: old; ancient\n(noun) plural of velha: mother
+VELHICE	(noun) oldness: The state of being old; age. (also: age)
+VELHINHA	(adjective) feminine singular of velhinho\n(noun) female equivalent of velhinho
+VELHINHAS	(adjective) feminine plural of velhinho\n(noun) plural of velhinha
+VELHINHO	(adjective) diminutive of velho: elderly: old; ancient\n(noun) diminutive of velho: old man: old; ancient
+VELHINHOS	(adjective) masculine plural of velhinho\n(noun) plural of velhinho
+VELHO	(adjective) old: Of an object, concept, relationship, etc., having existed for a relatively long period of time. (also: ancient)\n(noun) father: A term of respectful address for an elderly man.
+VELHOS	(adjective) masculine plural of velho: old; ancient\n(noun) plural of velho: old; ancient
+VELHOTE	(adjective) oldish: somewhat old\n(noun) velhote translates to old man
+VELINO	(noun) vellum: A writing paper of very high quality.
+VELO	(verb) first-person singular present indicative of velar: velar
+VELOCIDADE	(noun) speed: The state of moving quickly or the capacity for rapid motion. (also: velocity)
+VELOCIDADES	(noun) plural of velocidade: velocity; speed
+VELOCIMETRO	(noun) speedometer: An instrument located within the dashboard of a vehicle that measures and indicates the current speed of the vehicle.
+VELOCIPEDE	(noun) velocipede: any wheeled vehicle powered by pedaling and steered with a handlebar, including but not limited to bicycles and tricycles.
+VELOCISTA	(adjective) sprinter: A person who runs.\n(noun) sprinter: A person who runs.
+VELOCISTAS	(noun) plural of velocista: sprinter
+VELODROMO	(noun) velodrome: An indoor arena, having an oval banked track for bicycle racing.
+VELORIO	(noun) wake: The area behind a moving person or object.
+VELOU	(verb) third-person singular preterite indicative of velar: velar
+VELOZ	(adjective) fast: Moving with great speed, or capable of doing so; swift, rapid; light. (also: quick)
+VELOZMENTE	(adverb) quickly: Rapidly; with speed; fast; with expedition. (also: fast)
+VELUDO	(noun) velvet: Very fine fur, including the skin and fur on a deer's antlers.
+VEM	(verb) third-person singular present indicative (vir): to come
+VENAL	(adjective) venal: Capable of being bought (of a person); willing to take bribes. (also: venous)
+VENALMENTE	(adverb) venally: In a venal fashion; mercenarily or in a manner subject to corruption.
+VENATORIO	(adjective) venatic: Of, pertaining to or involved in hunting. (also: venatorial)
+VENCE	(verb) third-person singular present indicative (vencer): to win
+VENCEDOR	(noun) winner: One who has won or often wins. (also: victor)
+VENCEDORA	(noun) female equivalent of vencedor: winner, victor
+VENCELHO	(noun) alternative form of vencilho
+VENCEMOS	(verb) first-person plural present/preterite indicative of vencer: to win
+VENCENDO	(verb) gerund of vencer: to win
+VENCER	(verb) vencer translates to to win
+VENCERAO	(verb) third-person plural future indicative of vencer: to win
+VENCERIA	(verb) first/third-person singular conditional of vencer: to win
+VENCI	(verb) first-person singular preterite indicative of vencer: to win
+VENCIDA	(adjective) feminine singular of vencido: defeated; overcome; beaten\n(verb) feminine singular of vencido: defeated; overcome; beaten
+VENCIDAS	(adjective) feminine plural of vencido: defeated; overcome; beaten\n(verb) feminine plural of vencido: defeated; overcome; beaten
+VENCIDO	(adjective) defeated: Subjugated, beaten, overcome. (also: overcome, beaten)\n(verb) past participle of vencer: to win
+VENCIDOS	(adjective) masculine plural of vencido: defeated; overcome; beaten\n(verb) masculine plural of vencido: defeated; overcome; beaten
+VENCILHO	(noun) twine (thin rope), made of reed, wicker or similar material, used for tying certain objects (such as grapevines) together
+VENCIMENTO	(noun) victory: The condition or state of having won a battle or competition, or having succeeded in an effort; (countable) an instance of this. (also: triumph)
+VENCIMENTOS	(noun) plural of vencimento: victory, triumph
+VENCIVEL	(adjective) vincible: Capable of being defeated or overcome; assailable or vulnerable.
+VENDA	(noun) sale: An exchange of goods or services for currency or credit.\n(verb) first/third-person singular present subjunctive (vender): to sell
+VENDAGEM	(noun) sale: Ellipsis of discount sale (“the sale of goods at reduced prices”).
+VENDAGENS	(noun) plural of vendagem: sale
+VENDAM	(verb) third-person plural present subjunctive (vender): to sell
+VENDAMOS	(verb) first-person plural present subjunctive (vender): to sell
+VENDANDO	(verb) gerund of vendar: to blindfold
+VENDAR	(verb) vendar translates to to blindfold
+VENDARAM	(verb) third-person plural preterite/pluperfect indicative of vendar
+VENDAS	(noun) plural of venda: sale\n(verb) second-person singular present subjunctive of vender: to sell
+VENDAVAL	(noun) windstorm: A storm in which there are strong, violent winds but no precipitation. (also: gale)
+VENDAVAM	(verb) third-person plural imperfect indicative of vendar: to blindfold
+VENDAVEIS	(adjective) plural of vendável: saleable, which may be sold\n(verb) second-person plural imperfect indicative of vendar: to blindfold
+VENDAVEL	(adjective) saleable, which may be sold
+VENDE	(verb) third-person singular present indicative (vender): to sell
+VENDEDOR	(adjective) vendedor translates to that sells\n(noun) salesman: A man whose job it is to sell things, either in a shop / store or elsewhere.
+VENDEDORA	(adjective) feminine singular of vendedor: that sells\n(noun) female equivalent of vendedor: that sells
+VENDEI	(verb) second-person plural imperative of vender: to sell
+VENDEM	(verb) third-person plural present indicative of vender: to sell
+VENDEMOS	(verb) first-person plural present/preterite indicative of vender: to sell
+VENDER	(verb) vender translates to to sell
+VENDES	(verb) second-person singular present indicative of vender: to sell
+VENDIDA	(adjective) feminine singular of vendido: sold\n(verb) feminine singular of vendido: sold
+VENDIDAS	(adjective) feminine plural of vendido: sold\n(verb) feminine plural of vendido: sold
+VENDIDO	(adjective) sold: Convinced, won over.\n(noun) one who has been bribed
+VENDIDOS	(adjective) masculine plural of vendido: sold\n(verb) masculine plural of vendido: sold
+VENDO	(verb) gerund of ver: to see; to observe
+VENDOU	(verb) third-person singular preterite indicative of vendar: to blindfold
+VENENO	(noun) poison: A substance that is harmful or lethal to a living organism when ingested.
+VENENOS	(noun) plural of veneno: poison
+VENENOSA	(adjective) feminine singular of venenoso: poisonous
+VENENOSAMENTE	(adverb) venomously: In a venomous manner; with venom.
+VENENOSO	(adjective) poisonous: Negative, harmful.
+VENERA	(verb) third-person singular present indicative (venerar): to venerate
+VENERADA	(verb) feminine singular of venerado
+VENERADAMENTE	(adverb) veneradamente translates to venerably
+VENERADO	(verb) past participle of venerar: to venerate
+VENERAM	(verb) third-person plural present indicative of venerar: to venerate
+VENERAMOS	(verb) first-person plural present indicative (venerar): to venerate
+VENERANDA	(adjective) feminine singular of venerando: venerable
+VENERANDO	(adjective) venerable: Worthy of reverence.\n(verb) gerund of venerar: to venerate
+VENERAR	(verb) venerar translates to to venerate
+VENERARAM	(verb) third-person plural preterite/pluperfect indicative of venerar
+VENERARAO	(verb) third-person plural future indicative of venerar: to venerate
+VENERAREM	(verb) third-person plural future subjunctive (venerar): to venerate
+VENERASSE	(verb) first/third-person singular imperfect subjunctive of venerar: to venerate
+VENERAVA	(verb) first/third-person singular imperfect indicative of venerar: to venerate
+VENERAVAM	(verb) third-person plural imperfect indicative of venerar: to venerate
+VENERAVAMOS	(verb) first-person plural imperfect indicative of venerar: to venerate
+VENERAVEIS	(adjective) plural of venerável: venerable\n(verb) second-person plural imperfect indicative of venerar: to venerate
+VENERAVEL	(adjective) venerable: Ancient, antiquated or archaic.
+VENERAÇAO	(noun) reverence: Veneration; profound awe and respect, normally in a sacred context. (also: veneration)
+VENERE	(verb) first/third-person singular present subjunctive (venerar): to venerate
+VENEREA	(adjective) feminine singular of venéreo: venereal
+VENEREAS	(adjective) feminine plural of venéreo: venereal
+VENEREI	(verb) first-person singular preterite indicative of venerar: to venerate
+VENEREM	(verb) third-person plural present subjunctive (venerar): to venerate
+VENEREO	(adjective) venereal: Of or relating to the genitals or sexual intercourse.
+VENERO	(verb) first-person singular present indicative of venerar: to venerate
+VENEROU	(verb) third-person singular preterite indicative of venerar: to venerate
+VENETA	(noun) female equivalent of vêneto: Venetan\n(adjective) feminine singular of vêneto: Venetan
+VENETO	(noun) veneto translates to venetan\n(adjective) relating to the Veneto region of Italy; Venetian
+VENEZIANO	(adjective) venetian: Ellipsis of Venetian blind or alternative letter-case form of Venetian.\n(noun) venetian: Ellipsis of Venetian blind or alternative letter-case form of Venetian.
+VENEZUELANA	(adjective) feminine singular of venezuelano: Venezuelan\n(noun) female equivalent of venezuelano: Venezuelan
+VENEZUELANAS	(adjective) feminine plural of venezuelano: Venezuelan\n(noun) plural of venezuelana
+VENEZUELANO	(adjective) venezuelano translates to venezuelan\n(noun) venezuelano translates to venezuelan
+VENEZUELANOS	(adjective) masculine plural of venezuelano: Venezuelan\n(noun) plural of venezuelano: Venezuelan
+VENHA	(verb) first/third-person singular present subjunctive (vir): to come
+VENHAM	(verb) third-person plural present subjunctive (vir): to come
+VENHAS	(verb) second-person singular present subjunctive of vir: to come
+VENHO	(verb) first-person singular present indicative of vir: to come
+VENIA	(noun) a bow or nod of courtesy
+VENIAGA	(noun) goods: That which is produced, then traded, bought or sold, then finally consumed.
+VENIAL	(adjective) venial: Able to be forgiven; worthy of forgiveness.
+VENOSA	(adjective) feminine singular of venoso: venous
+VENOSAS	(adjective) feminine plural of venoso: venous
+VENOSO	(adjective) venous: Possessing veins.
+VENOSOS	(adjective) masculine plural of venoso: venous
+VENTA	(noun) nostril, especially of livestock\n(verb) third-person singular present indicative of ventar: to blow
+VENTANIA	(noun) gale: A very strong wind, more than a breeze, less than a storm; number 7 through to 9 winds on the 12-step Beaufort scale.
+VENTAR	(verb) ventar translates to to blow
+VENTAS	(noun) plural of venta: nostril, especially of livestock
+VENTILADOR	(noun) ventilator: A device that circulates fresh air and expels stale or noxious air. (also: fan)
+VENTILAM	(verb) third-person plural present indicative of ventilar: to circulate air through a building, etc.
+VENTILAMOS	(verb) first-person plural present indicative (ventilar): to circulate air through a building, etc.
+VENTILANDO	(verb) gerund of ventilar: to circulate air through a building, etc.
+VENTILAR	(verb) to circulate air through a building, etc.
+VENTILAVA	(verb) first/third-person singular imperfect indicative of ventilar: to circulate air through a building, etc.
+VENTILAÇAO	(noun) ventilation: Ellipsis of mechanical ventilation.
+VENTILAÇOES	(noun) plural of ventilação: ventilation
+VENTILE	(verb) first/third-person singular present subjunctive (ventilar): to circulate air through a building, etc.
+VENTILEI	(verb) first-person singular preterite indicative of ventilar: to circulate air through a building, etc.
+VENTILEM	(verb) third-person plural present subjunctive (ventilar): to circulate air through a building, etc.
+VENTILOU	(verb) third-person singular preterite indicative of ventilar: to circulate air through a building, etc.
+VENTINHO	(noun) diminutive of vento: wind
+VENTO	(noun) wind: Air artificially put in motion by any force or action.\n(verb) first-person singular present indicative of ventar: to blow
+VENTOINHA	(noun) fan: The action of fanning; agitation of the air.
+VENTOS	(noun) plural of vento: wind
+VENTOSA	(adjective) feminine singular of ventoso: windy\n(noun) glass flask applied to one's skin in order to produce a local revulsion caused by the air's rarefaction
+VENTOSAR	(verb) fart: To emit digestive gases from the anus; to flatulate.
+VENTOSO	(adjective) windy: Long-winded; orally verbose.\n(noun) ventoso translates to ventôse
+VENTOU	(verb) third-person singular preterite indicative of ventar: to blow
+VENTRALMENTE	(adverb) ventralmente translates to ⟪ventrally⟫
+VENTRE	(noun) belly: The abdomen (especially a fat one). (also: abdomen, stomach)
+VENTRILOQUA	(noun) female equivalent of ventríloquo: ventriloquist
+VENTRILOQUIA	(noun) ventriloquism: The art of projecting one's voice without moving the lips so that it appears to come from another source, such as a dummy.
+VENTRILOQUISMO	(noun) ventriloquism: The art of projecting one's voice without moving the lips so that it appears to come from another source, such as a dummy.
+VENTRILOQUO	(noun) ventriloquo translates to ⟪ventriloquist⟫
+VENTRILOQUOS	(noun) plural of ventríloquo: ventriloquist
+VENTURA	(noun) chance: probability; possibility. (also: fortune, luck)
+VENTURAS	(noun) plural of ventura: fortune, chance, luck
+VENTUROSA	(adjective) feminine singular of venturoso: fortunate, lucky
+VENTUROSO	(adjective) fortunate: Auspicious. (also: lucky)
+VENUS	(noun) venus translates to venus
+VENUSIANA	(form of venusiano) (adjective) venusiano translates to venusian
+VENUSIANAS	(form of venusiano) (adjective) venusiano translates to venusian
+VENUSIANO	(adjective) venusiano translates to venusian\n(noun) venusiano translates to venusian
+VENUSIANOS	(noun) plural of venusiano: Venusian
+VENUSTRAFOBIA	(noun) venustrafobia translates to venustraphobia
+VER	(verb) ver translates to to see, to observe
+VERA	(adjective) feminine singular of vero: true, real, genuine\n(verb) third-person singular future indicative of ver: to see; to observe
+VERACIDADE	(noun) veracity: The quality of speaking or stating the truth; truthfulness.
+VERAMENTE	(adverb) truly: Honestly, genuinely, in fact, really.
+VERANEANTE	(adjective) summering; spending summer travelling somewhere
+VERANEIO	(noun) summering: An instance of spending the summer, as for a vacation or for cooler weather.\n(verb) first-person singular present indicative of veranear
+VERAO	(noun) summer: year; used to give the age of a person, usually a young one.\n(verb) third-person plural future indicative of ver: to see; to observe
+VERAS	(adjective) feminine plural of vero: true, real, genuine\n(verb) second-person singular future indicative of ver: to see; to observe
+VERAZ	(adjective) truthful: Honest, and always telling the truth. (also: veracious)
+VERAZMENTE	(adverb) truthfully: In a truthful manner.
+VERBA	(noun) budget: A relatively small amount of available money.
+VERBAL	(adjective) oral: Spoken rather than written. (also: verbal)
+VERBALIZAR	(verb) verbalizar translates to to verbalize/verbalise
+VERBALMENTE	(adverb) verbally: In a verbal manner; with words; by speaking.
+VERBATIM	(adverb) verbatim: Corresponding with the original word for word.\n(adjective) verbatim: Corresponding with the original word for word.
+VERBENA	(noun) common name, extended to plants of the genus Verbena, of the Verbenaceae family, mostly from the Americas, which includes species cultivated as ornamentals
+VERBERAO	(noun) vervain: Any herbaceous plant in the genus Verbena especially if used for medicinal purposes, primarily Verbena officinalis, common in Europe and formerly held to have medicinal properties. (also: verbena)
+VERBETAR	(verb) to jot down
+VERBETE	(noun) entry: An item in a list, such as an article in a dictionary or encyclopedia.\n(verb) first/third-person singular present subjunctive (verbetar): to jot down
+VERBO	(noun) verb: A word that indicates an action, event, or state of being.
+VERBORREIA	(noun) verbose: Containing or using more words than necessary; long-winded, wordy. (also: verbiage)
+VERBOS	(noun) plural of verbo: verb
+VERBOSIDADE	(noun) verbosity: The excess use of words, especially using more than are needed for clarity or precision.
+VERBOSO	(adjective) verbose: Containing or using more words than necessary; long-winded, wordy.
+VERDADE	(noun) verdade translates to ⟪truth⟫\n(interjection) true: Conforming to the actual state of reality or fact; factually correct. (also: exactly, indeed)
+VERDADEIRA	(adjective) feminine singular of verdadeiro: truthful
+VERDADEIRAMENTE	(adverb) truly: In accordance with the facts; truthfully, accurately. (also: truthfully)
+VERDADEIRAS	(adjective) feminine plural of verdadeiro: truthful
+VERDADEIRO	(adjective) truthful: Accurately depicting what is real.
+VERDADEIROS	(adjective) masculine plural of verdadeiro: truthful
+VERDADES	(noun) plural of verdade: truth
+VERDE	(adjective) green: Having a color charge of green.\n(noun) green: Having a color charge of green.
+VERDEJANTE	(adjective) verdant: Abundant in verdure; lush with vegetation.
+VERDEJAR	(verb) to be green, verdant
+VERDEJO	(verb) first-person singular present indicative of verdejar: to be green, verdant
+VERDELHAO	(noun) greenfinch: Any bird within the genus Chloris (formerly a subset of the genus Carduelis), small passerine songbirds with yellow-green plumage, found throughout Eurasia.
+VERDES	(adjective) masculine/feminine plural of verde: green\n(noun) plural of verde: green
+VERDETE	(noun) verdigris: Copper acetate.
+VERDILHAO	(noun) greenfinch: Any bird within the genus Chloris (formerly a subset of the genus Carduelis), small passerine songbirds with yellow-green plumage, found throughout Eurasia.
+VERDINHA	(noun) verdinha translates to ⟪cannabis⟫\n(adjective) feminine singular of verdinho
+VERDOENGO	(adjective) alternative form of verdolengo
+VERDOLENGO	(adjective) verdolengo translates to ⟪greenish⟫
+VERDUGO	(noun) verdugo translates to ⟪executioner⟫
+VERDURA	(noun) greenness: The state or quality of being green; green colour.
+VEREADOR	(noun) alderman: A member of a municipal legislative body in a city or town. (also: councillor)
+VEREADORES	(noun) plural of vereador: alderman; councillor
+VEREAR	(verb) verear translates to to govern
+VERECUNDIA	(noun) synonym of vergonha
+VEREDA	(noun) narrow path or way
+VEREDICTO	(noun) alternative form of veredito
+VEREDITO	(noun) verdict: An opinion or judgement.
+VEREI	(verb) first-person singular future indicative of ver: to see; to observe
+VEREIA	(verb) third-person singular present indicative (verear): to govern
+VEREIS	(verb) second-person plural future indicative of ver: to see; to observe
+VERGA	(noun) rod: A stick, pole, or bundle of switches or twigs (such as a birch), used for personal defense or to administer corporal punishment by whipping. (also: stick, twig)\n(verb) third-person singular present indicative (vergar): to bow
+VERGAMOTA	(noun) alternative form of bergamota
+VERGAR	(verb) vergar translates to to bow
+VERGAS	(noun) plural of verga: stick, rod, twig\n(verb) second-person singular present indicative of vergar: to bow
+VERGASTA	(noun) cane: A local European measure of length; the canna.\n(verb) third-person singular present indicative (vergastar): to cane
+VERGASTAR	(verb) vergastar translates to to cane
+VERGEL	(noun) orchard: A garden or an area of land for the cultivation of fruit or nut trees.
+VERGONHA	(noun) shame: The cause or reason of shame; that which brings reproach and ignominy.
+VERGONHAS	(noun) plural of vergonha: shame
+VERGONHOSAMENTE	(adverb) shamefully: In a shameful manner.
+VERGONHOSO	(adjective) shameful: Causing or meriting shame or disgrace; disgraceful
+VERGONHOSOS	(adjective) masculine plural of vergonhoso: shameful
+VERGONTEA	(noun) offspring: singular offspring (male, female or sex unspecified)
+VERIA	(verb) first/third-person singular conditional of ver: to see; to observe
+VERIDICAMENTE	(adverb) veridicamente translates to ⟪veridically⟫
+VERIDICO	(adjective) truthful: Accurately depicting what is real. (also: true, veracious)
+VERIFICADA	(verb) feminine singular of verificado: verified, checked
+VERIFICADAMENTE	(adverb) verificadamente translates to verifiably
+VERIFICADAS	(verb) feminine plural of verificado: verified, checked
+VERIFICADO	(verb) past participle of verificar: to verify
+VERIFICADOS	(verb) masculine plural of verificado: verified, checked
+VERIFICAR	(verb) verificar translates to to verify
+VERIFICAVEL	(adjective) verifiable: Able to be verified or confirmed.
+VERIFICAÇAO	(noun) verification: The act or process of verifying.
+VERIFIQUE	(verb) first/third-person singular present subjunctive (verificar): to verify
+VERME	(noun) worm: A muscular band in the tongue of some animals, such as dogs; the lytta.
+VERMELHA	(adjective) feminine singular of vermelho: red\n(verb) third-person singular present indicative
+VERMELHAS	(adjective) feminine plural of vermelho: red\n(verb) second-person singular present indicative of vermelhar
+VERMELHIDAO	(noun) redness: The state or quality of being red.
+VERMELHO	(adjective) red: Having an orange-brown or orange-blond colour; ginger.\n(noun) red: Having an orange-brown or orange-blond colour; ginger.
+VERMELHOS	(adjective) masculine plural of vermelho: red\n(noun) plural of vermelho: red
+VERMES	(noun) plural of verme: worm
+VERMICULITA	(noun) vermiculite: A hydrated silicate mineral which expands on heating; it is used in insulation and as a medium for planting.
+VERMINA	(noun) vermina translates to ⟪vermin⟫
+VERMINOSO	(adjective) wormy: Infested with worms. (also: verminous)
+VERMUTE	(noun) vermouth: A dry, or sweet apéritif wine flavored with aromatic herbs, and often used in mixed drinks.
+VERNACULARMENTE	(adverb) vernacularmente translates to ⟪vernacularly⟫
+VERNACULO	(adjective) vernacular: The language of a people or a national language.\n(noun) vernacular: The language of a people or a national language.
+VERNAL	(adjective) vernal: Pertaining to or occurring in spring.
+VERNIZ	(noun) varnish: A clear or translucent liquid coating composed of resin dissolved in a solvent, which dries by evaporation to form a hard, protective, and typically glossy finish.
+VERO	(adjective) real: True, genuine, not merely nominal or apparent. (also: true, genuine)
+VERONICA	(noun) veronica: The image of Jesus's face believed to have been made on the cloth with which St Veronica wiped his face as he went to be crucified; or the cloth used for this.
+VEROS	(adjective) masculine plural of vero: true, real, genuine
+VEROSIMIL	(adjective) European Portuguese standard form of verossímil
+VEROSIMILMENTE	(adverb) verosimilmente translates to ⟪verisimilarly⟫
+VEROSSIMIL	(adjective) true to life; realistic (resembling reality)
+VEROSSIMILHANÇA	(noun) probability: The state of being probable. (also: likelihood)
+VEROSSIMILMENTE	(adverb) verossimilmente translates to ⟪verisimilarly⟫
+VERRUGA	(noun) wart: Anything unsightly or undesirable; a blemish.
+VERRUMA	(noun) bit: The part of a key which enters the lock and acts upon the bolt and tumblers.
+VERSADA	(verb) feminine singular of versado: versed
+VERSADO	(verb) past participle of versar: to address
+VERSALETE	(noun) versalete translates to small caps\n(adjective) written in or relating to small caps
+VERSAO	(noun) pouring: The act by which something is poured.
+VERSAR	(verb) versar translates to to address
+VERSATEIS	(adjective) plural of versátil: versatile
+VERSATIL	(adjective) versatile: Capable of moving freely in all directions.
+VERSATILIDADE	(noun) versatility: The property of being versatile or having many different abilities.
+VERSATILMENTE	(adverb) versatilmente translates to ⟪versatilely⟫
+VERSE	(verb) first/third-person singular present subjunctive (versar): to address
+VERSICULO	(noun) verse: Poetic form in general.
+VERSICULOS	(noun) plural of versículo: verse
+VERSIFICAR	(verb) versificar translates to to versify
+VERSO	(noun) verse: Poetic form in general.\n(verb) first-person singular present indicative of versar: to address
+VERSOR	(noun) versor translates to unit vector
+VERSOS	(noun) plural of verso: verse
+VERSUS	(preposition) alternative spelling of vérsus
+VERTE	(verb) third-person singular present indicative (verter): to leak
+VERTEBRA	(noun) vertebra: Any of the bony or cartilaginous segments which make up the backbone, consisting in some lower vertebrates of several distinct elements which never become united, and in higher vertebrates having a short more or less cylindrical body whose ends articulate by pads of elastic or cartilaginous tissue...
+VERTEBRADO	(adjective) vertebrado translates to ⟪vertebral⟫, vertebrous\n(noun) vertebrate: An animal having a backbone: one belonging to the subphylum Vertebrata.
+VERTEBRAL	(adjective) vertebral: Of or relating to a vertebra or the spine.
+VERTENTE	(noun) spring: A grove of trees; a forest.
+VERTER	(verb) verter translates to to leak
+VERTICAIS	(adjective) masculine/feminine plural of vertical: vertical
+VERTICAL	(adjective) vertical: Standing, pointing, or moving straight up or down; parallel to the local direction of gravity; along the direction of a plumb line; perpendicular to something horizontal.
+VERTICALIDADE	(noun) verticalidade translates to ⟪verticality⟫, ⟪verticalness⟫
+VERTICALMENTE	(adverb) vertically: In a vertical direction or position.
+VERTICE	(noun) pinnacle: The highest point. (also: apex, peak)
+VERTIDO	(verb) past participle of verter: to leak
+VERTIGEM	(noun) vertigo: The act of whirling round and round; rapid rotation. (also: dizziness)
+VERTIGENS	(noun) plural of vertigem: vertigo; dizziness
+VERTIGINOSAMENTE	(adverb) vertiginosamente translates to ⟪vertiginously⟫
+VERTIGINOSO	(adjective) vertiginous: Pertaining to vertigo (in all its meanings).
+VERTIPORTO	(noun) vertiporto translates to vertiport
+VERÇA	(noun) alternative form of berça
+VES	(verb) second-person singular present indicative of ver: to see; to observe\n(noun) plural of vê
+VESGAMENTE	(adverb) vesgamente translates to cross-eyedly
+VESGO	(adjective) walleyed: Suffering from exotropia. (also: cross-eyed)
+VESGUEAR	(verb) squint: To look with, or have eyes that are turned in different directions; to suffer from strabismus.
+VESICAL	(adjective) vesical translates to ⟪vesical⟫
+VESICULA	(noun) vesicle: (usually and especially) Such a blister that is less than 5 mm in diameter.
+VESICULAR	(adjective) vesicular: Of, pertaining to, having, or being vesicles (vesiculae).
+VESPA	(noun) wasp: Any of the members of the family Vespidae.
+VESPEIRO	(noun) vespiary: A colony of wasps living in such a nest.
+VESPERA	(noun) eve: The period of time when something is just about to happen or to be introduced (also: day before)
+VESPERTINO	(adjective) afternoon: The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.\n(noun) a newspaper’s edition published in the afternoon
+VESTE	(noun) an item of clothing\n(verb) third-person singular present indicative (vestir): to wear; to don
+VESTI	(verb) first-person singular preterite indicative (vestir): to wear; to don
+VESTIA	(verb) first/third-person singular imperfect indicative of vestir: to wear; to don
+VESTIBULANDO	(noun) a student who is preparing to take an entrance examination for a college or university
+VESTIBULAR	(noun) an admittance test for Brazilian universities\n(adjective) vestibular: Of, pertaining to, or functioning as a vestibule (body cavity).
+VESTIBULARMENTE	(adverb) vestibularmente translates to vestibularly
+VESTIBULO	(noun) lobby: An entryway or reception area; vestibule; passageway; corridor.
+VESTIDA	(adjective) feminine singular of vestido: dressed; clothed\n(verb) feminine singular of vestido: dressed; clothed
+VESTIDO	(adjective) vestido translates to ⟪dressed⟫, ⟪clothed⟫\n(noun) dress: Any item of clothing, or an outfit.
+VESTIDOS	(adjective) masculine plural of vestido: dressed; clothed\n(noun) plural of vestido: dressed; clothed
+VESTIGIAL	(adjective) vestigial: Of or pertaining to a vestige or remnant; like a trace from the past.
+VESTIGIO	(noun) trace: A connecting bar or rod, pivoted at each end to the end of another piece, for transmitting motion, especially from one plane to another; specifically, such a piece in an organ stop action to transmit motion from the trundle to the lever actuating the stop slider. (also: vestige)
+VESTIMENTA	(noun) any item of clothing
+VESTINDO	(verb) gerund of vestir: to wear; to don
+VESTIR	(verb) vestir translates to to wear, to don
+VESTUARIO	(noun) pre-reform spelling (used until 1943 in Brazil and 1911 in Portugal) of vestuário
+VETAR	(verb) vetar translates to to veto
+VETERANO	(adjective) veteran: A person with long experience of a particular activity.\n(noun) veteran: A person with long experience of a particular activity.
+VETERINARIA	(noun) female equivalent of veterinario: veterinary\n(adjective) feminine singular of veterinário: veterinary
+VETERINARIO	(adjective) veterinario translates to ⟪veterinary⟫\n(noun) veterinarian: A medical doctor who treats non-human animals.
+VETO	(noun) veto: A political right to disapprove of (and thereby stop) the process of a decision, a law etc.\n(verb) first-person singular present indicative of vetar: to veto
+VETOR	(noun) vector: A directed quantity, one with both magnitude and direction; the signed difference between two points.
+VETORIAL	(adjective) vetorial translates to vectorial
+VETORIALMENTE	(adverb) vetorialmente translates to vectorially
+VETUSTAMENTE	(adverb) anciently: In the manner of very long ago. As the ancients did.
+VETUSTO	(adjective) ancient: Having lasted from a remote period; having been of long duration; of great age, very old.
+VEU	(noun) veil: A cover; disguise; a mask; a pretense.
+VEXADA	(adjective) feminine singular of vexado: ashamed, confused, embarrassed\n(verb) feminine singular of vexado: ashamed, confused, embarrassed
+VEXADO	(adjective) confused: embarrassed (also: ashamed, embarrassed)\n(verb) past participle of vexar: to vex; to distress
+VEXAME	(noun) embarrassment; an instance of shame or vexation
+VEXAMES	(noun) plural of vexame: embarrassment; an instance of shame or vexation
+VEXANTE	(adjective) vexatious: Causing vexation or annoyance; teasing; troublesome. (also: shameful)
+VEXAR	(verb) vexar translates to to vex, to distress
+VEXATORIO	(adjective) vexatious: Causing vexation or annoyance; teasing; troublesome. (also: shameful)
+VEXILO	(noun) vexillum: A flag, banner, or standard.
+VEXILOLOGIA	(noun) vexilologia translates to vexillology
+VEZ	(noun) time: An instance or occurrence. (also: occasion)
+VEZADA	(adjective) occurring only once\n(verb) feminine singular of vezado
+VEZADO	(verb) past participle of vezar
+VEZES	(noun) plural of vez: time; occasion\n(preposition) times: Multiplied by (see also 'ratio of comparison' sense at 'time').
+VEZO	(noun) vezo translates to bad habit\n(verb) first-person singular present indicative of vezar
+VIA	(noun) via translates to a way, a path\n(preposition) via: By (means of); using.
+VIABILIDADE	(noun) viability: The property of being viable; the ability to live or to succeed.
+VIABILIZAR	(verb) to make viable
+VIADUTO	(noun) overpass: A section of a road or path that crosses over an obstacle, especially another road, railway, etc. (also: viaduct)
+VIADUTOS	(noun) plural of viaduto: overpass, viaduct
+VIAGEM	(noun) trip: A journey; an excursion or jaunt. (also: journey, voyage)
+VIAJA	(verb) third-person singular present indicative (viajar): to travel
+VIAJADO	(adjective) travelled: Standard spelling of traveled.\n(verb) past participle of viajar: to travel
+VIAJAM	(verb) third-person plural present indicative of viajar: to travel
+VIAJAMOS	(verb) first-person plural present indicative (viajar): to travel
+VIAJANDO	(verb) gerund of viajar: to travel
+VIAJANTE	(noun) traveller: One who travels, especially to distant lands. (also: voyager)
+VIAJANTES	(noun) plural of viajante: voyager, traveller
+VIAJAR	(verb) viajar translates to to travel
+VIAJARA	(verb) third-person singular future indicative of viajar: to travel
+VIAJARAM	(verb) third-person plural preterite/pluperfect indicative of viajar
+VIAJARAO	(verb) third-person plural future indicative of viajar: to travel
+VIAJAREI	(verb) first-person singular future indicative of viajar: to travel
+VIAJAREM	(verb) third-person plural future subjunctive (viajar): to travel
+VIAJAREMOS	(verb) first-person plural future indicative of viajar: to travel
+VIAJARIA	(verb) first/third-person singular conditional of viajar: to travel
+VIAJARIAM	(verb) third-person plural conditional of viajar: to travel
+VIAJARIAMOS	(verb) first-person plural conditional of viajar: to travel
+VIAJARMOS	(verb) first-person plural future subjunctive (viajar): to travel
+VIAJAS	(verb) second-person singular present indicative of viajar: to travel
+VIAJASSE	(verb) first/third-person singular imperfect subjunctive of viajar: to travel
+VIAJASSEM	(verb) third-person plural imperfect subjunctive of viajar: to travel
+VIAJASSEMOS	(verb) first-person plural imperfect subjunctive of viajar: to travel
+VIAJASTE	(verb) second-person singular preterite indicative of viajar: to travel
+VIAJAVA	(verb) first/third-person singular imperfect indicative of viajar: to travel
+VIAJAVAM	(verb) third-person plural imperfect indicative of viajar: to travel
+VIAJAVAMOS	(verb) first-person plural imperfect indicative of viajar: to travel
+VIAJE	(verb) first/third-person singular present subjunctive (viajar): to travel
+VIAJEI	(verb) first-person singular preterite indicative of viajar: to travel
+VIAJEM	(verb) third-person plural present subjunctive (viajar): to travel
+VIAJEMOS	(verb) first-person plural present subjunctive (viajar): to travel
+VIAJES	(verb) second-person singular present subjunctive of viajar: to travel
+VIAJO	(verb) first-person singular present indicative of viajar: to travel
+VIAJOU	(verb) third-person singular preterite indicative of viajar: to travel
+VIAM	(verb) third-person plural imperfect indicative of ver: to see; to observe
+VIANDANTE	(noun) wayfarer: A traveller, especially one on foot.
+VIANENSE	(adjective) of Viana do Alentejo\n(noun) native or inhabitant of Viana do Alentejo
+VIARIA	(form of viario) (adjective) road: A physical way or route. (also: street)
+VIARIAS	(form of viario) (adjective) road: A physical way or route. (also: street)
+VIARIO	(adjective) road: A physical way or route. (also: street)
+VIAS	(noun) plural of via: a way; a path\n(verb) second-person singular imperfect indicative of ver: to see; to observe
+VIATURA	(noun) any automobile used to transport people or goods
+VIAVEL	(adjective) viable: Able to be done, possible, practicable, feasible.
+VIAVELMENTE	(adverb) viavelmente translates to viably
+VIAÇAO	(noun) viaçao translates to road system
+VIBE	(noun) vibe: Vibration.
+VIBORA	(noun) viper: Any venomous snake.
+VIBRA	(verb) third-person singular present indicative (vibrar): to vibrate, oscillate
+VIBRACIONALMENTE	(adverb) vibracionalmente translates to vibrationally
+VIBRADOR	(noun) vibrator: A vibrating device used for massage or sexual stimulation.\n(adjective) which vibrates or causes to vibrate
+VIBRAFONE	(noun) vibrafone translates to ⟪vibraphone⟫
+VIBRANTE	(adjective) vibrante translates to ⟪vibrant⟫\n(noun) vibrante translates to ⟪vibrant⟫
+VIBRANTEMENTE	(adverb) vibrantemente translates to ⟪vibrantly⟫
+VIBRAR	(verb) oscillate: To swing back and forth, especially if with a regular rhythm. (also: to vibrate)
+VIBRAÇAO	(noun) vibration: Any periodic process, especially a rapid linear motion of a body about an equilibrium position. (also: oscillation)
+VIBURNO	(noun) viburnum: Any of many shrubs and trees, of the genus Viburnum, native to the Northern Hemisphere that have showy clusters of flowers.
+VICARIAMENTE	(adverb) vicariamente translates to ⟪vicariously⟫
+VICARIO	(adjective) vicarious: On behalf of others.
+VICE	(noun) used as an abbreviation of any word containing the prefix vice-
+VICEJA	(verb) third-person singular present indicative (vicejar): to thrive
+VICEJAM	(verb) third-person plural present indicative of vicejar: to thrive
+VICEJAR	(verb) vicejar translates to to thrive
+VICENTINA	(adjective) feminine singular of vicentino: Vicentine
+VICENTINO	(adjective) vicentino translates to vicentine\n(noun) vicentino translates to vicentine
+VICIADA	(adjective) feminine singular of viciado: addicted\n(noun) female equivalent of viciado: addicted
+VICIADAMENTE	(adverb) viciadamente translates to addictively
+VICIADO	(adjective) viciado translates to ⟪addicted⟫\n(noun) addict: A person who is addicted, especially to a harmful drug.
+VICIANTEMENTE	(adverb) viciantemente translates to addictively
+VICIAR	(verb) viciar translates to to addict
+VICIO	(verb) first-person singular present indicative of viciar: to addict\n(noun) pre-reform spelling (used until 1943 in Brazil and 1911 in Portugal) of vício
+VICIOS	(noun) plural of vicio: pre-reform spelling of vício
+VICIOSAMENTE	(adverb) viciously: In a vicious manner; ferociously or maliciously.
+VICISSITUDE	(noun) variation: The modification of a hereditary trait.
+VICISSITUDES	(noun) plural of vicissitude: variation
+VICUNHA	(noun) vicunha translates to ⟪vicuna⟫
+VICUNHAS	(noun) plural of vicunha: vicuna
+VIDA	(noun) state of being alive\n(verb) third-person singular present indicative (vidar): to plant vines
+VIDAR	(verb) to plant vines\n(noun) kind of saw with which the thick teeth on the combs were opened
+VIDAS	(noun) plural of vida: state of being alive\n(verb) second-person singular present indicative of vidar: to plant vines
+VIDE	(noun) the tendril of a grapevine\n(verb) see: To perceive or detect someone or something with the eyes, or as if by sight. (also: refer to)
+VIDEIRA	(noun) grapevine: The plant, a vine of genus Vitis, on which grapes grow.
+VIDEIRAS	(noun) plural of videira: grapevine
+VIDENCIA	(noun) clairvoyance: Acute intuitive insight or perceptiveness; sagacity.
+VIDENTE	(noun) someone who can see; someone who is not blind\n(adjective) seeing: Having vision; not blind.
+VIDEO	(noun) video: Television content or media.
+VIDEOARBITRO	(noun) video assistant referee
+VIDEOCASSETE	(noun) videocassette: A cassette containing a blank or prerecorded videotape on which visual images and sounds are recorded for use with a VCR.
+VIDEOCHAMADA	(noun) videochamada translates to video call
+VIDEOCLIPE	(noun) videoclipe translates to music video
+VIDEOCONFERENCIA	(noun) videoconferencia translates to video conference, videoconference
+VIDEOFONE	(noun) videophone: A telephone capable of transmitting both audio and video signals in both directions.
+VIDEOGAME	(noun) alternative spelling of video game
+VIDEOGRAFAR	(verb) video: To record using a video camera, to videotape.
+VIDEOGUEIME	(noun) rare spelling of video game
+VIDEOJOGADOR	(noun) gamer: A person whose hobby is video games.
+VIDEOJOGO	(noun) videojogo translates to video game
+VIDEOS	(noun) plural of vídeo: video
+VIDEOTEIPE	(noun) alternative spelling of video-tape
+VIDIGUEIRENSE	(adjective) vidigueirense translates to of Vidigueira\n(noun) native or inhabitant of Vidigueira
+VIDO	(verb) first-person singular present indicative of vidar: to plant vines
+VIDOEIRO	(noun) birch: A hard wood taken from the birch tree, typically used to make furniture.
+VIDRACEIRO	(noun) glazier: One who glazes: a craftsman who works with glass, fitting windows, etc.
+VIDRADA	(adjective) feminine singular of vidrado: covered in glass or with glass panes\n(verb) feminine singular of vidrado: covered in glass or with glass panes
+VIDRADO	(adjective) covered in glass or with glass panes\n(verb) past participle of vidrar
+VIDRARIA	(noun) vidraria translates to glass factory\n(verb) first/third-person singular conditional of vidrar
+VIDRAÇA	(noun) a pane of glass
+VIDREIRO	(noun) vidreiro translates to ⟪glassmaker⟫, ⟪glazier⟫\n(adjective) glass: To fit with glass; to glaze.
+VIDRILHO	(noun) vidrilho translates to glass bead
+VIDRO	(noun) glass: Any amorphous solid (one without a regular crystal lattice).\n(verb) first-person singular present indicative of vidrar
+VIEIRA	(noun) scallop: Any of various marine bivalve molluscs of the superfamily Pectinoidea.
+VIEIRAS	(noun) plural of vieira: scallop
+VIELA	(noun) alley: A narrow street or passageway, especially one through the middle of a block giving access to the rear of lots of buildings.
+VIENENSE	(adjective) viennese: Of or relating to Vienna (the capital of Austria).\n(noun) viennese: Of or relating to Vienna (the capital of Austria).
+VIENENSES	(adjective) masculine/feminine plural of vienense: Viennese
+VIENES	(adjective) synonym of vienense\n(noun) synonym of vienense
+VIER	(verb) first/third-person singular future subjunctive of vir: to come
+VIERA	(verb) first/third-person singular pluperfect indicative of vir: to come
+VIERAM	(verb) third-person plural preterite/pluperfect indicative of vir
+VIES	(noun) bias: Inclination towards something.
+VIESSE	(verb) first/third-person singular imperfect subjunctive of vir: to come
+VIESSEM	(verb) third-person plural imperfect subjunctive of vir: to come
+VIETCONGUE	(noun) vietcongue translates to vietcong
+VIETNAMES	(adjective) vietnames translates to vietnamese\n(noun) vietnames translates to vietnamese person
+VIETNAMITA	(adjective) vietnamita translates to vietnamese\n(noun) vietnamita translates to vietnamese person
+VIETNAMITAS	(noun) plural of vietnamita: Vietnamese
+VIGA	(noun) beam: One of the principal horizontal structural members, usually of steel, timber, or concrete, of a building.\n(verb) third-person singular present indicative (vigar)
+VIGAIRO	(noun) alternative form of vigário
+VIGARICE	(noun) swindle: An instance of swindling. (also: trickery)
+VIGARIO	(noun) vigario translates to ⟪vicar⟫
+VIGARISTA	(noun) swindler: A person who swindles, cheats or defrauds. (also: conman)
+VIGE	(verb) third-person singular present indicative (viger): to be in force
+VIGENCIA	(noun) term: Duration of officeholding, or its limit; period in office of fixed length.
+VIGENTE	(adjective) vigente translates to in force, in effect
+VIGER	(verb) to be in force
+VIGESIMO	(adjective) twentieth: ordinal object\n(noun) twentieth: ordinal object
+VIGIA	(noun) watch: The act of guarding and observing someone or something. (also: lookout)\n(verb) third-person singular present indicative (vigiar): to watch
+VIGIADA	(verb) feminine singular of vigiado
+VIGIADO	(verb) past participle of vigiar: to watch
+VIGIAI	(verb) second-person plural imperative of vigiar: to watch
+VIGIAM	(verb) third-person plural present indicative of vigiar: to watch
+VIGIAMOS	(verb) first-person plural present indicative (vigiar): to watch
+VIGIANDO	(verb) gerund of vigiar: to watch
+VIGIAR	(verb) vigiar translates to to watch
+VIGIARA	(verb) first/third-person singular pluperfect indicative of vigiar: to watch
+VIGIARAM	(verb) third-person plural preterite/pluperfect indicative of vigiar
+VIGIARAO	(verb) third-person plural future indicative of vigiar: to watch
+VIGIAREI	(verb) first-person singular future indicative of vigiar: to watch
+VIGIAREM	(verb) third-person plural future subjunctive (vigiar): to watch
+VIGIAREMOS	(verb) first-person plural future indicative of vigiar: to watch
+VIGIARES	(verb) second-person singular future subjunctive (vigiar): to watch
+VIGIARIA	(verb) first/third-person singular conditional of vigiar: to watch
+VIGIARIAM	(verb) third-person plural conditional of vigiar: to watch
+VIGIARMOS	(verb) first-person plural future subjunctive (vigiar): to watch
+VIGIAS	(verb) second-person singular present indicative of vigiar: to watch
+VIGIASSE	(verb) first/third-person singular imperfect subjunctive of vigiar: to watch
+VIGIASSEM	(verb) third-person plural imperfect subjunctive of vigiar: to watch
+VIGIASSEMOS	(verb) first-person plural imperfect subjunctive of vigiar: to watch
+VIGIAVA	(verb) first/third-person singular imperfect indicative of vigiar: to watch
+VIGIAVAM	(verb) third-person plural imperfect indicative of vigiar: to watch
+VIGIAVAMOS	(verb) first-person plural imperfect indicative of vigiar: to watch
+VIGIE	(verb) first/third-person singular present subjunctive (vigiar): to watch
+VIGIEI	(verb) first-person singular preterite indicative of vigiar: to watch
+VIGIEM	(verb) third-person plural present subjunctive (vigiar): to watch
+VIGIEMOS	(verb) first-person plural present subjunctive (vigiar): to watch
+VIGILANCIA	(noun) vigilance: Alert watchfulness.
+VIGILANTE	(adjective) vigilant: In vigilance. (also: watchful, observant)\n(noun) a person whose job is to watch over something; a security guard
+VIGILANTEMENTE	(adverb) vigilantly: In a vigilant manner.
+VIGILIA	(noun) vigil: An instance of keeping awake during normal sleeping hours, especially to keep watch or pray.
+VIGIO	(verb) first-person singular present indicative of vigiar: to watch
+VIGIOU	(verb) third-person singular preterite indicative of vigiar: to watch
+VIGOR	(noun) vigour: Strength; efficacy; potency. (also: energy)
+VIGORADA	(verb) feminine singular of vigorado
+VIGORADAS	(verb) feminine plural of vigorado
+VIGORADO	(verb) past participle of vigorar: to give vigor to; strengthen; invigorate
+VIGORAR	(verb) to give vigor to; strengthen; invigorate
+VIGOREXIA	(noun) vigorexia translates to bigorexia
+VIGOROSA	(adjective) feminine singular of vigoroso: vigorous
+VIGOROSAMENTE	(adverb) vigorously: With intense energy, force or vigor.
+VIGOROSO	(adjective) vigorous: Physically strong and active.
+VIKING	(noun) alternative form of víquingue\n(adjective) alternative form of víquingue
+VIL	(adjective) mean: Hearty; spicy. (also: vile)
+VILA	(noun) town: A major city, especially one where the speaker is located.\n(adjective) feminine singular of vilão: townsperson
+VILANCETE	(noun) vilancete translates to villancico
+VILANCICO	(noun) vilancico translates to villancico
+VILAO	(noun) vilao translates to townsperson\n(adjective) related to a town
+VILAREJO	(noun) a small village
+VILAS	(noun) plural of vila: town
+VILEIRO	(noun) vileiro translates to suburbian
+VILEZA	(noun) vileness: A vile act.
+VILIPENDIAR	(verb) vilipendiar translates to to vilify
+VILIPENDIO	(verb) first-person singular present indicative of vilipendiar: to vilify\n(noun) scorn: Contempt or disdain. (also: contempt, disdain)
+VILIPENDIOSO	(adjective) disparaging: Insulting, ridiculing.
+VILMENTE	(adverb) vilmente translates to ⟪vilely⟫
+VIME	(noun) wicker: A flexible branch or twig of a plant such as willow, used in weaving baskets and furniture.
+VIMOS	(verb) first-person plural present indicative of vir: to come
+VINA	(noun) sausage: A sausage-shaped thing.
+VINAGRE	(noun) vinegar: Any variety of vinegar.
+VINAGREIRA	(noun) vinagreira translates to ⟪roselle⟫
+VINAGRETE	(noun) vinaigrette: Alternative form of vinegret (“type of Russian salad”).
+VINCA	(noun) vinca translates to rosy periwinkle\n(verb) third-person singular present indicative (vincar): to crease, fold
+VINCAR	(verb) fold: To cover up, to conceal. (also: to crease)
+VINCILHO	(noun) alternative form of vencilho
+VINCO	(noun) crease: A line or mark made by folding or doubling any pliable substance; hence, a similar mark, however produced.\n(verb) first-person singular present indicative of vincar: to crease, fold
+VINCULADO	(verb) past participle of vincular: to bind\n(adjective) related: Standing in relation or connection. (also: connected)
+VINCULAR	(verb) vincular translates to to bind
+VINCULATIVAMENTE	(adverb) vinculativamente translates to ⟪bindingly⟫
+VINCULO	(noun) link: A connection between places, people, events, things, or ideas. (also: bond, connection)\n(verb) first-person singular present indicative of vincular: to bind
+VINDA	(noun) arrival: The act of arriving (reaching a certain place).\n(adjective) feminine singular of vindo: arrived
+VINDAS	(adjective) feminine plural of vindo: arrived\n(verb) feminine plural of vindo: arrived
+VINDE	(verb) second-person plural imperative of vir: to come
+VINDICAÇAO	(noun) vindication: The action of vindicating; also, the state of being vindicated.
+VINDIMA	(noun) vintage: The harvesting of a grape crop and the initial pressing of juice for winemaking.\n(verb) third-person singular present indicative (vindimar): to harvest
+VINDIMAR	(verb) vindimar translates to to harvest
+VINDO	(verb) past participle of vir: to come\n(adjective) vindo translates to ⟪arrived⟫
+VINDOURA	(adjective) feminine singular of vindouro: future
+VINDOURO	(adjective) future: Having to do with or occurring in the future.
+VINGA	(verb) third-person singular present indicative (vingar): to avenge; to revenge
+VINGADOR	(noun) vingador translates to ⟪avenger⟫\n(adjective) vingador translates to ⟪vindictive⟫
+VINGANDO	(verb) gerund of vingar: to avenge; to revenge
+VINGANÇA	(noun) vingança translates to ⟪revenge⟫
+VINGAR	(verb) vingar translates to to avenge, to revenge
+VINGARAM	(verb) third-person plural preterite/pluperfect indicative of vingar
+VINGATIVA	(adjective) feminine singular of vingativo: vindictive
+VINGATIVAMENTE	(adverb) vingativamente translates to ⟪vengefully⟫
+VINGATIVO	(adjective) vindictive: Having a tendency to seek revenge when wronged, vengeful.
+VINHA	(noun) vineyard: A grape plantation, especially one used in the production of wine.\n(verb) first/third-person singular imperfect indicative of vir: to come
+VINHAENSE	(adjective) vinhaense translates to of Vinhais\n(noun) native or inhabitant of Vinhais
+VINHAM	(verb) third-person plural imperfect indicative of vir: to come
+VINHAS	(noun) plural of vinha: vineyard\n(verb) second-person singular imperfect indicative of vir: to come
+VINHEDO	(noun) vineyard: A grape plantation, especially one used in the production of wine.
+VINHEDOS	(noun) plural of vinhedo: vineyard
+VINHETA	(noun) vignette: A short story or anecdote that presents a scene or tableau, or paints a picture.
+VINHO	(noun) wine: An alcoholic beverage made by fermenting grape juice, with an ABV ranging from 5.5–16%.
+VINHOS	(noun) plural of vinho: wine
+VINICULTOR	(noun) vinicultor translates to ⟪winemaker⟫
+VINICULTURA	(noun) vinicultura translates to ⟪viniculture⟫
+VINIL	(noun) vinyl: The univalent radical CH₂=CH−, derived from ethylene.
+VINILA	(noun) synonym of vinil
+VINIS	(noun) plural of vinil: vinyl
+VINTE	(numeral) twenty: The numbers twenty (20) to twenty-nine (29).\n(noun) twenty: The numbers twenty (20) to twenty-nine (29).
+VINTEM	(noun) cherry, virginity or hymen
+VINTENA	(noun) score: Twenty (20).
+VINTENAS	(noun) plural of vintena: score
+VINTENS	(noun) plural of vintém: cherry, virginity or hymen
+VIOLA	(noun) viola: A bowed tenor instrument larger than a violin but smaller than a cello, used in orchestras and string quartets.\n(verb) third-person singular present indicative (violar): to violate
+VIOLADA	(verb) feminine singular of violado
+VIOLADAS	(verb) feminine plural of violado
+VIOLADO	(verb) past participle of violar: to violate
+VIOLADOR	(adjective) violador translates to ⟪violating⟫\n(noun) violator: One who violates (a rule, a boundary, another person's body, etc.); offender
+VIOLADOS	(verb) masculine plural of violado
+VIOLAO	(noun) a nylon-string acoustic guitar; a classical guitar
+VIOLAR	(verb) violar translates to to violate
+VIOLAS	(verb) second-person singular present indicative of violar: to violate
+VIOLAÇAO	(noun) violation: act or instance of violating (also: transgression)
+VIOLENCIA	(noun) pre-reform spelling (used until 1943 in Brazil and 1911 in Portugal) of violência
+VIOLENTA	(adjective) feminine singular of violento: violent\n(verb) third-person singular present indicative (violentar): to rape
+VIOLENTADA	(verb) feminine singular of violentado: violated
+VIOLENTADO	(verb) past participle of violentar: to rape
+VIOLENTAMENTE	(adverb) violently: In a violent manner.
+VIOLENTAR	(verb) violentar translates to to rape
+VIOLENTO	(adjective) violent: Likely to use physical force.\n(verb) first-person singular present indicative of violentar: to rape
+VIOLENTOS	(adjective) masculine plural of violento: violent
+VIOLETA	(adjective) violet: A plant or flower of the genus Viola, especially the fragrant Viola odorata; (inexact) similar-looking plants and flowers.\n(noun) violet: A plant or flower of the genus Viola, especially the fragrant Viola odorata; (inexact) similar-looking plants and flowers.
+VIOLETAS	(adjective) masculine/feminine plural of violeta: violet\n(noun) plural of violeta: violet
+VIOLINISTA	(noun) violinist: A person who plays the violin.
+VIOLINISTAS	(noun) plural of violinista: violinist
+VIOLINO	(noun) violin: A small unfretted stringed instrument with four strings tuned (lowest to highest) G-D-A-E, usually held against the chin and played with a bow.
+VIOLINOS	(noun) plural of violino: violin
+VIOLISTA	(noun) violist: A person who plays the viola.
+VIOLOES	(noun) plural of violão: a nylon-string acoustic guitar; a classical guitar
+VIOLONCELISTA	(noun) cellist: Someone who plays the cello.
+VIOLONCELISTAS	(noun) plural of violoncelista: cellist
+VIOLONCELO	(noun) cello: A bowed bass instrument held between the knees.
+VIOLONCELOS	(noun) plural of violoncelo: cello
+VIOLONISTA	(noun) person who plays a classical guitar
+VIOLONISTAS	(noun) plural of violonista: person who plays a classical guitar
+VIPERINO	(adjective) viperine: Of, relating to or resembling a viper
+VIQUINGUE	(noun) alternative form of víquingue\n(adjective) of the Vikings
+VIR	(verb) vir translates to to come
+VIRA	(noun) a traditional music and dance genre of northern Portugal\n(verb) third-person singular present indicative (virar): to turn
+VIRABREQUIM	(noun) crankshaft: A rotating shaft with throws (parts that stick out) and which drives, is driven by (cranked by), or functions as a crank.
+VIRADA	(noun) turning: The act of one who turns (rotates or twists). (also: turn)\n(verb) feminine singular of virado: turned
+VIRADO	(adjective) turned: In the pattern "X turned Y", indicates that someone has turned (changed) from X into Y.\n(verb) past participle of virar: to turn
+VIRAIS	(adjective) masculine/feminine plural of viral: viral\n(verb) second-person plural present indicative of virar: to turn
+VIRAL	(adjective) viral: Caused by a virus.
+VIRALIZAR	(verb) to go viral (to spread quickly and widely)
+VIRALMENTE	(adverb) viralmente translates to virally
+VIRAM	(verb) third-person plural preterite/pluperfect indicative of ver
+VIRAMOS	(verb) first-person plural present indicative (virar): to turn
+VIRANDO	(verb) gerund of virar: to turn
+VIRAO	(verb) third-person plural future indicative of vir: to come
+VIRAR	(verb) virar translates to to turn
+VIRARA	(verb) third-person singular future indicative of virar: to turn
+VIRARAM	(verb) third-person plural preterite/pluperfect indicative of virar
+VIRARAO	(verb) third-person plural future indicative of virar: to turn
+VIRAREI	(verb) first-person singular future indicative of virar: to turn
+VIRAREM	(verb) third-person plural future subjunctive (virar): to turn
+VIRAREMOS	(verb) first-person plural future indicative of virar: to turn
+VIRARES	(verb) second-person singular future subjunctive (virar): to turn
+VIRARIA	(verb) first/third-person singular conditional of virar: to turn
+VIRARIAM	(verb) third-person plural conditional of virar: to turn
+VIRARIAMOS	(verb) first-person plural conditional of virar: to turn
+VIRARMOS	(verb) first-person plural future subjunctive (virar): to turn
+VIRAS	(verb) second-person singular pluperfect indicative of ver: to see; to observe
+VIRASSE	(verb) first/third-person singular imperfect subjunctive of virar: to turn
+VIRASSEM	(verb) third-person plural imperfect subjunctive of virar: to turn
+VIRASSEMOS	(verb) first-person plural imperfect subjunctive of virar: to turn
+VIRASTE	(verb) second-person singular preterite indicative of virar: to turn
+VIRAVA	(verb) first/third-person singular imperfect indicative of virar: to turn
+VIRAVAM	(verb) third-person plural imperfect indicative of virar: to turn
+VIRAVAMOS	(verb) first-person plural imperfect indicative of virar: to turn
+VIRE	(verb) first/third-person singular present subjunctive (virar): to turn
+VIREI	(verb) first-person singular future indicative of vir: to come
+VIREIS	(verb) second-person plural future indicative of vir: to come
+VIREM	(verb) third-person plural present subjunctive (virar): to turn
+VIREMOS	(verb) first-person plural future indicative of vir: to come
+VIRES	(verb) second-person singular present subjunctive of virar: to turn
+VIRGEM	(noun) virgin: In a state of virginity; chaste, not having had sexual intercourse.\n(adjective) virgin: In a state of virginity; chaste, not having had sexual intercourse.
+VIRGINALMENTE	(adverb) virginalmente translates to ⟪virginally⟫
+VIRGINDADE	(noun) virginity: The state or characteristic of being a virgin.
+VIRGULA	(noun) comma: The punctuation mark ⟨,⟩ used to indicate a set of parts of a sentence or between elements of a list.
+VIRIA	(verb) first/third-person singular conditional of vir: to come
+VIRICO	(adjective) viral: Caused by a virus.
+VIRIDE	(adjective) green: Of a green hue. (also: verdant)
+VIRIL	(adjective) virile: Pertaining to a grammatical gender used in plurals of some Slavic languages, corresponding to the personal masculine animate nouns.
+VIRILHA	(noun) crotch: Either the male or female genitalia. (also: groin)
+VIRILMENTE	(adverb) virilmente translates to ⟪virilely⟫
+VIRILOCALIDADE	(noun) virilocalidade translates to virilocality
+VIRIS	(adjective) masculine/feminine plural of viril: virile
+VIRO	(verb) first-person singular present indicative of virar; "I turn": to turn
+VIROL	(noun) an ornamental wreath made with ribbons
+VIROLOGIA	(noun) virology: The branch of microbiology that deals with the study of viruses and viral diseases.
+VIROLOGICAMENTE	(adverb) virologicamente translates to virologically
+VIROLOGISTA	(noun) virologist: A scientist or doctor who studies or specializes in viruses.
+VIROSE	(noun) virose translates to virosis
+VIROTE	(noun) bolt: A small personal-armour-piercing missile for short-range use, or (in common usage though deprecated by experts) a short arrow, intended to be shot from a crossbow or a catapult.
+VIROU	(verb) third-person singular preterite indicative of virar: to turn
+VIRTUAL	(adjective) virtual: Simulated in a computer and/or online.
+VIRTUALMENTE	(adverb) virtually: By computer or in cyberspace.
+VIRTUDE	(noun) virtue: A creature embodying divine power, specifically one of the orders of heavenly beings, traditionally ranked above angels and archangels, and below seraphim and cherubim.
+VIRTUDES	(noun) plural of virtude: virtue
+VIRTUOSA	(adjective) feminine singular of virtuoso: virtuous\n(noun) female equivalent of virtuoso: virtuous
+VIRTUOSAMENTE	(adverb) virtuously: In a virtuous manner.
+VIRTUOSAS	(adjective) feminine plural of virtuoso: virtuous\n(noun) plural of virtuosa
+VIRTUOSO	(adjective) virtuous: Full of virtue; having excellent moral character.\n(noun) a virtuous person
+VIRTUOSOS	(noun) plural of virtuoso: virtuous\n(adjective) masculine plural of virtuoso: virtuous
+VIRULENCIA	(noun) virulence: The state of being virulent.
+VIRULENTO	(adjective) virulent: Of a disease or disease-causing agent: malignant, able to cause damage to the host.
+VIRUS	(noun) virus: A submicroscopic, non-cellular structure that consists of a core of DNA or RNA surrounded by a protein coat, that requires a living host cell to replicate, and that sometimes causes disease in the host organism (such agents are often classed as nonliving infectious particles and less often as...
+VISADA	(verb) feminine singular of visado
+VISADO	(verb) past participle of visar: to aim
+VISAO	(noun) view: A point of view.
+VISAR	(verb) visar translates to to aim
+VISCERA	(noun) viscera translates to ⟪viscera⟫
+VISCERAL	(adjective) visceral: Of a disease: involving the viscera.
+VISCERALMENTE	(adverb) visceralmente translates to ⟪viscerally⟫
+VISCO	(noun) alternative form of visgo
+VISCONDE	(noun) viscount: A member of the peerage, above a baron but below a count or earl.
+VISCOS	(noun) plural of visco: alternative form of visgo
+VISCOSAMENTE	(adverb) viscosamente translates to ⟪viscously⟫
+VISCOSE	(noun) viscose: A viscous orange-brown liquid obtained by chemical treatment of cellulose and used as the basis of manufacturing rayon and cellulose film.
+VISCOSIDADE	(noun) quality or state of being viscous
+VISCOSO	(adjective) viscous: Having a thick, sticky consistency between solid and liquid (that is, a high viscosity).
+VISEENSE	(adjective) viseense translates to of Viseu\n(noun) native or inhabitant of Viseu
+VISEIRA	(noun) viseira translates to ⟪visor⟫
+VISGO	(noun) viscosity: The state of being viscous.
+VISH	(interjection) alternative spelling of vixe
+VISIBILIDADE	(noun) visibility: The condition of being visible.
+VISIGODO	(adjective) visigodo translates to visigothic\n(noun) one of the Visigoths (East Germanic tribe)
+VISIONARIAMENTE	(adverb) visionariamente translates to visionarily
+VISIONARIO	(adjective) visionary: Someone who has visions; a seer.\n(noun) visionary: Someone who has visions; a seer.
+VISITA	(noun) visit: A single act of visiting.\n(verb) third-person singular present indicative (visitar): to visit
+VISITADO	(verb) past participle of visitar: to visit
+VISITAM	(verb) third-person plural present indicative of visitar: to visit
+VISITAMOS	(verb) first-person plural present indicative (visitar): to visit
+VISITANDO	(verb) gerund of visitar: to visit
+VISITANTE	(adjective) who is visiting\n(noun) visitor: Someone who visits someone else; someone staying as a guest.
+VISITAR	(verb) visitar translates to to visit
+VISITARA	(verb) third-person singular future indicative of visitar: to visit
+VISITARAM	(verb) third-person plural preterite/pluperfect indicative of visitar
+VISITARAO	(verb) third-person plural future indicative of visitar: to visit
+VISITAREI	(verb) first-person singular future indicative of visitar: to visit
+VISITAREM	(verb) third-person plural future subjunctive (visitar): to visit
+VISITAREMOS	(verb) first-person plural future indicative of visitar: to visit
+VISITARIA	(verb) first/third-person singular conditional of visitar: to visit
+VISITARIAM	(verb) third-person plural conditional of visitar: to visit
+VISITARIAMOS	(verb) first-person plural conditional of visitar: to visit
+VISITARMOS	(verb) first-person plural future subjunctive (visitar): to visit
+VISITAS	(verb) second-person singular present indicative of visitar: to visit
+VISITASSE	(verb) first/third-person singular imperfect subjunctive of visitar: to visit
+VISITASSEM	(verb) third-person plural imperfect subjunctive of visitar: to visit
+VISITASSEMOS	(verb) first-person plural imperfect subjunctive of visitar: to visit
+VISITASTE	(verb) second-person singular preterite indicative of visitar: to visit
+VISITAVA	(verb) first/third-person singular imperfect indicative of visitar: to visit
+VISITAVAM	(verb) third-person plural imperfect indicative of visitar: to visit
+VISITAVAMOS	(verb) first-person plural imperfect indicative of visitar: to visit
+VISITE	(verb) first/third-person singular present subjunctive (visitar): to visit
+VISITEI	(verb) first-person singular preterite indicative of visitar: to visit
+VISITEM	(verb) third-person plural present subjunctive (visitar): to visit
+VISITEMOS	(verb) first-person plural present subjunctive (visitar): to visit
+VISITO	(verb) first-person singular present indicative of visitar: to visit
+VISITOU	(verb) third-person singular preterite indicative of visitar: to visit
+VISIVEIS	(adjective) masculine/feminine plural of visível: visible
+VISIVEL	(adjective) visible: Able to be seen.
+VISIVELMENTE	(adverb) visibly: In a visible manner; openly.
+VISLUMBRA	(verb) third-person singular present indicative (vislumbrar): to glimpse
+VISLUMBRADO	(verb) past participle of vislumbrar: to glimpse
+VISLUMBRAM	(verb) third-person plural present indicative of vislumbrar: to glimpse
+VISLUMBRAMOS	(verb) first-person plural present indicative (vislumbrar): to glimpse
+VISLUMBRANDO	(verb) gerund of vislumbrar: to glimpse
+VISLUMBRAR	(verb) vislumbrar translates to to glimpse
+VISLUMBRARAM	(verb) third-person plural preterite/pluperfect indicative of vislumbrar
+VISLUMBRAVA	(verb) first/third-person singular imperfect indicative of vislumbrar: to glimpse
+VISLUMBRE	(noun) glimmer: A faint light; a dim glow.\n(verb) first/third-person singular present subjunctive (vislumbrar): to glimpse
+VISLUMBREI	(verb) first-person singular preterite indicative of vislumbrar: to glimpse
+VISLUMBRES	(verb) second-person singular present subjunctive of vislumbrar: to glimpse
+VISLUMBRO	(verb) first-person singular present indicative of vislumbrar: to glimpse
+VISLUMBROU	(verb) third-person singular preterite indicative of vislumbrar: to glimpse
+VISO	(verb) first-person singular present indicative of visar: to aim
+VISOM	(noun) mink: Any semi-aquatic, carnivorous mammal in the Mustelinae subfamily, similar to weasels, with dark fur, native to Europe and America, of which two species in different genera are extant: the American mink (Neogale vison) and the European mink (Mustela lutreola).
+VISON	(noun) alternative form of visom
+VISSE	(verb) first/third-person singular imperfect subjunctive of ver: to see; to observe
+VISSEM	(verb) third-person plural imperfect subjunctive of ver: to see; to observe
+VISTA	(noun) eyeball: A favourite or pet; the apple of someone's eye. (also: eye)\n(adjective) feminine singular of visto: visa
+VISTAS	(adjective) feminine plural of visto: visa\n(verb) feminine plural of visto: visa
+VISTE	(verb) second-person singular preterite indicative of ver: to see; to observe
+VISTES	(verb) second-person plural preterite indicative of ver: to see; to observe
+VISTO	(noun) visto translates to ⟪visa⟫\n(adjective) which has been seen or observed
+VISTORIA	(noun) inspection: The act of examining something, often closely. (also: survey)
+VISTORIAMOS	(form of vistoriar) (verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTORIANDO	(form of vistoriar) (verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTORIAR	(verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTORIARAM	(form of vistoriar) (verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTORIAS	(noun) plural of vistoria: inspection; survey
+VISTORIE	(form of vistoriar) (verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTORIEI	(form of vistoriar) (verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTORIOU	(form of vistoriar) (verb) survey: To view with a scrutinizing eye; to examine. (also: inspect, overhaul)
+VISTOS	(adjective) masculine plural of visto: visa\n(noun) plural of visto: visa
+VISTOSA	(adjective) feminine singular of vistoso: gaudy, showy, flashy
+VISTOSO	(adjective) flashy: Showy; visually impressive, attention-getting, or appealing. (also: gaudy, showy)
+VISUAL	(adjective) visual translates to ⟪visual⟫\n(noun) look: Physical appearance, visual impression. (also: style)
+VISUALIZAR	(verb) visualizar translates to to view, to visualize
+VISUALIZAÇAO	(noun) visualization: The act of visualizing, or something visualized.
+VISUALMENTE	(adverb) visually: By means of sight.
+VISUOESPACIAL	(adjective) visuoespacial translates to visuospatial
+VITAL	(adjective) vital: Relating to or characteristic of life.
+VITALICIO	(adjective) lifelong: Extending for the entire duration of life.
+VITALIDADE	(noun) vitality: Energy or vigour. (also: vigour)
+VITALISMO	(noun) vitalism: The doctrine that life involves some immaterial "vital force", and cannot be explained scientifically.
+VITALIZAR	(verb) vitalizar translates to ⟪vitalize⟫
+VITALMENTE	(adverb) vitalmente translates to ⟪vitally⟫
+VITAMINA	(noun) vitamina translates to ⟪vitamin⟫
+VITAMINADA	(noun) female equivalent of vitaminado: in shape; healthy
+VITAMINADO	(noun) healthy: Conducive to health. (also: in shape)\n(adjective) that is rich in or has added vitamins; vitaminized
+VITELA	(noun) female equivalent of vitelo (young cow): calf
+VITELO	(noun) calf: A young cow or bull of any bovid, such as domestic cattle or buffalo.
+VITICULTOR	(noun) viticultor translates to winegrower
+VITICULTURA	(noun) viticulture: The agricultural practice of growing vines, particularly grape vines.
+VITILIGO	(noun) vitiligo: The patchy loss of skin pigmentation.
+VITIMA	(noun) victim: One who is harmed or killed by a crime or scam.\n(verb) third-person singular present indicative (vitimar): to victimize
+VITIMAR	(verb) vitimar translates to to victimize
+VITIMAS	(verb) second-person singular present indicative of vitimar: to victimize\n(noun) plural of vítima: victim
+VITIMISMO	(noun) vitimismo translates to victimism, victimhood
+VITIMO	(verb) first-person singular present indicative of vitimar: to victimize
+VITORIA	(noun) victory: The condition or state of having won a battle or competition, or having succeeded in an effort; (countable) an instance of this.\n(verb) third-person singular present indicative
+VITORIANA	(adjective) feminine singular of vitoriano: Victorian
+VITORIANAS	(adjective) feminine plural of vitoriano: Victorian
+VITORIANO	(adjective) vitoriano translates to victorian
+VITORIANOS	(adjective) masculine plural of vitoriano: Victorian
+VITORIAS	(noun) plural of vitória: victory\n(verb) second-person singular present indicative of vitoriar
+VITORIOSA	(adjective) feminine singular of vitorioso: victorious
+VITORIOSAMENTE	(adverb) victoriously: In a victorious manner; as part of a victory.
+VITORIOSO	(adjective) victorious: Of or expressing a sense of victory or triumph.
+VITRAL	(noun) vitral translates to stained glass
+VITREO	(adjective) glassy: Of or like glass, especially in being smooth and somewhat reflective.
+VITRIFICAR	(verb) vitrificar translates to to vitrify
+VITRINE	(noun) vitrine translates to shop window
+VITRINES	(noun) plural of vitrine: shop window
+VITRIOLICO	(adjective) vitriolic: Of or pertaining to vitriol; derived from or resembling vitriol.
+VITROLA	(noun) vitrola translates to record player
+VITUPERADO	(verb) past participle of vituperar: to vituperate; revile; affront; outrage; insult
+VITUPERAR	(verb) affront: To be an affront to; offend. (also: to vituperate, revile)
+VITUPERIO	(noun) offense: A crime or sin. (also: insult)
+VIU	(verb) third-person singular preterite indicative of ver: to see; to observe\n(interjection) used at the beginning or end of a sentence, especially imperative ones, as filler
+VIUVA	(noun) widow: A woman whose spouse (traditionally husband) has died (and who has not remarried); a woman in relation to her late spouse; feminine of widower.\n(verb) third-person singular present indicative
+VIUVO	(adjective) viuvo translates to ⟪widowed⟫\n(noun) widower: A man whose spouse has died (and who has not remarried); a man in relation to his late spouse; masculine of widow.
+VIVA	(adjective) feminine singular of vivo: alive\n(verb) first/third-person singular present subjunctive (viver): to live; to have life
+VIVACIDADE	(noun) vivacity: The quality or state of being vivacious.
+VIVAMENTE	(adverb) in a lively manner
+VIVAR	(verb) vivar translates to to hooray
+VIVAS	(adjective) masculine plural of vivo: alive\n(verb) second-person singular present subjunctive of viver: to live; to have life
+VIVAZ	(adjective) vivaz translates to long-lived
+VIVE	(verb) third-person singular present indicative (viver): to live; to have life
+VIVEIRO	(noun) nursery: A place where anything is fostered and growth promoted.
+VIVENCIA	(verb) third-person singular present indicative (vivenciar): to live [a situation] directly or in practice and be deeply affected or changed by it\n(noun) existence: The state of being, existing, or occurring; beinghood.
+VIVENCIAM	(verb) third-person plural present indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIAMOS	(verb) first-person plural present indicative (vivenciar): to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIANDO	(verb) gerund of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIAR	(verb) to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIARA	(verb) first/third-person singular pluperfect indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIARAM	(verb) third-person plural preterite/pluperfect indicative of vivenciar
+VIVENCIAREMOS	(verb) first-person plural future indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIARMOS	(verb) first-person plural future subjunctive (vivenciar): to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIAVA	(verb) first/third-person singular imperfect indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIE	(verb) first/third-person singular present subjunctive (vivenciar): to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIEI	(verb) first-person singular preterite indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIEM	(verb) third-person plural present subjunctive (vivenciar): to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIO	(verb) first-person singular present indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENCIOU	(verb) third-person singular preterite indicative of vivenciar: to live [a situation] directly or in practice and be deeply affected or changed by it
+VIVENDA	(noun) residence: The place where one lives (resides); one's home.
+VIVENDO	(verb) gerund of viver: to live; to have life
+VIVENTE	(adjective) vivente translates to ⟪living⟫\n(noun) person: A character or part, as in a play; a specific kind or manifestation of individual character, whether in real life, or in literary or dramatic representation; an assumed character. (also: human being)
+VIVER	(verb) to live; to have life\n(noun) life: Existence.
+VIVERAM	(verb) third-person plural preterite/pluperfect indicative of viver
+VIVERES	(noun) viveres translates to food supplies, ⟪provisions⟫\n(verb) second-person singular future subjunctive (viver): to live; to have life
+VIVES	(verb) second-person singular present indicative of viver: to live; to have life
+VIVESSE	(verb) first/third-person singular imperfect subjunctive of viver: to live; to have life
+VIVI	(verb) first-person singular preterite indicative of viver: to live; to have life
+VIVIA	(verb) first/third-person singular imperfect indicative of viver: to live; to have life
+VIVIAM	(verb) third-person plural imperfect indicative of viver: to live; to have life
+VIVIAS	(verb) second-person singular imperfect indicative of viver: to live; to have life
+VIVIDA	(verb) feminine singular of vivido: one who has lived for a long time\n(adjective) feminine singular of vívido: one who has lived for a long time
+VIVIDAMENTE	(adverb) vividly: In a vivid manner.
+VIVIDEZ	(noun) vividness: The quality or state of being vivid.
+VIVIDO	(verb) past participle of viver: to live; to have life\n(adjective) one who has lived for a long time
+VIVIPARO	(adjective) viviparous: of an animal\n(noun) a viviparous animal
+VIVO	(adjective) alive: Aware of; sensitive to.\n(verb) first-person singular present indicative of viver: to live; to have life
+VIVOS	(adjective) masculine plural of vivo: alive\n(noun) plural of vivo: alive
+VIXE	(interjection) expresses surprise or admiration. May or may not be used before 'Mary' for emphasis.
+VIZINHA	(adjective) feminine singular of vizinho: neighbouring; adjacent\n(noun) female equivalent of vizinho (“neighbor”): neighbouring; adjacent
+VIZINHANÇA	(noun) neighborhood: A set containing an open set which contains some specified point.
+VIZINHANÇAS	(noun) plural of vizinhança: neighborhood
+VIZINHO	(adjective) vizinho translates to ⟪neighbouring⟫, ⟪adjacent⟫\n(noun) vizinho translates to ⟪neighbor⟫
+VIZINHOS	(adjective) masculine plural of vizinho: neighbouring; adjacent\n(noun) plural of vizinho: neighbouring; adjacent
+VIÇO	(noun) viço translates to ⟪luxuriance⟫, ⟪lushness⟫
+VIÇOSA	(adjective) feminine singular of viçoso: luxuriant, lush
+VIÇOSO	(adjective) lush: Juicy, succulent. (also: luxuriant)
+VLOG	(noun) vlog translates to vlog
+VLOGAR	(verb) vlogar translates to to vlog
+VLOGUE	(noun) alternative spelling of vlog
+VLOGUEIRO	(noun) vlogueiro translates to vlogger
+VOA	(verb) third-person singular present indicative (voar): to fly
+VOADOR	(adjective) flying: That flies or can fly.
+VOADORA	(adjective) feminine singular of voador: flying\n(noun) a flying, usually high kick
+VOADORAS	(adjective) feminine plural of voador: flying
+VOADORES	(adjective) masculine plural of voador: flying
+VOAM	(verb) third-person plural present indicative of voar: to fly
+VOANDO	(verb) gerund of voar: to fly
+VOAR	(verb) voar translates to to fly
+VOAVA	(verb) first/third-person singular imperfect indicative of voar: to fly
+VOCABULARIO	(noun) vocabulary: The words of a language collectively; lexis.
+VOCABULARIOS	(noun) plural of vocabulário: vocabulary
+VOCABULARMENTE	(adverb) vocabularmente translates to vocabularly
+VOCABULO	(noun) vocable: A syllable or sound without specific meaning, used together with or in place of actual words in a song.
+VOCABULOS	(noun) plural of vocábulo: vocable
+VOCACIONADAMENTE	(adverb) vocacionadamente translates to ⟪vocationally⟫
+VOCACIONALMENTE	(adverb) vocacionalmente translates to ⟪vocationally⟫
+VOCAL	(adjective) vocal: Of, pertaining to, or resembling the human voice or speech.\n(noun) vocal translates to ⟪vocalist⟫
+VOCALICAMENTE	(adverb) vocalicamente translates to vocalically
+VOCALICO	(adjective) vocalic: Pertaining to a vowel.
+VOCALISMO	(noun) vocalism: The vowels, sequence of vowels, or the quality peculiar to the vowels of a given word or group of words.
+VOCALISTA	(noun) vocalist: A singer; a person who likes to sing.
+VOCALISTAS	(noun) plural of vocalista: vocalist
+VOCALIZAR	(verb) vocalizar translates to to voice, to express
+VOCALIZAÇAO	(noun) vocalization: The act of vocalizing or something vocalized; a vocal utterance
+VOCALIZAÇOES	(noun) plural of vocalização: vocalization
+VOCALMENTE	(adverb) vocally: In a vocal manner.
+VOCATIVO	(noun) vocativo translates to vocative case
+VOCAÇAO	(noun) vocaçao translates to ⟪vocation⟫
+VOCE	(pronoun) second-person singular personal pronoun, formal or informal in Brazil, formal or semi-formal in Portugal; you
+VOCES	(pronoun) you: The person spoken to or written to, as a subject. (Originally as a mark of respect.)
+VOCIFERANDO	(verb) gerund of vociferar: to vociferate
+VOCIFERAR	(verb) vociferar translates to to vociferate
+VOCIFERAVA	(verb) first/third-person singular imperfect indicative of vociferar: to vociferate
+VOCIFEROU	(verb) third-person singular preterite indicative of vociferar: to vociferate
+VODCA	(noun) alternative form of vodka
+VODCAS	(noun) plural of vodca: alternative form of vodka
+VODKA	(noun) vodka: A serving of the above beverage.
+VODKAS	(noun) plural of vodka: vodka
+VODU	(noun) voodoo: The spiritual beliefs of the Ewe/Fon of West Africa, practiced chiefly in Benin and in the south of Togo.
+VOE	(verb) first/third-person singular present subjunctive (voar): to fly
+VOEJAR	(verb) to almost fly, to glide
+VOGA	(noun) voga translates to ⟪vogue⟫\n(verb) third-person singular present indicative (vogar): to sail, to row
+VOGAIS	(adjective) plural of vogal: vocalic\n(noun) plural of vogal: vocalic
+VOGAL	(adjective) vogal translates to ⟪vocalic⟫\n(noun) vowel: A sound produced by the vocal cords with relatively little restriction of the oral cavity, forming the prominent sound of a syllable.
+VOGAR	(verb) vogar translates to to sail, to row
+VOIVODA	(noun) voivoda translates to voivode
+VOLANTE	(adjective) flying: That flies or can fly.\n(noun) volante translates to steering wheel
+VOLAPUQUE	(noun) volapuque translates to volapük
+VOLATIL	(adjective) volatile: Of a situation potentially violent.\n(noun) an animal that can fly
+VOLATILIDADE	(noun) volatility: The state of being volatile.
+VOLATILIZAR	(verb) volatilizar translates to to volatilize, vapourize
+VOLATIM	(noun) volatim translates to tightrope walker, ⟪funambulist⟫
+VOLEI	(noun) volleyball: A game played on a rectangular court between two teams of two to six players which involves striking a ball back and forth over a net.
+VOLEIBOL	(noun) volleyball: A game played on a rectangular court between two teams of two to six players which involves striking a ball back and forth over a net.
+VOLEIBOLISTA	(noun) voleibolista translates to volleyball player, volleyballer
+VOLEIO	(noun) volley: The flight of a ball just before it bounces.
+VOLFRAMIO	(noun) tungsten: Any of various commercially available alloys principally of tungsten.
+VOLITAR	(verb) to almost fly, to glide
+VOLITIVAMENTE	(adverb) volitivamente translates to volitively
+VOLITIVO	(adjective) voluntary: Of or relating to voluntarism.
+VOLIÇAO	(noun) volition: A conscious choice or decision.
+VOLLEYBALL	(noun) dated form of voleibol
+VOLOVA	(noun) volova translates to vol-au-vent
+VOLT	(noun) volt: volt
+VOLTA	(noun) return: The act of returning.\n(verb) third-person singular present indicative (voltar): to return; to come back
+VOLTADO	(verb) past participle of voltar: to return; to come back
+VOLTAGEM	(noun) voltage: The difference in electrostatic potential between two points in space, especially between live and neutral conductors or the earth.
+VOLTAI	(verb) second-person plural imperative of voltar: to return; to come back
+VOLTAICO	(adjective) voltaic: Of, relating to, or producing electricity.
+VOLTAM	(verb) third-person plural present indicative of voltar: to return; to come back
+VOLTAMOS	(verb) first-person plural present indicative (voltar): to return; to come back
+VOLTANDO	(verb) gerund of voltar: to return; to come back
+VOLTAR	(verb) to return; to come back
+VOLTARA	(verb) first/third-person singular pluperfect indicative of voltar: to return; to come back
+VOLTARAO	(verb) third-person plural future indicative of voltar: to return; to come back
+VOLTARAS	(verb) second-person singular pluperfect indicative of voltar: to return; to come back
+VOLTAREI	(verb) first-person singular future indicative of voltar: to return; to come back
+VOLTAREM	(verb) third-person plural future subjunctive (voltar): to return; to come back
+VOLTAREMOS	(verb) first-person plural future indicative of voltar: to return; to come back
+VOLTARES	(verb) second-person singular future subjunctive (voltar): to return; to come back
+VOLTARIAMOS	(verb) first-person plural conditional of voltar: to return; to come back
+VOLTARIAS	(verb) second-person singular conditional of voltar: to return; to come back
+VOLTARMOS	(verb) first-person plural future subjunctive (voltar): to return; to come back
+VOLTAS	(noun) plural of volta: return\n(verb) second-person singular present indicative of voltar: to return; to come back
+VOLTASSEM	(verb) third-person plural imperfect subjunctive of voltar: to return; to come back
+VOLTASSEMOS	(verb) first-person plural imperfect subjunctive of voltar: to return; to come back
+VOLTASSES	(verb) second-person singular imperfect subjunctive of voltar: to return; to come back
+VOLTASTE	(verb) second-person singular preterite indicative of voltar: to return; to come back
+VOLTASTES	(verb) second-person plural preterite indicative of voltar: to return; to come back
+VOLTAVA	(verb) first/third-person singular imperfect indicative of voltar: to return; to come back
+VOLTAVAM	(verb) third-person plural imperfect indicative of voltar: to return; to come back
+VOLTAVAMOS	(verb) first-person plural imperfect indicative of voltar: to return; to come back
+VOLTAVAS	(verb) second-person singular imperfect indicative of voltar: to return; to come back
+VOLTE	(verb) first/third-person singular present subjunctive (voltar): to return; to come back
+VOLTEI	(verb) first-person singular preterite indicative of voltar: to return; to come back
+VOLTEIS	(verb) second-person plural present subjunctive of voltar: to return; to come back
+VOLTEM	(verb) third-person plural present subjunctive (voltar): to return; to come back
+VOLTEMOS	(verb) first-person plural present subjunctive (voltar): to return; to come back
+VOLTES	(verb) second-person singular present subjunctive of voltar: to return; to come back
+VOLTIMETRO	(noun) voltmeter: An instrument for measuring electric potential in volts.
+VOLTIO	(noun) rare form of volt: volt
+VOLTO	(verb) first-person singular present indicative of voltar; "I go back, I return": to return; to come back
+VOLTOU	(verb) third-person singular preterite indicative of voltar: to return; to come back
+VOLTS	(noun) plural of volt: volt
+VOLUBILIDADE	(noun) volubility: the state of being voluble
+VOLUME	(noun) volume: A great amount (of meaning) about something.
+VOLUMETRICAMENTE	(adverb) volumetricamente translates to ⟪volumetrically⟫
+VOLUMETRICO	(adjective) volumetric: Pertaining to measurement by volume.
+VOLUMOSA	(adjective) feminine singular of volumoso: bulky
+VOLUMOSAMENTE	(adverb) volumosamente translates to ⟪voluminously⟫
+VOLUMOSO	(adjective) bulky: Being large in size, mass, or volume; big, fat or muscular.
+VOLUNTARIA	(adjective) feminine singular of voluntário: volunteer
+VOLUNTARIADO	(noun) volunteering: The act of voluntarily giving time and labor for charity or community service. (also: voluntary work)
+VOLUNTARIAMENTE	(adverb) voluntarily: In a voluntary manner, particularly
+VOLUNTARIO	(noun) volunteer: A person who acts out of their own will without a legal obligation, such as a donor.\n(adjective) voluntary: Of or relating to voluntarism.
+VOLUNTARISMO	(noun) voluntarism: A doctrine that assigns the most dominant position to the will rather than the intellect.
+VOLUNTARISTICAMENTE	(adverb) voluntaristicamente translates to voluntaristically
+VOLUPIA	(noun) lasciviousness: The characteristic or state of being lascivious. (also: lust)
+VOLUPTUARIO	(adjective) voluptuario translates to ⟪voluptuous⟫
+VOLUPTUOSA	(adjective) feminine singular of voluptuoso: voluptuous
+VOLUPTUOSAMENTE	(adverb) voluptuously: In a voluptuous manner.
+VOLUPTUOSIDADE	(noun) voluptuousness: The quality of being voluptuous.
+VOLUPTUOSO	(adjective) voluptuous: Characterized or marked by full, generous, pleasurable sensation.
+VOLUVEL	(adjective) fickle: Changeable.
+VOMER	(noun) vomer translates to vomer bone
+VOMICO	(adjective) emetic: Causing nausea and vomiting.
+VOMITAM	(verb) third-person plural present indicative of vomitar: to vomit
+VOMITAMOS	(verb) first-person plural present indicative (vomitar): to vomit
+VOMITANDO	(verb) gerund of vomitar: to vomit
+VOMITAR	(verb) vomitar translates to to vomit
+VOMITARA	(verb) third-person singular future indicative of vomitar: to vomit
+VOMITARAM	(verb) third-person plural preterite/pluperfect indicative of vomitar
+VOMITARAO	(verb) third-person plural future indicative of vomitar: to vomit
+VOMITAREI	(verb) first-person singular future indicative of vomitar: to vomit
+VOMITAREM	(verb) third-person plural future subjunctive (vomitar): to vomit
+VOMITAREMOS	(verb) first-person plural future indicative of vomitar: to vomit
+VOMITARIA	(verb) first/third-person singular conditional of vomitar: to vomit
+VOMITARIAM	(verb) third-person plural conditional of vomitar: to vomit
+VOMITARMOS	(verb) first-person plural future subjunctive (vomitar): to vomit
+VOMITASSE	(verb) first/third-person singular imperfect subjunctive of vomitar: to vomit
+VOMITASSEM	(verb) third-person plural imperfect subjunctive of vomitar: to vomit
+VOMITASTE	(verb) second-person singular preterite indicative of vomitar: to vomit
+VOMITAVA	(verb) first/third-person singular imperfect indicative of vomitar: to vomit
+VOMITAVAM	(verb) third-person plural imperfect indicative of vomitar: to vomit
+VOMITAVAMOS	(verb) first-person plural imperfect indicative of vomitar: to vomit
+VOMITE	(verb) first/third-person singular present subjunctive (vomitar): to vomit
+VOMITEI	(verb) first-person singular preterite indicative of vomitar: to vomit
+VOMITEM	(verb) third-person plural present subjunctive (vomitar): to vomit
+VOMITES	(verb) second-person singular present subjunctive of vomitar: to vomit
+VOMITO	(verb) first-person singular present indicative of vomitar: to vomit\n(noun) vomit: The act of vomiting.
+VOMITOU	(verb) third-person singular preterite indicative of vomitar: to vomit
+VONTADE	(noun) will; the condition of feeling like or wanting something
+VONTADES	(noun) plural of vontade: will; the condition of feeling like or wanting something
+VOO	(noun) pre-reform spelling (used until 1990) of voo; may still occur as a sporadic misspelling\n(verb) pre-reform spelling (used until 1990) of voo; may still occur as a sporadic misspelling
+VOOS	(noun) plural of vôo: pre-reform spelling of voo; may still occur as a sporadic misspelling
+VOOU	(verb) third-person singular preterite indicative of voar: to fly
+VORAGEM	(noun) whirlpool: A state of turmoil or agitated excitement.
+VORAZ	(adjective) voraz translates to ⟪voracious⟫
+VORAZMENTE	(adverb) voraciously: In a voracious manner.
+VORTICE	(noun) vortex: A whirlwind, whirlpool, or similarly moving matter in the form of a spiral or column.
+VOS	(noun) plural of vó\n(pronoun) objective of vós
+VOSSA	(pronoun) feminine singular of vosso: yours\n(noun) feminine of vosso: yours
+VOSSAS	(pronoun) feminine plural of vosso: yours\n(noun) feminine plural of vosso: yours
+VOSSO	(pronoun) yours: That or those belonging to you; the possessive second-person singular pronoun used without a following noun.\n(noun) yours: That or those belonging to you; the possessive second-person singular pronoun used without a following noun.
+VOSSOS	(pronoun) masculine plural of vosso: yours\n(noun) folks: The members of one's immediate family, especially one's parents (also: your  kin, fellows)
+VOTADO	(verb) past participle of votar: to vote
+VOTAM	(verb) third-person plural present indicative of votar: to vote
+VOTAMOS	(verb) first-person plural present indicative (votar): to vote
+VOTANDO	(verb) gerund of votar: to vote
+VOTANTE	(adjective) voting or having the right to vote\n(noun) voter: Someone who votes or is entitled to vote.
+VOTAR	(verb) votar translates to to vote
+VOTARA	(verb) first/third-person singular pluperfect indicative of votar: to vote
+VOTARAM	(verb) third-person plural preterite/pluperfect indicative of votar
+VOTARAO	(verb) third-person plural future indicative of votar: to vote
+VOTAREI	(verb) first-person singular future indicative of votar: to vote
+VOTAREM	(verb) third-person plural future subjunctive (votar): to vote
+VOTAREMOS	(verb) first-person plural future indicative of votar: to vote
+VOTARIA	(verb) first/third-person singular conditional of votar: to vote
+VOTARIAM	(verb) third-person plural conditional of votar: to vote
+VOTARIAMOS	(verb) first-person plural conditional of votar: to vote
+VOTARMOS	(verb) first-person plural future subjunctive (votar): to vote
+VOTASSE	(verb) first/third-person singular imperfect subjunctive of votar: to vote
+VOTASSEM	(verb) third-person plural imperfect subjunctive of votar: to vote
+VOTASSEMOS	(verb) first-person plural imperfect subjunctive of votar: to vote
+VOTAVA	(verb) first/third-person singular imperfect indicative of votar: to vote
+VOTAVAM	(verb) third-person plural imperfect indicative of votar: to vote
+VOTAÇAO	(noun) votaçao translates to ⟪voting⟫
+VOTE	(verb) first/third-person singular present subjunctive (votar): to vote
+VOTEI	(verb) first-person singular preterite indicative of votar: to vote
+VOTEM	(verb) third-person plural present subjunctive (votar): to vote
+VOTEMOS	(verb) first-person plural present subjunctive (votar): to vote
+VOTES	(verb) second-person singular present subjunctive of votar: to vote
+VOTIACO	(adjective) votiaco translates to udmurt\n(noun) votiaco translates to udmurt
+VOTIVO	(adjective) votive: Of, expressing, or symbolizing a vow. Often used to describe thick cylindrical candles found in many churches, lit when making a private vow or asking a private intention.
+VOTO	(noun) vote: A formalized choice on legally relevant measures such as employment or appointment to office or a proceeding about a legal dispute.\n(verb) first-person singular present indicative of votar: to vote
+VOTOS	(noun) plural of voto: vote
+VOTOU	(verb) third-person singular preterite indicative of votar: to vote
+VOVO	(noun) granny: A grandmother.
+VOXEL	(noun) voxel translates to voxel
+VOZ	(noun) voice: The tone or sound emitted by an object.
+VOZEADO	(verb) past participle of vozear: to speak loudly or to shout
+VOZEAR	(verb) to speak loudly or to shout
+VOZEARIA	(noun) clamor: A great outcry or vociferation; loud and continued shouting or exclamation.\n(verb) first/third-person singular conditional of vozear: to speak loudly or to shout
+VOZEIRAO	(noun) vozeirao translates to loud voice
+VOZERIA	(noun) vozeria translates to hustle and bustle
+VOZERIO	(noun) clamor: A great outcry or vociferation; loud and continued shouting or exclamation.
+VOZES	(noun) plural of voz: voice
+VOÇOROCA	(noun) voçoroca translates to ⟪gully⟫
+VRUM	(interjection) vroom: The sound of an engine, especially when it is revving up.
+VULCANICAMENTE	(adverb) volcanically: By means of a volcano.
+VULCANICO	(adjective) volcanic: Of or pertaining to a volcano or volcanoes.
+VULCANIZAÇAO	(noun) vulcanization: A process by which rubber is hardened using heat and sulphur.
+VULCANOLOGO	(noun) vulcanologo translates to volcanologist, vulcanologist
+VULCAO	(noun) volcano: A vent or fissure on the surface of a planet (usually in a mountainous form) with a magma chamber attached to the mantle of a planet or moon, periodically erupting forth lava and volcanic gases onto the surface.
+VULGAR	(adjective) common to the people, vulgar
+VULGARES	(adjective) masculine/feminine plural of vulgar: common to the people, vulgar
+VULGARIDADE	(noun) commonness, the quality of being common or vulgar
+VULGARIDADES	(noun) plural of vulgaridade: commonness, the quality of being common or vulgar
+VULGARIZADO	(adjective) vulgarizado translates to ⟪vulgarized⟫\n(verb) past participle of vulgarizar: to vulgarise
+VULGARIZAR	(verb) vulgarizar translates to to vulgarise
+VULGARMENTE	(adverb) commonly: As a rule; frequently; usually.
+VULGIVAGO	(adjective) corrupt: In a depraved state; debased; perverted; morally degenerate; weak in morals. (also: contemptible, despicable)
+VULGO	(noun) the common people; the masses\n(adverb) introduces a colloquial synonym, or a nickname; informally or commonly known as
+VULNERABILIDADE	(noun) vulnerability: A specific weakness in the protections or defences that (literally or figuratively) surround someone or something.
+VULNERAVEL	(adjective) vulnerable: More or most likely to be exposed to the chance of being attacked or harmed, either physically or emotionally.
+VULPINO	(adjective) vulpine: Pertaining to a fox.
+VULTO	(noun) aspect: One's appearance or expression.
+VULTOSAMENTE	(adverb) substantially: In a strong or substantial manner; considerably.
+VULTOSO	(adjective) big: Of great size, large. (also: bulky, great)
+VULTUOSO	(adjective) having swollen and congested lips and eyes
+VULVA	(noun) vulva: The external female genitalia of humans and other placental mammals, which includes the clitoris, labia, and vulval vestibule/vulvar opening.
+VULVITE	(noun) vulvitis: An often painful inflammation of the vulva.
+VUVUZELA	(noun) vuvuzela translates to vuvuzela
+VUVUZELAS	(noun) plural of vuvuzela: vuvuzela
