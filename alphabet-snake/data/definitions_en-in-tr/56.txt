@@ -1,0 +1,721 @@
+VACANCIES	(ad) çoğul çekimi: vacancy
+VACANCY	(ad) vacancy kelimesinin karşılığı: boş yer
+VACATION	(ad) tatil: eğlenme, dinlenme amacıyla çalışmaksızın geçirilen süre (ayrıca: izin)
+VACATIONED	(vacation sözcüğünün çekimi) (ad) tatil: eğlenme, dinlenme amacıyla çalışmaksızın geçirilen süre (ayrıca: izin)
+VACATIONERS	(ad) çoğul çekimi: vacationer
+VACATIONING	(vacation sözcüğünün çekimi) (ad) tatil: eğlenme, dinlenme amacıyla çalışmaksızın geçirilen süre (ayrıca: izin)
+VACATIONISTS	(ad) çoğul çekimi: vacationist
+VACATIONS	(ad) vacation sözcüğünün çoğul çekimi: tatil; izin
+VACCINATE	(eylem) aşılamak: vücutta bağışıklık yaratmak veya yerleşmiş bir hastalığa karşı koyabilmek için hazırlanmış bir aşıyı vücuda vermek, aşı yapmak, aşı vurmak
+VACCINATED	(vaccinate sözcüğünün çekimi) (eylem) aşılamak: vücutta bağışıklık yaratmak veya yerleşmiş bir hastalığa karşı koyabilmek için hazırlanmış bir aşıyı...
+VACCINATES	(vaccinate sözcüğünün çekimi) (eylem) aşılamak: vücutta bağışıklık yaratmak veya yerleşmiş bir hastalığa karşı koyabilmek için hazırlanmış bir aşıyı...
+VACCINATING	(vaccinate sözcüğünün çekimi) (eylem) aşılamak: vücutta bağışıklık yaratmak veya yerleşmiş bir hastalığa karşı koyabilmek için hazırlanmış bir aşıyı...
+VACCINATION	(ad) vaccination kelimesinin karşılığı: ⟪aşılama|AŞILAMA⟫
+VACCINATIONS	(vaccination sözcüğünün çekimi) (ad) vaccination kelimesinin karşılığı: ⟪aşılama|AŞILAMA⟫
+VACCINE	(ad) aşı: birtakım hastalıklara karşı bağışıklık sağlamak için vücuda verilen, o hastalığın mikrobuyla hazırlanmış eriyik
+VACCINES	(vaccine sözcüğünün çekimi) (ad) aşı: birtakım hastalıklara karşı bağışıklık sağlamak için vücuda verilen, o hastalığın mikrobuyla hazırlanmış...
+VACILLATIONS	(ad) çoğul çekimi: vacillation
+VACUA	(vacuum sözcüğünün çekimi) (ad) boşluk: boş olma durumu
+VACUOLES	(ad) çoğul çekimi: vacuole
+VACUOUS	(sıfat) anlamsız: anlamlı olmayan, önemli bir şey anlatmayan, manasız, beyhude, boş, içsiz, yersiz, gıcırı bükme, ipsiz sapsız (ayrıca: içi boş, manasız)
+VACUUM	(ad) boşluk: boş olma durumu
+VACUUMED	(vacuum sözcüğünün çekimi) (ad) boşluk: boş olma durumu
+VACUUMING	(vacuum sözcüğünün çekimi) (ad) boşluk: boş olma durumu
+VACUUMS	(vacuum sözcüğünün çekimi) (ad) boşluk: boş olma durumu
+VAGABONDS	(ad) çoğul çekimi: vagabond
+VAGARIES	(ad) çoğul çekimi: vagary
+VAGINA	(ad) vajina: dişilik organı. (ayrıca: vajen, döl yolu)
+VAGINAE	(vagina sözcüğünün çekimi) (ad) vajina: dişilik organı. (ayrıca: vajen, döl yolu)
+VAGINAS	(ad) çoğul çekimi: vagina
+VAGINISMUS	(ad) vajinismus: Cinsel ilişki sırasında kadının vajen kaslarını istemsiz bir biçimde kasması sonucunda cinsel birleşmenin hiç olamaması ya da çok zor gerçekleşmesi durumu.
+VAGINISMUSES	(ad) çoğul çekimi: vaginismus
+VAGRANT	(ad) serseri: (mecaz) belli bir hedefi olmayan, belli bir hedefe atılmamış olan, rastlantıyla gelen (ayrıca: avare)
+VAGRANTS	(ad) çoğul çekimi: vagrant
+VAGUE	(ad) vague kelimesinin karşılığı: ⟪bulanık|BULANIK⟫\n(sıfat) belirsiz: belirli olmayan, belgisiz, gayrimuayyen, vuzuhsuz
+VAGUELY	(zarf) vaguely kelimesinin karşılığı: belli belirsiz
+VAGUER	(vague sözcüğünün çekimi) (ad) vague kelimesinin karşılığı: ⟪bulanık|BULANIK⟫
+VAGUEST	(vague sözcüğünün çekimi) (ad) vague kelimesinin karşılığı: ⟪bulanık|BULANIK⟫
+VAIN	(sıfat) beyhude: yararsız, anlamsız (ayrıca: boşuna)
+VAINER	(vain sözcüğünün çekimi) (sıfat) beyhude: yararsız, anlamsız (ayrıca: boşuna)
+VAINEST	(vain sözcüğünün çekimi) (sıfat) beyhude: yararsız, anlamsız (ayrıca: boşuna)
+VALANCES	(ad) çoğul çekimi: valance
+VALE	(ad) koyak: karalarda akarsu aşındırmasıyla oluşmuş, bir yöne doğru eğimli, uzunluğuna çukurluk (ayrıca: vadi)
+VALEDICTIONS	(ad) çoğul çekimi: valediction
+VALEDICTORIANS	(ad) çoğul çekimi: valedictorian
+VALEDICTORIES	(ad) çoğul çekimi: valedictory
+VALENCE	(ad) valence kelimesinin karşılığı: birleşim değeri
+VALENCES	(valence sözcüğünün çekimi) (ad) valence kelimesinin karşılığı: birleşim değeri
+VALENCIES	(ad) çoğul çekimi: valency
+VALENTINES	(ad) çoğul çekimi: valentine
+VALERIAN	(ad) valerian kelimesinin karşılığı: kedi otu
+VALERIANS	(valerian sözcüğünün çekimi) (ad) valerian kelimesinin karşılığı: kedi otu
+VALES	(ad) çoğul çekimi: vale
+VALETUDINARIANS	(ad) çoğul çekimi: valetudinarians
+VALID	(ad) geçerli: yürürlükte olan, uygulanan, meri, muteber
+VALIDATE	(eylem) validate kelimesinin karşılığı: geçerli kılmak
+VALIDATED	(validate sözcüğünün çekimi) (eylem) validate kelimesinin karşılığı: geçerli kılmak
+VALIDATES	(validate sözcüğünün çekimi) (eylem) validate kelimesinin karşılığı: geçerli kılmak
+VALIDATING	(validate sözcüğünün çekimi) (eylem) validate kelimesinin karşılığı: geçerli kılmak
+VALIDATION	(ad) validation kelimesinin karşılığı: ⟪geçerleme|GEÇERLEME⟫
+VALIDATIONS	(validation sözcüğünün çekimi) (ad) validation kelimesinin karşılığı: ⟪geçerleme|GEÇERLEME⟫
+VALIDITIES	(validity sözcüğünün çekimi) (ad) geçerlik: yürürlükte olma, değerini sürdürme durumu, revaç, valör (ayrıca: geçerlilik)
+VALIDITY	(ad) geçerlik: yürürlükte olma, değerini sürdürme durumu, revaç, valör (ayrıca: geçerlilik)
+VALLEY	(ad) koyak: karalarda akarsu aşındırmasıyla oluşmuş, bir yöne doğru eğimli, uzunluğuna çukurluk (ayrıca: vadi)
+VALLEYS	(ad) valley sözcüğünün çoğul çekimi: vadi, koyak
+VALUABLE	(sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALUABLES	(valuable sözcüğünün çekimi) (sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALUATION	(ad) tahmin: yaklaşık olarak değerlendirme
+VALUATIONS	(ad) çoğul çekimi: valuation
+VALUATORS	(ad) çoğul çekimi: valuator
+VALUE	(ad) değer: matematik Bir değişkenin veya bilin
+VALUED	(value sözcüğünün çekimi) (ad) değer: matematik Bir değişkenin veya bilin
+VALUERS	(ad) çoğul çekimi: valuer
+VALUES	(ad) value sözcüğünün çoğul çekimi: değer
+VALUING	(value sözcüğünün çekimi) (ad) değer: matematik Bir değişkenin veya bilin
+VALVE	(ad) vana: boru içindeki bir akışkanın akışını durdurmaya veya serbest bırakmaya yarayan alet, valf (ayrıca: valf)
+VALVELETS	(ad) çoğul çekimi: valvelet
+VALVES	(valve sözcüğünün çekimi) (ad) vana: boru içindeki bir akışkanın akışını durdurmaya veya serbest bırakmaya yarayan alet, valf (ayrıca: valf)
+VALVING	(valve sözcüğünün çekimi) (ad) vana: boru içindeki bir akışkanın akışını durdurmaya veya serbest bırakmaya yarayan alet, valf (ayrıca: valf)
+VALVULES	(ad) çoğul çekimi: valvule
+VAMBRACES	(ad) çoğul çekimi: vambrace
+VAMP	(sıfat) vamp kelimesinin karşılığı: ⟪vamp|VAMP⟫, seksi kadın
+VAMPED	(vamp sözcüğünün çekimi) (sıfat) vamp kelimesinin karşılığı: ⟪vamp|VAMP⟫, seksi kadın
+VAMPING	(vamp sözcüğünün çekimi) (sıfat) vamp kelimesinin karşılığı: ⟪vamp|VAMP⟫, seksi kadın
+VAMPIRE	(ad) vampir: Varlığını devam ettirebilmek için yaşayanların kanını içtiğine inanılan efsanevi yaratık
+VAMPIRES	(vampire sözcüğünün çekimi) (ad) vampir: Varlığını devam ettirebilmek için yaşayanların kanını içtiğine inanılan efsanevi yaratık
+VAMPS	(ad) çoğul çekimi: vamp
+VAN	(ad) van kelimesinin karşılığı: ⟪minibüs|MİNİBÜS⟫
+VANADATES	(ad) çoğul çekimi: vanadate
+VANDALS	(ad) çoğul çekimi: vandal
+VANE	(ad) rüzgârgülü: kâğıdın özel bir biçimde katlanmasıyla yapılan ve rüzgârın etkisiyle dönen bir oyuncak
+VANES	(ad) çoğul çekimi: vane
+VANGS	(ad) çoğul çekimi: vang
+VANGUARDS	(ad) çoğul çekimi: vanguard
+VANILLA	(ad) vanilla kelimesinin karşılığı: ⟪vanilya|VANİLYA⟫
+VANILLAS	(vanilla sözcüğünün çekimi) (ad) vanilla kelimesinin karşılığı: ⟪vanilya|VANİLYA⟫
+VANILLINS	(ad) çoğul çekimi: vanillin
+VANISHING	(eylem) vanish sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+VANITIES	(ad) çoğul çekimi: vanity
+VANNED	(van sözcüğünün çekimi) (ad) van kelimesinin karşılığı: ⟪minibüs|MİNİBÜS⟫
+VANS	(ad) van sözcüğünün çoğul çekimi: minibüs
+VAPOR	(ad) buhar: ısı etkisiyle sıvıların kimi katı maddelerin geçtikleri gaz durumu, islim, istim
+VAPORIZERS	(ad) çoğul çekimi: vaporizer
+VAPORS	(ad) çoğul çekimi: vapor
+VAPOUR	(ad) buhar: ısı etkisiyle sıvıların kimi katı maddelerin geçtikleri gaz durumu, islim, istim
+VAPOURS	(ad) çoğul çekimi: vapour
+VAQUEROS	(ad) çoğul çekimi: vaquero
+VARIABILITIES	(ad) çoğul çekimi: variability
+VARIABILITY	(ad) variability kelimesinin karşılığı: ⟪çeşitlilik|ÇEŞİTLİLİK⟫
+VARIABLE	(ad) değişken: Sembolik bir ifade veya bir niceliğin depolanabileceği bir yeri, alanı ifade eder.
+VARIABLES	(variable sözcüğünün çekimi) (ad) değişken: Sembolik bir ifade veya bir niceliğin depolanabileceği bir yeri, alanı ifade eder.
+VARIANCE	(ad) değişme: yerine başka şey veya kimse gelme
+VARIANCES	(variance sözcüğünün çekimi) (ad) değişme: yerine başka şey veya kimse gelme
+VARIANT	(ad) varyant: Masal, efsane, bilmece, oyun, gelenek vb. bir metnin, bir eserin, bir olayın aslından az çok ayrılan değişik biçimli olanı; değişke. (ayrıca: değişik biçim)
+VARIANTS	(ad) çoğul çekimi: variant
+VARIATION	(ad) varyasyon: Değişik biçim, varyete (ayrıca: değişkenlik)
+VARIATIONS	(variation sözcüğünün çekimi) (ad) varyasyon: Değişik biçim, varyete (ayrıca: değişkenlik)
+VARICELLA	(ad) suçiçeği: genellikle çocuklarda görülen döküntülü, bulaşıcı, salgın hastalık, âbile
+VARICELLAS	(varicella sözcüğünün çekimi) (ad) suçiçeği: genellikle çocuklarda görülen döküntülü, bulaşıcı, salgın hastalık, âbile
+VARIED	(ad) varied kelimesinin karşılığı: ⟪türlü|TÜRLÜ⟫
+VARIEDLY	(vary sözcüğünün çekimi) (eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca:...
+VARIEGATED	(sıfat) rengârenk: çeşitli renkleri olan, renk renk (ayrıca: ala, alaca)
+VARIES	(vary sözcüğünün çekimi) (eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca:...
+VARIETALS	(ad) çoğul çekimi: varietal
+VARIETIES	(ad) çoğul çekimi: variety
+VARIETY	(ad) variety kelimesinin karşılığı: ⟪değişke|DEĞİŞKE⟫
+VARIOLA	(ad) çiçek: İrinli kabarcıklar dökerek yüzde izler bırakan ateşli, ağır ve bulaşıcı bir hastalık. (ayrıca: çiçek hastalığı)
+VARIOLAS	(variola sözcüğünün çekimi) (ad) çiçek: İrinli kabarcıklar dökerek yüzde izler bırakan ateşli, ağır ve bulaşıcı bir hastalık. (ayrıca: çiçek...
+VARIOMETERS	(ad) çoğul çekimi: variometer
+VARIORUMS	(ad) çoğul çekimi: variorum
+VARIOUS	(sıfat) various kelimesinin karşılığı: ⟪ayrı|AYRI⟫, çeşit çeşit\n(ad) various kelimesinin karşılığı: ⟪türlü|TÜRLÜ⟫
+VARLETS	(ad) çoğul çekimi: varlet
+VARMINTS	(ad) çoğul çekimi: varmint
+VARNAS	(ad) çoğul çekimi: varna
+VARNISH	(ad) vernik: Sürüldüğü yüzeyde parlak, kaygan ve koruyucu bir tabaka meydana getiren, suya dayanıklı bir tür cila maddesi.\n(eylem) verniklemek: Vernik sürmek, vernik ile kaplamak.
+VARNISHED	(eylem) varnish sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: vernik
+VARNISHES	(ad) varnish sözcüğünün çoğul çekimi: vernik\n(eylem) varnish sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: vernik
+VARNISHING	(eylem) varnish sözcüğünün şimdiki zaman ortaç ve gerund çekimi: vernik
+VARSITIES	(varsity sözcüğünün çekimi) (ad) üniversite: Bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim, öğretim, bilimsel araştırma...
+VARSITY	(ad) üniversite: Bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim, öğretim, bilimsel araştırma ve yayın yapan fakülte, enstitü, yüksekokul vb. kuruluş ve birimlerden oluşan öğretim kurumu; darülfünun
+VARY	(eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca: değiştirilmek)
+VARYING	(vary sözcüğünün çekimi) (eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca:...
+VARYINGLY	(vary sözcüğünün çekimi) (eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca:...
+VASCULARIZATIONS	(ad) çoğul çekimi: vascularization
+VASE	(ad) genellikle toplanmış çiçekleri sergilemeye yarayan, çoğunlukla porselen veya camdan yapılmış, kulpsuz, derin kap, vazo
+VASECTOMIES	(vasectomy sözcüğünün çekimi) (ad) vasectomy kelimesinin karşılığı: ⟪vasektomi|VASEKTOMİ⟫
+VASECTOMY	(ad) vasectomy kelimesinin karşılığı: ⟪vasektomi|VASEKTOMİ⟫
+VASES	(ad) vase sözcüğünün çoğul çekimi: genellikle toplanmış çiçekleri sergilemeye yarayan, çoğunlukla porselen veya camdan yapılmış,...
+VASOCONSTRICTION	(ad) vasoconstriction kelimesinin karşılığı: vazokonstriksiyon
+VASOCONSTRICTIONS	(ad) çoğul çekimi: vasoconstriction
+VASOCONSTRICTOR	(ad) vasoconstrictor kelimesinin karşılığı: vazokonstriktör
+VASOCONSTRICTORS	(ad) çoğul çekimi: vasoconstrictor
+VASODILATOR	(ad) vasodilator kelimesinin karşılığı: vazodilatör
+VASODILATORS	(ad) çoğul çekimi: vasodilator
+VASSAL	(ad) derebeyine bağlı toprak çalıştıran kimse
+VASSALS	(ad) çoğul çekimi: vassal
+VAST	(sıfat) vâsi: geniş. (ayrıca: geniş)
+VASTER	(vast sözcüğünün çekimi) (sıfat) vâsi: geniş. (ayrıca: geniş)
+VASTEST	(vast sözcüğünün çekimi) (sıfat) vâsi: geniş. (ayrıca: geniş)
+VASTITUDES	(ad) çoğul çekimi: vastitude
+VASTS	(ad) çoğul çekimi: vast
+VATICINATIONS	(ad) çoğul çekimi: vaticination
+VATS	(ad) çoğul çekimi: vat
+VAUDEVILLIANS	(ad) çoğul çekimi: vaudevillian
+VAULT	(ad) vault kelimesinin karşılığı: ⟪tonoz|TONOZ⟫
+VAULTED	(vault sözcüğünün çekimi) (ad) vault kelimesinin karşılığı: ⟪tonoz|TONOZ⟫
+VAULTERS	(ad) çoğul çekimi: vaulter
+VAULTING	(vault sözcüğünün çekimi) (ad) vault kelimesinin karşılığı: ⟪tonoz|TONOZ⟫
+VAULTINGLY	(vault sözcüğünün çekimi) (ad) vault kelimesinin karşılığı: ⟪tonoz|TONOZ⟫
+VAULTINGS	(ad) çoğul çekimi: vaulting
+VAULTS	(ad) çoğul çekimi: vault
+VAWARDS	(ad) çoğul çekimi: vaward
+VEAL	(ad) veal kelimesinin karşılığı: dana eti
+VEALED	(veal sözcüğünün çekimi) (ad) veal kelimesinin karşılığı: dana eti
+VEALER	(veal sözcüğünün çekimi) (ad) veal kelimesinin karşılığı: dana eti
+VEALING	(veal sözcüğünün çekimi) (ad) veal kelimesinin karşılığı: dana eti
+VEALS	(veal sözcüğünün çekimi) (ad) veal kelimesinin karşılığı: dana eti
+VECTOR	(ad) vector kelimesinin karşılığı: ⟪vektör|VEKTÖR⟫, ⟪yöney|YÖNEY⟫
+VECTORED	(vector sözcüğünün çekimi) (ad) vector kelimesinin karşılığı: ⟪vektör|VEKTÖR⟫, ⟪yöney|YÖNEY⟫
+VECTORING	(vector sözcüğünün çekimi) (ad) vector kelimesinin karşılığı: ⟪vektör|VEKTÖR⟫, ⟪yöney|YÖNEY⟫
+VECTORS	(ad) çoğul çekimi: vector
+VEER	(eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak
+VEERED	(veer sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak
+VEERING	(veer sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak
+VEERINGLY	(veer sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak
+VEERS	(ad) çoğul çekimi: veer
+VEGANS	(ad) çoğul çekimi: vegan
+VEGETABLE	(ad) vegetable kelimesinin karşılığı: ⟪sebze|SEBZE⟫\n(sıfat) bitkisel: bitki ile ilgili, bitki cinsinden olan
+VEGETABLES	(ad) sebze: genellikle pişirilerek yenen bitkiler veya bunların taneleri, göveri, göverti, sebzevat, zerzevat
+VEGETAL	(sıfat) bitkisel: bitki ile ilgili, bitki cinsinden olan
+VEGETARIAN	(ad) vejetaryen: Etik sebeplerden ötürü et tüketmeyen kimse\n(sıfat) vejetaryenlik ile ilgili olan
+VEGETARIANISM	(ad) vegetarianism kelimesinin karşılığı: ⟪vejetaryenlik|VEJETARYENLİK⟫
+VEGETARIANISMS	(vegetarianism sözcüğünün çekimi) (ad) vegetarianism kelimesinin karşılığı: ⟪vejetaryenlik|VEJETARYENLİK⟫
+VEGETARIANS	(ad) vegetarian sözcüğünün çoğul çekimi: vejetaryen
+VEGGIE	(ad) sebze: genellikle pişirilerek yenen bitkiler veya bunların taneleri, göveri, göverti, sebzevat, zerzevat
+VEGGIES	(ad) çoğul çekimi: veggie
+VEHEMENT	(sıfat) ateşli: (mecaz) cinsel istekleri güçlü olan (ayrıca: şiddetli, hararetli)
+VEHICLE	(ad) taşıt: otomobil, tren, gemi, uçak gibi taşıma araçlarının ortak adı, nakil aracı, nakil vasıtası, ulaşım aracı, vasıta (ayrıca: araç, vasıta)
+VEHICLES	(ad) çoğul çekimi: vehicle
+VEILED	(sıfat) kapalı: Kapalı tribün (ayrıca: duvaklı)
+VEILS	(ad) çoğul çekimi: veil
+VEIN	(ad) toplardamar: Kirli kanın vücudun her yanından kalbe gitmesini sağlayan damar; vena, verit.; vena, verit
+VEINED	(vein sözcüğünün çekimi) (ad) toplardamar: Kirli kanın vücudun her yanından kalbe gitmesini sağlayan damar; vena, verit.; vena, verit
+VEINER	(vein sözcüğünün çekimi) (ad) toplardamar: Kirli kanın vücudun her yanından kalbe gitmesini sağlayan damar; vena, verit.; vena, verit
+VEINING	(vein sözcüğünün çekimi) (ad) toplardamar: Kirli kanın vücudun her yanından kalbe gitmesini sağlayan damar; vena, verit.; vena, verit
+VEINS	(ad) vein sözcüğünün çoğul çekimi: toplardamar
+VELAR	(ad) velar kelimesinin karşılığı: artdamaksıl
+VELARS	(ad) çoğul çekimi: velar
+VELLEITIES	(ad) çoğul çekimi: velleity
+VELLUMS	(ad) çoğul çekimi: vellum
+VELOCIMETERS	(ad) çoğul çekimi: velocimeter
+VELOCIPEDES	(ad) çoğul çekimi: velocipede
+VELOCITIES	(ad) çoğul çekimi: velocity
+VELOCITY	(ad) sürat: alınan yolun harcanan zamana oranı, hızlılık, çabukluk, ivinti, hız (ayrıca: hız)
+VELODROMES	(ad) çoğul çekimi: velodrome
+VELUM	(ad) velum kelimesinin karşılığı: artdamak
+VELURES	(ad) çoğul çekimi: velure
+VELVET	(ad) kadife: üzeyi belirli uzunlukta bırakılmış ham madde lifleriyle kaplı, parlak, yumuşak kumaş; velur
+VELVETED	(velvet sözcüğünün çekimi) (ad) kadife: üzeyi belirli uzunlukta bırakılmış ham madde lifleriyle kaplı, parlak, yumuşak kumaş; velur
+VELVETS	(velvet sözcüğünün çekimi) (ad) kadife: üzeyi belirli uzunlukta bırakılmış ham madde lifleriyle kaplı, parlak, yumuşak kumaş; velur
+VENALITIES	(ad) çoğul çekimi: venality
+VENDERS	(ad) çoğul çekimi: vender
+VENDETTA	(ad) vendetta kelimesinin karşılığı: kan davası
+VENDETTAS	(vendetta sözcüğünün çekimi) (ad) vendetta kelimesinin karşılığı: kan davası
+VENDOR	(ad) verici: Çıkar gözetmeksizin her türlü yardımı yapan, esirgemeyen kimse; vergili.
+VENDORS	(ad) çoğul çekimi: vendor
+VENDUES	(ad) çoğul çekimi: vendue
+VENEERS	(ad) çoğul çekimi: veneer
+VENERABLE	(sıfat) venerable kelimesinin karşılığı: ⟪saygıdeğer|SAYGIDEĞER⟫
+VENERATE	(eylem) venerate kelimesinin karşılığı: saygı göstermek, kutsal saymak, hürmet etmek
+VENERATED	(venerate sözcüğünün çekimi) (eylem) venerate kelimesinin karşılığı: saygı göstermek, kutsal saymak, hürmet etmek
+VENERATES	(venerate sözcüğünün çekimi) (eylem) venerate kelimesinin karşılığı: saygı göstermek, kutsal saymak, hürmet etmek
+VENERATING	(venerate sözcüğünün çekimi) (eylem) venerate kelimesinin karşılığı: saygı göstermek, kutsal saymak, hürmet etmek
+VENERATIONS	(ad) çoğul çekimi: veneration
+VENERIES	(ad) çoğul çekimi: venery
+VENGEANCE	(ad) vengeance kelimesinin karşılığı: ⟪intikam|İNTİKAM⟫, öç
+VENGEANCES	(vengeance sözcüğünün çekimi) (ad) vengeance kelimesinin karşılığı: ⟪intikam|İNTİKAM⟫, öç
+VENGEFUL	(sıfat) intikamcı, intikam peşinde olan
+VENOGRAMS	(ad) çoğul çekimi: venogram
+VENOM	(ad) venom kelimesinin karşılığı: ⟪zehir|ZEHİR⟫, ⟪ağı|AĞI⟫, ⟪ağu|AĞU⟫, ⟪sem|SEM⟫
+VENOMER	(venom sözcüğünün çekimi) (ad) venom kelimesinin karşılığı: ⟪zehir|ZEHİR⟫, ⟪ağı|AĞI⟫, ⟪ağu|AĞU⟫, ⟪sem|SEM⟫
+VENOMING	(venom sözcüğünün çekimi) (ad) venom kelimesinin karşılığı: ⟪zehir|ZEHİR⟫, ⟪ağı|AĞI⟫, ⟪ağu|AĞU⟫, ⟪sem|SEM⟫
+VENOMOUS	(sıfat) zehirli: Zehri olan; ağılı, toksik.
+VENOMS	(ad) çoğul çekimi: venom
+VENTILATION	(ad) havalandırma: kapalı bir yerin havasını değiştirmek amacıyla dışarıdan temiz hava girişini veya çeşitli araçlarla hava akımını sağlama işlemi
+VENTILATIONS	(ventilation sözcüğünün çekimi) (ad) havalandırma: kapalı bir yerin havasını değiştirmek amacıyla dışarıdan temiz hava girişini veya çeşitli araçlarla...
+VENTILATOR	(ad) vantilatör: sıcak ve durgun havayı dalgalandırarak esinti sağlayan veya böyle bir ortama temiz hava üfleyen alet, yelvuran
+VENTILATORS	(ad) çoğul çekimi: ventilator
+VENTRAL	(ad) ventral kelimesinin karşılığı: ön kısım
+VENTRALS	(ventral sözcüğünün çekimi) (ad) ventral kelimesinin karşılığı: ön kısım
+VENTRICLE	(ad) karıncık: Beyin-omurilik sıvısı içeren beyindeki dört adet boşluk; ventrikulus, ventrikül
+VENTRICLES	(ad) çoğul çekimi: ventricle
+VENTRICULI	(ad) ventriculus sözcüğünün çoğul çekimi: taşlık veya mide gibi sindirim boşluğu
+VENTRICULUS	(ad) taşlık veya mide gibi sindirim boşluğu
+VENTRILOQUIST	(ad) ventriloquist kelimesinin karşılığı: ⟪vantrilok|VANTRİLOK⟫
+VENTRILOQUISTS	(ad) çoğul çekimi: ventriloquist
+VENTS	(ad) vent sözcüğünün çoğul çekimi
+VENTURE	(ad) girişim: bir işe girişme, teşebbüs (ayrıca: teşebbüs)
+VENTURED	(venture sözcüğünün çekimi) (ad) girişim: bir işe girişme, teşebbüs (ayrıca: teşebbüs)
+VENTURES	(ad) çoğul çekimi: venture
+VENTURESOME	(sıfat) venturesome kelimesinin karşılığı: ⟪maceraperest|MACERAPEREST⟫, ⟪cesur|CESUR⟫
+VENTURESOMELY	(venturesome sözcüğünün çekimi) (sıfat) venturesome kelimesinin karşılığı: ⟪maceraperest|MACERAPEREST⟫, ⟪cesur|CESUR⟫
+VENTURING	(venture sözcüğünün çekimi) (ad) girişim: bir işe girişme, teşebbüs (ayrıca: teşebbüs)
+VENUES	(ad) çoğul çekimi: venue
+VERANDA	(ad) veranda: binanın giriş katı ön cephesine yapılmış, zeminden birazcık yüksek; üstü kapalı, yanları açık balkonumsu ev bölümü
+VERANDAED	(veranda sözcüğünün çekimi) (ad) veranda: binanın giriş katı ön cephesine yapılmış, zeminden birazcık yüksek; üstü kapalı, yanları açık balkonumsu...
+VERANDAS	(veranda sözcüğünün çekimi) (ad) veranda: binanın giriş katı ön cephesine yapılmış, zeminden birazcık yüksek; üstü kapalı, yanları açık balkonumsu...
+VERB	(ad) verb kelimesinin karşılığı: ⟪eylem|EYLEM⟫, ⟪fiil|FİİL⟫
+VERBAL	(ad) verbal kelimesinin karşılığı: ⟪eylemsi|EYLEMSİ⟫\n(sıfat) sözlü: sözle, konuşma biçiminde yapılan, şifahi, yazılı karşıtı (ayrıca: şifahi)
+VERBALIZATIONS	(ad) çoğul çekimi: verbalization
+VERBALS	(ad) çoğul çekimi: verbal
+VERBENAS	(ad) çoğul çekimi: verbena
+VERBOSE	(sıfat) laf kalabalığı yapan; gerekenden fazla sözle dolu.
+VERBOSITIES	(verbosity sözcüğünün çekimi) (ad) verbosity kelimesinin karşılığı: lâf kalabalığı, lâf salatası
+VERBOSITY	(ad) verbosity kelimesinin karşılığı: lâf kalabalığı, lâf salatası
+VERBS	(ad) çoğul çekimi: verb
+VERDICT	(ad) hüküm: yargı.
+VERDICTS	(verdict sözcüğünün çekimi) (ad) hüküm: yargı.
+VERDIGRIS	(ad) verdigris kelimesinin karşılığı: zengar, zencar, jengâr, bakır yeşili
+VERDIGRISES	(verdigris sözcüğünün çekimi) (ad) verdigris kelimesinin karşılığı: zengar, zencar, jengâr, bakır yeşili
+VERGE	(ad) sınır: İki komşu devletin topraklarını birbirinden ayıran çizgi. (ayrıca: eşik, kenar)
+VERGED	(verge sözcüğünün çekimi) (ad) sınır: İki komşu devletin topraklarını birbirinden ayıran çizgi. (ayrıca: eşik, kenar)
+VERGES	(verge sözcüğünün çekimi) (ad) sınır: İki komşu devletin topraklarını birbirinden ayıran çizgi. (ayrıca: eşik, kenar)
+VERGING	(verge sözcüğünün çekimi) (ad) sınır: İki komşu devletin topraklarını birbirinden ayıran çizgi. (ayrıca: eşik, kenar)
+VERIER	(very sözcüğünün çekimi) (sıfat) bir şeyi vurgulamak için kullanılır
+VERIEST	(very sözcüğünün çekimi) (sıfat) bir şeyi vurgulamak için kullanılır
+VERIFICATION	(ad) verification kelimesinin karşılığı: ⟪doğrulama|DOĞRULAMA⟫
+VERIFICATIONS	(verification sözcüğünün çekimi) (ad) verification kelimesinin karşılığı: ⟪doğrulama|DOĞRULAMA⟫
+VERIFIERS	(ad) çoğul çekimi: verifier
+VERITABLE	(sıfat) veritable kelimesinin karşılığı: ⟪gerçek|GERÇEK⟫, ⟪hakiki|HAKİKİ⟫
+VERMES	(ad) vermis sözcüğünün çoğul çekimi
+VERMIN	(ad) vermin kelimesinin karşılığı: ⟪haşere|HAŞERE⟫
+VERMOUTHS	(ad) çoğul çekimi: vermouth
+VERNACULAR	(ad) vernacular kelimesinin karşılığı: günlük dil, günlük konuşma, konuşma dili\n(sıfat) günlük dil/günlük konuşma/konuşma dili ile alakalı
+VERNACULARS	(ad) vernacular sözcüğünün çoğul çekimi: günlük dil, günlük konuşma, konuşma dili
+VERNAL	(sıfat) vernal kelimesinin karşılığı: ilkbahara ait, ilkbaharda olan
+VERNALLY	(vernal sözcüğünün çekimi) (sıfat) vernal kelimesinin karşılığı: ilkbahara ait, ilkbaharda olan
+VERNIERS	(ad) çoğul çekimi: vernier
+VERONICAS	(ad) çoğul çekimi: veronica
+VERSE	(ad) verse kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫
+VERSED	(verse sözcüğünün çekimi) (ad) verse kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫
+VERSES	(verse sözcüğünün çekimi) (ad) verse kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫
+VERSIFIERS	(ad) çoğul çekimi: versifier
+VERSING	(verse sözcüğünün çekimi) (ad) verse kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫
+VERSION	(ad) sürüm: değişik biçim, versiyon (ayrıca: biçim, versiyon)
+VERSIONS	(ad) version sözcüğünün çoğul çekimi: biçim, sürüm, versiyon
+VERSTS	(ad) çoğul çekimi: verst
+VERSUS	(zarf) karşı: Aykırı olarak, aykırı düşecek biçimde.
+VERTEBRA	(ad) vertebra kelimesinin karşılığı: ⟪omur|OMUR⟫, ⟪fıkra|FIKRA⟫
+VERTEBRAE	(vertebra sözcüğünün çekimi) (ad) vertebra kelimesinin karşılığı: ⟪omur|OMUR⟫, ⟪fıkra|FIKRA⟫
+VERTEBRAS	(vertebra sözcüğünün çekimi) (ad) vertebra kelimesinin karşılığı: ⟪omur|OMUR⟫, ⟪fıkra|FIKRA⟫
+VERTEBRATE	(sıfat) omurgalı: omurgası bulunan
+VERTEBRATES	(ad) omurgalılar: amfibyumları, balıkları, kuşları, memelileri, sürüngenleri ve yuvarlak ağızlıları içine alan hayvanlar âlemi
+VERTEX	(ad) vertex kelimesinin karşılığı: ⟪zirve|ZİRVE⟫, ⟪şahika|ŞAHİKA⟫, köşenokta
+VERTEXES	(vertex sözcüğünün çekimi) (ad) vertex kelimesinin karşılığı: ⟪zirve|ZİRVE⟫, ⟪şahika|ŞAHİKA⟫, köşenokta
+VERTICAL	(zarf) dikey: Başka bir doğru ile kesiştiğinde onunla birlikte dik açı oluşturan (doğru çizgi); amudi\n(sıfat) dikey: Başka bir doğru ile kesiştiğinde onunla birlikte dik açı oluşturan (doğru çizgi); amudi (ayrıca: düşey)
+VERTICALS	(ad) çoğul çekimi: vertical
+VERTICES	(vertex sözcüğünün çekimi) (ad) vertex kelimesinin karşılığı: ⟪zirve|ZİRVE⟫, ⟪şahika|ŞAHİKA⟫, köşenokta
+VERTIGOS	(ad) çoğul çekimi: vertigo
+VERVAINS	(ad) çoğul çekimi: vervain
+VERVE	(ad) heves: istek, eğilim, arzu, şevk (ayrıca: şevk, gayret)
+VERVES	(verve sözcüğünün çekimi) (ad) heves: istek, eğilim, arzu, şevk (ayrıca: şevk, gayret)
+VERY	(sıfat) bir şeyi vurgulamak için kullanılır
+VESICLE	(ad) vesicle kelimesinin karşılığı: ⟪vezikül|VEZİKÜL⟫
+VESICLES	(ad) çoğul çekimi: vesicle
+VESPERS	(ad) çoğul çekimi: vespers
+VESPIDS	(ad) çoğul çekimi: vespid
+VESSEL	(ad) içine sıvı konulan fıçı, kap, varil
+VESSELED	(vessel sözcüğünün çekimi) (ad) içine sıvı konulan fıçı, kap, varil
+VESSELS	(ad) çoğul çekimi: vessel\n(eylem) vessel sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: içine sıvı konulan fıçı, kap, varil
+VEST	(ad) (BK ağzı) kolsuz iç çamaşırı, atlet.
+VESTALS	(ad) çoğul çekimi: vestal
+VESTED	(vest sözcüğünün çekimi) (ad) (BK ağzı) kolsuz iç çamaşırı, atlet.
+VESTIBULES	(ad) çoğul çekimi: vestibule
+VESTIGE	(ad) kalıntı: İz, işaret
+VESTIGES	(vestige sözcüğünün çekimi) (ad) kalıntı: İz, işaret
+VESTING	(vest sözcüğünün çekimi) (ad) (BK ağzı) kolsuz iç çamaşırı, atlet.
+VESTINGS	(vest sözcüğünün çekimi) (ad) (BK ağzı) kolsuz iç çamaşırı, atlet.
+VESTMENTS	(ad) çoğul çekimi: vestment
+VESTS	(ad) çoğul çekimi: vest
+VESTURES	(ad) çoğul çekimi: vesture
+VET	(ad) baytar: hayvan hastalıkları hekimi, veteriner
+VETCHES	(ad) çoğul çekimi: vetch
+VETERANS	(ad) çoğul çekimi: veteran
+VETERINARIAN	(ad) veteriner: baytar, veteriner hekim
+VETERINARIANS	(ad) çoğul çekimi: veterinarian
+VETERINARIES	(veterinary sözcüğünün çekimi) (ad) veteriner: baytar, veteriner hekim
+VETERINARY	(ad) veteriner: baytar, veteriner hekim
+VETIVERS	(ad) çoğul çekimi: vetiver
+VETO	(ad) veto: Bir yetkinin, bir yasanın, bir kararın yürürlüğe girmesine karşı çıkma hakkı
+VETOED	(veto sözcüğünün çekimi) (ad) veto: Bir yetkinin, bir yasanın, bir kararın yürürlüğe girmesine karşı çıkma hakkı
+VETOER	(veto sözcüğünün çekimi) (ad) veto: Bir yetkinin, bir yasanın, bir kararın yürürlüğe girmesine karşı çıkma hakkı
+VETOES	(veto sözcüğünün çekimi) (ad) veto: Bir yetkinin, bir yasanın, bir kararın yürürlüğe girmesine karşı çıkma hakkı
+VETOING	(veto sözcüğünün çekimi) (ad) veto: Bir yetkinin, bir yasanın, bir kararın yürürlüğe girmesine karşı çıkma hakkı
+VETS	(ad) çoğul çekimi: vet
+VETTED	(vet sözcüğünün çekimi) (ad) baytar: hayvan hastalıkları hekimi, veteriner
+VETTING	(vet sözcüğünün çekimi) (ad) baytar: hayvan hastalıkları hekimi, veteriner
+VEX	(eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek (ayrıca: sinirlendirmek, rahatsız etmek)
+VEXATION	(ad) vexation kelimesinin karşılığı: ⟪küsme|KÜSME⟫, ⟪gücenme|GÜCENME⟫
+VEXATIONS	(vexation sözcüğünün çekimi) (ad) vexation kelimesinin karşılığı: ⟪küsme|KÜSME⟫, ⟪gücenme|GÜCENME⟫
+VEXED	(sıfat) tartışmalı; üzerinde anlaşılamayan; üzerinde anlaşmaya varılamayan
+VEXEDLY	(vex sözcüğünün çekimi) (eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek (ayrıca: sinirlendirmek, rahatsız etmek)
+VEXERS	(ad) çoğul çekimi: vexer
+VEXES	(vex sözcüğünün çekimi) (eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek (ayrıca: sinirlendirmek, rahatsız etmek)
+VEXING	(vex sözcüğünün çekimi) (eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek (ayrıca: sinirlendirmek, rahatsız etmek)
+VIABILITIES	(ad) viabilities kelimesinin karşılığı: uygulanabilirlikler, yapılabilirlikler
+VIABILITY	(ad) uygulanabilirlik: Yapılabilirlik (ayrıca: yapılabilirlik)
+VIABLE	(sıfat) viable kelimesinin karşılığı: ⟪uygulanabilir|UYGULANABİLİR⟫, yapılabilir
+VIADUCT	(ad) viaduct kelimesinin karşılığı: viyadük
+VIADUCTS	(ad) viaduct sözcüğünün çoğul çekimi: viyadük
+VIAL	(ad) şişe: İçerisine sıvı konulan, cam veya plastikten yapılmış, dar ağızlı uzun kap
+VIALED	(vial sözcüğünün çekimi) (ad) şişe: İçerisine sıvı konulan, cam veya plastikten yapılmış, dar ağızlı uzun kap
+VIALING	(vial sözcüğünün çekimi) (ad) şişe: İçerisine sıvı konulan, cam veya plastikten yapılmış, dar ağızlı uzun kap
+VIALLED	(vial sözcüğünün çekimi) (ad) şişe: İçerisine sıvı konulan, cam veya plastikten yapılmış, dar ağızlı uzun kap
+VIALLING	(vial sözcüğünün çekimi) (ad) şişe: İçerisine sıvı konulan, cam veya plastikten yapılmış, dar ağızlı uzun kap
+VIALS	(ad) çoğul çekimi: vial
+VIANDS	(ad) çoğul çekimi: viand
+VIBES	(ad) çoğul çekimi: vibe
+VIBRAHARPS	(ad) çoğul çekimi: vibraharp
+VIBRANT	(ad) enerjik: güçlü ve hareketli, aktif (ayrıca: canlı, enerji dolu)
+VIBRANTLY	(vibrant sözcüğünün çekimi) (ad) enerjik: güçlü ve hareketli, aktif (ayrıca: canlı, enerji dolu)
+VIBRANTS	(vibrant sözcüğünün çekimi) (ad) enerjik: güçlü ve hareketli, aktif (ayrıca: canlı, enerji dolu)
+VIBRAPHONISTS	(ad) çoğul çekimi: vibraphonist
+VIBRATE	(eylem) titremek: Işığın aralıklı olarak gücü azalıp çoğalması. (ayrıca: titreşmek)
+VIBRATED	(eylem) vibrate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: titreşmek, titremek
+VIBRATES	(eylem) vibrate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: titreşmek, titremek
+VIBRATING	(eylem) vibrate sözcüğünün şimdiki zaman ortaç ve gerund çekimi: titreşmek, titremek
+VIBRATION	(ad) titreşim: küçük ve hızlı salınım, ihtizaz, vibrasyon (ayrıca: titreme)
+VIBRATIONS	(vibration sözcüğünün çekimi) (ad) titreşim: küçük ve hızlı salınım, ihtizaz, vibrasyon (ayrıca: titreme)
+VIBRATOR	(ad) vibrator kelimesinin karşılığı: ⟪vibratör|VİBRATÖR⟫
+VIBRATORS	(ad) çoğul çekimi: vibrator
+VIBURNUMS	(ad) çoğul çekimi: viburnum
+VICAR	(ad) (İngiliz Kilisesi'nde) eskiden halkın kazancının yüzde onunu toplayan bir kiliseden sorumlu din adamı, papaz
+VICARIOUS	(sıfat) başkası adına yapılan; başkasının yerine yapılan
+VICARLY	(vicar sözcüğünün çekimi) (ad) (İngiliz Kilisesi'nde) eskiden halkın kazancının yüzde onunu toplayan bir kiliseden sorumlu din adamı, papaz
+VICARS	(ad) çoğul çekimi: vicar
+VICEGERENTS	(ad) çoğul çekimi: vicegerent
+VICEROYALTIES	(ad) çoğul çekimi: viceroyalty
+VICEROYS	(ad) çoğul çekimi: viceroy
+VICEROYSHIPS	(ad) çoğul çekimi: viceroyship
+VICHYSSOISES	(ad) çoğul çekimi: vichyssoise
+VICIOUSNESSES	(ad) çoğul çekimi: viciousness
+VICISSITUDE	(ad) değişim: bir niceliğin birbirinden ayrı değerler alması veya böyle iki değer arasındaki ayrım
+VICISSITUDES	(vicissitude sözcüğünün çekimi) (ad) değişim: bir niceliğin birbirinden ayrı değerler alması veya böyle iki değer arasındaki ayrım
+VICTIM	(ad) kurban: maddi ve manevi bakımdan felakete sürüklenmiş, insani değerlerini yitirmek zorunda kalmış veya bırakılmış kimse
+VICTIMIZATIONS	(ad) çoğul çekimi: victimization
+VICTIMS	(ad) çoğul çekimi: victim
+VICTORIAS	(ad) victoria sözcüğünün çoğul çekimi
+VICTORIES	(ad) victory sözcüğünün çoğul çekimi: utku; zafer
+VICTORIOUS	(sıfat) galip: bir yarışma, karşılaşma, çatışma vb. sonunda yenen, üstün gelen, başarı kazanan, yenen (ayrıca: muzaffer, zafer kazanmış)
+VICTORS	(ad) çoğul çekimi: victor
+VICTORY	(ad) zafer: bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı (ayrıca: utku)
+VICTUALERS	(ad) çoğul çekimi: victualer
+VICTUALLERS	(ad) çoğul çekimi: victualler
+VICTUALS	(ad) çoğul çekimi: victual
+VICUNAS	(ad) çoğul çekimi: vicuna
+VIDEO	(ad) video: Manyetik bantlar üzerinde yer alan veya sayısal olarak derlenmiş hareketli resimler dizisi.
+VIDEOCASSETTES	(ad) çoğul çekimi: videocassette
+VIDEODISCS	(ad) çoğul çekimi: videodisc
+VIDEODISKS	(ad) çoğul çekimi: videodisk
+VIDEOS	(ad) video sözcüğünün çoğul çekimi: video
+VIDEOTAPES	(ad) çoğul çekimi: videotape
+VIEW	(ad) view kelimesinin karşılığı: ⟪bakış|BAKIŞ⟫
+VIEWED	(eylem) view sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bakış
+VIEWERS	(ad) çoğul çekimi: viewer
+VIEWFINDERS	(ad) çoğul çekimi: viewfinder
+VIEWING	(eylem) view sözcüğünün şimdiki zaman ortaç ve gerund çekimi: bakış
+VIEWINGS	(ad) çoğul çekimi: viewing
+VIEWPOINTS	(ad) çoğul çekimi: viewpoint
+VIEWS	(ad) view sözcüğünün çoğul çekimi: bakış
+VIGILANTES	(ad) çoğul çekimi: vigilante
+VIGILS	(ad) çoğul çekimi: vigil
+VIGOROUS	(sıfat) dinç: gücü ve sağlık durumu yerinde, canlı, zinde, tendürüst, tüvana
+VIGORS	(ad) çoğul çekimi: vigor
+VILIFIED	(vilify sözcüğünün çekimi) (eylem) vilify kelimesinin karşılığı: ⟪kötülemek|KÖTÜLEMEK⟫, iftira etmek
+VILIFIERS	(ad) çoğul çekimi: vilifier
+VILIFIES	(vilify sözcüğünün çekimi) (eylem) vilify kelimesinin karşılığı: ⟪kötülemek|KÖTÜLEMEK⟫, iftira etmek
+VILIFY	(eylem) vilify kelimesinin karşılığı: ⟪kötülemek|KÖTÜLEMEK⟫, iftira etmek
+VILIFYING	(vilify sözcüğünün çekimi) (eylem) vilify kelimesinin karşılığı: ⟪kötülemek|KÖTÜLEMEK⟫, iftira etmek
+VILLA	(ad) villa kelimesinin karşılığı: ⟪villa|VİLLA⟫
+VILLAGE	(ad) köy: Belediye teşkilatına sahip olmayan, ortak veya özel malları bulunan, nüfusu iki binden aşağı olan, genellikle tarımsal alanda çalışılan, konutları ve öteki yapıları bu hayata uygun yerleşim birimi.
+VILLAGER	(sıfat) köylü: köyde doğmuş olan/yaşayan kimse
+VILLAGERS	(ad) çoğul çekimi: villager
+VILLAGES	(ad) village sözcüğünün çoğul çekimi: köy
+VILLAIN	(ad) hain: zarar vermekten, üzmekten veya kötülük yapmaktan hoşlanan (kişi) (ayrıca: kötü adam, cani)
+VILLAINESSES	(ad) çoğul çekimi: villainess
+VILLAINS	(ad) çoğul çekimi: villain
+VILLAS	(villa sözcüğünün çekimi) (ad) villa kelimesinin karşılığı: ⟪villa|VİLLA⟫
+VILLI	(villus sözcüğünün çekimi) (ad) villus kelimesinin karşılığı: ⟪villus|VİLLUS⟫
+VILLS	(ad) çoğul çekimi: vill
+VILLUS	(ad) villus kelimesinin karşılığı: ⟪villus|VİLLUS⟫
+VINCAS	(ad) çoğul çekimi: vinca
+VINCULUMS	(ad) çoğul çekimi: vinculum
+VINDICATE	(eylem) vindicate kelimesinin karşılığı: haklı çıkarmak, ispat etmek
+VINDICATED	(vindicate sözcüğünün çekimi) (eylem) vindicate kelimesinin karşılığı: haklı çıkarmak, ispat etmek
+VINDICATES	(vindicate sözcüğünün çekimi) (eylem) vindicate kelimesinin karşılığı: haklı çıkarmak, ispat etmek
+VINDICATING	(vindicate sözcüğünün çekimi) (eylem) vindicate kelimesinin karşılığı: haklı çıkarmak, ispat etmek
+VINDICATIONS	(ad) çoğul çekimi: vindication
+VINDICATORS	(ad) çoğul çekimi: vindicator
+VINE	(ad) vine kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+VINEGAR	(ad) sirke: çeşitli meyve sularının mayalanarak ekşi bir tat alması sonucunda oluşan sıvı
+VINEGARED	(vinegar sözcüğünün çekimi) (ad) sirke: çeşitli meyve sularının mayalanarak ekşi bir tat alması sonucunda oluşan sıvı
+VINEGARS	(ad) çoğul çekimi: vinegar
+VINES	(vine sözcüğünün çekimi) (ad) vine kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+VINEYARD	(ad) vineyard kelimesinin karşılığı: bağ bahçe
+VINEYARDS	(ad) çoğul çekimi: vineyard
+VINICULTURE	(ad) bağ: Üzüm kütüklerinin dikili bulunduğu toprak parçası; çubukluk.
+VINICULTURES	(viniculture sözcüğünün çekimi) (ad) bağ: Üzüm kütüklerinin dikili bulunduğu toprak parçası; çubukluk.
+VINING	(vine sözcüğünün çekimi) (ad) vine kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+VINTAGES	(ad) çoğul çekimi: vintage
+VINTNERS	(ad) çoğul çekimi: vintner
+VIOLA	(ad) viola kelimesinin karşılığı: ⟪viyola|VİYOLA⟫
+VIOLAS	(viola sözcüğünün çekimi) (ad) viola kelimesinin karşılığı: ⟪viyola|VİYOLA⟫
+VIOLATORS	(ad) çoğul çekimi: violator
+VIOLENCE	(ad) kuvvet: Zor, şiddet, cebir
+VIOLENCES	(violence sözcüğünün çekimi) (ad) kuvvet: Zor, şiddet, cebir
+VIOLENT	(sıfat) şiddetli: etkisi çok olan, zorlu
+VIOLET	(ad) menekşe: Menekşegiller familyasından, çiçekleri tek renkli, yaprakları yürek biçiminde ve hemen hemen sapsız, ilkbahar aylarında çiçek açan, bir veya çok yıllık otsu bir bitki. (ayrıca: lila rengi)\n(sıfat) violet kelimesinin karşılığı: lila rengi
+VIOLETS	(violet sözcüğünün çekimi) (ad) menekşe: Menekşegiller familyasından, çiçekleri tek renkli, yaprakları yürek biçiminde ve hemen hemen sapsız,...
+VIOLIN	(ad) keman: bir yaylı çalgı aleti
+VIOLINISTS	(ad) çoğul çekimi: violinist
+VIOLINS	(ad) violin sözcüğünün çoğul çekimi: keman
+VIOLISTS	(ad) çoğul çekimi: violist
+VIOLONCELLISTS	(ad) çoğul çekimi: violoncellist
+VIOLONCELLOS	(ad) çoğul çekimi: violoncello
+VIPER	(ad) viper kelimesinin karşılığı: bayağı engerek
+VIPERS	(ad) çoğul çekimi: viper
+VIRAGOS	(ad) çoğul çekimi: virago
+VIRAL	(sıfat) viral: virüslerle ilgili
+VIREOS	(ad) çoğul çekimi: vireo
+VIRGATES	(ad) çoğul çekimi: virgate
+VIRGIN	(sıfat) bakire: Cinsel ilişkide bulunmamış dişi. (ayrıca: kızoğlan, kızoğlankız)
+VIRGINAL	(sıfat) bakire: Cinsel ilişkide bulunmamış dişi. (ayrıca: kızoğlan, kızoğlankız)
+VIRGINALLY	(virginal sözcüğünün çekimi) (sıfat) bakire: Cinsel ilişkide bulunmamış dişi. (ayrıca: kızoğlan, kızoğlankız)
+VIRGINALS	(ad) çoğul çekimi: virginal
+VIRGINITIES	(virginity sözcüğünün çekimi) (ad) kızlık: Cinsel ilişkide bulunmamış dişi cinsin durumu; bakirlik, bekâret, bikir. (ayrıca: erdenlik, bakirlik)
+VIRGINITY	(ad) kızlık: Cinsel ilişkide bulunmamış dişi cinsin durumu; bakirlik, bekâret, bikir. (ayrıca: erdenlik, bakirlik)
+VIRGINS	(ad) çoğul çekimi: virgin
+VIRICIDES	(ad) çoğul çekimi: viricide
+VIRID	(sıfat) yeşil; canlı yeşil; yemyeşil; parlak yeşil renkli
+VIRIDITIES	(viridity sözcüğünün çekimi) (ad) yeşillik: yeşil olma durumu (ayrıca: yeşil rengi)
+VIRIDITY	(ad) yeşillik: yeşil olma durumu (ayrıca: yeşil rengi)
+VIRILITIES	(virility sözcüğünün çekimi) (ad) erkeksilik: erkeksi olma durumu
+VIRILITY	(ad) erkeksilik: erkeksi olma durumu
+VIROIDS	(ad) çoğul çekimi: viroid
+VIROLOGIES	(virology sözcüğünün çekimi) (ad) viroloji: Virüsleri inceleyen bilim dalı
+VIROLOGISTS	(ad) çoğul çekimi: virologist
+VIROLOGY	(ad) viroloji: Virüsleri inceleyen bilim dalı
+VIRTUAL	(sıfat) virtual kelimesinin karşılığı: ⟪sanal|SANAL⟫
+VIRTUE	(ad) erdem: ahlakın övdüğü iyi olma, alçak gönüllülük, yiğitlik, doğruluk vb. niteliklerin genel adı, fazilet, meziyet (ayrıca: fazilet, meziyet)
+VIRTUES	(ad) çoğul çekimi: virtue
+VIRTUOSOS	(ad) çoğul çekimi: virtuoso
+VIRTUOUS	(sıfat) erdemli: erdemi olan, faziletli
+VIRULENCE	(ad) virülans: bir mikrobun patojenliği, yani onun hastalığa neden olma yeteneği
+VIRULENCES	(virulence sözcüğünün çekimi) (ad) virülans: bir mikrobun patojenliği, yani onun hastalığa neden olma yeteneği
+VIRULENT	(sıfat) geçici: bulaşan, bulaşıcı (ayrıca: sâri, bulaşıcı)
+VIRUS	(ad) virüs: Hastalık yapıcı, bakterilerden daha küçük, yaşamak için bir başka hücrenin içine girmek zorunda olan ve ancak elektron mikroskobunda görülebilen parazit.
+VIRUSES	(virus sözcüğünün çekimi) (ad) virüs: Hastalık yapıcı, bakterilerden daha küçük, yaşamak için bir başka hücrenin içine girmek zorunda olan ve...
+VISA	(ad) vize: Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin
+VISAED	(visa sözcüğünün çekimi) (ad) vize: Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin
+VISAING	(visa sözcüğünün çekimi) (ad) vize: Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin
+VISAS	(visa sözcüğünün çekimi) (ad) vize: Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin
+VISCERAL	(sıfat) visceral kelimesinin karşılığı: viseral
+VISCID	(ad) yapışkan: yapıştırıcı.
+VISCOMETER	(ad) viscometer kelimesinin karşılığı: vizkometre
+VISCOMETERS	(ad) çoğul çekimi: viscometer
+VISCOSE	(ad) viskoz: Selüloz türevlerinin üretiminde kullanılan koloidal selüloz çözeltisi
+VISCOSES	(viscose sözcüğünün çekimi) (ad) viskoz: Selüloz türevlerinin üretiminde kullanılan koloidal selüloz çözeltisi
+VISCOSIMETER	(ad) viscosimeter kelimesinin karşılığı: vizkozimetre
+VISCOSIMETERS	(ad) çoğul çekimi: viscosimeter
+VISCOSITIES	(viscosity sözcüğünün çekimi) (ad) akmazlık: akışkanın çekim ve sürtünme kuvvetleri nedeniyle akma eğilimine karşı gösterdiği içdirenç, akışkanlık...
+VISCOSITY	(ad) akmazlık: akışkanın çekim ve sürtünme kuvvetleri nedeniyle akma eğilimine karşı gösterdiği içdirenç, akışkanlık (ayrıca: akışkanlık, ağdalık)
+VISCOUS	(sıfat) ağdalı: (mecaz) bilinmeyen kelimelerden, anlaşılması güç sözlerden oluşan (ayrıca: akışmaz)
+VISCOUSLY	(viscous sözcüğünün çekimi) (sıfat) ağdalı: (mecaz) bilinmeyen kelimelerden, anlaşılması güç sözlerden oluşan (ayrıca: akışmaz)
+VISIBILITIES	(ad) visibility sözcüğünün çoğul çekimi: görünürlük
+VISIBILITY	(ad) visibility kelimesinin karşılığı: görünürlük
+VISIBLE	(sıfat) görünür: görünen, gözle görülebilen (ayrıca: görünen)
+VISION	(ad) vision kelimesinin karşılığı: ileriyi görme
+VISIONARIES	(ad) çoğul çekimi: visionary
+VISIONING	(vision sözcüğünün çekimi) (ad) vision kelimesinin karşılığı: ileriyi görme
+VISIONS	(ad) visions kelimesinin karşılığı: ileriyi görmeler
+VISIT	(ad) visit kelimesinin karşılığı: ziyaret\n(eylem) visit kelimesinin karşılığı: ziyaret etmek
+VISITANTS	(ad) çoğul çekimi: visitant
+VISITATIONS	(ad) çoğul çekimi: visitation
+VISITED	(visit sözcüğünün çekimi) (ad) visit kelimesinin karşılığı: ziyaret
+VISITING	(visit sözcüğünün çekimi) (ad) visit kelimesinin karşılığı: ziyaret
+VISITOR	(ad) ziyaretçi: Ziyaret eden, ziyarete giden kimse.
+VISITORS	(ad) visitor sözcüğünün çoğul çekimi: ziyaretçi
+VISITS	(ad) visit sözcüğünün çoğul çekimi: ziyaret\n(eylem) visit sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ziyaret
+VISORS	(ad) çoğul çekimi: visor
+VISTA	(ad) manzara: Bakış, görüş alanına giren, dikkati çeken her yer; görüntü, dekor.
+VISTAED	(vista sözcüğünün çekimi) (ad) manzara: Bakış, görüş alanına giren, dikkati çeken her yer; görüntü, dekor.
+VISTAS	(vista sözcüğünün çekimi) (ad) manzara: Bakış, görüş alanına giren, dikkati çeken her yer; görüntü, dekor.
+VISUAL	(ad) görsel: görme duyusuyla ilgili olan, görmeye dayanan
+VISUALIZATIONS	(ad) çoğul çekimi: visualization
+VISUALIZE	(eylem) visualize kelimesinin karşılığı: tasavvur etmek
+VISUALIZED	(visualize sözcüğünün çekimi) (eylem) visualize kelimesinin karşılığı: tasavvur etmek
+VISUALIZERS	(ad) çoğul çekimi: visualizer
+VISUALIZES	(visualize sözcüğünün çekimi) (eylem) visualize kelimesinin karşılığı: tasavvur etmek
+VISUALIZING	(visualize sözcüğünün çekimi) (eylem) visualize kelimesinin karşılığı: tasavvur etmek
+VISUALS	(ad) çoğul çekimi: visual
+VITAL	(sıfat) hayati: Büyük önem taşıyan, önemli olan; dirimlik, dirimsel, yaşamsal:
+VITALITIES	(vitality sözcüğünün çekimi) (ad) canlılık: (mecaz) neşeli, hareketli olma durumu
+VITALITY	(ad) canlılık: (mecaz) neşeli, hareketli olma durumu
+VITALIZATIONS	(ad) çoğul çekimi: vitalization
+VITALIZE	(eylem) canlandırmak: yaşama döndürmek
+VITALIZED	(vitalize sözcüğünün çekimi) (eylem) canlandırmak: yaşama döndürmek
+VITALIZES	(vitalize sözcüğünün çekimi) (eylem) canlandırmak: yaşama döndürmek
+VITALIZING	(vitalize sözcüğünün çekimi) (eylem) canlandırmak: yaşama döndürmek
+VITAMINS	(ad) çoğul çekimi: vitamin
+VITICULTURISTS	(ad) çoğul çekimi: viticulturist
+VITUPERATION	(ad) hakaret: küçültücü söz veya davranış (ayrıca: küfür, azarlama)
+VITUPERATIONS	(ad) çoğul çekimi: vituperation
+VITUPERATIVE	(sıfat) sert: Hırçın, öfkeli, hiddetli olan. (ayrıca: ağzı bozuk, azarlayıcı)
+VITUPERATIVELY	(vituperative sözcüğünün çekimi) (sıfat) sert: Hırçın, öfkeli, hiddetli olan. (ayrıca: ağzı bozuk, azarlayıcı)
+VITUPERATORS	(ad) çoğul çekimi: vituperator
+VIVID	(sıfat) canlı: Hareketli, hayat dolu, dinamik bir biçimde. (ayrıca: göz alıcı, etkili)
+VIVIDER	(vivid sözcüğünün çekimi) (sıfat) canlı: Hareketli, hayat dolu, dinamik bir biçimde. (ayrıca: göz alıcı, etkili)
+VIVIDEST	(vivid sözcüğünün çekimi) (sıfat) canlı: Hareketli, hayat dolu, dinamik bir biçimde. (ayrıca: göz alıcı, etkili)
+VIVIDNESS	(ad) fer: parlaklık, aydınlık (ayrıca: canlılık)
+VIVIDNESSES	(ad) vividness sözcüğünün çoğul çekimi: canlılık, fer
+VIVISECTORS	(ad) çoğul çekimi: vivisector
+VIXEN	(ad) vixen kelimesinin karşılığı: dişi tilki
+VIXENS	(ad) çoğul çekimi: vixen
+VIZARDS	(ad) çoğul çekimi: vizard
+VIZIERATES	(ad) çoğul çekimi: vizierate
+VIZIERS	(ad) çoğul çekimi: vizier
+VIZORS	(ad) çoğul çekimi: vizor
+VOCABLE	(ad) sözcük: kelime
+VOCABLES	(vocable sözcüğünün çekimi) (ad) sözcük: kelime
+VOCABULARIES	(ad) çoğul çekimi: vocabulary
+VOCABULARY	(ad) vocabulary kelimesinin karşılığı: sözvarlığı
+VOCAL	(ad) vocal kelimesinin karşılığı: ⟪sesli|SESLİ⟫, ⟪ünlü|ÜNLÜ⟫
+VOCALIC	(ad) ünlü: ses yolunda bir engele çarpmadan çıkan ses, sesli, sesli harf, vokal
+VOCALICS	(vocalic sözcüğünün çekimi) (ad) ünlü: ses yolunda bir engele çarpmadan çıkan ses, sesli, sesli harf, vokal
+VOCALISED	(sıfat) ötümlü: tonlu.
+VOCALISTS	(ad) çoğul çekimi: vocalist
+VOCALIZATIONS	(ad) çoğul çekimi: vocalization
+VOCALS	(ad) çoğul çekimi: vocal
+VOCATION	(ad) meslek: belli bir eğitim ile kazanılan sistemli bilgi ve becerilere dayalı, insanlara yararlı mal üretmek, hizmet vermek ve karşılığında para kazanmak için yapılan, kuralları belirlenmiş iş
+VOCATIONS	(ad) çoğul çekimi: vocation
+VOCATIVE	(ad) vocative kelimesinin karşılığı: seslenme durumu
+VOCATIVELY	(vocative sözcüğünün çekimi) (ad) vocative kelimesinin karşılığı: seslenme durumu
+VOCATIVES	(ad) çoğul çekimi: vocative
+VOCES	(ad) çoğul çekimi: vox
+VODKA	(ad) votka: tahıl tanelerinin damıltılmasıyla elde edilin alkollü içki
+VODKAS	(vodka sözcüğünün çekimi) (ad) votka: tahıl tanelerinin damıltılmasıyla elde edilin alkollü içki
+VOICE	(ad) çatı: birbirine çakılmış, çatılmış şeylerin bütünü
+VOICED	(sıfat) ötümlü: tonlu. (ayrıca: titreşimli)
+VOICELESS	(sıfat) voiceless kelimesinin karşılığı: ⟪titreşimsiz|TİTREŞİMSİZ⟫
+VOICELESSLY	(voiceless sözcüğünün çekimi) (sıfat) voiceless kelimesinin karşılığı: ⟪titreşimsiz|TİTREŞİMSİZ⟫
+VOICEPRINTS	(ad) çoğul çekimi: voiceprint
+VOICES	(ad) voice sözcüğünün çoğul çekimi: çatı
+VOICING	(ad) voicing kelimesinin karşılığı: ⟪ötümlüleşme|ÖTÜMLÜLEŞME⟫
+VOID	(ad) void kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫\n(sıfat) void kelimesinin karşılığı: ⟪boş|BOŞ⟫
+VOIDED	(void sözcüğünün çekimi) (ad) void kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫
+VOIDER	(void sözcüğünün çekimi) (ad) void kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫
+VOIDERS	(void sözcüğünün çekimi) (ad) void kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫
+VOIDING	(void sözcüğünün çekimi) (ad) void kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫
+VOIDS	(ad) void sözcüğünün çoğul çekimi: boşluk
+VOLATILE	(sıfat) uçucu: Uçma yeteneği veya özelliği olan; tayyar. (ayrıca: kolay buharlaşan)
+VOLATILES	(volatile sözcüğünün çekimi) (sıfat) uçucu: Uçma yeteneği veya özelliği olan; tayyar. (ayrıca: kolay buharlaşan)
+VOLATILITIES	(ad) çoğul çekimi: volatility
+VOLATILITY	(ad) volatility kelimesinin karşılığı: ⟪uçuculuk|UÇUCULUK⟫, ⟪uçucu|UÇUCU⟫, ⟪çeşitlilik|ÇEŞİTLİLİK⟫
+VOLCANIC	(sıfat) volkanik: Volkanla ilgili
+VOLCANICS	(volcanic sözcüğünün çekimi) (sıfat) volkanik: Volkanla ilgili
+VOLCANISM	(ad) volcanism kelimesinin karşılığı: ⟪volkanizma|VOLKANİZMA⟫
+VOLCANISMS	(ad) volcanism sözcüğünün çoğul çekimi: volkanizma
+VOLCANO	(ad) yanardağ: Magmanın yer içinden lav olarak yüzeye çıktığı veya geçmişte çıkmış olduğu, genellikle koni şeklinde, tepesinde bir püskürme ağzı bulunan dağ (ayrıca: volkan)
+VOLCANOES	(ad) volcano sözcüğünün çoğul çekimi: volkan, yanardağ
+VOLCANOLOGIES	(volcanology sözcüğünün çekimi) (ad) volkanoloji: Volkanları inceleyen jeolojinin bir kolu.
+VOLCANOLOGY	(ad) volkanoloji: Volkanları inceleyen jeolojinin bir kolu.
+VOLCANOS	(ad) çoğul çekimi: volcano
+VOLE	(ad) vole kelimesinin karşılığı: tarla faresi
+VOLED	(vole sözcüğünün çekimi) (ad) vole kelimesinin karşılığı: tarla faresi
+VOLES	(vole sözcüğünün çekimi) (ad) vole kelimesinin karşılığı: tarla faresi
+VOLING	(vole sözcüğünün çekimi) (ad) vole kelimesinin karşılığı: tarla faresi
+VOLITION	(ad) istem: bir kişiden bir şeyi yapmasını veya yapmamasını isteme, talep, arzu
+VOLITIONS	(volition sözcüğünün çekimi) (ad) istem: bir kişiden bir şeyi yapmasını veya yapmamasını isteme, talep, arzu
+VOLLEYBALL	(ad) voleybol: altışar kişilik iki takım arasında, bir alan ortasında gerilmiş olan ağ üzerinden topun karşılıklı olarak elle oynanması oyunu, uçantop
+VOLLEYBALLS	(ad) çoğul çekimi: volleyball
+VOLLEYS	(ad) çoğul çekimi: volley
+VOLPLANES	(ad) çoğul çekimi: volplane
+VOLT	(ad) volt: Elektromotor gücün veya gerilimin birimi
+VOLTAGE	(ad) gerilim: bir iletkenin uçları arasındaki gizil güç farkı, potansiyel farkı, voltaj (ayrıca: voltaj)
+VOLTAGES	(voltage sözcüğünün çekimi) (ad) gerilim: bir iletkenin uçları arasındaki gizil güç farkı, potansiyel farkı, voltaj (ayrıca: voltaj)
+VOLTES	(volt sözcüğünün çekimi) (ad) volt: Elektromotor gücün veya gerilimin birimi
+VOLTMETER	(ad) voltmetre: bir elektrik devresindeki gizil güç farkını volt cinsinden ölçmeye yarayan alet
+VOLTMETERS	(voltmeter sözcüğünün çekimi) (ad) voltmetre: bir elektrik devresindeki gizil güç farkını volt cinsinden ölçmeye yarayan alet
+VOLTS	(volt sözcüğünün çekimi) (ad) volt: Elektromotor gücün veya gerilimin birimi
+VOLUBILITIES	(ad) çoğul çekimi: volubility
+VOLUME	(ad) birim: Bir kümenin her elemanı veya bir çokluğu oluşturan varlıkların her biri.
+VOLUMES	(ad) volume sözcüğünün çoğul çekimi: birim
+VOLUMETERS	(ad) çoğul çekimi: volumeter
+VOLUMING	(volume sözcüğünün çekimi) (ad) birim: Bir kümenin her elemanı veya bir çokluğu oluşturan varlıkların her biri.
+VOLUMINOUS	(sıfat) oylumlu: (mecaz) büyük, geniş
+VOLUMINOUSLY	(voluminous sözcüğünün çekimi) (sıfat) oylumlu: (mecaz) büyük, geniş
+VOLUNTARIES	(voluntary sözcüğünün çekimi) (sıfat) voluntary kelimesinin karşılığı: gönüllü yapılan
+VOLUNTARINESS	(ad) gönüllülük: gönüllü olma durumu
+VOLUNTARINESSES	(ad) voluntariness sözcüğünün çoğul çekimi: gönüllülük
+VOLUNTARISM	(ad) voluntarism kelimesinin karşılığı: ⟪iradecilik|İRADECİLİK⟫
+VOLUNTARISMS	(voluntarism sözcüğünün çekimi) (ad) voluntarism kelimesinin karşılığı: ⟪iradecilik|İRADECİLİK⟫
+VOLUNTARY	(sıfat) voluntary kelimesinin karşılığı: gönüllü yapılan
+VOLUNTEER	(ad) volunteer kelimesinin karşılığı: ⟪özengen|ÖZENGEN⟫
+VOLUNTEERED	(volunteer sözcüğünün çekimi) (ad) volunteer kelimesinin karşılığı: ⟪özengen|ÖZENGEN⟫
+VOLUNTEERING	(eylem) volunteer sözcüğünün şimdiki zaman ortaç ve gerund çekimi: özengen
+VOLUNTEERS	(ad) çoğul çekimi: volunteer
+VOMIT	(ad) vomit kelimesinin karşılığı: ⟪kusmuk|KUSMUK⟫\n(eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek (ayrıca: istifra etmek, kay etmek)
+VOMITED	(eylem) vomit sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kusmuk
+VOMITING	(ad) vomiting kelimesinin karşılığı: ⟪kusma|KUSMA⟫
+VOMITS	(ad) çoğul çekimi: vomit
+VORACIOUSNESS	(ad) voraciousness kelimesinin karşılığı: ⟪oburluk|OBURLUK⟫
+VORACIOUSNESSES	(voraciousness sözcüğünün çekimi) (ad) voraciousness kelimesinin karşılığı: ⟪oburluk|OBURLUK⟫
+VORTEX	(ad) burgaç: beklenen hızından farklı bir biçimde ve beklenmeyen yönlerden gelen şiddetli hava akımı, türbülans (ayrıca: eğrim, anafor)
+VORTEXES	(vortex sözcüğünün çekimi) (ad) burgaç: beklenen hızından farklı bir biçimde ve beklenmeyen yönlerden gelen şiddetli hava akımı, türbülans...
+VORTICES	(vortex sözcüğünün çekimi) (ad) burgaç: beklenen hızından farklı bir biçimde ve beklenmeyen yönlerden gelen şiddetli hava akımı, türbülans...
+VOTARIES	(ad) votary sözcüğünün çoğul çekimi: hayran
+VOTARY	(ad) votary kelimesinin karşılığı: ⟪hayran|HAYRAN⟫
+VOTE	(ad) oy: bir toplantıya katılanların, bir sorunla ilgili birkaç seçenekten birini tercih etmesi, rey (ayrıca: rey)\n(eylem) vote kelimesinin karşılığı: oy vermek
+VOTED	(vote sözcüğünün çekimi) (ad) oy: bir toplantıya katılanların, bir sorunla ilgili birkaç seçenekten birini tercih etmesi, rey (ayrıca: rey)
+VOTER	(ad) seçmen: Seçimde oy verme hakkı olan kimse; müntehip.
+VOTERS	(ad) voter sözcüğünün çoğul çekimi: seçmen
+VOTES	(vote sözcüğünün çekimi) (ad) oy: bir toplantıya katılanların, bir sorunla ilgili birkaç seçenekten birini tercih etmesi, rey (ayrıca: rey)
+VOTING	(vote sözcüğünün çekimi) (ad) oy: bir toplantıya katılanların, bir sorunla ilgili birkaç seçenekten birini tercih etmesi, rey (ayrıca: rey)
+VOUCHSAFE	(eylem) lütfetmek: vermek (ayrıca: bahşetmek, ihsan etmek)
+VOUCHSAFED	(eylem) vouchsafe sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bahşetmek, ihsan etmek, lütfetmek
+VOUCHSAFES	(eylem) vouchsafe sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bahşetmek, ihsan etmek, lütfetmek
+VOUCHSAFING	(ad) vouchsafing kelimesinin karşılığı: ihsan etme, ⟪lütfetme|LÜTFETME⟫\n(eylem) vouchsafe sözcüğünün şimdiki zaman ortaç çekimi: bahşetmek, ihsan etmek, lütfetmek
+VOW	(ad) adak: herhangi bir dilek yerine geldiğinde karşılığında yapılacağı veya verileceği söylenen şey ve bunun sonucunda insanın kendisini Tanrı'ya karşı yükümlü kıldığı durum; nezir
+VOWED	(vow sözcüğünün çekimi) (ad) adak: herhangi bir dilek yerine geldiğinde karşılığında yapılacağı veya verileceği söylenen şey ve bunun sonucunda...
+VOWEL	(ad) ünlü: ses yolunda bir engele çarpmadan çıkan ses, sesli, sesli harf, vokal
+VOWELS	(ad) vowel sözcüğünün çoğul çekimi: ünlü
+VOWING	(vow sözcüğünün çekimi) (ad) adak: herhangi bir dilek yerine geldiğinde karşılığında yapılacağı veya verileceği söylenen şey ve bunun sonucunda...
+VOWS	(ad) çoğul çekimi: vow
+VOX	(ad) vox kelimesinin karşılığı: ⟪ses|SES⟫
+VOYAGE	(ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: yolculuk, gezi)
+VOYAGED	(voyage sözcüğünün çekimi) (ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: yolculuk, gezi)
+VOYAGERS	(ad) çoğul çekimi: voyager
+VOYAGES	(voyage sözcüğünün çekimi) (ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: yolculuk, gezi)
+VOYAGING	(voyage sözcüğünün çekimi) (ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: yolculuk, gezi)
+VOYEUR	(ad) başkalarını çıplak haldelerken veya cinsel ilişkiye girerlerken izlemekten cinsel haz duyan kişi; röntgenci, dikizci
+VOYEURISM	(ad) voyeurism kelimesinin karşılığı: ⟪röntgencilik|RÖNTGENCİLİK⟫, dikizcilik
+VOYEURISMS	(ad) voyeurism sözcüğünün çoğul çekimi: röntgencilik, dikizcilik
+VOYEURS	(voyeur sözcüğünün çekimi) (ad) başkalarını çıplak haldelerken veya cinsel ilişkiye girerlerken izlemekten cinsel haz duyan kişi; röntgenci,...
+VULCANOLOGIES	(ad) çoğul çekimi: vulcanology
+VULGAR	(sıfat) kaba: Terbiyeye, inceliğe aykırı, çirkin, kötü olan.
+VULGARER	(vulgar sözcüğünün çekimi) (sıfat) kaba: Terbiyeye, inceliğe aykırı, çirkin, kötü olan.
+VULGAREST	(vulgar sözcüğünün çekimi) (sıfat) kaba: Terbiyeye, inceliğe aykırı, çirkin, kötü olan.
+VULGARIANS	(ad) çoğul çekimi: vulgarian
+VULGARISM	(ad) vulgarism kelimesinin karşılığı: kaba kullanım
+VULGARISMS	(vulgarism sözcüğünün çekimi) (ad) vulgarism kelimesinin karşılığı: kaba kullanım
+VULGARITIES	(ad) çoğul çekimi: vulgarity
+VULGARIZATIONS	(ad) çoğul çekimi: vulgarization
+VULGARIZERS	(ad) çoğul çekimi: vulgarizer
+VULGARS	(vulgar sözcüğünün çekimi) (sıfat) kaba: Terbiyeye, inceliğe aykırı, çirkin, kötü olan.
+VULNERABILITIES	(ad) vulnerability sözcüğünün çoğul çekimi: yaralanabilirlik
+VULNERABILITY	(ad) vulnerability kelimesinin karşılığı: yaralanabilirlik
+VULTURE	(ad) akbaba: eski dünya akbabaları veya yeni dünya akbabaları akbabagillerden, başı ve boynu çıplak olan, dağlık yerlerde yaşayan, leşle beslenen, çok yüksekten uçarak keskin gözleriyle çok uzakları görebilen, iri ve yırtıcı kuş, kerkes
+VULTURES	(ad) çoğul çekimi: vulture
+VULVA	(ad) vulva: kadın cinsel organlarının dış kısmı, bıtık, ferç (ayrıca: ferç, bıtık)
+VULVAE	(vulva sözcüğünün çekimi) (ad) vulva: kadın cinsel organlarının dış kısmı, bıtık, ferç (ayrıca: ferç, bıtık)
+VULVAS	(ad) çoğul çekimi: vulva

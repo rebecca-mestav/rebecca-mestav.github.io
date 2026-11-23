@@ -1,0 +1,939 @@
+VACA	(ad) inek: dişi sığır
+VACAÇAO	(ad) izin: bir şey yapmak için alınan veya verilen hürriyet, müsaade, ruhsat, icazet, mezuniyet
+VACILAM	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILAMOS	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILANDO	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILAO	(sıfat) salak: giyinişinden, konuşma ve davranışlarından seviyesiz, dengesiz ve saf olduğu anlaşılan. (ayrıca: dingil)
+VACILAR	(eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca: tartılmak)
+VACILARA	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILARAM	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILAREI	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILAREM	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILARIA	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILARMOS	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILASSE	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILAVA	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILE	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILEI	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILEM	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACILO	(ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata (ayrıca: hata, yanlışlık)
+VACILOES	(vacilao sözcüğünün çekimi) (sıfat) salak: giyinişinden, konuşma ve davranışlarından seviyesiz, dengesiz ve saf olduğu anlaşılan. (ayrıca: dingil)
+VACILONA	(vacilao sözcüğünün çekimi) (sıfat) salak: giyinişinden, konuşma ve davranışlarından seviyesiz, dengesiz ve saf olduğu anlaşılan. (ayrıca: dingil)
+VACILOS	(vacilo sözcüğünün çekimi) (ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata (ayrıca: hata, yanlışlık)
+VACILOU	(vacilar sözcüğünün çekimi) (eylem) bocalamak: bir işte tutulması gereken yolu kestir bilememek, ne yapacağını bilememek, kararsız olmak (ayrıca:...
+VACINA	(ad) aşı: birtakım hastalıklara karşı bağışıklık sağlamak için vücuda verilen, o hastalığın mikrobuyla hazırlanmış eriyik
+VACINADA	(vacinado sözcüğünün çekimi) (sıfat) bağışık: herhangi bir ödevin ya da yükümün dışında kalan, muaf
+VACINADAS	(vacinado sözcüğünün çekimi) (sıfat) bağışık: herhangi bir ödevin ya da yükümün dışında kalan, muaf
+VACINADO	(sıfat) bağışık: herhangi bir ödevin ya da yükümün dışında kalan, muaf
+VACINADOS	(vacinado sözcüğünün çekimi) (sıfat) bağışık: herhangi bir ödevin ya da yükümün dışında kalan, muaf
+VACINAS	(ad) çoğul çekimi: vacina
+VACINAÇAO	(ad) vacinaçao kelimesinin karşılığı: ⟪aşı|AŞI⟫
+VACINAÇOES	(vacinaçao sözcüğünün çekimi) (ad) vacinaçao kelimesinin karşılığı: ⟪aşı|AŞI⟫
+VACUO	(ad) boşluk: boş olan, içinde bir şey barındırmıyan yer, cevf
+VACUOLO	(ad) koful: ] sitoplazmada bulunan içi hücre suyu ile dolu boşluklar
+VACUOLOS	(ad) çoğul çekimi: vacúolo
+VACUOS	(ad) çoğul çekimi: vácuo
+VADIAR	(eylem) dolaşmak: gezmek, gezinmek
+VADIO	(sıfat) evsiz: evi olmayan kişi (ayrıca: serseri)
+VAGA	(ad) vaga kelimesinin karşılığı: ⟪açış|AÇIŞ⟫, ⟪açma|AÇMA⟫, ⟪açılış|AÇILIŞ⟫, ⟪açıt|AÇIT⟫
+VAGABUNDA	(ad) mal: argo, kaba konuşma: fahişe (ayrıca: fahişe, sermaye)
+VAGABUNDAGEM	(ad) tembellik: tembel olma durumu, atalet
+VAGABUNDEAR	(eylem) dolaşmak: dönüp başka bir yönden gelmek
+VAGABUNDEIA	(vagabundear sözcüğünün çekimi) (eylem) dolaşmak: dönüp başka bir yönden gelmek
+VAGABUNDO	(sıfat) aylak: boş gezen, avare (ayrıca: başıboş)
+VAGALHAO	(vaga sözcüğünün çekimi) (ad) vaga kelimesinin karşılığı: ⟪açış|AÇIŞ⟫, ⟪açma|AÇMA⟫, ⟪açılış|AÇILIŞ⟫, ⟪açıt|AÇIT⟫
+VAGANDO	(vagar sözcüğünün çekimi) (ad) vakit: belirlenmiş olan zaman (ayrıca: zaman, defa)
+VAGAR	(ad) vakit: belirlenmiş olan zaman (ayrıca: zaman, defa)\n(eylem) dolaşmak: gezmek, gezinmek
+VAGAROSAMENTE	(zarf) yavaşça: oldukça yavaş, usulca (ayrıca: yavaş)
+VAGAROSO	(sıfat) yavaş: alçak, hafif biçimde
+VAGINA	(ad) vajina: dişilik organı. (ayrıca: vajen, döl yolu)
+VAGINAS	(vagina sözcüğünün çekimi) (ad) vajina: dişilik organı. (ayrıca: vajen, döl yolu)
+VAGINISMO	(ad) vajinismus: Cinsel ilişki sırasında kadının vajen kaslarını istemsiz bir biçimde kasması sonucunda cinsel birleşmenin hiç olamaması ya da çok zor gerçekleşmesi durumu.
+VAGO	(sıfat) bulanık: (mecaz) niteliği tam anlaşılmayan
+VAGUEAR	(eylem) dolaşmak: gezmek, gezinmek
+VAIDADE	(ad) kibir: Kendini başkalarından üstün tutma; benlik, böbür, gurur. (ayrıca: tafra, hökelek)
+VAIDADES	(ad) çoğul çekimi: vaidade
+VAIDOSO	(sıfat) abes: gereksiz biçimde (ayrıca: nafile)
+VAIVENS	(ad) çoğul çekimi: vaivém
+VALA	(ad) siper: Korunulacak, arkasına, altına veya içine girerek saklanılacak yer. (ayrıca: hendek)
+VALADO	(ad) valado kelimesinin karşılığı: ⟪hendek|HENDEK⟫
+VALAS	(vala sözcüğünün çekimi) (ad) siper: Korunulacak, arkasına, altına veya içine girerek saklanılacak yer. (ayrıca: hendek)
+VALE	(ad) vadi: iki dağ arasındaki geçit
+VALENCIA	(ad) liyakat: Bir kimsenin, kendisine iş verilmeye uygunluk, yaraşırlık durumu, değim, yararlık, yaraşık. (ayrıca: meziyet)
+VALENCIANOS	(ad) çoğul çekimi: valenciano
+VALENCIAS	(ad) çoğul çekimi: valência
+VALENDO	(valer sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: kazanmak, berabere kalmak)
+VALENTE	(sıfat) yürekli: (mecaz) tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan, gözü pek, babayiğit, koçak, cesaretli, cesur, cüretli, cüretkâr
+VALENTES	(ad) çoğul çekimi: valente
+VALENTIA	(ad) kuvvet: Dayanıklılık, tahammül, mukāvemet: (ayrıca: güç, erke)
+VALENTOES	(ad) çoğul çekimi: valentão
+VALER	(eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: kazanmak, berabere kalmak)
+VALERIANA	(ad) valeriana kelimesinin karşılığı: kedi otu
+VALETE	(ad) valete kelimesinin karşılığı: ⟪bacak|BACAK⟫, ⟪vale|VALE⟫
+VALHA	(ad) kıymet: değer (ayrıca: valör, değerler)
+VALIA	(ad) valör: değer, kıymet, geçerlik
+VALIDADE	(ad) yürürlük: gereğinin yapılır olma durumu, meriyet
+VALIDO	(sıfat) geçerli: (mecaz) beğenilen, tutulan
+VALIOSISSIMA	(valioso sözcüğünün çekimi) (sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALIOSISSIMAS	(valioso sözcüğünün çekimi) (sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALIOSISSIMO	(valioso sözcüğünün çekimi) (sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALIOSISSIMOS	(valioso sözcüğünün çekimi) (sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALIOSO	(sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALO	(ad) valo kelimesinin karşılığı: ⟪hendek|HENDEK⟫
+VALOR	(eylem) değer: Bir şeyin önemini belirlemeye yarayan soyut ölçü, bir şeyin değdiği karşılık; fehamet, [[kadir]. kıymet.
+VALORAR	(eylem) değer: Bir şeyin para ile ölçülebilen karşılığı; kıymet, paha, valör.
+VALORAVEL	(sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALORAÇAO	(ad) tahmin: yaklaşık olarak değerlendirme
+VALORES	(ad) çoğul çekimi: valor
+VALORIZA	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAMOS	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZANDO	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAR	(eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZARA	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZARAM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAREI	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAREM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZARIA	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZARIAM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZARMOS	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAS	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZASSE	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZASSEM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAVA	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZAVAM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZE	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZEI	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZEM	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZEMOS	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZO	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALORIZOU	(valorizar sözcüğünün çekimi) (eylem) değer: Üstün nitelik, meziyet; kıymet.
+VALOROSAS	(valoroso sözcüğünün çekimi) (sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALOROSO	(sıfat) değerli: Değeri olan veya değeri yüksek olan; ağır, kıymetli, kıymettar, muteber, zikıymet.
+VALVA	(ad) valva kelimesinin karşılığı: ⟪supap|SUPAP⟫, ⟪lamba|LAMBA⟫, ⟪vana|VANA⟫, sibop
+VALVULA	(ad) valvula kelimesinin karşılığı: ⟪kapakçık|KAPAKÇIK⟫
+VAMPIRA	(vampiro sözcüğünün çekimi) (ad) vampir: Varlığını devam ettirebilmek için yaşayanların kanını içtiğine inanılan efsanevi yaratık
+VAMPIRO	(ad) vampir: Varlığını devam ettirebilmek için yaşayanların kanını içtiğine inanılan efsanevi yaratık
+VANADIO	(ad) vanadyum: Atom numarası 23 olan bir kimyasal element
+VANDALISMO	(ad) vandalismo kelimesinin karşılığı: ⟪vandallık|VANDALLIK⟫
+VANDALISMOS	(vandalismo sözcüğünün çekimi) (ad) vandalismo kelimesinin karşılığı: ⟪vandallık|VANDALLIK⟫
+VANGLORIA	(ad) kibir: Kendini başkalarından üstün tutma; benlik, böbür, gurur. (ayrıca: gurur, kurum)
+VANGLORIAM	(vangloriar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+VANGLORIANDO	(vangloriar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+VANGLORIAR	(eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+VANGLORIEI	(vangloriar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+VANGLORIO	(vangloriar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+VANGLORIOU	(vangloriar sözcüğünün çekimi) (eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+VANGUARDA	(ad) öncü: önde gidip haber ulaştıran kimse (ayrıca: ileri kol, liderler)
+VANTAGEM	(ad) fayda: yarar (ayrıca: avantaj)
+VANTAJOSO	(sıfat) avantajlı: yararlı (ayrıca: yararlı)
+VANTE	(ad) çene: baş bodoslamasının omurga ile birleştiği yer.
+VAO	(sıfat) vao kelimesinin karşılığı: ⟪gösterişli|GÖSTERİŞLİ⟫\n(ad) ara: İki şeyi birbirinden ayıran uzaklık; çatlak, mesafe.
+VAOS	(vao sözcüğünün çekimi) (sıfat) vao kelimesinin karşılığı: ⟪gösterişli|GÖSTERİŞLİ⟫
+VAPOR	(ad) vapor kelimesinin karşılığı: ⟪buhar|BUHAR⟫, buharlı gemi
+VAQUEIROS	(ad) çoğul çekimi: vaqueiro
+VAQUEJAR	(eylem) avlamak: Tuzağa düşürmek, kandırmak, kandırıp ele geçirmek
+VARA	(ad) vara kelimesinin karşılığı: ⟪çubuk|ÇUBUK⟫, ⟪sopa|SOPA⟫, ⟪dayak|DAYAK⟫, ⟪baston|BASTON⟫
+VARAIS	(ad) çoğul çekimi: varal
+VARAL	(ad) kol: Makinelerde tutup çevirmeye, çekmeye yarayan ağaç veya metal parça. (ayrıca: ok sapı)
+VARAM	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VARAMOS	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VARANDA	(ad) teras: seki (ayrıca: balkon, veranda)
+VARANDO	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VARAO	(ad) erkek: dişiyi dölleyecek özellik
+VARAPAU	(ad) herek: (Konya ağzı) Küçük ağaç (ayrıca: değnek, bayrak direği)
+VARAR	(eylem) devirmek: (mecaz) bir yana eğmek
+VARAS	(vara sözcüğünün çekimi) (ad) vara kelimesinin karşılığı: ⟪çubuk|ÇUBUK⟫, ⟪sopa|SOPA⟫, ⟪dayak|DAYAK⟫, ⟪baston|BASTON⟫
+VARAVA	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VAREI	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VAREJA	(ad) vareja kelimesinin karşılığı: ⟪bot|BOT⟫
+VAREJAR	(eylem) vurmak: Uygulamak, basmak, koymak.
+VAREMOS	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VARES	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VARETA	(ad) sopa: Kalın değnek. (ayrıca: dayak, sırık)
+VARIABILIDADE	(ad) variabilidade kelimesinin karşılığı: ⟪çeşitlilik|ÇEŞİTLİLİK⟫
+VARIADA	(variado sözcüğünün çekimi) (sıfat) ayrı: başka, başka türlü (ayrıca: çeşit çeşit)
+VARIADAS	(variado sözcüğünün çekimi) (sıfat) ayrı: başka, başka türlü (ayrıca: çeşit çeşit)
+VARIADO	(sıfat) ayrı: başka, başka türlü (ayrıca: çeşit çeşit)
+VARIADOS	(variado sözcüğünün çekimi) (sıfat) ayrı: başka, başka türlü (ayrıca: çeşit çeşit)
+VARIANTE	(sıfat) değişen: değişken olan
+VARIAR	(eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca: değiştirilmek)
+VARIAS	(variar sözcüğünün çekimi) (eylem) dönüşmek: bir biçimden veya bir durumdan başka bir biçim veya duruma girmek, tahavvül etmek (ayrıca:...
+VARIAVEL	(sıfat) değişken: değişme özelliği gösteren, çok değişen, değişebilir, kararsız, değişici, mütehavvil
+VARIAÇAO	(ad) çeşitleme: farklı olma durumu, farklılık (ayrıca: değişim, bocalama)
+VARIAÇOES	(ad) çoğul çekimi: variação
+VARICELA	(ad) varicela kelimesinin karşılığı: su çiçeği
+VARIEDADE	(ad) variedade kelimesinin karşılığı: ⟪nev|NEV⟫
+VARIEGADO	(sıfat) alacalı: alaca, rengârenk (ayrıca: alaca)
+VARIO	(sıfat) ayrı: başka, başka türlü (ayrıca: çeşit çeşit)
+VARIOLA	(ad) variola kelimesinin karşılığı: ⟪çiçek|ÇİÇEK⟫
+VARIOS	(vario sözcüğünün çekimi) (sıfat) ayrı: başka, başka türlü (ayrıca: çeşit çeşit)
+VARO	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VAROU	(varar sözcüğünün çekimi) (eylem) devirmek: (mecaz) bir yana eğmek
+VARRER	(eylem) süpürmek: çıkarıp atmak, kovmak
+VARZEA	(ad) ova: çevrelerine göre çukurda kalmış, çoğunlukla alüvyonla örtülü, eğimi az, akarsuların derine gömülmemiş olduğu, genellikle geniş veya dar düzlük, yazı, düz, düzlük (ayrıca: düz, düzlem)
+VASCULHAM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAMOS	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHANDO	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAR	(eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHARA	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHARAM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHARAO	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAREI	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAREM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAREMOS	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHARIA	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHARIAM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHARMOS	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHASSE	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHASSEM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAVA	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAVAM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHAVAMOS	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHE	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHEI	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHEM	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHEMOS	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASCULHO	(ad) mal: argo, kaba konuşma: fahişe (ayrıca: fahişe, sermaye)
+VASCULHOU	(vasculhar sözcüğünün çekimi) (eylem) süpürmek: çıkarıp atmak, kovmak
+VASECTOMIA	(ad) vasectomia kelimesinin karşılığı: ⟪vasektomi|VASEKTOMİ⟫
+VASELINA	(ad) vaselina kelimesinin karşılığı: ⟪vazelin|VAZELİN⟫
+VASILHA	(ad) kap: kaplar, mutfak eşyaları (ayrıca: damar, tekne)
+VASILHAS	(vasilha sözcüğünün çekimi) (ad) kap: kaplar, mutfak eşyaları (ayrıca: damar, tekne)
+VASO	(ad) kap: kaplar, mutfak eşyaları (ayrıca: damar, tekne)
+VASOS	(ad) çoğul çekimi: vaso
+VASSALOS	(ad) çoğul çekimi: vassalo
+VASSOURAS	(ad) çoğul çekimi: vassoura
+VASTA	(vasto sözcüğünün çekimi) (sıfat) vâsi: geniş. (ayrıca: geniş)
+VASTO	(sıfat) vâsi: geniş. (ayrıca: geniş)
+VATES	(ad) çoğul çekimi: vate
+VATICINAR	(eylem) öngörmek: Ilerisi için kararlaştırmak, göz önünde tutmak, derpiş etmek (ayrıca: tahmin etmek)
+VATICINIO	(ad) kehanet: bir olayın gerçekleşeceğini önceden bilme, kâhinlik, öndeyi, prediksiyon (ayrıca: kestirim)
+VAZAM	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAMENTOS	(ad) çoğul çekimi: vazamento
+VAZAMOS	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZANDO	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAO	(ad) boşaltım: boşaltma işi (ayrıca: deşarj, debi)
+VAZAR	(eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZARA	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZARAM	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZARAO	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAREI	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAREM	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAREMOS	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZARIA	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZARMOS	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZASSE	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZASSEM	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAVA	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZAVAM	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZE	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZEI	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZEM	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZIA	(ad) vazia kelimesinin karşılığı: ⟪kalça|KALÇA⟫
+VAZIAS	(vazio sözcüğünün çekimi) (sıfat) boş: Habersiz, hazırlıksız bir biçimde.
+VAZIO	(sıfat) boş: Habersiz, hazırlıksız bir biçimde.\n(zarf) boş: Habersiz, hazırlıksız bir biçimde.
+VAZIOS	(vazio sözcüğünün çekimi) (sıfat) boş: Habersiz, hazırlıksız bir biçimde.
+VAZO	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VAZOU	(vazar sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VEADO	(ad) veado kelimesinin karşılığı: ⟪ibne|İBNE⟫
+VECTOR	(ad) yöney: vektör (ayrıca: vektör)
+VEDADO	(sıfat) yasak: Yapılmaması istenmiş olan, yok, memnu, haram:
+VEDADOS	(vedado sözcüğünün çekimi) (sıfat) yasak: Yapılmaması istenmiş olan, yok, memnu, haram:
+VEDAR	(eylem) oyalamak: eğlendirmek, hoşça vakit geçirtmek (ayrıca: tıkamak)
+VEDAÇAO	(ad) vedaçao kelimesinin karşılığı: ⟪contalama|CONTALAMA⟫
+VEDAÇOES	(ad) çoğul çekimi: vedação
+VEDE	(vedar sözcüğünün çekimi) (eylem) oyalamak: eğlendirmek, hoşça vakit geçirtmek (ayrıca: tıkamak)
+VEDES	(eylem) ver sözcüğünün ikinci çoğul şahıs şimdiki zaman bildirme kipi çekimi: görmek
+VEDOR	(ad) vedor kelimesinin karşılığı: ⟪denetçi|DENETÇİ⟫
+VEEM	(eylem) ver sözcüğünün üçüncü çoğul şahıs şimdiki zaman bildirme kipi çekimi: görmek
+VEEMENTE	(sıfat) dinç: canlı, zinde bir biçimde
+VEGANISMO	(ad) vegan: her türlü hayvansal ürünü tüketmeyi reddeden genellikle sebze ve meyve ile beslenen
+VEGETAIS	(ad) çoğul çekimi: vegetal
+VEGETAL	(ad) göveri: sebze (ayrıca: sebze, göverti)
+VEGETARIANISMO	(ad) vegetarianismo kelimesinin karşılığı: ⟪vejetaryenlik|VEJETARYENLİK⟫
+VEGETARIANO	(ad) vejetaryen: Etik sebeplerden ötürü et tüketmeyen kimse (ayrıca: et yemez)
+VEIA	(ad) toplardamar: Kirli kanın vücudun her yanından kalbe gitmesini sağlayan damar; vena, verit.; vena, verit (ayrıca: damar)
+VEIAS	(ad) çoğul çekimi: veia
+VEICULO	(ad) veiculo kelimesinin karşılığı: ⟪araba|ARABA⟫
+VEICULOS	(ad) çoğul çekimi: veículo
+VEIO	(ad) damar: Bir çatlağı ya da ağ biçiminde çatlak sistemlerini doldurmuş olan maden kütlesi; filon (ayrıca: toplardamar)
+VEIOS	(veio sözcüğünün çekimi) (ad) damar: Bir çatlağı ya da ağ biçiminde çatlak sistemlerini doldurmuş olan maden kütlesi; filon (ayrıca: toplardamar)
+VEJA	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VEJAIS	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VEJAM	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VEJO	(eylem) ver sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi: görmek
+VELA	(ad) mum: bal mumu
+VELADA	(velado sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün (ayrıca: duvaklı)
+VELADO	(sıfat) kapalı: Kapalı tribün (ayrıca: duvaklı)
+VELAM	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELAMOS	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELANDO	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELAR	(eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELARA	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELAREI	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELAREMOS	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELAS	(ad) çoğul çekimi: vela
+VELASSE	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELAVAM	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELE	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELEI	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELEIDADES	(ad) çoğul çekimi: veleidade
+VELEIRO	(ad) veleiro kelimesinin karşılığı: yelkenli tekne
+VELEM	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELES	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELHA	(ad) anne: Çocuğu olan kadın; aba, ana, kocakarı, nene, valide, mader. (ayrıca: kocakarı)
+VELHACARIA	(ad) fent: Düzen, hile
+VELHACO	(sıfat) açıkgöz: Uyanık davranarak çıkar sağlayan, imkânlardan kurnazca yararlanmayı bilen kimse. (ayrıca: kurnaz, haince)
+VELHACOS	(ad) çoğul çekimi: velhaco
+VELHAS	(ad) çoğul çekimi: velha
+VELHICE	(ad) yaşlılık: yaşlı olma durumu (ayrıca: çağ, yaş)
+VELHO	(ad) velho kelimesinin karşılığı: ⟪yaşlı|YAŞLI⟫\n(sıfat) velho kelimesinin karşılığı: ⟪yaşlı|YAŞLI⟫
+VELHOS	(ad) çoğul çekimi: velho
+VELHOTE	(ad) baba: ata. (ayrıca: ata)
+VELOCIDADE	(ad) velocidade kelimesinin karşılığı: ⟪hız|HIZ⟫
+VELOCIDADES	(ad) çoğul çekimi: velocidade
+VELOU	(velar sözcüğünün çekimi) (eylem) gizlemek: bir nesne, canlı veya bilginin varlığını göstermemek (ayrıca: saklamak, barınmak)
+VELOZ	(sıfat) hızlı: (mecaz) uçarı, çapkın, hovarda
+VELOZMENTE	(zarf) hızlı: çabuk, seri, süratli (ayrıca: çabuk, seri)
+VEM	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VENAL	(sıfat) venal kelimesinin karşılığı: ⟪ticari|TİCARİ⟫
+VENCE	(vencer sözcüğünün çekimi) (eylem) yenmek: kazanmak, ütmek (ayrıca: kazanmak)
+VENCEDOR	(ad) galip: bir yarışma, karşılaşma, çatışma vb. sonunda yenen, üstün gelen, başarı kazanan, yenen
+VENCEDORA	(vencedor sözcüğünün çekimi) (ad) galip: bir yarışma, karşılaşma, çatışma vb. sonunda yenen, üstün gelen, başarı kazanan, yenen
+VENCEMOS	(vencer sözcüğünün çekimi) (eylem) yenmek: kazanmak, ütmek (ayrıca: kazanmak)
+VENCENDO	(vencer sözcüğünün çekimi) (eylem) yenmek: kazanmak, ütmek (ayrıca: kazanmak)
+VENCER	(eylem) yenmek: kazanmak, ütmek (ayrıca: kazanmak)
+VENCERAO	(vencer sözcüğünün çekimi) (eylem) yenmek: kazanmak, ütmek (ayrıca: kazanmak)
+VENCERIA	(vencer sözcüğünün çekimi) (eylem) yenmek: kazanmak, ütmek (ayrıca: kazanmak)
+VENCILHO	(ad) vencilho kelimesinin karşılığı: ⟪bağcık|BAĞCIK⟫
+VENCIMENTO	(ad) zafer: bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı (ayrıca: utku)
+VENCIMENTOS	(ad) çoğul çekimi: vencimento
+VENDA	(ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+VENDAGEM	(ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+VENDAGENS	(vendagem sözcüğünün çekimi) (ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+VENDAS	(venda sözcüğünün çekimi) (ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+VENDER	(eylem) satmak: bir değer karşılığında bir malı alıcıya vermek
+VENENO	(ad) zehir: Büyük üzüntü, acı, keder, sıkıntı. (ayrıca: ağı, ağu)
+VENENOS	(ad) çoğul çekimi: veneno
+VENENOSA	(venenoso sözcüğünün çekimi) (sıfat) ağılı: içinde ağı bulunan, zehirli (ayrıca: zehirli)
+VENENOSO	(sıfat) ağılı: içinde ağı bulunan, zehirli (ayrıca: zehirli)
+VENEREA	(venereo sözcüğünün çekimi) (sıfat) venereo kelimesinin karşılığı: ⟪cinsel|CİNSEL⟫
+VENEREAS	(venereo sözcüğünün çekimi) (sıfat) venereo kelimesinin karşılığı: ⟪cinsel|CİNSEL⟫
+VENEREO	(sıfat) venereo kelimesinin karşılığı: ⟪cinsel|CİNSEL⟫
+VENEZUELANAS	(ad) çoğul çekimi: venezuelana
+VENEZUELANOS	(ad) çoğul çekimi: venezuelano
+VENHA	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VENHAM	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VENHAS	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VENHO	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VENIA	(ad) izin: bir şey yapmak için alınan veya verilen hürriyet, müsaade, ruhsat, icazet, mezuniyet
+VENIAGA	(ad) mal: Alınıp satılabilen her türlü ticaret eşyası; emtia. (ayrıca: eşya)
+VENTA	(ad) venta kelimesinin karşılığı: burun deliği
+VENTAR	(eylem) üflemek: esrar tüketmek.
+VENTILADOR	(ad) vantilatör: sıcak ve durgun havayı dalgalandırarak esinti sağlayan veya böyle bir ortama temiz hava üfleyen alet, yelvuran
+VENTILAÇOES	(ad) çoğul çekimi: ventilação
+VENTO	(ad) rüzgâr: havanın yer değiştirmesiyle oluşan esinti, bad, yel (ayrıca: yel)
+VENTOINHA	(ad) ventoinha kelimesinin karşılığı: ⟪taraftar|TARAFTAR⟫
+VENTOS	(ad) çoğul çekimi: vento
+VENTOSAR	(eylem) yellenmek: kalın bağırsaktaki gazı çıkarmak, osurmak (ayrıca: osurmak)
+VENTOU	(ventar sözcüğünün çekimi) (eylem) üflemek: esrar tüketmek.
+VENTRE	(ad) abdomen: karın (ayrıca: karın, abgah)
+VENTRILOQUA	(ventriloquo sözcüğünün çekimi) (ad) ventriloquo kelimesinin karşılığı: ⟪vantrilok|VANTRİLOK⟫, abab
+VENTRILOQUO	(ad) ventriloquo kelimesinin karşılığı: ⟪vantrilok|VANTRİLOK⟫, abab
+VENTRILOQUOS	(ventriloquo sözcüğünün çekimi) (ad) ventriloquo kelimesinin karşılığı: ⟪vantrilok|VANTRİLOK⟫, abab
+VENTURA	(ad) baht: şans (ayrıca: talih, fırsat)
+VENTURAS	(ad) çoğul çekimi: ventura
+VENTUROSA	(venturoso sözcüğünün çekimi) (sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)
+VENTUROSO	(sıfat) mutlu: mutluluğa erişmiş olan (ayrıca: saadetli, şanslı)
+VER	(eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VERA	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VERAMENTE	(zarf) hakikat: doğrusu, gerçekten, hakikaten
+VERAO	(ad) yaz: Kuzey yarım kürede 21 Haziran 23 Eylül, güney yarım kürede 21 Aralık 21 Mart tarihleri arasındaki zaman dilimi, ilkbaharla sonbahar arasındaki sıcak mevsim.
+VERAS	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VERBA	(ad) verba kelimesinin karşılığı: ⟪bütçe|BÜTÇE⟫
+VERBAL	(sıfat) sözel: Söz ile ilgili, söze dayanan
+VERBATIM	(zarf) verbatim kelimesinin karşılığı: ⟪harfiyen|HARFİYEN⟫, ⟪resmen|RESMEN⟫
+VERBETE	(ad) giriş: Bir bilime hazırlık amacıyla yazılan eser.
+VERBO	(ad) verbo kelimesinin karşılığı: ⟪eylem|EYLEM⟫, ⟪fiil|FİİL⟫
+VERBOS	(ad) çoğul çekimi: verbo
+VERDADE	(ad) hakikat: gerçek
+VERDADEIRA	(verdadeiro sözcüğünün çekimi) (sıfat) asıl: gerçekten, gerçek olarak (ayrıca: gerçek, hakiki)
+VERDADEIRAMENTE	(zarf) hakikat: doğrusu, gerçekten, hakikaten
+VERDADEIRAS	(verdadeiro sözcüğünün çekimi) (sıfat) asıl: gerçekten, gerçek olarak (ayrıca: gerçek, hakiki)
+VERDADEIRO	(sıfat) asıl: gerçekten, gerçek olarak (ayrıca: gerçek, hakiki)
+VERDADEIROS	(verdadeiro sözcüğünün çekimi) (sıfat) asıl: gerçekten, gerçek olarak (ayrıca: gerçek, hakiki)
+VERDADES	(ad) çoğul çekimi: verdade
+VERDE	(ad) verde kelimesinin karşılığı: ⟪yeşil|YEŞİL⟫\n(sıfat) verde kelimesinin karşılığı: ⟪yeşil|YEŞİL⟫
+VERDELHAO	(ad) verdelhao kelimesinin karşılığı: ⟪florya|FLORYA⟫, ⟪yelve|YELVE⟫
+VERDES	(ad) çoğul çekimi: verde
+VERDILHAO	(ad) verdilhao kelimesinin karşılığı: ⟪florya|FLORYA⟫, ⟪yelve|YELVE⟫
+VERDINHA	(ad) kendir: (Düziçi ağzı) Bir tür ip. (ayrıca: kenevir)
+VERDUGO	(ad) cellat: (mecaz) katı yürekli, kolaylıkla suç işleyen, zalim kişi
+VERDURA	(ad) verdura kelimesinin karşılığı: ⟪sebze|SEBZE⟫
+VEREAR	(eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+VEREDA	(ad) vereda kelimesinin karşılığı: kısayol
+VEREDICTO	(ad) hüküm: yargı.
+VEREDITO	(ad) hüküm: Önem, geçerlilik.
+VEREI	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VERGA	(ad) çubuk: değnek biçiminde ince, uzun ve sert olan şey (ayrıca: sopa, dayak)
+VERGAR	(eylem) eğmek: Düz olan bir şeyi eğik duruma getirmek.
+VERGAS	(ad) çoğul çekimi: verga
+VERGEL	(ad) bağ: meyve bahçesi. (ayrıca: bahçe, bağ bahçe)
+VERGONHA	(ad) vergonha kelimesinin karşılığı: ⟪utanç|UTANÇ⟫, ⟪mahcubiyet|MAHCUBİYET⟫\n(sıfat) ayıp: Utanç veren.
+VERGONHAS	(ad) çoğul çekimi: vergonha
+VERGONTEA	(ad) döl: yavru, çocuk (ayrıca: evlat, çocuk)
+VERIA	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VERIDICO	(sıfat) hakiki: gerçek, essah (ayrıca: gerçek, düzgün)
+VERIFICADA	(verificado sözcüğünün çekimi) (sıfat) engelli: engeli olan, mânialı
+VERIFICADAS	(verificado sözcüğünün çekimi) (sıfat) engelli: engeli olan, mânialı
+VERIFICADO	(sıfat) engelli: engeli olan, mânialı
+VERIFICADOS	(verificado sözcüğünün çekimi) (sıfat) engelli: engeli olan, mânialı
+VERIFICAR	(eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+VERIFICAÇAO	(ad) verificaçao kelimesinin karşılığı: ⟪doğrulama|DOĞRULAMA⟫
+VERIFIQUE	(verificar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+VERME	(ad) solucan: bazı omurgasız hayvan türlerinin adı
+VERMELHAS	(vermelho sözcüğünün çekimi) (ad) kırmızı: kırmızı olan , al, kızıl
+VERMELHO	(ad) kırmızı: kırmızı olan , al, kızıl
+VERMELHOS	(ad) çoğul çekimi: vermelho
+VERMES	(verme sözcüğünün çekimi) (ad) solucan: bazı omurgasız hayvan türlerinin adı
+VERMICULITA	(ad) vermiculita kelimesinin karşılığı: vermikülit
+VERNACULO	(ad) vernaculo kelimesinin karşılığı: konuşma dili
+VERNIZ	(ad) verniz kelimesinin karşılığı: ⟪vernik|VERNİK⟫
+VERO	(sıfat) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat (ayrıca: hakiki, düzgün)
+VERONICA	(ad) veronica kelimesinin karşılığı: yavşan otu
+VEROS	(vero sözcüğünün çekimi) (sıfat) gerçek: yalan olmayan, doğru olan şey, doğru, hakikat (ayrıca: hakiki, düzgün)
+VEROSSIMIL	(sıfat) verossimil kelimesinin karşılığı: ⟪sayılabilir|SAYILABİLİR⟫
+VEROSSIMILHANÇA	(ad) olasılık: bir şeyin olabilmesi durumu, ihtimaliyet
+VERRUGA	(ad) siğil: deride, özellikle ellerde oluşan zararsız, pürtüklü küçük ur.
+VERRUMA	(ad) verruma kelimesinin karşılığı: ⟪bit|BİT⟫
+VERSAO	(ad) nöbet: kez, defa (ayrıca: sıra, viraj)
+VERSICULO	(ad) versiculo kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫, ⟪ayet|AYET⟫
+VERSICULOS	(versiculo sözcüğünün çekimi) (ad) versiculo kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫, ⟪ayet|AYET⟫
+VERSO	(ad) verso kelimesinin karşılığı: ⟪koşuk|KOŞUK⟫, ⟪ayet|AYET⟫
+VERSOS	(ad) çoğul çekimi: verso
+VERTE	(verter sözcüğünün çekimi) (eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VERTEBRA	(ad) vertebra kelimesinin karşılığı: ⟪omur|OMUR⟫
+VERTEBRADO	(sıfat) omurgalı: omurgası bulunan
+VERTENTE	(ad) pınar: çeşme (ayrıca: ilkbahar, bahar)
+VERTER	(eylem) sızdırmak: Gizlice sokmak. (ayrıca: sızmak)
+VERTICAIS	(vertical sözcüğünün çekimi) (sıfat) dikey: Başka bir doğru ile kesiştiğinde onunla birlikte dik açı oluşturan (doğru çizgi); amudi (ayrıca: şakuli)
+VERTICAL	(sıfat) dikey: Başka bir doğru ile kesiştiğinde onunla birlikte dik açı oluşturan (doğru çizgi); amudi (ayrıca: şakuli)
+VERTICE	(ad) vertice kelimesinin karşılığı: ⟪zirve|ZİRVE⟫, ⟪şahika|ŞAHİKA⟫, ⟪cunda|CUNDA⟫, ⟪doruk|DORUK⟫
+VERTIGENS	(ad) çoğul çekimi: vertigem
+VES	(eylem) ver sözcüğünün ikinci tekil şahıs şimdiki zaman bildirme kipi çekimi: görmek
+VESPA	(ad) yaban arısı: zar kanatlılar yaban arısıgiller familyasından, arıya benzeyen, iğneli böcek
+VESPERA	(ad) arife: belirli bir günün, olayın bir önceki günü veya ona yakın günler, ön gün
+VESTE	(ad) giyim: giysi. (ayrıca: elbise, giysi)
+VESTIBULO	(ad) dalan: Bir yapının giriş yeri. (ayrıca: hol, lobi)
+VESTIDA	(vestido sözcüğünün çekimi) (sıfat) vestido kelimesinin karşılığı: ⟪kıyafetli|KIYAFETLİ⟫
+VESTIDO	(sıfat) vestido kelimesinin karşılığı: ⟪kıyafetli|KIYAFETLİ⟫\n(ad) vestido kelimesinin karşılığı: ⟪fistan|FİSTAN⟫
+VESTIDOS	(ad) çoğul çekimi: vestido
+VESTIGIO	(ad) takip: izinden gitme, riayet etme, uyma (ayrıca: alamet)
+VESTINDO	(vestir sözcüğünün çekimi) (eylem) giydirmek: giyme işini yaptırmak.
+VESTIR	(eylem) giydirmek: giyme işini yaptırmak.
+VESTUARIO	(ad) giyim: giysi. (ayrıca: giysiler)
+VETERANO	(ad) veterano kelimesinin karşılığı: emekli asker
+VETERINARIO	(ad) baytar: hayvan hastalıkları hekimi, veteriner
+VETO	(ad) veto: Bir yetkinin, bir yasanın, bir kararın yürürlüğe girmesine karşı çıkma hakkı
+VETOR	(ad) vetor kelimesinin karşılığı: ⟪yöney|YÖNEY⟫, ⟪vektör|VEKTÖR⟫
+VEU	(ad) veu kelimesinin karşılığı: baş örtüsü
+VEXAR	(eylem) üzmek: koparmak, ayırmak (ayrıca: çektirmek)
+VEXILO	(ad) vexilo kelimesinin karşılığı: ⟪rüzgârgülü|RÜZGARGÜLÜ⟫
+VEZ	(ad) vakit: belirlenmiş olan zaman (ayrıca: zaman, defa)
+VEZES	(ad) çoğul çekimi: vez
+VEZO	(ad) görenek: Bir şeyi eskiden beri görüldüğü gibi yapma alışkanlığı; âdet.
+VIA	(ad) yol: Gidiş çabukluğu, hız. (ayrıca: yolla, patika)
+VIABILIZAR	(eylem) aktifleştirmek: aktifleşmesini sağlamak, aktif duruma getirmek (ayrıca: yol açmak)
+VIADUTO	(ad) viaduto kelimesinin karşılığı: köprüyol
+VIADUTOS	(ad) çoğul çekimi: viaduto
+VIAGEM	(ad) seyahat: bir yerden bir yere gidiş veya geliş (ayrıca: gezi, yolculuk)
+VIAJA	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJADO	(sıfat) viajado kelimesinin karşılığı: ⟪absürt|ABSÜRT⟫, ⟪akılsız|AKILSIZ⟫
+VIAJAM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJANDO	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJANTE	(ad) gezgin: gezmek, tanımak, görmek, dinlenmek amacıyla geziye çıkan kişi, gezmen, seyyah
+VIAJANTES	(ad) çoğul çekimi: viajante
+VIAJAR	(eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARA	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARAM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARAO	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAREI	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAREM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAREMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARIA	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARIAM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARIAMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJARMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJASSE	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJASSEM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJASSEMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJASTE	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAVA	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAVAM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJAVAMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJE	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJEI	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJEM	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJEMOS	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJES	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJO	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAJOU	(viajar sözcüğünün çekimi) (eylem) gezmek: bir yerde dolaşmak, yürümek
+VIAM	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VIAS	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VIBORA	(ad) vibora kelimesinin karşılığı: ⟪engerek|ENGEREK⟫
+VIBRA	(vibrar sözcüğünün çekimi) (eylem) titremek: Küçük ve hızlı salınım hareketleri yapmak; tirildemek.
+VIBRADOR	(ad) vibrador kelimesinin karşılığı: ⟪vibratör|VİBRATÖR⟫
+VIBRAR	(eylem) titremek: Küçük ve hızlı salınım hareketleri yapmak; tirildemek.
+VIBRAÇAO	(ad) ihtizaz: titreşme, titreşim (ayrıca: titreşim)
+VICEJA	(vicejar sözcüğünün çekimi) (eylem) vicejar kelimesinin karşılığı: ⟪gelişmek|GELİŞMEK⟫, inkişaf etmek
+VICEJAM	(vicejar sözcüğünün çekimi) (eylem) vicejar kelimesinin karşılığı: ⟪gelişmek|GELİŞMEK⟫, inkişaf etmek
+VICEJAR	(eylem) vicejar kelimesinin karşılığı: ⟪gelişmek|GELİŞMEK⟫, inkişaf etmek
+VICIADA	(viciado sözcüğünün çekimi) (sıfat) viciado kelimesinin karşılığı: ⟪bağımlı|BAĞIMLI⟫
+VICIADO	(sıfat) viciado kelimesinin karşılığı: ⟪bağımlı|BAĞIMLI⟫\n(ad) addikt: Madde ve uyuşturucu bağımlısı.
+VICIAR	(eylem) şımartmak: şımarmasına yol açmak
+VICIO	(ad) kusur: özür
+VICIOS	(ad) çoğul çekimi: vício
+VICISSITUDE	(ad) çeşitleme: farklı olma durumu, farklılık (ayrıca: değişim)
+VICISSITUDES	(vicissitude sözcüğünün çekimi) (ad) çeşitleme: farklı olma durumu, farklılık (ayrıca: değişim)
+VIDA	(ad) ömür: yaşam (ayrıca: yaşam, hayat)
+VIDAS	(vida sözcüğünün çekimi) (ad) ömür: yaşam (ayrıca: yaşam, hayat)
+VIDE	(eylem) görmek: ziyaret etmek
+VIDEIRA	(ad) videira kelimesinin karşılığı: ⟪sarmaşık|SARMAŞIK⟫
+VIDEIRAS	(ad) çoğul çekimi: videira
+VIDEO	(ad) video: Manyetik bantlar üzerinde yer alan veya sayısal olarak derlenmiş hareketli resimler dizisi.
+VIDEOS	(ad) çoğul çekimi: vídeo
+VIDO	(ad) vido kelimesinin karşılığı: adi huş
+VIDOEIRO	(ad) huş: huşgillerden, kerestelik bir ağaç cinsi
+VIDRACEIRO	(ad) camcı: Cam takma işleri yapılan dükkân; camevi
+VIDREIRO	(ad) camcı: Cam takma işleri yapılan dükkân; camevi\n(sıfat) cam: bina malzemeleri (ayrıca: bardak)
+VIDRO	(ad) cam: bina malzemeleri
+VIEIRAS	(ad) çoğul çekimi: vieira
+VIER	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIERA	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIERAM	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIES	(ad) vies kelimesinin karşılığı: ⟪yanlılık|YANLILIK⟫
+VIESSE	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIESSEM	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIETNAMITA	(ad) vietnamita kelimesinin karşılığı: vietnamca
+VIETNAMITAS	(ad) çoğul çekimi: vietnamita
+VIGA	(ad) demet: Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi. (ayrıca: kiriş, mertek)
+VIGARISTA	(ad) üçkâğıtçı: dolandırıcı, hilekâr, sahtekâr kimse (ayrıca: dolandırıcı, düzenbaz)
+VIGENCIA	(ad) vigencia kelimesinin karşılığı: ⟪terim|TERİM⟫
+VIGENTE	(sıfat) cari: geçerli olan, yürürlükteki (ayrıca: güncel)
+VIGESIMO	(sıfat) yirminci: 20.
+VIGIA	(ad) saat: Bir işin yapıldığı belli bir zaman. (ayrıca: kol saati, direkçi)
+VIGIAI	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAMOS	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIANDO	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAR	(eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARA	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARAM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARAO	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAREI	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAREM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAREMOS	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARES	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARIA	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARIAM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIARMOS	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAS	(vigia sözcüğünün çekimi) (ad) saat: Bir işin yapıldığı belli bir zaman. (ayrıca: kol saati, direkçi)
+VIGIASSE	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIASSEM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIASSEMOS	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAVA	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAVAM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIAVAMOS	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIE	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIEI	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIEM	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIEMOS	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIO	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGIOU	(vigiar sözcüğünün çekimi) (eylem) izlemek: Gözlemek, incelemek. (ayrıca: seyretmek, gözetlemek)
+VIGOR	(ad) kuvvet: Bir cismin konumunun, hareket özelliğinin veya şeklinin değişmesine sebep olan tesir, güç (ayrıca: erke)
+VIGORAR	(eylem) güçlendirilmek: güçlü duruma getirilmek, güç kazanması sağlanılmak (ayrıca: pekiştirmek, sağlamlaştırmak)
+VIGOROSA	(vigoroso sözcüğünün çekimi) (sıfat) dinç: canlı, zinde bir biçimde
+VIGOROSO	(sıfat) dinç: canlı, zinde bir biçimde
+VIL	(sıfat) vil kelimesinin karşılığı: ak gözlü
+VILA	(ad) varoş: Şehrin merkezinden uzak ve çoğu eğitim düzeyi düşük yoksul halkın oturduğu semt, kenar mahalle.
+VILAO	(sıfat) vilao kelimesinin karşılığı: ⟪kırsal|KIRSAL⟫
+VILAREJO	(ad) köy: Belediye teşkilatına sahip olmayan, ortak veya özel malları bulunan, nüfusu iki binden aşağı olan, genellikle tarımsal alanda çalışılan, konutları ve öteki yapıları bu hayata uygun yerleşim birimi.
+VILAS	(ad) çoğul çekimi: vila
+VIMOS	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VINA	(ad) sosis: kürlenmiş etin baharatla yoğurulduktan sonra ya tam ya da yarı pişirilerek hayvan bağırsağı içine doldurulmasıyla hazırlanan bir yiyecek türü::Sosisin ekmeği ve hardalı o kadar boldur ki bir porsiyonla iki kişi bile doyar. - S. Birsel.
+VINAGRE	(ad) vinagre kelimesinin karşılığı: ⟪sirke|SİRKE⟫
+VINCAR	(eylem) vincar kelimesinin karşılığı: ⟪buruşturmak|BURUŞTURMAK⟫
+VINCULADO	(sıfat) ilgili: ilgilenmiş olan, ilgisi bulunan, alakalı, alakadar, müteallik (ayrıca: ilişkin)
+VINCULAR	(eylem) bağlamak: Bir şey veya bir kimse ile diğer bir şey veya kimseyi manevi bir bağla birleştirmek, birbirine yaklaştırmak
+VINCULO	(ad) bağ: ilişki. (ayrıca: bağlantı, link)
+VINDA	(ad) vinda kelimesinin karşılığı: ⟪ulaşma|ULAŞMA⟫, ⟪geliş|GELİŞ⟫
+VINDAS	(vinda sözcüğünün çekimi) (ad) vinda kelimesinin karşılığı: ⟪ulaşma|ULAŞMA⟫, ⟪geliş|GELİŞ⟫
+VINDE	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VINDOURA	(vindouro sözcüğünün çekimi) (sıfat) gelecek: zaman bakımından ileride olması, gerçekleşmesi beklenen, müstakbel
+VINDOURO	(sıfat) gelecek: zaman bakımından ileride olması, gerçekleşmesi beklenen, müstakbel
+VINGANDO	(vingar sözcüğünün çekimi) (eylem) vingar kelimesinin karşılığı: ⟪gelişmek|GELİŞMEK⟫, inkişaf etmek
+VINGANÇA	(ad) vingança kelimesinin karşılığı: öç, ⟪intikam|İNTİKAM⟫
+VINGAR	(eylem) vingar kelimesinin karşılığı: ⟪gelişmek|GELİŞMEK⟫, inkişaf etmek
+VINGARAM	(vingar sözcüğünün çekimi) (eylem) vingar kelimesinin karşılığı: ⟪gelişmek|GELİŞMEK⟫, inkişaf etmek
+VINHA	(ad) bağ: meyve bahçesi. (ayrıca: bağ bahçe)
+VINHAM	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VINHAS	(ad) çoğul çekimi: vinha
+VINHEDO	(ad) bağ: meyve bahçesi. (ayrıca: bağ bahçe)
+VINHEDOS	(vinhedo sözcüğünün çekimi) (ad) bağ: meyve bahçesi. (ayrıca: bağ bahçe)
+VINHETA	(ad) vinyet: Bir kitabın sayfalarını süsleyen başlık, süslü harf gibi motif.
+VINHO	(ad) şarap: üzüm veya başka meyve sularını türlü yöntemlerle mayalandırarak elde edilen alkollü içki
+VINHOS	(ad) çoğul çekimi: vinho
+VINICULTURA	(ad) bağ: Üzüm kütüklerinin dikili bulunduğu toprak parçası; çubukluk.
+VINIL	(ad) vinil kelimesinin karşılığı: ⟪plak|PLAK⟫
+VINIS	(vinil sözcüğünün çekimi) (ad) vinil kelimesinin karşılığı: ⟪plak|PLAK⟫
+VINTE	(sayı) vinte kelimesinin karşılığı: ⟪yirmi|YİRMİ⟫
+VINTEM	(ad) vintem kelimesinin karşılığı: ⟪kiraz|KİRAZ⟫, kiraz rengi, vişne rengi
+VINTENA	(ad) not: okullarda öğrencinin dersle ilgili bilgi ve beceri seviyesini göstermek üzere öğretmenlerce verilen sayı, derece (ayrıca: sonuç)
+VINTENAS	(vintena sözcüğünün çekimi) (ad) not: okullarda öğrencinin dersle ilgili bilgi ve beceri seviyesini göstermek üzere öğretmenlerce verilen sayı,...
+VINTENS	(ad) çoğul çekimi: vintém
+VIOLA	(ad) viyola: yaylı çalgılar ailesinin ikinci üyesidir ve şekli kemana benzemekle beraber kemandan biraz daha büyüktür, alto
+VIOLAS	(viola sözcüğünün çekimi) (ad) viyola: yaylı çalgılar ailesinin ikinci üyesidir ve şekli kemana benzemekle beraber kemandan biraz daha büyüktür,...
+VIOLAÇAO	(ad) violaçao kelimesinin karşılığı: ⟪tecavüz|TECAVÜZ⟫
+VIOLENCIA	(ad) şiddet: bir hareketin, bir gücün derecesi, yeğinlik, sertlik
+VIOLENTA	(violentar sözcüğünün çekimi) (eylem) şımartmak: şımarmasına yol açmak
+VIOLENTAR	(eylem) şımartmak: şımarmasına yol açmak
+VIOLENTO	(sıfat) violento kelimesinin karşılığı: ⟪vahşi|VAHŞİ⟫
+VIOLENTOS	(violento sözcüğünün çekimi) (sıfat) violento kelimesinin karşılığı: ⟪vahşi|VAHŞİ⟫
+VIOLETA	(ad) menekşe: Menekşegiller familyasından, çiçekleri tek renkli, yaprakları yürek biçiminde ve hemen hemen sapsız, ilkbahar aylarında çiçek açan, bir veya çok yıllık otsu bir bitki.
+VIOLETAS	(ad) çoğul çekimi: violeta
+VIOLINISTAS	(ad) çoğul çekimi: violinista
+VIOLINO	(ad) keman: bir yaylı çalgı aleti
+VIOLINOS	(violino sözcüğünün çekimi) (ad) keman: bir yaylı çalgı aleti
+VIOLOES	(ad) çoğul çekimi: violão
+VIOLONCELO	(ad) viyolonsel: Viyoladan büyük, kontrbastan küçük, dört sürtme telli bir orkestra çalgısı
+VIOLONCELOS	(ad) çoğul çekimi: violoncelo
+VIPERINO	(sıfat) viperino kelimesinin karşılığı: ⟪açıkgöz|AÇIKGÖZ⟫, ⟪kurnaz|KURNAZ⟫, ⟪hileci|HİLECİ⟫
+VIR	(eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIRABREQUIM	(ad) virabrequim kelimesinin karşılığı: krank mili
+VIRADA	(ad) sıra: Bir şeye ayrılan, uygun görülen veya rastlayan zaman. (ayrıca: nöbet, viraj)
+VIRAM	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VIRAMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRANDO	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAO	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIRAR	(eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARA	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARAM	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARAO	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAREI	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAREM	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAREMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARES	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARIA	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARIAM	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARIAMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRARMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAS	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIRASSE	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRASSEM	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRASSEMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRASTE	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAVA	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAVAM	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRAVAMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRE	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIREI	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIREIS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIREM	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIREMOS	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRES	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRGEM	(ad) bakire: Cinsel ilişkide bulunmamış dişi.
+VIRGINDADE	(ad) virgindade kelimesinin karşılığı: ⟪bekâret|BEKARET⟫
+VIRGULA	(ad) virgül: Yazılı cümlelerde birbiri ardınca sıralanan eş görevli sözcük ve sözcük grupları arasına konulan, kısa bir durmayı göstermek için kullanılan noktalama işaretinin adı (,)
+VIRIA	(vir sözcüğünün çekimi) (eylem) gelmek: Bir yerden alınıp bir yere ulaştırılmak.
+VIRIDE	(sıfat) yeşil: yeşil rengi olan
+VIRIL	(sıfat) viril kelimesinin karşılığı: ⟪eril|ERİL⟫, ⟪erkeksi|ERKEKSİ⟫
+VIRILHA	(ad) kasık: Vücudun karın ile uyluk arasındaki bölümü.
+VIRIS	(viril sözcüğünün çekimi) (sıfat) viril kelimesinin karşılığı: ⟪eril|ERİL⟫, ⟪erkeksi|ERKEKSİ⟫
+VIROTE	(ad) sürme: sürmek işi (ayrıca: cıvata, sürgü)
+VIROU	(virar sözcüğünün çekimi) (eylem) dönmek: kendi çevresinde ya da başka bir şeyin etrafında hareket etmek
+VIRTUAL	(sıfat) sanal: hayali, gerçek olmayan, farazi, zihinde tasarlanmış: Matematikte sanal sayılar, optikte sanal görüntü, fizikte sanal parçacıklar gibi..
+VIRTUDE	(ad) virtude kelimesinin karşılığı: ⟪meziyet|MEZİYET⟫, ⟪erdem|ERDEM⟫
+VIRTUDES	(ad) çoğul çekimi: virtude
+VIRTUOSA	(virtuoso sözcüğünün çekimi) (sıfat) erdemli: erdemi olan, faziletli
+VIRTUOSAS	(ad) çoğul çekimi: virtuosa
+VIRTUOSO	(sıfat) erdemli: erdemi olan, faziletli
+VIRTUOSOS	(virtuoso sözcüğünün çekimi) (sıfat) erdemli: erdemi olan, faziletli
+VIRULENCIA	(ad) virülans: bir mikrobun patojenliği, yani onun hastalığa neden olma yeteneği
+VIRULENTO	(sıfat) geçici: bulaşan, bulaşıcı (ayrıca: sâri, bulaşıcı)
+VIRUS	(ad) virus kelimesinin karşılığı: ⟪virüs|VİRÜS⟫
+VISAO	(ad) manzara: durum.
+VISAR	(eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+VISCERAL	(sıfat) visceral kelimesinin karşılığı: viseral
+VISCOSE	(ad) viscose kelimesinin karşılığı: ⟪viskoz|VİSKOZ⟫
+VISCOSO	(sıfat) ağdalı: (mecaz) karmaşık (ayrıca: akışmaz)
+VISGO	(ad) visgo kelimesinin karşılığı: ⟪akışmazlık|AKIŞMAZLIK⟫
+VISITA	(ad) ziyaretçi: Ziyaret eden, ziyarete giden kimse. (ayrıca: konuk)
+VISITAM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITANDO	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITANTE	(ad) ziyaretçi: Ziyaret eden, ziyarete giden kimse. (ayrıca: konuk)
+VISITAR	(eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARA	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARAM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARAO	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAREI	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAREM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAREMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARIA	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARIAM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARIAMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITARMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAS	(visita sözcüğünün çekimi) (ad) ziyaretçi: Ziyaret eden, ziyarete giden kimse. (ayrıca: konuk)
+VISITASSE	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITASSEM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITASSEMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITASTE	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAVA	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAVAM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITAVAMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITE	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITEI	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITEM	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITEMOS	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITO	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISITOU	(visitar sözcüğünün çekimi) (eylem) visitar kelimesinin karşılığı: ziyaret etmek, ⟪gezmek|GEZMEK⟫
+VISIVEIS	(visivel sözcüğünün çekimi) (sıfat) görünür: görünen, gözle görülebilen
+VISIVEL	(sıfat) görünür: görünen, gözle görülebilen
+VISOM	(ad) visom kelimesinin karşılığı: ⟪vizon|VİZON⟫
+VISSEM	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VISTA	(ad) göz: Bakış, görüş
+VISTAS	(vestir sözcüğünün çekimi) (eylem) giydirmek: giyme işini yaptırmak.
+VISTE	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VISTES	(ver sözcüğünün çekimi) (eylem) görmek: göz yardımıyla bir şeyin varlığını algılamak, seçmek
+VISTO	(ad) vize: Bir şey yapmak için verilen veya alınan serbestlik:
+VISTORIAMOS	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIANDO	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIAR	(eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIARAM	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIAS	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIE	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIEI	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTORIOU	(vistoriar sözcüğünün çekimi) (eylem) vistoriar kelimesinin karşılığı: ⟪denetlemek|DENETLEMEK⟫
+VISTOS	(ad) çoğul çekimi: visto
+VISTOSA	(vistoso sözcüğünün çekimi) (sıfat) vistoso kelimesinin karşılığı: ⟪fiyakalı|FİYAKALI⟫
+VISTOSO	(sıfat) vistoso kelimesinin karşılığı: ⟪fiyakalı|FİYAKALI⟫
+VISUAL	(sıfat) görsel: görme duyusuyla ilgili olan, görmeye dayanan
+VISUALIZAR	(eylem) visualizar kelimesinin karşılığı: tasavvur etmek
+VISUALIZAÇAO	(ad) manzara: tablo.
+VITALICIO	(sıfat) ebedi: sonsuz, ölümsüz, bengi (ayrıca: bengi)
+VITALIDADE	(ad) canlılık: (mecaz) neşeli, hareketli olma durumu
+VITALISMO	(ad) vitalismo kelimesinin karşılığı: vitalizm
+VITALIZAR	(eylem) canlandırmak: yaşatmak, birinin kılığına girmek
+VITELA	(ad) vitela kelimesinin karşılığı: dana eti
+VITELO	(ad) dana: buzağı (ayrıca: baldır, buzağı)
+VITILIGO	(ad) vitiligo kelimesinin karşılığı: vitiligo
+VITIMA	(ad) kurban: dinin buyurduğu veya bir adağı yerine getirmek için kesilen hayvan
+VITIMAS	(ad) çoğul çekimi: vítima
+VITORIA	(ad) zafer: bir yarışma veya uğraşıda çaba harcayarak elde edilen başarı
+VITORIAS	(ad) çoğul çekimi: vitória
+VITRAL	(ad) vitral kelimesinin karşılığı: ⟪vitray|VİTRAY⟫
+VITREO	(sıfat) bardak: Bu kabın alacağı miktarda olan (ayrıca: camsı)
+VITUPERAR	(eylem) vituperar kelimesinin karşılığı: hakaret etmek
+VITUPERIO	(ad) hakaret: onur kırma, onura dokunma (ayrıca: kabahat)
+VIUVA	(ad) viuva kelimesinin karşılığı: dul kadin
+VIUVO	(sıfat) viuvo kelimesinin karşılığı: ⟪mahsus|MAHSUS⟫, ⟪özel|ÖZEL⟫\n(ad) dul: eşi ölmüş veya eşinden boşanmış kadın veya erkek
+VIVAZ	(sıfat) vivaz kelimesinin karşılığı: periodik, yinelenen
+VIVENCIA	(ad) mevcudiyet: varoluş (ayrıca: varlık, vücut)
+VIVENCIAM	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIAMOS	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIANDO	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIAR	(eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIARA	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIARAM	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIAREMOS	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIARMOS	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIAVA	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIE	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIEI	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIEM	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIO	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENCIOU	(vivenciar sözcüğünün çekimi) (eylem) öğrenmek: bilgi edinmek, bellemek (ayrıca: duymak, haber almak)
+VIVENDA	(ad) mekân: bulunulan yer (ayrıca: konut)
+VIVENDO	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVENTE	(sıfat) diri: güçlü olan, zinde
+VIVER	(eylem) yaşamak: devam etmek, sürmek
+VIVERAM	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVERES	(ad) çoğul çekimi: víveres
+VIVES	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVESSE	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVI	(eylem) viver sözcüğünün birinci tekil şahıs geçmiş zaman bildirme kipi çekimi: yaşamak
+VIVIA	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVIAM	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVIAS	(viver sözcüğünün çekimi) (eylem) yaşamak: devam etmek, sürmek
+VIVIDA	(vivido sözcüğünün çekimi) (sıfat) aydın: görgülü, ileri düşünceli, kültürlü, okumuş kişi (ayrıca: aşikâr, parlak)
+VIVIDEZ	(ad) canlılık: (mecaz) neşeli, hareketli olma durumu (ayrıca: fer)
+VIVIDO	(sıfat) aydın: görgülü, ileri düşünceli, kültürlü, okumuş kişi (ayrıca: aşikâr, parlak)
+VIVO	(sıfat) zinde: dinç, canlı, diri, sağlam
+VIVOS	(vivo sözcüğünün çekimi) (sıfat) zinde: dinç, canlı, diri, sağlam
+VIZINHA	(vizinho sözcüğünün çekimi) (ad) komşu: Binalardaki yakın olan kimselerin birbirine göre aldıkları isim
+VIZINHANÇA	(ad) komşuluk: Komşu olma hâli
+VIZINHANÇAS	(ad) çoğul çekimi: vizinhança
+VIZINHO	(ad) komşu: Binalardaki yakın olan kimselerin birbirine göre aldıkları isim
+VIZINHOS	(ad) çoğul çekimi: vizinho
+VIÇOSO	(sıfat) taptaze: (mecaz) bozulmadan, değerinden bir şey yitirmeyerek (ayrıca: körpe)
+VOA	(eylem) voar sözcüğünün çekimi: ##üçüncü tekil şahıs şimdiki zaman bildirme kipi ##ikinci tekil şahıs emir kipi
+VOADOR	(sıfat) voador kelimesinin karşılığı: ⟪uçan|UÇAN⟫
+VOADORA	(ad) voadora kelimesinin karşılığı: ⟪uçma|UÇMA⟫
+VOADORAS	(voadora sözcüğünün çekimi) (ad) voadora kelimesinin karşılığı: ⟪uçma|UÇMA⟫
+VOADORES	(voador sözcüğünün çekimi) (sıfat) voador kelimesinin karşılığı: ⟪uçan|UÇAN⟫
+VOAM	(eylem) voar sözcüğünün üçüncü çoğul şahıs şimdiki zaman bildirme kipi çekimi
+VOANDO	(eylem) voar sözcüğünün gerund çekimi
+VOAR	(eylem) uçmak: Sıvı gaz veya buhar durumuna geçip havaya dağılmak.
+VOAVA	(eylem) voar sözcüğünün birinci tekil şahıs/üçüncü tekil şahıs kusurlu geçmiş zaman bildirme kipi çekimi
+VOCABULARIO	(ad) sözlük: Bir dilin bütün zamanlarda veya belli bir çağda kullanılmış kelimelerini, kelime gruplarını deyim ve atasözlerini genellikle alfabe sırasına göre alarak sözcük türünü, okunuşunu, yabancı kökenliyse hangi dilden geldiğini, kullanım alanlarını gösterip tanımlarını yapan, varsa başka dillerdeki... (ayrıca: kelimeler, kelime dağarcığı)
+VOCABULARIOS	(ad) çoğul çekimi: vocabulário
+VOCABULO	(ad) sözcük: anlamlı ses veya ses birliği (ayrıca: kelime, kavil)
+VOCABULOS	(ad) çoğul çekimi: vocábulo
+VOCAL	(sıfat) vokal: sesle ilgili
+VOCALICO	(sıfat) vocalico kelimesinin karşılığı: ⟪vokal|VOKAL⟫
+VOCALIZAR	(eylem) vocalizar kelimesinin karşılığı: ifade etmek
+VOCAÇAO	(ad) meslek: dizge; öğreti
+VOCE	(zamir) sen: (kişi adılı): ikinci tekil şahısı gösteren söz (ayrıca: siz, size)
+VOCES	(zamir) sen: (kişi adılı): ikinci tekil şahısı gösteren söz (ayrıca: siz, size)
+VOCIFERANDO	(vociferar sözcüğünün çekimi) (eylem) bağırmak: yüksek ve gür sesle konuşmak, nida
+VOCIFERAR	(eylem) bağırmak: yüksek ve gür sesle konuşmak, nida
+VOCIFERAVA	(vociferar sözcüğünün çekimi) (eylem) bağırmak: yüksek ve gür sesle konuşmak, nida
+VOCIFEROU	(vociferar sözcüğünün çekimi) (eylem) bağırmak: yüksek ve gür sesle konuşmak, nida
+VODCA	(ad) vodca kelimesinin karşılığı: ⟪votka|VOTKA⟫
+VODCAS	(ad) çoğul çekimi: vodca
+VODKA	(ad) vodka kelimesinin karşılığı: ⟪votka|VOTKA⟫
+VODKAS	(vodka sözcüğünün çekimi) (ad) vodka kelimesinin karşılığı: ⟪votka|VOTKA⟫
+VOE	(eylem) voar sözcüğünün çekimi: ##birinci tekil şahıs/üçüncü tekil şahıs şimdiki zaman dilek ##üçüncü tekil şahıs emir kipi
+VOGAIS	(ad) çoğul çekimi: vogal
+VOGAL	(ad) ünlü: ses yolunda bir engele çarpmadan çıkan ses, sesli, sesli harf, vokal (ayrıca: sesli)
+VOGAR	(eylem) vogar kelimesinin karşılığı: kürek çekmek
+VOIVODA	(ad) voivoda kelimesinin karşılığı: ⟪voyvoda|VOYVODA⟫
+VOLANTE	(ad) direksiyon: Sürücünün, taşıtı yol boyunda istenilen doğrultuda kontrol etmesini sağlayan genellikle yuvarlak biçimli düzenek; yönelteç
+VOLAPUQUE	(ad) volapuque kelimesinin karşılığı: volapük
+VOLATIL	(sıfat) geçici: çok sürmeyen (ayrıca: gündelik)
+VOLATILIDADE	(ad) uçucu: pilot. (ayrıca: uçuculuk, çeşitlilik)
+VOLEI	(ad) uçantop: voleybol (ayrıca: voleybol)
+VOLEIBOL	(ad) uçantop: voleybol (ayrıca: voleybol)
+VOLIÇAO	(ad) voliçao kelimesinin karşılığı: ⟪istek|İSTEK⟫
+VOLT	(ad) volt kelimesinin karşılığı: ⟪volt|VOLT⟫
+VOLTA	(ad) avdet: dönüş, geri gelme
+VOLTAGEM	(ad) gerilim: bir iletkenin uçları arasındaki gizil güç farkı, potansiyel farkı, voltaj (ayrıca: voltaj)
+VOLTAM	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAMOS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTANDO	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAR	(eylem) dönmek: geri gelmek, geri gitmek
+VOLTARAO	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTARAS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAREI	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAREM	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAREMOS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTARES	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTARIAMOS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTARMOS	(eylem) voltar sözcüğünün çekimi:
+VOLTAS	(volta sözcüğünün çekimi) (ad) avdet: dönüş, geri gelme
+VOLTASSEM	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTASSEMOS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTASSES	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTASTE	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTASTES	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAVA	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAVAM	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAVAMOS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTAVAS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTEI	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTEIS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTEM	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTEMOS	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTES	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTIMETRO	(ad) voltmetre: bir elektrik devresindeki gizil güç farkını volt cinsinden ölçmeye yarayan alet
+VOLTO	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTOU	(voltar sözcüğünün çekimi) (eylem) dönmek: geri gelmek, geri gitmek
+VOLTS	(volt sözcüğünün çekimi) (ad) volt kelimesinin karşılığı: ⟪volt|VOLT⟫
+VOLUME	(ad) hacim: Bir cismin uzayda doldurduğu boşluk.
+VOLUMOSA	(volumoso sözcüğünün çekimi) (sıfat) oylumlu: (mecaz) büyük, geniş
+VOLUMOSO	(sıfat) oylumlu: (mecaz) büyük, geniş
+VOLUNTARIA	(voluntario sözcüğünün çekimi) (sıfat) voluntario kelimesinin karşılığı: ⟪gönüllü|GÖNÜLLÜ⟫
+VOLUNTARIO	(sıfat) voluntario kelimesinin karşılığı: ⟪gönüllü|GÖNÜLLÜ⟫
+VOLUNTARISMO	(ad) voluntarismo kelimesinin karşılığı: ⟪iradecilik|İRADECİLİK⟫
+VOLUPIA	(ad) volupia kelimesinin karşılığı: ⟪şehvet|ŞEHVET⟫
+VOMITAM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAMOS	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITANDO	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAR	(eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITARA	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITARAM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITARAO	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAREI	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAREM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAREMOS	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITARIA	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITARIAM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITARMOS	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITASSE	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITASSEM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITASTE	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAVA	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAVAM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITAVAMOS	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITE	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITEI	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITEM	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITES	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VOMITO	(ad) kusmuk: kusulan şey, kusuntu
+VOMITOU	(vomitar sözcüğünün çekimi) (eylem) kusmak: Midenin içindekini basınçla ağızdan dışarı atmak; boşaltmak, çıkarmak, kayetmek, istifra etmek
+VONTADE	(ad) vontade kelimesinin karşılığı: ⟪arzu|ARZU⟫
+VONTADES	(ad) çoğul çekimi: vontade
+VOO	(ad) uçuş: uçma işi\n(eylem) voar sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi
+VOOS	(ad) çoğul çekimi: vôo
+VOOU	(eylem) voar sözcüğünün üçüncü tekil şahıs tamamlanmış geçmiş zaman bildirme kipi çekimi
+VORAGEM	(ad) voragem kelimesinin karşılığı: girdap, ⟪eğrim|EĞRİM⟫
+VORTICE	(ad) vortice kelimesinin karşılığı: girdap
+VOS	(ad) çoğul çekimi: vó
+VOSSA	(ad) çoğul çekimi: vossa
+VOSSAS	(ad) çoğul çekimi: vossa
+VOSSO	(zamir) vosso kelimesinin karşılığı: ⟪sana|SANA⟫
+VOSSOS	(ad) vossos kelimesinin karşılığı: ⟪nev|NEV⟫, ⟪kibar|KİBAR⟫, ⟪nevi|NEVİ⟫, ⟪çeşit|ÇEŞİT⟫
+VOTAM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTAMOS	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTANDO	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTANTE	(ad) seçmen: Seçimde oy verme hakkı olan kimse; müntehip.
+VOTAR	(eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARA	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARAM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARAO	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTAREI	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTAREM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTAREMOS	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARIA	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARIAM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARIAMOS	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTARMOS	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTASSE	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTASSEM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTASSEMOS	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTAVA	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTAVAM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTEI	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTEM	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTEMOS	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTES	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOTO	(ad) voto kelimesinin karşılığı: oy
+VOTOS	(ad) çoğul çekimi: voto
+VOTOU	(votar sözcüğünün çekimi) (eylem) oy kullanmak: oy vermek kavramının eş anlamlısı.
+VOVO	(ünlem) vovo kelimesinin karşılığı: ⟪dede|DEDE⟫\n(ad) büyükbaba: dede
+VOZ	(ad) ses: Aralarında uyum bulunan titreşimler.
+VOZES	(ad) çoğul çekimi: voz
+VULCANICO	(sıfat) volkanik: Volkanla ilgili
+VULCANIZAÇAO	(ad) vulcanizaçao kelimesinin karşılığı: ⟪vulkanizasyon|VULKANİZASYON⟫
+VULCAO	(ad) vulcao kelimesinin karşılığı: ⟪yanardağ|YANARDAĞ⟫
+VULGAR	(sıfat) banal: sıradan
+VULGARES	(vulgar sözcüğünün çekimi) (sıfat) banal: sıradan
+VULGARIDADES	(ad) çoğul çekimi: vulgaridade
+VULGARMENTE	(zarf) vulgarmente kelimesinin karşılığı: alelumum
+VULNERABILIDADE	(ad) vulnerabilidade kelimesinin karşılığı: yaralanabilirlik
+VULTO	(ad) ehemmiyet: önem (ayrıca: önem, anlam)
+VULTOSO	(sıfat) oylumlu: (mecaz) büyük, geniş (ayrıca: ulu, masif)
+VULVA	(ad) vulva: kadın cinsel organlarının dış kısmı, bıtık, ferç

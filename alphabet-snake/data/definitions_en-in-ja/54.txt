@@ -1,0 +1,2467 @@
+TAB	(名詞) tabの訳: タブ
+TABBED	(tabの変化形) (名詞) tabの訳: タブ
+TABBING	(tabの変化形) (名詞) tabの訳: タブ
+TABLE	(名詞) テーブル: データを記憶するためのオブジェクト。HTMLにおいて表を表す要素。 (ほかに: 食卓)\n(動詞) ～をテーブルに置く。
+TABLEAU	(名詞) tableauの訳: ⟪場面|ばめん⟫
+TABLEAUS	(名詞) tableauの複数形: 場面。
+TABLEAUX	(名詞) tableauの複数形: 場面。
+TABLECLOTH	(名詞) テーブルクロス。
+TABLECLOTHS	(名詞) tableclothの複数形: テーブルクロス。
+TABLED	(動詞) tableの過去形・過去分詞: テーブル: データを記憶するためのオブジェクト。HTMLにおいて表を表す要素。 (ほかに: 食卓)
+TABLES	(名詞) "table" の複数形: テーブル: データを記憶するためのオブジェクト。HTMLにおいて表を表す要素。 (ほかに: 食卓)
+TABLET	(名詞) 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)\n(動詞) tabletの訳: 錠剤化する
+TABLETED	(動詞) tabletの過去形・過去分詞: 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)
+TABLETING	(名詞) tabletingの訳: 錠剤化\n(動詞) tabletの現在分詞: 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)
+TABLETS	(名詞) tabletの複数形: 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)\n(動詞) tabletの直説法現在第三人称単数形: 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)
+TABLETTED	(tabletの変化形) (名詞) 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)
+TABLETTING	(名詞) tabletingの異形。\n(動詞) tabletの現在分詞: 平板: 平らな板。特に測量で、製図用の紙を貼る平らな板。 (ほかに: 銘板)
+TABLING	(動詞) "table" の動名詞又は現在分詞: テーブル: データを記憶するためのオブジェクト。HTMLにおいて表を表す要素。 (ほかに: 食卓)
+TABOO	(名詞) tabooの訳: 禁忌
+TABOOED	(tabooの変化形) (名詞) tabooの訳: 禁忌
+TABOOING	(tabooの変化形) (名詞) tabooの訳: 禁忌
+TABOOS	(tabooの変化形) (名詞) tabooの訳: 禁忌
+TABS	(tabの変化形) (名詞) tabの訳: タブ
+TABULATION	(名詞) 製表: 表を製作すること。
+TABULATIONS	(tabulationの変化形) (名詞) 製表: 表を製作すること。
+TACET	(動詞) tacetの訳: 休止せよ
+TACHOMETER	(名詞) 回転速度計: 回転をつくりだす機械の回転速度を計測する機器。タコメーター。 (ほかに: タコメーター)
+TACHOMETERS	(tachometerの変化形) (名詞) 回転速度計: 回転をつくりだす機械の回転速度を計測する機器。タコメーター。 (ほかに: タコメーター)
+TACIT	(形容詞) tacitの訳: 無言の
+TACITLY	(副詞) tacitlyの訳: 暗黙のうちに
+TACITURN	(形容詞) 無口な。口数の少ない。
+TACITURNITIES	(taciturnityの変化形) (名詞) 無口: 口数が少ないこと。あまり喋らないこと。またそのさま。 (ほかに: 無言, 寡黙)
+TACITURNITY	(名詞) 無口: 口数が少ないこと。あまり喋らないこと。またそのさま。 (ほかに: 無言, 寡黙)
+TACK	(名詞) tackの訳: 落勢
+TACKED	(tackの変化形) (名詞) tackの訳: 落勢
+TACKING	(tackの変化形) (名詞) tackの訳: 落勢
+TACKLE	(名詞) 器具。用具。道具。\n(動詞) 取り組む: 組み合う。相手となり争う。
+TACKLED	(tackleの変化形) (名詞) 器具。用具。道具。
+TACKLES	(名詞) tackleの複数形: 器具。用具。道具。\n(動詞) tackleの直説法現在第三人称単数形: 器具。用具。道具。
+TACKLING	(tackleの変化形) (名詞) 器具。用具。道具。
+TACKLINGS	(tackleの変化形) (名詞) 器具。用具。道具。
+TACKS	(tackの変化形) (名詞) tackの訳: 落勢
+TACT	(名詞) 感触、触覚。[1650年代より]
+TACTFUL	(形容詞) tactfulの訳: 如才ない, 機転の利く
+TACTFULLY	(副詞) tactfullyの訳: 如才なく, そつなく
+TACTFULNESS	(名詞) tactfulnessの訳: 如才なさ
+TACTFULNESSES	(名詞) tactfulnessの複数形: 如才なさ
+TACTIC	(名詞) 手段: ある目的を実現させるための方法。 (ほかに: 方策)\n(形容詞) tacticの訳: 戦術の, 戦法の
+TACTICAL	(形容詞) tacticalの訳: 戦術的な
+TACTICS	(名詞) tacticの複数形: 手段: ある目的を実現させるための方法。 (ほかに: 方策)
+TACTLESS	(形容詞) 機転の利かない。
+TACTS	(名詞) tactの複数形: 感触、触覚。[1650年代より]
+TADPOLE	(名詞) （動物）おたまじゃくし
+TADPOLES	(名詞) tadpole の複数形: （動物）おたまじゃくし
+TAEL	(名詞) 両: （かさ）体積。容積。分量。
+TAELS	(taelの変化形) (名詞) 両: （かさ）体積。容積。分量。
+TAG	(名詞) 付箋: 用件等を書き貼り付ける紙片。 (ほかに: おにごっこ, かけら)
+TAGGED	(tagの変化形) (名詞) 付箋: 用件等を書き貼り付ける紙片。 (ほかに: おにごっこ, かけら)
+TAGGER	(名詞) taggerの訳: おに
+TAGGERS	(taggerの変化形) (名詞) taggerの訳: おに
+TAGGING	(tagの変化形) (名詞) 付箋: 用件等を書き貼り付ける紙片。 (ほかに: おにごっこ, かけら)
+TAGS	(tagの変化形) (名詞) 付箋: 用件等を書き貼り付ける紙片。 (ほかに: おにごっこ, かけら)
+TAIL	(名詞) しっぽ: 脊椎動物以外の動物で、体の後方に突き出た部分。 (ほかに: 尾)\n(動詞) tailの訳: 後をつける, 尾行する
+TAILCOAT	(名詞) 燕尾服: 男性の夜間に使用する洋装礼服の一つ。上着の背後が長くつばめの尾のようになっている。
+TAILCOATS	(名詞) tailcoatの複数形: 燕尾服: 男性の夜間に使用する洋装礼服の一つ。上着の背後が長くつばめの尾のようになっている。
+TAILED	(動詞) "tail" の過去形・過去分詞: しっぽ: 脊椎動物以外の動物で、体の後方に突き出た部分。 (ほかに: 尾)
+TAILER	(tailの変化形) (名詞) しっぽ: 脊椎動物以外の動物で、体の後方に突き出た部分。 (ほかに: 尾)
+TAILING	(動詞) "tail" の動名詞又は現在分詞: しっぽ: 脊椎動物以外の動物で、体の後方に突き出た部分。 (ほかに: 尾)\n(名詞) tailingの訳: 尾鉱, 選鉱くず
+TAILINGS	(名詞) tailingの複数形: "tail" の動名詞又は現在分詞。
+TAILLESS	(形容詞) taillessの訳: 尾のない
+TAILOR	(名詞) 仕立屋: （したてや）衣類の仕立てを行う職人、店。 (ほかに: テーラー)\n(動詞) tailorの訳: 服を仕立てる
+TAILORED	(形容詞) （服が）体にぴったり合った。\n(動詞) tailorの過去形・過去分詞: 仕立屋: （したてや）衣類の仕立てを行う職人、店。 (ほかに: テーラー)
+TAILORING	(動詞) tailorの現在分詞: 仕立屋: （したてや）衣類の仕立てを行う職人、店。 (ほかに: テーラー)\n(名詞) tailoringの訳: 洋服仕立業
+TAILORINGS	(名詞) tailoringの複数形: tailorの現在分詞: 仕立屋: （したてや）衣類の仕立てを行う職人、店。 (ほかに: テーラー)
+TAILORS	(名詞) tailorの複数形: 仕立屋: （したてや）衣類の仕立てを行う職人、店。 (ほかに: テーラー)\n(動詞) tailorの直説法現在第三人称単数形: 仕立屋: （したてや）衣類の仕立てを行う職人、店。 (ほかに: テーラー)
+TAILS	(名詞) "tail" の複数形: しっぽ: 脊椎動物以外の動物で、体の後方に突き出た部分。 (ほかに: 尾)\n(動詞) "tail" の現在第三人称単数形。
+TAILWIND	(名詞) tailwindの訳: ⟪追い風|おいて⟫
+TAILWINDS	(tailwindの変化形) (名詞) tailwindの訳: ⟪追い風|おいて⟫
+TAINT	(名詞) 腐敗: 腐ること。微生物によって分解され、有毒または、役に立たないものに変化する事。\n(動詞) 汚す。汚染する。
+TAINTED	(形容詞) 腐った。汚れた。汚染された。\n(動詞) taintの過去形・過去分詞: 腐敗: 腐ること。微生物によって分解され、有毒または、役に立たないものに変化する事。
+TAINTING	(動詞) taintの現在分詞: 腐敗: 腐ること。微生物によって分解され、有毒または、役に立たないものに変化する事。
+TAINTS	(名詞) taintの複数形: 腐敗: 腐ること。微生物によって分解され、有毒または、役に立たないものに変化する事。\n(動詞) taintの直説法現在第三人称単数形: 腐敗: 腐ること。微生物によって分解され、有毒または、役に立たないものに変化する事。
+TAIPAN	(名詞) コブラ科タイパン属の蛇 (Oxyuranus)。特に、タイパン (O. scutellatus)。
+TAIPANS	(taipanの変化形) (名詞) コブラ科タイパン属の蛇 (Oxyuranus)。特に、タイパン (O. scutellatus)。
+TAKE	(動詞) takeの訳: ～を取る\n(名詞) takeの訳: ⟪取得|とりどく⟫, 収穫, ⟪獲得|かくとく⟫
+TAKEN	(形容詞) 好きで。あこがれて。\n(動詞) takeの過去分詞形: ～を取る。
+TAKEOVER	(名詞) takeoverの訳: ⟪乗っ取り|のっとり⟫, 買収
+TAKEOVERS	(takeoverの変化形) (名詞) takeoverの訳: ⟪乗っ取り|のっとり⟫, 買収
+TAKES	(動詞) takeの直説法現在第三人称単数形: ～を取る\n(名詞) takeの複数形: ～を取る
+TAKIN	(名詞) takinの訳: ターキン
+TAKING	(動詞) takeの現在分詞: ～を取る\n(形容詞) takingの訳: 魅力的な
+TAKINGLY	(takeの変化形) (動詞) takeの訳: ～を取る
+TAKINGS	(名詞) takingの複数形: takeの現在分詞。
+TAKINS	(名詞) takinの複数形: ターキン
+TALA	(名詞) talaの訳: タラ
+TALAS	(talaの変化形) (名詞) talaの訳: タラ
+TALC	(名詞) 滑石: 含水珪酸マグネシウムを含む柔らかく蠟のような鉱物。 (ほかに: タルク)\n(動詞) タルカムパウダーを引く。
+TALCED	(動詞) talcの過去形・過去分詞: 滑石: 含水珪酸マグネシウムを含む柔らかく蠟のような鉱物。 (ほかに: タルク)
+TALCING	(動詞) talcの現在分詞: 滑石: 含水珪酸マグネシウムを含む柔らかく蠟のような鉱物。 (ほかに: タルク)
+TALCKED	(talcの変化形) (名詞) 滑石: 含水珪酸マグネシウムを含む柔らかく蠟のような鉱物。 (ほかに: タルク)
+TALCKING	(talcの変化形) (名詞) 滑石: 含水珪酸マグネシウムを含む柔らかく蠟のような鉱物。 (ほかに: タルク)
+TALCS	(名詞) talcの複数形: 滑石、タルク。\n(動詞) talcの直説法現在第三人称単数形: 滑石: 含水珪酸マグネシウムを含む柔らかく蠟のような鉱物。 (ほかに: タルク)
+TALE	(名詞) taleの訳: 話, 物語\n(動詞) taleの訳: ⟪見做す|みなす⟫
+TALENT	(名詞) 才能、素質、天分。[15世紀より]
+TALENTED	(形容詞) 多才な、一芸に秀でた、才能に恵まれた。
+TALENTS	(名詞) talentの複数形: 才能、素質、天分。[15世紀より]
+TALER	(名詞) talerの訳: ターラー
+TALES	(名詞) taleの複数形: 話, 物語
+TALI	(名詞) talusの複数形: 距骨
+TALION	(名詞) 意趣返し: 恨みを晴らすこと。「意趣」は思う所、すなわち遺恨のこと。
+TALIONS	(talionの変化形) (名詞) 意趣返し: 恨みを晴らすこと。「意趣」は思う所、すなわち遺恨のこと。
+TALISMAN	(名詞) 魔除け: 災厄や悪魔をさけるための、お守りなどの物品。 (ほかに: 御守り, 護符)\n(動詞) talismanの訳: 御守りで飾る
+TALISMANS	(名詞) talismanの複数形: 魔除け: 災厄や悪魔をさけるための、お守りなどの物品。 (ほかに: 御守り, 護符)
+TALK	(動詞) 話す: （はなす）相談する。対話する。\n(名詞) talkの訳: ⟪会話|かいわ⟫
+TALKATIVE	(形容詞) talkativeの訳: 話好きな
+TALKATIVELY	(副詞) おしゃべりに: よく話し、口が軽い様。若干の侮蔑を伴って使う。
+TALKATIVENESS	(名詞) 饒舌。多弁。
+TALKATIVENESSES	(talkativenessの変化形) (名詞) 饒舌。多弁。
+TALKED	(動詞) talkの過去形・過去分詞: 話す: （はなす）相談する。対話する。
+TALKER	(名詞) talkerの訳: 話す人
+TALKERS	(talkerの変化形) (名詞) talkerの訳: 話す人
+TALKING	(名詞) 話。おしゃべり。\n(動詞) talkの動名詞又は現在分詞: 話す: （はなす）相談する。対話する。
+TALKINGS	(名詞) talkingの複数形: 話。おしゃべり。
+TALKS	(名詞) "talk" の複数形: 話す: （はなす）相談する。対話する。\n(動詞) "talk" の三人称単数現在形: 話す: （はなす）相談する。対話する。
+TALL	(形容詞) 高い: 位置が上にある、上方に伸びている、高音の
+TALLER	(形容詞) "tall" の比較級形: 高い: 位置が上にある、上方に伸びている、高音の
+TALLEST	(形容詞) "tall" の最上級形: 高い: 位置が上にある、上方に伸びている、高音の
+TALLIED	(tallyの変化形) (名詞) tallyの訳: 合い印, 符契
+TALLIES	(tallyの変化形) (名詞) tallyの訳: 合い印, 符契
+TALLOW	(名詞) 獣脂、石鹼や蠟燭の材料となる。\n(動詞) tallowの訳: 獣脂を塗る
+TALLOWED	(動詞) tallowの過去形・過去分詞: 獣脂、石鹼や蠟燭の材料となる。
+TALLOWING	(名詞) tallowingの訳: 獣脂の塗布\n(動詞) tallowの動名詞又は現在分詞: 獣脂、石鹼や蠟燭の材料となる。
+TALLOWS	(動詞) tallowの現在第三人称単数形。
+TALLY	(名詞) tallyの訳: 合い印, 符契
+TALLYING	(tallyの変化形) (名詞) tallyの訳: 合い印, 符契
+TALUS	(名詞) talusの訳: 距骨
+TALUSES	(talusの変化形) (名詞) talusの訳: 距骨
+TAMBOURINE	(名詞) タンバリン: 打楽器の一種で円形の木製の胴枠の片面に薄い皮を張りその周囲に金属の二枚合わせた小円盤を数個取り付けた太鼓。革を指先で打ったり振って金属円盤を鳴らしたりする。タンブリンとも。
+TAMBOURINES	(tambourineの変化形) (名詞) タンバリン: 打楽器の一種で円形の木製の胴枠の片面に薄い皮を張りその周囲に金属の二枚合わせた小円盤を数個取り付けた太鼓。革を指先で打ったり振って金属円盤を鳴らしたりする。タンブリンとも。
+TAMPON	(名詞) タンポン。止血栓。\n(動詞) タンポンを挿入する。
+TAMPONED	(動詞) tamponの過去形・過去分詞: タンポン。止血栓。
+TAMPONING	(動詞) tamponの現在分詞: タンポン。止血栓。
+TAMPONS	(名詞) tamponの複数形: タンポン。止血栓。\n(動詞) tamponの直説法現在第三人称単数形: タンポン。止血栓。
+TANGENT	(名詞) 接線。接平面。\n(形容詞) 接線の。接平面の。
+TANGENTIAL	(形容詞) tangentialの訳: 接線の
+TANGENTS	(名詞) tangentの複数形: 接線。接平面。
+TANGERINE	(名詞) tangerineの訳: タンジェリン
+TANGERINES	(tangerineの変化形) (名詞) tangerineの訳: タンジェリン
+TANGIBILITIES	(tangibilityの変化形) (名詞) tangibilityの訳: 有形
+TANGIBILITY	(名詞) tangibilityの訳: 有形
+TANGIBLE	(形容詞) tangibleの訳: 触れられる, 触知できる\n(名詞) tangibleの訳: 触れられる物, 有形資産
+TANGIBLES	(名詞) tangibleの複数形: 触れられる, 触知できる
+TANGIBLY	(副詞) tangiblyの訳: 明白に
+TANGLE	(動詞) tangleの訳: ⟪絡まる|からまる⟫, ⟪縺れる|もつれる⟫\n(名詞) tangleの訳: 絡まり, ⟪縺れ|もつれ⟫
+TANGLED	(動詞) tangleの過去形・過去分詞: ⟪絡まる|からまる⟫, ⟪縺れる|もつれる⟫
+TANGLER	(tangleの変化形) (動詞) tangleの訳: ⟪絡まる|からまる⟫, ⟪縺れる|もつれる⟫
+TANGLES	(動詞) tangleの直説法現在第三人称単数形: ⟪絡まる|からまる⟫, ⟪縺れる|もつれる⟫\n(名詞) tangleの複数形: ⟪絡まる|からまる⟫, ⟪縺れる|もつれる⟫
+TANGLING	(動詞) tangleの現在分詞: ⟪絡まる|からまる⟫, ⟪縺れる|もつれる⟫\n(名詞) 縺れ: 揉め事。 (ほかに: 絡まり)
+TANK	(名詞) 戦車: 履帯（キャタピラ）で走行し、圧倒的な攻撃力を持つ旋回砲塔の火砲と分厚い装甲を備えた軍用車両。 (ほかに: 水槽)
+TANKA	(名詞) 短歌: 五・七・五・七・七の五句体をとる和歌の一種。
+TANKARD	(名詞) tankardの訳: タンカード
+TANKARDS	(名詞) tankardの複数形: タンカード
+TANKAS	(tankaの変化形) (名詞) 短歌: 五・七・五・七・七の五句体をとる和歌の一種。
+TANKED	(tankの変化形) (名詞) 戦車: 履帯（キャタピラ）で走行し、圧倒的な攻撃力を持つ旋回砲塔の火砲と分厚い装甲を備えた軍用車両。 (ほかに: 水槽)
+TANKING	(tankの変化形) (名詞) 戦車: 履帯（キャタピラ）で走行し、圧倒的な攻撃力を持つ旋回砲塔の火砲と分厚い装甲を備えた軍用車両。 (ほかに: 水槽)
+TANKS	(tankの変化形) (名詞) 戦車: 履帯（キャタピラ）で走行し、圧倒的な攻撃力を持つ旋回砲塔の火砲と分厚い装甲を備えた軍用車両。 (ほかに: 水槽)
+TANNER	(名詞) tannerの訳: ⟪かわや⟫
+TANNIN	(名詞) タンニン: 植物の樹皮、果実などに含まれ、その水溶液は収斂性があり、皮革を鞣すのに使用される物質の総称。
+TANNING	(名詞) tanningの訳: 製革
+TANNINS	(名詞) tanninの複数形: タンニン: 植物の樹皮、果実などに含まれ、その水溶液は収斂性があり、皮革を鞣すのに使用される物質の総称。
+TANTALITE	(名詞) tantaliteの訳: タンタル石
+TANTALITES	(名詞) tantaliteの複数形: タンタル石
+TANTALUM	(名詞) タンタル: 原子番号 73、元素記号 Ta の金属元素。単体は常温常圧では灰色の固体。タンタルム。
+TANTALUMS	(名詞) tantalumの複数形: タンタル: 原子番号 73、元素記号 Ta の金属元素。単体は常温常圧では灰色の固体。タンタルム。
+TAO	(名詞) taoの訳: タオ
+TAP	(動詞) tapの訳: 軽くたたく\n(名詞) 軽くたたくこと。
+TAPE	(名詞) テープ: 幅が狭くて長い紙や布など。 (ほかに: 紐)\n(動詞) tapeの訳: テープを巻く, テープで縛る
+TAPED	(tapeの変化形) (名詞) テープ: 幅が狭くて長い紙や布など。 (ほかに: 紐)
+TAPER	(名詞) taperの訳: 細長い蝋燭\n(動詞) 次第に細くする、窄める。
+TAPERED	(動詞) taperの過去形・過去分詞: 細長い蝋燭\n(形容詞) taperedの訳: 先細の
+TAPERER	(taperの変化形) (名詞) taperの訳: 細長い蝋燭
+TAPERING	(taperの変化形) (名詞) taperの訳: 細長い蝋燭
+TAPERS	(名詞) taperの複数形: 細長い蝋燭\n(動詞) taperの直説法現在第三人称単数形: 細長い蝋燭
+TAPES	(tapeの変化形) (名詞) テープ: 幅が狭くて長い紙や布など。 (ほかに: 紐)
+TAPESTRIED	(動詞) tapestryの過去形・過去分詞: タペストリー\n(形容詞) タペストリーで飾った。
+TAPESTRIES	(名詞) tapestryの複数形: タペストリー\n(動詞) tapestryの直説法現在第三人称単数形: タペストリー
+TAPESTRY	(名詞) tapestryの訳: タペストリー\n(動詞) タペストリーで飾る。
+TAPESTRYING	(動詞) tapestryの現在分詞: タペストリー
+TAPEWORM	(名詞) tapewormの訳: ⟪サナダムシ|さなだむし⟫, ⟪真田虫|さなだむし⟫
+TAPEWORMS	(tapewormの変化形) (名詞) tapewormの訳: ⟪サナダムシ|さなだむし⟫, ⟪真田虫|さなだむし⟫
+TAPING	(tapeの変化形) (名詞) テープ: 幅が狭くて長い紙や布など。 (ほかに: 紐)
+TAPIOCA	(名詞) タピオカ: キャッサバの根から製造した澱粉。またそれを主原料に作られた菓子など。
+TAPIOCAS	(名詞) tapiocaの複数形: タピオカ: キャッサバの根から製造した澱粉。またそれを主原料に作られた菓子など。
+TAPIR	(名詞) tapirの訳: 貘, 獏
+TAPIRS	(tapirの変化形) (名詞) tapirの訳: 貘, 獏
+TAPPED	(動詞) tapの過去形: 軽くたたく
+TAPPING	(動詞) tapの現在分詞: 軽くたたく。
+TAPPINGS	(tapの変化形) (動詞) tapの訳: 軽くたたく
+TAPS	(動詞) tapの三人称単数現在形: 軽くたたく\n(名詞) tapの複数形: 軽くたたく
+TAR	(名詞) タール: 個体の有機物が燃焼、乾溜することで生じる黒色または褐色の油のような物質。やに。
+TARANTULA	(名詞) タランチュラ: ヨーロッパの伝説に出てくる毒蜘蛛でモデルとなったタランチュラコモリグモのこと。
+TARANTULAE	(tarantulaの変化形) (名詞) タランチュラ: ヨーロッパの伝説に出てくる毒蜘蛛でモデルとなったタランチュラコモリグモのこと。
+TARANTULAS	(tarantulaの変化形) (名詞) タランチュラ: ヨーロッパの伝説に出てくる毒蜘蛛でモデルとなったタランチュラコモリグモのこと。
+TARDIER	(形容詞) tardyの比較級: 遅れた。遅刻した。
+TARDIES	(名詞) tardyの複数形: 遅れた。遅刻した。
+TARDIEST	(形容詞) tardyの最上級: 遅れた。遅刻した。
+TARDY	(形容詞) 遅れた。遅刻した。\n(名詞) tardyの訳: 遅刻届
+TARE	(名詞) tareの訳: たれ
+TARED	(tarの変化形) (名詞) タール: 個体の有機物が燃焼、乾溜することで生じる黒色または褐色の油のような物質。やに。
+TARES	(tareの変化形) (名詞) tareの訳: たれ
+TARGET	(名詞) 的。標的。狙い。ターゲット。\n(動詞) 狙う。標的にする。
+TARGETED	(動詞) targetの過去形: 的。標的。狙い。ターゲット。
+TARGETING	(動詞) targetの現在分詞形: 的。標的。狙い。ターゲット。
+TARGETS	(名詞) targetの複数形: 的。標的。狙い。ターゲット。\n(動詞) targetの三人称単数現在形: 的。標的。狙い。ターゲット。
+TARIFF	(名詞) 関税: 国が外国からの輸入品に課税すること\n(動詞) 〜に関税を課す。
+TARIFFED	(動詞) tariffの過去形・過去分詞: 関税: 国が外国からの輸入品に課税すること
+TARIFFING	(動詞) tariffの動名詞又は現在分詞: 関税: 国が外国からの輸入品に課税すること
+TARIFFS	(名詞) tariffの複数形: 関税: 国が外国からの輸入品に課税すること\n(動詞) tariffの直説法現在第三人称単数形: 関税: 国が外国からの輸入品に課税すること
+TARING	(tarの変化形) (名詞) タール: 個体の有機物が燃焼、乾溜することで生じる黒色または褐色の油のような物質。やに。
+TARNISH	(名詞) 退色: 色褪せること。また、褪せた色。 (ほかに: 曇り, 変色)\n(動詞) tarnishの訳: 曇る, 変色する, 退色する, 光沢を失う
+TARNISHED	(動詞) tarnishの過去形・過去分詞: 退色: 色褪せること。また、褪せた色。 (ほかに: 曇り, 変色)\n(形容詞) tarnishedの訳: 色褪せた, 変色した
+TARNISHES	(動詞) tarnishの直説法現在第三人称単数形: 退色: 色褪せること。また、褪せた色。 (ほかに: 曇り, 変色)\n(名詞) tarnishの複数形: 退色: 色褪せること。また、褪せた色。 (ほかに: 曇り, 変色)
+TARNISHING	(動詞) tarnishの複数形: 退色: 色褪せること。また、褪せた色。 (ほかに: 曇り, 変色)\n(名詞) tarnishingの訳: ⟪変色|へんしょく⟫
+TAROT	(名詞) タロットカード: 西洋の占いに使用するカード。寓意札22枚と数位札56枚からなる。タロット。 (ほかに: タロット)
+TAROTS	(tarotの変化形) (名詞) タロットカード: 西洋の占いに使用するカード。寓意札22枚と数位札56枚からなる。タロット。 (ほかに: タロット)
+TARP	(名詞) tarpaulinの略。
+TARPS	(tarpの変化形) (名詞) tarpaulinの略。
+TARRED	(tarの変化形) (名詞) タール: 個体の有機物が燃焼、乾溜することで生じる黒色または褐色の油のような物質。やに。
+TARRIED	(動詞) tarryの過去形・過去分詞: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす
+TARRIER	(形容詞) "tarry" の比較級: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす\n(名詞) tarryする人。
+TARRIERS	(名詞) "tarrier" の複数形: "tarry" の比較級: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす
+TARRIES	(名詞) tarryの複数形: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす\n(動詞) tarryの現在第三人称単数形。
+TARRIEST	(形容詞) tarryの最上級: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす
+TARRING	(tarの変化形) (名詞) タール: 個体の有機物が燃焼、乾溜することで生じる黒色または褐色の油のような物質。やに。
+TARRY	(動詞) tarryの訳: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす\n(名詞) tarryの訳: 短期滞在
+TARRYING	(動詞) "tarry" の動名詞又は現在分詞: ⟪ぐずぐずする|ぐずぐず⟫, ⟪遅れる|おくれる⟫, もう少し待つ, 滞在を伸ばす
+TARS	(名詞) tarの複数形: タール: 個体の有機物が燃焼、乾溜することで生じる黒色または褐色の油のような物質。やに。
+TARSAL	(名詞) 足根骨: 足首や踵にある七個の小骨。\n(形容詞) 足根の。足根骨の。
+TARSALS	(tarsalの変化形) (名詞) 足根骨: 足首や踵にある七個の小骨。
+TARSI	(名詞) tarsusの複数形: 足根骨: 足首や踵にある七個の小骨。
+TARSUS	(名詞) 足根骨: 足首や踵にある七個の小骨。
+TART	(形容詞) tartの訳: ぴりっとした, 酸味の強い\n(名詞) tartの訳: タルト, パイの一種
+TARTAN	(名詞) tartanの訳: タータン
+TARTANS	(tartanの変化形) (名詞) tartanの訳: タータン
+TARTED	(動詞) "tart" の過去形・過去分詞: ぴりっとした, 酸味の強い
+TARTER	(形容詞) "tart" の比較級: ぴりっとした, 酸味の強い\n(名詞) tartする人。
+TARTEST	(形容詞) "tart" の最上級: ぴりっとした, 酸味の強い
+TARTING	(動詞) "tart" の動名詞又は現在分詞: ぴりっとした, 酸味の強い
+TARTLY	(副詞) tartlyの訳: 酸っぱく
+TARTNESS	(名詞) tartnessの訳: ⟪酸味|さんみ⟫
+TARTNESSES	(名詞) tartnessの複数形: ⟪酸味|さんみ⟫
+TARTS	(名詞) "tart" の複数形: ぴりっとした, 酸味の強い\n(動詞) "tart" の現在第三人称単数形。
+TASK	(名詞) 課題: 仕事や勉強の題目。 (ほかに: 作業, 仕事)\n(動詞) taskの訳: 仕事を課す
+TASKED	(動詞) taskの過去形・過去分詞: 課題: 仕事や勉強の題目。 (ほかに: 作業, 仕事)
+TASKING	(動詞) "task" の動名詞又は現在分詞: 課題: 仕事や勉強の題目。 (ほかに: 作業, 仕事)
+TASKS	(名詞) "task" の複数形: 課題: 仕事や勉強の題目。 (ほかに: 作業, 仕事)\n(動詞) "task" の現在第三人称単数形。
+TASSEL	(名詞) tasselの訳: タッセル, 飾り房\n(動詞) タッセルで飾る、房を付ける。
+TASSELED	(動詞) tasselの過去形・過去分詞: タッセル, 飾り房\n(形容詞) タッセルの付いた、飾り房の付いた。
+TASSELING	(tasselの変化形) (名詞) tasselの訳: タッセル, 飾り房
+TASSELLED	(動詞) tasselの過去形・過去分詞: タッセル, 飾り房\n(形容詞) タッセルの付いた、飾り房の付いた。
+TASSELLING	(tasselの変化形) (名詞) tasselの訳: タッセル, 飾り房
+TASSELS	(名詞) tasselの複数形: タッセル、飾り房。\n(動詞) tasselの直説法現在第三人称単数形: タッセル, 飾り房
+TASSETS	(名詞) tassetsの訳: ⟪くさずり⟫
+TASTE	(名詞) 味。風味。\n(動詞) 味を見る。試食する。試飲する。
+TASTED	(動詞) tasteの過去形・過去分詞: 味。風味。
+TASTEFUL	(形容詞) 上品な: （じょうひん）品質の良いこと。また、その品。
+TASTELESS	(形容詞) tastelessの訳: 味のない
+TASTES	(名詞) tasteの複数形: 味。風味。\n(動詞) tasteの直説法現在第三人称単数形: 味。風味。
+TASTIER	(形容詞) tastyの比較級: おいしい。風味のある。
+TASTIEST	(形容詞) tastyの最上級: おいしい。風味のある。
+TASTING	(名詞) 試食。試飲。（ワインなどの）鑑定会。\n(動詞) tasteの動名詞又は現在分詞: 味。風味。
+TASTY	(形容詞) おいしい。風味のある。
+TATTER	(名詞) tatterの訳: 切れはし, ぼろきれ\n(動詞) ぼろぼろにする、裂く。
+TATTERED	(形容詞) ぼろぼろの: 物がかなり使用して破れたりして傷んでいるさま。\n(動詞) tatterの過去形・過去分詞: 切れはし, ぼろきれ
+TATTERING	(動詞) tatterの動名詞又は現在分詞: 切れはし, ぼろきれ
+TATTERS	(名詞) "tatter" の複数形: 切れはし, ぼろきれ\n(動詞) "tatter" の現在第三人称単数形。
+TATTIER	(形容詞) "tatty" の比較級形: ⟪じゃがいも⟫
+TATTIES	(名詞) "tatty" の複数形: ⟪じゃがいも⟫
+TATTIEST	(形容詞) "tatty" の最上級形: ⟪じゃがいも⟫
+TATTOO	(名詞) tattooの訳: ⟪いれずみ⟫
+TATTOOED	(tattooの変化形) (名詞) tattooの訳: ⟪いれずみ⟫
+TATTOOER	(tattooの変化形) (名詞) tattooの訳: ⟪いれずみ⟫
+TATTOOING	(tattooの変化形) (名詞) tattooの訳: ⟪いれずみ⟫
+TATTOOS	(tattooの変化形) (名詞) tattooの訳: ⟪いれずみ⟫
+TATTY	(名詞) tattyの訳: ⟪じゃがいも⟫\n(形容詞) tattyの訳: ⟪薄汚い|うすぎたない⟫
+TAU	(名詞) ギリシア文字の第19番目。タウ（Τ, τ）。
+TAUGHT	(動詞) teach の過去・過去分詞: 教える
+TAUNT	(動詞) tauntの訳: 嘲る, ⟪詰る|なじる⟫\n(名詞) 嘲り: （あざけり）嘲ること。嘲笑。 (ほかに: 愚弄)
+TAUNTED	(動詞) tauntの過去形・過去分詞: 嘲る, ⟪詰る|なじる⟫
+TAUNTING	(動詞) tauntの現在分詞: 嘲る, ⟪詰る|なじる⟫\n(名詞) 嘲り: （あざけり）嘲ること。嘲笑。 (ほかに: 愚弄)
+TAUNTS	(動詞) tauntの直説法現在第三人称単数形: 嘲る, ⟪詰る|なじる⟫\n(名詞) tauntの複数形: 嘲る, ⟪詰る|なじる⟫
+TAUS	(tauの変化形) (名詞) ギリシア文字の第19番目。タウ（Τ, τ）。
+TAUTOLOGICAL	(形容詞) 同語反復の。トートロジーの。
+TAUTOLOGICALLY	(tautologicalの変化形) (形容詞) 同語反復の。トートロジーの。
+TAUTOLOGIES	(名詞) tautologyの複数形: 同語反復: 言及しようとしていることが前提と一致してしまっており、述べても意味をなさない主張のこと。 (ほかに: トートロジー)
+TAUTOLOGY	(名詞) 同語反復: 言及しようとしていることが前提と一致してしまっており、述べても意味をなさない主張のこと。 (ほかに: トートロジー)
+TAVERN	(名詞) 酒場: 客に主にアルコール類を提供する飲食店。 (ほかに: 居酒屋)
+TAVERNS	(名詞) tavernの複数形: 酒場: 客に主にアルコール類を提供する飲食店。 (ほかに: 居酒屋)
+TAWNIER	(tawnyの変化形) (名詞) tawnyの訳: 茶褐色
+TAWNIES	(tawnyの変化形) (名詞) tawnyの訳: 茶褐色
+TAWNIEST	(tawnyの変化形) (名詞) tawnyの訳: 茶褐色
+TAWNILY	(tawnyの変化形) (名詞) tawnyの訳: 茶褐色
+TAWNY	(名詞) tawnyの訳: 茶褐色
+TAX	(名詞) 税: (ゼイ) 政府が予算をまかなうために、国民、住民などから徴収する金銭。租税。税金。 (ほかに: 税金, タックス)\n(動詞) taxの訳: 課税する
+TAXATION	(名詞) taxationの訳: 課税, 徴税
+TAXATIONS	(名詞) taxationの複数形: 課税, 徴税
+TAXED	(動詞) "tax" の過去形・過去分詞: 税: (ゼイ) 政府が予算をまかなうために、国民、住民などから徴収する金銭。租税。税金。 (ほかに: 税金, タックス)
+TAXER	(名詞) taxerの訳: 課税する人
+TAXERS	(名詞) taxerの複数形: 課税する人
+TAXES	(名詞) tax の複数形: 税、税金、タックス。\n(動詞) tax の直説法現在第三人称単数形: 税、税金、タックス。
+TAXI	(名詞) タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。\n(動詞) (飛行機が)地上を移動する。
+TAXICAB	(名詞) タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。
+TAXICABS	(taxicabの変化形) (名詞) タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。
+TAXIED	(動詞) "taxi" の過去形・過去分詞: タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。
+TAXIES	(名詞) "taxi" の複数形: タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。\n(動詞) "taxi" の現在第三人称単数形。
+TAXIING	(動詞) "taxi" の動名詞又は現在分詞: タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。
+TAXING	(動詞) "tax" の動名詞又は現在分詞: 税: (ゼイ) 政府が予算をまかなうために、国民、住民などから徴収する金銭。租税。税金。 (ほかに: 税金, タックス)
+TAXIS	(名詞) "taxi" の複数形: タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。\n(動詞) "taxi" の現在第三人称単数形。
+TAXONOMIES	(taxonomyの変化形) (名詞) 分類学: 生物の分類を研究する学問。生物学の一分野。
+TAXONOMY	(名詞) 分類学: 生物の分類を研究する学問。生物学の一分野。
+TAXPAYER	(名詞) 納税者: 納税義務により納税する者。
+TAXPAYERS	(taxpayerの変化形) (名詞) 納税者: 納税義務により納税する者。
+TAXYING	(動詞) "taxi" の動名詞又は現在分詞: タクシー: 客の求めに応じて目的地まで運び、距離や時間に応じて料金を取る営業用の乗用車。
+TEA	(名詞) 茶葉: 茶の葉。特に飲料とするため加工したもの。
+TEACH	(動詞) teachの訳: 教える
+TEACHABLE	(形容詞) teachableの訳: 教えやすい
+TEACHER	(名詞) 教師: 人に何かを教えることを職業とする人。 (ほかに: 先生)
+TEACHERLY	(teacherの変化形) (名詞) 教師: 人に何かを教えることを職業とする人。 (ほかに: 先生)
+TEACHERS	(名詞) "teacher" の複数形: 教師: 人に何かを教えることを職業とする人。 (ほかに: 先生)
+TEACHES	(動詞) "teach" の現在第三人称単数形。
+TEACHING	(名詞) 教え: （おしえ）教えること。また、その内容。\n(動詞) teachの現在分詞: 教える
+TEACHINGS	(名詞) teachingの現在分詞: 教え: （おしえ）教えること。また、その内容。
+TEACUP	(名詞) teacupの訳: 湯呑み茶碗
+TEACUPS	(teacupの変化形) (名詞) teacupの訳: 湯呑み茶碗
+TEAKETTLE	(名詞) 湯沸かし: 湯を沸かすための容器や器具。 (ほかに: 薬缶)
+TEAKETTLES	(名詞) teakettleの複数形: 湯沸かし: 湯を沸かすための容器や器具。 (ほかに: 薬缶)
+TEAMMATE	(名詞) チームメイト: 同じチームにいる人。
+TEAMMATES	(名詞) teammateの複数形: チームメイト: 同じチームにいる人。
+TEAPOT	(名詞) 急須: (きゅうす) 煎茶を煮だす際に使用する取っ手と注ぎ口がついた土瓶。 (ほかに: ティーポット)
+TEAPOTS	(名詞) teapotの複数形: 急須: (きゅうす) 煎茶を煮だす際に使用する取っ手と注ぎ口がついた土瓶。 (ほかに: ティーポット)
+TEAR	(名詞) tearの訳: ⟪涙|なみだ⟫\n(動詞) tearの訳: 涙で溢れる
+TEARAWAY	(名詞) tearawayの訳: 乱暴な若者
+TEARAWAYS	(tearawayの変化形) (名詞) tearawayの訳: 乱暴な若者
+TEARDROP	(名詞) teardropの訳: 涙の雫
+TEARDROPS	(名詞) "teardrop" の複数形: 涙の雫
+TEARED	(動詞) "tear"（涙であふれる） の過去形・過去分詞。
+TEARFUL	(形容詞) tearfulの訳: 涙ぐんだ
+TEARFULLY	(副詞) tearfullyの訳: 涙ぐんで
+TEARIER	(形容詞) tearyの比較級: 涙の: （なみだ）眼球を潤すための体液。悲しいことなど感情が昂ぶったとき多く流れる。 (ほかに: 涙のような)
+TEARIEST	(形容詞) tearyの最上級: 涙の: （なみだ）眼球を潤すための体液。悲しいことなど感情が昂ぶったとき多く流れる。 (ほかに: 涙のような)
+TEARILY	(副詞) tearilyの訳: 涙を浮かべて
+TEARING	(動詞) "tear" の動名詞形又は現在分詞形: ⟪涙|なみだ⟫
+TEARS	(名詞) "tear" の複数形: ⟪涙|なみだ⟫\n(動詞) "tear" の三人称単数現在形: ⟪涙|なみだ⟫
+TEARY	(形容詞) 涙の: （なみだ）眼球を潤すための体液。悲しいことなど感情が昂ぶったとき多く流れる。 (ほかに: 涙のような)
+TEAS	(名詞) teaの複数形: 茶葉: 茶の葉。特に飲料とするため加工したもの。
+TEASE	(動詞) 繊維を選り分ける。\n(名詞) からかう人、ちょっかいを出す人。
+TEASED	(動詞) teaseの過去形・過去分詞: 繊維を選り分ける。
+TEASES	(名詞) "tease" の複数形: 繊維を選り分ける。\n(動詞) "tease" の現在第三人称単数形。
+TEASING	(動詞) teaseの動名詞又は現在分詞: 繊維を選り分ける。\n(名詞) からかい: 言い争うこと。
+TEASPOON	(名詞) ティースプーン。
+TEASPOONS	(名詞) "teaspoon" の複数形: ティースプーン。
+TEAT	(名詞) teatの訳: 乳首
+TEATS	(名詞) teatの複数形: 乳首
+TECHNETIUM	(名詞) テクネチウム: 原子番号 43、元素記号 Tc の金属元素。放射性元素。単体は常温常圧では銀白色の固体。
+TECHNETIUMS	(technetiumの変化形) (名詞) テクネチウム: 原子番号 43、元素記号 Tc の金属元素。放射性元素。単体は常温常圧では銀白色の固体。
+TECHNIC	(名詞) 技術: 個人や小集団の技巧的な能力
+TECHNICAL	(名詞) technicalの訳: ⟪専門|せんもん⟫
+TECHNICALS	(technicalの変化形) (名詞) technicalの訳: ⟪専門|せんもん⟫
+TECHNICIAN	(名詞) 技術者: 技術を活かすことを職業とする人。
+TECHNICIANS	(名詞) technicianの複数形: 技術者: 技術を活かすことを職業とする人。
+TECHNIQUE	(名詞) 技術: 個人や小集団の技巧的な能力 (ほかに: 技巧, 技法)
+TECHNIQUES	(techniqueの変化形) (名詞) 技術: 個人や小集団の技巧的な能力 (ほかに: 技巧, 技法)
+TECHNOLOGICAL	(形容詞) 科学技術の: 自然科学と、その成果としての技術。
+TECHNOLOGIES	(technologyの変化形) (名詞) （不可算）技巧・技術に関する研究。
+TECHNOLOGY	(名詞) （不可算）技巧・技術に関する研究。
+TECTONIC	(形容詞) tectonicの訳: 建設に関する
+TEDIOUS	(形容詞) 退屈な。飽き飽きする。
+TEDIOUSLY	(副詞) うんざりするほど。
+TEDIOUSNESS	(名詞) tediousnessの訳: 退屈さ
+TEDIOUSNESSES	(名詞) tediousnessの複数形: 退屈さ
+TEE	(名詞) teeの訳: ゴルフ用語
+TEED	(teeの変化形) (名詞) teeの訳: ゴルフ用語
+TEEING	(teeの変化形) (名詞) teeの訳: ゴルフ用語
+TEEM	(動詞) いっぱいである。あふれるほどある。
+TEEMED	(動詞) teemの過去形: いっぱいである。あふれるほどある。
+TEEMING	(形容詞) (動物などが) 豊富な。たくさんいる。ごったがえす。\n(動詞) teemの現在分詞形: いっぱいである。あふれるほどある。
+TEEMINGLY	(teemの変化形) (動詞) いっぱいである。あふれるほどある。
+TEEMS	(動詞) teemの三人称単数現在形: いっぱいである。あふれるほどある。
+TEEN	(名詞) teenの訳: 十代
+TEENAGE	(形容詞) 13歳から19歳の。
+TEENAGER	(名詞) 13歳から19歳の人。
+TEENAGERS	(teenagerの変化形) (名詞) 13歳から19歳の人。
+TEENER	(teenの変化形) (名詞) teenの訳: 十代
+TEES	(teeの変化形) (名詞) teeの訳: ゴルフ用語
+TEETH	(名詞) toothの複数形: 歯: （は）動物の口腔内にある咀嚼するための硬い器官。
+TEETHER	(teethの変化形) (名詞) toothの複数形。
+TEETOTAL	(形容詞) teetotalの訳: 絶対禁酒の
+TEETOTALED	(teetotalの変化形) (形容詞) teetotalの訳: 絶対禁酒の
+TEETOTALER	(名詞) 絶対禁酒主義者。
+TEETOTALERS	(名詞) teetotalerの複数形: 絶対禁酒主義者。
+TEETOTALING	(teetotalの変化形) (形容詞) teetotalの訳: 絶対禁酒の
+TEETOTALISM	(名詞) teetotalismの訳: 絶対禁酒主義
+TEETOTALISMS	(teetotalismの変化形) (名詞) teetotalismの訳: 絶対禁酒主義
+TEETOTALLED	(teetotalの変化形) (形容詞) teetotalの訳: 絶対禁酒の
+TEETOTALLER	(名詞) 絶対禁酒主義者
+TEETOTALLERS	(名詞) teetotallerの複数形: 絶対禁酒主義者
+TEETOTALLING	(teetotalの変化形) (形容詞) teetotalの訳: 絶対禁酒の
+TEETOTALS	(teetotalの変化形) (形容詞) teetotalの訳: 絶対禁酒の
+TEGMENTUM	(名詞) tegmentumの訳: 被蓋
+TEGUMENT	(名詞) tegumentの訳: 覆い, 外被
+TEGUMENTS	(名詞) tegumentの複数形: 覆い, 外被
+TELECOMMUNICATION	(名詞) 電気通信: 有線、無線その他の電磁的方式により、符号、音響又は影像を送り、伝え、又は受けること（電気通信事業法第2条）。 (ほかに: 通信)
+TELECOMMUNICATIONS	(名詞) telecommunicationの複数形: 通信、電気通信。
+TELEGRAM	(名詞) 電報: 電信によって文字などを送受する通信。\n(動詞) telegramの訳: 電報を打つ
+TELEGRAMMED	(動詞) "telegram" の過去形・過去分詞: 電報: 電信によって文字などを送受する通信。
+TELEGRAMMING	(動詞) "telegram" の動名詞又は現在分詞: 電報: 電信によって文字などを送受する通信。
+TELEGRAMS	(名詞) "telegram" の複数形: 電報: 電信によって文字などを送受する通信。\n(動詞) "telegram" の現在第三人称単数形。
+TELEGRAPH	(名詞) 電信: 電流・電波を利用し、文字や記号を伝送する通信。\n(動詞) telegraphの訳: 電報を打つ, 打電する
+TELEGRAPHED	(動詞) "telegraph" の過去形・過去分詞: 電信: 電流・電波を利用し、文字や記号を伝送する通信。
+TELEGRAPHIC	(形容詞) 電報・電信の、電報・電信に関する。
+TELEGRAPHING	(動詞) "telegraph" の動名詞又は現在分詞: 電信: 電流・電波を利用し、文字や記号を伝送する通信。
+TELEGRAPHS	(名詞) "telegraph" の複数形: 電信: 電流・電波を利用し、文字や記号を伝送する通信。\n(動詞) "telegraph" の現在第三人称単数形。
+TELEMARK	(名詞) telemarkの訳: テレマークスキー
+TELEMARKS	(telemarkの変化形) (名詞) telemarkの訳: テレマークスキー
+TELEOLOGIES	(teleologyの変化形) (名詞) teleologyの訳: 目的論
+TELEOLOGY	(名詞) teleologyの訳: 目的論
+TELEPATHIC	(形容詞) テレパシーの: ある人の意志や感情が言語・表情・身振りなどによらずに、直接他の人に伝達されること。精神感応。思念伝達。遠感。
+TELEPATHIES	(名詞) telepathyの複数形: テレパシー: ある人の意志や感情が言語・表情・身振りなどによらずに、直接他の人に伝達されること。精神感応。思念伝達。遠感。
+TELEPATHY	(名詞) テレパシー: ある人の意志や感情が言語・表情・身振りなどによらずに、直接他の人に伝達されること。精神感応。思念伝達。遠感。
+TELEPHONE	(名詞) 電話: 音声を電気信号に変換し、回線を通じて離れた場所にいる相手方にこれを伝え、お互いに会話ができるようにした機構および、その手段のこと。\n(動詞) telephoneの訳: 電話する
+TELEPHONED	(動詞) "telephone" の過去形・過去分詞: 電話: 音声を電気信号に変換し、回線を通じて離れた場所にいる相手方にこれを伝え、お互いに会話ができるようにした機構および、その手段のこと。
+TELEPHONES	(名詞) "telephone" の複数形: 電話: 音声を電気信号に変換し、回線を通じて離れた場所にいる相手方にこれを伝え、お互いに会話ができるようにした機構および、その手段のこと。\n(動詞) "telephone" の現在第三人称単数形。
+TELEPHONIC	(形容詞) 電話の。電話による。
+TELEPHONICALLY	(副詞) telephonicallyの訳: 電話で
+TELEPHONIES	(telephonyの変化形) (名詞) telephonyの訳: 電話通信
+TELEPHONING	(動詞) "telephone" の動名詞又は現在分詞: 電話: 音声を電気信号に変換し、回線を通じて離れた場所にいる相手方にこれを伝え、お互いに会話ができるようにした機構および、その手段のこと。
+TELEPHONY	(名詞) telephonyの訳: 電話通信
+TELEPORT	(動詞) 瞬間移動する、テレポートする。\n(名詞) 瞬間移動する人。
+TELEPORTED	(動詞) teleportの過去形・過去分詞: 瞬間移動する、テレポートする。
+TELEPORTING	(動詞) teleportの現在分詞: 瞬間移動する、テレポートする。
+TELEPORTS	(動詞) teleportの直説法現在第三人称単数形: 瞬間移動する、テレポートする。\n(名詞) teleportの複数形: 瞬間移動する、テレポートする。
+TELESCOPE	(名詞) telescopeの訳: 天体望遠鏡\n(動詞) （望遠鏡によって）天体を観測する。
+TELESCOPED	(動詞) "telescope" の過去形・過去分詞: 天体望遠鏡
+TELESCOPES	(名詞) "telescope" の複数形: 天体望遠鏡\n(動詞) "telescope" の現在第三人称単数形。
+TELESCOPING	(動詞) "telescope" の動名詞又は現在分詞: 天体望遠鏡
+TELEVISION	(名詞) テレビ: テレビジョン技術
+TELEVISIONS	(名詞) televisionの複数形: テレビ: テレビジョン技術
+TELEX	(名詞) telexの訳: テレックス, 加入電信
+TELEXED	(telexの変化形) (名詞) telexの訳: テレックス, 加入電信
+TELEXES	(telexの変化形) (名詞) telexの訳: テレックス, 加入電信
+TELEXING	(telexの変化形) (名詞) telexの訳: テレックス, 加入電信
+TELL	(動詞) 言う: （いう）表現する。伝達する。主張する。意図する。 (ほかに: 話す)
+TELLER	(名詞) tellerの訳: 話し手
+TELLERS	(名詞) tellerの複数形: 話し手。
+TELLING	(動詞) tellの動名詞又は現在分詞: 言う: （いう）表現する。伝達する。主張する。意図する。 (ほかに: 話す)\n(形容詞) 効き目のある。効果的な。
+TELLINGLY	(副詞) tellinglyの訳: 効果的に
+TELLS	(tellの変化形) (動詞) 言う: （いう）表現する。伝達する。主張する。意図する。 (ほかに: 話す)
+TELLTALE	(形容詞) telltaleの訳: 暴露する\n(名詞) おしゃべり: よく話し、口が軽い人。若干の侮蔑を伴って使う。
+TELLTALES	(telltaleの変化形) (形容詞) telltaleの訳: 暴露する
+TELLURIUM	(名詞) telluriumの訳: テルル
+TELLURIUMS	(名詞) telluriumの複数形: テルル
+TELOMERE	(名詞) テロメア。末端小粒、末端染色小粒。
+TELOMERES	(telomereの変化形) (名詞) テロメア。末端小粒、末端染色小粒。
+TEMP	(名詞) temperatureの短縮。\n(副詞) temp.の異形。
+TEMPER	(名詞) temperの訳: ⟪性質|せいしつ⟫\n(動詞) temperの訳: 抑制する
+TEMPERAMENT	(名詞) 気質: （かたぎ）ある年齢層や職業に特有な気風。
+TEMPERAMENTAL	(形容詞) 気質の: （心理学）人に先天的に備わった感情の反応傾向。心理的な性質、特性。
+TEMPERAMENTALLY	(副詞) 神経質に: 何かに感じやすいこと。また、気分が変わりやすいこと。
+TEMPERAMENTS	(名詞) "temperament" の複数形: 気質: （かたぎ）ある年齢層や職業に特有な気風。
+TEMPERANCE	(名詞) 節酒。禁酒。
+TEMPERANCES	(名詞) temperanceの複数形: 節酒。禁酒。
+TEMPERATE	(形容詞) temperateの訳: 穏やかな
+TEMPERATELY	(副詞) temperatelyの訳: 穏やかに, 節度を持って
+TEMPERATURE	(名詞) 温度: 熱さ・冷たさの度合で、熱いほど高い値を示す。熱力学においては、熱平衡の状態を決める尺度である。高温ほど、その物質中の原子の平均運動エネルギーが大きい。
+TEMPERATURES	(名詞) temperatureの複数形: 温度: 熱さ・冷たさの度合で、熱いほど高い値を示す。熱力学においては、熱平衡の状態を決める尺度である。高温ほど、その物質中の原子の平均運動エネルギーが大きい。
+TEMPERED	(形容詞) temperedの訳: ～な気質の\n(動詞) temperの過去形・過去分詞: ⟪性質|せいしつ⟫
+TEMPERING	(動詞) temperの動名詞又は現在分詞: ⟪性質|せいしつ⟫\n(名詞) temperingの訳: 和らぐこと
+TEMPERS	(名詞) temperの複数形: ⟪性質|せいしつ⟫\n(動詞) temperの現在第三人称単数形。
+TEMPEST	(名詞) 大嵐。暴風雨。\n(動詞) 荒れる: 気性が激しくなったり、暴れたりする。
+TEMPESTED	(動詞) tempestの過去形・過去分詞: 大嵐。暴風雨。
+TEMPESTING	(動詞) tempestの現在分詞: 大嵐。暴風雨。
+TEMPESTS	(名詞) tempestの複数形: 大嵐。暴風雨。\n(動詞) tempestの直説法現在第三人称単数形: 大嵐。暴風雨。
+TEMPESTUOUS	(形容詞) tempestuousの訳: 大嵐の
+TEMPESTUOUSLY	(tempestuousの変化形) (形容詞) tempestuousの訳: 大嵐の
+TEMPI	(名詞) tempoの複数形: 速度。テンポ。
+TEMPLATE	(名詞) templateの訳: ⟪型板|かたいた⟫, 雛形\n(動詞) テンプレートで組み立てる。
+TEMPLATES	(名詞) templateの複数形: ⟪型板|かたいた⟫, 雛形\n(動詞) templateの直説法現在第三人称単数形: ⟪型板|かたいた⟫, 雛形
+TEMPLE	(名詞) 寺院: 仏教などの祭祀を行う建物。 (ほかに: 寺, 神殿)\n(動詞) 寺院・神殿を建てて祭る。
+TEMPLED	(形容詞) templedの訳: 神殿のある\n(動詞) templeの過去形・過去分詞: 寺院: 仏教などの祭祀を行う建物。 (ほかに: 寺, 神殿)
+TEMPLES	(名詞) templeの複数形: 寺院: 仏教などの祭祀を行う建物。 (ほかに: 寺, 神殿)\n(動詞) templeの直説法現在第三人称単数形: 寺院: 仏教などの祭祀を行う建物。 (ほかに: 寺, 神殿)
+TEMPO	(名詞) 速度。テンポ。
+TEMPORAL	(形容詞) 世俗の: 宗教に関係しないこと。無宗教。 (ほかに: 現世の)\n(名詞) temporalの訳: 一時的なもの
+TEMPORALLY	(副詞) 時間的に: 時間の流れに従うさま。時間で判断するさま。
+TEMPORALS	(名詞) temporalの複数形: 世俗の: 宗教に関係しないこと。無宗教。 (ほかに: 現世の)
+TEMPORARIES	(名詞) "temporary" の複数形: 暫くの, 臨時の, 一時的な
+TEMPORARILY	(副詞) 暫く: （暫く・須臾・頃刻・斯須）短い時間しか経っていない様子。 (ほかに: 一時的に, 暫時に)
+TEMPORARINESS	(名詞) 暫時: 暫くの間。短い時間。束の間。副詞的にも用いる。 (ほかに: 暫定)
+TEMPORARINESSES	(temporarinessの変化形) (名詞) 暫時: 暫くの間。短い時間。束の間。副詞的にも用いる。 (ほかに: 暫定)
+TEMPORARY	(形容詞) temporaryの訳: 暫くの, 臨時の, 一時的な\n(名詞) 一時雇い、臨時雇い。短期労働者。
+TEMPOS	(tempoの変化形) (名詞) 速度。テンポ。
+TEMPS	(名詞) tempの複数形: temperatureの短縮。\n(動詞) tempの直説法現在第三人称単数形: temperatureの短縮。
+TEMPT	(動詞) temptの訳: ～を誘惑する
+TEMPTATION	(名詞) 誘惑。衝動。
+TEMPTATIONS	(名詞) temptationの複数形: 誘惑。衝動。
+TEMPTED	(形容詞) temptedの訳: ～したい\n(動詞) "tempt" の過去形・過去分詞: ～を誘惑する
+TEMPTER	(名詞) tempterの訳: 誘惑する人
+TEMPTERS	(名詞) tempterの複数形: 誘惑する人
+TEMPTING	(形容詞) 心をそそる。魅力的な。\n(動詞) "tempt" の動名詞又は現在分詞: ～を誘惑する
+TEMPTS	(動詞) "tempt" の現在第三人称単数形。
+TEMPURA	(名詞) tempuraの訳: ⟪天ぷら|てんぷら⟫
+TEMPURAS	(tempuraの変化形) (名詞) tempuraの訳: ⟪天ぷら|てんぷら⟫
+TEN	(数詞) tenの訳: ⟪十|とおらい⟫\n(形容詞) tenの訳: 十の
+TENACIOUS	(形容詞) tenaciousの訳: 固執した, 頑固な
+TENACITIES	(tenacityの変化形) (名詞) tenacityの訳: ⟪執念|しゅうねん⟫
+TENACITY	(名詞) tenacityの訳: ⟪執念|しゅうねん⟫
+TENANT	(名詞) 立退料: （不動産）土地や建物の賃借人が、明渡しに際して、賃貸人から支払われる金銭のこと。 (ほかに: 貸家, 賃借人)
+TENANTED	(tenantの変化形) (名詞) 立退料: （不動産）土地や建物の賃借人が、明渡しに際して、賃貸人から支払われる金銭のこと。 (ほかに: 貸家, 賃借人)
+TENANTING	(tenantの変化形) (名詞) 立退料: （不動産）土地や建物の賃借人が、明渡しに際して、賃貸人から支払われる金銭のこと。 (ほかに: 貸家, 賃借人)
+TENANTS	(tenantの変化形) (名詞) 立退料: （不動産）土地や建物の賃借人が、明渡しに際して、賃貸人から支払われる金銭のこと。 (ほかに: 貸家, 賃借人)
+TENCH	(名詞) tenchの訳: ⟪テンチ|てんち⟫
+TENCHES	(名詞) tenchの複数形: ⟪テンチ|てんち⟫
+TEND	(動詞) 着火する、～に火をつける。
+TENDED	(動詞) "tend" の過去形・過去分詞: 着火する、～に火をつける。
+TENDENCIES	(名詞) "tendency" の複数形: 傾向: 物事の性質や状態または人の行動や考えが特定の方向へ偏ること。その偏り。 (ほかに: 性向, 癖)
+TENDENCY	(名詞) 傾向: 物事の性質や状態または人の行動や考えが特定の方向へ偏ること。その偏り。 (ほかに: 性向, 癖)
+TENDER	(形容詞) tenderの訳: 優しい\n(名詞) tenderの訳: 世話人
+TENDERED	(動詞) tenderの過去形・過去分詞: 優しい
+TENDERER	(形容詞) "tender" の比較級: 優しい\n(名詞) tenderする人。
+TENDEREST	(形容詞) "tender" の最上級: 優しい
+TENDERFEET	(名詞) tenderfootの複数形: 新参者。新米。
+TENDERFOOT	(名詞) 新参者。新米。
+TENDERFOOTS	(名詞) tenderfootの複数形: 新参者。新米。
+TENDERING	(動詞) tenderの動名詞又は現在分詞: 優しい\n(名詞) tenderingの訳: 入札
+TENDERIZE	(動詞) tenderizeの訳: 柔らかくする
+TENDERIZED	(動詞) tenderizeの過去形・過去分詞: 柔らかくする\n(形容詞) 柔らかくされた。
+TENDERIZES	(動詞) tenderizeの直説法現在第三人称単数形: 柔らかくする
+TENDERIZING	(動詞) tenderizeの現在分詞: 柔らかくする
+TENDERLY	(副詞) そっと: 静かに。 (ほかに: 優しく, 親切に)
+TENDERNESS	(名詞) 思い遣り: （おもいやり）他人の気持ちになり、考えること。同情。 (ほかに: 優しさ)
+TENDERNESSES	(名詞) tendernessの複数形: 思い遣り: （おもいやり）他人の気持ちになり、考えること。同情。 (ほかに: 優しさ)
+TENDERS	(名詞) tenderの複数形: 優しい\n(動詞) tenderの現在第三人称単数形。
+TENDING	(動詞) tendの動名詞又は現在分詞: 着火する、～に火をつける。
+TENDON	(名詞) 腱。筋肉と骨とを繋いでいる強靭な繊維状の生体組織。
+TENDONS	(名詞) tendonの複数形: 腱。筋肉と骨とを繋いでいる強靭な繊維状の生体組織。
+TENDRIL	(名詞) （葡萄などの）巻き鬚。蔓。
+TENDRILS	(名詞) tendrilの複数形: （葡萄などの）巻き鬚。蔓。
+TENDS	(動詞) tendの直説法現在第三人称単数形: 着火する、～に火をつける。
+TENET	(名詞) 信条。教義。原理。
+TENETS	(名詞) tenetの複数形: 信条。教義。原理。
+TENNIS	(名詞) テニス: 2チームがネット越しにボールを打ち合い、得点を競う球技の一つ。硬式・軟式の2種がある。\n(動詞) tennisの訳: テニスをする
+TENNISES	(tennisの変化形) (名詞) テニス: 2チームがネット越しにボールを打ち合い、得点を競う球技の一つ。硬式・軟式の2種がある。
+TENS	(tenの変化形) (数詞) tenの訳: ⟪十|とおらい⟫
+TENSE	(名詞) 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。\n(動詞) 時制を適用する。
+TENSED	(動詞) tenseの過去形・過去分詞: 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。
+TENSELY	(副詞) ぴんと張って。緊張して。
+TENSENESS	(名詞) 緊張: 筋肉が収縮状態を持続していること。
+TENSENESSES	(名詞) tensenessの複数形: 緊張: 筋肉が収縮状態を持続していること。
+TENSER	(形容詞) tenseの比較級: 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。
+TENSES	(名詞) tenseの複数形: 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。\n(動詞) tenseの直説法現在第三人称複数形: 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。
+TENSEST	(形容詞) tenseの最上級: 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。
+TENSING	(動詞) tenseの現在分詞: 時制: 動詞の文法範疇のひとつで、動詞が示す出来事が起こった時間が現在、過去、未来などのうちのどれに当たるかを示すもの。
+TENSION	(名詞) ぴんと張ること。伸張。\n(動詞) tensionの訳: ぴんと張る
+TENSIONED	(形容詞) tensionedの訳: 張力を掛けた\n(動詞) tensionの過去形・過去分詞: ぴんと張ること。伸張。
+TENSIONER	(tensionの変化形) (名詞) ぴんと張ること。伸張。
+TENSIONING	(動詞) tensionの現在分詞: ぴんと張ること。伸張。
+TENSIONS	(名詞) tensionの複数形: ぴんと張ること。伸張。\n(動詞) tensionの直説法現在第三人称単数形: ぴんと張ること。伸張。
+TENTACLE	(名詞) 触手: (比喩)捕食や増殖のために探り探り移動、成長する生物の器官。 (ほかに: 触角)
+TENTACLES	(名詞) tentacleの複数形: 触手: (比喩)捕食や増殖のために探り探り移動、成長する生物の器官。 (ほかに: 触角)
+TENTATIVE	(名詞) tentativeの訳: 試み\n(形容詞) tentativeの訳: 仮の
+TENTATIVELY	(副詞) 仮に: 暫定的に。一時的に。
+TENTATIVES	(tentativeの変化形) (名詞) tentativeの訳: 試み
+TENTER	(名詞) tenterの訳: テンター\n(動詞) （布地を）テンターに張る。
+TENTERED	(tenterの変化形) (名詞) tenterの訳: テンター
+TENTERING	(tenterの変化形) (名詞) tenterの訳: テンター
+TENTERS	(tenterの変化形) (名詞) tenterの訳: テンター
+TENTH	(形容詞) 第十の: 序列が十番目であること。十番目の。 (ほかに: 十番目の)\n(名詞) 第十番目の人又は物
+TENTHLY	(副詞) tenthlyの訳: 10番目に
+TENTHS	(tenthの変化形) (形容詞) 第十の: 序列が十番目であること。十番目の。 (ほかに: 十番目の)
+TENURE	(名詞) tenureの訳: 保有, 保持\n(動詞) 終身在職権を与える。
+TENURED	(形容詞) （大学教授などが）終身在職権のある。\n(動詞) tenureの過去形・過去分詞: 保有, 保持
+TENURES	(名詞) tenureの複数形: 保有, 保持\n(動詞) tenureの直説法現在第三人称単数形: 保有, 保持
+TEPID	(形容詞) 生ぬるい: 少し温い (ほかに: 適度に温かい)
+TEQUILA	(名詞) テキーラ: リュウゼツランの茎から取れる液体を発酵させたものから造られる蒸留酒。
+TEQUILAS	(名詞) tequilaの複数形: テキーラ: リュウゼツランの茎から取れる液体を発酵させたものから造られる蒸留酒。
+TERBIUM	(名詞) terbiumの訳: テルビウム
+TERBIUMS	(terbiumの変化形) (名詞) terbiumの訳: テルビウム
+TERIYAKI	(名詞) teriyakiの訳: ⟪てりやき⟫
+TERIYAKIS	(teriyakiの変化形) (名詞) teriyakiの訳: ⟪てりやき⟫
+TERM	(名詞) 期間。期限。\n(動詞) 名づける。～と称する。～と呼ぶ。
+TERMED	(動詞) "term" の過去形・過去分詞形: 期間。期限。
+TERMINABLE	(形容詞) 止められる。終わらすことのできる。打ち切りの可能な。
+TERMINAL	(形容詞) 終点の: 物事の終わりとなる所。特に列車やバスの到着する最後の地点。 (ほかに: 最後の, 最終的な)\n(名詞) (航空、鉄道などの) 終点。ターミナル。
+TERMINALS	(名詞) terminalの複数形: 終点の: 物事の終わりとなる所。特に列車やバスの到着する最後の地点。 (ほかに: 最後の, 最終的な)
+TERMINATE	(動詞) 止める、打ち切る、途中のまま終わらせる。
+TERMINATED	(動詞) "terminate" の過去形・過去分詞: 止める、打ち切る、途中のまま終わらせる。
+TERMINATES	(動詞) "terminate" の現在第三人称単数形。
+TERMINATING	(動詞) "terminate" の動名詞又は現在分詞: 止める、打ち切る、途中のまま終わらせる。
+TERMINATION	(名詞) 終止: 終わること。 (ほかに: 打ち切り, 中止)
+TERMINATIONS	(名詞) terminationの複数形: 終止: 終わること。 (ほかに: 打ち切り, 中止)
+TERMINATIVE	(形容詞) 終わらせる。続けさせないとして終わりをもたらす。終局の。\n(名詞) terminativeの訳: 到格
+TERMINATIVELY	(terminativeの変化形) (形容詞) 終わらせる。続けさせないとして終わりをもたらす。終局の。
+TERMING	(動詞) "term" の動名詞形又は現在分詞形: 期間。期限。
+TERMINI	(名詞) terminusの複数形: 終点。終着駅。
+TERMINOLOGIES	(terminologyの変化形) (名詞) 専門用語: ある特定の学術や業界、職業などで用いられる用語。
+TERMINOLOGY	(名詞) 専門用語: ある特定の学術や業界、職業などで用いられる用語。
+TERMINUS	(名詞) （鉄道・バスなどの）終点。終着駅。
+TERMINUSES	(名詞) terminus の複数形: （鉄道・バスなどの）終点。終着駅。
+TERMITE	(名詞) termiteの訳: ⟪シロアリ|しろあり⟫
+TERMITES	(名詞) termiteの複数形: ⟪シロアリ|しろあり⟫
+TERMS	(名詞) "term" の複数形: 期間。期限。\n(動詞) "term" の三人称単数現在形: 期間。期限。
+TERNARIES	(ternaryの変化形) (形容詞) 三つから成る。三個一組の。
+TERNARY	(形容詞) 三つから成る。三個一組の。\n(名詞) ternaryの訳: 三進法
+TERRACE	(名詞) terraceの訳: ⟪テラス|てらす⟫
+TERRACED	(terraceの変化形) (名詞) terraceの訳: ⟪テラス|てらす⟫
+TERRACES	(terraceの変化形) (名詞) terraceの訳: ⟪テラス|てらす⟫
+TERRACING	(terraceの変化形) (名詞) terraceの訳: ⟪テラス|てらす⟫
+TERRAIN	(名詞) 地形: （じがた）（不動産）特定の土地の形態や平面的な形のこと。不整形地など。 (ほかに: 地勢)
+TERRAINS	(名詞) terrainの複数形: 地形: （じがた）（不動産）特定の土地の形態や平面的な形のこと。不整形地など。 (ほかに: 地勢)
+TERRAPIN	(名詞) terrapinの訳: キスイガメ
+TERRAPINS	(terrapinの変化形) (名詞) terrapinの訳: キスイガメ
+TERRESTRIAL	(形容詞) 地上の。陸地の。\n(名詞) terrestrialの訳: 陸上植物
+TERRESTRIALS	(terrestrialの変化形) (形容詞) 地上の。陸地の。
+TERRIBLE	(形容詞) 恐怖の: 恐れること。はなはだしく不安を感じること。 (ほかに: 恐ろしい, ぞっとさせる)
+TERRIBLY	(副詞) terriblyの訳: 恐ろしく, 恐ろしげに
+TERRIFIC	(形容詞) 恐ろしい。[17世紀より]
+TERRIFIED	(形容詞) 怯えた。怖がった。\n(動詞) terrifyの過去形・過去分詞: 恐れさせる。ぞっとさせる。
+TERRIFIES	(動詞) terrifyの直説法現在第三人称単数形: 恐れさせる。ぞっとさせる。
+TERRIFY	(動詞) 恐れさせる。ぞっとさせる。
+TERRIFYING	(形容詞) 恐れさせる。ぞっとするような。恐ろしい。\n(動詞) terrifyの現在分詞: 恐れさせる。ぞっとさせる。
+TERRINE	(名詞) テリーヌ用の鍋。
+TERRINES	(名詞) terrineの複数形: テリーヌ用の鍋。
+TERRITORIAL	(形容詞) 土地の: その地方、地域。ご当地。 (ほかに: 領土の, 領地の)\n(名詞) territorialの訳: 国防義勇軍
+TERRITORIALS	(名詞) territorialの複数形: 土地の: その地方、地域。ご当地。 (ほかに: 領土の, 領地の)
+TERRITORIES	(名詞) territoryの複数形: ⟪領域|りょういき⟫
+TERRITORY	(名詞) territoryの訳: ⟪領域|りょういき⟫
+TERROR	(名詞) 極端又は激しい恐れ。恐怖。
+TERRORISM	(名詞) テロリズム: 暴力によって恐怖心を引き起こすことにより、特定の政治的目的を達成しようとする思想。
+TERRORISMS	(terrorismの変化形) (名詞) テロリズム: 暴力によって恐怖心を引き起こすことにより、特定の政治的目的を達成しようとする思想。
+TERRORIST	(名詞) terroristの訳: テロリスト\n(形容詞) terroristの訳: テロリズムの
+TERRORISTS	(名詞) terroristの複数形: テロリスト
+TERRORS	(terrorの変化形) (名詞) 極端又は激しい恐れ。恐怖。
+TESLA	(名詞) テスラ: 磁束密度の単位（国際単位系;SI）。記号はT。
+TESLAS	(teslaの変化形) (名詞) テスラ: 磁束密度の単位（国際単位系;SI）。記号はT。
+TESSERACT	(名詞) 正八胞体。四次元の立方体。超立方体。
+TESSERACTS	(tesseractの変化形) (名詞) 正八胞体。四次元の立方体。超立方体。
+TEST	(名詞) テスト: 試すこと。 (ほかに: 試験, 検査)\n(動詞) testの訳: 試験を受ける
+TESTAMENT	(名詞) 遺言: (ゆいごん) 自らの死後における相続の方法について、生前に行う意思表示。 (ほかに: 遺書)
+TESTAMENTS	(名詞) testamentの複数形: 遺言: (ゆいごん) 自らの死後における相続の方法について、生前に行う意思表示。 (ほかに: 遺書)
+TESTED	(動詞) "test" の過去形・過去分詞: テスト: 試すこと。 (ほかに: 試験, 検査)
+TESTEE	(名詞) 被験者: 実験や試験の対象となる者。
+TESTEES	(testeeの変化形) (名詞) 被験者: 実験や試験の対象となる者。
+TESTER	(名詞) testerの訳: 天蓋
+TESTERS	(名詞) testerの複数形: 天蓋
+TESTES	(名詞) testisの複数形: 睾丸
+TESTICLE	(名詞) testicleの訳: 睾丸
+TESTICLES	(名詞) testicleの複数形: 睾丸
+TESTIER	(形容詞) testyの比較級: 怒りっぽい。短気な。
+TESTIEST	(形容詞) testyの最上級: 怒りっぽい。短気な。
+TESTIFIED	(動詞) testifyの過去形・過去分詞: 証言する。証明する。
+TESTIFIER	(名詞) 証人: 事実を証明する人。
+TESTIFIERS	(名詞) testifierの複数形: 証人: 事実を証明する人。
+TESTIFIES	(動詞) testifyの直説法現在第三人称単数形: 証言する。証明する。
+TESTIFY	(動詞) 証言する。証明する。
+TESTIFYING	(動詞) testifyの現在分詞: 証言する。証明する。
+TESTILY	(副詞) 怒りっぽく。短気に。
+TESTIMONIAL	(名詞) 証明書。推薦状。\n(形容詞) 証拠の。証明となる。
+TESTIMONIALS	(名詞) testimonialの複数形: 証明書。推薦状。
+TESTIMONIES	(名詞) testimonyの複数形: 証言
+TESTIMONY	(名詞) testimonyの訳: 証言
+TESTINESS	(名詞) testinessの訳: 怒りっぽさ
+TESTINESSES	(名詞) testinessの複数形: 怒りっぽさ
+TESTING	(動詞) "test" の動名詞又は現在分詞: テスト: 試すこと。 (ほかに: 試験, 検査)
+TESTIS	(名詞) testisの訳: 睾丸
+TESTONS	(名詞) testonの複数形。
+TESTOSTERONE	(名詞) テストステロン。
+TESTOSTERONES	(名詞) testosteroneの複数形: テストステロン。
+TESTS	(名詞) "test" の複数形: テスト: 試すこと。 (ほかに: 試験, 検査)\n(動詞) "test" の現在第三人称単数形。
+TESTUDINES	(名詞) testudoの複数形: 亀甲型掩蓋
+TESTUDO	(名詞) testudoの訳: 亀甲型掩蓋
+TESTUDOS	(testudoの変化形) (名詞) testudoの訳: 亀甲型掩蓋
+TESTY	(形容詞) 怒りっぽい。短気な。
+TETCHIER	(形容詞) tetchyの比較級: 怒りっぽい。短気な。ぴりぴりした。
+TETCHIEST	(形容詞) tetchyの最上級: 怒りっぽい。短気な。ぴりぴりした。
+TETCHILY	(副詞) 怒りっぽく。短気に。
+TETCHINESS	(名詞) 怒りっぽさ。短気さ。
+TETCHINESSES	(名詞) tetchinessの複数形: 怒りっぽさ。短気さ。
+TETCHY	(形容詞) 怒りっぽい。短気な。ぴりぴりした。
+TETHER	(名詞) 家畜を繋ぎ止める縄。綱。ひも。\n(動詞) 家畜を繋ぎ止める。
+TETHERED	(動詞) "tether" の過去形・過去分詞: 家畜を繋ぎ止める縄。綱。ひも。
+TETHERING	(動詞) "tether" の動名詞形又は現在分詞形: 家畜を繋ぎ止める縄。綱。ひも。\n(名詞) （インターネット）テザリング、携帯電話を介して、PC等と無線接続し、インターネット環境を提供すること。
+TETHERS	(名詞) "tether" の複数形: 家畜を繋ぎ止める縄。綱。ひも。\n(動詞) "tether" の現在第三人称単数形。
+TETRAGON	(名詞) 四角形: （数学）いずれも同一直線上にない4つの線分により構成される閉じた図形。4つの頂点と4つの辺をもつ。記号□。
+TETRAGONS	(tetragonの変化形) (名詞) 四角形: （数学）いずれも同一直線上にない4つの線分により構成される閉じた図形。4つの頂点と4つの辺をもつ。記号□。
+TETRAHEDRA	(名詞) tetrahedronの複数形: (幾何学) 四面体・三角錐。
+TETRAHEDRAL	(形容詞) 四面体の: 四つの平面で囲まれた立体。
+TETRAHEDRON	(名詞) (幾何学) 四面体・三角錐。
+TETRAHEDRONS	(tetrahedronの変化形) (名詞) (幾何学) 四面体・三角錐。
+TEXT	(名詞) 本文: 附属するものを除いた、文章や書物の主体をなす部分。\n(動詞) ショートメッセージサービスでメッセージを送る。
+TEXTBOOK	(名詞) 教科書: 教科の学習において、主な教材として使われるために編集された図書。教科用図書。\n(形容詞) textbookの訳: 模範的な
+TEXTBOOKS	(名詞) textbookの複数形: 教科書: 教科の学習において、主な教材として使われるために編集された図書。教科用図書。
+TEXTILE	(名詞) 織物。布地。\n(形容詞) textileの訳: 織物の
+TEXTILES	(名詞) textileの複数形: 織物。布地。
+TEXTS	(名詞) textの複数形: 本文: 附属するものを除いた、文章や書物の主体をなす部分。\n(動詞) textの現在第三人称単数形。
+TEXTURE	(名詞) 手触り。質感。触感。\n(動詞) 質感を持たせる。
+TEXTURED	(動詞) textureの過去形・過去分詞: 手触り。質感。触感。\n(形容詞) texturedの訳: ～織りの
+TEXTURES	(名詞) textureの複数形: 手触り。質感。触感。\n(動詞) textureの直説法現在第三人称単数形: 手触り。質感。触感。
+TEXTURING	(動詞) textureの現在分詞: 手触り。質感。触感。
+THALAMI	(名詞) thalamusの複数形: 視床: 間脳の大半を占める灰白質の塊。嗅覚以外の感覚の情報を大脳皮質へ中継し、感情の発現、運動の調節などにも関わる。
+THALAMUS	(名詞) 視床: 間脳の大半を占める灰白質の塊。嗅覚以外の感覚の情報を大脳皮質へ中継し、感情の発現、運動の調節などにも関わる。
+THALLI	(名詞) thallusの複数形: 葉状体: 植物や藻類で根・葉・茎の分化のない体制。
+THALLIUM	(名詞) thalliumの訳: タリウム
+THALLIUMS	(名詞) thalliumの複数形: タリウム。
+THALLUS	(名詞) 葉状体: 植物や藻類で根・葉・茎の分化のない体制。
+THALLUSES	(thallusの変化形) (名詞) 葉状体: 植物や藻類で根・葉・茎の分化のない体制。
+THAN	(接続詞) thanの訳: ～よりも\n(前置詞) thanの訳: ～よりも
+THANATOLOGIES	(thanatologyの変化形) (名詞) 死生学: 死についての学問。 (ほかに: 死亡学)
+THANATOLOGY	(名詞) 死生学: 死についての学問。 (ほかに: 死亡学)
+THANK	(名詞) thankの訳: 考え, 思慮\n(動詞) thankの訳: ～に感謝する
+THANKED	(動詞) "thank" の過去形・過去分詞形: 考え, 思慮
+THANKER	(thankの変化形) (名詞) thankの訳: 考え, 思慮
+THANKFUL	(形容詞) 感謝の気持ちでいっぱいの。
+THANKFULLER	(thankfulの変化形) (形容詞) 感謝の気持ちでいっぱいの。
+THANKFULLEST	(thankfulの変化形) (形容詞) 感謝の気持ちでいっぱいの。
+THANKFULLY	(副詞) thankfullyの訳: 感謝して, 有り難く
+THANKFULNESS	(名詞) 感謝: 相手の行為によって自らが恩恵や利益を受けたことを、積極的に評価する感情。ありがたいと思う気持ち。また、恩恵や利益を受けたことについて礼を言うこと。 (ほかに: 謝恩)
+THANKFULNESSES	(thankfulnessの変化形) (名詞) 感謝: 相手の行為によって自らが恩恵や利益を受けたことを、積極的に評価する感情。ありがたいと思う気持ち。また、恩恵や利益を受けたことについて礼を言うこと。 (ほかに: 謝恩)
+THANKING	(動詞) "thank" の動名詞又は現在分詞: 考え, 思慮
+THANKLESS	(形容詞) thanklessの訳: 感謝されない, 報われない
+THANKLESSLY	(副詞) 感謝されることなく
+THANKS	(感動詞) ありがとう: 感謝の意を表すときに用いる。\n(名詞) thankの複数形: 考え, 思慮
+THANKSGIVING	(名詞) 感謝の意を示すこと、特に神の恩寵に対するもの、謝恩。
+THANKSGIVINGS	(名詞) thanksgivingの複数形: 感謝の意を示すこと、特に神の恩寵に対するもの、謝恩。
+THAT	(代名詞) thatの訳: それ/あれ, その/あの\n(副詞) そんなに、あんなに（程度の差を示す)
+THATCH	(名詞) thatchの訳: 屋根葺き材料\n(動詞) 屋根を藁などで葺く。
+THATCHED	(動詞) thatchの過去形・過去分詞: 屋根葺き材料\n(形容詞) thatchedの訳: 藁葺き屋根の
+THATCHES	(名詞) "thatch" の複数形: 屋根葺き材料\n(動詞) "thatch" の現在第三人称単数形。
+THATCHING	(名詞) thatchingの訳: 屋根葺き材料\n(動詞) thatchの動名詞又は現在分詞: 屋根葺き材料
+THAW	(動詞) thawの訳: 解かす, 解凍する\n(名詞) 解凍: 凍ったものを解かすこと。 (ほかに: 解けること, 雪解け)
+THAWED	(thawの変化形) (動詞) thawの訳: 解かす, 解凍する
+THAWER	(thawの変化形) (動詞) thawの訳: 解かす, 解凍する
+THAWING	(thawの変化形) (動詞) thawの訳: 解かす, 解凍する
+THAWS	(thawの変化形) (動詞) thawの訳: 解かす, 解凍する
+THE	(冠詞) その＜話し手と聞き手が共通に理解している名詞であることを示す＞\n(副詞) theの訳: ⟪かえって⟫, ⟪なおさら⟫
+THEATER	(名詞) 劇場: 演劇・映画などを見せるための施設。シアター。
+THEATERS	(theaterの変化形) (名詞) 劇場: 演劇・映画などを見せるための施設。シアター。
+THEATRE	(名詞) theaterの異綴。
+THEATRES	(名詞) "theatre" の複数形: theaterの異綴。
+THEATRICAL	(名詞) しばい: 俳優の演技。
+THEATRICALS	(theatricalの変化形) (名詞) しばい: 俳優の演技。
+THECA	(名詞) 入れ物。容器。
+THECAE	(thecaの変化形) (名詞) 入れ物。容器。
+THEE	(代名詞) （古語、雅語）汝を。汝に。 あなたを。あんたに。\n(動詞) theeの訳: ⟪育つ|そだつ⟫
+THEFT	(名詞) 盗み: 他人の物を盗むこと。窃盗。盗人。 (ほかに: 窃盗)
+THEFTS	(名詞) theftの複数形: 盗み: 他人の物を盗むこと。窃盗。盗人。 (ほかに: 窃盗)
+THEIR	(代名詞) theirの訳: 彼らの, 彼女たちの, それらの
+THEIRS	(代名詞) theirsの訳: 彼らの物
+THEM	(代名詞) themの訳: 彼らを, 彼女らを
+THEMATIC	(形容詞) テーマの: 主題。題目。中心的課題。 (ほかに: 主題の)\n(名詞) thematicの訳: 語幹形成母音, 幹母音
+THEMATICS	(名詞) thematicの複数形: テーマの: 主題。題目。中心的課題。 (ほかに: 主題の)
+THEME	(名詞) テーマ: 主題。題目。中心的課題。 (ほかに: 主題)
+THEMED	(themeの変化形) (名詞) テーマ: 主題。題目。中心的課題。 (ほかに: 主題)
+THEMES	(名詞) "theme" の複数形: テーマ: 主題。題目。中心的課題。 (ほかに: 主題)
+THEMING	(themeの変化形) (名詞) テーマ: 主題。題目。中心的課題。 (ほかに: 主題)
+THEMSELVES	(代名詞) they の再帰形、三人称複数の人称代名詞。
+THEN	(副詞) thenの訳: その時\n(形容詞) thenの訳: その時の
+THENCE	(副詞) thenceの訳: そこから
+THENS	(thenの変化形) (副詞) thenの訳: その時
+THEOLOGIAN	(名詞) 神学者: 神学の専門家。
+THEOLOGIANS	(名詞) theologianの複数形: 神学者: 神学の専門家。
+THEOLOGICAL	(形容詞) 神学の: 信仰を前提とした上で、神などの宗教概念についての理論的考察を行う学問。
+THEOLOGIES	(名詞) "theology" の複数形: 神学: 信仰を前提とした上で、神などの宗教概念についての理論的考察を行う学問。
+THEOLOGY	(名詞) 神学: 信仰を前提とした上で、神などの宗教概念についての理論的考察を行う学問。
+THEOREM	(名詞) 定理: 公理により証明された命題または数学的な主張。
+THEOREMS	(theoremの変化形) (名詞) 定理: 公理により証明された命題または数学的な主張。
+THEORETICAL	(形容詞) theoreticalの訳: 理論上の, 仮説の
+THEORETICALLY	(副詞) theoreticallyの訳: 理論上は
+THEORIES	(名詞) theoryの複数形: ⟪理論|りろん⟫
+THEORISE	(動詞) theoriseの訳: 理論を立てる
+THEORISED	(動詞) （主に英）"theorise" の過去形又は過去分詞。
+THEORISES	(動詞) （主に英）"theorise" の現在第三人称単数形。
+THEORISING	(動詞) （主に英）"theorise" の動名詞又は現在分詞。
+THEORIZE	(動詞) theorizeの訳: 理論を立てる
+THEORIZED	(動詞) （主に米）"theorize" の過去形又は過去分詞。
+THEORIZES	(動詞) （主に米）"theorize" の現在第三人称単数形。
+THEORIZING	(動詞) （主に米）"theorize" の動名詞又は現在分詞。
+THEORY	(名詞) theoryの訳: ⟪理論|りろん⟫
+THERAPEUTIC	(形容詞) 治療の: 怪我や病気を治すこと。
+THERAPIES	(therapyの変化形) (名詞) 治療: 怪我や病気を治すこと。
+THERAPIST	(名詞) 内科医: 内科を専門とする医師。
+THERAPISTS	(therapistの変化形) (名詞) 内科医: 内科を専門とする医師。
+THERAPY	(名詞) 治療: 怪我や病気を治すこと。
+THERE	(副詞) thereの訳: そこで, あそこで
+THEREABOUT	(副詞) thereaboutの訳: そのあたりで
+THEREABOUTS	(副詞) thereaboutの異形。
+THEREAFTER	(副詞) thereafterの訳: その後で
+THEREBY	(副詞) 従って: したがっての漢字表記。 (ほかに: それによって)
+THEREFORE	(副詞) (接続副詞) それ故に。したがって。よって。
+THEREIN	(副詞) thereinの訳: その中で
+THEREINAFTER	(副詞) thereinafterの訳: 後文に, 以下に
+THEREMIN	(名詞) テレミン: 電気楽器の一種。1920年ロシア人技師が発明したもので、低周波を発振する装置に手をかざしたりして音を調整する楽器。 (ほかに: テルミン)
+THEREMINS	(名詞) thereminの複数形: テレミン: 電気楽器の一種。1920年ロシア人技師が発明したもので、低周波を発振する装置に手をかざしたりして音を調整する楽器。 (ほかに: テルミン)
+THEREOF	(副詞) それの。その。
+THEREON	(副詞) thereonの訳: その上に, その表面に
+THERES	(thereの変化形) (副詞) thereの訳: そこで, あそこで
+THEREUNDER	(副詞) thereunderの訳: その下に, 以下に
+THEREUPON	(副詞) thereuponの訳: その結果
+THERM	(名詞) 以前使われていた熱量の単位。100,000 英熱量に等しい。
+THERMAE	(名詞) 温泉: 一定以上の温度であるか、または特定の物質が多く溶け込んだ水が湧き出す泉。日本の場合は、温泉法参照。 (ほかに: 風呂)
+THERMAL	(形容詞) 熱量の: 熱の量。「熱」の量的側面を強調した表現。 (ほかに: 熱の)\n(名詞) thermalの訳: 熱上昇気流
+THERMALS	(thermalの変化形) (形容詞) 熱量の: 熱の量。「熱」の量的側面を強調した表現。 (ほかに: 熱の)
+THERMOCHEMISTRIES	(thermochemistryの変化形) (名詞) 熱化学: 化学変化に伴う熱現象やそれに関連する事柄を研究の対象とする学問。
+THERMOCHEMISTRY	(名詞) 熱化学: 化学変化に伴う熱現象やそれに関連する事柄を研究の対象とする学問。
+THERMODYNAMIC	(形容詞) 熱力学の。熱力学に関する。
+THERMODYNAMICS	(名詞) 熱力学: 温度、圧力、体積、エネルギー、仕事といった熱的な現象を物質の巨視的性質から扱う物理学の一分野。
+THERMOMETER	(名詞) 温度計: 温度を測定する計器。 (ほかに: 寒暖計)
+THERMOMETERS	(thermometerの変化形) (名詞) 温度計: 温度を測定する計器。 (ほかに: 寒暖計)
+THERMONUCLEAR	(形容詞) thermonuclearの訳: 核融合の
+THERMOS	(名詞) 魔法瓶: 内びんと外びんの間に真空の層を設けて、内びんの中のものの温度を長時間保てる瓶。
+THERMOSES	(名詞) "thermos" の複数形: 魔法瓶: 内びんと外びんの間に真空の層を設けて、内びんの中のものの温度を長時間保てる瓶。
+THERMOSPHERE	(名詞) 熱圏: 大気圏のうち、中間圏の上方にある領域。高度80km前後から500km付近までの部分。電離層が幾つか存在する。
+THERMOSPHERES	(名詞) thermosphereの複数形: 熱圏: 大気圏のうち、中間圏の上方にある領域。高度80km前後から500km付近までの部分。電離層が幾つか存在する。
+THERMS	(thermの変化形) (名詞) 以前使われていた熱量の単位。100,000 英熱量に等しい。
+THESAURI	(thesaurusの変化形) (名詞) シソーラス: 単語の上位 / 下位関係、部分 / 全体関係、同義関係、類義関係などによって単語を分類し、体系づけた辞書。
+THESAURUS	(名詞) シソーラス: 単語の上位 / 下位関係、部分 / 全体関係、同義関係、類義関係などによって単語を分類し、体系づけた辞書。
+THESAURUSES	(thesaurusの変化形) (名詞) シソーラス: 単語の上位 / 下位関係、部分 / 全体関係、同義関係、類義関係などによって単語を分類し、体系づけた辞書。
+THESE	(代名詞) これら: 「これ」の複数形
+THESES	(名詞) thesisの複数形: 主張: （しばしばサ変動詞の語幹として）ある意見を強調し賛同を求めること。 (ほかに: 論題)
+THESIS	(名詞) 主張: （しばしばサ変動詞の語幹として）ある意見を強調し賛同を求めること。 (ほかに: 論題)
+THETA	(名詞) ギリシア文字の第8字、θ（シータ）。
+THETAS	(thetaの変化形) (名詞) ギリシア文字の第8字、θ（シータ）。
+THEY	(代名詞) theyの訳: it, he, sheの複数
+THICK	(形容詞) thickの訳: 厚い\n(副詞) thickの訳: 太く
+THICKEN	(動詞) thickenの訳: 厚くする
+THICKENED	(動詞) thickenの過去形・過去分詞: 厚くする
+THICKENING	(動詞) "thicken" の動名詞形又は現在分詞形: 厚くする
+THICKENINGS	(thickenの変化形) (動詞) thickenの訳: 厚くする
+THICKENS	(動詞) thickenの直説法現在第三人称単数形: 厚くする
+THICKER	(形容詞) "thick" の比較級形: 厚い
+THICKEST	(形容詞) "thick" の最上級形: 厚い
+THICKET	(名詞) 茂み: 草木がしげっている場所。ブッシュ。 (ほかに: 雑木林)
+THICKETED	(thicketの変化形) (名詞) 茂み: 草木がしげっている場所。ブッシュ。 (ほかに: 雑木林)
+THICKETS	(名詞) "thicket" の複数形: 茂み: 草木がしげっている場所。ブッシュ。 (ほかに: 雑木林)
+THICKLY	(副詞) thicklyの訳: 厚く, 濃く
+THICKNESS	(名詞) 厚みがあるという性質。
+THICKNESSES	(名詞) thicknessの複数形: 厚みがあるという性質。
+THICKS	(thickの変化形) (形容詞) thickの訳: 厚い
+THIEF	(名詞) 泥棒: 盗みを働く人。盗むこと。
+THIEVE	(動詞) 窃盗する: 語義1の罪を犯した者。窃盗犯。 (ほかに: 盗みを犯す, 泥棒をする)
+THIEVED	(動詞) "thieve" の過去形・過去分詞: 窃盗する: 語義1の罪を犯した者。窃盗犯。 (ほかに: 盗みを犯す, 泥棒をする)
+THIEVES	(動詞) "thieve" の現在第三人称単数形。
+THIEVING	(動詞) "thieve" の動名詞又は現在分詞: 窃盗する: 語義1の罪を犯した者。窃盗犯。 (ほかに: 盗みを犯す, 泥棒をする)\n(形容詞) 盗みの。窃盗の。
+THIEVISH	(形容詞) thievishの訳: 泥棒のような, 盗癖のある
+THIGH	(名詞) 大腿部: 脚の付け根から膝までの部分。腿。大腿。 (ほかに: もも, ふともも)
+THIGHBONE	(名詞) 大腿骨: 股から膝の間を構成する骨。
+THIGHBONES	(名詞) thighboneの複数形: 大腿骨: 股から膝の間を構成する骨。
+THIGHED	(thighの変化形) (名詞) 大腿部: 脚の付け根から膝までの部分。腿。大腿。 (ほかに: もも, ふともも)
+THIGHS	(名詞) thighの複数形: 大腿部: 脚の付け根から膝までの部分。腿。大腿。 (ほかに: もも, ふともも)
+THIN	(形容詞) 薄い: 板や紙、布地といった、それを構成する三次元中、ある一つの次元が他の二次元に比べ相当に短い立体において、その距離が比較的短い。\n(動詞) thinの訳: 薄くする, ⟪削る|はつる⟫
+THING	(名詞) 物体: 具体的な形を持つもの。
+THINGAMAJIG	(名詞) thingamajigの訳: 例のあれ, ⟪何とか|なんとか⟫, 何ちゃら
+THINGAMAJIGS	(名詞) thingamajigの複数形: 例のあれ, ⟪何とか|なんとか⟫, 何ちゃら
+THINGS	(名詞) thingの複数形: 物体: 具体的な形を持つもの。
+THINGUMAJIG	(名詞) thingamajigの異形。
+THINGUMAJIGS	(名詞) thingumajigの複数形: thingamajigの異形。
+THINK	(動詞) 思う: （おもう）（—と思う）意見を持つ。判断する。推量する。\n(名詞) thinkの訳: 考えること
+THINKER	(名詞) 考える人、考えている人、思案している人。
+THINKERS	(名詞) "thinker" の複数形: 考える人、考えている人、思案している人。
+THINKING	(動詞) thinkの現在分詞: 思う: （おもう）（—と思う）意見を持つ。判断する。推量する。\n(名詞) 思考: 論理を辿り考えること。
+THINKINGLY	(thinkの変化形) (動詞) 思う: （おもう）（—と思う）意見を持つ。判断する。推量する。
+THINKINGS	(名詞) thinkingの複数形: thinkの現在分詞: 思う: （おもう）（—と思う）意見を持つ。判断する。推量する。
+THINKS	(名詞) "think" の複数形: 思う: （おもう）（—と思う）意見を持つ。判断する。推量する。\n(動詞) "think" の三人称単数現在形: 思う: （おもう）（—と思う）意見を持つ。判断する。推量する。
+THINLY	(副詞) thinlyの訳: 薄く, 細く
+THINNED	(動詞) "thin" の過去形・過去分詞形: 薄い: 板や紙、布地といった、それを構成する三次元中、ある一つの次元が他の二次元に比べ相当に短い立体において、その距離が比較的短い。
+THINNER	(形容詞) "thin" の比較級形: 薄い: 板や紙、布地といった、それを構成する三次元中、ある一つの次元が他の二次元に比べ相当に短い立体において、その距離が比較的短い。\n(名詞) thinnerの訳: 希釈するもの, シンナー
+THINNERS	(名詞) "thinner" の複数形: "thin" の比較級形。
+THINNEST	(形容詞) "thin" の最上級形: 薄い: 板や紙、布地といった、それを構成する三次元中、ある一つの次元が他の二次元に比べ相当に短い立体において、その距離が比較的短い。
+THINNING	(動詞) "thin" の動名詞形又は現在分詞形: 薄い: 板や紙、布地といった、それを構成する三次元中、ある一つの次元が他の二次元に比べ相当に短い立体において、その距離が比較的短い。
+THINS	(動詞) "thin" の三人称単数現在形: 薄い: 板や紙、布地といった、それを構成する三次元中、ある一つの次元が他の二次元に比べ相当に短い立体において、その距離が比較的短い。
+THIRD	(名詞) 第三。三番目。\n(形容詞) 第三の。三番目の。
+THIRDLY	(副詞) 第三に。三番目に。
+THIRDS	(名詞) thirdの複数形: 第三。三番目。
+THIRST	(名詞) thirstの訳: 喉の渇き\n(動詞) 喉が渇いている。
+THIRSTED	(動詞) thirstの過去形・過去分詞: 喉の渇き
+THIRSTIER	(形容詞) "thirsty" の比較級: 喉が渇く: 水分がほしくなる。
+THIRSTIEST	(形容詞) "thirsty" の最上級: 喉が渇く: 水分がほしくなる。
+THIRSTING	(動詞) "thirst" の動名詞又は現在分詞: 喉の渇き
+THIRSTS	(名詞) thirstの複数形: 喉の渇き\n(動詞) thirstの現在第三人称単数形。
+THIRSTY	(形容詞) 喉が渇く: 水分がほしくなる。
+THIRTEEN	(数詞) thirteenの訳: 十三\n(形容詞) thirteenの訳: 13の
+THIRTEENS	(thirteenの変化形) (数詞) thirteenの訳: 十三
+THIRTEENTH	(形容詞) thirteenthの訳: 第13の, 13番目の\n(名詞) 第13番目の人又は物
+THIRTEENTHS	(thirteenthの変化形) (形容詞) thirteenthの訳: 第13の, 13番目の
+THIRTIES	(名詞) 三十代: 三十歳から三十九歳までの年齢。
+THIRTIETH	(形容詞) thirtiethの訳: 第30の, 30番目の\n(名詞) 第30番目の人又は物
+THIRTIETHS	(thirtiethの変化形) (形容詞) thirtiethの訳: 第30の, 30番目の
+THIRTY	(数詞) thirtyの訳: 三十\n(形容詞) thirtyの訳: 三十の
+THIS	(代名詞) これ: 時間的、または距離的に、話し手のごく近くにあるもの。 (ほかに: この, こちら)
+THISTLE	(名詞) thistleの訳: 薊
+THISTLES	(thistleの変化形) (名詞) thistleの訳: 薊
+THITHER	(副詞) そこに。あそこに。
+THONG	(名詞) thongの訳: 革紐
+THONGED	(thongの変化形) (名詞) thongの訳: 革紐
+THONGS	(名詞) thongの複数形: 革紐。
+THORACES	(名詞) thoraxの複数形: 胸部: 胸の部分。 (ほかに: 胸郭)
+THORACIC	(形容詞) 胸の。胸部の。
+THORAX	(名詞) 胸部: 胸の部分。 (ほかに: 胸郭)
+THORAXES	(名詞) thoraxの複数形: 胸部: 胸の部分。 (ほかに: 胸郭)
+THORIUM	(名詞) トリウム: 原子番号 90、元素記号 Th の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では銀白色の固体。
+THORIUMS	(thoriumの変化形) (名詞) トリウム: 原子番号 90、元素記号 Th の金属元素。アクチノイドに属する放射性元素。単体は常温常圧では銀白色の固体。
+THORN	(名詞) thornの訳: 棘
+THORNED	(thornの変化形) (名詞) thornの訳: 棘
+THORNIER	(形容詞) thornyの比較級: 棘の多い
+THORNIEST	(形容詞) thornyの最上級: 棘の多い
+THORNILY	(thornyの変化形) (形容詞) thornyの訳: 棘の多い
+THORNING	(thornの変化形) (名詞) thornの訳: 棘
+THORNS	(名詞) thornの複数形: 棘
+THORNY	(形容詞) thornyの訳: 棘の多い
+THORO	(形容詞) thoroughの異綴。
+THOROUGH	(形容詞) 徹底的な: 漏れのないように注意し、できる限りの手を尽くして行われる様子。 (ほかに: 完璧な, 緻密な)\n(名詞) 畝の間の排水のための溝。
+THOROUGHBRED	(形容詞) thoroughbredの訳: 純血交配種の\n(名詞) 特定の純血統種の馬（cf.Thoroughbred）
+THOROUGHBREDS	(名詞) "thoroughbred" の複数形: 純血交配種の
+THOROUGHER	(thoroughの変化形) (形容詞) 徹底的な: 漏れのないように注意し、できる限りの手を尽くして行われる様子。 (ほかに: 完璧な, 緻密な)
+THOROUGHEST	(thoroughの変化形) (形容詞) 徹底的な: 漏れのないように注意し、できる限りの手を尽くして行われる様子。 (ほかに: 完璧な, 緻密な)
+THOROUGHFARE	(名詞) 街路: 市街地の区画をなす道路。 (ほかに: 通路, 大通り)
+THOROUGHFARES	(名詞) thoroughfareの複数形: 街路: 市街地の区画をなす道路。 (ほかに: 通路, 大通り)
+THOROUGHLY	(副詞) すっかり: ある状態に完全になる様子。 (ほかに: 徹底的に, 完璧に)
+THOROUGHNESS	(名詞) thoroughnessの訳: 几帳面さ
+THOROUGHNESSES	(名詞) thoroughnessの複数形: 几帳面さ
+THOSE	(代名詞) thatの複数形。それら。あれら: それ/あれ, その/あの
+THOU	(代名詞) （ごく稀）二人称単数の主格形。汝。
+THOUED	(thouの変化形) (代名詞) （ごく稀）二人称単数の主格形。汝。
+THOUGH	(副詞) しかしながら、にもかかわらず、だけど。\n(接続詞) ～にもかかわらず、～であるが。
+THOUGHT	(動詞) thinkの過去形・過去分詞: 思う。\n(名詞) 考え: （かんがえ）発想、アイデア。
+THOUGHTFUL	(形容詞) よく考えられた。思慮深い。
+THOUGHTFULLY	(副詞) thoughtfullyの訳: 深く考えて
+THOUGHTFULNESS	(名詞) thoughtfulnessの訳: 思慮深いこと
+THOUGHTFULNESSES	(thoughtfulnessの変化形) (名詞) thoughtfulnessの訳: 思慮深いこと
+THOUGHTLESS	(形容詞) 無分別な。考えのない。
+THOUGHTLESSLY	(副詞) 無思慮に: 思慮が足らないこと。また、そのようなさま。 (ほかに: 考えなく)
+THOUGHTLESSNESS	(名詞) 無頓着: 物事に拘らないこと。少しも気にしないこと。ノンシャラン。
+THOUGHTLESSNESSES	(thoughtlessnessの変化形) (名詞) 無頓着: 物事に拘らないこと。少しも気にしないこと。ノンシャラン。
+THOUGHTS	(名詞) thoughtの複数形: thinkの過去形・過去分詞: 思う。
+THOUING	(thouの変化形) (代名詞) （ごく稀）二人称単数の主格形。汝。
+THOUS	(thouの変化形) (代名詞) （ごく稀）二人称単数の主格形。汝。
+THOUSAND	(数詞) 千: （セン）1000。百の十倍。万の 1/10。\n(形容詞) 千の: （セン）1000。百の十倍。万の 1/10。
+THOUSANDS	(thousandの変化形) (数詞) 千: （セン）1000。百の十倍。万の 1/10。
+THOUSANDTH	(形容詞) 第1000の、1000番目の。\n(名詞) 第1000番目の人又は物
+THOUSANDTHS	(thousandthの変化形) (形容詞) 第1000の、1000番目の。
+THRALL	(名詞) （主に北欧の）奴隷・農奴、奴隷のような人、虜。\n(動詞) thrallの訳: 奴隷にする, 虜にする
+THRALLDOM	(名詞) thralldomの訳: 奴隷状態, 奴隷身分
+THRALLDOMS	(名詞) "thralldom" の複数形: 奴隷状態, 奴隷身分
+THRALLED	(動詞) "thrall" の過去形・過去分詞: （主に北欧の）奴隷・農奴、奴隷のような人、虜。
+THRALLING	(動詞) "thrall" の動名詞又は現在分詞: （主に北欧の）奴隷・農奴、奴隷のような人、虜。
+THRALLS	(名詞) "thrall" の複数形: （主に北欧の）奴隷・農奴、奴隷のような人、虜。\n(動詞) "thrall" の現在第三人称単数形。
+THRASH	(動詞) 鞭打つ: 励まし、進ませる。鞭撻する。 (ほかに: 打ち据える)\n(名詞) 打ち据えること、打ち据える音。
+THRASHED	(動詞) thrashの過去形・過去分詞: 鞭打つ: 励まし、進ませる。鞭撻する。 (ほかに: 打ち据える)
+THRASHES	(動詞) thrashの直説法現在第三人称単数形: 鞭打つ: 励まし、進ませる。鞭撻する。 (ほかに: 打ち据える)\n(名詞) thrashの複数形: 鞭打つ: 励まし、進ませる。鞭撻する。 (ほかに: 打ち据える)
+THRASHING	(動詞) thrashの現在分詞: 鞭打つ: 励まし、進ませる。鞭撻する。 (ほかに: 打ち据える)\n(名詞) thrashingの訳: ⟪鞭打ち|むちうち⟫
+THRASHINGS	(名詞) thrashingの複数形: thrashの現在分詞。
+THREAD	(名詞) 糸: 主に衣服の材料として用いる細い線状の繊維。原義は絹糸で後に織物の材料となる撚り糸全般を言うようになった。さらに、日本においては広く、縫い糸までさすようになったが、中国においてはこれらは線、綫 / 线といい、糸とは言わない。\n(動詞) threadの訳: 糸を通す
+THREADED	(threadの変化形) (名詞) 糸: 主に衣服の材料として用いる細い線状の繊維。原義は絹糸で後に織物の材料となる撚り糸全般を言うようになった。さらに、日本においては広く、縫い糸までさすようになったが、中国においてはこれらは線、綫 / 线といい、糸とは言わない。
+THREADING	(threadの変化形) (名詞) 糸: 主に衣服の材料として用いる細い線状の繊維。原義は絹糸で後に織物の材料となる撚り糸全般を言うようになった。さらに、日本においては広く、縫い糸までさすようになったが、中国においてはこれらは線、綫 / 线といい、糸とは言わない。
+THREADS	(名詞) threadの複数形: 糸:...\n(動詞) threadの直説法現在第三人称単数形: 糸:...
+THREAT	(名詞) 脅威: 強い力や勢いで脅かすこと。脅かされたり、脅されると感じる恐れ。 (ほかに: 脅し, 脅迫)
+THREATED	(threatの変化形) (名詞) 脅威: 強い力や勢いで脅かすこと。脅かされたり、脅されると感じる恐れ。 (ほかに: 脅し, 脅迫)
+THREATEN	(動詞) 脅す: 相手を従わせようとして恐れさせる。 (ほかに: 脅迫する)
+THREATENED	(動詞) threatenの過去形・過去分詞: 脅す: 相手を従わせようとして恐れさせる。 (ほかに: 脅迫する)\n(形容詞) 絶滅が危惧されている。
+THREATENING	(動詞) threatenの現在分詞: 脅す、脅迫する。\n(形容詞) 脅迫する: 相手に何かをさせようとして生命や名誉などを害すると脅しつけること。 (ほかに: 脅迫的な)
+THREATENS	(動詞) "threaten" の現在第三人称単数形。
+THREATING	(threatの変化形) (名詞) 脅威: 強い力や勢いで脅かすこと。脅かされたり、脅されると感じる恐れ。 (ほかに: 脅し, 脅迫)
+THREATS	(threatの変化形) (名詞) 脅威: 強い力や勢いで脅かすこと。脅かされたり、脅されると感じる恐れ。 (ほかに: 脅し, 脅迫)
+THREE	(数詞) threeの訳: 三, ⟪みっつ⟫\n(形容詞) threeの訳: 3の
+THREEFOLD	(形容詞) threefoldの訳: 三倍の\n(副詞) threefoldの訳: 三倍に, 三重に
+THREES	(threeの変化形) (数詞) threeの訳: 三, ⟪みっつ⟫
+THREONINE	(名詞) スレオニンまたはトレオニン。アミノ酸の一つ。三文字表記 Thr、一文字表記 T。
+THREONINES	(threonineの変化形) (名詞) スレオニンまたはトレオニン。アミノ酸の一つ。三文字表記 Thr、一文字表記 T。
+THRESH	(動詞) threshの訳: 脱穀する
+THRESHED	(動詞) threshの過去形・過去分詞: 脱穀する
+THRESHES	(動詞) threshの直説法現在第三人称単数形: 脱穀する
+THRESHING	(動詞) threshの現在分詞: 脱穀する\n(名詞) 脱穀: 殼粒を穂から取り離すこと。
+THRESHOLD	(名詞) thresholdの訳: 敷居
+THRESHOLDS	(名詞) thresholdの複数形: 敷居
+THREW	(動詞) throwの過去形: 投げる: （なげる）手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+THRICE	(副詞) 三度。三回。三倍。
+THRIFT	(名詞) 節約。倹約。\n(動詞) 中古品屋で得る。
+THRIFTIER	(形容詞) thriftyの比較級: 倹しい。倹約している。
+THRIFTIEST	(形容詞) thriftyの最上級: 倹しい。倹約している。
+THRIFTINESS	(名詞) 質素。倹約。
+THRIFTINESSES	(名詞) thriftinessの複数形: 質素。倹約。
+THRIFTS	(名詞) thriftの複数形: 節約。倹約。\n(動詞) thriftの直説法現在第三人称単数形: 節約。倹約。
+THRIFTY	(形容詞) 倹しい。倹約している。
+THRILL	(動詞) thrillの訳: 戦慄
+THRILLED	(thrillの変化形) (動詞) thrillの訳: 戦慄
+THRILLING	(thrillの変化形) (動詞) thrillの訳: 戦慄
+THRILLINGLY	(thrillの変化形) (動詞) thrillの訳: 戦慄
+THRILLS	(thrillの変化形) (動詞) thrillの訳: 戦慄
+THRIVE	(動詞) 栄える: 〔主語の〕活動が盛んになり、勢力が増す。 (ほかに: 繁栄する)
+THRIVED	(動詞) thriveの過去形・過去分詞: 栄える: 〔主語の〕活動が盛んになり、勢力が増す。 (ほかに: 繁栄する)
+THRIVEN	(動詞) thriveの過去分詞: 栄える: 〔主語の〕活動が盛んになり、勢力が増す。 (ほかに: 繁栄する)
+THRIVES	(動詞) thriveの現在第三人称単数形。
+THRIVING	(形容詞) thrivingの訳: 繁栄している\n(名詞) 繁栄: 勢いが盛んになり発展すること。
+THROAT	(名詞) 咽喉: 咽頭と喉頭、のど。 (ほかに: 喉)
+THROATS	(名詞) "throat" の複数形: 咽喉: 咽頭と喉頭、のど。 (ほかに: 喉)
+THROB	(動詞) 震える: 細かく揺れ動く。 (ほかに: 振動する)\n(名詞) throbの訳: ⟪鼓動|こどう⟫, ⟪動悸|どうき⟫, ⟪振動|しんどう⟫
+THROBBED	(動詞) throbの過去形・過去分詞: 震える: 細かく揺れ動く。 (ほかに: 振動する)
+THROBBER	(throbの変化形) (動詞) 震える: 細かく揺れ動く。 (ほかに: 振動する)
+THROBBING	(throbの変化形) (動詞) 震える: 細かく揺れ動く。 (ほかに: 振動する)
+THROBS	(名詞) throbの複数形: 震える: 細かく揺れ動く。 (ほかに: 振動する)\n(動詞) throbの直説法現在第三人称単数形: 震える: 細かく揺れ動く。 (ほかに: 振動する)
+THROE	(名詞) 激痛: 激しい痛み。\n(動詞) 激痛を生じさせる。
+THROES	(名詞) throeの複数形: 激痛: 激しい痛み。\n(動詞) throeの直説法現在第三人称単数形: 激痛: 激しい痛み。
+THROMBI	(名詞) thrombusの複数形: 血栓: 血管内にできる血のかたまり。
+THROMBIN	(名詞) thrombinの訳: トロンビン
+THROMBINS	(名詞) thrombinの複数形: トロンビン
+THROMBOCYTE	(名詞) 血小板: 血液の成分の一つ。骨髄でつくられ、血液を凝固させる働きがある。
+THROMBOCYTES	(名詞) thrombocyteの複数形: 血小板: 血液の成分の一つ。骨髄でつくられ、血液を凝固させる働きがある。
+THROMBOSES	(名詞) thrombosisの複数形: 血栓症\n(動詞) thromboseの直説法現在第三人称単数形。
+THROMBOSIS	(名詞) thrombosisの訳: 血栓症
+THROMBUS	(名詞) 血栓: 血管内にできる血のかたまり。
+THRONE	(名詞) 王座。玉座。君主の椅子。
+THRONED	(throneの変化形) (名詞) 王座。玉座。君主の椅子。
+THRONES	(throneの変化形) (名詞) 王座。玉座。君主の椅子。
+THRONG	(名詞) 人だかり: 大勢の人が一つの場所に群がり、集まること。また、そのような群衆。 (ほかに: 群衆)\n(動詞) throngの訳: ～に群がる
+THRONGED	(動詞) throngの過去形・過去分詞: 人だかり: 大勢の人が一つの場所に群がり、集まること。また、そのような群衆。 (ほかに: 群衆)
+THRONGING	(動詞) throngの現在分詞: 人だかり: 大勢の人が一つの場所に群がり、集まること。また、そのような群衆。 (ほかに: 群衆)\n(名詞) throngingの訳: 群がること
+THRONGS	(名詞) throngの複数形: 人だかり: 大勢の人が一つの場所に群がり、集まること。また、そのような群衆。 (ほかに: 群衆)\n(動詞) throngの直説法現在第三人称単数形: 人だかり: 大勢の人が一つの場所に群がり、集まること。また、そのような群衆。 (ほかに: 群衆)
+THRONING	(throneの変化形) (名詞) 王座。玉座。君主の椅子。
+THROTTLE	(動詞) throttleの訳: 扼殺\n(名詞) throttleの訳: スロットル
+THROTTLED	(throttleの変化形) (動詞) throttleの訳: 扼殺
+THROTTLES	(throttleの変化形) (動詞) throttleの訳: 扼殺
+THROTTLING	(throttleの変化形) (動詞) throttleの訳: 扼殺
+THROUGH	(前置詞) ～を通り抜けて。～を通過して。～を突き抜けて。\n(形容詞) throughの訳: ～を貫いた
+THROUGHOUT	(前置詞) ～を通して、～の間中ずっと。\n(副詞) throughoutの訳: 至る所で, ここかしこで
+THROUGHWAY	(名詞) 高速道路: 自動車が高速で安全に移動するために作られた道路。
+THROUGHWAYS	(名詞) throughwayの複数形: 高速道路: 自動車が高速で安全に移動するために作られた道路。
+THROVE	(動詞) "thrive" の過去形: 栄える: 〔主語の〕活動が盛んになり、勢力が増す。 (ほかに: 繁栄する)
+THROW	(動詞) 投げる: （なげる）手に持った物に勢いを与えて中に放つ。投ずる。投じる。\n(名詞) throwの訳: 投球, ⟪発射|はっしゃ⟫
+THROWBACK	(名詞) 逆進、逆行。（比喩的）先祖返り。
+THROWBACKS	(throwbackの変化形) (名詞) 逆進、逆行。（比喩的）先祖返り。
+THROWER	(名詞) throwerの訳: 投げる人
+THROWERS	(throwerの変化形) (名詞) throwerの訳: 投げる人
+THROWING	(動詞) throwの動名詞又は現在分詞: 投げる: （なげる）手に持った物に勢いを与えて中に放つ。投ずる。投じる。\n(名詞) 投擲: 遠くへ投げること。 (ほかに: 投げること)
+THROWN	(動詞) throwの過去分詞: 投げる: （なげる）手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+THROWS	(名詞) throwの複数形: 投げる: （なげる）手に持った物に勢いを与えて中に放つ。投ずる。投じる。\n(動詞) throwの直説法現在第三人称単数形: 投げる: （なげる）手に持った物に勢いを与えて中に放つ。投ずる。投じる。
+THRUST	(動詞) thrustの訳: 突きかかる\n(名詞) thrustの訳: ⟪突く|つつく⟫, 突き出すこと
+THRUSTED	(動詞) "thrust" の過去形・過去分詞: 突きかかる
+THRUSTING	(動詞) "thrust" の動名詞又は現在分詞: 突きかかる
+THRUSTS	(名詞) thrustの複数形: 突きかかる\n(動詞) thrustの直説法現在第三人称単数形: 突きかかる
+THRUWAY	(名詞) throughwayの異綴。
+THRUWAYS	(名詞) thruwayの複数形: throughwayの異綴。
+THUD	(名詞) どすんという音。\n(動詞) どすんと落ちる、どすんと当たる。
+THUDDED	(動詞) thudの過去形・過去分詞: どすんという音。
+THUDDING	(動詞) thudの現在分詞: どすんという音。\n(名詞) どすんという音。
+THUDS	(名詞) thudの複数形: どすんという音。\n(動詞) thudの直説法現在第三人称単数形: どすんという音。
+THUG	(名詞) thugの訳: ⟪ならずもの⟫, 凶悪犯人, ⟪チンピラ|ちんぴら⟫, ⟪殺し屋|ころしや⟫
+THUGS	(thugの変化形) (名詞) thugの訳: ⟪ならずもの⟫, 凶悪犯人, ⟪チンピラ|ちんぴら⟫, ⟪殺し屋|ころしや⟫
+THULIUM	(名詞) thuliumの訳: ツリウム
+THULIUMS	(thuliumの変化形) (名詞) thuliumの訳: ツリウム
+THUMB	(名詞) thumbの訳: ⟪親指|おやゆび⟫\n(動詞) thumbの訳: 親指でさわる
+THUMBED	(動詞) "thumb" の過去形・過去分詞形: ⟪親指|おやゆび⟫
+THUMBING	(動詞) "thumb" の動名詞形又は現在分詞形: ⟪親指|おやゆび⟫
+THUMBNAIL	(名詞) thumbnailの訳: 親指の爪\n(形容詞) thumbnailの訳: ごく小さい
+THUMBNAILS	(名詞) "thumbnail" の複数形: 親指の爪\n(動詞) "thumbnail" の現在第三人称単数形。
+THUMBS	(名詞) "thumb" の複数形: ⟪親指|おやゆび⟫\n(動詞) "thumb" の三人称単数現在形: ⟪親指|おやゆび⟫
+THUNDER	(名詞) thunderの訳: 雷鳴\n(動詞) thunderの訳: 雷が鳴る
+THUNDERBOLT	(名詞) 雷電。落雷。
+THUNDERBOLTS	(名詞) thunderboltの複数形: 雷電。落雷。
+THUNDERCLAP	(名詞) thunderclapの訳: 雷鳴
+THUNDERCLAPS	(名詞) thunderclapの複数形: 雷鳴
+THUNDERCLOUD	(名詞) thundercloudの訳: 雷雲, ⟪積乱雲|せきらんうん⟫
+THUNDERCLOUDS	(名詞) thundercloudの複数形: 雷雲, ⟪積乱雲|せきらんうん⟫
+THUNDERED	(動詞) "thunder" の過去形・過去分詞: 雷鳴
+THUNDERHEAD	(名詞) 積乱雲。入道雲。
+THUNDERHEADS	(名詞) thunderheadの複数形: 積乱雲。入道雲。
+THUNDERING	(動詞) "thunder" の動名詞又は現在分詞: 雷鳴\n(形容詞) thunderingの訳: 雷鳴の
+THUNDERINGLY	(thunderの変化形) (名詞) thunderの訳: 雷鳴
+THUNDEROUS	(形容詞) （音・声が）雷のような。轟き渡る。
+THUNDEROUSLY	(副詞) thunderouslyの訳: 轟くように
+THUNDERS	(名詞) "thunder" の複数形: 雷鳴\n(動詞) "thunder" の現在第三人称単数形。
+THUNDERSHOWER	(名詞) 雷雨: 雷を伴う降雨。
+THUNDERSHOWERS	(名詞) thundershowerの複数形: 雷雨: 雷を伴う降雨。
+THUNDERSTORM	(名詞) thunderstormの訳: 激しい雷雨
+THUNDERSTORMS	(名詞) thunderstormの複数形: 激しい雷雨
+THUS	(副詞) thusの訳: このように
+THWART	(動詞) 阻む。阻止する。邪魔する。挫折させる。\n(名詞) thwartの訳: 漕ぎ座
+THWARTED	(動詞) thwartの過去形・過去分詞: 阻む。阻止する。邪魔する。挫折させる。
+THWARTING	(動詞) thwartの現在分詞: 阻む。阻止する。邪魔する。挫折させる。\n(名詞) 阻止。妨碍。
+THWARTS	(名詞) thwartの複数形: 阻む。阻止する。邪魔する。挫折させる。\n(動詞) thwartの直説法現在第三人称単数形: 阻む。阻止する。邪魔する。挫折させる。
+THY	(代名詞) thyの訳: 汝の
+THYMIC	(形容詞) タイムの: 時間。時刻。
+THYMINE	(名詞) チミン: デオキシリボ核酸を構成するピリミジン塩基の一つ。分子式はC₅H₆N₂O₂。DNAで、アデニンとの水素結合により塩基対を作る。
+THYMINES	(thymineの変化形) (名詞) チミン: デオキシリボ核酸を構成するピリミジン塩基の一つ。分子式はC₅H₆N₂O₂。DNAで、アデニンとの水素結合により塩基対を作る。
+THYSANURAN	(名詞) 総尾目: 《分類学》 シミ目の、かつての標準和名、現在の異称。学名（ラテン語形）"ordo ⁽ˡᵃ⁾ Thysanura ⁽ˡᵃ⁾" の漢訳名。 (ほかに: 房尾目)
+THYSANURANS	(thysanuranの変化形) (名詞) 総尾目: 《分類学》 シミ目の、かつての標準和名、現在の異称。学名（ラテン語形）"ordo ⁽ˡᵃ⁾ Thysanura ⁽ˡᵃ⁾" の漢訳名。 (ほかに: 房尾目)
+THYSELF	(代名詞) thyselfの訳: 汝自身, そなた自身
+TIBIA	(名詞) 脛骨: 下腿の内側にある骨。腓骨とともに下腿の骨格を成す。
+TIBIAE	(tibiaの変化形) (名詞) 脛骨: 下腿の内側にある骨。腓骨とともに下腿の骨格を成す。
+TIBIAS	(tibiaの変化形) (名詞) 脛骨: 下腿の内側にある骨。腓骨とともに下腿の骨格を成す。
+TIC	(名詞) チック: 顔面や肩などの筋肉が反復的、不随的に運動したり、意図しない発声や発話をする症状。チック症。
+TICK	(名詞) 時計のカチカチという秒針音。
+TICKED	(tickの変化形) (名詞) 時計のカチカチという秒針音。
+TICKET	(名詞) 入場券: ある特定の場所や施設に入るためのチケット。\n(動詞) 切符を発行する。
+TICKETED	(動詞) ticketの過去形・過去分詞: 入場券: ある特定の場所や施設に入るためのチケット。
+TICKETING	(動詞) "ticket" の動名詞又は現在分詞: 入場券: ある特定の場所や施設に入るためのチケット。
+TICKETS	(名詞) "ticket" の複数形: 入場券: ある特定の場所や施設に入るためのチケット。\n(動詞) "ticket" の現在第三人称単数形。
+TICKING	(tickの変化形) (名詞) 時計のカチカチという秒針音。
+TICKINGS	(tickの変化形) (名詞) 時計のカチカチという秒針音。
+TICKLE	(動詞) くすぐる: 手、羽根、筆などで体に触れ、むずむずとして笑いたくなるような感じを起こさせる。
+TICKLED	(動詞) tickleの過去形・過去分詞: くすぐる: 手、羽根、筆などで体に触れ、むずむずとして笑いたくなるような感じを起こさせる。
+TICKLES	(動詞) tickleの直説法現在第三人称単数形: くすぐる: 手、羽根、筆などで体に触れ、むずむずとして笑いたくなるような感じを起こさせる。
+TICKLING	(動詞) tickleの動名詞又は現在分詞: くすぐる: 手、羽根、筆などで体に触れ、むずむずとして笑いたくなるような感じを起こさせる。\n(形容詞) くすぐったい: くすぐられたりして、皮膚がむずむずするさま。
+TICKLISH	(形容詞) くすぐったがりの。
+TICKLISHLY	(ticklishの変化形) (形容詞) くすぐったがりの。
+TICKS	(tickの変化形) (名詞) 時計のカチカチという秒針音。
+TICKTACK	(副詞) ticktackの訳: チクタク
+TICKTACKED	(ticktackの変化形) (副詞) ticktackの訳: チクタク
+TICKTACKING	(ticktackの変化形) (副詞) ticktackの訳: チクタク
+TICKTACKS	(ticktackの変化形) (副詞) ticktackの訳: チクタク
+TICS	(ticの変化形) (名詞) チック: 顔面や肩などの筋肉が反復的、不随的に運動したり、意図しない発声や発話をする症状。チック症。
+TIDAL	(形容詞) 潮の: （しお）海の水、 潮汐、 うしお。 (ほかに: 干満のある)
+TIDALLY	(tidalの変化形) (形容詞) 潮の: （しお）海の水、 潮汐、 うしお。 (ほかに: 干満のある)
+TIDE	(名詞) tideの訳: ⟪潮|うしお⟫, 潮汐\n(動詞) tideの訳: 運ぶ
+TIDED	(tideの変化形) (名詞) tideの訳: ⟪潮|うしお⟫, 潮汐
+TIDES	(名詞) tideの複数形: ⟪潮|うしお⟫, 潮汐\n(動詞) tideの直説法現在第三人称単数形: ⟪潮|うしお⟫, 潮汐
+TIDILY	(副詞) きちんと: 正確なさま。規則正しいさま。 (ほかに: 整然と)
+TIDINESS	(名詞) きちんとしていること、整然さ
+TIDINESSES	(tidinessの変化形) (名詞) きちんとしていること、整然さ
+TIDING	(名詞) （古風。通常複数形で）知らせ、通知
+TIDINGS	(名詞) tidingの複数形: （古風。通常複数形で）知らせ、通知
+TIE	(名詞) tieの訳: ネクタイ\n(動詞) 結びつける: （むすびつける）紐などで結んで固定する。 (ほかに: 結ぶ)
+TIED	(動詞) "tie" の過去形・過去分詞形: ネクタイ
+TIEING	(動詞) tieの動名詞又は現在分詞: ネクタイ
+TIES	(名詞) "tie" の複数形: ネクタイ\n(動詞) "tie" の三人称単数現在形: ネクタイ
+TIGER	(名詞) tigerの訳: 虎
+TIGERS	(名詞) tigerの複数形: 虎
+TIGHT	(形容詞) tightの訳: ぴんと張った\n(副詞) tightの訳: きつく, 堅く, しっかりと
+TIGHTEN	(動詞) しっかり締める。（つなぎ目を）堅くする。
+TIGHTENED	(動詞) tightenの過去形・過去分詞: しっかり締める。（つなぎ目を）堅くする。
+TIGHTENING	(動詞) tightenの現在分詞: しっかり締める。（つなぎ目を）堅くする。\n(名詞) 締め付け: 締め付けること。力などで圧迫すること。
+TIGHTENS	(動詞) tightenの直説法現在第三人称単数形: しっかり締める。（つなぎ目を）堅くする。
+TIGHTER	(tightの変化形) (形容詞) tightの訳: ぴんと張った
+TIGHTEST	(tightの変化形) (形容詞) tightの訳: ぴんと張った
+TIGHTFISTED	(形容詞) tight-fistedの異綴。
+TIGHTLY	(副詞) きつく。堅く。しっかりと。
+TIGHTNESS	(名詞) 緊張。窮屈。
+TIGHTNESSES	(名詞) tightnessの複数形: 緊張。窮屈。
+TIGHTROPE	(名詞) tightropeの訳: 張り綱
+TIGHTROPES	(名詞) tightropeの複数形: 張り綱
+TIGHTS	(名詞) タイツ。パンティストッキング。\n(動詞) tightの直説法現在第三人称単数形: ぴんと張った
+TIGHTWAD	(名詞) けち: ひどく、物惜しみをすること、または、その人。吝嗇・吝嗇家。 (ほかに: しみったれ)
+TIGHTWADS	(名詞) tightwadの複数形: けち: ひどく、物惜しみをすること、または、その人。吝嗇・吝嗇家。 (ほかに: しみったれ)
+TIGON	(名詞) タイゴン: 父親がトラで母親がライオンの交雑種。
+TIGONS	(名詞) tigonの複数形: タイゴン: 父親がトラで母親がライオンの交雑種。
+TIGRESS	(名詞) tigressの訳: の虎
+TIGRESSES	(tigressの変化形) (名詞) tigressの訳: の虎
+TILDE	(名詞) チルダ: スペイン語やポルトガル語などで文字の上に付ける波形の記号。
+TILDES	(tildeの変化形) (名詞) チルダ: スペイン語やポルトガル語などで文字の上に付ける波形の記号。
+TILE	(名詞) タイル。瓦。\n(動詞) タイルを張る。瓦を葺く。
+TILED	(動詞) tileの過去形・過去分詞: タイル。瓦。\n(形容詞) tiledの訳: タイル張りの
+TILES	(名詞) tileの複数形: タイル。瓦。\n(動詞) tileの直説法現在第三人称単数形: タイル。瓦。
+TILING	(名詞) タイル面。瓦屋根。\n(動詞) tileの現在分詞: タイル。瓦。
+TILINGS	(名詞) tilingの複数形: タイル面。瓦屋根。
+TILL	(前置詞) tillの訳: ～まで\n(接続詞) tillの訳: ～するまで
+TILLAGE	(名詞) tillageの訳: 耕作
+TILLAGES	(名詞) tillageの複数形: 耕作
+TILLED	(動詞) "till" の過去形・過去分詞形: ～まで
+TILLER	(名詞) tillerの訳: 耕作者, ⟪農夫|のうふ⟫\n(動詞) ひこばえを出す。
+TILLERED	(動詞) tillerの過去形・過去分詞: 耕作者, ⟪農夫|のうふ⟫
+TILLERING	(名詞) tilleringの訳: 分蘖\n(動詞) tillerの現在分詞: 耕作者, ⟪農夫|のうふ⟫
+TILLERS	(名詞) tillerの複数形: 耕作者, ⟪農夫|のうふ⟫\n(動詞) tillerの直説法現在第三人称単数形: 耕作者, ⟪農夫|のうふ⟫
+TILLING	(動詞) "till" の動名詞形又は現在分詞形: ～まで
+TILLS	(名詞) "till" の複数形: ～まで\n(動詞) "till" の三人称単数現在形: ～まで
+TILT	(動詞) 傾ける。（首を）かしげる。\n(名詞) 傾き。傾斜。
+TILTED	(動詞) tiltの過去形・過去分詞: 傾ける。（首を）かしげる。
+TILTING	(tiltの変化形) (動詞) 傾ける。（首を）かしげる。
+TILTS	(tiltの変化形) (動詞) 傾ける。（首を）かしげる。
+TIMBER	(名詞) timberの訳: 用材林\n(感動詞) きこりが、木を切り倒す時の掛け声。
+TIMBERED	(動詞) "timber" の過去形・過去分詞形: 用材林
+TIMBERING	(動詞) "timber" の動名詞形又は現在分詞形: 用材林
+TIMBERINGS	(timberingの変化形) (動詞) "timber" の動名詞形又は現在分詞形。
+TIMBERS	(名詞) "timber" の複数形: 用材林\n(動詞) "timber" の三人称単数現在形: 用材林
+TIMBRE	(名詞) 音色: 同じ波長の音で、聞く際にできる音の特性、音の聞こえ方のこと。音響学的には、音の波形の差異。 (ほかに: ねいろ)
+TIMBRES	(timbreの変化形) (名詞) 音色: 同じ波長の音で、聞く際にできる音の特性、音の聞こえ方のこと。音響学的には、音の波形の差異。 (ほかに: ねいろ)
+TIME	(名詞) 時間: 時の流れ。\n(動詞) timeの訳: 時間を計る
+TIMED	(動詞) "time" の過去形・過去分詞: 時間: 時の流れ。
+TIMEKEEPING	(名詞) 計時: 競技などで所要の時間を計ること。また、その計った時間。\n(動詞) timekeepの三人称単数現在形。
+TIMEKEEPINGS	(名詞) timekeepingの複数形: 計時: 競技などで所要の時間を計ること。また、その計った時間。
+TIMELIER	(形容詞) "timely" の比較級: 時宜に適った。時間通りの。期限以内の。すみやかな。
+TIMELIEST	(形容詞) "timely" の最上級: 時宜に適った。時間通りの。期限以内の。すみやかな。
+TIMELINE	(名詞) スケジュール。日程。
+TIMELINES	(timelineの変化形) (名詞) スケジュール。日程。
+TIMELY	(形容詞) 時宜に適った。時間通りの。期限以内の。すみやかな。
+TIMEPIECE	(名詞) とけい: 時間を計り、または時刻を示す道具。
+TIMEPIECES	(timepieceの変化形) (名詞) とけい: 時間を計り、または時刻を示す道具。
+TIMES	(名詞) "time" の複数形: 時間: 時の流れ。\n(動詞) "time" の現在第三人称単数形。
+TIMID	(形容詞) 臆病な: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 内気な)
+TIMIDER	(形容詞) timidの比較級: 臆病な: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 内気な)
+TIMIDEST	(形容詞) timidの最上級: 臆病な: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 内気な)
+TIMIDITIES	(名詞) timidityの複数形: 臆病: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 小心)
+TIMIDITY	(名詞) 臆病: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 小心)
+TIMIDLY	(副詞) 臆病に: 些細な事をも怖がる性質。また、そのさま。
+TIMIDNESS	(名詞) 臆病: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 小心)
+TIMIDNESSES	(timidnessの変化形) (名詞) 臆病: 些細な事をも怖がる性質。また、そのさま。 (ほかに: 小心)
+TIMING	(動詞) "time" の動名詞又は現在分詞: 時間: 時の流れ。
+TIMINGS	(timeの変化形) (名詞) 時間: 時の流れ。
+TIMOROUS	(形容詞) 臆病な: 些細な事をも怖がる性質。また、そのさま。
+TIMOROUSLY	(副詞) timorouslyの訳: 臆病に, びくびくして
+TIMPANI	(名詞) timpaniの訳: ティンパニ
+TIMPANIST	(名詞) timpanistの訳: ティンパニスト
+TIMPANISTS	(timpanistの変化形) (名詞) timpanistの訳: ティンパニスト
+TIN	(名詞) 錫: （すず） 金属元素の一つ。\n(形容詞) 錫製の。ブリキ製の。
+TINDER	(名詞) 火口: 火山による溶岩などの噴出物が出る開口部。
+TINDERS	(tinderの変化形) (名詞) 火口: 火山による溶岩などの噴出物が出る開口部。
+TINED	(tinの変化形) (名詞) 錫: （すず） 金属元素の一つ。
+TINFOIL	(名詞) tinfoilの訳: 錫箔\n(動詞) tinfoilの訳: 錫箔で覆う
+TINFOILS	(名詞) tinfoilの複数形: 錫箔\n(動詞) tinfoilの直説法現在第三人称単数形: 錫箔
+TINIER	(形容詞) "tiny" の比較級: 小さい: (抽象的な状態などが) わずかである。 (ほかに: 微小な, ちっぽけな)
+TINIEST	(形容詞) "tiny" の最上級: 小さい: (抽象的な状態などが) わずかである。 (ほかに: 微小な, ちっぽけな)
+TINILY	(tinyの変化形) (形容詞) 小さい: (抽象的な状態などが) わずかである。 (ほかに: 微小な, ちっぽけな)
+TININESS	(名詞) 微小: 非常に小さいこと。
+TININESSES	(tininessの変化形) (名詞) 微小: 非常に小さいこと。
+TINING	(tinの変化形) (名詞) 錫: （すず） 金属元素の一つ。
+TINKLE	(名詞) 尿: 腎臓で、血液から余分な水分とともにこしとられた老廃物。小便。 (ほかに: 小便)
+TINKLED	(tinkleの変化形) (名詞) 尿: 腎臓で、血液から余分な水分とともにこしとられた老廃物。小便。 (ほかに: 小便)
+TINKLES	(tinkleの変化形) (名詞) 尿: 腎臓で、血液から余分な水分とともにこしとられた老廃物。小便。 (ほかに: 小便)
+TINKLING	(tinkleの変化形) (名詞) 尿: 腎臓で、血液から余分な水分とともにこしとられた老廃物。小便。 (ほかに: 小便)
+TINKLINGS	(tinkleの変化形) (名詞) 尿: 腎臓で、血液から余分な水分とともにこしとられた老廃物。小便。 (ほかに: 小便)
+TINNED	(動詞) "tin" の過去形・過去分詞: 錫: （すず） 金属元素の一つ。
+TINNING	(動詞) "tin" の動名詞・現在分詞: 錫: （すず） 金属元素の一つ。
+TINPLATE	(名詞) tinplateの訳: ブリキ
+TINPLATES	(tinplateの変化形) (名詞) tinplateの訳: ブリキ
+TINS	(動詞) "tin" の直説法第三人称単数現在形: 錫: （すず） 金属元素の一つ。
+TINSMITH	(名詞) tinsmithの訳: ブリキ屋
+TINSMITHING	(tinsmithの変化形) (名詞) tinsmithの訳: ブリキ屋
+TINSMITHS	(tinsmithの変化形) (名詞) tinsmithの訳: ブリキ屋
+TINT	(名詞) 色合い: 色の調子。色調。 (ほかに: 色調)\n(動詞) 淡い色^(（いろ）)をつける
+TINTED	(形容詞) 淡い色が付いた。\n(動詞) tintの過去形・過去分詞: 色合い: 色の調子。色調。 (ほかに: 色調)
+TINTING	(動詞) tintの動名詞又は現在分詞: 色合い: 色の調子。色調。 (ほかに: 色調)\n(名詞) 着色: 色を着けること。また、色が着いていること。
+TINTINGS	(名詞) tintingの複数形: tintの動名詞又は現在分詞。
+TINTINNABULATION	(名詞) 鐘がチリンチリンと鳴るさま。また、その音。
+TINTINNABULATIONS	(名詞) tintinnabulationの複数形: 鐘がチリンチリンと鳴るさま。また、その音。
+TINTS	(名詞) tintの複数形: 色合い: 色の調子。色調。 (ほかに: 色調)\n(動詞) tintの現在第三人称単数形。
+TINY	(形容詞) 小さい: (抽象的な状態などが) わずかである。 (ほかに: 微小な, ちっぽけな)
+TIP	(名詞) 先端。先。頂点。てっぺん。\n(動詞) tipの訳: 先をつける
+TIPPED	(動詞) "tip" の過去形・過去分詞: 先端。先。頂点。てっぺん。
+TIPPING	(動詞) "tip" の動名詞又は現在分詞: 先端。先。頂点。てっぺん。
+TIPPLE	(名詞) tippleの訳: 選炭場\n(動詞) 酒を小売りする。[16世紀初期より]
+TIPPLED	(動詞) tippleの過去形・過去分詞: 選炭場
+TIPPLES	(名詞) tippleの複数形: 選炭場\n(動詞) tippleの直説法現在第三人称単数形: 選炭場
+TIPPLING	(動詞) tippleの現在分詞: 選炭場\n(名詞) 飲み会: 主に飲酒を中心とした会合。
+TIPS	(名詞) "tip" の複数形: 先端。先。頂点。てっぺん。\n(動詞) "tip" の現在第三人称単数形。
+TIPTOE	(名詞) つま先: （つまさき）足の指の先。\n(形容詞) tiptoeの訳: つま立ちの
+TIPTOED	(動詞) tiptoeの過去形・過去分詞: つま先: （つまさき）足の指の先。
+TIPTOEING	(動詞) tiptoeの動名詞又は現在分詞: つま先: （つまさき）足の指の先。
+TIPTOES	(名詞) tiptoeの複数形: つま先: （つまさき）足の指の先。\n(動詞) tiptoeの現在第三人称単数形。
+TIRAMISU	(名詞) tiramisuの訳: ティラミス
+TIRAMISUS	(名詞) tiramisuの複数形: ティラミス
+TIRE	(動詞) tireの訳: 疲れさせる\n(名詞) tireの訳: ⟪被り物|かぶりもの⟫
+TIRED	(動詞) tireの過去形・過去分詞: 疲れさせる。\n(形容詞) tiredの訳: 疲れた
+TIREDER	(tireの変化形) (動詞) tireの訳: 疲れさせる
+TIREDEST	(tireの変化形) (動詞) tireの訳: 疲れさせる
+TIREDLY	(副詞) 疲れて。飽き飽きして。
+TIREDNESS	(名詞) 疲労: 肉体や精神が疲れること。
+TIREDNESSES	(名詞) tirednessの複数形: 疲労: 肉体や精神が疲れること。
+TIRELESS	(形容詞) 疲れを知らない。
+TIRELESSLY	(副詞) 疲れを知らずに。
+TIRES	(名詞) "tire" の複数形: 疲れさせる\n(動詞) "tire" の現在第三人称単数形。
+TIRESOME	(形容詞) tiresomeの訳: 厄介な
+TIRING	(動詞) tireの現在分詞又は動名詞: 疲れさせる\n(形容詞) 疲れさせる、疲労の原因となる。
+TISSUE	(名詞) tissueの訳: 薄い織物\n(動詞) tissueの訳: 織り交ぜる
+TISSUED	(tissueの変化形) (名詞) tissueの訳: 薄い織物
+TISSUES	(名詞) tissueの複数形: 薄い織物\n(動詞) tissueの直説法現在第三人称単数形: 薄い織物
+TISSUING	(動詞) tissueの現在分詞: 薄い織物
+TIT	(名詞) titの訳: ⟪しじゅうから⟫
+TITAN	(名詞) 巨人、巨匠。タイタン。
+TITANIUM	(名詞) titaniumの訳: チタン
+TITANIUMS	(名詞) titaniumの複数形: チタン。
+TITANS	(名詞) titanの複数形: 巨人、巨匠。タイタン。
+TITILLATE	(動詞) 刺激する: 触覚や視覚などの感覚を引き起こすこと。神経を興奮させること。内臓器官の働きを活発にさせること。また、その原因となるもの。 (ほかに: 興奮させる)
+TITILLATED	(動詞) titillateの過去形・過去分詞: 刺激する: 触覚や視覚などの感覚を引き起こすこと。神経を興奮させること。内臓器官の働きを活発にさせること。また、その原因となるもの。 (ほかに: 興奮させる)
+TITILLATES	(動詞) titillateの直説法現在第三人称単数形: 刺激する: 触覚や視覚などの感覚を引き起こすこと。神経を興奮させること。内臓器官の働きを活発にさせること。また、その原因となるもの。 (ほかに: 興奮させる)
+TITILLATING	(動詞) titillateの現在分詞: 刺激する: 触覚や視覚などの感覚を引き起こすこと。神経を興奮させること。内臓器官の働きを活発にさせること。また、その原因となるもの。 (ほかに: 興奮させる)\n(形容詞) 刺激的な: 新鮮で楽しい。わくわくする。学ぶ機会の多い (ほかに: 興奮させる)
+TITILLATION	(名詞) 刺激、興奮させること。
+TITILLATIONS	(名詞) titillationの複数形: 刺激、興奮させること。
+TITILLATIVE	(形容詞) くすぐったい: くすぐられたりして、皮膚がむずむずするさま。
+TITLE	(名詞) 尊敬、公式の役職や学術上の資格を意味して個人の名前に付されるもの。肩書。\n(動詞) タイトルを付与する。
+TITLED	(形容詞) 題目がついている。\n(動詞) titleの過去形・過去分詞: 尊敬、公式の役職や学術上の資格を意味して個人の名前に付されるもの。肩書。
+TITLES	(名詞) titleの複数形: 尊敬、公式の役職や学術上の資格を意味して個人の名前に付されるもの。肩書。\n(動詞) title の直説法三人称単数現在形: 尊敬、公式の役職や学術上の資格を意味して個人の名前に付されるもの。肩書。
+TITLING	(動詞) titleの現在分詞: 尊敬、公式の役職や学術上の資格を意味して個人の名前に付されるもの。肩書。\n(名詞) ヨーロッパカヤクグリ。
+TITRE	(名詞) titreの訳: 力価\n(動詞) titreの訳: 力価を決める
+TITRES	(名詞) titreの複数形: 力価。\n(動詞) titreの直説法第三人称単数現在形: 力価
+TITS	(titの変化形) (名詞) titの訳: ⟪しじゅうから⟫
+TITTLE	(名詞) 少しも～でない。
+TITTLES	(名詞) tittleの複数形: 少しも～でない。
+TOAD	(名詞) ヒキガエル。(悪魔を連想させる)
+TOADS	(toadの変化形) (名詞) ヒキガエル。(悪魔を連想させる)
+TOADSTOOL	(名詞) toadstoolの訳: ⟪きのこ⟫
+TOADSTOOLS	(toadstoolの変化形) (名詞) toadstoolの訳: ⟪きのこ⟫
+TOAST	(名詞) トースト: 食パンを薄くスライスし軽く焼くこと。また、焼いたもの。\n(動詞) toastの訳: トーストする, こんがり焼く
+TOASTED	(形容詞) toastedの訳: 焼いた, トーストした\n(動詞) toastの過去形・過去分詞: トースト: 食パンを薄くスライスし軽く焼くこと。また、焼いたもの。
+TOASTING	(toastの変化形) (名詞) トースト: 食パンを薄くスライスし軽く焼くこと。また、焼いたもの。
+TOASTS	(名詞) toastの複数形: トースト: 食パンを薄くスライスし軽く焼くこと。また、焼いたもの。\n(動詞) toastの直説法現在第三人称単数形: トースト: 食パンを薄くスライスし軽く焼くこと。また、焼いたもの。
+TOBACCO	(名詞) タバコ: 語義1の葉を原料として製造した嗜好品。嗜好性の原因はニコチンの作用によるが、体内に取り込むため多くは燃やしてその煙を吸引することによる。
+TOBACCOES	(tobaccoの変化形) (名詞) タバコ: 語義1の葉を原料として製造した嗜好品。嗜好性の原因はニコチンの作用によるが、体内に取り込むため多くは燃やしてその煙を吸引することによる。
+TOBACCOS	(tobaccoの変化形) (名詞) タバコ: 語義1の葉を原料として製造した嗜好品。嗜好性の原因はニコチンの作用によるが、体内に取り込むため多くは燃やしてその煙を吸引することによる。
+TODAY	(名詞) きょう: （コウ）年月や季節の変わり目。\n(副詞) todayの訳: 今日この日に
+TODAYS	(todayの変化形) (名詞) きょう: （コウ）年月や季節の変わり目。
+TODDLE	(動詞) toddleの訳: よちよち歩く
+TODDLED	(動詞) toddleの過去形・過去分詞: よちよち歩く
+TODDLER	(名詞) よちよち歩きの幼児。
+TODDLERS	(名詞) toddlerの複数形: よちよち歩きの幼児。
+TODDLES	(動詞) toddleの直説法現在第三人称単数形: よちよち歩く
+TODDLING	(動詞) toddleの現在分詞: よちよち歩く
+TOE	(名詞) 足指: 足の指。\n(動詞) つま先で触れる。
+TOED	(動詞) "toe" の過去形・過去分詞: 足指: 足の指。
+TOEING	(動詞) "toe" の動名詞又は現在分詞: 足指: 足の指。
+TOENAIL	(名詞) toenailの訳: 足指の爪
+TOENAILED	(toenailの変化形) (名詞) toenailの訳: 足指の爪
+TOENAILING	(toenailの変化形) (名詞) toenailの訳: 足指の爪
+TOENAILS	(toenailの変化形) (名詞) toenailの訳: 足指の爪
+TOES	(名詞) "toe" の複数形: 足指: 足の指。\n(動詞) "toe" の現在第三人称単数形。
+TOFFEE	(名詞) トフィー: 砂糖または糖蜜およびバターを加熱して作るイギリスの菓子。
+TOFFEES	(名詞) toffeeの複数形: トフィー: 砂糖または糖蜜およびバターを加熱して作るイギリスの菓子。
+TOFU	(名詞) 豆腐: 1.に類似した食品。
+TOFUS	(名詞) tofuの複数形: 豆腐: 1.に類似した食品。
+TOGETHER	(副詞) togetherの訳: 一緒に\n(形容詞) togetherの訳: 冷静な
+TOGETHERNESS	(名詞) togethernessの訳: 一体感
+TOGETHERNESSES	(togethernessの変化形) (名詞) togethernessの訳: 一体感
+TOGS	(名詞) togsの訳: ⟪みずぎ⟫
+TOIL	(名詞) 骨の折れる仕事。\n(動詞) toilの訳: せっせと働く
+TOILED	(動詞) toilの過去形・過去分詞: 骨の折れる仕事。
+TOILES	(toilの変化形) (名詞) 骨の折れる仕事。
+TOILET	(名詞) トイレ、便所。[19世紀より]\n(動詞) toiletの訳: 身繕いする
+TOILETED	(形容詞) toiletedの訳: トイレのある\n(動詞) toiletの過去形・過去分詞: トイレ、便所。[19世紀より]
+TOILETING	(名詞) toiletingの訳: トイレの使用\n(動詞) toiletの現在分詞: トイレ、便所。[19世紀より]
+TOILETS	(名詞) toiletの複数形: トイレ、便所。[19世紀より]\n(動詞) toiletの直説法現在第三人称単数形: トイレ、便所。[19世紀より]
+TOILING	(動詞) toilの現在分詞: 骨の折れる仕事。\n(名詞) 重労働。激務。
+TOILS	(名詞) toilの複数形: 骨の折れる仕事。\n(動詞) toilの直説法現在第三人称単数形: 骨の折れる仕事。
+TOILSOME	(形容詞) 苦しい: （くるしい）息がつまって、またはそのような苦痛を感じる。 (ほかに: 辛い, 骨の折れる)
+TOILSOMELY	(副詞) toilsomelyの訳: 辛く, 苦しく
+TOILSOMENESS	(名詞) 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。 (ほかに: 辛さ, 苦しさ)
+TOILSOMENESSES	(toilsomenessの変化形) (名詞) 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。 (ほかに: 辛さ, 苦しさ)
+TOKEN	(名詞) tokenの訳: ジェトン, トークン
+TOKENING	(tokenの変化形) (名詞) tokenの訳: ジェトン, トークン
+TOKENS	(tokenの変化形) (名詞) tokenの訳: ジェトン, トークン
+TOLD	(動詞) tellの過去形: 言う、話す。
+TOLERABILITIES	(名詞) tolerabilityの複数形: 耐性。許容性。
+TOLERABILITY	(名詞) 耐性。許容性。
+TOLERABLE	(形容詞) 耐えられる。我慢できる。受忍しうる。許容される。\n(副詞) tolerableの訳: ⟪まずまず⟫
+TOLERABLY	(副詞) まずまず。まあまあ。
+TOLERANCE	(名詞) 寛容。寛大。[18世紀より]
+TOLERANCES	(名詞) toleranceの複数形: 寛容。寛大。[18世紀より]
+TOLERANT	(形容詞) 寛大な。寛容な。
+TOLERANTLY	(副詞) 寛容に。寛大に。
+TOLERATE	(動詞) 許す。許容する。黙認する。
+TOLERATED	(形容詞) toleratedの訳: 許容される\n(動詞) tolerateの過去形・過去分詞: 許す。許容する。黙認する。
+TOLERATES	(動詞) tolerateの直説法現在第三人称単数形: 許す。許容する。黙認する。
+TOLERATING	(動詞) tolerateの現在分詞: 許す。許容する。黙認する。
+TOLERATION	(名詞) 寛容: 他者の罪や落ち度、異論などを、寛い心で受け容れること。 (ほかに: 寛大, 許容)
+TOLERATIONS	(名詞) tolerationの複数形: 寛容: 他者の罪や落ち度、異論などを、寛い心で受け容れること。 (ほかに: 寛大, 許容)
+TOLL	(名詞) tollの訳: 通行料, 使用料\n(動詞) tollの訳: 使用料を課す, 徴収する
+TOLLED	(動詞) tollの過去形・過去分詞: 通行料, 使用料
+TOLLGATE	(名詞) tollgateの訳: 料金所
+TOLLGATES	(名詞) tollgateの複数形: 料金所
+TOLLING	(tollの変化形) (名詞) tollの訳: 通行料, 使用料
+TOLLS	(名詞) tollの複数形: 通行料, 使用料\n(動詞) tollの直説法現在第三人称単数形: 通行料, 使用料
+TOLU	(名詞) トルーバルサム
+TOLUS	(toluの変化形) (名詞) トルーバルサム
+TOM	(名詞) tomの訳: ⟪雄猫|おすねこ⟫
+TOMAHAWK	(名詞) トマホーク: アメリカインディアンの棍棒に斧のような部品をつけた武器。\n(動詞) トマホークで攻撃する。
+TOMAHAWKED	(tomahawkの変化形) (名詞) トマホーク: アメリカインディアンの棍棒に斧のような部品をつけた武器。
+TOMAHAWKING	(tomahawkの変化形) (名詞) トマホーク: アメリカインディアンの棍棒に斧のような部品をつけた武器。
+TOMAHAWKS	(名詞) "tomahawk" の複数形: トマホーク: アメリカインディアンの棍棒に斧のような部品をつけた武器。\n(動詞) "tomahawk" の三人称単数現在形: トマホーク: アメリカインディアンの棍棒に斧のような部品をつけた武器。
+TOMALLEY	(名詞) tomalleyの訳: 蟹味噌
+TOMALLEYS	(tomalleyの変化形) (名詞) tomalleyの訳: 蟹味噌
+TOMATO	(名詞) tomatoの訳: トマト
+TOMATOES	(名詞) "tomato" の複数形: トマト
+TOMB	(名詞) 霊廟: （そとば）故人の冥福を祈るために墓に建てる塔をかたどった木製の板。板塔婆、略して塔婆。\n(動詞) tombの訳: 埋葬する
+TOMBED	(動詞) "tomb" の過去形・過去分詞形: 霊廟: （そとば）故人の冥福を祈るために墓に建てる塔をかたどった木製の板。板塔婆、略して塔婆。
+TOMBING	(動詞) "tomb" の動名詞形又は現在分詞形: 霊廟: （そとば）故人の冥福を祈るために墓に建てる塔をかたどった木製の板。板塔婆、略して塔婆。
+TOMBS	(名詞) "tomb" の複数形: 霊廟: （そとば）故人の冥福を祈るために墓に建てる塔をかたどった木製の板。板塔婆、略して塔婆。\n(動詞) "tomb" の三人称単数現在形: 霊廟: （そとば）故人の冥福を祈るために墓に建てる塔をかたどった木製の板。板塔婆、略して塔婆。
+TOMBSTONE	(名詞) 墓碑: 墓に死者の姓名や行状を彫刻して立てる石碑。墓石。 (ほかに: 墓石)
+TOMBSTONES	(名詞) tombstoneの複数形: 墓碑: 墓に死者の姓名や行状を彫刻して立てる石碑。墓石。 (ほかに: 墓石)
+TOMCAT	(名詞) 雄猫: 雄の猫\n(動詞) 女の尻を追いかけまわす。
+TOMCATS	(tomcatの変化形) (名詞) 雄猫: 雄の猫
+TOMCATTED	(tomcatの変化形) (名詞) 雄猫: 雄の猫
+TOMCATTING	(tomcatの変化形) (名詞) 雄猫: 雄の猫
+TOMMED	(tomの変化形) (名詞) tomの訳: ⟪雄猫|おすねこ⟫
+TOMMING	(tomの変化形) (名詞) tomの訳: ⟪雄猫|おすねこ⟫
+TOMORROW	(名詞) 明日: （みょうにち、あす、あした）今日の次の日であり、明後日の前の日。\n(副詞) tomorrowの訳: 明日に
+TOMORROWS	(tomorrowの変化形) (名詞) 明日: （みょうにち、あす、あした）今日の次の日であり、明後日の前の日。
+TOMS	(tomの変化形) (名詞) tomの訳: ⟪雄猫|おすねこ⟫
+TON	(名詞) トン: アメリカで用いられるもの。米トン（short ton ショートトン）。1トン=2,000ポンド≒907.18474キログラム
+TONE	(名詞) toneの訳: 音色, ⟪音調|おんちょう⟫\n(動詞) toneの訳: 調子を付ける
+TONED	(動詞) toneの過去形・過去分詞: 音色, ⟪音調|おんちょう⟫\n(形容詞) tonedの訳: 〜な調子の
+TONES	(名詞) toneの複数形: 音色, ⟪音調|おんちょう⟫\n(動詞) toneの直説法現在第三人称単数形: 音色, ⟪音調|おんちょう⟫
+TONGS	(名詞) tongsの訳: ⟪ひばし⟫
+TONGUE	(名詞) 舌: （した）人体の一部で、口腔中にあって、動いて食物等を体内に取り入れたり、発声時に空気の流れを変え、音声を変える器官。\n(動詞) タンギングする。管楽器を吹く時に、舌の運動によって空気の流れを断続させる。(alveolar plosive).
+TONGUED	(動詞) "tongue" の過去形・過去分詞: 舌: （した）人体の一部で、口腔中にあって、動いて食物等を体内に取り入れたり、発声時に空気の流れを変え、音声を変える器官。
+TONGUES	(名詞) "tongue" の複数形: 舌: （した）人体の一部で、口腔中にあって、動いて食物等を体内に取り入れたり、発声時に空気の流れを変え、音声を変える器官。\n(動詞) "tongue" の現在第三人称単数形。
+TONGUING	(動詞) "tongue" の動名詞又は現在分詞: 舌: （した）人体の一部で、口腔中にあって、動いて食物等を体内に取り入れたり、発声時に空気の流れを変え、音声を変える器官。
+TONIC	(形容詞) tonicの訳: 筋緊張の\n(名詞) tonicの訳: 強壮剤, 滋養剤
+TONICS	(名詞) tonicの複数形: 筋緊張の
+TONIGHT	(名詞) 今夜: 今日の夜。\n(副詞) 今夜: 今日の夜。
+TONIGHTS	(名詞) tonightの複数形: 今夜: 今日の夜。
+TONING	(toneの変化形) (名詞) toneの訳: 音色, ⟪音調|おんちょう⟫
+TONNE	(名詞) トン: （メートル法、瓲）1トンを1,000キログラムに等しいと定義する。メートルトン、メトリックトン、 グラムトン、仏トン。元々はヤード・ポンド法の質量の単位である。 (ほかに: メートルトン)
+TONNER	(tonneの変化形) (名詞) トン: （メートル法、瓲）1トンを1,000キログラムに等しいと定義する。メートルトン、メトリックトン、 グラムトン、仏トン。元々はヤード・ポンド法の質量の単位である。 (ほかに: メートルトン)
+TONNES	(tonneの変化形) (名詞) トン: （メートル法、瓲）1トンを1,000キログラムに等しいと定義する。メートルトン、メトリックトン、 グラムトン、仏トン。元々はヤード・ポンド法の質量の単位である。 (ほかに: メートルトン)
+TONS	(名詞) tonの複数形: トン: アメリカで用いられるもの。米トン（short ton ショートトン）。1トン=2,000ポンド≒907.18474キログラム
+TONSIL	(名詞) 扁桃腺: 咽頭を囲むようにあるリンパ組織。正しくは扁桃。
+TONSILLITIS	(名詞) 扁桃腺炎: 扁桃（扁桃腺）にウイルスや細菌などでおこる炎症。扁桃炎。 (ほかに: 扁桃炎)
+TONSILLITISES	(tonsillitisの変化形) (名詞) 扁桃腺炎: 扁桃（扁桃腺）にウイルスや細菌などでおこる炎症。扁桃炎。 (ほかに: 扁桃炎)
+TONSILS	(tonsilの変化形) (名詞) 扁桃腺: 咽頭を囲むようにあるリンパ組織。正しくは扁桃。
+TOO	(副詞) tooの訳: ～もまた, ～も同様に
+TOOK	(動詞) takeの過去形: ～を取る
+TOOL	(名詞) toolの訳: ⟪道具|どうぐ⟫, ⟪工具|こうぐ⟫
+TOOLBOX	(名詞) toolboxの訳: 道具箱
+TOOLBOXES	(toolboxの変化形) (名詞) toolboxの訳: 道具箱
+TOOLED	(toolの変化形) (名詞) toolの訳: ⟪道具|どうぐ⟫, ⟪工具|こうぐ⟫
+TOOLER	(toolの変化形) (名詞) toolの訳: ⟪道具|どうぐ⟫, ⟪工具|こうぐ⟫
+TOOLING	(toolの変化形) (名詞) toolの訳: ⟪道具|どうぐ⟫, ⟪工具|こうぐ⟫
+TOOLINGS	(toolの変化形) (名詞) toolの訳: ⟪道具|どうぐ⟫, ⟪工具|こうぐ⟫
+TOOLS	(toolの変化形) (名詞) toolの訳: ⟪道具|どうぐ⟫, ⟪工具|こうぐ⟫
+TOOTH	(名詞) 歯: （は）動物の口腔内にある咀嚼するための硬い器官。
+TOOTHACHE	(名詞) 歯痛: 歯の痛み。
+TOOTHACHES	(名詞) toothacheの複数形: 歯痛: 歯の痛み。
+TOOTHBRUSH	(名詞) 歯ブラシ: 歯を磨くために使うブラシ。
+TOOTHBRUSHES	(名詞) toothbrushの複数形: 歯ブラシ: 歯を磨くために使うブラシ。
+TOOTHBRUSHING	(名詞) はみがき: 歯を磨いて、きれいにすること。
+TOOTHPASTE	(名詞) toothpasteの訳: 練り歯磨き, ⟪歯磨き粉|はみがきこ⟫
+TOOTHPASTES	(名詞) "toothpaste" の複数形: 練り歯磨き, ⟪歯磨き粉|はみがきこ⟫
+TOOTHPICK	(名詞) 爪楊枝: 歯に挟まったものを取ったり、物に刺して取ったりする先が尖らせた楊枝。
+TOOTHPICKS	(名詞) toothpickの複数形: 爪楊枝: 歯に挟まったものを取ったり、物に刺して取ったりする先が尖らせた楊枝。
+TOOTHS	(toothの変化形) (名詞) 歯: （は）動物の口腔内にある咀嚼するための硬い器官。
+TOP	(名詞) 頂: （いただき）器、図形、地形など、物体の最も上になる部分。即ち、ある部分の周囲が全て、その部分よりも低い位置をなしている場合のある部分。 (ほかに: 頂上, 頂点)\n(形容詞) 最も上の。最上の。最高の。
+TOPIC	(名詞) 話題: 談話の相手に提示される情報のうち既知の部分。主題、題目。
+TOPICS	(topicの変化形) (名詞) 話題: 談話の相手に提示される情報のうち既知の部分。主題、題目。
+TOPMOST	(形容詞) 天辺の: いただき。頂上。 (ほかに: 最上部の)
+TOPOGRAPHIES	(topographyの変化形) (名詞) topographyの訳: 地勢
+TOPOGRAPHY	(名詞) topographyの訳: 地勢
+TOPOLOGIES	(topologyの変化形) (名詞) topologyの訳: ⟪位相|いそう⟫, 位相幾何学, 位相数学, トポロジー
+TOPOLOGY	(名詞) topologyの訳: ⟪位相|いそう⟫, 位相幾何学, 位相数学, トポロジー
+TOPONYM	(名詞) 地名: 土地の呼び名。
+TOPONYMS	(名詞) toponymの複数形: 地名: 土地の呼び名。
+TOPPED	(動詞) "top" の過去形・過去分詞: 頂: （いただき）器、図形、地形など、物体の最も上になる部分。即ち、ある部分の周囲が全て、その部分よりも低い位置をなしている場合のある部分。 (ほかに:...
+TOPPER	(名詞) 一番上にあるもの。
+TOPPERS	(名詞) topperの複数形: 一番上にあるもの。
+TOPPING	(動詞) "top" の動名詞又は現在分詞: 頂: （いただき）器、図形、地形など、物体の最も上になる部分。即ち、ある部分の周囲が全て、その部分よりも低い位置をなしている場合のある部分。 (ほかに:...
+TOPPINGS	(topの変化形) (名詞) 頂: （いただき）器、図形、地形など、物体の最も上になる部分。即ち、ある部分の周囲が全て、その部分よりも低い位置をなしている場合のある部分。 (ほかに: 頂上, 頂点)
+TOPPLE	(動詞) ぐらつく。ぐらついて倒れる。 [+over, down]
+TOPPLED	(動詞) toppleの過去形・過去分詞: ぐらつく。ぐらついて倒れる。 [+over, down]
+TOPPLES	(動詞) toppleの直説法現在第三人称単数形: ぐらつく。ぐらついて倒れる。 [+over, down]
+TOPPLING	(動詞) toppleの動名詞・現在分詞: ぐらつく。ぐらついて倒れる。 [+over, down]\n(名詞) topplingの訳: ぐらつくこと
+TOPS	(名詞) "top" の複数形: 頂: （いただき）器、図形、地形など、物体の最も上になる部分。即ち、ある部分の周囲が全て、その部分よりも低い位置をなしている場合のある部分。 (ほかに:...\n(動詞) "top" の現在第三人称単数形。
+TORCH	(名詞) 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。 (ほかに: トーチ)\n(動詞) torchの訳: 火をつける
+TORCHED	(動詞) torchの過去形・過去分詞: 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。 (ほかに: トーチ)
+TORCHES	(名詞) "torch" の複数形: 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。 (ほかに: トーチ)\n(動詞) "torch" の現在第三人称単数形。
+TORCHING	(動詞) "torch" の動名詞又は現在分詞: 松明: 手で持てるようにした火のついた木切れ。照明などに使用する。 (ほかに: トーチ)
+TORE	(動詞) tearの過去形: 涙。
+TORERO	(名詞) toreroの訳: 闘牛士
+TOREROS	(toreroの変化形) (名詞) toreroの訳: 闘牛士
+TORES	(tearの変化形) (名詞) tearの訳: ⟪涙|なみだ⟫
+TORI	(torusの変化形) (名詞) トーラス: ある平面上にある円とその円に交わらない直線とで、直線を軸にして空間上を回転させたときに円周の軌跡が成す図形の表面。ドーナツ形。
+TORMENT	(名詞) 苦痛: 体や心に感じる苦しみや痛み。 (ほかに: 苦悩)\n(動詞) ひどく苦しめる。
+TORMENTED	(動詞) tormentの過去形・過去分詞: 苦痛: 体や心に感じる苦しみや痛み。 (ほかに: 苦悩)\n(形容詞) ひどく苦しめられた。
+TORMENTER	(名詞) tormentorの異綴。
+TORMENTERS	(名詞) tormenterの複数形: tormentorの異綴。
+TORMENTING	(動詞) tormentの動名詞又は現在分詞: 苦痛: 体や心に感じる苦しみや痛み。 (ほかに: 苦悩)\n(形容詞) 苦しめる: （くるしめる）（対格助詞「を」）～に苦しい思いをさせる。 (ほかに: 悩ます)
+TORMENTOR	(名詞) tormentorの訳: 苦しめる人
+TORMENTORS	(名詞) tormentorの複数形: 苦しめる人
+TORMENTS	(名詞) tormentの複数形: 苦痛: 体や心に感じる苦しみや痛み。 (ほかに: 苦悩)\n(動詞) tormentの現在第三人称単数形。
+TORN	(動詞) tearの過去分詞: ⟪涙|なみだ⟫
+TORNADO	(名詞) たつまき: 大気の下層で起こる細長く激しい渦巻きで積乱雲などの雲底から直径数十メートルから数百メートルの漏斗状、柱状の雲が垂れ下がって海面または地上に達して中心付近は風速毎秒百メートルを超え進路にあたる地上のものや海水、砂塵を空中に巻き上げ家屋を破壊する。
+TORNADOES	(tornadoの変化形) (名詞) たつまき:...
+TORNADOS	(tornadoの変化形) (名詞) たつまき:...
+TORPEDO	(名詞) torpedoの訳: 魚雷
+TORPEDOED	(torpedoの変化形) (名詞) torpedoの訳: 魚雷
+TORPEDOES	(torpedoの変化形) (名詞) torpedoの訳: 魚雷
+TORPEDOING	(torpedoの変化形) (名詞) torpedoの訳: 魚雷
+TORPEDOS	(torpedoの変化形) (名詞) torpedoの訳: 魚雷
+TORR	(名詞) torの旧綴り。
+TORRENT	(名詞) 急流: 水の勢いが激しい流れ。奔湍。 (ほかに: 奔流, 激流)\n(形容詞) torrentの訳: 激流のような
+TORRENTS	(名詞) torrentの複数形: 急流: 水の勢いが激しい流れ。奔湍。 (ほかに: 奔流, 激流)
+TORSI	(名詞) torsoの複数形: 胴: 身体のうち頭部や肢を除く部分 (ほかに: 胴体)
+TORSO	(名詞) 胴: 身体のうち頭部や肢を除く部分 (ほかに: 胴体)
+TORSOS	(torsoの変化形) (名詞) 胴: 身体のうち頭部や肢を除く部分 (ほかに: 胴体)
+TORTOISE	(名詞) tortoiseの訳: 亀, 陸亀
+TORTOISES	(名詞) tortoiseの複数形: 亀, 陸亀
+TORTOISESHELL	(名詞) tortoiseshellの訳: 鼈甲\n(形容詞) tortoiseshellの訳: 鼈甲製の
+TORTOISESHELLS	(名詞) tortoiseshellの複数形: 鼈甲
+TORTURE	(名詞) 拷問: 肉体に苦痛を加え自白を強要すること。\n(動詞) tortureの訳: 拷問にかける
+TORTURED	(動詞) "torture" の過去形・過去分詞形: 拷問: 肉体に苦痛を加え自白を強要すること。
+TORTURER	(名詞) torturerの訳: 拷問者
+TORTURERS	(名詞) torturerの複数形: 拷問者
+TORTURES	(名詞) tortureの複数形: 拷問: 肉体に苦痛を加え自白を強要すること。\n(動詞) tortureの直説法現在第三人称単数形: 拷問: 肉体に苦痛を加え自白を強要すること。
+TORTURING	(名詞) 虐待: 自分の保護下にある者に対し、長期間に渡って暴力や精神的苦痛を与えるなどひどい待遇をすること。 (ほかに: 拷問)\n(動詞) tortureの動名詞又は現在分詞: 拷問: 肉体に苦痛を加え自白を強要すること。
+TORUS	(名詞) トーラス: ある平面上にある円とその円に交わらない直線とで、直線を軸にして空間上を回転させたときに円周の軌跡が成す図形の表面。ドーナツ形。
+TOSS	(名詞) 放り投げること、トス。\n(動詞) tossの訳: 放り投げる
+TOSSED	(動詞) tossの過去形・過去分詞: 放り投げること、トス。
+TOSSES	(名詞) tossの複数形: 放り投げること、トス。\n(動詞) tossの直説法現在第三人称単数形: 放り投げること、トス。
+TOSSING	(動詞) tossの現在分詞: 放り投げること、トス。\n(名詞) 放り投げること。
+TOT	(名詞) 小児: 小さな子供。幼い子供。幼児。 (ほかに: 幼児)\n(動詞) totの訳: 合計する
+TOTAL	(名詞) 総額: 全体の金額。 (ほかに: 合計, 総計)\n(形容詞) totalの訳: 全ての, 全体の
+TOTALED	(動詞) "total" の過去形・過去分詞: 総額: 全体の金額。 (ほかに: 合計, 総計)
+TOTALING	(動詞) total の現在分詞: 合計、総計、総額。
+TOTALITARIANISM	(名詞) 全体主義: 国民の自由や決定権を認めず、国家の全体を政府に服従させる考え。
+TOTALITARIANISMS	(totalitarianismの変化形) (名詞) 全体主義: 国民の自由や決定権を認めず、国家の全体を政府に服従させる考え。
+TOTALITIES	(名詞) totalityの複数形: 全体: 体のすべて。全身。
+TOTALITY	(名詞) 全体: 体のすべて。全身。
+TOTALLED	(動詞) total の過去形: 合計、総計、総額。
+TOTALLING	(動詞) total の現在分詞: 合計、総計、総額。
+TOTALLY	(副詞) すっかり: ある状態に完全になる様子。 (ほかに: 完全に)
+TOTALS	(名詞) total の複数形: 合計、総計、総額。\n(動詞) total の直説法現在第三人称単数形: 合計、総計、総額。
+TOTS	(totの変化形) (名詞) 小児: 小さな子供。幼い子供。幼児。 (ほかに: 幼児)
+TOTTED	(totの変化形) (名詞) 小児: 小さな子供。幼い子供。幼児。 (ほかに: 幼児)
+TOTTER	(動詞) totterの訳: よろよろ歩く, ふらふら歩く\n(名詞) よろめき。ぐらつき。
+TOTTERED	(動詞) totterの過去形・過去分詞: よろよろ歩く, ふらふら歩く
+TOTTERING	(動詞) totterの現在分詞: よろよろ歩く, ふらふら歩く\n(形容詞) よろめく。ぐらつく。
+TOTTERINGLY	(副詞) よろよろと。ぐらぐらと。
+TOTTERS	(名詞) totterの複数形: よろよろ歩く, ふらふら歩く\n(動詞) totterの直説法現在第三人称単数形: よろよろ歩く, ふらふら歩く
+TOTTERY	(形容詞) よろよろする。ぐらぐらする。
+TOTTING	(totの変化形) (名詞) 小児: 小さな子供。幼い子供。幼児。 (ほかに: 幼児)
+TOUCAN	(名詞) toucanの訳: ⟪おおはし⟫
+TOUCANS	(名詞) toucanの複数形: ⟪おおはし⟫
+TOUCH	(動詞) 触れる: 手などをものやからだに軽く当てて、ものを知覚する。接触する。（さわったことが分かるくらい、少しだけ）さわる。 (ほかに: 触る, 接触する)\n(名詞) touchの訳: ⟪接触|せっしょく⟫
+TOUCHED	(形容詞) touchedの訳: 感動した\n(動詞) touchの過去形・過去分詞: 触れる: 手などをものやからだに軽く当てて、ものを知覚する。接触する。（さわったことが分かるくらい、少しだけ）さわる。 (ほかに: 触る, 接触する)
+TOUCHER	(名詞) toucherの訳: 接触者
+TOUCHERS	(名詞) toucherの複数形: 接触者。
+TOUCHES	(名詞) "touch" の複数形: 触れる: 手などをものやからだに軽く当てて、ものを知覚する。接触する。（さわったことが分かるくらい、少しだけ）さわる。 (ほかに: 触る, 接触する)\n(動詞) "touch" の現在第三人称単数形。
+TOUCHIER	(形容詞) "touchy" の比較級: 短気な: 気が短いこと。せっかちなこと。性急。 (ほかに: 神経質な)
+TOUCHIEST	(形容詞) "touchy" の最上級: 短気な: 気が短いこと。せっかちなこと。性急。 (ほかに: 神経質な)
+TOUCHING	(動詞) "touch" の動名詞又は現在分詞: 触れる: 手などをものやからだに軽く当てて、ものを知覚する。接触する。（さわったことが分かるくらい、少しだけ）さわる。 (ほかに: 触る, 接触する)\n(形容詞) 感動的な。心を打つ。涙ぐましい。
+TOUCHINGLY	(副詞) 涙ぐましいほど。感動的に。
+TOUCHSTONE	(名詞) touchstoneの訳: 試金石
+TOUCHSTONES	(名詞) touchstoneの複数形: 試金石
+TOUCHY	(形容詞) 短気な: 気が短いこと。せっかちなこと。性急。 (ほかに: 神経質な)
+TOUGH	(形容詞) toughの訳: 丈夫な, 頑丈な\n(感動詞) toughの訳: ⟪残念|ざんねん⟫
+TOUGHED	(動詞) toughの過去形・過去分詞: 丈夫な, 頑丈な
+TOUGHER	(形容詞) toughの比較級: 丈夫な, 頑丈な
+TOUGHEST	(形容詞) toughの最上級: 丈夫な, 頑丈な
+TOUGHING	(動詞) toughの現在分詞: 丈夫な, 頑丈な
+TOUGHS	(名詞) toughの複数形: 丈夫な, 頑丈な\n(動詞) toughの直説法現在第三人称単数形: 丈夫な, 頑丈な
+TOUR	(名詞) tourの訳: 周遊旅行, ツアー\n(動詞) 旅行する: 住んでいる場所を離れて他の土地を遊覧すること。旅をすること。 (ほかに: 周遊する, 巡業する)
+TOURED	(動詞) tourの過去形・過去分詞: 周遊旅行, ツアー
+TOURING	(形容詞) touringの訳: 巡業する\n(動詞) tourの現在分詞: 周遊旅行, ツアー
+TOURISM	(名詞) tourismの訳: 観光旅行
+TOURISMS	(名詞) tourismの複数形: 観光旅行
+TOURIST	(名詞) 観光客: 個人、家族、団体で観光旅行をする者。\n(動詞) 観光客として旅行する。
+TOURISTS	(名詞) touristの複数形: 観光客: 個人、家族、団体で観光旅行をする者。\n(動詞) touristの三人称単数現在形: 観光客: 個人、家族、団体で観光旅行をする者。
+TOURNAMENT	(名詞) 試合: （しあい）スポーツや武術などにおいて一定のルールのもとに互いに戦って技を競い、勝敗を争うこと。 (ほかに: 競技会)
+TOURNAMENTS	(名詞) "tournament" の複数形: 試合: （しあい）スポーツや武術などにおいて一定のルールのもとに互いに戦って技を競い、勝敗を争うこと。 (ほかに: 競技会)
+TOURS	(名詞) tourの複数形: 周遊旅行, ツアー\n(動詞) tourの直説法現在第三人称単数形: 周遊旅行, ツアー
+TOUT	(動詞) 押し売りする、しつこく売り込む、無理に勧誘する\n(名詞) 押し売り、うるさく勧誘する人
+TOUTED	(toutの変化形) (動詞) 押し売りする、しつこく売り込む、無理に勧誘する
+TOUTING	(toutの変化形) (動詞) 押し売りする、しつこく売り込む、無理に勧誘する
+TOUTS	(toutの変化形) (動詞) 押し売りする、しつこく売り込む、無理に勧誘する
+TOW	(動詞) towの訳: 引く, 牽引する\n(名詞) towの訳: ⟪牽引|けんいん⟫, ⟪曳航|えいこう⟫
+TOWARD	(前置詞) towardの訳: ～へ向けて, ～へ向かって
+TOWARDS	(前置詞) towardの異形。\n(副詞) towardsの訳: 〜へ向かって
+TOWED	(動詞) towの過去形・過去分詞: 引く, 牽引する
+TOWEL	(名詞) タオル。手拭い。布巾。\n(動詞) towelの訳: タオルで拭く
+TOWELED	(動詞) towelの過去形・過去分詞: タオル。手拭い。布巾。
+TOWELING	(名詞) towellingの異綴。\n(動詞) towelの現在分詞: タオル。手拭い。布巾。
+TOWELINGS	(名詞) towelingの複数形: towellingの異綴。
+TOWELLED	(動詞) towelの過去形・過去分詞: タオル。手拭い。布巾。
+TOWELLING	(名詞) towellingの訳: タオル地\n(動詞) towelの現在分詞: タオル。手拭い。布巾。
+TOWELLINGS	(名詞) towellingの複数形: タオル地
+TOWELS	(名詞) towelの複数形: タオル。手拭い。布巾。\n(動詞) towelの直説法現在第三人称単数形: タオル。手拭い。布巾。
+TOWER	(名詞) 櫓: 木材や鉄骨を組み立てて建てられた高い構造物。 (ほかに: 塔, タワー)\n(動詞) towerの訳: 高く聳える
+TOWERED	(動詞) towerの過去形・過去分詞: 櫓: 木材や鉄骨を組み立てて建てられた高い構造物。 (ほかに: 塔, タワー)\n(形容詞) toweredの訳: 塔のある
+TOWERING	(動詞) towerの現在分詞: 櫓: 木材や鉄骨を組み立てて建てられた高い構造物。 (ほかに: 塔, タワー)\n(形容詞) toweringの訳: 非常に高い, 聳え立つ
+TOWERINGLY	(towerの変化形) (名詞) 櫓: 木材や鉄骨を組み立てて建てられた高い構造物。 (ほかに: 塔, タワー)
+TOWERS	(名詞) towerの複数形: 櫓: 木材や鉄骨を組み立てて建てられた高い構造物。 (ほかに: 塔, タワー)\n(動詞) towerの直説法現在第三人称単数形: 櫓: 木材や鉄骨を組み立てて建てられた高い構造物。 (ほかに: 塔, タワー)
+TOWING	(動詞) towの現在分詞: 引く, 牽引する\n(名詞) 曳航: 車などで引っ張ること。 (ほかに: 牽引)
+TOWN	(名詞) 町: （行政 まち又はチョウ）地方公共団体のひとつで、村より大規模で、市よりも小規模のもの。
+TOWNS	(名詞) townの複数形: 町: （行政 まち又はチョウ）地方公共団体のひとつで、村より大規模で、市よりも小規模のもの。
+TOWNSMAN	(名詞) townsmanの訳: ⟪市民|しみん⟫
+TOWNSMEN	(townsmanの変化形) (名詞) townsmanの訳: ⟪市民|しみん⟫
+TOWNSPEOPLE	(名詞) townspersonの複数形。
+TOWS	(名詞) towの複数形: 引く, 牽引する\n(動詞) towの直説法現在第三人称単数形: 引く, 牽引する
+TOXIC	(形容詞) 有毒な: 何かしらの毒性があること。 (ほかに: 毒性を示す, 有害な)
+TOXICITIES	(toxicityの変化形) (名詞) 毒性: 有毒な性質。
+TOXICITY	(名詞) 毒性: 有毒な性質。
+TOXICOLOGIES	(名詞) toxicologyの複数形: 毒物学。毒性学。
+TOXICOLOGIST	(名詞) 毒物学者: 毒物学を研究する科学者。
+TOXICOLOGISTS	(名詞) toxicologistの複数形: 毒物学者: 毒物学を研究する科学者。
+TOXICOLOGY	(名詞) 毒物学。毒性学。
+TOXICS	(toxicの変化形) (形容詞) 有毒な: 何かしらの毒性があること。 (ほかに: 毒性を示す, 有害な)
+TOXIN	(名詞) 毒素: 体内で生成される有毒な物質。
+TOXINES	(toxinの変化形) (名詞) 毒素: 体内で生成される有毒な物質。
+TOXINS	(toxinの変化形) (名詞) 毒素: 体内で生成される有毒な物質。
+TOY	(名詞) おもちゃ、玩具。[16世紀より]\n(動詞) 弄ぶ: 思いのままに扱う。弄する。翻弄する。 (ほかに: 弄る)
+TOYED	(動詞) toyの過去形・過去分詞: おもちゃ、玩具。[16世紀より]
+TOYING	(動詞) toyの現在分詞: おもちゃ、玩具。[16世紀より]\n(名詞) toyingの訳: 弄ること, 弄ぶこと
+TOYS	(名詞) toyの複数形: おもちゃ、玩具。[16世紀より]\n(動詞) toyの直説法現在第三人称単数形: おもちゃ、玩具。[16世紀より]
+TRACE	(名詞) traceの訳: 跡を辿ること\n(形容詞) traceの訳: 少量の, 微量の
+TRACED	(traceの変化形) (名詞) traceの訳: 跡を辿ること
+TRACER	(名詞) tracerの訳: トレーサー, 追跡子
+TRACERS	(tracerの変化形) (名詞) tracerの訳: トレーサー, 追跡子
+TRACES	(traceの変化形) (名詞) traceの訳: 跡を辿ること
+TRACHEA	(名詞) 気管: 肺を持つ脊椎動物の呼吸器である管状の気道の一部で咽頭から気管支までの部分。 (ほかに: 気門)
+TRACHEAE	(tracheaの変化形) (名詞) 気管: 肺を持つ脊椎動物の呼吸器である管状の気道の一部で咽頭から気管支までの部分。 (ほかに: 気門)
+TRACHEAS	(tracheaの変化形) (名詞) 気管: 肺を持つ脊椎動物の呼吸器である管状の気道の一部で咽頭から気管支までの部分。 (ほかに: 気門)
+TRACING	(traceの変化形) (名詞) traceの訳: 跡を辿ること
+TRACINGS	(traceの変化形) (名詞) traceの訳: 跡を辿ること
+TRACK	(名詞) （通った）跡。轍。\n(動詞) 跡を追う。追跡する。
+TRACKED	(動詞) trackの過去形・過去分詞: （通った）跡。轍。\n(形容詞) trackedの訳: 牽引の
+TRACKER	(名詞) trackerの訳: 追跡者, 猟犬, ⟪猟師|りょうし⟫
+TRACKERS	(trackerの変化形) (名詞) trackerの訳: 追跡者, 猟犬, ⟪猟師|りょうし⟫
+TRACKING	(名詞) 追跡: 逃げる者の後を追うこと。\n(動詞) trackの現在分詞: （通った）跡。轍。
+TRACKINGS	(名詞) trackingの複数形: 追跡: 逃げる者の後を追うこと。
+TRACKS	(名詞) trackの複数形: （通った）跡。轍。\n(動詞) trackの直説法現在第三人称単数形: （通った）跡。轍。
+TRACT	(名詞) 地域。区域。
+TRACTION	(名詞) tractionの訳: ⟪牽引|けんいん⟫, 牽引力
+TRACTIONS	(tractionの変化形) (名詞) tractionの訳: ⟪牽引|けんいん⟫, 牽引力
+TRACTOR	(名詞) トラクター: 農業機械を牽引したりブレードを取り付けてブルドーザーとして土木作業に用いたりする車両。\n(動詞) トラクターで耕す。
+TRACTORS	(名詞) tractorの複数形: トラクター: 農業機械を牽引したりブレードを取り付けてブルドーザーとして土木作業に用いたりする車両。\n(動詞) tractorの直説法現在第三人称単数形: トラクター: 農業機械を牽引したりブレードを取り付けてブルドーザーとして土木作業に用いたりする車両。
+TRACTS	(名詞) tractの複数形: 地域。区域。\n(動詞) tractの直説法現在第三人称単数形: 地域。区域。
+TRADE	(名詞) 貿易: （原義:「貿」は「もとめる」、「易」は「かえる、交換する」の意）金品を替えて、商うこと。交易。 (ほかに: 取引)\n(動詞) tradeの訳: 貿易する, 取引する
+TRADED	(動詞) tradeの過去形・過去分詞: 貿易: （原義:「貿」は「もとめる」、「易」は「かえる、交換する」の意）金品を替えて、商うこと。交易。 (ほかに: 取引)
+TRADEMARK	(名詞) 商標、トレードマーク
+TRADEMARKED	(trademarkの変化形) (名詞) 商標、トレードマーク
+TRADEMARKING	(trademarkの変化形) (名詞) 商標、トレードマーク
+TRADEMARKS	(trademarkの変化形) (名詞) 商標、トレードマーク
+TRADEOFF	(名詞) ある利点を得る代わり、その引き換えに元の利点を失うこと。一得一失。トレードオフ。
+TRADEOFFS	(名詞) tradeoffの複数形: ある利点を得る代わり、その引き換えに元の利点を失うこと。一得一失。トレードオフ。
+TRADER	(名詞) 商人。貿易業者。
+TRADERS	(名詞) traderの複数形: 商人。貿易業者。
+TRADES	(名詞) "trade" の複数形: 貿易: （原義:「貿」は「もとめる」、「易」は「かえる、交換する」の意）金品を替えて、商うこと。交易。 (ほかに: 取引)\n(動詞) "trade" の現在第三人称単数形。
+TRADESMAN	(名詞) tradesmanの訳: ⟪職人|しょくにん⟫
+TRADESMEN	(名詞) tradesmanの複数形: ⟪職人|しょくにん⟫
+TRADING	(動詞) tradeの動名詞又は現在分詞: 貿易: （原義:「貿」は「もとめる」、「易」は「かえる、交換する」の意）金品を替えて、商うこと。交易。 (ほかに: 取引)\n(形容詞) 貿易に従事する。
+TRADITION	(名詞) traditionの訳: ⟪伝承|でんしょう⟫, 口承
+TRADITIONAL	(形容詞) 伝統的: 伝統に関すること。また、そのさま。
+TRADITIONS	(traditionの変化形) (名詞) traditionの訳: ⟪伝承|でんしょう⟫, 口承
+TRADUCE	(動詞) 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 謗る)
+TRADUCED	(動詞) "traduce" の過去形・過去分詞: 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 謗る)
+TRADUCES	(名詞) "traduce" の複数形: 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 謗る)\n(動詞) "traduce" の現在第三人称単数形。
+TRADUCING	(動詞) "traduce" の動名詞又は現在分詞: 中傷する: （ちゅうしょうする）根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 謗る)
+TRAFFIC	(名詞) 交通: 人や乗り物、物資などが行き来すること。
+TRAFFICKED	(trafficの変化形) (名詞) 交通: 人や乗り物、物資などが行き来すること。
+TRAFFICKING	(trafficの変化形) (名詞) 交通: 人や乗り物、物資などが行き来すること。
+TRAFFICS	(trafficの変化形) (名詞) 交通: 人や乗り物、物資などが行き来すること。
+TRAGEDIES	(名詞) "tragedy" の複数形: 悲劇。主人公が破滅的な結末を迎えるもの。
+TRAGEDY	(名詞) 悲劇。主人公が破滅的な結末を迎えるもの。
+TRAGI	(tragusの変化形) (名詞) 耳珠: 外耳道の口を囲んで、耳介の反対側にある突起状のもの。
+TRAGIC	(形容詞) 悲劇の: 不幸・悲惨な出来事や状況。惨劇。
+TRAGICALLY	(副詞) tragicallyの訳: 悲惨に
+TRAGICS	(tragicの変化形) (形容詞) 悲劇の: 不幸・悲惨な出来事や状況。惨劇。
+TRAGUS	(名詞) 耳珠: 外耳道の口を囲んで、耳介の反対側にある突起状のもの。
+TRAIL	(名詞) trailの訳: ⟪小道|こみち⟫, 散歩道\n(動詞) trailの訳: 引きずる
+TRAILED	(動詞) trailの過去形・過去分詞: ⟪小道|こみち⟫, 散歩道
+TRAILER	(名詞) trailerの訳: トレーラー
+TRAILERED	(trailerの変化形) (名詞) trailerの訳: トレーラー
+TRAILERING	(trailerの変化形) (名詞) trailerの訳: トレーラー
+TRAILERS	(名詞) trailerの複数形: トレーラー
+TRAILING	(動詞) "trail" の動名詞又は現在分詞: ⟪小道|こみち⟫, 散歩道
+TRAILS	(名詞) "trail" の複数形: ⟪小道|こみち⟫, 散歩道\n(動詞) "trail" の現在第三人称単数形。
+TRAIN	(名詞) trainの訳: 列, ⟪行列|ぎょうれつ⟫, 隊列\n(動詞) trainの訳: ⟪鍛える|きたえる⟫, 練習する, 訓練する
+TRAINED	(形容詞) 訓練された。熟練した。\n(動詞) train の過去形又は過去分詞形: 列、行列、隊列。
+TRAINEE	(名詞) 見習い。実習生。研修生。
+TRAINEES	(名詞) traineeの複数形: 見習い。実習生。研修生。
+TRAINER	(名詞) コーチ: 運動競技などの技術を指導すること。
+TRAINERS	(trainerの変化形) (名詞) コーチ: 運動競技などの技術を指導すること。
+TRAINING	(動詞) trainの現在分詞: 列, ⟪行列|ぎょうれつ⟫, 隊列\n(名詞) 練習: 技能を向上させるために、それに関わる活動を反復して模擬的に行うこと。 (ほかに: トレーニング)
+TRAININGS	(名詞) trainingの複数形: trainの現在分詞: 列, ⟪行列|ぎょうれつ⟫, 隊列
+TRAINS	(名詞) "train" の複数形: 列, ⟪行列|ぎょうれつ⟫, 隊列\n(動詞) "train" の現在第三人称単数形。
+TRAIPSE	(動詞) traipseの訳: 銀ぶら
+TRAIPSED	(traipseの変化形) (動詞) traipseの訳: 銀ぶら
+TRAIPSES	(traipseの変化形) (動詞) traipseの訳: 銀ぶら
+TRAIPSING	(traipseの変化形) (動詞) traipseの訳: 銀ぶら
+TRAIT	(名詞) 特徴。特性。
+TRAITOR	(名詞) traitorの訳: 裏切り者\n(動詞) 売国行為を働く、国を売る。
+TRAITOROUS	(形容詞) traitorousの訳: 裏切りの, 反逆的な
+TRAITORS	(名詞) traitorの複数形: 裏切り者\n(動詞) traitorの直説法現在第三人称単数形: 裏切り者
+TRAITS	(名詞) traitの複数形: 特徴。特性。
+TRAJECTORIES	(名詞) trajectoryの複数形: 軌道, 弾道
+TRAJECTORY	(名詞) trajectoryの訳: 軌道, 弾道
+TRAM	(名詞) tramの訳: 路面電車, 市街電車
+TRAMMED	(tramの変化形) (名詞) tramの訳: 路面電車, 市街電車
+TRAMMING	(tramの変化形) (名詞) tramの訳: 路面電車, 市街電車
+TRAMP	(動詞) 重い足取りで歩く。\n(名詞) trampの訳: 長時間の歩行
+TRAMPED	(動詞) trampの過去形・過去分詞: 重い足取りで歩く。
+TRAMPING	(動詞) "tramp" の動名詞又は現在分詞: 重い足取りで歩く。
+TRAMPLE	(動詞) trampleの訳: 踏みつける
+TRAMPLED	(動詞) trampleの過去形・過去分詞: 踏みつける
+TRAMPLES	(動詞) trampleの現在第三人称単数形。
+TRAMPLING	(動詞) trampleの動名詞又は現在分詞: 踏みつける\n(名詞) tramplingの訳: 踏み付け
+TRAMPOLINE	(名詞) トランポリン: 方形または円形の枠に弾性のある布（ベッド）を張り、その上で跳躍などをする運動器具。また、それを使用した体操競技。\n(動詞) トランポリンの上で跳ぶ。
+TRAMPOLINES	(名詞) trampolineの複数形: トランポリン: 方形または円形の枠に弾性のある布（ベッド）を張り、その上で跳躍などをする運動器具。また、それを使用した体操競技。\n(動詞) trampolineの直説法現在第三人称単数形: トランポリン: 方形または円形の枠に弾性のある布（ベッド）を張り、その上で跳躍などをする運動器具。また、それを使用した体操競技。
+TRAMPS	(名詞) "tramp" の複数形: 重い足取りで歩く。\n(動詞) "tramp" の現在第三人称単数形。
+TRAMS	(tramの変化形) (名詞) tramの訳: 路面電車, 市街電車
+TRANQUIL	(形容詞) tranquilの訳: 静かな, 平穏な
+TRANQUILER	(形容詞) tranquilの比較級: 静かな, 平穏な
+TRANQUILEST	(形容詞) tranquilの最上級: 静かな, 平穏な
+TRANQUILITIES	(名詞) tranquilityの複数形: tranquillityの異綴。
+TRANQUILITY	(名詞) tranquillityの異綴。
+TRANQUILIZE	(動詞) 静める。鎮静する。落ち着かせる。
+TRANQUILIZED	(動詞) tranquilizeの過去形・過去分詞: 静める。鎮静する。落ち着かせる。
+TRANQUILIZER	(名詞) 沈静させるもの。
+TRANQUILIZERS	(名詞) tranquilizerの複数形: 沈静させるもの。
+TRANQUILIZES	(動詞) tranquilizeの直説法現在第三人称単数形: 静める。鎮静する。落ち着かせる。
+TRANQUILIZING	(形容詞) 鎮静の。鎮静させる。\n(名詞) 鎮静: 騒ぎや気持ちを静めて落ち着かせること。
+TRANQUILLER	(tranquilの変化形) (形容詞) tranquilの訳: 静かな, 平穏な
+TRANQUILLEST	(tranquilの変化形) (形容詞) tranquilの訳: 静かな, 平穏な
+TRANQUILLITIES	(名詞) tranquillityの複数形: 静けさ: 静かであること。また、その程度。 (ほかに: 平穏, 平静)
+TRANQUILLITY	(名詞) 静けさ: 静かであること。また、その程度。 (ほかに: 平穏, 平静)
+TRANQUILLIZE	(動詞) tranquilizeの異綴。
+TRANQUILLIZED	(動詞) tranquillizeの過去形・過去分詞: tranquilizeの異綴。
+TRANQUILLIZER	(名詞) tranquilizerの異綴。
+TRANQUILLIZERS	(名詞) tranquillizerの複数形: tranquilizerの異綴。
+TRANQUILLIZES	(動詞) tranquillizeの直説法現在第三人称単数形: tranquilizeの異綴。
+TRANQUILLIZING	(動詞) tranquillizeの現在分詞: tranquilizeの異綴。
+TRANQUILLY	(副詞) 静かに。落ち着いて。
+TRANQUILNESS	(名詞) 静けさ。平穏さ。
+TRANQUILNESSES	(tranquilnessの変化形) (名詞) 静けさ。平穏さ。
+TRANSACT	(動詞) （業務などを）行う。処理する。
+TRANSACTED	(動詞) transactの過去形・過去分詞: （業務などを）行う。処理する。
+TRANSACTING	(動詞) transactの現在分詞: （業務などを）行う。処理する。
+TRANSACTION	(名詞) 取扱い: （とりあつかい）物を手で持ったり動かしたりすること。 (ほかに: 処理)
+TRANSACTIONS	(名詞) transactionの複数形: 取扱い: （とりあつかい）物を手で持ったり動かしたりすること。 (ほかに: 処理)
+TRANSACTS	(動詞) transactの直説法現在第三人称単数形: （業務などを）行う。処理する。
+TRANSCEND	(動詞) （何かの限界を）越える。超越する。
+TRANSCENDED	(transcendの変化形) (動詞) （何かの限界を）越える。超越する。
+TRANSCENDENCE	(名詞) 超越: ある態度や考え方から脱し、より高い次元にあること。
+TRANSCENDENCES	(transcendenceの変化形) (名詞) 超越: ある態度や考え方から脱し、より高い次元にあること。
+TRANSCENDENT	(形容詞) transcendentの訳: 超越的な
+TRANSCENDENTAL	(形容詞) 超越: 経験や認識の範囲外にあること。
+TRANSCENDING	(transcendの変化形) (動詞) （何かの限界を）越える。超越する。
+TRANSCENDS	(transcendの変化形) (動詞) （何かの限界を）越える。超越する。
+TRANSCRIBE	(動詞) 書き写す。複写する。
+TRANSCRIBED	(動詞) transcribeの過去形・過去分詞: 書き写す。複写する。
+TRANSCRIBES	(動詞) transcribeの直説法現在第三人称単数形: 書き写す。複写する。
+TRANSCRIBING	(動詞) transcribeの現在分詞: 書き写す。複写する。
+TRANSCRIPT	(名詞) 写し。コピー。複写。謄本。\n(動詞) 書き写す。複写する。
+TRANSCRIPTION	(名詞) transcriptionの訳: ⟪書き換え|かきかえ⟫
+TRANSCRIPTIONS	(名詞) transcriptionの複数形: ⟪書き換え|かきかえ⟫
+TRANSCRIPTS	(名詞) transcriptの複数形: 写し。コピー。複写。謄本。\n(動詞) transcriptの直説法現在第三人称単数形: 写し。コピー。複写。謄本。
+TRANSFER	(動詞) transferの訳: 移す\n(名詞) transferの訳: 移動
+TRANSFERABLE	(形容詞) 移せる。譲渡できる。
+TRANSFERENCE	(名詞) 移動: 人やものが存在する場所を他へ移すこと。場所を移ること。また、その動作。
+TRANSFERENCES	(transferenceの変化形) (名詞) 移動: 人やものが存在する場所を他へ移すこと。場所を移ること。また、その動作。
+TRANSFERRED	(動詞) transferの過去形・過去分詞: 移す
+TRANSFERRING	(動詞) "transfer" の動名詞又は現在分詞: 移す\n(名詞) 移動。移転。転送。譲渡。
+TRANSFERS	(名詞) "transfer" の複数形: 移す\n(動詞) "transfer" の現在第三人称単数形。
+TRANSFIX	(動詞) （恐怖・興味などで）立ち竦ませる。釘付けにする。
+TRANSFIXED	(形容詞) （恐怖・興味などで）立ち竦んだ。釘付けになった。\n(動詞) transfixの過去形・過去分詞: （恐怖・興味などで）立ち竦ませる。釘付けにする。
+TRANSFIXES	(動詞) transfixの直説法現在第三人称単数形: （恐怖・興味などで）立ち竦ませる。釘付けにする。
+TRANSFIXING	(動詞) transfixの現在分詞: （恐怖・興味などで）立ち竦ませる。釘付けにする。
+TRANSFIXT	(transfixの変化形) (動詞) （恐怖・興味などで）立ち竦ませる。釘付けにする。
+TRANSFORM	(動詞) 変える: (換える, 替える, 複合動詞の後項動詞) (ほかに: 変換する)
+TRANSFORMATION	(名詞) 変換: 変えること。入れ替えること。 (ほかに: 変化)
+TRANSFORMATIONS	(名詞) transformationの複数形: 変換: 変えること。入れ替えること。 (ほかに: 変化)
+TRANSFORMED	(動詞) "transform" の過去形・過去分詞: 変える: (換える, 替える, 複合動詞の後項動詞) (ほかに: 変換する)
+TRANSFORMING	(動詞) "transform" の動名詞又は現在分詞: 変える: (換える, 替える, 複合動詞の後項動詞) (ほかに: 変換する)
+TRANSFORMS	(動詞) "transform" の現在第三人称単数形。
+TRANSFUSE	(動詞) （色のついたもので）染める。（液体などを）染み込ませる。
+TRANSFUSED	(動詞) "transfuse" の過去形・過去分詞: （色のついたもので）染める。（液体などを）染み込ませる。
+TRANSFUSES	(動詞) "transfuse" の現在第三人称単数形。
+TRANSFUSING	(動詞) "transfuse" の動名詞又は現在分詞: （色のついたもので）染める。（液体などを）染み込ませる。
+TRANSFUSION	(名詞) 染めること。染み込ませること。
+TRANSFUSIONS	(transfusionの変化形) (名詞) 染めること。染み込ませること。
+TRANSGRESSION	(名詞) 法規違反。犯罪。
+TRANSGRESSIONS	(transgressionの変化形) (名詞) 法規違反。犯罪。
+TRANSIENCE	(名詞) transienceの訳: ⟪暫時|ざんじ⟫, 一過性, 束の間, 持続の短さ
+TRANSIENCES	(transienceの変化形) (名詞) transienceの訳: ⟪暫時|ざんじ⟫, 一過性, 束の間, 持続の短さ
+TRANSIENT	(形容詞) 暫時の。一過性の。束の間の。
+TRANSIENTS	(transientの変化形) (形容詞) 暫時の。一過性の。束の間の。
+TRANSISTOR	(名詞) トランジスタ: 電子部品のひとつで、半導体でできており、3つある端子のうちの1つに加えられる電流の変化を、もう1つの端子に加えられる電力源を用いて増幅して出力する素子。
+TRANSISTORS	(名詞) transistorの複数形: トランジスタ:...
+TRANSIT	(名詞) 通過。通行。\n(動詞) 通過する。通行する。
+TRANSITED	(動詞) transitの過去形・過去分詞: 通過。通行。
+TRANSITING	(動詞) transitの現在分詞: 通過。通行。
+TRANSITION	(名詞) 移行。推移。変遷。\n(動詞) 移行する。推移する。
+TRANSITIONS	(名詞) transitionの複数形: 移行。推移。変遷。\n(動詞) transitionの直説法現在第三人称単数形: 移行。推移。変遷。
+TRANSITIVE	(形容詞) 他動詞の: 目的語（対格）をとる動詞。
+TRANSITORILY	(副詞) 一時的に: 少しの期間だけにかかわるさま。
+TRANSITORINESS	(名詞) 一時的であること。
+TRANSITORINESSES	(transitorinessの変化形) (名詞) 一時的であること。
+TRANSITORY	(形容詞) 一時的に: 少しの期間だけにかかわるさま。
+TRANSITS	(名詞) transitの複数形: 通過。通行。\n(動詞) transitの直説法現在第三人称単数形: 通過。通行。
+TRANSLATE	(動詞) 翻訳する: 同一言語内での言葉の言い換え。言語内翻訳。
+TRANSLATED	(動詞) "translate" の過去形・過去分詞形: 翻訳する: 同一言語内での言葉の言い換え。言語内翻訳。
+TRANSLATES	(動詞) "translate" の三人称単数現在形: 翻訳する: 同一言語内での言葉の言い換え。言語内翻訳。
+TRANSLATING	(動詞) translate の現在分詞: 翻訳する。
+TRANSLATION	(名詞) 翻訳: 同一言語内での言葉の言い換え。言語内翻訳。 (ほかに: 訳文)
+TRANSLATIONS	(名詞) "translation" の複数形: 翻訳: 同一言語内での言葉の言い換え。言語内翻訳。 (ほかに: 訳文)
+TRANSLATIVE	(形容詞) translativeの訳: 移動の, 移転の\n(名詞) translativeの訳: 変格
+TRANSLATOR	(名詞) 翻訳家: 翻訳の専門家。
+TRANSLATORS	(名詞) translatorの複数形: 翻訳家: 翻訳の専門家。
+TRANSLITERATE	(動詞) transliterateの訳: 音訳
+TRANSLITERATED	(transliterateの変化形) (動詞) transliterateの訳: 音訳
+TRANSLITERATES	(transliterateの変化形) (動詞) transliterateの訳: 音訳
+TRANSLITERATING	(transliterateの変化形) (動詞) transliterateの訳: 音訳
+TRANSLITERATION	(名詞) 音訳: ある言語の音を別の言語の文字体系で表すこと。 (ほかに: 翻字)
+TRANSLITERATIONS	(名詞) transliterationの複数形: 音訳、翻字。
+TRANSLUCENCE	(名詞) translucenceの訳: ⟪半透明|はんとうめい⟫
+TRANSLUCENCES	(名詞) translucenceの複数形: ⟪半透明|はんとうめい⟫
+TRANSLUCENT	(形容詞) 半透明の。透き通るような。
+TRANSMISSION	(名詞) 伝送: 電気信号、電気を送り伝えること。 (ほかに: 伝達, 伝播)
+TRANSMISSIONS	(transmissionの変化形) (名詞) 伝送: 電気信号、電気を送り伝えること。 (ほかに: 伝達, 伝播)
+TRANSMIT	(動詞) 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 伝える)
+TRANSMITS	(動詞) "transmit" の現在第三人称単数形。
+TRANSMITTED	(形容詞) 伝えた。送った。送信した。\n(動詞) "transmit" の過去形・過去分詞: 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 伝える)
+TRANSMITTING	(動詞) "transmit" の動名詞又は現在分詞: 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 伝える)\n(名詞) 送信: 信号を送ること。
+TRANSMUTATION	(名詞) 変成: （へんじょう）別の姿に変わること。
+TRANSMUTATIONS	(transmutationの変化形) (名詞) 変成: （へんじょう）別の姿に変わること。
+TRANSPARENCE	(名詞) transparenceの訳: 透明
+TRANSPARENCES	(transparenceの変化形) (名詞) transparenceの訳: 透明
+TRANSPARENCIES	(名詞) transparencyの複数形: 透明。透明度。
+TRANSPARENCY	(名詞) 透明。透明度。
+TRANSPARENT	(形容詞) 透明な: 物体が光をよく通し、物体の向こうがよく見渡せること。 (ほかに: 透き通った)
+TRANSPARENTLY	(副詞) 透明に。透き通って。
+TRANSPIRATION	(名詞) transpirationの訳: 蒸散
+TRANSPIRATIONS	(名詞) transpirationの複数形: 蒸散
+TRANSPIRE	(名詞) transpireの訳: 蒸散
+TRANSPIRED	(transpireの変化形) (名詞) transpireの訳: 蒸散
+TRANSPIRES	(transpireの変化形) (名詞) transpireの訳: 蒸散
+TRANSPIRING	(transpireの変化形) (名詞) transpireの訳: 蒸散
+TRANSPLANT	(動詞) transplantの訳: ⟪植え換える|うえかえる⟫, 移植する\n(名詞) 移植: 体の組織の一部や臓器を切り取って、他の場所や別の個体へ移しかえること。 (ほかに: 植え換え)
+TRANSPLANTATION	(名詞) 移植: 体の組織の一部や臓器を切り取って、他の場所や別の個体へ移しかえること。
+TRANSPLANTATIONS	(名詞) transplantationの複数形: 移植: 体の組織の一部や臓器を切り取って、他の場所や別の個体へ移しかえること。
+TRANSPLANTED	(動詞) transplantの過去形・過去分詞: ⟪植え換える|うえかえる⟫, 移植する
+TRANSPLANTER	(名詞) transplanterの訳: 移植者
+TRANSPLANTERS	(名詞) transplanterの複数形: 移植者
+TRANSPLANTING	(動詞) transplantの現在分詞: ⟪植え換える|うえかえる⟫, 移植する\n(名詞) 移植: 魚介類などの動物を繁殖させるために、別の場所へ移すこと。
+TRANSPLANTS	(名詞) transplantの複数形: ⟪植え換える|うえかえる⟫, 移植する\n(動詞) transplantの直説法現在第三人称単数形: ⟪植え換える|うえかえる⟫, 移植する
+TRANSPORT	(動詞) transportの訳: 運ぶ, 輸送する\n(名詞) 輸送。運送。
+TRANSPORTATION	(名詞) 運送: 旅客や荷物を運ぶこと。 (ほかに: 輸送)
+TRANSPORTATIONS	(transportationの変化形) (名詞) 運送: 旅客や荷物を運ぶこと。 (ほかに: 輸送)
+TRANSPORTED	(動詞) transportの過去形・過去分詞: 運ぶ, 輸送する
+TRANSPORTER	(名詞) transporterの訳: 運送者
+TRANSPORTERS	(名詞) transporterの複数形: 運送者
+TRANSPORTING	(動詞) transportの現在分詞: 運ぶ, 輸送する\n(名詞) 流刑。流罪。
+TRANSPORTS	(名詞) transportの複数形: 運ぶ, 輸送する\n(動詞) transportの直説法現在第三人称単数形: 運ぶ, 輸送する
+TRANSPOSE	(名詞) 転置: 行列の (i, j) 成分を (j, i) 成分に入れ換えた行列を求める操作。または、そのような操作をして作られた行列。 (ほかに: 転置行列)\n(動詞) 転置: 行列の (i, j) 成分を (j, i) 成分に入れ換えた行列を求める操作。または、そのような操作をして作られた行列。
+TRANSPOSED	(transposeの変化形) (名詞) 転置: 行列の (i, j) 成分を (j, i) 成分に入れ換えた行列を求める操作。または、そのような操作をして作られた行列。 (ほかに: 転置行列)
+TRANSPOSES	(transposeの変化形) (名詞) 転置: 行列の (i, j) 成分を (j, i) 成分に入れ換えた行列を求める操作。または、そのような操作をして作られた行列。 (ほかに: 転置行列)
+TRANSPOSING	(transposeの変化形) (名詞) 転置: 行列の (i, j) 成分を (j, i) 成分に入れ換えた行列を求める操作。または、そのような操作をして作られた行列。 (ほかに: 転置行列)
+TRANSPOSITION	(名詞) transpositionの訳: 互換, ⟪転置|てんち⟫
+TRANSPOSITIONS	(transpositionの変化形) (名詞) transpositionの訳: 互換, ⟪転置|てんち⟫
+TRANSSEXUAL	(形容詞) 性転換の: 人間の性を何らかの事由により別の性へ転換すること。
+TRANSSEXUALS	(transsexualの変化形) (形容詞) 性転換の: 人間の性を何らかの事由により別の性へ転換すること。
+TRAP	(名詞) 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。\n(動詞) 罠にかける。また、罠状のものに捕らえる。また、策略にかける。
+TRAPDOOR	(名詞) trapdoorの訳: せり
+TRAPDOORS	(trapdoorの変化形) (名詞) trapdoorの訳: せり
+TRAPES	(動詞) traipseの廃用。\n(名詞) traipseの廃用。
+TRAPESED	(trapの変化形) (名詞) 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。
+TRAPESES	(trapの変化形) (名詞) 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。
+TRAPESING	(trapの変化形) (名詞) 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。
+TRAPEZIA	(trapeziumの変化形) (名詞) 台形: 一組の対辺が平行である四角形。 (ほかに: 大菱形骨, 梯形)
+TRAPEZIUM	(名詞) 台形: 一組の対辺が平行である四角形。 (ほかに: 大菱形骨, 梯形)
+TRAPEZIUS	(名詞) trapeziusの訳: 僧帽筋
+TRAPEZIUSES	(名詞) trapeziusの複数形: 僧帽筋
+TRAPEZOID	(名詞) 台形: 一組の対辺が平行である四角形。
+TRAPEZOIDS	(名詞) trapezoidの複数形: 台形: 一組の対辺が平行である四角形。
+TRAPPED	(trapの変化形) (名詞) 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。
+TRAPPING	(trapの変化形) (名詞) 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。
+TRAPS	(名詞) trapの複数形: 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。\n(動詞) trapの三人称単数現在形: 罠。動物を捕獲するための装置。また、より一般的に、誰かを捕まえるための策略。
+TRASH	(名詞) ごみ: 不必要になった物、用が済んだ物
+TRASHED	(trashの変化形) (名詞) ごみ: 不必要になった物、用が済んだ物
+TRASHES	(名詞) trashの複数形: ごみ: 不必要になった物、用が済んだ物
+TRASHIER	(形容詞) trashyの比較級: くずの: よいところをとったあとにのこったもの。本体からこぼれおちて不要になったもの。ごみ。 (ほかに: がらくたの)
+TRASHIEST	(形容詞) trashyの最上級: くずの: よいところをとったあとにのこったもの。本体からこぼれおちて不要になったもの。ごみ。 (ほかに: がらくたの)
+TRASHING	(trashの変化形) (名詞) ごみ: 不必要になった物、用が済んだ物
+TRASHY	(形容詞) くずの: よいところをとったあとにのこったもの。本体からこぼれおちて不要になったもの。ごみ。 (ほかに: がらくたの)
+TRAUMA	(名詞) 外傷: 外部から受けた力による身体上の傷。
+TRAUMAS	(名詞) traumaの複数形: 外傷: 外部から受けた力による身体上の傷。
+TRAUMATA	(名詞) traumaの複数形: 外傷: 外部から受けた力による身体上の傷。
+TRAVAIL	(名詞) 骨折り。労苦。\n(動詞) 苦労する: 何かをするのに精神的・肉体的に多くの労力を費やすこと。
+TRAVAILED	(travailの変化形) (名詞) 骨折り。労苦。
+TRAVAILING	(travailの変化形) (名詞) 骨折り。労苦。
+TRAVAILS	(travailの変化形) (名詞) 骨折り。労苦。
+TRAVEL	(名詞) 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)\n(動詞) travelの訳: 旅する, 旅行する
+TRAVELED	(動詞) "travel" の過去形・過去分詞形: 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)\n(形容詞) 旅行者が頻繁に利用する。
+TRAVELER	(名詞) 旅人、旅行者、特に国外を旅するもの。
+TRAVELERS	(名詞) travelerの複数形: 旅人、旅行者、特に国外を旅するもの。
+TRAVELING	(動詞) "travel" の動名詞形又は現在分詞形: 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)
+TRAVELLED	(動詞) "travel" の過去形・過去分詞形: 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)\n(形容詞) 旅行者が頻繁に利用する。
+TRAVELLER	(名詞) 旅人、旅行者、特に国外を旅するもの。
+TRAVELLERS	(名詞) travellerの複数形: 旅人、旅行者、特に国外を旅するもの。
+TRAVELLING	(動詞) "travel" の動名詞形又は現在分詞形: 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)
+TRAVELOGUE	(名詞) travelogueの訳: 紀行
+TRAVELOGUES	(travelogueの変化形) (名詞) travelogueの訳: 紀行
+TRAVELS	(名詞) "travel" の複数形: 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)\n(動詞) "travel" の三人称単数現在形: 旅: （たび）普段居住するところから、遠距離に移動し起居すること、又はそのための移動。 (ほかに: 旅行)
+TRAVERSABLE	(形容詞) traversableの訳: 横断できる
+TRAVERSE	(名詞) traverseの訳: トラバース\n(動詞) 横切る: 一方から他方へ行く。渡る。 (ほかに: 越える, 横断する)
+TRAVERSED	(traverseの変化形) (名詞) traverseの訳: トラバース
+TRAVERSER	(名詞) traverserの訳: 横断者
+TRAVERSERS	(名詞) traverserの複数形: 横断者
+TRAVERSES	(traverseの変化形) (名詞) traverseの訳: トラバース
+TRAVERSING	(traverseの変化形) (名詞) traverseの訳: トラバース
+TRAY	(名詞) 盆: （ボン）平たく浅い、物を載せる道具。 (ほかに: トレイ)\n(動詞) トレイに載せる。
+TRAYS	(名詞) trayの複数形: 盆: （ボン）平たく浅い、物を載せる道具。 (ほかに: トレイ)\n(動詞) trayの直説法現在第三人称単数形: 盆: （ボン）平たく浅い、物を載せる道具。 (ほかに: トレイ)
+TREACHERIES	(名詞) "treachery" の複数形: 期待や信頼に反すること、背信。
+TREACHEROUS	(形容詞) treacherousの訳: 裏切りの, 叛意を示した
+TREACHERY	(名詞) 期待や信頼に反すること、背信。
+TREACLE	(名詞) 糖蜜: 大量の砂糖を溶かして、蜜条になった液体。シロップ。
+TREACLES	(treacleの変化形) (名詞) 糖蜜: 大量の砂糖を溶かして、蜜条になった液体。シロップ。
+TREAD	(動詞) treadの訳: 踏む, 踏み付ける\n(名詞) 足取り: （あしどり）歩行の足付き。
+TREADED	(treadの変化形) (動詞) treadの訳: 踏む, 踏み付ける
+TREADING	(動詞) treadの現在分詞: 踏む, 踏み付ける\n(名詞) 踏むこと、踏み付けること。
+TREADMILL	(名詞) トレッドミル、ランニングマシン。\n(動詞) トレッドミルで運動する。
+TREADMILLS	(名詞) treadmillの複数形: トレッドミル、ランニングマシン。\n(動詞) treadmillの直説法現在第三人称単数形: トレッドミル、ランニングマシン。
+TREADS	(名詞) treadの複数形: 踏む, 踏み付ける\n(動詞) treadの直説法現在第三人称単数形: 踏む, 踏み付ける
+TREASON	(名詞) treasonの訳: 反逆, 謀反
+TREASONS	(名詞) treasonの複数形: 反逆, 謀反
+TREASURE	(名詞) 財宝: 財貨と宝物。宝。 (ほかに: 宝物, 宝)\n(動詞) 重んじる。重視する。珍重する。愛玩する。宝のように扱う。
+TREASURED	(動詞) treasureの過去形・過去分詞: 財宝: 財貨と宝物。宝。 (ほかに: 宝物, 宝)\n(形容詞) 珍重されている、大切にされている、価値のある、好かれている。
+TREASURES	(名詞) treasureの複数形: 財宝: 財貨と宝物。宝。 (ほかに: 宝物, 宝)\n(動詞) treasureの直説法現在第三人称単数形: 財宝: 財貨と宝物。宝。 (ほかに: 宝物, 宝)
+TREASURIES	(treasuryの変化形) (名詞) treasuryの訳: 金庫
+TREASURING	(動詞) treasureの動名詞又は現在分詞: 財宝: 財貨と宝物。宝。 (ほかに: 宝物, 宝)
+TREASURY	(名詞) treasuryの訳: 金庫
+TREAT	(動詞) treatの訳: 扱う\n(名詞) treatの訳: ⟪喜び|よろこび⟫, 楽しみ
+TREATED	(動詞) treatの過去形・過去分詞: 扱う
+TREATIES	(名詞) treatyの複数形: 契約。条約。盟約。協約。協定。約定。交渉。
+TREATING	(動詞) treatの動名詞又は現在分詞: 扱う\n(名詞) 治療: ある物事について知り尽くすこと。詳しく知ること。
+TREATISE	(名詞) 専門書。論文。
+TREATISES	(名詞) treatiseの複数形: 専門書。論文。
+TREATMENT	(名詞) treatmentの訳: 待遇, 扱い
+TREATMENTS	(名詞) treatmentの複数形: 待遇, 扱い
+TREATS	(名詞) treatの複数形: 扱う\n(動詞) treatの直説法現在第三人称単数形: 扱う
+TREATY	(名詞) 契約。条約。盟約。協約。協定。約定。交渉。
+TREBUCHET	(名詞) trebuchetの訳: トレビュシェット, 平衡錘投石機
+TREBUCHETS	(trebuchetの変化形) (名詞) trebuchetの訳: トレビュシェット, 平衡錘投石機
+TRECENTO	(名詞) トレチェント: イタリアで、十四世紀の初期ルネサンスの時代。
+TRECENTOS	(trecentoの変化形) (名詞) トレチェント: イタリアで、十四世紀の初期ルネサンスの時代。
+TREE	(名詞) 木: （訓読み き）多年生植物の一種。樹木。 (ほかに: 樹木)\n(動詞) 木に追い上げる。
+TREED	(treeの変化形) (名詞) 木: （訓読み き）多年生植物の一種。樹木。 (ほかに: 樹木)
+TREEING	(動詞) treeの現在分詞: 木: （訓読み き）多年生植物の一種。樹木。 (ほかに: 樹木)
+TREES	(名詞) treeの複数形: 木: （訓読み き）多年生植物の一種。樹木。 (ほかに: 樹木)\n(動詞) treeの直説法現在第三人称単数形: 木: （訓読み き）多年生植物の一種。樹木。 (ほかに: 樹木)
+TREETOP	(名詞) treetopの訳: 末梢
+TREETOPS	(treetopの変化形) (名詞) treetopの訳: 末梢
+TREFOIL	(名詞) 車軸草: マメ科シャジクソウ属のこと。学名は Trifolium 。
+TREFOILS	(trefoilの変化形) (名詞) 車軸草: マメ科シャジクソウ属のこと。学名は Trifolium 。
+TREMBLE	(動詞) trembleの訳: ⟪震える|ふるえる⟫, 戦慄が走る\n(名詞) trembleの訳: 震え, 戦慄
+TREMBLED	(動詞) "tremble" の過去形・過去分詞形: ⟪震える|ふるえる⟫, 戦慄が走る
+TREMBLER	(名詞) tremblerの訳: 震える人・物
+TREMBLERS	(名詞) tremblerの複数形: 震える人・物
+TREMBLES	(名詞) "tremble" の複数形: ⟪震える|ふるえる⟫, 戦慄が走る\n(動詞) "tremble" の現在第三人称単数形。
+TREMBLING	(名詞) 震え: （ふるえ）震えること。\n(動詞) trembleの動名詞又は現在分詞: ⟪震える|ふるえる⟫, 戦慄が走る
+TREMOR	(名詞) 身震い: （みぶるい）恐怖や寒さにより体が震えること。
+TREMORS	(tremorの変化形) (名詞) 身震い: （みぶるい）恐怖や寒さにより体が震えること。
+TREMULOUS	(形容詞) 震える。慄く。戦慄く。
+TREMULOUSLY	(副詞) 震えて。慄いて。
+TRENCH	(名詞) 溝。堀。\n(動詞) trenchの訳: 侵害する
+TRENCHANT	(形容詞) trenchantの訳: 手厳しい, 辛辣な, 痛烈な
+TRENCHED	(動詞) trenchの過去形・過去分詞: 溝。堀。
+TRENCHES	(名詞) trenchの複数形: 溝。堀。\n(動詞) trenchの直説法現在第三人称単数形: 溝。堀。
+TRENCHING	(動詞) trenchの現在分詞: 溝。堀。
+TREND	(名詞) トレンド。傾向。趨勢。動向。\n(動詞) （事態などが）向く。〜の傾向を示す。
+TRENDED	(動詞) trendの過去形・過去分詞: トレンド。傾向。趨勢。動向。
+TRENDIER	(形容詞) trendyの比較級: 流行の先端をいく。粋な。
+TRENDIEST	(形容詞) trendyの最上級: 流行の先端をいく。粋な。
+TRENDING	(trendの変化形) (名詞) トレンド。傾向。趨勢。動向。
+TRENDS	(名詞) trendの複数形: トレンド。傾向。趨勢。動向。\n(動詞) trendの直説法現在第三人称単数形: トレンド。傾向。趨勢。動向。
+TRENDY	(形容詞) 流行の先端をいく。粋な。\n(名詞) trendyの訳: 流行を追う人
+TREPIDATION	(名詞) trepidationの訳: 戦慄
+TREPIDATIONS	(trepidationの変化形) (名詞) trepidationの訳: 戦慄
+TRESPASS	(名詞) 罪: （つみ）法に反する行為。\n(動詞) trespassの訳: 侵害する, 罪を犯す
+TRESPASSED	(動詞) "trespass" の過去形・過去分詞: 罪: （つみ）法に反する行為。
+TRESPASSES	(名詞) "trespass" の複数形: 罪: （つみ）法に反する行為。\n(動詞) "trespass" の現在第三人称単数形。
+TRESPASSING	(動詞) "trespass" の動名詞又は現在分詞: 罪: （つみ）法に反する行為。\n(名詞) trespassingの訳: 不法侵入
+TRESSURE	(名詞) （紋章）トレッシャー：シールド又は紋章旗の端の近くにある細い縁取り。二重が通例。二重のトレッシャーは a double tressure と記述される。
+TRESSURES	(名詞) tressure の複数形: （紋章）トレッシャー：シールド又は紋章旗の端の近くにある細い縁取り。二重が通例。二重のトレッシャーは a double tressure と記述される。
+TRESTLE	(名詞) 架台: 橋梁や高架などを支える台。
+TRESTLES	(名詞) trestleの複数形: 架台。
+TRIAGE	(名詞) triageの訳: ⟪選別|せんべつ⟫\n(動詞) トリアージ方式で順序を決定する。
+TRIAGES	(名詞) triageの複数形: ⟪選別|せんべつ⟫\n(動詞) triageの直説法現在第三人称単数形: ⟪選別|せんべつ⟫
+TRIAL	(名詞) 試行: 試しに行うこと。例:試行錯誤 (ほかに: 試験)\n(形容詞) trialの訳: 試験の
+TRIALS	(名詞) "trial" の複数形: 試行: 試しに行うこと。例:試行錯誤 (ほかに: 試験)\n(動詞) "trial" の現在第三人称単数形。
+TRIANGLE	(名詞) トライアングル: 三角形に曲げられた鋼鉄の棒を、金属の撥で打ち鳴らす打楽器。三角鉄。 (ほかに: 三角形, 三角)
+TRIANGLES	(名詞) "triangle" の複数形: トライアングル: 三角形に曲げられた鋼鉄の棒を、金属の撥で打ち鳴らす打楽器。三角鉄。 (ほかに: 三角形, 三角)
+TRIANGULAR	(形容詞) 三角・三角形を成した。
+TRIANGULARLY	(副詞) 三角形を成して。
+TRIANGULATE	(動詞) ～を三角にする。
+TRIANGULATED	(動詞) triangulateの過去形・過去分詞: ～を三角にする。
+TRIANGULATES	(動詞) triangulateの直説法現在第三人称単数形: ～を三角にする。
+TRIANGULATING	(動詞) triangulateの動名詞又は現在分詞: ～を三角にする。
+TRIANGULATION	(名詞) 三角形にすること。
+TRIANGULATIONS	(名詞) triangulationの複数形: 三角形にすること。
+TRIBAL	(形容詞) 部族の: 特定の地域に居住している、あるいは共通する言語や習俗などの文化を有する、いわゆる未開とされる民族の集団。 (ほかに: 種族の)
+TRIBALLY	(tribalの変化形) (形容詞) 部族の: 特定の地域に居住している、あるいは共通する言語や習俗などの文化を有する、いわゆる未開とされる民族の集団。 (ほかに: 種族の)
+TRIBE	(名詞) 部族: 特定の地域に居住している、あるいは共通する言語や習俗などの文化を有する、いわゆる未開とされる民族の集団。 (ほかに: 種族)
+TRIBES	(名詞) tribeの複数形: 部族: 特定の地域に居住している、あるいは共通する言語や習俗などの文化を有する、いわゆる未開とされる民族の集団。 (ほかに: 種族)
+TRIBULATION	(名詞) 辛苦: 辛く苦しいこと。 (ほかに: 試練)
+TRIBULATIONS	(名詞) tribulationの複数形: 辛苦: 辛く苦しいこと。 (ほかに: 試練)
+TRIBUNAL	(名詞) 裁判所。法廷。
+TRIBUNALS	(名詞) tribunalの複数形: 裁判所。法廷。
+TRIBUNESHIP	(名詞) tribuneshipの訳: 護民官の職
+TRIBUNESHIPS	(名詞) tribuneshipの複数形: 護民官の職
+TRIBUTARIES	(tributaryの変化形) (名詞) 支流: 本流に流れ込む川。
+TRIBUTARY	(名詞) 支流: 本流に流れ込む川。
+TRIBUTE	(名詞) tributeの訳: 尊敬の印, 賛辞, 謝辞\n(動詞) tributeの訳: 貢物を納める
+TRIBUTES	(名詞) tributeの複数形: 尊敬の印, 賛辞, 謝辞\n(動詞) tributeの直説法現在第三人称単数形: 尊敬の印, 賛辞, 謝辞
+TRICEPS	(名詞) 三頭筋: 下腿三頭筋。
+TRICEPSES	(名詞) tricepsの複数形: 三頭筋: 下腿三頭筋。
+TRICERATOPS	(名詞) triceratopsの訳: トリケラトプス
+TRICERATOPSES	(triceratopsの変化形) (名詞) triceratopsの訳: トリケラトプス
+TRICK	(形容詞) trickの訳: 気取った, いきな\n(名詞) trickの訳: 奸詐, 姦詐, 企み, 欺き
+TRICKED	(trickの変化形) (形容詞) trickの訳: 気取った, いきな
+TRICKER	(名詞) trickerの訳: 悪戯者\n(形容詞) trickの比較級: 気取った, いきな
+TRICKERIES	(名詞) trickeryの複数形: 計略, ⟪策略|さくりゃく⟫
+TRICKERS	(名詞) tricker の複数形: 悪戯者
+TRICKERY	(名詞) trickeryの訳: 計略, ⟪策略|さくりゃく⟫
+TRICKING	(trickの変化形) (形容詞) trickの訳: 気取った, いきな
+TRICKLE	(名詞) trickleの訳: 細い流れ\n(動詞) 少しずつ流れる。
+TRICKLED	(動詞) trickleの過去形・過去分詞: 細い流れ
+TRICKLES	(名詞) trickleの複数形: 細い流れ\n(動詞) trickleの直説法現在第三人称単数形: 細い流れ
+TRICKLING	(動詞) trickleの動名詞又は現在分詞: 細い流れ\n(名詞) 少しずつ流れること。
+TRICKLY	(trickの変化形) (形容詞) trickの訳: 気取った, いきな
+TRICKS	(trickの変化形) (形容詞) trickの訳: 気取った, いきな
+TRIDIMENSIONAL	(形容詞) 三次元の: 空間の次元が三であること。長さ・幅・高さのように三つの方向を持つ広がり。 (ほかに: 立体の)
+TRIED	(形容詞) triedの訳: 試験済みの\n(動詞) tryの過去形・過去分詞: ～しようとする。試みる。努める。努力する。がんばる。
+TRIENNIAL	(形容詞) 三年毎の。三年に一回の。
+TRIENNIALS	(triennialの変化形) (形容詞) 三年毎の。三年に一回の。
+TRIER	(名詞) trierの訳: 努力家
+TRIERS	(名詞) trierの複数形: 努力家
+TRIES	(名詞) "try" の複数形: ～しようとする。試みる。努める。努力する。がんばる。\n(動詞) "try" の三人称単数現在形: ～しようとする。試みる。努める。努力する。がんばる。
+TRIFLE	(名詞) trifleの訳: トライフル\n(動詞) trifleの訳: 粗末に扱う
+TRIFLED	(動詞) trifleの過去形・過去分詞: トライフル
+TRIFLES	(名詞) trifleの複数形: トライフル\n(動詞) trifleの直説法現在第三人称単数形: トライフル
+TRIFLING	(形容詞) 瑣末な、些細な、僅かな、取るに足らない、つまらない、くだらない、軽薄な。\n(名詞) くだらない行為。
+TRIFLINGS	(名詞) triflingの複数形: 瑣末な、些細な、僅かな、取るに足らない、つまらない、くだらない、軽薄な。
+TRIGGER	(名詞) ひきがね: 銃の点火装置の一部。指で引くと嚙み合いが外れ、撃茎発条の作用により撃茎が銃弾の薬莢の尾部を撃ち、火薬に点火する。トリガー。
+TRIGGERED	(triggerの変化形) (名詞) ひきがね: 銃の点火装置の一部。指で引くと嚙み合いが外れ、撃茎発条の作用により撃茎が銃弾の薬莢の尾部を撃ち、火薬に点火する。トリガー。
+TRIGGERING	(triggerの変化形) (名詞) ひきがね: 銃の点火装置の一部。指で引くと嚙み合いが外れ、撃茎発条の作用により撃茎が銃弾の薬莢の尾部を撃ち、火薬に点火する。トリガー。
+TRIGGERS	(triggerの変化形) (名詞) ひきがね: 銃の点火装置の一部。指で引くと嚙み合いが外れ、撃茎発条の作用により撃茎が銃弾の薬莢の尾部を撃ち、火薬に点火する。トリガー。
+TRIGON	(名詞) 三角形: 同一直線上にない3つの点と、その各2つの点をそれぞれ両端とする3つの線分からなる図形。3つの頂点と3つの辺をもつ。記号△。
+TRIGONOMETRIC	(形容詞) 三角法の: 三角関数の性質やその応用を研究する幾何学。
+TRIGONOMETRIES	(名詞) trigonometryの複数形: 三角法: 三角関数の性質やその応用を研究する幾何学。
+TRIGONOMETRY	(名詞) 三角法: 三角関数の性質やその応用を研究する幾何学。
+TRIGONS	(trigonの変化形) (名詞) 三角形: 同一直線上にない3つの点と、その各2つの点をそれぞれ両端とする3つの線分からなる図形。3つの頂点と3つの辺をもつ。記号△。
+TRIKE	(名詞) 三輪車: 車輪が三つ付いた（三輪の）車両。\n(動詞) 三輪車で旅行する
+TRIKES	(名詞) "trike" の複数形: 三輪車: 車輪が三つ付いた（三輪の）車両。\n(動詞) "trike" の現在第三人称単数形。
+TRILINGUAL	(形容詞) 3つの言語を使用する。\n(名詞) 3つの言語を理解し、使用できる人。トリリンガル。
+TRILINGUALLY	(trilingualの変化形) (形容詞) 3つの言語を使用する。
+TRILITERAL	(形容詞) 三子音からなる。\n(名詞) triliteralの訳: 三子音の語
+TRILITERALS	(名詞) triliteralの複数形: 三子音からなる。
+TRILLION	(数詞) trillionの訳: 一兆\n(形容詞) trillionの訳: 一兆の
+TRILLIONS	(trillionの変化形) (数詞) trillionの訳: 一兆
+TRILOBITE	(名詞) trilobiteの訳: 三葉虫
+TRILOBITES	(trilobiteの変化形) (名詞) trilobiteの訳: 三葉虫
+TRIM	(動詞) trimの訳: 刈り込む, 整える\n(名詞) trimの訳: 装飾, ⟪飾り付け|かざりつけ⟫
+TRIMMED	(trimの変化形) (動詞) trimの訳: 刈り込む, 整える
+TRIMMER	(trimの変化形) (動詞) trimの訳: 刈り込む, 整える
+TRIMMERS	(trimの変化形) (動詞) trimの訳: 刈り込む, 整える
+TRIMMEST	(形容詞) trimの最上級: 刈り込む, 整える
+TRIMMING	(名詞) trimmingの訳: 刈り込むこと, 整えること\n(動詞) trimの現在分詞: 刈り込む, 整える
+TRIMMINGS	(名詞) trimmingsの訳: 付け合わせ
+TRIMS	(名詞) trimの複数形: 刈り込む, 整える\n(動詞) trimの直説法現在第三人称単数形: 刈り込む, 整える
+TRINITIES	(名詞) trinityの複数形: 三つが一つであること。三合一。三位一体。
+TRINITY	(名詞) 三つが一つであること。三合一。三位一体。
+TRIP	(名詞) 旅行: 住んでいる場所を離れて他の土地を遊覧すること。旅をすること。\n(動詞) つまずく。転ぶ。
+TRIPLE	(名詞) 三倍。三重。\n(形容詞) 三倍の。三重の。
+TRIPLED	(動詞) tripleの過去形・過去分詞: 三倍。三重。
+TRIPLES	(名詞) "triple" の複数形: 三倍。三重。\n(動詞) "triple" の現在第三人称単数形。
+TRIPLET	(名詞) （汎用的）三つ組。三個一組のもの。\n(形容詞) tripletの訳: 三つ子の
+TRIPLETS	(tripletの変化形) (名詞) （汎用的）三つ組。三個一組のもの。
+TRIPLING	(動詞) tripleの動名詞又は現在分詞: 三倍。三重。\n(名詞) 三倍にすること。
+TRIPOD	(名詞) 三脚: 「三脚架」の略。
+TRIPODS	(tripodの変化形) (名詞) 三脚: 「三脚架」の略。
+TRIPPED	(動詞) "trip" の過去形・過去分詞: 旅行: 住んでいる場所を離れて他の土地を遊覧すること。旅をすること。
+TRIPPING	(動詞) "trip" の動名詞又は現在分詞: 旅行: 住んでいる場所を離れて他の土地を遊覧すること。旅をすること。
+TRIPPINGS	(tripの変化形) (名詞) 旅行: 住んでいる場所を離れて他の土地を遊覧すること。旅をすること。
+TRIPS	(名詞) "trip" の複数形: 旅行: 住んでいる場所を離れて他の土地を遊覧すること。旅をすること。\n(動詞) "trip" の現在第三人称単数形。
+TRISACCHARIDE	(名詞) trisaccharideの訳: 三糖
+TRISACCHARIDES	(名詞) trisaccharideの複数形: 三糖
+TRISKAIDEKAPHOBIA	(名詞) triskaidekaphobiaの訳: 13忌避
+TRISKAIDEKAPHOBIAS	(triskaidekaphobiaの変化形) (名詞) triskaidekaphobiaの訳: 13忌避
+TRISTE	(形容詞) tristeの訳: 悲しい\n(名詞) tristeの訳: 家畜品評会
+TRITE	(形容動詞) triteの訳: 陳腐\n(形容詞) triteの訳: ⟪かびくさい⟫
+TRITER	(triteの変化形) (形容動詞) triteの訳: 陳腐
+TRITEST	(triteの変化形) (形容動詞) triteの訳: 陳腐
+TRITICUM	(名詞) コムギ属の植物。
+TRITICUMS	(名詞) triticumの複数形: コムギ属の植物。
+TRITIUM	(名詞) 三重水素。トリチウム。
+TRITIUMS	(名詞) tritiumの複数形: 三重水素。トリチウム。
+TRITON	(名詞) tritonの訳: 三重陽子
+TRITONES	(tritonの変化形) (名詞) tritonの訳: 三重陽子
+TRITONS	(tritonの変化形) (名詞) tritonの訳: 三重陽子
+TRIUMPH	(名詞) 大勝利、個々の戦闘の勝利ではなく戦争の終局的な勝利。\n(動詞) triumphの訳: 大勝利を成す, 偉業を成す
+TRIUMPHANT	(形容詞) triumphantの訳: 凱旋の, 大勝利の, 凱旋した様子
+TRIUMPHED	(動詞) triumphの過去形・過去分詞: 大勝利、個々の戦闘の勝利ではなく戦争の終局的な勝利。
+TRIUMPHING	(動詞) "triumph" の動名詞又は現在分詞: 大勝利、個々の戦闘の勝利ではなく戦争の終局的な勝利。
+TRIUMPHS	(名詞) triumphの複数形: 大勝利、個々の戦闘の勝利ではなく戦争の終局的な勝利。\n(動詞) triumphの現在第三人称単数形。
+TRIUNE	(形容詞) 三位一体の: 三つの物が一つになること。
+TRIUNES	(triuneの変化形) (形容詞) 三位一体の: 三つの物が一つになること。
+TRIVIA	(名詞) 豆知識: ちょっとした知識。
+TRIVIAL	(形容詞) つまらない: くだらない。しょうもない。大したことのない。取るに足らない。 (ほかに: 末梢的な, 些細な)
+TRIVIALIZE	(動詞) 矮小化する。些末化する。実態より小さく見せる。
+TRIVIALIZED	(動詞) trivialize の過去形・過去分詞: 矮小化する。些末化する。実態より小さく見せる。\n(形容詞) 矮小化された。些末にされた。
+TRIVIALIZES	(動詞) trivialize の直説法現在第三人称単数形: 矮小化する。些末化する。実態より小さく見せる。
+TRIVIALIZING	(動詞) trivialize の現在分詞: 矮小化する。些末化する。実態より小さく見せる。
+TRIWEEKLIES	(triweeklyの変化形) (形容詞) 3週間に1回の。
+TRIWEEKLY	(形容詞) 3週間に1回の。\n(副詞) triweeklyの訳: 3週間に1回
+TROD	(treadの変化形) (動詞) treadの訳: 踏む, 踏み付ける
+TRODDEN	(treadの変化形) (動詞) treadの訳: 踏む, 踏み付ける
+TROLL	(名詞) trollの訳: トロール
+TROLLED	(trollの変化形) (名詞) trollの訳: トロール
+TROLLING	(trollの変化形) (名詞) trollの訳: トロール
+TROLLINGS	(trollの変化形) (名詞) trollの訳: トロール
+TROLLS	(trollの変化形) (名詞) trollの訳: トロール
+TROMBONE	(名詞) トロンボーン: 中低音域を担当する金管楽器の一。前方に突き出たU字形のスライドを伸縮させると同時にマウスピースで唇を振動させ、その口の形を変えることで発音し、音を変える。吹奏楽、オーケストラ、ジャズなどで使用される。略記号Tb、Trb。
+TROMBONES	(名詞) tromboneの複数形: トロンボーン:...
+TROMBONIST	(名詞) トロンボーン奏者。
+TROMBONISTS	(名詞) trombonistの複数形: トロンボーン奏者。
+TROOP	(名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+TROOPED	(troopの変化形) (名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+TROOPER	(名詞) 騎兵: 陸軍において1.の他、機動力を生かし偵察や連絡を行う兵科。
+TROOPERS	(trooperの変化形) (名詞) 騎兵: 陸軍において1.の他、機動力を生かし偵察や連絡を行う兵科。
+TROOPING	(troopの変化形) (名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+TROOPS	(名詞) troop（群れ 等）の複数形。
+TROPHIED	(動詞) trophyの過去形・過去分詞: 優勝記念品。トロフィー。\n(形容詞) 戦利品で飾った。
+TROPHIES	(名詞) trophyの複数形: 優勝記念品。トロフィー。\n(動詞) trophyの直説法現在第三人称単数形: 優勝記念品。トロフィー。
+TROPHY	(名詞) 優勝記念品。トロフィー。\n(動詞) trophyの訳: 戦利品で飾る
+TROPHYING	(動詞) trophyの現在分詞: 優勝記念品。トロフィー。
+TROPIC	(名詞) 回帰線: 地球赤道上の南北緯度23度27分の緯線のこと。
+TROPICAL	(形容詞) tropicalの訳: 熱帯の\n(名詞) tropicalの訳: 熱帯植物
+TROPOPAUSE	(名詞) 対流圏界面: 対流圏と成層圏の境界。
+TROPOPAUSES	(tropopauseの変化形) (名詞) 対流圏界面: 対流圏と成層圏の境界。
+TROPOSPHERE	(名詞) 対流圏: 地球の大気圏のうち地表から約10キロメートルから18キロメートルまでの高度の範囲。大気が対流し気象の変化が見られる。
+TROPOSPHERES	(troposphereの変化形) (名詞) 対流圏: 地球の大気圏のうち地表から約10キロメートルから18キロメートルまでの高度の範囲。大気が対流し気象の変化が見られる。
+TROT	(名詞) 早足: （そくほ）速く歩くこと。 (ほかに: 小走り)\n(動詞) trotの訳: 小走りする
+TROTS	(trotの変化形) (名詞) 早足: （そくほ）速く歩くこと。 (ほかに: 小走り)
+TROTTED	(動詞) trotの過去形・過去分詞: 早足: （そくほ）速く歩くこと。 (ほかに: 小走り)
+TROTTING	(形容詞) trottingの訳: 速歩で駆ける\n(名詞) 速歩で駆けること。
+TROUBADOUR	(名詞) 吟遊詩人、トルバドゥール。
+TROUBADOURS	(名詞) troubadourの複数形: 吟遊詩人、トルバドゥール。
+TROUBLE	(名詞) 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。\n(動詞) troubleの訳: 困らせる
+TROUBLED	(形容詞) troubledの訳: 不安な, 困った\n(動詞) troubleの過去形・過去分詞: 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。
+TROUBLEMAKER	(名詞) 面倒を起こす人、トラブルメーカー
+TROUBLEMAKERS	(troublemakerの変化形) (名詞) 面倒を起こす人、トラブルメーカー
+TROUBLES	(名詞) "trouble" の複数形: 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。\n(動詞) "trouble" の三人称単数現在形: 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。
+TROUBLESHOOT	(動詞) 問題の解決策を決定するために分析や診断を行なう。
+TROUBLESHOOTING	(troubleshootの変化形) (動詞) 問題の解決策を決定するために分析や診断を行なう。
+TROUBLESHOOTS	(troubleshootの変化形) (動詞) 問題の解決策を決定するために分析や診断を行なう。
+TROUBLESOME	(形容詞) 厄介な: 手間のかかる様子。 (ほかに: 面倒な)
+TROUBLESOMELY	(troublesomeの変化形) (形容詞) 厄介な: 手間のかかる様子。 (ほかに: 面倒な)
+TROUBLING	(動詞) "trouble" の動名詞形又は現在分詞形: 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。
+TROUSERS	(名詞) trousersの訳: ズボン
+TROUSSEAU	(名詞) trousseauの訳: 嫁入り道具
+TROUSSEAUS	(trousseauの変化形) (名詞) trousseauの訳: 嫁入り道具
+TROUSSEAUX	(trousseauの変化形) (名詞) trousseauの訳: 嫁入り道具
+TROUT	(名詞) サケ科の魚のうち比較的小型のもの。鱒。
+TROUTS	(troutの変化形) (名詞) サケ科の魚のうち比較的小型のもの。鱒。
+TROVE	(名詞) 発見: これまでに見たことのなかったもの、探していたもの、世間に知られていなかったものなどを見付けること。
+TROVES	(troveの変化形) (名詞) 発見: これまでに見たことのなかったもの、探していたもの、世間に知られていなかったものなどを見付けること。
+TRUCK	(名詞) 台車: （鉄道）鉄道車両の車体の重量をレールの上に支える走行装置。車軸・車輪、その他からなる。動力を持つものもある。 (ほかに: 雑品, トラッククレーン)
+TRUCKED	(truckの変化形) (名詞) 台車: （鉄道）鉄道車両の車体の重量をレールの上に支える走行装置。車軸・車輪、その他からなる。動力を持つものもある。 (ほかに: 雑品, トラッククレーン)
+TRUCKING	(truckの変化形) (名詞) 台車: （鉄道）鉄道車両の車体の重量をレールの上に支える走行装置。車軸・車輪、その他からなる。動力を持つものもある。 (ほかに: 雑品, トラッククレーン)
+TRUCKINGS	(truckの変化形) (名詞) 台車: （鉄道）鉄道車両の車体の重量をレールの上に支える走行装置。車軸・車輪、その他からなる。動力を持つものもある。 (ほかに: 雑品, トラッククレーン)
+TRUCKS	(truckの変化形) (名詞) 台車: （鉄道）鉄道車両の車体の重量をレールの上に支える走行装置。車軸・車輪、その他からなる。動力を持つものもある。 (ほかに: 雑品, トラッククレーン)
+TRUE	(形容詞) trueの訳: 本当の\n(副詞) trueの訳: 正確に
+TRUED	(動詞) "true" の過去形・過去分詞: 本当の
+TRUEING	(動詞) "true" の動名詞又は現在分詞: 本当の
+TRUER	(形容詞) "true" の比較級: 本当の\n(名詞) trueする人。
+TRUES	(動詞) "true" の現在第三人称単数形。
+TRUEST	(形容詞) "true" の最上級: 本当の
+TRUFFLE	(名詞) 西洋松露。トリュフ。
+TRUFFLES	(名詞) truffleの複数形: 西洋松露。トリュフ。
+TRUING	(動詞) "true" の動名詞又は現在分詞: 本当の
+TRULY	(副詞) 真実に: 本当に。確かに。 (ほかに: 正確に)
+TRUMP	(名詞) trumpの訳: 切り札\n(動詞) trumpの訳: 切り札を出す
+TRUMPED	(動詞) trumpの過去形・過去分詞: 切り札
+TRUMPET	(名詞) トランペット: 中高音域を担当する金管楽器の一。唇の振動をマウスピースに伝えることで発音し、そのときの口の形と3本のピストンの押し方によって音高を変える。吹奏楽、オーケストラやジャズなどで使用される。略記号Tp、Trp。\n(動詞) (自動詞) 喇叭で知らせる。
+TRUMPETED	(trumpetの変化形) (名詞) トランペット: 中高音域を担当する金管楽器の一。唇の振動をマウスピースに伝えることで発音し、そのときの口の形と3本のピストンの押し方によって音高を変える。吹奏楽、オーケストラやジャズなどで使用される。略記号Tp、Trp。
+TRUMPETER	(名詞) トランペット奏者。トランペッター。喇叭手。
+TRUMPETERS	(名詞) trumpeterの複数形: トランペット奏者。トランペッター。喇叭手。
+TRUMPETING	(trumpetの変化形) (名詞) トランペット: 中高音域を担当する金管楽器の一。唇の振動をマウスピースに伝えることで発音し、そのときの口の形と3本のピストンの押し方によって音高を変える。吹奏楽、オーケストラやジャズなどで使用される。略記号Tp、Trp。
+TRUMPETS	(名詞) trumpetの複数形: トランペット。\n(動詞) trumpet の直説法三人称単数現在形: トランペット。
+TRUMPING	(trumpの変化形) (名詞) trumpの訳: 切り札
+TRUMPS	(trumpの変化形) (名詞) trumpの訳: 切り札
+TRUNCHEON	(名詞) truncheonの訳: 棍棒\n(動詞) truncheonの訳: 警棒で殴る
+TRUNCHEONING	(truncheonの変化形) (名詞) truncheonの訳: 棍棒
+TRUNCHEONS	(truncheonの変化形) (名詞) truncheonの訳: 棍棒
+TRUNK	(名詞) trunkの訳: 幹, 樹幹
+TRUNKS	(名詞) "trunk" の複数形: 幹, 樹幹
+TRUST	(名詞) 信頼。信用。\n(動詞) 信頼する。信用する。当てにする。
+TRUSTED	(動詞) trustの過去形・過去分詞: 信頼。信用。
+TRUSTEE	(名詞) 受託者: 信託法に基づき信託を受けた者。 (ほかに: 保管人)\n(動詞) 〜を受託者の管理に移す。
+TRUSTEED	(動詞) trusteeの過去形・過去分詞: 受託者: 信託法に基づき信託を受けた者。 (ほかに: 保管人)
+TRUSTEEING	(動詞) trusteeの現在分詞: 受託者: 信託法に基づき信託を受けた者。 (ほかに: 保管人)
+TRUSTEES	(名詞) trusteeの複数形: 受託者、保管人。\n(動詞) trusteeの直説法現在第三人称単数形: 受託者: 信託法に基づき信託を受けた者。 (ほかに: 保管人)
+TRUSTING	(動詞) trustの現在分詞: 信頼。信用。
+TRUSTS	(名詞) trustの複数形: 信頼。信用。\n(動詞) trustの直説法現在第三人称単数形: 信頼。信用。
+TRUSTWORTHILY	(trustworthyの変化形) (形容詞) trustworthyの訳: 信用できる
+TRUSTWORTHINESS	(名詞) 信用できること。
+TRUSTWORTHINESSES	(trustworthinessの変化形) (名詞) 信用できること。
+TRUSTWORTHY	(形容詞) trustworthyの訳: 信用できる
+TRUTH	(名詞) 真実: 本当のこと。
+TRUTHFUL	(形容詞) 嘘を言わない。正直な。
+TRUTHFULLY	(副詞) 正直に。誠実に。
+TRUTHFULNESS	(名詞) 正直。真実。
+TRUTHFULNESSES	(truthfulnessの変化形) (名詞) 正直。真実。
+TRUTHS	(名詞) "truth" の複数形: 真実: 本当のこと。
+TRY	(動詞) ～しようとする。試みる。努める。努力する。がんばる。\n(名詞) 努力: 意識して可能な限りの力を出すこと。
+TRYING	(形容詞) 苦しい: （くるしい）つらい、楽でない。 (ほかに: 辛い)\n(動詞) tryの現在分詞: ～しようとする。試みる。努める。努力する。がんばる。
+TRYINGLY	(tryの変化形) (動詞) ～しようとする。試みる。努める。努力する。がんばる。
+TRYST	(名詞) trystの訳: ⟪約束|やくそく⟫\n(動詞) 会う予定を組む。
+TRYSTED	(動詞) trystの過去形・過去分詞: ⟪約束|やくそく⟫
+TRYSTES	(trystの変化形) (名詞) trystの訳: ⟪約束|やくそく⟫
+TRYSTING	(動詞) trystの現在分詞: ⟪約束|やくそく⟫\n(名詞) trystingの訳: デート, ⟪約束|やくそく⟫
+TRYSTS	(名詞) trystの複数形: ⟪約束|やくそく⟫\n(動詞) trystの直説法現在第三人称単数形: ⟪約束|やくそく⟫
+TSAR	(名詞) tsarの訳: ツァーリ
+TSARS	(tsarの変化形) (名詞) tsarの訳: ツァーリ
+TSETSE	(名詞) tsetseの訳: ツェツェバエ
+TSETSES	(名詞) tsetseの複数形: ツェツェバエ。
+TSUNAMI	(名詞) 津波: 地震の発生や海底火山の噴火、隕石の落下などによって起こる、波長の長い波の総称。山津波、風津波、地震津波など。
+TSUNAMIS	(名詞) tsunamiの複数形: 津波: 地震の発生や海底火山の噴火、隕石の落下などによって起こる、波長の長い波の総称。山津波、風津波、地震津波など。
+TUBA	(名詞) tubaの訳: チューバ
+TUBAE	(tubaの変化形) (名詞) tubaの訳: チューバ
+TUBAS	(tubaの変化形) (名詞) tubaの訳: チューバ
+TUBE	(名詞) 管: （くだ）中空になっている棒状のもので、主に流動性のあるものを移動させるために用いる。パイプ、チューブ。\n(動詞) tubeの訳: 管を作る, 管を用いる
+TUBED	(形容詞) 管を取り付けられた。\n(動詞) tubeの過去形・過去分詞: 管: （くだ）中空になっている棒状のもので、主に流動性のあるものを移動させるために用いる。パイプ、チューブ。
+TUBER	(名詞) tuberの訳: 塊茎
+TUBERCLE	(名詞) 結節: 皮膚などにできる豆から胡桃の実ほどの大きさの固まりとなった病変。
+TUBERCLES	(tubercleの変化形) (名詞) 結節: 皮膚などにできる豆から胡桃の実ほどの大きさの固まりとなった病変。
+TUBERCULOSES	(名詞) "tuberculosis" の複数形: 結核: 結核菌により起こる結節のような病変。また、結核菌によって起こる疾患の総称。特に肺結核。
+TUBERCULOSIS	(名詞) 結核: 結核菌により起こる結節のような病変。また、結核菌によって起こる疾患の総称。特に肺結核。
+TUBERS	(名詞) tuberの複数形: 塊茎
+TUBES	(名詞) "tube" の複数形: 管: （くだ）中空になっている棒状のもので、主に流動性のあるものを移動させるために用いる。パイプ、チューブ。\n(動詞) "tube" の現在第三人称単数形。
+TUBING	(動詞) "tube" の動名詞又は現在分詞: 管: （くだ）中空になっている棒状のもので、主に流動性のあるものを移動させるために用いる。パイプ、チューブ。
+TUBINGS	(tubeの変化形) (名詞) 管: （くだ）中空になっている棒状のもので、主に流動性のあるものを移動させるために用いる。パイプ、チューブ。
+TUCK	(動詞) つむ: 指先で挟んで持つ。
+TUCKED	(tuckの変化形) (動詞) つむ: 指先で挟んで持つ。
+TUCKING	(tuckの変化形) (動詞) つむ: 指先で挟んで持つ。
+TUCKS	(tuckの変化形) (動詞) つむ: 指先で挟んで持つ。
+TUFF	(名詞) 凝灰岩: 火山灰が堆積してできた火山砕屑岩の一種。
+TUFFET	(名詞) tuffetの訳: ⟪こやま⟫
+TUFFETS	(tuffetの変化形) (名詞) tuffetの訳: ⟪こやま⟫
+TUFFS	(tuffの変化形) (名詞) 凝灰岩: 火山灰が堆積してできた火山砕屑岩の一種。
+TUFT	(名詞) tuftの訳: ⟪こやま⟫
+TUFTER	(tuftの変化形) (名詞) tuftの訳: ⟪こやま⟫
+TUFTING	(tuftの変化形) (名詞) tuftの訳: ⟪こやま⟫
+TUFTS	(tuftの変化形) (名詞) tuftの訳: ⟪こやま⟫
+TUG	(動詞) tugの訳: 強く引っ張る\n(名詞) 強く引っ張ること。
+TUGBOAT	(名詞) タグボート: 港湾で大型の船舶やいかだなどを押したり引いたりする小型の船舶。 (ほかに: 引き舟)
+TUGBOATS	(名詞) "tugboat" の複数形: タグボート: 港湾で大型の船舶やいかだなどを押したり引いたりする小型の船舶。 (ほかに: 引き舟)
+TUGGED	(動詞) "tug" の過去形・過去分詞形: 強く引っ張る
+TUGGING	(動詞) "tug" の動名詞形又は現在分詞形: 強く引っ張る
+TUGS	(名詞) "tug" の複数形: 強く引っ張る\n(動詞) "tug" の三人称単数現在形: 強く引っ張る
+TUITION	(名詞) 授業料: 損失した費用や受けた社会的制裁などを、世情を学ぶための必要経費のようにたとえたもの。勉強代。
+TUITIONS	(名詞) tuitionの複数形: 授業料: 損失した費用や受けた社会的制裁などを、世情を学ぶための必要経費のようにたとえたもの。勉強代。
+TULIP	(名詞) tulipの訳: チューリップ
+TULIPS	(名詞) "tulip" の複数形: チューリップ
+TUMBLE	(名詞) tumbleの訳: ⟪転倒|てんとう⟫, ⟪落下|らっか⟫, ⟪転落|てんらく⟫, 墜落\n(動詞) 転げまわる: （ころげまわる）転がるようにしてあちこち動き回る。
+TUMBLED	(tumbleの変化形) (名詞) tumbleの訳: ⟪転倒|てんとう⟫, ⟪落下|らっか⟫, ⟪転落|てんらく⟫, 墜落
+TUMBLER	(名詞) tumblerの訳: 曲芸師, 軽業師
+TUMBLERS	(名詞) tumblerの複数形: 曲芸師, 軽業師
+TUMBLES	(tumbleの変化形) (名詞) tumbleの訳: ⟪転倒|てんとう⟫, ⟪落下|らっか⟫, ⟪転落|てんらく⟫, 墜落
+TUMBLEWEED	(名詞) tumbleweedの訳: タンブルウィード
+TUMBLEWEEDS	(tumbleweedの変化形) (名詞) tumbleweedの訳: タンブルウィード
+TUMBLING	(tumbleの変化形) (名詞) tumbleの訳: ⟪転倒|てんとう⟫, ⟪落下|らっか⟫, ⟪転落|てんらく⟫, 墜落
+TUMBLINGS	(tumbleの変化形) (名詞) tumbleの訳: ⟪転倒|てんとう⟫, ⟪落下|らっか⟫, ⟪転落|てんらく⟫, 墜落
+TUMESCENCE	(名詞) tumescenceの訳: ⟪あさだち⟫, 夜間陰茎勃起現象
+TUMESCENCES	(tumescenceの変化形) (名詞) tumescenceの訳: ⟪あさだち⟫, 夜間陰茎勃起現象
+TUMMIES	(tummyの変化形) (名詞) tummyの訳: ⟪ぽんぽん⟫
+TUMMY	(名詞) tummyの訳: ⟪ぽんぽん⟫
+TUMOR	(名詞) 腫瘍: 細胞が生体内の制御に反して過剰に増殖することによってできる組織塊のこと。 (ほかに: はれもの, 腫瘤)
+TUMORS	(tumorの変化形) (名詞) 腫瘍: 細胞が生体内の制御に反して過剰に増殖することによってできる組織塊のこと。 (ほかに: はれもの, 腫瘤)
+TUMOUR	(名詞) tumorの異綴。
+TUMOURS	(名詞) tumourの複数形: tumorの異綴。
+TUMP	(名詞) tumpの訳: ⟪こやま⟫
+TUMPED	(tumpの変化形) (名詞) tumpの訳: ⟪こやま⟫
+TUMPING	(tumpの変化形) (名詞) tumpの訳: ⟪こやま⟫
+TUMPS	(tumpの変化形) (名詞) tumpの訳: ⟪こやま⟫
+TUMULT	(名詞) 騒動。大騒ぎ。
+TUMULTS	(名詞) tumultの複数形: 騒動。大騒ぎ。\n(動詞) tumultの直説法現在第三人称単数形: 騒動。大騒ぎ。
+TUMULTUARY	(形容詞) tumultuaryの訳: ⟪かまびすしい⟫\n(形容動詞) 喧囂: がやがやしているさま。騒がしい。
+TUMULTUOUS	(形容詞) 騒然とした、大騒ぎの。[16世紀中期より]
+TUN	(名詞) 大樽。箍で締められ、中ほどが膨らんだ樽。ワイン樽。
+TUNA	(名詞) まぐろ: スズキ目サバ科マグロ属の魚の総称。
+TUNAS	(tunaの変化形) (名詞) まぐろ: スズキ目サバ科マグロ属の魚の総称。
+TUNDRA	(名詞) ツンドラ: 高緯度地域に広がる、短い夏にコケなどの低温に強い植物が生えるだけの地帯。
+TUNDRAS	(名詞) tundraの複数形: ツンドラ: 高緯度地域に広がる、短い夏にコケなどの低温に強い植物が生えるだけの地帯。
+TUNE	(名詞) tuneの訳: ⟪曲|まがた⟫, ⟪旋律|せんりつ⟫, メロディー\n(動詞) tuneの訳: 調律する
+TUNED	(tuneの変化形) (名詞) tuneの訳: ⟪曲|まがた⟫, ⟪旋律|せんりつ⟫, メロディー
+TUNES	(tuneの変化形) (名詞) tuneの訳: ⟪曲|まがた⟫, ⟪旋律|せんりつ⟫, メロディー
+TUNGSTEN	(名詞) タングステン: 原子番号 74、元素記号 W の金属元素。単体は常温常圧では灰白色の固体。
+TUNGSTENS	(tungstenの変化形) (名詞) タングステン: 原子番号 74、元素記号 W の金属元素。単体は常温常圧では灰白色の固体。
+TUNING	(名詞) 調律: 楽器の音などの調子を調整すること。調音。
+TUNNED	(tunの変化形) (名詞) 大樽。箍で締められ、中ほどが膨らんだ樽。ワイン樽。
+TUNNEL	(名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNELED	(tunnelの変化形) (名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNELER	(tunnelの変化形) (名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNELING	(tunnelの変化形) (名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNELLED	(tunnelの変化形) (名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNELLING	(tunnelの変化形) (名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNELS	(tunnelの変化形) (名詞) トンネル: 隧道。山腹、河底、地下を掘り抜いた通路。
+TUNNIES	(名詞) tunnyの複数形: 鮪: (まぐろ) スズキ目サバ科マグロ属の魚の総称。
+TUNNING	(tunの変化形) (名詞) 大樽。箍で締められ、中ほどが膨らんだ樽。ワイン樽。
+TUNNY	(名詞) 鮪: (まぐろ) スズキ目サバ科マグロ属の魚の総称。
+TUNS	(名詞) tunの複数形: 大樽。箍で締められ、中ほどが膨らんだ樽。ワイン樽。
+TUP	(名詞) tupの訳: 雄羊\n(動詞) tupの訳: 番う
+TUPIK	(名詞) tupiqの異形。
+TUPIKS	(名詞) tupikの複数形: tupiqの異形。
+TUPPED	(動詞) "tup" の過去形・過去分詞: 雄羊
+TUPPING	(動詞) "tup" の動名詞又は現在分詞: 雄羊
+TUPS	(名詞) "tup" の複数形: 雄羊\n(動詞) "tup" の現在第三人称単数形。
+TURBID	(形容詞) turbidの訳: 濁った, 淀んだ, 不透明な
+TURBIDITIES	(名詞) turbidityの複数形: 濁り, 混濁
+TURBIDITY	(名詞) turbidityの訳: 濁り, 混濁
+TURBIDLY	(副詞) turbidlyの訳: 濁って
+TURBIDNESS	(名詞) turbidnessの訳: 濁り, 混濁, 濁度
+TURBIDNESSES	(turbidnessの変化形) (名詞) turbidnessの訳: 濁り, 混濁, 濁度
+TURBINATE	(形容詞) turbinateの訳: 螺旋状の\n(名詞) turbinateの訳: 鼻甲介
+TURBINATED	(動詞) turbinateの過去形・過去分詞: 螺旋状の\n(形容詞) turbinatedの訳: 螺旋状の
+TURBINATES	(名詞) turbinateの複数形: 螺旋状の\n(動詞) turbinateの直説法現在第三人称単数形: 螺旋状の
+TURBINE	(名詞) タービン: 羽根車を回転させ、動力にする原動機。
+TURBINES	(名詞) turbineの複数形: タービン: 羽根車を回転させ、動力にする原動機。
+TURBULENCE	(名詞) turbulenceの訳: 動揺, 騒乱
+TURBULENCES	(名詞) turbulenceの複数形: 動揺, 騒乱
+TURBULENT	(形容詞) turbulentの訳: ⟪荒れ狂う|あれくるう⟫, 乱暴な
+TUREEN	(名詞) tureenの訳: 蓋付きの深皿
+TUREENS	(名詞) tureenの複数形: 蓋付きの深皿
+TURGID	(形容詞) turgidの訳: 膨らんだ, 腫れた
+TURGIDITIES	(turgidityの変化形) (名詞) turgidityの訳: 腫れ
+TURGIDITY	(名詞) turgidityの訳: 腫れ
+TURKEY	(名詞) シチメンチョウ。
+TURKEYS	(turkeyの変化形) (名詞) シチメンチョウ。
+TURMERIC	(名詞) 鬱金: ショウガ目ショウガ科ウコン属に属する多年草。学名: Curcuma longa（シノニム: Curcuma domestica）。
+TURMERICS	(turmericの変化形) (名詞) 鬱金: ショウガ目ショウガ科ウコン属に属する多年草。学名: Curcuma longa（シノニム: Curcuma domestica）。
+TURMOIL	(名詞) turmoilの訳: ⟪騒動|そうどう⟫
+TURMOILED	(turmoilの変化形) (名詞) turmoilの訳: ⟪騒動|そうどう⟫
+TURMOILING	(turmoilの変化形) (名詞) turmoilの訳: ⟪騒動|そうどう⟫
+TURMOILS	(名詞) turmoilの複数形: ⟪騒動|そうどう⟫
+TURN	(動詞) 回す。回転させる。\n(名詞) 回転: 三次元ベクトル解析において、各点の周りでベクトル場が運動の向きを変えようとする傾向を記述する微分ベクトル場のこと。xyz空間ではcurl, mathbf X=rot, mathbf X=∇× mathbf X。
+TURNABOUT	(名詞) turnaboutの訳: 方向転換
+TURNABOUTS	(turnaboutの変化形) (名詞) turnaboutの訳: 方向転換
+TURNAROUND	(名詞) turnaroundの訳: 方向転換
+TURNAROUNDS	(名詞) turnaroundの複数形: 方向転換
+TURNCOAT	(名詞) うらぎりもの: 裏切る者。敵に内通し、見方を陥れる者。
+TURNCOATS	(turncoatの変化形) (名詞) うらぎりもの: 裏切る者。敵に内通し、見方を陥れる者。
+TURNED	(動詞) "turn" の過去形・過去分詞: 回す。回転させる。
+TURNER	(名詞) turnerの訳: 旋盤工, 轆轤師, 挽き物師, 刳り物師
+TURNERS	(turnerの変化形) (名詞) turnerの訳: 旋盤工, 轆轤師, 挽き物師, 刳り物師
+TURNING	(名詞) turningの訳: ⟪曲がり角|まがりかど⟫\n(動詞) turnの現在分詞: 回す。回転させる。
+TURNINGS	(turnの変化形) (動詞) 回す。回転させる。
+TURNIP	(名詞) turnipの訳: カブ, ⟪蕪|かぶら⟫, 蕪菜, 菘
+TURNIPS	(turnipの変化形) (名詞) turnipの訳: カブ, ⟪蕪|かぶら⟫, 蕪菜, 菘
+TURNOVER	(名詞) 収益: ある一定期間の、企業の経営活動などによって、その企業に帰属することとなった経済的価値。企業から離脱した費用との比較によって、損益が計算される。 (ほかに: めだまやき)
+TURNOVERS	(turnoverの変化形) (名詞) 収益: ある一定期間の、企業の経営活動などによって、その企業に帰属することとなった経済的価値。企業から離脱した費用との比較によって、損益が計算される。 (ほかに: めだまやき)
+TURNS	(名詞) "turn" の複数形: 回す。回転させる。\n(動詞) "turn" の現在第三人称単数形。
+TURNTABLE	(名詞) turntableの訳: ターンテーブル
+TURNTABLES	(turntableの変化形) (名詞) turntableの訳: ターンテーブル
+TURQUOIS	(名詞) turquoiseの旧綴り。
+TURQUOISE	(名詞) ターコイズ: （とるこいし）銅、アルミニウム、燐などからなる鉱物。青色、青緑色で宝石に利用される。ターコイズ。 (ほかに: トルコ石)\n(形容詞) トルコ石でできた。
+TURQUOISES	(名詞) turquoiseの複数形: ターコイズ: （とるこいし）銅、アルミニウム、燐などからなる鉱物。青色、青緑色で宝石に利用される。ターコイズ。 (ほかに: トルコ石)
+TURRET	(名詞) turretの訳: 砲塔
+TURRETS	(turretの変化形) (名詞) turretの訳: 砲塔
+TURTLE	(名詞) turtleの訳: 亀, 海亀
+TURTLED	(turtleの変化形) (名詞) turtleの訳: 亀, 海亀
+TURTLES	(turtleの変化形) (名詞) turtleの訳: 亀, 海亀
+TURTLING	(turtleの変化形) (名詞) turtleの訳: 亀, 海亀
+TURTLINGS	(turtleの変化形) (名詞) turtleの訳: 亀, 海亀
+TUSK	(名詞) tuskの訳: きば
+TUSKED	(tuskの変化形) (名詞) tuskの訳: きば
+TUSKING	(tuskの変化形) (名詞) tuskの訳: きば
+TUSKS	(tuskの変化形) (名詞) tuskの訳: きば
+TUTOR	(名詞) tutorの訳: 家庭教師
+TUTORED	(tutorの変化形) (名詞) tutorの訳: 家庭教師
+TUTORING	(tutorの変化形) (名詞) tutorの訳: 家庭教師
+TUTORS	(tutorの変化形) (名詞) tutorの訳: 家庭教師
+TWEET	(動詞) tweetの訳: ⟪つぶやく⟫
+TWEETED	(tweetの変化形) (動詞) tweetの訳: ⟪つぶやく⟫
+TWEETING	(tweetの変化形) (動詞) tweetの訳: ⟪つぶやく⟫
+TWEETS	(tweetの変化形) (動詞) tweetの訳: ⟪つぶやく⟫
+TWELFTH	(形容詞) twelfthの訳: 12番目の\n(名詞) twelfthの訳: 12番目
+TWELFTHS	(twelfthの変化形) (形容詞) twelfthの訳: 12番目の
+TWELVE	(数詞) twelveの訳: ⟪十二|じゅうに⟫\n(形容詞) twelveの訳: 12の
+TWELVES	(twelveの変化形) (数詞) twelveの訳: ⟪十二|じゅうに⟫
+TWENTIES	(名詞) 二十代: 二十歳から二十九歳までの年齢。
+TWENTIETH	(形容詞) twentiethの訳: 第20の, 20番目の\n(名詞) 第20番目の人又は物
+TWENTIETHS	(twentiethの変化形) (形容詞) twentiethの訳: 第20の, 20番目の
+TWENTY	(数詞) twentyの訳: 二十\n(名詞) twentyの訳: 20ドル札
+TWICE	(副詞) 二度: 二回。同じことが繰り返しなされるときの二番目の回。 (ほかに: 二回)
+TWIG	(名詞) twigの訳: 小枝\n(動詞) twigの訳: 気づく, ⟪分かる|わかる⟫
+TWIGGED	(動詞) twigの過去形・過去分詞: 小枝
+TWIGGING	(動詞) twigの動名詞又は現在分詞: 小枝
+TWIGS	(名詞) twigの複数形: 小枝\n(動詞) twigの現在第三人称単数形。
+TWILIGHT	(名詞) twilightの訳: たそがれ時, 夕暮れ\n(形容詞) 薄暗い: 仄かに暗い。 (ほかに: たそがれの, ぼんやりした)
+TWILIGHTS	(twilightの変化形) (名詞) twilightの訳: たそがれ時, 夕暮れ
+TWILL	(名詞) twillの訳: 綾織り
+TWILLED	(twillの変化形) (名詞) twillの訳: 綾織り
+TWILLING	(twillの変化形) (名詞) twillの訳: 綾織り
+TWILLS	(twillの変化形) (名詞) twillの訳: 綾織り
+TWIN	(名詞) twinの訳: 双子のひとり, ⟪片割れ|かたわれ⟫\n(形容詞) twinの訳: 双子の
+TWINBORN	(形容詞) 双生の: 同時に二人の胎児が生まれること。 (ほかに: 双子の)
+TWINE	(名詞) twineの訳: 縒り糸, 縒り紐\n(動詞) twineの訳: 縒り合せる
+TWINED	(動詞) "twine" の過去形・過去分詞: 縒り糸, 縒り紐
+TWINER	(twinの変化形) (名詞) twinの訳: 双子のひとり, ⟪片割れ|かたわれ⟫
+TWINERS	(twinの変化形) (名詞) twinの訳: 双子のひとり, ⟪片割れ|かたわれ⟫
+TWINES	(名詞) "twine" の複数形: 縒り糸, 縒り紐\n(動詞) "twine" の現在第三人称単数形。
+TWINING	(動詞) "twine" の動名詞又は現在分詞: 縒り糸, 縒り紐
+TWINKLE	(動詞) twinkleの訳: ⟪きらめく⟫, ⟪またたく⟫\n(名詞) twinkleの訳: ⟪きらめき⟫, ⟪またたき⟫
+TWINKLED	(動詞) "twinkle" の過去形・過去分詞: ⟪きらめく⟫, ⟪またたく⟫
+TWINKLES	(名詞) "twinkle" の複数形: ⟪きらめく⟫, ⟪またたく⟫\n(動詞) "twinkle" の現在第三人称単数形。
+TWINKLING	(形容詞) twinklingの訳: ⟪きらめく⟫, ⟪瞬く|まばたく⟫, ⟪輝く|かがやく⟫\n(名詞) 瞬き: 目を瞬くこと。瞬き。 (ほかに: きらめき, 輝き)
+TWINKLINGS	(twinkleの変化形) (動詞) twinkleの訳: ⟪きらめく⟫, ⟪またたく⟫
+TWINNED	(動詞) twinの過去形・過去分詞: 双子のひとり, ⟪片割れ|かたわれ⟫\n(形容詞) twinnedの訳: 対になった
+TWINNING	(動詞) "twin" の動名詞又は現在分詞: 双子のひとり, ⟪片割れ|かたわれ⟫
+TWINNINGS	(twinの変化形) (名詞) twinの訳: 双子のひとり, ⟪片割れ|かたわれ⟫
+TWINS	(名詞) "twin" の複数形: 双子のひとり, ⟪片割れ|かたわれ⟫\n(動詞) "twin" の現在第三人称単数形。
+TWIRL	(動詞) twirlの訳: くるくる回る\n(名詞) twirlの訳: 回転, 回すこと
+TWIRLED	(動詞) "twirl" の過去形・過去分詞: くるくる回る
+TWIRLING	(動詞) "twirl" の動名詞又は現在分詞: くるくる回る
+TWIRLS	(名詞) "twirl" の複数形: くるくる回る\n(動詞) "twirl" の現在第三人称単数形。
+TWIST	(動詞) ねじる。ひねる。絞る。ねじって抜く。ねじ込む。回す。回転させる；ねじれる。よじれる。回転しながら進む。\n(名詞) ねじれ。ひねり。ゆがみ。
+TWISTED	(動詞) twistの過去形・過去分詞: ねじる。ひねる。絞る。ねじって抜く。ねじ込む。回す。回転させる；ねじれる。よじれる。回転しながら進む。\n(形容詞) twistedの訳: 捻れた, 歪んだ
+TWISTING	(動詞) "twist" の動名詞形又は現在分詞形: ねじる。ひねる。絞る。ねじって抜く。ねじ込む。回す。回転させる；ねじれる。よじれる。回転しながら進む。
+TWISTINGS	(twistの変化形) (動詞) ねじる。ひねる。絞る。ねじって抜く。ねじ込む。回す。回転させる；ねじれる。よじれる。回転しながら進む。
+TWISTS	(名詞) "twist" の複数形: ねじる。ひねる。絞る。ねじって抜く。ねじ込む。回す。回転させる；ねじれる。よじれる。回転しながら進む。\n(動詞) "twist" の三人称単数現在形: ねじる。ひねる。絞る。ねじって抜く。ねじ込む。回す。回転させる；ねじれる。よじれる。回転しながら進む。
+TWITCH	(動詞) 急に引く。ぐいっと引く。\n(名詞) ぐいっと引っ張ること。
+TWITCHED	(動詞) twitchの過去形・過去分詞: 急に引く。ぐいっと引く。
+TWITCHES	(名詞) "twitch" の複数形: 急に引く。ぐいっと引く。\n(動詞) "twitch" の現在第三人称単数形。
+TWITCHING	(動詞) "twitch" の動名詞又は現在分詞: 急に引く。ぐいっと引く。
+TWITTER	(動詞) twitterの訳: ⟪さえずる⟫\n(名詞) twitterの訳: ⟪さえずり⟫
+TWITTERED	(動詞) twitterの過去形・過去分詞: ⟪さえずる⟫
+TWITTERING	(動詞) twitterの動名詞又は現在分詞: ⟪さえずる⟫\n(名詞) twitteringの訳: さえずること
+TWITTERS	(名詞) twitterの複数形: ⟪さえずる⟫\n(動詞) twitterの現在第三人称単数形。
+TWO	(数詞) twoの訳: 二, ⟪ふたつ⟫\n(形容詞) twoの訳: 2の
+TWOFOLD	(形容詞) twofoldの訳: 二重の, 二倍の\n(副詞) 二重に: 二つのものを重ねること。また二つのものが重なること。また、そのようなもの。 (ほかに: 二倍に)
+TWOFOLDS	(twofoldの変化形) (形容詞) twofoldの訳: 二重の, 二倍の
+TWOS	(twoの変化形) (数詞) twoの訳: 二, ⟪ふたつ⟫
+TWOSOME	(形容詞) 二つの。二人の。\n(名詞) 二つ組。二人組。
+TWOSOMES	(名詞) twosomeの複数形: 二つの。二人の。
+TYCOON	(名詞) 他国に呼ばせた、江戸時代の征夷大将軍の称号。日本国大君。大君。
+TYCOONS	(tycoonの変化形) (名詞) 他国に呼ばせた、江戸時代の征夷大将軍の称号。日本国大君。大君。
+TYING	(名詞) 結合。結束。結紮。\n(動詞) tieの動名詞又は現在分詞: ネクタイ
+TYPE	(名詞) 種: （シュ）種類。領域。性質。 (ほかに: 型, 類型)\n(動詞) タイプライタで打つ、タイプする。
+TYPED	(動詞) "type" の過去形・過去分詞: 種: （シュ）種類。領域。性質。 (ほかに: 型, 類型)
+TYPES	(名詞) "type" の複数形: 種: （シュ）種類。領域。性質。 (ほかに: 型, 類型)\n(動詞) "type" の現在第三人称単数形。
+TYPESETTING	(名詞) typesettingの訳: 植字
+TYPEWRITER	(名詞) タイプライタ: 活字を一文字ずつ紙等に印字することにより書類を作成する機械。
+TYPEWRITERS	(名詞) "typewriter" の複数形: タイプライタ: 活字を一文字ずつ紙等に印字することにより書類を作成する機械。
+TYPHOON	(名詞) タイフーン。台風。
+TYPHOONS	(typhoonの変化形) (名詞) タイフーン。台風。
+TYPHUS	(名詞) チフス: 細菌感染症の一つ。腸チフス・パラチフス・発疹チフスの総称。
+TYPHUSES	(名詞) typhusの複数形: チフス: 細菌感染症の一つ。腸チフス・パラチフス・発疹チフスの総称。
+TYPICAL	(形容詞) typicalの訳: 典型的な, 代表的な
+TYPICALLY	(副詞) 典型的に: 典型としての性質を備えているさま。
+TYPIFIED	(動詞) typifyの過去形・過去分詞: 典型となる
+TYPIFIES	(動詞) typifyの現在第三人称単数形。
+TYPIFY	(動詞) typifyの訳: 典型となる
+TYPIFYING	(動詞) typifyの動名詞又は現在分詞: 典型となる
+TYPING	(動詞) "type" の動名詞又は現在分詞。タイピング: 種: （シュ）種類。領域。性質。 (ほかに: 型, 類型)
+TYPIST	(名詞) タイピスト: タイプライタを使用し、書類を作成することを職務とする人。
+TYPISTS	(名詞) "typist" の複数形: タイピスト: タイプライタを使用し、書類を作成することを職務とする人。
+TYPO	(名詞) typographical errorの略。誤植、タイプミス。
+TYPOS	(typoの変化形) (名詞) typographical errorの略。誤植、タイプミス。
+TYRANNICAL	(形容詞) 暴君的な。専制的な。横暴な。
+TYRANNICALLY	(副詞) 暴君的に。専制的に。横暴に。
+TYRANNIES	(名詞) tyrannyの複数形: 僭主による政治、僭主政治、僭主制。
+TYRANNOSAUR	(名詞) ティラノサウルス
+TYRANNOSAURS	(tyrannosaurの変化形) (名詞) ティラノサウルス
+TYRANNOSAURUS	(名詞) ティラノサウルス
+TYRANNOSAURUSES	(名詞) tyrannosaurusの複数形: ティラノサウルス
+TYRANNY	(名詞) 僭主による政治、僭主政治、僭主制。
+TYRANT	(名詞) 不当な手続きにより就任した君主。\n(形容詞) 暴君の: 治世において、圧政を行うなど、乱暴なふるまいを行った君主。 (ほかに: 暴政の)
+TYRANTS	(名詞) tyrantの複数形: 不当な手続きにより就任した君主。\n(動詞) tyrantの現在第三人称単数形。
+TYRE	(名詞) tyreの訳: ⟪タイヤ|たいや⟫
+TYRED	(tyreの変化形) (名詞) tyreの訳: ⟪タイヤ|たいや⟫
+TYRES	(tyreの変化形) (名詞) tyreの訳: ⟪タイヤ|たいや⟫
+TYRING	(tyreの変化形) (名詞) tyreの訳: ⟪タイヤ|たいや⟫
+TYROSINE	(名詞) チロシン。アミノ酸の一つ。三文字表記 Tyr、一文字表記 Y。
+TYROSINES	(tyrosineの変化形) (名詞) チロシン。アミノ酸の一つ。三文字表記 Tyr、一文字表記 Y。

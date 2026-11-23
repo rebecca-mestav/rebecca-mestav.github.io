@@ -1,0 +1,1578 @@
+LABEL	(名詞) labelの訳: ⟪荷札|にふだ⟫, ラベル, レッテル\n(動詞) labelの訳: ラベルを貼る
+LABELED	(形容詞) labeledの訳: ラベル付きの\n(動詞) labelの過去形・過去分詞: ⟪荷札|にふだ⟫, ラベル, レッテル
+LABELING	(名詞) labelingの訳: ラベル付け\n(動詞) labelの現在分詞: ⟪荷札|にふだ⟫, ラベル, レッテル
+LABELLED	(形容詞) labelledの訳: ラベル付きの\n(動詞) labelの過去形・過去分詞: ⟪荷札|にふだ⟫, ラベル, レッテル
+LABELLER	(labelの変化形) (名詞) labelの訳: ⟪荷札|にふだ⟫, ラベル, レッテル
+LABELLING	(動詞) labelの現在分詞: ⟪荷札|にふだ⟫, ラベル, レッテル\n(名詞) labelingの異形。
+LABELLUM	(名詞) labellumの訳: 唇弁
+LABELS	(名詞) labelの複数形: ⟪荷札|にふだ⟫, ラベル, レッテル\n(動詞) labelの直説法現在第三人称単数形: ⟪荷札|にふだ⟫, ラベル, レッテル
+LABIA	(名詞) labiaの訳: 陰唇
+LABIUM	(名詞) 人体で唇状のもの、特に、女性器の大陰唇及び小陰唇。
+LABOR	(名詞) laborの訳: 労働\n(動詞) 働く: （はたらく）あることを職業とし、活動する。 (ほかに: 労働する)
+LABORATORIES	(名詞) laboratoryの複数形: 研究所: 研究を業務とする組織、又はその組織が通常活動する場所。 (ほかに: 実験室)
+LABORATORY	(名詞) 研究所: 研究を業務とする組織、又はその組織が通常活動する場所。 (ほかに: 実験室)
+LABORED	(動詞) "labor" の過去形・過去分詞形: 労働
+LABORER	(名詞) laborerの訳: 労働者
+LABORERS	(名詞) laborerの複数形: 労働者
+LABORING	(動詞) "labor" の動名詞形又は現在分詞形: 労働
+LABORIOUS	(形容詞) laboriousの訳: 骨の折れる, 労力を要する
+LABORIOUSLY	(副詞) laboriouslyの訳: 苦労して, 難儀して
+LABORIOUSNESS	(名詞) 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。 (ほかに: 困難)
+LABORIOUSNESSES	(laboriousnessの変化形) (名詞) 苦労: 何かをするのに精神的・肉体的に多くの労力を費やすこと。 (ほかに: 困難)
+LABORS	(名詞) "labor" の複数形: 労働\n(動詞) "labor" の三人称単数現在形: 労働
+LABOUR	(名詞) labourの訳: 労働\n(動詞) 働く: （はたらく）精を出して仕事をする。 (ほかに: 労働する)
+LABOURED	(動詞) "labour" の過去形・過去分詞形: 労働
+LABOURER	(名詞) laborerの異綴。
+LABOURERS	(名詞) labourerの複数形: laborerの異綴。
+LABOURING	(動詞) "labour" の動名詞形又は現在分詞形: 労働
+LABOURS	(labourの変化形) (名詞) labourの訳: 労働
+LABYRINTH	(名詞) ラビュリントス。\n(動詞) labyrinthの訳: 迷宮で囲む
+LABYRINTHINE	(形容詞) labyrinthineの訳: 迷路のような
+LABYRINTHS	(名詞) labyrinthの複数形: ラビュリントス。\n(動詞) labyrinthの直説法現在第三人称単数形: ラビュリントス。
+LACE	(名詞) laceの訳: レース\n(動詞) laceの訳: 紐で締める
+LACED	(laceの変化形) (名詞) laceの訳: レース
+LACERATE	(動詞) 切り裂く: 切って裂く。切ってばらばらにする。 (ほかに: 傷付ける)\n(形容詞) lacerateの訳: ぎざぎざの
+LACERATED	(形容詞) laceratedの訳: 切り裂かれた, 傷付いた\n(動詞) lacerateの過去形・過去分詞: 切り裂く: 切って裂く。切ってばらばらにする。 (ほかに: 傷付ける)
+LACERATES	(動詞) lacerateの直説法現在第三人称単数形: 切り裂く: 切って裂く。切ってばらばらにする。 (ほかに: 傷付ける)
+LACERATING	(動詞) lacerateの現在分詞: 切り裂く: 切って裂く。切ってばらばらにする。 (ほかに: 傷付ける)
+LACERATION	(名詞) 裂傷: 皮膚や筋肉などが裂けてできた傷。
+LACERATIONS	(名詞) lacerationの複数形: 裂傷: 皮膚や筋肉などが裂けてできた傷。
+LACES	(laceの変化形) (名詞) laceの訳: レース
+LACHES	(名詞) 懈怠: （かいたい、けたい）怠けること。怠ること。
+LACHRYMAL	(形容詞) 涙の: （なみだする）（サ変動詞）泣く。\n(名詞) lachrymalの訳: 涙壺
+LACHRYMOSE	(形容詞) 涙脆い: （なみだもろい）ちょっとした事でも、泣いて涙を流す様子、又はそのような性質。 (ほかに: 涙を誘う)
+LACHRYMOSELY	(lachrymoseの変化形) (形容詞) 涙脆い: （なみだもろい）ちょっとした事でも、泣いて涙を流す様子、又はそのような性質。 (ほかに: 涙を誘う)
+LACIER	(形容詞) lacyの比較級: レースをあしらった。
+LACIEST	(形容詞) lacyの最上級: レースをあしらった。
+LACING	(laceの変化形) (名詞) laceの訳: レース
+LACINGS	(laceの変化形) (名詞) laceの訳: レース
+LACK	(名詞) 不足: 足りないこと。\n(動詞) lackの訳: ～を欠いて
+LACKADAISICAL	(形容詞) 意欲のない。無関心の。
+LACKED	(動詞) "lack" の過去形・過去分詞形: 不足: 足りないこと。
+LACKING	(形容詞) lackingの訳: 不足して\n(動詞) lackの現在分詞: 不足。
+LACKLUSTER	(形容詞) lacklusterの訳: 精彩のない, パッとしない, 冴えない\n(名詞) lacklusterの訳: 活気のなさ, つやの欠如
+LACKLUSTERS	(lacklusterの変化形) (形容詞) lacklusterの訳: 精彩のない, パッとしない, 冴えない
+LACKS	(動詞) "lack" の三人称単数現在形: 不足: 足りないこと。
+LACONIC	(形容詞) 簡潔: 短く簡単で、要点を捉えている様子。
+LACQUERWARE	(名詞) 漆器: 漆を塗って作られた器。
+LACQUERWARES	(名詞) lacquerwareの複数形: 漆器: 漆を塗って作られた器。
+LACRIMAL	(形容詞) lachrymalの異綴\n(名詞) lachrymalの異綴
+LACRIMATION	(名詞) 落涙: 涙を落とすこと。涙を流すこと。 (ほかに: 流涙)
+LACRIMATIONS	(名詞) lacrimationの複数形: 落涙: 涙を落とすこと。涙を流すこと。 (ほかに: 流涙)
+LACROSSE	(名詞) ラクロス: スポーツ、球技の一つ。一チーム10人ずつのチームがクロスと呼ばれる網のついたスティックでボールを奪い合いながら競技し、敵陣のゴールにいれることで得点をし、最終的な得点を競う競技。
+LACROSSES	(lacrosseの変化形) (名詞) ラクロス: スポーツ、球技の一つ。一チーム10人ずつのチームがクロスと呼ばれる網のついたスティックでボールを奪い合いながら競技し、敵陣のゴールにいれることで得点をし、最終的な得点を競う競技。
+LACTATE	(動詞) lactateの訳: 乳を分泌する\n(名詞) lactateの訳: 乳酸塩
+LACTATED	(動詞) lactateの過去形・過去分詞: 乳を分泌する
+LACTATES	(名詞) lactateの複数形: 乳を分泌する\n(動詞) lactateの直説法現在第三人称単数形: 乳を分泌する
+LACTATING	(動詞) lactateの現在分詞: 乳を分泌する
+LACTATION	(名詞) lactationの訳: 乳の分泌
+LACTATIONS	(名詞) lactationの複数形: 乳の分泌
+LACTIC	(形容詞) 乳の: （ちち）動物の分泌物の一つ。哺乳類の雌から分泌され、子によって飲用される。
+LACTOSE	(名詞) ラクトース: 乳糖。 (ほかに: 乳糖)
+LACTOSES	(名詞) lactoseの複数形: ラクトース: 乳糖。 (ほかに: 乳糖)
+LACY	(形容詞) レースをあしらった。
+LAD	(名詞) 少年: 男の子。男児。
+LADDER	(名詞) ladderの訳: ⟪梯子|はしご⟫\n(動詞) ladderの訳: 梯子状にする
+LADDERED	(形容詞) ladderedの訳: 伝線した\n(動詞) ladderの過去形・過去分詞: ⟪梯子|はしご⟫
+LADDERING	(ladderの変化形) (名詞) ladderの訳: ⟪梯子|はしご⟫
+LADDERS	(名詞) ladderの複数形: ⟪梯子|はしご⟫\n(動詞) ladderの直説法現在第三人称単数形: ⟪梯子|はしご⟫
+LADE	(動詞) 荷を積む。満たす。
+LADED	(ladeの変化形) (動詞) 荷を積む。満たす。
+LADER	(ladの変化形) (名詞) 少年: 男の子。男児。
+LADES	(ladeの変化形) (動詞) 荷を積む。満たす。
+LADIES	(名詞) "lady" の複数形: 淑女: 女性に対する丁寧な呼び名。 (ほかに: 貴婦人)
+LADING	(ladeの変化形) (動詞) 荷を積む。満たす。
+LADINGS	(ladeの変化形) (動詞) 荷を積む。満たす。
+LADLE	(名詞) おたま。杓。\n(動詞) ladleの訳: 掬う
+LADLED	(動詞) ladleの過去形・過去分詞: おたま。杓。
+LADLER	(ladleの変化形) (名詞) おたま。杓。
+LADLES	(名詞) ladleの複数形: おたま。杓。\n(動詞) ladleの直説法現在第三人称単数形: おたま。杓。
+LADLING	(動詞) ladleの現在分詞: おたま。杓。
+LADS	(ladの変化形) (名詞) 少年: 男の子。男児。
+LADY	(名詞) 淑女: 女性に対する丁寧な呼び名。 (ほかに: 貴婦人)
+LADYBIRD	(名詞) ladybirdの訳: ⟪てんとうむし⟫
+LADYBIRDS	(ladybirdの変化形) (名詞) ladybirdの訳: ⟪てんとうむし⟫
+LADYBUG	(名詞) ladybugの訳: ⟪てんとうむし⟫
+LADYBUGS	(名詞) ladybugの複数形: ⟪てんとうむし⟫
+LAGOMORPH	(名詞) lagomorphの訳: 兎形類
+LAGOMORPHS	(lagomorphの変化形) (名詞) lagomorphの訳: 兎形類
+LAGOON	(名詞) 小さな沼、潟。潟湖。礁湖。
+LAGOONS	(名詞) lagoonの複数形: 小さな沼、潟。潟湖。礁湖。
+LAID	(動詞) layの過去形・過去分詞: ～を横たえる。
+LAIN	(動詞) lieの過去分詞: 横たわる。横になる。寝そべる。寝転がる。
+LAKE	(名詞) 湖: （みずうみ） 陸地に囲まれた水域のうち、巨大なもの。
+LAKED	(lakeの変化形) (名詞) 湖: （みずうみ） 陸地に囲まれた水域のうち、巨大なもの。
+LAKEFRONT	(名詞) lakefrontの訳: 湖畔, 湖辺
+LAKEFRONTS	(lakefrontの変化形) (名詞) lakefrontの訳: 湖畔, 湖辺
+LAKES	(lakeの変化形) (名詞) 湖: （みずうみ） 陸地に囲まれた水域のうち、巨大なもの。
+LAKESIDE	(名詞) 湖畔: 湖の辺。 (ほかに: 湖辺)
+LAKESIDES	(lakesideの変化形) (名詞) 湖畔: 湖の辺。 (ほかに: 湖辺)
+LAKING	(lakeの変化形) (名詞) 湖: （みずうみ） 陸地に囲まれた水域のうち、巨大なもの。
+LAMA	(名詞) lamaの訳: ラマ
+LAMAS	(名詞) lamaの複数形: ラマ
+LAMB	(名詞) 子羊: （こひつじ）羊の子供。小さい羊。\n(動詞) lambの訳: 子羊を産む
+LAMBDA	(名詞) ギリシア文字の第11字、λ（ラムダ）。
+LAMBDAS	(lambdaの変化形) (名詞) ギリシア文字の第11字、λ（ラムダ）。
+LAMBED	(動詞) lambの過去形: 子羊: （こひつじ）羊の子供。小さい羊。
+LAMBER	(lambの変化形) (名詞) 子羊: （こひつじ）羊の子供。小さい羊。
+LAMBERT	(名詞) ランバート: (物理)輝度の単位(CGS単位系)。記号 L。
+LAMBERTS	(lambertの変化形) (名詞) ランバート: (物理)輝度の単位(CGS単位系)。記号 L。
+LAMBING	(動詞) lambの現在分詞形: 子羊: （こひつじ）羊の子供。小さい羊。
+LAMBS	(名詞) lambの複数形: 子羊: （こひつじ）羊の子供。小さい羊。\n(動詞) lambの三人称単数現在形: 子羊: （こひつじ）羊の子供。小さい羊。
+LAME	(形容詞) lameの訳: 足の不自由な\n(動詞) 足を不自由にする。
+LAMED	(lameの変化形) (形容詞) lameの訳: 足の不自由な
+LAMENESS	(名詞) 足の不自由なこと。
+LAMENESSES	(名詞) lamenessの複数形: 足の不自由なこと。
+LAMENT	(名詞) 悲嘆: 悲しみ嘆くこと。\n(動詞) lamentの訳: 嘆く, ⟪悲しむ|かなしむ⟫
+LAMENTABLE	(形容詞) 悲しい: かなしい 参照 (ほかに: 悲嘆した, 嘆かわしい)
+LAMENTATION	(名詞) 嘆き: （なげき）深く悲しみ沈むこと。その様子。 (ほかに: 悲嘆, 哀悼)
+LAMENTATIONS	(名詞) lamentationの複数形: 嘆き: （なげき）深く悲しみ沈むこと。その様子。 (ほかに: 悲嘆, 哀悼)
+LAMENTED	(動詞) lamentの過去形・過去分詞: 悲嘆: 悲しみ嘆くこと。\n(形容詞) lamentedの訳: 嘆かわしい, 哀悼される
+LAMENTEDLY	(lamentの変化形) (名詞) 悲嘆: 悲しみ嘆くこと。
+LAMENTER	(名詞) lamenterの訳: 嘆く人, 悲しむ人
+LAMENTERS	(名詞) lamenterの複数形: 嘆く人, 悲しむ人
+LAMENTING	(動詞) lamentの動名詞又は現在分詞: 悲嘆: 悲しみ嘆くこと。\n(名詞) 嘆き: （なげき）深く悲しみ沈むこと。その様子。 (ほかに: 悲嘆, 哀悼)
+LAMENTS	(動詞) lamentの直説法現在第三人称単数形: 悲嘆: 悲しみ嘆くこと。\n(名詞) lamentの複数形: 悲嘆: 悲しみ嘆くこと。
+LAMER	(lameの変化形) (形容詞) lameの訳: 足の不自由な
+LAMES	(名詞) lameの複数形: 足の不自由な\n(動詞) lameの三人称単数現在形: 足の不自由な
+LAMEST	(lameの変化形) (形容詞) lameの訳: 足の不自由な
+LAMINA	(名詞) 薄板。薄膜。薄層。
+LAMINAE	(名詞) laminaの複数形: 薄板。薄膜。薄層。
+LAMINAR	(形容詞) laminarの訳: 層流の
+LAMINARIA	(名詞) laminariaの訳: コンブ
+LAMINARIAS	(名詞) laminariaの複数形: コンブ
+LAMINAS	(名詞) laminaの複数形: 薄板。薄膜。薄層。
+LAMINATE	(動詞) 薄板を重ねて～を作る。\n(名詞) 薄板を重ねたもの。合板。
+LAMINATED	(形容詞) laminatedの訳: 薄板状の\n(動詞) laminateの過去形・過去分詞: 薄板を重ねて～を作る。
+LAMINATES	(名詞) laminateの複数形: 薄板を重ねて～を作る。\n(動詞) laminateの直説法現在第三人称単数形: 薄板を重ねて～を作る。
+LAMINATING	(動詞) laminateの現在分詞: 薄板を重ねて～を作る。
+LAMING	(lameの変化形) (形容詞) lameの訳: 足の不自由な
+LAMMERGEIER	(名詞) lammergeierの訳: ヒゲワシ
+LAMMERGEIERS	(名詞) lammergeierの複数形: ヒゲワシ
+LAMMERGEYER	(名詞) lammergeierの異綴
+LAMMERGEYERS	(名詞) lammergeyerの複数形: lammergeierの異綴
+LAMP	(名詞) ランプ: (lamp)電灯。 (ほかに: 照明器具, 灯火)\n(動詞) 打つ。強打する。
+LAMPBLACK	(名詞) ランプブラック、油煙。\n(動詞) 油煙で黒くする。
+LAMPBLACKS	(名詞) lampblackの複数形: ランプブラック、油煙。\n(動詞) lampblackの直説法現在第三人称単数形: ランプブラック、油煙。
+LAMPED	(動詞) lampの過去形・過去分詞: ランプ: (lamp)電灯。 (ほかに: 照明器具, 灯火)
+LAMPERS	(名詞) lampasの異綴。
+LAMPERSES	(lampersの変化形) (名詞) lampasの異綴。
+LAMPING	(名詞) lampingの訳: ランピング
+LAMPOON	(名詞) lampoonの訳: 風刺文\n(動詞) 痛烈に風刺する。
+LAMPOONED	(動詞) lampoonの過去形・過去分詞: 風刺文
+LAMPOONING	(動詞) lampoonの現在分詞: 風刺文\n(名詞) 風刺。皮肉。
+LAMPOONS	(名詞) lampoonの複数形: 風刺文\n(動詞) lampoonの直説法現在第三人称単数形: 風刺文
+LAMPS	(名詞) lampの複数形: ランプ: (lamp)電灯。 (ほかに: 照明器具, 灯火)\n(動詞) lampの直説法現在第三人称単数形: ランプ: (lamp)電灯。 (ほかに: 照明器具, 灯火)
+LANCE	(名詞) 槍: （やり）長い棒の先端に、尖らせた刃をつけた武器。 (ほかに: 簎)
+LANCED	(lanceの変化形) (名詞) 槍: （やり）長い棒の先端に、尖らせた刃をつけた武器。 (ほかに: 簎)
+LANCELET	(名詞) lanceletの訳: 蛞蝓魚, ナメクジウオ
+LANCELETS	(lanceletの変化形) (名詞) lanceletの訳: 蛞蝓魚, ナメクジウオ
+LANCER	(名詞) 槍騎兵: 槍で武装した騎兵。
+LANCES	(名詞) lanceの複数形: 槍: （やり）長い棒の先端に、尖らせた刃をつけた武器。 (ほかに: 簎)\n(動詞) lanceの直説法現在第三人称単数形: 槍: （やり）長い棒の先端に、尖らせた刃をつけた武器。 (ほかに: 簎)
+LANCING	(lanceの変化形) (名詞) 槍: （やり）長い棒の先端に、尖らせた刃をつけた武器。 (ほかに: 簎)
+LAND	(名詞) 陸。陸地。土地。\n(動詞) 上陸する。着陸する。着地する。
+LANDED	(動詞) landの過去形・過去分詞形: 陸。陸地。土地。
+LANDING	(動詞) land の現在分詞: 陸。陸地。土地。\n(名詞) 上陸、着陸、着水。
+LANDINGS	(名詞) landing の複数形: land の現在分詞: 陸。陸地。土地。
+LANDLADIES	(名詞) landladyの複数形: 女主人
+LANDLADY	(名詞) landladyの訳: 女主人
+LANDLINE	(名詞) landlineの訳: 固定電話
+LANDLINES	(名詞) landlineの複数形: 固定電話
+LANDLOCKED	(形容詞) 陸地で囲まれた、内陸国の、港を持たない。
+LANDLORD	(名詞) landlordの訳: ⟪主人|しゅじん⟫
+LANDLORDS	(名詞) landlordの複数形: ⟪主人|しゅじん⟫
+LANDMARK	(名詞) 目印となるもの。
+LANDMARKS	(landmarkの変化形) (名詞) 目印となるもの。
+LANDS	(名詞) "land" の複数形: 陸。陸地。土地。\n(動詞) "land" の三人称単数現在形: 陸。陸地。土地。
+LANDSCAPE	(名詞) 風景: 自然の眺め。\n(動詞) landscapeの訳: 緑化する
+LANDSCAPED	(動詞) landscapeの過去形・過去分詞: 風景: 自然の眺め。
+LANDSCAPES	(名詞) landscapeの複数形: 風景: 自然の眺め。\n(動詞) landscapeの直説法現在第三人称単数形: 風景: 自然の眺め。
+LANDSCAPING	(名詞) 造園: 園庭や公園などを造ること。\n(動詞) landscapeの動名詞又は現在分詞: 風景: 自然の眺め。
+LANDSLIDE	(名詞) landslideの訳: ⟪地滑り|じすべり⟫
+LANDSLIDES	(名詞) landslideの複数形: ⟪地滑り|じすべり⟫
+LANDSLIDING	(landslideの変化形) (名詞) landslideの訳: ⟪地滑り|じすべり⟫
+LANE	(名詞) laneの訳: 〜通り
+LANELY	(laneの変化形) (名詞) laneの訳: 〜通り
+LANES	(laneの変化形) (名詞) laneの訳: 〜通り
+LANGUAGE	(名詞) 言語: ある特定の集団が用いる、音や文字による事態の伝達手段。個別言語。 (ほかに: 国語)
+LANGUAGES	(名詞) "language" の複数形: 言語: ある特定の集団が用いる、音や文字による事態の伝達手段。個別言語。 (ほかに: 国語)
+LANTERN	(名詞) ランタン: 照明器具の一つで、ガラスなどの風防を備えたもの。特に、石油ランプにガラスの風防を備え、携行できるものをいう、角灯。 (ほかに: 角灯)\n(動詞) ランタンを備え付ける。
+LANTERNS	(名詞) lanternの複数形: ランタン: 照明器具の一つで、ガラスなどの風防を備えたもの。特に、石油ランプにガラスの風防を備え、携行できるものをいう、角灯。 (ほかに: 角灯)\n(動詞) lanternの直説法現在第三人称単数形: ランタン: 照明器具の一つで、ガラスなどの風防を備えたもの。特に、石油ランプにガラスの風防を備え、携行できるものをいう、角灯。 (ほかに: 角灯)
+LANTHANIDE	(名詞) ランタノイドからランタンを除いた、セリウムからルテチウムまでの十四の元素。ランタンを含めていうこともある。
+LANTHANIDES	(lanthanideの変化形) (名詞) ランタノイドからランタンを除いた、セリウムからルテチウムまでの十四の元素。ランタンを含めていうこともある。
+LANTHANUM	(名詞) ランタン: 原子番号 57、元素記号 La の金属元素。ランタノイド。ランタナム。単体は常温常圧では銀白色の固体。
+LANTHANUMS	(lanthanumの変化形) (名詞) ランタン: 原子番号 57、元素記号 La の金属元素。ランタノイド。ランタナム。単体は常温常圧では銀白色の固体。
+LAP	(名詞) 垂れ下がった部分、裾、縁。\n(動詞) lapの訳: 大切に育てる
+LAPPED	(動詞) lapの過去形・過去分詞: 垂れ下がった部分、裾、縁。\n(形容詞) lappedの訳: 周回遅れの
+LAPPING	(lapの変化形) (名詞) 垂れ下がった部分、裾、縁。
+LAPS	(lapの変化形) (名詞) 垂れ下がった部分、裾、縁。
+LAPSE	(名詞) 過失: 不注意からの失敗。 (ほかに: 誤り, 過ち)\n(動詞) 〜の状態に徐徐に陥る。
+LAPSED	(lapseの変化形) (名詞) 過失: 不注意からの失敗。 (ほかに: 誤り, 過ち)
+LAPSER	(lapseの変化形) (名詞) 過失: 不注意からの失敗。 (ほかに: 誤り, 過ち)
+LAPSES	(lapseの変化形) (名詞) 過失: 不注意からの失敗。 (ほかに: 誤り, 過ち)
+LAPSING	(lapseの変化形) (名詞) 過失: 不注意からの失敗。 (ほかに: 誤り, 過ち)
+LAPTOP	(名詞) ノートパソコン: モニターやキーボード、トラックパッドなどを備えた折り畳みと持ち運びが可能なパソコン。
+LAPTOPS	(laptopの変化形) (名詞) ノートパソコン: モニターやキーボード、トラックパッドなどを備えた折り畳みと持ち運びが可能なパソコン。
+LAPWING	(名詞) (Vanellinae) チドリ科ケリ亜科の鳥の総称。
+LAPWINGS	(名詞) lapwingの複数形: (Vanellinae) チドリ科ケリ亜科の鳥の総称。
+LARBOARD	(名詞) 左舷: 船舶の後ろから前に向かって左側のふなべり。
+LARBOARDS	(larboardの変化形) (名詞) 左舷: 船舶の後ろから前に向かって左側のふなべり。
+LARCENIES	(名詞) larcenyの複数形: 窃盗: 他人が所在を管理している財物を、ひそかに盗むこと。
+LARCENY	(名詞) 窃盗: 他人が所在を管理している財物を、ひそかに盗むこと。
+LARCH	(名詞) larchの訳: ⟪からまつ⟫
+LARCHES	(larchの変化形) (名詞) larchの訳: ⟪からまつ⟫
+LARD	(名詞) 豚脂: 豚の脂肪を精製したもの。ラード。 (ほかに: ラード)\n(動詞) ラードやベーコンを挟む。
+LARDED	(lardの変化形) (名詞) 豚脂: 豚の脂肪を精製したもの。ラード。 (ほかに: ラード)
+LARDING	(lardの変化形) (名詞) 豚脂: 豚の脂肪を精製したもの。ラード。 (ほかに: ラード)
+LARDS	(名詞) lardの複数形: 豚脂: 豚の脂肪を精製したもの。ラード。 (ほかに: ラード)\n(動詞) lardの直説法現在第三人称単数形: 豚脂: 豚の脂肪を精製したもの。ラード。 (ほかに: ラード)
+LARGE	(形容詞) 大きい: （おおきい）数量や規模が、一定の基準を超えている。
+LARGELY	(副詞) largelyの訳: 大きく
+LARGER	(形容詞) "large" の比較級: 大きい: （おおきい）数量や規模が、一定の基準を超えている。
+LARGES	(largeの変化形) (形容詞) 大きい: （おおきい）数量や規模が、一定の基準を超えている。
+LARGEST	(形容詞) "large" の最上級: 大きい: （おおきい）数量や規模が、一定の基準を超えている。
+LARK	(名詞) larkの訳: ⟪ヒバリ|ひばり⟫\n(動詞) ヒバリを捕まえる。
+LARKED	(動詞) larkの過去形・過去分詞: ⟪ヒバリ|ひばり⟫
+LARKING	(larkの変化形) (名詞) larkの訳: ⟪ヒバリ|ひばり⟫
+LARKS	(動詞) larkの直説法現在第三人称単数形: ⟪ヒバリ|ひばり⟫\n(名詞) larkの複数形: ⟪ヒバリ|ひばり⟫
+LARVA	(名詞) larvaの訳: 幼虫
+LARVAE	(larvaの変化形) (名詞) larvaの訳: 幼虫
+LARVAS	(larvaの変化形) (名詞) larvaの訳: 幼虫
+LARYNGES	(larynxの変化形) (名詞) larynxの訳: 喉頭
+LARYNX	(名詞) larynxの訳: 喉頭
+LARYNXES	(larynxの変化形) (名詞) larynxの訳: 喉頭
+LASCIVIOUS	(形容詞) 好色な: 色事を好むこと。また、そのさま。色好み。 (ほかに: 淫らな, 煽情的な)
+LASCIVIOUSLY	(副詞) 淫らに。猥褻に。
+LASCIVIOUSNESS	(名詞) 好色。猥褻さ。
+LASCIVIOUSNESSES	(lasciviousnessの変化形) (名詞) 好色。猥褻さ。
+LASER	(名詞) レーザー: 特定の波長の光を強める発振増幅装置、またはその光線。
+LASERS	(laserの変化形) (名詞) レーザー: 特定の波長の光を強める発振増幅装置、またはその光線。
+LASH	(名詞) lashの訳: 鞭の先\n(動詞) lashの訳: 鞭で打つ
+LASHED	(動詞) lashの過去形・過去分詞: 鞭の先
+LASHES	(名詞) lashの複数形: 鞭の先\n(動詞) lashの直説法現在第三人称単数形: 鞭の先
+LASHING	(名詞) lashingの訳: 縛ること, 固縛\n(動詞) lashの現在分詞: 鞭の先
+LASHINGS	(名詞) lashingの複数形: 縛ること, 固縛
+LASSITUDE	(名詞) lassitudeの訳: 疲労
+LASSITUDES	(lassitudeの変化形) (名詞) lassitudeの訳: 疲労
+LAST	(形容詞) lastの訳: 終わりの, 最後の\n(副詞) lastの訳: 全ての後に, 終末に
+LASTED	(動詞) "last" の過去形・過去分詞形: 終わりの, 最後の
+LASTER	(lastの変化形) (形容詞) lastの訳: 終わりの, 最後の
+LASTERS	(lastの変化形) (形容詞) lastの訳: 終わりの, 最後の
+LASTING	(形容詞) 永続する。長続きする。\n(動詞) "last" の動名詞又は現在分詞: 終わりの, 最後の
+LASTINGS	(名詞) lastingの複数形: 永続する。長続きする。
+LASTLY	(副詞) 最後に: 最も後。物事の終わり。 (ほかに: 終りに)
+LASTS	(名詞) "last" の複数形: 終わりの, 最後の\n(動詞) "last" の三人称単数現在形: 終わりの, 最後の
+LAT	(名詞) latの訳: ラッツ
+LATCH	(動詞) 掛け金を掛ける。\n(名詞) latchの訳: 掛け金, ラッチ
+LATCHED	(動詞) latchの過去形・過去分詞: 掛け金を掛ける。
+LATCHES	(名詞) latchの複数形: 掛け金を掛ける。\n(動詞) latchの直説法現在第三人称単数形: 掛け金を掛ける。
+LATCHING	(動詞) latchの現在分詞: 掛け金を掛ける。\n(形容詞) 掛け金を掛ける。
+LATE	(形容詞) 遅い: （遅い、晩い）時間や時期、順序などがある基準より後である。\n(副詞) 遅れて。遅く。間に合わずに。
+LATECOMER	(名詞) latecomerの訳: 遅刻者
+LATECOMERS	(latecomerの変化形) (名詞) latecomerの訳: 遅刻者
+LATELY	(副詞) 最近: 現在から近い過去までの期間のこと。状況によってその幅は変化する。このごろ。ちかごろ。
+LATENCIES	(latencyの変化形) (名詞) 表面に出ていないこと。隠れて存在すること。潜在。
+LATENCY	(名詞) 表面に出ていないこと。隠れて存在すること。潜在。
+LATENT	(形容詞) 表に出ていない、潜んでいる、隠れている、潜在的な。
+LATENTS	(latentの変化形) (形容詞) 表に出ていない、潜んでいる、隠れている、潜在的な。
+LATER	(副詞) （lateの比較級）より晩く。より後に。\n(形容詞) laterの訳: より晩い
+LATERAL	(名詞) lateralの訳: 側方\n(形容詞) lateralの訳: 横
+LATERALED	(lateralの変化形) (名詞) lateralの訳: 側方
+LATERALING	(lateralの変化形) (名詞) lateralの訳: 側方
+LATERALS	(lateralの変化形) (名詞) lateralの訳: 側方
+LATEST	(形容詞) "late" の最上級形: 遅い: （遅い、晩い）時間や時期、順序などがある基準より後である。\n(副詞) "late" の最上級形: 遅い: （遅い、晩い）時間や時期、順序などがある基準より後である。
+LATESTS	(latestの変化形) (形容詞) "late" の最上級形。
+LATHE	(名詞) 旋盤: 加工する物を主軸に固定し回転させ、むらなく切削するのに用いる機械。 (ほかに: 轆轤)
+LATHES	(latheの変化形) (名詞) 旋盤: 加工する物を主軸に固定し回転させ、むらなく切削するのに用いる機械。 (ほかに: 轆轤)
+LATI	(latの変化形) (名詞) latの訳: ラッツ
+LATITUDE	(名詞) 緯度。（略: lat.）
+LATITUDES	(名詞) latitudeの複数形: 緯度。（略: lat.）
+LATITUDINAL	(形容詞) 緯度の: ある地点に地球の中心から伸ばした線と赤道面がなす角により、地球上の位置を表す方法。
+LATITUDINALLY	(latitudinalの変化形) (形容詞) 緯度の: ある地点に地球の中心から伸ばした線と赤道面がなす角により、地球上の位置を表す方法。
+LATRINE	(名詞) latrineの訳: 簡易トイレ
+LATRINES	(名詞) latrineの複数形: 簡易トイレ
+LATTER	(形容詞) (the latter)後者の。（代名詞的に）後者。
+LATTICE	(名詞) latticeの訳: 格子
+LATTICES	(latticeの変化形) (名詞) latticeの訳: 格子
+LAUD	(名詞) 賞賛: 褒め、讃えること。
+LAUDED	(laudの変化形) (名詞) 賞賛: 褒め、讃えること。
+LAUDING	(laudの変化形) (名詞) 賞賛: 褒め、讃えること。
+LAUDS	(laudの変化形) (名詞) 賞賛: 褒め、讃えること。
+LAUGH	(動詞) 笑う。嘲笑する。\n(名詞) 笑い: （わらい）（「嗤い」とも）あざけること。嘲笑。冷笑。
+LAUGHED	(動詞) laughの過去形・過去分詞: 笑う。嘲笑する。
+LAUGHING	(名詞) 笑い: （わらい）（「嗤い」とも）あざけること。嘲笑。冷笑。\n(動詞) laughの動名詞又は現在分詞: 笑う。嘲笑する。
+LAUGHINGS	(名詞) laughingの複数形: 笑い: （わらい）（「嗤い」とも）あざけること。嘲笑。冷笑。
+LAUGHS	(動詞) laughの直説法第三人称単数形: 笑う。嘲笑する。\n(名詞) laughの複数形: 笑う。嘲笑する。
+LAUGHTER	(名詞) 笑い: （わらい）（「嗤い」とも）あざけること。嘲笑。冷笑。
+LAUGHTERS	(laughterの変化形) (名詞) 笑い: （わらい）（「嗤い」とも）あざけること。嘲笑。冷笑。
+LAUNCH	(動詞) 進水する。水に浮かべる。水面に降ろす。\n(名詞) 進水。進水台。
+LAUNCHED	(動詞) launchの過去形・過去分詞: 進水する。水に浮かべる。水面に降ろす。
+LAUNCHES	(名詞) launchの複数形: 進水する。水に浮かべる。水面に降ろす。\n(動詞) launchの直説法現在第三人称単数形: 進水する。水に浮かべる。水面に降ろす。
+LAUNCHING	(動詞) "launch" の動名詞形又は現在分詞形: 進水する。水に浮かべる。水面に降ろす。
+LAUNDER	(名詞) launderの訳: 洗濯女\n(動詞) 洗濯する。ひのしや圧搾ローラーでしわを伸ばす。洗濯してアイロンをかける。
+LAUNDERED	(動詞) launderの過去形・過去分詞: 洗濯女
+LAUNDERER	(名詞) 洗濯屋: 依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。
+LAUNDERERS	(名詞) "launderer" の複数形: 洗濯屋: 依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。
+LAUNDERING	(動詞) launderの動名詞又は現在分詞: 洗濯女\n(名詞) 洗浄。洗濯。
+LAUNDERS	(名詞) "launder" の複数形: 洗濯女\n(動詞) "launder" の現在第三人称単数形。
+LAUNDRESS	(名詞) laundressの訳: 洗濯女\n(動詞) (廃語)洗濯女として働く。
+LAUNDRESSES	(名詞) "laundress" の複数形: 洗濯女\n(動詞) "laundress" の現在第三人称単数形。
+LAUNDRIES	(名詞) "laundry" の複数形: 洗濯場
+LAUNDRY	(名詞) laundryの訳: 洗濯場
+LAUNDRYMAN	(名詞) 洗濯屋: 依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。
+LAUNDRYMEN	(laundrymanの変化形) (名詞) 洗濯屋: 依頼を受けたものを洗濯することを業とする者。また、その店舗。クリーニング店。
+LAUREL	(名詞) laurelの訳: 栄誉, 月桂樹
+LAURELING	(laurelの変化形) (名詞) laurelの訳: 栄誉, 月桂樹
+LAURELLING	(laurelの変化形) (名詞) laurelの訳: 栄誉, 月桂樹
+LAURELS	(名詞) laurelsの訳: 栄冠
+LAVA	(名詞) 溶岩: マグマが地上に吹き出たもの。また、マグマが冷えて固まった岩石。ラバ。
+LAVAGE	(名詞) 洗浄: 心身を洗い清めること。\n(動詞) lavageの訳: 洗浄する
+LAVAGES	(名詞) lavageの複数形: 洗浄: 心身を洗い清めること。\n(動詞) lavageの直説法現在第三人称単数形: 洗浄: 心身を洗い清めること。
+LAVAS	(名詞) lavaの複数形: 溶岩: マグマが地上に吹き出たもの。また、マグマが冷えて固まった岩石。ラバ。
+LAVATORIES	(lavatoryの変化形) (名詞) 洗い場。特に、手足や顔など、体を洗う場所。
+LAVATORY	(名詞) 洗い場。特に、手足や顔など、体を洗う場所。
+LAVE	(動詞) laveの訳: 洗う
+LAVED	(動詞) laveの過去形・過去分詞: 洗う
+LAVENDER	(名詞) lavenderの訳: ラベンダー\n(形容詞) 藤色の、ラベンダー色の。
+LAVENDERED	(形容詞) ラベンダーの香りの付いた。\n(動詞) lavenderの過去形・過去分詞: ラベンダー
+LAVENDERING	(動詞) lavenderの動名詞又は現在分詞: ラベンダー
+LAVENDERS	(名詞) lavenderの複数形: ラベンダー\n(動詞) lavenderの現在第三人称単数形。
+LAVER	(名詞) （乾燥させた）アマノリ。アサクサノリ。
+LAVERS	(名詞) laverの複数形: （乾燥させた）アマノリ。アサクサノリ。
+LAVES	(動詞) "lave" の三人称単数現在形: 洗う
+LAVING	(動詞) laveの動名詞又は現在分詞: 洗う\n(名詞) lavingの訳: 洗濯
+LAVISH	(形容詞) 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 惜しみない, 浪費の)\n(動詞) ～を浪費する、大盤振る舞いする。
+LAVISHED	(動詞) lavishの過去形・過去分詞: 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 惜しみない, 浪費の)
+LAVISHER	(形容詞) "lavish" の比較級: 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 惜しみない, 浪費の)\n(名詞) lavishする人。
+LAVISHERS	(名詞) "lavisher" の複数形: "lavish" の比較級: 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 惜しみない, 浪費の)
+LAVISHES	(動詞) "lavish" の現在第三人称単数形。
+LAVISHEST	(形容詞) "lavish" の最上級: 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 惜しみない, 浪費の)
+LAVISHING	(動詞) "lavish" の動名詞又は現在分詞: 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 惜しみない, 浪費の)
+LAVISHLY	(副詞) lavishlyの訳: 気前良く
+LAVISHNESS	(名詞) lavishnessの訳: 気前良さ, 豪華さ
+LAVISHNESSES	(名詞) "lavishness" の複数形: 気前良さ, 豪華さ
+LAW	(名詞) 法律: 国会の議決を経て制定される法の一形式。 (ほかに: 法)\n(動詞) 訴訟をおこす。提訴する。起訴する。
+LAWED	(動詞) lawの過去形・過去分詞: 法律: 国会の議決を経て制定される法の一形式。 (ほかに: 法)
+LAWFUL	(形容詞) 合法の。法律で認められた。
+LAWING	(動詞) "law" の動名詞形又は現在分詞形: 法律: 国会の議決を経て制定される法の一形式。 (ほかに: 法)
+LAWINGS	(lawingの変化形) (動詞) "law" の動名詞形又は現在分詞形。
+LAWMAKER	(名詞) 立法者: 法令を制定する者。
+LAWMAKERS	(名詞) lawmakerの複数形: 立法者: 法令を制定する者。
+LAWMAKING	(名詞) 立法: 国家の統治作用のうち、法律を定めること。
+LAWMAKINGS	(名詞) lawmakingの複数形: 立法: 国家の統治作用のうち、法律を定めること。
+LAWN	(名詞) lawnの訳: 芝生, 芝地
+LAWNS	(名詞) lawnの複数形: 芝生, 芝地
+LAWRENCIUM	(名詞) ローレンシウム。
+LAWRENCIUMS	(lawrenciumの変化形) (名詞) ローレンシウム。
+LAWS	(名詞) "law" の複数形: 法律: 国会の議決を経て制定される法の一形式。 (ほかに: 法)\n(動詞) "law" の三人称単数現在形: 法律: 国会の議決を経て制定される法の一形式。 (ほかに: 法)
+LAWSUIT	(名詞) 訴訟: 裁判所に法律の適用によって原告・被告間の権利義務や法律関係を確定するため訴えること。
+LAWSUITS	(名詞) lawsuitの複数形: 訴訟: 裁判所に法律の適用によって原告・被告間の権利義務や法律関係を確定するため訴えること。
+LAWYER	(名詞) 弁護士。法律家。\n(動詞) 弁護士を立てる。
+LAWYERED	(動詞) lawyerの過去形・過去分詞: 弁護士。法律家。
+LAWYERING	(名詞) lawyeringの訳: 弁護士業\n(動詞) lawyerの現在分詞: 弁護士。法律家。
+LAWYERLY	(形容詞) 弁護士のような。法律家のような。
+LAWYERS	(名詞) lawyerの複数形: 弁護士。法律家。\n(動詞) lawyerの直説法現在第三人称単数形: 弁護士。法律家。
+LAX	(形容詞) 緩い: （ゆるい）規則・規制などが厳しくない。 (ほかに: 緩んだ)
+LAXATIVE	(形容詞) laxativeの訳: 下剤の, 通じを促す\n(名詞) laxativeの訳: ⟪下剤|げざい⟫, 下薬
+LAXATIVES	(名詞) laxativeの複数形: 下剤の, 通じを促す
+LAXER	(形容詞) "lax" の比較級: 緩い: （ゆるい）規則・規制などが厳しくない。 (ほかに: 緩んだ)
+LAXEST	(形容詞) "lax" の最上級: 緩い: （ゆるい）規則・規制などが厳しくない。 (ほかに: 緩んだ)
+LAXITIES	(名詞) laxityの複数形: 緩いこと。緩み。弛緩。
+LAXITY	(名詞) 緩いこと。緩み。弛緩。
+LAXNESS	(名詞) 怠惰。曖昧。
+LAXNESSES	(名詞) laxnessの複数形: 怠惰。曖昧。
+LAY	(動詞) layの訳: ～を横たえる\n(名詞) layの訳: ⟪状態|じょうたい⟫
+LAYED	(layの変化形) (動詞) layの訳: ～を横たえる
+LAYER	(名詞) 層: （ソウ）重なり。\n(動詞) layerの訳: 層にする
+LAYERED	(layerの変化形) (名詞) 層: （ソウ）重なり。
+LAYERING	(layerの変化形) (名詞) 層: （ソウ）重なり。
+LAYERINGS	(layerの変化形) (名詞) 層: （ソウ）重なり。
+LAYERS	(名詞) layerの複数形: 層: （ソウ）重なり。\n(動詞) layerの直説法現在第三人称単数形: 層: （ソウ）重なり。
+LAYING	(動詞) "lay" の動名詞形又は現在分詞形: ～を横たえる
+LAYMAN	(名詞) 俗人: 仏道や聖道を悟らない人。 (ほかに: 平信徒)
+LAYMEN	(名詞) laymanの複数形: 俗人: 仏道や聖道を悟らない人。 (ほかに: 平信徒)
+LAYS	(名詞) "lay" の複数形: ～を横たえる\n(動詞) "lay" の三人称単数現在形: ～を横たえる
+LAZIED	(動詞) lazyの過去形・過去分詞: 怠惰な, 無精な
+LAZIER	(形容詞) lazyの比較級: 怠惰な, 無精な
+LAZIES	(動詞) lazyの直説法現在第三人称単数形: 怠惰な, 無精な
+LAZIEST	(形容詞) lazyの最上級: 怠惰な, 無精な
+LAZINESS	(名詞) 怠惰。無精。
+LAZINESSES	(名詞) lazinessの複数形: 怠惰。無精。
+LAZY	(形容詞) lazyの訳: 怠惰な, 無精な\n(動詞) lazyの訳: 怠ける, ⟪のんびりする|のんびり⟫
+LAZYING	(動詞) lazyの現在分詞: 怠惰な, 無精な
+LEA	(名詞) leaの訳: 草地, ⟪牧草地|ぼくそうち⟫
+LEAD	(名詞) leadの訳: ⟪鉛|なまり⟫\n(動詞) leadの訳: 案内する, 道案内する, 導く, 連れて行く
+LEADED	(leadの変化形) (名詞) leadの訳: ⟪鉛|なまり⟫
+LEADEN	(形容詞) leadenの訳: 鉛の
+LEADENLY	(leadenの変化形) (形容詞) leadenの訳: 鉛の
+LEADER	(名詞) リーダー: 指導者、先導者。
+LEADERS	(名詞) leaderの複数形: リーダー: 指導者、先導者。
+LEADERSHIP	(名詞) リーダーシップ
+LEADERSHIPS	(leadershipの変化形) (名詞) リーダーシップ
+LEADING	(動詞) leadの現在分詞: 鉛。\n(形容詞) leadingの訳: 主役の
+LEADINGS	(leadの変化形) (名詞) leadの訳: ⟪鉛|なまり⟫
+LEADS	(名詞) "lead" の複数形: ⟪鉛|なまり⟫\n(動詞) "lead" の三人称単数現在形: ⟪鉛|なまり⟫
+LEADWORT	(名詞) leadwortの訳: ルリマツリ
+LEADWORTS	(名詞) leadwortの複数形: ルリマツリ
+LEAF	(名詞) 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。\n(動詞) leafの訳: 葉を出す
+LEAFAGE	(名詞) 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。
+LEAFAGES	(leafageの変化形) (名詞) 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。
+LEAFED	(動詞) "leaf" の過去形・過去分詞形: 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。
+LEAFIER	(形容詞) "leafy" の比較級形: 葉の多い, 葉の茂った
+LEAFIEST	(形容詞) "leafy" の最上級形: 葉の多い, 葉の茂った
+LEAFING	(動詞) "leaf" の動名詞形又は現在分詞形: 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。
+LEAFLESS	(形容詞) leaflessの訳: 葉のない
+LEAFS	(動詞) "leaf" の三人称単数現在形: 葉: （は）植物を構成する主要な器官のひとつ。葉緑体を保持し光合成を行う主要な場であり、一般には緑色の薄い構造のもの 。はっぱ。
+LEAFY	(形容詞) leafyの訳: 葉の多い, 葉の茂った
+LEAGUE	(名詞) 連盟: 共通の目的のために提携し協同することを誓うこと。また、その組織。 (ほかに: 同盟)\n(動詞) 連盟・同盟を組織する。
+LEAGUED	(動詞) "league" の過去形・過去分詞: 連盟: 共通の目的のために提携し協同することを誓うこと。また、その組織。 (ほかに: 同盟)
+LEAGUER	(名詞) leaguerの訳: 包囲\n(動詞) leaguerの訳: 包囲する
+LEAGUERED	(leaguerの変化形) (名詞) leaguerの訳: 包囲
+LEAGUERING	(leaguerの変化形) (名詞) leaguerの訳: 包囲
+LEAGUERS	(leaguerの変化形) (名詞) leaguerの訳: 包囲
+LEAGUES	(名詞) "league" の複数形: 連盟: 共通の目的のために提携し協同することを誓うこと。また、その組織。 (ほかに: 同盟)\n(動詞) "league" の現在第三人称単数形。
+LEAGUING	(動詞) "league" の動名詞又は現在分詞: 連盟: 共通の目的のために提携し協同することを誓うこと。また、その組織。 (ほかに: 同盟)
+LEAK	(名詞) 漏れ口。漏れ穴。\n(動詞) 漏れる: 仲間の間で秘密にしておいたことが、誰かが話してしまい、人に知れ渡ってしまう。
+LEAKAGE	(名詞) 漏れ。漏出。
+LEAKAGES	(名詞) leakageの複数形: 漏れ。漏出。
+LEAKED	(動詞) leakの過去形・過去分詞: 漏れ口。漏れ穴。\n(形容詞) leakedの訳: 漏洩した
+LEAKIER	(形容詞) leakyの比較級: 漏れやすい
+LEAKIEST	(形容詞) leakyの最上級: 漏れやすい
+LEAKILY	(leakyの変化形) (形容詞) leakyの訳: 漏れやすい
+LEAKINESS	(名詞) leakinessの訳: 漏れやすさ
+LEAKINESSES	(名詞) leakinessの複数形: 漏れやすさ
+LEAKING	(動詞) leakの現在分詞: 漏れ口。漏れ穴。\n(名詞) 漏れ: （もれ）失禁すること。 (ほかに: 漏出)
+LEAKS	(名詞) leakの複数形: 漏れ口。漏れ穴。\n(動詞) leakの直説法現在第三人称単数形: 漏れ口。漏れ穴。
+LEAKY	(形容詞) leakyの訳: 漏れやすい
+LEAL	(形容詞) 誠実な: 言葉や行動に嘘がなく、心がこもっていること。 (ほかに: 忠実な, 忠誠な)
+LEALLY	(lealの変化形) (形容詞) 誠実な: 言葉や行動に嘘がなく、心がこもっていること。 (ほかに: 忠実な, 忠誠な)
+LEAN	(動詞) 傾ける。曲げる。\n(名詞) 傾き。傾斜。
+LEANED	(動詞) leanの過去形・過去分詞: 傾ける。曲げる。
+LEANER	(形容詞) leanの比較級: 傾ける。曲げる。\n(名詞) leanerの訳: 凭れる人
+LEANERS	(名詞) leanerの複数形: leanの比較級。
+LEANEST	(形容詞) leanの最上級: 傾ける。曲げる。\n(動詞) leanの直説法現在第二人称単数形: 傾ける。曲げる。
+LEANING	(名詞) 傾向。好み。\n(動詞) leanの現在分詞: 傾ける。曲げる。
+LEANINGS	(名詞) leaningの複数形: 傾向。好み。
+LEANNESS	(名詞) 瘠痩: 痩せること。痩せていること。
+LEANNESSES	(leannessの変化形) (名詞) 瘠痩: 痩せること。痩せていること。
+LEANS	(動詞) leanの直説法現在第三人称単数形: 傾ける。曲げる。\n(名詞) leanの複数形: 傾ける。曲げる。
+LEANT	(動詞) leanの過去形・過去分詞: 傾ける。曲げる。
+LEAP	(名詞) 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)\n(動詞) leapの訳: 跳ぶ, ⟪はねる⟫, 踊る
+LEAPED	(動詞) leapの過去形・過去分詞: 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)
+LEAPING	(動詞) leapの動名詞又は現在分詞: 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)
+LEAPS	(名詞) "leap" の複数形: 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)\n(動詞) "leap" の三人称単数現在形: 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)
+LEAPT	(動詞) leapの過去形・過去分詞: 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)
+LEARN	(動詞) 習う: 知識・技術などを教わる。 (ほかに: 学ぶ)
+LEARNED	(動詞) learnの過去形・過去分詞: 学ぶ、習う。\n(形容詞) learnedの訳: 学識のある
+LEARNEDLY	(副詞) learnedlyの訳: 学識高く
+LEARNER	(名詞) 学習者: あることを学んでいる人。
+LEARNERS	(learnerの変化形) (名詞) 学習者: あることを学んでいる人。
+LEARNING	(動詞) learnの現在分詞: 習う: 知識・技術などを教わる。 (ほかに: 学ぶ)\n(名詞) 学習: 新しい知識や能力の形成など、一定の目標に向かって意識的に展開される行動。
+LEARNINGS	(名詞) learningの複数形: learnの現在分詞: 習う: 知識・技術などを教わる。 (ほかに: 学ぶ)
+LEARNS	(動詞) "learn" の三人称単数現在形: 習う: 知識・技術などを教わる。 (ほかに: 学ぶ)
+LEARNT	(動詞) learnの過去形・過去分詞: 習う: 知識・技術などを教わる。 (ほかに: 学ぶ)
+LEAS	(leaの変化形) (名詞) leaの訳: 草地, ⟪牧草地|ぼくそうち⟫
+LEASE	(名詞) リース: 長期の賃貸。日本における実体としては、当該物件の購入に係る金融行為であることが多い。 (ほかに: 賃貸借)
+LEASED	(名詞) leasedの訳: 借地
+LEASES	(leaseの変化形) (名詞) リース: 長期の賃貸。日本における実体としては、当該物件の購入に係る金融行為であることが多い。 (ほかに: 賃貸借)
+LEASING	(leaseの変化形) (名詞) リース: 長期の賃貸。日本における実体としては、当該物件の購入に係る金融行為であることが多い。 (ほかに: 賃貸借)
+LEASINGS	(leaseの変化形) (名詞) リース: 長期の賃貸。日本における実体としては、当該物件の購入に係る金融行為であることが多い。 (ほかに: 賃貸借)
+LEAST	(名詞) leastの訳: 最小限のこと\n(副詞) 最も～ではない。（※最下級を作る。後に来る形容詞は原級。）
+LEASTS	(leastの変化形) (名詞) leastの訳: 最小限のこと
+LEATHER	(名詞) leatherの訳: ⟪鞣革|なめしがわ⟫\n(形容詞) leatherの訳: 革製の
+LEATHERED	(動詞) "leather" の過去形・過去分詞形: ⟪鞣革|なめしがわ⟫
+LEATHERING	(動詞) "leather" の動名詞形又は現在分詞形: ⟪鞣革|なめしがわ⟫
+LEATHERS	(名詞) leatherの複数形: ⟪鞣革|なめしがわ⟫\n(動詞) leatherの直説法現在第三人称単数形: ⟪鞣革|なめしがわ⟫
+LEAVE	(動詞) leaveの訳: 残す\n(名詞) （バットマンの）見逃し。.
+LEAVED	(動詞) leave（許す、葉をつける、課す）の過去形・過去分詞。\n(形容詞) leavedの訳: 葉をつけた
+LEAVEN	(名詞) パン種。イースト。\n(動詞) パン種を加える。
+LEAVENED	(動詞) leavenの過去形・過去分詞: パン種。イースト。\n(形容詞) パン種を入れた。
+LEAVENING	(動詞) leavenの現在分詞: パン種。イースト。\n(名詞) 発酵させること。
+LEAVENINGS	(名詞) leaveningの複数形: leavenの現在分詞: パン種。イースト。
+LEAVENS	(名詞) leavenの複数形: パン種。イースト。\n(動詞) leavenの直説法現在第三人称単数形: パン種。イースト。
+LEAVES	(動詞) leaveの直説法現在第三人称単数形: 残す\n(名詞) leaveの複数形: 残す
+LEAVING	(動詞) leaveの動名詞又は現在分詞: 残す
+LEAVINGS	(leaveの変化形) (動詞) leaveの訳: 残す
+LECTERN	(名詞) lecternの訳: 見台, 書見台
+LECTERNS	(名詞) lecternの複数形: 見台, 書見台
+LECTURE	(名詞) 講義。講演。\n(動詞) 講義する。講演する。
+LECTURED	(動詞) lectureの過去形・過去分詞: 講義。講演。
+LECTURER	(名詞) lecturerの訳: 講演者
+LECTURERS	(名詞) lecturerの複数形: 講演者
+LECTURES	(名詞) lectureの複数形: 講義。講演。\n(動詞) lectureの直説法現在第三人称単数形: 講義。講演。
+LECTURING	(動詞) lectureの現在分詞: 講義。講演。\n(名詞) 講義。講演。
+LED	(動詞) lead の過去形: ⟪鉛|なまり⟫
+LEECH	(名詞) leechの訳: 蛭\n(動詞) leechの訳: 瀉血する
+LEECHED	(動詞) "leech" の過去形・過去分詞: 蛭
+LEECHES	(名詞) "leech" の複数形: 蛭\n(動詞) "leech" の現在第三人称単数形。
+LEECHING	(動詞) "leech" の動名詞又は現在分詞: 蛭
+LEEK	(名詞) 葱: ユリ科またはネギ科ネギ属の多年草。一般に冬の季語。花は春の季語。 (ほかに: ねぎ, 蔥)
+LEEKS	(leekの変化形) (名詞) 葱: ユリ科またはネギ科ネギ属の多年草。一般に冬の季語。花は春の季語。 (ほかに: ねぎ, 蔥)
+LEER	(動詞) leerの訳: 横目で見る\n(名詞) leerの訳: ⟪横目|よこめ⟫, ⟪流し目|ながしめ⟫
+LEERED	(動詞) leerの過去形・過去分詞: 横目で見る
+LEERING	(名詞) 横目で見ること。\n(動詞) leerの現在分詞: 横目で見る
+LEERS	(名詞) leerの複数形: 横目で見る\n(動詞) leerの直説法現在大さん人称単数形: 横目で見る
+LEES	(名詞) leesの訳: 澱, かす
+LEFT	(形容詞) leftの訳: 左の\n(副詞) 左側に: 左の側。
+LEFTER	(形容詞) "left" の比較級: 左の
+LEFTEST	(leaveの変化形) (動詞) leaveの訳: 残す
+LEFTIES	(leftyの変化形) (名詞) ひだりきき: 日常において意のままに動かすことのできる腕や手足、即ち、利き腕が左腕、利き手が左手、利き足が左足であること、または、そのような人。
+LEFTIST	(名詞) leftistの訳: 左派の人\n(形容詞) 左派の: 組織内、特に政党の内部で革新的又は急進的な一派。急進派、革新派、左翼。 (ほかに: 左翼思想の)
+LEFTISTS	(leftistの変化形) (名詞) leftistの訳: 左派の人
+LEFTOVER	(形容詞) leftoverの訳: 残りの\n(名詞) 遺物: 遺跡などから出土したもので比較的小さいもの。 (ほかに: 名残, 残り物)
+LEFTOVERS	(名詞) leftoverの複数形: 残りの
+LEFTS	(leaveの変化形) (動詞) leaveの訳: 残す
+LEFTY	(名詞) ひだりきき: 日常において意のままに動かすことのできる腕や手足、即ち、利き腕が左腕、利き手が左手、利き足が左足であること、または、そのような人。
+LEG	(名詞) 脚部: 脚の部分。 (ほかに: 脚)\n(動詞) 脚を付ける。支柱を立てる。
+LEGACIES	(名詞) legacyの複数形: 遺産、遺物。レガシィ。
+LEGACY	(名詞) 遺産、遺物。レガシィ。
+LEGAL	(形容詞) 法定の: 法令で決めること。 (ほかに: 法的な, 法律上の)\n(名詞) legalの訳: 法定投資
+LEGALISE	(動詞) legaliseの訳: 合法化する
+LEGALISED	(動詞) legaliseの過去形・過去分詞: 合法化する
+LEGALISES	(動詞) legaliseの直説法現在第三人称単数形: 合法化する
+LEGALISING	(動詞) legaliseの現在分詞: 合法化する
+LEGALIZATION	(名詞) legalizationの訳: 合法化
+LEGALIZATIONS	(名詞) legalizationの複数形: 合法化
+LEGALIZE	(動詞) legaliseの異綴
+LEGALIZED	(動詞) legalizeの過去形・過去分詞: legaliseの異綴
+LEGALIZER	(legalizeの変化形) (動詞) legaliseの異綴
+LEGALIZES	(動詞) legalizeの直説法現在第三人称単数形: legaliseの異綴
+LEGALIZING	(動詞) legalizeの現在分詞: legaliseの異綴
+LEGALLY	(副詞) 法的に: 法律に基づいている様子。 (ほかに: 法律上)
+LEGALS	(legalの変化形) (形容詞) 法定の: 法令で決めること。 (ほかに: 法的な, 法律上の)
+LEGATION	(名詞) legationの訳: 公使館
+LEGATIONS	(legationの変化形) (名詞) legationの訳: 公使館
+LEGATO	(名詞) legatoの訳: レガート
+LEGATOS	(legatoの変化形) (名詞) legatoの訳: レガート
+LEGEND	(名詞) 伝説。言い伝え。
+LEGENDARILY	(legendaryの変化形) (形容詞) 伝説の。伝説的な。伝説に登場する。語り継がれている。
+LEGENDARY	(形容詞) 伝説の。伝説的な。伝説に登場する。語り継がれている。
+LEGENDS	(名詞) legendの複数形: 伝説。言い伝え。
+LEGES	(legの変化形) (名詞) 脚部: 脚の部分。 (ほかに: 脚)
+LEGGED	(動詞) "leg" の過去形・過去分詞形: 脚部: 脚の部分。 (ほかに: 脚)
+LEGGING	(動詞) "leg" の動名詞形又は現在分詞形: 脚部: 脚の部分。 (ほかに: 脚)
+LEGGINGS	(leggingの変化形) (動詞) "leg" の動名詞形又は現在分詞形。
+LEGIBILITIES	(名詞) legibilityの複数形: 読みやすさ。判読性。
+LEGIBILITY	(名詞) 読みやすさ。判読性。
+LEGIBLE	(形容詞) (字が) 読める。読みやすい。読み取れる。
+LEGIBLY	(副詞) legiblyの訳: 読みやすく
+LEGISLATE	(動詞) 法律を制定する。
+LEGISLATED	(動詞) legislateの過去形・過去分詞: 法律を制定する。
+LEGISLATES	(動詞) legislateの直説法現在第三人称単数形: 法律を制定する。
+LEGISLATING	(動詞) legislateの現在分詞: 法律を制定する。
+LEGISLATION	(名詞) 立法: 国家の統治作用のうち、法律を定めること。 (ほかに: 法律制定)
+LEGISLATIONS	(名詞) legislationの複数形: 立法: 国家の統治作用のうち、法律を定めること。 (ほかに: 法律制定)
+LEGISLATIVE	(形容詞) legislativeの訳: 立法の, 立法府の, 立法権のある\n(名詞) 立法府: 国家や地方で立法を行う機関、議会。日本では国会や地方議会。 (ほかに: 立法機関)
+LEGISLATIVES	(名詞) legislativeの複数形: 立法の, 立法府の, 立法権のある
+LEGISLATOR	(名詞) 立法者: 法令を制定する者。
+LEGISLATORS	(名詞) legislatorの複数形: 立法者: 法令を制定する者。
+LEGISLATURE	(名詞) 立法機関: 国家や地方の立法を行う機関。立法府。 (ほかに: 立法府)
+LEGISLATURES	(名詞) legislatureの複数形: 立法機関: 国家や地方の立法を行う機関。立法府。 (ほかに: 立法府)
+LEGITIMACIES	(名詞) "legitimacy" の複数形: 合法: 法に適っていること。
+LEGITIMACY	(名詞) 合法: 法に適っていること。
+LEGITIMATE	(形容詞) legitimateの訳: 合法な\n(名詞) legitimateの訳: 嫡出子
+LEGITIMATED	(動詞) legitimateの過去形・過去分詞: 合法な
+LEGITIMATES	(名詞) legitimateの複数形: 合法な\n(動詞) legitimateの現在第三人称単数形。
+LEGITIMATING	(動詞) legitimateの動名詞又は現在分詞: 合法な
+LEGS	(名詞) "leg" の複数形: 脚部: 脚の部分。 (ほかに: 脚)\n(動詞) "leg" の三人称単数現在形: 脚部: 脚の部分。 (ほかに: 脚)
+LEISURE	(名詞) 余暇: 仕事の合間などの暇な時間。 (ほかに: 暇な時間)
+LEISURELY	(形容詞) leisurelyの訳: 暇な, 余暇の\n(副詞) leisurelyの訳: ゆっくりと, 悠然と
+LEISURES	(leisureの変化形) (名詞) 余暇: 仕事の合間などの暇な時間。 (ほかに: 暇な時間)
+LEMMA	(名詞) 補題: 目的とする定理を得る過程で、前段階として証明された主張。補助定理。 (ほかに: レンマ, 補助定理)
+LEMMAS	(名詞) "lemma" の複数形: 補題: 目的とする定理を得る過程で、前段階として証明された主張。補助定理。 (ほかに: レンマ, 補助定理)
+LEMMATA	(名詞) "lemma" の複数形: 補題: 目的とする定理を得る過程で、前段階として証明された主張。補助定理。 (ほかに: レンマ, 補助定理)
+LEMON	(名詞) レモン: 1.の果実。 (ほかに: 檸檬)
+LEMONADE	(名詞) レモネード: レモン果汁に水、砂糖を加えた清涼飲料水。
+LEMONADES	(名詞) lemonadeの複数形: レモネード: レモン果汁に水、砂糖を加えた清涼飲料水。
+LEMONS	(名詞) lemon の複数形: レモン: 1.の果実。 (ほかに: 檸檬)
+LEMUR	(名詞) lemurの訳: ⟪きつねざる⟫
+LEMURS	(lemurの変化形) (名詞) lemurの訳: ⟪きつねざる⟫
+LEND	(動詞) lendの訳: 貸す
+LENDER	(名詞) lenderの訳: 貸し手
+LENDERS	(名詞) lenderの複数形: 貸し手
+LENDING	(動詞) "lend" の動名詞形又は現在分詞形: 貸す
+LENDS	(動詞) "lend" の三人称単数現在形: 貸す
+LENGTH	(名詞) 長さ: （ながさ）(長) 2地点間の隔たり。 (ほかに: 長いこと)
+LENGTHEN	(動詞) 延長する: 長さや距離を長くすること。 (ほかに: 延ばす, 長くする)
+LENGTHENED	(動詞) lengthenの過去形・過去分詞: 延長する: 長さや距離を長くすること。 (ほかに: 延ばす, 長くする)
+LENGTHENER	(lengthenの変化形) (動詞) 延長する: 長さや距離を長くすること。 (ほかに: 延ばす, 長くする)
+LENGTHENING	(動詞) lengthenの動名詞又は現在分詞: 延長する: 長さや距離を長くすること。 (ほかに: 延ばす, 長くする)\n(名詞) 延長。延ばすこと。
+LENGTHENS	(動詞) lengthenの直説法現在第三人称単数形: 延長する: 長さや距離を長くすること。 (ほかに: 延ばす, 長くする)
+LENGTHIER	(形容詞) "lengthy" の比較級: 長ったらしい: 長たらしい。 (ほかに: 無駄に長い, 冗長な)
+LENGTHIEST	(形容詞) "lengthy" の最上級: 長ったらしい: 長たらしい。 (ほかに: 無駄に長い, 冗長な)
+LENGTHINESS	(名詞) 非常に長いこと。
+LENGTHINESSES	(名詞) lengthinessの複数形: 非常に長いこと。
+LENGTHS	(名詞) lengthの複数形: 長さ: （ながさ）(長) 2地点間の隔たり。 (ほかに: 長いこと)\n(動詞) lengthの現在第三人称単数形。
+LENGTHY	(形容詞) 長ったらしい: 長たらしい。 (ほかに: 無駄に長い, 冗長な)
+LENIENCIES	(leniencyの変化形) (名詞) 寛容: 他者の罪や落ち度、異論などを、寛い心で受け容れること。 (ほかに: 寛大, 慈悲)
+LENIENCY	(名詞) 寛容: 他者の罪や落ち度、異論などを、寛い心で受け容れること。 (ほかに: 寛大, 慈悲)
+LENIENT	(形容詞) lenientの訳: 寛大な, 慈悲深い
+LENIENTLY	(副詞) lenientlyの訳: 寛大に, 慈悲深く
+LENS	(名詞) レンズ: 光を、屈折によって集束または発散させる器具。光学的性質の類似性から、光以外のものに対して用いられることもある。
+LENSED	(lensの変化形) (名詞) レンズ: 光を、屈折によって集束または発散させる器具。光学的性質の類似性から、光以外のものに対して用いられることもある。
+LENSING	(lensの変化形) (名詞) レンズ: 光を、屈折によって集束または発散させる器具。光学的性質の類似性から、光以外のものに対して用いられることもある。
+LENT	(動詞) lendの過去形・過去分詞: 貸す
+LENTO	(形容詞) レントの。遅い。\n(副詞) レントで。遅く。
+LENTOS	(名詞) lentoの複数形: レントの。遅い。
+LEONES	(名詞) leoneの複数形。
+LEOPARD	(名詞) leopardの訳: 豹
+LEOPARDESS	(名詞) leopardessの訳: 雌の豹
+LEOPARDESSES	(名詞) leopardessの複数形: 雌の豹
+LEOPARDS	(名詞) leopardの複数形: 豹
+LEOTARD	(名詞) レオタード: 伸縮性がある布地を使い、上下一続きで体に密着した運動着。
+LEOTARDS	(名詞) leotardの複数形: レオタード: 伸縮性がある布地を使い、上下一続きで体に密着した運動着。
+LEPIDOPTERA	(名詞) lepidopteronの複数形。
+LEPIDOPTERAN	(名詞) lepidopteranの訳: 鱗翅類\n(形容詞) lepidopteranの訳: 鱗翅類の
+LEPIDOPTERANS	(lepidopteranの変化形) (名詞) lepidopteranの訳: 鱗翅類
+LEPIDOPTERIST	(名詞) 鱗翅類の収集家。
+LEPIDOPTERISTS	(lepidopteristの変化形) (名詞) 鱗翅類の収集家。
+LEPIDOPTEROLOGIES	(lepidopterologyの変化形) (名詞) lepidopterologyの訳: 鱗翅類学
+LEPIDOPTEROLOGIST	(名詞) lepidopterologistの訳: 鱗翅類学者
+LEPIDOPTEROLOGISTS	(lepidopterologistの変化形) (名詞) lepidopterologistの訳: 鱗翅類学者
+LEPIDOPTEROLOGY	(名詞) lepidopterologyの訳: 鱗翅類学
+LEPIDOPTEROUS	(形容詞) lepidopterousの訳: 鱗翅を持った
+LEPORID	(名詞) leporidの訳: ウサギ科
+LEPORIDS	(leporidの変化形) (名詞) leporidの訳: ウサギ科
+LEPROSIES	(leprosyの変化形) (名詞) ハンセン病: 癩菌による慢性の感染症。癩。癩病。 (ほかに: 癩病)
+LEPROSY	(名詞) ハンセン病: 癩菌による慢性の感染症。癩。癩病。 (ほかに: 癩病)
+LEPTA	(leptonの変化形) (名詞) leptonの訳: レプトン
+LEPTON	(名詞) leptonの訳: レプトン
+LEPTONS	(leptonの変化形) (名詞) leptonの訳: レプトン
+LESBIAN	(名詞) レズビアン: 女性の同性愛者。
+LESBIANS	(lesbianの変化形) (名詞) レズビアン: 女性の同性愛者。
+LESS	(形容詞) littleの比較級: 小さい: 数量や規模が、一定の基準に満たない。\n(副詞) lessの訳: もっと少なく
+LESSEN	(動詞) 減らす: （へらす）小さくする。すり減らす。 (ほかに: 少なくする)
+LESSENED	(動詞) lessenの過去形・過去分詞: 減らす: （へらす）小さくする。すり減らす。 (ほかに: 少なくする)\n(形容詞) lessenedの訳: 減少した
+LESSENING	(動詞) lessenの現在分詞: 減らす: （へらす）小さくする。すり減らす。 (ほかに: 少なくする)\n(名詞) lesseningの訳: 減少
+LESSENS	(動詞) lessenの直説法現在第三人称単数形: 減らす: （へらす）小さくする。すり減らす。 (ほかに: 少なくする)
+LESSER	(形容詞) "little" の比較級形: 小さい: 数量や規模が、一定の基準に満たない。\n(名詞) 小型: （こがた）規模や形が小さいこと。またそのさま。 (ほかに: 少量, 些細)
+LESSON	(名詞) 学科: 理論などを学習する課程。実習や実技などに対していう。 (ほかに: 課業, 授業)\n(動詞) lessonの訳: 教える
+LESSONED	(動詞) lessonの過去形・過去分詞: 学科: 理論などを学習する課程。実習や実技などに対していう。 (ほかに: 課業, 授業)
+LESSONING	(動詞) lessonの現在分詞: 学科: 理論などを学習する課程。実習や実技などに対していう。 (ほかに: 課業, 授業)\n(名詞) 教育: 他者や自分をより良くするために知識や技術、判断基準などを伝える行為。教え育てること。狭義には学校教育を指すことが多い。 (ほかに: 教授)
+LESSONS	(名詞) lessonの複数形: 学科: 理論などを学習する課程。実習や実技などに対していう。 (ほかに: 課業, 授業)\n(動詞) lessonの直説法現在第三人称単数形: 学科: 理論などを学習する課程。実習や実技などに対していう。 (ほかに: 課業, 授業)
+LEST	(接続詞) （条件節に用い）もし、～でないならば。～の無いように。～しないように
+LET	(動詞) 許す、許可する。（to無し不定詞を目的語に）～させる。\n(名詞) letの訳: 妨害, 障害
+LETHAL	(形容詞) 致死の: 生体を死に至らしめること。死に至ること。 (ほかに: 致命的な, 命取りの)\n(名詞) 殺傷能力のある武器。
+LETHALLY	(lethalの変化形) (形容詞) 致死の: 生体を死に至らしめること。死に至ること。 (ほかに: 致命的な, 命取りの)
+LETHALS	(名詞) lethalの複数形: 致死の: 生体を死に至らしめること。死に至ること。 (ほかに: 致命的な, 命取りの)
+LETHARGIC	(形容詞) けだるい: 理由もなくだるい。なんともなしにだるい。 (ほかに: 無気力な)
+LETHARGIES	(名詞) lethargyの複数形: ⟪無気力|むきりょく⟫, 倦怠
+LETHARGY	(名詞) lethargyの訳: ⟪無気力|むきりょく⟫, 倦怠
+LETS	(名詞) "let" の複数形: 許す、許可する。（to無し不定詞を目的語に）～させる。\n(動詞) "let" の三人称単数現在形: 許す、許可する。（to無し不定詞を目的語に）～させる。
+LETTER	(名詞) letterの訳: 文字\n(動詞) 文字を印刷する。
+LETTERED	(動詞) "letter" の過去形・過去分詞形: 文字
+LETTERING	(動詞) letterの動名詞又は現在分詞: 文字\n(名詞) 文字を書き込む、特に印刷すること。
+LETTERINGS	(名詞) letteringの複数形: letterの動名詞又は現在分詞: 文字
+LETTERS	(名詞) "letter" の複数形: 文字\n(動詞) "letter" の三人称単数現在形: 文字
+LETTING	(動詞) "let" の動名詞形又は現在分詞形: 許す、許可する。（to無し不定詞を目的語に）～させる。
+LETTUCE	(名詞) lettuceの訳: レタス
+LETTUCES	(名詞) "lettuce" の複数形: レタス
+LEU	(名詞) leuの訳: レウ
+LEUCINE	(名詞) ロイシン。アミノ酸の一つ。三文字表記 Leu、一文字表記 L。
+LEUCINES	(leucineの変化形) (名詞) ロイシン。アミノ酸の一つ。三文字表記 Leu、一文字表記 L。
+LEUKAEMIA	(名詞) leukemiaの異綴。
+LEUKAEMIAS	(名詞) leukaemiaの複数形: leukemiaの異綴。
+LEUKEMIA	(名詞) 白血病: 血液中で異常な白血球が自律的に増加し、正常な造血が阻害される病気。
+LEUKEMIAS	(名詞) leukemiaの複数形: 白血病: 血液中で異常な白血球が自律的に増加し、正常な造血が阻害される病気。
+LEUKOCYTE	(名詞) 白血球: 脊椎動物などの血液に含まれる有形成分のひとつ。主に生体の防御にかかわる。
+LEUKOCYTES	(名詞) leukocyteの複数形: 白血球: 脊椎動物などの血液に含まれる有形成分のひとつ。主に生体の防御にかかわる。
+LEV	(名詞) levの訳: レフ
+LEVA	(levの変化形) (名詞) levの訳: レフ
+LEVEE	(名詞) leveeの訳: ⟪堤防|ていぼう⟫\n(動詞) leveeの訳: 堤防を築く
+LEVEED	(動詞) "levee" の過去形・過去分詞: ⟪堤防|ていぼう⟫
+LEVEEING	(動詞) "levee" の動名詞又は現在分詞: ⟪堤防|ていぼう⟫
+LEVEES	(名詞) "levee" の複数形: ⟪堤防|ていぼう⟫\n(動詞) "levee" の現在第三人称単数形。
+LEVEL	(形容詞) levelの訳: 平らな, 水平な\n(名詞) levelの訳: 水準器
+LEVELED	(動詞) levelの過去形・過去分詞: 平らな, 水平な
+LEVELER	(形容詞) levelの比較級: 平らな, 水平な\n(名詞) 平等に降り掛かるもの。
+LEVELERS	(名詞) levelerの複数形: levelの比較級。
+LEVELING	(動詞) "level" の動名詞又は現在分詞: 平らな, 水平な
+LEVELLED	(動詞) levelの過去形・過去分詞: 平らな, 水平な
+LEVELLING	(levelの変化形) (形容詞) levelの訳: 平らな, 水平な
+LEVELS	(名詞) levelの複数形: 平らな, 水平な\n(動詞) levelの直説法現在第三人称単数形: 平らな, 水平な
+LEVER	(名詞) leverの訳: 梃, レバー\n(動詞) leverの訳: てこで動かす
+LEVERAGE	(名詞) leverageの訳: 梃子の作用\n(動詞) 借入金で買収する。
+LEVERAGED	(動詞) leverageの過去形・過去分詞: 梃子の作用
+LEVERAGES	(名詞) leverageの複数形: 梃子の作用\n(動詞) leverageの直説法現在第三人称単数形: 梃子の作用
+LEVERAGING	(動詞) leverageの現在分詞: 梃子の作用
+LEVERED	(leverの変化形) (名詞) leverの訳: 梃, レバー
+LEVERING	(leverの変化形) (名詞) leverの訳: 梃, レバー
+LEVERS	(leverの変化形) (名詞) leverの訳: 梃, レバー
+LEVIED	(levyの変化形) (名詞) levyの訳: 徴収, 徴税, 賦課
+LEVIER	(名詞) （税などを）課す人。課税者。
+LEVIERS	(名詞) levierの複数形: （税などを）課す人。課税者。
+LEVIES	(levyの変化形) (名詞) levyの訳: 徴収, 徴税, 賦課
+LEVIGATE	(動詞) levigateの訳: 滑らかにする, 磨く\n(形容詞) levigateの訳: 滑らかな, 無毛の
+LEVIGATED	(動詞) levigateの過去形・過去分詞: 滑らかにする, 磨く
+LEVIGATES	(動詞) levigateの直説法現在第三人称単数形: 滑らかにする, 磨く
+LEVIGATING	(動詞) levigateの現在分詞: 滑らかにする, 磨く
+LEVITATE	(動詞) （奇術などで）空中浮揚させる。
+LEVITATED	(動詞) levitateの過去形・過去分詞: （奇術などで）空中浮揚させる。
+LEVITATES	(動詞) levitateの直説法現在第三人称単数形: （奇術などで）空中浮揚させる。
+LEVITATING	(動詞) levitateの現在分詞: （奇術などで）空中浮揚させる。
+LEVITATION	(名詞) levitationの訳: 空中浮揚
+LEVITATIONS	(名詞) levitationの複数形: 空中浮揚
+LEVITIES	(名詞) levityの複数形: 軽率: 物事をよく考えないで行う様子。慌ててことを行うさま。 (ほかに: 軽薄)
+LEVITY	(名詞) 軽率: 物事をよく考えないで行う様子。慌ててことを行うさま。 (ほかに: 軽薄)
+LEVY	(名詞) levyの訳: 徴収, 徴税, 賦課\n(動詞) levyの訳: 徴収
+LEVYING	(levyの変化形) (名詞) levyの訳: 徴収, 徴税, 賦課
+LEWD	(形容詞) 淫らな。猥褻な。
+LEWDER	(形容詞) lewdの比較級: 淫らな。猥褻な。
+LEWDEST	(形容詞) lewdの最上級: 淫らな。猥褻な。
+LEWDLY	(副詞) 猥褻に: 性的に淫らなこと。そのようなさま。徒らに性慾を興奮又は刺激せしめ且つ普通人の正常な性的羞恥心を害し善良な性的道義観念に反するもの（最高裁判所昭和26年5月10日第一小法廷判決）。 (ほかに: 淫らに)
+LEWDNESS	(名詞) lewdnessの訳: ⟪淫ら|みだら⟫, 猥褻
+LEWDNESSES	(名詞) lewdnessの複数形: ⟪淫ら|みだら⟫, 猥褻
+LEXEME	(名詞) 語彙素: ある単語とその屈折による変化形をひとまとめにした、語彙を分ける基本単位。例えば、英語の walk, walks, walked, walking は、まとめて1つの語彙素 "walk" とみなす。派生接辞によってできる walker は、普通は別の語彙素とみなす。
+LEXEMES	(lexemeの変化形) (名詞) 語彙素: ある単語とその屈折による変化形をひとまとめにした、語彙を分ける基本単位。例えば、英語の walk, walks, walked, walking は、まとめて1つの語彙素 "walk" とみなす。派生接辞によってできる...
+LEXICAL	(形容詞) 語彙の: 個人の話者、言語共同体、作品、分野などによって使われる単語の集合全体。
+LEXICALISATION	(名詞) lexicalizationの異綴。
+LEXICALISATIONS	(名詞) lexicalisationの複数形: lexicalizationの異綴。
+LEXICALIZATION	(名詞) lexicalizationの訳: 語彙化
+LEXICALIZATIONS	(名詞) lexicalizationの複数形: 語彙化
+LEXICALIZE	(動詞) lexicalizeの訳: 語彙化する
+LEXICALIZED	(動詞) lexicalizeの過去形・過去分詞: 語彙化する
+LEXICALIZES	(動詞) lexicalizeの直説法現在第三人称単数形: 語彙化する
+LEXICALIZING	(動詞) lexicalizeの現在分詞: 語彙化する
+LEXICOGRAPHIES	(lexicographyの変化形) (名詞) 辞書に関する研究を行う学問。辞書学。
+LEXICOGRAPHY	(名詞) 辞書に関する研究を行う学問。辞書学。
+LEXICOLOGIES	(名詞) lexicologyの複数形: 語彙論: 語彙を扱う言語学の分野。
+LEXICOLOGY	(名詞) 語彙論: 語彙を扱う言語学の分野。
+LEXICON	(名詞) 語彙: 個人の話者、言語共同体、作品、分野などによって使われる単語の集合全体。
+LEXICONS	(名詞) lexiconの複数形: 語彙: 個人の話者、言語共同体、作品、分野などによって使われる単語の集合全体。
+LEXIS	(名詞) 語彙: 個人の話者、言語共同体、作品、分野などによって使われる単語の集合全体。
+LIABILITIES	(名詞) liabilityの複数形: 負債, 借金
+LIABILITY	(名詞) liabilityの訳: 負債, 借金
+LIABLE	(形容詞) 法的に責任のある。
+LIAISON	(名詞) liaisonの訳: 渉外, リエゾン
+LIAISONS	(liaisonの変化形) (名詞) liaisonの訳: 渉外, リエゾン
+LIANA	(名詞) lianaの訳: ⟪藤本|とうほん⟫
+LIANAS	(lianaの変化形) (名詞) lianaの訳: ⟪藤本|とうほん⟫
+LIAR	(名詞) liarの訳: 嘘吐き
+LIARS	(名詞) liar の複数形: 嘘吐き
+LIBELLOUS	(形容詞) libelousの異綴
+LIBELOUS	(形容詞) 中傷の: 根拠の無い言葉を発して、他人の名誉を傷付ける。根拠も無く悪く言う。 (ほかに: 名誉棄損の)
+LIBERAL	(形容詞) 自由を容す。寛容な。\n(名詞) liberalの訳: 自由主義者
+LIBERALISM	(名詞) 自由主義: 政府などの権力による統制や干渉を排除して、貧富や好不況などの結果責任を個人に負わせるべきだという考え。
+LIBERALISMS	(liberalismの変化形) (名詞) 自由主義: 政府などの権力による統制や干渉を排除して、貧富や好不況などの結果責任を個人に負わせるべきだという考え。
+LIBERALITIES	(liberalityの変化形) (名詞) liberalityの訳: 寛大さ
+LIBERALITY	(名詞) liberalityの訳: 寛大さ
+LIBERALLY	(副詞) 自由に: 任意であるさま。 (ほかに: リベラルに)
+LIBERALS	(名詞) "liberal" の複数形: 自由を容す。寛容な。
+LIBERATE	(動詞) liberateの訳: 自由にする
+LIBERATED	(形容詞) liberatedの訳: 解放された\n(動詞) liberateの過去形・過去分詞: 自由にする。
+LIBERATES	(動詞) "liberate" の三人称単数現在形: 自由にする
+LIBERATING	(動詞) "liberate" の動名詞形又は現在分詞形: 自由にする
+LIBERATION	(名詞) 解放: 束縛や制限を無くし、自由にすること。 (ほかに: 釈放)
+LIBERATIONS	(名詞) liberationの複数形: 解放: 束縛や制限を無くし、自由にすること。 (ほかに: 釈放)
+LIBERATOR	(名詞) liberatorの訳: 解放者
+LIBERATORS	(liberatorの変化形) (名詞) liberatorの訳: 解放者
+LIBERTIES	(名詞) libertyの複数形: ⟪自由|じゆう⟫
+LIBERTINE	(形容動詞) libertineの訳: 放蕩
+LIBERTINES	(libertineの変化形) (形容動詞) libertineの訳: 放蕩
+LIBERTINISM	(名詞) 遊興: 遊びに興じること。特に、酒色に耽ること。 (ほかに: 放蕩, 遊蕩)
+LIBERTINISMS	(libertinismの変化形) (名詞) 遊興: 遊びに興じること。特に、酒色に耽ること。 (ほかに: 放蕩, 遊蕩)
+LIBERTY	(名詞) libertyの訳: ⟪自由|じゆう⟫
+LIBIDO	(名詞) （一般的用語）性衝動。性欲。
+LIBIDOS	(libidoの変化形) (名詞) （一般的用語）性衝動。性欲。
+LIBRA	(名詞) ローマの重量単位。約327グラム。
+LIBRAE	(名詞) libraの複数形: ローマの重量単位。約327グラム。
+LIBRARIAN	(名詞) 図書館員: 図書館に勤務する職員の総称。 (ほかに: 司書)
+LIBRARIANS	(名詞) librarianの複数形: 司書、図書館員。
+LIBRARIES	(libraryの変化形) (名詞) 図書館: 公共又は一定の集団に閲覧させる目的で、主に書籍など出版物（図書）を収集する施設。
+LIBRARY	(名詞) 図書館: 公共又は一定の集団に閲覧させる目的で、主に書籍など出版物（図書）を収集する施設。
+LIBRAS	(libraの変化形) (名詞) ローマの重量単位。約327グラム。
+LICE	(名詞) louseの複数形: シラミ: 昆虫綱咀顎目シラミ亜目に属する昆虫の総称で動物に寄生して血を吸う。
+LICENCE	(名詞) licenseの標準的な綴り。\n(動詞) licenseの異綴。
+LICENCED	(動詞) licenceの過去形・過去分詞: licenseの標準的な綴り。\n(形容詞) licensedの異綴。
+LICENCEES	(licenceの変化形) (名詞) licenseの標準的な綴り。
+LICENCES	(名詞) licenceの複数形: licenseの標準的な綴り。\n(動詞) licenceの直説法現在第三人称単数形: licenseの標準的な綴り。
+LICENCING	(動詞) licenceの現在分詞: licenseの標準的な綴り。\n(名詞) licensingの異綴。
+LICENSE	(名詞) 免許証。許可証。\n(動詞) 許可する。免許を与える。権限を与える。
+LICENSED	(形容詞) 許可された。認可された。免許を取った。\n(動詞) licenseの過去形・過去分詞: 免許証。許可証。
+LICENSES	(名詞) licenseの複数形: 免許証。許可証。\n(動詞) licenseの直説法現在第三人称単数形: 免許証。許可証。
+LICENSING	(動詞) licenseの現在分詞: 免許証。許可証。\n(名詞) ライセンス供与。
+LICENTIATE	(名詞) 修士: 日本における学位の一つ。
+LICENTIATES	(名詞) licentiateの複数形: 修士: 日本における学位の一つ。
+LICENTIOUS	(形容詞) 猥褻な: 性的に淫らなこと。そのようなさま。徒らに性慾を興奮又は刺激せしめ且つ普通人の正常な性的羞恥心を害し善良な性的道義観念に反するもの（最高裁判所昭和26年5月10日第一小法廷判決）。
+LICENTIOUSNESS	(名詞) licentiousnessの訳: 猥褻
+LICENTIOUSNESSES	(名詞) "licentiousness" の複数形: 猥褻
+LICHEE	(名詞) licheeの訳: 茘枝
+LICHEES	(licheeの変化形) (名詞) licheeの訳: 茘枝
+LICHEN	(名詞) lichenの訳: 地衣類
+LICHENING	(lichenの変化形) (名詞) lichenの訳: 地衣類
+LICHENOLOGIES	(lichenologyの変化形) (名詞) lichenologyの訳: 地衣類学
+LICHENOLOGIST	(名詞) lichenologistの訳: 地衣類学者
+LICHENOLOGISTS	(lichenologistの変化形) (名詞) lichenologistの訳: 地衣類学者
+LICHENOLOGY	(名詞) lichenologyの訳: 地衣類学
+LICHENS	(lichenの変化形) (名詞) lichenの訳: 地衣類
+LICHI	(名詞) lichiの訳: 茘枝
+LICHIS	(lichiの変化形) (名詞) lichiの訳: 茘枝
+LICK	(名詞) lickの訳: 舐めること, 一舐め\n(動詞) lickの訳: ⟪舐める|なめる⟫
+LICKED	(動詞) lickの過去形・過去分詞: 舐めること, 一舐め
+LICKING	(名詞) lickingの訳: 舐めること, 一舐め\n(動詞) lickの現在分詞: 舐めること, 一舐め
+LICKINGS	(名詞) lickingの複数形: 舐めること, 一舐め
+LICKS	(名詞) lickの複数形: 舐めること, 一舐め\n(動詞) lickの直説法現在第三人称単数形: 舐めること, 一舐め
+LICORICE	(名詞) licoriceの訳: 甘草
+LICORICES	(licoriceの変化形) (名詞) licoriceの訳: 甘草
+LID	(名詞) lidの訳: ⟪蓋|きぬがさ⟫
+LIDDING	(lidの変化形) (名詞) lidの訳: ⟪蓋|きぬがさ⟫
+LIDS	(名詞) lidの複数形: ⟪蓋|きぬがさ⟫
+LIE	(動詞) 横たわる。横になる。寝そべる。寝転がる。\n(名詞) 状態。位置。
+LIED	(名詞) リート、18世紀末から19世紀にかけてドイツで成立した芸術的歌曲。\n(動詞) lieの過去形・過去分詞: 横たわる。横になる。寝そべる。寝転がる。
+LIEDER	(名詞) liedの複数形: リート、18世紀末から19世紀にかけてドイツで成立した芸術的歌曲。
+LIEN	(名詞) lienの訳: 先取特権
+LIENS	(lienの変化形) (名詞) lienの訳: 先取特権
+LIER	(名詞) lierの訳: 横たわる人
+LIERS	(lierの変化形) (名詞) lierの訳: 横たわる人
+LIES	(lieの変化形) (動詞) 横たわる。横になる。寝そべる。寝転がる。
+LIEU	(名詞) lieuの訳: ⟪場所|ばしょ⟫
+LIEUS	(lieuの変化形) (名詞) lieuの訳: ⟪場所|ばしょ⟫
+LIEUTENANT	(名詞) 中尉: 軍隊における尉官の位。大尉の下、少尉の上。\n(形容詞) lieutenantの訳: 尉官の
+LIEUTENANTS	(lieutenantの変化形) (名詞) 中尉: 軍隊における尉官の位。大尉の下、少尉の上。
+LIFE	(名詞) 命: （いのち）生きていること。生命。生涯。寿命。 (ほかに: 生, 生命)
+LIFELESS	(形容詞) 生命を失った。死んだ。
+LIFELIKE	(形容詞) 生きているような。そっくりの。リアルな。
+LIFELONG	(形容詞) 生涯の: 生きている間。一生。 (ほかに: 一生の)
+LIFESAVER	(名詞) lifesaverの訳: ライフセーバー
+LIFESAVERS	(lifesaverの変化形) (名詞) lifesaverの訳: ライフセーバー
+LIFESAVING	(名詞) ライフセービング: 1.の水辺における事故の救命活動。
+LIFESAVINGS	(lifesavingの変化形) (名詞) ライフセービング: 1.の水辺における事故の救命活動。
+LIFESTYLE	(名詞) 生き方、生活様式、ライフスタイル。
+LIFESTYLES	(名詞) lifestyleの複数形: 生き方、生活様式、ライフスタイル。
+LIFETIME	(名詞) 生涯: 人生の特定の時期。 (ほかに: 一生)
+LIFETIMES	(名詞) lifetimeの複数形: 生涯: 人生の特定の時期。 (ほかに: 一生)
+LIFT	(動詞) 持ち上げる。引き上げる。引き起こす。上げる。担ぐ。取り上げる。吊り上げる\n(名詞) 持ち上げること、持ち上がること、引き上げ。
+LIFTABLE	(形容詞) liftableの訳: 昇降式の
+LIFTED	(動詞) liftの過去形・過去分詞形: 持ち上げる。引き上げる。引き起こす。上げる。担ぐ。取り上げる。吊り上げる
+LIFTING	(動詞) liftの動名詞又は現在分詞: 持ち上げる。引き上げる。引き起こす。上げる。担ぐ。取り上げる。吊り上げる\n(名詞) ウェイトリフティング、重量挙げ。
+LIFTS	(名詞) "lift" の複数形: 持ち上げる。引き上げる。引き起こす。上げる。担ぐ。取り上げる。吊り上げる\n(動詞) "lift" の三人称単数現在形: 持ち上げる。引き上げる。引き起こす。上げる。担ぐ。取り上げる。吊り上げる
+LIGAMENT	(名詞) 靭帯: 骨と骨とを繋ぎ、関節の運動を制限したり安全にしたりする丈夫な線維性の組織。
+LIGAMENTS	(名詞) ligamentの複数形: 靭帯: 骨と骨とを繋ぎ、関節の運動を制限したり安全にしたりする丈夫な線維性の組織。
+LIGAND	(名詞) 配位子: 錯体または錯体化合物で中心となる原子に結合している原子やイオン、分子などの総称。 (ほかに: リガンド)
+LIGANDS	(ligandの変化形) (名詞) 配位子: 錯体または錯体化合物で中心となる原子に結合している原子やイオン、分子などの総称。 (ほかに: リガンド)
+LIGATION	(名詞) 結紮: 血管を縛り止血すること。また、卵管を縛って閉鎖すること。
+LIGATIONS	(ligationの変化形) (名詞) 結紮: 血管を縛り止血すること。また、卵管を縛って閉鎖すること。
+LIGATURE	(名詞) 縛ること。括ること。\n(動詞) （動脈などを）縛る。結紮する。
+LIGATURED	(形容詞) ligaturedの訳: 合字となった\n(動詞) ligatureの過去形・過去分詞: 縛ること。括ること。
+LIGATURES	(名詞) ligatureの複数形: 縛ること。括ること。\n(動詞) ligatureの直説法現在第三人称単数形: 縛ること。括ること。
+LIGATURING	(動詞) ligatureの現在分詞: 縛ること。括ること。
+LIGER	(名詞) ライガー: 父親がライオンで母親がトラの交雑種。
+LIGERS	(ligerの変化形) (名詞) ライガー: 父親がライオンで母親がトラの交雑種。
+LIGHT	(名詞) lightの訳: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫\n(形容詞) lightの訳: ⟪明るい|あかるい⟫
+LIGHTED	(動詞) lightの過去形・過去分詞: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫\n(形容詞) lightedの訳: 点火している, 点灯している
+LIGHTEN	(動詞) lightenの訳: 明るくする, 照らす
+LIGHTENED	(動詞) lightenの過去形・過去分詞: 明るくする, 照らす
+LIGHTENER	(lightenの変化形) (動詞) lightenの訳: 明るくする, 照らす
+LIGHTENING	(動詞) "lighten" の動名詞又は現在分詞: 明るくする, 照らす
+LIGHTENS	(動詞) lightenの現在第三人称単数形。
+LIGHTER	(形容詞) "light" の比較級形: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫\n(名詞) ライター: 点火のための小型の器具。特に、喫煙時に用いるもの。 (ほかに: 点火装置)
+LIGHTERED	(lighterの変化形) (形容詞) "light" の比較級形。
+LIGHTERING	(lighterの変化形) (形容詞) "light" の比較級形。
+LIGHTERS	(名詞) "lighter" の複数形: "light" の比較級形。
+LIGHTEST	(形容詞) "light" の最上級形: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫
+LIGHTHEARTED	(形容詞) 陽気な: 明るく賑やかなさま。 (ほかに: 愉快な)
+LIGHTHOUSE	(名詞) 灯台: 燭台。灯明台。
+LIGHTHOUSES	(名詞) lighthouseの複数形: 灯台: 燭台。灯明台。
+LIGHTING	(動詞) lightの動名詞又は現在分詞: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫\n(名詞) 照明: 各種光源を利用して、何らかの目的をもって特定の場所を明るくする行為や機能。
+LIGHTINGS	(名詞) "light" の複数形: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫
+LIGHTLY	(副詞) lightlyの訳: 軽く
+LIGHTNESS	(名詞) lightnessの訳: ⟪かるさ⟫
+LIGHTNESSES	(lightnessの変化形) (名詞) lightnessの訳: ⟪かるさ⟫
+LIGHTNING	(名詞) lightningの訳: ⟪稲妻|いなずま⟫, 閃光\n(形容詞) lightningの訳: 非常に素早い
+LIGHTNINGED	(動詞) lightningの過去形・過去分詞: ⟪稲妻|いなずま⟫, 閃光
+LIGHTNINGS	(名詞) lightningの複数形: ⟪稲妻|いなずま⟫, 閃光\n(動詞) lightningの直説法現在第三人称単数形: ⟪稲妻|いなずま⟫, 閃光
+LIGHTS	(名詞) "light"（あかり 他）の複数形。\n(動詞) lightの直説法現在第三人称単数形: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫
+LIGHTWEIGHT	(名詞) lightweightの訳: 羅袖
+LIGHTWEIGHTS	(lightweightの変化形) (名詞) lightweightの訳: 羅袖
+LIKABLE	(形容詞) likableの訳: 好感の持てる, 感じのいい
+LIKE	(動詞) likeの訳: ～を好む\n(名詞) 好み: 好んでいること。また、そのもの。 (ほかに: 好きなもの)
+LIKED	(動詞) likeの過去形及び過去分詞形: ～を好む
+LIKELIER	(形容詞) "likely" の比較級: ありそうな, 起こりそうな
+LIKELIEST	(形容詞) "likely" の最上級: ありそうな, 起こりそうな
+LIKELIHOOD	(名詞) 可能性: 潜在的な発展性。成長の見込み。
+LIKELIHOODS	(名詞) "likelihood" の複数形: 可能性: 潜在的な発展性。成長の見込み。
+LIKELY	(形容詞) likelyの訳: ありそうな, 起こりそうな
+LIKEN	(動詞) likenの訳: 例える
+LIKENED	(動詞) likenの過去形・過去分詞: 例える
+LIKENESS	(名詞) 相似: 形や性質がよく似ていること。 (ほかに: 似ていること, 類似)
+LIKENESSES	(名詞) "likeness" の複数形: 相似: 形や性質がよく似ていること。 (ほかに: 似ていること, 類似)\n(動詞) "likeness" の現在第三人称単数形。
+LIKENING	(動詞) likenの動名詞又は現在分詞: 例える\n(名詞) 例え: 例えること。また、例えられた話。
+LIKENS	(動詞) likenの直説法現在第三人称単数形: 例える
+LIKER	(likeの変化形) (動詞) likeの訳: ～を好む
+LIKES	(名詞) "like" の複数形: ～を好む\n(動詞) "like" の三人称単数現在形: ～を好む
+LIKEST	(likeの変化形) (動詞) likeの訳: ～を好む
+LIKEWISE	(副詞) 同様に: 同じであること。ほとんど同じであること。またその様。
+LIKING	(動詞) likeの現在分詞: ～を好む\n(名詞) 趣味: 楽しみとして行う行為。 (ほかに: 好み, 嗜好)
+LIKINGS	(名詞) likingの複数形: likeの現在分詞。
+LILAC	(名詞) ライラック（リラ）の樹木および花。\n(形容詞) 藤色の。ライラック色の。
+LILACS	(名詞) "lilac" の複数形: ライラック（リラ）の樹木および花。
+LILIES	(lilyの変化形) (名詞) lilyの訳: ゆり
+LILY	(名詞) lilyの訳: ゆり
+LIMB	(名詞) limbの訳: ⟪手足|しゅそく⟫, 四肢\n(動詞) 四肢を本体から離す。
+LIMBED	(動詞) "limb" の過去形・過去分詞形: ⟪手足|しゅそく⟫, 四肢
+LIMBING	(動詞) limbの動名詞又は現在分詞: ⟪手足|しゅそく⟫, 四肢
+LIMBLESS	(形容詞) limblessの訳: 手足の無い
+LIMBO	(名詞) 囚獄: （しゅうごく、稀に:ひとや）捕らえた罪人を収容する建物。 (ほかに: 獄舎, 獄屋)
+LIMBOS	(limboの変化形) (名詞) 囚獄: （しゅうごく、稀に:ひとや）捕らえた罪人を収容する建物。 (ほかに: 獄舎, 獄屋)
+LIMBS	(名詞) limbの複数形: ⟪手足|しゅそく⟫, 四肢\n(動詞) limbの直説法現在第三人称単数形: ⟪手足|しゅそく⟫, 四肢
+LIME	(名詞) ライム: 1.の果実。 (ほかに: 石灰, 生石灰)
+LIMED	(limeの変化形) (名詞) ライム: 1.の果実。 (ほかに: 石灰, 生石灰)
+LIMES	(limeの変化形) (名詞) ライム: 1.の果実。 (ほかに: 石灰, 生石灰)
+LIMESTONE	(名詞) 石灰岩: 炭酸カルシウムを50%以上含む堆積岩。主に動物の骨格や殻などの成分である炭酸カルシウムが海底などに堆積してできたもの。
+LIMESTONES	(名詞) limestoneの複数形: 石灰岩: 炭酸カルシウムを50%以上含む堆積岩。主に動物の骨格や殻などの成分である炭酸カルシウムが海底などに堆積してできたもの。
+LIMEWATER	(名詞) 石灰水: 消石灰（水酸化カルシウム）の飽和水溶液。アルカリ性を呈する。
+LIMEWATERS	(名詞) limewaterの複数形: 石灰水: 消石灰（水酸化カルシウム）の飽和水溶液。アルカリ性を呈する。
+LIMING	(limeの変化形) (名詞) ライム: 1.の果実。 (ほかに: 石灰, 生石灰)
+LIMIT	(名詞) 限り。制限。限定。\n(動詞) 限る。（範囲を）狭める。制限する。限定する。
+LIMITATION	(名詞) 規制: 規則により制限すること。また、その規則。 (ほかに: 制限, 制約)
+LIMITATIONS	(名詞) limitationの複数形: 規制: 規則により制限すること。また、その規則。 (ほかに: 制限, 制約)
+LIMITED	(形容詞) limitedの訳: 限られた, 制限された\n(名詞) 特別急行。特急。
+LIMITEDS	(名詞) limitedの複数形: 限られた, 制限された
+LIMITES	(limitの変化形) (名詞) 限り。制限。限定。
+LIMITING	(名詞) 限定。制限。\n(動詞) limitの動名詞又は現在分詞: 限り。制限。限定。
+LIMITLESS	(名詞) limitlessの訳: 八百, やお
+LIMITLESSLY	(limitlessの変化形) (名詞) limitlessの訳: 八百, やお
+LIMITS	(名詞) limitの複数形: 限り。制限。限定。\n(動詞) limitの直説法現在第三人称単数形: 限り。制限。限定。
+LIMO	(名詞) リムジン: 運転席と後部座席との間に仕切り板がある大型で高級な乗用車。
+LIMONENE	(名詞) リモネン: テルペンに属し、レモンのような香りのする有機化合物。化学式C₁₀H₁₆。
+LIMONENES	(名詞) limoneneの複数形: リモネン: テルペンに属し、レモンのような香りのする有機化合物。化学式C₁₀H₁₆。
+LIMOS	(limoの変化形) (名詞) リムジン: 運転席と後部座席との間に仕切り板がある大型で高級な乗用車。
+LIMP	(動詞) limpの訳: 足を引き摺る\n(名詞) 足を引き摺ること。
+LIMPED	(動詞) limpの過去形・過去分詞: 足を引き摺る
+LIMPER	(limpの変化形) (動詞) limpの訳: 足を引き摺る
+LIMPERS	(limpの変化形) (動詞) limpの訳: 足を引き摺る
+LIMPEST	(limpの変化形) (動詞) limpの訳: 足を引き摺る
+LIMPID	(形容詞) 澄んだ。透明な。
+LIMPIDITIES	(名詞) limpidityの複数形: 透明さ
+LIMPIDITY	(名詞) limpidityの訳: 透明さ
+LIMPIDLY	(副詞) 澄み切って。透明に。
+LIMPING	(動詞) limpの現在分詞: 足を引き摺る\n(名詞) 跛行: 怪我や病気などにより片足を引き摺るように歩くこと。跛。禹歩。
+LIMPS	(名詞) limpの複数形: 足を引き摺る\n(動詞) limpの直説法現在第三人称単数形: 足を引き摺る
+LINAGE	(名詞) lineageの異綴。
+LINAGES	(名詞) linageの複数形: lineageの異綴。
+LINCHPIN	(名詞) linchpinの訳: 枢要
+LINCHPINS	(linchpinの変化形) (名詞) linchpinの訳: 枢要
+LINE	(名詞) lineの訳: 線\n(動詞) lineの訳: 線を引く
+LINEAGE	(名詞) 系譜。血統。家系。
+LINEAGES	(名詞) lineageの複数形: 系譜。血統。家系。
+LINEAMENT	(名詞) 人相。容貌。顔立ち。
+LINEAMENTS	(名詞) lineamentの複数形: 人相。容貌。顔立ち。
+LINEAR	(形容詞) linearの訳: 線状の
+LINEATION	(名詞) lineationの訳: 線構造
+LINEATIONS	(名詞) lineationの複数形: 線構造
+LINED	(形容詞) linedの訳: 裏地のついた\n(動詞) lineの過去形・過去分詞: 線
+LINEN	(名詞) リンネル: 亜麻繊維を原料とした織物。 (ほかに: リネン, 亜麻糸)\n(形容詞) linenの訳: リンネル製の
+LINENS	(linenの変化形) (名詞) リンネル: 亜麻繊維を原料とした織物。 (ほかに: リネン, 亜麻糸)
+LINES	(名詞) "line" の複数形: 線\n(動詞) "line" の三人称単数現在形: 線
+LINGER	(動詞) 長居する。ぐずぐずと居残る。
+LINGERED	(lingerの変化形) (動詞) 長居する。ぐずぐずと居残る。
+LINGERING	(lingerの変化形) (動詞) 長居する。ぐずぐずと居残る。
+LINGERS	(lingerの変化形) (動詞) 長居する。ぐずぐずと居残る。
+LINGONBERRIES	(lingonberryの変化形) (名詞) lingonberryの訳: ⟪こけもも⟫
+LINGONBERRY	(名詞) lingonberryの訳: ⟪こけもも⟫
+LINGUIST	(名詞) 言語学者: 言語学を研究する科学者。
+LINGUISTIC	(形容詞) 言語の: ある特定の集団が用いる、音や文字による事態の伝達手段。個別言語。
+LINGUISTICAL	(形容詞) 言語学的な: 言語学に関すること。また、そのさま。
+LINGUISTICALLY	(副詞) 言語学的に: 言語学に関すること。また、そのさま。
+LINGUISTICS	(名詞) 言語学: 人間が話す言語の本質、構造、変遷などを科学的に研究する学問。
+LINGUISTS	(linguistの変化形) (名詞) 言語学者: 言語学を研究する科学者。
+LINING	(名詞) 裏地。裏張り。裏当て。\n(動詞) lineの動名詞又は現在分詞: 線
+LININGS	(名詞) liningの複数形: 裏地。裏張り。裏当て。
+LINK	(名詞) linkの訳: ⟪環|たまき⟫\n(動詞) 結び付ける: 関連させる。関係づける。 (ほかに: 接続する, つなぐ)
+LINKED	(動詞) "link" の過去形・過去分詞形: ⟪環|たまき⟫
+LINKER	(linkの変化形) (名詞) linkの訳: ⟪環|たまき⟫
+LINKING	(動詞) "link" の動名詞形又は現在分詞形: ⟪環|たまき⟫
+LINKS	(名詞) link の複数形: ⟪環|たまき⟫\n(動詞) linkの直説法現在第三人称単数形: ⟪環|たまき⟫
+LION	(名詞) ライオン。獅子。
+LIONESS	(名詞) lionessの訳: ライオン
+LIONESSES	(lionessの変化形) (名詞) lionessの訳: ライオン
+LIONS	(名詞) lionの複数形: ライオン。獅子。
+LIP	(名詞) 唇の片方。上唇または下唇。上唇と下唇を合わせた唇全体を指すときは複数形となる。
+LIPASE	(名詞) リパーゼ: 膵液、胃液などに含まれ中性脂肪を加水分解し脂肪酸とグリセリンとに分解する消化酵素。
+LIPASES	(名詞) lipaseの複数形: リパーゼ: 膵液、胃液などに含まれ中性脂肪を加水分解し脂肪酸とグリセリンとに分解する消化酵素。
+LIPPER	(lipの変化形) (名詞) 唇の片方。上唇または下唇。上唇と下唇を合わせた唇全体を指すときは複数形となる。
+LIPPING	(lipの変化形) (名詞) 唇の片方。上唇または下唇。上唇と下唇を合わせた唇全体を指すときは複数形となる。
+LIPS	(名詞) "lip" の複数形: 唇の片方。上唇または下唇。上唇と下唇を合わせた唇全体を指すときは複数形となる。
+LIPSTICK	(名詞) 口紅: 主に女性が化粧で口唇に塗る紅。紅脂。ルージュ。
+LIPSTICKED	(lipstickの変化形) (名詞) 口紅: 主に女性が化粧で口唇に塗る紅。紅脂。ルージュ。
+LIPSTICKS	(lipstickの変化形) (名詞) 口紅: 主に女性が化粧で口唇に塗る紅。紅脂。ルージュ。
+LIQUEFACTION	(名詞) 液化: 固体や気体が液体に変化すること。
+LIQUEFACTIONS	(liquefactionの変化形) (名詞) 液化: 固体や気体が液体に変化すること。
+LIQUEFIED	(形容詞) liquifiedの異綴\n(動詞) liquefyの過去形・過去分詞: 液化する: 固体や気体が液体に変化すること。
+LIQUEFIES	(動詞) liquefyの直説法現在第三人称単数形: 液化する: 固体や気体が液体に変化すること。
+LIQUEFY	(動詞) 液化する: 固体や気体が液体に変化すること。
+LIQUEFYING	(動詞) liquefyの現在分詞: 液化する: 固体や気体が液体に変化すること。
+LIQUEUR	(名詞) liqueurの訳: リキュール
+LIQUEURS	(liqueurの変化形) (名詞) liqueurの訳: リキュール
+LIQUID	(名詞) 液体: 液体の状態。液状。\n(形容詞) liquidの訳: 液体の
+LIQUIDATE	(動詞) （負債などを）清算する。弁済する。
+LIQUIDATED	(liquidateの変化形) (動詞) （負債などを）清算する。弁済する。
+LIQUIDATES	(動詞) liquidateの直説法現在第三人称単数形: （負債などを）清算する。弁済する。
+LIQUIDATING	(動詞) liquidateの現在分詞: （負債などを）清算する。弁済する。
+LIQUIDATION	(名詞) liquidationの訳: 流動化
+LIQUIDATIONS	(liquidationの変化形) (名詞) liquidationの訳: 流動化
+LIQUIDITIES	(liquidityの変化形) (名詞) liquidityの訳: 流動性
+LIQUIDITY	(名詞) liquidityの訳: 流動性
+LIQUIDS	(liquidの変化形) (名詞) 液体: 液体の状態。液状。
+LIQUIFIED	(形容詞) liquifiedの訳: 液化した\n(動詞) liquifyの過去形・過去分詞: 液化する: 固体や気体が液体に変化すること。
+LIQUIFIES	(動詞) liquifyの直説法現在第三人称単数形: 液化する: 固体や気体が液体に変化すること。
+LIQUIFY	(動詞) 液化する: 固体や気体が液体に変化すること。
+LIQUIFYING	(動詞) liquifyの現在分詞: 液化する: 固体や気体が液体に変化すること。
+LIQUOR	(名詞) さけ: エタノールを含み、飲むと酩酊感を得ることのできる飲料。アルコール飲料。 (ほかに: 酒房)
+LIQUORED	(liquorの変化形) (名詞) さけ: エタノールを含み、飲むと酩酊感を得ることのできる飲料。アルコール飲料。 (ほかに: 酒房)
+LIQUORICE	(名詞) liquoriceの訳: 甘草
+LIQUORICES	(liquoriceの変化形) (名詞) liquoriceの訳: 甘草
+LIQUORING	(liquorの変化形) (名詞) さけ: エタノールを含み、飲むと酩酊感を得ることのできる飲料。アルコール飲料。 (ほかに: 酒房)
+LIQUORS	(liquorの変化形) (名詞) さけ: エタノールを含み、飲むと酩酊感を得ることのできる飲料。アルコール飲料。 (ほかに: 酒房)
+LIST	(名詞) （布の）縁。へり； （織物の）耳。\n(動詞) listの訳: ⟪切り取る|きりとる⟫
+LISTED	(動詞) "list" の過去形・過去分詞: （布の）縁。へり； （織物の）耳。
+LISTEN	(動詞) 聞く: （きく）（聞く・聴く）理解や鑑賞の目的で、（よく注意を払いながら）話や音楽を聞く。傾聴する。 (ほかに: 聴く, 傾聴する)
+LISTENED	(動詞) listenの過去形・過去分詞: 聞く: （きく）（聞く・聴く）理解や鑑賞の目的で、（よく注意を払いながら）話や音楽を聞く。傾聴する。 (ほかに: 聴く, 傾聴する)
+LISTENER	(名詞) 聴者: 聴く者。聴き手。 (ほかに: 聞き手, 聴衆)
+LISTENERS	(名詞) "listener" の複数形: 聴者: 聴く者。聴き手。 (ほかに: 聞き手, 聴衆)
+LISTENING	(動詞) "listen" の動名詞形又は現在分詞形: 聞く: （きく）（聞く・聴く）理解や鑑賞の目的で、（よく注意を払いながら）話や音楽を聞く。傾聴する。 (ほかに: 聴く, 傾聴する)
+LISTENS	(名詞) listenの複数形: 聞く: （きく）（聞く・聴く）理解や鑑賞の目的で、（よく注意を払いながら）話や音楽を聞く。傾聴する。 (ほかに: 聴く, 傾聴する)\n(動詞) listenの直説法現在第さん人称単数形: 聞く: （きく）（聞く・聴く）理解や鑑賞の目的で、（よく注意を払いながら）話や音楽を聞く。傾聴する。 (ほかに: 聴く, 傾聴する)
+LISTING	(動詞) "list" の動名詞又は現在分詞: （布の）縁。へり； （織物の）耳。
+LISTINGS	(listの変化形) (名詞) （布の）縁。へり； （織物の）耳。
+LISTLESS	(形容詞) 元気のない。物憂げな
+LISTLESSLY	(副詞) 元気なく。物憂げに
+LISTS	(名詞) "list" の複数形: （布の）縁。へり； （織物の）耳。\n(動詞) "list" の現在第三人称単数形。
+LIT	(動詞) light（火を点ける） の過去形、過去分詞形。\n(形容詞) litの訳: 酔っぱらって
+LITAI	(lightの変化形) (名詞) lightの訳: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫
+LITCHI	(名詞) litchiの訳: 茘枝
+LITCHIS	(litchiの変化形) (名詞) litchiの訳: 茘枝
+LITER	(名詞) リットル: 体積の単位。1辺が10センチメートルの立方体の体積に等しい。記号はl・L・ℓ・㍑。
+LITERACIES	(literacyの変化形) (名詞) リテラシー: 識字能力。 (ほかに: 識字能力)
+LITERACY	(名詞) リテラシー: 識字能力。 (ほかに: 識字能力)
+LITERAL	(形容詞) literalの訳: 文字通りの\n(名詞) 誤字。誤植。
+LITERALLY	(副詞) literallyの訳: 文字通りに
+LITERALS	(literalの変化形) (形容詞) literalの訳: 文字通りの
+LITERARILY	(副詞) literarilyの訳: 文学的に
+LITERARY	(形容詞) literaryの訳: 文学に関する
+LITERATE	(形容詞) 読み書きができる。\n(名詞) 読み書きができる人。
+LITERATELY	(literateの変化形) (形容詞) 読み書きができる。
+LITERATES	(名詞) "literate" の複数形: 読み書きができる。
+LITERATI	(名詞) 文学者: 文学を研究する科学者。
+LITERATURE	(名詞) 文芸: 言語によって表現される芸術。詩や小説など。文芸学。 (ほかに: 文学)
+LITERATURES	(名詞) literatureの複数形: 文芸: 言語によって表現される芸術。詩や小説など。文芸学。 (ほかに: 文学)
+LITERS	(名詞) literの複数形: リットル: 体積の単位。1辺が10センチメートルの立方体の体積に等しい。記号はl・L・ℓ・㍑。
+LITHE	(形容詞) やわらかい: 触れた感触がふわふわで嫋やか。運動エネルギーを吸収する。固くない。\n(形容動詞) ソフト: やわらかい。
+LITHER	(litheの変化形) (形容詞) やわらかい: 触れた感触がふわふわで嫋やか。運動エネルギーを吸収する。固くない。
+LITHEST	(litheの変化形) (形容詞) やわらかい: 触れた感触がふわふわで嫋やか。運動エネルギーを吸収する。固くない。
+LITHIA	(名詞) 酸化リチウム: （金属^([要出典])）組成式Li₂Oで表されるリチウムの酸化物。金属リチウムを空気中で燃焼させると生成する。
+LITHIAS	(lithiaの変化形) (名詞) 酸化リチウム: （金属^([要出典])）組成式Li₂Oで表されるリチウムの酸化物。金属リチウムを空気中で燃焼させると生成する。
+LITHIC	(形容詞) 石の: (いし) 語義1に限らず岩石や鉱物一般。
+LITHIUM	(名詞) リチウム: 原子番号 3、元素記号 Li の金属元素。アルカリ金属。原子量6.941。単体は、常温常圧では銀白色の固体。
+LITHIUMS	(名詞) lithiumの複数形: リチウム: 原子番号 3、元素記号 Li の金属元素。アルカリ金属。原子量6.941。単体は、常温常圧では銀白色の固体。
+LITHOSPHERE	(名詞) 岩石圏: 地球の構造で主に岩石で構成される部分。 (ほかに: 岩圏, リソスフェア)
+LITHOSPHERES	(名詞) lithosphereの複数形: 岩石圏: 地球の構造で主に岩石で構成される部分。 (ほかに: 岩圏, リソスフェア)
+LITRE	(名詞) リットル: 体積の単位。1辺が10センチメートルの立方体の体積に等しい。記号はl・L・ℓ・㍑。
+LITRES	(名詞) litreの複数形: リットル: 体積の単位。1辺が10センチメートルの立方体の体積に等しい。記号はl・L・ℓ・㍑。
+LITS	(lightの変化形) (名詞) lightの訳: ⟪光|ひかり⟫, ⟪照明|しょうめい⟫, ⟪日光|にっこう⟫
+LITTER	(名詞) litterの訳: 担架, ごみ
+LITTERED	(litterの変化形) (名詞) litterの訳: 担架, ごみ
+LITTERING	(litterの変化形) (名詞) litterの訳: 担架, ごみ
+LITTERS	(litterの変化形) (名詞) litterの訳: 担架, ごみ
+LITTLE	(形容詞) 小さい: 数量や規模が、一定の基準に満たない。\n(副詞) ほとんど～ない。
+LITTLER	(形容詞) （まれ）"little" の比較級形。
+LITTLES	(littleの変化形) (形容詞) 小さい: 数量や規模が、一定の基準に満たない。
+LITTLEST	(形容詞) （まれ）"little" の最上級形。
+LIVE	(動詞) 生きる: （生）生命を維持する。\n(形容詞) liveの訳: 生きている, 生存している
+LIVED	(動詞) "live" の過去形・過去分詞形: 生きる: （生）生命を維持する。
+LIVELIER	(形容詞) livelyの比較級: 元気のよい, 活発な, 活気のある
+LIVELIEST	(形容詞) livelyの最上級: 元気のよい, 活発な, 活気のある
+LIVELIHOOD	(名詞) 生計、暮らし。[14世紀より]
+LIVELIHOODS	(名詞) livelihoodの複数形: 生計、暮らし。[14世紀より]
+LIVELINESS	(名詞) 活発さ。活気。生き生きしていること。
+LIVELINESSES	(名詞) livelinessの複数形: 活発さ。活気。生き生きしていること。
+LIVELONG	(形容詞) livelongの訳: の間ずっと
+LIVELY	(形容詞) livelyの訳: 元気のよい, 活発な, 活気のある\n(副詞) livelyの訳: 元気よく, 活発に, 生き生きと
+LIVER	(名詞) きも: 肝臓。 (ほかに: 肝臓, レバー)
+LIVERISH	(形容詞) liverishの訳: 肝臓に似た
+LIVERS	(名詞) liverの複数形: きも: 肝臓。 (ほかに: 肝臓, レバー)
+LIVERWORT	(名詞) 三角草: キンポウゲ目ミスミソウ属に属する植物の一種。学名:Hepatica nobilis。別名、雪割草。
+LIVERWORTS	(liverwortの変化形) (名詞) 三角草: キンポウゲ目ミスミソウ属に属する植物の一種。学名:Hepatica nobilis。別名、雪割草。
+LIVES	(動詞) live の直説法現在第三人称単数形: 生きる。\n(名詞) life の複数形: 命: （いのち）生きていること。生命。生涯。寿命。 (ほかに: 生, 生命)
+LIVESTOCK	(名詞) 家畜: 人間が、食料や皮革等の材料又は労働力その他の能力を利用することを目的として飼育し、繁殖を全面的に管理する動物。鳥類の場合は特に家禽と呼ぶ。
+LIVESTOCKS	(livestockの変化形) (名詞) 家畜: 人間が、食料や皮革等の材料又は労働力その他の能力を利用することを目的として飼育し、繁殖を全面的に管理する動物。鳥類の場合は特に家禽と呼ぶ。
+LIVING	(動詞) liveの現在分詞: 生きる: （生）生命を維持する。\n(形容詞) livingの訳: 生きている, 生命を持った
+LIVINGS	(名詞) livingの複数形: liveの現在分詞: 生きる: （生）生命を維持する。
+LIZARD	(名詞) とかげ。また、その皮、皮膚。
+LIZARDS	(名詞) lizardの複数形: とかげ。また、その皮、皮膚。
+LLAMA	(名詞) llamaの訳: ラマ
+LLAMAS	(名詞) llamaの複数形: ラマ
+LOAD	(名詞) loadの訳: ⟪荷物|にもつ⟫, 荷, 積荷\n(動詞) 積む。積み込む。乗せる。詰め込む。押し込む。
+LOADED	(動詞) loadの過去形・過去分詞: ⟪荷物|にもつ⟫, 荷, 積荷\n(形容詞) 荷物を積んだ。満載した。
+LOADING	(動詞) "load" の動名詞形又は現在分詞形: ⟪荷物|にもつ⟫, 荷, 積荷
+LOADINGS	(loadの変化形) (名詞) loadの訳: ⟪荷物|にもつ⟫, 荷, 積荷
+LOADS	(名詞) loadの複数形: ⟪荷物|にもつ⟫, 荷, 積荷\n(動詞) loadの三人称単数現在形: ⟪荷物|にもつ⟫, 荷, 積荷
+LOAF	(名詞) loafの訳: パンの一塊\n(動詞) loafの訳: 怠ける, ⟪だらだらする|だらだら⟫
+LOAFED	(動詞) loafの過去形・過去分詞: パンの一塊
+LOAFER	(名詞) loaferの訳: ローファー
+LOAFERS	(loaferの変化形) (名詞) loaferの訳: ローファー
+LOAFING	(動詞) loafの現在分詞: パンの一塊\n(名詞) ぐうたら: 気力がなく、怠惰なさま。また、そのような人。
+LOAFS	(名詞) loafの複数形: パンの一塊\n(動詞) loafの直説法現在第三人称単数形: パンの一塊
+LOAN	(名詞) 貸付け。融資。貸出し。貸し。借入。借用。貸借。債権。\n(動詞) 金を貸し付ける。融資する。
+LOANED	(動詞) "loan" の過去形・過去分詞形: 貸付け。融資。貸出し。貸し。借入。借用。貸借。債権。
+LOANING	(動詞) "loan" の動名詞形又は現在分詞形: 貸付け。融資。貸出し。貸し。借入。借用。貸借。債権。
+LOANINGS	(loanの変化形) (名詞) 貸付け。融資。貸出し。貸し。借入。借用。貸借。債権。
+LOANS	(名詞) "loan" の複数形: 貸付け。融資。貸出し。貸し。借入。借用。貸借。債権。\n(動詞) "loan" の三人称単数現在形: 貸付け。融資。貸出し。貸し。借入。借用。貸借。債権。
+LOANWORD	(名詞) 借用語: 他の言語から別の言語にそのまま取り入れた語彙。
+LOANWORDS	(名詞) loanwordの複数形: 借用語。
+LOATH	(形容詞) loathの訳: 嫌って, 気が進まない
+LOATHE	(動詞) ～を酷く嫌う、～を唾棄する、～にむかつく、～に反吐が出る。
+LOATHED	(動詞) loatheの過去形・過去分詞: ～を酷く嫌う、～を唾棄する、～にむかつく、～に反吐が出る。\n(形容詞) loathの異形。
+LOATHES	(動詞) loatheの直説法現在第三人称単数形: ～を酷く嫌う、～を唾棄する、～にむかつく、～に反吐が出る。
+LOATHING	(名詞) 嫌悪: 憎み嫌うこと。ある人物や物事や思想などに対し、拒んだり消し去ったりしたいという意思を表すこと。 (ほかに: むかつき)\n(動詞) loatheの現在分詞: ～を酷く嫌う、～を唾棄する、～にむかつく、～に反吐が出る。
+LOATHINGS	(名詞) loathingの複数形: 嫌悪: 憎み嫌うこと。ある人物や物事や思想などに対し、拒んだり消し去ったりしたいという意思を表すこと。 (ほかに: むかつき)
+LOATHSOME	(形容詞) 厭わしい、嫌でたまらない。
+LOATHSOMELY	(loathsomeの変化形) (形容詞) 厭わしい、嫌でたまらない。
+LOAVES	(名詞) loafの複数形: パンの一塊
+LOB	(動詞) lobの訳: ⟪打ち上げる|うちあげる⟫\n(名詞) lobの訳: ロブ
+LOBBED	(動詞) "lob" の過去形・過去分詞形: ⟪打ち上げる|うちあげる⟫
+LOBBER	(lobの変化形) (動詞) lobの訳: ⟪打ち上げる|うちあげる⟫
+LOBBIED	(lobbyの変化形) (名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 休息所)
+LOBBIES	(lobbyの変化形) (名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 休息所)
+LOBBING	(動詞) "lob" の動名詞形又は現在分詞形: ⟪打ち上げる|うちあげる⟫
+LOBBY	(名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 休息所)
+LOBBYER	(lobbyの変化形) (名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 休息所)
+LOBBYING	(lobbyの変化形) (名詞) ロビー: ホテルなどの玄関で、控え室・休憩室・応接室として使用される部屋。 (ほかに: 休息所)
+LOBED	(lobの変化形) (動詞) lobの訳: ⟪打ち上げる|うちあげる⟫
+LOBOTOMIES	(lobotomyの変化形) (名詞) lobotomyの訳: ロボトミー
+LOBOTOMY	(名詞) lobotomyの訳: ロボトミー
+LOBS	(名詞) "lob" の複数形: ⟪打ち上げる|うちあげる⟫\n(動詞) "lob" の三人称単数現在形: ⟪打ち上げる|うちあげる⟫
+LOBSTER	(名詞) うみざりがに: ロブスターの和名。 (ほかに: ロブスター, 伊勢海老)
+LOBSTERED	(lobsterの変化形) (名詞) うみざりがに: ロブスターの和名。 (ほかに: ロブスター, 伊勢海老)
+LOBSTERING	(lobsterの変化形) (名詞) うみざりがに: ロブスターの和名。 (ほかに: ロブスター, 伊勢海老)
+LOBSTERS	(lobsterの変化形) (名詞) うみざりがに: ロブスターの和名。 (ほかに: ロブスター, 伊勢海老)
+LOCAL	(形容詞) 現地の。地元の。\n(名詞) localの訳: 地元の人
+LOCALE	(名詞) 舞台: 場所。活躍の場。事件の現場。設定された状況。 (ほかに: 現場)
+LOCALES	(名詞) localeの複数形: 舞台: 場所。活躍の場。事件の現場。設定された状況。 (ほかに: 現場)
+LOCALISE	(動詞) 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALISED	(動詞) "localise" の過去形・過去分詞形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALISES	(名詞) "localise" の複数形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。\n(動詞) "localise" の三人称単数現在形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALISING	(動詞) "localise" の動名詞形又は現在分詞形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALITIES	(名詞) localityの複数形: 局所性。
+LOCALITY	(名詞) localityの訳: 局所性
+LOCALIZATION	(名詞) localizationの訳: 局在化, 局所化, 地方化
+LOCALIZATIONS	(localizationの変化形) (名詞) localizationの訳: 局在化, 局所化, 地方化
+LOCALIZE	(動詞) 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。\n(名詞) localizeの訳: ローカライズ
+LOCALIZED	(動詞) "localize" の過去形・過去分詞形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALIZES	(名詞) "localize" の複数形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。\n(動詞) "localize" の三人称単数現在形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALIZING	(動詞) "localize" の動名詞形又は現在分詞形: 一地方に集まる。一極集中する。一部に限定する。局部に限定する。局在する。範囲を限定する。広がりを抑える。一箇所に食い止める。
+LOCALS	(localの変化形) (形容詞) 現地の。地元の。
+LOCATE	(動詞) 置く: （おく）（於く）（「において」などの形で）場所を表す。 (ほかに: 設置する)
+LOCATED	(動詞) locateの過去形・過去分詞: 置く: （おく）（於く）（「において」などの形で）場所を表す。 (ほかに: 設置する)
+LOCATES	(動詞) locateの直説法現在第三人称単数形: 置く: （おく）（於く）（「において」などの形で）場所を表す。 (ほかに: 設置する)
+LOCATING	(動詞) locateの動名詞又は現在分詞: 置く: （おく）（於く）（「において」などの形で）場所を表す。 (ほかに: 設置する)
+LOCATION	(名詞) 場所: あるものが存在する、又はある物事が行われる、一定の空間的な広がり。ところ。 (ほかに: 位置, 所在地)
+LOCATIONS	(名詞) "location" の複数形: 場所: あるものが存在する、又はある物事が行われる、一定の空間的な広がり。ところ。 (ほかに: 位置, 所在地)
+LOCATIVE	(形容詞) locativeの訳: 処格の\n(名詞) locativeの訳: 処格
+LOCATIVES	(名詞) locativeの複数形: 処格の
+LOCI	(locusの変化形) (名詞) 中心地: 活動の中心となる場所や地域。
+LOCK	(名詞) 錠。錠前。鍵。鎖錠。ロック。固定具。\n(動詞) 鍵を掛ける。錠を下ろす。ロックする。戸締りする。施錠する。
+LOCKDOWN	(名詞) 人をある空間から出さないこと。
+LOCKDOWNS	(名詞) lockdownの複数形: 人をある空間から出さないこと。
+LOCKED	(動詞) "lock" の過去形・過去分詞形: 錠。錠前。鍵。鎖錠。ロック。固定具。
+LOCKER	(名詞) ロッカー: 荷物などを入れる戸棚。 (ほかに: 戸棚)
+LOCKERS	(lockerの変化形) (名詞) ロッカー: 荷物などを入れる戸棚。 (ほかに: 戸棚)
+LOCKET	(名詞) locketの訳: ロケット
+LOCKETS	(locketの変化形) (名詞) locketの訳: ロケット
+LOCKING	(動詞) "lock" の動名詞形又は現在分詞形: 錠。錠前。鍵。鎖錠。ロック。固定具。
+LOCKS	(名詞) "lock" の複数形: 錠。錠前。鍵。鎖錠。ロック。固定具。\n(動詞) "lock" の三人称単数現在形: 錠。錠前。鍵。鎖錠。ロック。固定具。
+LOCOMOTION	(名詞) 移動: 人やものが存在する場所を他へ移すこと。場所を移ること。また、その動作。 (ほかに: 運動)
+LOCOMOTIONS	(名詞) locomotionの複数形: 移動: 人やものが存在する場所を他へ移すこと。場所を移ること。また、その動作。 (ほかに: 運動)
+LOCOMOTIVE	(名詞) 機関車: 動力装置を塔載し、自走できない車両を牽引・推進して線路を走行する鉄道車両。\n(形容詞) 移動の: 人やものが存在する場所を他へ移すこと。場所を移ること。また、その動作。 (ほかに: 運動の)
+LOCOMOTIVES	(名詞) locomotiveの複数形: 機関車: 動力装置を塔載し、自走できない車両を牽引・推進して線路を走行する鉄道車両。
+LOCUS	(名詞) 中心地: 活動の中心となる場所や地域。
+LOCUST	(名詞) 飛蝗、イナゴ。[14世紀より]
+LOCUSTS	(locustの変化形) (名詞) 飛蝗、イナゴ。[14世紀より]
+LOCUTION	(名詞) 言辞: 言葉遣い。物言い。
+LOCUTIONS	(locutionの変化形) (名詞) 言辞: 言葉遣い。物言い。
+LODGE	(名詞) lodgeの訳: ロッジ, ⟪山小屋|やまごや⟫\n(動詞) 泊まる: （とまる）停泊する。 (ほかに: 宿泊する)
+LODGED	(動詞) lodgeの過去形・過去分詞: ロッジ, ⟪山小屋|やまごや⟫\n(形容詞) lodgedの訳: 横たわった
+LODGES	(名詞) lodgeの複数形: ロッジ、山小屋。\n(動詞) lodgeの直説法現在第三人称単数形: ロッジ, ⟪山小屋|やまごや⟫
+LODGING	(名詞) lodgingの訳: 宿, 滞在場所\n(動詞) lodgeの現在分詞: ロッジ, ⟪山小屋|やまごや⟫
+LODGINGS	(名詞) lodgingの複数形: 宿, 滞在場所
+LOFT	(名詞) loftの訳: ⟪屋根裏部屋|やねうらべや⟫\n(動詞) 高く打ち上げる。
+LOFTED	(動詞) "loft" の過去形・過去分詞形: ⟪屋根裏部屋|やねうらべや⟫
+LOFTIER	(loftyの変化形) (形容詞) loftyの訳: 非常に高い
+LOFTIEST	(loftyの変化形) (形容詞) loftyの訳: 非常に高い
+LOFTING	(動詞) "loft" の動名詞形又は現在分詞形: ⟪屋根裏部屋|やねうらべや⟫
+LOFTS	(名詞) "loft" の複数形: ⟪屋根裏部屋|やねうらべや⟫\n(動詞) "loft" の三人称単数現在形: ⟪屋根裏部屋|やねうらべや⟫
+LOFTY	(形容詞) loftyの訳: 非常に高い
+LOG	(名詞) logの訳: ⟪丸太|まるた⟫
+LOGARITHM	(名詞) 対数: 大きな数値。
+LOGARITHMIC	(形容詞) 対数の: ある数を望みの数にするにはどれだけ累乗する必要があるのかを、計算して得られる数。何かの数 a と x が与えられたときに、等式 aʸ = x を満たす y。一般に自然対数または常用対数を用いることが多い。ロガリズム。
+LOGARITHMS	(名詞) logarithmの複数形: 対数: 大きな数値。
+LOGBOOK	(名詞) logbookの訳: ⟪日誌|にっし⟫, 航海日誌
+LOGBOOKS	(logbookの変化形) (名詞) logbookの訳: ⟪日誌|にっし⟫, 航海日誌
+LOGGED	(logの変化形) (名詞) logの訳: ⟪丸太|まるた⟫
+LOGGING	(logの変化形) (名詞) logの訳: ⟪丸太|まるた⟫
+LOGGINGS	(logの変化形) (名詞) logの訳: ⟪丸太|まるた⟫
+LOGIC	(名詞) logicの訳: ⟪論理|ろんり⟫
+LOGICAL	(形容詞) 論理的な: 論理に適っているさま。
+LOGICS	(logicの変化形) (名詞) logicの訳: ⟪論理|ろんり⟫
+LOGISTICS	(名詞) 兵站: (民事) ある主目的である活動を支援するために、資源等を補給する活動及び機能。
+LOGS	(名詞) "log" の複数形: ⟪丸太|まるた⟫
+LOIN	(名詞) loinの訳: ⟪腰部|ようぶ⟫
+LOINS	(名詞) こし: 背中と尻の間。ウエストの後ろ側。
+LOITER	(動詞) loiterの訳: ⟪うろうろする|うろうろ⟫, ⟪ぶらつく⟫\n(名詞) loiterの訳: ぶらつくこと, 徘徊
+LOITERED	(動詞) loiterの過去形・過去分詞: ⟪うろうろする|うろうろ⟫, ⟪ぶらつく⟫
+LOITERING	(動詞) loiterの現在分詞: ⟪うろうろする|うろうろ⟫, ⟪ぶらつく⟫\n(名詞) loiteringの訳: ぶらつくこと, 徘徊
+LOITERS	(動詞) loiterの直説法現在第三人称単数形: ⟪うろうろする|うろうろ⟫, ⟪ぶらつく⟫\n(名詞) loiterの複数形: ⟪うろうろする|うろうろ⟫, ⟪ぶらつく⟫
+LOLLIES	(lollyの変化形) (名詞) 金銭: お金、銭。
+LOLLIPOP	(名詞) 棒の先に飴をつけたもの。ロリポップ。ペロペロキャンディ。
+LOLLIPOPS	(名詞) lollipopの複数形: 棒の先に飴をつけたもの。ロリポップ。ペロペロキャンディ。
+LOLLY	(名詞) 金銭: お金、銭。
+LONE	(形容詞) loneの訳: 孤立した
+LONELIER	(形容詞) lonelyの比較級: 寂しい, 孤独な
+LONELIEST	(形容詞) lonelyの最上級: 寂しい, 孤独な
+LONELILY	(lonelyの変化形) (形容詞) lonelyの訳: 寂しい, 孤独な
+LONELINESS	(名詞) 孤独: 身寄りや頼りになる相手が無く、独りであること。 (ほかに: 寂しさ)
+LONELINESSES	(名詞) lonelinessの複数形: 孤独: 身寄りや頼りになる相手が無く、独りであること。 (ほかに: 寂しさ)
+LONELY	(形容詞) lonelyの訳: 寂しい, 孤独な
+LONESOME	(形容詞) （気持ちが）孤独で寂しい。人恋しい。心細い。
+LONESOMELY	(lonesomeの変化形) (形容詞) （気持ちが）孤独で寂しい。人恋しい。心細い。
+LONESOMES	(lonesomeの変化形) (形容詞) （気持ちが）孤独で寂しい。人恋しい。心細い。
+LONG	(形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 長い)\n(動詞) longの訳: 熱望する
+LONGAN	(名詞) longanの訳: リュウガン
+LONGANS	(longanの変化形) (名詞) longanの訳: リュウガン
+LONGE	(名詞) 馬の調教で用いる長いロープ。調馬索。\n(動詞) ～に調馬索を行う。
+LONGED	(動詞) "long" の過去形・過去分詞形: 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGEING	(動詞) longeの動名詞又は現在分詞: 馬の調教で用いる長いロープ。調馬索。\n(名詞) 馬の調教手法の一つ。調馬索。
+LONGER	(形容詞) "long" の比較級: 遠い: （とおい）時間が離れている。 (ほかに: 長い)\n(副詞) "long" の比較級: 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGERS	(longの変化形) (形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGES	(longの変化形) (形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGEST	(形容詞) longの最上級: 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGEVITIES	(名詞) longevityの複数形: 長寿。長生き。
+LONGEVITY	(名詞) 長寿。長生き。
+LONGEVOUS	(形容詞) 長寿の。長生きの。
+LONGICORN	(名詞) longicornの訳: ⟪かみきりむし⟫
+LONGICORNS	(longicornの変化形) (名詞) longicornの訳: ⟪かみきりむし⟫
+LONGING	(名詞) 熱望。あこがれ。\n(動詞) longの現在分詞: 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGINGLY	(副詞) longinglyの訳: 切望して
+LONGINGS	(名詞) longingの複数形: 熱望。あこがれ。
+LONGISH	(形容詞) longishの訳: やや長い, 長めの
+LONGITUDE	(名詞) 長さ: （ながさ）(長) 2地点間の隔たり。 (ほかに: 長さの程度)
+LONGITUDES	(名詞) longitudeの複数形: 長さ: （ながさ）(長) 2地点間の隔たり。 (ほかに: 長さの程度)
+LONGITUDINAL	(名詞) 縦線: （じゅうせん / たてせん）縦の線。
+LONGNESS	(名詞) 長さ。長いこと。
+LONGNESSES	(名詞) longnessの複数形: 長さ。長いこと。
+LONGS	(動詞) "long" の三人称単数現在形: 遠い: （とおい）時間が離れている。 (ほかに: 長い)
+LONGTIME	(形容詞) 長期間の: 長い期間。長期。 (ほかに: 長年の, 積年の)
+LONGUEUR	(名詞) （劇や文学作品の）冗長で退屈な箇所。
+LONGUEURS	(名詞) longueurの複数形: （劇や文学作品の）冗長で退屈な箇所。
+LOOFA	(名詞) loofahの異綴。
+LOOFAH	(名詞) 糸瓜: （へちま）インド原産のウリ科の一年草。学名はLuffa cylindrica Roem又はLuffa aegyptica Mill。大型のきゅうり型の果実をつけ、それは、未熟なうちは食用に、熟すと強い繊維が発達したわしなどに用いられる。
+LOOFAHS	(名詞) loofahの複数形: 糸瓜: （へちま）インド原産のウリ科の一年草。学名はLuffa cylindrica Roem又はLuffa aegyptica...
+LOOFAS	(名詞) loofaの複数形: loofahの異綴。
+LOOK	(動詞) 見る: （みる）【見る・観る】かんがえる。判断する。推測する。\n(名詞) lookの訳: 見ること
+LOOKED	(動詞) lookの過去形・過去分詞: 見る: （みる）【見る・観る】かんがえる。判断する。推測する。\n(形容詞) lookedの訳: 見掛けが〜な
+LOOKER	(名詞) 観察者。物見の人。
+LOOKERS	(名詞) lookerの複数形: 観察者。物見の人。
+LOOKING	(動詞) lookの現在分詞・動名詞: 見る: （みる）【見る・観る】かんがえる。判断する。推測する。
+LOOKOUT	(名詞) lookoutの訳: 見張り所, 望楼
+LOOKOUTS	(名詞) lookoutの複数形: 見張り所, 望楼
+LOOKS	(名詞) "look" の複数形: 見る: （みる）【見る・観る】かんがえる。判断する。推測する。\n(動詞) "look" の三人称単数現在形: 見る: （みる）【見る・観る】かんがえる。判断する。推測する。
+LOOM	(動詞) loomの訳: おる, ⟪ひいる⟫
+LOOMED	(loomの変化形) (動詞) loomの訳: おる, ⟪ひいる⟫
+LOOMING	(loomの変化形) (動詞) loomの訳: おる, ⟪ひいる⟫
+LOOMS	(loomの変化形) (動詞) loomの訳: おる, ⟪ひいる⟫
+LOOP	(名詞) ループ。輪。環。\n(動詞) 輪状にする。環状にする；輪になる。環状になる。輪を作る。川が曲流する。
+LOOPED	(動詞) "loop" の過去形・過去分詞形: ループ。輪。環。
+LOOPING	(動詞) "loop" の動名詞形又は現在分詞形: ループ。輪。環。
+LOOPS	(名詞) "loop" の複数形: ループ。輪。環。\n(動詞) "loop" の三人称単数現在形: ループ。輪。環。
+LOOSE	(動詞) looseの訳: 解放する, 自由にする\n(形容詞) looseの訳: 結んでいない, 束ねていない
+LOOSED	(動詞) looseの過去形・過去分詞: 解放する, 自由にする
+LOOSEN	(動詞) 解く。ほどく。はずす；ほどける。はずれる。
+LOOSENED	(動詞) loosenの過去形・過去分詞: 解く。ほどく。はずす；ほどける。はずれる。\n(形容詞) 緩んだ。ぐらぐらした。
+LOOSENING	(動詞) loosenの動名詞又は現在分詞: 解く。ほどく。はずす；ほどける。はずれる。\n(名詞) 弛緩。緩和。
+LOOSENS	(動詞) loosenの直説法現在第三人称単数形: 解く。ほどく。はずす；ほどける。はずれる。
+LOOSER	(形容詞) "loose" の比較級形: 解放する, 自由にする\n(名詞) looseする人。
+LOOSES	(名詞) looseの複数形: 解放する, 自由にする\n(動詞) looseの直説法現在第三人称単数形: 解放する, 自由にする
+LOOSEST	(形容詞) "loose" の最上級形: 解放する, 自由にする
+LOOSING	(動詞) looseの動名詞又は現在分詞: 解放する, 自由にする
+LOOT	(名詞) 製塩所の塩釜から浮きかすを除去するのに用いる柄杓。\n(動詞) 略奪する。強奪する。
+LOOTED	(動詞) lootの過去形・過去分詞: 製塩所の塩釜から浮きかすを除去するのに用いる柄杓。
+LOOTER	(名詞) 略奪者: 略奪行為をする者。
+LOOTERS	(名詞) looterの複数形: 略奪者: 略奪行為をする者。
+LOOTING	(名詞) lootingの訳: ⟪略奪|りゃくだつ⟫\n(動詞) lootの現在分詞: 製塩所の塩釜から浮きかすを除去するのに用いる柄杓。
+LOOTS	(名詞) lootの複数形: 製塩所の塩釜から浮きかすを除去するのに用いる柄杓。\n(動詞) lootの直説法現在第三人称単数形: 製塩所の塩釜から浮きかすを除去するのに用いる柄杓。
+LOPE	(動詞) "leap" の過去形: 飛躍: 大きく進歩・発展すること。 (ほかに: 跳躍, 躍進)
+LOPED	(lopeの変化形) (動詞) "leap" の過去形。
+LOPES	(lopeの変化形) (動詞) "leap" の過去形。
+LOPING	(lopeの変化形) (動詞) "leap" の過去形。
+LOQUACIOUS	(形容詞) 饒舌な。多弁な。
+LOQUACIOUSLY	(副詞) 饒舌に。多弁に。
+LOQUACITIES	(名詞) loquacityの複数形: 饒舌。多弁。
+LOQUACITY	(名詞) 饒舌。多弁。
+LOQUAT	(名詞) loquatの訳: 枇杷
+LOQUATS	(loquatの変化形) (名詞) loquatの訳: 枇杷
+LORD	(名詞) 主: キリスト教における神、イエス・キリストの別称。 (ほかに: 一家の主人)\n(動詞) 支配する、主人のように振舞う。
+LORDED	(動詞) lordの過去形・過去分詞: 主: キリスト教における神、イエス・キリストの別称。 (ほかに: 一家の主人)
+LORDING	(動詞) "lord" の動名詞形又は現在分詞形: 主: キリスト教における神、イエス・キリストの別称。 (ほかに: 一家の主人)
+LORDINGS	(lordの変化形) (名詞) 主: キリスト教における神、イエス・キリストの別称。 (ほかに: 一家の主人)
+LORDS	(名詞) "lord" の複数形: 主: キリスト教における神、イエス・キリストの別称。 (ほかに: 一家の主人)\n(動詞) "lord" の三人称単数現在形: 主: キリスト教における神、イエス・キリストの別称。 (ほかに: 一家の主人)
+LORDSHIP	(名詞) lordshipの訳: ⟪君主|くんしゅ⟫
+LORDSHIPS	(lordshipの変化形) (名詞) lordshipの訳: ⟪君主|くんしゅ⟫
+LORN	(形容詞) lornの訳: 孤独な
+LORRIES	(lorryの変化形) (名詞) lorryの訳: トラック
+LORRY	(名詞) lorryの訳: トラック
+LOSABLE	(形容詞) 失われやすい。失くなりやすい。
+LOSE	(動詞) 失くす: なくす 参照 (ほかに: 失う)
+LOSER	(名詞) 敗北者: 競技などで敗北した者。敗者。敗残者。 (ほかに: 敗者, 敗残者)
+LOSERS	(名詞) "loser" の複数形: 敗北者: 競技などで敗北した者。敗者。敗残者。 (ほかに: 敗者, 敗残者)
+LOSES	(loseの変化形) (動詞) 失くす: なくす 参照 (ほかに: 失う)
+LOSING	(動詞) "lose" の動名詞形又は現在分詞形: 失くす: なくす 参照 (ほかに: 失う)
+LOSS	(名詞) 紛失: 物をなくすこと。
+LOSSES	(名詞) 特損: （会計）特別損失 の略。 (ほかに: 特別損失)
+LOST	(形容詞) lostの訳: 失われた
+LOT	(代名詞) （a lot,lotsで）たくさんの物事（lots ofは略式）。\n(副詞) lotの訳: ⟪大変|たいへん⟫, ⟪すごく⟫, 大いに
+LOTS	(lotの変化形) (代名詞) （a lot,lotsで）たくさんの物事（lots ofは略式）。
+LOTTED	(lotの変化形) (代名詞) （a lot,lotsで）たくさんの物事（lots ofは略式）。
+LOTTING	(lotの変化形) (代名詞) （a lot,lotsで）たくさんの物事（lots ofは略式）。
+LOTUS	(名詞) はす: ハス科の植物、またはその花（Nelumbo nucifera）。多年性で水生。地下茎は蓮根として食用になる。仏教やヒンズー教では宗教的象徴として用いられる。(花は夏の季語、実は秋の季語) (ほかに: はい)
+LOTUSES	(lotusの変化形) (名詞) はす: ハス科の植物、またはその花（Nelumbo nucifera）。多年性で水生。地下茎は蓮根として食用になる。仏教やヒンズー教では宗教的象徴として用いられる。(花は夏の季語、実は秋の季語) (ほかに: はい)
+LOUD	(形容詞) 騒がしい、大声の、声や音が大きい。\n(副詞) 騒がしく。大音量で。
+LOUDER	(形容詞) loudの比較級: 騒がしい、大声の、声や音が大きい。
+LOUDEST	(形容詞) loudの最上級: 騒がしい、大声の、声や音が大きい。
+LOUDLIER	(loudlyの変化形) (副詞) loudlyの訳: 大音量で, 大声で
+LOUDLIEST	(loudlyの変化形) (副詞) loudlyの訳: 大音量で, 大声で
+LOUDLY	(副詞) loudlyの訳: 大音量で, 大声で
+LOUDNESS	(名詞) 騒がしさ、喧騒、音や声の大きさ。
+LOUDNESSES	(loudnessの変化形) (名詞) 騒がしさ、喧騒、音や声の大きさ。
+LOUDSPEAKER	(名詞) スピーカー: 拡声器。「ラウドスピーカー」の略。 (ほかに: 拡声器)
+LOUDSPEAKERS	(名詞) loudspeakerの複数形: スピーカー: 拡声器。「ラウドスピーカー」の略。 (ほかに: 拡声器)
+LOUSE	(名詞) シラミ: 昆虫綱咀顎目シラミ亜目に属する昆虫の総称で動物に寄生して血を吸う。
+LOUSED	(louseの変化形) (名詞) シラミ: 昆虫綱咀顎目シラミ亜目に属する昆虫の総称で動物に寄生して血を吸う。
+LOUSES	(louseの変化形) (名詞) シラミ: 昆虫綱咀顎目シラミ亜目に属する昆虫の総称で動物に寄生して血を吸う。
+LOUSIER	(形容詞) lousyの比較級: 酷い: 非常に悪い。なっていない。 (ほかに: 卑劣な, 悪質な)
+LOUSIEST	(形容詞) lousyの最上級: 酷い: 非常に悪い。なっていない。 (ほかに: 卑劣な, 悪質な)
+LOUSING	(louseの変化形) (名詞) シラミ: 昆虫綱咀顎目シラミ亜目に属する昆虫の総称で動物に寄生して血を吸う。
+LOUSY	(形容詞) 酷い: 非常に悪い。なっていない。 (ほかに: 卑劣な, 悪質な)
+LOVE	(名詞) 恋: （こい）ある人に強く惹かれること。 (ほかに: 愛, 愛しみ)\n(動詞) 恋する。愛する。
+LOVED	(動詞) loveの過去形・過去分詞: 恋: （こい）ある人に強く惹かれること。 (ほかに: 愛, 愛しみ)\n(形容詞) lovedの訳: 最愛の, 親愛な
+LOVELIER	(lovelyの変化形) (形容詞) lovelyの訳: 美しい, 魅力的な
+LOVELIES	(lovelyの変化形) (形容詞) lovelyの訳: 美しい, 魅力的な
+LOVELIEST	(lovelyの変化形) (形容詞) lovelyの訳: 美しい, 魅力的な
+LOVELORN	(形容詞) lovelornの訳: 失恋した
+LOVELY	(形容詞) lovelyの訳: 美しい, 魅力的な\n(名詞) 美女: (びじょ) 美しい女性。[818年～]
+LOVER	(名詞) 恋人: （こいびと）恋しく思う相手。主に相思相愛の間柄にある相手。
+LOVERS	(名詞) "lover" の複数形: 恋人: （こいびと）恋しく思う相手。主に相思相愛の間柄にある相手。
+LOVES	(名詞) loveの複数形: 恋: （こい）ある人に強く惹かれること。 (ほかに: 愛, 愛しみ)\n(動詞) loveの三人称単数現在形: 恋: （こい）ある人に強く惹かれること。 (ほかに: 愛, 愛しみ)
+LOVESICK	(形容詞) lovesickの訳: 恋煩いの, 恋に悩む
+LOVESICKNESS	(名詞) lovesicknessの訳: ⟪恋煩い|こいわずらい⟫
+LOVESICKNESSES	(名詞) lovesicknessの複数形: ⟪恋煩い|こいわずらい⟫
+LOVING	(形容詞) lovingの訳: 愛情に満ちた\n(動詞) loveの動名詞又は現在分詞: 恋: （こい）ある人に強く惹かれること。 (ほかに: 愛, 愛しみ)
+LOVINGLY	(副詞) 愛情を込めて。親切に。
+LOW	(形容詞) lowの訳: 低い\n(副詞) lowの訳: 低く
+LOWBORN	(形容詞) low-bornの異綴。
+LOWED	(動詞) "low" の過去形・過去分詞形: 低い
+LOWER	(形容詞) lowの比較級: 低い\n(副詞) lowの比較級: 低い
+LOWERED	(動詞) lowerの過去形・過去分詞: lowの比較級: 低い
+LOWERING	(動詞) "lower" の動名詞形又は現在分詞形: lowの比較級: 低い
+LOWERS	(動詞) lowerの直説法現在第三人称単数形: lowの比較級: 低い
+LOWES	(lowの変化形) (形容詞) lowの訳: 低い
+LOWEST	(形容詞) "low" の最上級形: 低い
+LOWING	(動詞) "low" の動名詞形又は現在分詞形: 低い
+LOWINGS	(lowの変化形) (形容詞) lowの訳: 低い
+LOWLAND	(名詞) 低地: 低い土地。\n(形容詞) lowlandの訳: 低地の
+LOWLANDS	(名詞) lowlandの複数形: 低地: 低い土地。
+LOWLIER	(形容詞) lowlyの比較級: 低い: （ひくい）低音である。
+LOWLIEST	(形容詞) lowlyの最上級: 低い: （ひくい）低音である。
+LOWLY	(形容詞) 低い: （ひくい）低音である。\n(副詞) lowlyの訳: 低く, 謙虚に, 神妙に, 控えめに
+LOWS	(名詞) "low" の複数形: 低い\n(動詞) "low" の三人称単数現在形: 低い
+LOYAL	(形容詞) 忠実な。忠誠な。誠実な。
+LOYALER	(形容詞) loyalの比較級: 忠実な。忠誠な。誠実な。
+LOYALEST	(形容詞) loyalの最上級: 忠実な。忠誠な。誠実な。
+LOYALLY	(副詞) 忠実に。誠実に。
+LOYALTIES	(名詞) loyaltyの複数形: 誠実: 言葉や行動に嘘がなく、心がこもっていること。 (ほかに: 忠義, 忠実)
+LOYALTY	(名詞) 誠実: 言葉や行動に嘘がなく、心がこもっていること。 (ほかに: 忠義, 忠実)
+LOZENGE	(名詞) 《幾何》《稀》菱形 (rhombus) 、ダイヤモンド (diamond) 形
+LOZENGES	(名詞) lozenge の複数形: 《幾何》《稀》菱形 (rhombus) 、ダイヤモンド (diamond) 形
+LUBRICANT	(名詞) 円滑にするもの。
+LUBRICANTS	(名詞) lubricantの複数形: 円滑にするもの。
+LUBRICATE	(動詞) 油を差す。注油する。
+LUBRICATED	(動詞) lubricateの過去形・過去分詞: 油を差す。注油する。\n(形容詞) lubricatedの訳: 油を差した
+LUBRICATES	(動詞) lubricateの直説法現在第三人称単数形: 油を差す。注油する。
+LUBRICATING	(動詞) lubricateの現在分詞: 油を差す。注油する。\n(形容詞) lubricatingの訳: 潤滑の
+LUBRICATION	(名詞) 油を差すこと。滑らかにすること。
+LUBRICATIONS	(名詞) lubricationの複数形: 油を差すこと。滑らかにすること。
+LUBRICITIES	(名詞) lubricityの複数形: 滑らかさ
+LUBRICITY	(名詞) lubricityの訳: 滑らかさ
+LUCE	(名詞) ノーザンパイク
+LUCES	(luceの変化形) (名詞) ノーザンパイク
+LUCID	(形容詞) 明晰な。わかりやすい。
+LUCK	(名詞) luckの訳: 運
+LUCKED	(luckの変化形) (名詞) luckの訳: 運
+LUCKIER	(形容詞) "lucky" の比較級: 運のよい
+LUCKIES	(luckyの変化形) (形容詞) luckyの訳: 運のよい
+LUCKIEST	(形容詞) "lucky" の最上級: 運のよい
+LUCKILY	(副詞) luckilyの訳: 幸運にも
+LUCKING	(luckの変化形) (名詞) luckの訳: 運
+LUCKS	(luckの変化形) (名詞) luckの訳: 運
+LUCKY	(形容詞) luckyの訳: 運のよい
+LUCRATIVE	(形容詞) 儲かる: 利益、儲けになる。 (ほかに: 利益の大きい)
+LUCRE	(名詞) 金: （かね）金銭。 (ほかに: 儲け)
+LUCRES	(lucreの変化形) (名詞) 金: （かね）金銭。 (ほかに: 儲け)
+LUDICROUS	(形容詞) ludicrousの訳: ⟪ちゃんちゃらおかしい⟫
+LUES	(名詞) 梅毒: 梅毒トレポネーマ (Treponema pallidum) によって発生する感染症。性感染症の一つ。
+LUFFA	(名詞) loofahの異綴。
+LUFFAS	(名詞) luffaの複数形: loofahの異綴。
+LUGE	(名詞) リュージュ: そりに仰向けの状態で乗り、コースを滑走する速さを競う競技。
+LUGED	(lugeの変化形) (名詞) リュージュ: そりに仰向けの状態で乗り、コースを滑走する速さを競う競技。
+LUGEING	(lugeの変化形) (名詞) リュージュ: そりに仰向けの状態で乗り、コースを滑走する速さを競う競技。
+LUGER	(名詞) リュージュ選手
+LUGERS	(名詞) lugerの複数形: リュージュ選手
+LUGES	(lugeの変化形) (名詞) リュージュ: そりに仰向けの状態で乗り、コースを滑走する速さを競う競技。
+LUGGAGE	(名詞) 荷物。手荷物。
+LUGGAGES	(名詞) "luggage"の複数形: 荷物。手荷物。
+LUKEWARM	(形容詞) 生暖かい: 中途半端に暖かい。ぬるい。 (ほかに: ぬるい)
+LULLABIED	(lullabyの変化形) (名詞) 子守唄: 子供を寝かしつけたりあやしたりする時に歌われる歌。ララバイ。
+LULLABIES	(名詞) lullabyの複数形: 子守唄。
+LULLABY	(名詞) 子守唄: 子供を寝かしつけたりあやしたりする時に歌われる歌。ララバイ。
+LULLABYING	(lullabyの変化形) (名詞) 子守唄: 子供を寝かしつけたりあやしたりする時に歌われる歌。ララバイ。
+LULU	(名詞) luluの訳: 優れた人や物, 発想
+LULUS	(名詞) luluの複数形: 優れた人や物, 発想
+LUM	(名詞) lumの訳: 煙突
+LUMBAGO	(名詞) lumbagoの訳: 腰痛
+LUMBAGOS	(名詞) lumbagoの複数形: 腰痛
+LUMBAR	(形容詞) 腰の。腰部の。腰椎の。
+LUMBARS	(lumbarの変化形) (形容詞) 腰の。腰部の。腰椎の。
+LUMBER	(名詞) 材木、木材。[17世紀より]\n(動詞) lumberの訳: 重々しく動く
+LUMBERED	(lumberの変化形) (名詞) 材木、木材。[17世紀より]
+LUMBERING	(名詞) 重々しく動くこと。\n(形容詞) lumberingの訳: 不格好な, ⟪ぎこちない⟫
+LUMBERJACK	(名詞) lumberjackの訳: 樵\n(動詞) きこりとして働く。
+LUMBERJACKS	(名詞) lumberjackの複数形: 樵\n(動詞) lumberjackの直説法現在第三人称単数形: 樵
+LUMBERS	(動詞) lumberの直説法現在第三人称単数形: 材木、木材。[17世紀より]\n(名詞) lumberの複数形: 材木、木材。[17世紀より]
+LUMEN	(名詞) ルーメン: 国際単位系で光束の単位。1ルーメンは1カンデラの点光源から単位立体角（1ステラジアン）内に放射される光束。記号lm。
+LUMENS	(名詞) lumenの複数形: ルーメン: 国際単位系で光束の単位。1ルーメンは1カンデラの点光源から単位立体角（1ステラジアン）内に放射される光束。記号lm。
+LUMINA	(名詞) lumenの複数形: ルーメン: 国際単位系で光束の単位。1ルーメンは1カンデラの点光源から単位立体角（1ステラジアン）内に放射される光束。記号lm。
+LUMINANCE	(名詞) 光輝: 輝く光。輝光。
+LUMINANCES	(名詞) luminanceの複数形: 光輝: 輝く光。輝光。
+LUMINOSITIES	(名詞) luminosityの複数形: 輝き: 明るく光っている様子又はその光。 (ほかに: 聡明)
+LUMINOSITY	(名詞) 輝き: 明るく光っている様子又はその光。 (ほかに: 聡明)
+LUMINOUS	(形容詞) 光る: （才能などが）目立つ、際立つ。 (ほかに: 発光する)
+LUMINOUSLY	(副詞) luminouslyの訳: 輝かしく
+LUMP	(名詞) 欠片: （かけら）物の欠けた一部分。 (ほかに: 塊)\n(動詞) lumpの訳: 一纏めにする, 一括して扱う
+LUMPED	(動詞) lumpの過去形・過去分詞: 欠片: （かけら）物の欠けた一部分。 (ほかに: 塊)
+LUMPFISH	(名詞) lumpfishの訳: ダンゴウオ
+LUMPFISHES	(名詞) lumpfishの複数形: ダンゴウオ
+LUMPIER	(形容詞) lumpyの比較級: 塊の多い, でこぼこした, ごつごつした
+LUMPIEST	(形容詞) lumpyの最上級: 塊の多い, でこぼこした, ごつごつした
+LUMPILY	(lumpyの変化形) (形容詞) lumpyの訳: 塊の多い, でこぼこした, ごつごつした
+LUMPING	(lumpの変化形) (名詞) 欠片: （かけら）物の欠けた一部分。 (ほかに: 塊)
+LUMPISH	(形容詞) lumpishの訳: 塊のような
+LUMPISHLY	(lumpishの変化形) (形容詞) lumpishの訳: 塊のような
+LUMPS	(名詞) lumpの複数形: 欠片: （かけら）物の欠けた一部分。 (ほかに: 塊)\n(動詞) lumpの直説法現在第三人称単数形: 欠片: （かけら）物の欠けた一部分。 (ほかに: 塊)
+LUMPY	(形容詞) lumpyの訳: 塊の多い, でこぼこした, ごつごつした
+LUMS	(lumの変化形) (名詞) lumの訳: 煙突
+LUNACIES	(lunacyの変化形) (名詞) (不可算)精神異常。狂気。狂乱。錯乱。
+LUNACY	(名詞) (不可算)精神異常。狂気。狂乱。錯乱。
+LUNAR	(形容詞) 月の、月に関係のある。
+LUNARS	(lunarの変化形) (形容詞) 月の、月に関係のある。
+LUNATIC	(形容詞) 愚かな。馬鹿げた。
+LUNATICS	(名詞) lunaticの複数形: 愚かな。馬鹿げた。
+LUNCH	(名詞) 昼御飯。昼食。ランチ。\n(動詞) lunchの訳: 昼食をとる
+LUNCHED	(動詞) "lunch" の過去形・過去分詞形: 昼御飯。昼食。ランチ。
+LUNCHEON	(名詞) 午餐: 昼食をとること。 (ほかに: 昼の正餐)\n(動詞) luncheonの訳: 午餐をとる
+LUNCHEONS	(名詞) luncheonの複数形: 午餐: 昼食をとること。 (ほかに: 昼の正餐)\n(動詞) luncheonの直説法現在第三人称単数形: 午餐: 昼食をとること。 (ほかに: 昼の正餐)
+LUNCHES	(名詞) "lunch" の複数形: 昼御飯。昼食。ランチ。\n(動詞) "lunch" の三人称単数現在形: 昼御飯。昼食。ランチ。
+LUNCHING	(動詞) "lunch" の動名詞形又は現在分詞形: 昼御飯。昼食。ランチ。
+LUNE	(名詞) 弓形。三日月形。
+LUNES	(名詞) luneの複数形: 弓形。三日月形。
+LUNG	(名詞) 肺: （ハイ）両生類より進化の進んだ脊椎動物の空気呼吸を行う器官。肺臓。 (ほかに: 肺臓)
+LUNGS	(名詞) "lung" の複数形: 肺: （ハイ）両生類より進化の進んだ脊椎動物の空気呼吸を行う器官。肺臓。 (ほかに: 肺臓)
+LUPINE	(形容詞) オオカミ: 狼の生物学等における学術的表記。その他の用法は、「おおかみ」又は「狼」を参照。
+LUPINES	(lupineの変化形) (形容詞) オオカミ: 狼の生物学等における学術的表記。その他の用法は、「おおかみ」又は「狼」を参照。
+LURCH	(名詞) 窮地: 都から極めて遠く隔たった地。僻陬。僻地。 (ほかに: 窮状)
+LURCHED	(lurchの変化形) (名詞) 窮地: 都から極めて遠く隔たった地。僻陬。僻地。 (ほかに: 窮状)
+LURCHES	(lurchの変化形) (名詞) 窮地: 都から極めて遠く隔たった地。僻陬。僻地。 (ほかに: 窮状)
+LURCHING	(lurchの変化形) (名詞) 窮地: 都から極めて遠く隔たった地。僻陬。僻地。 (ほかに: 窮状)
+LURE	(動詞) lureの訳: ⟪さそいこむ⟫
+LURED	(lureの変化形) (動詞) lureの訳: ⟪さそいこむ⟫
+LURER	(lureの変化形) (動詞) lureの訳: ⟪さそいこむ⟫
+LURES	(lureの変化形) (動詞) lureの訳: ⟪さそいこむ⟫
+LURING	(lureの変化形) (動詞) lureの訳: ⟪さそいこむ⟫
+LURK	(動詞) lurkの訳: ⟪潜む|ひそむ⟫, 隠れる\n(名詞) lurkの訳: 詐欺, ぺてん
+LURKED	(動詞) lurkの過去形・過去分詞: ⟪潜む|ひそむ⟫, 隠れる
+LURKER	(名詞) 潜んでいる人、待ち伏せする人。
+LURKERS	(名詞) lurkerの複数形: 潜んでいる人、待ち伏せする人。
+LURKING	(動詞) lurkの現在分詞: ⟪潜む|ひそむ⟫, 隠れる\n(名詞) lurkingの訳: 潜むこと, 待ち伏せ
+LURKS	(動詞) lurkの直説法現在第三人称単数形: ⟪潜む|ひそむ⟫, 隠れる\n(名詞) lurkの複数形: ⟪潜む|ひそむ⟫, 隠れる
+LUST	(名詞) lustの訳: 性欲, 情欲\n(動詞) 欲情する: （よくじょうする）物を欲しがる。 (ほかに: 切望する, 渇望する)
+LUSTED	(動詞) lustの過去形・過去分詞: 性欲, 情欲
+LUSTER	(名詞) lusterの訳: 光沢, 艶, ⟪輝き|かがやき⟫\n(動詞) lusterの訳: ⟪煌めく|きらめく⟫, 光沢がある
+LUSTERED	(動詞) lusterの過去形・過去分詞: 光沢, 艶, ⟪輝き|かがやき⟫
+LUSTERING	(動詞) lusterの現在分詞: 光沢, 艶, ⟪輝き|かがやき⟫
+LUSTERS	(名詞) lusterの複数形: 光沢, 艶, ⟪輝き|かがやき⟫\n(動詞) lusterの直説法現在第三人称単数形: 光沢, 艶, ⟪輝き|かがやき⟫
+LUSTERWARE	(名詞) ラスターウェア。
+LUSTERWARES	(名詞) lusterwareの複数形: ラスターウェア。
+LUSTFUL	(形容詞) 貪欲な: （とんよく）十悪の一つ。欲深いこと。
+LUSTFULLY	(副詞) lustfullyの訳: 好色に, 淫らに
+LUSTFULNESS	(名詞) lustfulnessの訳: 好色さ, 淫らなこと
+LUSTFULNESSES	(名詞) lustfulnessの複数形: 好色さ, 淫らなこと
+LUSTIER	(形容詞) lustyの比較級: 力強い: （ちからづよい）頼もしい、心強い。 (ほかに: 元気な)
+LUSTIEST	(形容詞) lustyの最上級: 力強い: （ちからづよい）頼もしい、心強い。 (ほかに: 元気な)
+LUSTING	(lustの変化形) (名詞) lustの訳: 性欲, 情欲
+LUSTROUS	(形容詞) 光沢のある。つややかな。
+LUSTROUSLY	(lustrousの変化形) (形容詞) 光沢のある。つややかな。
+LUSTS	(動詞) lustの直説法現在第三人称単数形: 性欲, 情欲\n(名詞) lustの複数形: 性欲, 情欲
+LUSTY	(形容詞) 力強い: （ちからづよい）頼もしい、心強い。 (ほかに: 元気な)
+LUTETIUM	(名詞) lutetiumの訳: ルテチウム
+LUTETIUMS	(lutetiumの変化形) (名詞) lutetiumの訳: ルテチウム
+LUX	(名詞) ルクス: 国際単位系における照度の単位。1平方メートルの面積に1ルーメンの光束が均等に分布しているときの照度。記号はlx。ルックス。\n(動詞) luxの訳: 関節を外す
+LUXATE	(動詞) 関節を外す。脱臼させる。\n(形容詞) luxateの訳: 脱臼の
+LUXATED	(luxateの変化形) (動詞) 関節を外す。脱臼させる。
+LUXATES	(luxateの変化形) (動詞) 関節を外す。脱臼させる。
+LUXATING	(luxateの変化形) (動詞) 関節を外す。脱臼させる。
+LUXATION	(名詞) luxationの訳: 脱臼
+LUXATIONS	(luxationの変化形) (名詞) luxationの訳: 脱臼
+LUXES	(luxの変化形) (名詞) ルクス: 国際単位系における照度の単位。1平方メートルの面積に1ルーメンの光束が均等に分布しているときの照度。記号はlx。ルックス。
+LUXURIANCE	(名詞) luxurianceの訳: 繁茂, ⟪豊富|ほうふ⟫, ⟪華麗|かれい⟫
+LUXURIANCES	(luxurianceの変化形) (名詞) luxurianceの訳: 繁茂, ⟪豊富|ほうふ⟫, ⟪華麗|かれい⟫
+LUXURIANT	(形容詞) luxuriantの訳: 茂った, 繁茂した
+LUXURIATE	(動詞) 耽る: 一つの事に夢中になる。
+LUXURIATED	(動詞) "luxuriate" の過去形・過去分詞形: 耽る: 一つの事に夢中になる。
+LUXURIATES	(動詞) "luxuriate" の三人称単数現在形: 耽る: 一つの事に夢中になる。
+LUXURIATING	(動詞) "luxuriate" の動名詞形又は現在分詞形: 耽る: 一つの事に夢中になる。
+LUXURIES	(luxuryの変化形) (名詞) 贅沢: 必要以上に金銭や物を使うこと。それを望むこと。また、そのさま。
+LUXURIOUS	(形容詞) 贅沢な: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 豪華な)
+LUXURIOUSLY	(副詞) 贅沢に: 金銭やものを多くかけていること。また、そのさま。奢侈。 (ほかに: 豪華に)
+LUXURY	(名詞) 贅沢: 必要以上に金銭や物を使うこと。それを望むこと。また、そのさま。\n(形容詞) luxuryの訳: 贅沢な, 豪華な
+LYCANTHROPE	(名詞) (神話、ファンタジー) (主に満月の夜に)狼に変身するという人間。狼男。ワーウルフ。
+LYCANTHROPES	(lycanthropeの変化形) (名詞) (神話、ファンタジー) (主に満月の夜に)狼に変身するという人間。狼男。ワーウルフ。
+LYCEE	(名詞) lycéeの異綴。
+LYCEES	(名詞) lyceeの複数形: lycéeの異綴。
+LYCHEE	(名詞) lycheeの訳: 茘枝, ⟪レイシ|れいし⟫, ライチ
+LYCHEES	(lycheeの変化形) (名詞) lycheeの訳: 茘枝, ⟪レイシ|れいし⟫, ライチ
+LYING	(名詞) 偽り: 偽ること。嘘。虚偽。\n(形容詞) lyingの訳: 偽りの
+LYINGS	(lieの変化形) (動詞) 横たわる。横になる。寝そべる。寝転がる。
+LYMPHOCYTE	(名詞) リンパ球: 白血球の一つ。T細胞、B細胞、ナチュラルキラー細胞の総称。ウイルスや腫瘍細胞などの捕食、消化を行う。
+LYMPHOCYTES	(名詞) lymphocyteの複数形: リンパ球: 白血球の一つ。T細胞、B細胞、ナチュラルキラー細胞の総称。ウイルスや腫瘍細胞などの捕食、消化を行う。
+LYMPHOMA	(名詞) lymphomaの訳: リンパ腫
+LYMPHOMAS	(lymphomaの変化形) (名詞) lymphomaの訳: リンパ腫
+LYMPHOMATA	(lymphomaの変化形) (名詞) lymphomaの訳: リンパ腫
+LYNCH	(動詞) 私刑により殺す、裁判抜きで絞首刑にする。\n(名詞) linchの異形。
+LYNCHED	(動詞) lynchの過去形・過去分詞: 私刑により殺す、裁判抜きで絞首刑にする。
+LYNCHER	(名詞) lyncherの訳: リンチする人
+LYNCHERS	(名詞) lyncherの複数形: リンチする人
+LYNCHES	(動詞) lynchの直説法現在第三人称単数形: 私刑により殺す、裁判抜きで絞首刑にする。\n(名詞) lynchの複数形: 私刑により殺す、裁判抜きで絞首刑にする。
+LYNCHING	(名詞) 私刑による殺害。\n(動詞) lynchの現在分詞: 私刑により殺す、裁判抜きで絞首刑にする。
+LYNCHINGS	(名詞) lynchingの複数形: 私刑による殺害。
+LYNX	(名詞) lynxの訳: ⟪オオヤマネコ|おおやまねこ⟫
+LYNXES	(名詞) lynxの複数形: ⟪オオヤマネコ|おおやまねこ⟫
+LYRE	(名詞) リラ: 古代ギリシア、エジプトなどで使用された小型の竪琴。 (ほかに: 竪琴)\n(動詞) lyreの訳: リラを弾く
+LYREBIRD	(名詞) lyrebirdの訳: コトドリ
+LYREBIRDS	(名詞) lyrebirdの複数形: コトドリ
+LYRES	(名詞) lyreの複数形: リラ: 古代ギリシア、エジプトなどで使用された小型の竪琴。 (ほかに: 竪琴)\n(動詞) lyreの直説法現在第三人称単数形: リラ: 古代ギリシア、エジプトなどで使用された小型の竪琴。 (ほかに: 竪琴)
+LYRIC	(名詞) lyricの訳: 叙情詩\n(形容詞) lyricの訳: 叙情詩の, 叙情詩を書く
+LYRICAL	(形容詞) 歌詞の: (かし) 歌曲・歌劇などで節を付けて歌う言葉。
+LYRICALLY	(副詞) lyricallyの訳: 軽やかに
+LYRICIST	(名詞) 作詞者: ある歌詞の創作をした人。 (ほかに: 作詞家)
+LYRICISTS	(lyricistの変化形) (名詞) 作詞者: ある歌詞の創作をした人。 (ほかに: 作詞家)
+LYRICS	(名詞) lyricの複数形: 叙情詩
+LYSINE	(名詞) リジン。アミノ酸の一つ。三文字表記 Lys、一文字表記 K。
+LYSINES	(lysineの変化形) (名詞) リジン。アミノ酸の一つ。三文字表記 Lys、一文字表記 K。
+LYSSA	(名詞) 狂犬病: 狂犬病ウイルスによる人獣共通の感染症。発病すると、唾液の過剰分泌や食欲不振、不眠などの症状を呈する。また、風や光などの刺激に過敏に反応し、特に水を見たり飲んだりすると喉の筋肉が痙攣する。発病した場合の致死率はほぼ100パーセント。
+LYSSAS	(lyssaの変化形) (名詞) 狂犬病:...

@@ -1,0 +1,113 @@
+やいし	(ad) cenk: savaş (ayrıca: muharebe, harp)
+やいば	(ad) avantaj: fayda, yarar (ayrıca: kenar, kıyı)
+やえい	(ad) kamp: tutsakların veya siyasal sürgünlerin toplanıldığı yer
+やおや	(ad) manav: Sebze ve meyve satılan yer
+やおよろず	(ad) çokluk: sayı veya ölçü yönünden çok olma durumu, çoğul, kesret, ekseriyet, teklik karşıtı (ayrıca: tümen)
+やかた	(ad) konak: yolculukta geceyi geçirmek için inilen, konaklanılan yer
+やかましい	(sıfat) やかましい kelimesinin karşılığı: ⟪gürültülü|GÜRÜLTÜLÜ⟫
+やから	(ad) grup: kategori. (ayrıca: öbek, zümre)
+やがい	(ad) cisim: Boş olmayan bir küme üzerinde '+' ve '×' ikili işlemleri tanımlanan ve bu kümenen '+' işlemiyle bir değişmeli grup ve bu değişmeli grubunun etkisiz elemanı hariç olan kümeyle '×' işlemi ikinci bir değişmeli grup meydana getirmesi ve '×' işleminin sağdan ve soldan '+' işlemi üzerine dağılma özelliği... (ayrıca: tarla, saha)
+やがて	(zarf) sonunda: en son zamanda, nihayetinde (ayrıca: nihayetinde)
+やきもち	(ad) やきもち kelimesinin karşılığı: ⟪günü|GÜNÜ⟫, ⟪kıskançlık|KISKANÇLIK⟫
+やきゅう	(ad) やきゅう kelimesinin karşılığı: ⟪beyzbol|BEYZBOL⟫
+やぎゅう	(ad) やぎゅう kelimesinin karşılığı: ⟪bizon|BİZON⟫
+やくざ	(ad) やくざ kavramının farklı yazılışı
+やくしゃ	(ad) mütercim: Yazılmış ve basılmış metinleri bir dilden bir veya birkaç dile çeviren kişi, tercüman, çevirmen (ayrıca: çevirmen, çevirici)
+やくしょ	(ad) hükûmet: Hükûmet konağı: (ayrıca: kabine, yöneltme)
+やくしん	(ad) delme: Delmek işi. (ayrıca: delip geçme)
+やくじょう	(ad) kavil: anlaşma, sözleşme (ayrıca: uyum)\n(eylem) atamak: birini bir göreve getirmek, tayin etmek (ayrıca: tayin etmek, düzenlemek)
+やくそく	(ad) やくそく kelimesinin karşılığı: ⟪vaat|VAAT⟫, ⟪vadetme|VADETME⟫\n(eylem) vadetmek: Bir işi yerine getireceğine söz vermek (ayrıca: ahdetmek, söz vermek)
+やくだい	(ad) uyuşturucu: uyuşturucu madde kavramının kısa şekli (ayrıca: ilaç, uyuşturucu madde)
+やくどう	(ad) kuvvet: Bir cismin konumunun, hareket özelliğinin veya şeklinin değişmesine sebep olan tesir, güç (ayrıca: erke, dinamizm)\n(eylem) ciltlenmek: ciltleme işi yapılmak
+やくにん	(ad) subay: silahlı kuvvetlerde asteğmenden orgeneral veya oramiral kadar rütbedeki asker
+やくぶつ	(ad) uyuşturucu: uyuşturucu madde kavramının kısa şekli (ayrıca: ilaç, uyuşturucu madde)
+やくめ	(ad) görev: Bir cümlede bir dil biriminin öbür birimlerle ilişkisi aracılığıyla yerine getirdiği iş. (ayrıca: rol, vazife)
+やくわり	(ad) rol: bir işte kişi veya şeyin üstüne düşen görev, üstlence
+やけこげ	(ad) yanma: yanmak işi, yangın (ayrıca: yanık)
+やけつく	(eylem) yanmak: parlamak, parıldamak (ayrıca: parlamak, yakmak)
+やけど	(ad) やけど kelimesinin karşılığı: ⟪yanık|YANIK⟫, ⟪yanma|YANMA⟫\n(eylem) yanmak: ısı etkisiyle vücudun bir yanının yara olması, kızarması veya renginin koyulaşması (ayrıca: parlamak, yakmak)
+やけに	(zarf) tam: o sırada, o anda (ayrıca: bayağı, pek)
+やけの	(ad) cisim: Boş olmayan bir küme üzerinde '+' ve '×' ikili işlemleri tanımlanan ve bu kümenen '+' işlemiyle bir değişmeli grup ve bu değişmeli grubunun etkisiz elemanı hariç olan kümeyle '×' işlemi ikinci bir değişmeli grup meydana getirmesi ve '×' işleminin sağdan ve soldan '+' işlemi üzerine dağılma özelliği... (ayrıca: tarla, saha)
+やけのがはら	(ad) cisim: Boş olmayan bir küme üzerinde '+' ve '×' ikili işlemleri tanımlanan ve bu kümenen '+' işlemiyle bir değişmeli grup ve bu değişmeli grubunun etkisiz elemanı hariç olan kümeyle '×' işlemi ikinci bir değişmeli grup meydana getirmesi ve '×' işleminin sağdan ve soldan '+' işlemi üzerine dağılma özelliği... (ayrıca: tarla, saha)
+やけののはら	(ad) cisim: Boş olmayan bir küme üzerinde '+' ve '×' ikili işlemleri tanımlanan ve bu kümenen '+' işlemiyle bir değişmeli grup ve bu değişmeli grubunun etkisiz elemanı hariç olan kümeyle '×' işlemi ikinci bir değişmeli grup meydana getirmesi ve '×' işleminin sağdan ve soldan '+' işlemi üzerine dağılma özelliği... (ayrıca: tarla, saha)
+やけのはら	(ad) cisim: Boş olmayan bir küme üzerinde '+' ve '×' ikili işlemleri tanımlanan ve bu kümenen '+' işlemiyle bir değişmeli grup ve bu değişmeli grubunun etkisiz elemanı hariç olan kümeyle '×' işlemi ikinci bir değişmeli grup meydana getirmesi ve '×' işleminin sağdan ve soldan '+' işlemi üzerine dağılma özelliği... (ayrıca: tarla, saha)
+やけはら	(ad) cisim: Boş olmayan bir küme üzerinde '+' ve '×' ikili işlemleri tanımlanan ve bu kümenen '+' işlemiyle bir değişmeli grup ve bu değişmeli grubunun etkisiz elemanı hariç olan kümeyle '×' işlemi ikinci bir değişmeli grup meydana getirmesi ve '×' işleminin sağdan ve soldan '+' işlemi üzerine dağılma özelliği... (ayrıca: tarla, saha)
+やける	(eylem) やける kelimesinin karşılığı: ⟪tabaklamak|TABAKLAMAK⟫
+やさい	(ad) sebze: genellikle pişirilerek yenen bitkiler veya bunların taneleri, göveri, göverti, sebzevat, zerzevat
+やさき	(ad) baş: Bir şeyin başladığı zaman veya yer: (ayrıca: başlangıç, başlama)
+やさぐれ	(ad) duyarsızlık: duyarsız olma durumu
+やさしい	(sıfat) kolay: sıkıntı çekmeden, yorulmadan yapılabilen, emeksiz, zahmetsiz, güç ve zor karşıtı
+やしき	(ad) mekân: ev, yurt (ayrıca: konak, konut)
+やしなう	(eylem) beslemek: Maddi yardım yapmak.
+やしょく	(ad) やしょく kelimesinin karşılığı: gece yarısı, ara öğün, akşam yemeği
+やしん	(ad) ihtiras: aşırı, güçlü istek
+やじるし	(ad) ok: yayla atılan, ucunda sivri bir demir bulunan ince ve kısa tahta çubuk
+やじん	(ad) sivil: Askerî olmayan
+やすあがり	(sıfat) ucuz: Fiyatı yüksek olmayan, pahası az, düşük fiyatlı.
+やすい	(sıfat) kolay: kolayca, sıkıntısız bir biçimde, basitçe
+やすうり	(ad) satım: satma işi, satış (ayrıca: ucuzluk, satış)
+やすっぽい	(sıfat) ucuz: Fiyatı yüksek olmayan, pahası az, düşük fiyatlı.
+やすで	(ad) やすで kelimesinin karşılığı: ⟪kırkayak|KIRKAYAK⟫
+やすまる	(eylem) dayamak: Vakit geçirmeden, bekletmeden vermek.
+やすみ	(ad) duruş: durmak işi. (ayrıca: gaf, ara)
+やすむ	(eylem) dayamak: Vakit geçirmeden, bekletmeden vermek.
+やすらか	(sıfat) emin: güvenli (ayrıca: uslu, huzurlu)
+やすらぎ	(ad) huzur: Dirlik, baş dinçliği, gönül rahatlığı. (ayrıca: barış, sulh)
+やすり	(ad) törpü: ağaç, kurşun, kalay vb. yumuşak metallerin kabasını almaya yarayan, dişleri uzun ve aralıklı olan eğe (ayrıca: dosya, eğe)
+やせい	(sıfat) yabani: Doğada kendiliğinden yetişen bitki. (ayrıca: vahşi)
+やせる	(eylem) düşmek: yere devrilmek, yere serilmek (ayrıca: elde etmek, ele geçirmek)
+やたら	(sıfat) やたら kelimesinin karşılığı: ⟪rassal|RASSAL⟫\n(zarf) acele: vakit geçirmeden, tez olarak, telesik, celt, tez telesik.
+やちん	(ad) kira: bu biçimde tutulan bir şey için karşılık olarak ödenen para
+やっきょく	(ad) eczane: İlaçların hazırlandığı veya hazır ilaçların satıldığı yer.
+やっこ	(ad) やっこ kelimesinin karşılığı: ⟪odacı|ODACI⟫\n(zamir) o: (kişi adılı): 3. tekil şahıs şahıs zamiri
+やっつける	(eylem) saldırmak: Etkisiyle eritmek
+やっと	(zarf) sonunda: en son zamanda, nihayetinde
+やっとこ	(ad) makas: Çalma, kırpma.
+やづつ	(ad) sadak: içine ok konulan torba veya kutu biçiminde kılıf; gedeleç, okluk
+やといぬし	(ad) işveren: işçileri ücretle çalıştıran gerçek veya tüzel kişi, çalıştıran, patron
+やとう	(ad) muhalefet: demokraside iktidarın dışında olan parti veya partiler
+やとわれ	(ad) çalışan: çalışma işini yapan kişi (ayrıca: hizmetli, eleman)
+やどす	(eylem) taşımak: katlanmak, üstlenmek, yüklenmek, çekmek (ayrıca: beslemek, götürmek)
+やどや	(ad) han: doğu ülkelerinde kullanılan unvan (ayrıca: konak, meyhane)
+やどる	(eylem) oturmak: yer almak, geçmek (ayrıca: oturulmak)
+やなぎ	(ad) やなぎ kelimesinin karşılığı: ⟪söğüt|SÖĞÜT⟫
+やはん	(ad) やはん kelimesinin karşılığı: gece yarısı
+やばい	(sıfat) tehlikeli: Tehlikesi olan; muhataralı
+やばん	(sıfat) barbar: uygarlaşmamış
+やぶく	(eylem) yırtmak: yok etmek, bastırmak (ayrıca: parçalamak)
+やぶさか	(sıfat) hazır: Fırsattan yararlanarak. (ayrıca: amade, anık)
+やぶる	(eylem) bozmak: (mecaz) kötü duruma getirmek. (ayrıca: kırmak, siyahlaşmak)
+やぶれかぶれ	(ad) çaresizlik: çaresiz olma durumu
+やぼう	(ad) ihtiras: aşırı, güçlü istek
+やぼてん	(ad) ayılık: kabalık, kaba davranış
+やまい	(ad) hastalık: Organizmada birtakım değişikliklerin ortaya çıkmasıyla sağlığın bozulması durumu, esenlik karşıtı; rahatsızlık, çor, dert, sayrılık, illet, maraz, maraza, zor. (ayrıca: illet, sayrılık)
+やまうずら	(ad) keklik: sülüngillerden, güvercin büyüklüğünde, eti için avlanan, tüyü boz, ayakları ve gagası kırmızı renkte bir kuş (Perdrix), çil keklik
+やまくずれ	(ad) çığ: dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi
+やまことば	(ad) dağ: coğrafya, jeomorfoloji, tabii bilimler
+やましい	(sıfat) suçlu: suç işlemiş, suç olan, kabahatli, mücrim
+やまづみ	(ad) yığın: Bir şeyin yığılmasıyla oluşturulan küme, tepe. (ayrıca: istif)
+やまと	(ad) huzur: Dirlik, baş dinçliği, gönül rahatlığı. (ayrıca: barış, sulh)
+やまなみ	(ad) menzil: bir merminin ulaşabildiği uzaklık
+やまならし	(ad) やまならし kelimesinin karşılığı: acı kavak, dağ kavağı, titrek kavak
+やまね	(ad) やまね kelimesinin karşılığı: ⟪kakırca|KAKIRCA⟫, fındık faresi, yediuyur
+やまば	(ad) tepe: Bir yerin, bir nesnenin vb.nin üstü, hizası: (ayrıca: zirve, cunda)
+やみおち	(ad) yolsuzluk: (mecaz) bir görevi, bir yetkiyi kötüye kullanma
+やみくも	(sıfat) kör: Duyarlığını yitirmiş (ayrıca: görme engelli)
+やみつき	(ad) hasta: Hastalık, kaza veya yaralanma dolayısıyla fizik veya ruh sağlığı bozulmuş ve tedavi edilmesi gereken insan, hayvan veya organ.
+やめる	(eylem) durdurmak: durmasını sağlamak (ayrıca: durmak, alıkoymak)
+やもお	(ad) dul: eşi ölmüş veya eşinden boşanmış kadın veya erkek
+やもめ	(ad) やもめ kelimesinin karşılığı: ⟪azlık|AZLIK⟫, ⟪azınlık|AZINLIK⟫
+ややこ	(ad) yavru: (mecaz) Bir şeyin küçüğü; kuzu (ayrıca: bebek)
+ややこしい	(sıfat) karmaşık: ögelerinin veya gerekli işlemlerin sayısının çokluğu, çeşitliliği yüzünden anlaşılması, yapılması güç olan, komplike
+ややもすれば	(zarf) kolayca: Sıkıntı çekmeden; kolay, kolay kolay, asan (ayrıca: rahat rahat)
+やりくち	(ad) yol: Uyulan ilke. (ayrıca: yolla, metot)
+やりこなす	(eylem) yönetmek: birinin bir konudaki etkinliğine, çalışmasına yön vermek, birini yönlendirmek (ayrıca: idare etmek)
+やりそこなう	(eylem) やりそこなう kelimesinin karşılığı: sınıfta bırakmak
+やりとげる	(eylem) başarmak: işi istenilen biçimde bitirmek, muvaffak olmak
+やりとり	(ad) やりとり kelimesinin karşılığı: ⟪takas|TAKAS⟫, ⟪değiş|DEĞİŞ⟫, ⟪değiştirme|DEĞİŞTİRME⟫\n(eylem) etkileşmek: Karşılıklı olarak birbirini etkilemek
+やるき	(ad) istek: bir şeye duyulan eğilim, arzu, şevk, heves (ayrıca: sürme, sürü)
+やろう	(ad) piç: orospu çocuğu (ayrıca: orospu çocuğu, melez)
+やわら	(zarf) やわら kelimesinin karşılığı: ⟪kibarca|KİBARCA⟫, ⟪yavaş|YAVAŞ⟫, ⟪yavaşça|YAVAŞÇA⟫\n(sıfat) yumuşak: ılıman. (ayrıca: pes)
+やわらか	(sıfat) yumuşak: kolaylıkla bükülen, buruşmayan. (ayrıca: pes)
+やわらかい	(sıfat) yumuşak: kolaylıkla bükülen, buruşmayan. (ayrıca: pes)
+やんわり	(zarf) kibarca: kibar bir insana yakışacak biçimde, kibarcasına

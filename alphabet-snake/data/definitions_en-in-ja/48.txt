@@ -1,0 +1,1703 @@
+HABILIMENT	(名詞) 衣服: 防寒、制汗、日除け、害虫除け又は裸体を隠す目的等で身につける主に布でできている製品。 (ほかに: 服装)
+HABILIMENTS	(名詞) habilimentの複数形: 衣服: 防寒、制汗、日除け、害虫除け又は裸体を隠す目的等で身につける主に布でできている製品。 (ほかに: 服装)
+HABIT	(名詞) 習慣。癖。\n(動詞) habitの訳: 服を着る
+HABITABILITIES	(名詞) habitabilityの複数形: 居住可能性
+HABITABILITY	(名詞) habitabilityの訳: 居住可能性
+HABITABLE	(形容詞) 住むのに適した。
+HABITAN	(名詞) habitantの廃用。
+HABITANS	(名詞) habitanの複数形: habitantの廃用。
+HABITAT	(名詞) 生息地。生育地。
+HABITATION	(名詞) habitationの訳: ⟪居住|きょじゅう⟫
+HABITATIONS	(名詞) habitationの複数形: ⟪居住|きょじゅう⟫
+HABITATS	(名詞) habitatの複数形: 生息地。生育地。
+HABITED	(動詞) "habit" の過去形・過去分詞形: 習慣。癖。
+HABITING	(動詞) "habit" の動名詞形又は現在分詞形: 習慣。癖。
+HABITS	(名詞) "habit" の複数形: 習慣。癖。\n(動詞) "habit" の三人称単数現在形: 習慣。癖。
+HABITUAL	(形容詞) 習慣的な。いつもの。\n(名詞) habitualの訳: 常習者
+HABITUALLY	(副詞) 習慣的に: 習慣に関すること、習慣となっていること。また、そのさま。 (ほかに: 習慣として)
+HABITUATE	(動詞) habituateの訳: ⟪慣らす|ならす⟫, 習慣づける
+HABITUATED	(動詞) habituateの過去形・過去分詞: ⟪慣らす|ならす⟫, 習慣づける
+HABITUATES	(動詞) habituateの直説法現在第三人称単数形: ⟪慣らす|ならす⟫, 習慣づける
+HABITUATING	(動詞) habituateの現在分詞: ⟪慣らす|ならす⟫, 習慣づける\n(形容詞) habituatingの訳: 習慣性の, 常習性の
+HABITUATION	(名詞) habituationの訳: 慣れ, 習慣化, 順化
+HABITUATIONS	(名詞) habituationの複数形: 慣れ, 習慣化, 順化
+HABITUDE	(名詞) 習性: 習慣によって身に付いた性質。 (ほかに: 習慣, 慣習)
+HABITUDES	(名詞) habitudeの複数形: 習性: 習慣によって身に付いた性質。 (ほかに: 習慣, 慣習)
+HABITUE	(名詞) habituéの異綴。
+HABITUES	(名詞) habitueの複数形: habituéの異綴。
+HACKBERRIES	(hackberryの変化形) (名詞) 榎: （えのき）バラ目エノキ属に属する落葉樹の一種。学名:Celtis sinensis。 (ほかに: えのき)
+HACKBERRY	(名詞) 榎: （えのき）バラ目エノキ属に属する落葉樹の一種。学名:Celtis sinensis。 (ほかに: えのき)
+HACKER	(名詞) hackerの訳: ハッカー
+HACKERS	(hackerの変化形) (名詞) hackerの訳: ハッカー
+HACKNEYED	(形容詞) 陳腐な。ありふれた。\n(動詞) hackneyの過去形・過去分詞。
+HAD	(動詞) hadの訳: 持っていた, 持った 等\n(形容詞) hadの訳: 役に立つ
+HADDEST	(haveの変化形) (動詞) 所有する。持つ。（類義語 possess, own, hold）
+HADDOCK	(名詞) haddockの訳: ⟪こだら⟫
+HADDOCKS	(haddockの変化形) (名詞) haddockの訳: ⟪こだら⟫
+HADED	(haveの変化形) (動詞) 所有する。持つ。（類義語 possess, own, hold）
+HADING	(haveの変化形) (動詞) 所有する。持つ。（類義語 possess, own, hold）
+HAFNIUM	(名詞) ハフニウム: 原子番号 72、元素記号 Hf の金属元素。原子量178.5。化学的性質はジルコニウムに類似。単体は、常温常圧では灰色の固体。高温で酸素、水素、窒素、ハロゲンと反応する。
+HAFNIUMS	(hafniumの変化形) (名詞) ハフニウム: 原子番号 72、元素記号 Hf の金属元素。原子量178.5。化学的性質はジルコニウムに類似。単体は、常温常圧では灰色の固体。高温で酸素、水素、窒素、ハロゲンと反応する。
+HAG	(名詞) 魔女: 通常の人にない優れた能力を持った女性。「東洋の魔女」
+HAGGING	(hagの変化形) (名詞) 魔女: 通常の人にない優れた能力を持った女性。「東洋の魔女」
+HAGGLE	(動詞) ～をたたき切る。
+HAGGLED	(動詞) "haggle" の過去形・過去分詞: ～をたたき切る。
+HAGGLES	(動詞) "haggle" の現在第三人称単数形。
+HAGGLING	(動詞) "haggle" の動名詞又は現在分詞: ～をたたき切る。
+HAGS	(hagの変化形) (名詞) 魔女: 通常の人にない優れた能力を持った女性。「東洋の魔女」
+HAIKU	(名詞) 俳句: 日本の短詩形文芸形式の一つ。近世に発達した俳諧から近代になって分岐した。五・七・五のモーラから成る日本語の定型詩であり、世界最短の定型詩とされる。
+HAIL	(名詞) 霰: 気象現象で、空気中で雨が凍って氷となり地上まで降りたもの。大きいものは雹と呼ばれる。 (ほかに: 雹)\n(動詞) hailの訳: 霰が降る, 雹が降る
+HAILED	(動詞) hailの過去形・過去分詞: 霰: 気象現象で、空気中で雨が凍って氷となり地上まで降りたもの。大きいものは雹と呼ばれる。 (ほかに: 雹)
+HAILER	(hailの変化形) (名詞) 霰: 気象現象で、空気中で雨が凍って氷となり地上まで降りたもの。大きいものは雹と呼ばれる。 (ほかに: 雹)
+HAILING	(hailの変化形) (名詞) 霰: 気象現象で、空気中で雨が凍って氷となり地上まで降りたもの。大きいものは雹と呼ばれる。 (ほかに: 雹)
+HAILS	(名詞) hailの複数形: 霰: 気象現象で、空気中で雨が凍って氷となり地上まで降りたもの。大きいものは雹と呼ばれる。 (ほかに: 雹)\n(動詞) hailの直説法現在第三人称単数形: 霰: 気象現象で、空気中で雨が凍って氷となり地上まで降りたもの。大きいものは雹と呼ばれる。 (ほかに: 雹)
+HAILSTONE	(名詞) （1粒の）霰。雹。
+HAILSTONES	(名詞) hailstoneの複数形: （1粒の）霰。雹。
+HAIR	(名詞) (不可算) 髪。毛髪（のまとまり）。
+HAIRDRESSER	(名詞) 理髪師: 整髪や髭剃りなどを客に施す職業。 (ほかに: 理容師)
+HAIRDRESSERS	(hairdresserの変化形) (名詞) 理髪師: 整髪や髭剃りなどを客に施す職業。 (ほかに: 理容師)
+HAIRIER	(形容詞) hairyの比較級: 毛の多い。毛深い。毛むくじゃらの。
+HAIRIEST	(形容詞) hairyの最上級: 毛の多い。毛深い。毛むくじゃらの。
+HAIRINESS	(名詞) hairinessの訳: 毛深いこと
+HAIRINESSES	(名詞) hairinessの複数形: 毛深いこと
+HAIRLESS	(形容詞) 毛の無い。無毛の。
+HAIRLESSNESS	(名詞) 無毛。ヘアレス。
+HAIRLESSNESSES	(hairlessnessの変化形) (名詞) 無毛。ヘアレス。
+HAIRPIECE	(名詞) hairpieceの訳: 部分鬘, ヘアピース
+HAIRPIECES	(名詞) hairpieceの複数形: 部分鬘、ヘアピース。
+HAIRS	(名詞) hair の複数形: (不可算) 髪。毛髪（のまとまり）。
+HAIRSTYLE	(名詞) 髪型。ヘアスタイル。
+HAIRSTYLES	(名詞) hairstyleの複数形: 髪型。ヘアスタイル。
+HAIRSTYLIST	(名詞) 理髪師: 整髪や髭剃りなどを客に施す職業。 (ほかに: 理容師)
+HAIRSTYLISTS	(hairstylistの変化形) (名詞) 理髪師: 整髪や髭剃りなどを客に施す職業。 (ほかに: 理容師)
+HAIRY	(形容詞) 毛の多い。毛深い。毛むくじゃらの。
+HALATION	(名詞) ハレーション。光暈。
+HALATIONS	(名詞) halationの複数形: ハレーション。光暈。
+HALBERD	(名詞) halberdの訳: 矛槍, ハルバード
+HALBERDS	(halberdの変化形) (名詞) halberdの訳: 矛槍, ハルバード
+HALE	(形容詞) haleの訳: 頑健な, 壮健な, 矍鑠とした\n(名詞) haleの訳: 福祉
+HALED	(動詞) "hale" の過去形・過去分詞形: 頑健な, 壮健な, 矍鑠とした
+HALER	(形容詞) "hale" の比較級形: 頑健な, 壮健な, 矍鑠とした\n(名詞) haleする人。
+HALERS	(名詞) "haler" の複数形: "hale" の比較級形: 頑健な, 壮健な, 矍鑠とした
+HALERU	(haleの変化形) (形容詞) haleの訳: 頑健な, 壮健な, 矍鑠とした
+HALES	(動詞) "hale" の三人称単数現在形: 頑健な, 壮健な, 矍鑠とした
+HALEST	(形容詞) "hale" の最上級形: 頑健な, 壮健な, 矍鑠とした
+HALF	(名詞) 半分。二分の一。\n(形容詞) 半分の。二分の一の。
+HALFBACK	(名詞) halfbackの訳: ハーフバック
+HALFBACKS	(halfbackの変化形) (名詞) halfbackの訳: ハーフバック
+HALFBEAK	(名詞) halfbeakの訳: ⟪さより⟫
+HALFBEAKS	(halfbeakの変化形) (名詞) halfbeakの訳: ⟪さより⟫
+HALFTIME	(名詞) halftimeの訳: ハーフタイム
+HALFTIMES	(halftimeの変化形) (名詞) halftimeの訳: ハーフタイム
+HALFTONE	(名詞) 網点: 印刷物の中間色表現の一つ。 (ほかに: 半音)
+HALFTONES	(halftoneの変化形) (名詞) 網点: 印刷物の中間色表現の一つ。 (ほかに: 半音)
+HALFWAY	(副詞) halfwayの訳: 途中で\n(形容詞) halfwayの訳: 途中にある
+HALIBUT	(名詞) おひょう: カレイ目カレイ科オヒョウ属に属する魚の総称。学名:Hippoglossus。
+HALIBUTS	(名詞) halibutの複数形: おひょう: カレイ目カレイ科オヒョウ属に属する魚の総称。学名:Hippoglossus。
+HALIDE	(名詞) halideの訳: ハロゲン化物
+HALIDES	(halideの変化形) (名詞) halideの訳: ハロゲン化物
+HALING	(動詞) "hale" の動名詞形又は現在分詞形: 頑健な, 壮健な, 矍鑠とした
+HALITOSIS	(名詞) halitosisの訳: 口臭
+HALL	(名詞) hallの訳: ホール
+HALLS	(名詞) hallの複数形: ホール
+HALLUCES	(名詞) halluxの複数形: 足の親指, 第一趾
+HALLUCINATE	(動詞) 幻想する: 現実にないことをあるかのように思い浮かべること。 (ほかに: 錯覚する)
+HALLUCINATED	(動詞) "hallucinate" の過去形・過去分詞: 幻想する: 現実にないことをあるかのように思い浮かべること。 (ほかに: 錯覚する)
+HALLUCINATES	(動詞) "hallucinate" の現在第三人称単数形。
+HALLUCINATING	(動詞) "hallucinate" の動名詞又は現在分詞: 幻想する: 現実にないことをあるかのように思い浮かべること。 (ほかに: 錯覚する)
+HALLUCINATION	(名詞) 幻覚。主に薬物や精神病によるもの。
+HALLUCINATIONS	(名詞) "hallucination" の複数形: 幻覚。主に薬物や精神病によるもの。
+HALLUX	(名詞) halluxの訳: 足の親指, 第一趾
+HALLWAY	(名詞) 廊下: 建物の内部・外部に存在する通路。一般的には、部屋を接続するために存在する。 (ほかに: 通路)
+HALLWAYS	(hallwayの変化形) (名詞) 廊下: 建物の内部・外部に存在する通路。一般的には、部屋を接続するために存在する。 (ほかに: 通路)
+HALO	(名詞) haloの訳: 暈\n(動詞) haloの訳: 暈で～を囲む
+HALOED	(動詞) haloの過去形・過去分詞: 暈\n(形容詞) haloedの訳: 暈で囲まれた
+HALOES	(名詞) haloの複数形: 暈
+HALOGEN	(名詞) ハロゲン: 塩素、弗素、臭素、沃素などの塩を生成する元素。
+HALOGENS	(名詞) halogenの複数形: ハロゲン: 塩素、弗素、臭素、沃素などの塩を生成する元素。
+HALOING	(動詞) haloの動名詞又は現在分詞: 暈
+HALOPHILE	(名詞) halophileの訳: 好塩菌
+HALOPHILES	(halophileの変化形) (名詞) halophileの訳: 好塩菌
+HALOS	(名詞) haloの複数形: 暈\n(動詞) haloの直説法現在第三人称単数形: 暈
+HALTER	(名詞) halterの訳: 端綱\n(動詞) halterの訳: 端綱を付ける
+HALTERE	(名詞) haltereの訳: 平均棍
+HALTERED	(動詞) halterの過去形・過去分詞: 端綱
+HALTERES	(名詞) haltereの複数形: 平均棍
+HALTERING	(動詞) halterの現在分詞: 端綱
+HALTERS	(名詞) halterの複数形: 端綱\n(動詞) halterの直説法現在第三人称単数形: 端綱
+HALVE	(動詞) 半分にする。二分割する。二で割る。
+HALVED	(動詞) halveの過去形・過去分詞: 半分にする。二分割する。二で割る。\n(形容詞) halvedの訳: 半分にした, 二分割にした
+HALVES	(名詞) halfの複数形: 半分。二分の一。\n(動詞) halveの直説法現在第三人称単数形: 半分にする。二分割する。二で割る。
+HALVING	(動詞) "halve" の動名詞形又は現在分詞形: 半分にする。二分割する。二で割る。
+HAM	(名詞) 膝窩: 膝の後ろのくぼんだ部分。膝膕。 (ほかに: 膝裏)\n(動詞) 誇張演技をする。
+HAMATE	(名詞) hamateの訳: 有鉤骨, 有鈎骨
+HAMATES	(hamateの変化形) (名詞) hamateの訳: 有鉤骨, 有鈎骨
+HAMBURGER	(名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。 (ほかに: ハンバーグステーキ)
+HAMBURGERS	(hamburgerの変化形) (名詞) ハンバーガー: ハンバーグステーキなどをバンズに挟んだサンドイッチ。 (ほかに: ハンバーグステーキ)
+HAME	(名詞) くびき。馬具の一種で、荷駄用の馬の首に巻く物。
+HAMES	(hameの変化形) (名詞) くびき。馬具の一種で、荷駄用の馬の首に巻く物。
+HAMLET	(名詞) 集落。村落。
+HAMLETS	(名詞) hamletの複数形: 集落。村落。
+HAMMED	(hamの変化形) (名詞) 膝窩: 膝の後ろのくぼんだ部分。膝膕。 (ほかに: 膝裏)
+HAMMER	(名詞) ハンマー: 楽器や機械で物を叩く部品または部分。 (ほかに: 槌, 金槌)\n(動詞) hammerの訳: 槌で叩く
+HAMMERED	(形容詞) hammeredの訳: 槌で鍛造した\n(動詞) hammerの過去形・過去分詞: ハンマー: 楽器や機械で物を叩く部品または部分。 (ほかに: 槌, 金槌)
+HAMMERING	(名詞) hammeringの訳: 槌で叩くこと\n(動詞) hammerの現在分詞: ハンマー: 楽器や機械で物を叩く部品または部分。 (ほかに: 槌, 金槌)
+HAMMERS	(名詞) hammerの複数形: ハンマー: 楽器や機械で物を叩く部品または部分。 (ほかに: 槌, 金槌)\n(動詞) hammerの直説法現在第三人称単数形: ハンマー: 楽器や機械で物を叩く部品または部分。 (ほかに: 槌, 金槌)
+HAMMING	(hamの変化形) (名詞) 膝窩: 膝の後ろのくぼんだ部分。膝膕。 (ほかに: 膝裏)
+HAMMOCK	(名詞) hammockの訳: ハンモック
+HAMMOCKS	(hammockの変化形) (名詞) hammockの訳: ハンモック
+HAMS	(hamの変化形) (名詞) 膝窩: 膝の後ろのくぼんだ部分。膝膕。 (ほかに: 膝裏)
+HAMSTER	(名詞) hamsterの訳: ハムスター
+HAMSTERS	(名詞) hamsterの複数形: ハムスター
+HAND	(名詞) 手: （て）人体の一部分で、肩から先の部分。狭義には手首・手の平・指先などを指す。\n(動詞) 手渡す。手渡しする。
+HANDBALL	(名詞) ハンドボール: ハンドボールで使用するボール。\n(動詞) 貨物の荷揚げ・荷下ろしを手で行う。
+HANDBALLS	(名詞) handballの複数形: ハンドボール: ハンドボールで使用するボール。\n(動詞) handballの直説法現在第三人称単数形: ハンドボール: ハンドボールで使用するボール。
+HANDBOOK	(名詞) 便覧。手引き。案内書。ハンドブック。
+HANDBOOKS	(名詞) handbookの複数形: 便覧。手引き。案内書。ハンドブック。
+HANDCART	(名詞) 輦轂: 手車の轂。転じて、天子の乗る車。「輦」は「てぐるま」の意。
+HANDCARTS	(handcartの変化形) (名詞) 輦轂: 手車の轂。転じて、天子の乗る車。「輦」は「てぐるま」の意。
+HANDCUFF	(名詞) 手錠: 犯人などの両手の手首などに金属製の鎖などをはめ、手の自由を拘束する器具。手鎖。\n(動詞) handcuffの訳: 手錠をかける
+HANDCUFFED	(動詞) handcuffの過去形: 手錠: 犯人などの両手の手首などに金属製の鎖などをはめ、手の自由を拘束する器具。手鎖。
+HANDCUFFING	(動詞) handcuffの現在分詞形: 手錠: 犯人などの両手の手首などに金属製の鎖などをはめ、手の自由を拘束する器具。手鎖。
+HANDCUFFS	(名詞) handcuffの複数形。手錠: 手錠: 犯人などの両手の手首などに金属製の鎖などをはめ、手の自由を拘束する器具。手鎖。\n(動詞) handcuffの三人称単数現在形: 手錠: 犯人などの両手の手首などに金属製の鎖などをはめ、手の自由を拘束する器具。手鎖。
+HANDED	(動詞) "hand" の過去形・過去分詞形: 手: （て）人体の一部分で、肩から先の部分。狭義には手首・手の平・指先などを指す。
+HANDFUL	(名詞) 一握り: 片手の掌で握ること。また、その程度のわずかな量。
+HANDFULS	(名詞) handful の複数形: 一握り: 片手の掌で握ること。また、その程度のわずかな量。
+HANDGUN	(名詞) 拳銃: 片手で射撃するための小型の銃。ピストル。ハンドガン。
+HANDGUNS	(名詞) handgunの複数形: 拳銃: 片手で射撃するための小型の銃。ピストル。ハンドガン。
+HANDICAP	(名詞) 障害: 身体の他、精神活動が継続的に十分に機能しないこと、又は、知的発達が不十分であること。\n(動詞) 不利な条件を与える。ハンディキャップを付ける。
+HANDICAPPED	(動詞) handicapの過去形・過去分詞: 障害: 身体の他、精神活動が継続的に十分に機能しないこと、又は、知的発達が不十分であること。\n(形容詞) 身体障害のある。精神障害のある。
+HANDICAPPING	(動詞) handicapの現在分詞: 障害: 身体の他、精神活動が継続的に十分に機能しないこと、又は、知的発達が不十分であること。
+HANDICAPS	(名詞) handicapの複数形: 障害: 身体の他、精神活動が継続的に十分に機能しないこと、又は、知的発達が不十分であること。\n(動詞) handicapの直説法現在第三人称単数形: 障害: 身体の他、精神活動が継続的に十分に機能しないこと、又は、知的発達が不十分であること。
+HANDICRAFT	(名詞) 工作: 物を製造すること。
+HANDICRAFTER	(handicraftの変化形) (名詞) 工作: 物を製造すること。
+HANDICRAFTS	(handicraftの変化形) (名詞) 工作: 物を製造すること。
+HANDIER	(形容詞) "handy" の比較級: 手軽な。使いやすい。便利な。
+HANDIEST	(形容詞) "handy" の最上級: 手軽な。使いやすい。便利な。
+HANDING	(動詞) "hand" の動名詞形又は現在分詞形: 手: （て）人体の一部分で、肩から先の部分。狭義には手首・手の平・指先などを指す。
+HANDKERCHIEF	(名詞) ハンカチーフ: 濡れた手や汗を拭いたり、装飾のために使用する四角い小さな布。ハンカチ。 (ほかに: ハンカチ)
+HANDKERCHIEFS	(名詞) handkerchiefの複数形: ハンカチーフ: 濡れた手や汗を拭いたり、装飾のために使用する四角い小さな布。ハンカチ。 (ほかに: ハンカチ)
+HANDKERCHIEVES	(名詞) handkerchiefの複数形: ハンカチーフ: 濡れた手や汗を拭いたり、装飾のために使用する四角い小さな布。ハンカチ。 (ほかに: ハンカチ)
+HANDLE	(名詞) 柄: （え）道具の握りの部分。 (ほかに: 取っ手, ハンドル)\n(動詞) handleの訳: 手を触れる
+HANDLEBAR	(名詞) handlebarの訳: ハンドル
+HANDLEBARS	(handlebarの変化形) (名詞) handlebarの訳: ハンドル
+HANDLED	(動詞) handleの過去形・過去分詞: 柄: （え）道具の握りの部分。 (ほかに: 取っ手, ハンドル)\n(形容詞) handledの訳: 柄の付いた
+HANDLES	(名詞) handleの複数形: 柄: （え）道具の握りの部分。 (ほかに: 取っ手, ハンドル)\n(動詞) handleの直説法現在第三人称単数形: 柄: （え）道具の握りの部分。 (ほかに: 取っ手, ハンドル)
+HANDLING	(名詞) とりあつかい: 物を手で持ったり動かしたりすること。
+HANDLINGS	(handleの変化形) (名詞) 柄: （え）道具の握りの部分。 (ほかに: 取っ手, ハンドル)
+HANDMADE	(形容詞) 手製の: 機械などで自動的に作ったり既製品を買ったりするわけではなく、自分の手で作ること。 (ほかに: 手作りの)\n(名詞) handmadeの訳: 手製のもの
+HANDMAIDS	(名詞) handmaidの複数形。
+HANDOUT	(名詞) ハンドアウト、説明会等における配布資料。
+HANDOUTS	(名詞) handoutの複数形: ハンドアウト、説明会等における配布資料。
+HANDOVER	(名詞) 手渡し。引き渡し。
+HANDOVERS	(名詞) handoverの複数形: 手渡し。引き渡し。
+HANDRAIL	(名詞) 手摺り: 橋や階段、廊下、乗り物に転落や転倒の防止、歩行の補助などのため壁や欄干に添って横または縦方向に設けられた棒状のもの。 (ほかに: 欄干, 保護棒)
+HANDRAILS	(名詞) handrailの複数形: 手摺り、欄干、保護棒。
+HANDS	(名詞) "hand" の複数形: 手: （て）人体の一部分で、肩から先の部分。狭義には手首・手の平・指先などを指す。\n(動詞) "hand" の三人称単数現在形: 手: （て）人体の一部分で、肩から先の部分。狭義には手首・手の平・指先などを指す。
+HANDSEL	(名詞) 祝儀: 祝意を示すために贈る金品。
+HANDSELED	(handselの変化形) (名詞) 祝儀: 祝意を示すために贈る金品。
+HANDSELING	(handselの変化形) (名詞) 祝儀: 祝意を示すために贈る金品。
+HANDSELLED	(handselの変化形) (名詞) 祝儀: 祝意を示すために贈る金品。
+HANDSELLING	(handselの変化形) (名詞) 祝儀: 祝意を示すために贈る金品。
+HANDSELS	(handselの変化形) (名詞) 祝儀: 祝意を示すために贈る金品。
+HANDSHAKE	(名詞) 握手: 親愛の情などを示すために、原則としてお互いの右手を握り合うこと。もとは、互いに敵意を抱いていないということを示すために利き腕を相手にゆだねたことに由来。
+HANDSHAKES	(handshakeの変化形) (名詞) 握手: 親愛の情などを示すために、原則としてお互いの右手を握り合うこと。もとは、互いに敵意を抱いていないということを示すために利き腕を相手にゆだねたことに由来。
+HANDSOME	(形容詞) handsomeの訳: 顔立ちの良い, ハンサムな
+HANDSOMELY	(副詞) handsomelyの訳: 立派に, 見事に, 相当に
+HANDSOMER	(handsomeの変化形) (形容詞) handsomeの訳: 顔立ちの良い, ハンサムな
+HANDSOMEST	(handsomeの変化形) (形容詞) handsomeの訳: 顔立ちの良い, ハンサムな
+HANDSTAND	(名詞) 倒立。逆立ち。
+HANDSTANDS	(名詞) handstandの複数形: 倒立。逆立ち。
+HANDWRITE	(動詞) handwriteの訳: 手書きする
+HANDWRITES	(動詞) handwriteの直説法現在第三人称単数形: 手書きする
+HANDWRITING	(名詞) 手書き: （しょき）会議などの議事録などを書き記すこと。また、その役。\n(動詞) handwriteの現在分詞: 手書きする
+HANDWRITINGS	(名詞) handwritingの複数形: 手書き: （しょき）会議などの議事録などを書き記すこと。また、その役。
+HANDWRITTEN	(形容詞) handwrittenの訳: 手書きの\n(動詞) handwriteの過去分詞: 手書きする
+HANDY	(形容詞) 手軽な。使いやすい。便利な。
+HANG	(動詞) 掛ける: （かける）布などを被せる。一部または全体を覆う。
+HANGAR	(名詞) 格納庫: 航空機などを格納し、整備を行ったりするための建物。
+HANGARS	(hangarの変化形) (名詞) 格納庫: 航空機などを格納し、整備を行ったりするための建物。
+HANGED	(動詞) "hang" の過去形・過去分詞形: 掛ける: （かける）布などを被せる。一部または全体を覆う。
+HANGING	(動詞) hangの動名詞形又は現在分詞形: 掛ける: （かける）布などを被せる。一部または全体を覆う。
+HANGINGS	(hangの変化形) (動詞) 掛ける: （かける）布などを被せる。一部または全体を覆う。
+HANGOVER	(名詞) 二日酔い。宿酔。
+HANGOVERS	(名詞) "hangover" の複数形: 二日酔い。宿酔。
+HANGS	(動詞) "hang" の三人称単数現在形: 掛ける: （かける）布などを被せる。一部または全体を覆う。
+HANKER	(動詞) hankerの訳: 切望
+HANKERED	(hankerの変化形) (動詞) hankerの訳: 切望
+HANKERER	(hankerの変化形) (動詞) hankerの訳: 切望
+HANKERING	(名詞) 切望: 切に望むこと。心から願うこと。
+HANKERS	(hankerの変化形) (動詞) hankerの訳: 切望
+HAO	(名詞) haoの訳: ハオ
+HAP	(名詞) 事件。出来事。\n(動詞) hapの訳: 偶然起こる
+HAPHAZARD	(形容詞) 無計画な、でたらめの、行き当たりばったりの。\n(名詞) haphazardの訳: ⟪偶然|ぐうぜん⟫
+HAPHAZARDLY	(副詞) 無計画に、でたらめに、行き当たりばったりに。
+HAPHAZARDNESS	(名詞) 無計画: 計画の無いこと。また、計画のないまま行う様子。 (ほかに: でたらめ)
+HAPHAZARDNESSES	(haphazardnessの変化形) (名詞) 無計画: 計画の無いこと。また、計画のないまま行う様子。 (ほかに: でたらめ)
+HAPHAZARDS	(名詞) haphazardの複数形: 無計画な、でたらめの、行き当たりばったりの。
+HAPPEN	(動詞) 生じる: 発生する。生まれる。出来る。 (ほかに: 起こる)
+HAPPENED	(動詞) happenの過去形・過去分詞: 生じる: 発生する。生まれる。出来る。 (ほかに: 起こる)
+HAPPENING	(動詞) happenの現在分詞又は動名詞: 生じる: 発生する。生まれる。出来る。 (ほかに: 起こる)\n(名詞) 出来事: 世間で起こる様々な事柄。
+HAPPENINGS	(名詞) "happening" の複数形: happenの現在分詞又は動名詞: 生じる: 発生する。生まれる。出来る。 (ほかに: 起こる)
+HAPPENS	(動詞) "happen" の三人称単数現在形: 生じる: 発生する。生まれる。出来る。 (ほかに: 起こる)
+HAPPENSTANCE	(名詞) happenstanceの訳: 偶然の出来事
+HAPPENSTANCES	(名詞) happenstanceの複数形: 偶然の出来事
+HAPPIER	(形容詞) happyの比較級形: 幸せな
+HAPPIEST	(形容詞) happyの最上級形: 幸せな
+HAPPILY	(副詞) 幸福に: 心が満たされて嬉しいこと。そのさま。[1808年～]
+HAPPINESS	(名詞) happinessの訳: ⟪幸福|こうふく⟫
+HAPPINESSES	(名詞) "happiness" の複数形: ⟪幸福|こうふく⟫
+HAPPING	(hapの変化形) (名詞) 事件。出来事。
+HAPPY	(形容詞) happyの訳: 幸せな
+HAPS	(hapの変化形) (名詞) 事件。出来事。
+HARANGUE	(名詞) harangueの訳: 大演説, 熱弁\n(動詞) harangueの訳: 熱弁を振るう
+HARANGUED	(動詞) harangueの過去形・過去分詞: 大演説, 熱弁
+HARANGUER	(名詞) 熱弁を振るう人
+HARANGUERS	(名詞) haranguerの複数形: 熱弁を振るう人
+HARANGUES	(名詞) harangueの複数形: 大演説, 熱弁\n(動詞) harangueの直説法現在第三人称単数形: 大演説, 熱弁
+HARANGUING	(動詞) harangueの現在分詞: 大演説, 熱弁
+HARASS	(動詞) harassの訳: ⟪悩ます|なやます⟫, 困らせる
+HARASSED	(動詞) harassの過去形・過去分詞: ⟪悩ます|なやます⟫, 困らせる
+HARASSER	(名詞) ハラスメントの加害者。
+HARASSERS	(名詞) harasserの複数形: ハラスメントの加害者。
+HARASSES	(動詞) harassの直説法現在第三人称単数形: ⟪悩ます|なやます⟫, 困らせる
+HARASSING	(動詞) harassの現在分詞: ⟪悩ます|なやます⟫, 困らせる\n(名詞) 嫌がらせ: 相手が嫌だと感じる行為や発言を意図的にすること。または、そのような言動の内容。
+HARASSMENT	(名詞) 悩ませること。いらいらさせること。
+HARASSMENTS	(名詞) harassmentの複数形: 悩ませること。いらいらさせること。
+HARBINGER	(名詞) 前触れ。前兆。\n(動詞) harbingerの訳: 予告する
+HARBINGERED	(動詞) harbingerの過去形又は過去分詞形: 前触れ。前兆。
+HARBINGERING	(動詞) harbingerの動名詞又は現在分詞形: 前触れ。前兆。
+HARBINGERS	(名詞) harbingerの複数形: 前触れ。前兆。\n(動詞) harbingerの直説法第三人称単数現在形: 前触れ。前兆。
+HARBOR	(名詞) 安全な地域・隠れ家。\n(動詞) 避難所・隠れ家を提供する。.
+HARBORAGE	(名詞) 避難: 災害を避けて安全な場所に移ること。 (ほかに: 退避)
+HARBORAGES	(名詞) "harborage" の複数形: 避難: 災害を避けて安全な場所に移ること。 (ほかに: 退避)
+HARBORED	(動詞) （米）"harbor" の過去形・過去分詞。
+HARBORING	(動詞) （米）"harbor" の動名詞又は現在分詞。
+HARBORS	(名詞) （米）"harbor" の複数形。\n(動詞) （米）"harbor" の現在第三人称単数形。
+HARBOUR	(名詞) 安全な地域・隠れ家。\n(動詞) 避難所・隠れ家を提供する。.
+HARBOURED	(動詞) （英）"harbour" の過去形・過去分詞。
+HARBOURING	(動詞) （英）"harbour" の動名詞又は現在分詞。
+HARBOURS	(名詞) （英）"harbour" の複数形。\n(動詞) （英）"harbour" の現在第三人称単数形。
+HARD	(形容詞) hardの訳: 硬い, 堅い\n(副詞) hardの訳: 熱心に, 激しく
+HARDEN	(動詞) 固まる: 固くなる。固化する。 (ほかに: 固くなる)
+HARDENED	(動詞) "harden" の過去形・過去分詞: 固まる: 固くなる。固化する。 (ほかに: 固くなる)\n(形容詞) 硬化した。硬くなった。
+HARDENING	(動詞) "harden" の動名詞又は現在分詞: 固まる: 固くなる。固化する。 (ほかに: 固くなる)\n(名詞) hardeningの訳: 硬化
+HARDENINGS	(名詞) hardeningの複数形: "harden" の動名詞又は現在分詞。
+HARDENS	(動詞) "harden" の三人称単数現在形: 固まる: 固くなる。固化する。 (ほかに: 固くなる)
+HARDER	(形容詞) "hard" の比較級: 硬い, 堅い
+HARDEST	(形容詞) "hard" の最上級: 硬い, 堅い
+HARDHEADED	(形容詞) hardheadedの訳: 頑固な
+HARDIER	(形容詞) "hardy" の比較級: 頑丈な
+HARDIES	(名詞) hardyの複数形: 頑丈な
+HARDIEST	(形容詞) "hardy" の最上級: 頑丈な
+HARDLY	(副詞) hardlyの訳: 殆ど～ない
+HARDNESS	(名詞) 硬いこと。硬さ。硬度。
+HARDNESSES	(名詞) hardnessの複数形: 硬いこと。硬さ。硬度。
+HARDSHIP	(名詞) 苦難: 苦しみや難儀。 (ほかに: 辛酸, 苦労)
+HARDSHIPS	(名詞) "hardship" の複数形: 苦難: 苦しみや難儀。 (ほかに: 辛酸, 苦労)
+HARDWARE	(名詞) hardwareの訳: 金物類, 金属製品, 工具類
+HARDWARES	(hardwareの変化形) (名詞) hardwareの訳: 金物類, 金属製品, 工具類
+HARDWORKING	(形容詞) 勤勉な: 懸命に励む様子。
+HARDY	(形容詞) hardyの訳: 頑丈な\n(名詞) hardyの訳: 頑丈な人, ⟪動物|どうぶつ⟫
+HARE	(名詞) 野兎: （のうさぎ）ウサギ目ノウサギ属に属する哺乳類の総称。学名は Lepus。冬の季語。\n(動詞) hareの訳: 速く走る
+HARED	(動詞) hareの過去形・過去分詞: 野兎: （のうさぎ）ウサギ目ノウサギ属に属する哺乳類の総称。学名は Lepus。冬の季語。
+HARELIP	(名詞) harelipの訳: みつくち
+HARELIPS	(harelipの変化形) (名詞) harelipの訳: みつくち
+HARES	(名詞) hareの複数形: 野兎: （のうさぎ）ウサギ目ノウサギ属に属する哺乳類の総称。学名は Lepus。冬の季語。\n(動詞) hareの直説法現在第三人称単数形: 野兎: （のうさぎ）ウサギ目ノウサギ属に属する哺乳類の総称。学名は Lepus。冬の季語。
+HARING	(動詞) hareの現在分詞: 野兎: （のうさぎ）ウサギ目ノウサギ属に属する哺乳類の総称。学名は Lepus。冬の季語。
+HARLEQUIN	(名詞) harlequinの訳: 剽軽者, ⟪おどけもの⟫
+HARLEQUINS	(harlequinの変化形) (名詞) harlequinの訳: 剽軽者, ⟪おどけもの⟫
+HARM	(名詞) 害、危害、損害。（物理的か心理的かを問わず用いられる。）\n(動詞) 害なう。害する。
+HARMED	(動詞) harmの過去形・過去分詞: 害、危害、損害。（物理的か心理的かを問わず用いられる。）
+HARMER	(harmの変化形) (名詞) 害、危害、損害。（物理的か心理的かを問わず用いられる。）
+HARMFUL	(形容詞) 有害な: 害のあること、害をもたらすこと。そういうものやその様子。
+HARMFULLY	(副詞) 有害に: 害のあること、害をもたらすこと。そういうものやその様子。
+HARMFULNESS	(名詞) 有害: 害のあること、害をもたらすこと。そういうものやその様子。 (ほかに: 有害さ, 有害性)
+HARMFULNESSES	(名詞) "harmfulness" の複数形: 有害: 害のあること、害をもたらすこと。そういうものやその様子。 (ほかに: 有害さ, 有害性)
+HARMING	(動詞) harmの動名詞又は現在分詞: 害、危害、損害。（物理的か心理的かを問わず用いられる。）
+HARMLESS	(形容詞) 無害な: 害の無いこと。 (ほかに: 無毒な)
+HARMLESSLY	(副詞) 無害に: 害の無いこと。
+HARMONIC	(形容詞) harmonicの訳: 調和した\n(名詞) harmonicの訳: 調波
+HARMONICA	(名詞) ハーモニカ: フリーリードを使った、小さな楽器。
+HARMONICAS	(名詞) harmonicaの複数形: ハーモニカ: フリーリードを使った、小さな楽器。
+HARMONIES	(名詞) harmonyの複数形: 調和。一致。和合。
+HARMONIOUS	(形容詞) harmoniousの訳: 調和した
+HARMONIOUSLY	(副詞) 調和して。協調して。
+HARMONIOUSNESS	(名詞) 調和の取れていること。
+HARMONIOUSNESSES	(harmoniousnessの変化形) (名詞) 調和の取れていること。
+HARMONIZE	(動詞) 融和: 融けて和らぐ。調和する。
+HARMONIZED	(harmonizeの変化形) (動詞) 融和: 融けて和らぐ。調和する。
+HARMONIZES	(harmonizeの変化形) (動詞) 融和: 融けて和らぐ。調和する。
+HARMONIZING	(harmonizeの変化形) (動詞) 融和: 融けて和らぐ。調和する。
+HARMONY	(名詞) 調和。一致。和合。
+HARMS	(名詞) harmの複数形: 害、危害、損害。（物理的か心理的かを問わず用いられる。）\n(動詞) harmの直説法現在第三人称単数形: 害、危害、損害。（物理的か心理的かを問わず用いられる。）
+HARNESS	(名詞) harnessの訳: 馬具, 引き具\n(動詞) harnessの訳: 馬具を付ける
+HARNESSED	(動詞) harnessの過去形・過去分詞: 馬具, 引き具
+HARNESSES	(名詞) harnessの複数形: 馬具、引き具。\n(動詞) harnessの直説法現在第三人称単数形: 馬具, 引き具
+HARNESSING	(harnessの変化形) (名詞) harnessの訳: 馬具, 引き具
+HARP	(名詞) harpの訳: ハープ\n(動詞) harpの訳: ハープを弾く
+HARPED	(動詞) "harp" の過去形・過去分詞形: ハープ
+HARPER	(名詞) ハーパー: レバーハープの演奏家。
+HARPERS	(harperの変化形) (名詞) ハーパー: レバーハープの演奏家。
+HARPING	(動詞) "harp" の動名詞形又は現在分詞形: ハープ
+HARPIST	(名詞) ハーピスト: ペダルハープの演奏家。
+HARPISTS	(harpistの変化形) (名詞) ハーピスト: ペダルハープの演奏家。
+HARPOON	(名詞) harpoonの訳: 銛\n(動詞) ～に銛を打ち込む。
+HARPOONED	(動詞) harpoonの過去形・過去分詞: 銛
+HARPOONING	(名詞) 銛を打ち込むこと。\n(動詞) harpoonの動名詞又は現在分詞: 銛
+HARPOONS	(名詞) harpoonの複数形: 銛\n(動詞) harpoonの直説法現在第三人称単数形: 銛
+HARPS	(名詞) "harp" の複数形: ハープ\n(動詞) "harp" の三人称単数現在形: ハープ
+HARPSICHORD	(名詞) ハープシコード。チェンバロ。
+HARPSICHORDS	(名詞) harpsichordの複数形: ハープシコード。チェンバロ。
+HARRIDAN	(名詞) 意地悪ばばあ。鬼婆。
+HARRIDANS	(名詞) harridanの複数形: 意地悪ばばあ。鬼婆。
+HARRIER	(名詞) harrierの訳: 沢鵟
+HARRIERS	(名詞) harrierの複数形: 沢鵟
+HARROW	(名詞) harrowの訳: ⟪馬鍬|まぐわ⟫\n(動詞) harrowの訳: 馬鍬で均す
+HARROWED	(動詞) harrowの過去形・過去分詞: ⟪馬鍬|まぐわ⟫
+HARROWING	(動詞) harrowの現在分詞: ⟪馬鍬|まぐわ⟫\n(形容詞) 痛ましい: 目を背けたくなるほど痛々しい。悲惨で残酷である。 (ほかに: 悲惨な)
+HARROWS	(名詞) harrowの複数形: ⟪馬鍬|まぐわ⟫\n(動詞) harrowの直説法現在第三人称単数形: ⟪馬鍬|まぐわ⟫
+HARSH	(形容詞) harshの訳: 粗い
+HARSHER	(形容詞) "harsh" の比較級: 粗い
+HARSHEST	(形容詞) "harsh" の最上級: 粗い
+HARSHLY	(副詞) harshlyの訳: 厳しく
+HARSHNESS	(名詞) harshnessの訳: 厳しさ
+HARSHNESSES	(名詞) harshnessの複数形: 厳しさ
+HARVEST	(名詞) 収穫: 農作物を収集すること。\n(動詞) harvestの訳: 収穫する
+HARVESTED	(動詞) harvestの過去形・過去分詞: 収穫: 農作物を収集すること。
+HARVESTING	(動詞) "harvest" の動名詞形又は現在分詞形: 収穫: 農作物を収集すること。
+HARVESTMAN	(名詞) harvestmanの訳: 座頭虫
+HARVESTMEN	(harvestmanの変化形) (名詞) harvestmanの訳: 座頭虫
+HARVESTS	(名詞) harvestの複数形: 収穫: 農作物を収集すること。\n(動詞) harvestの直説法現在第三人称単数形: 収穫: 農作物を収集すること。
+HAS	(動詞) have の直説法現在第三人称単数形: 所有する。持つ。
+HAST	(動詞) haveの現在第2人称単数形。
+HASTE	(名詞) hasteの訳: 急ぐこと, 急ぎ\n(動詞) 急ぐ: （いそぐ）速くしようとする。
+HASTED	(動詞) hasteの過去形・過去分詞: 急ぐこと, 急ぎ
+HASTEN	(動詞) 速める: 速度を上げる。 (ほかに: 急ぐ)
+HASTENED	(動詞) hastenの過去形・過去分詞: 速める: 速度を上げる。 (ほかに: 急ぐ)
+HASTENING	(動詞) hastenの動名詞又は現在分詞: 速める: 速度を上げる。 (ほかに: 急ぐ)\n(名詞) 促進: 物事が進むように促すこと。そのように努力すること。
+HASTENS	(動詞) hastenの直説法現在第三人称単数形: 速める: 速度を上げる。 (ほかに: 急ぐ)
+HASTES	(動詞) hasteの直説法現在第三人称単数形: 急ぐこと, 急ぎ
+HASTIER	(形容詞) "hasty" の比較級: 急ぎの。慌てている。
+HASTIEST	(形容詞) "hasty" の最上級: 急ぎの。慌てている。
+HASTILY	(副詞) hastilyの訳: 急いで
+HASTINESS	(名詞) 急ぎ: （いそぎ）急ぐこと。急を要すること。
+HASTINESSES	(hastinessの変化形) (名詞) 急ぎ: （いそぎ）急ぐこと。急を要すること。
+HASTING	(動詞) hasteの現在分詞: 急ぐこと, 急ぎ
+HASTY	(形容詞) 急ぎの。慌てている。
+HAT	(名詞) 帽子: （ぼうし）頭部を覆う衣類。
+HATCH	(動詞) かえす: 【返す】元に戻る。
+HATCHED	(hatchの変化形) (動詞) かえす: 【返す】元に戻る。
+HATCHES	(hatchの変化形) (動詞) かえす: 【返す】元に戻る。
+HATCHET	(名詞) hatchetの訳: 手斧\n(動詞) hatchetの訳: 手斧で切る
+HATCHETS	(名詞) hatchetの複数形: 手斧\n(動詞) hatchetの直説法現在第三人称単数形: 手斧
+HATCHING	(hatchの変化形) (動詞) かえす: 【返す】元に戻る。
+HATCHINGS	(hatchの変化形) (動詞) かえす: 【返す】元に戻る。
+HATE	(動詞) hateの訳: ⟪憎む|にくむ⟫, 憎悪する, 嫌悪する\n(名詞) 憎恨: 憎み、恨むこと。 (ほかに: 憎しみ, 憎悪)
+HATED	(形容詞) hatedの訳: 憎まれた, 嫌われた\n(動詞) hateの過去形・過去分詞: ⟪憎む|にくむ⟫, 憎悪する, 嫌悪する
+HATEFUL	(形容詞) 不愉快な: 楽しくないこと。愉快でないこと。気分が悪いこと。 (ほかに: 嫌な)
+HATEFULNESS	(名詞) 憎悪: 憎み嫌うこと。 (ほかに: 憎しみ)
+HATEFULNESSES	(名詞) hatefulnessの複数形: 憎悪: 憎み嫌うこと。 (ほかに: 憎しみ)
+HATES	(名詞) "hate" の複数形: ⟪憎む|にくむ⟫, 憎悪する, 嫌悪する\n(動詞) "hate" の三人称単数現在形: ⟪憎む|にくむ⟫, 憎悪する, 嫌悪する
+HATH	(動詞) （古語）haveの三人称単数現在形: 所有する。持つ。
+HATING	(動詞) hateの動名詞又は現在分詞: ⟪憎む|にくむ⟫, 憎悪する, 嫌悪する
+HATRED	(名詞) 嫌悪: 憎み嫌うこと。ある人物や物事や思想などに対し、拒んだり消し去ったりしたいという意思を表すこと。 (ほかに: 憎しみ, 憎悪)
+HATREDS	(名詞) hatredの複数形: 嫌悪: 憎み嫌うこと。ある人物や物事や思想などに対し、拒んだり消し去ったりしたいという意思を表すこと。 (ほかに: 憎しみ, 憎悪)
+HATS	(名詞) hatの複数形: 帽子。
+HATTED	(hatの変化形) (名詞) 帽子: （ぼうし）頭部を覆う衣類。
+HATTER	(名詞) 帽子屋: 帽子を売る人； 帽子の作り手。\n(動詞) 疲れさせたり心配させたりする
+HATTERS	(hatterの変化形) (名詞) 帽子屋: 帽子を売る人； 帽子の作り手。
+HATTING	(hatの変化形) (名詞) 帽子: （ぼうし）頭部を覆う衣類。
+HAUGHTIER	(形容詞) "haughty" の比較級形: 高慢な。傲慢な。横柄な。
+HAUGHTIEST	(形容詞) "haughty" の最上級形: 高慢な。傲慢な。横柄な。
+HAUGHTILY	(副詞) haughtilyの訳: 高慢に, 横柄に
+HAUGHTINESS	(名詞) 高慢: おごりたかぶること。自分のことを優れていると思い上がって、他を見下すこと。また、そのさま。 (ほかに: 横柄)
+HAUGHTINESSES	(haughtinessの変化形) (名詞) 高慢: おごりたかぶること。自分のことを優れていると思い上がって、他を見下すこと。また、そのさま。 (ほかに: 横柄)
+HAUGHTY	(形容詞) 高慢な。傲慢な。横柄な。
+HAUL	(動詞) haulの訳: 牽引する\n(名詞) haulの訳: 引っ張ること
+HAULAGE	(名詞) 運送: 旅客や荷物を運ぶこと。 (ほかに: 牽引, 運搬)
+HAULAGES	(名詞) haulageの複数形: 運送: 旅客や荷物を運ぶこと。 (ほかに: 牽引, 運搬)
+HAULED	(動詞) haulの過去形・過去分詞: 牽引する
+HAULING	(動詞) haulの現在分詞: 牽引する\n(名詞) 運送: 旅客や荷物を運ぶこと。 (ほかに: 牽引, 運搬)
+HAULS	(動詞) haulの直説法現在第三人称単数形: 牽引する
+HAUNCH	(名詞) 臀部: 臀の部分。 (ほかに: 尻)
+HAUNCHES	(名詞) haunchの複数形: 臀部、尻。
+HAUNT	(動詞) とりつく: 人や物に掴まる。すがりつく。 (ほかに: 出没する, 出る)\n(名詞) 行きつけの場所、たまり場。
+HAUNTED	(形容詞) 幽霊の出没する。\n(動詞) hauntの過去形・過去分詞: とりつく: 人や物に掴まる。すがりつく。 (ほかに: 出没する, 出る)
+HAUNTING	(動詞) hauntの現在分詞: とりつく: 人や物に掴まる。すがりつく。 (ほかに: 出没する, 出る)\n(形容詞) 忘れ難い: （わすれがたい）なかなか忘れることの出来ない様子。 (ほかに: 印象深い, 記憶に残る)
+HAUNTS	(名詞) hauntの複数形: とりつく: 人や物に掴まる。すがりつく。 (ほかに: 出没する, 出る)\n(動詞) hauntの直説法現在第三人称単数形: とりつく: 人や物に掴まる。すがりつく。 (ほかに: 出没する, 出る)
+HAUTEUR	(名詞) hauteurの訳: 傲慢さ
+HAUTEURS	(名詞) hauteurの複数形: 傲慢さ
+HAVE	(動詞) 所有する。持つ。（類義語 possess, own, hold）
+HAVEN	(名詞) 港: （みなと）陸に接した海洋、湖沼、河川の一部及びその接した陸地の部分であり、船を係留し人や荷物の積み下ろしを行う設備。
+HAVENING	(havenの変化形) (名詞) 港: （みなと）陸に接した海洋、湖沼、河川の一部及びその接した陸地の部分であり、船を係留し人や荷物の積み下ろしを行う設備。
+HAVENS	(名詞) "haven" の複数形: 港: （みなと）陸に接した海洋、湖沼、河川の一部及びその接した陸地の部分であり、船を係留し人や荷物の積み下ろしを行う設備。
+HAVERSACK	(名詞) 雑嚢: 雑多な物を入れるための、肩から掛ける鞄。
+HAVERSACKS	(haversackの変化形) (名詞) 雑嚢: 雑多な物を入れるための、肩から掛ける鞄。
+HAVES	(haveの変化形) (動詞) 所有する。持つ。（類義語 possess, own, hold）
+HAVING	(動詞) have の現在分詞: 所有する。持つ。（類義語 possess, own, hold）
+HAW	(名詞) hawの訳: さんざしの実
+HAWED	(hawの変化形) (名詞) hawの訳: さんざしの実
+HAWING	(hawの変化形) (名詞) hawの訳: さんざしの実
+HAWK	(名詞) hawkの訳: 鷹\n(動詞) hawkの訳: 鷹狩する
+HAWKED	(動詞) "hawk" の過去形・過去分詞形: 鷹
+HAWKING	(動詞) "hawk" の動名詞形又は現在分詞形: 鷹
+HAWKINGS	(hawkの変化形) (名詞) hawkの訳: 鷹
+HAWKS	(名詞) "hawk" の複数形: 鷹\n(動詞) "hawk" の三人称単数現在形: 鷹
+HAWS	(hawの変化形) (名詞) hawの訳: さんざしの実
+HAWSER	(名詞) hawserの訳: 大綱
+HAWSERS	(名詞) hawserの複数形: 大綱
+HAWTHORN	(名詞) 山査子: バラ科サンザシ属の落葉低木。学名:Crataegus cuneata。
+HAWTHORNS	(hawthornの変化形) (名詞) 山査子: バラ科サンザシ属の落葉低木。学名:Crataegus cuneata。
+HAY	(名詞) 干し草。馬草。\n(動詞) hayの訳: 干し草にする
+HAYED	(動詞) hayの過去形・過去分詞: 干し草。馬草。
+HAYER	(hayの変化形) (名詞) 干し草。馬草。
+HAYING	(動詞) hayの現在分詞: 干し草。馬草。\n(名詞) hayingの訳: 干し草作り
+HAYINGS	(名詞) hayingの複数形: hayの現在分詞: 干し草。馬草。
+HAYLOFT	(名詞) hayloftの訳: 干し草置き場
+HAYLOFTS	(名詞) hayloftの複数形: 干し草置き場
+HAYRICK	(名詞) hayrickの訳: 干し草の山
+HAYRICKS	(名詞) hayrickの複数形: 干し草の山
+HAYS	(名詞) hayの複数形: 干し草。馬草。\n(動詞) hayの直説法現在第三人称単数形: 干し草。馬草。
+HAYSTACK	(名詞) haystackの訳: 干し草の山
+HAYSTACKS	(名詞) haystackの複数形: 干し草の山
+HAZARD	(名詞) 危険: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。\n(動詞) hazardの訳: 危険にさらす
+HAZARDED	(動詞) "hazard" の過去形・過去分詞形: 危険: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。
+HAZARDING	(動詞) "hazard" の動名詞形又は現在分詞形: 危険: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。
+HAZARDOUS	(形容詞) 危険な: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。
+HAZARDS	(名詞) "hazard" の複数形: 危険: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。\n(動詞) "hazard" の三人称単数現在形: 危険: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。
+HAZE	(名詞) 靄。霞。煙霧。\n(動詞) 靄がかかる。霞む。
+HAZED	(動詞) "haze" の過去形・過去分詞: 靄。霞。煙霧。
+HAZEL	(名詞) hazelの訳: ⟪ハシバミ|はしばみ⟫\n(形容詞) hazelの訳: ハシバミ色の
+HAZELS	(名詞) hazelの複数形: ハシバミ。
+HAZER	(hazeの変化形) (名詞) 靄。霞。煙霧。
+HAZES	(名詞) hazeの複数形: 靄。霞。煙霧。\n(動詞) hazeの直説法現在第三人称単数形: 靄。霞。煙霧。
+HAZIER	(形容詞) hazyの比較級: 霞んだ。靄のかかった。
+HAZIEST	(形容詞) hazyの最上級: 霞んだ。靄のかかった。
+HAZILY	(副詞) hazilyの訳: 霞んで
+HAZINESS	(名詞) 霞んでいること。
+HAZINESSES	(名詞) hazinessの複数形: 霞んでいること。
+HAZING	(動詞) hazeの現在分詞: 靄。霞。煙霧。\n(名詞) （新入生に対する）いじめ。しごき。
+HAZY	(形容詞) 霞んだ。靄のかかった。
+HEAD	(名詞) 頭: （あたま、かしら）人体のいただき。動物の脳が入っている部分。\n(形容詞) headの訳: 頭の
+HEADACHE	(名詞) 頭痛: 頭部の痛み、頭が痛いこと。特に外傷によるものでなく、体内に起因するものを言う。
+HEADACHES	(名詞) headacheの複数形: 頭痛: 頭部の痛み、頭が痛いこと。特に外傷によるものでなく、体内に起因するものを言う。
+HEADED	(形容詞) 特定の種類の頭を持つ。\n(動詞) "head" の過去形・過去分詞形: 頭: （あたま、かしら）人体のいただき。動物の脳が入っている部分。
+HEADING	(名詞) 前面。上部。\n(動詞) headの動名詞又は現在分詞: 頭: （あたま、かしら）人体のいただき。動物の脳が入っている部分。
+HEADINGS	(名詞) headingの複数形: 前面。上部。
+HEADLAMP	(名詞) ヘッドライト: 乗り物の前面に取り付け、夜間やトンネルなどで前方を照らすライト。前照灯。 (ほかに: 前照灯)
+HEADLAMPS	(名詞) headlampの複数形: ヘッドライト: 乗り物の前面に取り付け、夜間やトンネルなどで前方を照らすライト。前照灯。 (ほかに: 前照灯)
+HEADLAND	(名詞) 岬: （みさき）陸地で海に突き出、前方と左右に海を望むことのできる地点。
+HEADLANDS	(名詞) headlandの複数形: 岬: （みさき）陸地で海に突き出、前方と左右に海を望むことのできる地点。
+HEADLIGHT	(名詞) ヘッドライト: 乗り物の前面に取り付け、夜間やトンネルなどで前方を照らすライト。前照灯。 (ほかに: 前照灯)
+HEADLIGHTS	(名詞) headlightの複数形: ヘッドライト: 乗り物の前面に取り付け、夜間やトンネルなどで前方を照らすライト。前照灯。 (ほかに: 前照灯)
+HEADLINE	(名詞) 見出し: （みだし）新聞などの記事でその内容がすぐわかるように文章の前に置かれる言葉。\n(動詞) headlineの訳: 見出しを作る
+HEADLINED	(動詞) headlineの過去または過去分詞形: 見出し。
+HEADLINES	(名詞) headlineの複数形: 見出し。\n(動詞) headlineの直説法第三人称単数現在形: 見出し。
+HEADLINING	(動詞) headlineの動名詞または現在分詞形: 見出し。
+HEADLOCK	(名詞) headlockの訳: ヘッドロック\n(動詞) ヘッドロックで抑える。
+HEADLOCKS	(名詞) headlockの複数形: ヘッドロック。\n(動詞) headlockの直説法現在第三人称単数形: ヘッドロック
+HEADLONG	(副詞) headlongの訳: 真っ逆さまに, 頭から先に\n(形容詞) headlongの訳: 真っ逆さまの
+HEADMASTER	(名詞) 校長: 学校の長。学校長。
+HEADMASTERS	(名詞) headmasterの複数形: 校長: 学校の長。学校長。
+HEADMASTERSHIP	(名詞) 校長の地位・任期。
+HEADMASTERSHIPS	(名詞) headmastershipの複数形: 校長の地位・任期。
+HEADMISTRESS	(名詞) headmistressの訳: ⟪校長|こうちょう⟫
+HEADMISTRESSES	(headmistressの変化形) (名詞) headmistressの訳: ⟪校長|こうちょう⟫
+HEADPHONES	(名詞) ヘッドホン: 頭に取り付けてオーディオ機器と接続するカチューシャのような形状の器具。耳に当てる部分にスピーカーが付いており、その本人以外には音が聞こえないようになっている。 (ほかに: ヘッドフォン, イヤフォン)
+HEADQUARTER	(動詞) headquarterの訳: 本部を置く
+HEADQUARTERED	(動詞) headquarterの過去形・過去分詞: 本部を置く
+HEADQUARTERING	(動詞) headquarterの現在分詞: 本部を置く
+HEADQUARTERS	(名詞) 司令部。本営。
+HEADREST	(名詞) headrestの訳: ヘッドレスト
+HEADRESTS	(名詞) headrestの複数形: ヘッドレスト
+HEADS	(名詞) head の複数形: 頭: （あたま、かしら）人体のいただき。動物の脳が入っている部分。
+HEADSPRING	(名詞) みなもと: 川の水の流れ出る所。
+HEADSPRINGS	(headspringの変化形) (名詞) みなもと: 川の水の流れ出る所。
+HEADSTONE	(名詞) headstoneの訳: 墓石
+HEADSTONES	(名詞) headstoneの複数形: 墓石
+HEADSTRONG	(形容詞) headstrongの訳: 頑固な, 強情な, わがままな
+HEADWAY	(名詞) 前進。進歩。
+HEADWAYS	(名詞) headwayの複数形: 前進。進歩。
+HEADWIND	(名詞) 向かい風: （むかいかぜ）進行方向から吹く風。むこうかぜ。逆風。
+HEADWINDS	(headwindの変化形) (名詞) 向かい風: （むかいかぜ）進行方向から吹く風。むこうかぜ。逆風。
+HEADWORD	(名詞) headwordの訳: 見出し語
+HEADWORDS	(名詞) headwordの複数形: 見出し語
+HEAL	(動詞) 治る: （なおる）【治る】病や傷から、回復する。治癒する。 (ほかに: 治癒する)
+HEALED	(動詞) healの過去形・過去分詞: 治る: （なおる）【治る】病や傷から、回復する。治癒する。 (ほかに: 治癒する)
+HEALER	(名詞) 癒やす人。治療者。
+HEALERS	(名詞) healerの複数形: 癒やす人。治療者。
+HEALING	(名詞) 治癒: （一般に自動詞）怪我や病気が治ること。 (ほかに: 治療)\n(動詞) healの現在分詞: 治る: （なおる）【治る】病や傷から、回復する。治癒する。 (ほかに: 治癒する)
+HEALS	(動詞) healの現在第三人称単数形。
+HEALTH	(名詞) 健全: 心身に異常がなく健康であること。そのさま。 (ほかに: 健康)
+HEALTHFUL	(形容詞) 健全な: 心身に異常がなく健康であること。そのさま。
+HEALTHFULNESS	(名詞) 元気: 健康・健全な状態。
+HEALTHFULNESSES	(healthfulnessの変化形) (名詞) 元気: 健康・健全な状態。
+HEALTHIEST	(healthyの変化形) (形容詞) 健全な: 心身に異常がなく健康であること。そのさま。 (ほかに: 健康な)
+HEALTHILY	(副詞) healthilyの訳: 健康で
+HEALTHINESS	(名詞) healthinessの訳: 健全さ
+HEALTHINESSES	(名詞) healthinessの複数形: 健全さ
+HEALTHS	(healthの変化形) (名詞) 健全: 心身に異常がなく健康であること。そのさま。 (ほかに: 健康)
+HEALTHY	(形容詞) 健全な: 心身に異常がなく健康であること。そのさま。 (ほかに: 健康な)
+HEAP	(名詞) 大勢。群衆。\n(動詞) 積み上げる。積み重ねる。蓄積する。
+HEAPED	(形容詞) 積み上げられた。積み重ねられた。\n(動詞) heapの過去形・過去分詞: 大勢。群衆。
+HEAPING	(動詞) heapの現在分詞: 大勢。群衆。\n(形容詞) heapingの訳: 山盛りの
+HEAPS	(名詞) heapの複数形: 大勢。群衆。\n(動詞) heapの直説法現在第三人称単数形: 大勢。群衆。
+HEAR	(動詞) 聞く。聞こえる。 注意を払うことなく、自然に耳に聞こえる。
+HEARD	(動詞) hearの過去形及び過去分詞: 聞く。聞こえる。 注意を払うことなく、自然に耳に聞こえる。
+HEARER	(名詞) 聴者: 聴く者。聴き手。 (ほかに: ききて)
+HEARERS	(hearerの変化形) (名詞) 聴者: 聴く者。聴き手。 (ほかに: ききて)
+HEARING	(名詞) hearingの訳: 聴覚\n(動詞) hearの現在分詞: 聞く。聞こえる。 注意を払うことなく、自然に耳に聞こえる。
+HEARINGS	(hearの変化形) (動詞) 聞く。聞こえる。 注意を払うことなく、自然に耳に聞こえる。
+HEARS	(動詞) "hear" の三人称単数現在形: 聞く。聞こえる。 注意を払うことなく、自然に耳に聞こえる。
+HEARSE	(名詞) 霊柩車。葬儀用の馬車。
+HEARSED	(hearseの変化形) (名詞) 霊柩車。葬儀用の馬車。
+HEARSES	(名詞) hearseの複数形: 霊柩車。葬儀用の馬車。
+HEARSING	(hearseの変化形) (名詞) 霊柩車。葬儀用の馬車。
+HEART	(名詞) 心: （こころ）気持ち、感情。 (ほかに: 心臓)
+HEARTACHE	(名詞) 心痛: 心を痛めること。非常に心配すること。
+HEARTACHES	(名詞) heartacheの複数形: 心痛。
+HEARTBEAT	(名詞) 鼓動: 心臓が血液を送り出すために律動的に脈打つこと。また、その響き。 (ほかに: 心拍, 動悸)
+HEARTBEATS	(heartbeatの変化形) (名詞) 鼓動: 心臓が血液を送り出すために律動的に脈打つこと。また、その響き。 (ほかに: 心拍, 動悸)
+HEARTBREAKING	(形容詞) 胸が張り裂けるような。悲痛な。
+HEARTBREAKINGLY	(heartbreakingの変化形) (形容詞) 胸が張り裂けるような。悲痛な。
+HEARTBURN	(名詞) 胸焼け: 胃から食道に上がってくるような、灼熱感や疼痛に似た感覚。
+HEARTBURNS	(名詞) heartburnの複数形: 胸焼け。
+HEARTEN	(動詞) heartenの訳: 励ます
+HEARTENED	(動詞) heartenの過去形・過去分詞: 励ます
+HEARTENING	(形容詞) hearteningの訳: 励みになる\n(動詞) heartenの現在分詞: 励ます
+HEARTENS	(動詞) heartenの三人称単数現在形: 励ます
+HEARTFELT	(形容詞) heartfeltの訳: 心からの
+HEARTH	(名詞) 暖炉: 火を焚いて室内を暖めるための炉。 (ほかに: 煖炉)
+HEARTHS	(hearthの変化形) (名詞) 暖炉: 火を焚いて室内を暖めるための炉。 (ほかに: 煖炉)
+HEARTIER	(heartyの変化形) (形容詞) heartyの訳: 心の温かい
+HEARTIES	(heartyの変化形) (形容詞) heartyの訳: 心の温かい
+HEARTIEST	(heartyの変化形) (形容詞) heartyの訳: 心の温かい
+HEARTILY	(副詞) heartilyの訳: ⟪心から|こころから⟫
+HEARTING	(heartの変化形) (名詞) 心: （こころ）気持ち、感情。 (ほかに: 心臓)
+HEARTLESS	(形容詞) むごい: 見るに耐えない状況。悲惨で、痛ましい。
+HEARTRENDING	(形容詞) 胸を引き裂くような、悲痛な、せつない
+HEARTRENDINGLY	(副詞) 胸を引き裂くように、悲痛に
+HEARTS	(名詞) heart の複数形: 心: （こころ）気持ち、感情。 (ほかに: 心臓)
+HEARTWARMING	(形容詞) ほほえましい: 好ましく、思わず微笑みたくなる。
+HEARTWOOD	(名詞) あかみ: 材木の心材部分。
+HEARTWOODS	(heartwoodの変化形) (名詞) あかみ: 材木の心材部分。
+HEARTY	(形容詞) heartyの訳: 心の温かい
+HEAT	(名詞) 熱: 温度差がある2つの物体の間あるいは系と周囲の間で接触や放射があったときに、その温度差を原因として移動する形態のエネルギー。多くの場合には、物体に熱を与えれば温度が上がり、物体から熱を取り去れば温度が下がる。 (ほかに: 熱さ)\n(動詞) heatの訳: ～を熱する
+HEATED	(形容詞) heatedの訳: 暖められた\n(動詞) heatの過去形・過去分詞: 熱、熱さ
+HEATEDLY	(副詞) heatedlyの訳: 興奮して
+HEATER	(名詞) ストーブ: 石炭・石油などを燃焼させるなどして熱を発生させる暖房器具。
+HEATERS	(heaterの変化形) (名詞) ストーブ: 石炭・石油などを燃焼させるなどして熱を発生させる暖房器具。
+HEATH	(名詞) heathの訳: ⟪荒野|こうや⟫, 荒地
+HEATHEN	(形容詞) heathenの訳: 異教の, 異教徒の\n(名詞) 異教徒: 自分が信仰する宗教とは異なる宗教を信仰する者。
+HEATHENS	(名詞) heathenの複数形: 異教の, 異教徒の
+HEATHER	(名詞) heatherの訳: ギリュウモドキ
+HEATHERS	(heatherの変化形) (名詞) heatherの訳: ギリュウモドキ
+HEATHS	(名詞) heathの複数形: ⟪荒野|こうや⟫, 荒地
+HEATING	(名詞) heatingの訳: 暖房\n(動詞) heatの現在分詞: 熱:...
+HEATS	(名詞) "heat" の複数形: 熱:...\n(動詞) "heat" の三人称単数現在形: 熱:...
+HEATSTROKE	(名詞) 熱射病。熱中症。
+HEATSTROKES	(名詞) heatstrokeの複数形: 熱射病。熱中症。
+HEAVE	(動詞) heaveの訳: 持ち上げる\n(名詞) （重い物を）持ち上げること。
+HEAVED	(動詞) heaveの過去形・過去分詞: 持ち上げる
+HEAVEN	(名詞) 空: （そら）海面等水面を含んだ地上の上方に広がる領域、空間。天。 (ほかに: 天, 天空)
+HEAVENLIER	(heavenlyの変化形) (形容詞) 天の: における、神がいる場所。
+HEAVENLIEST	(heavenlyの変化形) (形容詞) 天の: における、神がいる場所。
+HEAVENLY	(形容詞) 天の: における、神がいる場所。
+HEAVENS	(名詞) "heaven" の複数形: 空: （そら）海面等水面を含んだ地上の上方に広がる領域、空間。天。 (ほかに: 天, 天空)
+HEAVES	(heaveの変化形) (動詞) heaveの訳: 持ち上げる
+HEAVIER	(形容詞) heavy の比較級: 重い
+HEAVIES	(名詞) "heavy" の複数形: 重い
+HEAVIEST	(形容詞) "heavy" の最上級: 重い
+HEAVILY	(副詞) 大量に: 量の多いこと。また、そのさま。
+HEAVINESS	(名詞) heavinessの訳: 重さ
+HEAVINESSES	(名詞) heavinessの複数形: 重さ
+HEAVING	(動詞) heaveの現在分詞: 持ち上げる\n(形容詞) heavingの訳: 混雑した
+HEAVY	(形容詞) heavyの訳: 重い\n(名詞) heavyの訳: 用心棒
+HEBDOMADAL	(形容詞) 毎週の: 全ての週。
+HEBDOMADALLY	(副詞) 毎週: 一週間ごとに。
+HECTARE	(名詞) ヘクタール: メートル法における面積の単位。記号は ha, また新聞等では㌶とも表記される。1ha=100a=10,000㎡で、100m四方の正方形の面積となる。主に農地面積を表すのに用い、1haはおおよそ1町に等しく、農業のみで平均的1世帯の家計を支える場合の標準的面積とされる。
+HECTARES	(名詞) hectareの複数形: ヘクタール: メートル法における面積の単位。記号は ha,...
+HECTIC	(形容詞) 大忙しの。てんてこまいの。
+HECTICLY	(hecticの変化形) (形容詞) 大忙しの。てんてこまいの。
+HECTORING	(名詞) hectoringの訳: ⟪いじめ⟫
+HEDGE	(名詞) hedgeの訳: ⟪生垣|いけがき⟫, ⟪垣根|かきね⟫
+HEDGED	(hedgeの変化形) (名詞) hedgeの訳: ⟪生垣|いけがき⟫, ⟪垣根|かきね⟫
+HEDGEHOG	(名詞) hedgehogの訳: ⟪はりねずみ⟫\n(動詞) hedgehogの訳: 鉄条網を作る
+HEDGEHOGS	(名詞) hedgehog の複数形: ⟪はりねずみ⟫\n(動詞) hedgehog の三人称単数現在形: ⟪はりねずみ⟫
+HEDGES	(hedgeの変化形) (名詞) hedgeの訳: ⟪生垣|いけがき⟫, ⟪垣根|かきね⟫
+HEDGING	(hedgeの変化形) (名詞) hedgeの訳: ⟪生垣|いけがき⟫, ⟪垣根|かきね⟫
+HEED	(名詞) heedの訳: 注意\n(動詞) heedの訳: 耳を傾ける
+HEEDED	(動詞) heedの過去形・過去分詞: 注意
+HEEDER	(heedの変化形) (名詞) heedの訳: 注意
+HEEDFUL	(形容詞) heedfulの訳: 注意を払う
+HEEDING	(動詞) heedの動名詞又は現在分詞: 注意
+HEEDLESS	(形容詞) 注意を払わない。
+HEEDLESSNESS	(名詞) heedlessnessの訳: 不注意さ, 無頓着さ
+HEEDLESSNESSES	(名詞) heedlessnessの複数形: 不注意さ, 無頓着さ
+HEEDS	(動詞) heedの直説法現在第三人称単数形: 注意
+HEEL	(名詞) 踵: （かかと）履物の後ろの部分。[15世紀～]\n(動詞) すぐ後を付いて行く。
+HEELED	(動詞) heelの過去形・過去分詞: 踵: （かかと）履物の後ろの部分。[15世紀～]\n(形容詞) 踵のある。踵が～の。
+HEELING	(動詞) heelの現在分詞: 踵: （かかと）履物の後ろの部分。[15世紀～]
+HEELS	(名詞) heelの複数形: 踵: （かかと）履物の後ろの部分。[15世紀～]
+HEGEMONIES	(hegemonyの変化形) (名詞) hegemonyの訳: ヘゲモニー
+HEGEMONY	(名詞) hegemonyの訳: ヘゲモニー
+HEIFER	(名詞) heiferの訳: 若い牝牛
+HEIFERS	(名詞) heiferの複数形: 若い牝牛
+HEIGHT	(名詞) heightの訳: 高さ
+HEIGHTEN	(動詞) 高める: （程度などを）高くする。強くする。
+HEIGHTENED	(動詞) "heighten" の過去形・過去分詞形: 高める: （程度などを）高くする。強くする。
+HEIGHTENING	(動詞) "heighten" の動名詞形又は現在分詞形: 高める: （程度などを）高くする。強くする。
+HEIGHTENS	(動詞) "heighten" の三人称単数現在形: 高める: （程度などを）高くする。強くする。
+HEIGHTS	(名詞) "height" の複数形: 高さ
+HEIR	(名詞) 相続人: 被相続人の財産上の地位を承継する者。
+HEIRED	(heirの変化形) (名詞) 相続人: 被相続人の財産上の地位を承継する者。
+HEIRESS	(名詞) heiressの訳: 女子相続人
+HEIRESSES	(名詞) heiressの複数形: 女子相続人
+HEIRING	(heirの変化形) (名詞) 相続人: 被相続人の財産上の地位を承継する者。
+HEIRLOOM	(名詞) heirloomの訳: きんたま
+HEIRLOOMS	(heirloomの変化形) (名詞) heirloomの訳: きんたま
+HEIRS	(名詞) heirの複数形: 相続人: 被相続人の財産上の地位を承継する者。
+HEKTARE	(名詞) hectareの旧綴り。
+HEKTARES	(名詞) hektareの複数形: hectareの旧綴り。
+HELD	(動詞) holdの過去形・過去分詞: 持つ、つかむ、握る。(類義語: grasp, grip)
+HELICES	(helixの変化形) (名詞) helixの訳: 螺旋
+HELICOPTER	(名詞) ヘリコプター: 回転翼機（回転翼航空機）の主たる一つ。エンジン動力で機体上部の回転翼（メインローター）を水平方向に回転させ、これによって発生した揚力を利用して、上下および前後左右に自在飛行する航空機。空中停止（ホバリング）ができるのも際立った特徴で、これを活かした運用は特に多い。反面、固定翼機（固定翼航空機）に比べて飛行速度に限界があるが、これは、ヘリコプターが持つ、揚力の非対称性や対衝撃波の脆弱性が原因である。\n(動詞) ～をヘリコプターで運ぶ。
+HELICOPTERS	(名詞) helicopterの複数形: ヘリコプター:...\n(動詞) helicopterの直説法現在第三人称単数形: ヘリコプター:...
+HELIOCENTRIC	(形容詞) heliocentricの訳: 太陽中心の
+HELIOTROPE	(名詞) heliotropeの訳: ヘリオトロープ
+HELIOTROPES	(heliotropeの変化形) (名詞) heliotropeの訳: ヘリオトロープ
+HELIPORT	(名詞) ヘリポート: ヘリコプターが発着する飛行場。
+HELIPORTS	(名詞) heliportの複数形: ヘリポート: ヘリコプターが発着する飛行場。
+HELIUM	(名詞) ヘリウム: 原子番号 2、元素記号 He の非金属元素。原子量4.003。希ガス。単体は、常温常圧では単原子分子の無色・無臭の気体。沸点は−268.93℃で、全元素中で最低。
+HELIUMS	(名詞) heliumの複数形: ヘリウム: 原子番号 2、元素記号 He...
+HELIX	(名詞) helixの訳: 螺旋
+HELIXES	(helixの変化形) (名詞) helixの訳: 螺旋
+HELL	(名詞) hellの訳: ⟪地獄|じごく⟫\n(感動詞) hellの訳: ⟪ちくしょう⟫
+HELLCAT	(名詞) 魔女: 通常の人にない優れた能力を持った女性。「東洋の魔女」
+HELLCATS	(hellcatの変化形) (名詞) 魔女: 通常の人にない優れた能力を持った女性。「東洋の魔女」
+HELLED	(hellの変化形) (名詞) hellの訳: ⟪地獄|じごく⟫
+HELLFIRE	(名詞) hellfireの訳: 地獄の火, ⟪業火|ごうか⟫\n(感動詞) hellfireの訳: くそ, 何てこった
+HELLFIRES	(名詞) hellfireの複数形: 地獄の火, ⟪業火|ごうか⟫
+HELLING	(hellの変化形) (名詞) hellの訳: ⟪地獄|じごく⟫
+HELLISH	(形容詞) hellishの訳: 地獄の, 地獄のような
+HELLO	(感動詞) こんにちは: （特に日中に）人に会った時の挨拶の言葉\n(名詞) こんにちはという言葉。よろしくという挨拶。
+HELLOED	(helloの変化形) (感動詞) こんにちは: （特に日中に）人に会った時の挨拶の言葉
+HELLOES	(helloの変化形) (感動詞) こんにちは: （特に日中に）人に会った時の挨拶の言葉
+HELLOING	(helloの変化形) (感動詞) こんにちは: （特に日中に）人に会った時の挨拶の言葉
+HELLOS	(helloの変化形) (感動詞) こんにちは: （特に日中に）人に会った時の挨拶の言葉
+HELLS	(hellの変化形) (名詞) hellの訳: ⟪地獄|じごく⟫
+HELM	(名詞) 舵: （かじ）船の進む方向を定める装置。舵機。
+HELMED	(helmの変化形) (名詞) 舵: （かじ）船の進む方向を定める装置。舵機。
+HELMET	(名詞) ヘルメット: 頭部・顔面・顎を守るためにかぶる安全具。工事現場・特定のスポーツ・自動車やオートバイ、自転車乗車時、災害時などで使用する。
+HELMETING	(helmetの変化形) (名詞) ヘルメット: 頭部・顔面・顎を守るためにかぶる安全具。工事現場・特定のスポーツ・自動車やオートバイ、自転車乗車時、災害時などで使用する。
+HELMETS	(名詞) helmet の複数形: ヘルメット: 頭部・顔面・顎を守るためにかぶる安全具。工事現場・特定のスポーツ・自動車やオートバイ、自転車乗車時、災害時などで使用する。
+HELMING	(helmの変化形) (名詞) 舵: （かじ）船の進む方向を定める装置。舵機。
+HELMS	(helmの変化形) (名詞) 舵: （かじ）船の進む方向を定める装置。舵機。
+HELMSMAN	(名詞) 舵手: 操舵する人。舵取りをする人。
+HELMSMEN	(helmsmanの変化形) (名詞) 舵手: 操舵する人。舵取りをする人。
+HELP	(動詞) helpの訳: 手伝う\n(名詞) helpの訳: ⟪手助け|てだすけ⟫, 手伝い
+HELPED	(動詞) "help" の過去形・過去分詞形: 手伝う
+HELPER	(名詞) 援助: 困っている人や団体に力を貸すこと。 (ほかに: 手伝い, 介助)
+HELPERS	(名詞) "helper" の複数形: 援助: 困っている人や団体に力を貸すこと。 (ほかに: 手伝い, 介助)
+HELPFUL	(形容詞) 有用な: 役に立つこと。 (ほかに: 役に立つ, 有益な)
+HELPFULLY	(副詞) 役に立つように
+HELPFULNESS	(名詞) 助けになる性質。有益。
+HELPFULNESSES	(helpfulnessの変化形) (名詞) 助けになる性質。有益。
+HELPING	(名詞) helpingの訳: 援助\n(動詞) helpの現在分詞: 手伝う
+HELPINGS	(名詞) "helping" の複数形: 援助
+HELPLESS	(形容詞) 無力な: 能力・体力・勢力・財力などの力がないこと。またはそのさま。
+HELPLESSLY	(副詞) どうしようもなく。
+HELPLESSNESS	(名詞) helplessnessの訳: 無力さ
+HELPLESSNESSES	(名詞) "helplessness" の複数形: 無力さ
+HELPMATE	(名詞) パートナー: 配偶者。恋人。
+HELPMATES	(helpmateの変化形) (名詞) パートナー: 配偶者。恋人。
+HELPS	(名詞) "help" の複数形: 手伝う\n(動詞) "help" の三人称単数現在形: 手伝う
+HEMATOLOGIES	(hematologyの変化形) (名詞) 血液学: 血液の成分などについて研究する内科学の一つ。
+HEMATOLOGY	(名詞) 血液学: 血液の成分などについて研究する内科学の一つ。
+HEMATURIA	(名詞) 血尿: 赤血球の混入した尿。赤血球尿。
+HEMATURIAS	(名詞) hematuriaの複数形: 血尿: 赤血球の混入した尿。赤血球尿。
+HEMIDEMISEMIQUAVER	(名詞) hemidemisemiquaverの訳: 六十四分音符
+HEMIDEMISEMIQUAVERS	(hemidemisemiquaverの変化形) (名詞) hemidemisemiquaverの訳: 六十四分音符
+HEMIPTER	(名詞) hemipterの訳: 半翅類
+HEMIPTERAN	(形容詞) hemipteranの訳: 半翅類の\n(名詞) 半翅類: 半翅目に分類される昆虫の総称。
+HEMIPTERANS	(hemipteranの変化形) (形容詞) hemipteranの訳: 半翅類の
+HEMIPTEROUS	(形容詞) hemipterousの訳: 半翅類の
+HEMIPTERS	(名詞) hemipterの複数形: 半翅類
+HEMISPHERE	(名詞) 半球: （地理）地球を等分した場合の一方の地表。
+HEMISPHERES	(名詞) hemisphereの複数形: 半球: （地理）地球を等分した場合の一方の地表。
+HEMISPHERICAL	(形容詞) hemisphericalの訳: 半球状の, 半球形の
+HEMLOCK	(名詞) hemlockの訳: 毒人参
+HEMLOCKS	(hemlockの変化形) (名詞) hemlockの訳: 毒人参
+HEMOGLOBIN	(名詞) ヘモグロビン: ヘム（色素）とグロビン（たんぱく質）が結合した色素たんぱく質。赤血球の中に含まれる。
+HEMOGLOBINS	(名詞) hemoglobinの複数形: ヘモグロビン: ヘム（色素）とグロビン（たんぱく質）が結合した色素たんぱく質。赤血球の中に含まれる。
+HEMOLYSES	(名詞) hemolysisの複数形: 溶血: 細菌や衝撃などにより、赤血球が破壊されること。
+HEMOLYSIS	(名詞) 溶血: 細菌や衝撃などにより、赤血球が破壊されること。
+HEMOPHILIA	(名詞) hemophiliaの訳: 血友病
+HEMOPHILIAC	(名詞) hemophiliacの訳: 血友病患者
+HEMOPHILIACS	(名詞) hemophiliacの複数形: 血友病患者
+HEMOPHILIAS	(名詞) hemophiliaの複数形: 血友病
+HEMORRHAGE	(名詞) 出血: 血管から血液の全成分、特に赤血球が出る現象。\n(動詞) hemorrhageの訳: 出血する
+HEMORRHAGED	(動詞) "hemorrhage" の過去形・過去分詞形: 出血: 血管から血液の全成分、特に赤血球が出る現象。
+HEMORRHAGES	(名詞) "hemorrhage" の複数形: 出血: 血管から血液の全成分、特に赤血球が出る現象。\n(動詞) "hemorrhage" の三人称単数現在形: 出血: 血管から血液の全成分、特に赤血球が出る現象。
+HEMORRHAGING	(動詞) "hemorrhage" の動名詞形又は現在分詞形: 出血: 血管から血液の全成分、特に赤血球が出る現象。
+HEMORRHOID	(名詞) 痔: 肛門周辺に生じた疾患の総称。痔疾。
+HEMORRHOIDS	(hemorrhoidの変化形) (名詞) 痔: 肛門周辺に生じた疾患の総称。痔疾。
+HEMP	(名詞) 麻: （あさ）草本の植物の名。繊維を採取するため栽培される。
+HEMPS	(名詞) "hemp" の複数形: 麻: （あさ）草本の植物の名。繊維を採取するため栽培される。
+HEN	(名詞) めんどり。 (特に1歳を超えた個体を指す)\n(動詞) henの訳: 噂話をする
+HENBANE	(名詞) ヒヨス: ナス科の二年草。有毒なアルカロイドを含むが薬用にも使用される。ヨーロッパ、北アフリカからインドの原産。
+HENBANES	(henbaneの変化形) (名詞) ヒヨス: ナス科の二年草。有毒なアルカロイドを含むが薬用にも使用される。ヨーロッパ、北アフリカからインドの原産。
+HENCE	(副詞) それゆえに: 前の事柄が後の事柄の理由となることを表す。それだから。 (ほかに: 従って)
+HENCEFORTH	(副詞) 今後は: 今より後に。今から将来に亘って。 (ほかに: これからは)
+HENCEFORWARD	(副詞) 今後は: 今より後に。今から将来に亘って。 (ほかに: これからは)
+HENHOUSE	(名詞) 鶏舎: 鶏を飼うための小屋。
+HENHOUSES	(henhouseの変化形) (名詞) 鶏舎: 鶏を飼うための小屋。
+HENPECKED	(形容詞) henpeckedの訳: 恐妻家の
+HENRIES	(henryの変化形) (名詞) ヘンリー: (物理) インダクタンスの単位。記号 H。1ヘンリーは、1秒間に1アンペアの割合で変化する直流の電流が流れるときに1ボルトの起電力を生ずる閉回路のインダクタンスのこと。
+HENRY	(名詞) ヘンリー: (物理) インダクタンスの単位。記号 H。1ヘンリーは、1秒間に1アンペアの割合で変化する直流の電流が流れるときに1ボルトの起電力を生ずる閉回路のインダクタンスのこと。
+HENRYS	(henryの変化形) (名詞) ヘンリー: (物理) インダクタンスの単位。記号 H。1ヘンリーは、1秒間に1アンペアの割合で変化する直流の電流が流れるときに1ボルトの起電力を生ずる閉回路のインダクタンスのこと。
+HENS	(henの変化形) (名詞) めんどり。 (特に1歳を超えた個体を指す)
+HEPATIC	(形容詞) hepaticの訳: 肝臓色の
+HEPATICS	(hepaticの変化形) (形容詞) hepaticの訳: 肝臓色の
+HEPATITIS	(名詞) 肝炎: ウイルス・薬物・輸血などによって起こる肝臓の炎症。
+HEPTAGON	(名詞) 七角形: 多角形の一つ。7個の頂点と7本の辺をもつ。
+HEPTAGONAL	(形容詞) 七角形の: 多角形の一つ。7個の頂点と7本の辺をもつ。
+HEPTAGONS	(名詞) heptagonの複数形: 七角形: 多角形の一つ。7個の頂点と7本の辺をもつ。
+HER	(代名詞) herの訳: 彼女の
+HERALDIC	(形容詞) heraldicの訳: 紋章官  の
+HERALDRIES	(名詞) heraldryの複数形: 紋章学：紋章を様々な共通点又は相違点から整理・分類することによって体系化し、そこからその意義や由来を研究する学問。
+HERALDRY	(名詞) 紋章学：紋章を様々な共通点又は相違点から整理・分類することによって体系化し、そこからその意義や由来を研究する学問。
+HERB	(名詞) 草: （くさ）草本植物の総称。特に、どこにでも容易に生え、食用等にあまり役に立たないものをいう。
+HERBAGE	(名詞) herbageの訳: 草, 牧草
+HERBAGES	(名詞) herbageの複数形: 草, 牧草
+HERBAL	(形容詞) ハーブの。香草の。薬草の。\n(名詞) herbalの訳: 草本誌
+HERBALS	(名詞) herbalの複数形: ハーブの。香草の。薬草の。
+HERBED	(herbの変化形) (名詞) 草: （くさ）草本植物の総称。特に、どこにでも容易に生え、食用等にあまり役に立たないものをいう。
+HERBICIDE	(名詞) 除草剤: 雑草の生育を防除するのに使う薬剤。
+HERBICIDES	(名詞) "herbicide" の複数形: 除草剤: 雑草の生育を防除するのに使う薬剤。
+HERBIVORE	(名詞) 草食動物: 植物質の食物を摂取する動物。 (ほかに: 草食獣)
+HERBIVORES	(herbivoreの変化形) (名詞) 草食動物: 植物質の食物を摂取する動物。 (ほかに: 草食獣)
+HERBIVOROUS	(形容詞) 草食の: 動物がもっぱら草などの植物を食べて生きていくこと。
+HERBS	(herbの変化形) (名詞) 草: （くさ）草本植物の総称。特に、どこにでも容易に生え、食用等にあまり役に立たないものをいう。
+HERD	(名詞) herdの訳: 群れ\n(動詞) 群がる: （むらがる）多くの人や動物が一箇所に寄り集まる。 (ほかに: 群れる, 群れを成す)
+HERDED	(動詞) "herd" の過去形・過去分詞形: 群れ
+HERDING	(動詞) "herd" の動名詞形又は現在分詞形: 群れ
+HERDS	(名詞) "herd" の複数形: 群れ\n(動詞) "herd" の三人称単数現在形: 群れ
+HERE	(名詞) ここ: 現在、いる場所。\n(副詞) hereの訳: ここで, ⟪ここに⟫
+HEREAFTER	(副詞) hereafterの訳: 将来に\n(名詞) hereafterの訳: ⟪将来|しょうらい⟫
+HEREAFTERS	(hereafterの変化形) (副詞) hereafterの訳: 将来に
+HEREBY	(副詞) ここに: それで。それ故。 (ほかに: これによって, この結果)
+HEREDITARILY	(副詞) 遺伝的に: 遺伝に関係するさま。
+HEREDITARY	(形容詞) 世襲の。親譲りの。代代の。\n(名詞) hereditaryの訳: 世襲の統治者
+HEREDITIES	(名詞) heredityの複数形: 遺伝: 生物個体のもつ形質が次世代へと受け継がれる現象。
+HEREDITY	(名詞) 遺伝: 生物個体のもつ形質が次世代へと受け継がれる現象。
+HEREIN	(副詞) この中で、この内部で、ここにおいては。
+HEREINAFTER	(副詞) 以下: その基準、および、それより下の範囲全体を指し示す表現
+HERES	(名詞) hereの複数形: ここ: 現在、いる場所。
+HERESIES	(名詞) heresyの複数形: 異端: 学説や宗教的な考え方が正統なものから外れていること。
+HERESY	(名詞) 異端: 学説や宗教的な考え方が正統なものから外れていること。
+HERETIC	(名詞) 異端者: 異端とされる宗教、思想を信仰または主張する者。
+HERETICAL	(形容詞) 異端の: 学説や宗教的な考え方が正統なものから外れていること。 (ほかに: 異分子の)
+HERETICS	(名詞) hereticの複数形: 異端者: 異端とされる宗教、思想を信仰または主張する者。
+HERETOFORE	(副詞) これまで。今まで。
+HERITAGE	(名詞) heritageの訳: ⟪遺産|いさん⟫
+HERITAGES	(名詞) heritageの複数形: ⟪遺産|いさん⟫
+HERMIT	(名詞) 仙人: 無欲で世間離れした人。
+HERMITS	(名詞) hermitの複数形: 仙人。
+HERNIA	(名詞) herniaの訳: ヘルニア
+HERNIAE	(herniaの変化形) (名詞) herniaの訳: ヘルニア
+HERNIAS	(herniaの変化形) (名詞) herniaの訳: ヘルニア
+HERO	(名詞) ヒーロー: （えいゆう）優れた才知と強い力を持ち、人々から崇拝される男性。ときに女性も含む。 (ほかに: 英雄)
+HEROES	(名詞) heroの複数形: ヒーロー: （えいゆう）優れた才知と強い力を持ち、人々から崇拝される男性。ときに女性も含む。 (ほかに: 英雄)
+HEROIC	(形容詞) heroicの訳: 英雄の, 英雄に関する
+HEROICALLY	(副詞) 英雄のように。英雄的に。勇敢に。
+HEROICS	(名詞) heroicsの訳: 英雄的な行動, 勇気ある行動
+HEROIN	(名詞) heroinの訳: ヘロイン
+HEROINE	(名詞) ヒロイン: 演劇・小説などの女性の主人公。 (ほかに: 勇婦, 烈女)
+HEROINES	(名詞) heroineの複数形: ヒロイン: 演劇・小説などの女性の主人公。 (ほかに: 勇婦, 烈女)
+HEROINS	(名詞) heroinの複数形: ヘロイン
+HEROISM	(名詞) 英雄的行為。英雄主義。ヒロイズム。
+HEROISMS	(名詞) heroismの複数形: 英雄的行為。英雄主義。ヒロイズム。
+HERON	(名詞) heronの訳: 鷺
+HERONS	(名詞) heronの複数形: 鷺
+HEROS	(heroの変化形) (名詞) ヒーロー: （えいゆう）優れた才知と強い力を持ち、人々から崇拝される男性。ときに女性も含む。 (ほかに: 英雄)
+HERPETOLOGIES	(herpetologyの変化形) (名詞) 爬虫両生類学: 爬虫類と両生類について研究する学問。動物学の一部。
+HERPETOLOGIST	(名詞) 爬虫類学者、爬虫両生類学者
+HERPETOLOGISTS	(herpetologistの変化形) (名詞) 爬虫類学者、爬虫両生類学者
+HERPETOLOGY	(名詞) 爬虫両生類学: 爬虫類と両生類について研究する学問。動物学の一部。
+HERRING	(名詞) herringの訳: 鰊
+HERRINGS	(名詞) herringの複数形: 鰊
+HERS	(代名詞) hersの訳: 彼女の物
+HERSELF	(代名詞) she の再帰形、三人称単数の人称代名詞。男性に対しては himself を用いる。
+HESITANCIES	(hesitancyの変化形) (名詞) 躊躇: 決心がつかず、迷うこと。 (ほかに: ためらい)
+HESITANCY	(名詞) 躊躇: 決心がつかず、迷うこと。 (ほかに: ためらい)
+HESITANT	(形容詞) hesitantの訳: 躊躇した
+HESITANTLY	(副詞) hesitantlyの訳: 躊躇して
+HESITATE	(動詞) 遠慮する: 事情や状況を考えて、辞退すること。断ったりやめたりすることを婉曲に言う語。 (ほかに: しりごみする)
+HESITATED	(動詞) hesitateの過去形・過去分詞: 遠慮する: 事情や状況を考えて、辞退すること。断ったりやめたりすることを婉曲に言う語。 (ほかに: しりごみする)
+HESITATES	(動詞) "hesitate" の三人称単数現在形: 遠慮する: 事情や状況を考えて、辞退すること。断ったりやめたりすることを婉曲に言う語。 (ほかに: しりごみする)
+HESITATING	(動詞) hesitateの動名詞又は現在分詞: 遠慮する: 事情や状況を考えて、辞退すること。断ったりやめたりすることを婉曲に言う語。 (ほかに: しりごみする)\n(名詞) 躊躇: 決心がつかず、迷うこと。 (ほかに: ためらい)
+HESITATION	(名詞) 遠慮: 事情や状況を考えて、辞退すること。断ったりやめたりすることを婉曲に言う語。
+HESITATIONS	(名詞) hesitationの複数形: 遠慮: 事情や状況を考えて、辞退すること。断ったりやめたりすることを婉曲に言う語。
+HETERODOXIES	(heterodoxyの変化形) (名詞) 異端: 学説や宗教的な考え方が正統なものから外れていること。
+HETERODOXY	(名詞) 異端: 学説や宗教的な考え方が正統なものから外れていること。
+HETEROGENEOUS	(形容動詞) heterogeneousの訳: 異質
+HETEROGENEOUSLY	(heterogeneousの変化形) (形容動詞) heterogeneousの訳: 異質
+HETERONOMIES	(heteronomyの変化形) (名詞) 他律。他律性。
+HETERONOMOUS	(形容詞) 他律的な。受け身の。他者からの影響による。
+HETERONOMY	(名詞) 他律。他律性。
+HETEROSEXUALITIES	(heterosexualityの変化形) (名詞) 異性愛: 異性に性的指向があること。
+HETEROSEXUALITY	(名詞) 異性愛: 異性に性的指向があること。
+HEUGHS	(名詞) heughの複数形。
+HEW	(動詞) （斧などで）切る。切り倒す。叩き切る。
+HEWED	(動詞) hewの過去形・過去分詞: （斧などで）切る。切り倒す。叩き切る。
+HEWING	(hewの変化形) (動詞) （斧などで）切る。切り倒す。叩き切る。
+HEWN	(形容詞) （斧などで）切り倒した。荒削りした。\n(動詞) hewの過去分詞: （斧などで）切る。切り倒す。叩き切る。
+HEWS	(動詞) hewの直説法現在第三人称単数形: （斧などで）切る。切り倒す。叩き切る。\n(名詞) hewの複数形: （斧などで）切る。切り倒す。叩き切る。
+HEX	(名詞) hexの訳: 呪い\n(動詞) hexの訳: 呪いをかける
+HEXADECIMAL	(名詞) hexadecimalの訳: 十六進法, 十六進数\n(形容詞) 十六進法の: 十六を底として、十六の累乗で桁を進める記数法。十六種類の数字として、0から9までの十個のアラビア数字と、AからFまでの六個のラテン文字を通常用いる。十をA、十五をF、十六を10、十六分の一を0.1と表す。 (ほかに: 十六進数の)
+HEXAGON	(名詞) 六角形: いずれも同一直線上にない6つの線分により構成される閉じた図形。 6個の頂点と6本の辺をもつ。
+HEXAGONAL	(形容詞) 六角形の: いずれも同一直線上にない6つの線分により構成される閉じた図形。 6個の頂点と6本の辺をもつ。
+HEXAGONS	(名詞) hexagon の複数形: 六角形: いずれも同一直線上にない6つの線分により構成される閉じた図形。 6個の頂点と6本の辺をもつ。
+HEXAHEDRON	(名詞) 六面体: 六つの平面図形で囲まれた立体。
+HEXAHEDRONS	(hexahedronの変化形) (名詞) 六面体: 六つの平面図形で囲まれた立体。
+HEXANE	(名詞) ヘキサン: 3個の炭素原子に8個の水素原子が結合したアルカンの一種。化学式C₆H₁₄。
+HEXANES	(名詞) hexaneの複数形: ヘキサン: 3個の炭素原子に8個の水素原子が結合したアルカンの一種。化学式C₆H₁₄。
+HEXED	(動詞) "hex" の過去形・過去分詞形: 呪い
+HEXER	(hexの変化形) (名詞) hexの訳: 呪い
+HEXES	(名詞) "hex" の複数形: 呪い\n(動詞) "hex" の三人称単数現在形: 呪い
+HEXING	(動詞) "hex" の動名詞形又は現在分詞形: 呪い
+HEY	(感動詞) よう: 呼び掛けや、それに応える言葉。「おう」に同じ。 (ほかに: おい, すわ)
+HEYDAY	(名詞) 全盛期: 勢いの最も盛んな時期。
+HEYDAYS	(heydayの変化形) (名詞) 全盛期: 勢いの最も盛んな時期。
+HIBACHI	(名詞) 火鉢: 灰を入れ、そこに火をつけた炭を置き、暖をとったり、湯をわかしたりする器具。
+HIBACHIS	(名詞) hibachiの複数形: 火鉢: 灰を入れ、そこに火をつけた炭を置き、暖をとったり、湯をわかしたりする器具。
+HIBERNAL	(形容詞) 冬の: 季節（四季）の一つ。秋の次、春の前。
+HIBERNATE	(動詞) 冬眠する: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNATED	(hibernateの変化形) (動詞) 冬眠する: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNATES	(動詞) hibernateの直説法現在第三人称単数形: 冬眠する: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNATING	(hibernateの変化形) (動詞) 冬眠する: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNATION	(名詞) 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBERNATIONS	(名詞) hibernationの複数形: 冬眠: ある動物が体温を低下させるなどして活動を休止し、冬を過ごすこと。
+HIBISCUS	(名詞) ハイビスカス: アオイ科フヨウ属に属する植物の総称。ヒビスカス。
+HIBISCUSES	(名詞) hibiscusの複数形: ハイビスカス。
+HICCOUGH	(名詞) hiccupの旧綴り。\n(動詞) hiccupの旧綴り。
+HICCOUGHED	(動詞) hiccoughの過去形・過去分詞: hiccupの旧綴り。
+HICCOUGHING	(動詞) hiccoughの現在分詞: hiccupの旧綴り。\n(名詞) しゃっくりをすること。
+HICCOUGHS	(名詞) hiccoughの複数形: hiccupの旧綴り。\n(動詞) hiccoughの直説法現在第三人称単数形: hiccupの旧綴り。
+HICCUP	(名詞) しゃっくり: 横隔膜の痙攣により、音を発する現象。\n(動詞) しゃっくりをする。
+HICCUPED	(動詞) hiccupの過去形・過去分詞: しゃっくり: 横隔膜の痙攣により、音を発する現象。
+HICCUPING	(動詞) hiccupの現在分詞: しゃっくり: 横隔膜の痙攣により、音を発する現象。\n(名詞) しゃっくりをすること。
+HICCUPPED	(動詞) hiccupの過去形・過去分詞: しゃっくり: 横隔膜の痙攣により、音を発する現象。
+HICCUPPING	(動詞) hiccupの現在分詞: しゃっくり: 横隔膜の痙攣により、音を発する現象。\n(名詞) しゃっくりをすること。
+HICCUPS	(名詞) hiccupの複数形: しゃっくり: 横隔膜の痙攣により、音を発する現象。\n(動詞) hiccupの直説法現在第三人称単数形: しゃっくり: 横隔膜の痙攣により、音を発する現象。
+HID	(動詞) "hide" の過去形: ～を隠す
+HIDDEN	(動詞) hideの過去分詞: ～を隠す。\n(形容詞) 隠れている、表に出ていない、潜在する、（データなどが）秘匿の。
+HIDDENNESS	(名詞) 隠れていること。潜在。秘匿。
+HIDDENNESSES	(hiddennessの変化形) (名詞) 隠れていること。潜在。秘匿。
+HIDE	(動詞) hideの訳: ～を隠す\n(名詞) 獣皮: 獣類（けもの）の皮。
+HIDED	(hideの変化形) (動詞) hideの訳: ～を隠す
+HIDEOUS	(形容詞) 醜い: （みにくい）見て不愉快な感じがする。 (ほかに: 嫌な)
+HIDEOUSLY	(副詞) ぞっとするほど。
+HIDES	(動詞) hideの直説法現在第三人称単数形: ～を隠す。\n(名詞) hideの複数形: ～を隠す
+HIDING	(動詞) "hide" の動名詞形又は現在分詞形: ～を隠す
+HIDINGS	(hideの変化形) (動詞) hideの訳: ～を隠す
+HIEMAL	(形容詞) 冬の: 季節（四季）の一つ。秋の次、春の前。
+HIERARCHIES	(hierarchyの変化形) (名詞) ピラミッド型の階層構造、ヒエラルキー（ヒエラルヒー）
+HIERARCHY	(名詞) ピラミッド型の階層構造、ヒエラルキー（ヒエラルヒー）
+HIEROGLYPH	(名詞) hieroglyphの訳: 象形文字, ヒエログリフ, 聖刻
+HIEROGLYPHS	(hieroglyphの変化形) (名詞) hieroglyphの訳: 象形文字, ヒエログリフ, 聖刻
+HIGH	(形容詞) 高い: 程度を数値化した時に、その数値が大きい。「気温が高い」
+HIGHBORN	(形容詞) 高貴な生まれの。
+HIGHER	(形容詞) "high" の比較級: 高い: 程度を数値化した時に、その数値が大きい。「気温が高い」
+HIGHEST	(形容詞) "high" の最上級: 高い: 程度を数値化した時に、その数値が大きい。「気温が高い」
+HIGHLAND	(名詞) 高地: 標高などが高い土地。\n(形容詞) highlandの訳: 高地の
+HIGHLANDER	(highlandの変化形) (名詞) 高地: 標高などが高い土地。
+HIGHLANDERS	(highlandの変化形) (名詞) 高地: 標高などが高い土地。
+HIGHLIGHT	(名詞) ハイライト: 映画や放送、興行などで最も興味を引き立てる部分や場面。\n(動詞) 強調する。目立たせる。
+HIGHLIGHTED	(動詞) highlightの過去形・過去分詞: ハイライト: 映画や放送、興行などで最も興味を引き立てる部分や場面。
+HIGHLIGHTER	(名詞) highlighterの訳: 蛍光ペン, マーカー
+HIGHLIGHTERS	(名詞) highlighterの複数形: 蛍光ペン, マーカー
+HIGHLIGHTING	(動詞) highlightの現在分詞: ハイライト: 映画や放送、興行などで最も興味を引き立てる部分や場面。\n(名詞) highlightingの訳: 強調表示
+HIGHLIGHTS	(名詞) highlightの複数形: ハイライト: 映画や放送、興行などで最も興味を引き立てる部分や場面。\n(動詞) highlightの直説法現在第三人称単数形: ハイライト: 映画や放送、興行などで最も興味を引き立てる部分や場面。
+HIGHLY	(副詞) 高度に: （技術などの）程度が高いこと。
+HIGHNESS	(名詞) 高位: 高い地位や階級。
+HIGHNESSES	(highnessの変化形) (名詞) 高位: 高い地位や階級。
+HIGHS	(highの変化形) (形容詞) 高い: 程度を数値化した時に、その数値が大きい。「気温が高い」
+HIGHWAY	(名詞) 幹線道路。主要道路。\n(動詞) 幹線道路を走行する。
+HIGHWAYS	(名詞) highwayの複数形: 幹線道路。主要道路。
+HIJACK	(動詞) 乗っ取る: （のっとる）決まりとして従う。規則として従う。
+HIJACKED	(hijackの変化形) (動詞) 乗っ取る: （のっとる）決まりとして従う。規則として従う。
+HIJACKING	(hijackの変化形) (動詞) 乗っ取る: （のっとる）決まりとして従う。規則として従う。
+HIJACKINGS	(hijackの変化形) (動詞) 乗っ取る: （のっとる）決まりとして従う。規則として従う。
+HIJACKS	(hijackの変化形) (動詞) 乗っ取る: （のっとる）決まりとして従う。規則として従う。
+HIKE	(名詞) ハイキング。[1900年頃より]\n(動詞) ハイキングをする。
+HIKED	(動詞) hikeの過去形・過去分詞: ハイキング。[1900年頃より]
+HIKES	(名詞) hikeの複数形: ハイキング。[1900年頃より]\n(動詞) hikeの直説法現在第三人称単数形: ハイキング。[1900年頃より]
+HIKING	(動詞) hikeの現在分詞: ハイキング。[1900年頃より]\n(名詞) ハイキング: 山道を歩き、風景を楽しむ活動。ハイク。 (ほかに: 徒歩旅行)
+HILARIOUS	(形容詞) hilariousの訳: 非常に面白い
+HILARITIES	(名詞) hilarityの複数形: 陽気にはしゃぎまわること。
+HILARITY	(名詞) 陽気にはしゃぎまわること。
+HILL	(名詞) 丘: （おか）周囲に比べ小高くなっている土地。\n(動詞) ～を高く積み上げる。
+HILLED	(動詞) hillの過去形・過去分詞: 丘: （おか）周囲に比べ小高くなっている土地。\n(形容詞) hilledの訳: 丘のある
+HILLER	(hillの変化形) (名詞) 丘: （おか）周囲に比べ小高くなっている土地。
+HILLING	(名詞) hillingの訳: 土を盛ること\n(動詞) hillの動名詞又は現在分詞: 丘: （おか）周囲に比べ小高くなっている土地。
+HILLOCK	(名詞) hillockの訳: 小さい丘
+HILLOCKS	(名詞) hillockの複数形: 小さい丘
+HILLS	(名詞) hillの複数形: 丘: （おか）周囲に比べ小高くなっている土地。\n(動詞) hillの直説法現在第三人称単数形: 丘: （おか）周囲に比べ小高くなっている土地。
+HILLSIDE	(名詞) hillsideの訳: 丘の斜面
+HILLSIDES	(名詞) hillsideの複数形: 丘の斜面
+HILLTOP	(名詞) hilltopの訳: 丘の頂上
+HILLTOPS	(名詞) hilltopの複数形: 丘の頂上
+HILT	(名詞) 柄: （え）道具の握りの部分。\n(動詞) hiltの訳: 柄を付ける
+HILTED	(形容詞) hiltedの訳: 柄のある\n(動詞) hiltの過去形・過去分詞: 柄: （え）道具の握りの部分。
+HILTING	(動詞) hiltの現在分詞: 柄: （え）道具の握りの部分。
+HILTS	(名詞) hiltの複数形: 柄: （え）道具の握りの部分。\n(動詞) hiltの直説法現在第三人称単数形: 柄: （え）道具の握りの部分。
+HIM	(代名詞) himの訳: 彼を
+HIMSELF	(代名詞) he の再帰形、三人称単数の人称代名詞。女性に対しては herself を用いる。
+HINDER	(動詞) hinderの訳: ⟪妨げる|さまたげる⟫, 邪魔をする\n(形容詞) hinderの訳: 後の, 後部の, 後方の
+HINDERED	(動詞) hinderの過去形・過去分詞: ⟪妨げる|さまたげる⟫, 邪魔をする
+HINDERER	(hinderの変化形) (動詞) hinderの訳: ⟪妨げる|さまたげる⟫, 邪魔をする
+HINDERERS	(hinderの変化形) (動詞) hinderの訳: ⟪妨げる|さまたげる⟫, 邪魔をする
+HINDERING	(動詞) hinderの現在分詞: ⟪妨げる|さまたげる⟫, 邪魔をする
+HINDERS	(動詞) hinderの直説法現在第三人称単数形: ⟪妨げる|さまたげる⟫, 邪魔をする
+HINDRANCE	(名詞) 邪魔: 物事の妨げとなる存在。 (ほかに: 妨害)
+HINDRANCES	(名詞) hindranceの複数形: 邪魔: 物事の妨げとなる存在。 (ほかに: 妨害)
+HINGE	(名詞) hingeの訳: 蝶番\n(動詞) hingeの訳: 蝶番を付ける
+HINGED	(形容詞) 蝶番で留められた。\n(動詞) hingeの過去形・過去分詞: 蝶番
+HINGER	(hingeの変化形) (名詞) hingeの訳: 蝶番
+HINGES	(名詞) hingeの複数形: 蝶番\n(動詞) hingeの直説法現在第三人称単数形: 蝶番
+HINGING	(動詞) hingeの現在分詞: 蝶番
+HINT	(名詞) hintの訳: ⟪てがかり⟫, ヒント\n(動詞) hintの訳: 暗示する, ⟪ほのめかす⟫, 示唆する, におわせる
+HINTED	(hintの変化形) (名詞) hintの訳: ⟪てがかり⟫, ヒント
+HINTER	(hintの変化形) (名詞) hintの訳: ⟪てがかり⟫, ヒント
+HINTERLAND	(名詞) hinterlandの訳: 内陸地, 内陸部
+HINTERLANDS	(hinterlandの変化形) (名詞) hinterlandの訳: 内陸地, 内陸部
+HINTING	(hintの変化形) (名詞) hintの訳: ⟪てがかり⟫, ヒント
+HINTS	(hintの変化形) (名詞) hintの訳: ⟪てがかり⟫, ヒント
+HIP	(名詞) （多く複数形で）左右に張り出した腰の部分。腰骨の側面。注: 日本語の「しり」に相当するのはbuttock(s)。
+HIPBONE	(名詞) hip boneの異綴り。
+HIPBONES	(名詞) hipboneの複数形: hip boneの異綴り。
+HIPPER	(hipの変化形) (名詞) （多く複数形で）左右に張り出した腰の部分。腰骨の側面。注: 日本語の「しり」に相当するのはbuttock(s)。
+HIPPEST	(hipの変化形) (名詞) （多く複数形で）左右に張り出した腰の部分。腰骨の側面。注: 日本語の「しり」に相当するのはbuttock(s)。
+HIPPOCAMPI	(hippocampusの変化形) (名詞) 海馬: 脳の短期記憶を司る部位。
+HIPPOCAMPUS	(名詞) 海馬: 脳の短期記憶を司る部位。
+HIPPOPOTAMI	(名詞) hippopotamusの複数形: カバ
+HIPPOPOTAMUS	(名詞) hippopotamusの訳: カバ
+HIPPOPOTAMUSES	(名詞) hippopotamusの複数形: カバ
+HIPS	(名詞) 臀部: 臀の部分。 (ほかに: こし)
+HIPSTER	(名詞) hipsterの訳: ヒップスター
+HIRE	(名詞) hireの訳: 賃借\n(動詞) hireの訳: ～を賃借する
+HIRED	(動詞) "hire" の過去形・過去分詞形: 賃借
+HIRES	(名詞) "hire" の複数形: 賃借\n(動詞) "hire" の三人称単数現在形: 賃借
+HIRING	(動詞) "hire" の動名詞形又は現在分詞形: 賃借
+HISS	(名詞) しゅうという音。\n(動詞) しゅうという音を立てる。
+HISSED	(動詞) hissの過去形・過去分詞: しゅうという音。
+HISSER	(名詞) しーっと言う人。
+HISSERS	(hisserの変化形) (名詞) しーっと言う人。
+HISSES	(名詞) hissの複数形: しゅうという音。\n(動詞) hissの直説法現在第三人称単数形: しゅうという音。
+HISSING	(動詞) hissの現在分詞: しゅうという音。\n(名詞) しーっという音を立てること。
+HISSINGS	(名詞) hissingの複数形: hissの現在分詞。
+HISTAMINE	(名詞) ヒスタミン: 生体に広く存在するアミンの一種で、通常肥満細胞や好塩基球などに不活性な状態で存在する。
+HISTAMINES	(名詞) histamineの複数形: ヒスタミン: 生体に広く存在するアミンの一種で、通常肥満細胞や好塩基球などに不活性な状態で存在する。
+HISTIDINE	(名詞) ヒスチジン。アミノ酸の一つ。三文字表記 His、一文字表記 H。
+HISTIDINES	(histidineの変化形) (名詞) ヒスチジン。アミノ酸の一つ。三文字表記 His、一文字表記 H。
+HISTOGRAM	(名詞) ヒストグラム: ある度数分布をもとに、横軸に階級、縦軸に度数を取り、それぞれの度数を高さ、それぞれの階級を幅として描いた柱を、階級を大きい順に左から右へ並べた図。度数柱状図。
+HISTOGRAMS	(histogramの変化形) (名詞) ヒストグラム: ある度数分布をもとに、横軸に階級、縦軸に度数を取り、それぞれの度数を高さ、それぞれの階級を幅として描いた柱を、階級を大きい順に左から右へ並べた図。度数柱状図。
+HISTOLOGIES	(名詞) histologyの複数形: 組織学: 生物の組織の構成や機能、発生、分化などを研究対象とする学問。
+HISTOLOGIST	(名詞) histologistの訳: 組織学者
+HISTOLOGISTS	(名詞) histologistの複数形: 組織学者
+HISTOLOGY	(名詞) 組織学: 生物の組織の構成や機能、発生、分化などを研究対象とする学問。
+HISTONE	(名詞) ヒストン: 真核生物の染色体を構成する塩基性タンパク質の一群。DNAを核内に収納する役割を担う。
+HISTONES	(histoneの変化形) (名詞) ヒストン: 真核生物の染色体を構成する塩基性タンパク質の一群。DNAを核内に収納する役割を担う。
+HISTORIAN	(名詞) 歴史家。歴史学者。史学者。
+HISTORIANS	(名詞) historianの複数形: 歴史家。歴史学者。史学者。
+HISTORIC	(形容詞) 歴史的に重要な
+HISTORICAL	(形容詞) 歴史の: 「歴史学」の略語。
+HISTORICALLY	(副詞) 歴史上: 歴史の流れの上であること。歴史として明らかであること。
+HISTORIES	(historyの変化形) (名詞) 歴史: 時間の経過と共に変化してゆく人間社会の、今までに変化してきたその過程。または、その中での出来事。
+HISTORIOGRAPHER	(名詞) historiographerの訳: 史料編集委員
+HISTORIOGRAPHERS	(名詞) historiographerの複数形: 史料編集委員
+HISTORY	(名詞) 歴史: 時間の経過と共に変化してゆく人間社会の、今までに変化してきたその過程。または、その中での出来事。
+HIT	(動詞) 打つ。たたく。殴る。ぶつ。\n(名詞) 打撃。衝撃。
+HITCH	(名詞) ぐいと引き上げること。\n(動詞) ぐいと引き上げる。
+HITCHED	(動詞) hitchの過去形・過去分詞: ぐいと引き上げること。
+HITCHER	(hitchの変化形) (名詞) ぐいと引き上げること。
+HITCHES	(名詞) hitchの複数形: ぐいと引き上げること。\n(動詞) hitchの直説法現在第三人称単数形: ぐいと引き上げること。
+HITCHHIKER	(名詞) ヒッチハイカー: 通りがかりの自動車などに無料で乗せてもらうよう交渉し、移動（ヒッチハイク）を行う旅行者。
+HITCHHIKERS	(hitchhikerの変化形) (名詞) ヒッチハイカー: 通りがかりの自動車などに無料で乗せてもらうよう交渉し、移動（ヒッチハイク）を行う旅行者。
+HITCHING	(hitchの変化形) (名詞) ぐいと引き上げること。
+HITHERTO	(副詞) 今迄。これまで。
+HITS	(名詞) "hit" の複数形: 打つ。たたく。殴る。ぶつ。\n(動詞) "hit" の三人称単数現在形: 打つ。たたく。殴る。ぶつ。
+HITTING	(動詞) "hit" の動名詞形又は現在分詞形: 打つ。たたく。殴る。ぶつ。
+HIVE	(名詞) はちのす: (比喩)多数の銃弾で撃たれる様子。 (ほかに: 蜂窩)
+HIVED	(hiveの変化形) (名詞) はちのす: (比喩)多数の銃弾で撃たれる様子。 (ほかに: 蜂窩)
+HIVES	(名詞) 蕁麻疹: 急性の皮膚病又は皮膚に見られる症状の一つ。アレルギーなどの原因により、皮膚に痛痒感のある発疹ができること。 (ほかに: 発疹)
+HIVING	(hiveの変化形) (名詞) はちのす: (比喩)多数の銃弾で撃たれる様子。 (ほかに: 蜂窩)
+HOARD	(名詞) hoardの訳: 隠し財産, 蓄財\n(動詞) hoardの訳: 蓄える, 蓄財する
+HOARDED	(動詞) "hoard" の過去形・過去分詞: 隠し財産, 蓄財
+HOARDING	(動詞) "hoard" の動名詞又は現在分詞: 隠し財産, 蓄財
+HOARDINGS	(hoardの変化形) (名詞) hoardの訳: 隠し財産, 蓄財
+HOARDS	(名詞) "hoard" の複数形: 隠し財産, 蓄財\n(動詞) "hoard" の現在第三人称単数形。
+HOARFROST	(名詞) hoarfrostの訳: 白霜
+HOARFROSTS	(名詞) hoarfrostの複数形: 白霜
+HOARIER	(形容詞) hoaryの比較級: 白髪の: 髪全体、または髪の大部分が白くなっていること。
+HOARIEST	(形容詞) hoaryの最上級: 白髪の: 髪全体、または髪の大部分が白くなっていること。
+HOARILY	(hoaryの変化形) (形容詞) 白髪の: 髪全体、または髪の大部分が白くなっていること。
+HOARS	(名詞) hoarの複数形。
+HOARSE	(形容詞) hoarseの訳: しわがれた, かれた
+HOARSER	(形容詞) hoarseの比較級: しわがれた, かれた
+HOARSEST	(形容詞) hoarseの最上級: しわがれた, かれた
+HOARY	(形容詞) 白髪の: 髪全体、または髪の大部分が白くなっていること。
+HOBBIES	(hobbyの変化形) (名詞) 趣味、ホビー。 （日本語で言うところの「趣味」と比べ、より積極的に打ち込む、意義のあるものというニュアンスで用いられる。また、好み、嗜好の意味はない。）
+HOBBIT	(名詞) hobbitの訳: ホビット
+HOBBITS	(hobbitの変化形) (名詞) hobbitの訳: ホビット
+HOBBY	(名詞) 趣味、ホビー。 （日本語で言うところの「趣味」と比べ、より積極的に打ち込む、意義のあるものというニュアンスで用いられる。また、好み、嗜好の意味はない。）
+HOCK	(名詞) hockの訳: ⟪質|わりふ⟫
+HOCKED	(hockの変化形) (名詞) hockの訳: ⟪質|わりふ⟫
+HOCKER	(hockの変化形) (名詞) hockの訳: ⟪質|わりふ⟫
+HOCKEY	(名詞) (イギリス)ホッケー、フィールドホッケー
+HOCKEYS	(hockeyの変化形) (名詞) (イギリス)ホッケー、フィールドホッケー
+HOCKING	(hockの変化形) (名詞) hockの訳: ⟪質|わりふ⟫
+HOCKS	(hockの変化形) (名詞) hockの訳: ⟪質|わりふ⟫
+HODGEPODGE	(名詞) 寄せ集め: まとまりの無い集まり。由来が異なる複数の部分から構成される個体。キメラ。 (ほかに: ごた混ぜ)\n(動詞) ごた混ぜに配置する。
+HODGEPODGES	(名詞) hodgepodgeの複数形: 寄せ集め: まとまりの無い集まり。由来が異なる複数の部分から構成される個体。キメラ。 (ほかに: ごた混ぜ)\n(動詞) hodgepodgeの直説法現在第三人称単数形: 寄せ集め: まとまりの無い集まり。由来が異なる複数の部分から構成される個体。キメラ。 (ほかに: ごた混ぜ)
+HOE	(名詞) 鍬: （くわ）柄の一方の先端に直角または鋭角に刃の付いた板状のものを取り付けた農具。田畑を掘り起こしたり、均すたりする際に用いる。\n(動詞) hoeの訳: 鍬で耕す
+HOED	(hoeの変化形) (名詞) 鍬: （くわ）柄の一方の先端に直角または鋭角に刃の付いた板状のものを取り付けた農具。田畑を掘り起こしたり、均すたりする際に用いる。
+HOEING	(hoeの変化形) (名詞) 鍬: （くわ）柄の一方の先端に直角または鋭角に刃の付いた板状のものを取り付けた農具。田畑を掘り起こしたり、均すたりする際に用いる。
+HOES	(名詞) hoeの複数形: 鍬: （くわ）柄の一方の先端に直角または鋭角に刃の付いた板状のものを取り付けた農具。田畑を掘り起こしたり、均すたりする際に用いる。\n(動詞) hoeの直説法現在第三人称単数形: 鍬: （くわ）柄の一方の先端に直角または鋭角に刃の付いた板状のものを取り付けた農具。田畑を掘り起こしたり、均すたりする際に用いる。
+HOG	(名詞) hogの訳: ぶた, 豚, ブタ
+HOGGED	(hogの変化形) (名詞) hogの訳: ぶた, 豚, ブタ
+HOGGING	(hogの変化形) (名詞) hogの訳: ぶた, 豚, ブタ
+HOGS	(hogの変化形) (名詞) hogの訳: ぶた, 豚, ブタ
+HOIST	(動詞) hoistの訳: 持ち上げる, ⟪吊り上げる|つりあげる⟫\n(名詞) 吊り上げる装置。
+HOISTED	(動詞) hoistの過去形・過去分詞: 持ち上げる, ⟪吊り上げる|つりあげる⟫
+HOISTING	(名詞) hoistingの訳: 持ち上げ, 吊り上げ, 巻き上げ, 昇降\n(動詞) hoistの現在分詞: 持ち上げる, ⟪吊り上げる|つりあげる⟫
+HOISTS	(名詞) hoistの複数形: 持ち上げる, ⟪吊り上げる|つりあげる⟫\n(動詞) hoistの直説法現在第三人称単数形: 持ち上げる, ⟪吊り上げる|つりあげる⟫
+HOLD	(動詞) 持つ、つかむ、握る。(類義語: grasp, grip)\n(名詞) holdの訳: 保有
+HOLDALL	(名詞) holdallの訳: 旅行かばん
+HOLDALLS	(holdallの変化形) (名詞) holdallの訳: 旅行かばん
+HOLDER	(名詞) holderの訳: 保持者
+HOLDERS	(名詞) holderの複数形: 保持者
+HOLDING	(名詞) holdingの訳: 所有財産\n(動詞) holdの現在分詞: 持つ、つかむ、握る。
+HOLDINGS	(holdの変化形) (動詞) 持つ、つかむ、握る。(類義語: grasp, grip)
+HOLDS	(名詞) holdの複数形: 持つ、つかむ、握る。(類義語: grasp, grip)\n(動詞) holdの直説法現在第三人称単数形: 持つ、つかむ、握る。(類義語: grasp, grip)
+HOLDUP	(名詞) holdupの訳: 強奪
+HOLDUPS	(holdupの変化形) (名詞) holdupの訳: 強奪
+HOLE	(名詞) holeの訳: 穴, ⟪窪み|くぼみ⟫\n(動詞) holeの訳: 穴を開ける
+HOLED	(動詞) "hole" の過去形・過去分詞形: 穴, ⟪窪み|くぼみ⟫
+HOLES	(名詞) "hole" の複数形: 穴, ⟪窪み|くぼみ⟫\n(動詞) "hole" の三人称単数現在形: 穴, ⟪窪み|くぼみ⟫
+HOLEY	(形容詞) holeyの訳: 穴のある
+HOLIDAY	(名詞) holidayの訳: 祝日, ⟪祭日|さいじつ⟫\n(動詞) holidayの訳: 休暇を過ごす
+HOLIDAYED	(動詞) "holiday" の過去形・過去分詞形: 祝日, ⟪祭日|さいじつ⟫
+HOLIDAYER	(holidayの変化形) (名詞) holidayの訳: 祝日, ⟪祭日|さいじつ⟫
+HOLIDAYING	(動詞) "holiday" の動名詞形又は現在分詞形: 祝日, ⟪祭日|さいじつ⟫
+HOLIDAYS	(名詞) "holiday" の複数形: 祝日, ⟪祭日|さいじつ⟫\n(動詞) "holiday" の三人称単数現在形: 祝日, ⟪祭日|さいじつ⟫
+HOLIER	(形容詞) "holy" の比較級形: 聖なる, 神聖な, 尊い
+HOLIES	(名詞) "holy" の複数形: 聖なる, 神聖な, 尊い
+HOLIEST	(形容詞) "holy" の最上級形: 聖なる, 神聖な, 尊い
+HOLINESS	(名詞) 清浄: （しょうじょう）煩悩や罪悪がなく心身が清らかなこと。 (ほかに: 尊厳, 神聖)
+HOLINESSES	(holinessの変化形) (名詞) 清浄: （しょうじょう）煩悩や罪悪がなく心身が清らかなこと。 (ほかに: 尊厳, 神聖)
+HOLING	(動詞) "hole" の動名詞形又は現在分詞形: 穴, ⟪窪み|くぼみ⟫
+HOLISTIC	(形容詞) holisticの訳: 全体論の
+HOLLOW	(形容詞) hollowの訳: 空洞の, 中空の, 虚ろの\n(副詞) hollowの訳: 徹底的に
+HOLLOWED	(動詞) hollowの過去形・過去分詞: 空洞の, 中空の, 虚ろの
+HOLLOWER	(形容詞) hollowの比較級: 空洞の, 中空の, 虚ろの
+HOLLOWEST	(形容詞) hollowの最上級: 空洞の, 中空の, 虚ろの
+HOLLOWING	(hollowの変化形) (形容詞) hollowの訳: 空洞の, 中空の, 虚ろの
+HOLLOWS	(名詞) hollowの複数形: 空洞の, 中空の, 虚ろの\n(動詞) hollowの直説法現在第三人称単数形: 空洞の, 中空の, 虚ろの
+HOLMIUM	(名詞) ホルミウム: 原子番号 67、元素記号 Ho の金属元素。ランタノイド。原子量164.9。単体は、常温常圧では銀白色の固体。
+HOLMIUMS	(名詞) holmiumの複数形: ホルミウム: 原子番号 67、元素記号 Ho の金属元素。ランタノイド。原子量164.9。単体は、常温常圧では銀白色の固体。
+HOLOTYPE	(名詞) holotypeの訳: ホロタイプ
+HOLOTYPES	(holotypeの変化形) (名詞) holotypeの訳: ホロタイプ
+HOLY	(形容詞) holyの訳: 聖なる, 神聖な, 尊い\n(名詞) holyの訳: 神聖な場所
+HOMBRE	(名詞) あいつ: （口語・一般的用法）敵意・侮蔑の対象の遠称。男性が、男性に対し用いることが多い。 (ほかに: 奴)
+HOMBRES	(名詞) hombreの複数形: あいつ: （口語・一般的用法）敵意・侮蔑の対象の遠称。男性が、男性に対し用いることが多い。 (ほかに: 奴)
+HOME	(名詞) いえ、家庭、家族とともに住む家屋。特に、心情的に愛着を感じているもの。\n(動詞) homeの訳: 照準を定める
+HOMECOMING	(名詞) homecomingの訳: 帰省, 帰国
+HOMECOMINGS	(homecomingの変化形) (名詞) homecomingの訳: 帰省, 帰国
+HOMED	(動詞) "home" の過去形・過去分詞形: いえ、家庭、家族とともに住む家屋。特に、心情的に愛着を感じているもの。
+HOMELAND	(名詞) 祖国。母国。
+HOMELANDS	(名詞) homelandの複数形: 祖国。母国。
+HOMELESS	(形容詞) homelessの訳: ホームレスの\n(名詞) ホームレス: 決まった住居を持たず、公園・駅・路上等で生活している人。
+HOMELIER	(形容詞) homelyの比較級: 家庭的な
+HOMELIEST	(形容詞) homelyの最上級: 家庭的な
+HOMELINESS	(名詞) 不器量: 器量（容貌）が醜いこと。
+HOMELINESSES	(名詞) homelinessの複数形: 不器量: 器量（容貌）が醜いこと。
+HOMELY	(形容詞) homelyの訳: 家庭的な
+HOMEMAKER	(名詞) 主婦: 家事を主な仕事とする妻。 (ほかに: 主夫)
+HOMEMAKERS	(homemakerの変化形) (名詞) 主婦: 家事を主な仕事とする妻。 (ほかに: 主夫)
+HOMEOSTASIS	(名詞) 恒常性、ホメオスタシス、恒常性維持
+HOMEOSTATIC	(名詞) homeostaticの訳: HOMA-R, HOMA-β
+HOMES	(名詞) "home" の複数形: いえ、家庭、家族とともに住む家屋。特に、心情的に愛着を感じているもの。\n(動詞) "home" の三人称単数現在形: いえ、家庭、家族とともに住む家屋。特に、心情的に愛着を感じているもの。
+HOMESICKNESS	(名詞) ホームシック: 故郷を離れている者が、その故郷や家族を懐かしみ非常に恋しがる心情。
+HOMESICKNESSES	(homesicknessの変化形) (名詞) ホームシック: 故郷を離れている者が、その故郷や家族を懐かしみ非常に恋しがる心情。
+HOMETOWN	(名詞) ふるさと: 旅先に対して、自分の家。自宅。 (ほかに: 愛郷, くに)
+HOMETOWNS	(hometownの変化形) (名詞) ふるさと: 旅先に対して、自分の家。自宅。 (ほかに: 愛郷, くに)
+HOMEWARD	(副詞) 家に向かって。家路について。\n(形容詞) 家に向かう。帰途の。
+HOMEWORK	(名詞) 宿題: 自宅で行う課題。学校などで生徒、児童に対して課される。
+HOMEWORKS	(homeworkの変化形) (名詞) 宿題: 自宅で行う課題。学校などで生徒、児童に対して課される。
+HOMICIDAL	(形容詞) 殺人の。殺人癖のある。
+HOMICIDALLY	(homicidalの変化形) (形容詞) 殺人の。殺人癖のある。
+HOMICIDE	(名詞) 殺人、殺人罪 致死罪。
+HOMICIDES	(名詞) homicideの複数形: 殺人、殺人罪 致死罪。
+HOMING	(動詞) "home" の動名詞形又は現在分詞形: いえ、家庭、家族とともに住む家屋。特に、心情的に愛着を感じているもの。
+HOMINID	(名詞) ヒト科: 《分類学》 哺乳綱獣亜綱ローラシア獣上目サル目真猿亜目狭鼻下目ヒト上科の下位に分類される哺乳類の1科（一タクソン、一分類群）。\n(形容詞) hominidの訳: ヒト科の
+HOMINIDS	(hominidの変化形) (名詞) ヒト科: 《分類学》 哺乳綱獣亜綱ローラシア獣上目サル目真猿亜目狭鼻下目ヒト上科の下位に分類される哺乳類の1科（一タクソン、一分類群）。
+HOMO	(名詞) （侮蔑的スラング）同性愛者（gay）の略称
+HOMOGENEOUS	(形容動詞) 均質: ある事物において、どの部分も同じあるいは同じような質を備えているさま。 (ほかに: 同質)
+HOMOLOGIES	(homologyの変化形) (名詞) 相同: たがいに同じであること。同形同大であること。
+HOMOLOGY	(名詞) 相同: たがいに同じであること。同形同大であること。
+HOMONYM	(名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMONYMS	(homonymの変化形) (名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMOPHOBIA	(名詞) homophobiaの訳: 同性愛者嫌い
+HOMOPHOBIAS	(homophobiaの変化形) (名詞) homophobiaの訳: 同性愛者嫌い
+HOMOPHONE	(名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMOPHONES	(homophoneの変化形) (名詞) 同音語: 発音は同じであるが意味が異なる複数の語。同音異義語。 (ほかに: 同音異義語)
+HOMOS	(名詞) homoの複数形: 同性愛者の略称
+HOMOSEXUAL	(形容詞) homosexualの訳: 同性の\n(名詞) 同性愛者: 同性に恋愛の感情を持ち、性的な指向を持つ者。ホモ。
+HOMOSEXUALITIES	(名詞) homosexualityの複数形: 同性愛: 同性の者同士での性愛。
+HOMOSEXUALITY	(名詞) 同性愛: 同性の者同士での性愛。
+HOMOSEXUALS	(名詞) homosexualの複数形: 同性の
+HONEST	(形容詞) 正直な: （しょうじき、古くは:せいちょく）嘘・偽りのないこと。 (ほかに: 誠実な)
+HONESTER	(honestの変化形) (形容詞) 正直な: （しょうじき、古くは:せいちょく）嘘・偽りのないこと。 (ほかに: 誠実な)
+HONESTEST	(honestの変化形) (形容詞) 正直な: （しょうじき、古くは:せいちょく）嘘・偽りのないこと。 (ほかに: 誠実な)
+HONESTIES	(名詞) honestieの複数形。
+HONESTLY	(副詞) honestlyの訳: 正直に, 実直に, 包み隠さず\n(感動詞) まったく: （「まったく」のほか「まったくだ」などの形で、強い同意を表す） (ほかに: まったくもう)
+HONESTY	(名詞) 正直。誠実。率直。
+HONEY	(名詞) 蜂蜜: 《流通》 語義1の蜂蜜をそのまま利用する天然甘味料。 (ほかに: 花の蜜)
+HONEYBEE	(名詞) 「honey bee」の異表記。
+HONEYBEES	(名詞) honeybeeの複数形: 「honey bee」の異表記。
+HONEYCOMB	(名詞) honeycombの訳: 蜂窩, ⟪はちのす⟫, ⟪ハニカム|はにかむ⟫
+HONEYCOMBED	(honeycombの変化形) (名詞) honeycombの訳: 蜂窩, ⟪はちのす⟫, ⟪ハニカム|はにかむ⟫
+HONEYCOMBING	(honeycombの変化形) (名詞) honeycombの訳: 蜂窩, ⟪はちのす⟫, ⟪ハニカム|はにかむ⟫
+HONEYCOMBS	(honeycombの変化形) (名詞) honeycombの訳: 蜂窩, ⟪はちのす⟫, ⟪ハニカム|はにかむ⟫
+HONEYED	(honeyの変化形) (名詞) 蜂蜜: 《流通》 語義1の蜂蜜をそのまま利用する天然甘味料。 (ほかに: 花の蜜)
+HONEYING	(honeyの変化形) (名詞) 蜂蜜: 《流通》 語義1の蜂蜜をそのまま利用する天然甘味料。 (ほかに: 花の蜜)
+HONEYMOON	(名詞) 新婚旅行: 新婚夫婦が二人で行く旅行。ハネムーン。
+HONEYMOONED	(honeymoonの変化形) (名詞) 新婚旅行: 新婚夫婦が二人で行く旅行。ハネムーン。
+HONEYMOONING	(honeymoonの変化形) (名詞) 新婚旅行: 新婚夫婦が二人で行く旅行。ハネムーン。
+HONEYMOONS	(honeymoonの変化形) (名詞) 新婚旅行: 新婚夫婦が二人で行く旅行。ハネムーン。
+HONEYS	(honeyの変化形) (名詞) 蜂蜜: 《流通》 語義1の蜂蜜をそのまま利用する天然甘味料。 (ほかに: 花の蜜)
+HONIED	(honeyの変化形) (名詞) 蜂蜜: 《流通》 語義1の蜂蜜をそのまま利用する天然甘味料。 (ほかに: 花の蜜)
+HONOR	(名詞) honorの訳: ⟪名誉|めいよ⟫, 栄誉, ⟪誉れ|ほまれ⟫\n(動詞) 崇める: （あがめる）敬う。尊ぶ。 (ほかに: 敬う, 尊ぶ)
+HONORABLE	(形容詞) honorableの訳: 名誉ある
+HONORABLY	(副詞) honorablyの訳: 立派に
+HONORED	(動詞) "honor" の過去形・過去分詞形: ⟪名誉|めいよ⟫, 栄誉, ⟪誉れ|ほまれ⟫
+HONORER	(名詞) 名誉を与える人。
+HONORERS	(名詞) honorerの複数形: 名誉を与える人。
+HONORIFIC	(名詞) honorificの訳: 敬称\n(形容詞) honorificの訳: 尊敬を表す, 褒める目的の
+HONORIFICS	(honorificの変化形) (名詞) honorificの訳: 敬称
+HONORING	(動詞) "honor" の動名詞形又は現在分詞形: ⟪名誉|めいよ⟫, 栄誉, ⟪誉れ|ほまれ⟫
+HONORS	(名詞) "honor" の複数形: ⟪名誉|めいよ⟫, 栄誉, ⟪誉れ|ほまれ⟫\n(動詞) "honor" の三人称単数現在形: ⟪名誉|めいよ⟫, 栄誉, ⟪誉れ|ほまれ⟫
+HONOUR	(名詞) 名誉: 優れていると認められること。誇らしくほまれ高いこと。 (ほかに: 名声)\n(動詞) ～に敬意を表する。
+HONOURABLE	(形容詞) honourableの訳: 尊敬に値する
+HONOURED	(動詞) "honour" の過去形・過去分詞形: 名誉: 優れていると認められること。誇らしくほまれ高いこと。 (ほかに: 名声)
+HONOURING	(動詞) "honour" の動名詞形又は現在分詞形: 名誉: 優れていると認められること。誇らしくほまれ高いこと。 (ほかに: 名声)
+HONOURS	(名詞) "honour" の複数形: 名誉: 優れていると認められること。誇らしくほまれ高いこと。 (ほかに: 名声)\n(動詞) "honour" の三人称単数現在形: 名誉: 優れていると認められること。誇らしくほまれ高いこと。 (ほかに: 名声)
+HOOD	(名詞) hoodの訳: 頭巾, フード
+HOODED	(hoodの変化形) (名詞) hoodの訳: 頭巾, フード
+HOODING	(hoodの変化形) (名詞) hoodの訳: 頭巾, フード
+HOODS	(hoodの変化形) (名詞) hoodの訳: 頭巾, フード
+HOOF	(名詞) 蹄: 中型、大型の草食哺乳動物のうち、ゾウ目 (長鼻目)、ジュゴン目 (海牛目)、ウマ目 (奇蹄目)、イワダヌキ目 (岩狸目)、ツチブタ目 (管歯目)、ウシ目 (偶蹄目)が持つ、脚先にある靴状の硬い角質の爪。
+HOOFED	(hoofの変化形) (名詞) 蹄: 中型、大型の草食哺乳動物のうち、ゾウ目 (長鼻目)、ジュゴン目 (海牛目)、ウマ目 (奇蹄目)、イワダヌキ目 (岩狸目)、ツチブタ目 (管歯目)、ウシ目 (偶蹄目)が持つ、脚先にある靴状の硬い角質の爪。
+HOOFING	(hoofの変化形) (名詞) 蹄: 中型、大型の草食哺乳動物のうち、ゾウ目 (長鼻目)、ジュゴン目 (海牛目)、ウマ目 (奇蹄目)、イワダヌキ目 (岩狸目)、ツチブタ目 (管歯目)、ウシ目 (偶蹄目)が持つ、脚先にある靴状の硬い角質の爪。
+HOOFS	(hoofの変化形) (名詞) 蹄: 中型、大型の草食哺乳動物のうち、ゾウ目 (長鼻目)、ジュゴン目 (海牛目)、ウマ目 (奇蹄目)、イワダヌキ目 (岩狸目)、ツチブタ目 (管歯目)、ウシ目 (偶蹄目)が持つ、脚先にある靴状の硬い角質の爪。
+HOOK	(名詞) 鉤。ホック。\n(動詞) 引っ掛ける: ひっかけるを参照。
+HOOKED	(動詞) hookの過去形・過去分詞: 鉤。ホック。\n(形容詞) 鉤状の。鉤形の。
+HOOKING	(動詞) hookの現在分詞: 鉤。ホック。\n(名詞) 鉤で引っ掛けること。
+HOOKS	(名詞) hookの複数形: 鉤。ホック。\n(動詞) hookの直説法現在第三人称単数形: 鉤。ホック。
+HOOLIGAN	(名詞) おにむしゃ: 非常に勇猛な武者。荒々しい武者。 (ほかに: あらむしゃ)
+HOOLIGANS	(hooliganの変化形) (名詞) おにむしゃ: 非常に勇猛な武者。荒々しい武者。 (ほかに: あらむしゃ)
+HOOP	(名詞) hoopの訳: 輪, 箍\n(動詞) hoopの訳: 箍を嵌める
+HOOPED	(hoopの変化形) (名詞) hoopの訳: 輪, 箍
+HOOPING	(動詞) hoopの現在分詞: 輪, 箍
+HOOPS	(名詞) hoopの複数形: 輪, 箍\n(動詞) hoopの直説法現在第三人称単数形: 輪, 箍
+HOOT	(名詞) やじ。叫び声。\n(動詞) やじる。叫ぶ。
+HOOTED	(動詞) hootの過去形・過去分詞: やじ。叫び声。
+HOOTER	(名詞) hooterの訳: ⟪警笛|けいてき⟫
+HOOTERS	(名詞) hooterの複数形: ⟪警笛|けいてき⟫
+HOOTING	(動詞) hootの現在分詞: やじ。叫び声。\n(名詞) hootingの訳: 鳴き声
+HOOTS	(名詞) hootの複数形: やじ。叫び声。\n(動詞) hootの直説法現在第三人称単数形: やじ。叫び声。
+HOOVES	(hoofの変化形) (名詞) 蹄: 中型、大型の草食哺乳動物のうち、ゾウ目 (長鼻目)、ジュゴン目 (海牛目)、ウマ目 (奇蹄目)、イワダヌキ目 (岩狸目)、ツチブタ目 (管歯目)、ウシ目 (偶蹄目)が持つ、脚先にある靴状の硬い角質の爪。
+HOP	(名詞) hopの訳: 短い跳躍\n(動詞) 短い距離を跳ぶ。
+HOPE	(動詞) 望む: ねがう、欲する。希望する。 (ほかに: 希望する)\n(名詞) hopeの訳: 希望, 望み
+HOPED	(動詞) hopeの過去形・過去分詞: 望む: ねがう、欲する。希望する。 (ほかに: 希望する)
+HOPEFUL	(形容詞) 望みを抱いている。期待している。\n(名詞) hopefulの訳: 前途有望な人
+HOPEFULLY	(副詞) 希望を持って。期待して。[17世紀より]
+HOPEFULS	(名詞) hopefulの複数形: 望みを抱いている。期待している。
+HOPELESS	(形容詞) hopelessの訳: 絶望した
+HOPELESSLY	(副詞) 望みがないことを感じながら。絶望しながら。諦めながら。
+HOPELESSNESS	(名詞) 絶望: 希望が全くなくなり、強い諦念を感じること。
+HOPELESSNESSES	(hopelessnessの変化形) (名詞) 絶望: 希望が全くなくなり、強い諦念を感じること。
+HOPES	(名詞) "hope" の複数形: 望む: ねがう、欲する。希望する。 (ほかに: 希望する)\n(動詞) "hope" の三人称単数現在形: 望む: ねがう、欲する。希望する。 (ほかに: 希望する)
+HOPING	(動詞) "hope" の動名詞形又は現在分詞形: 望む: ねがう、欲する。希望する。 (ほかに: 希望する)
+HOPPED	(動詞) "hop" の過去形・過去分詞形: 短い跳躍
+HOPPING	(名詞) hoppingの訳: ホップ摘み\n(動詞) hopの現在分詞: 短い跳躍
+HOPPINGS	(hopの変化形) (名詞) hopの訳: 短い跳躍
+HOPS	(名詞) "hop" の複数形: 短い跳躍\n(動詞) "hop" の三人称単数現在形: 短い跳躍
+HOPSCOTCH	(名詞) ホップスコッチ。\n(動詞) 跳んで移動する。
+HOPSCOTCHED	(動詞) hopscotchの過去形・過去分詞: ホップスコッチ。
+HOPSCOTCHES	(動詞) hopscotchの直説法現在第三人称単数形: ホップスコッチ。
+HOPSCOTCHING	(動詞) hopscotchの現在分詞: ホップスコッチ。
+HORDE	(名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+HORDED	(hordeの変化形) (名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+HORDES	(hordeの変化形) (名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+HORDING	(hordeの変化形) (名詞) 雲霞: (うんか, くもかすみ) 大勢の集まり。数が多い事のたとえ。
+HORIZON	(名詞) horizonの訳: 地平線・地平, 水平線・水平
+HORIZONS	(名詞) horizonの複数形: 地平線・地平, 水平線・水平
+HORIZONTAL	(形容詞) horizontalの訳: 水平な, 横方向の\n(名詞) 構築物の横成分。
+HORIZONTALLY	(副詞) 横に: （よこ）東西の方向。 (ほかに: 水平に)
+HORIZONTALS	(horizontalの変化形) (形容詞) horizontalの訳: 水平な, 横方向の
+HORMONE	(名詞) 可算 ホルモン
+HORMONES	(hormoneの変化形) (名詞) 可算 ホルモン
+HORN	(名詞) hornの訳: 角\n(動詞) hornの訳: 角で突く
+HORNBEAM	(名詞) シデ: ブナ目カバノキ科クマシデ属に属する落葉高木の総称。学名:Carpinus。
+HORNBEAMS	(名詞) hornbeamの複数形: シデ: ブナ目カバノキ科クマシデ属に属する落葉高木の総称。学名:Carpinus。
+HORNED	(形容詞) hornedの訳: 角のある\n(動詞) hornの過去形・過去分詞: 角
+HORNET	(名詞) hornetの訳: ⟪すずめばち⟫
+HORNETS	(hornetの変化形) (名詞) hornetの訳: ⟪すずめばち⟫
+HORNFELS	(名詞) ホルンフェルス
+HORNIER	(形容詞) hornyの比較級: 角のように硬い。
+HORNIEST	(形容詞) hornyの最上級: 角のように硬い。
+HORNILY	(hornyの変化形) (形容詞) 角のように硬い。
+HORNING	(hornの変化形) (名詞) hornの訳: 角
+HORNIST	(名詞) ホルニスト: ホルンの演奏家。
+HORNISTS	(名詞) hornistの複数形: ホルニスト: ホルンの演奏家。
+HORNLESS	(形容詞) hornlessの訳: 角のない
+HORNS	(名詞) hornの複数形: 角\n(動詞) hornの直説法現在第三人称単数形: 角
+HORNY	(形容詞) 角のように硬い。
+HORRENDOUS	(形容詞) 恐ろしい。ぞっとする。
+HORRENDOUSLY	(副詞) horrendouslyの訳: 恐ろしく
+HORRIBLE	(形容詞) horribleの訳: 恐ろしい\n(名詞) 恐怖を引き起こすもの。
+HORRIBLES	(horribleの変化形) (形容詞) horribleの訳: 恐ろしい
+HORRIBLY	(副詞) horriblyの訳: 恐ろしく
+HORRID	(形容詞) 恐ろしい。恐怖の。
+HORRIFIC	(形容詞) 恐ろしい。ぞっとするような。
+HORRIFIED	(形容詞) 恐怖に襲われた。\n(動詞) horrifyの過去形・過去分詞: 怖がらせる。ぞっとさせる。
+HORRIFIES	(動詞) horrifyの直説法現在第三人称単数形: 怖がらせる。ぞっとさせる。
+HORRIFY	(動詞) 怖がらせる。ぞっとさせる。
+HORRIFYING	(動詞) horrifyの現在分詞: 怖がらせる。ぞっとさせる。\n(形容詞) 恐ろしい。ぞっとするような。
+HORRIFYINGLY	(副詞) horrifyinglyの訳: 恐ろしいほど
+HORROR	(名詞) 恐怖。戦慄。
+HORRORS	(名詞) horrorの複数形: 恐怖。戦慄。
+HORSE	(名詞) horseの訳: 馬\n(動詞) horseの訳: 馬に乗る
+HORSEBACK	(名詞) 馬の背。馬背。通常 on または upon をともない「馬に乗って」の意で用いる。
+HORSEBACKS	(horsebackの変化形) (名詞) 馬の背。馬背。通常 on または upon をともない「馬に乗って」の意で用いる。
+HORSED	(動詞) horseの過去形・過去分詞: 馬\n(形容詞) horsedの訳: 馬に乗った
+HORSEFLIES	(名詞) horseflyの複数形: 虻
+HORSEFLY	(名詞) horseflyの訳: 虻
+HORSEMAN	(名詞) horsemanの訳: ⟪騎手|きしゅ⟫
+HORSEMEN	(名詞) "horseman" の複数形: ⟪騎手|きしゅ⟫
+HORSEPOWER	(名詞) 馬力: 動力をあらわす単位。一秒で75㎏を1メートル動かす力。
+HORSEPOWERS	(horsepowerの変化形) (名詞) 馬力: 動力をあらわす単位。一秒で75㎏を1メートル動かす力。
+HORSERADISH	(名詞) セイヨウワサビ。
+HORSERADISHES	(名詞) horseradishの複数形: セイヨウワサビ。
+HORSES	(名詞) horseの複数形: 馬\n(動詞) horseの直説法現在第三人称単数形: 馬
+HORSESHOE	(名詞) horseshoeの訳: ⟪蹄鉄|ていてつ⟫
+HORSESHOED	(horseshoeの変化形) (名詞) horseshoeの訳: ⟪蹄鉄|ていてつ⟫
+HORSESHOEING	(horseshoeの変化形) (名詞) horseshoeの訳: ⟪蹄鉄|ていてつ⟫
+HORSESHOES	(horseshoeの変化形) (名詞) horseshoeの訳: ⟪蹄鉄|ていてつ⟫
+HORSEWOMAN	(名詞) horsewomanの訳: ⟪騎手|きしゅ⟫, 乗馬者
+HORSEWOMEN	(horsewomanの変化形) (名詞) horsewomanの訳: ⟪騎手|きしゅ⟫, 乗馬者
+HORSING	(動詞) "horse" の動名詞形又は現在分詞形: 馬
+HORTICULTURAL	(形容詞) 園芸の: 野菜、果樹、花卉、庭樹などを栽培すること。また、その技術。
+HORTICULTURALLY	(副詞) "horticultural" の副詞形。
+HORTICULTURE	(名詞) 園芸: 野菜、果樹、花卉、庭樹などを栽培すること。また、その技術。 (ほかに: 園芸術, 園芸学)
+HORTICULTURES	(名詞) "horticulture" の複数形: 園芸: 野菜、果樹、花卉、庭樹などを栽培すること。また、その技術。 (ほかに: 園芸術, 園芸学)
+HORTICULTURIST	(名詞) horticulturistの訳: 園芸家, 庭師
+HORTICULTURISTS	(名詞) "horticulturist" の複数形: 園芸家, 庭師
+HOSE	(名詞) hoseの訳: ホース\n(動詞) ホースで水をかける。
+HOSED	(hoseの変化形) (名詞) hoseの訳: ホース
+HOSES	(名詞) hoseの複数形: ホース\n(動詞) hoseの直説法現在第三人称単数形: ホース
+HOSING	(hoseの変化形) (名詞) hoseの訳: ホース
+HOSPICE	(名詞) ホスピス: 教会での病人、巡礼者の宿泊所。
+HOSPICES	(hospiceの変化形) (名詞) ホスピス: 教会での病人、巡礼者の宿泊所。
+HOSPITABLE	(形容詞) 手厚くもてなす。
+HOSPITAL	(名詞) 病院: 医師又は歯科医師が、公衆又は特定多数人のため医業又は歯科医業を行う場所であつて、二十人以上の患者を入院させるための施設を有するもの。（医療法第一条の五）
+HOSPITALISE	(動詞) ～を入院させる。
+HOSPITALISED	(動詞) "hospitalise" の過去形・過去分詞形: ～を入院させる。
+HOSPITALISES	(動詞) "hospitalise" の三人称単数現在形: ～を入院させる。
+HOSPITALISING	(動詞) "hospitalise" の動名詞形又は現在分詞形: ～を入院させる。
+HOSPITALITIES	(名詞) "hospitality" の複数形: 接待: 客をもてなすこと。もてなし。 (ほかに: もてなし, 接客)
+HOSPITALITY	(名詞) 接待: 客をもてなすこと。もてなし。 (ほかに: もてなし, 接客)
+HOSPITALIZATION	(名詞) 入院: （にゅういん）病気や怪我の治療のためにある期間病院に入ること。
+HOSPITALIZATIONS	(名詞) "hospitalization" の複数形: 入院: （にゅういん）病気や怪我の治療のためにある期間病院に入ること。
+HOSPITALIZE	(動詞) 病院に収容する；入院させる；入院を命じる
+HOSPITALIZED	(動詞) "hospitalize" の過去形・過去分詞形: 病院に収容する；入院させる；入院を命じる
+HOSPITALIZES	(動詞) "hospitalize" の三人称単数現在形: 病院に収容する；入院させる；入院を命じる
+HOSPITALIZING	(動詞) "hospitalize" の動名詞形又は現在分詞形: 病院に収容する；入院させる；入院を命じる
+HOSPITALS	(hospitalの変化形) (名詞) 病院: 医師又は歯科医師が、公衆又は特定多数人のため医業又は歯科医業を行う場所であつて、二十人以上の患者を入院させるための施設を有するもの。（医療法第一条の五）
+HOST	(名詞) 主催者: 行事、集会、イベントなどを主催する者や組織。 (ほかに: 主人, ホスト)\n(形容詞) hostの訳: 主催者の
+HOSTAGE	(名詞) 人質: 約束を守る証として相手方に拘留させる人。\n(動詞) ～を人質に出す。
+HOSTAGES	(名詞) "hostage" の複数形: 人質: 約束を守る証として相手方に拘留させる人。\n(動詞) "hostage" の三人称単数現在形: 人質: 約束を守る証として相手方に拘留させる人。
+HOSTED	(動詞) "host" の過去形・過去分詞形: 主催者: 行事、集会、イベントなどを主催する者や組織。 (ほかに: 主人, ホスト)
+HOSTEL	(名詞) 簡易宿泊所: 宿泊する場所を多数人で共用する構造及び設備を主とする施設を設け、宿泊料を受けて、人を宿泊させる施設。簡易宿所。\n(動詞) 旅行でホステルを利用する。
+HOSTELED	(動詞) "hostel" の過去形・過去分詞: 簡易宿泊所: 宿泊する場所を多数人で共用する構造及び設備を主とする施設を設け、宿泊料を受けて、人を宿泊させる施設。簡易宿所。
+HOSTELING	(動詞) "hostel" の動名詞又は現在分詞: 簡易宿泊所: 宿泊する場所を多数人で共用する構造及び設備を主とする施設を設け、宿泊料を受けて、人を宿泊させる施設。簡易宿所。
+HOSTELLED	(動詞) "hostel" の過去形・過去分詞: 簡易宿泊所: 宿泊する場所を多数人で共用する構造及び設備を主とする施設を設け、宿泊料を受けて、人を宿泊させる施設。簡易宿所。
+HOSTELLING	(動詞) "hostel" の動名詞又は現在分詞: 簡易宿泊所: 宿泊する場所を多数人で共用する構造及び設備を主とする施設を設け、宿泊料を受けて、人を宿泊させる施設。簡易宿所。
+HOSTELS	(名詞) "hostel" の複数形: 簡易宿泊所: 宿泊する場所を多数人で共用する構造及び設備を主とする施設を設け、宿泊料を受けて、人を宿泊させる施設。簡易宿所。\n(動詞) "hostel" の現在第三人称単数形。
+HOSTESS	(名詞) スチュワーデス: 女性の客室乗務員。 (ほかに: 客室乗務員, スチュワード)
+HOSTESSED	(hostessの変化形) (名詞) スチュワーデス: 女性の客室乗務員。 (ほかに: 客室乗務員, スチュワード)
+HOSTESSES	(名詞) "hostess" の複数形: スチュワーデス: 女性の客室乗務員。 (ほかに: 客室乗務員, スチュワード)
+HOSTESSING	(hostessの変化形) (名詞) スチュワーデス: 女性の客室乗務員。 (ほかに: 客室乗務員, スチュワード)
+HOSTILE	(形容詞) 敵対的な。敵対する。～に敵意を抱いている。\n(名詞) 敵: 敵対する相手。敵。
+HOSTILELY	(副詞) hostilelyの訳: 敵意を持って
+HOSTILES	(名詞) hostileの複数形: 敵対的な。敵対する。～に敵意を抱いている。
+HOSTILITIES	(名詞) "hostility" の複数形: 敵対: 相手を敵として憎み、はむかうこと。 (ほかに: 対立)
+HOSTILITY	(名詞) 敵対: 相手を敵として憎み、はむかうこと。 (ほかに: 対立)
+HOSTING	(動詞) "host" の動名詞形又は現在分詞形: 主催者: 行事、集会、イベントなどを主催する者や組織。 (ほかに: 主人, ホスト)
+HOSTLY	(hostの変化形) (名詞) 主催者: 行事、集会、イベントなどを主催する者や組織。 (ほかに: 主人, ホスト)
+HOSTS	(名詞) "host" の複数形: 主催者: 行事、集会、イベントなどを主催する者や組織。 (ほかに: 主人, ホスト)\n(動詞) "host" の三人称単数現在形: 主催者: 行事、集会、イベントなどを主催する者や組織。 (ほかに: 主人, ホスト)
+HOT	(形容詞) 暑い: （あつい）多くの場合不快である程度に、気温が高い又は高く感じる。 (ほかに: 熱い)\n(副詞) hotの訳: 熱く, 熱心に
+HOTCAKE	(名詞) hotcakeの訳: ホットケーキ
+HOTCAKES	(hotcakeの変化形) (名詞) hotcakeの訳: ホットケーキ
+HOTDOG	(名詞) hotdogの訳: ホットドッグ
+HOTDOGS	(名詞) hotdogの複数形: ホットドッグ
+HOTEL	(名詞) 旅館: 人を宿泊させることを業務とする施設。宿屋。 (ほかに: ホテル)
+HOTELS	(名詞) "hotel" の複数形: 旅館: 人を宿泊させることを業務とする施設。宿屋。 (ほかに: ホテル)
+HOTHOUSE	(名詞) 温室: 植物を栽培するなどの目的で保温設備をした建物。\n(形容詞) hothouseの訳: 温室育ちの
+HOTHOUSES	(hothouseの変化形) (名詞) 温室: 植物を栽培するなどの目的で保温設備をした建物。
+HOTLY	(副詞) hotlyの訳: 熱く
+HOTS	(動詞) "hot" の三人称単数現在形: 暑い: （あつい）多くの場合不快である程度に、気温が高い又は高く感じる。 (ほかに: 熱い)
+HOTTED	(動詞) "hot" の過去分詞形: 暑い: （あつい）多くの場合不快である程度に、気温が高い又は高く感じる。 (ほかに: 熱い)
+HOTTER	(形容詞) "hot" の比較級形: 暑い: （あつい）多くの場合不快である程度に、気温が高い又は高く感じる。 (ほかに: 熱い)
+HOTTEST	(形容詞) "hot" の最上級形: 暑い: （あつい）多くの場合不快である程度に、気温が高い又は高く感じる。 (ほかに: 熱い)
+HOTTING	(動詞) "hot" の動名詞形又は現在分詞形: 暑い: （あつい）多くの場合不快である程度に、気温が高い又は高く感じる。 (ほかに: 熱い)
+HOUND	(名詞) 犬: （いぬ）哺乳類食肉目イヌ科イヌ属の動物、学名は Canis lupus familiaris（以前は、種小名を除きCanis familiaris）。しばしば家畜にされ番犬として使われる。 (ほかに: 猟犬)\n(動詞) houndの訳: 猟犬で駆る
+HOUNDED	(動詞) "hound" の過去形・過去分詞形: 犬: （いぬ）哺乳類食肉目イヌ科イヌ属の動物、学名は Canis lupus familiaris（以前は、種小名を除きCanis...
+HOUNDER	(houndの変化形) (名詞) 犬: （いぬ）哺乳類食肉目イヌ科イヌ属の動物、学名は Canis lupus familiaris（以前は、種小名を除きCanis familiaris）。しばしば家畜にされ番犬として使われる。 (ほかに: 猟犬)
+HOUNDING	(動詞) "hound" の動名詞形又は現在分詞形: 犬: （いぬ）哺乳類食肉目イヌ科イヌ属の動物、学名は Canis lupus familiaris（以前は、種小名を除きCanis...
+HOUNDS	(名詞) "hound" の複数形: 犬: （いぬ）哺乳類食肉目イヌ科イヌ属の動物、学名は Canis lupus familiaris（以前は、種小名を除きCanis...\n(動詞) "hound" の三人称単数現在形: 犬: （いぬ）哺乳類食肉目イヌ科イヌ属の動物、学名は Canis lupus familiaris（以前は、種小名を除きCanis...
+HOUR	(名詞) 時: （ジ）ある特定の時刻。 (ほかに: 1時間)
+HOURGLASS	(名詞) hourglassの訳: 砂時計
+HOURGLASSES	(名詞) hourglassの複数形: 砂時計
+HOURLY	(形容詞) hourlyの訳: 1時間ごとの\n(副詞) hourlyの訳: 1時間ごと
+HOUSE	(名詞) 家: （いえ うち）人が生活に用いる建物。住居。家屋。\n(形容詞) houseの訳: 家の
+HOUSEBREAK	(動詞) （ペットに）用便の躾けをする
+HOUSEBREAKER	(名詞) 押し込み強盗犯
+HOUSEBREAKERS	(名詞) housebreakerの複数形: 押し込み強盗犯
+HOUSEBREAKING	(名詞) 押し込み強盗: 住居に侵入して犯す強盗行為又は強盗犯。 (ほかに: 家宅侵入)\n(動詞) housebreakの現在分詞: （ペットに）用便の躾けをする
+HOUSEBREAKINGS	(名詞) housebreakingの複数形: 押し込み強盗: 住居に侵入して犯す強盗行為又は強盗犯。 (ほかに: 家宅侵入)
+HOUSEBREAKS	(動詞) housebreakの直説法現在第三人称単数形: （ペットに）用便の躾けをする
+HOUSEBROKEN	(形容詞) （ペットが）用便の躾けをされた\n(動詞) housebreakの過去分詞: （ペットに）用便の躾けをする
+HOUSED	(動詞) "house" の過去形・過去分詞形: 家: （いえ うち）人が生活に用いる建物。住居。家屋。
+HOUSEFLIES	(houseflyの変化形) (名詞) houseflyの訳: ⟪家蝿|いえばえ⟫
+HOUSEFLY	(名詞) houseflyの訳: ⟪家蝿|いえばえ⟫
+HOUSEHOLD	(名詞) 家族: 血縁関係による親族を基礎として成立する小集団。社会の基本単位。\n(形容詞) householdの訳: 家庭の
+HOUSEHOLDS	(名詞) householdの複数形: 家族: 血縁関係による親族を基礎として成立する小集団。社会の基本単位。
+HOUSEHUSBAND	(名詞) 主夫: 家事を主な仕事とする夫。
+HOUSEHUSBANDS	(househusbandの変化形) (名詞) 主夫: 家事を主な仕事とする夫。
+HOUSEKEEPING	(名詞) 家政: 掃除・炊事・洗濯・裁縫など家事の総称。 (ほかに: 家事, ハウスキーピング)
+HOUSEMAID	(名詞) 家政婦: その家の人に代わって家事を行うことを仕事にしている女性。
+HOUSEMAIDS	(housemaidの変化形) (名詞) 家政婦: その家の人に代わって家事を行うことを仕事にしている女性。
+HOUSER	(houseの変化形) (名詞) 家: （いえ うち）人が生活に用いる建物。住居。家屋。
+HOUSES	(名詞) house の複数形: 家: （いえ うち）人が生活に用いる建物。住居。家屋。
+HOUSEWIFE	(名詞) 主婦: 家事を主な仕事とする妻。\n(動詞) （housewiveの異綴）家計をやり繰りする。
+HOUSEWIVES	(名詞) housewifeの複数形: 主婦: 家事を主な仕事とする妻。\n(動詞) housewifeの現在第三人称単数形。
+HOUSEWORK	(名詞) 家事: 炊事や掃除、洗濯など、家庭の中の様々な用事。
+HOUSEWORKS	(houseworkの変化形) (名詞) 家事: 炊事や掃除、洗濯など、家庭の中の様々な用事。
+HOUSING	(動詞) houseの現在分詞又は動名詞形: 家: （いえ うち）人が生活に用いる建物。住居。家屋。\n(名詞) 住宅: 人が住むための家。
+HOUSINGS	(名詞) "housing" の複数形: houseの現在分詞又は動名詞形。
+HOVE	(heaveの変化形) (動詞) heaveの訳: 持ち上げる
+HOW	(副詞) howの訳: ⟪いくら⟫, どのくらい\n(接続詞) howの訳: ～の方法
+HOWDIED	(howdyの変化形) (感動詞) よう: 呼び掛けや、それに応える言葉。「おう」に同じ。
+HOWDIES	(howdyの変化形) (感動詞) よう: 呼び掛けや、それに応える言葉。「おう」に同じ。
+HOWDY	(感動詞) よう: 呼び掛けや、それに応える言葉。「おう」に同じ。
+HOWDYING	(howdyの変化形) (感動詞) よう: 呼び掛けや、それに応える言葉。「おう」に同じ。
+HOWEVER	(副詞) どんなに～でも
+HOWITZER	(名詞) 榴弾砲: 榴弾を発射する射角が大きい火砲の一種。\n(動詞) 榴弾砲で攻撃する。
+HOWITZERS	(howitzerの変化形) (名詞) 榴弾砲: 榴弾を発射する射角が大きい火砲の一種。
+HOWL	(名詞) howlの訳: 遠吠え\n(動詞) howlの訳: 遠吠えする
+HOWLED	(動詞) howlの過去形・過去分詞: 遠吠え
+HOWLING	(動詞) "howl" の動名詞形又は現在分詞形: 遠吠え\n(名詞) howlingの訳: ハウリング
+HOWLS	(名詞) howlの複数形: 遠吠え\n(動詞) howlの直説法現在第三人称単数形: 遠吠え
+HOWS	(howの変化形) (副詞) howの訳: ⟪いくら⟫, どのくらい
+HUB	(名詞) 轂: （こしき）牛車などの車輪のハブ。 (ほかに: ハブ)
+HUBBIES	(名詞) "hubby" の複数形: 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)
+HUBBY	(名詞) 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)
+HUBS	(名詞) hubの複数形: 轂: （こしき）牛車などの車輪のハブ。 (ほかに: ハブ)
+HUG	(動詞) 抱きしめる。抱擁する。抱きつく。抱き合う。ハグする。抱える。しがみつく。\n(名詞) 抱擁。ハグ。抱きしめること。
+HUGE	(形容詞) 巨大な: 非常に大きい様子。
+HUGELY	(副詞) 非常に: 程度が甚だしい様。
+HUGER	(形容詞) "huge" の比較級: 巨大な: 非常に大きい様子。
+HUGEST	(形容詞) "huge" の最上級: 巨大な: 非常に大きい様子。
+HUGGED	(動詞) "hug" の過去形・過去分詞形: 抱きしめる。抱擁する。抱きつく。抱き合う。ハグする。抱える。しがみつく。
+HUGGING	(動詞) "hug" の動名詞形又は現在分詞形: 抱きしめる。抱擁する。抱きつく。抱き合う。ハグする。抱える。しがみつく。
+HUGS	(名詞) hugの複数形: 抱きしめる。抱擁する。抱きつく。抱き合う。ハグする。抱える。しがみつく。\n(動詞) hugの直説法現在第三人称単数形: 抱きしめる。抱擁する。抱きつく。抱き合う。ハグする。抱える。しがみつく。
+HULL	(名詞) （果物・種子などの）外皮。殻。\n(動詞) hullの訳: 外皮を取る
+HULLED	(形容詞) 外皮を除去された。\n(動詞) hullの過去形・過去分詞: （果物・種子などの）外皮。殻。
+HULLER	(名詞) hullerの訳: 籾摺り機
+HULLERS	(名詞) hullerの複数形: 籾摺り機
+HULLING	(動詞) hullの現在分詞: （果物・種子などの）外皮。殻。
+HULLO	(感動詞) hello の異綴り。
+HULLOED	(hulloの変化形) (感動詞) hello の異綴り。
+HULLOES	(hulloの変化形) (感動詞) hello の異綴り。
+HULLOING	(hulloの変化形) (感動詞) hello の異綴り。
+HULLOS	(hulloの変化形) (感動詞) hello の異綴り。
+HULLS	(名詞) hullの複数形: （果物・種子などの）外皮。殻。\n(動詞) hullの直説法現在第三人称単数形: （果物・種子などの）外皮。殻。
+HUM	(名詞) humの訳: ブン\n(動詞) ブンという音をたてる。鼻歌を歌う。ハミングする。
+HUMAN	(名詞) humanの訳: 人間, ⟪人類|じんるい⟫, ヒト\n(形容詞) humanの訳: 人間の, 人の
+HUMANER	(humanの変化形) (名詞) humanの訳: 人間, ⟪人類|じんるい⟫, ヒト
+HUMANEST	(humanの変化形) (名詞) humanの訳: 人間, ⟪人類|じんるい⟫, ヒト
+HUMANITARIAN	(名詞) humanitarianの訳: 人道主義者\n(形容詞) humanitarianの訳: 人道主義の
+HUMANITARIANISM	(名詞) 人道主義: 人類愛の立場から人類全体の幸福の実現を図ろうとする主義。
+HUMANITARIANISMS	(humanitarianismの変化形) (名詞) 人道主義: 人類愛の立場から人類全体の幸福の実現を図ろうとする主義。
+HUMANITARIANS	(humanitarianの変化形) (名詞) humanitarianの訳: 人道主義者
+HUMANITIES	(名詞) 人文科学: 人間を対象とする科学の分野。文学、哲学、歴史学、言語学などを含む。社会学を含む場合もある。人文学とも呼ばれる。
+HUMANITY	(名詞) (通例無冠詞、集合的) 人間。人類。
+HUMANKIND	(名詞) 人類: 他の生物と区別される人間の全体。
+HUMANOID	(形容詞) 人間の形をした、人型の。\n(名詞) 人型のもの、ヒューマノイド。
+HUMANOIDS	(名詞) humanoidの複数形: 人間の形をした、人型の。
+HUMANS	(名詞) "human" の複数形: 人間, ⟪人類|じんるい⟫, ヒト
+HUMBLE	(形容詞) 身分が低い。賤しい。下賤な。\n(動詞) （自尊心・権力などを）くじく。貶める。
+HUMBLED	(動詞) humbleの過去形・過去分詞: 身分が低い。賤しい。下賤な。
+HUMBLENESS	(名詞) 謙遜。謙虚さ。
+HUMBLENESSES	(名詞) humblenessの複数形: 謙遜。謙虚さ。
+HUMBLER	(名詞) humblerの訳: 卑しめる人\n(形容詞) humbleの比較級: 身分が低い。賤しい。下賤な。
+HUMBLERS	(名詞) humblerの複数形: 卑しめる人
+HUMBLES	(動詞) humbleの直説法現在第三人称単数形: 身分が低い。賤しい。下賤な。
+HUMBLEST	(形容詞) humbleの最上級: 身分が低い。賤しい。下賤な。
+HUMBLING	(動詞) humbleの現在分詞: 身分が低い。賤しい。下賤な。\n(形容詞) 謙虚な。謙遜した。控えめな。
+HUMBLY	(副詞) 謙虚に: 控えめで、素直なさま。 (ほかに: 卑しく, 謙遜して)
+HUMERAL	(形容詞) 肩の: （かた）うでの胴体に付く関節の上の箇所。 (ほかに: 上腕骨の)
+HUMERALS	(humeralの変化形) (形容詞) 肩の: （かた）うでの胴体に付く関節の上の箇所。 (ほかに: 上腕骨の)
+HUMERI	(名詞) humerusの複数形: 上腕骨: 肩から肘の間を構成する骨。上膊骨。
+HUMERUS	(名詞) 上腕骨: 肩から肘の間を構成する骨。上膊骨。
+HUMID	(形容詞) humidの訳: 湿気の多い, 湿度が高い
+HUMIDIFIED	(動詞) "humidify" の過去形・過去分詞形: 湿らせる
+HUMIDIFIES	(動詞) "humidify" の三人称単数現在形: 湿らせる
+HUMIDIFY	(動詞) humidifyの訳: 湿らせる
+HUMIDIFYING	(動詞) "humidify" の動名詞形又は現在分詞形: 湿らせる
+HUMIDITIES	(名詞) humidityの複数形: 湿気: 湿った空気。ものや空気中の水分。
+HUMIDITY	(名詞) 湿気: 湿った空気。ものや空気中の水分。
+HUMIDLY	(humidの変化形) (形容詞) humidの訳: 湿気の多い, 湿度が高い
+HUMILIATE	(動詞) ～を辱める、～を侮辱する、～に屈辱を与える。
+HUMILIATED	(動詞) "humiliate" の過去形・過去分詞: ～を辱める、～を侮辱する、～に屈辱を与える。
+HUMILIATES	(動詞) humiliateの現在第三人称単数形。
+HUMILIATING	(形容詞) humiliatingの訳: 屈辱的な\n(動詞) humiliateの動名詞又は現在分詞: ～を辱める、～を侮辱する、～に屈辱を与える。
+HUMILIATION	(名詞) 辱めること、屈辱を与えること、侮辱。
+HUMILIATIONS	(名詞) humiliationの複数形: 辱めること、屈辱を与えること、侮辱。
+HUMILITIES	(名詞) humilityの複数形: 謙遜: 謙ること。控えめな態度をとること。 (ほかに: 謙虚, 卑下)
+HUMILITY	(名詞) 謙遜: 謙ること。控えめな態度をとること。 (ほかに: 謙虚, 卑下)
+HUMMED	(動詞) "hum" の過去形・過去分詞形: ブン
+HUMMER	(名詞) hummerの訳: 悍馬
+HUMMERS	(hummerの変化形) (名詞) hummerの訳: 悍馬
+HUMMING	(動詞) "hum" の動名詞形又は現在分詞形: ブン\n(名詞) hummingの訳: ハミング
+HUMMINGBIRD	(名詞) hummingbirdの訳: ⟪ハチドリ|はちどり⟫
+HUMMINGBIRDS	(名詞) hummingbirdの複数形: ⟪ハチドリ|はちどり⟫
+HUMMOCK	(名詞) こやま: 小さい山。
+HUMMOCKED	(hummockの変化形) (名詞) こやま: 小さい山。
+HUMMOCKS	(hummockの変化形) (名詞) こやま: 小さい山。
+HUMORIST	(名詞) ユーモア作家、ユーモアのある人
+HUMORISTS	(名詞) humoristの複数形: ユーモア作家、ユーモアのある人
+HUMORLESS	(形容詞) ユーモアのない
+HUMOROUS	(形容詞) おかしい、滑稽な、ユーモアのある。
+HUMOROUSLY	(副詞) humorouslyの訳: 滑稽に
+HUMOROUSNESS	(名詞) humorousnessの訳: おどけ
+HUMOROUSNESSES	(humorousnessの変化形) (名詞) humorousnessの訳: おどけ
+HUMOUR	(名詞) humourの訳: ユーモア, おかしみ, 滑稽さ\n(動詞) humourの訳: ⟪あやす⟫, 宥める, 機嫌を取る
+HUMOURED	(humourの変化形) (名詞) humourの訳: ユーモア, おかしみ, 滑稽さ
+HUMOURING	(humourの変化形) (名詞) humourの訳: ユーモア, おかしみ, 滑稽さ
+HUMOURS	(humourの変化形) (名詞) humourの訳: ユーモア, おかしみ, 滑稽さ
+HUMPBACK	(名詞) 傴僂: （せむし）背骨が弓状に湾曲する病気。また、そのような人。
+HUMPBACKS	(humpbackの変化形) (名詞) 傴僂: （せむし）背骨が弓状に湾曲する病気。また、そのような人。
+HUMS	(名詞) "hum" の複数形: ブン\n(動詞) "hum" の三人称単数現在形: ブン
+HUMUS	(名詞) humusの訳: 腐植土
+HUMUSES	(humusの変化形) (名詞) humusの訳: 腐植土
+HUNDRED	(数詞) 百: （ヒャク、もも、ほ） 十の二乗。100。\n(名詞) hundredの訳: 数多くの, 数多の, 多数の
+HUNDREDS	(hundredの変化形) (数詞) 百: （ヒャク、もも、ほ） 十の二乗。100。
+HUNDREDTH	(形容詞) hundredthの訳: 第100の, 100番目の\n(名詞) 第100番目の人又は物
+HUNDREDTHS	(hundredthの変化形) (形容詞) hundredthの訳: 第100の, 100番目の
+HUNG	(動詞) "hang" の過去形・過去分詞形: 掛ける: （かける）布などを被せる。一部または全体を覆う。
+HUNGER	(名詞) 飢饉: 農作物の不作などにより食糧が不足し飢餓となること。 (ほかに: 飢え, 飢餓)\n(動詞) hungerの訳: 空腹である
+HUNGERED	(動詞) "hunger" の過去形・過去分詞形: 飢饉: 農作物の不作などにより食糧が不足し飢餓となること。 (ほかに: 飢え, 飢餓)
+HUNGERING	(動詞) "hunger" の動名詞形又は現在分詞形: 飢饉: 農作物の不作などにより食糧が不足し飢餓となること。 (ほかに: 飢え, 飢餓)
+HUNGERS	(名詞) "hunger" の複数形: 飢饉: 農作物の不作などにより食糧が不足し飢餓となること。 (ほかに: 飢え, 飢餓)\n(動詞) "hunger" の三人称単数現在形: 飢饉: 農作物の不作などにより食糧が不足し飢餓となること。 (ほかに: 飢え, 飢餓)
+HUNGRIER	(形容詞) "hungry" の比較級形: 空腹な: 腹が空くこと。すきばら。 (ほかに: 飢えている)
+HUNGRIEST	(形容詞) "hungry" の最上級形: 空腹な: 腹が空くこと。すきばら。 (ほかに: 飢えている)
+HUNGRILY	(副詞) hungrilyの訳: 飢えて, がつがつと
+HUNGRY	(形容詞) 空腹な: 腹が空くこと。すきばら。 (ほかに: 飢えている)
+HUNT	(動詞) huntの訳: 狩る, 狩猟する\n(名詞) huntの訳: 狩り, 狩猟
+HUNTED	(動詞) huntの過去形・過去分詞: 狩る、狩猟する
+HUNTER	(名詞) 猟師: 狩猟を営む人。 (ほかに: 狩人, ハンター)
+HUNTERS	(名詞) "hunter" の複数形: 猟師: 狩猟を営む人。 (ほかに: 狩人, ハンター)
+HUNTING	(名詞) 狩猟: 野生動物を猟具を使って捕獲すること。 (ほかに: 狩り)\n(動詞) huntの現在分詞: 狩る、狩猟する
+HUNTINGS	(huntの変化形) (動詞) huntの訳: 狩る, 狩猟する
+HUNTS	(動詞) huntの直説法第三人称単数形: 狩る、狩猟する\n(名詞) huntの複数形: 狩る, 狩猟する
+HUNTSMAN	(名詞) 猟師: 狩猟を営む人。 (ほかに: 狩人, ハンター)
+HUNTSMEN	(名詞) "huntsman"（猟師） の複数形。
+HURDLE	(名詞) ハードル: 障害走においてコース上に置かれる枠状の器具。また、それを使用して行われる競走。 (ほかに: 障害物)\n(動詞) hurdleの訳: 跳び越える
+HURDLED	(動詞) hurdleの過去形・過去分詞: ハードル: 障害走においてコース上に置かれる枠状の器具。また、それを使用して行われる競走。 (ほかに: 障害物)
+HURDLER	(名詞) ハードラー: ハードル走の選手。
+HURDLERS	(名詞) hurdlerの複数形: ハードラー: ハードル走の選手。
+HURDLES	(名詞) hurdleの複数形: ハードル: 障害走においてコース上に置かれる枠状の器具。また、それを使用して行われる競走。 (ほかに: 障害物)\n(動詞) hurdleの直説法現在第三人称単数形: ハードル: 障害走においてコース上に置かれる枠状の器具。また、それを使用して行われる競走。 (ほかに: 障害物)
+HURDLING	(名詞) hurdlingの訳: ハードル走\n(動詞) hurdleの現在分詞: ハードル: 障害走においてコース上に置かれる枠状の器具。また、それを使用して行われる競走。 (ほかに: 障害物)
+HURL	(動詞) hurlの訳: 強く投げる\n(名詞) 投げつけること。
+HURLED	(動詞) hurlの過去形・過去分詞: 強く投げる
+HURLIES	(hurlyの変化形) (形容動詞) 喧囂: がやがやしているさま。騒がしい。
+HURLING	(名詞) hurlingの訳: 投げること\n(動詞) hurlの現在分詞: 強く投げる
+HURLINGS	(名詞) hurlingの複数形: 投げること
+HURLS	(動詞) hurlの直説法現在第三人称単数形: 強く投げる\n(名詞) hurlの複数形: 強く投げる
+HURLY	(形容動詞) 喧囂: がやがやしているさま。騒がしい。
+HURRICANE	(名詞) ハリケーン: 北東太平洋と北大西洋における、最大風速が74マイル時以上の熱帯低気圧。111マイル時以上のものはメジャーハリケーンともいう。
+HURRICANES	(hurricaneの変化形) (名詞) ハリケーン: 北東太平洋と北大西洋における、最大風速が74マイル時以上の熱帯低気圧。111マイル時以上のものはメジャーハリケーンともいう。
+HURRIED	(形容詞) せきたてられた、大急ぎの。\n(動詞) hurryの過去形・過去分詞: 急ぐこと。急いでいること。あわてること。
+HURRIEDLY	(副詞) 急いで。せかせかと。
+HURRIES	(名詞) "hurry" の複数形: 急ぐこと。急いでいること。あわてること。\n(動詞) "hurry" の三人称単数現在形: 急ぐこと。急いでいること。あわてること。
+HURRY	(名詞) 急ぐこと。急いでいること。あわてること。\n(動詞) 急ぐ、急いで移動する。
+HURRYING	(動詞) "hurry" の動名詞形又は現在分詞形: 急ぐこと。急いでいること。あわてること。
+HURT	(動詞) 傷つける: （きずつける）人の感情などを損なう。 (ほかに: 痛める, 怪我をさせる)\n(形容詞) hurtの訳: 傷を負った
+HURTER	(hurtの変化形) (動詞) 傷つける: （きずつける）人の感情などを損なう。 (ほかに: 痛める, 怪我をさせる)
+HURTERS	(hurtの変化形) (動詞) 傷つける: （きずつける）人の感情などを損なう。 (ほかに: 痛める, 怪我をさせる)
+HURTFUL	(形容詞) 感情を傷つける
+HURTFULLY	(hurtfulの変化形) (形容詞) 感情を傷つける
+HURTING	(動詞) hurt の現在分詞形: 傷つける: （きずつける）人の感情などを損なう。 (ほかに: 痛める, 怪我をさせる)
+HURTS	(動詞) hurt の直説法現在三人称単数形: 傷つける: （きずつける）人の感情などを損なう。 (ほかに: 痛める, 怪我をさせる)\n(名詞) hurt の複数形: 傷つける: （きずつける）人の感情などを損なう。 (ほかに: 痛める, 怪我をさせる)
+HUSBAND	(名詞) 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)\n(動詞) husbandの訳: ～を倹約する
+HUSBANDED	(動詞) "husband" の過去形・過去分詞形: 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)
+HUSBANDER	(husbandの変化形) (名詞) 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)
+HUSBANDING	(動詞) "husband" の動名詞形又は現在分詞形: 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)
+HUSBANDS	(名詞) "husband" の複数形: 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)\n(動詞) "husband" の三人称単数現在形: 夫: （おっと、古くは・つま）男性の配偶者。 (ほかに: 旦那)
+HUSH	(動詞) hushの訳: 静かになる, 黙る\n(名詞) 静寂。沈黙。静けさ。
+HUSHED	(形容詞) hushedの訳: 静まり返った\n(動詞) hushの過去形・過去分詞: 静かになる, 黙る
+HUSHES	(動詞) hushの直説法現在第三人称単数形: 静かになる, 黙る
+HUSHING	(hushの変化形) (動詞) hushの訳: 静かになる, 黙る
+HUSK	(名詞) （種子・果物・穀物などの）殻。皮。\n(動詞) 殻を剥く。皮を剥く。
+HUSKED	(動詞) huskの過去形・過去分詞: （種子・果物・穀物などの）殻。皮。\n(形容詞) 殻で覆われた。皮で覆われた。
+HUSKER	(名詞) 殻を剥く人。皮を剥く人。
+HUSKIER	(形容詞) huskyの比較級: （声が）しわがれた。ハスキーな。
+HUSKIES	(名詞) huskyの複数形: （声が）しわがれた。ハスキーな。
+HUSKIEST	(形容詞) huskyの最上級: （声が）しわがれた。ハスキーな。
+HUSKILY	(副詞) ハスキーな声で。
+HUSKING	(動詞) huskの現在分詞: （種子・果物・穀物などの）殻。皮。\n(名詞) 唐もろこしの皮剝きの集い。
+HUSKINGS	(名詞) huskingの複数形: huskの現在分詞。
+HUSKS	(名詞) huskの複数形: （種子・果物・穀物などの）殻。皮。\n(動詞) huskの直説法現在第三人称単数形: （種子・果物・穀物などの）殻。皮。
+HUSKY	(形容詞) （声が）しわがれた。ハスキーな。\n(名詞) ハスキー犬。エスキモー犬。
+HUSSAR	(名詞) hussarの訳: 驃騎兵
+HUSSARS	(hussarの変化形) (名詞) hussarの訳: 驃騎兵
+HUSTLE	(動詞) hustleの訳: 急ぐ, 急く\n(名詞) hustleの訳: ⟪大急ぎ|おおいそぎ⟫
+HUSTLED	(hustleの変化形) (動詞) hustleの訳: 急ぐ, 急く
+HUSTLER	(名詞) hustlerの訳: 活動家, やり手, ばくち打ち, 勝負師
+HUSTLERS	(hustlerの変化形) (名詞) hustlerの訳: 活動家, やり手, ばくち打ち, 勝負師
+HUSTLES	(hustleの変化形) (動詞) hustleの訳: 急ぐ, 急く
+HUSTLING	(hustleの変化形) (動詞) hustleの訳: 急ぐ, 急く
+HUT	(名詞) hutの訳: 草廬, こや
+HUTS	(hutの変化形) (名詞) hutの訳: 草廬, こや
+HUTTED	(hutの変化形) (名詞) hutの訳: 草廬, こや
+HUTTING	(hutの変化形) (名詞) hutの訳: 草廬, こや
+HYACINTH	(名詞) hyacinthの訳: ヒヤシンス
+HYACINTHS	(名詞) hyacinthの複数形: ヒヤシンス
+HYAENA	(名詞) hyenaの異綴。
+HYAENAS	(hyaenaの変化形) (名詞) hyenaの異綴。
+HYBRID	(名詞) hybridの訳: 雑種, ハイブリッド\n(形容詞) hybridの訳: 雑種の
+HYBRIDIZE	(動詞) hybridizeの訳: ⟪かける⟫
+HYBRIDIZED	(hybridizeの変化形) (動詞) hybridizeの訳: ⟪かける⟫
+HYBRIDIZES	(hybridizeの変化形) (動詞) hybridizeの訳: ⟪かける⟫
+HYBRIDIZING	(hybridizeの変化形) (動詞) hybridizeの訳: ⟪かける⟫
+HYBRIDS	(名詞) hybridの複数形: 雑種, ハイブリッド
+HYDRANGEA	(名詞) hydrangeaの訳: ⟪あじさい⟫
+HYDRANGEAS	(名詞) hydrangeaの複数形: ⟪あじさい⟫
+HYDRAZINE	(名詞) hydrazineの訳: ヒドラジン
+HYDRAZINES	(hydrazineの変化形) (名詞) hydrazineの訳: ヒドラジン
+HYDROCARBON	(名詞) 炭化水素: 炭素原子と水素原子のみで構成されている化合物の総称。
+HYDROCARBONS	(名詞) hydrocarbonの複数形: 炭化水素: 炭素原子と水素原子のみで構成されている化合物の総称。
+HYDROCEPHALUS	(名詞) 水頭症: 脳脊髄液の産生、循環、吸収などいずれかの異常により髄液が頭蓋腔内に異常に貯まり、脳室が正常より大きくなっている状態。脳水腫。
+HYDROCEPHALUSES	(名詞) hydrocephalusの複数形: 水頭症: 脳脊髄液の産生、循環、吸収などいずれかの異常により髄液が頭蓋腔内に異常に貯まり、脳室が正常より大きくなっている状態。脳水腫。
+HYDRODYNAMICS	(名詞) 流体力学: 流体の挙動を扱う力学。 (ほかに: 水力学)
+HYDROGEN	(名詞) 水素: 2つの水素原子で構成される分子。化学式はH₂。常温常圧では無色無臭の気体で、非常に燃えやすいなどの特徴がある。
+HYDROGENS	(hydrogenの変化形) (名詞) 水素: 2つの水素原子で構成される分子。化学式はH₂。常温常圧では無色無臭の気体で、非常に燃えやすいなどの特徴がある。
+HYDROLOGIES	(名詞) hydrologyの複数形: 水文学: 陸上の湖沼、河川、地下水などの水に関することを水の循環の視点から研究する学問。
+HYDROLOGY	(名詞) 水文学: 陸上の湖沼、河川、地下水などの水に関することを水の循環の視点から研究する学問。
+HYDROPHILIC	(名詞) 親水: 水と親和性があること。
+HYDROPHOBIA	(名詞) hydrophobiaの訳: 恐水病
+HYDROPHOBIAS	(hydrophobiaの変化形) (名詞) hydrophobiaの訳: 恐水病
+HYDROPHOBIC	(名詞) 疎水: 水に馴染みにくいこと、水と親和性のないこと。
+HYDROPHOBICITIES	(hydrophobicityの変化形) (名詞) 疎水: 水に馴染みにくいこと、水と親和性のないこと。
+HYDROPHOBICITY	(名詞) 疎水: 水に馴染みにくいこと、水と親和性のないこと。
+HYDROUS	(形容詞) 含水の: 水分を含むこと。水気があること。
+HYDROXIDE	(名詞) 水酸化物: ある元素の陽イオンが水酸化物イオン OH⁻ と結びついてできた化合物。
+HYDROXIDES	(名詞) hydroxideの複数形: 水酸化物: ある元素の陽イオンが水酸化物イオン OH⁻ と結びついてできた化合物。
+HYDROXYLAMINE	(名詞) hydroxylamineの訳: ヒドロキシルアミン
+HYDROXYLAMINES	(hydroxylamineの変化形) (名詞) hydroxylamineの訳: ヒドロキシルアミン
+HYENA	(名詞) hyenaの訳: ハイエナ
+HYENAS	(名詞) "hyena" の複数形: ハイエナ
+HYGIENE	(名詞) 衛生: 身の回りを清潔にすることで健康を保ち、病気にかからなくすること。 (ほかに: 衛生学)
+HYGIENES	(名詞) hygieneの複数形: 衛生: 身の回りを清潔にすることで健康を保ち、病気にかからなくすること。 (ほかに: 衛生学)
+HYMEN	(名詞) hymenの訳: 処女膜
+HYMENOPTERAN	(名詞) 膜翅類: 膜翅目に分類される昆虫の総称。\n(形容詞) hymenopteranの訳: 膜翅類の
+HYMENOPTERANS	(hymenopteranの変化形) (名詞) 膜翅類: 膜翅目に分類される昆虫の総称。
+HYMENOPTERON	(名詞) 膜翅類: 膜翅目に分類される昆虫の総称。
+HYMENOPTERONS	(hymenopteronの変化形) (名詞) 膜翅類: 膜翅目に分類される昆虫の総称。
+HYMENOPTEROUS	(形容詞) 膜翅類の: 膜翅目に分類される昆虫の総称。
+HYMENS	(名詞) hymenの複数形: 処女膜
+HYMN	(名詞) 聖歌。讃美歌。賛歌。\n(動詞) hymnの訳: 讃美歌を歌う
+HYMNED	(hymnの変化形) (名詞) 聖歌。讃美歌。賛歌。
+HYMNING	(hymnの変化形) (名詞) 聖歌。讃美歌。賛歌。
+HYMNS	(名詞) hymnの複数形: 聖歌。讃美歌。賛歌。\n(動詞) hymnの直説法現在第三人称単数形: 聖歌。讃美歌。賛歌。
+HYPERBOLA	(名詞) hyperbolaの訳: ⟪双曲線|そうきょくせん⟫
+HYPERBOLAS	(hyperbolaの変化形) (名詞) hyperbolaの訳: ⟪双曲線|そうきょくせん⟫
+HYPERBOLIC	(形容詞) hyperbolicの訳: 双曲線の, 双曲面の, 双曲の
+HYPEROPIA	(名詞) 遠視: 遠方から眼内に入った平行光線が、調節力を働かせていないときに、網膜の後方に焦点を結ぶ状態。特に近くのものがはっきり見えにくい。遠目、遠視眼。
+HYPEROPIAS	(名詞) hyperopiaの複数形: 遠視: 遠方から眼内に入った平行光線が、調節力を働かせていないときに、網膜の後方に焦点を結ぶ状態。特に近くのものがはっきり見えにくい。遠目、遠視眼。
+HYPERTENSION	(名詞) 高血圧: 血圧が正常値よりも高い状態。収縮期血圧が140mmHg以上または拡張期血圧が90mmHg以上に保たれた状態をいうとされる。
+HYPERTENSIONS	(名詞) hypertensionの複数形: 高血圧: 血圧が正常値よりも高い状態。収縮期血圧が140mmHg以上または拡張期血圧が90mmHg以上に保たれた状態をいうとされる。
+HYPERTEXT	(名詞) ハイパーテキスト。
+HYPERTEXTS	(名詞) "hypertext" の複数形: ハイパーテキスト。
+HYPERTHERMIA	(名詞) 高熱: 高い体温。 (ほかに: 熱中症)
+HYPERTHERMIAS	(名詞) hyperthermiaの複数形: 高熱: 高い体温。 (ほかに: 熱中症)
+HYPERTROPHIED	(hypertrophyの変化形) (名詞) 肥大: 細胞・組織・臓器などの体積が大きくなること。
+HYPERTROPHIES	(hypertrophyの変化形) (名詞) 肥大: 細胞・組織・臓器などの体積が大きくなること。
+HYPERTROPHY	(名詞) 肥大: 細胞・組織・臓器などの体積が大きくなること。
+HYPERTROPHYING	(hypertrophyの変化形) (名詞) 肥大: 細胞・組織・臓器などの体積が大きくなること。
+HYPNOSES	(名詞) hypnosisの複数形: 催眠。催眠状態。
+HYPNOSIS	(名詞) 催眠。催眠状態。
+HYPNOTHERAPIES	(名詞) hypnotherapyの複数形: 催眠療法: 催眠を用いる心理療法。
+HYPNOTHERAPY	(名詞) 催眠療法: 催眠を用いる心理療法。
+HYPNOTIC	(形容詞) 催眠の。催眠状態の。\n(名詞) hypnoticの訳: 催眠状態の人
+HYPNOTICALLY	(副詞) hypnoticallyの訳: 催眠で
+HYPNOTICS	(名詞) hypnoticの複数形: 催眠の。催眠状態の。
+HYPNOTISM	(名詞) 催眠術: 暗示により催眠状態に引き入れる技術。
+HYPNOTISMS	(名詞) hypnotismの複数形: 催眠術: 暗示により催眠状態に引き入れる技術。
+HYPNOTIST	(名詞) hypnotistの訳: 催眠術師
+HYPNOTISTS	(名詞) hypnotistの複数形: 催眠術師
+HYPNOTIZE	(動詞) 催眠術をかける。魅了する。
+HYPNOTIZED	(形容詞) 催眠術にかかった。\n(動詞) hypnotizeの過去形・過去分詞: 催眠術をかける。魅了する。
+HYPNOTIZES	(動詞) hypnotizeの直説法現在第三人称単数形: 催眠術をかける。魅了する。
+HYPNOTIZING	(動詞) hypnotizeの現在分詞: 催眠術をかける。魅了する。
+HYPOCHONDRIA	(名詞) ヒポコンデリー: 心気症、憂鬱病、気病み、病気不安症。
+HYPOCHONDRIAS	(hypochondriaの変化形) (名詞) ヒポコンデリー: 心気症、憂鬱病、気病み、病気不安症。
+HYPOCORISM	(名詞) hypocorismの訳: ⟪愛称|あいしょう⟫
+HYPOCORISMS	(hypocorismの変化形) (名詞) hypocorismの訳: ⟪愛称|あいしょう⟫
+HYPOCRISIES	(名詞) hypocrisyの複数形: 偽善
+HYPOCRISY	(名詞) hypocrisyの訳: 偽善
+HYPOCRITE	(名詞) hypocriteの訳: 偽善者
+HYPOCRITES	(名詞) "hypocrite" の複数形: 偽善者
+HYPOCRITICAL	(形容詞) hypocriticalの訳: 偽善の, 偽善的な, 偽善者の
+HYPOCRITICALLY	(副詞) "hypocritical" の副詞形。
+HYPOSTASES	(hypostasisの変化形) (名詞) hypostasisの訳: 位格
+HYPOSTASIS	(名詞) hypostasisの訳: 位格
+HYPOTENSION	(名詞) 低血圧: 血圧が正常値よりも低い状態。収縮期血圧100mmHg以下または拡張期血圧60mmHg以下をいうとされる。
+HYPOTENSIONS	(名詞) hypotensionの複数形: 低血圧: 血圧が正常値よりも低い状態。収縮期血圧100mmHg以下または拡張期血圧60mmHg以下をいうとされる。
+HYPOTENSIVE	(形容詞) 低血圧の: 血圧が正常値よりも低い状態。収縮期血圧100mmHg以下または拡張期血圧60mmHg以下をいうとされる。\n(名詞) hypotensiveの訳: 血圧低下剤
+HYPOTENSIVES	(名詞) hypotensiveの複数形: 低血圧の: 血圧が正常値よりも低い状態。収縮期血圧100mmHg以下または拡張期血圧60mmHg以下をいうとされる。
+HYPOTENUSE	(名詞) 斜辺: 直角三角形の直角に相対する辺。
+HYPOTENUSES	(名詞) hypotenuseの複数形: 斜辺: 直角三角形の直角に相対する辺。
+HYPOTHALAMI	(名詞) hypothalamusの複数形: 視床下部: 間脳の一部。視床の下部にあり脳下垂体に繋がる。自律神経系の中枢。
+HYPOTHALAMUS	(名詞) 視床下部: 間脳の一部。視床の下部にあり脳下垂体に繋がる。自律神経系の中枢。
+HYPOTHERMIA	(名詞) 低体温症: 恒温動物の深部体温が、正常な生体活動の維持に必要な水準を下回ったときに生じる様々な症状の総称。ヒトでは、直腸温が35°C以下に低下した場合に低体温症と診断される。
+HYPOTHERMIAS	(名詞) "hypothermia" の複数形: 低体温症:...
+HYPOTHERMIC	(形容詞) 低体温症の: 恒温動物の深部体温が、正常な生体活動の維持に必要な水準を下回ったときに生じる様々な症状の総称。ヒトでは、直腸温が35°C以下に低下した場合に低体温症と診断される。
+HYPOTHESES	(名詞) hypothesisの複数形: 仮説: まだ分かっていない事象などを説明するための仮定の説。
+HYPOTHESIS	(名詞) 仮説: まだ分かっていない事象などを説明するための仮定の説。
+HYPOTHESIZE	(動詞) hypothesiseの異綴。
+HYPOTHESIZED	(動詞) hypothesizeの過去形・過去分詞: hypothesiseの異綴。
+HYPOTHESIZES	(動詞) hypothesizeの直説法現在第三人称単数形: hypothesiseの異綴。
+HYPOTHESIZING	(動詞) hypothesizeの現在分詞: hypothesiseの異綴。
+HYRACES	(hyraxの変化形) (名詞) hyraxの訳: イワダヌキ
+HYRACOID	(名詞) hyracoidの訳: 岩狸類\n(形容詞) hyracoidの訳: 岩狸類の
+HYRACOIDS	(hyracoidの変化形) (名詞) hyracoidの訳: 岩狸類
+HYRAX	(名詞) hyraxの訳: イワダヌキ
+HYRAXES	(hyraxの変化形) (名詞) hyraxの訳: イワダヌキ

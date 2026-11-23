@@ -1,0 +1,596 @@
+NABO	(ad) şalgam: Turpgillerden, yumru köklü bir bitki (Brassica rapa).
+NACAR	(ad) nacar kelimesinin karşılığı: ⟪sedef|SEDEF⟫
+NACIONAIS	(nacional sözcüğünün çekimi) (sıfat) millî: millete mahsus, milletle alakalı (ayrıca: ulusal)
+NACIONAL	(sıfat) millî: millete mahsus, milletle alakalı (ayrıca: ulusal)
+NACIONALIDADE	(ad) milliyet: bağlı bulunulan millet, tabiiyet (ayrıca: ulusallik, millîlik)
+NACIONALIDADES	(ad) çoğul çekimi: nacionalidade
+NACIONALISMO	(ad) milliyetçilik: milliyetçilik
+NACIONALISTA	(sıfat) milliyetçi: milliyetçilikten yana olan\n(ad) taraftar: yandaş
+NACIONALISTAS	(nacionalista sözcüğünün çekimi) (sıfat) milliyetçi: milliyetçilikten yana olan
+NACO	(ad) uzuv: parça (ayrıca: parça, tane)
+NADA	(zamir) nada kelimesinin karşılığı: ⟪ehemmiyetsiz|EHEMMİYETSİZ⟫, ⟪önemsiz|ÖNEMSİZ⟫\n(ad) hiçlik: hiç olma durumu (ayrıca: adem)
+NADADEIRA	(ad) nadadeira kelimesinin karşılığı: ⟪yüzgeç|YÜZGEÇ⟫
+NADADO	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADADOR	(ad) yüzücü: birini sömüren kimse
+NADADORA	(nadador sözcüğünün çekimi) (ad) yüzücü: birini sömüren kimse
+NADADORAS	(ad) çoğul çekimi: nadadora
+NADADORES	(ad) çoğul çekimi: nadador
+NADAM	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAMOS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADANDO	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAR	(eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADARA	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADARAM	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADARAO	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAREI	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAREM	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAREMOS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADARIAM	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADARIAMOS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADARMOS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADASSE	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAVA	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAVAM	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADAVAMOS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADE	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADEGA	(ad) but: Hayvanların, arka bacaklarının gövdeye bitişik olan dolgun, etli bölümü. (ayrıca: kalça, kaba but)
+NADEGAS	(ad) çoğul çekimi: nádega
+NADEI	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADEM	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADEMOS	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NADICA	(zamir) nadica kelimesinin karşılığı: ⟪ehemmiyetsiz|EHEMMİYETSİZ⟫, ⟪önemsiz|ÖNEMSİZ⟫\n(ad) hiç: boş, değersiz, önemsiz olan şey veya kimse (ayrıca: değersiz)
+NADIR	(ad) nadir kelimesinin karşılığı: ⟪nadir|NADİR⟫
+NADO	(ad) nado kelimesinin karşılığı: yüzme sporu
+NADOU	(nadar sözcüğünün çekimi) (eylem) yüzmek: kol, bacak, yüzgeç vb. uzuvların özel hareketleriyle su yüzeyinde veya su içinde ilerlemek, durmak
+NAFTA	(ad) nafta kelimesinin karşılığı: neft, ⟪mazot|MAZOT⟫
+NAFTALENO	(ad) naftaleno kelimesinin karşılığı: ⟪naftalin|NAFTALİN⟫
+NAFTALINA	(ad) naftalina kelimesinin karşılığı: ⟪naftalin|NAFTALİN⟫
+NAGAS	(ad) çoğul çekimi: naga
+NAI	(ad) anne: Çocuğu olan kadın; aba, ana, kocakarı, nene, valide, mader. (ayrıca: ana)
+NAIFA	(ad) naifa kelimesinin karşılığı: ⟪bıçak|BIÇAK⟫
+NAILON	(ad) naylon: Sıcağa, aşınmaya ve kimyasal maddelere karşı dayanıklı plastik malzeme, (polihekzametilen adipamid)
+NAIPE	(ad) naipe kelimesinin karşılığı: takım elbise
+NAIPES	(ad) çoğul çekimi: naipe
+NALGA	(ad) but: Hayvanların, arka bacaklarının gövdeye bitişik olan dolgun, etli bölümü. (ayrıca: kalça, kaba but)
+NAMORADA	(namorado sözcüğünün çekimi) (ad) yâr: uçurum (ayrıca: arkadaş, refik)
+NAMORADAS	(ad) çoğul çekimi: namorada
+NAMORADO	(ad) yâr: uçurum (ayrıca: arkadaş, refik)
+NAMORADOS	(ad) çoğul çekimi: namorado
+NAMOROS	(ad) çoğul çekimi: namoro
+NANAR	(eylem) uyumak: uyku durumunda olmak
+NANAS	(nanar sözcüğünün çekimi) (eylem) uyumak: uyku durumunda olmak
+NANOSSEGUNDO	(ad) nanossegundo kelimesinin karşılığı: nanosaniye
+NANOTECNOLOGIA	(ad) nanoteknoloji: Atom veya molekül temelinde küçük parçacıkların bir araya getirilerek farklı işlevler görebilen madde veya malzemenin üretilmesi için geliştirilen teknoloji
+NANOU	(nanar sözcüğünün çekimi) (eylem) uyumak: uyku durumunda olmak
+NAO	(zarf) olumsuzluk anlamı katar\n(ünlem) hayır: yok, öyle değil, olmaz, anlamlarında onamama, inkâr bildiren bir söz (ayrıca: yok)
+NARCISOS	(ad) çoğul çekimi: narciso
+NARCOTICO	(ad) uyuşturucu: uyuşturucu madde kavramının kısa şekli (ayrıca: uyuşturucu madde)
+NARCOTRAFICANTES	(ad) çoğul çekimi: narcotraficante
+NARDO	(ad) nardo kelimesinin karşılığı: ⟪sümbülteber|SÜMBÜLTEBER⟫
+NAREBA	(ad) nareba kelimesinin karşılığı: ⟪burun|BURUN⟫
+NARGUILE	(ad) nargile: tömbeki denilen bir cins tütünü ısıtıp suyla filtreledikten sonra tütünün içilmesine yarayan alet
+NARINA	(ad) narina kelimesinin karşılığı: burun deliği
+NARIZ	(ad) burun: Alınla üst dudak arasında bulunan, çıkıntılı, iki delikli koklama ve solunum organı; koku alma organı:
+NARIZES	(ad) çoğul çekimi: nariz
+NARRA	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRADOR	(ad) narrador kelimesinin karşılığı: ⟪anlatıcı|ANLATICI⟫
+NARRADORA	(narrador sözcüğünün çekimi) (ad) narrador kelimesinin karşılığı: ⟪anlatıcı|ANLATICI⟫
+NARRAM	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRAMOS	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRANDO	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRAR	(eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRARA	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRARAM	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRAREI	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRATIVA	(ad) anlatı: ayrıntılarıyla anlatma
+NARRAVA	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRAVAM	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARRAÇAO	(ad) anlatı: ayrıntılarıyla anlatma
+NARRE	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARREI	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARROU	(narrar sözcüğünün çekimi) (eylem) dökmek: açığa vurmak, söylemek, ortaya koymak (ayrıca: söylemek, anlatmak)
+NARVAL	(ad) narval kelimesinin karşılığı: denizgergedanı
+NASAL	(sıfat) nasal kelimesinin karşılığı: ⟪genizsi|GENİZSİ⟫, ⟪genizsil|GENİZSİL⟫, ⟪nazal|NAZAL⟫\n(ad) nasal kelimesinin karşılığı: ⟪geniz|GENİZ⟫
+NASCE	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCEM	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCEMOS	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCENDO	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCENTE	(ad) pınar: yerden kaynayarak çıkan su, ve bu suyun çıktığı yer (ayrıca: memba, kaynak)
+NASCER	(eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCERA	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCERAO	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCEREI	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCEREM	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCERES	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCERIA	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCERIAM	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCERMOS	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCES	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCESSE	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCESSEM	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCESSEMOS	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCESTE	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCESTES	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCEU	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCI	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCIA	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCIAM	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASCIMENTO	(ad) doğum: doğmak işi; tevellüt.
+NASCIMENTOS	(ad) çoğul çekimi: nascimento
+NASOFARINGE	(ad) nasofaringe kelimesinin karşılığı: nazofarenks
+NASÇA	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASÇAM	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NASÇO	(nascer sözcüğünün çekimi) (eylem) nascer kelimesinin karşılığı: ⟪büyümek|BÜYÜMEK⟫, ⟪doğmak|DOĞMAK⟫, ⟪ağmak|AĞMAK⟫, ⟪kalkmak|KALKMAK⟫
+NATA	(ad) kaymak: süt ürünleri (ayrıca: krem rengi, krem)
+NATAS	(ad) çoğul çekimi: nata
+NATAÇAO	(ad) nataçao kelimesinin karşılığı: ⟪yüzme|YÜZME⟫
+NATIVA	(nativo sözcüğünün çekimi) (sıfat) yerli: Oturduğu bölgede doğup büyüyen, ataları da orada yaşamış olan kimse.
+NATIVO	(sıfat) yerli: Oturduğu bölgede doğup büyüyen, ataları da orada yaşamış olan kimse.
+NATO	(sıfat) nato kelimesinin karşılığı: ⟪doğuştan|DOĞUŞTAN⟫
+NATRO	(ad) karbonat: Karbonik asidin bazlarla bileşerek oluşturduğu tuzların genel adı.
+NATURA	(ad) doğa: (mecaz) huy (ayrıca: tabiat)
+NATURAIS	(natural sözcüğünün çekimi) (sıfat) doğal: doğada doğada bulunan.
+NATURAL	(sıfat) doğal: doğada doğada bulunan.
+NATURALMENTE	(zarf) tabii: elbette, doğallıkla, doğal olarak, işin gereği olarak (ayrıca: doğal)
+NATUREZA	(ad) doğa: (mecaz) huy (ayrıca: tabiat)
+NATURISTA	(sıfat) doğal: doğada doğada bulunan. (ayrıca: tabii, natürel)
+NATURISTAS	(ad) çoğul çekimi: naturista
+NAU	(ad) kap: kaplar, mutfak eşyaları (ayrıca: damar, tekne)
+NAUFRAGA	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGADO	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGAM	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGAMOS	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGANDO	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGAR	(eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGARAM	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGASSE	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGIO	(ad) naufragio kelimesinin karşılığı: ⟪felaket|FELAKET⟫
+NAUFRAGOU	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGUE	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUFRAGUEI	(naufragar sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek (ayrıca: batmak)
+NAUS	(ad) çoğul çekimi: nau
+NAUSEA	(ad) bulantı: midede duyulan ve insana kusacak gibi bir duygu veren durum
+NAUTICA	(ad) nautica kelimesinin karşılığı: ⟪denizcilik|DENİZCİLİK⟫, ⟪navigasyon|NAVİGASYON⟫
+NAUTICAS	(nautica sözcüğünün çekimi) (ad) nautica kelimesinin karşılığı: ⟪denizcilik|DENİZCİLİK⟫, ⟪navigasyon|NAVİGASYON⟫
+NAVALHA	(ad) ustura: Tıraş için kullanılan, açılır kapanır, çok keskin bıçak. (ayrıca: yülgü)
+NAVALHADA	(ad) navalhada kelimesinin karşılığı: eğik çizgi, ⟪eğik|EĞİK⟫, ⟪bölü|BÖLÜ⟫, ⟪taksim|TAKSİM⟫
+NAVALHAS	(ad) çoğul çekimi: navalha
+NAVALHEIRA	(ad) çalpara: Parmaklara takılıp çalınan zil veya buna benzer alet.
+NAVE	(ad) nave kelimesinin karşılığı: ⟪gemi|GEMİ⟫
+NAVEGADOR	(ad) navegador kelimesinin karşılığı: ağ tarayıcısı
+NAVEGANTES	(ad) çoğul çekimi: navegante
+NAVEGAÇAO	(ad) seyir: gidiş, ilerleyiş, yürüyüş
+NAVEGAÇOES	(ad) çoğul çekimi: navegação
+NAVIO	(ad) navio kelimesinin karşılığı: ⟪gemi|GEMİ⟫
+NAVIOS	(ad) çoğul çekimi: navio
+NAZISMO	(ad) nazismo kelimesinin karşılığı: nazi
+NAÇAO	(ad) millet: çoğunlukla aynı topraklar üzerinde yaşayan, aralarında dil, tarih, duygu, ülkü, gelenek ve görenek birliği olan insan topluluğu, ulus (ayrıca: ulus)
+NAÇOES	(ad) çoğul çekimi: nação
+NDENGUE	(ad) taze: Genç kadın. (ayrıca: çocuk, kız)
+NEBLINA	(ad) duman: esrar. (ayrıca: sis)
+NEBLINAR	(eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+NEBLINAS	(ad) çoğul çekimi: neblina
+NEBULA	(ad) nebula kelimesinin karşılığı: ⟪sis|SİS⟫
+NEBULOSAS	(ad) çoğul çekimi: nebulosa
+NEBULOSO	(sıfat) bulutlu: bulutlarla kaplanmış, bulutlanmış (ayrıca: bulanık, belirsiz)
+NEBULOSOS	(nebuloso sözcüğünün çekimi) (sıfat) bulutlu: bulutlarla kaplanmış, bulutlanmış (ayrıca: bulanık, belirsiz)
+NECA	(zamir) önemsiz: önemi olmayan (ayrıca: ehemmiyetsiz)
+NECESSARIO	(sıfat) lâzım: gerekli (ayrıca: gerekli)
+NECESSARIOS	(necessario sözcüğünün çekimi) (sıfat) lâzım: gerekli (ayrıca: gerekli)
+NECESSIDADE	(ad) hacet: ihtiyaç duyulan veya lüzumlu şey (ayrıca: gerek, ihtiyaç)
+NECESSIDADES	(ad) çoğul çekimi: necessidade
+NECESSITADA	(necessitado sözcüğünün çekimi) (sıfat) muhtaç: bir şeye ihtiyaç duyan kimse
+NECESSITADAS	(necessitado sözcüğünün çekimi) (sıfat) muhtaç: bir şeye ihtiyaç duyan kimse
+NECESSITADO	(sıfat) muhtaç: bir şeye ihtiyaç duyan kimse
+NECESSITADOS	(necessitado sözcüğünün çekimi) (sıfat) muhtaç: bir şeye ihtiyaç duyan kimse
+NECORA	(ad) çalpara: (Ordu ağzı) Küçük tencere.
+NECROSE	(ad) necrose kelimesinin karşılığı: ⟪nekroz|NEKROZ⟫
+NECROTERIO	(ad) morg: Adliyede kovuşturmayı gerektiren olaylar sonucu veya birdenbire ve şüpheli ölümlerde, ölüm sebebinin ve ölünün kim olduğunun tespit edilmesi için ölülerin konulduğu ve inceleme yapılan yer veya yapı
+NECTARINA	(ad) nectarina kelimesinin karşılığı: ⟪nektarin|NEKTARİN⟫
+NEDIO	(sıfat) ipekli: ipekten yapılmış veya içinde ipek bulunan (ayrıca: ipeksi, ipeğimsi)
+NEFASTA	(nefasto sözcüğünün çekimi) (sıfat) zararlı: zarar veren, zararı dokunan (ayrıca: garip, bedbaht)
+NEFASTO	(sıfat) zararlı: zarar veren, zararı dokunan (ayrıca: garip, bedbaht)
+NEFASTOS	(nefasto sözcüğünün çekimi) (sıfat) zararlı: zarar veren, zararı dokunan (ayrıca: garip, bedbaht)
+NEFROLOGIA	(ad) nefroloji: ((tıp, tıp)) Böbreklerin sağlığı ve hastalıklarıyla ilgilenen iç hastalıklarına bağlı bir bilim dalı
+NEFROLOGO	(ad) nefrologo kelimesinin karşılığı: nefrolog
+NEGA	(ad) ret: uygun bulmama, geri çevirme, kabul etmeme
+NEGACIONISMO	(ad) negacionismo kelimesinin karşılığı: ⟪inkâr|İNKAR⟫, ⟪ret|RET⟫
+NEGACIONISTA	(ad) inkârcı: inkâr eden kimse
+NEGAI	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAIS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAMOS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGANDO	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAR	(eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARA	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARAM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARAO	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARAS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAREI	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAREM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAREMOS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARIAM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARIAMOS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGARMOS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAS	(ad) çoğul çekimi: nega
+NEGASSE	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGASSEM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGASSEMOS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGASTE	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGASTES	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGATIVA	(ad) negativa kelimesinin karşılığı: ⟪olumsuzluk|OLUMSUZLUK⟫
+NEGATIVO	(sıfat) negativo kelimesinin karşılığı: ⟪negatif|NEGATİF⟫\n(ad) negativo kelimesinin karşılığı: ⟪negatif|NEGATİF⟫
+NEGAVA	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAVAM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGAÇA	(ad) negaça kelimesinin karşılığı: ⟪yem|YEM⟫
+NEGAÇAO	(ad) inkar: kabul etmeme, tanımama
+NEGO	(ad) yâr: uçurum (ayrıca: metres)
+NEGOCEIA	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIA	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIADO	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAMOS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIANDO	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIANTE	(ad) tüccar: ticaret yapan, ticaretle uğraşan kişi, tacir
+NEGOCIAR	(eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARA	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARAM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARAO	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAREI	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAREM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAREMOS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARIA	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARIAM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARIAMOS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIARMOS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIASSE	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIASSEM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAVA	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAVAM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAVAMOS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIAVEIS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIE	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIEI	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIEM	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIEMOS	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOCIO	(ad) negocio kelimesinin karşılığı: ⟪nesne|NESNE⟫, ⟪eşya|EŞYA⟫, ⟪şey|ŞEY⟫, ⟪roba|ROBA⟫
+NEGOCIOS	(ad) çoğul çekimi: negócio
+NEGOCIOU	(negociar sözcüğünün çekimi) (eylem) danışmak: bir iş için bilgi veya yol sormak, görüş almak, istişare etmek, müracaat etmek, meşveret etmek
+NEGOU	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGRA	(ad) ezik: bere, çürük
+NEGRAS	(negra sözcüğünün çekimi) (ad) ezik: bere, çürük
+NEGREIRA	(ad) negreira kelimesinin karşılığı: ⟪esirci|ESİRCİ⟫
+NEGRO	(ad) kara: (mecaz) iftira (ayrıca: siyah)\n(sıfat) kara: (mecaz) iftira (ayrıca: siyah)
+NEGROS	(negro sözcüğünün çekimi) (ad) kara: (mecaz) iftira (ayrıca: siyah)
+NEGRUME	(ad) gam: tasa, kaygı, üzüntü (ayrıca: yas, melankoli)
+NEGUE	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGUEI	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGUEM	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGUEMOS	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEGUES	(negar sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+NEM	(bağlaç) nem kelimesinin karşılığı: ne
+NENE	(ünlem) nene kelimesinin karşılığı: ⟪bebek|BEBEK⟫
+NENEM	(ad) yavru: (mecaz) Bir şeyin küçüğü; kuzu (ayrıca: bebek)
+NENETS	(ad) nenets kelimesinin karşılığı: nenetsler, nenetsçe
+NENHUM	(sıfat) nenhum kelimesinin karşılığı: ⟪hiçbir|HİÇBİR⟫
+NENHUMA	(nenhum sözcüğünün çekimi) (sıfat) nenhum kelimesinin karşılığı: ⟪hiçbir|HİÇBİR⟫
+NENUFAR	(ad) nenufar kelimesinin karşılığı: ⟪nilüfer|NİLÜFER⟫
+NEOCOLONIALISMO	(ad) neocolonialismo kelimesinin karşılığı: neokolonyalizm
+NEODIMIO	(ad) neodim: Atom numarası 60 ,simgesi Nd olan bir kimyasal element.
+NEOFITO	(ad) neofito kelimesinin karşılığı: acemi çaylak
+NEOLIBERALISMO	(ad) neoliberalismo kelimesinin karşılığı: neoliberalizm
+NEON	(ad) neon kelimesinin karşılığı: ⟪neon|NEON⟫
+NEONIO	(ad) neon: Atom numarası 10 olan kimyasal element
+NEOZELANDESAS	(ad) çoğul çekimi: neozelandesa
+NEOZELANDESES	(ad) çoğul çekimi: neozelandês
+NEPALESES	(ad) çoğul çekimi: nepalês
+NEPOTISMO	(ad) nepotismo kelimesinin karşılığı: adam kayırma
+NEPTUNIO	(ad) neptünyum: Atom numarası 93 olan bir kimyasal element
+NERVO	(ad) nervo kelimesinin karşılığı: ⟪sinir|SİNİR⟫
+NERVOS	(ad) çoğul çekimi: nervo
+NERVOSA	(nervoso sözcüğünün çekimi) (sıfat) sinirsel: sinirle ilgili, asabi (ayrıca: sinirli)
+NERVOSO	(sıfat) sinirsel: sinirle ilgili, asabi (ayrıca: sinirli)
+NERVURA	(ad) toplardamar: Kirli kanın vücudun her yanından kalbe gitmesini sağlayan damar; vena, verit.; vena, verit (ayrıca: damar)
+NESCIDADE	(ad) bönlük: bön olma durumu, budalalık, aptallık, sersemlik, gabavet, akılsızlık, belahet (ayrıca: aptallık, akılsızlık)
+NESCIO	(sıfat) bilgisiz: bilgi sahibi olmayan, bilisiz, malûmatsız, cahil (ayrıca: cahil, habersiz)\n(ad) mal: Bayağı, aşağılık, kötü kimse. (ayrıca: salak, aptal)
+NESGA	(ad) nesga kelimesinin karşılığı: ⟪apışlık|APIŞLIK⟫
+NESPERA	(ad) muşmula: Bu ağacın olgunlaşıp yumuşadıktan sonra yenilebilen, yuvarlak, mayhoş, buruk ve beş çekirdekli meyvesi (ayrıca: malta eriği)
+NESPEREIRA	(ad) muşmula: Bu ağacın olgunlaşıp yumuşadıktan sonra yenilebilen, yuvarlak, mayhoş, buruk ve beş çekirdekli meyvesi (ayrıca: muşmula ağacı)
+NET	(ad) ağ: iplik, sicim, tel gibi ince şeylerden kafes şeklinde yapılmış örgü (ayrıca: şebeke)
+NETA	(ad) neta kelimesinin karşılığı: kız torun
+NETO	(ad) neto kelimesinin karşılığı: erkek torun
+NETOS	(ad) çoğul çekimi: neto
+NETUNIO	(ad) neptünyum: Atom numarası 93 olan bir kimyasal element
+NEURA	(sıfat) neura kelimesinin karşılığı: ⟪dertli|DERTLİ⟫\n(ad) neura kelimesinin karşılığı: ⟪tahriş|TAHRİŞ⟫, ⟪depresyon|DEPRESYON⟫, alçak basınç, ruhsal çöküntü
+NEUROLOGIA	(ad) nöroloji: genel olarak beyin, beyin sapı, omurilik ve çevresel sinir sistemiyle kasların hastalıklarını inceleyen, teşhis ve cerrahi dışındaki tedavi uygulamalarını içeren tıbbın dalı
+NEURONIO	(ad) neuronio kelimesinin karşılığı: sinir hücresi
+NEUROSE	(ad) nevroz: Toplumsal tavır ve davranışları tutuklayan ve kişide ruhen hasta olduğu bilinciyle birlikte bulunan tinsel bir hastalık
+NEUROSES	(ad) çoğul çekimi: neurose
+NEUROTICAS	(ad) çoğul çekimi: neurótica
+NEUROTICOS	(ad) çoğul çekimi: neurótico
+NEUTRA	(neutro sözcüğünün çekimi) (sıfat) tarafsız: yansız (ayrıca: nötr)
+NEUTRINO	(ad) neutrino kelimesinin karşılığı: nötrino
+NEUTRINOS	(neutrino sözcüğünün çekimi) (ad) neutrino kelimesinin karşılığı: nötrino
+NEUTRO	(sıfat) tarafsız: yansız (ayrıca: nötr)
+NEUTROES	(ad) çoğul çekimi: neutrão
+NEUTRON	(ad) nötron: Yaklaşık olarak proton ağırlığında ve elektrik yüklü olmayan bir atom cisimciği, ılıncık
+NEVADA	(ad) nevada kelimesinin karşılığı: kar yağışı
+NEVAM	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVANDO	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVAR	(eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVARA	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVARIA	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVASCA	(ad) nevasca kelimesinin karşılığı: kar fırtınası
+NEVASSE	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVAVA	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVE	(ad) kar: buz kristallerinden oluşan; parlak, beyaz, katı ve çoğunlukla altıgen formundaki donarak yağan su buharı
+NEVES	(ad) çoğul çekimi: neve
+NEVO	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEVOA	(ad) nevoa kelimesinin karşılığı: ⟪sis|SİS⟫
+NEVOAS	(ad) çoğul çekimi: névoa
+NEVOEIRO	(ad) nevoeiro kelimesinin karşılığı: ⟪sis|SİS⟫
+NEVOU	(nevar sözcüğünün çekimi) (eylem) karlamak: Kar yağmak (ayrıca: kar yağmak)
+NEXO	(ad) bağlantı: iki veya daha çok şeyin birbiriyle bağlı bulunması; ilişki, irtibat, bağlanak (ayrıca: bağ, rabıta)
+NHACA	(ad) nhaca kelimesinin karşılığı: ⟪humus|HUMUS⟫
+NHAMUSSORO	(ad) nhamussoro kelimesinin karşılığı: ⟪medyum|MEDYUM⟫
+NICAS	(ad) çoğul çekimi: nica
+NICK	(ad) lakap: bir kimseye, bir aileye kendi adından ayrı olarak sonradan takılan, o kimsenin veya o ailenin bir özelliğinden kaynaklanan ad (ayrıca: çentik, takma ad)
+NICLES	(zamir) önemsiz: önemi olmayan (ayrıca: ehemmiyetsiz)
+NICOTINA	(ad) nicotina kelimesinin karşılığı: ⟪nikotin|NİKOTİN⟫
+NIHONIO	(ad) nihonio kelimesinin karşılığı: nihoniyum
+NIILISMO	(ad) nihilizm: Her türlü gerçek varlığı inkâr eden aşırı bireycilik, hiççilik, yokçuluk
+NINANDO	(ninar sözcüğünün çekimi) (eylem) uyumak: uyku durumunda olmak
+NINAR	(eylem) uyumak: uyku durumunda olmak
+NINAS	(ninar sözcüğünün çekimi) (eylem) uyumak: uyku durumunda olmak
+NINFA	(ad) nemf: Yunan mitolojisi'nde yeri ve denizi dolduran sayısız çokluktaki dişi, tanrısal varlıklar
+NINFAS	(ad) çoğul çekimi: ninfa
+NINFOMANA	(ad) nemfoman: Kontrolsüz ve aşırı cinsel arzuya sahip kadın
+NINFOMANIACA	(ad) nemfoman: Kontrolsüz ve aşırı cinsel arzuya sahip kadın
+NINGUEM	(zamir) kimse: (belgisiz adıl): herhangi bir kişi, kim olduğu bilinmeyen kişi, biri
+NINHADA	(ad) altlık: Hayvanların altına yayılan ot veya saman.
+NINHO	(ad) yuva: Bir şeyin içinde yerleşmiş olduğu veya yerleştirildiği oyuk:
+NINJA	(ad) ninja kelimesinin karşılığı: ⟪ninja|NİNJA⟫
+NINJAS	(ninja sözcüğünün çekimi) (ad) ninja kelimesinin karşılığı: ⟪ninja|NİNJA⟫
+NINOU	(ninar sözcüğünün çekimi) (eylem) uyumak: uyku durumunda olmak
+NIOBIO	(ad) niobio kelimesinin karşılığı: niobyum
+NIPLE	(ad) niple kelimesinin karşılığı: meme başı
+NIQUEIS	(ad) çoğul çekimi: níquel
+NIQUEL	(ad) nikel: atom numarası 28 olan bir kimyasal element
+NITIDAMENTE	(zarf) kesin olarak: Kesinlikle. (ayrıca: katiyetle, açıkça)
+NITIDEZ	(ad) nitidez kelimesinin karşılığı: ⟪tanım|TANIM⟫
+NITIDO	(sıfat) belli: Beli olan
+NITRATO	(ad) nitrat: Nitrik asit tuzunun iyonu
+NITROGENIO	(ad) azot: atom numarası 7, atom ağırlığı 14,008 olan, havada beşte dört oranında bulunan, rengi, kokusu ve tadı olmayan element, nitrojen
+NIVEIS	(ad) çoğul çekimi: nível
+NIVEL	(ad) hiza: Doğru bir çizgi üzerinde bulunma durumu. (ayrıca: seviye, düzey)
+NOBELIO	(ad) nobelyum: Atom numarası 102 olan bir kimyevî element
+NOBRE	(sıfat) nobre kelimesinin karşılığı: ⟪soylu|SOYLU⟫\n(ad) nobre kelimesinin karşılığı: ⟪kibar|KİBAR⟫
+NOBRES	(ad) çoğul çekimi: nobre
+NOBREZA	(ad) nobreza kelimesinin karşılığı: ⟪soyluluk|SOYLULUK⟫, ⟪asalet|ASALET⟫, soylular, ⟪asiller|ASİLLER⟫
+NOCAUTE	(sıfat) bilinç dışı: bilinçdışında yer alan, bastırılmış, bastırmaya uğramış
+NOCIVO	(sıfat) zararlı: zarar veren, zararı dokunan
+NOCIVOS	(nocivo sözcüğünün çekimi) (sıfat) zararlı: zarar veren, zararı dokunan
+NODOA	(ad) leke: kirliliği gösteren iz (ayrıca: boya)
+NODULO	(ad) boğum: boğulmuş, sıkılmış yer (ayrıca: düğüm)
+NOGAI	(ad) nogai kelimesinin karşılığı: nogayca
+NOGUEIRA	(ad) ceviz: Cevizgillerin örnek bitkisi olan, uzun ömürlü, gövdesi kalın, kerestesi değerli, yurdumuzda çok yetişen ağaç, (Juglans regia). (ayrıca: adi ceviz)
+NOGUEIRAS	(ad) çoğul çekimi: nogueira
+NOIA	(sıfat) deli: azgın veya coşkun kimse
+NOITE	(ad) gece: geceleyin
+NOITES	(ad) çoğul çekimi: noite
+NOIVA	(eylem) gelin: Evlenmek için hazırlanmış, süslenmiş kız veya yeni evlenmiş kadın; elkızı,
+NOIVADO	(ad) noivado kelimesinin karşılığı: ⟪angajman|ANGAJMAN⟫
+NOIVO	(ad) noivo kelimesinin karşılığı: ⟪damat|DAMAT⟫
+NOJENTA	(nojento sözcüğünün çekimi) (sıfat) tiksindirici: tiksinilecek durumda olan, menfur (ayrıca: tiksinç, iğrenç)
+NOJENTAMENTE	(zarf) iğrenç: insanda iğrenme duygusunu uyandıracak biçimde
+NOJENTO	(sıfat) tiksindirici: tiksinilecek durumda olan, menfur (ayrıca: tiksinç, iğrenç)\n(ad) domuz: evcil domuz, hınzır (ayrıca: hınzır, tiksindirici)
+NOJO	(ad) nojo kelimesinin karşılığı: ⟪iğrenme|İĞRENME⟫
+NOMADE	(sıfat) göçebe: değişik şartlara bağlı olarak belli bir yöre içinde çadır, hayvan ve öteki araçlarla yer değiştiren, yerleşik olmayan (kişi veya topluluk), göçer, göçkün (ayrıca: göçeri)
+NOMADISMO	(ad) göçebelik: bir toplumsal birliğin, yaşamak için gerekli kaynakları elde edebilmek üzere düzenli aralıklarla yer değiştirme geleneğinde veya alışkanlığında olması
+NOME	(ad) isim: kişiyi, bir şeyi açıklamaya, anlatmaya, bildirmeye, tanımlamaya yarayan kelime ya da kelimeler (ayrıca: ad, nam)
+NOMEADO	(sıfat) adlı: ünlü, isimli
+NOMEAMOS	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEANDO	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEAR	(eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEARA	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEARAM	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEARAO	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEAREI	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEAREM	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEAREMOS	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEARIA	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEARIAM	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEARMOS	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEASSE	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEASSEM	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEAVA	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEAÇAO	(ad) kavuşma: kavuşmak işi, buluşma, telaki (ayrıca: randevu)
+NOMEEI	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEEMOS	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEIA	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEIAM	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEIE	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEIEM	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEIO	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMEOU	(nomear sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMES	(nome sözcüğünün çekimi) (ad) isim: kişiyi, bir şeyi açıklamaya, anlatmaya, bildirmeye, tanımlamaya yarayan kelime ya da kelimeler (ayrıca: ad,...
+NOMINA	(nominar sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMINADO	(nominar sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMINAIS	(nominal sözcüğünün çekimi) (sıfat) nominal kelimesinin karşılığı: ⟪nominal|NOMİNAL⟫
+NOMINAL	(sıfat) nominal kelimesinin karşılığı: ⟪nominal|NOMİNAL⟫
+NOMINALISMO	(ad) nominalismo kelimesinin karşılığı: ⟪adcılık|ADCILIK⟫
+NOMINAR	(eylem) atamak: birini bir göreve getirmek, tayin etmek
+NOMINOU	(nominar sözcüğünün çekimi) (eylem) atamak: birini bir göreve getirmek, tayin etmek
+NONA	(ad) nene: nine (ayrıca: nine, büyük anne)
+NONAGESIMO	(sıfat) nonagesimo kelimesinin karşılığı: ⟪doksanıncı|DOKSANINCI⟫
+NONO	(sıfat) nono kelimesinin karşılığı: ⟪dokuzuncu|DOKUZUNCU⟫\n(ad) nono kelimesinin karşılığı: ⟪cet|CET⟫, ⟪büyükbaba|BÜYÜKBABA⟫
+NORAS	(ad) çoğul çekimi: nora
+NORDESTE	(ad) kuzeydoğu: kuzeyle doğu arasındaki yön
+NORMA	(ad) kural: bir yaptırımlar [[düzen|]düzenyle]] toplum üyelerinin kendisine uyması sağlanan, toplumca benimsenmiş her türlü buyurucu ve yasaklayıcı düzenleme
+NORMAL	(sıfat) normal: kurala uygun, sıradan
+NORMAS	(norma sözcüğünün çekimi) (ad) kural: bir yaptırımlar [[düzen|]düzenyle]] toplum üyelerinin kendisine uyması sağlanan, toplumca benimsenmiş her...
+NORMATIVO	(sıfat) kuralcı: Kurala, kurallara bağlı olan, kaideci
+NOROESTE	(ad) kuzeybatı: Kuzeyle batı arasındaki yön (ayrıca: kara yel)
+NORTE	(ad) kuzey: Bulunulan yerde sağa doğu, sola batı alındığında yüzün dönük olduğu yön.
+NORTISTAS	(ad) çoğul çekimi: nortista
+NORUEGUES	(ad) noruegues kelimesinin karşılığı: norveççe
+NORUEGUESA	(noruegues sözcüğünün çekimi) (ad) noruegues kelimesinin karşılığı: norveççe
+NORUEGUESAS	(ad) çoğul çekimi: norueguesa
+NORUEGUESES	(ad) çoğul çekimi: norueguês
+NOS	(zamir) biz: çokluk birinci kişiyi gösteren söz
+NOSSA	(ad) çoğul çekimi: nossa
+NOSSAS	(ad) çoğul çekimi: nossa
+NOSSO	(zamir) bizimki: Bizim olan, bizimle ilgili olan
+NOSSOS	(ad) nossos kelimesinin karşılığı: ⟪nev|NEV⟫, ⟪kibar|KİBAR⟫, ⟪nevi|NEVİ⟫, ⟪çeşit|ÇEŞİT⟫
+NOTA	(ad) nota: bir müzik [[ses|sesini belirtmeye yarayan işaret
+NOTAM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTANDO	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAR	(eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARA	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARAM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARAO	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARAS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAREI	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAREM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAREMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARES	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARIA	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARIAM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARIAMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTARIO	(ad) notario kelimesinin karşılığı: ⟪noter|NOTER⟫
+NOTARMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAS	(nota sözcüğünün çekimi) (ad) nota: bir müzik [[ses|sesini belirtmeye yarayan işaret
+NOTASSE	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTASSEM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTASSEMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTASTE	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAVA	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAVAM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAVAMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAVEIS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTAÇAO	(ad) notaçao kelimesinin karşılığı: ⟪gösterim|GÖSTERİM⟫
+NOTAÇOES	(ad) çoğul çekimi: notação
+NOTE	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTEI	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTEM	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTEMOS	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTES	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTICIA	(ad) haber: bir olay, bir olgu üzerine edinilen bilgi (ayrıca: istihbarat)
+NOTICIADO	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIAIS	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIAM	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIAMOS	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIANDO	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIAR	(eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIARAM	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIAREM	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIAREMOS	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIARIO	(ad) istihbarat: bilgi toplama, haber alma (ayrıca: haber, kapsam)
+NOTICIAS	(ad) çoğul çekimi: noticia
+NOTICIE	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTICIOU	(noticiar sözcüğünün çekimi) (eylem) noticiar kelimesinin karşılığı: beyan etmek, ilan etmek
+NOTIFICA	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAM	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAMOS	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICANDO	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAR	(eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICARA	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICARAM	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICARAO	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAREI	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAREM	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAREMOS	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICARIA	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICARMOS	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICAÇAO	(ad) bildirim: bildirmek işi
+NOTIFICO	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFICOU	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFIQUE	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFIQUEI	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTIFIQUEM	(notificar sözcüğünün çekimi) (eylem) haber vermek: bildirmek, haberdar etmek
+NOTORIO	(sıfat) açık: Kolay anlaşılır. (ayrıca: aleni)
+NOTOU	(notar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek (ayrıca: hissetmek, farkına varmak)
+NOTURNA	(noturno sözcüğünün çekimi) (sıfat) noktürnâl: Gece nöbetleri şeklinde kendini gösteren, geceleri rahatsızlık veren veya tekrarlanan (hastalık vb)
+NOTURNO	(sıfat) noktürnâl: Gece nöbetleri şeklinde kendini gösteren, geceleri rahatsızlık veren veya tekrarlanan (hastalık vb)\n(ad) noktürn: lirik ve hüzünlü özellikleri bulunan, ağır tempolu, piyano için bestelenmiş eser; gece müziği
+NOVA	(ad) nova kelimesinin karşılığı: ⟪nova|NOVA⟫
+NOVAMENTE	(zarf) yine: yeniden, bir daha, tekrar, gene (ayrıca: tekrar)
+NOVAS	(nova sözcüğünün çekimi) (ad) nova kelimesinin karşılığı: ⟪nova|NOVA⟫
+NOVATA	(novato sözcüğünün çekimi) (ad) novato kelimesinin karşılığı: acemi çaylak
+NOVATAS	(novato sözcüğünün çekimi) (ad) novato kelimesinin karşılığı: acemi çaylak
+NOVATO	(ad) novato kelimesinin karşılığı: acemi çaylak\n(sıfat) acemi: bir işin yabancısı olan, eli işe alışmamış, bir işi becermeyen (ayrıca: acemi çaylak)
+NOVATOS	(ad) çoğul çekimi: novato
+NOVE	(sayı) nove kelimesinin karşılığı: ⟪dokuz|DOKUZ⟫
+NOVELA	(ad) novela kelimesinin karşılığı: novella
+NOVELAS	(novela sözcüğünün çekimi) (ad) novela kelimesinin karşılığı: novella
+NOVELEIRA	(noveleiro sözcüğünün çekimi) (ad) noveleiro kelimesinin karşılığı: ⟪laf|LAF⟫, ⟪dedikodu|DEDİKODU⟫
+NOVELEIRO	(ad) noveleiro kelimesinin karşılığı: ⟪laf|LAF⟫, ⟪dedikodu|DEDİKODU⟫
+NOVELISTAS	(ad) çoğul çekimi: novelista
+NOVELO	(ad) dek: düzen, hile, entrika (ayrıca: entrika)
+NOVELOS	(ad) çoğul çekimi: novelo
+NOVEMBRO	(ad) kasım: Yılın on birinci ayı; ikinci teşrin, son teşrin, teşrinisani
+NOVENAS	(ad) çoğul çekimi: novena
+NOVENO	(sıfat) noveno kelimesinin karşılığı: ⟪dokuzuncu|DOKUZUNCU⟫
+NOVENTA	(sıfat) doksan: seksen dokuzdan sonra gelen sayının adı
+NOVES	(nove sözcüğünün çekimi) (sayı) nove kelimesinin karşılığı: ⟪dokuz|DOKUZ⟫
+NOVIDADE	(ad) haber: bilgi, mâlûmât (ayrıca: istihbarat)
+NOVIDADES	(ad) çoğul çekimi: novidade
+NOVILHA	(ad) dana: buzağı (ayrıca: buzağı)
+NOVILHAS	(novilha sözcüğünün çekimi) (ad) dana: buzağı (ayrıca: buzağı)
+NOVILHO	(ad) dana: buzağı (ayrıca: baldır, buzağı)
+NOVILHOS	(novilho sözcüğünün çekimi) (ad) dana: buzağı (ayrıca: baldır, buzağı)
+NOVISSIMO	(novo sözcüğünün çekimi) (sıfat) yeni: Biraz önce, çok zaman geçmeden.
+NOVIÇO	(ad) noviço kelimesinin karşılığı: acemi çaylak\n(sıfat) acemi: bir yere, bir şeye yabancı olan (ayrıca: acemi çaylak)
+NOVO	(sıfat) yeni: Biraz önce, çok zaman geçmeden.
+NOVOS	(novo sözcüğünün çekimi) (sıfat) yeni: Biraz önce, çok zaman geçmeden.
+NOZ	(ad) noz kelimesinin karşılığı: kuru yemiş, ⟪ceviz|CEVİZ⟫
+NOÇAO	(ad) fikir: düşünce (ayrıca: kavram, döllenme)
+NUANCE	(ad) nuance kelimesinin karşılığı: ⟪nüans|NÜANS⟫
+NUANCES	(nuance sözcüğünün çekimi) (ad) nuance kelimesinin karşılığı: ⟪nüans|NÜANS⟫
+NUBLADA	(nublado sözcüğünün çekimi) (sıfat) bulutlu: bulutlarla kaplanmış, bulutlanmış (ayrıca: bulanık, belirsiz)
+NUBLADAS	(nublado sözcüğünün çekimi) (sıfat) bulutlu: bulutlarla kaplanmış, bulutlanmış (ayrıca: bulanık, belirsiz)
+NUBLADO	(sıfat) bulutlu: bulutlarla kaplanmış, bulutlanmış (ayrıca: bulanık, belirsiz)
+NUBLADOS	(nublado sözcüğünün çekimi) (sıfat) bulutlu: bulutlarla kaplanmış, bulutlanmış (ayrıca: bulanık, belirsiz)
+NUCA	(ad) nuca kelimesinin karşılığı: ⟪ense|ENSE⟫
+NUCLEAR	(sıfat) merkezî: merkezde olan, merkezi oluşturan (ayrıca: nükleer, çekirdeksel)
+NUCLEARES	(nuclear sözcüğünün çekimi) (sıfat) merkezî: merkezde olan, merkezi oluşturan (ayrıca: nükleer, çekirdeksel)
+NUCLEO	(ad) nucleo kelimesinin karşılığı: ⟪çekirdek|ÇEKİRDEK⟫
+NUCLEOTIDEO	(ad) nucleotideo kelimesinin karşılığı: ⟪nükleotit|NÜKLEOTİT⟫
+NUDE	(ad) çıplak: [Soyunmuş durumda olan vücudun resmi; nü.
+NUDEZ	(ad) çıplaklık: çıplak olma durumu
+NULA	(nulo sözcüğünün çekimi) (sıfat) önemsiz: önemi olmayan (ayrıca: naçiz, anlamsız)
+NULO	(sıfat) önemsiz: önemi olmayan (ayrıca: naçiz, anlamsız)
+NUMERA	(numerar sözcüğünün çekimi) (eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMERADOR	(ad) pay: birden fazla kişi arasında bölüşülmüş bir [[bütün|bütünden, bu kişilerin her birine düşen bölüm, hisse,üleş.
+NUMERAIS	(numerar sözcüğünün çekimi) (eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMERAL	(ad) rakam: sayıları göstermek için kullanılan işaretlerden her biri (ayrıca: sayı)
+NUMERAM	(numerar sözcüğünün çekimi) (eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMERANDO	(numerar sözcüğünün çekimi) (eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMERAR	(eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMERARIO	(ad) numerario kelimesinin karşılığı: nakit, eldeki para
+NUMERE	(numerar sözcüğünün çekimi) (eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMERICA	(numerico sözcüğünün çekimi) (sıfat) sayısal: sayı ile ilgili, sayıya dayanan, numerik, dijital
+NUMERICAMENTE	(zarf) sayıca: sayı bakımından; adetçe, adedî
+NUMERICAS	(numerico sözcüğünün çekimi) (sıfat) sayısal: sayı ile ilgili, sayıya dayanan, numerik, dijital
+NUMERICO	(sıfat) sayısal: sayı ile ilgili, sayıya dayanan, numerik, dijital
+NUMERICOS	(numerico sözcüğünün çekimi) (sıfat) sayısal: sayı ile ilgili, sayıya dayanan, numerik, dijital
+NUMERO	(ad) sayı: aritmetik, matematik
+NUMEROLOGIA	(ad) numerologia kelimesinin karşılığı: nümeroloji
+NUMEROS	(ad) çoğul çekimi: número
+NUMEROSAS	(numeroso sözcüğünün çekimi) (sıfat) birçok: oldukça çok, sayısı belirsiz, bir hayli, müteaddit (ayrıca: müteaddit, pek çok)
+NUMEROSO	(sıfat) birçok: oldukça çok, sayısı belirsiz, bir hayli, müteaddit (ayrıca: müteaddit, pek çok)
+NUMEROSOS	(numeroso sözcüğünün çekimi) (sıfat) birçok: oldukça çok, sayısı belirsiz, bir hayli, müteaddit (ayrıca: müteaddit, pek çok)
+NUMEROU	(numerar sözcüğünün çekimi) (eylem) numaralamak: bir veya daha fazla sıra numarasıyla göstermek, numara koymak
+NUMISMATICA	(ad) numismatica kelimesinin karşılığı: ⟪nümismatik|NÜMİSMATİK⟫
+NUNCA	(zarf) asla: hiçbir şekilde, hiçbir zaman
+NUNCHAKU	(ad) nunçaku: Kökeni Japonya'nın Okinawa adasına dayanan, iki kısa sopanın bir ip veya zincirle birbirine bağlanmasıyla oluşan ve döndürme ile savurma hareketleriyle saldırı ve savunma amacıyla kullanılan geleneksel bir yakın dövüş silahı.
+NUPCIAS	(ad) düğün: evlenme veya sünnet dolayısıyla yapılan tören, eğlence, cemiyet
+NUTO	(ad) istek: bir şeye duyulan eğilim, arzu, şevk, heves
+NUTRIENTES	(ad) çoğul çekimi: nutriente
+NUTRIR	(eylem) beslemek: yetiştirmek:
+NUTRITIVO	(sıfat) besleyici: besleyen, beslemeye yarayan, besin değeri yüksek, mugaddi
+NUTRIÇAO	(ad) beslenme: beslenmek işi (ayrıca: besin)
+NUVEM	(ad) bulut: buz kristalleri, su damlacıkları ya da bunların karışımlarından oluşan, toprağa değmeyen, gözle görülür kütle
+NUVENS	(ad) çoğul çekimi: nuvem
+NYLON	(ad) nylon kelimesinin karşılığı: ⟪naylon|NAYLON⟫

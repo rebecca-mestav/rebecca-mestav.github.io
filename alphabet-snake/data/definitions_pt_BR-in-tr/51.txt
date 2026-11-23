@@ -1,0 +1,235 @@
+QUADRA	(ad) mevsim: yılın, güneşten ısı, ışık alma süresi ve dolayısıyla iklim şartları bakımından farklılık gösteren dört bölümünden her biri, sezon (ayrıca: sezon, devre)
+QUADRADA	(quadrado sözcüğünün çekimi) (ad) kare: kenarları ve açıları birbirine eşit olan dörtgen, dördül, murabba
+QUADRADAS	(quadrado sözcüğünün çekimi) (ad) kare: kenarları ve açıları birbirine eşit olan dörtgen, dördül, murabba
+QUADRADO	(ad) kare: kenarları ve açıları birbirine eşit olan dörtgen, dördül, murabba
+QUADRADOS	(ad) çoğul çekimi: quadrado
+QUADRAGESIMO	(sıfat) quadragesimo kelimesinin karşılığı: ⟪kırkıncı|KIRKINCI⟫
+QUADRANTE	(ad) beniz: yüz (ayrıca: didar, safha)
+QUADRANTES	(ad) çoğul çekimi: quadrante
+QUADRAS	(ad) çoğul çekimi: quadra
+QUADRICULA	(ad) quadricula kelimesinin karşılığı: ⟪gril|GRİL⟫
+QUADRICULADO	(ad) quadriculado kelimesinin karşılığı: ⟪gril|GRİL⟫
+QUADRIL	(ad) kalça: Gövdenin arka bölümünde, bacakların birleştiği yerle bel arasındaki şişkin bölge; kıç.
+QUADRILATERO	(ad) dörtgen: Dört kenarlı çokgen; dörtkenar.
+QUADRILHA	(ad) quadrilha kelimesinin karşılığı: ⟪çete|ÇETE⟫, ⟪şebeke|ŞEBEKE⟫
+QUADRILHAS	(quadrilha sözcüğünün çekimi) (ad) quadrilha kelimesinin karşılığı: ⟪çete|ÇETE⟫, ⟪şebeke|ŞEBEKE⟫
+QUADRINHO	(ad) quadrinho kelimesinin karşılığı: ⟪panel|PANEL⟫, ⟪pano|PANO⟫
+QUADRINISTA	(ad) quadrinista kelimesinin karşılığı: ⟪karikatürist|KARİKATÜRİST⟫, ⟪karikatürcü|KARİKATÜRCÜ⟫
+QUADRO	(ad) temsilî resim: İnsanın düşünerek zihninde yarattığı resim. (ayrıca: tablo, resim)
+QUAIS	(qual sözcüğünün çekimi) (zamir) hangi: iki veya daha çok şeyden bir tanesini belirtecek bir cevap istemek için kullanılan soru sıfatı
+QUAISQUER	(qualquer sözcüğünün çekimi) (zamir) qualquer kelimesinin karşılığı: ⟪hiçbiri|HİÇBİRİ⟫
+QUAL	(zamir) hangi: iki veya daha çok şeyden bir tanesini belirtecek bir cevap istemek için kullanılan soru sıfatı
+QUALIDADE	(ad) nitelik: bir şeyin nasıl olduğunu belirten, onu başka şeylerden ayıran özellik ve bir şeyin iyi veya kötü olma özelliği, kalite, vasıf, keyfiyet (ayrıca: kalite)
+QUALIDADES	(ad) çoğul çekimi: qualidade
+QUALIFICADA	(qualificado sözcüğünün çekimi) (sıfat) kalifiye: yetişmiş
+QUALIFICADAS	(qualificado sözcüğünün çekimi) (sıfat) kalifiye: yetişmiş
+QUALIFICADO	(sıfat) kalifiye: yetişmiş
+QUALIFICADOS	(qualificado sözcüğünün çekimi) (sıfat) kalifiye: yetişmiş
+QUALIFICAR	(eylem) nitelemek: bir şeyin niteliğini belirtmek
+QUALIFICAÇAO	(ad) nitelik: bireyi, nesne veya yaşantının bir yönünü ötekilerden ayırt etmeye yarayan ve ölçülebilen özellik, keyfiyet (ayrıca: vasıf)
+QUALQUER	(zamir) qualquer kelimesinin karşılığı: ⟪hiçbiri|HİÇBİRİ⟫
+QUANDO	(zarf) ne zaman: hangi zaman
+QUANTA	(quanto sözcüğünün çekimi) (zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+QUANTAS	(quanto sözcüğünün çekimi) (zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+QUANTIA	(ad) nicelik: bir şeyin sayılabilen ölçülebilen veya azalıp çoğalabilen durumu, kemiyet, miktar, kantite
+QUANTIDADE	(ad) sayı: aritmetik, matematik (ayrıca: miktar, nicelik)
+QUANTIDADES	(ad) çoğul çekimi: quantidade
+QUANTIFICAR	(eylem) nicelemek: Bir şeyi sayı, ölçü vbile bildirmek
+QUANTO	(zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+QUANTOS	(quanto sözcüğünün çekimi) (zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+QUANTUM	(ad) quantum kelimesinin karşılığı: kuvantum
+QUAO	(zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+QUARENTA	(sayı) quarenta kelimesinin karşılığı: ⟪kırk|KIRK⟫
+QUARTA	(ad) quarta kelimesinin karşılığı: ⟪mahalle|MAHALLE⟫, trimestır, çeyrekyıl
+QUARTEIRAO	(ad) ada: kavşaklarda trafiği düzenleyici, yönlendirici veya ayırıcı olmak üzere bordürle sınırlandırılmış veya yer çizgileriyle belirlenmiş alan, dönel kavşak, baba (ayrıca: kütle, kadastro adası)
+QUARTEIS	(ad) çoğul çekimi: quartel
+QUARTO	(ad) oda: Köy odası\n(sıfat) dördüncü: dört sayısının sıra sıfatı, sırada üçüncüden sonra gelen
+QUARTZO	(ad) kuvars: billurlaşmış silisin doğada çok yaygın bir türü, oldukça saf silisyum dioksit (SiO2) kristallerine verilen ad
+QUARÇO	(ad) quarço kelimesinin karşılığı: ⟪kuvars|KUVARS⟫
+QUASE	(zarf) quase kelimesinin karşılığı: hemen hemen
+QUATI	(ad) quati kelimesinin karşılığı: ⟪tembellik|TEMBELLİK⟫\n(sıfat) quati kelimesinin karşılığı: ⟪tembel|TEMBEL⟫, ⟪haylaz|HAYLAZ⟫
+QUATRO	(sayı) dört: üçten sonra, beşten önce gelen rakam ve tam sayı
+QUATROCENTOS	(sayı) quatrocentos kelimesinin karşılığı: dört yüz
+QUATROS	(quatro sözcüğünün çekimi) (sayı) dört: üçten sonra, beşten önce gelen rakam ve tam sayı
+QUE	(bağlaç) que kelimesinin karşılığı: ki\n(zarf) nasıl: bir işin ne biçimde, hangi yolla olduğunu belirtmek için kullanılan söz
+QUEBABE	(ad) kebap: doğrudan doğruya ateşte veya kap içinde susuz olarak pişirilmiş et ve kızartma, çevirme veya kavurma yoluyla hazırlanan her türlü yiyecek
+QUEBRA	(ad) quebra kelimesinin karşılığı: ⟪gaf|GAF⟫, ⟪ara|ARA⟫
+QUEBRADA	(ad) komşuluk: Komşu olma hâli
+QUEBRADO	(sıfat) kırık: kırılmış olan; münkesir. (ayrıca: sakat, bozuk)
+QUEBRAR	(eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+QUEBRAREM	(quebrar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+QUEBRASSEM	(quebrar sözcüğünün çekimi) (eylem) kırmak: (mecaz) yok etmek (ayrıca: siyahlaşmak, kırılmak)
+QUECHUA	(ad) quechua kelimesinin karşılığı: quechua
+QUEDA	(ad) sonbahar: Kuzey yarım kürede 24 Eylül-21 Aralık, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman dilimi, yazla kış arasındaki mevsim; güz, hazan, bağ bozumu.
+QUEDAR	(eylem) olunmak: olma işine konu olmak
+QUEDAS	(ad) çoğul çekimi: queda
+QUEER	(sıfat) queer kelimesinin karşılığı: kuir lubunya, ⟪kuir|KUİR⟫, queer
+QUEIJO	(ad) peynir: Maya ile katılaştırılarak sütten yapılan ve birçok türü olan besin.
+QUEIJOS	(ad) çoğul çekimi: queijo
+QUEIMA	(ad) yanma: yanmak işi, yangın (ayrıca: yanık, yakma)
+QUEIMADA	(ad) yakma: yakmak işi
+QUEIMADO	(sıfat) yanık: yanmış olan
+QUEIMADURA	(ad) yanık: herhangi bir ısıdan meydana gelen doku bozukluğu (ayrıca: yanma)
+QUEIMAM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMANDO	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAR	(eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARA	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARAM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARAO	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARAS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAREI	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAREM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAREMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARIA	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARIAM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARIAMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMARMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMASSE	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMASSEM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMASSEMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMASTE	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAVA	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAVAM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAVAMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMAÇAO	(ad) yanma: yanmak işi, yangın (ayrıca: yanık)
+QUEIME	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMEI	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMEM	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMEMOS	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMES	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMO	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIMOU	(queimar sözcüğünün çekimi) (eylem) yanmak: bütünü veya bir bölümü ateş veya sıcaklığın etkisi ile bozulmak, kömür durumuna geçmek
+QUEIXA	(ad) queixa kelimesinin karşılığı: ⟪şikâyet|ŞİKAYET⟫
+QUEIXO	(ad) queixo kelimesinin karşılığı: ⟪çene|ÇENE⟫
+QUEIXOS	(ad) çoğul çekimi: queixo
+QUEIXUME	(ad) queixume kelimesinin karşılığı: ⟪şikâyet|ŞİKAYET⟫, ⟪ağıt|AĞIT⟫
+QUEIXUMES	(queixume sözcüğünün çekimi) (ad) queixume kelimesinin karşılığı: ⟪şikâyet|ŞİKAYET⟫, ⟪ağıt|AĞIT⟫
+QUEJANDO	(sıfat) öyle: onun gibi olan, ona benzer (ayrıca: aynı)
+QUELONIO	(ad) kaplumbağa: kaplumbağalardan, çok sert ve kemiksi kabuk içinde yaşayan, ağır yürüyüşlü, dört ayaklı, uzun ömürlü, sürüngen hayvan; bağa, tosbağa (ayrıca: tosbağa)
+QUEM	(zamir) kimi: bazı (ayrıca: kim, kimler)
+QUENTE	(sıfat) sıcak: Isısı yüksek olan, çok ısınmış.
+QUENTEMENTE	(zarf) arkadaşça: arkadaş olarak
+QUENTES	(quente sözcüğünün çekimi) (sıfat) sıcak: Isısı yüksek olan, çok ısınmış.
+QUENTOES	(ad) çoğul çekimi: quentão
+QUENTURA	(ad) ısı: fiziksel olaya dayalı, belirli bir ölçü üzerine kurulmuş olan sıcaklık ve soğukluk derecesi
+QUER	(bağlaç) quer kelimesinin karşılığı: ⟪veya|VEYA⟫
+QUEREIS	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUERELA	(ad) dalaş: kavga, gürültülü bağrışıp çağrışma (ayrıca: kavga, dil dalaşı)
+QUERELAR	(eylem) tartışmak: bir konu üzerinde, birbirine ters olan görüş ve inançları karşılıklı savunmak (ayrıca: atışmak)
+QUEREMOS	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUERENA	(ad) salma: tarlada ekin ekmek için ayrılan toprak parçası.
+QUERENDO	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUERER	(eylem) istemek: İstek duymak; arzulamak.
+QUERES	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUERIA	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUERIAM	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUERIDA	(querido sözcüğünün çekimi) (sıfat) querido kelimesinin karşılığı: ⟪sayın|SAYIN⟫, ⟪sevgili|SEVGİLİ⟫
+QUERIDAS	(ad) çoğul çekimi: querida
+QUERIDISSIMA	(querido sözcüğünün çekimi) (sıfat) querido kelimesinin karşılığı: ⟪sayın|SAYIN⟫, ⟪sevgili|SEVGİLİ⟫
+QUERIDISSIMO	(querido sözcüğünün çekimi) (sıfat) querido kelimesinin karşılığı: ⟪sayın|SAYIN⟫, ⟪sevgili|SEVGİLİ⟫
+QUERIDO	(sıfat) querido kelimesinin karşılığı: ⟪sayın|SAYIN⟫, ⟪sevgili|SEVGİLİ⟫\n(ad) can: sevgi ve yakınlık hissiyle kendisine bağlanılan
+QUERIDOS	(ad) çoğul çekimi: querido
+QUERO	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUEROSENES	(ad) çoğul çekimi: querosene
+QUES	(ad) çoğul çekimi: quê
+QUESITO	(ad) sual: soru (ayrıca: soru)
+QUESITOS	(quesito sözcüğünün çekimi) (ad) sual: soru (ayrıca: soru)
+QUESTAO	(ad) soru: Bir şey öğrenmek için birine yöneltilen ve karşılık gerektiren söz veya yazı; istifham, sual. (ayrıca: sual)
+QUESTIONAM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAMENTO	(ad) başvuru: bir soruşturuda, soru çizinliğinin başına eklenmiş bir yazı ya da mektup aracılığıyla ya da bir görüşmede yapılan açış konuşmasıyla araştırmanın sunulması (ayrıca: müracaat)
+QUESTIONAMOS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONANDO	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAR	(eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARA	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARAM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARAO	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAREI	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAREM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAREMOS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARIA	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARIAM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARIAMOS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONARIO	(ad) sormaca: herhangi bir konuyla ilgili durum ve tutumu belirlemek için düzenlenmiş ayrıntılı ve kapsamlı soru dizisi, anket
+QUESTIONARMOS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONASSE	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONASSEM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAVA	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAVAM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAVAMOS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONAVEIS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONE	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONEI	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONEM	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONEMOS	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONES	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONO	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTIONOU	(questionar sözcüğünün çekimi) (eylem) dilemek: birinden bir şeyin yapılmasını istemek, rica etmek, arzu etmek
+QUESTOES	(ad) çoğul çekimi: questão
+QUIABO	(ad) quiabo kelimesinin karşılığı: ⟪bamya|BAMYA⟫
+QUIBE	(ad) quibe kelimesinin karşılığı: içli köfte
+QUICHUA	(ad) quichua kelimesinin karşılığı: quechua
+QUICIO	(ad) quicio kelimesinin karşılığı: ⟪menteşe|MENTEŞE⟫
+QUICONGO	(ad) quicongo kelimesinin karşılığı: kongo dili
+QUIETO	(sıfat) sakin: Hareket etmeyen, kımıldamayan.
+QUILATE	(ad) quilate kelimesinin karşılığı: karat
+QUILHA	(ad) salma: tarlada ekin ekmek için ayrılan toprak parçası.
+QUILHAS	(ad) çoğul çekimi: quilha
+QUILOBIT	(ad) kilobit: 1.000 (10³) bit.
+QUILOBYTE	(ad) kilobayt: (kısaltma) kB ya da KB
+QUILOMBOLAS	(ad) çoğul çekimi: quilombola
+QUILOMETRAGEM	(ad) quilometragem kelimesinin karşılığı: ⟪deney|DENEY⟫, ⟪tecrübe|TECRÜBE⟫, ⟪macera|MACERA⟫, ⟪deneyim|DENEYİM⟫
+QUILOMETRO	(ad) kilometre: 1000 metrelik uzunluk ölçü birimi (km)
+QUILOMETROS	(ad) çoğul çekimi: quilómetro
+QUILOWATT	(ad) quilowatt kelimesinin karşılığı: ⟪kilovat|KİLOVAT⟫
+QUIMERA	(ad) quimera kelimesinin karşılığı: chimera
+QUIMERAS	(ad) çoğul çekimi: quimera
+QUIMERICA	(quimerico sözcüğünün çekimi) (sıfat) düşüncel: yalnız düşünce ile kavranabilen
+QUIMERICO	(sıfat) düşüncel: yalnız düşünce ile kavranabilen
+QUIMICA	(ad) kimya: maddelerin temel yapılarını, birleşimlerini, dönüşümlerini, çözümleme, birleşim ve üretim yöntemlerini inceleyen bilim
+QUIMICAS	(ad) çoğul çekimi: química
+QUIMICO	(sıfat) kimyasal: kimya ile ilgili, kimyaya ait (ayrıca: kimyevi)\n(ad) kimyacı: kimya ile uğraşan kişi, kimyager
+QUIMICOS	(ad) çoğul çekimi: químico
+QUIMIOTERAPIA	(ad) kemoterapi: Kimyasal tedavi, ilaç tedavisi, em iyiltimi
+QUINA	(ad) köşe: Kuytu, tenha veya ücra yer
+QUINADO	(sıfat) ölü: Hayatı sona ermiş olan (ayrıca: ölmüş)
+QUINAR	(eylem) gitmek: ölmek (ayrıca: ölmek, vefat etmek)
+QUINAS	(quina sözcüğünün çekimi) (ad) köşe: Kuytu, tenha veya ücra yer
+QUINCA	(ad) quinca kelimesinin karşılığı: ⟪kamkat|KAMKAT⟫
+QUINHAO	(ad) aksiyon: insan etkinliğinin veya iradesinin açığa çıkması (ayrıca: hisse, pay)
+QUINHENTOS	(sayı) quinhentos kelimesinin karşılığı: beş yüz
+QUINQUAGESIMO	(sıfat) ellinci: ellinin sıra sıfatı; sırada kırk dokuzuncudan sonra gelen
+QUINQUILHARIAS	(ad) çoğul çekimi: quinquilharia
+QUINTA	(ad) çiftlik: tarım yapılan, hayvan yetiştirilen, çalışanlarının da oturması için evler bulunan geniş toprak parçası (ayrıca: beşinci)
+QUINTAL	(ad) avlu: Bir yapının veya yapı grubunun ortasında kalan üstü açık, duvarla çevrili alan.
+QUINTILHAO	(sayı) trilyon: Milyar kere bin, 1.000.000.000.000 (ayrıca: kentilyon)
+QUINTO	(sıfat) quinto kelimesinin karşılığı: ⟪beşinci|BEŞİNCİ⟫\n(ad) quinto kelimesinin karşılığı: ⟪beşinci|BEŞİNCİ⟫
+QUINZE	(sayı) quinze kelimesinin karşılığı: onbeş
+QUIOSQUES	(ad) çoğul çekimi: quiosque
+QUIPROQUO	(ad) pislik: (mecaz) başkalarına zarar veren kişi (ayrıca: iltibas, karışıklık)
+QUIRGUIZ	(sıfat) quirguiz kelimesinin karşılığı: kırgız\n(ad) quirguiz kelimesinin karşılığı: kırgız, kırgızca
+QUIS	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUISERA	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUISERES	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUISESSE	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUISESTE	(querer sözcüğünün çekimi) (eylem) istemek: İstek duymak; arzulamak.
+QUISTA	(quisto sözcüğünün çekimi) (sıfat) can: birey, ferd; kişi, şahıs (ayrıca: sevgili, sayın)
+QUISTO	(sıfat) can: birey, ferd; kişi, şahıs (ayrıca: sevgili, sayın)
+QUISTOS	(quisto sözcüğünün çekimi) (sıfat) can: birey, ferd; kişi, şahıs (ayrıca: sevgili, sayın)
+QUITANDA	(ad) quitanda kelimesinin karşılığı: ⟪yemiş|YEMİŞ⟫, ⟪meyve|MEYVE⟫
+QUITANDEIRO	(ad) manav: Sebze ve meyve satılan yer
+QUITAR	(eylem) tediye etmek: alış veriş ilişkisinde borcu alacaklıya vermek (ayrıca: ödemek)
+QUITAÇAO	(ad) bırakım: bırakma işi (ayrıca: serbest bırakma, deşarj)
+QUITE	(sıfat) eşit: yapı, değer, boyut, nicelik ve nitelik bakımından birbirinden ne artık ne eksik olmayan (iki veya daha çok şeyler), müsavi
+QUITES	(quitar sözcüğünün çekimi) (eylem) tediye etmek: alış veriş ilişkisinde borcu alacaklıya vermek (ayrıca: ödemek)
+QUITINETE	(ad) kan: (İstanbul ağzı) mutfak (ayrıca: mutfak)
+QUITUTE	(ad) zariflik: zarif davranış veya zarif olma durumu, zarafet
+QUIUI	(ad) quiui kelimesinin karşılığı: ⟪kivi|KİVİ⟫
+QUIVI	(ad) quivi kelimesinin karşılığı: ⟪kivi|KİVİ⟫
+QUIZILA	(ad) antipati: Bir nesne, bir kişi ya da bir olaya karşı negatif duygulara sahip olmak, bir şeyden hoşlanmama hali
+QUIZOMBA	(ad) parti: siyasî parti kavramının kısa şekli (ayrıca: hizb, zümre)
+QUIÇA	(zarf) belki: kesin olmama hâlini yansıtır
+QUOCIENTE	(ad) bölüm: Bölme işlemi sonunda elde edilen sayı.
+QUORUM	(ad) quorum kelimesinin karşılığı: ⟪nisap|NİSAP⟫, yeter sayı
+QUOTIDIANO	(sıfat) günlük: günü gününe tutulan hâtırâ defteri (ayrıca: gündelik, banal)

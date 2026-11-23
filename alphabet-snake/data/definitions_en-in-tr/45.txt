@@ -1,0 +1,1885 @@
+EACH	(zamir) each kelimesinin karşılığı: : her
+EAGER	(sıfat) eager kelimesinin karşılığı: ⟪istekli|İSTEKLİ⟫, ⟪hevesli|HEVESLİ⟫
+EAGERER	(eager sözcüğünün çekimi) (sıfat) eager kelimesinin karşılığı: ⟪istekli|İSTEKLİ⟫, ⟪hevesli|HEVESLİ⟫
+EAGEREST	(eager sözcüğünün çekimi) (sıfat) eager kelimesinin karşılığı: ⟪istekli|İSTEKLİ⟫, ⟪hevesli|HEVESLİ⟫
+EAGERS	(ad) çoğul çekimi: eager
+EAGLE	(ad) kartal: Atmacagiller (Accipitridae) ailesinden, yuvasını yüksek kayalıklar üzerinde kuran, etçil, güçlü, keskin görüşe sahip, iri bir yırtıcı kuş. (Aquila) (ayrıca: kaya kartalı)
+EAGLES	(ad) eagle sözcüğünün çoğul çekimi: kartal, kaya kartalı\n(eylem) eagle sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kartal, kaya kartalı
+EAGLETS	(ad) çoğul çekimi: eaglet
+EAGRES	(ad) çoğul çekimi: eagre
+EAR	(ad) kulak: kulak kepçesi, işitme kanalı, kulak zarı, çekiç kemiği, örs, üzengi kemiği, kulak salyangozundan oluşan işitme organı
+EARACHES	(ad) çoğul çekimi: earache
+EARDRUM	(ad) eardrum kelimesinin karşılığı: kulak zarı, ⟪kulakdavulu|KULAKDAVULU⟫
+EARDRUMS	(ad) çoğul çekimi: eardrum
+EARFLAPS	(ad) çoğul çekimi: earflap
+EARFULS	(ad) çoğul çekimi: earful
+EARINGS	(ad) çoğul çekimi: earing
+EARLDOMS	(ad) çoğul çekimi: earldom
+EARLIER	(sıfat) earlier kelimesinin karşılığı: daha erken
+EARLIEST	(sıfat) earliest kelimesinin karşılığı: en erken
+EARLOBES	(ad) çoğul çekimi: earlobe
+EARLS	(ad) çoğul çekimi: earl
+EARLY	(zarf) erken: vaktinden önce, alışılan zamandan önce, er, geç karşıtı\n(sıfat) erken: vaktinden önce, alışılan zamandan önce, er, geç karşıtı
+EARMARKS	(ad) çoğul çekimi: earmark
+EARN	(eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+EARNED	(earn sözcüğünün çekimi) (eylem) kazanmak: ele geçirmek, fethetmek, kazanç sağlamak
+EARNERS	(ad) çoğul çekimi: earner
+EARNEST	(sıfat) earnest kelimesinin karşılığı: ⟪samimi|SAMİMİ⟫, ⟪ciddi|CİDDİ⟫
+EARNESTNESS	(ad) earnestness kelimesinin karşılığı: ⟪ağırbaşlılık|AĞIRBAŞLILIK⟫
+EARNESTNESSES	(earnestness sözcüğünün çekimi) (ad) earnestness kelimesinin karşılığı: ⟪ağırbaşlılık|AĞIRBAŞLILIK⟫
+EARNESTS	(earnest sözcüğünün çekimi) (sıfat) earnest kelimesinin karşılığı: ⟪samimi|SAMİMİ⟫, ⟪ciddi|CİDDİ⟫
+EARNING	(ad) kazanma: kazanmak işi (ayrıca: kazanış)
+EARNS	(eylem) earn sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kazanmak
+EARPHONES	(ad) çoğul çekimi: earphone
+EARPLUGS	(ad) çoğul çekimi: earplug
+EARRING	(ad) earring kelimesinin karşılığı: ⟪küpe|KÜPE⟫
+EARRINGS	(ad) çoğul çekimi: earring
+EARS	(ad) başaklar (ear): kulak
+EARTH	(eylem) earth kelimesinin karşılığı: ⟪topraklamak|TOPRAKLAMAK⟫
+EARTHED	(earth sözcüğünün çekimi) (eylem) earth kelimesinin karşılığı: ⟪topraklamak|TOPRAKLAMAK⟫
+EARTHING	(eylem) earth sözcüğünün şimdiki zaman ortaç ve gerund çekimi: topraklamak
+EARTHQUAKE	(ad) deprem: yer kabuğunun derin katmanlarının kırılıp yer değiştirmesi veya yanardağların püskürme durumuna geçmesi yüzünden oluşan sarsıntı
+EARTHQUAKES	(ad) earthquake sözcüğünün çoğul çekimi: deprem
+EARTHS	(ad) çoğul çekimi: earth
+EARTHWORKS	(ad) çoğul çekimi: earthwork
+EARTHWORMS	(ad) çoğul çekimi: earthworm
+EARWIG	(ad) earwig kelimesinin karşılığı: ⟪kulağakaçan|KULAĞAKAÇAN⟫
+EARWIGGED	(earwig sözcüğünün çekimi) (ad) earwig kelimesinin karşılığı: ⟪kulağakaçan|KULAĞAKAÇAN⟫
+EARWIGGING	(earwig sözcüğünün çekimi) (ad) earwig kelimesinin karşılığı: ⟪kulağakaçan|KULAĞAKAÇAN⟫
+EARWIGS	(ad) çoğul çekimi: earwig
+EASE	(ad) kolaylık: bir işi yapabilme durumu veya imkânı (ayrıca: sefa)
+EASED	(eylem) ease sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kolaylık, sefa
+EASEL	(ad) çatkı: Uç uca, birbirine çatılan şeylerin bütünü. (ayrıca: sehpa)
+EASELS	(ad) çoğul çekimi: easel
+EASEMENTS	(ad) çoğul çekimi: easement
+EASES	(ad) çoğul çekimi: ease
+EASIER	(easy sözcüğünün çekimi) (sıfat) easy kelimesinin karşılığı: ⟪kolay|KOLAY⟫
+EASIES	(easy sözcüğünün çekimi) (sıfat) easy kelimesinin karşılığı: ⟪kolay|KOLAY⟫
+EASIEST	(easy sözcüğünün çekimi) (sıfat) easy kelimesinin karşılığı: ⟪kolay|KOLAY⟫
+EASILY	(zarf) kolay: kolayca, sıkıntısız bir biçimde, basitçe (ayrıca: basitçe, kolay kolay)
+EASINESS	(ad) easiness kelimesinin karşılığı: ⟪kolaylık|KOLAYLIK⟫
+EASINESSES	(easiness sözcüğünün çekimi) (ad) easiness kelimesinin karşılığı: ⟪kolaylık|KOLAYLIK⟫
+EASING	(ease sözcüğünün çekimi) (ad) kolaylık: bir işi yapabilme durumu veya imkânı (ayrıca: sefa)
+EAST	(ad) doğu: Bu yönde bulunan; şarki. (ayrıca: şark)
+EASTERLIES	(ad) çoğul çekimi: easterly
+EASTERN	(sıfat) eastern kelimesinin karşılığı: ⟪doğu|DOĞU⟫
+EASTERNER	(eastern sözcüğünün çekimi) (sıfat) eastern kelimesinin karşılığı: ⟪doğu|DOĞU⟫
+EASTERNERS	(ad) çoğul çekimi: easterner
+EASTINGS	(ad) çoğul çekimi: easting
+EASTS	(east sözcüğünün çekimi) (ad) doğu: Bu yönde bulunan; şarki. (ayrıca: şark)
+EASY	(sıfat) easy kelimesinin karşılığı: ⟪kolay|KOLAY⟫\n(zarf) kolayca: Sıkıntı çekmeden; kolay, kolay kolay, asan
+EAT	(eylem) yemek: ağızda çiğneyerek yutmak, taam etmek, yemek
+EATABLE	(sıfat) eatable kelimesinin karşılığı: ⟪yiyecek|YİYECEK⟫
+EATABLES	(ad) çoğul çekimi: eatable
+EATEN	(eat sözcüğünün çekimi) (eylem) yemek: ağızda çiğneyerek yutmak, taam etmek, yemek
+EATERIES	(ad) çoğul çekimi: eatery
+EATERS	(ad) çoğul çekimi: eater
+EATING	(eylem) eat sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yemek
+EATINGS	(eat sözcüğünün çekimi) (eylem) yemek: ağızda çiğneyerek yutmak, taam etmek, yemek
+EATS	(eat sözcüğünün çekimi) (eylem) yemek: ağızda çiğneyerek yutmak, taam etmek, yemek
+EAVES	(ad) çoğul çekimi: eave
+EAVESDROPPERS	(ad) çoğul çekimi: eavesdropper
+EAVESDROPS	(ad) çoğul çekimi: eavesdrop
+EBB	(ad) cezir; suların geri çekilmesi
+EBBED	(ebb sözcüğünün çekimi) (ad) cezir; suların geri çekilmesi
+EBBING	(ebb sözcüğünün çekimi) (ad) cezir; suların geri çekilmesi
+EBBS	(ad) çoğul çekimi: ebb
+EBONIES	(ad) çoğul çekimi: ebony
+EBONS	(ad) çoğul çekimi: ebon
+EBONY	(ad) abanoz: Koyu, parlak siyah.\n(sıfat) abanoz: Koyu, parlak siyah.
+EBULLITIONS	(ad) çoğul çekimi: ebullition
+ECCENTRICITIES	(ad) çoğul çekimi: eccentricity
+ECCENTRICITY	(ad) eccentricity kelimesinin karşılığı: eksantriklik, eksantrisite
+ECCENTRICS	(ad) çoğul çekimi: eccentric
+ECCLESIASTICAL	(sıfat) Hristiyanlığa ve bu dinin din adamlarına dair, eklestik
+ECCLESIASTICS	(ad) çoğul çekimi: ecclesiastic
+ECDYSIASTS	(ad) çoğul çekimi: ecdysiast
+ECHELONS	(ad) çoğul çekimi: echelon
+ECHIDNAS	(ad) çoğul çekimi: echidna
+ECHINODERMS	(ad) çoğul çekimi: echinoderm
+ECHO	(ad) echo kelimesinin karşılığı: ⟪yankı|YANKI⟫, ⟪aksiseda|AKSİSEDA⟫, ⟪inikâs|İNİKAS⟫, ⟪akis|AKİS⟫\n(eylem) yansıtmak: Düşünce, olay vb.ni bir başka kişiye iletmek, aktarmak (ayrıca: yankı yapmak, aksetmek)
+ECHOCARDIOGRAMS	(ad) çoğul çekimi: echocardiogram
+ECHOED	(echo sözcüğünün çekimi) (ad) echo kelimesinin karşılığı: ⟪yankı|YANKI⟫, ⟪aksiseda|AKSİSEDA⟫, ⟪inikâs|İNİKAS⟫, ⟪akis|AKİS⟫
+ECHOES	(ad) echo sözcüğünün çoğul çekimi: yankı, aksiseda, inikâs, akis, eko
+ECHOING	(echo sözcüğünün çekimi) (ad) echo kelimesinin karşılığı: ⟪yankı|YANKI⟫, ⟪aksiseda|AKSİSEDA⟫, ⟪inikâs|İNİKAS⟫, ⟪akis|AKİS⟫
+ECHOS	(echo sözcüğünün çekimi) (ad) echo kelimesinin karşılığı: ⟪yankı|YANKI⟫, ⟪aksiseda|AKSİSEDA⟫, ⟪inikâs|İNİKAS⟫, ⟪akis|AKİS⟫
+ECLAIRCISSEMENTS	(ad) çoğul çekimi: eclaircissement
+ECLAIRS	(ad) çoğul çekimi: eclair
+ECLECTIC	(sıfat) seçmeli: seçilebilen
+ECLECTICISM	(ad) eclecticism kelimesinin karşılığı: seçmecilik
+ECLECTICISMS	(eclecticism sözcüğünün çekimi) (ad) eclecticism kelimesinin karşılığı: seçmecilik
+ECLECTICS	(ad) çoğul çekimi: eclectic
+ECLIPSE	(ad) tutulma: bir gök cisminin, araya başka bir cismin girmesiyle bütününün veya bir bölümünün görünmez duruma gelmesi olayı
+ECLIPSED	(eclipse sözcüğünün çekimi) (ad) tutulma: bir gök cisminin, araya başka bir cismin girmesiyle bütününün veya bir bölümünün görünmez duruma gelmesi...
+ECLIPSES	(eclipse sözcüğünün çekimi) (ad) tutulma: bir gök cisminin, araya başka bir cismin girmesiyle bütününün veya bir bölümünün görünmez duruma gelmesi...
+ECLIPSING	(eclipse sözcüğünün çekimi) (ad) tutulma: bir gök cisminin, araya başka bir cismin girmesiyle bütününün veya bir bölümünün görünmez duruma gelmesi...
+ECLIPSIS	(ad) eclipsis kelimesinin karşılığı: ⟪silikleşme|SİLİKLEŞME⟫
+ECLIPSISES	(eclipsis sözcüğünün çekimi) (ad) eclipsis kelimesinin karşılığı: ⟪silikleşme|SİLİKLEŞME⟫
+ECLIPTIC	(ad) ekliptik: Dünyanın güneş çevresinde dönerken takip ettiği elips biçimindeki yolun oluşturduğu düzlem (ayrıca: tutulum)
+ECLIPTICS	(ad) çoğul çekimi: ecliptic
+ECLOGITES	(ad) çoğul çekimi: eclogite
+ECLOGUES	(ad) çoğul çekimi: eclogue
+ECOLOGIES	(ecology sözcüğünün çekimi) (ad) ekoloji: canlıların hem kendi aralarındaki hem de çevreleriyle olan ilişkilerini tek tek veya birlikte inceleyen...
+ECOLOGISTS	(ad) çoğul çekimi: ecologist
+ECOLOGY	(ad) ekoloji: canlıların hem kendi aralarındaki hem de çevreleriyle olan ilişkilerini tek tek veya birlikte inceleyen bilim dalı, çevre bilimi (ayrıca: çevre bilimi)
+ECONOMIC	(sıfat) ekonomik: ekonomi ile ilgili olan, iktisadi
+ECONOMICAL	(sıfat) economical kelimesinin karşılığı: ⟪iktisadi|İKTİSADİ⟫
+ECONOMICS	(ad) iktisat: ekonomi (ayrıca: ekonomi)
+ECONOMIES	(ad) economy sözcüğünün çoğul çekimi: ekonomi, iktisat
+ECONOMIST	(ad) ekonomist: Ekonomi uzmanı; iktisatçı
+ECONOMISTS	(ad) çoğul çekimi: economist
+ECONOMIZERS	(ad) çoğul çekimi: economizer
+ECONOMY	(ad) iktisat: ekonomi (ayrıca: ekonomi)
+ECOSYSTEM	(ad) ekosistem: belirli bir alanda bulunan canlılar ile bunları saran çevrenin karşılıklı ilişkileri ile meydana gelen ve süreklilik gösteren ekolojik sistem
+ECOSYSTEMS	(ad) ecosystem sözcüğünün çoğul çekimi: ekosistem
+ECSTASIES	(ad) çoğul çekimi: ecstasy
+ECSTASY	(ad) coşku: düşünceyle, duyguyla dolarak yücelme, ruhun kendini aşıp yücelmesi, heyecan (ayrıca: vecd, esrime)
+ECTOMERES	(ad) çoğul çekimi: ectomere
+ECTOMORPHS	(ad) çoğul çekimi: ectomorph
+ECTOPLASM	(ad) ectoplasm kelimesinin karşılığı: ektoplazma
+ECTOPLASMS	(ectoplasm sözcüğünün çekimi) (ad) ectoplasm kelimesinin karşılığı: ektoplazma
+ECTOSARCS	(ad) çoğul çekimi: ectosarc
+ECTOTHERMS	(ad) çoğul çekimi: ectotherm
+ECZEMA	(ad) eczema kelimesinin karşılığı: ⟪egzama|EGZAMA⟫
+ECZEMAS	(eczema sözcüğünün çekimi) (ad) eczema kelimesinin karşılığı: ⟪egzama|EGZAMA⟫
+EDDIES	(ad) çoğul çekimi: eddy
+EDELWEISS	(ad) edelweiss kelimesinin karşılığı: ⟪alpyıldızı|ALPYILDIZI⟫
+EDELWEISSES	(edelweiss sözcüğünün çekimi) (ad) edelweiss kelimesinin karşılığı: ⟪alpyıldızı|ALPYILDIZI⟫
+EDEMA	(ad) ödem: dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+EDEMAS	(edema sözcüğünün çekimi) (ad) ödem: dokularda genellikle yüzde, ellerde, ayaklarda ve bazı iç organlarda aşırı miktarda sıvı birikmesi
+EDEMATA	(ad) edema sözcüğünün çoğul çekimi: ödem
+EDEMATOUS	(ad) edematous kelimesinin karşılığı: ⟪ödematöz|ÖDEMATÖZ⟫
+EDGE	(ad) kenar: bir şeyi çevreleyen çizgi (ayrıca: ayrıt)
+EDGED	(edge sözcüğünün çekimi) (ad) kenar: bir şeyi çevreleyen çizgi (ayrıca: ayrıt)
+EDGERS	(ad) çoğul çekimi: edger
+EDGES	(ad) edge sözcüğünün çoğul çekimi: kenar, ayrıt
+EDGEWAYS	(ad) çoğul çekimi: edgeway
+EDGINESS	(ad) sinirlilik: sinirli olma durumu, asabilik, asabiyet
+EDGINESSES	(edginess sözcüğünün çekimi) (ad) sinirlilik: sinirli olma durumu, asabilik, asabiyet
+EDGING	(edge sözcüğünün çekimi) (ad) kenar: bir şeyi çevreleyen çizgi (ayrıca: ayrıt)
+EDGINGS	(edge sözcüğünün çekimi) (ad) kenar: bir şeyi çevreleyen çizgi (ayrıca: ayrıt)
+EDIBLE	(ad) edible kelimesinin karşılığı: ⟪yenilebilir|YENİLEBİLİR⟫
+EDIBLES	(ad) çoğul çekimi: edible
+EDICTS	(ad) çoğul çekimi: edict
+EDIFICATIONS	(ad) çoğul çekimi: edification
+EDIFICE	(ad) edifice kelimesinin karşılığı: ⟪büyük|BÜYÜK⟫, gösterişli bina, ⟪heybetli|HEYBETLİ⟫, görkemli yapı
+EDIFICES	(ad) çoğul çekimi: edifice
+EDIFIED	(edify sözcüğünün çekimi) (eylem) edify kelimesinin karşılığı: zihnen geliştirmek, ahlaken geliştirmek, terbiye etmek
+EDIFIERS	(ad) çoğul çekimi: edifier
+EDIFIES	(edify sözcüğünün çekimi) (eylem) edify kelimesinin karşılığı: zihnen geliştirmek, ahlaken geliştirmek, terbiye etmek
+EDIFY	(eylem) edify kelimesinin karşılığı: zihnen geliştirmek, ahlaken geliştirmek, terbiye etmek
+EDIFYING	(sıfat) insanı ahlaken veya zihnen geliştiren
+EDIT	(eylem) yazılı, işitsel veya görsel bir materyali, değiştirmek, düzeltmek vb. işlemlerden geçirerek yayına, sunuma vs. hazırlamak; edit etmek
+EDITED	(eylem) edit sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yazılı, işitsel veya görsel bir materyali, değiştirmek, düzeltmek vb. işlemlerden geçirerek yayına,...
+EDITING	(ad) editing kelimesinin karşılığı: ⟪düzeltme|DÜZELTME⟫
+EDITION	(ad) baskı: bir eserin tekrarlanarak yapılan baskı işlemlerinden her biri, edisyon (ayrıca: bası sayısı)
+EDITIONS	(ad) çoğul çekimi: edition
+EDITOR	(ad) editör: yazıları yeniden düzenleyerek yayıma hazırlayan kimse
+EDITORIALISTS	(ad) çoğul çekimi: editorialist
+EDITORIALS	(ad) çoğul çekimi: editorial
+EDITORS	(ad) editor sözcüğünün çoğul çekimi: editör
+EDITS	(ad) edit sözcüğünün çoğul çekimi: yazılı, işitsel veya görsel bir materyali, değiştirmek, düzeltmek vb. işlemlerden geçirerek yayına,...
+EDUCATE	(eylem) eğitmek: birinin akla uygun, fiziksel ve moral gelişmesi üzerine etki yaparak çeşitli davranış yatkınlıkları, bilgi ve görgü aşılayarak önceden tespit edilmiş amaçlara göre onun belirli bir yönde gelişmesini sağlamak, terbiye etmek
+EDUCATED	(sıfat) okumuş: okuyarak bilgisini genişletmiş, öğrenim görmüş (kişi) (ayrıca: medeni)
+EDUCATES	(educate sözcüğünün çekimi) (eylem) eğitmek: birinin akla uygun, fiziksel ve moral gelişmesi üzerine etki yaparak çeşitli davranış yatkınlıkları,...
+EDUCATING	(educate sözcüğünün çekimi) (eylem) eğitmek: birinin akla uygun, fiziksel ve moral gelişmesi üzerine etki yaparak çeşitli davranış yatkınlıkları,...
+EDUCATION	(ad) öğrenim: herhangi bir iş, sanat ya da meslek için gerekli bilgi, beceri ve alışkanlıkların elde edilmesi amacıyla yapılan çalışma (ayrıca: eğitim)
+EDUCATIONALISTS	(ad) çoğul çekimi: educationalist
+EDUCATIONISTS	(ad) çoğul çekimi: educationist
+EDUCATIONS	(ad) education sözcüğünün çoğul çekimi: eğitim, öğrenim
+EDUCATOR	(ad) mürebbi: bir çocuğun eğitim ve bakımıyla görevlendirilmiş erkek
+EDUCATORS	(ad) çoğul çekimi: educator
+EEL	(ad) eel kelimesinin karşılığı: yılan balığı
+EELS	(ad) eel sözcüğünün çoğul çekimi: yılan balığı\n(eylem) eel sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yılan balığı
+EELWORMS	(ad) çoğul çekimi: eelworm
+EERIE	(sıfat) eerie kelimesinin karşılığı: ⟪ürkütücü|ÜRKÜTÜCÜ⟫, korku uyandıran
+EERIER	(sıfat) eerie sözcüğünün karşılaştırma derecesi çekimi: ürkütücü, korku uyandıran
+EERIEST	(sıfat) eerie sözcüğünün üstünlük derecesi çekimi: ürkütücü, korku uyandıran
+EFFACEMENTS	(ad) çoğul çekimi: effacement
+EFFECT	(ad) etki: bir etken veya bir sebebin sonucu, yardım
+EFFECTED	(effect sözcüğünün çekimi) (ad) etki: bir etken veya bir sebebin sonucu, yardım
+EFFECTING	(effect sözcüğünün çekimi) (ad) etki: bir etken veya bir sebebin sonucu, yardım
+EFFECTIVE	(ad) effective kelimesinin karşılığı: ⟪efektif|EFEKTİF⟫\n(sıfat) etkili: etkisi olan, tesirli, müessir, patetik (ayrıca: etkin)
+EFFECTIVELY	(zarf) effectively kelimesinin karşılığı: etkin biçimde
+EFFECTIVES	(effective sözcüğünün çekimi) (ad) effective kelimesinin karşılığı: ⟪efektif|EFEKTİF⟫
+EFFECTOR	(ad) effector kelimesinin karşılığı: etkileyen
+EFFECTORS	(effector sözcüğünün çekimi) (ad) effector kelimesinin karşılığı: etkileyen
+EFFECTS	(ad) çoğul çekimi: effect
+EFFECTUAL	(sıfat) birebir: etkisi kesin olan, etkili olan (ayrıca: etkili)
+EFFENDIS	(ad) çoğul çekimi: effendi
+EFFERVESCENT	(sıfat) effervescent kelimesinin karşılığı: ⟪köpürgen|KÖPÜRGEN⟫, ⟪coşkun|COŞKUN⟫
+EFFERVESCENTLY	(effervescent sözcüğünün çekimi) (sıfat) effervescent kelimesinin karşılığı: ⟪köpürgen|KÖPÜRGEN⟫, ⟪coşkun|COŞKUN⟫
+EFFICACIES	(efficacy sözcüğünün çekimi) (ad) etkililik: Etkili olma durumu, müessiriyet
+EFFICACIOUS	(sıfat) birebir: etkisi kesin olan, etkili olan
+EFFICACY	(ad) etkililik: Etkili olma durumu, müessiriyet
+EFFICIENCIES	(ad) (etkinlikler) (efficiency): etkinlik
+EFFICIENCY	(ad) efficiency kelimesinin karşılığı: ⟪etkinlik|ETKİNLİK⟫
+EFFICIENT	(sıfat) efficient kelimesinin karşılığı: ⟪etkili|ETKİLİ⟫
+EFFLORESCE	(ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+EFFLORESCED	(effloresce sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+EFFLORESCENCE	(ad) hava nemi ile tozlaşma (çiçeklenme)
+EFFLORESCENCES	(ad) çoğul çekimi: efflorescence
+EFFLORESCES	(effloresce sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+EFFLORESCING	(effloresce sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü.
+EFFLUVIUMS	(ad) çoğul çekimi: effluvium
+EFFORT	(ad) çaba: herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor
+EFFORTS	(ad) effort sözcüğünün çoğul çekimi: çaba
+EFFS	(ad) çoğul çekimi: eff
+EFFULGENT	(sıfat) effulgent kelimesinin karşılığı: ışık saçan, parlayan
+EFTS	(ad) çoğul çekimi: eft
+EGALITARIANS	(ad) çoğul çekimi: egalitarian
+EGG	(ad) yumurta: biyolojide bir organ
+EGGBEATERS	(ad) çoğul çekimi: eggbeater
+EGGED	(egg sözcüğünün çekimi) (ad) yumurta: biyolojide bir organ
+EGGHEADS	(ad) çoğul çekimi: egghead
+EGGING	(egg sözcüğünün çekimi) (ad) yumurta: biyolojide bir organ
+EGGNOGS	(ad) çoğul çekimi: eggnog
+EGGPLANT	(ad) patlıcan: Bu bitkinin sebze olarak kullanılan, mor renkli, uzunca veya toparlak ürünü.
+EGGPLANTS	(ad) eggplant sözcüğünün çoğul çekimi: patlıcan
+EGGS	(ad) egg sözcüğünün çoğul çekimi: yumurta
+EGGSHELLS	(ad) çoğul çekimi: eggshell
+EGLANTINES	(ad) çoğul çekimi: eglantine
+EGO	(ad) benlik: kendi kişiliğine önem verme, kişiliğini üstün görme, kibir, gurur (ayrıca: ego)
+EGOCENTRIC	(sıfat) beniçinci: beniçincilik görüşünü benimseyen, benmerkezci, egosantrist, benci (ayrıca: egosantrik, benmerkezci)
+EGOCENTRICS	(egocentric sözcüğünün çekimi) (sıfat) beniçinci: beniçincilik görüşünü benimseyen, benmerkezci, egosantrist, benci (ayrıca: egosantrik, benmerkezci)
+EGOISM	(ad) egoizm: Genel anlamıyla bireyin kendi çıkarları doğrultusunda hareket etmesi ile ilgili
+EGOISMS	(egoism sözcüğünün çekimi) (ad) egoizm: Genel anlamıyla bireyin kendi çıkarları doğrultusunda hareket etmesi ile ilgili
+EGOIST	(sıfat) bencil: Yalnız kendini düşünen, kendi çıkarlarını herkesinkinden üstün tutan; kendimci, hodbin, hodkâm, egoist. (ayrıca: egoist)
+EGOISTICAL	(sıfat) hodbin: bencil (ayrıca: hodkâm, egoist)
+EGOISTS	(ad) çoğul çekimi: egoist
+EGOS	(ego sözcüğünün çekimi) (ad) benlik: kendi kişiliğine önem verme, kişiliğini üstün görme, kibir, gurur (ayrıca: ego)
+EGOTISM	(ad) benlik: kendi kişiliğine önem verme, kişiliğini üstün görme, kibir, gurur
+EGOTISMS	(egotism sözcüğünün çekimi) (ad) benlik: kendi kişiliğine önem verme, kişiliğini üstün görme, kibir, gurur
+EGOTISTICAL	(sıfat) hodbin: bencil (ayrıca: hodkâm, egoist)
+EGOTISTS	(ad) çoğul çekimi: egotist
+EGRETS	(ad) çoğul çekimi: egret
+EIDER	(ad) eider kelimesinin karşılığı: pufla kazı
+EIDERS	(eider sözcüğünün çekimi) (ad) eider kelimesinin karşılığı: pufla kazı
+EIDOLONS	(ad) çoğul çekimi: eidolon
+EIGENVALUES	(ad) çoğul çekimi: eigenvalue
+EIGHT	(sıfat) sekiz: yediden sonra, dokuzdan önce gelen sayının adı
+EIGHTEEN	(sayı) eighteen kelimesinin karşılığı: on sekiz
+EIGHTEENS	(ad) çoğul çekimi: eighteen
+EIGHTEENTH	(sıfat) on sekizinci: on sekizinci
+EIGHTEENTHS	(eighteenth sözcüğünün çekimi) (sıfat) on sekizinci: on sekizinci
+EIGHTH	(sıfat) sekizinci: Sekiz sayısının sıra sıfatı, sırada yedinciden sonra gelen
+EIGHTHS	(ad) çoğul çekimi: eighth
+EIGHTIES	(ad) çoğul çekimi: eighty
+EIGHTIETH	(sıfat) sekseninci: seksen sayısının sıra sıfatı, sırada yetmiş dokuzuncudan sonra gelen
+EIGHTIETHS	(eightieth sözcüğünün çekimi) (sıfat) sekseninci: seksen sayısının sıra sıfatı, sırada yetmiş dokuzuncudan sonra gelen
+EIGHTS	(ad) çoğul çekimi: eight
+EIGHTY	(sayı) seksen: yetmiş dokuzdan sonra gelen sayı
+EIKONS	(ad) çoğul çekimi: eikon
+EINSTEINIUM	(ad) einsteinium kelimesinin karşılığı: ⟪aynştaynyum|AYNŞTAYNYUM⟫
+EINSTEINIUMS	(einsteinium sözcüğünün çekimi) (ad) einsteinium kelimesinin karşılığı: ⟪aynştaynyum|AYNŞTAYNYUM⟫
+EINSTEINS	(ad) çoğul çekimi: einstein
+EISTEDDFODS	(ad) çoğul çekimi: eisteddfod
+EJACULATE	(eylem) fışkırtmak; boşalmak; patlamak; penisin orgazm olurken meni fışkırtması
+EJACULATED	(ejaculate sözcüğünün çekimi) (eylem) fışkırtmak; boşalmak; patlamak; penisin orgazm olurken meni fışkırtması
+EJACULATES	(ad) çoğul çekimi: ejaculate
+EJACULATING	(ejaculate sözcüğünün çekimi) (eylem) fışkırtmak; boşalmak; patlamak; penisin orgazm olurken meni fışkırtması
+EJACULATIONS	(ad) çoğul çekimi: ejaculation
+EJACULATORS	(ad) çoğul çekimi: ejaculator
+EJECT	(eylem) atmak, kovmak, kapı dışarı etmek
+EJECTED	(eylem) eject sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: atmak, kovmak, kapı dışarı etmek
+EJECTING	(eject sözcüğünün çekimi) (eylem) atmak, kovmak, kapı dışarı etmek
+EJECTION	(ad) ejection kelimesinin karşılığı: ⟪fırlatma|FIRLATMA⟫, ⟪çıkartma|ÇIKARTMA⟫, dışarı atma, ⟪püskürtme|PÜSKÜRTME⟫
+EJECTIONS	(ad) çoğul çekimi: ejection
+EJECTMENTS	(ad) çoğul çekimi: ejectment
+EJECTORS	(ad) çoğul çekimi: ejector
+EJECTS	(eylem) eject sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: atmak, kovmak, kapı dışarı etmek\n(ad) çoğul çekimi: eject
+EKES	(ad) çoğul çekimi: eke
+ELABORATE	(sıfat) teferruatlı: ayrıntılı (ayrıca: ayrıntılı)
+ELABORATED	(elaborate sözcüğünün çekimi) (sıfat) teferruatlı: ayrıntılı (ayrıca: ayrıntılı)
+ELABORATES	(elaborate sözcüğünün çekimi) (sıfat) teferruatlı: ayrıntılı (ayrıca: ayrıntılı)
+ELABORATING	(elaborate sözcüğünün çekimi) (sıfat) teferruatlı: ayrıntılı (ayrıca: ayrıntılı)
+ELASTIC	(sıfat) elastic kelimesinin karşılığı: ⟪elastik|ELASTİK⟫, ⟪esnek|ESNEK⟫
+ELASTICITIES	(elasticity sözcüğünün çekimi) (ad) esneklik: kuvvetle orantılı olarak uzayıp kısalma ve esnek olma durumu, elâstikiyet
+ELASTICITY	(ad) esneklik: kuvvetle orantılı olarak uzayıp kısalma ve esnek olma durumu, elâstikiyet
+ELASTICS	(ad) çoğul çekimi: elastic
+ELASTOMERS	(ad) çoğul çekimi: elastomer
+ELATIVE	(ad) elative kelimesinin karşılığı: dışındalık hâli
+ELATIVES	(elative sözcüğünün çekimi) (ad) elative kelimesinin karşılığı: dışındalık hâli
+ELBOW	(ad) dirsek: Kol ile ön kol arasındaki eklemin arka yanı, çıkanak
+ELBOWED	(elbow sözcüğünün çekimi) (ad) dirsek: Kol ile ön kol arasındaki eklemin arka yanı, çıkanak
+ELBOWING	(elbow sözcüğünün çekimi) (ad) dirsek: Kol ile ön kol arasındaki eklemin arka yanı, çıkanak
+ELBOWS	(ad) elbow sözcüğünün çoğul çekimi: dirsek
+ELDER	(ad) aksakal: bir meslekte yaşça, kıdemce ileride ve yetenek bakımından üstün niteliğe sahip olan kimse, duayen
+ELDERBERRIES	(ad) çoğul çekimi: elderberry
+ELDERS	(ad) çoğul çekimi: elder
+ELDERSHIPS	(ad) çoğul çekimi: eldership
+ELECT	(eylem) seçmek: Birini oy vererek bir göreve getirmek.
+ELECTED	(elect sözcüğünün çekimi) (eylem) seçmek: Birini oy vererek bir göreve getirmek.
+ELECTING	(elect sözcüğünün çekimi) (eylem) seçmek: Birini oy vererek bir göreve getirmek.
+ELECTION	(ad) seçim: Kanunlar, yönetmelikler uyarınca bir veya daha çok aday arasından belli birini veya birkaçını seçme.
+ELECTIONS	(ad) çoğul çekimi: election
+ELECTOR	(ad) seçmen: Seçimde oy verme hakkı olan kimse; müntehip. (ayrıca: saylavcı)
+ELECTORAL	(ad) electoral kelimesinin karşılığı: seçimle ilgili
+ELECTORATES	(ad) çoğul çekimi: electorate
+ELECTORS	(ad) çoğul çekimi: elector
+ELECTRIC	(ad) elektrik: Bu enerjiden elde edilen aydınlanma.
+ELECTRICAL	(sıfat) elektriksel: Elektrik ile ilgili olan.
+ELECTRICALLY	(sıfat) electrically kelimesinin karşılığı: elektriksel olarak
+ELECTRICIAN	(ad) elektrikçi: Elektrik işleri yapan usta.
+ELECTRICIANS	(ad) çoğul çekimi: electrician
+ELECTRICITIES	(electricity sözcüğünün çekimi) (ad) elektrik: Maddenin elektron, pozitron, proton v.s. parçacıklarının hareketleriyle ortaya çıkan enerji türü.
+ELECTRICITY	(ad) elektrik: Maddenin elektron, pozitron, proton v.s. parçacıklarının hareketleriyle ortaya çıkan enerji türü.
+ELECTRICS	(electric sözcüğünün çekimi) (ad) elektrik: Bu enerjiden elde edilen aydınlanma.
+ELECTRIFICATION	(ad) electrification kelimesinin karşılığı: ⟪elektrifikasyon|ELEKTRİFİKASYON⟫
+ELECTRIFICATIONS	(electrification sözcüğünün çekimi) (ad) electrification kelimesinin karşılığı: ⟪elektrifikasyon|ELEKTRİFİKASYON⟫
+ELECTROCARDIOGRAMS	(ad) çoğul çekimi: electrocardiogram
+ELECTROCARDIOGRAPHIES	(ad) electrocardiography sözcüğünün çoğul çekimi: elektrokardiyografi
+ELECTROCARDIOGRAPHY	(ad) elektrokardiyografi: kalpte oluşan elektriksel etkinliğin göğüs duvarının, kolların ve bacakların belli noktalarına konan elektrotlarla çizge hâlinde kaydedilmesi yöntemi, kalp çizgesi yöntemi, elektro
+ELECTROCHEMICAL	(ad) electrochemical kelimesinin karşılığı: elektrokimyasal
+ELECTROCHEMISTRIES	(electrochemistry sözcüğünün çekimi) (ad) elektrokimya: elektrik akımının etkisiyle ortaya çıkan kimyasal değişmeleri ve kimya işlemlerinde oluşan enerji...
+ELECTROCHEMISTRY	(ad) elektrokimya: elektrik akımının etkisiyle ortaya çıkan kimyasal değişmeleri ve kimya işlemlerinde oluşan enerji elektrik üretiminde kullanmayı araştıran bilim dalı
+ELECTROCUTIONS	(ad) çoğul çekimi: electrocution
+ELECTRODE	(ad) electrode kelimesinin karşılığı: ⟪elektrot|ELEKTROT⟫
+ELECTRODES	(ad) çoğul çekimi: electrode
+ELECTRODYNAMOMETERS	(ad) çoğul çekimi: electrodynamometer
+ELECTROENCEPHALOGRAMS	(ad) çoğul çekimi: electroencephalogram
+ELECTROENCEPHALOGRAPHS	(ad) çoğul çekimi: electroencephalograph
+ELECTROLOGISTS	(ad) çoğul çekimi: electrologist
+ELECTROLYSIS	(ad) elektroliz: elektrik akımı yardımıyla, bir sıvı içinde çözünmüş kimyasal bileşiklerin ayrıştırılması işlemi, kıvılkesim
+ELECTROLYTE	(ad) elektrolit: elektroliz işlemiyle çözülen madde
+ELECTROLYTES	(ad) çoğul çekimi: electrolyte
+ELECTROMAGNETIC	(sıfat) elektromanyetik: elektromanyetizması bulunan veya bununla ilgisi olan
+ELECTROMAGNETISM	(ad) elektromanyetizm: elektromıknatıssal alanın fiziğidirel, ektromıknatıslık, elektromanyetik alan, elektrik alanı ve manyetik alandan oluşur
+ELECTROMAGNETISMS	(electromagnetism sözcüğünün çekimi) (ad) elektromanyetizm: elektromıknatıssal alanın fiziğidirel, ektromıknatıslık, elektromanyetik alan, elektrik alanı ve...
+ELECTROMAGNETS	(ad) çoğul çekimi: electromagnet
+ELECTROMETERS	(ad) çoğul çekimi: electrometer
+ELECTRON	(ad) elektron: bütün atomlarda bulunan negatif yüke sahip temel parçacık, pozitron karşıtı; eksicik (ayrıca: eksicik)
+ELECTRONIC	(sıfat) elektronik: serbest elektronların hareketinin denetimini konu edinen bilim dalı
+ELECTRONS	(ad) çoğul çekimi: electron
+ELECTROPHORESIS	(ad) elektroforez: Moleküllerin elektriksel alanın etkisiyle yüklerinin farklılığından yararlanılarak ayrılması tekniği
+ELECTROPLATES	(ad) çoğul çekimi: electroplate
+ELECTROSCOPES	(ad) çoğul çekimi: electroscope
+ELECTROSHOCKS	(ad) çoğul çekimi: electroshock
+ELECTROSTATIC	(ad) elektrostatik: elektriklenmiş cisimler üzerinde elektriği denge durumunda inceleyen fizik dalı
+ELECTROTHERAPIES	(ad) çoğul çekimi: electrotherapy
+ELECTROTYPES	(ad) çoğul çekimi: electrotype
+ELECTS	(ad) çoğul çekimi: elect
+ELEGANT	(sıfat) zarif: çekicilik, biçim, görünüş, durum, konuşma ve davranışlarıyla hoşa giden, beğenilen, zarafetli (ayrıca: şık, kibar)
+ELEGIAC	(sıfat) elegiac kelimesinin karşılığı: ⟪ağıtsal|AĞITSAL⟫
+ELEGIACS	(elegiac sözcüğünün çekimi) (sıfat) elegiac kelimesinin karşılığı: ⟪ağıtsal|AĞITSAL⟫
+ELEGIES	(ad) çoğul çekimi: elegy
+ELEGY	(ad) ağıt: öletin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi
+ELEMENT	(ad) element kelimesinin karşılığı: kimyasal element, elemenynt
+ELEMENTALS	(ad) çoğul çekimi: elemental
+ELEMENTS	(ad) element sözcüğünün çoğul çekimi: kimyasal element, elemenynt
+ELEMIS	(ad) çoğul çekimi: elemi
+ELEPHANT	(ad) fil: filgillerin hortumlular takımından, sıcak bölgelerde yaşayan, çok iri, kalın derili hayvan
+ELEPHANTS	(ad) elephant sözcüğünün çoğul çekimi: fil
+ELEVATE	(eylem) kaldırmak: bir kuruluşun çalışmasına son vermek, feshetmek, lağvetmek
+ELEVATED	(elevate sözcüğünün çekimi) (eylem) kaldırmak: bir kuruluşun çalışmasına son vermek, feshetmek, lağvetmek
+ELEVATEDS	(elevate sözcüğünün çekimi) (eylem) kaldırmak: bir kuruluşun çalışmasına son vermek, feshetmek, lağvetmek
+ELEVATES	(elevate sözcüğünün çekimi) (eylem) kaldırmak: bir kuruluşun çalışmasına son vermek, feshetmek, lağvetmek
+ELEVATING	(elevate sözcüğünün çekimi) (eylem) kaldırmak: bir kuruluşun çalışmasına son vermek, feshetmek, lağvetmek
+ELEVATION	(ad) elevation kelimesinin karşılığı: ⟪yüceltme|YÜCELTME⟫
+ELEVATIONS	(ad) çoğul çekimi: elevation
+ELEVATORS	(ad) elevator sözcüğünün çoğul çekimi
+ELEVEN	(sayı) eleven kelimesinin karşılığı: on bir
+ELEVENS	(ad) çoğul çekimi: eleven
+ELEVENTH	(sıfat) eleventh kelimesinin karşılığı: on birinci
+ELEVENTHS	(eleventh sözcüğünün çekimi) (sıfat) eleventh kelimesinin karşılığı: on birinci
+ELFIN	(sıfat) yaramaz; afacan; ele avuca sığmaz; elf gibi küçük
+ELFINS	(elfin sözcüğünün çekimi) (sıfat) yaramaz; afacan; ele avuca sığmaz; elf gibi küçük
+ELFLOCKS	(ad) çoğul çekimi: elflock
+ELICIT	(eylem) elicit kelimesinin karşılığı: bilgi edinmek, elde etmek
+ELICITATION	(ad) elicitation kelimesinin karşılığı: çıkartım
+ELICITATIONS	(elicitation sözcüğünün çekimi) (ad) elicitation kelimesinin karşılığı: çıkartım
+ELICITED	(elicit sözcüğünün çekimi) (eylem) elicit kelimesinin karşılığı: bilgi edinmek, elde etmek
+ELICITING	(elicit sözcüğünün çekimi) (eylem) elicit kelimesinin karşılığı: bilgi edinmek, elde etmek
+ELICITS	(elicit sözcüğünün çekimi) (eylem) elicit kelimesinin karşılığı: bilgi edinmek, elde etmek
+ELIGIBILITIES	(eligibility sözcüğünün çekimi) (ad) uygunluk: uygun olma durumu, yakışık, mutabakat, mukarenet
+ELIGIBILITY	(ad) uygunluk: uygun olma durumu, yakışık, mutabakat, mukarenet
+ELIGIBLE	(sıfat) bir şey için gerekli olan koşulları sağlayan; seçilebilen; uygun; hak kazanmış
+ELIGIBLES	(eligible sözcüğünün çekimi) (sıfat) bir şey için gerekli olan koşulları sağlayan; seçilebilen; uygun; hak kazanmış
+ELIMINATE	(eylem) eliminate kelimesinin karşılığı: elimine etmek
+ELIMINATED	(eylem) eliminate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: elimine etmek
+ELIMINATES	(eliminate sözcüğünün çekimi) (eylem) eliminate kelimesinin karşılığı: elimine etmek
+ELIMINATING	(eliminate sözcüğünün çekimi) (eylem) eliminate kelimesinin karşılığı: elimine etmek
+ELIMINATION	(ad) elimination kelimesinin karşılığı: ⟪eliminasyon|ELİMİNASYON⟫
+ELIMINATIONS	(ad) elimination sözcüğünün çoğul çekimi: eliminasyon
+ELISION	(ad) son ses düşmesi
+ELISIONS	(ad) çoğul çekimi: elision
+ELITE	(sıfat) elit: Seçkin ya da seçkinler, bir toplumda gücü ve saygınlığı olan küçük toplumsal küme.
+ELITES	(ad) çoğul çekimi: elite
+ELITISTS	(ad) çoğul çekimi: elitist
+ELIXIR	(ad) eliksir: Öksürük çareleri gibi sıvı ilaçların bazını oluşturan, sıklıkla alkol içeren, berrak, tatlandırılmış bir sıvı.
+ELIXIRS	(ad) çoğul çekimi: elixir
+ELK	(ad) elk kelimesinin karşılığı: ⟪sığın|SIĞIN⟫
+ELKHOUNDS	(ad) çoğul çekimi: elkhound
+ELKS	(ad) çoğul çekimi: elk
+ELL	(ad) arşın: yaklaşık 68 cm olan uzunluk ölçüsü
+ELLIPSE	(ad) ellipse kelimesinin karşılığı: ⟪eksilti|EKSİLTİ⟫
+ELLIPSES	(ellipsis sözcüğünün çekimi) (ad) eksilti: anlatımda kolaylık sağlamak üzere sözcükteki eklerin veya cümledeki sözcüklerin azaltılarak kullanılması...
+ELLIPSIS	(ad) eksilti: anlatımda kolaylık sağlamak üzere sözcükteki eklerin veya cümledeki sözcüklerin azaltılarak kullanılması olayı, elips
+ELLIPSOIDS	(ad) çoğul çekimi: ellipsoid
+ELLIPTIC	(ad) oval: özellikle elips gibi iki simetri ekseni olan kapalı eğrinin oluşturduğu şekil
+ELLIPTICAL	(ad) eksiltili: kısalmış
+ELLIPTICALS	(elliptical sözcüğünün çekimi) (ad) eksiltili: kısalmış
+ELLS	(ad) çoğul çekimi: ell
+ELM	(ad) karaağaç: karaağaçgillerin örnek bitkisi olan, kerestesi değerli bir ağaç; narven, (Ulmus). (ayrıca: narven)
+ELMS	(ad) çoğul çekimi: elm
+ELOCUTION	(ad) elocution kelimesinin karşılığı: konuşma eğitimi
+ELOCUTIONISTS	(ad) çoğul çekimi: elocutionist
+ELOCUTIONS	(elocution sözcüğünün çekimi) (ad) elocution kelimesinin karşılığı: konuşma eğitimi
+ELODEAS	(ad) çoğul çekimi: elodea
+ELONGATE	(eylem) uzatmak: başı, kolları veya bacakları bir yere yöneltmek
+ELONGATED	(elongate sözcüğünün çekimi) (eylem) uzatmak: başı, kolları veya bacakları bir yere yöneltmek
+ELONGATES	(elongate sözcüğünün çekimi) (eylem) uzatmak: başı, kolları veya bacakları bir yere yöneltmek
+ELONGATING	(elongate sözcüğünün çekimi) (eylem) uzatmak: başı, kolları veya bacakları bir yere yöneltmek
+ELOPE	(ad) evlenmek için evden kaçmak; kocaya kaçmak
+ELOPED	(elope sözcüğünün çekimi) (ad) evlenmek için evden kaçmak; kocaya kaçmak
+ELOPEMENTS	(ad) çoğul çekimi: elopement
+ELOPES	(elope sözcüğünün çekimi) (ad) evlenmek için evden kaçmak; kocaya kaçmak
+ELOPING	(elope sözcüğünün çekimi) (ad) evlenmek için evden kaçmak; kocaya kaçmak
+ELOQUENCE	(ad) belagat; etkileyici dil kullanımı
+ELOQUENCES	(eloquence sözcüğünün çekimi) (ad) belagat; etkileyici dil kullanımı
+ELSE	(zarf) başka: ayrıca, üstelik, bir yana anlamlarında -den başka şeklinde kullanılan söz
+ELUATE	(ad) eluate kelimesinin karşılığı: eluat
+ELUATES	(eluate sözcüğünün çekimi) (ad) eluate kelimesinin karşılığı: eluat
+ELUCIDATE	(eylem) açıklamak: sorunla ilgili aydınlatıcı bilgi vermek, tavzih etmek (ayrıca: izah etmek)
+ELUCIDATED	(elucidate sözcüğünün çekimi) (eylem) açıklamak: sorunla ilgili aydınlatıcı bilgi vermek, tavzih etmek (ayrıca: izah etmek)
+ELUCIDATES	(elucidate sözcüğünün çekimi) (eylem) açıklamak: sorunla ilgili aydınlatıcı bilgi vermek, tavzih etmek (ayrıca: izah etmek)
+ELUCIDATING	(elucidate sözcüğünün çekimi) (eylem) açıklamak: sorunla ilgili aydınlatıcı bilgi vermek, tavzih etmek (ayrıca: izah etmek)
+ELUDE	(ad) kurtulmak: bir şey bulunduğu veya bağlı olduğu yerden ayrılmak (ayrıca: yakayı kurtarmak, paçayı kurtarmak)
+ELUDED	(elude sözcüğünün çekimi) (ad) kurtulmak: bir şey bulunduğu veya bağlı olduğu yerden ayrılmak (ayrıca: yakayı kurtarmak, paçayı kurtarmak)
+ELUDER	(elude sözcüğünün çekimi) (ad) kurtulmak: bir şey bulunduğu veya bağlı olduğu yerden ayrılmak (ayrıca: yakayı kurtarmak, paçayı kurtarmak)
+ELUDES	(elude sözcüğünün çekimi) (ad) kurtulmak: bir şey bulunduğu veya bağlı olduğu yerden ayrılmak (ayrıca: yakayı kurtarmak, paçayı kurtarmak)
+ELUDING	(elude sözcüğünün çekimi) (ad) kurtulmak: bir şey bulunduğu veya bağlı olduğu yerden ayrılmak (ayrıca: yakayı kurtarmak, paçayı kurtarmak)
+ELUSION	(ad) elusion kelimesinin karşılığı: elüsyon
+ELUSIONS	(elusion sözcüğünün çekimi) (ad) elusion kelimesinin karşılığı: elüsyon
+ELUSIVE	(sıfat) elusive kelimesinin karşılığı: yakalanması zor, elden kaçan, ele geçmez
+ELUSIVELY	(elusive sözcüğünün çekimi) (sıfat) elusive kelimesinin karşılığı: yakalanması zor, elden kaçan, ele geçmez
+ELUSIVENESS	(ad) elusiveness kelimesinin karşılığı: ⟪erişilemezlik|ERİŞİLEMEZLİK⟫
+ELUSIVENESSES	(elusiveness sözcüğünün çekimi) (ad) elusiveness kelimesinin karşılığı: ⟪erişilemezlik|ERİŞİLEMEZLİK⟫
+ELUTRIATIONS	(ad) çoğul çekimi: elutriation
+ELVERS	(ad) çoğul çekimi: elver
+EMACIATED	(sıfat) zayıf; sıska; bir deri bir kemik
+EMANATE	(eylem) çıkmak: Görünür veya belli bir durumda bulunmak. (ayrıca: yayılmak, ortaya çıkmak)
+EMANATED	(emanate sözcüğünün çekimi) (eylem) çıkmak: Görünür veya belli bir durumda bulunmak. (ayrıca: yayılmak, ortaya çıkmak)
+EMANATES	(emanate sözcüğünün çekimi) (eylem) çıkmak: Görünür veya belli bir durumda bulunmak. (ayrıca: yayılmak, ortaya çıkmak)
+EMANATING	(emanate sözcüğünün çekimi) (eylem) çıkmak: Görünür veya belli bir durumda bulunmak. (ayrıca: yayılmak, ortaya çıkmak)
+EMANATIONS	(ad) çoğul çekimi: emanation
+EMANCIPATE	(eylem) emancipate kelimesinin karşılığı: azat etmek, özgürlüğüne kavuşturmak, serbest bırakmak
+EMANCIPATED	(emancipate sözcüğünün çekimi) (eylem) emancipate kelimesinin karşılığı: azat etmek, özgürlüğüne kavuşturmak, serbest bırakmak
+EMANCIPATES	(emancipate sözcüğünün çekimi) (eylem) emancipate kelimesinin karşılığı: azat etmek, özgürlüğüne kavuşturmak, serbest bırakmak
+EMANCIPATING	(emancipate sözcüğünün çekimi) (eylem) emancipate kelimesinin karşılığı: azat etmek, özgürlüğüne kavuşturmak, serbest bırakmak
+EMANCIPATION	(ad) hürriyet: her türlü dış tesirlerden bağımsız olarak insanın kendi iradesine, kendi fikirlerine dayanarak karar vermesi hâli
+EMANCIPATIONS	(ad) çoğul çekimi: emancipation
+EMANCIPATORS	(ad) çoğul çekimi: emancipator
+EMASCULATE	(eylem) emasculate kelimesinin karşılığı: kısır yapmak
+EMASCULATED	(emasculate sözcüğünün çekimi) (eylem) emasculate kelimesinin karşılığı: kısır yapmak
+EMASCULATES	(emasculate sözcüğünün çekimi) (eylem) emasculate kelimesinin karşılığı: kısır yapmak
+EMASCULATING	(emasculate sözcüğünün çekimi) (eylem) emasculate kelimesinin karşılığı: kısır yapmak
+EMASCULATIONS	(ad) çoğul çekimi: emasculation
+EMBALMERS	(ad) çoğul çekimi: embalmer
+EMBANKMENTS	(ad) çoğul çekimi: embankment
+EMBARGO	(ad) ambargo: bir devletin, gemilerin kendi limanlarından ayrılmasını yasaklama buyruğu, engelleyim
+EMBARGOED	(embargo sözcüğünün çekimi) (ad) ambargo: bir devletin, gemilerin kendi limanlarından ayrılmasını yasaklama buyruğu, engelleyim
+EMBARGOES	(embargo sözcüğünün çekimi) (ad) ambargo: bir devletin, gemilerin kendi limanlarından ayrılmasını yasaklama buyruğu, engelleyim
+EMBARGOING	(embargo sözcüğünün çekimi) (ad) ambargo: bir devletin, gemilerin kendi limanlarından ayrılmasını yasaklama buyruğu, engelleyim
+EMBARK	(eylem) binmek; gemiye, uçağa veya bir araca binmek.
+EMBARKED	(embark sözcüğünün çekimi) (eylem) binmek; gemiye, uçağa veya bir araca binmek.
+EMBARKING	(embark sözcüğünün çekimi) (eylem) binmek; gemiye, uçağa veya bir araca binmek.
+EMBARKS	(embark sözcüğünün çekimi) (eylem) binmek; gemiye, uçağa veya bir araca binmek.
+EMBARRASSED	(eylem) embarrass sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+EMBARRASSMENT	(ad) utanma; mahcubiyet; sıkılma; kendini rezil olmuş hissetme
+EMBARRASSMENTS	(ad) çoğul çekimi: embarrassment
+EMBASSAGES	(ad) çoğul çekimi: embassage
+EMBASSIES	(ad) çoğul çekimi: embassy
+EMBASSY	(ad) embassy kelimesinin karşılığı: ⟪elçilik|ELÇİLİK⟫
+EMBED	(eylem) embed kelimesinin karşılığı: içe yerleştirmek
+EMBEDDED	(sıfat) embedded kelimesinin karşılığı: içeyerleşik
+EMBEDDING	(ad) embedding kelimesinin karşılığı: içe yerleştirme
+EMBEDS	(ad) çoğul çekimi: embed
+EMBELLISH	(eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak, bezemek, donamak, tezyin etmek (ayrıca: güzelleştirmek)
+EMBELLISHED	(embellish sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+EMBELLISHES	(embellish sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+EMBELLISHING	(embellish sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+EMBELLISHMENT	(ad) süsleme: süsleri yerleştirme biçimi veya sanatı (ayrıca: süs)
+EMBELLISHMENTS	(ad) çoğul çekimi: embellishment
+EMBER	(ad) kor: tamamen yanarak ateş durumuna gelmiş odun ya da kömür
+EMBERS	(ad) çoğul çekimi: ember
+EMBEZZLE	(eylem) embezzle kelimesinin karşılığı: zimmetine geçirmek
+EMBEZZLED	(embezzle sözcüğünün çekimi) (eylem) embezzle kelimesinin karşılığı: zimmetine geçirmek
+EMBEZZLEMENT	(ad) embezzlement kelimesinin karşılığı: ⟪aşırtı|AŞIRTI⟫, ⟪ihtilas|İHTİLAS⟫, hortumculuk, zimmetine geçirme
+EMBEZZLEMENTS	(ad) embezzlement sözcüğünün çoğul çekimi: aşırtı, ihtilas, hortumculuk, zimmetine geçirme
+EMBEZZLERS	(ad) çoğul çekimi: embezzler
+EMBEZZLES	(embezzle sözcüğünün çekimi) (eylem) embezzle kelimesinin karşılığı: zimmetine geçirmek
+EMBEZZLING	(embezzle sözcüğünün çekimi) (eylem) embezzle kelimesinin karşılığı: zimmetine geçirmek
+EMBITTERMENT	(ad) acılaşma: acılaşmak durumu
+EMBITTERMENTS	(embitterment sözcüğünün çekimi) (ad) acılaşma: acılaşmak durumu
+EMBLAZON	(eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak, bezemek, donamak, tezyin etmek (ayrıca: tezyin etmek, armayla süslemek)
+EMBLAZONED	(emblazon sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+EMBLAZONERS	(ad) çoğul çekimi: emblazoner
+EMBLAZONING	(emblazon sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+EMBLAZONS	(emblazon sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+EMBLEM	(ad) belirtke: soyut bir şeyin, bir kavramın sembolü olan varlık veya eşya, amblem (ayrıca: amblem)
+EMBLEMED	(emblem sözcüğünün çekimi) (ad) belirtke: soyut bir şeyin, bir kavramın sembolü olan varlık veya eşya, amblem (ayrıca: amblem)
+EMBLEMENTS	(ad) çoğul çekimi: emblement
+EMBLEMING	(emblem sözcüğünün çekimi) (ad) belirtke: soyut bir şeyin, bir kavramın sembolü olan varlık veya eşya, amblem (ayrıca: amblem)
+EMBLEMS	(emblem sözcüğünün çekimi) (ad) belirtke: soyut bir şeyin, bir kavramın sembolü olan varlık veya eşya, amblem (ayrıca: amblem)
+EMBODIMENTS	(ad) çoğul çekimi: embodiment
+EMBOLISMS	(ad) çoğul çekimi: embolism
+EMBOSSERS	(ad) çoğul çekimi: embosser
+EMBOUCHURE	(ad) embouchure kelimesinin karşılığı: ⟪ağızlık|AĞIZLIK⟫
+EMBOUCHURES	(embouchure sözcüğünün çekimi) (ad) embouchure kelimesinin karşılığı: ⟪ağızlık|AĞIZLIK⟫
+EMBRACE	(sıfat) kucak: açık kollarla göğüs arasına sığabilen miktarda olan
+EMBRACED	(embrace sözcüğünün çekimi) (sıfat) kucak: açık kollarla göğüs arasına sığabilen miktarda olan
+EMBRACEORS	(ad) çoğul çekimi: embraceor
+EMBRACERS	(ad) çoğul çekimi: embracer
+EMBRACES	(ad) çoğul çekimi: embrace
+EMBRACING	(eylem) embrace sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kucak
+EMBRASURE	(ad) barbakan: Kale duvarlarında düşmana ok atmak için açılmış delik
+EMBRASURES	(embrasure sözcüğünün çekimi) (ad) barbakan: Kale duvarlarında düşmana ok atmak için açılmış delik
+EMBROIDER	(eylem) nakışla süslemek; oya ile süslemek; işleme ile süslemek
+EMBROIDERED	(sıfat) işleme: ince ve süslü işlenmiş
+EMBROIDERERS	(ad) çoğul çekimi: embroiderer
+EMBROIDERIES	(ad) çoğul çekimi: embroidery
+EMBROIDERING	(embroider sözcüğünün çekimi) (eylem) nakışla süslemek; oya ile süslemek; işleme ile süslemek
+EMBROIDERS	(embroider sözcüğünün çekimi) (eylem) nakışla süslemek; oya ile süslemek; işleme ile süslemek
+EMBROIL	(eylem) embroil kelimesinin karşılığı: kavgaya karışmak, kavgaya bulaşmak
+EMBROILED	(embroil sözcüğünün çekimi) (eylem) embroil kelimesinin karşılığı: kavgaya karışmak, kavgaya bulaşmak
+EMBROILING	(embroil sözcüğünün çekimi) (eylem) embroil kelimesinin karşılığı: kavgaya karışmak, kavgaya bulaşmak
+EMBROILMENTS	(ad) çoğul çekimi: embroilment
+EMBROILS	(embroil sözcüğünün çekimi) (eylem) embroil kelimesinin karşılığı: kavgaya karışmak, kavgaya bulaşmak
+EMBRYO	(ad) embryo kelimesinin karşılığı: ⟪oğulcuk|OĞULCUK⟫, ⟪rüşeym|RÜŞEYM⟫, ⟪embriyo|EMBRİYO⟫
+EMBRYOLOGISTS	(ad) çoğul çekimi: embryologist
+EMBRYOS	(ad) çoğul çekimi: embryo
+EMCEES	(ad) çoğul çekimi: emcee
+EMERALD	(ad) zümrüt: Cam parlaklığında, yeşil renkte, saydam bir süs taşı, doğal alüminyum ve berilyum silikatı
+EMERALDS	(ad) çoğul çekimi: emerald
+EMERGENCE	(ad) zuhur: Ortaya çıkma, görünme, belirme, baş gösterme, meydana çıkma.
+EMERGENCES	(emergence sözcüğünün çekimi) (ad) zuhur: Ortaya çıkma, görünme, belirme, baş gösterme, meydana çıkma.
+EMERGENCIES	(ad) emergency sözcüğünün çoğul çekimi: acil durum
+EMERGENCY	(ad) emergency kelimesinin karşılığı: acil durum\n(sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+EMERIES	(emery sözcüğünün çekimi) (ad) emery kelimesinin karşılığı: ⟪zımpara|ZIMPARA⟫
+EMERY	(ad) emery kelimesinin karşılığı: ⟪zımpara|ZIMPARA⟫
+EMETICS	(ad) çoğul çekimi: emetic
+EMIGRANT	(ad) başka bir ülkeye yerleşmek üzere ülkesini terkeden kişi, göçmen.
+EMIGRANTS	(ad) çoğul çekimi: emigrant
+EMIGRATING	(ad) emigrating kelimesinin karşılığı: ⟪göçebeleşme|GÖÇEBELEŞME⟫
+EMIGRATIONS	(ad) çoğul çekimi: emigration
+EMIGRES	(ad) çoğul çekimi: emigre
+EMINENCES	(ad) çoğul çekimi: eminence
+EMINENT	(sıfat) seçkin: Benzerleri arasında niteliklerinin yüksekliğiyle göze çarpan, üstün, mümtaz, güzide, mutena, elit
+EMIR	(ad) emîr: Araplarda ve bazı Müslüman ülkelerde bir kavim, şehir veya ülkenin başı, bey, emirlik başkanı, mir
+EMIRATE	(ad) emirlik: Bir emirle yönetilen bölge
+EMIRATES	(emirate sözcüğünün çekimi) (ad) emirlik: Bir emirle yönetilen bölge
+EMIRS	(emir sözcüğünün çekimi) (ad) emîr: Araplarda ve bazı Müslüman ülkelerde bir kavim, şehir veya ülkenin başı, bey, emirlik başkanı, mir
+EMISSARIES	(ad) çoğul çekimi: emissary
+EMISSARY	(ad) emissary kelimesinin karşılığı: ⟪sefir|SEFİR⟫
+EMISSION	(ad) emisyon: Çıkarma (ayrıca: çıkarma)
+EMISSIONS	(ad) çoğul çekimi: emission
+EMITTERS	(ad) çoğul çekimi: emitter
+EMMER	(ad) emmer kelimesinin karşılığı: kavılca buğdayı
+EMMERS	(ad) çoğul çekimi: emmer
+EMMETS	(ad) çoğul çekimi: emmet
+EMOLLIENTS	(ad) çoğul çekimi: emollient
+EMOLUMENTS	(ad) çoğul çekimi: emolument
+EMOTES	(ad) çoğul çekimi: emote
+EMOTIONAL	(sıfat) duygusal: duygularla ilgili, duygulara dayanan, hissî (ayrıca: emosyonel)
+EMOTIONS	(ad) emotion sözcüğünün çoğul çekimi
+EMOTIVE	(sıfat) duygusal: duygularla ilgili, duygulara dayanan, hissî (ayrıca: hissî)
+EMOTIVELY	(emotive sözcüğünün çekimi) (sıfat) duygusal: duygularla ilgili, duygulara dayanan, hissî (ayrıca: hissî)
+EMPATHIES	(empathy sözcüğünün çekimi) (ad) empati: Bir başkasının duygularını, içinde bulunduğu durum ya da davranışlarındaki motivasyonu anlamak ve...
+EMPATHY	(ad) empati: Bir başkasının duygularını, içinde bulunduğu durum ya da davranışlarındaki motivasyonu anlamak ve içselleştirmek
+EMPEROR	(ad) imparator: Bir imparatorluğu yöneten kimse (ayrıca: ilhan)
+EMPERORS	(ad) çoğul çekimi: emperor
+EMPHASES	(emphasis sözcüğünün çekimi) (ad) emphasis kelimesinin karşılığı: ⟪vurgu|VURGU⟫
+EMPHASIS	(ad) emphasis kelimesinin karşılığı: ⟪vurgu|VURGU⟫
+EMPHASISES	(emphasis sözcüğünün çekimi) (ad) emphasis kelimesinin karşılığı: ⟪vurgu|VURGU⟫
+EMPHATIC	(sıfat) tumturaklı: Anlama bir şey katmayan, bir anlam bildirmeyen ancak kulağa hoş gelen.
+EMPIRE	(ad) imparatorluk: imparator olma durumu veya unvanı
+EMPIRES	(ad) empire sözcüğünün çoğul çekimi: imparatorluk
+EMPIRIC	(sıfat) empiric kelimesinin karşılığı: ⟪ampirik|AMPİRİK⟫
+EMPIRICAL	(sıfat) empirical kelimesinin karşılığı: ⟪ampirik|AMPİRİK⟫, ⟪deneysel|DENEYSEL⟫
+EMPIRICISM	(ad) deneycilik: organizma ile durum veya çevre arasında bir etkileşim olarak yaşantıya önem veren, bilgiyi, simgelerle iletişimi yapılan denetimli ve yeniden düzenlenmiş yaşantı biçiminde düşünen çağdaş bir felsefe anlayışı, görgücülük, ampirizm (ayrıca: ampirizm, görgücülük)
+EMPIRICISMS	(ad) çoğul çekimi: empiricism
+EMPIRICIST	(ad) empiricist kelimesinin karşılığı: ⟪deneyimcilik|DENEYİMCİLİK⟫
+EMPIRICISTS	(ad) çoğul çekimi: empiricist
+EMPIRICS	(empiric sözcüğünün çekimi) (sıfat) empiric kelimesinin karşılığı: ⟪ampirik|AMPİRİK⟫
+EMPLOYEE	(ad) çalışan: çalışma işini yapan kişi
+EMPLOYEES	(ad) employee sözcüğünün çoğul çekimi: çalışan
+EMPLOYER	(ad) işveren: işçileri ücretle çalıştıran gerçek veya tüzel kişi, çalıştıran, patron
+EMPLOYERS	(ad) employer sözcüğünün çoğul çekimi: işveren
+EMPLOYES	(ad) çoğul çekimi: employe
+EMPLOYMENT	(ad) çalışma: çalışmak işi, faaliyet
+EMPLOYMENTS	(ad) çoğul çekimi: employment
+EMPORIUMS	(ad) çoğul çekimi: emporium
+EMPRESS	(ad) imparatoriçe: imparator eşi
+EMPRESSES	(empress sözcüğünün çekimi) (ad) imparatoriçe: imparator eşi
+EMPTIED	(empty sözcüğünün çekimi) (ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPTIER	(empty sözcüğünün çekimi) (ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPTIERS	(empty sözcüğünün çekimi) (ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPTIES	(ad) çoğul çekimi: empty
+EMPTIEST	(empty sözcüğünün çekimi) (ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPTILY	(empty sözcüğünün çekimi) (ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPTY	(ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫\n(zarf) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPTYING	(empty sözcüğünün çekimi) (ad) empty kelimesinin karşılığı: ⟪boş|BOŞ⟫
+EMPYEMA	(ad) ampiyem: Doğal boşluklarda bulunan irinli birikim.
+EMPYEMAS	(empyema sözcüğünün çekimi) (ad) ampiyem: Doğal boşluklarda bulunan irinli birikim.
+EMS	(ad) çoğul çekimi: em
+EMULATE	(eylem) emulate kelimesinin karşılığı: taklit etmek
+EMULATED	(emulate sözcüğünün çekimi) (eylem) emulate kelimesinin karşılığı: taklit etmek
+EMULATES	(emulate sözcüğünün çekimi) (eylem) emulate kelimesinin karşılığı: taklit etmek
+EMULATING	(emulate sözcüğünün çekimi) (eylem) emulate kelimesinin karşılığı: taklit etmek
+EMULATOR	(ad) öykünücü: Birinin yaptığı gibi yapan, birine ya da bir şeye benzemeye çalışan.
+EMULATORS	(ad) çoğul çekimi: emulator
+EMULSIFIER	(ad) emülsifiye edici madde
+EMULSIFIERS	(ad) çoğul çekimi: emulsifier
+EMULSION	(ad) emülsiyon: bir sıvının çözünmediği başka bir sıvı içinde mikroskobik boyutlu damlacıklar halinde dağılıp asılı kalması sonucu oluşan karışım
+EMULSIONS	(ad) çoğul çekimi: emulsion
+ENABLE	(eylem) enable kelimesinin karşılığı: etkinlemek
+ENABLED	(sıfat) enabled kelimesinin karşılığı: etkinlenmiş
+ENABLER	(enable sözcüğünün çekimi) (eylem) enable kelimesinin karşılığı: etkinlemek
+ENABLES	(enable sözcüğünün çekimi) (eylem) enable kelimesinin karşılığı: etkinlemek
+ENABLING	(enable sözcüğünün çekimi) (eylem) enable kelimesinin karşılığı: etkinlemek
+ENACTMENTS	(ad) çoğul çekimi: enactment
+ENACTORS	(ad) çoğul çekimi: enactor
+ENAMEL	(ad) enamel kelimesinin karşılığı: diş minesi
+ENAMELED	(enamel sözcüğünün çekimi) (ad) enamel kelimesinin karşılığı: diş minesi
+ENAMELERS	(ad) çoğul çekimi: enameler
+ENAMELING	(enamel sözcüğünün çekimi) (ad) enamel kelimesinin karşılığı: diş minesi
+ENAMELLED	(enamel sözcüğünün çekimi) (ad) enamel kelimesinin karşılığı: diş minesi
+ENAMELLING	(enamel sözcüğünün çekimi) (ad) enamel kelimesinin karşılığı: diş minesi
+ENAMELS	(ad) çoğul çekimi: enamel
+ENAMINES	(ad) çoğul çekimi: enamine
+ENAMORED	(sıfat) âşıklı: çok seven, düşkün, tutkun
+ENANTIOMER	(ad) enantiomer kelimesinin karşılığı: enantiyomer
+ENANTIOMERS	(ad) çoğul çekimi: enantiomer
+ENANTIOMORPHS	(ad) çoğul çekimi: enantiomorph
+ENATIONS	(ad) çoğul çekimi: enation
+ENCAMPMENTS	(ad) çoğul çekimi: encampment
+ENCAPSULATE	(eylem) encapsulate kelimesinin karşılığı: ⟪sarmalamak|SARMALAMAK⟫
+ENCAPSULATED	(encapsulate sözcüğünün çekimi) (eylem) encapsulate kelimesinin karşılığı: ⟪sarmalamak|SARMALAMAK⟫
+ENCAPSULATES	(encapsulate sözcüğünün çekimi) (eylem) encapsulate kelimesinin karşılığı: ⟪sarmalamak|SARMALAMAK⟫
+ENCAPSULATING	(encapsulate sözcüğünün çekimi) (eylem) encapsulate kelimesinin karşılığı: ⟪sarmalamak|SARMALAMAK⟫
+ENCAPSULATION	(ad) kapsülleme: eczacılıkta tedavi için kullanılan kimyasal maddelerin kapsüllere kapatılarak alımını ve yerinde etkisini sağlama için kullanılan üretim metodu
+ENCAPSULATIONS	(encapsulation sözcüğünün çekimi) (ad) kapsülleme: eczacılıkta tedavi için kullanılan kimyasal maddelerin kapsüllere kapatılarak alımını ve yerinde...
+ENCASEMENTS	(ad) çoğul çekimi: encasement
+ENCAUSTICS	(ad) çoğul çekimi: encaustic
+ENCEPHALOGRAMS	(ad) çoğul çekimi: encephalogram
+ENCEPHALOGRAPHIES	(ad) çoğul çekimi: encephalography
+ENCEPHALOPATHIES	(ad) çoğul çekimi: encephalopathy
+ENCHANTERS	(ad) çoğul çekimi: enchanter
+ENCHANTING	(sıfat) enchanting kelimesinin karşılığı: ⟪cazibeli|CAZİBELİ⟫
+ENCHANTMENTS	(ad) çoğul çekimi: enchantment
+ENCHANTRESSES	(ad) çoğul çekimi: enchantress
+ENCHILADAS	(ad) çoğul çekimi: enchilada
+ENCIRCLE	(eylem) encircle kelimesinin karşılığı: ⟪kuşatmak|KUŞATMAK⟫, ablukaya almak, abluka etmek, ihata etmek
+ENCIRCLED	(encircle sözcüğünün çekimi) (eylem) encircle kelimesinin karşılığı: ⟪kuşatmak|KUŞATMAK⟫, ablukaya almak, abluka etmek, ihata etmek
+ENCIRCLEMENTS	(ad) çoğul çekimi: encirclement
+ENCIRCLES	(encircle sözcüğünün çekimi) (eylem) encircle kelimesinin karşılığı: ⟪kuşatmak|KUŞATMAK⟫, ablukaya almak, abluka etmek, ihata etmek
+ENCIRCLING	(ad) encircling kelimesinin karşılığı: ⟪kuşatma|KUŞATMA⟫
+ENCLITIC	(ad) enclitic kelimesinin karşılığı: bitiştirilmiş söz, mustenit
+ENCLITICS	(ad) çoğul çekimi: enclitic
+ENCLOSING	(ad) enclosing kelimesinin karşılığı: ⟪kuşatma|KUŞATMA⟫
+ENCLOSURE	(ad) iliştirilmiş veya eklenmiş (şey), ilişik, ek
+ENCLOSURES	(ad) çoğul çekimi: enclosure
+ENCODE	(ad) encode kelimesinin karşılığı: ⟪düğümleme|DÜĞÜMLEME⟫\n(eylem) kodlamak: Bir iletiyi, bilgiyi, veriyi (vb.) koda dönüştürmek.
+ENCODED	(encode sözcüğünün çekimi) (ad) encode kelimesinin karşılığı: ⟪düğümleme|DÜĞÜMLEME⟫
+ENCODES	(encode sözcüğünün çekimi) (ad) encode kelimesinin karşılığı: ⟪düğümleme|DÜĞÜMLEME⟫
+ENCODING	(ad) encoding kelimesinin karşılığı: düzenekleme
+ENCOMIA	(ad) çoğul çekimi: encomium
+ENCORES	(ad) çoğul çekimi: encore
+ENCOUNTER	(eylem) karşılaşmak: karşı karşıya gelmek, rastlaşmak
+ENCOUNTERED	(encounter sözcüğünün çekimi) (eylem) karşılaşmak: karşı karşıya gelmek, rastlaşmak
+ENCOUNTERING	(encounter sözcüğünün çekimi) (eylem) karşılaşmak: karşı karşıya gelmek, rastlaşmak
+ENCOUNTERS	(ad) encounter sözcüğünün çoğul çekimi: karşılaşmak
+ENCROACHERS	(ad) çoğul çekimi: encroacher
+ENCROACHMENTS	(ad) çoğul çekimi: encroachment
+ENCRUSTATIONS	(ad) çoğul çekimi: encrustation
+ENCRYPT	(eylem) encrypt kelimesinin karşılığı: ⟪şifrelemek|ŞİFRELEMEK⟫
+ENCRYPTED	(eylem) encrypt sözcüğünün geçmiş zaman çekimi: şifrelemek\n(sıfat) encrypted kelimesinin karşılığı: şifrelenmiş, ⟪şifreli|ŞİFRELİ⟫
+ENCRYPTING	(encrypt sözcüğünün çekimi) (eylem) encrypt kelimesinin karşılığı: ⟪şifrelemek|ŞİFRELEMEK⟫
+ENCRYPTIONS	(ad) çoğul çekimi: encryption
+ENCRYPTS	(encrypt sözcüğünün çekimi) (eylem) encrypt kelimesinin karşılığı: ⟪şifrelemek|ŞİFRELEMEK⟫
+ENCUMBRANCES	(ad) çoğul çekimi: encumbrance
+ENCYCLOPAEDIA	(ad) ansiklopedi: Bilim, kültür, sanat, günlük yaşam vb. ile ilgili her türlü bilginin yer aldığı, belli bir yönteme göre genellikle alfabetik olarak düzenlenen, çoğunlukla birkaç ciltten oluşan kitap; bilgilik
+ENCYCLOPAEDIAS	(ad) çoğul çekimi: encyclopaedia
+ENCYCLOPEDIA	(ad) ansiklopedi: Bilim, kültür, sanat, günlük yaşam vb. ile ilgili her türlü bilginin yer aldığı, belli bir yönteme göre genellikle alfabetik olarak düzenlenen, çoğunlukla birkaç ciltten oluşan kitap; bilgilik
+ENCYCLOPEDIAS	(ad) çoğul çekimi: encyclopedia
+ENCYCLOPEDIC	(sıfat) encyclopedic kelimesinin karşılığı: ⟪ansiklopedik|ANSİKLOPEDİK⟫
+ENCYSTMENTS	(ad) çoğul çekimi: encystment
+END	(ad) son: arkadan gelen
+ENDANGER	(eylem) endanger kelimesinin karşılığı: tehlikeye atmak
+ENDANGERED	(endanger sözcüğünün çekimi) (eylem) endanger kelimesinin karşılığı: tehlikeye atmak
+ENDANGERING	(endanger sözcüğünün çekimi) (eylem) endanger kelimesinin karşılığı: tehlikeye atmak
+ENDANGERMENTS	(ad) çoğul çekimi: endangerment
+ENDANGERS	(endanger sözcüğünün çekimi) (eylem) endanger kelimesinin karşılığı: tehlikeye atmak
+ENDEARMENTS	(ad) endearment sözcüğünün çoğul çekimi
+ENDEAVOR	(ad) endeavor kelimesinin karşılığı: ⟪çaba|ÇABA⟫, ⟪gayret|GAYRET⟫, ⟪uğraş|UĞRAŞ⟫\n(eylem) çabalamak: bir işi başarmak için uğraşmak, gayret etmek (ayrıca: gayret etmek, uğraşmak)
+ENDEAVORED	(endeavor sözcüğünün çekimi) (ad) endeavor kelimesinin karşılığı: ⟪çaba|ÇABA⟫, ⟪gayret|GAYRET⟫, ⟪uğraş|UĞRAŞ⟫
+ENDEAVORING	(endeavor sözcüğünün çekimi) (ad) endeavor kelimesinin karşılığı: ⟪çaba|ÇABA⟫, ⟪gayret|GAYRET⟫, ⟪uğraş|UĞRAŞ⟫
+ENDEAVORS	(ad) çoğul çekimi: endeavor
+ENDEAVOUR	(ad) çaba: herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor
+ENDEAVOURED	(endeavour sözcüğünün çekimi) (ad) çaba: herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor
+ENDEAVOURING	(endeavour sözcüğünün çekimi) (ad) çaba: herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor
+ENDEAVOURS	(ad) çoğul çekimi: endeavour
+ENDED	(eylem) end sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: son
+ENDGAME	(ad) final; son aşama; oyun sonu; oyunun son bölümü.
+ENDGAMES	(ad) çoğul çekimi: endgame
+ENDING	(ad) ending kelimesinin karşılığı: ⟪bitme|BİTME⟫, ⟪bitim|BİTİM⟫, ⟪finiş|FİNİŞ⟫
+ENDINGS	(ad) ending sözcüğünün çoğul çekimi: bitme, bitim, finiş
+ENDIVE	(ad) hindiba: papatyagillerden, yaprakları haşlanarak salata gibi yenebilen, bir yıllık bitki, güneğik, karakavuk (Cichorium endivia), acı marul, güneğik (ayrıca: acı marul)
+ENDIVES	(endive sözcüğünün çekimi) (ad) hindiba: papatyagillerden, yaprakları haşlanarak salata gibi yenebilen, bir yıllık bitki, güneğik, karakavuk...
+ENDLESS	(sıfat) sonsuz: sonu olmayan, bitmeyen, ebedî
+ENDOCARPS	(ad) çoğul çekimi: endocarp
+ENDOCRINES	(ad) çoğul çekimi: endocrine
+ENDOCRINOLOGIES	(endocrinology sözcüğünün çekimi) (ad) iç salgı bilimi, endokrinoloji
+ENDOCRINOLOGY	(ad) iç salgı bilimi, endokrinoloji
+ENDOGAMIES	(endogamy sözcüğünün çekimi) (ad) endogami: iç evlilik (ayrıca: iç evlilik, içten evlilik)
+ENDOGAMY	(ad) endogami: iç evlilik (ayrıca: iç evlilik, içten evlilik)
+ENDOGENOUS	(ad) endogenous kelimesinin karşılığı: endojen
+ENDOMETRIA	(endometrium sözcüğünün çekimi) (ad) endometriyum: Döl yatağının tunika mukozasını oluşturan iç zarı
+ENDOMETRIUM	(ad) endometriyum: Döl yatağının tunika mukozasını oluşturan iç zarı
+ENDOMORPHS	(ad) çoğul çekimi: endomorph
+ENDONUCLEASES	(ad) çoğul çekimi: endonuclease
+ENDORPHINS	(ad) çoğul çekimi: endorphin
+ENDORSE	(eylem) endorse kelimesinin karşılığı: açıkça onaylamak, destek vermek
+ENDORSED	(endorse sözcüğünün çekimi) (eylem) endorse kelimesinin karşılığı: açıkça onaylamak, destek vermek
+ENDORSEES	(ad) çoğul çekimi: endorsee
+ENDORSEMENT	(ad) endorsement kelimesinin karşılığı: ⟪destek|DESTEK⟫, ⟪onay|ONAY⟫, ⟪onaylama|ONAYLAMA⟫, ⟪tasdik|TASDİK⟫
+ENDORSEMENTS	(ad) endorsement sözcüğünün çoğul çekimi: destek; onay; onaylama; tasdik; teyit
+ENDORSERS	(ad) çoğul çekimi: endorser
+ENDORSES	(ad) çoğul çekimi: endorse
+ENDORSING	(endorse sözcüğünün çekimi) (eylem) endorse kelimesinin karşılığı: açıkça onaylamak, destek vermek
+ENDOSPERMS	(ad) çoğul çekimi: endosperm
+ENDOSPORE	(ad) endospor: Bakteri hücresi içinde yerleşmiş ısıya dirençli spor
+ENDOSPORES	(ad) çoğul çekimi: endospore
+ENDOTHERMIC	(ad) ısıalan: oluşumu sırasında ısı alan (birleşme, tepkime), endotermik (ayrıca: endotermik)
+ENDOTOXIN	(ad) endotoxin kelimesinin karşılığı: endotoksin
+ENDOTOXINS	(ad) çoğul çekimi: endotoxin
+ENDOWMENTS	(ad) çoğul çekimi: endowment
+ENDPOINTS	(ad) çoğul çekimi: endpoint
+ENDS	(ad) end sözcüğünün çoğul çekimi: son
+ENDURE	(eylem) kaldırmak: elin ulaşamayacağı yere koymak, saklamak
+ENDURED	(endure sözcüğünün çekimi) (eylem) kaldırmak: elin ulaşamayacağı yere koymak, saklamak
+ENDURES	(endure sözcüğünün çekimi) (eylem) kaldırmak: elin ulaşamayacağı yere koymak, saklamak
+ENDURING	(eylem) endure sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kaldırmak
+ENEMA	(ad) lavman: Bu iş için kullanılan aygıt ve sıvı
+ENEMAS	(enema sözcüğünün çekimi) (ad) lavman: Bu iş için kullanılan aygıt ve sıvı
+ENEMATA	(ad) enema sözcüğünün çoğul çekimi: lavman
+ENEMIES	(ad) enemy sözcüğünün çoğul çekimi: düşman, hasım, yağı, antagonist
+ENEMY	(ad) yağı: savaş sırasında karşı taraftaki topluluk veya kişi (ayrıca: düşman, hasım)
+ENERGETIC	(sıfat) enerjik: enerji ile ilgili
+ENERGIES	(ad) çoğul çekimi: energy
+ENERGIZERS	(ad) çoğul çekimi: energizer
+ENERGY	(ad) enerji: organların çalışabilmesi ve vücut ısısının sürdürülebilmesini sağlayan besin ögelerinin oluşturduğu güç
+ENFEEBLEMENTS	(ad) çoğul çekimi: enfeeblement
+ENFILADES	(ad) çoğul çekimi: enfilade
+ENFORCEMENT	(ad) uygulama: infaz.
+ENFORCEMENTS	(enforcement sözcüğünün çekimi) (ad) uygulama: infaz.
+ENFORCERS	(ad) çoğul çekimi: enforcer
+ENFRANCHISEMENTS	(ad) çoğul çekimi: enfranchisement
+ENGAGE	(eylem) engage kelimesinin karşılığı: angaje etmek
+ENGAGED	(sıfat) nişanlı: belirleyici bir işareti, alâmeti, nişanı olan kimse
+ENGAGEMENT	(ad) engagement kelimesinin karşılığı: ⟪nişan|NİŞAN⟫
+ENGAGEMENTS	(ad) engagement sözcüğünün çoğul çekimi: nişan
+ENGAGES	(engage sözcüğünün çekimi) (eylem) engage kelimesinin karşılığı: angaje etmek
+ENGAGING	(engage sözcüğünün çekimi) (eylem) engage kelimesinin karşılığı: angaje etmek
+ENGINE	(ad) motor: makine mühendisliği
+ENGINED	(sıfat) engined kelimesinin karşılığı: ⟪motorlu|MOTORLU⟫\n(eylem) engine sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: motor.
+ENGINEER	(ad) mühendis: insanların her türlü ihtiyacını karşılamaya dayalı yol, köprü, bina gibi bayındırlık; tarım, beslenme gibi gıda; fizik, kimya, biyoloji, elektrik, elektronik gibi fen; uçak, otomobil, motor, iş makineleri gibi teknik ve sosyal alanlarda uzmanlaşmış, belli bir eğitim görmüş kişi
+ENGINEERED	(engineer sözcüğünün çekimi) (ad) mühendis: insanların her türlü ihtiyacını karşılamaya dayalı yol, köprü, bina gibi bayındırlık; tarım, beslenme...
+ENGINEERING	(ad) engineering kelimesinin karşılığı: ölçmenlik, ⟪mühendislik|MÜHENDİSLİK⟫
+ENGINEERINGS	(engineer sözcüğünün çekimi) (ad) mühendis: insanların her türlü ihtiyacını karşılamaya dayalı yol, köprü, bina gibi bayındırlık; tarım, beslenme...
+ENGINEERS	(ad) engineer sözcüğünün çoğul çekimi: mühendis
+ENGINES	(ad) engine sözcüğünün çoğul çekimi: motor.
+ENGINING	(engine sözcüğünün çekimi) (ad) motor: makine mühendisliği
+ENGIRDLE	(eylem) kuşatmak: Bir ülkenin veya bir yerin dış dünya ile olan her türlü bağlantısını kuvvet kullanarak kesmek; abluka etmek, ablukaya almak, ihata etmek, muhasara etmek
+ENGIRDLED	(engirdle sözcüğünün çekimi) (eylem) kuşatmak: Bir ülkenin veya bir yerin dış dünya ile olan her türlü bağlantısını kuvvet kullanarak kesmek; abluka...
+ENGIRDLES	(engirdle sözcüğünün çekimi) (eylem) kuşatmak: Bir ülkenin veya bir yerin dış dünya ile olan her türlü bağlantısını kuvvet kullanarak kesmek; abluka...
+ENGIRDLING	(engirdle sözcüğünün çekimi) (eylem) kuşatmak: Bir ülkenin veya bir yerin dış dünya ile olan her türlü bağlantısını kuvvet kullanarak kesmek; abluka...
+ENGRAFTMENTS	(ad) çoğul çekimi: engraftment
+ENGRAM	(ad) engram kelimesinin karşılığı: bellek yazım
+ENGRAMS	(ad) çoğul çekimi: engram
+ENGRAVERS	(ad) çoğul çekimi: engraver
+ENGRAVINGS	(ad) çoğul çekimi: engraving
+ENGROSSMENTS	(ad) çoğul çekimi: engrossment
+ENGULFMENTS	(ad) çoğul çekimi: engulfment
+ENHANCE	(eylem) artırmak: artmasını sağlamak, çoğaltmak
+ENHANCED	(enhance sözcüğünün çekimi) (eylem) artırmak: artmasını sağlamak, çoğaltmak
+ENHANCEMENTS	(ad) çoğul çekimi: enhancement
+ENHANCERS	(ad) çoğul çekimi: enhancer
+ENHANCES	(enhance sözcüğünün çekimi) (eylem) artırmak: artmasını sağlamak, çoğaltmak
+ENHANCING	(enhance sözcüğünün çekimi) (eylem) artırmak: artmasını sağlamak, çoğaltmak
+ENIGMAS	(ad) çoğul çekimi: enigma
+ENJAMBMENTS	(ad) çoğul çekimi: enjambment
+ENJOY	(ad) hoşlanmak: hoşuna gitmek, hoş bulmak, hazzetmek, sevmek
+ENJOYED	(enjoy sözcüğünün çekimi) (ad) hoşlanmak: hoşuna gitmek, hoş bulmak, hazzetmek, sevmek
+ENJOYING	(eylem) enjoy sözcüğünün şimdiki zaman ortaç ve gerund çekimi: Hoşlanmak
+ENJOYMENTS	(ad) çoğul çekimi: enjoyment
+ENJOYS	(enjoy sözcüğünün çekimi) (ad) hoşlanmak: hoşuna gitmek, hoş bulmak, hazzetmek, sevmek
+ENLARGE	(eylem) büyütmek: büyük duruma getirmek, genişletmek (ayrıca: genişletmek)
+ENLARGED	(enlarge sözcüğünün çekimi) (eylem) büyütmek: büyük duruma getirmek, genişletmek (ayrıca: genişletmek)
+ENLARGEMENT	(ad) enlargement kelimesinin karşılığı: ⟪büyültme|BÜYÜLTME⟫
+ENLARGEMENTS	(ad) çoğul çekimi: enlargement
+ENLARGER	(ad) agrandisör: negatif fotoğraf filmelerinin istenen büyütmede ışığa duyarlı kağıda aktarmakta kullanılan, ışık kaynağı ve mercek sistemi bulunan ve genellikle bu büyütme işlmenin çalışabilmesi için dikey eksende ayarlamaya uygun cihaz, büyülteç
+ENLARGERS	(ad) çoğul çekimi: enlarger
+ENLARGES	(enlarge sözcüğünün çekimi) (eylem) büyütmek: büyük duruma getirmek, genişletmek (ayrıca: genişletmek)
+ENLARGING	(enlarge sözcüğünün çekimi) (eylem) büyütmek: büyük duruma getirmek, genişletmek (ayrıca: genişletmek)
+ENLIGHTENMENT	(ad) enlightenment kelimesinin karşılığı: ⟪aydınlatma|AYDINLATMA⟫
+ENLIGHTENMENTS	(enlightenment sözcüğünün çekimi) (ad) enlightenment kelimesinin karşılığı: ⟪aydınlatma|AYDINLATMA⟫
+ENLISTEES	(ad) çoğul çekimi: enlistee
+ENLISTMENTS	(ad) çoğul çekimi: enlistment
+ENLISTS	(ad) çoğul çekimi: enlist
+ENMITIES	(ad) çoğul çekimi: enmity
+ENMITY	(ad) enmity kelimesinin karşılığı: ⟪düşmanlık|DÜŞMANLIK⟫, ⟪husumet|HUSUMET⟫
+ENNEAGONS	(ad) çoğul çekimi: enneagon
+ENNUI	(ad) ennui kelimesinin karşılığı: can sıkıntısı
+ENNUIS	(ennui sözcüğünün çekimi) (ad) ennui kelimesinin karşılığı: can sıkıntısı
+ENOLOGISTS	(ad) çoğul çekimi: enologist
+ENOLS	(ad) çoğul çekimi: enol
+ENORMITIES	(ad) çoğul çekimi: enormity
+ENORMOUS	(sıfat) koskocaman: geniş, büyük (ayrıca: abidevi, anıtsal)
+ENOUGH	(zarf) enough kelimesinin karşılığı: ⟪yeterince|YETERİNCE⟫\n(sıfat) yeterli: bir görevi, işlevi yerine getirme gücü olan, etkisi olan
+ENOUGHS	(enough sözcüğünün çekimi) (zarf) enough kelimesinin karşılığı: ⟪yeterince|YETERİNCE⟫
+ENPLANE	(eylem) enplane kelimesinin karşılığı: uçağa binmek
+ENPLANED	(enplane sözcüğünün çekimi) (eylem) enplane kelimesinin karşılığı: uçağa binmek
+ENPLANES	(enplane sözcüğünün çekimi) (eylem) enplane kelimesinin karşılığı: uçağa binmek
+ENPLANING	(enplane sözcüğünün çekimi) (eylem) enplane kelimesinin karşılığı: uçağa binmek
+ENQUIRIES	(ad) çoğul çekimi: enquiry
+ENQUIRY	(ad) başvuru: bir soruşturuda, soru çizinliğinin başına eklenmiş bir yazı ya da mektup aracılığıyla ya da bir görüşmede yapılan açış konuşmasıyla araştırmanın sunulması (ayrıca: müracaat)
+ENRICHMENTS	(ad) çoğul çekimi: enrichment
+ENROL	(eylem) enrol kelimesinin karşılığı: ⟪yazılmak|YAZILMAK⟫, ⟪kaydolmak|KAYDOLMAK⟫
+ENROLL	(eylem) enroll kelimesinin karşılığı: ⟪yazılmak|YAZILMAK⟫, ⟪kaydolmak|KAYDOLMAK⟫
+ENROLLED	(enrol sözcüğünün çekimi) (eylem) enrol kelimesinin karşılığı: ⟪yazılmak|YAZILMAK⟫, ⟪kaydolmak|KAYDOLMAK⟫
+ENROLLEES	(ad) çoğul çekimi: enrollee
+ENROLLING	(enrol sözcüğünün çekimi) (eylem) enrol kelimesinin karşılığı: ⟪yazılmak|YAZILMAK⟫, ⟪kaydolmak|KAYDOLMAK⟫
+ENROLLMENTS	(ad) çoğul çekimi: enrollment
+ENROLLS	(enroll sözcüğünün çekimi) (eylem) enroll kelimesinin karşılığı: ⟪yazılmak|YAZILMAK⟫, ⟪kaydolmak|KAYDOLMAK⟫
+ENROLS	(enrol sözcüğünün çekimi) (eylem) enrol kelimesinin karşılığı: ⟪yazılmak|YAZILMAK⟫, ⟪kaydolmak|KAYDOLMAK⟫
+ENS	(ad) çoğul çekimi: en
+ENSCONCE	(eylem) yerleşmek; kurulmak; rahat veya güvenli bir yere yerleşmek.
+ENSCONCED	(ensconce sözcüğünün çekimi) (eylem) yerleşmek; kurulmak; rahat veya güvenli bir yere yerleşmek.
+ENSCONCES	(ensconce sözcüğünün çekimi) (eylem) yerleşmek; kurulmak; rahat veya güvenli bir yere yerleşmek.
+ENSCONCING	(ensconce sözcüğünün çekimi) (eylem) yerleşmek; kurulmak; rahat veya güvenli bir yere yerleşmek.
+ENSIGN	(ad) ensign kelimesinin karşılığı: ⟪bandıra|BANDIRA⟫
+ENSIGNS	(ad) çoğul çekimi: ensign
+ENSLAVE	(eylem) enslave kelimesinin karşılığı: ⟪köleleştirmek|KÖLELEŞTİRMEK⟫
+ENSLAVED	(eylem) enslave sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: köleleştirmek
+ENSLAVES	(eylem) enslave sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: köleleştirmek
+ENSLAVING	(eylem) enslave sözcüğünün şimdiki zaman ortaç ve gerund çekimi: köleleştirmek
+ENSUING	(ad) sonraki: sonra olan (ayrıca: ardından gelen, izleyen)
+ENSURE	(eylem) sağlamak: elde etmek, sahip olmak
+ENSURED	(ensure sözcüğünün çekimi) (eylem) sağlamak: elde etmek, sahip olmak
+ENSURERS	(ad) çoğul çekimi: ensurer
+ENSURES	(ensure sözcüğünün çekimi) (eylem) sağlamak: elde etmek, sahip olmak
+ENSURING	(eylem) ensure sözcüğünün şimdiki zaman ortaç ve gerund çekimi: sağlamak
+ENTABLATURES	(ad) çoğul çekimi: entablature
+ENTAIL	(eylem) entail kelimesinin karşılığı: ⟪gerektirmek|GEREKTİRMEK⟫
+ENTAILED	(entail sözcüğünün çekimi) (eylem) entail kelimesinin karşılığı: ⟪gerektirmek|GEREKTİRMEK⟫
+ENTAILER	(entail sözcüğünün çekimi) (eylem) entail kelimesinin karşılığı: ⟪gerektirmek|GEREKTİRMEK⟫
+ENTAILING	(entail sözcüğünün çekimi) (eylem) entail kelimesinin karşılığı: ⟪gerektirmek|GEREKTİRMEK⟫
+ENTAILMENT	(ad) entailment kelimesinin karşılığı: ⟪gerektirim|GEREKTİRİM⟫
+ENTAILMENTS	(ad) çoğul çekimi: entailment
+ENTAILS	(ad) çoğul çekimi: entail
+ENTANGLEMENT	(ad) entanglement kelimesinin karşılığı: ⟪karışma|KARIŞMA⟫, yer alma
+ENTANGLEMENTS	(ad) çoğul çekimi: entanglement
+ENTER	(eylem) enter kelimesinin karşılığı: içine girmek
+ENTERED	(enter sözcüğünün çekimi) (eylem) enter kelimesinin karşılığı: içine girmek
+ENTERIC	(ad) enteric kelimesinin karşılığı: enterik
+ENTERING	(enter sözcüğünün çekimi) (eylem) enter kelimesinin karşılığı: içine girmek
+ENTERITISES	(ad) çoğul çekimi: enteritis
+ENTERPRISE	(ad) bir proje veya sorumluluk (özellikle zor ve cesaret gerektiren)
+ENTERPRISERS	(ad) çoğul çekimi: enterpriser
+ENTERPRISES	(ad) çoğul çekimi: enterprise
+ENTERPRISING	(sıfat) girişken: kendi kendine iş, uğraş yaratabilen, bir işe hiç çekinmeden girebilen, başkalarıyla kolayca ilişki kurabilen, girişkin, yaraş (ayrıca: yaraş)
+ENTERS	(ad) çoğul çekimi: enter
+ENTERTAIN	(eylem) ağırlamak: konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak, ikram etmek, izaz etmek
+ENTERTAINED	(eylem) entertain sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ağırlamak
+ENTERTAINERS	(ad) çoğul çekimi: entertainer
+ENTERTAINING	(sıfat) eğlenceli: eğlendiren, hoşa giden
+ENTERTAINMENT	(ad) eğlence: neşeli ve hoşça vakit geçirten şey veya kişi
+ENTERTAINMENTS	(ad) entertainment sözcüğünün çoğul çekimi: eğlence
+ENTERTAINS	(entertain sözcüğünün çekimi) (eylem) ağırlamak: konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak, ikram etmek, izaz etmek
+ENTHALPIES	(enthalpy sözcüğünün çekimi) (ad) enthalpy kelimesinin karşılığı: entalpi
+ENTHALPY	(ad) enthalpy kelimesinin karşılığı: entalpi
+ENTHRALLMENTS	(ad) çoğul çekimi: enthrallment
+ENTHRONEMENTS	(ad) çoğul çekimi: enthronement
+ENTHUSIASM	(ad) coşku: genellikle büyük istekle ortaya çıkan geçici hayranlık veya heyecan durumu
+ENTHUSIASMS	(ad) enthusiasm sözcüğünün çoğul çekimi: coşku
+ENTHUSIAST	(ad) bir şeyin meraklısı kimse; tutkun; düşkün
+ENTHUSIASTIC	(sıfat) coşkulu: coşkusu olan; coşkun, hararetli.
+ENTHUSIASTICALLY	(zarf) hevesli bir şekilde, coşkuyla, istekli bir şekilde
+ENTHUSIASTS	(ad) enthusiast sözcüğünün çoğul çekimi: bir şeyin meraklısı kimse; tutkun; düşkün
+ENTHYMEMES	(ad) çoğul çekimi: enthymeme
+ENTIRE	(sıfat) entire kelimesinin karşılığı: ⟪bütün|BÜTÜN⟫
+ENTIRELY	(zarf) üzerinde: üstünde (ayrıca: üstünde)
+ENTIRES	(ad) çoğul çekimi: entire
+ENTIRETIES	(entirety sözcüğünün çekimi) (ad) tüm: bir şeyin bütünü, topu, tamam, hepsi
+ENTIRETY	(ad) tüm: bir şeyin bütünü, topu, tamam, hepsi
+ENTITIES	(ad) çoğul çekimi: entity
+ENTITLE	(eylem) yetkilendirmek: Birini yetkili kılmak (ayrıca: izin vermek)
+ENTITLED	(entitle sözcüğünün çekimi) (eylem) yetkilendirmek: Birini yetkili kılmak (ayrıca: izin vermek)
+ENTITLEMENTS	(ad) çoğul çekimi: entitlement
+ENTITLES	(entitle sözcüğünün çekimi) (eylem) yetkilendirmek: Birini yetkili kılmak (ayrıca: izin vermek)
+ENTITLING	(entitle sözcüğünün çekimi) (eylem) yetkilendirmek: Birini yetkili kılmak (ayrıca: izin vermek)
+ENTITY	(ad) şahsiyet: kişilik, belirgin özellik
+ENTOMBMENTS	(ad) çoğul çekimi: entombment
+ENTOMOLOGIES	(entomology sözcüğünün çekimi) (ad) entomoloji: böcek bilimi (ayrıca: böcek bilimi)
+ENTOMOLOGIST	(ad) entomologist kelimesinin karşılığı: böcekbilimci
+ENTOMOLOGISTS	(ad) entomologist sözcüğünün çoğul çekimi: böcekbilimci
+ENTOMOLOGY	(ad) entomoloji: böcek bilimi (ayrıca: böcek bilimi)
+ENTOURAGE	(ad) entourage kelimesinin karşılığı: arkadaş çevresi
+ENTOURAGES	(entourage sözcüğünün çekimi) (ad) entourage kelimesinin karşılığı: arkadaş çevresi
+ENTRAILS	(ad) entrails kelimesinin karşılığı: iç organlar
+ENTRANCE	(ad) giriş: Bir yapıda içeri geçilen yer; methal, antre
+ENTRANCED	(entrance sözcüğünün çekimi) (ad) giriş: Bir yapıda içeri geçilen yer; methal, antre
+ENTRANCEMENTS	(ad) çoğul çekimi: entrancement
+ENTRANCES	(ad) çoğul çekimi: entrance
+ENTRANCEWAYS	(ad) çoğul çekimi: entranceway
+ENTRANCING	(entrance sözcüğünün çekimi) (ad) giriş: Bir yapıda içeri geçilen yer; methal, antre
+ENTRANTS	(ad) çoğul çekimi: entrant
+ENTRAPMENT	(ad) Kişiyi suç işlemeye iten bir düzenek ile yakalamak
+ENTRAPMENTS	(entrapment sözcüğünün çekimi) (ad) Kişiyi suç işlemeye iten bir düzenek ile yakalamak
+ENTREAT	(eylem) yalvarmak: Birinden ısrarlı bir biçimde, kendine acındıracak sözlerle, saygılı bir biçimde bir şey istemek.
+ENTREATED	(entreat sözcüğünün çekimi) (eylem) yalvarmak: Birinden ısrarlı bir biçimde, kendine acındıracak sözlerle, saygılı bir biçimde bir şey istemek.
+ENTREATIES	(ad) çoğul çekimi: entreaty
+ENTREATING	(entreat sözcüğünün çekimi) (eylem) yalvarmak: Birinden ısrarlı bir biçimde, kendine acındıracak sözlerle, saygılı bir biçimde bir şey istemek.
+ENTREATS	(entreat sözcüğünün çekimi) (eylem) yalvarmak: Birinden ısrarlı bir biçimde, kendine acındıracak sözlerle, saygılı bir biçimde bir şey istemek.
+ENTREES	(ad) çoğul çekimi: entree
+ENTRENCHMENTS	(ad) çoğul çekimi: entrenchment
+ENTREPRENEUR	(ad) finansal riskleri üstlenerek, kâr yapmak amacıyla bir işe girişen kişi; yatırımcı, girişimci, müteşebbis
+ENTREPRENEURS	(entrepreneur sözcüğünün çekimi) (ad) finansal riskleri üstlenerek, kâr yapmak amacıyla bir işe girişen kişi; yatırımcı, girişimci, müteşebbis
+ENTRESOL	(ad) entresol kelimesinin karşılığı: asma kat
+ENTRESOLS	(entresol sözcüğünün çekimi) (ad) entresol kelimesinin karşılığı: asma kat
+ENTRIES	(ad) entry sözcüğünün çoğul çekimi: giriş, girdi, girme
+ENTROPIES	(ad) çoğul çekimi: entropy
+ENTROPY	(ad) entropy kelimesinin karşılığı: ⟪entropi|ENTROPİ⟫
+ENTRY	(ad) giriş: Bir bilime hazırlık amacıyla yazılan eser. (ayrıca: girdi, girme)
+ENTRYWAYS	(ad) çoğul çekimi: entryway
+ENUMERATIONS	(ad) çoğul çekimi: enumeration
+ENUMERATORS	(ad) çoğul çekimi: enumerator
+ENUNCIATION	(ad) enunciation kelimesinin karşılığı: sözceleme
+ENUNCIATIONS	(ad) çoğul çekimi: enunciation
+ENVELOP	(eylem) sarmak: Bir şeyi başka bir şeyin içine koyup onunla kaplamak.
+ENVELOPE	(ad) zarf: İçine mektup veya başka kâğıtlar konulan kâğıttan kese:
+ENVELOPED	(envelop sözcüğünün çekimi) (eylem) sarmak: Bir şeyi başka bir şeyin içine koyup onunla kaplamak.
+ENVELOPES	(ad) envelope sözcüğünün çoğul çekimi: zarf
+ENVELOPING	(envelop sözcüğünün çekimi) (eylem) sarmak: Bir şeyi başka bir şeyin içine koyup onunla kaplamak.
+ENVELOPMENTS	(ad) çoğul çekimi: envelopment
+ENVELOPS	(envelop sözcüğünün çekimi) (eylem) sarmak: Bir şeyi başka bir şeyin içine koyup onunla kaplamak.
+ENVIED	(envy sözcüğünün çekimi) (ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına...
+ENVIES	(envy sözcüğünün çekimi) (ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına...
+ENVIRONMENT	(ad) dolay: bir yeri saran başka yerlerin bütünü, civar, çevre (ayrıca: çevre, ortam)
+ENVIRONMENTAL	(sıfat) environmental kelimesinin karşılığı: ⟪çevresel|ÇEVRESEL⟫
+ENVIRONMENTALISTS	(ad) çoğul çekimi: environmentalist
+ENVIRONMENTS	(ad) environment sözcüğünün çoğul çekimi: çevre, ortam, dolay, civar
+ENVIRONS	(ad) çoğul çekimi: environ
+ENVOY	(ad) elçi: Bir uzlaşma sağlamak veya iş bitirmek için birinin yanına gönderilen kimse. (ayrıca: sefir)
+ENVOYS	(ad) çoğul çekimi: envoy
+ENVY	(ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına varıldığında takınılan olumsuz tutum, günücülük, hasetçilik, hasetlik, hasutluk
+ENVYING	(envy sözcüğünün çekimi) (ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına...
+ENZYME	(ad) enzim: Hücre içinde üretilen ve bütün hayat olaylarını başlatan, hızlandıran, protein yapısındaki katalizörler
+ENZYMES	(enzyme sözcüğünün çekimi) (ad) enzim: Hücre içinde üretilen ve bütün hayat olaylarını başlatan, hızlandıran, protein yapısındaki katalizörler
+ENZYMOLOGISTS	(ad) çoğul çekimi: enzymologist
+EOLITHS	(ad) çoğul çekimi: eolith
+EONS	(ad) çoğul çekimi: eon
+EOSINOPHILS	(ad) çoğul çekimi: eosinophil
+EPAULETS	(ad) çoğul çekimi: epaulet
+EPAULETTE	(ad) apolet: giysilerin omuz kısmında süsleme amaçlı kullanılan parça
+EPAULETTES	(ad) çoğul çekimi: epaulette
+EPEE	(ad) epee kelimesinin karşılığı: delici kılıç, ⟪epe|EPE⟫
+EPEES	(ad) çoğul çekimi: epee
+EPENTHESES	(epenthesis sözcüğünün çekimi) (ad) ünlü türemesi, ses türemesi, bir sesin eklenmesi
+EPENTHESIS	(ad) ünlü türemesi, ses türemesi, bir sesin eklenmesi
+EPHAHS	(ad) çoğul çekimi: ephah
+EPHAS	(ad) çoğul çekimi: epha
+EPHEDRA	(ad) ephedra kelimesinin karşılığı: deniz üzümü
+EPHEDRAS	(ephedra sözcüğünün çekimi) (ad) ephedra kelimesinin karşılığı: deniz üzümü
+EPHEMERAL	(sıfat) ephemeral kelimesinin karşılığı: ⟪gündelik|GÜNDELİK⟫
+EPHEMERALLY	(ephemeral sözcüğünün çekimi) (sıfat) ephemeral kelimesinin karşılığı: ⟪gündelik|GÜNDELİK⟫
+EPHEMERALS	(ephemeral sözcüğünün çekimi) (sıfat) ephemeral kelimesinin karşılığı: ⟪gündelik|GÜNDELİK⟫
+EPHEMERIDES	(ad) ephemerides kelimesinin karşılığı: bir ephemeris
+EPIC	(sıfat) epic kelimesinin karşılığı: ⟪destanlı|DESTANLI⟫, epik
+EPICENE	(ad) epicene kelimesinin karşılığı: ortak cinsli
+EPICENES	(epicene sözcüğünün çekimi) (ad) epicene kelimesinin karşılığı: ortak cinsli
+EPICENTERS	(ad) çoğul çekimi: epicenter
+EPICS	(ad) çoğul çekimi: epic
+EPICUREANS	(ad) çoğul çekimi: epicurean
+EPICURES	(ad) çoğul çekimi: epicure
+EPIDEMICS	(ad) çoğul çekimi: epidemic
+EPIDEMIOLOGIES	(epidemiology sözcüğünün çekimi) (ad) epidemiology kelimesinin karşılığı: epidemiyoloji
+EPIDEMIOLOGISTS	(ad) çoğul çekimi: epidemiologist
+EPIDEMIOLOGY	(ad) epidemiology kelimesinin karşılığı: epidemiyoloji
+EPIDERMIS	(ad) epidermis kelimesinin karşılığı: ⟪epiderm|EPİDERM⟫, üst deri
+EPIDERMISES	(epidermis sözcüğünün çekimi) (ad) epidermis kelimesinin karşılığı: ⟪epiderm|EPİDERM⟫, üst deri
+EPIDIDYMIDES	(epididymis sözcüğünün çekimi) (ad) epididimis: Erkek eşey organında spermlerin olgunlaştığı ve kısa bir süre depolandığı başlıca kanalcıklardan...
+EPIDIDYMIS	(ad) epididimis: Erkek eşey organında spermlerin olgunlaştığı ve kısa bir süre depolandığı başlıca kanalcıklardan oluşan yer
+EPIGLOTTIDES	(epiglottis sözcüğünün çekimi) (ad) epiglottis kelimesinin karşılığı: küçük dil
+EPIGLOTTIS	(ad) epiglottis kelimesinin karşılığı: küçük dil
+EPIGLOTTISES	(epiglottis sözcüğünün çekimi) (ad) epiglottis kelimesinin karşılığı: küçük dil
+EPIGRAMS	(ad) çoğul çekimi: epigram
+EPIGRAPHIES	(epigraphy sözcüğünün çekimi) (ad) epigraphy kelimesinin karşılığı: yazıt inceleme
+EPIGRAPHS	(ad) çoğul çekimi: epigraph
+EPIGRAPHY	(ad) epigraphy kelimesinin karşılığı: yazıt inceleme
+EPILATION	(ad) epilation kelimesinin karşılığı: ⟪epilasyon|EPİLASYON⟫
+EPILATIONS	(epilation sözcüğünün çekimi) (ad) epilation kelimesinin karşılığı: ⟪epilasyon|EPİLASYON⟫
+EPILEPSIES	(epilepsy sözcüğünün çekimi) (ad) sara: zaman zaman kendini kaybederek olduğu yere düşme, vücutta şiddetli çırpınmalar ve ağız köpürmesi ile ortaya...
+EPILEPSY	(ad) sara: zaman zaman kendini kaybederek olduğu yere düşme, vücutta şiddetli çırpınmalar ve ağız köpürmesi ile ortaya çıkan sinir hastalığı, tutarık, tutarak, tutarga, yilbik, epilepsi (ayrıca: epilepsi)
+EPILEPTICS	(ad) çoğul çekimi: epileptic
+EPILOGS	(ad) çoğul çekimi: epilog
+EPILOGUE	(ad) epilogue kelimesinin karşılığı: son söz, ⟪hatime|HATİME⟫, ⟪epilog|EPİLOG⟫, son deyiş
+EPILOGUED	(epilogue sözcüğünün çekimi) (ad) epilogue kelimesinin karşılığı: son söz, ⟪hatime|HATİME⟫, ⟪epilog|EPİLOG⟫, son deyiş
+EPILOGUES	(ad) çoğul çekimi: epilogue
+EPILOGUING	(epilogue sözcüğünün çekimi) (ad) epilogue kelimesinin karşılığı: son söz, ⟪hatime|HATİME⟫, ⟪epilog|EPİLOG⟫, son deyiş
+EPINEPHRINE	(ad) epinephrine kelimesinin karşılığı: ⟪adrenalin|ADRENALİN⟫
+EPINEPHRINES	(epinephrine sözcüğünün çekimi) (ad) epinephrine kelimesinin karşılığı: ⟪adrenalin|ADRENALİN⟫
+EPIPHANIES	(ad) çoğul çekimi: epiphany
+EPIPHYTES	(ad) çoğul çekimi: epiphyte
+EPISCOPATES	(ad) çoğul çekimi: episcopate
+EPISODE	(ad) bölüm: Canlıların bölümlenmesinde filumların bir araya gelmesiyle oluşan birlik. (ayrıca: kısım)
+EPISODES	(ad) çoğul çekimi: episode
+EPISOMES	(ad) çoğul çekimi: episome
+EPISTEMOLOGIES	(epistemology sözcüğünün çekimi) (ad) epistemology kelimesinin karşılığı: bilgi kuramı, ⟪epistemoloji|EPİSTEMOLOJİ⟫
+EPISTEMOLOGISTS	(ad) çoğul çekimi: epistemologist
+EPISTEMOLOGY	(ad) epistemology kelimesinin karşılığı: bilgi kuramı, ⟪epistemoloji|EPİSTEMOLOJİ⟫
+EPISTLE	(ad) name: mektup (ayrıca: mektup)
+EPISTLES	(ad) çoğul çekimi: epistle
+EPITAPHS	(ad) çoğul çekimi: epitaph
+EPITHELIA	(epithelium sözcüğünün çekimi) (ad) epitelyum: Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku (ayrıca: epitel)
+EPITHELIOMATA	(ad) epithelioma sözcüğünün çoğul çekimi
+EPITHELIUM	(ad) epitelyum: Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku (ayrıca: epitel)
+EPITHELIUMS	(ad) çoğul çekimi: epithelium
+EPITHET	(ad) epithet kelimesinin karşılığı: ⟪nitem|NİTEM⟫
+EPITHETS	(ad) çoğul çekimi: epithet
+EPITOME	(ad) ideal; örnek; tipik örnek simge; hulasa; temsilci
+EPITOMES	(ad) çoğul çekimi: epitome
+EPITOPES	(ad) çoğul çekimi: epitope
+EPIZOOTICS	(ad) çoğul çekimi: epizootic
+EPOCH	(ad) devir: kendine özgü bir özellik taşıyan zaman parçası
+EPOCHS	(epoch sözcüğünün çekimi) (ad) devir: kendine özgü bir özellik taşıyan zaman parçası
+EPONYM	(ad) eponym kelimesinin karşılığı: kişi kökenli
+EPONYMS	(ad) çoğul çekimi: eponym
+EPOXIES	(ad) çoğul çekimi: epoxy
+EQUAL	(sıfat) aynı değere, miktara veya özelliklere sahip, eşit
+EQUALED	(equal sözcüğünün çekimi) (sıfat) aynı değere, miktara veya özelliklere sahip, eşit
+EQUALING	(equal sözcüğünün çekimi) (sıfat) aynı değere, miktara veya özelliklere sahip, eşit
+EQUALISERS	(ad) çoğul çekimi: equaliser
+EQUALITARIANS	(ad) çoğul çekimi: equalitarian
+EQUALIZATIONS	(ad) çoğul çekimi: equalization
+EQUALIZERS	(ad) çoğul çekimi: equalizer
+EQUALLED	(equal sözcüğünün çekimi) (sıfat) aynı değere, miktara veya özelliklere sahip, eşit
+EQUALLING	(equal sözcüğünün çekimi) (sıfat) aynı değere, miktara veya özelliklere sahip, eşit
+EQUALS	(ad) çoğul çekimi: equal
+EQUANIMITIES	(equanimity sözcüğünün çekimi) (ad) sakinlik: Sakin olma durumu, durgunluk, sesizlik, dinginlik, sükünet (ayrıca: ağırbaşlılık, vakar)
+EQUANIMITY	(ad) sakinlik: Sakin olma durumu, durgunluk, sesizlik, dinginlik, sükünet (ayrıca: ağırbaşlılık, vakar)
+EQUATE	(eylem) equate kelimesinin karşılığı: ⟪eşitlemek|EŞİTLEMEK⟫
+EQUATED	(equate sözcüğünün çekimi) (eylem) equate kelimesinin karşılığı: ⟪eşitlemek|EŞİTLEMEK⟫
+EQUATES	(ad) çoğul çekimi: equate
+EQUATING	(ad) equating kelimesinin karşılığı: ⟪eşitleme|EŞİTLEME⟫
+EQUATION	(ad) denklem: İki niceliğin eşitliğini gösteren bağıntıdır.
+EQUATIONS	(ad) çoğul çekimi: equation
+EQUATOR	(ad) equator kelimesinin karşılığı: ⟪ekvator|EKVATOR⟫
+EQUATORS	(ad) çoğul çekimi: equator
+EQUESTRIANS	(ad) çoğul çekimi: equestrian
+EQUIDS	(ad) çoğul çekimi: equid
+EQUILATERAL	(sıfat) eşkenar: kenarları eşit olan
+EQUILIBRATION	(ad) equilibration kelimesinin karşılığı: ⟪dengeleme|DENGELEME⟫
+EQUILIBRATIONS	(equilibration sözcüğünün çekimi) (ad) equilibration kelimesinin karşılığı: ⟪dengeleme|DENGELEME⟫
+EQUILIBRIA	(equilibrium sözcüğünün çekimi) (ad) denge: birbirini ortadan kaldıran güçlerin sonucu olan durma hâli
+EQUILIBRIUM	(ad) denge: birbirini ortadan kaldıran güçlerin sonucu olan durma hâli
+EQUILIBRIUMS	(equilibrium sözcüğünün çekimi) (ad) denge: birbirini ortadan kaldıran güçlerin sonucu olan durma hâli
+EQUINES	(ad) çoğul çekimi: equine
+EQUINOX	(ad) ekinoks: gün-tün eşitliği (ayrıca: gece-gündüz eşitliği)
+EQUINOXES	(equinox sözcüğünün çekimi) (ad) ekinoks: gün-tün eşitliği (ayrıca: gece-gündüz eşitliği)
+EQUIPAGES	(ad) çoğul çekimi: equipage
+EQUIPMENT	(ad) equipment kelimesinin karşılığı: ⟪ekipman|EKİPMAN⟫, ⟪donanım|DONANIM⟫, ⟪pusat|PUSAT⟫
+EQUIPMENTS	(equipment sözcüğünün çekimi) (ad) equipment kelimesinin karşılığı: ⟪ekipman|EKİPMAN⟫, ⟪donanım|DONANIM⟫, ⟪pusat|PUSAT⟫
+EQUIPOISES	(ad) çoğul çekimi: equipoise
+EQUIPOLLENT	(ad) eş değerli karşıtlık
+EQUIPOLLENTS	(equipollent sözcüğünün çekimi) (ad) eş değerli karşıtlık
+EQUITIES	(ad) equities kelimesinin karşılığı: adaletler, adil olmalar, tarafsızlıklar
+EQUITY	(ad) equity kelimesinin karşılığı: ⟪adalet|ADALET⟫, adil olma, ⟪tarafsızlık|TARAFSIZLIK⟫
+EQUIVALENCE	(ad) equivalence kelimesinin karşılığı: eşdeğerlik
+EQUIVALENCES	(ad) çoğul çekimi: equivalence
+EQUIVALENCIES	(equivalency sözcüğünün çekimi) (ad) denklik: denk olma durumu, eşitlik, müsavat, akreditasyon
+EQUIVALENCY	(ad) denklik: denk olma durumu, eşitlik, müsavat, akreditasyon
+EQUIVALENT	(ad) equivalent kelimesinin karşılığı: ⟪denk|DENK⟫
+EQUIVALENTS	(ad) çoğul çekimi: equivalent
+EQUIVOCATE	(eylem) kaçamak konuşmak; belirsiz konuşmak; yanıltıcı konuşmak; ne evet ne hayır demek; farklı anlamlara gelecek şekilde konuşmak; lafı dolandırmak; birden farklı anlamlara gelecek şekilde konuşmak; gerçeği saklamak için belirsiz sözler söylemek.
+EQUIVOCATED	(equivocate sözcüğünün çekimi) (eylem) kaçamak konuşmak; belirsiz konuşmak; yanıltıcı konuşmak; ne evet ne hayır demek; farklı anlamlara gelecek...
+EQUIVOCATES	(equivocate sözcüğünün çekimi) (eylem) kaçamak konuşmak; belirsiz konuşmak; yanıltıcı konuşmak; ne evet ne hayır demek; farklı anlamlara gelecek...
+EQUIVOCATING	(equivocate sözcüğünün çekimi) (eylem) kaçamak konuşmak; belirsiz konuşmak; yanıltıcı konuşmak; ne evet ne hayır demek; farklı anlamlara gelecek...
+EQUIVOCATION	(ad) equivocation kelimesinin karşılığı: eşbiçimli
+EQUIVOCATIONS	(equivocation sözcüğünün çekimi) (ad) equivocation kelimesinin karşılığı: eşbiçimli
+EQUIVOCATORS	(ad) çoğul çekimi: equivocator
+EQUIVOQUES	(ad) çoğul çekimi: equivoque
+ERA	(ad) çağ: kendine mahsus bir özellik taşıyan zaman parçası (ayrıca: devir)
+ERADICATE	(eylem) eradicate kelimesinin karşılığı: kökünden sökmek, kökünü kurutmak, kökünden halletmek, yok etmek
+ERADICATED	(eradicate sözcüğünün çekimi) (eylem) eradicate kelimesinin karşılığı: kökünden sökmek, kökünü kurutmak, kökünden halletmek, yok etmek
+ERADICATES	(eradicate sözcüğünün çekimi) (eylem) eradicate kelimesinin karşılığı: kökünden sökmek, kökünü kurutmak, kökünden halletmek, yok etmek
+ERADICATING	(eradicate sözcüğünün çekimi) (eylem) eradicate kelimesinin karşılığı: kökünden sökmek, kökünü kurutmak, kökünden halletmek, yok etmek
+ERADICATION	(ad) eradication kelimesinin karşılığı: yok etme, ⟪imha|İMHA⟫, kökünden kazıma
+ERADICATIONS	(eradication sözcüğünün çekimi) (ad) eradication kelimesinin karşılığı: yok etme, ⟪imha|İMHA⟫, kökünden kazıma
+ERADICATORS	(ad) çoğul çekimi: eradicator
+ERAS	(ad) era sözcüğünün çoğul çekimi: çağ, devir
+ERASABLE	(sıfat) erasable kelimesinin karşılığı: silinebilir
+ERASE	(eylem) silmek: Ortadan kaldırmak, yok etmek veya gidermek
+ERASED	(eylem) erase sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: silmek
+ERASER	(ad) silgi: Kalem veya daktiloyla yazılmış, çizilmiş şeyleri silmeye yarayan, birleşiminde kauçuk olan nesne.
+ERASERS	(ad) çoğul çekimi: eraser
+ERASES	(ad) çoğul çekimi: erase
+ERASING	(eylem) erase sözcüğünün şimdiki zaman ortaç ve gerund çekimi: silmek
+ERASURES	(ad) çoğul çekimi: erasure
+ERBIUM	(ad) erbium kelimesinin karşılığı: ⟪erbiyum|ERBİYUM⟫
+ERBIUMS	(erbium sözcüğünün çekimi) (ad) erbium kelimesinin karşılığı: ⟪erbiyum|ERBİYUM⟫
+ERECTILE	(sıfat) erektil: ereksiyon ile ilgili
+ERECTION	(ad) dikme: (Kahramanmaraş ağzı) Bacak. (ayrıca: inşa etme, dikilme)
+ERECTIONS	(ad) çoğul çekimi: erection
+ERECTORS	(ad) çoğul çekimi: erector
+EREMITES	(ad) çoğul çekimi: eremite
+ERETHISMS	(ad) çoğul çekimi: erethism
+ERGOMETERS	(ad) çoğul çekimi: ergometer
+ERGONOMIC	(sıfat) ergonomic kelimesinin karşılığı: ⟪ergonomik|ERGONOMİK⟫
+ERGOTS	(ad) çoğul çekimi: ergot
+ERISTICS	(ad) çoğul çekimi: eristic
+ERLKINGS	(ad) çoğul çekimi: erlking
+ERMINE	(ad) as: gelincik denilen hayvan, kakım (ayrıca: kakım, ermin)
+ERMINES	(ad) çoğul çekimi: ermine
+ERNES	(ad) çoğul çekimi: erne
+EROGENOUS	(sıfat) erogenous kelimesinin karşılığı: cinsgüdüsel
+EROSION	(ad) erozyon: aşınma
+EROSIONS	(ad) çoğul çekimi: erosion
+EROTIC	(ad) Aşk dolu bir kompozisyon veya şiir.\n(sıfat) Relating to or tending to arouse sexual desire or excitement.
+EROTICISM	(ad) eroticism kelimesinin karşılığı: ⟪erotizm|EROTİZM⟫
+EROTICISMS	(ad) çoğul çekimi: eroticism
+EROTICS	(erotic sözcüğünün çekimi) (ad) Aşk dolu bir kompozisyon veya şiir.
+ERRAND	(ad) errand kelimesinin karşılığı: ⟪edinme|EDİNME⟫, ⟪tedarik|TEDARİK⟫
+ERRANDS	(ad) çoğul çekimi: errand
+ERRONEOUSLY	(zarf) sehven: yanlışlıkla (ayrıca: yanlışlıkla)
+ERROR	(ad) yanlış: bir kural ya da ilkeye, bir gerçeğe uymama durumu, yanılgı, hata
+ERRORS	(ad) error sözcüğünün çoğul çekimi: yanlış\n(eylem) error sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yanlış
+ERS	(ad) çoğul çekimi: er
+ERST	(sıfat) erst kelimesinin karşılığı: ⟪ilk|İLK⟫\n(zarf) evvel: önce (ayrıca: evvela)
+ERUCTATE	(eylem) geğirmek: Midede toplanan gazı ağızdan sesli bir biçimde çıkarmak
+ERUCTATED	(eructate sözcüğünün çekimi) (eylem) geğirmek: Midede toplanan gazı ağızdan sesli bir biçimde çıkarmak
+ERUCTATES	(eructate sözcüğünün çekimi) (eylem) geğirmek: Midede toplanan gazı ağızdan sesli bir biçimde çıkarmak
+ERUCTATING	(eructate sözcüğünün çekimi) (eylem) geğirmek: Midede toplanan gazı ağızdan sesli bir biçimde çıkarmak
+ERUCTATIONS	(ad) çoğul çekimi: eructation
+ERUDITE	(sıfat) okumuş: okuyarak bilgisini genişletmiş, öğrenim görmüş (kişi) (ayrıca: bilgili, alim)
+ERUPT	(eylem) patlamak: Yırtılarak açılmak. (ayrıca: püskürmek, fışkırmak)
+ERUPTED	(erupt sözcüğünün çekimi) (eylem) patlamak: Yırtılarak açılmak. (ayrıca: püskürmek, fışkırmak)
+ERUPTING	(erupt sözcüğünün çekimi) (eylem) patlamak: Yırtılarak açılmak. (ayrıca: püskürmek, fışkırmak)
+ERUPTION	(ad) enflamasyon: yangı (ayrıca: yangı, enfeksiyon)
+ERUPTIONS	(eruption sözcüğünün çekimi) (ad) enflamasyon: yangı (ayrıca: yangı, enfeksiyon)
+ERUPTIVES	(ad) çoğul çekimi: eruptive
+ERUPTS	(erupt sözcüğünün çekimi) (eylem) patlamak: Yırtılarak açılmak. (ayrıca: püskürmek, fışkırmak)
+ERYTHEMAS	(ad) çoğul çekimi: erythema
+ERYTHROCYTE	(ad) alyuvar: kana al rengini veren, çekirdeksiz, yuvarlak, küçük hücre, kırmızı kan hücresi, eritrosit (ayrıca: eritrosit)
+ERYTHROCYTES	(ad) çoğul çekimi: erythrocyte
+ESCALATIONS	(ad) çoğul çekimi: escalation
+ESCALATOR	(ad) yürüyen merdiven: Bir motor veya güç kaynağı ile çalışan, aşağı veya yukarı hareket eden merdiven.
+ESCALATORS	(escalator sözcüğünün çekimi) (ad) yürüyen merdiven: Bir motor veya güç kaynağı ile çalışan, aşağı veya yukarı hareket eden merdiven.
+ESCALLOPS	(ad) çoğul çekimi: escallop
+ESCAPADES	(ad) çoğul çekimi: escapade
+ESCAPE	(ad) kaçma: kaçmak işi\n(eylem) kaçmak: Hızlı koşmak.
+ESCAPED	(escape sözcüğünün çekimi) (ad) kaçma: kaçmak işi
+ESCAPEE	(ad) firari: kaçak (ayrıca: kaçak)
+ESCAPEES	(ad) escapee sözcüğünün çoğul çekimi: kaçak, firari
+ESCAPEMENTS	(ad) çoğul çekimi: escapement
+ESCAPES	(escape sözcüğünün çekimi) (ad) kaçma: kaçmak işi
+ESCAPING	(escape sözcüğünün çekimi) (ad) kaçma: kaçmak işi
+ESCAPISTS	(ad) çoğul çekimi: escapist
+ESCAPOLOGISTS	(ad) çoğul çekimi: escapologist
+ESCORT	(ad) eskort: koruma aracı.
+ESCORTED	(escort sözcüğünün çekimi) (ad) eskort: koruma aracı.
+ESCORTING	(escort sözcüğünün çekimi) (ad) eskort: koruma aracı.
+ESCORTS	(ad) çoğul çekimi: escort
+ESCRITOIRES	(ad) çoğul çekimi: escritoire
+ESCROWS	(ad) çoğul çekimi: escrow
+ESCULENTS	(ad) çoğul çekimi: esculent
+ESKERS	(ad) çoğul çekimi: esker
+ESOPHAGI	(esophagus sözcüğünün çekimi) (ad) esophagus kelimesinin karşılığı: yemek borusu
+ESOPHAGUS	(ad) esophagus kelimesinin karşılığı: yemek borusu
+ESPECIALLY	(zarf) hele: "Sonunda" anlamıyla geciken davranışları bildirmek için kullanılan bir söz. (ayrıca: özellikle, başta)
+ESPIALS	(ad) çoğul çekimi: espial
+ESPIONAGE	(ad) espionage kelimesinin karşılığı: ⟪casusluk|CASUSLUK⟫, ⟪espiyonaj|ESPİYONAJ⟫
+ESPIONAGES	(ad) espionage sözcüğünün çoğul çekimi: casusluk, espiyonaj
+ESPOUSALS	(ad) çoğul çekimi: espousal
+ESPRESSOS	(ad) çoğul çekimi: espresso
+ESQUIRES	(ad) çoğul çekimi: esquire
+ESS	(ad) ess kelimesinin karşılığı: se
+ESSAY	(ad) essay kelimesinin karşılığı: ⟪deneme|DENEME⟫
+ESSAYED	(essay sözcüğünün çekimi) (ad) essay kelimesinin karşılığı: ⟪deneme|DENEME⟫
+ESSAYING	(essay sözcüğünün çekimi) (ad) essay kelimesinin karşılığı: ⟪deneme|DENEME⟫
+ESSAYS	(ad) essay sözcüğünün çoğul çekimi: deneme
+ESSENCE	(ad) essence kelimesinin karşılığı: ⟪künh|KÜNH⟫
+ESSENCES	(essence sözcüğünün çekimi) (ad) essence kelimesinin karşılığı: ⟪künh|KÜNH⟫
+ESSENTIAL	(ad) essential kelimesinin karşılığı: esansiyel\n(sıfat) gerekli: yapılması, olması veya bulunması uygun olan, yerinde olan, lüzumlu, vacip, mukteza, zaruri
+ESSENTIALLY	(zarf) esasen: başından, temelinden, kökeninden (ayrıca: aslen, temelde)
+ESSENTIALS	(ad) çoğul çekimi: essential
+ESTABLISH	(eylem) kurmak: yapmak, oluşturmak
+ESTABLISHED	(establish sözcüğünün çekimi) (eylem) kurmak: yapmak, oluşturmak
+ESTABLISHES	(establish sözcüğünün çekimi) (eylem) kurmak: yapmak, oluşturmak
+ESTABLISHING	(ad) tespit: belirleme
+ESTABLISHMENT	(ad) kuruluş: (mecaz) yapı, yapılış, bünye (ayrıca: kurulu düzen)
+ESTABLISHMENTS	(ad) çoğul çekimi: establishment
+ESTATES	(ad) estate sözcüğünün çoğul çekimi
+ESTEEM	(ad) itibar: saygınlık (ayrıca: saygı, hürmet)
+ESTEEMED	(sıfat) esteemed kelimesinin karşılığı: ⟪sayın|SAYIN⟫
+ESTEEMING	(esteem sözcüğünün çekimi) (ad) itibar: saygınlık (ayrıca: saygı, hürmet)
+ESTEEMS	(esteem sözcüğünün çekimi) (ad) itibar: saygınlık (ayrıca: saygı, hürmet)
+ESTHETES	(ad) çoğul çekimi: esthete
+ESTIMATE	(eylem) estimate kelimesinin karşılığı: tahmin etmek, ⟪öngörmek|ÖNGÖRMEK⟫\n(ad) estimate kelimesinin karşılığı: ⟪tahmin|TAHMİN⟫
+ESTIMATED	(eylem) estimate fiilinin basit geçmiş zaman kipi.
+ESTIMATES	(ad) estimates kelimesinin karşılığı: ⟪ölçüler|ÖLÇÜLER⟫
+ESTIMATING	(estimate sözcüğünün çekimi) (eylem) estimate kelimesinin karşılığı: tahmin etmek, ⟪öngörmek|ÖNGÖRMEK⟫
+ESTIMATION	(ad) tahmin: yaklaşık olarak değerlendirme
+ESTIMATIONS	(estimation sözcüğünün çekimi) (ad) tahmin: yaklaşık olarak değerlendirme
+ESTIMATOR	(ad) tahminci: Tahmin eden kimse
+ESTIMATORS	(ad) çoğul çekimi: estimator
+ESTRAYS	(ad) çoğul çekimi: estray
+ESTROGEN	(ad) östrojen: Omurgalılarda östrus oluşturan bir grup steroit hormon
+ESTROGENS	(ad) çoğul çekimi: estrogen
+ESTUARIES	(ad) çoğul çekimi: estuary
+ETAS	(ad) çoğul çekimi: eta
+ETCH	(ad) etch kelimesinin karşılığı: ⟪oymak|OYMAK⟫
+ETCHED	(etch sözcüğünün çekimi) (ad) etch kelimesinin karşılığı: ⟪oymak|OYMAK⟫
+ETCHERS	(ad) çoğul çekimi: etcher
+ETCHES	(etch sözcüğünün çekimi) (ad) etch kelimesinin karşılığı: ⟪oymak|OYMAK⟫
+ETCHING	(etch sözcüğünün çekimi) (ad) etch kelimesinin karşılığı: ⟪oymak|OYMAK⟫
+ETCHINGS	(ad) çoğul çekimi: etching
+ETERNAL	(sıfat) ebedi: bengi, namütenahi, ölümsüz, sonsuz (ayrıca: ölümsüz)
+ETERNALS	(eternal sözcüğünün çekimi) (sıfat) ebedi: bengi, namütenahi, ölümsüz, sonsuz (ayrıca: ölümsüz)
+ETERNITIES	(eternity sözcüğünün çekimi) (ad) sonsuzluk: sonu olmayan gelecek zaman, ebediyet
+ETERNITY	(ad) sonsuzluk: sonu olmayan gelecek zaman, ebediyet
+ETHANE	(ad) etan: formülü C2H6 olan, doymuş hidrokarbon sınıfından, gaz halinde, doğal gazda bol bulunan bileşik, etilen
+ETHANES	(ethane sözcüğünün çekimi) (ad) etan: formülü C2H6 olan, doymuş hidrokarbon sınıfından, gaz halinde, doğal gazda bol bulunan bileşik, etilen
+ETHANOL	(ad) etanol: renksiz ve yanıcı bir kimyasal bileşik, etil alkol
+ETHANOLS	(ethanol sözcüğünün çekimi) (ad) etanol: renksiz ve yanıcı bir kimyasal bileşik, etil alkol
+ETHENE	(ad) etilen: Yanıcı, renksiz, az kokulu, 0,97 yoğunluğunda karbon ve hidrojen birleşimi. (ayrıca: eten)
+ETHENES	(ethene sözcüğünün çekimi) (ad) etilen: Yanıcı, renksiz, az kokulu, 0,97 yoğunluğunda karbon ve hidrojen birleşimi. (ayrıca: eten)
+ETHER	(ad) ether kelimesinin karşılığı: ⟪eter|ETER⟫
+ETHEREALITIES	(ad) çoğul çekimi: ethereality
+ETHERS	(ad) çoğul çekimi: ether
+ETHIC	(ad) etik: çeşitli meslek kolları arasında tarafların uyması veya kaçınması gereken davranışlar bütünü
+ETHICALS	(ad) çoğul çekimi: ethical
+ETHICISTS	(ad) çoğul çekimi: ethicist
+ETHICS	(ad) ethics kelimesinin karşılığı: ⟪etik|ETİK⟫
+ETHNIC	(sıfat) etnik: Soy olarak ortak atalara, millî, dinî, veya kültürel kökenlere sahip bir grup insanla ilgili veya bunlarla ilgili. (ayrıca: ulus)
+ETHNICAL	(sıfat) ethnical kelimesinin karşılığı: ⟪ulusal|ULUSAL⟫
+ETHNICITIES	(ad) çoğul çekimi: ethnicity
+ETHNICS	(ad) çoğul çekimi: ethnic
+ETHNOCENTRIC	(ad) ethnocentric kelimesinin karşılığı: budun merkezli
+ETHNOCENTRISM	(ad) etnosentrizm: etnosentrizm (ayrıca: etnomerkezcilik, etnomerkezci)
+ETHNOCENTRISMS	(ethnocentrism sözcüğünün çekimi) (ad) etnosentrizm: etnosentrizm (ayrıca: etnomerkezcilik, etnomerkezci)
+ETHNOGRAPHERS	(ad) çoğul çekimi: ethnographer
+ETHNOGRAPHIES	(ethnography sözcüğünün çekimi) (ad) ethnography kelimesinin karşılığı: budunbetim
+ETHNOGRAPHY	(ad) ethnography kelimesinin karşılığı: budunbetim
+ETHNOLOGIES	(ethnology sözcüğünün çekimi) (ad) ırkiyat: etnoloji (ayrıca: budun bilimi, etnoloji)
+ETHNOLOGIST	(ad) etnolog: Geçmişten günümüze intikal eden kültür değerlerinin oluşumunu, gelişmesini yayılış ve farklılaşmalarını, aralarındaki bağlantıları, birbirleri ile temasları ve etkileşimlerini inceleyen, insanlığın kültür tarihini aydınlatmaya çalışan nitelikli kişi; ırk bilimci
+ETHNOLOGISTS	(ad) çoğul çekimi: ethnologist
+ETHNOLOGY	(ad) ırkiyat: etnoloji (ayrıca: budun bilimi, etnoloji)
+ETHOLOGIES	(ethology sözcüğünün çekimi) (ad) etoloji: Hayvanların davranışlarını kendi doğal çevrelerinde ve deney düzeneğine sokmadan karşılaştırmalı olarak...
+ETHOLOGY	(ad) etoloji: Hayvanların davranışlarını kendi doğal çevrelerinde ve deney düzeneğine sokmadan karşılaştırmalı olarak inceleyen bilim dalı
+ETHOSES	(ad) çoğul çekimi: ethos
+ETHYLENE	(ad) etilen: Yanıcı, renksiz, az kokulu, 0,97 yoğunluğunda karbon ve hidrojen birleşimi. (ayrıca: eten)
+ETHYLENES	(ethylene sözcüğünün çekimi) (ad) etilen: Yanıcı, renksiz, az kokulu, 0,97 yoğunluğunda karbon ve hidrojen birleşimi. (ayrıca: eten)
+ETHYLS	(ad) çoğul çekimi: ethyl
+ETUIS	(ad) çoğul çekimi: etui
+ETYMA	(ad) çoğul çekimi: etymon
+ETYMOLOGICAL	(ad) etymological kelimesinin karşılığı: kökenbilimsel
+ETYMOLOGICALLY	(etymological sözcüğünün çekimi) (ad) etymological kelimesinin karşılığı: kökenbilimsel
+ETYMOLOGIES	(ad) çoğul çekimi: etymology
+ETYMOLOGISTS	(ad) çoğul çekimi: etymologist
+ETYMOLOGY	(ad) etimoloji: Bir sözcüğün kökeni. (ayrıca: kökenbilim)
+ETYMON	(ad) etymon kelimesinin karşılığı: ⟪köken|KÖKEN⟫
+ETYMONS	(ad) çoğul çekimi: etymon
+EUCALYPTI	(eucalyptus sözcüğünün çekimi) (ad) eucalyptus kelimesinin karşılığı: ⟪okaliptus|OKALİPTUS⟫
+EUCALYPTUS	(ad) eucalyptus kelimesinin karşılığı: ⟪okaliptus|OKALİPTUS⟫
+EUCALYPTUSES	(eucalyptus sözcüğünün çekimi) (ad) eucalyptus kelimesinin karşılığı: ⟪okaliptus|OKALİPTUS⟫
+EUCHRES	(ad) çoğul çekimi: euchre
+EUDIOMETERS	(ad) çoğul çekimi: eudiometer
+EUKARYOTE	(ad) ökaryotlar: hücrelerinin yapısından dolayı bir arada gruplandırılmış bir canlılar grubu (ayrıca: ökaryot)
+EUKARYOTES	(eukaryote sözcüğünün çekimi) (ad) ökaryotlar: hücrelerinin yapısından dolayı bir arada gruplandırılmış bir canlılar grubu (ayrıca: ökaryot)
+EUNUCH	(ad) hadım: kısırlaştırılmış erkek (ayrıca: hadım ağası, harem ağası)
+EUNUCHS	(eunuch sözcüğünün çekimi) (ad) hadım: kısırlaştırılmış erkek (ayrıca: hadım ağası, harem ağası)
+EUPHEMISM	(ad) örtmece: söylenmesi kaba, çirkin veya sakıncalı görülen nesnelerin, kavramların, başka kelimelerle daha uygun ve edepli bir biçimde anlatılması, edebikelam (ayrıca: hüsnütabir)
+EUPHEMISMS	(ad) çoğul çekimi: euphemism
+EUPHONIC	(sıfat) kulağa hoş gelen, ahenkli
+EUPHONIES	(euphony sözcüğünün çekimi) (ad) euphony kelimesinin karşılığı: akışım
+EUPHONIUMS	(ad) çoğul çekimi: euphonium
+EUPHONY	(ad) euphony kelimesinin karşılığı: akışım
+EUPHORIA	(ad) euphoria kelimesinin karşılığı: ⟪keyif|KEYİF⟫
+EUPHORIAS	(euphoria sözcüğünün çekimi) (ad) euphoria kelimesinin karşılığı: ⟪keyif|KEYİF⟫
+EUPHUISMS	(ad) çoğul çekimi: euphuism
+EURO	(ad) avro: Avrupa Birliği'nin ortak para birimi
+EUROPIUM	(ad) evropiyum: Atom numarası 63 olan bir kimyasal element (ayrıca: europyum, avrupyum)
+EUROPIUMS	(europium sözcüğünün çekimi) (ad) evropiyum: Atom numarası 63 olan bir kimyasal element (ayrıca: europyum, avrupyum)
+EUROS	(euro sözcüğünün çekimi) (ad) avro: Avrupa Birliği'nin ortak para birimi
+EUTHANASIA	(ad) euthanasia kelimesinin karşılığı: ⟪ötanazi|ÖTANAZİ⟫
+EUTHANASIAS	(euthanasia sözcüğünün çekimi) (ad) euthanasia kelimesinin karşılığı: ⟪ötanazi|ÖTANAZİ⟫
+EUTROPHICATION	(ad) ötrofikasyon: Bir su kaynağında bitki besin tuzlarının artışına bağlı olarak sucul bitkilerin aşırı çoğalmasıyla şekillenen kirlilik.
+EUTROPHICATIONS	(eutrophication sözcüğünün çekimi) (ad) ötrofikasyon: Bir su kaynağında bitki besin tuzlarının artışına bağlı olarak sucul bitkilerin aşırı çoğalmasıyla...
+EUXENITES	(ad) çoğul çekimi: euxenite
+EVACUATE	(eylem) boşaltmak: boş duruma getirmek (ayrıca: tahliye etmek)
+EVACUATED	(eylem) evacuate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: tahliye etmek, boşaltmak
+EVACUATES	(eylem) evacuate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: tahliye etmek, boşaltmak
+EVACUATING	(eylem) evacuate sözcüğünün şimdiki zaman ortaç ve gerund çekimi: tahliye etmek, boşaltmak
+EVACUATION	(ad) boşaltma: boşaltmak işi. (ayrıca: tahliye)
+EVACUATIONS	(ad) evacuation sözcüğünün çoğul çekimi: boşaltma, tahliye
+EVACUEES	(ad) çoğul çekimi: evacuee
+EVADER	(ad) kaçınma işini yapan kimse
+EVALUATE	(eylem) değerlendirmek: bir şeyin özünü, önemin, nitelik ve niceliğini belirlemek (ayrıca: değer biçmek)
+EVALUATED	(evaluate sözcüğünün çekimi) (eylem) değerlendirmek: bir şeyin özünü, önemin, nitelik ve niceliğini belirlemek (ayrıca: değer biçmek)
+EVALUATES	(evaluate sözcüğünün çekimi) (eylem) değerlendirmek: bir şeyin özünü, önemin, nitelik ve niceliğini belirlemek (ayrıca: değer biçmek)
+EVALUATING	(evaluate sözcüğünün çekimi) (eylem) değerlendirmek: bir şeyin özünü, önemin, nitelik ve niceliğini belirlemek (ayrıca: değer biçmek)
+EVALUATION	(ad) değerlendirme: değerlendirmek işi, kıymetlendirme
+EVALUATIONS	(ad) çoğul çekimi: evaluation
+EVANGELISTS	(ad) çoğul çekimi: evangelist
+EVANGELS	(ad) çoğul çekimi: evangel
+EVAPORATE	(eylem) evaporate kelimesinin karşılığı: ⟪buharlaşmak|BUHARLAŞMAK⟫
+EVAPORATED	(eylem) evaporate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: buharlaşmak
+EVAPORATES	(eylem) evaporate sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: buharlaşmak
+EVAPORATING	(eylem) evaporate sözcüğünün şimdiki zaman ortaç ve gerund çekimi: buharlaşmak
+EVAPORATION	(ad) evaporation kelimesinin karşılığı: ⟪buharlaşma|BUHARLAŞMA⟫
+EVAPORATIONS	(evaporation sözcüğünün çekimi) (ad) evaporation kelimesinin karşılığı: ⟪buharlaşma|BUHARLAŞMA⟫
+EVAPORATOR	(ad) evaporator kelimesinin karşılığı: buharlaştırıcı
+EVAPORATORS	(ad) çoğul çekimi: evaporator
+EVASION	(ad) evasion kelimesinin karşılığı: ⟪kaçınma|KAÇINMA⟫
+EVASIONS	(ad) evasion sözcüğünün çoğul çekimi: kaçınma
+EVE	(ad) eve kelimesinin karşılığı: ⟪arife|ARİFE⟫
+EVECTIONS	(ad) çoğul çekimi: evection
+EVEN	(sıfat) sayı, miktar veya değer olarak eşit.\n(eylem) eşitlemek, eşit hale getirmek.
+EVENED	(even sözcüğünün çekimi) (sıfat) sayı, miktar veya değer olarak eşit.
+EVENER	(even sözcüğünün çekimi) (sıfat) sayı, miktar veya değer olarak eşit.
+EVENERS	(even sözcüğünün çekimi) (sıfat) sayı, miktar veya değer olarak eşit.
+EVENEST	(even sözcüğünün çekimi) (sıfat) sayı, miktar veya değer olarak eşit.
+EVENING	(ad) akşam: günün bir vakti
+EVENINGS	(ad) çoğul çekimi: evening
+EVENS	(ad) çoğul çekimi: even
+EVENSONGS	(ad) çoğul çekimi: evensong
+EVENT	(ad) olay: Ortaya çıkan, oluşan durum, ilgi çeken veya çekebilecek nitelikte olan her türlü iş; hadise, vaka (ayrıca: hadise, vaka)
+EVENTIDES	(ad) çoğul çekimi: eventide
+EVENTS	(ad) event sözcüğünün çoğul çekimi: hadise, olay, vaka
+EVENTUALITIES	(ad) çoğul çekimi: eventuality
+EVENTUALLY	(zarf) eventually kelimesinin karşılığı: ⟪sonunda|SONUNDA⟫, ⟪nihayet|NİHAYET⟫, önünde sonunda
+EVER	(zarf) ever kelimesinin karşılığı: ⟪hiç|HİÇ⟫, hiçbir zaman
+EVERGLADES	(ad) çoğul çekimi: everglade
+EVERGREENS	(ad) çoğul çekimi: evergreen
+EVERLASTING	(sıfat) everlasting kelimesinin karşılığı: ⟪sonsuz|SONSUZ⟫
+EVERLASTINGS	(everlasting sözcüğünün çekimi) (sıfat) everlasting kelimesinin karşılığı: ⟪sonsuz|SONSUZ⟫
+EVERY	(zamir) every kelimesinin karşılığı: : her
+EVERYBODY	(zamir) (belgisiz adıl): cümle âlem, her, herkes
+EVERYDAY	(sıfat) banal: Herkesçe kullanılan, anlaşılan.
+EVERYONE	(zamir) (belgisiz adıl): cümle âlem, her, herkes
+EVERYTHING	(zamir) birisi için çok önemli olan şeylerin tamamı
+EVES	(ad) çoğul çekimi: eve
+EVICTIONS	(ad) çoğul çekimi: eviction
+EVIDENCE	(ad) beyyine: duruşma sırasında bir düşünceyi gerçekleştirmek için başvurulan belge, kanıt, tutamak, delil (ayrıca: kanıt, tutamak)
+EVIDENCED	(evidence sözcüğünün çekimi) (ad) beyyine: duruşma sırasında bir düşünceyi gerçekleştirmek için başvurulan belge, kanıt, tutamak, delil (ayrıca:...
+EVIDENCES	(ad) evidence sözcüğünün çoğul çekimi: beyyine, kanıt, tutamak, delil, sübut
+EVIDENCING	(evidence sözcüğünün çekimi) (ad) beyyine: duruşma sırasında bir düşünceyi gerçekleştirmek için başvurulan belge, kanıt, tutamak, delil (ayrıca:...
+EVIL	(sıfat) evil kelimesinin karşılığı: ⟪kötü|KÖTÜ⟫\n(zarf) evil kelimesinin karşılığı: ⟪şeytanca|ŞEYTANCA⟫, ⟪şeytanî|ŞEYTANİ⟫
+EVILDOERS	(ad) çoğul çekimi: evildoer
+EVILDOINGS	(ad) çoğul çekimi: evildoing
+EVILER	(evil sözcüğünün çekimi) (sıfat) evil kelimesinin karşılığı: ⟪kötü|KÖTÜ⟫
+EVILEST	(evil sözcüğünün çekimi) (sıfat) evil kelimesinin karşılığı: ⟪kötü|KÖTÜ⟫
+EVILLER	(evil sözcüğünün çekimi) (sıfat) evil kelimesinin karşılığı: ⟪kötü|KÖTÜ⟫
+EVILLEST	(evil sözcüğünün çekimi) (sıfat) evil kelimesinin karşılığı: ⟪kötü|KÖTÜ⟫
+EVILNESS	(ad) evilness kelimesinin karşılığı: ⟪kötülük|KÖTÜLÜK⟫
+EVILNESSES	(evilness sözcüğünün çekimi) (ad) evilness kelimesinin karşılığı: ⟪kötülük|KÖTÜLÜK⟫
+EVILS	(ad) çoğul çekimi: evil
+EVISCERATE	(eylem) iç organlarını çıkarmak
+EVISCERATED	(eviscerate sözcüğünün çekimi) (eylem) iç organlarını çıkarmak
+EVISCERATES	(eviscerate sözcüğünün çekimi) (eylem) iç organlarını çıkarmak
+EVISCERATING	(eviscerate sözcüğünün çekimi) (eylem) iç organlarını çıkarmak
+EVOCATIVE	(sıfat) evocative kelimesinin karşılığı: çağrışımcı
+EVOCATIVELY	(evocative sözcüğünün çekimi) (sıfat) evocative kelimesinin karşılığı: çağrışımcı
+EVOCATORS	(ad) çoğul çekimi: evocator
+EVOLUTION	(ad) evrim: canlıyı ötekilerden ayırt eden biçimsel ve yapısal karakterlerin gelişmesi yolunda geçirilen bir dizi değişme olayı, tekâmül, evolüsyon
+EVOLUTIONARY	(ad) evolutionary kelimesinin karşılığı: evrimsel
+EVOLUTIONISMS	(ad) çoğul çekimi: evolutionism
+EVOLUTIONISTS	(ad) çoğul çekimi: evolutionist
+EVOLUTIONS	(ad) çoğul çekimi: evolution
+EVOLVE	(eylem) evolve kelimesinin karşılığı: ⟪dönüştürmek|DÖNÜŞTÜRMEK⟫, evrimleştirmek, ⟪geliştirmek|GELİŞTİRMEK⟫
+EVOLVED	(eylem) evolve sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dönüştürmek, evrimleştirmek, geliştirmek
+EVOLVER	(evolve sözcüğünün çekimi) (eylem) evolve kelimesinin karşılığı: ⟪dönüştürmek|DÖNÜŞTÜRMEK⟫, evrimleştirmek, ⟪geliştirmek|GELİŞTİRMEK⟫
+EVOLVES	(eylem) evolve sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dönüştürmek, evrimleştirmek, geliştirmek
+EVOLVING	(eylem) evolve sözcüğünün şimdiki zaman ortaç ve gerund çekimi: dönüştürmek, evrimleştirmek, geliştirmek
+EWE	(ad) ewe kelimesinin karşılığı: ⟪marya|MARYA⟫
+EWERS	(ad) çoğul çekimi: ewer
+EWES	(ad) çoğul çekimi: ewe
+EXACERBATION	(ad) exacerbation kelimesinin karşılığı: ⟪kötüleşme|KÖTÜLEŞME⟫
+EXACERBATIONS	(ad) exacerbation sözcüğünün çoğul çekimi: kötüleşme
+EXACTERS	(ad) çoğul çekimi: exacter
+EXACTLY	(zarf) kesin olarak: Kesinlikle. (ayrıca: katiyetle, kesinlikle)\n(edat) exactly kelimesinin karşılığı: ⟪aynen|AYNEN⟫
+EXACTORS	(ad) çoğul çekimi: exactor
+EXAGGERATE	(eylem) abartmak: bir nesneyi veya durumu olduğundan daha önemli, daha büyük veya daha çok göstermek, mübalağa etmek (ayrıca: mübalağa etmek)
+EXAGGERATED	(sıfat) abartılı: olduğundan fazla gösterilen, abartmalı, mübalağalı (ayrıca: abartılmış)\n(eylem) exaggerate sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: abartmak, mübalağa etmek
+EXAGGERATES	(exaggerate sözcüğünün çekimi) (eylem) abartmak: bir nesneyi veya durumu olduğundan daha önemli, daha büyük veya daha çok göstermek, mübalağa etmek...
+EXAGGERATING	(ad) exaggerating kelimesinin karşılığı: ⟪abartılma|ABARTILMA⟫
+EXAGGERATION	(ad) aşırılık: aşırı olma durumu (ayrıca: abartma, mübalağa)
+EXAGGERATIONS	(ad) çoğul çekimi: exaggeration
+EXAGGERATOR	(ad) abartıcı: Abartıyı huy edinen (kimse); abartmacı, mübalağacı
+EXAGGERATORS	(ad) çoğul çekimi: exaggerator
+EXALTATION	(ad) vecit: Sevgi ya da heyecandan doğan coşkunluk, kendinden geçme, esrime. (ayrıca: aşırı mutluluk, coşku)
+EXALTATIONS	(exaltation sözcüğünün çekimi) (ad) vecit: Sevgi ya da heyecandan doğan coşkunluk, kendinden geçme, esrime. (ayrıca: aşırı mutluluk, coşku)
+EXALTED	(sıfat) büyük: (mecaz) Makam, rütbe, derece bakımından daha üst olan kimse. (ayrıca: yüce, yüksek)
+EXALTERS	(ad) çoğul çekimi: exalter
+EXAM	(ad) sınav: öğrencilerin veya bir işe girmek isteyenlerin bilgi derecesini anlamak için yapılan yoklama, imtihan, test
+EXAMINATION	(ad) tetkik: inceleme (ayrıca: inceleme)
+EXAMINATIONS	(ad) çoğul çekimi: examination
+EXAMINEE	(ad) examinee kelimesinin karşılığı: sınava giren
+EXAMINEES	(ad) çoğul çekimi: examinee
+EXAMINER	(ad) Sınavı yapan kimse.
+EXAMINERS	(ad) çoğul çekimi: examiner
+EXAMPLE	(eylem) örnek verilmiş olmak
+EXAMPLED	(example sözcüğünün çekimi) (eylem) örnek verilmiş olmak
+EXAMPLES	(ad) example sözcüğünün çoğul çekimi: örnek verilmiş olmak
+EXAMPLING	(example sözcüğünün çekimi) (eylem) örnek verilmiş olmak
+EXAMS	(ad) exam sözcüğünün çoğul çekimi: sınav
+EXANTHEMATA	(ad) exanthema sözcüğünün çoğul çekimi
+EXASPERATE	(eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak
+EXASPERATED	(exasperate sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak
+EXASPERATES	(exasperate sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak
+EXASPERATING	(exasperate sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak
+EXCAVATE	(eylem) excavate kelimesinin karşılığı: kazı yapmak
+EXCAVATED	(excavate sözcüğünün çekimi) (eylem) excavate kelimesinin karşılığı: kazı yapmak
+EXCAVATES	(excavate sözcüğünün çekimi) (eylem) excavate kelimesinin karşılığı: kazı yapmak
+EXCAVATING	(excavate sözcüğünün çekimi) (eylem) excavate kelimesinin karşılığı: kazı yapmak
+EXCAVATION	(ad) excavation kelimesinin karşılığı: ⟪kazı|KAZI⟫
+EXCAVATIONS	(excavation sözcüğünün çekimi) (ad) excavation kelimesinin karşılığı: ⟪kazı|KAZI⟫
+EXCAVATOR	(ad) excavator kelimesinin karşılığı: ⟪ekskavatör|EKSKAVATÖR⟫
+EXCAVATORS	(ad) çoğul çekimi: excavator
+EXCEED	(eylem) aşmak: yüksek, uzak veya geçilmesi güç yerin öte yanına geçmek
+EXCEEDED	(exceed sözcüğünün çekimi) (eylem) aşmak: yüksek, uzak veya geçilmesi güç yerin öte yanına geçmek
+EXCEEDING	(exceed sözcüğünün çekimi) (eylem) aşmak: yüksek, uzak veya geçilmesi güç yerin öte yanına geçmek
+EXCEEDS	(exceed sözcüğünün çekimi) (eylem) aşmak: yüksek, uzak veya geçilmesi güç yerin öte yanına geçmek
+EXCELLENCE	(ad) uzluk: ustalık, işinin eri olma durumu, hazakat, ehliyet (ayrıca: meziyet, mükemmellik)
+EXCELLENCES	(excellence sözcüğünün çekimi) (ad) uzluk: ustalık, işinin eri olma durumu, hazakat, ehliyet (ayrıca: meziyet, mükemmellik)
+EXCELLENCIES	(ad) çoğul çekimi: excellency
+EXCEPT	(edat) hariç: Dışta kalmak üzere, dışında sayılmak üzere, müstesna.
+EXCEPTED	(except sözcüğünün çekimi) (edat) hariç: Dışta kalmak üzere, dışında sayılmak üzere, müstesna.
+EXCEPTING	(except sözcüğünün çekimi) (edat) hariç: Dışta kalmak üzere, dışında sayılmak üzere, müstesna.
+EXCEPTION	(ad) exception kelimesinin karşılığı: kuraldışı
+EXCEPTIONAL	(sıfat) istisnai: ayrı
+EXCEPTIONS	(exception sözcüğünün çekimi) (ad) exception kelimesinin karşılığı: kuraldışı
+EXCEPTS	(except sözcüğünün çekimi) (edat) hariç: Dışta kalmak üzere, dışında sayılmak üzere, müstesna.
+EXCERPTS	(ad) çoğul çekimi: excerpt
+EXCESS	(ad) excess kelimesinin karşılığı: ⟪artık|ARTIK⟫
+EXCESSED	(excess sözcüğünün çekimi) (ad) excess kelimesinin karşılığı: ⟪artık|ARTIK⟫
+EXCESSES	(ad) çoğul çekimi: excess
+EXCESSING	(excess sözcüğünün çekimi) (ad) excess kelimesinin karşılığı: ⟪artık|ARTIK⟫
+EXCESSIVE	(sıfat) taşkın: aşırı. (ayrıca: aşırı)
+EXCESSIVELY	(zarf) excessively kelimesinin karşılığı: aşırı derecede, aşırı biçimde
+EXCHANGE	(ad) exchange kelimesinin karşılığı: ⟪değiştirme|DEĞİŞTİRME⟫
+EXCHANGED	(eylem) exchange sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: değiştirme
+EXCHANGERS	(ad) çoğul çekimi: exchanger
+EXCHANGES	(ad) exchange sözcüğünün çoğul çekimi: değiştirme
+EXCHANGING	(exchange sözcüğünün çekimi) (ad) exchange kelimesinin karşılığı: ⟪değiştirme|DEĞİŞTİRME⟫
+EXCHEQUERS	(ad) çoğul çekimi: exchequer
+EXCIPIENT	(ad) excipient kelimesinin karşılığı: yardımcı madde
+EXCIPIENTS	(ad) çoğul çekimi: excipient
+EXCITATION	(ad) excitation kelimesinin karşılığı: ⟪uyarılma|UYARILMA⟫
+EXCITATIONS	(excitation sözcüğünün çekimi) (ad) excitation kelimesinin karşılığı: ⟪uyarılma|UYARILMA⟫
+EXCITED	(sıfat) excited kelimesinin karşılığı: ⟪heyecanlı|HEYECANLI⟫\n(eylem) excite sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+EXCITEMENT	(ad) coşku: genellikle büyük istekle ortaya çıkan geçici hayranlık veya heyecan durumu
+EXCITEMENTS	(ad) çoğul çekimi: excitement
+EXCITERS	(ad) çoğul çekimi: exciter
+EXCLAIMS	(ad) çoğul çekimi: exclaim
+EXCLAMATION	(ad) exclamation kelimesinin karşılığı: ⟪ünlem|ÜNLEM⟫
+EXCLAMATIONS	(exclamation sözcüğünün çekimi) (ad) exclamation kelimesinin karşılığı: ⟪ünlem|ÜNLEM⟫
+EXCLAMATORY	(ad) exclamatory kelimesinin karşılığı: ünlemle ilgili
+EXCLUSIVELY	(ad) yalnızca: belli durumun, şartın veya işin dışına çıkmaksızın, yalnız, ancak, tek, sırf, salt, sadece (ayrıca: özellikle)
+EXCOMMUNICATE	(eylem) excommunicate kelimesinin karşılığı: aforoz etmek
+EXCOMMUNICATED	(excommunicate sözcüğünün çekimi) (eylem) excommunicate kelimesinin karşılığı: aforoz etmek
+EXCOMMUNICATES	(ad) çoğul çekimi: excommunicate
+EXCOMMUNICATING	(excommunicate sözcüğünün çekimi) (eylem) excommunicate kelimesinin karşılığı: aforoz etmek
+EXCREMENT	(ad) excrement kelimesinin karşılığı: ⟪dışkı|DIŞKI⟫
+EXCREMENTS	(excrement sözcüğünün çekimi) (ad) excrement kelimesinin karşılığı: ⟪dışkı|DIŞKI⟫
+EXCRESCENCES	(ad) çoğul çekimi: excrescence
+EXCRESCENT	(ad) excrescent kelimesinin karşılığı: iç türemeli
+EXCRESCENTLY	(excrescent sözcüğünün çekimi) (ad) excrescent kelimesinin karşılığı: iç türemeli
+EXCRETION	(ad) excretion kelimesinin karşılığı: ⟪boşaltım|BOŞALTIM⟫
+EXCRETIONS	(ad) çoğul çekimi: excretion
+EXCULPATE	(ad) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek (ayrıca: temize çıkarmak)
+EXCULPATED	(exculpate sözcüğünün çekimi) (ad) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek (ayrıca:...
+EXCULPATES	(exculpate sözcüğünün çekimi) (ad) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek (ayrıca:...
+EXCULPATING	(exculpate sözcüğünün çekimi) (ad) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek (ayrıca:...
+EXCULPATIONS	(ad) çoğul çekimi: exculpation
+EXCURSION	(ad) gezi: gezmek, görmek, eğlenmek amacıyla yapılan yolculuk (ayrıca: gezinti, tur)
+EXCURSIONISTS	(ad) çoğul çekimi: excursionist
+EXCURSIONS	(excursion sözcüğünün çekimi) (ad) gezi: gezmek, görmek, eğlenmek amacıyla yapılan yolculuk (ayrıca: gezinti, tur)
+EXCUSE	(ad) excuse kelimesinin karşılığı: ⟪bahane|BAHANE⟫
+EXCUSED	(excuse sözcüğünün çekimi) (ad) excuse kelimesinin karşılığı: ⟪bahane|BAHANE⟫
+EXCUSES	(ad) excuse sözcüğünün çoğul çekimi: bahane
+EXCUSING	(excuse sözcüğünün çekimi) (ad) excuse kelimesinin karşılığı: ⟪bahane|BAHANE⟫
+EXECRATE	(eylem) kınamak: yapılan bir işin kötü oduğunu belirten biçimde söz söylemek, ayıplamak (ayrıca: lanetlemek)
+EXECRATED	(execrate sözcüğünün çekimi) (eylem) kınamak: yapılan bir işin kötü oduğunu belirten biçimde söz söylemek, ayıplamak (ayrıca: lanetlemek)
+EXECRATES	(execrate sözcüğünün çekimi) (eylem) kınamak: yapılan bir işin kötü oduğunu belirten biçimde söz söylemek, ayıplamak (ayrıca: lanetlemek)
+EXECRATING	(execrate sözcüğünün çekimi) (eylem) kınamak: yapılan bir işin kötü oduğunu belirten biçimde söz söylemek, ayıplamak (ayrıca: lanetlemek)
+EXECRATIONS	(ad) çoğul çekimi: execration
+EXECS	(ad) çoğul çekimi: exec
+EXECUTABLES	(ad) çoğul çekimi: executable
+EXECUTE	(eylem) execute kelimesinin karşılığı: idam etmek
+EXECUTED	(execute sözcüğünün çekimi) (eylem) execute kelimesinin karşılığı: idam etmek
+EXECUTES	(execute sözcüğünün çekimi) (eylem) execute kelimesinin karşılığı: idam etmek
+EXECUTING	(execute sözcüğünün çekimi) (eylem) execute kelimesinin karşılığı: idam etmek
+EXECUTION	(ad) idam: insan öldürme vb. bir suça karşılık verilen ve suçlunun ölümüyle sonuçlanan ceza, idam cezası, ölüm cezası (ayrıca: idam cezası, ölüm cezası)
+EXECUTIONER	(ad) cellat: Ölüm cezasına çarptırılanları öldürmekle görevli olan kimse
+EXECUTIONERS	(ad) çoğul çekimi: executioner
+EXECUTIONS	(ad) çoğul çekimi: execution
+EXECUTIVES	(ad) executive sözcüğünün çoğul çekimi
+EXECUTORS	(ad) çoğul çekimi: executor
+EXEGESES	(exegesis sözcüğünün çekimi) (ad) şerh: açma, ayırma
+EXEGESIS	(ad) şerh: açma, ayırma
+EXEGETES	(ad) çoğul çekimi: exegete
+EXEMPLARS	(ad) çoğul çekimi: exemplar
+EXEMPLARY	(sıfat) exemplary kelimesinin karşılığı: ⟪örneklik|ÖRNEKLİK⟫
+EXEMPTS	(ad) çoğul çekimi: exempt
+EXENTERATIONS	(ad) çoğul çekimi: exenteration
+EXEQUIES	(ad) çoğul çekimi: exequy
+EXERCISE	(ad) exercise kelimesinin karşılığı: ⟪ödev|ÖDEV⟫
+EXERCISED	(exercise sözcüğünün çekimi) (ad) exercise kelimesinin karşılığı: ⟪ödev|ÖDEV⟫
+EXERCISERS	(ad) çoğul çekimi: exerciser
+EXERCISES	(ad) çoğul çekimi: exercise
+EXERCISING	(exercise sözcüğünün çekimi) (ad) exercise kelimesinin karşılığı: ⟪ödev|ÖDEV⟫
+EXERT	(eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek
+EXERTED	(exert sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek
+EXERTING	(exert sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek
+EXERTION	(ad) çaba: herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor (ayrıca: zahmet, efor)
+EXERTIONS	(ad) çoğul çekimi: exertion
+EXERTS	(exert sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek
+EXHALATION	(ad) exhalation kelimesinin karşılığı: soluk verme
+EXHALATIONS	(exhalation sözcüğünün çekimi) (ad) exhalation kelimesinin karşılığı: soluk verme
+EXHAUST	(ad) exhaust kelimesinin karşılığı: egzoz gazı
+EXHAUSTED	(exhaust sözcüğünün çekimi) (ad) exhaust kelimesinin karşılığı: egzoz gazı
+EXHAUSTING	(exhaust sözcüğünün çekimi) (ad) exhaust kelimesinin karşılığı: egzoz gazı
+EXHAUSTIVE	(sıfat) ayrıntılı: ayrıntısı olan, teferruatlı, tafsilâtlı, detaylı, mufassal, ince, uzun (ayrıca: kapsamlı, detaylı)
+EXHAUSTS	(exhaust sözcüğünün çekimi) (ad) exhaust kelimesinin karşılığı: egzoz gazı
+EXHIBIT	(eylem) sergilemek: Bazı şeyleri göstermek, tanıtmak veya satmak amacıyla herhangi bir biçimde, herkesin görebileceği bir yere yerleştirmek, teşhir etmek
+EXHIBITED	(exhibit sözcüğünün çekimi) (eylem) sergilemek: Bazı şeyleri göstermek, tanıtmak veya satmak amacıyla herhangi bir biçimde, herkesin görebileceği...
+EXHIBITING	(exhibit sözcüğünün çekimi) (eylem) sergilemek: Bazı şeyleri göstermek, tanıtmak veya satmak amacıyla herhangi bir biçimde, herkesin görebileceği...
+EXHIBITION	(ad) sergi: alıcının görmesi, seçmesi için dizilmiş şeylerin tümü ve bu nesnelerin serildiği yer
+EXHIBITIONS	(ad) exhibition sözcüğünün çoğul çekimi: sergi.
+EXHIBITORS	(ad) çoğul çekimi: exhibitor
+EXHIBITS	(ad) exhibit sözcüğünün çoğul çekimi: sergilemek
+EXHORT	(eylem) exhort kelimesinin karşılığı: ikaz etmek, ⟪uyarmak|UYARMAK⟫
+EXHORTATIONS	(ad) çoğul çekimi: exhortation
+EXHORTATIVE	(ad) exhortative kelimesinin karşılığı: özendirme kipi
+EXHORTED	(exhort sözcüğünün çekimi) (eylem) exhort kelimesinin karşılığı: ikaz etmek, ⟪uyarmak|UYARMAK⟫
+EXHORTING	(ad) exhorting kelimesinin karşılığı: ikaz etme, ⟪uyarma|UYARMA⟫\n(eylem) exhort sözcüğünün şimdiki zaman ortaç ve gerund çekimi: ikaz etmek, uyarmak
+EXHORTS	(exhort sözcüğünün çekimi) (eylem) exhort kelimesinin karşılığı: ikaz etmek, ⟪uyarmak|UYARMAK⟫
+EXIGENCIES	(ad) çoğul çekimi: exigency
+EXIGENCY	(ad) exigency kelimesinin karşılığı: acil durum
+EXILE	(ad) exile kelimesinin karşılığı: ⟪sürgün|SÜRGÜN⟫\n(eylem) sürmek: oturduğu, bulunduğu yerden, ülkeden ceza olarak başka bir yer veya ülkeye göndermek, nefyetmek, (ayrıca: sürgün etmek, sürgüne göndermek)
+EXILED	(eylem) exile sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sürgün
+EXILES	(ad) exile sözcüğünün çoğul çekimi: sürgün\n(eylem) exile sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: sürgün
+EXILING	(eylem) exile sözcüğünün şimdiki zaman ortaç ve gerund çekimi: sürgün
+EXIST	(sıfat) var: Mevcut, evrende veya düşüncede yer alan, yok karşıtı.
+EXISTED	(exist sözcüğünün çekimi) (sıfat) var: Mevcut, evrende veya düşüncede yer alan, yok karşıtı.
+EXISTENCE	(ad) mevcudiyet: varoluş (ayrıca: varlık, varoluş)
+EXISTENCES	(existence sözcüğünün çekimi) (ad) mevcudiyet: varoluş (ayrıca: varlık, varoluş)
+EXISTENTIAL	(sıfat) existential kelimesinin karşılığı: varoluşsal, egzistansiyel
+EXISTENTIALISM	(ad) varoluşçuluk: varoluşun özden önce geldiğini ve özü sürekli olarak yarattığını ileri süren öğreti, egzistansiyalizm (ayrıca: egzistansiyalizm)
+EXISTENTIALISMS	(ad) çoğul çekimi: existentialism
+EXISTENTIALIST	(ad) existentialist kelimesinin karşılığı: ⟪varoluşçu|VAROLUŞÇU⟫, ⟪egzistansiyalist|EGZİSTANSİYALİST⟫
+EXISTENTIALISTS	(existentialist sözcüğünün çekimi) (ad) existentialist kelimesinin karşılığı: ⟪varoluşçu|VAROLUŞÇU⟫, ⟪egzistansiyalist|EGZİSTANSİYALİST⟫
+EXISTENTIALLY	(existential sözcüğünün çekimi) (sıfat) existential kelimesinin karşılığı: varoluşsal, egzistansiyel
+EXISTENTS	(ad) çoğul çekimi: existent
+EXISTING	(sıfat) var: Mevcut, evrende veya düşüncede yer alan, yok karşıtı.
+EXISTS	(ad) var: Elde bulunan her şey.
+EXIT	(ad) çıkış: Bir yerden çıkmak için kullanılan nokta.
+EXITED	(exit sözcüğünün çekimi) (ad) çıkış: Bir yerden çıkmak için kullanılan nokta.
+EXITING	(sıfat) exiting kelimesinin karşılığı: ⟪çıkma|ÇIKMA⟫\n(ad) ayrılma: ayrılmak işi, infirak, terk
+EXITS	(ad) çoğul çekimi: exit
+EXOCARPS	(ad) çoğul çekimi: exocarp
+EXODUS	(ad) akın: düşman topraklarına tedirgin etme, yıldırma, çapul vb. amaçlarla toplu olarak yapılan baskın
+EXODUSES	(ad) çoğul çekimi: exodus
+EXOGAMIES	(exogamy sözcüğünün çekimi) (ad) egzogami: dış evlilik (ayrıca: dış evlilik)
+EXOGAMY	(ad) egzogami: dış evlilik (ayrıca: dış evlilik)
+EXOGENOUS	(ad) exogenous kelimesinin karşılığı: ekzojen
+EXOGENOUSLY	(exogenous sözcüğünün çekimi) (ad) exogenous kelimesinin karşılığı: ekzojen
+EXONERATE	(eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek (ayrıca: temize çıkarmak, suçsuz çıkarmak)
+EXONERATED	(exonerate sözcüğünün çekimi) (eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek...
+EXONERATES	(exonerate sözcüğünün çekimi) (eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek...
+EXONERATING	(exonerate sözcüğünün çekimi) (eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek...
+EXONUCLEASES	(ad) çoğul çekimi: exonuclease
+EXORBITANCES	(ad) çoğul çekimi: exorbitance
+EXORBITANT	(sıfat) aşırı: Bir şeye gereğinden çok fazla bağlanan, önem veren; müfrit, ekstrem. (ayrıca: çok fazla, fahiş)
+EXORCISMS	(ad) çoğul çekimi: exorcism
+EXOSKELETONS	(ad) çoğul çekimi: exoskeleton
+EXOSPORES	(ad) çoğul çekimi: exospore
+EXOTERIC	(sıfat) exoteric kelimesinin karşılığı: ⟪egzoterik|EGZOTERİK⟫
+EXOTHERMIC	(ad) exothermic kelimesinin karşılığı: ⟪ekzotermik|EKZOTERMİK⟫, ısı veren, ısı yayan
+EXOTIC	(sıfat) exotic kelimesinin karşılığı: ⟪egzotik|EGZOTİK⟫
+EXOTICS	(exotic sözcüğünün çekimi) (sıfat) exotic kelimesinin karşılığı: ⟪egzotik|EGZOTİK⟫
+EXOTOXINS	(ad) çoğul çekimi: exotoxin
+EXPAND	(eylem) genişletmek: geniş duruma getirmek (ayrıca: genişlemek)
+EXPANDED	(eylem) expand sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: genişlemek, genişletmek
+EXPANDING	(expand sözcüğünün çekimi) (eylem) genişletmek: geniş duruma getirmek (ayrıca: genişlemek)
+EXPANDS	(expand sözcüğünün çekimi) (eylem) genişletmek: geniş duruma getirmek (ayrıca: genişlemek)
+EXPANSES	(ad) çoğul çekimi: expanse
+EXPANSION	(ad) expansion kelimesinin karşılığı: ⟪yayılım|YAYILIM⟫
+EXPANSIONS	(ad) expansion sözcüğünün çoğul çekimi: yayılım
+EXPANSIVE	(sıfat) büyük: (mecaz) Makam, rütbe, derece bakımından daha üst olan kimse. (ayrıca: geniş)
+EXPATIATIONS	(ad) çoğul çekimi: expatiation
+EXPATRIATE	(ad) sürgün: ceza olarak belli bir yerin dışında veya belli bir yerde oturtulan kişi
+EXPATRIATED	(expatriate sözcüğünün çekimi) (ad) sürgün: ceza olarak belli bir yerin dışında veya belli bir yerde oturtulan kişi
+EXPATRIATES	(ad) çoğul çekimi: expatriate
+EXPATRIATING	(expatriate sözcüğünün çekimi) (ad) sürgün: ceza olarak belli bir yerin dışında veya belli bir yerde oturtulan kişi
+EXPATRIATIONS	(ad) çoğul çekimi: expatriation
+EXPATS	(ad) çoğul çekimi: expat
+EXPECT	(eylem) beklemek: Bir kimsenin gelmesini veya bir işin olmasını gözler vaziyette olmak. (ayrıca: ummak)
+EXPECTANCIES	(ad) çoğul çekimi: expectancy
+EXPECTANT	(sıfat) umutlu: umudu olan, umut besleyen, ümitli, ümitvar (ayrıca: ümitli, beklenti içinde)
+EXPECTANTS	(expectant sözcüğünün çekimi) (sıfat) umutlu: umudu olan, umut besleyen, ümitli, ümitvar (ayrıca: ümitli, beklenti içinde)
+EXPECTATIONS	(ad) expectation sözcüğünün çoğul çekimi
+EXPECTED	(zarf) beklendik: beklenmek fiilinin bildirme kipi görülen geçmiş zaman 1. çokluk şahıs olumlu çekimi
+EXPECTING	(expect sözcüğünün çekimi) (eylem) beklemek: Bir kimsenin gelmesini veya bir işin olmasını gözler vaziyette olmak. (ayrıca: ummak)
+EXPECTORANT	(ad) expectorant kelimesinin karşılığı: balgam söktürücü
+EXPECTORANTS	(expectorant sözcüğünün çekimi) (ad) expectorant kelimesinin karşılığı: balgam söktürücü
+EXPECTS	(expect sözcüğünün çekimi) (eylem) beklemek: Bir kimsenin gelmesini veya bir işin olmasını gözler vaziyette olmak. (ayrıca: ummak)
+EXPEDIENCES	(ad) çoğul çekimi: expedience
+EXPEDIENCIES	(ad) çoğul çekimi: expediency
+EXPEDIENTS	(ad) çoğul çekimi: expedient
+EXPEDITED	(eylem) expedite sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi\n(sıfat) hızlandırılmış: hızlı hâle getirilmiş
+EXPEDITIONS	(ad) çoğul çekimi: expedition
+EXPEDITIOUS	(sıfat) çabuk: alışılandan veya gösterilenden daha kısa bir zamanda, tez, yavaş karşıtı (ayrıca: müstacel)
+EXPEL	(eylem) atmak: Çıkarmak, dışarıya vermek. (ayrıca: kovmak, sürmek)
+EXPELLED	(expel sözcüğünün çekimi) (eylem) atmak: Çıkarmak, dışarıya vermek. (ayrıca: kovmak, sürmek)
+EXPELLING	(expel sözcüğünün çekimi) (eylem) atmak: Çıkarmak, dışarıya vermek. (ayrıca: kovmak, sürmek)
+EXPELS	(expel sözcüğünün çekimi) (eylem) atmak: Çıkarmak, dışarıya vermek. (ayrıca: kovmak, sürmek)
+EXPEND	(eylem) harcamak: bir şey yapmak için kullanmak, tüketmek (ayrıca: sarfetmek)
+EXPENDED	(expend sözcüğünün çekimi) (eylem) harcamak: bir şey yapmak için kullanmak, tüketmek (ayrıca: sarfetmek)
+EXPENDING	(expend sözcüğünün çekimi) (eylem) harcamak: bir şey yapmak için kullanmak, tüketmek (ayrıca: sarfetmek)
+EXPENDITURES	(ad) çoğul çekimi: expenditure
+EXPENDS	(expend sözcüğünün çekimi) (eylem) harcamak: bir şey yapmak için kullanmak, tüketmek (ayrıca: sarfetmek)
+EXPENSE	(ad) harcama: bir şey almak için elden çıkarılan para, gider (ayrıca: masraf)
+EXPENSED	(expense sözcüğünün çekimi) (ad) harcama: bir şey almak için elden çıkarılan para, gider (ayrıca: masraf)
+EXPENSES	(ad) expense sözcüğünün çoğul çekimi: masraf, harcama
+EXPENSING	(expense sözcüğünün çekimi) (ad) harcama: bir şey almak için elden çıkarılan para, gider (ayrıca: masraf)
+EXPENSIVE	(sıfat) pahalı: Fiyatı yüksek olan.
+EXPERIENCE	(ad) deneyim: bir kişinin belli bir sürede veya hayat boyu edindiği bilgilerin tamamı, tecrübe, eksperyans (ayrıca: eksperyans, tecrübe)\n(eylem) experience kelimesinin karşılığı: tecrübe etmek
+EXPERIENCED	(sıfat) deneyimli: deneyim kazanmış olan, tecrübeli, anaç
+EXPERIENCES	(ad) experience sözcüğünün çoğul çekimi: deneyim, eksperyans, tecrübe\n(eylem) experience sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: deneyim, eksperyans, tecrübe
+EXPERIENCING	(experience sözcüğünün çekimi) (ad) deneyim: bir kişinin belli bir sürede veya hayat boyu edindiği bilgilerin tamamı, tecrübe, eksperyans (ayrıca:...
+EXPERIMENTAL	(ad) experimental kelimesinin karşılığı: deneyli/araçlı
+EXPERIMENTALISTS	(ad) çoğul çekimi: experimentalist
+EXPERIMENTATIONS	(ad) çoğul çekimi: experimentation
+EXPERIMENTERS	(ad) çoğul çekimi: experimenter
+EXPERIMENTS	(ad) experiment sözcüğünün çoğul çekimi
+EXPERT	(ad) bilirkişi: Çözümlenmesi özel veya bilimsel bilgiye dayanan konularda oyuna veya düşüncesine başvurulan kimse; ehlihibre, ehlivukuf (ayrıca: eksper)
+EXPERTED	(expert sözcüğünün çekimi) (ad) bilirkişi: Çözümlenmesi özel veya bilimsel bilgiye dayanan konularda oyuna veya düşüncesine başvurulan kimse;...
+EXPERTING	(expert sözcüğünün çekimi) (ad) bilirkişi: Çözümlenmesi özel veya bilimsel bilgiye dayanan konularda oyuna veya düşüncesine başvurulan kimse;...
+EXPERTISE	(ad) uzmanlık: bir veya daha fazla alanda üstün performans gösterme olarak tanımlanma, uzman olma durumu, uzmanın görevi, mütehassıslık, ihtisas, kompetanlık (ayrıca: mütehassıslık, ihtisas)
+EXPERTISES	(expertise sözcüğünün çekimi) (ad) uzmanlık: bir veya daha fazla alanda üstün performans gösterme olarak tanımlanma, uzman olma durumu, uzmanın...
+EXPERTNESS	(ad) uzmanlık: bir veya daha fazla alanda üstün performans gösterme olarak tanımlanma, uzman olma durumu, uzmanın görevi, mütehassıslık, ihtisas, kompetanlık (ayrıca: mütehassıslık, ihtisas)
+EXPERTNESSES	(expertness sözcüğünün çekimi) (ad) uzmanlık: bir veya daha fazla alanda üstün performans gösterme olarak tanımlanma, uzman olma durumu, uzmanın...
+EXPERTS	(ad) expert sözcüğünün çoğul çekimi: bilirkişi, eksper
+EXPIATION	(ad) kefaret: Bir günahı Tanrı'ya bağışlatmak umuduyla verilen sadaka veya tutulan oruç.
+EXPIATIONS	(ad) çoğul çekimi: expiation
+EXPIRATION	(ad) expiration kelimesinin karşılığı: soluk verme
+EXPIRATIONS	(expiration sözcüğünün çekimi) (ad) expiration kelimesinin karşılığı: soluk verme
+EXPIRE	(eylem) düşmek: düşkünleşmek.
+EXPIRED	(expire sözcüğünün çekimi) (eylem) düşmek: düşkünleşmek.
+EXPIRER	(expire sözcüğünün çekimi) (eylem) düşmek: düşkünleşmek.
+EXPIRES	(expire sözcüğünün çekimi) (eylem) düşmek: düşkünleşmek.
+EXPIRING	(expire sözcüğünün çekimi) (eylem) düşmek: düşkünleşmek.
+EXPLAIN	(eylem) açıklamak: açıkça söylemek, ifşa etmek (ayrıca: izah etmek)
+EXPLAINED	(eylem) explain sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: açıklamak, izah etmek
+EXPLAINERS	(ad) çoğul çekimi: explainer
+EXPLAINING	(explain sözcüğünün çekimi) (eylem) açıklamak: açıkça söylemek, ifşa etmek (ayrıca: izah etmek)
+EXPLAINS	(explain sözcüğünün çekimi) (eylem) açıklamak: açıkça söylemek, ifşa etmek (ayrıca: izah etmek)
+EXPLANATION	(ad) açıklama: açıklamak işi, izah
+EXPLANATIONS	(ad) explanation sözcüğünün çoğul çekimi: açıklama
+EXPLANATORILY	(explanatory sözcüğünün çekimi) (sıfat) açıklayıcı: kendinden önce gelen sözcüğü belirten, açıklayan
+EXPLANATORY	(sıfat) açıklayıcı: kendinden önce gelen sözcüğü belirten, açıklayan
+EXPLETIVE	(ad) expletive kelimesinin karşılığı: dolguluk
+EXPLETIVES	(ad) çoğul çekimi: expletive
+EXPLICABLE	(sıfat) açıklanabilir: açıklanması mümkün olan
+EXPLICATE	(eylem) explicate kelimesinin karşılığı: açıklamada bulunmak
+EXPLICATED	(explicate sözcüğünün çekimi) (eylem) explicate kelimesinin karşılığı: açıklamada bulunmak
+EXPLICATES	(explicate sözcüğünün çekimi) (eylem) explicate kelimesinin karşılığı: açıklamada bulunmak
+EXPLICATING	(explicate sözcüğünün çekimi) (eylem) explicate kelimesinin karşılığı: açıklamada bulunmak
+EXPLICIT	(sıfat) explicit kelimesinin karşılığı: açık seçik
+EXPLICITLY	(zarf) açıkça: gizli bir yönü kalmaksızın, kolay anlaşılır bir biçimde, alenen, aşikâre
+EXPLICITNESS	(ad) açıklık: açık olma durumu, aleniyet
+EXPLICITNESSES	(explicitness sözcüğünün çekimi) (ad) açıklık: açık olma durumu, aleniyet
+EXPLICITS	(explicit sözcüğünün çekimi) (sıfat) explicit kelimesinin karşılığı: açık seçik
+EXPLODE	(ad) patlamak: Bir nesnenin, iç basıncının etkisiyle ses çıkararak dağılması; infilak etmek.
+EXPLODED	(eylem) explode sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: patlamak.
+EXPLODERS	(ad) çoğul çekimi: exploder
+EXPLODES	(explode sözcüğünün çekimi) (ad) patlamak: Bir nesnenin, iç basıncının etkisiyle ses çıkararak dağılması; infilak etmek.
+EXPLODING	(eylem) explode sözcüğünün şimdiki zaman ortaç ve gerund çekimi: patlamak.
+EXPLOIT	(eylem) sömürmek: Bir kimseden veya bir şeyden haksız ve sürekli çıkarlar sağlamak
+EXPLOITED	(exploit sözcüğünün çekimi) (eylem) sömürmek: Bir kimseden veya bir şeyden haksız ve sürekli çıkarlar sağlamak
+EXPLOITERS	(ad) çoğul çekimi: exploiter
+EXPLOITING	(exploit sözcüğünün çekimi) (eylem) sömürmek: Bir kimseden veya bir şeyden haksız ve sürekli çıkarlar sağlamak
+EXPLOITS	(exploit sözcüğünün çekimi) (eylem) sömürmek: Bir kimseden veya bir şeyden haksız ve sürekli çıkarlar sağlamak
+EXPLORATION	(ad) exploration kelimesinin karşılığı: ⟪açınsama|AÇINSAMA⟫, ⟪istikşaf|İSTİKŞAF⟫
+EXPLORATIONS	(exploration sözcüğünün çekimi) (ad) exploration kelimesinin karşılığı: ⟪açınsama|AÇINSAMA⟫, ⟪istikşaf|İSTİKŞAF⟫
+EXPLORE	(eylem) açınsamak: bir yerin özelliklerini ortaya çıkarmak için araştırma ve inceleme yapmak, istikşaf etmek
+EXPLORED	(explore sözcüğünün çekimi) (eylem) açınsamak: bir yerin özelliklerini ortaya çıkarmak için araştırma ve inceleme yapmak, istikşaf etmek
+EXPLORERS	(ad) explorer sözcüğünün çoğul çekimi
+EXPLORES	(explore sözcüğünün çekimi) (eylem) açınsamak: bir yerin özelliklerini ortaya çıkarmak için araştırma ve inceleme yapmak, istikşaf etmek
+EXPLORING	(explore sözcüğünün çekimi) (eylem) açınsamak: bir yerin özelliklerini ortaya çıkarmak için araştırma ve inceleme yapmak, istikşaf etmek
+EXPLOSION	(ad) explosion kelimesinin karşılığı: kapantılı
+EXPLOSIONS	(ad) explosion sözcüğünün çoğul çekimi: kapantılı
+EXPLOSIVE	(ad) explosive kelimesinin karşılığı: patlayıcı madde\n(sıfat) explosive kelimesinin karşılığı: ⟪patlayıcı|PATLAYICI⟫
+EXPLOSIVES	(ad) çoğul çekimi: explosive
+EXPONENTIAL	(sıfat) exponential kelimesinin karşılığı: ⟪üssel|ÜSSEL⟫, ⟪üstel|ÜSTEL⟫
+EXPONENTIALS	(exponential sözcüğünün çekimi) (sıfat) exponential kelimesinin karşılığı: ⟪üssel|ÜSSEL⟫, ⟪üstel|ÜSTEL⟫
+EXPORT	(ad) ihracat: Bir ülkenin ürettiği malları başka ülkelere satması, dış satım. (ayrıca: eksport)\n(eylem) export kelimesinin karşılığı: ihraç etmek
+EXPORTED	(export sözcüğünün çekimi) (ad) ihracat: Bir ülkenin ürettiği malları başka ülkelere satması, dış satım. (ayrıca: eksport)
+EXPORTERS	(ad) çoğul çekimi: exporter
+EXPORTING	(export sözcüğünün çekimi) (ad) ihracat: Bir ülkenin ürettiği malları başka ülkelere satması, dış satım. (ayrıca: eksport)
+EXPORTS	(ad) export sözcüğünün çoğul çekimi: eksport, ihracat
+EXPOSE	(eylem) uğratmak: uğramak işini yaptırmak, uğramasına sebep olmak; salmak.
+EXPOSED	(expose sözcüğünün çekimi) (eylem) uğratmak: uğramak işini yaptırmak, uğramasına sebep olmak; salmak.
+EXPOSERS	(ad) çoğul çekimi: exposer
+EXPOSES	(expose sözcüğünün çekimi) (eylem) uğratmak: uğramak işini yaptırmak, uğramasına sebep olmak; salmak.
+EXPOSING	(expose sözcüğünün çekimi) (eylem) uğratmak: uğramak işini yaptırmak, uğramasına sebep olmak; salmak.
+EXPOSITORS	(ad) çoğul çekimi: expositor
+EXPOSITORY	(ad) açıklayıcı: kendinden önce gelen sözcüğü belirten, açıklayan (ayrıca: izah edici, açıklayan)
+EXPOSTULATIONS	(ad) çoğul çekimi: expostulation
+EXPOSURE	(ad) exposure kelimesinin karşılığı: maruz kalma
+EXPOSURES	(ad) çoğul çekimi: exposure
+EXPOUND	(eylem) açımlamak: bir sorunu veya konuyu ele alıp en ince noktasına kadar gözden geçirerek anlatmak, şerh etmek, teşrih etmek (ayrıca: şerh etmek, teşrih etmek)
+EXPOUNDED	(expound sözcüğünün çekimi) (eylem) açımlamak: bir sorunu veya konuyu ele alıp en ince noktasına kadar gözden geçirerek anlatmak, şerh etmek,...
+EXPOUNDERS	(ad) çoğul çekimi: expounder
+EXPOUNDING	(expound sözcüğünün çekimi) (eylem) açımlamak: bir sorunu veya konuyu ele alıp en ince noktasına kadar gözden geçirerek anlatmak, şerh etmek,...
+EXPOUNDS	(expound sözcüğünün çekimi) (eylem) açımlamak: bir sorunu veya konuyu ele alıp en ince noktasına kadar gözden geçirerek anlatmak, şerh etmek,...
+EXPRESS	(ad) express kelimesinin karşılığı: ⟪ekspres|EKSPRES⟫
+EXPRESSED	(express sözcüğünün çekimi) (ad) express kelimesinin karşılığı: ⟪ekspres|EKSPRES⟫
+EXPRESSER	(express sözcüğünün çekimi) (ad) express kelimesinin karşılığı: ⟪ekspres|EKSPRES⟫
+EXPRESSES	(ad) çoğul çekimi: express
+EXPRESSING	(express sözcüğünün çekimi) (ad) express kelimesinin karşılığı: ⟪ekspres|EKSPRES⟫
+EXPRESSION	(ad) anlatım: bir duyguyu, düşünceyi ya da konuyu söz veya yazı ile bildirme, ifade
+EXPRESSIONISTS	(ad) çoğul çekimi: expressionist
+EXPRESSIONS	(ad) expression sözcüğünün çoğul çekimi: anlatım
+EXPRESSIVE	(ad) expressive kelimesinin karşılığı: anlatımsal
+EXPRESSWAYS	(ad) çoğul çekimi: expressway
+EXPURGATORS	(ad) çoğul çekimi: expurgator
+EXQUISITE	(sıfat) aşırı: Bir şeye gereğinden çok fazla bağlanan, önem veren; müfrit, ekstrem.
+EXQUISITES	(exquisite sözcüğünün çekimi) (sıfat) aşırı: Bir şeye gereğinden çok fazla bağlanan, önem veren; müfrit, ekstrem.
+EXTANT	(sıfat) elde mevcut, soyu tükenmemiş; hâlâ var olan; günümüze kadar varlığını sürdürmüş.
+EXTENDED	(eylem) extend sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+EXTENSIBLE	(sıfat) genişletilebilir: genişletilmesi mümkün olan
+EXTENSION	(ad) extension kelimesinin karşılığı: ⟪uzatma|UZATMA⟫, uzatılma, ⟪uzantı|UZANTI⟫
+EXTENSIONS	(extension sözcüğünün çekimi) (ad) extension kelimesinin karşılığı: ⟪uzatma|UZATMA⟫, uzatılma, ⟪uzantı|UZANTI⟫
+EXTENSIVE	(sıfat) geniş: Kapsamı büyük, dar sınırlar içinde kalmayan, yaygın olan; makro.
+EXTENSIVELY	(zarf) extensively kelimesinin karşılığı: yaygın olarak
+EXTENSOR	(ad) extensor kelimesinin karşılığı: ⟪açıcı|AÇICI⟫
+EXTENSORS	(extensor sözcüğünün çekimi) (ad) extensor kelimesinin karşılığı: ⟪açıcı|AÇICI⟫
+EXTENT	(ad) kapsam: sınırları içine başka konuları veya anlamları alma durumu, şümul
+EXTENTS	(ad) çoğul çekimi: extent
+EXTENUATIONS	(ad) çoğul çekimi: extenuation
+EXTERIOR	(ad) dış: Herhangi bir cisim veya alanın sınırları içinde bulunmayan yer.
+EXTERIORS	(ad) çoğul çekimi: exterior
+EXTERMINATORS	(ad) çoğul çekimi: exterminator
+EXTERNAL	(ad) external kelimesinin karşılığı: ⟪dış|DIŞ⟫\n(sıfat) external kelimesinin karşılığı: ⟪dışsal|DIŞSAL⟫
+EXTERNALISATION	(ad) externalisation kelimesinin karşılığı: dışsallaşma
+EXTERNALISATIONS	(externalisation sözcüğünün çekimi) (ad) externalisation kelimesinin karşılığı: dışsallaşma
+EXTERNALISE	(eylem) externalise kelimesinin karşılığı: dışsallaşmak
+EXTERNALISED	(externalise sözcüğünün çekimi) (eylem) externalise kelimesinin karşılığı: dışsallaşmak
+EXTERNALISES	(externalise sözcüğünün çekimi) (eylem) externalise kelimesinin karşılığı: dışsallaşmak
+EXTERNALISING	(externalise sözcüğünün çekimi) (eylem) externalise kelimesinin karşılığı: dışsallaşmak
+EXTERNALITIES	(ad) çoğul çekimi: externality
+EXTERNALIZATION	(ad) externalization kelimesinin karşılığı: dışsallaşma
+EXTERNALIZATIONS	(externalization sözcüğünün çekimi) (ad) externalization kelimesinin karşılığı: dışsallaşma
+EXTERNALIZE	(eylem) externalize kelimesinin karşılığı: dışsallaşmak
+EXTERNALIZED	(externalize sözcüğünün çekimi) (eylem) externalize kelimesinin karşılığı: dışsallaşmak
+EXTERNALIZES	(externalize sözcüğünün çekimi) (eylem) externalize kelimesinin karşılığı: dışsallaşmak
+EXTERNALIZING	(externalize sözcüğünün çekimi) (eylem) externalize kelimesinin karşılığı: dışsallaşmak
+EXTERNALS	(ad) çoğul çekimi: external
+EXTERNES	(ad) çoğul çekimi: externe
+EXTINCT	(sıfat) extinct kelimesinin karşılığı: soyu tükenmiş
+EXTINCTED	(extinct sözcüğünün çekimi) (sıfat) extinct kelimesinin karşılığı: soyu tükenmiş
+EXTINCTING	(extinct sözcüğünün çekimi) (sıfat) extinct kelimesinin karşılığı: soyu tükenmiş
+EXTINCTION	(ad) sönüm: Bir salınım hareketinin genliğinin türlü dirençlerin etkisiyle küçülmesi.
+EXTINCTIONS	(ad) çoğul çekimi: extinction
+EXTINCTS	(extinct sözcüğünün çekimi) (sıfat) extinct kelimesinin karşılığı: soyu tükenmiş
+EXTINGUISH	(eylem) söndürmek: ateş ve ışığın yanmasına, aydınlatmasına son vermek (ayrıca: öçürmek)
+EXTINGUISHED	(extinguish sözcüğünün çekimi) (eylem) söndürmek: ateş ve ışığın yanmasına, aydınlatmasına son vermek (ayrıca: öçürmek)
+EXTINGUISHERS	(ad) çoğul çekimi: extinguisher
+EXTINGUISHES	(extinguish sözcüğünün çekimi) (eylem) söndürmek: ateş ve ışığın yanmasına, aydınlatmasına son vermek (ayrıca: öçürmek)
+EXTINGUISHING	(extinguish sözcüğünün çekimi) (eylem) söndürmek: ateş ve ışığın yanmasına, aydınlatmasına son vermek (ayrıca: öçürmek)
+EXTINGUISHMENTS	(ad) çoğul çekimi: extinguishment
+EXTIRPATIONS	(ad) çoğul çekimi: extirpation
+EXTOL	(eylem) övmek: birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena etmek, yermek karşıtı (ayrıca: methetmek, yüceltmek)
+EXTOLLED	(extol sözcüğünün çekimi) (eylem) övmek: birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena...
+EXTOLLING	(extol sözcüğünün çekimi) (eylem) övmek: birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena...
+EXTOLS	(extol sözcüğünün çekimi) (eylem) övmek: birinin veya bir şeyin iyiliklerini, üstünlüklerini söyleyerek değerini yüceltmek, methetmek, sena...
+EXTORTION	(ad) extortion kelimesinin karşılığı: ⟪şantaj|ŞANTAJ⟫
+EXTORTIONS	(extortion sözcüğünün çekimi) (ad) extortion kelimesinin karşılığı: ⟪şantaj|ŞANTAJ⟫
+EXTRA	(ad) extra kelimesinin karşılığı: ek\n(sıfat) extra kelimesinin karşılığı: fazladan
+EXTRACT	(ad) extract kelimesinin karşılığı: öz, ⟪esas|ESAS⟫, ⟪ekstre|EKSTRE⟫\n(eylem) çıkarmak: birinin veya bir şeyin çıkmasını sağlamak, çıkmasına sebep olmak.
+EXTRACTED	(extract sözcüğünün çekimi) (ad) extract kelimesinin karşılığı: öz, ⟪esas|ESAS⟫, ⟪ekstre|EKSTRE⟫
+EXTRACTING	(extract sözcüğünün çekimi) (ad) extract kelimesinin karşılığı: öz, ⟪esas|ESAS⟫, ⟪ekstre|EKSTRE⟫
+EXTRACTION	(ad) extraction kelimesinin karşılığı: ekstraksiyon
+EXTRACTIONS	(ad) çoğul çekimi: extraction
+EXTRACTIVES	(ad) çoğul çekimi: extractive
+EXTRACTORS	(ad) çoğul çekimi: extractor
+EXTRACTS	(ad) çoğul çekimi: extract
+EXTRADITE	(eylem) suçluyu ülkesine iade etmek
+EXTRADITED	(extradite sözcüğünün çekimi) (eylem) suçluyu ülkesine iade etmek
+EXTRADITES	(extradite sözcüğünün çekimi) (eylem) suçluyu ülkesine iade etmek
+EXTRADITING	(extradite sözcüğünün çekimi) (eylem) suçluyu ülkesine iade etmek
+EXTRALINGUISTIC	(ad) extralinguistic kelimesinin karşılığı: dildışı
+EXTRAMARITAL	(sıfat) extramarital kelimesinin karşılığı: dokuz babalı
+EXTRANEOUS	(ad) extraneous kelimesinin karşılığı: dıştan gelen\n(sıfat) konuyla alakası olmayan; alakasız; konu dışı
+EXTRANEOUSLY	(extraneous sözcüğünün çekimi) (ad) extraneous kelimesinin karşılığı: dıştan gelen
+EXTRAORDINARY	(sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü (ayrıca: aykırı, cins)
+EXTRAPOLATION	(ad) extrapolation kelimesinin karşılığı: ⟪kestirim|KESTİRİM⟫, tahmin etme, sonuç çıkarma
+EXTRAPOLATIONS	(extrapolation sözcüğünün çekimi) (ad) extrapolation kelimesinin karşılığı: ⟪kestirim|KESTİRİM⟫, tahmin etme, sonuç çıkarma
+EXTRAS	(ad) çoğul çekimi: extra
+EXTRATERRESTRIALS	(ad) çoğul çekimi: extraterrestrial
+EXTRAVAGANCIES	(ad) çoğul çekimi: extravagancy
+EXTRAVASATIONS	(ad) çoğul çekimi: extravasation
+EXTRAVERSION	(ad) extraversion kelimesinin karşılığı: dışadönüklük
+EXTRAVERSIONS	(extraversion sözcüğünün çekimi) (ad) extraversion kelimesinin karşılığı: dışadönüklük
+EXTREME	(sıfat) ekstrem: aşırı (ayrıca: aşırıcı)
+EXTREMER	(extreme sözcüğünün çekimi) (sıfat) ekstrem: aşırı (ayrıca: aşırıcı)
+EXTREMES	(ad) çoğul çekimi: extreme
+EXTREMEST	(extreme sözcüğünün çekimi) (sıfat) ekstrem: aşırı (ayrıca: aşırıcı)
+EXTREMISTS	(ad) çoğul çekimi: extremist
+EXTREMITIES	(ad) çoğul çekimi: extremity
+EXTREMITY	(ad) kenar: bir şeyin, bir yerin bitiş kısmı veya yakını, kıyı, yaka (ayrıca: aşırıcılık)
+EXTROVERTS	(ad) çoğul çekimi: extrovert
+EXTRUSION	(ad) Bir parçanın şeklinin çıkarılması veya kalıp işlemi yapılması ile şekillendirilmesi.
+EXTRUSIONS	(extrusion sözcüğünün çekimi) (ad) Bir parçanın şeklinin çıkarılması veya kalıp işlemi yapılması ile şekillendirilmesi.
+EXTRUSIVE	(sıfat) extrusive kelimesinin karşılığı: ⟪püskürük|PÜSKÜRÜK⟫
+EXUBERANT	(sıfat) canlı: Yerinde duramayan, hayat dolu olan; hareketli, zihayat, dinamik. (ayrıca: coşkulu, hayat dolu)
+EXUDATES	(ad) çoğul çekimi: exudate
+EXUDATIONS	(ad) çoğul çekimi: exudation
+EXULT	(eylem) exult kelimesinin karşılığı: iftihar etmek, ⟪övünmek|ÖVÜNMEK⟫, bayram etmek, çok sevinmek
+EXULTED	(exult sözcüğünün çekimi) (eylem) exult kelimesinin karşılığı: iftihar etmek, ⟪övünmek|ÖVÜNMEK⟫, bayram etmek, çok sevinmek
+EXULTING	(exult sözcüğünün çekimi) (eylem) exult kelimesinin karşılığı: iftihar etmek, ⟪övünmek|ÖVÜNMEK⟫, bayram etmek, çok sevinmek
+EXULTS	(exult sözcüğünün çekimi) (eylem) exult kelimesinin karşılığı: iftihar etmek, ⟪övünmek|ÖVÜNMEK⟫, bayram etmek, çok sevinmek
+EXURBIAS	(ad) çoğul çekimi: exurbia
+EYE	(ad) göz: Görme organı.
+EYEBALL	(ad) eyeball kelimesinin karşılığı: göz küresi
+EYEBALLED	(eyeball sözcüğünün çekimi) (ad) eyeball kelimesinin karşılığı: göz küresi
+EYEBALLING	(eyeball sözcüğünün çekimi) (ad) eyeball kelimesinin karşılığı: göz küresi
+EYEBALLS	(ad) eyeball sözcüğünün çoğul çekimi: göz küresi
+EYEBROW	(ad) kaş: Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar.
+EYEBROWS	(ad) çoğul çekimi: eyebrow
+EYECUPS	(ad) çoğul çekimi: eyecup
+EYED	(eye sözcüğünün çekimi) (ad) göz: Görme organı.
+EYEDROPS	(ad) çoğul çekimi: eyedrop
+EYEFULS	(ad) çoğul çekimi: eyeful
+EYEGLASSES	(ad) gözlük: Atların çevreden ürkmemeleri için gözlerinin iki yanına takılan siper; at gözlüğü
+EYEING	(eye sözcüğünün çekimi) (ad) göz: Görme organı.
+EYELASHES	(ad) çoğul çekimi: eyelash
+EYELESS	(sıfat) kör: Olguları sezme ve kavrama yetisi, dikkati olmayan.
+EYELETS	(ad) çoğul çekimi: eyelet
+EYELID	(ad) eyelid kelimesinin karşılığı: göz kapağı
+EYELIDS	(ad) eyelid sözcüğünün çoğul çekimi: göz kapağı
+EYEN	(ad) çoğul çekimi: eye
+EYEPIECE	(ad) oküler: optik aletlerinde mikroskop, teleskop vb. sistemlerde kullanılan gözün hemen önündeki akromat mercek grubu, objektiften aldığı ışınları göze veren mercek sistemi
+EYEPIECES	(ad) çoğul çekimi: eyepiece
+EYES	(ad) eye sözcüğünün çoğul çekimi: göz\n(eylem) eye sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: göz
+EYESHADES	(ad) çoğul çekimi: eyeshade
+EYESIGHT	(ad) eyesight kelimesinin karşılığı: görme duyusu
+EYESIGHTS	(eyesight sözcüğünün çekimi) (ad) eyesight kelimesinin karşılığı: görme duyusu
+EYEWITNESSES	(ad) çoğul çekimi: eyewitness
+EYING	(eye sözcüğünün çekimi) (ad) göz: Görme organı.

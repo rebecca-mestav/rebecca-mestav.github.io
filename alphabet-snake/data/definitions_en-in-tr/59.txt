@@ -1,0 +1,127 @@
+YACHT	(ad) yacht kelimesinin karşılığı: ⟪yat|YAT⟫
+YACHTED	(yacht sözcüğünün çekimi) (ad) yacht kelimesinin karşılığı: ⟪yat|YAT⟫
+YACHTERS	(ad) çoğul çekimi: yachter
+YACHTING	(yacht sözcüğünün çekimi) (ad) yacht kelimesinin karşılığı: ⟪yat|YAT⟫
+YACHTINGS	(yacht sözcüğünün çekimi) (ad) yacht kelimesinin karşılığı: ⟪yat|YAT⟫
+YACHTS	(yacht sözcüğünün çekimi) (ad) yacht kelimesinin karşılığı: ⟪yat|YAT⟫
+YAGIS	(ad) çoğul çekimi: yagi
+YAHOOS	(ad) çoğul çekimi: yahoo
+YAMS	(ad) çoğul çekimi: yam
+YANKS	(ad) çoğul çekimi: yank
+YAPS	(ad) yap sözcüğünün çoğul çekimi\n(eylem) yap sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+YARD	(ad) yard kelimesinin karşılığı: evin bahçesi
+YARDARMS	(ad) çoğul çekimi: yardarm
+YARDED	(yard sözcüğünün çekimi) (ad) yard kelimesinin karşılığı: evin bahçesi
+YARDING	(yard sözcüğünün çekimi) (ad) yard kelimesinin karşılığı: evin bahçesi
+YARDMASTERS	(ad) çoğul çekimi: yardmaster
+YARDS	(ad) yard sözcüğünün çoğul çekimi: evin bahçesi
+YARMULKES	(ad) çoğul çekimi: yarmulke
+YARN	(ad) yarn kelimesinin karşılığı: ⟪iplik|İPLİK⟫
+YARNED	(yarn sözcüğünün çekimi) (ad) yarn kelimesinin karşılığı: ⟪iplik|İPLİK⟫
+YARNER	(yarn sözcüğünün çekimi) (ad) yarn kelimesinin karşılığı: ⟪iplik|İPLİK⟫
+YARNING	(yarn sözcüğünün çekimi) (ad) yarn kelimesinin karşılığı: ⟪iplik|İPLİK⟫
+YARNS	(ad) çoğul çekimi: yarn
+YARROW	(ad) yarrow kelimesinin karşılığı: ⟪civanperçemi|CİVANPERÇEMİ⟫, kandil çiçeği
+YARROWS	(yarrow sözcüğünün çekimi) (ad) yarrow kelimesinin karşılığı: ⟪civanperçemi|CİVANPERÇEMİ⟫, kandil çiçeği
+YATAGHANS	(ad) çoğul çekimi: yataghan
+YAUPS	(ad) çoğul çekimi: yaup
+YAWN	(eylem) esnemek: uykulu, sıkıntılı veya yorgunluk duyulan bir anda ağzı genişçe açarak soluk alıp vermek
+YAWNED	(yawn sözcüğünün çekimi) (eylem) esnemek: uykulu, sıkıntılı veya yorgunluk duyulan bir anda ağzı genişçe açarak soluk alıp vermek
+YAWNERS	(ad) çoğul çekimi: yawner
+YAWNING	(eylem) yawn sözcüğünün şimdiki zaman ortaç ve gerund çekimi: esnemek.
+YAWNS	(ad) çoğul çekimi: yawn
+YAWPS	(ad) çoğul çekimi: yawp
+YAWS	(ad) çoğul çekimi: yaw
+YEANLINGS	(ad) çoğul çekimi: yeanling
+YEAR	(ad) yıl: zaman birimi (ayrıca: sene)
+YEARBOOKS	(ad) çoğul çekimi: yearbook
+YEARLIES	(yearly sözcüğünün çekimi) (sıfat) yıllık: Yılda bir kez yapılan.
+YEARLY	(sıfat) yıllık: Yılda bir kez yapılan.
+YEARN	(eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+YEARNED	(eylem) yearn sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: özlemek.
+YEARNING	(yearn sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+YEARNINGS	(ad) çoğul çekimi: yearning
+YEARNS	(yearn sözcüğünün çekimi) (eylem) özlemek: Bir kimseyi, bir yeri veya bir şeyi görmeyi, ona kavuşmayı istemek, göreceği gelmek; göreslemek.
+YEARS	(ad) year sözcüğünün çoğul çekimi: sene, yıl
+YEAST	(ad) maya: yoğurt, hamur ve benzeri yiyecekleri mayalamak için kullanılan madde, ferment
+YEASTED	(yeast sözcüğünün çekimi) (ad) maya: yoğurt, hamur ve benzeri yiyecekleri mayalamak için kullanılan madde, ferment
+YEASTING	(yeast sözcüğünün çekimi) (ad) maya: yoğurt, hamur ve benzeri yiyecekleri mayalamak için kullanılan madde, ferment
+YEASTS	(ad) çoğul çekimi: yeast
+YELL	(eylem) yell kelimesinin karşılığı: ⟪bağırmak|BAĞIRMAK⟫
+YELLED	(yell sözcüğünün çekimi) (eylem) yell kelimesinin karşılığı: ⟪bağırmak|BAĞIRMAK⟫
+YELLERS	(ad) çoğul çekimi: yeller
+YELLING	(ad) yelling kelimesinin karşılığı: ⟪bağırma|BAĞIRMA⟫, ⟪nida|NİDA⟫
+YELLOW	(ad) sarı: yeşil ile turuncu arasında bir renk\n(sıfat) sarı: yeşil ile turuncu arasında bir renk
+YELLOWED	(yellow sözcüğünün çekimi) (ad) sarı: yeşil ile turuncu arasında bir renk
+YELLOWER	(yellow sözcüğünün çekimi) (ad) sarı: yeşil ile turuncu arasında bir renk
+YELLOWEST	(yellow sözcüğünün çekimi) (ad) sarı: yeşil ile turuncu arasında bir renk
+YELLOWHAMMER	(ad) yellowhammer kelimesinin karşılığı: sarı kiraz kuşu, sarı çinte
+YELLOWHAMMERS	(ad) çoğul çekimi: yellowhammer
+YELLOWING	(yellow sözcüğünün çekimi) (ad) sarı: yeşil ile turuncu arasında bir renk
+YELLOWISH	(sıfat) yellowish kelimesinin karşılığı: ⟪sarımsı|SARIMSI⟫
+YELLOWLY	(yellow sözcüğünün çekimi) (ad) sarı: yeşil ile turuncu arasında bir renk
+YELLOWS	(ad) çoğul çekimi: yellow
+YELLOWTAILS	(ad) çoğul çekimi: yellowtail
+YELLS	(ad) yell sözcüğünün çoğul çekimi: bağırmak
+YELP	(eylem) acı acı havlamak.
+YELPED	(yelp sözcüğünün çekimi) (eylem) acı acı havlamak.
+YELPING	(yelp sözcüğünün çekimi) (eylem) acı acı havlamak.
+YELPS	(yelp sözcüğünün çekimi) (eylem) acı acı havlamak.
+YENTAS	(ad) çoğul çekimi: yenta
+YERBA	(ad) yerba kelimesinin karşılığı: paraguay çayı
+YERBAS	(yerba sözcüğünün çekimi) (ad) yerba kelimesinin karşılığı: paraguay çayı
+YES	(edat) evet: "öyledir" anlamında kullanılan bir doğrulama veya onaylama sözü, olur, oldu, peki, tamam, ya, beli, ha, he (ayrıca: tamam, hı)\n(ünlem) evet: "öyledir" anlamında kullanılan bir doğrulama veya onaylama sözü, olur, oldu, peki, tamam, ya, beli, ha, he
+YESES	(ad) çoğul çekimi: yes
+YESSED	(yes sözcüğünün çekimi) (edat) evet: "öyledir" anlamında kullanılan bir doğrulama veya onaylama sözü, olur, oldu, peki, tamam, ya, beli, ha, he...
+YESSING	(yes sözcüğünün çekimi) (edat) evet: "öyledir" anlamında kullanılan bir doğrulama veya onaylama sözü, olur, oldu, peki, tamam, ya, beli, ha, he...
+YESTERDAY	(ad) dün: bugünden bir önceki günde\n(zarf) dün: bugünden bir önceki günde
+YESTERDAYS	(yesterday sözcüğünün çekimi) (ad) dün: bugünden bir önceki günde
+YESTERNIGHT	(ad) yesternight kelimesinin karşılığı: dün gece
+YESTERNIGHTS	(yesternight sözcüğünün çekimi) (ad) yesternight kelimesinin karşılığı: dün gece
+YESTERYEAR	(ad) yesteryear kelimesinin karşılığı: geçen sene
+YESTERYEARS	(ad) çoğul çekimi: yesteryear
+YESTREENS	(ad) çoğul çekimi: yestreen
+YET	(zarf) daha: şimdiye kadar, henüz (ayrıca: henüz, halâ)
+YETI	(ad) yeti: Himalaya Dağları'nda yaşadığı iddia edilen primat benzeri bir yaratık, kocaayak
+YETIS	(ad) çoğul çekimi: yeti
+YEW	(ad) yew kelimesinin karşılığı: porsuk ağacı
+YEWS	(ad) çoğul çekimi: yew
+YIDS	(ad) çoğul çekimi: yid
+YIELD	(ad) yield kelimesinin karşılığı: ⟪kazanım|KAZANIM⟫\n(eylem) vermek: Bırakmak veya bağışlamak. (ayrıca: ürün vermek, sağlamak)
+YIELDED	(yield sözcüğünün çekimi) (ad) yield kelimesinin karşılığı: ⟪kazanım|KAZANIM⟫
+YIELDING	(eylem) yield sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kazanım
+YIELDS	(ad) çoğul çekimi: yield
+YIPS	(ad) çoğul çekimi: yip
+YOBBOS	(ad) çoğul çekimi: yobbo
+YOBS	(ad) çoğul çekimi: yob
+YOGA	(ad) yoga: Ruhî yaşama ve bedene egemen olmayı amaçlayan Hint felsefe sistemi
+YOGAS	(yoga sözcüğünün çekimi) (ad) yoga: Ruhî yaşama ve bedene egemen olmayı amaçlayan Hint felsefe sistemi
+YOGHURT	(ad) yoğurt: Maya katılarak koyulaştırılmış beyaz, kıvamlı bir süt ürünü.
+YOGHURTS	(ad) çoğul çekimi: yoghurt
+YOGURT	(ad) yoğurt: Maya katılarak koyulaştırılmış beyaz, kıvamlı bir süt ürünü.
+YOGURTS	(ad) yogurt sözcüğünün çoğul çekimi: yoğurt
+YOKEL	(ad) taşralı: Taşra halkından olan (kimse), dışarlıklı. (ayrıca: hödük, köylü)
+YOKELS	(ad) çoğul çekimi: yokel
+YOKES	(ad) çoğul çekimi: yoke
+YOLK	(ad) yolk kelimesinin karşılığı: yumurta sarısı
+YOLKED	(yolk sözcüğünün çekimi) (ad) yolk kelimesinin karşılığı: yumurta sarısı
+YOLKS	(ad) yolk sözcüğünün çoğul çekimi: yumurta sarısı
+YONDER	(ad) yonder kelimesinin karşılığı: uzak mesafe\n(zarf) orada: sözü edilen yerde (ayrıca: ötede)
+YOU	(zamir) you kelimesinin karşılığı: "senin"
+YOUNG	(ad) genç: Gelişmesini tamamlamamış olan bitki veya hayvan.\n(sıfat) genç: Gelişmesini tamamlamamış olan bitki veya hayvan.
+YOUNGEST	(sıfat) youngest kelimesinin karşılığı: en genç
+YOUNGLING	(ad) çocuk: (mecaz) Büyükler arasında daha az yaşlı olan kişi. (ayrıca: evlat)
+YOUNGLINGS	(ad) çoğul çekimi: youngling
+YOUNGS	(young sözcüğünün çekimi) (ad) genç: Gelişmesini tamamlamamış olan bitki veya hayvan.
+YOUNGSTERS	(ad) çoğul çekimi: youngster
+YOUR	(zamir) iyelik zamiri -n, senin
+YOURS	(zamir) yours kelimesinin karşılığı: ⟪senin|SENİN⟫, seninki, ⟪sizin|SİZİN⟫, sizinki
+YOURSELF	(zamir) kendin: (dönüşlü dönüşlü): Kişinin yanındakiyle konuşurken kullanabildiği bir söz. (ayrıca: kendi, kendine)
+YOUTH	(ad) gençlik: genç olma durumu, yaş olarak, yaşlılık karşıtı
+YOUTHS	(ad) çoğul çekimi: youth
+YOWLS	(ad) çoğul çekimi: yowl
+YTTERBIUM	(ad) ytterbium kelimesinin karşılığı: ⟪iterbiyum|İTERBİYUM⟫
+YTTERBIUMS	(ytterbium sözcüğünün çekimi) (ad) ytterbium kelimesinin karşılığı: ⟪iterbiyum|İTERBİYUM⟫
+YTTRIUM	(ad) yttrium kelimesinin karşılığı: ⟪itriyum|İTRİYUM⟫
+YTTRIUMS	(yttrium sözcüğünün çekimi) (ad) yttrium kelimesinin karşılığı: ⟪itriyum|İTRİYUM⟫
+YUGAS	(ad) çoğul çekimi: yuga

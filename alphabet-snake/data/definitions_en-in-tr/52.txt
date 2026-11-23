@@ -1,0 +1,2273 @@
+RABBI	(ad) haham: Yahudi din adamı
+RABBIES	(rabbi sözcüğünün çekimi) (ad) haham: Yahudi din adamı
+RABBIS	(ad) çoğul çekimi: rabbi
+RABBIT	(ad) rabbit kelimesinin karşılığı: ada tavşanı
+RABBITED	(rabbit sözcüğünün çekimi) (ad) rabbit kelimesinin karşılığı: ada tavşanı
+RABBITING	(rabbit sözcüğünün çekimi) (ad) rabbit kelimesinin karşılığı: ada tavşanı
+RABBITS	(ad) rabbit sözcüğünün çoğul çekimi: ada tavşanı
+RABBLEMENTS	(ad) çoğul çekimi: rabblement
+RABID	(sıfat) rabid kelimesinin karşılığı: kuduz\n(ad) kuduz hastalığına yakalanmış kişi veya hayvan
+RABIES	(ad) rabies kelimesinin karşılığı: kuduz
+RACCOON	(ad) rakun: Rakungiller (procyonidae) ailesinden Kuzey Amerika'da, ağaçlarda yaşayan, kafası tilkiye benzeyen, uzun kuyruğu alaca halkalı, memeli bir kürklü hayvan türü
+RACCOONS	(ad) çoğul çekimi: raccoon
+RACE	(ad) race kelimesinin karşılığı: ⟪ırk|IRK⟫
+RACECOURSES	(ad) çoğul çekimi: racecourse
+RACED	(race sözcüğünün çekimi) (ad) race kelimesinin karşılığı: ⟪ırk|IRK⟫
+RACEHORSES	(ad) çoğul çekimi: racehorse
+RACEMES	(ad) çoğul çekimi: raceme
+RACEMIC	(ad) racemic kelimesinin karşılığı: rasemik
+RACER	(ad) yarışçı: bir spor dalında birbirini geçmeye çalışanlardan her biri, müsabık
+RACERS	(racer sözcüğünün çekimi) (ad) yarışçı: bir spor dalında birbirini geçmeye çalışanlardan her biri, müsabık
+RACES	(ad) race sözcüğünün çoğul çekimi: ırk\n(eylem) to race fiilinin üçüncü tekil şahıs çekimi
+RACETRACKS	(ad) çoğul çekimi: racetrack
+RACHISES	(ad) çoğul çekimi: rachis
+RACHITIS	(ad) raşitizm: Özellikle süt çocuklarında D vitamini eksikliği ile kalsiyum, fosfor eksikliğinden veya dengesizliğinden ileri gelen, biçim bozukluğuna sebep olan kemik hastalığı.
+RACIALISMS	(ad) çoğul çekimi: racialism
+RACING	(ad) yarış: yarışma, rekabet\n(eylem) race sözcüğünün şimdiki zaman ortaç ve gerund çekimi: ırk
+RACINGS	(ad) racing sözcüğünün çoğul çekimi: yarış
+RACISM	(ad) ırkçılık: farklı bir ırk veya etnik kökene sahip oldukları için diğer insanlara yönelik önyargı, ayrımcılık veya düşmanlık, rasizm, segregasyonizm (ayrıca: rasizm)
+RACISMS	(racism sözcüğünün çekimi) (ad) ırkçılık: farklı bir ırk veya etnik kökene sahip oldukları için diğer insanlara yönelik önyargı, ayrımcılık veya...
+RACISTS	(ad) çoğul çekimi: racist
+RACK	(eylem) çok acı vermek; eziyet etmek; gererek işkence yapmak.\n(ad) rack kelimesinin karşılığı: ⟪gergi|GERGİ⟫
+RACKED	(rack sözcüğünün çekimi) (eylem) çok acı vermek; eziyet etmek; gererek işkence yapmak.
+RACKERS	(ad) çoğul çekimi: racker
+RACKET	(ad) racket kelimesinin karşılığı: ⟪raket|RAKET⟫
+RACKETED	(racket sözcüğünün çekimi) (ad) racket kelimesinin karşılığı: ⟪raket|RAKET⟫
+RACKETEERS	(ad) çoğul çekimi: racketeer
+RACKETING	(racket sözcüğünün çekimi) (ad) racket kelimesinin karşılığı: ⟪raket|RAKET⟫
+RACKETS	(racket sözcüğünün çekimi) (ad) racket kelimesinin karşılığı: ⟪raket|RAKET⟫
+RACKING	(rack sözcüğünün çekimi) (eylem) çok acı vermek; eziyet etmek; gererek işkence yapmak.
+RACKINGLY	(rack sözcüğünün çekimi) (eylem) çok acı vermek; eziyet etmek; gererek işkence yapmak.
+RACKS	(ad) çoğul çekimi: rack
+RACQUET	(ad) raket: Masa tenisi, tenis vb. oyunlarda topa vurmak için kullanılan, oval tahta bir kasnağa gerilmiş bir ağla veya lastikle kaplanmış saplı araç, vuraç
+RACQUETS	(ad) çoğul çekimi: racquet
+RADAR	(ad) radar: Radyo dalgalarının yankısını alarak cisimlerin yerini ve uzaklığını bulabilen, genellikle uçak ve gemilerde kullanılan cihaz.
+RADARS	(radar sözcüğünün çekimi) (ad) radar: Radyo dalgalarının yankısını alarak cisimlerin yerini ve uzaklığını bulabilen, genellikle uçak ve gemilerde...
+RADDLE	(eylem) örmek: iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak
+RADDLED	(raddle sözcüğünün çekimi) (eylem) örmek: iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak
+RADDLES	(raddle sözcüğünün çekimi) (eylem) örmek: iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak
+RADDLING	(raddle sözcüğünün çekimi) (eylem) örmek: iplik, yün, tel, saz v.s.'ni birbirine dolayarak veya geçirerek işlemek veya tezgâhta dokumak
+RADIALS	(ad) çoğul çekimi: radial
+RADIAN	(ad) radyan: Bir çemberde, uzunluğu yarıçapına eşit olan bir yayın belirlediği merkez açının ölçüsü
+RADIANCE	(ad) radiance kelimesinin karşılığı: ⟪fer|FER⟫
+RADIANCES	(radiance sözcüğünün çekimi) (ad) radiance kelimesinin karşılığı: ⟪fer|FER⟫
+RADIANCIES	(ad) çoğul çekimi: radiancy
+RADIANS	(radian sözcüğünün çekimi) (ad) radyan: Bir çemberde, uzunluğu yarıçapına eşit olan bir yayın belirlediği merkez açının ölçüsü
+RADIATE	(eylem) saçmak: ışık veya ısı yaymak
+RADIATED	(radiate sözcüğünün çekimi) (eylem) saçmak: ışık veya ısı yaymak
+RADIATES	(radiate sözcüğünün çekimi) (eylem) saçmak: ışık veya ısı yaymak
+RADIATING	(radiate sözcüğünün çekimi) (eylem) saçmak: ışık veya ısı yaymak
+RADIATION	(ad) ışınım: elektromanyetik dalgalar veya parçacıklar biçimindeki enerji aktarımı ya da yayımı (ayrıca: radyasyon)
+RADIATIONS	(radiation sözcüğünün çekimi) (ad) ışınım: elektromanyetik dalgalar veya parçacıklar biçimindeki enerji aktarımı ya da yayımı (ayrıca: radyasyon)
+RADIATOR	(ad) radiator kelimesinin karşılığı: ⟪radyatör|RADYATÖR⟫
+RADIATORS	(ad) çoğul çekimi: radiator
+RADICAL	(ad) radikal: köklü, kesin, kökten (ayrıca: köktenci)\n(sıfat) radikal: köklü, kesin, kökten (ayrıca: köktenci)
+RADICALS	(ad) çoğul çekimi: radical
+RADII	(ad) radius sözcüğünün çoğul çekimi: yarıçap
+RADIO	(ad) radyo: elektromanyetik dalgalarla düzenli olarak yayın yapan istasyon ve bu istasyonun programlarını düzenlemekle vazifeli kuruluş. (ayrıca: telsiz)
+RADIOACTIVE	(sıfat) radioactive kelimesinin karşılığı: ⟪radyoaktif|RADYOAKTİF⟫
+RADIOACTIVITIES	(radioactivity sözcüğünün çekimi) (ad) radioactivity kelimesinin karşılığı: ⟪radyoaktivite|RADYOAKTİVİTE⟫
+RADIOACTIVITY	(ad) radioactivity kelimesinin karşılığı: ⟪radyoaktivite|RADYOAKTİVİTE⟫
+RADIOCHEMISTS	(ad) çoğul çekimi: radiochemist
+RADIOED	(radio sözcüğünün çekimi) (ad) radyo: elektromanyetik dalgalarla düzenli olarak yayın yapan istasyon ve bu istasyonun programlarını düzenlemekle...
+RADIOGRAMS	(ad) çoğul çekimi: radiogram
+RADIOGRAPHIES	(radiography sözcüğünün çekimi) (ad) radyografi: bu teknikle alınan fotoğraf, radyogram
+RADIOGRAPHS	(ad) çoğul çekimi: radiograph
+RADIOGRAPHY	(ad) radyografi: bu teknikle alınan fotoğraf, radyogram
+RADIOIMMUNOASSAYS	(ad) çoğul çekimi: radioimmunoassay
+RADIOING	(radio sözcüğünün çekimi) (ad) radyo: elektromanyetik dalgalarla düzenli olarak yayın yapan istasyon ve bu istasyonun programlarını düzenlemekle...
+RADIOLOGIES	(radiology sözcüğünün çekimi) (ad) radiology kelimesinin karşılığı: ışın bilimi, ⟪radyoloji|RADYOLOJİ⟫
+RADIOLOGISTS	(ad) çoğul çekimi: radiologist
+RADIOLOGY	(ad) radiology kelimesinin karşılığı: ışın bilimi, ⟪radyoloji|RADYOLOJİ⟫
+RADIOMETERS	(ad) çoğul çekimi: radiometer
+RADIOPHARMACEUTICAL	(ad) radiopharmaceutical kelimesinin karşılığı: radyofarmasötik
+RADIOPHARMACEUTICALS	(ad) çoğul çekimi: radiopharmaceutical
+RADIOPHONES	(ad) çoğul çekimi: radiophone
+RADIOPHOTOS	(ad) çoğul çekimi: radiophoto
+RADIOS	(radio sözcüğünün çekimi) (ad) radyo: elektromanyetik dalgalarla düzenli olarak yayın yapan istasyon ve bu istasyonun programlarını düzenlemekle...
+RADIOTELEGRAPHS	(ad) çoğul çekimi: radiotelegraph
+RADIOTELEPHONES	(ad) çoğul çekimi: radiotelephone
+RADIOTHERAPIES	(radiotherapy sözcüğünün çekimi) (ad) radiotherapy kelimesinin karşılığı: ışın tedavisi
+RADIOTHERAPY	(ad) radiotherapy kelimesinin karşılığı: ışın tedavisi
+RADISH	(ad) turp: Bu bitkinin yenilen etli kökü.
+RADISHES	(ad) çoğul çekimi: radish
+RADIUM	(ad) radium kelimesinin karşılığı: ⟪radyum|RADYUM⟫
+RADIUMS	(radium sözcüğünün çekimi) (ad) radium kelimesinin karşılığı: ⟪radyum|RADYUM⟫
+RADIUS	(ad) yarıçap: geometri terimi
+RADIUSES	(ad) çoğul çekimi: radius
+RADOMES	(ad) çoğul çekimi: radome
+RADON	(ad) radon kelimesinin karşılığı: ⟪radon|RADON⟫
+RADONS	(radon sözcüğünün çekimi) (ad) radon kelimesinin karşılığı: ⟪radon|RADON⟫
+RAFFLESIAS	(ad) çoğul çekimi: rafflesia
+RAFT	(ad) sal: tabut.
+RAFTED	(raft sözcüğünün çekimi) (ad) sal: tabut.
+RAFTERS	(ad) çoğul çekimi: rafter
+RAFTING	(raft sözcüğünün çekimi) (ad) sal: tabut.
+RAFTS	(ad) çoğul çekimi: raft
+RAGAMUFFINS	(ad) çoğul çekimi: ragamuffin
+RAGBAGS	(ad) çoğul çekimi: ragbag
+RAGE	(ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+RAGED	(rage sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+RAGES	(rage sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+RAGING	(eylem) rage sözcüğünün şimdiki zaman ortaç ve gerund çekimi: öfke.
+RAGINGLY	(rage sözcüğünün çekimi) (ad) öfke: engelleme, incinme veya gözdağı karşısında gösterilen saldırganlık tepkisi, hışım, hiddet, kızgınlık
+RAGLANS	(ad) çoğul çekimi: raglan
+RAGOUT	(ad) yahni: kavrulmuş soğan ve salça ile pişirilen et yemeği
+RAGOUTED	(ragout sözcüğünün çekimi) (ad) yahni: kavrulmuş soğan ve salça ile pişirilen et yemeği
+RAGOUTING	(ragout sözcüğünün çekimi) (ad) yahni: kavrulmuş soğan ve salça ile pişirilen et yemeği
+RAGOUTS	(ad) çoğul çekimi: ragout
+RAGS	(ad) çoğul çekimi: rag
+RAID	(ad) raid kelimesinin karşılığı: ⟪akın|AKIN⟫
+RAIDED	(raid sözcüğünün çekimi) (ad) raid kelimesinin karşılığı: ⟪akın|AKIN⟫
+RAIDER	(ad) raider kelimesinin karşılığı: ⟪baskıncı|BASKINCI⟫
+RAIDERS	(ad) çoğul çekimi: raider
+RAIDING	(raid sözcüğünün çekimi) (ad) raid kelimesinin karşılığı: ⟪akın|AKIN⟫
+RAIDS	(raid sözcüğünün çekimi) (ad) raid kelimesinin karşılığı: ⟪akın|AKIN⟫
+RAIL	(ad) rail kelimesinin karşılığı: ⟪ray|RAY⟫\n(eylem) ağzına geleni söylemek, şiddetli eleştirmek
+RAILCARS	(ad) çoğul çekimi: railcar
+RAILED	(rail sözcüğünün çekimi) (ad) rail kelimesinin karşılığı: ⟪ray|RAY⟫
+RAILERS	(ad) çoğul çekimi: railer
+RAILHEADS	(ad) çoğul çekimi: railhead
+RAILING	(ad) railing kelimesinin karşılığı: ⟪parmaklık|PARMAKLIK⟫
+RAILINGS	(ad) çoğul çekimi: railing
+RAILROAD	(ad) railroad kelimesinin karşılığı: ⟪demiryolu|DEMİRYOLU⟫
+RAILROADED	(railroad sözcüğünün çekimi) (ad) railroad kelimesinin karşılığı: ⟪demiryolu|DEMİRYOLU⟫
+RAILROADERS	(ad) çoğul çekimi: railroader
+RAILROADING	(railroad sözcüğünün çekimi) (ad) railroad kelimesinin karşılığı: ⟪demiryolu|DEMİRYOLU⟫
+RAILROADINGS	(railroad sözcüğünün çekimi) (ad) railroad kelimesinin karşılığı: ⟪demiryolu|DEMİRYOLU⟫
+RAILROADS	(ad) çoğul çekimi: railroad
+RAILS	(rail sözcüğünün çekimi) (ad) rail kelimesinin karşılığı: ⟪ray|RAY⟫
+RAILWAY	(ad) demir yolu: lokomotif, vagon v.s. demir tekerlekli vasıtaların üzerinde hareket ettiği paralel iki çelik ray döşenerek yapılan bir tür yol (ayrıca: şimendifer)
+RAILWAYS	(ad) demir yolu: lokomotif, vagon v.s. demir tekerlekli vasıtaların üzerinde hareket ettiği paralel iki çelik ray döşenerek yapılan bir tür yol (ayrıca: şimendifer)
+RAIMENTS	(ad) çoğul çekimi: raiment
+RAIN	(ad) yağmur: atmosferdeki su buharının yoğunlaşmasıyla oluşan ve yeryüzüne düşen yağışın sıvı durumda olanı, baran, bereket, rahmet, yağar
+RAINBOW	(ad) gökkuşağı: Yağmur damlacıklarından geçen güneş ışınlarının kırılıp yansımasıyla gökyüzünde oluşan yedi renkli kemer biçimindeki görüntü; alkım, ebekuşağı, ebemkuşağı, eleğimsağma, gelinkuşağı, hacılarkuşağı, meryemanakuşağı, yağmurkuşağı, alaimisema (ayrıca: alkım, alaimisema)
+RAINBOWS	(ad) çoğul çekimi: rainbow
+RAINCOATS	(ad) çoğul çekimi: raincoat
+RAINDROP	(ad) raindrop kelimesinin karşılığı: yağmur damlası
+RAINDROPS	(ad) raindrop sözcüğünün çoğul çekimi: yağmur damlası
+RAINED	(rain sözcüğünün çekimi) (ad) yağmur: atmosferdeki su buharının yoğunlaşmasıyla oluşan ve yeryüzüne düşen yağışın sıvı durumda olanı, baran,...
+RAINIER	(rainy sözcüğünün çekimi) (ad) yağışlı: yağışı olan (ayrıca: yağmurlu)
+RAINIEST	(rainy sözcüğünün çekimi) (ad) yağışlı: yağışı olan (ayrıca: yağmurlu)
+RAINILY	(rainy sözcüğünün çekimi) (ad) yağışlı: yağışı olan (ayrıca: yağmurlu)
+RAINING	(eylem) rain sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yağmur
+RAINMAKERS	(ad) çoğul çekimi: rainmaker
+RAINS	(ad) rain sözcüğünün çoğul çekimi: yağmur
+RAINSTORMS	(ad) çoğul çekimi: rainstorm
+RAINY	(ad) yağışlı: yağışı olan (ayrıca: yağmurlu)
+RAISE	(eylem) büyütmek: büyük duruma getirmek, genişletmek
+RAISED	(eylem) raise sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: büyütmek
+RAISER	(ad) raiser kelimesinin karşılığı: ⟪yetiştirici|YETİŞTİRİCİ⟫
+RAISERS	(ad) çoğul çekimi: raiser
+RAISES	(ad) çoğul çekimi: raise
+RAISIN	(ad) raisin kelimesinin karşılığı: kuru üzüm
+RAISING	(eylem) raise sözcüğünün şimdiki zaman ortaç ve gerund çekimi: büyütmek
+RAISINGS	(raise sözcüğünün çekimi) (eylem) büyütmek: büyük duruma getirmek, genişletmek
+RAISINS	(ad) raisin sözcüğünün çoğul çekimi: kuru üzüm
+RAJAS	(ad) çoğul çekimi: raja
+RAKE	(ad) rake kelimesinin karşılığı: ⟪tırmık|TIRMIK⟫
+RAKED	(rake sözcüğünün çekimi) (ad) rake kelimesinin karşılığı: ⟪tırmık|TIRMIK⟫
+RAKEES	(rake sözcüğünün çekimi) (ad) rake kelimesinin karşılığı: ⟪tırmık|TIRMIK⟫
+RAKERS	(ad) çoğul çekimi: raker
+RAKES	(ad) çoğul çekimi: rake
+RAKI	(ad) rakı: Üzüm, incir, erik vb. meyvelerin alkolle mayalanarak damıtılmasıyla elde edilen içki; aslansütü, imamsuyu, dilaversuyu.
+RAKING	(rake sözcüğünün çekimi) (ad) rake kelimesinin karşılığı: ⟪tırmık|TIRMIK⟫
+RAKIS	(ad) raki sözcüğünün çoğul çekimi: rakı
+RALES	(ad) çoğul çekimi: rale
+RALLIED	(rally sözcüğünün çekimi) (eylem) rally kelimesinin karşılığı: yeniden toplanmak
+RALLIES	(rally sözcüğünün çekimi) (eylem) rally kelimesinin karşılığı: yeniden toplanmak
+RALLY	(eylem) rally kelimesinin karşılığı: yeniden toplanmak
+RALLYES	(rally sözcüğünün çekimi) (eylem) rally kelimesinin karşılığı: yeniden toplanmak
+RALLYING	(rally sözcüğünün çekimi) (eylem) rally kelimesinin karşılığı: yeniden toplanmak
+RALLYINGS	(rally sözcüğünün çekimi) (eylem) rally kelimesinin karşılığı: yeniden toplanmak
+RAM	(ad) ram kelimesinin karşılığı: ⟪koç|KOÇ⟫
+RAMBLERS	(ad) çoğul çekimi: rambler
+RAMBLES	(ad) çoğul çekimi: ramble
+RAMBUNCTIOUS	(sıfat) ele avuca sığmayan
+RAMBUTANS	(ad) çoğul çekimi: rambutan
+RAMIES	(ad) çoğul çekimi: ramie
+RAMIFICATION	(ad) ramification kelimesinin karşılığı: alt bölümleme
+RAMIFICATIONS	(ramification sözcüğünün çekimi) (ad) ramification kelimesinin karşılığı: alt bölümleme
+RAMIFIED	(eylem) ramify sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dallanmak
+RAMIFIES	(eylem) ramify sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: dallanmak
+RAMIFY	(eylem) dallanmak: (mecaz) Bir iş, bir sorun karışık, güç bir duruma girmek.
+RAMIFYING	(eylem) ramify sözcüğünün şimdiki zaman ortaç ve gerund çekimi: dallanmak
+RAMMED	(ram sözcüğünün çekimi) (ad) ram kelimesinin karşılığı: ⟪koç|KOÇ⟫
+RAMMERS	(ad) çoğul çekimi: rammer
+RAMMING	(ram sözcüğünün çekimi) (ad) ram kelimesinin karşılığı: ⟪koç|KOÇ⟫
+RAMPART	(ad) rampart kelimesinin karşılığı: ⟪sur|SUR⟫, kale duvarı
+RAMPARTED	(rampart sözcüğünün çekimi) (ad) rampart kelimesinin karşılığı: ⟪sur|SUR⟫, kale duvarı
+RAMPARTING	(rampart sözcüğünün çekimi) (ad) rampart kelimesinin karşılığı: ⟪sur|SUR⟫, kale duvarı
+RAMPARTS	(ad) çoğul çekimi: rampart
+RAMPS	(ad) çoğul çekimi: ramp
+RAMRODS	(ad) çoğul çekimi: ramrod
+RAMS	(ad) çoğul çekimi: ram
+RAN	(run sözcüğünün çekimi) (ad) run kelimesinin karşılığı: ⟪koşu|KOŞU⟫
+RANCHERS	(ad) çoğul çekimi: rancher
+RANCHES	(ad) çoğul çekimi: ranch
+RANCIDNESSES	(ad) çoğul çekimi: rancidness
+RANCOR	(ad) hınç: öç alma duygusu ile dolu öfke, kin, gayz (ayrıca: garez, hiddet)
+RANCORED	(rancor sözcüğünün çekimi) (ad) hınç: öç alma duygusu ile dolu öfke, kin, gayz (ayrıca: garez, hiddet)
+RANCORS	(rancor sözcüğünün çekimi) (ad) hınç: öç alma duygusu ile dolu öfke, kin, gayz (ayrıca: garez, hiddet)
+RANCOUR	(ad) (garez, hınç, kin)
+RANCOURS	(rancour sözcüğünün çekimi) (ad) (garez, hınç, kin)
+RANDOM	(sıfat) random kelimesinin karşılığı: ⟪rastgele|RASTGELE⟫
+RANDOMIZE	(eylem) randomize kelimesinin karşılığı: rastgele dağıtmak
+RANDOMIZED	(randomize sözcüğünün çekimi) (eylem) randomize kelimesinin karşılığı: rastgele dağıtmak
+RANDOMIZES	(randomize sözcüğünün çekimi) (eylem) randomize kelimesinin karşılığı: rastgele dağıtmak
+RANDOMIZING	(randomize sözcüğünün çekimi) (eylem) randomize kelimesinin karşılığı: rastgele dağıtmak
+RANDOMS	(ad) random sözcüğünün çoğul çekimi: rastgele\n(eylem) random sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: rastgele
+RANEES	(ad) çoğul çekimi: ranee
+RANG	(ring sözcüğünün çekimi) (ad) ring kelimesinin karşılığı: ⟪çember|ÇEMBER⟫
+RANGE	(ad) range kelimesinin karşılığı: ⟪aralık|ARALIK⟫
+RANGED	(range sözcüğünün çekimi) (ad) range kelimesinin karşılığı: ⟪aralık|ARALIK⟫
+RANGES	(ad) çoğul çekimi: range
+RANGING	(range sözcüğünün çekimi) (ad) range kelimesinin karşılığı: ⟪aralık|ARALIK⟫
+RANK	(ad) rütbe: Subay, astsubay ve polislerin sahip olduğu, astlık üstlük ilişkilerini düzenleyen basamak; paye (ayrıca: aşama)
+RANKED	(rank sözcüğünün çekimi) (ad) rütbe: Subay, astsubay ve polislerin sahip olduğu, astlık üstlük ilişkilerini düzenleyen basamak; paye (ayrıca:...
+RANKEST	(rank sözcüğünün çekimi) (ad) rütbe: Subay, astsubay ve polislerin sahip olduğu, astlık üstlük ilişkilerini düzenleyen basamak; paye (ayrıca:...
+RANKING	(rank sözcüğünün çekimi) (ad) rütbe: Subay, astsubay ve polislerin sahip olduğu, astlık üstlük ilişkilerini düzenleyen basamak; paye (ayrıca:...
+RANKINGS	(ad) çoğul çekimi: ranking
+RANKS	(ad) çoğul çekimi: rank
+RANT	(ad) rant kelimesinin karşılığı: ağız kalabalığı
+RANTED	(rant sözcüğünün çekimi) (ad) rant kelimesinin karşılığı: ağız kalabalığı
+RANTING	(rant sözcüğünün çekimi) (ad) rant kelimesinin karşılığı: ağız kalabalığı
+RANTS	(ad) çoğul çekimi: rant
+RANUNCULI	(ad) çoğul çekimi: ranunculus
+RANUNCULUSES	(ad) çoğul çekimi: ranunculus
+RAPE	(eylem) rape kelimesinin karşılığı: tecavüz etmek
+RAPED	(rape sözcüğünün çekimi) (eylem) rape kelimesinin karşılığı: tecavüz etmek
+RAPERS	(ad) çoğul çekimi: raper
+RAPES	(rape sözcüğünün çekimi) (eylem) rape kelimesinin karşılığı: tecavüz etmek
+RAPESEED	(ad) rapeseed kelimesinin karşılığı: kanola, ⟪kolza|KOLZA⟫
+RAPESEEDS	(rapeseed sözcüğünün çekimi) (ad) rapeseed kelimesinin karşılığı: kanola, ⟪kolza|KOLZA⟫
+RAPIDITIES	(rapidity sözcüğünün çekimi) (ad) hız: alınan yolun harcanan zamana oranı, sürat (ayrıca: sürat, çabukluk)
+RAPIDITY	(ad) hız: alınan yolun harcanan zamana oranı, sürat (ayrıca: sürat, çabukluk)
+RAPIDLY	(zarf) hızlıca: hızlı bir biçimde (ayrıca: çabuk, hızlı)
+RAPIDS	(ad) rapids kelimesinin karşılığı: ivinti yeri, ⟪akanak|AKANAK⟫
+RAPIERS	(ad) çoğul çekimi: rapier
+RAPING	(eylem) rape sözcüğünün şimdiki zaman ortaç ve gerund çekimi: tecavüz etmek.
+RAPISTS	(ad) çoğul çekimi: rapist
+RAPPEL	(ad) Halatla aşağı bırakmak.\n(eylem) rappel kelimesinin karşılığı: halatla inmek
+RAPPELED	(rappel sözcüğünün çekimi) (ad) Halatla aşağı bırakmak.
+RAPPELING	(rappel sözcüğünün çekimi) (ad) Halatla aşağı bırakmak.
+RAPPELLED	(rappel sözcüğünün çekimi) (ad) Halatla aşağı bırakmak.
+RAPPELLING	(rappel sözcüğünün çekimi) (ad) Halatla aşağı bırakmak.
+RAPPELS	(rappel sözcüğünün çekimi) (ad) Halatla aşağı bırakmak.
+RAPPERS	(ad) çoğul çekimi: rapper
+RAPSCALLIONS	(ad) çoğul çekimi: rapscallion
+RAPT	(sıfat) memnun: herhangi bir olaydan veya durumdan ötürü sevinç duyan, kıvançlı, mutlu (ayrıca: mest olmuş, büyülenmiş)
+RAPTLY	(rapt sözcüğünün çekimi) (sıfat) memnun: herhangi bir olaydan veya durumdan ötürü sevinç duyan, kıvançlı, mutlu (ayrıca: mest olmuş, büyülenmiş)
+RAPTOR	(ad) raptor kelimesinin karşılığı: yırtıcı kuş
+RAPTORS	(ad) raptor sözcüğünün çoğul çekimi: yırtıcı kuş
+RAPTURE	(ad) büyük ve yoğun sevinç; esrime;
+RAPTURED	(rapture sözcüğünün çekimi) (ad) büyük ve yoğun sevinç; esrime;
+RAPTURES	(ad) çoğul çekimi: rapture
+RAPTURING	(rapture sözcüğünün çekimi) (ad) büyük ve yoğun sevinç; esrime;
+RAPTUROUS	(sıfat) rapturous kelimesinin karşılığı: ⟪neşeli|NEŞELİ⟫, sevinç dolu, neşe dolu
+RARE	(sıfat) rare kelimesinin karşılığı: ⟪nadir|NADİR⟫
+RAREBITS	(ad) çoğul çekimi: rarebit
+RARED	(rare sözcüğünün çekimi) (sıfat) rare kelimesinin karşılığı: ⟪nadir|NADİR⟫
+RAREFACTIONS	(ad) çoğul çekimi: rarefaction
+RARELY	(zarf) seyrek: aralıklı olarak, aralıklı bir biçimde, arada sırada, binde bir, nadir, nadiren, bayramdan bayrama, bayramda seyranda (ayrıca: nadir, nadiren)
+RARER	(rare sözcüğünün çekimi) (sıfat) rare kelimesinin karşılığı: ⟪nadir|NADİR⟫
+RARES	(ad) çoğul çekimi: rare
+RAREST	(rare sözcüğünün çekimi) (sıfat) rare kelimesinin karşılığı: ⟪nadir|NADİR⟫
+RARITIES	(ad) çoğul çekimi: rarity
+RASCALS	(ad) çoğul çekimi: rascal
+RASHES	(ad) çoğul çekimi: rash
+RASHLY	(zarf) acele: vakit geçirmeden, tez olarak, telesik, celt, tez telesik.
+RASP	(ad) rasp kelimesinin karşılığı: ⟪törpü|TÖRPÜ⟫
+RASPBERRIES	(ad) raspberry sözcüğünün çoğul çekimi: ahududu, ağaç çileği, frambuaz
+RASPBERRY	(ad) ahududu: gülgillerden, dikenli bitki (Rubus idaeus) ve bu bitkinin benzeyen, kırmızı renkli, sulu ve kokulu yemişi, ağaç çileği, frambuaz (ayrıca: ağaç çileği, frambuaz)
+RASPED	(rasp sözcüğünün çekimi) (ad) rasp kelimesinin karşılığı: ⟪törpü|TÖRPÜ⟫
+RASPING	(rasp sözcüğünün çekimi) (ad) rasp kelimesinin karşılığı: ⟪törpü|TÖRPÜ⟫
+RASPS	(ad) çoğul çekimi: rasp
+RASTERS	(ad) çoğul çekimi: raster
+RASURES	(ad) çoğul çekimi: rasure
+RAT	(ad) rat kelimesinin karşılığı: ⟪sıçan|SIÇAN⟫
+RATCHETS	(ad) çoğul çekimi: ratchet
+RATE	(ad) sıklık: sık olma durumu
+RATED	(rate sözcüğünün çekimi) (ad) sıklık: sık olma durumu
+RATELS	(ad) çoğul çekimi: ratel
+RATER	(sıfat) rater kelimesinin karşılığı: notlandırıcı
+RATERS	(rater sözcüğünün çekimi) (sıfat) rater kelimesinin karşılığı: notlandırıcı
+RATES	(rate sözcüğünün çekimi) (ad) sıklık: sık olma durumu
+RATHER	(zarf) çok: Aşırı bir biçimde. (ayrıca: oldukça)
+RATHOLES	(ad) çoğul çekimi: rathole
+RATHSKELLERS	(ad) çoğul çekimi: rathskeller
+RATIFIED	(ratify sözcüğünün çekimi) (eylem) onamak: bir işi doğru ve uygun bulmak, he demek, tasvip etmek
+RATIFIERS	(ad) çoğul çekimi: ratifier
+RATIFIES	(ratify sözcüğünün çekimi) (eylem) onamak: bir işi doğru ve uygun bulmak, he demek, tasvip etmek
+RATIFY	(eylem) onamak: bir işi doğru ve uygun bulmak, he demek, tasvip etmek
+RATIFYING	(ratify sözcüğünün çekimi) (eylem) onamak: bir işi doğru ve uygun bulmak, he demek, tasvip etmek
+RATING	(ad) rating kelimesinin karşılığı: derecelendirme
+RATINGS	(ad) çoğul çekimi: rating
+RATIO	(ad) oran: büyüklük, nicelik, derece bakımından iki şey arasında veya parça ile bütün arasında bulunan bağıntı, nispet, rasyo
+RATIONAL	(sıfat) rational kelimesinin karşılığı: ⟪akılcı|AKILCI⟫, ⟪rasyonel|RASYONEL⟫
+RATIONALES	(ad) çoğul çekimi: rationale
+RATIONALISM	(ad) akılcılık: akla dayanan, doğruluğun ölçütünü duyularda değil, düşünmede ve tümdengelimli çıkarmalarda bulan öğretilerin genel adı, usçuluk, akliye, rasyonalizm, deneycilik karşıtı (ayrıca: rasyonalizm, usçuluk)
+RATIONALISMS	(rationalism sözcüğünün çekimi) (ad) akılcılık: akla dayanan, doğruluğun ölçütünü duyularda değil, düşünmede ve tümdengelimli çıkarmalarda bulan...
+RATIONALISTIC	(sıfat) akılcı: akılcılıktan yana olan, usçu, rasyonalist (kişi) (ayrıca: rasyonalist, usçu)
+RATIONALISTS	(ad) çoğul çekimi: rationalist
+RATIONALIZATIONS	(ad) çoğul çekimi: rationalization
+RATIONALS	(rational sözcüğünün çekimi) (sıfat) rational kelimesinin karşılığı: ⟪akılcı|AKILCI⟫, ⟪rasyonel|RASYONEL⟫
+RATIOS	(ad) ratio sözcüğünün çoğul çekimi: oran\n(eylem) ratio sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: oran
+RATITES	(ad) çoğul çekimi: ratite
+RATLINES	(ad) çoğul çekimi: ratline
+RATS	(ad) rat sözcüğünün çoğul çekimi: sıçan\n(eylem) rat sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: sıçan
+RATTED	(rat sözcüğünün çekimi) (ad) rat kelimesinin karşılığı: ⟪sıçan|SIÇAN⟫
+RATTERS	(ad) çoğul çekimi: ratter
+RATTING	(rat sözcüğünün çekimi) (ad) rat kelimesinin karşılığı: ⟪sıçan|SIÇAN⟫
+RATTLE	(eylem) rattle kelimesinin karşılığı: şıngırdatmak
+RATTLED	(rattle sözcüğünün çekimi) (eylem) rattle kelimesinin karşılığı: şıngırdatmak
+RATTLERS	(ad) çoğul çekimi: rattler
+RATTLES	(ad) çoğul çekimi: rattle
+RATTLESNAKE	(ad) rattlesnake kelimesinin karşılığı: çıngıraklı yılan
+RATTLESNAKES	(ad) çoğul çekimi: rattlesnake
+RATTLING	(rattle sözcüğünün çekimi) (eylem) rattle kelimesinin karşılığı: şıngırdatmak
+RATTLINGS	(rattle sözcüğünün çekimi) (eylem) rattle kelimesinin karşılığı: şıngırdatmak
+RATTRAPS	(ad) çoğul çekimi: rattrap
+RAVAGES	(ad) çoğul çekimi: ravage
+RAVELINS	(ad) çoğul çekimi: ravelin
+RAVEN	(ad) raven kelimesinin karşılığı: bayağı kuzgun
+RAVENED	(raven sözcüğünün çekimi) (ad) raven kelimesinin karşılığı: bayağı kuzgun
+RAVENING	(raven sözcüğünün çekimi) (ad) raven kelimesinin karşılığı: bayağı kuzgun
+RAVENINGS	(raven sözcüğünün çekimi) (ad) raven kelimesinin karşılığı: bayağı kuzgun
+RAVENOUS	(sıfat) obur: gereğinden çok yemek yiyen, doymak bilmeyen (kişi) (ayrıca: açgözlü, doymaz)
+RAVENS	(ad) raven sözcüğünün çoğul çekimi: bayağı kuzgun
+RAVERS	(ad) çoğul çekimi: raver
+RAVINE	(sıfat) dar ve derin vadi
+RAVINES	(ravine sözcüğünün çekimi) (sıfat) dar ve derin vadi
+RAVINGS	(ad) çoğul çekimi: raving
+RAW	(sıfat) çiğ: yersiz ve yakışıksız
+RAWER	(raw sözcüğünün çekimi) (sıfat) çiğ: yersiz ve yakışıksız
+RAWEST	(raw sözcüğünün çekimi) (sıfat) çiğ: yersiz ve yakışıksız
+RAWS	(raw sözcüğünün çekimi) (sıfat) çiğ: yersiz ve yakışıksız
+RAY	(ad) ışın: Bir ışık kaynağından çıkarak her yöne yayılıp giden ışık demeti. (ayrıca: şua)
+RAYED	(ray sözcüğünün çekimi) (ad) ışın: Bir ışık kaynağından çıkarak her yöne yayılıp giden ışık demeti. (ayrıca: şua)
+RAYING	(ray sözcüğünün çekimi) (ad) ışın: Bir ışık kaynağından çıkarak her yöne yayılıp giden ışık demeti. (ayrıca: şua)
+RAYS	(ad) çoğul çekimi: ray
+RAZOR	(ad) razor kelimesinin karşılığı: ⟪ustura|USTURA⟫, ⟪yülgü|YÜLGÜ⟫
+RAZORED	(razor sözcüğünün çekimi) (ad) razor kelimesinin karşılığı: ⟪ustura|USTURA⟫, ⟪yülgü|YÜLGÜ⟫
+RAZORING	(razor sözcüğünün çekimi) (ad) razor kelimesinin karşılığı: ⟪ustura|USTURA⟫, ⟪yülgü|YÜLGÜ⟫
+RAZORS	(ad) çoğul çekimi: razor
+REACH	(eylem) erişmek: Bir yere ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+REACHABLE	(sıfat) reachable kelimesinin karşılığı: ⟪erişilebilir|ERİŞİLEBİLİR⟫, ⟪erişilir|ERİŞİLİR⟫
+REACHED	(eylem) reach sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: ulaşmak, varmak, gelmek, erişmek
+REACHES	(eylem) reach sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ulaşmak, varmak, gelmek, erişmek\n(ad) çoğul çekimi: reach
+REACHING	(reach sözcüğünün çekimi) (eylem) erişmek: Bir yere ulaşmak, varmak. (ayrıca: ulaşmak, varmak)
+REACT	(eylem) react kelimesinin karşılığı: reaksiyon göstermek
+REACTANCE	(ad) reaktans: matematiksel analizde türev ifadesi içeren kondansatör ve endüktans gibi elemanların AC gerilime karşı gösterdikleri direnç
+REACTANCES	(reactance sözcüğünün çekimi) (ad) reaktans: matematiksel analizde türev ifadesi içeren kondansatör ve endüktans gibi elemanların AC gerilime karşı...
+REACTANT	(ad) reaktan: kimyasal reaksiyona ilgisi olan molekül, reaktant
+REACTANTS	(ad) çoğul çekimi: reactant
+REACTED	(react sözcüğünün çekimi) (eylem) react kelimesinin karşılığı: reaksiyon göstermek
+REACTING	(react sözcüğünün çekimi) (eylem) react kelimesinin karşılığı: reaksiyon göstermek
+REACTION	(ad) tepkime: birbirini etkileyen maddeler arasında ortaya çıkan durum, reaksiyon, teamül, kimyasal tepkime, kimyasal reaksiyon (ayrıca: reaksiyon)
+REACTIONARIES	(ad) çoğul çekimi: reactionary
+REACTIONS	(ad) çoğul çekimi: reaction
+REACTIVE	(ad) reactive kelimesinin karşılığı: ⟪reaktif|REAKTİF⟫
+REACTIVELY	(reactive sözcüğünün çekimi) (ad) reactive kelimesinin karşılığı: ⟪reaktif|REAKTİF⟫
+REACTIVITIES	(reactivity sözcüğünün çekimi) (ad) reactivity kelimesinin karşılığı: reaktivite
+REACTIVITY	(ad) reactivity kelimesinin karşılığı: reaktivite
+REACTOR	(ad) reactor kelimesinin karşılığı: ⟪reaktör|REAKTÖR⟫
+REACTORS	(ad) çoğul çekimi: reactor
+REACTS	(ad) çoğul çekimi: react
+READ	(eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+READABILITIES	(readability sözcüğünün çekimi) (ad) readability kelimesinin karşılığı: okunurluk
+READABILITY	(ad) readability kelimesinin karşılığı: okunurluk
+READDED	(read sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+READDING	(read sözcüğünün çekimi) (eylem) okumak: Bir metni sadece harf ve işaretlere bakıp anlamak veya metni seslendirmek. (ayrıca: mütalaa etmek)
+READER	(ad) okur: okuyan kimse (ayrıca: okuyucu, kari)
+READERLY	(reader sözcüğünün çekimi) (ad) okur: okuyan kimse (ayrıca: okuyucu, kari)
+READERS	(ad) çoğul çekimi: reader
+READIED	(ready sözcüğünün çekimi) (sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+READIER	(ready sözcüğünün çekimi) (sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+READIES	(ready sözcüğünün çekimi) (sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+READIEST	(ready sözcüğünün çekimi) (sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+READING	(ad) okuma: okumak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi
+READINGS	(ad) çoğul çekimi: reading
+READJUSTMENTS	(ad) çoğul çekimi: readjustment
+READMISSIONS	(ad) çoğul çekimi: readmission
+READOUTS	(ad) çoğul çekimi: readout
+READS	(ad) çoğul çekimi: read
+READY	(sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+READYING	(ready sözcüğünün çekimi) (sıfat) hazır: Bir iş yapmak için gereken her şeyi tamamlamış olan; anık, amade, müheyya
+REAFFIRM	(eylem) reaffirm kelimesinin karşılığı: yeniden onaylamak
+REAFFIRMATIONS	(ad) çoğul çekimi: reaffirmation
+REAFFIRMED	(reaffirm sözcüğünün çekimi) (eylem) reaffirm kelimesinin karşılığı: yeniden onaylamak
+REAFFIRMING	(reaffirm sözcüğünün çekimi) (eylem) reaffirm kelimesinin karşılığı: yeniden onaylamak
+REAFFIRMS	(reaffirm sözcüğünün çekimi) (eylem) reaffirm kelimesinin karşılığı: yeniden onaylamak
+REAGENT	(ad) belirteç: kimyasal söz türü (ayrıca: ayıraç, reaktant)
+REAGENTS	(ad) çoğul çekimi: reagent
+REAL	(sıfat) hayal ürünü olmayan, gerçek, hakiki
+REALER	(real sözcüğünün çekimi) (sıfat) hayal ürünü olmayan, gerçek, hakiki
+REALES	(real sözcüğünün çekimi) (sıfat) hayal ürünü olmayan, gerçek, hakiki
+REALEST	(real sözcüğünün çekimi) (sıfat) hayal ürünü olmayan, gerçek, hakiki
+REALISM	(ad) gerçekçilik: gerçekçi tutum ve davranış, realizm
+REALISMS	(realism sözcüğünün çekimi) (ad) gerçekçilik: gerçekçi tutum ve davranış, realizm
+REALISTIC	(ad) gerçekçi: Gerçeği gören ve ona göre davranan veya gerçeğe uygun olarak yapılan, realist (ayrıca: realist)
+REALISTS	(ad) çoğul çekimi: realist
+REALITIES	(ad) reality sözcüğünün çoğul çekimi: gerçeklik, hakikilik, realite
+REALITY	(ad) gerçeklik: gerçek olan, var olan şeylerin tümü, hakikat, şeniyet, realite, asıl (ayrıca: hakikilik, realite)
+REALIZATION	(ad) gerçekleşme: gerçekleşmek işi, tahakkuk
+REALIZATIONS	(ad) çoğul çekimi: realization
+REALIZE	(eylem) kavramak: bir nesne veya düşüncenin her yönünü iyice derinlemesine anlamak (ayrıca: farkına varmak, bilincine varmak)
+REALIZED	(eylem) realize sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: farkına varmak, bilincine varmak, fark etmek, kavramak
+REALIZES	(realize sözcüğünün çekimi) (eylem) kavramak: bir nesne veya düşüncenin her yönünü iyice derinlemesine anlamak (ayrıca: farkına varmak, bilincine...
+REALIZING	(realize sözcüğünün çekimi) (eylem) kavramak: bir nesne veya düşüncenin her yönünü iyice derinlemesine anlamak (ayrıca: farkına varmak, bilincine...
+REALLOCATIONS	(ad) çoğul çekimi: reallocation
+REALLY	(zarf) hakikat: doğrusu, gerçekten, hakikaten (ayrıca: doğrusu, gerçekten)
+REALM	(ad) realm kelimesinin karşılığı: ⟪krallık|KRALLIK⟫, ⟪diyar|DİYAR⟫, ⟪alem|ALEM⟫, ⟪dünya|DÜNYA⟫
+REALMS	(ad) çoğul çekimi: realm
+REALS	(ad) çoğul çekimi: real
+REALTIES	(ad) çoğul çekimi: reality
+REAMERS	(ad) çoğul çekimi: reamer
+REAMS	(ad) çoğul çekimi: ream
+REANIMATIONS	(ad) çoğul çekimi: reanimation
+REAP	(ad) hasat: bu biçimde toplanmış ürün
+REAPED	(reap sözcüğünün çekimi) (ad) hasat: bu biçimde toplanmış ürün
+REAPER	(ad) ekin biçen kişi.
+REAPERS	(ad) reaper sözcüğünün çoğul çekimi: ekin biçen kişi.
+REAPING	(reap sözcüğünün çekimi) (ad) hasat: bu biçimde toplanmış ürün
+REAPPEAR	(eylem) reappear kelimesinin karşılığı: tekrar oluşmak
+REAPPEARANCES	(ad) çoğul çekimi: reappearance
+REAPPEARED	(reappear sözcüğünün çekimi) (eylem) reappear kelimesinin karşılığı: tekrar oluşmak
+REAPPEARING	(reappear sözcüğünün çekimi) (eylem) reappear kelimesinin karşılığı: tekrar oluşmak
+REAPPEARS	(reappear sözcüğünün çekimi) (eylem) reappear kelimesinin karşılığı: tekrar oluşmak
+REAPPLICATIONS	(ad) çoğul çekimi: reapplication
+REAPPOINTMENTS	(ad) çoğul çekimi: reappointment
+REAPPORTIONMENTS	(ad) çoğul çekimi: reapportionment
+REAPPRAISALS	(ad) çoğul çekimi: reappraisal
+REAPS	(ad) çoğul çekimi: reap
+REAR	(ad) rear kelimesinin karşılığı: ⟪arka|ARKA⟫\n(sıfat) rear kelimesinin karşılığı: ⟪arka|ARKA⟫
+REARED	(eylem) rear sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: arka
+REARER	(rear sözcüğünün çekimi) (ad) rear kelimesinin karşılığı: ⟪arka|ARKA⟫
+REARERS	(rear sözcüğünün çekimi) (ad) rear kelimesinin karşılığı: ⟪arka|ARKA⟫
+REARING	(rear sözcüğünün çekimi) (ad) rear kelimesinin karşılığı: ⟪arka|ARKA⟫
+REARRANGEMENTS	(ad) çoğul çekimi: rearrangement
+REARREST	(rear sözcüğünün çekimi) (ad) rear kelimesinin karşılığı: ⟪arka|ARKA⟫
+REARS	(ad) çoğul çekimi: rear
+REARWARDS	(ad) çoğul çekimi: rearward
+REASON	(ad) sebep: bir şeyin olmasına veya belli bir hâlde bulunmasına yol açan şey, neden (ayrıca: neden)
+REASONABLE	(sıfat) akıllı: Karşısındakini küçümseme amacıyla söylenen bir söz. (ayrıca: akılsal, akli)
+REASONED	(eylem) reason sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: neden, sebep
+REASONERS	(ad) çoğul çekimi: reasoner
+REASONING	(ad) usavurma: düşüncenin, belirli birtakım önermeleri birbirine bağlayarak yeni bir önermeye (sonuca) erişmesi
+REASONINGS	(ad) çoğul çekimi: reasoning
+REASONS	(ad) reason sözcüğünün çoğul çekimi: neden, sebep\n(eylem) reason sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: neden, sebep
+REASSERTIONS	(ad) çoğul çekimi: reassertion
+REASSESSMENTS	(ad) çoğul çekimi: reassessment
+REASSIGNMENTS	(ad) çoğul çekimi: reassignment
+REATAS	(ad) çoğul çekimi: reata
+REATTACHMENTS	(ad) çoğul çekimi: reattachment
+REBATES	(ad) çoğul çekimi: rebate
+REBEL	(sıfat) rebel kelimesinin karşılığı: ⟪isyancı|İSYANCI⟫
+REBELLED	(rebel sözcüğünün çekimi) (sıfat) rebel kelimesinin karşılığı: ⟪isyancı|İSYANCI⟫
+REBELLING	(rebel sözcüğünün çekimi) (sıfat) rebel kelimesinin karşılığı: ⟪isyancı|İSYANCI⟫
+REBELLION	(ad) rebellion kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+REBELLIONS	(rebellion sözcüğünün çekimi) (ad) rebellion kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+REBELLIOUS	(sıfat) rebellious kelimesinin karşılığı: ⟪asi|ASİ⟫
+REBELS	(ad) çoğul çekimi: rebel
+REBOOTS	(ad) çoğul çekimi: reboot
+REBOUNDS	(ad) çoğul çekimi: rebound
+REBUFFS	(ad) çoğul çekimi: rebuff
+REBUILD	(ad) rebuild kelimesinin karşılığı: yeniden yapılandırma
+REBUILDED	(rebuild sözcüğünün çekimi) (ad) rebuild kelimesinin karşılığı: yeniden yapılandırma
+REBUILDING	(rebuild sözcüğünün çekimi) (ad) rebuild kelimesinin karşılığı: yeniden yapılandırma
+REBUILDS	(ad) çoğul çekimi: rebuild
+REBUILT	(rebuild sözcüğünün çekimi) (ad) rebuild kelimesinin karşılığı: yeniden yapılandırma
+REBUKES	(ad) çoğul çekimi: rebuke
+REBURIALS	(ad) çoğul çekimi: reburial
+REBUS	(ad) rebus kelimesinin karşılığı: resimli bilmece
+REBUSES	(rebus sözcüğünün çekimi) (ad) rebus kelimesinin karşılığı: resimli bilmece
+REBUT	(eylem) çürütmek: Doğru olarak ileri sürülen bir düşüncenin, bir davanın boşluğunu, anlamsızlığınıortaya koymak.
+REBUTS	(rebut sözcüğünün çekimi) (eylem) çürütmek: Doğru olarak ileri sürülen bir düşüncenin, bir davanın boşluğunu, anlamsızlığınıortaya koymak.
+REBUTTALS	(ad) çoğul çekimi: rebuttal
+REBUTTED	(rebut sözcüğünün çekimi) (eylem) çürütmek: Doğru olarak ileri sürülen bir düşüncenin, bir davanın boşluğunu, anlamsızlığınıortaya koymak.
+REBUTTERS	(ad) çoğul çekimi: rebutter
+REBUTTING	(rebut sözcüğünün çekimi) (eylem) çürütmek: Doğru olarak ileri sürülen bir düşüncenin, bir davanın boşluğunu, anlamsızlığınıortaya koymak.
+RECALCITRANTS	(ad) çoğul çekimi: recalcitrant
+RECALCULATIONS	(ad) çoğul çekimi: recalculation
+RECALL	(eylem) hatırlamak: anımsamak, çıkarmak\n(ad) recall kelimesinin karşılığı: geri çekme
+RECALLED	(recall sözcüğünün çekimi) (eylem) hatırlamak: anımsamak, çıkarmak
+RECALLER	(recall sözcüğünün çekimi) (eylem) hatırlamak: anımsamak, çıkarmak
+RECALLING	(recall sözcüğünün çekimi) (eylem) hatırlamak: anımsamak, çıkarmak
+RECALLS	(ad) çoğul çekimi: recall
+RECANTATIONS	(ad) çoğul çekimi: recantation
+RECANTERS	(ad) çoğul çekimi: recanter
+RECAPS	(ad) çoğul çekimi: recap
+RECASTS	(ad) çoğul çekimi: recast
+RECCES	(ad) çoğul çekimi: recce
+RECEDE	(eylem) recede kelimesinin karşılığı: geri çekilmek
+RECEDED	(recede sözcüğünün çekimi) (eylem) recede kelimesinin karşılığı: geri çekilmek
+RECEDES	(recede sözcüğünün çekimi) (eylem) recede kelimesinin karşılığı: geri çekilmek
+RECEDING	(recede sözcüğünün çekimi) (eylem) recede kelimesinin karşılığı: geri çekilmek
+RECEIPT	(ad) senet: bir kişinin yapmaya veya ödemeye borçlu olduğu şeyi göstermek için imzaladığı resmî belge (ayrıca: belgit)\n(eylem) receipt kelimesinin karşılığı: makbuz vermek
+RECEIPTED	(receipt sözcüğünün çekimi) (ad) senet: bir kişinin yapmaya veya ödemeye borçlu olduğu şeyi göstermek için imzaladığı resmî belge (ayrıca: belgit)
+RECEIPTING	(receipt sözcüğünün çekimi) (ad) senet: bir kişinin yapmaya veya ödemeye borçlu olduğu şeyi göstermek için imzaladığı resmî belge (ayrıca: belgit)
+RECEIPTS	(ad) çoğul çekimi: receipt
+RECEIVABLE	(ad) alacak: bir hesap gereğince daha alınmamış olan para, mal vb. şey, matlup, verecek karşıtı
+RECEIVABLES	(ad) çoğul çekimi: receivable
+RECEIVE	(eylem) almak: Bir şeyin birisine ulaştırılması; iletilmek
+RECEIVED	(receive sözcüğünün çekimi) (eylem) almak: Bir şeyin birisine ulaştırılması; iletilmek
+RECEIVER	(ad) receiver kelimesinin karşılığı: ⟪alıcı|ALICI⟫
+RECEIVERS	(ad) çoğul çekimi: receiver
+RECEIVES	(eylem) receive sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: almak\n(ad) çoğul çekimi: receive
+RECEIVING	(receive sözcüğünün çekimi) (eylem) almak: Bir şeyin birisine ulaştırılması; iletilmek
+RECENCIES	(ad) recency sözcüğünün çoğul çekimi: yenilik
+RECENCY	(ad) yenilik: yeni olma durumu veya yeni olan bir şeyin özelliği
+RECENT	(sıfat) recent kelimesinin karşılığı: yeni olmuş
+RECENTER	(recent sözcüğünün çekimi) (sıfat) recent kelimesinin karşılığı: yeni olmuş
+RECENTEST	(recent sözcüğünün çekimi) (sıfat) recent kelimesinin karşılığı: yeni olmuş
+RECENTLY	(zarf) geçenlerde: Yakın bir geçmişte, yakında. (ayrıca: son zamanlarda)
+RECEPTACLE	(ad) receptacle kelimesinin karşılığı: çiçek tablası
+RECEPTACLES	(ad) çoğul çekimi: receptacle
+RECEPTION	(ad) reception kelimesinin karşılığı: ⟪resepsiyon|RESEPSİYON⟫
+RECEPTIONIST	(ad) resepsiyonist: Konaklama işletmelerinde konukların kabulü ve kimlik bilgilerinin kayıt formlarına işlenmesi, departmana ait sorunlarının çözümlenmesi; çıkış ve çıkış sonrası işlemleri yapma bilgi ve becerisine sahip nitelikli kişi; otel kâtibi
+RECEPTIONISTS	(ad) çoğul çekimi: receptionist
+RECEPTIONS	(ad) çoğul çekimi: reception
+RECEPTIVE	(sıfat) receptive kelimesinin karşılığı: algısal
+RECEPTIVITIES	(receptivity sözcüğünün çekimi) (ad) alırlık: duygusal uyarımları alabilme yeteneği, idrak kabiliyeti
+RECEPTIVITY	(ad) alırlık: duygusal uyarımları alabilme yeteneği, idrak kabiliyeti
+RECEPTOR	(ad) almaç: çeşitli uyarıları alabilen ve duyu organlarının yapısında bulunan özelleşmiş hücre, hücre grupları veya sinir uçları, reseptör (ayrıca: reseptör)
+RECEPTORS	(ad) çoğul çekimi: receptor
+RECESS	(ad) recess kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫, ⟪çukur|ÇUKUR⟫, girik, ⟪girinti|GİRİNTİ⟫
+RECESSED	(recess sözcüğünün çekimi) (ad) recess kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫, ⟪çukur|ÇUKUR⟫, girik, ⟪girinti|GİRİNTİ⟫
+RECESSES	(recess sözcüğünün çekimi) (ad) recess kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫, ⟪çukur|ÇUKUR⟫, girik, ⟪girinti|GİRİNTİ⟫
+RECESSING	(recess sözcüğünün çekimi) (ad) recess kelimesinin karşılığı: ⟪boşluk|BOŞLUK⟫, ⟪çukur|ÇUKUR⟫, girik, ⟪girinti|GİRİNTİ⟫
+RECESSION	(ad) recession kelimesinin karşılığı: ⟪kesatlık|KESATLIK⟫
+RECESSIONALS	(ad) çoğul çekimi: recessional
+RECESSIONS	(recession sözcüğünün çekimi) (ad) recession kelimesinin karşılığı: ⟪kesatlık|KESATLIK⟫
+RECHEATS	(ad) çoğul çekimi: recheat
+RECIDIVISTS	(ad) çoğul çekimi: recidivist
+RECIPE	(ad) tarif: Bir işin yapılış yöntemini açıklama ve belirtme. (ayrıca: yemek tarifi)
+RECIPES	(ad) recipe sözcüğünün çoğul çekimi: tarif, yemek tarifi
+RECIPIENTS	(ad) çoğul çekimi: recipient
+RECIPROCAL	(ad) reciprocal kelimesinin karşılığı: ⟪işteş|İŞTEŞ⟫\n(sıfat) karşılıklı: iki kişi veya iki topluluğun arasında geçen ve karşılaşılan harekete eş değer bir hareketle beliren, mütekabil
+RECIPROCALLY	(zarf) karşılıklı: birbirlerine karşı bir biçimde
+RECIPROCALS	(ad) çoğul çekimi: reciprocal
+RECIPROCITIES	(reciprocity sözcüğünün çekimi) (ad) işteşlik: işteş olma durumu
+RECIPROCITY	(ad) işteşlik: işteş olma durumu
+RECITALISTS	(ad) çoğul çekimi: recitalist
+RECITALS	(ad) çoğul çekimi: recital
+RECITATIONS	(ad) çoğul çekimi: recitation
+RECITATIVES	(ad) çoğul çekimi: recitative
+RECITERS	(ad) çoğul çekimi: reciter
+RECKON	(eylem) ummak: sanmak, tahmin etmek (ayrıca: zannetmek, tahmin etmek)
+RECKONED	(reckon sözcüğünün çekimi) (eylem) ummak: sanmak, tahmin etmek (ayrıca: zannetmek, tahmin etmek)
+RECKONING	(reckon sözcüğünün çekimi) (eylem) ummak: sanmak, tahmin etmek (ayrıca: zannetmek, tahmin etmek)
+RECKONINGS	(ad) çoğul çekimi: reckoning
+RECKONS	(reckon sözcüğünün çekimi) (eylem) ummak: sanmak, tahmin etmek (ayrıca: zannetmek, tahmin etmek)
+RECLAIM	(eylem) reclaim kelimesinin karşılığı: geri istemek, geri almak, geri çağırmak
+RECLAIMED	(reclaim sözcüğünün çekimi) (eylem) reclaim kelimesinin karşılığı: geri istemek, geri almak, geri çağırmak
+RECLAIMING	(reclaim sözcüğünün çekimi) (eylem) reclaim kelimesinin karşılığı: geri istemek, geri almak, geri çağırmak
+RECLAIMS	(reclaim sözcüğünün çekimi) (eylem) reclaim kelimesinin karşılığı: geri istemek, geri almak, geri çağırmak
+RECLAMATIONS	(ad) çoğul çekimi: reclamation
+RECLASSIFICATIONS	(ad) çoğul çekimi: reclassification
+RECLINE	(eylem) uzanmak: Vücudunu yöneltmek veya vücuduyla birlikte kolunu uzatmak: (ayrıca: yaslanmak, yatmak)
+RECLINED	(recline sözcüğünün çekimi) (eylem) uzanmak: Vücudunu yöneltmek veya vücuduyla birlikte kolunu uzatmak: (ayrıca: yaslanmak, yatmak)
+RECLINERS	(ad) çoğul çekimi: recliner
+RECLINES	(recline sözcüğünün çekimi) (eylem) uzanmak: Vücudunu yöneltmek veya vücuduyla birlikte kolunu uzatmak: (ayrıca: yaslanmak, yatmak)
+RECLINING	(recline sözcüğünün çekimi) (eylem) uzanmak: Vücudunu yöneltmek veya vücuduyla birlikte kolunu uzatmak: (ayrıca: yaslanmak, yatmak)
+RECLUSES	(ad) çoğul çekimi: recluse
+RECOGNIZANCES	(ad) çoğul çekimi: recognizance
+RECOGNIZE	(eylem) tanımak: Bir kimse veya şeyle ilgili, doğru ve tam bilgisi bulunmak:
+RECOGNIZED	(eylem) recognize sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: tanımak
+RECOGNIZES	(recognize sözcüğünün çekimi) (eylem) tanımak: Bir kimse veya şeyle ilgili, doğru ve tam bilgisi bulunmak:
+RECOGNIZING	(recognize sözcüğünün çekimi) (eylem) tanımak: Bir kimse veya şeyle ilgili, doğru ve tam bilgisi bulunmak:
+RECOIL	(eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: geri çekilmek, irkilmek)
+RECOILED	(recoil sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: geri çekilmek, irkilmek)
+RECOILING	(recoil sözcüğünün çekimi) (eylem) ürkmek: bir şeyden korkup sıçramak, tevahhuş etmek (ayrıca: geri çekilmek, irkilmek)
+RECOILS	(ad) çoğul çekimi: recoil
+RECOLLECT	(eylem) anımsamak: bilinip unutulan bir şeyi akla getirmek, hatırlamak (ayrıca: hatırlamak)
+RECOLLECTED	(recollect sözcüğünün çekimi) (eylem) anımsamak: bilinip unutulan bir şeyi akla getirmek, hatırlamak (ayrıca: hatırlamak)
+RECOLLECTING	(recollect sözcüğünün çekimi) (eylem) anımsamak: bilinip unutulan bir şeyi akla getirmek, hatırlamak (ayrıca: hatırlamak)
+RECOLLECTIONS	(ad) çoğul çekimi: recollection
+RECOLLECTS	(recollect sözcüğünün çekimi) (eylem) anımsamak: bilinip unutulan bir şeyi akla getirmek, hatırlamak (ayrıca: hatırlamak)
+RECOLONIZATIONS	(ad) çoğul çekimi: recolonization
+RECOMBINANT	(ad) rekombinant: Rekombinasyon sonucu oluşan yeni hücreler, DNA ya da klon.
+RECOMBINANTS	(recombinant sözcüğünün çekimi) (ad) rekombinant: Rekombinasyon sonucu oluşan yeni hücreler, DNA ya da klon.
+RECOMBINATION	(ad) recombination kelimesinin karşılığı: ⟪rekombinasyon|REKOMBİNASYON⟫
+RECOMBINATIONS	(ad) çoğul çekimi: recombination
+RECOMMENCEMENTS	(ad) çoğul çekimi: recommencement
+RECOMMEND	(eylem) önermek: bir sorunu çözmek üzere bir şey öne sürmek, teklif etmek (ayrıca: tavsiye etmek)
+RECOMMENDATION	(ad) tavsiye: öğütleme, yol gösterme (ayrıca: salık)
+RECOMMENDATIONS	(ad) çoğul çekimi: recommendation
+RECOMMENDED	(recommend sözcüğünün çekimi) (eylem) önermek: bir sorunu çözmek üzere bir şey öne sürmek, teklif etmek (ayrıca: tavsiye etmek)
+RECOMMENDING	(recommend sözcüğünün çekimi) (eylem) önermek: bir sorunu çözmek üzere bir şey öne sürmek, teklif etmek (ayrıca: tavsiye etmek)
+RECOMMENDS	(ad) çoğul çekimi: recommend
+RECOMMITS	(ad) çoğul çekimi: recommit
+RECOMPENSE	(eylem) ödüllendirmek: Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak.
+RECOMPENSED	(recompense sözcüğünün çekimi) (eylem) ödüllendirmek: Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak.
+RECOMPENSES	(recompense sözcüğünün çekimi) (eylem) ödüllendirmek: Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak.
+RECOMPENSING	(recompense sözcüğünün çekimi) (eylem) ödüllendirmek: Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak.
+RECOMPOSITION	(ad) recomposition kelimesinin karşılığı: ödünçlü yapım
+RECOMPOSITIONS	(recomposition sözcüğünün çekimi) (ad) recomposition kelimesinin karşılığı: ödünçlü yapım
+RECONCILABLE	(sıfat) reconcilable kelimesinin karşılığı: uzlaştırılabilir\n(ad) reconcilable kelimesinin karşılığı: uzlaştırılabilen şey
+RECONCILERS	(ad) çoğul çekimi: reconciler
+RECONCILIATION	(ad) reconciliation kelimesinin karşılığı: ⟪anlaşma|ANLAŞMA⟫
+RECONCILIATIONS	(ad) çoğul çekimi: reconciliation
+RECONDITE	(sıfat) bilinmeyen: değeri belli olmayan, bilinmedik, bilinmez, meçhul (ayrıca: az bilinen, anlaşılması zor)
+RECONDITELY	(recondite sözcüğünün çekimi) (sıfat) bilinmeyen: değeri belli olmayan, bilinmedik, bilinmez, meçhul (ayrıca: az bilinen, anlaşılması zor)
+RECONNOITER	(eylem) araziyi keşfe çıkmak; keşif yapmak
+RECONNOITERED	(reconnoiter sözcüğünün çekimi) (eylem) araziyi keşfe çıkmak; keşif yapmak
+RECONNOITERING	(reconnoiter sözcüğünün çekimi) (eylem) araziyi keşfe çıkmak; keşif yapmak
+RECONNOITERS	(ad) çoğul çekimi: reconnoiter
+RECONQUESTS	(ad) çoğul çekimi: reconquest
+RECONSECRATIONS	(ad) çoğul çekimi: reconsecration
+RECONSIDERATIONS	(ad) çoğul çekimi: reconsideration
+RECONSIDERS	(ad) çoğul çekimi: reconsider
+RECONSTRUCTION	(ad) reconstruction kelimesinin karşılığı: yeni kurum, ⟪rekonstrüksiyon|REKONSTRÜKSİYON⟫, yeniden inşa
+RECONSTRUCTIONS	(reconstruction sözcüğünün çekimi) (ad) reconstruction kelimesinin karşılığı: yeni kurum, ⟪rekonstrüksiyon|REKONSTRÜKSİYON⟫, yeniden inşa
+RECORD	(ad) record kelimesinin karşılığı: ⟪kayıt|KAYIT⟫\n(eylem) kaydetmek: herhangi bir şeyi bir yere mal etmek, bir şeyin tarih, numara veya adını bir deftere geçirmek
+RECORDED	(eylem) record sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kayıt
+RECORDERS	(ad) çoğul çekimi: recorder
+RECORDING	(record sözcüğünün çekimi) (ad) record kelimesinin karşılığı: ⟪kayıt|KAYIT⟫
+RECORDINGS	(ad) çoğul çekimi: recording
+RECORDS	(record sözcüğünün çekimi) (ad) record kelimesinin karşılığı: ⟪kayıt|KAYIT⟫
+RECOUNTS	(ad) çoğul çekimi: recount
+RECOUPMENTS	(ad) çoğul çekimi: recoupment
+RECOURSES	(ad) çoğul çekimi: recourse
+RECOVERIES	(ad) çoğul çekimi: recovery
+RECOVERY	(ad) recovery kelimesinin karşılığı: ⟪iyileşme|İYİLEŞME⟫
+RECREANTS	(ad) çoğul çekimi: recreant
+RECREATIONS	(ad) çoğul çekimi: recreation
+RECRIMINATIONS	(ad) çoğul çekimi: recrimination
+RECRUIT	(ad) recruit kelimesinin karşılığı: acemi er, dövüşken kuş
+RECRUITED	(recruit sözcüğünün çekimi) (ad) recruit kelimesinin karşılığı: acemi er, dövüşken kuş
+RECRUITERS	(ad) çoğul çekimi: recruiter
+RECRUITING	(recruit sözcüğünün çekimi) (ad) recruit kelimesinin karşılığı: acemi er, dövüşken kuş
+RECRUITMENT	(ad) recruitment kelimesinin karşılığı: işe alım
+RECRUITMENTS	(recruitment sözcüğünün çekimi) (ad) recruitment kelimesinin karşılığı: işe alım
+RECRUITS	(ad) çoğul çekimi: recruit
+RECRYSTALLIZATIONS	(ad) çoğul çekimi: recrystallization
+RECTA	(ad) çoğul çekimi: rectum
+RECTANGLE	(ad) dikdörtgen: Açıları dik olan paralel kenar; mustatil
+RECTANGLES	(rectangle sözcüğünün çekimi) (ad) dikdörtgen: Açıları dik olan paralel kenar; mustatil
+RECTIFIERS	(ad) çoğul çekimi: rectifier
+RECTOR	(ad) rector kelimesinin karşılığı: ⟪rektör|REKTÖR⟫
+RECTORIES	(ad) çoğul çekimi: rectory
+RECTORS	(ad) çoğul çekimi: rector
+RECTOS	(ad) çoğul çekimi: recto
+RECTUM	(ad) rectum kelimesinin karşılığı: ⟪rektum|REKTUM⟫
+RECTUMS	(rectum sözcüğünün çekimi) (ad) rectum kelimesinin karşılığı: ⟪rektum|REKTUM⟫
+RECURRENCE	(ad) yineleme: Yinelemek işi, tekrarlama
+RECURRENCES	(ad) çoğul çekimi: recurrence
+RECURSION	(ad) recursion kelimesinin karşılığı: ⟪özyineleme|ÖZYİNELEME⟫
+RECURSIONS	(ad) çoğul çekimi: recursion
+RECURSIVE	(ad) yinelemeli: Üst üste, veya tekrar tekrar yapılan, mükerrer
+RECUSALS	(ad) çoğul çekimi: recusal
+RECUSANTS	(ad) çoğul çekimi: recusant
+RECYCLING	(ad) recycling kelimesinin karşılığı: geri dönüşüm
+RED	(ad) kırmızı: kırmızı olan , al, kızıl\n(sıfat) kırmızı: kırmızı olan , al, kızıl
+REDACTING	(eylem) redact sözcüğünün şimdiki zaman ortaç ve gerund çekimi
+REDACTIONS	(ad) çoğul çekimi: redaction
+REDBIRDS	(ad) çoğul çekimi: redbird
+REDBREASTS	(ad) çoğul çekimi: redbreast
+REDBUDS	(ad) çoğul çekimi: redbud
+REDBUGS	(ad) çoğul çekimi: redbug
+REDCOATS	(ad) çoğul çekimi: redcoat
+REDDEN	(eylem) kızarmak: utanç, öfke vb. duyguların etkisiyle, kanın yüze hücumu sonucu yüz kırmızı renk almak (ayrıca: kırmızılaşmak)
+REDDENED	(eylem) redden sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kızarmak, kırmızılaşmak
+REDDENING	(redden sözcüğünün çekimi) (eylem) kızarmak: utanç, öfke vb. duyguların etkisiyle, kanın yüze hücumu sonucu yüz kırmızı renk almak (ayrıca:...
+REDDENS	(eylem) redden sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kızarmak, kırmızılaşmak
+REDDER	(red sözcüğünün çekimi) (ad) kırmızı: kırmızı olan , al, kızıl
+REDDEST	(red sözcüğünün çekimi) (ad) kırmızı: kırmızı olan , al, kızıl
+REDDISH	(sıfat) kırmızımsı: rengi kırmızıyı andıran, kırmızıya benzeyen, kırmızımtırak
+REDEEM	(eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek (ayrıca: temize çıkarmak)
+REDEEMED	(redeem sözcüğünün çekimi) (eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek...
+REDEEMER	(ad) redeemer kelimesinin karşılığı: ⟪kurtarıcı|KURTARICI⟫
+REDEEMERS	(ad) çoğul çekimi: redeemer
+REDEEMING	(redeem sözcüğünün çekimi) (eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek...
+REDEEMS	(redeem sözcüğünün çekimi) (eylem) aklamak: suçsuz veya borçsuz olduğu yargısına vararak birini temize çıkarmak, tebriye etmek, ibra etmek...
+REDEFINITIONS	(ad) çoğul çekimi: redefinition
+REDEMPTION	(ad) hürriyet: herhangi bir tahdîde, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama hâli
+REDEMPTIONS	(redemption sözcüğünün çekimi) (ad) hürriyet: herhangi bir tahdîde, zorlamaya bağlı olmaksızın düşünme veya davranma, herhangi bir şarta bağlı olmama...
+REDEPLOYMENTS	(ad) çoğul çekimi: redeployment
+REDESIGNS	(ad) çoğul çekimi: redesign
+REDETERMINATIONS	(ad) çoğul çekimi: redetermination
+REDEVELOPMENTS	(ad) çoğul çekimi: redevelopment
+REDHEADS	(ad) çoğul çekimi: redhead
+REDINTEGRATIONS	(ad) çoğul çekimi: redintegration
+REDIRECTS	(ad) çoğul çekimi: redirect
+REDLINES	(ad) çoğul çekimi: redline
+REDNECKS	(ad) çoğul çekimi: redneck
+REDOLENT	(sıfat) anımsatıcı: Anımsamayı sağlayan, anımsamaya yol açan
+REDOLENTLY	(redolent sözcüğünün çekimi) (sıfat) anımsatıcı: Anımsamayı sağlayan, anımsamaya yol açan
+REDOUBTS	(ad) çoğul çekimi: redoubt
+REDRAFTS	(ad) çoğul çekimi: redraft
+REDRESSERS	(ad) çoğul çekimi: redresser
+REDS	(ad) çoğul çekimi: red
+REDSHIFTS	(ad) çoğul çekimi: redshift
+REDSTART	(ad) redstart kelimesinin karşılığı: ⟪kızılkuyruk|KIZILKUYRUK⟫, bayağı kızılkuyruk
+REDSTARTS	(ad) çoğul çekimi: redstart
+REDUBS	(ad) çoğul çekimi: redub
+REDUCE	(eylem) indirmek: fiyatını azaltmak, düşürmek
+REDUCED	(eylem) reduced kelimesinin karşılığı: daraltılmış, ucuzlatılmış\n(sıfat) reduced kelimesinin karşılığı: daraltılmış
+REDUCERS	(ad) çoğul çekimi: reducer
+REDUCES	(reduce sözcüğünün çekimi) (eylem) indirmek: fiyatını azaltmak, düşürmek
+REDUCING	(reduce sözcüğünün çekimi) (eylem) indirmek: fiyatını azaltmak, düşürmek
+REDUCTASES	(ad) çoğul çekimi: reductase
+REDUCTION	(ad) reduction kelimesinin karşılığı: ⟪daralma|DARALMA⟫
+REDUCTIONS	(ad) çoğul çekimi: reduction
+REDUNDANCIES	(ad) çoğul çekimi: redundancy
+REDUNDANCY	(ad) redundancy kelimesinin karşılığı: ⟪artıklık|ARTIKLIK⟫
+REDUNDANT	(ad) redundant kelimesinin karşılığı: ⟪artık|ARTIK⟫
+REDUPLICATION	(ad) ikileme: anlamı güçlendirmek için aynı sözcüğünün tekrarlanması, anlamları birbirine yakın, karşıt olan veya sesleri birbirini andıran sözcüklerin yan yana kullanılması
+REDUPLICATIONS	(ad) çoğul çekimi: reduplication
+REDUVIIDS	(ad) çoğul çekimi: reduviid
+REDWING	(ad) redwing kelimesinin karşılığı: kızıl ardıç kuşu
+REDWINGS	(ad) çoğul çekimi: redwing
+REDWOODS	(ad) çoğul çekimi: redwood
+REED	(sıfat) reed kelimesinin karşılığı: ⟪kamış|KAMIŞ⟫\n(ad) reed kelimesinin karşılığı: ⟪gücü|GÜCÜ⟫
+REEDS	(ad) çoğul çekimi: reed
+REEFERS	(ad) çoğul çekimi: reefer
+REEFS	(ad) çoğul çekimi: reef
+REEK	(eylem) kokmak; pis koku yaymak\n(ad) koku: koku alma duyusuyla hissedilen, genelde çok küçük konsantrasyonlarda havada çözülmüş olarak bulunan kimyasal maddelerden her biridir, nesnelerden yayılan küçücük zerrelerin burun zarı üzerindeki özel sinirlerde uyandırdığı duygu (ayrıca: pis koku)
+REEKED	(reek sözcüğünün çekimi) (eylem) kokmak; pis koku yaymak
+REEKER	(reek sözcüğünün çekimi) (eylem) kokmak; pis koku yaymak
+REEKING	(reek sözcüğünün çekimi) (eylem) kokmak; pis koku yaymak
+REEKS	(ad) çoğul çekimi: reek
+REELECTIONS	(ad) çoğul çekimi: reelection
+REELS	(ad) çoğul çekimi: reel
+REEMERGENCES	(ad) çoğul çekimi: reemergence
+REENACTMENTS	(ad) çoğul çekimi: reenactment
+REEVALUATIONS	(ad) çoğul çekimi: reevaluation
+REEVES	(ad) çoğul çekimi: reeve
+REEXPORT	(ad) reeksport: Bir ülkeden alınan malın başka bir ülkeye satılması, yeniden dışsatım
+REEXPORTED	(reexport sözcüğünün çekimi) (ad) reeksport: Bir ülkeden alınan malın başka bir ülkeye satılması, yeniden dışsatım
+REEXPORTING	(reexport sözcüğünün çekimi) (ad) reeksport: Bir ülkeden alınan malın başka bir ülkeye satılması, yeniden dışsatım
+REEXPORTS	(ad) çoğul çekimi: reexport
+REFECTIONS	(ad) çoğul çekimi: refection
+REFEREE	(ad) hakem: Karşılaşmaları, yarışmaları kurallara uygun ve yansız olarak yöneten kişi, futbol maçlarının kurallarının uygulanmasından sorumlu olan ve saha içinde yönetim yetkisine sahip olan kişi. (ayrıca: ülevci)
+REFEREED	(referee sözcüğünün çekimi) (ad) hakem: Karşılaşmaları, yarışmaları kurallara uygun ve yansız olarak yöneten kişi, futbol maçlarının kurallarının...
+REFEREEING	(referee sözcüğünün çekimi) (ad) hakem: Karşılaşmaları, yarışmaları kurallara uygun ve yansız olarak yöneten kişi, futbol maçlarının kurallarının...
+REFEREES	(ad) çoğul çekimi: referee
+REFERENCE	(ad) gönderme: sözlükçülükte bir madde başını işlerken, ilgisi dolayısıyla başka bir madde başına yollama (ayrıca: yararlanılan kaynak, referans)
+REFERENCED	(eylem) reference sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yararlanılan kaynak, referans, gönderim, gönderme, gönderge
+REFERENCES	(ad) çoğul çekimi: reference
+REFERENCING	(reference sözcüğünün çekimi) (ad) gönderme: sözlükçülükte bir madde başını işlerken, ilgisi dolayısıyla başka bir madde başına yollama (ayrıca:...
+REFERENDA	(referendum sözcüğünün çekimi) (ad) referendum kelimesinin karşılığı: halkoylaması
+REFERENDUM	(ad) referendum kelimesinin karşılığı: halkoylaması
+REFERENDUMS	(referendum sözcüğünün çekimi) (ad) referendum kelimesinin karşılığı: halkoylaması
+REFERENT	(ad) gönderge: dış dünyada yer alan, bir göstergenin belirttiği nesne veya varlık
+REFERENTIAL	(ad) referential kelimesinin karşılığı: göndergesel
+REFERENTIALLY	(referential sözcüğünün çekimi) (ad) referential kelimesinin karşılığı: göndergesel
+REFERENTS	(ad) çoğul çekimi: referent
+REFERRALS	(ad) çoğul çekimi: referral
+REFERRERS	(ad) çoğul çekimi: referrer
+REFERS	(ad) çoğul çekimi: refer
+REFINE	(ad) refine kelimesinin karşılığı: ⟪rafine|RAFİNE⟫
+REFINED	(sıfat) refined kelimesinin karşılığı: ⟪rafine|RAFİNE⟫, arıtılmış, ⟪arıtma|ARITMA⟫
+REFINEMENTS	(ad) çoğul çekimi: refinement
+REFINERS	(ad) çoğul çekimi: refiner
+REFINES	(refine sözcüğünün çekimi) (ad) refine kelimesinin karşılığı: ⟪rafine|RAFİNE⟫
+REFINING	(refine sözcüğünün çekimi) (ad) refine kelimesinin karşılığı: ⟪rafine|RAFİNE⟫
+REFITS	(ad) çoğul çekimi: refit
+REFLECT	(eylem) reflect kelimesinin karşılığı: ⟪yansıtmak|YANSITMAK⟫
+REFLECTANCES	(ad) çoğul çekimi: reflectance
+REFLECTED	(eylem) reflect sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yansıtmak
+REFLECTING	(ad) tefekkür: düşünme, düşünüş
+REFLECTION	(ad) reflection kelimesinin karşılığı: ⟪yansıma|YANSIMA⟫
+REFLECTIONS	(ad) reflection sözcüğünün çoğul çekimi: yansıma
+REFLECTOMETERS	(ad) çoğul çekimi: reflectometer
+REFLECTOR	(ad) reflector kelimesinin karşılığı: ⟪reflektör|REFLEKTÖR⟫
+REFLECTORS	(ad) çoğul çekimi: reflector
+REFLECTS	(reflect sözcüğünün çekimi) (eylem) reflect kelimesinin karşılığı: ⟪yansıtmak|YANSITMAK⟫
+REFLEX	(ad) refleks: Dıştan gelen bir uyarım sonucu doğan hareket, salgı gibi iç tepkilere yol açan irade dışı sinir etkinliği, tepke
+REFLEXES	(ad) reflex sözcüğünün çoğul çekimi: refleks
+REFLEXING	(reflex sözcüğünün çekimi) (ad) refleks: Dıştan gelen bir uyarım sonucu doğan hareket, salgı gibi iç tepkilere yol açan irade dışı sinir...
+REFLEXION	(ad) yansıma: ışık dalgalarının yansıtıcı bir yüzeye çarparak yön değiştirmesi, inikâs
+REFLEXIONS	(ad) çoğul çekimi: reflexion
+REFLEXIVE	(ad) dönüşlü: öznesi ile nesnesi bir olan fiil, mutavaat
+REFLEXIVELY	(reflexive sözcüğünün çekimi) (ad) dönüşlü: öznesi ile nesnesi bir olan fiil, mutavaat
+REFLEXIVES	(reflexive sözcüğünün çekimi) (ad) dönüşlü: öznesi ile nesnesi bir olan fiil, mutavaat
+REFORM	(ad) reform: inkılap
+REFORMED	(reform sözcüğünün çekimi) (ad) reform: inkılap
+REFORMERS	(ad) çoğul çekimi: reformer
+REFORMING	(reform sözcüğünün çekimi) (ad) reform: inkılap
+REFORMISM	(ad) reformism kelimesinin karşılığı: ⟪inkılapçılık|İNKILAPÇILIK⟫
+REFORMISMS	(reformism sözcüğünün çekimi) (ad) reformism kelimesinin karşılığı: ⟪inkılapçılık|İNKILAPÇILIK⟫
+REFORMIST	(ad) reformist kelimesinin karşılığı: ⟪inkılapçı|İNKILAPÇI⟫
+REFORMISTS	(ad) çoğul çekimi: reformist
+REFORMS	(ad) reform sözcüğünün çoğul çekimi: reform\n(eylem) reform sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: reform
+REFRACTION	(ad) kırılma: sabit bir yol izleyerek ayırıcı bir yüzeye çarpan ışık, ortamların kırıcılık indislerine göre kırılır
+REFRACTIONS	(ad) çoğul çekimi: refraction
+REFRACTOMETER	(ad) refractometer kelimesinin karşılığı: refraktometre
+REFRACTOMETERS	(ad) çoğul çekimi: refractometer
+REFRACTORS	(ad) çoğul çekimi: refractor
+REFRAIN	(eylem) refrain kelimesinin karşılığı: ⟪kaçınmak|KAÇINMAK⟫, ⟪sakınmak|SAKINMAK⟫, geri durmak, kendini tutmak\n(ad) refrain kelimesinin karşılığı: ⟪nakarat|NAKARAT⟫
+REFRAINED	(refrain sözcüğünün çekimi) (eylem) refrain kelimesinin karşılığı: ⟪kaçınmak|KAÇINMAK⟫, ⟪sakınmak|SAKINMAK⟫, geri durmak, kendini tutmak
+REFRAINING	(ad) refraining kelimesinin karşılığı: içtinap
+REFRAINS	(refrain sözcüğünün çekimi) (eylem) refrain kelimesinin karşılığı: ⟪kaçınmak|KAÇINMAK⟫, ⟪sakınmak|SAKINMAK⟫, geri durmak, kendini tutmak
+REFRAMES	(ad) çoğul çekimi: reframe
+REFRESHED	(eylem) refresh sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+REFRESHERS	(ad) çoğul çekimi: refresher
+REFRESHES	(ad) çoğul çekimi: refresh
+REFRESHING	(sıfat) refreshing kelimesinin karşılığı: ⟪ferahlatıcı|FERAHLATICI⟫
+REFRESHMENTS	(ad) çoğul çekimi: refreshment
+REFRIGERANTS	(ad) çoğul çekimi: refrigerant
+REFRIGERATION	(ad) soğutma: soğutmak işi, bir maddenin veya ortamın sıcaklığını, onu çevreleyen ortamın sıcaklığının altına indirmek ve orada muhafaza etmek üzere ısısının alınması işlemine denir
+REFRIGERATIONS	(refrigeration sözcüğünün çekimi) (ad) soğutma: soğutmak işi, bir maddenin veya ortamın sıcaklığını, onu çevreleyen ortamın sıcaklığının altına indirmek...
+REFRIGERATOR	(ad) buzdolabı: yiyecek, içecek vb.ni soğuk olarak saklamaya yarayan, motorla çalışan dolap, soğutucu
+REFRIGERATORS	(ad) çoğul çekimi: refrigerator
+REFS	(ad) ref sözcüğünün çoğul çekimi\n(eylem) ref sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi
+REFT	(eylem) reave sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+REFUELS	(ad) çoğul çekimi: refuel
+REFUGE	(ad) barınak: Sığınılacak, barınılacak yer.
+REFUGED	(refuge sözcüğünün çekimi) (ad) barınak: Sığınılacak, barınılacak yer.
+REFUGEE	(ad) refugee kelimesinin karşılığı: ⟪mülteci|MÜLTECİ⟫
+REFUGEES	(ad) çoğul çekimi: refugee
+REFUGES	(refuge sözcüğünün çekimi) (ad) barınak: Sığınılacak, barınılacak yer.
+REFUGING	(refuge sözcüğünün çekimi) (ad) barınak: Sığınılacak, barınılacak yer.
+REFUND	(eylem) refund kelimesinin karşılığı: geri ödemek\n(ad) geri ödenen para
+REFUNDED	(refund sözcüğünün çekimi) (eylem) refund kelimesinin karşılığı: geri ödemek
+REFUNDING	(refund sözcüğünün çekimi) (eylem) refund kelimesinin karşılığı: geri ödemek
+REFUNDS	(ad) çoğul çekimi: refund
+REFURBISHMENTS	(ad) çoğul çekimi: refurbishment
+REFUSAL	(ad) ret: uygun bulmama, geri çevirme, kabul etmeme
+REFUSALS	(ad) çoğul çekimi: refusal
+REFUSE	(ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.\n(eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+REFUSED	(refuse sözcüğünün çekimi) (ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+REFUSES	(refuse sözcüğünün çekimi) (ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+REFUSING	(refuse sözcüğünün çekimi) (ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+REFUTERS	(ad) çoğul çekimi: refuter
+REGAINS	(ad) çoğul çekimi: regain
+REGALE	(eylem) ağırlamak: konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak, ikram etmek, izaz etmek
+REGALED	(regale sözcüğünün çekimi) (eylem) ağırlamak: konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak, ikram etmek, izaz etmek
+REGALES	(regale sözcüğünün çekimi) (eylem) ağırlamak: konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak, ikram etmek, izaz etmek
+REGALING	(regale sözcüğünün çekimi) (eylem) ağırlamak: konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak, ikram etmek, izaz etmek
+REGARDING	(sıfat) regarding kelimesinin karşılığı: ⟪ilişkin|İLİŞKİN⟫
+REGARDS	(ad) selam: Bir kimseyle karşılaşıldığında, birinin yanına gidildiğinde veya yanından uzaklaşıldığında kendisine söz ve işaretle bir nezaket gösterisi yapma; esenleme, merhaba
+REGATTAS	(ad) çoğul çekimi: regatta
+REGENERATE	(eylem) yenilenmek: Bir şeyin yerine yenisi konulmak
+REGENERATED	(regenerate sözcüğünün çekimi) (eylem) yenilenmek: Bir şeyin yerine yenisi konulmak
+REGENERATELY	(regenerate sözcüğünün çekimi) (eylem) yenilenmek: Bir şeyin yerine yenisi konulmak
+REGENERATES	(regenerate sözcüğünün çekimi) (eylem) yenilenmek: Bir şeyin yerine yenisi konulmak
+REGENERATING	(regenerate sözcüğünün çekimi) (eylem) yenilenmek: Bir şeyin yerine yenisi konulmak
+REGENERATION	(ad) regeneration kelimesinin karşılığı: ⟪yenilenme|YENİLENME⟫
+REGENERATIONS	(ad) çoğul çekimi: regeneration
+REGENT	(ad) regent kelimesinin karşılığı: ⟪naip|NAİP⟫
+REGENTS	(ad) çoğul çekimi: regent
+REGICIDES	(ad) çoğul çekimi: regicide
+REGIMEN	(ad) regimen kelimesinin karşılığı: ⟪yönetme|YÖNETME⟫
+REGIMENS	(ad) çoğul çekimi: regimen
+REGIMENT	(ad) alay: bir albayın komutası altında üç ya da dört taburdan oluşan askeri birim
+REGIMENTED	(regiment sözcüğünün çekimi) (ad) alay: bir albayın komutası altında üç ya da dört taburdan oluşan askeri birim
+REGIMENTING	(regiment sözcüğünün çekimi) (ad) alay: bir albayın komutası altında üç ya da dört taburdan oluşan askeri birim
+REGIMENTS	(ad) çoğul çekimi: regiment
+REGION	(ad) alan: İçinde birtakım kuvvet çizgilerinin yayılmış bulunduğu varsayılan uzay parçası: (ayrıca: saha, bölge)
+REGIONAL	(sıfat) bölgesel: bölge ile ilgili veya bir bölgeye özgü olan
+REGIONALS	(regional sözcüğünün çekimi) (sıfat) bölgesel: bölge ile ilgili veya bir bölgeye özgü olan
+REGIONS	(ad) region sözcüğünün çoğul çekimi: alan, saha, bölge
+REGISTER	(ad) register kelimesinin karşılığı: ⟪kayıt|KAYIT⟫\n(eylem) kaydetmek: herhangi bir şeyi bir yere mal etmek, bir şeyin tarih, numara veya adını bir deftere geçirmek
+REGISTERED	(register sözcüğünün çekimi) (ad) register kelimesinin karşılığı: ⟪kayıt|KAYIT⟫
+REGISTERING	(register sözcüğünün çekimi) (ad) register kelimesinin karşılığı: ⟪kayıt|KAYIT⟫
+REGISTERS	(ad) register sözcüğünün çoğul çekimi: kayıt\n(eylem) register sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kayıt
+REGISTRATION	(ad) registration kelimesinin karşılığı: ruhsatlandırma
+REGISTRATIONS	(ad) çoğul çekimi: registration
+REGISTRIES	(ad) çoğul çekimi: registry
+REGRADES	(ad) çoğul çekimi: regrade
+REGRESSION	(ad) regression kelimesinin karşılığı: ⟪bağlanım|BAĞLANIM⟫
+REGRESSIONS	(ad) çoğul çekimi: regression
+REGRESSIVE	(ad) regressive kelimesinin karşılığı: geriletici
+REGRET	(ad) regret kelimesinin karşılığı: ⟪pişmanlık|PİŞMANLIK⟫\n(eylem) üzülmek: Üzüntü duymak; eseflenmek, yerinmek
+REGRETFUL	(sıfat) pişman: yaptığı bir işin veya davranışın olumsuz sonucunu görerek üzülen, nadim, yeringen, ildim.
+REGRETFULLY	(zarf) regretfully kelimesinin karşılığı: ⟪maalesef|MAALESEF⟫
+REGRETS	(ad) regret sözcüğünün çoğul çekimi: pişmanlık\n(eylem) regret sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: pişmanlık
+REGRETTED	(regret sözcüğünün çekimi) (ad) regret kelimesinin karşılığı: ⟪pişmanlık|PİŞMANLIK⟫
+REGRETTER	(regret sözcüğünün çekimi) (ad) regret kelimesinin karşılığı: ⟪pişmanlık|PİŞMANLIK⟫
+REGRETTING	(regret sözcüğünün çekimi) (ad) regret kelimesinin karşılığı: ⟪pişmanlık|PİŞMANLIK⟫
+REGROUPS	(ad) çoğul çekimi: regroup
+REGULAR	(sıfat) regular kelimesinin karşılığı: ⟪kurallı|KURALLI⟫
+REGULARITIES	(regularity sözcüğünün çekimi) (ad) düzen: akort.
+REGULARITY	(ad) düzen: akort.
+REGULARIZATIONS	(ad) çoğul çekimi: regularization
+REGULARS	(ad) çoğul çekimi: regular
+REGULATION	(ad) regülasyon: ayarlama (ayrıca: düzenleme)
+REGULATIONS	(ad) çoğul çekimi: regulation
+REGULATIVE	(ad) regulative kelimesinin karşılığı: ⟪düzenleyici|DÜZENLEYİCİ⟫
+REGULATOR	(ad) dedantör: Ocak, fırın, soba vb. araçlarda kullanılan likit gazın akışını düzenleyen aygıt
+REGULATORS	(ad) çoğul çekimi: regulator
+REGULATORY	(ad) ruhsatlandırma ile ilgili
+REGURGITATES	(ad) çoğul çekimi: regurgitate
+REGURGITATIONS	(ad) çoğul çekimi: regurgitation
+REHABILITATION	(ad) rehabilitation kelimesinin karşılığı: yeniden iyileştirme
+REHABILITATIONS	(rehabilitation sözcüğünün çekimi) (ad) rehabilitation kelimesinin karşılığı: yeniden iyileştirme
+REHEARSAL	(ad) rehearsal kelimesinin karşılığı: ⟪prova|PROVA⟫
+REHEARSALS	(ad) rehearsal sözcüğünün çoğul çekimi: prova
+REHEAT	(ad) reheat kelimesinin karşılığı: tekrar ısıtma
+REHEATED	(reheat sözcüğünün çekimi) (ad) reheat kelimesinin karşılığı: tekrar ısıtma
+REHEATER	(reheat sözcüğünün çekimi) (ad) reheat kelimesinin karşılığı: tekrar ısıtma
+REHEATING	(reheat sözcüğünün çekimi) (ad) reheat kelimesinin karşılığı: tekrar ısıtma
+REHEATS	(ad) çoğul çekimi: reheat
+REHIRES	(ad) çoğul çekimi: rehire
+REIFICATIONS	(ad) çoğul çekimi: reification
+REIGNS	(ad) çoğul çekimi: reign
+REIMBURSEMENTS	(ad) çoğul çekimi: reimbursement
+REIN	(ad) gem: atı yönlendirmek için ağzına takılan demir araç
+REINCARNATION	(ad) reenkarnasyon: Ruhun bir bedenden başka bir bedene geçerek varlığını sürdürdüğü inancı. (ayrıca: tenasüh, ruh göçü)
+REINCARNATIONS	(ad) çoğul çekimi: reincarnation
+REINDEER	(ad) reindeer kelimesinin karşılığı: ren geyiği
+REINDEERS	(ad) çoğul çekimi: reindeer
+REINED	(rein sözcüğünün çekimi) (ad) gem: atı yönlendirmek için ağzına takılan demir araç
+REINFORCE	(eylem) reinforce kelimesinin karşılığı: takviye etmek
+REINFORCED	(reinforce sözcüğünün çekimi) (eylem) reinforce kelimesinin karşılığı: takviye etmek
+REINFORCEMENT	(ad) reinforcement kelimesinin karşılığı: ⟪takviye|TAKVİYE⟫
+REINFORCEMENTS	(ad) çoğul çekimi: reinforcement
+REINFORCERS	(ad) çoğul çekimi: reinforcer
+REINFORCES	(reinforce sözcüğünün çekimi) (eylem) reinforce kelimesinin karşılığı: takviye etmek
+REINFORCING	(reinforce sözcüğünün çekimi) (eylem) reinforce kelimesinin karşılığı: takviye etmek
+REINING	(rein sözcüğünün çekimi) (ad) gem: atı yönlendirmek için ağzına takılan demir araç
+REINS	(rein sözcüğünün çekimi) (ad) gem: atı yönlendirmek için ağzına takılan demir araç
+REINSERTIONS	(ad) çoğul çekimi: reinsertion
+REINSTATE	(eylem) geri getirmek; eski görevine geri getirmek; tekrar eski durumuna getirmek
+REINSTATED	(reinstate sözcüğünün çekimi) (eylem) geri getirmek; eski görevine geri getirmek; tekrar eski durumuna getirmek
+REINSTATEMENTS	(ad) çoğul çekimi: reinstatement
+REINSTATES	(reinstate sözcüğünün çekimi) (eylem) geri getirmek; eski görevine geri getirmek; tekrar eski durumuna getirmek
+REINSTATING	(reinstate sözcüğünün çekimi) (eylem) geri getirmek; eski görevine geri getirmek; tekrar eski durumuna getirmek
+REINSURANCE	(ad) reasürans: Bir sigorta ortaklığının, sigorta ettiği paranın bir bölümünü, olabilecek zarara karşı, başka bir ortaklığa yeniden sigorta ettirmesi işi
+REINSURANCES	(ad) reinsurance sözcüğünün çoğul çekimi: reasürans
+REINSURERS	(ad) çoğul çekimi: reinsurer
+REINTRODUCTIONS	(ad) çoğul çekimi: reintroduction
+REIS	(real sözcüğünün çekimi) (sıfat) hayal ürünü olmayan, gerçek, hakiki
+REISSUES	(ad) çoğul çekimi: reissue
+REITERATION	(ad) yineleme: Yinelemek işi, tekrarlama
+REITERATIONS	(ad) çoğul çekimi: reiteration
+REJECT	(eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+REJECTED	(eylem) reject sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: reddetmek
+REJECTING	(reject sözcüğünün çekimi) (eylem) reddetmek: verilen veya yapılması istenen bir şeyi geri çevirmek, kabul etmemek
+REJECTION	(ad) reddetme: reddetmek işi
+REJECTIONS	(ad) rejection sözcüğünün çoğul çekimi: reddetme
+REJECTS	(ad) çoğul çekimi: reject
+REJOICE	(eylem) sevinmek: sevinç duymak
+REJOICED	(rejoice sözcüğünün çekimi) (eylem) sevinmek: sevinç duymak
+REJOICES	(rejoice sözcüğünün çekimi) (eylem) sevinmek: sevinç duymak
+REJOICING	(rejoice sözcüğünün çekimi) (eylem) sevinmek: sevinç duymak
+REJOICINGS	(rejoice sözcüğünün çekimi) (eylem) sevinmek: sevinç duymak
+REJUVENATIONS	(ad) çoğul çekimi: rejuvenation
+REKINDLES	(ad) çoğul çekimi: rekindle
+RELAPSE	(ad) relapse kelimesinin karşılığı: ⟪yineleme|YİNELEME⟫
+RELAPSED	(relapse sözcüğünün çekimi) (ad) relapse kelimesinin karşılığı: ⟪yineleme|YİNELEME⟫
+RELAPSES	(ad) çoğul çekimi: relapse
+RELAPSING	(relapse sözcüğünün çekimi) (ad) relapse kelimesinin karşılığı: ⟪yineleme|YİNELEME⟫
+RELATED	(sıfat) ilişkin: ait, bağlı, ilgili, ilgisi, ilişiği olan, merbut, müteallik (ayrıca: ilgili, alakalı)
+RELATION	(ad) görelik: eşyayı, kavramları veya tasarımları birlik, bağlılık, birliktelik vb. durumlarda toplayan görünüş veya nitelik, bağıntı, izafet, rölativite (ayrıca: bağıntı, izafet)
+RELATIONSHIP	(ad) akrabalık: akraba olma durumu, aynı soydan gelen veya evlilik ilişkisi ile birbirine bağlanan kişiler arasında meydana gelen sosyal yakınlık (ayrıca: hısımlık)
+RELATIONSHIPS	(ad) relationship sözcüğünün çoğul çekimi: akrabalık, hısımlık
+RELATIVE	(ad) relative kelimesinin karşılığı: ⟪akraba|AKRABA⟫, ⟪hısım|HISIM⟫\n(sıfat) göreceli: varlığı başka bir şeyin varlığına bağlı bulunan, mutlak olmayan, göreli, bağıntılı, izafi, nispi, rölatif (ayrıca: bağıntılı, göreli)
+RELATIVES	(relative sözcüğünün çekimi) (ad) relative kelimesinin karşılığı: ⟪akraba|AKRABA⟫, ⟪hısım|HISIM⟫
+RELATIVISM	(ad) relativism kelimesinin karşılığı: ⟪görecelik|GÖRECELİK⟫, ⟪görececilik|GÖRECECİLİK⟫, ⟪bağıntıcılık|BAĞINTICILIK⟫, ⟪izafiye|İZAFİYE⟫
+RELATIVISMS	(relativism sözcüğünün çekimi) (ad) relativism kelimesinin karşılığı: ⟪görecelik|GÖRECELİK⟫, ⟪görececilik|GÖRECECİLİK⟫, ⟪bağıntıcılık|BAĞINTICILIK⟫, ⟪izafiye|İZAFİYE⟫
+RELATIVISTIC	(sıfat) relativistic kelimesinin karşılığı: ⟪göreci|GÖRECİ⟫
+RELATIVITIES	(relativity sözcüğünün çekimi) (ad) relativity kelimesinin karşılığı: ⟪bağıntılılık|BAĞINTILILIK⟫, ⟪görelilik|GÖRELİLİK⟫, ⟪izafilik|İZAFİLİK⟫, ⟪izafiyet|İZAFİYET⟫
+RELATIVITY	(ad) relativity kelimesinin karşılığı: ⟪bağıntılılık|BAĞINTILILIK⟫, ⟪görelilik|GÖRELİLİK⟫, ⟪izafilik|İZAFİLİK⟫, ⟪izafiyet|İZAFİYET⟫
+RELAX	(eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: dinlenme, gevşemek)
+RELAXANTS	(ad) çoğul çekimi: relaxant
+RELAXATION	(ad) relaxation kelimesinin karşılığı: ⟪rahatlama|RAHATLAMA⟫, ⟪dinlenme|DİNLENME⟫, ⟪gevşeme|GEVŞEME⟫
+RELAXATIONS	(relaxation sözcüğünün çekimi) (ad) relaxation kelimesinin karşılığı: ⟪rahatlama|RAHATLAMA⟫, ⟪dinlenme|DİNLENME⟫, ⟪gevşeme|GEVŞEME⟫
+RELAXED	(relax sözcüğünün çekimi) (eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: dinlenme,...
+RELAXERS	(ad) çoğul çekimi: relaxer
+RELAXES	(relax sözcüğünün çekimi) (eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: dinlenme,...
+RELAXING	(relax sözcüğünün çekimi) (eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: dinlenme,...
+RELAY	(ad) aktarma: bir kişinin herhangi bir hakkını bir başkasına geçirmesini sağlayan iş, transfer (ayrıca: aktarım)
+RELAYED	(relay sözcüğünün çekimi) (ad) aktarma: bir kişinin herhangi bir hakkını bir başkasına geçirmesini sağlayan iş, transfer (ayrıca: aktarım)
+RELAYING	(relay sözcüğünün çekimi) (ad) aktarma: bir kişinin herhangi bir hakkını bir başkasına geçirmesini sağlayan iş, transfer (ayrıca: aktarım)
+RELAYS	(ad) çoğul çekimi: relay
+RELEASE	(ad) release kelimesinin karşılığı: ⟪bırakım|BIRAKIM⟫\n(eylem) koymak: bir şeyi bir yere bırakmak, belli bir yere yerleştirmek (ayrıca: bırakmak)
+RELEASED	(eylem) release sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: bırakım
+RELEASES	(ad) release sözcüğünün çoğul çekimi: bırakım\n(eylem) release sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bırakım
+RELEASING	(release sözcüğünün çekimi) (ad) release kelimesinin karşılığı: ⟪bırakım|BIRAKIM⟫
+RELEGATES	(ad) çoğul çekimi: relegate
+RELENT	(eylem) acımak: tadı acı duruma gelmek, acılaşmak (ayrıca: insafa gelmek, merhamet etmek)
+RELENTED	(relent sözcüğünün çekimi) (eylem) acımak: tadı acı duruma gelmek, acılaşmak (ayrıca: insafa gelmek, merhamet etmek)
+RELENTING	(relent sözcüğünün çekimi) (eylem) acımak: tadı acı duruma gelmek, acılaşmak (ayrıca: insafa gelmek, merhamet etmek)
+RELENTLESS	(sıfat) acımasız: acıma duygusu olmayan, katı yürekli, merhametsiz (ayrıca: insafsız, merhametsiz)
+RELENTLESSLY	(zarf) sürekli: uzun süreli olarak, daima, ara vermeden (ayrıca: hiç durmadan)
+RELENTS	(ad) çoğul çekimi: relent
+RELEVANCE	(ad) relevance kelimesinin karşılığı: ⟪belirginlik|BELİRGİNLİK⟫
+RELEVANCES	(relevance sözcüğünün çekimi) (ad) relevance kelimesinin karşılığı: ⟪belirginlik|BELİRGİNLİK⟫
+RELEVANT	(sıfat) relevant kelimesinin karşılığı: ⟪isabetli|İSABETLİ⟫
+RELIABILITIES	(reliability sözcüğünün çekimi) (ad) reliability kelimesinin karşılığı: güvenirlik
+RELIABILITY	(ad) reliability kelimesinin karşılığı: güvenirlik
+RELIABLE	(sıfat) güvenli: güven verici, emniyetli, emin (ayrıca: sika)
+RELIABLES	(reliable sözcüğünün çekimi) (sıfat) güvenli: güven verici, emniyetli, emin (ayrıca: sika)
+RELICS	(ad) çoğul çekimi: relic
+RELICTIONS	(ad) çoğul çekimi: reliction
+RELICTS	(ad) çoğul çekimi: relict
+RELIEF	(ad) relief kelimesinin karşılığı: ⟪kabartma|KABARTMA⟫
+RELIEFS	(relief sözcüğünün çekimi) (ad) relief kelimesinin karşılığı: ⟪kabartma|KABARTMA⟫
+RELIEVED	(eylem) relief sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kabartma
+RELIEVERS	(ad) çoğul çekimi: reliever
+RELIEVES	(relief sözcüğünün çekimi) (ad) relief kelimesinin karşılığı: ⟪kabartma|KABARTMA⟫
+RELIGION	(ad) din: Tanrı'ya, doğaüstü güçlere, çeşitli kutsal varlıklara inanmayı ve tapınmayı sistemleştiren toplumsal bir kurum; diyanet.
+RELIGIONISTS	(ad) çoğul çekimi: religionist
+RELIGIONS	(religion sözcüğünün çekimi) (ad) din: Tanrı'ya, doğaüstü güçlere, çeşitli kutsal varlıklara inanmayı ve tapınmayı sistemleştiren toplumsal bir...
+RELIGIOUS	(sıfat) religious kelimesinin karşılığı: ⟪dinî|DİNİ⟫, ⟪dinsel|DİNSEL⟫
+RELINQUISH	(eylem) relinquish kelimesinin karşılığı: gönüllü vazgeçmek, feragat etmek
+RELINQUISHED	(relinquish sözcüğünün çekimi) (eylem) relinquish kelimesinin karşılığı: gönüllü vazgeçmek, feragat etmek
+RELINQUISHES	(relinquish sözcüğünün çekimi) (eylem) relinquish kelimesinin karşılığı: gönüllü vazgeçmek, feragat etmek
+RELINQUISHING	(relinquish sözcüğünün çekimi) (eylem) relinquish kelimesinin karşılığı: gönüllü vazgeçmek, feragat etmek
+RELINQUISHMENTS	(ad) çoğul çekimi: relinquishment
+RELISHES	(ad) çoğul çekimi: relish
+RELOADS	(ad) çoğul çekimi: reload
+RELOCATE	(eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: yerini değiştirmek)
+RELOCATED	(relocate sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: yerini değiştirmek)
+RELOCATEES	(relocate sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: yerini değiştirmek)
+RELOCATES	(relocate sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: yerini değiştirmek)
+RELOCATING	(relocate sözcüğünün çekimi) (eylem) taşımak: bir şeyi bir yerden alıp başka bir yere götürmek (ayrıca: yerini değiştirmek)
+RELUCTANCE	(ad) reluctance kelimesinin karşılığı: ⟪isteksizlik|İSTEKSİZLİK⟫
+RELUCTANCES	(reluctance sözcüğünün çekimi) (ad) reluctance kelimesinin karşılığı: ⟪isteksizlik|İSTEKSİZLİK⟫
+RELUCTANT	(sıfat) isteksiz: bir işi yapmaya isteği olmayan, gönülsüz (ayrıca: gönülsüz)
+RELUCTANTLY	(zarf) isteksizce: istek göstermeden, isteksiz olarak (ayrıca: gönülsüzce)
+REMAIN	(eylem) kalmak: olduğu yeri ve durumu korumak, sürdürmek
+REMAINDER	(ad) kalan: bir çıkarmanın sonucu
+REMAINDERED	(remainder sözcüğünün çekimi) (ad) kalan: bir çıkarmanın sonucu
+REMAINDERING	(remainder sözcüğünün çekimi) (ad) kalan: bir çıkarmanın sonucu
+REMAINDERS	(ad) çoğul çekimi: remainder
+REMAINED	(eylem) remain sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kalmak
+REMAINING	(ad) remaining kelimesinin karşılığı: ⟪kalma|KALMA⟫
+REMAINS	(ad) çoğul çekimi: remain
+REMANDS	(ad) çoğul çekimi: remand
+REMANENCES	(ad) çoğul çekimi: remanence
+REMARK	(ad) yorum: Bir olayı belli bir görüşe göre açıklama, değerlendirme. (ayrıca: düşünce, görüş)
+REMARKABLE	(sıfat) fevkalade: olağanüstü (ayrıca: dikkat çekici, kayda değer)
+REMARKED	(remark sözcüğünün çekimi) (ad) yorum: Bir olayı belli bir görüşe göre açıklama, değerlendirme. (ayrıca: düşünce, görüş)
+REMARKING	(remark sözcüğünün çekimi) (ad) yorum: Bir olayı belli bir görüşe göre açıklama, değerlendirme. (ayrıca: düşünce, görüş)
+REMARKS	(ad) remark sözcüğünün çoğul çekimi: düşünce; görüş; yorum; laf; söz
+REMARRIAGES	(ad) çoğul çekimi: remarriage
+REMEASURES	(ad) çoğul çekimi: remeasure
+REMEDIAL	(ad) remedial kelimesinin karşılığı: onarımsal
+REMEDIED	(remedy sözcüğünün çekimi) (ad) remedy kelimesinin karşılığı: ⟪çare|ÇARE⟫
+REMEDIES	(ad) çoğul çekimi: remedy
+REMEDY	(ad) remedy kelimesinin karşılığı: ⟪çare|ÇARE⟫
+REMEDYING	(remedy sözcüğünün çekimi) (ad) remedy kelimesinin karşılığı: ⟪çare|ÇARE⟫
+REMEMBER	(eylem) hatırlamak: anımsamak, çıkarmak
+REMEMBERED	(eylem) remember sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hatırlamak
+REMEMBERING	(ad) hatırlama: hatırlamak durumuna konu olmak, anımsama (ayrıca: anımsama, ansıma)
+REMEMBERS	(remember sözcüğünün çekimi) (eylem) hatırlamak: anımsamak, çıkarmak
+REMEMBRANCE	(ad) anı: Geçmişte yaşanmış çeşitli olaylardan belleğin sakladığı her türlü iz; hatıra. (ayrıca: hatıra)
+REMEMBRANCERS	(ad) çoğul çekimi: remembrancer
+REMEMBRANCES	(ad) çoğul çekimi: remembrance
+REMIND	(eylem) hatırlatmak: anımsatmak
+REMINDED	(eylem) remind sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hatırlatmak
+REMINDER	(ad) reminder kelimesinin karşılığı: hatırlatıcı, anımsatıcı mektup
+REMINDERS	(ad) reminder sözcüğünün çoğul çekimi: hatırlatıcı, anımsatıcı mektup
+REMINDING	(remind sözcüğünün çekimi) (eylem) hatırlatmak: anımsatmak
+REMINDS	(remind sözcüğünün çekimi) (eylem) hatırlatmak: anımsatmak
+REMINISCE	(eylem) anmak: birini veya bir şeyi akla getirerek sözünü etmek veya onu düşünmek, zikretmek, hatırlamak
+REMINISCED	(reminisce sözcüğünün çekimi) (eylem) anmak: birini veya bir şeyi akla getirerek sözünü etmek veya onu düşünmek, zikretmek, hatırlamak
+REMINISCENCES	(ad) çoğul çekimi: reminiscence
+REMINISCES	(ad) çoğul çekimi: reminisce
+REMINISCING	(reminisce sözcüğünün çekimi) (eylem) anmak: birini veya bir şeyi akla getirerek sözünü etmek veya onu düşünmek, zikretmek, hatırlamak
+REMISS	(sıfat) remiss kelimesinin karşılığı: ⟪ihmalkar|İHMALKAR⟫, ⟪ihmalci|İHMALCİ⟫, lakayt, ⟪aldırışsız|ALDIRIŞSIZ⟫
+REMISSION	(ad) gerileme: bir dokunun, organın bir evrim geçirmesi veya bir yapının basitleşmesi
+REMISSIONS	(ad) çoğul çekimi: remission
+REMITS	(ad) çoğul çekimi: remit
+REMITTANCES	(ad) çoğul çekimi: remittance
+REMITTERS	(ad) çoğul çekimi: remitter
+REMNANTS	(ad) çoğul çekimi: remnant
+REMODELS	(ad) çoğul çekimi: remodel
+REMONSTRANCES	(ad) çoğul çekimi: remonstrance
+REMONSTRANTS	(ad) çoğul çekimi: remonstrant
+REMONSTRATIONS	(ad) çoğul çekimi: remonstration
+REMOTE	(sıfat) remote kelimesinin karşılığı: ⟪uzak|UZAK⟫, ⟪ücra|ÜCRA⟫
+REMOTER	(remote sözcüğünün çekimi) (sıfat) remote kelimesinin karşılığı: ⟪uzak|UZAK⟫, ⟪ücra|ÜCRA⟫
+REMOTES	(ad) çoğul çekimi: remote
+REMOTEST	(remote sözcüğünün çekimi) (sıfat) remote kelimesinin karşılığı: ⟪uzak|UZAK⟫, ⟪ücra|ÜCRA⟫
+REMOTIONS	(ad) çoğul çekimi: remotion
+REMOUNTS	(ad) çoğul çekimi: remount
+REMOVALS	(ad) çoğul çekimi: removal
+REMOVE	(eylem) çıkarmak: Bir şeyi temizlemek.
+REMOVED	(remove sözcüğünün çekimi) (eylem) çıkarmak: Bir şeyi temizlemek.
+REMOVES	(ad) çoğul çekimi: remove
+REMOVING	(remove sözcüğünün çekimi) (eylem) çıkarmak: Bir şeyi temizlemek.
+REMUDAS	(ad) çoğul çekimi: remuda
+REMUNERATORS	(ad) çoğul çekimi: remunerator
+RENAISSANCE	(ad) renaissance kelimesinin karşılığı: ⟪rönesans|RÖNESANS⟫
+RENAISSANCES	(renaissance sözcüğünün çekimi) (ad) renaissance kelimesinin karşılığı: ⟪rönesans|RÖNESANS⟫
+RENAL	(ad) böbrekle ilgili olan, böbreklere ait.
+RENAMES	(ad) çoğul çekimi: rename
+RENASCENCES	(ad) çoğul çekimi: renascence
+RENCOUNTER	(eylem) çarpışmak: Düşmanla küçük çaplı savaşmak; vuruşmak.
+RENCOUNTERED	(rencounter sözcüğünün çekimi) (eylem) çarpışmak: Düşmanla küçük çaplı savaşmak; vuruşmak.
+RENCOUNTERING	(rencounter sözcüğünün çekimi) (eylem) çarpışmak: Düşmanla küçük çaplı savaşmak; vuruşmak.
+RENCOUNTERS	(ad) çoğul çekimi: rencounter
+RENDER	(ad) render kelimesinin karşılığı: ⟪sıva|SIVA⟫\n(eylem) sağlamak: elde etmek, sahip olmak (ayrıca: vermek, temin etmek)
+RENDERED	(eylem) render sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sıva
+RENDERER	(ad) renderer kelimesinin karşılığı: oluşturucu
+RENDERERS	(ad) çoğul çekimi: renderer
+RENDERING	(render sözcüğünün çekimi) (ad) render kelimesinin karşılığı: ⟪sıva|SIVA⟫
+RENDERS	(ad) çoğul çekimi: render
+RENDEZVOUS	(ad) randevu: belli bir saatte, belli bir yerde iki veya daha çok kişi arasında kararlaştırılan buluşma
+RENDEZVOUSED	(rendezvous sözcüğünün çekimi) (ad) randevu: belli bir saatte, belli bir yerde iki veya daha çok kişi arasında kararlaştırılan buluşma
+RENDEZVOUSES	(rendezvous sözcüğünün çekimi) (ad) randevu: belli bir saatte, belli bir yerde iki veya daha çok kişi arasında kararlaştırılan buluşma
+RENDEZVOUSING	(rendezvous sözcüğünün çekimi) (ad) randevu: belli bir saatte, belli bir yerde iki veya daha çok kişi arasında kararlaştırılan buluşma
+RENEGADES	(ad) çoğul çekimi: renegade
+RENEW	(eylem) yenilemek, tazelemek, tekrardan yeni yapmak
+RENEWAL	(ad) renewal kelimesinin karşılığı: ⟪yenilik|YENİLİK⟫
+RENEWALS	(ad) çoğul çekimi: renewal
+RENEWED	(eylem) renew sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yenilemek, tazelemek, tekrardan yeni yapmak
+RENEWING	(eylem) renew sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yenilemek, tazelemek, tekrardan yeni yapmak
+RENEWS	(eylem) renew sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yenilemek, tazelemek, tekrardan yeni yapmak
+RENIFORM	(ad) reniform kelimesinin karşılığı: böbrek şeklinde
+RENOUNCE	(eylem) renounce kelimesinin karşılığı: feragat etmek
+RENOUNCED	(renounce sözcüğünün çekimi) (eylem) renounce kelimesinin karşılığı: feragat etmek
+RENOUNCEMENTS	(ad) çoğul çekimi: renouncement
+RENOUNCES	(ad) çoğul çekimi: renounce
+RENOUNCING	(renounce sözcüğünün çekimi) (eylem) renounce kelimesinin karşılığı: feragat etmek
+RENOVATION	(ad) yenileme: eski bir yapıda yıkılmış, bozulmuş olan bölümleri aslına uygun bir biçimde onarma, restorasyon (ayrıca: renovasyon)
+RENOVATIONS	(ad) renovation sözcüğünün çoğul çekimi: yenileme, renovasyon
+RENOVATORS	(ad) çoğul çekimi: renovator
+RENOWNED	(sıfat) adsal: adla ilgili, ad niteliğinde olan
+RENT	(ad) bir kiralama karşılığında ödenen para, kira.\n(eylem) bir şeyi (birisinden) kiralamak. (çoğunlukla gayrimenkul veya taşıt)
+RENTALS	(ad) çoğul çekimi: rental
+RENTED	(rent sözcüğünün çekimi) (ad) bir kiralama karşılığında ödenen para, kira.
+RENTERS	(ad) çoğul çekimi: renter
+RENTING	(ad) kâr: Üretim faktörlerinden biri olan girişimcinin üretimden aldığı pay.
+RENTS	(ad) çoğul çekimi: rent
+REOPEN	(eylem) reopen kelimesinin karşılığı: tekrar açmak, yeniden açmak
+REOPENED	(reopen sözcüğünün çekimi) (eylem) reopen kelimesinin karşılığı: tekrar açmak, yeniden açmak
+REOPENING	(reopen sözcüğünün çekimi) (eylem) reopen kelimesinin karşılığı: tekrar açmak, yeniden açmak
+REOPENS	(reopen sözcüğünün çekimi) (eylem) reopen kelimesinin karşılığı: tekrar açmak, yeniden açmak
+REORIENTATIONS	(ad) çoğul çekimi: reorientation
+REPACKS	(ad) çoğul çekimi: repack
+REPAIR	(ad) onarma: onarmak işi (ayrıca: onarım)
+REPAIRED	(repair sözcüğünün çekimi) (ad) onarma: onarmak işi (ayrıca: onarım)
+REPAIRERS	(ad) çoğul çekimi: repairer
+REPAIRING	(repair sözcüğünün çekimi) (ad) onarma: onarmak işi (ayrıca: onarım)
+REPAIRS	(ad) çoğul çekimi: repair
+REPARATIONS	(ad) çoğul çekimi: reparation
+REPATRIATIONS	(ad) çoğul çekimi: repatriation
+REPAYMENTS	(ad) çoğul çekimi: repayment
+REPEALS	(ad) çoğul çekimi: repeal
+REPEAT	(eylem) tekrarlamak: Bir işi bir kez daha yapmak; yinelemek, tazelemek, tekrar etmek
+REPEATED	(ad) repeated kelimesinin karşılığı: ⟪kesikli|KESİKLİ⟫
+REPEATERS	(ad) çoğul çekimi: repeater
+REPEATING	(ad) tekrarlama: tekrarlamak işi
+REPEATS	(ad) çoğul çekimi: repeat
+REPEL	(eylem) repel kelimesinin karşılığı: ⟪defetmek|DEFETMEK⟫, ⟪püskürtmek|PÜSKÜRTMEK⟫
+REPELLANT	(ad) repellant kelimesinin karşılığı: uzaklaştırıcı
+REPELLANTS	(repellant sözcüğünün çekimi) (ad) repellant kelimesinin karşılığı: uzaklaştırıcı
+REPELLED	(repel sözcüğünün çekimi) (eylem) repel kelimesinin karşılığı: ⟪defetmek|DEFETMEK⟫, ⟪püskürtmek|PÜSKÜRTMEK⟫
+REPELLENT	(sıfat) repellent kelimesinin karşılığı: ⟪itici|İTİCİ⟫, ⟪savar|SAVAR⟫, ⟪kovucu|KOVUCU⟫
+REPELLENTS	(ad) çoğul çekimi: repellent
+REPELLING	(repel sözcüğünün çekimi) (eylem) repel kelimesinin karşılığı: ⟪defetmek|DEFETMEK⟫, ⟪püskürtmek|PÜSKÜRTMEK⟫
+REPELS	(repel sözcüğünün çekimi) (eylem) repel kelimesinin karşılığı: ⟪defetmek|DEFETMEK⟫, ⟪püskürtmek|PÜSKÜRTMEK⟫
+REPENT	(eylem) repent kelimesinin karşılığı: pişman olmak
+REPENTANCE	(ad) tövbe: İşlediği bir günah veya suçtan pişman olarak bir daha yapmamaya karar verme.
+REPENTANCES	(ad) repentance sözcüğünün çoğul çekimi: tövbe
+REPENTANT	(sıfat) pişman: yaptığı bir işin veya davranışın olumsuz sonucunu görerek üzülen, nadim, yeringen, ildim.
+REPENTED	(repent sözcüğünün çekimi) (eylem) repent kelimesinin karşılığı: pişman olmak
+REPENTING	(repent sözcüğünün çekimi) (eylem) repent kelimesinin karşılığı: pişman olmak
+REPENTS	(repent sözcüğünün çekimi) (eylem) repent kelimesinin karşılığı: pişman olmak
+REPERCUSSIONS	(ad) çoğul çekimi: repercussion
+REPERTOIRE	(ad) repertoire kelimesinin karşılığı: gösteri dağarcığı
+REPERTOIRES	(ad) çoğul çekimi: repertoire
+REPETITION	(ad) tekrar: Aynı olayın, işin, hareketin yeniden ortaya çıkışı, tekrarlanması
+REPETITIONS	(ad) çoğul çekimi: repetition
+REPETITIVE	(ad) yinelemeli: Üst üste, veya tekrar tekrar yapılan, mükerrer
+REPETITIVELY	(zarf) tekrar eden bir şekilde, tekrarlayarak
+REPLACE	(eylem) değiştirmek: bir şey veya kişiyi bulunduğu yerden başka bir yere almak (ayrıca: yerine koymak)
+REPLACED	(replace sözcüğünün çekimi) (eylem) değiştirmek: bir şey veya kişiyi bulunduğu yerden başka bir yere almak (ayrıca: yerine koymak)
+REPLACEMENTS	(ad) çoğul çekimi: replacement
+REPLACER	(replace sözcüğünün çekimi) (eylem) değiştirmek: bir şey veya kişiyi bulunduğu yerden başka bir yere almak (ayrıca: yerine koymak)
+REPLACES	(replace sözcüğünün çekimi) (eylem) değiştirmek: bir şey veya kişiyi bulunduğu yerden başka bir yere almak (ayrıca: yerine koymak)
+REPLACING	(replace sözcüğünün çekimi) (eylem) değiştirmek: bir şey veya kişiyi bulunduğu yerden başka bir yere almak (ayrıca: yerine koymak)
+REPLAYED	(eylem) replay sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+REPLAYS	(ad) çoğul çekimi: replay
+REPLENISH	(eylem) replenish kelimesinin karşılığı: yeniden doldurmak
+REPLENISHED	(replenish sözcüğünün çekimi) (eylem) replenish kelimesinin karşılığı: yeniden doldurmak
+REPLENISHES	(replenish sözcüğünün çekimi) (eylem) replenish kelimesinin karşılığı: yeniden doldurmak
+REPLENISHING	(replenish sözcüğünün çekimi) (eylem) replenish kelimesinin karşılığı: yeniden doldurmak
+REPLENISHMENTS	(ad) çoğul çekimi: replenishment
+REPLETE	(sıfat) dolu: Bir duygunun güçlü etkisinde olan. (ayrıca: tıkabasa dolu)
+REPLEVINS	(ad) çoğul çekimi: replevin
+REPLICA	(ad) replika: herhangi bir eserin, birebir ölçüleriyle veya daha küçük ölçülerle kopyalanmış olan sürümü, kopya
+REPLICAS	(ad) replica sözcüğünün çoğul çekimi: replika
+REPLICATE	(ad) replicate kelimesinin karşılığı: ⟪tekrarlama|TEKRARLAMA⟫
+REPLICATED	(replicate sözcüğünün çekimi) (ad) replicate kelimesinin karşılığı: ⟪tekrarlama|TEKRARLAMA⟫
+REPLICATES	(replicate sözcüğünün çekimi) (ad) replicate kelimesinin karşılığı: ⟪tekrarlama|TEKRARLAMA⟫
+REPLICATING	(replicate sözcüğünün çekimi) (ad) replicate kelimesinin karşılığı: ⟪tekrarlama|TEKRARLAMA⟫
+REPLIED	(eylem) reply sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: cevap vermek, yanıtlamak
+REPLIES	(ad) reply sözcüğünün çoğul çekimi: cevap vermek, yanıtlamak
+REPLY	(eylem) reply kelimesinin karşılığı: cevap vermek, ⟪yanıtlamak|YANITLAMAK⟫\n(ad) cevap: Bir soruya, bir isteğe, bir söz, bir davranış veya yazıya verilen karşılık; yanıt (ayrıca: yanıt)
+REPLYING	(ad) cevaplama: cevaplamak işi
+REPORT	(ad) rapor: Herhangi bir işte, bir konuda yapılan inceleme, araştırma sonucunu, düşünceleri veya tespit edilenleri bildiren yazı; yazanak
+REPORTED	(eylem) report sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: rapor
+REPORTER	(ad) muhabir: basın ve yayın organlarına haber toplayan, bildiren veya yazan kişi
+REPORTERS	(reporter sözcüğünün çekimi) (ad) muhabir: basın ve yayın organlarına haber toplayan, bildiren veya yazan kişi
+REPORTING	(ad) reporting kelimesinin karşılığı: işlemleme
+REPORTS	(ad) report sözcüğünün çoğul çekimi: rapor\n(eylem) report sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: rapor
+REPOSITIONS	(ad) çoğul çekimi: reposition
+REPOSITORIES	(ad) çoğul çekimi: repository
+REPREHENSIONS	(ad) çoğul çekimi: reprehension
+REPRESENT	(eylem) represent kelimesinin karşılığı: gösterimlemek
+REPRESENTATION	(ad) representation kelimesinin karşılığı: temsil etme
+REPRESENTATIONS	(ad) çoğul çekimi: representation
+REPRESENTATIVE	(ad) temsilci: benzerlerine örnek olan kişi veya şey
+REPRESENTATIVES	(ad) çoğul çekimi: representative
+REPRESENTED	(represent sözcüğünün çekimi) (eylem) represent kelimesinin karşılığı: gösterimlemek
+REPRESENTING	(represent sözcüğünün çekimi) (eylem) represent kelimesinin karşılığı: gösterimlemek
+REPRESENTS	(represent sözcüğünün çekimi) (eylem) represent kelimesinin karşılığı: gösterimlemek
+REPRESS	(eylem) bastırmak: durdurmak (ayrıca: baskılamak)
+REPRESSED	(repress sözcüğünün çekimi) (eylem) bastırmak: durdurmak (ayrıca: baskılamak)
+REPRESSES	(ad) çoğul çekimi: repress
+REPRESSING	(repress sözcüğünün çekimi) (eylem) bastırmak: durdurmak (ayrıca: baskılamak)
+REPRESSION	(ad) zulüm: güçlü kişinin yasaya veya vicdana aykırı olarak başkasını uğrattığı kötü durum, kıygı, eziyet, cefa, perseküsyon (ayrıca: kıygı, eziyet)
+REPRESSIONS	(ad) çoğul çekimi: repression
+REPRESSORS	(ad) çoğul çekimi: repressor
+REPRIEVE	(ad) bir cezanın iptali veya tehiri\n(eylem) cezayı ertelemek; ölüm cezasını affetmek
+REPRIEVED	(reprieve sözcüğünün çekimi) (ad) bir cezanın iptali veya tehiri
+REPRIEVES	(ad) reprieves kelimesinin karşılığı: tehirler
+REPRIEVING	(reprieve sözcüğünün çekimi) (ad) bir cezanın iptali veya tehiri
+REPRIMAND	(ad) reprimand kelimesinin karşılığı: ⟪fırça|FIRÇA⟫
+REPRIMANDED	(reprimand sözcüğünün çekimi) (ad) reprimand kelimesinin karşılığı: ⟪fırça|FIRÇA⟫
+REPRIMANDING	(reprimand sözcüğünün çekimi) (ad) reprimand kelimesinin karşılığı: ⟪fırça|FIRÇA⟫
+REPRIMANDS	(ad) çoğul çekimi: reprimand
+REPRINTS	(ad) çoğul çekimi: reprint
+REPRISALS	(ad) çoğul çekimi: reprisal
+REPRISE	(ad) tekrar; nakarat; rolü tekrar oynama
+REPRISED	(reprise sözcüğünün çekimi) (ad) tekrar; nakarat; rolü tekrar oynama
+REPRISES	(reprise sözcüğünün çekimi) (ad) tekrar; nakarat; rolü tekrar oynama
+REPRISING	(reprise sözcüğünün çekimi) (ad) tekrar; nakarat; rolü tekrar oynama
+REPROACHES	(ad) çoğul çekimi: reproach
+REPROBATES	(ad) çoğul çekimi: reprobate
+REPROBATIONS	(ad) çoğul çekimi: reprobation
+REPROCESS	(ad) reprocess kelimesinin karşılığı: yeniden işleme
+REPROCESSED	(reprocess sözcüğünün çekimi) (ad) reprocess kelimesinin karşılığı: yeniden işleme
+REPROCESSES	(reprocess sözcüğünün çekimi) (ad) reprocess kelimesinin karşılığı: yeniden işleme
+REPROCESSING	(ad) reprocessing kelimesinin karşılığı: tekrar işleme
+REPRODUCE	(eylem) reproduce kelimesinin karşılığı: ⟪üremek|ÜREMEK⟫
+REPRODUCED	(reproduce sözcüğünün çekimi) (eylem) reproduce kelimesinin karşılığı: ⟪üremek|ÜREMEK⟫
+REPRODUCERS	(ad) çoğul çekimi: reproducer
+REPRODUCES	(reproduce sözcüğünün çekimi) (eylem) reproduce kelimesinin karşılığı: ⟪üremek|ÜREMEK⟫
+REPRODUCIBILITIES	(reproducibility sözcüğünün çekimi) (ad) reproducibility kelimesinin karşılığı: tekrarlanabilirlik
+REPRODUCIBILITY	(ad) reproducibility kelimesinin karşılığı: tekrarlanabilirlik
+REPRODUCING	(reproduce sözcüğünün çekimi) (eylem) reproduce kelimesinin karşılığı: ⟪üremek|ÜREMEK⟫
+REPRODUCTION	(ad) reproduction kelimesinin karşılığı: ⟪üreme|ÜREME⟫
+REPRODUCTIONS	(ad) reproduction sözcüğünün çoğul çekimi: üreme
+REPROOF	(ad) reproof kelimesinin karşılığı: ⟪fırça|FIRÇA⟫
+REPROOFS	(ad) çoğul çekimi: reproof
+REPROVES	(ad) çoğul çekimi: reprove
+REPS	(ad) çoğul çekimi: rep
+REPTILE	(ad) sürüngen: sürünerek giden\n(sıfat) sürüngen: sürünerek giden
+REPTILES	(ad) sürüngenler: kara ve suda yaşayabilen kaplumbağa, kertenkele, timsah, yılan gibi yerde sürünerek veya yürüyerek ilerleyen sınıfı
+REPUBLIC	(ad) cumhuriyet: Milletin, egemenliği kendi elinde tuttuğu ve bunu belirli süreler için seçtiği milletvekilleri aracılığıyla kullandığı yönetim biçimi.
+REPUBLICANISMS	(ad) çoğul çekimi: republicanism
+REPUBLICANS	(ad) çoğul çekimi: republican
+REPUBLICATIONS	(ad) çoğul çekimi: republication
+REPUBLICS	(ad) çoğul çekimi: republic
+REPUDIATE	(eylem) repudiate kelimesinin karşılığı: ⟪reddetmek|REDDETMEK⟫, inkâr etmek
+REPUDIATED	(repudiate sözcüğünün çekimi) (eylem) repudiate kelimesinin karşılığı: ⟪reddetmek|REDDETMEK⟫, inkâr etmek
+REPUDIATES	(repudiate sözcüğünün çekimi) (eylem) repudiate kelimesinin karşılığı: ⟪reddetmek|REDDETMEK⟫, inkâr etmek
+REPUDIATING	(repudiate sözcüğünün çekimi) (eylem) repudiate kelimesinin karşılığı: ⟪reddetmek|REDDETMEK⟫, inkâr etmek
+REPUDIATION	(ad) reddetme: reddetmek işi
+REPUDIATIONS	(ad) çoğul çekimi: repudiation
+REPUDIATOR	(ad) reddeden: Bir şeyi kabullenmeyen kişi
+REPUDIATORS	(ad) çoğul çekimi: repudiator
+REPULSES	(ad) çoğul çekimi: repulse
+REPULSIVE	(sıfat) iğrenç: insanda iğrenme duygusunu uyandıracak biçimde (ayrıca: tiksindirici, itici)
+REPUTATION	(ad) Toplumun bir kimse hakkındaki düşünceleri, ün, itibar, şöhret
+REPUTATIONS	(ad) reputation sözcüğünün çoğul çekimi: Toplumun bir kimse hakkındaki düşünceleri, ün, itibar, şöhret
+REPUTE	(ad) repute kelimesinin karşılığı: ⟪nam|NAM⟫
+REPUTED	(repute sözcüğünün çekimi) (ad) repute kelimesinin karşılığı: ⟪nam|NAM⟫
+REPUTES	(ad) çoğul çekimi: repute
+REPUTING	(repute sözcüğünün çekimi) (ad) repute kelimesinin karşılığı: ⟪nam|NAM⟫
+REQUEST	(ad) istek: yerine getirilmesi başkasından istenilen şey, talep (ayrıca: rica)\n(eylem) request kelimesinin karşılığı: rica etmek
+REQUESTED	(eylem) request sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: rica, istek
+REQUESTING	(request sözcüğünün çekimi) (ad) istek: yerine getirilmesi başkasından istenilen şey, talep (ayrıca: rica)
+REQUESTS	(ad) çoğul çekimi: request
+REQUIEM	(ad) ağıt: öletin iyi niteliklerini, ölümünden duyulan acıyı dile getiren söz veya ezgi
+REQUIEMS	(ad) çoğul çekimi: requiem
+REQUIESCATS	(ad) çoğul çekimi: requiescat
+REQUIRE	(eylem) gerekmek: Bir şeyin yapılabilmesi veya gerçekleşmesi bazı nesne, fiil vb.ne bağlı olmak; icap etmek, iktiza etmek
+REQUIRED	(eylem) require sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: gerekmek
+REQUIREMENT	(ad) ihtiyaç: gereksinim
+REQUIREMENTS	(ad) requirement sözcüğünün çoğul çekimi: ihtiyaç
+REQUIRES	(require sözcüğünün çekimi) (eylem) gerekmek: Bir şeyin yapılabilmesi veya gerçekleşmesi bazı nesne, fiil vb.ne bağlı olmak; icap etmek, iktiza...
+REQUIRING	(require sözcüğünün çekimi) (eylem) gerekmek: Bir şeyin yapılabilmesi veya gerçekleşmesi bazı nesne, fiil vb.ne bağlı olmak; icap etmek, iktiza...
+REQUISITIONS	(ad) çoğul çekimi: requisition
+REQUITAL	(ad) requital kelimesinin karşılığı: ⟪mükâfat|MÜKAFAT⟫
+REQUITALS	(requital sözcüğünün çekimi) (ad) requital kelimesinin karşılığı: ⟪mükâfat|MÜKAFAT⟫
+REQUITERS	(ad) çoğul çekimi: requiter
+RERUNS	(ad) çoğul çekimi: rerun
+RESCISSIONS	(ad) çoğul çekimi: rescission
+RESCRIPTS	(ad) çoğul çekimi: rescript
+RESCUE	(eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak
+RESCUED	(rescue sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak
+RESCUERS	(ad) çoğul çekimi: rescuer
+RESCUES	(ad) çoğul çekimi: rescue
+RESCUING	(rescue sözcüğünün çekimi) (eylem) kurtarmak: Bir canlıyı bir felâketten tehlikeden veya zor durumdan uzaklaştırmak
+RESEARCH	(ad) research kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+RESEARCHED	(eylem) research sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: araştırma
+RESEARCHER	(ad) araştırmacı: araştırma yapan, inceleyen kimse, araştırıcı, araştırman, mütetebbi (ayrıca: araştırıcı, araştırman)
+RESEARCHERS	(ad) çoğul çekimi: researcher
+RESEARCHES	(ad) çoğul çekimi: research
+RESEARCHING	(research sözcüğünün çekimi) (ad) research kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+RESECTIONS	(ad) çoğul çekimi: resection
+RESEMBLANCE	(ad) benzerlik: benzer olma durumu
+RESEMBLANCES	(ad) çoğul çekimi: resemblance
+RESEMBLE	(eylem) andırmak: benzer yanları bulunmak, çağrıştırmak (ayrıca: benzemek)
+RESEMBLED	(resemble sözcüğünün çekimi) (eylem) andırmak: benzer yanları bulunmak, çağrıştırmak (ayrıca: benzemek)
+RESEMBLES	(resemble sözcüğünün çekimi) (eylem) andırmak: benzer yanları bulunmak, çağrıştırmak (ayrıca: benzemek)
+RESEMBLING	(ad) benzeme: benzemek işi
+RESENT	(eylem) alınmak: Bir sözün, bir davranışın kendisine söylendiğini veya yapıldığını sanarak incinmek.
+RESENTED	(resent sözcüğünün çekimi) (eylem) alınmak: Bir sözün, bir davranışın kendisine söylendiğini veya yapıldığını sanarak incinmek.
+RESENTING	(resent sözcüğünün çekimi) (eylem) alınmak: Bir sözün, bir davranışın kendisine söylendiğini veya yapıldığını sanarak incinmek.
+RESENTMENT	(ad) üzüntü: olması istenilmeyen olaylardan doğan ruh tedirginliği, teessür, meyusiyet (ayrıca: alınma)
+RESENTMENTS	(ad) çoğul çekimi: resentment
+RESENTS	(resent sözcüğünün çekimi) (eylem) alınmak: Bir sözün, bir davranışın kendisine söylendiğini veya yapıldığını sanarak incinmek.
+RESERVATION	(ad) reservation kelimesinin karşılığı: ⟪rezervasyon|REZERVASYON⟫
+RESERVATIONS	(ad) çoğul çekimi: reservation
+RESERVE	(ad) reserve kelimesinin karşılığı: ⟪yedek|YEDEK⟫, ⟪rezerv|REZERV⟫
+RESERVED	(sıfat) reserved kelimesinin karşılığı: ⟪görevli|GÖREVLİ⟫, ⟪vazifeli|VAZİFELİ⟫
+RESERVES	(ad) çoğul çekimi: reserve
+RESERVING	(reserve sözcüğünün çekimi) (ad) reserve kelimesinin karşılığı: ⟪yedek|YEDEK⟫, ⟪rezerv|REZERV⟫
+RESERVISTS	(ad) çoğul çekimi: reservist
+RESERVOIRS	(ad) çoğul çekimi: reservoir
+RESETTLEMENTS	(ad) çoğul çekimi: resettlement
+RESHOOTS	(ad) çoğul çekimi: reshoot
+RESHUFFLES	(ad) çoğul çekimi: reshuffle
+RESIDE	(eylem) eğleşmek: bir yerde oturmak, yaşamak, ikamet etmek (ayrıca: oturmak, ikamet etmek)
+RESIDED	(reside sözcüğünün çekimi) (eylem) eğleşmek: bir yerde oturmak, yaşamak, ikamet etmek (ayrıca: oturmak, ikamet etmek)
+RESIDENCE	(ad) residence kelimesinin karşılığı: ⟪apartman|APARTMAN⟫, ⟪konut|KONUT⟫, ⟪lojman|LOJMAN⟫, ⟪mekân|MEKAN⟫
+RESIDENCES	(ad) çoğul çekimi: residence
+RESIDENTS	(ad) çoğul çekimi: resident
+RESIDES	(reside sözcüğünün çekimi) (eylem) eğleşmek: bir yerde oturmak, yaşamak, ikamet etmek (ayrıca: oturmak, ikamet etmek)
+RESIDING	(reside sözcüğünün çekimi) (eylem) eğleşmek: bir yerde oturmak, yaşamak, ikamet etmek (ayrıca: oturmak, ikamet etmek)
+RESIDUALS	(ad) çoğul çekimi: residual
+RESIDUE	(ad) kalıntı: eski çağlardan kalmış şehir veya yapı.
+RESIDUES	(ad) çoğul çekimi: residue
+RESIGNATION	(ad) resignation kelimesinin karşılığı: ⟪istifa|İSTİFA⟫
+RESIGNATIONS	(ad) çoğul çekimi: resignation
+RESILIENCE	(ad) resilience kelimesinin karşılığı: ⟪ağdalık|AĞDALIK⟫
+RESILIENCES	(resilience sözcüğünün çekimi) (ad) resilience kelimesinin karşılığı: ⟪ağdalık|AĞDALIK⟫
+RESILIENCIES	(resiliency sözcüğünün çekimi) (ad) esneklik: kuvvetle orantılı olarak uzayıp kısalma ve esnek olma durumu, elâstikiyet (ayrıca: dayanıklılık,...
+RESILIENCY	(ad) esneklik: kuvvetle orantılı olarak uzayıp kısalma ve esnek olma durumu, elâstikiyet (ayrıca: dayanıklılık, dirençlilik)
+RESILIENT	(sıfat) dayanıklı: Acılar karşısında dayanma gücünü yitirmeyen; metanetli, mütehammil. (ayrıca: güçlü)
+RESILIENTLY	(resilient sözcüğünün çekimi) (sıfat) dayanıklı: Acılar karşısında dayanma gücünü yitirmeyen; metanetli, mütehammil. (ayrıca: güçlü)
+RESIN	(ad) resin kelimesinin karşılığı: reçine, ağaçbalı, ağaç sakızı
+RESINED	(resin sözcüğünün çekimi) (ad) resin kelimesinin karşılığı: reçine, ağaçbalı, ağaç sakızı
+RESINING	(resin sözcüğünün çekimi) (ad) resin kelimesinin karşılığı: reçine, ağaçbalı, ağaç sakızı
+RESINS	(ad) çoğul çekimi: resin
+RESIST	(eylem) direnmek: herhangi bir düşüncede, bir istekte veya bir durumda ayak diremek, inat etmek, ısrar etmek, taannüt etmek
+RESISTANCE	(ad) resistance kelimesinin karşılığı: ⟪direnç|DİRENÇ⟫
+RESISTANCES	(ad) çoğul çekimi: resistance
+RESISTANT	(ad) direnen; direnç gösteren kişi veya nesne\n(sıfat) resistant kelimesinin karşılığı: ⟪dirençli|DİRENÇLİ⟫
+RESISTANTS	(ad) resistant sözcüğünün çoğul çekimi: direnen; direnç gösteren kişi veya nesne
+RESISTED	(resist sözcüğünün çekimi) (eylem) direnmek: herhangi bir düşüncede, bir istekte veya bir durumda ayak diremek, inat etmek, ısrar etmek, taannüt...
+RESISTERS	(ad) çoğul çekimi: resister
+RESISTING	(resist sözcüğünün çekimi) (eylem) direnmek: herhangi bir düşüncede, bir istekte veya bir durumda ayak diremek, inat etmek, ısrar etmek, taannüt...
+RESISTIVITIES	(resistivity sözcüğünün çekimi) (ad) resistivity kelimesinin karşılığı: ⟪özdirenç|ÖZDİRENÇ⟫
+RESISTIVITY	(ad) resistivity kelimesinin karşılığı: ⟪özdirenç|ÖZDİRENÇ⟫
+RESISTOR	(ad) direnç: Bir nesnenin elektrik akımına karşı dayanma özelliği; mukavemet, rezistans. (ayrıca: rezistör)
+RESISTORS	(ad) çoğul çekimi: resistor
+RESISTS	(ad) çoğul çekimi: resist
+RESOLUTE	(sıfat) kararlı: düzenli, dengeli, ölçülü, istikrarlı, stabil (ayrıca: azimli)
+RESOLUTELY	(zarf) resolutely kelimesinin karşılığı: ⟪azimkârane|AZİMKARANE⟫
+RESOLUTER	(resolute sözcüğünün çekimi) (sıfat) kararlı: düzenli, dengeli, ölçülü, istikrarlı, stabil (ayrıca: azimli)
+RESOLUTES	(resolute sözcüğünün çekimi) (sıfat) kararlı: düzenli, dengeli, ölçülü, istikrarlı, stabil (ayrıca: azimli)
+RESOLUTEST	(resolute sözcüğünün çekimi) (sıfat) kararlı: düzenli, dengeli, ölçülü, istikrarlı, stabil (ayrıca: azimli)
+RESOLUTION	(ad) resolution kelimesinin karşılığı: ⟪azim|AZİM⟫
+RESOLUTIONS	(ad) resolution sözcüğünün çoğul çekimi: azim
+RESOLVE	(eylem) resolve kelimesinin karşılığı: karar vermek, ⟪azmetmek|AZMETMEK⟫
+RESOLVED	(resolve sözcüğünün çekimi) (eylem) resolve kelimesinin karşılığı: karar vermek, ⟪azmetmek|AZMETMEK⟫
+RESOLVERS	(ad) çoğul çekimi: resolver
+RESOLVES	(ad) çoğul çekimi: resolve
+RESOLVING	(resolve sözcüğünün çekimi) (eylem) resolve kelimesinin karşılığı: karar vermek, ⟪azmetmek|AZMETMEK⟫
+RESONANCE	(ad) resonance kelimesinin karşılığı: ⟪tınlama|TINLAMA⟫
+RESONANCES	(resonance sözcüğünün çekimi) (ad) resonance kelimesinin karşılığı: ⟪tınlama|TINLAMA⟫
+RESONANT	(ad) resonant kelimesinin karşılığı: tınlayıcı
+RESONANTS	(resonant sözcüğünün çekimi) (ad) resonant kelimesinin karşılığı: tınlayıcı
+RESONATOR	(ad) resonator kelimesinin karşılığı: ⟪tınlatıcı|TINLATICI⟫
+RESONATORS	(ad) çoğul çekimi: resonator
+RESORPTION	(ad) resorption kelimesinin karşılığı: tekrar emilim
+RESORPTIONS	(ad) çoğul çekimi: resorption
+RESORT	(eylem) resort kelimesinin karşılığı: ⟪başvurmak|BAŞVURMAK⟫, ⟪sığınmak|SIĞINMAK⟫\n(ad) sayfiye: Yaz mevsimini geçirmek için gidilen yer veya ev. (ayrıca: tatil yeri)
+RESORTED	(resort sözcüğünün çekimi) (eylem) resort kelimesinin karşılığı: ⟪başvurmak|BAŞVURMAK⟫, ⟪sığınmak|SIĞINMAK⟫
+RESORTING	(resort sözcüğünün çekimi) (eylem) resort kelimesinin karşılığı: ⟪başvurmak|BAŞVURMAK⟫, ⟪sığınmak|SIĞINMAK⟫
+RESORTS	(ad) çoğul çekimi: resort
+RESOURCE	(ad) kaynak: gelir, kazanç, sağlık v.s.'nin sağlayıcı öge.
+RESOURCES	(ad) çoğul çekimi: resource
+RESPECT	(ad) saygı: Başkalarını rahatsız etmekten çekinme duygusu.\n(eylem) respect kelimesinin karşılığı: saygı göstermek
+RESPECTABLE	(sıfat) respectable kelimesinin karşılığı: ⟪saygıdeğer|SAYGIDEĞER⟫, hatırı sayılır, ⟪hürmetli|HÜRMETLİ⟫
+RESPECTABLES	(respectable sözcüğünün çekimi) (sıfat) respectable kelimesinin karşılığı: ⟪saygıdeğer|SAYGIDEĞER⟫, hatırı sayılır, ⟪hürmetli|HÜRMETLİ⟫
+RESPECTED	(sıfat) respected kelimesinin karşılığı: ⟪sayın|SAYIN⟫
+RESPECTERS	(ad) çoğul çekimi: respecter
+RESPECTFUL	(sıfat) saygılı: Saygısı olan, saygı gösteren (ayrıca: saygı gösteren, hürmetkâr)
+RESPECTING	(eylem) respect sözcüğünün şimdiki zaman ortaç ve gerund çekimi: saygı
+RESPECTS	(respect sözcüğünün çekimi) (ad) saygı: Başkalarını rahatsız etmekten çekinme duygusu.
+RESPIRATION	(ad) solunum: Bütün canlılarda, oksijen alıp karbondioksit verme biçiminde görülen hareket; teneffüs.
+RESPIRATIONS	(respiration sözcüğünün çekimi) (ad) solunum: Bütün canlılarda, oksijen alıp karbondioksit verme biçiminde görülen hareket; teneffüs.
+RESPIRATOR	(ad) respirator kelimesinin karşılığı: respiratör
+RESPIRATORS	(ad) çoğul çekimi: respirator
+RESPITE	(eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: ara vermek)
+RESPITED	(respite sözcüğünün çekimi) (eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: ara vermek)
+RESPITES	(ad) çoğul çekimi: respite
+RESPITING	(respite sözcüğünün çekimi) (eylem) dinlenmek: güç kazanmak için çalışmaya ara vermek, yorgunluğunu gidermek; istirahat etmek (ayrıca: ara vermek)
+RESPLENDENT	(sıfat) görkemli: büyüklüğü, görünüşü ve güzelliğiyle görenleri etkileyen, gösterişli, debdebeli, haşmetli, ihtişamlı, muhteşem, şaşaalı, şatafatlı, tantanalı, anıtsal (ayrıca: göz alıcı, göz kamaştırıcı)
+RESPOND	(eylem) yanıtlamak: cevaplamak
+RESPONDED	(eylem) respond sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: yanıtlamak
+RESPONDENT	(ad) respondent kelimesinin karşılığı: yanıtlayan
+RESPONDENTS	(ad) çoğul çekimi: respondent
+RESPONDERS	(ad) çoğul çekimi: responder
+RESPONDING	(eylem) respond sözcüğünün şimdiki zaman ortaç ve gerund çekimi: yanıtlamak
+RESPONDS	(ad) çoğul çekimi: respond
+RESPONSE	(ad) yanıt: cevap
+RESPONSES	(ad) response sözcüğünün çoğul çekimi: yanıt
+RESPONSIBILITIES	(ad) çoğul çekimi: responsibility
+RESPONSIBILITY	(ad) sorumluluk: Sorumlu olmayı gerektiren bir yükümlülüğün kendisi. (ayrıca: mesuliyet)
+RESPONSIBLE	(sıfat) sorumlu: üstüne aldığı ya da yaptığı işlerden dolayı hesap vermek zorunda olan, sorumluluk taşıyan (kişi), mesul, mesuliyetli
+RESPONSORIES	(ad) çoğul çekimi: responsory
+REST	(eylem) rest kelimesinin karşılığı: ⟪dayamak|DAYAMAK⟫\n(ad) rest kelimesinin karşılığı: ⟪duruş|DURUŞ⟫
+RESTARTS	(ad) çoğul çekimi: restart
+RESTATE	(eylem) yeniden söylemek; tekrar daha açıkça ifade etmek
+RESTATED	(restate sözcüğünün çekimi) (eylem) yeniden söylemek; tekrar daha açıkça ifade etmek
+RESTATEMENTS	(ad) çoğul çekimi: restatement
+RESTATES	(restate sözcüğünün çekimi) (eylem) yeniden söylemek; tekrar daha açıkça ifade etmek
+RESTATING	(restate sözcüğünün çekimi) (eylem) yeniden söylemek; tekrar daha açıkça ifade etmek
+RESTAURANT	(ad) lokanta: Müşterilere yemek ve içecek hazırlanıp servis edilen yer. (ayrıca: restoran)
+RESTAURANTS	(ad) restaurant sözcüğünün çoğul çekimi: lokanta, restoran
+RESTED	(eylem) rest sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dayamak
+RESTFUL	(sıfat) restful kelimesinin karşılığı: ⟪barışta|BARIŞTA⟫, sulhta
+RESTFULLER	(restful sözcüğünün çekimi) (sıfat) restful kelimesinin karşılığı: ⟪barışta|BARIŞTA⟫, sulhta
+RESTFULLEST	(restful sözcüğünün çekimi) (sıfat) restful kelimesinin karşılığı: ⟪barışta|BARIŞTA⟫, sulhta
+RESTING	(rest sözcüğünün çekimi) (eylem) rest kelimesinin karşılığı: ⟪dayamak|DAYAMAK⟫
+RESTITUTION	(ad) sahibine geri verme; sahibine iade etme
+RESTITUTIONS	(restitution sözcüğünün çekimi) (ad) sahibine geri verme; sahibine iade etme
+RESTLESS	(sıfat) restless kelimesinin karşılığı: ⟪ajite|AJİTE⟫
+RESTLESSNESS	(ad) restlessness kelimesinin karşılığı: ⟪erinçsizlik|ERİNÇSİZLİK⟫, ⟪tedirginlik|TEDİRGİNLİK⟫
+RESTLESSNESSES	(restlessness sözcüğünün çekimi) (ad) restlessness kelimesinin karşılığı: ⟪erinçsizlik|ERİNÇSİZLİK⟫, ⟪tedirginlik|TEDİRGİNLİK⟫
+RESTOCKS	(ad) çoğul çekimi: restock
+RESTORATION	(ad) restoration kelimesinin karşılığı: ⟪restorasyon|RESTORASYON⟫, ⟪yenileme|YENİLEME⟫
+RESTORATIONS	(ad) çoğul çekimi: restoration
+RESTORATIVES	(ad) çoğul çekimi: restorative
+RESTORE	(eylem) onarmak: bozulmuş, eskimiş olan bir şeyi düzeltip işler veya kullanılır duruma sokmak, işe yarar duruma getirmek, tamir etmek (ayrıca: tamir etmek, iade etmek)
+RESTORED	(restore sözcüğünün çekimi) (eylem) onarmak: bozulmuş, eskimiş olan bir şeyi düzeltip işler veya kullanılır duruma sokmak, işe yarar duruma...
+RESTORES	(restore sözcüğünün çekimi) (eylem) onarmak: bozulmuş, eskimiş olan bir şeyi düzeltip işler veya kullanılır duruma sokmak, işe yarar duruma...
+RESTORING	(restore sözcüğünün çekimi) (eylem) onarmak: bozulmuş, eskimiş olan bir şeyi düzeltip işler veya kullanılır duruma sokmak, işe yarar duruma...
+RESTRAIN	(eylem) dizginlemek: Birinin aşırı davranışlarını önlemek.
+RESTRAINED	(restrain sözcüğünün çekimi) (eylem) dizginlemek: Birinin aşırı davranışlarını önlemek.
+RESTRAINERS	(ad) çoğul çekimi: restrainer
+RESTRAINING	(ad) restraining kelimesinin karşılığı: ⟪zecir|ZECİR⟫
+RESTRAINS	(restrain sözcüğünün çekimi) (eylem) dizginlemek: Birinin aşırı davranışlarını önlemek.
+RESTRAINTS	(ad) çoğul çekimi: restraint
+RESTRICT	(eylem) sınırlamak: Belli bir sınır içinde bırakmak.
+RESTRICTED	(restrict sözcüğünün çekimi) (eylem) sınırlamak: Belli bir sınır içinde bırakmak.
+RESTRICTING	(restrict sözcüğünün çekimi) (eylem) sınırlamak: Belli bir sınır içinde bırakmak.
+RESTRICTIVE	(ad) restrictive kelimesinin karşılığı: sınırlayıcı
+RESTRICTIVES	(restrictive sözcüğünün çekimi) (ad) restrictive kelimesinin karşılığı: sınırlayıcı
+RESTRICTS	(restrict sözcüğünün çekimi) (eylem) sınırlamak: Belli bir sınır içinde bırakmak.
+RESTROOMS	(ad) restroom sözcüğünün çoğul çekimi
+RESTS	(ad) çoğul çekimi: rest
+RESULT	(ad) sonuç: Bir olayın doğurduğu başka bir olay veya durum; netice, akıbet (ayrıca: netice)
+RESULTANTS	(ad) çoğul çekimi: resultant
+RESULTED	(eylem) result sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: sonuç, netice
+RESULTING	(result sözcüğünün çekimi) (ad) sonuç: Bir olayın doğurduğu başka bir olay veya durum; netice, akıbet (ayrıca: netice)
+RESULTLESS	(sıfat) sonuçsuz: sonuca ulaşamayan, sonuç vermeyen, neticesiz (ayrıca: neticesiz)
+RESULTS	(ad) results kelimesinin karşılığı: ⟪sonuçlar|SONUÇLAR⟫
+RESUME	(ad) resume kelimesinin karşılığı: ⟪hulasa|HULASA⟫, ⟪özet|ÖZET⟫\n(eylem) resume kelimesinin karşılığı: tekrar sahiplenmek
+RESUMED	(eylem) resume sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: hulasa, özet
+RESUMER	(resume sözcüğünün çekimi) (ad) resume kelimesinin karşılığı: ⟪hulasa|HULASA⟫, ⟪özet|ÖZET⟫
+RESUMES	(ad) resume sözcüğünün çoğul çekimi: hulasa, özet\n(eylem) resume sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: hulasa, özet
+RESUMING	(resume sözcüğünün çekimi) (ad) resume kelimesinin karşılığı: ⟪hulasa|HULASA⟫, ⟪özet|ÖZET⟫
+RESUMPTIONS	(ad) çoğul çekimi: resumption
+RESURGENCES	(ad) çoğul çekimi: resurgence
+RESURGES	(ad) çoğul çekimi: resurge
+RESURRECTED	(eylem) resurrect sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+RESURRECTION	(ad) resurrection kelimesinin karşılığı: ⟪diriliş|DİRİLİŞ⟫
+RESURRECTIONISTS	(ad) çoğul çekimi: resurrectionist
+RESURRECTIONS	(ad) çoğul çekimi: resurrection
+RETAILER	(ad) satıcı: alıcıya bir şey satan kişi, satan (ayrıca: perakendeci)
+RETAILERS	(ad) çoğul çekimi: retailer
+RETAIN	(eylem) tutmak: ulaşmak, varmak (ayrıca: alıkoymak, unutmamak)
+RETAINED	(sıfat) retained kelimesinin karşılığı: alıkonulmuş
+RETAINERS	(ad) çoğul çekimi: retainer
+RETAINING	(retain sözcüğünün çekimi) (eylem) tutmak: ulaşmak, varmak (ayrıca: alıkoymak, unutmamak)
+RETAINS	(eylem) retain sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: alıkoymak, tutmak, unutmamak, kaybetmemek\n(ad) çoğul çekimi: retain
+RETAKE	(eylem) retake kelimesinin karşılığı: yeniden almak
+RETAKEN	(retake sözcüğünün çekimi) (eylem) retake kelimesinin karşılığı: yeniden almak
+RETAKES	(ad) çoğul çekimi: retake
+RETAKING	(retake sözcüğünün çekimi) (eylem) retake kelimesinin karşılığı: yeniden almak
+RETALIATION	(ad) retaliation kelimesinin karşılığı: ⟪misilleme|MİSİLLEME⟫
+RETALIATIONS	(retaliation sözcüğünün çekimi) (ad) retaliation kelimesinin karşılığı: ⟪misilleme|MİSİLLEME⟫
+RETARD	(ad) retard kelimesinin karşılığı: ⟪gecikme|GECİKME⟫, ⟪yavaşlık|YAVAŞLIK⟫\n(sıfat) retard kelimesinin karşılığı: geri zekâlı
+RETARDANTS	(ad) çoğul çekimi: retardant
+RETARDED	(retard sözcüğünün çekimi) (ad) retard kelimesinin karşılığı: ⟪gecikme|GECİKME⟫, ⟪yavaşlık|YAVAŞLIK⟫
+RETARDERS	(ad) çoğul çekimi: retarder
+RETARDING	(retard sözcüğünün çekimi) (ad) retard kelimesinin karşılığı: ⟪gecikme|GECİKME⟫, ⟪yavaşlık|YAVAŞLIK⟫
+RETARDS	(retard sözcüğünün çekimi) (ad) retard kelimesinin karşılığı: ⟪gecikme|GECİKME⟫, ⟪yavaşlık|YAVAŞLIK⟫
+RETENTION	(ad) birşeyin kendisini veya kullanım ve kontrol hakkını elde tutma
+RETENTIONS	(retention sözcüğünün çekimi) (ad) birşeyin kendisini veya kullanım ve kontrol hakkını elde tutma
+RETHINKS	(ad) çoğul çekimi: rethink
+RETICENCE	(ad) reticence kelimesinin karşılığı: ⟪suskunluk|SUSKUNLUK⟫, az konuşma, ⟪ketumluk|KETUMLUK⟫, ağzı sıkılık
+RETICENCES	(reticence sözcüğünün çekimi) (ad) reticence kelimesinin karşılığı: ⟪suskunluk|SUSKUNLUK⟫, az konuşma, ⟪ketumluk|KETUMLUK⟫, ağzı sıkılık
+RETICENT	(sıfat) suskun: Çok az konuşan, sessiz, sakin olan, sükûtî (ayrıca: ketum, ağzı sıkı)
+RETICLES	(ad) çoğul çekimi: reticle
+RETICULA	(reticulum sözcüğünün çekimi) (ad) reticulum kelimesinin karşılığı: ⟪börkenek|BÖRKENEK⟫
+RETICULAR	(sıfat) ağsı: ağ görünüşünde olan, ağ gibi örülmüş olan
+RETICULES	(ad) çoğul çekimi: reticule
+RETICULOCYTE	(ad) reticulocyte kelimesinin karşılığı: ⟪retikülosit|RETİKÜLOSİT⟫
+RETICULOCYTES	(reticulocyte sözcüğünün çekimi) (ad) reticulocyte kelimesinin karşılığı: ⟪retikülosit|RETİKÜLOSİT⟫
+RETICULUM	(ad) reticulum kelimesinin karşılığı: ⟪börkenek|BÖRKENEK⟫
+RETINALS	(ad) çoğul çekimi: retinal
+RETINAS	(ad) çoğul çekimi: retina
+RETINENES	(ad) çoğul çekimi: retinene
+RETINUES	(ad) çoğul çekimi: retinue
+RETIREES	(ad) çoğul çekimi: retiree
+RETOOK	(retake sözcüğünün çekimi) (eylem) retake kelimesinin karşılığı: yeniden almak
+RETORTS	(ad) çoğul çekimi: retort
+RETRACES	(ad) çoğul çekimi: retrace
+RETRACTED	(ad) retracted kelimesinin karşılığı: artdamaksıllaşmış
+RETRACTIONS	(ad) çoğul çekimi: retraction
+RETREAT	(ad) retreat kelimesinin karşılığı: yeniden işleme
+RETREATED	(retreat sözcüğünün çekimi) (ad) retreat kelimesinin karşılığı: yeniden işleme
+RETREATER	(retreat sözcüğünün çekimi) (ad) retreat kelimesinin karşılığı: yeniden işleme
+RETREATING	(retreat sözcüğünün çekimi) (ad) retreat kelimesinin karşılığı: yeniden işleme
+RETREATS	(ad) çoğul çekimi: retreat
+RETRENCHMENTS	(ad) çoğul çekimi: retrenchment
+RETRIALS	(ad) çoğul çekimi: retrial
+RETRIBUTION	(ad) retribution kelimesinin karşılığı: ⟪intikam|İNTİKAM⟫
+RETRIBUTIONS	(ad) retribution sözcüğünün çoğul çekimi: intikam
+RETRIEVALS	(ad) çoğul çekimi: retrieval
+RETRIEVE	(eylem) almak: Bir şeyi veya kimseyi bulunduğu yerden ayırmak.
+RETRIEVED	(retrieve sözcüğünün çekimi) (eylem) almak: Bir şeyi veya kimseyi bulunduğu yerden ayırmak.
+RETRIEVES	(retrieve sözcüğünün çekimi) (eylem) almak: Bir şeyi veya kimseyi bulunduğu yerden ayırmak.
+RETRIEVING	(retrieve sözcüğünün çekimi) (eylem) almak: Bir şeyi veya kimseyi bulunduğu yerden ayırmak.
+RETRO	(sıfat) eskinin modasını taklit eden
+RETROACTIONS	(ad) çoğul çekimi: retroaction
+RETROFIT	(ad) İstenilen ya da gerekli olan değişikliklerin daha önce üretilmiş bir ürüne teknolojik uyarlanması.
+RETROFITS	(ad) çoğul çekimi: retrofit
+RETROFITTED	(retrofit sözcüğünün çekimi) (ad) İstenilen ya da gerekli olan değişikliklerin daha önce üretilmiş bir ürüne teknolojik uyarlanması.
+RETROFITTING	(retrofit sözcüğünün çekimi) (ad) İstenilen ya da gerekli olan değişikliklerin daha önce üretilmiş bir ürüne teknolojik uyarlanması.
+RETROFLECTIONS	(ad) çoğul çekimi: retroflection
+RETROFLEX	(ad) üstdamaksıl: Dilin ucunu yukarı ve geriye kıvırarak söyleme.
+RETROFLEXION	(ad) retroflexion kelimesinin karşılığı: üst damaksıllaşma
+RETROFLEXIONS	(ad) retroflexion sözcüğünün çoğul çekimi: üst damaksıllaşma
+RETROGRESSIONS	(ad) çoğul çekimi: retrogression
+RETROS	(ad) çoğul çekimi: retro
+RETROSPECTIONS	(ad) çoğul çekimi: retrospection
+RETROSPECTIVE	(sıfat) retrospective kelimesinin karşılığı: geçmişe yönelik, geçmişe ait
+RETROSPECTIVES	(retrospective sözcüğünün çekimi) (sıfat) retrospective kelimesinin karşılığı: geçmişe yönelik, geçmişe ait
+RETROVIRUS	(ad) kendi DNA'sını ev sahibi hücreye kopyalayan RNA virüsü
+RETROVIRUSES	(ad) çoğul çekimi: retrovirus
+RETSINA	(ad) retsina kelimesinin karşılığı: reçina
+RETSINAS	(ad) retsina sözcüğünün çoğul çekimi: reçina
+RETURN	(ad) return kelimesinin karşılığı: ⟪dönüş|DÖNÜŞ⟫
+RETURNED	(return sözcüğünün çekimi) (ad) return kelimesinin karşılığı: ⟪dönüş|DÖNÜŞ⟫
+RETURNING	(return sözcüğünün çekimi) (ad) return kelimesinin karşılığı: ⟪dönüş|DÖNÜŞ⟫
+RETURNS	(ad) çoğul çekimi: return
+REUNIFICATIONS	(ad) çoğul çekimi: reunification
+REUNIONS	(ad) çoğul çekimi: reunion
+REUSES	(ad) çoğul çekimi: reuse
+REVALUATIONS	(ad) çoğul çekimi: revaluation
+REVEAL	(eylem) dökmek: (mecaz) boca etmek
+REVEALED	(eylem) reveal sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: dökmek
+REVEALERS	(ad) çoğul çekimi: revealer
+REVEALING	(reveal sözcüğünün çekimi) (eylem) dökmek: (mecaz) boca etmek
+REVEALS	(ad) çoğul çekimi: reveal
+REVEILLES	(ad) çoğul çekimi: reveille
+REVELATIONS	(ad) revelation sözcüğünün çoğul çekimi
+REVELLERS	(ad) çoğul çekimi: reveller
+REVELRIES	(ad) çoğul çekimi: revelry
+REVELRY	(ad) alem: (mecaz) eğlence, eğlenti (ayrıca: cümbüş, şenlik)
+REVELS	(ad) çoğul çekimi: revel
+REVENGE	(eylem) revenge kelimesinin karşılığı: öç almak, intikam almak
+REVENGED	(revenge sözcüğünün çekimi) (eylem) revenge kelimesinin karşılığı: öç almak, intikam almak
+REVENGERS	(ad) çoğul çekimi: revenger
+REVENGES	(ad) çoğul çekimi: revenge
+REVENGING	(revenge sözcüğünün çekimi) (eylem) revenge kelimesinin karşılığı: öç almak, intikam almak
+REVENUE	(ad) gelir: bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira v.s. getiri
+REVENUED	(revenue sözcüğünün çekimi) (ad) gelir: bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira v.s. getiri
+REVENUERS	(ad) çoğul çekimi: revenuers
+REVENUES	(ad) çoğul çekimi: revenue
+REVERBERATE	(eylem) reverberate kelimesinin karşılığı: yankı yapmak
+REVERBERATED	(reverberate sözcüğünün çekimi) (eylem) reverberate kelimesinin karşılığı: yankı yapmak
+REVERBERATES	(reverberate sözcüğünün çekimi) (eylem) reverberate kelimesinin karşılığı: yankı yapmak
+REVERBERATING	(reverberate sözcüğünün çekimi) (eylem) reverberate kelimesinin karşılığı: yankı yapmak
+REVERBERATION	(ad) akis: ışık veya ses dalgalarının yansıtıcı bir yüzeye çarparak geri dönmesi, yansıma, yankı (ayrıca: yankı, yankılanma)
+REVERBERATIONS	(ad) çoğul çekimi: reverberation
+REVERE	(eylem) saygı göstermek; büyük saygı duymak; hürmet duymak.
+REVERED	(revere sözcüğünün çekimi) (eylem) saygı göstermek; büyük saygı duymak; hürmet duymak.
+REVERENDS	(ad) çoğul çekimi: reverend
+REVERENT	(sıfat) saygılı: Saygısı olan, saygı gösteren (ayrıca: hürmetkâr)
+REVERES	(revere sözcüğünün çekimi) (eylem) saygı göstermek; büyük saygı duymak; hürmet duymak.
+REVERIES	(ad) çoğul çekimi: reverie
+REVERING	(revere sözcüğünün çekimi) (eylem) saygı göstermek; büyük saygı duymak; hürmet duymak.
+REVERS	(ad) çoğul çekimi: rever
+REVERSALS	(ad) çoğul çekimi: reversal
+REVERSIBILITIES	(reversibility sözcüğünün çekimi) (ad) reversibility kelimesinin karşılığı: ⟪tersinirlik|TERSİNİRLİK⟫
+REVERSIBILITY	(ad) reversibility kelimesinin karşılığı: ⟪tersinirlik|TERSİNİRLİK⟫
+REVERSIBLE	(sıfat) reversible kelimesinin karşılığı: geri dönüşümlü
+REVERSIBLES	(reversible sözcüğünün çekimi) (sıfat) reversible kelimesinin karşılığı: geri dönüşümlü
+REVERSIONERS	(ad) çoğul çekimi: reversioner
+REVERT	(eylem) Eski haline döndürmek.
+REVERTED	(revert sözcüğünün çekimi) (eylem) Eski haline döndürmek.
+REVERTING	(revert sözcüğünün çekimi) (eylem) Eski haline döndürmek.
+REVERTS	(ad) çoğul çekimi: revert
+REVETMENTS	(ad) çoğul çekimi: revetment
+REVIEW	(eylem) review kelimesinin karşılığı: gözden geçirmek
+REVIEWED	(eylem) review sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: gözden geçirmek
+REVIEWERS	(ad) çoğul çekimi: reviewer
+REVIEWING	(ad) reviewing kelimesinin karşılığı: ⟪eleştirme|ELEŞTİRME⟫
+REVIEWS	(ad) review sözcüğünün çoğul çekimi: gözden geçirmek\n(eylem) review sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: gözden geçirmek
+REVILEMENTS	(ad) çoğul çekimi: revilement
+REVILERS	(ad) çoğul çekimi: reviler
+REVISALS	(ad) çoğul çekimi: revisal
+REVISERS	(ad) çoğul çekimi: reviser
+REVISES	(ad) çoğul çekimi: revise
+REVISIONISM	(ad) revisionism kelimesinin karşılığı: ⟪ıslahatçılık|ISLAHATÇILIK⟫
+REVISIONISMS	(revisionism sözcüğünün çekimi) (ad) revisionism kelimesinin karşılığı: ⟪ıslahatçılık|ISLAHATÇILIK⟫
+REVISIONS	(ad) çoğul çekimi: revision
+REVITALIZATIONS	(ad) çoğul çekimi: revitalization
+REVIVALISTS	(ad) çoğul çekimi: revivalist
+REVIVALS	(ad) çoğul çekimi: revival
+REVIVE	(eylem) canlanmak: geçmişte yaşanan bir olay veya durum yeniden hatırlanmak
+REVIVED	(revive sözcüğünün çekimi) (eylem) canlanmak: geçmişte yaşanan bir olay veya durum yeniden hatırlanmak
+REVIVES	(revive sözcüğünün çekimi) (eylem) canlanmak: geçmişte yaşanan bir olay veya durum yeniden hatırlanmak
+REVIVIFICATIONS	(ad) çoğul çekimi: revivification
+REVIVING	(revive sözcüğünün çekimi) (eylem) canlanmak: geçmişte yaşanan bir olay veya durum yeniden hatırlanmak
+REVOCATIONS	(ad) çoğul çekimi: revocation
+REVOKES	(ad) çoğul çekimi: revoke
+REVOLT	(ad) revolt kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+REVOLTED	(revolt sözcüğünün çekimi) (ad) revolt kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+REVOLTING	(revolt sözcüğünün çekimi) (ad) revolt kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+REVOLTS	(ad) çoğul çekimi: revolt
+REVOLUTION	(ad) devrim: belli bir alanda hızlı, köklü ve nitelikli değişiklik (ayrıca: ihtilal)
+REVOLUTIONARIES	(ad) çoğul çekimi: revolutionary
+REVOLUTIONARILY	(revolutionary sözcüğünün çekimi) (ad) devrimci: Devrim yapan kişi. (ayrıca: devrim)
+REVOLUTIONARY	(ad) devrimci: Devrim yapan kişi. (ayrıca: devrim)\n(sıfat) devrimci: Devrim yapan kişi. (ayrıca: devrim)
+REVOLUTIONISTS	(ad) çoğul çekimi: revolutionist
+REVOLUTIONS	(ad) çoğul çekimi: revolution
+REVOLVER	(ad) altıpatlar: fişek koymaya yarayan bölümü silindir biçiminde ve namlu gerisinde olan, tek parçadan oluşmuş, altı tane fişek alan tabanca; revolver, lüver. (ayrıca: revolver, delikli demir)
+REVOLVERS	(revolver sözcüğünün çekimi) (ad) altıpatlar: fişek koymaya yarayan bölümü silindir biçiminde ve namlu gerisinde olan, tek parçadan oluşmuş, altı...
+REVOLVES	(ad) çoğul çekimi: revolve
+REVS	(ad) çoğul çekimi: rev
+REWARD	(ad) reward kelimesinin karşılığı: ⟪ödül|ÖDÜL⟫, ⟪mükâfat|MÜKAFAT⟫\n(eylem) ödüllendirmek: Bir başarıyı ya da bir iyiliği ödülle değerlendirmek, mükâfatlandırmak. (ayrıca: mükâfatlandırmak)
+REWARDED	(reward sözcüğünün çekimi) (ad) reward kelimesinin karşılığı: ⟪ödül|ÖDÜL⟫, ⟪mükâfat|MÜKAFAT⟫
+REWARDERS	(ad) çoğul çekimi: rewarder
+REWARDING	(reward sözcüğünün çekimi) (ad) reward kelimesinin karşılığı: ⟪ödül|ÖDÜL⟫, ⟪mükâfat|MÜKAFAT⟫
+REWARDS	(ad) çoğul çekimi: reward
+REWORK	(ad) rework kelimesinin karşılığı: yeniden yapılandırma
+REWORKED	(rework sözcüğünün çekimi) (ad) rework kelimesinin karşılığı: yeniden yapılandırma
+REWORKING	(rework sözcüğünün çekimi) (ad) rework kelimesinin karşılığı: yeniden yapılandırma
+REWORKS	(rework sözcüğünün çekimi) (ad) rework kelimesinin karşılığı: yeniden yapılandırma
+REWRITING	(ad) rewriting kelimesinin karşılığı: yeniden yazım
+RHACHISES	(ad) çoğul çekimi: rhachis
+RHAPSODIES	(rhapsody sözcüğünün çekimi) (ad) rapsodi: Içinde, Homeros'un şiirlerindeki olaylardan birini işleyen şarkı veya parça
+RHAPSODISTS	(ad) çoğul çekimi: rhapsodist
+RHAPSODY	(ad) rapsodi: Içinde, Homeros'un şiirlerindeki olaylardan birini işleyen şarkı veya parça
+RHEAS	(ad) çoğul çekimi: rhea
+RHENIUM	(ad) rhenium kelimesinin karşılığı: ⟪renyum|RENYUM⟫
+RHENIUMS	(rhenium sözcüğünün çekimi) (ad) rhenium kelimesinin karşılığı: ⟪renyum|RENYUM⟫
+RHEOMETERS	(ad) çoğul çekimi: rheometer
+RHEOSTATS	(ad) çoğul çekimi: rheostat
+RHETORIC	(ad) rhetoric kelimesinin karşılığı: sözbilim, ⟪retorik|RETORİK⟫
+RHETORICIANS	(ad) çoğul çekimi: rhetorician
+RHETORICS	(rhetoric sözcüğünün çekimi) (ad) rhetoric kelimesinin karşılığı: sözbilim, ⟪retorik|RETORİK⟫
+RHEUM	(ad) çapak: Göz pınarında birikerek pıhtılaşan akıntı
+RHEUMATOLOGIES	(rheumatology sözcüğünün çekimi) (ad) rheumatology kelimesinin karşılığı: ⟪romatoloji|ROMATOLOJİ⟫
+RHEUMATOLOGY	(ad) rheumatology kelimesinin karşılığı: ⟪romatoloji|ROMATOLOJİ⟫
+RHEUMS	(rheum sözcüğünün çekimi) (ad) çapak: Göz pınarında birikerek pıhtılaşan akıntı
+RHINESTONES	(ad) çoğul çekimi: rhinestone
+RHINO	(ad) gergedan: burnunun üstünde bir veya iki boynuzu bulunan, kalın derili, kısa ve kalın bacaklı, iri kafalı, kısa kuyruklu saldırgan hayvan
+RHINOCEROS	(ad) gergedan: burnunun üstünde bir veya iki boynuzu bulunan, kalın derili, kısa ve kalın bacaklı, iri kafalı, kısa kuyruklu saldırgan hayvan
+RHINOCEROSES	(ad) çoğul çekimi: rhinoceros
+RHINOPLASTIES	(ad) çoğul çekimi: rhinoplasty
+RHINOS	(rhino sözcüğünün çekimi) (ad) gergedan: burnunun üstünde bir veya iki boynuzu bulunan, kalın derili, kısa ve kalın bacaklı, iri kafalı, kısa...
+RHINOSCOPIES	(rhinoscopy sözcüğünün çekimi) (ad) rinoskopi: Bir rinoskop aracılığı ile burun boşluğunun incelenmesi.
+RHINOSCOPY	(ad) rinoskopi: Bir rinoskop aracılığı ile burun boşluğunun incelenmesi.
+RHIZOID	(ad) rhizoid kelimesinin karşılığı: ⟪kökçük|KÖKÇÜK⟫
+RHIZOIDS	(rhizoid sözcüğünün çekimi) (ad) rhizoid kelimesinin karşılığı: ⟪kökçük|KÖKÇÜK⟫
+RHIZOME	(ad) rizom: Genellikle toprak altında bulunan ve yukarı doğru filizler, aşağı doğru kökler veren kalın yatay gövde, köksap
+RHIZOMES	(rhizome sözcüğünün çekimi) (ad) rizom: Genellikle toprak altında bulunan ve yukarı doğru filizler, aşağı doğru kökler veren kalın yatay gövde,...
+RHIZOPODS	(ad) çoğul çekimi: rhizopod
+RHODODENDRON	(ad) rhododendron kelimesinin karşılığı: rododendron, ⟪komar|KOMAR⟫, kafil, ⟪kaful|KAFUL⟫
+RHODODENDRONS	(rhododendron sözcüğünün çekimi) (ad) rhododendron kelimesinin karşılığı: rododendron, ⟪komar|KOMAR⟫, kafil, ⟪kaful|KAFUL⟫
+RHOMBI	(rhombus sözcüğünün çekimi) (ad) rhombus kelimesinin karşılığı: eşkenar dörtgen
+RHOMBOHEDRONS	(ad) çoğul çekimi: rhombohedron
+RHOMBOIDS	(ad) çoğul çekimi: rhomboid
+RHOMBUS	(ad) rhombus kelimesinin karşılığı: eşkenar dörtgen
+RHOMBUSES	(ad) çoğul çekimi: rhombus
+RHUBARB	(ad) rhubarb kelimesinin karşılığı: ⟪ravent|RAVENT⟫
+RHUBARBS	(rhubarb sözcüğünün çekimi) (ad) rhubarb kelimesinin karşılığı: ⟪ravent|RAVENT⟫
+RHYME	(ad) uyak: Şiirde dizeler sonundaki eş sesli sözcük veya aynı görevde olmayan, ses bakımından benzeşen ek
+RHYMED	(rhyme sözcüğünün çekimi) (ad) uyak: Şiirde dizeler sonundaki eş sesli sözcük veya aynı görevde olmayan, ses bakımından benzeşen ek
+RHYMERS	(ad) çoğul çekimi: rhymer
+RHYMES	(ad) rhyme sözcüğünün çoğul çekimi: uyak\n(eylem) rhyme sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: uyak
+RHYMESTERS	(ad) çoğul çekimi: rhymester
+RHYMING	(rhyme sözcüğünün çekimi) (ad) uyak: Şiirde dizeler sonundaki eş sesli sözcük veya aynı görevde olmayan, ses bakımından benzeşen ek
+RHYTHM	(ad) rhythm kelimesinin karşılığı: ⟪ritim|RİTİM⟫, ⟪dizem|DİZEM⟫, ⟪düzgü|DÜZGÜ⟫
+RHYTHMS	(ad) çoğul çekimi: rhythm
+RIALS	(ad) çoğul çekimi: rial
+RIATAS	(ad) çoğul çekimi: riata
+RIB	(ad) rib kelimesinin karşılığı: ⟪eğe|EĞE⟫, ⟪kaburga|KABURGA⟫
+RIBALD	(sıfat) belden aşağı şakalar yapan
+RIBALDLY	(ribald sözcüğünün çekimi) (sıfat) belden aşağı şakalar yapan
+RIBALDRIES	(ad) çoğul çekimi: ribaldry
+RIBALDS	(ribald sözcüğünün çekimi) (sıfat) belden aşağı şakalar yapan
+RIBANDS	(ad) çoğul çekimi: riband
+RIBBED	(rib sözcüğünün çekimi) (ad) rib kelimesinin karşılığı: ⟪eğe|EĞE⟫, ⟪kaburga|KABURGA⟫
+RIBBER	(rib sözcüğünün çekimi) (ad) rib kelimesinin karşılığı: ⟪eğe|EĞE⟫, ⟪kaburga|KABURGA⟫
+RIBBING	(rib sözcüğünün çekimi) (ad) rib kelimesinin karşılığı: ⟪eğe|EĞE⟫, ⟪kaburga|KABURGA⟫
+RIBBINGS	(ad) çoğul çekimi: ribbing
+RIBBON	(ad) kurdele: Geniş ipekli şerit
+RIBBONED	(ribbon sözcüğünün çekimi) (ad) kurdele: Geniş ipekli şerit
+RIBBONING	(ribbon sözcüğünün çekimi) (ad) kurdele: Geniş ipekli şerit
+RIBBONS	(ad) çoğul çekimi: ribbon
+RIBES	(rib sözcüğünün çekimi) (ad) rib kelimesinin karşılığı: ⟪eğe|EĞE⟫, ⟪kaburga|KABURGA⟫
+RIBONUCLEASES	(ad) çoğul çekimi: ribonuclease
+RIBOSE	(ad) riboz: Ribonükleik asitlerin ve ribonükleotitlerin yapısında bulunan beş karbonlu şeker.
+RIBOSES	(ribose sözcüğünün çekimi) (ad) riboz: Ribonükleik asitlerin ve ribonükleotitlerin yapısında bulunan beş karbonlu şeker.
+RIBOSOME	(ad) ribozom: protein sentezinden sorumlu olan organel.
+RIBOSOMES	(ad) ribosome sözcüğünün çoğul çekimi: ribozom
+RIBS	(ad) çoğul çekimi: rib
+RICE	(ad) rice kelimesinin karşılığı: ⟪pirinç|PİRİNÇ⟫
+RICED	(rice sözcüğünün çekimi) (ad) rice kelimesinin karşılığı: ⟪pirinç|PİRİNÇ⟫
+RICES	(rice sözcüğünün çekimi) (ad) rice kelimesinin karşılığı: ⟪pirinç|PİRİNÇ⟫
+RICH	(eylem) zenginleştirmek: zengin duruma getirmek, zenginleşmesini sağlamak
+RICHER	(rich sözcüğünün çekimi) (eylem) zenginleştirmek: zengin duruma getirmek, zenginleşmesini sağlamak
+RICHES	(ad) variyet: varlık, zenginlik (ayrıca: maddi zenginlik, mal mülk)
+RICHEST	(rich sözcüğünün çekimi) (eylem) zenginleştirmek: zengin duruma getirmek, zenginleşmesini sağlamak
+RICING	(rice sözcüğünün çekimi) (ad) rice kelimesinin karşılığı: ⟪pirinç|PİRİNÇ⟫
+RICKETS	(ad) raşitizm: Özellikle süt çocuklarında D vitamini eksikliği ile kalsiyum, fosfor eksikliğinden veya dengesizliğinden ileri gelen, biçim bozukluğuna sebep olan kemik hastalığı.
+RICKRACKS	(ad) çoğul çekimi: rickrack
+RICKS	(ad) çoğul çekimi: rick
+RICKSHAS	(ad) çoğul çekimi: ricksha
+RICKSHAWS	(ad) çoğul çekimi: rickshaw
+RICTAL	(sıfat) rictal kelimesinin karşılığı: açık ağızlı
+RIDDANCES	(ad) çoğul çekimi: riddance
+RIDDEN	(ride sözcüğünün çekimi) (eylem) ride kelimesinin karşılığı: ⟪binmek|BİNMEK⟫
+RIDDING	(ad) çoğul çekimi: ridding
+RIDDLE	(ad) riddle kelimesinin karşılığı: ⟪bilmece|BİLMECE⟫
+RIDDLED	(riddle sözcüğünün çekimi) (ad) riddle kelimesinin karşılığı: ⟪bilmece|BİLMECE⟫
+RIDDLERS	(ad) çoğul çekimi: riddler
+RIDDLES	(ad) riddle sözcüğünün çoğul çekimi: bilmece\n(eylem) riddle sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: bilmece
+RIDDLING	(riddle sözcüğünün çekimi) (ad) riddle kelimesinin karşılığı: ⟪bilmece|BİLMECE⟫
+RIDE	(eylem) ride kelimesinin karşılığı: ⟪binmek|BİNMEK⟫\n(ad) araç: taşıt
+RIDER	(ad) rider kelimesinin karşılığı: ⟪atlı|ATLI⟫, ⟪binici|BİNİCİ⟫
+RIDERS	(ad) çoğul çekimi: rider
+RIDES	(ride sözcüğünün çekimi) (eylem) ride kelimesinin karşılığı: ⟪binmek|BİNMEK⟫
+RIDGE	(ad) ridge kelimesinin karşılığı: ⟪sırt|SIRT⟫
+RIDGED	(ridge sözcüğünün çekimi) (ad) ridge kelimesinin karşılığı: ⟪sırt|SIRT⟫
+RIDGEPOLE	(ad) aşık: aşık kemiği (ayrıca: aşırma)
+RIDGEPOLES	(ad) çoğul çekimi: ridgepole
+RIDGES	(ad) çoğul çekimi: ridge
+RIDGING	(ridge sözcüğünün çekimi) (ad) ridge kelimesinin karşılığı: ⟪sırt|SIRT⟫
+RIDING	(ad) riding kelimesinin karşılığı: ⟪binme|BİNME⟫
+RIDINGS	(ad) çoğul çekimi: riding
+RIELS	(ad) çoğul çekimi: riel
+RIFFRAFF	(ad) riffraff kelimesinin karşılığı: ayaktakımı
+RIFFRAFFS	(riffraff sözcüğünün çekimi) (ad) riffraff kelimesinin karşılığı: ayaktakımı
+RIFLE	(ad) tüfek: Savaş veya avda kullanılan, uzun namlulu ateşli silah; delikli demir.
+RIFLED	(rifle sözcüğünün çekimi) (ad) tüfek: Savaş veya avda kullanılan, uzun namlulu ateşli silah; delikli demir.
+RIFLEMEN	(ad) çoğul çekimi: rifleman
+RIFLES	(rifle sözcüğünün çekimi) (ad) tüfek: Savaş veya avda kullanılan, uzun namlulu ateşli silah; delikli demir.
+RIFLING	(rifle sözcüğünün çekimi) (ad) tüfek: Savaş veya avda kullanılan, uzun namlulu ateşli silah; delikli demir.
+RIFLINGS	(ad) çoğul çekimi: rifling
+RIFT	(ad) aralık: İki şey arasındaki mesafe, iki şeyin arasındaki boşluk. (ayrıca: çatlak, açıklık)
+RIFTED	(rift sözcüğünün çekimi) (ad) aralık: İki şey arasındaki mesafe, iki şeyin arasındaki boşluk. (ayrıca: çatlak, açıklık)
+RIFTING	(rift sözcüğünün çekimi) (ad) aralık: İki şey arasındaki mesafe, iki şeyin arasındaki boşluk. (ayrıca: çatlak, açıklık)
+RIFTS	(ad) çoğul çekimi: rift
+RIG	(ad) donanım: bir gemi direğine, yelkene veya başka bir parçaya bağlı bulunan halat ve makara gibi manevra araçları
+RIGADOONS	(ad) çoğul çekimi: rigadoon
+RIGGED	(eylem) rig sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: donanım
+RIGGING	(ad) rigging kelimesinin karşılığı: ⟪arma|ARMA⟫
+RIGGINGS	(ad) çoğul çekimi: rigging
+RIGHT	(sıfat) right kelimesinin karşılığı: ⟪sağ|SAĞ⟫
+RIGHTED	(right sözcüğünün çekimi) (sıfat) right kelimesinin karşılığı: ⟪sağ|SAĞ⟫
+RIGHTEOUS	(sıfat) düzgün: kenar veya ayrıtları ile açıları birbirine eşit olan
+RIGHTEOUSNESSES	(ad) çoğul çekimi: righteousness
+RIGHTER	(right sözcüğünün çekimi) (sıfat) right kelimesinin karşılığı: ⟪sağ|SAĞ⟫
+RIGHTERS	(right sözcüğünün çekimi) (sıfat) right kelimesinin karşılığı: ⟪sağ|SAĞ⟫
+RIGHTEST	(right sözcüğünün çekimi) (sıfat) right kelimesinin karşılığı: ⟪sağ|SAĞ⟫
+RIGHTING	(right sözcüğünün çekimi) (sıfat) right kelimesinin karşılığı: ⟪sağ|SAĞ⟫
+RIGHTISMS	(ad) çoğul çekimi: rightism
+RIGHTISTS	(ad) çoğul çekimi: rightist
+RIGHTNESSES	(ad) çoğul çekimi: rightness
+RIGHTS	(ad) right sözcüğünün çoğul çekimi: sağ\n(eylem) right sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: sağ
+RIGID	(sıfat) rigid kelimesinin karşılığı: ⟪bükülmez|BÜKÜLMEZ⟫
+RIGIDIFICATIONS	(ad) çoğul çekimi: rigidification
+RIGMAROLES	(ad) çoğul çekimi: rigmarole
+RIGOROUS	(ad) rigorous kelimesinin karşılığı: ⟪sıkı|SIKI⟫\n(sıfat) şiddetli: aşırı
+RIGORS	(ad) çoğul çekimi: rigor
+RIGOURS	(ad) çoğul çekimi: rigour
+RIGS	(ad) çoğul çekimi: rig
+RILE	(eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek
+RILED	(rile sözcüğünün çekimi) (eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek
+RILES	(rile sözcüğünün çekimi) (eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek
+RILIEVI	(ad) çoğul çekimi: rilievo
+RILING	(rile sözcüğünün çekimi) (eylem) kızdırmak: öfkelenmesine sebep olmak, öfkelendirmek, sinirlendirmek
+RILLES	(ad) çoğul çekimi: rille
+RILLS	(ad) çoğul çekimi: rill
+RIMPLE	(eylem) rimple kelimesinin karşılığı: ⟪kırışmak|KIRIŞMAK⟫, ⟪buruşmak|BURUŞMAK⟫\n(ad) rimple kelimesinin karşılığı: ⟪kırışık|KIRIŞIK⟫, ⟪kırışıklık|KIRIŞIKLIK⟫, ⟪buruşukluk|BURUŞUKLUK⟫
+RIMPLED	(rimple sözcüğünün çekimi) (eylem) rimple kelimesinin karşılığı: ⟪kırışmak|KIRIŞMAK⟫, ⟪buruşmak|BURUŞMAK⟫
+RIMPLES	(rimple sözcüğünün çekimi) (eylem) rimple kelimesinin karşılığı: ⟪kırışmak|KIRIŞMAK⟫, ⟪buruşmak|BURUŞMAK⟫
+RIMPLING	(rimple sözcüğünün çekimi) (eylem) rimple kelimesinin karşılığı: ⟪kırışmak|KIRIŞMAK⟫, ⟪buruşmak|BURUŞMAK⟫
+RIMS	(ad) çoğul çekimi: rim
+RIND	(ad) kabuk: Ekmeğin pişme sırasında içinden daha çok sertleşen dış bölümü. (ayrıca: meyve kabuğu)
+RINDED	(rind sözcüğünün çekimi) (ad) kabuk: Ekmeğin pişme sırasında içinden daha çok sertleşen dış bölümü. (ayrıca: meyve kabuğu)
+RINDS	(ad) çoğul çekimi: rind
+RING	(ad) ring kelimesinin karşılığı: ⟪çember|ÇEMBER⟫\n(eylem) ring kelimesinin karşılığı: telefon etmek, ⟪çaldırmak|ÇALDIRMAK⟫
+RINGDOVES	(ad) çoğul çekimi: ringdove
+RINGED	(ring sözcüğünün çekimi) (ad) ring kelimesinin karşılığı: ⟪çember|ÇEMBER⟫
+RINGERS	(ad) çoğul çekimi: ringer
+RINGING	(eylem) ring sözcüğünün şimdiki zaman ortaç ve gerund çekimi: çember
+RINGLEADERS	(ad) çoğul çekimi: ringleader
+RINGLETS	(ad) çoğul çekimi: ringlet
+RINGS	(ad) ring sözcüğünün çoğul çekimi: çember\n(eylem) ring sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: çember
+RINGTAILS	(ad) çoğul çekimi: ringtail
+RINGWORMS	(ad) çoğul çekimi: ringworm
+RINKS	(ad) çoğul çekimi: rink
+RINSE	(eylem) rinse kelimesinin karşılığı: ⟪çalkamak|ÇALKAMAK⟫
+RINSED	(rinse sözcüğünün çekimi) (eylem) rinse kelimesinin karşılığı: ⟪çalkamak|ÇALKAMAK⟫
+RINSES	(ad) çoğul çekimi: rinse
+RINSING	(eylem) rinse sözcüğünün şimdiki zaman ortaç ve gerund çekimi: çalkamak
+RINSINGS	(rinse sözcüğünün çekimi) (eylem) rinse kelimesinin karşılığı: ⟪çalkamak|ÇALKAMAK⟫
+RIOTERS	(ad) çoğul çekimi: rioter
+RIOTS	(ad) çoğul çekimi: riot
+RIPCORDS	(ad) çoğul çekimi: ripcord
+RIPE	(sıfat) olmuş: ergin, olgunlaşmış (ayrıca: ergin, olgunlaşmış)
+RIPENESS	(ad) olgunluk: meyvelerin olgun, yenilebilir olma durumu
+RIPENESSES	(ripeness sözcüğünün çekimi) (ad) olgunluk: meyvelerin olgun, yenilebilir olma durumu
+RIPER	(ripe sözcüğünün çekimi) (sıfat) olmuş: ergin, olgunlaşmış (ayrıca: ergin, olgunlaşmış)
+RIPEST	(ripe sözcüğünün çekimi) (sıfat) olmuş: ergin, olgunlaşmış (ayrıca: ergin, olgunlaşmış)
+RIPOSTS	(ad) çoğul çekimi: ripost
+RIPPED	(eylem) rip sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+RIPPER	(ad) yırtıcı. Yırtıp içindekini alan.
+RIPPERS	(ad) çoğul çekimi: ripper
+RIPPLES	(ad) çoğul çekimi: ripple
+RIPS	(ad) çoğul çekimi: rip
+RIPTIDES	(ad) çoğul çekimi: riptide
+RISE	(ad) rise kelimesinin karşılığı: ⟪yükselme|YÜKSELME⟫\n(eylem) yükselmek: aşaması artmak
+RISEN	(rise sözcüğünün çekimi) (ad) rise kelimesinin karşılığı: ⟪yükselme|YÜKSELME⟫
+RISERS	(ad) çoğul çekimi: riser
+RISES	(eylem) rise sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: yükselme\n(ad) rise sözcüğünün çoğul çekimi: yükselme
+RISING	(ad) rising kelimesinin karşılığı: yükselen
+RISINGS	(rise sözcüğünün çekimi) (ad) rise kelimesinin karşılığı: ⟪yükselme|YÜKSELME⟫
+RISK	(ad) risk: zarara uğrama tehlikesi, riziko\n(eylem) risk kelimesinin karşılığı: riske atmak, tehlikeye atmak
+RISKED	(risk sözcüğünün çekimi) (ad) risk: zarara uğrama tehlikesi, riziko
+RISKINESS	(ad) tehlikelilik: tehlikeli olma durumu
+RISKINESSES	(riskiness sözcüğünün çekimi) (ad) tehlikelilik: tehlikeli olma durumu
+RISKING	(risk sözcüğünün çekimi) (ad) risk: zarara uğrama tehlikesi, riziko
+RISKS	(ad) risk sözcüğünün çoğul çekimi: risk\n(eylem) risk sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: risk
+RISOTTO	(ad) risotto kelimesinin karşılığı: risotto
+RISOTTOS	(risotto sözcüğünün çekimi) (ad) risotto kelimesinin karşılığı: risotto
+RITE	(ad) rite kelimesinin karşılığı: ⟪ayin|AYİN⟫
+RITES	(ad) rite sözcüğünün çoğul çekimi: ayin
+RITUAL	(ad) ritual kelimesinin karşılığı: ⟪törensel|TÖRENSEL⟫
+RITUALISMS	(ad) çoğul çekimi: ritualism
+RITUALS	(ad) çoğul çekimi: ritual
+RIVAL	(ad) rakip: Herhangi bir şey için size karşı mücadele eden.
+RIVALED	(rival sözcüğünün çekimi) (ad) rakip: Herhangi bir şey için size karşı mücadele eden.
+RIVALING	(rival sözcüğünün çekimi) (ad) rakip: Herhangi bir şey için size karşı mücadele eden.
+RIVALLED	(rival sözcüğünün çekimi) (ad) rakip: Herhangi bir şey için size karşı mücadele eden.
+RIVALLING	(rival sözcüğünün çekimi) (ad) rakip: Herhangi bir şey için size karşı mücadele eden.
+RIVALRIES	(ad) çoğul çekimi: rivalry
+RIVALRY	(ad) rekabet: aynı amacı güden kişiler arasındaki çekişme, yarış (ayrıca: çekişme)
+RIVALS	(ad) çoğul çekimi: rival
+RIVE	(eylem) rive kelimesinin karşılığı: (bir şeyi) parçalanmak
+RIVED	(rive sözcüğünün çekimi) (eylem) rive kelimesinin karşılığı: (bir şeyi) parçalanmak
+RIVEN	(rive sözcüğünün çekimi) (eylem) rive kelimesinin karşılığı: (bir şeyi) parçalanmak
+RIVER	(ad) ırmak: kaynağından denize veya bir iç havzaya dökülen büyük akarsu, nehir (ayrıca: nehir)
+RIVERBANK	(ad) riverbank kelimesinin karşılığı: nehir kenarı, nehir kıyısı
+RIVERBANKS	(riverbank sözcüğünün çekimi) (ad) riverbank kelimesinin karşılığı: nehir kenarı, nehir kıyısı
+RIVERBED	(ad) yatak: çanak şeklindeki bir havzada veya buna benzer bir oluşumda toplanmış petrol birikintisi (ayrıca: akak, mecra)
+RIVERBEDS	(ad) çoğul çekimi: riverbed
+RIVERS	(ad) river sözcüğünün çoğul çekimi: nehir, ırmak\n(eylem) river sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: nehir, ırmak
+RIVES	(rive sözcüğünün çekimi) (eylem) rive kelimesinin karşılığı: (bir şeyi) parçalanmak
+RIVET	(ad) rivet kelimesinin karşılığı: ⟪perçin|PERÇİN⟫\n(eylem) rivet kelimesinin karşılığı: ⟪perçinlemek|PERÇİNLEMEK⟫
+RIVETED	(rivet sözcüğünün çekimi) (ad) rivet kelimesinin karşılığı: ⟪perçin|PERÇİN⟫
+RIVETERS	(ad) çoğul çekimi: riveter
+RIVETING	(sıfat) sürükleyici; insanı içine çeken
+RIVETINGLY	(rivet sözcüğünün çekimi) (ad) rivet kelimesinin karşılığı: ⟪perçin|PERÇİN⟫
+RIVETS	(ad) çoğul çekimi: rivet
+RIVETTED	(rivet sözcüğünün çekimi) (ad) rivet kelimesinin karşılığı: ⟪perçin|PERÇİN⟫
+RIVETTING	(rivet sözcüğünün çekimi) (ad) rivet kelimesinin karşılığı: ⟪perçin|PERÇİN⟫
+RIVING	(rive sözcüğünün çekimi) (eylem) rive kelimesinin karşılığı: (bir şeyi) parçalanmak
+RIVULET	(ad) çay: Dereden büyük, ırmaktan küçük akarsu: (ayrıca: küçük dere)
+RIVULETS	(rivulet sözcüğünün çekimi) (ad) çay: Dereden büyük, ırmaktan küçük akarsu: (ayrıca: küçük dere)
+RIYAL	(ad) riyal: İran, Suudî Arabistan ve Yemen'de kullanılan para birimi
+RIYALS	(ad) çoğul çekimi: riyal
+ROACH	(ad) roach kelimesinin karşılığı: ⟪çamçak|ÇAMÇAK⟫, ⟪kızılgöz|KIZILGÖZ⟫
+ROACHED	(roach sözcüğünün çekimi) (ad) roach kelimesinin karşılığı: ⟪çamçak|ÇAMÇAK⟫, ⟪kızılgöz|KIZILGÖZ⟫
+ROACHES	(ad) çoğul çekimi: roach
+ROACHING	(roach sözcüğünün çekimi) (ad) roach kelimesinin karşılığı: ⟪çamçak|ÇAMÇAK⟫, ⟪kızılgöz|KIZILGÖZ⟫
+ROADBLOCKS	(ad) çoğul çekimi: roadblock
+ROADHOUSES	(ad) çoğul çekimi: roadhouse
+ROADLESS	(sıfat) yolsuz: yolu olmayan
+ROADRUNNERS	(ad) çoğul çekimi: roadrunner
+ROADS	(ad) road sözcüğünün çoğul çekimi
+ROADSTEADS	(ad) çoğul çekimi: roadstead
+ROADWAYS	(ad) çoğul çekimi: roadway
+ROANS	(ad) çoğul çekimi: roan
+ROAR	(eylem) kükremek: (deniz, nehir için) Kabarmak, taşmak
+ROARED	(roar sözcüğünün çekimi) (eylem) kükremek: (deniz, nehir için) Kabarmak, taşmak
+ROARING	(eylem) roar sözcüğünün şimdiki zaman ortaç ve gerund çekimi: kükremek
+ROARINGS	(roar sözcüğünün çekimi) (eylem) kükremek: (deniz, nehir için) Kabarmak, taşmak
+ROARS	(ad) çoğul çekimi: roar
+ROAST	(sıfat) kebap: doğrudan doğruya ateşte veya kap içinde susuz olarak pişirilmiş et ve kızartma, çevirme veya kavurma yoluyla hazırlanan her türlü yiyecek (ayrıca: kavrulmuş, kızarmış)
+ROASTED	(sıfat) kebap: doğrudan doğruya ateşte veya kap içinde susuz olarak pişirilmiş et ve kızartma, çevirme veya kavurma yoluyla hazırlanan her türlü yiyecek (ayrıca: kavrulmuş, kızarmış)
+ROASTERS	(ad) çoğul çekimi: roaster
+ROASTING	(roast sözcüğünün çekimi) (sıfat) kebap: doğrudan doğruya ateşte veya kap içinde susuz olarak pişirilmiş et ve kızartma, çevirme veya kavurma...
+ROASTS	(ad) çoğul çekimi: roast
+ROB	(eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+ROBBED	(rob sözcüğünün çekimi) (eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+ROBBER	(ad) haydut: silâhlı soygun yapan kimse, eşkıya, şaki (ayrıca: soyguncu, harami)
+ROBBERIES	(ad) çoğul çekimi: robbery
+ROBBERS	(ad) çoğul çekimi: robber
+ROBBERY	(ad) soygun: hiçbir emek harcamadan ve yolsuz olarak elde edilen büyük kazanç, vurgun
+ROBBING	(rob sözcüğünün çekimi) (eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+ROBE	(ad) robe kelimesinin karşılığı: ⟪cübbe|CÜBBE⟫
+ROBED	(robe sözcüğünün çekimi) (ad) robe kelimesinin karşılığı: ⟪cübbe|CÜBBE⟫
+ROBES	(robe sözcüğünün çekimi) (ad) robe kelimesinin karşılığı: ⟪cübbe|CÜBBE⟫
+ROBING	(robe sözcüğünün çekimi) (ad) robe kelimesinin karşılığı: ⟪cübbe|CÜBBE⟫
+ROBORANTS	(ad) çoğul çekimi: roborant
+ROBOT	(ad) robot: belirli bir işi yerine getirmek için manyetizma ile kendisine çeşitli işler yaptırılabilen otomatik araç
+ROBOTICS	(ad) robotik: birtakım işlevlerde insanın yerini alabilecek düzeneklerin hazırlanmasıyla ilgili çalışma ve tekniklerin bütünü
+ROBOTS	(ad) çoğul çekimi: robot
+ROBS	(rob sözcüğünün çekimi) (eylem) araklamak: Küçük bir şeyi sahibi görmeden gizlice çalmak.
+ROBUST	(sıfat) güçlü: gücü olan, kuvvetli, yavuz (ayrıca: sağlam)
+ROBUSTER	(robust sözcüğünün çekimi) (sıfat) güçlü: gücü olan, kuvvetli, yavuz (ayrıca: sağlam)
+ROBUSTEST	(robust sözcüğünün çekimi) (sıfat) güçlü: gücü olan, kuvvetli, yavuz (ayrıca: sağlam)
+ROBUSTNESS	(ad) kuvvet: Bir cismin konumunun, hareket özelliğinin veya şeklinin değişmesine sebep olan tesir, güç
+ROBUSTNESSES	(robustness sözcüğünün çekimi) (ad) kuvvet: Bir cismin konumunun, hareket özelliğinin veya şeklinin değişmesine sebep olan tesir, güç
+ROCK	(ad) kaya: kayaç
+ROCKED	(rock sözcüğünün çekimi) (ad) kaya: kayaç
+ROCKERS	(ad) çoğul çekimi: rocker
+ROCKET	(ad) roket: Atış sırasında mekanik olarak yön verilen, yörüngesinin başlangıcında öz itmeli olarak yol alan ve daha sonra yalnız balistik kanunlarına bağlı kalan mermi
+ROCKETED	(rocket sözcüğünün çekimi) (ad) roket: Atış sırasında mekanik olarak yön verilen, yörüngesinin başlangıcında öz itmeli olarak yol alan ve daha...
+ROCKETING	(rocket sözcüğünün çekimi) (ad) roket: Atış sırasında mekanik olarak yön verilen, yörüngesinin başlangıcında öz itmeli olarak yol alan ve daha...
+ROCKETS	(ad) çoğul çekimi: rocket
+ROCKING	(rock sözcüğünün çekimi) (ad) kaya: kayaç
+ROCKS	(ad) rock sözcüğünün çoğul çekimi: kaya
+ROD	(ad) çubuk: değnek biçiminde ince, uzun ve sert olan şey
+RODDED	(rod sözcüğünün çekimi) (ad) çubuk: değnek biçiminde ince, uzun ve sert olan şey
+RODDING	(rod sözcüğünün çekimi) (ad) çubuk: değnek biçiminde ince, uzun ve sert olan şey
+RODE	(ride sözcüğünün çekimi) (eylem) ride kelimesinin karşılığı: ⟪binmek|BİNMEK⟫
+RODENT	(ad) rodent kelimesinin karşılığı: ⟪kemirici|KEMİRİCİ⟫
+RODENTS	(ad) çoğul çekimi: rodent
+RODS	(ad) çoğul çekimi: rod
+ROE	(ad) roe kelimesinin karşılığı: balık yumurtası
+ROEBUCKS	(ad) çoğul çekimi: roebuck
+ROES	(ad) çoğul çekimi: roe
+ROGER	(ünlem) anlaşıldı; tamam; telsizle iletişimde mesajın alındığını veya anlaşıldığını belirten ifade\n(eylem) roger kelimesinin karşılığı: ⟪düzmek|DÜZMEK⟫, sikmek
+ROGERS	(ad) çoğul çekimi: roger
+ROGUES	(ad) çoğul çekimi: rogue
+ROISTERER	(sıfat) bekri: Çok içki içen, içkici, içkiye düşkün, ayyaş
+ROISTERERS	(ad) çoğul çekimi: roisterer
+ROLE	(ad) rol: bir işte kişi veya şeyin üstüne düşen görev, üstlence (ayrıca: üstlence)
+ROLES	(ad) çoğul çekimi: role
+ROLL	(sıfat) roll kelimesinin karşılığı: ⟪çarpmalı|ÇARPMALI⟫
+ROLLBACKS	(ad) çoğul çekimi: rollback
+ROLLED	(eylem) roll sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: çarpmalı
+ROLLICKS	(ad) çoğul çekimi: rollick
+ROLLING	(sıfat) rolling kelimesinin karşılığı: ⟪akar|AKAR⟫
+ROLLINGS	(roll sözcüğünün çekimi) (sıfat) roll kelimesinin karşılığı: ⟪çarpmalı|ÇARPMALI⟫
+ROLLOVERS	(ad) çoğul çekimi: rollover
+ROLLS	(ad) çoğul çekimi: roll
+ROMANCES	(ad) çoğul çekimi: romance
+ROMANTIC	(sıfat) romantik: duygusal
+ROMANTICISMS	(ad) çoğul çekimi: romanticism
+ROMANTICISTS	(ad) çoğul çekimi: romanticist
+ROMANTICIZED	(eylem) romanticize sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi
+ROMANTICS	(ad) çoğul çekimi: romantic
+ROMAUNTS	(ad) çoğul çekimi: romaunt
+ROMPERS	(ad) çoğul çekimi: romper
+ROMPS	(ad) çoğul çekimi: romp
+ROODS	(ad) çoğul çekimi: rood
+ROOF	(ad) çatı: birbirine çakılmış, çatılmış şeylerin bütünü
+ROOFED	(roof sözcüğünün çekimi) (ad) çatı: birbirine çakılmış, çatılmış şeylerin bütünü
+ROOFERS	(ad) çoğul çekimi: roofer
+ROOFING	(roof sözcüğünün çekimi) (ad) çatı: birbirine çakılmış, çatılmış şeylerin bütünü
+ROOFINGS	(roof sözcüğünün çekimi) (ad) çatı: birbirine çakılmış, çatılmış şeylerin bütünü
+ROOFS	(ad) roof sözcüğünün çoğul çekimi: çatı
+ROOFTOP	(ad) çatının üst kısmı, dam
+ROOFTOPS	(ad) rooftop sözcüğünün çoğul çekimi: çatının üst kısmı, dam
+ROOFTREES	(ad) çoğul çekimi: rooftree
+ROOK	(ad) rook kelimesinin karşılığı: ekin kargası
+ROOKED	(rook sözcüğünün çekimi) (ad) rook kelimesinin karşılığı: ekin kargası
+ROOKIES	(ad) çoğul çekimi: rookie
+ROOKING	(rook sözcüğünün çekimi) (ad) rook kelimesinin karşılığı: ekin kargası
+ROOKS	(ad) çoğul çekimi: rook
+ROOM	(ad) room kelimesinin karşılığı: boş alan, boş yer
+ROOMED	(room sözcüğünün çekimi) (ad) room kelimesinin karşılığı: boş alan, boş yer
+ROOMETTES	(ad) çoğul çekimi: roomette
+ROOMFULS	(ad) çoğul çekimi: roomful
+ROOMIER	(roomy sözcüğünün çekimi) (sıfat) roomy kelimesinin karşılığı: ⟪bol|BOL⟫, ⟪ferah|FERAH⟫, ⟪geniş|GENİŞ⟫
+ROOMIES	(ad) çoğul çekimi: roomie
+ROOMIEST	(roomy sözcüğünün çekimi) (sıfat) roomy kelimesinin karşılığı: ⟪bol|BOL⟫, ⟪ferah|FERAH⟫, ⟪geniş|GENİŞ⟫
+ROOMING	(room sözcüğünün çekimi) (ad) room kelimesinin karşılığı: boş alan, boş yer
+ROOMMATES	(ad) çoğul çekimi: roommate
+ROOMS	(ad) room sözcüğünün çoğul çekimi: boş alan, boş yer
+ROOMY	(sıfat) roomy kelimesinin karşılığı: ⟪bol|BOL⟫, ⟪ferah|FERAH⟫, ⟪geniş|GENİŞ⟫
+ROOST	(ad) yuva: Kimsesizlere veya yoksullara yardım etmek ve onları barındırmak amacıyla açılan yer.
+ROOSTED	(roost sözcüğünün çekimi) (ad) yuva: Kimsesizlere veya yoksullara yardım etmek ve onları barındırmak amacıyla açılan yer.
+ROOSTER	(ad) horoz: tavuğun erkeği olan kümes hayvanı
+ROOSTERS	(rooster sözcüğünün çekimi) (ad) horoz: tavuğun erkeği olan kümes hayvanı
+ROOSTING	(roost sözcüğünün çekimi) (ad) yuva: Kimsesizlere veya yoksullara yardım etmek ve onları barındırmak amacıyla açılan yer.
+ROOSTS	(ad) çoğul çekimi: roost
+ROOT	(ad) kök: Bitkileri toprağa bağlayan, topraktaki besi maddelerini emmesine yarayan klorofilsiz bölüm.
+ROOTED	(eylem) root sözcüğünün basit geçmiş zaman ve geçmiş zaman ortaç çekimi: kök
+ROOTERS	(ad) çoğul çekimi: rooter
+ROOTING	(root sözcüğünün çekimi) (ad) kök: Bitkileri toprağa bağlayan, topraktaki besi maddelerini emmesine yarayan klorofilsiz bölüm.
+ROOTLETS	(ad) çoğul çekimi: rootlet
+ROOTS	(ad) root sözcüğünün çoğul çekimi: kök\n(eylem) root sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kök
+ROPE	(ad) urgan: Urgan telaffuz (ayrıca: halat)
+ROPED	(rope sözcüğünün çekimi) (ad) urgan: Urgan telaffuz (ayrıca: halat)
+ROPES	(rope sözcüğünün çekimi) (ad) urgan: Urgan telaffuz (ayrıca: halat)
+ROPING	(rope sözcüğünün çekimi) (ad) urgan: Urgan telaffuz (ayrıca: halat)
+ROQUELAURES	(ad) çoğul çekimi: roquelaure
+ROQUETS	(ad) çoğul çekimi: roquet
+ROSARIANS	(ad) çoğul çekimi: rosarian
+ROSARIES	(ad) çoğul çekimi: rosary
+ROSE	(ad) gül: Gülgillerin örnek bitkisi (Rosa).
+ROSEBUDS	(ad) çoğul çekimi: rosebud
+ROSED	(rise sözcüğünün çekimi) (ad) rise kelimesinin karşılığı: ⟪yükselme|YÜKSELME⟫
+ROSEMARIES	(rosemary sözcüğünün çekimi) (ad) biberiye: Bu bitkini kurutularak baharat olarak kullanılan yaprakları.
+ROSEMARY	(ad) biberiye: Bu bitkini kurutularak baharat olarak kullanılan yaprakları.
+ROSES	(ad) rose sözcüğünün çoğul çekimi: gül
+ROSING	(rise sözcüğünün çekimi) (ad) rise kelimesinin karşılığı: ⟪yükselme|YÜKSELME⟫
+ROSTRA	(rostrum sözcüğünün çekimi) (ad) platform: yüksekçe yer
+ROSTRUM	(ad) platform: yüksekçe yer
+ROSTRUMS	(ad) çoğul çekimi: rostrum
+ROT	(eylem) bakteri ve mantarların etkisiyle çürümek (genellikle hayvan ve bitkiler)
+ROTARIES	(ad) çoğul çekimi: rotary
+ROTARY	(eylem) döner: dönmek fiilinin bildirme kipi geniş zaman 3. teklik şahıs olumlu çekimi
+ROTATING	(eylem) döner: dönmek fiilinin bildirme kipi geniş zaman 3. teklik şahıs olumlu çekimi
+ROTATION	(ad) rotation kelimesinin karşılığı: ⟪çevirme|ÇEVİRME⟫
+ROTATIONS	(rotation sözcüğünün çekimi) (ad) rotation kelimesinin karşılığı: ⟪çevirme|ÇEVİRME⟫
+ROTATORS	(ad) çoğul çekimi: rotator
+ROTIFERS	(ad) çoğul çekimi: rotifer
+ROTISSERIES	(ad) çoğul çekimi: rotisserie
+ROTOR	(ad) döneç: dalgalı akımlı elektrik motoru veya dinamolarında hareketli bölüme verilen ad, rotor (ayrıca: rotor)
+ROTORS	(ad) çoğul çekimi: rotor
+ROTS	(rot sözcüğünün çekimi) (eylem) bakteri ve mantarların etkisiyle çürümek (genellikle hayvan ve bitkiler)
+ROTTED	(rot sözcüğünün çekimi) (eylem) bakteri ve mantarların etkisiyle çürümek (genellikle hayvan ve bitkiler)
+ROTTEN	(sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+ROTTENER	(rotten sözcüğünün çekimi) (sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+ROTTENEST	(rotten sözcüğünün çekimi) (sıfat) bozuk: (mecaz) kızgın, sıkıntılı
+ROTTERS	(ad) çoğul çekimi: rotter
+ROTTING	(ad) rotting kelimesinin karşılığı: ⟪çürüme|ÇÜRÜME⟫
+ROTUND	(sıfat) kilolu: ağır (ayrıca: toplu, tombul)
+ROUE	(zarf) roue kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+ROUES	(roue sözcüğünün çekimi) (zarf) roue kelimesinin karşılığı: ⟪fasıkça|FASIKÇA⟫
+ROUGH	(sıfat) rough kelimesinin karşılığı: ⟪kaba|KABA⟫
+ROUGHED	(rough sözcüğünün çekimi) (sıfat) rough kelimesinin karşılığı: ⟪kaba|KABA⟫
+ROUGHER	(rough sözcüğünün çekimi) (sıfat) rough kelimesinin karşılığı: ⟪kaba|KABA⟫
+ROUGHEST	(rough sözcüğünün çekimi) (sıfat) rough kelimesinin karşılığı: ⟪kaba|KABA⟫
+ROUGHING	(rough sözcüğünün çekimi) (sıfat) rough kelimesinin karşılığı: ⟪kaba|KABA⟫
+ROUGHLY	(zarf) kabaca; kaba bir şekilde; haşin bir şekilde
+ROUGHNECKS	(ad) çoğul çekimi: roughneck
+ROUGHS	(ad) çoğul çekimi: rough
+ROULETTE	(ad) roulette kelimesinin karşılığı: ⟪rulet|RULET⟫
+ROULETTED	(roulette sözcüğünün çekimi) (ad) roulette kelimesinin karşılığı: ⟪rulet|RULET⟫
+ROULETTES	(roulette sözcüğünün çekimi) (ad) roulette kelimesinin karşılığı: ⟪rulet|RULET⟫
+ROULETTING	(roulette sözcüğünün çekimi) (ad) roulette kelimesinin karşılığı: ⟪rulet|RULET⟫
+ROUND	(sıfat) round kelimesinin karşılığı: ⟪yuvarlak|YUVARLAK⟫
+ROUNDABOUT	(ad) roundabout kelimesinin karşılığı: dolaylı anlatım
+ROUNDABOUTS	(ad) çoğul çekimi: roundabout
+ROUNDED	(round sözcüğünün çekimi) (sıfat) round kelimesinin karşılığı: ⟪yuvarlak|YUVARLAK⟫
+ROUNDELAYS	(ad) çoğul çekimi: roundelay
+ROUNDELS	(ad) çoğul çekimi: roundel
+ROUNDER	(round sözcüğünün çekimi) (sıfat) round kelimesinin karşılığı: ⟪yuvarlak|YUVARLAK⟫
+ROUNDERS	(ad) çoğul çekimi: rounder
+ROUNDEST	(round sözcüğünün çekimi) (sıfat) round kelimesinin karşılığı: ⟪yuvarlak|YUVARLAK⟫
+ROUNDHOUSES	(ad) çoğul çekimi: roundhouse
+ROUNDING	(ad) rounding kelimesinin karşılığı: ⟪yuvarlaklaşma|YUVARLAKLAŞMA⟫
+ROUNDS	(round sözcüğünün çekimi) (sıfat) round kelimesinin karşılığı: ⟪yuvarlak|YUVARLAK⟫
+ROUNDTABLES	(ad) çoğul çekimi: roundtable
+ROUNDUPS	(ad) çoğul çekimi: roundup
+ROUNDWORMS	(ad) çoğul çekimi: roundworm
+ROUSE	(eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek (ayrıca: uyandırmak)
+ROUSED	(rouse sözcüğünün çekimi) (eylem) uyanmak: belirmek, ortaya çıkmak, depreşmek (ayrıca: uyandırmak)
+ROUSERS	(ad) çoğul çekimi: rouser
+ROUSES	(ad) çoğul çekimi: rouse
+ROUSING	(sıfat) rousing kelimesinin karşılığı: heyecan verici, heyecan uyandırıcı, hareketlendirici
+ROUSTABOUTS	(ad) çoğul çekimi: roustabout
+ROUT	(eylem) rout kelimesinin karşılığı: yenilgiye uğratmak, tarumar etmek, darmadağın etmek, hezimete uğratmak
+ROUTE	(ad) rota: görüş veya tutuma göre gidilen, izlenen yol, istikamet
+ROUTED	(route sözcüğünün çekimi) (ad) rota: görüş veya tutuma göre gidilen, izlenen yol, istikamet
+ROUTERS	(ad) çoğul çekimi: router
+ROUTES	(route sözcüğünün çekimi) (ad) rota: görüş veya tutuma göre gidilen, izlenen yol, istikamet
+ROUTINE	(ad) routine kelimesinin karşılığı: kalıp söz
+ROUTINES	(routine sözcüğünün çekimi) (ad) routine kelimesinin karşılığı: kalıp söz
+ROUTING	(route sözcüğünün çekimi) (ad) rota: görüş veya tutuma göre gidilen, izlenen yol, istikamet
+ROUTS	(ad) çoğul çekimi: rout
+ROVERS	(ad) çoğul çekimi: rover
+ROW	(eylem) row kelimesinin karşılığı: kürek çekmek
+ROWAN	(ad) rowan kelimesinin karşılığı: kuş üvezi
+ROWANBERRIES	(ad) çoğul çekimi: rowanberry
+ROWANS	(ad) çoğul çekimi: rowan
+ROWBOAT	(ad) kayık: Kürek veya yelkenle yürütülen ufak tekne:
+ROWBOATS	(ad) çoğul çekimi: rowboat
+ROWDIES	(ad) çoğul çekimi: rowdy
+ROWED	(row sözcüğünün çekimi) (eylem) row kelimesinin karşılığı: kürek çekmek
+ROWELS	(ad) çoğul çekimi: rowel
+ROWER	(ad) rower kelimesinin karşılığı: ⟪kürekçi|KÜREKÇİ⟫
+ROWERS	(ad) çoğul çekimi: rower
+ROWING	(row sözcüğünün çekimi) (eylem) row kelimesinin karşılığı: kürek çekmek
+ROWINGS	(row sözcüğünün çekimi) (eylem) row kelimesinin karşılığı: kürek çekmek
+ROWLOCKS	(ad) çoğul çekimi: rowlock
+ROWS	(ad) çoğul çekimi: row
+ROYALISTS	(ad) çoğul çekimi: royalist
+ROYALS	(ad) çoğul çekimi: royal
+RUB	(eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+RUBATOS	(ad) çoğul çekimi: rubato
+RUBBED	(rub sözcüğünün çekimi) (eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+RUBBER	(ad) kauçuk: gövdesi odunsu, öz suyu yapışkan, süt kıvamında, yaprakları oval biçimli, parlak ve kalın, sıcak ülke bitkisi, lastik ağacı, (Ficus elastica), kauçuk ağacı
+RUBBERED	(rubber sözcüğünün çekimi) (ad) kauçuk: gövdesi odunsu, öz suyu yapışkan, süt kıvamında, yaprakları oval biçimli, parlak ve kalın, sıcak ülke...
+RUBBERING	(rubber sözcüğünün çekimi) (ad) kauçuk: gövdesi odunsu, öz suyu yapışkan, süt kıvamında, yaprakları oval biçimli, parlak ve kalın, sıcak ülke...
+RUBBERNECKERS	(ad) çoğul çekimi: rubbernecker
+RUBBERNECKS	(ad) çoğul çekimi: rubberneck
+RUBBERS	(ad) çoğul çekimi: rubber
+RUBBING	(rub sözcüğünün çekimi) (eylem) ovmak: Bir şeyin üzerine bastırarak elini gezdirmek
+RUBBINGS	(ad) çoğul çekimi: rubbing
+RUBBISH	(ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+RUBBISHES	(rubbish sözcüğünün çekimi) (ad) çöp: yararsız, pis veya zararlı olduğu için atılan ufak tefek şeylerin hepsi.
+RUBBLE	(ad) enkaz: yıkıntı, döküntü, çöküntü (ayrıca: moloz, döküntü)
+RUBBLED	(rubble sözcüğünün çekimi) (ad) enkaz: yıkıntı, döküntü, çöküntü (ayrıca: moloz, döküntü)
+RUBBLES	(rubble sözcüğünün çekimi) (ad) enkaz: yıkıntı, döküntü, çöküntü (ayrıca: moloz, döküntü)
+RUBBLING	(rubble sözcüğünün çekimi) (ad) enkaz: yıkıntı, döküntü, çöküntü (ayrıca: moloz, döküntü)
+RUBDOWNS	(ad) çoğul çekimi: rubdown
+RUBELLA	(ad) kızamıkçık: kızamığa benzeyen, fakat daha hafif geçen döküntülü bir hastalık.
+RUBELLAS	(rubella sözcüğünün çekimi) (ad) kızamıkçık: kızamığa benzeyen, fakat daha hafif geçen döküntülü bir hastalık.
+RUBELLITES	(ad) çoğul çekimi: rubellite
+RUBES	(ad) çoğul çekimi: rube
+RUBIDIUM	(ad) rubidium kelimesinin karşılığı: ⟪rubidyum|RUBİDYUM⟫
+RUBIDIUMS	(rubidium sözcüğünün çekimi) (ad) rubidium kelimesinin karşılığı: ⟪rubidyum|RUBİDYUM⟫
+RUBIED	(ruby sözcüğünün çekimi) (ad) yakut: pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş
+RUBIER	(ruby sözcüğünün çekimi) (ad) yakut: pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş
+RUBIES	(ad) ruby sözcüğünün çoğul çekimi: yakut
+RUBIEST	(ruby sözcüğünün çekimi) (ad) yakut: pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş
+RUBLES	(ad) çoğul çekimi: ruble
+RUBRIC	(ad) rubric kelimesinin karşılığı: ⟪yönerge|YÖNERGE⟫
+RUBRICS	(ad) çoğul çekimi: rubric
+RUBS	(ad) rub sözcüğünün çoğul çekimi: ovmak.\n(eylem) rub sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: ovmak.
+RUBY	(ad) yakut: pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş
+RUBYING	(ruby sözcüğünün çekimi) (ad) yakut: pembe veya erguvan tonları ile karışık koyu kırmızı renkte, saydam bir korindon türü olan değerli taş
+RUCKLES	(ad) çoğul çekimi: ruckle
+RUCKSACK	(ad) rucksack kelimesinin karşılığı: sırt çantası
+RUCKSACKS	(ad) çoğul çekimi: rucksack
+RUCKUSES	(ad) çoğul çekimi: ruckus
+RUCTIONS	(ad) çoğul çekimi: ruction
+RUDD	(ad) rudd kelimesinin karşılığı: ⟪kızılkanat|KIZILKANAT⟫
+RUDDER	(ad) dümen: hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça
+RUDDERS	(ad) çoğul çekimi: rudder
+RUDDS	(ad) çoğul çekimi: rudd
+RUDE	(sıfat) saygısız: Saygısı olmayan, saygı göstermeyen (ayrıca: hürmetsiz, riayetsiz)
+RUDELY	(zarf) terbiyesizce: terbiyesiz bir biçimde, saygısızca, terbiyesizcesine (ayrıca: saygısızca, hürmetsizce)
+RUDENESS	(ad) rudeness kelimesinin karşılığı: ⟪kabalık|KABALIK⟫
+RUDENESSES	(rudeness sözcüğünün çekimi) (ad) rudeness kelimesinin karşılığı: ⟪kabalık|KABALIK⟫
+RUDER	(rude sözcüğünün çekimi) (sıfat) saygısız: Saygısı olmayan, saygı göstermeyen (ayrıca: hürmetsiz, riayetsiz)
+RUDEST	(rude sözcüğünün çekimi) (sıfat) saygısız: Saygısı olmayan, saygı göstermeyen (ayrıca: hürmetsiz, riayetsiz)
+RUDIMENTARILY	(rudimentary sözcüğünün çekimi) (sıfat) temel; basit; sadece temel ilkeleri içeren
+RUDIMENTARY	(sıfat) temel; basit; sadece temel ilkeleri içeren
+RUFF	(ad) ruff kelimesinin karşılığı: dövüşken kuş
+RUFFED	(ruff sözcüğünün çekimi) (ad) ruff kelimesinin karşılığı: dövüşken kuş
+RUFFES	(ruff sözcüğünün çekimi) (ad) ruff kelimesinin karşılığı: dövüşken kuş
+RUFFIAN	(ad) kavgacı: bir amaç uğruna çaba harcayan, mücadele veren kişi, savaşçı, muharip (ayrıca: kabadayı, hergele)
+RUFFIANS	(ruffian sözcüğünün çekimi) (ad) kavgacı: bir amaç uğruna çaba harcayan, mücadele veren kişi, savaşçı, muharip (ayrıca: kabadayı, hergele)
+RUFFING	(ruff sözcüğünün çekimi) (ad) ruff kelimesinin karşılığı: dövüşken kuş
+RUFFLES	(ad) çoğul çekimi: ruffle
+RUFFLY	(ruff sözcüğünün çekimi) (ad) ruff kelimesinin karşılığı: dövüşken kuş
+RUFFS	(ad) çoğul çekimi: ruff
+RUG	(ad) rug kelimesinin karşılığı: ⟪çul|ÇUL⟫
+RUGBIES	(rugby sözcüğünün çekimi) (ad) ragbi: On beşer kişilik iki takım arasında oval bir topla oynanan oyun
+RUGBY	(ad) ragbi: On beşer kişilik iki takım arasında oval bir topla oynanan oyun
+RUGS	(ad) çoğul çekimi: rug
+RUIN	(eylem) ruin kelimesinin karşılığı: ⟪mahvetmek|MAHVETMEK⟫, tahrip etmek
+RUINED	(sıfat) harap: bayındırlığı kalmamış, yıkılacak duruma gelmiş, yıkkın, viran
+RUINING	(eylem) ruin sözcüğünün şimdiki zaman ortaç ve gerund çekimi: mahvetmek, tahrip etmek
+RUINS	(ad) çoğul çekimi: ruin
+RULE	(ad) kural: davranışlarımıza yön veren, uyulması gereken ilke (ayrıca: kaide, nizam)
+RULED	(rule sözcüğünün çekimi) (ad) kural: davranışlarımıza yön veren, uyulması gereken ilke (ayrıca: kaide, nizam)
+RULER	(ad) ruler kelimesinin karşılığı: ⟪cetvel|CETVEL⟫
+RULERS	(ad) çoğul çekimi: ruler
+RULERSHIPS	(ad) çoğul çekimi: rulership
+RULES	(ad) rule sözcüğünün çoğul çekimi: kural, kaide, nizam\n(eylem) rule sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: kural, kaide, nizam
+RULING	(ad) hüküm: yargı.
+RULINGS	(ad) çoğul çekimi: ruling
+RUM	(ad) rom: Şeker kamışından şeker yapılırken elde edilen öz suyun, melâs ve artıkların mayalandırılarak kurutulmasıyla elde edilen alkollü sert içki
+RUMBLE	(ad) gürültü: Aralarında uyum bulunmayan düzensiz seslerin bütünü; patırtı, şamata (ayrıca: gümbürtü, gürleme)
+RUMBLED	(rumble sözcüğünün çekimi) (ad) gürültü: Aralarında uyum bulunmayan düzensiz seslerin bütünü; patırtı, şamata (ayrıca: gümbürtü, gürleme)
+RUMBLES	(rumble sözcüğünün çekimi) (ad) gürültü: Aralarında uyum bulunmayan düzensiz seslerin bütünü; patırtı, şamata (ayrıca: gümbürtü, gürleme)
+RUMBLING	(rumble sözcüğünün çekimi) (ad) gürültü: Aralarında uyum bulunmayan düzensiz seslerin bütünü; patırtı, şamata (ayrıca: gümbürtü, gürleme)
+RUMBLINGS	(ad) çoğul çekimi: rumbling
+RUMEN	(ad) göden: Hayvanın midesi.
+RUMENS	(rumen sözcüğünün çekimi) (ad) göden: Hayvanın midesi.
+RUMINA	(rumen sözcüğünün çekimi) (ad) göden: Hayvanın midesi.
+RUMINATE	(eylem) ruminate kelimesinin karşılığı: geviş getirmek
+RUMINATED	(ruminate sözcüğünün çekimi) (eylem) ruminate kelimesinin karşılığı: geviş getirmek
+RUMINATES	(ruminate sözcüğünün çekimi) (eylem) ruminate kelimesinin karşılığı: geviş getirmek
+RUMINATING	(ruminate sözcüğünün çekimi) (eylem) ruminate kelimesinin karşılığı: geviş getirmek
+RUMMAGE	(eylem) altını üstüne getirerek aramak; didik didik edip araştırmak
+RUMMAGED	(rummage sözcüğünün çekimi) (eylem) altını üstüne getirerek aramak; didik didik edip araştırmak
+RUMMAGES	(ad) çoğul çekimi: rummage
+RUMMAGING	(rummage sözcüğünün çekimi) (eylem) altını üstüne getirerek aramak; didik didik edip araştırmak
+RUMMEST	(rum sözcüğünün çekimi) (ad) rom: Şeker kamışından şeker yapılırken elde edilen öz suyun, melâs ve artıkların mayalandırılarak kurutulmasıyla...
+RUMOR	(ad) söylenti: ağızdan ağıza dolaşan, kesinlik kazanmayan haber, rivayet (ayrıca: rivayet)
+RUMORED	(rumor sözcüğünün çekimi) (ad) söylenti: ağızdan ağıza dolaşan, kesinlik kazanmayan haber, rivayet (ayrıca: rivayet)
+RUMORING	(rumor sözcüğünün çekimi) (ad) söylenti: ağızdan ağıza dolaşan, kesinlik kazanmayan haber, rivayet (ayrıca: rivayet)
+RUMORS	(ad) rumor sözcüğünün çoğul çekimi: rivayet, söylenti
+RUMOUR	(ad) söylenti: ağızdan ağıza dolaşan, kesinlik kazanmayan haber, rivayet (ayrıca: rivayet)
+RUMOURED	(rumour sözcüğünün çekimi) (ad) söylenti: ağızdan ağıza dolaşan, kesinlik kazanmayan haber, rivayet (ayrıca: rivayet)
+RUMOURING	(rumour sözcüğünün çekimi) (ad) söylenti: ağızdan ağıza dolaşan, kesinlik kazanmayan haber, rivayet (ayrıca: rivayet)
+RUMOURS	(ad) rumour sözcüğünün çoğul çekimi: rivayet, söylenti
+RUMS	(ad) çoğul çekimi: rum
+RUN	(ad) run kelimesinin karşılığı: ⟪koşu|KOŞU⟫\n(eylem) run kelimesinin karşılığı: ⟪koşmak|KOŞMAK⟫
+RUNABOUTS	(ad) çoğul çekimi: runabout
+RUNAGATES	(ad) çoğul çekimi: runagate
+RUNAWAYS	(ad) çoğul çekimi: runaway
+RUNDLETS	(ad) çoğul çekimi: rundlet
+RUNDOWN	(ad) özet; inceleme; analiz; hülasa; konunun uzmanı tarafından yapılan inceleme veya özet
+RUNDOWNS	(rundown sözcüğünün çekimi) (ad) özet; inceleme; analiz; hülasa; konunun uzmanı tarafından yapılan inceleme veya özet
+RUNE	(ad) eski Germen yazısı
+RUNES	(rune sözcüğünün çekimi) (ad) eski Germen yazısı
+RUNG	(ring sözcüğünün çekimi) (ad) ring kelimesinin karşılığı: ⟪çember|ÇEMBER⟫
+RUNGS	(ad) çoğul çekimi: rung
+RUNNELS	(ad) çoğul çekimi: runnel
+RUNNER	(ad) runner kelimesinin karşılığı: ⟪koşucu|KOŞUCU⟫
+RUNNERS	(ad) çoğul çekimi: runner
+RUNNING	(ad) running kelimesinin karşılığı: ⟪koşma|KOŞMA⟫\n(eylem) run fiilinin şimdiki zaman kipi.
+RUNNINGS	(run sözcüğünün çekimi) (ad) run kelimesinin karşılığı: ⟪koşu|KOŞU⟫
+RUNOFFS	(ad) çoğul çekimi: runoff
+RUNS	(ad) çoğul çekimi: run\n(eylem) run sözcüğünün üçüncü tekil şahıs geniş zaman bildirme kipi çekimi: koşu
+RUNTS	(ad) çoğul çekimi: runt
+RUNWAY	(ad) pist: Motorlu araçların yarışları ve koşular için özel olarak düzenlenmiş yer; yarışlık.
+RUNWAYS	(ad) çoğul çekimi: runway
+RUPEES	(ad) çoğul çekimi: rupee
+RUPTURE	(ad) çatlak: Deri, mukoza, kemik veya herhangi bir organ üzerinde uzunluğuna olan açıklık; yarık, fissür (ayrıca: yırtık, kopma)
+RUPTURED	(rupture sözcüğünün çekimi) (ad) çatlak: Deri, mukoza, kemik veya herhangi bir organ üzerinde uzunluğuna olan açıklık; yarık, fissür (ayrıca:...
+RUPTURES	(rupture sözcüğünün çekimi) (ad) çatlak: Deri, mukoza, kemik veya herhangi bir organ üzerinde uzunluğuna olan açıklık; yarık, fissür (ayrıca:...
+RUPTURING	(rupture sözcüğünün çekimi) (ad) çatlak: Deri, mukoza, kemik veya herhangi bir organ üzerinde uzunluğuna olan açıklık; yarık, fissür (ayrıca:...
+RURAL	(sıfat) rural kelimesinin karşılığı: ⟪kırsal|KIRSAL⟫
+RUSH	(ad) Amerikan futbolunda savunmadaki oyuncuların oyun içine girmesi.\n(eylem) aşıkmak: (Yalova ağzı) acele etmek, ivmek (ayrıca: acele etmek)
+RUSHED	(rush sözcüğünün çekimi) (ad) Amerikan futbolunda savunmadaki oyuncuların oyun içine girmesi.
+RUSHERS	(ad) çoğul çekimi: rusher
+RUSHES	(ad) çoğul çekimi: rush
+RUSHING	(rush sözcüğünün çekimi) (ad) Amerikan futbolunda savunmadaki oyuncuların oyun içine girmesi.
+RUSHINGS	(rush sözcüğünün çekimi) (ad) Amerikan futbolunda savunmadaki oyuncuların oyun içine girmesi.
+RUST	(ad) rust kelimesinin karşılığı: ⟪pas|PAS⟫\n(eylem) rust kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+RUSTED	(rust sözcüğünün çekimi) (ad) rust kelimesinin karşılığı: ⟪pas|PAS⟫
+RUSTIC	(sıfat) rustic kelimesinin karşılığı: köye özgü, kıra özgü
+RUSTICATIONS	(ad) çoğul çekimi: rustication
+RUSTICS	(ad) çoğul çekimi: rustic
+RUSTIER	(rusty sözcüğünün çekimi) (sıfat) rusty kelimesinin karşılığı: ⟪paslı|PASLI⟫
+RUSTIEST	(rusty sözcüğünün çekimi) (sıfat) rusty kelimesinin karşılığı: ⟪paslı|PASLI⟫
+RUSTING	(rust sözcüğünün çekimi) (ad) rust kelimesinin karşılığı: ⟪pas|PAS⟫
+RUSTS	(ad) çoğul çekimi: rust
+RUSTY	(sıfat) rusty kelimesinin karşılığı: ⟪paslı|PASLI⟫
+RUTHENIUM	(ad) ruthenium kelimesinin karşılığı: ⟪rutenyum|RUTENYUM⟫
+RUTHENIUMS	(ruthenium sözcüğünün çekimi) (ad) ruthenium kelimesinin karşılığı: ⟪rutenyum|RUTENYUM⟫
+RUTHERFORDIUM	(ad) rutherfordium kelimesinin karşılığı: ⟪rutherfordyum|RUTHERFORDYUM⟫
+RUTHERFORDIUMS	(rutherfordium sözcüğünün çekimi) (ad) rutherfordium kelimesinin karşılığı: ⟪rutherfordyum|RUTHERFORDYUM⟫
+RUTHLESS	(sıfat) acımasız: acıma duygusu olmadan, merhametsizce (ayrıca: merhametsiz, amansız)
+RUTS	(ad) çoğul çekimi: rut
+RYE	(ad) rye kelimesinin karşılığı: ⟪çavdar|ÇAVDAR⟫
+RYEGRASS	(ad) ryegrass kelimesinin karşılığı: ⟪çim|ÇİM⟫
+RYEGRASSES	(ryegrass sözcüğünün çekimi) (ad) ryegrass kelimesinin karşılığı: ⟪çim|ÇİM⟫
+RYES	(ad) çoğul çekimi: rye

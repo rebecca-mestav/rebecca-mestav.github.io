@@ -1,0 +1,1316 @@
+LABEL	(substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABELED	(forma de label) (substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABELING	(forma de label) (substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABELLED	(forma de label) (substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABELLER	(forma de label) (substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABELLING	(forma de label) (substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABELLUM	(substantivo) labellum se traduz como labelo
+LABELS	(forma de label) (substantivo) rótulo: letreiro ou inscrição com a qual se indica o conteúdo, o objeto ou o destino de algo
+LABIA	(forma de labium) (substantivo) lábio: cada uma das partes carnudas que envolve a vagina
+LABIAL	(adjetivo) labial: que se pronuncia com os lábios
+LABIALS	(forma de labial) (adjetivo) labial: que se pronuncia com os lábios
+LABIODENTAL	(adjetivo) labiodental: diz-se da consoante que ao ser pronunciada leva à junção do(s) lábio(s) com os dentes, como o f ou o v\n(substantivo) o mesmo que labiodental consonant ("consoante labiodental")
+LABIODENTALS	(forma de labiodental) (adjetivo) labiodental: diz-se da consoante que ao ser pronunciada leva à junção do(s) lábio(s) com os dentes, como o f...
+LABIUM	(substantivo) lábio: cada uma das partes carnudas que envolve a vagina
+LABOR	(adjetivo) labor se traduz como ⟪trabalhista⟫\n(substantivo) lavor: labor (também: labor, trabalho)
+LABORATORIES	(forma de laboratory) (substantivo) laboratório: local equipado para realizar experiências e investigações científicas ou para manufaturar...
+LABORATORY	(substantivo) laboratório: local equipado para realizar experiências e investigações científicas ou para manufaturar produtos químicos, remédios, etc
+LABORED	(forma de labor) (adjetivo) labor se traduz como ⟪trabalhista⟫
+LABORING	(forma de labor) (adjetivo) labor se traduz como ⟪trabalhista⟫
+LABORIOUS	(adjetivo) laborious se traduz como ⟪laborioso⟫
+LABORIOUSLY	(advérbio) laboriosamente: de modo laborioso
+LABORS	(substantivo) plural de labor: trabalhista
+LABOUR	(adjetivo) trabalhista: relativo a ou partidário do trabalhismo\n(substantivo) trabalho: atividade física ou intelectual (também: labor, lavor)
+LABOURED	(forma de labour) (adjetivo) trabalhista: relativo a ou partidário do trabalhismo
+LABOURING	(forma de labour) (adjetivo) trabalhista: relativo a ou partidário do trabalhismo
+LABOURS	(forma de labour) (adjetivo) trabalhista: relativo a ou partidário do trabalhismo
+LABYRINTH	(substantivo) labirinto: construção constituída por um conjunto de percursos intrincados criados com a intenção de desorientar quem os percorre
+LABYRINTHS	(forma de labyrinth) (substantivo) labirinto: construção constituída por um conjunto de percursos intrincados criados com a intenção de...
+LAC	(substantivo) laca: verniz base de uma matéria produzida e aplicada, na China e no Japão, na confecção de objetos de valor; qualquer objeto revestido ou feito com esta matéria
+LACE	(substantivo) renda: obra de malha feita com fio de linho, seda, ouro ou prata com desenhos caprichosos
+LACED	(forma de lace) (substantivo) renda: obra de malha feita com fio de linho, seda, ouro ou prata com desenhos caprichosos
+LACES	(forma de lace) (substantivo) renda: obra de malha feita com fio de linho, seda, ouro ou prata com desenhos caprichosos
+LACHRYMATOR	(substantivo) lacrimogêneo: gás que causa lágrimas, sem danificar os olhos, usado para dispersão de multidões
+LACHRYMATORS	(forma de lachrymator) (substantivo) lacrimogêneo: gás que causa lágrimas, sem danificar os olhos, usado para dispersão de multidões
+LACHRYMOSE	(adjetivo) lacrimoso: que chora; choroso
+LACHRYMOSELY	(forma de lachrymose) (adjetivo) lacrimoso: que chora; choroso
+LACING	(forma de lace) (substantivo) renda: obra de malha feita com fio de linho, seda, ouro ou prata com desenhos caprichosos
+LACINGS	(forma de lace) (substantivo) renda: obra de malha feita com fio de linho, seda, ouro ou prata com desenhos caprichosos
+LACK	(substantivo) lack se traduz como ⟪falta⟫, ⟪deficiência|DEFICIENCIA⟫\n(verbo) faltar: não estar presente. (também: carecer)
+LACKED	(forma de lack) (substantivo) lack se traduz como ⟪falta⟫, ⟪deficiência|DEFICIENCIA⟫
+LACKEY	(substantivo) lacaio: criado
+LACKEYED	(forma de lackey) (substantivo) lacaio: criado
+LACKEYING	(forma de lackey) (substantivo) lacaio: criado
+LACKEYS	(substantivo) plural de lackey: lacaio
+LACKING	(adjetivo) lacking se traduz como lacunoso, lacunar
+LACKS	(forma de lack) (substantivo) lack se traduz como ⟪falta⟫, ⟪deficiência|DEFICIENCIA⟫
+LACONIC	(adjetivo) lacônico: resumido, sucinto, breve
+LACONICALLY	(advérbio) laconicamente: de modo lacónico
+LACONISM	(substantivo) laconism se traduz como ⟪laconismo⟫
+LACONISMS	(forma de laconism) (substantivo) laconism se traduz como ⟪laconismo⟫
+LACQUER	(substantivo) laca: resina ou goma resinosa obtida de certas árvores no Oriente
+LACQUERED	(forma de lacquer) (substantivo) laca: resina ou goma resinosa obtida de certas árvores no Oriente
+LACQUERING	(forma de lacquer) (substantivo) laca: resina ou goma resinosa obtida de certas árvores no Oriente
+LACQUERS	(forma de lacquer) (substantivo) laca: resina ou goma resinosa obtida de certas árvores no Oriente
+LACS	(forma de lac) (substantivo) laca: verniz base de uma matéria produzida e aplicada, na China e no Japão, na confecção de objetos de...
+LACTATION	(substantivo) lactation se traduz como ⟪amamentação|AMAMENTAÇAO⟫
+LACTATIONS	(forma de lactation) (substantivo) lactation se traduz como ⟪amamentação|AMAMENTAÇAO⟫
+LACTIC	(adjetivo) láctico: relacionado ao leite
+LACTOSE	(substantivo) lactose: açúcar presente no leite e seus derivados
+LACTOSES	(forma de lactose) (substantivo) lactose: açúcar presente no leite e seus derivados
+LACUNA	(substantivo) lacuna: falha, falta, vazio, omissão, hiato
+LACUNAE	(forma de lacuna) (substantivo) lacuna: falha, falta, vazio, omissão, hiato
+LACUNAS	(forma de lacuna) (substantivo) lacuna: falha, falta, vazio, omissão, hiato
+LACUSTRINE	(adjetivo) lacustre: relativo a lagos
+LAD	(substantivo) guri: menino pequeno; rapaz; moço (também: rapaz)
+LADDER	(substantivo) escada: equipamento formado por degraus que é usado para subir e descer de lugares altos
+LADDERED	(forma de ladder) (substantivo) escada: equipamento formado por degraus que é usado para subir e descer de lugares altos
+LADDERING	(forma de ladder) (substantivo) escada: equipamento formado por degraus que é usado para subir e descer de lugares altos
+LADDERS	(forma de ladder) (substantivo) escada: equipamento formado por degraus que é usado para subir e descer de lugares altos
+LADER	(forma de lad) (substantivo) guri: menino pequeno; rapaz; moço (também: rapaz)
+LADIES	(substantivo) plural de lady: dama
+LADS	(forma de lad) (substantivo) guri: menino pequeno; rapaz; moço (também: rapaz)
+LADY	(substantivo) dama: mulher educada
+LAGNIAPPE	(substantivo) lagniappe se traduz como inhapa
+LAGNIAPPES	(forma de lagniappe) (substantivo) lagniappe se traduz como inhapa
+LAICALLY	(advérbio) laicamente: de modo laico
+LAID	(forma de lay) (adjetivo) lay se traduz como ⟪leigo⟫
+LAIN	(forma de lie) (substantivo) lie se traduz como ⟪mentira⟫
+LAIR	(substantivo) lair se traduz como ⟪antro⟫, ⟪covil⟫
+LAIRED	(forma de lair) (substantivo) lair se traduz como ⟪antro⟫, ⟪covil⟫
+LAIRING	(forma de lair) (substantivo) lair se traduz como ⟪antro⟫, ⟪covil⟫
+LAIRS	(forma de lair) (substantivo) lair se traduz como ⟪antro⟫, ⟪covil⟫
+LAKE	(substantivo) lake se traduz como ⟪lago⟫
+LAKED	(forma de lake) (substantivo) lake se traduz como ⟪lago⟫
+LAKES	(forma de lake) (substantivo) lake se traduz como ⟪lago⟫
+LAKING	(forma de lake) (substantivo) lake se traduz como ⟪lago⟫
+LAMAS	(substantivo) plural de lama
+LAMB	(substantivo) cordeiro: filhote da ovelha
+LAMBED	(forma de lamb) (substantivo) cordeiro: filhote da ovelha
+LAMBER	(forma de lamb) (substantivo) cordeiro: filhote da ovelha
+LAMBING	(forma de lamb) (substantivo) cordeiro: filhote da ovelha
+LAMBS	(forma de lamb) (substantivo) cordeiro: filhote da ovelha
+LAME	(adjetivo) manco: falto de um membro ou parte dele ou impossibilidade de o utilizar
+LAMED	(forma de lame) (adjetivo) manco: falto de um membro ou parte dele ou impossibilidade de o utilizar
+LAMENT	(substantivo) lament se traduz como ⟪lamento⟫\n(verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: lamentar)
+LAMENTABLE	(adjetivo) lastimável: digno de lástima; deplorável
+LAMENTABLY	(advérbio) lamentavelmente: de modo lamentável
+LAMENTATION	(substantivo) lamentation se traduz como ⟪lamentação|LAMENTAÇAO⟫
+LAMENTED	(forma de lament) (substantivo) lament se traduz como ⟪lamento⟫
+LAMENTEDLY	(forma de lament) (substantivo) lament se traduz como ⟪lamento⟫
+LAMENTING	(forma de lament) (substantivo) lament se traduz como ⟪lamento⟫
+LAMENTS	(forma de lament) (substantivo) lament se traduz como ⟪lamento⟫
+LAMER	(forma de lame) (adjetivo) manco: falto de um membro ou parte dele ou impossibilidade de o utilizar
+LAMES	(forma de lame) (adjetivo) manco: falto de um membro ou parte dele ou impossibilidade de o utilizar
+LAMEST	(forma de lame) (adjetivo) manco: falto de um membro ou parte dele ou impossibilidade de o utilizar
+LAMING	(forma de lame) (adjetivo) manco: falto de um membro ou parte dele ou impossibilidade de o utilizar
+LAMINITIS	(substantivo) laminite: uma das principais doenças locomotoras de ungulados, especialmente em cavalos e bovinos, envolvendo inflamação das lâminas do interior do casco com sinais clínicos que incluem sensibilidade nos pés (especialmente os dianteiros), progredindo para incapacidade de caminhar, aumento dos pulsos digitais...
+LAMINITISES	(forma de laminitis) (substantivo) laminite: uma das principais doenças locomotoras de ungulados, especialmente em cavalos e bovinos,...
+LAMMERGEIER	(substantivo) lammergeier se traduz como pica-osso, abutre-barbudo
+LAMMERGEIERS	(forma de lammergeier) (substantivo) lammergeier se traduz como pica-osso, abutre-barbudo
+LAMP	(substantivo) lâmpada: vaso em que arde uma luz alimentada a óleo
+LAMPED	(forma de lamp) (substantivo) lâmpada: vaso em que arde uma luz alimentada a óleo
+LAMPREY	(substantivo) lampreia: nome de duas espécies de peixes ciclóstomos, uma de água salgada e outra de água doce, de boca em forma de ventosa, considerado como um manjar, pelos seus apreciadores
+LAMPREYS	(forma de lamprey) (substantivo) lampreia: nome de duas espécies de peixes ciclóstomos, uma de água salgada e outra de água doce, de boca...
+LAMPS	(forma de lamp) (substantivo) lâmpada: vaso em que arde uma luz alimentada a óleo
+LANCE	(substantivo) lança: uma arma longa para ser arremessada, que consiste de uma haste de madeira à qual é ligada uma ponta de metal\n(verbo) lance se traduz como lancetar
+LANCED	(forma de lance) (substantivo) lança: uma arma longa para ser arremessada, que consiste de uma haste de madeira à qual é ligada uma...
+LANCELET	(substantivo) lancelet se traduz como anfioxo
+LANCELETS	(forma de lancelet) (substantivo) lancelet se traduz como anfioxo
+LANCER	(substantivo) lanceiro: soldado armado de lança
+LANCES	(forma de lance) (substantivo) lança: uma arma longa para ser arremessada, que consiste de uma haste de madeira à qual é ligada uma...
+LANCING	(forma de lance) (substantivo) lança: uma arma longa para ser arremessada, que consiste de uma haste de madeira à qual é ligada uma...
+LAND	(substantivo) terra: região, lugar (também: solo, chão:)\n(verbo) aterrissar: retornar à terra (também: pousar, aterrar:)
+LANDED	(forma de land) (substantivo) terra: região, lugar (também: solo, chão:)
+LANDING	(substantivo) landing se traduz como ⟪aterrissagem⟫
+LANDINGS	(substantivo) plural de landing: aterrissagem
+LANDLINE	(substantivo) landline se traduz como telefone fixo
+LANDLINES	(forma de landline) (substantivo) landline se traduz como telefone fixo
+LANDOWNER	(substantivo) fazendeiro: dono de fazenda
+LANDOWNERS	(forma de landowner) (substantivo) fazendeiro: dono de fazenda
+LANDS	(substantivo) plural de land: terra, solo, chão:
+LANDSCAPE	(substantivo) paisagem, uma porção de terra ou mar que pode ser observada em um único lance de vista.
+LANDSCAPED	(forma de landscape) (substantivo) paisagem, uma porção de terra ou mar que pode ser observada em um único lance de vista.
+LANDSCAPES	(substantivo) plural de landscape: paisagem, uma porção de terra ou mar que pode ser observada em um único lance de vista.
+LANDSCAPING	(forma de landscape) (substantivo) paisagem, uma porção de terra ou mar que pode ser observada em um único lance de vista.
+LANE	(substantivo) alameda: avenida
+LANELY	(forma de lane) (substantivo) alameda: avenida
+LANES	(forma de lane) (substantivo) alameda: avenida
+LANG	(substantivo) abreviação de língua
+LANGUAGE	(substantivo) língua: linguagem, idioma, conjunto de expressões sonoras com um significado convencional partilhado por um grupo de seres humanos (também: linguagem, idioma)
+LANGUAGES	(forma de language) (substantivo) língua: linguagem, idioma, conjunto de expressões sonoras com um significado convencional partilhado por...
+LANGUID	(adjetivo) lânguido: debilitado, fraco
+LANGUIDLY	(advérbio) languidamente: de forma lânguida
+LANGUISH	(verbo) languish se traduz como ⟪enlanguescer⟫
+LANGUISHED	(forma de languish) (verbo) languish se traduz como ⟪enlanguescer⟫
+LANGUISHES	(forma de languish) (verbo) languish se traduz como ⟪enlanguescer⟫
+LANGUISHING	(forma de languish) (verbo) languish se traduz como ⟪enlanguescer⟫
+LANTHANIDE	(substantivo) lantanídeo: grupo de elementos químicos com propriedades físicas semelhantes, conhecidos por terras raras; todos eles possuem dois elétrons na camada mais externa, numa configuração 6s2; os lantanídeos conhecidos são: La, Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu
+LANTHANIDES	(forma de lanthanide) (substantivo) lantanídeo: grupo de elementos químicos com propriedades físicas semelhantes, conhecidos por terras...
+LANTHANUM	(substantivo) lantânio: elemento químico de símbolo La, possui o número atômico 57 e massa atômica relativa 138.905 u; é um metal de transição interna (lantanídeo), branco prateado, encontrado sólido na temperatura ambiente; é obtido de minerais como a monazita, bastnasita e a alanita; é utilizado em eletrodos para...
+LANTHANUMS	(forma de lanthanum) (substantivo) lantânio: elemento químico de símbolo La, possui o número atômico 57 e massa atômica relativa 138.905 u;...
+LAP	(substantivo) aba: parte saliente da beira das vestimentas, ou outros materiais de pano, para uso das pessoas, tais como vestido, paletó, toldo etc
+LAPAROSCOPIES	(forma de laparoscopy) (substantivo) laparoscopia: procedimento cirúrgico minimamente invasivo realizado com a introdução de um laparoscópio...
+LAPAROSCOPY	(substantivo) laparoscopia: procedimento cirúrgico minimamente invasivo realizado com a introdução de um laparoscópio sob efeito de anestesia
+LAPAROTOMIES	(forma de laparotomy) (substantivo) laparotomia: abertura cirúrgica da cavidade abdominal
+LAPAROTOMY	(substantivo) laparotomia: abertura cirúrgica da cavidade abdominal
+LAPEL	(substantivo) lapela: parte dianteira e superior de um casaco que é voltada para fora; rebuço
+LAPELED	(forma de lapel) (substantivo) lapela: parte dianteira e superior de um casaco que é voltada para fora; rebuço
+LAPELS	(forma de lapel) (substantivo) lapela: parte dianteira e superior de um casaco que é voltada para fora; rebuço
+LAPPED	(forma de lap) (substantivo) aba: parte saliente da beira das vestimentas, ou outros materiais de pano, para uso das pessoas, tais...
+LAPPING	(forma de lap) (substantivo) aba: parte saliente da beira das vestimentas, ou outros materiais de pano, para uso das pessoas, tais...
+LAPS	(forma de lap) (substantivo) aba: parte saliente da beira das vestimentas, ou outros materiais de pano, para uso das pessoas, tais...
+LAPTOP	(substantivo) laptop: computador portátil e leve, com dimensões adequadas ao uso apoiado no colo
+LAPTOPS	(forma de laptop) (substantivo) laptop: computador portátil e leve, com dimensões adequadas ao uso apoiado no colo
+LAPWING	(substantivo) lapwing se traduz como quero-quero
+LAPWINGS	(forma de lapwing) (substantivo) lapwing se traduz como quero-quero
+LAR	(substantivo) lar se traduz como ⟪lar⟫
+LARCENIES	(forma de larceny) (substantivo) larceny se traduz como ⟪roubo⟫
+LARCENY	(substantivo) larceny se traduz como ⟪roubo⟫
+LARGE	(adjetivo) grande: importante
+LARGES	(forma de large) (adjetivo) grande: importante
+LARGEST	(adjetivo) largest se traduz como ⟪máximo|MAXIMO⟫
+LARK	(substantivo) cotovia: pequena ave campestre cinzenta que canta de madrugada e é uma espécie de calhandra
+LARKED	(forma de lark) (substantivo) cotovia: pequena ave campestre cinzenta que canta de madrugada e é uma espécie de calhandra
+LARKING	(forma de lark) (substantivo) cotovia: pequena ave campestre cinzenta que canta de madrugada e é uma espécie de calhandra
+LARKS	(forma de lark) (substantivo) cotovia: pequena ave campestre cinzenta que canta de madrugada e é uma espécie de calhandra
+LARS	(forma de lar) (substantivo) lar se traduz como ⟪lar⟫
+LARVA	(substantivo) larva: embrião que se torna livre abandonando normalmente os invólucros ovulares ou o organismo progenitor
+LARVAE	(substantivo) plural de larva: larva
+LARVAS	(forma de larva) (substantivo) larva: embrião que se torna livre abandonando normalmente os invólucros ovulares ou o organismo progenitor
+LARYNGES	(forma de larynx) (substantivo) laringe: órgão fibromuscular, situado entre a traqueia e a base da língua
+LARYNGITIS	(substantivo) laringite: inflamação na laringe
+LARYNGITISES	(forma de laryngitis) (substantivo) laringite: inflamação na laringe
+LARYNX	(substantivo) laringe: órgão fibromuscular, situado entre a traqueia e a base da língua
+LARYNXES	(forma de larynx) (substantivo) laringe: órgão fibromuscular, situado entre a traqueia e a base da língua
+LASAGNA	(substantivo) lasanha: fitas largas de massa de trigo que se usam no preparo de sopas e de outros pratos
+LASAGNAS	(forma de lasagna) (substantivo) lasanha: fitas largas de massa de trigo que se usam no preparo de sopas e de outros pratos
+LASCIVIOUS	(adjetivo) lascivious se traduz como ⟪lascivo⟫
+LASCIVIOUSLY	(advérbio) lascivamente: de forma lasciva
+LASCIVIOUSNESS	(substantivo) lascívia: comportamento desregrado com relação aos prazeres do sexo
+LASCIVIOUSNESSES	(forma de lasciviousness) (substantivo) lascívia: comportamento desregrado com relação aos prazeres do sexo
+LASER	(substantivo) lêiser: feixe de radiação eletromagnética coerente monocromática estimulada (também: laser)
+LASERS	(forma de laser) (substantivo) lêiser: feixe de radiação eletromagnética coerente monocromática estimulada (também: laser)
+LASH	(substantivo) lash se traduz como ⟪chicote⟫
+LASHED	(forma de lash) (substantivo) lash se traduz como ⟪chicote⟫
+LASHES	(forma de lash) (substantivo) lash se traduz como ⟪chicote⟫
+LASHING	(forma de lash) (substantivo) lash se traduz como ⟪chicote⟫
+LASS	(substantivo) rapariga: mulher do sexo feminino; menina, moça (também: garota, menina)
+LASSES	(forma de lass) (substantivo) rapariga: mulher do sexo feminino; menina, moça (também: garota, menina)
+LASSITUDE	(substantivo) lassitude: cansaço, fadiga, tédio, fraqueza; lassidão
+LASSITUDES	(forma de lassitude) (substantivo) lassitude: cansaço, fadiga, tédio, fraqueza; lassidão
+LASSO	(substantivo) lasso se traduz como ⟪laço⟫
+LASSOED	(forma de lasso) (substantivo) lasso se traduz como ⟪laço⟫
+LASSOER	(forma de lasso) (substantivo) lasso se traduz como ⟪laço⟫
+LASSOES	(forma de lasso) (substantivo) lasso se traduz como ⟪laço⟫
+LASSOING	(forma de lasso) (substantivo) lasso se traduz como ⟪laço⟫
+LASSOS	(forma de lasso) (substantivo) lasso se traduz como ⟪laço⟫
+LAST	(adjetivo) last se traduz como ⟪último|ULTIMO⟫\n(advérbio) o mais recentemente
+LASTED	(forma de last) (adjetivo) last se traduz como ⟪último|ULTIMO⟫
+LASTER	(forma de last) (adjetivo) last se traduz como ⟪último|ULTIMO⟫
+LASTERS	(forma de last) (adjetivo) last se traduz como ⟪último|ULTIMO⟫
+LASTING	(forma de last) (adjetivo) last se traduz como ⟪último|ULTIMO⟫
+LASTINGLY	(advérbio) duradouramente: de modo duradouro
+LASTINGS	(forma de last) (adjetivo) last se traduz como ⟪último|ULTIMO⟫
+LASTS	(forma de last) (adjetivo) last se traduz como ⟪último|ULTIMO⟫
+LATE	(adjetivo) tarde: tardiamente, atrasado
+LATELY	(advérbio) recentemente: há pouco tempo
+LATENCIES	(forma de latency) (substantivo) latência: período até que a transferência de dados se inicie
+LATENCY	(substantivo) latência: período até que a transferência de dados se inicie
+LATENT	(adjetivo) latente: não manifesto, potencial, incubado
+LATENTLY	(advérbio) latently se traduz como ⟪latentemente⟫
+LATENTS	(forma de latent) (adjetivo) latente: não manifesto, potencial, incubado
+LATER	(advérbio) depois: mais tarde; em uma outra oportunidade (também: mais tarde)
+LATERAL	(adjetivo) lateral se traduz como ⟪lateral⟫
+LATERALED	(forma de lateral) (adjetivo) lateral se traduz como ⟪lateral⟫
+LATERALING	(forma de lateral) (adjetivo) lateral se traduz como ⟪lateral⟫
+LATERALLY	(advérbio) lateralmente: de modo lateral
+LATERALS	(forma de lateral) (adjetivo) lateral se traduz como ⟪lateral⟫
+LATHE	(substantivo) lathe se traduz como torno mecânico\n(verbo) tornear: modelar uma peça no torno
+LATHES	(forma de lathe) (substantivo) lathe se traduz como torno mecânico
+LATITUDE	(substantivo) latitude: medida da posição de um objeto ou local na superfície terrestre, dada como o ângulo, em graus, formado entre o local, sua projeção no equador e o centro da Terra, com centro nesse último. Juntamente com a longitude, fornece uma localização precisa na superfície do globo
+LATITUDES	(forma de latitude) (substantivo) latitude: medida da posição de um objeto ou local na superfície terrestre, dada como o ângulo, em graus,...
+LATITUDINALLY	(advérbio) latitudinalmente: de forma latitudinal
+LATRINE	(substantivo) latrina: objeto costumeiramente usado para urinar e evacuar
+LATRINES	(forma de latrine) (substantivo) latrina: objeto costumeiramente usado para urinar e evacuar
+LAUD	(verbo) louvar: elogiar, aprovar, avaliar
+LAUDABLE	(adjetivo) louvável: digno de louvor; memorável
+LAUDABLY	(advérbio) louvavelmente: de forma louvável
+LAUDED	(forma de laud) (verbo) louvar: elogiar, aprovar, avaliar
+LAUDING	(forma de laud) (verbo) louvar: elogiar, aprovar, avaliar
+LAUDS	(forma de laud) (verbo) louvar: elogiar, aprovar, avaliar
+LAUGH	(substantivo) riso: ato ou efeito de rir; demonstração clara e geralmente espontânea de alegria\n(verbo) rir: manifestar o riso; assumir expressão de alegria
+LAUGHABLE	(adjetivo) laughable se traduz como ⟪risível|RISIVEL⟫
+LAUGHED	(verbo) laughed se traduz como riu
+LAUGHING	(verbo) gerúndio do verbo laugh: riso
+LAUGHINGLY	(advérbio) ridentemente: de modo ridente
+LAUGHINGS	(forma de laugh) (substantivo) riso: ato ou efeito de rir; demonstração clara e geralmente espontânea de alegria
+LAUGHS	(substantivo) divertimento: recreação, recreio\n(verbo) terceira pessoa do singular do presente do verbo to laugh: riso
+LAUGHTER	(substantivo) riso: ato ou efeito de rir; demonstração clara e geralmente espontânea de alegria (também: risada)
+LAUGHTERS	(forma de laughter) (substantivo) riso: ato ou efeito de rir; demonstração clara e geralmente espontânea de alegria (também: risada)
+LAUNCH	(substantivo) launch se traduz como ⟪lançamento⟫, ⟪arremesso⟫\n(verbo) jogar: atribuir (regência verbal com preposição: em) (também: lançar, arremessar)
+LAUNCHED	(forma de launch) (substantivo) launch se traduz como ⟪lançamento⟫, ⟪arremesso⟫
+LAUNCHES	(forma de launch) (substantivo) launch se traduz como ⟪lançamento⟫, ⟪arremesso⟫
+LAUNCHING	(forma de launch) (substantivo) launch se traduz como ⟪lançamento⟫, ⟪arremesso⟫
+LAUNDRIES	(forma de laundry) (substantivo) laundry se traduz como lavandaria/lavanderia
+LAUNDRY	(substantivo) laundry se traduz como lavandaria/lavanderia
+LAUREL	(substantivo) loureiro: planta (Laurus nobilis) pertencente à família das Lauráceas com folhas utilizadas como condimento
+LAURELING	(forma de laurel) (substantivo) loureiro: planta (Laurus nobilis) pertencente à família das Lauráceas com folhas utilizadas como...
+LAURELLING	(forma de laurel) (substantivo) loureiro: planta (Laurus nobilis) pertencente à família das Lauráceas com folhas utilizadas como...
+LAVA	(substantivo) lava: designação dada ao material geológico em fusão, com temperatura em geral entre os 600 °C e os 1 250 °C, que um vulcão expele durante uma erupção
+LAVAS	(forma de lava) (substantivo) lava: designação dada ao material geológico em fusão, com temperatura em geral entre os 600 °C e os 1 250...
+LAVE	(substantivo) sobra, resto, aquilo que sobra, outros\n(verbo) lavar: cercar ou passar junto de; banhar
+LAVED	(verbo) passado simples e particípio do verbo lave: sobra, resto, aquilo que sobra, outros
+LAVES	(verbo) terceira pessoa do singular do verbo lave: sobra, resto, aquilo que sobra, outros
+LAVING	(verbo) gerúndio do verbo lave: sobra, resto, aquilo que sobra, outros
+LAVISHLY	(advérbio) lautamente: de forma abundante
+LAW	(substantivo) lei: regra imposta pela autoridade estatal
+LAWED	(forma de law) (substantivo) lei: regra imposta pela autoridade estatal
+LAWFULNESS	(substantivo) licitude: diz-se de toda conduta permitida pela lei, ou que a lei não proíba; aquilo que é lícito
+LAWFULNESSES	(forma de lawfulness) (substantivo) licitude: diz-se de toda conduta permitida pela lei, ou que a lei não proíba; aquilo que é lícito
+LAWLESS	(adjetivo) lawless se traduz como sem lei
+LAWMAKER	(substantivo) legislador: pessoa que tem competência para legislar
+LAWMAKERS	(forma de lawmaker) (substantivo) legislador: pessoa que tem competência para legislar
+LAWN	(substantivo) gramado: terreno coberto de grama
+LAWNS	(forma de lawn) (substantivo) gramado: terreno coberto de grama
+LAWRENCIUM	(substantivo) laurêncio: elemento químico de símbolo Lr, possui o número atômico 103 e massa atômica relativa 262 u; é um metal radioativo de transição interna (actinídeo), de cor desconhecida, encontrado provavelmente sólido na temperatura ambiente; é um elemento transurânico sintético, produzido pelo método de irradiação...
+LAWRENCIUMS	(forma de lawrencium) (substantivo) laurêncio: elemento químico de símbolo Lr, possui o número atômico 103 e massa atômica relativa 262 u; é...
+LAWSUIT	(substantivo) ação: processo forense (também: processo)
+LAWSUITS	(forma de lawsuit) (substantivo) ação: processo forense (também: processo)
+LAWYER	(substantivo) advogado: aquele que exerce a advocacia
+LAWYERED	(forma de lawyer) (substantivo) advogado: aquele que exerce a advocacia
+LAWYERING	(forma de lawyer) (substantivo) advogado: aquele que exerce a advocacia
+LAWYERS	(forma de lawyer) (substantivo) advogado: aquele que exerce a advocacia
+LAX	(adjetivo) lax se traduz como ⟪frouxo⟫, ⟪solto⟫\n(substantivo) lax se traduz como ⟪salmão|SALMAO⟫
+LAXATIVE	(substantivo) laxative se traduz como ⟪laxante⟫
+LAXATIVES	(forma de laxative) (substantivo) laxative se traduz como ⟪laxante⟫
+LAXER	(forma de lax) (adjetivo) lax se traduz como ⟪frouxo⟫, ⟪solto⟫
+LAXEST	(forma de lax) (adjetivo) lax se traduz como ⟪frouxo⟫, ⟪solto⟫
+LAXITIES	(forma de laxity) (substantivo) laxity se traduz como ⟪morosidade⟫
+LAXITY	(substantivo) laxity se traduz como ⟪morosidade⟫
+LAXNESS	(substantivo) morosidade: qualidade de moroso; demora, lentidão
+LAXNESSES	(forma de laxness) (substantivo) morosidade: qualidade de moroso; demora, lentidão
+LAY	(adjetivo) lay se traduz como ⟪leigo⟫\n(verbo) deitar: pôr-se em posição de decúbito
+LAYABOUT	(substantivo) preguiçoso: lento, vagaroso (também: vadio)
+LAYABOUTS	(forma de layabout) (substantivo) preguiçoso: lento, vagaroso (também: vadio)
+LAYED	(forma de lay) (adjetivo) lay se traduz como ⟪leigo⟫
+LAYER	(substantivo) camada: porção de matéria uniformemente disposta sobre outra
+LAYERED	(forma de layer) (substantivo) camada: porção de matéria uniformemente disposta sobre outra
+LAYERING	(forma de layer) (substantivo) camada: porção de matéria uniformemente disposta sobre outra
+LAYERINGS	(forma de layer) (substantivo) camada: porção de matéria uniformemente disposta sobre outra
+LAYERS	(forma de layer) (substantivo) camada: porção de matéria uniformemente disposta sobre outra
+LAYETTE	(substantivo) enxoval: conjunto de utensílios (roupas, louças, materiais de cama, mesa e banho) obtidos em virtude de um casamento ou nascimento
+LAYETTES	(forma de layette) (substantivo) enxoval: conjunto de utensílios (roupas, louças, materiais de cama, mesa e banho) obtidos em virtude de...
+LAYING	(forma de lay) (adjetivo) lay se traduz como ⟪leigo⟫
+LAYMAN	(substantivo) laico: quem ou que não pertence ao clero; secular, leigo, sem confissão (também: leigo)\n(adjetivo) laico: quem ou que não pertence ao clero; secular, leigo, sem confissão
+LAYMEN	(forma de layman) (substantivo) laico: quem ou que não pertence ao clero; secular, leigo, sem confissão (também: leigo)
+LAYOUT	(substantivo) leiaute: forma geral de como as coisas ficam posicionadas dentro de um espaço ou plano
+LAYOUTS	(forma de layout) (substantivo) leiaute: forma geral de como as coisas ficam posicionadas dentro de um espaço ou plano
+LAYS	(forma de lay) (adjetivo) lay se traduz como ⟪leigo⟫
+LAZIED	(forma de lazy) (adjetivo) preguiçoso: lento, vagaroso
+LAZIER	(forma de lazy) (adjetivo) preguiçoso: lento, vagaroso
+LAZIES	(forma de lazy) (adjetivo) preguiçoso: lento, vagaroso
+LAZIEST	(forma de lazy) (adjetivo) preguiçoso: lento, vagaroso
+LAZINESS	(substantivo) preguiça: falta de vontade de realizar atividades
+LAZINESSES	(forma de laziness) (substantivo) preguiça: falta de vontade de realizar atividades
+LAZY	(adjetivo) preguiçoso: lento, vagaroso
+LAZYBONES	(substantivo) vagabundo: homem ocioso, sem emprego
+LAZYING	(forma de lazy) (adjetivo) preguiçoso: lento, vagaroso
+LEAD	(adjetivo) o mais importante\n(substantivo) lead se traduz como ⟪liderança⟫
+LEADED	(forma de lead) (adjetivo) o mais importante
+LEADER	(substantivo) líder: aquele que numa competição está a frente de todos os outros participantes
+LEADERSHIP	(substantivo) liderança: posição do líder
+LEADERSHIPS	(forma de leadership) (substantivo) liderança: posição do líder
+LEADING	(adjetivo) leading se traduz como ⟪principal⟫, ⟪importante⟫\n(verbo) gerúndio do verbo lead: o mais importante
+LEADINGS	(forma de lead) (adjetivo) o mais importante
+LEADS	(forma de lead) (adjetivo) o mais importante
+LEAF	(substantivo) folha: órgão da planta, geralmente verde e responsável pela fotossíntese (na maioria das vezes), composta de limbo (estrutura laminar), pecíolo (haste que liga o limbo ao caule) e, algumas vezes, bainha (invólucro alongado na base do pecíolo)\n(verbo) leaf se traduz como produzir folhas
+LEAFED	(verbo) passado simples do verbo leaf
+LEAFIER	(forma de leafy) (adjetivo) frondoso: folhudo, ramoso; que tem muitas folhas, coberto de folhas
+LEAFIEST	(forma de leafy) (adjetivo) frondoso: folhudo, ramoso; que tem muitas folhas, coberto de folhas
+LEAFING	(verbo) gerúndio do verbo leaf
+LEAFS	(verbo) terceira pessoa do singular do verbo leaf
+LEAFY	(adjetivo) frondoso: folhudo, ramoso; que tem muitas folhas, coberto de folhas
+LEAGUE	(substantivo) liga: associação de pessoas ou organizações com um determinado objetivo (também: légua)
+LEAGUED	(forma de league) (substantivo) liga: associação de pessoas ou organizações com um determinado objetivo (também: légua)
+LEAGUES	(forma de league) (substantivo) liga: associação de pessoas ou organizações com um determinado objetivo (também: légua)
+LEAGUING	(forma de league) (substantivo) liga: associação de pessoas ou organizações com um determinado objetivo (também: légua)
+LEAK	(substantivo) vazamento: transmissão sem consentimento de forma de informação para fora de organização ou entidade\n(verbo) vazar: ir embora; fugir (também: gotejar)
+LEAKED	(forma de leak) (substantivo) vazamento: transmissão sem consentimento de forma de informação para fora de organização ou entidade
+LEAKING	(forma de leak) (substantivo) vazamento: transmissão sem consentimento de forma de informação para fora de organização ou entidade
+LEAKS	(forma de leak) (substantivo) vazamento: transmissão sem consentimento de forma de informação para fora de organização ou entidade
+LEAN	(adjetivo) magro, sem excessos, sem peso extra, enxuto\n(verbo) lean se traduz como apoiar-se
+LEANED	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANER	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANERS	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANEST	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANING	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANINGS	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANS	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEANT	(forma de lean) (adjetivo) magro, sem excessos, sem peso extra, enxuto
+LEAP	(verbo) saltar: se mover rapidamente para cima, a partir do solo ou do chão; pular
+LEAPED	(forma de leap) (verbo) saltar: se mover rapidamente para cima, a partir do solo ou do chão; pular
+LEAPING	(forma de leap) (verbo) saltar: se mover rapidamente para cima, a partir do solo ou do chão; pular
+LEAPS	(forma de leap) (verbo) saltar: se mover rapidamente para cima, a partir do solo ou do chão; pular
+LEAPT	(forma de leap) (verbo) saltar: se mover rapidamente para cima, a partir do solo ou do chão; pular
+LEARN	(substantivo) aprender: adquirir o conhecimento de
+LEARNED	(adjetivo) culto: pessoa que tem cultura; instruído, letrado (também: doutor, sábio)\n(verbo) passado simples e particípio do verbo learn. (aprender)
+LEARNEDLY	(advérbio) cultamente: de forma culta
+LEARNING	(substantivo) aprendizado; aprendizagem; o ato de aprender
+LEARNINGS	(forma de learn) (substantivo) aprender: adquirir o conhecimento de
+LEARNS	(forma de learn) (substantivo) aprender: adquirir o conhecimento de
+LEARNT	(forma de learn) (substantivo) aprender: adquirir o conhecimento de
+LEASE	(substantivo) lease se traduz como ⟪aluguel⟫\n(verbo) arrendar: dar ou tomar de renda
+LEASED	(forma de lease) (substantivo) lease se traduz como ⟪aluguel⟫
+LEASES	(forma de lease) (substantivo) lease se traduz como ⟪aluguel⟫
+LEASH	(substantivo) coleira: peça geralmente de couro com que se cinge o pescoço dos cães e de outros animais
+LEASHED	(forma de leash) (substantivo) coleira: peça geralmente de couro com que se cinge o pescoço dos cães e de outros animais
+LEASHES	(forma de leash) (substantivo) coleira: peça geralmente de couro com que se cinge o pescoço dos cães e de outros animais
+LEASHING	(forma de leash) (substantivo) coleira: peça geralmente de couro com que se cinge o pescoço dos cães e de outros animais
+LEASING	(substantivo) aluguel: cedência ou compra de um objeto ou serviço por tempo e preço determinados
+LEASINGS	(forma de lease) (substantivo) lease se traduz como ⟪aluguel⟫
+LEAST	(adjetivo) mínimo: básico (também: menor)\n(advérbio) mínimo: básico (também: o menos)
+LEASTS	(forma de least) (adjetivo) mínimo: básico (também: menor)
+LEATHER	(substantivo) couro: pele animal curtida\n(adjetivo) feito de couro
+LEATHERED	(forma de leather) (substantivo) couro: pele animal curtida
+LEATHERING	(forma de leather) (substantivo) couro: pele animal curtida
+LEATHERS	(forma de leather) (substantivo) couro: pele animal curtida
+LEAVE	(substantivo) permissão para deixar o posto\n(verbo) deixar para trás, abandonar
+LEAVED	(forma de leave) (substantivo) permissão para deixar o posto
+LEAVES	(substantivo) leaves se traduz como ⟪folhas⟫\n(verbo) terceira pessoa do singular do presente simples de leave: permissão para deixar o posto
+LEAVING	(forma de leave) (substantivo) permissão para deixar o posto
+LEAVINGS	(forma de leave) (substantivo) permissão para deixar o posto
+LECTURE	(substantivo) lecture se traduz como ⟪palestra⟫\n(verbo) palestrar: conceder ou manter palestra
+LECTURED	(forma de lecture) (substantivo) lecture se traduz como ⟪palestra⟫
+LECTURER	(substantivo) docente: professor
+LECTURERS	(forma de lecturer) (substantivo) docente: professor
+LECTURES	(forma de lecture) (substantivo) lecture se traduz como ⟪palestra⟫
+LECTURING	(forma de lecture) (substantivo) lecture se traduz como ⟪palestra⟫
+LED	(forma de lead) (adjetivo) o mais importante
+LEE	(substantivo) porto ou cais protegido do vento
+LEECH	(substantivo) sanguessuga: verme parasita temporário
+LEECHED	(forma de leech) (substantivo) sanguessuga: verme parasita temporário
+LEECHES	(forma de leech) (substantivo) sanguessuga: verme parasita temporário
+LEECHING	(forma de leech) (substantivo) sanguessuga: verme parasita temporário
+LEEK	(substantivo) porro: alho silvestre também chamado de alho-porro
+LEEKS	(forma de leek) (substantivo) porro: alho silvestre também chamado de alho-porro
+LEES	(substantivo) borra: resíduos em suspensão num líquido que acabam repousando, fezes do vinho, do azeite
+LEET	(substantivo) forma de criptografar a escrita usando substituição de letras por números e outros sinais
+LEETS	(forma de leet) (substantivo) forma de criptografar a escrita usando substituição de letras por números e outros sinais
+LEEWARD	(substantivo) sotavento: direção para onde o vento está indo (também: sota-vento)
+LEEWARDS	(forma de leeward) (substantivo) sotavento: direção para onde o vento está indo (também: sota-vento)
+LEFT	(substantivo) esquerda: lado oposto ao direito\n(adjetivo) esquerdo: oblíquo, atravessado, de revestrés, torto, de má vontade
+LEFTER	(forma de leave) (substantivo) permissão para deixar o posto
+LEFTEST	(forma de leave) (substantivo) permissão para deixar o posto
+LEFTS	(forma de leave) (substantivo) permissão para deixar o posto
+LEG	(substantivo) perna: a porção dos membros posteriores entre o joelho e o calcanhar
+LEGACIES	(forma de legacy) (substantivo) legacy se traduz como ⟪legado⟫
+LEGACY	(substantivo) legacy se traduz como ⟪legado⟫
+LEGAL	(adjetivo) legal: de acordo com a lei
+LEGALISM	(substantivo) legalism se traduz como ⟪legalismo⟫
+LEGALISMS	(forma de legalism) (substantivo) legalism se traduz como ⟪legalismo⟫
+LEGALITIES	(forma de legality) (substantivo) licitude: diz-se de toda conduta permitida pela lei, ou que a lei não proíba; aquilo que é lícito
+LEGALITY	(substantivo) licitude: diz-se de toda conduta permitida pela lei, ou que a lei não proíba; aquilo que é lícito
+LEGALS	(forma de legal) (adjetivo) legal: de acordo com a lei
+LEGEND	(substantivo) lenda: narrativa ou crendice em que se explica a existência de seres maravilhosos e encantatórios
+LEGENDARILY	(advérbio) legendariamente: de forma legendária (também: lendariamente)
+LEGENDARY	(adjetivo) lendário: relativo a lenda; que se tornou lenda (também: legendário)
+LEGENDS	(forma de legend) (substantivo) lenda: narrativa ou crendice em que se explica a existência de seres maravilhosos e encantatórios
+LEGES	(forma de leg) (substantivo) perna: a porção dos membros posteriores entre o joelho e o calcanhar
+LEGGING	(substantivo) legging: calças justas que vão da cintura até o tornozelo e são frequentemente usadas em exercícios e práticas esportivas
+LEGGINGS	(forma de legging) (substantivo) legging: calças justas que vão da cintura até o tornozelo e são frequentemente usadas em exercícios e...
+LEGIBLE	(adjetivo) legível: que se pode ler
+LEGIBLY	(advérbio) legivelmente: de modo legível
+LEGISLATE	(verbo) legislar: criar leis
+LEGISLATED	(forma de legislate) (verbo) legislar: criar leis
+LEGISLATES	(forma de legislate) (verbo) legislar: criar leis
+LEGISLATING	(adjetivo) legislating se traduz como ⟪legiferante⟫
+LEGISLATIVELY	(advérbio) legislativamente: de forma legislativa
+LEGISLATOR	(substantivo) legislador: pessoa que tem competência para legislar (também: congressista, legisladora)
+LEGISLATORS	(forma de legislator) (substantivo) legislador: pessoa que tem competência para legislar (também: congressista, legisladora)
+LEGISLATURE	(substantivo) legislature se traduz como Poder Legislativo, ⟪legislatura⟫
+LEGISLATURES	(forma de legislature) (substantivo) legislature se traduz como Poder Legislativo, ⟪legislatura⟫
+LEGITIMACIES	(forma de legitimacy) (substantivo) validade: legitimidade (também: legitimidade, validez)
+LEGITIMACY	(substantivo) validade: legitimidade (também: legitimidade, validez)
+LEGITIMATE	(adjetivo) legítimo: de acordo com a lei; legal
+LEGITIMATED	(forma de legitimate) (adjetivo) legítimo: de acordo com a lei; legal
+LEGITIMATELY	(advérbio) legitimamente: de modo legítimo (também: lidimamente)
+LEGITIMATES	(forma de legitimate) (adjetivo) legítimo: de acordo com a lei; legal
+LEGITIMATING	(forma de legitimate) (adjetivo) legítimo: de acordo com a lei; legal
+LEGUME	(substantivo) legume se traduz como ⟪legume⟫
+LEGUMES	(substantivo) plural de legume: legume
+LEI	(substantivo) guirlanda de flores no Havaí
+LEIS	(forma de lei) (substantivo) guirlanda de flores no Havaí
+LEISURELY	(advérbio) calmamente: de modo calmo (também: sem pressa)
+LEITMOTIF	(substantivo) leitmotiv: frase musical curta e constantemente recorrente em uma ópera
+LEITMOTIFS	(forma de leitmotif) (substantivo) leitmotiv: frase musical curta e constantemente recorrente em uma ópera
+LEITMOTIV	(substantivo) leitmotiv: frase musical curta e constantemente recorrente em uma ópera
+LEITMOTIVS	(forma de leitmotiv) (substantivo) leitmotiv: frase musical curta e constantemente recorrente em uma ópera
+LEMMA	(substantivo) lema: a forma canônica de uma palavra
+LEMMAS	(forma de lemma) (substantivo) lema: a forma canônica de uma palavra
+LEMMATA	(forma de lemma) (substantivo) lema: a forma canônica de uma palavra
+LEMMING	(substantivo) lemingue: pequeno roedor, encontrado geralmente no bioma ártico da tundra (também: lemingo, lémingue)
+LEMMINGS	(forma de lemming) (substantivo) lemingue: pequeno roedor, encontrado geralmente no bioma ártico da tundra (também: lemingo, lémingue)
+LEMNISCATE	(substantivo) lemniscate se traduz como ⟪lemniscata⟫
+LEMNISCATES	(forma de lemniscate) (substantivo) lemniscate se traduz como ⟪lemniscata⟫
+LEMON	(substantivo) limão: fruto do limoeiro, de forma ovoide, cítrico de cor verde-amarela e de sabor ácido
+LEMONADE	(substantivo) limonada: bebida refrigerante feita com sumo de limão ou ácido cítrico, normalmente adoçada, por vezes ingerida com fim terapêutico ou preventivo
+LEMONADES	(forma de lemonade) (substantivo) limonada: bebida refrigerante feita com sumo de limão ou ácido cítrico, normalmente adoçada, por vezes...
+LEMONS	(forma de lemon) (substantivo) limão: fruto do limoeiro, de forma ovoide, cítrico de cor verde-amarela e de sabor ácido
+LEMUR	(substantivo) lemur se traduz como ⟪lêmure|LEMURE⟫
+LEMURS	(forma de lemur) (substantivo) lemur se traduz como ⟪lêmure|LEMURE⟫
+LEND	(verbo) permitir algo ser usado por alguém temporariamente sob a condição de que aquele ou seu equivalente seja devolvido; emprestar
+LENDING	(forma de lend) (verbo) permitir algo ser usado por alguém temporariamente sob a condição de que aquele ou seu equivalente seja...
+LENDS	(forma de lend) (verbo) permitir algo ser usado por alguém temporariamente sob a condição de que aquele ou seu equivalente seja...
+LENGTH	(substantivo) extensão: dimensão (também: comprimento)
+LENGTHIER	(forma de lengthy) (adjetivo) prolongado: que se prolongou
+LENGTHIEST	(forma de lengthy) (adjetivo) prolongado: que se prolongou
+LENGTHILY	(advérbio) compridamente: de forma comprida (também: alongadamente)
+LENGTHS	(forma de length) (substantivo) extensão: dimensão (também: comprimento)
+LENGTHY	(adjetivo) prolongado: que se prolongou
+LENIENCIES	(forma de leniency) (substantivo) leniência: tolerância com o que é ilícito ou proibido; condescendência
+LENIENCY	(substantivo) leniência: tolerância com o que é ilícito ou proibido; condescendência
+LENITIVE	(adjetivo) que abranda dores\n(substantivo) lenitivo: analgésico
+LENITIVELY	(advérbio) de modo lenitivo.
+LENITIVES	(forma de lenitive) (adjetivo) que abranda dores
+LENS	(substantivo) lente de contato
+LENSED	(forma de lens) (substantivo) lente de contato
+LENSING	(forma de lens) (substantivo) lente de contato
+LENT	(forma de lend) (verbo) permitir algo ser usado por alguém temporariamente sob a condição de que aquele ou seu equivalente seja...
+LENTIL	(substantivo) lentilha: planta herbácea da família das leguminosas com sementes comestíveis cujo nome científico é Lens culinaris
+LENTILS	(forma de lentil) (substantivo) lentilha: planta herbácea da família das leguminosas com sementes comestíveis cujo nome científico é Lens...
+LENTO	(advérbio) lentamente: de modo lento, com lentidão; vagarosamente
+LENTOS	(forma de lento) (advérbio) lentamente: de modo lento, com lentidão; vagarosamente
+LEONINE	(adjetivo) leonino: relativo ou semelhante a leão (também: leónico)
+LEOPARD	(substantivo) leopardo: mamífero carnívoro da família dos felídeos (Panthera pardus)
+LEOPARDESS	(substantivo) fêmea do leopardo
+LEOPARDESSES	(forma de leopardess) (substantivo) fêmea do leopardo
+LEOPARDS	(forma de leopard) (substantivo) leopardo: mamífero carnívoro da família dos felídeos (Panthera pardus)
+LEOTARD	(substantivo) leotard se traduz como colã ^)
+LEPIDOPTERAN	(substantivo) lepidopteran se traduz como ⟪lepidóptero|LEPIDOPTERO⟫
+LEPIDOPTERANS	(forma de lepidopteran) (substantivo) lepidopteran se traduz como ⟪lepidóptero|LEPIDOPTERO⟫
+LEPIDOPTEROLOGIES	(forma de lepidopterology) (substantivo) lepidopterologia: ramo da entomologia dedicado ao estudo dos lepidópteros (borboletas, mariposas,...
+LEPIDOPTEROLOGY	(substantivo) lepidopterologia: ramo da entomologia dedicado ao estudo dos lepidópteros (borboletas, mariposas, traças), sua distribuição, hábitos, etapas de desenvolvimento (ínstares larvais, pupa, metamorfose, etc.), identificação dos caracteres conspícuos, presença ou não de dimorfismo sexual, plantas hospedeiras e...
+LEPRECHAUN	(substantivo) leprechaun se traduz como ⟪duende⟫
+LEPRECHAUNS	(forma de leprechaun) (substantivo) leprechaun se traduz como ⟪duende⟫
+LEPROSIES	(forma de leprosy) (substantivo) lepra: na Antiguidade, designação de diversas doenças de pele, especialmente as de caráter crônico ou...
+LEPROSY	(substantivo) lepra: na Antiguidade, designação de diversas doenças de pele, especialmente as de caráter crônico ou contagioso
+LEPTA	(forma de lepton) (substantivo) lepton se traduz como ⟪lépton|LEPTON⟫, ⟪leptão|LEPTAO⟫
+LEPTON	(substantivo) lepton se traduz como ⟪lépton|LEPTON⟫, ⟪leptão|LEPTAO⟫
+LEPTONS	(forma de lepton) (substantivo) lepton se traduz como ⟪lépton|LEPTON⟫, ⟪leptão|LEPTAO⟫
+LEPTOSPIROSIS	(substantivo) leptospirose: zoonose causada por uma bactéria do tipo Leptospira
+LESBIAN	(adjetivo) lésbica: homossexual feminina, mulher atraída sexualmente por outras mulheres\n(substantivo) lésbica: homossexual feminina, mulher atraída sexualmente por outras mulheres
+LESBIANISM	(substantivo) lesbianismo: homossexualidade feminina
+LESBIANISMS	(forma de lesbianism) (substantivo) lesbianismo: homossexualidade feminina
+LESBIANS	(forma de lesbian) (adjetivo) lésbica: homossexual feminina, mulher atraída sexualmente por outras mulheres
+LESION	(substantivo) lesão: contusão
+LESIONED	(forma de lesion) (substantivo) lesão: contusão
+LESIONS	(forma de lesion) (substantivo) lesão: contusão
+LESS	(substantivo) menos: forma comparativa de pouco; quantidade inferior de:\n(adjetivo) menos: forma comparativa de pouco; quantidade inferior de:
+LESSEN	(verbo) reduzir: diminuir o tamanho ou intensidade (também: diminuir)
+LESSENED	(forma de lessen) (verbo) reduzir: diminuir o tamanho ou intensidade (também: diminuir)
+LESSENING	(forma de lessen) (verbo) reduzir: diminuir o tamanho ou intensidade (também: diminuir)
+LESSENS	(forma de lessen) (verbo) reduzir: diminuir o tamanho ou intensidade (também: diminuir)
+LESSON	(substantivo) lição: ensinamento dado pelo professor ao aluno (também: aula)
+LESSONED	(forma de lesson) (substantivo) lição: ensinamento dado pelo professor ao aluno (também: aula)
+LESSONING	(forma de lesson) (substantivo) lição: ensinamento dado pelo professor ao aluno (também: aula)
+LESSONS	(forma de lesson) (substantivo) lição: ensinamento dado pelo professor ao aluno (também: aula)
+LEST	(conjunção) para amenizar a consequência de um infortúnio hipotético + subjuntivo ou indicativo
+LET	(substantivo) let se traduz como ⟪obstáculo|OBSTACULO⟫\n(verbo) deixar: retirar-se ou afastar-se de algo ou alguém
+LETHAL	(adjetivo) letal: relativo à morte
+LETHALLY	(advérbio) letalmente: de modo letal
+LETHALS	(forma de lethal) (adjetivo) letal: relativo à morte
+LETHARGIC	(adjetivo) lethargic se traduz como ⟪letárgico|LETARGICO⟫
+LETHARGICALLY	(advérbio) letargicamente: de modo letárgico
+LETS	(forma de let) (substantivo) let se traduz como ⟪obstáculo|OBSTACULO⟫
+LETTER	(substantivo) carta: documento escrito que se endereça a uma pessoa
+LETTERED	(forma de letter) (substantivo) carta: documento escrito que se endereça a uma pessoa
+LETTERING	(forma de letter) (substantivo) carta: documento escrito que se endereça a uma pessoa
+LETTERINGS	(forma de letter) (substantivo) carta: documento escrito que se endereça a uma pessoa
+LETTERS	(forma de letter) (substantivo) carta: documento escrito que se endereça a uma pessoa
+LETTING	(forma de let) (substantivo) let se traduz como ⟪obstáculo|OBSTACULO⟫
+LETTUCE	(substantivo) lettuce se traduz como ⟪alface⟫
+LETTUCES	(forma de lettuce) (substantivo) lettuce se traduz como ⟪alface⟫
+LEU	(substantivo) leu se traduz como ⟪leu⟫
+LEUKEMIA	(substantivo) leucemia: neoplasia maligna que atinge o sangue mas que tem origem na medula óssea
+LEUKEMIAS	(forma de leukemia) (substantivo) leucemia: neoplasia maligna que atinge o sangue mas que tem origem na medula óssea
+LEUKOCYTE	(substantivo) leucócito: célula (glóbulo) branca presente no sangue
+LEUKOCYTES	(forma de leukocyte) (substantivo) leucócito: célula (glóbulo) branca presente no sangue
+LEUKOCYTOSIS	(substantivo) leucocitose: estado anormal do corpo caracterizado pelo elevado número de leucócitos na corrente sanguínea
+LEUKOCYTOSISES	(forma de leukocytosis) (substantivo) leucocitose: estado anormal do corpo caracterizado pelo elevado número de leucócitos na corrente sanguínea
+LEVEE	(substantivo) levee se traduz como ⟪dique⟫
+LEVEEING	(forma de levee) (substantivo) levee se traduz como ⟪dique⟫
+LEVEES	(forma de levee) (substantivo) levee se traduz como ⟪dique⟫
+LEVEL	(adjetivo) level se traduz como ⟪liso⟫\n(substantivo) level se traduz como ⟪livel⟫, ⟪nível|NIVEL⟫
+LEVELED	(adjetivo) nivelado: colocado em um mesmo nível
+LEVELING	(forma de level) (adjetivo) level se traduz como ⟪liso⟫
+LEVELLED	(forma de level) (adjetivo) level se traduz como ⟪liso⟫
+LEVELLER	(substantivo) leveller se traduz como nivelador
+LEVELLERS	(forma de leveller) (substantivo) leveller se traduz como nivelador
+LEVELLING	(forma de level) (adjetivo) level se traduz como ⟪liso⟫
+LEVELS	(forma de level) (adjetivo) level se traduz como ⟪liso⟫
+LEVER	(substantivo) lever se traduz como ⟪alavanca⟫
+LEVERAGE	(substantivo) leverage se traduz como ⟪alavanca⟫\n(verbo) leverage se traduz como ⟪alavancar⟫
+LEVERAGED	(forma de leverage) (substantivo) leverage se traduz como ⟪alavanca⟫
+LEVERAGES	(forma de leverage) (substantivo) leverage se traduz como ⟪alavanca⟫
+LEVERAGING	(substantivo) leveraging se traduz como alavancamento
+LEVERED	(forma de lever) (substantivo) lever se traduz como ⟪alavanca⟫
+LEVERING	(forma de lever) (substantivo) lever se traduz como ⟪alavanca⟫
+LEVERS	(forma de lever) (substantivo) lever se traduz como ⟪alavanca⟫
+LEVIED	(forma de levy) (substantivo) levy se traduz como ⟪arrecadação|ARRECADAÇAO⟫
+LEVIES	(forma de levy) (substantivo) levy se traduz como ⟪arrecadação|ARRECADAÇAO⟫
+LEVOROTARY	(adjetivo) levogiro: diz-se de uma substância que faz girar para a esquerda o plano da luz polarizada quando se olha em direção à fonte
+LEVY	(substantivo) levy se traduz como ⟪arrecadação|ARRECADAÇAO⟫\n(verbo) arrecadar: fazer arrecadação, cobrar, receber:
+LEVYING	(forma de levy) (substantivo) levy se traduz como ⟪arrecadação|ARRECADAÇAO⟫
+LEWD	(adjetivo) indecente: que não é decente; indecoroso; desonesto; inconveniente (também: lascivo)
+LEWDER	(forma de lewd) (adjetivo) indecente: que não é decente; indecoroso; desonesto; inconveniente (também: lascivo)
+LEWDEST	(forma de lewd) (adjetivo) indecente: que não é decente; indecoroso; desonesto; inconveniente (também: lascivo)
+LEXEME	(substantivo) lexeme se traduz como ⟪lexema⟫, ⟪semantema⟫
+LEXEMES	(forma de lexeme) (substantivo) lexeme se traduz como ⟪lexema⟫, ⟪semantema⟫
+LEXICAL	(adjetivo) lexical: relativo ao léxico
+LEXICALLY	(advérbio) lexicalmente: de forma lexical
+LEXICOGRAPHER	(substantivo) lexicógrafo: autor de dicionário
+LEXICOGRAPHERS	(forma de lexicographer) (substantivo) lexicógrafo: autor de dicionário
+LEXICOGRAPHIES	(forma de lexicography) (substantivo) lexicografia: ciência e técnica da elaboração de dicionários
+LEXICOGRAPHY	(substantivo) lexicografia: ciência e técnica da elaboração de dicionários
+LEXICOLOGIES	(forma de lexicology) (substantivo) lexicology se traduz como ⟪lexicologia⟫
+LEXICOLOGY	(substantivo) lexicology se traduz como ⟪lexicologia⟫
+LEXICON	(substantivo) léxicon: os vocábulos de uma língua; léxico
+LEXICONS	(forma de lexicon) (substantivo) léxicon: os vocábulos de uma língua; léxico
+LIABILITY	(substantivo) responsabilidade: encargo pelo qual se responde ou se é responsável (também: obrigação)
+LIABLE	(adjetivo) liable se traduz como ⟪responsável|RESPONSAVEL⟫
+LIANA	(substantivo) liana: nome genérico de trepadeiras da zona tropical, lenhosas e sarmentosas
+LIANAS	(forma de liana) (substantivo) liana: nome genérico de trepadeiras da zona tropical, lenhosas e sarmentosas
+LIANE	(substantivo) liane se traduz como ⟪cipó|CIPO⟫
+LIANES	(forma de liane) (substantivo) liane se traduz como ⟪cipó|CIPO⟫
+LIAR	(substantivo) liar se traduz como ⟪mentiroso⟫
+LIARS	(forma de liar) (substantivo) liar se traduz como ⟪mentiroso⟫
+LIBATION	(substantivo) libação: oferta de líquidos, em geral de vinho ou de azeite, derramados em sacrifício de dedicação a um deus
+LIBATIONS	(forma de libation) (substantivo) libação: oferta de líquidos, em geral de vinho ou de azeite, derramados em sacrifício de dedicação a um...
+LIBEL	(substantivo) libel se traduz como ⟪difamação|DIFAMAÇAO⟫, ⟪calúnia|CALUNIA⟫\n(verbo) caluniar: difamar falsamente (também: difamar)
+LIBELED	(verbo) passado simples e particípio do verbo libel: difamação, calúnia
+LIBELING	(verbo) gerúndio do verbo libel: difamação, calúnia
+LIBELLED	(verbo) passado simples e particípio do verbo libel: difamação, calúnia
+LIBELLER	(forma de libel) (substantivo) libel se traduz como ⟪difamação|DIFAMAÇAO⟫, ⟪calúnia|CALUNIA⟫
+LIBELLING	(verbo) gerúndio do verbo libel: difamação, calúnia
+LIBELS	(substantivo) plural de libel: difamação, calúnia\n(verbo) terceira pessoa do singular do verbo libel: difamação, calúnia
+LIBERAL	(adjetivo) liberal: generoso (também: liberalista)\n(substantivo) liberal: generoso (também: liberalista)
+LIBERALISM	(substantivo) liberalismo: doutrina baseada na defesa da liberdade individual, nos campos econômico, político, social, religioso e intelectual, contra as ingerências e atitudes controladoras do poder estatal, sobretudo no funcionamento do mercado que deveria ter livre concorrência, valorizando o indivíduo em detrimento do...
+LIBERALISMS	(forma de liberalism) (substantivo) liberalismo: doutrina baseada na defesa da liberdade individual, nos campos econômico, político, social,...
+LIBERALITIES	(forma de liberality) (substantivo) liberalidade: qualidade ou condição de ser liberal ao dar algo; generosidade
+LIBERALITY	(substantivo) liberalidade: qualidade ou condição de ser liberal ao dar algo; generosidade
+LIBERALIZATION	(substantivo) liberalização: processo ou ato de tornar algo mais liberal
+LIBERALIZATIONS	(forma de liberalization) (substantivo) liberalização: processo ou ato de tornar algo mais liberal
+LIBERALLY	(advérbio) liberalmente: de forma liberal
+LIBERALS	(substantivo) plural de liberal: liberal, liberalista
+LIBERATE	(verbo) liberate se traduz como ⟪libertar⟫
+LIBERATED	(forma de liberate) (verbo) liberate se traduz como ⟪libertar⟫
+LIBERATES	(forma de liberate) (verbo) liberate se traduz como ⟪libertar⟫
+LIBERATING	(forma de liberate) (verbo) liberate se traduz como ⟪libertar⟫
+LIBERATOR	(substantivo) libertador: aquele que livra uma pessoa de grande perigo, um povo da escravidão
+LIBERATORS	(forma de liberator) (substantivo) libertador: aquele que livra uma pessoa de grande perigo, um povo da escravidão
+LIBERTARIAN	(substantivo) libertário: indivíduo partidário ou simpatizante do socialismo libertário ou membro de organização política que defenda essa filosofia política
+LIBERTARIANISM	(substantivo) libertarianism se traduz como ⟪libertarismo⟫
+LIBERTARIANISMS	(forma de libertarianism) (substantivo) libertarianism se traduz como ⟪libertarismo⟫
+LIBERTARIANS	(forma de libertarian) (substantivo) libertário: indivíduo partidário ou simpatizante do socialismo libertário ou membro de organização...
+LIBERTIES	(forma de liberty) (substantivo) liberdade: imunidades, regalias concedidas aos cidadãos pela lei fundamental do país
+LIBERTINE	(adjetivo) libertino: devasso, imoral
+LIBERTINES	(forma de libertine) (adjetivo) libertino: devasso, imoral
+LIBERTY	(substantivo) liberdade: imunidades, regalias concedidas aos cidadãos pela lei fundamental do país
+LIBIDINOUS	(adjetivo) libidinoso: que tem desejos sexuais intensos e constantes; devasso
+LIBIDINOUSLY	(advérbio) libidinosamente: de forma libidinosa
+LIBIDO	(substantivo) libido: impulso ou desejo sexual; afrodisia
+LIBIDOS	(forma de libido) (substantivo) libido: impulso ou desejo sexual; afrodisia
+LIBRARIAN	(substantivo) bibliotecário: profissional formado em biblioteconomia que trata a informação e a torna acessível, trabalhando em bibliotecas e centros de documentação
+LIBRARIANS	(forma de librarian) (substantivo) bibliotecário: profissional formado em biblioteconomia que trata a informação e a torna acessível,...
+LIBRARIANSHIP	(substantivo) biblioteconomia: o curso superior que ensina a biblioteconomia
+LIBRARIANSHIPS	(forma de librarianship) (substantivo) biblioteconomia: o curso superior que ensina a biblioteconomia
+LIBRARIES	(forma de library) (substantivo) biblioteca: sala ou edifício onde se guardam livros
+LIBRARY	(substantivo) biblioteca: sala ou edifício onde se guardam livros
+LIBRATION	(substantivo) libração: movimento oscilante aparente da Lua
+LIBRATIONS	(forma de libration) (substantivo) libração: movimento oscilante aparente da Lua
+LIBRETTIST	(substantivo) librettist se traduz como ⟪libretista⟫
+LIBRETTISTS	(forma de librettist) (substantivo) librettist se traduz como ⟪libretista⟫
+LICE	(forma de louse) (substantivo) piolho: inseto parasita que suga o sangue de vertebrados e lhes transmite várias doenças
+LICENCE	(substantivo) o mesmo que license: licença (documento)\n(verbo) grafia não padrão de license: autorizar, permitir, licenciar
+LICENCED	(verbo) passado simples do verbo licence
+LICENCEES	(forma de licence) (substantivo) o mesmo que license: licença (documento)
+LICENCES	(substantivo) plural de licence\n(verbo) terceira pessoa do singular do verbo licence
+LICENCING	(verbo) gerúndio do verbo licence
+LICENSE	(substantivo) licença: documento legal que dá permissão oficial para fazer algo\n(verbo) license se traduz como autorizar oficialmente
+LICENSED	(verbo) passado simples do verbo license
+LICENSES	(substantivo) plural de license\n(verbo) terceira pessoa do singular do verbo license
+LICENSING	(verbo) gerúndio do verbo license
+LICENTIATE	(substantivo) licenciatura: ato de graduar alguém em licenciatura
+LICENTIATES	(forma de licentiate) (substantivo) licenciatura: ato de graduar alguém em licenciatura
+LICENTIOUSLY	(advérbio) licenciosamente: de modo licencioso (também: libertinamente)
+LICHEN	(substantivo) líquen: espécie de impigem no rosto
+LICHENING	(forma de lichen) (substantivo) líquen: espécie de impigem no rosto
+LICHENS	(forma de lichen) (substantivo) líquen: espécie de impigem no rosto
+LICIT	(adjetivo) licit se traduz como ⟪lícito|LICITO⟫
+LICITLY	(advérbio) licitamente: de modo lícito
+LICK	(substantivo) lick se traduz como ⟪lambida⟫\n(verbo) lamber: andar satisfeitíssimo; apurar-se; vangloriar-se
+LICKED	(forma de lick) (substantivo) lick se traduz como ⟪lambida⟫
+LICKING	(forma de lick) (substantivo) lick se traduz como ⟪lambida⟫
+LICKINGS	(forma de lick) (substantivo) lick se traduz como ⟪lambida⟫
+LICKS	(forma de lick) (substantivo) lick se traduz como ⟪lambida⟫
+LID	(substantivo) lid se traduz como ⟪tampa⟫
+LIDDING	(forma de lid) (substantivo) lid se traduz como ⟪tampa⟫
+LIDS	(forma de lid) (substantivo) lid se traduz como ⟪tampa⟫
+LIE	(substantivo) lie se traduz como ⟪mentira⟫\n(verbo) lie se traduz como ⟪mentir⟫
+LIED	(substantivo) canção: canto\n(verbo) flexão do verbo "to lie": mentira
+LIEDER	(forma de lie) (substantivo) lie se traduz como ⟪mentira⟫
+LIES	(forma de lie) (substantivo) lie se traduz como ⟪mentira⟫
+LIEUTENANT	(substantivo) lieutenant se traduz como ⟪tenente⟫
+LIEUTENANTS	(substantivo) plural de lieutenant: tenente
+LIFE	(substantivo) vida: propriedade que caracteriza os organismos cuja existência evolui do nascimento até a morte
+LIFEBOAT	(substantivo) lifeboat se traduz como barco salva-vidas
+LIFEBOATS	(forma de lifeboat) (substantivo) lifeboat se traduz como barco salva-vidas
+LIFEGUARD	(substantivo) lifeguard se traduz como guarda-vidas
+LIFEGUARDS	(forma de lifeguard) (substantivo) lifeguard se traduz como guarda-vidas
+LIFELONG	(adjetivo) vitalício: para a vida toda
+LIFETIME	(substantivo) duração de vida
+LIFETIMES	(forma de lifetime) (substantivo) duração de vida
+LIFT	(substantivo) carona: ato de transportar em um veículo, normalmente de forma gratuita (também: levada)\n(verbo) elevar: fazer subir (também: erguer)
+LIFTED	(verbo) passado simples e particípio do verbo lift: carona, levada
+LIFTING	(substantivo) cirurgia plástica para fortalecer os tecidos faciais e retirar rugas\n(verbo) gerúndio do verbo lift: carona, levada
+LIFTS	(substantivo) plural de lift: carona, levada\n(verbo) 3ª pessoa do singular do verbo lift: carona, levada
+LIGAMENT	(substantivo) ligamento: toda a parte fibrosa que liga as articulações
+LIGAMENTS	(forma de ligament) (substantivo) ligamento: toda a parte fibrosa que liga as articulações
+LIGAND	(substantivo) ligand se traduz como ⟪ligando⟫, ligante
+LIGANDS	(forma de ligand) (substantivo) ligand se traduz como ⟪ligando⟫, ligante
+LIGATURE	(substantivo) ligature se traduz como ⟪ligatura⟫
+LIGATURED	(forma de ligature) (substantivo) ligature se traduz como ⟪ligatura⟫
+LIGATURES	(forma de ligature) (substantivo) ligature se traduz como ⟪ligatura⟫
+LIGATURING	(forma de ligature) (substantivo) ligature se traduz como ⟪ligatura⟫
+LIGER	(substantivo) ligre: animal híbrido, produto do cruzamento de um leão com uma tigresa
+LIGERS	(forma de liger) (substantivo) ligre: animal híbrido, produto do cruzamento de um leão com uma tigresa
+LIGHT	(adjetivo) leve: que tem pouco peso\n(substantivo) luz: única radiação captada pelo olho humano
+LIGHTED	(forma de light) (adjetivo) leve: que tem pouco peso
+LIGHTEN	(verbo) clarear: tornar claro
+LIGHTENED	(forma de lighten) (verbo) clarear: tornar claro
+LIGHTENER	(forma de lighten) (verbo) clarear: tornar claro
+LIGHTENING	(forma de lighten) (verbo) clarear: tornar claro
+LIGHTENS	(forma de lighten) (verbo) clarear: tornar claro
+LIGHTER	(substantivo) isqueiro: utensílio com torcida humedecida de gasolina ou saída de gás, que se inflama pelo atrito de uma roda dentada sobre uma pedra abrasiva apropriada ou por um inflamador elétrico adequado
+LIGHTERED	(forma de lighter) (substantivo) isqueiro: utensílio com torcida humedecida de gasolina ou saída de gás, que se inflama pelo atrito de uma...
+LIGHTERING	(forma de lighter) (substantivo) isqueiro: utensílio com torcida humedecida de gasolina ou saída de gás, que se inflama pelo atrito de uma...
+LIGHTERS	(forma de lighter) (substantivo) isqueiro: utensílio com torcida humedecida de gasolina ou saída de gás, que se inflama pelo atrito de uma...
+LIGHTEST	(forma de light) (adjetivo) leve: que tem pouco peso
+LIGHTHOUSE	(substantivo) farol: torre com foco luminoso que serve de guia à navegação (também: fanal)
+LIGHTHOUSES	(forma de lighthouse) (substantivo) farol: torre com foco luminoso que serve de guia à navegação (também: fanal)
+LIGHTING	(substantivo) iluminação: ato ou efeito de iluminar
+LIGHTINGS	(forma de light) (adjetivo) leve: que tem pouco peso
+LIGHTLY	(advérbio) lightly se traduz como ⟪levianamente⟫
+LIGHTNESS	(substantivo) lightness se traduz como ⟪leveza⟫
+LIGHTNESSES	(forma de lightness) (substantivo) lightness se traduz como ⟪leveza⟫
+LIGHTNING	(substantivo) relâmpago: clarão produzido pela descarga elétrica que ocorre entre nuvens de chuva ou entre uma destas nuvens e a terra
+LIGHTNINGED	(forma de lightning) (substantivo) relâmpago: clarão produzido pela descarga elétrica que ocorre entre nuvens de chuva ou entre uma destas...
+LIGHTNINGS	(forma de lightning) (substantivo) relâmpago: clarão produzido pela descarga elétrica que ocorre entre nuvens de chuva ou entre uma destas...
+LIGHTS	(forma de light) (adjetivo) leve: que tem pouco peso
+LIGHTWEIGHT	(substantivo) lightweight se traduz como peso-leve
+LIGHTWEIGHTS	(forma de lightweight) (substantivo) lightweight se traduz como peso-leve
+LIGNIN	(substantivo) lignina: macromolécula tridimensional amorfa encontrada nas plantas terrestres, associada à celulose na parede celular cuja função é de conferir rigidez, impermeabilidade e resistência a ataques microbiológicos e mecânicos aos tecidos vegetais
+LIGNINS	(forma de lignin) (substantivo) lignina: macromolécula tridimensional amorfa encontrada nas plantas terrestres, associada à celulose na...
+LIKE	(advérbio) like se traduz como ⟪como⟫, ⟪feito⟫\n(preposição) like se traduz como ⟪como⟫
+LIKED	(forma de like) (advérbio) like se traduz como ⟪como⟫, ⟪feito⟫
+LIKELIER	(forma de likely) (adjetivo) likely se traduz como ⟪provável|PROVAVEL⟫, ⟪plausível|PLAUSIVEL⟫, ⟪possível|POSSIVEL⟫
+LIKELIEST	(forma de likely) (adjetivo) likely se traduz como ⟪provável|PROVAVEL⟫, ⟪plausível|PLAUSIVEL⟫, ⟪possível|POSSIVEL⟫
+LIKELIHOOD	(substantivo) probabilidade: chance de algo ocorrer
+LIKELIHOODS	(forma de likelihood) (substantivo) probabilidade: chance de algo ocorrer
+LIKELY	(adjetivo) likely se traduz como ⟪provável|PROVAVEL⟫, ⟪plausível|PLAUSIVEL⟫, ⟪possível|POSSIVEL⟫\n(advérbio) provavelmente: quase certo; com grande probabilidade de acontecer
+LIKENESS	(substantivo) semelhança: parecença
+LIKENESSES	(forma de likeness) (substantivo) semelhança: parecença
+LIKER	(forma de like) (advérbio) like se traduz como ⟪como⟫, ⟪feito⟫
+LIKES	(forma de like) (advérbio) like se traduz como ⟪como⟫, ⟪feito⟫
+LIKEST	(forma de like) (advérbio) like se traduz como ⟪como⟫, ⟪feito⟫
+LIKEWISE	(advérbio) igualmente: de maneira semelhante, igual (também: mesmamente)
+LIKING	(substantivo) simpatia: sentimento bom em relação a outra pessoa
+LIKINGS	(forma de like) (advérbio) like se traduz como ⟪como⟫, ⟪feito⟫
+LILAC	(substantivo) lilac se traduz como ⟪lilás|LILAS⟫
+LILACS	(forma de lilac) (substantivo) lilac se traduz como ⟪lilás|LILAS⟫
+LILIES	(forma de lily) (substantivo) lírio: nome vulgar de algumas plantas bolbosas ou rizomatosas cultivadas com fins ornamentais
+LILY	(substantivo) lírio: nome vulgar de algumas plantas bolbosas ou rizomatosas cultivadas com fins ornamentais
+LIMB	(substantivo) membro de um animal (braço, perna, asa, nadadeira)
+LIMBIC	(adjetivo) límbico: relativo a limbo
+LIMBING	(forma de limb) (substantivo) membro de um animal (braço, perna, asa, nadadeira)
+LIMBS	(forma de limb) (substantivo) membro de um animal (braço, perna, asa, nadadeira)
+LIME	(adjetivo) lime se traduz como verde-claro\n(substantivo) lima: fruto da limeira; a própria limeira (também: limão)
+LIMED	(forma de lime) (adjetivo) lime se traduz como verde-claro
+LIMELIGHT	(substantivo) ribalta: fila de luzes à frente do palco, entre o pano de boca e o lugar destinado à orquestra
+LIMELIGHTED	(forma de limelight) (substantivo) ribalta: fila de luzes à frente do palco, entre o pano de boca e o lugar destinado à orquestra
+LIMELIGHTING	(forma de limelight) (substantivo) ribalta: fila de luzes à frente do palco, entre o pano de boca e o lugar destinado à orquestra
+LIMELIGHTS	(forma de limelight) (substantivo) ribalta: fila de luzes à frente do palco, entre o pano de boca e o lugar destinado à orquestra
+LIMES	(forma de lime) (adjetivo) lime se traduz como verde-claro
+LIMING	(forma de lime) (adjetivo) lime se traduz como verde-claro
+LIMIT	(substantivo) limite: número escalar real para o qual tende o valor de uma função quando o valor de seu argumento tende para algum valor determinado
+LIMITATION	(substantivo) limitação: ato ou efeito de limitar (também: prescrição)
+LIMITATIONS	(forma de limitation) (substantivo) limitação: ato ou efeito de limitar (também: prescrição)
+LIMITED	(adjetivo) limited se traduz como ⟪limitado⟫
+LIMITEDLY	(advérbio) limitadamente: de modo limitado
+LIMITEDS	(forma de limit) (substantivo) limite: número escalar real para o qual tende o valor de uma função quando o valor de seu argumento tende...
+LIMITES	(forma de limit) (substantivo) limite: número escalar real para o qual tende o valor de uma função quando o valor de seu argumento tende...
+LIMITING	(forma de limit) (substantivo) limite: número escalar real para o qual tende o valor de uma função quando o valor de seu argumento tende...
+LIMITLESS	(adjetivo) ilimitado: que não tem limite(s); infinito
+LIMITLESSLY	(forma de limitless) (adjetivo) ilimitado: que não tem limite(s); infinito
+LIMITS	(forma de limit) (substantivo) limite: número escalar real para o qual tende o valor de uma função quando o valor de seu argumento tende...
+LIMNOLOGIES	(forma de limnology) (substantivo) limnologia: estudo dos lagos
+LIMNOLOGY	(substantivo) limnologia: estudo dos lagos
+LIMO	(substantivo) limusine: carro de comprimento bem extenso, feito comumente da fusão da parte dianteira e da parte traseira de dois automóveis de mesmo modelo, muito espaçoso na parte reservada aos passageiros
+LIMOS	(forma de limo) (substantivo) limusine: carro de comprimento bem extenso, feito comumente da fusão da parte dianteira e da parte...
+LIMP	(adjetivo) capenga: desequilibrado, imperfeito, ineficiente\n(verbo) coxear: andar inclinando-se para um dos lados por defeito ou doença num pé ou numa perna
+LIMPED	(forma de limp) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente
+LIMPER	(forma de limp) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente
+LIMPERS	(forma de limp) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente
+LIMPEST	(forma de limp) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente
+LIMPET	(substantivo) lapa: molusco univalve da família dos patelídeos (Patella vulgata)
+LIMPETS	(forma de limpet) (substantivo) lapa: molusco univalve da família dos patelídeos (Patella vulgata)
+LIMPID	(adjetivo) límpido: claro, transparente,luminoso
+LIMPIDLY	(advérbio) limpidamente: de forma límpida
+LIMPING	(forma de limp) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente
+LIMPS	(forma de limp) (adjetivo) capenga: desequilibrado, imperfeito, ineficiente
+LINDEN	(substantivo) tília ou til; qualquer uma das árvores do gênero Tilia
+LINDENS	(substantivo) plural de linden: tília ou til; qualquer uma das árvores do gênero Tilia
+LINE	(substantivo) fila: sequência de pessoas ou coisas dispostas de forma organizada, em linha; enfiada
+LINEAGE	(substantivo) linhagem: genealogia
+LINEAGES	(forma de lineage) (substantivo) linhagem: genealogia
+LINEAR	(adjetivo) linear: diz-se da equação do primeiro grau
+LINEARLY	(advérbio) linearmente: de modo linear
+LINED	(forma de line) (substantivo) fila: sequência de pessoas ou coisas dispostas de forma organizada, em linha; enfiada
+LINEN	(substantivo) linho: tecido fabricado com as fibras do linho (planta)
+LINENS	(forma de linen) (substantivo) linho: tecido fabricado com as fibras do linho (planta)
+LINES	(substantivo) plural de line: fila
+LINGER	(verbo) ficar: deter, reter, manter sob sua posse (regência verbal com preposição: com) (também: permanecer)
+LINGERED	(verbo) particípio e pretérito imperfeito de linger
+LINGERING	(forma de linger) (verbo) ficar: deter, reter, manter sob sua posse (regência verbal com preposição: com) (também: permanecer)
+LINGERS	(forma de linger) (verbo) ficar: deter, reter, manter sob sua posse (regência verbal com preposição: com) (também: permanecer)
+LINGO	(substantivo) jargão: uso de palavras com significado restrito a um certo grupo, intencionalmente para evitar sejam compreendidas por outros
+LINGOES	(forma de lingo) (substantivo) jargão: uso de palavras com significado restrito a um certo grupo, intencionalmente para evitar sejam...
+LINGONBERRIES	(forma de lingonberry) (substantivo) lingonberry se traduz como arando-vermelho
+LINGONBERRY	(substantivo) lingonberry se traduz como arando-vermelho
+LINGUAL	(adjetivo) lingual se traduz como ⟪lingual⟫
+LINGUALS	(forma de lingual) (adjetivo) lingual se traduz como ⟪lingual⟫
+LINGUIST	(substantivo) linguista: aquele que é versado em linguística
+LINGUISTIC	(adjetivo) linguístico: relativo à linguística ou à língua
+LINGUISTICS	(substantivo) linguistics se traduz como linguística:
+LINGUISTS	(forma de linguist) (substantivo) linguista: aquele que é versado em linguística
+LINING	(forma de line) (substantivo) fila: sequência de pessoas ou coisas dispostas de forma organizada, em linha; enfiada
+LININGS	(forma de line) (substantivo) fila: sequência de pessoas ou coisas dispostas de forma organizada, em linha; enfiada
+LINK	(substantivo) ligação: ato ou efeito de ligar (também: vínculo)\n(verbo) conectar: ligar (aparelho) a uma rede elétrica ou computacional (também: ligar)
+LINKAGE	(substantivo) lincagem: conexão ou relação entre coisas ou ideias
+LINKAGES	(forma de linkage) (substantivo) lincagem: conexão ou relação entre coisas ou ideias
+LINKED	(forma de link) (substantivo) ligação: ato ou efeito de ligar (também: vínculo)
+LINKER	(forma de link) (substantivo) ligação: ato ou efeito de ligar (também: vínculo)
+LINKING	(forma de link) (substantivo) ligação: ato ou efeito de ligar (também: vínculo)
+LINKS	(forma de link) (substantivo) ligação: ato ou efeito de ligar (também: vínculo)
+LINT	(substantivo) fiapo: fibra vegetal que se encontra em algumas frutas e que se apresenta jungida como filamentos em meio a polpa da fruta
+LINTEL	(substantivo) lindeira: peça que assenta em ombreiras ou jambas e constitui a parte superior de portas e janelas
+LINTELS	(forma de lintel) (substantivo) lindeira: peça que assenta em ombreiras ou jambas e constitui a parte superior de portas e janelas
+LINTER	(forma de lint) (substantivo) fiapo: fibra vegetal que se encontra em algumas frutas e que se apresenta jungida como filamentos em meio...
+LINTS	(forma de lint) (substantivo) fiapo: fibra vegetal que se encontra em algumas frutas e que se apresenta jungida como filamentos em meio...
+LION	(substantivo) leão: grande felídeo africano de juba abundante, cujo nome científico é Panthera leo
+LIONESS	(substantivo) leoa: a fêmea do leão
+LIONESSES	(forma de lioness) (substantivo) leoa: a fêmea do leão
+LIONS	(forma de lion) (substantivo) leão: grande felídeo africano de juba abundante, cujo nome científico é Panthera leo
+LIP	(adjetivo) labial: relativo aos lábios\n(substantivo) lábio: cada uma das partes carnudas externas que contornam a boca
+LIPID	(substantivo) lipídio: molécula orgânica insolúvel em água e solúvel em solventes orgânicos, como o álcool, a benzina e o éter; o organismo o utiliza para armazenar energia na forma de gordura
+LIPIDS	(forma de lipid) (substantivo) lipídio: molécula orgânica insolúvel em água e solúvel em solventes orgânicos, como o álcool, a benzina e...
+LIPOSUCTION	(substantivo) lipoaspiração: procedimento cirúrgico que visa remover gordura subcutânea do corpo através de aspiração, com fins estéticos
+LIPOSUCTIONS	(substantivo) plural de liposuction: lipoaspiração
+LIPPER	(forma de lip) (adjetivo) labial: relativo aos lábios
+LIPPING	(forma de lip) (adjetivo) labial: relativo aos lábios
+LIPREADING	(substantivo) leitura labial; o ato de perceber o que uma pessoa diz apenas pela observação do movimento de seus lábios\n(verbo) presente particípio do verbo lipread
+LIPREADINGS	(forma de lipreading) (substantivo) leitura labial; o ato de perceber o que uma pessoa diz apenas pela observação do movimento de seus lábios
+LIPS	(forma de lip) (adjetivo) labial: relativo aos lábios
+LIPSTICK	(substantivo) lipstick se traduz como ⟪batom⟫\n(verbo) aplicar batom; pintar com batom
+LIPSTICKED	(forma de lipstick) (substantivo) lipstick se traduz como ⟪batom⟫
+LIPSTICKS	(forma de lipstick) (substantivo) lipstick se traduz como ⟪batom⟫
+LIQUID	(adjetivo) líquido: substância líquida\n(substantivo) líquido: substância líquida
+LIQUIDITIES	(forma de liquidity) (substantivo) liquidity se traduz como ⟪liquidez⟫
+LIQUIDITY	(substantivo) liquidity se traduz como ⟪liquidez⟫
+LIQUIDLY	(advérbio) liquidamente: de modo líquido
+LIQUIDS	(forma de liquid) (adjetivo) líquido: substância líquida
+LIRA	(substantivo) lira: antiga unidade monetária da Itália, San Marino e Vaticano (foi substituída pelo euro)
+LIRAS	(substantivo) plural de lira: lira
+LIRE	(forma de lira) (substantivo) lira: antiga unidade monetária da Itália, San Marino e Vaticano (foi substituída pelo euro)
+LISENTE	(substantivo) plural de sente: subdivisão, equivalente ao centavo, que representa um centésimo do loti, moeda de Lesoto.
+LIST	(substantivo) lista: relação de nomes, lugares ou coisas\n(verbo) listar: fazer uma lista
+LISTED	(forma de list) (substantivo) lista: relação de nomes, lugares ou coisas
+LISTEN	(verbo) escutar: esperar com atenção algum som (também: ouvir atentamente)
+LISTENED	(forma de listen) (verbo) escutar: esperar com atenção algum som (também: ouvir atentamente)
+LISTENER	(substantivo) ouvinte: que tem capacidade de ouvir
+LISTENERS	(forma de listener) (substantivo) ouvinte: que tem capacidade de ouvir
+LISTENING	(forma de listen) (verbo) escutar: esperar com atenção algum som (também: ouvir atentamente)
+LISTENS	(forma de listen) (verbo) escutar: esperar com atenção algum som (também: ouvir atentamente)
+LISTING	(substantivo) listing se traduz como ⟪listagem⟫
+LISTINGS	(forma de list) (substantivo) lista: relação de nomes, lugares ou coisas
+LISTS	(forma de list) (substantivo) lista: relação de nomes, lugares ou coisas
+LIT	(verbo) passado simples e particípio passado do verbo light: leve
+LITAI	(forma de light) (adjetivo) leve: que tem pouco peso
+LITANIES	(forma de litany) (substantivo) litany se traduz como ⟪litania⟫
+LITANY	(substantivo) litany se traduz como ⟪litania⟫
+LITCHI	(substantivo) litchi se traduz como ⟪líchia|LICHIA⟫
+LITCHIS	(forma de litchi) (substantivo) litchi se traduz como ⟪líchia|LICHIA⟫
+LITER	(substantivo) litro: unidade de medida de volume que obedece ao sistema métrico decimal e é aceita pelo sistema internacional de unidades
+LITERACIES	(forma de literacy) (substantivo) literacia: competência que permite a alguém realizar leitura de textos assim como realizar sua produção
+LITERACY	(substantivo) literacia: competência que permite a alguém realizar leitura de textos assim como realizar sua produção
+LITERAL	(adjetivo) literal: diz-se de citações: conforme o original, sem mudar nada\n(substantivo) valor (numérico ou alfabético) escrito em programa fonte
+LITERALLY	(advérbio) literalmente: de maneira literal
+LITERALS	(forma de literal) (adjetivo) literal: diz-se de citações: conforme o original, sem mudar nada
+LITERARILY	(advérbio) literariamente: de modo literário
+LITERARY	(adjetivo) literário: relativo à literatura ou a conhecimentos adquiridos pelo estudo
+LITERATE	(substantivo) letrado: indivíduo letrado (adjetivo)
+LITERATELY	(forma de literate) (substantivo) letrado: indivíduo letrado (adjetivo)
+LITERATES	(forma de literate) (substantivo) letrado: indivíduo letrado (adjetivo)
+LITERATURE	(substantivo) literatura: ciência que estuda as produções artísticas escritas
+LITERATURES	(forma de literature) (substantivo) literatura: ciência que estuda as produções artísticas escritas
+LITERS	(forma de liter) (substantivo) litro: unidade de medida de volume que obedece ao sistema métrico decimal e é aceita pelo sistema...
+LITHIUM	(substantivo) lítio: elemento químico de símbolo Li, possui o número atômico 3 e massa atômica relativa 7; não é encontrado livre na natureza; é um elemento da classe dos alcalinos; na sua forma pura, é um metal macio de coloração branco prateado; é utilizado para produção de ligas metálicas condutoras de calor, em...
+LITHIUMS	(forma de lithium) (substantivo) lítio: elemento químico de símbolo Li, possui o número atômico 3 e massa atômica relativa 7; não é...
+LITHOGRAPH	(substantivo) litografia: produção obtida pelo processo litográfico
+LITHOGRAPHED	(forma de lithograph) (substantivo) litografia: produção obtida pelo processo litográfico
+LITHOGRAPHER	(substantivo) litógrafo: aquele que grava numa pedra uma matriz destinada a ser reproduzida por impressão
+LITHOGRAPHERS	(forma de lithographer) (substantivo) litógrafo: aquele que grava numa pedra uma matriz destinada a ser reproduzida por impressão
+LITHOGRAPHIC	(adjetivo) litográfico: relativo à litografia
+LITHOGRAPHICALLY	(advérbio) litograficamente: de modo litográfico
+LITHOGRAPHIES	(forma de lithography) (substantivo) litografia: desenho ou escrito feito numa substância gordurosa sobre uma pedra para ser reproduzido em...
+LITHOGRAPHING	(forma de lithograph) (substantivo) litografia: produção obtida pelo processo litográfico
+LITHOGRAPHS	(forma de lithograph) (substantivo) litografia: produção obtida pelo processo litográfico
+LITHOGRAPHY	(substantivo) litografia: desenho ou escrito feito numa substância gordurosa sobre uma pedra para ser reproduzido em papel
+LITHOLOGICALLY	(advérbio) litologicamente: de modo litológico
+LITHOSPHERE	(substantivo) litosfera: camada sólida mais externa do planeta Terra
+LITHOSPHERES	(forma de lithosphere) (substantivo) litosfera: camada sólida mais externa do planeta Terra
+LITIGANT	(substantivo) litigante: aquele que litiga
+LITIGANTS	(forma de litigant) (substantivo) litigante: aquele que litiga
+LITIGATE	(verbo) litigar: contestar, ir contra
+LITIGATED	(forma de litigate) (verbo) litigar: contestar, ir contra
+LITIGATES	(forma de litigate) (verbo) litigar: contestar, ir contra
+LITIGATING	(forma de litigate) (verbo) litigar: contestar, ir contra
+LITIGIOUSLY	(advérbio) litigiosamente: de modo litigioso
+LITOTES	(substantivo) litotes: figura de linguagem que combina, frequentemente num eufemismo, a ênfase retórica com a ironia, em geral sugerindo uma ideia pela negação do seu contrário
+LITRE	(substantivo) litro: unidade de medida de volume que obedece ao sistema métrico decimal e é aceita pelo sistema internacional de unidades
+LITRES	(forma de litre) (substantivo) litro: unidade de medida de volume que obedece ao sistema métrico decimal e é aceita pelo sistema...
+LITS	(forma de light) (adjetivo) leve: que tem pouco peso
+LITTER	(substantivo) litter se traduz como ⟪entulho⟫\n(verbo) espalhar material, geralmente feno ou palha, para fazer cama para animal
+LITTERED	(adjetivo) littered se traduz como ⟪entulhado⟫\n(verbo) flexão de litter: entulho
+LITTERING	(forma de litter) (substantivo) litter se traduz como ⟪entulho⟫
+LITTERS	(forma de litter) (substantivo) litter se traduz como ⟪entulho⟫
+LITTLE	(adjetivo) little se traduz como ⟪pequeno⟫\n(advérbio) pouco: o contrário de bastante
+LITTLES	(forma de little) (adjetivo) little se traduz como ⟪pequeno⟫
+LITTLEST	(forma de little) (adjetivo) little se traduz como ⟪pequeno⟫
+LITURGICAL	(adjetivo) litúrgico: relativo à liturgia
+LITURGICALLY	(advérbio) liturgicamente: de forma litúrgica
+LITURGIES	(forma de liturgy) (substantivo) liturgy se traduz como ⟪liturgia⟫
+LITURGY	(substantivo) liturgy se traduz como ⟪liturgia⟫
+LIVE	(adjetivo) vivo: dotado de vida; animado\n(advérbio) live se traduz como ao vivo
+LIVED	(adjetivo) vivido: aquele que tem vigor, vida ou vivacidade
+LIVELIER	(forma de lively) (adjetivo) vivaz: pronto
+LIVELIEST	(forma de lively) (adjetivo) vivaz: pronto
+LIVELY	(adjetivo) vivaz: pronto
+LIVER	(substantivo) fígado: parte do organismo animal onde se produzem a secreção biliar e a secreção glicogênica
+LIVERIES	(forma de livery) (substantivo) livery se traduz como ⟪fardagem⟫
+LIVERS	(forma de liver) (substantivo) fígado: parte do organismo animal onde se produzem a secreção biliar e a secreção glicogênica
+LIVERY	(substantivo) livery se traduz como ⟪fardagem⟫
+LIVES	(forma de life) (substantivo) vida: propriedade que caracteriza os organismos cuja existência evolui do nascimento até a morte
+LIVESTOCK	(substantivo) gado: conjunto de animais (bois, carneiros, cabritos, cavalos etc.) criados para diversos fins (também: criação)
+LIVESTOCKS	(forma de livestock) (substantivo) gado: conjunto de animais (bois, carneiros, cabritos, cavalos etc.) criados para diversos fins (também:...
+LIVIDLY	(advérbio) lividamente: de forma lívida
+LIVING	(verbo) particípio presente do verbo live: vivo
+LIVINGS	(forma de live) (adjetivo) vivo: dotado de vida; animado
+LIZARD	(substantivo) lagarto: réptil sáurio de corpo grande e quase cilíndrico, bastante ágil, inofensivo e muito útil na agricultura pela grande quantidade de insetos que devora
+LIZARDS	(forma de lizard) (substantivo) lagarto: réptil sáurio de corpo grande e quase cilíndrico, bastante ágil, inofensivo e muito útil na...
+LLAMA	(substantivo) llama se traduz como lama/lhama :
+LLAMAS	(forma de llama) (substantivo) llama se traduz como lama/lhama :
+LOAD	(substantivo) carga: o que pode ser ou é transportado por pessoas, animais ou veículos\n(verbo) carregar: meter carga em ou sobre
+LOADED	(adjetivo) viciado: diz-se daquele ou daquilo que tem um vício
+LOADER	(substantivo) loader se traduz como pá carregadora, carregadora, pá carregadeira, carregadeira
+LOADERS	(forma de loader) (substantivo) loader se traduz como pá carregadora, carregadora, pá carregadeira, carregadeira
+LOADING	(forma de load) (substantivo) carga: o que pode ser ou é transportado por pessoas, animais ou veículos
+LOADINGS	(forma de load) (substantivo) carga: o que pode ser ou é transportado por pessoas, animais ou veículos
+LOADS	(forma de load) (substantivo) carga: o que pode ser ou é transportado por pessoas, animais ou veículos
+LOAFER	(substantivo) loafer se traduz como ⟪sapatilha⟫
+LOAFERS	(forma de loafer) (substantivo) loafer se traduz como ⟪sapatilha⟫
+LOAN	(substantivo) loan se traduz como ⟪empréstimo|EMPRESTIMO⟫\n(verbo) emprestar: ceder por algum tempo sem qualquer ónus
+LOANED	(forma de loan) (substantivo) loan se traduz como ⟪empréstimo|EMPRESTIMO⟫
+LOANING	(forma de loan) (substantivo) loan se traduz como ⟪empréstimo|EMPRESTIMO⟫
+LOANINGS	(forma de loan) (substantivo) loan se traduz como ⟪empréstimo|EMPRESTIMO⟫
+LOANS	(forma de loan) (substantivo) loan se traduz como ⟪empréstimo|EMPRESTIMO⟫
+LOATHE	(verbo) detestar: sentir ódio por
+LOATHED	(forma de loathe) (verbo) detestar: sentir ódio por
+LOATHES	(forma de loathe) (verbo) detestar: sentir ódio por
+LOATHING	(forma de loathe) (verbo) detestar: sentir ódio por
+LOATHINGS	(forma de loathe) (verbo) detestar: sentir ódio por
+LOBBIED	(forma de lobby) (substantivo) lobby se traduz como ⟪lóbi|LOBI⟫
+LOBBIES	(forma de lobby) (substantivo) lobby se traduz como ⟪lóbi|LOBI⟫
+LOBBY	(substantivo) lobby se traduz como ⟪lóbi|LOBI⟫
+LOBBYER	(forma de lobby) (substantivo) lobby se traduz como ⟪lóbi|LOBI⟫
+LOBBYING	(forma de lobby) (substantivo) lobby se traduz como ⟪lóbi|LOBI⟫
+LOBBYIST	(substantivo) lobista: pessoa que exerce lóbi
+LOBBYISTS	(forma de lobbyist) (substantivo) lobista: pessoa que exerce lóbi
+LOBE	(substantivo) lobo: parte saliente de um órgão; porção de um órgão
+LOBES	(forma de lobe) (substantivo) lobo: parte saliente de um órgão; porção de um órgão
+LOBOTOMIES	(forma de lobotomy) (substantivo) lobotomia: intervenção cirúrgica no cérebro em que são seccionadas as vias que ligam os lobos frontais ao...
+LOBOTOMY	(substantivo) lobotomia: intervenção cirúrgica no cérebro em que são seccionadas as vias que ligam os lobos frontais ao tálamo e outras vias frontais associadas
+LOBSTER	(substantivo) lobster se traduz como ⟪lagosta⟫
+LOBSTERED	(forma de lobster) (substantivo) lobster se traduz como ⟪lagosta⟫
+LOBSTERING	(forma de lobster) (substantivo) lobster se traduz como ⟪lagosta⟫
+LOBSTERS	(forma de lobster) (substantivo) lobster se traduz como ⟪lagosta⟫
+LOCAL	(adjetivo) local se traduz como ⟪local⟫\n(substantivo) pessoa que vive perto de um lugar
+LOCALITIES	(forma de locality) (substantivo) localidade: povoação, sítio, lugar
+LOCALITY	(substantivo) localidade: povoação, sítio, lugar
+LOCALIZATION	(substantivo) localização: local onde alguém ou alguma coisa está
+LOCALIZATIONS	(forma de localization) (substantivo) localização: local onde alguém ou alguma coisa está
+LOCALS	(forma de local) (adjetivo) local se traduz como ⟪local⟫
+LOCATION	(substantivo) lugar: espaço ocupado por um corpo (também: local, localização)
+LOCATIONS	(forma de location) (substantivo) lugar: espaço ocupado por um corpo (também: local, localização)
+LOCATIVE	(substantivo) locative se traduz como ⟪locativo⟫
+LOCATIVES	(forma de locative) (substantivo) locative se traduz como ⟪locativo⟫
+LOCH	(substantivo) loch se traduz como ⟪lago⟫
+LOCHS	(forma de loch) (substantivo) loch se traduz como ⟪lago⟫
+LOCK	(substantivo) lock se traduz como ⟪fechadura⟫\n(verbo) trancar: segurar ou fechar com tranca
+LOCKED	(adjetivo) trancado: que foi fechado com tranca, cadeado, ferrolho, etc.
+LOCKER	(substantivo) escaninho: pequeno compartimento em armário, gaveta ou escrivaninha (também: armário, cacifo)
+LOCKERS	(forma de locker) (substantivo) escaninho: pequeno compartimento em armário, gaveta ou escrivaninha (também: armário, cacifo)
+LOCKET	(substantivo) medalhão: caixinha com tampa de vidro (ou outro material transparente) para retrato, cabelos, etc. de pessoa querida
+LOCKETS	(forma de locket) (substantivo) medalhão: caixinha com tampa de vidro (ou outro material transparente) para retrato, cabelos, etc. de...
+LOCKING	(forma de lock) (substantivo) lock se traduz como ⟪fechadura⟫
+LOCKOUT	(substantivo) lockout se traduz como locaute
+LOCKOUTS	(forma de lockout) (substantivo) lockout se traduz como locaute
+LOCKS	(forma de lock) (substantivo) lock se traduz como ⟪fechadura⟫
+LOCKSMITH	(substantivo) serralheiro: artista ou operário que faz fechaduras e outras obras de ferro
+LOCKSMITHING	(forma de locksmith) (substantivo) serralheiro: artista ou operário que faz fechaduras e outras obras de ferro
+LOCKSMITHS	(forma de locksmith) (substantivo) serralheiro: artista ou operário que faz fechaduras e outras obras de ferro
+LOCOMOTIVE	(substantivo) máquina: locomotiva (também: locomotiva)
+LOCOMOTIVES	(forma de locomotive) (substantivo) máquina: locomotiva (também: locomotiva)
+LOCUST	(substantivo) locust se traduz como ⟪gafanhoto⟫
+LOCUSTS	(forma de locust) (substantivo) locust se traduz como ⟪gafanhoto⟫
+LODGE	(verbo) morar: habitar, viver, ter estabelecido residência (também: hospedar)\n(substantivo) lodge se traduz como ⟪loja⟫
+LODGED	(forma de lodge) (verbo) morar: habitar, viver, ter estabelecido residência (também: hospedar)
+LODGES	(forma de lodge) (verbo) morar: habitar, viver, ter estabelecido residência (também: hospedar)
+LODGING	(forma de lodge) (verbo) morar: habitar, viver, ter estabelecido residência (também: hospedar)
+LOESS	(substantivo) loess se traduz como ⟪loesse⟫
+LOESSES	(forma de loess) (substantivo) loess se traduz como ⟪loesse⟫
+LOFT	(substantivo) sótão: compartimento entre o forro e a armação do telhado onde se podem guardar objetos velhos ou pouco utilizados (também: sobrado)
+LOFTED	(forma de loft) (substantivo) sótão: compartimento entre o forro e a armação do telhado onde se podem guardar objetos velhos ou pouco...
+LOFTIER	(forma de lofty) (adjetivo) soberbo: que é mais alto ou está mais elevado que outro: (também: majestoso)
+LOFTIEST	(forma de lofty) (adjetivo) soberbo: que é mais alto ou está mais elevado que outro: (também: majestoso)
+LOFTINESS	(substantivo) soberba: orgulho em alto grau
+LOFTINESSES	(forma de loftiness) (substantivo) soberba: orgulho em alto grau
+LOFTING	(forma de loft) (substantivo) sótão: compartimento entre o forro e a armação do telhado onde se podem guardar objetos velhos ou pouco...
+LOFTS	(forma de loft) (substantivo) sótão: compartimento entre o forro e a armação do telhado onde se podem guardar objetos velhos ou pouco...
+LOFTY	(adjetivo) soberbo: que é mais alto ou está mais elevado que outro: (também: majestoso)
+LOG	(substantivo) tora: tronco de árvore limpo da rama\n(verbo) fazer um registro no diário de bordo
+LOGARITHM	(substantivo) logaritmo: operação matemática na qual dado um número, chamado logaritmando, e uma base, se encontra um terceiro número que se elevarmos a base a ele, encontramos o logaritmando
+LOGARITHMIC	(adjetivo) logarítmico: relativo a logaritmos
+LOGARITHMICALLY	(advérbio) logaritmicamente: de maneira logarítmica (relativa a logaritmos)
+LOGARITHMS	(forma de logarithm) (substantivo) logaritmo: operação matemática na qual dado um número, chamado logaritmando, e uma base, se encontra um...
+LOGBOOK	(substantivo) logbook se traduz como diário de bordo
+LOGBOOKS	(forma de logbook) (substantivo) logbook se traduz como diário de bordo
+LOGGED	(forma de log) (substantivo) tora: tronco de árvore limpo da rama
+LOGGING	(forma de log) (substantivo) tora: tronco de árvore limpo da rama
+LOGGINGS	(forma de log) (substantivo) tora: tronco de árvore limpo da rama
+LOGIC	(substantivo) lógica: estudo filosófico-matemático da validade formal dos raciocínios
+LOGICAL	(adjetivo) lógico: racional
+LOGICALLY	(advérbio) logicamente: de maneira lógica, racional
+LOGICIAN	(substantivo) lógico: estudioso de lógica; quem trabalha na área de lógica.
+LOGICIANS	(forma de logician) (substantivo) lógico: estudioso de lógica; quem trabalha na área de lógica.
+LOGICS	(forma de logic) (substantivo) lógica: estudo filosófico-matemático da validade formal dos raciocínios
+LOGISTICAL	(adjetivo) logístico: relativo à gestão de recursos
+LOGISTICALLY	(advérbio) logisticamente: de modo logístico
+LOGISTICS	(substantivo) logistics se traduz como ⟪logística|LOGISTICA⟫
+LOGO	(substantivo) logo: símbolo que representa uma instituição ou empresa (também: logotipo)
+LOGOTYPE	(substantivo) logo: símbolo que representa uma instituição ou empresa
+LOGOTYPES	(forma de logotype) (substantivo) logo: símbolo que representa uma instituição ou empresa
+LOGS	(substantivo) plural de log: tora\n(verbo) flexão do verbo log: tora
+LOIN	(substantivo) alcatra: carne retirada do quadril do boi
+LOLL	(verbo) loll se traduz como recostar-se
+LOLLED	(forma de loll) (verbo) loll se traduz como recostar-se
+LOLLING	(forma de loll) (verbo) loll se traduz como recostar-se
+LOLLIPOP	(substantivo) lollipop se traduz como chupa-chupa/pirulito
+LOLLIPOPS	(forma de lollipop) (substantivo) lollipop se traduz como chupa-chupa/pirulito
+LOLLS	(forma de loll) (verbo) loll se traduz como recostar-se
+LONE	(adjetivo) solitário: caracterizado pela ausência de companheiros
+LONELIER	(forma de lonely) (adjetivo) solitário: caracterizado pela ausência de companheiros (também: sozinho)
+LONELIEST	(forma de lonely) (adjetivo) solitário: caracterizado pela ausência de companheiros (também: sozinho)
+LONELILY	(forma de lonely) (adjetivo) solitário: caracterizado pela ausência de companheiros (também: sozinho)
+LONELINESS	(substantivo) solidão: estado daquilo que está só, isolado
+LONELINESSES	(forma de loneliness) (substantivo) solidão: estado daquilo que está só, isolado
+LONELY	(adjetivo) solitário: caracterizado pela ausência de companheiros (também: sozinho)
+LONESOME	(adjetivo) solitário: sozinho, sem companheiro
+LONESOMELY	(forma de lonesome) (adjetivo) solitário: sozinho, sem companheiro
+LONESOMES	(forma de lonesome) (adjetivo) solitário: sozinho, sem companheiro
+LONG	(adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫\n(advérbio) long se traduz como ⟪longo⟫, ⟪longamente⟫
+LONGAN	(substantivo) longan se traduz como longana
+LONGANIMITIES	(forma de longanimity) (substantivo) longanimity se traduz como ⟪longanimidade⟫
+LONGANIMITY	(substantivo) longanimity se traduz como ⟪longanimidade⟫
+LONGANS	(forma de longan) (substantivo) longan se traduz como longana
+LONGE	(substantivo) local onde cavalos treinam
+LONGED	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGEING	(forma de longe) (substantivo) local onde cavalos treinam
+LONGER	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGERS	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGES	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGEST	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGEVITIES	(forma de longevity) (substantivo) longevidade: qualidade de ter vida longa
+LONGEVITY	(substantivo) longevidade: qualidade de ter vida longa
+LONGING	(substantivo) apetite: desejo, vontade (também: saudade)
+LONGINGS	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGITUDE	(substantivo) longitude: distância angular a leste ou oeste na superfície da terra medida pelo ângulo contido entre o meridiano de um ponto qualquer e aquele de um ponto de referência, como, por exemplo, o meridiano de Greenwich na Inglaterra; é expressado em graus
+LONGITUDES	(forma de longitude) (substantivo) longitude: distância angular a leste ou oeste na superfície da terra medida pelo ângulo contido entre o...
+LONGITUDINAL	(adjetivo) longitudinal: relativo a longitude
+LONGITUDINALLY	(advérbio) longitudinalmente: de maneira longitudinal
+LONGS	(forma de long) (adjetivo) long se traduz como ⟪longo⟫, ⟪comprido⟫
+LONGUEUR	(substantivo) passagem extensa em obra dramática ou literária, em especial chata ou tediosa
+LONGUEURS	(forma de longueur) (substantivo) passagem extensa em obra dramática ou literária, em especial chata ou tediosa
+LOO	(interjeição) grito para incentivar os cães de caça\n(substantivo) privada: latrina, vaso sanitário (também: vaso sanitário)
+LOOED	(forma de loo) (interjeição) grito para incentivar os cães de caça
+LOOF	(substantivo) bucha: porção fibrosa obtida do interior do fruto da trepadeira alta da família das cucurbitáceas, cujo nome científico é Luffa aegyptiaca
+LOOFS	(forma de loof) (substantivo) bucha: porção fibrosa obtida do interior do fruto da trepadeira alta da família das cucurbitáceas, cujo...
+LOOING	(forma de loo) (interjeição) grito para incentivar os cães de caça
+LOOK	(substantivo) look se traduz como ⟪aparência|APARENCIA⟫\n(verbo) olhar: direcionar os olhos na direção
+LOOKED	(verbo) pretérito imperfeito de look;: aparência
+LOOKING	(forma de look) (substantivo) look se traduz como ⟪aparência|APARENCIA⟫
+LOOKS	(substantivo) aparência: o que se mostra superficialmente ou à primeira vista, aspecto; figura
+LOOM	(substantivo) loom se traduz como ⟪tear⟫\n(verbo) ameaçar: advertir (alguém que algo lhe pode acontecer)
+LOOMED	(forma de loom) (substantivo) loom se traduz como ⟪tear⟫
+LOOMING	(forma de loom) (substantivo) loom se traduz como ⟪tear⟫
+LOOMS	(forma de loom) (substantivo) loom se traduz como ⟪tear⟫
+LOOP	(substantivo) loop se traduz como ⟪laço⟫\n(verbo) laçar: conquistar alguém romanticamente; enlaçar
+LOOPED	(forma de loop) (substantivo) loop se traduz como ⟪laço⟫
+LOOPING	(substantivo) manobra aérea na qual um avião faz um círculo no ar\n(verbo) flexão do verbo loop: laço
+LOOPS	(forma de loop) (substantivo) loop se traduz como ⟪laço⟫
+LOOS	(substantivo) plural de loo: grito para incentivar os cães de caça
+LOOSE	(adjetivo) loose se traduz como ⟪frouxo⟫
+LOOSED	(forma de loose) (adjetivo) loose se traduz como ⟪frouxo⟫
+LOOSELY	(advérbio) loosely se traduz como ⟪vagamente⟫
+LOOSEN	(verbo) soltar: desatar (também: afrouxar)
+LOOSENED	(forma de loosen) (verbo) soltar: desatar (também: afrouxar)
+LOOSENING	(forma de loosen) (verbo) soltar: desatar (também: afrouxar)
+LOOSENS	(forma de loosen) (verbo) soltar: desatar (também: afrouxar)
+LOOSER	(forma de loose) (adjetivo) loose se traduz como ⟪frouxo⟫
+LOOSES	(forma de loos) (substantivo) plural de loo: grito para incentivar os cães de caça
+LOOSEST	(forma de loose) (adjetivo) loose se traduz como ⟪frouxo⟫
+LOOSING	(forma de loose) (adjetivo) loose se traduz como ⟪frouxo⟫
+LOOT	(verbo) loot se traduz como ⟪lootear⟫
+LOOTED	(forma de loot) (verbo) loot se traduz como ⟪lootear⟫
+LOOTING	(forma de loot) (verbo) loot se traduz como ⟪lootear⟫
+LOOTS	(forma de loot) (verbo) loot se traduz como ⟪lootear⟫
+LOQUACIOUS	(adjetivo) loquacious se traduz como ⟪loquaz⟫
+LOQUAT	(substantivo) nêspera: fruto da nespereira, da família das rosáceas, originária da China (Eriobotrya japonica)
+LOQUATS	(forma de loquat) (substantivo) nêspera: fruto da nespereira, da família das rosáceas, originária da China (Eriobotrya japonica)
+LORD	(substantivo) lord se traduz como ⟪senhor⟫, ⟪amo⟫\n(verbo) dominar: ter autoridade sobre
+LORDED	(forma de lord) (substantivo) lord se traduz como ⟪senhor⟫, ⟪amo⟫
+LORDING	(forma de lord) (substantivo) lord se traduz como ⟪senhor⟫, ⟪amo⟫
+LORDINGS	(forma de lord) (substantivo) lord se traduz como ⟪senhor⟫, ⟪amo⟫
+LORDOSIS	(substantivo) lordose: curvatura anormal com convexidade para diante da coluna vertebral
+LORDS	(forma de lord) (substantivo) lord se traduz como ⟪senhor⟫, ⟪amo⟫
+LORE	(substantivo) sabedoria: grande acúmulo de conhecimento (também: tradição)
+LORES	(forma de lore) (substantivo) sabedoria: grande acúmulo de conhecimento (também: tradição)
+LORGNETTE	(substantivo) lornhão: objeto semelhante aos óculos com uma pega para posicionar em frente aos olhos
+LORGNETTES	(forma de lorgnette) (substantivo) lornhão: objeto semelhante aos óculos com uma pega para posicionar em frente aos olhos
+LORRIES	(forma de lorry) (substantivo) camião: automóvel grande geralmente utilizado no transporte de cargas; caminhão (também: caminhão)
+LORRY	(substantivo) camião: automóvel grande geralmente utilizado no transporte de cargas; caminhão (também: caminhão)
+LOSE	(verbo) perder: deixar de possuir um objeto ou bem material
+LOSER	(adjetivo) derrotado: que foi vencido em uma disputa; sobrepujado
+LOSERS	(forma de loser) (adjetivo) derrotado: que foi vencido em uma disputa; sobrepujado
+LOSES	(forma de lose) (verbo) perder: deixar de possuir um objeto ou bem material
+LOSING	(forma de lose) (verbo) perder: deixar de possuir um objeto ou bem material
+LOSS	(substantivo) prejuízo: ação de prejudicar (também: perdição)
+LOST	(verbo) passado simples e particípio do verbo lose (perder)
+LOT	(substantivo) lot se traduz como grande quantidade
+LOTI	(substantivo) plural de lotus: lótus
+LOTION	(substantivo) loção: líquido perfumado e levemente alcoolizado para o tratamento da pele e dos cabelos
+LOTIONS	(forma de lotion) (substantivo) loção: líquido perfumado e levemente alcoolizado para o tratamento da pele e dos cabelos
+LOTS	(forma de lot) (substantivo) lot se traduz como grande quantidade
+LOTTED	(forma de lot) (substantivo) lot se traduz como grande quantidade
+LOTTERIES	(forma de lottery) (substantivo) loteria: acontecimento que parece determinado pelo acaso ou cujo resultado é imprevisível (também:...
+LOTTERY	(substantivo) loteria: acontecimento que parece determinado pelo acaso ou cujo resultado é imprevisível (também: lotaria)
+LOTTING	(forma de lot) (substantivo) lot se traduz como grande quantidade
+LOTUS	(substantivo) lotus se traduz como ⟪lótus|LOTUS⟫
+LOTUSES	(substantivo) plural de lotus: lótus
+LOUD	(adjetivo) alto: ilustrado, soberbo, importante, caro, difícil (também: elevado, intenso)\n(advérbio) de forma elevada, de maneira intensa (em se falando de som)
+LOUDER	(forma de loud) (adjetivo) alto: ilustrado, soberbo, importante, caro, difícil (também: elevado, intenso)
+LOUDEST	(forma de loud) (adjetivo) alto: ilustrado, soberbo, importante, caro, difícil (também: elevado, intenso)
+LOUDLIER	(forma de loudly) (advérbio) alto: de forma elevada; de maneira intensa (também: ruidosamente)
+LOUDLIEST	(forma de loudly) (advérbio) alto: de forma elevada; de maneira intensa (também: ruidosamente)
+LOUDLY	(advérbio) alto: de forma elevada; de maneira intensa (também: ruidosamente)
+LOUDSPEAKER	(substantivo) altifalante ^((português europeu)) ou alto-falante ^((português do Brasil))
+LOUDSPEAKERS	(forma de loudspeaker) (substantivo) altifalante ^((português europeu)) ou alto-falante ^((português do Brasil))
+LOUNGER	(substantivo) lounger se traduz como ⟪espreguiçadeira⟫
+LOUNGERS	(forma de lounger) (substantivo) lounger se traduz como ⟪espreguiçadeira⟫
+LOUSE	(substantivo) piolho: inseto parasita que suga o sangue de vertebrados e lhes transmite várias doenças
+LOUSED	(forma de louse) (substantivo) piolho: inseto parasita que suga o sangue de vertebrados e lhes transmite várias doenças
+LOUSES	(forma de louse) (substantivo) piolho: inseto parasita que suga o sangue de vertebrados e lhes transmite várias doenças
+LOUSING	(forma de louse) (substantivo) piolho: inseto parasita que suga o sangue de vertebrados e lhes transmite várias doenças
+LOVABLE	(adjetivo) amável: digno de ser amado
+LOVE	(substantivo) love se traduz como ⟪amor⟫\n(verbo) amar: gostar muito de alguém ou algo
+LOVEBIRD	(substantivo) lovebird se traduz como ⟪agapórnis|AGAPORNIS⟫
+LOVEBIRDS	(forma de lovebird) (substantivo) lovebird se traduz como ⟪agapórnis|AGAPORNIS⟫
+LOVED	(forma de love) (substantivo) love se traduz como ⟪amor⟫
+LOVER	(substantivo) amante: aquele que ama, enamorado, apaixonado
+LOVERS	(forma de lover) (substantivo) amante: aquele que ama, enamorado, apaixonado
+LOVES	(forma de love) (substantivo) love se traduz como ⟪amor⟫
+LOVING	(forma de love) (substantivo) love se traduz como ⟪amor⟫
+LOW	(adjetivo) baixo: de pouca estatura:\n(verbo) mugir: dar mugidos (o boi, vaca, etc)
+LOWED	(forma de low) (adjetivo) baixo: de pouca estatura:
+LOWER	(adjetivo) a parte inferior\n(verbo) baixar: pôr mais baixo, diminuir de altura
+LOWERCASE	(adjetivo) minúsculo: diz-se dos caracteres pequenos do alfabeto:
+LOWERCASES	(forma de lowercase) (adjetivo) minúsculo: diz-se dos caracteres pequenos do alfabeto:
+LOWERED	(forma de lower) (adjetivo) a parte inferior
+LOWERING	(forma de lower) (adjetivo) a parte inferior
+LOWERS	(forma de lower) (adjetivo) a parte inferior
+LOWES	(forma de low) (adjetivo) baixo: de pouca estatura:
+LOWING	(forma de low) (adjetivo) baixo: de pouca estatura:
+LOWINGS	(forma de low) (adjetivo) baixo: de pouca estatura:
+LOWLIER	(forma de lowly) (advérbio) lowly se traduz como ⟪rasteiramente⟫
+LOWLIEST	(forma de lowly) (advérbio) lowly se traduz como ⟪rasteiramente⟫
+LOWLY	(advérbio) lowly se traduz como ⟪rasteiramente⟫
+LOWNESS	(substantivo) baixeza: característica ou estado do que é baixo ou do que está embaixo; pouca altura; pequenez
+LOWNESSES	(forma de lowness) (substantivo) baixeza: característica ou estado do que é baixo ou do que está embaixo; pouca altura; pequenez
+LOWS	(forma de low) (adjetivo) baixo: de pouca estatura:
+LOYAL	(adjetivo) loyal se traduz como ⟪leal⟫
+LOYALER	(forma de loyal) (adjetivo) loyal se traduz como ⟪leal⟫
+LOYALEST	(forma de loyal) (adjetivo) loyal se traduz como ⟪leal⟫
+LOYALLY	(advérbio) lealmente: de modo leal
+LOYALTIES	(forma de loyalty) (substantivo) lealdade: o estado de ser leal; o propósito ou devoção de fidelidade a alguma pessoa, a uma causa
+LOYALTY	(substantivo) lealdade: o estado de ser leal; o propósito ou devoção de fidelidade a alguma pessoa, a uma causa
+LOZENGE	(substantivo) dropes: bala ou pastilha doce e dura, de formato arredondado (também: comprimido, drope)
+LOZENGES	(forma de lozenge) (substantivo) dropes: bala ou pastilha doce e dura, de formato arredondado (também: comprimido, drope)
+LUBRICATE	(verbo) lubrificar: tornar escorregadio (pela aplicação de óleo, por exemplo)
+LUBRICATED	(forma de lubricate) (verbo) lubrificar: tornar escorregadio (pela aplicação de óleo, por exemplo)
+LUBRICATES	(forma de lubricate) (verbo) lubrificar: tornar escorregadio (pela aplicação de óleo, por exemplo)
+LUBRICATING	(forma de lubricate) (verbo) lubrificar: tornar escorregadio (pela aplicação de óleo, por exemplo)
+LUBRICATION	(substantivo) lubrificação: ato ou efeito de lubrificar
+LUBRICATIONS	(forma de lubrication) (substantivo) lubrificação: ato ou efeito de lubrificar
+LUCID	(adjetivo) lúcido: claro
+LUCIDLY	(advérbio) lucidamente: de modo lúcido (também: luzidamente)
+LUCK	(substantivo) sorte: acaso ou coincidência feliz; contingência favorável
+LUCKED	(forma de luck) (substantivo) sorte: acaso ou coincidência feliz; contingência favorável
+LUCKIER	(forma de lucky) (adjetivo) sortudo: que tem muita sorte (também: de sorte)
+LUCKIES	(forma de lucky) (adjetivo) sortudo: que tem muita sorte (também: de sorte)
+LUCKIEST	(forma de lucky) (adjetivo) sortudo: que tem muita sorte (também: de sorte)
+LUCKING	(forma de luck) (substantivo) sorte: acaso ou coincidência feliz; contingência favorável
+LUCKS	(forma de luck) (substantivo) sorte: acaso ou coincidência feliz; contingência favorável
+LUCKY	(adjetivo) sortudo: que tem muita sorte (também: de sorte)
+LUCRATIVE	(adjetivo) lucrativo: que dá lucro
+LUCRATIVELY	(advérbio) lucrativamente: de modo lucrativo (também: chorudamente)
+LUCRE	(substantivo) lucro: diferença positiva em um investimento ou operação de compra e venda
+LUCRES	(forma de lucre) (substantivo) lucro: diferença positiva em um investimento ou operação de compra e venda
+LUCUBRATION	(substantivo) lucubration se traduz como ⟪lucubração|LUCUBRAÇAO⟫
+LUCUBRATIONS	(forma de lucubration) (substantivo) lucubration se traduz como ⟪lucubração|LUCUBRAÇAO⟫
+LUDICROUS	(adjetivo) ludicrous se traduz como ⟪absurdo⟫, ⟪ridículo|RIDICULO⟫
+LUDICROUSLY	(advérbio) ludicrously se traduz como ⟪caricatamente⟫
+LUGE	(substantivo) luge: esporte olímpico de inverno que consiste em descer uma pista de gelo em cima de um trenó. As competições podem ser em duplas ou individual e ganha quem completar o circuito no menos tempo
+LUGED	(forma de luge) (substantivo) luge: esporte olímpico de inverno que consiste em descer uma pista de gelo em cima de um trenó. As...
+LUGEING	(forma de luge) (substantivo) luge: esporte olímpico de inverno que consiste em descer uma pista de gelo em cima de um trenó. As...
+LUGES	(substantivo) plural de luge: luge
+LUGUBRIOUS	(adjetivo) lúgubre: aquilo que é fúnebre, relacionado à morte
+LUGUBRIOUSLY	(advérbio) lugubremente: de forma lúgubre
+LUKEWARM	(adjetivo) morno: pouco quente
+LUKEWARMLY	(advérbio) mornamente: de forma morna
+LUMBER	(substantivo) madeira: conjunto de tábuas e outros materiais extraídos de materiais arbóreos
+LUMBERED	(forma de lumber) (substantivo) madeira: conjunto de tábuas e outros materiais extraídos de materiais arbóreos
+LUMBERING	(forma de lumber) (substantivo) madeira: conjunto de tábuas e outros materiais extraídos de materiais arbóreos
+LUMBERS	(forma de lumber) (substantivo) madeira: conjunto de tábuas e outros materiais extraídos de materiais arbóreos
+LUMEN	(substantivo) lúmen: unidade de fluxo luminoso
+LUMENS	(forma de lumen) (substantivo) lúmen: unidade de fluxo luminoso
+LUMINA	(forma de lumen) (substantivo) lúmen: unidade de fluxo luminoso
+LUMINESCENT	(adjetivo) luminescent se traduz como ⟪luminescente⟫
+LUMINOSITIES	(forma de luminosity) (substantivo) luminosidade: qualidade do que é luminoso
+LUMINOSITY	(substantivo) luminosidade: qualidade do que é luminoso
+LUMINOUS	(adjetivo) luminoso: que irradia ou reflete luz; brilhante, límpido
+LUMINOUSLY	(advérbio) luminosamente: de forma luminosa
+LUMP	(substantivo) protuberância: saliência; aquilo que ressalta de uma superfície\n(verbo) tratar um conjunto de coisas como se fosse uma unidade
+LUMPECTOMIES	(forma de lumpectomy) (substantivo) lumpectomia: remoção cirúrgica de uma pequena parte da mama, feita geralmente durante o tratamento de um...
+LUMPECTOMY	(substantivo) lumpectomia: remoção cirúrgica de uma pequena parte da mama, feita geralmente durante o tratamento de um tumor maligno ou cancro da mama
+LUMPED	(forma de lump) (substantivo) protuberância: saliência; aquilo que ressalta de uma superfície
+LUMPING	(forma de lump) (substantivo) protuberância: saliência; aquilo que ressalta de uma superfície
+LUMPS	(substantivo) plural de lump: protuberância
+LUNCH	(substantivo) lunch se traduz como ⟪almoço⟫\n(verbo) almoçar: comer o almoço
+LUNCHED	(forma de lunch) (substantivo) lunch se traduz como ⟪almoço⟫
+LUNCHES	(forma de lunch) (substantivo) lunch se traduz como ⟪almoço⟫
+LUNCHING	(forma de lunch) (substantivo) lunch se traduz como ⟪almoço⟫
+LUNG	(substantivo) pulmão: cada um de dois órgãos respiratórios, nos vertebrados que têm respiração aérea
+LUNGE	(substantivo) investida: ação ou resultado de investir; arremetida, ímpeto, ataque
+LUNGED	(forma de lunge) (substantivo) investida: ação ou resultado de investir; arremetida, ímpeto, ataque
+LUNGEES	(forma de lunge) (substantivo) investida: ação ou resultado de investir; arremetida, ímpeto, ataque
+LUNGES	(forma de lunge) (substantivo) investida: ação ou resultado de investir; arremetida, ímpeto, ataque
+LUNGING	(forma de lunge) (substantivo) investida: ação ou resultado de investir; arremetida, ímpeto, ataque
+LUNGS	(forma de lung) (substantivo) pulmão: cada um de dois órgãos respiratórios, nos vertebrados que têm respiração aérea
+LUPINE	(adjetivo) lupine se traduz como ⟪lupino⟫
+LUPINES	(forma de lupine) (adjetivo) lupine se traduz como ⟪lupino⟫
+LURCH	(verbo) arrancar, dar um solavanco\n(substantivo) lurch se traduz como ⟪solavanco⟫
+LURCHED	(verbo) pretérito imperfeito e particípio do verbo lurch: arrancar, dar um solavanco
+LURCHES	(forma de lurch) (verbo) arrancar, dar um solavanco
+LURCHING	(forma de lurch) (verbo) arrancar, dar um solavanco
+LURE	(substantivo) lure se traduz como ⟪isca⟫\n(verbo) atrair: provocar, suscitar
+LURED	(forma de lure) (substantivo) lure se traduz como ⟪isca⟫
+LURER	(forma de lure) (substantivo) lure se traduz como ⟪isca⟫
+LURES	(forma de lure) (substantivo) lure se traduz como ⟪isca⟫
+LURING	(forma de lure) (substantivo) lure se traduz como ⟪isca⟫
+LURKER	(substantivo) lurker se traduz como ⟪espreitador⟫
+LURKERS	(forma de lurker) (substantivo) lurker se traduz como ⟪espreitador⟫
+LUSH	(adjetivo) luxuriante: exuberante (também: luxuoso)
+LUSHED	(forma de lush) (adjetivo) luxuriante: exuberante (também: luxuoso)
+LUSHER	(forma de lush) (adjetivo) luxuriante: exuberante (também: luxuoso)
+LUSHES	(forma de lush) (adjetivo) luxuriante: exuberante (também: luxuoso)
+LUSHEST	(forma de lush) (adjetivo) luxuriante: exuberante (também: luxuoso)
+LUSHING	(forma de lush) (adjetivo) luxuriante: exuberante (também: luxuoso)
+LUSHLY	(advérbio) frondosamente: de modo frondoso
+LUST	(substantivo) desejo: aquilo que se deseja\n(verbo) desejar muito algo
+LUSTED	(forma de lust) (substantivo) desejo: aquilo que se deseja
+LUSTFUL	(adjetivo) luxurioso: relativo à luxúria
+LUSTING	(forma de lust) (substantivo) desejo: aquilo que se deseja
+LUSTS	(forma de lust) (substantivo) desejo: aquilo que se deseja
+LUTE	(substantivo) lute se traduz como ⟪alaúde|ALAUDE⟫\n(verbo) revestir, vedar ou selar com luto
+LUTED	(verbo) passado simples e particípio do verbo lute: alaúde
+LUTES	(verbo) terceira pessoa do singular do verbo lute: alaúde\n(substantivo) plural de lute: alaúde
+LUTETIUM	(substantivo) lutécio: elemento químico de símbolo Lu, possui o número atômico 71 e massa atômica relativa 174,967 u; é um metal de transição interna (lantanídeo) de cor branco prateado; é obtido de minerais como a gadolinita, euxenita e a fergusonita; é utilizado como catalisador no craqueamento do petróleo
+LUTETIUMS	(forma de lutetium) (substantivo) lutécio: elemento químico de símbolo Lu, possui o número atômico 71 e massa atômica relativa 174,967 u; é...
+LUTING	(verbo) gerúndio do verbo lute: alaúde
+LUTINGS	(forma de luting) (verbo) gerúndio do verbo lute: alaúde
+LUXATION	(substantivo) luxação: deslocamento repentino e duradouro, parcial ou completo de um ou mais ossos de uma articulação
+LUXATIONS	(forma de luxation) (substantivo) luxação: deslocamento repentino e duradouro, parcial ou completo de um ou mais ossos de uma articulação
+LUXURIANT	(adjetivo) luxuriant se traduz como ⟪luxuriante⟫
+LUXURIANTLY	(advérbio) luxuriantemente: de modo luxuriante
+LUXURIES	(forma de luxury) (substantivo) luxury se traduz como ⟪luxo⟫
+LUXURIOUS	(adjetivo) luxuoso: que possui ou demonstra luxo
+LUXURIOUSLY	(advérbio) luxuriosamente: de forma luxuriosa
+LUXURY	(substantivo) luxury se traduz como ⟪luxo⟫
+LYCANTHROPE	(substantivo) lycanthrope se traduz como licantropo
+LYCANTHROPES	(forma de lycanthrope) (substantivo) lycanthrope se traduz como licantropo
+LYCANTHROPIES	(forma de lycanthropy) (substantivo) lycanthropy se traduz como ⟪licantropia⟫
+LYCANTHROPY	(substantivo) lycanthropy se traduz como ⟪licantropia⟫
+LYCEUM	(substantivo) liceu: escola secundária
+LYCEUMS	(forma de lyceum) (substantivo) liceu: escola secundária
+LYCHEE	(substantivo) lychee se traduz como ⟪líchia|LICHIA⟫, ⟪lichia⟫
+LYCHEES	(forma de lychee) (substantivo) lychee se traduz como ⟪líchia|LICHIA⟫, ⟪lichia⟫
+LYING	(adjetivo) mendaz: diz-se daquele que falta com a verdade
+LYINGS	(forma de lie) (substantivo) lie se traduz como ⟪mentira⟫
+LYMPH	(substantivo) linfa: líquido que circula nos vasos linfáticos
+LYMPHOCYTE	(substantivo) linfócito: célula branca (glóbulo) do sangue, que faz parte do sistema imunitário
+LYMPHOCYTES	(forma de lymphocyte) (substantivo) linfócito: célula branca (glóbulo) do sangue, que faz parte do sistema imunitário
+LYMPHOMA	(substantivo) linfoma: tumor que se inicia a partir da transformação de um linfócito no sistema linfático
+LYMPHOMAS	(forma de lymphoma) (substantivo) linfoma: tumor que se inicia a partir da transformação de um linfócito no sistema linfático
+LYMPHOMATA	(forma de lymphoma) (substantivo) linfoma: tumor que se inicia a partir da transformação de um linfócito no sistema linfático
+LYMPHS	(forma de lymph) (substantivo) linfa: líquido que circula nos vasos linfáticos
+LYNCH	(verbo) linchar: justiçar ou executar sumariamente, sem julgamento e direito de defesa
+LYNCHED	(forma de lynch) (verbo) linchar: justiçar ou executar sumariamente, sem julgamento e direito de defesa
+LYNCHES	(forma de lynch) (verbo) linchar: justiçar ou executar sumariamente, sem julgamento e direito de defesa
+LYNCHING	(forma de lynch) (verbo) linchar: justiçar ou executar sumariamente, sem julgamento e direito de defesa
+LYNCHINGS	(forma de lynch) (verbo) linchar: justiçar ou executar sumariamente, sem julgamento e direito de defesa
+LYNX	(substantivo) lynx se traduz como ⟪lince⟫
+LYNXES	(forma de lynx) (substantivo) lynx se traduz como ⟪lince⟫
+LYRE	(substantivo) lyre se traduz como ⟪lira⟫
+LYRES	(forma de lyre) (substantivo) lyre se traduz como ⟪lira⟫
+LYRIC	(adjetivo) lyric se traduz como ⟪lírico|LIRICO⟫\n(substantivo) lyric se traduz como poema lírico
+LYRICALLY	(advérbio) liricamente: de forma lírica
+LYRICISM	(substantivo) lyricism se traduz como ⟪lirismo⟫
+LYRICISMS	(forma de lyricism) (substantivo) lyricism se traduz como ⟪lirismo⟫
+LYRICIST	(substantivo) letrista: profissional de música que escreve a letra das canções
+LYRICISTS	(forma de lyricist) (substantivo) letrista: profissional de música que escreve a letra das canções
+LYRICS	(forma de lyric) (adjetivo) lyric se traduz como ⟪lírico|LIRICO⟫
+LYSES	(forma de lysis) (substantivo) lise: processo de morte celular ou de seres unicelulares pela destruição da sua estrutura
+LYSINE	(substantivo) lysine se traduz como lisina
+LYSINES	(forma de lysine) (substantivo) lysine se traduz como lisina
+LYSIS	(substantivo) lise: processo de morte celular ou de seres unicelulares pela destruição da sua estrutura

@@ -1,0 +1,1854 @@
+IANQUES	(ad) çoğul çekimi: ianque
+IATES	(ad) çoğul çekimi: iate
+IBERICOS	(ad) çoğul çekimi: ibérico
+IBIS	(ad) ibis kelimesinin karşılığı: ⟪aynak|AYNAK⟫
+ICEBERG	(ad) iceberg kelimesinin karşılığı: buz dağı
+ICEBERGUE	(ad) icebergue kelimesinin karşılığı: buz dağı, ⟪aysberg|AYSBERG⟫
+ICEI	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+ICEIS	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+ICEM	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+ICES	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+ICONE	(ad) ikon: Ortodokslarda; İsa, Meryem veya ermişlerin tahta üzerine mumlu ve yumurtalı boyalarla yapılmış dinî içerikli resimleri, ikona (ayrıca: sembol, simge)
+ICONES	(ad) çoğul çekimi: ícone
+ICTERICIA	(ad) sarılık: derinin, dokuların ve organizmadaki sıvıların sarı renk almasıyla beliren bulaşıcı hastalık
+ICTIOLOGIA	(ad) ihtiyoloji: zoolojinin balıklarla ilgilenen dalı, balık bilimi (ayrıca: balık bilimi)
+ICTIOSSAURO	(ad) ictiossauro kelimesinin karşılığı: iktiyozor
+IDA	(ad) gitme: gitmek işi.
+IDADE	(ad) yaş: doğuştan beri geçen ve yıl birimi ile ölçülen zaman (ayrıca: çağ, yaşlılık)
+IDADES	(ad) çoğul çekimi: idade
+IDAS	(ida sözcüğünün çekimi) (ad) gitme: gitmek işi.
+IDEAL	(sıfat) ülkü: gerçekte olmayıp, yalnız düşüncede tasarım biçiminde var olan, yalnızca düşünce ile kavranabilen şey, ideal
+IDEALISMO	(ad) idealismo kelimesinin karşılığı: ⟪idealizm|İDEALİZM⟫
+IDEIA	(ad) fikir: düşün
+IDEIAS	(ad) çoğul çekimi: ideia
+IDENTICA	(identico sözcüğünün çekimi) (sıfat) özdeş: Her türlü nitelik bakımından eşit olan, ayırt edilmeyecek kadar benzer olan, aynı.
+IDENTICAS	(identico sözcüğünün çekimi) (sıfat) özdeş: Her türlü nitelik bakımından eşit olan, ayırt edilmeyecek kadar benzer olan, aynı.
+IDENTICO	(sıfat) özdeş: Her türlü nitelik bakımından eşit olan, ayırt edilmeyecek kadar benzer olan, aynı.
+IDENTICOS	(identico sözcüğünün çekimi) (sıfat) özdeş: Her türlü nitelik bakımından eşit olan, ayırt edilmeyecek kadar benzer olan, aynı.
+IDENTIDADE	(ad) kimlik: Toplumsal bir varlık olarak insanın nasıl bir kimse olduğunu gösteren belirti, nitelik ve özelliklerin bütünü; etiket
+IDENTIFICA	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICANDO	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAR	(eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARA	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARAM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARAO	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAREI	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAREM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAREMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARIA	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARIAM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARIAMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICARMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICASSE	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICASSEM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICASSEMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICASTE	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAVA	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAVAM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAVAMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAVEIS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICAÇAO	(ad) tanıma: tanımak işi
+IDENTIFICO	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFICOU	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFIQUE	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFIQUEI	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFIQUEM	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDENTIFIQUEMOS	(identificar sözcüğünün çekimi) (eylem) özdeşlemek: Özdeş duruma getirmek.
+IDEOLOGIA	(ad) ideologia kelimesinin karşılığı: ⟪ideoloji|İDEOLOJİ⟫
+IDEOLOGICA	(ideologico sözcüğünün çekimi) (sıfat) ideolojik: İdeoloji ile ilgili
+IDEOLOGICAS	(ideologico sözcüğünün çekimi) (sıfat) ideolojik: İdeoloji ile ilgili
+IDEOLOGICO	(sıfat) ideolojik: İdeoloji ile ilgili
+IDEOLOGICOS	(ideologico sözcüğünün çekimi) (sıfat) ideolojik: İdeoloji ile ilgili
+IDILIO	(ad) idilio kelimesinin karşılığı: ⟪idil|İDİL⟫
+IDIOMA	(ad) idioma kelimesinin karşılığı: ⟪dil|DİL⟫
+IDIOMAS	(ad) çoğul çekimi: idioma
+IDIOTAS	(ad) çoğul çekimi: idiota
+IDIOTISMO	(ad) idiotismo kelimesinin karşılığı: ⟪deyim|DEYİM⟫
+IDO	(ad) ido kelimesinin karşılığı: ido
+IDOLA	(idolo sözcüğünün çekimi) (ad) tanrı: Çok tanrıcılıkta tüm varoluşun temel kaynağı olarak görülen varlık. (ayrıca: ilah, oğan)
+IDOLATRAS	(ad) çoğul çekimi: idólatra
+IDOLATRIAS	(ad) çoğul çekimi: idolatria
+IDOLO	(ad) tanrı: Çok tanrıcılıkta tüm varoluşun temel kaynağı olarak görülen varlık. (ayrıca: ilah, oğan)
+IDOLOS	(ad) çoğul çekimi: ídolo
+IDONEA	(idoneo sözcüğünün çekimi) (sıfat) idoneo kelimesinin karşılığı: ⟪elverişli|ELVERİŞLİ⟫, ⟪uygun|UYGUN⟫, ⟪olacak|OLACAK⟫, ⟪münasip|MÜNASİP⟫
+IDONEAS	(idoneo sözcüğünün çekimi) (sıfat) idoneo kelimesinin karşılığı: ⟪elverişli|ELVERİŞLİ⟫, ⟪uygun|UYGUN⟫, ⟪olacak|OLACAK⟫, ⟪münasip|MÜNASİP⟫
+IDONEO	(sıfat) idoneo kelimesinin karşılığı: ⟪elverişli|ELVERİŞLİ⟫, ⟪uygun|UYGUN⟫, ⟪olacak|OLACAK⟫, ⟪münasip|MÜNASİP⟫
+IDOSA	(idoso sözcüğünün çekimi) (sıfat) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı...
+IDOSAS	(idoso sözcüğünün çekimi) (sıfat) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı...
+IDOSO	(sıfat) eski: herhangi bir görevden düştüğü veya durumunu yitirdiği için bir kişinin eski saygınlığının kalmadığı hâllerde kullanılan söz (ayrıca: yaşlı)\n(ad) aksakal: bir meslekte yaşça, kıdemce ileride ve yetenek bakımından üstün niteliğe sahip olan kimse, duayen
+IDOSOS	(ad) çoğul çekimi: idoso
+IENE	(ad) yen: Japonya'nın resmî para birimi
+IENES	(ad) çoğul çekimi: iene
+IETI	(ad) yeti: Himalaya Dağları'nda yaşadığı iddia edilen primat benzeri bir yaratık, kocaayak
+IGARAPE	(ad) dere: Çaydan küçük, yazın kuruyan veya suyu azalan küçük akarsu: (ayrıca: akım)
+IGARAPES	(igarape sözcüğünün çekimi) (ad) dere: Çaydan küçük, yazın kuruyan veya suyu azalan küçük akarsu: (ayrıca: akım)
+IGLUS	(ad) çoğul çekimi: iglu
+IGNARO	(sıfat) cahil: öğrenim görmemiş, okumamış kimse (ayrıca: habersiz, bilgisiz)
+IGNEA	(igneo sözcüğünün çekimi) (sıfat) ateşli: ateşi olan
+IGNEO	(sıfat) ateşli: ateşi olan
+IGNOMINIA	(ad) hayâ: utanç (ayrıca: ar, ut)
+IGNOMINIOSO	(sıfat) ignominioso kelimesinin karşılığı: ⟪alçaltıcı|ALÇALTICI⟫, yüz kızartıcı
+IGNORANCIA	(ad) cehalet: Bilgisizlik, bilmemezlik
+IGNORANTE	(sıfat) terbiyesiz: terbiyesi olmayan (ayrıca: cahil, habersiz)
+IGNORANTES	(ad) çoğul çekimi: ignorante
+IGNOSTICISMO	(ad) ignosticismo kelimesinin karşılığı: ignostisizm
+IGNOTO	(sıfat) meçhul: bilinmedik, bilinmeyen (ayrıca: belgisiz, bilinmeyen)
+IGREJA	(ad) kilise: Hristiyanların ibadet etmek için toplandıkları yer
+IGREJAS	(ad) çoğul çekimi: igreja
+IGUAIS	(igual sözcüğünün çekimi) (sıfat) eşit: aynı haklardan yararlanan, aynı düzeyde olan
+IGUAL	(sıfat) eşit: aynı haklardan yararlanan, aynı düzeyde olan
+IGUALDADES	(ad) çoğul çekimi: igualdade
+IGUALMENTE	(zarf) hakeza: penzer biçimde
+IGUANA	(ad) iguana: iguanagillerden, 1-2 metre boyunda, Amerika'nın tropikal bölgelerinde yaşayan, sırtında dikenli çıkıntılar bulunan, pullu, büyük sürüngen; Hint kertenkelesi.
+IGUANAS	(iguana sözcüğünün çekimi) (ad) iguana: iguanagillerden, 1-2 metre boyunda, Amerika'nın tropikal bölgelerinde yaşayan, sırtında dikenli çıkıntılar...
+IGUARIA	(ad) zariflik: zarif davranış veya zarif olma durumu, zarafet
+IIDICHE	(ad) iidiche kelimesinin karşılığı: yidiş
+ILE	(zamir) onlar: (kişi adılı): o zamirinin çoğulu (ayrıca: o)
+ILEGAIS	(ilegal sözcüğünün çekimi) (sıfat) ilegal kelimesinin karşılığı: kanun dışı, yasa dışı
+ILEGAL	(sıfat) ilegal kelimesinin karşılığı: kanun dışı, yasa dışı
+ILEGALIDADES	(ad) çoğul çekimi: ilegalidade
+ILEGITIMA	(ilegitimo sözcüğünün çekimi) (sıfat) gayrimeşru: Kurallara, yasalara uygun olmayan, meşru olmayan (ayrıca: dokuz babalı)
+ILEGITIMO	(sıfat) gayrimeşru: Kurallara, yasalara uygun olmayan, meşru olmayan (ayrıca: dokuz babalı)
+ILHA	(ad) ada: deniz veya göl ile çevrilmiş küçük kara parçası; aral cezire
+ILHARGA	(ad) kenar: bir şeyin, bir yerin bitiş kısmı veya yakını, kıyı, yaka (ayrıca: taraf, cihet)
+ILHAS	(ad) çoğul çekimi: ilha
+ILHAZINHA	(ilha sözcüğünün çekimi) (ad) ada: deniz veya göl ile çevrilmiş küçük kara parçası; aral cezire
+ILHEU	(ad) ilheu kelimesinin karşılığı: ⟪adacık|ADACIK⟫
+ILHOTA	(ilha sözcüğünün çekimi) (ad) ada: deniz veya göl ile çevrilmiş küçük kara parçası; aral cezire
+ILIBADO	(sıfat) arı: yabancı şeylerden arınmış, katışıksız, saf (ayrıca: pak, temiz)
+ILICITO	(sıfat) ilicito kelimesinin karşılığı: kanun dışı, yasa dışı
+ILIDIR	(eylem) çürütmek: (eti) Bayatlatıp gevrek bir duruma getirmek.
+ILIMITADO	(sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+ILOGICO	(sıfat) mantıksız: mantığa, akla aykırı olan
+ILONGO	(ad) ilongo kelimesinin karşılığı: hiligaynon
+ILU	(zamir) onlar: (kişi adılı): o zamirinin çoğulu (ayrıca: o)
+ILUDEM	(iludir sözcüğünün çekimi) (eylem) avutmak: oyalamak
+ILUDIDO	(iludir sözcüğünün çekimi) (eylem) avutmak: oyalamak
+ILUDINDO	(iludir sözcüğünün çekimi) (eylem) avutmak: oyalamak
+ILUDIR	(eylem) avutmak: oyalamak
+ILUDIU	(iludir sözcüğünün çekimi) (eylem) avutmak: oyalamak
+ILUDO	(iludir sözcüğünün çekimi) (eylem) avutmak: oyalamak
+ILUMINAI	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAM	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAMOS	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINANDO	(eylem) iluminar sözcüğünün gerund çekimi: aydınlatmak
+ILUMINAR	(eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINARA	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINARAM	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINARAO	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAREI	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAREM	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAREMOS	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINARIA	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINARIAM	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINARMOS	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAS	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINASSE	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAVA	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAVAM	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINAÇAO	(ad) aydınlatma: aydınlatmak işi.
+ILUMINAÇOES	(ad) çoğul çekimi: iluminação
+ILUMINE	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINEI	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINEM	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINISMO	(ad) iluminismo kelimesinin karşılığı: ⟪aydınlatma|AYDINLATMA⟫
+ILUMINO	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUMINOU	(iluminar sözcüğünün çekimi) (eylem) aydınlatmak: (mecaz) bir sorun üzerine bilgi vermek
+ILUSAO	(ad) ilusao kelimesinin karşılığı: ⟪kuruntu|KURUNTU⟫, ⟪delüzyon|DELÜZYON⟫
+ILUSIONISTA	(ad) ilusionista kelimesinin karşılığı: ⟪illüzyonist|İLLÜZYONİST⟫
+ILUSIONISTAS	(ad) çoğul çekimi: ilusionista
+ILUSTRA	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRAM	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRANDO	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRAR	(eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRAVA	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRAVAM	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRAÇAO	(ad) marifet: beceri, kabiliyet (ayrıca: malumat, bilgi)
+ILUSTREI	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRES	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTRO	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+ILUSTROU	(ilustrar sözcüğünün çekimi) (eylem) aydınlatmak: karanlığı giderip görünür duruma getirmek, ışıklandırmak (ayrıca: izah etmek, netleştirmek)
+IMA	(ad) ima kelimesinin karşılığı: ⟪mıknatıs|MIKNATIS⟫, ⟪imam|İMAM⟫
+IMAGEM	(ad) resim: Bazı eşyadan ve işlerden alınan vergi veya harç. (ayrıca: görüntü)
+IMAGENS	(ad) çoğul çekimi: imagem
+IMAGINA	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAI	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAIS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAMOS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINANDO	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAR	(eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARA	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARAM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARAO	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAREI	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAREM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAREMOS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARIAM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARIAMOS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARIAS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINARIO	(sıfat) imaginario kelimesinin karşılığı: ⟪sanal|SANAL⟫
+IMAGINARMOS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINASSE	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINASSEM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINASTE	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAVA	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAVAM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAVAMOS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAVAS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAVEIS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINAVEL	(sıfat) imaginavel kelimesinin karşılığı: düşünülebilir
+IMAGINAÇAO	(ad) imaginaçao kelimesinin karşılığı: hayal gücü
+IMAGINE	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINEI	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINEM	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINEMOS	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINES	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINO	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAGINOU	(imaginar sözcüğünün çekimi) (eylem) hayal etmek: bir şeyi zihinde tasarlayıp canlandırmak, hayallemek, tahayyül etmek, imgelemek
+IMAME	(ad) imam: Bazı küçük İslam devletlerinde devlet başkanı.
+IMAN	(ad) iman kelimesinin karşılığı: ⟪mıknatıs|MIKNATIS⟫
+IMANENCIA	(ad) imanencia kelimesinin karşılığı: ⟪içkinlik|İÇKİNLİK⟫
+IMANENTE	(sıfat) içkin: Varlığın içinde bulunan, varlığın yapısına karışmış olan, mündemiç (ayrıca: temel)
+IMBERBE	(sıfat) sakalsız: sakalı olmayan
+IMEDIATA	(imediato sözcüğünün çekimi) (sıfat) birincil: sırada, önemde ilk yeri alan
+IMEDIATAMENTE	(zarf) derhal: çabucak, hemen (ayrıca: demin, tezden)
+IMEDIATAS	(imediato sözcüğünün çekimi) (sıfat) birincil: sırada, önemde ilk yeri alan
+IMEDIATO	(sıfat) birincil: sırada, önemde ilk yeri alan
+IMEDIATOS	(ad) çoğul çekimi: imediato
+IMENSA	(imenso sözcüğünün çekimi) (sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+IMENSAS	(imenso sözcüğünün çekimi) (sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+IMENSIDAO	(ad) sonsuz: sonu olmayan, her niceliği aşabilen değişken (sembol: ∞) (ayrıca: sonsuzluk)
+IMENSO	(sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+IMENSOS	(imenso sözcüğünün çekimi) (sıfat) iri: Olağandan daha hacimli, olağanı aşan büyüklüğü olan.
+IMERGIDO	(imergir sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek
+IMERGINDO	(imergir sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek
+IMERGIR	(eylem) batırmak: (mecaz) mahvetmek
+IMERGIU	(imergir sözcüğünün çekimi) (eylem) batırmak: (mecaz) mahvetmek
+IMITA	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAM	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAMOS	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITANDO	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAR	(eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITARA	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITARAM	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAREI	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAREM	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAREMOS	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITARIA	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITARMOS	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITASSE	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAVA	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAVAM	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITAÇAO	(ad) imitaçao kelimesinin karşılığı: ⟪pastiş|PASTİŞ⟫
+IMITE	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITEI	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITEM	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITEMOS	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITO	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMITOU	(imitar sözcüğünün çekimi) (eylem) öykünmek: birinin yaptığı gibi yapmak, birine veya bir şeye benzemeye çalışmak, taklit etmek
+IMORAIS	(imoral sözcüğünün çekimi) (sıfat) imoral kelimesinin karşılığı: ⟪iffetsiz|İFFETSİZ⟫
+IMORAL	(sıfat) imoral kelimesinin karşılığı: ⟪iffetsiz|İFFETSİZ⟫
+IMORALIDADE	(ad) imoralidade kelimesinin karşılığı: ⟪ahlaksızlık|AHLAKSIZLIK⟫
+IMORALMENTE	(zarf) ahlaksızca: ahlaksız biçimde veya tarzda, ahlaksızcasına
+IMORTAIS	(ad) çoğul çekimi: imortal
+IMORTAL	(sıfat) ölümsüz: hiçbir zaman ölmeyecek olan, ebedî, layemut
+IMORTALIDADE	(ad) ölümsüzlük: Kalıcılık, ebedîlik
+IMOVEL	(ad) yapı: Yapılmakta olan konut, yol, köprü vb. inşaat. (ayrıca: bina, inşa etme)
+IMPACTE	(ad) tesir: etki (ayrıca: etki, çarpışma)
+IMPACTO	(ad) tesir: etki (ayrıca: etki, çarpışma)
+IMPALA	(ad) impala kelimesinin karşılığı: impala
+IMPAR	(eylem) impar kelimesinin karşılığı: ⟪ahlamak|AHLAMAK⟫\n(sıfat) impar kelimesinin karşılığı: ⟪acayip|ACAYİP⟫
+IMPARCIAIS	(imparcial sözcüğünün çekimi) (sıfat) tarafsız: yansız (ayrıca: bitaraf)
+IMPARCIAL	(sıfat) tarafsız: yansız (ayrıca: bitaraf)
+IMPARCIALIDADE	(ad) eşitlik: iki veya daha çok şeyin eşit olması durumu, denklik, müsavilik, müsavat, muadelet (ayrıca: adillik)
+IMPARES	(impar sözcüğünün çekimi) (eylem) impar kelimesinin karşılığı: ⟪ahlamak|AHLAMAK⟫
+IMPASSES	(impar sözcüğünün çekimi) (eylem) impar kelimesinin karşılığı: ⟪ahlamak|AHLAMAK⟫
+IMPAVIDA	(impavido sözcüğünün çekimi) (sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+IMPAVIDAMENTE	(zarf) cesurca: cesura yakışan biçimde, cesur gibi (ayrıca: cesurane)
+IMPAVIDO	(sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+IMPE	(impar sözcüğünün çekimi) (eylem) impar kelimesinin karşılığı: ⟪ahlamak|AHLAMAK⟫
+IMPEDANCIA	(ad) impedancia kelimesinin karşılığı: empedans
+IMPEDEM	(impedir sözcüğünün çekimi) (eylem) alıkoymak: ayırıp saklamak
+IMPEDIMENTO	(ad) impedimento kelimesinin karşılığı: ⟪ofsayt|OFSAYT⟫
+IMPEDIMENTOS	(ad) çoğul çekimi: impedimento
+IMPEDIR	(eylem) alıkoymak: ayırıp saklamak
+IMPERA	(imperar sözcüğünün çekimi) (eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERADOR	(ad) imparator: Bir imparatorluğu yöneten kimse
+IMPERADORA	(imperador sözcüğünün çekimi) (ad) imparator: Bir imparatorluğu yöneten kimse
+IMPERAM	(imperar sözcüğünün çekimi) (eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERAR	(eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERATIVA	(imperativo sözcüğünün çekimi) (ad) mertebe: aşama, derece, rütbe, paye (ayrıca: emir, sıra)
+IMPERATIVO	(ad) mertebe: aşama, derece, rütbe, paye (ayrıca: emir, sıra)
+IMPERATIVOS	(ad) çoğul çekimi: imperativo
+IMPERATRIZ	(ad) imparatoriçe: imparator eşi
+IMPERAVA	(imperar sözcüğünün çekimi) (eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERAVAM	(imperar sözcüğünün çekimi) (eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERE	(imperar sözcüğünün çekimi) (eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERIALISMO	(ad) imperialismo kelimesinin karşılığı: ⟪emperyalizm|EMPERYALİZM⟫
+IMPERIO	(ad) imparatorluk: imparator olma durumu veya unvanı
+IMPERIOS	(ad) çoğul çekimi: império
+IMPERIOSO	(sıfat) otoriter: otoriteli
+IMPEROU	(imperar sözcüğünün çekimi) (eylem) hükmetmek: (mecaz) bir kimseye veya topluluğa sözünü geçirmek (ayrıca: yönetmek)
+IMPERTINENTE	(sıfat) impertinente kelimesinin karşılığı: ⟪terbiyesiz|TERBİYESİZ⟫
+IMPERTINENTES	(impertinente sözcüğünün çekimi) (sıfat) impertinente kelimesinin karşılığı: ⟪terbiyesiz|TERBİYESİZ⟫
+IMPESSOALIDADE	(ad) impessoalidade kelimesinin karşılığı: ⟪banallik|BANALLİK⟫
+IMPETO	(ad) impeto kelimesinin karşılığı: hýz
+IMPIA	(impio sözcüğünün çekimi) (sıfat) zalim: acımasız ve haksız davranan, zulmeden, güç edici (ayrıca: acımasız, insanüstü)
+IMPIAS	(impio sözcüğünün çekimi) (sıfat) zalim: acımasız ve haksız davranan, zulmeden, güç edici (ayrıca: acımasız, insanüstü)
+IMPIO	(sıfat) zalim: acımasız ve haksız davranan, zulmeden, güç edici (ayrıca: acımasız, insanüstü)
+IMPIOS	(impio sözcüğünün çekimi) (sıfat) zalim: acımasız ve haksız davranan, zulmeden, güç edici (ayrıca: acımasız, insanüstü)
+IMPLANTA	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTADO	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAM	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAMOS	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTANDO	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAR	(eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTARA	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTARAM	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAREI	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAREM	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAREMOS	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTARIA	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTARMOS	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTAÇAO	(ad) implantasyon: Yerleştirme, tutturma.
+IMPLANTE	(ad) implante kelimesinin karşılığı: ⟪ekit|EKİT⟫
+IMPLANTEI	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTEM	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTES	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLANTOU	(implantar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek (ayrıca: monte etmek, indirmek)
+IMPLEMENTA	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTADO	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAM	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAMOS	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTANDO	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAR	(eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTARA	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTARAM	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAREI	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAREM	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAREMOS	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTARMOS	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTAÇAO	(ad) tatbik: uygulama, pratik
+IMPLEMENTE	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTEI	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTEM	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLEMENTOU	(implementar sözcüğünün çekimi) (eylem) uygulamak: üst üste getirmek, üstüne koymak, tatbik etmek (ayrıca: tatbik etmek, yerine getirmek)
+IMPLICITO	(sıfat) implicito kelimesinin karşılığı: üstü kapalı, dolayli
+IMPLODIR	(eylem) yıkılmak: devrilmek, yığılmak
+IMPLORA	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORADO	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAMOS	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORANDO	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAR	(eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORARA	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORARAM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORARAO	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAREI	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAREM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORARIA	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORARIAM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORARMOS	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORASSE	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORASSEM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAVA	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORAVAM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORE	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLOREI	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLOREM	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLOREMOS	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORES	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLORO	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPLOROU	(implorar sözcüğünün çekimi) (eylem) yalvarmak: yakarmak. (ayrıca: rica etmek)
+IMPOLUTO	(sıfat) arı: yabancı şeylerden arınmış, katışıksız, saf (ayrıca: pak, temiz)
+IMPORTA	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTADO	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTANCIA	(ad) önem: bir şeyin nitelik veya nicelik bakımından değeri olma durumu, ehemmiyet (ayrıca: ehemmiyet)
+IMPORTANDO	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTANTE	(sıfat) önemli: önemi olan, mühim, ehemmiyetli
+IMPORTANTES	(importante sözcüğünün çekimi) (sıfat) önemli: önemi olan, mühim, ehemmiyetli
+IMPORTAR	(eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARA	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARAM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARAO	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAREI	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAREM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAREMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARES	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARIA	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARIAM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARIAMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARIAS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTARMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTASSE	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTASSEM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTASSEMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTASSES	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTASTE	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAVA	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAVAM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAVAMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAVAS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTAÇAO	(ad) ithalat: Bir ülkeye başka bir ülkeden mal getirme veya satın alma.
+IMPORTEI	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTEM	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTEMOS	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTES	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTO	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTOU	(importar sözcüğünün çekimi) (eylem) importar kelimesinin karşılığı: ⟪önemsemek|ÖNEMSEMEK⟫
+IMPORTUNA	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNADO	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAM	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAMOS	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNANDO	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAR	(eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNARA	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNARAM	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNARAO	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAREI	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAREM	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNARIA	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAVA	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNAVAM	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNE	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNEI	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNEM	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPORTUNOU	(importunar sözcüğünün çekimi) (eylem) uğraşmak: birine kötü davranmak (ayrıca: rahatsız etmek, zahmet etmek)
+IMPOSITIVO	(sıfat) zaruri: zorunlu (ayrıca: zorunlu)
+IMPOSIÇAO	(ad) farz: yapmak zorunda kalınan şey, boyun borcu (ayrıca: yüküm, ödev)
+IMPOSSIBILITA	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITAM	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITANDO	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITAR	(eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITARAM	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITARIA	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITE	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIBILITOU	(impossibilitar sözcüğünün çekimi) (eylem) impossibilitar kelimesinin karşılığı: ⟪yasaklamak|YASAKLAMAK⟫
+IMPOSSIVEL	(sıfat) impossivel kelimesinin karşılığı: imkansiz
+IMPOSTO	(ad) imposto kelimesinin karşılığı: ⟪vergi|VERGİ⟫
+IMPOSTOS	(ad) çoğul çekimi: imposto
+IMPRECAR	(eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ilenmek)
+IMPREGNA	(impregnar sözcüğünün çekimi) (eylem) süzmek: (göz için) baygın ve anlamlı bakmak
+IMPREGNAM	(impregnar sözcüğünün çekimi) (eylem) süzmek: (göz için) baygın ve anlamlı bakmak
+IMPREGNANDO	(impregnar sözcüğünün çekimi) (eylem) süzmek: (göz için) baygın ve anlamlı bakmak
+IMPREGNAR	(eylem) süzmek: (göz için) baygın ve anlamlı bakmak
+IMPREGNARAM	(impregnar sözcüğünün çekimi) (eylem) süzmek: (göz için) baygın ve anlamlı bakmak
+IMPREGNOU	(impregnar sözcüğünün çekimi) (eylem) süzmek: (göz için) baygın ve anlamlı bakmak
+IMPRENSA	(ad) basın: dergi ve gazetelerin belli zamanlarda çıkan yayınların tamamı, matbuat (ayrıca: baskı, bası)
+IMPRENSADO	(imprensar sözcüğünün çekimi) (eylem) basmak: uygunsuz vaziyette yakalamak. (ayrıca: ezmek)
+IMPRENSAR	(eylem) basmak: uygunsuz vaziyette yakalamak. (ayrıca: ezmek)
+IMPRENSAS	(ad) çoğul çekimi: imprensa
+IMPRENSOU	(imprensar sözcüğünün çekimi) (eylem) basmak: uygunsuz vaziyette yakalamak. (ayrıca: ezmek)
+IMPRESCINDIVEL	(sıfat) zorunlu: doğal olarak kaçınılması imkânsız olan (ayrıca: zaruri)
+IMPRESSA	(impresso sözcüğünün çekimi) (sıfat) basılı: basılarak yerleştirilmiş
+IMPRESSAO	(ad) izlenim: bir durum veya olayın duyular yolu ile insan üzerinde bıraktığı etki, intiba, imaj
+IMPRESSIONA	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONADO	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAM	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAMOS	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONANDO	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONANTE	(sıfat) felaket: hayrete düşürücü, şaşırtıcı
+IMPRESSIONAR	(eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONARA	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONARAM	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONARAO	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAREI	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAREM	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONARIA	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONARIAM	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONARMOS	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONASSE	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAVA	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAVAM	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONAVEIS	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONE	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONEI	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONEM	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONO	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSIONOU	(impressionar sözcüğünün çekimi) (eylem) etkilemek: -i etkiye uğratmak, tesir etmek, etki etmek
+IMPRESSO	(sıfat) basılı: basılarak yerleştirilmiş
+IMPRESSOES	(ad) çoğul çekimi: impressão
+IMPRESSOR	(ad) yazıcı: İşi yazı yazma olan kimse. (ayrıca: basımcı)
+IMPRESSORA	(ad) yazıcı: bir filmin yazılarını hazırlayan, yazıcı cihazı kullanan kişi (ayrıca: basımcı)
+IMPRESTAVEL	(sıfat) imprestavel kelimesinin karşılığı: ⟪değersiz|DEĞERSİZ⟫
+IMPREVISTO	(sıfat) beklenmedik: beklenmeyen, umulmayan
+IMPRIMA	(imprimir sözcüğünün çekimi) (eylem) yazdırmak: Yazma işini yaptırmak.
+IMPRIMIR	(eylem) yazdırmak: Yazma işini yaptırmak.
+IMPROBIDADE	(ad) sahtekârlık: sahte işler yapma
+IMPROBO	(sıfat) sahtekâr: sahte işler yapan kişi (ayrıca: hilekâr, iffetsiz)
+IMPROCEDENTE	(sıfat) münasebetsiz: uygun olmayan, yakışıksız, çirkin (ayrıca: uygunsuz)
+IMPROPERIO	(ad) hakaret: onur kırma, onura dokunma
+IMPROPERIOS	(improperio sözcüğünün çekimi) (ad) hakaret: onur kırma, onura dokunma
+IMPROPRIA	(improprio sözcüğünün çekimi) (sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+IMPROPRIAS	(improprio sözcüğünün çekimi) (sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+IMPROPRIEDADE	(ad) halt: uygun olmayan, beğenilmeyen şey
+IMPROPRIEDADES	(ad) çoğul çekimi: impropriedade
+IMPROPRIO	(sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+IMPROPRIOS	(improprio sözcüğünün çekimi) (sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+IMPROVISE	(eylem) improvisar sözcüğünün çekimi:
+IMPROVISO	(ad) improviso kelimesinin karşılığı: ⟪doğaçlama|DOĞAÇLAMA⟫, ⟪emprovizasyon|EMPROVİZASYON⟫
+IMPUDENTE	(sıfat) arsız: (mecaz) kolayca üreyebilen (bitki) (ayrıca: utanmaz)
+IMPUDICO	(sıfat) utanmaz: utanması olmayan, sıkılmaz, yüzsüz, arsız
+IMPULSAO	(ad) batmazlık: Yüzme, yüzeyde kalma, buoyans
+IMPULSO	(ad) impulso kelimesinin karşılığı: empüls
+IMPULSOS	(ad) çoğul çekimi: impulso
+IMPUREZAS	(ad) çoğul çekimi: impureza
+IMPURO	(sıfat) karışık: (mecaz) dolu (ayrıca: mağşuş)
+IMPUTAÇAO	(ad) suçlama: suçlamak işi, itham (ayrıca: şarj, yük)
+IMUNDAS	(imundo sözcüğünün çekimi) (sıfat) kirli: zihniyeti kötü olan (ayrıca: pis, müstehcen)
+IMUNDICIE	(ad) kir: Herhangi bir şeyin veya vücudun üzerinde oluşan, biriken pislik; kir pas, pasak. (ayrıca: pislik, çepel)
+IMUNDO	(sıfat) kirli: zihniyeti kötü olan (ayrıca: pis, müstehcen)
+IMUNE	(sıfat) imune kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMUNIDADE	(ad) imunidade kelimesinin karşılığı: ⟪bağışıklık|BAĞIŞIKLIK⟫
+IMUNITARIO	(sıfat) imunitario kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMUNIZAÇAO	(ad) imunizaçao kelimesinin karşılığı: bağışıklama
+IMUNOLOGIA	(ad) imunologia kelimesinin karşılığı: ⟪immünoloji|İMMÜNOLOJİ⟫
+IMUNOLOGICA	(imunologico sözcüğünün çekimi) (sıfat) imunologico kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMUNOLOGICAS	(imunologico sözcüğünün çekimi) (sıfat) imunologico kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMUNOLOGICO	(sıfat) imunologico kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMUNOLOGICOS	(imunologico sözcüğünün çekimi) (sıfat) imunologico kelimesinin karşılığı: ⟪bağışık|BAĞIŞIK⟫
+IMUTAVEL	(sıfat) değişmez: aynen kalan, değişikliğe uğramayan
+INACABADO	(sıfat) inacabado kelimesinin karşılığı: ayarı bozuk
+INACEITAVEL	(sıfat) sayılamaz: sayılması mümkün olmayan (ayrıca: merdud)
+INACESSIBILIDADE	(ad) erişilemezlik: bir şeyin bir yerden başka bir yere eriştirmenin imkân dahilinde olmaması durumu
+INACESSIVEL	(sıfat) erişilemez: Web'de sayfanın ulaşılabilir olmaması (ayrıca: erişilmez)
+INACREDITAVEL	(sıfat) inacreditavel kelimesinin karşılığı: inanilmaz
+INADEQUADA	(inadequado sözcüğünün çekimi) (sıfat) inadequado kelimesinin karşılığı: ⟪uymaz|UYMAZ⟫, ⟪uygunsuz|UYGUNSUZ⟫
+INADEQUADO	(sıfat) inadequado kelimesinin karşılığı: ⟪uymaz|UYMAZ⟫, ⟪uygunsuz|UYGUNSUZ⟫
+INADEQUADOS	(inadequado sözcüğünün çekimi) (sıfat) inadequado kelimesinin karşılığı: ⟪uymaz|UYMAZ⟫, ⟪uygunsuz|UYGUNSUZ⟫
+INALADO	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALAM	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALAMOS	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALANDO	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALAR	(eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALARAM	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALAREM	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALASSE	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALAVA	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALEI	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALEM	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALO	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INALOU	(inalar sözcüğünün çekimi) (eylem) inalar kelimesinin karşılığı: ⟪solumak|SOLUMAK⟫
+INANIMADA	(inanimado sözcüğünün çekimi) (sıfat) cansız: canlı olmayan (varlık), camit
+INANIMADAS	(inanimado sözcüğünün çekimi) (sıfat) cansız: canlı olmayan (varlık), camit
+INANIMADO	(sıfat) cansız: canlı olmayan (varlık), camit
+INANIMADOS	(inanimado sözcüğünün çekimi) (sıfat) cansız: canlı olmayan (varlık), camit
+INAPETENCIA	(ad) iştahsızlık: İştahsız olma durumu
+INAPROPRIADA	(inapropriado sözcüğünün çekimi) (sıfat) münasebetsiz: uygun olmayan, yakışıksız, çirkin (ayrıca: uygunsuz)
+INAPROPRIADO	(sıfat) münasebetsiz: uygun olmayan, yakışıksız, çirkin (ayrıca: uygunsuz)
+INAPROPRIADOS	(inapropriado sözcüğünün çekimi) (sıfat) münasebetsiz: uygun olmayan, yakışıksız, çirkin (ayrıca: uygunsuz)
+INAPTA	(inapto sözcüğünün çekimi) (sıfat) âciz: beceriksiz (ayrıca: beceriksiz)
+INAPTO	(sıfat) âciz: beceriksiz (ayrıca: beceriksiz)
+INATIVA	(inativo sözcüğünün çekimi) (sıfat) ölü: etkileme gücü olmayan, canlılığı olmayan (ayrıca: feshedilmiş, geçersiz)
+INATIVO	(sıfat) ölü: etkileme gücü olmayan, canlılığı olmayan (ayrıca: feshedilmiş, geçersiz)
+INATO	(sıfat) doğuştan: yaradılıştan
+INAUGURAÇAO	(ad) açılış: küşat, açım, yeni yapının, yerin ya da yeni kurumun çalışmaya başlaması (ayrıca: açış)
+INCANDESCENTE	(sıfat) incandescente kelimesinin karşılığı: ⟪akkor|AKKOR⟫
+INCAPACIDADE	(ad) sakatlık: yanlış, kusur, hata (ayrıca: yetiyitim)
+INCAUTA	(incauto sözcüğünün çekimi) (sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INCAUTO	(sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INCAUTOS	(incauto sözcüğünün çekimi) (sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INCEL	(ad) incel kelimesinin karşılığı: incel
+INCENDIARIO	(ad) incendiario kelimesinin karşılığı: yangın bombası
+INCENDIO	(ad) incendio kelimesinin karşılığı: ⟪yangın|YANGIN⟫
+INCENSO	(ad) tütsü: çevrenin güzel kokmasını sağlamak amacıyla yakılan kokulu madde
+INCENTIVA	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVADO	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVAM	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVAMOS	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVANDO	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVAR	(eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca: güdülemek)
+INCENTIVARA	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVARAM	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVARIA	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVARMOS	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVASSE	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVAVA	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVAVAM	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVE	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVEI	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVEM	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCENTIVOS	(ad) çoğul çekimi: incentivo
+INCENTIVOU	(incentivar sözcüğünün çekimi) (eylem) isteklendirmek: Birinde bir şey yapma isteğini uyandırmak, özendirmek, teşvik etmek, motive etmek. (ayrıca:...
+INCERTA	(incerto sözcüğünün çekimi) (sıfat) incerto kelimesinin karşılığı: bulanik olma
+INCERTO	(sıfat) incerto kelimesinin karşılığı: bulanik olma
+INCESSANTE	(sıfat) aralıksız: birbirine bitişik olan, aralarında açıklık bulunmayan, kesintisiz (ayrıca: sürekli)
+INCESTO	(ad) ensest: Ana-baba otoritesine sahip bir erişkin ile bir çocuk veya ergen arasındaki her çeşit cinsel ilişki
+INCHAM	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHANDO	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHAR	(eylem) kabarmak: şişmek, genişlemek
+INCHARA	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHARAM	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHARAO	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHAREM	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHASSE	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHAVA	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHAVAM	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHAÇAO	(ad) inchaçao kelimesinin karşılığı: ⟪kabarıklık|KABARIKLIK⟫
+INCHAÇO	(ad) kabarıklık: kabarık olma durumu
+INCHE	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHEI	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHEM	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHES	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHO	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCHOU	(inchar sözcüğünün çekimi) (eylem) kabarmak: şişmek, genişlemek
+INCIDENCIA	(ad) gelme: bir ışının, kaynağından çıkarak bir ayna yüzüne veya şeffaf bir cismin yüzeyine erişmesi
+INCIDENTALMENTE	(zarf) incidentalmente kelimesinin karşılığı: sırası gelmişken, bu arada, bir ara, lâf arasında
+INCIDENTE	(ad) olay: Ortaya çıkan, oluşan durum, ilgi çeken veya çekebilecek nitelikte olan her türlü iş; hadise, vaka (ayrıca: hadise, kaza)
+INCIDENTEMENTE	(zarf) incidentemente kelimesinin karşılığı: sırası gelmişken, bu arada, bir ara, lâf arasında
+INCIDIR	(eylem) etkileyebilmek: etkileme ihtimali veya imkânı bulunmak (ayrıca: düşmek, etkilemek)
+INCITA	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITAM	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITAMOS	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITANDO	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITAR	(eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITARA	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITARAM	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITAREM	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITARIA	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITASSE	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITAVA	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITAVAM	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITE	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITEI	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITEM	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITO	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCITOU	(incitar sözcüğünün çekimi) (eylem) incitar kelimesinin karşılığı: teþvik etmek
+INCLINA	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAM	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAMOS	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINANDO	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAR	(eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINARA	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINARAM	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINARAO	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAREI	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAREM	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINARIA	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINARMOS	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINASSE	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAVA	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAVAM	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINAÇAO	(ad) tandans: belli bir yöne veya duruma meyletme, eğilme istidadı gösterme, eğilim
+INCLINAÇOES	(ad) çoğul çekimi: inclinação
+INCLINE	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINEI	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINEM	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINO	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLINOU	(inclinar sözcüğünün çekimi) (eylem) uç: uçmak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumlu çekimi (ayrıca: eğmek)
+INCLUI	(incluir sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCLUIDO	(incluir sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCLUINDO	(incluir sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCLUIR	(eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCLUSAO	(ad) ihtiva: içine alma, içinde bulundurma, içerme, gizlenme
+INCLUSIVE	(zarf) ayrıca: ayrı olarak (ayrıca: aynı zamanda)
+INCLUSIVO	(sıfat) kapsamlı: kapsamı olan
+INCOERENTE	(sıfat) tutarsız: tutarlı olmayan, aralarında çelişki bulunan, insicamsız (ayrıca: abuzambak)
+INCOLOR	(sıfat) incolor kelimesinin karşılığı: renksiz
+INCOLORES	(incolor sözcüğünün çekimi) (sıfat) incolor kelimesinin karşılığı: renksiz
+INCOLUMIDADE	(ad) incolumidade kelimesinin karşılığı: ⟪emniyet|EMNİYET⟫, ⟪güvenlik|GÜVENLİK⟫
+INCOMODA	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAMOS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODANDO	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAR	(eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARA	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARAM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARAO	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAREI	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAREM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAREMOS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARIA	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARIAM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARIAMOS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODARMOS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODASSE	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODASSEM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAVA	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAVAM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODAVAMOS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODE	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODEI	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODEM	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODEMOS	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODES	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMODOU	(incomodar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: rahatsız etmek, uğraşmak)
+INCOMPATIBILIDADE	(ad) incompatibilidade kelimesinin karşılığı: ⟪bağdaşmazlık|BAĞDAŞMAZLIK⟫
+INCOMPATIBILIDADES	(ad) çoğul çekimi: incompatibilidade
+INCOMPETENCIA	(ad) sakatlık: yanlış, kusur, hata (ayrıca: yetiyitim)
+INCOMPETENTE	(sıfat) yetersiz: gereken, istenen [[nitelik|niteliği olmayan (ayrıca: yetkin olmayan)
+INCOMPETENTES	(ad) çoğul çekimi: incompetente
+INCOMPLETA	(incompleto sözcüğünün çekimi) (sıfat) incompleto kelimesinin karşılığı: ayarı bozuk
+INCOMPLETO	(sıfat) incompleto kelimesinin karşılığı: ayarı bozuk
+INCOMPREENSIVEL	(sıfat) abuk: saçma (söz, kişi, davranış)
+INCOMUM	(sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü
+INCOMUNS	(incomum sözcüğünün çekimi) (sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü
+INCONCEBIVELMENTE	(zarf) abukça: abuk bir biçimde
+INCONDICIONAL	(sıfat) incondicional kelimesinin karşılığı: ⟪koşulsuz|KOŞULSUZ⟫
+INCONDICIONALMENTE	(zarf) tamamen: bütün olarak, büsbütün (ayrıca: büsbütün)
+INCONSCIENTE	(sıfat) bilinç dışı: bilinçdışında yer alan, bastırılmış, bastırmaya uğramış
+INCONSCIENTES	(ad) çoğul çekimi: inconsciente
+INCONSEQUENTE	(sıfat) mantıksız: mantığa uygun davranmayan
+INCONSISTENTE	(sıfat) tutarsız: tutarlı olmayan, aralarında çelişki bulunan, insicamsız (ayrıca: çelişkili)
+INCONSTANTE	(sıfat) hakikatsiz: (mecaz) vefasız
+INCONSTANTES	(inconstante sözcüğünün çekimi) (sıfat) hakikatsiz: (mecaz) vefasız
+INCONTAVEIS	(incontavel sözcüğünün çekimi) (sıfat) sayısız: sayılmayacak kadar çok, pek çok, sayımsız
+INCONTAVEL	(sıfat) sayısız: sayılmayacak kadar çok, pek çok, sayımsız
+INCONTORNAVEL	(sıfat) incontornavel kelimesinin karşılığı: ⟪kaçınılmaz|KAÇINILMAZ⟫
+INCONVENIENCIA	(ad) külfet: sıkıntı, zorluk (ayrıca: zahmet)
+INCONVENIENTE	(sıfat) inconveniente kelimesinin karşılığı: ⟪münasebetsiz|MÜNASEBETSİZ⟫, ⟪uygunsuz|UYGUNSUZ⟫\n(ad) külfet: sıkıntı, zorluk (ayrıca: zahmet)
+INCORPORA	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORAM	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORAMOS	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORANDO	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORAR	(eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORARA	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORARAM	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORAREM	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORARIA	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORASSE	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORAVA	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPORAÇAO	(ad) geçişim: belirli bir işi yapma yeterliliğinin ilişkili veya bağlantılı başka bir işi yapma sonucunda artması, intikal
+INCORPORAÇOES	(ad) çoğul çekimi: incorporação
+INCORPORE	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPOREI	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPOREM	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORPOROU	(incorporar sözcüğünün çekimi) (eylem) kapsamak: içine almak, sınırları içine almak, şamil olmak
+INCORRETA	(incorreto sözcüğünün çekimi) (sıfat) hatalı: Hatası olan, yanlışlığı bulunan (ayrıca: yanlış)
+INCORRETO	(sıfat) hatalı: Hatası olan, yanlışlığı bulunan (ayrıca: yanlış)
+INCREDIVEL	(sıfat) inanılmaz: az rastlanan, olağanüstü
+INCREDULO	(sıfat) inanmayan: belli bir inanca sahip olmayan kimse (ayrıca: akidesi bozuk)\n(ad) inanmayan: belli bir inanca sahip olmayan kimse
+INCREMENTO	(ad) çoğalma: çok duruma gelme, artma (ayrıca: artış)
+INCRIVEL	(sıfat) incrivel kelimesinin karşılığı: inanilmaz
+INCRUSTAÇOES	(ad) çoğul çekimi: incrustação
+INCUBADEIRA	(ad) kuvöz: Özellikle erken veya yeni doğmuş bebeklerin, zarar verebilecek dış etkenlerden korunması amacıyla içine yerleştirildiği, belirli sıcaklığın ve nemin özel olarak oluşturulduğu, şeffaf, kapalı aygıt; yaşanak. (ayrıca: etüv)
+INCUBADORA	(ad) kuvöz: Özellikle erken veya yeni doğmuş bebeklerin, zarar verebilecek dış etkenlerden korunması amacıyla içine yerleştirildiği, belirli sıcaklığın ve nemin özel olarak oluşturulduğu, şeffaf, kapalı aygıt; yaşanak. (ayrıca: etüv)
+INCUBO	(ad) kâbus: acı, sıkıntı, korku veren olay
+INCULCADO	(inculcar sözcüğünün çekimi) (eylem) delmek: (mecaz) incitmek, kırmak
+INCULCAR	(eylem) delmek: (mecaz) incitmek, kırmak
+INCULTA	(inculto sözcüğünün çekimi) (sıfat) kültürsüz: Kültürü olmayan
+INCULTO	(sıfat) kültürsüz: Kültürü olmayan
+INCUMBENCIA	(ad) ödev: yapılması, yerine getirilmesi, insanlık duygusu, töre ve yasa bakımından gerekli olan iş veya davranış, vazife, vecibe (ayrıca: vazife, görev)
+INCURSAO	(ad) akın: düşman topraklarına tedirgin etme, yıldırma, çapul vb. amaçlarla toplu olarak yapılan baskın
+INCURSOES	(ad) çoğul çekimi: incursão
+INCUTIR	(eylem) tanıtmak: bir kişinin kim olduğunu başkasına bildirmek, tanıştırmak, takdim etmek, prezante etmek
+INDAGA	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGADO	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGAM	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGAMOS	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGANDO	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGAR	(eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGARAM	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGAREI	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGAVA	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGAÇAO	(ad) inceleme: incelemek işi, tetkik (ayrıca: başvuru, müracaat)
+INDAGO	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGOU	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGUE	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDAGUEI	(indagar sözcüğünün çekimi) (eylem) indagar kelimesinin karşılığı: müracaat etmek
+INDECENCIA	(ad) külfet: sıkıntı, zorluk (ayrıca: zahmet)
+INDECENTE	(sıfat) edepsiz: utanılacak işleri sıkılmadan yapan, utanmaz, sıkılmaz, terbiyesiz
+INDECISAO	(ad) kararsızlık: Kararsız olma durumu, tereddüt
+INDECLINAVEL	(sıfat) çekimsiz: çekimi olmayan
+INDEFERIMENTO	(ad) reddetme: reddetmek işi
+INDEFESA	(indefeso sözcüğünün çekimi) (sıfat) âciz: gücü bir işe yetmez olan, güçsüz
+INDEFESAS	(indefeso sözcüğünün çekimi) (sıfat) âciz: gücü bir işe yetmez olan, güçsüz
+INDEFESO	(sıfat) âciz: gücü bir işe yetmez olan, güçsüz
+INDEFESOS	(indefeso sözcüğünün çekimi) (sıfat) âciz: gücü bir işe yetmez olan, güçsüz
+INDEFINIDA	(indefinido sözcüğünün çekimi) (sıfat) belirtisiz: blirtisi olmayan
+INDEFINIDAS	(indefinido sözcüğünün çekimi) (sıfat) belirtisiz: blirtisi olmayan
+INDEFINIDO	(sıfat) belirtisiz: blirtisi olmayan
+INDEFINIDOS	(ad) çoğul çekimi: indefinido
+INDEMNIZAÇAO	(ad) tazmin: Zararı ödeme.
+INDENIZA	(indenizar sözcüğünün çekimi) (eylem) indenizar kelimesinin karşılığı: telafi etmek, ⟪karşılayabilmek|KARŞILAYABİLMEK⟫
+INDENIZADO	(indenizar sözcüğünün çekimi) (eylem) indenizar kelimesinin karşılığı: telafi etmek, ⟪karşılayabilmek|KARŞILAYABİLMEK⟫
+INDENIZANDO	(indenizar sözcüğünün çekimi) (eylem) indenizar kelimesinin karşılığı: telafi etmek, ⟪karşılayabilmek|KARŞILAYABİLMEK⟫
+INDENIZAR	(eylem) indenizar kelimesinin karşılığı: telafi etmek, ⟪karşılayabilmek|KARŞILAYABİLMEK⟫
+INDENIZE	(indenizar sözcüğünün çekimi) (eylem) indenizar kelimesinin karşılığı: telafi etmek, ⟪karşılayabilmek|KARŞILAYABİLMEK⟫
+INDENIZOU	(indenizar sözcüğünün çekimi) (eylem) indenizar kelimesinin karşılığı: telafi etmek, ⟪karşılayabilmek|KARŞILAYABİLMEK⟫
+INDENTAÇAO	(ad) indentaçao kelimesinin karşılığı: ⟪basamaklandırma|BASAMAKLANDIRMA⟫
+INDEPENDENCIA	(ad) bağımsızlık: bağımsız olma durumu veya niteliği, istiklal
+INDEPENDENTE	(sıfat) bağımsız: bağımlı olmayan
+INDEPENDENTEMENTE	(zarf) ayrı: tek başına, yalnız
+INDEPENDENTES	(independente sözcüğünün çekimi) (sıfat) bağımsız: bağımlı olmayan
+INDETERMINADA	(indeterminado sözcüğünün çekimi) (sıfat) belirtisiz: blirtisi olmayan
+INDETERMINADAS	(indeterminado sözcüğünün çekimi) (sıfat) belirtisiz: blirtisi olmayan
+INDETERMINADO	(sıfat) belirtisiz: blirtisi olmayan
+INDETERMINADOS	(indeterminado sözcüğünün çekimi) (sıfat) belirtisiz: blirtisi olmayan
+INDEXAR	(eylem) dizinlemek: dizinini yapmak.
+INDEZ	(ad) indez kelimesinin karşılığı: ⟪yem|YEM⟫
+INDIA	(indio sözcüğünün çekimi) (ad) indio kelimesinin karşılığı: ⟪indiyum|İNDİYUM⟫
+INDIANAS	(ad) çoğul çekimi: indiana
+INDIANOS	(ad) çoğul çekimi: indiano
+INDICA	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICADOR	(ad) indicador kelimesinin karşılığı: ⟪göstergeç|GÖSTERGEÇ⟫
+INDICAM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAMOS	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICANDO	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAR	(eylem) göstermek: Belirtmek, anlatmak.
+INDICARA	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICARAM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICARAO	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAREI	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAREM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAREMOS	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICARIA	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICARIAM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICARMOS	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAS	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICASSE	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICASSEM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICATIVOS	(ad) çoğul çekimi: indicativo
+INDICAVA	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAVAM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDICAÇAO	(ad) tanıt: tanıtlamaya yarayan belge veya herhangi bir şey, beyyine, hüccet (ayrıca: alamet, belirtme)
+INDICE	(ad) endeks: dizin, indeks (ayrıca: dizin)
+INDICES	(ad) çoğul çekimi: índice
+INDICIAMENTO	(ad) indiciamento kelimesinin karşılığı: ⟪ithamname|İTHAMNAME⟫
+INDICIAR	(eylem) indiciar kelimesinin karşılığı: ⟪suçlamak|SUÇLAMAK⟫
+INDICIAÇAO	(ad) indiciaçao kelimesinin karşılığı: ⟪ithamname|İTHAMNAME⟫
+INDICIO	(ad) alamet: belirti, iz, işaret (ayrıca: belirtme, tanıt)
+INDICIOS	(ad) çoğul çekimi: indício
+INDICOU	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDIFERENTE	(sıfat) indiferente kelimesinin karşılığı: ⟪aldırışsız|ALDIRIŞSIZ⟫, ⟪vasat|VASAT⟫, ⟪ilgisiz|İLGİSİZ⟫, ⟪umursamaz|UMURSAMAZ⟫
+INDIFERENTES	(indiferente sözcüğünün çekimi) (sıfat) indiferente kelimesinin karşılığı: ⟪aldırışsız|ALDIRIŞSIZ⟫, ⟪vasat|VASAT⟫, ⟪ilgisiz|İLGİSİZ⟫, ⟪umursamaz|UMURSAMAZ⟫
+INDIFERENÇAS	(ad) çoğul çekimi: indiferença
+INDIGENA	(sıfat) indigena kelimesinin karşılığı: ⟪yerli|YERLİ⟫
+INDIGENAS	(ad) çoğul çekimi: indígena
+INDIGENTES	(ad) çoğul çekimi: indigente
+INDIGNADA	(seu sözcüğünün çekimi) (zamir) onun: ona ait
+INDIGO	(ad) çivit: (Karadeniz ağzı) Meyvenin çekirdeği
+INDIO	(ad) indio kelimesinin karşılığı: ⟪indiyum|İNDİYUM⟫
+INDIOS	(ad) çoğul çekimi: índio
+INDIQUE	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDIQUEI	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDIQUEM	(indicar sözcüğünün çekimi) (eylem) göstermek: Belirtmek, anlatmak.
+INDIRETO	(sıfat) dolaylı: doğrudan doğruya olmayan, dolayısıyla olan, bilvasıta, vasıtalı, endirekt
+INDISCRIÇOES	(ad) çoğul çekimi: indiscrição
+INDISPENSAVEL	(sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari (ayrıca: zaruri, gerek)
+INDISPOSIÇAO	(ad) illet: sebep (ayrıca: bulantı, akşamdan kalmalık)
+INDITOSO	(sıfat) garip: (mecaz) dokunaklı, hüzün veren (ayrıca: bedbaht, saadetsiz)
+INDIVIDUAIS	(individual sözcüğünün çekimi) (sıfat) bireysel: bireyle ilgili olan, bireye özgü olan, ferdî (ayrıca: ayrı ayrı)
+INDIVIDUAL	(sıfat) bireysel: bireyle ilgili olan, bireye özgü olan, ferdî (ayrıca: ayrı ayrı)
+INDIVIDUALIDADE	(ad) kişilik: bir kişiye özgü belirgin özellik, manevî ve ruhsal niteliklerinin bütünü, şahsiyet
+INDIVIDUALISMO	(ad) individualismo kelimesinin karşılığı: ⟪individüalizm|İNDİVİDÜALİZM⟫, ⟪bireysellik|BİREYSELLİK⟫, ⟪bireycilik|BİREYCİLİK⟫
+INDIVIDUO	(sıfat) individuo kelimesinin karşılığı: ⟪bölünmez|BÖLÜNMEZ⟫\n(ad) individuo kelimesinin karşılığı: ⟪birey|BİREY⟫
+INDIVIDUOS	(ad) çoğul çekimi: indivíduo
+INDIVISIVEL	(sıfat) indivisivel kelimesinin karşılığı: ⟪bölünmez|BÖLÜNMEZ⟫
+INDOLE	(ad) huy: alışkanlık
+INDOLENTE	(sıfat) tembel: iş görmeyi, çalışmayı sevmeyen, çaba göstermekten, sıkıntıdan kaçan, üşengeç, üşengen, ayyar (ayrıca: haylaz)
+INDONESIOS	(ad) çoğul çekimi: indonésio
+INDULGENTE	(sıfat) indulgente kelimesinin karşılığı: iyi huylu
+INDULTO	(ad) indulto kelimesinin karşılığı: af, ⟪pardon|PARDON⟫
+INDUMENTARIA	(ad) kostüm: Ceket, pantolon ve bazen de yelekten oluşan erkek takım giysisi.
+INDUMENTO	(ad) giysi: elbise (ayrıca: elbise)
+INDUSTRIA	(ad) endüstri: sanayi (ayrıca: sanayi)
+INDUSTRIAL	(sıfat) endüstriyel: Endüstriyle ilgili olan.
+INDUZIMENTO	(ad) induzimento kelimesinin karşılığı: ⟪ikna|İKNA⟫, ⟪kandırma|KANDIRMA⟫, ⟪itikat|İTİKAT⟫
+INDUÇOES	(ad) çoğul çekimi: indução
+INEFICIENTE	(sıfat) verimsiz: verimi olmayan veya az olan, yetersiz
+INEFICIENTES	(ineficiente sözcüğünün çekimi) (sıfat) verimsiz: verimi olmayan veya az olan, yetersiz
+INELUTAVEL	(sıfat) inelutavel kelimesinin karşılığı: ⟪kaçınılmaz|KAÇINILMAZ⟫
+INEPTA	(inepto sözcüğünün çekimi) (sıfat) âciz: beceriksiz (ayrıca: beceriksiz)
+INEPTO	(sıfat) âciz: beceriksiz (ayrıca: beceriksiz)
+INERCIA	(ad) inercia kelimesinin karşılığı: ⟪eylemsizlik|EYLEMSİZLİK⟫
+INERENTE	(sıfat) içsel: İçle ilgili, içe ilişkin, dahilî
+INERME	(sıfat) silahsız: silahı olmadan: (ayrıca: âciz)
+INERTE	(sıfat) atıl: tembel (ayrıca: aylak)
+INESCRUPULOSO	(sıfat) vicdansız: vicdanı olmayan, insafsız kimse (ayrıca: ahlâksız)
+INESPERADO	(sıfat) beklenmedik: birdenbire, ansızın olan
+INEVITAVEL	(sıfat) inevitavel kelimesinin karşılığı: ⟪kaçınılmaz|KAÇINILMAZ⟫
+INEXISTENTE	(sıfat) hiçbir: bir addan önce getirilerek o adın bildirdiği varlıktan tanesinin bile olmadığını anlatan söz
+INEXISTENTES	(inexistente sözcüğünün çekimi) (sıfat) hiçbir: bir addan önce getirilerek o adın bildirdiği varlıktan tanesinin bile olmadığını anlatan söz
+INEXPERIENTE	(sıfat) acemi: bir işin yabancısı olan, eli işe alışmamış, bir işi becermeyen (ayrıca: acemi çaylak)
+INFANCIA	(ad) çocukluk: (mecaz) çocukça davranış
+INFANCIAS	(ad) çoğul çekimi: infância
+INFANTA	(ad) infanta kelimesinin karşılığı: ⟪prenses|PRENSES⟫
+INFANTARIA	(ad) infantaria kelimesinin karşılığı: ⟪piyade|PİYADE⟫
+INFANTE	(ad) yavru: Çocuk
+INFANTES	(ad) çoğul çekimi: infante
+INFANTIL	(sıfat) bön: budala, saf, avanak, ahmak (ayrıca: dingil, aptal)
+INFANTIS	(infantil sözcüğünün çekimi) (sıfat) bön: budala, saf, avanak, ahmak (ayrıca: dingil, aptal)
+INFARENTO	(sıfat) sinir: kas kirişi ve zarı
+INFARTO	(ad) infarto kelimesinin karşılığı: ⟪enfarktüs|ENFARKTÜS⟫
+INFECCIOSO	(sıfat) geçici: bulaşan, bulaşıcı (ayrıca: sâri, bulaşıcı)
+INFECÇAO	(ad) infecçao kelimesinin karşılığı: ⟪enfeksiyon|ENFEKSİYON⟫
+INFELICIDADE	(ad) mutsuzluk: Mutsuz olma durumu, bedbahtlık, saadetsizlik.
+INFELICIDADES	(ad) çoğul çekimi: infelicidade
+INFELIZ	(sıfat) mutsuz: mutlu olmayan (ayrıca: bedbaht)
+INFELIZMENTE	(zarf) infelizmente kelimesinin karşılığı: ⟪maalesef|MAALESEF⟫
+INFERENCIA	(ad) çıkarsama: Bir önermeden, düşünce yoluyla bir başka önermeye geçme işi, intikal
+INFERIOR	(sıfat) uyuz: düşük nitelikli, değersiz (mal) (ayrıca: değersiz, aşağılık)
+INFERNAIS	(infernal sözcüğünün çekimi) (sıfat) yavuz: kötü, fena
+INFERNAL	(sıfat) yavuz: kötü, fena
+INFERNO	(ad) inferno kelimesinin karşılığı: tamu, ⟪cehennem|CEHENNEM⟫
+INFERTIL	(sıfat) verimsiz: verimi olmayan veya az olan, yetersiz (ayrıca: aslık)
+INFEÇAO	(ad) infeçao kelimesinin karşılığı: ⟪enfeksiyon|ENFEKSİYON⟫
+INFIEL	(sıfat) hakikatsiz: (mecaz) vefasız
+INFILTRA	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAM	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAMOS	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRANDO	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAR	(eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRARA	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRARAM	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRARAO	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAREI	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAREM	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAREMOS	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRARIA	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRARMOS	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRASSE	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAVA	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRAVAM	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRE	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTREI	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTREM	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTRO	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFILTROU	(infiltrar sözcüğünün çekimi) (eylem) infiltrar kelimesinin karşılığı: ⟪süzmek|SÜZMEK⟫
+INFINIDADE	(ad) sonsuz: sonu olmayan, her niceliği aşabilen değişken (sembol: ∞) (ayrıca: sonsuzluk)
+INFINITA	(infinito sözcüğünün çekimi) (sıfat) infinito kelimesinin karşılığı: ⟪sonsuz|SONSUZ⟫, ⟪sınırsız|SINIRSIZ⟫
+INFINITAS	(infinito sözcüğünün çekimi) (sıfat) infinito kelimesinin karşılığı: ⟪sonsuz|SONSUZ⟫, ⟪sınırsız|SINIRSIZ⟫
+INFINITIVO	(ad) infinitivo kelimesinin karşılığı: ⟪mastar|MASTAR⟫
+INFINITO	(sıfat) infinito kelimesinin karşılığı: ⟪sonsuz|SONSUZ⟫, ⟪sınırsız|SINIRSIZ⟫\n(ad) infinito kelimesinin karşılığı: ⟪eylemlik|EYLEMLİK⟫
+INFINITOS	(ad) çoğul çekimi: infinito
+INFIRMAR	(eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+INFIXO	(ad) infixo kelimesinin karşılığı: iç ek
+INFLA	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLACIONAR	(eylem) şişirmek: (mecaz) abartmak
+INFLAM	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLAMADA	(inflamado sözcüğünün çekimi) (sıfat) ateşli: ateşi olan
+INFLAMADO	(sıfat) ateşli: ateşi olan
+INFLAMAVEL	(sıfat) yanıcı: Yanabilir özellikte olan, alev alabilen.
+INFLAMAÇAO	(ad) enflamasyon: yangı
+INFLAMOS	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLANDO	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLAR	(eylem) şişirmek: (mecaz) abartmak
+INFLARA	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLARAM	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLAREM	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLARIA	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLAVEIS	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLAÇAO	(ad) enflasyon: (mecaz) Gereğinden fazla artış; şişkinlik.
+INFLE	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLEM	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLEXAO	(ad) inflexao kelimesinin karşılığı: ⟪çekim|ÇEKİM⟫
+INFLEXIVEL	(sıfat) inflexivel kelimesinin karşılığı: ⟪bükümlü|BÜKÜMLÜ⟫
+INFLOU	(inflar sözcüğünün çekimi) (eylem) şişirmek: (mecaz) abartmak
+INFLUENCIA	(ad) influencia kelimesinin karşılığı: ⟪tesir|TESİR⟫, ⟪etki|ETKİ⟫
+INFLUENCIADA	(influenciado sözcüğünün çekimi) (sıfat) influenciado kelimesinin karşılığı: ⟪edalı|EDALI⟫, ⟪şaşkın|ŞAŞKIN⟫, ⟪yapmacık|YAPMACIK⟫
+INFLUENCIADAS	(influenciado sözcüğünün çekimi) (sıfat) influenciado kelimesinin karşılığı: ⟪edalı|EDALI⟫, ⟪şaşkın|ŞAŞKIN⟫, ⟪yapmacık|YAPMACIK⟫
+INFLUENCIADO	(sıfat) influenciado kelimesinin karşılığı: ⟪edalı|EDALI⟫, ⟪şaşkın|ŞAŞKIN⟫, ⟪yapmacık|YAPMACIK⟫
+INFLUENCIADOS	(influenciado sözcüğünün çekimi) (sıfat) influenciado kelimesinin karşılığı: ⟪edalı|EDALI⟫, ⟪şaşkın|ŞAŞKIN⟫, ⟪yapmacık|YAPMACIK⟫
+INFLUENCIAS	(ad) çoğul çekimi: influência
+INFLUENZA	(ad) influenza kelimesinin karşılığı: influenza
+INFLUXO	(ad) influxo kelimesinin karşılığı: ⟪akın|AKIN⟫
+INFORMA	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMALMENTE	(zarf) teklifsizce: teklifsiz bir biçimde, içten olarak
+INFORMAM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAMOS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMANDO	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMANTE	(ad) muhbir: haber ulaştıran, haber veren kişi
+INFORMAR	(eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARA	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARAM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARAO	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAREI	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAREM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAREMOS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARIA	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARIAM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARIAMOS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMARMOS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMASSE	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMASSEM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMASSEMOS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMATICA	(ad) informatica kelimesinin karşılığı: bilişim bilimi
+INFORMATICOS	(ad) çoğul çekimi: informático
+INFORMAVA	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAVAM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMAÇAO	(ad) bilgi: kurallardan yararlanarak kişinin veriye verdiği mânâ
+INFORMAÇOES	(ad) çoğul çekimi: informação
+INFORMEI	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMEM	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMEMOS	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMES	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMO	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORMOU	(informar sözcüğünün çekimi) (eylem) bilgilendirmek: bir konuda bilgi sahibi olmasını sağlamak, haberdar etmek
+INFORTUNADAMENTE	(zarf) maalesef: ne yazık ki
+INFORTUNIO	(ad) talihsizlik: talihsiz olma durumu, talihi olmama durumu, şanssızlık, bahtsızlık
+INFRAESTRUTURA	(ad) infraestrutura kelimesinin karşılığı: ⟪çerçeve|ÇERÇEVE⟫
+INFUNDIR	(eylem) coşturmak: coşmasını sağlamak, coşmasına yol açmak
+INGENUA	(ingenuo sözcüğünün çekimi) (sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INGENUAS	(ingenuo sözcüğünün çekimi) (sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INGENUO	(sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INGENUOS	(ingenuo sözcüğünün çekimi) (sıfat) bön: budala, saf, avanak, ahmak (ayrıca: avanak)
+INGERENCIA	(ad) girişim: bir işe girişme, teşebbüs
+INGLES	(ad) ingles kelimesinin karşılığı: ingilizce
+INGLESA	(ingles sözcüğünün çekimi) (ad) ingles kelimesinin karşılığı: ingilizce
+INGLESAS	(ad) çoğul çekimi: inglesa
+INGLESES	(ad) çoğul çekimi: inglês
+INGRATAS	(ad) çoğul çekimi: ingrata
+INGRATIDAO	(ad) hıyanet: kutsal sayılan şeylere el uzatma, kötülük etme veya karşı davranma, hıyanetlik, hainlik
+INGRATOS	(ad) çoğul çekimi: ingrato
+INGREDIENTES	(ad) çoğul çekimi: ingrediente
+INGREME	(sıfat) dik: Yatık durmayan, sert olan.
+INGREMES	(ingreme sözcüğünün çekimi) (sıfat) dik: Yatık durmayan, sert olan.
+INGRESSA	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSADO	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSAM	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSAMOS	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSANDO	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSAR	(eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSARA	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSARAM	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSAREI	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSARMOS	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSASSE	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSE	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSEI	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGRESSOU	(ingressar sözcüğünün çekimi) (eylem) girmek: Yeni bir duruma geçmek, dönüşmek:
+INGUA	(ad) ingua kelimesinin karşılığı: ⟪çıban|ÇIBAN⟫
+INIBIDOR	(ad) inibidor kelimesinin karşılığı: ⟪inhibitör|İNHİBİTÖR⟫, ⟪engelleyici|ENGELLEYİCİ⟫
+INIBIDORA	(inibidor sözcüğünün çekimi) (ad) inibidor kelimesinin karşılığı: ⟪inhibitör|İNHİBİTÖR⟫, ⟪engelleyici|ENGELLEYİCİ⟫
+INIBIR	(eylem) alıkoymak: mâni olmak, engel olmak
+INIBIÇAO	(ad) engelleme: engellemek işi.
+INIBIÇOES	(ad) çoğul çekimi: inibição
+INICIA	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIADOR	(ad) başlatıcı: Bir şeyin, bir eylemin başlamasını sağlayan, başlatan.
+INICIADORES	(iniciador sözcüğünün çekimi) (ad) başlatıcı: Bir şeyin, bir eylemin başlamasını sağlayan, başlatan.
+INICIAIS	(inicial sözcüğünün çekimi) (sıfat) inicial kelimesinin karşılığı: ⟪iptidai|İPTİDAİ⟫
+INICIAL	(sıfat) inicial kelimesinin karşılığı: ⟪iptidai|İPTİDAİ⟫
+INICIAM	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIANDO	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIANTE	(ad) iniciante kelimesinin karşılığı: acemi çaylak
+INICIAR	(eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARA	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARAM	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARAO	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAREI	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAREM	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAREMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARIA	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARIAM	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARIAMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIARMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIASSE	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIASSEMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIATIVA	(ad) iniciativa kelimesinin karşılığı: ⟪inisiyatif|İNİSİYATİF⟫
+INICIAVA	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAVAM	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAVAMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIAÇAO	(ad) başlatma: başlatmak işi
+INICIE	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIEI	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIEM	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIEMOS	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INICIO	(ad) baş: Bir şeyin başladığı zaman veya yer: (ayrıca: başlangıç, başlama)
+INICIOU	(iniciar sözcüğünün çekimi) (eylem) başlatmak: başlamasına yol açmak (ayrıca: başlamak, başlanmak)
+INIGUALAVEL	(sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan (ayrıca: benzersiz, ünik)
+INIMIGA	(inimigo sözcüğünün çekimi) (ad) düşman: Birinin kötülüğünü isteyen, ondan nefret eden, ona zarar vermeye çalışan kimse.
+INIMIGAS	(ad) çoğul çekimi: inimiga
+INIMIGO	(ad) düşman: Birinin kötülüğünü isteyen, ondan nefret eden, ona zarar vermeye çalışan kimse.
+INIMIGOS	(ad) çoğul çekimi: inimigo
+INIMIZADES	(ad) çoğul çekimi: inimizade
+ININTERRUPTA	(ininterrupto sözcüğünün çekimi) (sıfat) değişmez: aynen kalan, değişikliğe uğramayan (ayrıca: devamlı, sürekli)
+ININTERRUPTAMENTE	(zarf) sürekli: uzun süreli olarak, daima, ara vermeden
+ININTERRUPTO	(sıfat) değişmez: aynen kalan, değişikliğe uğramayan (ayrıca: devamlı, sürekli)
+INIQUA	(iniquo sözcüğünün çekimi) (sıfat) iniquo kelimesinin karşılığı: iyi kalpli
+INIQUIDADE	(ad) cürüm: hata, kusur veya yanlışlık (ayrıca: suç)
+INIQUO	(sıfat) iniquo kelimesinin karşılığı: iyi kalpli
+INJEÇAO	(ad) injeçao kelimesinin karşılığı: ⟪enjeksiyon|ENJEKSİYON⟫, birebir fonksiyon
+INJUNÇAO	(ad) ahit: devir, zaman
+INJURIA	(ad) hata: yanılgı, yanlış
+INJURIAS	(ad) çoğul çekimi: injúria
+INJURIOSO	(sıfat) zararlı: zarar veren, zararı dokunan
+INJUSTA	(injusto sözcüğünün çekimi) (sıfat) adaletsiz: Adalete aykırı düşen veya adaleti olmayan
+INJUSTIFICADAMENTE	(zarf) aşırı: Gereğinden fazla olarak.
+INJUSTIÇA	(ad) haksızlık: haksız olma durumu
+INJUSTIÇAS	(ad) çoğul çekimi: injustiça
+INJUSTO	(sıfat) adaletsiz: Adalete aykırı düşen veya adaleti olmayan
+INOCENTE	(sıfat) inocente kelimesinin karşılığı: ⟪bön|BÖN⟫, ⟪avanak|AVANAK⟫
+INOCUA	(inocuo sözcüğünün çekimi) (sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+INOCUO	(sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+INODORO	(sıfat) kokusuz: kokusu olmayan
+INOFENSIVA	(inofensivo sözcüğünün çekimi) (sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+INOFENSIVAS	(inofensivo sözcüğünün çekimi) (sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+INOFENSIVO	(sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+INOFENSIVOS	(inofensivo sözcüğünün çekimi) (sıfat) zararsız: zarar vermeyen, zararı dokunmayan
+INOPINADO	(sıfat) ansız: anlayışsız, akılsız (ayrıca: beklenmedik, ani)
+INOVA	(inovar sözcüğünün çekimi) (eylem) yenileştirmek: yenileşmesini sağlamak
+INOVAMOS	(inovar sözcüğünün çekimi) (eylem) yenileştirmek: yenileşmesini sağlamak
+INOVANDO	(inovar sözcüğünün çekimi) (eylem) yenileştirmek: yenileşmesini sağlamak
+INOVAR	(eylem) yenileştirmek: yenileşmesini sağlamak
+INOVAÇAO	(ad) reform: inkılap
+INOVAÇOES	(ad) çoğul çekimi: inovação
+INOVE	(inovar sözcüğünün çekimi) (eylem) yenileştirmek: yenileşmesini sağlamak
+INOVOU	(inovar sözcüğünün çekimi) (eylem) yenileştirmek: yenileşmesini sağlamak
+INQUERITO	(ad) başvuru: başvurma işi, müracaat (ayrıca: müracaat)
+INQUERITOS	(inquerito sözcüğünün çekimi) (ad) başvuru: başvurma işi, müracaat (ayrıca: müracaat)
+INQUESTIONAVEL	(sıfat) mutlak: kendi başına var olan, hiçbir şeye bağlı olmayan, bağımsız, saltık (ayrıca: saltık, kesin)
+INQUIETAÇAO	(ad) erinçsizlik: erinçsiz olma durumu
+INQUIETO	(sıfat) inquieto kelimesinin karşılığı: ⟪ajite|AJİTE⟫, ⟪hibrit|HİBRİT⟫
+INQUIETUDE	(ad) inquietude kelimesinin karşılığı: ⟪erinçsizlik|ERİNÇSİZLİK⟫
+INQUIETUDES	(ad) çoğul çekimi: inquietude
+INQUILINO	(ad) sahip: herhangi bir şey üstünde mülkiyeti olan, onu yasaya uygun bir şekilde dilediği gibi kullanabilen kişi, iye, malik
+INQUIRIÇAO	(ad) başvuru: başvurma işi, müracaat (ayrıca: müracaat)
+INQUIRIÇOES	(inquiriçao sözcüğünün çekimi) (ad) başvuru: başvurma işi, müracaat (ayrıca: müracaat)
+INQUISITIVA	(inquisitivo sözcüğünün çekimi) (sıfat) araştırıcı: araştırma yapan kimse, araştıran, inceleyen, araştırmacı, araştırman (ayrıca: meraklı)
+INQUISITIVO	(sıfat) araştırıcı: araştırma yapan kimse, araştıran, inceleyen, araştırmacı, araştırman (ayrıca: meraklı)
+INQUISIÇAO	(ad) başvuru: başvurma işi, müracaat (ayrıca: müracaat, engizisyon)
+INQUISIÇOES	(inquisiçao sözcüğünün çekimi) (ad) başvuru: başvurma işi, müracaat (ayrıca: müracaat, engizisyon)
+INSANA	(insano sözcüğünün çekimi) (sıfat) müşkül: güç, zor, çetin olan (ayrıca: güç, zor)
+INSANAMENTE	(zarf) çılgınca: aşırı bir biçimde (ayrıca: delice)
+INSANAS	(insano sözcüğünün çekimi) (sıfat) müşkül: güç, zor, çetin olan (ayrıca: güç, zor)
+INSANIA	(ad) delilik: deli olma durumu veya delice davranış, cinnet
+INSANIDADE	(ad) delilik: deli olma durumu veya delice davranış, cinnet
+INSANO	(sıfat) müşkül: güç, zor, çetin olan (ayrıca: güç, zor)
+INSANOS	(insano sözcüğünün çekimi) (sıfat) müşkül: güç, zor, çetin olan (ayrıca: güç, zor)
+INSCIENTE	(sıfat) terbiyesiz: terbiyesi olmayan (ayrıca: cahil, habersiz)
+INSCREVA	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVAM	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVE	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVEM	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVEMOS	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVENDO	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVER	(eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVERA	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVERAM	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVEREI	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVEREM	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVEREMOS	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVERIA	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVERMOS	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVESSE	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVEU	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVI	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVIA	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVIAM	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCREVO	(inscrever sözcüğünün çekimi) (eylem) yazgılamak: Daha sonra başvurmak üzere yazarak saklamak.
+INSCRITO	(ad) sürdürümcü: Abone.
+INSEGURANÇA	(ad) insegurança kelimesinin karşılığı: yaralanabilirlik
+INSEGURANÇAS	(ad) çoğul çekimi: insegurança
+INSEGURO	(sıfat) tehlikeli: Tehlikesi olan; muhataralı
+INSENSIVEL	(sıfat) insensivel kelimesinin karşılığı: ⟪üşümüş|ÜŞÜMÜŞ⟫
+INSERIR	(eylem) yerleştirmek: Yerine koymak.
+INSETICIDA	(ad) ilaç: bir hastalığı iyileştirmek ya da bir zararlıdan kurtulmak için kullanılan maddeler, em, deva, çare (ayrıca: böcek ilacı)
+INSETO	(ad) böcek: Eklem bacaklıların, altı bacaklı, çoğu kanatlı ve vücutları baş, göğüs, karın olarak eklemlerden oluşmuş hayvan sınıfı; haşere, böce, böcü. (ayrıca: haşere)
+INSETOS	(ad) çoğul çekimi: inseto
+INSIGNIA	(ad) insignia kelimesinin karşılığı: ⟪bandıra|BANDIRA⟫
+INSIGNIAS	(ad) çoğul çekimi: insígnia
+INSIGNIFICANTE	(sıfat) insignificante kelimesinin karşılığı: ⟪banal|BANAL⟫
+INSIPIDA	(insipido sözcüğünün çekimi) (sıfat) insipido kelimesinin karşılığı: saman gibi
+INSIPIDO	(sıfat) insipido kelimesinin karşılığı: saman gibi
+INSISTIR	(eylem) insistir kelimesinin karşılığı: ısrar etmek
+INSOFISMAVEL	(sıfat) insofismavel kelimesinin karşılığı: ⟪belli|BELLİ⟫, ⟪apaçık|APAÇIK⟫
+INSOLITO	(sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü
+INSONIA	(ad) insonia kelimesinin karşılığı: insomnia
+INSOSSO	(sıfat) yavan: hoşa gitmeyen, tatsız (ayrıca: saman gibi)
+INSPETOR	(ad) denetçi: Denetlemeyle görevli kimse.
+INSPETORA	(inspetor sözcüğünün çekimi) (ad) denetçi: Denetlemeyle görevli kimse.
+INSPIRA	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAMOS	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRANDO	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAR	(eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRARA	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRARAM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRARAO	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAREM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRARIA	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRARIAM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRARMOS	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAS	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRASSE	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRASSEM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRASTE	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAVA	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAVAM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRAÇAO	(ad) esin: Etkilenme, çağrışım veya içe doğmayla akla gelen yaratıcı duygu, düşünce; ilham. (ayrıca: ilham)
+INSPIRE	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIREI	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIREM	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIRO	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSPIROU	(inspirar sözcüğünün çekimi) (eylem) inspirar kelimesinin karşılığı: ⟪coşturmak|COŞTURMAK⟫
+INSTA	(instar sözcüğünün çekimi) (eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTADO	(instar sözcüğünün çekimi) (eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTALA	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALADO	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAMOS	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALANDO	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAR	(eylem) kurmak: yapmak, inşa etmek
+INSTALARA	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALARAM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALARAO	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAREI	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAREM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAREMOS	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALARIA	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALARIAM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALARMOS	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALASSE	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALASSEM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALASSEMOS	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAVA	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAVAM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALAÇAO	(ad) donanım: tesisat (ayrıca: yerleştirme, kurulum)
+INSTALAÇOES	(ad) çoğul çekimi: instalação
+INSTALE	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALEI	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALEM	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALEMOS	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALO	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTALOU	(instalar sözcüğünün çekimi) (eylem) kurmak: yapmak, inşa etmek
+INSTAMOS	(instar sözcüğünün çekimi) (eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTANCIA	(ad) instancia kelimesinin karşılığı: yönetim yeri
+INSTANCIAS	(ad) çoğul çekimi: instância
+INSTANDO	(instar sözcüğünün çekimi) (eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTANTANEA	(instantaneo sözcüğünün çekimi) (sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTANTANEAMENTE	(zarf) derhal: çabucak, hemen (ayrıca: demin, tezden)
+INSTANTANEAS	(instantaneo sözcüğünün çekimi) (sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTANTANEO	(sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTANTANEOS	(instantaneo sözcüğünün çekimi) (sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+INSTANTE	(sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel\n(ad) an: zamanın bölünemeyecek kadar kısa parçası (ayrıca: sıra, moment)
+INSTANTEMENTE	(zarf) tezden: Çabucak, geciktirmeden.
+INSTANTES	(ad) çoğul çekimi: instante
+INSTAR	(eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTAVEIS	(instar sözcüğünün çekimi) (eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTIGA	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGADO	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGAM	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGAMOS	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGANDO	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGAR	(eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGARAM	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGAVA	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGOU	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGUE	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTIGUEI	(instigar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: öğütlemek, andırmak)
+INSTINTO	(ad) instinto kelimesinin karşılığı: ⟪içgüdü|İÇGÜDÜ⟫
+INSTITUIÇAO	(ad) müessese: İktisat, kültür, siyaset, din vb. alanlarda hizmet veren, kendine özgü işleyiş kurallarına sahip yapı veya birlik. (ayrıca: kurum, kuruluş)
+INSTITUIÇOES	(ad) çoğul çekimi: instituição
+INSTITUTO	(ad) instituto kelimesinin karşılığı: ⟪enstitü|ENSTİTÜ⟫
+INSTITUTOS	(ad) çoğul çekimi: instituto
+INSTOU	(instar sözcüğünün çekimi) (eylem) instar kelimesinin karşılığı: sorguya çekmek
+INSTRUIDA	(instruido sözcüğünün çekimi) (sıfat) bilgili: bilgiye dayalı bir biçimde (ayrıca: allame)
+INSTRUIDO	(sıfat) bilgili: bilgiye dayalı bir biçimde (ayrıca: allame)
+INSTRUIR	(eylem) eğitmek: birinin akla uygun, fiziksel ve moral gelişmesi üzerine etki yaparak çeşitli davranış yatkınlıkları, bilgi ve görgü aşılayarak önceden tespit edilmiş amaçlara göre onun belirli bir yönde gelişmesini sağlamak, terbiye etmek (ayrıca: öğretmek, ders vermek)
+INSTRUMENTAIS	(instrumental sözcüğünün çekimi) (sıfat) enstrümantal: Vasıta hali
+INSTRUMENTAL	(sıfat) enstrümantal: Vasıta hali\n(ad) instrumental kelimesinin karşılığı: araç durumu
+INSTRUMENTALIZAR	(eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek, istismar etmek (ayrıca: eskitmek)
+INSTRUMENTO	(ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne. (ayrıca: araç)
+INSTRUMENTOS	(ad) çoğul çekimi: instrumento
+INSTRUTIVA	(instrutivo sözcüğünün çekimi) (ad) buyruk: belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman (ayrıca: direktif, tüzük)
+INSTRUTIVO	(ad) buyruk: belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman (ayrıca: direktif, tüzük)
+INSTRUTOR	(ad) öğretmen: mesleği bilgi öğretmek olan kişi.
+INSTRUÇAO	(ad) eğitim: eğitim bilimi (ayrıca: yönerge, öğretmenlik)
+INSUBORDINAÇAO	(ad) insubordinaçao kelimesinin karşılığı: ⟪isyan|İSYAN⟫
+INSUFICIENCIA	(ad) insuficiencia kelimesinin karşılığı: ⟪arıza|ARIZA⟫
+INSUFICIENTE	(sıfat) kıt: az, yetersiz (duygu, söz vb.)
+INSULA	(ad) aral: Sütun. (ayrıca: ada, cezire)
+INSULANO	(ad) adalı: ada halkından olan
+INSULAR	(ad) adalı: ada halkından olan
+INSULARES	(insular sözcüğünün çekimi) (ad) adalı: ada halkından olan
+INSULINA	(ad) insülin: Pankreas tarafından salgılanan, kanda şeker oranını ayarlayan, birçok hücre için büyüme faktörü olarak görev yapan, protein yapılı bir hormon
+INSULSO	(sıfat) yavan: yağı az (ayrıca: saman gibi)
+INSULTA	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAM	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAMOS	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTANDO	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAR	(eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTARA	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTARAM	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAREI	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAREM	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTARIA	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTARIAM	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTARMOS	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAS	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTASSE	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTASTE	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAVA	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTAVAM	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTE	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTEI	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTEM	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTES	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSULTO	(ad) hakaret: onur kırma, onura dokunma
+INSULTOS	(insulto sözcüğünün çekimi) (ad) hakaret: onur kırma, onura dokunma
+INSULTOU	(insultar sözcüğünün çekimi) (eylem) insultar kelimesinin karşılığı: hakaret etmek
+INSUMO	(ad) insumo kelimesinin karşılığı: ⟪girdi|GİRDİ⟫
+INSURGENTE	(sıfat) asi: dikbaşlı (ayrıca: isyancı)
+INSURGENTES	(ad) çoğul çekimi: insurgente
+INSURRETO	(sıfat) asi: dikbaşlı (ayrıca: isyancı)
+INTACTO	(sıfat) erden: bakire olarak, bakire bir biçimde
+INTEGRADA	(integrado sözcüğünün çekimi) (sıfat) tümleşik: bütünleşik (ayrıca: bütünleşik)
+INTEGRADAS	(integrado sözcüğünün çekimi) (sıfat) tümleşik: bütünleşik (ayrıca: bütünleşik)
+INTEGRADO	(sıfat) tümleşik: bütünleşik (ayrıca: bütünleşik)
+INTEGRADOS	(integrado sözcüğünün çekimi) (sıfat) tümleşik: bütünleşik (ayrıca: bütünleşik)
+INTEGRAIS	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRAL	(ad) integral kelimesinin karşılığı: ⟪integral|İNTEGRAL⟫
+INTEGRALISMO	(ad) integralismo kelimesinin karşılığı: ⟪fundamentalizm|FUNDAMENTALİZM⟫, köktendincilik, ⟪köktencilik|KÖKTENCİLİK⟫
+INTEGRALMENTE	(zarf) tamamen: bütün olarak, büsbütün (ayrıca: büsbütün)
+INTEGRAM	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRAMENTE	(zarf) üstünde: –den çok, –den fazla. (ayrıca: üzerinde)
+INTEGRAMOS	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRANDO	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRANTE	(ad) uzuv: üye (ayrıca: endam, üye)
+INTEGRANTES	(ad) çoğul çekimi: integrante
+INTEGRAR	(eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRARA	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRARAM	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRARAO	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRAREM	(plural sözcüğünün çekimi) (ad) çokluk: kelimelerin belirli eklerle birden çok varlığı veya kişiyi bildirme biçimi, çoğul, cem (ayrıca: cem, çoğul)
+INTEGRARMOS	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRASSE	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRAVA	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRAVAM	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRAÇAO	(ad) integraçao kelimesinin karşılığı: ⟪entegrasyon|ENTEGRASYON⟫
+INTEGRE	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGREI	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGREM	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEGRIDADE	(ad) integridade kelimesinin karşılığı: ⟪meziyet|MEZİYET⟫, ⟪erdem|ERDEM⟫
+INTEGRO	(sıfat) tamam: bütün, tüm (ayrıca: komple)
+INTEGROU	(integrar sözcüğünün çekimi) (eylem) integrar kelimesinin karşılığı: ⟪bestelemek|BESTELEMEK⟫
+INTEIRAM	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRAMENTE	(zarf) tamamen: bütün olarak, büsbütün (ayrıca: üstünde, üzerinde)
+INTEIRAMOS	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRANDO	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRAR	(eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRARA	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRARAM	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRARAO	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRAREM	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRAS	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRASSE	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRE	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIREI	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIREM	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTEIRO	(sıfat) tüm: bir şeyin bütünü, topu, tamam, hepsi
+INTEIROS	(ad) çoğul çekimi: inteiro
+INTEIROU	(inteirar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+INTELECTO	(ad) imik: yeni doğan çocukların başındaki eklenme yeri, bıngıldak. (ayrıca: beyin, dimağ)
+INTELECTUAL	(sıfat) entelektüel: fikir sorunlarıyla ilgili
+INTELIGENCIA	(ad) zekâ: İnsanın düşünme, akıl yürütme, öğrenme, kavramları ve nesneleri zihinde canlandırabilme, objektif gerçekleri algılama, yargılama, sonuç çıkarma, bedeni kontrol edebilme, duyguları doğru algılayabilme, değerlendirebilme, icat edebilme vb. yeteneklerinin ve becerilerinin tamamı; anlak, dirayet,... (ayrıca: akıl)
+INTELIGENTE	(sıfat) zeki: anlama, kavrama yeteneği, zekâsı olan
+INTELIGENTES	(inteligente sözcüğünün çekimi) (sıfat) zeki: anlama, kavrama yeteneği, zekâsı olan
+INTELIGENTISSIMA	(inteligente sözcüğünün çekimi) (sıfat) zeki: anlama, kavrama yeteneği, zekâsı olan
+INTELIGENTISSIMO	(inteligente sözcüğünün çekimi) (sıfat) zeki: anlama, kavrama yeteneği, zekâsı olan
+INTELIGIBILIDADE	(ad) inteligibilidade kelimesinin karşılığı: anlaşılabilirlik
+INTEMPERIE	(ad) fırtına: (mecaz) güç atlatılan kötü durum (ayrıca: akın)
+INTEMPERIES	(ad) çoğul çekimi: intempérie
+INTEMPORAL	(sıfat) intemporal kelimesinin karşılığı: ⟪bengi|BENGİ⟫, ⟪ebedî|EBEDİ⟫, ⟪mengü|MENGÜ⟫
+INTENCIONAL	(sıfat) amaçlı: Amacı olan; gayeli, [[maksatlı (ayrıca: kasti, akılsal)
+INTENCIONALMENTE	(zarf) kasti: kasıtlı olarak, bilerek, isteyerek (ayrıca: bilerek)
+INTENDENTE	(ad) intendente kelimesinin karşılığı: ⟪kamarot|KAMAROT⟫
+INTENSA	(intenso sözcüğünün çekimi) (sıfat) yavuz: güçlü (ayrıca: yoğun, metin)
+INTENSIDADE	(ad) intensidade kelimesinin karşılığı: ⟪yeğinlik|YEĞİNLİK⟫
+INTENSIVO	(sıfat) yoğun: Artmış, çoğalmış bir durumda olan; sıkı.
+INTENSO	(sıfat) yavuz: güçlü (ayrıca: yoğun, metin)
+INTENTO	(ad) niyet: bir şeyi yapmayı önceden isteyip düşünme, maksat (ayrıca: murat, yönelim)
+INTENTONA	(ad) girişim: bir işe girişme, teşebbüs
+INTENTOS	(ad) çoğul çekimi: intento
+INTENÇAO	(ad) niyet: bir şeyi yapmayı önceden isteyip düşünme, maksat (ayrıca: maksat, kasıt)
+INTENÇOES	(ad) çoğul çekimi: intenção
+INTERAGIR	(eylem) interagir kelimesinin karşılığı: ⟪etkileşmek|ETKİLEŞMEK⟫
+INTERAJAM	(interagir sözcüğünün çekimi) (eylem) interagir kelimesinin karşılığı: ⟪etkileşmek|ETKİLEŞMEK⟫
+INTERATIVO	(sıfat) interativo kelimesinin karşılığı: ⟪interaktif|İNTERAKTİF⟫
+INTERAÇAO	(ad) etkileşim: Birbirini karşılıklı olarak etkileme işi. (ayrıca: etkileşme)
+INTERCAMBIO	(ad) değiştirme: değiştirmek işi, tebdil, tahrif (ayrıca: takas, değiş)
+INTERCEDA	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDAM	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDE	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDENDO	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDER	(eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDERA	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDERAM	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDEREI	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDERIA	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDESSE	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDEU	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDI	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDIDO	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCEDO	(interceder sözcüğünün çekimi) (eylem) interceder kelimesinin karşılığı: aracılık etmek
+INTERCESSOR	(ad) aracı: iki şey arasında bağlantı kuran kişi
+INTERDITO	(ad) interdito kelimesinin karşılığı: ⟪yasak|YASAK⟫
+INTERESLAVO	(ad) intereslavo kelimesinin karşılığı: interslavca
+INTERESSA	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAMOS	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSANDO	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSANTE	(sıfat) ilginç: ilgi uyandıran, ilgi ve dikkat çekici olan, enteresan
+INTERESSAR	(eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSARA	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSARAM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSARAO	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAREM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSARIA	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSARIAM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSARMOS	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAS	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSASSEM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAVA	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAVAM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSAVAMOS	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSE	(ad) ilgi: belirli bir olay veya etkinliğe yakınlık duyma, ondan hoşlanma ve ona öncelik tanıma (ayrıca: faiz, merak)
+INTERESSEI	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSEM	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSES	(ad) çoğul çekimi: interesse
+INTERESSO	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESSOU	(interessar sözcüğünün çekimi) (eylem) ilgilendirmek: ilgisini çekmek, önem vermek, alakadar etmek
+INTERESTELAR	(sıfat) yıldızlararası: yıldızlararası
+INTERFACE	(ad) interface kelimesinin karşılığı: ⟪arayüz|ARAYÜZ⟫
+INTERFASE	(ad) interfaz: Bölünmüş bir hücrenin, yeniden bölünmek için geçirdiği bir hazırlık evresi
+INTERFERENCIA	(ad) interferencia kelimesinin karşılığı: ⟪müdahale|MÜDAHALE⟫
+INTERIM	(zarf) boyunca: süresince
+INTERIOR	(sıfat) içeri: iç, iç yüzey (ayrıca: iç)\n(ad) içeri: iç, iç yüzey
+INTERJEIÇAO	(ad) ünlem: türlü duyguları anlatan veya bir tabiat sesini yansıtan kelime, nida
+INTERJEIÇOES	(ad) çoğul çekimi: interjeição
+INTERLOCUTORES	(ad) çoğul çekimi: interlocutor
+INTERMEDIARIO	(ad) ara: iç
+INTERMEDIO	(ad) medyum: ruhötesi iletişim kurma deneylerinde, ruhlarla insanlar arasında aracılık ettiğini ileri süren kimse
+INTERMINAVEL	(sıfat) sonsuz: sonu olmayan, bitmeyen, ebedî
+INTERNA	(interno sözcüğünün çekimi) (sıfat) içeri: iç, iç yüzey (ayrıca: iç, dâhilî)
+INTERNACIONAIS	(internacional sözcüğünün çekimi) (sıfat) milletlerarası: Milletler arasında yapılan; milletler arasındaki ilişkilerle ilgili olan (ayrıca: uluslararası)
+INTERNACIONAL	(sıfat) milletlerarası: Milletler arasında yapılan; milletler arasındaki ilişkilerle ilgili olan (ayrıca: uluslararası)
+INTERNACIONALISMO	(ad) internacionalismo kelimesinin karşılığı: ⟪milletlerarasıcılık|MİLLETLERARASICILIK⟫, ⟪uluslararasıcılık|ULUSLARARASICILIK⟫
+INTERNAMENTE	(zarf) içeri: iç yana, iç yana doğru (ayrıca: içinde, -e doğru)
+INTERNO	(sıfat) içeri: iç, iç yüzey (ayrıca: iç, dâhilî)
+INTERPOR	(eylem) dosyalamak: Dosyada toplamak, dosya hâline getirmek, dosyaya yerleştirmek. (ayrıca: başvuru yapmak, müracaat etmek)
+INTERPRETA	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETADO	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETADOR	(ad) interpretador kelimesinin karşılığı: ⟪yorumlayıcı|YORUMLAYICI⟫
+INTERPRETAM	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAMOS	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETANDO	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAR	(eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETARA	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETARAM	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETARAO	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAREI	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAREM	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAREMOS	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETARIA	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETARIAM	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETARMOS	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAS	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETASSE	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETASTE	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAVA	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAVAM	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAVAMOS	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETAÇAO	(ad) şerh: açma, ayırma (ayrıca: yorumlama, çevirme)
+INTERPRETAÇOES	(ad) çoğul çekimi: interpretação
+INTERPRETE	(ad) yorumlayıcı: girdi olarak verilen deyim ya da yordamları, herhangi bir amaç izlence üretecek biçimde derlemeksizin, doğrudan uygulayan bir izlence
+INTERPRETEI	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETEM	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETEMOS	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETES	(ad) çoğul çekimi: intérprete
+INTERPRETO	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERPRETOU	(interpretar sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+INTERREGNO	(ad) interregno kelimesinin karşılığı: ⟪mola|MOLA⟫
+INTERROGAR	(eylem) interrogar kelimesinin karşılığı: sorguya çekmek
+INTERROMPA	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPAM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPAMOS	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPAS	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPE	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPEM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPEMOS	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPENDO	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPER	(eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPERA	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPERAM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPERAO	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPEREI	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPEREM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPEREMOS	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPERIA	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPERIAM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPERMOS	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPES	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPESSE	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPESSEM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPESSEMOS	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPEU	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPI	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPIA	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPIAM	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERROMPO	(interromper sözcüğünün çekimi) (eylem) interromper kelimesinin karşılığı: ara vermek
+INTERRUPTOR	(ad) interruptor kelimesinin karşılığı: ⟪dağıtıcı|DAĞITICI⟫, ağ anahtarı
+INTERRUPÇAO	(ad) interrupçao kelimesinin karşılığı: ⟪kesilme|KESİLME⟫, ⟪süspansiyon|SÜSPANSİYON⟫, ⟪asıltı|ASILTI⟫
+INTERSECÇAO	(ad) intersecçao kelimesinin karşılığı: ⟪kesişme|KESİŞME⟫
+INTERSEÇAO	(ad) interseçao kelimesinin karşılığı: ⟪kesişme|KESİŞME⟫
+INTERTEXTUALIDADE	(ad) intertextualidade kelimesinin karşılığı: metinlerarasılık
+INTERVALO	(ad) intervalo kelimesinin karşılığı: ⟪mola|MOLA⟫
+INTERVALOS	(ad) çoğul çekimi: intervalo
+INTERVENIENTE	(ad) interveniente kelimesinin karşılığı: ⟪katılımcı|KATILIMCI⟫, iştirakçı, müşterekçi
+INTERVENÇAO	(ad) tavassut: aracılık, ara bulma, aracılık etme (ayrıca: aracılık, aracılık etme)
+INTERVIR	(eylem) intervir kelimesinin karşılığı: aracılık etmek
+INTESTINO	(ad) intestino kelimesinin karşılığı: ⟪bağırsak|BAĞIRSAK⟫, kalın bağırsak
+INTESTINOS	(ad) çoğul çekimi: intestino
+INTIMAMENTE	(zarf) teklifsiz: samimi, içli dışlı, sıkı fıkı bir biçimde (ayrıca: samimi, arkadaşça)
+INTIMIDADE	(ad) intimidade kelimesinin karşılığı: ⟪yakınlık|YAKINLIK⟫
+INTIMIDADES	(ad) çoğul çekimi: intimidade
+INTIMIDAÇAO	(ad) intimidaçao kelimesinin karşılığı: ⟪yıldırma|YILDIRMA⟫
+INTIMO	(sıfat) özel: Ayırt edici bir niteliği olan. (ayrıca: mahsus)
+INTIMOS	(intimo sözcüğünün çekimi) (sıfat) özel: Ayırt edici bir niteliği olan. (ayrıca: mahsus)
+INTITULA	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULAM	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULAMOS	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULANDO	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULAR	(eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULARAM	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULAVA	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULAVAM	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULE	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULEI	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTITULOU	(intitular sözcüğünün çekimi) (eylem) intitular kelimesinin karşılığı: izin vermek, ⟪yetkilendirmek|YETKİLENDİRMEK⟫
+INTOXICA	(intoxicar sözcüğünün çekimi) (eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTOXICAM	(intoxicar sözcüğünün çekimi) (eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTOXICANDO	(intoxicar sözcüğünün çekimi) (eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTOXICAR	(eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTOXICARAM	(intoxicar sözcüğünün çekimi) (eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTOXICAÇAO	(ad) zehirleme: zehirlemek işi (ayrıca: ağılanma)
+INTOXICOU	(intoxicar sözcüğünün çekimi) (eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTOXIQUEI	(intoxicar sözcüğünün çekimi) (eylem) zehirlemek: Öldürmek gayesiyle gıdalara zehir katmak
+INTRANSITIVO	(sıfat) lazım: gerek
+INTRATAVEL	(sıfat) intratavel kelimesinin karşılığı: uzlaşılamaz
+INTREPIDA	(intrepido sözcüğünün çekimi) (sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+INTREPIDAS	(intrepido sözcüğünün çekimi) (sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+INTREPIDO	(sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+INTREPIDOS	(intrepido sözcüğünün çekimi) (sıfat) korkusuz: korkusu olmayan, yürekli, gözü pek, pervasız
+INTRICAR	(eylem) intricar kelimesinin karşılığı: ⟪afallatmak|AFALLATMAK⟫, ⟪şaşırtmak|ŞAŞIRTMAK⟫
+INTRIGA	(ad) intriga kelimesinin karşılığı: entrika çevirmek, dalavere yapmak
+INTRIGADO	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGAM	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGANDO	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGAR	(eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGARAM	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGAS	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGAVA	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGAVAM	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGOU	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRIGUE	(intrigar sözcüğünün çekimi) (eylem) şaşırtmak: şaşkınlaşmak, şaşmak
+INTRINSECA	(intrinseco sözcüğünün çekimi) (sıfat) temel: En önemli, belli başlı olan; ana, anayasa, taban, asıl, zemin, baz.
+INTRINSECAMENTE	(zarf) zati: zaten
+INTRINSECO	(sıfat) temel: En önemli, belli başlı olan; ana, anayasa, taban, asıl, zemin, baz.
+INTRODUZIR	(eylem) tanıtmak: bir kişinin kim olduğunu başkasına bildirmek, tanıştırmak, takdim etmek, prezante etmek
+INTRODUÇAO	(ad) başlangıç: bir iş, bir dönem, bir hayat vb.nin ilk bölümü
+INTROITO	(ad) baş: Bir şeyin başladığı zaman veya yer: (ayrıca: başlangıç, başlama)
+INTROMETA	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETAM	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETE	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETEM	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETEMOS	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETENDO	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETER	(eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETERA	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETERAM	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETEREI	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETEREM	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETERIA	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETERMOS	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETESSE	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETESSEM	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETEU	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETI	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETIA	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMETO	(intrometer sözcüğünün çekimi) (eylem) koymak: Etkilemek, dokunmak. (ayrıca: yerleştirmek)
+INTROMISSAO	(ad) ekleme: eklemek işi
+INTROVERTIDA	(introvertido sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+INTROVERTIDAS	(introvertido sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+INTROVERTIDO	(sıfat) kapalı: Kapalı tribün
+INTROVERTIDOS	(introvertido sözcüğünün çekimi) (sıfat) kapalı: Kapalı tribün
+INTRUJAR	(eylem) aldatmak: beklenmedik bir davranışla yanıltmak (ayrıca: sömürmek)
+INTRUSAO	(ad) ekleme: eklemek işi
+INTRUSIVO	(sıfat) intrusivo kelimesinin karşılığı: ⟪eklemeli|EKLEMELİ⟫
+INTUITO	(ad) erek: amaç (ayrıca: amaç, meram)
+INTUIÇAO	(ad) intuiçao kelimesinin karşılığı: ⟪sezgi|SEZGİ⟫
+INTUMESCER	(eylem) kabarmak: böbürlenmek, gururlanmak
+INUMANO	(sıfat) inumano kelimesinin karşılığı: ⟪insanüstü|İNSANÜSTÜ⟫
+INUMANOS	(inumano sözcüğünün çekimi) (sıfat) inumano kelimesinin karşılığı: ⟪insanüstü|İNSANÜSTÜ⟫
+INUMAR	(eylem) saklamak: korumak, esirgemek (ayrıca: defnetmek, gömmek)
+INUMERAVEL	(sıfat) sayısız: sayılmayacak kadar çok, pek çok, sayımsız
+INUMERO	(sıfat) sayısız: sayılmayacak kadar çok, pek çok, sayımsız
+INUNDAÇAO	(ad) sel: Etki ve iz bırakan güçlü durum veya davranış (ayrıca: akı, taşkın)
+INUSITADO	(sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü
+INUSUAL	(sıfat) alışılmadık: alışılmamış, az görülen, olağanüstü
+INUTEIS	(ad) çoğul çekimi: inútil
+INUTIL	(sıfat) faydasız: yararsız (ayrıca: anlamsız)
+INUTILMENTE	(zarf) boşuna: boşu boşuna, boş yere, yararsız yere, gereksiz, beyhude, beyhude yere, nafile, tevekkeli
+INVALIDO	(sıfat) invalido kelimesinin karşılığı: ⟪yaramaz|YARAMAZ⟫, ⟪sakat|SAKAT⟫\n(ad) invalido kelimesinin karşılığı: ⟪hasta|HASTA⟫, ⟪yatalak|YATALAK⟫
+INVARIANCIA	(ad) değişmezlik: Değişmez olma durumu
+INVARIAVEL	(sıfat) değişmeyen: değişken olmayan
+INVASAO	(ad) invasao kelimesinin karşılığı: ⟪istila|İSTİLA⟫, ⟪akın|AKIN⟫
+INVECTIVA	(ad) kabahat: uygunsuz hareket, çirkin, yakışıksız davranış
+INVECTIVAR	(eylem) invectivar kelimesinin karşılığı: hakaret etmek
+INVEJA	(ad) kıskançlık: bir kimse bir üstünlük gösterdiğinde veya sevilen birisinin, başkası ile ilgilendiği kanısına varıldığında takınılan olumsuz tutum, günücülük, hasetçilik, hasetlik, hasutluk
+INVEJAS	(ad) çoğul çekimi: inveja
+INVENTA	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTADO	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAM	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTANDO	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAR	(eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTARA	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTARAM	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTARAO	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAREI	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAREM	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAREMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTARIAMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTARIO	(ad) inventario kelimesinin karşılığı: ⟪döküm|DÖKÜM⟫
+INVENTARMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTASSE	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTASSEM	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTASSEMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTASTE	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAVA	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAVAM	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTAVAMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTE	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTEI	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTEM	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTEMOS	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTIVO	(sıfat) mucit: yaratıcı, yaratan
+INVENTO	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENTOR	(ad) inventor kelimesinin karşılığı: ⟪mucit|MUCİT⟫
+INVENTORA	(inventor sözcüğünün çekimi) (ad) inventor kelimesinin karşılığı: ⟪mucit|MUCİT⟫
+INVENTOU	(inventar sözcüğünün çekimi) (eylem) bulmak: ilk kez yeni bir şey yaratmak, icat etmek (ayrıca: uydurmak)
+INVENÇAO	(ad) icat: daha önce bulunmayan bir şeyin insan çabasıyla oluşturulması, buluş (ayrıca: bulgu)
+INVERNO	(ad) kış: Kuzey yarım kürede 22 Aralık-21 Mart, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman dilimi, sonbaharla ilkbahar arasındaki soğuk mevsim; şita
+INVERNOS	(ad) çoğul çekimi: inverno
+INVERSO	(sıfat) zıt: karşıt.
+INVERTIDO	(sıfat) devrik: devrilmiş olan
+INVESTIDA	(ad) taarruz: saldırı (ayrıca: atak, akın)
+INVESTIDOR	(ad) sermayedar: üretim araçlarını özel mülkiyetinde bulunduran kimse
+INVESTIDORA	(investidor sözcüğünün çekimi) (ad) sermayedar: üretim araçlarını özel mülkiyetinde bulunduran kimse
+INVESTIGA	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGADOR	(ad) araştırmacı: araştırma yapan, inceleyen kimse, araştırıcı, araştırman, mütetebbi (ayrıca: araştırıcı)
+INVESTIGAM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGANDO	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAR	(eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARA	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARAM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARAO	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAREI	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAREM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAREMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARIA	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARIAM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARIAMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGARMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGASSE	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGASSEM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGASSEMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAVA	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAVAM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAVAMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGAÇAO	(ad) inceleme: incelemek işi, tetkik
+INVESTIGAÇOES	(ad) çoğul çekimi: investigação
+INVESTIGO	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGOU	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGUE	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGUEI	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGUEM	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIGUEMOS	(investigar sözcüğünün çekimi) (eylem) investigar kelimesinin karşılığı: ⟪araştırma|ARAŞTIRMA⟫
+INVESTIMENTO	(ad) yatırım: Bir çıkar veya kazanç sağlamak için yapılan davranış.
+INVESTIR	(eylem) atamak: birini bir göreve getirmek, tayin etmek (ayrıca: yatırım yapmak)
+INVIDIA	(ad) invidia kelimesinin karşılığı: ⟪günü|GÜNÜ⟫
+INVITAR	(eylem) çağırmak: Herhangi birinin bir yere gelmesini istemek; davet etmek, seslemek. (ayrıca: davet etmek, çanak tutmak)
+INVITAÇAO	(ad) invitaçao kelimesinin karşılığı: ⟪çağrı|ÇAĞRI⟫
+INVITO	(sıfat) isteksiz: bir işi yapmaya isteği olmayan, gönülsüz (ayrıca: zorunlu)
+INVOCA	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAM	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAMOS	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCANDO	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAR	(eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCARA	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCARAM	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCARAO	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAREI	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAREM	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAREMOS	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCARIA	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCARMOS	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCASSE	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAVA	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCAVAM	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCO	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOCOU	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOLUCRO	(ad) involucro kelimesinin karşılığı: ⟪badıç|BADIÇ⟫
+INVOLUNTARIO	(sıfat) bilinç dışı: bilinçdışında yer alan, bastırılmış, bastırmaya uğramış
+INVOLUÇAO	(ad) bağlanım: bağlanma işi veya biçimi (ayrıca: regresyon)
+INVOQUE	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOQUEI	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+INVOQUEM	(invocar sözcüğünün çekimi) (eylem) invocar kelimesinin karşılığı: ⟪ünlemek|ÜNLEMEK⟫
+IODO	(ad) iyot: Atom numarası 53, atom ağırlığı 126,92 olan, tabiatta, deniz suyunda sodyum iyodür durumunda rastlanılan, bazı deniz bitkilerinde de çokça birikmiş olarak bulunan, mavimtırak esmer renkte katı bir element (simgesi I).
+IOES	(ad) çoğul çekimi: ião
+IOGA	(ad) yoga: Ruhî yaşama ve bedene egemen olmayı amaçlayan Hint felsefe sistemi
+IOGURTE	(ad) iogurte kelimesinin karşılığı: ⟪yoğurt|YOĞURT⟫
+ION	(ad) iyon: bir ya da daha çok elektron kaybetmiş ya da kazanmış bir atom ya da bir atom grubundan oluşmuş elektrik yüklü parçacık (ayrıca: yükün)
+IONICO	(sıfat) iyonik: İyonlardan oluşan, iyonlarla ilgili
+IONOSFERA	(ad) ionosfera kelimesinin karşılığı: iyonosfer
+IORUBA	(sıfat) ioruba kelimesinin karşılığı: yoruba\n(ad) ioruba kelimesinin karşılığı: yoruba, yoruba dili
+IPSILON	(ad) ipsilon kelimesinin karşılığı: ⟪ipsilon|İPSİLON⟫
+IPSILONE	(ad) ipsilone kelimesinin karşılığı: ⟪ipsilon|İPSİLON⟫
+IRA	(ad) kızgınlık: öfkeli olma durumu
+IRACUNDO	(sıfat) kızgın: eş arayan (hayvan)
+IRADA	(irado sözcüğünün çekimi) (sıfat) öfkeli: Öfkelenmiş olan; cinli, hiddetli, pürhiddet. (ayrıca: kýzgýn)
+IRADO	(sıfat) öfkeli: Öfkelenmiş olan; cinli, hiddetli, pürhiddet. (ayrıca: kýzgýn)
+IRADOS	(irado sözcüğünün çekimi) (sıfat) öfkeli: Öfkelenmiş olan; cinli, hiddetli, pürhiddet. (ayrıca: kýzgýn)
+IRAS	(ad) çoğul çekimi: ira
+IRASCIVEL	(sıfat) asabi: sinirli bir biçimde (ayrıca: sinirli, atarlı)
+IRIDIO	(ad) iridyum: Atom numarası 77 olan bir kimyasal element
+IRIS	(ad) iris kelimesinin karşılığı: ⟪iris|İRİS⟫
+IRLANDES	(ad) irlandes kelimesinin karşılığı: irlandaca
+IRLANDESA	(irlandes sözcüğünün çekimi) (ad) irlandes kelimesinin karşılığı: irlandaca
+IRLANDESAS	(ad) çoğul çekimi: irlandesa
+IRLANDESES	(ad) çoğul çekimi: irlandês
+IRMA	(ad) irma kelimesinin karşılığı: ⟪abla|ABLA⟫, kız kardeş
+IRMANDADE	(ad) birlik: Bir arada olma durumu: (ayrıca: kardeşlik)
+IRMAO	(ad) irmao kelimesinin karşılığı: erkek kardeş
+IRMAOS	(ad) çoğul çekimi: irmão
+IRMAS	(ad) çoğul çekimi: irmã
+IRONIA	(ad) ironi: Espri yapmak amacıyla veya bir şeyi vurgulamak için aslında söylemek istediğinin tam zıttını söyleme (ayrıca: tezat, istihza)
+IRRACIONAL	(sıfat) absürt: saçma, anlamsız (ayrıca: abuzambak, akılsız)
+IRRADIA	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIADO	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIAM	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIAMOS	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIANDO	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIAR	(eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIARA	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIARAM	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIARIA	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIASSE	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIAVA	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIAVAM	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIAÇAO	(ad) irradiaçao kelimesinin karşılığı: ⟪ışınlama|IŞINLAMA⟫
+IRRADIE	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIO	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRADIOU	(irradiar sözcüğünün çekimi) (eylem) irradiar kelimesinin karşılığı: yayınlamak
+IRRAZOAVELMENTE	(zarf) aşırı: Gereğinden fazla olarak.
+IRREALISTA	(sıfat) irrealist: gerçek dışı
+IRREGULAR	(sıfat) kuralsız: Kuralı olmayan, kurala uygun olmayan, kaidesiz, gayri kıyasî
+IRREGULARES	(irregular sözcüğünün çekimi) (sıfat) kuralsız: Kuralı olmayan, kurala uygun olmayan, kaidesiz, gayri kıyasî
+IRREGULARIDADE	(ad) irregularidade kelimesinin karşılığı: ⟪düzensizlik|DÜZENSİZLİK⟫
+IRREGULARIDADES	(ad) çoğul çekimi: irregularidade
+IRRELEVANTE	(sıfat) ilgisiz: aldırmaz, kayıtsız biçimde (ayrıca: alakasız)
+IRRELIGIOSO	(sıfat) dinsiz: dinî inancı olmayan
+IRREPREENSIVEL	(sıfat) mükemmel: kusursuz
+IRREQUIETA	(irrequieto sözcüğünün çekimi) (sıfat) irrequieto kelimesinin karşılığı: ⟪ajite|AJİTE⟫
+IRREQUIETO	(sıfat) irrequieto kelimesinin karşılığı: ⟪ajite|AJİTE⟫
+IRRESPONSAVEL	(sıfat) mesuliyetsiz: sorumluluk gerektirmeyen
+IRRESTRITO	(sıfat) sınırsız: sınırı olmayan, bir sınırla ayrılmamış olan, hudutsuz
+IRREVOGAVEIS	(irrevogavel sözcüğünün çekimi) (sıfat) irrevogavel kelimesinin karşılığı: dönülemez
+IRREVOGAVEL	(sıfat) irrevogavel kelimesinin karşılığı: dönülemez
+IRRIGAÇAO	(ad) irrigaçao kelimesinin karşılığı: ⟪sulama|SULAMA⟫, ⟪gönen|GÖNEN⟫
+IRRISORIO	(sıfat) alaycı: alay etme huyu olan, müstehzi
+IRRITA	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITABILIDADE	(ad) sinirlilik: sinirli bir biçimde davranma, asabilik, asabiyet
+IRRITADA	(irritado sözcüğünün çekimi) (sıfat) kızgın: eş arayan (hayvan)
+IRRITADO	(sıfat) kızgın: eş arayan (hayvan)
+IRRITAM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAMOS	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITANDO	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITANTE	(sıfat) sinir: hoşa gitmeyen, can sıkan
+IRRITAR	(eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITARA	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITARAM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITARAO	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAREI	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAREM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAREMOS	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITARIA	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITARIAM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITARMOS	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAS	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITASSE	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITASSEM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAVA	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAVAM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAVEIS	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITAVEL	(sıfat) sinirli: (mecaz) kolayca ve çabuk sinirlenen, asabi (ayrıca: dargın, asabi)
+IRRITAÇAO	(ad) kızgınlık: öfkeli olma durumu (ayrıca: öfke)
+IRRITE	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITEI	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITEM	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITEMOS	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITES	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITO	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRRITOU	(irritar sözcüğünün çekimi) (eylem) irritar kelimesinin karşılığı: tahriş etmek
+IRROMPA	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPE	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPEM	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPENDO	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPER	(eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma kalkmak)
+IRROMPERA	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPERAM	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPEU	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPIA	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPIAM	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRROMPIDO	(irromper sözcüğünün çekimi) (eylem) patlama: patlamak sözcüğünün dilek-emir kipi basit ikinci tekil şahıs olumsuz çekimi (ayrıca: esmek, hücuma...
+IRRUPÇAO	(ad) irrupçao kelimesinin karşılığı: ⟪akın|AKIN⟫, ⟪istila|İSTİLA⟫
+ISCA	(ad) yem: kuş ve balık tutmak için tuzağa bırakılan, oltaya takılan yiyecek veya yiyecek görüntüsündeki nesne
+ISCAS	(ad) çoğul çekimi: isca
+ISCO	(ad) yem: rüşvet
+ISENÇAO	(ad) bırakım: bırakma işi (ayrıca: serbest bırakma)
+ISLAMICO	(sıfat) islamico kelimesinin karşılığı: islama ait
+ISLAMISMO	(ad) islamismo kelimesinin karşılığı: islâm
+ISMAELISMO	(ad) ismaelismo kelimesinin karşılığı: ismailîlik
+ISOLADA	(isolado sözcüğünün çekimi) (sıfat) tenha: ıssız (ayrıca: tek, tek bir)
+ISOLADAS	(isolado sözcüğünün çekimi) (sıfat) tenha: ıssız (ayrıca: tek, tek bir)
+ISOLADO	(sıfat) tenha: ıssız (ayrıca: tek, tek bir)
+ISOLADOS	(isolado sözcüğünün çekimi) (sıfat) tenha: ıssız (ayrıca: tek, tek bir)
+ISOLAMENTO	(ad) isolamento kelimesinin karşılığı: ⟪yalıtım|YALITIM⟫, ⟪yalıtma|YALITMA⟫
+ISOLANTE	(sıfat) isolante kelimesinin karşılığı: ⟪izole|İZOLE⟫, yalıtılmış
+ISOLAÇAO	(ad) yalıtma: yalıtım (ayrıca: yalıtım)
+ISOLO	(depauperar sözcüğünün çekimi) (eylem) zayıflatmak: Zayıf olmasına yol açmak. (ayrıca: cılızlaşmak, zayıflamak)
+ISOMERO	(ad) isomero kelimesinin karşılığı: ⟪eşiz|EŞİZ⟫
+ISOMORFISMO	(ad) isomorfismo kelimesinin karşılığı: izomorfizma
+ISOTOPO	(ad) izotop: Yalnız atomlarının kitleleri yönünden birbirinden farklı olan (aynı kimyasal element)
+ISOTOPOS	(ad) çoğul çekimi: isótopo
+ISQUEIRO	(ad) çakmak: çelik, taş, cam, plastik vb. maddeden yapılmış gaz veya benzinle dolu tutuşturma aleti
+ISQUIOS	(ad) çoğul çekimi: ísquio
+ISSO	(zamir) şurası: (belgisiz adıl): şu (ayrıca: şu, o)
+ISTMO	(ad) istmo kelimesinin karşılığı: ⟪kıstak|KISTAK⟫, ⟪berzah|BERZAH⟫, ⟪dil|DİL⟫
+ISTO	(zamir) bu: (işaret adılı): en yakında bulunan bir varlığı veya biraz önce anılan bir şeyi işaret yolu ile belirtmek için kullanılan söz
+ITALIANA	(italiano sözcüğünün çekimi) (ad) italiano kelimesinin karşılığı: italyanca
+ITALIANAS	(ad) çoğul çekimi: italiana
+ITALIANO	(ad) italiano kelimesinin karşılığı: italyanca
+ITALIANOS	(ad) çoğul çekimi: italiano
+ITALICA	(italico sözcüğünün çekimi) (ad) italico kelimesinin karşılığı: eğik yazı
+ITALICO	(ad) italico kelimesinin karşılığı: eğik yazı
+ITEM	(ad) item kelimesinin karşılığı: ⟪eşya|EŞYA⟫
+ITERAÇAO	(ad) yineleme: Yinelemek işi, tekrarlama
+ITERAÇOES	(iteraçao sözcüğünün çekimi) (ad) yineleme: Yinelemek işi, tekrarlama
+ITERBIO	(ad) iterbiyum: Atom numarası 70, simgesi Yb olan bir kimyasal element
+ITRIO	(ad) itriyum: atom numarası 39 olan kimyasal element
+IÇADO	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇAM	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇAMOS	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇANDO	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇAR	(eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇARAM	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇAREMOS	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇAVA	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇO	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)
+IÇOU	(içar sözcüğünün çekimi) (eylem) kaldırmak: çalmak, aşırmak (ayrıca: beslemek)

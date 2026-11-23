@@ -1,0 +1,258 @@
+QUACK	(動詞) quackの訳: ガーガーと鳴く, ガヤガヤしゃべる
+QUACKED	(quackの変化形) (動詞) quackの訳: ガーガーと鳴く, ガヤガヤしゃべる
+QUACKING	(quackの変化形) (動詞) quackの訳: ガーガーと鳴く, ガヤガヤしゃべる
+QUACKS	(quackの変化形) (動詞) quackの訳: ガーガーと鳴く, ガヤガヤしゃべる
+QUAD	(名詞) エスプレッソの4ショット量\n(形容詞) エスプレッソの4ショット量の
+QUADDED	(quadの変化形) (名詞) エスプレッソの4ショット量
+QUADDING	(quadの変化形) (名詞) エスプレッソの4ショット量
+QUADRANGLE	(名詞) 四角形: （数学）いずれも同一直線上にない4つの線分により構成される閉じた図形。4つの頂点と4つの辺をもつ。記号□。 (ほかに: 四辺形)
+QUADRANGLES	(名詞) "quadrangle" の複数形: 四角形: （数学）いずれも同一直線上にない4つの線分により構成される閉じた図形。4つの頂点と4つの辺をもつ。記号□。 (ほかに: 四辺形)
+QUADRANGULAR	(形容詞) quadrangularの訳: 四角形の
+QUADRANT	(名詞) 象限: 四分の一の円。
+QUADRANTES	(quadrantの変化形) (名詞) 象限: 四分の一の円。
+QUADRANTS	(名詞) quadrantの複数形: 象限: 四分の一の円。
+QUADRATIC	(形容詞) quadraticの訳: 正方形の\n(名詞) 二次方程式: 未知数の最高次数が二次である方程式。 (ほかに: 二次式)
+QUADRATICS	(名詞) quadraticの複数形: 正方形の
+QUADRENNIAL	(形容詞) 4年毎の。4年に1回の。\n(名詞) 四年祭。4周年の記念行事。
+QUADRENNIALS	(quadrennialの変化形) (形容詞) 4年毎の。4年に1回の。
+QUADRICEPS	(名詞) 大腿四頭筋: 大腿前面にある大腿直筋、外側広筋、内側広筋、中間広筋の四つの筋肉の総称。
+QUADRICEPSES	(名詞) quadricepsの複数形: 大腿四頭筋: 大腿前面にある大腿直筋、外側広筋、内側広筋、中間広筋の四つの筋肉の総称。
+QUADRILATERAL	(名詞) 四角形。四辺形。\n(形容詞) 四角形の。四辺形の。
+QUADRILATERALS	(名詞) quadrilateralの複数形: 四角形。四辺形。
+QUADRILLION	(数詞) quadrillionの訳: 千兆\n(名詞) quadrillionの訳: 度を越した数
+QUADRILLIONS	(数詞) quadrillionの複数形: 千兆。\n(名詞) quadrillionの複数形: 千兆。
+QUADRUPLE	(名詞) 四重: 四つ重なること。四つ重ねたもの。 (ほかに: 四倍)\n(形容詞) quadrupleの訳: 四倍の, 四重の
+QUADRUPLED	(quadrupleの変化形) (名詞) 四重: 四つ重なること。四つ重ねたもの。 (ほかに: 四倍)
+QUADRUPLES	(quadrupleの変化形) (名詞) 四重: 四つ重なること。四つ重ねたもの。 (ほかに: 四倍)
+QUADRUPLET	(名詞) （汎用的）四つ組。四個一組のもの。\n(形容詞) quadrupletの訳: 四つ子の
+QUADRUPLETS	(quadrupletの変化形) (名詞) （汎用的）四つ組。四個一組のもの。
+QUADRUPLING	(quadrupleの変化形) (名詞) 四重: 四つ重なること。四つ重ねたもの。 (ほかに: 四倍)
+QUADS	(quadの変化形) (名詞) エスプレッソの4ショット量
+QUAFF	(動詞) がぶ飲みする。痛飲する。\n(名詞) がぶ飲み。痛飲。
+QUAFFED	(動詞) quaffの過去形・過去分詞: がぶ飲みする。痛飲する。
+QUAFFING	(quaffの変化形) (動詞) がぶ飲みする。痛飲する。
+QUAFFS	(名詞) quaffの複数形: がぶ飲みする。痛飲する。\n(動詞) quaffの直説法現在第三人称単数形: がぶ飲みする。痛飲する。
+QUAGGA	(名詞) クアッガ: 《分類学、一般》 ウマ目ウマ科ウマ属に属する絶滅馬でサバンナシマウマの亜種。学名:Eqqus quagga quagga。
+QUAGGAS	(quaggaの変化形) (名詞) クアッガ: 《分類学、一般》 ウマ目ウマ科ウマ属に属する絶滅馬でサバンナシマウマの亜種。学名:Eqqus quagga quagga。
+QUAGMIRE	(名詞) 沼地。泥沼。湿地。\n(動詞) quagmireの訳: 巻き込む
+QUAGMIRES	(名詞) quagmireの複数形: 沼地。泥沼。湿地。\n(動詞) quagmireの直説法現在第三人称単数形: 沼地。泥沼。湿地。
+QUAGS	(名詞) quagの複数形。
+QUAIL	(名詞) quailの訳: 養鶉, ⟪ウズラ|うずら⟫
+QUAILED	(quailの変化形) (名詞) quailの訳: 養鶉, ⟪ウズラ|うずら⟫
+QUAILING	(quailの変化形) (名詞) quailの訳: 養鶉, ⟪ウズラ|うずら⟫
+QUAILS	(quailの変化形) (名詞) quailの訳: 養鶉, ⟪ウズラ|うずら⟫
+QUAKE	(名詞) quakeの訳: 揺れ, 震え\n(動詞) quakeの訳: ⟪震える|ふるえる⟫
+QUAKED	(動詞) quakeの過去形又は過去分詞形: 揺れ、震え。
+QUAKES	(名詞) quakeの複数形: 揺れ、震え。\n(動詞) quakeの直説法第三人称単数現在形: 揺れ、震え。
+QUAKING	(名詞) 震動: 揺れ動くこと。\n(形容詞) quakingの訳: ⟪震える|ふるえる⟫
+QUALIFICATION	(名詞) 資格: （すがた）人や動物などの存在。現前。
+QUALIFICATIONS	(名詞) "qualification" の複数形: 資格: （すがた）人や動物などの存在。現前。
+QUALIFIED	(形容詞) 適格の: 規則・法律などの定めや資格に適うこと。 (ほかに: 資格のある, 能力のある)\n(動詞) qualifyの過去形・過去分詞: 資格を与える
+QUALIFIER	(名詞) 資格を与える人。
+QUALIFIERS	(名詞) qualifierの複数形: 資格を与える人。
+QUALIFIES	(動詞) qualifyの直説法現在第三人称単数形: 資格を与える
+QUALIFY	(動詞) qualifyの訳: 資格を与える
+QUALIFYING	(動詞) "qualify" の動名詞形又は現在分詞形: 資格を与える
+QUALITATIVE	(形容詞) 質の: （しつ）事物の良し悪し。特に物の場合は、その数ではなく、個々の物に注目して認識される良し悪し。品質。 (ほかに: 質的な)\n(名詞) qualitativeの訳: 質的なもの
+QUALITATIVELY	(副詞) 質的に: 質に関するさま。質の面からみるさま。
+QUALITIES	(名詞) qualityの複数形: 質:...
+QUALITY	(名詞) 質: （しつ）ある事物が備える、他の事物とその事物が近いのか遠いのかを表し、その事物がどんなものなのかを認識させるもの。特に物の場合は、その数ではなく、個々の物に注目して認識されるもの。性質。\n(形容詞) qualityの訳: 良質な, 質の高い
+QUANDARIES	(quandaryの変化形) (名詞) 窮状: 苦しいありさま。困窮した状況。苦境。 (ほかに: 窮地)
+QUANDARY	(名詞) 窮状: 苦しいありさま。困窮した状況。苦境。 (ほかに: 窮地)
+QUANTA	(quantumの変化形) (名詞) 量子: 物理現象における物理量の最小単位。
+QUANTITATIVE	(形容詞) 量の: （リョウ）数の多寡や、容積や体積の大小についての程度。質と対照して考えられるもの。 (ほかに: 量的な)
+QUANTITATIVELY	(副詞) 量的に: 量に関するさま。量の面からみるさま。 (ほかに: 定量的に)
+QUANTITIES	(名詞) quantityの複数形: 量: （リョウ）数の多寡や、容積や体積の大小についての程度。質と対照して考えられるもの。
+QUANTITY	(名詞) 量: （リョウ）数の多寡や、容積や体積の大小についての程度。質と対照して考えられるもの。
+QUANTUM	(名詞) 量子: 物理現象における物理量の最小単位。
+QUARANTINE	(名詞) quarantineの訳: 検疫
+QUARANTINED	(quarantineの変化形) (名詞) quarantineの訳: 検疫
+QUARANTINES	(quarantineの変化形) (名詞) quarantineの訳: 検疫
+QUARANTINING	(quarantineの変化形) (名詞) quarantineの訳: 検疫
+QUARK	(名詞) クォーク: ハドロンを構成する素粒子。単独で存在することはなくハドロン中にのみ存在する。+2/3・eの電荷を持つアップ・トップ・チャームと、-1/3・eの電荷を持つダウン・ボトム・ストレンジの六種類がある。それぞれの粒子は色荷という物理量を有していて、ハドロン中で色荷は白色でなければならない性質を持つ。
+QUARKS	(名詞) quarkの複数形: クォーク:...
+QUARREL	(名詞) quarrelの訳: 口論, 言い争い\n(動詞) 口論する: （こうろんする）言葉で争論する。 (ほかに: 言い争う)
+QUARRELED	(動詞) quarrelの過去形・過去分詞: 口論, 言い争い
+QUARRELER	(名詞) 口論する人。口論好きの人。
+QUARRELERS	(名詞) quarrelerの複数形: 口論する人。口論好きの人。
+QUARRELING	(動詞) quarrelの動名詞又は現在分詞: 口論, 言い争い\n(名詞) quarrellingの異綴。
+QUARRELLED	(動詞) quarrelの過去形・過去分詞: 口論, 言い争い
+QUARRELLER	(名詞) quarrelerの異綴。
+QUARRELLERS	(名詞) quarrellerの複数形: quarrelerの異綴。
+QUARRELLING	(動詞) quarrelの動名詞又は現在分詞: 口論, 言い争い\n(名詞) 言い争い: （いいあらそい）言葉で争うこと。口論。 (ほかに: 口論)
+QUARRELS	(名詞) quarrelの複数形: 口論, 言い争い\n(動詞) quarrelの現在第三人称単数形。
+QUARRELSOME	(形容詞) quarrelsomeの訳: 短気な, 怒りっぽい
+QUARRELSOMELY	(quarrelsomeの変化形) (形容詞) quarrelsomeの訳: 短気な, 怒りっぽい
+QUARRELSOMENESS	(名詞) 口論好きなこと。
+QUARRELSOMENESSES	(quarrelsomenessの変化形) (名詞) 口論好きなこと。
+QUARRIED	(quarryの変化形) (動詞) 採石: 山などから石材を切り出すこと。
+QUARRIES	(quarryの変化形) (動詞) 採石: 山などから石材を切り出すこと。
+QUARRY	(動詞) 採石: 山などから石材を切り出すこと。
+QUARRYING	(quarryの変化形) (動詞) 採石: 山などから石材を切り出すこと。
+QUARRYINGS	(quarryの変化形) (動詞) 採石: 山などから石材を切り出すこと。
+QUARTER	(名詞) 四分の一。四半分。\n(動詞) 四分割する。四で割る。
+QUARTERBACK	(名詞) (アメリカンフットボール, カナディアンフットボール) クォーターバック。\n(動詞) (アメリカンフットボール, カナディアンフットボール) クォーターバックを務める。
+QUARTERBACKED	(quarterbackの変化形) (名詞) (アメリカンフットボール, カナディアンフットボール) クォーターバック。
+QUARTERBACKING	(quarterbackの変化形) (名詞) (アメリカンフットボール, カナディアンフットボール) クォーターバック。
+QUARTERBACKS	(quarterbackの変化形) (名詞) (アメリカンフットボール, カナディアンフットボール) クォーターバック。
+QUARTERED	(動詞) quarterの過去形・過去分詞: 四分の一。四半分。
+QUARTERING	(動詞) "quarter" の動名詞又は現在分詞: 四分の一。四半分。
+QUARTERINGS	(quarterの変化形) (名詞) 四分の一。四半分。
+QUARTERLIES	(名詞) quarterly の複数形: 年4回の。
+QUARTERLY	(形容詞) quarterlyの訳: 年4回の\n(副詞) quarterlyの訳: 年に4回
+QUARTERS	(名詞) quarterの複数形: 四分の一。四半分。\n(動詞) "quarter" の現在第三人称単数形。
+QUARTERSTAFF	(名詞) 棒: （ボウ）細長い物体。
+QUARTERSTAVES	(quarterstaffの変化形) (名詞) 棒: （ボウ）細長い物体。
+QUARTET	(名詞) 四重奏。また、四重唱。
+QUARTETS	(quartetの変化形) (名詞) 四重奏。また、四重唱。
+QUARTZ	(名詞) quartzの訳: ⟪石英|せきえい⟫, クォーツ
+QUARTZES	(名詞) quartzの複数形: ⟪石英|せきえい⟫, クォーツ
+QUASI	(形容詞) 擬似の。類似の。
+QUASIPARTICLE	(名詞) quasiparticleの訳: 準粒子
+QUASIPARTICLES	(名詞) quasiparticleの複数形: 準粒子
+QUATERNARIES	(quaternaryの変化形) (形容詞) quaternaryの訳: 4個一組の
+QUATERNARY	(形容詞) quaternaryの訳: 4個一組の\n(名詞) quaternaryの訳: 四進法
+QUATERNION	(名詞) quaternionの訳: 四元数
+QUATERNIONS	(quaternionの変化形) (名詞) quaternionの訳: 四元数
+QUATTROCENTO	(名詞) (芸術史) クワトロチェント。
+QUATTROCENTOS	(quattrocentoの変化形) (名詞) (芸術史) クワトロチェント。
+QUAVER	(名詞) quaverの訳: 八分音符
+QUAVERED	(quaverの変化形) (名詞) quaverの訳: 八分音符
+QUAVERING	(quaverの変化形) (名詞) quaverの訳: 八分音符
+QUAVERS	(quaverの変化形) (名詞) quaverの訳: 八分音符
+QUAY	(名詞) quayの訳: ⟪波止場|はとば⟫, 埠頭, 岸壁\n(動詞) 波止場に停泊する。
+QUAYS	(名詞) quayの複数形: ⟪波止場|はとば⟫, 埠頭, 岸壁\n(動詞) quayの直説法現在第三人称単数形: ⟪波止場|はとば⟫, 埠頭, 岸壁
+QUEASIER	(形容詞) queasyの比較級: 吐き気のする
+QUEASIEST	(形容詞) queasyの最上級: 吐き気のする
+QUEASINESS	(名詞) 悪心: 嘔吐しそうな気分。吐き気。
+QUEASINESSES	(queasinessの変化形) (名詞) 悪心: 嘔吐しそうな気分。吐き気。
+QUEASY	(形容詞) queasyの訳: 吐き気のする
+QUEBRACHO	(名詞) 特定のウルシ科Schinopsis属の樹木。特に、ケブラチョ（Schinopsis lorentzii）。
+QUEBRACHOS	(quebrachoの変化形) (名詞) 特定のウルシ科Schinopsis属の樹木。特に、ケブラチョ（Schinopsis lorentzii）。
+QUEEN	(名詞) 元首である女王。\n(動詞) 王妃・女王にする。
+QUEENED	(動詞) queenの過去形・過去分詞: 元首である女王。
+QUEENING	(動詞) "queen" の動名詞又は現在分詞: 元首である女王。
+QUEENS	(名詞) queenの複数形: 元首である女王。\n(動詞) queenの直説法現在第三人称単数形: 元首である女王。
+QUEER	(形容詞) 変な。奇妙な。（16世紀から）\n(動詞) 努力や合意を無駄、無効にする。
+QUEERED	(queerの変化形) (形容詞) 変な。奇妙な。（16世紀から）
+QUEERER	(queerの変化形) (形容詞) 変な。奇妙な。（16世紀から）
+QUEEREST	(queerの変化形) (形容詞) 変な。奇妙な。（16世紀から）
+QUEERING	(queerの変化形) (形容詞) 変な。奇妙な。（16世紀から）
+QUEERS	(queerの変化形) (形容詞) 変な。奇妙な。（16世紀から）
+QUELL	(動詞) （騒動などを）抑える。鎮める。鎮圧する。\n(名詞) 制圧。鎮圧。
+QUELLED	(動詞) quellの過去形・過去分詞: （騒動などを）抑える。鎮める。鎮圧する。
+QUELLING	(quellの変化形) (動詞) （騒動などを）抑える。鎮める。鎮圧する。
+QUELLS	(名詞) quellの複数形: （騒動などを）抑える。鎮める。鎮圧する。\n(動詞) quellの直説法現在第三人称単数形: （騒動などを）抑える。鎮める。鎮圧する。
+QUENCH	(動詞) quenchの訳: 癒やす\n(名詞) quenchの訳: クエンチ
+QUENCHABLE	(形容詞) quenchableの訳: 消火できる
+QUENCHED	(動詞) quenchの過去形・過去分詞: 癒やす
+QUENCHES	(動詞) quenchの直説法現在第三人称単数形: 癒やす\n(名詞) quenchの複数形: 癒やす
+QUENCHING	(動詞) "quench" の動名詞又は現在分詞: 癒やす
+QUEST	(名詞) questの訳: 探究, 追求\n(動詞) questの訳: 探究する, 追求する
+QUESTED	(動詞) questの過去形・過去分詞: 探究, 追求
+QUESTING	(動詞) questの現在分詞: 探究, 追求\n(名詞) 探究。追求。
+QUESTION	(名詞) 問い: （とい）問うこと。質問。問題 (ほかに: 質問, 問題)\n(動詞) questionの訳: 質問する, ⟪尋ねる|たずねる⟫
+QUESTIONABLE	(形容詞) 疑わしい。怪しい。不審な。
+QUESTIONED	(動詞) questionの過去形・過去分詞: 問い: （とい）問うこと。質問。問題 (ほかに: 質問, 問題)
+QUESTIONER	(名詞) questionerの訳: 質問者
+QUESTIONERS	(名詞) questionerの複数形: 質問者
+QUESTIONING	(名詞) 質問: 物事の理由や事情の詳細など、わからないことや知りたいことを尋ねること。その内容。 (ほかに: 疑問)\n(形容詞) 疑問に満ちた、もの問いたげな。
+QUESTIONNAIRE	(名詞) アンケート用紙、質問票。\n(動詞) 〜にアンケートで調査する。
+QUESTIONNAIRES	(名詞) questionnaireの複数形: アンケート用紙、質問票。\n(動詞) questionnaireの直説法三人称現在単数形: アンケート用紙、質問票。
+QUESTIONS	(名詞) "question" の複数形: 問い: （とい）問うこと。質問。問題 (ほかに: 質問, 問題)\n(動詞) "question" の現在第三人称単数形。
+QUESTS	(名詞) questの複数形: 探究, 追求\n(動詞) questの直説法現在第三人称単数形: 探究, 追求
+QUEUE	(名詞) （何かを待つ）行列、列。類義語:（米）line\n(動詞) queueの訳: 行列に並ぶ
+QUEUED	(動詞) queueの過去形・過去分詞: （何かを待つ）行列、列。類義語:（米）line
+QUEUEING	(動詞) "queue" の動名詞形又は現在分詞形: （何かを待つ）行列、列。類義語:（米）line
+QUEUER	(queueの変化形) (名詞) （何かを待つ）行列、列。類義語:（米）line
+QUEUES	(名詞) "queue" の複数形: （何かを待つ）行列、列。類義語:（米）line\n(動詞) "queue" の三人称単数現在形: （何かを待つ）行列、列。類義語:（米）line
+QUEUING	(動詞) "queue" の動名詞形又は現在分詞形: （何かを待つ）行列、列。類義語:（米）line
+QUICK	(形容詞) quickの訳: ⟪速い|はやい⟫, 敏捷な, 即座の\n(副詞) quickの訳: ⟪速く|はやく⟫
+QUICKEN	(動詞) 速める: 速度を上げる。
+QUICKENED	(動詞) quickenの過去形・過去分詞: 速める: 速度を上げる。
+QUICKENING	(動詞) "quicken" の動名詞又は現在分詞: 速める: 速度を上げる。
+QUICKENS	(動詞) "quicken" の現在第三人称単数形。
+QUICKER	(形容詞) "quick" の比較級形: ⟪速い|はやい⟫, 敏捷な, 即座の\n(副詞) "quick" の比較級形: ⟪速い|はやい⟫, 敏捷な, 即座の
+QUICKEST	(形容詞) "quick" の最上級形: ⟪速い|はやい⟫, 敏捷な, 即座の\n(副詞) "quick" の最上級形: ⟪速い|はやい⟫, 敏捷な, 即座の
+QUICKLIME	(名詞) 生石灰: 石灰石を熱して作られる酸化カルシウムの別称。
+QUICKLIMES	(quicklimeの変化形) (名詞) 生石灰: 石灰石を熱して作られる酸化カルシウムの別称。
+QUICKLY	(副詞) quicklyの訳: ⟪速く|はやく⟫
+QUICKNESS	(名詞) 敏速、快速、動きや理解の速さ、素速さ。
+QUICKNESSES	(名詞) quicknessの複数形: 敏速、快速、動きや理解の速さ、素速さ。
+QUICKS	(名詞) quickの複数形: ⟪速い|はやい⟫, 敏捷な, 即座の\n(動詞) quickの三人称単数現在形: ⟪速い|はやい⟫, 敏捷な, 即座の
+QUICKSAND	(名詞) quicksandの訳: 流砂
+QUICKSANDS	(名詞) quicksandの複数形: 流砂
+QUICKSILVER	(名詞) 水銀: 元素記号 Hg, 原子番号 80の金属元素。常温常圧で唯一液体である金属である。
+QUICKSILVERS	(quicksilverの変化形) (名詞) 水銀: 元素記号 Hg, 原子番号 80の金属元素。常温常圧で唯一液体である金属である。
+QUIESCENCE	(名詞) 静止: いったん動いてから、また元の場所に戻る、一連の動き。結果的には動かないのと同じで、事実上のパスとなる。
+QUIESCENCES	(quiescenceの変化形) (名詞) 静止: いったん動いてから、また元の場所に戻る、一連の動き。結果的には動かないのと同じで、事実上のパスとなる。
+QUIET	(形容詞) quietの訳: 音が小さい\n(動詞) quietの訳: 黙る
+QUIETED	(動詞) quietの過去形・過去分詞: 音が小さい
+QUIETER	(形容詞) "quiet" の比較級: 音が小さい\n(名詞) quietする人。
+QUIETERS	(名詞) "quieter" の複数形: "quiet" の比較級。
+QUIETEST	(形容詞) "quiet" の最上級: 音が小さい
+QUIETING	(動詞) quietの動名詞又は現在分詞: 音が小さい\n(名詞) 静かにさせること、沈静。
+QUIETLY	(副詞) 静かに。音も無く。
+QUIETNESS	(名詞) 静寂: 無言。沈黙。 (ほかに: 静謐)
+QUIETNESSES	(quietnessの変化形) (名詞) 静寂: 無言。沈黙。 (ほかに: 静謐)
+QUIETS	(名詞) quietの複数形: 音が小さい\n(動詞) quietの現在第三人称単数形。
+QUIETUDE	(名詞) 静けさ: 静かであること。また、その程度。 (ほかに: 平静)
+QUIETUDES	(名詞) quietudeの複数形: 静けさ: 静かであること。また、その程度。 (ほかに: 平静)
+QUILL	(名詞) ペン: ポリエチレンナフタレートの通称。合成樹脂の材料の一種。PEN。
+QUILLS	(quillの変化形) (名詞) ペン: ポリエチレンナフタレートの通称。合成樹脂の材料の一種。PEN。
+QUILT	(名詞) quiltの訳: キルト\n(動詞) キルトにする、キルティングする。
+QUILTED	(quiltの変化形) (名詞) quiltの訳: キルト
+QUILTING	(quiltの変化形) (名詞) quiltの訳: キルト
+QUILTINGS	(quiltの変化形) (名詞) quiltの訳: キルト
+QUILTS	(名詞) quiltの複数形: キルト。\n(動詞) quiltの直説法現在第三人称単数形: キルト
+QUINARIES	(quinaryの変化形) (形容詞) quinaryの訳: 5個一組の
+QUINARY	(形容詞) quinaryの訳: 5個一組の\n(名詞) quinaryの訳: 五進法
+QUINCE	(名詞) quinceの訳: マルメロ
+QUINCES	(quinceの変化形) (名詞) quinceの訳: マルメロ
+QUININE	(名詞) キニーネ: キナの樹皮から精製される無色で結晶のアルカロイド。苦味があり健胃剤、解熱剤などに使用され、マラリアの治療薬。
+QUININES	(quinineの変化形) (名詞) キニーネ: キナの樹皮から精製される無色で結晶のアルカロイド。苦味があり健胃剤、解熱剤などに使用され、マラリアの治療薬。
+QUINQUENNIA	(名詞) quinquenniumの複数形: 五年間。五年の任期。
+QUINQUENNIAL	(形容詞) 五年毎の。五年に一回の。\n(名詞) quinquennialの訳: 五周年
+QUINQUENNIALLY	(副詞) quinquenniallyの訳: 五年毎に
+QUINQUENNIALS	(名詞) quinquennialの複数形: 五年毎の。五年に一回の。
+QUINQUENNIUM	(名詞) 五年間。五年の任期。
+QUINQUENNIUMS	(名詞) quinquenniumの複数形: 五年間。五年の任期。
+QUINTESSENTIAL	(形容詞) quintessentialの訳: 典型的な\n(名詞) quintessentialの訳: 真髄
+QUINTESSENTIALLY	(quintessentialの変化形) (形容詞) quintessentialの訳: 典型的な
+QUINTET	(名詞) 五重奏。また、五重唱。
+QUINTETS	(quintetの変化形) (名詞) 五重奏。また、五重唱。
+QUINTILLION	(数詞) quintillionの訳: 百京\n(名詞) quintillionの訳: 度を越した数
+QUINTILLIONS	(数詞) quintillionの複数形: 百京。\n(名詞) quintillionの複数形: 百京。
+QUINTUPLE	(名詞) 五重: （ごじゅう）五つの重なり。 (ほかに: 五倍)\n(形容詞) quintupleの訳: 五倍の, 五重の
+QUINTUPLED	(quintupleの変化形) (名詞) 五重: （ごじゅう）五つの重なり。 (ほかに: 五倍)
+QUINTUPLES	(動詞) quintupleの直説法現在第三人称単数形: 五重: （ごじゅう）五つの重なり。 (ほかに: 五倍)\n(名詞) quintupleの複数形: 五重: （ごじゅう）五つの重なり。 (ほかに: 五倍)
+QUINTUPLET	(名詞) 五つ子のひとり。（複数形で）五つ子。\n(形容詞) quintupletの訳: 五つ子の
+QUINTUPLETS	(名詞) quintupletの複数形。五つ子: 五つ子のひとり。（複数形で）五つ子。
+QUINTUPLING	(quintupleの変化形) (名詞) 五重: （ごじゅう）五つの重なり。 (ほかに: 五倍)
+QUIT	(動詞) やめる: 【止める、已める】予定や計画などを実施しないことにする。中止する。撤回する。あきらめる。 (ほかに: 断念する)\n(形容詞) quitの訳: 免れて
+QUITE	(副詞) 全く: （まったく）（評価について消極的表現と呼応し、消極の度合いを強調）全然。 (ほかに: 完全に, すっかり)\n(感動詞) quiteの訳: ⟪いかにも⟫, そのとおり
+QUITS	(動詞) "quit" の三人称単数現在形: やめる: 【止める、已める】予定や計画などを実施しないことにする。中止する。撤回する。あきらめる。 (ほかに: 断念する)
+QUITTED	(動詞) quitの過去形・過去分詞: やめる: 【止める、已める】予定や計画などを実施しないことにする。中止する。撤回する。あきらめる。 (ほかに: 断念する)
+QUITTING	(動詞) "quit" の動名詞形又は現在分詞形: やめる: 【止める、已める】予定や計画などを実施しないことにする。中止する。撤回する。あきらめる。 (ほかに: 断念する)
+QUIVER	(名詞) quiverの訳: ⟪えびら⟫, ⟪ふるえ⟫
+QUIVERED	(quiverの変化形) (名詞) quiverの訳: ⟪えびら⟫, ⟪ふるえ⟫
+QUIVERER	(quiverの変化形) (名詞) quiverの訳: ⟪えびら⟫, ⟪ふるえ⟫
+QUIVERING	(quiverの変化形) (名詞) quiverの訳: ⟪えびら⟫, ⟪ふるえ⟫
+QUIVERS	(quiverの変化形) (名詞) quiverの訳: ⟪えびら⟫, ⟪ふるえ⟫
+QUIZ	(名詞) quizの訳: 簡単な試験, 小テスト\n(動詞) quizの訳: テストをする
+QUIZZED	(動詞) "quiz" の過去形・過去分詞: 簡単な試験, 小テスト
+QUIZZES	(名詞) "quiz" の複数形: 簡単な試験, 小テスト\n(動詞) "quiz" の現在第三人称単数形。
+QUIZZING	(動詞) "quiz" の動名詞又は現在分詞: 簡単な試験, 小テスト
+QUOD	(動詞) "quethe" の過去形。
+QUODS	(quodの変化形) (動詞) "quethe" の過去形。
+QUORUM	(名詞) quorumの訳: 定数, 定足数
+QUORUMS	(quorumの変化形) (名詞) quorumの訳: 定数, 定足数
+QUOTATION	(名詞) quotationの訳: ⟪引用|いんよう⟫, 引用符, 引用句, 引用文
+QUOTATIONS	(名詞) quotationの複数形: ⟪引用|いんよう⟫, 引用符, 引用句, 引用文
+QUOTE	(動詞) 引用する、引く、例を挙げる、引き合いに出す。\n(名詞) quoteの訳: 引用句
+QUOTED	(動詞) quoteの過去形・過去分詞: 引用する、引く、例を挙げる、引き合いに出す。
+QUOTES	(名詞) quoteの複数形: 引用する、引く、例を挙げる、引き合いに出す。\n(動詞) quoteの現在第三人称単数形。
+QUOTH	(動詞) "quethe" の過去形。
+QUOTIENT	(名詞) 商。除算の結果。
+QUOTIENTS	(名詞) quotientの複数形: 商。除算の結果。
+QUOTING	(動詞) quoteの動名詞又は現在分詞: 引用する、引く、例を挙げる、引き合いに出す。\n(名詞) quotingの訳: 見積もり

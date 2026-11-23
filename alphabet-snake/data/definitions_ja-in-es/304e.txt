@@ -1,0 +1,58 @@
+ぎあん	(sustantivo) medida: Valor numérico de una medida₂. (también: ritmo, medición)
+ぎいん	(sustantivo) parlamento: Asamblea de representantes de una comunidad con capacidad legislativa. (también: dieta, corte)
+ぎかい	(sustantivo) legislatura: Período durante el cual funcionan los cuerpos legislativos.
+ぎきょく	(sustantivo) ludoteca: Institución recreativa y cultural destinada al entretenimiento de los niños. (también: juego, drama)
+ぎけい	(sustantivo) hermanastro: Hijo del padrastro o de la madrastra de una persona.
+ぎけつ	(sustantivo) decisión: Determinación, resolución, transacción de una controversia, fallo, sobre algo que se discute. (también: laudo, resolución)
+ぎこう	(sustantivo) técnica: Manera específica para aplicar determinados conocimientos (ciencias, artes, etc.) a través de un proceso y un conjunto de recursos disponibles. (también: acierto)
+ぎこちない	(adjetivo) torpe: Pesado o lento en su movimiento. (también: engorroso)
+ぎごちない	(adjetivo) torpe: Necio, tardo en comprender un asunto.
+ぎざぎざ	(sustantivo) escalera: Construcción formada por una serie de escalones, permitiendo al usuario desplazarse entre los distintos planos de un edificio o lugar.
+ぎしき	(sustantivo) ceremonia: Acto público prescrito por ley, estatuto o costumbre en celebración de una solemnidad.
+ぎしゅ	(sustantivo) mano: Extremidad prensil y articulada en el extremo distal del brazo de los antropoides. (también: manecilla, manotada)
+ぎじゅつ	(sustantivo) técnica: Manera específica para aplicar determinados conocimientos (ciencias, artes, etc.) a través de un proceso y un conjunto de recursos disponibles. (también: habilidad, tecnología)
+ぎすぎす	(adverbio) fríamente: De modo frío.
+ぎせき	(sustantivo) escaño: Puesto electivo en un cuerpo colegiado, en especial en un parlamento.
+ぎそく	(sustantivo) ley: Disposición, regla o precepto dictado por la máxima autoridad. (también: derecho, regla)
+ぎぞう	(sustantivo) fabricación: Origen de un artículo manufacturado. (también: falsificación, manufactura)\n(verbo) fragua: Caldera u horno en que se calientan los metales para su forja. (también: falsificar, fraguar)
+ぎぞうする	(verbo) falsificar: Fabricar o producir falsamente. Crear un material o identificador con la intención fraudulenta de hacerlo pasar por otro.
+ぎだい	(sustantivo) argumento: Conjunto de ideas o razonamientos expresados para demostrar la veracidad o falsedad de una proposición.
+ぎてい	(sustantivo) acuerdo: Resolución tomada en común por varias partes o por un órgano colegiado.\n(verbo) aceptar: Dar por bueno, reconocer como correcto. (también: acordar, coincidir)
+ぎのう	(sustantivo) ciencia: Conocimiento estructurado y sistemático en algún campo del saber.
+ぎもん	(sustantivo) cuestión: Pregunta que se hace o propone para averiguar la verdad de algo controvirtiéndolo. (también: cosa, pregunta)\n(verbo) preguntar: Requerir información, formular preguntas. (también: pedir, requerir)
+ぎゃくさつ	(sustantivo) masacre: Matanza masiva, deliberada y cruel de personas, en especial cuando éstas están indefensas (también: matanza, escabechina)\n(verbo) ぎゃくさつ se traduce como masacrar
+ぎゃくしん	(sustantivo) revés: El lado de cualquier objeto enfrente de la parte de delante o el lado invisible de cualquier objeto.
+ぎゃくしんする	(verbo) revertir: Volver algo a su estado o condición anterior (también: retrogradar, retroceder)
+ぎゃくじょう	(sustantivo) distracción: Acción de distraerse, no poner atención en lo que se hace.
+ぎゃくせつ	(sustantivo) paradoja: Aserción que parece contradictoria o absurda pero que expresa una verdad posible o aparente.
+ぎゃっきょう	(sustantivo) adversidad: Infortunio, desdicha, suerte infausta, estado o situación triste o deplorable.^([definición imprecisa])
+ぎゃっこう	(verbo) ぎゃっこう se traduce como retrogradar, retroceder
+ぎゅうぎゅう	(adjetivo) doloroso: Que causa o produce dolor. (también: dolorioso)
+ぎゅうにゅう	(sustantivo) leche: Sustancia líquida de color blanco y de alto valor nutritivo que se produce en las mamas de las hembras de los mamíferos para alimentar a sus crías. Para consumo humano es común emplear la producida por vacas, ovejas, búfalas o cabras.
+ぎょうかい	(sustantivo) empresa: Organismo compuesto por el trabajo y el capital como elementos de la producción, y ocupada en labores industriales, comerciales o de prestación de servicios, con fines de lucro. (también: cosa, asunto)
+ぎょうさん	(adjetivo) exagerado: Que exagera o da una dimensión excesiva a algo, percibiéndolo o presentándolo como mayor, menor, mejor o peor de lo que es.\n(adverbio) mucho: Con el verbo ser, indica extrañeza o dificultad. (también: abundantemente)
+ぎょうし	(verbo) tratar: Regañar, reprender. (también: concernir)\n(sustantivo) contemplación: Acción o efecto de contemplar. (también: fijación, afán)
+ぎょうしする	(verbo) observar: Ver, mirar, percibir, notar. (también: mirar fijamente)
+ぎょうしょう	(sustantivo) líder: Persona que, en un grupo organizado, toma las decisiones y dirige la acción. (también: jefe, dirigente)
+ぎょうせい	(sustantivo) gobierno: Acción o efecto de gobernar. (también: virreinato, administración)
+ぎょうせき	(sustantivo) rendimiento: Producto o utilidad que da una cosa. (también: actuación)
+ぎょうてい	(sustantivo) distancia: Cantidad de espacio o de tiempo que hay entre puntos, objetos, sucesos o seres. (también: alejamiento, lejanía)
+ぎょうむ	(sustantivo) empresa: Organismo compuesto por el trabajo y el capital como elementos de la producción, y ocupada en labores industriales, comerciales o de prestación de servicios, con fines de lucro. (también: cosa, asunto)
+ぎょうれつ	(sustantivo) cola: Más generalmente, extremidad o apéndice posterior de un objeto. (también: fila, línea)
+ぎょぎょう	(sustantivo) pesquera: Lugar en donde se pesca frecuentemente. (también: pesca, pesquería)
+ぎょくざ	(sustantivo) trono: Silla, sillón o asiento de ceremonia para personas de alto rango o dignidad, generalmente con adornos de lujo y elevado sobre un pedestal, gradas o dosel. (también: solio)
+ぎょざ	(sustantivo) trono: Silla, sillón o asiento de ceremonia para personas de alto rango o dignidad, generalmente con adornos de lujo y elevado sobre un pedestal, gradas o dosel. (también: solio)
+ぎょしゃ	(sustantivo) ぎょしゃ se traduce como ⟪cochero⟫
+ぎょしん	(sustantivo) tentempié: Porción pequeña de alimento que se consume en el intervalo entre comidas para calmar el hambre de forma temporal. (también: bocado, mordida)
+ぎょじん	(sustantivo) pescador: Persona que extrae o intenta extraer peces u otros animales del agua.
+ぎょるい	(sustantivo) rebaba: Materia sobrante cualquiera, que forma un resalte en los bordes o la superficie de un objeto. (también: aleta, pez)
+ぎらぎら	(verbo) cegar: Privar de la vista a alguien. (también: obnubilar, encandilar)
+ぎりょう	(sustantivo) habilidad: Capacidad, inteligencia, efectividad y disposición para hacer algo. (también: aptitud, competenza)
+ぎろん	(sustantivo) discusión: Acción o efecto de discutir (también: disputa)\n(verbo) ぎろん se traduce como ⟪discutir⟫
+ぎんいろ	(sustantivo) plateado: Que semeja a la plata en su color o apariencia.
+ぎんか	(sustantivo) plata: Elemento químico de número atómico 47 situado en el grupo 11 de la tabla periódica de los elementos. Su símbolo es Ag. Es un metal de transición blanco y brillante. Presenta las mayores conductividades térmica y eléctrica de todos los metales, y se encuentra formando parte de distintos minerales... (también: monedas)
+ぎんが	(sustantivo) galaxia: Un conjunto de millones de estrellas, polvo galáctico, agujeros negros, nebulosas, etc, agrupados por la fuerza gravitacional. En el universo observable hay millones de galaxias, probablemente mas de 10 ¹¹.
+ぎんぎん	(adjetivo) absorto: Quedar con la atención o el pensamiento concentrado en algo, con descuido hacia otras cosas.
+ぎんこう	(sustantivo) banco: Empresa que ofrece servicios monetarios como cuentas o préstamos.
+ぎんしょく	(sustantivo) plateado: Que semeja a la plata en su color o apariencia.
+ぎんまく	(sustantivo) pantalla: Por extensión, lámina tal que se emplea para aislar dos espacios. (también: mampara, tamiz)

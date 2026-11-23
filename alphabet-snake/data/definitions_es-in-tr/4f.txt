@@ -1,0 +1,1277 @@
+OBCECADA	(obcecado sözcüğünün çekimi) (sıfat) keçi: (mecaz) inatçı (ayrıca: inatçı)
+OBCECADO	(sıfat) keçi: (mecaz) inatçı (ayrıca: inatçı)
+OBCECADOS	(obcecado sözcüğünün çekimi) (sıfat) keçi: (mecaz) inatçı (ayrıca: inatçı)
+OBEDIENCIA	(ad) itaat: söz dinleme
+OBEDIENTE	(sıfat) uslu: söz dinleyen, yaramazlık yapmayan, çevresindekileri rahatsız etmeyen. (genellikle çocuk) (ayrıca: uysal)
+OBEDIENTES	(obediente sözcüğünün çekimi) (sıfat) uslu: söz dinleyen, yaramazlık yapmayan, çevresindekileri rahatsız etmeyen. (genellikle çocuk) (ayrıca: uysal)
+OBELISCO	(ad) hançer: Ucu eğri ve sivri, kamaya benzer, silah olarak kullanılan bir tür bıçak.
+OBELISCOS	(obelisco sözcüğünün çekimi) (ad) hançer: Ucu eğri ve sivri, kamaya benzer, silah olarak kullanılan bir tür bıçak.
+OBERTURA	(ad) açılış: küşat, açım, yeni yapının, yerin ya da yeni kurumun çalışmaya başlaması (ayrıca: açış, açma)
+OBERTURAS	(obertura sözcüğünün çekimi) (ad) açılış: küşat, açım, yeni yapının, yerin ya da yeni kurumun çalışmaya başlaması (ayrıca: açış, açma)
+OBESIDAD	(ad) obezite: biriken fazla vücut yağının sağlık üzerinde olumsuz bir etkisi olabilecek seviyede çok olması nedeniyle oluşan tıbbi bir durumdur, çok şişmanlık
+OBICE	(ad) obice kelimesinin karşılığı: ⟪hail|HAİL⟫
+OBISPADO	(ad) piskoposluk: piskoposun yönettiği bölge (ayrıca: diyosez)
+OBISPO	(ad) piskopos: Hristiyanlık'ta ruhban sınıfının üst düzey üyelerinden bir din adamı.
+OBISPOS	(obispo sözcüğünün çekimi) (ad) piskopos: Hristiyanlık'ta ruhban sınıfının üst düzey üyelerinden bir din adamı.
+OBITO	(ad) ecel: yaşamın sonu, ölüm zamanı (ayrıca: ölüm, mevt)
+OBJECION	(ad) itiraz: takışma
+OBJECIONES	(objecion sözcüğünün çekimi) (ad) itiraz: takışma
+OBJETIVIDAD	(ad) nesnellik: yaygın olarak her tür öznel etki ve öğelerden bağımsız olabilme durumunu ifade etmek icin kullanılan terim, nesnel olma veya nesnelerin gerçeğine dayanma durumu, afakilik, objektiflik, objektivite (ayrıca: afakilik)
+OBJETIVO	(ad) objetivo kelimesinin karşılığı: ⟪objektif|OBJEKTİF⟫
+OBJETIVOS	(objetivo sözcüğünün çekimi) (ad) objetivo kelimesinin karşılığı: ⟪objektif|OBJEKTİF⟫
+OBJETO	(ad) nesne: fiziksel nesne, şey veya nesne, belirli bir kütlesi ve hacmi olan her türlü cansız varlık, fiziksel cisim, veya fiziksel obje (ayrıca: eşya, nişane)
+OBJETOS	(objeto sözcüğünün çekimi) (ad) nesne: fiziksel nesne, şey veya nesne, belirli bir kütlesi ve hacmi olan her türlü cansız varlık, fiziksel cisim,...
+OBLIGA	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGABA	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGABAN	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGABAS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGACION	(ad) farz: yapmak zorunda kalınan şey, boyun borcu (ayrıca: yüküm, ödev)
+OBLIGADA	(obligado sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGADAS	(obligado sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGADO	(sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGADOS	(obligado sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGAIS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGAMOS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGAN	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGANTE	(sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGAR	(eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARA	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARAMOS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARAN	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARAS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARE	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGAREIS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGAREMOS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARIA	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARIAMOS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARIAN	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARIAS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGARON	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGAS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGASE	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGASEN	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGASTE	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGASTEIS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGATORIA	(obligatorio sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGATORIAS	(obligatorio sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGATORIO	(sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGATORIOS	(obligatorio sözcüğünün çekimi) (sıfat) zorunlu: kesin olarak gereksinim duyulan, zaruri, mecburi, ıztırari
+OBLIGO	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGUE	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGUEIS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGUEMOS	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGUEN	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLIGUES	(obligar sözcüğünün çekimi) (eylem) zorlamak: birine bir şey yaptırmak amacıyla güç kullanmak, boyun eğdirmeye çalışmak, zor kullanmak, mecbur etmek
+OBLITERAR	(eylem) mahvetmek: yok etmek (ayrıca: silmek, yok etmek)
+OBNUBILA	(obnubilar sözcüğünün çekimi) (eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OBNUBILAR	(eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OBNUBILO	(obnubilar sözcüğünün çekimi) (eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OBOLO	(ad) akar: sıvı, mai, likit
+OBRA	(ad) obra kelimesinin karşılığı: iş
+OBRABA	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRAD	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRADOR	(ad) atölye: Zanaatçıların veya resim, heykel sanatlarıyla uğraşanların çalıştığı yer; işlik.
+OBRADORA	(obrador sözcüğünün çekimi) (ad) atölye: Zanaatçıların veya resim, heykel sanatlarıyla uğraşanların çalıştığı yer; işlik.
+OBRAIS	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRAJE	(ad) etme: etmek işi
+OBRAMOS	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRAN	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRAR	(eylem) davranmak: bir şeye el atmak, girişmek
+OBRARA	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRARAN	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRARE	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRAREMOS	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRARIA	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRARON	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRAS	(obra sözcüğünün çekimi) (ad) obra kelimesinin karşılığı: iş
+OBRASTE	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRE	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBREMOS	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBREN	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRERA	(ad) çalışan: çalışma işini yapan kişi (ayrıca: işçi)
+OBRERAS	(obrero sözcüğünün çekimi) (ad) çalışan: çalışma işini yapan kişi (ayrıca: işçi)
+OBRERO	(ad) çalışan: çalışma işini yapan kişi (ayrıca: işçi)
+OBREROS	(obrero sözcüğünün çekimi) (ad) çalışan: çalışma işini yapan kişi (ayrıca: işçi)
+OBRES	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBRO	(obrar sözcüğünün çekimi) (eylem) davranmak: bir şeye el atmak, girişmek
+OBSCENA	(obsceno sözcüğünün çekimi) (sıfat) müstehcen: pornografik
+OBSCENAS	(obsceno sözcüğünün çekimi) (sıfat) müstehcen: pornografik
+OBSCENO	(sıfat) müstehcen: pornografik
+OBSCENOS	(obsceno sözcüğünün çekimi) (sıfat) müstehcen: pornografik
+OBSECUENTE	(sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+OBSECUENTES	(obsecuente sözcüğünün çekimi) (sıfat) mütevazı: gösterişsiz, iddiasız (ayrıca: hakir)
+OBSEQUIO	(ad) armağan: Birini sevindirmek, mutlu etmek, onurlandırmak, kutlamak için veya anı olarak verilen şey. (ayrıca: bağış)
+OBSEQUIOS	(obsequio sözcüğünün çekimi) (ad) armağan: Birini sevindirmek, mutlu etmek, onurlandırmak, kutlamak için veya anı olarak verilen şey. (ayrıca: bağış)
+OBSERVA	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVABA	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVABAMOS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVABAN	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVABAS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVACION	(ad) gözlem: bir nesnenin, olayın veya bir gerçeğin, niteliklerinin bilinmesi amacıyla, dikkatli ve planlı olarak ele alınıp incelenmesi, müşahede (ayrıca: gözleme, izlem)
+OBSERVACIONES	(observacion sözcüğünün çekimi) (ad) gözlem: bir nesnenin, olayın veya bir gerçeğin, niteliklerinin bilinmesi amacıyla, dikkatli ve planlı olarak ele...
+OBSERVAD	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVADOR	(ad) gözlemci: bir konferans, kongre vb. ne katılan, genellikle söz alma ve önerge verme hakkı olmayan, toplantıları kendi veya başkası adına izleyen kimse, müşahit
+OBSERVADORA	(observador sözcüğünün çekimi) (ad) gözlemci: bir konferans, kongre vb. ne katılan, genellikle söz alma ve önerge verme hakkı olmayan, toplantıları...
+OBSERVADORAS	(observador sözcüğünün çekimi) (ad) gözlemci: bir konferans, kongre vb. ne katılan, genellikle söz alma ve önerge verme hakkı olmayan, toplantıları...
+OBSERVADORES	(observador sözcüğünün çekimi) (ad) gözlemci: bir konferans, kongre vb. ne katılan, genellikle söz alma ve önerge verme hakkı olmayan, toplantıları...
+OBSERVAIS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVAMOS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVAN	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVAR	(eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARA	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARAMOS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARAN	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARAS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARE	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVAREMOS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARIA	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARIAN	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARIAS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVARON	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVAS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVASE	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVASTE	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVATORIO	(ad) rasathane: gök cisimlerini ve olaylarını rasat ederek inceleyen yer, gözlemevi, observatuvar
+OBSERVATORIOS	(observatorio sözcüğünün çekimi) (ad) rasathane: gök cisimlerini ve olaylarını rasat ederek inceleyen yer, gözlemevi, observatuvar
+OBSERVE	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVEIS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVEMOS	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVEN	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVES	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSERVO	(observar sözcüğünün çekimi) (eylem) gözlemek: bir şeyin olmasını veya bir kişinin gelmesini beklemek
+OBSESION	(ad) takıntı: Bir durum veya sorunla ilişkisi olan başka durum veya sorun
+OBSESIONES	(ad) çoğul çekimi: obsesión
+OBSIDIANA	(ad) obsidyen: obsidiyen kavramının farklı yazılışı (ayrıca: obsidiyen)
+OBSOLETA	(obsoleto sözcüğünün çekimi) (sıfat) eskimiş: eski olma
+OBSOLETAS	(obsoleto sözcüğünün çekimi) (sıfat) eskimiş: eski olma
+OBSOLETO	(sıfat) eskimiş: eski olma
+OBSOLETOS	(obsoleto sözcüğünün çekimi) (sıfat) eskimiş: eski olma
+OBSTACULICE	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULICEN	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZA	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZABA	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZAN	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZAR	(eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZARA	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZARIA	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZARON	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZAS	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULIZO	(obstaculizar sözcüğünün çekimi) (eylem) engellemek: bir şeyin gerçekleşmesini veya yapılmasını önlemek (ayrıca: alıkoymak, oyalamak)
+OBSTACULO	(ad) engel: bir şeyin gerçekleşmesini önleyen sebep, mâni, mahzur, müşkül, pürüz, mânia, handikap, beis (ayrıca: hail, bariyer)
+OBSTACULOS	(obstaculo sözcüğünün çekimi) (ad) engel: bir şeyin gerçekleşmesini önleyen sebep, mâni, mahzur, müşkül, pürüz, mânia, handikap, beis (ayrıca: hail,...
+OBSTAR	(eylem) oyalamak: belirli bir süre birinin dikkat ve ilgisini başka bir şey üzerine çekmek, meşgul etmek (ayrıca: alıkoymak)
+OBSTINA	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINACION	(ad) inatçılık: inatçı olma durumu, direngenlik, anutluk, muannitlik
+OBSTINADA	(obstinado sözcüğünün çekimi) (sıfat) inatçı: ayak direyen, inat eden, anut, muannit, direngen
+OBSTINADAS	(obstinado sözcüğünün çekimi) (sıfat) inatçı: ayak direyen, inat eden, anut, muannit, direngen
+OBSTINADO	(sıfat) inatçı: ayak direyen, inat eden, anut, muannit, direngen
+OBSTINADOS	(obstinado sözcüğünün çekimi) (sıfat) inatçı: ayak direyen, inat eden, anut, muannit, direngen
+OBSTINAIS	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINAN	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINAR	(eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINAS	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINE	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINES	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTINO	(obstinar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: tahriş etmek, kızmak)
+OBSTRUCCION	(ad) tıkanıklık: Tıkanık olma, iyi işleyememe durumu
+OBSTRUCCIONES	(obstruccion sözcüğünün çekimi) (ad) tıkanıklık: Tıkanık olma, iyi işleyememe durumu
+OBSTRUI	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUIA	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUIAN	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUIMOS	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUIR	(eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUIRA	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUIRAN	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUISTE	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYA	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYAN	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYAS	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYE	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYEN	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYERA	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYERON	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYES	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBSTRUYO	(obstruir sözcüğünün çekimi) (eylem) tıkamak: Yol, su, geçit vb. şeyleri bir engelle işlemez, akmaz, geçilmez duruma getirmek.
+OBTEN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENCION	(ad) edinme: edinmek işi. (ayrıca: edinim)
+OBTENDRA	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRAN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRAS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRE	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDREIS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDREMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRIA	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRIAMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRIAN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENDRIAS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENED	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENEIS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENEMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENER	(eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENES	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENGA	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENGAIS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENGAMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENGAN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENGAS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENGO	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENIA	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENIAMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENIAN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTENIAS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTIENE	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTIENEN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTIENES	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTURACION	(ad) contalama: contalamak işi (ayrıca: örtmeme)
+OBTURAR	(eylem) tıkamak: Bir şeyin ağzını, deliğini, içine konulan veya dışarıdan uygulanan bir nesneyle kapamak. (ayrıca: engellemek)
+OBTUVE	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIERA	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIERAMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIERAN	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIERAS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIERON	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIESE	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVIMOS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVISTE	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVISTEIS	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBTUVO	(obtener sözcüğünün çekimi) (eylem) düşmek: değmek, rastlamak, vurmak. (ayrıca: edinmek, kazanmak)
+OBVIA	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIAMENTE	(zarf) belirgin: açık bir biçimde
+OBVIAMOS	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIAR	(eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIARE	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIARON	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIAS	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIASTE	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIE	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIEMOS	(obviar sözcüğünün çekimi) (eylem) kaçınmak: Herhangi bir işi yapmaktan veya özverili davranmaktan geri durmak; kaçmak.
+OBVIO	(sıfat) apaçık: çok açık, çok belirgin
+OBVIOS	(obvio sözcüğünün çekimi) (sıfat) apaçık: çok açık, çok belirgin
+OCA	(ad) kaz: Perde ayaklılardan, uzun, beyaz veya gri boyunlu, karada ve suda yaşayan, uçan, yabanî veya evcil kuş
+OCAS	(oca sözcüğünün çekimi) (ad) kaz: Perde ayaklılardan, uzun, beyaz veya gri boyunlu, karada ve suda yaşayan, uçan, yabanî veya evcil kuş
+OCASIONA	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONABA	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONAMOS	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONAN	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONAR	(eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARA	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARAN	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARAS	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARE	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONAREMOS	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARIA	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARIAN	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONARON	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONAS	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONASTE	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONE	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASIONES	(ad) çoğul çekimi: ocasión
+OCASIONO	(ocasionar sözcüğünün çekimi) (eylem) ocasionar kelimesinin karşılığı: neden olmak
+OCASO	(ad) ocaso kelimesinin karşılığı: gün batımı, güneşin batışı
+OCASOS	(ocaso sözcüğünün çekimi) (ad) ocaso kelimesinin karşılığı: gün batımı, güneşin batışı
+OCCIDENTAL	(sıfat) batı: bulunulan yere göre güneşin battığı yönde olan bölge, garp (ayrıca: batısal)
+OCCIDENTALES	(ad) çoğul çekimi: occidental
+OCCIDENTE	(ad) batı: herhangi bir yerde Güneş'in 22 martta (ve 23 eylülde) battığı nokta (ayrıca: garp)
+OCCIPUCIO	(ad) artkafa: kafanın arkası
+OCCISO	(ad) kurban: maddi ve manevi bakımdan felakete sürüklenmiş, insani değerlerini yitirmek zorunda kalmış veya bırakılmış kimse
+OCCISOS	(occiso sözcüğünün çekimi) (ad) kurban: maddi ve manevi bakımdan felakete sürüklenmiş, insani değerlerini yitirmek zorunda kalmış veya bırakılmış...
+OCCITANO	(ad) occitano kelimesinin karşılığı: oksitanca
+OCEANICA	(oceanico sözcüğünün çekimi) (sıfat) bahri: denizle ilgili
+OCEANICAS	(oceanico sözcüğünün çekimi) (sıfat) bahri: denizle ilgili
+OCEANICO	(sıfat) bahri: denizle ilgili
+OCEANICOS	(oceanico sözcüğünün çekimi) (sıfat) bahri: denizle ilgili
+OCEANO	(ad) oceano kelimesinin karşılığı: ⟪okyanus|OKYANUS⟫
+OCEANOGRAFIA	(ad) okyanus bilimi: Denizleri ve okyanusları inceleyen bilim dalı
+OCEANOS	(oceano sözcüğünün çekimi) (ad) oceano kelimesinin karşılığı: ⟪okyanus|OKYANUS⟫
+OCELO	(ad) göz: Görme organı.
+OCHENTA	(sayı) seksen: yetmiş dokuzdan sonra gelen sayı
+OCHENTAVO	(sıfat) sekseninci: seksen sayısının sıra sıfatı, sırada yetmiş dokuzuncudan sonra gelen
+OCHO	(sayı) sekiz: yediden bir artık, sekizden bir eksik
+OCHOS	(ocho sözcüğünün çekimi) (sayı) sekiz: yediden bir artık, sekizden bir eksik
+OCIOSA	(ocioso sözcüğünün çekimi) (sıfat) boş: Yapılacak iş olmama durumu.
+OCIOSAS	(ocioso sözcüğünün çekimi) (sıfat) boş: Yapılacak iş olmama durumu.
+OCIOSO	(sıfat) boş: Yapılacak iş olmama durumu.
+OCIOSOS	(ocioso sözcüğünün çekimi) (sıfat) boş: Yapılacak iş olmama durumu.
+OCLUSIVO	(ad) oclusivo kelimesinin karşılığı: ⟪duruş|DURUŞ⟫
+OCREA	(ad) kın: buğdaygillerde olduğu gibi, yapraklarda sapın bir bölümünü uzunlamasına saran, geniş dış bölüm
+OCTAGONO	(ad) sekizgen: Sekiz kenarlı çokgen\n(sıfat) sekizgen: Sekiz kenarlı çokgen
+OCTAVAS	(octavo sözcüğünün çekimi) (sıfat) sekizinci: Sekiz sayısının sıra sıfatı, sırada yedinciden sonra gelen
+OCTAVILLA	(ad) octavilla kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫
+OCTAVILLAS	(octavilla sözcüğünün çekimi) (ad) octavilla kelimesinin karşılığı: ⟪yaprakçık|YAPRAKÇIK⟫
+OCTAVO	(sıfat) sekizinci: Sekiz sayısının sıra sıfatı, sırada yedinciden sonra gelen
+OCTAVOS	(ad) çoğul çekimi: octavo
+OCTETO	(ad) bayt: geniş anlamda bir bireme karşılık gelen; yan yana yaklaşık sekiz ikili rakamından (bit) oluşan en küçük işlenebilir saklatım birimi
+OCTOGESIMO	(sıfat) sekseninci: seksen sayısının sıra sıfatı, sırada yetmiş dokuzuncudan sonra gelen
+OCTOGONO	(ad) sekizgen: Sekiz kenarlı çokgen\n(sıfat) sekizgen: Sekiz kenarlı çokgen
+OCTUBRE	(ad) ekim: yılın 31 gün süren onuncu ayı, teşrinievvel
+OCULAR	(ad) oküler: optik aletlerinde mikroskop, teleskop vb. sistemlerde kullanılan gözün hemen önündeki akromat mercek grubu, objektiften aldığı ışınları göze veren mercek sistemi
+OCULARES	(ocular sözcüğünün çekimi) (ad) oküler: optik aletlerinde mikroskop, teleskop vb. sistemlerde kullanılan gözün hemen önündeki akromat mercek...
+OCULTA	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTABA	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTABAMOS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTABAN	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTABAS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAD	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAIS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAMOS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAN	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAR	(eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARA	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARAMOS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARAN	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARAS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARE	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAREMOS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARIA	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARIAN	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARIAS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTARON	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTAS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTASE	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTASEN	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTASES	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTASTE	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTASTEIS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTE	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTEIS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTEMOS	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTEN	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTES	(ocultar sözcüğünün çekimi) (eylem) saklamak: elinde bulundurmak, tutmak (ayrıca: barınmak, gizlemek)
+OCULTO	(sıfat) kapalı: Kapalı tribün (ayrıca: gizli)
+OCUPA	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPABA	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPABAMOS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPABAN	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPABAS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPACION	(ad) meslek: dizge; öğreti
+OCUPACIONES	(ocupacion sözcüğünün çekimi) (ad) meslek: dizge; öğreti
+OCUPAD	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPADO	(sıfat) meşgul: bir işle uğraşan, iş görmekte olan
+OCUPAIS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPAMOS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPAN	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPAR	(eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARA	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARAMOS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARAN	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARAS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARE	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPAREIS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPAREMOS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARIA	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARIAMOS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARIAN	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARIAS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPARON	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPAS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPASE	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPASEN	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPASES	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPASTE	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPASTEIS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPE	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPEIS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPEMOS	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPEN	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPES	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCUPO	(ocupar sözcüğünün çekimi) (eylem) kullanmak: (mecaz) bir şeyin gereklerini yerine getirmek (ayrıca: eskitmek)
+OCURRA	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRAN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRE	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURREN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRENCIA	(ad) vaka: hadise, olay
+OCURRENCIAS	(ocurrencia sözcüğünün çekimi) (ad) vaka: hadise, olay
+OCURRES	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIA	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIAN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIDA	(ocurrido sözcüğünün çekimi) (sıfat) beklenmedik: birdenbire, ansızın olan
+OCURRIDAS	(ocurrido sözcüğünün çekimi) (sıfat) beklenmedik: birdenbire, ansızın olan
+OCURRIDO	(sıfat) beklenmedik: birdenbire, ansızın olan
+OCURRIDOS	(ocurrido sözcüğünün çekimi) (sıfat) beklenmedik: birdenbire, ansızın olan
+OCURRIERA	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIERAN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIERON	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIESE	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIESEN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIO	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIR	(eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIRA	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIRAN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIRIA	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRIRIAN	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRISTE	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+OCURRO	(ocurrir sözcüğünün çekimi) (eylem) doğmak: ortaya çıkmak, sonucu olmak
+ODA	(ad) oda kelimesinin karşılığı: od
+ODAS	(oda sözcüğünün çekimi) (ad) oda kelimesinin karşılığı: od
+ODIABA	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIABAIS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIABAMOS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIABAN	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIABAS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAD	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAIS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAMOS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAN	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAR	(eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARA	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARAIS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARAMOS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARAN	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARAS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARE	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAREMOS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARIA	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARIAMOS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARIAN	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARIAS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIARON	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIAS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIASE	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIASEN	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIASES	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIASTE	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIE	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIEIS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIEMOS	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIEN	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIES	(odiar sözcüğünün çekimi) (eylem) odiar kelimesinin karşılığı: nefret etmek
+ODIO	(eylem) odiar sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi: nefret etmek
+ODIOS	(odio sözcüğünün çekimi) (eylem) odiar sözcüğünün birinci tekil şahıs şimdiki zaman bildirme kipi çekimi: nefret etmek
+ODOMETRO	(ad) adımsayar: Yürüme sırasında başlangıç noktasından bitiş noktasına kadar atılan adımı ve mesafeyi ölçen alet veya bilişim uygulaması; pedometre
+ODONTALGIA	(ad) odontalgia kelimesinin karşılığı: diş ağrısı
+ODONTOLOGIA	(ad) odontologia kelimesinin karşılığı: diş hekimi
+ODONTOLOGO	(ad) odontologo kelimesinin karşılığı: diş hekimi
+ODONTOLOGOS	(odontologo sözcüğünün çekimi) (ad) odontologo kelimesinin karşılığı: diş hekimi
+ODORANTE	(sıfat) kokulu: kokusu olan
+ODORIFERO	(sıfat) kokulu: kokusu olan
+OESTE	(ad) batı: herhangi bir yerde Güneş'in 22 martta (ve 23 eylülde) battığı nokta (ayrıca: garp)
+OFENDA	(ad) hakaret: onur kırma, onura dokunma
+OFENSA	(ad) kabahat: uygunsuz hareket, çirkin, yakışıksız davranış
+OFENSAS	(ofensa sözcüğünün çekimi) (ad) kabahat: uygunsuz hareket, çirkin, yakışıksız davranış
+OFENSIVA	(sıfat) saldırgan: başkasına saldıran, yapısında saldırma özelliği olan (devlet, kimse, hayvan), agresif, mütecaviz (ayrıca: kırıcı, ofansif)
+OFENSIVAS	(ofensivo sözcüğünün çekimi) (sıfat) kırıcı: bir şeyin gerektiği gibi gelişmesini, oluşmasını önleyen, engelleyen (ayrıca: ofansif, saldırgan)
+OFENSIVO	(sıfat) kırıcı: bir şeyin gerektiği gibi gelişmesini, oluşmasını önleyen, engelleyen (ayrıca: ofansif, saldırgan)
+OFENSIVOS	(ofensivo sözcüğünün çekimi) (sıfat) kırıcı: bir şeyin gerektiği gibi gelişmesini, oluşmasını önleyen, engelleyen (ayrıca: ofansif, saldırgan)
+OFERTA	(ad) teklif: incelenmek veya kabul edilmek için bir şey sunma, öneri, önerme
+OFERTAMOS	(ofertar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFERTAN	(ofertar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFERTAR	(eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFERTARON	(ofertar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFERTAS	(oferta sözcüğünün çekimi) (ad) teklif: incelenmek veya kabul edilmek için bir şey sunma, öneri, önerme
+OFERTASTE	(ofertar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFERTE	(ofertar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFERTO	(ofertar sözcüğünün çekimi) (eylem) önermek: tavsiye etmek (ayrıca: teklif etmek)
+OFFSIDE	(ad) ofsayt: futbolda hücuma geçen takımın en az bir oyuncusunun topla oynandığı anda rakip takımın kale çizgisine, o takımın en yakın oyuncusundan daha yakın bulunması durumu
+OFICIA	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIABA	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIAL	(ad) oficial kelimesinin karşılığı: ⟪subay|SUBAY⟫\n(sıfat) resmî: Devletin olan, devlete ait, devletle ilgili.
+OFICIALES	(oficial sözcüğünün çekimi) (ad) oficial kelimesinin karşılığı: ⟪subay|SUBAY⟫
+OFICIAN	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIAR	(eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIARA	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIARE	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIASTE	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICIE	(oficiar sözcüğünün çekimi) (eylem) davranmak: bir işi yapmaya hazır olmak, hazırlanmak
+OFICINA	(ad) ofis: iş yeri. (ayrıca: daire, büro)
+OFICINAS	(oficina sözcüğünün çekimi) (ad) ofis: iş yeri. (ayrıca: daire, büro)
+OFICIO	(ad) meslek: belli bir eğitim ile kazanılan sistemli bilgi ve becerilere dayalı, insanlara yararlı mal üretmek, hizmet vermek ve karşılığında para kazanmak için yapılan, kuralları belirlenmiş iş
+OFRECE	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECED	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECEIS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECEMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECEN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECER	(eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak, pekiştirmek: (ayrıca: önermek, teklif etmek)
+OFRECERA	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERAN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERAS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERE	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECEREIS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECEREMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERIA	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERIAMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERIAN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECERIAS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECES	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECI	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIA	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIAMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIAN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIAS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIDA	(ofrecido sözcüğünün çekimi) (sıfat) kolay: kolayca, sıkıntısız bir biçimde, basitçe
+OFRECIDAS	(ofrecido sözcüğünün çekimi) (sıfat) kolay: kolayca, sıkıntısız bir biçimde, basitçe
+OFRECIDO	(sıfat) kolay: kolayca, sıkıntısız bir biçimde, basitçe
+OFRECIDOS	(ofrecido sözcüğünün çekimi) (sıfat) kolay: kolayca, sıkıntısız bir biçimde, basitçe
+OFRECIERA	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIERAMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIERAN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIERAS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIERON	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIESE	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIESEN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIMIENTO	(ad) takdim: tanıtma, tanıştırma (ayrıca: sunma, sunuş)
+OFRECIMIENTOS	(ofrecimiento sözcüğünün çekimi) (ad) takdim: tanıtma, tanıştırma (ayrıca: sunma, sunuş)
+OFRECIMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECIO	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECISTE	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRECISTEIS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFRENDA	(ad) kurban: dinin buyurduğu veya bir adağı yerine getirmek için kesilen hayvan (ayrıca: sunma, sunuş)
+OFRENDAS	(ofrenda sözcüğünün çekimi) (ad) kurban: dinin buyurduğu veya bir adağı yerine getirmek için kesilen hayvan (ayrıca: sunma, sunuş)
+OFREZCA	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFREZCAIS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFREZCAMOS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFREZCAN	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFREZCAS	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFREZCO	(ofrecer sözcüğünün çekimi) (eylem) beslemek: Bir şeyi korumak veya sağlamca durmasını sağlamak için çevresini veya altını desteklemek, doldurmak,...
+OFUSCA	(ofuscar sözcüğünün çekimi) (eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OFUSCACION	(ad) iltibas: andırışma (ayrıca: karışıklık)
+OFUSCAMIENTO	(ad) ofuscamiento kelimesinin karşılığı: ⟪iltibas|İLTİBAS⟫, ⟪karışıklık|KARIŞIKLIK⟫, ⟪körlük|KÖRLÜK⟫
+OFUSCAN	(ofuscar sözcüğünün çekimi) (eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OFUSCAR	(eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OFUSQUE	(ofuscar sözcüğünün çekimi) (eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OFUSQUES	(ofuscar sözcüğünün çekimi) (eylem) afallatmak: şaşkınlığa düşürerek sersemleştirmek
+OGRO	(ad) ogro kelimesinin karşılığı: ⟪cellat|CELLAT⟫
+OGROS	(ogro sözcüğünün çekimi) (ad) ogro kelimesinin karşılığı: ⟪cellat|CELLAT⟫
+OHMIO	(ad) om: Kemiklerin toparlak ucu
+OHMIOS	(ohmio sözcüğünün çekimi) (ad) om: Kemiklerin toparlak ucu
+OIA	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIAIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIAMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIAN	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIAS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OID	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIDA	(ad) duyma: duymak durumu, işitme (ayrıca: işitme, işitme duyusu)
+OIDAS	(oido sözcüğünün çekimi) (ad) oido kelimesinin karşılığı: iç kulak
+OIDO	(ad) oido kelimesinin karşılığı: iç kulak
+OIDOS	(oido sözcüğünün çekimi) (ad) oido kelimesinin karşılığı: iç kulak
+OIGA	(ünlem) abe: (Rumeli ağzı) seslenmek ve dikkati çekmek için özellikle Rumeli'de kullanılan bir söz
+OIGAIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIGAMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIGAN	(ünlem) abe: (Rumeli ağzı) seslenmek ve dikkati çekmek için özellikle Rumeli'de kullanılan bir söz
+OIGAS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIGO	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIR	(eylem) duymak: işitmek, ses almak
+OIRA	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRAN	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRAS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRE	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIREIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIREMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRIA	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRIAIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRIAMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRIAN	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIRIAS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OISTE	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OISTEIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OJAL	(ad) ojal kelimesinin karşılığı: ⟪döngü|DÖNGÜ⟫
+OJALA	(ünlem) inşallah: "Allah temenni eder, nasip ederse" anlamlarında dilek anlatan bir söz:
+OJEA	(ojear sözcüğünün çekimi) (eylem) ojear kelimesinin karşılığı: göz atmak
+OJEABA	(ojear sözcüğünün çekimi) (eylem) ojear kelimesinin karşılığı: göz atmak
+OJEADA	(ad) bakış: bakmak işi. (ayrıca: bakıvermek)
+OJEAR	(eylem) ojear kelimesinin karşılığı: göz atmak
+OJEASTE	(ojear sözcüğünün çekimi) (eylem) ojear kelimesinin karşılığı: göz atmak
+OJEE	(ojear sözcüğünün çekimi) (eylem) ojear kelimesinin karşılığı: göz atmak
+OJEO	(ad) bakış: bakmak işi. (ayrıca: bakıvermek)
+OJETE	(ad) ojete kelimesinin karşılığı: kopça gözü\n(sıfat) ojete kelimesinin karşılığı: kopça gözü
+OJETES	(ojete sözcüğünün çekimi) (ad) ojete kelimesinin karşılığı: kopça gözü
+OJO	(ad) göz: Görme organı.
+OJOS	(ad) çoğul çekimi: ojo
+OKUPA	(ad) okupa kelimesinin karşılığı: toprak-konducu
+OKUPAR	(eylem) okupar kelimesinin karşılığı: ⟪çömelmek|ÇÖMELMEK⟫
+OKUPAS	(okupa sözcüğünün çekimi) (ad) okupa kelimesinin karşılığı: toprak-konducu
+OLA	(ad) dalga: Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı hareket.
+OLAMOS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLAS	(ola sözcüğünün çekimi) (ad) dalga: Deniz veya göl gibi geniş su yüzeylerinde genellikle rüzgâr, deprem vb.nin etkisiyle oluşan kıvrımlı...
+OLE	(ünlem) yaşa: hoşnutluk, sevinç v.s. duyguları anlatmak için söylenen bir söz, ole, oley, yaşasın
+OLEADA	(ad) dalga: esrar.
+OLEAJE	(ad) çalkantı: denizde ve gölde dalgalanma (ayrıca: sörf)
+OLEAJES	(oleaje sözcüğünün çekimi) (ad) çalkantı: denizde ve gölde dalgalanma (ayrıca: sörf)
+OLED	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLEIS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLEMOS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLEO	(ad) yağ: motor yağı
+OLEOS	(oleo sözcüğünün çekimi) (ad) yağ: motor yağı
+OLER	(eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERA	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERAN	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERAS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERE	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLEREIS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLEREMOS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERIA	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERIAMOS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERIAN	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLERIAS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLES	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLFATO	(ad) koku: belirti, işaret
+OLI	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIA	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIAMOS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIAN	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIAS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIENTE	(sıfat) kokulu: kokusu olan
+OLIENTES	(oliente sözcüğünün çekimi) (sıfat) kokulu: kokusu olan
+OLIERA	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIERAN	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIERAS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIERON	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIESE	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIGARQUIA	(ad) oligarşi: Siyasal gücün birkaç kişilik bir grubun elinde toplandığı yönetim, aristokrasinin daralmış biçimi, takım erki
+OLIGARQUIAS	(oligarquia sözcüğünün çekimi) (ad) oligarşi: Siyasal gücün birkaç kişilik bir grubun elinde toplandığı yönetim, aristokrasinin daralmış biçimi, takım...
+OLIGOPSONIO	(ad) oligopsonio kelimesinin karşılığı: az alıcı
+OLIMOS	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIMPICA	(olimpico sözcüğünün çekimi) (sıfat) bütünsel: bütün niteliğinde olan, bütünle ilgili, total (ayrıca: epik, destanlı)
+OLIMPICAS	(olimpico sözcüğünün çekimi) (sıfat) bütünsel: bütün niteliğinde olan, bütünle ilgili, total (ayrıca: epik, destanlı)
+OLIMPICO	(sıfat) bütünsel: bütün niteliğinde olan, bütünle ilgili, total (ayrıca: epik, destanlı)
+OLIMPICOS	(olimpico sözcüğünün çekimi) (sıfat) bütünsel: bütün niteliğinde olan, bütünle ilgili, total (ayrıca: epik, destanlı)
+OLISTE	(oler sözcüğünün çekimi) (eylem) koklamak: kokusunu duymak için bir şeyi burnuna yaklaştırmak veya bir yerin havasını içine çekmek, koku almak
+OLIVA	(ad) oliva kelimesinin karşılığı: ⟪zeytin|ZEYTİN⟫
+OLIVACEO	(sıfat) olivaceo kelimesinin karşılığı: zeytin yeşili
+OLLA	(ad) tencere: içinde yemek pişirilen, kapaklı, genellikle metal kap (ayrıca: tava, çaydanlık)
+OLLAS	(olla sözcüğünün çekimi) (ad) tencere: içinde yemek pişirilen, kapaklı, genellikle metal kap (ayrıca: tava, çaydanlık)
+OLMO	(ad) karaağaç: karaağaçgillerin örnek bitkisi olan, kerestesi değerli bir ağaç; narven, (Ulmus).
+OLMOS	(olmo sözcüğünün çekimi) (ad) karaağaç: karaağaçgillerin örnek bitkisi olan, kerestesi değerli bir ağaç; narven, (Ulmus).
+OLOR	(ad) koku: koku alma duyusuyla hissedilen, genelde çok küçük konsantrasyonlarda havada çözülmüş olarak bulunan kimyasal maddelerden her biridir, nesnelerden yayılan küçücük zerrelerin burun zarı üzerindeki özel sinirlerde uyandırdığı duygu (ayrıca: ıtır)
+OLORES	(olor sözcüğünün çekimi) (ad) koku: koku alma duyusuyla hissedilen, genelde çok küçük konsantrasyonlarda havada çözülmüş olarak bulunan kimyasal...
+OLOROSA	(oloroso sözcüğünün çekimi) (sıfat) kokulu: kokusu olan
+OLOROSAS	(oloroso sözcüğünün çekimi) (sıfat) kokulu: kokusu olan
+OLOROSO	(sıfat) kokulu: kokusu olan
+OLOROSOS	(ad) çoğul çekimi: oloroso
+OLVIDA	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDABA	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDABAMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDABAN	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDABAS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAD	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDADIZA	(olvidadizo sözcüğünün çekimi) (sıfat) unutkan: Çok unutan, unutma huyu olan
+OLVIDADIZO	(sıfat) unutkan: Çok unutan, unutma huyu olan
+OLVIDADIZOS	(olvidadizo sözcüğünün çekimi) (sıfat) unutkan: Çok unutan, unutma huyu olan
+OLVIDAIS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAN	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAOS	(olvidarse sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAR	(eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARA	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARAIS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARAMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARAN	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARAS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARE	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAREIS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAREMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARIA	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARIAIS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARIAMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARIAN	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARIAS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARON	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDARSE	(eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDAS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDASE	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDASEMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDASEN	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDASES	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDASTE	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDASTEIS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDATE	(olvidarse sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDE	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDEIS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDEMONOS	(olvidarse sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDEMOS	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDEN	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDENSE	(olvidarse sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDES	(olvidar sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDESE	(olvidarse sözcüğünün çekimi) (eylem) unutmak: aklında kalmamak, hatırlamamak
+OLVIDO	(ad) unutma: Unutmak durumu (ayrıca: nisyan)
+OLVIDOS	(olvido sözcüğünün çekimi) (ad) unutma: Unutmak durumu (ayrıca: nisyan)
+OMBLIGO	(ad) göbek: Dölütte, yumurtanın dölüt dışında kalan bölümlerle ilişkisini sağlayan organların çıktığı yer
+OMBLIGOS	(ombligo sözcüğünün çekimi) (ad) göbek: Dölütte, yumurtanın dölüt dışında kalan bölümlerle ilişkisini sağlayan organların çıktığı yer
+OMBUDSMAN	(ad) ombudsman: Parlamento tarafından görevlendirilen, vatandaşları resmî makamların keyfî ve yasa dışı davranışlarına karşı korumakla görevli kişi veya kurum
+OMELET	(ad) omlet: Çırpılmış yumurtayla sade olarak yapılabilen veya içine peynir, sebze, kıyma vb. katılarak tavada pişirilen yemek
+OMICRON	(ad) omicron kelimesinin karşılığı: omikron
+OMNIVORO	(sıfat) hepçil: hem hayvansal, hem bitkisel besinlerle beslenen
+OMNIVOROS	(omnivoro sözcüğünün çekimi) (sıfat) hepçil: hem hayvansal, hem bitkisel besinlerle beslenen
+OMOPLATO	(ad) omoplato kelimesinin karşılığı: kürek kemiği
+OMOPLATOS	(omoplato sözcüğünün çekimi) (ad) omoplato kelimesinin karşılığı: kürek kemiği
+ONAGRO	(ad) asya yaban eşeği: Atgillerden, Hazar Denizi dolaylarında yaşayan, eşeğe çok benzeyen yaban hayvanı. (Equus hemionus)
+ONANISMO	(ad) onanismo kelimesinin karşılığı: ⟪mastürbasyon|MASTÜRBASYON⟫, otuz bir, ⟪istimna|İSTİMNA⟫
+ONCE	(sayı) once kelimesinin karşılığı: on bir
+ONCEAVA	(onceavo sözcüğünün çekimi) (sıfat) onceavo kelimesinin karşılığı: on birinci
+ONCEAVO	(sıfat) onceavo kelimesinin karşılığı: on birinci
+ONCOLOGIA	(ad) onkoloji: Urları inceleyen tıp dalı.
+ONDA	(ad) dalga: Bir yüzeydeki kıvrım.
+ONDAS	(onda sözcüğünün çekimi) (ad) dalga: Bir yüzeydeki kıvrım.
+ONDEA	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEABA	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEABAN	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEAMOS	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEAN	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEANTE	(sıfat) dalgalı: Dalgası olan.
+ONDEANTES	(ondeante sözcüğünün çekimi) (sıfat) dalgalı: Dalgası olan.
+ONDEAR	(eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEARA	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEARAN	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEARIA	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEARON	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEAS	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEE	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEEN	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEES	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDEO	(ondear sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDULA	(ondular sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDULADA	(ondulado sözcüğünün çekimi) (sıfat) dalgalı: Dalgası olan.
+ONDULADAS	(ondulado sözcüğünün çekimi) (sıfat) dalgalı: Dalgası olan.
+ONDULADO	(sıfat) dalgalı: Dalgası olan.
+ONDULADOS	(ondulado sözcüğünün çekimi) (sıfat) dalgalı: Dalgası olan.
+ONDULAN	(ondular sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDULANTE	(sıfat) dalgalı: Dalgası olan.
+ONDULANTES	(ondulante sözcüğünün çekimi) (sıfat) dalgalı: Dalgası olan.
+ONDULAR	(eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDULATORIA	(ondulatorio sözcüğünün çekimi) (sıfat) dalgalı: Dalgası olan.
+ONDULATORIO	(sıfat) dalgalı: Dalgası olan.
+ONDULEN	(ondular sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONDULO	(ondular sözcüğünün çekimi) (eylem) dalgalanmak: hareketli olmak, kıpırdamak
+ONICE	(ad) onice kelimesinin karşılığı: balgam taşı
+ONIQUE	(ad) onique kelimesinin karşılığı: balgam taşı
+ONIX	(ad) onix kelimesinin karşılığı: balgam taşı
+ONOMASIOLOGIA	(ad) onomasiologia kelimesinin karşılığı: ad bilimi
+ONOMATOPEYA	(ad) yansıma: kullanılan sözcüklerin doğada oluşan seslere benzetilerek oluşması ve bu şekilde elde edilen kelime, onomatope (ayrıca: onomatope, yansıma sözcük)
+ONOMATOPEYAS	(onomatopeya sözcüğünün çekimi) (ad) yansıma: kullanılan sözcüklerin doğada oluşan seslere benzetilerek oluşması ve bu şekilde elde edilen kelime,...
+ONTOGENIA	(ad) ontogenesis: evrim biyolojisinde bir canlı tipinin oluşma süreci için kullanılan terimdir, bireyoluş
+ONTOGENICO	(sıfat) ferdî: kişisel
+ONTOLOGIA	(ad) ontologia kelimesinin karşılığı: varlık bilimi, ⟪ontoloji|ONTOLOJİ⟫
+ONTOLOGICA	(ontologico sözcüğünün çekimi) (sıfat) ontologico kelimesinin karşılığı: ⟪ontolojik|ONTOLOJİK⟫
+ONTOLOGICO	(sıfat) ontologico kelimesinin karşılığı: ⟪ontolojik|ONTOLOJİK⟫
+ONZA	(ad) ons: Fransa'da 30,59 gr, İngiltere'de 28,349 gr ağırlığında bir ağırlık birimi
+ONZAS	(onza sözcüğünün çekimi) (ad) ons: Fransa'da 30,59 gr, İngiltere'de 28,349 gr ağırlığında bir ağırlık birimi
+OPACIDAD	(ad) donukluk: Donuk olma durumu. (ayrıca: geçirimsizlik)
+OPALO	(ad) opal: Silis grubundan değerli bir mineral; silisin hidratlı ve jelâtinli bütün türlerini kapsar
+OPALOS	(opalo sözcüğünün çekimi) (ad) opal: Silis grubundan değerli bir mineral; silisin hidratlı ve jelâtinli bütün türlerini kapsar
+OPCION	(ad) seçenek: birinin yerine seçilebilecek bir başka yol (ayrıca: tercih, opsiyon)
+OPCIONES	(opcion sözcüğünün çekimi) (ad) seçenek: birinin yerine seçilebilecek bir başka yol (ayrıca: tercih, opsiyon)
+OPERA	(ad) opera: Sözlerinin bütünü veya çoğu şarkılı olarak söylenen müzikli tiyatro eseri
+OPERABA	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERABAMOS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERABAN	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERABAS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERACION	(ad) harekât: davranışlar, işler (ayrıca: operasyon, işlem)
+OPERACIONES	(ad) çoğul çekimi: operación
+OPERADOR	(ad) operador kelimesinin karşılığı: ⟪kameraman|KAMERAMAN⟫
+OPERADORA	(operador sözcüğünün çekimi) (ad) operador kelimesinin karşılığı: ⟪kameraman|KAMERAMAN⟫
+OPERADORAS	(operador sözcüğünün çekimi) (ad) operador kelimesinin karşılığı: ⟪kameraman|KAMERAMAN⟫
+OPERADORES	(operador sözcüğünün çekimi) (ad) operador kelimesinin karşılığı: ⟪kameraman|KAMERAMAN⟫
+OPERAIS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERAMOS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERAN	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERANDO	(ad) operando kelimesinin karşılığı: ⟪işlenen|İŞLENEN⟫
+OPERAR	(eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARA	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARAN	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARAS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARE	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERAREMOS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARIA	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARIAMOS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARIAN	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARIAS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERARIO	(ad) işçi: başkasının yararına bedenini, kafa gücünü veya el becerisini kullanarak ücretle çalışan kişi
+OPERARIOS	(operario sözcüğünün çekimi) (ad) işçi: başkasının yararına bedenini, kafa gücünü veya el becerisini kullanarak ücretle çalışan kişi
+OPERARON	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERAS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERASE	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERASEN	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERASTE	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERATIVA	(operativo sözcüğünün çekimi) (ad) harekât: belli bir amaç gözetilerek bir askerî birliğe yaptırılan manevra, çarpışma, çevirme, kovalama vb. işler...
+OPERATIVAS	(operativo sözcüğünün çekimi) (ad) harekât: belli bir amaç gözetilerek bir askerî birliğe yaptırılan manevra, çarpışma, çevirme, kovalama vb. işler...
+OPERATIVO	(ad) harekât: belli bir amaç gözetilerek bir askerî birliğe yaptırılan manevra, çarpışma, çevirme, kovalama vb. işler (ayrıca: operasyon, işlem)
+OPERATIVOS	(operativo sözcüğünün çekimi) (ad) harekât: belli bir amaç gözetilerek bir askerî birliğe yaptırılan manevra, çarpışma, çevirme, kovalama vb. işler...
+OPERE	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPEREMOS	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPEREN	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERES	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPERO	(operar sözcüğünün çekimi) (eylem) işletmek: bir şeyi, bir kimseyi, bir yeri kullanarak veya çalıştırarak yarar sağlamak
+OPIMO	(sıfat) zengin: çok, bol (ayrıca: gür, varsıl)
+OPINA	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINABA	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINABAMOS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINABAN	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINABAS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINADOR	(ad) düşünür: genel sorunlar üzerine yeni ve kendine özgü düşünceleri olan kimse, düşünücü, mütefekkir
+OPINAIS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINAMOS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINAN	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINAR	(eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARA	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARAN	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARAS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARE	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINAREMOS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARIA	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARIAS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINARON	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINAS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINASTE	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINE	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINEMOS	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINEN	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINES	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPINION	(ad) görüş: bir olay, varlık veya düşünce üzerinde varılan yargı (ayrıca: kanı, düşün)
+OPINIONES	(opinion sözcüğünün çekimi) (ad) görüş: bir olay, varlık veya düşünce üzerinde varılan yargı (ayrıca: kanı, düşün)
+OPINO	(opinar sözcüğünün çekimi) (eylem) sanmak: Bir şey veya kimsenin ... olduğunu düşünmek; bellemek, bilmek. (ayrıca: düşünmek)
+OPIO	(ad) afyon: haşhaş başlarında yapılan çizintilerden sızarak pıhtılaşan süt
+OPIOS	(opio sözcüğünün çekimi) (ad) afyon: haşhaş başlarında yapılan çizintilerden sızarak pıhtılaşan süt
+OPONENTE	(ad) rakip: Aynı şeye istekli olan.
+OPONENTES	(oponente sözcüğünün çekimi) (ad) rakip: Aynı şeye istekli olan.
+OPORTUNA	(oportuno sözcüğünün çekimi) (sıfat) olacak: olması, yapılması uygun olan (ayrıca: elverişli, uygun)
+OPORTUNAS	(oportuno sözcüğünün çekimi) (sıfat) olacak: olması, yapılması uygun olan (ayrıca: elverişli, uygun)
+OPORTUNIDAD	(ad) fırsat: herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon (ayrıca: talih, şut)
+OPORTUNIDADES	(oportunidad sözcüğünün çekimi) (ad) fırsat: herhangi bir şey için en uygun zaman, uygun durum veya şart, vesile, okazyon (ayrıca: talih, şut)
+OPORTUNO	(sıfat) olacak: olması, yapılması uygun olan (ayrıca: elverişli, uygun)
+OPORTUNOS	(oportuno sözcüğünün çekimi) (sıfat) olacak: olması, yapılması uygun olan (ayrıca: elverişli, uygun)
+OPOSICION	(ad) muhalefet: bir tutuma, görüşe, davranışa karşı olma durumu, aykırılık (ayrıca: karşıtlık)
+OPOSICIONES	(oposicion sözcüğünün çekimi) (ad) muhalefet: bir tutuma, görüşe, davranışa karşı olma durumu, aykırılık (ayrıca: karşıtlık)
+OPOSITOR	(ad) rakip: Aynı şeye istekli olan.
+OPRESION	(ad) eziyet: sıkıntı veya güçlük (ayrıca: zulüm, kıygı)
+OPRESIONES	(opresion sözcüğünün çekimi) (ad) eziyet: sıkıntı veya güçlük (ayrıca: zulüm, kıygı)
+OPRIMA	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMAN	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMAS	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIME	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMEN	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMES	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMI	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIA	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIAN	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIERA	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIERON	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIMOS	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIO	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIR	(eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIRA	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIRAN	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIRE	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMIRIA	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMISTE	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPRIMO	(oprimir sözcüğünün çekimi) (eylem) basmak: bir şeyi, üzerine kuvvet vererek itmek. (ayrıca: ezmek)
+OPROBIO	(sıfat) ayıp: Utanç veren.
+OPTATIVA	(optativo sözcüğünün çekimi) (ad) istek: yerine getirilmesi başkasından istenilen şey, talep (ayrıca: istek kipi)
+OPTATIVAS	(optativo sözcüğünün çekimi) (ad) istek: yerine getirilmesi başkasından istenilen şey, talep (ayrıca: istek kipi)
+OPTATIVO	(ad) istek: yerine getirilmesi başkasından istenilen şey, talep (ayrıca: istek kipi)
+OPTATIVOS	(optativo sözcüğünün çekimi) (ad) istek: yerine getirilmesi başkasından istenilen şey, talep (ayrıca: istek kipi)
+OPTICA	(ad) optik: Fizik biliminin ışık olaylarını inceleyen kolu.
+OPTICAS	(optico sözcüğünün çekimi) (ad) gözlükçü: Gözlük satan veya onaran kimse; optik, optikçi.
+OPTICO	(ad) gözlükçü: Gözlük satan veya onaran kimse; optik, optikçi.
+OPTICOS	(optico sözcüğünün çekimi) (ad) gözlükçü: Gözlük satan veya onaran kimse; optik, optikçi.
+OPTIMISMO	(ad) optimizm: iyimserlik
+OPTIMISTA	(ad) optimista kelimesinin karşılığı: ⟪optimist|OPTİMİST⟫\n(sıfat) iyimser: Genel olarak her düşünce ve işi iyi olarak değerlendiren, kötümser karşıtı, nikbin, optimist
+OPTIMISTAS	(optimista sözcüğünün çekimi) (ad) optimista kelimesinin karşılığı: ⟪optimist|OPTİMİST⟫
+OPUESTA	(opuesto sözcüğünün çekimi) (sıfat) zıt: karşıt.
+OPUESTAS	(opuesto sözcüğünün çekimi) (sıfat) zıt: karşıt.
+OPUESTO	(sıfat) zıt: karşıt.
+OPUESTOS	(opuesto sözcüğünün çekimi) (sıfat) zıt: karşıt.
+OPUGNAR	(eylem) saldırmak: (mecaz) Yıkıcı ve sert eleştiriler yapmak.
+OPULENCIA	(ad) saltanat: (mecaz) bolluk ve zenginlik, gösterişli yaşayış (ayrıca: şatafat)
+OPULENTA	(opulento sözcüğünün çekimi) (sıfat) zengin: çok, bol (ayrıca: gür, varsıl)
+OPULENTAS	(opulento sözcüğünün çekimi) (sıfat) zengin: çok, bol (ayrıca: gür, varsıl)
+OPULENTO	(sıfat) zengin: çok, bol (ayrıca: gür, varsıl)
+OPULENTOS	(opulento sözcüğünün çekimi) (sıfat) zengin: çok, bol (ayrıca: gür, varsıl)
+OQUEDAD	(ad) göz: boşluk, delik (ayrıca: oyuk, kovuk)
+ORABA	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORABAMOS	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORABAN	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORACION	(ad) oracion kelimesinin karşılığı: ⟪dua|DUA⟫
+ORACIONES	(oracion sözcüğünün çekimi) (ad) oracion kelimesinin karşılığı: ⟪dua|DUA⟫
+ORAD	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORADOR	(ad) hoparlör: Elektrik akımı değişimlerini ses titreşimlerine çeviren alet, sesyayar.
+ORAL	(sıfat) ağızcıl: ağızla ilgili olan, ağızsıl, oral (ayrıca: sözlü, ağızlı)
+ORALE	(ünlem) evet: "öyledir" anlamında kullanılan bir doğrulama veya onaylama sözü, olur, oldu, peki, tamam, ya, beli, ha, he
+ORALES	(oral sözcüğünün çekimi) (sıfat) ağızcıl: ağızla ilgili olan, ağızsıl, oral (ayrıca: sözlü, ağızlı)
+ORALMENTE	(zarf) ağızdan: Ağız yoluyla.
+ORAMOS	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORAN	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORANGUTAN	(ad) orangutan: Sumatra ve Borneo'da yaşayan, insana benzeyen, yemişle beslenen bir cins büyük maymun
+ORANGUTANES	(orangutan sözcüğünün çekimi) (ad) orangutan: Sumatra ve Borneo'da yaşayan, insana benzeyen, yemişle beslenen bir cins büyük maymun
+ORAR	(eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORARA	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORARAN	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORARE	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORAREMOS	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORARIA	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORARIAN	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORARON	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORAS	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORASTE	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORATES	(ad) çoğul çekimi: orate
+ORBE	(ad) dünya: üstünde yaşadığımız toprak, yeryüzü (ayrıca: alem, cihan)
+ORBES	(orbe sözcüğünün çekimi) (ad) dünya: üstünde yaşadığımız toprak, yeryüzü (ayrıca: alem, cihan)
+ORBITA	(ad) orbita kelimesinin karşılığı: ⟪yörünge|YÖRÜNGE⟫
+ORBITABA	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITABAN	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITAMOS	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITAN	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITAR	(eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITARA	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITARE	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITAREMOS	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITARIA	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITAS	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITE	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITEMOS	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITES	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORBITO	(orbitar sözcüğünün çekimi) (eylem) orbitar kelimesinin karşılığı: yörüngede dönmek
+ORCO	(ad) öbür dünya: Ahiret. (ayrıca: ahiret)
+ORCOS	(orco sözcüğünün çekimi) (ad) öbür dünya: Ahiret. (ayrıca: ahiret)
+ORDALIA	(ad) deneme: denemek işi, sınama (ayrıca: duruşma, deney)
+ORDEN	(ad) mertebe: aşama, derece, rütbe, paye (ayrıca: emir, sıra)
+ORDENA	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENABA	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENABAMOS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENABAN	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENABAS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENAD	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENADOR	(ad) bilgisayar: Belleğine yüklenmiş program uyarınca aritmetik ve mantık işlemleri yapabilen, sonuca göre karar verip programdaki akışı değiştirebilen, çevresiyle etkileşimde bulunabilen, girdi ve sonuç verilerini belleğinde tutabilen aygıt; elektronik beyin
+ORDENADORES	(ordenador sözcüğünün çekimi) (ad) bilgisayar: Belleğine yüklenmiş program uyarınca aritmetik ve mantık işlemleri yapabilen, sonuca göre karar verip...
+ORDENAIS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENAMOS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENAN	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENANZA	(ad) haberci: (mecaz) bir durumun, bir olayın belirtisi
+ORDENANZAS	(ordenanza sözcüğünün çekimi) (ad) haberci: (mecaz) bir durumun, bir olayın belirtisi
+ORDENAR	(eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARA	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARAMOS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARAN	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARAS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARE	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENAREMOS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARIA	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARIAN	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARIAS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENARON	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENAS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENASE	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENASEN	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENASTE	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENASTEIS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENE	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENEIS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENEMOS	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENEN	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDENES	(orden sözcüğünün çekimi) (ad) mertebe: aşama, derece, rütbe, paye (ayrıca: emir, sıra)
+ORDENO	(ordenar sözcüğünün çekimi) (eylem) düzenlemek: düzenleme yapmak, örgülemek, yapılandırmak
+ORDEÑAS	(ad) çoğul çekimi: ordeñar
+ORDINAL	(ad) ordinal kelimesinin karşılığı: sıral sayı
+ORDINARIA	(ordinario sözcüğünün çekimi) (sıfat) günlük: her gün yapılan, her gün yayımlanan, her gün çıkan (ayrıca: tabii, ölçün)
+ORDINARIAS	(ordinario sözcüğünün çekimi) (sıfat) günlük: her gün yapılan, her gün yayımlanan, her gün çıkan (ayrıca: tabii, ölçün)
+ORDINARIO	(sıfat) günlük: her gün yapılan, her gün yayımlanan, her gün çıkan (ayrıca: tabii, ölçün)
+ORDINARIOS	(ordinario sözcüğünün çekimi) (sıfat) günlük: her gün yapılan, her gün yayımlanan, her gün çıkan (ayrıca: tabii, ölçün)
+ORE	(ad) ore kelimesinin karşılığı: maden cevheri, maden filizi
+OREA	(orear sözcüğünün çekimi) (eylem) havalandırmak: Kapalı bir yerin pencere ve kapılarını açarak havalanmasını sağlamak.
+OREAR	(eylem) havalandırmak: Kapalı bir yerin pencere ve kapılarını açarak havalanmasını sağlamak.
+OREE	(orear sözcüğünün çekimi) (eylem) havalandırmak: Kapalı bir yerin pencere ve kapılarını açarak havalanmasını sağlamak.
+OREEN	(orear sözcüğünün çekimi) (eylem) havalandırmak: Kapalı bir yerin pencere ve kapılarını açarak havalanmasını sağlamak.
+OREES	(orear sözcüğünün çekimi) (eylem) havalandırmak: Kapalı bir yerin pencere ve kapılarını açarak havalanmasını sağlamak.
+OREIS	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+OREJA	(ad) kulak: kulak kepçesi, işitme kanalı, kulak zarı, çekiç kemiği, örs, üzengi kemiği, kulak salyangozundan oluşan işitme organı
+OREJAS	(oreja sözcüğünün çekimi) (ad) kulak: kulak kepçesi, işitme kanalı, kulak zarı, çekiç kemiği, örs, üzengi kemiği, kulak salyangozundan oluşan...
+OREJERA	(ad) orejera kelimesinin karşılığı: ⟪fiş|FİŞ⟫, ⟪tıkaç|TIKAÇ⟫
+OREJERAS	(orejera sözcüğünün çekimi) (ad) orejera kelimesinin karşılığı: ⟪fiş|FİŞ⟫, ⟪tıkaç|TIKAÇ⟫
+OREJERO	(ad) sinekkapan: Böcekleri, özellikle sinekleri yakalayarak beslenen küçük ötücü kuşlara verilen ad
+OREMOS	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+OREN	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORES	(orar sözcüğünün çekimi) (eylem) orar kelimesinin karşılığı: ⟪zikretmek|ZİKRETMEK⟫, dua etmek
+ORFANATO	(ad) yetimhane: Yetim çocukların barındırıldığı, bakıldığı yer
+ORFANATOS	(orfanato sözcüğünün çekimi) (ad) yetimhane: Yetim çocukların barındırıldığı, bakıldığı yer
+ORFANDAD	(ad) yetimhane: Yetim çocukların barındırıldığı, bakıldığı yer
+ORFELINATO	(ad) yetimhane: Yetim çocukların barındırıldığı, bakıldığı yer
+ORFELINATOS	(orfelinato sözcüğünün çekimi) (ad) yetimhane: Yetim çocukların barındırıldığı, bakıldığı yer
+ORGANICA	(organico sözcüğünün çekimi) (sıfat) organik: Organlarla ilgili, uzvi
+ORGANICAS	(organico sözcüğünün çekimi) (sıfat) organik: Organlarla ilgili, uzvi
+ORGANICE	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANICEIS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANICEMOS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANICEN	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANICES	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANICO	(sıfat) organik: Organlarla ilgili, uzvi
+ORGANICOS	(organico sözcüğünün çekimi) (sıfat) organik: Organlarla ilgili, uzvi
+ORGANISMO	(ad) organizma: canlı bir varlığı oluşturan organların bütünü, uzviyet (ayrıca: yaratık)
+ORGANISMOS	(organismo sözcüğünün çekimi) (ad) organizma: canlı bir varlığı oluşturan organların bütünü, uzviyet (ayrıca: yaratık)
+ORGANIZA	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZABA	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZABAMOS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZABAN	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZABAS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZACION	(ad) organizasyon: kurum, teşkilat
+ORGANIZACIONES	(ad) organización sözcüğünün çoğul çekimi: organizasyon
+ORGANIZAD	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZAIS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZAMOS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZAN	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZAR	(eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARA	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARAMOS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARAN	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARAS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARE	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZAREMOS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARIA	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARIAMOS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARIAN	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARIAS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZARON	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZAS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZASE	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZASTE	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZASTEIS	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANIZO	(organizar sözcüğünün çekimi) (eylem) organizar kelimesinin karşılığı: organize etmek
+ORGANO	(ad) uzuv: organ (ayrıca: organ)
+ORGANOS	(ad) çoğul çekimi: órgano
+ORGASMO	(ad) orgasmo kelimesinin karşılığı: ⟪orgazm|ORGAZM⟫
+ORGASMOS	(orgasmo sözcüğünün çekimi) (ad) orgasmo kelimesinin karşılığı: ⟪orgazm|ORGAZM⟫
+ORGULLO	(ad) kibir: Kendini başkalarından üstün tutma; benlik, böbür, gurur. (ayrıca: gurur, kurum)
+ORGULLOS	(orgullo sözcüğünün çekimi) (ad) kibir: Kendini başkalarından üstün tutma; benlik, böbür, gurur. (ayrıca: gurur, kurum)
+ORGULLOSA	(orgulloso sözcüğünün çekimi) (sıfat) gururlu: benliğine düşkün
+ORGULLOSAS	(orgulloso sözcüğünün çekimi) (sıfat) gururlu: benliğine düşkün
+ORGULLOSO	(sıfat) gururlu: benliğine düşkün
+ORGULLOSOS	(orgulloso sözcüğünün çekimi) (sıfat) gururlu: benliğine düşkün
+ORIENTA	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTABA	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTABAN	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTACION	(ad) yönelim: yönelme işi (ayrıca: yönbul)
+ORIENTACIONES	(orientacion sözcüğünün çekimi) (ad) yönelim: yönelme işi (ayrıca: yönbul)
+ORIENTAL	(sıfat) doğu: Bu yönde bulunan; şarki.
+ORIENTALES	(oriental sözcüğünün çekimi) (sıfat) doğu: Bu yönde bulunan; şarki.
+ORIENTAMOS	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTAN	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTAR	(eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTARA	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTARAN	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTARE	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTAREMOS	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTARON	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTAS	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTE	(ad) doğu: Bu yönde bulunan; şarki. (ayrıca: şark)
+ORIENTEMOS	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTEN	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTES	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIENTO	(orientar sözcüğünün çekimi) (eylem) nişan almak: bir hedefi vurmak için ateşli silahlara gerekli doğrultuyu vermek, gezlemek. (ayrıca: yol)
+ORIFICE	(ad) sarraf: mesleği, değerli kâğıt ve metal paraları birbiriyle değiştirmek, tahvil alışverişi yapmak olan kişi (ayrıca: kuyumcu)
+ORIFICIO	(ad) orificio kelimesinin karşılığı: ⟪delik|DELİK⟫
+ORIFICIOS	(orificio sözcüğünün çekimi) (ad) orificio kelimesinin karşılığı: ⟪delik|DELİK⟫
+ORIGEN	(ad) orijin: köken, başlangıç, kaynak
+ORIGENES	(origen sözcüğünün çekimi) (ad) orijin: köken, başlangıç, kaynak
+ORIGINA	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINABA	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINABAN	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINAL	(sıfat) özgün: Bir buluş sonucu olan, nitelikleri bakımından benzerlerinden ayrı ve üstün olan. (ayrıca: orijinal)
+ORIGINALES	(original sözcüğünün çekimi) (sıfat) özgün: Bir buluş sonucu olan, nitelikleri bakımından benzerlerinden ayrı ve üstün olan. (ayrıca: orijinal)
+ORIGINAMOS	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINAN	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINAR	(eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINARA	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINARIA	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINARIAS	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINARIO	(sıfat) özgün: Bir buluş sonucu olan, nitelikleri bakımından benzerlerinden ayrı ve üstün olan. (ayrıca: orijinal)
+ORIGINARIOS	(originario sözcüğünün çekimi) (sıfat) özgün: Bir buluş sonucu olan, nitelikleri bakımından benzerlerinden ayrı ve üstün olan. (ayrıca: orijinal)
+ORIGINARON	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINAS	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINE	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINEN	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORIGINO	(originar sözcüğünün çekimi) (eylem) başlamak: Çalışır, işler, yürür duruma girmek: (ayrıca: başlatmak)
+ORILLA	(ad) banka: bankacılık, finans (ayrıca: kenar, kıyı)
+ORILLAR	(eylem) hâlletmek: bir işi yapmak (ayrıca: tamir etmek, onarmak)
+ORILLAS	(ad) çoğul çekimi: orilla
+ORILLE	(orillar sözcüğünün çekimi) (eylem) hâlletmek: bir işi yapmak (ayrıca: tamir etmek, onarmak)
+ORILLO	(orillar sözcüğünün çekimi) (eylem) hâlletmek: bir işi yapmak (ayrıca: tamir etmek, onarmak)
+ORIN	(ad) orin kelimesinin karşılığı: ⟪idrar|İDRAR⟫, ⟪sidik|SİDİK⟫, ⟪akıt|AKIT⟫
+ORINA	(ad) idrar: böbreklerde kandan süzülerek idrar yolları aracılığıyla dışarıya atılan sıvı, sidik, akıt, çiş, hacet (ayrıca: sidik, akıt)
+ORINABA	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINABAMOS	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINABAN	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINABAS	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINAMOS	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINAN	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINAR	(eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINARA	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINARAN	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINARAS	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINARE	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINARIA	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINARON	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINAS	(ad) çoğul çekimi: orina
+ORINASE	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINASTE	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINE	(ad) akıt: salça (ayrıca: sidik, idrar)
+ORINEMOS	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINEN	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORINES	(ad) çoğul çekimi: orine
+ORINO	(orinar sözcüğünün çekimi) (eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek.
+ORLA	(ad) sınır: coğrafya, politika
+ORLAN	(orlar sözcüğünün çekimi) (eylem) kırkmak: bir şeyi uçlarından kesmek
+ORLAR	(eylem) kırkmak: bir şeyi uçlarından kesmek
+ORLO	(ad) taban: Üstü kapalı bir yerin gezinilen, ayakla basılan yüzü; zemin, tavan karşıtı (ayrıca: kaide, üs)
+ORNA	(ornar sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+ORNAMENTAL	(sıfat) süslü: süslenmeye, süse çok düşkün olan
+ORNAMENTALES	(ornamental sözcüğünün çekimi) (sıfat) süslü: süslenmeye, süse çok düşkün olan
+ORNAMENTO	(ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü
+ORNAMENTOS	(ornamento sözcüğünün çekimi) (ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin...
+ORNAR	(eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak, bezemek, donamak, tezyin etmek (ayrıca: donatmak, tezyin etmek)
+ORNARA	(ornar sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+ORNATO	(ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü
+ORNE	(ornar sözcüğünün çekimi) (eylem) süslemek: birtakım katkılarla bir şeyin daha güzel, daha göz alıcı olmasını, daha hoş görünmesini sağlamak,...
+ORNITOLOGIA	(ad) ornitologia kelimesinin karşılığı: kuş bilimi
+ORNITORRINCO	(ad) ornitorrinco kelimesinin karşılığı: gagalı memeli, ⟪ornitorenk|ORNİTORENK⟫
+ORNITORRINCOS	(ornitorrinco sözcüğünün çekimi) (ad) ornitorrinco kelimesinin karşılığı: gagalı memeli, ⟪ornitorenk|ORNİTORENK⟫
+ORO	(ad) altın: atom numarası 79 olan bir kimyasal element, kızıl
+OROGENIA	(ad) orojenez: Jeosenklinallerde biriken tortul tabakaların kıvrılma ve kırılma hareketleriyle yükselmesi olayı, dağ oluşumu
+ORONDA	(orondo sözcüğünün çekimi) (sıfat) orondo kelimesinin karşılığı: ⟪kibirli|KİBİRLİ⟫
+ORONDO	(sıfat) orondo kelimesinin karşılığı: ⟪kibirli|KİBİRLİ⟫
+ORONJA	(ad) oronja kelimesinin karşılığı: imparator mantarı
+OROS	(ad) çoğul çekimi: oro
+ORQUESTA	(ad) orkestra: eski Yunan tiyatrolarında, sahne ve seyirciler arasındaki çember biçiminde koro yeri
+ORQUESTAS	(ad) çoğul çekimi: orquesta
+ORSAY	(ad) ofsayt: futbolda hücuma geçen takımın en az bir oyuncusunun topla oynandığı anda rakip takımın kale çizgisine, o takımın en yakın oyuncusundan daha yakın bulunması durumu
+ORTEJO	(ad) parmak: erkeklik organı. (ayrıca: ayak parmağı)
+ORTESIS	(ad) ortez: Kemikteki biçim bozukluğunu düzelten, bozukluğun ekleme vereceği yükü azaltan veya felçli kasa destek veren araç
+ORTIGA	(ad) ısırgan: Isırgangillerden, her tarafı sert tüylerle kaplı, tüyleri kırıldığında karınca asidi denilen çok kaşındırıcı bir madde çıkartan bir ot (Urtica)
+ORTIGAS	(ortiga sözcüğünün çekimi) (ad) ısırgan: Isırgangillerden, her tarafı sert tüylerle kaplı, tüyleri kırıldığında karınca asidi denilen çok...
+ORTODOXA	(ortodoxo sözcüğünün çekimi) (sıfat) ortodoks: Bir dinin, felsefenin ya da çalışmanın, geleneksel ve genellikle kabul gören kurallarını ve...
+ORTODOXAS	(ortodoxo sözcüğünün çekimi) (sıfat) ortodoks: Bir dinin, felsefenin ya da çalışmanın, geleneksel ve genellikle kabul gören kurallarını ve...
+ORTODOXO	(sıfat) ortodoks: Bir dinin, felsefenin ya da çalışmanın, geleneksel ve genellikle kabul gören kurallarını ve inançlarını takip eden, uygulayan.
+ORTODOXOS	(ortodoxo sözcüğünün çekimi) (sıfat) ortodoks: Bir dinin, felsefenin ya da çalışmanın, geleneksel ve genellikle kabul gören kurallarını ve...
+ORTOFONICA	(ad) ortofonica kelimesinin karşılığı: ⟪gramofon|GRAMOFON⟫
+ORTOGRAFIA	(ad) ortografia kelimesinin karşılığı: ⟪yazım|YAZIM⟫
+ORTOGRAFIAS	(ortografia sözcüğünün çekimi) (ad) ortografia kelimesinin karşılığı: ⟪yazım|YAZIM⟫
+ORUGA	(ad) oruga kelimesinin karşılığı: ⟪tırtıl|TIRTIL⟫
+ORUGAS	(oruga sözcüğünün çekimi) (ad) oruga kelimesinin karşılığı: ⟪tırtıl|TIRTIL⟫
+ORZUELO	(ad) arpacık: göz silleri enfeksiyonlarından biri, bece
+OSADA	(osado sözcüğünün çekimi) (sıfat) yürekli: (mecaz) tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan, gözü pek, babayiğit, koçak,...
+OSADAS	(osado sözcüğünün çekimi) (sıfat) yürekli: (mecaz) tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan, gözü pek, babayiğit, koçak,...
+OSADIA	(ad) sinir: herhangi bir şey, bir olay karşısında tepki gösterme duyarlığı ve kişinin ruhî niteliği
+OSADO	(sıfat) yürekli: (mecaz) tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan, gözü pek, babayiğit, koçak, cesaretli, cesur, cüretli, cüretkâr (ayrıca: atılgan)
+OSADOS	(osado sözcüğünün çekimi) (sıfat) yürekli: (mecaz) tehlikeyi korkusuzca karşılayan, hiçbir şeyden korkusu olmayan, gözü pek, babayiğit, koçak,...
+OSAMENTA	(ad) iskelet: insan ve hayvan bedeninin kemik çatısı, teşrih (ayrıca: çerçeve, skeleton)
+OSAMENTAS	(osamenta sözcüğünün çekimi) (ad) iskelet: insan ve hayvan bedeninin kemik çatısı, teşrih (ayrıca: çerçeve, skeleton)
+OSATURA	(ad) iskelet: insan ve hayvan bedeninin kemik çatısı, teşrih (ayrıca: çerçeve, skeleton)
+OSCULO	(ad) öpücük: öpme, öpüş
+OSCURA	(oscuro sözcüğünün çekimi) (sıfat) karanlık: Işıksız ola. (ayrıca: arap)
+OSCURAS	(oscuro sözcüğünün çekimi) (sıfat) karanlık: Işıksız ola. (ayrıca: arap)
+OSCURECE	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECEMOS	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECEN	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECER	(eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)\n(ad) oscurecer kelimesinin karşılığı: akşam karanlığı
+OSCURECERA	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECERAN	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECERE	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECERIA	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECES	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECI	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECIA	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECIAN	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECIERA	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECIERON	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECIMIENTO	(ad) oscurecimiento kelimesinin karşılığı: ⟪abanozlaşma|ABANOZLAŞMA⟫
+OSCURECIO	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURECISTE	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCUREZCA	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCUREZCAN	(oscurecer sözcüğünün çekimi) (eylem) abanozlaşmak: (mecaz) uzun süre güneşte kalarak kararmak, yanmak (insan)
+OSCURO	(sıfat) karanlık: Işıksız ola. (ayrıca: arap)
+OSCUROS	(oscuro sözcüğünün çekimi) (sıfat) karanlık: Işıksız ola. (ayrıca: arap)
+OSMIO	(ad) osmiyum: Atom numarası 76 olan bir kimyasal element
+OSMOSIS	(ad) geçişme: Yarı geçirgen bir çeperin iki yanına yerleştirilmiş, derişikliği farklı iki sıvıdan oluşan yer değiştirme olayı.
+OSO	(ad) oso kelimesinin karşılığı: ⟪ayı|AYI⟫
+OSOS	(oso sözcüğünün çekimi) (ad) oso kelimesinin karşılığı: ⟪ayı|AYI⟫
+OSTENTA	(ostentar sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTABA	(ostentar sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTACION	(ad) gösteriş: gösterme işi
+OSTENTACIONES	(ostentacion sözcüğünün çekimi) (ad) gösteriş: gösterme işi
+OSTENTAN	(ostentar sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTAR	(eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTARA	(ostentar sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTAS	(ostentar sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTE	(ostentar sözcüğünün çekimi) (eylem) göstermek: Birini veya bir şeyi işaretle belirtmek. (ayrıca: hava atmak)
+OSTENTOSA	(ostentoso sözcüğünün çekimi) (sıfat) ostentoso kelimesinin karşılığı: ⟪fiyakalı|FİYAKALI⟫
+OSTENTOSAS	(ostentoso sözcüğünün çekimi) (sıfat) ostentoso kelimesinin karşılığı: ⟪fiyakalı|FİYAKALI⟫
+OSTENTOSO	(sıfat) ostentoso kelimesinin karşılığı: ⟪fiyakalı|FİYAKALI⟫
+OSTENTOSOS	(ostentoso sözcüğünün çekimi) (sıfat) ostentoso kelimesinin karşılığı: ⟪fiyakalı|FİYAKALI⟫
+OSTEOLOGIA	(ad) osteologia kelimesinin karşılığı: ⟪osteoloji|OSTEOLOJİ⟫
+OSTEOPATA	(ad) osteopat: İnsan vücudundaki kemik, kas, kan damarları ve diğer doku hastalıklarını manipulatif metotlarla teşhis ve tedavi eden kişi
+OSTEOPOROSIS	(ad) osteoporosis kelimesinin karşılığı: kemik erimesi
+OSTION	(ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine kapanan iki çenedi olan, içinde inci oluşan, eti beğenilen bir deniz yumuşakçası, (Ostrea edulis).
+OSTIONES	(ostion sözcüğünün çekimi) (ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine...
+OSTRA	(ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine kapanan iki çenedi olan, içinde inci oluşan, eti beğenilen bir deniz yumuşakçası, (Ostrea edulis).
+OSTRO	(ad) ostro kelimesinin karşılığı: ⟪güney|GÜNEY⟫, ⟪cenup|CENUP⟫
+OSTRON	(ad) istiridye: Yassı solungaçlılar sınıfından, ılıman ve sıcak denizlerde yaşayan, güçlü kaslarla birbiri üzerine kapanan iki çenedi olan, içinde inci oluşan, eti beğenilen bir deniz yumuşakçası, (Ostrea edulis).
+OTILAR	(eylem) ulumak: (köpek, kurt, çakal vb) Uzun, iniltili, ağlar gibi bir ses çıkarmak
+OTOMIA	(ad) otomia kelimesinin karşılığı: ⟪canavarlık|CANAVARLIK⟫
+OTOÑO	(ad) sonbahar: Kuzey yarım kürede 24 Eylül-21 Aralık, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman dilimi, yazla kış arasındaki mevsim; güz, hazan, bağ bozumu.
+OTOÑOS	(otoño sözcüğünün çekimi) (ad) sonbahar: Kuzey yarım kürede 24 Eylül-21 Aralık, güney yarım kürede 21 Haziran-23 Eylül tarihleri arasındaki zaman...
+OTRA	(otro sözcüğünün çekimi) (sıfat) otro kelimesinin karşılığı: ⟪diğer|DİĞER⟫
+OTRAS	(otro sözcüğünün çekimi) (sıfat) otro kelimesinin karşılığı: ⟪diğer|DİĞER⟫
+OTRO	(sıfat) otro kelimesinin karşılığı: ⟪diğer|DİĞER⟫
+OTRORA	(sıfat) peşin: daha önce, önceden
+OTROS	(otro sözcüğünün çekimi) (sıfat) otro kelimesinin karşılığı: ⟪diğer|DİĞER⟫
+OVAL	(sıfat) oval: yumurta biçiminde olan, yumurtamsı, söbe, beyzi
+OVALADA	(ovalado sözcüğünün çekimi) (sıfat) oval: yumurta biçiminde olan, yumurtamsı, söbe, beyzi
+OVALADAS	(ovalado sözcüğünün çekimi) (sıfat) oval: yumurta biçiminde olan, yumurtamsı, söbe, beyzi
+OVALADO	(sıfat) oval: yumurta biçiminde olan, yumurtamsı, söbe, beyzi
+OVALADOS	(ovalado sözcüğünün çekimi) (sıfat) oval: yumurta biçiminde olan, yumurtamsı, söbe, beyzi
+OVALES	(oval sözcüğünün çekimi) (sıfat) oval: yumurta biçiminde olan, yumurtamsı, söbe, beyzi
+OVALO	(ad) oval: özellikle elips gibi iki simetri ekseni olan kapalı eğrinin oluşturduğu şekil
+OVALOS	(ovalo sözcüğünün çekimi) (ad) oval: özellikle elips gibi iki simetri ekseni olan kapalı eğrinin oluşturduğu şekil
+OVARIO	(ad) yumurtalık: Canlılarda dişi üreme hücrelerini veren organ, mebiz
+OVEJA	(ad) koyun: geviş getirenlerden, eti, sütü, yapağısı ve derisi için yetiştirilen evcil hayvan
+OVEJAS	(oveja sözcüğünün çekimi) (ad) koyun: geviş getirenlerden, eti, sütü, yapağısı ve derisi için yetiştirilen evcil hayvan
+OVEJERA	(ovejero sözcüğünün çekimi) (ad) çoban: (mecaz), çıban
+OVEJERO	(ad) çoban: (mecaz), çıban
+OVEJEROS	(ovejero sözcüğünün çekimi) (ad) çoban: (mecaz), çıban
+OVEJO	(ad) koç: damızlık erkek koyun
+OVEROL	(ad) tulum: bazı yiyecek ve içecekler için koruyucu kap olarak kullanılan, önü yarılmadan bütün olarak yüzülmüş hayvan derisi
+OVEROLES	(overol sözcüğünün çekimi) (ad) tulum: bazı yiyecek ve içecekler için koruyucu kap olarak kullanılan, önü yarılmadan bütün olarak yüzülmüş hayvan...
+OVILLO	(ad) top: birçok spor oyunlarında kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak cisim (ayrıca: yumurta, ayak yuvarı)
+OVILLOS	(ovillo sözcüğünün çekimi) (ad) top: birçok spor oyunlarında kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak cisim (ayrıca:...
+OVNI	(ad) ovni kelimesinin karşılığı: belirlenemeyen uçan cisim, tanımlanamayan uçan nesne
+OVNIS	(ovni sözcüğünün çekimi) (ad) ovni kelimesinin karşılığı: belirlenemeyen uçan cisim, tanımlanamayan uçan nesne
+OVOGENESIS	(ad) oogenez: yumurta oluşması
+OVULACION	(ad) ovulasyon: yumurta bırakımı, yumurtlama
+OVULO	(ad) yumurta: biyolojide bir organ
+OVULOS	(ovulo sözcüğünün çekimi) (ad) yumurta: biyolojide bir organ
+OXIDA	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDADA	(oxidado sözcüğünün çekimi) (sıfat) paslı: Üzerinde pas oluşmuş, pas tutmuş, paslanmış: (ayrıca: paslanmış)
+OXIDADAS	(oxidado sözcüğünün çekimi) (sıfat) paslı: Üzerinde pas oluşmuş, pas tutmuş, paslanmış: (ayrıca: paslanmış)
+OXIDADO	(sıfat) paslı: Üzerinde pas oluşmuş, pas tutmuş, paslanmış: (ayrıca: paslanmış)
+OXIDADOS	(oxidado sözcüğünün çekimi) (sıfat) paslı: Üzerinde pas oluşmuş, pas tutmuş, paslanmış: (ayrıca: paslanmış)
+OXIDAMOS	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDAN	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDAR	(eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDARA	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDARAN	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDARAS	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDARIA	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDARON	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDE	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDEN	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDES	(oxidar sözcüğünün çekimi) (eylem) oxidar kelimesinin karşılığı: ⟪paslanmak|PASLANMAK⟫
+OXIDO	(ad) oksit: oksijenin bir elementle birleşmesiyle oluşan madde
+OXIDOS	(oxido sözcüğünün çekimi) (ad) oksit: oksijenin bir elementle birleşmesiyle oluşan madde
+OXIGENO	(ad) oksijen: atom numarası 8, atom ağırlığı 16 olan (simgesi O), hidrojenle birleşerek suyu oluşturan, rengi, kokusu ve tadı olmayan, havada beşte bir oranında bulunan gaz, müvellidülhumuza
+OXIGENOS	(oxigeno sözcüğünün çekimi) (ad) oksijen: atom numarası 8, atom ağırlığı 16 olan (simgesi O), hidrojenle birleşerek suyu oluşturan, rengi, kokusu...
+OXITOCINA	(ad) oksitosin: Hipotalamusun paraventrikular çekirdeğindeki sinir hücreleri tarafından sentezlenen, dokuz amino aside sahip, okta peptit yapıda, nörofizin aracılığıyla hipofiz arka lobuna taşınan ve burada kılcal damarlara yakın sinir uçlarında depo edilen uterotonik etkili ve memeden sütün indirilmesini sağlayan...
+OYE	(ünlem) abe: (Rumeli ağzı) seslenmek ve dikkati çekmek için özellikle Rumeli'de kullanılan bir söz
+OYEN	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYENTE	(ad) dinleyici: Söylenen veya çalınan bir şeyi dinleyen kimse
+OYENTES	(oyente sözcüğünün çekimi) (ad) dinleyici: Söylenen veya çalınan bir şeyi dinleyen kimse
+OYERA	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYERAIS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYERAMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYERAN	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYERAS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYERON	(eylem) oír sözcüğünün üçüncü çoğul şahıs geçmiş zaman bildirme kipi çekimi: duymak
+OYES	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYESE	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYESEMOS	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYESEN	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYESES	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OYO	(oir sözcüğünün çekimi) (eylem) duymak: işitmek, ses almak
+OZONO	(ad) ozon: Molekülünde üç atom bulunan oksijenden oluşan, ağır kokulu, gaz durumundaki basit element (O3): ozon gazı

@@ -1,0 +1,23 @@
+ÑACAR	(eylem) vurmak: Silahla yaralamak, öldürmek.
+ÑANGOTAR	(eylem) ñangotar kelimesinin karşılığı: ⟪çömelmek|ÇÖMELMEK⟫
+ÑATA	(ad) burun: Bazı şeylerin ön ve sivri bölümü:
+ÑATO	(sıfat) ñato kelimesinin karşılığı: ⟪makyajsız|MAKYAJSIZ⟫\n(ad) yumrukoyuncusu: Yumrukoyunu oynayan kimse. (ayrıca: boksör)
+ÑATOS	(ñato sözcüğünün çekimi) (sıfat) ñato kelimesinin karşılığı: ⟪makyajsız|MAKYAJSIZ⟫
+ÑAU	(ad) miyav: Kedinin çıkardığı ses.
+ÑAUQUEAR	(eylem) miyavlamak: Kedinin miyav benzeri ses çıkarması
+ÑAÑA	(ad) bacı: büyük kız kardeş, abla (ayrıca: kız kardeş, abla)
+ÑAÑO	(ad) dadaş: (mecaz) delikanlı yiğit kişi (ayrıca: erkek kardeş, kardeş)
+ÑECO	(ad) ñeco kelimesinin karşılığı: ⟪tavşan|TAVŞAN⟫, ada tavşanı
+ÑEMA	(ad) ñema kelimesinin karşılığı: ⟪haşefe|HAŞEFE⟫
+ÑENGO	(sıfat) güçsüz: gücü olmayan, âciz (ayrıca: hastalıklı, argın)
+ÑEQUE	(ad) kuvvet: Zor, şiddet, cebir (ayrıca: güç, zor)
+ÑERI	(ad) eş: Ortak bir faaliyette bulunanlardan her biri; partner. (ayrıca: arkadaş, refik)
+ÑERO	(ad) ñero kelimesinin karşılığı: ⟪moruk|MORUK⟫
+ÑISÑIL	(ad) ñisñil kelimesinin karşılığı: hasır otu
+ÑOBA	(ad) hela: Tuvalet. (ayrıca: tuvalet, banyo)
+ÑOÑAS	(ñoño sözcüğünün çekimi) (sıfat) patetik: dokunaklı, etkili
+ÑOÑERIA	(ad) ateh: bunaklık olma
+ÑOÑERIAS	(ñoñeria sözcüğünün çekimi) (ad) ateh: bunaklık olma
+ÑOÑO	(sıfat) patetik: dokunaklı, etkili
+ÑOÑOS	(ñoño sözcüğünün çekimi) (sıfat) patetik: dokunaklı, etkili
+ÑUDO	(ad) bağ: meyve bahçesi. (ayrıca: budak, boğum)

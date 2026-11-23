@@ -1,0 +1,388 @@
+QUE	(conjunção) que: em frases interrogativas, refere-se a pessoas ou coisas\n(pronome) que: em frases interrogativas, refere-se a pessoas ou coisas
+QUEBRABA	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRABAN	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRADA	(substantivo) ravina: enxurrada que cai de um lugar alto
+QUEBRADAS	(forma de quebrado) (adjetivo) quebrado: falido
+QUEBRADIZA	(forma de quebradizo) (adjetivo) friável: que pode ser facilmente reduzido a pó; quebradiço; frágil
+QUEBRADIZAS	(forma de quebradizo) (adjetivo) friável: que pode ser facilmente reduzido a pó; quebradiço; frágil
+QUEBRADIZO	(adjetivo) friável: que pode ser facilmente reduzido a pó; quebradiço; frágil
+QUEBRADIZOS	(forma de quebradizo) (adjetivo) friável: que pode ser facilmente reduzido a pó; quebradiço; frágil
+QUEBRADO	(adjetivo) quebrado: falido
+QUEBRADURA	(substantivo) rompimento: ato ou efeito de romper
+QUEBRAMOS	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRANTA	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTADA	(forma de quebrantado) (adjetivo) partido: quebrado (também: quebrado, estragado)
+QUEBRANTADAS	(forma de quebrantado) (adjetivo) partido: quebrado (também: quebrado, estragado)
+QUEBRANTADO	(adjetivo) partido: quebrado (também: quebrado, estragado)
+QUEBRANTADOS	(forma de quebrantado) (adjetivo) partido: quebrado (também: quebrado, estragado)
+QUEBRANTAHUESOS	(substantivo) quebrantahuesos se traduz como pica-osso, abutre-barbudo
+QUEBRANTAIS	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTAMIENTO	(substantivo) violação: não cumprimento da lei, desrespeito à lei; infração
+QUEBRANTAMOS	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTAN	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTAR	(verbo) quebrar: partir, romper
+QUEBRANTARA	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTARAN	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTARAS	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTARE	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTAREMOS	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTARIA	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTARON	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTAS	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTASTE	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTE	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTEN	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTES	(forma de quebrantar) (verbo) quebrar: partir, romper
+QUEBRANTO	(substantivo) intervalo: breve período de tempo, ocorrido no meio de uma atividade, para descanso (também: mudança, interrupção)
+QUEBRANTOS	(forma de quebranto) (substantivo) intervalo: breve período de tempo, ocorrido no meio de uma atividade, para descanso (também: mudança,...
+QUEBRAPEDRA	(substantivo) quebrapedra se traduz como quebra-pedra
+QUEBRAR	(verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARA	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARAMOS	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARAN	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARAS	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARE	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRAREMOS	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARIA	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARIAN	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRARON	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRASE	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRASTE	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRE	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBREMOS	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUEBRO	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUECHUA	(substantivo) quíchua: idioma ameríndio falado no Peru, na Bolívia e em partes do Chile, Argentina, Equador e Colômbia (código de língua ISO 639-3: que) (também: quéchua)
+QUECO	(substantivo) zorra: ausência de ordem (também: bagunça)
+QUEDA	(substantivo) recolher: guardar
+QUEDABA	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDABAIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDABAMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDABAN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDABAS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAD	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDADA	(substantivo) encontro: ato de encontrar; reunião (também: reunião)
+QUEDADAS	(forma de quedada) (substantivo) encontro: ato de encontrar; reunião (também: reunião)
+QUEDAIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAMENTE	(advérbio) quietamente: de forma quieta
+QUEDAMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAOS	(forma de quedarse) (verbo) ficar: permanecer num lugar (também: permanecer, restar)
+QUEDAR	(verbo) ficar: permanecer num lugar
+QUEDARA	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARAIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARAMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARAN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARAS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARE	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAREIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAREMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDAREN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARIA	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARIAIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARIAMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARIAN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARIAS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARON	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDARSE	(verbo) ficar: permanecer num lugar (também: permanecer, restar)
+QUEDAS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASE	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASEIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASEMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASEN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASES	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASTE	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDASTEIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDATE	(forma de quedarse) (verbo) ficar: permanecer num lugar (também: permanecer, restar)
+QUEDE	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDEIS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDEMONOS	(forma de quedarse) (verbo) ficar: permanecer num lugar (também: permanecer, restar)
+QUEDEMOS	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDEN	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDENSE	(forma de quedarse) (verbo) ficar: permanecer num lugar (também: permanecer, restar)
+QUEDES	(forma de quedar) (verbo) ficar: permanecer num lugar
+QUEDESE	(forma de quedarse) (verbo) ficar: permanecer num lugar (também: permanecer, restar)
+QUEDO	(adjetivo) quedo: imóvel, quieto, parado
+QUEER	(adjetivo) bicha: vermes intestinais; arrecadas; diabruras (também: viado, rabeta)
+QUEHACER	(substantivo) afazer: tarefa a cumprir (também: tarefa)
+QUEHACERES	(forma de quehacer) (substantivo) afazer: tarefa a cumprir (também: tarefa)
+QUEJA	(substantivo) lamento: lamentação (também: reclamação)
+QUEJAOS	(forma de quejarse) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+QUEJARSE	(verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+QUEJAS	(forma de queja) (substantivo) lamento: lamentação (também: reclamação)
+QUEJATE	(forma de quejarse) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+QUEJENSE	(forma de quejarse) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+QUEJESE	(forma de quejarse) (verbo) lamuriar: exprimir queixas de forma chorosa; lastimar (também: ganir)
+QUEJIDO	(substantivo) lamento: lamentação
+QUEJIDOS	(forma de quejido) (substantivo) lamento: lamentação
+QUEJIGO	(substantivo) cerquinho: Quercus faginea, carvalho-cerquinho (também: carvalho-cerquinho)
+QUEJO	(substantivo) quejo se traduz como ⟪mandíbula|MANDIBULA⟫
+QUELICERO	(substantivo) quelicero se traduz como quelícera
+QUELOIDE	(substantivo) queloide: porção de pele que se apresenta saliente, rosada, avermelhada ou escura e às vezes brilhante devido a um processo de cicatrização
+QUELONIO	(substantivo) tartaruga: réptil que apresenta uma grande carapaça que envolve o corpo; da ordem dos quelônios, habita o ambiente marinho
+QUELTEHUE	(substantivo) queltehue se traduz como chiqueira, espanta-boiada, gaivota-preta, quer-quer
+QUEMA	(substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos corpos, como a madeira, o carvão etc (também: incêndio, lume)
+QUEMABA	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMABAMOS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMABAN	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMABAS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMAD	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMADA	(substantivo) queima: incêndio (também: queimadura, ardência)
+QUEMADAS	(forma de quemado) (adjetivo) obsoleto: desatualizado
+QUEMADO	(adjetivo) obsoleto: desatualizado
+QUEMADOS	(forma de quemado) (adjetivo) obsoleto: desatualizado
+QUEMADURA	(substantivo) queimadura: lesão causada por calor intenso (também: ardência, queimada)
+QUEMADURAS	(forma de quemadura) (substantivo) queimadura: lesão causada por calor intenso (também: ardência, queimada)
+QUEMAIS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMAMOS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMAN	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMANDO	(verbo) gerúndio do verbo quemar: trair, cornear
+QUEMAOS	(forma de quemarse) (verbo) queimar: sentir calor ou uma sensação fisiologicamente parecida; sentir dor como se estivesse em chamas...
+QUEMAR	(verbo) trair: atraiçoar (também: cornear)
+QUEMARA	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARAMOS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARAN	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARAS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARE	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMAREIS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMAREMOS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARIA	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARIAMOS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARIAN	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARIAS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARON	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMARSE	(verbo) queimar: sentir calor ou uma sensação fisiologicamente parecida; sentir dor como se estivesse em chamas (também: arder, abrasar)
+QUEMAS	(forma de quema) (substantivo) fogo: desenvolvimento simultâneo de calor, de luz e de chama produzido pela combustão viva de certos...
+QUEMASE	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMASEN	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMASTE	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMASTEIS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMATE	(forma de quemarse) (verbo) queimar: sentir calor ou uma sensação fisiologicamente parecida; sentir dor como se estivesse em chamas...
+QUEME	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMEIS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMEMOS	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMEN	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMENSE	(forma de quemarse) (verbo) queimar: sentir calor ou uma sensação fisiologicamente parecida; sentir dor como se estivesse em chamas...
+QUEMES	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEMO	(forma de quemar) (verbo) trair: atraiçoar (também: cornear)
+QUEPA	(forma de caber) (verbo) adaptar: acomodar uma coisa a outra (também: encaixar)
+QUEPAMOS	(forma de caber) (verbo) adaptar: acomodar uma coisa a outra (também: encaixar)
+QUEPAN	(forma de caber) (verbo) adaptar: acomodar uma coisa a outra (também: encaixar)
+QUEPAS	(forma de caber) (verbo) adaptar: acomodar uma coisa a outra (também: encaixar)
+QUEPIS	(substantivo) quepe: boné de uso militar, com topo circular
+QUEPO	(verbo) primeira pessoa do singular do presente do indicativo do verbo caber:
+QUEQUE	(substantivo) bolo: bolo¹ doce
+QUERAIS	(forma de querer) (verbo) querer: sentir vontade de
+QUERAMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUERAS	(forma de querer) (verbo) querer: sentir vontade de
+QUERATINA	(substantivo) queratina: proteína com uma estrutura fibrosa, rica em enxofre, que é o principal componente na formação das camadas externas da epiderme de vertebrados e outros órgãos derivados de ectoderme (como cabelo, unha, pena, chifre e casco)
+QUERE	(forma de querer) (verbo) querer: sentir vontade de
+QUEREIS	(forma de querer) (verbo) querer: sentir vontade de
+QUERELLA	(substantivo) ação: processo forense (também: processo)
+QUERELLANTE	(substantivo) querelante: que se querela; queixoso
+QUERELLANTES	(forma de querellante) (substantivo) querelante: que se querela; queixoso
+QUERELLARSE	(verbo) processar: colocar um processo contra alguém, alguma empresa ou algo qualquer.
+QUERELLAS	(forma de querella) (substantivo) ação: processo forense (também: processo)
+QUERELLE	(forma de querellarse) (verbo) processar: colocar um processo contra alguém, alguma empresa ou algo qualquer.
+QUEREMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUERENCIA	(substantivo) apetite: desejo, vontade (também: saudade)
+QUERENDON	(adjetivo) querendon se traduz como ⟪afetuoso⟫\n(substantivo) amante: aquele que ama, enamorado, apaixonado
+QUERER	(verbo) querer: sentir vontade de
+QUERES	(forma de querer) (verbo) querer: sentir vontade de
+QUERESA	(substantivo) larva de inseto
+QUERIA	(forma de querer) (verbo) querer: sentir vontade de
+QUERIAIS	(forma de querer) (verbo) querer: sentir vontade de
+QUERIAMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUERIAN	(forma de querer) (verbo) querer: sentir vontade de
+QUERIAS	(forma de querer) (verbo) querer: sentir vontade de
+QUERIDA	(substantivo) mel: substância doce, espessa e viscosa elaborada pelas abelhas nas colmeias
+QUERIDAS	(forma de querido) (adjetivo) caro: cujo preço é elevado (também: querido, prezado)
+QUERIDO	(adjetivo) caro: cujo preço é elevado (também: querido, prezado)\n(substantivo) amante: aquele que ama, enamorado, apaixonado
+QUERIDOS	(forma de querido) (adjetivo) caro: cujo preço é elevado (também: querido, prezado)
+QUERMES	(substantivo) quermes se traduz como festa americana
+QUEROSENO	(substantivo) querosene: líquido produzido pela destilação do petróleo, formado por uma mistura de hidrocarbonetos alifáticos, naftênicos e aromáticos, é utilizado como combustível na aviação, solventes e como base de alguns inseticidas
+QUERRA	(forma de querer) (verbo) querer: sentir vontade de
+QUERRAN	(forma de querer) (verbo) querer: sentir vontade de
+QUERRAS	(forma de querer) (verbo) querer: sentir vontade de
+QUERRE	(forma de querer) (verbo) querer: sentir vontade de
+QUERREIS	(forma de querer) (verbo) querer: sentir vontade de
+QUERREMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUERRIA	(forma de querer) (verbo) querer: sentir vontade de
+QUERRIAIS	(forma de querer) (verbo) querer: sentir vontade de
+QUERRIAMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUERRIAN	(forma de querer) (verbo) querer: sentir vontade de
+QUERRIAS	(forma de querer) (verbo) querer: sentir vontade de
+QUERUBIN	(substantivo) querubim: uma das diversas sub-categorias de anjo na mitologia judeo-cristã
+QUERUBINES	(forma de querubin) (substantivo) querubim: uma das diversas sub-categorias de anjo na mitologia judeo-cristã
+QUESILLO	(substantivo) leite: líquido branco segregado pelas glândulas mamárias, existentes nas fêmeas dos mamíferos
+QUESO	(substantivo) queijo: alimento obtido pela separação da parte sólida do leite coalhado
+QUESOS	(forma de queso) (substantivo) queijo: alimento obtido pela separação da parte sólida do leite coalhado
+QUESQUE	(advérbio) alegadamente: de uma forma que precisa ainda ser comprovada, mas que parece verídica por conta das justificativas, fatos, testemunhos, etc (as alegações) (também: pretendidamente)
+QUETZAL	(substantivo) quetzal: moeda da Guatemala
+QUEVEDOS	(substantivo) pincenê: espécie de óculos sem haste, que se fixa ao nariz com o auxílio de uma mola
+QUIASMA	(substantivo) quiasma se traduz como chiasma
+QUIASMO	(substantivo) quiasmo: figura de linguagem em que elementos são dispostos de forma cruzada
+QUICHUA	(substantivo) quéchua: idioma ameríndio falado no Peru, na Bolívia e em partes do Chile, Argentina e Colômbia (código de língua ISO 639-1: qu; código de língua ISO 639-3: que) (também: quíchua)
+QUICIO	(substantivo) dobradiça: peça de metal formada por duas chapas unidas por um eixo comum e sobre o qual gira a porta, janela, etc.
+QUID	(substantivo) ponto: entidade geométrica cuja característica é a adimensionalidade; sua única propriedade é a posição (também: ponta, direção)
+QUIDAM	(substantivo) nada: a não existência (também: zero)
+QUIEBRA	(substantivo) falência: execução judicial de comerciante devedor
+QUIEBRAN	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUIEBRAS	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUIEBRE	(substantivo) término: o final de um relacionamento (romântico, amizade) (também: ruptura, rompimento)
+QUIEBREN	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUIEBRES	(forma de quebrar) (verbo) quebrar se traduz como ⟪falir⟫
+QUIEBRO	(substantivo) trilo: movimento rápido e alternativo de duas notas que distam entre si um tom ou meio tom, usado como ornamento na música vocal ou instrumental
+QUIEN	(pronome) quem: pronome que se refere a uma ou mais pessoas
+QUIENES	(pronome) quem: pronome que se refere a uma ou mais pessoas (também: o que, (for nonhumans) o quê)
+QUIENESQUIERA	(forma de quienquiera) (pronome) quienquiera se traduz como quem quer que
+QUIENQUIERA	(pronome) quienquiera se traduz como quem quer que
+QUIERA	(forma de querer) (verbo) querer: sentir vontade de
+QUIERAN	(forma de querer) (verbo) querer: sentir vontade de
+QUIERAS	(forma de querer) (verbo) querer: sentir vontade de
+QUIERE	(forma de querer) (verbo) querer: sentir vontade de
+QUIEREN	(forma de querer) (verbo) querer: sentir vontade de
+QUIERES	(forma de querer) (verbo) querer: sentir vontade de
+QUIETA	(forma de quieto) (adjetivo) quieto: que não tem ou não faz movimento
+QUIETAS	(forma de quieto) (adjetivo) quieto: que não tem ou não faz movimento
+QUIETE	(substantivo) intervalo: breve período de tempo, ocorrido no meio de uma atividade, para descanso (também: mudança, interrupção)
+QUIETISMO	(substantivo) calma: ausência de vento (também: repouso, inação)
+QUIETO	(adjetivo) quieto: que não tem ou não faz movimento
+QUIETOS	(forma de quieto) (adjetivo) quieto: que não tem ou não faz movimento
+QUIETUD	(substantivo) quietude: sossego; paz; tranquilidade suave
+QUIJADA	(substantivo) mandíbula: componente móvel do crânio que forma a parte inferior da cabeça
+QUIJADAS	(forma de quijada) (substantivo) mandíbula: componente móvel do crânio que forma a parte inferior da cabeça
+QUIJOTE	(substantivo) campeão: aquele que combatia em campo fechado, nos torneios, em defesa de alguém (também: campeã)
+QUIJOTES	(forma de quijote) (substantivo) campeão: aquele que combatia em campo fechado, nos torneios, em defesa de alguém (também: campeã)
+QUIJOTESCA	(forma de quijotesco) (adjetivo) quixotesco: relativo a Dom Quixote, personagem titular do livro de Miguel de Cervantes
+QUIJOTESCO	(adjetivo) quixotesco: relativo a Dom Quixote, personagem titular do livro de Miguel de Cervantes
+QUILATE	(substantivo) quilate: unidade de massa equivalente a 200 mg para diamantes e outras pedras preciosas
+QUILATES	(forma de quilate) (substantivo) quilate: unidade de massa equivalente a 200 mg para diamantes e outras pedras preciosas
+QUILLA	(substantivo) quilha: peça de madeira que se estende da popa até à proa na parte inferior dos navios (também: carina, carena)
+QUILLAS	(forma de quilla) (substantivo) quilha: peça de madeira que se estende da popa até à proa na parte inferior dos navios (também: carina,...
+QUILLO	(substantivo) mano: irmão (todas as acepções, exceto Religião)\n(interjeição) mano: irmão (todas as acepções, exceto Religião)
+QUILOGRAMO	(substantivo) quilograma: unidade de medida de massa do SI que atualmente é definida em termos da constante de Planck
+QUILOMBO	(substantivo) quilombo se traduz como ⟪bordel⟫
+QUILOMBOS	(forma de quilombo) (substantivo) quilombo se traduz como ⟪bordel⟫
+QUILTRO	(substantivo) rafeiro: cão sem raça definida (também: vira-lata)
+QUIMA	(substantivo) ramo: divisão ou subdivisão de um caule (também: poder, galho)
+QUIMBOMBO	(substantivo) quiabo: fruto do quiabeiro (também: quiabeiro)
+QUIMERA	(substantivo) quimera: monstro com corpo de cabra, cauda de dragão e cabeça de leão
+QUIMERAS	(substantivo) plural de quimera: quimera
+QUIMERICA	(forma de quimerico) (adjetivo) irado: muito bom, muito legal, que agrada bastante: muito bonito, muito interessante, muito excitante, muito...
+QUIMERICO	(adjetivo) irado: muito bom, muito legal, que agrada bastante: muito bonito, muito interessante, muito excitante, muito moderno, muito divertido etc (também: fantástico)
+QUIMERICOS	(forma de quimerico) (adjetivo) irado: muito bom, muito legal, que agrada bastante: muito bonito, muito interessante, muito excitante, muito...
+QUIMICA	(substantivo) química: ciência que estuda a estrutura das substâncias, suas propriedades e os elementos que as constituem\n(adjetivo) feminino de químico: químico
+QUIMICAMENTE	(advérbio) quimicamente: de modo químico
+QUIMICAS	(adjetivo) feminino plural de químico: químico\n(substantivo) feminino plural de químico: químico
+QUIMICO	(adjetivo) químico: indivíduo versado nas ciências químicas\n(substantivo) químico: indivíduo versado nas ciências químicas
+QUIMICOS	(adjetivo) plural de químico: químico\n(substantivo) plural de químico: químico
+QUIMIOTAXIA	(substantivo) quimiotaxia se traduz como quimiotaxia
+QUIMIOTERAPIA	(substantivo) quimioterapia: tratamento de doenças por substâncias químicas que afetam o funcionamento celular
+QUIMIOTERAPIAS	(forma de quimioterapia) (substantivo) quimioterapia: tratamento de doenças por substâncias químicas que afetam o funcionamento celular
+QUINA	(substantivo) quina: carta, dado; naipe de dominó equivalente a cinco pontos
+QUINAQUINA	(substantivo) quina: carta, dado; naipe de dominó equivalente a cinco pontos
+QUINCALLA	(substantivo) quincalla se traduz como quincalha
+QUINCE	(numeral) quinze: número equivalente a quatorze mais um; cardinalidade de um conjunto que contenha quinze elementos distintos; representado pelo símbolo 15 (algarismos arábicos) ou XV (algarismos romanos)\n(substantivo) quinze: número equivalente a quatorze mais um; cardinalidade de um conjunto que contenha quinze elementos distintos; representado pelo símbolo 15 (algarismos arábicos) ou XV (algarismos romanos)
+QUINCEAÑERAS	(forma de quinceañero) (substantivo) adolescente: aquele que está na adolescência
+QUINCEAÑERO	(substantivo) adolescente: aquele que está na adolescência
+QUINCEAÑEROS	(forma de quinceañero) (substantivo) adolescente: aquele que está na adolescência
+QUINCENA	(substantivo) quinzena: período de tempo correspondente a 15 dias
+QUINCENARIO	(adjetivo) quinzenal: relativo a quinzena; que aparece ou se faz ou se publica, de 15 em 15 dias
+QUINCENAS	(forma de quincena) (substantivo) quinzena: período de tempo correspondente a 15 dias
+QUINCHA	(substantivo) quincha: teto de palha
+QUINCUAGESIMA	(forma de quincuagesimo) (numeral) quincuagesimo se traduz como ⟪quinquagésimo|QUINQUAGESIMO⟫
+QUINCUAGESIMO	(numeral) quincuagesimo se traduz como ⟪quinquagésimo|QUINQUAGESIMO⟫\n(adjetivo) cinquenta: ver cinquenta (também: qüinquagésimo, quinquagésimo)
+QUINESIOLOGIA	(substantivo) quinesiologia se traduz como cinesiologia
+QUINGENTESIMO	(numeral) quingentésimo: a pessoa ou coisa que está logo após o quadringentésimo-nonagésimo-nono numa série e antes do quingentésimo-primeiro\n(substantivo) quingentésimo: a pessoa ou coisa que está logo após o quadringentésimo-nonagésimo-nono numa série e antes do quingentésimo-primeiro
+QUINIENTOS	(numeral) quinhentos: número equivalente a cinquenta dezenas; cardinalidade de um conjunto que contenha cinco centenas de elementos distintos; representado pelo símbolo 500 (algarismos arábicos) ou D (algarismos romanos); seu feminino é quinhentas\n(substantivo) quinhentos: número equivalente a cinquenta dezenas; cardinalidade de um conjunto que contenha cinco centenas de elementos distintos; representado pelo símbolo 500 (algarismos arábicos) ou D (algarismos romanos); seu feminino é quinhentas
+QUINO	(substantivo) quina: por sinédoque, «quinas» é usado para designar o conjunto de cinco escudos mais os cinco conjuntos de cinco bezantes nas armas de Portugal
+QUINOA	(substantivo) quinoa: planta nativa da Colômbia, Peru e Chile; seu nome científico é Chenopodium quinoa
+QUINOTO	(substantivo) quinoto se traduz como kumquat
+QUINOTOS	(forma de quinoto) (substantivo) quinoto se traduz como kumquat
+QUINQUI	(substantivo) quinqui se traduz como ⟪vigarista⟫
+QUINTA	(substantivo) quinta: chácara, pequena propriedade agrícola
+QUINTACOLUMNISMO	(substantivo) quintacolumnismo se traduz como quintacolunismo
+QUINTAL	(substantivo) quintal se traduz como quintal²
+QUINTAS	(forma de quinta) (substantivo) quinta: chácara, pequena propriedade agrícola
+QUINTIL	(substantivo) quintil se traduz como quintil
+QUINTO	(numeral) quinto: (feminino) sítio, pequena propriedade rural.\n(substantivo) quinto: (feminino) sítio, pequena propriedade rural.
+QUINTOS	(forma de quinto) (numeral) quinto: (feminino) sítio, pequena propriedade rural.
+QUINTUPLICAR	(verbo) quintuplicar: multiplicar algo por cinco
+QUINTUPLO	(numeral) quintuplo se traduz como quíntuplo
+QUINUA	(substantivo) quinoa: planta nativa da Colômbia, Peru e Chile; seu nome científico é Chenopodium quinoa
+QUIOSCO	(substantivo) quiosque: abrigo montado na via pública para a venda de jornais, revistas, flores, etc (também: loja de conveniência)
+QUIOSCOS	(forma de quiosco) (substantivo) quiosque: abrigo montado na via pública para a venda de jornais, revistas, flores, etc (também: loja de...
+QUIQUE	(substantivo) quique se traduz como furão-pequeno
+QUIQUIRIQUI	(substantivo) quiquiriqui se traduz como ⟪cocorocó|COCOROCO⟫\n(interjeição) cocoricó: o mesmo que cocorocó
+QUIRALIDAD	(substantivo) quiralidad se traduz como quiralidade
+QUIROFANO	(substantivo) quirofano se traduz como sala de cirurgia
+QUIROFANOS	(forma de quirofano) (substantivo) quirofano se traduz como sala de cirurgia
+QUIROGRAFARIO	(adjetivo) quirografario se traduz como ⟪quirografário|QUIROGRAFARIO⟫
+QUIROMANCIA	(substantivo) quiromancia: adivinhação pelo exame das linhas da palma da mão
+QUIRQUINCHO	(substantivo) tatu: (epiceno) nome comum aos animais da ordem dos cingulados oriunda da América do Sul e desta tendo se espalhado até o sudeste da América do Norte, caracterizado por contar com uma carapaça dorsal articulada (que por vezes se estende até a parte superior do crânio) formada por placas justapostas,...
+QUIRURGICA	(forma de quirurgico) (adjetivo) cirúrgico: relativo à cirurgia
+QUIRURGICAS	(forma de quirurgico) (adjetivo) cirúrgico: relativo à cirurgia
+QUIRURGICO	(adjetivo) cirúrgico: relativo à cirurgia
+QUIRURGICOS	(forma de quirurgico) (adjetivo) cirúrgico: relativo à cirurgia
+QUISCO	(substantivo) cacto: planta suculenta da família das cactáceas que apresenta de espinhos e é adaptada a climas áridos
+QUISE	(forma de querer) (verbo) querer: sentir vontade de
+QUISICOSA	(substantivo) charada: coisa bizarra ou difícil de entender
+QUISIERA	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERAIS	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERAMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERAN	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERAS	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERE	(forma de querer) (verbo) querer: sentir vontade de
+QUISIEREMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUISIEREN	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERES	(forma de querer) (verbo) querer: sentir vontade de
+QUISIERON	(forma de querer) (verbo) querer: sentir vontade de
+QUISIESE	(forma de querer) (verbo) querer: sentir vontade de
+QUISIESEMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUISIESEN	(forma de querer) (verbo) querer: sentir vontade de
+QUISIESES	(forma de querer) (verbo) querer: sentir vontade de
+QUISIMOS	(forma de querer) (verbo) querer: sentir vontade de
+QUISISTE	(forma de querer) (verbo) querer: sentir vontade de
+QUISISTEIS	(forma de querer) (verbo) querer: sentir vontade de
+QUISO	(forma de querer) (verbo) querer: sentir vontade de
+QUISTE	(substantivo) cisto: saco fechado que tem uma membrana e divisão distintas do tecido circundante
+QUISTES	(forma de quiste) (substantivo) cisto: saco fechado que tem uma membrana e divisão distintas do tecido circundante
+QUITABA	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITABAMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITABAN	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITABAS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAD	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAIS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAMIEDOS	(substantivo) quitamiedos se traduz como guard-rail
+QUITAMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAN	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAR	(verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARA	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARAMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARAN	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARAS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARE	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAREIS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAREMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARIA	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARIAMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARIAN	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARIAS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITARON	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITAS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITASE	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITASEMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITASEN	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITASES	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITASTE	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITASTEIS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITE	(verbo) flexão do verbo quitar: sacar
+QUITEIS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITEMOS	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITEN	(forma de quitar) (verbo) sacar: pôr algo para fora do lugar onde estava originalmente
+QUITES	(verbo) forma flexionada dos verbos quitar ou quitarse:
+QUITO	(adjetivo) isento: desobrigado; dispensado
+QUIZA	(advérbio) talvez: possivelmente (também: quiçá, quem sabe)
+QUIZAS	(advérbio) talvez: possivelmente
+QUIZQUE	(advérbio) alegadamente: de uma forma que precisa ainda ser comprovada, mas que parece verídica por conta das justificativas, fatos, testemunhos, etc (as alegações) (também: pretendidamente)
+QUORUM	(substantivo) quórum: ver quórum

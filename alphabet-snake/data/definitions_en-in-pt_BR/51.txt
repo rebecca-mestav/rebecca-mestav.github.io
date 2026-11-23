@@ -1,0 +1,183 @@
+QUACK	(verbo) grasnar: soltar a voz (qualquer animal) (também: grasnir, grassitar)
+QUACKED	(forma de quack) (verbo) grasnar: soltar a voz (qualquer animal) (também: grasnir, grassitar)
+QUACKING	(forma de quack) (verbo) grasnar: soltar a voz (qualquer animal) (também: grasnir, grassitar)
+QUACKS	(forma de quack) (verbo) grasnar: soltar a voz (qualquer animal) (também: grasnir, grassitar)
+QUADRANGULAR	(adjetivo) quadrangular: que tem por base um quadrângulo
+QUADRANT	(substantivo) quadrante: quarta parte da circunferência
+QUADRANTES	(forma de quadrant) (substantivo) quadrante: quarta parte da circunferência
+QUADRANTS	(forma de quadrant) (substantivo) quadrante: quarta parte da circunferência
+QUADRAPHONIC	(adjetivo) quadrafônico: relativo à quadrafonia (também: quadrafónico)
+QUADRATIC	(adjetivo) quadrático: relativo ao quadrado
+QUADRENNIALLY	(advérbio) quadrienalmente: de quatro em quatro anos
+QUADRIGA	(substantivo) quadriga: carro, tirado por quatro cavalos
+QUADRILATERAL	(substantivo) quadrilátero: polígono de quatro lados
+QUADRILATERALS	(forma de quadrilateral) (substantivo) quadrilátero: polígono de quatro lados
+QUADRILLE	(substantivo) quadrilha: tipo de dança agitada
+QUADRILLES	(forma de quadrille) (substantivo) quadrilha: tipo de dança agitada
+QUADRIPHONIC	(adjetivo) quadrifónico: relativo à quadrifonia (também: quadrifônico)
+QUADRUPED	(adjetivo) quadrúpede: aquilo que é sustentado por quatro pés\n(substantivo) quadrúpede: aquilo que é sustentado por quatro pés
+QUADRUPEDS	(forma de quadruped) (adjetivo) quadrúpede: aquilo que é sustentado por quatro pés
+QUADRUPLY	(advérbio) quadruplamente: de modo quádruplo
+QUAGGA	(substantivo) quaga: subespécie extinta (Equus quagga quagga) de zebra-da-planície
+QUAGGAS	(forma de quagga) (substantivo) quaga: subespécie extinta (Equus quagga quagga) de zebra-da-planície
+QUAIL	(substantivo) codorna: nome comum às aves do gênero Coturnix, da família dos fasianídeos, domesticadas para a produção de ovos e carne (também: codorniz)
+QUAILED	(forma de quail) (substantivo) codorna: nome comum às aves do gênero Coturnix, da família dos fasianídeos, domesticadas para a produção...
+QUAILING	(forma de quail) (substantivo) codorna: nome comum às aves do gênero Coturnix, da família dos fasianídeos, domesticadas para a produção...
+QUAILS	(forma de quail) (substantivo) codorna: nome comum às aves do gênero Coturnix, da família dos fasianídeos, domesticadas para a produção...
+QUAINT	(adjetivo) pitoresco: que se manifesta de forma vívida, colorida (também: pinturesco)
+QUAINTER	(forma de quaint) (adjetivo) pitoresco: que se manifesta de forma vívida, colorida (também: pinturesco)
+QUAINTEST	(forma de quaint) (adjetivo) pitoresco: que se manifesta de forma vívida, colorida (também: pinturesco)
+QUALIFICATION	(substantivo) qualificação: ato ou efeito de qualificar-se
+QUALIFICATIONS	(forma de qualification) (substantivo) qualificação: ato ou efeito de qualificar-se
+QUALIFIED	(adjetivo) qualificado: que atende requisitos ou possui qualidades ou atributos necessários para algo
+QUALIFIEDLY	(advérbio) qualificadamente: de forma qualificada
+QUALIFIES	(forma de qualify) (verbo) qualificar: atribuir qualidades
+QUALIFY	(verbo) qualificar: atribuir qualidades
+QUALIFYING	(forma de qualify) (verbo) qualificar: atribuir qualidades
+QUALITATIVE	(adjetivo) qualitativo: que qualifica; qualificativo (adj.)
+QUALITIES	(forma de quality) (substantivo) qualidade: característica, propriedade ou atributo essencial ou distintivo de algo
+QUALITY	(substantivo) qualidade: característica, propriedade ou atributo essencial ou distintivo de algo
+QUANDARIES	(forma de quandary) (substantivo) dilema: situação em que se deve tomar uma de duas decisões difíceis (também: indecisão)
+QUANDARY	(substantivo) dilema: situação em que se deve tomar uma de duas decisões difíceis (também: indecisão)
+QUANTA	(forma de quantum) (substantivo) quantum: quantidade de energia eletromagnética indivisível; quantidade de energia que um elétron emite ou...
+QUANTIFIED	(forma de quantify) (verbo) quantificar: aplicar a um fenômeno a teoria dos quanta
+QUANTIFIER	(substantivo) quantificador: termo que atribui um predicado a alguns ou todos os elementos de uma certa classe
+QUANTIFIERS	(forma de quantifier) (substantivo) quantificador: termo que atribui um predicado a alguns ou todos os elementos de uma certa classe
+QUANTIFIES	(forma de quantify) (verbo) quantificar: aplicar a um fenômeno a teoria dos quanta
+QUANTIFY	(verbo) quantificar: aplicar a um fenômeno a teoria dos quanta
+QUANTIFYING	(forma de quantify) (verbo) quantificar: aplicar a um fenômeno a teoria dos quanta
+QUANTITATIVE	(adjetivo) quantitativo: relativo a quantidade
+QUANTITIES	(forma de quantity) (substantivo) quantidade: qualidade do que pode ser medido ou numerado
+QUANTITY	(substantivo) quantidade: qualidade do que pode ser medido ou numerado
+QUANTUM	(substantivo) quantum: quantidade de energia eletromagnética indivisível; quantidade de energia que um elétron emite ou absorve ao saltar de uma órbita estacionária para outra
+QUARANTINE	(substantivo) quarentena: período de quarenta dias\n(verbo) ficar ou colocar de quarentena
+QUARANTINED	(forma de quarantine) (substantivo) quarentena: período de quarenta dias
+QUARANTINES	(forma de quarantine) (substantivo) quarentena: período de quarenta dias
+QUARANTINING	(forma de quarantine) (substantivo) quarentena: período de quarenta dias
+QUARK	(substantivo) partícula elementar do Modelo Padrão, que constitui os prótons e os nêutrons
+QUARKS	(forma de quark) (substantivo) partícula elementar do Modelo Padrão, que constitui os prótons e os nêutrons
+QUARTER	(adjetivo) quarto: uma das divisões da casa; lugar onde habitualmente se dorme (também: quarta parte)\n(substantivo) quarto: uma das divisões da casa; lugar onde habitualmente se dorme (também: quarta parte)
+QUARTERED	(forma de quarter) (adjetivo) quarto: uma das divisões da casa; lugar onde habitualmente se dorme (também: quarta parte)
+QUARTERING	(forma de quarter) (adjetivo) quarto: uma das divisões da casa; lugar onde habitualmente se dorme (também: quarta parte)
+QUARTERINGS	(forma de quarter) (adjetivo) quarto: uma das divisões da casa; lugar onde habitualmente se dorme (também: quarta parte)
+QUARTERLIES	(forma de quarterly) (adjetivo) quarterly se traduz como ⟪trimestral⟫
+QUARTERLY	(adjetivo) quarterly se traduz como ⟪trimestral⟫
+QUARTERS	(forma de quarter) (adjetivo) quarto: uma das divisões da casa; lugar onde habitualmente se dorme (também: quarta parte)
+QUARTET	(substantivo) quartet se traduz como ⟪quarteto⟫
+QUARTETS	(forma de quartet) (substantivo) quartet se traduz como ⟪quarteto⟫
+QUARTIC	(adjetivo) de ou relativo ao quarto grau\n(substantivo) função de quarto grau
+QUARTICS	(forma de quartic) (adjetivo) de ou relativo ao quarto grau
+QUARTZ	(substantivo) quartzo: o mineral mais abundante do planeta, representando 12% da crosta terrestre; é formado basicamente por sílica (dióxido de silício SiO₂), que forma uma estrutura cristalina trigonal composta por tetraedros; é largamente utilizado na indústria para a fabricação dos mais diversos produtos como, vidros,... (também: quarço)
+QUARTZES	(forma de quartz) (substantivo) quartzo: o mineral mais abundante do planeta, representando 12% da crosta terrestre; é formado...
+QUASI	(adjetivo) que se parece (com outra coisa)
+QUATERNARIES	(forma de quaternary) (adjetivo) quaternário: diz-se do período geológico, imediatamente posterior ao terciário
+QUATERNARY	(adjetivo) quaternário: diz-se do período geológico, imediatamente posterior ao terciário
+QUAVER	(substantivo) colcheia: figura musical (♪) cuja duração é de um oitavo de uma semibreve ou metade de uma semínima
+QUAVERED	(forma de quaver) (substantivo) colcheia: figura musical (♪) cuja duração é de um oitavo de uma semibreve ou metade de uma semínima
+QUAVERING	(forma de quaver) (substantivo) colcheia: figura musical (♪) cuja duração é de um oitavo de uma semibreve ou metade de uma semínima
+QUAVERS	(forma de quaver) (substantivo) colcheia: figura musical (♪) cuja duração é de um oitavo de uma semibreve ou metade de uma semínima
+QUAY	(substantivo) quay se traduz como ⟪embarcadouro⟫
+QUAYS	(forma de quay) (substantivo) quay se traduz como ⟪embarcadouro⟫
+QUEEN	(substantivo) rainha: única fêmea reprodutora em certas espécies de insetos como as abelhas, vespas e cupins
+QUEENED	(forma de queen) (substantivo) rainha: única fêmea reprodutora em certas espécies de insetos como as abelhas, vespas e cupins
+QUEENING	(forma de queen) (substantivo) rainha: única fêmea reprodutora em certas espécies de insetos como as abelhas, vespas e cupins
+QUEENS	(forma de queen) (substantivo) rainha: única fêmea reprodutora em certas espécies de insetos como as abelhas, vespas e cupins
+QUEER	(adjetivo) queer se traduz como ⟪queer⟫
+QUEERED	(forma de queer) (adjetivo) queer se traduz como ⟪queer⟫
+QUEERER	(forma de queer) (adjetivo) queer se traduz como ⟪queer⟫
+QUEEREST	(forma de queer) (adjetivo) queer se traduz como ⟪queer⟫
+QUEERING	(forma de queer) (adjetivo) queer se traduz como ⟪queer⟫
+QUEERS	(forma de queer) (adjetivo) queer se traduz como ⟪queer⟫
+QUENCH	(verbo) extinguir: apagar (fogo, luz, etc.)
+QUENCHED	(forma de quench) (verbo) extinguir: apagar (fogo, luz, etc.)
+QUENCHES	(forma de quench) (verbo) extinguir: apagar (fogo, luz, etc.)
+QUENCHING	(forma de quench) (verbo) extinguir: apagar (fogo, luz, etc.)
+QUERIED	(forma de query) (substantivo) query se traduz como ⟪indagação|INDAGAÇAO⟫
+QUERIES	(forma de query) (substantivo) query se traduz como ⟪indagação|INDAGAÇAO⟫
+QUERY	(substantivo) query se traduz como ⟪indagação|INDAGAÇAO⟫\n(verbo) indagar: procurar descobrir
+QUERYING	(forma de query) (substantivo) query se traduz como ⟪indagação|INDAGAÇAO⟫
+QUEST	(substantivo) busca: buscante
+QUESTED	(forma de quest) (substantivo) busca: buscante
+QUESTING	(forma de quest) (substantivo) busca: buscante
+QUESTION	(substantivo) question se traduz como ⟪questão|QUESTAO⟫\n(verbo) questionar: perguntar, indagar sobre
+QUESTIONED	(forma de question) (substantivo) question se traduz como ⟪questão|QUESTAO⟫
+QUESTIONING	(forma de question) (substantivo) question se traduz como ⟪questão|QUESTAO⟫
+QUESTIONNAIRE	(substantivo) questionário: conjunto de perguntas com um determinado objetivo
+QUESTIONNAIRES	(forma de questionnaire) (substantivo) questionário: conjunto de perguntas com um determinado objetivo
+QUESTIONS	(forma de question) (substantivo) question se traduz como ⟪questão|QUESTAO⟫
+QUESTS	(forma de quest) (substantivo) busca: buscante
+QUETZAL	(substantivo) quetzal: moeda da Guatemala
+QUETZALS	(forma de quetzal) (substantivo) quetzal: moeda da Guatemala
+QUEUE	(substantivo) queue se traduz como ⟪fila⟫\n(verbo) queue se traduz como fazer fila, ⟪enfileirar⟫
+QUEUED	(forma de queue) (substantivo) queue se traduz como ⟪fila⟫
+QUEUEING	(forma de queue) (substantivo) queue se traduz como ⟪fila⟫
+QUEUER	(forma de queue) (substantivo) queue se traduz como ⟪fila⟫
+QUEUES	(forma de queue) (substantivo) queue se traduz como ⟪fila⟫
+QUEUING	(forma de queue) (substantivo) queue se traduz como ⟪fila⟫
+QUIBBLE	(verbo) chicana: Substantivo¹: artimanha judicial e trapaça
+QUIBBLED	(forma de quibble) (verbo) chicana: Substantivo¹: artimanha judicial e trapaça
+QUIBBLES	(forma de quibble) (verbo) chicana: Substantivo¹: artimanha judicial e trapaça
+QUIBBLING	(forma de quibble) (verbo) chicana: Substantivo¹: artimanha judicial e trapaça
+QUICK	(adjetivo) quick se traduz como ⟪rápido|RAPIDO⟫, ⟪ligeiro⟫\n(advérbio) quick se traduz como ⟪rapidamente⟫
+QUICKEN	(verbo) agilizar: tornar ágil, rápido
+QUICKENED	(forma de quicken) (verbo) agilizar: tornar ágil, rápido
+QUICKENING	(forma de quicken) (verbo) agilizar: tornar ágil, rápido
+QUICKENS	(forma de quicken) (verbo) agilizar: tornar ágil, rápido
+QUICKER	(adjetivo) forma comparativa de quick: rápido, ligeiro
+QUICKEST	(adjetivo) forma comparativa de quick: rápido, ligeiro
+QUICKIE	(substantivo) quickie se traduz como ⟪rapidinha⟫
+QUICKIES	(forma de quickie) (substantivo) quickie se traduz como ⟪rapidinha⟫
+QUICKLY	(advérbio) rapidamente: de modo rápido
+QUICKS	(substantivo) plural de quick: rápido, ligeiro\n(verbo) conjugação em terceira pessoa do singular do verbo quick: rápido, ligeiro
+QUICKSILVER	(substantivo) mercúrio: elemento químico de símbolo Hg, possui o número atômico 80 e massa atômica relativa 200,59 u; é um metal de transição, branco prateado; encontra-se em estado líquido à temperatura ambiente; é utilizado pela indústria eletro-eletrônica (sensores, baterias e lâmpadas), na agricultura (como fungicida...
+QUICKSILVERS	(forma de quicksilver) (substantivo) mercúrio: elemento químico de símbolo Hg, possui o número atômico 80 e massa atômica relativa 200,59 u; é...
+QUIET	(adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUIETED	(forma de quiet) (adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUIETER	(forma de quiet) (adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUIETERS	(forma de quiet) (adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUIETEST	(forma de quiet) (adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUIETING	(forma de quiet) (adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUIETLY	(advérbio) quietamente: de forma quieta
+QUIETS	(forma de quiet) (adjetivo) silencioso: que não faz barulho, que não causa ruídos (também: quieto)
+QUILT	(adjetivo) acolchoado: tecido trabalhado tal qual uma colcha\n(substantivo) acolchoado: tecido trabalhado tal qual uma colcha
+QUILTED	(adjetivo) acolchoado: revestido tal qual um colchão; recheado como um colchão (também: acolchoados, acolchoadas)
+QUILTING	(forma de quilt) (adjetivo) acolchoado: tecido trabalhado tal qual uma colcha
+QUILTINGS	(forma de quilt) (adjetivo) acolchoado: tecido trabalhado tal qual uma colcha
+QUILTS	(substantivo) quilts se traduz como ⟪acolchoados⟫
+QUINCE	(substantivo) marmelo: o fruto do marmeleiro, marmelo-molar, gamboa (também: marmeleiro)
+QUINCES	(forma de quince) (substantivo) marmelo: o fruto do marmeleiro, marmelo-molar, gamboa (também: marmeleiro)
+QUINOA	(substantivo) quinoa: planta nativa da Colômbia, Peru e Chile; seu nome científico é Chenopodium quinoa
+QUINOAS	(forma de quinoa) (substantivo) quinoa: planta nativa da Colômbia, Peru e Chile; seu nome científico é Chenopodium quinoa
+QUINQUENNIALLY	(advérbio) quinquenalmente: de forma quinquenal
+QUINTAL	(substantivo) quintal se traduz como quintal²
+QUINTALS	(forma de quintal) (substantivo) quintal se traduz como quintal²
+QUINTESSENTIALLY	(advérbio) quintessencialmente: de modo quintessencial
+QUINTILE	(substantivo) quintile se traduz como quintil
+QUINTILES	(forma de quintile) (substantivo) quintile se traduz como quintil
+QUISLING	(substantivo) quisling: pessoa que é colaborante com força estrangeira que invade a própria pátria
+QUISLINGS	(forma de quisling) (substantivo) quisling: pessoa que é colaborante com força estrangeira que invade a própria pátria
+QUIT	(verbo) desistir: renunciar
+QUITE	(advérbio) exato: certo; rigoroso; verdadeiro; pontual; perfeito; fiel (também: absolutamente, completamente)
+QUITS	(forma de quit) (verbo) desistir: renunciar
+QUITTED	(forma de quit) (verbo) desistir: renunciar
+QUITTING	(forma de quit) (verbo) desistir: renunciar
+QUIVER	(substantivo) quiver se traduz como ⟪aljava⟫
+QUIVERED	(forma de quiver) (substantivo) quiver se traduz como ⟪aljava⟫
+QUIVERER	(forma de quiver) (substantivo) quiver se traduz como ⟪aljava⟫
+QUIVERING	(forma de quiver) (substantivo) quiver se traduz como ⟪aljava⟫
+QUIVERS	(forma de quiver) (substantivo) quiver se traduz como ⟪aljava⟫
+QUIXOTICALLY	(advérbio) quixotescamente: de forma quixotesca
+QUIZ	(substantivo) quiz: forma de avaliar uma grande quantidade de pessoas com um questionário com respostas do tipo "certo ou errado"
+QUIZZED	(forma de quiz) (substantivo) quiz: forma de avaliar uma grande quantidade de pessoas com um questionário com respostas do tipo "certo...
+QUIZZES	(forma de quiz) (substantivo) quiz: forma de avaliar uma grande quantidade de pessoas com um questionário com respostas do tipo "certo...
+QUIZZING	(forma de quiz) (substantivo) quiz: forma de avaliar uma grande quantidade de pessoas com um questionário com respostas do tipo "certo...
+QUORUM	(substantivo) quorum se traduz como ⟪quórum|QUORUM⟫
+QUORUMS	(forma de quorum) (substantivo) quorum se traduz como ⟪quórum|QUORUM⟫
+QUOTATION	(substantivo) quotation se traduz como ⟪citação|CITAÇAO⟫
+QUOTATIONS	(forma de quotation) (substantivo) quotation se traduz como ⟪citação|CITAÇAO⟫
+QUOTE	(substantivo) quote se traduz como ⟪aspas⟫\n(verbo) citar: mencionar
+QUOTED	(forma de quote) (substantivo) quote se traduz como ⟪aspas⟫
+QUOTES	(forma de quote) (substantivo) quote se traduz como ⟪aspas⟫
+QUOTIENT	(substantivo) quociente: número que indica quantas vezes o divisor está contido no dividendo; o resultado de uma divisão
+QUOTIENTS	(forma de quotient) (substantivo) quociente: número que indica quantas vezes o divisor está contido no dividendo; o resultado de uma divisão
+QUOTING	(forma de quote) (substantivo) quote se traduz como ⟪aspas⟫

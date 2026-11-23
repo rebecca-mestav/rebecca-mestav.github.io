@@ -1,0 +1,446 @@
+JABA	(ad) torba: genellikle pamuk, kıl ve plâstik gibi iplikten dokunmuş, türlü boy ve biçimde, ağzı büzülüp bağlanabilen araç (ayrıca: çanta, poşet)
+JABALI	(ad) yaban domuzu: Domuzgillerden, domuzdan iri, bağ ve bahçelere zarar veren saldırgan, yabani hayvan. (Sus scrofa)
+JABALIES	(jabali sözcüğünün çekimi) (ad) yaban domuzu: Domuzgillerden, domuzdan iri, bağ ve bahçelere zarar veren saldırgan, yabani hayvan. (Sus scrofa)
+JABALINA	(ad) cirit: atletizmde kullanılan ucu sivri, üzeri sargılı metal sırık
+JABALINAS	(jabalina sözcüğünün çekimi) (ad) cirit: atletizmde kullanılan ucu sivri, üzeri sargılı metal sırık
+JABALIS	(jabali sözcüğünün çekimi) (ad) yaban domuzu: Domuzgillerden, domuzdan iri, bağ ve bahçelere zarar veren saldırgan, yabani hayvan. (Sus scrofa)
+JABATO	(sıfat) atılgan: çekinip korkmadan kendini tehlike veya güçlüklere atan, acar (ayrıca: yürekli)
+JABON	(ad) sabun: Kirli ve yağlı şeyleri temizlemekte kullanılan, türlü yağlarla alkaliler birleştirilerek yapılan madde.
+JABONAR	(eylem) sabunlamak: Herhangi bir şeyi sabun sürerek yıkanmak
+JABONERA	(ad) jabonera kelimesinin karşılığı: ⟪çöven|ÇÖVEN⟫
+JABONES	(ad) çoğul çekimi: jabón
+JACA	(ad) jaca kelimesinin karşılığı: ⟪midilli|MİDİLLİ⟫
+JACARANDA	(ad) jacaranda kelimesinin karşılığı: jakaranda
+JACARANDO	(sıfat) yakışıklı: güzel, gösterişli
+JACARANDOSO	(sıfat) neşeli: sevinçli, keyifli, şen, pürneşe (ayrıca: memnun, mutlu)
+JACAS	(jaca sözcüğünün çekimi) (ad) jaca kelimesinin karşılığı: ⟪midilli|MİDİLLİ⟫
+JACENA	(ad) demet: Çiçek veya bitkilerin bir araya getirilip bağlanmış biçimi. (ayrıca: kiriş, mertek)
+JACHO	(sıfat) bön: budala, saf, avanak, ahmak (ayrıca: dingil, aptal)
+JACINTO	(ad) jacinto kelimesinin karşılığı: ⟪sümbül|SÜMBÜL⟫
+JACINTOS	(jacinto sözcüğünün çekimi) (ad) jacinto kelimesinin karşılığı: ⟪sümbül|SÜMBÜL⟫
+JACO	(ad) mal: esrar (ayrıca: eroin)
+JACTANCIA	(ad) jactancia kelimesinin karşılığı: ⟪övünç|ÖVÜNÇ⟫
+JACTANCIAS	(jactancia sözcüğünün çekimi) (ad) jactancia kelimesinin karşılığı: ⟪övünç|ÖVÜNÇ⟫
+JACTANCIOSA	(jactancioso sözcüğünün çekimi) (sıfat) fiyakalı: gösterişli
+JACTANCIOSAS	(jactancioso sözcüğünün çekimi) (sıfat) fiyakalı: gösterişli
+JACTANCIOSO	(sıfat) fiyakalı: gösterişli
+JACTANCIOSOS	(jactancioso sözcüğünün çekimi) (sıfat) fiyakalı: gösterişli
+JACULATORIO	(sıfat) ani: ansızın, birdenbire
+JADA	(ad) çapa: Tarlalarda toprağı işlemek için kullanılan ağaç veya demir saplı kazı aracı
+JADE	(ad) jade kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫
+JADEO	(ad) soluk: akciğerlere çekilen, akciğerlerden atılan hava, nefes, dem
+JADEOS	(jadeo sözcüğünün çekimi) (ad) soluk: akciğerlere çekilen, akciğerlerden atılan hava, nefes, dem
+JADES	(jade sözcüğünün çekimi) (ad) jade kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫
+JADIZ	(ad) hadis: Ehl-i Sünnet, Şia
+JAEZ	(ad) tür: Ortak özellikleri olan bireylerin tamamı, cinslerin ayrıldığı bölüm; zümre, janr (ayrıca: çeşit)
+JAGUAR	(ad) jaguar: Kedigillerden, parsa benzeyen, Orta ve Güney Amerika'da yaşayan, postu iri benekli memeli türü. (Panthera onca veya Felis onca)
+JAGUARES	(jaguar sözcüğünün çekimi) (ad) jaguar: Kedigillerden, parsa benzeyen, Orta ve Güney Amerika'da yaşayan, postu iri benekli memeli türü. (Panthera...
+JAIBA	(ad) yengeç: eklem bacaklılardan, kabuklu, birinci ayak çifti iki kıskaç olarak gelişmiş, eti için avlanan, suda yaşayan bir kabuklu canlı
+JALABA	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALABAN	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALAD	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALAMOS	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALAN	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALAR	(eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALARA	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALARAN	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALARAS	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALARE	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALAREMOS	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALARIA	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALARON	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALAS	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALASTE	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALE	(ad) yapıt: eser.
+JALEA	(ad) pelte: nişasta ,şeker ve su karışımın pişirilerek sogutulmasıyla yapılan bir çeşit tatlı. (ayrıca: jöle, marmelat)
+JALEAS	(ad) çoğul çekimi: jalea
+JALEMOS	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALEN	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALEO	(ad) jaleo kelimesinin karşılığı: cadı kazanı
+JALEOS	(jaleo sözcüğünün çekimi) (ad) jaleo kelimesinin karşılığı: cadı kazanı
+JALES	(ad) çoğul çekimi: jale
+JALO	(jalar sözcüğünün çekimi) (eylem) germek: (mecaz) gergin duruma getirmek, gerginlik yaratmak, sinirlendirmek (ayrıca: berabere kalmak, çizmek)
+JALON	(ad) jalon kelimesinin karşılığı: ani hareket, aşağılık kimse, ⟪pislik|PİSLİK⟫
+JALONES	(ad) çoğul çekimi: jalón
+JAM	(ad) jam kelimesinin karşılığı: ⟪reçel|REÇEL⟫
+JAMACUCO	(ad) ani ruh hali değişimi, kontrolü elden yitirme
+JAMAS	(zarf) hiçbir zaman: Asla, hiç. (ayrıca: asla)
+JAMON	(ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+JAMONES	(jamon sözcüğünün çekimi) (ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+JAMS	(jam sözcüğünün çekimi) (ad) jam kelimesinin karşılığı: ⟪reçel|REÇEL⟫
+JANGUEAR	(eylem) asılmak: (mecaz) bir şey isterken karşısındakini tedirgin edecek derecede üstelemek, ısrar etmek, ileri gitmek (ayrıca: asmak, sarkmak)
+JAPONES	(ad) japonca: Japonya'da konuşulan Ural-Altay dil ailesine mensup dil, Japon dili
+JAPONESA	(japones sözcüğünün çekimi) (ad) japonca: Japonya'da konuşulan Ural-Altay dil ailesine mensup dil, Japon dili
+JAPONESAS	(japones sözcüğünün çekimi) (ad) japonca: Japonya'da konuşulan Ural-Altay dil ailesine mensup dil, Japon dili
+JAPONESES	(japones sözcüğünün çekimi) (ad) japonca: Japonya'da konuşulan Ural-Altay dil ailesine mensup dil, Japon dili
+JAQUE	(ad) jaque kelimesinin karşılığı: ⟪çek|ÇEK⟫, ⟪hesap|HESAP⟫
+JAQUEAR	(eylem) kontrol etmek: doğruluğundan emin olmak
+JAQUECA	(ad) migren: Yarım baş ağrısı
+JAQUES	(jaque sözcüğünün çekimi) (ad) jaque kelimesinin karşılığı: ⟪çek|ÇEK⟫, ⟪hesap|HESAP⟫
+JAQUIMA	(ad) jaquima kelimesinin karşılığı: ⟪sarhoşluk|SARHOŞLUK⟫
+JARABE	(ad) şurup: çeşitli meyve özleri ve şekerin kaynatılmasıyla elde edilen içecek
+JARABES	(jarabe sözcüğünün çekimi) (ad) şurup: çeşitli meyve özleri ve şekerin kaynatılmasıyla elde edilen içecek
+JARAL	(ad) jaral kelimesinin karşılığı: ⟪küme|KÜME⟫
+JARAMAGO	(ad) roka: Turpgillerden, yaprakları salata gibi yenen, 20-40 santimetre yüksekliğinde, sebze olarak bahçelerde yetiştirilen, kokulu, bir iki yıllık bir bitki, (Eruca sativa).
+JARANA	(ad) nakış: hile (ayrıca: hile, aldanış)
+JARANERO	(ad) hilekâr: hileci olan kimse
+JARCIA	(ad) jarcia kelimesinin karşılığı: ⟪arma|ARMA⟫
+JARCIAS	(jarcia sözcüğünün çekimi) (ad) jarcia kelimesinin karşılığı: ⟪arma|ARMA⟫
+JARDIN	(ad) bahçe: sebze ve meyve, çiçek veya ağaç yetiştirilen yer
+JARDINERO	(ad) bahçıvan: geçimini bahçe ürünlerini yetiştirip satmakla sağlayan kişi
+JARDINEROS	(jardinero sözcüğünün çekimi) (ad) bahçıvan: geçimini bahçe ürünlerini yetiştirip satmakla sağlayan kişi
+JARDINES	(jardin sözcüğünün çekimi) (ad) bahçe: sebze ve meyve, çiçek veya ağaç yetiştirilen yer
+JARRA	(ad) jarra kelimesinin karşılığı: ⟪atıcı|ATICI⟫
+JARRAS	(jarra sözcüğünün çekimi) (ad) jarra kelimesinin karşılığı: ⟪atıcı|ATICI⟫
+JARRETE	(ad) jambon: tuzlanıp ise tutularak hazırlanmış domuz budu veya kolu
+JARRO	(ad) jarro kelimesinin karşılığı: ⟪atıcı|ATICI⟫
+JARRON	(ad) vazo: çiçeklik
+JARRONES	(jarron sözcüğünün çekimi) (ad) vazo: çiçeklik
+JARROS	(jarro sözcüğünün çekimi) (ad) jarro kelimesinin karşılığı: ⟪atıcı|ATICI⟫
+JARTO	(sıfat) dolu: (iş, uğraş, olay vb. durumlar için) Çok olan. (ayrıca: dolgun)
+JASPE	(ad) jaspe kelimesinin karşılığı: ⟪yeşim|YEŞİM⟫, jasper
+JASPEAR	(eylem) ebrulamak: Ebru yaparak boyamak (ayrıca: harelemek)
+JATO	(ad) dana: buzağı (ayrıca: baldır, buzağı)
+JAULA	(ad) kafes: cezaevi
+JAULAS	(jaula sözcüğünün çekimi) (ad) kafes: cezaevi
+JAZMIN	(ad) jazmin kelimesinin karşılığı: ⟪yasemin|YASEMİN⟫
+JAZMINES	(jazmin sözcüğünün çekimi) (ad) jazmin kelimesinin karşılığı: ⟪yasemin|YASEMİN⟫
+JAZZ	(ad) caz: Başlangıçta Kuzey Amerika zencilerinin müziği iken sonraları bütün dünyada benimsenen bir müzik türü
+JEAN	(ad) jean kelimesinin karşılığı: kot pantolon
+JEBE	(ad) jebe kelimesinin karşılığı: ⟪lateks|LATEKS⟫, ⟪silgi|SİLGİ⟫, ⟪kauçuk|KAUÇUK⟫
+JEEP	(ad) cip: Toprak ve çamurlu yollarda, zorlu arazi şartlarında kullanılmaya uygun, dört tekerden çekişli, motorlu kara taşıtı
+JEFATURA	(ad) önderlik: önder olma durumu veya öndere yakışır davranış, öncülük, liderlik (ayrıca: liderlik)
+JEFATURAS	(jefatura sözcüğünün çekimi) (ad) önderlik: önder olma durumu veya öndere yakışır davranış, öncülük, liderlik (ayrıca: liderlik)
+JEFE	(ad) başkan: memleketi yönetmek için seçilen kişi (ayrıca: başçı, kafa)
+JEFES	(ad) jefes kelimesinin karşılığı: ebeveyn, ⟪ihtiyar|İHTİYAR⟫, ana baba
+JEITO	(ad) jeito kelimesinin karşılığı: ⟪kabiliyet|KABİLİYET⟫, ⟪beceri|BECERİ⟫
+JEJEN	(ad) sivrisinek: çift kanatlılardan, insan ve memeli hayvanların kanıyla beslenen, birçok türü bulunan ve bir türü sıtma mikrobu aşılayan, sulak, bataklık yerlerde çok üreyen ve bulaşıcı hastalıkları yayan uçucu böcek
+JENABE	(ad) jenabe kelimesinin karşılığı: ⟪hardal|HARDAL⟫
+JENABLE	(ad) jenable kelimesinin karşılığı: ⟪hardal|HARDAL⟫
+JENGIBRE	(ad) zencefil: Zencefilgillerden Hindistan ve Malezya'da yetişen, yaklaşık 100 cm yüksekliğinde, kamış görünüşünde, çok yüksek ve otsu bir bitki.
+JEQUE	(ad) şeyh: tarikat lideri
+JEQUES	(jeque sözcüğünün çekimi) (ad) şeyh: tarikat lideri
+JERARCA	(ad) lider: Bir partinin veya bir kuruluşun en üst düzeyde yönetimiyle görevli kimse (ayrıca: başçı)
+JERARQUIA	(ad) hiyerarşi: Otoritenin en geniş ölçüde en üst mertebede olmak üzere değişik önem sıraları arasında katı ve kesin bir biçimde dağıldığı toplumsal teşkilatlanış biçimi (ayrıca: aşama sırası)
+JERARQUIAS	(jerarquia sözcüğünün çekimi) (ad) hiyerarşi: Otoritenin en geniş ölçüde en üst mertebede olmak üzere değişik önem sıraları arasında katı ve kesin...
+JERARQUICA	(jerarquico sözcüğünün çekimi) (sıfat) hiyerarşik: hiyerarşiye özgü
+JERARQUICAS	(jerarquico sözcüğünün çekimi) (sıfat) hiyerarşik: hiyerarşiye özgü
+JERARQUICO	(sıfat) hiyerarşik: hiyerarşiye özgü
+JERARQUICOS	(jerarquico sözcüğünün çekimi) (sıfat) hiyerarşik: hiyerarşiye özgü
+JERGA	(ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz dağarcığı, jargon (ayrıca: jargon)
+JERGAS	(jerga sözcüğünün çekimi) (ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz...
+JERIGONZA	(ad) argo: kullanılan ortak dilden ayrı olarak aynı meslek veya topluluktaki insanların kullandığı özel dil veya söz dağarcığı, jargon (ayrıca: jargon)
+JERINGA	(ad) şırınga: enjektör.
+JERMA	(ad) avrat: Bir erkeğin eşi, hanımı. (ayrıca: kadın, hatun)
+JERMU	(ad) karı: Bir erkeğin evlenmiş olduğu kadın; eş, refika, zevce. (ayrıca: hatun)
+JERSEI	(ad) jarse: Esnek olarak dokunmuş ipekli ve yünlü bir çeşit kumaş
+JERSEY	(ad) jarse: Esnek olarak dokunmuş ipekli ve yünlü bir çeşit kumaş
+JESUITA	(ad) cizvit: İsa Derneği denilen bir Hristiyan derneğinin üyesi
+JESUITAS	(jesuita sözcüğünün çekimi) (ad) cizvit: İsa Derneği denilen bir Hristiyan derneğinin üyesi
+JESUITICO	(sıfat) hileci: hile yapan, hile karıştıran, hilebaz, hilekâr
+JET	(ad) jet kelimesinin karşılığı: ⟪jet|JET⟫, tepkili uçak, jet motoru, jet makinesi
+JETAS	(ad) çoğul çekimi: jeta
+JIBARO	(sıfat) jibaro kelimesinin karşılığı: ⟪kırsal|KIRSAL⟫
+JIBAROS	(jibaro sözcüğünün çekimi) (sıfat) jibaro kelimesinin karşılığı: ⟪kırsal|KIRSAL⟫
+JIBIA	(ad) jibia kelimesinin karşılığı: mürekkep balığı
+JIBIAS	(jibia sözcüğünün çekimi) (ad) jibia kelimesinin karşılığı: mürekkep balığı
+JICARA	(ad) küçük: idrar.
+JICOTE	(ad) jicote kelimesinin karşılığı: ⟪bombus|BOMBUS⟫
+JICOTERA	(ad) ihtizaz: titreşme, titreşim (ayrıca: telaş)
+JIJEAR	(eylem) gülmek: biriyle alay etmek
+JIJEO	(ad) gülme: gülmek işi
+JILGUERO	(ad) jilguero kelimesinin karşılığı: sakakuşu, saka kuşu, ⟪saka|SAKA⟫
+JILGUEROS	(jilguero sözcüğünün çekimi) (ad) jilguero kelimesinin karşılığı: sakakuşu, saka kuşu, ⟪saka|SAKA⟫
+JIMIO	(ad) maymun: Küçük ila orta cüsseli, genellikle uzun kuyruklu, çoğunluğu ağaçta ve tropik ormanlarda yaşayan primat.
+JINDAMA	(ad) korku: Bir tehlike veya tehlike düşüncesi karşısında duyulan kaygı, üzüntü.
+JINETE	(ad) atlı: ata binmiş kimse, süvari (ayrıca: binici)
+JINETEAR	(eylem) koşmak: bir kişiyi arkadaşlık etmek üzere başkasının yanına vermek
+JINETES	(jinete sözcüğünün çekimi) (ad) atlı: ata binmiş kimse, süvari (ayrıca: binici)
+JIRA	(ad) piknik: Şişman, neşeli, şakacı, dışa dönük tip
+JIRAFA	(ad) zürafa: Afrika'da yaşayan çok uzun boylu ve boyunlu, ön ayakları yüksek otçul memeli
+JIRAFAS	(jirafa sözcüğünün çekimi) (ad) zürafa: Afrika'da yaşayan çok uzun boylu ve boyunlu, ön ayakları yüksek otçul memeli
+JIRON	(ad) şerit: Dar, uzun dokuma veya kumaş parçası.
+JIRONES	(jiron sözcüğünün çekimi) (ad) şerit: Dar, uzun dokuma veya kumaş parçası.
+JITOMATE	(ad) domates: Bu bitkinin yenilen kırmızı veya yeşil ürünü.
+JOCKEY	(ad) cokey: yarış atlarına binen, yetenekleri bu amaca göre geliştirilmiş kimse, jokey (ayrıca: jokey)
+JOCO	(ad) şempanze: Primatlardan, ayakları beş parmaklı, tek yavru doğuran, iyi tırmanıcı olan, kemik yapısı da insana çok benzeyen, ormanlarda yaşayan maymun türü. (Pan troglodytes)
+JOCOSA	(jocoso sözcüğünün çekimi) (sıfat) nükteli: nükte ile süslenmiş, nüktesi olan, esprili
+JOCOSAS	(jocoso sözcüğünün çekimi) (sıfat) nükteli: nükte ile süslenmiş, nüktesi olan, esprili
+JOCOSO	(sıfat) nükteli: nükte ile süslenmiş, nüktesi olan, esprili
+JOCOSOS	(jocoso sözcüğünün çekimi) (sıfat) nükteli: nükte ile süslenmiş, nüktesi olan, esprili
+JODA	(ad) şey: erkeklik organı. (ayrıca: nesne, eşya)
+JODIENDO	(ad) sikişme: sikişmek eyleminin mastarı
+JOJOTO	(ad) mısır: buğdaygillerden gövdesi boğumlu ve kalın, yaprakları şerit biçiminde, boyu yaklaşık 2 m olabilen, erkek çiçekleri tepede salkım olarak, dişi çiçekleri yaprakla gövde arasında koçan şeklinde olan kültür bitkisi ve mısır bitkisinin koçan üzerindeki taneli ürünü\n(sıfat) yeşil: yeşil rengi olan
+JONICA	(jonico sözcüğünün çekimi) (sıfat) iyonik: İyonlardan oluşan, iyonlarla ilgili
+JONICAS	(jonico sözcüğünün çekimi) (sıfat) iyonik: İyonlardan oluşan, iyonlarla ilgili
+JONICO	(sıfat) iyonik: İyonlardan oluşan, iyonlarla ilgili
+JORNADA	(ad) gün: gündüz
+JORNALERO	(ad) çalışan: çalışma işini yapan kişi
+JORNALEROS	(jornalero sözcüğünün çekimi) (ad) çalışan: çalışma işini yapan kişi
+JOROBA	(ad) sap: bitkinin dal, yaprak, çiçek gibi bölümlerini taşıyan, ağaçlarda odunlaşarak gövde durumunu alan bölüm (ayrıca: kütük, trank)
+JOROBAN	(jorobar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: kızmak, rahatsız etmek)
+JOROBAR	(eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: kızmak, rahatsız etmek)
+JOROBAS	(ad) çoğul çekimi: joroba
+JOROBE	(jorobar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: kızmak, rahatsız etmek)
+JOROBEN	(jorobar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: kızmak, rahatsız etmek)
+JOROBES	(jorobar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: kızmak, rahatsız etmek)
+JOROBO	(jorobar sözcüğünün çekimi) (eylem) bıktırmak: bıkmasına yol açmak, bıkkınlık vermek, usandırmak (ayrıca: kızmak, rahatsız etmek)
+JOTE	(ad) jote kelimesinin karşılığı: ⟪akbaba|AKBABA⟫
+JOTRABA	(ad) yapıt: eser.
+JOVEN	(sıfat) genç: Çocukluktan çıkmış yetişkin kimse. (ayrıca: civan)
+JOVENES	(ad) çoğul çekimi: joven
+JOVIALIDAD	(ad) şenlik: şen olma durumu, şetaret
+JOYA	(ad) joya kelimesinin karşılığı: ⟪takı|TAKI⟫\n(sıfat) joya kelimesinin karşılığı: ⟪güzel|GÜZEL⟫, arkadaş canlısı
+JOYAS	(ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü
+JOYERIA	(ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü
+JOYERIAS	(joyeria sözcüğünün çekimi) (ad) takı: çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin...
+JOYERO	(ad) kuyumcu: Değerli metal ve taşlardan bilezik, küpe vb. süs eşyası yapan veya satan kimse;mücevherci, sarraf, cevahirci (ayrıca: sarraf)
+JOYEROS	(joyero sözcüğünün çekimi) (ad) kuyumcu: Değerli metal ve taşlardan bilezik, küpe vb. süs eşyası yapan veya satan kimse;mücevherci, sarraf,...
+JOYSTICK	(ad) joystick kelimesinin karşılığı: kumanda kolu
+JUAGAR	(eylem) juagar kelimesinin karşılığı: ⟪çalkamak|ÇALKAMAK⟫
+JUBILA	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILABA	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILACION	(ad) emeklilik: emekli olma durumu, tekaütlük
+JUBILACIONES	(jubilacion sözcüğünün çekimi) (ad) emeklilik: emekli olma durumu, tekaütlük
+JUBILAMOS	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILAN	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILAR	(eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILARA	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILARAN	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILARAS	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILARE	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILARIA	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILARON	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILAS	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILASTE	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILE	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILEMOS	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILEN	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILEO	(ad) jübile: Katoliklerde, Roma'ya hacca gidenlerin, kilisece günahlarının tam olarak bağışlandığı yıl
+JUBILES	(jubilar sözcüğünün çekimi) (eylem) jubilar kelimesinin karşılığı: ⟪sevinmek|SEVİNMEK⟫
+JUBILO	(ad) jubilo kelimesinin karşılığı: ⟪haz|HAZ⟫, ⟪neşe|NEŞE⟫, ⟪sefa|SEFA⟫, ⟪sevinç|SEVİNÇ⟫
+JUCA	(ad) bira: arpa ile şerbetçi otunu mayalandırarak yapılan hafif alkollü içki, arpa suyu
+JUDIA	(ad) fasulye: Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus vulgaris)
+JUDIAS	(judia sözcüğünün çekimi) (ad) fasulye: Fasulyegillerden; barbunya, çalı, ayşekadın, horoz, dermason vb. türleri bulunan bitki. (Phaseolus...
+JUDIO	(sıfat) judio kelimesinin karşılığı: yahudı
+JUDIOS	(ad) çoğul çekimi: judío
+JUDO	(ad) judo kelimesinin karşılığı: ⟪judo|JUDO⟫
+JUECES	(ad) çoğul çekimi: juez
+JUEGA	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUEGAN	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUEGAS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUEGO	(ad) oyun: bilgisayar oyunu.
+JUEGOS	(ad) çoğul çekimi: juego
+JUEGUE	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUEGUEN	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUEGUES	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUERGA	(ad) parti: siyasî parti kavramının kısa şekli (ayrıca: hizb, zümre)
+JUERGAS	(juerga sözcüğünün çekimi) (ad) parti: siyasî parti kavramının kısa şekli (ayrıca: hizb, zümre)
+JUEVES	(ad) perşembe: haftanın çarşambadan sonra ve cumadan [[önce}} gelen dördüncü günü, cuma akşamı
+JUEZ	(ad) yargıç: Millet adına, yargı yetkisini kullanarak yasaya aykırı davranışlarda veya uyuşulmayan işlerde yasayı yerine getirmekle, adaleti gerçekleştirmekle görevli kimse. (ayrıca: hakem, hâkim)
+JUEZA	(juez sözcüğünün çekimi) (ad) yargıç: Millet adına, yargı yetkisini kullanarak yasaya aykırı davranışlarda veya uyuşulmayan işlerde yasayı...
+JUGA	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGABA	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGABAIS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGABAMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGABAN	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGABAS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGAD	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGADA	(ad) oyun: bilgisayar oyunu. (ayrıca: nöbet, sıra)
+JUGADAS	(jugado sözcüğünün çekimi) (sıfat) tecrübeli: tecrübesi olan, görmüş geçirmiş
+JUGADO	(sıfat) tecrübeli: tecrübesi olan, görmüş geçirmiş
+JUGADOR	(ad) oyuncu: herhangi bir oyunda oynayan kişi (ayrıca: kumarbaz)
+JUGADORA	(jugador sözcüğünün çekimi) (ad) oyuncu: herhangi bir oyunda oynayan kişi (ayrıca: kumarbaz)
+JUGADORAS	(jugador sözcüğünün çekimi) (ad) oyuncu: herhangi bir oyunda oynayan kişi (ayrıca: kumarbaz)
+JUGADORES	(ad) çoğul çekimi: jugador
+JUGADOS	(jugado sözcüğünün çekimi) (sıfat) tecrübeli: tecrübesi olan, görmüş geçirmiş
+JUGAIS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGAMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGAR	(eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARA	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARAIS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARAMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARAN	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARAS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARE	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGAREIS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGAREMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARES	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARIA	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARIAMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARIAN	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARIAS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGARON	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGAS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGASE	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGASEMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGASEN	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGASES	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGASTE	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGASTEIS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGO	(ad) madde: molekül (ayrıca: özdek)
+JUGOS	(jugo sözcüğünün çekimi) (ad) madde: molekül (ayrıca: özdek)
+JUGUE	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGUEIS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGUEMOS	(jugar sözcüğünün çekimi) (eylem) oynamak: vakit geçirme, eğlenme, oyalanma vb. amaçlarla bir şeyle uğraşmak
+JUGUETE	(ad) juguete kelimesinin karşılığı: oyun aracı
+JUGUETEA	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEABA	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEABAN	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEAMOS	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEAN	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEAR	(eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEAS	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEE	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEEN	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEES	(juguetear sözcüğünün çekimi) (eylem) çalmak: bir müziği dinlemeyi sağlayan aleti çalıştırmak (ayrıca: oynamak, temsil etmek)
+JUGUETEO	(ad) oyun: bilgisayar oyunu.
+JUGUETEOS	(jugueteo sözcüğünün çekimi) (ad) oyun: bilgisayar oyunu.
+JUGUETES	(juguete sözcüğünün çekimi) (ad) juguete kelimesinin karşılığı: oyun aracı
+JUICIO	(ad) yargı: kavrama, karşılaştırma, değerlendirme vb. yollara başvurularak kişi, durum veya nesnelerin eleştirici bir biçimde değerlendirilmesi, hüküm
+JUICIOS	(juicio sözcüğünün çekimi) (ad) yargı: kavrama, karşılaştırma, değerlendirme vb. yollara başvurularak kişi, durum veya nesnelerin eleştirici bir...
+JUICIOSA	(juicioso sözcüğünün çekimi) (sıfat) juicioso kelimesinin karşılığı: aklı başında
+JUICIOSAS	(juicioso sözcüğünün çekimi) (sıfat) juicioso kelimesinin karşılığı: aklı başında
+JUICIOSO	(sıfat) juicioso kelimesinin karşılığı: aklı başında
+JUICIOSOS	(juicioso sözcüğünün çekimi) (sıfat) juicioso kelimesinin karşılığı: aklı başında
+JULAI	(ad) mal: Bayağı, aşağılık, kötü kimse.
+JULAY	(sıfat) kuir: LGBT birey (ayrıca: kuir lubunya, queer)
+JULEPE	(ad) korku: Bir tehlike veya tehlike düşüncesi karşısında duyulan kaygı, üzüntü.
+JULIO	(ad) temmuz: yılın 31 gün süren yedinci ayı, orak ayı, yanarayı (ayrıca: orak ayı, yanarayı)
+JULIOS	(julio sözcüğünün çekimi) (ad) temmuz: yılın 31 gün süren yedinci ayı, orak ayı, yanarayı (ayrıca: orak ayı, yanarayı)
+JUMA	(ad) sarhoşluk: sarhoş olma durumu, esriklik, mestlik, sermestlik, sermesti, fazla miktarda alkollü içecek tüketiminden kaynaklanan durum
+JUMENTO	(ad) eşek: Atgillerden, uzun kulaklı binek ve hizmet hayvanı; merkep, karakaçan, uzun kulaklı (Equus asinus).
+JUNCAL	(sıfat) yakışıklı: güzel, gösterişli
+JUNCO	(ad) junco kelimesinin karşılığı: ⟪gücü|GÜCÜ⟫, ⟪akın|AKIN⟫, ⟪telaş|TELAŞ⟫
+JUNCOS	(junco sözcüğünün çekimi) (ad) junco kelimesinin karşılığı: ⟪gücü|GÜCÜ⟫, ⟪akın|AKIN⟫, ⟪telaş|TELAŞ⟫
+JUNGLA	(ad) cengel: balta girmemiş orman
+JUNGLAS	(jungla sözcüğünün çekimi) (ad) cengel: balta girmemiş orman
+JUNIO	(ad) haziran: yılın altıncı ayı
+JUNIOR	(ad) junior kelimesinin karşılığı: acemi çaylak
+JUNIOS	(junio sözcüğünün çekimi) (ad) haziran: yılın altıncı ayı
+JUNTA	(ad) cunta: Bir ülkede yönetime el koyan kimselerden oluşan kurul
+JUNTABA	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTABAMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTABAN	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTABAS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAD	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAIS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAMENTE	(zarf) birlikte: Beraberlik veya vasıta ilişkisi kuran ve -le birlikte biçiminde kullanılan bir söz. (ayrıca: beraber, bir arada)
+JUNTAMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAN	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAR	(eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARA	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARAMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARAN	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARAS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARE	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAREMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARIA	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARIAMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARIAN	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARIAS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTARON	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTAS	(junta sözcüğünün çekimi) (ad) cunta: Bir ülkede yönetime el koyan kimselerden oluşan kurul
+JUNTASE	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTASEMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTASEN	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTASTE	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTASTEIS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTE	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTEIS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTEMOS	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTEN	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTES	(juntar sözcüğünün çekimi) (eylem) birleşmek: buluşmak, bir araya gelmek
+JUNTO	(zarf) birlikte: Bir arada, beraberce.\n(sıfat) birlikte: Bir arada, beraberce.
+JUNTOS	(junto sözcüğünün çekimi) (zarf) birlikte: Bir arada, beraberce.
+JUNTURA	(ad) eklem: vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer (ayrıca: armuz, boğum)
+JUNTURAS	(juntura sözcüğünün çekimi) (ad) eklem: vücut kemiklerinin uç uca veya kenar kenara gelip birleştiği yer (ayrıca: armuz, boğum)
+JURA	(ad) sövgü: Sövmek için söylenen söz, küfür (ayrıca: ant, yemin)
+JURABA	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURABAN	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURABAS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURAD	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURADA	(jurado sözcüğünün çekimi) (ad) hakem: tarafların aralarındaki anlaşmazlığı çözmek için yetkili olarak seçtikleri ve üzerinde anlaştıkları kişi;...
+JURADAS	(jurado sözcüğünün çekimi) (ad) hakem: tarafların aralarındaki anlaşmazlığı çözmek için yetkili olarak seçtikleri ve üzerinde anlaştıkları kişi;...
+JURADO	(ad) hakem: tarafların aralarındaki anlaşmazlığı çözmek için yetkili olarak seçtikleri ve üzerinde anlaştıkları kişi; yargıcı (ayrıca: hâkim, yargıç)
+JURADOS	(jurado sözcüğünün çekimi) (ad) hakem: tarafların aralarındaki anlaşmazlığı çözmek için yetkili olarak seçtikleri ve üzerinde anlaştıkları kişi;...
+JURAIS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURAMENTO	(ad) ant: kendi kendine söz verme, ahit (ayrıca: yemin)
+JURAMENTOS	(juramento sözcüğünün çekimi) (ad) ant: kendi kendine söz verme, ahit (ayrıca: yemin)
+JURAMOS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURAN	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURAR	(eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARA	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARAN	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARAS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARE	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURAREMOS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARIA	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARIAIS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARIAN	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARIAS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURARON	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURAS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURASE	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURASTE	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURASTEIS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURE	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JUREIS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JUREMOS	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JUREN	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURES	(jurar sözcüğünün çekimi) (eylem) sövmek: onur kırıcı, çoğu basmakalıp kaba sözler söylemek, küfretmek (ayrıca: ant içmek, yemin etmek)
+JURIDICA	(juridico sözcüğünün çekimi) (sıfat) türel: adalet ile ilgili olan, hukuki, adli (ayrıca: hukuki, adli)
+JURIDICAMENTE	(zarf) kanunen: yasa gereğince, yasal olarak
+JURIDICAS	(juridico sözcüğünün çekimi) (sıfat) türel: adalet ile ilgili olan, hukuki, adli (ayrıca: hukuki, adli)
+JURIDICO	(sıfat) türel: adalet ile ilgili olan, hukuki, adli (ayrıca: hukuki, adli)
+JURIDICOS	(juridico sözcüğünün çekimi) (sıfat) türel: adalet ile ilgili olan, hukuki, adli (ayrıca: hukuki, adli)
+JURISCONSULTO	(ad) hukukçu: hukuku meslek edinen, hukukla uğraşan kimse
+JURISDICCION	(ad) jurisdiccion kelimesinin karşılığı: yönetim yeri
+JURISDICCIONES	(jurisdiccion sözcüğünün çekimi) (ad) jurisdiccion kelimesinin karşılığı: yönetim yeri
+JURISTA	(ad) hukukçu: hukuku meslek edinen, hukukla uğraşan kimse
+JURO	(ad) sahiplik: sahip olma hâli
+JUSTAMENTE	(zarf) kesin olarak: Kesinlikle. (ayrıca: katiyetle, kesinlikle)
+JUSTAS	(ad) çoğul çekimi: justa
+JUSTICIA	(ad) hak: adaletin, hukukun gerektirdiği veya birine ayırdığı şey, kazanç (ayrıca: adalet, türe)
+JUSTIFICACION	(ad) gerekçe: Mahkeme kararlarının dayandığı kanuni ve hukuki sebepler.
+JUSTIFICACIONES	(justificacion sözcüğünün çekimi) (ad) gerekçe: Mahkeme kararlarının dayandığı kanuni ve hukuki sebepler.
+JUSTIFICANTE	(ad) gerekçe: Mahkeme kararlarının dayandığı kanuni ve hukuki sebepler.
+JUSTIFICANTES	(justificante sözcüğünün çekimi) (ad) gerekçe: Mahkeme kararlarının dayandığı kanuni ve hukuki sebepler.
+JUSTO	(zarf) yalnızca: belli durumun, şartın veya işin dışına çıkmaksızın, yalnız, ancak, tek, sırf, salt, sadece (ayrıca: alt tarafı, açık ara)
+JUSTOS	(justo sözcüğünün çekimi) (zarf) yalnızca: belli durumun, şartın veya işin dışına çıkmaksızın, yalnız, ancak, tek, sırf, salt, sadece (ayrıca:...
+JUVENTUD	(ad) ergenlik: cinsî organların fizyolojik gelişmesiyle başlayan, büluğa ermişlikle yetişkinlik arasındaki dönem (ayrıca: yeniyetmelik)
+JUVENTUDES	(juventud sözcüğünün çekimi) (ad) ergenlik: cinsî organların fizyolojik gelişmesiyle başlayan, büluğa ermişlikle yetişkinlik arasındaki dönem...
+JUZGA	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGABA	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGABAN	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGABAS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAD	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGADA	(juzgado sözcüğünün çekimi) (ad) juzgado kelimesinin karşılığı: ⟪kort|KORT⟫, ⟪avlu|AVLU⟫
+JUZGADAS	(juzgado sözcüğünün çekimi) (ad) juzgado kelimesinin karşılığı: ⟪kort|KORT⟫, ⟪avlu|AVLU⟫
+JUZGADO	(ad) juzgado kelimesinin karşılığı: ⟪kort|KORT⟫, ⟪avlu|AVLU⟫
+JUZGADOS	(juzgado sözcüğünün çekimi) (ad) juzgado kelimesinin karşılığı: ⟪kort|KORT⟫, ⟪avlu|AVLU⟫
+JUZGAIS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAMOS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAN	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAR	(eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARA	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARAMOS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARAN	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARAS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARE	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAREIS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAREMOS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARIA	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARIAN	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARIAS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGARON	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGAS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGASE	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGASES	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGASTE	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGO	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGUE	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGUEIS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGUEMOS	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGUEN	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek
+JUZGUES	(juzgar sözcüğünün çekimi) (eylem) yargılamak: (mecaz) herhangi bir kimse, şey, konu v.s.'yle ilgili olumlu veya olumsuz görüş belirtmek

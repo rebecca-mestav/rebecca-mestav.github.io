@@ -1,0 +1,2786 @@
+RABBIT	(名詞) うさぎ: 哺乳類の一。ウサギ目ウサギ科に属する草食動物。耳が長く、体長は一般的に60センチ程度の小型。野ウサギ類と穴ウサギ類に分類され、穴ウサギ類は家畜化されている。肉は食用にもなる。\n(動詞) rabbitの訳: うさぎを狩る
+RABBITED	(rabbitの変化形) (名詞) うさぎ: 哺乳類の一。ウサギ目ウサギ科に属する草食動物。耳が長く、体長は一般的に60センチ程度の小型。野ウサギ類と穴ウサギ類に分類され、穴ウサギ類は家畜化されている。肉は食用にもなる。
+RABBITING	(rabbitの変化形) (名詞) うさぎ: 哺乳類の一。ウサギ目ウサギ科に属する草食動物。耳が長く、体長は一般的に60センチ程度の小型。野ウサギ類と穴ウサギ類に分類され、穴ウサギ類は家畜化されている。肉は食用にもなる。
+RABBITS	(名詞) rabbitの複数形: うさぎ:...
+RABBLE	(名詞) rabbleの訳: ⟪やじうま⟫
+RABBLED	(rabbleの変化形) (名詞) rabbleの訳: ⟪やじうま⟫
+RABBLES	(rabbleの変化形) (名詞) rabbleの訳: ⟪やじうま⟫
+RABBLING	(rabbleの変化形) (名詞) rabbleの訳: ⟪やじうま⟫
+RABIES	(名詞) 狂犬病: 狂犬病ウイルスによる人獣共通の感染症。発病すると、唾液の過剰分泌や食欲不振、不眠などの症状を呈する。また、風や光などの刺激に過敏に反応し、特に水を見たり飲んだりすると喉の筋肉が痙攣する。発病した場合の致死率はほぼ100パーセント。 (ほかに: 恐水病)
+RACCOON	(名詞) raccoonの訳: ⟪あらいぐま⟫
+RACCOONS	(名詞) raccoonの複数形: ⟪あらいぐま⟫
+RACE	(名詞) 競走。競馬、競輪など。\n(動詞) 競走する: 走る速さを争うこと。 (ほかに: 競争する)
+RACECOURSE	(名詞) racecourseの訳: 競走路
+RACECOURSES	(名詞) racecourseの複数形: 競走路
+RACED	(動詞) "race" の過去形・過去分詞: 競走。競馬、競輪など。
+RACEHORSE	(名詞) 競走馬: 競馬に出て走る馬。
+RACEHORSES	(racehorseの変化形) (名詞) 競走馬: 競馬に出て走る馬。
+RACER	(名詞) レーサー: 1.に乗る競技者。 (ほかに: 競技者)
+RACERS	(名詞) racerの複数形: レーサー: 1.に乗る競技者。 (ほかに: 競技者)
+RACES	(名詞) "race" の複数形: 競走。競馬、競輪など。\n(動詞) "race" の現在第三人称単数形。
+RACETRACK	(名詞) 競馬場: 競馬が行なわれる走路、及び観覧などのための施設全体の総称。
+RACETRACKS	(名詞) racetrackの複数形: 競馬場: 競馬が行なわれる走路、及び観覧などのための施設全体の総称。
+RACHIS	(名詞) 軸。[18世紀より]
+RACHISES	(名詞) rachisの複数形: 軸。[18世紀より]
+RACIAL	(形容詞) 人種的な: 人種に関すること。また、そのさま。 (ほかに: 人種の)
+RACING	(名詞) 競走: 走る速さを争うこと。\n(動詞) raceの動名詞又は現在分詞: 競走。競馬、競輪など。
+RACINGS	(名詞) racingの複数形: 競走: 走る速さを争うこと。
+RACISM	(名詞) 人種差別: 人種の相違により社会的、法的な事柄について差別すること。
+RACISMS	(名詞) racismの複数形: 人種差別: 人種の相違により社会的、法的な事柄について差別すること。
+RACIST	(名詞) 人種による差別をする人。
+RACISTS	(racistの変化形) (名詞) 人種による差別をする人。
+RACK	(名詞) ラック。棚。〜置き。〜掛け。\n(動詞) ラックに入れる。ラックに置く。
+RACKED	(動詞) rackの過去形・過去分詞: ラック。棚。〜置き。〜掛け。
+RACKING	(rackの変化形) (名詞) ラック。棚。〜置き。〜掛け。
+RACKINGLY	(rackの変化形) (名詞) ラック。棚。〜置き。〜掛け。
+RACKS	(名詞) rackの複数形: ラック。棚。〜置き。〜掛け。\n(動詞) rackの直説法現在第三人称単数形: ラック。棚。〜置き。〜掛け。
+RADAR	(名詞) レーダー: 電波（マイクロ波）を目標物に発射し、その反射してきた電波を受信して目標物の大きさや方向、位置などを探知するための装置。 (ほかに: 電波探知機)
+RADARS	(radarの変化形) (名詞) レーダー: 電波（マイクロ波）を目標物に発射し、その反射してきた電波を受信して目標物の大きさや方向、位置などを探知するための装置。 (ほかに: 電波探知機)
+RADIANCE	(名詞) 輝き。光輝。
+RADIANCES	(名詞) radianceの複数形: 輝き。光輝。
+RADIANT	(形容詞) 熱や光を発する。輝く。\n(名詞) radiantの訳: 放射源
+RADIANTS	(名詞) radiantの複数形: 熱や光を発する。輝く。
+RADIATE	(動詞) 放射状に広がる。\n(形容詞) radiateの訳: 放射状の
+RADIATED	(動詞) radiateの過去形・過去分詞: 放射状に広がる。\n(形容詞) radiatedの訳: 放射された
+RADIATES	(動詞) radiateの直説法現在第三人称単数形: 放射状に広がる。
+RADIATING	(動詞) radiateの現在分詞: 放射状に広がる。
+RADIATION	(名詞) 輻射: 物体から電磁波や熱が周囲に放出される現象。またその伝達のエネルギー。放射。 (ほかに: 放射)
+RADIATIONS	(名詞) radiationの複数形: 輻射: 物体から電磁波や熱が周囲に放出される現象。またその伝達のエネルギー。放射。 (ほかに: 放射)
+RADICAL	(形容詞) 根の。根に関する。\n(名詞) （数学）累乗根。冪根。
+RADICALLY	(副詞) そもそも。根本的に。
+RADICALS	(radicalの変化形) (形容詞) 根の。根に関する。
+RADICES	(radixの変化形) (名詞) radixの訳: 根
+RADII	(名詞) radiusの複数形: 橈骨
+RADIO	(名詞) 無線通信: 電波を使用して行う通信の総称。\n(形容詞) radioの訳: 無線の
+RADIOACTIVE	(形容詞) radioactiveの訳: 放射性の\n(名詞) 放射性物質: 放射能を持つ物質。
+RADIOACTIVITIES	(radioactivityの変化形) (名詞) 放射能: （誤用・俗用）放射線。放射性物質。
+RADIOACTIVITY	(名詞) 放射能: （誤用・俗用）放射線。放射性物質。
+RADIOED	(動詞) "radio" の過去形・過去分詞: 無線通信: 電波を使用して行う通信の総称。
+RADIOGRAPH	(名詞) X線写真。レントゲン写真。\n(動詞) X線写真を撮る。レントゲン撮影する。
+RADIOGRAPHED	(動詞) radiographの過去形・過去分詞: X線写真。レントゲン写真。
+RADIOGRAPHING	(動詞) radiographの現在分詞: X線写真。レントゲン写真。
+RADIOGRAPHS	(名詞) radiographの複数形: X線写真。レントゲン写真。\n(動詞) radiographの直説法現在第三人称単数形: X線写真。レントゲン写真。
+RADIOING	(動詞) "radio" の動名詞又は現在分詞: 無線通信: 電波を使用して行う通信の総称。
+RADIOISOTOPE	(名詞) 放射性同位体: 構造が不安定なため時間とともに放射性崩壊していく核種を原子核とする同位体。ラジオアイソトープ。狭義では、安定同位体を持つ元素の同位体のうち不安定なものを指す。
+RADIOISOTOPES	(radioisotopeの変化形) (名詞) 放射性同位体: 構造が不安定なため時間とともに放射性崩壊していく核種を原子核とする同位体。ラジオアイソトープ。狭義では、安定同位体を持つ元素の同位体のうち不安定なものを指す。
+RADIOS	(名詞) "radio" の複数形: 無線通信: 電波を使用して行う通信の総称。\n(動詞) "radio" の現在第三人称単数形。
+RADISH	(名詞) 大根: (だいこん) 青首大根のこと。 (ほかに: ダイコン, ハツカダイコン)
+RADISHES	(radishの変化形) (名詞) 大根: (だいこん) 青首大根のこと。 (ほかに: ダイコン, ハツカダイコン)
+RADIUM	(名詞) radiumの訳: ラジウム
+RADIUMS	(radiumの変化形) (名詞) radiumの訳: ラジウム
+RADIUS	(名詞) radiusの訳: 橈骨
+RADIUSES	(radiusの変化形) (名詞) radiusの訳: 橈骨
+RADIX	(名詞) radixの訳: 根
+RADIXES	(radixの変化形) (名詞) radixの訳: 根
+RADON	(名詞) radonの訳: ラドン
+RADONS	(radonの変化形) (名詞) radonの訳: ラドン
+RAFFLESIA	(名詞) ラフレシア: 直径一メートルほどの世界最大の花を咲かせる植物。東南アジアのジャングルなどに生息し、独特の匂いを放つ。
+RAFFLESIAS	(名詞) rafflesiaの複数形: ラフレシア。
+RAFT	(名詞) いかだ: 木材などを並べて、水に浮かべたもの。河川などで木材自体の運搬方法、または簡素な舟として使う。 (ほかに: ラフト)
+RAFTED	(raftの変化形) (名詞) いかだ: 木材などを並べて、水に浮かべたもの。河川などで木材自体の運搬方法、または簡素な舟として使う。 (ほかに: ラフト)
+RAFTING	(名詞) ラフティング: ラフトを用いて川下りを行うウォータースポーツ。
+RAFTS	(raftの変化形) (名詞) いかだ: 木材などを並べて、水に浮かべたもの。河川などで木材自体の運搬方法、または簡素な舟として使う。 (ほかに: ラフト)
+RAG	(名詞) かけら: 物の欠けた一部分。
+RAGE	(名詞) 激怒: 激しく怒ること。\n(動詞) rageの訳: 激怒する
+RAGED	(動詞) "rage" の過去形・過去分詞: 激怒: 激しく怒ること。
+RAGES	(名詞) rageの複数形: 激怒: 激しく怒ること。\n(動詞) rageの直説法現在第三人称単数形: 激怒: 激しく怒ること。
+RAGGED	(形容詞) raggedの訳: ⟪みすぼらしい⟫
+RAGGEDER	(ragの変化形) (名詞) かけら: 物の欠けた一部分。
+RAGGEDEST	(ragの変化形) (名詞) かけら: 物の欠けた一部分。
+RAGGING	(ragの変化形) (名詞) かけら: 物の欠けた一部分。
+RAGING	(動詞) rageの動名詞又は現在分詞: 激怒: 激しく怒ること。\n(形容詞) 怒り狂う。激怒した。
+RAGINGLY	(rageの変化形) (名詞) 激怒: 激しく怒ること。
+RAGS	(ragの変化形) (名詞) かけら: 物の欠けた一部分。
+RAID	(名詞) raidの訳: 侵略
+RAIDED	(raidの変化形) (名詞) raidの訳: 侵略
+RAIDING	(raidの変化形) (名詞) raidの訳: 侵略
+RAIDS	(raidの変化形) (名詞) raidの訳: 侵略
+RAIL	(名詞) 手摺。横木。\n(動詞) 鉄道で旅行する。
+RAILED	(動詞) railの過去形・過去分詞: 手摺。横木。\n(形容詞) railedの訳: 柵で囲まれた
+RAILING	(名詞) 手摺。柵。\n(動詞) railの現在分詞: 手摺。横木。
+RAILINGS	(名詞) railingの複数形: 手摺。柵。
+RAILLERIES	(名詞) "raillery" の複数形
+RAILROAD	(名詞) 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。\n(動詞) 鉄道で輸送する。
+RAILROADED	(動詞) "railroad" の過去形・過去分詞: 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。
+RAILROADER	(名詞) 鉄道の会社や業界で働く人。鉄道員。
+RAILROADERS	(名詞) railroader の複数形: 鉄道の会社や業界で働く人。鉄道員。
+RAILROADING	(動詞) "railroad" の動名詞又は現在分詞: 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。
+RAILROADINGS	(railroadの変化形) (名詞) 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。
+RAILROADS	(名詞) "railroad" の複数形: 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。\n(動詞) "railroad" の現在第三人称単数形。
+RAILS	(名詞) railの複数形: 手摺。横木。\n(動詞) railの直説法現在第三人称単数形: 手摺。横木。
+RAILWAY	(名詞) 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。
+RAILWAYS	(名詞) railwayの複数形: 鉄道: 車両がルート上に設置された軌条（レール）などに沿って走行する交通機関。
+RAIMENT	(名詞) 衣服: 防寒、制汗、日除け、害虫除け又は裸体を隠す目的等で身につける主に布でできている製品。
+RAIMENTS	(名詞) raimentの複数形: 衣服: 防寒、制汗、日除け、害虫除け又は裸体を隠す目的等で身につける主に布でできている製品。
+RAIN	(名詞) 雨: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。\n(動詞) rainの訳: 雨が降る
+RAINBOW	(名詞) 虹: （にじ）アーチ状に掛かる光の帯。多くは雨がやんだ後に天空に現れるものを指すが、雨上がりに限らず滝やスプリンクラーの付近などでしばしば見られる。太陽光が大気中の水滴によって屈折・反射されるとき、太陽光に含まれる各波長の光の屈折率の違いによって作られる。\n(形容詞) rainbowの訳: 虹色に輝く
+RAINBOWS	(名詞) rainbowの複数形: 虹:...
+RAINCOAT	(名詞) レインコート: 雨合羽。雨外套。
+RAINCOATS	(raincoatの変化形) (名詞) レインコート: 雨合羽。雨外套。
+RAINDROP	(名詞) raindropの訳: 雨垂れ, 雨粒
+RAINDROPS	(raindropの変化形) (名詞) raindropの訳: 雨垂れ, 雨粒
+RAINED	(動詞) "rain" の過去形・過去分詞: 雨: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。
+RAINFALL	(名詞) 降雨: 雨が降ること。
+RAINFALLS	(名詞) rainfallの複数形: 降雨: 雨が降ること。
+RAINIER	(形容詞) "rainy" の比較級: 雨の: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。 (ほかに: 雨の多い)
+RAINIEST	(形容詞) "rainy" の最上級: 雨の: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。 (ほかに: 雨の多い)
+RAINILY	(rainyの変化形) (形容詞) 雨の: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。 (ほかに: 雨の多い)
+RAINING	(動詞) "rain" の動名詞又は現在分詞: 雨: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。
+RAINPROOF	(形容詞) rainproofの訳: 雨よけの
+RAINS	(名詞) "rain" の複数形: 雨: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。\n(動詞) "rain" の現在第三人称単数形。
+RAINSTORM	(名詞) 暴風雨: 激しい風雨。
+RAINSTORMS	(rainstormの変化形) (名詞) 暴風雨: 激しい風雨。
+RAINWATER	(名詞) 雨水: 二十四節気の一つ。雪や氷が解け雨や水になるころ。正月中。
+RAINWATERS	(rainwaterの変化形) (名詞) 雨水: 二十四節気の一つ。雪や氷が解け雨や水になるころ。正月中。
+RAINY	(形容詞) 雨の: （あめ）広範囲にわたって空から水が滴状になって落ちてくる天候又はその落ちてくる水滴。レイン。 (ほかに: 雨の多い)
+RAISE	(動詞) 上げる: （あげる）価格や価値を高める。\n(名詞) raiseの訳: ⟪増加|ぞうか⟫
+RAISED	(動詞) "raise" の過去形・過去分詞形: 上げる: （あげる）価格や価値を高める。
+RAISES	(名詞) "raise" の複数形: 上げる: （あげる）価格や価値を高める。\n(動詞) "raise" の三人称単数現在形: 上げる: （あげる）価格や価値を高める。
+RAISIN	(名詞) raisinの訳: 干し葡萄\n(動詞) raisinの訳: ⟪乾く|かわく⟫
+RAISING	(動詞) "raise" の動名詞形又は現在分詞形: 上げる: （あげる）価格や価値を高める。
+RAISINGS	(raiseの変化形) (動詞) 上げる: （あげる）価格や価値を高める。
+RAISINS	(名詞) raisinの複数形: 干し葡萄。\n(動詞) raisin の直説法第三人称単数現在: 干し葡萄。
+RAKE	(名詞) rakeの訳: 熊手, レーキ\n(動詞) rakeの訳: 熊手で搔く
+RAKED	(形容詞) rakedの訳: 傾斜した\n(動詞) rakeの過去形・過去分詞: 熊手, レーキ
+RAKEES	(rakeの変化形) (名詞) rakeの訳: 熊手, レーキ
+RAKEHELL	(形容動詞) rakehellの訳: 放蕩
+RAKEHELLS	(rakehellの変化形) (形容動詞) rakehellの訳: 放蕩
+RAKEHELLY	(形容動詞) 放蕩: 不品行で放埓なさま。
+RAKES	(名詞) rakeの複数形: 熊手, レーキ\n(動詞) rakeの直説法現在第三人称単数形: 熊手, レーキ
+RAKING	(rakeの変化形) (名詞) rakeの訳: 熊手, レーキ
+RAKISH	(形容詞) 粋な: （いき）身なりや振る舞いが洗練されていて、格好よいこと。また、そのさま。 (ほかに: 洒落た)
+RAKISHLY	(副詞) 軽快に: （動作が） 軽くて速いこと。 (ほかに: 粋に)
+RAKISHNESS	(名詞) rakishnessの訳: 粋, 軽快
+RAKISHNESSES	(rakishnessの変化形) (名詞) rakishnessの訳: 粋, 軽快
+RALE	(名詞) raleの訳: 水泡音, 囉音
+RALES	(名詞) raleの複数形: 水泡音, 囉音
+RALLIED	(動詞) "rally" の過去形・過去分詞: 集める: 集合させる。
+RALLIES	(名詞) "rally" の複数形: 集める: 集合させる。\n(動詞) "rally" の現在第三人称単数形。
+RALLY	(動詞) 集める: 集合させる。\n(名詞) rallyの訳: 集会, 大会
+RALLYES	(rallyの変化形) (動詞) 集める: 集合させる。
+RALLYING	(動詞) "rally" の動名詞又は現在分詞: 集める: 集合させる。
+RALLYINGS	(rallyの変化形) (動詞) 集める: 集合させる。
+RAM	(名詞) ramの訳: ⟪ひつじ⟫, ⟪ヒツジ|ひつじ⟫, ⟪おひつじ⟫
+RAMBUTAN	(名詞) rambutanの訳: ランブータン
+RAMBUTANS	(rambutanの変化形) (名詞) rambutanの訳: ランブータン
+RAMI	(ramusの変化形) (名詞) ramusの訳: 枝
+RAMIFICATION	(名詞) ramificationの訳: 波及効果
+RAMIFICATIONS	(ramificationの変化形) (名詞) ramificationの訳: 波及効果
+RAMMED	(ramの変化形) (名詞) ramの訳: ⟪ひつじ⟫, ⟪ヒツジ|ひつじ⟫, ⟪おひつじ⟫
+RAMMING	(ramの変化形) (名詞) ramの訳: ⟪ひつじ⟫, ⟪ヒツジ|ひつじ⟫, ⟪おひつじ⟫
+RAMPAGE	(名詞) 大暴れ: 大いに暴れること。\n(動詞) rampageの訳: ⟪暴れ回る|あばれまわる⟫
+RAMPAGED	(動詞) rampageの過去形・過去分詞: 大暴れ: 大いに暴れること。
+RAMPAGER	(rampageの変化形) (名詞) 大暴れ: 大いに暴れること。
+RAMPAGES	(名詞) rampageの複数形: 大暴れ: 大いに暴れること。\n(動詞) rampageの直説法現在第三人称単数形: 大暴れ: 大いに暴れること。
+RAMPAGING	(動詞) rampageの現在分詞: 大暴れ: 大いに暴れること。\n(名詞) rampagingの訳: 暴れ回ること
+RAMPANT	(動詞) rampantの訳: ⟪はびこる⟫
+RAMPART	(名詞) 城壁。塁壁。\n(動詞) rampartの訳: 城壁で囲む
+RAMPARTED	(rampartの変化形) (名詞) 城壁。塁壁。
+RAMPARTING	(動詞) rampartの現在分詞: 城壁。塁壁。
+RAMPARTS	(名詞) rampartの複数形: 城壁。塁壁。\n(動詞) rampartの直説法現在第三人称単数形: 城壁。塁壁。
+RAMS	(ramの変化形) (名詞) ramの訳: ⟪ひつじ⟫, ⟪ヒツジ|ひつじ⟫, ⟪おひつじ⟫
+RAMUS	(名詞) ramusの訳: 枝
+RAN	(動詞) run の過去形: 走る。cf.walk.\n(名詞) 紡績用巻取機にかけられた糸巻き。
+RANCID	(形容詞) rancidの訳: 腐臭のする
+RANCIDITIES	(名詞) rancidityの複数形: 酸敗臭。腐ったような味。
+RANCIDITY	(名詞) 酸敗臭。腐ったような味。
+RANCOR	(名詞) 怨恨。憎悪。
+RANCORED	(rancorの変化形) (名詞) 怨恨。憎悪。
+RANCOROUS	(形容詞) 恨みのある。憎悪の。
+RANCORS	(名詞) rancorの複数形: 怨恨。憎悪。
+RANDOM	(名詞) うろつき。放浪。\n(形容詞) 無作為の。でたらめの。
+RANDOMLY	(副詞) ランダムに。無作為に。
+RANDOMNESS	(名詞) randomnessの訳: でたらめさ
+RANDOMNESSES	(名詞) randomnessの複数形: でたらめさ
+RANDOMS	(名詞) randomの複数形: うろつき。放浪。
+RANEE	(名詞) 王妃: 日本の皇族のうち、王の妃のこと。
+RANEES	(raneeの変化形) (名詞) 王妃: 日本の皇族のうち、王の妃のこと。
+RANG	(動詞) ring の過去形: 輪。環。
+RANGE	(名詞) rangeの訳: ⟪山脈|さんみゃく⟫, 山並み\n(動詞) うろつく、歩き回る。[15世紀より]
+RANGED	(動詞) rangeの過去形・過去分詞: ⟪山脈|さんみゃく⟫, 山並み\n(形容詞) rangedの訳: 一列に並んだ
+RANGER	(名詞) 森林警備隊員。森林保護官。
+RANGERS	(rangerの変化形) (名詞) 森林警備隊員。森林保護官。
+RANGES	(名詞) rangeの複数形: ⟪山脈|さんみゃく⟫, 山並み\n(動詞) rangeの直説法現在第三人称単数形: ⟪山脈|さんみゃく⟫, 山並み
+RANGING	(動詞) rangeの現在分詞: ⟪山脈|さんみゃく⟫, 山並み\n(名詞) rangingの訳: 測距
+RANK	(形容詞) はなはだしい。強烈な。\n(名詞) 列。特に前進方向から見て横に展開される列（縦に展開される列はrow）。
+RANKED	(動詞) "rank" の過去形・過去分詞: はなはだしい。強烈な。
+RANKER	(形容詞) "rank" の比較級: はなはだしい。強烈な。\n(名詞) rankする人。
+RANKERS	(名詞) "ranker" の複数形: "rank" の比較級。
+RANKEST	(形容詞) "rank" の最上級: はなはだしい。強烈な。
+RANKING	(動詞) "rank" の動名詞又は現在分詞: はなはだしい。強烈な。
+RANKINGS	(rankの変化形) (形容詞) はなはだしい。強烈な。
+RANKLE	(名詞) rankleの訳: 化膿\n(動詞) いらいらさせる。むしゃくしゃさせる。
+RANKLED	(動詞) rankleの過去形・過去分詞: 化膿
+RANKLES	(動詞) rankleの直説法現在第三人称単数形: 化膿\n(名詞) rankleの複数形: 化膿
+RANKLING	(動詞) rankleの現在分詞: 化膿\n(名詞) いらいら。むしゃくしゃ。
+RANKS	(名詞) "rank" の複数形: はなはだしい。強烈な。
+RANSACK	(動詞) （場所を）乱暴にくまなく探す。手荒に漁る。
+RANSACKED	(動詞) "ransack" の過去形または過去分詞形: （場所を）乱暴にくまなく探す。手荒に漁る。
+RANSACKER	(ransackの変化形) (動詞) （場所を）乱暴にくまなく探す。手荒に漁る。
+RANSACKING	(動詞) "ransack" の動名詞形又は現在分詞形: （場所を）乱暴にくまなく探す。手荒に漁る。
+RANSACKS	(動詞) "ransack" の三人称単数現在形: （場所を）乱暴にくまなく探す。手荒に漁る。
+RANSOM	(名詞) 身代金: 人質と引き替えに要求する金銭。\n(動詞) 身代金を支払って解放させる。
+RANSOMED	(動詞) ransomの過去形・過去分詞: 身代金: 人質と引き替えに要求する金銭。
+RANSOMING	(動詞) ransomの現在分詞: 身代金: 人質と引き替えに要求する金銭。
+RANSOMS	(動詞) ransomの直説法現在第三人称単数形: 身代金: 人質と引き替えに要求する金銭。\n(名詞) ransomの複数形: 身代金: 人質と引き替えに要求する金銭。
+RANT	(動詞) 大声で喚く。怒鳴り散らす。声を張り上げる。\n(名詞) 大声で喚くこと。怒号。
+RANTED	(動詞) rantの過去形・過去分詞: 大声で喚く。怒鳴り散らす。声を張り上げる。
+RANTING	(動詞) rantの現在分詞: 大声で喚く。怒鳴り散らす。声を張り上げる。\n(名詞) 喚き散らすこと。
+RANTS	(名詞) rantの複数形: 大声で喚く。怒鳴り散らす。声を張り上げる。\n(動詞) rantの直説法現在第三人称単数形: 大声で喚く。怒鳴り散らす。声を張り上げる。
+RAPACITIES	(rapacityの変化形) (名詞) rapacityの訳: 強奪
+RAPACITY	(名詞) rapacityの訳: 強奪
+RAPESEED	(名詞) 菜の花: 油菜の花。 (ほかに: あぶらな)
+RAPESEEDS	(rapeseedの変化形) (名詞) 菜の花: 油菜の花。 (ほかに: あぶらな)
+RAPID	(形容詞) 速い: ある時間より前のこと。\n(名詞) rapidの訳: 急流
+RAPIDER	(rapidの変化形) (形容詞) 速い: ある時間より前のこと。
+RAPIDEST	(rapidの変化形) (形容詞) 速い: ある時間より前のこと。
+RAPIDITIES	(名詞) rapidityの複数形: 素早さ
+RAPIDITY	(名詞) rapidityの訳: 素早さ
+RAPIDLY	(副詞) rapidlyの訳: ⟪速く|はやく⟫
+RAPIDNESS	(名詞) 敏速。敏捷。
+RAPIDNESSES	(rapidnessの変化形) (名詞) 敏速。敏捷。
+RAPIDS	(名詞) rapidの複数形: 速い: ある時間より前のこと。
+RAPIER	(名詞) 細剣: 刺突用の片手剣。細身で尖端が鋭いのが特徴。レイピア。
+RAPIERS	(rapierの変化形) (名詞) 細剣: 刺突用の片手剣。細身で尖端が鋭いのが特徴。レイピア。
+RAPINE	(名詞) rapineの訳: ⟪略奪|りゃくだつ⟫, 強奪\n(動詞) rapineの訳: 略奪する, 強奪する
+RAPINES	(名詞) rapineの複数形: ⟪略奪|りゃくだつ⟫, 強奪\n(動詞) rapineの直説法現在第三人称単数形: ⟪略奪|りゃくだつ⟫, 強奪
+RAPPORT	(名詞) [〜との/〜の間の] 信頼関係。相互理解のある関係。 [with / between]
+RAPPORTEUR	(名詞) rapporteurの訳: 報告者
+RAPPORTEURS	(名詞) rapporteurの複数形: 報告者
+RAPPORTS	(rapportの変化形) (名詞) [〜との/〜の間の] 信頼関係。相互理解のある関係。 [with / between]
+RAPT	(形容詞) raptの訳: 心を奪われた, 有頂天の, うっとりした
+RAPTLY	(raptの変化形) (形容詞) raptの訳: 心を奪われた, 有頂天の, うっとりした
+RAPTOR	(名詞) raptorの訳: 猛禽
+RAPTORS	(名詞) raptorの複数形: 猛禽
+RAPTURE	(名詞) 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 歓喜, 有頂天)\n(動詞) raptureの訳: 有頂天にする
+RAPTURED	(動詞) raptureの過去形・過去分詞: 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 歓喜, 有頂天)
+RAPTURES	(名詞) raptureの複数形: 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 歓喜, 有頂天)\n(動詞) raptureの直説法現在第三人称単数形: 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 歓喜, 有頂天)
+RAPTURING	(動詞) raptureの現在分詞: 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 歓喜, 有頂天)
+RAPTUROUS	(形容詞) rapturousの訳: 歓喜の, 有頂天の, 熱狂的な
+RAPTUROUSLY	(副詞) rapturouslyの訳: 歓喜して
+RARE	(形容詞) 珍しい、希な。めったにない。
+RARED	(rareの変化形) (形容詞) 珍しい、希な。めったにない。
+RAREFACTION	(名詞) rarefactionの訳: 粗鬆
+RAREFACTIONS	(rarefactionの変化形) (名詞) rarefactionの訳: 粗鬆
+RARELY	(副詞) 滅多に～しない
+RARENESS	(名詞) rarenessの訳: 珍しさ, ⟪希少|きしょう⟫
+RARENESSES	(名詞) rarenessの複数形: 珍しさ, ⟪希少|きしょう⟫
+RARER	(形容詞) "rare" の比較級: 珍しい、希な。めったにない。
+RARERIPE	(名詞) 早熟: 果物などが、ふつうのものより早く熟すること。
+RARERIPES	(rareripeの変化形) (名詞) 早熟: 果物などが、ふつうのものより早く熟すること。
+RARES	(rareの変化形) (形容詞) 珍しい、希な。めったにない。
+RAREST	(形容詞) "rare" の最上級: 珍しい、希な。めったにない。
+RARITIES	(名詞) rarityの複数形: 希少。希少性。希であること。
+RARITY	(名詞) 希少。希少性。希であること。
+RASCAL	(名詞) いたずら者。悪童。腕白小僧。\n(形容詞) (古語・廃語) 下劣な。恥知らずな。
+RASCALS	(rascalの変化形) (名詞) いたずら者。悪童。腕白小僧。
+RASH	(形容動詞) rashの訳: 軽率
+RASHER	(rashの変化形) (形容動詞) rashの訳: 軽率
+RASHERS	(rashの変化形) (形容動詞) rashの訳: 軽率
+RASHES	(rashの変化形) (形容動詞) rashの訳: 軽率
+RASHEST	(rashの変化形) (形容動詞) rashの訳: 軽率
+RASHNESS	(名詞) 軽率。性急さ。
+RASHNESSES	(rashnessの変化形) (名詞) 軽率。性急さ。
+RASP	(名詞) raspの訳: ⟪やすり⟫
+RASPBERRIES	(名詞) raspberryの複数形: ラズベリー, ⟪キイチゴ|きいちご⟫\n(動詞) raspberryの直説法現在第三人称単数形: ラズベリー, ⟪キイチゴ|きいちご⟫
+RASPBERRY	(名詞) raspberryの訳: ラズベリー, ⟪キイチゴ|きいちご⟫\n(形容詞) ラズベリー風味の。
+RASPED	(raspの変化形) (名詞) raspの訳: ⟪やすり⟫
+RASPING	(raspの変化形) (名詞) raspの訳: ⟪やすり⟫
+RASPS	(raspの変化形) (名詞) raspの訳: ⟪やすり⟫
+RAT	(名詞) 鼠。（mouse より大型で、雑食性で病原を媒介する種類を指す。）
+RATATOUILLE	(名詞) ratatouilleの訳: ラタトゥイユ
+RATATOUILLES	(名詞) ratatouilleの複数形: ラタトゥイユ
+RATE	(名詞) rateの訳: ⟪比率|ひりつ⟫, 割合, レート\n(動詞) rateの訳: 評価する
+RATED	(形容詞) 叱責された。[16世紀より]\n(動詞) rateの過去形・過去分詞: ⟪比率|ひりつ⟫, 割合, レート
+RATEL	(名詞) ratelの訳: ラーテル
+RATELS	(ratelの変化形) (名詞) ratelの訳: ラーテル
+RATES	(名詞) "rate" の複数形: ⟪比率|ひりつ⟫, 割合, レート\n(動詞) "rate" の現在第三人称単数形。
+RATHER	(副詞) むしろ: 二つのものごとを比較し、比較の基準であるものも選択し得ないわけではないが、もう一方のものがより望ましいことを表す。
+RATIFICATION	(名詞) 承認: 事柄が正当、妥当だと認めること。是認。 (ほかに: 批准)
+RATIFICATIONS	(名詞) "ratification" の複数形: 承認: 事柄が正当、妥当だと認めること。是認。 (ほかに: 批准)
+RATIFIED	(動詞) "ratify" の過去形・過去分詞: 承認する: 事柄が正当、妥当だと認めること。是認。 (ほかに: 批准する)
+RATIFIES	(動詞) "ratify" の現在第三人称単数形。
+RATIFY	(動詞) 承認する: 事柄が正当、妥当だと認めること。是認。 (ほかに: 批准する)
+RATIFYING	(動詞) "ratify" の動名詞又は現在分詞: 承認する: 事柄が正当、妥当だと認めること。是認。 (ほかに: 批准する)
+RATING	(動詞) "rate" の動名詞又は現在分詞: ⟪比率|ひりつ⟫, 割合, レート\n(名詞) 評価。評定。見積もり。レーティング。
+RATINGS	(名詞) ratingの複数形: "rate" の動名詞又は現在分詞: ⟪比率|ひりつ⟫, 割合, レート
+RATIO	(名詞) ratioの訳: 比, ⟪比率|ひりつ⟫
+RATION	(名詞) rationの訳: 配給量\n(動詞) 配給する: 統制経済下で不足物資を国家が割り当て販売すること。 (ほかに: 供給する)
+RATIONAL	(形容詞) 合理的な。理に適っている。\n(名詞) 有理数。整数の比として表せる数。
+RATIONALISM	(名詞) 合理主義: 生得的、明証的な理性に根拠を求める立場。 (ほかに: 理性主義, 合理論)
+RATIONALISMS	(rationalismの変化形) (名詞) 合理主義: 生得的、明証的な理性に根拠を求める立場。 (ほかに: 理性主義, 合理論)
+RATIONALITIES	(名詞) rationalityの複数形: 合理性。理に適っていること。
+RATIONALITY	(名詞) 合理性。理に適っていること。
+RATIONALS	(rationalの変化形) (形容詞) 合理的な。理に適っている。
+RATIONED	(動詞) rationの過去形・過去分詞: 配給量
+RATIONING	(動詞) rationの動名詞又は現在分詞: 配給量\n(名詞) rationingの訳: ⟪配給|はいきゅう⟫
+RATIONS	(名詞) "ration" の複数形: 配給量\n(動詞) "ration" の現在第三人称単数形。
+RATIOS	(ratioの変化形) (名詞) ratioの訳: 比, ⟪比率|ひりつ⟫
+RATITE	(名詞) 平胸類。走鳥類。走禽類。
+RATITES	(名詞) ratiteの複数形: 平胸類。走鳥類。走禽類。
+RATS	(名詞) "rat" の複数形: 鼠。（mouse より大型で、雑食性で病原を媒介する種類を指す。）
+RATTED	(ratの変化形) (名詞) 鼠。（mouse より大型で、雑食性で病原を媒介する種類を指す。）
+RATTING	(ratの変化形) (名詞) 鼠。（mouse より大型で、雑食性で病原を媒介する種類を指す。）
+RATTLE	(動詞) がたがた鳴らす、がらがら鳴らす。\n(名詞) 莢の中でがらがらと音を立てる植物。[10世紀より]
+RATTLED	(動詞) rattleの過去形・過去分詞: がたがた鳴らす、がらがら鳴らす。
+RATTLES	(動詞) rattleの直説法現在第三人称単数形: がたがた鳴らす、がらがら鳴らす。\n(名詞) rattleの複数形: がたがた鳴らす、がらがら鳴らす。
+RATTLESNAKE	(名詞) rattlesnakeの訳: ⟪がらがらへび⟫
+RATTLESNAKES	(rattlesnakeの変化形) (名詞) rattlesnakeの訳: ⟪がらがらへび⟫
+RATTLING	(形容詞) rattlingの訳: 活発な, きびきびした\n(動詞) rattleの現在分詞: がたがた鳴らす、がらがら鳴らす。
+RATTLINGS	(名詞) rattlingの複数形: 活発な, きびきびした
+RAVEN	(名詞) ravenの訳: ⟪からす⟫, ワタリガラス\n(形容詞) ravenの訳: 漆黒の
+RAVENED	(ravenの変化形) (名詞) ravenの訳: ⟪からす⟫, ワタリガラス
+RAVENING	(ravenの変化形) (名詞) ravenの訳: ⟪からす⟫, ワタリガラス
+RAVENINGS	(ravenの変化形) (名詞) ravenの訳: ⟪からす⟫, ワタリガラス
+RAVENOUS	(形容詞) ravenousの訳: 飢えた, ひどく空腹の
+RAVENOUSLY	(副詞) ひどく空腹で。貪欲に。
+RAVENOUSNESS	(名詞) ひどく空腹なこと。貪欲さ。
+RAVENOUSNESSES	(ravenousnessの変化形) (名詞) ひどく空腹なこと。貪欲さ。
+RAVENS	(ravenの変化形) (名詞) ravenの訳: ⟪からす⟫, ワタリガラス
+RAVINE	(名詞) ravineの訳: 峡谷, 渓谷
+RAVINED	(動詞) ravinの過去形・過去分詞。\n(形容詞) ravinedの訳: 峡谷のある
+RAVINES	(名詞) ravineの複数形: 峡谷, 渓谷
+RAVINING	(動詞) ravinの現在分詞。
+RAVINS	(動詞) ravinの直説法現在第三人称単数形。
+RAVISH	(動詞) 魅了する。うっとりさせる。
+RAVISHED	(動詞) ravishの過去形・過去分詞: 魅了する。うっとりさせる。\n(形容詞) ravishedの訳: うっとりした
+RAVISHES	(動詞) ravishの直説法現在第三人称単数形: 魅了する。うっとりさせる。
+RAVISHING	(形容詞) うっとりさせる、魅惑的な\n(動詞) ravishの現在分詞: 魅了する。うっとりさせる。
+RAVISHINGLY	(副詞) うっとりするほど
+RAVISHMENT	(名詞) 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 有頂天)
+RAVISHMENTS	(名詞) ravishmentの複数形: 恍惚: 何かに心を奪われうっとりすること。また、そのようなさま。 (ほかに: 有頂天)
+RAW	(形容詞) 生の。未調理の。[9世紀より]\n(副詞) コンドームを付けずに。生で。
+RAWER	(形容詞) rawの比較級: 生の。未調理の。[9世紀より]
+RAWEST	(形容詞) rawの最上級: 生の。未調理の。[9世紀より]
+RAWNESS	(名詞) 生。未調理。
+RAWNESSES	(名詞) rawnessの複数形: 生。未調理。
+RAWS	(名詞) rawの複数形: 生の。未調理の。[9世紀より]
+RAY	(名詞) rayの訳: ⟪光線|こうせん⟫\n(動詞) rayの訳: 発する
+RAYED	(動詞) "ray" の過去形・過去分詞: ⟪光線|こうせん⟫
+RAYING	(動詞) "ray" の動名詞又は現在分詞: ⟪光線|こうせん⟫
+RAYON	(名詞) レーヨン: 再生繊維からつくる人造繊維。人造絹糸。人絹。
+RAYS	(名詞) "ray" の複数形: ⟪光線|こうせん⟫\n(動詞) "ray" の三人称単数現在形: ⟪光線|こうせん⟫
+RAZOR	(名詞) 剃刀: （かみそり）髭や髪の毛、体毛などを剃るための刃物。\n(動詞) razorの訳: 剃刀で剃る
+RAZORBILL	(名詞) オオハシウミガラス。
+RAZORBILLS	(名詞) razorbillの複数形: オオハシウミガラス。
+RAZORED	(動詞) razorの過去形・過去分詞: 剃刀: （かみそり）髭や髪の毛、体毛などを剃るための刃物。
+RAZORING	(動詞) razorの現在分詞: 剃刀: （かみそり）髭や髪の毛、体毛などを剃るための刃物。
+RAZORS	(名詞) razorの複数形: 剃刀: （かみそり）髭や髪の毛、体毛などを剃るための刃物。\n(動詞) razorの直説法現在第三人称単数形: 剃刀: （かみそり）髭や髪の毛、体毛などを剃るための刃物。
+REACH	(動詞) reachの訳: 到着する\n(名詞) 範囲: 土地や行動、考えなどの、ある限られた広さの限界。
+REACHED	(動詞) reachの過去形・過去分詞: 到着する
+REACHES	(名詞) reachの複数形: 到着する\n(動詞) reachの現在第三人称単数形。
+REACHING	(動詞) "reach" の動名詞又は現在分詞: 到着する
+REACT	(動詞) 反応する: ある出来事や動作などに対する他者の動作などの応答のこと。
+REACTANCE	(名詞) リアクタンス。誘導抵抗。
+REACTANCES	(名詞) reactanceの複数形: リアクタンス。誘導抵抗。
+REACTANT	(名詞) reactantの訳: 反応物
+REACTANTS	(名詞) reactantの複数形: 反応物
+REACTED	(動詞) "react" の過去形・過去分詞: 反応する: ある出来事や動作などに対する他者の動作などの応答のこと。
+REACTING	(動詞) "react" の動名詞又は現在分詞: 反応する: ある出来事や動作などに対する他者の動作などの応答のこと。
+REACTION	(名詞) 反応: 語義1:物等の変化 名詞
+REACTIONARIES	(名詞) reactionaryの複数形: 反動的な, 保守的な
+REACTIONARY	(形容詞) reactionaryの訳: 反動的な, 保守的な\n(名詞) 反動主義者: 反動主義の立場をとりそれを主張する者。
+REACTIONS	(reactionの変化形) (名詞) 反応: 語義1:物等の変化 名詞
+REACTIVE	(形容詞) reactiveの訳: 反応する, 反発する
+REACTIVELY	(reactiveの変化形) (形容詞) reactiveの訳: 反応する, 反発する
+REACTOR	(名詞) reactorの訳: 原子炉
+REACTORS	(reactorの変化形) (名詞) reactorの訳: 原子炉
+REACTS	(動詞) "react" の現在第三人称単数形。
+READ	(動詞) 〔文字や書籍を〕読む。\n(名詞) 読書: 書（本・書籍）を読む行為。
+READABILITIES	(名詞) readabilityの複数形: 読みやすさ
+READABILITY	(名詞) readabilityの訳: 読みやすさ
+READABLE	(形容詞) （文字や印刷が）読みやすい。判読しやすい。
+READDED	(readの変化形) (動詞) 〔文字や書籍を〕読む。
+READDING	(readの変化形) (動詞) 〔文字や書籍を〕読む。
+READER	(名詞) 読者: 書籍や新聞などを読む人。
+READERLY	(readerの変化形) (名詞) 読者: 書籍や新聞などを読む人。
+READERS	(名詞) readerの複数形: 読者。
+READIED	(動詞) readyの過去形・過去分詞: 準備ができた
+READIER	(形容詞) "ready" の比較級: 準備ができた\n(名詞) readyする人。
+READIES	(動詞) "ready" の現在第三人称単数形。
+READIEST	(形容詞) "ready" の最上級: 準備ができた
+READILY	(副詞) 積極的に。進んで。
+READINESS	(名詞) 準備ができている状態。
+READINESSES	(名詞) readinessの複数形: 準備ができている状態。
+READING	(動詞) read の動名詞・現在分詞: 〔文字や書籍を〕読む。\n(名詞) 読書。読むこと。
+READINGS	(名詞) readingの複数形: read の動名詞・現在分詞: 〔文字や書籍を〕読む。
+READS	(名詞) "read" の複数形: 〔文字や書籍を〕読む。\n(動詞) "read" の三人称単数現在形: 〔文字や書籍を〕読む。
+READY	(形容詞) readyの訳: 準備ができた\n(動詞) 準備する: 前もって用意すること。
+READYING	(動詞) readyの動名詞又は現在分詞: 準備ができた
+REAGENT	(名詞) 試薬: 化学分析や実験で反応させるために用いる薬品。
+REAGENTS	(名詞) reagentの複数形: 試薬: 化学分析や実験で反応させるために用いる薬品。
+REAL	(形容詞) realの訳: 本当の\n(副詞) realの訳: 本当に
+REALER	(形容詞) "real" の比較級: 本当の
+REALES	(realの変化形) (形容詞) realの訳: 本当の
+REALEST	(形容詞) "real" の最上級: 本当の
+REALISE	(動詞) realiseの訳: 実感する, ⟪悟る|さとる⟫
+REALISED	(動詞) realiseの過去形・過去分詞: 実感する, ⟪悟る|さとる⟫
+REALISES	(動詞) "realise" の現在第三人称単数形。
+REALISING	(動詞) realiseの動名詞又は現在分詞: 実感する, ⟪悟る|さとる⟫
+REALISTIC	(形容詞) 現実的な。実際的な。現実主義の。
+REALISTICALLY	(副詞) 現実的に。写実的に。
+REALITIES	(名詞) realityの複数形: ⟪現実|げんじつ⟫
+REALITY	(名詞) realityの訳: ⟪現実|げんじつ⟫
+REALIZABLE	(形容詞) realizableの訳: 実現可能な
+REALIZATION	(名詞) 実現: 計画や理想などが実際のものとなること。また、そのようにすること。
+REALIZATIONS	(名詞) realizationの複数形: 実現: 計画や理想などが実際のものとなること。また、そのようにすること。
+REALIZE	(動詞) 実感する。悟る。理解する。気づく。
+REALIZED	(動詞) realizeの過去形・過去分詞: 実感する。悟る。理解する。気づく。
+REALIZES	(動詞) "realize" の現在第三人称単数形。
+REALIZING	(動詞) realizeの動名詞又は現在分詞: 実感する。悟る。理解する。気づく。
+REALLY	(副詞) 本当に: はっきりとそう考えている様子。心から。強く。
+REALM	(名詞) realmの訳: ⟪領域|りょういき⟫
+REALMS	(名詞) "realm" の複数形: ⟪領域|りょういき⟫
+REALS	(realの変化形) (形容詞) realの訳: 本当の
+REAM	(名詞) reamの訳: クリーム\n(動詞) reamの訳: ⟪泡立てる|あわだてる⟫
+REAMED	(動詞) reamの過去形・過去分詞: クリーム
+REAMER	(名詞) reamerの訳: リーマー
+REAMERS	(名詞) reamerの複数形: リーマー
+REAMING	(動詞) reamの現在分詞: クリーム\n(名詞) reamingの訳: リーミング
+REAMS	(名詞) reamの複数形: クリーム\n(動詞) reamの直説法現在第三人称単数形: クリーム
+REANIMATE	(動詞) reanimateの訳: 蘇生させる, 生き返らせる, 再活性化する
+REANIMATED	(reanimateの変化形) (動詞) reanimateの訳: 蘇生させる, 生き返らせる, 再活性化する
+REANIMATES	(reanimateの変化形) (動詞) reanimateの訳: 蘇生させる, 生き返らせる, 再活性化する
+REANIMATING	(reanimateの変化形) (動詞) reanimateの訳: 蘇生させる, 生き返らせる, 再活性化する
+REAP	(動詞) 収穫する: 獲物。 (ほかに: 刈り取る)
+REAPED	(動詞) reapの過去形・過去分詞: 収穫する: 獲物。 (ほかに: 刈り取る)
+REAPING	(動詞) reapの動名詞又は現在分詞: 収穫する: 獲物。 (ほかに: 刈り取る)\n(名詞) 刈り取り: 「かりとり」を参照。
+REAPPEAR	(動詞) 再現する: 以前にあった出来事や状態が、同じようなさまで再び起こる。 (ほかに: 再び現れる)
+REAPPEARANCE	(名詞) 再び現れること、再現
+REAPPEARANCES	(reappearanceの変化形) (名詞) 再び現れること、再現
+REAPPEARED	(動詞) "reappear" の過去形・過去分詞: 再現する: 以前にあった出来事や状態が、同じようなさまで再び起こる。 (ほかに: 再び現れる)
+REAPPEARING	(動詞) "reappear" の動名詞又は現在分詞: 再現する: 以前にあった出来事や状態が、同じようなさまで再び起こる。 (ほかに: 再び現れる)
+REAPPEARS	(動詞) "reappear" の現在第三人称単数形。
+REAPS	(動詞) reapの現在第三人称単数形。
+REAR	(動詞) rearの訳: 育てる, 飼育する, 栽培する\n(形容詞) rearの訳: 生煮えの
+REARED	(動詞) rearの過去形・過去分詞: 育てる, 飼育する, 栽培する
+REARER	(形容詞) "rear" の比較級: 育てる, 飼育する, 栽培する\n(名詞) rearする人。
+REARERS	(名詞) "rearer" の複数形: "rear" の比較級。
+REARING	(動詞) rearの動名詞又は現在分詞: 育てる, 飼育する, 栽培する\n(名詞) rearingの訳: 育成, ⟪飼育|しいく⟫
+REARRANGE	(動詞) rearrangeの訳: 並べ直す
+REARRANGED	(rearrangeの変化形) (動詞) rearrangeの訳: 並べ直す
+REARRANGES	(rearrangeの変化形) (動詞) rearrangeの訳: 並べ直す
+REARRANGING	(rearrangeの変化形) (動詞) rearrangeの訳: 並べ直す
+REARREST	(rearの変化形) (動詞) rearの訳: 育てる, 飼育する, 栽培する
+REARS	(名詞) rearの複数形: 育てる, 飼育する, 栽培する\n(動詞) rearの現在第三人称単数形。
+REASON	(名詞) 理由: ある事象の原因を論理づけたもの。\n(動詞) reasonの訳: 推論する
+REASONABLE	(形容詞) 理性的な: 感情的でなく理性に従い冷静に判断するさま。
+REASONABLENESS	(名詞) 分別のあること
+REASONABLENESSES	(reasonablenessの変化形) (名詞) 分別のあること
+REASONABLY	(副詞) reasonablyの訳: 理にかなって
+REASONED	(形容詞) 道理に基づいた。筋の通った。\n(動詞) reasonの過去形・過去分詞: 理由: ある事象の原因を論理づけたもの。
+REASONING	(名詞) 推理。推論。論法。\n(動詞) reasonの動名詞又は現在分詞: 理由: ある事象の原因を論理づけたもの。
+REASONINGS	(名詞) reasoningの複数形: 推理。推論。論法。
+REASONS	(名詞) "reason" の複数形: 理由: ある事象の原因を論理づけたもの。\n(動詞) "reason" の現在第三人称単数形。
+REASSESSMENT	(名詞) reassessmentの訳: 更正
+REASSESSMENTS	(reassessmentの変化形) (名詞) reassessmentの訳: 更正
+REASSURE	(動詞) reassureの訳: 安心させる
+REASSURED	(reassureの変化形) (動詞) reassureの訳: 安心させる
+REASSURES	(reassureの変化形) (動詞) reassureの訳: 安心させる
+REASSURING	(動詞) "reassure" の動名詞又は現在分詞: 安心させる\n(形容詞) 安心させる。心強い。元気づける。
+REBEL	(名詞) 反逆者。謀反人。\n(動詞) rebelの訳: 反乱を起こす
+REBELLED	(動詞) "rebel" の過去形・過去分詞: 反逆者。謀反人。
+REBELLING	(動詞) "rebel" の動名詞又は現在分詞: 反逆者。謀反人。
+REBELLION	(名詞) rebellionの訳: ⟪暴動|ぼうどう⟫, 騒乱, 騒擾
+REBELLIONS	(名詞) "rebellion" の複数形: ⟪暴動|ぼうどう⟫, 騒乱, 騒擾
+REBELLIOUS	(形容詞) 反乱を起こした。
+REBELS	(名詞) "rebel" の複数形: 反逆者。謀反人。\n(動詞) "rebel" の現在第三人称単数形。
+REBIRTH	(名詞) 再生: 再び生きる、生かすこと。復活、蘇生、回生、転生。 (ほかに: 蘇生, 復活)
+REBIRTHS	(名詞) rebirthの複数形: 再生: 再び生きる、生かすこと。復活、蘇生、回生、転生。 (ほかに: 蘇生, 復活)
+REBOOT	(名詞) 再起動: 稼働しているコンピュータなどの装置やソフトウェアなどを一旦停止させ、再び開始させること。リブート。\n(動詞) rebootの訳: 再起動する
+REBOOTED	(動詞) rebootの過去形・過去分詞: 再起動: 稼働しているコンピュータなどの装置やソフトウェアなどを一旦停止させ、再び開始させること。リブート。
+REBOOTING	(動詞) rebootの現在分詞: 再起動: 稼働しているコンピュータなどの装置やソフトウェアなどを一旦停止させ、再び開始させること。リブート。\n(名詞) 再起動: 稼働しているコンピュータなどの装置やソフトウェアなどを一旦停止させ、再び開始させること。リブート。
+REBOOTS	(名詞) rebootの複数形: 再起動: 稼働しているコンピュータなどの装置やソフトウェアなどを一旦停止させ、再び開始させること。リブート。\n(動詞) rebootの直説法現在第三人称単数形: 再起動: 稼働しているコンピュータなどの装置やソフトウェアなどを一旦停止させ、再び開始させること。リブート。
+REBORN	(形容詞) rebornの訳: 再生した, 復活した, 蘇った
+REBOUND	(名詞) 反発: 跳ね返ること。また、跳ね返すこと。 (ほかに: 跳ね返り)\n(動詞) reboundの訳: ⟪跳ね返る|はねかえる⟫, 反発する
+REBOUNDED	(動詞) reboundの複数形: 反発: 跳ね返ること。また、跳ね返すこと。 (ほかに: 跳ね返り)
+REBOUNDER	(reboundの変化形) (名詞) 反発: 跳ね返ること。また、跳ね返すこと。 (ほかに: 跳ね返り)
+REBOUNDING	(reboundの変化形) (名詞) 反発: 跳ね返ること。また、跳ね返すこと。 (ほかに: 跳ね返り)
+REBOUNDS	(名詞) reboundの複数形: 反発: 跳ね返ること。また、跳ね返すこと。 (ほかに: 跳ね返り)\n(動詞) reboundの直説法現在第三人称単数形: 反発: 跳ね返ること。また、跳ね返すこと。 (ほかに: 跳ね返り)
+REBROADCAST	(動詞) 再放送する: テレビまたはラジオにおいて、一度放送したことのある番組を再び放送すること。
+REBROADCASTING	(動詞) rebroadcastの現在分詞形: 再放送する。
+REBROADCASTS	(動詞) rebroadcastの三人称単数現在形: 再放送する: テレビまたはラジオにおいて、一度放送したことのある番組を再び放送すること。
+REBUILD	(動詞) 再建する。建て直す。修復する。復元する。\n(名詞) 再建。建て直し。修復。復元。
+REBUILDED	(rebuildの変化形) (動詞) 再建する。建て直す。修復する。復元する。
+REBUILDING	(動詞) rebuildの現在分詞: 再建する。建て直す。修復する。復元する。\n(名詞) 再建。建て直し。修復。復元。
+REBUILDS	(動詞) rebuildの直説法現在第三人称単数形: 再建する。建て直す。修復する。復元する。\n(名詞) rebuildの複数形: 再建する。建て直す。修復する。復元する。
+REBUILT	(動詞) rebuildの過去形・過去分詞: 再建する。建て直す。修復する。復元する。\n(形容詞) 再建された。建て直された。
+REBUKE	(名詞) 叱責: 「𠮟責」の別表記。\n(動詞) 強く非難する。叱責する。
+REBUKED	(動詞) rebukeの過去形・過去分詞: 叱責: 「𠮟責」の別表記。
+REBUKES	(名詞) rebukeの複数形: 叱責: 「𠮟責」の別表記。\n(動詞) rebukeの直説法現在第三人称単数形: 叱責: 「𠮟責」の別表記。
+REBUKING	(動詞) rebukeの現在分詞: 叱責: 「𠮟責」の別表記。\n(名詞) rebukingの訳: 喝破
+REBURIAL	(名詞) reburialの訳: 再埋葬
+REBURIALS	(名詞) reburialの複数形: 再埋葬
+REBURIED	(動詞) reburyの過去形・過去分詞: 再び埋める
+REBURIES	(動詞) reburyの直説法現在第三人称単数形: 再び埋める
+REBURY	(動詞) reburyの訳: 再び埋める
+REBURYING	(動詞) reburyの現在分詞: 再び埋める
+REBUT	(動詞) 反論する: ある意見に対して反対の意見を述べること。またその反対した意見。 (ほかに: 反証を挙げる)
+REBUTS	(動詞) rebutの直説法現在第三人称単数形: 反論する: ある意見に対して反対の意見を述べること。またその反対した意見。 (ほかに: 反証を挙げる)
+REBUTTAL	(名詞) 反証: （サ変動詞）ある論とは反対の証拠を挙げること。反論。 (ほかに: 反論)
+REBUTTALS	(rebuttalの変化形) (名詞) 反証: （サ変動詞）ある論とは反対の証拠を挙げること。反論。 (ほかに: 反論)
+REBUTTED	(動詞) rebutの過去形・過去分詞: 反論する: ある意見に対して反対の意見を述べること。またその反対した意見。 (ほかに: 反証を挙げる)
+REBUTTING	(動詞) rebutの動名詞又は現在分詞: 反論する: ある意見に対して反対の意見を述べること。またその反対した意見。 (ほかに: 反証を挙げる)
+RECALCITRANT	(形容詞) 反抗的な: 反抗するような様子。
+RECALCITRANTS	(recalcitrantの変化形) (形容詞) 反抗的な: 反抗するような様子。
+RECALL	(動詞) recallの訳: ⟪思い出す|おもいだす⟫\n(名詞) recallの訳: 記憶力
+RECALLED	(動詞) "recall" の過去形・過去分詞形: ⟪思い出す|おもいだす⟫
+RECALLER	(recallの変化形) (動詞) recallの訳: ⟪思い出す|おもいだす⟫
+RECALLING	(動詞) "recall" の動名詞又は現在分詞: ⟪思い出す|おもいだす⟫
+RECALLS	(名詞) "recall" の複数形: ⟪思い出す|おもいだす⟫\n(動詞) "recall" の現在第三人称単数形。
+RECANT	(動詞) recantの訳: 撤回する, 取り消す
+RECANTATION	(名詞) 取り消し: （とりけし）民事法において、法律行為の瑕疵を理由として、当該法律行為の効力を、一方的な意思表示によって最初にさかのぼって失わせること。 (ほかに: 撤回)
+RECANTATIONS	(名詞) recantationの複数形: 取り消し: （とりけし）民事法において、法律行為の瑕疵を理由として、当該法律行為の効力を、一方的な意思表示によって最初にさかのぼって失わせること。 (ほかに:...
+RECANTED	(動詞) recantの過去形・過去分詞: 撤回する, 取り消す
+RECANTER	(名詞) recanterの訳: 撤回する人
+RECANTERS	(名詞) recanterの複数形: 撤回する人
+RECANTING	(動詞) recantの現在分詞: 撤回する, 取り消す\n(名詞) 取り消し: （とりけし）民事法において、法律行為の瑕疵を理由として、当該法律行為の効力を、一方的な意思表示によって最初にさかのぼって失わせること。 (ほかに: 撤回)
+RECANTS	(動詞) recantの直説法現在第三人称単数形: 撤回する, 取り消す
+RECEDE	(動詞) 後退する: 後ろに下がること。
+RECEDED	(動詞) "recede" の過去形・過去分詞: 後退する: 後ろに下がること。
+RECEDES	(動詞) "recede" の現在第三人称単数形。
+RECEDING	(動詞) "recede" の動名詞又は現在分詞: 後退する: 後ろに下がること。
+RECEIPT	(名詞) レシート: （広義）領収証。（英語 receipt 本来の意味） (ほかに: 領収書)
+RECEIPTED	(receiptの変化形) (名詞) レシート: （広義）領収証。（英語 receipt 本来の意味） (ほかに: 領収書)
+RECEIPTING	(receiptの変化形) (名詞) レシート: （広義）領収証。（英語 receipt 本来の意味） (ほかに: 領収書)
+RECEIPTS	(receiptの変化形) (名詞) レシート: （広義）領収証。（英語 receipt 本来の意味） (ほかに: 領収書)
+RECEIVE	(動詞) 受け取る: （うけとる）受領する。受理する。 (ほかに: 受ける)
+RECEIVED	(形容詞) 一般に認められた。\n(動詞) receiveの過去形及び過去分詞: 受け取る: （うけとる）受領する。受理する。 (ほかに: 受ける)
+RECEIVER	(名詞) receiverの訳: 受取人
+RECEIVERS	(receiverの変化形) (名詞) receiverの訳: 受取人
+RECEIVES	(動詞) receiveの直説法現在第三人称単数形: 受け取る: （うけとる）受領する。受理する。 (ほかに: 受ける)
+RECEIVING	(動詞) receiveの動名詞又は現在分詞: 受け取る: （うけとる）受領する。受理する。 (ほかに: 受ける)\n(名詞) 受け取り: 呑み込み。理解。
+RECENT	(形容詞) recentの訳: 最近の
+RECENTER	(recentの変化形) (形容詞) recentの訳: 最近の
+RECENTEST	(recentの変化形) (形容詞) recentの訳: 最近の
+RECENTLY	(副詞) 最近: 現在から近い過去までの期間のこと。状況によってその幅は変化する。このごろ。ちかごろ。
+RECEPTACLE	(名詞) 入れ物: 物を入れるための器。容器。 (ほかに: 容器)
+RECEPTACLES	(名詞) "receptacle" の複数形: 入れ物: 物を入れるための器。容器。 (ほかに: 容器)
+RECEPTION	(名詞) 受付。レセプション。
+RECEPTIONIST	(名詞) 受付: （うけつけ）訪問者などの氏名・用件・質問などを聞き、それに応じて対応・取扱・取次などをする場所・人・係。 (ほかに: フロント係)
+RECEPTIONISTS	(名詞) receptionistの複数形: 受付: （うけつけ）訪問者などの氏名・用件・質問などを聞き、それに応じて対応・取扱・取次などをする場所・人・係。 (ほかに: フロント係)
+RECEPTIONS	(receptionの変化形) (名詞) 受付。レセプション。
+RECEPTIVE	(形容詞) 受け入れる: （うけいれる）人の意見・要求などを認める。 (ほかに: 理解の早い)
+RECESS	(名詞) 凹所、引っ込んだ部分。\n(動詞) 奥まった場所に置く。
+RECESSED	(形容詞) recessedの訳: 埋め込まれた, 埋め込み式の\n(動詞) recessの過去形・過去分詞: 凹所、引っ込んだ部分。
+RECESSES	(名詞) recessの複数形: 凹所、引っ込んだ部分。\n(動詞) recessの直説法現在第三人称単数形: 凹所、引っ込んだ部分。
+RECESSING	(動詞) recessの現在分詞: 凹所、引っ込んだ部分。
+RECESSION	(名詞) 景気後退: 景気の山から後退しているが、まだ不景気までには至っていない状況。
+RECESSIONARY	(形容詞) recessionaryの訳: 景気後退の
+RECESSIONS	(recessionの変化形) (名詞) 景気後退: 景気の山から後退しているが、まだ不景気までには至っていない状況。
+RECESSIVE	(形容詞) recessiveの訳: 後退的な
+RECESSIVELY	(recessiveの変化形) (形容詞) recessiveの訳: 後退的な
+RECESSIVES	(recessiveの変化形) (形容詞) recessiveの訳: 後退的な
+RECHARGE	(動詞) rechargeの訳: 再充電する\n(名詞) 帯水層へ浸透する水。
+RECHARGEABLE	(名詞) 蓄電池: 電池の一種で、電気エネルギーを化学エネルギーに変換して蓄えることができ、それをふたたび電気エネルギーとして取り出すことで、充電と放電を繰り返し行って使用できるもの。充電池。バッテリー。
+RECHARGED	(動詞) rechargeの過去形・過去分詞: 再充電する
+RECHARGER	(名詞) 充電器: 二次電池（蓄電池又は蓄電装置）に、外部から電力を供給し充電する機器。
+RECHARGES	(動詞) rechargeの直説法現在第三人称単数形: 再充電する\n(名詞) rechargeの複数形: 再充電する
+RECHARGING	(動詞) rechargeの現在分詞: 再充電する\n(名詞) rechargingの訳: 再充電
+RECIPE	(名詞) 調理法。レシピ。[18世紀より]
+RECIPES	(名詞) recipeの複数形: 調理法。レシピ。[18世紀より]
+RECIPIENT	(名詞) 受取人: 金銭や物品、物件などを受け取る人。 (ほかに: 受領者)
+RECIPIENTS	(名詞) recipientの複数形: 受取人: 金銭や物品、物件などを受け取る人。 (ほかに: 受領者)
+RECIPROCAL	(形容詞) reciprocalの訳: 相互の, 互いの, 互恵的な\n(名詞) 逆数、反数。（分数か小数かを問わない）
+RECIPROCALS	(reciprocalの変化形) (形容詞) reciprocalの訳: 相互の, 互いの, 互恵的な
+RECIPROCATE	(動詞) reciprocateの訳: 往復運動する
+RECIPROCATED	(動詞) "reciprocate" の過去形・過去分詞: 往復運動する
+RECIPROCATES	(動詞) "reciprocate" の現在第三人称単数形。
+RECIPROCATING	(動詞) "reciprocate" の動名詞又は現在分詞: 往復運動する
+RECIPROCITIES	(reciprocityの変化形) (名詞) reciprocityの訳: 相互主義
+RECIPROCITY	(名詞) reciprocityの訳: 相互主義
+RECITATION	(名詞) 暗唱: 文章などを暗記し、それを口に出して言うこと。 (ほかに: 朗読, 音読)
+RECITATIONS	(名詞) "recitation" の複数形: 暗唱: 文章などを暗記し、それを口に出して言うこと。 (ほかに: 朗読, 音読)
+RECITE	(動詞) 音読する: （文章を）声に出して読むこと。 (ほかに: ～を朗読する, 暗唱する)
+RECITED	(動詞) reciteの過去形・過去分詞: 音読する: （文章を）声に出して読むこと。 (ほかに: ～を朗読する, 暗唱する)
+RECITES	(動詞) "recite" の現在第三人称単数形。
+RECITING	(動詞) "recite" の動名詞又は現在分詞: 音読する: （文章を）声に出して読むこと。 (ほかに: ～を朗読する, 暗唱する)
+RECKLESS	(形容詞) recklessの訳: 向こう見ずな, 無謀な, 無茶な, 無鉄砲な
+RECKLESSNESS	(名詞) recklessnessの訳: 無謀さ
+RECKLESSNESSES	(名詞) recklessnessの複数形: 無謀さ。
+RECKON	(動詞) reckonの訳: ⟪数える|かぞえる⟫, 計算する, 合計する
+RECKONED	(動詞) reckonの過去形・過去分詞: ⟪数える|かぞえる⟫, 計算する, 合計する
+RECKONING	(動詞) reckonの現在分詞: ⟪数える|かぞえる⟫, 計算する, 合計する\n(名詞) 計算: 演算をして数値を求めること。 (ほかに: 集計, 見積もり)
+RECKONINGS	(reckonの変化形) (動詞) reckonの訳: ⟪数える|かぞえる⟫, 計算する, 合計する
+RECKONS	(動詞) reckonの現在第三人称単数形。
+RECLAIM	(動詞) reclaimの訳: 開墾する, 開拓する\n(名詞) reclaimの訳: 開墾, ⟪開拓|かいたく⟫
+RECLAIMED	(形容詞) 再生された、リサイクルされた。\n(動詞) reclaimの過去形・過去分詞: 開墾する, 開拓する
+RECLAIMING	(動詞) reclaimの現在分詞: 開墾する, 開拓する
+RECLAIMS	(動詞) reclaimの直説法現在第三人称単数形: 開墾する, 開拓する\n(名詞) reclaimの複数形: 開墾する, 開拓する
+RECLAMATION	(名詞) 開拓: 山林や荒地を切り開いて耕地にすること。 (ほかに: 開墾)
+RECLAMATIONS	(名詞) reclamationの複数形: 開拓: 山林や荒地を切り開いて耕地にすること。 (ほかに: 開墾)
+RECLINE	(動詞) reclineの訳: 後ろに倒す\n(名詞) reclineの訳: ⟪装置|そうち⟫
+RECLINED	(reclineの変化形) (動詞) reclineの訳: 後ろに倒す
+RECLINER	(名詞) reclinerの訳: リクライニングシート
+RECLINERS	(reclinerの変化形) (名詞) reclinerの訳: リクライニングシート
+RECLINES	(動詞) reclineの直説法現在第三人称単数形: 後ろに倒す\n(名詞) reclineの複数形: 後ろに倒す
+RECLINING	(名詞) recliningの訳: リクライニングシート
+RECLUSE	(名詞) 隠者: 世間の俗人との関わりを絶ち、隠棲する者。 (ほかに: 世捨人)
+RECLUSES	(名詞) "recluse" の複数形: 隠者: 世間の俗人との関わりを絶ち、隠棲する者。 (ほかに: 世捨人)\n(動詞) "recluse" の現在第三人称単数形。
+RECOGNISE	(動詞) recogniseの訳: 見覚えのある
+RECOGNISED	(形容詞) recognizedの異綴。\n(動詞) recogniseの過去形又は過去分詞: 見覚えのある
+RECOGNISES	(動詞) recogniseの直説法現在第三人称単数形: 見覚えのある
+RECOGNISING	(動詞) recogniseの動名詞又は現在分詞: 見覚えのある
+RECOGNITION	(名詞) recognitionの訳: 見覚え
+RECOGNITIONS	(名詞) recognitionの複数形: 見覚え
+RECOGNIZABLE	(形容詞) recognizableの訳: 見覚えのある
+RECOGNIZABLY	(副詞) 見分けがつく程
+RECOGNIZE	(動詞) recognizeの訳: 見覚えのある
+RECOGNIZED	(形容詞) 広く認められた。\n(動詞) recognizeの過去形又は過去分詞: 見覚えのある
+RECOGNIZES	(動詞) recognizeの直説法現在第三人称単数形: 見覚えのある
+RECOGNIZING	(動詞) recognizeの動名詞又は現在分詞: 見覚えのある
+RECOIL	(名詞) 反動。跳ね返り。\n(動詞) 怯む。たじろぐ。
+RECOILED	(動詞) recoilの過去形・過去分詞: 反動。跳ね返り。
+RECOILING	(recoilの変化形) (名詞) 反動。跳ね返り。
+RECOILS	(名詞) recoilの複数形: 反動。跳ね返り。\n(動詞) recoilの直説法現在第三人称単数形: 反動。跳ね返り。
+RECOLLECT	(動詞) 思い出す: 過去の事や忘れていた事を思い浮かべる。 (ほかに: 回想する)
+RECOLLECTED	(動詞) recollectの過去形・過去分詞: 思い出す: 過去の事や忘れていた事を思い浮かべる。 (ほかに: 回想する)
+RECOLLECTING	(動詞) recollectの動名詞又は現在分詞: 思い出す: 過去の事や忘れていた事を思い浮かべる。 (ほかに: 回想する)
+RECOLLECTION	(名詞) 記憶。回想。
+RECOLLECTIONS	(名詞) recollectionの複数形: 記憶。回想。
+RECOLLECTS	(動詞) recollectの直説法現在第三人称単数形: 思い出す: 過去の事や忘れていた事を思い浮かべる。 (ほかに: 回想する)
+RECOMMENCE	(動詞) 再開する: 何らかの事情により中止、中断されていたものを再び始めること。
+RECOMMENCED	(動詞) recommenceの過去形・過去分詞: 再開する: 何らかの事情により中止、中断されていたものを再び始めること。
+RECOMMENCES	(動詞) recommenceの直説法現在第三人称単数形: 再開する: 何らかの事情により中止、中断されていたものを再び始めること。
+RECOMMENCING	(動詞) recommenceの現在分詞: 再開する: 何らかの事情により中止、中断されていたものを再び始めること。
+RECOMMEND	(動詞) 勧める: 【進める】進ませる、前進させる。物事をはかどらせる。 (ほかに: 推薦する, 推奨する)\n(名詞) recommendの訳: ⟪推薦|すいせん⟫
+RECOMMENDATION	(名詞) 推薦: 或る物を切実に欲しがること。
+RECOMMENDATIONS	(名詞) recommendationの複数形: 推薦: 或る物を切実に欲しがること。
+RECOMMENDED	(動詞) recommendの過去形・過去分詞: 勧める: 【進める】進ませる、前進させる。物事をはかどらせる。 (ほかに: 推薦する, 推奨する)
+RECOMMENDING	(動詞) recommendの動名詞又は現在分詞: 勧める: 【進める】進ませる、前進させる。物事をはかどらせる。 (ほかに: 推薦する, 推奨する)
+RECOMMENDS	(動詞) recommendの直説法現在第三人称単数形: 勧める: 【進める】進ませる、前進させる。物事をはかどらせる。 (ほかに: 推薦する, 推奨する)\n(名詞) recommendの複数形: 勧める: 【進める】進ませる、前進させる。物事をはかどらせる。 (ほかに: 推薦する, 推奨する)
+RECOMPENSE	(名詞) recompenseの訳: ⟪報酬|ほうしゅう⟫, 返礼\n(動詞) recompenseの訳: ⟪報いる|むくいる⟫, 返礼する
+RECOMPENSED	(動詞) recompenseの過去形・過去分詞: ⟪報酬|ほうしゅう⟫, 返礼
+RECOMPENSES	(名詞) recompenseの複数形: ⟪報酬|ほうしゅう⟫, 返礼\n(動詞) recompenseの直説法現在第三人称単数形: ⟪報酬|ほうしゅう⟫, 返礼
+RECOMPENSING	(形容詞) recompensingの訳: 報いの, 補償の\n(名詞) 補償: 損害や出費を金銭などで補い償うこと。 (ほかに: 報いること)
+RECONCILE	(動詞) 和解させる。仲直りさせる。
+RECONCILED	(動詞) reconcileの過去形・過去分詞: 和解させる。仲直りさせる。
+RECONCILES	(動詞) reconcileの直説法現在第三人称単数形: 和解させる。仲直りさせる。
+RECONCILIATION	(名詞) 仲直り。和解。
+RECONCILIATIONS	(名詞) reconciliationの複数形: 仲直り。和解。
+RECONCILING	(動詞) reconcileの現在分詞: 和解させる。仲直りさせる。
+RECONNAISSANCE	(名詞) 斥候: 戦闘中に前線で本隊に先駆けて敵情や地形などの偵察、監視を秘密裏に行うこと。 (ほかに: 偵察, 調査)
+RECONNAISSANCES	(名詞) reconnaissanceの複数形: 斥候: 戦闘中に前線で本隊に先駆けて敵情や地形などの偵察、監視を秘密裏に行うこと。 (ほかに: 偵察, 調査)
+RECONQUER	(動詞) reconquerの訳: 再征服する
+RECONQUERED	(動詞) reconquerの過去形・過去分詞: 再征服する
+RECONQUERING	(動詞) reconquerの現在分詞: 再征服する
+RECONQUERS	(動詞) reconquerの直説法現在第三人称単数形: 再征服する
+RECONQUEST	(名詞) reconquestの訳: 再征服
+RECONQUESTS	(名詞) reconquestの複数形: 再征服
+RECONSIDER	(動詞) reconsiderの訳: ⟪反省|はんせい⟫\n(名詞) reconsiderの訳: ⟪再考|さいこう⟫
+RECONSIDERED	(reconsiderの変化形) (動詞) reconsiderの訳: ⟪反省|はんせい⟫
+RECONSIDERING	(reconsiderの変化形) (動詞) reconsiderの訳: ⟪反省|はんせい⟫
+RECONSIDERS	(reconsiderの変化形) (動詞) reconsiderの訳: ⟪反省|はんせい⟫
+RECONSTRUCT	(動詞) 再建する。復興する。復元する。
+RECONSTRUCTED	(動詞) reconstructの過去形・過去分詞: 再建する。復興する。復元する。\n(形容詞) 再建された。復元された。
+RECONSTRUCTING	(動詞) reconstructの現在分詞: 再建する。復興する。復元する。
+RECONSTRUCTION	(名詞) reconstructionの訳: 復元物
+RECONSTRUCTIONS	(名詞) reconstructionの複数形: 復元物
+RECONSTRUCTIVE	(形容詞) 再建の。再建的な。
+RECONSTRUCTS	(動詞) reconstructの直説法現在第三人称単数形: 再建する。復興する。復元する。
+RECORD	(名詞) recordの訳: 記録\n(動詞) 記録する: （きろくする）のちに役立つように残すために、何かの記述や、音声、映像などの複製を作成する。
+RECORDED	(動詞) recordの過去形・過去分詞: 記録\n(形容詞) recordedの訳: 記録された
+RECORDER	(名詞) recorderの訳: リコーダー
+RECORDERS	(recorderの変化形) (名詞) recorderの訳: リコーダー
+RECORDING	(動詞) recordの動名詞又は現在分詞: 記録\n(名詞) 記録。録音。録画。レコーディング。
+RECORDINGS	(名詞) recordingの複数形: recordの動名詞又は現在分詞。
+RECORDS	(名詞) recordの複数形: 記録\n(動詞) recordの直説法現在第三人称単数形: 記録
+RECOUNT	(動詞) recountの訳: 物語る, 詳述する\n(名詞) recountの訳: 詳述
+RECOUNTED	(動詞) recountの過去形・過去分詞: 物語る, 詳述する
+RECOUNTER	(名詞) recount（「詳述する」「数えなおす」）する人。
+RECOUNTING	(動詞) recountの動名詞は現在分詞: 物語る, 詳述する\n(名詞) 数え直し。再集計。
+RECOUNTS	(名詞) recountの複数形: 物語る, 詳述する\n(動詞) recountの直説法現在第三人称単数形: 物語る, 詳述する
+RECOURSE	(名詞) recourseの訳: 遡求
+RECOURSES	(recourseの変化形) (名詞) recourseの訳: 遡求
+RECOVER	(動詞) 治る: （なおる）元の姿勢に戻る。
+RECOVERED	(動詞) recoverの過去形・過去分詞: 治る: （なおる）元の姿勢に戻る。
+RECOVERIES	(recoveryの変化形) (名詞) 回復: 元の状態や形状に戻すこと。 (ほかに: 復旧)
+RECOVERING	(動詞) recoverの動名詞又は現在分詞: 治る: （なおる）元の姿勢に戻る。\n(名詞) 回復: 一度失くしたものを、再び取り戻すこと。
+RECOVERS	(名詞) "recover" の複数形: 治る: （なおる）元の姿勢に戻る。\n(動詞) "recover" の現在第三人称単数形。
+RECOVERY	(名詞) 回復: 元の状態や形状に戻すこと。 (ほかに: 復旧)
+RECREATE	(動詞) 気晴らしをさせる。
+RECREATED	(動詞) "recreate" の過去形・過去分詞: 気晴らしをさせる。
+RECREATES	(動詞) "recreate" の現在第三人称単数形。
+RECREATING	(動詞) "recreate" の動名詞又は現在分詞: 気晴らしをさせる。
+RECREATION	(名詞) レクリエーション、娯楽、気晴らし。
+RECREATIONS	(recreationの変化形) (名詞) レクリエーション、娯楽、気晴らし。
+RECRUIT	(名詞) recruitの訳: 募集
+RECRUITED	(recruitの変化形) (名詞) recruitの訳: 募集
+RECRUITING	(recruitの変化形) (名詞) recruitの訳: 募集
+RECRUITMENT	(名詞) 募集: 広く知らせて、必要な人や物品を募り集めること。 (ほかに: 囲繞)
+RECRUITMENTS	(recruitmentの変化形) (名詞) 募集: 広く知らせて、必要な人や物品を募り集めること。 (ほかに: 囲繞)
+RECRUITS	(recruitの変化形) (名詞) recruitの訳: 募集
+RECTA	(名詞) rectumの複数形: 直腸: 消化器官の一部。大腸の末端の部分であり、S状結腸と肛門の間にあたる。便が排泄されるまでの間、貯留する機能を有する。
+RECTANGLE	(名詞) 長方形: 全ての角が等しい四角形。
+RECTANGLES	(名詞) "rectangle" の複数形: 長方形: 全ての角が等しい四角形。
+RECTANGULAR	(形容詞) 直角の: 二つの直線が交わって出来る4つの角が等しいときの、その一つの角の大きさ。90度の角度。
+RECTANGULARLY	(rectangularの変化形) (形容詞) 直角の: 二つの直線が交わって出来る4つの角が等しいときの、その一つの角の大きさ。90度の角度。
+RECTOR	(名詞) 牧師: 召使い。
+RECTORS	(rectorの変化形) (名詞) 牧師: 召使い。
+RECTUM	(名詞) 直腸: 消化器官の一部。大腸の末端の部分であり、S状結腸と肛門の間にあたる。便が排泄されるまでの間、貯留する機能を有する。
+RECTUMS	(名詞) rectumの複数形: 直腸: 消化器官の一部。大腸の末端の部分であり、S状結腸と肛門の間にあたる。便が排泄されるまでの間、貯留する機能を有する。
+RECUPERATE	(動詞) 取り戻す: 回復する。 (ほかに: 回復させる)
+RECUPERATED	(動詞) recuperateの過去形・過去分詞: 取り戻す: 回復する。 (ほかに: 回復させる)
+RECUPERATES	(動詞) recuperateの直説法現在三人称単数形: 取り戻す: 回復する。 (ほかに: 回復させる)
+RECUPERATING	(動詞) recuperateの動名詞・現在分詞: 取り戻す: 回復する。 (ほかに: 回復させる)
+RECUPERATION	(名詞) 回復: 回復と同義。 (ほかに: 克服, 立ち直り)
+RECUPERATIONS	(recuperationの変化形) (名詞) 回復: 回復と同義。 (ほかに: 克服, 立ち直り)
+RECUR	(動詞) 再発する。ぶり返す。繰り返される。
+RECURRED	(recurの変化形) (動詞) 再発する。ぶり返す。繰り返される。
+RECURRENCE	(名詞) 再発。回帰。復帰。
+RECURRENCES	(recurrenceの変化形) (名詞) 再発。回帰。復帰。
+RECURRENT	(形容詞) 再発性の。再発する。再来する。
+RECURRING	(動詞) "recur" の動名詞又は現在分詞: 再発する。ぶり返す。繰り返される。\n(形容詞) 再発する。繰り返される。頻発する。
+RECURS	(recurの変化形) (動詞) 再発する。ぶり返す。繰り返される。
+RECURSION	(名詞) 再帰: （数学、計算機科学、論理学、言語学など）同じ構造を入れ子のように繰り返し含むこと。定義されている関数などがそれ自身の定義の中で参照利用されること。
+RECURSIONS	(名詞) recursionの複数形: 再帰: （数学、計算機科学、論理学、言語学など）同じ構造を入れ子のように繰り返し含むこと。定義されている関数などがそれ自身の定義の中で参照利用されること。
+RECURSIVE	(形容詞) recursiveの訳: 反復的な
+RECUSAL	(名詞) recusalの訳: 忌避
+RECUSALS	(名詞) recusalの複数形: 忌避
+RECUSE	(動詞) recuseの訳: 拒絶する, 忌避する
+RECUSED	(recuseの変化形) (動詞) recuseの訳: 拒絶する, 忌避する
+RECUSES	(recuseの変化形) (動詞) recuseの訳: 拒絶する, 忌避する
+RECUSING	(recuseの変化形) (動詞) recuseの訳: 拒絶する, 忌避する
+RECYCLABLE	(形容詞) 再利用可能な、リサイクルできる。\n(名詞) 再利用可能なもの、リサイクルできるもの、資源ごみ。
+RECYCLE	(動詞) 再生利用する。リサイクルする。
+RECYCLED	(動詞) "recycle" の過去形・過去分詞: 再生利用する。リサイクルする。
+RECYCLES	(動詞) recycleの直説法現在第三人称単数形: 再生利用する。リサイクルする。
+RECYCLING	(名詞) 再生利用。リサイクル。\n(動詞) recycleの現在分詞: 再生利用する。リサイクルする。
+RED	(名詞) 赤: あか。出血したばかりの血の色。 (ほかに: 赤色)\n(形容詞) 赤い: （あかい）赤の色を帯びた。赤色又は紅色の。
+REDBREAST	(名詞) ヨーロッパコマドリ。
+REDBREASTS	(名詞) redbreastの複数形: ヨーロッパコマドリ。
+REDDEN	(動詞) reddenの訳: 赤くなる
+REDDENED	(動詞) reddenの過去形・過去分詞: 赤くなる\n(形容詞) reddenedの訳: 赤くなった
+REDDENING	(動詞) reddenの現在分詞: 赤くなる\n(名詞) reddeningの訳: 発赤
+REDDENS	(動詞) reddenの直説法現在第三人称単数形: 赤くなる
+REDDER	(形容詞) "red" の比較級: 赤: あか。出血したばかりの血の色。 (ほかに: 赤色)
+REDDEST	(形容詞) "red" の最上級: 赤: あか。出血したばかりの血の色。 (ほかに: 赤色)
+REDDING	(動詞) reddの現在分詞。
+REDDISH	(形容詞) reddishの訳: 赤みがかった, 赤色をおびた
+REDEEM	(動詞) redeemの訳: ⟪買い戻す|かいもどす⟫
+REDEEMED	(redeemの変化形) (動詞) redeemの訳: ⟪買い戻す|かいもどす⟫
+REDEEMING	(redeemの変化形) (動詞) redeemの訳: ⟪買い戻す|かいもどす⟫
+REDEEMS	(動詞) redeemの直説法現在第三人称単数形: ⟪買い戻す|かいもどす⟫
+REDEMPTION	(名詞) redemptionの訳: 償還, ⟪返済|へんさい⟫
+REDEMPTIONS	(名詞) redemptionの複数形: 償還, ⟪返済|へんさい⟫
+REDEPLOY	(動詞) redeployの訳: 移動させる, 配置転換する
+REDEPLOYED	(動詞) "redeploy" の過去形・過去分詞: 移動させる, 配置転換する
+REDEPLOYING	(動詞) "redeploy" の動名詞又は現在分詞: 移動させる, 配置転換する
+REDEPLOYMENT	(名詞) redeploymentの訳: 配置転換
+REDEPLOYMENTS	(redeploymentの変化形) (名詞) redeploymentの訳: 配置転換
+REDEPLOYS	(動詞) "redeploy" の現在第三人称単数形。
+REDEVELOP	(動詞) redevelopの訳: 再開発する
+REDEVELOPED	(動詞) "redevelop" の過去形・過去分詞: 再開発する
+REDEVELOPER	(redevelopの変化形) (動詞) redevelopの訳: 再開発する
+REDEVELOPING	(動詞) "redevelop" の動名詞又は現在分詞: 再開発する
+REDEVELOPMENT	(名詞) redevelopmentの訳: 再開発
+REDEVELOPMENTS	(redevelopmentの変化形) (名詞) redevelopmentの訳: 再開発
+REDEVELOPS	(動詞) "redevelop" の現在第三人称単数形。
+REDID	(動詞) redoの過去形: 再びやる。
+REDIRECT	(動詞) redirectの訳: 方向を変える\n(名詞) redirectの訳: 向け直すこと
+REDIRECTED	(動詞) redirectの過去形・過去分詞: 方向を変える
+REDIRECTING	(動詞) redirectの現在分詞: 方向を変える
+REDIRECTS	(名詞) redirectの複数形: 方向を変える\n(動詞) redirectの直説法現在第三人称単数形: 方向を変える
+REDISCOVER	(動詞) rediscoverの訳: 再発見する
+REDISCOVERED	(動詞) rediscoverの過去形・過去分詞: 再発見する
+REDISCOVERIES	(名詞) rediscoveryの複数形: 再発見
+REDISCOVERING	(動詞) rediscoverの現在分詞: 再発見する
+REDISCOVERS	(動詞) rediscoverの直説法現在第三人称単数形: 再発見する
+REDISCOVERY	(名詞) rediscoveryの訳: 再発見
+REDLY	(副詞) redlyの訳: 赤く
+REDO	(動詞) redoの訳: 再びやる
+REDOES	(動詞) redoの直説法現在第三人称単数形: 再びやる。
+REDOING	(動詞) "redo" の動名詞又は現在分詞: 再びやる
+REDOLENCE	(名詞) 芳香: 芳しい香り。良い香り。
+REDOLENCES	(名詞) redolenceの複数形: 芳香: 芳しい香り。良い香り。
+REDOLENT	(形容詞) 香りの良い。芳香のある。
+REDOLENTLY	(redolentの変化形) (形容詞) 香りの良い。芳香のある。
+REDONE	(動詞) redoの過去分詞: 再びやる。
+REDOS	(redoの変化形) (動詞) redoの訳: 再びやる
+REDOUBLE	(動詞) redoubleの訳: 倍加させる\n(名詞) redoubleの訳: リダブルする
+REDOUBLED	(動詞) redoubleの過去形・過去分詞: 倍加させる
+REDOUBLES	(動詞) redoubleの直説法現在第三人称単数形: 倍加させる
+REDOUBLING	(動詞) redoubleの現在分詞: 倍加させる\n(名詞) 倍加: 倍に増やす、または増えること。
+REDOUBT	(名詞) redoubtの訳: ⟪砦|とりで⟫, 小要塞\n(動詞) redoubtの訳: 要塞を築く
+REDOUBTABLE	(形容詞) redoubtableの訳: 恐るべき, 侮りがたい\n(名詞) redoubtableの訳: 恐るべき人
+REDOUBTS	(名詞) redoubtの複数形: 砦、小要塞。\n(動詞) redoubtの直説法現在第三人称単数形: ⟪砦|とりで⟫, 小要塞
+REDOX	(名詞) redoxの訳: 酸化還元
+REDOXES	(redoxの変化形) (名詞) redoxの訳: 酸化還元
+REDRESS	(動詞) redressの訳: ⟪正す|ただす⟫, 是正する, 矯正する\n(名詞) redressの訳: ⟪矯正|きょうせい⟫
+REDRESSED	(動詞) "redress" の過去形・過去分詞: ⟪正す|ただす⟫, 是正する, 矯正する
+REDRESSES	(名詞) "redress" の複数形: ⟪正す|ただす⟫, 是正する, 矯正する\n(動詞) "redress" の現在第三人称単数形。
+REDRESSING	(動詞) "redress" の動名詞又は現在分詞: ⟪正す|ただす⟫, 是正する, 矯正する
+REDS	(名詞) redの複数形: 赤: あか。出血したばかりの血の色。 (ほかに: 赤色)
+REDUCE	(動詞) 減らす: （へらす）小さくする。すり減らす。 (ほかに: 削減する)
+REDUCED	(動詞) "reduce" の過去形・過去分詞: 減らす: （へらす）小さくする。すり減らす。 (ほかに: 削減する)
+REDUCES	(動詞) "reduce" の現在第三人称単数形。
+REDUCIBLE	(形容詞) 減らせる。削減できる。
+REDUCING	(動詞) "reduce" の動名詞又は現在分詞: 減らす: （へらす）小さくする。すり減らす。 (ほかに: 削減する)
+REDUCTION	(名詞) 削減。減少。減らすこと。
+REDUCTIONS	(名詞) reductionの複数形: 削減。減少。減らすこと。
+REDUNDANCIES	(名詞) redundancyの複数形: ⟪余分|よぶん⟫, 余剰, ⟪過剰|かじょう⟫
+REDUNDANCY	(名詞) redundancyの訳: ⟪余分|よぶん⟫, 余剰, ⟪過剰|かじょう⟫
+REDUNDANT	(形容詞) 余分な: 必要以上に多いこと。 (ほかに: 余剰の, 冗長な)
+REDWOOD	(名詞) redwoodの訳: セコイア
+REDWOODS	(redwoodの変化形) (名詞) redwoodの訳: セコイア
+REED	(名詞) よし: 水辺に群生するイネ科の植物であるあしの別名。標準和名は「ヨシ」。学名は Phragmites australis (Cav.) Trin. ex Steud.。 (ほかに: あし, した)
+REEDS	(reedの変化形) (名詞) よし: 水辺に群生するイネ科の植物であるあしの別名。標準和名は「ヨシ」。学名は Phragmites australis (Cav.) Trin. ex Steud.。 (ほかに: あし, した)
+REEF	(名詞) 岩礁: 水中に隠れていたり水面上にわずかに突き出ている岩。 (ほかに: 暗礁)\n(動詞) reefの訳: 縮帆する
+REEFED	(reefの変化形) (名詞) 岩礁: 水中に隠れていたり水面上にわずかに突き出ている岩。 (ほかに: 暗礁)
+REEFING	(reefの変化形) (名詞) 岩礁: 水中に隠れていたり水面上にわずかに突き出ている岩。 (ほかに: 暗礁)
+REEFS	(名詞) reefの複数形: 岩礁: 水中に隠れていたり水面上にわずかに突き出ている岩。 (ほかに: 暗礁)\n(動詞) reefの直説法現在第三人称単数形: 岩礁: 水中に隠れていたり水面上にわずかに突き出ている岩。 (ほかに: 暗礁)
+REEK	(名詞) 悪臭: 不快なにおい。
+REEKED	(reekの変化形) (名詞) 悪臭: 不快なにおい。
+REEKER	(reekの変化形) (名詞) 悪臭: 不快なにおい。
+REEKING	(reekの変化形) (名詞) 悪臭: 不快なにおい。
+REEKS	(reekの変化形) (名詞) 悪臭: 不快なにおい。
+REELECT	(動詞) 再選する: 再び選挙すること。
+REELECTED	(動詞) "reelect" の過去形・過去分詞: 再選する: 再び選挙すること。
+REELECTING	(動詞) "reelect" の動名詞又は現在分詞: 再選する: 再び選挙すること。
+REELECTION	(名詞) 再選: 再び選挙すること。
+REELECTIONS	(reelectionの変化形) (名詞) 再選: 再び選挙すること。
+REELECTS	(動詞) "reelect" の現在第三人称単数形。
+REELING	(名詞) reelingの訳: 製糸
+REENTRIES	(reentryの変化形) (名詞) reentryの訳: 再入場
+REENTRY	(名詞) reentryの訳: 再入場
+REESTABLISH	(動詞) 復元する: 変化したものをもとに戻すこと。 (ほかに: 再建する, 再構築する)
+REESTABLISHED	(動詞) reestablishの過去形・過去分詞: 復元する: 変化したものをもとに戻すこと。 (ほかに: 再建する, 再構築する)
+REESTABLISHES	(動詞) reestablishの直説法現在第三人称単数形: 復元する: 変化したものをもとに戻すこと。 (ほかに: 再建する, 再構築する)
+REESTABLISHING	(動詞) reestablishの現在分詞: 復元する: 変化したものをもとに戻すこと。 (ほかに: 再建する, 再構築する)
+REFECTORIES	(名詞) refectoryの複数形: 食堂: （しょくどう）建物において、そこに居住する人が食事を供する目的の場所、空間、部屋。
+REFECTORY	(名詞) 食堂: （しょくどう）建物において、そこに居住する人が食事を供する目的の場所、空間、部屋。
+REFER	(動詞) 言及する: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。
+REFEREEING	(名詞) refereeingの訳: 査読
+REFERENCE	(名詞) 言及: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。\n(動詞) referenceの訳: 参照する
+REFERENCED	(動詞) "reference" の過去形・過去分詞: 言及: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。
+REFERENCES	(名詞) "reference" の複数形: 言及: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。\n(動詞) "reference" の現在第三人称単数形。
+REFERENCING	(動詞) "reference" の動名詞又は現在分詞: 言及: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。
+REFERENDA	(名詞) referendumの複数形: 住民投票: 地方公共団体の議会の解散、首長の解職、その地方公共団体だけに適用される法律の制定などについてその地方公共団体の住民の投票により決定する制度。...
+REFERENDUM	(名詞) 住民投票: 地方公共団体の議会の解散、首長の解職、その地方公共団体だけに適用される法律の制定などについてその地方公共団体の住民の投票により決定する制度。 (ほかに: 国民投票)
+REFERENDUMS	(名詞) referendumの複数形: 住民投票: 地方公共団体の議会の解散、首長の解職、その地方公共団体だけに適用される法律の制定などについてその地方公共団体の住民の投票により決定する制度。...
+REFERRAL	(名詞) referralの訳: 照会
+REFERRALS	(referralの変化形) (名詞) referralの訳: 照会
+REFERRED	(動詞) referの過去形・過去分詞: 言及する: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。
+REFERRING	(動詞) referの動名詞又は現在分詞: 言及する: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。\n(名詞) 指示: それと指し示すこと。
+REFERS	(動詞) referの直説法現在第三人称単数形: 言及する: 話の中である事柄にまで言い及ぶこと。ある事柄に触れること。
+REFILL	(名詞) refillの訳: お代わり\n(動詞) refillの訳: 詰め替える, 補充する
+REFILLED	(動詞) refillの過去形・過去分詞: お代わり
+REFILLING	(動詞) refillの現在分詞: お代わり\n(名詞) 補給: 足りない物を補うこと。リフィル。 (ほかに: 補充)
+REFILLS	(名詞) refillの複数形: お代わり。\n(動詞) refillの直説法現在第三人称単数形: お代わり
+REFINE	(動詞) 精製する。精錬する。
+REFINED	(動詞) refineの過去形・過去分詞: 精製する。精錬する。\n(形容詞) 精製された。精錬された。純化された。
+REFINEMENT	(名詞) 精製: 正しく整っていること。また、そのようなさま。 (ほかに: 精錬, 純化)
+REFINEMENTS	(名詞) refinementの複数形: 精製: 正しく整っていること。また、そのようなさま。 (ほかに: 精錬, 純化)
+REFINER	(名詞) 精製業者。精錬業者。
+REFINERIES	(名詞) refineryの複数形: 精製所。製錬所。
+REFINERS	(名詞) refinerの複数形: 精製業者。精錬業者。
+REFINERY	(名詞) 精製所。製錬所。
+REFINES	(動詞) refineの直説法現在第三人称単数形: 精製する。精錬する。
+REFINING	(動詞) refineの現在分詞: 精製する。精錬する。\n(名詞) 精製: 不純物を取り除くこと。 (ほかに: 精錬)
+REFLECT	(動詞) reflectの訳: 反射する
+REFLECTED	(動詞) "reflect" の過去形・過去分詞: 反射する
+REFLECTING	(動詞) "reflect" の動名詞又は現在分詞: 反射する
+REFLECTION	(名詞) reflectionの訳: ⟪反射|はんしゃ⟫
+REFLECTIONS	(名詞) "reflection" の複数形: ⟪反射|はんしゃ⟫
+REFLECTS	(動詞) "reflect" の現在第三人称単数形。
+REFLET	(名詞) refletの訳: ⟪虹色|にじいろ⟫
+REFLETS	(名詞) refletの複数形: 虹色。
+REFLEX	(名詞) 反射: 意志とは関係なく起こる、刺激に対する生理的な反応。無条件反射。
+REFLEXES	(名詞) reflexesの訳: 反射神経
+REFLEXING	(reflexの変化形) (名詞) 反射: 意志とは関係なく起こる、刺激に対する生理的な反応。無条件反射。
+REFLEXIVE	(形容詞) reflexiveの訳: 再帰用法の\n(名詞) reflexiveの訳: 再帰代名詞, 再帰動詞
+REFLEXIVELY	(reflexiveの変化形) (形容詞) reflexiveの訳: 再帰用法の
+REFLEXIVES	(名詞) reflexive の複数形: 再帰用法の
+REFLEXOLOGIES	(reflexologyの変化形) (名詞) reflexologyの訳: 反射学
+REFLEXOLOGY	(名詞) reflexologyの訳: 反射学
+REFOREST	(動詞) 森林を再生させる。
+REFORESTATION	(名詞) reforestationの訳: 森林再生
+REFORESTATIONS	(名詞) reforestationの複数形: 森林再生
+REFORESTED	(動詞) reforestの過去形・過去分詞: 森林を再生させる。
+REFORESTING	(動詞) reforestの現在分詞: 森林を再生させる。
+REFORESTS	(動詞) reforestの直説法現在第三人称単数形: 森林を再生させる。
+REFORM	(動詞) 改善する: 悪い所を直し、良くすること。\n(名詞) 改善。改革。刷新。
+REFORMATION	(名詞) 改善: （TQC活動またはTQM活動において）生産性または品質を向上させること、もしくは納期を短縮させること。特に、品質の向上、即ち歩留率を向上させることを言う。 (ほかに: 改革)
+REFORMATIONS	(reformationの変化形) (名詞) 改善: （TQC活動またはTQM活動において）生産性または品質を向上させること、もしくは納期を短縮させること。特に、品質の向上、即ち歩留率を向上させることを言う。 (ほかに: 改革)
+REFORMED	(動詞) "reform" の過去形・過去分詞: 改善する: 悪い所を直し、良くすること。
+REFORMING	(動詞) "reform" の動名詞又は現在分詞: 改善する: 悪い所を直し、良くすること。
+REFORMS	(名詞) "reform" の複数形: 改善する: 悪い所を直し、良くすること。\n(動詞) "reform" の現在第三人称単数形。
+REFRACT	(動詞) 屈折する: 屈折素性の値に応じて語形変化すること。言語により、屈折接辞による規則的な弱変化と、不規則な強変化、両者が混合した混合変化などがある。
+REFRACTED	(動詞) refractの過去形・過去分詞: 屈折する: 屈折素性の値に応じて語形変化すること。言語により、屈折接辞による規則的な弱変化と、不規則な強変化、両者が混合した混合変化などがある。
+REFRACTING	(動詞) refractの現在分詞: 屈折する: 屈折素性の値に応じて語形変化すること。言語により、屈折接辞による規則的な弱変化と、不規則な強変化、両者が混合した混合変化などがある。
+REFRACTION	(名詞) 屈折: 波動が他の媒質へ進むとき境界面で進行方向を変えること。
+REFRACTIONS	(名詞) refractionの複数形: 屈折: 波動が他の媒質へ進むとき境界面で進行方向を変えること。
+REFRACTORIES	(refractoryの変化形) (形容詞) refractoryの訳: 反抗的な
+REFRACTORY	(形容詞) refractoryの訳: 反抗的な
+REFRACTS	(動詞) refractの直説法現在第三人称単数形: 屈折する: 屈折素性の値に応じて語形変化すること。言語により、屈折接辞による規則的な弱変化と、不規則な強変化、両者が混合した混合変化などがある。
+REFRAIN	(動詞) 慎む: （慎む）調子に乗り過ちを犯さぬよう、行動を控えめにする。 (ほかに: 差し控える, 我慢する)\n(名詞) refrainの訳: 繰り返し句, リフレーン
+REFRAINED	(動詞) refrainの過去形・過去分詞: 慎む: （慎む）調子に乗り過ちを犯さぬよう、行動を控えめにする。 (ほかに: 差し控える, 我慢する)
+REFRAINING	(動詞) refrainの現在分詞: 慎む: （慎む）調子に乗り過ちを犯さぬよう、行動を控えめにする。 (ほかに: 差し控える, 我慢する)
+REFRAINS	(名詞) refrainの複数形: 慎む: （慎む）調子に乗り過ちを犯さぬよう、行動を控えめにする。 (ほかに: 差し控える, 我慢する)\n(動詞) refrainの直説法現在第三人称単数形: 慎む: （慎む）調子に乗り過ちを犯さぬよう、行動を控えめにする。 (ほかに: 差し控える, 我慢する)
+REFRESH	(動詞) refreshの訳: 爽やかにする, 元気付ける
+REFRESHED	(動詞) refreshの過去形・過去分詞: 爽やかにする, 元気付ける
+REFRESHES	(動詞) refreshの直説法現在第三人称単数形: 爽やかにする, 元気付ける
+REFRESHING	(動詞) "refresh" の動名詞又は現在分詞: 爽やかにする, 元気付ける\n(形容詞) refreshingの訳: 爽快な, さわやかな
+REFRESHMENTS	(名詞) 茶菓: 茶と菓子。
+REFRIGERANT	(名詞) refrigerantの訳: 冷却剤\n(形容詞) 冷却能力のある。
+REFRIGERANTS	(名詞) refrigerantの複数形: 冷却剤
+REFRIGERATE	(動詞) ～を冷却する。冷蔵する。
+REFRIGERATED	(動詞) "refrigerate" の過去形・過去分詞: ～を冷却する。冷蔵する。
+REFRIGERATES	(動詞) "refrigerate" の現在第三人称単数形。
+REFRIGERATING	(動詞) "refrigerate" の動名詞又は現在分詞: ～を冷却する。冷蔵する。
+REFRIGERATION	(名詞) 冷却: 冷やすこと。 (ほかに: 冷蔵)
+REFRIGERATIONS	(refrigerationの変化形) (名詞) 冷却: 冷やすこと。 (ほかに: 冷蔵)
+REFRIGERATOR	(名詞) 冷蔵庫。冷凍庫。
+REFRIGERATORS	(refrigeratorの変化形) (名詞) 冷蔵庫。冷凍庫。
+REFUGE	(名詞) refugeの訳: 避難, 保護\n(動詞) 避難する: （ひなんする）（他の人の弱みや過ちを）責め、なじり、とがめ立てる。
+REFUGED	(動詞) refugeの過去形・過去分詞: 避難, 保護
+REFUGEE	(名詞) 亡命者: 主に政治的、宗教的な迫害を避けるため他国に亡命する者。 (ほかに: 難民)
+REFUGEES	(refugeeの変化形) (名詞) 亡命者: 主に政治的、宗教的な迫害を避けるため他国に亡命する者。 (ほかに: 難民)
+REFUGES	(名詞) refugeの複数形: 避難, 保護\n(動詞) refugeの直説法現在第三人称単数形: 避難, 保護
+REFUGING	(動詞) refugeの現在分詞: 避難, 保護
+REFULGENT	(形容動詞) refulgentの訳: 燦然
+REFUND	(動詞) refundの訳: ～を払い戻す, 償還する\n(名詞) 償還: 借金や土地など借りたものを返却すること。 (ほかに: 払い戻し)
+REFUNDED	(動詞) refundの過去形・過去分詞: ～を払い戻す, 償還する
+REFUNDING	(動詞) refundの現在分詞: ～を払い戻す, 償還する
+REFUNDS	(名詞) refundの複数形: ～を払い戻す, 償還する\n(動詞) refundの直説法現在第三人称単数形: ～を払い戻す, 償還する
+REFUSAL	(名詞) 拒絶: 相手の要求や希望を絶つこと。断ること。 (ほかに: 拒否)
+REFUSALS	(名詞) "refusal" の複数形: 拒絶: 相手の要求や希望を絶つこと。断ること。 (ほかに: 拒否)
+REFUSE	(形容詞) refuseの訳: 廃棄された, 捨てられた\n(名詞) refuseの訳: 廃棄物
+REFUSED	(動詞) refuseの過去形・過去分詞: 廃棄された, 捨てられた
+REFUSER	(名詞) refuserの訳: 拒絶する者, 拒否する者
+REFUSERS	(名詞) refuserの複数形: 拒絶する者, 拒否する者
+REFUSES	(名詞) refuseの複数形: 廃棄された, 捨てられた\n(動詞) refuseの現在第三人称単数形。
+REFUSING	(動詞) refuseの動名詞又は現在分詞: 廃棄された, 捨てられた
+REFUTABLE	(形容詞) 言い返せる。反駁できる。
+REFUTATION	(名詞) 論駁: 相手の欠点、誤り、不正などを論じて攻撃すること。 (ほかに: 反駁, 反論)
+REFUTATIONS	(名詞) refutationの複数形: 論駁: 相手の欠点、誤り、不正などを論じて攻撃すること。 (ほかに: 反駁, 反論)
+REFUTE	(動詞) 言い返す。反駁する。反論する。
+REFUTED	(動詞) refuteの過去形・過去分詞: 言い返す。反駁する。反論する。
+REFUTES	(動詞) "refute" の現在第三人称単数形。
+REFUTING	(動詞) refuteの動名詞又は現在分詞: 言い返す。反駁する。反論する。
+REGAIN	(動詞) 取り戻す: 回復する。 (ほかに: 回復する)
+REGAINED	(動詞) regainの過去形・過去分詞: 取り戻す: 回復する。 (ほかに: 回復する)
+REGAINER	(regainの変化形) (動詞) 取り戻す: 回復する。 (ほかに: 回復する)
+REGAINING	(動詞) regainの動名詞又は現在分詞: 取り戻す: 回復する。 (ほかに: 回復する)\n(名詞) 回復: 一度失くしたものを、再び取り戻すこと。
+REGAINS	(動詞) regainの直説法現在第三人称単数形: 取り戻す: 回復する。 (ほかに: 回復する)
+REGAL	(形容詞) 王の: 地位や権力、成績などが一番上である人やもの。
+REGALE	(名詞) 御馳走: 特別に食事などをふるまうこと。来客へ食事をもてなすこと。また、食事などをふるまわれたり、もてなされたりすること。\n(動詞) regaleの訳: ⟪もてなす⟫, 喜ばせる
+REGALED	(動詞) regaleの過去形・過去分詞: 御馳走: 特別に食事などをふるまうこと。来客へ食事をもてなすこと。また、食事などをふるまわれたり、もてなされたりすること。
+REGALER	(regalの変化形) (形容詞) 王の: 地位や権力、成績などが一番上である人やもの。
+REGALERS	(regalの変化形) (形容詞) 王の: 地位や権力、成績などが一番上である人やもの。
+REGALES	(動詞) regaleの直説法現在第三人称単数形: 御馳走: 特別に食事などをふるまうこと。来客へ食事をもてなすこと。また、食事などをふるまわれたり、もてなされたりすること。
+REGALING	(動詞) regaleの現在分詞: 御馳走: 特別に食事などをふるまうこと。来客へ食事をもてなすこと。また、食事などをふるまわれたり、もてなされたりすること。
+REGALLY	(副詞) 王らしく。威厳を持って。
+REGARD	(動詞) regardの訳: ⟪見做す|みなす⟫, ⟪考える|かんがえる⟫\n(名詞) regardの訳: 尊敬, 敬意, 好感
+REGARDED	(動詞) "regard" の過去形・過去分詞: ⟪見做す|みなす⟫, ⟪考える|かんがえる⟫
+REGARDING	(動詞) regardの現在分詞: 見做す、考える。\n(前置詞) regardingの訳: ～に関して
+REGARDLESS	(形容詞) regardlessの訳: 注意しない, 無頓着な\n(副詞) regardlessの訳: ⟪とにかく⟫, 御構い無しに
+REGARDLESSLY	(regardlessの変化形) (形容詞) regardlessの訳: 注意しない, 無頓着な
+REGARDS	(名詞) "regard" の複数形: ⟪見做す|みなす⟫, ⟪考える|かんがえる⟫\n(動詞) regardの現在第三人称単数形。
+REGENERACIES	(regeneracyの変化形) (名詞) regeneracyの訳: 改心
+REGENERACY	(名詞) regeneracyの訳: 改心
+REGENERATION	(名詞) 再生: 怪我、破損するなどで失った部分を修復すること。 (ほかに: 再建, 復活)
+REGENERATIONS	(regenerationの変化形) (名詞) 再生: 怪我、破損するなどで失った部分を修復すること。 (ほかに: 再建, 復活)
+REGENT	(名詞) regentの訳: 摂政
+REGENTS	(regentの変化形) (名詞) regentの訳: 摂政
+REGICIDE	(名詞) 弑逆: 主君や親など、目上の者を殺害すること。
+REGICIDES	(regicideの変化形) (名詞) 弑逆: 主君や親など、目上の者を殺害すること。
+REGIME	(名詞) 体制: 現行の支配的権力。 (ほかに: 政権)
+REGIMENT	(名詞) 連隊: 軍隊の編制上の単位の一つ。大隊の上、旅団の下。
+REGIMENTAL	(名詞) regimentalの訳: 軍服
+REGIMENTED	(regimentの変化形) (名詞) 連隊: 軍隊の編制上の単位の一つ。大隊の上、旅団の下。
+REGIMENTING	(regimentの変化形) (名詞) 連隊: 軍隊の編制上の単位の一つ。大隊の上、旅団の下。
+REGIMENTS	(regimentの変化形) (名詞) 連隊: 軍隊の編制上の単位の一つ。大隊の上、旅団の下。
+REGIMES	(regimeの変化形) (名詞) 体制: 現行の支配的権力。 (ほかに: 政権)
+REGION	(名詞) 地方。地域。地帯。地区。
+REGIONAL	(形容詞) 地域の: 政治・経済・文化・地形などで共通の特徴をもつ、ひとまとまりの土地。 (ほかに: 地方の)
+REGIONALS	(regionalの変化形) (形容詞) 地域の: 政治・経済・文化・地形などで共通の特徴をもつ、ひとまとまりの土地。 (ほかに: 地方の)
+REGIONS	(regionの変化形) (名詞) 地方。地域。地帯。地区。
+REGISTER	(名詞) 記録簿。登録簿。名簿。\n(動詞) 記録する。登録する。登記する。
+REGISTERED	(動詞) registerの過去形・過去分詞: 記録簿。登録簿。名簿。\n(形容詞) registeredの訳: 登録済みの
+REGISTERING	(動詞) registerの現在分詞: 記録簿。登録簿。名簿。
+REGISTERS	(名詞) registerの複数形: 記録簿。登録簿。名簿。\n(動詞) registerの直説法現在第三人称単数形: 記録簿。登録簿。名簿。
+REGISTRAR	(名詞) registrarの訳: 登記係, 戸籍係
+REGISTRARS	(名詞) registrarの複数形: 登記係, 戸籍係
+REGISTRATION	(名詞) 登録: 入会や参加の手続きのために申請された氏名や属性などを記録すること。台帳やデータベース（コンピュータ）などの記録媒体に記すこと。エントリーすること。 (ほかに: 登記, 記録)
+REGISTRATIONS	(名詞) registrationの複数形: 登録: 入会や参加の手続きのために申請された氏名や属性などを記録すること。台帳やデータベース（コンピュータ）などの記録媒体に記すこと。エントリーすること。...
+REGISTRIES	(名詞) registryの複数形: 登録簿保管所
+REGISTRY	(名詞) registryの訳: 登録簿保管所
+REGRESS	(名詞) 後退。退行。逆進。逆行。\n(動詞) 後退する。退行する。逆進する。
+REGRESSED	(regressの変化形) (名詞) 後退。退行。逆進。逆行。
+REGRESSES	(動詞) regressの直説法現在第三人称単数形: 後退。退行。逆進。逆行。
+REGRESSING	(動詞) regressの現在分詞: 後退。退行。逆進。逆行。
+REGRESSION	(名詞) regressionの訳: 後退
+REGRESSIONS	(名詞) regressionの複数形: 後退
+REGRESSIVE	(名詞) regressiveの訳: 後進的母音同化
+REGRET	(名詞) 遺憾: そうなる（ならない）ように努めたものの、期待した結果が得られず悔いを残すこと。思いどおりに事が運ばず心残りなこと。残念であること。自分の行動を釈明してわびる場合にも、相手の行動に対して非難の気持ちを表す場合にも用いる。 (ほかに: 残念)\n(動詞) regretの訳: 後悔する
+REGRETFUL	(形容詞) 残念そうな。後悔した。
+REGRETFULLY	(副詞) 残念そうに。悔やんで。
+REGRETS	(名詞) regretの複数形: 遺憾:...\n(動詞) regretの直説法現在第三人称単数形: 遺憾:...
+REGRETTABLE	(形容詞) 残念な。遺憾な。
+REGRETTABLY	(副詞) 残念ながら。遺憾なことに。
+REGRETTED	(動詞) regretの過去形・過去分詞: 遺憾:...
+REGRETTER	(名詞) 悔やむ人。後悔する人。
+REGRETTING	(動詞) regretの動名詞又は現在分詞: 遺憾:...\n(名詞) 後悔: 後になって自分のしたことやしなかったことを悔やむこと。
+REGROWTH	(名詞) 再生。再増殖、再成長。取り除かれた後に、再び成長すること。また、その過程、あるいはその再生によって生じたもの。
+REGROWTHS	(regrowthの変化形) (名詞) 再生。再増殖、再成長。取り除かれた後に、再び成長すること。また、その過程、あるいはその再生によって生じたもの。
+REGULAR	(形容詞) 修道会の。[14世紀より]\n(名詞) regularの訳: 正規兵
+REGULARITIES	(名詞) regularityの複数形: 規則性。列から外れないこと。
+REGULARITY	(名詞) 規則性。列から外れないこと。
+REGULARLY	(副詞) 規則的に。そろって。
+REGULARS	(名詞) regularの複数形: 修道会の。[14世紀より]
+REGULATE	(動詞) regulateの訳: 規制する
+REGULATED	(動詞) regulateの過去形・過去分詞: 規制する
+REGULATES	(動詞) "regulate" の三人称単数現在形: 規制する
+REGULATING	(動詞) regulateの動名詞又は現在分詞: 規制する
+REGULATION	(名詞) 規定: 決まりとして定めること、また、定められた事柄。 (ほかに: 規則, 規約)\n(形容詞) regulationの訳: 規定の, 正規の
+REGULATIONS	(名詞) "regulation" の複数形: 規定: 決まりとして定めること、また、定められた事柄。 (ほかに: 規則, 規約)
+REGULI	(名詞) regulusの複数形: レギュラス
+REGULUS	(名詞) regulusの訳: レギュラス
+REGULUSES	(名詞) regulusの複数形: レギュラス
+REHABILITATE	(動詞) （訓練して）社会復帰させる
+REHABILITATED	(動詞) "rehabilitate" の過去形・過去分詞: （訓練して）社会復帰させる
+REHABILITATES	(動詞) "rehabilitate" の現在第三人称単数形。
+REHABILITATING	(動詞) "rehabilitate" の動名詞又は現在分詞: （訓練して）社会復帰させる
+REHABILITATION	(名詞) リハビリテーション。
+REHABILITATIONS	(rehabilitationの変化形) (名詞) リハビリテーション。
+REHEARSAL	(名詞) リハーサル: 演劇・演奏・放送などで本番同様に進行させて行う予行練習。 (ほかに: 稽古, 予行練習)
+REHEARSALS	(名詞) rehearsalの複数形: リハーサル: 演劇・演奏・放送などで本番同様に進行させて行う予行練習。 (ほかに: 稽古, 予行練習)
+REHEARSE	(動詞) 繰り返し述べる、復唱する。
+REHEARSED	(rehearseの変化形) (動詞) 繰り返し述べる、復唱する。
+REHEARSES	(動詞) rehearseの直説法現在第三人称単数形: 繰り返し述べる、復唱する。
+REHEARSING	(動詞) rehearseの現在分詞: 繰り返し述べる、復唱する。\n(名詞) リハーサル: 演劇・演奏・放送などで本番同様に進行させて行う予行練習。 (ほかに: 稽古, 予行練習)
+REIGN	(名詞) reignの訳: 治世, 統治期間\n(動詞) reignの訳: 君臨する
+REIGNED	(動詞) reignの過去形・過去分詞: 治世, 統治期間
+REIGNING	(形容詞) reigningの訳: 在位中の\n(動詞) reignの動名詞又は現在分詞: 治世, 統治期間
+REIGNS	(名詞) "reign" の複数形: 治世, 統治期間\n(動詞) "reign" の現在第三人称単数形。
+REIMPORT	(動詞) 逆輸入: ある国や地域で生み出されたものが別の国や地域へ持ち込まれ、その地で変化を遂げたもの、あるいはその地でそのままの状態を維持していたものを、元の国や地域に持ち込む。
+REIMPORTATION	(名詞) 逆輸入: ある国や地域で生み出されたものが別の国や地域へ持ち込まれ、その地で変化を遂げたもの、あるいはその地でそのままの状態を維持していたものが、元の国や地域に持ち込まれること。
+REIMPORTATIONS	(reimportationの変化形) (名詞) 逆輸入: ある国や地域で生み出されたものが別の国や地域へ持ち込まれ、その地で変化を遂げたもの、あるいはその地でそのままの状態を維持していたものが、元の国や地域に持ち込まれること。
+REIMPORTED	(reimportの変化形) (動詞) 逆輸入: ある国や地域で生み出されたものが別の国や地域へ持ち込まれ、その地で変化を遂げたもの、あるいはその地でそのままの状態を維持していたものを、元の国や地域に持ち込む。
+REIMPORTING	(reimportの変化形) (動詞) 逆輸入: ある国や地域で生み出されたものが別の国や地域へ持ち込まれ、その地で変化を遂げたもの、あるいはその地でそのままの状態を維持していたものを、元の国や地域に持ち込む。
+REIMPORTS	(reimportの変化形) (動詞) 逆輸入: ある国や地域で生み出されたものが別の国や地域へ持ち込まれ、その地で変化を遂げたもの、あるいはその地でそのままの状態を維持していたものを、元の国や地域に持ち込む。
+REIN	(名詞) reinの訳: 手綱\n(動詞) 手綱で馬を操る。
+REINCARNATE	(名詞) 転生: 生まれ変わること。
+REINCARNATED	(reincarnateの変化形) (名詞) 転生: 生まれ変わること。
+REINCARNATES	(reincarnateの変化形) (名詞) 転生: 生まれ変わること。
+REINCARNATING	(reincarnateの変化形) (名詞) 転生: 生まれ変わること。
+REINCARNATION	(名詞) reincarnationの訳: 転生, 輪廻
+REINCARNATIONS	(reincarnationの変化形) (名詞) reincarnationの訳: 転生, 輪廻
+REINDEER	(名詞) reindeerの訳: トナカイ
+REINDEERS	(reindeerの変化形) (名詞) reindeerの訳: トナカイ
+REINED	(reinの変化形) (名詞) reinの訳: 手綱
+REINFORCE	(動詞) 強化する: 強くすること。 (ほかに: 補強する)
+REINFORCED	(動詞) reinforceの過去形・過去分詞: 強化する: 強くすること。 (ほかに: 補強する)\n(形容詞) reinforcedの訳: 強化された
+REINFORCEMENT	(名詞) 増強: 人員や設備を増やして機能を強化すること。 (ほかに: 補強)
+REINFORCEMENTS	(名詞) "reinforcement" の複数形: 増強: 人員や設備を増やして機能を強化すること。 (ほかに: 補強)
+REINFORCES	(動詞) reinforceの現在第三人称単数形。
+REINFORCING	(形容詞) reinforcingの訳: 補強する, 強化する\n(名詞) 強化: 強くすること。 (ほかに: 補強)
+REINING	(reinの変化形) (名詞) reinの訳: 手綱
+REINS	(reinの変化形) (名詞) reinの訳: 手綱
+REINSTATE	(動詞) reinstateの訳: 復帰させる, 復職させる
+REINSTATED	(動詞) reinstateの過去形・過去分詞: 復帰させる, 復職させる
+REINSTATEMENT	(名詞) 復位: 元の地位などに復帰すること。 (ほかに: 復帰, 復職)
+REINSTATEMENTS	(名詞) reinstatementの複数形: 復位: 元の地位などに復帰すること。 (ほかに: 復帰, 復職)
+REINSTATES	(動詞) reinstateの直説法現在第三人称単数形: 復帰させる, 復職させる
+REINSTATING	(動詞) reinstateの現在分詞: 復帰させる, 復職させる
+REINVIGORATE	(動詞) reinvigorateの訳: 生き返らせる, 再活性化する
+REINVIGORATED	(動詞) reinvigorateの過去形・過去分詞: 生き返らせる, 再活性化する\n(形容詞) 再活性化された。
+REINVIGORATES	(動詞) reinvigorateの直説法現在第三人称単数形: 生き返らせる, 再活性化する
+REINVIGORATING	(動詞) reinvigorateの現在分詞: 生き返らせる, 再活性化する
+REIS	(realの変化形) (形容詞) realの訳: 本当の
+REISSUE	(動詞) reissueの訳: 再版する, 再発行する\n(名詞) 再版: 初版と同じ版を使って再び出版すること。 (ほかに: 再発行)
+REISSUED	(動詞) "reissue" の過去形・過去分詞: 再版する, 再発行する
+REISSUER	(reissueの変化形) (動詞) reissueの訳: 再版する, 再発行する
+REISSUES	(名詞) "reissue" の複数形: 再版する, 再発行する\n(動詞) "reissue" の現在第三人称単数形。
+REISSUING	(動詞) "reissue" の動名詞又は現在分詞: 再版する, 再発行する
+REJECT	(動詞) 拒絶する、却下する、受け入れることを拒む。\n(名詞) 拒絶されたもの。
+REJECTED	(動詞) rejectの過去形・過去分: 拒絶する、却下する、受け入れることを拒む。
+REJECTING	(動詞) rejectの動名詞又は現在分詞: 拒絶する、却下する、受け入れることを拒む。
+REJECTION	(名詞) 拒絶: 相手の要求や希望を絶つこと。断ること。 (ほかに: 却下, 拒否)
+REJECTIONS	(名詞) rejectionの複数形: 拒絶: 相手の要求や希望を絶つこと。断ること。 (ほかに: 却下, 拒否)
+REJECTS	(名詞) rejectの複数形: 拒絶する、却下する、受け入れることを拒む。\n(動詞) rejectの現在第三人称単数形。
+REJOICE	(動詞) rejoiceの訳: 喜ぶ, 大喜びする
+REJOICED	(動詞) rejoiceの過去形・過去分詞: 喜ぶ, 大喜びする\n(形容詞) 嬉しい、喜んでいる。[16世紀より]
+REJOICES	(動詞) "rejoice" の現在第三人称単数形。
+REJOICING	(動詞) rejoiceの現在分詞: 喜ぶ, 大喜びする\n(名詞) 喜び: 喜ぶこと。 (ほかに: 歓喜)
+REJOICINGS	(名詞) rejoicingの複数形: rejoiceの現在分詞。
+REJOIN	(動詞) rejoinの訳: 再結合する, 再接合する
+REJOINED	(動詞) rejoinの過去形・過去分詞: 再結合する, 再接合する
+REJOINING	(動詞) rejoinの現在分詞: 再結合する, 再接合する\n(名詞) rejoiningの訳: 再結合
+REJOINS	(動詞) rejoinの直説法現在第三人称単数形: 再結合する, 再接合する
+REKINDLE	(動詞) 再び火を点ける
+REKINDLED	(動詞) "rekindle" の過去形・過去分詞: 再び火を点ける
+REKINDLES	(動詞) "rekindle" の現在第三人称単数形。
+REKINDLING	(動詞) "rekindle" の動名詞又は現在分詞: 再び火を点ける
+RELAID	(動詞) relayの過去形・過去分詞: （替えの）猟犬。[15世紀より]
+RELAPSE	(動詞) ぶりかえす: 収まりかけていた病気の症状が再び現れる。
+RELAPSED	(relapseの変化形) (動詞) ぶりかえす: 収まりかけていた病気の症状が再び現れる。
+RELAPSES	(relapseの変化形) (動詞) ぶりかえす: 収まりかけていた病気の症状が再び現れる。
+RELAPSING	(relapseの変化形) (動詞) ぶりかえす: 収まりかけていた病気の症状が再び現れる。
+RELATE	(動詞) 繫げる。結び付ける。関連付ける。関係を持たせる。
+RELATED	(動詞) relateの過去形・過去分詞: 繫げる。結び付ける。関連付ける。関係を持たせる。\n(形容詞) relatedの訳: 関係のある, 関連した
+RELATEDLY	(relateの変化形) (動詞) 繫げる。結び付ける。関連付ける。関係を持たせる。
+RELATER	(名詞) relatorの異綴。
+RELATERS	(名詞) relaterの複数形: relatorの異綴。
+RELATES	(動詞) "relate" の現在第三人称単数形。
+RELATING	(動詞) "relate" の動名詞又は現在分詞: 繫げる。結び付ける。関連付ける。関係を持たせる。
+RELATION	(名詞) 関係。関連。
+RELATIONS	(名詞) relationの複数形: 関係。関連。
+RELATIONSHIP	(名詞) 関係: 関連することがらや人など。方面。領域。 (ほかに: 関連)
+RELATIONSHIPS	(名詞) relationshipの複数形: 関係: 関連することがらや人など。方面。領域。 (ほかに: 関連)
+RELATIVE	(名詞) 親類: 血族や姻族の総称。親族。 (ほかに: 親戚, 身内)\n(形容詞) 相対的な、比較上の、他者に左右される、単独で存在しない。
+RELATIVELY	(副詞) 比較的: 他の事物や標準と比べた様子。わりあい。
+RELATIVES	(名詞) relativeの複数形: 親類: 血族や姻族の総称。親族。 (ほかに: 親戚, 身内)
+RELATIVISM	(名詞) relativismの訳: 相対性理論
+RELATIVISMS	(relativismの変化形) (名詞) relativismの訳: 相対性理論
+RELATIVITIES	(relativityの変化形) (名詞) relativityの訳: 相対, ⟪関連|かんれん⟫, 関連性, 相関性
+RELATIVITY	(名詞) relativityの訳: 相対, ⟪関連|かんれん⟫, 関連性, 相関性
+RELAX	(動詞) リラックスする、寛ぐ。
+RELAXATION	(名詞) relaxationの訳: 寛ぐこと
+RELAXATIONS	(名詞) relaxationの複数形: 寛ぐこと
+RELAXED	(形容詞) リラックスした。寛いだ。ゆったりした。気楽な。\n(動詞) relaxの過去形・過去分詞: リラックスする、寛ぐ。
+RELAXER	(名詞) 緩めるもの。リラックスさせるもの。
+RELAXERS	(名詞) relaxerの複数形: 緩めるもの。リラックスさせるもの。
+RELAXES	(動詞) "relax" の現在第三人称単数形。
+RELAXING	(形容詞) リラックスさせる。寛がせる。\n(動詞) "relax" の動名詞又は現在分詞: リラックスする、寛ぐ。
+RELAY	(名詞) （替えの）猟犬。[15世紀より]\n(動詞) （交代要員を）配置する。[18世紀より]
+RELAYED	(動詞) relayの過去形・過去分詞: （替えの）猟犬。[15世紀より]
+RELAYING	(動詞) relayの現在分詞: （替えの）猟犬。[15世紀より]
+RELAYS	(名詞) relayの複数形: （替えの）猟犬。[15世紀より]\n(動詞) relayの直説法現在第三人称単数形: （替えの）猟犬。[15世紀より]
+RELEASE	(動詞) releaseの訳: 解放する\n(名詞) releaseの訳: ⟪解放|かいほう⟫
+RELEASED	(動詞) "release" の過去形・過去分詞: 解放する
+RELEASES	(名詞) "release" の複数形: 解放する\n(動詞) "release" の現在第三人称単数形。
+RELEASING	(動詞) "release" の動名詞又は現在分詞: 解放する
+RELEGATE	(動詞) 追い払う。遠地へ飛ばす。
+RELEGATED	(relegateの変化形) (動詞) 追い払う。遠地へ飛ばす。
+RELEGATES	(relegateの変化形) (動詞) 追い払う。遠地へ飛ばす。
+RELEGATING	(relegateの変化形) (動詞) 追い払う。遠地へ飛ばす。
+RELEGATION	(名詞) 格下げ。降格。
+RELEGATIONS	(relegationの変化形) (名詞) 格下げ。降格。
+RELENTLESSLY	(副詞) relentlesslyの訳: びしびし, ビシビシ
+RELEVANCE	(名詞) relevanceの訳: 関連性, 妥当性
+RELEVANCES	(名詞) relevanceの複数形: 関連性, 妥当性
+RELEVANT	(形容詞) relevantの訳: 関係のある, 関連する, 妥当な
+RELIABILITIES	(名詞) reliabilityの複数形: 信頼性
+RELIABILITY	(名詞) reliabilityの訳: 信頼性
+RELIABLE	(形容詞) reliableの訳: 信頼できる, 当てになる
+RELIABLES	(reliableの変化形) (形容詞) reliableの訳: 信頼できる, 当てになる
+RELIABLY	(副詞) reliablyの訳: 頼もしく
+RELIANCE	(名詞) relianceの訳: ⟪信頼|しんらい⟫
+RELIANCES	(名詞) relianceの複数形: ⟪信頼|しんらい⟫
+RELIANT	(形容詞) reliantの訳: 信頼している
+RELIANTLY	(reliantの変化形) (形容詞) reliantの訳: 信頼している
+RELIC	(名詞) 遺物: 以前の時代から残されたもの。 (ほかに: 遺跡, 遺構)\n(動詞) relicの訳: 傷をつける
+RELICS	(名詞) relicの複数形: 遺物: 以前の時代から残されたもの。 (ほかに: 遺跡, 遺構)\n(動詞) relicの直説法現在第三人称単数形: 遺物: 以前の時代から残されたもの。 (ほかに: 遺跡, 遺構)
+RELIED	(動詞) relyの過去形・過去分詞: 頼る
+RELIEF	(名詞) reliefの訳: 軽減, ⟪緩和|かんわ⟫
+RELIEFS	(名詞) reliefの複数形: 軽減, ⟪緩和|かんわ⟫
+RELIES	(名詞) "rely" の複数形: 頼る\n(動詞) "rely" の現在第三人称単数形。
+RELIEVE	(動詞) relieveの訳: 軽減する
+RELIEVED	(動詞) "relieve" の過去形・過去分詞形: 軽減する\n(形容詞) ほっとした。安心した。
+RELIEVES	(動詞) "relieve" の三人称単数現在形: 軽減する
+RELIEVING	(動詞) "relieve" の動名詞形又は現在分詞形: 軽減する
+RELIGION	(名詞) religionの訳: ⟪宗教|しゅうきょう⟫, ⟪宗派|しゅうは⟫
+RELIGIONS	(名詞) "religion" の複数形: ⟪宗教|しゅうきょう⟫, ⟪宗派|しゅうは⟫
+RELIGIOUS	(形容詞) religiousの訳: 宗教の\n(名詞) 修道女: キリスト教で清貧、貞潔、服従の誓願を立て、修道院で共同で生活する女性。 (ほかに: 修道士)
+RELIGIOUSLY	(副詞) 宗教的に: 宗教に関するさま。
+RELINQUISH	(動詞) 譲る: 説明などを別の機会にまわす。別の書物などにゆだねる。 (ほかに: 放棄する, 譲渡する)
+RELINQUISHED	(動詞) relinquishの過去形・過去分詞: 譲る: 説明などを別の機会にまわす。別の書物などにゆだねる。 (ほかに: 放棄する, 譲渡する)
+RELINQUISHES	(動詞) relinquishの直説法現在第三人称単数形: 譲る: 説明などを別の機会にまわす。別の書物などにゆだねる。 (ほかに: 放棄する, 譲渡する)
+RELINQUISHING	(動詞) relinquishの現在分詞: 譲る: 説明などを別の機会にまわす。別の書物などにゆだねる。 (ほかに: 放棄する, 譲渡する)
+RELINQUISHMENT	(名詞) 放棄。断念。
+RELINQUISHMENTS	(名詞) relinquishmentの複数形: 放棄。断念。
+RELISH	(名詞) 味わうこと。賞味。\n(動詞) 味わう。賞味する。[16世紀より]
+RELISHED	(動詞) relishの過去形・過去分詞: 味わうこと。賞味。
+RELISHES	(名詞) relishの複数形: 味わうこと。賞味。\n(動詞) relishの直説法現在第三人称単数形: 味わうこと。賞味。
+RELISHING	(動詞) relishの現在分詞: 味わうこと。賞味。
+RELIVE	(動詞) 再び体験する、追体験する、鮮明に思い出す。
+RELIVED	(動詞) reliveの過去形・過去分詞: 再び体験する、追体験する、鮮明に思い出す。
+RELIVES	(動詞) reliveの直説法現在第三人称単数形: 再び体験する、追体験する、鮮明に思い出す。
+RELIVING	(reliveの変化形) (動詞) 再び体験する、追体験する、鮮明に思い出す。
+RELOAD	(動詞) reloadの訳: 再び積む\n(名詞) reloadの訳: 再積み込み
+RELOADED	(動詞) reloadの過去形・過去分詞: 再び積む
+RELOADER	(reloadの変化形) (動詞) reloadの訳: 再び積む
+RELOADING	(動詞) reloadの現在分詞: 再び積む\n(名詞) reloadingの訳: 再積み込み, リロード, 再装弾
+RELOADS	(動詞) reloadの直説法現在第三人称単数形: 再び積む\n(名詞) reloadの複数形: 再び積む。
+RELUCTANCE	(名詞) 気が進まないこと。不承不承。
+RELUCTANCES	(名詞) reluctanceの複数形: 気が進まないこと。不承不承。
+RELUCTANT	(形容詞) reluctantの訳: 気乗りしない, 気の進まない
+RELUCTANTLY	(副詞) 渋渋。嫌嫌ながら。
+RELY	(動詞) relyの訳: 頼る
+RELYING	(動詞) relyの動名詞又は現在分詞: 頼る
+REMADE	(remakeの変化形) (動詞) なおす: 作り変える。 (ほかに: なおる)
+REMAIN	(動詞) 依然として～である。のままである。\n(名詞) remainの訳: 残り物, ⟪遺物|いぶつ⟫
+REMAINDER	(名詞) 残り: （のこり）残ること。残ったもの。副詞的にも用いられる。\n(動詞) remainderの訳: 安く売る
+REMAINDERED	(動詞) "remainder" の過去形・過去分詞形: 残り: （のこり）残ること。残ったもの。副詞的にも用いられる。
+REMAINDERING	(動詞) "remainder" の動名詞形又は現在分詞形: 残り: （のこり）残ること。残ったもの。副詞的にも用いられる。
+REMAINDERS	(名詞) "remainder" の複数形: 残り: （のこり）残ること。残ったもの。副詞的にも用いられる。\n(動詞) "remainder" の三人称単数現在形: 残り: （のこり）残ること。残ったもの。副詞的にも用いられる。
+REMAINED	(動詞) remainの過去形・過去分詞: 依然として～である。のままである。
+REMAINING	(動詞) remainの動名詞又は現在分詞: 依然として～である。のままである。\n(名詞) remainingの訳: 残ること
+REMAINS	(名詞) remainの複数形: 依然として～である。のままである。\n(動詞) remains の直説法三人称単数現在形: 死体、死骸。
+REMAKE	(動詞) なおす: 作り変える。 (ほかに: なおる)\n(名詞) リメイク: 既存の作品や製品を作り直すこと。また、その作り直されたもの。
+REMAKER	(remakeの変化形) (動詞) なおす: 作り変える。 (ほかに: なおる)
+REMAKES	(remakeの変化形) (動詞) なおす: 作り変える。 (ほかに: なおる)
+REMAKING	(remakeの変化形) (動詞) なおす: 作り変える。 (ほかに: なおる)
+REMAND	(名詞) remandの訳: 再拘留\n(動詞) remandの訳: 再拘留する
+REMANDED	(動詞) remandの過去形・過去分詞: 再拘留
+REMANDING	(動詞) remandの現在分詞: 再拘留
+REMANDS	(動詞) remandの直説法現在第三人称単数形: 再拘留
+REMARK	(名詞) remarkの訳: 注目, ⟪認知|にんち⟫\n(動詞) remarkの訳: 意見を述べる
+REMARKABLE	(形容詞) 注目されるべき。目立つ。特異な。奇異な。驚異的な。
+REMARKABLY	(副詞) remarkablyの訳: 目立って, 著しく
+REMARKED	(動詞) remarkの過去形・過去分詞: 注目, ⟪認知|にんち⟫
+REMARKING	(動詞) remarkの現在分詞: 注目, ⟪認知|にんち⟫
+REMARKS	(名詞) remarkの複数形: 注目, ⟪認知|にんち⟫\n(動詞) remarkの直説法現在第三人称単数形: 注目, ⟪認知|にんち⟫
+REMARRIAGE	(名詞) 再婚: 配偶者と離婚や死別した者が、再び婚姻すること。
+REMARRIAGES	(remarriageの変化形) (名詞) 再婚: 配偶者と離婚や死別した者が、再び婚姻すること。
+REMARRIED	(remarryの変化形) (動詞) remarryの訳: ⟪再婚|さいこん⟫
+REMARRIES	(remarryの変化形) (動詞) remarryの訳: ⟪再婚|さいこん⟫
+REMARRY	(動詞) remarryの訳: ⟪再婚|さいこん⟫
+REMARRYING	(remarryの変化形) (動詞) remarryの訳: ⟪再婚|さいこん⟫
+REMEDIAL	(形容詞) remedialの訳: 治療の
+REMEDIED	(動詞) "remedy" の過去形・過去分詞: ⟪治療|ちりょう⟫
+REMEDIES	(名詞) "remedy" の複数形: ⟪治療|ちりょう⟫\n(動詞) "remedy" の現在第三人称単数形。
+REMEDY	(名詞) remedyの訳: ⟪治療|ちりょう⟫\n(動詞) remedyの訳: 治療する
+REMEDYING	(動詞) "remedy" の動名詞又は現在分詞: ⟪治療|ちりょう⟫
+REMEMBER	(動詞) rememberの訳: 覚えている, 記憶している, 忘れない
+REMEMBERED	(動詞) rememberの過去形・過去分詞: 覚えている, 記憶している, 忘れない
+REMEMBERING	(動詞) rememberの動名詞又は現在分詞: 覚えている, 記憶している, 忘れない\n(名詞) 想起: 想い起こすこと。以前にあった事を思い出すこと。
+REMEMBERS	(動詞) rememberの直説法現在第三人称単数形: 覚えている, 記憶している, 忘れない
+REMEMBRANCE	(名詞) 記憶: 過去に体験したことや覚えたことを忘れずに心に留めておくこと。また、その内容。
+REMEMBRANCES	(名詞) remembranceの複数形: 記憶: 過去に体験したことや覚えたことを忘れずに心に留めておくこと。また、その内容。
+REMIND	(動詞) 思い起こさせる、記憶をよみがえらせる。
+REMINDED	(動詞) remindの過去形・過去分詞: 思い起こさせる、記憶をよみがえらせる。
+REMINDERS	(名詞) reminderの複数形。
+REMINDING	(動詞) "remind" の動名詞又は現在分詞: 思い起こさせる、記憶をよみがえらせる。
+REMINDS	(動詞) remindの現在第三人称単数形。
+REMINISCE	(動詞) 懐かしむ。回顧する。
+REMINISCED	(動詞) reminisceの過去形・過去分詞: 懐かしむ。回顧する。
+REMINISCENCE	(名詞) 回顧。追想。
+REMINISCENCES	(名詞) reminiscenceの複数形: 回顧。追想。
+REMINISCENT	(形容詞) 回想的な。追想の。
+REMINISCENTLY	(副詞) reminiscentlyの訳: 回顧的に
+REMINISCES	(動詞) reminisceの直説法現在第三人称単数形: 懐かしむ。回顧する。
+REMINISCING	(動詞) reminisceの現在分詞: 懐かしむ。回顧する。\n(名詞) 回顧。追想。
+REMISS	(形容動詞) remissの訳: ⟪ぞんざい⟫
+REMIT	(動詞) 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 送金する)\n(名詞) remitの訳: 責任範囲, 管轄
+REMITS	(名詞) remitの複数形: 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 送金する)\n(動詞) remitの直説法現在第三人称単数形: 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 送金する)
+REMITTANCE	(名詞) 送金。仕送り。
+REMITTANCES	(remittanceの変化形) (名詞) 送金。仕送り。
+REMITTED	(動詞) remitの過去形・過去分詞: 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 送金する)
+REMITTING	(動詞) remitの現在分詞: 送る: 【送】（自分のそばにあるものを）相手の側に移動させる。とどける。 (ほかに: 送金する)\n(名詞) 送金: 何らかの方法により金銭を送ること。また、その金銭。
+REMNANT	(名詞) 残り。残余。
+REMNANTS	(名詞) remnantの複数形: 残り。残余。
+REMODEL	(動詞) remodelの訳: 改造する, 改装する, 改編する\n(名詞) remodelの訳: ⟪改造|かいぞう⟫, ⟪改装|かいそう⟫
+REMODELED	(動詞) remodelの過去形・過去分詞: 改造する, 改装する, 改編する
+REMODELING	(動詞) remodelの現在分詞: 改造する, 改装する, 改編する\n(名詞) 改装: 建物の階の重なり。 (ほかに: 改造)
+REMODELLED	(動詞) remodelの過去形・過去分詞: 改造する, 改装する, 改編する
+REMODELLING	(動詞) remodelの現在分詞: 改造する, 改装する, 改編する\n(名詞) remodelingの異形。
+REMODELS	(動詞) remodelの直説法現在第三人称単数形: 改造する, 改装する, 改編する\n(名詞) remodelの複数形: 改造する, 改装する, 改編する
+REMONSTRANCE	(名詞) remonstranceの訳: ⟪抗議|こうぎ⟫, ⟪諫言|かんげん⟫
+REMONSTRANCES	(名詞) remonstranceの複数形: ⟪抗議|こうぎ⟫, ⟪諫言|かんげん⟫
+REMONSTRATE	(動詞) 抗議する: 人にとって不利益・反対的な行為又は無礼な言動などをする者に対し異議を申し立てること。また、その申し立て。 (ほかに: 異議を唱える, 諫言する)
+REMONSTRATED	(動詞) remonstrateの過去形・過去分詞: 抗議する: 人にとって不利益・反対的な行為又は無礼な言動などをする者に対し異議を申し立てること。また、その申し立て。 (ほかに: 異議を唱える, 諫言する)
+REMONSTRATES	(動詞) remonstrateの直説法現在第三人称単数形: 抗議する: 人にとって不利益・反対的な行為又は無礼な言動などをする者に対し異議を申し立てること。また、その申し立て。 (ほかに: 異議を唱える, 諫言する)
+REMONSTRATING	(動詞) remonstrateの現在分詞: 抗議する: 人にとって不利益・反対的な行為又は無礼な言動などをする者に対し異議を申し立てること。また、その申し立て。 (ほかに: 異議を唱える, 諫言する)
+REMONSTRATION	(名詞) remonstrationの訳: ⟪抗議|こうぎ⟫
+REMONSTRATIONS	(名詞) remonstrationの複数形: ⟪抗議|こうぎ⟫
+REMONSTRATIVE	(形容詞) remonstrativeの訳: 抗議の
+REMONSTRATIVELY	(remonstrativeの変化形) (形容詞) remonstrativeの訳: 抗議の
+REMORSE	(名詞) 悔恨: 過ちを後悔し残念に思うこと。 (ほかに: 深い後悔, 良心の呵責)\n(動詞) remorseの訳: 後悔する
+REMORSEFUL	(形容詞) remorsefulの訳: 後悔した, 悔恨の
+REMORSEFULLY	(副詞) remorsefullyの訳: 後悔して
+REMORSELESS	(形容詞) 無情な: 精神や感情のないこと。 (ほかに: 無慈悲な, 残忍な)
+REMORSELESSLY	(副詞) 無慈悲に: 思い遣る心や憐れみが無いこと。 (ほかに: 無情に, 残忍に)
+REMORSES	(名詞) remorseの複数形: 悔恨: 過ちを後悔し残念に思うこと。 (ほかに: 深い後悔, 良心の呵責)
+REMOTE	(形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 遠方の)\n(名詞) remoteの訳: リモコン
+REMOTELY	(副詞) 遠く: 二つの物の間の距離が離れている。
+REMOTENESS	(名詞) 遠隔: 遠く離れていること。
+REMOTENESSES	(remotenessの変化形) (名詞) 遠隔: 遠く離れていること。
+REMOTER	(形容詞) "remote" の比較級: 遠い: （とおい）時間が離れている。 (ほかに: 遠方の)
+REMOTES	(remoteの変化形) (形容詞) 遠い: （とおい）時間が離れている。 (ほかに: 遠方の)
+REMOTEST	(形容詞) "remote" の最上級: 遠い: （とおい）時間が離れている。 (ほかに: 遠方の)
+REMOVABLE	(形容詞) removableの訳: 除去できる
+REMOVAL	(名詞) （不可算）除去、除去された物（不可算物）。（可算）除去された物（可算物）。
+REMOVALS	(名詞) removalの複数形: （不可算）除去、除去された物（不可算物）。（可算）除去された物（可算物）。
+REMOVE	(動詞) 他所へ移動する、移転する、引っ越す。\n(名詞) 隔たり: （へだたり）隔たること。また、その程度。 (ほかに: 距離)
+REMOVED	(動詞) "remove" の過去形・過去分詞: 他所へ移動する、移転する、引っ越す。\n(形容詞) 時間や距離がはなれた。へだたった。
+REMOVES	(名詞) "remove" の複数形: 他所へ移動する、移転する、引っ越す。\n(動詞) "remove" の現在第三人称単数形。
+REMOVING	(動詞) "remove" の動名詞又は現在分詞: 他所へ移動する、移転する、引っ越す。
+REMUNERATE	(動詞) remunerateの訳: 報酬を与える, ⟪報いる|むくいる⟫
+REMUNERATED	(動詞) remunerateの過去形・過去分詞: 報酬を与える, ⟪報いる|むくいる⟫
+REMUNERATES	(動詞) remunerateの直説法現在第三人称単数形: 報酬を与える, ⟪報いる|むくいる⟫
+REMUNERATING	(動詞) remunerateの現在分詞: 報酬を与える, ⟪報いる|むくいる⟫
+REMUNERATION	(名詞) 報償: 金銭等を出して、ある行為に報いること。報奨金。 (ほかに: 報酬)
+REMUNERATIONS	(名詞) remunerationの複数形: 報償: 金銭等を出して、ある行為に報いること。報奨金。 (ほかに: 報酬)
+REMUNERATIVE	(形容詞) remunerativeの訳: 報酬のある, 利益になる
+REMUNERATIVELY	(remunerativeの変化形) (形容詞) remunerativeの訳: 報酬のある, 利益になる
+RENAISSANCE	(名詞) renaissanceの訳: ⟪復興|ふっこう⟫, ⟪再生|さいせい⟫
+RENAISSANCES	(renaissanceの変化形) (名詞) renaissanceの訳: ⟪復興|ふっこう⟫, ⟪再生|さいせい⟫
+RENAL	(形容詞) 腎臓の: 東洋医学における、生命エネルギーの貯蔵、生殖、排尿をつかさどる臓器。現代医学における腎臓や泌尿器、生殖器にほぼ相当する。
+RENAME	(動詞) 改名する: 名を変えること。
+RENAMED	(動詞) "rename" の過去形・過去分詞: 改名する: 名を変えること。
+RENAMES	(動詞) "rename" の現在第三人称単数形。
+RENAMING	(動詞) "rename" の動名詞又は現在分詞: 改名する: 名を変えること。
+REND	(動詞) つんざく: つまんで引き裂く。また、激しく破り裂く。
+RENDED	(rendの変化形) (動詞) つんざく: つまんで引き裂く。また、激しく破り裂く。
+RENDER	(動詞) 与える: （機器やものなどに対して）加える。負荷する。
+RENDERED	(動詞) renderの過去形・過去分詞: 与える: （機器やものなどに対して）加える。負荷する。
+RENDERING	(動詞) renderの動名詞又は現在分詞: 与える: （機器やものなどに対して）加える。負荷する。
+RENDERS	(動詞) renderの直説法現在第三人称単数形: 与える: （機器やものなどに対して）加える。負荷する。
+RENDING	(rendの変化形) (動詞) つんざく: つまんで引き裂く。また、激しく破り裂く。
+RENDS	(rendの変化形) (動詞) つんざく: つまんで引き裂く。また、激しく破り裂く。
+RENEW	(動詞) 更新する: 新しいものに改めること。刷新。 (ほかに: 継続する)
+RENEWABLE	(形容詞) renewableの訳: 更新可能な, 再生可能な\n(名詞) 更新・再生可能なもの
+RENEWAL	(名詞) 更新: 植物の再生、世代交代。また育林、造林。 (ほかに: リニューアル)
+RENEWALS	(名詞) renewalの複数形: 更新: 植物の再生、世代交代。また育林、造林。 (ほかに: リニューアル)
+RENEWED	(動詞) renewの過去形・過去分詞: 更新する: 新しいものに改めること。刷新。 (ほかに: 継続する)
+RENEWING	(動詞) renewの現在分詞: 更新する: 新しいものに改めること。刷新。 (ほかに: 継続する)\n(名詞) 更新: 新しいものに改めること。刷新。 (ほかに: 再生)
+RENEWS	(動詞) renewの直説法現在第三人称単数形: 更新する: 新しいものに改めること。刷新。 (ほかに: 継続する)
+RENOUNCE	(動詞) renounceの訳: 捨てる, 放棄する
+RENOUNCED	(動詞) renounceの過去形・過去分詞: 捨てる, 放棄する
+RENOUNCEMENT	(名詞) 放棄。断念。
+RENOUNCEMENTS	(名詞) renouncementの複数形: 放棄。断念。
+RENOUNCES	(動詞) renounceの直説法現在第三人称単数形: 捨てる, 放棄する
+RENOUNCING	(動詞) renounceの動名詞又は現在分詞: 捨てる, 放棄する
+RENOVATE	(動詞) 修理する: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復する, 改修する)
+RENOVATED	(動詞) renovateの過去形・過去分詞: 修理する: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復する, 改修する)
+RENOVATES	(動詞) renovateの直説法現在第三人称単数形: 修理する: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復する, 改修する)
+RENOVATING	(動詞) renovateの現在分詞: 修理する: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復する, 改修する)
+RENOVATION	(名詞) 修理: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復, 改修)
+RENOVATIONS	(名詞) renovationの複数形: 修理: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復, 改修)
+RENOWN	(名詞) renownの訳: ⟪名声|めいせい⟫
+RENOWNED	(形容詞) 有名な: ある世界において広く知られていること。
+RENOWNING	(renownの変化形) (名詞) renownの訳: ⟪名声|めいせい⟫
+RENOWNS	(renownの変化形) (名詞) renownの訳: ⟪名声|めいせい⟫
+RENT	(名詞) 賃貸料。家賃。使用料。\n(動詞) 賃貸する。賃貸しする。
+RENTED	(動詞) rentの過去形・過去分詞: 賃貸料。家賃。使用料。
+RENTING	(rentの変化形) (名詞) 賃貸料。家賃。使用料。
+RENTS	(名詞) rentの複数形: 賃貸料。家賃。使用料。\n(動詞) rentの直説法現在第三人称単数形: 賃貸料。家賃。使用料。
+RENUNCIATION	(名詞) 放棄。棄却。断念。
+RENUNCIATIONS	(名詞) renunciationの複数形: 放棄。棄却。断念。
+REOPEN	(動詞) 再開する: 何らかの事情により中止、中断されていたものを再び始めること。 (ほかに: 再び開ける)
+REOPENED	(動詞) reopenの過去形・過去分詞: 再開する: 何らかの事情により中止、中断されていたものを再び始めること。 (ほかに: 再び開ける)
+REOPENING	(名詞) 再開: 何らかの事情により中止、中断されていたものを再び始めること。 (ほかに: 新装開店)\n(動詞) reopenの現在分詞: 再開する: 何らかの事情により中止、中断されていたものを再び始めること。 (ほかに: 再び開ける)
+REOPENS	(動詞) reopenの直説法現在第三人称単数形: 再開する: 何らかの事情により中止、中断されていたものを再び始めること。 (ほかに: 再び開ける)
+REORGANIZATION	(名詞) reorganizationの訳: 再編
+REORGANIZATIONS	(reorganizationの変化形) (名詞) reorganizationの訳: 再編
+REORGANIZE	(名詞) 再編: 編成しなおすこと。再編成。
+REORGANIZED	(reorganizeの変化形) (名詞) 再編: 編成しなおすこと。再編成。
+REORGANIZER	(reorganizeの変化形) (名詞) 再編: 編成しなおすこと。再編成。
+REORGANIZES	(reorganizeの変化形) (名詞) 再編: 編成しなおすこと。再編成。
+REORGANIZING	(reorganizeの変化形) (名詞) 再編: 編成しなおすこと。再編成。
+REORIENT	(動詞) 新しい方向に向ける。
+REORIENTATE	(動詞) 新しい方向に向ける。
+REORIENTATED	(動詞) reorientateの過去形・過去分詞: 新しい方向に向ける。
+REORIENTATES	(動詞) reorientateの直説法現在第三人称単数形: 新しい方向に向ける。
+REORIENTATING	(動詞) reorientateの現在分詞: 新しい方向に向ける。
+REORIENTATION	(名詞) reorientationの訳: 再配列
+REORIENTATIONS	(名詞) reorientationの複数形: 再配列
+REORIENTED	(動詞) reorientの過去形・過去分詞: 新しい方向に向ける。
+REORIENTING	(動詞) reorientの現在分詞: 新しい方向に向ける。
+REORIENTS	(動詞) reorientの直説法現在第三人称単数形: 新しい方向に向ける。
+REPAID	(動詞) repayの過去形・過去分詞: 払い戻す: 一度受けた金額を清算し、残金を返す。 (ほかに: 返金する, 返済する)
+REPAIR	(動詞) repairの訳: 修理する, 修復する, 修繕する, 補修する\n(名詞) 修理: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復)
+REPAIRABLE	(形容詞) 修理・修繕できる。
+REPAIRED	(動詞) repairの過去形・過去分詞: 修理する, 修復する, 修繕する, 補修する
+REPAIRING	(動詞) repairの動名詞又は現在分詞: 修理する, 修復する, 修繕する, 補修する\n(名詞) 修理: 壊れた部分に手を入れて再び使えるようにすること。 (ほかに: 修復)
+REPAIRS	(名詞) repairの複数形: 修理する, 修復する, 修繕する, 補修する\n(動詞) repairの直説法現在第三人称単数形: 修理する, 修復する, 修繕する, 補修する
+REPARATION	(名詞) 補償: 損害や出費を金銭などで補い償うこと。 (ほかに: 賠償, 償い)
+REPARATIONS	(reparationの変化形) (名詞) 補償: 損害や出費を金銭などで補い償うこと。 (ほかに: 賠償, 償い)
+REPAST	(名詞) 食事: 食べ物を食べること。またはその食べ物。単に食べるだけでなく、朝食や夕食のように文化的・社会的な規則性があるものを指す。それ以外の摂食は間食という。
+REPASTED	(repastの変化形) (名詞) 食事: 食べ物を食べること。またはその食べ物。単に食べるだけでなく、朝食や夕食のように文化的・社会的な規則性があるものを指す。それ以外の摂食は間食という。
+REPASTING	(repastの変化形) (名詞) 食事: 食べ物を食べること。またはその食べ物。単に食べるだけでなく、朝食や夕食のように文化的・社会的な規則性があるものを指す。それ以外の摂食は間食という。
+REPASTS	(repastの変化形) (名詞) 食事: 食べ物を食べること。またはその食べ物。単に食べるだけでなく、朝食や夕食のように文化的・社会的な規則性があるものを指す。それ以外の摂食は間食という。
+REPAY	(動詞) 払い戻す: 一度受けた金額を清算し、残金を返す。 (ほかに: 返金する, 返済する)
+REPAYABLE	(形容詞) 返済しなければならない。
+REPAYING	(動詞) repayの現在分詞: 払い戻す: 一度受けた金額を清算し、残金を返す。 (ほかに: 返金する, 返済する)
+REPAYMENT	(名詞) 返済。弁済。
+REPAYMENTS	(名詞) repaymentの複数形: 返済。弁済。
+REPAYS	(動詞) repayの直説法現在第三人称単数形: 払い戻す: 一度受けた金額を清算し、残金を返す。 (ほかに: 返金する, 返済する)
+REPEAL	(動詞) repealの訳: 廃止する, 撤廃する\n(名詞) 廃止: 法令や規則などが廃れ、弛むこと。 (ほかに: 取り消し, 撤廃)
+REPEALED	(動詞) repealの過去形・過去分詞: 廃止する, 撤廃する
+REPEALING	(動詞) repealの現在分詞: 廃止する, 撤廃する
+REPEALS	(名詞) repealの複数形: 廃止する, 撤廃する\n(動詞) repealの直説法現在第三人称単数形: 廃止する, 撤廃する
+REPEAT	(動詞) 繰り返す: 同じことを何度も行う。 (ほかに: 反復する)\n(名詞) repeatの訳: 繰り返し, ⟪反復|はんぷく⟫
+REPEATABLE	(形容詞) 繰り返し可能な。
+REPEATED	(動詞) "repeat" の過去形・過去分詞: 繰り返す: 同じことを何度も行う。 (ほかに: 反復する)
+REPEATEDLY	(副詞) 繰り返し: （くりかえし）何度も同じ事を行う様子。 (ほかに: 何度も)
+REPEATING	(動詞) "repeat" の動名詞又は現在分詞: 繰り返す: 同じことを何度も行う。 (ほかに: 反復する)
+REPEATS	(名詞) "repeat" の複数形: 繰り返す: 同じことを何度も行う。 (ほかに: 反復する)\n(動詞) "repeat" の現在第三人称単数形。
+REPEL	(動詞) （提案などを）拒絶する。拒否する。[15世紀より]
+REPELLED	(動詞) repelの過去形・過去分詞: （提案などを）拒絶する。拒否する。[15世紀より]
+REPELLENT	(形容詞) repellentの訳: 追い払う\n(名詞) 寄せ付けないもの。
+REPELLENTS	(名詞) repellentの複数形: 追い払う
+REPELLING	(動詞) repelの現在分詞: （提案などを）拒絶する。拒否する。[15世紀より]
+REPELS	(動詞) repelの直説法現在第三人称単数形: （提案などを）拒絶する。拒否する。[15世紀より]
+REPENT	(動詞) repentの訳: 後悔する
+REPENTANCE	(名詞) 後悔: 後になって自分のしたことやしなかったことを悔やむこと。
+REPENTANCES	(名詞) repentanceの複数形: 後悔: 後になって自分のしたことやしなかったことを悔やむこと。
+REPENTANT	(形容詞) repentantの訳: 後悔している
+REPENTANTLY	(副詞) repentantlyの訳: 後悔して
+REPENTED	(動詞) repentの過去形・過去分詞: 後悔する
+REPENTING	(動詞) repentの動名詞又は現在分詞: 後悔する\n(名詞) repentingの訳: ⟪後悔|こうかい⟫
+REPENTS	(動詞) repentの現在第三人称単数形。
+REPERCUSSION	(名詞) 波紋: （えいきょう）【えいきょう】ある物による働きが他の物にまで力を及ぼし、変化や反応を起こさせること。また、その変化および反応の結果。 (ほかに: 影響, 反響)
+REPERCUSSIONS	(名詞) repercussionの複数形: 波紋: （えいきょう）【えいきょう】ある物による働きが他の物にまで力を及ぼし、変化や反応を起こさせること。また、その変化および反応の結果。 (ほかに: 影響,...
+REPETEND	(名詞) 歌詞などで、繰り返しになる部分。
+REPETENDS	(repetendの変化形) (名詞) 歌詞などで、繰り返しになる部分。
+REPETITION	(名詞) 繰り返し: （くりかえし）何度も同じ事を行うこと。その箇所。 (ほかに: 反復)
+REPETITIONS	(repetitionの変化形) (名詞) 繰り返し: （くりかえし）何度も同じ事を行うこと。その箇所。 (ほかに: 反復)
+REPETITIOUS	(形容詞) 繰り返しの多い
+REPETITIOUSLY	(repetitiousの変化形) (形容詞) 繰り返しの多い
+REPETITIVE	(形容詞) 繰り返しの。反復される。
+REPHRASE	(動詞) 換言する: 言葉をほかの言葉に換えて言うこと。言い換えること。 (ほかに: 言い換える)
+REPHRASED	(動詞) "rephrase" の過去形・過去分詞: 換言する: 言葉をほかの言葉に換えて言うこと。言い換えること。 (ほかに: 言い換える)
+REPHRASES	(動詞) "rephrase" の現在第三人称単数形。
+REPHRASING	(動詞) "rephrase" の動名詞又は現在分詞: 換言する: 言葉をほかの言葉に換えて言うこと。言い換えること。 (ほかに: 言い換える)
+REPLACE	(動詞) 元の場所に戻す。
+REPLACED	(動詞) replaceの過去形・過去分詞: 元の場所に戻す。
+REPLACEMENT	(名詞) 交替: 位置や役割が互いに入れ替わること。
+REPLACEMENTS	(名詞) replacementの複数形: 交替: 位置や役割が互いに入れ替わること。
+REPLACER	(名詞) 取って代わる人、後任。
+REPLACES	(動詞) replaceの直説法現在第三人称単数形: 元の場所に戻す。
+REPLACING	(動詞) replaceの現在分詞: 元の場所に戻す。
+REPLENISH	(動詞) replenishの訳: 補充する
+REPLENISHED	(動詞) replenish の過去形又は過去分詞形: 補充する。\n(形容詞) replenishedの訳: 染み込んだ
+REPLENISHES	(動詞) replenish の直説法三人称単数現在形: 補充する。
+REPLENISHING	(動詞) replenish の動名詞又は現在分詞: 補充する。\n(名詞) replenishingの訳: ⟪補充|ほじゅう⟫
+REPLENISHMENT	(名詞) replenishmentの訳: ⟪補充|ほじゅう⟫
+REPLENISHMENTS	(replenishmentの変化形) (名詞) replenishmentの訳: ⟪補充|ほじゅう⟫
+REPLETION	(名詞) 充満。充実。満足。
+REPLETIONS	(名詞) repletionの複数形: 充満。充実。満足。
+REPLICA	(名詞) レプリカ。複製。
+REPLICAS	(replicaの変化形) (名詞) レプリカ。複製。
+REPLICATE	(動詞) 複製する。複写する。\n(名詞) 複製。複写。
+REPLICATED	(動詞) replicateの過去形・過去分詞: 複製する。複写する。
+REPLICATES	(動詞) replicateの直説法現在第三人称単数形: 複製する。複写する。\n(名詞) replicateの複数形: 複製する。複写する。
+REPLICATING	(動詞) replicateの現在分詞: 複製する。複写する。
+REPLICATION	(名詞) replicationの訳: 正確な反復
+REPLICATIONS	(名詞) replicationの複数形: 正確な反復
+REPLIED	(動詞) "reply" の過去形・過去分詞: 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 回答する)
+REPLIES	(名詞) "reply" の複数形: 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 回答する)\n(動詞) "reply" の現在第三人称単数形。
+REPLY	(動詞) 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 回答する)\n(名詞) replyの訳: 答え, ⟪回答|かいとう⟫
+REPLYING	(動詞) "reply" の動名詞又は現在分詞: 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 回答する)
+REPORT	(名詞) reportの訳: 調査報告, レポート, ⟪報道|ほうどう⟫\n(動詞) reportの訳: 伝える
+REPORTABLE	(形容詞) （病気などが）報告義務のある。
+REPORTED	(動詞) "report" の過去形・過去分詞: 調査報告, レポート, ⟪報道|ほうどう⟫
+REPORTEDLY	(副詞) 伝えられるところによると、うわさによると。
+REPORTER	(名詞) 記者: 新聞・雑誌・放送などで、記事の取材や執筆などに携わる人。
+REPORTERS	(reporterの変化形) (名詞) 記者: 新聞・雑誌・放送などで、記事の取材や執筆などに携わる人。
+REPORTING	(名詞) 報道: 新聞・テレビ・ラジオなどを通じ広く一般に知らせること。\n(動詞) reportの現在分詞: 調査報告、レポート、報道
+REPORTS	(名詞) "report" の複数形: 調査報告, レポート, ⟪報道|ほうどう⟫\n(動詞) "report" の現在第三人称単数形。
+REPOSE	(名詞) 休息: 仕事などを止めて体を休めること。 (ほかに: 休養)\n(動詞) reposeの訳: 横になる, 休息する
+REPOSED	(動詞) "repose" の過去形・過去分詞: 休息: 仕事などを止めて体を休めること。 (ほかに: 休養)
+REPOSER	(名詞) reposerの訳: 横になる人, 休息する人
+REPOSERS	(名詞) reposerの複数形: 横になる人, 休息する人
+REPOSES	(reposeの変化形) (名詞) 休息: 仕事などを止めて体を休めること。 (ほかに: 休養)
+REPOSING	(動詞) reposeの動名詞又は現在分詞: 休息: 仕事などを止めて体を休めること。 (ほかに: 休養)
+REPOSITORIES	(名詞) repositoryの複数形: 倉庫: 物品を保管・貯蔵する建物。 (ほかに: 収納庫, 保管場所)
+REPOSITORY	(名詞) 倉庫: 物品を保管・貯蔵する建物。 (ほかに: 収納庫, 保管場所)
+REPREHEND	(動詞) 𠮟る。非難する。
+REPREHENDED	(動詞) reprehendの過去形・過去分詞: 𠮟る。非難する。
+REPREHENDING	(動詞) reprehendの現在分詞: 𠮟る。非難する。
+REPREHENDS	(動詞) reprehendの直説法現在第三人称単数形: 𠮟る。非難する。
+REPREHENSIBLE	(形容詞) 非難されるべき。\n(名詞) 非難されるべき人。悪人。
+REPREHENSION	(名詞) 叱責。非難。
+REPREHENSIONS	(名詞) reprehensionの複数形: 叱責。非難。
+REPRESENT	(動詞) 代表する: 団体や多数の人々、あるいは一個人に代わってその意志を他にのべること。また、そのひと、代表者。
+REPRESENTATION	(名詞) representationの訳: ⟪代表|だいひょう⟫
+REPRESENTATIONAL	(形容詞) representationalの訳: 写実的な
+REPRESENTATIONS	(名詞) "representation" の複数形: ⟪代表|だいひょう⟫
+REPRESENTATIVE	(形容詞) representativeの訳: ～を表した\n(名詞) representativeの訳: 代理/代理人, 代表/代表者
+REPRESENTATIVES	(名詞) representativeの複数形: ～を表した
+REPRESENTED	(動詞) representの過去形・過去分詞: 代表する: 団体や多数の人々、あるいは一個人に代わってその意志を他にのべること。また、そのひと、代表者。
+REPRESENTING	(動詞) representの動名詞又は現在分詞: 代表する: 団体や多数の人々、あるいは一個人に代わってその意志を他にのべること。また、そのひと、代表者。\n(名詞) representingの訳: 代表すること
+REPRESENTS	(動詞) representの直説法現在第三人称単数形: 代表する: 団体や多数の人々、あるいは一個人に代わってその意志を他にのべること。また、そのひと、代表者。
+REPRESS	(動詞) 抑える: （おさえる）動作などを何らかの手段を用いて食い止める。 (ほかに: 抑圧する, こらえる)
+REPRESSED	(動詞) repressの過去形・過去分詞: 抑える: （おさえる）動作などを何らかの手段を用いて食い止める。 (ほかに: 抑圧する, こらえる)\n(形容詞) （感情などが）抑制された。抑圧された。
+REPRESSES	(動詞) repressの直説法現在第三人称単数形: 抑える: （おさえる）動作などを何らかの手段を用いて食い止める。 (ほかに: 抑圧する, こらえる)
+REPRESSING	(動詞) repressの動名詞又は現在分詞: 抑える: （おさえる）動作などを何らかの手段を用いて食い止める。 (ほかに: 抑圧する, こらえる)\n(名詞) リプレッシング。
+REPRESSION	(名詞) 抑圧。抑制。抑止。弾圧。鎮圧。
+REPRESSIONS	(名詞) repressionの複数形: 抑圧。抑制。抑止。弾圧。鎮圧。
+REPRESSIVE	(形容詞) 抑圧的な。弾圧的な。
+REPRESSIVELY	(repressiveの変化形) (形容詞) 抑圧的な。弾圧的な。
+REPRIEVE	(動詞) 刑の執行を猶予する。
+REPRIEVED	(reprieveの変化形) (動詞) 刑の執行を猶予する。
+REPRIEVES	(reprieveの変化形) (動詞) 刑の執行を猶予する。
+REPRIEVING	(reprieveの変化形) (動詞) 刑の執行を猶予する。
+REPRIMAND	(名詞) 叱責: 「𠮟責」の別表記。 (ほかに: 懲戒)\n(動詞) reprimandの訳: 叱責する
+REPRIMANDED	(動詞) reprimandの過去形・過去分詞: 叱責: 「𠮟責」の別表記。 (ほかに: 懲戒)
+REPRIMANDING	(動詞) reprimandの現在分詞: 叱責: 「𠮟責」の別表記。 (ほかに: 懲戒)
+REPRIMANDS	(名詞) reprimandの複数形: 叱責: 「𠮟責」の別表記。 (ほかに: 懲戒)\n(動詞) reprimandの直説法現在第三人称単数形: 叱責: 「𠮟責」の別表記。 (ほかに: 懲戒)
+REPRINT	(名詞) 再販、復刻された印刷物。\n(動詞) reprintの訳: 再版, 復刻する
+REPRINTED	(形容詞) 再販すること。特に判型を変えて再販すること。\n(動詞) reprintの過去形・過去分詞: 再販、復刻された印刷物。
+REPRINTING	(動詞) reprintの現在分詞: 再販、復刻された印刷物。\n(名詞) 再販された印刷物。
+REPRINTS	(名詞) reprintの複数形: 再販、復刻された印刷物。\n(動詞) reprintの直説法現在第三人称単数形: 再販、復刻された印刷物。
+REPRISAL	(名詞) reprisalの訳: 意趣返し
+REPRISALS	(reprisalの変化形) (名詞) reprisalの訳: 意趣返し
+REPRISE	(動詞) くりかえす: 同じことを何度も行う。
+REPRISED	(repriseの変化形) (動詞) くりかえす: 同じことを何度も行う。
+REPRISES	(repriseの変化形) (動詞) くりかえす: 同じことを何度も行う。
+REPRISING	(repriseの変化形) (動詞) くりかえす: 同じことを何度も行う。
+REPROACH	(動詞) reproachの訳: ⟪しかる⟫, ⟪たしなめる⟫, 非難する, 叱責する\n(名詞) 非難: （他の人の弱みや過ちを）責め、なじり、こき下ろす とがめ立て。 (ほかに: 譴責, 非難の言葉)
+REPROACHED	(動詞) reproachの過去形・過去分詞: ⟪しかる⟫, ⟪たしなめる⟫, 非難する, 叱責する
+REPROACHES	(名詞) reproachの複数形: ⟪しかる⟫, ⟪たしなめる⟫, 非難する, 叱責する\n(動詞) reproachの直説法現在第三人称単数形: ⟪しかる⟫, ⟪たしなめる⟫, 非難する, 叱責する
+REPROACHING	(動詞) reproachの動名詞又は現在分詞: ⟪しかる⟫, ⟪たしなめる⟫, 非難する, 叱責する\n(名詞) 非難: （他の人の弱みや過ちを）責め、なじり、こき下ろす とがめ立て。 (ほかに: 叱責)
+REPRODUCE	(動詞) 複製する、模写する、復元する、模造する、複写する；複製される、模造される。
+REPRODUCED	(動詞) "reproduce" の過去形・過去分詞: 複製する、模写する、復元する、模造する、複写する；複製される、模造される。
+REPRODUCES	(動詞) "reproduce" の現在第三人称単数形。
+REPRODUCIBLE	(形容詞) 再生産ができる。再現性のある。
+REPRODUCING	(動詞) "reproduce" の動名詞又は現在分詞: 複製する、模写する、復元する、模造する、複写する；複製される、模造される。
+REPRODUCTION	(名詞) 繁殖: 生物が生まれて増えること。 (ほかに: 生殖)
+REPRODUCTIONS	(名詞) reproductionの複数形: 繁殖: 生物が生まれて増えること。 (ほかに: 生殖)
+REPRODUCTIVE	(形容詞) 生殖の。繁殖の。\n(名詞) reproductiveの訳: 生殖虫
+REPRODUCTIVELY	(reproductiveの変化形) (形容詞) 生殖の。繁殖の。
+REPRODUCTIVES	(名詞) reproductiveの複数形: 生殖の。繁殖の。
+REPROOF	(名詞) reproofの訳: 叱責, 小言, 非難, ⟪とがめだて⟫
+REPROOFS	(名詞) reproofの複数形: 叱責, 小言, 非難, ⟪とがめだて⟫
+REPROVE	(動詞) とがめる: 気にかける。心にとめる。 (ほかに: しかる, 小言を言う)
+REPROVED	(動詞) reproveの過去形・過去分詞: とがめる: 気にかける。心にとめる。 (ほかに: しかる, 小言を言う)
+REPROVES	(動詞) reproveの現在第三人称単数形。
+REPROVING	(動詞) reproveの動名詞又は現在分詞: とがめる: 気にかける。心にとめる。 (ほかに: しかる, 小言を言う)\n(形容詞) 叱責するような、嗜めるような。
+REPTILE	(名詞) 爬虫類: ［一般］ 爬虫綱に分類される脊椎動物。現生種として、カメ、ワニ、トカゲ、ヘビなど約6000種以上が知られている。 (ほかに: 爬行動物)\n(形容詞) 爬行する。はいつくばう。
+REPTILES	(名詞) reptileの複数形: 爬虫類: ［一般］ 爬虫綱に分類される脊椎動物。現生種として、カメ、ワニ、トカゲ、ヘビなど約6000種以上が知られている。 (ほかに: 爬行動物)
+REPTILIA	(名詞) reptiliumの複数形。
+REPTILIAN	(形容詞) reptilianの訳: 爬虫類の\n(名詞) 爬虫類: ［一般］ 爬虫綱に分類される脊椎動物。現生種として、カメ、ワニ、トカゲ、ヘビなど約6000種以上が知られている。
+REPTILIANS	(名詞) reptilianの複数形: 爬虫類の
+REPUBLIC	(名詞) 共和国: 共和制の国家。 (ほかに: 共和制国家)
+REPUBLICAN	(形容詞) republicanの訳: 共和国の, 共和制の, 共和制支持の\n(名詞) republicanの訳: 共和主義者
+REPUBLICANISM	(名詞) 共和主義: 共和制を支持する考え方。君主を置かず、国民から選ばれた代表者のみで国家を統治すべきだという考え方。
+REPUBLICANISMS	(名詞) "republicanism" の複数形: 共和主義: 共和制を支持する考え方。君主を置かず、国民から選ばれた代表者のみで国家を統治すべきだという考え方。
+REPUBLICANS	(republicanの変化形) (形容詞) republicanの訳: 共和国の, 共和制の, 共和制支持の
+REPUBLICS	(republicの変化形) (名詞) 共和国: 共和制の国家。 (ほかに: 共和制国家)
+REPUDIATION	(名詞) 拒絶: 相手の要求や希望を絶つこと。断ること。 (ほかに: 拒否, 放棄)
+REPUDIATIONS	(repudiationの変化形) (名詞) 拒絶: 相手の要求や希望を絶つこと。断ること。 (ほかに: 拒否, 放棄)
+REPUGNANT	(形容詞) repugnantの訳: ⟪うとましい⟫
+REPULSE	(動詞) 追い払う。斥ける。排斥する。反発する。\n(名詞) 排斥。撃退。
+REPULSED	(repulseの変化形) (動詞) 追い払う。斥ける。排斥する。反発する。
+REPULSES	(動詞) repulseの直説法現在第三人称単数形: 追い払う。斥ける。排斥する。反発する。\n(名詞) repulseの複数形: 追い払う。斥ける。排斥する。反発する。
+REPULSING	(repulseの変化形) (動詞) 追い払う。斥ける。排斥する。反発する。
+REPULSION	(名詞) repulsionの訳: 撃退
+REPULSIONS	(名詞) repulsionの複数形: 撃退
+REPULSIVE	(形容詞) repulsiveの訳: 反発する
+REPULSIVELY	(副詞) 嫌悪を感じさせるほど。ぞっとするほど。
+REPURCHASE	(動詞) repurchaseの訳: ⟪買い戻す|かいもどす⟫, 再購入する\n(名詞) 買い戻し: 買い戻すこと。売り渡したものを代金を払って買い取ること。 (ほかに: 再購入)
+REPURCHASED	(動詞) repurchaseの過去形・過去分詞: ⟪買い戻す|かいもどす⟫, 再購入する
+REPURCHASES	(動詞) repurchaseの直説法現在第三人称単数形: ⟪買い戻す|かいもどす⟫, 再購入する\n(名詞) repurchaseの複数形: ⟪買い戻す|かいもどす⟫, 再購入する
+REPURCHASING	(動詞) repurchaseの現在分詞: ⟪買い戻す|かいもどす⟫, 再購入する
+REPUTABLE	(形容詞) reputableの訳: 評判のよい
+REPUTATION	(名詞) reputationの訳: 評判, 風評
+REPUTATIONS	(名詞) reputationの複数形: 評判, 風評
+REPUTE	(名詞) reputeの訳: 評判, 世評, ⟪名声|めいせい⟫\n(動詞) reputeの訳: ⟪見做す|みなす⟫, 評価する
+REPUTED	(動詞) reputeの過去形・過去分詞: 評判, 世評, ⟪名声|めいせい⟫\n(形容詞) ～と言われている。
+REPUTES	(動詞) reputeの直説法現在第三人称単数形: 評判, 世評, ⟪名声|めいせい⟫\n(名詞) reputeの複数形: 評判, 世評, ⟪名声|めいせい⟫
+REPUTING	(動詞) reputeの動名詞又は現在分詞: 評判, 世評, ⟪名声|めいせい⟫
+REQUEST	(動詞) 請求する: 正当な権利として、相手に求める。
+REQUESTED	(動詞) "request" の過去形・過去分詞形: 請求する: 正当な権利として、相手に求める。
+REQUESTING	(動詞) "request" の動名詞形又は現在分詞形: 請求する: 正当な権利として、相手に求める。
+REQUESTS	(名詞) "request" の複数形: 請求する: 正当な権利として、相手に求める。\n(動詞) "request" の三人称単数現在形: 請求する: 正当な権利として、相手に求める。
+REQUIRE	(動詞) 要する: 必要とする。 (ほかに: 必要とする)
+REQUIRED	(動詞) requireの過去形・過去分詞: 要する: 必要とする。 (ほかに: 必要とする)\n(形容詞) 必須の。必修の。
+REQUIREMENT	(名詞) 必需品: どうしても必要な品物。
+REQUIREMENTS	(名詞) requirementの複数形: 必需品: どうしても必要な品物。
+REQUIRER	(名詞) requirerの訳: 要求する人
+REQUIRERS	(名詞) requirerの複数形: 要求する人
+REQUIRES	(動詞) requireの直説法現在第三人称単数形: 要する: 必要とする。 (ほかに: 必要とする)
+REQUIRING	(動詞) requireの動名詞又は現在分詞: 要する: 必要とする。 (ほかに: 必要とする)
+REQUISITE	(形容詞) 必要な。不可欠の。\n(名詞) 必需品: どうしても必要な品物。
+REQUISITES	(名詞) requisiteの複数形: 必要な。不可欠の。
+REQUISITION	(名詞) （正式の）要求。請求。\n(動詞) 徴発する: 兵士などを強制的に呼び出すこと。
+REQUISITIONED	(動詞) requisitionの過去形・過去分詞: （正式の）要求。請求。
+REQUISITIONING	(動詞) requisitionの現在分詞: （正式の）要求。請求。
+REQUISITIONS	(名詞) requisitionの複数形: （正式の）要求。請求。\n(動詞) requisitionの直説法現在第三人称単数形: （正式の）要求。請求。
+REQUITE	(動詞) 報いる。返報する。返礼する。
+REQUITED	(動詞) requiteの過去形・過去分詞: 報いる。返報する。返礼する。
+REQUITES	(動詞) requiteの直説法現在第三人称単数形: 報いる。返報する。返礼する。
+REQUITING	(動詞) requiteの現在分詞: 報いる。返報する。返礼する。
+REREAD	(動詞) 読み返す: 一度読んだものを再度読む。 (ほかに: 再読する)\n(名詞) rereadの訳: 再読
+REREADING	(名詞) rereadingの訳: 再読\n(動詞) rereadの現在分詞: 読み返す: 一度読んだものを再度読む。 (ほかに: 再読する)
+REREADS	(動詞) rereadの直説法現在第三人称単数形: 読み返す: 一度読んだものを再度読む。 (ほかに: 再読する)\n(名詞) rereadの複数形: 読み返す: 一度読んだものを再度読む。 (ほかに: 再読する)
+RESALE	(名詞) 転売: 買ったものを他に売り渡すこと。
+RESALES	(resaleの変化形) (名詞) 転売: 買ったものを他に売り渡すこと。
+RESCHEDULE	(動詞) 予定を組みなおす、リスケジュールする。
+RESCHEDULED	(動詞) "reschedule" の過去形・過去分詞形: 予定を組みなおす、リスケジュールする。
+RESCHEDULES	(動詞) "reschedule" の三人称単数現在形: 予定を組みなおす、リスケジュールする。
+RESCHEDULING	(動詞) "reschedule" の動名詞形又は現在分詞形: 予定を組みなおす、リスケジュールする。
+RESCIND	(動詞) rescindの訳: 撤回する, 廃止する, 無効にする
+RESCINDED	(動詞) rescindの過去形・過去分詞: 撤回する, 廃止する, 無効にする
+RESCINDER	(名詞) rescinderの訳: 取り消す人, 撤回する人
+RESCINDING	(動詞) rescindの現在分詞: 撤回する, 廃止する, 無効にする\n(名詞) 撤回: 一度出した意見や案を取り下げること。 (ほかに: 取り消し)
+RESCINDS	(動詞) rescindの直説法現在第三人称単数形: 撤回する, 廃止する, 無効にする
+RESCISSION	(名詞) 廃止: 法令や規則などが廃れ、弛むこと。 (ほかに: 撤回)
+RESCISSIONS	(名詞) rescissionの複数形: 廃止: 法令や規則などが廃れ、弛むこと。 (ほかに: 撤回)
+RESCUE	(動詞) rescueの訳: 救う, 救助する\n(名詞) 救助、救援。レスキュー。
+RESCUED	(動詞) rescueの過去形・過去分詞: 救う, 救助する
+RESCUES	(名詞) rescueの複数形: 救う, 救助する\n(動詞) rescueの直説法現在第三人称単数形: 救う, 救助する
+RESCUING	(動詞) rescueの動名詞又は現在分詞: 救う, 救助する\n(名詞) 救助。救出。救済。
+RESEARCH	(名詞) researchの訳: ⟪研究|けんきゅう⟫\n(動詞) researchの訳: 研究する
+RESEARCHED	(動詞) "research" の過去形・過去分詞: ⟪研究|けんきゅう⟫
+RESEARCHER	(名詞) 研究者: 学問の研究や教授に従事している人。
+RESEARCHERS	(名詞) researcherの複数形: 研究者: 学問の研究や教授に従事している人。
+RESEARCHES	(名詞) "research" の複数形: ⟪研究|けんきゅう⟫\n(動詞) "research" の現在第三人称単数形。
+RESEARCHING	(動詞) "research" の動名詞又は現在分詞: ⟪研究|けんきゅう⟫
+RESELL	(動詞) 転売する: 買ったものを他に売り渡すこと。
+RESELLER	(resellの変化形) (動詞) 転売する: 買ったものを他に売り渡すこと。
+RESELLING	(動詞) "resell" の動名詞又は現在分詞: 転売する: 買ったものを他に売り渡すこと。
+RESELLS	(動詞) "resell" の現在第三人称単数形。
+RESEMBLANCE	(名詞) resemblanceの訳: ⟪類似|るいじ⟫
+RESEMBLANCES	(resemblanceの変化形) (名詞) resemblanceの訳: ⟪類似|るいじ⟫
+RESEMBLE	(動詞) ～と［に］似ている、類似している、～を想わせる、～の面影がある。
+RESEMBLED	(動詞) resembleの過去形・過去分詞: ～と［に］似ている、類似している、～を想わせる、～の面影がある。
+RESEMBLES	(動詞) resembleの直説法現在第三人称単数形: ～と［に］似ている、類似している、～を想わせる、～の面影がある。
+RESEMBLING	(動詞) resembleの動名詞又は現在分詞: ～と［に］似ている、類似している、～を想わせる、～の面影がある。\n(名詞) resemblingの訳: ⟪類似|るいじ⟫
+RESENT	(動詞) 憤慨する: ひどく怒ること。
+RESENTED	(動詞) resentの過去形・過去分詞: 憤慨する: ひどく怒ること。
+RESENTFUL	(形容詞) 憤慨した。怒った。腹が立った。腹を立てた。
+RESENTFULLY	(副詞) resentfullyの訳: 憤慨して
+RESENTING	(動詞) resentの動名詞又は現在分詞: 憤慨する: ひどく怒ること。
+RESENTMENT	(名詞) 憤慨: ひどく怒ること。 (ほかに: 憤り)
+RESENTMENTS	(名詞) resentmentの複数形: 憤慨: ひどく怒ること。 (ほかに: 憤り)
+RESENTS	(動詞) resentの現在第三人称単数形。
+RESERVATION	(名詞) reservationの訳: ⟪予約|よやく⟫
+RESERVATIONS	(reservationの変化形) (名詞) reservationの訳: ⟪予約|よやく⟫
+RESERVE	(動詞) 予約する: 将来の商品の購入やサービスの利用などについて、予め約束し優先的な権利を確保すること。\n(名詞) 蓄え。備蓄。
+RESERVED	(動詞) "reserve" の過去形・過去分詞: 予約する: 将来の商品の購入やサービスの利用などについて、予め約束し優先的な権利を確保すること。\n(形容詞) 内気な、なかなか打ち解けない、人見知りの。
+RESERVEDLY	(副詞) reservedlyの訳: 内気に, 打ち解けずに, 人見知りして
+RESERVES	(名詞) "reserve" の複数形: 予約する: 将来の商品の購入やサービスの利用などについて、予め約束し優先的な権利を確保すること。\n(動詞) "reserve" の現在第三人称単数形。
+RESERVING	(動詞) reserveの動名詞又は現在分詞: 予約する: 将来の商品の購入やサービスの利用などについて、予め約束し優先的な権利を確保すること。
+RESETTLEMENT	(名詞) resettlementの訳: 再定住
+RESETTLEMENTS	(名詞) resettlementの複数形: 再定住
+RESHUFFLE	(名詞) reshuffleの訳: 更迭
+RESHUFFLED	(reshuffleの変化形) (名詞) reshuffleの訳: 更迭
+RESHUFFLES	(reshuffleの変化形) (名詞) reshuffleの訳: 更迭
+RESHUFFLING	(reshuffleの変化形) (名詞) reshuffleの訳: 更迭
+RESIDE	(動詞) 住む: （すむ）ある家屋等一定の場所・領域において、普段寝起きする。生活する。 (ほかに: 居住する)
+RESIDED	(動詞) resideの過去形・過去分詞: 住む: （すむ）ある家屋等一定の場所・領域において、普段寝起きする。生活する。 (ほかに: 居住する)
+RESIDENCE	(名詞) 住居: 住むところ。 (ほかに: 住宅, 邸宅)
+RESIDENCES	(名詞) residenceの複数形: 住居: 住むところ。 (ほかに: 住宅, 邸宅)
+RESIDENCIES	(名詞) residencyの複数形: 居住。在住。
+RESIDENCY	(名詞) 居住。在住。
+RESIDENT	(名詞) 居住者: そこに居住している人。\n(形容詞) residentの訳: 居住している
+RESIDENTIAL	(形容詞) 居住の。住居の。住宅の。
+RESIDENTS	(名詞) residentの複数形: 居住者: そこに居住している人。
+RESIDER	(名詞) 住人: その土地・家に住んでいる人。
+RESIDERS	(名詞) residerの複数形: 住人: その土地・家に住んでいる人。
+RESIDES	(動詞) reside'の直説法現在第三人称単数形。
+RESIDING	(動詞) "reside" の動名詞又は現在分詞: 住む: （すむ）ある家屋等一定の場所・領域において、普段寝起きする。生活する。 (ほかに: 居住する)
+RESIGN	(名詞) 下野: （しもつけ）公職などを辞めて、体制から離れた立場になること。 (ほかに: 辞職, 裁量)\n(動詞) resignの訳: ⟪投了|とうりょう⟫, リザイン
+RESIGNATION	(名詞) 辞任: 慈悲心をもって苦難を耐えること。 (ほかに: 辞職)
+RESIGNATIONS	(名詞) resignationの複数形: 辞任: 慈悲心をもって苦難を耐えること。 (ほかに: 辞職)
+RESIGNED	(形容詞) resignedの訳: 諦めた, 観念した\n(動詞) resignの過去形・過去分詞: 下野: （しもつけ）公職などを辞めて、体制から離れた立場になること。 (ほかに: 辞職, 裁量)
+RESIGNEDLY	(副詞) resignedlyの訳: 諦めて
+RESIGNING	(動詞) resignの動名詞又は現在分詞: 下野: （しもつけ）公職などを辞めて、体制から離れた立場になること。 (ほかに: 辞職, 裁量)
+RESIGNS	(動詞) resignの現在第三人称単数形。
+RESIN	(名詞) resinの訳: 樹脂, ⟪松脂|まつやに⟫\n(動詞) resinの訳: 樹脂加工する
+RESINATE	(動詞) resinateの訳: 樹脂加工する\n(名詞) resinateの訳: 樹脂酸塩
+RESINATED	(動詞) resinateの過去形・過去分詞: 樹脂加工する
+RESINATES	(動詞) resinateの直説法現在第三人称単数形: 樹脂加工する
+RESINATING	(動詞) resinateの現在分詞: 樹脂加工する
+RESINED	(動詞) resinの過去形・過去分詞: 樹脂, ⟪松脂|まつやに⟫
+RESINING	(動詞) resinの現在分詞: 樹脂, ⟪松脂|まつやに⟫
+RESINOUS	(形容詞) resinousの訳: 樹脂の
+RESINS	(名詞) resinの複数形: 樹脂, ⟪松脂|まつやに⟫\n(動詞) resinの直説法現在第三人称単数形: 樹脂, ⟪松脂|まつやに⟫
+RESIST	(動詞) resistの訳: 抵抗する, 反抗する\n(名詞) resistの訳: レジスト, 絶縁塗料
+RESISTANCE	(名詞) resistanceの訳: 抵抗, 反抗, 抵抗力
+RESISTANCES	(名詞) resistanceの複数形: 抵抗, 反抗, 抵抗力
+RESISTANT	(名詞) resistantの訳: 抵抗者, 反抗者\n(形容詞) resistantの訳: 抵抗する, 反抗する, 妨害する
+RESISTANTS	(名詞) resistantの複数形: 抵抗者, 反抗者
+RESISTED	(動詞) resistの過去形・過去分詞: 抵抗する, 反抗する
+RESISTER	(名詞) resisterの訳: 抵抗者, 反抗者
+RESISTERS	(名詞) resisterの複数形: 抵抗者, 反抗者
+RESISTIBLE	(形容詞) resistibleの訳: 抵抗できる
+RESISTING	(動詞) resistの動名詞又は現在分詞: 抵抗する, 反抗する\n(名詞) 抵抗: 外からの力に逆らうこと。 (ほかに: 反抗)
+RESISTOR	(名詞) 抵抗器: 電子部品の一種で、意図的に電気抵抗をつくりだすもの。
+RESISTORS	(resistorの変化形) (名詞) 抵抗器: 電子部品の一種で、意図的に電気抵抗をつくりだすもの。
+RESISTS	(名詞) resistの複数形: 抵抗する, 反抗する\n(動詞) resistの直説法現在第三人称単数形: 抵抗する, 反抗する
+RESOLUTE	(形容詞) resoluteの訳: 断固とした, 意志の固い
+RESOLUTELY	(副詞) resolutelyの訳: 断固として, 決然と
+RESOLUTENESS	(名詞) resolutenessの訳: 断固たること
+RESOLUTENESSES	(resolutenessの変化形) (名詞) resolutenessの訳: 断固たること
+RESOLUTER	(resoluteの変化形) (形容詞) resoluteの訳: 断固とした, 意志の固い
+RESOLUTES	(resoluteの変化形) (形容詞) resoluteの訳: 断固とした, 意志の固い
+RESOLUTEST	(resoluteの変化形) (形容詞) resoluteの訳: 断固とした, 意志の固い
+RESOLUTION	(名詞) resolutionの訳: ⟪決意|けつい⟫, ⟪決心|けっしん⟫, ⟪不屈|ふくつ⟫
+RESOLUTIONS	(resolutionの変化形) (名詞) resolutionの訳: ⟪決意|けつい⟫, ⟪決心|けっしん⟫, ⟪不屈|ふくつ⟫
+RESOLVABLE	(形容詞) resolvableの訳: 解決できる
+RESOLVE	(動詞) resolveの訳: 解決する\n(名詞) resolveの訳: ⟪決心|けっしん⟫
+RESOLVED	(形容詞) resolvedの訳: 決心している\n(動詞) resolveの過去形・過去分詞: 解決する。
+RESOLVENT	(名詞) resolventの訳: 解核
+RESOLVENTS	(resolventの変化形) (名詞) resolventの訳: 解核
+RESOLVES	(名詞) "resolve" の複数形: 解決する\n(動詞) "resolve" の現在第三人称単数形。
+RESOLVING	(動詞) "resolve" の動名詞又は現在分詞: 解決する
+RESONANCE	(名詞) 響き。反響。
+RESONANCES	(名詞) resonanceの複数形: 響き。反響。
+RESONANT	(形容詞) よく響く。反響する。\n(名詞) resonantの訳: 共鳴音
+RESONANTLY	(副詞) 響き渡って。反響して。
+RESONANTS	(名詞) resonantの複数形: よく響く。反響する。
+RESONATE	(動詞) 鳴り響く。反響する。
+RESONATED	(動詞) resonateの過去形・過去分詞: 鳴り響く。反響する。
+RESONATES	(動詞) resonateの直説法現在第三人称単数形: 鳴り響く。反響する。
+RESONATING	(動詞) resonateの現在分詞: 鳴り響く。反響する。
+RESOUND	(動詞) resoundの訳: 再び鳴る
+RESOUNDED	(動詞) resoundの過去形・過去分詞: 再び鳴る
+RESOUNDING	(名詞) resoundingの訳: 鳴り響くこと\n(形容詞) 鳴り響く。響き渡る。
+RESOUNDINGLY	(副詞) resoundinglyの訳: 鳴り響いて
+RESOUNDS	(動詞) resoundの直説法現在第三人称単数形: 再び鳴る
+RESOURCE	(名詞) 財源: 必要な財貨を得る、源になるもの。 (ほかに: 資源, 資産)\n(動詞) resourceの訳: 提供する
+RESOURCEFUL	(形容詞) 資源が豊富な。資金が豊富な。
+RESOURCEFULLY	(副詞) 臨機応変に。機転が利いて。
+RESOURCEFULNESS	(名詞) 機転が利くこと。
+RESOURCEFULNESSES	(名詞) resourcefulnessの複数形: 機転が利くこと。
+RESOURCES	(名詞) resourceの複数形: 財源: 必要な財貨を得る、源になるもの。 (ほかに: 資源, 資産)\n(動詞) resourceの直説法現在第三人称単数形: 財源: 必要な財貨を得る、源になるもの。 (ほかに: 資源, 資産)
+RESPECT	(名詞) respectの訳: 重視, ⟪尊重|そんちょう⟫, 珍重\n(動詞) 重視する: （じゅうしする）価値や有用性が高い、又はなくてはならないとして重く見る。 (ほかに: 見上げる, 重んじる)
+RESPECTABILITIES	(名詞) respectabilityの複数形: 体面。世間体。
+RESPECTABILITY	(名詞) 体面。世間体。
+RESPECTABLE	(形容詞) 貴ぶべき。尊重されるべき。無視できない。相当な。
+RESPECTABLES	(respectableの変化形) (形容詞) 貴ぶべき。尊重されるべき。無視できない。相当な。
+RESPECTABLY	(副詞) respectablyの訳: 立派に, まともに, ⟪きちんと⟫
+RESPECTED	(形容詞) 尊敬されている、立派な、評判のよい。\n(動詞) respectの過去形・過去分詞: 重視, ⟪尊重|そんちょう⟫, 珍重
+RESPECTER	(名詞) respecterの訳: 尊敬する人
+RESPECTERS	(名詞) respecterの複数形: 尊敬する人
+RESPECTFUL	(形容詞) respectfulの訳: 尊敬的な, 敬う態度の
+RESPECTFULLY	(副詞) respectfullyの訳: 恭しく
+RESPECTING	(動詞) respectの動名詞又は現在分詞: 重視, ⟪尊重|そんちょう⟫, 珍重\n(前置詞) respectingの訳: 〜に関して, 〜について
+RESPECTIVE	(形容詞) それぞれの: 複数あるもののひとつひとつ。ひとりひとり。副詞的にも用いる。
+RESPECTIVELY	(副詞) respectivelyの訳: ⟪それぞれ⟫
+RESPECTS	(名詞) respectの複数形: 重視, ⟪尊重|そんちょう⟫, 珍重\n(動詞) respectの直説法現在第三人称単数形: 重視, ⟪尊重|そんちょう⟫, 珍重
+RESPIRATION	(名詞) 呼吸: 生物の活動において、酸素を吸収し、酸化活動の結果、二酸化炭素などを排出すること。
+RESPIRATIONS	(名詞) respirationの複数形: 呼吸: 生物の活動において、酸素を吸収し、酸化活動の結果、二酸化炭素などを排出すること。
+RESPIRATOR	(名詞) respiratorの訳: 人工呼吸器
+RESPIRATORS	(respiratorの変化形) (名詞) respiratorの訳: 人工呼吸器
+RESPIRATORY	(形容詞) 呼吸の: 息を吐いたり吸ったりすること。
+RESPIRE	(動詞) 呼吸する: 息を吐いたり吸ったりすること。
+RESPIRED	(動詞) "respire" の過去形・過去分詞: 呼吸する: 息を吐いたり吸ったりすること。
+RESPIRES	(動詞) respireの直説法現在第三人称単数形: 呼吸する: 息を吐いたり吸ったりすること。
+RESPIRING	(動詞) "respire" の動名詞又は現在分詞: 呼吸する: 息を吐いたり吸ったりすること。
+RESPITE	(名詞) respiteの訳: ⟪小休止|しょうきゅうし⟫, ⟪中断|ちゅうだん⟫, 休息]]\n(動詞) respiteの訳: 一息つかせる
+RESPITED	(動詞) respiteの過去形・過去分詞: ⟪小休止|しょうきゅうし⟫, ⟪中断|ちゅうだん⟫, 休息]]
+RESPITES	(名詞) respiteの複数形: ⟪小休止|しょうきゅうし⟫, ⟪中断|ちゅうだん⟫, 休息]]\n(動詞) respiteの直説法現在第三人称単数形: ⟪小休止|しょうきゅうし⟫, ⟪中断|ちゅうだん⟫, 休息]]
+RESPITING	(動詞) respiteの現在分詞: ⟪小休止|しょうきゅうし⟫, ⟪中断|ちゅうだん⟫, 休息]]
+RESPLENDENCE	(名詞) 輝き。眩さ。
+RESPLENDENCES	(名詞) resplendenceの複数形: 輝き。眩さ。
+RESPLENDENT	(形容詞) きらきら輝く。煌びやかな。眩い。
+RESPOND	(動詞) 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 応答する)
+RESPONDED	(動詞) respondの過去形・過去分詞: 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 応答する)
+RESPONDENT	(名詞) 被告: （法律） 民事訴訟において、訴えられた側の当事者のこと。\n(形容詞) respondentの訳: 応答する, 回答する
+RESPONDENTS	(名詞) respondentの複数形: 被告: （法律） 民事訴訟において、訴えられた側の当事者のこと。
+RESPONDER	(名詞) responderの訳: 応答者
+RESPONDERS	(名詞) responderの複数形: 応答者
+RESPONDING	(動詞) respondの動名詞又は現在分詞: 答える: （こたえる）呼び掛けに対して返事をする。 (ほかに: 応答する)\n(名詞) 応答。反応。
+RESPONDS	(動詞) "respond " の現在第三人称単数形。
+RESPONSE	(名詞) responseの訳: ⟪応答|おうとう⟫
+RESPONSES	(responseの変化形) (名詞) responseの訳: ⟪応答|おうとう⟫
+RESPONSIBILITIES	(名詞) "responsibility" の複数形: 責任: (民事法) 究極には、国家によって履行が強制される債務。
+RESPONSIBILITY	(名詞) 責任: (民事法) 究極には、国家によって履行が強制される債務。
+RESPONSIBLE	(形容詞) responsibleの訳: 責任のある
+RESPONSIBLY	(副詞) responsiblyの訳: 責任を持って
+RESPONSIVE	(形容詞) 応答の: 質問や呼びかけに対して答えること。返事。返答。回答。
+RESPONSIVELY	(responsiveの変化形) (形容詞) 応答の: 質問や呼びかけに対して答えること。返事。返答。回答。
+REST	(名詞) restの訳: 休み, ⟪休養|きゅうよう⟫, ⟪休憩|きゅうけい⟫\n(動詞) restの訳: ⟪休む|やすむ⟫
+RESTART	(名詞) 再開。再出発。\n(動詞) 再開する。再出発する。
+RESTARTED	(動詞) restartの過去形・過去分詞: 再開。再出発。
+RESTARTING	(動詞) restartの現在分詞: 再開。再出発。
+RESTARTS	(名詞) restartの複数形: 再開。再出発。\n(動詞) restartの直説法現在第三人称単数形: 再開。再出発。
+RESTAURANT	(名詞) レストラン: 調理した飲食物を客に提供する店。主として洋風のもの。 (ほかに: 飲食店)
+RESTAURANTS	(restaurantの変化形) (名詞) レストラン: 調理した飲食物を客に提供する店。主として洋風のもの。 (ほかに: 飲食店)
+RESTAURATEUR	(名詞) レストラン経営者。
+RESTAURATEURS	(名詞) restaurateurの複数形: レストラン経営者。
+RESTED	(形容詞) restedの訳: 静養した\n(動詞) restの過去形・過去分詞: 休み, ⟪休養|きゅうよう⟫, ⟪休憩|きゅうけい⟫
+RESTER	(名詞) resterの訳: 休む人
+RESTERS	(名詞) resterの複数形: 休む人
+RESTING	(動詞) "rest" の動名詞又は現在分詞: 休み, ⟪休養|きゅうよう⟫, ⟪休憩|きゅうけい⟫
+RESTITUTE	(動詞) 返戻: ものを返し、戻すこと。
+RESTITUTED	(restituteの変化形) (動詞) 返戻: ものを返し、戻すこと。
+RESTITUTES	(restituteの変化形) (動詞) 返戻: ものを返し、戻すこと。
+RESTITUTING	(restituteの変化形) (動詞) 返戻: ものを返し、戻すこと。
+RESTITUTION	(名詞) 賠償: 債務不履行又は不法行為等から生じた損害に対して填補すること。一般に損害賠償のこと。
+RESTITUTIONS	(名詞) restitutionの複数形: 賠償: 債務不履行又は不法行為等から生じた損害に対して填補すること。一般に損害賠償のこと。
+RESTIVE	(形容詞) 落ち着きのない、そわそわした。
+RESTIVELY	(副詞) restivelyの訳: 落ち着きなく, そわそわして
+RESTIVENESS	(名詞) 落ち着きのないこと。
+RESTIVENESSES	(名詞) restivenessの複数形: 落ち着きのないこと。
+RESTLESS	(形容詞) 落ち着きのない。
+RESTLESSLY	(副詞) restlesslyの訳: 落ち着きなく
+RESTLESSNESS	(名詞) 落ち着かないこと。
+RESTLESSNESSES	(restlessnessの変化形) (名詞) 落ち着かないこと。
+RESTORATION	(名詞) restorationの訳: ⟪回復|かいふく⟫, ⟪復活|ふっかつ⟫
+RESTORATIONS	(名詞) restorationの複数形: ⟪回復|かいふく⟫, ⟪復活|ふっかつ⟫
+RESTORE	(動詞) 回復する: 望ましくない状態になったものが、元の、よい状態に戻ること。
+RESTORED	(形容詞) restoredの訳: 回復した, 修復された\n(動詞) restoreの過去形・過去分詞: 回復する: 望ましくない状態になったものが、元の、よい状態に戻ること。
+RESTORER	(名詞) restorerの訳: 修復する人
+RESTORERS	(名詞) restorerの複数形: 修復する人
+RESTORES	(動詞) restoreの直説法現在第三人称単数形: 回復する: 望ましくない状態になったものが、元の、よい状態に戻ること。
+RESTORING	(動詞) restoreの動名詞又は現在分詞: 回復する: 望ましくない状態になったものが、元の、よい状態に戻ること。
+RESTRAIN	(動詞) 抑える: （おさえる）自分の支配下に置く。
+RESTRAINED	(動詞) "restrain" の過去形・過去分詞: 抑える: （おさえる）自分の支配下に置く。\n(形容詞) 制約した、拘束した、身動きが取れない。
+RESTRAINING	(動詞) restrainの動名詞又は現在分詞: 抑える: （おさえる）自分の支配下に置く。\n(名詞) restrainingの訳: ⟪抑制|よくせい⟫
+RESTRAINS	(動詞) restrainの直説法現在第三人称単数形: 抑える: （おさえる）自分の支配下に置く。
+RESTRAINT	(名詞) 自制: 自分の感情や欲望を自身で抑制すること。我慢すること。 (ほかに: 抑制, 制約)
+RESTRAINTS	(名詞) "restraint" の複数形: 自制: 自分の感情や欲望を自身で抑制すること。我慢すること。 (ほかに: 抑制, 制約)
+RESTRICT	(動詞) 制限する: 〔何かに対して〕区切りを定め、その区切りを超えないようにする。あるいは、そのように働きかける。 (ほかに: 限定する)
+RESTRICTED	(動詞) restrictの過去形・過去分詞: 制限する: 〔何かに対して〕区切りを定め、その区切りを超えないようにする。あるいは、そのように働きかける。 (ほかに: 限定する)\n(形容詞) restrictedの訳: 制限された
+RESTRICTING	(動詞) restrictの動名詞又は現在分詞: 制限する: 〔何かに対して〕区切りを定め、その区切りを超えないようにする。あるいは、そのように働きかける。 (ほかに: 限定する)\n(形容詞) 窮屈な: せまかったりゆとりがなかったりして身動きが取りにくく、不自由であること。
+RESTRICTION	(名詞) 制限、限定、制約、制限を加えるもの、条件事項。
+RESTRICTIONS	(名詞) restrictionの複数形: 制限、限定、制約、制限を加えるもの、条件事項。
+RESTRICTIVE	(形容詞) 限定する: 事例などの数を限ること。少なくすること。 (ほかに: 制限的な)
+RESTRICTIVES	(restrictiveの変化形) (形容詞) 限定する: 事例などの数を限ること。少なくすること。 (ほかに: 制限的な)
+RESTRICTS	(動詞) restrictの直説法現在第三人称単数形: 制限する: 〔何かに対して〕区切りを定め、その区切りを超えないようにする。あるいは、そのように働きかける。 (ほかに: 限定する)
+RESTROOM	(名詞) トイレ: 便所。 (ほかに: 便所, トイレット)
+RESTROOMS	(restroomの変化形) (名詞) トイレ: 便所。 (ほかに: 便所, トイレット)
+RESTRUCTURE	(動詞) 組織を新しくする。再構築する。\n(名詞) 再編。改組。
+RESTRUCTURED	(動詞) restructureの過去形・過去分詞: 組織を新しくする。再構築する。
+RESTRUCTURES	(動詞) restructureの直説法現在第三人称単数形: 組織を新しくする。再構築する。
+RESTRUCTURING	(動詞) restructureの現在分詞: 組織を新しくする。再構築する。\n(名詞) restructuringの訳: 再構築
+RESTS	(名詞) "rest" の複数形: 休み, ⟪休養|きゅうよう⟫, ⟪休憩|きゅうけい⟫\n(動詞) "rest" の現在第三人称単数形。
+RESULT	(名詞) 結果: ある行為から生まれた状態や事柄。 (ほかに: 結末)\n(動詞) 結果として起こる。
+RESULTANT	(形容詞) 結果として生じる。\n(名詞) 結果。成果。
+RESULTANTLY	(resultantの変化形) (形容詞) 結果として生じる。
+RESULTANTS	(名詞) resultantの複数形: 結果として生じる。
+RESULTED	(動詞) resultの過去形・過去分詞: 結果: ある行為から生まれた状態や事柄。 (ほかに: 結末)
+RESULTING	(形容詞) 結果として起こる。\n(動詞) resultの動名詞又は現在分詞: 結果: ある行為から生まれた状態や事柄。 (ほかに: 結末)
+RESULTS	(名詞) "result" の複数形: 結果: ある行為から生まれた状態や事柄。 (ほかに: 結末)\n(動詞) "result" の三人称単数現在形: 結果: ある行為から生まれた状態や事柄。 (ほかに: 結末)
+RESUME	(動詞) resumeの訳: 再開する\n(名詞) resumeの訳: 履歴書
+RESUMED	(動詞) "resume" の過去形・過去分詞形: 再開する
+RESUMER	(resumeの変化形) (動詞) resumeの訳: 再開する
+RESUMES	(名詞) "resume" の複数形: 再開する\n(動詞) "resume" の現在第三人称単数形。
+RESUMING	(動詞) "resume" の動名詞又は現在分詞: 再開する
+RESUMPTION	(名詞) resumptionの訳: 取り戻すこと
+RESUMPTIONS	(resumptionの変化形) (名詞) resumptionの訳: 取り戻すこと
+RESUPINATE	(形容詞) resupinateの訳: 逆向きの\n(動詞) resupinateの訳: 回外させる
+RESURFACE	(動詞) resurfaceの訳: 再舗装する
+RESURFACED	(動詞) "resurface" の過去形・過去分詞: 再舗装する
+RESURFACES	(動詞) "resurface" の現在第三人称単数形。
+RESURFACING	(動詞) "resurface" の動名詞又は現在分詞: 再舗装する
+RESURRECT	(動詞) resurrectの訳: 復活させる
+RESURRECTED	(動詞) resurrectの過去形・過去分詞: 復活させる
+RESURRECTING	(動詞) resurrectの動名詞又は現在分詞: 復活させる
+RESURRECTION	(名詞) resurrectionの訳: ⟪復活|ふっかつ⟫, 蘇生/甦生, ⟪回復|かいふく⟫, ⟪復興|ふっこう⟫
+RESURRECTIONS	(resurrectionの変化形) (名詞) resurrectionの訳: ⟪復活|ふっかつ⟫, 蘇生/甦生, ⟪回復|かいふく⟫, ⟪復興|ふっこう⟫
+RESURRECTS	(動詞) resurrectの現在第三人称単数形。
+RETAIL	(名詞) 小売り: （こうり）消費を目的とする者へ販売すること。\n(形容詞) retailの訳: 小売りの
+RETAILED	(動詞) retailの過去形・過去分詞: 小売り: （こうり）消費を目的とする者へ販売すること。
+RETAILER	(名詞) retailerの訳: 小売り業者
+RETAILERS	(名詞) retailerの複数形: 小売り業者
+RETAILING	(動詞) retailの現在分詞: 小売り: （こうり）消費を目的とする者へ販売すること。\n(名詞) 小売業: 仕入れた商品を最終消費者へ販売する事業。
+RETAILINGS	(名詞) retailingの複数形: retailの現在分詞。
+RETAILS	(動詞) retailの直説法現在第三人称単数形: 小売り: （こうり）消費を目的とする者へ販売すること。
+RETAIN	(動詞) 保つ。保持する。保有する。維持する。
+RETAINED	(動詞) retainの過去形・過去分詞: 保つ。保持する。保有する。維持する。
+RETAINER	(名詞) retainerの訳: 臣下
+RETAINERS	(retainerの変化形) (名詞) retainerの訳: 臣下
+RETAINING	(形容詞) retainingの訳: 保持する\n(動詞) retainの現在分詞: 保つ。保持する。保有する。維持する。
+RETAINS	(動詞) retainの直説法現在第三人称単数形: 保つ。保持する。保有する。維持する。
+RETALIATE	(名詞) retaliateの訳: 意趣返し
+RETALIATED	(retaliateの変化形) (名詞) retaliateの訳: 意趣返し
+RETALIATES	(retaliateの変化形) (名詞) retaliateの訳: 意趣返し
+RETALIATING	(retaliateの変化形) (名詞) retaliateの訳: 意趣返し
+RETALIATION	(名詞) retaliationの訳: 意趣返し
+RETALIATIONS	(retaliationの変化形) (名詞) retaliationの訳: 意趣返し
+RETELL	(動詞) retellの訳: 再び語る
+RETELLING	(動詞) "retell" の動名詞又は現在分詞: 再び語る\n(名詞) 再話。神話、伝説などを、原典に忠実に翻訳するのではなく、物語としてわかりやすく書き直したもの。または書き直す行為。
+RETELLS	(動詞) "retell" の現在第三人称単数形。
+RETENTION	(名詞) 保持。保有。保存。維持。リテンション。
+RETENTIONS	(名詞) retentionの複数形: 保持。保有。保存。維持。リテンション。
+RETENTIVE	(形容詞) retentiveの訳: 記憶力のよい
+RETINA	(名詞) 網膜: 眼球のうち後方の内壁をおおう膜状の組織。視細胞が並び色、明暗を感じる。
+RETINAE	(retinaの変化形) (名詞) 網膜: 眼球のうち後方の内壁をおおう膜状の組織。視細胞が並び色、明暗を感じる。
+RETINAS	(retinaの変化形) (名詞) 網膜: 眼球のうち後方の内壁をおおう膜状の組織。視細胞が並び色、明暗を感じる。
+RETINUE	(名詞) retinueの訳: 臣下
+RETINUED	(retinueの変化形) (名詞) retinueの訳: 臣下
+RETINUES	(retinueの変化形) (名詞) retinueの訳: 臣下
+RETIRE	(動詞) 引退する: 官職などの地位や現在やっている職業、活動などから退くこと。
+RETIRED	(形容詞) retiredの訳: 引退した, 退職した, 退役した\n(動詞) retireの過去形・過去分詞: 引退する: 官職などの地位や現在やっている職業、活動などから退くこと。
+RETIREDLY	(retireの変化形) (動詞) 引退する: 官職などの地位や現在やっている職業、活動などから退くこと。
+RETIREMENT	(名詞) 辞職: 勤めている職を、自らの意思により辞めること。
+RETIREMENTS	(名詞) retirementの複数形: 辞職: 勤めている職を、自らの意思により辞めること。
+RETIRER	(名詞) retirerの訳: 退職者
+RETIRERS	(名詞) retirerの複数形: 退職者
+RETIRES	(動詞) retireの直説法現在第三人称単数形: 引退する: 官職などの地位や現在やっている職業、活動などから退くこと。
+RETIRING	(形容詞) retiringの訳: 内気な\n(動詞) retireの動名詞又は現在分詞: 引退する: 官職などの地位や現在やっている職業、活動などから退くこと。
+RETIRINGLY	(retireの変化形) (動詞) 引退する: 官職などの地位や現在やっている職業、活動などから退くこと。
+RETOLD	(動詞) retellの過去形・過去分詞: 再び語る
+RETORT	(名詞) 言い返し。竹篦返し。報復。\n(動詞) 言い返す: 【駁す】相手の意見に対して、否定する言葉を返す。
+RETORTED	(動詞) retortの過去形・過去分詞: 言い返し。竹篦返し。報復。
+RETORTING	(動詞) retortの現在分詞: 言い返し。竹篦返し。報復。
+RETORTS	(名詞) retortの複数形: 言い返し。竹篦返し。報復。\n(動詞) retortの直説法現在第三人称単数形: 言い返し。竹篦返し。報復。
+RETOUCH	(動詞) 手を加える。修整する。\n(名詞) レタッチ。修整。
+RETOUCHED	(動詞) retouchの過去形・過去分詞: 手を加える。修整する。
+RETOUCHER	(名詞) retoucherの訳: 修整者
+RETOUCHERS	(名詞) retoucherの複数形: 修整者
+RETOUCHES	(名詞) retouchの複数形: 手を加える。修整する。\n(動詞) retouchの直説法現在第三人称単数形: 手を加える。修整する。
+RETOUCHING	(動詞) retouchの現在分詞: 手を加える。修整する。\n(名詞) レタッチ。修整。
+RETRACE	(名詞) 遡及: 過去に遡ること。溯及。
+RETRACED	(retraceの変化形) (名詞) 遡及: 過去に遡ること。溯及。
+RETRACES	(retraceの変化形) (名詞) 遡及: 過去に遡ること。溯及。
+RETRACING	(retraceの変化形) (名詞) 遡及: 過去に遡ること。溯及。
+RETRACT	(動詞) 引っ込める: （ひっこめる）取り下げる。撤回する。 (ほかに: 格納する)
+RETRACTABLE	(形容詞) 引っ込められる。格納可能な。\n(名詞) retractableの訳: 格納式のペン
+RETRACTED	(動詞) retractの過去形・過去分詞: 引っ込める: （ひっこめる）取り下げる。撤回する。 (ほかに: 格納する)\n(形容詞) retractedの訳: 引っ込んだ
+RETRACTING	(動詞) retractの現在分詞: 引っ込める: （ひっこめる）取り下げる。撤回する。 (ほかに: 格納する)
+RETRACTION	(名詞) 引っ込めること。
+RETRACTIONS	(名詞) retractionの複数形: 引っ込めること。
+RETRACTS	(動詞) retractの直説法現在第三人称単数形: 引っ込める: （ひっこめる）取り下げる。撤回する。 (ほかに: 格納する)
+RETRANSLATE	(動詞) 再翻訳: 翻訳した後に翻訳した言語に戻す。
+RETRANSLATED	(retranslateの変化形) (動詞) 再翻訳: 翻訳した後に翻訳した言語に戻す。
+RETRANSLATES	(retranslateの変化形) (動詞) 再翻訳: 翻訳した後に翻訳した言語に戻す。
+RETRANSLATING	(retranslateの変化形) (動詞) 再翻訳: 翻訳した後に翻訳した言語に戻す。
+RETREAT	(名詞) retreatの訳: 退却, 後退\n(動詞) 退く: （しりぞく）貴人の前や公的な場所から帰る。 (ほかに: 退却する, 撤退する)
+RETREATED	(動詞) retreatの過去形・過去分詞: 退却, 後退
+RETREATER	(retreatの変化形) (名詞) retreatの訳: 退却, 後退
+RETREATING	(動詞) retreatの現在分詞: 退却, 後退\n(名詞) 後退: 後ろに下がること。
+RETREATS	(名詞) retreatの複数形: 退却, 後退\n(動詞) retreatの直説法現在第三人称単数形: 退却, 後退
+RETRIBUTION	(名詞) 報い。報復。懲罰。
+RETRIBUTIONS	(名詞) retributionの複数形: 報い。報復。懲罰。
+RETRIBUTIVE	(形容詞) retributiveの訳: 報いの, 報復の
+RETRIBUTIVELY	(retributiveの変化形) (形容詞) retributiveの訳: 報いの, 報復の
+RETRIED	(動詞) retryの過去形・過去分詞: 再び試みる。再試行する。
+RETRIES	(名詞) retryの複数形: 再び試みる。再試行する。\n(動詞) retryの直説法現在第三人称単数形: 再び試みる。再試行する。
+RETRIEVABLE	(形容詞) retrievableの訳: 取り戻せる, 回復できる
+RETRIEVE	(動詞) 取り戻す。取り返す。\n(名詞) 回復: 一度失くしたものを、再び取り戻すこと。
+RETRIEVED	(retrieveの変化形) (動詞) 取り戻す。取り返す。
+RETRIEVES	(retrieveの変化形) (動詞) 取り戻す。取り返す。
+RETRIEVING	(retrieveの変化形) (動詞) 取り戻す。取り返す。
+RETROACT	(名詞) 遡及: 過去に遡ること。溯及。
+RETROACTED	(retroactの変化形) (名詞) 遡及: 過去に遡ること。溯及。
+RETROACTING	(retroactの変化形) (名詞) 遡及: 過去に遡ること。溯及。
+RETROACTION	(名詞) retroactionの訳: 遡求
+RETROACTIONS	(名詞) retroactionの複数形: 遡求
+RETROACTIVE	(形容詞) 遡及する。遡って効力がある。
+RETROACTIVELY	(副詞) 遡及的に。遡って。
+RETROACTS	(retroactの変化形) (名詞) 遡及: 過去に遡ること。溯及。
+RETROCEDE	(動詞) 返還する: 元の持主に返すこと。
+RETROCEDED	(動詞) retrocedeの過去形・過去分詞: 返還する: 元の持主に返すこと。
+RETROCEDES	(動詞) retrocedeの直説法現在第三人称単数形: 返還する: 元の持主に返すこと。
+RETROCEDING	(動詞) retrocedeの現在分詞: 返還する: 元の持主に返すこと。
+RETROGRADATION	(名詞) 後退。退行。衰退。逆行。
+RETROGRADATIONS	(名詞) retrogradationの複数形: 後退。退行。衰退。逆行。
+RETROGRADE	(形容詞) 後退する。退行する。退化する。\n(名詞) retrogradeの訳: 堕落した人
+RETROGRADED	(動詞) retrogradeの過去形・過去分詞: 後退する。退行する。退化する。
+RETROGRADELY	(retrogradeの変化形) (形容詞) 後退する。退行する。退化する。
+RETROGRADES	(名詞) retrogradeの複数形: 後退する。退行する。退化する。\n(動詞) retrogradeの直説法現在第三人称単数形: 後退する。退行する。退化する。
+RETROGRADING	(動詞) retrogradeの現在分詞: 後退する。退行する。退化する。
+RETROGRESS	(動詞) 後退する。逆行する。退化する。退行する。\n(名詞) 後退。逆行。退化。退行。
+RETROGRESSED	(動詞) retrogressの過去形・過去分詞: 後退する。逆行する。退化する。退行する。
+RETROGRESSES	(動詞) retrogressの直説法現在第三人称単数形: 後退する。逆行する。退化する。退行する。\n(名詞) retrogressの複数形: 後退する。逆行する。退化する。退行する。
+RETROGRESSING	(動詞) retrogressの現在分詞: 後退する。逆行する。退化する。退行する。
+RETROGRESSION	(名詞) 後退。逆行。退化。退行。
+RETROGRESSIONS	(名詞) retrogressionの複数形: 後退。逆行。退化。退行。
+RETROGRESSIVE	(形容詞) 後退する。逆行する。退化する。退行する。\n(名詞) 逆行的な意見・方針の人。
+RETROSPECT	(名詞) 回顧。追想。\n(動詞) 回顧する。追想する。
+RETROSPECTED	(動詞) retrospectの過去形・過去分詞: 回顧。追想。
+RETROSPECTING	(動詞) retrospectの現在分詞: 回顧。追想。
+RETROSPECTION	(名詞) 回顧。追想。
+RETROSPECTIONS	(名詞) retrospectionの複数形: 回顧。追想。
+RETROSPECTIVE	(形容詞) 回顧的な。追想にふける。\n(名詞) retrospectiveの訳: 回顧展
+RETROSPECTIVELY	(副詞) 遡及して。遡って。
+RETROSPECTIVES	(名詞) retrospectiveの複数形: 回顧的な。追想にふける。
+RETROSPECTS	(名詞) retrospectの複数形: 回顧。追想。\n(動詞) retrospectの直説法現在第三人称単数形: 回顧。追想。
+RETRY	(動詞) 再び試みる。再試行する。\n(名詞) retryの訳: 再試行
+RETRYING	(動詞) retryの現在分詞: 再び試みる。再試行する。
+RETURN	(動詞) ～を返す、戻す。～を返却する。\n(名詞) returnの訳: 返すこと, 返却
+RETURNED	(動詞) returnの過去形・過去分詞: ～を返す、戻す。～を返却する。\n(形容詞) returnedの訳: 戻ってきた
+RETURNING	(動詞) returnの動名詞又は現在分詞: ～を返す、戻す。～を返却する。\n(名詞) 回帰: ある状態や場所から、別の状態や場所を経て、元の状態や場所に戻ること。 (ほかに: 復帰, 返却)
+RETURNS	(名詞) returnの複数形: ～を返す、戻す。～を返却する。\n(動詞) returnの直説法現在第三人称単数形: ～を返す、戻す。～を返却する。
+REUNION	(名詞) 再会。同窓会。親睦会。
+REUNIONS	(名詞) reunionの複数形: 再会。同窓会。親睦会。
+REUSABLE	(形容詞) 再使用可能な。再利用可能な。\n(名詞) 再使用可能な物。
+REUSE	(名詞) 再使用。再利用。再生。\n(動詞) 再使用する。再利用する。再生する。
+REUSED	(動詞) reuseの過去形・過去分詞: 再使用。再利用。再生。
+REUSES	(名詞) reuseの複数形: 再使用。再利用。再生。\n(動詞) reuseの直説法現在第三人称単数形: 再使用。再利用。再生。
+REUSING	(動詞) reuseの現在分詞: 再使用。再利用。再生。\n(名詞) 再使用。再利用。再生。
+REVEAL	(動詞) 暴露する: 不正や秘密、恥などが明るみに出ること。発覚。 (ほかに: 明らかにする, を漏らす)
+REVEALED	(動詞) "reveal" の過去形・過去分詞: 暴露する: 不正や秘密、恥などが明るみに出ること。発覚。 (ほかに: 明らかにする, を漏らす)
+REVEALING	(形容詞) 暴露する: 不正や秘密、恥などが明るみに出ること。発覚。 (ほかに: 明らかにする)\n(動詞) revealの動名詞又は現在分詞: 暴露する: 不正や秘密、恥などが明るみに出ること。発覚。 (ほかに: 明らかにする, を漏らす)
+REVEALS	(動詞) "reveal" の現在第三人称単数形。
+REVEILLE	(名詞) 起床喇叭: 起床の合図として吹奏されるラッパ。 (ほかに: 起床の合図)
+REVEILLES	(reveilleの変化形) (名詞) 起床喇叭: 起床の合図として吹奏されるラッパ。 (ほかに: 起床の合図)
+REVELATION	(名詞) 暴露: 不正や秘密、恥などが明るみに出ること。発覚。
+REVELATIONS	(名詞) revelationの複数形: 暴露: 不正や秘密、恥などが明るみに出ること。発覚。
+REVELATOR	(名詞) 預言者: 予言をする者、また、その能力がある者。 (ほかに: 啓示者)
+REVELATORS	(revelatorの変化形) (名詞) 預言者: 予言をする者、また、その能力がある者。 (ほかに: 啓示者)
+REVENANT	(名詞) revenantの訳: 帰ってきた人\n(形容詞) revenantの訳: 帰ってくる, 戻ってくる
+REVENANTS	(名詞) revenantの複数形: 帰ってきた人
+REVENGE	(名詞) 復讐: ある加害行為に対して仕返しをすること。 (ほかに: 報復)\n(動詞) revengeの訳: 復讐する
+REVENGED	(動詞) revengeの過去形・過去分詞: 復讐: ある加害行為に対して仕返しをすること。 (ほかに: 報復)
+REVENGEFUL	(形容詞) revengefulの訳: 執念深い
+REVENGES	(名詞) revengeの複数形: 復讐、報復。\n(動詞) revengeの現在第三人称単数形。
+REVENGING	(動詞) "revenge" の動名詞又は現在分詞: 復讐: ある加害行為に対して仕返しをすること。 (ほかに: 報復)
+REVENUE	(名詞) revenueの訳: ⟪収入|しゅうにゅう⟫
+REVENUED	(revenueの変化形) (名詞) revenueの訳: ⟪収入|しゅうにゅう⟫
+REVENUES	(名詞) "revenue" の複数形: ⟪収入|しゅうにゅう⟫
+REVERBERANT	(形容詞) 反響する。響き渡る。
+REVERBERANTLY	(副詞) 反響して。響き渡って。
+REVERBERATE	(動詞) reverberateの訳: 反響する, 響き渡る\n(形容詞) 反響する。響き渡る。
+REVERBERATED	(動詞) reverberateの過去形・過去分詞: 反響する, 響き渡る
+REVERBERATES	(動詞) reverberateの直説法現在第三人称単数形: 反響する, 響き渡る
+REVERBERATING	(動詞) reverberateの現在分詞: 反響する, 響き渡る
+REVERBERATION	(名詞) 反響。反射。
+REVERBERATIONS	(名詞) reverberationの複数形: 反響。反射。
+REVERE	(動詞) revereの訳: 崇める, 崇敬する\n(名詞) revereの訳: ⟪折り返し|おりかえし⟫
+REVERED	(動詞) revereの過去形・過去分詞: 崇める, 崇敬する\n(形容詞) reveredの訳: 崇敬される, 崇拝される
+REVERENCE	(名詞) 崇拝: 心から敬うこと。\n(動詞) reverenceの訳: 崇敬する
+REVERENCED	(動詞) reverenceの過去形・過去分詞: 崇拝: 心から敬うこと。
+REVERENCES	(動詞) reverenceの直説法現在第三人称単数形: 崇拝: 心から敬うこと。\n(名詞) reverenceの複数形: 崇拝: 心から敬うこと。
+REVERENCING	(動詞) reverenceの現在分詞: 崇拝: 心から敬うこと。
+REVERENT	(形容詞) 敬虔な: 神仏などを深く敬うこと。またその様子。 (ほかに: 恭しい)
+REVERENTIAL	(形容詞) 恭しい、敬虔な、畏敬の念に満ちた。
+REVERENTIALLY	(副詞) reverentiallyの訳: 恭しく, 敬意を込めて
+REVERENTLY	(副詞) 敬虔に: 神仏などを深く敬うこと。またその様子。 (ほかに: 恭しく)
+REVERER	(名詞) revererの訳: 崇める人
+REVERERS	(名詞) revererの複数形: 崇める人
+REVERES	(動詞) revereの直説法現在第三人称単数形: 崇める, 崇敬する\n(名詞) revereの複数形: 崇める, 崇敬する
+REVERING	(動詞) revereの現在分詞: 崇める, 崇敬する
+REVERSAL	(名詞) （他動詞的）裏返し。反転。転倒。逆にすること。
+REVERSALS	(reversalの変化形) (名詞) （他動詞的）裏返し。反転。転倒。逆にすること。
+REVERSE	(形容詞) reverseの訳: 逆の, 反対の, あべこべの\n(名詞) 逆: （ギャク） 物事の順序、方向、位置関係などが反対であること。 (ほかに: 反対)
+REVERSED	(動詞) reverseの過去形・過去分詞: 逆の, 反対の, あべこべの\n(形容詞) reversedの訳: 反転した
+REVERSELY	(副詞) 反対に: あるものに対して位置や向き、順序、ありかた、言動などが逆の関係にあること。対称的、また対照的であること。 (ほかに: 逆に)
+REVERSER	(reverseの変化形) (形容詞) reverseの訳: 逆の, 反対の, あべこべの
+REVERSERS	(reverseの変化形) (形容詞) reverseの訳: 逆の, 反対の, あべこべの
+REVERSES	(名詞) "reverse" の複数形: 逆の, 反対の, あべこべの\n(動詞) "reverse" の現在第三人称単数形。
+REVERSING	(動詞) reverseの動名詞又は現在分詞: 逆の, 反対の, あべこべの\n(名詞) 裏返し: 反対の面や立場。 (ほかに: 反転)
+REVERSION	(名詞) （他動詞的）反転。裏返し。逆にすること。
+REVERSIONS	(名詞) reversionの複数形: （他動詞的）反転。裏返し。逆にすること。
+REVERT	(名詞) 回帰する人や物。\n(動詞) （旧来の状態などに）回帰する。立ち戻る。
+REVERTED	(動詞) revertの過去形・過去分詞: 回帰する人や物。\n(形容詞) revertedの訳: 先祖返りした
+REVERTING	(動詞) revertの現在分詞: 回帰する人や物。
+REVERTS	(名詞) revertの複数形: 回帰する人や物。\n(動詞) revertの直説法現在第三人称単数形: 回帰する人や物。
+REVETMENT	(名詞) 護岸: 海、河川、湖沼の岸を保護、補強し、水害を防ぐこと。また、そのためのもの。
+REVETMENTS	(名詞) revetmentの複数形: 護岸: 海、河川、湖沼の岸を保護、補強し、水害を防ぐこと。また、そのためのもの。
+REVIEW	(名詞) reviewの訳: 復習\n(動詞) reviewの訳: 復習する
+REVIEWED	(動詞) reviewの過去形・過去分詞: 復習
+REVIEWER	(名詞) 評論家: ある主題について評論し、その結果を発表する職業。
+REVIEWERS	(名詞) "reviewer" の複数形: 評論家: ある主題について評論し、その結果を発表する職業。
+REVIEWING	(動詞) reviewの動名詞又は現在分詞: 復習\n(名詞) レビュー: 調査し直すこと。 (ほかに: 審査, 検討)
+REVIEWS	(名詞) reviewの複数形: 復習\n(動詞) reviewの直説法現在第三人称単数形: 復習
+REVILE	(動詞) revileの訳: ⟪罵る|ののしる⟫, 非難する, 悪口を言う
+REVILED	(動詞) revileの過去形・過去分詞: ⟪罵る|ののしる⟫, 非難する, 悪口を言う
+REVILEMENT	(名詞) 悪罵: 悪し様に罵ること。扱き下ろすこと。
+REVILEMENTS	(revilementの変化形) (名詞) 悪罵: 悪し様に罵ること。扱き下ろすこと。
+REVILES	(動詞) revileの直説法現在第三人称単数形: ⟪罵る|ののしる⟫, 非難する, 悪口を言う
+REVILING	(動詞) revileの現在分詞: ⟪罵る|ののしる⟫, 非難する, 悪口を言う\n(名詞) 悪口: 他人のことを悪く言い、貶すこと。 (ほかに: 非難)
+REVISE	(動詞) reviseの訳: 修正する\n(名詞) reviseの訳: 修正
+REVISED	(動詞) reviseの過去形・過去分詞: 修正する
+REVISES	(名詞) "revise" の複数形: 修正する\n(動詞) "revise" の現在第三人称単数形。
+REVISING	(動詞) reviseの動名詞又は現在分詞: 修正する
+REVISION	(名詞) revisionの訳: 修正
+REVISIONS	(revisionの変化形) (名詞) revisionの訳: 修正
+REVIVAL	(名詞) revivalの訳: 蘇生
+REVIVALS	(名詞) "revival" の複数形: 蘇生
+REVIVE	(動詞) 生き返る: （いきかえる）生命力を失ったものが息を吹き返す。 (ほかに: 回復する)
+REVIVED	(動詞) reviveの過去形・過去分詞: 生き返る: （いきかえる）生命力を失ったものが息を吹き返す。 (ほかに: 回復する)
+REVIVES	(動詞) "revive" の現在第三人称単数形。
+REVIVING	(動詞) reviveの動名詞又は現在分詞: 生き返る: （いきかえる）生命力を失ったものが息を吹き返す。 (ほかに: 回復する)\n(名詞) 復活: 生き返ること。 (ほかに: 再生, 回復)
+REVOCATION	(名詞) 取り消し。破棄。撤回。
+REVOCATIONS	(名詞) revocationの複数形: 取り消し。破棄。撤回。
+REVOKE	(動詞) 取り消す。撤回する。破棄する。無効にする。\n(名詞) revokeの訳: リボーク
+REVOKED	(動詞) revokeの過去形・過去分詞: 取り消す。撤回する。破棄する。無効にする。
+REVOKES	(動詞) revokeの直説法現在第三人称単数形: 取り消す。撤回する。破棄する。無効にする。\n(名詞) revokeの複数形: 取り消す。撤回する。破棄する。無効にする。
+REVOKING	(動詞) revokeの現在分詞: 取り消す。撤回する。破棄する。無効にする。
+REVOLT	(動詞) revoltの訳: 反乱を起こす\n(名詞) revoltの訳: ⟪反乱|はんらん⟫
+REVOLTED	(動詞) revoltの過去形・過去分詞: 反乱を起こす
+REVOLTING	(動詞) revoltの動名詞又は現在分詞: 反乱を起こす\n(形容詞) ぞっとするような、不快な。
+REVOLTS	(名詞) "revolt" の複数形: 反乱を起こす\n(動詞) "revolt" の現在第三人称単数形。
+REVOLUTION	(名詞) 革命: 物事が急激に発展・変革すること。
+REVOLUTIONARIES	(revolutionaryの変化形) (形容詞) revolutionaryの訳: 革命の
+REVOLUTIONARILY	(revolutionaryの変化形) (形容詞) revolutionaryの訳: 革命の
+REVOLUTIONARY	(形容詞) revolutionaryの訳: 革命の\n(名詞) 革命家: 政治的または社会的な革命の実現を志す者。
+REVOLUTIONS	(名詞) revolutionの複数形: 革命: 物事が急激に発展・変革すること。
+REVOLVE	(動詞) 周りを回転する。
+REVOLVED	(動詞) revolveの過去形・過去分詞: 周りを回転する。
+REVOLVES	(動詞) "revolve" の現在第三人称単数形。
+REVOLVING	(形容詞) revolvingの訳: 回転する\n(動詞) revolveの動名詞又は現在分詞: 周りを回転する。
+REVULSION	(名詞) 強い嫌悪。反感。
+REVULSIONS	(名詞) revulsionの複数形: 強い嫌悪。反感。
+REWARD	(名詞) rewardの訳: 賞, 褒賞, ⟪報酬|ほうしゅう⟫, ⟪報い|むくい⟫\n(動詞) 賞する、褒賞や報酬を与える、報いる。
+REWARDED	(動詞) rewardの過去形・過去分詞: 賞, 褒賞, ⟪報酬|ほうしゅう⟫, ⟪報い|むくい⟫
+REWARDING	(形容詞) （行為などが）報いのある、やりがいのある。\n(動詞) rewardの現在分詞: 賞, 褒賞, ⟪報酬|ほうしゅう⟫, ⟪報い|むくい⟫
+REWARDS	(名詞) rewardの複数形: 賞, 褒賞, ⟪報酬|ほうしゅう⟫, ⟪報い|むくい⟫\n(動詞) rewardの直説法現在第三人称単数形: 賞, 褒賞, ⟪報酬|ほうしゅう⟫, ⟪報い|むくい⟫
+REWORD	(名詞) 換言: 言葉をほかの言葉に換えて言うこと。言い換えること。
+REWORDED	(rewordの変化形) (名詞) 換言: 言葉をほかの言葉に換えて言うこと。言い換えること。
+REWORDING	(rewordの変化形) (名詞) 換言: 言葉をほかの言葉に換えて言うこと。言い換えること。
+REWORDS	(rewordの変化形) (名詞) 換言: 言葉をほかの言葉に換えて言うこと。言い換えること。
+REWRITE	(動詞) 改稿: 原稿を書き直すこと。また、そのような原稿。
+REWRITES	(rewriteの変化形) (動詞) 改稿: 原稿を書き直すこと。また、そのような原稿。
+REWRITING	(rewriteの変化形) (動詞) 改稿: 原稿を書き直すこと。また、そのような原稿。
+REWRITTEN	(rewriteの変化形) (動詞) 改稿: 原稿を書き直すこと。また、そのような原稿。
+REWROTE	(rewriteの変化形) (動詞) 改稿: 原稿を書き直すこと。また、そのような原稿。
+RHACHIS	(名詞) rachisの異綴。
+RHACHISES	(名詞) rhachisの複数形: rachisの異綴。
+RHAPSODIES	(rhapsodyの変化形) (名詞) 狂詩曲: 自由な形式で民族的または叙事的内容を表現した楽曲。
+RHAPSODY	(名詞) 狂詩曲: 自由な形式で民族的または叙事的内容を表現した楽曲。
+RHEA	(名詞) rheaの訳: レア
+RHEAS	(名詞) rheaの複数形: レア
+RHENIUM	(名詞) rheniumの訳: レニウム
+RHENIUMS	(rheniumの変化形) (名詞) rheniumの訳: レニウム
+RHEOSTAT	(名詞) rheostatの訳: 可変抵抗器
+RHEOSTATS	(rheostatの変化形) (名詞) rheostatの訳: 可変抵抗器
+RHETORIC	(名詞) 修辞: 言葉を適切に、また美しく表現すること。また、その技術。レトリック。 (ほかに: 修辞法, 修辞学)\n(形容詞) rhetoricの訳: 修辞の
+RHETORICAL	(形容詞) 修辞の: 言葉を適切に、また美しく表現すること。また、その技術。レトリック。 (ほかに: 修辞法の, 修辞学の)
+RHETORICALLY	(副詞) rhetoricallyの訳: 修辞的に
+RHETORICS	(名詞) "rhetoric" の複数形: 修辞: 言葉を適切に、また美しく表現すること。また、その技術。レトリック。 (ほかに: 修辞法, 修辞学)
+RHEUM	(名詞) 目脂: （めやに）目の分泌液が老廃物などと共に固まって目の周りについたもの。
+RHEUMATISM	(名詞) rheumatismの訳: リューマチ
+RHEUMATISMS	(rheumatismの変化形) (名詞) rheumatismの訳: リューマチ
+RHEUMS	(rheumの変化形) (名詞) 目脂: （めやに）目の分泌液が老廃物などと共に固まって目の周りについたもの。
+RHINITIS	(名詞) 鼻炎: 鼻の粘膜の炎症。
+RHINO	(名詞) rhinoの訳: 犀
+RHINOCEROS	(名詞) 犀: 奇蹄目サイ科の動物。
+RHINOCEROSES	(名詞) "rhinoceros" の複数形: 犀: 奇蹄目サイ科の動物。
+RHINOS	(名詞) "rhino" の複数形: 犀
+RHIZOID	(名詞) 仮根: 羊歯植物や苔植物などが持つ体を支えるための根のような器官。
+RHIZOIDS	(名詞) rhizoidの複数形: 仮根: 羊歯植物や苔植物などが持つ体を支えるための根のような器官。
+RHIZOME	(名詞) rhizomeの訳: 根茎
+RHIZOMES	(rhizomeの変化形) (名詞) rhizomeの訳: 根茎
+RHO	(名詞) ギリシア文字の第17字、ρ（ロー）。
+RHODIUM	(名詞) rhodiumの訳: ロジウム
+RHODIUMS	(名詞) rhodiumの複数形: ロジウム
+RHODODENDRON	(名詞) rhododendronの訳: ⟪つつじ⟫
+RHODODENDRONS	(名詞) rhododendronの複数形: ⟪つつじ⟫
+RHOMBI	(名詞) rhombusの複数形: ⟪ひらめ⟫, ⟪かれい⟫
+RHOMBOID	(名詞) rhomboidの訳: 偏菱形\n(形容詞) rhomboidの訳: 偏菱形の
+RHOMBOIDAL	(形容詞) rhomboidalの訳: 偏菱形の
+RHOMBOIDS	(名詞) rhomboidの複数形: 偏菱形
+RHOMBUS	(名詞) rhombusの訳: ⟪ひらめ⟫, ⟪かれい⟫
+RHOMBUSES	(名詞) rhombusの複数形: ⟪ひらめ⟫, ⟪かれい⟫
+RHOS	(rhoの変化形) (名詞) ギリシア文字の第17字、ρ（ロー）。
+RHYME	(名詞) rhymeの訳: ⟪韻文|いんぶん⟫\n(動詞) rhymeの訳: 韻を踏ませる, 押韻させる
+RHYMED	(動詞) rhymeの過去形・過去分詞: ⟪韻文|いんぶん⟫
+RHYMES	(名詞) rhymeの複数形: ⟪韻文|いんぶん⟫\n(動詞) rhymeの直説法現在第三人称単数形: ⟪韻文|いんぶん⟫
+RHYMING	(動詞) rhymeの現在分詞: ⟪韻文|いんぶん⟫\n(名詞) rhymingの訳: 押韻
+RHYOLITE	(名詞) rhyoliteの訳: 流紋岩
+RHYOLITES	(rhyoliteの変化形) (名詞) rhyoliteの訳: 流紋岩
+RHYTHM	(名詞) 調子: 音楽の旋律、調べ、リズム。 (ほかに: リズム, 律動)
+RHYTHMIC	(形容詞) 律動的な: ある運動や現象などが規則正しく繰り返されるさま。 (ほかに: リズミカルな)
+RHYTHMICAL	(形容詞) リズミカルな。律動的な。
+RHYTHMICALLY	(副詞) リズミカルに。律動的に。
+RHYTHMS	(名詞) rhythmの複数形: 調子: 音楽の旋律、調べ、リズム。 (ほかに: リズム, 律動)
+RIB	(名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RIBBED	(ribの変化形) (名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RIBBER	(ribの変化形) (名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RIBBING	(ribの変化形) (名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RIBBINGS	(ribの変化形) (名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RIBBON	(名詞) リボン。紐状の織物。\n(動詞) リボンで飾り付ける。
+RIBBONED	(動詞) ribbonの過去形・過去分詞形: リボン。紐状の織物。
+RIBBONING	(動詞) ribbonの動名詞形又は現在分詞形: リボン。紐状の織物。
+RIBBONS	(名詞) ribbonの複数形: リボン。紐状の織物。\n(動詞) ribbonの三人称単数現在形: リボン。紐状の織物。
+RIBES	(ribの変化形) (名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RIBS	(ribの変化形) (名詞) 肋骨: 胸郭を構成する左右十二対の弓状の骨。内臓を保護する役割を持つ。 (ほかに: あばらぼね, ばら肉)
+RICE	(名詞) 米。御飯。\n(動詞) ……を米粒ほどの大きさに圧搾する。
+RICEBIRD	(名詞) ricebirdの訳: 文鳥
+RICEBIRDS	(名詞) ricebirdの複数形: 文鳥
+RICED	(動詞) riceの過去形: 米。御飯。
+RICES	(名詞) riceの複数形: 米。御飯。\n(動詞) riceの三人称単数現在形: 米。御飯。
+RICH	(形容詞) 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの, 豊かな)
+RICHER	(形容詞) "rich" の比較級形: 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの, 豊かな)
+RICHES	(名詞) 財宝: 財貨と宝物。宝。 (ほかに: 富)\n(動詞) richの直説法現在第三人称単数形: 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの, 豊かな)
+RICHEST	(形容詞) "rich" の最上級形: 裕福な: 財産や収入が多く、生活が豊かなこと。また、そのさま。 (ほかに: 金持ちの, 豊かな)
+RICHLY	(副詞) richlyの訳: 裕福に
+RICHNESS	(名詞) 豊かさ。豊富。
+RICHNESSES	(名詞) richnessの複数形: 豊かさ。豊富。
+RICING	(動詞) riceの現在分詞: 米。御飯。
+RICKSHA	(名詞) 人力: （じんりき）人力車。 (ほかに: 人力車)
+RICKSHAS	(rickshaの変化形) (名詞) 人力: （じんりき）人力車。 (ほかに: 人力車)
+RICKSHAW	(名詞) 人力車: 人が引いて走る車で、人を乗せるための座席を備えたもの。明治初年に発明された。略称は力車、人力。人がひく車であっても荷を載せるものは荷車という。\n(動詞) rickshawの訳: 人力車で運ぶ
+RICKSHAWS	(名詞) rickshawの複数形: 人力車: 人が引いて走る車で、人を乗せるための座席を備えたもの。明治初年に発明された。略称は力車、人力。人がひく車であっても荷を載せるものは荷車という。\n(動詞) rickshawの直説法現在第三人称単数形: 人力車: 人が引いて走る車で、人を乗せるための座席を備えたもの。明治初年に発明された。略称は力車、人力。人がひく車であっても荷を載せるものは荷車という。
+RID	(動詞) ridの訳: 解放する, 取り除く\n(形容詞) ridの訳: 除かれた
+RIDDED	(動詞) "rid" の過去形・過去分詞: 解放する, 取り除く
+RIDDEN	(動詞) rideの過去分詞: 騎乗する。乗馬する。\n(形容詞) riddenの訳: 支配された, 虐げられた
+RIDDING	(動詞) "rid" の動名詞又は現在分詞: 解放する, 取り除く
+RIDDLE	(名詞) riddleの訳: ⟪ふるい⟫
+RIDDLED	(riddleの変化形) (名詞) riddleの訳: ⟪ふるい⟫
+RIDDLES	(riddleの変化形) (名詞) riddleの訳: ⟪ふるい⟫
+RIDDLING	(riddleの変化形) (名詞) riddleの訳: ⟪ふるい⟫
+RIDE	(動詞) 騎乗する。乗馬する。\n(名詞) 騎乗。乗馬。
+RIDER	(名詞) 騎乗する乗り物（馬、オートバイ等）に乗って操縦する人。ライダー。
+RIDERS	(名詞) rider の複数形: 騎乗する乗り物に乗って操縦する人。ライダー。
+RIDES	(名詞) rideの複数形: 騎乗する。乗馬する。\n(動詞) rideの直説法現在第三人称単数形: 騎乗する。乗馬する。
+RIDGE	(名詞) ridgeの訳: 背, 背筋\n(動詞) ridgeの訳: 隆起をつける, 棟をつける, 畝を作る
+RIDGED	(動詞) ridgeの過去形・過去分詞: 背, 背筋
+RIDGES	(名詞) ridgeの複数形: 背, 背筋\n(動詞) ridgeの直説法現在第三人称単数形: 背, 背筋
+RIDGING	(ridgeの変化形) (名詞) ridgeの訳: 背, 背筋
+RIDICULE	(動詞) ridiculeの訳: 馬鹿にする, 嘲る, 嘲笑する\n(名詞) 嘲り: （あざけり）嘲ること。嘲笑。 (ほかに: 嘲笑)
+RIDICULED	(動詞) ridiculeの過去形・過去分詞: 馬鹿にする, 嘲る, 嘲笑する
+RIDICULES	(動詞) ridiculeの直説法現在第三人称単数形: 馬鹿にする, 嘲る, 嘲笑する
+RIDICULING	(動詞) "ridicule" の動名詞又は現在分詞: 馬鹿にする, 嘲る, 嘲笑する
+RIDICULOUS	(形容詞) ridiculousの訳: 馬鹿げた, 途方もない
+RIDICULOUSLY	(副詞) ridiculouslyの訳: 馬鹿げて, 途方もなく
+RIDING	(動詞) rideの現在分詞: 騎乗する。乗馬する。\n(名詞) オートバイや自転車などの運転
+RIDINGS	(名詞) "riding" の複数形: rideの現在分詞: 騎乗する。乗馬する。
+RIDS	(動詞) "rid" の現在第三人称単数形。
+RIEL	(名詞) リエル: カンボジアの通貨。
+RIELS	(rielの変化形) (名詞) リエル: カンボジアの通貨。
+RIFFRAFF	(名詞) riffraffの訳: ごみ, くず
+RIFFRAFFS	(名詞) riffraffの複数形: ごみ、くず。
+RIFLE	(名詞) ライフル銃。小銃。\n(動詞) rifleの訳: 盗む
+RIFLED	(rifleの変化形) (名詞) ライフル銃。小銃。
+RIFLES	(名詞) rifleの複数形: ライフル銃。小銃。\n(動詞) rifleの直説法現在第三人称単数形: ライフル銃。小銃。
+RIFLING	(rifleの変化形) (名詞) ライフル銃。小銃。
+RIFLINGS	(rifleの変化形) (名詞) ライフル銃。小銃。
+RIG	(名詞) rigの訳: 艤装, 帆装\n(動詞) rigの訳: 装備する
+RIGGED	(rigの変化形) (名詞) rigの訳: 艤装, 帆装
+RIGGING	(名詞) riggingの訳: 索具\n(動詞) rigの現在分詞: 艤装, 帆装
+RIGGINGS	(名詞) riggingの複数形: 索具。
+RIGHT	(形容詞) rightの訳: 右の\n(副詞) 正しく。適切に。正当に。
+RIGHTED	(動詞) rightの過去形・過去分詞: 右の
+RIGHTEOUS	(形容詞) righteousの訳: ⟪正しい|ただしい⟫, 正義の, 公正な, 高潔な
+RIGHTEOUSLY	(副詞) 正しく: ある物事が疑いなく確実に成り立つ様子。まさに。 (ほかに: 正当に, 高潔に)
+RIGHTEOUSNESS	(名詞) 公正: 公平で、かつ正しいこと。 (ほかに: 正義, 高潔)
+RIGHTEOUSNESSES	(名詞) righteousnessの複数形: 公正: 公平で、かつ正しいこと。 (ほかに: 正義, 高潔)
+RIGHTER	(形容詞) "right" の比較級: 右の\n(名詞) rightする人。
+RIGHTERS	(名詞) "righter" の複数形: "right" の比較級。
+RIGHTEST	(形容詞) "right" の最上級: 右の
+RIGHTING	(動詞) "right" の動名詞又は現在分詞: 右の
+RIGHTIST	(名詞) rightistの訳: 右派の人
+RIGHTISTS	(rightistの変化形) (名詞) rightistの訳: 右派の人
+RIGHTLY	(副詞) 正しく、もっともなことに。
+RIGHTS	(名詞) "right" の複数形: 右の\n(動詞) "right" の現在第三人称単数形。
+RIGID	(形容詞) rigidの訳: 堅い
+RIGIDITIES	(rigidityの変化形) (名詞) 物体の堅さ。堅固。硬直。剛性。
+RIGIDITY	(名詞) 物体の堅さ。堅固。硬直。剛性。
+RIGIDLY	(副詞) rigidlyの訳: 頑丈に
+RIGOROUS	(形容詞) 厳密な: 細かい所まで気を付ける様子。解釈や審査、判断などにゆるみやもれ、粗雑さのないさま。 (ほかに: 厳しい, 厳格な)
+RIGOROUSLY	(副詞) 厳密に: 細かい所まで気を付ける様子。解釈や審査、判断などにゆるみやもれ、粗雑さのないさま。 (ほかに: 厳格に)
+RIGOROUSNESS	(名詞) 狭隘: 心が狭いこと。厳しく、他人を撥ね付けること。こせこせしていること。
+RIGOROUSNESSES	(rigorousnessの変化形) (名詞) 狭隘: 心が狭いこと。厳しく、他人を撥ね付けること。こせこせしていること。
+RIGOUR	(名詞) rigourの訳: 厳しさ, 厳密, 厳格
+RIGOURS	(名詞) rigourの複数形: 厳しさ, 厳密, 厳格
+RIGS	(名詞) rigの複数形: 艤装、帆装。\n(動詞) rigの直説法現在第三人称単数形: 艤装, 帆装
+RILE	(動詞) 怒らせる、いらいらさせる。
+RILED	(動詞) rileの過去形・過去分詞: 怒らせる、いらいらさせる。
+RILES	(動詞) rileの直説法現在第三人称単数形: 怒らせる、いらいらさせる。
+RILING	(動詞) rileの動名詞又は現在分詞: 怒らせる、いらいらさせる。
+RILL	(名詞) おがわ: 小さい川。
+RILLED	(rillの変化形) (名詞) おがわ: 小さい川。
+RILLES	(rillの変化形) (名詞) おがわ: 小さい川。
+RILLING	(rillの変化形) (名詞) おがわ: 小さい川。
+RILLS	(rillの変化形) (名詞) おがわ: 小さい川。
+RIM	(名詞) rimの訳: 縁\n(動詞) rimの訳: 縁取る, 縁を付ける
+RIME	(名詞) 霧氷: 水蒸気や過冷却の水滴が樹木の表面に吹き付けられて凍結してできた白色や半透明の氷の層。
+RIMED	(rimeの変化形) (名詞) 霧氷: 水蒸気や過冷却の水滴が樹木の表面に吹き付けられて凍結してできた白色や半透明の氷の層。
+RIMES	(rimeの変化形) (名詞) 霧氷: 水蒸気や過冷却の水滴が樹木の表面に吹き付けられて凍結してできた白色や半透明の氷の層。
+RIMING	(rimeの変化形) (名詞) 霧氷: 水蒸気や過冷却の水滴が樹木の表面に吹き付けられて凍結してできた白色や半透明の氷の層。
+RIMLESS	(形容詞) rimlessの訳: 縁無しの
+RIMMED	(形容詞) rimmedの訳: 縁取られた, 縁付きの\n(動詞) rimの過去形・過去分詞: 縁
+RIMMING	(動詞) rimの現在分詞: 縁
+RIMS	(名詞) rimの複数形: 縁\n(動詞) rimの直説法現在第三人称単数形: 縁
+RIND	(名詞) 皮: （かわ）中身をおおい、包みとしてはたらく構造。またそのもの。\n(動詞) rindの訳: 皮をむく
+RINDED	(rindの変化形) (名詞) 皮: （かわ）中身をおおい、包みとしてはたらく構造。またそのもの。
+RINDS	(rindの変化形) (名詞) 皮: （かわ）中身をおおい、包みとしてはたらく構造。またそのもの。
+RING	(名詞) 輪。環。\n(動詞) ringの訳: 取り囲む
+RINGED	(形容詞) 環状の: 輪の形。\n(動詞) ringの過去形・過去分詞: 輪。環。
+RINGGIT	(名詞) リンギット: マレーシアの通貨単位。100 セン。
+RINGGITS	(ringgitの変化形) (名詞) リンギット: マレーシアの通貨単位。100 セン。
+RINGING	(名詞) ringingの訳: 鳴り響く音\n(形容詞) 鳴り響く: （なりひびく）鳴る音が一面に響き渡る。
+RINGS	(名詞) ringの複数形: 輪。環。\n(動詞) ringの直説法現在第三人称単数形: 輪。環。
+RINSE	(動詞) 濯ぐ。濯ぐ。\n(名詞) rinseの訳: ⟪濯ぎ|すすぎ⟫
+RINSED	(動詞) rinseの過去形・過去分詞: 濯ぐ。濯ぐ。
+RINSES	(名詞) rinseの複数形: 濯ぐ。濯ぐ。\n(動詞) rinseの直説法現在第三人称単数形: 濯ぐ。濯ぐ。
+RINSING	(動詞) rinseの現在分詞: 濯ぐ。濯ぐ。\n(名詞) 濯ぎ: （せんたく）衣類などの汚れを落とすこと。ランドリー。
+RINSINGS	(名詞) rinsingの複数形: rinseの現在分詞。
+RIOT	(名詞) 暴動: 多くの者が集まって騒動を起こし、社会の秩序を乱すこと。 (ほかに: 騒動)\n(動詞) riotの訳: 暴動を起こす, 暴動に加わる
+RIOTED	(動詞) riotの過去形・過去分詞: 暴動: 多くの者が集まって騒動を起こし、社会の秩序を乱すこと。 (ほかに: 騒動)
+RIOTER	(名詞) rioterの訳: 暴徒
+RIOTERS	(名詞) "rioter" の複数形: 暴徒
+RIOTING	(動詞) riotの動名詞又は現在分詞: 暴動: 多くの者が集まって騒動を起こし、社会の秩序を乱すこと。 (ほかに: 騒動)\n(名詞) 暴動を起こすこと。
+RIOTOUS	(形容詞) riotousの訳: 暴動の
+RIOTOUSLY	(副詞) riotouslyの訳: 騒騒しく
+RIOTS	(名詞) "riot" の複数形: 暴動: 多くの者が集まって騒動を起こし、社会の秩序を乱すこと。 (ほかに: 騒動)\n(動詞) "riot" の現在第三人称単数形。
+RIP	(名詞) ripの訳: 裂け目, ⟪ほころび⟫\n(動詞) ripの訳: ⟪引き裂く|ひきさく⟫, 破る
+RIPARIAN	(形容詞) 水辺の: （連歌・俳諧）水に関連する言葉。 (ほかに: 川岸の, 湖岸の)
+RIPE	(形容詞) ripeの訳: 熟した, 熟れた, 実った\n(名詞) 熟した果物・野菜
+RIPED	(動詞) ripeの過去形・過去分詞: 熟した, 熟れた, 実った
+RIPEN	(動詞) 実る: 実が生る。 (ほかに: 熟す)
+RIPENED	(動詞) ripenの過去形・過去分詞: 実る: 実が生る。 (ほかに: 熟す)
+RIPENER	(ripenの変化形) (動詞) 実る: 実が生る。 (ほかに: 熟す)
+RIPENESS	(名詞) 成熟: 十分に成長して、これ以上は成長しない状態に至ること。数量や規模が、これ以上は上がらない状態に至ること。 (ほかに: 円熟)
+RIPENESSES	(名詞) ripenessの複数形: 成熟: 十分に成長して、これ以上は成長しない状態に至ること。数量や規模が、これ以上は上がらない状態に至ること。 (ほかに: 円熟)
+RIPENING	(名詞) 熟成: 十分に熟した状態になること。\n(動詞) ripenの現在分詞: 実る: 実が生る。 (ほかに: 熟す)
+RIPENS	(動詞) ripenの直説法現在第三人称単数形: 実る: 実が生る。 (ほかに: 熟す)
+RIPER	(形容詞) ripeの比較級: 熟した, 熟れた, 実った
+RIPES	(名詞) ripeの複数形: 熟した, 熟れた, 実った\n(動詞) ripeの直説法現在第三人称単数形: 熟した, 熟れた, 実った
+RIPEST	(形容詞) ripeの最上級: 熟した, 熟れた, 実った
+RIPING	(動詞) ripeの現在分詞: 熟した, 熟れた, 実った
+RIPPED	(動詞) "rip" の過去形・過去分詞: 裂け目, ⟪ほころび⟫
+RIPPING	(動詞) "rip" の動名詞又は現在分詞: 裂け目, ⟪ほころび⟫
+RIPPLE	(名詞) なみ: 主に液体の表面に生ずる、上下方向の振動。特に、海の表面の振動。波浪。
+RIPPLED	(rippleの変化形) (名詞) なみ: 主に液体の表面に生ずる、上下方向の振動。特に、海の表面の振動。波浪。
+RIPPLER	(rippleの変化形) (名詞) なみ: 主に液体の表面に生ずる、上下方向の振動。特に、海の表面の振動。波浪。
+RIPPLES	(rippleの変化形) (名詞) なみ: 主に液体の表面に生ずる、上下方向の振動。特に、海の表面の振動。波浪。
+RIPPLING	(rippleの変化形) (名詞) なみ: 主に液体の表面に生ずる、上下方向の振動。特に、海の表面の振動。波浪。
+RIPS	(名詞) ripの複数形: 裂け目, ⟪ほころび⟫\n(動詞) ripの直説法現在第三人称単数形: 裂け目, ⟪ほころび⟫
+RISE	(動詞) riseの訳: 上がる, ⟪昇る|のぼる⟫\n(名詞) riseの訳: ⟪上昇|じょうしょう⟫
+RISEN	(動詞) riseの過去分詞: 上がる, ⟪昇る|のぼる⟫
+RISES	(名詞) riseの複数形: 上がる, ⟪昇る|のぼる⟫\n(動詞) riseの直説法現在第三人称単数形: 上がる, ⟪昇る|のぼる⟫
+RISING	(動詞) "rise" の動名詞又は現在分詞: 上がる, ⟪昇る|のぼる⟫
+RISINGS	(riseの変化形) (動詞) riseの訳: 上がる, ⟪昇る|のぼる⟫
+RISK	(名詞) リスク: 損害、危害、損傷、不利益など悪い結果の甚大さと、それが出現する可能性の積。悪い結果の期待値。危険度。 (ほかに: 危険)\n(動詞) riskの訳: ⟪かける⟫
+RISKED	(動詞) riskの過去形・過去分詞: リスク: 損害、危害、損傷、不利益など悪い結果の甚大さと、それが出現する可能性の積。悪い結果の期待値。危険度。 (ほかに: 危険)
+RISKIER	(形容詞) "risky" の比較級: 危険な: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。 (ほかに: リスクのある, 不確実な)
+RISKIEST	(形容詞) "risky" の最上級: 危険な: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。 (ほかに: リスクのある, 不確実な)
+RISKING	(動詞) riskの動名詞又は現在分詞: リスク: 損害、危害、損傷、不利益など悪い結果の甚大さと、それが出現する可能性の積。悪い結果の期待値。危険度。 (ほかに: 危険)\n(名詞) 危険を冒すこと。
+RISKS	(名詞) riskの複数形: リスク: 損害、危害、損傷、不利益など悪い結果の甚大さと、それが出現する可能性の積。悪い結果の期待値。危険度。 (ほかに: 危険)\n(動詞) riskの現在第三人称単数形。
+RISKY	(形容詞) 危険な: 危ないこと、危ういこと。将来において、事故や故障が発生する可能性があり、かつその確率が高いこと。 (ほかに: リスクのある, 不確実な)
+RISOTTO	(名詞) risottoの訳: リゾット
+RISOTTOS	(risottoの変化形) (名詞) risottoの訳: リゾット
+RISQUE	(形容詞) risquéの異綴。\n(名詞) riskの廃用。
+RITE	(名詞) 儀式: 神事・祭事・慶弔など一定の作法・形式に従って行われる行事。
+RITES	(名詞) riteの複数形: 儀式: 神事・祭事・慶弔など一定の作法・形式に従って行われる行事。
+RITUAL	(形容詞) ritualの訳: 儀式の, 儀式的な\n(名詞) 儀式: 神事・祭事・慶弔など一定の作法・形式に従って行われる行事。
+RITUALLY	(副詞) 儀式的に: 儀式に関すること、儀式となっていること。また、そのさま。 (ほかに: 儀式として)
+RITUALS	(ritualの変化形) (形容詞) ritualの訳: 儀式の, 儀式的な
+RIVAL	(名詞) ライバル: 競争相手、好敵手。 (ほかに: 競争相手, 対抗者)\n(形容詞) 競争している、張り合っている
+RIVALED	(動詞) rivalの過去形・過去分詞: ライバル: 競争相手、好敵手。 (ほかに: 競争相手, 対抗者)
+RIVALING	(動詞) rivalの動名詞又は現在分詞: ライバル: 競争相手、好敵手。 (ほかに: 競争相手, 対抗者)
+RIVALLED	(動詞) rivalの過去形・過去分詞: ライバル: 競争相手、好敵手。 (ほかに: 競争相手, 対抗者)
+RIVALLING	(動詞) rivalの動名詞又は現在分詞: ライバル: 競争相手、好敵手。 (ほかに: 競争相手, 対抗者)
+RIVALRIES	(名詞) rivalryの複数形: 競争: 勝敗や優劣を競うこと。 (ほかに: 争い, 対抗)
+RIVALRY	(名詞) 競争: 勝敗や優劣を競うこと。 (ほかに: 争い, 対抗)
+RIVALS	(名詞) "rival" の複数形: ライバル: 競争相手、好敵手。 (ほかに: 競争相手, 対抗者)\n(動詞) "rival" の現在第三人称単数形。
+RIVER	(名詞) 河: (かわ) 降水や湧水が、地表の細長い窪みに沿って流れるもの。河川。 (ほかに: 川)
+RIVERBANK	(名詞) 川岸: （かし）魚河岸の略。魚市場、鮮魚市場。 (ほかに: 河岸)
+RIVERBANKS	(名詞) riverbankの複数形: 川岸: （かし）魚河岸の略。魚市場、鮮魚市場。 (ほかに: 河岸)
+RIVERBED	(名詞) riverbedの訳: 川床
+RIVERBEDS	(名詞) riverbedの複数形: 川床
+RIVERS	(名詞) riverの複数形: 河: (かわ) 降水や湧水が、地表の細長い窪みに沿って流れるもの。河川。 (ほかに: 川)
+RIVIERA	(名詞) rivieraの訳: 海岸の避寒地
+RIVIERAS	(rivieraの変化形) (名詞) rivieraの訳: 海岸の避寒地
+RIVULET	(名詞) 細流: 川などの細い流れ。 (ほかに: 小川)
+RIVULETS	(名詞) rivuletの複数形: 細流: 川などの細い流れ。 (ほかに: 小川)
+RIYAL	(名詞) リヤル: イエメン、イラン、カタール、サウジアラビア、オマーンの通貨。
+RIYALS	(riyalの変化形) (名詞) リヤル: イエメン、イラン、カタール、サウジアラビア、オマーンの通貨。
+ROAD	(名詞) 道路: ある地点から他の地点へ通じる、人、車両等交通のために設けた地上、地下、高架のみち。 (ほかに: 道)
+ROADBLOCK	(名詞) roadblockの訳: 路上封鎖物, バリケード\n(動詞) 妨げる: 物事の進行を止める又は遅らせようとする。
+ROADBLOCKS	(名詞) roadblockの複数形: 路上封鎖物、バリケード。\n(動詞) roadblockの直説法現在第三人称単数形: 路上封鎖物, バリケード
+ROADRUNNER	(名詞) roadrunnerの訳: ⟪みちばしり⟫
+ROADRUNNERS	(roadrunnerの変化形) (名詞) roadrunnerの訳: ⟪みちばしり⟫
+ROADS	(名詞) roadの複数形: 道路: ある地点から他の地点へ通じる、人、車両等交通のために設けた地上、地下、高架のみち。 (ほかに: 道)
+ROADSIDE	(名詞) みちばた: 道の端の辺り。 (ほかに: 路頭, 路辺)
+ROADSIDES	(roadsideの変化形) (名詞) みちばた: 道の端の辺り。 (ほかに: 路頭, 路辺)
+ROAM	(動詞) ぶらつく: 当てもなく歩き回る。 (ほかに: 歩き回る, 放浪する)
+ROAMED	(動詞) roamの過去形・過去分詞: ぶらつく: 当てもなく歩き回る。 (ほかに: 歩き回る, 放浪する)
+ROAMER	(名詞) roamerの訳: 歩き回る人, 放浪者
+ROAMERS	(roamerの変化形) (名詞) roamerの訳: 歩き回る人, 放浪者
+ROAMING	(動詞) "roam" の動名詞又は現在分詞: ぶらつく: 当てもなく歩き回る。 (ほかに: 歩き回る, 放浪する)
+ROAMS	(動詞) roamの現在第三人称単数形。
+ROAR	(動詞) うなる: 獣のように低く威嚇するような声で発する。 (ほかに: 吠える)\n(名詞) roarの訳: うなり声
+ROARED	(roarの変化形) (動詞) うなる: 獣のように低く威嚇するような声で発する。 (ほかに: 吠える)
+ROARING	(roarの変化形) (動詞) うなる: 獣のように低く威嚇するような声で発する。 (ほかに: 吠える)
+ROARINGS	(roarの変化形) (動詞) うなる: 獣のように低く威嚇するような声で発する。 (ほかに: 吠える)
+ROARS	(roarの変化形) (動詞) うなる: 獣のように低く威嚇するような声で発する。 (ほかに: 吠える)
+ROAST	(動詞) （直火やオーブンで）焼く。炙る。\n(名詞) 焼き肉: 獣肉を直火、または金網、鉄板などを用いて焼いた料理。 (ほかに: ロースト)
+ROASTED	(形容詞) roastedの訳: 焼かれた\n(動詞) roastの過去形・過去分詞: （直火やオーブンで）焼く。炙る。
+ROASTING	(動詞) roastの現在分詞: （直火やオーブンで）焼く。炙る。\n(形容詞) 焼け付くように暑い、灼熱の。
+ROASTS	(名詞) roastの複数形: （直火やオーブンで）焼く。炙る。\n(動詞) roastの直説法現在第三人称単数形: （直火やオーブンで）焼く。炙る。
+ROB	(動詞) 奪う: （うばう）何かを取り去る。
+ROBBED	(動詞) robの過去形・過去分詞: 奪う: （うばう）何かを取り去る。
+ROBBER	(名詞) 強盗。強盗犯
+ROBBERIES	(名詞) "robbery" の複数形: 強盗: 脅迫や暴力などを加えて他人の財物を奪うこと。
+ROBBERS	(robberの変化形) (名詞) 強盗。強盗犯
+ROBBERY	(名詞) 強盗: 脅迫や暴力などを加えて他人の財物を奪うこと。
+ROBBING	(動詞) robの動名詞又は現在分詞: 奪う: （うばう）何かを取り去る。
+ROBIN	(名詞) コマドリ。ロビン。
+ROBINS	(名詞) robinの複数形: コマドリ。ロビン。
+ROBOT	(名詞) ロボット: 人間の代わりにある作業・動作を自動で行う装置。
+ROBOTS	(名詞) "robot" の複数形: ロボット: 人間の代わりにある作業・動作を自動で行う装置。
+ROBS	(動詞) robの直説法現在第三人称単数形: 奪う: （うばう）何かを取り去る。
+ROBUST	(形容詞) 逞しい: （たくましい）勢力があり意思が固く、盛んである。 (ほかに: 頑丈な, 頑強な)
+ROBUSTER	(形容詞) robustの比較級: 逞しい: （たくましい）勢力があり意思が固く、盛んである。 (ほかに: 頑丈な, 頑強な)
+ROBUSTEST	(形容詞) robustの最上級: 逞しい: （たくましい）勢力があり意思が固く、盛んである。 (ほかに: 頑丈な, 頑強な)
+ROBUSTNESS	(名詞) robustnessの訳: 頑健さ, 頑強さ
+ROBUSTNESSES	(名詞) robustnessの複数形: 頑健さ, 頑強さ
+ROCK	(名詞) 岩石: 地球の地殻とマントルを構成する物質で、種々の鉱物の集合体。 (ほかに: 岩)\n(動詞) 優しく揺り動かす。
+ROCKED	(動詞) "rock" の過去形・過去分詞: 岩石: 地球の地殻とマントルを構成する物質で、種々の鉱物の集合体。 (ほかに: 岩)
+ROCKET	(名詞) ロケット: 物体の一部の質量を後方に射出しロケットエンジンまたは推力を得た装置によって前進する装置。\n(動詞) 猛烈に加速する。
+ROCKETED	(動詞) rocketの過去形又は過去分詞形: ロケット。
+ROCKETING	(動詞) rocketの動名詞又は現在分詞形: ロケット。
+ROCKETS	(名詞) rocketの複数形: ロケット。\n(動詞) rocketの直説法第三人称単数現在形: ロケット。
+ROCKFISH	(名詞) rockfishの訳: 根魚
+ROCKFISHES	(rockfishの変化形) (名詞) rockfishの訳: 根魚
+ROCKING	(動詞) "rock" の動名詞又は現在分詞: 岩石: 地球の地殻とマントルを構成する物質で、種々の鉱物の集合体。 (ほかに: 岩)
+ROCKS	(名詞) "rock" の複数形: 岩石: 地球の地殻とマントルを構成する物質で、種々の鉱物の集合体。 (ほかに: 岩)\n(動詞) "rock" の現在第三人称単数形。
+ROD	(名詞) 棒・杖状のもの。\n(動詞) （銃などで）武装する（させる）。 [+up]
+RODDED	(動詞) rodの過去形・過去分詞: 棒・杖状のもの。
+RODDING	(動詞) rodの動名詞又は現在分詞: 棒・杖状のもの。
+RODE	(動詞) ride の過去形: 騎乗する。乗馬する。
+RODENT	(名詞) 齧歯類: 齧歯目に属する哺乳類の総称。\n(形容詞) rodentの訳: 齧歯類の
+RODENTS	(rodentの変化形) (名詞) 齧歯類: 齧歯目に属する哺乳類の総称。
+RODS	(名詞) rodの複数形: 棒・杖状のもの。\n(動詞) rodの直説法現在三人称単数形: 棒・杖状のもの。
+ROE	(名詞) 魚卵: （主に食用の）魚介類の卵。 (ほかに: 魚の卵)
+ROES	(roeの変化形) (名詞) 魚卵: （主に食用の）魚介類の卵。 (ほかに: 魚の卵)
+ROGER	(感動詞) rogerの訳: 了解
+ROGUE	(名詞) rogueの訳: ⟪ならずもの⟫
+ROGUED	(rogueの変化形) (名詞) rogueの訳: ⟪ならずもの⟫
+ROGUEING	(rogueの変化形) (名詞) rogueの訳: ⟪ならずもの⟫
+ROGUES	(rogueの変化形) (名詞) rogueの訳: ⟪ならずもの⟫
+ROGUING	(rogueの変化形) (名詞) rogueの訳: ⟪ならずもの⟫
+ROLE	(名詞) 役: （ヤク 音読みであるが原義にはない意味）全体の中で、割り当てられ受け持つ仕事。果す任務。役目・役割。（当番から名誉職、一定の公職・職位にまで使われる。） (ほかに: 配役)
+ROLES	(名詞) roleの複数形: 役: （ヤク 音読みであるが原義にはない意味）全体の中で、割り当てられ受け持つ仕事。果す任務。役目・役割。（当番から名誉職、一定の公職・職位にまで使われる。）...
+ROLL	(動詞) 転がる: 回りながら進む。 (ほかに: 回転する)\n(名詞) rollの訳: 転がること, 回転
+ROLLBACK	(名詞) 巻き返し: 勢力を挽回し攻勢に出ること。
+ROLLBACKS	(rollbackの変化形) (名詞) 巻き返し: 勢力を挽回し攻勢に出ること。
+ROLLED	(動詞) rollの過去形・過去分詞: 転がる: 回りながら進む。 (ほかに: 回転する)
+ROLLER	(名詞) rollerの訳: ローラー
+ROLLERS	(rollerの変化形) (名詞) rollerの訳: ローラー
+ROLLING	(形容詞) rollingの訳: よたよたした\n(動詞) rollの動名詞又は現在分詞: 転がる: 回りながら進む。 (ほかに: 回転する)
+ROLLINGS	(名詞) rollingの複数形: よたよたした
+ROLLS	(動詞) "roll"の三人称単数現在形: 転がる、回転する。\n(名詞) "roll"の複数形: 転がる: 回りながら進む。 (ほかに: 回転する)
+ROMAN	(形容詞) （活字体、イタリックに対応して）ローマン字体の。正立体の。
+ROMANCE	(名詞) romanceの訳: ロマンス語
+ROMANCED	(romanceの変化形) (名詞) romanceの訳: ロマンス語
+ROMANCER	(romanceの変化形) (名詞) romanceの訳: ロマンス語
+ROMANCERS	(romanceの変化形) (名詞) romanceの訳: ロマンス語
+ROMANCES	(romanceの変化形) (名詞) romanceの訳: ロマンス語
+ROMANCING	(romanceの変化形) (名詞) romanceの訳: ロマンス語
+ROMANISE	(動詞) romanizeの異綴。
+ROMANISED	(動詞) romaniseの過去形・過去分詞: romanizeの異綴。
+ROMANISES	(動詞) romaniseの直説法現在第三人称単数形: romanizeの異綴。
+ROMANISING	(動詞) romaniseの現在分詞: romanizeの異綴。
+ROMANIZE	(動詞) ローマ字で書く。
+ROMANIZED	(動詞) romanizeの過去形・過去分詞: ローマ字で書く。\n(形容詞) ローマ字で書かれた。
+ROMANIZES	(動詞) romanizeの直説法現在第三人称単数形: ローマ字で書く。
+ROMANIZING	(動詞) romanizeの現在分詞: ローマ字で書く。
+ROMANTIC	(形容詞) 空想的な、非現実的な、現実離れした、ロマンチックな。[17世紀より]\n(名詞) ロマンチスト: 甘美なことや空想を好む人。ロマンティックな人。 (ほかに: 空想家)
+ROMANTICALLY	(副詞) 空想的に、ロマンチックに。
+ROMANTICISE	(動詞) romanticizeの異形。
+ROMANTICISED	(形容詞) romanticizedの異形。\n(動詞) romanticiseの過去形・過去分詞: romanticizeの異形。
+ROMANTICISES	(動詞) romanticiseの直説法現在第三人称単数形: romanticizeの異形。
+ROMANTICISING	(動詞) romanticiseの現在分詞: romanticizeの異形。
+ROMANTICIZE	(動詞) 理想化して考える、美化する、脚色する。
+ROMANTICIZED	(動詞) romanticizeの過去形・過去分詞: 理想化して考える、美化する、脚色する。\n(形容詞) romanticizedの訳: 理想化された, 美化された
+ROMANTICIZES	(動詞) romanticizeの直説法現在第三人称単数形: 理想化して考える、美化する、脚色する。
+ROMANTICIZING	(動詞) romanticizeの現在分詞: 理想化して考える、美化する、脚色する。
+ROMANTICS	(名詞) romanticの複数形: 空想的な、非現実的な、現実離れした、ロマンチックな。[17世紀より]
+ROMP	(動詞) 燥ぎ回る。跳ね回る。\n(名詞) 燥ぎ回ること。跳ね回ること。
+ROMPED	(動詞) rompの過去形・過去分詞: 燥ぎ回る。跳ね回る。
+ROMPER	(名詞) romperの訳: 跳ね回る人
+ROMPERS	(名詞) romperの複数形: 跳ね回る人\n(動詞) romperの直説法現在第三人称単数形: 跳ね回る人
+ROMPING	(rompの変化形) (動詞) 燥ぎ回る。跳ね回る。
+ROMPS	(名詞) rompの複数形: 燥ぎ回る。跳ね回る。\n(動詞) rompの直説法現在第三人称単数形: 燥ぎ回る。跳ね回る。
+ROOF	(名詞) 屋根: （やね）建物の上部を覆う構造物で、雨や雪、強風や強い日差し、気温の変化、工場の煤煙や大気中の粉塵を防ぐもの。\n(動詞) roofの訳: 屋根をつける
+ROOFED	(形容詞) roofedの訳: 屋根付きの, 〜の屋根の\n(動詞) roofの過去形・過去分詞: 屋根: （やね）建物の上部を覆う構造物で、雨や雪、強風や強い日差し、気温の変化、工場の煤煙や大気中の粉塵を防ぐもの。
+ROOFING	(名詞) roofingの訳: 屋根葺き材料\n(動詞) roofの動名詞又は現在分詞: 屋根: （やね）建物の上部を覆う構造物で、雨や雪、強風や強い日差し、気温の変化、工場の煤煙や大気中の粉塵を防ぐもの。
+ROOFINGS	(名詞) roofingの複数形: 屋根葺き材料
+ROOFS	(名詞) "roof" の複数形: 屋根: （やね）建物の上部を覆う構造物で、雨や雪、強風や強い日差し、気温の変化、工場の煤煙や大気中の粉塵を防ぐもの。\n(動詞) "roof" の現在第三人称単数形。
+ROOFTOP	(名詞) 屋上: 屋根の上。 (ほかに: 屋根)\n(形容詞) rooftopの訳: 屋上に
+ROOFTOPS	(名詞) rooftopの複数形: 屋上: 屋根の上。 (ほかに: 屋根)
+ROOK	(名詞) rookの訳: 要塞, 城砦, 城塞\n(動詞) だます。搾取する
+ROOKED	(動詞) "rook" の過去形・過去分詞: 要塞, 城砦, 城塞
+ROOKING	(動詞) "rook" の動名詞又は現在分詞: 要塞, 城砦, 城塞
+ROOKS	(名詞) "rook" の複数形: 要塞, 城砦, 城塞\n(動詞) "rook" の現在第三人称単数形。
+ROOM	(名詞) roomの訳: 空き, ⟪空間|くうかん⟫, 余裕
+ROOMED	(roomの変化形) (名詞) roomの訳: 空き, ⟪空間|くうかん⟫, 余裕
+ROOMIER	(形容詞) "roomy" の比較級: 広々とした
+ROOMIEST	(形容詞) "roomy" の最上級: 広々とした
+ROOMING	(roomの変化形) (名詞) roomの訳: 空き, ⟪空間|くうかん⟫, 余裕
+ROOMMATE	(名詞) （英）大学などの寮で、部屋を共用する者。ルームメイト。
+ROOMMATES	(名詞) roommateの複数形: （英）大学などの寮で、部屋を共用する者。ルームメイト。
+ROOMS	(名詞) roomの複数形: 空き, ⟪空間|くうかん⟫, 余裕
+ROOMY	(形容詞) roomyの訳: 広々とした
+ROOST	(名詞) roostの訳: 塒
+ROOSTED	(roostの変化形) (名詞) roostの訳: 塒
+ROOSTER	(名詞) にわとり: キジ科の鳥セキショクヤケイ（赤色野鶏）の家畜亜種、学名は Gallus gallus domesticus。食用として鶏肉、鶏卵を利用することが一般化している家禽である。とり。
+ROOSTERS	(roosterの変化形) (名詞) にわとり: キジ科の鳥セキショクヤケイ（赤色野鶏）の家畜亜種、学名は Gallus gallus domesticus。食用として鶏肉、鶏卵を利用することが一般化している家禽である。とり。
+ROOSTING	(roostの変化形) (名詞) roostの訳: 塒
+ROOSTS	(roostの変化形) (名詞) roostの訳: 塒
+ROOT	(名詞) 根: （ね）植物の一部分で、地中で養分や水分を吸収する部分。\n(動詞) 根付かせる。定着させる。
+ROOTED	(rootの変化形) (名詞) 根: （ね）植物の一部分で、地中で養分や水分を吸収する部分。
+ROOTING	(rootの変化形) (名詞) 根: （ね）植物の一部分で、地中で養分や水分を吸収する部分。
+ROOTS	(rootの変化形) (名詞) 根: （ね）植物の一部分で、地中で養分や水分を吸収する部分。
+ROPE	(名詞) ropeの訳: 縄
+ROPED	(ropeの変化形) (名詞) ropeの訳: 縄
+ROPES	(名詞) rope の複数形: 縄\n(動詞) rope の三人称単数現在形: 縄
+ROPING	(ropeの変化形) (名詞) ropeの訳: 縄
+RORQUAL	(名詞) rorqualの訳: ⟪ナガスクジラ|ながすくじら⟫
+RORQUALS	(名詞) rorqualの複数形: ⟪ナガスクジラ|ながすくじら⟫
+ROSARIES	(名詞) rosaryの複数形: ロザリオ: カトリック教徒が聖母マリアへの祈りに用いる十字架の付いた数珠。
+ROSARY	(名詞) ロザリオ: カトリック教徒が聖母マリアへの祈りに用いる十字架の付いた数珠。
+ROSE	(名詞) 薔薇: バラ科バラ属の木の総称。特にその樹木のつける花。\n(動詞) rise の過去形: 上がる、昇る。
+ROSEBAY	(名詞) セイヨウキョウチクトウ。
+ROSEBAYS	(名詞) rosebayの複数形: セイヨウキョウチクトウ。
+ROSED	(riseの変化形) (動詞) riseの訳: 上がる, ⟪昇る|のぼる⟫
+ROSEMARIES	(名詞) rosemaryの複数形: ローズマリー
+ROSEMARY	(名詞) rosemaryの訳: ローズマリー
+ROSES	(名詞) "rose" の複数形: 薔薇: バラ科バラ属の木の総称。特にその樹木のつける花。
+ROSIER	(形容詞) "rosy" の比較級: 薔薇のような
+ROSIEST	(形容詞) "rosy" の最上級: 薔薇のような
+ROSING	(riseの変化形) (動詞) riseの訳: 上がる, ⟪昇る|のぼる⟫
+ROSTER	(名詞) rosterの訳: 名簿, ロスター
+ROSTERS	(rosterの変化形) (名詞) rosterの訳: 名簿, ロスター
+ROSTRA	(rostrumの変化形) (名詞) rostrumの訳: 登壇, 降壇
+ROSTRUM	(名詞) rostrumの訳: 登壇, 降壇
+ROSTRUMS	(rostrumの変化形) (名詞) rostrumの訳: 登壇, 降壇
+ROSY	(形容詞) rosyの訳: 薔薇のような
+ROT	(動詞) rotの訳: 腐る\n(名詞) rotの訳: 腐敗
+ROTARIES	(名詞) rotaryの複数形: 回転する, 回転式の
+ROTARY	(形容詞) rotaryの訳: 回転する, 回転式の\n(名詞) rotaryの訳: 環状交差点, ロータリー
+ROTATABLE	(形容詞) rotatableの訳: 回転可能な
+ROTATE	(動詞) rotateの訳: 回る, 回転する\n(形容詞) rotateの訳: 車輪状の
+ROTATED	(形容詞) rotatedの訳: 回転する\n(動詞) rotateの過去形・過去分詞: 回る, 回転する
+ROTATES	(動詞) rotateの直説法現在第三人称単数形: 回る, 回転する
+ROTATING	(形容詞) rotatingの訳: 回転する\n(動詞) rotateの現在分詞: 回る, 回転する
+ROTATION	(名詞) rotationの訳: 回転
+ROTATIONS	(名詞) rotationの複数形: 回転
+ROTOR	(名詞) ローター: 機械類の回転する部分。 (ほかに: 回転子)
+ROTORS	(rotorの変化形) (名詞) ローター: 機械類の回転する部分。 (ほかに: 回転子)
+ROTS	(名詞) rotの複数形: 腐る\n(動詞) rotの現在第三人称単数形。
+ROTTED	(動詞) "rot" の過去形・過去分詞: 腐る
+ROTTEN	(形容詞) rottenの訳: 腐った, 腐敗した\n(副詞) rottenの訳: ⟪ひどく⟫
+ROTTENER	(形容詞) "rotten" の比較級: 腐った, 腐敗した
+ROTTENEST	(形容詞) "rotten" の最上級: 腐った, 腐敗した
+ROTTENNESS	(名詞) rottennessの訳: 腐敗
+ROTTENNESSES	(rottennessの変化形) (名詞) rottennessの訳: 腐敗
+ROTTING	(動詞) "rot" の動名詞又は現在分詞: 腐る
+ROTUND	(形容詞) rotundの訳: 丸い
+ROTUNDA	(名詞) rotundaの訳: ロタンダ
+ROTUNDAS	(名詞) rotundaの複数形: ロタンダ。
+ROUGE	(形容詞) rougeの訳: 赤色の\n(名詞) ルージュ: 口紅、頬紅。 (ほかに: 口紅, 頬紅)
+ROUGED	(動詞) rougeの過去形・過去分詞: 赤色の
+ROUGES	(名詞) rougeの複数形: 赤色の\n(動詞) rougeの直説法現在第三人称単数形: 赤色の
+ROUGH	(形容詞) roughの訳: ざらざらした, でこぼこの\n(名詞) ラフ: コースで整備されておらず芝などが伸びている部分。
+ROUGHAGE	(名詞) 食物繊維: 食物に含まれる成分のなかで消化酵素で分解できないもの。整腸作用がある。
+ROUGHAGES	(名詞) roughageの複数形: 食物繊維: 食物に含まれる成分のなかで消化酵素で分解できないもの。整腸作用がある。
+ROUGHED	(roughの変化形) (形容詞) roughの訳: ざらざらした, でこぼこの
+ROUGHEN	(動詞) （表面を）ざらざらにする。
+ROUGHENED	(動詞) roughenの過去形・過去分詞: （表面を）ざらざらにする。
+ROUGHENING	(動詞) roughenの動名詞又は現在分詞: （表面を）ざらざらにする。
+ROUGHENS	(動詞) roughenの直説法現在第三人称単数形: （表面を）ざらざらにする。
+ROUGHER	(形容詞) "rough" の比較級: ざらざらした, でこぼこの
+ROUGHEST	(形容詞) "rough" の最上級: ざらざらした, でこぼこの
+ROUGHING	(roughの変化形) (形容詞) roughの訳: ざらざらした, でこぼこの
+ROUGHLY	(副詞) roughlyの訳: ざらざらして
+ROUGHNESS	(名詞) roughnessの訳: ⟪あらう⟫, 粗雑
+ROUGHNESSES	(roughnessの変化形) (名詞) roughnessの訳: ⟪あらう⟫, 粗雑
+ROUGHS	(名詞) "rough" の複数形: ざらざらした, でこぼこの
+ROUGING	(動詞) rougeの現在分詞: 赤色の
+ROUND	(形容詞) roundの訳: 円形の, 丸い\n(名詞) roundの訳: ⟪円|つぶら⟫, 輪
+ROUNDABOUT	(形容詞) roundaboutの訳: 間接的な, 遠回しの, 婉曲の\n(名詞) roundaboutの訳: 環状交差路, ロータリー
+ROUNDABOUTS	(名詞) "roundabout" の複数形: 間接的な, 遠回しの, 婉曲の
+ROUNDED	(形容詞) roundedの訳: 丸い\n(動詞) roundの過去形・過去分詞: 円形の、丸い。
+ROUNDEL	(名詞) roundelの訳: 円形のもの, 円形の図形, ⟪円|つぶら⟫
+ROUNDELS	(名詞) roundelの複数形: 円形のもの, 円形の図形, ⟪円|つぶら⟫
+ROUNDER	(形容詞) "round" の比較級: 円形の, 丸い\n(名詞) roundする人。
+ROUNDERS	(名詞) "rounder" の複数形: "round" の比較級: 円形の, 丸い
+ROUNDEST	(形容詞) "round" の最上級: 円形の, 丸い
+ROUNDING	(形容詞) roundingの訳: 丸い, 丸みのある\n(名詞) roundingの訳: 丸め, 四捨五入, ⟪切り上げ|きりあげ⟫, 切り捨て
+ROUNDNESS	(名詞) roundnessの訳: 円形, 丸さ, ⟪丸み|まるみ⟫
+ROUNDNESSES	(名詞) roundnessの複数形: 円形、丸さ、丸み。
+ROUNDS	(名詞) "round" の複数形: 円形の, 丸い\n(動詞) "round" の現在第三人称単数形。
+ROUSE	(名詞) rouseの訳: 起床\n(動詞) 起きる: （おきる）（起きる）気がつく。正気に戻る。 (ほかに: 起床する)
+ROUSED	(動詞) rouseの過去形・過去分詞: 起床
+ROUSES	(名詞) "rouse" の複数形: 起床\n(動詞) "rouse" の三人称単数現在形: 起床
+ROUSING	(動詞) "rouse" の動名詞形又は現在分詞形: 起床
+ROUT	(動詞) 吠える: （ほえる）人が泣く。 (ほかに: 唸る)\n(名詞) routの訳: 唸り声
+ROUTE	(名詞) 路線: ある地点から他の点に達する道路、鉄道などの交通線。 (ほかに: 道, 道筋)\n(動詞) routeの訳: ⟪送る|おくる⟫
+ROUTED	(動詞) routeの過去形: 路線: ある地点から他の点に達する道路、鉄道などの交通線。 (ほかに: 道, 道筋)
+ROUTES	(名詞) routeの複数形: 路線: ある地点から他の点に達する道路、鉄道などの交通線。 (ほかに: 道, 道筋)\n(動詞) routeの直説法現在第三人称単数形: 路線: ある地点から他の点に達する道路、鉄道などの交通線。 (ほかに: 道, 道筋)
+ROUTINE	(名詞) routineの訳: 所定の手順\n(形容詞) routineの訳: 所定の
+ROUTINES	(名詞) routineの複数形: 所定の手順
+ROUTING	(名詞) routingの訳: ルーティング, 経路制御\n(動詞) routeの現在分詞: 路線: ある地点から他の点に達する道路、鉄道などの交通線。 (ほかに: 道, 道筋)
+ROUTS	(名詞) routの複数形: 吠える: （ほえる）人が泣く。 (ほかに: 唸る)\n(動詞) routの直説法現在第三人称単数形: 吠える: （ほえる）人が泣く。 (ほかに: 唸る)
+ROVE	(動詞) さまよう: （比喩的に）定まることなく動く。
+ROVED	(roveの変化形) (動詞) さまよう: （比喩的に）定まることなく動く。
+ROVES	(roveの変化形) (動詞) さまよう: （比喩的に）定まることなく動く。
+ROVING	(roveの変化形) (動詞) さまよう: （比喩的に）定まることなく動く。
+ROVINGS	(roveの変化形) (動詞) さまよう: （比喩的に）定まることなく動く。
+ROW	(名詞) 列。並び。\n(動詞) rowの訳: 漕ぐ
+ROWAN	(名詞) ななかまど: バラ目バラ科ナナカマド属に属する樹木の総称。学名: Sorbus。
+ROWANS	(rowanの変化形) (名詞) ななかまど: バラ目バラ科ナナカマド属に属する樹木の総称。学名: Sorbus。
+ROWBOAT	(名詞) rowboatの訳: 漕ぎ船, 漕艇
+ROWBOATS	(名詞) rowboatの複数形: 漕ぎ船, 漕艇
+ROWDIER	(形容詞) "rowdy" の比較級: 騒騒しい、どんちゃん騒ぎの。
+ROWDIES	(名詞) "rowdy" の複数形: 騒騒しい、どんちゃん騒ぎの。
+ROWDIEST	(形容詞) "rowdy" の最上級: 騒騒しい、どんちゃん騒ぎの。
+ROWDY	(形容詞) 騒騒しい、どんちゃん騒ぎの。\n(名詞) rowdyの訳: 暴れん坊
+ROWED	(rowの変化形) (名詞) 列。並び。
+ROWER	(名詞) rowerの訳: ふねを漕ぐ者
+ROWERS	(名詞) rower の複数形: ふねを漕ぐ者
+ROWING	(動詞) rowの現在分詞: 列。並び。\n(名詞) 漕艇: ボートを漕ぐこと。
+ROWINGS	(名詞) rowingの複数形: rowの現在分詞: 列。並び。
+ROWS	(名詞) rowの複数形: 列。並び。\n(動詞) rowの直説法現在第三人称単数形: 列。並び。
+ROYAL	(形容詞) 王の。女王の。王室の。\n(名詞) royalの訳: 王室の一員
+ROYALLY	(副詞) 王にふさわしく。
+ROYALS	(名詞) royalの複数形: 王の。女王の。王室の。
+ROYALTIES	(royaltyの変化形) (名詞) 印税: 小説家、作詞家、作曲家などの著作権者が売り上げに応じて手にするお金。 (ほかに: 王族, 王室)
+ROYALTY	(名詞) 印税: 小説家、作詞家、作曲家などの著作権者が売り上げに応じて手にするお金。 (ほかに: 王族, 王室)
+RUB	(動詞) rubの訳: 擦る\n(名詞) rubの訳: 擦ること
+RUBBED	(動詞) "rub" の過去形・過去分詞: 擦る
+RUBBER	(名詞) rubberの訳: ゴム\n(形容詞) rubberの訳: ゴム製の
+RUBBERED	(rubberの変化形) (名詞) rubberの訳: ゴム
+RUBBERING	(rubberの変化形) (名詞) rubberの訳: ゴム
+RUBBERIZED	(動詞) rubberizeの過去形・過去分詞。\n(形容詞) rubberizedの訳: ゴムを引いた
+RUBBERNECK	(名詞) 見物: （けんぶつ）見物人の略。見物衆。 (ほかに: 見物人)
+RUBBERNECKED	(rubberneckの変化形) (名詞) 見物: （けんぶつ）見物人の略。見物衆。 (ほかに: 見物人)
+RUBBERNECKER	(名詞) 野次馬: 喧嘩や事故などの騒動に集まる、当事者と全く関係ない見物人。
+RUBBERNECKERS	(名詞) rubberneckerの複数形: 野次馬: 喧嘩や事故などの騒動に集まる、当事者と全く関係ない見物人。
+RUBBERNECKING	(rubberneckの変化形) (名詞) 見物: （けんぶつ）見物人の略。見物衆。 (ほかに: 見物人)
+RUBBERNECKS	(rubberneckの変化形) (名詞) 見物: （けんぶつ）見物人の略。見物衆。 (ほかに: 見物人)
+RUBBERS	(名詞) rubberの複数形: ゴム\n(動詞) rubberの直説法現在第三人称単数形: ゴム
+RUBBING	(名詞) rubbingの訳: 擦ること\n(動詞) rubの動名詞又は現在分詞: 擦る
+RUBBINGS	(名詞) rubbingの複数形: 擦ること
+RUBBISH	(名詞) ごみ: 不必要になった物、用が済んだ物
+RUBBISHES	(名詞) rubbishの複数形: ごみ: 不必要になった物、用が済んだ物
+RUBBLE	(名詞) 瓦礫: 工作物の残骸である廃棄物のこと。建物撤去のときに出る、瓦や壁土などの他に鉄骨、コンクリートなどもある。 (ほかに: 破片)
+RUBBLED	(rubbleの変化形) (名詞) 瓦礫: 工作物の残骸である廃棄物のこと。建物撤去のときに出る、瓦や壁土などの他に鉄骨、コンクリートなどもある。 (ほかに: 破片)
+RUBBLES	(名詞) rubbleの複数形: 瓦礫: 工作物の残骸である廃棄物のこと。建物撤去のときに出る、瓦や壁土などの他に鉄骨、コンクリートなどもある。 (ほかに: 破片)
+RUBBLING	(rubbleの変化形) (名詞) 瓦礫: 工作物の残骸である廃棄物のこと。建物撤去のときに出る、瓦や壁土などの他に鉄骨、コンクリートなどもある。 (ほかに: 破片)
+RUBDOWN	(名詞) rubdownの訳: 乾布摩擦
+RUBDOWNS	(rubdownの変化形) (名詞) rubdownの訳: 乾布摩擦
+RUBELLA	(名詞) 風疹: 発疹を伴う急性のウイルス性感染症。三日ばしか。
+RUBELLAS	(rubellaの変化形) (名詞) 風疹: 発疹を伴う急性のウイルス性感染症。三日ばしか。
+RUBEOLA	(名詞) 麻疹: 麻疹ウイルスによる伝染病で紅い発疹が特徴。非常に感染力が強く、重篤な合併症を引き起こすこともある。ワクチンによる予防が可能。
+RUBEOLAS	(rubeolaの変化形) (名詞) 麻疹: 麻疹ウイルスによる伝染病で紅い発疹が特徴。非常に感染力が強く、重篤な合併症を引き起こすこともある。ワクチンによる予防が可能。
+RUBIDIUM	(名詞) ルビジウム: 原子番号 37、元素記号 Rb の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。
+RUBIDIUMS	(名詞) rubidiumの複数形: ルビジウム: 原子番号 37、元素記号 Rb の金属元素。アルカリ金属。単体は常温常圧では銀白色の固体。
+RUBIED	(動詞) rubyの過去形・過去分詞: ルビー。紅玉。\n(形容詞) rubiedの訳: ルビーの
+RUBIER	(rubyの変化形) (名詞) ルビー。紅玉。
+RUBIES	(名詞) rubyの複数形: ルビー。紅玉。\n(動詞) rubyの三人称単数現在形: ルビー。紅玉。
+RUBIEST	(rubyの変化形) (名詞) ルビー。紅玉。
+RUBLE	(名詞) ルーブル: ロシア・ベラルーシなどで使用されている（されていた）通貨及び通貨単位の名称。ルーヴル。
+RUBLES	(名詞) rubleの複数形: ルーブル: ロシア・ベラルーシなどで使用されている（されていた）通貨及び通貨単位の名称。ルーヴル。
+RUBS	(名詞) "rub" の複数形: 擦る\n(動詞) "rub" の現在第三人称単数形。
+RUBY	(名詞) ルビー。紅玉。\n(形容詞) ルビー色の。深紅色の。
+RUBYING	(動詞) rubyの現在分詞形: ルビー。紅玉。
+RUCK	(名詞) 大勢: 数多の人。多くの人数。副詞的にも用いる。
+RUCKED	(ruckの変化形) (名詞) 大勢: 数多の人。多くの人数。副詞的にも用いる。
+RUCKING	(ruckの変化形) (名詞) 大勢: 数多の人。多くの人数。副詞的にも用いる。
+RUCKS	(ruckの変化形) (名詞) 大勢: 数多の人。多くの人数。副詞的にも用いる。
+RUDDER	(名詞) 舵: （かじ）船の進む方向を定める装置。舵機。
+RUDDERS	(名詞) rudderの複数形: 舵: （かじ）船の進む方向を定める装置。舵機。
+RUDDIER	(形容詞) ruddyの比較級: 血色の良い。紅潮した。
+RUDDIEST	(形容詞) ruddyの最上級: 血色の良い。紅潮した。
+RUDDY	(形容詞) 血色の良い。紅潮した。\n(副詞) 嫌に。忌忌しく。酷く。
+RUDE	(形容詞) 失礼な: 礼儀を失すること。無作法。 (ほかに: 無礼な)
+RUDELY	(副詞) rudelyの訳: 無礼に
+RUDENESS	(名詞) rudenessの訳: 粗雑さ, 未完成のもの
+RUDENESSES	(名詞) "rudeness" の複数形: 粗雑さ, 未完成のもの
+RUDER	(形容詞) "rude" の比較級: 失礼な: 礼儀を失すること。無作法。 (ほかに: 無礼な)
+RUDEST	(形容詞) "rude" の最上級: 失礼な: 礼儀を失すること。無作法。 (ほかに: 無礼な)
+RUDIMENT	(名詞) 基本。基礎。初歩。\n(動詞) rudimentの訳: 基礎付かせる
+RUDIMENTS	(名詞) rudimentの複数形: 基本。基礎。初歩。\n(動詞) rudimentの直説法現在第三人称単数形: 基本。基礎。初歩。
+RUE	(名詞) rueの訳: 悔い\n(動詞) rueの訳: ⟪悔いる|くいる⟫
+RUED	(動詞) rueの過去形又は過去分詞形: 悔い。
+RUEFUL	(形容詞) ruefulの訳: 後悔した, 残念そうな, 悲しそうな
+RUEFULLY	(副詞) ruefullyの訳: 後悔して, 残念そうに
+RUER	(rueの変化形) (名詞) rueの訳: 悔い
+RUES	(名詞) rueの複数形: 悔い。\n(動詞) rueの直説法第三人称単数現在形: 悔い。
+RUFFIAN	(名詞) 悪党。ごろつき。\n(形容詞) 無頼の。残忍な。乱暴な。
+RUFFIANS	(名詞) ruffianの複数形: 悪党。ごろつき。
+RUGA	(名詞) 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。
+RUGAE	(rugaの変化形) (名詞) 皺: （しわ）細い線状の凹凸で、なめらかな立体の表面に、紙などの膜状のものを張るときに生じる。
+RUGBIES	(rugbyの変化形) (名詞) rugbyの訳: ラグビー
+RUGBY	(名詞) rugbyの訳: ラグビー
+RUIN	(名詞) ruinの訳: 荒廃, 崩壊, 潰滅, 滅亡\n(動詞) （機械や建物を）潰す、打ち壊す、破壊する、めちゃめちゃにする。
+RUINATION	(名詞) 壊滅: 元の姿をとどめないほど完全に壊すこと。壊れて滅びること。
+RUINATIONS	(ruinationの変化形) (名詞) 壊滅: 元の姿をとどめないほど完全に壊すこと。壊れて滅びること。
+RUINED	(動詞) ruinの過去形・過去分詞: 荒廃, 崩壊, 潰滅, 滅亡\n(形容詞) ruinedの訳: 破滅した, 崩壊した
+RUINER	(名詞) 壊し屋。破壊者。打倒者。破滅させる人。
+RUINERS	(名詞) ruinerの複数形: 壊し屋。破壊者。打倒者。破滅させる人。
+RUING	(動詞) rueの動名詞又は現在分詞形: 悔い。
+RUINING	(動詞) "ruin" の動名詞形又は現在分詞形: 荒廃, 崩壊, 潰滅, 滅亡
+RUINS	(名詞) ruin の複数形: 荒廃, 崩壊, 潰滅, 滅亡\n(動詞) ruin の直説法現在第三人称単数形: 荒廃, 崩壊, 潰滅, 滅亡
+RULE	(名詞) ruleの訳: ルール, ⟪規則|きそく⟫\n(動詞) ruleの訳: 支配する
+RULED	(形容詞) ruledの訳: 罫線入りの\n(動詞) ruleの過去形・過去分詞: ルール, ⟪規則|きそく⟫
+RULER	(名詞) 支配者: ある物事を支配、統治する者。 (ほかに: 統治者)
+RULERS	(名詞) "ruler" の複数形: 支配者: ある物事を支配、統治する者。 (ほかに: 統治者)
+RULES	(名詞) ruleの複数形: ルール, ⟪規則|きそく⟫\n(動詞) ruleの現在第三人称単数形。
+RULING	(形容詞) rulingの訳: 支配する, 統治する, 支配的な\n(名詞) 決定: 裁判所が行う判断のうち、判決と異なり手続的な裁定に関わるもの。裁判の一種。 (ほかに: 判決, 裁定)
+RULINGS	(名詞) rulingの複数形: 支配する, 統治する, 支配的な
+RUM	(名詞) rumの訳: ラム酒\n(形容詞) rumの訳: 奇妙な, 奇異な
+RUMBLE	(名詞) ごろごろという音、轟音。\n(動詞) ごろごろと鳴る、（腹が）ぐうぐう鳴る。
+RUMBLED	(動詞) rumbleの過去形・過去分詞: ごろごろという音、轟音。
+RUMBLES	(名詞) rumbleの複数形: ごろごろという音、轟音。\n(動詞) rumbleの直説法現在第三人称単数形: ごろごろという音、轟音。
+RUMBLING	(形容詞) ごろごろと鳴る。\n(名詞) rumblingの訳: 不平, ⟪不満|ふまん⟫
+RUMBLINGS	(名詞) rumblingの複数形: ごろごろと鳴る。
+RUMINA	(名詞) rumenの複数形。
+RUMINANT	(形容詞) ruminantの訳: 反芻する\n(名詞) 反芻動物: 反芻類の動物。
+RUMINANTS	(名詞) ruminantの複数形: 反芻する
+RUMINATE	(動詞) ruminateの訳: 反芻する
+RUMINATED	(ruminateの変化形) (動詞) ruminateの訳: 反芻する
+RUMINATES	(動詞) ruminateの直説法現在第三人称単数形: 反芻する
+RUMINATING	(動詞) ruminateの現在分詞: 反芻する\n(名詞) ruminatingの訳: 熟考
+RUMINATION	(名詞) ruminationの訳: ⟪反芻|はんすう⟫
+RUMINATIONS	(名詞) ruminationの複数形: ⟪反芻|はんすう⟫
+RUMINATIVE	(形容詞) 熟慮の。考え込んだ。
+RUMINATIVELY	(副詞) 熟慮して。考え込んで。
+RUMMAGE	(動詞) 引っ掻き回す: 手荒に掻き回す。 (ほかに: 検索, 漁る)
+RUMMAGED	(rummageの変化形) (動詞) 引っ掻き回す: 手荒に掻き回す。 (ほかに: 検索, 漁る)
+RUMMAGES	(rummageの変化形) (動詞) 引っ掻き回す: 手荒に掻き回す。 (ほかに: 検索, 漁る)
+RUMMAGING	(名詞) 検索: データベースやインターネット上の情報を、パソコンや携帯電話、あるいは専用の情報端末などを用いて調べること。特に、キーワードを入力する形態の情報検索。
+RUMMER	(形容詞) rumの比較級: ラム酒
+RUMMERS	(rummerの変化形) (形容詞) rumの比較級。
+RUMMEST	(形容詞) rumの最上級: ラム酒
+RUMMIER	(形容詞) rummyの比較級: ラミー。トランプゲームの一種。
+RUMMIES	(名詞) rummyの複数形: ラミー。トランプゲームの一種。
+RUMMIEST	(形容詞) rummyの最上級: ラミー。トランプゲームの一種。
+RUMMY	(名詞) ラミー。トランプゲームの一種。\n(形容詞) ラム酒に似た、ラム酒の芳香のある。
+RUMOR	(名詞) rumorの訳: ⟪噂|うわさ⟫\n(動詞) rumorの訳: ⟪噂する|うわさ⟫
+RUMORED	(動詞) "rumor" の過去形・過去分詞: ⟪噂|うわさ⟫
+RUMORING	(動詞) "rumor" の動名詞又は現在分詞: ⟪噂|うわさ⟫
+RUMORS	(名詞) "rumor" の複数形: ⟪噂|うわさ⟫\n(動詞) "rumor" の現在第三人称単数形。
+RUMOUR	(名詞) rumourの訳: ⟪噂|うわさ⟫\n(動詞) rumourの訳: ⟪噂する|うわさ⟫
+RUMOURED	(動詞) "rumour" の過去形・過去分詞: ⟪噂|うわさ⟫
+RUMOURING	(動詞) "rumour" の動名詞又は現在分詞: ⟪噂|うわさ⟫
+RUMOURS	(名詞) "rumour" の複数形: ⟪噂|うわさ⟫\n(動詞) "rumour" の現在第三人称単数形。
+RUMP	(名詞) 臀部: 臀の部分。 (ほかに: 尻)
+RUMPS	(名詞) rumpの複数形: 臀部: 臀の部分。 (ほかに: 尻)
+RUMS	(名詞) rumの複数形: ラム酒
+RUN	(動詞) 走る。cf.walk.\n(名詞) runの訳: 走る動作, ⟪走り|はしり⟫
+RUNAWAY	(名詞) 駆け落ち: ひそかに逃げ出すこと。出奔。逐電。 (ほかに: 逃亡, 家出)\n(形容詞) runawayの訳: 逃げた, 逃亡した, 家出した, 脱走した
+RUNAWAYS	(runawayの変化形) (名詞) 駆け落ち: ひそかに逃げ出すこと。出奔。逐電。 (ほかに: 逃亡, 家出)
+RUNDOWN	(名詞) rundownの訳: ⟪要約|ようやくする⟫, ⟪概要|がいよう⟫, 簡単な説明
+RUNDOWNS	(名詞) rundownの複数形: ⟪要約|ようやくする⟫, ⟪概要|がいよう⟫, 簡単な説明
+RUNG	(名詞) rungの訳: ⟪横木|よこぎ⟫, 横桟
+RUNGS	(ringの変化形) (名詞) 輪。環。
+RUNNER	(名詞) runnerの訳: 走る人, ランナー
+RUNNERS	(名詞) runnerの複数形: 走る人、ランナー。
+RUNNING	(名詞) runningの訳: 走ること\n(形容詞) 走る。走っている状態の。
+RUNNINGS	(runの変化形) (動詞) 走る。cf.walk.
+RUNS	(動詞) runの直説法現在第三人称単数形: 走る。cf.walk.\n(名詞) runの複数形: 走る。cf.walk.
+RUNWAY	(名詞) runwayの訳: ランウェイ, 花道
+RUNWAYS	(名詞) runwayの複数形: ランウェイ, 花道
+RUPTURE	(名詞) ruptureの訳: 破裂\n(動詞) 裂く: （さく）一部を分け与える。 (ほかに: 破裂する, 破裂させる)
+RUPTURED	(ruptureの変化形) (名詞) ruptureの訳: 破裂
+RUPTURES	(名詞) ruptureの複数形: 破裂\n(動詞) ruptureの直説法現在第三人称単数形: 破裂
+RUPTURING	(動詞) ruptureの現在分詞: 破裂
+RURAL	(形容詞) ruralの訳: 田舎の, 農村の
+RUSH	(名詞) rushの訳: ⟪かきいれどき⟫\n(動詞) rushの訳: ⟪いそぐ⟫
+RUSHED	(rushの変化形) (名詞) rushの訳: ⟪かきいれどき⟫
+RUSHES	(rushの変化形) (名詞) rushの訳: ⟪かきいれどき⟫
+RUSHING	(rushの変化形) (名詞) rushの訳: ⟪かきいれどき⟫
+RUSHINGS	(rushの変化形) (名詞) rushの訳: ⟪かきいれどき⟫
+RUST	(名詞) rustの訳: 錆\n(動詞) 錆びる。錆びつく。
+RUSTED	(形容詞) rustedの訳: 錆びた\n(動詞) rustの過去形・過去分詞: 錆
+RUSTIC	(形容詞) rusticの訳: 田舎の\n(名詞) 田舎者: 野暮なもの。
+RUSTICATE	(動詞) （大学を）停学させる。退学させる。
+RUSTICATED	(動詞) rusticateの過去形・過去分詞: （大学を）停学させる。退学させる。
+RUSTICATES	(動詞) rusticateの直説法現在第三人称単数形: （大学を）停学させる。退学させる。
+RUSTICATING	(動詞) rusticateの現在分詞: （大学を）停学させる。退学させる。
+RUSTICS	(名詞) rusticの複数形: 田舎の
+RUSTIER	(形容詞) rustyの比較級: 錆びた。錆び付いた。[9世紀より]
+RUSTIEST	(形容詞) rustyの最上級: 錆びた。錆び付いた。[9世紀より]
+RUSTING	(動詞) rustの現在分詞: 錆\n(名詞) rustingの訳: 錆の発生
+RUSTLE	(名詞) かさかさという音。\n(動詞) かさかさ音を立てる、さらさら鳴る。
+RUSTLED	(動詞) rustleの過去形・過去分詞: かさかさという音。
+RUSTLER	(名詞) rustlerの訳: 家畜泥棒
+RUSTLERS	(名詞) rustlerの複数形: 家畜泥棒
+RUSTLES	(名詞) rustleの複数形: かさかさという音。\n(動詞) rustleの直説法現在第三人称単数形: かさかさという音。
+RUSTLING	(動詞) rustleの現在分詞: かさかさという音。\n(名詞) rustlingの訳: 家畜泥棒
+RUSTS	(名詞) rustの複数形: 錆\n(動詞) rustの直説法現在第三人称単数形: 錆
+RUSTY	(形容詞) 錆びた。錆び付いた。[9世紀より]
+RUTH	(名詞) ruthの訳: 惻隠
+RUTHENIUM	(名詞) rutheniumの訳: ルテニウム
+RUTHENIUMS	(名詞) rutheniumの複数形: ルテニウム
+RUTHERFORDIUM	(名詞) ラザホージウム
+RUTHERFORDIUMS	(rutherfordiumの変化形) (名詞) ラザホージウム
+RUTHLESS	(形容詞) 無慈悲な: 思い遣る心や憐れみが無いこと。 (ほかに: 非情な, 残酷な)
+RUTHLESSLY	(副詞) 無慈悲に。非情に。残酷に。断固として。
+RUTHLESSNESS	(名詞) 無慈悲。非情。残酷。断固としていること。
+RUTHLESSNESSES	(名詞) ruthlessnessの複数形: 無慈悲。非情。残酷。断固としていること。
+RUTHS	(ruthの変化形) (名詞) ruthの訳: 惻隠
+RUTTISH	(形容詞) 好色な。盛りのついた。
+RUTTISHLY	(ruttishの変化形) (形容詞) 好色な。盛りのついた。
+RYE	(名詞) ryeの訳: ライ麦
+RYES	(ryeの変化形) (名詞) ryeの訳: ライ麦

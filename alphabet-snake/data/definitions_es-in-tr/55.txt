@@ -1,0 +1,314 @@
+UAPITI	(ad) uapiti kelimesinin karşılığı: ⟪sığın|SIĞIN⟫
+UBERRIMO	(sıfat) iyi: aşırı, bol, çok (ayrıca: bereketli, bol)
+UBICA	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICABA	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICABAN	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICACION	(ad) konum: bir kişinin veya bir şeyin bir yerdeki durumu veya duruş şekli, pozisyon (ayrıca: durum, pozisyon)
+UBICACIONES	(ubicacion sözcüğünün çekimi) (ad) konum: bir kişinin veya bir şeyin bir yerdeki durumu veya duruş şekli, pozisyon (ayrıca: durum, pozisyon)
+UBICAMOS	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICAN	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICAR	(eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARA	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARAN	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARAS	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARE	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICAREMOS	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARIA	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARIAS	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICARON	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICAS	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICASTE	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBICO	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBIQUE	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBIQUEMOS	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBIQUEN	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UBIQUES	(ubicar sözcüğünün çekimi) (eylem) yer: bir şeyin kaplayabileceği boşluk, mekân
+UCRONIA	(ad) ucronia kelimesinin karşılığı: alternatif tarih
+UFANAR	(eylem) övünmek: Onurlanmak övünmek (ayrıca: caka satmak)
+UFANIA	(ad) kibir: Kendini başkalarından üstün tutma; benlik, böbür, gurur. (ayrıca: gurur, kurum)
+UFANO	(sıfat) kibirli: kendini büyük gören, büyüklenen, gururlu, mütekebbir (ayrıca: gururlu)
+UFANOS	(ufano sözcüğünün çekimi) (sıfat) kibirli: kendini büyük gören, büyüklenen, gururlu, mütekebbir (ayrıca: gururlu)
+UGROFINES	(sıfat) ugrofines kelimesinin karşılığı: Fin Ugor
+UIGUR	(ad) uygurca: Uygur Türkçesi
+UIGURES	(uigur sözcüğünün çekimi) (ad) uygurca: Uygur Türkçesi
+UIXAR	(eylem) işemek: İdrar torbasında biriken sidiği dışarı atmak; çiş yapmak; çöğdürmek. (ayrıca: siymek, çiş yapmak)
+ULCERA	(ad) ülser: Sindirim organlarında ve özellikle mide ile onikiparmak bağırsağında görülen yara, karha
+ULTERIOR	(sıfat) öte: Daha fazla, çok.
+ULTERIORES	(ulterior sözcüğünün çekimi) (sıfat) öte: Daha fazla, çok.
+ULTERIORMENTE	(zarf) bilahare: sonra (ayrıca: akabinde, arkadan)
+ULTIMA	(ultimar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMAMENTE	(zarf) geçenlerde: Yakın bir geçmişte, yakında. (ayrıca: son zamanlarda)
+ULTIMAMOS	(ultimar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMAR	(eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMAREMOS	(ultimar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMAS	(ultimar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMATUM	(ad) ültimatom: bir devletin başka bir devlete verdiği ve hiçbir tartışma veya karşı koymaya yer bırakmaksızın, tanıdığı sürede isteklerinin yerine getirilmesini istediği nota
+ULTIME	(ultimar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMEN	(ultimar sözcüğünün çekimi) (eylem) bitirmek: Bitmesini sağlamak; tamamlamak.
+ULTIMO	(sıfat) son: Artık ondan ötesi veya başkası olmayan.
+ULTIMOS	(ultimo sözcüğünün çekimi) (sıfat) son: Artık ondan ötesi veya başkası olmayan.
+ULTRA	(sıfat) ekstrem: uç (ayrıca: aşırıcı)
+ULTRAJA	(ultrajar sözcüğünün çekimi) (eylem) ultrajar kelimesinin karşılığı: hakaret etmek
+ULTRAJAN	(ultrajar sözcüğünün çekimi) (eylem) ultrajar kelimesinin karşılığı: hakaret etmek
+ULTRAJAR	(eylem) ultrajar kelimesinin karşılığı: hakaret etmek
+ULTRAJARON	(ultrajar sözcüğünün çekimi) (eylem) ultrajar kelimesinin karşılığı: hakaret etmek
+ULTRAJE	(ad) hakaret: onur kırma, onura dokunma (ayrıca: kabahat)
+ULTRAJEN	(ultrajar sözcüğünün çekimi) (eylem) ultrajar kelimesinin karşılığı: hakaret etmek
+ULTRAJES	(ad) çoğul çekimi: ultraje
+ULTRAJO	(ultrajar sözcüğünün çekimi) (eylem) ultrajar kelimesinin karşılığı: hakaret etmek
+ULTRAMAR	(ad) ultramar kelimesinin karşılığı: dış dünya
+ULTRAMARINO	(ad) ultramarino kelimesinin karşılığı: ⟪yiyecek|YİYECEK⟫
+ULTRAMARINOS	(ultramarino sözcüğünün çekimi) (ad) ultramarino kelimesinin karşılığı: ⟪yiyecek|YİYECEK⟫
+ULTRATERRENAL	(sıfat) yabancı: aileden, çevreden olmayan
+ULTRATERRENO	(sıfat) yabancı: bilinmeyen, tanınmayan
+ULULA	(ulular sözcüğünün çekimi) (eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+ULULABA	(ulular sözcüğünün çekimi) (eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+ULULAR	(eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+ULULARA	(ulular sözcüğünün çekimi) (eylem) ulumak: (insan) İniltili ses çıkararak boğuk boğuk ağlamak
+UMAMI	(sıfat) umami kelimesinin karşılığı: umami
+UMBRAL	(ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+UMBRALES	(umbral sözcüğünün çekimi) (ad) eşik: Başlangıç yeri, başlangıç noktası, yakını:
+UMBRIO	(sıfat) karanlık: Yasalara, töreye uygun olmayan. (ayrıca: arap)
+UNAIS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNAMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNAN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNAS	(ad) çoğul çekimi: una
+UNDECIMA	(undecimo sözcüğünün çekimi) (sıfat) undecimo kelimesinin karşılığı: on birinci
+UNDECIMO	(sıfat) undecimo kelimesinin karşılığı: on birinci
+UNDOSO	(sıfat) dalgalı: Belli dalga boylarını alabilen.
+UNE	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNEN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNES	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNGUENTO	(ad) unguento kelimesinin karşılığı: ⟪merhem|MERHEM⟫
+UNGUENTOS	(unguento sözcüğünün çekimi) (ad) unguento kelimesinin karşılığı: ⟪merhem|MERHEM⟫
+UNI	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIA	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIAMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIAN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIAS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNICA	(unico sözcüğünün çekimi) (sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan
+UNICAMENTE	(zarf) ancak: yalnızca anlamında, sınırlama bildiren bir söz (ayrıca: alt tarafı)
+UNICAS	(unico sözcüğünün çekimi) (sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan
+UNICELULAR	(sıfat) bir hücreli: Yapısı tek bir hücreden oluşan (hayvan veya bitki). (ayrıca: bir gözeli, tek hücreli)
+UNICIDAD	(ad) teklik: tek, bir olma durumu
+UNICO	(sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan
+UNICOS	(unico sözcüğünün çekimi) (sıfat) eşsiz: eşi benzeri olmayan veya eşi benzeri görülmemiş olan
+UNID	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIDA	(unido sözcüğünün çekimi) (sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIDAD	(ad) birlik: Dört vuruş değerindeki nota; dört dörtlük.
+UNIDADES	(unidad sözcüğünün çekimi) (ad) birlik: Dört vuruş değerindeki nota; dört dörtlük.
+UNIDAS	(unido sözcüğünün çekimi) (sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIDO	(sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIDOS	(unido sözcüğünün çekimi) (sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIERA	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIERAIS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIERAMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIERAN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIERAS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIERON	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIESE	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIESEMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIESEN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIESES	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIFICACION	(ad) birleştirme: birleştirmek işi, kombinasyon
+UNIFICADA	(unificado sözcüğünün çekimi) (sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIFICADAS	(unificado sözcüğünün çekimi) (sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIFICADO	(sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIFICADOS	(unificado sözcüğünün çekimi) (sıfat) birleşik: bir araya gelmiş, birleşmiş olan
+UNIFORME	(sıfat) homojen: Bütün terimleri aynı derecede olan (ayrıca: bir örnek, bağdaşık)
+UNILINGUE	(sıfat) tekdilli: Tek dil dil konuşan (kimse, topluluk)
+UNIMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIO	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNION	(ad) dernek: belli amaçlar için bir araya gelme, toplanma, deri (ayrıca: sendika)
+UNIONES	(ad) çoğul çekimi: unión
+UNIR	(eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRA	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRAN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRAS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRE	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIREIS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIREMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRIA	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRIAMOS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRIAN	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIRIAS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNISTE	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNISTEIS	(unir sözcüğünün çekimi) (eylem) birleşmek: kaynaşmak (ayrıca: katılmak)
+UNIVERSAL	(sıfat) evrensel: Dünya ölçüsünde, dünya çapında. Evrensel düşünüyor.
+UNIVERSALIDAD	(ad) bütünlük: bütün olma durumu, tamamiyet
+UNIVERSIDAD	(ad) üniversite: Bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim, öğretim, bilimsel araştırma ve yayın yapan fakülte, enstitü, yüksekokul vb. kuruluş ve birimlerden oluşan öğretim kurumu; darülfünun (ayrıca: darülfünun)
+UNIVERSIDADES	(universidad sözcüğünün çekimi) (ad) üniversite: Bilimsel özerkliğe ve kamu tüzel kişiliğine sahip, yüksek düzeyde eğitim, öğretim, bilimsel araştırma...
+UNIVERSITARIA	(universitario sözcüğünün çekimi) (ad) üniversiteli: üniversite öğrencisi (ayrıca: şakirt, talebe)
+UNIVERSITARIO	(ad) üniversiteli: üniversite öğrencisi (ayrıca: şakirt, talebe)
+UNIVERSITARIOS	(universitario sözcüğünün çekimi) (ad) üniversiteli: üniversite öğrencisi (ayrıca: şakirt, talebe)
+UNIVERSO	(zamir) dünya: dış çevre, ortam
+UNIVERSOS	(universo sözcüğünün çekimi) (zamir) dünya: dış çevre, ortam
+UNO	(sayı) bir: Herhangi bir varlığı belirsiz olarak gösteren sayı.
+UNTA	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTABA	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTAMOS	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTAN	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTAR	(eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTARA	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTARE	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTAREMOS	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTARIA	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTARON	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTAS	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTASTE	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTE	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTEN	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTES	(untar sözcüğünün çekimi) (eylem) sermek: göstermek amacıyla asmak veya yaymak (ayrıca: yaymak)
+UNTO	(ad) merhem: deriye sürülerek kullanılan, içinde birçok etkili madde bulunan, yumuşak ve koyu kıvamda, yağlı veya yağsız ilâç
+UNUNBIO	(ad) ununbiyum: atom numarası 112 olan bir kimyasal element, kopernikyum
+UNUNOCTIO	(ad) ununoktiyum: Atom numarası 118 olan bir kimyasal element.
+UPAR	(eylem) kaldırmak: alıp başka yere götürmek. (ayrıca: yükseltmek, beslemek)
+UPS	(ünlem) hayvah: (Sivas ağzı) eyvah
+UPUPA	(ad) çavuş kuşu: ibibikgiller familyasından bir kuş türü (ayrıca: ibibik, hüthüt)
+URA	(ad) ura kelimesinin karşılığı: ⟪koparma|KOPARMA⟫
+URANIO	(ad) uranio kelimesinin karşılığı: ⟪uranyum|URANYUM⟫
+URBANIDAD	(ad) incelik: ince davranış gösterme, zarafet, nezaket
+URBANIZACION	(ad) gelişme: gelişmek işi, inkişaf, neşvünema, tekâmül, evolüsyon (ayrıca: inkişaf, açınım)
+URBANIZACIONES	(urbanizacion sözcüğünün çekimi) (ad) gelişme: gelişmek işi, inkişaf, neşvünema, tekâmül, evolüsyon (ayrıca: inkişaf, açınım)
+URBANIZAR	(eylem) geliştirmek: gelişmesini sağlamak, gelişmesine yol açmak (ayrıca: açınmak)
+URDIDOR	(ad) urdidor kelimesinin karşılığı: ⟪düşünür|DÜŞÜNÜR⟫
+URDIMBRE	(ad) urdimbre kelimesinin karşılığı: ⟪arış|ARIŞ⟫, ⟪çözgü|ÇÖZGÜ⟫
+URDIMBRES	(urdimbre sözcüğünün çekimi) (ad) urdimbre kelimesinin karşılığı: ⟪arış|ARIŞ⟫, ⟪çözgü|ÇÖZGÜ⟫
+UREA	(ad) üre: Yapay reçine verniği ve tutkalı üretiminde kullanılan temel gereçlerden beyaz, billûrsu toz
+URETRA	(ad) üretra: idrar kesesinden başlayarak dışarıya kadar uzanan idrar yolunun son bölümü, idrar kesesini vücut dışına bağlayan kanal.
+URGENCIA	(ad) ivedilik: çabuk, hemen yapılma gerekliği, müstaceliyet, istical
+URGENTE	(sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel\n(ad) tez: çabuk (ön ad)
+URGENTES	(urgente sözcüğünün çekimi) (sıfat) acil: hemen yapılması gereken; ivedi, ivedili, evgin, müstacel
+URICO	(sıfat) urico kelimesinin karşılığı: idrarsal, üriner
+URINARIA	(urinario sözcüğünün çekimi) (sıfat) urinario kelimesinin karşılığı: idrarsal, üriner
+URINARIAS	(urinario sözcüğünün çekimi) (sıfat) urinario kelimesinin karşılığı: idrarsal, üriner
+URINARIO	(sıfat) urinario kelimesinin karşılığı: idrarsal, üriner
+URINARIOS	(urinario sözcüğünün çekimi) (sıfat) urinario kelimesinin karşılığı: idrarsal, üriner
+URO	(ad) uro kelimesinin karşılığı: yaban öküzü
+UROLOGIA	(ad) üroloji: Tıbbın; böbrek ve idrar yolu ve erkek üreme sistemine dair hastalıklarını inceleyen dalı; bevliye
+UROLOGO	(ad) ürolog: İdrar yolu hastalıkları hekimi, bevliyeci
+UROLOGOS	(urologo sözcüğünün çekimi) (ad) ürolog: İdrar yolu hastalıkları hekimi, bevliyeci
+UROS	(uro sözcüğünün çekimi) (ad) uro kelimesinin karşılığı: yaban öküzü
+URRACA	(ad) saksağan: Kargagillerden, karnı beyaz, kanatları ve kuyruğu kül rengi diğer yerleri parlak, kara, uzun kuyruklu kuş; alacakarga, alakarga, (Pica pica) (ayrıca: avrupa saksağanı)
+URRACAS	(urraca sözcüğünün çekimi) (ad) saksağan: Kargagillerden, karnı beyaz, kanatları ve kuyruğu kül rengi diğer yerleri parlak, kara, uzun kuyruklu...
+URSIDO	(ad) ayı: memelilerin etobur takımından, beş parmaklı, tabanlarına basarak yürüyen, yurdumuzda boz türü bulunan, iri gövdeli hayvan
+USA	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USABA	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USABAIS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USABAMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USABAN	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USABAS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USABILIDAD	(ad) kullanılabilirlik: insan tarafından yapılan şeylerin kolay kullanılabilmesi ve kolay öğrenilebilmesi]]
+USAD	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USADA	(usado sözcüğünün çekimi) (sıfat) yalama: sözünde durmayan (kimse) (ayrıca: aşınmış, yıpranmış)
+USADAS	(usado sözcüğünün çekimi) (sıfat) yalama: sözünde durmayan (kimse) (ayrıca: aşınmış, yıpranmış)
+USADO	(sıfat) yalama: sözünde durmayan (kimse) (ayrıca: aşınmış, yıpranmış)
+USADOR	(ad) kullanıcı: bir şeyi kullanan, kullanmakta olan
+USADOS	(usado sözcüğünün çekimi) (sıfat) yalama: sözünde durmayan (kimse) (ayrıca: aşınmış, yıpranmış)
+USAIS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USAMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USAN	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USANZA	(ad) kullanım: kullanma, yararlanma, tasarruf
+USAR	(eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek, istismar etmek
+USARA	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARAIS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARAMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARAN	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARAS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARE	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USAREIS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USAREMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARIA	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARIAMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARIAN	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARIAS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USARON	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USAS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USASE	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USASEMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USASEN	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USASES	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USASTE	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USASTEIS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USE	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USEIS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USEMOS	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USEN	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USES	(usar sözcüğünün çekimi) (eylem) kullanmak: amacına ulaşmak için birinden veya bir şeyden yararlanmak, onu amacına alet etmek, sömürmek,...
+USINA	(ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü. (ayrıca: fabrika, bitki)
+USINAS	(usina sözcüğünün çekimi) (ad) çiçek: Bir bitkinin, üreme organlarını taşıyan çoğu güzel kokulu, renkli bölümü. (ayrıca: fabrika, bitki)
+USO	(ad) fayda: yarar
+USOS	(uso sözcüğünün çekimi) (ad) fayda: yarar
+USTED	(zamir) siz: (kişi adılı): çokluk ikinci kişi zamiri ve bir kişiye saygı ve incelik belirtisi olarak kullanılan bir seslenme sözü, kişi adılı
+USTEDES	(zamir) sen: (kişi adılı): ikinci tekil şahısı gösteren söz (ayrıca: siz, size)
+USUAL	(sıfat) cari: geçerli olan, yürürlükteki (ayrıca: tabii, olağan)
+USUALES	(usual sözcüğünün çekimi) (sıfat) cari: geçerli olan, yürürlükteki (ayrıca: tabii, olağan)
+USUALMENTE	(zarf) çoğun: Genellikle. (ayrıca: çoğunlukla, genellikle)
+USUARIO	(ad) kullanıcı: bir şeyi kullanan, kullanmakta olan
+USUARIOS	(usuario sözcüğünün çekimi) (ad) kullanıcı: bir şeyi kullanan, kullanmakta olan
+USUFRUCTO	(ad) usufructo kelimesinin karşılığı: intifa hakkı
+USURA	(ad) tefecilik: tefecinin işi, yasal sınırın üzerinde aşırı faiz alarak borç para verme, faizcilik, murabaha, murabahacılık, faizcilik (ayrıca: faizcilik, murabahacılık)
+UTENSILIO	(ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne. (ayrıca: araç, aygıt)
+UTENSILIOS	(utensilio sözcüğünün çekimi) (ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne. (ayrıca: araç, aygıt)
+UTERO	(ad) utero kelimesinin karşılığı: döl yatağı
+UTEROS	(utero sözcüğünün çekimi) (ad) utero kelimesinin karşılığı: döl yatağı
+UTIL	(sıfat) faydalı: faydası olan (ayrıca: yararlı)\n(ad) alet: Bir el işini veya mekanik bir işi gerçekleştirmek için özel olarak yapılmış nesne. (ayrıca: araç, aygıt)
+UTILERIA	(ad) payanda: düşey bir taşıyıcıyı, binayı ya da tekneyi gerek dengede tutabilmek gerek devrilmesini, çökmesini ya da kaymasını engellemek amacıyla kullanılan ahşap ya da betondan göğüsleyici dayanak; destek (ayrıca: destek, aksesuar)
+UTILERIAS	(utileria sözcüğünün çekimi) (ad) payanda: düşey bir taşıyıcıyı, binayı ya da tekneyi gerek dengede tutabilmek gerek devrilmesini, çökmesini ya da...
+UTILES	(util sözcüğünün çekimi) (sıfat) faydalı: faydası olan (ayrıca: yararlı)
+UTILICE	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILICEIS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILICEMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILICEN	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILICES	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIDAD	(ad) fayda: yarar
+UTILIDADES	(utilidad sözcüğünün çekimi) (ad) fayda: yarar
+UTILITARIO	(ad) küçük: Makam, rütbe, derece bakımından daha aşağı olan kimse.
+UTILITARIOS	(utilitario sözcüğünün çekimi) (ad) küçük: Makam, rütbe, derece bakımından daha aşağı olan kimse.
+UTILITARISMO	(ad) utilitarismo kelimesinin karşılığı: ⟪faydacılık|FAYDACILIK⟫
+UTILIZA	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZABA	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZABAMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZABAN	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZABAS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZACION	(ad) fayda: yarar
+UTILIZAD	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAIS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAN	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAR	(eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARA	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARAMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARAN	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARAS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARE	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAREIS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAREMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARIA	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARIAMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARIAN	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARIAS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZARON	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZAS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZASE	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZASEMOS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZASEN	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZASTE	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZASTEIS	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILIZO	(utilizar sözcüğünün çekimi) (eylem) kullanmak: kişiyi hizmette bulundurmak, çalıştırmak (ayrıca: eskitmek)
+UTILLAJE	(ad) donanım: bir gemi direğine, yelkene veya başka bir parçaya bağlı bulunan halat ve makara gibi manevra araçları
+UTOPIA	(ad) ütopya: Gerçekleştirilmesi imkânsız tasarı veya düşünce.
+UTOPIAS	(utopia sözcüğünün çekimi) (ad) ütopya: Gerçekleştirilmesi imkânsız tasarı veya düşünce.
+UTOPICA	(utopico sözcüğünün çekimi) (sıfat) ütopik: Ütopyaya dayanan, ütopya ile ilgili.
+UTOPICAS	(utopico sözcüğünün çekimi) (sıfat) ütopik: Ütopyaya dayanan, ütopya ile ilgili.
+UTOPICO	(sıfat) ütopik: Ütopyaya dayanan, ütopya ile ilgili.
+UTOPICOS	(utopico sözcüğünün çekimi) (sıfat) ütopik: Ütopyaya dayanan, ütopya ile ilgili.
+UVA	(ad) üzüm: asmagiller (Vitaceae) familyasının Vitis cinsinden sarılyan bitki ve yeryüzünde kültürü yapılan en eski meyve türlerine verilen ad
+UVAS	(uva sözcüğünün çekimi) (ad) üzüm: asmagiller (Vitaceae) familyasının Vitis cinsinden sarılyan bitki ve yeryüzünde kültürü yapılan en eski...
+UVULA	(ad) uvula kelimesinin karşılığı: küçük dil
+UZBECO	(sıfat) özbekçe: Özbekçe yazılmış olan
+UZBECOS	(uzbeco sözcüğünün çekimi) (sıfat) özbekçe: Özbekçe yazılmış olan
+UÑA	(ad) tırnak: insanda ve birçok omurgalı hayvanda parmak uçlarının dış bölümünü örten boynuzsu tabaka
+UÑAS	(uña sözcüğünün çekimi) (ad) tırnak: insanda ve birçok omurgalı hayvanda parmak uçlarının dış bölümünü örten boynuzsu tabaka
+UÑETA	(ad) mızrap: Telli çalgıları çalmaya yarayan, kemik, maden, plastik veya özellikle kiraz ağacından yapılan alet; çalgıç, tezene, zahme], pena (ayrıca: plektrum)
